@@ -52,7 +52,7 @@ theme:
   colors:
     primary: "#0066FF"
     accent: "#00CCFF"
-  logo: /assets/logo.svg
+  logo: /assets/logo.png
   favicon: /assets/favicon.png
   fonts:
     heading: "Space Grotesk"
