@@ -1,0 +1,62 @@
+domain: coolnews.dev
+site_name: "CoolNews"
+site_tagline: "Tech News & Digital Trends"
+group: premium-ads
+active: true
+
+tracking:
+  ga4: "G-COOLNEWS1234"
+
+scripts_vars:
+  alpha_site_id: "coolnews-001"
+  alpha_zone: "technology"
+  interstitial_enabled: "true"
+
+brief:
+  audience: "Tech-savvy millennials and Gen-Z readers interested in the latest technology news, gadget reviews, and digital lifestyle trends"
+  tone: "Conversational, informative, and slightly opinionated — accessible to mainstream readers while maintaining technical credibility"
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - AI
+    - gadgets
+    - streaming
+    - cybersecurity
+  seo_keywords_focus:
+    - "tech news 2026"
+    - "best gadgets"
+    - "AI tools"
+    - "streaming devices"
+    - "cybersecurity tips"
+    - "smart home"
+  content_guidelines:
+    - "Lead with a compelling hook in the first paragraph"
+    - "Include at least one data point or statistic per article"
+    - "Use subheadings every 150-200 words for scannability"
+    - "End with a clear takeaway or call to action"
+    - "Avoid jargon without explanation — always define technical terms on first use"
+  review_percentage: 5
+  schedule:
+    frequency: "3/week"
+    days:
+      - Monday
+      - Wednesday
+      - Friday
+    time: "10:00"
+
+theme:
+  base: modern
+  colors:
+    primary: "#0066FF"
+    accent: "#00CCFF"
+  logo: /assets/logo.svg
+  favicon: /assets/favicon.png
+  fonts:
+    heading: "Space Grotesk"
+    body: "Inter"
+
+legal:
+  site_description: "technology news and digital trends"
