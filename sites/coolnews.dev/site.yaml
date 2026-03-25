@@ -58,5 +58,8 @@ theme:
     heading: "Space Grotesk"
     body: "Inter"
 
+preview_page:
+  enabled: true
+
 legal:
   site_description: "technology news and digital trends"
