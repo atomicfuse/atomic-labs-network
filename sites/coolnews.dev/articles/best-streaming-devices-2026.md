@@ -5,7 +5,7 @@ type: listicle
 status: published
 author: "Editorial Team"
 publishDate: "2026-03-17"
-featuredImage: /assets/images/streaming-devices-hero.jpg
+featuredImage: /assets/images/placeholder.png
 tags:
   - streaming
   - gadgets

@@ -5,7 +5,7 @@ type: how-to
 status: published
 author: "Editorial Team"
 publishDate: "2026-03-24"
-featuredImage: /assets/images/home-network-hero.jpg
+featuredImage: /assets/images/placeholder.png
 tags:
   - cybersecurity
   - smart home
