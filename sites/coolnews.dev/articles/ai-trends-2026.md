@@ -5,7 +5,7 @@ type: standard
 status: published
 author: "Editorial Team"
 publishDate: "2026-03-10"
-featuredImage: /assets/images/ai-trends-hero.jpg
+featuredImage: /assets/images/placeholder.png
 tags:
   - AI
   - machine learning
