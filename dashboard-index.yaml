@@ -13,19 +13,4 @@ sites:
     created_at: 2026-03-29T11:04:39.399Z
     pages_project: null
     zone_id: fac9291e596911a5c427903b4a77cf4f
-deleted:
-  - domain: coolnews.dev
-    company: ATL
-    vertical: Other
-    status: Ready
-    site_id: "4793326831854"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-03-29T14:08:46.488Z
-    created_at: 2026-03-29T14:08:46.488Z
-    pages_project: coolnews-dev
-    zone_id: 505b529c5928da452abb172f685d97a7
-    deleted_at: 2026-03-29T14:23:41.005Z
+deleted: []
