@@ -13,6 +13,7 @@ sites:
     created_at: 2026-03-29T11:04:39.399Z
     pages_project: null
     zone_id: fac9291e596911a5c427903b4a77cf4f
+deleted:
   - domain: coolnews.dev
     company: ATL
     vertical: Other
@@ -27,4 +28,4 @@ sites:
     created_at: 2026-03-29T14:08:46.488Z
     pages_project: coolnews-dev
     zone_id: 505b529c5928da452abb172f685d97a7
-deleted: []
+    deleted_at: 2026-03-29T14:23:41.005Z
