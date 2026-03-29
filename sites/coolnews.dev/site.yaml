@@ -43,7 +43,7 @@ brief:
       - Wednesday
       - Friday
     time: 10:00
-    articles_per_week: 5
+    articles_per_week: 2
     preferred_days:
       - Monday
       - Friday
