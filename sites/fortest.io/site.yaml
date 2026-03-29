@@ -1,0 +1,26 @@
+domain: fortest.io
+site_name: food atl
+site_tagline: null
+group: premium-ads
+active: true
+brief:
+  audience: cooking lovers, food lovers, recipes, food tips
+  tone: friendly
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Recipes.Tips
+  seo_keywords_focus: []
+  content_guidelines: []
+  review_percentage: 5
+  schedule:
+    articles_per_week: 2
+    preferred_days:
+      - Thursday
+      - Sunday
+    preferred_time: 10:00
+theme:
+  base: modern
