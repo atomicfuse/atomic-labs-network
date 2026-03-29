@@ -27,6 +27,7 @@ sites:
     created_at: 2026-03-29T11:04:39.399Z
     pages_project: coolnews-dev
     zone_id: 505b529c5928da452abb172f685d97a7
+deleted:
   - domain: foodfeedtestv1.io
     company: ATL
     vertical: Food & Drink
@@ -41,4 +42,4 @@ sites:
     created_at: 2026-03-29T13:41:51.103Z
     pages_project: null
     zone_id: null
-deleted: []
+    deleted_at: 2026-03-29T14:05:14.747Z
