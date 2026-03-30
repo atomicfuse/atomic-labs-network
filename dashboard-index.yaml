@@ -53,4 +53,22 @@ sites:
     preview_url: null
     saved_previews: null
     custom_domain: null
+  - domain: my-food.pages.dev
+    company: ATL
+    vertical: Food & Drink
+    status: Staging
+    site_id: "4868838962887"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-03-30T11:07:18.962Z
+    created_at: 2026-03-30T11:07:18.962Z
+    pages_project: my-food
+    zone_id: null
+    staging_branch: staging/my-food
+    preview_url: https://staging-my-food.my-food.pages.dev
+    saved_previews: null
+    custom_domain: null
 deleted: []
