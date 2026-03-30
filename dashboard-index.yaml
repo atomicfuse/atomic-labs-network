@@ -30,14 +30,14 @@ sites:
   - domain: test.io
     company: ATL
     vertical: Other
-    status: Preview
+    status: Ready
     site_id: "4855203886901"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-03-30T07:21:16.858Z
+    last_updated: 2026-03-30T07:21:46.056Z
     created_at: 2026-03-30T07:20:03.886Z
     pages_project: null
     zone_id: null
