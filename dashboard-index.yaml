@@ -35,6 +35,7 @@ sites:
     preview_url: null
     saved_previews: null
     custom_domain: null
+deleted:
   - domain: my-food.pages.dev
     company: ATL
     vertical: Food & Drink
@@ -53,4 +54,4 @@ sites:
     preview_url: https://staging-my-food.my-food.pages.dev
     saved_previews: null
     custom_domain: null
-deleted: []
+    deleted_at: 2026-03-30T11:20:56.632Z
