@@ -65,10 +65,10 @@ sites:
     fixed_ad: false
     last_updated: 2026-03-30T13:54:18.595Z
     created_at: 2026-03-30T13:54:18.595Z
-    pages_project: travel
+    pages_project: travel-6jj
     zone_id: null
     staging_branch: staging/travel
-    preview_url: https://staging-travel.travel.pages.dev
+    preview_url: https://staging-travel.travel-6jj.pages.dev
     saved_previews: null
     custom_domain: null
 deleted: []
