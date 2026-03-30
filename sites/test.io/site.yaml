@@ -1,0 +1,28 @@
+domain: test.io
+site_name: test
+site_tagline: null
+group: premium-ads
+active: true
+brief:
+  audience: food lovers
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics: []
+  seo_keywords_focus: []
+  content_guidelines: []
+  review_percentage: 5
+  schedule:
+    articles_per_week: 5
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: modern
