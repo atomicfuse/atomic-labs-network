@@ -143,24 +143,6 @@ sites:
     preview_url: https://staging-tamir.tamir.pages.dev
     saved_previews: null
     custom_domain: null
-  - domain: flower
-    company: ATL
-    vertical: Other
-    status: Staging
-    site_id: "4956756540033"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-03-31T11:32:36.540Z
-    created_at: 2026-03-31T11:32:36.540Z
-    pages_project: flower
-    zone_id: null
-    staging_branch: staging/flower
-    preview_url: https://staging-flower.flower-ekh.pages.dev
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: games
     company: ATL
@@ -181,3 +163,22 @@ deleted:
     saved_previews: null
     custom_domain: null
     deleted_at: 2026-03-31T08:33:58.275Z
+  - domain: flower
+    company: ATL
+    vertical: Other
+    status: Staging
+    site_id: "4956756540033"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-03-31T11:32:36.540Z
+    created_at: 2026-03-31T11:32:36.540Z
+    pages_project: flower
+    zone_id: null
+    staging_branch: staging/flower
+    preview_url: https://staging-flower.flower-ekh.pages.dev
+    saved_previews: null
+    custom_domain: null
+    deleted_at: 2026-03-31T11:59:31.924Z
