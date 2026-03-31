@@ -101,10 +101,10 @@ sites:
     fixed_ad: false
     last_updated: 2026-03-31T07:51:51.725Z
     created_at: 2026-03-31T07:51:51.725Z
-    pages_project: travel-test
+    pages_project: travel-test-3pa
     zone_id: null
     staging_branch: staging/travel-test
-    preview_url: https://staging-travel-test.travel-test.pages.dev
+    preview_url: https://staging-travel-test.travel-test-3pa.pages.dev
     saved_previews: null
     custom_domain: null
 deleted: []
