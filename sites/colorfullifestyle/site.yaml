@@ -1,0 +1,35 @@
+domain: colorfullifestyle
+site_name: Colorfull Lifestyle
+site_tagline: null
+pages_project: colorfullifestyle
+group: premium-ads
+active: true
+brief:
+  audience: ""
+  tone: friendly
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Health & Wellness
+    - Home & Living
+    - Personal Growth
+    - Style & Fashion
+  seo_keywords_focus: []
+  content_guidelines: []
+  review_percentage: 5
+  schedule:
+    articles_per_week: 5
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: classic
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
