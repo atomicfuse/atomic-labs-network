@@ -20,6 +20,9 @@ brief:
   seo_keywords_focus: []
   content_guidelines: []
   review_percentage: 5
+  vertical: Food
+  audience_type: any
+  language: EN
   schedule:
     articles_per_week: 2
     preferred_days:
