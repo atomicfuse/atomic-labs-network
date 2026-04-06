@@ -53,4 +53,22 @@ sites:
     preview_url: https://staging-colorfullifestyle.colorfullifestyle.pages.dev
     saved_previews: null
     custom_domain: null
+  - domain: goodfoodatl
+    company: ATL
+    vertical: Food & Drink
+    status: Staging
+    site_id: "5467707228818"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-04-06T09:28:27.228Z
+    created_at: 2026-04-06T09:28:27.228Z
+    pages_project: goodfoodatl
+    zone_id: null
+    staging_branch: staging/goodfoodatl
+    preview_url: https://staging-goodfoodatl.goodfoodatl.pages.dev
+    saved_previews: null
+    custom_domain: null
 deleted: []
