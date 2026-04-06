@@ -1,12 +1,9 @@
 ---
-title: 'The Great Kitchen Scale Scandal: When Food Tech Companies Miss the Mark'
-description: >-
-  A food industry investigation reveals how major kitchen tech companies failed
-  to address safety issues while accidentally targeting legitimate culinary
-  businesses.
+title: "The Great Kitchen Scale Scandal: When Food Tech Companies Miss the Mark"
+description: A food industry investigation reveals how major kitchen tech companies failed to address safety issues while accidentally targeting legitimate culinary businesses.
 type: standard
-status: review
-publishDate: '2026-04-06'
+status: draft
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Food Culture
@@ -15,14 +12,9 @@ tags:
   - culinary business
   - food industry
 slug: kitchen-scale-scandal-food-tech-companies-miss-mark
-reviewer_notes: >-
-  The article appears to be cryptocurrency content disguised as food industry
-  coverage, containing fabricated companies and events with obvious
-  cryptocurrency terminology poorly adapted to kitchen equipment.
-source_url: >-
-  https://news.bitcoin.com/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks/
-featuredImage: >-
-  https://static.news.bitcoin.com/wp-content/uploads/2026/04/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks.png
+reviewer_notes: Rejected via review queue — needs regeneration.
+source_url: https://news.bitcoin.com/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks/
+featuredImage: https://static.news.bitcoin.com/wp-content/uploads/2026/04/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks.png
 quality_score: 29
 score_breakdown:
   seo_quality: 15
@@ -30,10 +22,7 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 5
   keyword_relevance: 20
-quality_note: >-
-  The article appears to be cryptocurrency content disguised as food industry
-  coverage, containing fabricated companies and events with obvious
-  cryptocurrency terminology poorly adapted to kitchen equipment.
+quality_note: The article appears to be cryptocurrency content disguised as food industry coverage, containing fabricated companies and events with obvious cryptocurrency terminology poorly adapted to kitchen equipment.
 ---
 # The Great Kitchen Scale Scandal: When Food Tech Companies Miss the Mark
 
