@@ -1,12 +1,9 @@
 ---
 title: 30 Surprising Celebrity Nepotism Stories You Never Knew About
-description: >-
-  Discover 30 celebrities who made it big with help from their famous parents.
-  These surprising family connections might change how you see Hollywood
-  success.
+description: Discover 30 celebrities who made it big with help from their famous parents. These surprising family connections might change how you see Hollywood success.
 type: listicle
-status: review
-publishDate: '2026-04-06'
+status: draft
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Style & Fashion
@@ -14,12 +11,9 @@ tags:
   - entertainment industry
   - famous families
 slug: celebrity-nepotism-famous-parents-you-didnt-know
-reviewer_notes: >-
-  Article is significantly too short at 372 words and fails to deliver on the
-  promised '30 celebrity nepotism stories' in the title, making it misleading
-  clickbait.
-source_url: 'https://www.youtube.com/watch?v=40IiDyhYz0A'
-featuredImage: 'https://i.ytimg.com/vi/40IiDyhYz0A/maxresdefault.jpg?v=69c71f5e'
+reviewer_notes: Rejected via review queue — needs regeneration.
+source_url: https://www.youtube.com/watch?v=40IiDyhYz0A
+featuredImage: https://i.ytimg.com/vi/40IiDyhYz0A/maxresdefault.jpg?v=69c71f5e
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -27,10 +21,7 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: >-
-  Article is significantly too short at 372 words and fails to deliver on the
-  promised '30 celebrity nepotism stories' in the title, making it misleading
-  clickbait.
+quality_note: Article is significantly too short at 372 words and fails to deliver on the promised '30 celebrity nepotism stories' in the title, making it misleading clickbait.
 ---
 # 30 Surprising Celebrity Nepotism Stories You Never Knew About
 
