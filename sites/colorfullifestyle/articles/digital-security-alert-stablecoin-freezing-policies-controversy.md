@@ -1,14 +1,9 @@
 ---
-title: >-
-  Digital Security Alert: Major Stablecoin Company Faces Criticism Over Freezing
-  Policies
-description: >-
-  A crypto investigator reveals concerning patterns in how a major digital
-  currency company handles security freezes, affecting both criminals and
-  legitimate businesses.
+title: "Digital Security Alert: Major Stablecoin Company Faces Criticism Over Freezing Policies"
+description: A crypto investigator reveals concerning patterns in how a major digital currency company handles security freezes, affecting both criminals and legitimate businesses.
 type: standard
-status: review
-publishDate: '2026-04-06'
+status: draft
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Personal Growth
@@ -17,14 +12,9 @@ tags:
   - cryptocurrency safety
   - consumer protection
 slug: digital-security-alert-stablecoin-freezing-policies-controversy
-reviewer_notes: >-
-  Well-written article with good tone and structure, but focuses heavily on
-  cryptocurrency/fintech topics that don't align with the lifestyle site's core
-  themes of wellness, home, personal growth, and fashion.
-source_url: >-
-  https://news.bitcoin.com/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks/
-featuredImage: >-
-  https://static.news.bitcoin.com/wp-content/uploads/2026/04/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks.png
+reviewer_notes: Rejected via review queue — needs regeneration.
+source_url: https://news.bitcoin.com/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks/
+featuredImage: https://static.news.bitcoin.com/wp-content/uploads/2026/04/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks.png
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -32,10 +22,7 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 60
   keyword_relevance: 40
-quality_note: >-
-  Well-written article with good tone and structure, but focuses heavily on
-  cryptocurrency/fintech topics that don't align with the lifestyle site's core
-  themes of wellness, home, personal growth, and fashion.
+quality_note: Well-written article with good tone and structure, but focuses heavily on cryptocurrency/fintech topics that don't align with the lifestyle site's core themes of wellness, home, personal growth, and fashion.
 ---
 ![Digital Security Alert: Major Stablecoin Company Faces Criticism Over Freezing Policies](https://static.news.bitcoin.com/wp-content/uploads/2026/04/usdc-freeze-controversy-zachxbt-says-circle-froze-16-legitimate-wallets-missed-real-hacks.png)
 
