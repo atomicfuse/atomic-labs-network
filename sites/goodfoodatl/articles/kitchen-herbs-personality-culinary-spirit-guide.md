@@ -1,12 +1,9 @@
 ---
-title: 'Discover Your Culinary Spirit: Which Kitchen Herb Matches Your Energy?'
-description: >-
-  From protective rosemary to resilient witch hazel, explore how common kitchen
-  herbs reflect different personality types and cooking energies in this fun
-  culinary personality guide.
+title: "Discover Your Culinary Spirit: Which Kitchen Herb Matches Your Energy?"
+description: From protective rosemary to resilient witch hazel, explore how common kitchen herbs reflect different personality types and cooking energies in this fun culinary personality guide.
 type: standard
-status: review
-publishDate: '2026-04-06'
+status: published
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Food Culture
@@ -15,13 +12,9 @@ tags:
   - personality
   - cooking
 slug: kitchen-herbs-personality-culinary-spirit-guide
-reviewer_notes: >-
-  Well-written article with excellent tone and topic relevance, but severely
-  penalized for being too short at only 616 words versus the 1000-word target.
-source_url: >-
-  https://www.buzzfeed.com/nocturnalsavannah/which-of-these-10-witchy-kitchen-herbs-matches-you
-featuredImage: >-
-  https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/15/thumb/MxpOjt5g7.jpg?crop=1245:830;3,0&resize=1250:830
+reviewer_notes: Approved via review queue.
+source_url: https://www.buzzfeed.com/nocturnalsavannah/which-of-these-10-witchy-kitchen-herbs-matches-you
+featuredImage: https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/15/thumb/MxpOjt5g7.jpg?crop=1245:830;3,0&resize=1250:830
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -29,9 +22,7 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 75
   keyword_relevance: 90
-quality_note: >-
-  Well-written article with excellent tone and topic relevance, but severely
-  penalized for being too short at only 616 words versus the 1000-word target.
+quality_note: Well-written article with excellent tone and topic relevance, but severely penalized for being too short at only 616 words versus the 1000-word target.
 ---
 ![Featured image](https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/15/thumb/MxpOjt5g7.jpg?crop=1245:830;3,0&resize=1250:830)
 
