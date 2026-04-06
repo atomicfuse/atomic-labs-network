@@ -151,6 +151,7 @@ jobs:
         env:
           SITE_DOMAIN: ${{ matrix.site }}
           NETWORK_DATA_PATH: ${{ github.workspace }}
+          STAGING: ${{ startsWith(github.ref_name, 'staging/') && 'true' || 'false' }}
         run: pnpm build
 
       - name: Deploy to Cloudflare Pages
