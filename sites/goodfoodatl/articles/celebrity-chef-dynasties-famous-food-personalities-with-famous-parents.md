@@ -1,14 +1,9 @@
 ---
-title: >-
-  Celebrity Chef Dynasties: Famous Food Personalities with Equally Famous
-  Parents
-description: >-
-  Discover surprising family connections in the culinary world where famous
-  chefs and food personalities follow in their equally celebrated parents'
-  footsteps.
+title: "Celebrity Chef Dynasties: Famous Food Personalities with Equally Famous Parents"
+description: Discover surprising family connections in the culinary world where famous chefs and food personalities follow in their equally celebrated parents' footsteps.
 type: listicle
-status: review
-publishDate: '2026-04-06'
+status: draft
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Food Culture
@@ -17,12 +12,9 @@ tags:
   - food personalities
   - family traditions
 slug: celebrity-chef-dynasties-famous-food-personalities-with-famous-parents
-reviewer_notes: >-
-  Article is significantly too short at 366 words and lacks specific examples
-  despite promising to reveal celebrity chef dynasties, making it feel
-  incomplete and clickbait-y.
-source_url: 'https://www.youtube.com/watch?v=40IiDyhYz0A'
-featuredImage: 'https://i.ytimg.com/vi/40IiDyhYz0A/maxresdefault.jpg?v=69c71f5e'
+reviewer_notes: Rejected via review queue — needs regeneration.
+source_url: https://www.youtube.com/watch?v=40IiDyhYz0A
+featuredImage: https://i.ytimg.com/vi/40IiDyhYz0A/maxresdefault.jpg?v=69c71f5e
 quality_score: 57
 score_breakdown:
   seo_quality: 45
@@ -30,10 +22,7 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 60
   keyword_relevance: 80
-quality_note: >-
-  Article is significantly too short at 366 words and lacks specific examples
-  despite promising to reveal celebrity chef dynasties, making it feel
-  incomplete and clickbait-y.
+quality_note: Article is significantly too short at 366 words and lacks specific examples despite promising to reveal celebrity chef dynasties, making it feel incomplete and clickbait-y.
 ---
 # Celebrity Chef Dynasties: Famous Food Personalities with Equally Famous Parents
 
