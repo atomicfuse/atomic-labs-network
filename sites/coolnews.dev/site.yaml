@@ -35,6 +35,9 @@ brief:
     - Use subheadings every 150-200 words for scannability
     - End with a clear takeaway or call to action
     - Avoid jargon without explanation — always define technical terms on first use
+  vertical: Tech
+  audience_type: Adult 25-44
+  language: EN
   review_percentage: 5
   schedule:
     frequency: 3/week
