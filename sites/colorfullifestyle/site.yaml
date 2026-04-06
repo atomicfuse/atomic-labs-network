@@ -28,6 +28,7 @@ brief:
       - Wednesday
       - Thursday
       - Friday
+      - Saturday
     preferred_time: 10:00
 theme:
   base: classic
