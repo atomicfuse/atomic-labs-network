@@ -1,12 +1,9 @@
 ---
-title: 'Test Your Food Preferences: A Fun Quiz That Reveals Your Pet Personality'
-description: >-
-  Take this entertaining food quiz with tough 'would you rather' choices and
-  discover whether your culinary preferences align more with dog or cat
-  personality traits.
+title: "Test Your Food Preferences: A Fun Quiz That Reveals Your Pet Personality"
+description: Take this entertaining food quiz with tough 'would you rather' choices and discover whether your culinary preferences align more with dog or cat personality traits.
 type: standard
-status: review
-publishDate: '2026-04-06'
+status: published
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Food Culture
@@ -15,14 +12,9 @@ tags:
   - personality
   - entertainment
 slug: food-preferences-quiz-dog-cat-personality
-reviewer_notes: >-
-  The article maintains a friendly, engaging tone and covers food culture well,
-  but falls short on word count and SEO optimization with a lengthy, unfocused
-  title and missing meta description.
-source_url: >-
-  https://www.buzzfeed.com/nicolebeck/make-some-super-hard-food-choices-in-this-would-yo
-featuredImage: >-
-  https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/19/thumb/6Auis8Kao.jpg?crop=1245:830;3,0&resize=1250:830
+reviewer_notes: Approved via review queue.
+source_url: https://www.buzzfeed.com/nicolebeck/make-some-super-hard-food-choices-in-this-would-yo
+featuredImage: https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/19/thumb/6Auis8Kao.jpg?crop=1245:830;3,0&resize=1250:830
 quality_score: 72
 score_breakdown:
   seo_quality: 45
@@ -30,10 +22,7 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: >-
-  The article maintains a friendly, engaging tone and covers food culture well,
-  but falls short on word count and SEO optimization with a lengthy, unfocused
-  title and missing meta description.
+quality_note: The article maintains a friendly, engaging tone and covers food culture well, but falls short on word count and SEO optimization with a lengthy, unfocused title and missing meta description.
 ---
 ![Food choices quiz banner](https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/19/thumb/6Auis8Kao.jpg?crop=1245:830;3,0&resize=1250:830)
 

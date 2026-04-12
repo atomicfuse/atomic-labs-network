@@ -1,11 +1,9 @@
 ---
 title: Take a Culinary Journey Around the World to Discover Your Vegetable Soulmate
-description: >-
-  Travel the globe through food and discover which vegetable truly represents
-  your culinary personality in this fun interactive quiz.
+description: Travel the globe through food and discover which vegetable truly represents your culinary personality in this fun interactive quiz.
 type: standard
-status: review
-publishDate: '2026-04-06'
+status: published
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Food Culture
@@ -14,13 +12,9 @@ tags:
   - global cuisine
   - food preferences
 slug: culinary-journey-discover-vegetable-soulmate-quiz
-reviewer_notes: >-
-  Well-written article with excellent tone and relevance, but severely penalized
-  for being too short at only 469 words versus the 1000-word target.
-source_url: >-
-  https://www.buzzfeed.com/hazelyxlee/go-around-the-globe-and-well-guess-your-favourite
-featuredImage: >-
-  https://img.buzzfeed.com/buzzfeed-static/static/2026-04/02/16/thumb/_GypfQJe7.jpg?crop=1245:830;3,0&resize=1250:830
+reviewer_notes: Approved via review queue.
+source_url: https://www.buzzfeed.com/hazelyxlee/go-around-the-globe-and-well-guess-your-favourite
+featuredImage: https://img.buzzfeed.com/buzzfeed-static/static/2026-04/02/16/thumb/_GypfQJe7.jpg?crop=1245:830;3,0&resize=1250:830
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -28,9 +22,7 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: >-
-  Well-written article with excellent tone and relevance, but severely penalized
-  for being too short at only 469 words versus the 1000-word target.
+quality_note: Well-written article with excellent tone and relevance, but severely penalized for being too short at only 469 words versus the 1000-word target.
 ---
 Ever wondered if your vegetable preferences reveal something deeper about your personality? Pack your bags for a virtual culinary adventure that will take you around the world while uncovering your true vegetable match!
 
