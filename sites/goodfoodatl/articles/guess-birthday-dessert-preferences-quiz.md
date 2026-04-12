@@ -1,13 +1,9 @@
 ---
-title: >-
-  Can We Guess Your Birthday Through Your Dessert Preferences? This Sweet Quiz
-  Will Tell
-description: >-
-  Take our fun dessert quiz and see if we can predict your birth date based on
-  your sweet treat choices from A to Z!
+title: Can We Guess Your Birthday Through Your Dessert Preferences? This Sweet Quiz Will Tell
+description: Take our fun dessert quiz and see if we can predict your birth date based on your sweet treat choices from A to Z!
 type: standard
-status: review
-publishDate: '2026-04-06'
+status: published
+publishDate: 2026-04-06
 author: Editorial Team
 tags:
   - Food Culture
@@ -16,14 +12,9 @@ tags:
   - sweets
   - birthday
 slug: guess-birthday-dessert-preferences-quiz
-reviewer_notes: >-
-  While the tone and topic alignment are strong, the article suffers from being
-  too short at 511 words and lacks proper SEO optimization with a lengthy title
-  and missing meta description length.
-source_url: >-
-  https://www.buzzfeed.com/hazelyxlee/pick-a-dessert-per-alphabet-and-well-guess-your-b
-featuredImage: >-
-  https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/15/thumb/kuKGr0e28.jpg?crop=1245:830;3,0&resize=1250:830
+reviewer_notes: Approved via review queue.
+source_url: https://www.buzzfeed.com/hazelyxlee/pick-a-dessert-per-alphabet-and-well-guess-your-b
+featuredImage: https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/15/thumb/kuKGr0e28.jpg?crop=1245:830;3,0&resize=1250:830
 quality_score: 63
 score_breakdown:
   seo_quality: 45
@@ -31,10 +22,7 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 75
   keyword_relevance: 80
-quality_note: >-
-  While the tone and topic alignment are strong, the article suffers from being
-  too short at 511 words and lacks proper SEO optimization with a lengthy title
-  and missing meta description length.
+quality_note: While the tone and topic alignment are strong, the article suffers from being too short at 511 words and lacks proper SEO optimization with a lengthy title and missing meta description length.
 ---
 ![Featured dessert quiz image](https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/15/thumb/kuKGr0e28.jpg?crop=1245:830;3,0&resize=1250:830)
 
