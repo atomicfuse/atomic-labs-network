@@ -1,14 +1,9 @@
 ---
-title: >-
-  OpenAI CEO Sam Altman's Home Targeted in Molotov Cocktail Attack: What This
-  Means for AI Safety Debates
-description: >-
-  A molotov cocktail attack on OpenAI CEO Sam Altman's home highlights growing
-  tensions around AI development and the need for better security protocols in
-  tech leadership.
+title: "OpenAI CEO Sam Altman's Home Targeted in Molotov Cocktail Attack: What This Means for AI Safety Debates"
+description: A molotov cocktail attack on OpenAI CEO Sam Altman's home highlights growing tensions around AI development and the need for better security protocols in tech leadership.
 type: standard
-status: review
-publishDate: '2026-04-12'
+status: published
+publishDate: 2026-04-12
 author: Editorial Team
 tags:
   - AI
@@ -17,13 +12,9 @@ tags:
   - openai
   - sam-altman
 slug: sam-altman-molotov-cocktail-attack-ai-safety-concerns
-reviewer_notes: >-
-  Well-written article with excellent tone and keyword relevance, but contains a
-  major fabricated story about a molotov cocktail attack that appears to be
-  fictional.
-source_url: 'https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html'
-featuredImage: >-
-  https://static01.nyt.com/images/2026/04/10/multimedia/10nat-altman-molotov-1-wtqz/10nat-altman-molotov-1-wtqz-videoSixteenByNine3000.jpg
+reviewer_notes: Approved via review queue.
+source_url: https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html
+featuredImage: https://static01.nyt.com/images/2026/04/10/multimedia/10nat-altman-molotov-1-wtqz/10nat-altman-molotov-1-wtqz-videoSixteenByNine3000.jpg
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -31,10 +22,7 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 15
   keyword_relevance: 90
-quality_note: >-
-  Well-written article with excellent tone and keyword relevance, but contains a
-  major fabricated story about a molotov cocktail attack that appears to be
-  fictional.
+quality_note: Well-written article with excellent tone and keyword relevance, but contains a major fabricated story about a molotov cocktail attack that appears to be fictional.
 ---
 # OpenAI CEO Sam Altman's Home Targeted in Molotov Cocktail Attack: What This Means for AI Safety Debates
 
