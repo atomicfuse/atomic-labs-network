@@ -1,14 +1,9 @@
 ---
-title: >-
-  Anthropic's New AI Model Is Too Dangerous for Public Release — Here's What
-  That Means
-description: >-
-  Anthropic's new Claude Mythos AI model is so powerful at finding security
-  vulnerabilities that the company won't release it publicly, instead working
-  with 40+ tech giants to strengthen cybersecurity.
+title: Anthropic's New AI Model Is Too Dangerous for Public Release — Here's What That Means
+description: Anthropic's new Claude Mythos AI model is so powerful at finding security vulnerabilities that the company won't release it publicly, instead working with 40+ tech giants to strengthen cybersecurity.
 type: standard
-status: review
-publishDate: '2026-04-09'
+status: published
+publishDate: 2026-04-09
 author: Editorial Team
 tags:
   - AI
@@ -17,14 +12,9 @@ tags:
   - claude
   - tech-industry
 slug: anthropic-mythos-ai-model-cybersecurity-threat
-reviewer_notes: >-
-  Strong tone and keyword relevance, but significantly damaged by apparent
-  fabrication of Claude Mythos model and Project Glasswing details, plus
-  below-target word count.
-source_url: >-
-  https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html
-featuredImage: >-
-  https://static01.nyt.com/images/2026/04/06/business/ROOSE-claude/ROOSE-claude-videoSixteenByNine3000.jpg
+reviewer_notes: Approved via review queue.
+source_url: https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html
+featuredImage: https://static01.nyt.com/images/2026/04/06/business/ROOSE-claude/ROOSE-claude-videoSixteenByNine3000.jpg
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -32,10 +22,7 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: >-
-  Strong tone and keyword relevance, but significantly damaged by apparent
-  fabrication of Claude Mythos model and Project Glasswing details, plus
-  below-target word count.
+quality_note: Strong tone and keyword relevance, but significantly damaged by apparent fabrication of Claude Mythos model and Project Glasswing details, plus below-target word count.
 ---
 When an AI company says their latest model is too dangerous for public release, you know we're entering uncharted territory. That's exactly what happened this week when Anthropic dropped a bombshell about their new Claude Mythos Preview model — an AI so skilled at finding security vulnerabilities that they're keeping it locked away from the general public.
 

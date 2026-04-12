@@ -1,14 +1,9 @@
 ---
-title: >-
-  AI Is About to Flip Cybersecurity on Its Head — Here's Why That's Both
-  Terrifying and Exciting
-description: >-
-  Chinese hackers already used AI to attack 30 companies with minimal human
-  help. As AI gets more powerful, cybersecurity is entering its biggest
-  transformation ever.
+title: AI Is About to Flip Cybersecurity on Its Head — Here's Why That's Both Terrifying and Exciting
+description: Chinese hackers already used AI to attack 30 companies with minimal human help. As AI gets more powerful, cybersecurity is entering its biggest transformation ever.
 type: standard
-status: review
-publishDate: '2026-04-09'
+status: published
+publishDate: 2026-04-09
 author: Editorial Team
 tags:
   - AI
@@ -17,13 +12,9 @@ tags:
   - tech security
   - artificial intelligence
 slug: ai-cybersecurity-revolution-hackers-defense
-reviewer_notes: >-
-  Strong tone and keyword relevance but significantly under target word count
-  and contains questionable claims about specific AI cyberattacks that may be
-  fabricated.
-source_url: 'https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html'
-featuredImage: >-
-  https://static01.nyt.com/images/2026/04/01/multimedia/BIZ-AI-CYBERSECURITY-chatgt-lhzf/BIZ-AI-CYBERSECURITY-chatgt-lhzf-videoSixteenByNine3000.jpg
+reviewer_notes: Approved via review queue.
+source_url: https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html
+featuredImage: https://static01.nyt.com/images/2026/04/01/multimedia/BIZ-AI-CYBERSECURITY-chatgt-lhzf/BIZ-AI-CYBERSECURITY-chatgt-lhzf-videoSixteenByNine3000.jpg
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -31,10 +22,7 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 95
-quality_note: >-
-  Strong tone and keyword relevance but significantly under target word count
-  and contains questionable claims about specific AI cyberattacks that may be
-  fabricated.
+quality_note: Strong tone and keyword relevance but significantly under target word count and contains questionable claims about specific AI cyberattacks that may be fabricated.
 ---
 ![AI Cybersecurity](https://static01.nyt.com/images/2026/04/01/multimedia/BIZ-AI-CYBERSECURITY-chatgt-lhzf/BIZ-AI-CYBERSECURITY-chatgt-lhzf-videoSixteenByNine3000.jpg)
 

@@ -1,11 +1,9 @@
 ---
 title: Gen Z Uses AI Daily But Growing Anger Reveals a Trust Crisis
-description: >-
-  Half of Gen Z uses AI regularly but their feelings are souring fast. New
-  Gallup data shows hope dropping 9 points while anger rises among young adults.
+description: Half of Gen Z uses AI regularly but their feelings are souring fast. New Gallup data shows hope dropping 9 points while anger rises among young adults.
 type: standard
-status: review
-publishDate: '2026-04-09'
+status: published
+publishDate: 2026-04-09
 author: Editorial Team
 tags:
   - AI
@@ -14,12 +12,9 @@ tags:
   - digital-attitudes
   - technology-adoption
 slug: gen-z-ai-usage-anger-trust-crisis-2026-study
-reviewer_notes: >-
-  Strong tone and relevance but significantly under target word count at 525
-  words, which severely impacts the overall quality score.
-source_url: 'https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html'
-featuredImage: >-
-  https://static01.nyt.com/images/2026/04/07/multimedia/07GENZ-AI-SENTIMENT-lktp/07GENZ-AI-SENTIMENT-lktp-videoSixteenByNineJumbo1600.jpg
+reviewer_notes: Approved via review queue.
+source_url: https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html
+featuredImage: https://static01.nyt.com/images/2026/04/07/multimedia/07GENZ-AI-SENTIMENT-lktp/07GENZ-AI-SENTIMENT-lktp-videoSixteenByNineJumbo1600.jpg
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,9 +22,7 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: >-
-  Strong tone and relevance but significantly under target word count at 525
-  words, which severely impacts the overall quality score.
+quality_note: Strong tone and relevance but significantly under target word count at 525 words, which severely impacts the overall quality score.
 ---
 ![Gen Z AI sentiment study](https://static01.nyt.com/images/2026/04/07/multimedia/07GENZ-AI-SENTIMENT-lktp/07GENZ-AI-SENTIMENT-lktp-videoSixteenByNineJumbo1600.jpg)
 
