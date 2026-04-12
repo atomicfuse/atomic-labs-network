@@ -17,6 +17,7 @@ sites:
     preview_url: null
     saved_previews: null
     custom_domain: null
+deleted:
   - domain: coolnews.dev
     company: ATL
     vertical: Other
@@ -35,4 +36,4 @@ sites:
     preview_url: https://staging-coolnews-dev.coolnews-dev.pages.dev
     saved_previews: null
     custom_domain: null
-deleted: []
+    deleted_at: 2026-04-12T12:16:25.408Z
