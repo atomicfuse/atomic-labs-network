@@ -17,6 +17,24 @@ sites:
     preview_url: null
     saved_previews: null
     custom_domain: null
+  - domain: coolnews.dev
+    company: ATL
+    vertical: Other
+    status: New
+    site_id: "4782279795815"
+    exclusivity: null
+    ob_epid: null
+    ga_info: G-COOLNEWS1234
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-04-12T11:20:57.168Z
+    created_at: 2026-03-29T11:04:39.399Z
+    pages_project: coolnews-dev
+    zone_id: 505b529c5928da452abb172f685d97a7
+    staging_branch: staging/coolnews-dev
+    preview_url: https://staging-coolnews-dev.coolnews-dev.pages.dev
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: about-science
     company: ATL
@@ -37,22 +55,3 @@ deleted:
     saved_previews: null
     custom_domain: null
     deleted_at: 2026-04-12T11:20:28.120Z
-  - domain: coolnews.dev
-    company: ATL
-    vertical: Other
-    status: Ready
-    site_id: "4782279795815"
-    exclusivity: null
-    ob_epid: null
-    ga_info: G-COOLNEWS1234
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-03-31T14:14:37.232Z
-    created_at: 2026-03-29T11:04:39.399Z
-    pages_project: coolnews-dev
-    zone_id: 505b529c5928da452abb172f685d97a7
-    staging_branch: staging/coolnews-dev
-    preview_url: https://staging-coolnews-dev.coolnews-dev.pages.dev
-    saved_previews: null
-    custom_domain: null
-    deleted_at: 2026-04-12T11:20:39.973Z
