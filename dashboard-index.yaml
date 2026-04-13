@@ -27,12 +27,12 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-04-13T13:22:47.437Z
+    last_updated: 2026-04-13T20:07:38.487Z
     created_at: 2026-04-13T07:03:24.502Z
     pages_project: coolnews-atl
     zone_id: 505b529c5928da452abb172f685d97a7
     staging_branch: staging/coolnews-atl
-    preview_url: https://staging-coolnews-atl.coolnews-atl.pages.dev
+    preview_url: https://4ee848b1.coolnews-atl.pages.dev
     saved_previews: null
     custom_domain: null
   - domain: coolnews.dev
