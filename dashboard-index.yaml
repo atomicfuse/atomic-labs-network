@@ -35,4 +35,22 @@ sites:
     preview_url: null
     saved_previews: null
     custom_domain: null
+  - domain: coolnews-atl
+    company: ATL
+    vertical: News
+    status: Staging
+    site_id: "6063804502104"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-04-13T07:03:24.502Z
+    created_at: 2026-04-13T07:03:24.502Z
+    pages_project: coolnews-atl
+    zone_id: null
+    staging_branch: staging/coolnews-atl
+    preview_url: https://staging-coolnews-atl.coolnews-atl.pages.dev
+    saved_previews: null
+    custom_domain: null
 deleted: []
