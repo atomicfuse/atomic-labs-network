@@ -5,7 +5,7 @@ layout: ../layouts/PageLayout.astro
 
 # Contact {{domain}}
 
-We would love to hear from you.
+We would love to hear from you. (edited via inline editor)
 
 ---
 

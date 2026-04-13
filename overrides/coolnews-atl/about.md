@@ -3,9 +3,9 @@ title: "About"
 layout: ../layouts/PageLayout.astro
 ---
 
-# About {{domain}}
+# About {{site_name}}
 
-Welcome to **{{site_name}}** -- your destination for {{site_description}}.
+Welcome to **{{site_name}}** 
 
 ---
 
