@@ -1,0 +1,36 @@
+domain: coolnews-atl
+site_name: Cool News ATL
+site_tagline: null
+pages_project: coolnews-atl
+group: premium-ads
+active: true
+brief:
+  audience: ""
+  tone: processional, drammatic
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Current Events
+    - In-Depth Analysis
+    - Policy & Politics
+    - Local Stories
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: News
+  review_percentage: 5
+  schedule:
+    articles_per_week: 5
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
