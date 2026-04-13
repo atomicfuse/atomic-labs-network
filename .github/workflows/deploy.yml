@@ -6,6 +6,7 @@ on:
     paths:
       - "sites/**"
       - "groups/**"
+      - "overrides/**"
       - "org.yaml"
       - "network.yaml"
   pull_request:
@@ -13,6 +14,7 @@ on:
     paths:
       - "sites/**"
       - "groups/**"
+      - "overrides/**"
       - "org.yaml"
       - "network.yaml"
   workflow_dispatch:
@@ -72,6 +74,9 @@ jobs:
               should_build=true
             # Site-specific files changed
             elif echo "$CHANGED" | grep -qE "^sites/${SITE}/"; then
+              should_build=true
+            # Site-specific shared-page override changed
+            elif echo "$CHANGED" | grep -qE "^overrides/${SITE}/"; then
               should_build=true
             # Org-level config affects all sites
             elif echo "$CHANGED" | grep -q "^org\.yaml$"; then
