@@ -1,0 +1,12 @@
+group_id: entertainment
+name: "Entertainment Vertical"
+
+ads_txt: []
+
+theme:
+  colors:
+    primary: "#E50914"
+    accent: "#B81D24"
+    background: "#141414"
+    text: "#FFFFFF"
+    muted: "#8C8C8C"
