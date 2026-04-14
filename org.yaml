@@ -1,34 +1,28 @@
-organization: "Atomic Labs"
-legal_entity: "Atomic Labs Ltd"
-company_address: "Tel Aviv, Israel"
-support_email_pattern: "contact@{{domain}}"
-
+organization: Atomic Labs
+legal_entity: Atomic Labs Ltd
+company_address: Tel Aviv, Israel
+support_email_pattern: contact@{{domain}}
 default_theme: modern
-
 default_fonts:
-  heading: "Inter"
-  body: "Inter"
-
+  heading: Inter
+  body: Inter
 tracking:
   ga4: null
   gtm: null
   google_ads: null
-  facebook_pixel: null
+  facebook_pixel: "28121999"
   custom: []
-
 scripts:
   head: []
   body_start: []
   body_end: []
-
 ads_config:
   interstitial: false
   in_content_slots: 2
   sidebar: false
   layout: standard
   ad_placements: []
-
 legal:
-  company_name: "Atomic Labs Ltd"
-  company_country: "Israel"
-  effective_date: "2026-01-01"
+  company_name: Atomic Labs Ltd
+  company_country: Israel
+  effective_date: 2026-01-01
