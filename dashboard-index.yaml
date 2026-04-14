@@ -20,37 +20,19 @@ sites:
   - domain: coolnews-atl
     company: ATL
     vertical: News
-    status: Ready
+    status: Live
     site_id: "6063804502104"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-04-14T07:40:42.404Z
+    last_updated: 2026-04-14T07:41:37.492Z
     created_at: 2026-04-13T07:03:24.502Z
     pages_project: coolnews-atl
     zone_id: 505b529c5928da452abb172f685d97a7
     staging_branch: staging/coolnews-atl
     preview_url: https://4ee848b1.coolnews-atl.pages.dev
     saved_previews: null
-    custom_domain: null
-  - domain: coolnews.dev
-    company: ATL
-    vertical: Other
-    status: New
-    site_id: "6152456040524"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-04-14T07:40:55.371Z
-    created_at: 2026-04-14T07:40:55.371Z
-    pages_project: null
-    zone_id: 505b529c5928da452abb172f685d97a7
-    staging_branch: null
-    preview_url: null
-    saved_previews: null
-    custom_domain: null
+    custom_domain: coolnews.dev
 deleted: []
