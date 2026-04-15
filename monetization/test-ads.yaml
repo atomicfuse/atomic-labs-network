@@ -34,4 +34,9 @@ ads_config:
       position: sticky-bottom
       device: mobile
       sizes: []
+    - id: slot-5
+      position: below-content
+      device: all
+      sizes:
+        - 728x90
 ads_txt: []
