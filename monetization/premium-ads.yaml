@@ -32,6 +32,8 @@ scripts:
         if ('{{interstitial_enabled}}' === 'true') {
           window.alphaAds.push({ type: 'interstitial', delay: 30000 });
         }
+    - id: mock-ad-fill
+      src: "/mock-ad-fill.js"
 
 scripts_vars:
   alpha_site_id: ""
