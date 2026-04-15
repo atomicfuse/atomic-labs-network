@@ -1,0 +1,39 @@
+group_id: standard-ads
+name: "Standard Ad Network Sites"
+
+ads_txt:
+  - "google.com, pub-XXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0"
+
+tracking: {}
+
+scripts:
+  head:
+    - id: adsense
+      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      async: true
+  body_start: []
+  body_end: []
+
+ads_config:
+  primary_advertiser: adsense
+  interstitial: false
+  layout: standard
+  ad_placements:
+    - id: top-banner
+      position: above-content
+      sizes:
+        desktop: [[728, 90]]
+        mobile: [[320, 50]]
+      device: all
+    - id: in-content-1
+      position: after-paragraph-3
+      sizes:
+        desktop: [[336, 280]]
+        mobile: [[300, 250]]
+      device: all
+    - id: in-content-2
+      position: after-paragraph-7
+      sizes:
+        desktop: [[336, 280]]
+        mobile: [[300, 250]]
+      device: all

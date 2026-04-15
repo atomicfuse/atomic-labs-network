@@ -1,0 +1,60 @@
+domain: muvizz.com
+site_name: Muvizz
+site_tagline: "Movies, TV & Entertainment"
+groups:
+  - premium-ads
+  - entertainment
+active: true
+
+tracking:
+  ga4: "G-MUVIZZ001"
+
+scripts_vars:
+  alpha_site_id: "muvizz-001"
+  alpha_zone: "entertainment"
+  interstitial_enabled: "true"
+
+brief:
+  audience: "Movie fans and entertainment enthusiasts aged 18-45"
+  tone: "enthusiastic, conversational"
+  article_types:
+    listicle: 35
+    review: 30
+    standard: 20
+    how-to: 15
+  topics:
+    - Movies
+    - TV Shows
+    - Streaming
+    - Celebrity News
+    - Awards Season
+  seo_keywords_focus:
+    - best movies
+    - tv show reviews
+    - streaming recommendations
+  content_guidelines: "Focus on trending entertainment content. Use engaging headlines. Include ratings and comparisons where appropriate."
+  review_percentage: 5
+  schedule:
+    articles_per_day: 4
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+    preferred_time: "08:00"
+
+theme:
+  base: modern
+  colors:
+    secondary: "#1A1A2E"
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  fonts:
+    heading: "Montserrat"
+    body: "Open Sans"
+
+legal:
+  site_description: "entertainment news, movie reviews, and streaming recommendations"
