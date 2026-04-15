@@ -2,8 +2,26 @@ domain: coolnews-atl
 site_name: Cool News ATL
 site_tagline: null
 pages_project: coolnews-atl
-group: premium-ads
+
+# Editorial group (theme + legal). Slimmed per monetization-layer architecture.
+group: news
+
+# Monetization profile (tracking, scripts, ads, ads.txt). Falls back to
+# org.default_monetization if omitted.
+monetization: premium-ads
+
 active: true
+
+# Site-level tracking overrides (set to null to explicitly disable inheritance).
+tracking:
+  ga4: "G-COOLNEWS-XXX"
+
+# Fills {{placeholder}} variables in the resolved scripts.
+scripts_vars:
+  alpha_site_id: "coolnews-atl-001"
+  alpha_zone: "news"
+  interstitial_enabled: "false"
+
 brief:
   audience: ""
   tone: processional, drammatic
@@ -31,6 +49,7 @@ brief:
       - Sunday
     preferred_time: 10:00
     articles_per_day: 3
+
 theme:
   base: modern
   logo: /assets/logo.png
