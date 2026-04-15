@@ -7,8 +7,10 @@ pages_project: coolnews-atl
 group: news
 
 # Monetization profile (tracking, scripts, ads, ads.txt). Falls back to
-# org.default_monetization if omitted.
-monetization: premium-ads
+# org.default_monetization if omitted. The "test-ads" profile is a mock
+# for demos / QA — it renders visible placeholder ads via mock-ad-fill.js
+# with no real ad network loaded.
+monetization: test-ads
 
 active: true
 
