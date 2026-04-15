@@ -1,27 +1,19 @@
 monetization_id: test-ads
-name: "Test Ads (Demo)"
-provider: "mock"
-
-# Lightweight profile for demos, onboarding, and QA. Produces visible placeholder
-# ads (via mock-ad-fill.js) without loading any real ad network. Safe to select
-# on any site. Remove when moving to a real ad partner.
-
+name: Test Ads (Demo)
+provider: mock
 tracking:
-  ga4: "G-TESTDEMO000"
+  ga4: G-TESTDEMO000
   gtm: null
   google_ads: null
   facebook_pixel: null
   custom: []
-
 scripts:
   head: []
   body_start: []
   body_end:
     - id: mock-ad-fill
-      src: "/mock-ad-fill.js"
-
+      src: /mock-ad-fill.js
 scripts_vars: {}
-
 ads_config:
   interstitial: false
   layout: standard
@@ -29,30 +21,17 @@ ads_config:
     - id: top-banner
       position: above-content
       device: all
-      sizes:
-        desktop: [[728, 90], [970, 90]]
-        mobile: [[320, 50], [320, 100]]
+      sizes: []
     - id: in-content-1
-      position: after-paragraph-3
+      position: after-paragraph-6
       device: all
-      sizes:
-        desktop: [[336, 280], [300, 250]]
-        mobile: [[300, 250]]
-    - id: in-content-2
-      position: after-paragraph-7
-      device: all
-      sizes:
-        desktop: [[336, 280], [300, 250]]
-        mobile: [[300, 250]]
+      sizes: []
     - id: sidebar-sticky
       position: sidebar
       device: desktop
-      sizes:
-        desktop: [[300, 600], [160, 600], [300, 250]]
+      sizes: []
     - id: mobile-anchor
       position: sticky-bottom
       device: mobile
-      sizes:
-        mobile: [[320, 50]]
-
+      sizes: []
 ads_txt: []
