@@ -1,0 +1,14 @@
+group_id: news
+name: "News Vertical"
+
+theme:
+  colors:
+    primary: "#1A1A2E"
+    secondary: "#16213E"
+    accent: "#E94560"
+    background: "#FFFFFF"
+    text: "#2D2D2D"
+    muted: "#6B7280"
+
+legal:
+  site_description: "news, current events, and in-depth analysis"

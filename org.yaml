@@ -9,6 +9,9 @@ default_fonts:
   heading: "Inter"
   body: "Inter"
 
+# New monetization layer: sites without explicit `monetization:` inherit this.
+default_monetization: standard-ads
+
 tracking:
   ga4: null
   gtm: null
@@ -21,12 +24,24 @@ scripts:
   body_start: []
   body_end: []
 
+scripts_vars: {}
+
 ads_config:
   interstitial: false
   in_content_slots: 2
   sidebar: false
   layout: standard
   ad_placements: []
+
+# Reserved height (px) for ad placeholders to prevent CLS while
+# ad-loader.js fetches and renders ads at runtime.
+ad_placeholder_heights:
+  above-content: 90
+  after-paragraph: 280
+  sidebar: 600
+  sticky-bottom: 50
+
+ads_txt: []
 
 legal:
   company_name: "Atomic Labs Ltd"
