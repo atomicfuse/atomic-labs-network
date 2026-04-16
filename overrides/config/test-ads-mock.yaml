@@ -31,18 +31,6 @@ ads_config:
             - 50
           - - 320
             - 100
-    - id: in-content-1
-      position: after-paragraph-3
-      device: all
-      sizes:
-        desktop:
-          - - 336
-            - 280
-          - - 300
-            - 250
-        mobile:
-          - - 300
-            - 250
     - id: in-content-2
       position: after-paragraph-7
       device: all
