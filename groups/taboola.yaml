@@ -1,6 +1,5 @@
-monetization_id: premium-ads
-name: "Premium Ad Network"
-provider: alpha-adnetwork
+group_id: taboola
+name: "Taboola Exclusive Sites"
 
 tracking:
   ga4: null

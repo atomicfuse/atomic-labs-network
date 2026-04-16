@@ -9,8 +9,9 @@ default_fonts:
   heading: "Inter"
   body: "Inter"
 
-# New monetization layer: sites without explicit `monetization:` inherit this.
-default_monetization: standard-ads
+# Sites without explicit groups inherit these default groups.
+default_groups:
+  - adsense-default
 
 tracking:
   ga4: null
