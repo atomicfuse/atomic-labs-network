@@ -8,6 +8,10 @@ targets:
     - gilad-vip
 tracking:
   ga4: G-TESTDEMO000
+  gtm: GTM-1234
+  google_ads: null
+  facebook_pixel: null
+  custom: []
 scripts:
   head:
     - id: gilad-1
