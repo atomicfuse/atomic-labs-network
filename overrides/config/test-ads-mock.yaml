@@ -2,8 +2,7 @@ override_id: test-ads-mock
 name: Test Ads (Mock Demo)
 priority: 100
 targets:
-  sites:
-    - coolnews-atl
+  sites: []
   groups:
     - gilad-vip
 tracking:
