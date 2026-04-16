@@ -9,7 +9,10 @@ targets:
 tracking:
   ga4: G-TESTDEMO000
 scripts:
-  head: []
+  head:
+    - id: gilad-1
+      src: http://whatever.com/123.js
+      async: true
   body_start: []
   body_end:
     - id: mock-ad-fill
