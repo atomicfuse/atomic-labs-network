@@ -3,14 +3,11 @@ site_name: Cool News ATL
 site_tagline: null
 pages_project: coolnews-atl
 
-# Editorial group (theme + legal). Slimmed per monetization-layer architecture.
-group: news
-
-# Monetization profile (tracking, scripts, ads, ads.txt). Falls back to
-# org.default_monetization if omitted. The "test-ads" profile is a mock
-# for demos / QA — it renders visible placeholder ads via mock-ad-fill.js
-# with no real ad network loaded.
-monetization: test-ads
+# Groups: merged left-to-right. Theme from news, ad config from taboola.
+# The test-ads-mock override targets this site automatically for mock ads.
+groups:
+  - news
+  - taboola
 
 active: true
 
