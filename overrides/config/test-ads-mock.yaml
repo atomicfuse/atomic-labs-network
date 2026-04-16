@@ -2,7 +2,8 @@ override_id: test-ads-mock
 name: Test Ads (Mock Demo)
 priority: 100
 targets:
-  sites: []
+  sites:
+    - coolnews-atl
 tracking:
   ga4: G-TESTDEMO000
 scripts:
