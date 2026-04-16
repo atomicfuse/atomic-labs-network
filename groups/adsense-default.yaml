@@ -1,6 +1,5 @@
-monetization_id: standard-ads
+group_id: adsense-default
 name: "Standard AdSense"
-provider: adsense
 
 tracking:
   ga4: "G-STANDARD-XXX"
