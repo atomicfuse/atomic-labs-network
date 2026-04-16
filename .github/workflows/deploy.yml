@@ -71,8 +71,20 @@ jobs:
           for site_dir in sites/*/; do
             [[ -d "$site_dir" ]] || continue
             SITE=$(basename "$site_dir")
-            GROUP=$(grep "^group:" "sites/$SITE/site.yaml" 2>/dev/null \
+            # Read groups array (new style: "groups:\n  - a\n  - b") and
+            # legacy single group field ("group: x")
+            GROUPS=()
+            if grep -q "^groups:" "sites/$SITE/site.yaml" 2>/dev/null; then
+              while IFS= read -r line; do
+                g=$(echo "$line" | sed 's/^[[:space:]]*-[[:space:]]*//' | tr -d '"')
+                [[ -n "$g" ]] && GROUPS+=("$g")
+              done < <(sed -n '/^groups:/,/^[^ -]/{ /^  *-/p }' "sites/$SITE/site.yaml" 2>/dev/null)
+            fi
+            LEGACY_GROUP=$(grep "^group:" "sites/$SITE/site.yaml" 2>/dev/null \
                     | awk '{print $2}' | tr -d '"' || true)
+            if [[ ${#GROUPS[@]} -eq 0 && -n "$LEGACY_GROUP" ]]; then
+              GROUPS+=("$LEGACY_GROUP")
+            fi
             MONETIZATION=$(grep "^monetization:" "sites/$SITE/site.yaml" 2>/dev/null \
                            | awk '{print $2}' | tr -d '"' || true)
             # Fall back to org default when site doesn't set it explicitly.
@@ -97,11 +109,17 @@ jobs:
             # Network manifest change
             elif echo "$CHANGED" | grep -q "^network\.yaml$"; then
               should_build=true
-            # Group config this site belongs to
-            elif [[ -n "$GROUP" ]] && echo "$CHANGED" | grep -q "^groups/${GROUP}\.yaml$"; then
-              should_build=true
+            # Group config this site belongs to (check all groups)
+            else
+              for G in "${GROUPS[@]}"; do
+                if echo "$CHANGED" | grep -q "^groups/${G}\.yaml$"; then
+                  should_build=true
+                  break
+                fi
+              done
+            fi
             # Monetization profile this site uses (explicit or inherited)
-            elif [[ -n "$MONETIZATION" ]] && echo "$CHANGED" | grep -q "^monetization/${MONETIZATION}\.yaml$"; then
+            if [[ "$should_build" == "false" && -n "$MONETIZATION" ]] && echo "$CHANGED" | grep -q "^monetization/${MONETIZATION}\.yaml$"; then
               should_build=true
             fi
 
@@ -135,6 +153,22 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      # Staging branches only contain sites/<domain>/ content.
+      # The build needs org.yaml, network.yaml, groups/, overrides/, etc.
+      # which live on main. Overlay the latest main-branch copies so
+      # resolve-config.ts can read them from the filesystem.
+      - name: Overlay main-branch config (staging builds)
+        if: startsWith(github.ref_name, 'staging/')
+        run: |
+          echo "Staging build — overlaying config files from origin/main"
+          git checkout origin/main -- org.yaml network.yaml
+          git checkout origin/main -- groups/ || true
+          git checkout origin/main -- overrides/ || true
+          git checkout origin/main -- monetization/ || true
+          git checkout origin/main -- shared-pages/ || true
+          git checkout origin/main -- ads-txt-assignments.json || true
+          echo "Config overlay complete"
 
       - name: Checkout platform code
         uses: actions/checkout@v4
