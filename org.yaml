@@ -29,8 +29,6 @@ scripts_vars: {}
 
 ads_config:
   interstitial: false
-  in_content_slots: 2
-  sidebar: false
   layout: standard
   ad_placements: []
 

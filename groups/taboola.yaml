@@ -40,50 +40,51 @@ scripts_vars:
   interstitial_enabled: "false"
 
 ads_config:
-  primary_advertiser: alpha-adnetwork
   interstitial: true
   layout: high-density
   ad_placements:
-    - id: top-banner
+    - id: "top-banner"
       position: above-content
-      device: all
       sizes:
-        desktop: [[728, 90], [970, 250]]
-        mobile: [[320, 50]]
-    - id: in-content-1
-      position: after-paragraph-3
-      device: all
-      sizes:
-        desktop: [[300, 250], [336, 280]]
-        mobile: [[300, 250], [336, 280]]
-    - id: in-content-2
-      position: after-paragraph-7
-      device: all
-      sizes:
-        desktop: [[300, 250], [336, 280]]
-        mobile: [[300, 250], [336, 280]]
-    - id: in-content-3
-      position: after-paragraph-12
-      device: all
-      sizes:
-        desktop: [[300, 250], [336, 280]]
-        mobile: [[300, 250], [336, 280]]
-    - id: sidebar-sticky
-      position: sidebar
-      device: desktop
-      sizes:
-        desktop: [[300, 600], [160, 600]]
-    - id: mobile-anchor
-      position: sticky-bottom
-      device: mobile
-      sizes:
+        desktop: [[728, 90], [970, 90]]
         mobile: [[320, 50], [320, 100]]
+      device: all
+    - id: "in-content-1"
+      position: after-paragraph-3
+      sizes:
+        desktop: [[336, 280], [300, 250]]
+        mobile: [[300, 250], [336, 280]]
+      device: all
+    - id: "in-content-2"
+      position: after-paragraph-7
+      sizes:
+        desktop: [[336, 280], [300, 250]]
+        mobile: [[300, 250]]
+      device: all
+    - id: "sidebar-sticky"
+      position: sidebar
+      sizes:
+        desktop: [[300, 600], [160, 600], [300, 250]]
+      device: desktop
+    - id: "mobile-anchor"
+      position: sticky-bottom
+      sizes:
+        mobile: [[320, 50]]
+      device: mobile
+    - id: "homepage-top-banner"
+      position: homepage-top
+      sizes:
+        desktop: [[970, 90]]
+        mobile: [[320, 50]]
+      device: all
+    - id: "category-banner"
+      position: category-top
+      sizes:
+        desktop: [[728, 90]]
+        mobile: [[320, 50]]
+      device: all
 
 ads_txt:
-  - "google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0"
+  - "google.com, pub-XXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0"
   - "advertising.com, 28246, DIRECT"
-  - "appnexus.com, 10239, RESELLER, f5ab79cb980f11d1"
-  - "openx.com, 537120563, RESELLER, 6a698e2ec38604c6"
-  - "rubiconproject.com, 17346, RESELLER, 0bfd66d529a55807"
-  - "pubmatic.com, 159078, RESELLER, 5d62403b186f2ace"
-  - "indexexchange.com, 186046, RESELLER"
+  - "rubiconproject.com, 19116, DIRECT"
