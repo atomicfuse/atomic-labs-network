@@ -1,17 +1,15 @@
 domain: coolnews-atl
-site_name: Cool News ATL
+site_name: "Cool News ATL"
 site_tagline: null
 pages_project: coolnews-atl
 
-# Groups: merged left-to-right. Theme from news, ad config from taboola.
-# The test-ads-mock override targets this site automatically for mock ads.
 groups:
-  - news
+  - entertainment
   - taboola
 
 active: true
 
-# Site-level tracking overrides (set to null to explicitly disable inheritance).
+# Site-level tracking overrides
 tracking:
   ga4: "G-COOLNEWS-XXX"
 
@@ -22,8 +20,8 @@ scripts_vars:
   interstitial_enabled: "false"
 
 brief:
-  audience: ""
-  tone: processional, drammatic
+  audience: "News readers 25-55"
+  tone: "professional, dramatic"
   article_types:
     listicle: 40
     standard: 30
@@ -35,7 +33,7 @@ brief:
     - Policy & Politics
     - Local Stories
   seo_keywords_focus: []
-  content_guidelines: []
+  content_guidelines: ""
   vertical: News
   review_percentage: 5
   schedule:
@@ -46,10 +44,13 @@ brief:
       - Thursday
       - Friday
       - Sunday
-    preferred_time: 10:00
+    preferred_time: "10:00"
     articles_per_day: 3
 
 theme:
   base: modern
   logo: /assets/logo.png
   favicon: /assets/logo.png
+
+legal:
+  site_description: "news and current events"
