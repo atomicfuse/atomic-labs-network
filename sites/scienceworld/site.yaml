@@ -4,6 +4,7 @@ site_tagline: null
 pages_project: scienceworld
 groups:
   - adsense-default
+  - mock-minimal
 active: true
 brief:
   audience: multipale
