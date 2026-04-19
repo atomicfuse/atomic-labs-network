@@ -68,22 +68,26 @@ jobs:
 
           SITES_TO_BUILD=()
 
+          echo "Sites directory listing:"
+          ls -la sites/ 2>/dev/null || echo "(sites/ not found)"
+
           for site_dir in sites/*/; do
             [[ -d "$site_dir" ]] || continue
             SITE=$(basename "$site_dir")
+            echo "Processing site: $SITE"
             # Read groups array (new style: "groups:\n  - a\n  - b") and
             # legacy single group field ("group: x")
-            GROUPS=()
+            SITE_GROUPS=()
             if grep -q "^groups:" "sites/$SITE/site.yaml" 2>/dev/null; then
               while IFS= read -r line; do
                 g=$(echo "$line" | sed 's/^[[:space:]]*-[[:space:]]*//' | tr -d '"')
-                [[ -n "$g" ]] && GROUPS+=("$g")
+                [[ -n "$g" ]] && SITE_GROUPS+=("$g")
               done < <(sed -n '/^groups:/,/^[^ -]/{ /^  *-/p }' "sites/$SITE/site.yaml" 2>/dev/null)
             fi
             LEGACY_GROUP=$(grep "^group:" "sites/$SITE/site.yaml" 2>/dev/null \
                     | awk '{print $2}' | tr -d '"' || true)
-            if [[ ${#GROUPS[@]} -eq 0 && -n "$LEGACY_GROUP" ]]; then
-              GROUPS+=("$LEGACY_GROUP")
+            if [[ ${#SITE_GROUPS[@]} -eq 0 && -n "$LEGACY_GROUP" ]]; then
+              SITE_GROUPS+=("$LEGACY_GROUP")
             fi
             MONETIZATION=$(grep "^monetization:" "sites/$SITE/site.yaml" 2>/dev/null \
                            | awk '{print $2}' | tr -d '"' || true)
@@ -111,7 +115,7 @@ jobs:
               should_build=true
             # Group config this site belongs to (check all groups)
             else
-              for G in "${GROUPS[@]}"; do
+              for G in "${SITE_GROUPS[@]}"; do
                 if echo "$CHANGED" | grep -q "^groups/${G}\.yaml$"; then
                   should_build=true
                   break
