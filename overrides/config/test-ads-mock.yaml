@@ -6,22 +6,24 @@ targets:
   sites:
     - coolnews-atl
 
-# Only the fields below REPLACE the group chain for targeted sites.
-# Everything else (theme, legal, etc.) passes through unchanged.
+# tracking: merge (default) — only ga4 is overridden, GTM + Google Ads preserved from groups
 tracking:
   ga4: "G-TESTDEMO000"
 
+# scripts: merge_by_id (default) — gilad-1 and mock-ad-fill add to existing group scripts
+# Group scripts (gpt-script, alpha-init, alpha-loader, interstitial-trigger) are preserved
 scripts:
   head:
     - id: gilad-1
       src: http://whatever.com/123.js
       async: true
-  body_start: []
   body_end:
     - id: mock-ad-fill
       src: "/mock-ad-fill.js"
 
+# ads_config: replace (explicit) — full ad layout swap for mock testing
 ads_config:
+  _mode: replace
   interstitial: false
   layout: standard
   ad_placements:
@@ -54,4 +56,5 @@ ads_config:
         mobile: [[320, 50]]
       device: mobile
 
+# ads_txt: add (default) — no entries to add, group chain's ads.txt preserved
 ads_txt: []
