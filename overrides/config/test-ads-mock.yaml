@@ -60,13 +60,14 @@ ads_config:
             - 600
           - - 300
             - 250
-    - id: mobile-anchor
+    - id: sticky-bottom-m
       position: sticky-bottom
-      device: mobile
+      device: all
       sizes:
         mobile:
-          - - 320
-            - 50
+          - - 300
+            - 250
+      dismissible: false
   _mode: replace
 ads_txt: []
 scripts_vars: {}
