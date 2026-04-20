@@ -37,7 +37,6 @@ quality_note: >-
   SEO optimization for the target audience.
 reading_time: 2
 ---
-# SpaceX to Launch Final GPS III Satellite for US Space Force
 
 ## Historic Mission Marks Constellation Completion
 

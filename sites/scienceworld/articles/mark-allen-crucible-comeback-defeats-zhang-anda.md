@@ -36,7 +36,6 @@ quality_note: >-
   content focus.
 reading_time: 3
 ---
-# Mark Allen's Crucible Comeback Defeats Zhang Anda in Thrilling Match
 
 ## Veteran Fighter Shows Championship Mettle
 

@@ -37,7 +37,6 @@ quality_note: >-
   inappropriate tone for the target audience.
 reading_time: 3
 ---
-# Supreme Court Leaks Expose Institutional Crisis at America's Top Court
 
 The United States Supreme Court is facing an unprecedented crisis of institutional integrity as repeated leaks continue to expose the inner workings of the nation's highest judicial body, according to legal scholars who warn that the breakdown threatens public trust in the American judicial system.
 

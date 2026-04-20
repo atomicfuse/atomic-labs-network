@@ -36,7 +36,6 @@ quality_note: >-
   destination guide content expectations.
 reading_time: 3
 ---
-# Gray Whale Crisis: Climate Change Drives Record Deaths in San Francisco Waters
 
 ## A Marine Ecological Emergency Unfolds
 

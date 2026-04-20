@@ -35,7 +35,6 @@ quality_note: >-
   maintains reasonable tone and length for the target audience.
 reading_time: 3
 ---
-# Iran's Strait of Hormuz Closure Impacts Global Travel Routes
 
 ## Critical Maritime Passage Remains Blocked
 

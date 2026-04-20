@@ -37,7 +37,6 @@ quality_note: >-
   content guidelines at all.
 reading_time: 3
 ---
-# Iran-U.S. Tensions Rise as Hormuz Strait Closure Disrupts Global Trade
 
 ## Critical Shipping Route Under Threat
 

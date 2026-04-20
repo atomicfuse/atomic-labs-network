@@ -36,7 +36,6 @@ quality_note: >-
   well-written about the charity event.
 reading_time: 3
 ---
-# Sidemen FC Raises Record £6.2M at Wembley Charity Match
 
 ## Record-Breaking Fundraising Achievement
 

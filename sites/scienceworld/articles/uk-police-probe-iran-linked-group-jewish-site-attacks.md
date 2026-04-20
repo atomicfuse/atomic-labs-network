@@ -37,7 +37,6 @@ quality_note: >-
   all.
 reading_time: 2
 ---
-# UK Police Probe Iran-Linked Group Over Jewish Site Attacks
 
 ## Counterterrorism Investigation Launched
 
