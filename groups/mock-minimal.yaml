@@ -1,28 +1,50 @@
 group_id: mock-minimal
-name: "Mock Minimal Ads (QA)"
-
+name: Mock Minimal Ads (QA)
 ads_config:
   interstitial: false
   layout: standard
   ad_placements:
-    - id: "mini-top"
+    - id: mini-top
       position: above-content
-      sizes:
-        desktop: [[468, 60]]
-        mobile: [[320, 50]]
       device: all
-    - id: "mini-mid"
+      sizes:
+        desktop:
+          - - 468
+            - 60
+        mobile:
+          - - 320
+            - 50
+    - id: mini-mid
       position: after-paragraph-5
-      sizes:
-        desktop: [[300, 250]]
-        mobile: [[300, 250]]
       device: all
-
+      sizes:
+        desktop:
+          - - 300
+            - 250
+        mobile:
+          - - 300
+            - 250
+    - id: sticky-bottom
+      position: sticky-bottom
+      device: all
+      sizes:
+        mobile:
+          - - 300
+            - 250
+      dismissible: false
 scripts:
   head: []
   body_start: []
   body_end:
     - id: mock-ad-fill
-      src: "/mock-ad-fill.js"
-
+      src: /mock-ad-fill.js
 ads_txt: []
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  custom: []
+scripts_vars: {}
+theme: {}
+legal: {}
