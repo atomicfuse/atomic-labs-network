@@ -31,13 +31,14 @@ ads_config:
         mobile:
           - - 300
             - 250
-      dismissible: false
+      dismissible: true
 scripts:
   head: []
   body_start: []
   body_end:
     - id: mock-ad-fill
       src: /mock-ad-fill.js
+      async: false
 ads_txt: []
 tracking:
   ga4: null
