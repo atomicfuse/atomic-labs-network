@@ -1,0 +1,14 @@
+override_id: test-sticky
+name: Test Sticky Ad
+priority: 100
+targets:
+  groups: []
+  sites: []
+tracking: {}
+scripts:
+  head: []
+  body_start: []
+  body_end: []
+scripts_vars: {}
+ads_config: {}
+ads_txt: []
