@@ -3,7 +3,8 @@ name: Test Sticky Ad
 priority: 100
 targets:
   groups: []
-  sites: []
+  sites:
+    - scienceworld
 tracking: {}
 scripts:
   head: []
