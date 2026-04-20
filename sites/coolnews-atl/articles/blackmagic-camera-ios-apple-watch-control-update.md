@@ -38,7 +38,6 @@ quality_note: >-
   like NAB 2026 timing.
 reading_time: 2
 ---
-# Blackmagic Camera iOS App Gets Apple Watch Control in Major Update
 
 Blackmagic Design has released a significant update to its iOS camera application, introducing Apple Watch companion controls and enhanced features that could reshape mobile video production workflows.
 

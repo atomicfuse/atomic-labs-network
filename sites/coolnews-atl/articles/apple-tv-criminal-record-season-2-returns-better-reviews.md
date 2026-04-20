@@ -37,7 +37,6 @@ quality_note: >-
   reviews and critical reception.
 reading_time: 3
 ---
-# Apple TV's Criminal Record Returns with Even Better Season 2
 
 ## Acclaimed London Thriller Defies the Sophomore Slump
 
