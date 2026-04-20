@@ -67,7 +67,7 @@ ads_config:
         mobile:
           - - 300
             - 250
-      dismissible: false
+      dismissible: true
   _mode: replace
 ads_txt: []
 scripts_vars: {}
