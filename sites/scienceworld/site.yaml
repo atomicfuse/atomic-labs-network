@@ -25,11 +25,13 @@ brief:
   vertical: Travel
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 2
     preferred_days:
-      - Monday
       - Tuesday
       - Thursday
+      - Wednesday
+      - Saturday
+      - Sunday
     preferred_time: 10:00
   quality_threshold: 75
   quality_weights:
