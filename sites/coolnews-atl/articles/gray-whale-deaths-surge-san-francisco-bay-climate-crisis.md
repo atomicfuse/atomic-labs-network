@@ -1,13 +1,9 @@
 ---
-title: >-
-  Gray Whale Deaths Surge in San Francisco Bay as Climate Crisis Disrupts
-  Migration
-description: >-
-  Record 21 gray whale deaths in San Francisco Bay in 2025 signal a conservation
-  crisis as climate change disrupts Arctic food supplies and migration patterns.
+title: Gray Whale Deaths Surge in San Francisco Bay as Climate Crisis Disrupts Migration
+description: Record 21 gray whale deaths in San Francisco Bay in 2025 signal a conservation crisis as climate change disrupts Arctic food supplies and migration patterns.
 type: standard
-status: review
-publishDate: '2026-04-21'
+status: published
+publishDate: 2026-04-21
 author: Editorial Team
 tags:
   - Current Events
@@ -16,10 +12,8 @@ tags:
   - san francisco
   - endangered species
 slug: gray-whale-deaths-surge-san-francisco-bay-climate-crisis
-reviewer_notes: >-
-  Strong topic relevance and tone but severely compromised by fabricated 2025
-  statistics and below-target word count.
-source_url: 'https://www.bbc.com/news/articles/c9qdd8qvrplo'
+reviewer_notes: Approved via review queue.
+source_url: https://www.bbc.com/news/articles/c9qdd8qvrplo
 source_item_id: 69e4d5fb6d9d2af2cba6155e
 generated_by: claude
 featuredImage: /assets/images/gray-whale-deaths-surge-san-francisco-bay-climate-crisis.png
@@ -30,9 +24,7 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: >-
-  Strong topic relevance and tone but severely compromised by fabricated 2025
-  statistics and below-target word count.
+quality_note: Strong topic relevance and tone but severely compromised by fabricated 2025 statistics and below-target word count.
 reading_time: 3
 ---
 ## A Marine Crisis Unfolds in San Francisco Bay
