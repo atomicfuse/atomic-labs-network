@@ -53,8 +53,9 @@ ads_config:
     - id: "mobile-anchor"
       position: sticky-bottom
       sizes:
+        desktop: [[0, 120]]
         mobile: [[320, 50]]
-      device: mobile
+      device: all
 
 # ads_txt: add (default) — no entries to add, group chain's ads.txt preserved
 ads_txt: []
