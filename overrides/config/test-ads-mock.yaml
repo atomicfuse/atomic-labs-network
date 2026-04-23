@@ -146,10 +146,11 @@ ads_config:
       sizes:
         desktop:
           - - 0
-            - 130
+            - 120
         mobile:
           - - 320
             - 50
+      dismissible: true
       desktopSizeConfig:
         ratio:
           x: 16
@@ -161,7 +162,7 @@ ads_config:
           maxHeight: null
         customSizes:
           - width: 0
-            height: 130
+            height: 120
       mobileSizeConfig:
         ratio:
           x: 16
