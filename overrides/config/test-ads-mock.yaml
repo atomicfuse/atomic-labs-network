@@ -65,44 +65,6 @@ ads_config:
             height: 50
           - width: 320
             height: 100
-    - id: in-content-2
-      position: after-paragraph-7
-      device: all
-      sizes:
-        desktop:
-          - - 336
-            - 280
-          - - 300
-            - 250
-        mobile:
-          - - 300
-            - 250
-      desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
-        customSizes:
-          - width: 336
-            height: 280
-          - width: 300
-            height: 250
-      mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
-        customSizes:
-          - width: 300
-            height: 250
     - id: sidebar-sticky
       position: sidebar
       device: desktop
