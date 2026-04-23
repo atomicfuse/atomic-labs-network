@@ -1,14 +1,9 @@
 ---
-title: >-
-  Florida Parents Accused of Staging Infant's Death After Baby Left Restrained
-  in Bathtub
-description: >-
-  Crystal Garcia and Anfernee Watts face multiple charges after allegedly
-  staging their 3-week-old son's death following suffocation in a Hollywood
-  home.
+title: Florida Parents Accused of Staging Infant's Death After Baby Left Restrained in Bathtub
+description: Crystal Garcia and Anfernee Watts face multiple charges after allegedly staging their 3-week-old son's death following suffocation in a Hollywood home.
 type: standard
-status: review
-publishDate: '2026-04-19'
+status: published
+publishDate: 2026-04-19
 author: Editorial Team
 tags:
   - Current Events
@@ -17,13 +12,9 @@ tags:
   - Florida
   - infant death
 slug: florida-parents-accused-staging-infant-death-baby-restrained-bathtub
-reviewer_notes: >-
-  Strong tone and topic relevance, but significant factual accuracy concerns
-  with future dates and potential fabricated details undermine credibility.
-source_url: >-
-  https://www.usmagazine.com/crime-news/news/florida-parents-accused-of-staging-newborn-babys-death/
-featuredImage: >-
-  https://www.usmagazine.com/wp-content/uploads/2026/04/Florida-Couple-Accused-of-Staging-Infant-Death-Crystal-Garcia-and-Anfernee-Watts-Mugshot.jpg?crop=0px,43px,2000px,1051px&resize=1200,630&quality=86&strip=all
+reviewer_notes: Approved via review queue.
+source_url: https://www.usmagazine.com/crime-news/news/florida-parents-accused-of-staging-newborn-babys-death/
+featuredImage: https://www.usmagazine.com/wp-content/uploads/2026/04/Florida-Couple-Accused-of-Staging-Infant-Death-Crystal-Garcia-and-Anfernee-Watts-Mugshot.jpg?crop=0px,43px,2000px,1051px&resize=1200,630&quality=86&strip=all
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -31,9 +22,7 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: >-
-  Strong tone and topic relevance, but significant factual accuracy concerns
-  with future dates and potential fabricated details undermine credibility.
+quality_note: Strong tone and topic relevance, but significant factual accuracy concerns with future dates and potential fabricated details undermine credibility.
 ---
 A harrowing case of alleged child abuse and cover-up has emerged from South Florida, where two young parents now face serious charges in connection with their newborn son's death. The disturbing details reveal a calculated attempt to conceal what authorities believe was a preventable tragedy.
 

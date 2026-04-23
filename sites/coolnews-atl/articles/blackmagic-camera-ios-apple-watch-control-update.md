@@ -1,12 +1,9 @@
 ---
 title: Blackmagic Camera iOS App Gets Apple Watch Control in Major Update
-description: >-
-  Blackmagic Design's camera app update introduces Apple Watch companion
-  control, portrait HDMI output, and enhanced mobile video production features
-  for...
+description: Blackmagic Design's camera app update introduces Apple Watch companion control, portrait HDMI output, and enhanced mobile video production features for...
 type: standard
-status: review
-publishDate: '2026-04-19'
+status: published
+publishDate: 2026-04-19
 author: Editorial Team
 tags:
   - Current Events
@@ -15,16 +12,11 @@ tags:
   - iOS apps
   - content creation
 slug: blackmagic-camera-ios-apple-watch-control-update
-reviewer_notes: >-
-  Well-written professional article with good tone and relevant content, but
-  significantly too short at 449 words and contains some questionable claims
-  like NAB 2026 timing.
-source_url: >-
-  https://9to5mac.com/2026/04/16/blackmagic-camera-app-for-ios-updated-to-version-3-3-headlined-by-apple-watch-companion/
+reviewer_notes: Approved via review queue.
+source_url: https://9to5mac.com/2026/04/16/blackmagic-camera-app-for-ios-updated-to-version-3-3-headlined-by-apple-watch-companion/
 source_item_id: 69e11580d1be0425dc1b31e7
 generated_by: claude
-featuredImage: >-
-  https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Blackmagic-Cam-for-Apple-Watch-Viewfinder.jpg?quality=82&#038;strip=all&#038;w=1600
+featuredImage: https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Blackmagic-Cam-for-Apple-Watch-Viewfinder.jpg?quality=82&#038;strip=all&#038;w=1600
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -32,10 +24,7 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: >-
-  Well-written professional article with good tone and relevant content, but
-  significantly too short at 449 words and contains some questionable claims
-  like NAB 2026 timing.
+quality_note: Well-written professional article with good tone and relevant content, but significantly too short at 449 words and contains some questionable claims like NAB 2026 timing.
 reading_time: 2
 ---
 

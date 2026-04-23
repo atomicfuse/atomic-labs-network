@@ -1,12 +1,9 @@
 ---
 title: Apple TV's Criminal Record Returns with Even Better Season 2
-description: >-
-  Apple TV's acclaimed London crime thriller Criminal Record returns April 22
-  with season 2, featuring Peter Capaldi and Cush Jumbo tackling domestic
-  terrorism.
+description: Apple TV's acclaimed London crime thriller Criminal Record returns April 22 with season 2, featuring Peter Capaldi and Cush Jumbo tackling domestic terrorism.
 type: standard
-status: review
-publishDate: '2026-04-19'
+status: published
+publishDate: 2026-04-19
 author: Editorial Team
 tags:
   - Current Events
@@ -15,12 +12,8 @@ tags:
   - crime thriller
   - television
 slug: apple-tv-criminal-record-season-2-returns-better-reviews
-reviewer_notes: >-
-  Well-written article with strong tone and relevance, but significantly under
-  target word count and contains some potentially unverified claims about
-  reviews and critical reception.
-source_url: >-
-  https://9to5mac.com/2026/04/16/apple-tvs-gripping-london-thriller-returns-next-week-first-reviews-here/
+reviewer_notes: Approved via review queue.
+source_url: https://9to5mac.com/2026/04/16/apple-tvs-gripping-london-thriller-returns-next-week-first-reviews-here/
 source_item_id: 69e11580d1be0425dc1b31e6
 generated_by: claude
 featuredImage: /assets/images/apple-tv-criminal-record-season-2-returns-better-reviews.png
@@ -31,10 +24,7 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: >-
-  Well-written article with strong tone and relevance, but significantly under
-  target word count and contains some potentially unverified claims about
-  reviews and critical reception.
+quality_note: Well-written article with strong tone and relevance, but significantly under target word count and contains some potentially unverified claims about reviews and critical reception.
 reading_time: 3
 ---
 
