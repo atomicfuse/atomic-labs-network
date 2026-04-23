@@ -14,6 +14,30 @@ ads_config:
         mobile:
           - - 320
             - 50
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes:
+          - width: 468
+            height: 60
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes:
+          - width: 320
+            height: 50
     - id: mini-mid
       position: after-paragraph-5
       device: all
@@ -24,6 +48,30 @@ ads_config:
         mobile:
           - - 300
             - 250
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes:
+          - width: 300
+            height: 250
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes:
+          - width: 300
+            height: 250
     - id: sticky-bottom
       position: sticky-bottom
       device: all
@@ -31,7 +79,34 @@ ads_config:
         mobile:
           - - 300
             - 250
+        desktop:
+          - - 0
+            - 120
       dismissible: true
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes:
+          - width: 0
+            height: 120
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes:
+          - width: 300
+            height: 250
 scripts:
   head: []
   body_start: []
