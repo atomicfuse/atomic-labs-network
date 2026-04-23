@@ -140,41 +140,6 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
-    - id: sticky-bottom-m
-      position: sticky-bottom
-      device: all
-      sizes:
-        mobile:
-          - - 300
-            - 250
-        desktop:
-          - - 0
-            - 120
-      dismissible: true
-      desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: 300
-          maxWidth: null
-          minHeight: null
-          maxHeight: 250
-        customSizes:
-          - width: 0
-            height: 120
-      mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
-        customSizes:
-          - width: 300
-            height: 250
   _mode: replace
 ads_txt: []
 scripts_vars: {}
