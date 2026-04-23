@@ -146,7 +146,6 @@ ads_config:
       sizes:
         desktop: [[0, 120]]
         mobile: [[320, 50]]
-      device: all
 
 # ads_txt: add (default) — no entries to add, group chain's ads.txt preserved
 ads_txt: []
