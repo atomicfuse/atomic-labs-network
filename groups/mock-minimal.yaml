@@ -107,6 +107,30 @@ ads_config:
         customSizes:
           - width: 300
             height: 250
+    - id: sidebar
+      position: sidebar
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
 scripts:
   head: []
   body_start: []
