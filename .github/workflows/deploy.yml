@@ -209,20 +209,19 @@ jobs:
           STAGING: ${{ startsWith(github.ref_name, 'staging/') && 'true' || 'false' }}
         run: pnpm build
 
-      - name: Deploy to Cloudflare Pages
-        working-directory: platform/packages/site-builder
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          WRANGLER_SEND_METRICS: "false"
+      - name: Compute project + branch
+        id: pages_meta
         run: |
           PROJECT=$(echo "${{ matrix.site }}" | sed 's/\./-/g')
           BRANCH="${{ github.head_ref || github.ref_name }}"
+          echo "project=$PROJECT" >> "$GITHUB_OUTPUT"
+          echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
           echo "Deploying ${{ matrix.site }} → project: $PROJECT, branch: $BRANCH"
-          # Pin via `npx -p` so npx resolves wrangler from the npm registry
-          # rather than the workspace's site-worker package, where pnpm's
-          # per-package bin layout breaks the implicit `npx wrangler` lookup
-          # when invoked from packages/site-builder.
-          npx -y -p wrangler@^4 wrangler pages deploy dist \
-            --project-name="$PROJECT" \
-            --branch="$BRANCH"
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: platform/packages/site-builder
+          command: pages deploy dist --project-name=${{ steps.pages_meta.outputs.project }} --branch=${{ steps.pages_meta.outputs.branch }}
