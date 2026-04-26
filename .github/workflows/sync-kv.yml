@@ -178,10 +178,14 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           NETWORK_DATA_PATH: ${{ github.workspace }}
-          # Target namespace: staging for everything except main.
-          # Operator can change main's target by editing this mapping.
+          # Target KV namespace + R2 bucket: staging for everything except
+          # main. main goes to prod. KEEP THESE TWO IN LOCK-STEP — sending
+          # KV writes to prod while uploading R2 assets to staging would
+          # mean live coolnews.dev image URLs 404 on every editorial push.
           KV_NAMESPACE_ID: ${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}
+          R2_BUCKET: ${{ github.ref_name == 'main' && 'atl-assets-prod' || 'atl-assets-staging' }}
           KV_REMOTE: "true"
+          R2_REMOTE: "true"
         run: |
           SITE="${{ matrix.site }}"
           # Derive hostnames from dashboard-index.yaml.
