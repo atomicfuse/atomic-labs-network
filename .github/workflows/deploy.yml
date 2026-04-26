@@ -219,6 +219,10 @@ jobs:
           PROJECT=$(echo "${{ matrix.site }}" | sed 's/\./-/g')
           BRANCH="${{ github.head_ref || github.ref_name }}"
           echo "Deploying ${{ matrix.site }} → project: $PROJECT, branch: $BRANCH"
-          npx wrangler pages deploy dist \
+          # Pin via `npx -p` so npx resolves wrangler from the npm registry
+          # rather than the workspace's site-worker package, where pnpm's
+          # per-package bin layout breaks the implicit `npx wrangler` lookup
+          # when invoked from packages/site-builder.
+          npx -y -p wrangler@^4 wrangler pages deploy dist \
             --project-name="$PROJECT" \
             --branch="$BRANCH"
