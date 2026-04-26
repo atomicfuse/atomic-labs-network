@@ -1,0 +1,46 @@
+domain: scienceworld
+site_name: scienceworld
+site_tagline: null
+pages_project: scienceworld
+groups:
+  - adsense-default
+  - mock-minimal
+active: true
+brief:
+  audience: multipale
+  tone: informative, professional yet light
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Destination Guides
+    - Travel Tips
+    - Local Culture
+    - Adventure Activities
+  seo_keywords_focus: []
+  content_guidelines:
+    - max 400 words per article
+  vertical: Travel
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Tuesday
+      - Thursday
+      - Wednesday
+      - Saturday
+      - Sunday
+    preferred_time: 10:00
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+theme:
+  base: bold
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
