@@ -209,6 +209,13 @@ jobs:
           STAGING: ${{ startsWith(github.ref_name, 'staging/') && 'true' || 'false' }}
         run: pnpm build
 
+      - name: Install wrangler globally
+        # Globally so the binary is on PATH, irrespective of which working
+        # directory we deploy from. Avoids npm choking on `workspace:*` deps
+        # in packages/site-builder/package.json (npm doesn't understand that
+        # protocol — only pnpm does).
+        run: npm install --location=global wrangler@^4
+
       - name: Deploy to Cloudflare Pages
         working-directory: platform/packages/site-builder
         env:
@@ -219,6 +226,4 @@ jobs:
           PROJECT=$(echo "${{ matrix.site }}" | sed 's/\./-/g')
           BRANCH="${{ github.head_ref || github.ref_name }}"
           echo "Deploying ${{ matrix.site }} → project: $PROJECT, branch: $BRANCH"
-          npx wrangler pages deploy dist \
-            --project-name="$PROJECT" \
-            --branch="$BRANCH"
+          wrangler pages deploy dist --project-name="$PROJECT" --branch="$BRANCH"
