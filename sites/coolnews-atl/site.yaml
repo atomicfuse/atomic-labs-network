@@ -66,3 +66,7 @@ merge_modes:
   ads_txt: add
   theme: merge
   legal: merge
+scripts:
+  body_start:
+    - id: bgcolor
+      src: document.body.style.backgroundColor = '#ffebf3';
