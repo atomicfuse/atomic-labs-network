@@ -57,7 +57,7 @@ legal:
 scripts:
   head:
     - id: backgroundColorr
-      inline: <script> document.body.style.backgroundColor = 'red'; </script>
+      inline: document.body.style.backgroundColor = 'red';
   body_start: []
   body_end: []
 ads_config:
