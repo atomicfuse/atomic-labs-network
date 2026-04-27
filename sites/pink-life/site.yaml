@@ -1,8 +1,7 @@
 domain: pink-life
 site_name: Pink Life
 site_tagline: null
-groups:
-  - mock-minimal
+groups: []
 active: true
 iab_vertical_code: "552"
 iab_category_codes:
