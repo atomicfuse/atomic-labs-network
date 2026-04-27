@@ -55,14 +55,11 @@ theme:
 legal:
   site_description: news and current events
 scripts:
-  head:
-    - id: backgroundColorr
-      inline: |2-
-         document.addEventListener('DOMContentLoaded', () => {
-            document.body.style.backgroundColor = 'red';
-          });
+  head: []
   body_start: []
-  body_end: []
+  body_end:
+    - id: backgroundColorr
+      inline: document.body.style.backgroundColor = 'red';
 ads_config:
   interstitial: false
   layout: standard
