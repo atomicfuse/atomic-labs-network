@@ -5,6 +5,10 @@ support_email_pattern: "contact@{{domain}}"
 
 default_theme: modern
 
+default_colors:
+  primary: "#1a1a2e"
+  accent: "#f4c542"
+
 default_fonts:
   heading: "Inter"
   body: "Inter"
@@ -30,7 +34,13 @@ scripts_vars: {}
 ads_config:
   interstitial: false
   layout: standard
-  ad_placements: []
+  ad_placements:
+    - id: homepage-sidebar
+      type: display
+      size: medium-rectangle
+    - id: article-sidebar
+      type: display
+      size: medium-rectangle
 
 # Reserved height (px) for ad placeholders to prevent CLS while
 # ad-loader.js fetches and renders ads at runtime.
@@ -41,6 +51,18 @@ ad_placeholder_heights:
   sticky-bottom: 50
 
 ads_txt: []
+
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+  load_more:
+    page_size: 10
 
 legal:
   company_name: "Atomic Labs Ltd"
