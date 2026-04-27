@@ -18,6 +18,7 @@ scripts:
   body_end:
     - id: mock-ad-fill
       src: /mock-ad-fill.js
+      async: true
 ads_config:
   interstitial: false
   layout: standard
