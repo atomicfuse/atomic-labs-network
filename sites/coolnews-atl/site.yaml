@@ -54,13 +54,15 @@ theme:
   favicon: /assets/logo.png
 legal:
   site_description: news and current events
-scripts:
-  head: []
-  body_start: []
-  body_end:
-    - id: backgroundColorr
-      inline: document.body.style.backgroundColor = 'red';
 ads_config:
   interstitial: false
   layout: standard
   ad_placements: []
+merge_modes:
+  tracking: merge
+  scripts: merge_by_id
+  scripts_vars: merge
+  ads_config: add
+  ads_txt: add
+  theme: merge
+  legal: merge
