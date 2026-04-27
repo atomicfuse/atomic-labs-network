@@ -11,11 +11,10 @@ tracking:
   facebook_pixel: null
   custom: []
 scripts:
-  head:
-    - id: gilad-1
-      src: http://whatever.com/123.js
-      async: true
-  body_start: []
+  head: []
+  body_start:
+    - id: bgcolor
+      inline: document.body.style.backgroundColor = '#99ccff';
   body_end:
     - id: mock-ad-fill
       src: /mock-ad-fill.js
