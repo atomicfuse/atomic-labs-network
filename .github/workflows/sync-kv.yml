@@ -1,0 +1,218 @@
+name: Sync network data to KV
+
+# Phase 5 of the Pages → Workers migration. Runs ALONGSIDE the legacy
+# deploy.yml during migration — both workflows fire on the same events;
+# sync-kv writes to CONFIG_KV_STAGING (and, on main, CONFIG_KV) so the
+# new Astro + Workers app serves fresh config/articles. deploy.yml
+# continues to rebuild the legacy Cloudflare Pages projects until the
+# Phase-6/7 DNS cutover retires them.
+
+on:
+  push:
+    branches: [main, 'staging/**']
+    paths:
+      - "sites/**"
+      - "groups/**"
+      - "monetization/**"
+      - "overrides/**"
+      - "org.yaml"
+      - "network.yaml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "sites/**"
+      - "groups/**"
+      - "monetization/**"
+      - "overrides/**"
+      - "org.yaml"
+      - "network.yaml"
+  workflow_dispatch:
+    inputs:
+      site:
+        description: "Single site to sync (slug). Leave empty to detect from changed files."
+        required: false
+      force_all:
+        description: "Ignore change detection; sync every site listed in dashboard-index.yaml"
+        type: boolean
+        default: false
+
+jobs:
+  detect:
+    name: Detect changed sites
+    runs-on: ubuntu-latest
+    outputs:
+      sites: ${{ steps.detect.outputs.sites }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect which sites need syncing
+        id: detect
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.sha }}
+          FORCE_ALL: ${{ inputs.force_all }}
+          SINGLE_SITE: ${{ inputs.site }}
+        run: |
+          set -euo pipefail
+
+          # Explicit single-site override wins.
+          if [[ -n "$SINGLE_SITE" ]]; then
+            JSON=$(printf '["%s"]' "$SINGLE_SITE")
+            echo "sites=$JSON" >> "$GITHUB_OUTPUT"
+            echo "→ Single site override: $SINGLE_SITE"
+            exit 0
+          fi
+
+          if [[ "$FORCE_ALL" == "true" ]]; then
+            CHANGED="*"
+          elif [[ "$EVENT" == "pull_request" ]]; then
+            CHANGED=$(git diff --name-only "$BASE_SHA"..."$HEAD_SHA" || echo "*")
+          else
+            CHANGED=$(git diff --name-only HEAD~1 HEAD 2>/dev/null || echo "*")
+          fi
+
+          echo "Changed files:"
+          echo "$CHANGED"
+
+          SITES_TO_SYNC=()
+          for site_dir in sites/*/; do
+            [[ -d "$site_dir" ]] || continue
+            SITE=$(basename "$site_dir")
+            should=false
+
+            if echo "$CHANGED" | grep -q "^\*$"; then
+              should=true
+            elif echo "$CHANGED" | grep -qE "^sites/${SITE}/"; then
+              should=true
+            elif echo "$CHANGED" | grep -qE "^overrides/${SITE}/"; then
+              should=true
+            elif echo "$CHANGED" | grep -q "^org\.yaml$"; then
+              should=true
+            elif echo "$CHANGED" | grep -q "^network\.yaml$"; then
+              should=true
+            elif echo "$CHANGED" | grep -qE "^groups/" ; then
+              # Any group change triggers a resync of every site that lists that
+              # group. For simplicity (mirrors deploy.yml behaviour), this
+              # step triggers all sites — the KV writer is cheap and idempotent.
+              should=true
+            fi
+
+            if [[ "$should" == "true" ]]; then
+              SITES_TO_SYNC+=("$SITE")
+              echo "→ Will sync: $SITE"
+            else
+              echo "→ Skipping:  $SITE (no relevant changes)"
+            fi
+          done
+
+          if [[ ${#SITES_TO_SYNC[@]} -eq 0 ]]; then
+            echo "sites=[]" >> "$GITHUB_OUTPUT"
+          else
+            JSON=$(printf '%s\n' "${SITES_TO_SYNC[@]}" | jq -R . | jq -c -s .)
+            echo "sites=$JSON" >> "$GITHUB_OUTPUT"
+          fi
+
+  sync:
+    name: Sync ${{ matrix.site }}
+    needs: detect
+    if: needs.detect.outputs.sites != '[]' && needs.detect.outputs.sites != ''
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        site: ${{ fromJson(needs.detect.outputs.sites) }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Overlay main-branch config (staging-branch runs)
+        if: startsWith(github.ref_name, 'staging/')
+        run: |
+          # Staging branches only carry sites/<domain>/. The KV writer needs
+          # org.yaml, groups, overrides, monetization from main — same idea
+          # as legacy deploy.yml.
+          echo "Staging run — overlaying shared config from origin/main"
+          git checkout origin/main -- org.yaml network.yaml
+          git checkout origin/main -- groups/ || true
+          git checkout origin/main -- overrides/ || true
+          git checkout origin/main -- monetization/ || true
+          git checkout origin/main -- shared-pages/ || true
+
+      - name: Checkout platform code
+        uses: actions/checkout@v4
+        with:
+          repository: atomicfuse/atomic-content-platform
+          path: platform
+          token: ${{ secrets.PLATFORM_REPO_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+
+      - uses: pnpm/action-setup@v4
+        with: { version: 10 }
+
+      - name: Cache pnpm store
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/share/pnpm/store
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('platform/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-
+
+      - name: Install dependencies
+        working-directory: platform
+        run: pnpm install --frozen-lockfile
+
+      - name: Build shared-types
+        working-directory: platform
+        run: pnpm --filter @atomic-platform/shared-types build
+
+      - name: Sync ${{ matrix.site }} to KV
+        working-directory: platform/packages/site-worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          NETWORK_DATA_PATH: ${{ github.workspace }}
+          # Target KV namespace + R2 bucket: staging for everything except
+          # main. main goes to prod. KEEP THESE TWO IN LOCK-STEP — sending
+          # KV writes to prod while uploading R2 assets to staging would
+          # mean live coolnews.dev image URLs 404 on every editorial push.
+          KV_NAMESPACE_ID: ${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}
+          R2_BUCKET: ${{ github.ref_name == 'main' && 'atl-assets-prod' || 'atl-assets-staging' }}
+          KV_REMOTE: "true"
+          R2_REMOTE: "true"
+        run: |
+          SITE="${{ matrix.site }}"
+          # Derive hostnames from dashboard-index.yaml.
+          # Always seed site:<domain>. Seed site:<custom_domain> + site:<pages_subdomain>.pages.dev where set.
+          HOSTS="$(python3 -c "
+          import yaml, sys
+          with open('$GITHUB_WORKSPACE/dashboard-index.yaml') as f: data = yaml.safe_load(f)
+          for s in data.get('sites', []):
+              if s.get('domain') == '$SITE':
+                  hs = [s['domain']]
+                  if s.get('custom_domain'): hs.append(s['custom_domain'])
+                  if s.get('pages_subdomain'): hs.append(s['pages_subdomain'] + '.pages.dev')
+                  print(' '.join(hs))
+                  break
+          ")"
+          echo "Hostnames for $SITE: $HOSTS"
+          pnpm seed:kv "$SITE" $HOSTS
+
+      - name: On-failure — record sync-status
+        if: failure()
+        working-directory: platform/packages/site-worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          NS_ID="${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}"
+          FAIL_PAYLOAD=$(jq -nc --arg sha "$GITHUB_SHA" --arg at "$(date -u +%FT%TZ)" \
+                         '{gitSha: $sha, committedAt: $at, syncedAt: $at, ok: false, error: "CI sync failed"}')
+          npx wrangler kv key put "sync-status:${{ matrix.site }}" "$FAIL_PAYLOAD" \
+            --namespace-id="$NS_ID" --remote || true
