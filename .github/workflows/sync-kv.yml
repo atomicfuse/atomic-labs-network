@@ -98,6 +98,10 @@ jobs:
               # group. For simplicity (mirrors deploy.yml behaviour), this
               # step triggers all sites — the KV writer is cheap and idempotent.
               should=true
+            elif echo "$CHANGED" | grep -qE "^overrides/config/" ; then
+              # Config overrides target sites by group or domain — any change
+              # could affect any site. Resync all, same as groups.
+              should=true
             fi
 
             if [[ "$should" == "true" ]]; then
