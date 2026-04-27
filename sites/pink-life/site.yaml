@@ -1,0 +1,69 @@
+domain: pink-life
+site_name: Pink Life
+site_tagline: null
+groups:
+  - mock-minimal
+active: true
+iab_vertical_code: "552"
+iab_category_codes:
+  - "554"
+  - "555"
+  - "580"
+  - "556"
+  - "558"
+  - "561"
+  - "566"
+  - "573"
+brief:
+  audiences:
+    - Social media users
+    - Young adults (18-24)
+    - Lifelong learners
+  audience_type_ids:
+    - 69dfca81bcd6b4dd1ba626b9
+    - 69dfca77bcd6b4dd1ba6267e
+    - 69dfca7dbcd6b4dd1ba626a2
+  tone: friendly
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Expert Guides
+    - Latest News
+    - Tips & Advice
+    - In-Depth Reviews
+  seo_keywords_focus: []
+  content_guidelines:
+    - trendy and cool
+  vertical: Style & Fashion
+  vertical_id: 69e61d3ebcd6b4dd1ba92a9f
+  category_ids:
+    - 69e61d7bbcd6b4dd1ba92c09
+    - 69e61d7cbcd6b4dd1ba92c0a
+    - 69e61d7dbcd6b4dd1ba92c12
+    - 69e61d7cbcd6b4dd1ba92c0b
+    - 69e61d7cbcd6b4dd1ba92c0d
+    - 69e61d7cbcd6b4dd1ba92c0f
+    - 69e61d7dbcd6b4dd1ba92c10
+    - 69e61d7dbcd6b4dd1ba92c11
+  review_percentage: 5
+  schedule:
+    articles_per_day: 5
+    preferred_days:
+      - Tuesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+  quality_threshold: 24
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+theme:
+  base: modern
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
