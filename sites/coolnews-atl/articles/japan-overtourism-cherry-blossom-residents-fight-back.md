@@ -10,6 +10,7 @@ publishDate: '2026-04-26'
 author: Editorial Team
 tags:
   - Current Events
+  - In-Depth Analysis
   - japan
   - tourism
   - cultural-impact

@@ -9,6 +9,7 @@ publishDate: '2026-04-26'
 author: Editorial Team
 tags:
   - Current Events
+  - In-Depth Analysis
   - viktor orban
   - hungary politics
   - democratic transition

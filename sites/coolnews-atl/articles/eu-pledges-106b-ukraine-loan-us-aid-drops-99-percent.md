@@ -9,6 +9,7 @@ publishDate: '2026-04-23'
 author: Editorial Team
 tags:
   - Current Events
+  - In-Depth Analysis
   - ukraine
   - eu-aid
   - military-spending
