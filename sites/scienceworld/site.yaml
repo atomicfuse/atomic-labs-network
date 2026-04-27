@@ -42,5 +42,6 @@ brief:
     keyword_relevance: 20
 theme:
   base: bold
+  layout_v2: true
   logo: /assets/logo.png
   favicon: /assets/logo.png
