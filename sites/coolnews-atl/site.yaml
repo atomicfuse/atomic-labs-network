@@ -8,6 +8,10 @@ groups:
 active: true
 tracking:
   ga4: G-COOLNEWS-XXX
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  custom: []
 scripts_vars:
   alpha_site_id: coolnews-atl-001
   alpha_zone: news
@@ -50,3 +54,13 @@ theme:
   favicon: /assets/logo.png
 legal:
   site_description: news and current events
+scripts:
+  head:
+    - id: backgroundColorr
+      inline: <script> document.body.style.backgroundColor = 'red'; </script>
+  body_start: []
+  body_end: []
+ads_config:
+  interstitial: false
+  layout: standard
+  ad_placements: []
