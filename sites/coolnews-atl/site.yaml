@@ -55,6 +55,9 @@ theme:
   favicon: /assets/logo.png
 legal:
   site_description: news and current events
+categories:
+  enabled: true
+  per_page: 12
 ads_config:
   interstitial: false
   layout: standard
