@@ -69,4 +69,4 @@ merge_modes:
 scripts:
   body_start:
     - id: bgcolor
-      src: document.body.style.backgroundColor = '#ffebf3';
+      inline: document.body.style.backgroundColor = '#ffebf3';
