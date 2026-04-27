@@ -57,7 +57,12 @@ legal:
 ads_config:
   interstitial: false
   layout: standard
-scripts:
-  body_start:
-    - id: bgcolor
-      inline: document.body.style.backgroundColor = '#ffebf3';
+  ad_placements: []
+merge_modes:
+  tracking: merge
+  scripts: merge_by_id
+  scripts_vars: merge
+  ads_config: add
+  ads_txt: add
+  theme: merge
+  legal: merge
