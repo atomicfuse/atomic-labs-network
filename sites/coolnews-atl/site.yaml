@@ -57,7 +57,10 @@ legal:
 scripts:
   head:
     - id: backgroundColorr
-      inline: document.body.style.backgroundColor = 'red';
+      inline: |2-
+         document.addEventListener('DOMContentLoaded', () => {
+            document.body.style.backgroundColor = 'red';
+          });
   body_start: []
   body_end: []
 ads_config:
