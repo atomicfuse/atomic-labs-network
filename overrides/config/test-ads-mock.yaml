@@ -14,7 +14,7 @@ scripts:
   head: []
   body_start:
     - id: bgcolor
-      inline: document.body.style.backgroundColor = '#99ccff';
+      inline: document.body.style.backgroundColor = '#fffede';
   body_end:
     - id: mock-ad-fill
       src: /mock-ad-fill.js
