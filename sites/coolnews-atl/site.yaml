@@ -50,6 +50,7 @@ brief:
     keyword_relevance: 20
 theme:
   base: modern
+  layout_v2: true
   logo: /assets/logo.png
   favicon: /assets/logo.png
 legal:
