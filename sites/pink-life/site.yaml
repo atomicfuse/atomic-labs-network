@@ -1,8 +1,7 @@
 domain: pink-life
 site_name: Pink Life
 site_tagline: null
-groups:
-  - mock-minimal
+groups: []
 active: true
 iab_vertical_code: "552"
 iab_category_codes:
@@ -65,5 +64,41 @@ brief:
     keyword_relevance: 20
 theme:
   base: modern
+  layout_v2: true
   logo: /assets/logo.png
   favicon: /assets/logo.png
+  colors:
+    primary: "#8a007e"
+    accent: "#f4c8ec"
+    background: "#ffffff"
+    secondary: "#1a1a2e"
+    text: "#1a1a2e"
+    muted: "#6b7280"
+    surface: "#f8f9fa"
+    border: "#e5e7eb"
+    footer_bg: "#e89be2"
+    must_reads_bg: "#af83ac"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1a1a2e"
+    feed_desc: "#1a1a2e"
+    feed_date: "#6b7280"
+    prose_heading: "#1a1a2e"
+    prose_body: "#1a1a2e"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Inter
+    body: Inter
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
