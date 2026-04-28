@@ -4,6 +4,7 @@ priority: 100
 targets:
   sites:
     - coolnews-atl
+    - pink-life
 tracking:
   ga4: G-TESTDEMO000
   gtm: null
