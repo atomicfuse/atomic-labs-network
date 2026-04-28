@@ -67,3 +67,21 @@ theme:
   layout_v2: true
   logo: /assets/logo.png
   favicon: /assets/logo.png
+  colors:
+    primary: "#c266ba"
+    accent: "#f4c8ec"
+  fonts:
+    heading: Inter
+    body: Inter
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
