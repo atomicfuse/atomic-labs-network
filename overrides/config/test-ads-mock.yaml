@@ -13,9 +13,7 @@ tracking:
   custom: []
 scripts:
   head: []
-  body_start:
-    - id: bgcolor
-      inline: document.body.style.backgroundColor = '#fffede';
+  body_start: []
   body_end:
     - id: mock-ad-fill
       src: /mock-ad-fill.js
