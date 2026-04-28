@@ -68,3 +68,47 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/logo.png
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  custom: []
+scripts:
+  body_start:
+    - id: test
+      inline: |-
+        <script>
+        (function() {
+            // 1. Create a container for the ad
+            var adContainer = document.createElement('div');
+            adContainer.id = 'custom-header-ad';
+            
+            // 2. Style the ad container
+            adContainer.style.cssText = `
+                background-color: #f9f9f9;
+                text-align: center;
+                padding: 15px;
+                border-bottom: 1px solid #ddd;
+                font-family: Arial, sans-serif;
+            `;
+            
+            // 3. Add your ad content (HTML)
+            adContainer.innerHTML = `
+                <div style="font-size: 14px; color: #666; margin-bottom: 5px;">SPONSORED</div>
+                <a href="https://yourwebsite.com" target="_blank" style="text-decoration: none; color: #333;">
+                    <h3 style="margin: 5px 0; color: #007bff;">🔥 Limited Time Offer!</h3>
+                    <p style="margin: 0; font-size: 16px;">Get 20% off all services today. Click here to learn more.</p>
+                </a>
+            `;
+
+            // 4. Inject the ad at the very top of the webpage body
+            window.addEventListener('DOMContentLoaded', function() {
+                document.body.insertBefore(adContainer, document.body.firstChild);
+            });
+        })();
+        </script>
+scripts_vars: {}
+ads_config:
+  interstitial: false
+  layout: standard
