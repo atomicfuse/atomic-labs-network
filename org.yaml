@@ -36,9 +36,11 @@ ads_config:
   layout: standard
   ad_placements:
     - id: homepage-sidebar
+      position: sidebar
       type: display
       size: medium-rectangle
     - id: article-sidebar
+      position: sidebar
       type: display
       size: medium-rectangle
 
