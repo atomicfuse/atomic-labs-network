@@ -53,6 +53,29 @@ theme:
   layout_v2: true
   logo: /assets/logo.png
   favicon: /assets/logo.png
+  colors:
+    primary: "#0f4c81"
+    accent: "#10b981"
+    background: "#f8fafc"
+    secondary: "#0f172a"
+    text: "#0f172a"
+    muted: "#64748b"
+    surface: "#e2e8f0"
+    border: "#cbd5e1"
+    footer_bg: "#0f172a"
+    must_reads_bg: "#0f172a"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#0f172a"
+    feed_desc: "#0f172a"
+    feed_date: "#64748b"
+    prose_heading: "#0f172a"
+    prose_body: "#1e293b"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Inter
+    body: Inter
 legal:
   site_description: news and current events
 categories:
@@ -61,3 +84,15 @@ categories:
 ads_config:
   interstitial: false
   layout: standard
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
