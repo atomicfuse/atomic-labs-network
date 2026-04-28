@@ -77,8 +77,8 @@ tracking:
 scripts:
   body_start:
     - id: test
-      inline: |-
-        <script>
+      inline: |
+        
         (function() {
             // 1. Create a container for the ad
             var adContainer = document.createElement('div');
@@ -107,7 +107,6 @@ scripts:
                 document.body.insertBefore(adContainer, document.body.firstChild);
             });
         })();
-        </script>
 scripts_vars: {}
 ads_config:
   interstitial: false
