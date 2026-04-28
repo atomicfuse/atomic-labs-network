@@ -70,6 +70,8 @@ theme:
   colors:
     primary: "#c266ba"
     accent: "#f4c8ec"
+    footer_bg: "#e89be2"
+    must_reads_bg: "#af83ac"
   fonts:
     heading: Inter
     body: Inter
