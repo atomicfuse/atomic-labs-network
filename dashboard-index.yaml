@@ -57,28 +57,4 @@ sites:
     preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=travel-with-atl
     saved_previews: null
     custom_domain: null
-deleted:
-  - domain: scienceworld
-    company: ATL
-    vertical: Travel
-    status: Staging
-    site_id: "6603398636894"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-04-26T11:00:00.000Z
-    created_at: 2026-04-19T12:56:38.636Z
-    pages_project: scienceworld
-    pages_subdomain: scienceworld-124
-    zone_id: null
-    staging_branch: staging/scienceworld
-    preview_url: https://staging-scienceworld.scienceworld-124.pages.dev
-    saved_previews: null
-    custom_domain: null
-    worker: atomic-site-worker-staging
-    worker_kv_staging: 4673c82cdd7f41d49e93d938fb1c6848
-    worker_kv_prod: a69cb2c59507482ca5e6d114babdd098
-    worker_pending_dns: true
-    deleted_at: 2026-04-30T14:40:08.571Z
+deleted: []
