@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-04-30T13:02:04.757Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "coolnews-atl",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 3,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "scienceworld",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "All 1 item(s) checked were duplicates (1 dupes)"
+      },
+      {
+        "domain": "pink-life",
+        "status": "success",
+        "articlesCreated": 5,
+        "articlesRequested": 5
+      },
+      {
+        "domain": "travel-with-atl",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 1,
+        "message": "All 1 item(s) checked were duplicates (1 dupes)"
+      }
+    ],
+    "skipped": []
+  },
+  {
     "timestamp": "2026-04-30T08:58:55.060Z",
     "timezone": "EST",
     "forced": true,
