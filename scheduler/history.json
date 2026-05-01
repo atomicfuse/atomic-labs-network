@@ -1,5 +1,31 @@
 [
   {
+    "timestamp": "2026-05-01T13:00:59.799Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "pink-life",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "travel-with-atl",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 1,
+        "message": "All 1 item(s) checked were duplicates (1 dupes)"
+      }
+    ],
+    "skipped": [
+      {
+        "domain": "coolnews-atl",
+        "reason": "not a preferred day (Tuesday, Wednesday, Thursday, Saturday)"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-30T13:02:04.757Z",
     "timezone": "EST",
     "forced": false,
