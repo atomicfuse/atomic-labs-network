@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-05-02T13:00:10.425Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "coolnews-atl",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 3,
+        "message": "Aggregator returned 0 items for this site's topics"
+      }
+    ],
+    "skipped": [
+      {
+        "domain": "pink-life",
+        "reason": "not a preferred day (Tuesday, Thursday, Friday)"
+      },
+      {
+        "domain": "travel-with-atl",
+        "reason": "not a preferred day (Monday, Tuesday, Wednesday, Thursday, Friday)"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-05-01T13:00:59.799Z",
     "timezone": "EST",
     "forced": false,
