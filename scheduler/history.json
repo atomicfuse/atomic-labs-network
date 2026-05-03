@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-05-03T13:00:02.236Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [],
+    "skipped": [
+      {
+        "domain": "coolnews-atl",
+        "reason": "not a preferred day (Tuesday, Wednesday, Thursday, Saturday)"
+      },
+      {
+        "domain": "pink-life",
+        "reason": "not a preferred day (Tuesday, Thursday, Friday)"
+      },
+      {
+        "domain": "travel-with-atl",
+        "reason": "not a preferred day (Monday, Tuesday, Wednesday, Thursday, Friday)"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-05-02T13:00:10.425Z",
     "timezone": "EST",
     "forced": false,
