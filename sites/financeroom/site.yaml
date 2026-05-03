@@ -1,0 +1,99 @@
+domain: financeroom
+site_name: finance-room
+site_tagline: null
+groups:
+  - mock-minimal
+active: true
+iab_vertical_code: "52"
+iab_category_codes:
+  - "83"
+  - "95"
+  - "84"
+  - "85"
+  - "54"
+  - "63"
+brief:
+  audiences:
+    - Mature adults (45-54)
+    - Seniors (65+)
+    - Mobile-first users
+    - Couples
+    - Lifelong learners
+  audience_type_ids:
+    - 69dfca77bcd6b4dd1ba62681
+    - 69dfca78bcd6b4dd1ba62683
+    - 69dfca81bcd6b4dd1ba626ba
+    - 69dfca7ebcd6b4dd1ba626a4
+    - 69dfca7dbcd6b4dd1ba626a2
+  tone: finance and economics article
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Market Analysis
+    - Personal Finance
+    - Investment Tips
+    - Economic Trends
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Business and Finance
+  vertical_id: 69e61d39bcd6b4dd1ba92a81
+  category_ids:
+    - 69e61d39bcd6b4dd1ba92a81
+    - 69e61d79bcd6b4dd1ba92bf9
+    - 69e61d7bbcd6b4dd1ba92c04
+    - 69e61d79bcd6b4dd1ba92bfa
+    - 69e61d79bcd6b4dd1ba92bfb
+    - 69e61d76bcd6b4dd1ba92be3
+    - 69e61d77bcd6b4dd1ba92bed
+  review_percentage: 5
+  schedule:
+    articles_per_day: 3
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: custom
+  colors:
+    primary: "#334155"
+    accent: "#7d7ebf"
+    background: "#ffffff"
+    secondary: "#1e293b"
+    text: "#1e293b"
+    muted: "#94a3b8"
+    surface: "#f1f5f9"
+    border: "#e2e8f0"
+    footer_bg: "#1e293b"
+    must_reads_bg: "#1e293b"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1e293b"
+    feed_desc: "#334155"
+    feed_date: "#94a3b8"
+    prose_heading: "#1e293b"
+    prose_body: "#334155"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
+layout:
+  hero:
+    enabled: true
+    count: 3
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
