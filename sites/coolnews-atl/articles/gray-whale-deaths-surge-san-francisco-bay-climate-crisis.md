@@ -7,6 +7,7 @@ publishDate: 2026-04-21
 author: Editorial Team
 tags:
   - Current Events
+  - In-Depth Analysis
   - climate change
   - marine conservation
   - san francisco

@@ -9,6 +9,7 @@ publishDate: '2026-04-21'
 author: Editorial Team
 tags:
   - Policy & Politics
+  - In-Depth Analysis
   - supreme court
   - judicial integrity
   - institutional accountability

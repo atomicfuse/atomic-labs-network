@@ -10,6 +10,7 @@ publishDate: '2026-04-23'
 author: Editorial Team
 tags:
   - Current Events
+  - In-Depth Analysis
   - environmental-damage
   - iran-conflict
   - satellite-technology
