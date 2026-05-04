@@ -1,0 +1,97 @@
+domain: financerooms
+site_name: finance-rooms
+site_tagline: null
+groups:
+  - mock-minimal
+active: true
+iab_vertical_code: "52"
+iab_category_codes:
+  - "54"
+  - "63"
+  - "83"
+  - "95"
+  - "84"
+  - "85"
+brief:
+  audiences:
+    - Older adults (55-64)
+    - Seniors (65+)
+    - Parents
+    - Retirees
+  audience_type_ids:
+    - 69dfca78bcd6b4dd1ba62682
+    - 69dfca78bcd6b4dd1ba62683
+    - 69dfca7abcd6b4dd1ba6268e
+    - 69dfca7abcd6b4dd1ba62691
+  tone: professional, dramatic
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Market Analysis
+    - Personal Finance
+    - Investment Tips
+    - Economic Trends
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Business and Finance
+  vertical_id: 69e61d39bcd6b4dd1ba92a81
+  category_ids:
+    - 69e61d39bcd6b4dd1ba92a81
+    - 69e61d76bcd6b4dd1ba92be3
+    - 69e61d77bcd6b4dd1ba92bed
+    - 69e61d79bcd6b4dd1ba92bf9
+    - 69e61d7bbcd6b4dd1ba92c04
+    - 69e61d79bcd6b4dd1ba92bfa
+    - 69e61d79bcd6b4dd1ba92bfb
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: custom
+  colors:
+    primary: "#e1ae9d"
+    accent: "#49362d"
+    background: "#fffbeb"
+    secondary: "#1c1917"
+    text: "#1c1917"
+    muted: "#78716c"
+    surface: "#fef3c7"
+    border: "#d6d3d1"
+    footer_bg: "#1c1917"
+    must_reads_bg: "#1c1917"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1c1917"
+    feed_desc: "#1c1917"
+    feed_date: "#78716c"
+    prose_heading: "#1c1917"
+    prose_body: "#292524"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
