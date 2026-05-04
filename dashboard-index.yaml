@@ -19,24 +19,4 @@ sites:
     saved_previews: null
     custom_domain: coolnews.dev
     worker_pending_dns: false
-deleted:
-  - domain: financeroom
-    company: ATL
-    vertical: Business and Finance
-    status: Staging
-    site_id: "7820659192632"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-03T15:04:19.192Z
-    created_at: 2026-05-03T15:04:19.192Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/financeroom
-    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=financeroom
-    saved_previews: null
-    custom_domain: null
-    deleted_at: 2026-05-04T13:49:19.597Z
+deleted: []
