@@ -35,7 +35,8 @@ brief:
     - Investment Tips
     - Economic Trends
   seo_keywords_focus: []
-  content_guidelines: []
+  content_guidelines:
+    - "generate only realistic images for articles no matter what. "
   vertical: Business and Finance
   vertical_id: 69e61d39bcd6b4dd1ba92a81
   category_ids:
@@ -56,6 +57,14 @@ brief:
       - Thursday
       - Friday
     preferred_time: 10:00
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  tag_ids: []
 theme:
   base: custom
   colors:
