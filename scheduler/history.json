@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-05-06T13:00:13.697Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "coolnews-atl",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 3,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "financerooms",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      }
+    ],
+    "skipped": []
+  },
+  {
     "timestamp": "2026-05-05T13:00:15.160Z",
     "timezone": "EST",
     "forced": false,
