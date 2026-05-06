@@ -30,6 +30,7 @@ ads_config:
       type: once_per_session
     page_types:
       - all
+    close_delay_seconds: 3
   layout: standard
   ad_placements:
     - id: top-banner
