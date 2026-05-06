@@ -21,6 +21,15 @@ scripts:
       async: true
 ads_config:
   interstitial: true
+  interstitial_config:
+    script_url: https://cdn.example.com/interstitial-demo.js
+    trigger:
+      type: delay
+      delay_seconds: 3
+    frequency:
+      type: once_per_session
+    page_types:
+      - all
   layout: standard
   ad_placements:
     - id: top-banner

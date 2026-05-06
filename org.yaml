@@ -33,6 +33,15 @@ scripts_vars: {}
 
 ads_config:
   interstitial: false
+  interstitial_config:
+    script_url: ""
+    trigger:
+      type: delay
+      delay_seconds: 5
+    frequency:
+      type: once_per_session
+    page_types:
+      - all
   layout: standard
   ad_placements:
     - id: homepage-sidebar
