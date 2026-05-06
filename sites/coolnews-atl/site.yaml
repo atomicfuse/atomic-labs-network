@@ -48,11 +48,14 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
+  audiences:
+    - News readers 25-55
+  audience_type_ids: []
 theme:
   base: modern
   layout_v2: true
   logo: /assets/logo.png
-  favicon: /assets/logo.png
+  favicon: /assets/favicon.png
   colors:
     primary: "#0f4c81"
     accent: "#10b981"
@@ -82,7 +85,6 @@ categories:
   enabled: true
   per_page: 12
 ads_config:
-  interstitial: false
   layout: standard
 layout:
   hero:
