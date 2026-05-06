@@ -117,9 +117,15 @@ ads_config:
     script_url: ""
     script_inline: |-
       const grid = document.createElement("div");
+
+      grid.style.position = "fixed";
+      grid.style.inset = "0";
+      grid.style.background = "rgba(0,0,0,0.65)";
       grid.style.display = "grid";
       grid.style.gridTemplateColumns = "repeat(3, 1fr)";
       grid.style.gap = "12px";
+      grid.style.padding = "40px";
+      grid.style.zIndex = "99999";
 
       const ads = [
         ["Sale for Doll", "#ff6b6b"],
@@ -150,11 +156,11 @@ ads_config:
         grid.appendChild(item);
       });
 
-      // Add grid into your interstitial div
-      document.getElementById("YOUR_INTERSTITIAL_ID").appendChild(grid);
+      // append directly to body
+      document.body.appendChild(grid);
     trigger:
       type: delay
-      delay_seconds: 5
+      delay_seconds: 1
       scroll_percent: 50
     frequency:
       type: once_per_session
