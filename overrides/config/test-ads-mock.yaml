@@ -20,7 +20,7 @@ scripts:
       src: /mock-ad-fill.js
       async: true
 ads_config:
-  interstitial: false
+  interstitial: true
   layout: standard
   ad_placements:
     - id: top-banner
