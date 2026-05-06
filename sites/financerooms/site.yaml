@@ -161,5 +161,5 @@ ads_config:
       max_per_session: 1
     page_types:
       - all
-    close_delay_seconds: 3
+    close_delay_seconds: 8
   layout: standard
