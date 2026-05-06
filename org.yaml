@@ -75,6 +75,9 @@ layout:
   load_more:
     page_size: 10
 
+search:
+  enabled: true
+
 legal:
   company_name: "Atomic Labs Ltd"
   company_country: "Israel"
