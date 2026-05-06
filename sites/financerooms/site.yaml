@@ -1,5 +1,5 @@
 domain: financerooms
-site_name: finance-rooms
+site_name: FinanceRooms
 site_tagline: null
 groups:
   - mock-minimal
