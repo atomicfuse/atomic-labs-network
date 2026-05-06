@@ -91,7 +91,7 @@ theme:
     heading: Inter
     body: Inter
   logo: /assets/logo.png
-  favicon: /assets/logo.png
+  favicon: /assets/favicon.png
 layout:
   hero:
     enabled: true
