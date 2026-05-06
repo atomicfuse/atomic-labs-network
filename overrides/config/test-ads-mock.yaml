@@ -5,6 +5,7 @@ targets:
   sites:
     - coolnews-atl
     - pink-life
+    - financerooms
 tracking:
   ga4: G-TESTDEMO000
   gtm: null
