@@ -104,3 +104,62 @@ layout:
     explicit: []
   load_more:
     page_size: 10
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  custom: []
+scripts_vars: {}
+ads_config:
+  interstitial: true
+  interstitial_config:
+    script_url: ""
+    script_inline: |-
+      const grid = document.createElement("div");
+      grid.style.display = "grid";
+      grid.style.gridTemplateColumns = "repeat(3, 1fr)";
+      grid.style.gap = "12px";
+
+      const ads = [
+        ["Sale for Doll", "#ff6b6b"],
+        ["Sale for Teddy Bear", "#4ecdc4"],
+        ["Sale for Tennis", "#45b7d1"],
+        ["Sale for Toys", "#f7b731"],
+        ["Sale for Games", "#a55eea"],
+        ["Sale for Kids", "#26de81"]
+      ];
+
+      ads.forEach(([text, color]) => {
+        const item = document.createElement("div");
+
+        item.innerHTML = text;
+        item.style.background = color;
+        item.style.minHeight = "130px";
+        item.style.borderRadius = "14px";
+        item.style.color = "white";
+        item.style.fontSize = "22px";
+        item.style.fontWeight = "bold";
+        item.style.display = "flex";
+        item.style.alignItems = "center";
+        item.style.justifyContent = "center";
+        item.style.textAlign = "center";
+        item.style.padding = "12px";
+        item.style.cursor = "pointer";
+
+        grid.appendChild(item);
+      });
+
+      // Add grid into your interstitial div
+      document.getElementById("YOUR_INTERSTITIAL_ID").appendChild(grid);
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: once_per_session
+      max_per_session: 1
+    page_types:
+      - all
+    close_delay_seconds: 3
+  layout: standard
