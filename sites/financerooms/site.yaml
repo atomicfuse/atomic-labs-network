@@ -163,9 +163,9 @@ ads_config:
       delay_seconds: 1
       scroll_percent: 50
     frequency:
-      type: once_per_session
-      max_per_session: 1
+      type: custom
+      max_per_session: 30
     page_types:
       - all
-    close_delay_seconds: 8
+    close_delay_seconds: 4
   layout: standard
