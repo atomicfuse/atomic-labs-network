@@ -165,6 +165,6 @@ ads_config:
       type: custom
       max_per_session: 30
     page_types:
-      - all
-    close_delay_seconds: 4
+      - homepage
+    close_delay_seconds: 1
   layout: standard
