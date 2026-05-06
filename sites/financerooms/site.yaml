@@ -116,50 +116,51 @@ ads_config:
   interstitial_config:
     script_url: ""
     script_inline: |2-
-        (function() {                                                                                                                                                                                         
-          var overlay = document.createElement("div");                                                                                                                                                        
-          overlay.style.cssText = "position:fixed;inset:0;z-index:99999;background:rgba(0,0,0,0.75);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;font-family:-apple-system
-        ,BlinkMacSystemFont,sans-serif";                                                                                                                                                                      
+      
+        (function() {
+            var overlay = document.createElement("div");
+            overlay.style.cssText = "position:fixed;inset:0;z-index:99999;background:rgba(0,0,0,0.75);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;font-family:-apple-syst
+        em,BlinkMacSystemFont,sans-serif";
 
-          var card = document.createElement("div");
-          card.style.cssText = "background:#fff;border-radius:16px;padding:28px;max-width:680px;width:92%;max-height:85vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.3);position:relative";
+            var card = document.createElement("div");
+            card.style.cssText = "background:#fff;border-radius:16px;padding:28px;max-width:680px;width:92%;max-height:85vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.3);position:relative";
 
-          var title = document.createElement("div");
-          title.textContent = "You may like:";
-          title.style.cssText = "font-size:18px;font-weight:700;color:#222;margin-bottom:16px";
-          card.appendChild(title);
+            var title = document.createElement("div");
+            title.textContent = "You may like:";
+            title.style.cssText = "font-size:18px;font-weight:700;color:#222;margin-bottom:16px";
+            card.appendChild(title);
 
-          var grid = document.createElement("div");
-          grid.style.cssText = "display:grid;grid-template-columns:repeat(3,1fr);gap:12px";
+            var grid = document.createElement("div");
+            grid.style.cssText = "display:grid;grid-template-columns:repeat(3,1fr);gap:12px";
 
-          var ads = [
-            ["Sale for Doll", "#ff6b6b"],
-            ["Sale for Teddy Bear", "#4ecdc4"],
-            ["Sale for Tennis", "#45b7d1"],
-            ["Sale for Toys", "#f7b731"],
-            ["Sale for Games", "#a55eea"],
-            ["Sale for Kids", "#26de81"]
-          ];
+            var ads = [
+              ["Sale for Doll", "#ff6b6b"],
+              ["Sale for Teddy Bear", "#4ecdc4"],
+              ["Sale for Tennis", "#45b7d1"],
+              ["Sale for Toys", "#f7b731"],
+              ["Sale for Games", "#a55eea"],
+              ["Sale for Kids", "#26de81"]
+            ];
 
-          ads.forEach(function(ad) {
-            var item = document.createElement("div");
-            item.textContent = ad[0];
-            item.style.cssText = "background:" + ad[1] +
+            ads.forEach(function(ad) {
+              var item = document.createElement("div");
+              item.textContent = ad[0];
+              item.style.cssText = "background:" + ad[1] +
         ";min-height:130px;border-radius:14px;color:#fff;font-size:20px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;padding:12px;cursor:pointer";
-            grid.appendChild(item);
-          });
+              grid.appendChild(item);
+            });
 
-          card.appendChild(grid);
+            card.appendChild(grid);
 
-          var closeBtn = document.createElement("button");
-          closeBtn.textContent = "\u2715";
-          closeBtn.style.cssText = "position:absolute;top:12px;right:16px;background:none;border:none;font-size:22px;color:#666;cursor:pointer;padding:4px";
-          closeBtn.onclick = function() { overlay.style.opacity="0"; setTimeout(function(){ overlay.remove(); }, 300); };
-          card.appendChild(closeBtn);
+            var closeBtn = document.createElement("button");
+            closeBtn.textContent = "\u2715";
+            closeBtn.style.cssText = "position:absolute;top:12px;right:16px;background:none;border:none;font-size:22px;color:#666;cursor:pointer;padding:4px";
+            closeBtn.onclick = function() { overlay.style.opacity="0"; setTimeout(function(){ overlay.remove(); }, 300); };
+            card.appendChild(closeBtn);
 
-          overlay.appendChild(card);
-          overlay.addEventListener("click", function(e) { if (e.target === overlay) closeBtn.onclick(); });
-          document.body.appendChild(overlay);
+            overlay.appendChild(card);
+            overlay.addEventListener("click", function(e) { if (e.target === overlay) closeBtn.onclick(); });
+            document.body.appendChild(overlay);
         })();
     trigger:
       type: delay
