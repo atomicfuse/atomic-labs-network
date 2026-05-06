@@ -82,16 +82,6 @@ categories:
   enabled: true
   per_page: 12
 ads_config:
-  interstitial: false
-  interstitial_config:
-    script_url: ""
-    trigger:
-      type: delay
-      delay_seconds: 5
-    frequency:
-      type: once_per_session
-    page_types:
-      - all
   layout: standard
 layout:
   hero:
