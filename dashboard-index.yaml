@@ -22,22 +22,23 @@ sites:
   - domain: financerooms
     company: ATL
     vertical: Business and Finance
-    status: Ready
+    status: Live
     site_id: "7904143973757"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-04T14:50:04.876Z
+    last_updated: 2026-05-07T11:37:32.507Z
     created_at: 2026-05-04T14:15:43.972Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 2c620d60ee2ef8c27e4b14c2c5be9d41
     staging_branch: staging/financerooms
     preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=financerooms
     saved_previews: null
-    custom_domain: null
+    custom_domain: financenewsbase.com
+    worker_pending_dns: false
   - domain: muvizzcom
     company: ATL
     vertical: Entertainment
