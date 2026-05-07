@@ -38,6 +38,18 @@ brief:
       - thursday
       - friday
     preferred_time: 10:00
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  vertical_id: 69e61d3abcd6b4dd1ba92a89
+  category_ids:
+    - 69e61d89bcd6b4dd1ba92c5c
+    - 69e61d8ebcd6b4dd1ba92c75
+  tag_ids: []
 theme:
   base: modern
   logo: /assets/logo.png
