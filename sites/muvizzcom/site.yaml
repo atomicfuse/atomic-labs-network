@@ -58,7 +58,7 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   fonts:
-    heading: Playfair Display
+    heading: Poppins
     body: Inter
   colors:
     primary: "#f0c674"
