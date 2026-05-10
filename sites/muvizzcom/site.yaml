@@ -61,22 +61,37 @@ theme:
     heading: Playfair Display
     body: Inter
   colors:
-    primary: "#1a1a2e"
-    secondary: "#16213e"
+    primary: "#f0c674"
     accent: "#e2b04a"
-    background: "#ffffff"
+    background: "#f5e8d5"
+    secondary: "#16213e"
     text: "#1a1a2e"
     muted: "#6b7280"
     surface: "#f8f9fa"
     border: "#e5e7eb"
-    footer_bg: "#0f0f1a"
+    footer_bg: "#2a0d0d"
+    must_reads_bg: "#2a0d0d"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    must_reads_bg: "#16213e"
-    article_hero_title: "#ffffff"
+    article_hero_title: "#f5e8d5"
     feed_title: "#1a1a2e"
     feed_desc: "#374151"
     feed_date: "#6b7280"
+    prose_heading: "#1a1a2e"
+    prose_body: "#1a1a2e"
+    category_header_text: "#1a1a2e"
 bundle_id: 69fc85d43b9b41a91a781963
 site_name: Muvizz.com
 site_tagline: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
