@@ -30,13 +30,15 @@ brief:
     - Maintain an engaging, fan-friendly tone
   review_percentage: 0
   schedule:
-    articles_per_day: 3
+    articles_per_day: 2
     preferred_days:
       - monday
       - tuesday
       - wednesday
       - thursday
       - friday
+      - Monday
+      - Tuesday
     preferred_time: 10:00
   quality_threshold: 75
   quality_weights:
