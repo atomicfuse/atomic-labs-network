@@ -1,0 +1,80 @@
+domain: chaibeseret
+site_name: chai-beseret
+site_tagline: null
+groups:
+  - adsense-default
+active: true
+bundle_id: 6a009ad52a0a294c696af909
+iab_vertical_code: JLBCU7
+brief:
+  audiences:
+    - Heavy streamers
+  audience_type_ids:
+    - 6a0079411104bbff809b80d3
+  tone: friendly, chill
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - breaking news
+    - tv shows
+    - reviews
+    - movie trailers
+    - spoilers
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  category_ids:
+    - 6a00793d1104bbff809b7c32
+    - 6a0079401104bbff809b7fdb
+    - 6a0079401104bbff809b800b
+    - 6a0079401104bbff809b7fd9
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+      - Thursday
+    preferred_time: 10:00
+theme:
+  base: custom
+  colors:
+    primary: "#ef0b90"
+    accent: "#731db9"
+    background: "#141414"
+    secondary: "#1a1a2e"
+    text: "#ffffff"
+    muted: "#8C8C8C"
+    surface: "#2a2a2a"
+    border: "#333333"
+    footer_bg: "#1a1a2e"
+    must_reads_bg: "#1a1a2e"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#ffffff"
+    feed_desc: "#e0e0e0"
+    feed_date: "#8C8C8C"
+    prose_heading: "#ffffff"
+    prose_body: "#e0e0e0"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
