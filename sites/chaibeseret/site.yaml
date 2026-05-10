@@ -62,8 +62,8 @@ theme:
     prose_body: "#e0e0e0"
     category_header_text: "#ffffff"
   fonts:
-    heading: Inter
-    body: Inter
+    heading: Roboto
+    body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
 layout:
