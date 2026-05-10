@@ -208,15 +208,24 @@ jobs:
           echo "Hostnames for $SITE: $HOSTS"
           pnpm seed:kv "$SITE" $HOSTS
 
-      - name: On-failure — record sync-status
+      - name: On-failure — record sync-status + notify
         if: failure()
         working-directory: platform/packages/site-worker
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           NS_ID="${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}"
           FAIL_PAYLOAD=$(jq -nc --arg sha "$GITHUB_SHA" --arg at "$(date -u +%FT%TZ)" \
                          '{gitSha: $sha, committedAt: $at, syncedAt: $at, ok: false, error: "CI sync failed"}')
           npx wrangler kv key put "sync-status:${{ matrix.site }}" "$FAIL_PAYLOAD" \
             --namespace-id="$NS_ID" --remote || true
+
+          # Notify Slack (skip silently if webhook not configured)
+          if [[ -n "$SLACK_WEBHOOK_URL" ]]; then
+            curl -sf -X POST "$SLACK_WEBHOOK_URL" \
+              -H 'Content-Type: application/json' \
+              -d "{\"text\":\"KV sync failed for site: ${{ matrix.site }} (branch: ${{ github.ref_name }}, sha: ${GITHUB_SHA:0:7})\"}" \
+              || true
+          fi
