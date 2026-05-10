@@ -78,7 +78,6 @@ theme:
     category_header_text: "#1a1a1a"
     prose_heading: "#2a1810"
     prose_body: "#3a2818"
-bundle_id: 69fc85d43b9b41a91a781963
 site_name: Muvizz.com
 site_tagline: null
 layout:
