@@ -58,25 +58,40 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   fonts:
-    heading: Playfair Display
+    heading: Poppins
     body: Inter
   colors:
-    primary: "#1a1a2e"
-    secondary: "#16213e"
-    accent: "#e2b04a"
-    background: "#ffffff"
-    text: "#1a1a2e"
-    muted: "#6b7280"
-    surface: "#f8f9fa"
-    border: "#e5e7eb"
-    footer_bg: "#0f0f1a"
+    primary: "#f5d580"
+    secondary: "#2a1810"
+    accent: "#d4a04c"
+    background: "#f8e8d4"
+    text: "#2a1810"
+    muted: "#6b5848"
+    surface: "#fdf4e3"
+    border: "#e8d4b0"
+    footer_bg: "#2a1810"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    must_reads_bg: "#16213e"
+    must_reads_bg: "#2a1810"
     article_hero_title: "#ffffff"
-    feed_title: "#1a1a2e"
-    feed_desc: "#374151"
-    feed_date: "#6b7280"
+    feed_title: "#2a1810"
+    feed_desc: "#5c4a3a"
+    feed_date: "#d4a04c"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#2a1810"
+    prose_body: "#3a2818"
 bundle_id: 69fc85d43b9b41a91a781963
 site_name: Muvizz.com
 site_tagline: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
