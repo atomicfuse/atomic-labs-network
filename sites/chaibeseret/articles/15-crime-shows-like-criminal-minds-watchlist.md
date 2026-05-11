@@ -1,12 +1,9 @@
 ---
 title: 15 Crime Shows Like Criminal Minds to Add to Your Watchlist
-description: >-
-  Discover compelling crime procedurals featuring psychological profiling, team
-  dynamics, and case-of-the-week storytelling that Criminal Minds fans will
-  love.
+description: Discover compelling crime procedurals featuring psychological profiling, team dynamics, and case-of-the-week storytelling that Criminal Minds fans will love.
 type: listicle
-status: review
-publishDate: '2026-05-11'
+status: published
+publishDate: 2026-05-11
 author: Editorial Team
 tags:
   - tv shows
@@ -15,11 +12,8 @@ tags:
   - streaming recommendations
   - psychological thriller
 slug: 15-crime-shows-like-criminal-minds-watchlist
-reviewer_notes: >-
-  Strong topic relevance and decent SEO structure, but significantly under
-  target word count and relies heavily on vague 'according to reports' without
-  actually listing the promised 15 shows.
-source_url: 'https://www.tvline.com/2167556/best-tv-shows-like-criminal-minds/'
+reviewer_notes: Approved via review queue.
+source_url: https://www.tvline.com/2167556/best-tv-shows-like-criminal-minds/
 source_item_id: 6a007a63e9d30be04c0c5fe0
 generated_by: claude
 featuredImage: /assets/images/15-crime-shows-like-criminal-minds-watchlist.webp
@@ -30,10 +24,7 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: >-
-  Strong topic relevance and decent SEO structure, but significantly under
-  target word count and relies heavily on vague 'according to reports' without
-  actually listing the promised 15 shows.
+quality_note: Strong topic relevance and decent SEO structure, but significantly under target word count and relies heavily on vague 'according to reports' without actually listing the promised 15 shows.
 reading_time: 3
 ---
 ## The Search for Your Next Crime Procedural Obsession

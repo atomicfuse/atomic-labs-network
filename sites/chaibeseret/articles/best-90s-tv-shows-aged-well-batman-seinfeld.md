@@ -1,12 +1,9 @@
 ---
 title: 7 Classic '90s TV Shows Still Captivating Audiences Decades Later
-description: >-
-  From Batman: The Animated Series to Seinfeld, these seven '90s television
-  classics have maintained their cultural relevance and appeal for modern
-  audiences on...
+description: "From Batman: The Animated Series to Seinfeld, these seven '90s television classics have maintained their cultural relevance and appeal for modern audiences on..."
 type: listicle
-status: review
-publishDate: '2026-05-11'
+status: published
+publishDate: 2026-05-11
 author: Editorial Team
 tags:
   - tv shows
@@ -16,12 +13,8 @@ tags:
   - batman animated series
   - seinfeld
 slug: best-90s-tv-shows-aged-well-batman-seinfeld
-reviewer_notes: >-
-  Article covers relevant topics with good keyword integration but suffers from
-  being too short, overly formal tone for the target audience, and vague
-  references without specific details about the promised seven shows.
-source_url: >-
-  https://comicbook.com/tv-shows/list/7-best-90s-tv-shows-that-have-aged-like-fine-wine/
+reviewer_notes: Approved via review queue.
+source_url: https://comicbook.com/tv-shows/list/7-best-90s-tv-shows-that-have-aged-like-fine-wine/
 source_item_id: 6a007a63e9d30be04c0c5fde
 generated_by: claude
 featuredImage: /assets/images/best-90s-tv-shows-aged-well-batman-seinfeld.webp
@@ -32,10 +25,7 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: >-
-  Article covers relevant topics with good keyword integration but suffers from
-  being too short, overly formal tone for the target audience, and vague
-  references without specific details about the promised seven shows.
+quality_note: Article covers relevant topics with good keyword integration but suffers from being too short, overly formal tone for the target audience, and vague references without specific details about the promised seven shows.
 reading_time: 3
 ---
 ## The Golden Age That Keeps on Giving

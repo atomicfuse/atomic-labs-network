@@ -1,12 +1,9 @@
 ---
-title: '7 Must-Watch TV Shows This Week: From New Period Drama to BAFTA Awards'
-description: >-
-  This week brings exciting new shows across major UK platforms, including
-  period dramas, true crime, and highly anticipated returns spanning ITV,
-  Netflix, BBC...
+title: "7 Must-Watch TV Shows This Week: From New Period Drama to BAFTA Awards"
+description: This week brings exciting new shows across major UK platforms, including period dramas, true crime, and highly anticipated returns spanning ITV, Netflix, BBC...
 type: listicle
-status: review
-publishDate: '2026-05-11'
+status: published
+publishDate: 2026-05-11
 author: Editorial Team
 tags:
   - tv shows
@@ -15,12 +12,8 @@ tags:
   - bafta
   - weekly guide
 slug: 7-must-watch-tv-shows-this-week-period-drama-bafta-awards
-reviewer_notes: >-
-  Article has good keyword coverage and SEO structure but is significantly too
-  short at 419 words and contains vague, potentially fabricated show details
-  without proper verification.
-source_url: >-
-  https://www.goodhousekeeping.com/uk/lifestyle/a71252805/best-tv-shows-this-week-downton-abbey/
+reviewer_notes: Approved via review queue.
+source_url: https://www.goodhousekeeping.com/uk/lifestyle/a71252805/best-tv-shows-this-week-downton-abbey/
 source_item_id: 6a007a63e9d30be04c0c5fd9
 generated_by: claude
 featuredImage: /assets/images/7-must-watch-tv-shows-this-week-period-drama-bafta-awards.webp
@@ -31,10 +24,7 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: >-
-  Article has good keyword coverage and SEO structure but is significantly too
-  short at 419 words and contains vague, potentially fabricated show details
-  without proper verification.
+quality_note: Article has good keyword coverage and SEO structure but is significantly too short at 419 words and contains vague, potentially fabricated show details without proper verification.
 reading_time: 2
 ---
 ## A Week Packed with Premium Television
