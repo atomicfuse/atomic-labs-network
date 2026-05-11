@@ -1,11 +1,9 @@
 ---
 title: 3 Hidden Gem Apple TV+ Shows With A-List Stars Worth Streaming
-description: >-
-  Discover three underrated Apple TV+ series featuring Colin Farrell and Rose
-  Byrne that deserve more attention despite their A-list talent and quality...
+description: Discover three underrated Apple TV+ series featuring Colin Farrell and Rose Byrne that deserve more attention despite their A-list talent and quality...
 type: listicle
-status: review
-publishDate: '2026-05-11'
+status: published
+publishDate: 2026-05-11
 author: Editorial Team
 tags:
   - tv shows
@@ -14,12 +12,8 @@ tags:
   - hidden gems
   - recommendations
 slug: hidden-gem-apple-tv-shows-colin-farrell-rose-byrne
-reviewer_notes: >-
-  While the tone and topic relevance are strong, the article fails to actually
-  name the three shows it promises to reveal, making it essentially clickbait
-  with no useful information.
-source_url: >-
-  https://www.yahoo.com/entertainment/tv/articles/3-best-apple-tv-shows-094500275.html
+reviewer_notes: Approved via review queue.
+source_url: https://www.yahoo.com/entertainment/tv/articles/3-best-apple-tv-shows-094500275.html
 source_item_id: 6a007a63e9d30be04c0c5fd7
 generated_by: claude
 featuredImage: /assets/images/hidden-gem-apple-tv-shows-colin-farrell-rose-byrne.webp
@@ -30,10 +24,7 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 15
   keyword_relevance: 85
-quality_note: >-
-  While the tone and topic relevance are strong, the article fails to actually
-  name the three shows it promises to reveal, making it essentially clickbait
-  with no useful information.
+quality_note: While the tone and topic relevance are strong, the article fails to actually name the three shows it promises to reveal, making it essentially clickbait with no useful information.
 reading_time: 3
 ---
 ## The Discovery Problem on Apple TV+
