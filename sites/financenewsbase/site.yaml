@@ -1,0 +1,95 @@
+domain: financenewsbase
+site_name: Finance News Base
+site_tagline: null
+groups:
+  - adsense-default
+active: true
+bundle_id: 6a01a4eb2f41f36e83c6086b
+iab_vertical_code: "52"
+iab_category_codes:
+  - "95"
+  - "54"
+  - "63"
+  - "83"
+  - "84"
+  - "85"
+brief:
+  audiences:
+    - Mid-age adults (35-44)
+    - Older adults (55-64)
+  audience_type_ids:
+    - 6a0079401104bbff809b805c
+    - 6a0079401104bbff809b8060
+  tone: professional
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Market Analysis
+    - Personal Finance
+    - Investment Tips
+    - Economic Trends
+  seo_keywords_focus: []
+  content_guidelines:
+    - generate only realistic images
+  vertical: Business and Finance
+  vertical_id: 6a00793d1104bbff809b7c20
+  category_ids:
+    - 6a00793d1104bbff809b7c20
+    - 6a00793f1104bbff809b7f2d
+    - 6a00793f1104bbff809b7ef1
+    - 6a00793f1104bbff809b7f03
+    - 6a00793f1104bbff809b7f17
+    - 6a00793f1104bbff809b7f19
+    - 6a00793f1104bbff809b7f1b
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: slate
+  colors:
+    primary: "#334155"
+    accent: "#6366f1"
+    background: "#ffffff"
+    secondary: "#1e293b"
+    text: "#1e293b"
+    muted: "#94a3b8"
+    surface: "#f1f5f9"
+    border: "#e2e8f0"
+    footer_bg: "#1e293b"
+    must_reads_bg: "#1e293b"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1e293b"
+    feed_desc: "#334155"
+    feed_date: "#94a3b8"
+    prose_heading: "#1e293b"
+    prose_body: "#334155"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
