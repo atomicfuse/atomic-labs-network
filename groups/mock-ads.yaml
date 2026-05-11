@@ -1,0 +1,43 @@
+id: mock-ads
+name: Mock Ads (Demo)
+
+scripts:
+  body_end:
+    - id: mock-ad-fill
+      content: <script src="/mock-ad-fill.js" defer></script>
+
+ads_config:
+  layout: standard
+  ad_placements:
+    - id: top-banner
+      position: above-content
+      type: display
+      sizes_desktop: [[728, 90]]
+      sizes_mobile: [[320, 50]]
+    - id: in-content-1
+      position: after-paragraph
+      paragraph: 3
+      type: display
+      sizes_desktop: [[728, 90]]
+      sizes_mobile: [[300, 250]]
+    - id: in-content-2
+      position: after-paragraph
+      paragraph: 6
+      type: display
+      sizes_desktop: [[336, 280]]
+      sizes_mobile: [[300, 250]]
+    - id: sidebar-sticky
+      position: sidebar
+      type: display
+      sizes_desktop: [[300, 600]]
+      sizes_mobile: []
+    - id: homepage-top-banner
+      position: above-content
+      type: display
+      sizes_desktop: [[728, 90]]
+      sizes_mobile: [[320, 50]]
+    - id: taboola-below
+      position: below-content
+      type: display
+      sizes_desktop: [[728, 250]]
+      sizes_mobile: [[300, 250]]
