@@ -7,9 +7,9 @@ scripts:
     - id: mock-ad-fill
       src: /mock-ad-fill.js
 ads_config:
-  interstitial: false
+  interstitial: true
   interstitial_config:
-    script_url: ""
+    script_url: "https://example.com/mock-interstitial.js"
     script_inline: ""
     trigger:
       type: delay
@@ -23,149 +23,122 @@ ads_config:
     close_delay_seconds: 3
   layout: standard
   ad_placements:
+    # Article / Page: above-content banner
     - id: top-banner
       position: above-content
       device: all
       sizes: {}
       desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
       mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
+    # Article: in-content after paragraph 2
     - id: in-content-1
-      position: after-paragraph
+      position: after-paragraph-2
       device: all
       sizes: {}
       desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
       mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
+    # Article: in-content after paragraph 4
     - id: in-content-2
-      position: after-paragraph
+      position: after-paragraph-4
       device: all
       sizes: {}
       desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
       mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
+    # Article: in-content after paragraph 6
+    - id: in-content-3
+      position: after-paragraph-6
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
+        customSizes: []
+      mobileSizeConfig:
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
+        customSizes: []
+    # Article / Homepage: sidebar
     - id: sidebar-sticky
       position: sidebar
       device: all
       sizes: {}
       desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
       mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
+    # Homepage: top banner
     - id: homepage-top-banner
-      position: above-content
+      position: homepage-top
       device: all
       sizes: {}
       desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
       mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
+    # Category page: top banner
+    - id: category-top-banner
+      position: category-top
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
+        customSizes: []
+      mobileSizeConfig:
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
+        customSizes: []
+    # Article: below-content (taboola-style)
     - id: taboola-below
       position: below-content
       device: all
       sizes: {}
       desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
       mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
+        customSizes: []
+    # All pages: sticky bottom bar
+    - id: sticky-bottom-bar
+      position: sticky-bottom
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
+        customSizes: []
+      mobileSizeConfig:
+        ratio: { x: 16, y: 9 }
+        range: { minWidth: null, maxWidth: null, minHeight: null, maxHeight: null }
         customSizes: []
 tracking:
   ga4: null

@@ -15,7 +15,7 @@ default_fonts:
 
 # Sites without explicit groups inherit these default groups.
 default_groups:
-  - adsense-default
+  - mock-ads
 
 tracking:
   ga4: null
