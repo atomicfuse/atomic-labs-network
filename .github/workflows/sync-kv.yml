@@ -141,7 +141,7 @@ jobs:
           # org.yaml, groups, overrides, monetization from main — same idea
           # as legacy deploy.yml.
           echo "Staging run — overlaying shared config from origin/main"
-          git checkout origin/main -- org.yaml network.yaml
+          git checkout origin/main -- org.yaml network.yaml dashboard-index.yaml
           git checkout origin/main -- groups/ || true
           git checkout origin/main -- overrides/ || true
           git checkout origin/main -- monetization/ || true
