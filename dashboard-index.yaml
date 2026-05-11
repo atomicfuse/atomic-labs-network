@@ -41,20 +41,21 @@ sites:
   - domain: financenewsbase
     company: ATL
     vertical: Business and Finance
-    status: Staging
+    status: Live
     site_id: "8492664485223"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-11T09:44:24.485Z
+    last_updated: 2026-05-11T11:09:15.673Z
     created_at: 2026-05-11T09:44:24.485Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 2c620d60ee2ef8c27e4b14c2c5be9d41
     staging_branch: staging/financenewsbase
     preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=financenewsbase
     saved_previews: null
-    custom_domain: null
+    custom_domain: financenewsbase.com
+    worker_pending_dns: false
 deleted: []
