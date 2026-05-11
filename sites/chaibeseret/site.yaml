@@ -3,6 +3,7 @@ site_name: chai-beseret
 site_tagline: null
 groups:
   - adsense-default
+  - mock-ads
 active: true
 bundle_id: 6a009ad52a0a294c696af909
 iab_vertical_code: JLBCU7
