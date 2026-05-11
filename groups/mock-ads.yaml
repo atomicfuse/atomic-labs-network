@@ -1,43 +1,179 @@
 id: mock-ads
 name: Mock Ads (Demo)
-
 scripts:
+  head: []
+  body_start: []
   body_end:
     - id: mock-ad-fill
-      content: <script src="/mock-ad-fill.js" defer></script>
-
+      src: /mock-ad-fill.js
 ads_config:
+  interstitial: false
+  interstitial_config:
+    script_url: ""
+    script_inline: ""
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: once_per_session
+      max_per_session: 1
+    page_types:
+      - all
+    close_delay_seconds: 3
   layout: standard
   ad_placements:
     - id: top-banner
       position: above-content
-      type: display
-      sizes_desktop: [[728, 90]]
-      sizes_mobile: [[320, 50]]
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
     - id: in-content-1
       position: after-paragraph
-      paragraph: 3
-      type: display
-      sizes_desktop: [[728, 90]]
-      sizes_mobile: [[300, 250]]
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
     - id: in-content-2
       position: after-paragraph
-      paragraph: 6
-      type: display
-      sizes_desktop: [[336, 280]]
-      sizes_mobile: [[300, 250]]
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
     - id: sidebar-sticky
       position: sidebar
-      type: display
-      sizes_desktop: [[300, 600]]
-      sizes_mobile: []
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
     - id: homepage-top-banner
       position: above-content
-      type: display
-      sizes_desktop: [[728, 90]]
-      sizes_mobile: [[320, 50]]
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
     - id: taboola-below
       position: below-content
-      type: display
-      sizes_desktop: [[728, 250]]
-      sizes_mobile: [[300, 250]]
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  custom: []
+scripts_vars: {}
+ads_txt: []
+theme: {}
+legal: {}
