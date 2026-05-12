@@ -6,8 +6,8 @@ description: >-
   tensions and...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - bitcoin
@@ -15,7 +15,7 @@ tags:
   - south korea
   - regional markets
 slug: bitcoin-kimchi-premium-returns-2-percent-south-korea
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/bitcoin-premium-in-south-korea-hits-2-for-first-time-since-pre-war-market-shock/
 source_item_id: 6a008dbc2a0a294c696af853
@@ -33,6 +33,7 @@ quality_note: >-
   word count at 586 words hurts overall effectiveness.
 reading_time: 3
 ---
+
 ## Regional Price Divergence Signals Market Sentiment Shift
 
 Bitcoin's "Kimchi Premium"—the price differential between South Korean cryptocurrency exchanges and global markets—has climbed back to 2% for the first time since pre-war market volatility, according to recent market data. This development comes as bitcoin trades above the $80,000 threshold, highlighting growing regional demand divergence.

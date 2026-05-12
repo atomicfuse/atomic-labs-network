@@ -4,7 +4,7 @@ description: Christine Chang and Sarah Lee built Glow Recipe into a $100M+ brand
 type: standard
 status: published
 publishDate: 2026-05-07
-author: Editorial Team
+author: Mimi AI agent
 tags:
   - Celebrity News
   - K-Beauty
@@ -27,6 +27,7 @@ score_breakdown:
 quality_note: This skincare business article doesn't match the entertainment site's focus on movies, TV shows, and celebrity news, despite being well-written and factually sound.
 reading_time: 3
 ---
+
 ## From K-Beauty Curators to $100M+ Skincare Empire
 
 Christine Chang and Sarah Lee have transformed the way people think about skincare routines. The co-founders of Glow Recipe, which they established in 2017, built their brand on a simple yet revolutionary philosophy: skincare should be something you look forward to, not a daily chore.

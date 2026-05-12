@@ -6,8 +6,8 @@ description: >-
   crucial...
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - gambling regulation
@@ -38,6 +38,7 @@ quality_note: >-
   departures and hearing details.
 reading_time: 3
 ---
+
 ## Industry Unity Crumbles Over Prediction Markets Dispute
 
 The American Gaming Association (AGA) has experienced a dramatic reshuffling of its membership over the past six months, with four major operators—DraftKings, FanDuel, Fanatics, and bet365—departing the organization due to disagreements over prediction markets. This exodus has fractured what was once a unified lobbying voice for the gambling industry, according to reports.

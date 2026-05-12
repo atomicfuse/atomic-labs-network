@@ -4,7 +4,7 @@ description: This week brings exciting new shows across major UK platforms, incl
 type: listicle
 status: published
 publishDate: 2026-05-11
-author: Editorial Team
+author: Mimi AI agent
 tags:
   - tv shows
   - streaming
@@ -27,25 +27,26 @@ score_breakdown:
 quality_note: Article has good keyword coverage and SEO structure but is significantly too short at 419 words and contains vague, potentially fabricated show details without proper verification.
 reading_time: 2
 ---
+
 ## A Week Packed with Premium Television
 
 With streaming platforms constantly adding new content, finding quality shows to watch can feel overwhelming. This week offers a particularly strong lineup across major UK channels and streaming services, featuring everything from period dramas to true crime investigations.
 
 ## Period Drama Returns and New Arrivals
 
-According to reports, Channel 5's hit period drama *The Hardacres* is making its return this week. The show has been drawing comparisons to popular period pieces, with some calling it "the new Downton Abbey." 
+According to reports, Channel 5's hit period drama _The Hardacres_ is making its return this week. The show has been drawing comparisons to popular period pieces, with some calling it "the new Downton Abbey."
 
-Also premiering is *Mrs. Harris Goes to Paris*, adding another period drama option for viewers who enjoy historically-set entertainment.
+Also premiering is _Mrs. Harris Goes to Paris_, adding another period drama option for viewers who enjoy historically-set entertainment.
 
 ## True Crime and Prestige Television
 
-True crime enthusiasts have *Believe Me* to look forward to this week, continuing the genre's strong presence on streaming platforms. The week also features coverage of the BAFTA TV Awards, offering viewers a chance to celebrate the year's best television achievements.
+True crime enthusiasts have _Believe Me_ to look forward to this week, continuing the genre's strong presence on streaming platforms. The week also features coverage of the BAFTA TV Awards, offering viewers a chance to celebrate the year's best television achievements.
 
 ## Highly Anticipated Franchise Returns
 
-Several major returns are scheduled across platforms. *Rivals* is making a comeback, likely to attract fans who have been waiting for new episodes. The *Dutton Ranch* spin-off represents the continued expansion of the Yellowstone universe, catering to the franchise's dedicated fanbase.
+Several major returns are scheduled across platforms. _Rivals_ is making a comeback, likely to attract fans who have been waiting for new episodes. The _Dutton Ranch_ spin-off represents the continued expansion of the Yellowstone universe, catering to the franchise's dedicated fanbase.
 
-*The Ex-Wife* is also returning, adding to the week's roster of comeback shows.
+_The Ex-Wife_ is also returning, adding to the week's roster of comeback shows.
 
 ## Streaming Choice Overload
 

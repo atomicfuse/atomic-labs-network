@@ -5,8 +5,8 @@ description: >-
   slashing remittance costs from 6.6% to under 0.5% for cross-border payments.
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Economic Trends
   - cryptocurrency
@@ -14,7 +14,7 @@ tags:
   - emerging-markets
   - financial-inclusion
 slug: peru-crypto-market-stablecoins-remittances
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/90-of-perus-28-billion-crypto-market-is-now-driven-by-stablecoins/
 source_item_id: 6a008dbc2a0a294c696af84e
@@ -33,6 +33,7 @@ quality_note: >-
   key statistics.
 reading_time: 3
 ---
+
 ## Peru Emerges as Latin American Crypto Powerhouse
 
 Peru has established itself as a major cryptocurrency economy, with its annual crypto market reaching $28 billion according to recent reports. The South American nation has cracked the top 6 crypto economies in Latin America, driven primarily by practical financial applications rather than speculative trading.

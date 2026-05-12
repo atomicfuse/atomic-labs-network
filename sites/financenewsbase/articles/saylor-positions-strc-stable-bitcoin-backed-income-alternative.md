@@ -6,8 +6,8 @@ description: >-
   speculation.
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Investment Tips
   - bitcoin
@@ -38,6 +38,7 @@ quality_note: >-
   claims that cannot be verified.
 reading_time: 3
 ---
+
 ## STRC Emerges as "Boring" Bitcoin Play
 
 Michael Saylor is repositioning STRC, Strategy's perpetual preferred stock, as a stability-focused income product rather than a direct bitcoin volatility play, according to reports. The shift represents a significant departure from traditional cryptocurrency investment narratives that typically emphasize high-risk, high-reward potential.

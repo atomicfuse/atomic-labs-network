@@ -6,8 +6,8 @@ description: >-
   renewed...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - cryptocurrency
@@ -15,7 +15,7 @@ tags:
   - stablecoins
   - institutional-investment
 slug: stablecoin-market-surges-322b-usdt-dominance
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/stablecoin-market-adds-2-billion-in-7-days-as-usdt-holds-near-190-billion/
 source_item_id: 6a0154422a0a294c696af914
@@ -33,6 +33,7 @@ quality_note: >-
   under target word count at 563 words versus the 800-1200 range.
 reading_time: 3
 ---
+
 ## Stablecoin Market Reaches New Heights
 
 The stablecoin market has crossed a significant milestone, reaching $322 billion in total market capitalization after absorbing $2 billion in fresh capital over the past week. This surge demonstrates growing institutional confidence in cryptocurrency infrastructure and dollar-backed digital assets.

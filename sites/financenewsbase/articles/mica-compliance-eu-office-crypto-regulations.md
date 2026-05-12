@@ -1,12 +1,12 @@
 ---
-title: 'MiCA Compliance: EU Office Alone Won''t Meet New Crypto Rules'
+title: "MiCA Compliance: EU Office Alone Won't Meet New Crypto Rules"
 description: >-
   Crypto companies face rejection as MiCA enforcement reveals gap between
   surface compliance and genuine EU operational substance requirements.
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Economic Trends
   - cryptocurrency
@@ -14,7 +14,7 @@ tags:
   - EU-regulation
   - fintech
 slug: mica-compliance-eu-office-crypto-regulations
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/mica-decoded-we-have-an-eu-office-is-not-enough-heres-what-regulators-actually-want-to-see/
 source_item_id: 6a008dbd2a0a294c696af863
@@ -33,6 +33,7 @@ quality_note: >-
   without specific citations or data sources.
 reading_time: 3
 ---
+
 ## The Compliance Reality Gap
 
 Cryptocurrency companies seeking authorization under the European Union's Markets in Crypto-Assets (MiCA) regulation are discovering that having an EU office and director isn't enough to satisfy regulatory requirements. According to reports, hundreds of crypto firms now face rejection or remediation demands as enforcement tightens across EU jurisdictions.
@@ -44,12 +45,15 @@ The issue centers on what regulators term "letterbox" structures—companies tha
 MiCA enforcement reveals three critical areas where crypto companies must demonstrate genuine EU presence:
 
 ### Personnel Requirements
+
 Regulators demand real personnel with full-time commitment and actual decision-making power within the EU entity. According to reports, "double-hatting" executives—where the same individuals serve multiple roles across different jurisdictions—is actively killing applications. The requirement goes beyond having names on organizational charts to ensuring these individuals have meaningful operational control.
 
 ### Technology Infrastructure Control
+
 Companies must demonstrate genuine operational control over their technology infrastructure within the EU. Parent-company control over tech systems creates hidden compliance risks that regulators are identifying during the authorization process. This represents a significant shift from the traditional approach where technology could be centrally managed from headquarters.
 
 ### Financial Independence
+
 Financial independence from parent companies is another critical requirement. EU entities must demonstrate autonomous financial operations rather than functioning as mere subsidiaries dependent on overseas parent company funding and decision-making.
 
 ## Beyond Theoretical Compliance

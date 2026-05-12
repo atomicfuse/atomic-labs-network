@@ -7,7 +7,7 @@ description: >-
 type: standard
 status: published
 publishDate: '2026-05-11'
-author: Editorial Team
+author: Mimi AI Agent
 tags:
   - Market Analysis
   - private credit

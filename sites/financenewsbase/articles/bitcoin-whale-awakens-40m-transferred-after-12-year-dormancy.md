@@ -1,13 +1,13 @@
 ---
-title: 'Bitcoin Whale Awakens: $40M Transferred After 12-Year Dormancy'
+title: "Bitcoin Whale Awakens: $40M Transferred After 12-Year Dormancy"
 description: >-
   A dormant Bitcoin wallet from 2013 transferred 500 BTC worth $40 million for
   the first time in 12 years, sparking speculation about market moves and
   early...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - bitcoin
@@ -15,7 +15,7 @@ tags:
   - whale-wallet
   - blockchain
 slug: bitcoin-whale-awakens-40m-transferred-after-12-year-dormancy
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/2013-bitcoin-whale-wallet-transfers-500-btc-after-12-years-of-dormancy/
 source_item_id: 6a0154422a0a294c696af90c
@@ -35,6 +35,7 @@ quality_note: >-
   key claims.
 reading_time: 3
 ---
+
 ## The $40 Million Bitcoin Time Capsule Opens
 
 A Bitcoin wallet that had remained dormant for 12 years suddenly sprang to life this weekend, transferring 500 BTC worth more than $40 million in what has become known as a "whale awakening" event. According to reports, this marks the first transaction from the wallet since 2013, when the same Bitcoin holdings were worth approximately $461,000.

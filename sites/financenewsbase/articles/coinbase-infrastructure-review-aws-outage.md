@@ -5,8 +5,8 @@ description: >-
   sacrificing trading speed for better reliability after AWS cooling failure.
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - cryptocurrency
@@ -36,6 +36,7 @@ quality_note: >-
   without specific sources.
 reading_time: 3
 ---
+
 ## Exchange Knocked Offline by Data Center Failure
 
 Coinbase experienced a significant outage when an AWS data center cooling failure disrupted multiple core services, according to reports. The incident knocked trading, account access, and balance displays offline, leaving users unable to access their cryptocurrency exchange accounts during the disruption.

@@ -6,8 +6,8 @@ description: >-
   and...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - artificial intelligence
@@ -15,7 +15,7 @@ tags:
   - financial stability
   - systemic risk
 slug: fed-survey-ai-financial-stability-risk
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/fed-survey-shows-ai-concerns-rising-across-markets-credit-and-jobs/
 source_item_id: 6a008dbc2a0a294c696af850
@@ -34,6 +34,7 @@ quality_note: >-
   accuracy concerns.
 reading_time: 3
 ---
+
 ## Fed Flags AI as Emerging Systemic Risk
 
 The Federal Reserve's latest Financial Stability Report has identified artificial intelligence as a growing concern for market stability, with half of surveyed market participants now viewing AI as a potential financial shock. According to reports, this represents a doubling of concern levels from just six months prior, signaling a dramatic shift in how financial professionals perceive AI's impact on markets.

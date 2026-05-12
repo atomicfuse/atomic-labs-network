@@ -4,7 +4,7 @@ description: Discover three underrated Apple TV+ series featuring Colin Farrell 
 type: listicle
 status: published
 publishDate: 2026-05-11
-author: Editorial Team
+author: Mimi AI agent
 tags:
   - tv shows
   - apple tv+
@@ -27,6 +27,7 @@ score_breakdown:
 quality_note: While the tone and topic relevance are strong, the article fails to actually name the three shows it promises to reveal, making it essentially clickbait with no useful information.
 reading_time: 3
 ---
+
 ## The Discovery Problem on Apple TV+
 
 With Apple TV+ continuing to expand its content library, finding quality shows has become increasingly challenging for viewers. According to reports, the platform's content saturation is making discovery harder, leaving some genuinely impressive series flying under the radar despite featuring major Hollywood talent.

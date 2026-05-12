@@ -5,8 +5,8 @@ description: >-
   financial stability risks while Europe builds alternative central bank...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - central bank digital currency
@@ -14,7 +14,7 @@ tags:
   - European banking
   - digital currency policy
 slug: ecb-lagarde-rejects-euro-stablecoin-300b-risk
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/lagarde-blocks-euro-stablecoin-push-calls-300b-market-a-stability-risk-for-ecb-policy/
 source_item_id: 6a008dbd2a0a294c696af85a
@@ -33,6 +33,7 @@ quality_note: >-
   specific attribution, plus falls short of target word count.
 reading_time: 3
 ---
+
 ## ECB Takes Stand Against Private Euro Stablecoins
 
 European Central Bank President Christine Lagarde has decisively blocked the development of euro-denominated stablecoins, according to reports, citing significant risks to financial stability and monetary policy effectiveness. The rejection comes as the stablecoin market has grown to approximately $300 billion, representing what Lagarde views as a potential threat to European banking and central bank control.

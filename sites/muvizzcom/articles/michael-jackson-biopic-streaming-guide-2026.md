@@ -7,8 +7,8 @@ description: >-
   24, 2026, with Prime Video streaming debut expected this summer.
 type: standard
 status: published
-publishDate: '2026-05-07'
-author: Editorial Team
+publishDate: "2026-05-07"
+author: Mimi AI agent
 tags:
   - Movies
   - streaming
@@ -16,7 +16,7 @@ tags:
   - michael jackson
   - prime video
 slug: michael-jackson-biopic-streaming-guide-2026
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://www.cosmopolitan.com/entertainment/movies/a71122818/how-to-watch-michael/
 source_item_id: 69ecaa72ab1d23f7db07cf80
@@ -35,6 +35,7 @@ quality_note: >-
   Jackson Five timeline.
 reading_time: 3
 ---
+
 ## Michael Jackson Biopic Finally Arrives in 2026
 
 The highly anticipated Michael Jackson biopic "Michael" is set to hit theaters on April 24, 2026, according to reports. Directed by Antoine Fuqua, the film promises to explore a specific chapter of the King of Pop's legendary career rather than attempting to cover his entire life story.

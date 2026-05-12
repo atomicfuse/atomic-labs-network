@@ -6,8 +6,8 @@ description: >-
   operations.
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - cryptocurrency
@@ -19,7 +19,7 @@ reviewer_notes: >-
   Professional tone and good keyword coverage, but significantly under target
   word count and contains potentially fabricated details about specific court
   cases and dollar amounts.
-source_url: 'https://news.bitcoin.com/aave-rseth-recovery-judge-arbitrum-71-million-eth/'
+source_url: "https://news.bitcoin.com/aave-rseth-recovery-judge-arbitrum-71-million-eth/"
 source_item_id: 6a008dbd2a0a294c696af85f
 generated_by: claude
 featuredImage: /assets/images/judge-approves-71m-eth-transfer-aave-defi-recovery.webp
@@ -36,6 +36,7 @@ quality_note: >-
   cases and dollar amounts.
 reading_time: 2
 ---
+
 ## Legal Breakthrough Advances DeFi Recovery Efforts
 
 A federal judge has authorized a $71 million ETH transfer to Aave, removing the final legal obstacle in what has become one of decentralized finance's most complex recovery operations. The ruling addresses the aftermath of the April KelpDAO exploit that compromised the rsETH bridge system.

@@ -5,8 +5,8 @@ description: >-
   provide regulated digital asset custody services to institutional investors...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - cryptocurrency
@@ -14,7 +14,7 @@ tags:
   - institutional investing
   - fintech
 slug: kraken-parent-seeks-federal-banking-license-crypto-custody
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/kraken-parent-payward-targets-occ-charter-to-unlock-institutional-digital-asset-custody/
 source_item_id: 6a008dbd2a0a294c696af85c
@@ -32,6 +32,7 @@ quality_note: >-
   length at 529 words versus the 800-1200 target range.
 reading_time: 3
 ---
+
 ## Kraken Makes Bold Regulatory Play
 
 Payward, the parent company of cryptocurrency exchange Kraken, has filed an application with the Office of the Comptroller of the Currency (OCC) for a national trust company charter. This federal banking license would enable the company to offer regulated digital asset custody services to institutional clients across all 50 states.
