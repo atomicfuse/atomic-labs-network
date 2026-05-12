@@ -31,13 +31,15 @@ brief:
     - Maintain an engaging, fan-friendly tone
   review_percentage: 0
   schedule:
-    articles_per_day: 3
+    articles_per_day: 2
     preferred_days:
       - monday
       - tuesday
       - wednesday
       - thursday
       - friday
+      - Monday
+      - Tuesday
     preferred_time: 10:00
   quality_threshold: 75
   quality_weights:
@@ -46,10 +48,11 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  vertical_id: 69e61d3abcd6b4dd1ba92a89
+  vertical_id: 6a00793d1104bbff809b7c32
   category_ids:
-    - 69e61d89bcd6b4dd1ba92c5c
-    - 69e61d8ebcd6b4dd1ba92c75
+    - 6a0079401104bbff809b7fd9
+    - 6a0079401104bbff809b800b
+    - 6a0079401104bbff809b7fdb
   tag_ids: []
   audiences:
     - Movie and TV enthusiasts aged 18-45
@@ -95,3 +98,5 @@ layout:
     explicit: []
   load_more:
     page_size: 10
+bundle_id: 6a009ad52a0a294c696af909
+author: Daniel Parker
