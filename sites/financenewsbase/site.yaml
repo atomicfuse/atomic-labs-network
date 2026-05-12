@@ -117,3 +117,4 @@ ads_config:
       - all
     close_delay_seconds: 3
   layout: standard
+author: Hannah Murphy
