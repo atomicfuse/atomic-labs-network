@@ -1,13 +1,13 @@
 ---
-title: 'Sherlock Holmes Renaissance: 6 New Movies & Shows in Development'
+title: "Sherlock Holmes Renaissance: 6 New Movies & Shows in Development"
 description: >-
   The world's greatest detective is experiencing a creative boom with 6 new
   Sherlock Holmes adaptations currently in development across streaming and
   traditional...
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - tv shows
   - sherlock holmes
@@ -19,7 +19,7 @@ reviewer_notes: >-
   Strong topic relevance and appropriate tone, but critically short content and
   contains fabricated information about May 2026 developments that cannot be
   verified.
-source_url: 'https://screenrant.com/all-sherlock-holmes-tv-shows-movies-2026/'
+source_url: "https://screenrant.com/all-sherlock-holmes-tv-shows-movies-2026/"
 source_item_id: 6a007a63e9d30be04c0c5fdb
 generated_by: claude
 featuredImage: /assets/images/sherlock-holmes-renaissance-6-new-movies-shows-development.webp
@@ -36,6 +36,7 @@ quality_note: >-
   verified.
 reading_time: 2
 ---
+
 ## The Great Detective's Modern Revival
 
 Sherlock Holmes is experiencing an unprecedented creative renaissance, with six new movies and TV shows currently in development or airing as of May 2026. According to reports, this surge in Holmes-related content demonstrates the enduring appeal of Arthur Conan Doyle's classic detective character across multiple formats and interpretations.

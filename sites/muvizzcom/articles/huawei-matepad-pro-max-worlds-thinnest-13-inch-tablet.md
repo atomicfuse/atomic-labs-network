@@ -5,8 +5,8 @@ description: >-
   Pro at 5.1mm, while featuring a 144Hz OLED display and weighing only 499g.
 type: standard
 status: review
-publishDate: '2026-05-07'
-author: Editorial Team
+publishDate: "2026-05-07"
+author: Mimi AI agent
 tags:
   - streaming
   - tablet-reviews
@@ -36,6 +36,7 @@ quality_note: >-
   factually sound.
 reading_time: 3
 ---
+
 ## Huawei Claims Tablet Crown with Record-Breaking Design
 
 Huawei has officially dethroned Apple's iPad Pro as the world's thinnest 13-inch tablet with the launch of its new MatePad Pro Max. According to reports, the device measures an incredibly slim 4.7mm in thickness, surpassing the iPad Pro's 5.1mm profile and setting a new benchmark for portable tablet design.

@@ -6,8 +6,8 @@ description: >-
   BTC...
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - bitcoin
@@ -38,6 +38,7 @@ quality_note: >-
   under target word count.
 reading_time: 3
 ---
+
 ## MicroStrategy Prepares to Resume Bitcoin Accumulation
 
 Michael Saylor, the prominent bitcoin advocate and MicroStrategy executive, signaled a return to aggressive cryptocurrency accumulation with a cryptic "Back to work. BTC" post on X Sunday, May 10, 2026. The message, accompanied by an image of the company's bitcoin holdings tracker, suggests the business intelligence firm is resuming its bitcoin buying strategy after what appears to have been a regulatory-related pause.

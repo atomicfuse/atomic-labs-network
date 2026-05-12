@@ -1,13 +1,13 @@
 ---
-title: 'CBS Announces 2026 Renewals: Major Franchises Return, The Neighborhood Axed'
+title: "CBS Announces 2026 Renewals: Major Franchises Return, The Neighborhood Axed"
 description: >-
   CBS reveals fall 2026 lineup with NCIS, FBI, and Fire Country returning while
   The Neighborhood gets surprising cancellation despite 4M viewers. Full
   breakdown...
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - tv shows
   - cbs
@@ -37,6 +37,7 @@ quality_note: >-
   programming information.
 reading_time: 2
 ---
+
 ## CBS Makes Bold Moves in 2026 Upfront Decisions
 
 CBS has unveiled its programming strategy for fall 2026 and spring 2027, delivering a mix of expected renewals and shocking cancellations that will reshape the network's primetime landscape.
@@ -49,21 +50,21 @@ Dick Wolf's procedural empire also maintains its stronghold on CBS programming, 
 
 ## Surprising Casualties Despite Strong Viewership
 
-The most shocking development comes with the cancellation of *The Neighborhood*, despite the show pulling in 4 million viewers. This decision highlights a crucial shift in network thinking—production costs now matter more than raw ratings numbers. Even solid viewership can't guarantee survival if the economics don't align with network expectations.
+The most shocking development comes with the cancellation of _The Neighborhood_, despite the show pulling in 4 million viewers. This decision highlights a crucial shift in network thinking—production costs now matter more than raw ratings numbers. Even solid viewership can't guarantee survival if the economics don't align with network expectations.
 
-*Watson* also found itself on the chopping block, joining *The Neighborhood* as casualties of CBS's strategic realignment.
+_Watson_ also found itself on the chopping block, joining _The Neighborhood_ as casualties of CBS's strategic realignment.
 
 ## Prestige Programming Gets Strategic Treatment
 
-CBS is taking a more calculated approach with its prestige content. *Matlock*'s Emmy success has earned the show a coveted midseason slot, suggesting the network values critical acclaim alongside commercial performance. This strategic scheduling could position the show for another awards run.
+CBS is taking a more calculated approach with its prestige content. _Matlock_'s Emmy success has earned the show a coveted midseason slot, suggesting the network values critical acclaim alongside commercial performance. This strategic scheduling could position the show for another awards run.
 
-Meanwhile, *Ghosts* continues its run despite being consistently snubbed by the Emmys, proving that critical love from fans can sometimes outweigh industry recognition.
+Meanwhile, _Ghosts_ continues its run despite being consistently snubbed by the Emmys, proving that critical love from fans can sometimes outweigh industry recognition.
 
 ## The Streaming Factor and Franchise Power
 
 Reports indicate that CBS's decision-making process now heavily weighs streaming performance alongside traditional metrics. Shows that perform well across multiple platforms have better survival odds, reflecting the modern television landscape where success is measured beyond linear viewership.
 
-The network's embrace of *Yellowstone* spinoffs demonstrates the power of franchise branding in today's market. These extensions of popular properties offer built-in audiences and cross-promotional opportunities that standalone series struggle to match.
+The network's embrace of _Yellowstone_ spinoffs demonstrates the power of franchise branding in today's market. These extensions of popular properties offer built-in audiences and cross-promotional opportunities that standalone series struggle to match.
 
 ## Shifting Production Strategies
 

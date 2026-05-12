@@ -5,8 +5,8 @@ description: >-
   and how early access shapes professional criticism in entertainment.
 type: standard
 status: review
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - breaking news
   - podcast
@@ -34,6 +34,7 @@ quality_note: >-
   short on length requirements and could benefit from stronger SEO optimization.
 reading_time: 2
 ---
+
 ## The Inside Look at Critics' Early Access
 
 Pop Culture Happy Hour has released a bonus episode diving into one of entertainment criticism's most intriguing aspects: what it's really like to watch movies and TV shows before everyone else gets to see them.

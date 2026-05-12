@@ -5,8 +5,8 @@ description: >-
   beyond the traditional US-China narrative to include Germany, Japan, and...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Economic Trends
   - global finance
@@ -14,7 +14,7 @@ tags:
   - international finance
   - capital flows
 slug: global-saving-imbalances-climb-2024
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://www.forbes.com/sites/jamesbroughel/2026/05/10/how-important-are-global-saving-imbalances/
 source_item_id: 6a008dbc2a0a294c696af848
@@ -33,6 +33,7 @@ quality_note: >-
   confidence.
 reading_time: 3
 ---
+
 ## Imbalances Return Despite Post-Crisis Decline
 
 Global saving imbalances—where some countries save more than they invest domestically while others do the reverse—have climbed back to 3.6% of world GDP in 2024, according to recent data. This marks a significant increase from the reduced levels seen after the 2008 financial crisis, raising questions about whether these gaps reflect healthy economic fundamentals or potentially dangerous policy distortions.

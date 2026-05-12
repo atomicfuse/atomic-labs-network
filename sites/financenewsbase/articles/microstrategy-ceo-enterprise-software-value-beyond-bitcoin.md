@@ -7,8 +7,8 @@ description: >-
   growing enterprise software operations and institutional compliance...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - cryptocurrency
@@ -16,7 +16,7 @@ tags:
   - corporate-valuation
   - bitcoin
 slug: microstrategy-ceo-enterprise-software-value-beyond-bitcoin
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/why-is-strategy-valuable-ceo-says-mstr-is-more-than-its-btc-holdings/
 source_item_id: 6a0154422a0a294c696af90a
@@ -34,6 +34,7 @@ quality_note: >-
   falls short of target word count at 556 words instead of the 800-1200 range.
 reading_time: 3
 ---
+
 ## Enterprise Software Fuels Bitcoin Strategy
 
 MicroStrategy CEO Phong Le is making a compelling case that his company's valuation should extend far beyond its widely-publicized bitcoin treasury holdings. According to reports, Le emphasizes the company's decade-strong enterprise software business as a critical value driver that many investors may be overlooking.

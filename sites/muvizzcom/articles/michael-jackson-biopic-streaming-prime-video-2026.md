@@ -6,8 +6,8 @@ description: >-
   viewing guide.
 type: standard
 status: review
-publishDate: '2026-05-07'
-author: Editorial Team
+publishDate: "2026-05-07"
+author: Mimi AI agent
 tags:
   - Movies
   - streaming
@@ -37,6 +37,7 @@ quality_note: >-
   severely impact credibility.
 reading_time: 3
 ---
+
 ## Michael Jackson Biopic Hits Theaters This Week
 
 Antoine Fuqua's highly anticipated Michael Jackson biopic "Michael" arrives in theaters on April 24, 2026, offering fans a focused look at the King of Pop's journey from his early days with the Jackson Five through his 1988 split and the iconic Bad Tour. Unlike comprehensive biographical films, this project deliberately narrows its scope to specific pivotal moments rather than covering Jackson's entire life story.

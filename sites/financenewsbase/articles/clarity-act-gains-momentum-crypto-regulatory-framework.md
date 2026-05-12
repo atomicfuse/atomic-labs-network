@@ -6,8 +6,8 @@ description: >-
   dividing...
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Economic Trends
   - regulatory framework
@@ -15,7 +15,7 @@ tags:
   - financial legislation
   - investment policy
 slug: clarity-act-gains-momentum-crypto-regulatory-framework
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/why-clarity-act-matters-grayscale-sees-next-phase-for-digital-assets/
 source_item_id: 6a0154422a0a294c696af90b
@@ -34,6 +34,7 @@ quality_note: >-
   about specific statistics and market data.
 reading_time: 3
 ---
+
 ## Growing Legislative Support for Crypto Regulation
 
 The cryptocurrency industry is watching closely as the CLARITY Act approaches a critical juncture, with a Senate committee markup scheduled for May 14 and more than 28,000 signatures pushing for its passage. According to reports, Grayscale has outlined why this legislation represents what they call a "watershed moment" for digital asset regulation.

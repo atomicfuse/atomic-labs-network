@@ -4,7 +4,7 @@ description: As the BAFTA TV Awards celebrate British television excellence, we 
 type: listicle
 status: published
 publishDate: 2026-05-11
-author: Editorial Team
+author: Mimi AI agent
 tags:
   - tv shows
   - bafta
@@ -27,6 +27,7 @@ score_breakdown:
 quality_note: The article has good keyword integration and relevant tags but severely lacks substance with vague content, no actual show examples, and falls well short of target word count.
 reading_time: 3
 ---
+
 ## The BAFTA TV Awards' Most Notable Oversights
 
 As the BAFTA TV Awards celebrate the very best of British programmes tonight, it's worth examining which acclaimed shows have surprisingly slipped through the cracks over the years. According to reports, several beloved and critically praised British television series have never claimed the prestigious award, despite their cultural impact and fan devotion.

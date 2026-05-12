@@ -6,8 +6,8 @@ description: >-
   grants.
 type: standard
 status: published
-publishDate: '2026-05-11'
-author: Editorial Team
+publishDate: "2026-05-11"
+author: Mimi AI agent
 tags:
   - Market Analysis
   - cryptocurrency
@@ -15,7 +15,7 @@ tags:
   - blockchain technology
   - corporate philanthropy
 slug: ripple-25m-education-grant-stablecoin-classroom-impact
-reviewer_notes: ''
+reviewer_notes: ""
 source_url: >-
   https://news.bitcoin.com/ripples-rlusd-grant-results-show-how-25m-reached-us-classrooms/
 source_item_id: 6a008dbc2a0a294c696af851
@@ -33,6 +33,7 @@ quality_note: >-
   under word count target and lacks comprehensive SEO optimization.
 reading_time: 3
 ---
+
 ## Cryptocurrency Makes Real-World Impact in Education
 
 Ripple's ambitious $25 million education initiative has delivered measurable results in its first year, demonstrating how cryptocurrency can address tangible social challenges. According to reports, most of the funding was distributed through Ripple's RLUSD stablecoin, making this one of the largest crypto-backed nonprofit grants ever recorded.
