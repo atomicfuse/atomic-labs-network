@@ -12,16 +12,7 @@ scripts:
       src: https://client.w.digikube.com/atl.widget.js
       async: true
   body_start: []
-  body_end:
-    - id: sidebar-widget
-      inline: |-
-        (function() {
-          var el = document.querySelector('[data-ad-position="sidebar"]');
-          if (!el) return;
-          el.id = 'widget2';
-          el.style.backgroundColor = '#fcfbf7';
-          _sf_loadWidget("widget2", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
-        })();
+  body_end: []
 scripts_vars: {}
 ads_config:
   interstitial: true
@@ -54,6 +45,11 @@ ads_config:
       position: sidebar
       device: all
       sizes: {}
+      code: |
+        <div id="widget2" style="background-color:#fcfbf7"></div>
+        <script>
+            _sf_loadWidget("widget2", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
+        </script>
       desktopSizeConfig:
         ratio:
           x: 16
