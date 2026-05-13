@@ -58,4 +58,11 @@ sites:
     saved_previews: null
     custom_domain: financenewsbase.com
     worker_pending_dns: false
+  - domain: travelbeautytips
+    status: Staging
+    site_id: "8659335859308"
+    staging_branch: staging/travelbeautytips
+    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=travelbeautytips
+    last_updated: 2026-05-13T08:02:15.859Z
+    created_at: 2026-05-13T08:02:15.859Z
 deleted: []
