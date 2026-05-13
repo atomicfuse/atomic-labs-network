@@ -58,13 +58,6 @@ sites:
     saved_previews: null
     custom_domain: financenewsbase.com
     worker_pending_dns: false
-  - domain: travelbeautytips
-    status: Staging
-    site_id: "8659335859308"
-    staging_branch: staging/travelbeautytips
-    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=travelbeautytips
-    last_updated: 2026-05-13T08:02:15.859Z
-    created_at: 2026-05-13T08:02:15.859Z
   - domain: wtpop
     status: Staging
     site_id: "8666238825638"
@@ -72,4 +65,22 @@ sites:
     preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=wtpop
     last_updated: 2026-05-13T09:57:18.825Z
     created_at: 2026-05-13T09:57:18.825Z
-deleted: []
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    saved_previews: null
+    custom_domain: null
+deleted:
+  - domain: travelbeautytips
+    status: Staging
+    site_id: "8659335859308"
+    staging_branch: staging/travelbeautytips
+    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=travelbeautytips
+    last_updated: 2026-05-13T08:02:15.859Z
+    created_at: 2026-05-13T08:02:15.859Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    saved_previews: null
+    custom_domain: null
+    deleted_at: 2026-05-13T10:50:20.781Z
