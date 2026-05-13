@@ -11,6 +11,9 @@ scripts:
     - id: us-east.adsnx
       src: https://client.us-east.adsnx.com/js/widget.js
       async: true
+    - id: client.w.digikube
+      src: https://client.w.digikube.com/atl.widget.js
+      async: true
   body_start: []
   body_end: []
 scripts_vars: {}
