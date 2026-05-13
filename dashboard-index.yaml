@@ -58,6 +58,7 @@ sites:
     saved_previews: null
     custom_domain: financenewsbase.com
     worker_pending_dns: false
+deleted:
   - domain: wtpop
     status: Staging
     site_id: "8666238825638"
@@ -70,4 +71,4 @@ sites:
     zone_id: null
     saved_previews: null
     custom_domain: null
-deleted: []
+    deleted_at: 2026-05-13T10:51:20.487Z
