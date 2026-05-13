@@ -12,7 +12,7 @@ scripts:
       src: https://client.w.digikube.com/atl.widget.js
       async: true
     - id: us-east.adsnx
-      src: <script src="https://client.us-east.adsnx.com/js/widget.js"></script>
+      src: https://client.us-east.adsnx.com/js/widget.js
       async: true
   body_start: []
   body_end: []
