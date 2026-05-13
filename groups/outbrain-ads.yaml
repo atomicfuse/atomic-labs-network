@@ -11,6 +11,9 @@ scripts:
     - id: digikube-sdk
       src: https://client.w.digikube.com/atl.widget.js
       async: true
+    - id: us-east.adsnx
+      src: <script src="https://client.us-east.adsnx.com/js/widget.js"></script>
+      async: true
   body_start: []
   body_end: []
 scripts_vars: {}
@@ -42,12 +45,6 @@ ads_config:
       position: sidebar
       device: all
       sizes: {}
-      code: |
-        <div id="widget2" style="background-color:#fcfbf7"></div>
-        <script src="https://client.w.digikube.com/atl.widget.js"></script>
-        <script>
-            _sf_loadWidget("widget2", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
-        </script>
       desktopSizeConfig:
         ratio:
           x: 16
@@ -68,6 +65,11 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      code: |-
+        <div id="widget1" style='background-color:#fcfbf7'></div>
+        <script>
+            _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
+        </script>
 ads_txt: []
 theme: {}
 legal: {}
