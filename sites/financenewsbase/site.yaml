@@ -1,8 +1,7 @@
 domain: financenewsbase.com
 site_name: Finance News Base
 site_tagline: null
-groups:
-  - mock-ads
+groups: []
 active: true
 bundle_id: 6a01a4eb2f41f36e83c6086b
 iab_vertical_code: "52"
