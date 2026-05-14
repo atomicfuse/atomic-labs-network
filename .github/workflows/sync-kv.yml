@@ -36,6 +36,13 @@ on:
         type: boolean
         default: false
 
+# Prevent concurrent syncs to the same KV namespace. Concurrent bulk-put
+# calls targeting the same article-index key can race, leaving a stale
+# value even though each run reports success.
+concurrency:
+  group: sync-kv-${{ github.ref_name }}
+  cancel-in-progress: false
+
 jobs:
   detect:
     name: Detect changed sites
@@ -209,6 +216,30 @@ jobs:
           ")"
           echo "Hostnames for $SITE: $HOSTS"
           pnpm seed:kv "$SITE" $HOSTS
+
+      - name: Verify article-index in KV
+        working-directory: platform/packages/site-worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          SITE="${{ matrix.site }}"
+          NS_ID="${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}"
+
+          # Count articles on disk (source of truth)
+          DISK_COUNT=$(find "$GITHUB_WORKSPACE/sites/$SITE/articles" -name '*.md' 2>/dev/null | wc -l | tr -d ' ')
+
+          # Read back article-index from KV and count entries
+          KV_RAW=$(npx wrangler kv key get "article-index:$SITE" --namespace-id="$NS_ID" --remote 2>/dev/null || echo "[]")
+          KV_COUNT=$(echo "$KV_RAW" | python3 -c "import json,sys; print(len(json.load(sys.stdin)))" 2>/dev/null || echo "0")
+
+          echo "Articles on disk: $DISK_COUNT"
+          echo "Articles in KV index: $KV_COUNT"
+
+          if [ "$KV_COUNT" -lt "$DISK_COUNT" ]; then
+            echo "::error::Article-index mismatch: KV has $KV_COUNT but disk has $DISK_COUNT articles. Possible race condition — re-run this workflow."
+            exit 1
+          fi
 
       - name: On-failure — record sync-status + notify
         if: failure()
