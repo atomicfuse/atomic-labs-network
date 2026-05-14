@@ -1,5 +1,37 @@
 [
   {
+    "timestamp": "2026-05-14T13",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "wtpop",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "muvizzcom",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "chaibeseret",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 1
+      },
+      {
+        "domain": "financenewsbase",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 1
+      }
+    ],
+    "skipped": []
+  },
+  {
     "timestamp": "2026-05-13T13",
     "timezone": "EST",
     "forced": false,
