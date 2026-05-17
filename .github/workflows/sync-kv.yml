@@ -186,11 +186,7 @@ jobs:
       - name: Sync ${{ matrix.site }} to KV
         working-directory: platform/packages/site-worker
         env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           NETWORK_DATA_PATH: ${{ github.workspace }}
-          # KV namespace: staging for staging/* branches, prod for main.
-          KV_NAMESPACE_ID: ${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}
           # R2 bucket: ALWAYS atl-assets-prod. Both staging and production
           # Workers bind ASSET_BUCKET to atl-assets-prod (see wrangler.toml).
           # Assets are site-scoped by <siteId>/ prefix so sharing one bucket
@@ -201,6 +197,28 @@ jobs:
           R2_REMOTE: "true"
         run: |
           SITE="${{ matrix.site }}"
+
+          # Dev1 legacy sites use Dev1 account credentials
+          DEV1_SITES="financenewsbase coolnews-atl"
+          if echo "$DEV1_SITES" | grep -qw "$SITE"; then
+            echo "→ Dev1 site detected: using Dev1 credentials"
+            export CLOUDFLARE_API_TOKEN="${{ secrets.DEV1_CLOUDFLARE_API_TOKEN }}"
+            export CLOUDFLARE_ACCOUNT_ID="${{ secrets.DEV1_CLOUDFLARE_ACCOUNT_ID }}"
+            if [[ "${{ github.ref_name }}" == "main" ]]; then
+              export KV_NAMESPACE_ID="${{ secrets.DEV1_KV_NAMESPACE_ID_PROD }}"
+            else
+              export KV_NAMESPACE_ID="${{ secrets.DEV1_KV_NAMESPACE_ID_STAGING }}"
+            fi
+          else
+            export CLOUDFLARE_API_TOKEN="${{ secrets.CLOUDFLARE_API_TOKEN }}"
+            export CLOUDFLARE_ACCOUNT_ID="${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"
+            if [[ "${{ github.ref_name }}" == "main" ]]; then
+              export KV_NAMESPACE_ID="${{ secrets.KV_NAMESPACE_ID_PROD }}"
+            else
+              export KV_NAMESPACE_ID="${{ secrets.KV_NAMESPACE_ID_STAGING }}"
+            fi
+          fi
+
           # Derive hostnames from dashboard-index.yaml.
           # Always seed site:<domain>. Seed site:<custom_domain> + site:<pages_subdomain>.pages.dev where set.
           HOSTS="$(python3 -c "
@@ -219,12 +237,27 @@ jobs:
 
       - name: Verify article-index in KV
         working-directory: platform/packages/site-worker
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           SITE="${{ matrix.site }}"
-          NS_ID="${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}"
+
+          DEV1_SITES="financenewsbase coolnews-atl"
+          if echo "$DEV1_SITES" | grep -qw "$SITE"; then
+            export CLOUDFLARE_API_TOKEN="${{ secrets.DEV1_CLOUDFLARE_API_TOKEN }}"
+            export CLOUDFLARE_ACCOUNT_ID="${{ secrets.DEV1_CLOUDFLARE_ACCOUNT_ID }}"
+            if [[ "${{ github.ref_name }}" == "main" ]]; then
+              NS_ID="${{ secrets.DEV1_KV_NAMESPACE_ID_PROD }}"
+            else
+              NS_ID="${{ secrets.DEV1_KV_NAMESPACE_ID_STAGING }}"
+            fi
+          else
+            export CLOUDFLARE_API_TOKEN="${{ secrets.CLOUDFLARE_API_TOKEN }}"
+            export CLOUDFLARE_ACCOUNT_ID="${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"
+            if [[ "${{ github.ref_name }}" == "main" ]]; then
+              NS_ID="${{ secrets.KV_NAMESPACE_ID_PROD }}"
+            else
+              NS_ID="${{ secrets.KV_NAMESPACE_ID_STAGING }}"
+            fi
+          fi
 
           # Count articles on disk (source of truth)
           DISK_COUNT=$(find "$GITHUB_WORKSPACE/sites/$SITE/articles" -name '*.md' 2>/dev/null | wc -l | tr -d ' ')
@@ -245,11 +278,28 @@ jobs:
         if: failure()
         working-directory: platform/packages/site-worker
         env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
-          NS_ID="${{ github.ref_name == 'main' && secrets.KV_NAMESPACE_ID_PROD || secrets.KV_NAMESPACE_ID_STAGING }}"
+          SITE="${{ matrix.site }}"
+
+          DEV1_SITES="financenewsbase coolnews-atl"
+          if echo "$DEV1_SITES" | grep -qw "$SITE"; then
+            export CLOUDFLARE_API_TOKEN="${{ secrets.DEV1_CLOUDFLARE_API_TOKEN }}"
+            export CLOUDFLARE_ACCOUNT_ID="${{ secrets.DEV1_CLOUDFLARE_ACCOUNT_ID }}"
+            if [[ "${{ github.ref_name }}" == "main" ]]; then
+              NS_ID="${{ secrets.DEV1_KV_NAMESPACE_ID_PROD }}"
+            else
+              NS_ID="${{ secrets.DEV1_KV_NAMESPACE_ID_STAGING }}"
+            fi
+          else
+            export CLOUDFLARE_API_TOKEN="${{ secrets.CLOUDFLARE_API_TOKEN }}"
+            export CLOUDFLARE_ACCOUNT_ID="${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"
+            if [[ "${{ github.ref_name }}" == "main" ]]; then
+              NS_ID="${{ secrets.KV_NAMESPACE_ID_PROD }}"
+            else
+              NS_ID="${{ secrets.KV_NAMESPACE_ID_STAGING }}"
+            fi
+          fi
           FAIL_PAYLOAD=$(jq -nc --arg sha "$GITHUB_SHA" --arg at "$(date -u +%FT%TZ)" \
                          '{gitSha: $sha, committedAt: $at, syncedAt: $at, ok: false, error: "CI sync failed"}')
           npx wrangler kv key put "sync-status:${{ matrix.site }}" "$FAIL_PAYLOAD" \
