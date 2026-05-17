@@ -35,7 +35,7 @@ sites:
     pages_subdomain: null
     zone_id: null
     staging_branch: staging/chaibeseret
-    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=chaibeseret
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=chaibeseret
     saved_previews: null
     custom_domain: null
   - domain: financenewsbase
@@ -74,7 +74,7 @@ sites:
     pages_subdomain: null
     zone_id: null
     staging_branch: staging/wtpop
-    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=wtpop
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=wtpop
     saved_previews: null
     custom_domain: null
 deleted: []
