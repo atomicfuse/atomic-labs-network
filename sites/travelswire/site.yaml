@@ -1,0 +1,109 @@
+domain: travelswire
+site_name: TravelSwire
+site_tagline: null
+author: Sarah Rivera
+groups:
+  - mock-ads
+active: true
+bundle_id: 6a09b84d099fd899f75e8254
+iab_vertical_code: "653"
+iab_category_codes:
+  - "662"
+  - "661"
+  - "669"
+  - "660"
+  - "666"
+  - "659"
+  - "676"
+  - "665"
+  - "656"
+  - "672"
+  - "657"
+  - "658"
+  - "673"
+  - "675"
+  - "670"
+  - "671"
+brief:
+  audiences:
+    - Travelers
+  audience_type_ids:
+    - 6a0079411104bbff809b80bd
+  tone: friendly, travel lovers
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Destination Guides
+    - Travel Tips
+    - Local Culture
+    - Adventure Activities
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  category_ids:
+    - 6a00793d1104bbff809b7c7a
+    - 6a00793f1104bbff809b7f87
+    - 6a00793f1104bbff809b7f85
+    - 6a00793f1104bbff809b7f91
+    - 6a00793f1104bbff809b7f83
+    - 6a00793f1104bbff809b7f8b
+    - 6a00793f1104bbff809b7f81
+    - 6a00793f1104bbff809b7f9f
+    - 6a00793f1104bbff809b7f89
+    - 6a00793f1104bbff809b7f7b
+    - 6a00793f1104bbff809b7f97
+    - 6a00793f1104bbff809b7f7d
+    - 6a00793f1104bbff809b7f7f
+    - 6a00793f1104bbff809b7f99
+    - 6a00793f1104bbff809b7f9d
+    - 6a00793f1104bbff809b7f93
+    - 6a00793f1104bbff809b7f95
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: custom
+  colors:
+    primary: "#6dae42"
+    accent: "#6366f1"
+    background: "#ffffff"
+    secondary: "#1e293b"
+    text: "#1e293b"
+    muted: "#94a3b8"
+    surface: "#f1f5f9"
+    border: "#e2e8f0"
+    footer_bg: "#1e293b"
+    must_reads_bg: "#1e293b"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1e293b"
+    feed_desc: "#334155"
+    feed_date: "#94a3b8"
+    prose_heading: "#1e293b"
+    prose_body: "#334155"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
