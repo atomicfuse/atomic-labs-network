@@ -71,7 +71,7 @@ brief:
 theme:
   base: custom
   colors:
-    primary: "#6dae42"
+    primary: "#03582a"
     accent: "#6366f1"
     background: "#ffffff"
     secondary: "#1e293b"
