@@ -199,7 +199,7 @@ jobs:
           SITE="${{ matrix.site }}"
 
           # Dev1 legacy sites use Dev1 account credentials
-          DEV1_SITES="financenewsbase coolnews-atl"
+          DEV1_SITES="financenewsbase muvizzcom"
           if echo "$DEV1_SITES" | grep -qw "$SITE"; then
             echo "→ Dev1 site detected: using Dev1 credentials"
             export CLOUDFLARE_API_TOKEN="${{ secrets.DEV1_CLOUDFLARE_API_TOKEN }}"
@@ -240,7 +240,7 @@ jobs:
         run: |
           SITE="${{ matrix.site }}"
 
-          DEV1_SITES="financenewsbase coolnews-atl"
+          DEV1_SITES="financenewsbase muvizzcom"
           if echo "$DEV1_SITES" | grep -qw "$SITE"; then
             export CLOUDFLARE_API_TOKEN="${{ secrets.DEV1_CLOUDFLARE_API_TOKEN }}"
             export CLOUDFLARE_ACCOUNT_ID="${{ secrets.DEV1_CLOUDFLARE_ACCOUNT_ID }}"
@@ -282,7 +282,7 @@ jobs:
         run: |
           SITE="${{ matrix.site }}"
 
-          DEV1_SITES="financenewsbase coolnews-atl"
+          DEV1_SITES="financenewsbase muvizzcom"
           if echo "$DEV1_SITES" | grep -qw "$SITE"; then
             export CLOUDFLARE_API_TOKEN="${{ secrets.DEV1_CLOUDFLARE_API_TOKEN }}"
             export CLOUDFLARE_ACCOUNT_ID="${{ secrets.DEV1_CLOUDFLARE_ACCOUNT_ID }}"
