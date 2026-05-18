@@ -26,6 +26,13 @@ score_breakdown:
   keyword_relevance: 85
 quality_note: Actionable and well-structured personal finance article. Tone is encouraging and fits the topic well. Could benefit from more specific examples or case studies to enhance reader engagement. Meets length and keyword requirements.
 reading_time: 4
+scripts:
+  - id: 608508b3-d33b-4add-9e93-ecbed55cdc17
+    name: ad3
+    position: after-paragraph-2
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+      <div data-cg-ad="ad_3"></div>
 ---
 
 ## Reimagining Work and Wealth in the Modern Economy

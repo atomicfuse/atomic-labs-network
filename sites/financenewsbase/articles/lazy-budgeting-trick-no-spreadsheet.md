@@ -27,6 +27,13 @@ score_breakdown:
   keyword_relevance: 95
 quality_note: Well-structured article offering practical personal finance advice. The content is accessible and aligns well with the target keywords, although it presents a common budgeting strategy rather than a novel one. Length and tone are appropriate.
 reading_time: 3
+scripts:
+  - id: c0034620-aada-4027-8ed0-9188458890ba
+    name: ad2
+    position: after-paragraph-2
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+      <div data-cg-ad="ad_2"></div>
 ---
 
 ## Ditch the Spreadsheets: A New Approach to Money Management
