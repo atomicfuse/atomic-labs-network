@@ -31,6 +31,13 @@ score_breakdown:
   keyword_relevance: 95
 quality_note: Excellent article that challenges common personal finance assumptions. It effectively integrates keywords and provides actionable advice. The tone is well-suited for an audience seeking to improve their financial literacy.
 reading_time: 4
+scripts:
+  - id: 99277f46-1e00-49c8-8159-d2b74dafc9e9
+    name: ad4
+    position: after-paragraph-2
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+      <div data-cg-ad="ad_4"></div>
 ---
 
 ## The Hidden Cost of Playing It Safe
