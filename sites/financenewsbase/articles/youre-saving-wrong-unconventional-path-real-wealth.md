@@ -26,6 +26,13 @@ score_breakdown:
   keyword_relevance: 95
 quality_note: Strong article with actionable advice and a compelling, modern perspective on personal finance. Tone is slightly more informal than the source example but fits the topic. Excellent keyword integration and content length is appropriate.
 reading_time: 3
+scripts:
+  - id: 8da37801-2b1f-4a1b-8fb9-74df4bd1ceb2
+    name: test
+    position: before-content
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+      <div data-cg-ad="Test_1"></div>
 ---
 
 ## Why Your Savings Account Won't Make You Rich
