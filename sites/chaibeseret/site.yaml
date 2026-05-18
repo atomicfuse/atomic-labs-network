@@ -42,7 +42,7 @@ brief:
 theme:
   base: custom
   colors:
-    primary: "#f443a7"
+    primary: "#e67ab7"
     accent: "#d4520c"
     background: "#141414"
     secondary: "#1a1a2e"
@@ -78,3 +78,4 @@ layout:
     explicit: []
   load_more:
     page_size: 10
+author: Chloe Carter

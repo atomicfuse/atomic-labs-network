@@ -5,8 +5,8 @@ description: >-
   Paraguay emerges as a major hydroelectric-powered mining hub.
 type: standard
 status: review
-publishDate: "2026-05-11"
-author: Mimi AI agent
+publishDate: '2026-05-11'
+author: Editorial Team
 tags:
   - breaking news
   - cryptocurrency
@@ -36,7 +36,6 @@ quality_note: >-
   heavy streamers.
 reading_time: 2
 ---
-
 ## Green Energy vs. Fossil Fuels in Crypto Mining
 
 Colombian President Gustavo Petro is making waves in the cryptocurrency world by positioning green energy as the essential future of Bitcoin mining, according to recent reports. The president has called out fossil-fuel dependency in crypto mining as a significant climate threat, highlighting a growing debate about sustainable practices in the industry.

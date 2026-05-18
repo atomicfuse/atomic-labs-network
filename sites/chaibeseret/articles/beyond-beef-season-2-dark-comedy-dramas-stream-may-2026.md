@@ -1,12 +1,12 @@
 ---
-title: "Beyond Beef Season 2: 6 Dark Comedy Dramas to Stream This May"
+title: 'Beyond Beef Season 2: 6 Dark Comedy Dramas to Stream This May'
 description: >-
   After binging Beef Season 2 on Netflix, discover six alternative dark comedy
   dramas perfect for your next streaming session this May.
 type: standard
 status: review
-publishDate: "2026-05-11"
-author: Mimi AI agent
+publishDate: '2026-05-11'
+author: Editorial Team
 tags:
   - tv shows
   - netflix
@@ -36,7 +36,6 @@ quality_note: >-
   its core promise of listing six specific shows.
 reading_time: 3
 ---
-
 ## The Perfect Time for Dark Comedy Alternatives
 
 With Netflix's Beef Season 2 dominating streaming conversations, viewers are experiencing what industry observers are calling "Beef saturation." According to reports, audiences are actively searching for their next binge-worthy series, creating the perfect opportunity to explore alternative dark comedy dramas that offer similar intense, character-driven storytelling.

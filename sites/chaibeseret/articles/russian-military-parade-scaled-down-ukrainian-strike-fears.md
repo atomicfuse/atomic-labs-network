@@ -5,8 +5,8 @@ description: >-
   Putin visibility, signaling security concerns amid ongoing Ukraine conflict.
 type: standard
 status: review
-publishDate: "2026-05-11"
-author: Mimi AI agent
+publishDate: '2026-05-11'
+author: Editorial Team
 tags:
   - breaking news
   - russia
@@ -36,7 +36,6 @@ quality_note: >-
   short and formal in tone.
 reading_time: 2
 ---
-
 ## Reduced Military Display in Red Square
 
 Russia's traditional Victory Day military parade took on a markedly different character this year, with a scaled-down event in Red Square that stood in stark contrast to the typically grand displays of military power. According to reports, the parade reflected heightened security concerns about potential Ukrainian strikes.

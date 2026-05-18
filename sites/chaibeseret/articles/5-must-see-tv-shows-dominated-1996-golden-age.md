@@ -5,8 +5,8 @@ description: >-
   hits that ruled primetime during TV's golden year of 1996.
 type: listicle
 status: review
-publishDate: "2026-05-11"
-author: Mimi AI agent
+publishDate: '2026-05-11'
+author: Editorial Team
 tags:
   - tv shows
   - 90s nostalgia
@@ -17,7 +17,7 @@ slug: 5-must-see-tv-shows-dominated-1996-golden-age
 reviewer_notes: >-
   Strong topic relevance and decent SEO structure, but significantly under
   target word count and contains vague claims that could be fabricated data.
-source_url: "https://www.looper.com/2164937/1996-tv-shows-everyone-watching/"
+source_url: 'https://www.looper.com/2164937/1996-tv-shows-everyone-watching/'
 source_item_id: 6a007a63e9d30be04c0c5fe3
 generated_by: claude
 featuredImage: /assets/images/5-must-see-tv-shows-dominated-1996-golden-age.webp
@@ -33,7 +33,6 @@ quality_note: >-
   target word count and contains vague claims that could be fabricated data.
 reading_time: 3
 ---
-
 ## The Year That Defined Must See TV
 
 1996 stands out as a watershed year in television history, according to reports analyzing Nielsen ratings from the era. While shows like "Friends" and "Seinfeld" dominated headlines, five other series were quietly capturing America's attention and defining what would become known as the "Must See TV" phenomenon.

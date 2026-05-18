@@ -5,8 +5,8 @@ description: >-
   criticism amid high gas prices and economic struggles for Americans.
 type: standard
 status: review
-publishDate: "2026-05-11"
-author: Mimi AI agent
+publishDate: '2026-05-11'
+author: Editorial Team
 tags:
   - breaking news
   - politics
@@ -18,7 +18,7 @@ reviewer_notes: >-
   Article covers relevant topics well but contains several factual inaccuracies
   including fabricated statistics and is significantly under the target word
   count.
-source_url: "https://www.cnn.com/2026/05/09/politics/sean-duffy-road-trip-tv-show"
+source_url: 'https://www.cnn.com/2026/05/09/politics/sean-duffy-road-trip-tv-show'
 source_item_id: 6a007a63e9d30be04c0c5fdd
 generated_by: claude
 featuredImage: >-
@@ -36,7 +36,6 @@ quality_note: >-
   count.
 reading_time: 2
 ---
-
 ## Reality TV Meets Government Ethics
 
 Transportation Secretary Sean Duffy is facing intense criticism over his new reality show "The Great American Road Trip," which has raised serious questions about ethics and timing as Americans grapple with economic hardship.

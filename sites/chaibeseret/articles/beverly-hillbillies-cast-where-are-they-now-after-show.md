@@ -6,8 +6,8 @@ description: >-
   show...
 type: standard
 status: review
-publishDate: "2026-05-11"
-author: Mimi AI agent
+publishDate: '2026-05-11'
+author: Editorial Team
 tags:
   - tv shows
   - beverly hillbillies
@@ -19,7 +19,7 @@ reviewer_notes: >-
   Article has good SEO structure and keyword relevance but is severely lacking
   in specific factual content about the actual cast members and is too short at
   547 words.
-source_url: "https://ew.com/the-beverly-hillbillies-cast-where-are-they-now-11967800"
+source_url: 'https://ew.com/the-beverly-hillbillies-cast-where-are-they-now-11967800'
 source_item_id: 6a007a63e9d30be04c0c5fe2
 generated_by: claude
 featuredImage: /assets/images/beverly-hillbillies-cast-where-are-they-now-after-show.webp
@@ -36,7 +36,6 @@ quality_note: >-
   547 words.
 reading_time: 3
 ---
-
 ## The End of an Era
 
 It's been over half a century since 'The Beverly Hillbillies' wrapped its nine-season run, leaving fans wondering what happened to the beloved cast of the fish-out-of-water sitcom. The classic 1960s show, which followed a family of rural folks who strike oil and move to Beverly Hills, featured a memorable ensemble of character actors and comedy legends who went on to have vastly different career trajectories.
