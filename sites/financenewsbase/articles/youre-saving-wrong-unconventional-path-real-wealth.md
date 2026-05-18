@@ -29,7 +29,7 @@ reading_time: 3
 scripts:
   - id: 8da37801-2b1f-4a1b-8fb9-74df4bd1ceb2
     name: test
-    position: before-content
+    position: after-paragraph-1
     content: |-
       <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
       <div data-cg-ad="Test_1"></div>
