@@ -28,11 +28,11 @@ quality_note: Strong article with actionable advice and a compelling, modern per
 reading_time: 3
 scripts:
   - id: 8da37801-2b1f-4a1b-8fb9-74df4bd1ceb2
-    name: test
+    name: ad1
     position: after-paragraph-2
     content: |-
       <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
-      <div data-cg-ad="Test_1"></div>
+      <div data-cg-ad="ad_1"></div>
 ---
 
 ## Why Your Savings Account Won't Make You Rich
