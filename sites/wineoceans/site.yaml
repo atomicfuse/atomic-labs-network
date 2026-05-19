@@ -45,7 +45,7 @@ theme:
     border: "#cbd5e1"
     heading: "#6EC1E4"
     link: "#1a1a2e"
-    link_hover: "#f4c542"
+    link_hover: "#eebe3a"
     footer_bg: "#6EC1E4"
     must_reads_bg: "#0f172a"
     hero_title: "#ffffff"
@@ -60,8 +60,8 @@ theme:
     category_header_text: "#ffffff"
     footer_text: "#9ca3af"
     footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
+    footer_link: "#000205"
+    footer_link_hover: "#46d214"
   fonts:
     heading: Roboto
     body: Roboto
