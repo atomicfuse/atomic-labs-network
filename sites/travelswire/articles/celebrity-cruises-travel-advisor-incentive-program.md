@@ -35,6 +35,7 @@ quality_note: >-
   friendly travel enthusiast tone, and focuses more on industry news than
   traveler-focused content.
 reading_time: 3
+image_alt: celebrity-cruises-travel-advisor-incentive-program
 ---
 ## Celebrity Cruises Recognizes Travel Advisors with New Incentive Campaign
 
