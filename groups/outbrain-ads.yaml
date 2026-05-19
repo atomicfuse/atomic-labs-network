@@ -66,10 +66,9 @@ ads_config:
           maxHeight: null
         customSizes: []
       code: |-
-        <script src="https://client.us-east.adsnx.com/js/widget.js"></script>
         <div id="widget1" style='background-color:#fcfbf7'></div>
         <script>
-            _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
+            _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
         </script>
 ads_txt: []
 theme: {}
