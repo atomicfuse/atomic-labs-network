@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-unequal-global-north-latin-america.html'
 source_item_id: 6a0bf30216f23264031d78d0
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: /assets/images/hidden-costs-global-trade-latin-america-resource-drain.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written professional piece with strong economic analysis but falls short
   of target word count and could benefit from more specific SEO optimization.
 reading_time: 3
+image_alt: >-
+  Resources and labor symbolically flowing from Latin America toward distant
+  industrial economies
 ---
 ## The Scale of Resource Extraction
 
