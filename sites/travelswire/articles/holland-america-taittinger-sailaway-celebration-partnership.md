@@ -23,7 +23,8 @@ source_url: >-
   https://www.forbes.com/sites/claudiaalarcon/2026/05/18/taittinger-is-now-served-at-every-holland-america-sailaway-celebration/
 source_item_id: 6a0bc42416f23264031d7730
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: >-
+  /assets/images/holland-america-taittinger-sailaway-celebration-partnership.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -36,6 +37,7 @@ quality_note: >-
   length (566 words vs 1000 target) and relies heavily on vague sourcing which
   raises factual accuracy concerns.
 reading_time: 3
+image_alt: Champagne flutes on a luxury cruise deck at sunset as the ship sails from port
 ---
 ## A Toast to Tradition Returns to the Seas
 
