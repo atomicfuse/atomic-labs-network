@@ -22,7 +22,7 @@ source_url: >-
   https://www.travelpulse.com/news/cruise/msc-cruises-msc-euribia-starts-summer-season-in-northern-europe
 source_item_id: 6a0b33deac596b621e9355f9
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/msc-euribia-northern-europe-summer-season.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   significantly under target word count and lacks the engaging, personal tone
   expected for travel enthusiasts.
 reading_time: 2
+image_alt: >-
+  Modern cruise ship sailing through a calm Norwegian fjord beneath green
+  mountains
 ---
 ## MSC Euribia Begins Northern Europe Operations
 
