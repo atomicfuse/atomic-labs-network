@@ -19,7 +19,7 @@ source_url: >-
   https://www.forbes.com/sites/wendyaltschuler/2026/05/18/wander-farther-a-new-hiking-book-doubles-as-a-travel-guide/
 source_item_id: 6a0bc42316f23264031d7729
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/national-geographic-hiking-guide-travel-styles.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -31,6 +31,9 @@ quality_note: >-
   Strong travel-focused content with good keyword alignment, but falls short on
   length and has some unsupported claims about book details.
 reading_time: 3
+image_alt: >-
+  Travelers gather at a scenic trailhead with branching paths, mountains,
+  forest, and a distant camper van.
 ---
 ## A Hiking Guide That Doubles as Travel Planning
 
