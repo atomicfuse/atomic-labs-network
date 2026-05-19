@@ -35,40 +35,41 @@ brief:
 theme:
   base: custom
   colors:
-    primary: "#6EC1E4"
-    accent: "#65645d"
+    primary: "#0f4c81"
+    accent: "#10b981"
     background: "#f8fafc"
     secondary: "#0f172a"
     text: "#0f172a"
     muted: "#64748b"
     surface: "#e2e8f0"
     border: "#cbd5e1"
-    heading: "#6EC1E4"
-    link: "#1a1a2e"
-    link_hover: "#edb10c"
-    footer_bg: "#f35512"
+    heading: "#fb0e0e"
+    link: "#0f4c81"
+    link_hover: "#10b981"
+    footer_bg: "#0f172a"
     must_reads_bg: "#0f172a"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
-    article_hero_meta: "#6b7280"
-    feed_title: "#0f172a"
+    article_hero_meta: "#64748b"
+    feed_title: "#ca16a3"
     feed_desc: "#0f172a"
     feed_date: "#64748b"
     prose_heading: "#0f172a"
     prose_body: "#1e293b"
     category_header_text: "#ffffff"
-    footer_text: "#9ca3af"
+    footer_text: "#94a3b8"
     footer_heading: "#ffffff"
-    footer_link: "#000205"
-    footer_link_hover: "#46d214"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#ffffff"
   fonts:
     heading: Roboto
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 96
+  logo_height: 88
   logo_height_footer: 96
+  footer_logo: /assets/logo-footer.png
 layout:
   hero:
     enabled: true
