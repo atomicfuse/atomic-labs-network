@@ -43,10 +43,10 @@ theme:
     muted: "#64748b"
     surface: "#e2e8f0"
     border: "#cbd5e1"
-    heading: "#6EC1E4"
+    heading: "#272727"
     link: "#6EC1E4"
-    link_hover: "#61CE70"
-    footer_bg: "#54595F"
+    link_hover: "#000000"
+    footer_bg: "#000000"
     must_reads_bg: "#54595F"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
@@ -67,7 +67,7 @@ theme:
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 88
+  logo_height: 70
   logo_height_footer: 96
   footer_logo: /assets/logo-footer.png
 layout:
