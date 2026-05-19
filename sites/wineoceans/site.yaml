@@ -38,13 +38,13 @@ theme:
     primary: "#6EC1E4"
     accent: "#61CE70"
     background: "#f8fafc"
-    secondary: "#0f172a"
+    secondary: "#54595F"
     text: "#272727"
     muted: "#64748b"
     surface: "#e2e8f0"
     border: "#cbd5e1"
     heading: "#272727"
-    link: "#6EC1E4"
+    link: "#61CE70"
     link_hover: "#6EC1E4"
     footer_bg: "#000000"
     must_reads_bg: "#54595F"
@@ -52,7 +52,7 @@ theme:
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
     article_hero_meta: "#64748b"
-    feed_title: "#6EC1E4"
+    feed_title: "#61CE70"
     feed_desc: "#0f172a"
     feed_date: "#64748b"
     prose_heading: "#0f172a"
@@ -61,7 +61,7 @@ theme:
     footer_text: "#94a3b8"
     footer_heading: "#ffffff"
     footer_link: "#94a3b8"
-    footer_link_hover: "#ffffff"
+    footer_link_hover: "#6EC1E4"
   fonts:
     heading: Roboto
     body: Roboto
