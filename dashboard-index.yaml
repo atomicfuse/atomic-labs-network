@@ -100,20 +100,21 @@ sites:
   - domain: wineoceans
     company: ATL
     vertical: ""
-    status: Staging
+    status: Live
     site_id: "9185817424590"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-19T10:48:48.002Z
+    last_updated: 2026-05-19T11:36:40.128Z
     created_at: 2026-05-19T10:16:57.424Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: cd32ea96eda7142121100997b8576cee
     staging_branch: staging/wineoceans
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=wineoceans
     saved_previews: null
-    custom_domain: null
+    custom_domain: wineoceans.com
+    worker_pending_dns: false
 deleted: []
