@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vogue.com/article/best-airbnbs-in-puglia'
 source_item_id: 6a0bc42316f23264031d771b
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/puglia-italy-quiet-summer-alternative-unique-airbnb-stays.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   significantly under target word count at 504 words hurts overall
   effectiveness.
 reading_time: 3
+image_alt: >-
+  Quiet Puglia courtyard with a trullo, olive trees, outdoor dining, and a pool
+  in warm summer light.
 ---
 ## A Slower Pace in Southern Italy
 
