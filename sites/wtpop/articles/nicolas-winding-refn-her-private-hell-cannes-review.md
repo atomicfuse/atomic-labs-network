@@ -23,7 +23,7 @@ source_url: >-
   https://deadline.com/2026/05/her-private-hell-review-pino-donaggio-nicolas-winding-refn-sophie-thatcher-1236915259/
 source_item_id: 6a0be4f116f23264031d77f6
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/nicolas-winding-refn-her-private-hell-cannes-review.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   word count and contains unverifiable claims about the film's details and
   reception.
 reading_time: 3
+image_alt: >-
+  A woman in surreal neon light stands in a shadowy cinema corridor with magenta
+  and blue reflections.
 ---
 ## A Visionary Return to the Big Screen
 
