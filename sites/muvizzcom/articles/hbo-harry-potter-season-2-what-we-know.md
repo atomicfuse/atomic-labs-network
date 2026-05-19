@@ -22,7 +22,7 @@ source_url: >-
   https://www.elle.com/culture/celebrities/a71243453/hbo-harry-potter-season-2-news-date-cast/
 source_item_id: 6a0bc42316f23264031d7716
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: /assets/images/hbo-harry-potter-season-2-what-we-know.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Strong tone and relevance but severely penalized for short length and major
   factual inaccuracies including fabricated premiere date and casting details.
 reading_time: 3
+image_alt: >-
+  Three young students face a glowing hidden doorway in an ancient candlelit
+  castle corridor.
 ---
 ## HBO Fast-Tracks Season 2 Before Season 1 Premiere
 
