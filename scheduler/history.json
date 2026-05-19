@@ -1,5 +1,44 @@
 [
   {
+    "timestamp": "2026-05-19T13",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "financenewsbase",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 1
+      },
+      {
+        "domain": "wtpop",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "muvizzcom",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      }
+    ],
+    "skipped": [
+      {
+        "domain": "chaibeseret",
+        "reason": "not a preferred day (Monday, Thursday)"
+      },
+      {
+        "domain": "travelswire",
+        "reason": "not a preferred day (Friday)"
+      },
+      {
+        "domain": "wineoceans",
+        "reason": "not a preferred day (Monday, Wednesday)"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-05-18T13",
     "timezone": "EST",
     "forced": false,
