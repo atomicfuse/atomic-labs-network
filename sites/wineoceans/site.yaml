@@ -71,3 +71,27 @@ layout:
     explicit: []
   load_more:
     page_size: 10
+tracking:
+  ga4: G-CC6EJXVYMD
+  gtm: GT-KFGTHDX8
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
+scripts_vars: {}
+ads_config:
+  interstitial: false
+  interstitial_config:
+    script_url: ""
+    script_inline: ""
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: once_per_session
+      max_per_session: 1
+    page_types:
+      - all
+    close_delay_seconds: 3
+  layout: standard
