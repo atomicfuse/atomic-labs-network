@@ -22,7 +22,7 @@ source_url: >-
   https://www.forbes.com/sites/davidnikel/2026/05/18/lillehammer-offers-a-hands-on-taste-of-norways-olympic-legacy/
 source_item_id: 6a0bc42316f23264031d7717
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/lillehammer-norway-olympic-legacy-experience.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   relies too heavily on vague 'reports' without specific details that would
   enhance credibility and usefulness for travelers.
 reading_time: 3
+image_alt: >-
+  Cross-country skier in a red jacket gliding through snowy Lillehammer terrain
+  toward distant ski jumps.
 ---
 ## A Living Olympic Destination Beyond the History Books
 
