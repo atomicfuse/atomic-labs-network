@@ -21,7 +21,7 @@ source_url: >-
   https://www.forbes.com/sites/rachel-dube/2026/05/18/all-the-spots-to-have-on-your-radar-in-london-for-summer-2026/
 source_item_id: 6a0bc42416f23264031d772b
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/london-summer-2026-dining-guide.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong tone and keyword relevance but severely penalized for fabricated future
   restaurant data and short length at only 550 words versus the 800-1200 target.
 reading_time: 3
+image_alt: >-
+  Elegant rooftop dining table at golden hour with London skyline, cocktails,
+  seafood, flowers, and summer details.
 ---
 ## London's Hottest Summer Dining Destinations
 
