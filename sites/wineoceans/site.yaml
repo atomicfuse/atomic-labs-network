@@ -67,7 +67,7 @@ theme:
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 72
+  logo_height: 96
   logo_height_footer: 58
 layout:
   hero:
