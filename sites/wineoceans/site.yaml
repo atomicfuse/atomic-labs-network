@@ -45,7 +45,7 @@ theme:
     border: "#cbd5e1"
     heading: "#272727"
     link: "#6EC1E4"
-    link_hover: "#000000"
+    link_hover: "#6EC1E4"
     footer_bg: "#000000"
     must_reads_bg: "#54595F"
     hero_title: "#ffffff"
