@@ -36,14 +36,14 @@ theme:
   base: custom
   colors:
     primary: "#6EC1E4"
-    accent: "#10b981"
+    accent: "#0f172a"
     background: "#f8fafc"
     secondary: "#0f172a"
     text: "#0f172a"
     muted: "#64748b"
     surface: "#e2e8f0"
     border: "#cbd5e1"
-    footer_bg: "#6EC1E4"
+    footer_bg: "#0f172a"
     must_reads_bg: "#0f172a"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
@@ -71,3 +71,27 @@ layout:
     explicit: []
   load_more:
     page_size: 10
+tracking:
+  ga4: G-CC6EJXVYMD
+  gtm: GT-KFGTHDX8
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
+scripts_vars: {}
+ads_config:
+  interstitial: false
+  interstitial_config:
+    script_url: ""
+    script_inline: ""
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: once_per_session
+      max_per_session: 1
+    page_types:
+      - all
+    close_delay_seconds: 3
+  layout: standard
