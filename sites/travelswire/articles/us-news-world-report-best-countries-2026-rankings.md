@@ -21,7 +21,7 @@ source_url: >-
   https://www.forbes.com/sites/laurabegleybloom/2026/05/18/the-best-countries-to-live-in-and-visit-in-2026-according-to-us-news--world-report/
 source_item_id: 6a0bc42316f23264031d7719
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/us-news-world-report-best-countries-2026-rankings.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written article with good tone and relevance but significantly too short
   at 451 words and contains potentially fabricated 2026 rankings data.
 reading_time: 2
+image_alt: >-
+  Sunlit European cityscape with alpine peaks, riverfront buildings, and modern
+  transit suggesting quality of life
 ---
 ## Switzerland Claims Top Spot in Global Rankings
 
