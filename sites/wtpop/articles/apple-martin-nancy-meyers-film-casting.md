@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://www.thecut.com/article/apple-martin-cast-new-nancy-meyers-movie.html'
 source_item_id: 6a0bf55916f23264031d7900
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/apple-martin-nancy-meyers-film-casting.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong entertainment focus and engaging tone, but significantly under target
   word count and contains unverified claims about Apple Martin's casting.
 reading_time: 2
+image_alt: >-
+  Young actress steps into a warm studio set as paparazzi shadows gather
+  outside.
 ---
 ## Fresh Graduate Makes Hollywood Debut
 
