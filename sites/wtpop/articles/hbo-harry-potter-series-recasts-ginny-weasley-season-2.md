@@ -22,7 +22,7 @@ source_url: >-
   https://www.eonline.com/news/1432124/harry-potter-recasting-ginny-weasley-actress-gracie-cochrane-for-season-2
 source_item_id: 6a0be04216f23264031d77e7
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/hbo-harry-potter-series-recasts-ginny-weasley-season-2.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,7 @@ quality_note: >-
   fabricated casting information and premature season 2 details that appear to
   be fictional.
 reading_time: 3
+image_alt: Empty casting chair with a red ribbon in a moody fantasy school rehearsal hall
 ---
 ## Major Casting Change Before Series Launch
 
