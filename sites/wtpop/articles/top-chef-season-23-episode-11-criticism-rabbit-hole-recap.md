@@ -20,7 +20,7 @@ source_url: >-
   https://www.vulture.com/article/top-chef-recap-season-23-episode-11-down-the-rabbit-hole.html
 source_item_id: 6a0bf55916f23264031d78fe
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/top-chef-season-23-episode-11-criticism-rabbit-hole-recap.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong TV coverage with good tone but falls short on length and raises
   concerns about vague sourcing throughout the article.
 reading_time: 3
+image_alt: >-
+  Tense chefs stand in a chaotic competition kitchen with scattered peaches and
+  unfinished plates.
 ---
 ## Fan-Voted Twists Spark Controversy
 
