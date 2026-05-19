@@ -20,7 +20,7 @@ source_url: >-
   https://comicbook.com/tv-shows/feature/how-hbos-best-tv-show-right-now-could-run-for-8-seasons-if-it-follows-a-genre-trend/
 source_item_id: 6a0be04216f23264031d77e8
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/hbo-the-pitt-could-break-streaming-rules-eight-season-run.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written TV analysis with strong keyword relevance but falls short on
   length and contains some vague sourcing that raises factual accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Focused ER doctor in scrubs stands before a long, softly lit hospital
+  corridor.
 ---
 ## HBO's Medical Drama Breaks Modern Streaming Conventions
 
