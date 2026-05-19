@@ -20,7 +20,7 @@ source_url: >-
   https://www.yahoo.com/entertainment/tv/articles/why-twilight-zones-most-depressing-234500749.html
 source_item_id: 6a0be04216f23264031d77e9
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/twilight-zone-time-enough-at-last-episode-divides-fans.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -32,6 +32,9 @@ quality_note: >-
   Strong coverage of TV content with engaging tone, but significantly under
   target word count at 668 words versus the 800-1200 range.
 reading_time: 3
+image_alt: >-
+  A lonely man kneels in a ruined library beside broken glasses and scattered
+  books.
 ---
 ## A Classic That Still Sparks Debate
 
