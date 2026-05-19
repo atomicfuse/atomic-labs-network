@@ -19,7 +19,7 @@ source_url: >-
   https://www.vulture.com/article/below-deck-down-under-recap-season-4-episode-16-bravo.html
 source_item_id: 6a0bf55916f23264031d78ff
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/below-deck-down-under-jenna-demoted-meltdown-episode-16.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   relies heavily on vague 'according to reports' phrasing without specific
   details.
 reading_time: 3
+image_alt: >-
+  A tense yacht lounge scene shows an isolated crew member after an emotional
+  workplace confrontation.
 ---
 ## Jenna's Drunken Meltdown Takes Center Stage
 
