@@ -1,7 +1,7 @@
 organization: "Atomic Labs"
 legal_entity: "Atomic Labs Ltd"
 company_address: "Tel Aviv, Israel"
-support_email_pattern: "contact@{{domain}}"
+support_email_pattern: "info@{{domain}}"
 
 default_theme: modern
 
