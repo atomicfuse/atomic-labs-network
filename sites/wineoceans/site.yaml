@@ -1,0 +1,73 @@
+domain: wineoceans.com
+site_name: wineoceans
+site_tagline: null
+author: Andrew Perry
+groups:
+  - null
+active: true
+bundle_id: 6a0c339f16f23264031d7942
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Wine news
+    - Wine for beginners
+    - Wine tips
+    - Wine reviews
+    - Wine recipes
+  seo_keywords_focus: []
+  content_guidelines: []
+  tag_ids:
+    - 6a03373d86fcaaeb5bc83282
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+      - Wednesday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: custom
+  colors:
+    primary: "#6EC1E4"
+    accent: "#10b981"
+    background: "#f8fafc"
+    secondary: "#0f172a"
+    text: "#0f172a"
+    muted: "#64748b"
+    surface: "#e2e8f0"
+    border: "#cbd5e1"
+    footer_bg: "#6EC1E4"
+    must_reads_bg: "#0f172a"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#0f172a"
+    feed_desc: "#0f172a"
+    feed_date: "#64748b"
+    prose_heading: "#0f172a"
+    prose_body: "#1e293b"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Roboto
+    body: Roboto
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
