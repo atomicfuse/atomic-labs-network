@@ -19,7 +19,7 @@ source_url: >-
   https://www.vulture.com/article/game-changer-recap-season-8-episode-1-dropout-tv.html
 source_item_id: 6a0bf55916f23264031d7901
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/game-changer-season-8-premiere-pushes-boundaries.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written entertainment piece with good keyword coverage but falls short on
   length and relies heavily on vague sourcing that raises some factual concerns.
 reading_time: 3
+image_alt: >-
+  Chaotic game-show set with performers sneaking around a giant sleeping
+  puppet-like rulekeeper.
 ---
 ## Dropout's Flagship Series Returns with Boundary-Testing Episode
 
