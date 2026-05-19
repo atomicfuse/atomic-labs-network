@@ -19,7 +19,7 @@ source_url: >-
   https://www.travelpulse.com/news/destinations/brazils-embratur-joins-black-travel-alliance
 source_item_id: 6a0b33dfac596b621e935600
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/brazil-embratur-black-travel-alliance-afro-tourism.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   significantly under the target word count which severely impacts overall
   quality.
 reading_time: 2
+image_alt: >-
+  Black travelers and local hosts walk through a historic Afro-Brazilian
+  neighborhood at golden hour.
 ---
 ## Brazil Strengthens Commitment to Cultural Tourism
 
