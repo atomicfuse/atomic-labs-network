@@ -35,7 +35,7 @@ theme:
   base: custom
   colors:
     primary: "#6EC1E4"
-    accent: "#54595F"
+    accent: "#61CE70"
     background: "#ffffff"
     secondary: "#1a1a2e"
     text: "#272727"
