@@ -19,7 +19,8 @@ source_url: >-
   https://deadline.com/2026/05/duffer-brothers-billy-crudup-original-hopper-david-harbour-1236915214/
 source_item_id: 6a0be4f116f23264031d77fc
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: >-
+  /assets/images/billy-crudup-original-hopper-stranger-things-duffer-brothers.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,9 @@ quality_note: >-
   Well-written entertainment piece with strong keyword relevance but falls short
   on length and contains some unsupported claims about the series conclusion.
 reading_time: 2
+image_alt: >-
+  A sheriff hat and audition pages sit under a spotlight between two shadowed
+  figures.
 ---
 ## The Original Vision for Hawkins' Chief
 
