@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://thepointsguy.com/news/hilton-honors-road-trip-experiences-250-points/'
 source_item_id: 6a0b33deac596b621e9355fd
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/hilton-honors-250-point-road-trips-america-250th-birthday.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   factual content, but falls short of optimal length and could be more engaging
   for travel enthusiasts.
 reading_time: 2
+image_alt: Red SUV packed for a scenic American road trip at a sunny highway overlook.
 ---
 ## Ultra-Low Point Redemptions Target Milestone Celebration
 
