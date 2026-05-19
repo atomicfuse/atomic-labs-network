@@ -34,7 +34,7 @@ brief:
 theme:
   base: custom
   colors:
-    primary: "#54595F"
+    primary: "#6EC1E4"
     accent: "#54595F"
     background: "#ffffff"
     secondary: "#1a1a2e"
@@ -42,8 +42,8 @@ theme:
     muted: "#6b7280"
     surface: "#f8f9fa"
     border: "#e5e7eb"
-    footer_bg: "#54595F"
-    must_reads_bg: "#54595F"
+    footer_bg: "#6EC1E4"
+    must_reads_bg: "#6EC1E4"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
