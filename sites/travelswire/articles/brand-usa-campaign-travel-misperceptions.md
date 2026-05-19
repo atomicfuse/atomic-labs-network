@@ -22,7 +22,7 @@ source_url: >-
   https://www.travelpulse.com/news/destinations/brand-usa-launches-campaign-to-dispel-misperceptions-about-visiting-us
 source_item_id: 6a0b33deac596b621e9355fa
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/brand-usa-campaign-travel-misperceptions.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -34,6 +34,9 @@ quality_note: >-
   The article is too short at 474 words and lacks the engaging, travel-focused
   tone expected for TravelSwire's audience of travel enthusiasts.
 reading_time: 2
+image_alt: >-
+  International travelers stand confidently with luggage in a bright modern
+  airport arrivals area.
 ---
 ## Brand USA Tackles Travel Confidence Issues
 
