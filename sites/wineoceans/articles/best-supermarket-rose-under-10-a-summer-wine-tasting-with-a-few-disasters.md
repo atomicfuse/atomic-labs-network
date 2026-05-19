@@ -6,6 +6,8 @@ status: "published"
 publishDate: "2026-05-11T09:06:01+00:00"
 author: "Taylor Winters"
 tags:
+  - "Wine reviews"
+  - "Wine tips"
   - "Wine Review"
   - "Wine Tasting"
   - "Wine Types"
