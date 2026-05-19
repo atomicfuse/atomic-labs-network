@@ -22,7 +22,7 @@ source_url: >-
   https://people.com/acm-awards-2026-parker-mccollum-wondered-how-they-let-me-in-here-before-winning-exclusive-11978254
 source_item_id: 6a0be4f116f23264031d77fb
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/parker-mccollum-2026-acm-album-year-win-hallie-ray-light.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   inaccuracies about future events (2026 awards) and falls short of target word
   count.
 reading_time: 3
+image_alt: >-
+  Country musician at an awards microphone beside his pregnant partner under
+  warm stage lights.
 ---
 ## From Humble Beginnings to Major Recognition
 
