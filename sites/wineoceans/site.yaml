@@ -43,7 +43,7 @@ theme:
     muted: "#64748b"
     surface: "#e2e8f0"
     border: "#cbd5e1"
-    footer_bg: "#6EC1E4"
+    footer_bg: "#0f172a"
     must_reads_bg: "#0f172a"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
