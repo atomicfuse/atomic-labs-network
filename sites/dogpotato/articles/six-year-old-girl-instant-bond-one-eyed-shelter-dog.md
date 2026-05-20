@@ -20,7 +20,7 @@ source_url: >-
   https://www.thedodo.com/daily-dodo/shelter-dog-has-sweetest-reaction-when-little-girl-returns-to-adopt-her
 source_item_id: 6a06a14afebc8d8d1c2ca437
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/six-year-old-girl-instant-bond-one-eyed-shelter-dog.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on length and could use better SEO optimization with more specific
   headings and meta description improvements.
 reading_time: 3
+image_alt: >-
+  Child in a rain jacket bonds with a one-eyed black rescue dog at an open
+  shelter gate.
 ---
 ## A Special Connection Forms at First Meeting
 
