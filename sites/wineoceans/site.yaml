@@ -36,29 +36,39 @@ theme:
   base: custom
   colors:
     primary: "#6EC1E4"
-    accent: "#0f172a"
+    accent: "#61CE70"
     background: "#f8fafc"
-    secondary: "#0f172a"
-    text: "#0f172a"
+    secondary: "#54595F"
+    text: "#272727"
     muted: "#64748b"
     surface: "#e2e8f0"
     border: "#cbd5e1"
-    footer_bg: "#0f172a"
-    must_reads_bg: "#0f172a"
+    heading: "#272727"
+    link: "#61CE70"
+    link_hover: "#6EC1E4"
+    footer_bg: "#000000"
+    must_reads_bg: "#54595F"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
-    feed_title: "#0f172a"
+    article_hero_meta: "#64748b"
+    feed_title: "#61CE70"
     feed_desc: "#0f172a"
     feed_date: "#64748b"
     prose_heading: "#0f172a"
     prose_body: "#1e293b"
     category_header_text: "#ffffff"
+    footer_text: "#94a3b8"
+    footer_heading: "#ffffff"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#6EC1E4"
   fonts:
     heading: Roboto
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height: 62
+  logo_height_footer: 96
 layout:
   hero:
     enabled: true
