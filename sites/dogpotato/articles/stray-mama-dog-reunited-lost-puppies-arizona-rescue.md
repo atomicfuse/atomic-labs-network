@@ -19,7 +19,7 @@ source_url: >-
   https://www.thedodo.com/daily-dodo/shelter-staff-have-the-best-surprise-for-mama-dog-who-thought-her-puppies-were-lost
 source_item_id: 6a06a14afebc8d8d1c2ca42a
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/stray-mama-dog-reunited-lost-puppies-arizona-rescue.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   coverage, but falls short of optimal length at 639 words versus the 800-1200
   target range.
 reading_time: 3
+image_alt: >-
+  Mama dog rests with her puppies on a soft blanket in a calm shelter recovery
+  space.
 ---
 ## A Mother's Worst Nightmare Becomes a Miracle
 
