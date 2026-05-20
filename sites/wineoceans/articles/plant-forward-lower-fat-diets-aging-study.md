@@ -22,7 +22,7 @@ source_url: >-
   https://www.medicalnewstoday.com/articles/lower-fat-plant-forward-diets-may-help-slow-aging-study-suggests
 source_item_id: 6a09bbd2099fd899f75e825c
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/plant-forward-lower-fat-diets-aging-study.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -34,6 +34,9 @@ quality_note: >-
   Well-written health article with good structure and factual accuracy, but
   lacks relevance to wine content that the site focuses on.
 reading_time: 3
+image_alt: >-
+  Older hands preparing a colorful plant-forward meal on a warm sunlit kitchen
+  table.
 ---
 ## New Research Explores Diet's Impact on Biological Age
 
