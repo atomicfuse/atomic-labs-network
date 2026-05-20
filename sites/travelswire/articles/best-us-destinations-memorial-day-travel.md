@@ -23,7 +23,7 @@ source_url: >-
   https://www.travelpulse.com/news/features/best-destinations-to-commemorate-memorial-day
 source_item_id: 6a0b33dfac596b621e9355fe
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/best-us-destinations-memorial-day-travel.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 45
@@ -37,6 +37,9 @@ quality_note: >-
   destination examples for a destination guide, and has weak SEO optimization
   with vague content.
 reading_time: 3
+image_alt: >-
+  Travelers walk toward a Memorial Day ceremony on a flag-lined historic
+  small-town street at dawn.
 ---
 ## Honor and Remember: Planning Your Memorial Day Weekend
 
