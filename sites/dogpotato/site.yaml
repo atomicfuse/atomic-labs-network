@@ -73,7 +73,7 @@ theme:
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
-    article_hero_meta: "#bdbdbd"
+    article_hero_meta: "#54595F"
     feed_title: "#E14F64"
     feed_desc: "#959595"
     feed_date: "#bdbdbd"
