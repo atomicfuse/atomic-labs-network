@@ -1,0 +1,106 @@
+domain: dogpotato.com
+site_name: dogpotato
+site_tagline: null
+author: Ava Murphy
+groups: []
+active: true
+bundle_id: 6a0d9c4716f23264031d794d
+brief:
+  audiences:
+    - Pets enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Animal Planet
+    - Cats
+    - Dogs
+    - Funny Videos
+    - Good To Know
+    - Other Animals
+    - Veterinary
+    - Videos
+  seo_keywords_focus:
+    - Animal Planet
+    - Cats
+    - Dogs
+    - Funny Videos
+    - Good To Know
+    - Other Animals
+    - Veterinary
+    - Videos
+  content_guidelines:
+    - Focus on Pets content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Pets
+  vertical_id: 6a00793d1104bbff809b7c59
+  category_ids:
+    - 6a00793d1104bbff809b7c59
+    - 6a00793e1104bbff809b7dcb
+    - 6a00793e1104bbff809b7dcd
+    - 6a00793e1104bbff809b7dd7
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#6EC1E4"
+    accent: "#24CEC6"
+    background: "#FFFFFF"
+    secondary: "#54595F"
+    text: "#7A7A7A"
+    muted: "#bdbdbd"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#E14F64"
+    link: "#24CEC6"
+    link_hover: "#E14F64"
+    footer_bg: "#54595F"
+    must_reads_bg: "#E14F64"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#bdbdbd"
+    feed_title: "#7A7A7A"
+    feed_desc: "#959595"
+    feed_date: "#bdbdbd"
+    prose_heading: "#7A7A7A"
+    prose_body: "#8e8e8e"
+    category_header_text: "#1a1a1a"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Roboto
+    body: Roboto
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 52
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+tracking:
+  ga4: G-N44RK1FFEG
+  gtm: GT-K5QNVVF2

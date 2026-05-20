@@ -52,7 +52,7 @@ ads_config:
           x: 16
           y: 9
         range:
-          minWidth: 300
+          minWidth: null
           maxWidth: null
           minHeight: 250
           maxHeight: null
