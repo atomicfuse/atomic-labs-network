@@ -22,7 +22,7 @@ source_url: >-
   https://www.slashgear.com/2176443/tusla-oklahoma-guiness-world-record-route-66-classic-car-parade/
 source_item_id: 6a0d215916f23264031d7949
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/tulsa-route-66-classic-car-parade-guinness-world-record.webp
 quality_score: 49
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   Route 66 instead of wine-related content, despite being tagged with 'Wine
   news'.
 reading_time: 3
+image_alt: >-
+  Classic cars cruise through Tulsa at golden hour with a teal bridge and
+  skyline in the distance.
 ---
 ## Historic Celebration Takes Shape in Oklahoma
 
