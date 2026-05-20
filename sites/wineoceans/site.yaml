@@ -52,7 +52,7 @@ theme:
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
     article_hero_meta: "#64748b"
-    feed_title: "#61CE70"
+    feed_title: "#0f172a"
     feed_desc: "#0f172a"
     feed_date: "#64748b"
     prose_heading: "#0f172a"
@@ -67,7 +67,7 @@ theme:
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 62
+  logo_height: 84
   logo_height_footer: 96
 layout:
   hero:
