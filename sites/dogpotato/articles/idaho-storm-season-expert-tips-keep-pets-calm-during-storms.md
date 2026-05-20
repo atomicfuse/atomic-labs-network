@@ -20,7 +20,8 @@ source_url: >-
   https://localnews8.com/news/2026/05/13/keeping-your-pets-safe-local-experts-share-tips-for-weathering-your-pets-reaction-to-idaho-storms/
 source_item_id: 6a06a14afebc8d8d1c2ca435
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: >-
+  /assets/images/idaho-storm-season-expert-tips-keep-pets-calm-during-storms.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   Strong veterinary content with excellent keyword relevance and engaging tone,
   but falls short on length at 657 words versus the 800-1200 target range.
 reading_time: 3
+image_alt: >-
+  Calm dog and cat resting indoors during a thunderstorm with comforting
+  pet-care items nearby.
 ---
 ## Understanding Why Storms Terrorize Our Pets
 
