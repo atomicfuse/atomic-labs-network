@@ -23,7 +23,7 @@ source_url: >-
   https://www.usmagazine.com/stylish/news/yolanda-hadid-makes-rare-red-carpet-appearance-with-bella/
 source_item_id: 6a0be4f116f23264031d77f1
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/yolanda-hadid-bella-cannes-red-carpet-appearance.webp
 quality_score: 29
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   future dates (2026 Cannes), and doesn't align with wine-focused content
   guidelines.
 reading_time: 3
+image_alt: >-
+  Two glamorous women pose together on a cinematic red carpet under soft camera
+  flashes.
 ---
 ## Mother-Daughter Moment at Cannes
 
