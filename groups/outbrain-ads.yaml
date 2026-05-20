@@ -39,7 +39,7 @@ ads_config:
     page_types:
       - all
     close_delay_seconds: 3
-    device: desktop
+    device: mobile
     exclude_pages: []
   layout: standard
   ad_placements:
@@ -52,9 +52,9 @@ ads_config:
           x: 16
           y: 9
         range:
-          minWidth: null
+          minWidth: 300
           maxWidth: null
-          minHeight: null
+          minHeight: 250
           maxHeight: null
         customSizes: []
       mobileSizeConfig:
