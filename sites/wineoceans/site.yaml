@@ -84,13 +84,8 @@ layout:
 tracking:
   ga4: G-CC6EJXVYMD
   gtm: GT-KFGTHDX8
-  google_ads: null
-  facebook_pixel: null
-  facebook_domain_verification: null
-  custom: []
-scripts_vars: {}
 ads_config:
-  interstitial: true
+  interstitial: false
   interstitial_config:
     script_url: ""
     script_inline: |-
