@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/the-boys-recap-season-5-episode-7.html'
 source_item_id: 6a0800db4bdae0614e7aaf67
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: >-
+  /assets/images/the-boys-season-5-episode-7-recap-frenchie-death-finale-setup.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -34,6 +35,9 @@ quality_note: >-
   fabrication of plot details from unreleased content and below-target word
   count.
 reading_time: 3
+image_alt: >-
+  Abandoned jacket in a dim corridor as two distant figures prepare for a final
+  confrontation.
 ---
 ## Major Character Loss Shakes The Boys Universe
 
