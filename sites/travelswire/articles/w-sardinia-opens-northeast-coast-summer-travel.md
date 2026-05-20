@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://thepointsguy.com/news/w-hotels-sardinia-poltu-quatu-officially-opens/'
 source_item_id: 6a09b764099fd899f75e8253
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/w-sardinia-opens-northeast-coast-summer-travel.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   content, but falls short on word count and could use more engaging,
   traveler-focused tone.
 reading_time: 3
+image_alt: >-
+  Luxury Sardinian resort terrace overlooking a turquoise marina in warm summer
+  light
 ---
 ## New Luxury Option Debuts on Sardinia's Coast
 
