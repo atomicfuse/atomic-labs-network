@@ -22,7 +22,7 @@ source_url: >-
   https://www.yahoo.com/entertainment/tv/articles/fbi-cia-coming-back-surprising-233000686.html
 source_item_id: 6a0be04216f23264031d77ea
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/fbi-cia-cbs-shows-return-schedule-changes.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   short, lacks specific factual information, and appears to be mostly
   speculative without concrete details.
 reading_time: 3
+image_alt: >-
+  Two federal-agent figures stand before abstract shifting schedule panels in a
+  moody city scene.
 ---
 ## CBS Prepares Major Changes for Popular Crime Dramas
 
