@@ -22,7 +22,8 @@ source_url: >-
   https://www.tmz.com/2026/05/18/kevin-hart-roasted-by-love-on-the-spectrum-cast/
 source_item_id: 6a0be4f216f23264031d7806
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: >-
+  /assets/images/love-on-the-spectrum-cast-roasts-kevin-hart-back-viral-video.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -34,6 +35,9 @@ quality_note: >-
   Strong entertainment focus and engaging tone, but significantly hampered by
   vague sourcing and potential factual inaccuracies that undermine credibility.
 reading_time: 3
+image_alt: >-
+  Diverse comedians laugh on a small club stage as an audience records the viral
+  moment.
 ---
 ## Cast Turns Tables on Comedian
 
