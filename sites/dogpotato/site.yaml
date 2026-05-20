@@ -58,14 +58,14 @@ theme:
   base: modern
   colors:
     primary: "#6EC1E4"
-    accent: "#24CEC6"
+    accent: "#E14F64"
     background: "#FFFFFF"
     secondary: "#54595F"
     text: "#7A7A7A"
     muted: "#bdbdbd"
     surface: "#f7f7f7"
     border: "#e6e6e6"
-    heading: "#E14F64"
+    heading: "#54595F"
     link: "#24CEC6"
     link_hover: "#E14F64"
     footer_bg: "#54595F"
