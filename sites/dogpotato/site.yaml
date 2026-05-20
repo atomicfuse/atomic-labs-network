@@ -74,7 +74,7 @@ theme:
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
     article_hero_meta: "#bdbdbd"
-    feed_title: "#7A7A7A"
+    feed_title: "#E14F64"
     feed_desc: "#959595"
     feed_date: "#bdbdbd"
     prose_heading: "#7A7A7A"
