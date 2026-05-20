@@ -21,7 +21,7 @@ source_url: >-
   https://www.msn.com/en-us/video/animals/dog-crate-sizing-tips-and-what-to-do-if-your-dog-eats-chocolate/vi-AA20DwWe?ocid
 source_item_id: 6a06a14afebc8d8d1c2ca439
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/dog-crate-sizing-chocolate-toxicity-safety-guide.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   integration, though slightly short at 692 words and contains some vague
   sourcing that could be more specific.
 reading_time: 3
+image_alt: >-
+  Calm dog beside an open crate with pet safety items and chocolate kept out of
+  reach in the background.
 ---
 ## Getting Crate Sizing Right for Your Dog
 
