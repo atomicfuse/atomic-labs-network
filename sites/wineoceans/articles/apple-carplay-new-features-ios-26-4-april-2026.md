@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.slashgear.com/2175236/new-apple-carplay-features-april-2026/'
 source_item_id: 6a0d215916f23264031d7946
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/apple-carplay-new-features-ios-26-4-april-2026.webp
 quality_score: 25
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   products (iOS 26.4 in 2026) and has no relevance to wine content despite being
   tagged as wine news.
 reading_time: 2
+image_alt: >-
+  Sleek car dashboard with abstract infotainment features glowing during a calm
+  dusk drive
 ---
 ## Apple Enhances CarPlay with Three Major Features
 
