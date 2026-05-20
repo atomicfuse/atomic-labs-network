@@ -54,7 +54,7 @@ ads_config:
         range:
           minWidth: null
           maxWidth: null
-          minHeight: null
+          minHeight: 250
           maxHeight: null
         customSizes: []
       mobileSizeConfig:
