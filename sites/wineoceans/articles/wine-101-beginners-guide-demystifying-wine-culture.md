@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://vinepair.com/wine-101/'
 source_item_id: 6a03376786fcaaeb5bc832a5
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/wine-101-beginners-guide-demystifying-wine-culture.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   significantly under target word count at 529 words versus 800-1200 target
   range.
 reading_time: 3
+image_alt: >-
+  Sunlit table with wine glasses, grapes, cheese, and hands sharing an
+  approachable tasting moment
 ---
 ## Making Wine Accessible for Everyone
 
