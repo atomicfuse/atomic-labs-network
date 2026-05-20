@@ -2,8 +2,7 @@ domain: dogpotato.com
 site_name: dogpotato
 site_tagline: null
 author: Ava Murphy
-groups:
-  - mock-ads
+groups: []
 active: true
 bundle_id: 6a0d9c4716f23264031d794d
 brief:
