@@ -39,6 +39,8 @@ ads_config:
     page_types:
       - all
     close_delay_seconds: 3
+    device: desktop
+    exclude_pages: []
   layout: standard
   ad_placements:
     - id: sidebar-widget
