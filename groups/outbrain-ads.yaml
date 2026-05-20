@@ -39,7 +39,7 @@ ads_config:
     page_types:
       - all
     close_delay_seconds: 3
-    device: mobile
+    device: both
     exclude_pages: []
   layout: standard
   ad_placements:
