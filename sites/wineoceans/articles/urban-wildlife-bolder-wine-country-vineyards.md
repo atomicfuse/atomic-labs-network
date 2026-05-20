@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://phys.org/news/2026-05-urban-life-animals-bolder-aggressive.html'
 source_item_id: 6a0bf30116f23264031d78cb
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/urban-wildlife-bolder-wine-country-vineyards.webp
 quality_score: 56
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   under target word count and contains vague references to research without
   proper citations, raising factual accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Bold urban wildlife approaches a vineyard tasting area near a city skyline at
+  dusk.
 ---
 ## Urban Animals Display Bold New Behaviors
 
