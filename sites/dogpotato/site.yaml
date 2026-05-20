@@ -100,7 +100,7 @@ layout:
     auto: true
     explicit: []
   load_more:
-    page_size: 10
+    page_size: 4
 tracking:
   ga4: G-N44RK1FFEG
   gtm: GT-K5QNVVF2
