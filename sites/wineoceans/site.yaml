@@ -85,28 +85,3 @@ layout:
 tracking:
   ga4: G-CC6EJXVYMD
   gtm: GT-KFGTHDX8
-ads_config:
-  interstitial: false
-  interstitial_config:
-    script_url: ""
-    script_inline: |-
-      window._atl_loadWidget("atl-interstitial-content", {
-        feedid: "cWFVUOzU8",
-        auth: "Vtg4LZ44FO2l",
-        qs: "g_umk=all&subid=102201&extcid=0&bundle_url=portal&muid=[IFA]&count=6&obj_id=0"
-      }, "vsm", {
-        qs: "g_umk=all&g_lo=3&g_mcol=2&g_by=1&g_imgrt=43&g_title=You may like:"
-      });
-    trigger:
-      type: delay
-      delay_seconds: 1
-      scroll_percent: 50
-    frequency:
-      type: custom
-      max_per_session: 3
-    page_types:
-      - all
-    close_delay_seconds: 3
-    device: both
-    exclude_pages: []
-  layout: standard
