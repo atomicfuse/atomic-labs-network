@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://nypost.com/article/best-cbd-products-for-dogs-per-veterinarians/'
 source_item_id: 6a06a14bfebc8d8d1c2ca449
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/best-cbd-products-dogs-anxiety-vet-recommended.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   falls short on length (641 words vs 800-1200 target) and lacks specific
   factual details about the recommended products.
 reading_time: 3
+image_alt: Calm dog resting beside its owner with an unlabeled wellness dropper nearby
 ---
 ## Growing Demand for Pet Anxiety Solutions
 
