@@ -52,7 +52,7 @@ theme:
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
     article_hero_meta: "#64748b"
-    feed_title: "#61CE70"
+    feed_title: "#0f172a"
     feed_desc: "#0f172a"
     feed_date: "#64748b"
     prose_heading: "#0f172a"
@@ -67,8 +67,9 @@ theme:
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 62
+  logo_height: 84
   logo_height_footer: 96
+  footer_logo: /assets/logo-footer.png
 layout:
   hero:
     enabled: true
@@ -84,28 +85,3 @@ layout:
 tracking:
   ga4: G-CC6EJXVYMD
   gtm: GT-KFGTHDX8
-ads_config:
-  interstitial: false
-  interstitial_config:
-    script_url: ""
-    script_inline: |-
-      window._atl_loadWidget("atl-interstitial-content", {
-        feedid: "cWFVUOzU8",
-        auth: "Vtg4LZ44FO2l",
-        qs: "g_umk=all&subid=102201&extcid=0&bundle_url=portal&muid=[IFA]&count=6&obj_id=0"
-      }, "vsm", {
-        qs: "g_umk=all&g_lo=3&g_mcol=2&g_by=1&g_imgrt=43&g_title=You may like:"
-      });
-    trigger:
-      type: delay
-      delay_seconds: 1
-      scroll_percent: 50
-    frequency:
-      type: custom
-      max_per_session: 3
-    page_types:
-      - all
-    close_delay_seconds: 3
-    device: both
-    exclude_pages: []
-  layout: standard
