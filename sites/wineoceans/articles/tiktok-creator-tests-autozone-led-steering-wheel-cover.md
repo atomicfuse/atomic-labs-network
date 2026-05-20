@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.motor1.com/news/796305/autozone-led-light-steering-wheel-cover/'
 source_item_id: 6a0d215916f23264031d7948
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/tiktok-creator-tests-autozone-led-steering-wheel-cover.webp
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -34,6 +34,9 @@ quality_note: >-
   wine-focused website and lacks proper SEO optimization for the target
   audience.
 reading_time: 3
+image_alt: >-
+  Glowing steering wheel cover in a parked car with a phone filming a
+  safety-focused accessory test
 ---
 ## TikTok Creator Puts Viral AutoZone Accessory to the Test
 
