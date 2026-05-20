@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.fox8live.com/video/2026/05/14/pet-project-heat-safety-tips-pets/'
 source_item_id: 6a06a14afebc8d8d1c2ca42b
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/expert-heat-safety-tips-keep-pets-protected-summer.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,7 @@ quality_note: >-
   lacks specific details and concrete tips that would make it truly valuable to
   readers.
 reading_time: 3
+image_alt: Dog and cat resting in shaded summer comfort beside a fresh water bowl.
 ---
 ## Summer Heat Poses Real Dangers to Pets
 
