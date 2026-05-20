@@ -23,7 +23,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71220731/raw-milk-legislation-concerns/
 source_item_id: 6a03382786fcaaeb5bc832c5
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/raw-milk-legislation-surges-health-risks.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   but completely off-topic for a wine website and significantly under target
   word count.
 reading_time: 3
+image_alt: >-
+  Unlabeled milk bottle on a grocery shelf with subtle lab and capitol
+  reflections
 ---
 ## Legislative Movement Gains Momentum
 
