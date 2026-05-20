@@ -19,7 +19,7 @@ source_url: >-
   https://www.express.co.uk/life-style/life/2205097/vet-tips-dog-breeds-risk-overheating
 source_item_id: 6a06a14afebc8d8d1c2ca432
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/vet-identifies-8-dog-breeds-most-at-risk-summer-heat.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   good tone, but falls short on word count and contains vague sourcing that
   raises factual accuracy concerns.
 reading_time: 3
+image_alt: Dogs resting in shaded summer patio with water and cooling towels nearby
 ---
 ## High-Risk Breeds Face Summer Dangers
 
