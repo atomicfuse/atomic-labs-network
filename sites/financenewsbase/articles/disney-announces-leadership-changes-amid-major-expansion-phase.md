@@ -20,7 +20,8 @@ source_url: >-
   https://www.forbes.com/sites/megandubois/2026/05/18/disney-names-new-presidents-for-disney-world-disneyland-paris-and-signature-experiences/
 source_item_id: 6a0bc42316f23264031d771e
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: >-
+  /assets/images/disney-announces-leadership-changes-amid-major-expansion-phase.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 65
@@ -32,6 +33,9 @@ quality_note: >-
   Professional tone and good structure, but limited financial analysis depth and
   vague sourcing reduce relevance for a finance-focused audience.
 reading_time: 3
+image_alt: >-
+  Executives review a theme park expansion map with castles, cruise ships, and
+  resorts at sunrise.
 ---
 ## Disney Restructures Leadership During Historic Growth Period
 
