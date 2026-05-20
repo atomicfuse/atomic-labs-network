@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://vocm.com/2026/05/14/local-vet-provides-tick-tips-for-pet-owners/'
 source_item_id: 6a06a14afebc8d8d1c2ca431
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/vet-shares-tick-prevention-tips-warmer-weather.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   on length and contains vague, unsourced claims that weaken factual
   credibility.
 reading_time: 3
+image_alt: Pet owner gently checks a calm dog for ticks in a sunny spring park.
 ---
 ## Tick Season Brings New Challenges for Pet Owners
 
