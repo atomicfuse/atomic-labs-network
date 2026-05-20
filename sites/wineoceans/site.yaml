@@ -85,7 +85,7 @@ tracking:
   ga4: G-CC6EJXVYMD
   gtm: GT-KFGTHDX8
 ads_config:
-  interstitial: true
+  interstitial: false
   interstitial_config:
     script_url: ""
     script_inline: |-
