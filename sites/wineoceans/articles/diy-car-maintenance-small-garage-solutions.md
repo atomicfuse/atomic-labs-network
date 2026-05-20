@@ -22,7 +22,7 @@ source_url: >-
   https://www.slashgear.com/2175200/small-garage-diy-car-maintenance-repair-projects/
 source_item_id: 6a0d215916f23264031d7944
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/diy-car-maintenance-small-garage-solutions.webp
 quality_score: 33
 score_breakdown:
   seo_quality: 15
@@ -35,6 +35,9 @@ quality_note: >-
   maintenance instead of wine-related content, making it entirely inappropriate
   for the target audience and keywords.
 reading_time: 3
+image_alt: >-
+  Compact garage workspace with an open car hood, basic tools, and maintenance
+  supplies arranged neatly.
 ---
 ## Essential Maintenance for Limited Space
 
