@@ -23,7 +23,7 @@ source_url: >-
   https://www.travelpulse.com/news/cruise/seabourn-encore-kicks-off-inaugural-alaska-season
 source_item_id: 6a0b33deac596b621e9355f8
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/seabourn-encore-inaugural-alaska-season-luxury-cruises.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
   but falls significantly short of target word count at only 540 words compared
   to the 800-1200 range.
 reading_time: 3
+image_alt: >-
+  Luxury cruise ship sailing through an Alaskan fjord with glaciers and a
+  refined deck dining setting
 ---
 ## Luxury Cruise Line Debuts Alaska Itineraries
 
