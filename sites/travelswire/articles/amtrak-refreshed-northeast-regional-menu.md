@@ -21,7 +21,7 @@ source_url: >-
   https://www.travelpulse.com/news/car-rail/amtrak-announces-new-northeast-regional-menu
 source_item_id: 6a0b33deac596b621e9355f5
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/amtrak-refreshed-northeast-regional-menu.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written article with appropriate tone but significantly under target word
   count and lacks specific details about the menu changes.
 reading_time: 2
+image_alt: >-
+  Modern train tray table with fresh meal items beside a blurred rail window
+  view.
 ---
 ## Amtrak Modernizes Onboard Dining Experience
 
