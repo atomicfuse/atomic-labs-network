@@ -21,7 +21,7 @@ source_url: >-
   https://www.forbes.com/sites/chrisperugini/2026/05/18/anna-sawai-is-hibikis-first-global-ambassador/
 source_item_id: 6a0bc42316f23264031d7722
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/anna-sawai-hibiki-first-global-ambassador.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written article about spirits industry news but falls short on wine
   relevance and target word count for the site's wine-focused audience.
 reading_time: 3
+image_alt: >-
+  Elegant kimono-clad woman beside an unbranded amber whisky bottle amid flowing
+  ivory silk.
 ---
 ## Historic Partnership Bridges Japanese Heritage and Global Markets
 
