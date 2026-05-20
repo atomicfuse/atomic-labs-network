@@ -23,7 +23,7 @@ source_url: >-
   https://www.autoblog.com/news/ev-sales-are-stalling-because-buyers-still-think-they-need-500-miles
 source_item_id: 6a0d215916f23264031d794b
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/ev-sales-plateau-500-mile-range-myth-holding-back-adoption.webp
 quality_score: 41
 score_breakdown:
   seo_quality: 15
@@ -36,6 +36,9 @@ quality_note: >-
   vehicles instead of wine-related content, making it irrelevant despite decent
   writing quality.
 reading_time: 3
+image_alt: >-
+  Modern electric car at dawn with abstract route arcs suggesting range anxiety
+  and everyday driving needs.
 ---
 ## The Range Anxiety Paradox
 
