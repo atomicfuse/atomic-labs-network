@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://www.forbes.com/sites/karlsson/'
 source_item_id: 6a042b2186fcaaeb5bc83534
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/wine-industry-crisis-innovation-opportunities-emerge.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-structured wine industry analysis with good keyword coverage, but lacks
   specific data sources and falls short of optimal word count.
 reading_time: 3
+image_alt: >-
+  A vineyard shifts from dry rows to a hopeful tasting table with young
+  producers at dawn.
 ---
 ## Global Wine Market Confronts Perfect Storm
 
