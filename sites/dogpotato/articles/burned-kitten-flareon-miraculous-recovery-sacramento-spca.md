@@ -20,7 +20,7 @@ source_url: >-
   https://www.thedodo.com/daily-dodo/tiny-kitten-with-burns-all-over-his-body-shocks-everyone-with-his-stunning-recovery
 source_item_id: 6a06a14afebc8d8d1c2ca438
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/burned-kitten-flareon-miraculous-recovery-sacramento-spca.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   tone, but falls short on length requirements and could benefit from better SEO
   optimization in the title and meta description.
 reading_time: 3
+image_alt: >-
+  Tiny orange tabby kitten cradled in caring hands on soft bedding in a warm
+  shelter setting.
 ---
 ## A Critical Case That Defied All Odds
 
