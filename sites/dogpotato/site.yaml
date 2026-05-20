@@ -68,7 +68,7 @@ theme:
     heading: "#54595F"
     link: "#24CEC6"
     link_hover: "#E14F64"
-    nav_link_hover: "#f4c542"
+    nav_link_hover: "#E14F64"
     footer_bg: "#54595F"
     must_reads_bg: "#E14F64"
     hero_title: "#ffffff"
@@ -97,7 +97,7 @@ layout:
     enabled: true
     count: 4
   must_reads:
-    enabled: true
+    enabled: false
     count: 5
   whats_new:
     enabled: true
