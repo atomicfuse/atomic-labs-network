@@ -22,7 +22,7 @@ source_url: >-
   https://www.slashgear.com/2175205/toyota-land-cruiser-vs-land-rover-defender-which-suv-depreciates-faster/
 source_item_id: 6a0d215916f23264031d7943
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/land-rover-defender-vs-toyota-land-cruiser-depreciation.webp
 quality_score: 37
 score_breakdown:
   seo_quality: 25
@@ -34,6 +34,9 @@ quality_note: >-
   This automotive depreciation article is completely mismatched for a
   wine-focused website and lacks proper SEO optimization for the target domain.
 reading_time: 2
+image_alt: >-
+  Two unbranded rugged SUVs on desert terrain, one on firm rock and one on a
+  sandy slope.
 ---
 ## Luxury Off-Road Icons Show Vastly Different Resale Performance
 
