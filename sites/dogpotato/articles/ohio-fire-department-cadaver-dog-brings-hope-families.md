@@ -19,7 +19,7 @@ source_url: >-
   https://www.13abc.com/2026/05/13/local-dog-will-work-help-track-down-answers-bring-closure-families/
 source_item_id: 6a06a14afebc8d8d1c2ca436
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/ohio-fire-department-cadaver-dog-brings-hope-families.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   short on length (653 words vs 800-1200 target) and could benefit from stronger
   SEO optimization.
 reading_time: 3
+image_alt: >-
+  Labrador search dog and firefighter handler stand outside a fire station in
+  warm dawn light.
 ---
 ## Young Lab Takes on Life-Saving Mission
 
