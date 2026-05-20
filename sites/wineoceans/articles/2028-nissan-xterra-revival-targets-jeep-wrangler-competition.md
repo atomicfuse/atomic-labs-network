@@ -21,7 +21,8 @@ source_url: >-
   https://www.autoevolution.com/news/new-2028-nissan-xterra-shows-unofficial-colors-inside-and-out-rendering-270114.html
 source_item_id: 6a0d215916f23264031d794c
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/2028-nissan-xterra-revival-targets-jeep-wrangler-competition.webp
 quality_score: 34
 score_breakdown:
   seo_quality: 15
@@ -33,6 +34,9 @@ quality_note: >-
   This automotive article about the Nissan Xterra is completely off-topic for a
   wine website and fails to incorporate any wine-related content or keywords.
 reading_time: 2
+image_alt: >-
+  Boxy white off-road SUV concept in a dramatic industrial studio with rugged
+  tires and amber lights
 ---
 ## Nissan Eyes Off-Road SUV Market Return
 
