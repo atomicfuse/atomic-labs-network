@@ -22,7 +22,7 @@ source_url: >-
   https://deadline.com/2026/05/jon-stewart-daily-show-donald-trump-grads-hiring-advice-1236915277/
 source_item_id: 6a0be4f116f23264031d77f2
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/jon-stewart-mock-job-advice-wine-industry-values.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Well-structured article with good keyword relevance and factual content, but
   significantly under target word count at 557 words versus the 800-1200 range.
 reading_time: 3
+image_alt: >-
+  Graduation cap, wine glass, and interview chairs in a moody wine cellar
+  setting.
 ---
 ## Traditional Values Still Matter in Wine Careers
 
