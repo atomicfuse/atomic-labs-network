@@ -56,6 +56,7 @@ theme:
     heading: "#272727"
     link: "#61CE70"
     link_hover: "#6EC1E4"
+    nav_link_hover: "#f4c542"
     footer_bg: "#000000"
     must_reads_bg: "#54595F"
     hero_title: "#ffffff"
@@ -77,7 +78,7 @@ theme:
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 84
+  logo_height: 78
   logo_height_footer: 96
   footer_logo: /assets/logo-footer.png
 layout:
@@ -87,6 +88,12 @@ layout:
   must_reads:
     enabled: true
     count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
   sidebar_topics:
     auto: true
     explicit: []
