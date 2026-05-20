@@ -20,7 +20,7 @@ source_url: >-
   https://www.thedodo.com/daily-dodo/security-guard-hears-faint-meow-near-macys-and-finds-tiny-baby-trapped-in-tube
 source_item_id: 6a06a14afebc8d8d1c2ca42e
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/security-guard-saves-kitten-trapped-mall-tube.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written cat rescue story with engaging tone and strong keyword relevance,
   but falls short on word count at 567 words when target is 800-1200.
 reading_time: 3
+image_alt: >-
+  Security guard listens beside a drainage pipe where a tiny calico kitten waits
+  in the shadows.
 ---
 ## Alert Security Guard Makes Life-Saving Discovery
 
