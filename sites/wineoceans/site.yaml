@@ -22,8 +22,7 @@ brief:
     - Wine recipes
   seo_keywords_focus: []
   content_guidelines: []
-  tag_ids:
-    - 6a03373d86fcaaeb5bc83282
+  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 1
@@ -32,6 +31,17 @@ brief:
       - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
+  image_guidelines: []
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  vertical_id: 6a00793d1104bbff809b7c3e
+  vertical: Food & Drink
+  category_ids: []
 theme:
   base: custom
   colors:
