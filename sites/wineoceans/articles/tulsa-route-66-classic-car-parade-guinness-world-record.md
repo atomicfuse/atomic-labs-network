@@ -4,7 +4,7 @@ description: >-
   Tulsa, Oklahoma prepares a massive 5.5-mile classic car parade for Route 66's
   100th anniversary, targeting a Guinness World Record on May 30, 2026.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:

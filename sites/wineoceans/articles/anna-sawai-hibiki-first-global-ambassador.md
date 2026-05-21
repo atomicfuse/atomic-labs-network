@@ -4,7 +4,7 @@ description: >-
   Hibiki Japanese whisky taps Emmy-winning actress Anna Sawai as its inaugural
   global ambassador, partnering with Japan's oldest kimono house for cultural...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:
