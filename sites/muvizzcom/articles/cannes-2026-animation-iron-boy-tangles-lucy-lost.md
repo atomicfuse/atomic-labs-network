@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.rogerebert.com/festivals/cannes-2026-iron-boy-tangles-lucy-lost'
 source_item_id: 6a0e834216f23264031d795d
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: /assets/images/cannes-2026-animation-iron-boy-tangles-lucy-lost.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   suffers from major factual issues (reporting on future Cannes 2026 as if it
   already happened) and falls significantly short of the target word count.
 reading_time: 3
+image_alt: >-
+  Animated light figures rise over a red carpet at a glamorous seaside film
+  festival.
 ---
 ## Animation Takes the Spotlight at Cannes 2026
 
