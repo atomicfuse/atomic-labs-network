@@ -20,7 +20,7 @@ source_url: >-
   https://www.tmz.com/2026/05/18/camille-grammer-says-dorit-kemsley-became-a-monster-after-rhobh-fame/
 source_item_id: 6a0be4f116f23264031d7802
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/camille-grammer-dorit-kemsley-monster-rhobh-fame.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong entertainment content with excellent keyword relevance but falls short
   on length requirements and relies heavily on vague sourcing.
 reading_time: 3
+image_alt: >-
+  Glamorous woman facing a vanity mirror with a darker distorted reflection
+  under paparazzi flashes.
 ---
 ## Former RHOBH Star Takes Aim at Dorit's Transformation
 
