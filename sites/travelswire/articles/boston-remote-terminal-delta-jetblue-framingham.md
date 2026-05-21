@@ -1,12 +1,9 @@
 ---
-title: 'Boston Opens Remote Terminal for Delta, JetBlue Passengers'
-description: >-
-  Boston Logan introduces a remote terminal in Framingham where passengers can
-  check in, drop bags, and clear TSA before taking an airside bus to the
-  airport.
+title: Boston Opens Remote Terminal for Delta, JetBlue Passengers
+description: Boston Logan introduces a remote terminal in Framingham where passengers can check in, drop bags, and clear TSA before taking an airside bus to the airport.
 type: standard
 status: review
-publishDate: '2026-05-19'
+publishDate: 2026-05-19
 author: Sarah Rivera
 tags:
   - Travel Tips
@@ -16,15 +13,11 @@ tags:
   - jetblue
   - airport-innovation
 slug: boston-remote-terminal-delta-jetblue-framingham
-reviewer_notes: >-
-  Well-written travel article with good tone and relevant content, but appears
-  to contain fabricated information about a remote terminal that doesn't exist,
-  significantly impacting factual accuracy.
-source_url: >-
-  https://thepointsguy.com/news/boston-logan-airport-landline-remote-terminal-framingham/
+reviewer_notes: Well-written travel article with good tone and relevant content, but appears to contain fabricated information about a remote terminal that doesn't exist, significantly impacting factual accuracy.
+source_url: https://thepointsguy.com/news/boston-logan-airport-landline-remote-terminal-framingham/
 source_item_id: 6a0b33deac596b621e9355f7
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/boston-remote-terminal-delta-jetblue-framingham.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -32,10 +25,7 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 80
-quality_note: >-
-  Well-written travel article with good tone and relevant content, but appears
-  to contain fabricated information about a remote terminal that doesn't exist,
-  significantly impacting factual accuracy.
+quality_note: Well-written travel article with good tone and relevant content, but appears to contain fabricated information about a remote terminal that doesn't exist, significantly impacting factual accuracy.
 reading_time: 3
 ---
 ## A New Model for Airport Access
