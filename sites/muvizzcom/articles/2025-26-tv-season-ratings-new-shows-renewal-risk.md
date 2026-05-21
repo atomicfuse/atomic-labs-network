@@ -21,7 +21,7 @@ source_url: >-
   https://tvseriesfinale.com/tv-show/2025-26-season-ratings-for-new-tv-shows-week-34/
 source_item_id: 6a0e834216f23264031d7959
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: /assets/images/2025-26-tv-season-ratings-new-shows-renewal-risk.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count and
   contains some questionable claims about specific show titles.
 reading_time: 3
+image_alt: >-
+  Glowing TV panels and abstract ratings charts in a sleek network decision
+  room.
 ---
 ## Network Decision Time Approaches as Freshman Shows Fight for Survival
 
