@@ -22,7 +22,7 @@ source_url: >-
   https://tvseriesfinale.com/tv-show/2025-26-season-ratings-for-new-tv-shows-week-34/
 source_item_id: 6a0e834216f23264031d7959
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/2025-26-tv-season-ratings-new-shows-cancellation-renewal.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   future-dated content that presents fictional 2025-26 season data as factual
   reporting.
 reading_time: 3
+image_alt: >-
+  Moody TV control room with glowing screens and abstract ratings data
+  suggesting renewal decisions
 ---
 ## Networks Face Critical Renewal Decisions as Season Winds Down
 
