@@ -21,7 +21,7 @@ source_url: >-
   https://tvseriesfinale.com/tv-show/2025-26-season-ratings-for-new-tv-shows-week-34/
 source_item_id: 6a0e834216f23264031d7959
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/2025-26-tv-season-ratings-new-shows-cancellation-renewal.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong topic relevance and tone but severely undermined by short length and
   fabricated show titles that appear to be hallucinations.
 reading_time: 2
+image_alt: >-
+  Empty network conference room with glowing abstract ratings screens and
+  scattered decision folders
 ---
 ## Networks Face Critical Renewal Decisions as Season Nears End
 
