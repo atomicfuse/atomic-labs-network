@@ -22,8 +22,7 @@ brief:
     - Wine recipes
   seo_keywords_focus: []
   content_guidelines: []
-  tag_ids:
-    - 6a03373d86fcaaeb5bc83282
+  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 1
@@ -32,6 +31,17 @@ brief:
       - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
+  image_guidelines: []
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  vertical_id: 6a00793d1104bbff809b7c3e
+  vertical: Food & Drink
+  category_ids: []
 theme:
   base: custom
   colors:
@@ -46,6 +56,7 @@ theme:
     heading: "#272727"
     link: "#61CE70"
     link_hover: "#6EC1E4"
+    nav_link_hover: "#54595F"
     footer_bg: "#000000"
     must_reads_bg: "#54595F"
     hero_title: "#ffffff"
@@ -67,8 +78,8 @@ theme:
     body: Roboto
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 84
-  logo_height_footer: 96
+  logo_height: 78
+  logo_height_footer: 94
   footer_logo: /assets/logo-footer.png
 layout:
   hero:
@@ -77,6 +88,12 @@ layout:
   must_reads:
     enabled: true
     count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
   sidebar_topics:
     auto: true
     explicit: []
