@@ -20,7 +20,7 @@ source_url: >-
   https://news.bitcoin.com/kalshi-quietly-stages-leveraged-crypto-push-as-hidden-api-surfaces-margin-demo/
 source_item_id: 6a0e834216f23264031d7958
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: /assets/images/kalshi-launches-hidden-margin-trading-api-crypto-futures.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   length and relies heavily on vague 'according to reports' sourcing without
   specific verification.
 reading_time: 3
+image_alt: >-
+  Glowing market terminal in a city financial district with abstract crypto
+  trading graphics
 ---
 ## Kalshi Tests Leveraged Trading Waters with Crypto Focus
 
