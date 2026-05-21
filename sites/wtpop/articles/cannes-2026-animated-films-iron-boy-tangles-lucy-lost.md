@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.rogerebert.com/festivals/cannes-2026-iron-boy-tangles-lucy-lost'
 source_item_id: 6a0e834216f23264031d795d
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/cannes-2026-animated-films-iron-boy-tangles-lucy-lost.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   fabrication of 2026 Cannes films and short length at 545 words versus 800-1200
   target.
 reading_time: 3
+image_alt: >-
+  Red carpet festival scene with glowing animated shapes suggesting prestige
+  animation at Cannes
 ---
 ## Animation Claims Its Place at Cannes 2026
 
