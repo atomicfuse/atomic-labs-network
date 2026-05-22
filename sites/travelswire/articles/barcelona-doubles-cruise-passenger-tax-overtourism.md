@@ -20,7 +20,7 @@ source_url: >-
   https://www.travelpulse.com/news/cruise/barcelona-is-cracking-down-on-cruise-tourism-with-increased-tax
 source_item_id: 6a0b33dfac596b621e935601
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/barcelona-doubles-cruise-passenger-tax-overtourism.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   length (532 words vs 800-1200 target) and could benefit from stronger SEO
   optimization in title and meta description.
 reading_time: 3
+image_alt: >-
+  Barcelona waterfront at dusk with a large cruise ship beside crowded city
+  streets.
 ---
 ## Barcelona Takes Aim at Cruise Tourism
 
