@@ -23,7 +23,7 @@ source_url: >-
   https://news.bitcoin.com/sec-commissioner-hester-peirce-to-join-regent-law-faculty/
 source_item_id: 6a0e834216f23264031d795a
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: /assets/images/sec-hester-peirce-joins-law-faculty-crypto-regulation.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   heavily on vague 'according to reports' sourcing which raises factual accuracy
   concerns.
 reading_time: 3
+image_alt: >-
+  Modern law classroom with scales of justice and abstract blockchain light
+  patterns
 ---
 ## Major SEC Figure Enters Academia
 
