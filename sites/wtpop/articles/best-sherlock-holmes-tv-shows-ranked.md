@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.tvline.com/2177348/best-sherlock-holmes-tv-shows-ranked/'
 source_item_id: 6a0e834216f23264031d7961
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/best-sherlock-holmes-tv-shows-ranked.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,9 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count and
   contains vague claims without proper support.
 reading_time: 3
+image_alt: >-
+  A silhouetted detective stands between Victorian streets and futuristic city
+  lights in a moody rain scene.
 ---
 ## The Enduring Appeal of Television's Greatest Detective
 
