@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.tvline.com/2177348/best-sherlock-holmes-tv-shows-ranked/'
 source_item_id: 6a0e834216f23264031d7961
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: /assets/images/best-sherlock-holmes-tv-shows-ranked-detective-evolution.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 65
@@ -34,6 +34,9 @@ quality_note: >-
   and vague references that lack specific details about cast, directors, and
   release dates as required by content guidelines.
 reading_time: 3
+image_alt: >-
+  Silhouetted detective before layered scenes of Victorian, modern, and
+  futuristic mystery settings
 ---
 ## The Enduring Appeal of Television's Greatest Detective
 
