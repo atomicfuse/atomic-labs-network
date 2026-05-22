@@ -21,7 +21,7 @@ source_url: >-
   https://www.justjared.com/2026/05/20/hbo-renews-7-tv-shows-announces-1-huge-hit-is-ending-in-2026/
 source_item_id: 6a0e834216f23264031d795f
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: /assets/images/hbo-renews-7-shows-major-hit-ending-2026.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong tone and keyword relevance but severely hampered by vague content
   lacking specific show names and being too short at 538 words.
 reading_time: 3
+image_alt: >-
+  Seven lit director chairs and one fading chair in a dark premium screening
+  room.
 ---
 ## HBO Makes Major Programming Decisions for 2026
 
