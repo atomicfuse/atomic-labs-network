@@ -22,7 +22,7 @@ source_url: >-
   https://www.travelpulse.com/news/features/all-inclusive-resorts-with-top-sustainability-programs
 source_item_id: 6a09b764099fd899f75e8252
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/all-inclusive-resorts-sustainability-programs.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,7 @@ quality_note: >-
   significantly under target word count and contains vague claims without
   specific supporting data.
 reading_time: 3
+image_alt: Eco-luxury resort tucked behind mangroves beside a calm lagoon at golden hour
 ---
 ## The Rise of Sustainable All-Inclusive Travel
 
