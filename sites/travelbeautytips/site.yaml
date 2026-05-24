@@ -54,7 +54,7 @@ brief:
 theme:
   base: modern
   colors:
-    primary: "#ffffff"
+    primary: "#dbdbdb"
     accent: "#61CE70"
     background: "#FFFFFF"
     secondary: "#2B9F94"
