@@ -50,6 +50,7 @@ brief:
       - thursday
       - friday
     preferred_time: 10:00
+  audience_type_ids: []
 theme:
   base: modern
   colors:
@@ -85,6 +86,7 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  footer_logo: /assets/logo-footer.png
 layout:
   hero:
     enabled: true
