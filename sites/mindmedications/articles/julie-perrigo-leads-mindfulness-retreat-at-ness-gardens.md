@@ -1,25 +1,36 @@
 ---
-title: "Julie Perrigo Leads Mindfulness Retreat at Ness Gardens"
-description: "Julie Perrigo's mindfulness retreat at Ness Gardens offers Wirral residents a calming chance to pause, reconnect with nature, and explore guided wellbeing practices in a peaceful garden setting."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T09:16:15+00:00"
-author: "Lena Ashwood"
+title: Julie Perrigo Leads Mindfulness Retreat at Ness Gardens
+description: >-
+  Julie Perrigo's mindfulness retreat at Ness Gardens offers Wirral residents a
+  calming chance to pause, reconnect with nature, and explore guided wellbeing
+  practices in a peaceful garden setting.
+type: standard
+status: published
+publishDate: '2026-05-04T09:16:15+00:00'
+author: Lena Ashwood
 tags:
-  - "Mindfulness"
-  - "Wellness"
-slug: "julie-perrigo-leads-mindfulness-retreat-at-ness-gardens"
+  - Mindfulness
+  - Wellness
+slug: julie-perrigo-leads-mindfulness-retreat-at-ness-gardens
 reading_time: 7
-source_url: "https://mindmedications.com/julie-perrigo-leads-mindfulness-retreat-at-ness-gardens/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/julie-perrigo-leads-mindfulness-retreat-at-ness-gardens/
+imported_from: wordpress
 wp_original_id: 648
-featuredImage: "/assets/images/julie-perrigo-leads-mindfulness-retreat-at-ness-gardens.webp"
+featuredImage: /assets/images/julie-perrigo-leads-mindfulness-retreat-at-ness-gardens.webp
 seo:
-  canonical: "https://mindmedications.com/julie-perrigo-leads-mindfulness-retreat-at-ness-gardens/"
-  og_title: "Julie Perrigo Leads Mindfulness Retreat at Ness Gardens - Mind Medications"
-  og_description: "Julie Perrigo’s mindfulness retreat at Ness Gardens offers Wirral residents a calming chance to pause, reconnect with nature, and explore guided wellbeing practices in a peaceful garden setting."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/julie-perrigo-leads-mindfulness-retreat-at-ness-gardens/
+  og_title: Julie Perrigo Leads Mindfulness Retreat at Ness Gardens - Mind Medications
+  og_description: >-
+    Julie Perrigo’s mindfulness retreat at Ness Gardens offers Wirral residents
+    a calming chance to pause, reconnect with nature, and explore guided
+    wellbeing practices in a peaceful garden setting.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  People practicing mindfulness in a tranquil garden surrounded by trees and
+  soft morning light.
 ---
 
 A mindfulness retreat led by wellbeing practitioner Julie Perrigo is bringing a calm, nature-focused experience to Ness Gardens, offering people on Wirral a chance to pause, reset, and reconnect with themselves in one of the region's most peaceful outdoor settings.
