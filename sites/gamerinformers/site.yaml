@@ -1,0 +1,101 @@
+domain: gamerinformers
+site_name: gamerinformers
+site_tagline: null
+author: Mia Brooks
+groups: []
+active: true
+bundle_id: 6a12d75016f23264031d7a54
+brief:
+  audiences:
+    - Video Gaming enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Gaming News
+    - Reviews
+    - Gameplay
+    - PC Games
+    - Console Games
+  seo_keywords_focus:
+    - Gaming News
+    - Reviews
+    - Gameplay
+    - PC Games
+    - Console Games
+  content_guidelines:
+    - Focus on Video Gaming content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Video Gaming
+  vertical_id: 6a00793d1104bbff809b7c7d
+  category_ids:
+    - 6a00793d1104bbff809b7c7d
+    - 6a00793f1104bbff809b7fa7
+    - 6a00793f1104bbff809b7fad
+    - 6a00793f1104bbff809b7fab
+    - 6a0079401104bbff809b7fcd
+    - 6a00793f1104bbff809b7fb7
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#FF9022"
+    secondary: "#000000"
+    accent: "#61CE70"
+    background: "#FFFFFF"
+    text: "#181818"
+    muted: "#8c8c8c"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#181818"
+    link: "#FF9022"
+    link_hover: "#61CE70"
+    footer_bg: "#000000"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#000000"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#8c8c8c"
+    feed_title: "#181818"
+    feed_desc: "#464646"
+    feed_date: "#8c8c8c"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#181818"
+    prose_body: "#3b3b3b"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-7RR761CYYB
+  gtm: GT-5R7T36Q3
