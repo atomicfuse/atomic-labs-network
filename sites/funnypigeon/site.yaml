@@ -1,0 +1,124 @@
+domain: funnypigeon
+site_name: funnypigeon
+site_tagline: null
+author: Andrew Gray
+groups: []
+active: true
+bundle_id: 6a12d79716f23264031d7a5f
+brief:
+  audiences:
+    - Entertainment enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Funny Videos
+    - Memes
+    - Viral
+    - Animals
+    - Odd News
+  seo_keywords_focus:
+    - Funny Videos
+    - Memes
+    - Viral
+    - Animals
+    - Odd News
+  content_guidelines:
+    - Focus on Entertainment content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  category_ids:
+    - 6a00793d1104bbff809b7c32
+    - 6a0079401104bbff809b7fdf
+    - 6a0079401104bbff809b7fdd
+    - 6a0079401104bbff809b7fe1
+    - 6a0079401104bbff809b8003
+    - 6a0079401104bbff809b7fe3
+    - 6a0079401104bbff809b7fe5
+    - 6a0079401104bbff809b7fe7
+    - 6a0079401104bbff809b7fe9
+    - 6a0079401104bbff809b7feb
+    - 6a0079401104bbff809b7fed
+    - 6a0079401104bbff809b7fef
+    - 6a0079401104bbff809b7ff1
+    - 6a0079401104bbff809b7ff7
+    - 6a0079401104bbff809b7ff9
+    - 6a0079401104bbff809b7ffb
+    - 6a0079401104bbff809b7ffd
+    - 6a0079401104bbff809b7fd9
+    - 6a0079401104bbff809b7fff
+    - 6a0079401104bbff809b8007
+    - 6a0079401104bbff809b8001
+    - 6a0079401104bbff809b8005
+    - 6a0079401104bbff809b8009
+    - 6a0079401104bbff809b7ff5
+    - 6a0079401104bbff809b800b
+    - 6a0079401104bbff809b7fdb
+    - 6a0079401104bbff809b800d
+    - 6a0079401104bbff809b800f
+    - 6a0079401104bbff809b7ff3
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#7A32CC"
+    secondary: "#1993D1"
+    accent: "#7CA926"
+    background: "#FFFFFF"
+    text: "#1F1F1F"
+    muted: "#8f8f8f"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#1F1F1F"
+    link: "#7A32CC"
+    link_hover: "#7CA926"
+    footer_bg: "#7A32CC"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#7A32CC"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#8f8f8f"
+    feed_title: "#1F1F1F"
+    feed_desc: "#4c4c4c"
+    feed_date: "#8f8f8f"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#1F1F1F"
+    prose_body: "#414141"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-EB5B4HTGFF
+  gtm: GT-KF6XKCXT
