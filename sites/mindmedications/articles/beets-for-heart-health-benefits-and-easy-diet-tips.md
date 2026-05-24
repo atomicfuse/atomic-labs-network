@@ -1,25 +1,36 @@
 ---
-title: "Beets for Heart Health Benefits and Easy Diet Tips"
-description: "Beets contain natural nitrates that may support relaxed blood vessels, healthier circulation, and modest blood pressure improvements when paired with a heart-healthy lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T10:12:16+00:00"
-author: "Lena Ashwood"
+title: Beets for Heart Health Benefits and Easy Diet Tips
+description: >-
+  Beets contain natural nitrates that may support relaxed blood vessels,
+  healthier circulation, and modest blood pressure improvements when paired with
+  a heart-healthy lifestyle.
+type: standard
+status: published
+publishDate: '2026-04-30T10:12:16+00:00'
+author: Lena Ashwood
 tags:
-  - "Nutrition"
-  - "Wellness"
-slug: "beets-for-heart-health-benefits-and-easy-diet-tips"
+  - Nutrition
+  - Wellness
+slug: beets-for-heart-health-benefits-and-easy-diet-tips
 reading_time: 7
-source_url: "https://mindmedications.com/beets-for-heart-health-benefits-and-easy-diet-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/beets-for-heart-health-benefits-and-easy-diet-tips/
+imported_from: wordpress
 wp_original_id: 646
-featuredImage: "/assets/images/beets-for-heart-health-benefits-and-easy-diet-tips.webp"
+featuredImage: /assets/images/beets-for-heart-health-benefits-and-easy-diet-tips.webp
 seo:
-  canonical: "https://mindmedications.com/beets-for-heart-health-benefits-and-easy-diet-tips/"
-  og_title: "Beets for Heart Health Benefits and Easy Diet Tips - Mind Medications"
-  og_description: "Beets contain natural nitrates that may support relaxed blood vessels, healthier circulation, and modest blood pressure improvements when paired with a heart-healthy lifestyle."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/beets-for-heart-health-benefits-and-easy-diet-tips/
+  og_title: Beets for Heart Health Benefits and Easy Diet Tips - Mind Medications
+  og_description: >-
+    Beets contain natural nitrates that may support relaxed blood vessels,
+    healthier circulation, and modest blood pressure improvements when paired
+    with a heart-healthy lifestyle.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Fresh beets, greens, citrus, and beet juice arranged on a bright kitchen
+  counter
 ---
 
 Beets have moved from salad-bar staple to heart-health headline for one major reason: they may help support healthier blood pressure. The bright red root vegetable contains natural compounds that influence blood vessel function, circulation, and overall cardiovascular health. While beets are not a replacement for medication or medical care, research suggests they can be a useful part of a blood pressure-friendly eating plan.
