@@ -1,0 +1,97 @@
+domain: tvshowsmag
+site_name: tvshowsmag
+site_tagline: null
+author: Zoe Hayes
+groups: []
+active: true
+bundle_id: 6a12d73e16f23264031d7a51
+brief:
+  audiences:
+    - Entertainment enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - TV News
+    - Reviews
+    - Streaming
+    - Recommendations
+    - Celebrity News
+  seo_keywords_focus:
+    - TV News
+    - Reviews
+    - Streaming
+    - Recommendations
+    - Celebrity News
+  content_guidelines:
+    - Focus on Entertainment content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  category_ids:
+    - 6a00793d1104bbff809b7c32
+    - 6a0079401104bbff809b7fdb
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#6EC1E4"
+    secondary: "#54595F"
+    accent: "#61CE70"
+    background: "#FFFFFF"
+    text: "#7A7A7A"
+    muted: "#bdbdbd"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#7A7A7A"
+    link: "#6EC1E4"
+    link_hover: "#61CE70"
+    footer_bg: "#54595F"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#54595F"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#bdbdbd"
+    feed_title: "#7A7A7A"
+    feed_desc: "#959595"
+    feed_date: "#bdbdbd"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#7A7A7A"
+    prose_body: "#8e8e8e"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-HHQM49XZKG
+  gtm: GT-5NRXC58K
