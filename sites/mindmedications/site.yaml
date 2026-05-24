@@ -48,7 +48,7 @@ brief:
 theme:
   base: modern
   colors:
-    primary: "#555B60"
+    primary: "#A8C5A0"
     accent: "#555B60"
     background: "#FFFFFF"
     secondary: "#A8C5A0"
@@ -59,7 +59,7 @@ theme:
     heading: "#000000"
     link: "#2C6E6D"
     link_hover: "#555B60"
-    nav_link_hover: "#f4c542"
+    nav_link_hover: "#2C6E6D"
     footer_bg: "#555B60"
     must_reads_bg: "#2C6E6D"
     hero_title: "#ffffff"
