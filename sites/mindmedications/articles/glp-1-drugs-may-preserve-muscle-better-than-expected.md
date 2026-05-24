@@ -1,26 +1,35 @@
 ---
-title: "GLP-1 Drugs May Preserve Muscle Better Than Expected"
-description: "GLP-1 medications can support major weight loss, but preserving muscle requires attention to protein, resistance training, strength, and medical guidance, especially for older adults or anyone losing weight rapidly."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:20:35+00:00"
-author: "Lena Ashwood"
+title: GLP-1 Drugs May Preserve Muscle Better Than Expected
+description: >-
+  GLP-1 medications can support major weight loss, but preserving muscle
+  requires attention to protein, resistance training, strength, and medical
+  guidance, especially for older adults or anyone losing weight rapidly.
+type: standard
+status: published
+publishDate: '2026-05-07T09:20:35+00:00'
+author: Lena Ashwood
 tags:
-  - "Lifestyle"
-  - "Nutrition"
-  - "Wellness"
-slug: "glp-1-drugs-may-preserve-muscle-better-than-expected"
+  - Lifestyle
+  - Nutrition
+  - Wellness
+slug: glp-1-drugs-may-preserve-muscle-better-than-expected
 reading_time: 6
-source_url: "https://mindmedications.com/glp-1-drugs-may-preserve-muscle-better-than-expected/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/glp-1-drugs-may-preserve-muscle-better-than-expected/
+imported_from: wordpress
 wp_original_id: 650
-featuredImage: "/assets/images/glp-1-drugs-may-preserve-muscle-better-than-expected.webp"
+featuredImage: /assets/images/glp-1-drugs-may-preserve-muscle-better-than-expected.webp
 seo:
-  canonical: "https://mindmedications.com/glp-1-drugs-may-preserve-muscle-better-than-expected/"
-  og_title: "GLP-1 Drugs May Preserve Muscle Better Than Expected - Mind Medications"
-  og_description: "GLP-1 medications can support major weight loss, but preserving muscle requires attention to protein, resistance training, strength, and medical guidance, especially for older adults or anyone losing weight rapidly."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/glp-1-drugs-may-preserve-muscle-better-than-expected/
+  og_title: GLP-1 Drugs May Preserve Muscle Better Than Expected - Mind Medications
+  og_description: >-
+    GLP-1 medications can support major weight loss, but preserving muscle
+    requires attention to protein, resistance training, strength, and medical
+    guidance, especially for older adults or anyone losing weight rapidly.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: Adults using resistance bands near healthy food in a bright wellness setting.
 ---
 
 GLP-1 medicines have changed the conversation about obesity treatment, but fast weight loss raises an important question: what happens to muscle? As more people use drugs such as semaglutide and tirzepatide, physicians, dietitians and researchers are focusing on how to protect strength, mobility and long-term metabolic health during treatment.
