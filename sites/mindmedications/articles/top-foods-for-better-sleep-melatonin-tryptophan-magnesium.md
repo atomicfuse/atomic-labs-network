@@ -1,25 +1,39 @@
 ---
-title: "Top Foods for Better Sleep: Melatonin, Tryptophan, Magnesium"
-description: "Improving sleep quality with the right foods is achievable. By focusing on a diet rich in melatonin, tryptophan, and magnesium, you can enhance sleep patterns and make restful sleep a consistent part of life."
-type: "standard"
-status: "published"
-publishDate: "2026-03-23T10:37:26+00:00"
-author: "Lena Ashwood"
+title: 'Top Foods for Better Sleep: Melatonin, Tryptophan, Magnesium'
+description: >-
+  Improving sleep quality with the right foods is achievable. By focusing on a
+  diet rich in melatonin, tryptophan, and magnesium, you can enhance sleep
+  patterns and make restful sleep a consistent part of life.
+type: standard
+status: published
+publishDate: '2026-03-23T10:37:26+00:00'
+author: Lena Ashwood
 tags:
-  - "Nutrition"
-  - "Wellness"
-slug: "top-foods-for-better-sleep-melatonin-tryptophan-magnesium"
+  - Nutrition
+  - Wellness
+slug: top-foods-for-better-sleep-melatonin-tryptophan-magnesium
 reading_time: 3
-source_url: "https://mindmedications.com/top-foods-for-better-sleep-melatonin-tryptophan-magnesium/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/top-foods-for-better-sleep-melatonin-tryptophan-magnesium/
+imported_from: wordpress
 wp_original_id: 644
-featuredImage: "/assets/images/top-foods-for-better-sleep-melatonin-tryptophan-magnesium.webp"
+featuredImage: /assets/images/top-foods-for-better-sleep-melatonin-tryptophan-magnesium.webp
 seo:
-  canonical: "https://mindmedications.com/top-foods-for-better-sleep-melatonin-tryptophan-magnesium/"
-  og_title: "Top Foods for Better Sleep: Melatonin, Tryptophan, Magnesium - Mind Medications"
-  og_description: "Improving sleep quality with the right foods is achievable. By focusing on a diet rich in melatonin, tryptophan, and magnesium, you can enhance sleep patterns. Plan meals thoughtfully to experience better rest and make restful sleep a consistent part of life."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/03/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/top-foods-for-better-sleep-melatonin-tryptophan-magnesium/
+  og_title: >-
+    Top Foods for Better Sleep: Melatonin, Tryptophan, Magnesium - Mind
+    Medications
+  og_description: >-
+    Improving sleep quality with the right foods is achievable. By focusing on a
+    diet rich in melatonin, tryptophan, and magnesium, you can enhance sleep
+    patterns. Plan meals thoughtfully to experience better rest and make restful
+    sleep a consistent part of life.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/03/make_file-6.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Sleep-friendly foods on a bedside table in soft evening light beside cozy
+  linens.
 ---
 
 Achieving a restful night's sleep can sometimes seem elusive, but your diet might hold the key. By incorporating certain foods into your daily meals, you can enhance your sleep quality and wake up feeling refreshed. Specific nutrients like melatonin, tryptophan, and magnesium play crucial roles in promoting better sleep.
