@@ -85,7 +85,7 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height: 54
-  logo_height_footer: 76
+  logo_height_footer: 82
 layout:
   hero:
     enabled: true
