@@ -1,26 +1,36 @@
 ---
-title: "3 Simple Ways to Reduce Plastic Chemical Exposure"
-description: "Simple daily swaps like avoiding heated plastic, choosing glass or stainless steel, reducing dust and using fragrance-free products can help lower exposure to plastic-related chemicals at home."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T09:16:34+00:00"
-author: "Lena Ashwood"
+title: 3 Simple Ways to Reduce Plastic Chemical Exposure
+description: >-
+  Simple daily swaps like avoiding heated plastic, choosing glass or stainless
+  steel, reducing dust and using fragrance-free products can help lower exposure
+  to plastic-related chemicals at home.
+type: standard
+status: published
+publishDate: '2026-05-11T09:16:34+00:00'
+author: Lena Ashwood
 tags:
-  - "Lifestyle"
-  - "Nutrition"
-  - "Wellness"
-slug: "3-simple-ways-to-reduce-plastic-chemical-exposure"
+  - Lifestyle
+  - Nutrition
+  - Wellness
+slug: 3-simple-ways-to-reduce-plastic-chemical-exposure
 reading_time: 7
-source_url: "https://mindmedications.com/3-simple-ways-to-reduce-plastic-chemical-exposure/"
-imported_from: "wordpress"
+source_url: 'https://mindmedications.com/3-simple-ways-to-reduce-plastic-chemical-exposure/'
+imported_from: wordpress
 wp_original_id: 652
-featuredImage: "/assets/images/3-simple-ways-to-reduce-plastic-chemical-exposure.webp"
+featuredImage: /assets/images/3-simple-ways-to-reduce-plastic-chemical-exposure.webp
 seo:
-  canonical: "https://mindmedications.com/3-simple-ways-to-reduce-plastic-chemical-exposure/"
-  og_title: "3 Simple Ways to Reduce Plastic Chemical Exposure - Mind Medications"
-  og_description: "Simple daily swaps like avoiding heated plastic, choosing glass or stainless steel, reducing dust and using fragrance-free products can help lower exposure to plastic-related chemicals at home."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/3-simple-ways-to-reduce-plastic-chemical-exposure/
+  og_title: 3 Simple Ways to Reduce Plastic Chemical Exposure - Mind Medications
+  og_description: >-
+    Simple daily swaps like avoiding heated plastic, choosing glass or stainless
+    steel, reducing dust and using fragrance-free products can help lower
+    exposure to plastic-related chemicals at home.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Sunlit kitchen counter with glass containers, fresh produce, and stainless
+  steel items for healthier daily swaps.
 ---
 
 Plastic is woven into modern life, from food packaging to kitchen tools, cosmetics, toys and furniture. That convenience comes with a hidden concern: some plastic-related chemicals can migrate into food, air, dust and skin-contact products. You do not need to eliminate every plastic item at home. However, small daily changes can lower exposure to substances linked with hormone disruption, inflammation and other potential health risks.
