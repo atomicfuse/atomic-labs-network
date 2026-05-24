@@ -46,6 +46,7 @@ brief:
       - thursday
       - friday
     preferred_time: 10:00
+  audience_type_ids: []
 theme:
   base: modern
   colors:
