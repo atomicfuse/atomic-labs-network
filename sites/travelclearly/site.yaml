@@ -1,0 +1,100 @@
+domain: travelclearly
+site_name: travelclearly
+site_tagline: null
+author: Ben Chen
+groups: []
+active: true
+bundle_id: 6a12d72b16f23264031d7a4d
+brief:
+  audiences:
+    - Travel enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Travel
+    - Destinations
+    - Travel Tips
+    - Food & Drink
+    - Lifestyle
+  seo_keywords_focus:
+    - Travel
+    - Destinations
+    - Travel Tips
+    - Food & Drink
+    - Lifestyle
+  content_guidelines:
+    - Focus on Travel content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  category_ids:
+    - 6a00793d1104bbff809b7c7a
+    - 6a00793f1104bbff809b7f89
+    - 6a00793f1104bbff809b7f9d
+    - 6a00793f1104bbff809b7f97
+    - 6a00793f1104bbff809b7f8f
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#141414"
+    secondary: "#3DB0A7"
+    accent: "#61CE70"
+    background: "#FFFFFF"
+    text: "#000000"
+    muted: "#808080"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#000000"
+    link: "#141414"
+    link_hover: "#61CE70"
+    footer_bg: "#141414"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#141414"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#808080"
+    feed_title: "#000000"
+    feed_desc: "#333333"
+    feed_date: "#808080"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#000000"
+    prose_body: "#262626"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-5MEX8S3NF3
+  gtm: GT-5TQ656R4
