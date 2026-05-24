@@ -1,24 +1,41 @@
 ---
-title: "5 Key Microplastics Questions Answered: Baggies, Retainers &#038; More"
-description: "Microplastics, tiny plastic particles under 5 millimeters, are pervasive pollutants impacting ecosystems and human health. Originating from various sources, they enter environments, harming marine life and posing potential health risks, necessitating urgent efforts to reduce their presence worldwide."
-type: "standard"
-status: "published"
-publishDate: "2026-03-02T10:21:22+00:00"
-author: "Lena Ashwood"
+title: '5 Key Microplastics Questions Answered: Baggies, Retainers &#038; More'
+description: >-
+  Microplastics, tiny plastic particles under 5 millimeters, are pervasive
+  pollutants impacting ecosystems and human health. Originating from various
+  sources, they enter environments, harming marine life and posing potential
+  health risks, necessitating urgent efforts to reduce their presence worldwide.
+type: standard
+status: published
+publishDate: '2026-03-02T10:21:22+00:00'
+author: Lena Ashwood
 tags:
-  - "Wellness"
-slug: "5-key-microplastics-questions-answered-baggies-retainers-more"
+  - Wellness
+slug: 5-key-microplastics-questions-answered-baggies-retainers-more
 reading_time: 3
-source_url: "https://mindmedications.com/5-key-microplastics-questions-answered-baggies-retainers-more/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/5-key-microplastics-questions-answered-baggies-retainers-more/
+imported_from: wordpress
 wp_original_id: 631
-featuredImage: "/assets/images/5-key-microplastics-questions-answered-baggies-retainers-more.webp"
+featuredImage: >-
+  /assets/images/5-key-microplastics-questions-answered-baggies-retainers-more.webp
 seo:
-  canonical: "https://mindmedications.com/5-key-microplastics-questions-answered-baggies-retainers-more/"
-  og_title: "5 Key Microplastics Questions Answered: Baggies, Retainers & More - Mind Medications"
-  og_description: "Microplastics, tiny plastic particles under 5 millimeters, are pervasive pollutants impacting ecosystems and human health. Originating from various sources, they enter environments, harming marine life and posing potential health risks, necessitating urgent efforts to reduce their presence worldwide."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/5-key-microplastics-questions-answered-baggies-retainers-more/
+  og_title: >-
+    5 Key Microplastics Questions Answered: Baggies, Retainers & More - Mind
+    Medications
+  og_description: >-
+    Microplastics, tiny plastic particles under 5 millimeters, are pervasive
+    pollutants impacting ecosystems and human health. Originating from various
+    sources, they enter environments, harming marine life and posing potential
+    health risks, necessitating urgent efforts to reduce their presence
+    worldwide.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/03/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Sunlit glass of water with tiny particles near everyday plastic items and
+  reusable alternatives.
 ---
 
 Microplastics have become a growing concern for environmentalists and health experts alike. These tiny plastic particles, often less than 5 millimeters in size, are emerging as pervasive pollutants in ecosystems across the globe. As our understanding of microplastics deepens, so does the urgency to address their impact on both the environment and human health.
