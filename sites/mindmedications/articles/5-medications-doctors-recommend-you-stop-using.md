@@ -1,24 +1,35 @@
 ---
-title: "5 Medications Doctors Recommend You Stop Using"
-description: "Pharmaceuticals are crucial in healthcare, offering treatment for many conditions. Understanding medication categories and potential interactions enhances safety. Follow dosage guidelines, consult healthcare professionals, and stay informed to ensure effective and safe medication use."
-type: "standard"
-status: "published"
-publishDate: "2026-03-16T10:23:19+00:00"
-author: "Lena Ashwood"
+title: 5 Medications Doctors Recommend You Stop Using
+description: >-
+  Pharmaceuticals are crucial in healthcare, offering treatment for many
+  conditions. Understanding medication categories and potential interactions
+  enhances safety. Follow dosage guidelines, consult healthcare professionals,
+  and stay informed to ensure effective and safe medication use.
+type: standard
+status: published
+publishDate: '2026-03-16T10:23:19+00:00'
+author: Lena Ashwood
 tags:
-  - "Wellness"
-slug: "5-medications-doctors-recommend-you-stop-using"
+  - Wellness
+slug: 5-medications-doctors-recommend-you-stop-using
 reading_time: 2
-source_url: "https://mindmedications.com/5-medications-doctors-recommend-you-stop-using/"
-imported_from: "wordpress"
+source_url: 'https://mindmedications.com/5-medications-doctors-recommend-you-stop-using/'
+imported_from: wordpress
 wp_original_id: 640
-featuredImage: "/assets/images/5-medications-doctors-recommend-you-stop-using.webp"
+featuredImage: /assets/images/5-medications-doctors-recommend-you-stop-using.webp
 seo:
-  canonical: "https://mindmedications.com/5-medications-doctors-recommend-you-stop-using/"
-  og_title: "5 Medications Doctors Recommend You Stop Using - Mind Medications"
-  og_description: "Pharmaceuticals are crucial in healthcare, offering treatment for many conditions. Understanding medication categories and potential interactions enhances safety. Follow dosage guidelines, consult healthcare professionals, and stay informed to ensure effective and safe medication use."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindmedications.com/5-medications-doctors-recommend-you-stop-using/'
+  og_title: 5 Medications Doctors Recommend You Stop Using - Mind Medications
+  og_description: >-
+    Pharmaceuticals are crucial in healthcare, offering treatment for many
+    conditions. Understanding medication categories and potential interactions
+    enhances safety. Follow dosage guidelines, consult healthcare professionals,
+    and stay informed to ensure effective and safe medication use.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Doctor and patient review medications together in a calm, sunlit consultation
+  room.
 ---
 
 Pharmaceuticals play a crucial role in modern healthcare, providing relief and treatment for countless conditions. However, it's essential to use these medications wisely to ensure safety and effectiveness.
