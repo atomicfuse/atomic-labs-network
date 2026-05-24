@@ -1,26 +1,42 @@
 ---
-title: "Discover Mindfulness at The Soul Resort Saraburi, Thailand"
-description: "In the heart of Thailand, The Soul Resort offers a unique blend of luxury and tranquility, promoting holistic well-being. Nestled among Saraburi's limestone peaks, it provides mindfulness practices and stunning accommodations, ensuring guests a rejuvenating retreat amid breathtaking natural beauty."
-type: "standard"
-status: "published"
-publishDate: "2026-03-09T10:25:31+00:00"
-author: "Lena Ashwood"
+title: 'Discover Mindfulness at The Soul Resort Saraburi, Thailand'
+description: >-
+  In the heart of Thailand, The Soul Resort offers a unique blend of luxury and
+  tranquility, promoting holistic well-being. Nestled among Saraburi's limestone
+  peaks, it provides mindfulness practices and stunning accommodations, ensuring
+  guests a rejuvenating retreat amid breathtaking natural beauty.
+type: standard
+status: published
+publishDate: '2026-03-09T10:25:31+00:00'
+author: Lena Ashwood
 tags:
-  - "Mindfulness"
-  - "Personal Growth"
-  - "Wellness"
-slug: "discover-mindfulness-at-the-soul-resort-saraburi-thailand"
+  - Mindfulness
+  - Personal Growth
+  - Wellness
+slug: discover-mindfulness-at-the-soul-resort-saraburi-thailand
 reading_time: 4
-source_url: "https://mindmedications.com/discover-mindfulness-at-the-soul-resort-saraburi-thailand/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/discover-mindfulness-at-the-soul-resort-saraburi-thailand/
+imported_from: wordpress
 wp_original_id: 636
-featuredImage: "/assets/images/discover-mindfulness-at-the-soul-resort-saraburi-thailand.webp"
+featuredImage: /assets/images/discover-mindfulness-at-the-soul-resort-saraburi-thailand.webp
 seo:
-  canonical: "https://mindmedications.com/discover-mindfulness-at-the-soul-resort-saraburi-thailand/"
-  og_title: "Discover Mindfulness at The Soul Resort Saraburi, Thailand - Mind Medications"
-  og_description: "In the heart of Thailand, The Soul Resort offers a unique blend of luxury and tranquility, promoting holistic well-being. Nestled among Saraburi's limestone peaks, it provides mindfulness practices and stunning accommodations, ensuring guests a rejuvenating retreat amid breathtaking natural beauty."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/discover-mindfulness-at-the-soul-resort-saraburi-thailand/
+  og_title: >-
+    Discover Mindfulness at The Soul Resort Saraburi, Thailand - Mind
+    Medications
+  og_description: >-
+    In the heart of Thailand, The Soul Resort offers a unique blend of luxury
+    and tranquility, promoting holistic well-being. Nestled among Saraburi's
+    limestone peaks, it provides mindfulness practices and stunning
+    accommodations, ensuring guests a rejuvenating retreat amid breathtaking
+    natural beauty.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Serene Thai wellness retreat pavilion at sunrise beneath limestone peaks and
+  lush greenery
 ---
 
 In the heart of Thailand, nestled among the breathtaking 270-million-year-old limestone peaks of Saraburi, lies The Soul Resort. This unique destination offers an unparalleled experience of mindfulness and relaxation, promising guests a rejuvenating retreat amid nature's wonders. Renowned for its commitment to promoting holistic well-being, The Soul Resort seamlessly blends luxury with tranquility, providing an ideal escape for those seeking to reconnect with themselves and the natural world.
