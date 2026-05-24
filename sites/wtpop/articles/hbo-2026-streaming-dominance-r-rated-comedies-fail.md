@@ -1,12 +1,9 @@
 ---
 title: HBO's 2026 Streaming Dominance Continues as R-Rated Comedies Fail
-description: >-
-  HBO maintains streaming chart dominance with The Pitt and Euphoria, while
-  Netflix's shorter seasons struggle for longevity and R-rated comedies fail
-  across...
+description: HBO maintains streaming chart dominance with The Pitt and Euphoria, while Netflix's shorter seasons struggle for longevity and R-rated comedies fail across...
 type: standard
 status: review
-publishDate: '2026-05-24'
+publishDate: 2026-05-24
 author: Rachel Long
 tags:
   - TV & Movies
@@ -15,14 +12,11 @@ tags:
   - Netflix
   - comedy
 slug: hbo-2026-streaming-dominance-r-rated-comedies-fail
-reviewer_notes: >-
-  Strong entertainment focus and engaging tone, but severely damaged by
-  fabricated 2026 data and statistics, plus below-target word count at 645
-  words.
-source_url: 'https://entertainment.substack.com/p/hbos-elite-2026-run-continues-unabatedand'
+reviewer_notes: Strong entertainment focus and engaging tone, but severely damaged by fabricated 2026 data and statistics, plus below-target word count at 645 words.
+source_url: https://entertainment.substack.com/p/hbos-elite-2026-run-continues-unabatedand
 source_item_id: 6a0e834216f23264031d7965
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/hbo-2026-streaming-dominance-r-rated-comedies-fail.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -30,10 +24,7 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: >-
-  Strong entertainment focus and engaging tone, but severely damaged by
-  fabricated 2026 data and statistics, plus below-target word count at 645
-  words.
+quality_note: Strong entertainment focus and engaging tone, but severely damaged by fabricated 2026 data and statistics, plus below-target word count at 645 words.
 reading_time: 3
 ---
 ## HBO's Winning Strategy in 2026
