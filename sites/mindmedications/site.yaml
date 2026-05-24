@@ -48,10 +48,10 @@ brief:
 theme:
   base: modern
   colors:
-    primary: "#2C6E6D"
-    secondary: "#A8C5A0"
+    primary: "#555B60"
     accent: "#555B60"
     background: "#FFFFFF"
+    secondary: "#A8C5A0"
     text: "#000000"
     muted: "#808080"
     surface: "#f7f7f7"
@@ -59,27 +59,29 @@ theme:
     heading: "#000000"
     link: "#2C6E6D"
     link_hover: "#555B60"
-    footer_bg: "#2C6E6D"
+    nav_link_hover: "#f4c542"
+    footer_bg: "#555B60"
+    must_reads_bg: "#2C6E6D"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    must_reads_bg: "#2C6E6D"
     article_hero_title: "#ffffff"
     article_hero_meta: "#808080"
     feed_title: "#000000"
     feed_desc: "#333333"
     feed_date: "#808080"
-    category_header_text: "#1a1a1a"
     prose_heading: "#000000"
     prose_body: "#262626"
-    footer_text: "#9ca3af"
+    category_header_text: "#1a1a1a"
+    footer_text: "#FFFFFF"
     footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
+    footer_link: "#FFFFFF"
+    footer_link_hover: "#2C6E6D"
   fonts:
     heading: Poppins
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height: 52
 layout:
   hero:
     enabled: true
@@ -87,6 +89,12 @@ layout:
   must_reads:
     enabled: true
     count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
   sidebar_topics:
     auto: true
     explicit: []
