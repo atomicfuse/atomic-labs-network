@@ -1,24 +1,37 @@
 ---
-title: "BTSE Secures First Gelephu Mindfulness City Crypto License"
-description: "Bhutan's Gelephu Mindfulness City has launched a fast-track crypto licensing framework, with BTSE becoming the first approved exchange as the country works to establish itself as a regulated digital asset hub in Asia."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:16:25+00:00"
-author: "Lena Ashwood"
+title: BTSE Secures First Gelephu Mindfulness City Crypto License
+description: >-
+  Bhutan's Gelephu Mindfulness City has launched a fast-track crypto licensing
+  framework, with BTSE becoming the first approved exchange as the country works
+  to establish itself as a regulated digital asset hub in Asia.
+type: standard
+status: published
+publishDate: '2026-05-14T09:16:25+00:00'
+author: Lena Ashwood
 tags:
-  - "Mindfulness"
-slug: "btse-secures-first-gelephu-mindfulness-city-crypto-license"
+  - Mindfulness
+slug: btse-secures-first-gelephu-mindfulness-city-crypto-license
 reading_time: 7
-source_url: "https://mindmedications.com/btse-secures-first-gelephu-mindfulness-city-crypto-license/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/btse-secures-first-gelephu-mindfulness-city-crypto-license/
+imported_from: wordpress
 wp_original_id: 659
-featuredImage: "/assets/images/btse-secures-first-gelephu-mindfulness-city-crypto-license.webp"
+featuredImage: /assets/images/btse-secures-first-gelephu-mindfulness-city-crypto-license.webp
 seo:
-  canonical: "https://mindmedications.com/btse-secures-first-gelephu-mindfulness-city-crypto-license/"
-  og_title: "BTSE Secures First Gelephu Mindfulness City Crypto License - Mind Medications"
-  og_description: "Bhutan’s Gelephu Mindfulness City launches a fast-track crypto licensing framework, with BTSE becoming the first approved exchange as the country pushes to build a regulated digital asset hub in Asia."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/05/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/btse-secures-first-gelephu-mindfulness-city-crypto-license/
+  og_title: >-
+    BTSE Secures First Gelephu Mindfulness City Crypto License - Mind
+    Medications
+  og_description: >-
+    Bhutan’s Gelephu Mindfulness City launches a fast-track crypto licensing
+    framework, with BTSE becoming the first approved exchange as the country
+    pushes to build a regulated digital asset hub in Asia.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/05/make_file.webp'
+  twitter_card: summary_large_image
+image_alt: >-
+  Serene Bhutan valley with a futuristic hub and glowing digital network at
+  sunrise
 ---
 
 Bhutan's Gelephu Mindfulness City is moving quickly to become one of Asia's most closely watched digital asset hubs. The newly planned special administrative region has opened a fast-track crypto licensing route, and BTSE has become the first digital asset exchange to receive approval under the framework.
