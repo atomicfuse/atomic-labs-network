@@ -1,6 +1,6 @@
 ---
 title: "3 Simple Ways to Reduce Plastic Chemical Exposure"
-description: "Simple daily swaps like avoiding heated plastic, choosing glass or stainless steel, reducing dust, and using fragrance-free products can help lower exposure to plastic-related chemicals at home."
+description: "Simple daily swaps like avoiding heated plastic, choosing glass or stainless steel, reducing dust and using fragrance-free products can help lower exposure to plastic-related chemicals at home."
 type: "standard"
 status: "published"
 publishDate: "2026-05-11T09:16:34+00:00"

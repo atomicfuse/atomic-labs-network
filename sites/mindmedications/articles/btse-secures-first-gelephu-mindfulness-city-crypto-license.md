@@ -1,6 +1,6 @@
 ---
 title: "BTSE Secures First Gelephu Mindfulness City Crypto License"
-description: "Bhutan's Gelephu Mindfulness City has launched a fast-track crypto licensing framework, with BTSE becoming the first approved exchange as the country pushes to build a regulated digital asset hub in Asia."
+description: "Bhutan's Gelephu Mindfulness City has launched a fast-track crypto licensing framework, with BTSE becoming the first approved exchange as the country works to establish itself as a regulated digital asset hub in Asia."
 type: "standard"
 status: "published"
 publishDate: "2026-05-14T09:16:25+00:00"
