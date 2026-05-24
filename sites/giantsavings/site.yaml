@@ -1,0 +1,97 @@
+domain: giantsavings
+site_name: giant-savings
+site_tagline: null
+author: Olivia Morgan
+groups: []
+active: true
+bundle_id: 6a12d78416f23264031d7a5b
+brief:
+  audiences:
+    - Personal Finance enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Saving Tips
+    - Budgeting
+    - Grocery Savings
+    - Bills & Utilities
+    - Smart Shopping
+  seo_keywords_focus:
+    - Saving Tips
+    - Budgeting
+    - Grocery Savings
+    - Bills & Utilities
+    - Smart Shopping
+  content_guidelines:
+    - Focus on Personal Finance content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Personal Finance
+  vertical_id: 6a00793d1104bbff809b7c56
+  category_ids:
+    - 6a00793d1104bbff809b7c56
+    - 6a00793e1104bbff809b7da9
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#1DB954"
+    secondary: "#FFD43B"
+    accent: "#0077CC"
+    background: "#FFFFFF"
+    text: "#1F1F1F"
+    muted: "#8f8f8f"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#1F1F1F"
+    link: "#1DB954"
+    link_hover: "#0077CC"
+    footer_bg: "#1DB954"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#1DB954"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#8f8f8f"
+    feed_title: "#1F1F1F"
+    feed_desc: "#4c4c4c"
+    feed_date: "#8f8f8f"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#1F1F1F"
+    prose_body: "#414141"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-DMV9SH88LB
+  gtm: GT-KFNR4HSN
