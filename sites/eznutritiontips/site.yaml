@@ -1,0 +1,101 @@
+domain: eznutritiontips
+site_name: eznutritiontips
+site_tagline: null
+author: Ben Rivera
+groups: []
+active: true
+bundle_id: 6a12d76216f23264031d7a56
+brief:
+  audiences:
+    - Food & Drink enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Healthy Recipes
+    - Nutrition Tips
+    - Special Diets
+    - Weight & Wellness
+    - Nutrition Myths
+  seo_keywords_focus:
+    - Healthy Recipes
+    - Nutrition Tips
+    - Special Diets
+    - Weight & Wellness
+    - Nutrition Myths
+  content_guidelines:
+    - Focus on Food & Drink content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  category_ids:
+    - 6a00793d1104bbff809b7c3e
+    - 6a00793e1104bbff809b7d1d
+    - 6a00793e1104bbff809b7d13
+    - 6a00793e1104bbff809b7d0b
+    - 6a00793e1104bbff809b7d0d
+    - 6a00793e1104bbff809b7d19
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#6EC1E4"
+    secondary: "#54595F"
+    accent: "#61CE70"
+    background: "#FFFFFF"
+    text: "#2F2F2F"
+    muted: "#979797"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#2F2F2F"
+    link: "#6EC1E4"
+    link_hover: "#61CE70"
+    footer_bg: "#54595F"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#54595F"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#979797"
+    feed_title: "#2F2F2F"
+    feed_desc: "#595959"
+    feed_date: "#979797"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#2F2F2F"
+    prose_body: "#4e4e4e"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-LWJ6PVMXFS
+  gtm: GT-WF776GRH
