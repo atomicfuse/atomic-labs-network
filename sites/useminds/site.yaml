@@ -1,0 +1,99 @@
+domain: useminds
+site_name: useminds
+site_tagline: null
+author: Daniel Rivera
+groups: []
+active: true
+bundle_id: 6a12d72c16f23264031d7a4e
+brief:
+  audiences:
+    - Science enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Conspiracy Theories
+    - Hidden History
+    - Human Curiosity
+    - Mind-Blowing Science
+    - Space & The Unknown
+  seo_keywords_focus:
+    - Conspiracy Theories
+    - Hidden History
+    - Human Curiosity
+    - Mind-Blowing Science
+    - Space & The Unknown
+  content_guidelines:
+    - Focus on Science content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Science
+  vertical_id: 6a00793d1104bbff809b7c68
+  category_ids:
+    - 6a00793d1104bbff809b7c68
+    - 6a00793e1104bbff809b7e25
+    - 6a00793e1104bbff809b7e23
+    - 6a00793e1104bbff809b7e17
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#000000"
+    secondary: "#1D2B53"
+    accent: "#06D6A0"
+    background: "#FFFFFF"
+    text: "#E6E7EB"
+    muted: "#f3f3f5"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#E6E7EB"
+    link: "#000000"
+    link_hover: "#06D6A0"
+    footer_bg: "#000000"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#000000"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#f3f3f5"
+    feed_title: "#E6E7EB"
+    feed_desc: "#ebecef"
+    feed_date: "#f3f3f5"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#E6E7EB"
+    prose_body: "#eaebee"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-C952B7P8DM
+  gtm: GT-TX2667DB
