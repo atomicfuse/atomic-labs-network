@@ -1,0 +1,99 @@
+domain: travelnights
+site_name: travelnights
+site_tagline: null
+author: Marcus Long
+groups: []
+active: true
+bundle_id: 6a12d7ab16f23264031d7a63
+brief:
+  audiences:
+    - Travel enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Culture
+    - Destinations
+    - Food
+    - Guides & Tips
+    - News
+  seo_keywords_focus:
+    - Culture
+    - Destinations
+    - Food
+    - Guides & Tips
+    - News
+  content_guidelines:
+    - Focus on Travel content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  category_ids:
+    - 6a00793d1104bbff809b7c7a
+    - 6a00793f1104bbff809b7f89
+    - 6a00793f1104bbff809b7f9d
+    - 6a00793f1104bbff809b7f8f
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#2C3E50"
+    secondary: "#27AE60"
+    accent: "#F1C40F"
+    background: "#FFFFFF"
+    text: "#ECF0F1"
+    muted: "#f6f8f8"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#ECF0F1"
+    link: "#2C3E50"
+    link_hover: "#F1C40F"
+    footer_bg: "#2C3E50"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#2C3E50"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#f6f8f8"
+    feed_title: "#ECF0F1"
+    feed_desc: "#f0f3f4"
+    feed_date: "#f6f8f8"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#ECF0F1"
+    prose_body: "#eff2f3"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-BYFFG98DV4
+  gtm: GT-TBBCCV3N
