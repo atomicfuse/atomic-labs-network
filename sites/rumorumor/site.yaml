@@ -1,0 +1,99 @@
+domain: rumorumor
+site_name: rumorumor
+site_tagline: null
+author: Maya Torres
+groups: []
+active: true
+bundle_id: 6a12d71916f23264031d7a4a
+brief:
+  audiences:
+    - Entertainment enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Celebrities
+    - Fashion
+    - Influencers
+    - Music
+    - TV & Movies
+  seo_keywords_focus:
+    - Celebrities
+    - Fashion
+    - Influencers
+    - Music
+    - TV & Movies
+  content_guidelines:
+    - Focus on Entertainment content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  category_ids:
+    - 6a00793d1104bbff809b7c32
+    - 6a0079401104bbff809b7fd9
+    - 6a0079401104bbff809b7fdb
+    - 6a0079401104bbff809b7fed
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#C90076"
+    secondary: "#CE7E00"
+    accent: "#8FCE00"
+    background: "#FFFFFF"
+    text: "#000000"
+    muted: "#808080"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#000000"
+    link: "#C90076"
+    link_hover: "#8FCE00"
+    footer_bg: "#C90076"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#C90076"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#808080"
+    feed_title: "#000000"
+    feed_desc: "#333333"
+    feed_date: "#808080"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#000000"
+    prose_body: "#262626"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-SM6KT8XCKC
+  gtm: GT-KDBFSGXG
