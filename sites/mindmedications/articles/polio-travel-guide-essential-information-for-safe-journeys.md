@@ -1,24 +1,39 @@
 ---
-title: "Polio Travel Guide: Essential Information for Safe Journeys"
-description: "Polio has reemerged as a health concern due to travel-related cases and outbreaks, prompting health advisories for travelers to ensure vaccinations are up to date. Maintaining polio vaccination is crucial, especially when visiting regions with reported cases."
-type: "standard"
-status: "published"
-publishDate: "2026-03-19T11:35:27+00:00"
-author: "Lena Ashwood"
+title: 'Polio Travel Guide: Essential Information for Safe Journeys'
+description: >-
+  Polio has reemerged as a health concern due to travel-related cases and
+  outbreaks, prompting health advisories for travelers to ensure vaccinations
+  are up to date. Maintaining polio vaccination is crucial, especially when
+  visiting regions with reported cases.
+type: standard
+status: published
+publishDate: '2026-03-19T11:35:27+00:00'
+author: Lena Ashwood
 tags:
-  - "Wellness"
-slug: "polio-travel-guide-essential-information-for-safe-journeys"
+  - Wellness
+slug: polio-travel-guide-essential-information-for-safe-journeys
 reading_time: 3
-source_url: "https://mindmedications.com/polio-travel-guide-essential-information-for-safe-journeys/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/polio-travel-guide-essential-information-for-safe-journeys/
+imported_from: wordpress
 wp_original_id: 642
-featuredImage: "/assets/images/polio-travel-guide-essential-information-for-safe-journeys.webp"
+featuredImage: /assets/images/polio-travel-guide-essential-information-for-safe-journeys.webp
 seo:
-  canonical: "https://mindmedications.com/polio-travel-guide-essential-information-for-safe-journeys/"
-  og_title: "Polio Travel Guide: Essential Information for Safe Journeys - Mind Medications"
-  og_description: "Polio has reemerged as a health concern due to travel-related cases and outbreaks, prompting health advisories for travelers to ensure vaccinations are up to date. Maintaining polio vaccination is crucial, especially when visiting regions with reported cases."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/03/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/polio-travel-guide-essential-information-for-safe-journeys/
+  og_title: >-
+    Polio Travel Guide: Essential Information for Safe Journeys - Mind
+    Medications
+  og_description: >-
+    Polio has reemerged as a health concern due to travel-related cases and
+    outbreaks, prompting health advisories for travelers to ensure vaccinations
+    are up to date. Maintaining polio vaccination is crucial, especially when
+    visiting regions with reported cases.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/03/make_file-5.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Sunlit travel essentials with vaccination supplies arranged for a safe
+  international journey
 ---
 
 Polio has resurfaced as a notable health concern due to increasing travel-related cases and ongoing outbreaks in certain regions. Health officials have issued advisories to travelers to ensure they are adequately informed and vaccinated before visiting affected areas. The importance of maintaining polio vaccination is emphasized, especially when planning international travel to areas with reported cases.
