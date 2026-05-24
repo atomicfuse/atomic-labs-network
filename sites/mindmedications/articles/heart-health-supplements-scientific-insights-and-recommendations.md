@@ -1,25 +1,41 @@
 ---
-title: "Heart Health Supplements: Scientific Insights and Recommendations"
-description: "As dietary supplements gain popularity for heart health, their effectiveness remains debated. Key supplements like omega-3s and CoQ10 show mixed results, making it crucial to consult healthcare professionals and maintain a balanced lifestyle when considering supplement use."
-type: "standard"
-status: "published"
-publishDate: "2026-03-05T10:29:24+00:00"
-author: "Lena Ashwood"
+title: 'Heart Health Supplements: Scientific Insights and Recommendations'
+description: >-
+  As dietary supplements gain popularity for heart health, their effectiveness
+  remains debated. Key supplements like omega-3s and CoQ10 show mixed results,
+  making it crucial to consult healthcare professionals and maintain a balanced
+  lifestyle when considering supplement use.
+type: standard
+status: published
+publishDate: '2026-03-05T10:29:24+00:00'
+author: Lena Ashwood
 tags:
-  - "Nutrition"
-  - "Wellness"
-slug: "heart-health-supplements-scientific-insights-and-recommendations"
+  - Nutrition
+  - Wellness
+slug: heart-health-supplements-scientific-insights-and-recommendations
 reading_time: 3
-source_url: "https://mindmedications.com/heart-health-supplements-scientific-insights-and-recommendations/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/heart-health-supplements-scientific-insights-and-recommendations/
+imported_from: wordpress
 wp_original_id: 634
-featuredImage: "/assets/images/heart-health-supplements-scientific-insights-and-recommendations.webp"
+featuredImage: >-
+  /assets/images/heart-health-supplements-scientific-insights-and-recommendations.webp
 seo:
-  canonical: "https://mindmedications.com/heart-health-supplements-scientific-insights-and-recommendations/"
-  og_title: "Heart Health Supplements: Scientific Insights and Recommendations - Mind Medications"
-  og_description: "As dietary supplements gain popularity for heart health, their effectiveness remains debated. Key supplements like omega-3s and CoQ10 show mixed results. Consulting healthcare professionals and maintaining a balanced lifestyle are crucial for making informed decisions about supplement use."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/03/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/heart-health-supplements-scientific-insights-and-recommendations/
+  og_title: >-
+    Heart Health Supplements: Scientific Insights and Recommendations - Mind
+    Medications
+  og_description: >-
+    As dietary supplements gain popularity for heart health, their effectiveness
+    remains debated. Key supplements like omega-3s and CoQ10 show mixed results.
+    Consulting healthcare professionals and maintaining a balanced lifestyle are
+    crucial for making informed decisions about supplement use.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/03/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Healthy foods, supplements, and a stethoscope on a sunlit table suggesting
+  heart wellness choices.
 ---
 
 As people become increasingly conscious of their health, dietary supplements have surged in popularity, promising to enhance heart health and overall well-being. However, the effectiveness of these supplements is often debated. Understanding their role in cardiovascular health can help individuals make informed decisions about integrating them into their daily routines.
