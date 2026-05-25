@@ -23,7 +23,7 @@ source_url: >-
   https://timesofindia.indiatimes.com/life-style/parenting/the-new-rules-of-parenting-8-trends-changing-how-families-are-raising-children-in-2026/articleshow/131302932.cms
 source_item_id: 6a1421f216f23264031d7e20
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/8-parenting-trends-reshaping-family-life-2026.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   numerous unsubstantiated claims about 2026 trends 'according to reports'
   without citing sources.
 reading_time: 3
+image_alt: >-
+  A calm family shares a sunlit living room while children play independently
+  and parents stay nearby.
 ---
 ## The Shift Away from Perfect Parenting
 
