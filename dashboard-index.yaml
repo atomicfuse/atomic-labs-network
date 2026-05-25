@@ -118,7 +118,7 @@ sites:
     custom_domain: wineoceans.com
     worker_pending_dns: false
   - domain: dogpotato
-    company: ATL
+    company: null
     vertical: Pets
     status: Live
     site_id: "9276876111062"
@@ -127,7 +127,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-20T11:54:22.632Z
+    last_updated: 2026-05-25T10:27:08.940Z
     created_at: 2026-05-20T11:34:36.110Z
     pages_project: null
     pages_subdomain: null
