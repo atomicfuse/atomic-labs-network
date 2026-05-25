@@ -1,26 +1,43 @@
 ---
-title: "Joe Keery&#8217;s Viral Golden Globes Look Sparks MCU Speculation"
-description: "Joe Keery's striking blonde transformation at the Golden Globes sparked online buzz, showcasing his evolving style and hinting at new ventures. The daring change highlights his willingness to explore diverse roles, fueling speculation about potential projects, including a Marvel Cinematic Universe role."
-type: "standard"
-status: "published"
-publishDate: "2026-01-12T10:31:33+00:00"
-author: "Taylor Anderson"
+title: Joe Keery&#8217;s Viral Golden Globes Look Sparks MCU Speculation
+description: >-
+  Joe Keery's striking blonde transformation at the Golden Globes sparked online
+  buzz, showcasing his evolving style and hinting at new ventures. The daring
+  change highlights his willingness to explore diverse roles, fueling
+  speculation about potential projects, including a Marvel Cinematic Universe
+  role.
+type: standard
+status: published
+publishDate: '2026-01-12T10:31:33+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-  - "TV &amp; Movies"
-slug: "joe-keerys-viral-golden-globes-look-sparks-mcu-speculation"
+  - Celebrities
+  - Fashion
+  - TV &amp; Movies
+slug: joe-keerys-viral-golden-globes-look-sparks-mcu-speculation
 reading_time: 3
-source_url: "https://popnsnap.com/joe-keerys-viral-golden-globes-look-sparks-mcu-speculation/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/joe-keerys-viral-golden-globes-look-sparks-mcu-speculation/
+imported_from: wordpress
 wp_original_id: 712
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/joe-keerys-viral-golden-globes-look-sparks-mcu-speculation.webp
 seo:
-  canonical: "https://popnsnap.com/joe-keerys-viral-golden-globes-look-sparks-mcu-speculation/"
-  og_title: "Joe Keery's Viral Golden Globes Look Sparks MCU Speculation - Pop N&#039; Snap"
-  og_description: "Joe Keery's striking blonde transformation at the Golden Globes sparked online buzz, showcasing his evolving style and hinting at new ventures. The daring change highlights his willingness to explore diverse roles, fueling speculation about potential projects, including a Marvel Cinematic Universe role."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/joe-keerys-viral-golden-globes-look-sparks-mcu-speculation/
+  og_title: >-
+    Joe Keery's Viral Golden Globes Look Sparks MCU Speculation - Pop N&#039;
+    Snap
+  og_description: >-
+    Joe Keery's striking blonde transformation at the Golden Globes sparked
+    online buzz, showcasing his evolving style and hinting at new ventures. The
+    daring change highlights his willingness to explore diverse roles, fueling
+    speculation about potential projects, including a Marvel Cinematic Universe
+    role.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Blond actor on a red carpet under golden spotlights with subtle
+  superhero-inspired lighting
 ---
 
 Joe Keery, known for his role as Steve Harrington in the hit series "Stranger Things," made waves at the Golden Globes with his striking new look. The actor's blonde hair not only turned heads but also sparked a flurry of conversations online. This transformation not only reflects his evolving style but also hints at possible new roles and ventures.
