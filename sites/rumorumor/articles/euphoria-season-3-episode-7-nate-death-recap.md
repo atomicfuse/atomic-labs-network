@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/euphoria-recap-season-3-episode-7-hbo.html'
 source_item_id: 6a13f84e16f23264031d7aab
 generated_by: claude
-featuredImage: /assets/images/rumorumor-general-article.webp
+featuredImage: /assets/images/euphoria-season-3-episode-7-nate-death-recap.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   information about Euphoria Season 3 which doesn't exist, and the article is
   too short at 565 words.
 reading_time: 3
+image_alt: >-
+  A tense neon-lit kitchen with a lone silhouette, spilled glass, and
+  rain-streaked shadows.
 ---
 ## A Death That Surprised No One
 
