@@ -1,24 +1,37 @@
 ---
-title: "Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story"
-description: "Discover the journey of finding hidden debt in a relationship and the complications that arise when personal life intersects with friendships, as told through a viral Reddit story."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:25:02+00:00"
-author: "Taylor Anderson"
+title: 'Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story'
+description: >-
+  Discover the journey of finding hidden debt in a relationship and the
+  complications that arise when personal life intersects with friendships, as
+  told through a viral Reddit story.
+type: standard
+status: published
+publishDate: '2025-05-13T12:25:02+00:00'
+author: Taylor Anderson
 tags:
-  - "Influencers"
-slug: "dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story"
+  - Influencers
+slug: dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story
 reading_time: 2
-source_url: "https://popnsnap.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/
+imported_from: wordpress
 wp_original_id: 461
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story.webp
 seo:
-  canonical: "https://popnsnap.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/"
-  og_title: "Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story - Pop N&#039; Snap"
-  og_description: "Discover the journey of finding hidden debt in a relationship and the complications that arise when personal life intersects with friendships."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-47-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/
+  og_title: >-
+    Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story -
+    Pop N&#039; Snap
+  og_description: >-
+    Discover the journey of finding hidden debt in a relationship and the
+    complications that arise when personal life intersects with friendships.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-47-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Wedding table with rings, flowers, and hidden blank financial papers under a
+  napkin
 ---
 
 ## Introduction: The Hidden Debt Dilemma
