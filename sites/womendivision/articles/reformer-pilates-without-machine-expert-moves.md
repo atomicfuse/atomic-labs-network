@@ -22,7 +22,7 @@ source_url: >-
   https://www.fitandwell.com/exercise/pilates/i-asked-a-certified-instructor-if-it-was-possible-to-do-a-reformer-pilates-workout-without-a-reformer-heres-what-she-suggests
 source_item_id: 6a13fc9e16f23264031d7b7b
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/reformer-pilates-without-machine-expert-moves.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
   under target word count at 619 words, which limits its SEO potential and
   comprehensive coverage.
 reading_time: 3
+image_alt: >-
+  Woman doing a controlled Pilates lunge on a mat in a bright living room with
+  bands and sliders nearby.
 ---
 ## The Reformer Pilates Boom Meets Budget Reality
 
