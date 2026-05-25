@@ -56,7 +56,7 @@ theme:
     background: "#FFFFFF"
     secondary: "#f24093"
     text: "#000000"
-    muted: "#f3f3f5"
+    muted: "#4f4f4f"
     surface: "#f7f7f7"
     border: "#e6e6e6"
     heading: "#000000"
