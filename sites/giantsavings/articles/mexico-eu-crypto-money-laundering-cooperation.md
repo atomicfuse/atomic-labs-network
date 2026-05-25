@@ -22,7 +22,7 @@ source_url: >-
   https://news.bitcoin.com/mexico-and-the-eu-join-forces-to-target-global-crypto-money-laundering/
 source_item_id: 6a13fcf016f23264031d7be1
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: /assets/images/mexico-eu-crypto-money-laundering-cooperation.webp
 quality_score: 30
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   geopolitical cryptocurrency policy instead of practical money-saving advice
   for consumers.
 reading_time: 3
+image_alt: >-
+  Digital crypto transaction network over a conference table with Mexico and EU
+  color accents.
 ---
 ## New International Partnership Against Crypto Crime
 
