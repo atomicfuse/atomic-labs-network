@@ -1,25 +1,33 @@
 ---
-title: "Pregnancy Later in Life: Essential Health Tips for Women"
-description: "Pregnancy after 35 can be healthy and fulfilling, but preparation is key. Early medical advice, regular antenatal care, balanced nutrition, safe exercise and emotional support help reduce risks for mother and baby."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:58:01+00:00"
-author: "Taylor Winters"
+title: 'Pregnancy Later in Life: Essential Health Tips for Women'
+description: >-
+  Pregnancy after 35 can be healthy and fulfilling, but preparation is key.
+  Early medical advice, regular antenatal care, balanced nutrition, safe
+  exercise and emotional support help reduce risks for mother and baby.
+type: standard
+status: published
+publishDate: '2026-05-04T08:58:01+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Lifestyle"
-slug: "pregnancy-later-in-life-essential-health-tips-for-women"
+  - Advice
+  - Lifestyle
+slug: pregnancy-later-in-life-essential-health-tips-for-women
 reading_time: 7
-source_url: "https://womendivision.com/pregnancy-later-in-life-essential-health-tips-for-women/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/pregnancy-later-in-life-essential-health-tips-for-women/
+imported_from: wordpress
 wp_original_id: 30985
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/pregnancy-later-in-life-essential-health-tips-for-women.webp
 seo:
-  canonical: "https://womendivision.com/pregnancy-later-in-life-essential-health-tips-for-women/"
-  og_title: "Pregnancy Later in Life: Essential Health Tips for Women - Women Division"
-  og_description: "Pregnancy after 35 can be healthy and fulfilling, but preparation is key. Early medical advice, regular antenatal care, balanced nutrition, safe exercise and emotional support help reduce risks for mother and baby."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/pregnancy-later-in-life-essential-health-tips-for-women/
+  og_title: 'Pregnancy Later in Life: Essential Health Tips for Women - Women Division'
+  og_description: >-
+    Pregnancy after 35 can be healthy and fulfilling, but preparation is key.
+    Early medical advice, regular antenatal care, balanced nutrition, safe
+    exercise and emotional support help reduce risks for mother and baby.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written health article with good length and accuracy, but limited alignment with site's primary wellness topics and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written health article with good length and accuracy, but limited
+  alignment with site's primary wellness topics and could benefit from stronger
+  SEO optimization.
+image_alt: >-
+  Pregnant woman in her late 30s standing peacefully by a bright window in a
+  calm home setting.
 ---
 
 More women are choosing to become mothers in their mid-30s, late 30s and even their 40s. Career goals, financial planning, later marriages and access to fertility care have changed the timing of parenthood. While many women have healthy pregnancies at an older age, doctors often stress one important point: preparation matters more than ever.
