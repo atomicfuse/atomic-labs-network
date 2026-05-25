@@ -80,6 +80,7 @@ theme:
     prose_heading: "#7A7A7A"
     prose_body: "#8e8e8e"
     category_header_text: "#1a1a1a"
+    subscribe_heading: "#ffffff"
     footer_text: "#9ca3af"
     footer_heading: "#ffffff"
     footer_link: "#9ca3af"
