@@ -1,24 +1,32 @@
 ---
-title: "How to Handle a Stalking Alcoholic Ex-Boyfriend"
-description: "When past relationships resurface, especially those involving addiction, individuals often face emotional turmoil. Establishing boundaries is crucial, and seeking support from therapy or legal action may be necessary to ensure safety and navigate these challenging situations effectively."
-type: "standard"
-status: "review"
-publishDate: "2026-03-23T10:17:25+00:00"
-author: "Taylor Winters"
+title: How to Handle a Stalking Alcoholic Ex-Boyfriend
+description: >-
+  When past relationships resurface, especially those involving addiction,
+  individuals often face emotional turmoil. Establishing boundaries is crucial,
+  and seeking support from therapy or legal action may be necessary to ensure
+  safety and navigate these challenging situations effectively.
+type: standard
+status: review
+publishDate: '2026-03-23T10:17:25+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "how-to-handle-a-stalking-alcoholic-ex-boyfriend"
+  - Advice
+slug: how-to-handle-a-stalking-alcoholic-ex-boyfriend
 reading_time: 3
-source_url: "https://womendivision.com/how-to-handle-a-stalking-alcoholic-ex-boyfriend/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/how-to-handle-a-stalking-alcoholic-ex-boyfriend/'
+imported_from: wordpress
 wp_original_id: 30972
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/how-to-handle-a-stalking-alcoholic-ex-boyfriend.webp
 seo:
-  canonical: "https://womendivision.com/how-to-handle-a-stalking-alcoholic-ex-boyfriend/"
-  og_title: "How to Handle a Stalking Alcoholic Ex-Boyfriend - Women Division"
-  og_description: "When past relationships resurface, especially those involving addiction, individuals often face emotional turmoil. Establishing boundaries is crucial, and seeking support from therapy or legal action may be necessary to ensure safety and navigate these challenging situations effectively."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/03/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/how-to-handle-a-stalking-alcoholic-ex-boyfriend/'
+  og_title: How to Handle a Stalking Alcoholic Ex-Boyfriend - Women Division
+  og_description: >-
+    When past relationships resurface, especially those involving addiction,
+    individuals often face emotional turmoil. Establishing boundaries is
+    crucial, and seeking support from therapy or legal action may be necessary
+    to ensure safety and navigate these challenging situations effectively.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/03/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "While the article provides solid advice and maintains an appropriate tone, it falls significantly short of the target word count and lacks specific SEO optimization elements like compelling title length and structured headings."
+quality_note: >-
+  While the article provides solid advice and maintains an appropriate tone, it
+  falls significantly short of the target word count and lacks specific SEO
+  optimization elements like compelling title length and structured headings.
+image_alt: >-
+  Woman stands safely inside a warmly lit apartment beside a closed, chained
+  door.
 ---
 
 A troubling situation arises when past relationships refuse to stay in the past, particularly when they involve unhealthy dynamics. Many individuals find themselves entangled in a web of emotional turmoil when an ex-partner, especially one struggling with addiction, reappears in unsettling ways. The complexities of such scenarios can be daunting, leaving one to navigate an array of emotions and decisions.
