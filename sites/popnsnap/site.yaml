@@ -68,7 +68,7 @@ theme:
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
-    article_hero_meta: "#808080"
+    article_hero_meta: "#f4c542"
     feed_title: "#000000"
     feed_desc: "#333333"
     feed_date: "#808080"
