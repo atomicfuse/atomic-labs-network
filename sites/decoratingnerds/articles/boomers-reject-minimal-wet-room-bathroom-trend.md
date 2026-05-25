@@ -20,7 +20,7 @@ source_url: >-
   https://www.housedigest.com/2178564/boomers-cant-stand-bathroom-trend-wet-room-look/
 source_item_id: 6a1420a916f23264031d7dae
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: /assets/images/boomers-reject-minimal-wet-room-bathroom-trend.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with excellent tone and keyword relevance, but
   significantly under the target word count at 619 words instead of 800-1200.
 reading_time: 3
+image_alt: >-
+  Warm modern bathroom with wood tones, soft tile, glass shower, and natural
+  light.
 ---
 ## The Great Bathroom Design Divide
 
