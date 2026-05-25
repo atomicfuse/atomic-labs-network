@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.afar.com/magazine/where-travelers-are-going-in-summer-2026'
 source_item_id: 6a13fcb916f23264031d7ba8
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/summer-travel-demand-strong-despite-global-uncertainty.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong travel content with good keyword coverage and appropriate tone, but
   lacks specific data sources and falls short of optimal word count.
 reading_time: 3
+image_alt: >-
+  Travelers watch a train cross a mountain viaduct, suggesting strong summer
+  travel demand despite uncertainty.
 ---
 ## Travelers Refuse to Stay Home This Summer
 
