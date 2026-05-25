@@ -1,25 +1,36 @@
 ---
-title: "Colin Jost Leaving SNL? Rumored Cast Exits Explained"
-description: "Colin Jost's potential departure from SNL has sparked widespread interest, as his sharp wit and comedic timing have significantly impacted the show. His contributions as co-anchor of the 'Weekend Update' and head writer have shaped SNL's comedic voice."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:17:58+00:00"
-author: "Taylor Anderson"
+title: Colin Jost Leaving SNL? Rumored Cast Exits Explained
+description: >-
+  Colin Jost's potential departure from SNL has sparked widespread interest, as
+  his sharp wit and comedic timing have significantly impacted the show. His
+  contributions as co-anchor of the 'Weekend Update' and head writer have shaped
+  SNL's comedic voice.
+type: standard
+status: published
+publishDate: '2025-05-13T12:17:58+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "colin-jost-leaving-snl-rumored-cast-exits-explained"
+  - Celebrities
+  - TV &amp; Movies
+slug: colin-jost-leaving-snl-rumored-cast-exits-explained
 reading_time: 4
-source_url: "https://popnsnap.com/colin-jost-leaving-snl-rumored-cast-exits-explained/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/colin-jost-leaving-snl-rumored-cast-exits-explained/'
+imported_from: wordpress
 wp_original_id: 431
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/colin-jost-leaving-snl-rumored-cast-exits-explained.webp
 seo:
-  canonical: "https://popnsnap.com/colin-jost-leaving-snl-rumored-cast-exits-explained/"
-  og_title: "Colin Jost Leaving SNL? Rumored Cast Exits Explained - Pop N&#039; Snap"
-  og_description: "Colin Jost's potential departure from SNL has sparked widespread interest, as his sharp wit and comedic timing have significantly impacted the show. His contributions as co-anchor of the 'Weekend Update' and head writer have shaped SNL's comedic voice."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-30.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/colin-jost-leaving-snl-rumored-cast-exits-explained/'
+  og_title: Colin Jost Leaving SNL? Rumored Cast Exits Explained - Pop N&#039; Snap
+  og_description: >-
+    Colin Jost's potential departure from SNL has sparked widespread interest,
+    as his sharp wit and comedic timing have significantly impacted the show.
+    His contributions as co-anchor of the 'Weekend Update' and head writer have
+    shaped SNL's comedic voice.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-30.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Empty late-night comedy news desk under stage lights with a vacant chair and
+  blank cue cards.
 ---
 
 As the entertainment landscape continually evolves, the spotlight often turns to beloved television shows and their cast. Among these, *Saturday Night Live* (SNL) consistently captures attention with its dynamic roster of comedians and writers. Recent buzz has centered on Colin Jost, a prominent figure at SNL, with speculation about his potential departure sparking widespread interest.
