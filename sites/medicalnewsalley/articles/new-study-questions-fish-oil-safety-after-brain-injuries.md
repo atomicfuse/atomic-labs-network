@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.womenshealthmag.com/health/a71242335/fish-oil-brain-injury-study/'
 source_item_id: 6a03382786fcaaeb5bc832a8
 generated_by: claude
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: /assets/images/new-study-questions-fish-oil-safety-after-brain-injuries.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length (629 words vs 800-1200 target) and relies heavily on
   vague sourcing without specific study details.
 reading_time: 3
+image_alt: >-
+  Blue supplement capsules on a clinical surface, one leaking into an abstract
+  brain-like shape.
 ---
 ## Fish Oil's Reputation Takes a Hit
 
