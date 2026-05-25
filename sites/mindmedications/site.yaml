@@ -74,7 +74,7 @@ theme:
     prose_heading: "#000000"
     prose_body: "#262626"
     category_header_text: "#ffffff"
-    subscribe_heading: "#1a1a2e"
+    subscribe_heading: "#ffffff"
     footer_text: "#FFFFFF"
     footer_heading: "#ffffff"
     footer_link: "#FFFFFF"
@@ -86,6 +86,7 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 54
   logo_height_footer: 82
+  footer_logo: /assets/logo-footer.png
 layout:
   hero:
     enabled: true
