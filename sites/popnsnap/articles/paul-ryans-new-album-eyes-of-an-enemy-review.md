@@ -1,24 +1,35 @@
 ---
-title: "Paul Ryan&#8217;s New Album Eyes of an Enemy Review"
-description: "Paul Ryan's album \"Eyes of an Enemy,\" featuring Olivia Thomson, offers an evocative musical journey with intricate melodies and heartfelt performances. This collaboration explores a wide range of themes, creating a harmonious and powerful experience for listeners."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T11:11:29+00:00"
-author: "Taylor Anderson"
+title: Paul Ryan&#8217;s New Album Eyes of an Enemy Review
+description: >-
+  Paul Ryan's album "Eyes of an Enemy," featuring Olivia Thomson, offers an
+  evocative musical journey with intricate melodies and heartfelt performances.
+  This collaboration explores a wide range of themes, creating a harmonious and
+  powerful experience for listeners.
+type: standard
+status: published
+publishDate: '2025-12-22T11:11:29+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "paul-ryans-new-album-eyes-of-an-enemy-review"
+  - Music
+slug: paul-ryans-new-album-eyes-of-an-enemy-review
 reading_time: 3
-source_url: "https://popnsnap.com/paul-ryans-new-album-eyes-of-an-enemy-review/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/paul-ryans-new-album-eyes-of-an-enemy-review/'
+imported_from: wordpress
 wp_original_id: 705
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/paul-ryans-new-album-eyes-of-an-enemy-review.webp
 seo:
-  canonical: "https://popnsnap.com/paul-ryans-new-album-eyes-of-an-enemy-review/"
-  og_title: "Paul Ryan's New Album Eyes of an Enemy Review - Pop N&#039; Snap"
-  og_description: "Paul Ryan's album \"Eyes of an Enemy,\" featuring Olivia Thomson, offers an evocative musical journey with intricate melodies and heartfelt performances. This collaboration explores a wide range of themes, creating a harmonious and powerful experience for listeners."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/12/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/paul-ryans-new-album-eyes-of-an-enemy-review/'
+  og_title: Paul Ryan's New Album Eyes of an Enemy Review - Pop N&#039; Snap
+  og_description: >-
+    Paul Ryan's album "Eyes of an Enemy," featuring Olivia Thomson, offers an
+    evocative musical journey with intricate melodies and heartfelt
+    performances. This collaboration explores a wide range of themes, creating a
+    harmonious and powerful experience for listeners.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/12/make_file.webp'
+  twitter_card: summary_large_image
+image_alt: >-
+  Moody recording studio with a vintage microphone and two blurred musicians
+  behind reflective glass
 ---
 
 In the ever-evolving world of music, new releases constantly push the boundaries of creativity and emotion. One such notable release is the album "Eyes of an Enemy" by Paul Ryan, featuring the captivating vocals of Olivia Thomson. This album promises to deliver an evocative musical journey, rich with intricate melodies and heartfelt performances that captivate listeners from start to finish.
