@@ -1,24 +1,33 @@
 ---
-title: "Boards of Canada Unveil First Inferno Album Track"
-description: "Boards of Canada re-emerge with first music from forthcoming album Inferno, reigniting fan speculation and anticipation around one of electronic music's most mysterious and influential duos."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T09:26:28+00:00"
-author: "Taylor Anderson"
+title: Boards of Canada Unveil First Inferno Album Track
+description: >-
+  Boards of Canada re-emerge with first music from forthcoming album Inferno,
+  reigniting fan speculation and anticipation around one of electronic music's
+  most mysterious and influential duos.
+type: standard
+status: published
+publishDate: '2026-05-11T09:26:28+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "boards-of-canada-unveil-first-inferno-album-track"
+  - Music
+slug: boards-of-canada-unveil-first-inferno-album-track
 reading_time: 7
-source_url: "https://popnsnap.com/boards-of-canada-unveil-first-inferno-album-track/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/boards-of-canada-unveil-first-inferno-album-track/'
+imported_from: wordpress
 wp_original_id: 759
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/boards-of-canada-unveil-first-inferno-album-track.webp
 seo:
-  canonical: "https://popnsnap.com/boards-of-canada-unveil-first-inferno-album-track/"
-  og_title: "Boards of Canada Unveil First Inferno Album Track - Pop N&#039; Snap"
-  og_description: "Boards of Canada re-emerge with first music from forthcoming album Inferno, reigniting fan speculation and anticipation around one of electronic music’s most mysterious and influential duos."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/boards-of-canada-unveil-first-inferno-album-track/'
+  og_title: Boards of Canada Unveil First Inferno Album Track - Pop N&#039; Snap
+  og_description: >-
+    Boards of Canada re-emerge with first music from forthcoming album Inferno,
+    reigniting fan speculation and anticipation around one of electronic music’s
+    most mysterious and influential duos.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Two shadowy figures face an ember-lit horizon in a grainy, atmospheric rural
+  landscape.
 ---
 
 Boards of Canada have returned to the spotlight with the first new music connected to their forthcoming album, _Inferno_. For fans of the Scottish electronic duo, even a brief sign of activity matters. Michael Sandison and Marcus Eoin have built one of modern electronic music's most devoted followings through patience, mystery, and an unmistakable sound world.
