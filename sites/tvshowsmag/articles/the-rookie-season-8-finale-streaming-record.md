@@ -20,7 +20,7 @@ source_url: >-
   https://deadline.com/2026/05/the-rookie-season-8-finale-ratings-viewerhip-2025-26-season-1236915092/
 source_item_id: 6a0be4f216f23264031d7815
 generated_by: claude
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/the-rookie-season-8-finale-streaming-record.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   sources for specific statistics and relies heavily on vague 'according to
   reports' phrasing, raising concerns about factual accuracy.
 reading_time: 3
+image_alt: >-
+  A couple stands on a glowing beach as floating screens and light trails
+  suggest a hit TV finale.
 ---
 ## Record-Breaking Finale Performance
 
