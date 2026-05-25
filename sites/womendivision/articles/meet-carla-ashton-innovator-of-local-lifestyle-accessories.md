@@ -1,23 +1,34 @@
 ---
-title: "Meet Carla Ashton: Innovator of Local Lifestyle Accessories"
-description: "Carla Ashton is revolutionizing fashion with her locally crafted, sustainable lifestyle accessories. By empowering women and focusing on eco-friendly practices, she sets new industry standards, supporting local artisans and promoting environmental responsibility in an increasingly competitive market."
-type: "standard"
-status: "review"
-publishDate: "2026-03-05T10:05:28+00:00"
-author: "Taylor Winters"
+title: 'Meet Carla Ashton: Innovator of Local Lifestyle Accessories'
+description: >-
+  Carla Ashton is revolutionizing fashion with her locally crafted, sustainable
+  lifestyle accessories. By empowering women and focusing on eco-friendly
+  practices, she sets new industry standards, supporting local artisans and
+  promoting environmental responsibility in an increasingly competitive market.
+type: standard
+status: review
+publishDate: '2026-03-05T10:05:28+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "meet-carla-ashton-innovator-of-local-lifestyle-accessories"
+  - Fashion
+slug: meet-carla-ashton-innovator-of-local-lifestyle-accessories
 reading_time: 3
-source_url: "https://womendivision.com/meet-carla-ashton-innovator-of-local-lifestyle-accessories/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/meet-carla-ashton-innovator-of-local-lifestyle-accessories/
+imported_from: wordpress
 wp_original_id: 30962
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/meet-carla-ashton-innovator-of-local-lifestyle-accessories.webp
 seo:
-  canonical: "https://womendivision.com/meet-carla-ashton-innovator-of-local-lifestyle-accessories/"
-  og_title: "Meet Carla Ashton: Innovator of Local Lifestyle Accessories - Women Division"
-  og_description: "Carla Ashton is revolutionizing fashion with her locally crafted, sustainable lifestyle accessories. By empowering women and focusing on eco-friendly practices, she sets new industry standards, supporting local artisans and promoting environmental responsibility in an increasingly competitive market."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/meet-carla-ashton-innovator-of-local-lifestyle-accessories/
+  og_title: 'Meet Carla Ashton: Innovator of Local Lifestyle Accessories - Women Division'
+  og_description: >-
+    Carla Ashton is revolutionizing fashion with her locally crafted,
+    sustainable lifestyle accessories. By empowering women and focusing on
+    eco-friendly practices, she sets new industry standards, supporting local
+    artisans and promoting environmental responsibility in an increasingly
+    competitive market.
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -25,7 +36,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article is well-written but falls short of the target word count and lacks specific SEO optimization elements like a compelling title and proper meta description length."
+quality_note: >-
+  The article is well-written but falls short of the target word count and lacks
+  specific SEO optimization elements like a compelling title and proper meta
+  description length.
+image_alt: 'Women artisans craft sustainable accessories in a warm, modern studio setting.'
 ---
 
 In the world of fashion accessories, innovation and sustainability are rapidly gaining attention. Among the trailblazers in this field is Carla Ashton, a visionary entrepreneur who is reshaping the landscape with her locally crafted lifestyle accessories. Her commitment to empowering women and promoting environmental responsibility is not only inspiring but also instrumental in setting new industry standards.
