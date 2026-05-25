@@ -19,7 +19,7 @@ source_url: >-
   https://www.the-independent.com/life-style/dog-lifespan-longevity-health-b2980480.html
 source_item_id: 6a0fdbcc16f23264031d79b2
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/experts-simple-way-help-dog-live-longer.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   on length and makes unsupported statistical claims about 20-30% lifespan
   extension.
 reading_time: 3
+image_alt: >-
+  Healthy dog walking with its owner on a sunny coastal path with wellness items
+  nearby
 ---
 ## The Key to Canine Longevity Lies in Prevention
 
