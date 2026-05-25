@@ -2,7 +2,8 @@ domain: travelbeautytips
 site_name: travelbeautytips
 site_tagline: null
 author: Max Ward
-groups: []
+groups:
+  - outbrain-ads
 active: true
 bundle_id: 6a12d6f516f23264031d7a43
 brief:
