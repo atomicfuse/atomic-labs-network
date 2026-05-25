@@ -2,7 +2,8 @@ domain: popnsnap
 site_name: popnsnap
 site_tagline: null
 author: Sam Gray
-groups: []
+groups:
+  - outbrain-ads
 active: true
 bundle_id: 6a12d71616f23264031d7a49
 brief:
