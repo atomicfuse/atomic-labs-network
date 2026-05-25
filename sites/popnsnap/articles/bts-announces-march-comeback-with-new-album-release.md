@@ -1,24 +1,35 @@
 ---
-title: "BTS Announces March Comeback With New Album Release"
-description: "BTS announces a new album set for March 2025, sparking global excitement. Known for blending genres and meaningful lyrics, the K-pop group aims to captivate with innovative themes and potential collaborations, promising a powerful addition to their discography."
-type: "standard"
-status: "published"
-publishDate: "2026-01-01T10:39:18+00:00"
-author: "Taylor Anderson"
+title: BTS Announces March Comeback With New Album Release
+description: >-
+  BTS announces a new album set for March 2025, sparking global excitement.
+  Known for blending genres and meaningful lyrics, the K-pop group aims to
+  captivate with innovative themes and potential collaborations, promising a
+  powerful addition to their discography.
+type: standard
+status: published
+publishDate: '2026-01-01T10:39:18+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "bts-announces-march-comeback-with-new-album-release"
+  - Music
+slug: bts-announces-march-comeback-with-new-album-release
 reading_time: 3
-source_url: "https://popnsnap.com/bts-announces-march-comeback-with-new-album-release/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/bts-announces-march-comeback-with-new-album-release/'
+imported_from: wordpress
 wp_original_id: 710
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/bts-announces-march-comeback-with-new-album-release.webp
 seo:
-  canonical: "https://popnsnap.com/bts-announces-march-comeback-with-new-album-release/"
-  og_title: "BTS Announces March Comeback With New Album Release - Pop N&#039; Snap"
-  og_description: "BTS announces a new album set for March 2025, sparking global excitement. Known for blending genres and meaningful lyrics, the K-pop group aims to captivate with innovative themes and potential collaborations, promising a powerful addition to their discography."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/bts-announces-march-comeback-with-new-album-release/'
+  og_title: BTS Announces March Comeback With New Album Release - Pop N&#039; Snap
+  og_description: >-
+    BTS announces a new album set for March 2025, sparking global excitement.
+    Known for blending genres and meaningful lyrics, the K-pop group aims to
+    captivate with innovative themes and potential collaborations, promising a
+    powerful addition to their discography.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Seven anonymous performers face a glowing concert crowd under dramatic purple
+  stage lights
 ---
 
 BTS is set to make waves in the global music scene once again with the announcement of their upcoming album release. The world-renowned K-pop group, known for their dynamic performances and meaningful lyrics, has fans eagerly anticipating new music that promises to capture hearts and top charts worldwide.
