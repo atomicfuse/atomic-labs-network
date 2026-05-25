@@ -1,24 +1,40 @@
 ---
-title: "Laufey Drops New Album &#8216;A Matter Of Time&#8217; with &#8216;Tough Luck&#8217;"
-description: "Laufey's newest album, A Matter of Time, blends jazz and pop with sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck, features dynamic rhythms and introspective themes, showcasing her growth and cementing her place in the music industry."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T06:12:06+00:00"
-author: "Taylor Anderson"
+title: >-
+  Laufey Drops New Album &#8216;A Matter Of Time&#8217; with &#8216;Tough
+  Luck&#8217;
+description: >-
+  Laufey's newest album, A Matter of Time, blends jazz and pop with
+  sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck,
+  features dynamic rhythms and introspective themes, showcasing her growth and
+  cementing her place in the music industry.
+type: standard
+status: published
+publishDate: '2025-05-15T06:12:06+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "laufey-drops-new-album-a-matter-of-time-with-tough-luck"
+  - Music
+slug: laufey-drops-new-album-a-matter-of-time-with-tough-luck
 reading_time: 3
-source_url: "https://popnsnap.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/'
+imported_from: wordpress
 wp_original_id: 469
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/laufey-drops-new-album-a-matter-of-time-with-tough-luck.webp
 seo:
-  canonical: "https://popnsnap.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/"
-  og_title: "Laufey Drops New Album 'A Matter Of Time' with 'Tough Luck' - Pop N&#039; Snap"
-  og_description: "Laufey's newest album, A Matter of Time, blends jazz and pop with sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck, features dynamic rhythms and introspective themes, showcasing her growth and cementing her place in the music industry."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-53-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/
+  og_title: >-
+    Laufey Drops New Album 'A Matter Of Time' with 'Tough Luck' - Pop N&#039;
+    Snap
+  og_description: >-
+    Laufey's newest album, A Matter of Time, blends jazz and pop with
+    sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck,
+    features dynamic rhythms and introspective themes, showcasing her growth and
+    cementing her place in the music industry.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-53-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Moody recording studio with vintage microphone, instruments, sheet music, and
+  a metronome under warm light.
 ---
 
 Laufey, an emerging artist known for her unique blend of jazz and pop, is set to enchant audiences once again with her newest album. Titled *A Matter of Time*, this release promises to captivate listeners with its sophisticated melodies and heartfelt lyrics. As anticipation builds, Laufey has given fans a taste of what's to come with her latest single, "Tough Luck."
