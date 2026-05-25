@@ -1,24 +1,36 @@
 ---
-title: "Top 12 Albums of 2025 by Lamar Ramos"
-description: "Explore the finest albums of 2025, featuring diverse genres and groundbreaking sounds. From veteran artists reinventing their styles to new talents making waves, these albums captivate audiences and redefine boundaries with innovative collaborations and deep, thought-provoking themes."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T10:41:27+00:00"
-author: "Taylor Anderson"
+title: Top 12 Albums of 2025 by Lamar Ramos
+description: >-
+  Explore the finest albums of 2025, featuring diverse genres and groundbreaking
+  sounds. From veteran artists reinventing their styles to new talents making
+  waves, these albums captivate audiences and redefine boundaries with
+  innovative collaborations and deep, thought-provoking themes.
+type: standard
+status: published
+publishDate: '2025-12-11T10:41:27+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "top-12-albums-of-2025-by-lamar-ramos"
+  - Music
+slug: top-12-albums-of-2025-by-lamar-ramos
 reading_time: 3
-source_url: "https://popnsnap.com/top-12-albums-of-2025-by-lamar-ramos/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/top-12-albums-of-2025-by-lamar-ramos/'
+imported_from: wordpress
 wp_original_id: 699
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/top-12-albums-of-2025-by-lamar-ramos.webp
 seo:
-  canonical: "https://popnsnap.com/top-12-albums-of-2025-by-lamar-ramos/"
-  og_title: "Top 12 Albums of 2025 by Lamar Ramos - Pop N&#039; Snap"
-  og_description: "Explore the finest albums of 2025, featuring diverse genres and groundbreaking sounds. From veteran artists reinventing their styles to new talents making waves, these albums captivate audiences and redefine boundaries with innovative collaborations and deep, thought-provoking themes."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/top-12-albums-of-2025-by-lamar-ramos/'
+  og_title: Top 12 Albums of 2025 by Lamar Ramos - Pop N&#039; Snap
+  og_description: >-
+    Explore the finest albums of 2025, featuring diverse genres and
+    groundbreaking sounds. From veteran artists reinventing their styles to new
+    talents making waves, these albums captivate audiences and redefine
+    boundaries with innovative collaborations and deep, thought-provoking
+    themes.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/12/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Twelve unmarked records surround a glowing turntable in a cinematic listening
+  room.
 ---
 
 Music enthusiasts, it's time to explore the finest albums that 2025 has offered so far. With a diverse array of genres and groundbreaking sounds, this year's collection promises something for everyone. From veteran artists reinventing their styles to new talents making waves, these albums have captivated audiences and critics alike.
