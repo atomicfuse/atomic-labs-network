@@ -50,38 +50,43 @@ brief:
 theme:
   base: modern
   colors:
-    primary: "#000000"
-    secondary: "#1D2B53"
+    primary: "#1D2B53"
     accent: "#06D6A0"
     background: "#FFFFFF"
-    text: "#E6E7EB"
+    secondary: "#f24093"
+    text: "#000000"
     muted: "#f3f3f5"
     surface: "#f7f7f7"
     border: "#e6e6e6"
-    heading: "#E6E7EB"
+    heading: "#000000"
     link: "#000000"
     link_hover: "#06D6A0"
-    footer_bg: "#000000"
+    nav_link: "#ffffff"
+    nav_link_hover: "#f4c542"
+    footer_bg: "#1D2B53"
+    must_reads_bg: "#000000"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    must_reads_bg: "#000000"
     article_hero_title: "#ffffff"
     article_hero_meta: "#f3f3f5"
     feed_title: "#E6E7EB"
     feed_desc: "#ebecef"
     feed_date: "#f3f3f5"
-    category_header_text: "#1a1a1a"
-    prose_heading: "#E6E7EB"
-    prose_body: "#eaebee"
+    prose_heading: "#000000"
+    prose_body: "#4f4f4f"
+    category_header_text: "#f3f3f5"
+    subscribe_heading: "#f3f3f5"
     footer_text: "#9ca3af"
     footer_heading: "#ffffff"
     footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
+    footer_link_hover: "#f24093"
   fonts:
     heading: Poppins
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height: 52
+  logo_height_footer: 68
 layout:
   hero:
     enabled: true
@@ -89,6 +94,12 @@ layout:
   must_reads:
     enabled: true
     count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
   sidebar_topics:
     auto: true
     explicit: []
