@@ -68,7 +68,7 @@ theme:
     must_reads_bg: "#2ECFEA"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    article_hero_title: "#ffffff"
+    article_hero_title: "#A259FF"
     article_hero_meta: "#6b7280"
     feed_title: "#0F1020"
     feed_desc: "#3f404d"
