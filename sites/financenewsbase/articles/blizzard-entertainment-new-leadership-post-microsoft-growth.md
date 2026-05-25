@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: 'https://www.ocbj.com/special-report/oc-50-2026/oc50-2026-johanna-faries/'
 source_item_id: 6a14214f16f23264031d7dcd
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: >-
+  /assets/images/blizzard-entertainment-new-leadership-post-microsoft-growth.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -35,6 +36,9 @@ quality_note: >-
   doesn't align strongly with finance/investment topics, and the article is
   shorter than optimal length.
 reading_time: 3
+image_alt: >-
+  Confident gaming executive in a modern studio with abstract glowing game
+  worlds behind her.
 ---
 ## Leadership Transition at Gaming Giant
 
