@@ -1,23 +1,36 @@
 ---
-title: "Women’s Rugby World Cup: Essential Travel Tips for Opening Match"
-description: "The Women's Rugby World Cup 2025 in Sunderland promises thrilling matches and a vibrant cultural experience. Fans should plan ahead for travel and accommodations to fully enjoy the games and explore Sunderland's attractions, supporting women's sports on a global stage."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T06:12:46+00:00"
-author: "Taylor Winters"
+title: 'Women’s Rugby World Cup: Essential Travel Tips for Opening Match'
+description: >-
+  The Women's Rugby World Cup 2025 in Sunderland promises thrilling matches and
+  a vibrant cultural experience. Fans should plan ahead for travel and
+  accommodations to fully enjoy the games and explore Sunderland's attractions,
+  supporting women's sports on a global stage.
+type: standard
+status: review
+publishDate: '2025-08-07T06:12:46+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "womens-rugby-world-cup-essential-travel-tips-for-opening-match"
+  - Advice
+slug: womens-rugby-world-cup-essential-travel-tips-for-opening-match
 reading_time: 3
-source_url: "https://womendivision.com/womens-rugby-world-cup-essential-travel-tips-for-opening-match/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/womens-rugby-world-cup-essential-travel-tips-for-opening-match/
+imported_from: wordpress
 wp_original_id: 30706
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/womens-rugby-world-cup-essential-travel-tips-for-opening-match.webp
 seo:
-  canonical: "https://womendivision.com/womens-rugby-world-cup-essential-travel-tips-for-opening-match/"
-  og_title: "Women's Rugby World Cup: Essential Travel Tips for Opening Match - Women Division"
-  og_description: "The Women's Rugby World Cup 2025 in Sunderland promises thrilling matches and a vibrant cultural experience. Fans should plan ahead for travel and accommodations to fully enjoy the games and explore Sunderland's attractions, supporting women's sports on a global stage."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/womens-rugby-world-cup-essential-travel-tips-for-opening-match/
+  og_title: >-
+    Women's Rugby World Cup: Essential Travel Tips for Opening Match - Women
+    Division
+  og_description: >-
+    The Women's Rugby World Cup 2025 in Sunderland promises thrilling matches
+    and a vibrant cultural experience. Fans should plan ahead for travel and
+    accommodations to fully enjoy the games and explore Sunderland's
+    attractions, supporting women's sports on a global stage.
+  twitter_card: summary_large_image
 quality_score: 34
 score_breakdown:
   seo_quality: 25
@@ -25,7 +38,14 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: "The article has poor SEO optimization, contains factual inaccuracies about the 2025 Women's Rugby World Cup location, is too short, and doesn't align with the site's healthy living focus despite having an appropriate conversational tone."
+quality_note: >-
+  The article has poor SEO optimization, contains factual inaccuracies about the
+  2025 Women's Rugby World Cup location, is too short, and doesn't align with
+  the site's healthy living focus despite having an appropriate conversational
+  tone.
+image_alt: >-
+  Fans with travel bags head toward a stadium at golden hour for a women’s rugby
+  match.
 ---
 
 The Women's Rugby World Cup 2025 is set to be a landmark event, promising thrilling matches and an opportunity to showcase women's rugby on a global stage. Fans from around the world are eagerly anticipating this event, with Sunderland playing a crucial role as one of the host cities. This guide provides essential travel advice for those planning to attend, ensuring a seamless and enjoyable experience.
