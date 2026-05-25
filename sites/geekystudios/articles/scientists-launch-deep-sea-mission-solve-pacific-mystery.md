@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-hess-northwest-pacific.html'
 source_item_id: 6a13fce316f23264031d7bce
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/scientists-launch-deep-sea-mission-solve-pacific-mystery.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   words vs 800-1200 target) and could better integrate site-specific keywords
   beyond just 'Tech'.
 reading_time: 3
+image_alt: Research vessel crossing dark Pacific waters above a hidden volcanic plateau
 ---
 ## A Geological Cold Case Reopens
 
