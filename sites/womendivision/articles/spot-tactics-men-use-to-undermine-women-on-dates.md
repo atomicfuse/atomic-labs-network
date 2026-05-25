@@ -1,24 +1,33 @@
 ---
-title: "Spot Tactics Men Use to Undermine Women on Dates"
-description: "In dating, recognizing subtle undermining tactics is crucial. These behaviors, like backhanded compliments, can harm self-esteem, but being vigilant and assertive helps maintain confidence and ensures healthy relationships based on respect and mutual support."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T09:59:26+00:00"
-author: "Taylor Winters"
+title: Spot Tactics Men Use to Undermine Women on Dates
+description: >-
+  In dating, recognizing subtle undermining tactics is crucial. These behaviors,
+  like backhanded compliments, can harm self-esteem, but being vigilant and
+  assertive helps maintain confidence and ensures healthy relationships based on
+  respect and mutual support.
+type: standard
+status: review
+publishDate: '2025-12-29T09:59:26+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "spot-tactics-men-use-to-undermine-women-on-dates"
+  - Advice
+slug: spot-tactics-men-use-to-undermine-women-on-dates
 reading_time: 2
-source_url: "https://womendivision.com/spot-tactics-men-use-to-undermine-women-on-dates/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/spot-tactics-men-use-to-undermine-women-on-dates/'
+imported_from: wordpress
 wp_original_id: 30878
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/spot-tactics-men-use-to-undermine-women-on-dates.webp
 seo:
-  canonical: "https://womendivision.com/spot-tactics-men-use-to-undermine-women-on-dates/"
-  og_title: "Spot Tactics Men Use to Undermine Women on Dates - Women Division"
-  og_description: "In dating, recognizing subtle undermining tactics is crucial. These behaviors, like backhanded compliments, can harm self-esteem. Being vigilant and assertive helps maintain confidence and ensures healthy relationships based on respect and mutual support. Awareness and empowerment are key."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/12/make_83ea2ea0-e473-11f0-bbff-a4307b806019.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/spot-tactics-men-use-to-undermine-women-on-dates/'
+  og_title: Spot Tactics Men Use to Undermine Women on Dates - Women Division
+  og_description: >-
+    In dating, recognizing subtle undermining tactics is crucial. These
+    behaviors, like backhanded compliments, can harm self-esteem. Being vigilant
+    and assertive helps maintain confidence and ensures healthy relationships
+    based on respect and mutual support. Awareness and empowerment are key.
+  og_image: >-
+    https://womendivision.com/wp-content/uploads/2025/12/make_83ea2ea0-e473-11f0-bbff-a4307b806019.jpg
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -26,7 +35,11 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "The article has good tone and relevance to advice content, but falls significantly short of the target word count at only 381 words, which severely impacts its overall quality score."
+quality_note: >-
+  The article has good tone and relevance to advice content, but falls
+  significantly short of the target word count at only 381 words, which severely
+  impacts its overall quality score.
+image_alt: Confident woman at a café table noticing tension during a date
 ---
 
 In the world of dating, many individuals have encountered various tactics that leave them questioning the intentions of their partners. Understanding these behaviors is crucial for anyone navigating the dating scene.
