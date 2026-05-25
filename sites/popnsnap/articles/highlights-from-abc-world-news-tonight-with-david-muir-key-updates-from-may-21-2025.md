@@ -1,25 +1,40 @@
 ---
-title: "Highlights from ABC World News Tonight with David Muir: Key Updates from May 21, 2025"
-description: "Explore the major headlines from ABC World News Tonight, including a $400 million Air Force One, Oval Office tensions, and a jailbreak in New Orleans."
-type: "standard"
-status: "published"
-publishDate: "2025-05-22T05:05:20+00:00"
-author: "Taylor Anderson"
+title: >-
+  Highlights from ABC World News Tonight with David Muir: Key Updates from May
+  21, 2025
+description: >-
+  Explore the major headlines from ABC World News Tonight, including a $400
+  million Air Force One, Oval Office tensions, and a jailbreak in New Orleans.
+type: standard
+status: published
+publishDate: '2025-05-22T05:05:20+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025"
+  - Celebrities
+  - TV &amp; Movies
+slug: >-
+  highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025
 reading_time: 2
-source_url: "https://popnsnap.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/
+imported_from: wordpress
 wp_original_id: 484
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025.webp
 seo:
-  canonical: "https://popnsnap.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/"
-  og_title: "Highlights from ABC World News Tonight with David Muir: Key Updates from May 21, 2025 - Pop N&#039; Snap"
-  og_description: "Explore the major headlines from ABC World News Tonight, including a $400 million Air Force One, Oval Office tensions, and a jailbreak in New Orleans."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-55-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/
+  og_title: >-
+    Highlights from ABC World News Tonight with David Muir: Key Updates from May
+    21, 2025 - Pop N&#039; Snap
+  og_description: >-
+    Explore the major headlines from ABC World News Tonight, including a $400
+    million Air Force One, Oval Office tensions, and a jailbreak in New Orleans.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-55-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Dim newsroom control room with blurred screens showing symbols of major
+  national headlines.
 ---
 
 ABC World News Tonight with David Muir aired a comprehensive broadcast on May 21, 2025, covering a range of impactful news stories from around the globe.
