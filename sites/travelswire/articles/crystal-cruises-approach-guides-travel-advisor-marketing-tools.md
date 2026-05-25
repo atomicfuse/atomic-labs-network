@@ -23,7 +23,8 @@ source_url: >-
   https://www.travelpulse.com/news/cruise/crystal-cruises-and-approach-guides-introduce-co-branded-marketing-tools-for-travel-advisors
 source_item_id: 6a0b33deac596b621e9355f6
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: >-
+  /assets/images/crystal-cruises-approach-guides-travel-advisor-marketing-tools.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 65
@@ -36,6 +37,9 @@ quality_note: >-
   800-1200 target) and doesn't align well with TravelSwire's destination-focused
   content, reading more like industry news than traveler-focused guidance.
 reading_time: 2
+image_alt: >-
+  Luxury cruise ship at sea with subtle digital marketing overlays and a
+  polished editorial look
 ---
 ## New Partnership Aims to Support Travel Advisor Sales
 

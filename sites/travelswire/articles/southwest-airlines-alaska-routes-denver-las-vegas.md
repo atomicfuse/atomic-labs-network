@@ -20,7 +20,7 @@ source_url: >-
   https://www.travelpulse.com/news/airlines-airports/southwest-airlines-launches-new-flights-to-anchorage-alaska
 source_item_id: 6a0b33deac596b621e9355fb
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/southwest-airlines-alaska-routes-denver-las-vegas.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   of target word count and could benefit from stronger SEO optimization in the
   title and meta description.
 reading_time: 3
+image_alt: >-
+  Airplane wing above snowy Alaskan mountains at sunrise, suggesting new travel
+  routes.
 ---
 ## Southwest Airlines Reaches Alaska for the First Time
 

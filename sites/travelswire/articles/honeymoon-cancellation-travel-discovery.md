@@ -1,9 +1,11 @@
 ---
 title: They Almost Canceled Their Honeymoon Until They Discovered This
-description: Faced with soaring costs, one couple nearly abandoned their dream honeymoon. Their solution involved a new wave of smart travel tools and strategic...
+description: >-
+  Faced with soaring costs, one couple nearly abandoned their dream honeymoon.
+  Their solution involved a new wave of smart travel tools and strategic...
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Sapir Lavi
 tags:
   - Travel Planning
@@ -12,11 +14,11 @@ tags:
   - travel technology
   - financial planning
 slug: honeymoon-cancellation-travel-discovery
-reviewer_notes: ""
-source_url: https://travelsmart.example.com/honeymoon-savings-strategy/
+reviewer_notes: ''
+source_url: 'https://travelsmart.example.com/honeymoon-savings-strategy/'
 source_item_id: 8c119eab3b1b385d707bg96b
 generated_by: claude
-featuredImage: /assets/images/couple-planning-honeymoon-travel.webp
+featuredImage: /assets/images/honeymoon-cancellation-travel-discovery.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 85
@@ -24,8 +26,14 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: Excellent narrative structure and tone match for a lifestyle/travel piece. Content is engaging but relies on anecdotal framing rather than hard data. Slightly exceeds target length but maintains good pacing.
+quality_note: >-
+  Excellent narrative structure and tone match for a lifestyle/travel piece.
+  Content is engaging but relies on anecdotal framing rather than hard data.
+  Slightly exceeds target length but maintains good pacing.
 reading_time: 4
+image_alt: >-
+  Newlyweds plan a coastal honeymoon at a sunlit café with a phone, map, and
+  travel essentials.
 ---
 
 ## The Honeymoon Budget Crunch
