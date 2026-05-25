@@ -10,6 +10,8 @@ scripts:
   head:
     - id: header
       src: https://client.us-east.adsnx.com/js/widget.js
+    - id: header-interstitials
+      src: https://client.w.digikube.com/atl.widget.js
   body_start: []
   body_end: []
 scripts_vars: {}
