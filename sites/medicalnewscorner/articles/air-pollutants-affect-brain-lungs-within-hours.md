@@ -20,7 +20,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-short-exposures-common-air-pollutants.html
 source_item_id: 6a13fce316f23264031d7bd4
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/air-pollutants-affect-brain-lungs-within-hours.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-structured article with good tone and relevant health topics, but lacks
   specific study details and falls short of optimal word count.
 reading_time: 3
+image_alt: >-
+  Human silhouette with subtle brain and lung overlays surrounded by everyday
+  air pollution wisps
 ---
 ## Study Reveals Rapid Health Effects from Everyday Pollution Sources
 
