@@ -1,25 +1,36 @@
 ---
-title: "Anya Taylor-Joy&#8217;s Stunning Tiffany &#038; Co. Red Carpet Look"
-description: "Anya Taylor-Joy captivated attendees at Tiffany & Co.'s holiday celebration with a striking ensemble by designer Dilara Findikoglu, reaffirming her status as a fashion icon known for blending contemporary trends with timeless elegance."
-type: "standard"
-status: "published"
-publishDate: "2025-11-13T10:44:46+00:00"
-author: "Taylor Anderson"
+title: Anya Taylor-Joy&#8217;s Stunning Tiffany &#038; Co. Red Carpet Look
+description: >-
+  Anya Taylor-Joy captivated attendees at Tiffany & Co.'s holiday celebration
+  with a striking ensemble by designer Dilara Findikoglu, reaffirming her status
+  as a fashion icon known for blending contemporary trends with timeless
+  elegance.
+type: standard
+status: published
+publishDate: '2025-11-13T10:44:46+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "anya-taylor-joys-stunning-tiffany-co-red-carpet-look"
+  - Celebrities
+  - Fashion
+slug: anya-taylor-joys-stunning-tiffany-co-red-carpet-look
 reading_time: 3
-source_url: "https://popnsnap.com/anya-taylor-joys-stunning-tiffany-co-red-carpet-look/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/anya-taylor-joys-stunning-tiffany-co-red-carpet-look/'
+imported_from: wordpress
 wp_original_id: 556
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/anya-taylor-joys-stunning-tiffany-co-red-carpet-look.webp
 seo:
-  canonical: "https://popnsnap.com/anya-taylor-joys-stunning-tiffany-co-red-carpet-look/"
-  og_title: "Anya Taylor-Joy's Stunning Tiffany & Co. Red Carpet Look - Pop N&#039; Snap"
-  og_description: "Anya Taylor-Joy captivated attendees at Tiffany & Co.'s holiday celebration with a striking ensemble by designer Dilara Findikoglu, reaffirming her status as a fashion icon known for blending contemporary trends with timeless elegance."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/11/make_file-5-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/anya-taylor-joys-stunning-tiffany-co-red-carpet-look/'
+  og_title: Anya Taylor-Joy's Stunning Tiffany & Co. Red Carpet Look - Pop N&#039; Snap
+  og_description: >-
+    Anya Taylor-Joy captivated attendees at Tiffany & Co.'s holiday celebration
+    with a striking ensemble by designer Dilara Findikoglu, reaffirming her
+    status as a fashion icon known for blending contemporary trends with
+    timeless elegance.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-5-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Glamorous blonde woman in black couture and jewels on a winter red carpet with
+  teal holiday lights
 ---
 
 In the world of fashion, red carpet events often serve as the ultimate stage where high-profile personalities showcase their sartorial elegance. Recently, Anya Taylor-Joy, a rising star in Hollywood, graced Tiffany & Co.'s holiday celebration, captivating attendees with her striking ensemble. Her choice of attire, crafted by the innovative designer Dilara Findikoglu, was nothing short of a fashion spectacle.
