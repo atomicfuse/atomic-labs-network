@@ -22,7 +22,7 @@ source_url: >-
   https://www.msn.com/en-us/health/strength/bikini-pilates-club-miami-swim-week-miami/ar-AA23KWed
 source_item_id: 6a13fc9f16f23264031d7b87
 generated_by: claude
-featuredImage: /assets/images/yogaterritory-general-article.webp
+featuredImage: /assets/images/bikini-pilates-club-miami-swim-week-wellness-event.webp
 quality_score: 44
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   optimization, and doesn't align with the site's core content areas of yoga
   poses, meditation, and beginner yoga routines.
 reading_time: 3
+image_alt: >-
+  Stylish women gather for poolside Pilates at a luxury Miami resort with
+  swimwear and beauty accents.
 ---
 ## Miami Swim Week Expands Beyond the Runway
 
