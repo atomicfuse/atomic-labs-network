@@ -1,24 +1,33 @@
 ---
-title: "Spinal Tap Releases New Album Alongside Upcoming Movie"
-description: "Spinal Tap is returning with a new album, blending their classic sound with fresh elements. Known for their satirical rock music, the band aims to captivate both old and new fans with this highly anticipated release."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T12:33:55+00:00"
-author: "Taylor Anderson"
+title: Spinal Tap Releases New Album Alongside Upcoming Movie
+description: >-
+  Spinal Tap is returning with a new album, blending their classic sound with
+  fresh elements. Known for their satirical rock music, the band aims to
+  captivate both old and new fans with this highly anticipated release.
+type: standard
+status: published
+publishDate: '2025-07-31T12:33:55+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "spinal-tap-releases-new-album-alongside-upcoming-movie"
+  - Music
+slug: spinal-tap-releases-new-album-alongside-upcoming-movie
 reading_time: 3
-source_url: "https://popnsnap.com/spinal-tap-releases-new-album-alongside-upcoming-movie/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/spinal-tap-releases-new-album-alongside-upcoming-movie/'
+imported_from: wordpress
 wp_original_id: 506
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/spinal-tap-releases-new-album-alongside-upcoming-movie.webp
 seo:
-  canonical: "https://popnsnap.com/spinal-tap-releases-new-album-alongside-upcoming-movie/"
-  og_title: "Spinal Tap Releases New Album Alongside Upcoming Movie - Pop N&#039; Snap"
-  og_description: "Spinal Tap is returning with a new album, blending their classic sound with fresh elements. Known for their satirical rock music, the band aims to captivate both old and new fans with this highly anticipated release."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/07/make_file-8-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/spinal-tap-releases-new-album-alongside-upcoming-movie/'
+  og_title: Spinal Tap Releases New Album Alongside Upcoming Movie - Pop N&#039; Snap
+  og_description: >-
+    Spinal Tap is returning with a new album, blending their classic sound with
+    fresh elements. Known for their satirical rock music, the band aims to
+    captivate both old and new fans with this highly anticipated release.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/07/make_file-8-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Vintage guitar and oversized amps sit backstage in moody concert haze before a
+  rock comeback.
 ---
 
 The legendary rock band Spinal Tap is set to make a remarkable return with a brand-new album, their first in several years. Known for their satirical take on the rock music industry, Spinal Tap has garnered a cult following since their inception. This latest project is poised to captivate both new listeners and devoted fans alike.
