@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/euphoria-does-nate-jacobs-die.html'
 source_item_id: 6a13f84e16f23264031d7aac
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/euphoria-nate-jacobs-dies-season-3-snake-attack.webp
 quality_score: 53
 score_breakdown:
   seo_quality: 25
@@ -34,6 +34,9 @@ quality_note: >-
   plot points about Euphoria that never happened, making it entirely inaccurate
   and misleading.
 reading_time: 3
+image_alt: >-
+  A tense desert scene with a shallow grave, a white tank top, and a snake trail
+  in neon-tinged dusk light.
 ---
 ## Major Character Death Shocks Euphoria Fans
 
