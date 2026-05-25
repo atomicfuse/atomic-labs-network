@@ -1,24 +1,40 @@
 ---
-title: "Discover the Unique Pieces in the AWFC Collection: Your Guide to Fashion Excellence"
-description: "Arsenal Women's Football Club has launched a new retail collection, available in the official online store. The diverse range of merchandise combines style, comfort, and quality, offering fans a unique way to express their support for the team and contribute to the growth of women's football."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T10:16:35+00:00"
-author: "Taylor Winters"
+title: >-
+  Discover the Unique Pieces in the AWFC Collection: Your Guide to Fashion
+  Excellence
+description: >-
+  Arsenal Women's Football Club has launched a new retail collection, available
+  in the official online store. The diverse range of merchandise combines style,
+  comfort, and quality, offering fans a unique way to express their support for
+  the team and contribute to the growth of women's football.
+type: standard
+status: review
+publishDate: '2025-04-07T10:16:35+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "discover-the-unique-pieces-in-the-awfc-collection-your-guide-to-fashion-excellence"
+  - Lifestyle
+slug: >-
+  discover-the-unique-pieces-in-the-awfc-collection-your-guide-to-fashion-excellence
 reading_time: 2
-source_url: "https://womendivision.com/discover-the-unique-pieces-in-the-awfc-collection-your-guide-to-fashion-excellence/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/discover-the-unique-pieces-in-the-awfc-collection-your-guide-to-fashion-excellence/
+imported_from: wordpress
 wp_original_id: 30626
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-unique-pieces-in-the-awfc-collection-your-guide-to-fashion-excellence.webp
 seo:
-  canonical: "https://womendivision.com/discover-the-unique-pieces-in-the-awfc-collection-your-guide-to-fashion-excellence/"
-  og_title: "Discover the Unique Pieces in the AWFC Collection: Your Guide to Fashion Excellence - Women Division"
-  og_description: "Arsenal Women's Football Club has launched a new retail collection, available in the official online store. The diverse range of merchandise combines style, comfort, and quality, offering fans a unique way to express their support for the team and contribute to the growth of women's football."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/discover-the-unique-pieces-in-the-awfc-collection-your-guide-to-fashion-excellence/
+  og_title: >-
+    Discover the Unique Pieces in the AWFC Collection: Your Guide to Fashion
+    Excellence - Women Division
+  og_description: >-
+    Arsenal Women's Football Club has launched a new retail collection,
+    available in the official online store. The diverse range of merchandise
+    combines style, comfort, and quality, offering fans a unique way to express
+    their support for the team and contribute to the growth of women's football.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -26,7 +42,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "The article is well-written but completely misaligned with the site's healthy living focus, being about football merchandise rather than beauty, fitness, or lifestyle topics."
+quality_note: >-
+  The article is well-written but completely misaligned with the site's healthy
+  living focus, being about football merchandise rather than beauty, fitness, or
+  lifestyle topics.
+image_alt: >-
+  Stylish women in red-and-white sportswear pose around a premium football
+  fashion collection.
 ---
 
 Arsenal Women's Football Club (AWFC) has unveiled an exciting new retail collection, marking a significant milestone in the club's history. The collection is available in the club's official online store, offering fans a unique range of merchandise that reflects the spirit and passion of AWFC.
