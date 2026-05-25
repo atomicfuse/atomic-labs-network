@@ -20,7 +20,7 @@ source_url: >-
   https://www.aol.com/news/jewell-jems-introduction-benefits-pilates-163726771.html
 source_item_id: 6a13fc9e16f23264031d7b7a
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/pilates-gains-popularity-low-impact-full-body-workout.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short of ideal length and could improve SEO optimization with better title
   length and meta description.
 reading_time: 3
+image_alt: >-
+  Pilates participants practice controlled low-impact movements in a bright
+  boutique fitness studio.
 ---
 ## The Growing Appeal of Pilates
 
