@@ -22,7 +22,8 @@ source_url: >-
   https://www.autoevolution.com/news/kia-boys-smash-the-windows-of-two-cars-steal-one-damage-the-other-nobody-knows-who-they-are-270424.html
 source_item_id: 6a13fcc816f23264031d7baa
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/kia-boys-strike-again-two-more-vehicles-targeted-latest-theft-wave.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +36,9 @@ quality_note: >-
   but suffers from vague reporting without specific details and falls short of
   target word count.
 reading_time: 3
+image_alt: >-
+  Shattered side window on a red compact car parked on a quiet residential
+  street at dawn.
 ---
 ## Latest Incident Highlights Ongoing Vulnerability
 
