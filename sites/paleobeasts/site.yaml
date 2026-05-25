@@ -63,7 +63,7 @@ theme:
     link: "#E50914"
     link_hover: "#B81D24"
     nav_link: "#ffffff"
-    nav_link_hover: "#B81D24"
+    nav_link_hover: "#ffffff"
     footer_bg: "#1a1a2e"
     must_reads_bg: "#1a1a2e"
     hero_title: "#ffffff"
