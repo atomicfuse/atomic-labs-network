@@ -23,7 +23,8 @@ source_url: >-
   https://www.tomshardware.com/video-games/console-gaming/steam-machine-appears-in-vulkans-conformant-product-database-upcoming-valve-console-is-certified-compliant-with-the-graphics-api
 source_item_id: 6a14215016f23264031d7de2
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: >-
+  /assets/images/steam-machine-vulkan-certification-valve-console-development.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -36,6 +37,9 @@ quality_note: >-
   under target word count and contains unverifiable claims about Valve's
   development status.
 reading_time: 3
+image_alt: >-
+  Unbranded black gaming cube on a modern desk with subtle abstract hardware and
+  certification visuals
 ---
 ## Steam Machine Receives Vulkan API Certification
 
