@@ -1,24 +1,37 @@
 ---
-title: "Menopause and Marriage: Four Women Share ‘Menodivorce’ Stories"
-description: "The journey through menopause can deeply affect personal relationships, influencing emotional well-being and interpersonal dynamics. As women navigate this transition, open communication and support are crucial for couples to maintain a healthy and understanding relationship."
-type: "standard"
-status: "review"
-publishDate: "2026-01-01T10:09:22+00:00"
-author: "Taylor Winters"
+title: 'Menopause and Marriage: Four Women Share ‘Menodivorce’ Stories'
+description: >-
+  The journey through menopause can deeply affect personal relationships,
+  influencing emotional well-being and interpersonal dynamics. As women navigate
+  this transition, open communication and support are crucial for couples to
+  maintain a healthy and understanding relationship.
+type: standard
+status: review
+publishDate: '2026-01-01T10:09:22+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "menopause-and-marriage-four-women-share-menodivorce-stories"
+  - Lifestyle
+slug: menopause-and-marriage-four-women-share-menodivorce-stories
 reading_time: 3
-source_url: "https://womendivision.com/menopause-and-marriage-four-women-share-menodivorce-stories/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/menopause-and-marriage-four-women-share-menodivorce-stories/
+imported_from: wordpress
 wp_original_id: 30883
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/menopause-and-marriage-four-women-share-menodivorce-stories.webp
 seo:
-  canonical: "https://womendivision.com/menopause-and-marriage-four-women-share-menodivorce-stories/"
-  og_title: "Menopause and Marriage: Four Women Share 'Menodivorce' Stories - Women Division"
-  og_description: "The journey through menopause can deeply affect personal relationships, influencing emotional well-being and interpersonal dynamics. As women navigate this transition, open communication and support are crucial for couples to maintain a healthy and understanding relationship."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/menopause-and-marriage-four-women-share-menodivorce-stories/
+  og_title: >-
+    Menopause and Marriage: Four Women Share 'Menodivorce' Stories - Women
+    Division
+  og_description: >-
+    The journey through menopause can deeply affect personal relationships,
+    influencing emotional well-being and interpersonal dynamics. As women
+    navigate this transition, open communication and support are crucial for
+    couples to maintain a healthy and understanding relationship.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 45
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 65
-quality_note: "The article covers an important lifestyle topic with good factual content and appropriate tone, but lacks SEO optimization with a lengthy title and missing meta description, plus falls short of ideal word count."
+quality_note: >-
+  The article covers an important lifestyle topic with good factual content and
+  appropriate tone, but lacks SEO optimization with a lengthy title and missing
+  meta description, plus falls short of ideal word count.
+image_alt: >-
+  Four middle-aged women sit in quiet home settings with subtle symbols of
+  marriage and transition.
 ---
 
 The journey through menopause can significantly impact personal relationships, a reality that many women are beginning to acknowledge. As women enter this natural biological transition, the changes they experience extend beyond physical symptoms, often affecting their emotional well-being and interpersonal dynamics.
