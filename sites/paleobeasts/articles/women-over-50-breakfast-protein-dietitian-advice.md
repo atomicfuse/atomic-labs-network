@@ -22,7 +22,7 @@ source_url: >-
   https://www.smh.com.au/lifestyle/health-and-wellness/how-much-do-women-over-50-need-for-breakfast-a-dietitian-tells-20260513-p5zwm6.html
 source_item_id: 6a14208f16f23264031d7d80
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/women-over-50-breakfast-protein-dietitian-advice.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   proper SEO optimization, and doesn't align with the site's food &
   recipe-centered content strategy.
 reading_time: 3
+image_alt: >-
+  Protein-rich breakfast with fruit, seeds, tofu, and workout towel in soft
+  morning light.
 ---
 ## The Breakfast Gap for Women Over 50
 
