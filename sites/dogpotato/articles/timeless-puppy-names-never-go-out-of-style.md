@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.akc.org/expert-advice/lifestyle/puppy-names/'
 source_item_id: 6a0fdbcc16f23264031d79b7
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/timeless-puppy-names-never-go-out-of-style.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,9 @@ quality_note: >-
   Well-written article with strong topic relevance and tone, but significantly
   under target length and contains vague, unverified claims about AKC data.
 reading_time: 3
+image_alt: >-
+  Diverse puppies and an adult dog pose together in a warm, clean studio
+  setting.
 ---
 ## The Challenge of Naming Your New Puppy
 
