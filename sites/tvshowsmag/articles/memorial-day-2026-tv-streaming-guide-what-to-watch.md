@@ -23,7 +23,7 @@ source_url: >-
   https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-memorial-day-2026.html
 source_item_id: 6a13f84e16f23264031d7abb
 generated_by: claude
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/memorial-day-2026-tv-streaming-guide-what-to-watch.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -37,6 +37,9 @@ quality_note: >-
   significantly damaging its factual accuracy despite otherwise solid structure
   and tone.
 reading_time: 3
+image_alt: >-
+  A cinematic living room watch party with glowing abstract screens and a remote
+  on a popcorn-covered table.
 ---
 ## Major Weekend for Entertainment Fans
 
