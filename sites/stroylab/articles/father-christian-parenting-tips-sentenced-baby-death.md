@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://cafemom.com/news/dad-christian-parenting-advice-shaken-baby-syndrome'
 source_item_id: 6a1421f216f23264031d7e2e
 generated_by: claude
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/father-christian-parenting-tips-sentenced-baby-death.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   but contains a critical factual error with the future date of May 2026 and
   lacks specific verifiable details.
 reading_time: 3
+image_alt: 'Empty nursery with a phone on a rocking chair, lit by soft window blinds.'
 ---
 ## The Double Life Behind Christian Parenting Content
 
