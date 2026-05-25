@@ -1,24 +1,35 @@
 ---
-title: "Colin Hay Explores 5 Songs from New Solo Album"
-description: "Colin Hay's latest solo album captivates with storytelling and melodic brilliance, blending introspection with diverse sounds. His evolution as an artist is evident, reflecting a range of influences while maintaining emotional sincerity and depth through compelling songs."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T12:35:07+00:00"
-author: "Taylor Anderson"
+title: Colin Hay Explores 5 Songs from New Solo Album
+description: >-
+  Colin Hay's latest solo album captivates with storytelling and melodic
+  brilliance, blending introspection with diverse sounds. His evolution as an
+  artist is evident, reflecting a range of influences while maintaining
+  emotional sincerity and depth through compelling songs.
+type: standard
+status: published
+publishDate: '2025-07-31T12:35:07+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "colin-hay-explores-5-songs-from-new-solo-album"
+  - Music
+slug: colin-hay-explores-5-songs-from-new-solo-album
 reading_time: 3
-source_url: "https://popnsnap.com/colin-hay-explores-5-songs-from-new-solo-album/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/colin-hay-explores-5-songs-from-new-solo-album/'
+imported_from: wordpress
 wp_original_id: 516
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/colin-hay-explores-5-songs-from-new-solo-album.webp
 seo:
-  canonical: "https://popnsnap.com/colin-hay-explores-5-songs-from-new-solo-album/"
-  og_title: "Colin Hay Explores 5 Songs from New Solo Album - Pop N&#039; Snap"
-  og_description: "Colin Hay's latest solo album captivates with storytelling and melodic brilliance, blending introspection with diverse sounds. His evolution as an artist is evident, reflecting a range of influences while maintaining emotional sincerity and depth through compelling songs."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/07/make_file-12-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/colin-hay-explores-5-songs-from-new-solo-album/'
+  og_title: Colin Hay Explores 5 Songs from New Solo Album - Pop N&#039; Snap
+  og_description: >-
+    Colin Hay's latest solo album captivates with storytelling and melodic
+    brilliance, blending introspection with diverse sounds. His evolution as an
+    artist is evident, reflecting a range of influences while maintaining
+    emotional sincerity and depth through compelling songs.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/07/make_file-12-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Warm recording studio with guitar, microphone, and five amber light pools
+  suggesting new songs
 ---
 
 Colin Hay, the iconic frontman of Men at Work, continues to captivate audiences with his latest solo album. This new collection of songs showcases his exceptional ability to weave storytelling with melodic brilliance. Each track on the album offers a glimpse into Hay's artistic journey, presenting both introspective themes and wide-ranging sounds that appeal to fans both old and new.
