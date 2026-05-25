@@ -79,7 +79,7 @@ theme:
     footer_text: "#ffffff"
     footer_heading: "#ffffff"
     footer_link: "#ffffff"
-    footer_link_hover: "#b0e23c"
+    footer_link_hover: "#ff00dd"
   fonts:
     heading: Poppins
     body: Inter
