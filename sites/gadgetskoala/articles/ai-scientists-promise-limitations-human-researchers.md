@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://phys.org/news/2026-05-ai-scientists-reveal-fundamental-limits.html'
 source_item_id: 6a13fce316f23264031d7bd8
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/ai-scientists-promise-limitations-human-researchers.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   only moderately relevant to gadgets/gaming audience and below target word
   count.
 reading_time: 3
+image_alt: >-
+  A glowing AI-like form hovers above a lab bench as a scientist guides an
+  experiment.
 ---
 ## The Rise of AI Scientists
 
