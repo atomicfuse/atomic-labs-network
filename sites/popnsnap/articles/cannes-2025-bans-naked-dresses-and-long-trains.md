@@ -1,24 +1,35 @@
 ---
-title: "Cannes 2025 Bans Naked Dresses and Long Trains"
-description: "The Cannes Film Festival's new dress code, banning nude dresses and long trains, is prompting designers and celebrities to rethink their fashion choices. This shift aims to preserve the event's elegance and could inspire a new era of sophisticated red carpet fashion."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:24:39+00:00"
-author: "Taylor Anderson"
+title: Cannes 2025 Bans Naked Dresses and Long Trains
+description: >-
+  The Cannes Film Festival's new dress code, banning nude dresses and long
+  trains, is prompting designers and celebrities to rethink their fashion
+  choices. This shift aims to preserve the event's elegance and could inspire a
+  new era of sophisticated red carpet fashion.
+type: standard
+status: published
+publishDate: '2025-05-13T12:24:39+00:00'
+author: Taylor Anderson
 tags:
-  - "Fashion"
-slug: "cannes-2025-bans-naked-dresses-and-long-trains"
+  - Fashion
+slug: cannes-2025-bans-naked-dresses-and-long-trains
 reading_time: 2
-source_url: "https://popnsnap.com/cannes-2025-bans-naked-dresses-and-long-trains/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/cannes-2025-bans-naked-dresses-and-long-trains/'
+imported_from: wordpress
 wp_original_id: 459
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/cannes-2025-bans-naked-dresses-and-long-trains.webp
 seo:
-  canonical: "https://popnsnap.com/cannes-2025-bans-naked-dresses-and-long-trains/"
-  og_title: "Cannes 2025 Bans Naked Dresses and Long Trains - Pop N&#039; Snap"
-  og_description: "The Cannes Film Festival's new dress code, banning nude dresses and long trains, is prompting designers and celebrities to rethink their fashion choices. This shift aims to preserve the event's elegance and could inspire a new era of sophisticated red carpet fashion."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-46-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/cannes-2025-bans-naked-dresses-and-long-trains/'
+  og_title: Cannes 2025 Bans Naked Dresses and Long Trains - Pop N&#039; Snap
+  og_description: >-
+    The Cannes Film Festival's new dress code, banning nude dresses and long
+    trains, is prompting designers and celebrities to rethink their fashion
+    choices. This shift aims to preserve the event's elegance and could inspire
+    a new era of sophisticated red carpet fashion.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-46-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Elegant red carpet arrival with refined couture and soft camera flashes on the
+  French Riviera.
 ---
 
 The Cannes Film Festival, renowned for its glitz and glamour, has introduced a new dress code that is making waves in the fashion world. Known for its iconic red carpet moments, the festival is now setting stricter guidelines to uphold its sophisticated image. This change has left designers and celebrities rethinking their wardrobe choices as they prepare for the prestigious event.
