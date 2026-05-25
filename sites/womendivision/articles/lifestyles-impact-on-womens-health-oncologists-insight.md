@@ -1,24 +1,35 @@
 ---
-title: "Lifestyle’s Impact on Women’s Health: Oncologist’s Insight"
-description: "Breast cancer increasingly affects younger women, highlighting the need for awareness and proactive health strategies. Understanding contributing factors and preventive measures is crucial for mitigating this troubling rise, with lifestyle and genetic factors playing significant roles in early onset."
-type: "standard"
-status: "review"
-publishDate: "2025-10-03T05:59:26+00:00"
-author: "Taylor Winters"
+title: 'Lifestyle’s Impact on Women’s Health: Oncologist’s Insight'
+description: >-
+  Breast cancer increasingly affects younger women, highlighting the need for
+  awareness and proactive health strategies. Understanding contributing factors
+  and preventive measures is crucial for mitigating this troubling rise, with
+  lifestyle and genetic factors playing significant roles in early onset.
+type: standard
+status: review
+publishDate: '2025-10-03T05:59:26+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "lifestyles-impact-on-womens-health-oncologists-insight"
+  - Lifestyle
+slug: lifestyles-impact-on-womens-health-oncologists-insight
 reading_time: 3
-source_url: "https://womendivision.com/lifestyles-impact-on-womens-health-oncologists-insight/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/lifestyles-impact-on-womens-health-oncologists-insight/
+imported_from: wordpress
 wp_original_id: 30816
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/lifestyles-impact-on-womens-health-oncologists-insight.webp
 seo:
-  canonical: "https://womendivision.com/lifestyles-impact-on-womens-health-oncologists-insight/"
-  og_title: "Lifestyle's Impact on Women's Health: Oncologist's Insight - Women Division"
-  og_description: "Breast cancer increasingly affects younger women, highlighting the need for awareness and proactive health strategies. Understanding contributing factors and preventive measures is crucial for mitigating this troubling rise, with lifestyle and genetic factors playing significant roles in early onset."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/lifestyles-impact-on-womens-health-oncologists-insight/
+  og_title: 'Lifestyle''s Impact on Women''s Health: Oncologist''s Insight - Women Division'
+  og_description: >-
+    Breast cancer increasingly affects younger women, highlighting the need for
+    awareness and proactive health strategies. Understanding contributing
+    factors and preventive measures is crucial for mitigating this troubling
+    rise, with lifestyle and genetic factors playing significant roles in early
+    onset.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written health article with good tone and accuracy, but significantly under target word count and could better integrate site's primary focus keywords."
+quality_note: >-
+  Well-written health article with good tone and accuracy, but significantly
+  under target word count and could better integrate site's primary focus
+  keywords.
+image_alt: >-
+  Young women in soft morning light with wellness items, suggesting proactive
+  health awareness.
 ---
 
 Breast cancer is increasingly affecting younger women, sparking concern among healthcare professionals worldwide. This trend highlights the need for awareness and proactive health strategies to combat the disease at an earlier stage than previously considered typical. Understanding the contributing factors and preventive measures is crucial for mitigating this troubling rise in cases.
