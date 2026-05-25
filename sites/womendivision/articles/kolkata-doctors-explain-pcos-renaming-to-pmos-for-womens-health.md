@@ -1,26 +1,40 @@
 ---
-title: "Kolkata Doctors Explain PCOS Renaming to PMOS for Women’s Health"
-description: "The proposed shift from PCOS to PMOS highlights that the condition is not just about ovarian cysts, but also hormones, insulin resistance, metabolic health, fertility, and long-term wellbeing."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:58:27+00:00"
-author: "Taylor Winters"
+title: Kolkata Doctors Explain PCOS Renaming to PMOS for Women’s Health
+description: >-
+  The proposed shift from PCOS to PMOS highlights that the condition is not just
+  about ovarian cysts, but also hormones, insulin resistance, metabolic health,
+  fertility, and long-term wellbeing.
+type: standard
+status: published
+publishDate: '2026-05-14T08:58:27+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Fitness"
-  - "Lifestyle"
-slug: "kolkata-doctors-explain-pcos-renaming-to-pmos-for-womens-health"
+  - Advice
+  - Fitness
+  - Lifestyle
+slug: kolkata-doctors-explain-pcos-renaming-to-pmos-for-womens-health
 reading_time: 6
-source_url: "https://womendivision.com/kolkata-doctors-explain-pcos-renaming-to-pmos-for-womens-health/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/kolkata-doctors-explain-pcos-renaming-to-pmos-for-womens-health/
+imported_from: wordpress
 wp_original_id: 31005
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/kolkata-doctors-explain-pcos-renaming-to-pmos-for-womens-health.webp
 seo:
-  canonical: "https://womendivision.com/kolkata-doctors-explain-pcos-renaming-to-pmos-for-womens-health/"
-  og_title: "Kolkata Doctors Explain PCOS Renaming to PMOS for Women’s Health - Women Division"
-  og_description: "The proposed shift from PCOS to PMOS highlights that the condition is not just about ovarian cysts, but also hormones, insulin resistance, metabolic health, fertility and long-term wellbeing."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/kolkata-doctors-explain-pcos-renaming-to-pmos-for-womens-health/
+  og_title: >-
+    Kolkata Doctors Explain PCOS Renaming to PMOS for Women’s Health - Women
+    Division
+  og_description: >-
+    The proposed shift from PCOS to PMOS highlights that the condition is not
+    just about ovarian cysts, but also hormones, insulin resistance, metabolic
+    health, fertility and long-term wellbeing.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Doctor discusses women’s hormonal and metabolic health with a patient in a
+  calm clinic setting.
 ---
 
 For many women, the label PCOS has never told the whole story. Polycystic ovary syndrome is widely known for irregular periods, acne, excess hair growth and fertility concerns, yet doctors increasingly stress that it is also a metabolic and hormonal condition. That is why the proposed shift from PCOS to PMOS is gaining attention in women's health discussions, including among clinicians in Kolkata.
