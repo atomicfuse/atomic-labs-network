@@ -5,7 +5,7 @@ description: >-
   stress hits. Learn how wine enthusiasts can apply this strategy to maintain
   balanced...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:

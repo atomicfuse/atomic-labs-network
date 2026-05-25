@@ -4,7 +4,7 @@ description: >-
   The wine world confronts historic production lows and shrinking consumption,
   yet innovative producers in Bordeaux, Spain, and France are finding new...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:

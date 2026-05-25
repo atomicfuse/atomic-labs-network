@@ -5,7 +5,7 @@ description: >-
   how traditional professionalism still matters in wine industry hiring
   practices.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:

@@ -5,7 +5,7 @@ description: >-
   legislation shifts unpasteurized dairy from farms to retail despite
   documented...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:

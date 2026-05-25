@@ -4,7 +4,7 @@ description: >-
   New research shows urban animals are more aggressive and bold. Learn how this
   affects wine country and vineyard experiences for wine enthusiasts.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:

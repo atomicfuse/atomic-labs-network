@@ -5,7 +5,7 @@ description: >-
   daughter Bella Hadid at the 2026 Cannes Film Festival in their first joint red
   carpet...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Andrew Perry
 tags:
