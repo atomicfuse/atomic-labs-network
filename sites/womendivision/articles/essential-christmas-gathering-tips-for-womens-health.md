@@ -1,23 +1,32 @@
 ---
-title: "Essential Christmas Gathering Tips for Women’s Health"
-description: "The holiday season calls for joy and safety. Stay informed on health guidelines to ensure safe gatherings, with tips on ventilation, food hygiene, virtual options, and clear communication about safety measures."
-type: "standard"
-status: "published"
-publishDate: "2026-02-02T11:10:49+00:00"
-author: "Taylor Winters"
+title: Essential Christmas Gathering Tips for Women’s Health
+description: >-
+  The holiday season calls for joy and safety. Stay informed on health
+  guidelines to ensure safe gatherings, with tips on ventilation, food hygiene,
+  virtual options, and clear communication about safety measures.
+type: standard
+status: published
+publishDate: '2026-02-02T11:10:49+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "essential-christmas-gathering-tips-for-womens-health"
+  - Lifestyle
+slug: essential-christmas-gathering-tips-for-womens-health
 reading_time: 3
-source_url: "https://womendivision.com/essential-christmas-gathering-tips-for-womens-health/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/essential-christmas-gathering-tips-for-womens-health/
+imported_from: wordpress
 wp_original_id: 30941
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/essential-christmas-gathering-tips-for-womens-health.webp
 seo:
-  canonical: "https://womendivision.com/essential-christmas-gathering-tips-for-womens-health/"
-  og_title: "Essential Christmas Gathering Tips for Women's Health - Women Division"
-  og_description: "The holiday season calls for joy and safety. Stay informed on health guidelines to ensure safe gatherings. Consider outdoor events, proper ventilation indoors, and clear communication about safety measures. Maintain food hygiene and include virtual options for inclusive celebrations."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/essential-christmas-gathering-tips-for-womens-health/
+  og_title: Essential Christmas Gathering Tips for Women's Health - Women Division
+  og_description: >-
+    The holiday season calls for joy and safety. Stay informed on health
+    guidelines to ensure safe gatherings. Consider outdoor events, proper
+    ventilation indoors, and clear communication about safety measures. Maintain
+    food hygiene and include virtual options for inclusive celebrations.
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -25,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but falls short on length requirements and could better integrate site-specific keywords beyond general lifestyle content."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  requirements and could better integrate site-specific keywords beyond general
+  lifestyle content.
+image_alt: >-
+  Women share a warm holiday gathering with subtle safety details in a cozy
+  home.
 ---
 
 The holiday season is a time for joy, celebration, and gathering with loved ones. However, it also requires careful planning to ensure everyone's health and safety. With the ongoing changes in health guidelines, it's essential to stay informed and make the best decisions for your festive gatherings.
