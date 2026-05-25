@@ -22,7 +22,8 @@ source_url: >-
   https://www.si.com/onsi/athlete-lifestyle/news/audi-crooks-shares-beach-pic-with-college-football-boyfriend-alex-kenward
 source_item_id: 6a14208f16f23264031d7d81
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: >-
+  /assets/images/audi-crooks-beach-photo-boyfriend-alex-kenward-oklahoma-state-transfer.webp
 quality_score: 27
 score_breakdown:
   seo_quality: 25
@@ -35,6 +36,9 @@ quality_note: >-
   completely irrelevant to a soccer news site, with questionable factual
   accuracy and poor SEO optimization.
 reading_time: 3
+image_alt: >-
+  College basketball player and partner stand on a beach at sunset with a
+  basketball, facing the horizon.
 ---
 ## Major Transfer Makes Waves On and Off Court
 
