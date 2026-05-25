@@ -1,24 +1,34 @@
 ---
-title: "How Women Over 35 Reduce Screen Time and Stress Together"
-description: "Women over 35 are reducing screen time and enhancing their well-being by engaging in offline activities like book clubs and crafting circles, fostering genuine connections, improving mental health, and promoting a balanced lifestyle through meaningful interactions and shared experiences."
-type: "standard"
-status: "review"
-publishDate: "2026-01-15T10:11:27+00:00"
-author: "Taylor Winters"
+title: How Women Over 35 Reduce Screen Time and Stress Together
+description: >-
+  Women over 35 are reducing screen time and enhancing their well-being by
+  engaging in offline activities like book clubs and crafting circles, fostering
+  genuine connections, improving mental health, and promoting a balanced
+  lifestyle through meaningful interactions and shared experiences.
+type: standard
+status: review
+publishDate: '2026-01-15T10:11:27+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-  - "Mindfullness"
-slug: "how-women-over-35-reduce-screen-time-and-stress-together"
+  - Lifestyle
+  - Mindfullness
+slug: how-women-over-35-reduce-screen-time-and-stress-together
 reading_time: 3
-source_url: "https://womendivision.com/how-women-over-35-reduce-screen-time-and-stress-together/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/how-women-over-35-reduce-screen-time-and-stress-together/
+imported_from: wordpress
 wp_original_id: 30892
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/how-women-over-35-reduce-screen-time-and-stress-together.webp
 seo:
-  canonical: "https://womendivision.com/how-women-over-35-reduce-screen-time-and-stress-together/"
-  og_title: "How Women Over 35 Reduce Screen Time and Stress Together - Women Division"
-  og_description: "Women over 35 are reducing screen time and enhancing their well-being by engaging in offline activities like book clubs and crafting circles, fostering genuine connections, improving mental health, and promoting a balanced lifestyle through meaningful interactions and shared experiences."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/how-women-over-35-reduce-screen-time-and-stress-together/
+  og_title: How Women Over 35 Reduce Screen Time and Stress Together - Women Division
+  og_description: >-
+    Women over 35 are reducing screen time and enhancing their well-being by
+    engaging in offline activities like book clubs and crafting circles,
+    fostering genuine connections, improving mental health, and promoting a
+    balanced lifestyle through meaningful interactions and shared experiences.
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and relevant content for the lifestyle/mindfulness topics, but falls significantly short of the 800-1200 word target at only 461 words, which severely impacts its overall quality score."
+quality_note: >-
+  The article has good tone and relevant content for the lifestyle/mindfulness
+  topics, but falls significantly short of the 800-1200 word target at only 461
+  words, which severely impacts its overall quality score.
+image_alt: Women sharing books and crafts around a sunlit table with phones set aside
 ---
 
 In today's fast-paced digital world, balancing screen time with real-life interactions is becoming increasingly important, especially for women over 35. Many are taking proactive steps to reduce stress and improve their mental well-being by engaging in offline activities. These women are discovering the benefits of gathering in small groups to connect, share experiences, and enjoy activities that do not involve screens.
