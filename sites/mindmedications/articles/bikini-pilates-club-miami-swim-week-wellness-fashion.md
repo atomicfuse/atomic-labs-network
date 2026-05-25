@@ -22,7 +22,7 @@ source_url: >-
   https://www.msn.com/en-us/health/strength/bikini-pilates-club-miami-swim-week-miami/ar-AA23KWed
 source_item_id: 6a13fc9f16f23264031d7b87
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/bikini-pilates-club-miami-swim-week-wellness-fashion.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   length and lacks the engaging, conversational tone expected for the target
   audience.
 reading_time: 3
+image_alt: >-
+  Luxury Miami poolside Pilates setup with swimwear styling and beauty items at
+  golden hour
 ---
 ## Fashion Week Embraces Wellness Culture
 
