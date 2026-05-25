@@ -78,10 +78,10 @@ theme:
     prose_body: "#4e4e4e"
     category_header_text: "#1a1a1a"
     subscribe_heading: "#FFFFFF"
-    footer_text: "#9ca3af"
+    footer_text: "#ffffff"
     footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
+    footer_link: "#ffffff"
+    footer_link_hover: "#e68c1e"
   fonts:
     heading: Poppins
     body: Inter
