@@ -1,26 +1,45 @@
 ---
-title: "Unleashing Women Power at AIA Vitality Women&#8217;s 10K 2025: A Journey Towards a Healthier Lifestyle"
-description: "The AIA Vitality Women's 10K race, scheduled for 2025, serves as a platform for women to embrace a healthy lifestyle and meet their fitness goals, with participants rewarded through the AIA Vitality points program."
-type: "standard"
-status: "published"
-publishDate: "2025-04-14T10:16:51+00:00"
-author: "Taylor Winters"
+title: >-
+  Unleashing Women Power at AIA Vitality Women&#8217;s 10K 2025: A Journey
+  Towards a Healthier Lifestyle
+description: >-
+  The AIA Vitality Women's 10K race, scheduled for 2025, serves as a platform
+  for women to embrace a healthy lifestyle and meet their fitness goals, with
+  participants rewarded through the AIA Vitality points program.
+type: standard
+status: published
+publishDate: '2025-04-14T10:16:51+00:00'
+author: Taylor Winters
 tags:
-  - "Fitness"
-  - "Lifestyle"
-  - "Workout Meals"
-slug: "unleashing-women-power-at-aia-vitality-womens-10k-2025-a-journey-towards-a-healthier-lifestyle"
+  - Fitness
+  - Lifestyle
+  - Workout Meals
+slug: >-
+  unleashing-women-power-at-aia-vitality-womens-10k-2025-a-journey-towards-a-healthier-lifestyle
 reading_time: 2
-source_url: "https://womendivision.com/unleashing-women-power-at-aia-vitality-womens-10k-2025-a-journey-towards-a-healthier-lifestyle/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/unleashing-women-power-at-aia-vitality-womens-10k-2025-a-journey-towards-a-healthier-lifestyle/
+imported_from: wordpress
 wp_original_id: 30631
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/unleashing-women-power-at-aia-vitality-womens-10k-2025-a-journey-towards-a-healthier-lifestyle.webp
 seo:
-  canonical: "https://womendivision.com/unleashing-women-power-at-aia-vitality-womens-10k-2025-a-journey-towards-a-healthier-lifestyle/"
-  og_title: "Unleashing Women Power at AIA Vitality Women's 10K 2025: A Journey Towards a Healthier Lifestyle - Women Division"
-  og_description: "The AIA Vitality Women's 10K race, scheduled for 2025, serves as a platform for women to embrace a healthy lifestyle and meet their fitness goals. AIA's commitment to empowering women and promoting holistic health is evident in this event. Participants are rewarded with points through the AIA Vitality program, adding an incentive for maintaining a healthy lifestyle."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/unleashing-women-power-at-aia-vitality-womens-10k-2025-a-journey-towards-a-healthier-lifestyle/
+  og_title: >-
+    Unleashing Women Power at AIA Vitality Women's 10K 2025: A Journey Towards a
+    Healthier Lifestyle - Women Division
+  og_description: >-
+    The AIA Vitality Women's 10K race, scheduled for 2025, serves as a platform
+    for women to embrace a healthy lifestyle and meet their fitness goals. AIA's
+    commitment to empowering women and promoting holistic health is evident in
+    this event. Participants are rewarded with points through the AIA Vitality
+    program, adding an incentive for maintaining a healthy lifestyle.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Diverse women runners move together through a sunlit park, conveying fitness,
+  empowerment, and wellness.
 ---
 
 Designed to inspire, the AIA Vitality Women's 10K race is a beacon of empowerment and healthy living for women. This 2025 event, organized by AIA, is more than just a race; it's a platform for women to embrace a healthy lifestyle and achieve their fitness goals.
