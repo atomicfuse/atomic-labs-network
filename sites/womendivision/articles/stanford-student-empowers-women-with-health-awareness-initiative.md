@@ -1,23 +1,36 @@
 ---
-title: "Stanford Student Empowers Women with Health Awareness Initiative"
-description: "A Stanford student is revolutionizing women's health education by creating an interactive platform that bridges information gaps, empowers women with knowledge, and collaborates with experts to ensure accuracy and reliability, fostering a supportive, informed community."
-type: "standard"
-status: "review"
-publishDate: "2025-07-03T04:53:27+00:00"
-author: "Taylor Winters"
+title: Stanford Student Empowers Women with Health Awareness Initiative
+description: >-
+  A Stanford student is revolutionizing women's health education by creating an
+  interactive platform that bridges information gaps, empowers women with
+  knowledge, and collaborates with experts to ensure accuracy and reliability,
+  fostering a supportive, informed community.
+type: standard
+status: review
+publishDate: '2025-07-03T04:53:27+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "stanford-student-empowers-women-with-health-awareness-initiative"
+  - Lifestyle
+slug: stanford-student-empowers-women-with-health-awareness-initiative
 reading_time: 3
-source_url: "https://womendivision.com/stanford-student-empowers-women-with-health-awareness-initiative/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/stanford-student-empowers-women-with-health-awareness-initiative/
+imported_from: wordpress
 wp_original_id: 30696
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/stanford-student-empowers-women-with-health-awareness-initiative.webp
 seo:
-  canonical: "https://womendivision.com/stanford-student-empowers-women-with-health-awareness-initiative/"
-  og_title: "Stanford Student Empowers Women with Health Awareness Initiative - Women Division"
-  og_description: "A Stanford student is revolutionizing women's health education by creating an interactive platform that bridges information gaps, empowers women with knowledge, and collaborates with experts to ensure accuracy and reliability, fostering a supportive, informed community."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/stanford-student-empowers-women-with-health-awareness-initiative/
+  og_title: >-
+    Stanford Student Empowers Women with Health Awareness Initiative - Women
+    Division
+  og_description: >-
+    A Stanford student is revolutionizing women's health education by creating
+    an interactive platform that bridges information gaps, empowers women with
+    knowledge, and collaborates with experts to ensure accuracy and reliability,
+    fostering a supportive, informed community.
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 35
@@ -25,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 65
-quality_note: "The article has good tone and accuracy but suffers from a weak title for SEO, short content length, and limited integration of the site's core fitness/wellness topics."
+quality_note: >-
+  The article has good tone and accuracy but suffers from a weak title for SEO,
+  short content length, and limited integration of the site's core
+  fitness/wellness topics.
+image_alt: >-
+  Young women gather around a tablet in a sunny campus courtyard, suggesting
+  health education and community.
 ---
 
 In a world where health information can often be overwhelming or inaccessible, a Stanford University student is taking notable strides to make a difference. This young visionary is focusing on empowering women by providing them with the knowledge and tools they need to better understand their health. With a clear mission to bridge the gap in health education, this initiative aims to foster a more informed and health-conscious community.
