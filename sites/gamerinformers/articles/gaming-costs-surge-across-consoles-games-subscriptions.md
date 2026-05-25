@@ -20,7 +20,7 @@ source_url: >-
   https://www.businessinsider.com/price-gaming-inflation-xbox-playstation-nintendo-switch-2026-5
 source_item_id: 6a14214f16f23264031d7dca
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: /assets/images/gaming-costs-surge-across-consoles-games-subscriptions.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on length and relies heavily on vague sourcing without specific
   data points.
 reading_time: 3
+image_alt: >-
+  Game controller surrounded by coins, accessories, and PC parts on a modern
+  desk
 ---
 ## Gaming's Price Problem Intensifies
 
