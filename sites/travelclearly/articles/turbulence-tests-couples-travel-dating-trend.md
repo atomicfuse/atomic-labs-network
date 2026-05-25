@@ -20,7 +20,7 @@ source_url: >-
   https://www.vogue.com/article/how-turbulence-tests-became-a-romantic-travel-trend
 source_item_id: 6a0bc42316f23264031d770f
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/turbulence-tests-couples-travel-dating-trend.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on length and relies heavily on vague 'according to reports'
   sourcing without specific citations.
 reading_time: 3
+image_alt: >-
+  New couple waits with luggage in a rainy airport lounge, showing quiet tension
+  during travel.
 ---
 ## The Rise of Relationship Travel Testing
 
