@@ -1,24 +1,37 @@
 ---
-title: "Zach Bryan&#8217;s &#8216;With Heaven On Top&#8217; Reviewed: Hits and Misses"
-description: "Zach Bryan's \"Heaven on Top\" showcases his growth as a songwriter with raw storytelling and emotional depth, exploring themes of love, heartache, and self-discovery while solidifying his place in the country music landscape."
-type: "standard"
-status: "published"
-publishDate: "2026-01-22T10:39:35+00:00"
-author: "Taylor Anderson"
+title: 'Zach Bryan&#8217;s &#8216;With Heaven On Top&#8217; Reviewed: Hits and Misses'
+description: >-
+  Zach Bryan's "Heaven on Top" showcases his growth as a songwriter with raw
+  storytelling and emotional depth, exploring themes of love, heartache, and
+  self-discovery while solidifying his place in the country music landscape.
+type: standard
+status: published
+publishDate: '2026-01-22T10:39:35+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "zach-bryans-with-heaven-on-top-reviewed-hits-and-misses"
+  - Music
+slug: zach-bryans-with-heaven-on-top-reviewed-hits-and-misses
 reading_time: 3
-source_url: "https://popnsnap.com/zach-bryans-with-heaven-on-top-reviewed-hits-and-misses/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/zach-bryans-with-heaven-on-top-reviewed-hits-and-misses/'
+imported_from: wordpress
 wp_original_id: 718
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/zach-bryans-with-heaven-on-top-reviewed-hits-and-misses.webp
 seo:
-  canonical: "https://popnsnap.com/zach-bryans-with-heaven-on-top-reviewed-hits-and-misses/"
-  og_title: "Zach Bryan's 'With Heaven On Top' Reviewed: Hits and Misses - Pop N&#039; Snap"
-  og_description: "Zach Bryan's \"Heaven on Top\" showcases his growth with raw storytelling and emotional depth, exploring themes of love, heartache, and self-discovery, solidifying his place in country music with relatable lyrics and soulful melodies that resonate deeply with listeners."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/01/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/zach-bryans-with-heaven-on-top-reviewed-hits-and-misses/
+  og_title: >-
+    Zach Bryan's 'With Heaven On Top' Reviewed: Hits and Misses - Pop N&#039;
+    Snap
+  og_description: >-
+    Zach Bryan's "Heaven on Top" showcases his growth with raw storytelling and
+    emotional depth, exploring themes of love, heartache, and self-discovery,
+    solidifying his place in country music with relatable lyrics and soulful
+    melodies that resonate deeply with listeners.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/01/make_file.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Weathered acoustic guitar on an empty spotlighted stage with a moody Americana
+  atmosphere
 ---
 
 Zach Bryan's latest album, "Heaven on Top," offers a blend of storytelling and musical authenticity that fans have come to expect from the rising country star. Known for his raw and heartfelt lyrics, Bryan continues to explore themes of love, heartache, and self-discovery in his newest release. As he navigates personal and universal experiences, his music resonates deeply with listeners, reinforcing his place in the country music landscape.
