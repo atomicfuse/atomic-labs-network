@@ -1,29 +1,41 @@
 ---
-title: "Strengthen Your Upper Body: Effective 40-Minute Back and Biceps Workout with Core"
-description: "Boost your pulling strength and improve posture with this 40-minute upper body workout focusing on back, biceps, and core."
-type: "standard"
-status: "published"
-publishDate: "2025-08-28T04:59:21+00:00"
-author: "Taylor Winters"
+title: >-
+  Strengthen Your Upper Body: Effective 40-Minute Back and Biceps Workout with
+  Core
+description: >-
+  Boost your pulling strength and improve posture with this 40-minute upper body
+  workout focusing on back, biceps, and core.
+type: standard
+status: published
+publishDate: '2025-08-28T04:59:21+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Fitness"
-  - "Workout Meals"
-slug: "strengthen-your-upper-body-effective-40-minute-back-and-biceps-workout-with-core"
+  - Advice
+  - Fitness
+  - Workout Meals
+slug: >-
+  strengthen-your-upper-body-effective-40-minute-back-and-biceps-workout-with-core
 reading_time: 3
-source_url: "https://womendivision.com/strengthen-your-upper-body-effective-40-minute-back-and-biceps-workout-with-core/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/strengthen-your-upper-body-effective-40-minute-back-and-biceps-workout-with-core/
+imported_from: wordpress
 wp_original_id: 30714
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/strengthen-your-upper-body-effective-40-minute-back-and-biceps-workout-with-core.webp
 seo:
-  canonical: "https://womendivision.com/strengthen-your-upper-body-effective-40-minute-back-and-biceps-workout-with-core/"
-  og_title: "Strengthen Your Upper Body: Effective 40-Minute Back and Biceps Workout with Core - Women Division"
-  og_description: "Boost your pulling strength and improve posture with this 40-minute upper body workout focusing on back, biceps, and core."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/strengthen-your-upper-body-effective-40-minute-back-and-biceps-workout-with-core/
+  og_title: >-
+    Strengthen Your Upper Body: Effective 40-Minute Back and Biceps Workout with
+    Core - Women Division
+  og_description: >-
+    Boost your pulling strength and improve posture with this 40-minute upper
+    body workout focusing on back, biceps, and core.
+  twitter_card: summary_large_image
 videos:
-  - id: "5a04126e"
-    url: "https://www.youtube.com/watch?v=qNxWhWlhUBE"
-    position: "after-paragraph-2"
+  - id: 5a04126e
+    url: 'https://www.youtube.com/watch?v=qNxWhWlhUBE'
+    position: after-paragraph-2
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,7 +43,10 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written fitness content with engaging tone and accurate information, but significantly under the target word count at only 418 words."
+quality_note: >-
+  Well-written fitness content with engaging tone and accurate information, but
+  significantly under the target word count at only 418 words.
+image_alt: Athletic adult doing a dumbbell row in a bright modern fitness studio
 ---
 
 Are you ready to enhance your upper body strength and achieve better posture? This 40-minute workout is designed to target your back, biceps, and core using strength training techniques and dumbbells. By incorporating this session into your routine, you'll not only build muscle but also improve your overall physical capabilities.
