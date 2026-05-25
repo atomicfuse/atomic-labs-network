@@ -1,25 +1,33 @@
 ---
-title: "Michelle Obama&#8217;s Prada Style on The Sherri Show"
-description: "Michelle Obama appeared on The Sherri Show wearing a stunning Prada outfit, showcasing her elegant and modern fashion sense while also engaging audiences with meaningful conversation about advocacy and public service."
-type: "standard"
-status: "published"
-publishDate: "2025-11-20T10:37:31+00:00"
-author: "Taylor Anderson"
+title: Michelle Obama&#8217;s Prada Style on The Sherri Show
+description: >-
+  Michelle Obama appeared on The Sherri Show wearing a stunning Prada outfit,
+  showcasing her elegant and modern fashion sense while also engaging audiences
+  with meaningful conversation about advocacy and public service.
+type: standard
+status: published
+publishDate: '2025-11-20T10:37:31+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "michelle-obamas-prada-style-on-the-sherri-show"
+  - Celebrities
+  - Fashion
+slug: michelle-obamas-prada-style-on-the-sherri-show
 reading_time: 3
-source_url: "https://popnsnap.com/michelle-obamas-prada-style-on-the-sherri-show/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/michelle-obamas-prada-style-on-the-sherri-show/'
+imported_from: wordpress
 wp_original_id: 562
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/michelle-obamas-prada-style-on-the-sherri-show.webp
 seo:
-  canonical: "https://popnsnap.com/michelle-obamas-prada-style-on-the-sherri-show/"
-  og_title: "Michelle Obama's Prada Style on The Sherri Show - Pop N&#039; Snap"
-  og_description: "Michelle Obama appeared on a talk show wearing a stunning Prada outfit, showcasing her elegant and modern fashion sense. Her choice highlighted her influence on fashion trends and her continued impact as a stylish and respected public figure."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/11/make_file-9-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/michelle-obamas-prada-style-on-the-sherri-show/'
+  og_title: Michelle Obama's Prada Style on The Sherri Show - Pop N&#039; Snap
+  og_description: >-
+    Michelle Obama appeared on a talk show wearing a stunning Prada outfit,
+    showcasing her elegant and modern fashion sense. Her choice highlighted her
+    influence on fashion trends and her continued impact as a stylish and
+    respected public figure.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-9-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: Elegant public figure in a tailored outfit on a softly lit talk show set
 ---
 
 Michelle Obama, renowned for her sophisticated style and powerful presence, recently graced a popular television program, showcasing her fashion-forward approach. Her choice of attire on this occasion was both contemporary and elegant, drawing significant attention and admiration from fashion enthusiasts and critics alike.
