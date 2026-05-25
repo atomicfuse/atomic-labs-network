@@ -22,7 +22,7 @@ source_url: >-
   https://www.businessinsider.com/price-gaming-inflation-xbox-playstation-nintendo-switch-2026-5
 source_item_id: 6a14214f16f23264031d7dca
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/gaming-costs-rise-across-platforms-industry-challenges.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   on length and contains some unsupported claims about specific 2026 events and
   pricing.
 reading_time: 3
+image_alt: >-
+  Modern gaming gear surrounded by coins and blank receipts, suggesting rising
+  costs
 ---
 ## The Rising Cost of Gaming Entertainment
 
