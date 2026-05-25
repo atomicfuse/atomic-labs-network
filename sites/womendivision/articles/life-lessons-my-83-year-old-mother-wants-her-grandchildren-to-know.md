@@ -1,24 +1,37 @@
 ---
-title: "Life Lessons My 83-Year-Old Mother Wants Her Grandchildren to Know"
-description: "Understanding a loved one's legacy can offer deep insights, especially when exploring the personal identity of an elder beyond family roles. This narrative highlights the importance of recognizing personal stories and achievements that shape a person's legacy."
-type: "standard"
-status: "review"
-publishDate: "2026-03-02T10:01:27+00:00"
-author: "Taylor Winters"
+title: Life Lessons My 83-Year-Old Mother Wants Her Grandchildren to Know
+description: >-
+  Understanding a loved one's legacy can offer deep insights, especially when
+  exploring the personal identity of an elder beyond family roles. This
+  narrative highlights the importance of recognizing personal stories and
+  achievements that shape a person's legacy.
+type: standard
+status: review
+publishDate: '2026-03-02T10:01:27+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "life-lessons-my-83-year-old-mother-wants-her-grandchildren-to-know"
+  - Lifestyle
+slug: life-lessons-my-83-year-old-mother-wants-her-grandchildren-to-know
 reading_time: 3
-source_url: "https://womendivision.com/life-lessons-my-83-year-old-mother-wants-her-grandchildren-to-know/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/life-lessons-my-83-year-old-mother-wants-her-grandchildren-to-know/
+imported_from: wordpress
 wp_original_id: 30959
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/life-lessons-my-83-year-old-mother-wants-her-grandchildren-to-know.webp
 seo:
-  canonical: "https://womendivision.com/life-lessons-my-83-year-old-mother-wants-her-grandchildren-to-know/"
-  og_title: "Life Lessons My 83-Year-Old Mother Wants Her Grandchildren to Know - Women Division"
-  og_description: "Understanding a loved one's legacy can offer deep insights, especially when exploring the personal identity of an elder beyond family roles. This narrative highlights the importance of recognizing personal stories and achievements that shape a person's legacy."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/03/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/life-lessons-my-83-year-old-mother-wants-her-grandchildren-to-know/
+  og_title: >-
+    Life Lessons My 83-Year-Old Mother Wants Her Grandchildren to Know - Women
+    Division
+  og_description: >-
+    Understanding a loved one's legacy can offer deep insights, especially when
+    exploring the personal identity of an elder beyond family roles. This
+    narrative highlights the importance of recognizing personal stories and
+    achievements that shape a person's legacy.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/03/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 45
@@ -26,7 +39,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has good emotional resonance but lacks SEO optimization with a too-long title, no meta description, weak heading structure, and falls short of target word count while only marginally addressing the site's health-focused topics."
+quality_note: >-
+  The article has good emotional resonance but lacks SEO optimization with a
+  too-long title, no meta description, weak heading structure, and falls short
+  of target word count while only marginally addressing the site's
+  health-focused topics.
+image_alt: >-
+  Elderly woman holding keepsakes by a sunlit window with family softly blurred
+  behind her
 ---
 
 Understanding the legacy of a loved one can bring profound insights and reflections, especially when it involves the wisdom of an elder family member. This narrative unfolds when a daughter decides to ask her 83-year-old mother a deeply personal question: "What would you like your grandchildren to know about you that has nothing to do with being a grandmother?" The mother's response offers a window into her life, sparking thought-provoking discussions about personal identity and legacy.
