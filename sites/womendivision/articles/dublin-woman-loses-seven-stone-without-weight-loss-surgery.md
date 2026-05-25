@@ -1,26 +1,34 @@
 ---
-title: "Dublin Woman Loses Seven Stone Without Weight Loss Surgery"
-description: "Dublin woman Kim Ryan's weight-loss journey shows how lasting change can come through support, routine, self-compassion, and small sustainable habits rather than desperation or quick fixes."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:59:38+00:00"
-author: "Taylor Winters"
+title: Dublin Woman Loses Seven Stone Without Weight Loss Surgery
+description: >-
+  Dublin woman Kim Ryan's weight-loss journey shows how lasting change can come
+  through support, routine, self-compassion, and small sustainable habits rather
+  than desperation or quick fixes.
+type: standard
+status: published
+publishDate: '2026-05-11T08:59:38+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Fitness"
-  - "Lifestyle"
-slug: "dublin-woman-loses-seven-stone-without-weight-loss-surgery"
+  - Advice
+  - Fitness
+  - Lifestyle
+slug: dublin-woman-loses-seven-stone-without-weight-loss-surgery
 reading_time: 7
-source_url: "https://womendivision.com/dublin-woman-loses-seven-stone-without-weight-loss-surgery/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/dublin-woman-loses-seven-stone-without-weight-loss-surgery/
+imported_from: wordpress
 wp_original_id: 31000
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/dublin-woman-loses-seven-stone-without-weight-loss-surgery.webp
 seo:
-  canonical: "https://womendivision.com/dublin-woman-loses-seven-stone-without-weight-loss-surgery/"
-  og_title: "Dublin Woman Loses Seven Stone Without Weight Loss Surgery - Women Division"
-  og_description: "Dublin woman Kim Ryan’s weight-loss journey shows how lasting change can come through support, routine, self-compassion, and small sustainable habits rather than desperation or quick fixes."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/dublin-woman-loses-seven-stone-without-weight-loss-surgery/
+  og_title: Dublin Woman Loses Seven Stone Without Weight Loss Surgery - Women Division
+  og_description: >-
+    Dublin woman Kim Ryan’s weight-loss journey shows how lasting change can
+    come through support, routine, self-compassion, and small sustainable habits
+    rather than desperation or quick fixes.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 87
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with excellent tone and length that effectively covers fitness and lifestyle topics, though could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with excellent tone and length that effectively covers
+  fitness and lifestyle topics, though could benefit from stronger SEO
+  optimization in title and meta description.
+image_alt: >-
+  Woman and companion walking through a Dublin park at sunrise, suggesting
+  steady lifestyle change.
 ---
 
 Dublin woman Kim Ryan reached a turning point after years of struggling with her weight, confidence, and day-to-day wellbeing. At one stage, she began considering weight-loss surgery because lasting change felt out of reach. Instead, her journey became a reminder that sustainable health is often built through support, routine, patience, and a kinder relationship with yourself.
