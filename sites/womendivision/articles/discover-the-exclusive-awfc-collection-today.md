@@ -1,24 +1,32 @@
 ---
-title: "Discover the Exclusive AWFC Collection Today"
-description: "Arsenal Women Football Club unveils a new retail collection for fans, offering stylish merchandise to support the women's team. This initiative promotes women's football, enhances fan engagement, and sets a precedent for gender equality in sports merchandising."
-type: "standard"
-status: "review"
-publishDate: "2025-09-11T04:51:24+00:00"
-author: "Taylor Winters"
+title: Discover the Exclusive AWFC Collection Today
+description: >-
+  Arsenal Women Football Club unveils a new retail collection for fans, offering
+  stylish merchandise to support the women's team. This initiative promotes
+  women's football, enhances fan engagement, and sets a precedent for gender
+  equality in sports merchandising.
+type: standard
+status: review
+publishDate: '2025-09-11T04:51:24+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "discover-the-exclusive-awfc-collection-today"
+  - Fashion
+slug: discover-the-exclusive-awfc-collection-today
 reading_time: 3
-source_url: "https://womendivision.com/discover-the-exclusive-awfc-collection-today/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/discover-the-exclusive-awfc-collection-today/'
+imported_from: wordpress
 wp_original_id: 30759
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/discover-the-exclusive-awfc-collection-today.webp
 seo:
-  canonical: "https://womendivision.com/discover-the-exclusive-awfc-collection-today/"
-  og_title: "Discover the Exclusive AWFC Collection Today - Women Division"
-  og_description: "Arsenal Women Football Club unveils a new retail collection for fans, offering stylish merchandise to support the women's team. This initiative promotes women's football, enhances fan engagement, and sets a precedent for gender equality in sports merchandising."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/09/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/discover-the-exclusive-awfc-collection-today/'
+  og_title: Discover the Exclusive AWFC Collection Today - Women Division
+  og_description: >-
+    Arsenal Women Football Club unveils a new retail collection for fans,
+    offering stylish merchandise to support the women's team. This initiative
+    promotes women's football, enhances fan engagement, and sets a precedent for
+    gender equality in sports merchandising.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/09/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "This article about Arsenal Women's merchandise collection has poor SEO optimization, doesn't match the healthy living focus, is too short, and lacks relevance to the site's wellness-focused keywords and audience."
+quality_note: >-
+  This article about Arsenal Women's merchandise collection has poor SEO
+  optimization, doesn't match the healthy living focus, is too short, and lacks
+  relevance to the site's wellness-focused keywords and audience.
+image_alt: >-
+  Women fans and a footballer showcase red and white fanwear in a modern stadium
+  retail setting.
 ---
 
 Arsenal Women Football Club has launched an exciting new retail collection designed to cater to the fans of the women's team. This innovative move promises to bring supporters closer to the team through a range of stylish and fan-centric merchandise.
