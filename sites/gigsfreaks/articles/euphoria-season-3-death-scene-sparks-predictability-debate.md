@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/euphoria-recap-season-3-episode-7-hbo.html'
 source_item_id: 6a13f84e16f23264031d7aab
 generated_by: claude
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: /assets/images/euphoria-season-3-death-scene-sparks-predictability-debate.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 65
@@ -32,6 +32,9 @@ quality_note: >-
   Article covers trending TV content well but is too short and contains
   potentially fabricated plot details presented as factual reports.
 reading_time: 2
+image_alt: >-
+  Dim neon-lit kitchen with a phone, spilled drink, and overturned chair
+  suggesting aftermath and tension.
 ---
 ## Major Character Exit Feels Telegraphed
 
