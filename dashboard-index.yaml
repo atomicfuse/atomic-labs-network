@@ -575,7 +575,7 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: coffeeactually
-    company: ATL
+    company: null
     vertical: Food & Drink
     status: Staging
     site_id: "9619803022920"
@@ -584,7 +584,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-25T10:33:42.025Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
