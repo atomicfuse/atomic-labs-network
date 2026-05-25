@@ -70,6 +70,9 @@ ads_config:
         <script>
             _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=cJVPQAVGY&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
         </script>
+      page_types:
+        - all
+      exclude_pages: []
     - id: code2
       position: above-content
       device: mobile
@@ -99,6 +102,9 @@ ads_config:
         <script>
             _sf_loadWidget("widget2", {qs: "g_lo=v&layout=vsm&count=1&epid=cJVPQAVGY&auth=Vtg4LZ44FO2l&keywords=ipod&subid=1000&obj_id=0"});
         </script>
+      page_types:
+        - article
+      exclude_pages: []
 ads_txt:
   - "# NGC Digital Websites #"
   - ownerdomain=ngcdigital.io
