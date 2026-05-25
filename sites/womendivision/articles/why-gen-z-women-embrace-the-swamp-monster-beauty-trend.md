@@ -1,24 +1,34 @@
 ---
-title: "Why Gen Z Women Embrace the Swamp Monster Beauty Trend"
-description: "The Monster Shed beauty trend captivates Gen Z with bold, exaggerated features inspired by mythical creatures. While popular on social media, it raises health concerns due to potential skin irritation from heavy makeup and prosthetics. Experts recommend cautious, safe practices."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T04:51:20+00:00"
-author: "Taylor Winters"
+title: Why Gen Z Women Embrace the Swamp Monster Beauty Trend
+description: >-
+  The Monster Shed beauty trend captivates Gen Z with bold, exaggerated features
+  inspired by mythical creatures. While popular on social media, it raises
+  health concerns due to potential skin irritation from heavy makeup and
+  prosthetics. Experts recommend cautious, safe practices.
+type: standard
+status: review
+publishDate: '2025-05-22T04:51:20+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-slug: "why-gen-z-women-embrace-the-swamp-monster-beauty-trend"
+  - Beauty
+slug: why-gen-z-women-embrace-the-swamp-monster-beauty-trend
 reading_time: 3
-source_url: "https://womendivision.com/why-gen-z-women-embrace-the-swamp-monster-beauty-trend/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/why-gen-z-women-embrace-the-swamp-monster-beauty-trend/
+imported_from: wordpress
 wp_original_id: 30658
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/why-gen-z-women-embrace-the-swamp-monster-beauty-trend.webp
 seo:
-  canonical: "https://womendivision.com/why-gen-z-women-embrace-the-swamp-monster-beauty-trend/"
-  og_title: "Why Gen Z Women Embrace the Swamp Monster Beauty Trend - Women Division"
-  og_description: "The Monster Shed beauty trend captivates Gen Z with bold, exaggerated features inspired by mythical creatures. While popular on social media, it raises health concerns due to potential skin irritation from heavy makeup and prosthetics. Experts recommend cautious, safe practices."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/why-gen-z-women-embrace-the-swamp-monster-beauty-trend/
+  og_title: Why Gen Z Women Embrace the Swamp Monster Beauty Trend - Women Division
+  og_description: >-
+    The Monster Shed beauty trend captivates Gen Z with bold, exaggerated
+    features inspired by mythical creatures. While popular on social media, it
+    raises health concerns due to potential skin irritation from heavy makeup
+    and prosthetics. Experts recommend cautious, safe practices.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Strong beauty content with good tone but severely underweight at 461 words and contains fabricated trend information that undermines credibility."
+quality_note: >-
+  Strong beauty content with good tone but severely underweight at 461 words and
+  contains fabricated trend information that undermines credibility.
+image_alt: >-
+  Young woman in avant-garde swamp-inspired makeup under soft green editorial
+  lighting
 ---
 
 The beauty industry is constantly evolving, with trends quickly gaining popularity and captivating audiences worldwide. A recent craze that has caught the attention of Gen Z women is the "Monster Shed" beauty trend. This unique trend, though popular, has sparked conversations about potential health concerns among experts.
