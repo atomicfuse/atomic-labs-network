@@ -1,25 +1,42 @@
 ---
-title: "Jenelle Evans Sends Son Jace to Live with Biological Father After Court Decision"
-description: "Jenelle Evans' son Jace is set to live with his biological father Andrew Lewis following a judge's ruling, marking a significant change for the Teen Mom star's family."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:19:42+00:00"
-author: "Taylor Anderson"
+title: >-
+  Jenelle Evans Sends Son Jace to Live with Biological Father After Court
+  Decision
+description: >-
+  Jenelle Evans' son Jace is set to live with his biological father Andrew Lewis
+  following a judge's ruling, marking a significant change for the Teen Mom
+  star's family.
+type: standard
+status: published
+publishDate: '2025-05-13T12:19:42+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "jenelle-evans-sends-son-jace-to-live-with-biological-father-after-court-decision"
+  - Celebrities
+  - TV &amp; Movies
+slug: >-
+  jenelle-evans-sends-son-jace-to-live-with-biological-father-after-court-decision
 reading_time: 3
-source_url: "https://popnsnap.com/jenelle-evans-sends-son-jace-to-live-with-biological-father-after-court-decision/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/jenelle-evans-sends-son-jace-to-live-with-biological-father-after-court-decision/
+imported_from: wordpress
 wp_original_id: 439
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/jenelle-evans-sends-son-jace-to-live-with-biological-father-after-court-decision.webp
 seo:
-  canonical: "https://popnsnap.com/jenelle-evans-sends-son-jace-to-live-with-biological-father-after-court-decision/"
-  og_title: "Jenelle Evans Sends Son Jace to Live with Biological Father After Court Decision - Pop N&#039; Snap"
-  og_description: "Jenelle Evans' son Jace is set to live with his biological father Andrew Lewis following a judge's ruling. The decision marks a significant change for the Teen Mom star's family."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-34.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/jenelle-evans-sends-son-jace-to-live-with-biological-father-after-court-decision/
+  og_title: >-
+    Jenelle Evans Sends Son Jace to Live with Biological Father After Court
+    Decision - Pop N&#039; Snap
+  og_description: >-
+    Jenelle Evans' son Jace is set to live with his biological father Andrew
+    Lewis following a judge's ruling. The decision marks a significant change
+    for the Teen Mom star's family.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-34.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Teen with a duffel bag stands outside a courthouse at dusk, suggesting a
+  family custody change.
 ---
 
 Jenelle Evans, widely recognized from the show Teen Mom, has made headlines once again with a significant decision regarding her son, Jace. The 15-year-old has been sent to live with his biological father, Andrew Lewis, following a recent court decision. This move has sparked widespread interest and discussion among fans and followers of the reality TV personality.
