@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://www.afar.com/magazine/where-travelers-are-going-in-summer-2026'
 source_item_id: 6a13fcb916f23264031d7ba8
 generated_by: claude
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: >-
+  /assets/images/summer-travel-demand-stays-strong-despite-global-challenges.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,9 @@ quality_note: >-
   Strong travel news coverage with good keyword relevance and tone, but lacks
   specific sources and falls short of target word count.
 reading_time: 3
+image_alt: >-
+  Train crossing a green valley as sunlight breaks through clouds, with distant
+  travel routes beyond.
 ---
 ## Record Travel Season Launches Despite Uncertainty
 
