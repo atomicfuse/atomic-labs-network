@@ -1,25 +1,32 @@
 ---
-title: "Jack Quaid Shuts Down Fantastic Four Casting Rumors"
-description: "Annie Wersching, beloved for roles in 24, Bosch, Timeless, Star Trek: Picard, and The Last of Us, is remembered for her range, warmth, and powerful screen presence after her death at 45."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T09:26:37+00:00"
-author: "Taylor Anderson"
+title: Jack Quaid Shuts Down Fantastic Four Casting Rumors
+description: >-
+  Annie Wersching, beloved for roles in 24, Bosch, Timeless, Star Trek: Picard,
+  and The Last of Us, is remembered for her range, warmth, and powerful screen
+  presence after her death at 45.
+type: standard
+status: published
+publishDate: '2026-05-18T09:26:37+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "jack-quaid-shuts-down-fantastic-four-casting-rumors"
+  - Celebrities
+  - TV &amp; Movies
+slug: jack-quaid-shuts-down-fantastic-four-casting-rumors
 reading_time: 7
-source_url: "https://popnsnap.com/jack-quaid-shuts-down-fantastic-four-casting-rumors/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/jack-quaid-shuts-down-fantastic-four-casting-rumors/'
+imported_from: wordpress
 wp_original_id: 763
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/jack-quaid-shuts-down-fantastic-four-casting-rumors.webp
 seo:
-  canonical: "https://popnsnap.com/jack-quaid-shuts-down-fantastic-four-casting-rumors/"
-  og_title: "Jack Quaid Shuts Down Fantastic Four Casting Rumors - Pop N&#039; Snap"
-  og_description: "Annie Wersching, beloved for roles in 24, Bosch, Timeless, Star Trek: Picard, and The Last of Us, is remembered for her range, warmth, and powerful screen presence after her death at 45."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/jack-quaid-shuts-down-fantastic-four-casting-rumors/'
+  og_title: Jack Quaid Shuts Down Fantastic Four Casting Rumors - Pop N&#039; Snap
+  og_description: >-
+    Annie Wersching, beloved for roles in 24, Bosch, Timeless, Star Trek:
+    Picard, and The Last of Us, is remembered for her range, warmth, and
+    powerful screen presence after her death at 45.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/05/make_file.png'
+  twitter_card: summary_large_image
+image_alt: An empty director's chair under a warm spotlight on a quiet soundstage.
 ---
 
 Annie Wersching, the admired television actor whose work spanned action drama, science fiction, daytime television, and video games, died at 45 after a private battle with cancer. Her passing brought renewed attention to a career defined by intensity, warmth, and remarkable range, with fans remembering her standout performances in "24," "Bosch," "Timeless," "Star Trek: Picard," and the original "The Last of Us" video game.
