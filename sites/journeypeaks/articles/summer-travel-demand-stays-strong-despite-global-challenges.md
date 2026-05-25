@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://www.afar.com/magazine/where-travelers-are-going-in-summer-2026'
 source_item_id: 6a13fcb916f23264031d7ba8
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: >-
+  /assets/images/summer-travel-demand-stays-strong-despite-global-challenges.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   800-1200 target) and contains vague sourcing that raises factual accuracy
   concerns.
 reading_time: 3
+image_alt: >-
+  Traveler with luggage looks toward blended summer destinations under dramatic
+  clouds.
 ---
 ## Travelers Adapt Rather Than Cancel Plans
 
