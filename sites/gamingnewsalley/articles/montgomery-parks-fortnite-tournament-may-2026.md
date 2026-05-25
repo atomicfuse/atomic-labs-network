@@ -22,7 +22,7 @@ source_url: >-
   https://www.montgomeryadvertiser.com/story/entertainment/goplay/2026/05/25/fortnite-tournament-coming-to-montgomery/90209496007/
 source_item_id: 6a14214f16f23264031d7dcb
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/montgomery-parks-fortnite-tournament-may-2026.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   specific gaming terminology and detailed tournament format that would better
   engage gaming enthusiasts.
 reading_time: 3
+image_alt: >-
+  Teens compete at gaming stations in a colorful community center esports
+  tournament.
 ---
 ## Local Gaming Event Draws Community Interest
 
