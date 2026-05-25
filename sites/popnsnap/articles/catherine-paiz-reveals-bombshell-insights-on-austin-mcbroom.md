@@ -1,25 +1,39 @@
 ---
-title: "Catherine Paiz Reveals Bombshell Insights on Austin McBroom"
-description: "Catherine Paiz is making headlines with her upcoming book, which may unveil new details about her relationship with Austin McBroom, including alleged infidelity and the business-like nature of their marriage."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:23:51+00:00"
-author: "Taylor Anderson"
+title: Catherine Paiz Reveals Bombshell Insights on Austin McBroom
+description: >-
+  Catherine Paiz is making headlines with her upcoming book, which may unveil
+  new details about her relationship with Austin McBroom, including alleged
+  infidelity and the business-like nature of their marriage.
+type: standard
+status: published
+publishDate: '2025-05-13T12:23:51+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Influencers"
-slug: "catherine-paiz-reveals-bombshell-insights-on-austin-mcbroom"
+  - Celebrities
+  - Influencers
+slug: catherine-paiz-reveals-bombshell-insights-on-austin-mcbroom
 reading_time: 2
-source_url: "https://popnsnap.com/catherine-paiz-reveals-bombshell-insights-on-austin-mcbroom/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/catherine-paiz-reveals-bombshell-insights-on-austin-mcbroom/
+imported_from: wordpress
 wp_original_id: 455
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/catherine-paiz-reveals-bombshell-insights-on-austin-mcbroom.webp
 seo:
-  canonical: "https://popnsnap.com/catherine-paiz-reveals-bombshell-insights-on-austin-mcbroom/"
-  og_title: "Catherine Paiz Reveals Bombshell Insights on Austin McBroom - Pop N&#039; Snap"
-  og_description: "Catherine Paiz is making headlines with her upcoming book, which may unveil new details about her relationship with Austin McBroom. Discover the drama and speculation surrounding their dynamic."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-44-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/catherine-paiz-reveals-bombshell-insights-on-austin-mcbroom/
+  og_title: >-
+    Catherine Paiz Reveals Bombshell Insights on Austin McBroom - Pop N&#039;
+    Snap
+  og_description: >-
+    Catherine Paiz is making headlines with her upcoming book, which may unveil
+    new details about her relationship with Austin McBroom. Discover the drama
+    and speculation surrounding their dynamic.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-44-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Moody desk scene with a manuscript, hidden photos, wedding ring, and contract
+  suggesting celebrity revelations.
 ---
 
 Catherine Paiz, a prominent social media personality, is set to release a revealing two-part book that could shed light on her tumultuous relationship with Austin McBroom. Fans are abuzz with speculation about the potential revelations regarding their personal and professional life. This anticipated release has sparked widespread interest, especially among those familiar with their public persona as The ACE Family.
