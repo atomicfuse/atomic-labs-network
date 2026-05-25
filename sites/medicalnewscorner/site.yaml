@@ -56,14 +56,14 @@ theme:
     primary: "#dddddd"
     accent: "#61CE70"
     background: "#FFFFFF"
-    secondary: "#C00000"
+    secondary: "#c27872"
     text: "#000000"
     muted: "#808080"
     surface: "#f7f7f7"
     border: "#e6e6e6"
     heading: "#000000"
     link: "#141414"
-    link_hover: "#C00000"
+    link_hover: "#c27872"
     nav_link: "#808080"
     nav_link_hover: "#141414"
     footer_bg: "#dddddd"
@@ -82,7 +82,7 @@ theme:
     footer_text: "#1a1a1a"
     footer_heading: "#1a1a1a"
     footer_link: "#1a1a1a"
-    footer_link_hover: "#61CE70"
+    footer_link_hover: "#c27872"
   fonts:
     heading: Poppins
     body: Inter
