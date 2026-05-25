@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-graphene-quantum-dots-parkinson-protein.html'
 source_item_id: 6a13fce316f23264031d7bd3
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/graphene-dots-parkinsons-protein-buildup.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 78
@@ -32,6 +32,9 @@ quality_note: >-
   coverage, though slightly under target word count and could benefit from
   stronger SEO optimization in title length and meta description.
 reading_time: 3
+image_alt: >-
+  Glowing nanoscale dots disperse tangled protein fibers in an abstract neural
+  environment.
 ---
 ## Breakthrough in Targeting Parkinson's Root Cause
 
