@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/euphoria-recap-season-3-episode-7-hbo.html'
 source_item_id: 6a13f84e16f23264031d7aab
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/euphoria-season-3-episode-7-nate-death-recap.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong entertainment focus and engaging tone, but severely undermined by
   fabricated plot details about a fictional Season 3 that doesn't exist.
 reading_time: 3
+image_alt: >-
+  A tense young woman stands in a dim blue kitchen as red light spills from a
+  chaotic hallway.
 ---
 ## A Death That Surprised No One
 
