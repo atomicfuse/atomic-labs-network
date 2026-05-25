@@ -1,6 +1,6 @@
 sites:
   - domain: muvizzcom
-    company: ATL
+    company: null
     vertical: Entertainment
     status: Live
     site_id: null
@@ -9,7 +9,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-10T15:11:55.953Z
+    last_updated: 2026-05-25T09:59:03.726Z
     created_at: 2026-05-07T13:00:00.000Z
     pages_project: null
     pages_subdomain: null
