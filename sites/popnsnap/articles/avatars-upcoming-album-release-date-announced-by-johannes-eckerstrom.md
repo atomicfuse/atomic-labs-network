@@ -1,24 +1,38 @@
 ---
-title: "Avatar&#8217;s Upcoming Album Release Date Announced by Johannes Eckerström"
-description: "Avatar, the Swedish metal band known for theatrical performances, has released their latest album. Frontman Johannes Eckerström discusses the creative process, themes, and future direction, offering insight into what makes Avatar's music resonate with fans worldwide."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:20:58+00:00"
-author: "Taylor Anderson"
+title: Avatar&#8217;s Upcoming Album Release Date Announced by Johannes Eckerström
+description: >-
+  Avatar, the Swedish metal band known for theatrical performances, has released
+  their latest album. Frontman Johannes Eckerström discusses the creative
+  process, themes, and future direction, offering insight into what makes
+  Avatar's music resonate with fans worldwide.
+type: standard
+status: published
+publishDate: '2025-05-13T12:20:58+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "avatars-upcoming-album-release-date-announced-by-johannes-eckerstrom"
+  - Music
+slug: avatars-upcoming-album-release-date-announced-by-johannes-eckerstrom
 reading_time: 3
-source_url: "https://popnsnap.com/avatars-upcoming-album-release-date-announced-by-johannes-eckerstrom/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/avatars-upcoming-album-release-date-announced-by-johannes-eckerstrom/
+imported_from: wordpress
 wp_original_id: 444
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/avatars-upcoming-album-release-date-announced-by-johannes-eckerstrom.webp
 seo:
-  canonical: "https://popnsnap.com/avatars-upcoming-album-release-date-announced-by-johannes-eckerstrom/"
-  og_title: "Avatar's Upcoming Album Release Date Announced by Johannes Eckerström - Pop N&#039; Snap"
-  og_description: "Avatar, the Swedish metal band known for theatrical performances, has released their latest album. Frontman Johannes Eckerström discusses the creative process, themes, and future direction, offering insight into what makes Avatar's music resonate with fans worldwide."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-37.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/avatars-upcoming-album-release-date-announced-by-johannes-eckerstrom/
+  og_title: >-
+    Avatar's Upcoming Album Release Date Announced by Johannes Eckerström - Pop
+    N&#039; Snap
+  og_description: >-
+    Avatar, the Swedish metal band known for theatrical performances, has
+    released their latest album. Frontman Johannes Eckerström discusses the
+    creative process, themes, and future direction, offering insight into what
+    makes Avatar's music resonate with fans worldwide.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-37.jpeg'
+  twitter_card: summary_large_image
+image_alt: Theatrical metal singer silhouette on a smoky stage under red and blue lights
 ---
 
 Avatar, the Swedish metal band known for their theatrical performances and unique sound, has been keeping fans on their toes with the release of their latest album. Frontman Johannes Eckerström recently opened up about the creative process, the themes explored in the new album, and the band's future direction. This insight offers a deeper understanding of what makes Avatar's music resonate with fans around the world.
