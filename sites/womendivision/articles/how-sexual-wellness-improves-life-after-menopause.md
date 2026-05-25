@@ -1,26 +1,32 @@
 ---
-title: "How Sexual Wellness Improves Life After Menopause"
-description: "Expert sexual wellness advice can support confidence, communication, pleasure, health, and intimacy at every life stage, helping you understand your body, address concerns, and build safer, more satisfying relationships."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:00:14+00:00"
-author: "Taylor Winters"
+title: How Sexual Wellness Improves Life After Menopause
+description: >-
+  Expert sexual wellness advice can support confidence, communication, pleasure,
+  health, and intimacy at every life stage, helping you understand your body,
+  address concerns, and build safer, more satisfying relationships.
+type: standard
+status: published
+publishDate: '2026-05-07T09:00:14+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Lifestyle"
-  - "Mindfullness"
-slug: "how-sexual-wellness-improves-life-after-menopause"
+  - Advice
+  - Lifestyle
+  - Mindfullness
+slug: how-sexual-wellness-improves-life-after-menopause
 reading_time: 7
-source_url: "https://womendivision.com/how-sexual-wellness-improves-life-after-menopause/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/how-sexual-wellness-improves-life-after-menopause/'
+imported_from: wordpress
 wp_original_id: 30987
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/how-sexual-wellness-improves-life-after-menopause.webp
 seo:
-  canonical: "https://womendivision.com/how-sexual-wellness-improves-life-after-menopause/"
-  og_title: "How Sexual Wellness Improves Life After Menopause - Women Division"
-  og_description: "Expert sexual wellness advice can support confidence, communication, pleasure, health, and intimacy at every life stage, helping you understand your body, address concerns, and build safer, more satisfying relationships."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/05/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/how-sexual-wellness-improves-life-after-menopause/'
+  og_title: How Sexual Wellness Improves Life After Menopause - Women Division
+  og_description: >-
+    Expert sexual wellness advice can support confidence, communication,
+    pleasure, health, and intimacy at every life stage, helping you understand
+    your body, address concerns, and build safer, more satisfying relationships.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/05/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -28,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written article with excellent tone and accurate health information, though the sexual wellness topic only partially aligns with the site's healthy living focus areas."
+quality_note: >-
+  Well-written article with excellent tone and accurate health information,
+  though the sexual wellness topic only partially aligns with the site's healthy
+  living focus areas.
+image_alt: >-
+  Mature couple holding hands in soft morning light, conveying comfort,
+  intimacy, and confidence.
 ---
 
 Sexual wellness is no longer a private side topic. It is a core part of health, confidence, relationships, and quality of life. Whether you are single, dating, partnered, menopausal, or rediscovering intimacy after a major life change, expert advice can help you understand your body and communicate your needs with less shame.
