@@ -72,15 +72,15 @@ theme:
     article_hero_meta: "#6b7280"
     feed_title: "#0F1020"
     feed_desc: "#3f404d"
-    feed_date: "#FEE440"
+    feed_date: "#A259FF"
     prose_heading: "#0F1020"
     prose_body: "#333441"
     category_header_text: "#1a1a1a"
     subscribe_heading: "#0F1020"
-    footer_text: "#9ca3af"
+    footer_text: "#ffffff"
     footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
+    footer_link: "#ffffff"
+    footer_link_hover: "#A259FF"
   fonts:
     heading: Poppins
     body: Inter
