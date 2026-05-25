@@ -65,7 +65,7 @@ theme:
     link_hover: "#44a250"
     nav_link: "#e68c1e"
     nav_link_hover: "#44a250"
-    footer_bg: "#999ea3"
+    footer_bg: "#555c62"
     must_reads_bg: "#44a250"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
