@@ -1,26 +1,38 @@
 ---
-title: "Woman Spends $2 Million Yearly on Extreme Longevity Experiment"
-description: "Bryan Johnson's Blueprint routine turns longevity science into a public experiment, combining strict diet, sleep, exercise, medical testing, and biohacking to explore whether biological ageing can be slowed."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:58:01+00:00"
-author: "Taylor Winters"
+title: Woman Spends $2 Million Yearly on Extreme Longevity Experiment
+description: >-
+  Bryan Johnson's Blueprint routine turns longevity science into a public
+  experiment, combining strict diet, sleep, exercise, medical testing, and
+  biohacking to explore whether biological ageing can be slowed.
+type: standard
+status: published
+publishDate: '2026-05-21T08:58:01+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Fitness"
-  - "Lifestyle"
-slug: "woman-spends-2-million-yearly-on-extreme-longevity-experiment"
+  - Advice
+  - Fitness
+  - Lifestyle
+slug: woman-spends-2-million-yearly-on-extreme-longevity-experiment
 reading_time: 7
-source_url: "https://womendivision.com/woman-spends-2-million-yearly-on-extreme-longevity-experiment/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/woman-spends-2-million-yearly-on-extreme-longevity-experiment/
+imported_from: wordpress
 wp_original_id: 31010
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/woman-spends-2-million-yearly-on-extreme-longevity-experiment.webp
 seo:
-  canonical: "https://womendivision.com/woman-spends-2-million-yearly-on-extreme-longevity-experiment/"
-  og_title: "Woman Spends $2 Million Yearly on Extreme Longevity Experiment - Women Division"
-  og_description: "Bryan Johnson’s Blueprint routine turns longevity science into a public experiment, combining strict diet, sleep, exercise, medical testing, and biohacking to explore whether biological ageing can be slowed."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/05/make_kate-tolo-portrait-casual_1.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/woman-spends-2-million-yearly-on-extreme-longevity-experiment/
+  og_title: >-
+    Woman Spends $2 Million Yearly on Extreme Longevity Experiment - Women
+    Division
+  og_description: >-
+    Bryan Johnson’s Blueprint routine turns longevity science into a public
+    experiment, combining strict diet, sleep, exercise, medical testing, and
+    biohacking to explore whether biological ageing can be slowed.
+  og_image: >-
+    https://womendivision.com/wp-content/uploads/2026/05/make_kate-tolo-portrait-casual_1.jpg
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and length, but title/description have gender mismatch issues and could benefit from stronger SEO optimization for the target keywords."
+quality_note: >-
+  Well-written article with good tone and length, but title/description have
+  gender mismatch issues and could benefit from stronger SEO optimization for
+  the target keywords.
+image_alt: >-
+  Anonymous person in a futuristic wellness lab surrounded by fitness, diet,
+  sleep, and medical testing tools.
 ---
 
 Bryan Johnson has turned personal health into a high-profile experiment, blending extreme discipline, medical testing, and anti-ageing science into a lifestyle that fascinates millions. The tech entrepreneur is best known for his ambitious Blueprint routine, a data-led programme designed to slow biological ageing and improve every measurable part of his body.
