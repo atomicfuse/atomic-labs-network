@@ -19,7 +19,7 @@ source_url: >-
   https://www.smh.com.au/lifestyle/health-and-wellness/how-much-do-women-over-50-need-for-breakfast-a-dietitian-tells-20260513-p5zwm6.html
 source_item_id: 6a14208f16f23264031d7d80
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/women-over-50-need-more-protein-breakfast-dietitian.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   short on length (514 words vs 800-1200 target) and could benefit from stronger
   SEO optimization including meta description length.
 reading_time: 3
+image_alt: >-
+  Active woman over 50 preparing a colorful high-protein breakfast in a bright
+  kitchen
 ---
 ## The Breakfast Gap for Women Over 50
 
