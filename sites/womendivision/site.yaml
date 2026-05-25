@@ -65,21 +65,21 @@ theme:
     border: "#e6e6e6"
     heading: "#7A7A7A"
     link: "#6EC1E4"
-    link_hover: "#61CE70"
+    link_hover: "#7A7A7A"
     nav_link: "#ffffff"
-    nav_link_hover: "#61CE70"
-    footer_bg: "#54595F"
-    must_reads_bg: "#54595F"
+    nav_link_hover: "#7A7A7A"
+    footer_bg: "#3e6089"
+    must_reads_bg: "#3e6089"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
-    article_hero_meta: "#bdbdbd"
+    article_hero_meta: "#7A7A7A"
     feed_title: "#7A7A7A"
     feed_desc: "#959595"
-    feed_date: "#bdbdbd"
+    feed_date: "#959595"
     prose_heading: "#7A7A7A"
     prose_body: "#8e8e8e"
-    category_header_text: "#1a1a1a"
+    category_header_text: "#ffffff"
     subscribe_heading: "#ffffff"
     footer_text: "#9ca3af"
     footer_heading: "#ffffff"
@@ -87,7 +87,7 @@ theme:
     footer_link_hover: "#ffffff"
   fonts:
     heading: Poppins
-    body: Inter
+    body: Poppins
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height: 52
