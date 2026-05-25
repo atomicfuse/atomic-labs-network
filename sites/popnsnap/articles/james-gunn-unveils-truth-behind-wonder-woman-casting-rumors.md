@@ -1,24 +1,40 @@
 ---
-title: "James Gunn Unveils Truth Behind Wonder Woman Casting Rumors"
-description: "Anticipation builds as DC Studios, with James Gunn at the helm, gears up for its next big release. Speculation surrounds the return of Wonder Woman and the casting process, promising a thrilling experience for superhero fans worldwide."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T10:31:50+00:00"
-author: "Taylor Anderson"
+title: James Gunn Unveils Truth Behind Wonder Woman Casting Rumors
+description: >-
+  Anticipation builds as DC Studios, with James Gunn at the helm, gears up for
+  its next big release. Speculation surrounds the return of Wonder Woman and the
+  casting process, promising a thrilling experience for superhero fans
+  worldwide.
+type: standard
+status: published
+publishDate: '2026-01-19T10:31:50+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "james-gunn-unveils-truth-behind-wonder-woman-casting-rumors"
+  - Celebrities
+  - TV &amp; Movies
+slug: james-gunn-unveils-truth-behind-wonder-woman-casting-rumors
 reading_time: 3
-source_url: "https://popnsnap.com/james-gunn-unveils-truth-behind-wonder-woman-casting-rumors/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/james-gunn-unveils-truth-behind-wonder-woman-casting-rumors/
+imported_from: wordpress
 wp_original_id: 716
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/james-gunn-unveils-truth-behind-wonder-woman-casting-rumors.webp
 seo:
-  canonical: "https://popnsnap.com/james-gunn-unveils-truth-behind-wonder-woman-casting-rumors/"
-  og_title: "James Gunn Unveils Truth Behind Wonder Woman Casting Rumors - Pop N&#039; Snap"
-  og_description: "Anticipation builds as DC Studios, with James Gunn at the helm, gears up for its next big release. Speculation surrounds the return of Wonder Woman and the casting process, promising a thrilling experience for superhero fans worldwide."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/james-gunn-unveils-truth-behind-wonder-woman-casting-rumors/
+  og_title: >-
+    James Gunn Unveils Truth Behind Wonder Woman Casting Rumors - Pop N&#039;
+    Snap
+  og_description: >-
+    Anticipation builds as DC Studios, with James Gunn at the helm, gears up for
+    its next big release. Speculation surrounds the return of Wonder Woman and
+    the casting process, promising a thrilling experience for superhero fans
+    worldwide.
+  twitter_card: summary_large_image
+image_alt: >-
+  Moody casting room with an empty director’s chair and a heroic silhouette
+  behind frosted glass.
 ---
 
 In the dynamic world of superhero cinema, anticipation builds as DC Studios prepares for its next big release. As the universe of comic book adaptations continues to expand, fans eagerly await the next chapter of this epic saga. With James Gunn at the helm, renowned for his visionary storytelling, the excitement surrounding the latest project is palpable. Speculation is rife about which iconic characters will take center stage, promising to deliver a thrilling experience for audiences worldwide.
