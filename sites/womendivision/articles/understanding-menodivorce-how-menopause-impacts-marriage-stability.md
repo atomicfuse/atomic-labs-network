@@ -1,24 +1,39 @@
 ---
-title: "Understanding Menodivorce: How Menopause Impacts Marriage Stability"
-description: "Menopause is a natural transition that affects women physically and emotionally, often influencing personal relationships. The concept of \"menodivorce\" suggests menopause might prompt women to reassess their marriages, seeking more meaningful connections as they experience personal growth and empowerment."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T10:11:33+00:00"
-author: "Taylor Winters"
+title: 'Understanding Menodivorce: How Menopause Impacts Marriage Stability'
+description: >-
+  Menopause is a natural transition that affects women physically and
+  emotionally, often influencing personal relationships. The concept of
+  "menodivorce" suggests menopause might prompt women to reassess their
+  marriages, seeking more meaningful connections as they experience personal
+  growth and empowerment.
+type: standard
+status: published
+publishDate: '2025-12-18T10:11:33+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "understanding-menodivorce-how-menopause-impacts-marriage-stability"
+  - Lifestyle
+slug: understanding-menodivorce-how-menopause-impacts-marriage-stability
 reading_time: 3
-source_url: "https://womendivision.com/understanding-menodivorce-how-menopause-impacts-marriage-stability/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/understanding-menodivorce-how-menopause-impacts-marriage-stability/
+imported_from: wordpress
 wp_original_id: 30865
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/understanding-menodivorce-how-menopause-impacts-marriage-stability.webp
 seo:
-  canonical: "https://womendivision.com/understanding-menodivorce-how-menopause-impacts-marriage-stability/"
-  og_title: "Understanding Menodivorce: How Menopause Impacts Marriage Stability - Women Division"
-  og_description: "Menopause is a natural transition that affects women physically and emotionally, often influencing personal relationships. The concept of \"menodivorce\" suggests menopause might prompt women to reassess their marriages, seeking more meaningful connections as they experience personal growth and empowerment."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/12/make_file-9.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/understanding-menodivorce-how-menopause-impacts-marriage-stability/
+  og_title: >-
+    Understanding Menodivorce: How Menopause Impacts Marriage Stability - Women
+    Division
+  og_description: >-
+    Menopause is a natural transition that affects women physically and
+    emotionally, often influencing personal relationships. The concept of
+    "menodivorce" suggests menopause might prompt women to reassess their
+    marriages, seeking more meaningful connections as they experience personal
+    growth and empowerment.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/12/make_file-9.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy but falls short on length (576 words vs 800-1200 target) and could better integrate site-specific keywords beyond just Lifestyle."
+quality_note: >-
+  Well-written article with good tone and accuracy but falls short on length
+  (576 words vs 800-1200 target) and could better integrate site-specific
+  keywords beyond just Lifestyle.
+image_alt: >-
+  Middle-aged woman in morning light reflecting on change while a partner figure
+  fades in the background.
 ---
 
 Menopause is a natural biological transition that all women experience, typically occurring between the ages of 45 and 55. This significant life stage brings numerous changes, both physically and emotionally, that can have profound impacts on personal relationships. One evolving topic of interest is the concept of "menodivorce," suggesting that menopause might influence women to reconsider their marriages.
