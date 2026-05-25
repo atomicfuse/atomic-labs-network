@@ -1,24 +1,38 @@
 ---
-title: "Butch Vig Discusses Garbage&#8217;s New Album and Last Spokane Show"
-description: "Garbage, known for their innovative blend of alternative rock and electronic music, continues to evolve with their latest album. Drummer and producer Butch Vig shares insights into their creative process, highlighting the band's collaborative spirit and musical versatility."
-type: "standard"
-status: "published"
-publishDate: "2025-10-16T09:13:31+00:00"
-author: "Taylor Anderson"
+title: Butch Vig Discusses Garbage&#8217;s New Album and Last Spokane Show
+description: >-
+  Garbage, known for their innovative blend of alternative rock and electronic
+  music, continues to evolve with their latest album. Drummer and producer Butch
+  Vig shares insights into their creative process, highlighting the band's
+  collaborative spirit and musical versatility.
+type: standard
+status: published
+publishDate: '2025-10-16T09:13:31+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "butch-vig-discusses-garbages-new-album-and-last-spokane-show"
+  - Music
+slug: butch-vig-discusses-garbages-new-album-and-last-spokane-show
 reading_time: 3
-source_url: "https://popnsnap.com/butch-vig-discusses-garbages-new-album-and-last-spokane-show/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/butch-vig-discusses-garbages-new-album-and-last-spokane-show/
+imported_from: wordpress
 wp_original_id: 543
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/butch-vig-discusses-garbages-new-album-and-last-spokane-show.webp
 seo:
-  canonical: "https://popnsnap.com/butch-vig-discusses-garbages-new-album-and-last-spokane-show/"
-  og_title: "Butch Vig Discusses Garbage's New Album and Last Spokane Show - Pop N&#039; Snap"
-  og_description: "Garbage, known for their innovative blend of alternative rock and electronic music, continues to evolve with their latest album. Drummer and producer Butch Vig shares insights into their creative process, highlighting the band's collaborative spirit and musical versatility."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/10/make_file-1-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/butch-vig-discusses-garbages-new-album-and-last-spokane-show/
+  og_title: >-
+    Butch Vig Discusses Garbage's New Album and Last Spokane Show - Pop N&#039;
+    Snap
+  og_description: >-
+    Garbage, known for their innovative blend of alternative rock and electronic
+    music, continues to evolve with their latest album. Drummer and producer
+    Butch Vig shares insights into their creative process, highlighting the
+    band's collaborative spirit and musical versatility.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/10/make_file-1-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: 'Moody recording studio with drums, mixing console, and glowing synth equipment'
 ---
 
 Garbage, an iconic band known for its unique blend of alternative rock and electronic music, continues to captivate audiences with their dynamic sound. In a recent interview, Butch Vig, the band's drummer and a celebrated producer, shared insights into their latest album and the creative journey behind it. Vig, renowned for his work with Nirvana and Smashing Pumpkins, brings a wealth of experience to Garbage, contributing to their ever-evolving musical style.
