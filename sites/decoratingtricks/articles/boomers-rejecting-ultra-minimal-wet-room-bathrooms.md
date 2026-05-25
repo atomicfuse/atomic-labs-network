@@ -20,7 +20,7 @@ source_url: >-
   https://www.housedigest.com/2178564/boomers-cant-stand-bathroom-trend-wet-room-look/
 source_item_id: 6a1420a916f23264031d7dae
 generated_by: claude
-featuredImage: /assets/images/decoratingtricks-general-article.webp
+featuredImage: /assets/images/boomers-rejecting-ultra-minimal-wet-room-bathrooms.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   length and relies heavily on vague 'according to reports' without specific
   sources.
 reading_time: 3
+image_alt: >-
+  Warm modern bathroom with wood details, textured towels, and an older
+  homeowner near a vanity.
 ---
 ## The Great Bathroom Divide: When Modern Meets Traditional
 
