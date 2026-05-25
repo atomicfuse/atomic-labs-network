@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.popsci.com/environment/blue-galapagos-octopus/'
 source_item_id: 6a13fce316f23264031d7bcf
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/golf-ball-sized-blue-octopus-discovered-galapagos-deep-sea.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   Engaging article with good tone and factual content, but significantly under
   target word count at 543 words versus 800-1200 range.
 reading_time: 3
+image_alt: Tiny blue octopus on a dim deep-sea floor under a soft research light
 ---
 ## Tiny Blue Wonder from the Deep
 
