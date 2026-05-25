@@ -1,25 +1,34 @@
 ---
-title: "Dua Lipa Stuns in Sheer Chanel Dress on Red Carpet"
-description: "Dua Lipa captivated audiences at the Berlinale International Film Festival with her stunning Chanel ensemble, highlighting her status as a fashion icon. Her blend of classic elegance with modern flair drew global admiration and solidified her influence in the fashion industry."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T10:39:32+00:00"
-author: "Taylor Anderson"
+title: Dua Lipa Stuns in Sheer Chanel Dress on Red Carpet
+description: >-
+  Dua Lipa captivated audiences at the Berlinale International Film Festival
+  with her stunning Chanel ensemble, highlighting her status as a fashion icon.
+  Her blend of classic elegance with modern flair drew global admiration and
+  solidified her influence in the fashion industry.
+type: standard
+status: published
+publishDate: '2026-02-16T10:39:32+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "dua-lipa-stuns-in-sheer-chanel-dress-on-red-carpet"
+  - Celebrities
+  - Fashion
+slug: dua-lipa-stuns-in-sheer-chanel-dress-on-red-carpet
 reading_time: 3
-source_url: "https://popnsnap.com/dua-lipa-stuns-in-sheer-chanel-dress-on-red-carpet/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/dua-lipa-stuns-in-sheer-chanel-dress-on-red-carpet/'
+imported_from: wordpress
 wp_original_id: 736
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/dua-lipa-stuns-in-sheer-chanel-dress-on-red-carpet.webp
 seo:
-  canonical: "https://popnsnap.com/dua-lipa-stuns-in-sheer-chanel-dress-on-red-carpet/"
-  og_title: "Dua Lipa Stuns in Sheer Chanel Dress on Red Carpet - Pop N&#039; Snap"
-  og_description: "Dua Lipa captivated audiences at the Berlinale International Film Festival with her stunning Chanel ensemble, highlighting her status as a fashion icon. Her blend of classic elegance with modern flair drew global admiration and solidified her influence in the fashion industry."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/02/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/dua-lipa-stuns-in-sheer-chanel-dress-on-red-carpet/'
+  og_title: Dua Lipa Stuns in Sheer Chanel Dress on Red Carpet - Pop N&#039; Snap
+  og_description: >-
+    Dua Lipa captivated audiences at the Berlinale International Film Festival
+    with her stunning Chanel ensemble, highlighting her status as a fashion
+    icon. Her blend of classic elegance with modern flair drew global admiration
+    and solidified her influence in the fashion industry.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/02/make_file-4.jpeg'
+  twitter_card: summary_large_image
+image_alt: Glamorous woman in a sheer black couture gown poses on a cinematic red carpet.
 ---
 
 Dua Lipa recently captured global attention with her stunning appearance at the Berlinale International Film Festival. The pop sensation graced the event, showcasing her unique style and fashion-forward sensibilities, drawing admiration and headlines worldwide.
