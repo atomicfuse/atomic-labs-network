@@ -1,24 +1,31 @@
 ---
-title: "Why Women Need More Iron and Top Iron-Rich Foods"
-description: "Iron is vital for women's health due to higher needs from menstruation and pregnancy. Eating iron-rich foods and enhancing absorption ensures proper levels, preventing deficiencies."
-type: "standard"
-status: "published"
-publishDate: "2025-06-19T04:53:23+00:00"
-author: "Taylor Winters"
+title: Why Women Need More Iron and Top Iron-Rich Foods
+description: >-
+  Iron is vital for women's health due to higher needs from menstruation and
+  pregnancy. Eating iron-rich foods and enhancing absorption ensures proper
+  levels, preventing deficiencies.
+type: standard
+status: published
+publishDate: '2025-06-19T04:53:23+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "why-women-need-more-iron-and-top-iron-rich-foods"
+  - Lifestyle
+slug: why-women-need-more-iron-and-top-iron-rich-foods
 reading_time: 3
-source_url: "https://womendivision.com/why-women-need-more-iron-and-top-iron-rich-foods/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/why-women-need-more-iron-and-top-iron-rich-foods/'
+imported_from: wordpress
 wp_original_id: 30672
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/why-women-need-more-iron-and-top-iron-rich-foods.webp
 seo:
-  canonical: "https://womendivision.com/why-women-need-more-iron-and-top-iron-rich-foods/"
-  og_title: "Why Women Need More Iron and Top Iron-Rich Foods - Women Division"
-  og_description: "Iron is vital for women's health due to higher needs from menstruation and pregnancy. Eating iron-rich foods and enhancing absorption ensures proper levels, preventing deficiencies. Understanding iron's role helps women maintain health and vitality."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/06/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/why-women-need-more-iron-and-top-iron-rich-foods/'
+  og_title: Why Women Need More Iron and Top Iron-Rich Foods - Women Division
+  og_description: >-
+    Iron is vital for women's health due to higher needs from menstruation and
+    pregnancy. Eating iron-rich foods and enhancing absorption ensures proper
+    levels, preventing deficiencies. Understanding iron's role helps women
+    maintain health and vitality.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/06/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "The article provides accurate health information with an appropriate tone but falls significantly short of the target word count and lacks strong SEO optimization."
+quality_note: >-
+  The article provides accurate health information with an appropriate tone but
+  falls significantly short of the target word count and lacks strong SEO
+  optimization.
+image_alt: >-
+  Women sharing a bright meal with leafy greens, lentils, seeds, lean protein,
+  and citrus
 ---
 
 Iron plays a crucial role in maintaining overall health, with women requiring more of this vital nutrient than men. Understanding why this disparity exists and identifying iron-rich foods can help women maintain optimal health and prevent iron deficiency.
