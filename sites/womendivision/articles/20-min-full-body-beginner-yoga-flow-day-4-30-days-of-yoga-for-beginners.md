@@ -1,23 +1,40 @@
 ---
-title: "20 Min Full Body Beginner Yoga Flow (Day 4) 30 Days of Yoga For Beginners"
-description: "A guided 20-minute full body beginner yoga flow for Day 4 of the 30 Days of Yoga for Beginners challenge, introducing new poses like chair, high lunge, and warrior 2 while focusing on transitioning between postures and pairing movement with breath."
-type: "standard"
-status: "published"
-publishDate: "2025-03-10T08:05:47+00:00"
-author: "admin"
+title: 20 Min Full Body Beginner Yoga Flow (Day 4) 30 Days of Yoga For Beginners
+description: >-
+  A guided 20-minute full body beginner yoga flow for Day 4 of the 30 Days of
+  Yoga for Beginners challenge, introducing new poses like chair, high lunge,
+  and warrior 2 while focusing on transitioning between postures and pairing
+  movement with breath.
+type: standard
+status: published
+publishDate: '2025-03-10T08:05:47+00:00'
+author: admin
 tags:
-  - "Yoga"
-slug: "20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners"
+  - Yoga
+slug: 20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners
 reading_time: 3
-source_url: "https://womendivision.com/20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners/
+imported_from: wordpress
 wp_original_id: 28964
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners.webp
 seo:
-  canonical: "https://womendivision.com/20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners/"
-  og_title: "20 Min Full Body Beginner Yoga Flow (Day 4) 30 Days of Yoga For Beginners - Women Division"
-  og_description: "Welcome to this 20 min full body beginner yoga flow for day 4 of the 30 days of yoga for beginners challenge. Today I will guide you through a full body sequence of postures and breath work to continue building your strength, flexibility, balance and body awareness. Today I will guide you through new poses [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/20-min-full-body-beginner-yoga-flow-day-4-30-days-of-yoga-for-beginners/
+  og_title: >-
+    20 Min Full Body Beginner Yoga Flow (Day 4) 30 Days of Yoga For Beginners -
+    Women Division
+  og_description: >-
+    Welcome to this 20 min full body beginner yoga flow for day 4 of the 30 days
+    of yoga for beginners challenge. Today I will guide you through a full body
+    sequence of postures and breath work to continue building your strength,
+    flexibility, balance and body awareness. Today I will guide you through new
+    poses [&hellip;]
+  twitter_card: summary_large_image
+image_alt: >-
+  Beginner yoga practitioner transitioning through a sunlit flow in a calm
+  studio
 ---
 
 Welcome to this 20 min full body beginner yoga flow for day 4 of the 30 days of yoga for beginners challenge. Today I will guide you through a full body sequence of postures and breath work to continue building your strength, flexibility, balance and body awareness.
