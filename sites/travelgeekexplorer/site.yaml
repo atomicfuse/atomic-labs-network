@@ -87,6 +87,8 @@ theme:
     body: Inter
   logo_height: 52
   logo_height_footer: 86
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
 layout:
   hero:
     enabled: true
