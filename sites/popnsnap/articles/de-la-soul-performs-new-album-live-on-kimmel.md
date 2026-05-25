@@ -1,24 +1,34 @@
 ---
-title: "De La Soul Performs New Album Live on Kimmel"
-description: "De La Soul's recent late-night talk show performance highlighted tracks from their latest album, showcasing their innovative hip-hop contributions. The trio's vibrant set captivated audiences, blending new material with classic hits, demonstrating their enduring appeal and influence in the music industry."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T13:07:19+00:00"
-author: "Taylor Anderson"
+title: De La Soul Performs New Album Live on Kimmel
+description: >-
+  De La Soul's recent late-night talk show performance highlighted tracks from
+  their latest album, showcasing their innovative hip-hop contributions. The
+  trio's vibrant set captivated audiences, blending new material with classic
+  hits, demonstrating their enduring appeal and influence in the music industry.
+type: standard
+status: published
+publishDate: '2025-11-27T13:07:19+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "de-la-soul-performs-new-album-live-on-kimmel"
+  - Music
+slug: de-la-soul-performs-new-album-live-on-kimmel
 reading_time: 3
-source_url: "https://popnsnap.com/de-la-soul-performs-new-album-live-on-kimmel/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/de-la-soul-performs-new-album-live-on-kimmel/'
+imported_from: wordpress
 wp_original_id: 669
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/de-la-soul-performs-new-album-live-on-kimmel.webp
 seo:
-  canonical: "https://popnsnap.com/de-la-soul-performs-new-album-live-on-kimmel/"
-  og_title: "De La Soul Performs New Album Live on Kimmel - Pop N&#039; Snap"
-  og_description: "De La Soul's recent late-night talk show performance highlighted tracks from their latest album, showcasing their innovative hip-hop contributions. The trio's vibrant set captivated audiences, blending new material with classic hits, demonstrating their enduring appeal and influence in the music industry."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/de-la-soul-performs-new-album-live-on-kimmel/'
+  og_title: De La Soul Performs New Album Live on Kimmel - Pop N&#039; Snap
+  og_description: >-
+    De La Soul's recent late-night talk show performance highlighted tracks from
+    their latest album, showcasing their innovative hip-hop contributions. The
+    trio's vibrant set captivated audiences, blending new material with classic
+    hits, demonstrating their enduring appeal and influence in the music
+    industry.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: Hip-hop trio performs under colorful studio lights on a late-night style stage
 ---
 
 De La Soul, the iconic hip-hop trio, recently graced the stage of a popular late-night talk show, offering a memorable performance that showcased tracks from their latest album. This appearance marks a significant moment for the group, renowned for their innovative contributions to the genre. Fans and new listeners alike were treated to a vibrant set, demonstrating the enduring appeal of their music.
