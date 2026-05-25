@@ -1,23 +1,34 @@
 ---
-title: "Essential Preventive Health Tests for Women in the New Year"
-description: "As the new year begins, women can prioritize their health by understanding key preventive screenings. These tests identify issues early, improving outcomes across areas like breast cancer, cervical health, bone density, cholesterol, blood pressure, diabetes, and colon cancer."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T10:43:29+00:00"
-author: "Taylor Winters"
+title: Essential Preventive Health Tests for Women in the New Year
+description: >-
+  As the new year begins, women can prioritize their health by understanding key
+  preventive screenings. These tests identify issues early, improving outcomes
+  across areas like breast cancer, cervical health, bone density, cholesterol,
+  blood pressure, diabetes, and colon cancer.
+type: standard
+status: review
+publishDate: '2025-12-22T10:43:29+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "essential-preventive-health-tests-for-women-in-the-new-year"
+  - Advice
+slug: essential-preventive-health-tests-for-women-in-the-new-year
 reading_time: 3
-source_url: "https://womendivision.com/essential-preventive-health-tests-for-women-in-the-new-year/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/essential-preventive-health-tests-for-women-in-the-new-year/
+imported_from: wordpress
 wp_original_id: 30868
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/essential-preventive-health-tests-for-women-in-the-new-year.webp
 seo:
-  canonical: "https://womendivision.com/essential-preventive-health-tests-for-women-in-the-new-year/"
-  og_title: "Essential Preventive Health Tests for Women in the New Year - Women Division"
-  og_description: "As the new year begins, women prioritize health by understanding preventive screenings. These tests identify issues early, improving outcomes. Key screenings include mammograms, Pap smears, bone density tests, and checks for cholesterol, blood pressure, diabetes, and colon cancer."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/essential-preventive-health-tests-for-women-in-the-new-year/
+  og_title: Essential Preventive Health Tests for Women in the New Year - Women Division
+  og_description: >-
+    As the new year begins, women prioritize health by understanding preventive
+    screenings. These tests identify issues early, improving outcomes. Key
+    screenings include mammograms, Pap smears, bone density tests, and checks
+    for cholesterol, blood pressure, diabetes, and colon cancer.
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -25,7 +36,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written health advice article with accurate information, but significantly under the target word count at 501 words versus the 800-1200 range."
+quality_note: >-
+  Well-written health advice article with accurate information, but
+  significantly under the target word count at 501 words versus the 800-1200
+  range.
+image_alt: >-
+  Women of different ages discuss preventive health screenings with a clinician
+  in a bright clinic.
 ---
 
 As a new year unfolds, many women consider prioritizing their health. An essential part of this journey involves understanding and undergoing preventive health screenings. These tests are crucial in identifying potential issues before they become serious, allowing for early interventions and better health outcomes.
