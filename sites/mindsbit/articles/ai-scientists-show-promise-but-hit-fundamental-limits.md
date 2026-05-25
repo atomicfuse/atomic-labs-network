@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-ai-scientists-reveal-fundamental-limits.html'
 source_item_id: 6a13fce316f23264031d7bd8
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: /assets/images/ai-scientists-show-promise-but-hit-fundamental-limits.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written tech article with strong keyword relevance and good tone, but
   slightly short at 691 words and title could be more SEO-optimized.
 reading_time: 3
+image_alt: >-
+  Glowing neural jellyfish above lab samples as a scientist validates research
+  findings
 ---
 ## The Rise of AI-Powered Scientific Discovery
 
