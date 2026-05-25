@@ -68,7 +68,7 @@ theme:
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
-    article_hero_meta: "#808080"
+    article_hero_meta: "#FFFFFF"
     feed_title: "#000000"
     feed_desc: "#333333"
     feed_date: "#808080"
@@ -98,7 +98,7 @@ layout:
     enabled: true
     count: 4
   more_on:
-    enabled: true
+    enabled: false
     page_size: 8
   sidebar_topics:
     auto: true
