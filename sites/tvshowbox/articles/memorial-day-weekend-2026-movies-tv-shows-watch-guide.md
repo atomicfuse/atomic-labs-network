@@ -22,7 +22,7 @@ source_url: >-
   https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-memorial-day-2026.html
 source_item_id: 6a13f84e16f23264031d7abb
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/memorial-day-weekend-2026-movies-tv-shows-watch-guide.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   future content and being too short at only 420 words versus the 800-1200
   target.
 reading_time: 2
+image_alt: >-
+  Cozy living room with a glowing screen, popcorn, remotes, and distant
+  fireworks at summer dusk.
 ---
 ## Your Memorial Day Weekend Entertainment Guide
 
