@@ -78,7 +78,7 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: travelswire
-    company: ATL
+    company: null
     vertical: Travel
     status: Live
     site_id: "9021912446684"
@@ -87,7 +87,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-17T12:51:18.702Z
+    last_updated: 2026-05-25T10:26:06.731Z
     created_at: 2026-05-17T12:45:12.446Z
     pages_project: null
     pages_subdomain: null
