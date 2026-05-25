@@ -1,24 +1,33 @@
 ---
-title: "Pearl and The Oysters Announce Monkey Mind Album"
-description: "Pearl & The Oysters announce Monkey Mind, a new Stones Throw album expanding their dreamy psych-pop with warm songwriting, restless themes, and vivid retro-futurist textures."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T10:22:53+00:00"
-author: "Taylor Anderson"
+title: Pearl and The Oysters Announce Monkey Mind Album
+description: >-
+  Pearl & The Oysters announce Monkey Mind, a new Stones Throw album expanding
+  their dreamy psych-pop with warm songwriting, restless themes, and vivid
+  retro-futurist textures.
+type: standard
+status: published
+publishDate: '2026-04-30T10:22:53+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "pearl-and-the-oysters-announce-monkey-mind-album"
+  - Music
+slug: pearl-and-the-oysters-announce-monkey-mind-album
 reading_time: 6
-source_url: "https://popnsnap.com/pearl-and-the-oysters-announce-monkey-mind-album/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/pearl-and-the-oysters-announce-monkey-mind-album/'
+imported_from: wordpress
 wp_original_id: 750
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/pearl-and-the-oysters-announce-monkey-mind-album.webp
 seo:
-  canonical: "https://popnsnap.com/pearl-and-the-oysters-announce-monkey-mind-album/"
-  og_title: "Pearl and The Oysters Announce Monkey Mind Album - Pop N&#039; Snap"
-  og_description: "Pearl & The Oysters announce Monkey Mind, a new Stones Throw album expanding their dreamy psych-pop with warm songwriting, restless themes, and vivid retro-futurist textures."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/pearl-and-the-oysters-announce-monkey-mind-album/'
+  og_title: Pearl and The Oysters Announce Monkey Mind Album - Pop N&#039; Snap
+  og_description: >-
+    Pearl & The Oysters announce Monkey Mind, a new Stones Throw album expanding
+    their dreamy psych-pop with warm songwriting, restless themes, and vivid
+    retro-futurist textures.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Surreal retro-futurist studio with a glowing orb, synth shapes, plants, and
+  dreamy warm light.
 ---
 
 Pearl & The Oysters are preparing a new chapter with Monkey Mind, a fresh album that expands their bright psych-pop universe while keeping their songwriting warm, curious, and deeply human.
