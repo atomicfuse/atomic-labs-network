@@ -1,24 +1,35 @@
 ---
-title: "Top 10 New Christmas Albums for 2025 Holidays"
-description: "As the holiday season approaches, music enthusiasts eagerly await new Christmas albums. This year's diverse lineup includes classic covers and innovative originals, ensuring something for everyone, from traditional carols to modern holiday tunes, enhancing the yuletide experience."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T10:43:33+00:00"
-author: "Taylor Anderson"
+title: Top 10 New Christmas Albums for 2025 Holidays
+description: >-
+  As the holiday season approaches, music enthusiasts eagerly await new
+  Christmas albums. This year's diverse lineup includes classic covers and
+  innovative originals, ensuring something for everyone, from traditional carols
+  to modern holiday tunes, enhancing the yuletide experience.
+type: standard
+status: published
+publishDate: '2025-12-18T10:43:33+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "top-10-new-christmas-albums-for-2025-holidays"
+  - Music
+slug: top-10-new-christmas-albums-for-2025-holidays
 reading_time: 3
-source_url: "https://popnsnap.com/top-10-new-christmas-albums-for-2025-holidays/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/top-10-new-christmas-albums-for-2025-holidays/'
+imported_from: wordpress
 wp_original_id: 703
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/top-10-new-christmas-albums-for-2025-holidays.webp
 seo:
-  canonical: "https://popnsnap.com/top-10-new-christmas-albums-for-2025-holidays/"
-  og_title: "Top 10 New Christmas Albums for 2025 Holidays - Pop N&#039; Snap"
-  og_description: "As the holiday season approaches, music enthusiasts eagerly await new Christmas albums. This year's diverse lineup includes classic covers and innovative originals, ensuring something for everyone, from traditional carols to modern holiday tunes, enhancing the yuletide experience."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/12/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/top-10-new-christmas-albums-for-2025-holidays/'
+  og_title: Top 10 New Christmas Albums for 2025 Holidays - Pop N&#039; Snap
+  og_description: >-
+    As the holiday season approaches, music enthusiasts eagerly await new
+    Christmas albums. This year's diverse lineup includes classic covers and
+    innovative originals, ensuring something for everyone, from traditional
+    carols to modern holiday tunes, enhancing the yuletide experience.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/12/make_file-3.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Festive record player spinning beside a glowing Christmas tree in a cozy
+  holiday room
 ---
 
 As the holiday season approaches, music enthusiasts eagerly anticipate the release of new Christmas albums to bring festive cheer to their celebrations. This year's lineup is packed with diverse offerings, ranging from classic covers to innovative originals, ensuring there's something for everyone. Whether you're a fan of traditional carols or modern holiday tunes, the latest releases promise to enhance your yuletide experience.
