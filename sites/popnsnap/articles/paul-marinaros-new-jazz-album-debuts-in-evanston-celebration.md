@@ -1,24 +1,42 @@
 ---
-title: "Paul Marinaro&#8217;s New Jazz Album Debuts in Evanston Celebration"
-description: "Paul Marinaro, a distinguished jazz vocalist, recently celebrated the release of his new album in Evanston, showcasing his emotive voice and innovative approach to the genre. The event drew jazz enthusiasts and newcomers alike, highlighting Marinaro's impact on contemporary jazz and his continued influence on the genre."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T10:47:31+00:00"
-author: "Taylor Anderson"
+title: Paul Marinaro&#8217;s New Jazz Album Debuts in Evanston Celebration
+description: >-
+  Paul Marinaro, a distinguished jazz vocalist, recently celebrated the release
+  of his new album in Evanston, showcasing his emotive voice and innovative
+  approach to the genre. The event drew jazz enthusiasts and newcomers alike,
+  highlighting Marinaro's impact on contemporary jazz and his continued
+  influence on the genre.
+type: standard
+status: published
+publishDate: '2026-01-26T10:47:31+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "paul-marinaros-new-jazz-album-debuts-in-evanston-celebration"
+  - Music
+slug: paul-marinaros-new-jazz-album-debuts-in-evanston-celebration
 reading_time: 3
-source_url: "https://popnsnap.com/paul-marinaros-new-jazz-album-debuts-in-evanston-celebration/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/paul-marinaros-new-jazz-album-debuts-in-evanston-celebration/
+imported_from: wordpress
 wp_original_id: 720
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/paul-marinaros-new-jazz-album-debuts-in-evanston-celebration.webp
 seo:
-  canonical: "https://popnsnap.com/paul-marinaros-new-jazz-album-debuts-in-evanston-celebration/"
-  og_title: "Paul Marinaro's New Jazz Album Debuts in Evanston Celebration - Pop N&#039; Snap"
-  og_description: "Paul Marinaro, a distinguished jazz vocalist, recently celebrated the release of his new album in Evanston, showcasing his emotive voice and innovative approach. The event drew jazz enthusiasts, highlighting Marinaro's impact on contemporary jazz and his continued influence on the genre."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/paul-marinaros-new-jazz-album-debuts-in-evanston-celebration/
+  og_title: >-
+    Paul Marinaro's New Jazz Album Debuts in Evanston Celebration - Pop N&#039;
+    Snap
+  og_description: >-
+    Paul Marinaro, a distinguished jazz vocalist, recently celebrated the
+    release of his new album in Evanston, showcasing his emotive voice and
+    innovative approach. The event drew jazz enthusiasts, highlighting
+    Marinaro's impact on contemporary jazz and his continued influence on the
+    genre.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Warm jazz club stage with a microphone, audience silhouettes, and moody blue
+  and amber lighting.
 ---
 
 Jazz has an undeniable charm that continues to captivate audiences worldwide. Among the talented musicians contributing to its rich tapestry is Paul Marinaro, a distinguished jazz vocalist whose new album is making waves. Known for his emotive voice and engaging performances, Marinaro's latest work is a testament to his dedication to the craft.
