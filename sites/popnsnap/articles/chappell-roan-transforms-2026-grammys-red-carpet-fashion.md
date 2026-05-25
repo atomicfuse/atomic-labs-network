@@ -1,25 +1,37 @@
 ---
-title: "Chappell Roan Transforms 2026 Grammys Red Carpet Fashion"
-description: "The 2026 Grammy Awards red carpet featured Chappell Roan's innovative fashion, blending vintage and futuristic styles. Her bold look, emphasizing individuality and creativity, challenged traditional norms, inspiring a shift towards more personalized expressions in event fashion."
-type: "standard"
-status: "published"
-publishDate: "2026-02-02T11:40:43+00:00"
-author: "Taylor Anderson"
+title: Chappell Roan Transforms 2026 Grammys Red Carpet Fashion
+description: >-
+  The 2026 Grammy Awards red carpet featured Chappell Roan's innovative fashion,
+  blending vintage and futuristic styles. Her bold look, emphasizing
+  individuality and creativity, challenged traditional norms, inspiring a shift
+  towards more personalized expressions in event fashion.
+type: standard
+status: published
+publishDate: '2026-02-02T11:40:43+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-  - "Music"
-slug: "chappell-roan-transforms-2026-grammys-red-carpet-fashion"
+  - Celebrities
+  - Fashion
+  - Music
+slug: chappell-roan-transforms-2026-grammys-red-carpet-fashion
 reading_time: 3
-source_url: "https://popnsnap.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/'
+imported_from: wordpress
 wp_original_id: 724
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/chappell-roan-transforms-2026-grammys-red-carpet-fashion.webp
 seo:
-  canonical: "https://popnsnap.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/"
-  og_title: "Chappell Roan Transforms 2026 Grammys Red Carpet Fashion - Pop N&#039; Snap"
-  og_description: "The 2026 Grammy Awards red carpet featured Chappell Roan's innovative fashion, blending vintage and futuristic styles. Her bold look, emphasizing individuality and creativity, challenged traditional norms, inspiring a shift towards more personalized expressions in event fashion."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/
+  og_title: Chappell Roan Transforms 2026 Grammys Red Carpet Fashion - Pop N&#039; Snap
+  og_description: >-
+    The 2026 Grammy Awards red carpet featured Chappell Roan's innovative
+    fashion, blending vintage and futuristic styles. Her bold look, emphasizing
+    individuality and creativity, challenged traditional norms, inspiring a
+    shift towards more personalized expressions in event fashion.
+  twitter_card: summary_large_image
+image_alt: >-
+  Avant-garde red carpet fashion blends vintage glamour with futuristic
+  sculptural style.
 ---
 
 The fashion world buzzed with excitement as the 2026 Grammy Awards showcased a stunning red carpet filled with unexpected styles and daring ensembles. Among the standout stars was Chappell Roan, who captivated audiences with an innovative approach to fashion, challenging traditional norms and setting new trends.
