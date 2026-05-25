@@ -1,24 +1,35 @@
 ---
-title: "GQ Bowl 2026 Red Carpet: Fashion Highlights and Awards"
-description: "The annual GQ Bowl combined the thrill of sports with high fashion, featuring a collaboration with Thom Browne. The event attracted celebrities, athletes, and fashion insiders, showcasing innovative designs and setting a new standard for future fashion-sport events."
-type: "standard"
-status: "published"
-publishDate: "2026-02-09T10:33:32+00:00"
-author: "Taylor Anderson"
+title: 'GQ Bowl 2026 Red Carpet: Fashion Highlights and Awards'
+description: >-
+  The annual GQ Bowl combined the thrill of sports with high fashion, featuring
+  a collaboration with Thom Browne. The event attracted celebrities, athletes,
+  and fashion insiders, showcasing innovative designs and setting a new standard
+  for future fashion-sport events.
+type: standard
+status: published
+publishDate: '2026-02-09T10:33:32+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "gq-bowl-2026-red-carpet-fashion-highlights-and-awards"
+  - Celebrities
+  - Fashion
+slug: gq-bowl-2026-red-carpet-fashion-highlights-and-awards
 reading_time: 3
-source_url: "https://popnsnap.com/gq-bowl-2026-red-carpet-fashion-highlights-and-awards/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/gq-bowl-2026-red-carpet-fashion-highlights-and-awards/'
+imported_from: wordpress
 wp_original_id: 728
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/gq-bowl-2026-red-carpet-fashion-highlights-and-awards.webp
 seo:
-  canonical: "https://popnsnap.com/gq-bowl-2026-red-carpet-fashion-highlights-and-awards/"
-  og_title: "GQ Bowl 2026 Red Carpet: Fashion Highlights and Awards - Pop N&#039; Snap"
-  og_description: "The annual GQ Bowl combined the thrill of sports with high fashion, featuring a collaboration with Thom Browne. The event attracted celebrities, athletes, and fashion insiders, showcasing innovative designs and setting a new standard for future fashion-sport events."
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/gq-bowl-2026-red-carpet-fashion-highlights-and-awards/'
+  og_title: 'GQ Bowl 2026 Red Carpet: Fashion Highlights and Awards - Pop N&#039; Snap'
+  og_description: >-
+    The annual GQ Bowl combined the thrill of sports with high fashion,
+    featuring a collaboration with Thom Browne. The event attracted celebrities,
+    athletes, and fashion insiders, showcasing innovative designs and setting a
+    new standard for future fashion-sport events.
+  twitter_card: summary_large_image
+image_alt: >-
+  Red carpet in a stadium tunnel blending high fashion glamour with the energy
+  of sports.
 ---
 
 The annual GQ Bowl, a dazzling convergence of style and sports, was held once again, capturing the attention of fashion enthusiasts and sports fans alike. Hosted by the renowned men's magazine GQ in collaboration with the innovative designer Thom Browne, this year's event was nothing short of spectacular. It combined the thrill of a sports event with the elegance of high fashion, creating a unique experience for all attendees.
