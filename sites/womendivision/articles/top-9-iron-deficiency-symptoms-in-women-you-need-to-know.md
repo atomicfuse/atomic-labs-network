@@ -1,24 +1,34 @@
 ---
-title: "Top 9 Iron Deficiency Symptoms in Women You Need to Know"
-description: "Iron deficiency, often overlooked, affects many women worldwide and can lead to serious health issues. Recognizing symptoms like fatigue, hair loss, and pale skin is crucial for diagnosis and treatment, ensuring better health and quality of life."
-type: "standard"
-status: "published"
-publishDate: "2026-01-22T10:11:36+00:00"
-author: "Taylor Winters"
+title: Top 9 Iron Deficiency Symptoms in Women You Need to Know
+description: >-
+  Iron deficiency, often overlooked, affects many women worldwide and can lead
+  to serious health issues. Recognizing symptoms like fatigue, hair loss, and
+  pale skin is crucial for diagnosis and treatment, ensuring better health and
+  quality of life.
+type: standard
+status: published
+publishDate: '2026-01-22T10:11:36+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "top-9-iron-deficiency-symptoms-in-women-you-need-to-know"
+  - Lifestyle
+slug: top-9-iron-deficiency-symptoms-in-women-you-need-to-know
 reading_time: 3
-source_url: "https://womendivision.com/top-9-iron-deficiency-symptoms-in-women-you-need-to-know/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/top-9-iron-deficiency-symptoms-in-women-you-need-to-know/
+imported_from: wordpress
 wp_original_id: 30916
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/top-9-iron-deficiency-symptoms-in-women-you-need-to-know.webp
 seo:
-  canonical: "https://womendivision.com/top-9-iron-deficiency-symptoms-in-women-you-need-to-know/"
-  og_title: "Top 9 Iron Deficiency Symptoms in Women You Need to Know - Women Division"
-  og_description: "Iron deficiency, often overlooked, affects many women worldwide and can lead to serious health issues. Recognizing symptoms like fatigue, hair loss, and pale skin is crucial for diagnosis and treatment, ensuring better health and quality of life."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/top-9-iron-deficiency-symptoms-in-women-you-need-to-know/
+  og_title: Top 9 Iron Deficiency Symptoms in Women You Need to Know - Women Division
+  og_description: >-
+    Iron deficiency, often overlooked, affects many women worldwide and can lead
+    to serious health issues. Recognizing symptoms like fatigue, hair loss, and
+    pale skin is crucial for diagnosis and treatment, ensuring better health and
+    quality of life.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written health article with good tone and accuracy, but significantly under target word count and could better integrate site's primary keyword themes."
+quality_note: >-
+  Well-written health article with good tone and accuracy, but significantly
+  under target word count and could better integrate site's primary keyword
+  themes.
+image_alt: >-
+  Woman resting by a sunlit window in a calm room, suggesting fatigue and quiet
+  recovery
 ---
 
 Iron deficiency is a common nutritional issue that impacts many women worldwide. Often overlooked, this deficiency can lead to a host of health problems if not addressed in a timely manner. Understanding the signs and symptoms is crucial for maintaining good health and well-being.
