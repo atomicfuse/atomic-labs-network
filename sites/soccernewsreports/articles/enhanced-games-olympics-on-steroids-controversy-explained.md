@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.bbc.com/news/videos/cvgz0w85pd8o'
 source_item_id: 6a14215016f23264031d7de7
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/enhanced-games-olympics-on-steroids-controversy-explained.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
   soccer/football content, which is the primary focus of soccernewsreports,
   significantly impacting its keyword relevance score.
 reading_time: 3
+image_alt: >-
+  Elite athlete in a futuristic arena split by blue and neon light, symbolizing
+  debate over enhanced sports.
 ---
 ## A New Era in Competitive Sports
 
