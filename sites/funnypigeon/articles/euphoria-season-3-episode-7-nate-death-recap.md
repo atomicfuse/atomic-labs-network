@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/euphoria-recap-season-3-episode-7-hbo.html'
 source_item_id: 6a13f84e16f23264031d7aab
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/euphoria-season-3-episode-7-nate-death-recap.webp
 quality_score: 40
 score_breakdown:
   seo_quality: 65
@@ -33,6 +33,9 @@ quality_note: >-
   The article appears to fabricate TV episode details and lacks the entertaining
   tone expected for funnypigeon's audience focused on humor and viral content.
 reading_time: 3
+image_alt: >-
+  Tense neon-lit kitchen scene with a woman on the phone, an overturned chair,
+  and a warm reflection in rainy glass.
 ---
 ## A Death That Wasn't So Shocking
 
