@@ -1,25 +1,36 @@
 ---
-title: "YEONJUN from TXT Responds to Fans&#8217; Most Unrestrained Tweets"
-description: "YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid reactions and humor."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T13:07:34+00:00"
-author: "Taylor Anderson"
+title: YEONJUN from TXT Responds to Fans&#8217; Most Unrestrained Tweets
+description: >-
+  YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid
+  reactions and humor.
+type: standard
+status: published
+publishDate: '2025-11-27T13:07:34+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Influencers"
-  - "Music"
-slug: "yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets"
+  - Celebrities
+  - Influencers
+  - Music
+slug: yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets
 reading_time: 2
-source_url: "https://popnsnap.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/
+imported_from: wordpress
 wp_original_id: 671
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets.webp
 seo:
-  canonical: "https://popnsnap.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/"
-  og_title: "YEONJUN from TXT Responds to Fans' Most Unrestrained Tweets - Pop N&#039; Snap"
-  og_description: "YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid reactions and humor."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/
+  og_title: >-
+    YEONJUN from TXT Responds to Fans' Most Unrestrained Tweets - Pop N&#039;
+    Snap
+  og_description: >-
+    YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid
+    reactions and humor.
+  twitter_card: summary_large_image
+image_alt: >-
+  A stylish pop performer smiles at a glowing phone in a neon-lit studio with
+  abstract message bubbles.
 ---
 
 In an exciting interaction with fans, YEONJUN from the popular K-pop group TXT took on the internet's infamous challenge of reading 'thirst tweets.' These tweets, often filled with humor and admiration, offer a glimpse into the playful relationship between celebrities and their fans.
