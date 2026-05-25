@@ -1,24 +1,32 @@
 ---
-title: "KU Women’s Tips for Men on Big 12 Glass Court"
-description: "The Kansas University women's tennis team shared insights with their male counterparts about competing on the unique glass court at the Big 12, focusing on strategies for visibility, footwork, and mental toughness to improve performance in challenging conditions."
-type: "standard"
-status: "review"
-publishDate: "2026-03-09T10:07:22+00:00"
-author: "Taylor Winters"
+title: KU Women’s Tips for Men on Big 12 Glass Court
+description: >-
+  The Kansas University women's tennis team shared insights with their male
+  counterparts about competing on the unique glass court at the Big 12, focusing
+  on strategies for visibility, footwork, and mental toughness to improve
+  performance in challenging conditions.
+type: standard
+status: review
+publishDate: '2026-03-09T10:07:22+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "ku-womens-tips-for-men-on-big-12-glass-court"
+  - Advice
+slug: ku-womens-tips-for-men-on-big-12-glass-court
 reading_time: 3
-source_url: "https://womendivision.com/ku-womens-tips-for-men-on-big-12-glass-court/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/ku-womens-tips-for-men-on-big-12-glass-court/'
+imported_from: wordpress
 wp_original_id: 30964
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/ku-womens-tips-for-men-on-big-12-glass-court.webp
 seo:
-  canonical: "https://womendivision.com/ku-womens-tips-for-men-on-big-12-glass-court/"
-  og_title: "KU Women's Tips for Men on Big 12 Glass Court - Women Division"
-  og_description: "The Kansas University women's tennis team shared insights with their male counterparts about competing on the unique glass court at the Big 12, focusing on strategies for visibility, footwork, and mental toughness to improve performance in challenging conditions."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/ku-womens-tips-for-men-on-big-12-glass-court/'
+  og_title: KU Women's Tips for Men on Big 12 Glass Court - Women Division
+  og_description: >-
+    The Kansas University women's tennis team shared insights with their male
+    counterparts about competing on the unique glass court at the Big 12,
+    focusing on strategies for visibility, footwork, and mental toughness to
+    improve performance in challenging conditions.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/03/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 28
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: "This tennis-focused article doesn't align with the healthy living site's content focus and appears to contain fabricated information about a glass tennis court that doesn't exist."
+quality_note: >-
+  This tennis-focused article doesn't align with the healthy living site's
+  content focus and appears to contain fabricated information about a glass
+  tennis court that doesn't exist.
+image_alt: >-
+  Collegiate tennis players practice footwork on a reflective glass court under
+  arena lights.
 ---
 
 The Kansas University women's tennis team recently shared insights with their male counterparts about competing on the distinctive glass court at the Big 12. This court, known for its unique surface and challenging conditions, requires specific strategies and adjustments to excel. By leveraging their own experiences, the women provided valuable advice to help the men's team succeed.
