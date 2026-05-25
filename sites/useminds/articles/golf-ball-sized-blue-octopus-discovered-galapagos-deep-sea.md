@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.popsci.com/environment/blue-galapagos-octopus/'
 source_item_id: 6a13fce316f23264031d7bcf
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/golf-ball-sized-blue-octopus-discovered-galapagos-deep-sea.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   short on word count and could benefit from stronger SEO optimization in
   headings.
 reading_time: 3
+image_alt: Tiny blue octopus on a deep-sea floor under soft research lights
 ---
 ## A Brilliant Blue Discovery in the Deep
 
