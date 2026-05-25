@@ -841,7 +841,7 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: gadgetskoala
-    company: ATL
+    company: null
     vertical: Technology & Computing
     status: Staging
     site_id: "9619803022539"
@@ -850,7 +850,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-25T10:36:49.333Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
