@@ -1,24 +1,39 @@
 ---
-title: "Geese Rocks Brooklyn Paramount for Tour Finale Celebration"
-description: "Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie rock band known for their innovative sound and captivating performances. Formed by high school friends, Geese's unique blend of rock and experimental flair sets them apart, garnering industry attention."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T13:10:35+00:00"
-author: "Taylor Anderson"
+title: Geese Rocks Brooklyn Paramount for Tour Finale Celebration
+description: >-
+  Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie
+  rock band known for their innovative sound and captivating performances.
+  Formed by high school friends, Geese's unique blend of rock and experimental
+  flair sets them apart, garnering industry attention.
+type: standard
+status: published
+publishDate: '2025-11-27T13:10:35+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "geese-rocks-brooklyn-paramount-for-tour-finale-celebration"
+  - Music
+slug: geese-rocks-brooklyn-paramount-for-tour-finale-celebration
 reading_time: 3
-source_url: "https://popnsnap.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/
+imported_from: wordpress
 wp_original_id: 684
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/geese-rocks-brooklyn-paramount-for-tour-finale-celebration.webp
 seo:
-  canonical: "https://popnsnap.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/"
-  og_title: "Geese Rocks Brooklyn Paramount for Tour Finale Celebration - Pop N&#039; Snap"
-  og_description: "Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie rock band known for their innovative sound and captivating performances. Formed by high school friends, Geese's unique blend of rock and experimental flair sets them apart, garnering industry attention."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/11/make_file-13.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/
+  og_title: >-
+    Geese Rocks Brooklyn Paramount for Tour Finale Celebration - Pop N&#039;
+    Snap
+  og_description: >-
+    Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie
+    rock band known for their innovative sound and captivating performances.
+    Formed by high school friends, Geese's unique blend of rock and experimental
+    flair sets them apart, garnering industry attention.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-13.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Indie rock band silhouetted on a grand theater stage as a crowd cheers under
+  colorful lights.
 ---
 
 Brooklyn has long been recognized as a vibrant hub for the music industry, continuously nurturing a diverse array of artists and bands. Among these emerging talents, Geese, an indie rock band, has captured the attention of both fans and industry professionals with their innovative sound and engaging performances. This dynamic group represents the essence of the Brooklyn music scene, which thrives on creativity and experimentation.
