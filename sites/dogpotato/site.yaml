@@ -61,7 +61,7 @@ theme:
     accent: "#E14F64"
     background: "#dccbb9"
     secondary: "#24CEC6"
-    text: "#7A7A7A"
+    text: "#575757"
     muted: "#54595F"
     surface: "#f7f7f7"
     border: "#e6e6e6"
