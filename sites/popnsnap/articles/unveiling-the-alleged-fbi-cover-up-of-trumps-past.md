@@ -1,24 +1,33 @@
 ---
-title: "Unveiling the Alleged FBI Cover-Up of Trump&#8217;s Past"
-description: "Explore the claims surrounding Donald Trump's alleged secrets and the FBI's purported involvement in covering them up, as discussed by MeidasTouch host Ben Meiselas."
-type: "standard"
-status: "published"
-publishDate: "2025-05-19T13:26:50+00:00"
-author: "Taylor Anderson"
+title: Unveiling the Alleged FBI Cover-Up of Trump&#8217;s Past
+description: >-
+  Explore the claims surrounding Donald Trump's alleged secrets and the FBI's
+  purported involvement in covering them up, as discussed by MeidasTouch host
+  Ben Meiselas.
+type: standard
+status: published
+publishDate: '2025-05-19T13:26:50+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-slug: "unveiling-the-alleged-fbi-cover-up-of-trumps-past"
+  - Celebrities
+slug: unveiling-the-alleged-fbi-cover-up-of-trumps-past
 reading_time: 2
-source_url: "https://popnsnap.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/'
+imported_from: wordpress
 wp_original_id: 482
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/unveiling-the-alleged-fbi-cover-up-of-trumps-past.webp
 seo:
-  canonical: "https://popnsnap.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/"
-  og_title: "Unveiling the Alleged FBI Cover-Up of Trump's Past - Pop N&#039; Snap"
-  og_description: "Explore the claims surrounding Donald Trump's alleged secrets and the FBI's purported involvement in covering them up, as discussed by MeidasTouch host Ben Meiselas."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-54-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/'
+  og_title: Unveiling the Alleged FBI Cover-Up of Trump's Past - Pop N&#039; Snap
+  og_description: >-
+    Explore the claims surrounding Donald Trump's alleged secrets and the FBI's
+    purported involvement in covering them up, as discussed by MeidasTouch host
+    Ben Meiselas.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-54-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Dim government records room with redacted papers and a blurred silhouette
+  behind frosted glass.
 ---
 
 In recent discussions, the MeidasTouch Network has brought to light some intriguing claims regarding former President Donald Trump. Hosted by Ben Meiselas, the broadcast delved into the alleged connections between Trump and certain FBI affiliates, focusing on individuals like Kash Patel and Dan Bongino. These figures have been linked to a narrative suggesting discomfort when addressing some of Trump's past actions, said to be his biggest nightmare.
