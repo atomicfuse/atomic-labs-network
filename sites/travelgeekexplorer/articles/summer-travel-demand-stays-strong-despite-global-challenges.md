@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://www.afar.com/magazine/where-travelers-are-going-in-summer-2026'
 source_item_id: 6a13fcb916f23264031d7ba8
 generated_by: claude
-featuredImage: /assets/images/travelgeekexplorer-general-article.webp
+featuredImage: >-
+  /assets/images/summer-travel-demand-stays-strong-despite-global-challenges.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   tone, but falls short on length and makes vague claims without specific data
   sources.
 reading_time: 3
+image_alt: >-
+  Travelers walk through a sunlit airport terminal as storm clouds clear
+  outside.
 ---
 ## Travelers Refuse to Stay Home Despite Uncertainty
 
