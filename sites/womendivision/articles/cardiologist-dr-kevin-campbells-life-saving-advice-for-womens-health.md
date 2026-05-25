@@ -1,24 +1,37 @@
 ---
-title: "Cardiologist Dr. Kevin Campbell’s Life-Saving Advice for Women’s Health"
-description: "Understanding heart health is crucial in today's world, where stress and lifestyle choices impact cardiovascular systems. A cardiologist shared insights on preventing heart diseases, emphasizing risk management, adopting healthy lifestyles, and the importance of regular medical check-ups."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T10:03:22+00:00"
-author: "Taylor Winters"
+title: Cardiologist Dr. Kevin Campbell’s Life-Saving Advice for Women’s Health
+description: >-
+  Understanding heart health is crucial in today's world, where stress and
+  lifestyle choices impact cardiovascular systems. A cardiologist shared
+  insights on preventing heart diseases, emphasizing risk management, adopting
+  healthy lifestyles, and the importance of regular medical check-ups.
+type: standard
+status: review
+publishDate: '2026-02-05T10:03:22+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "cardiologist-dr-kevin-campbells-life-saving-advice-for-womens-health"
+  - Lifestyle
+slug: cardiologist-dr-kevin-campbells-life-saving-advice-for-womens-health
 reading_time: 3
-source_url: "https://womendivision.com/cardiologist-dr-kevin-campbells-life-saving-advice-for-womens-health/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/cardiologist-dr-kevin-campbells-life-saving-advice-for-womens-health/
+imported_from: wordpress
 wp_original_id: 30943
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/cardiologist-dr-kevin-campbells-life-saving-advice-for-womens-health.webp
 seo:
-  canonical: "https://womendivision.com/cardiologist-dr-kevin-campbells-life-saving-advice-for-womens-health/"
-  og_title: "Cardiologist Dr. Kevin Campbell's Life-Saving Advice for Women's Health - Women Division"
-  og_description: "Understanding heart health is crucial in today's world, where stress and lifestyle choices impact cardiovascular systems. A cardiologist shared insights on preventing heart diseases, emphasizing risk management, adopting healthy lifestyles, and the importance of regular medical check-ups."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/cardiologist-dr-kevin-campbells-life-saving-advice-for-womens-health/
+  og_title: >-
+    Cardiologist Dr. Kevin Campbell's Life-Saving Advice for Women's Health -
+    Women Division
+  og_description: >-
+    Understanding heart health is crucial in today's world, where stress and
+    lifestyle choices impact cardiovascular systems. A cardiologist shared
+    insights on preventing heart diseases, emphasizing risk management, adopting
+    healthy lifestyles, and the importance of regular medical check-ups.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 61
 score_breakdown:
   seo_quality: 45
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article provides solid health advice but falls short on length (468 words vs 800-1200 target) and SEO optimization, with a generic title that doesn't match the promised specific cardiologist insights."
+quality_note: >-
+  The article provides solid health advice but falls short on length (468 words
+  vs 800-1200 target) and SEO optimization, with a generic title that doesn't
+  match the promised specific cardiologist insights.
+image_alt: >-
+  Woman speaks with a doctor in a calm cardiology exam room with soft
+  heart-monitor light behind them.
 ---
 
 Understanding heart health is crucial in today's fast-paced world, where stress and lifestyle choices can impact our cardiovascular systems. Recently, a prominent cardiologist shared valuable insights on heart health with members of a local women's club, underscoring the importance of proactive measures to prevent heart diseases. This discussion highlighted several strategies that can help individuals lead healthier lives and avoid potential heart-related issues.
