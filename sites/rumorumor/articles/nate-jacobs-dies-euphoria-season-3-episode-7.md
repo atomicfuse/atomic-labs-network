@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/euphoria-does-nate-jacobs-die.html'
 source_item_id: 6a13f84e16f23264031d7aac
 generated_by: claude
-featuredImage: /assets/images/rumorumor-general-article.webp
+featuredImage: /assets/images/nate-jacobs-dies-euphoria-season-3-episode-7.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   it appears to contain significant factual inaccuracies about Euphoria Season 3
   and is too short at 505 words versus the 800-1200 word target.
 reading_time: 3
+image_alt: >-
+  A moody desert at dusk with disturbed sand, a buried shirt, and snake tracks
+  under neon-tinted light.
 ---
 ## Major Character Death Shakes Euphoria Season 3
 
