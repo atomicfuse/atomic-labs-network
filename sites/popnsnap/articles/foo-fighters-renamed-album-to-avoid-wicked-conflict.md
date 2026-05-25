@@ -1,26 +1,33 @@
 ---
-title: "Foo Fighters Renamed Album to Avoid Wicked Conflict"
-description: "Dave Grohl joked that Foo Fighters once considered \"Wicked: For Good\" as an album title, playfully linking the rock band with the blockbuster musical sequel while fans await the group's next chapter."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T09:26:29+00:00"
-author: "Taylor Anderson"
+title: Foo Fighters Renamed Album to Avoid Wicked Conflict
+description: >-
+  Dave Grohl joked that Foo Fighters once considered "Wicked: For Good" as an
+  album title, playfully linking the rock band with the blockbuster musical
+  sequel while fans await the group's next chapter.
+type: standard
+status: published
+publishDate: '2026-05-04T09:26:29+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Music"
-  - "TV &amp; Movies"
-slug: "foo-fighters-renamed-album-to-avoid-wicked-conflict"
+  - Celebrities
+  - Music
+  - TV &amp; Movies
+slug: foo-fighters-renamed-album-to-avoid-wicked-conflict
 reading_time: 6
-source_url: "https://popnsnap.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/'
+imported_from: wordpress
 wp_original_id: 752
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/foo-fighters-renamed-album-to-avoid-wicked-conflict.webp
 seo:
-  canonical: "https://popnsnap.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/"
-  og_title: "Foo Fighters Renamed Album to Avoid Wicked Conflict - Pop N&#039; Snap"
-  og_description: "Dave Grohl joked that Foo Fighters once eyed Wicked: For Good as an album title, playfully linking the rock band with the blockbuster musical sequel while fans await the group’s next chapter."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/'
+  og_title: Foo Fighters Renamed Album to Avoid Wicked Conflict - Pop N&#039; Snap
+  og_description: >-
+    Dave Grohl joked that Foo Fighters once eyed Wicked: For Good as an album
+    title, playfully linking the rock band with the blockbuster musical sequel
+    while fans await the group’s next chapter.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: Rock guitar and drumsticks backstage under emerald and pink theater lights.
 ---
 
 Dave Grohl has turned a potential Foo Fighters album-title mix-up into a playful pop-culture moment. The rock frontman recently joked that the band had considered using the name "Wicked: For Good," only to see the phrase claimed by one of Hollywood's biggest movie musicals. The remark quickly caught attention because it linked two very different entertainment worlds: Foo Fighters' stadium-sized rock legacy and the blockbuster "Wicked" film franchise.
