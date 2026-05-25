@@ -21,7 +21,7 @@ source_url: >-
   https://timesofindia.indiatimes.com/life-style/food-news/chef-pankaj-bhadouria-shares-5-tips-to-make-moong-dal-pakode-extra-crisp-and-less-oily/photostory/131276563.cms
 source_item_id: 6a1421f216f23264031d7e27
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/chef-pankaj-bhadouria-crispy-moong-dal-pakode-tips.webp
 quality_score: 52
 score_breakdown:
   seo_quality: 25
@@ -33,6 +33,9 @@ quality_note: >-
   While well-written about Indian cuisine, this article completely misses the
   site's coffee focus and lacks proper SEO optimization for the target keywords.
 reading_time: 3
+image_alt: >-
+  Golden moong dal pakode with chai and cooking tools on a warm home kitchen
+  counter.
 ---
 ## The Quest for Perfect Pakode
 
