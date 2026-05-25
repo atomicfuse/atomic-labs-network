@@ -1,23 +1,33 @@
 ---
-title: "Pregnant Woman Seeks Advice on Addressing MIL’s Cooking"
-description: "A pregnant woman navigates a sensitive issue with her mother-in-law's cooking preferences, highlighting the importance of effective communication and empathy in family dynamics. Seeking advice online, she aims to address her discomfort respectfully without causing offense."
-type: "standard"
-status: "review"
-publishDate: "2025-12-08T12:15:51+00:00"
-author: "Taylor Winters"
+title: Pregnant Woman Seeks Advice on Addressing MIL’s Cooking
+description: >-
+  A pregnant woman navigates a sensitive issue with her mother-in-law's cooking
+  preferences, highlighting the importance of effective communication and
+  empathy in family dynamics. Seeking advice online, she aims to address her
+  discomfort respectfully without causing offense.
+type: standard
+status: review
+publishDate: '2025-12-08T12:15:51+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "pregnant-woman-seeks-advice-on-addressing-mils-cooking"
+  - Advice
+slug: pregnant-woman-seeks-advice-on-addressing-mils-cooking
 reading_time: 3
-source_url: "https://womendivision.com/pregnant-woman-seeks-advice-on-addressing-mils-cooking/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/pregnant-woman-seeks-advice-on-addressing-mils-cooking/
+imported_from: wordpress
 wp_original_id: 30853
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/pregnant-woman-seeks-advice-on-addressing-mils-cooking.webp
 seo:
-  canonical: "https://womendivision.com/pregnant-woman-seeks-advice-on-addressing-mils-cooking/"
-  og_title: "Pregnant Woman Seeks Advice on Addressing MIL's Cooking - Women Division"
-  og_description: "A pregnant woman navigates a sensitive issue with her mother-in-law's cooking preferences, highlighting the importance of effective communication and empathy in family dynamics. Seeking advice online, she aims to address her discomfort respectfully without causing offense."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/pregnant-woman-seeks-advice-on-addressing-mils-cooking/
+  og_title: Pregnant Woman Seeks Advice on Addressing MIL's Cooking - Women Division
+  og_description: >-
+    A pregnant woman navigates a sensitive issue with her mother-in-law's
+    cooking preferences, highlighting the importance of effective communication
+    and empathy in family dynamics. Seeking advice online, she aims to address
+    her discomfort respectfully without causing offense.
+  twitter_card: summary_large_image
 quality_score: 55
 score_breakdown:
   seo_quality: 45
@@ -25,7 +35,10 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "The article has good tone and factual content but is too short, lacks SEO optimization, and doesn't align well with the site's healthy living focus."
+quality_note: >-
+  The article has good tone and factual content but is too short, lacks SEO
+  optimization, and doesn't align well with the site's healthy living focus.
+image_alt: Pregnant woman in a warm kitchen as an older relative cooks in the background
 ---
 
 Family dynamics can be complex, especially when it involves in-laws and personal preferences. One pregnant woman found herself in such a predicament when she sought advice on how to address a sensitive issue with her mother-in-law. The expectant mother, who is typically easygoing, found herself struggling with her mother-in-law's cooking, which didn't align with her tastes. This common scenario has sparked discussions and offered a glimpse into managing familial relationships delicately.
