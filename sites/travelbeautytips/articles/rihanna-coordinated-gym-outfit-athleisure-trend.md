@@ -19,7 +19,7 @@ source_url: >-
   https://www.glamour.com/story/rihannas-workout-outfit-is-so-good-even-her-gatorade-matches-her-accessories
 source_item_id: 6a0bc42316f23264031d771a
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/rihanna-coordinated-gym-outfit-athleisure-trend.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -32,6 +32,9 @@ quality_note: >-
   travel/beauty focus and relies heavily on unverified 'reports' about celebrity
   styling.
 reading_time: 3
+image_alt: >-
+  Stylish woman in gray athleisure with matching burgundy accessories and drink
+  on a nighttime city street.
 ---
 ## The Art of Intentional Casual Dressing
 
