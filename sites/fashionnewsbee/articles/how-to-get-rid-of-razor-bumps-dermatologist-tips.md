@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.glamour.com/story/how-to-get-rid-of-razor-bumps-fast'
 source_item_id: 6a0bc42316f23264031d7710
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/how-to-get-rid-of-razor-bumps-dermatologist-tips.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 85
@@ -30,6 +30,9 @@ quality_note: >-
   Strong beauty/skincare content with good tone and keyword relevance, but falls
   short on length and has vague sourcing that impacts factual credibility.
 reading_time: 3
+image_alt: >-
+  Spa-like shaving essentials beside a smooth moisturized leg in soft natural
+  bathroom light.
 ---
 ## Understanding Razor Bumps and Why They Occur
 
