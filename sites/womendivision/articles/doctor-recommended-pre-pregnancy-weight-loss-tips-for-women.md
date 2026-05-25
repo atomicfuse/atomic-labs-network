@@ -1,26 +1,35 @@
 ---
-title: "Doctor-Recommended Pre-Pregnancy Weight Loss Tips for Women"
-description: "Safe pre-pregnancy weight loss focuses on gradual progress, balanced nutrition, regular exercise, sleep, and medical guidance to support fertility, hormonal health, and a healthier pregnancy."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:42:17+00:00"
-author: "Taylor Winters"
+title: Doctor-Recommended Pre-Pregnancy Weight Loss Tips for Women
+description: >-
+  Safe pre-pregnancy weight loss focuses on gradual progress, balanced
+  nutrition, regular exercise, sleep, and medical guidance to support fertility,
+  hormonal health, and a healthier pregnancy.
+type: standard
+status: published
+publishDate: '2026-04-30T08:42:17+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Fitness"
-  - "Lifestyle"
-slug: "doctor-recommended-pre-pregnancy-weight-loss-tips-for-women"
+  - Advice
+  - Fitness
+  - Lifestyle
+slug: doctor-recommended-pre-pregnancy-weight-loss-tips-for-women
 reading_time: 7
-source_url: "https://womendivision.com/doctor-recommended-pre-pregnancy-weight-loss-tips-for-women/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/doctor-recommended-pre-pregnancy-weight-loss-tips-for-women/
+imported_from: wordpress
 wp_original_id: 30983
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/doctor-recommended-pre-pregnancy-weight-loss-tips-for-women.webp
 seo:
-  canonical: "https://womendivision.com/doctor-recommended-pre-pregnancy-weight-loss-tips-for-women/"
-  og_title: "Doctor-Recommended Pre-Pregnancy Weight Loss Tips for Women - Women Division"
-  og_description: "Safe pre-pregnancy weight loss focuses on gradual progress, balanced nutrition, regular exercise, sleep, and medical guidance to support fertility, hormonal health, and a healthier pregnancy."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/doctor-recommended-pre-pregnancy-weight-loss-tips-for-women/
+  og_title: Doctor-Recommended Pre-Pregnancy Weight Loss Tips for Women - Women Division
+  og_description: >-
+    Safe pre-pregnancy weight loss focuses on gradual progress, balanced
+    nutrition, regular exercise, sleep, and medical guidance to support
+    fertility, hormonal health, and a healthier pregnancy.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -28,7 +37,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-structured, informative article with good length and medical accuracy, though the title could be more compelling and some headings could better utilize H2/H3 structure for SEO."
+quality_note: >-
+  Well-structured, informative article with good length and medical accuracy,
+  though the title could be more compelling and some headings could better
+  utilize H2/H3 structure for SEO.
+image_alt: Woman in a bright kitchen preparing healthy food with a yoga mat nearby
 ---
 
 Preparing for pregnancy is not only about timing your cycle or taking prenatal vitamins. For many women, reaching a healthier weight before conception can improve fertility, support hormonal balance, and lower pregnancy-related risks. The safest approach is not a crash diet, but a steady plan guided by a doctor, built around nourishing food, regular movement, sleep, and realistic goals.
