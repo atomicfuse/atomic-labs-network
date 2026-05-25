@@ -1,25 +1,36 @@
 ---
-title: "Cynthia Erivo Stuns in Givenchy Lace at Wicked Event"
-description: "Cynthia Erivo dazzled at the \"Wicked For Good\" photocall in Paris with a bold Givenchy outfit. Known for her daring fashion sense, Erivo's ensemble highlighted her vibrant personality, aligning with the innovative spirit of the \"Wicked\" musical."
-type: "standard"
-status: "published"
-publishDate: "2025-11-10T10:25:39+00:00"
-author: "Taylor Anderson"
+title: Cynthia Erivo Stuns in Givenchy Lace at Wicked Event
+description: >-
+  Cynthia Erivo dazzled at the "Wicked For Good" photocall in Paris with a bold
+  Givenchy outfit. Known for her daring fashion sense, Erivo's ensemble
+  highlighted her vibrant personality, aligning with the innovative spirit of
+  the "Wicked" musical.
+type: standard
+status: published
+publishDate: '2025-11-10T10:25:39+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "cynthia-erivo-stuns-in-givenchy-lace-at-wicked-event"
+  - Celebrities
+  - Fashion
+slug: cynthia-erivo-stuns-in-givenchy-lace-at-wicked-event
 reading_time: 4
-source_url: "https://popnsnap.com/cynthia-erivo-stuns-in-givenchy-lace-at-wicked-event/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/cynthia-erivo-stuns-in-givenchy-lace-at-wicked-event/'
+imported_from: wordpress
 wp_original_id: 554
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/cynthia-erivo-stuns-in-givenchy-lace-at-wicked-event.webp
 seo:
-  canonical: "https://popnsnap.com/cynthia-erivo-stuns-in-givenchy-lace-at-wicked-event/"
-  og_title: "Cynthia Erivo Stuns in Givenchy Lace at Wicked Event - Pop N&#039; Snap"
-  og_description: "Cynthia Erivo dazzled at the \"Wicked For Good\" photocall in Paris with a bold Givenchy outfit. Known for her daring fashion sense, Erivo's ensemble highlighted her vibrant personality, aligning with the innovative spirit of the \"Wicked\" musical."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/11/make_file-4-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/cynthia-erivo-stuns-in-givenchy-lace-at-wicked-event/'
+  og_title: Cynthia Erivo Stuns in Givenchy Lace at Wicked Event - Pop N&#039; Snap
+  og_description: >-
+    Cynthia Erivo dazzled at the "Wicked For Good" photocall in Paris with a
+    bold Givenchy outfit. Known for her daring fashion sense, Erivo's ensemble
+    highlighted her vibrant personality, aligning with the innovative spirit of
+    the "Wicked" musical.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-4-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Avant-garde performer in black lace poses under emerald and rose lights at a
+  Parisian photocall.
 ---
 
 Cynthia Erivo, the acclaimed actress and singer, recently made a striking appearance at the "Wicked For Good" photocall in Paris. Known for her bold fashion choices, Erivo once again captivated the audience with her unique style. Her outfit for the event was a stunning creation by the renowned fashion house, Givenchy. This event celebrated the musical "Wicked," which continues to enchant audiences worldwide with its imaginative storytelling and memorable music.
