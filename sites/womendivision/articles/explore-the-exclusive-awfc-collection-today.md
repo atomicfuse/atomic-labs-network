@@ -1,24 +1,32 @@
 ---
-title: "Explore the Exclusive AWFC Collection Today"
-description: "Arsenal Women FC has launched a new retail collection celebrating the team's heritage and catering to diverse fans. Featuring jerseys, hoodies, and accessories, the collection emphasizes quality, style, and sustainability, aiming to strengthen community bonds and support environmental values."
-type: "standard"
-status: "review"
-publishDate: "2025-05-08T06:39:30+00:00"
-author: "Taylor Winters"
+title: Explore the Exclusive AWFC Collection Today
+description: >-
+  Arsenal Women FC has launched a new retail collection celebrating the team's
+  heritage and catering to diverse fans. Featuring jerseys, hoodies, and
+  accessories, the collection emphasizes quality, style, and sustainability,
+  aiming to strengthen community bonds and support environmental values.
+type: standard
+status: review
+publishDate: '2025-05-08T06:39:30+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "explore-the-exclusive-awfc-collection-today"
+  - Fashion
+slug: explore-the-exclusive-awfc-collection-today
 reading_time: 3
-source_url: "https://womendivision.com/explore-the-exclusive-awfc-collection-today/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/explore-the-exclusive-awfc-collection-today/'
+imported_from: wordpress
 wp_original_id: 30648
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/explore-the-exclusive-awfc-collection-today.webp
 seo:
-  canonical: "https://womendivision.com/explore-the-exclusive-awfc-collection-today/"
-  og_title: "Explore the Exclusive AWFC Collection Today - Women Division"
-  og_description: "Arsenal Women FC has launched a new retail collection celebrating the team's heritage and catering to diverse fans. Featuring jerseys, hoodies, and accessories, the collection emphasizes quality, style, and sustainability, aiming to strengthen community bonds and support environmental values."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/explore-the-exclusive-awfc-collection-today/'
+  og_title: Explore the Exclusive AWFC Collection Today - Women Division
+  og_description: >-
+    Arsenal Women FC has launched a new retail collection celebrating the team's
+    heritage and catering to diverse fans. Featuring jerseys, hoodies, and
+    accessories, the collection emphasizes quality, style, and sustainability,
+    aiming to strengthen community bonds and support environmental values.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 70
   keyword_relevance: 20
-quality_note: "Article is well-written but completely off-topic for a healthy living site, focusing on Arsenal Women's FC merchandise instead of fitness, wellness, or lifestyle content."
+quality_note: >-
+  Article is well-written but completely off-topic for a healthy living site,
+  focusing on Arsenal Women's FC merchandise instead of fitness, wellness, or
+  lifestyle content.
+image_alt: Diverse fans in red-and-white sportswear gather in a sunlit stadium concourse.
 ---
 
 Arsenal Women Football Club, known for its outstanding achievements on the field, has taken an exciting step off the field by launching a new retail collection. This collection is designed not only to celebrate the team's rich heritage but also to cater to the diverse fan base that supports them. With a focus on quality and style, the new merchandise offers something for every fan, whether they are looking for casual wear or something to sport at the next big match.
