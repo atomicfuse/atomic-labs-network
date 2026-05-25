@@ -1,24 +1,34 @@
 ---
-title: "Discover Happiness: Embrace the Trad Wife Lifestyle Today"
-description: "In a modern world of evolving gender roles, some women embrace the \"trad wife\" lifestyle, focusing on homemaking, child-rearing, and supporting their husbands. This choice emphasizes family values and personal fulfillment while sparking both interest and controversy."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T10:05:30+00:00"
-author: "Taylor Winters"
+title: 'Discover Happiness: Embrace the Trad Wife Lifestyle Today'
+description: >-
+  In a modern world of evolving gender roles, some women embrace the "trad wife"
+  lifestyle, focusing on homemaking, child-rearing, and supporting their
+  husbands. This choice emphasizes family values and personal fulfillment while
+  sparking both interest and controversy.
+type: standard
+status: review
+publishDate: '2026-01-29T10:05:30+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "discover-happiness-embrace-the-trad-wife-lifestyle-today"
+  - Lifestyle
+slug: discover-happiness-embrace-the-trad-wife-lifestyle-today
 reading_time: 3
-source_url: "https://womendivision.com/discover-happiness-embrace-the-trad-wife-lifestyle-today/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/discover-happiness-embrace-the-trad-wife-lifestyle-today/
+imported_from: wordpress
 wp_original_id: 30939
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/discover-happiness-embrace-the-trad-wife-lifestyle-today.webp
 seo:
-  canonical: "https://womendivision.com/discover-happiness-embrace-the-trad-wife-lifestyle-today/"
-  og_title: "Discover Happiness: Embrace the Trad Wife Lifestyle Today - Women Division"
-  og_description: "In a modern world of evolving gender roles, some women embrace the \"trad wife\" lifestyle, focusing on homemaking, child-rearing, and supporting their husbands. This choice emphasizes family values and personal fulfillment while sparking both interest and controversy."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/01/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/discover-happiness-embrace-the-trad-wife-lifestyle-today/
+  og_title: 'Discover Happiness: Embrace the Trad Wife Lifestyle Today - Women Division'
+  og_description: >-
+    In a modern world of evolving gender roles, some women embrace the "trad
+    wife" lifestyle, focusing on homemaking, child-rearing, and supporting their
+    husbands. This choice emphasizes family values and personal fulfillment
+    while sparking both interest and controversy.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/01/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,14 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "While the article maintains a conversational tone and presents balanced perspectives, it falls short on content length (549 words vs 800-1200 target) and doesn't align well with the site's healthy living focus, covering lifestyle topics tangentially rather than core wellness themes."
+quality_note: >-
+  While the article maintains a conversational tone and presents balanced
+  perspectives, it falls short on content length (549 words vs 800-1200 target)
+  and doesn't align well with the site's healthy living focus, covering
+  lifestyle topics tangentially rather than core wellness themes.
+image_alt: >-
+  A woman sets a family table in a warm kitchen with a modern city visible
+  through the window.
 ---
 
 In a modern world where gender roles are constantly evolving, some women are opting to embrace traditional lifestyles known as "trad wives". These women choose to fulfill roles reminiscent of the 1950s housewife, focusing on homemaking, child-rearing, and supporting their husbands. This lifestyle choice, though sometimes controversial, is gaining attention for its emphasis on family values and personal fulfillment.
