@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-hess-northwest-pacific.html'
 source_item_id: 6a13fce316f23264031d7bce
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: >-
+  /assets/images/scientists-hunt-secrets-pacific-lost-volcanic-world-hess-rise.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   though slightly under target word count and could benefit from stronger SEO
   optimization.
 reading_time: 3
+image_alt: >-
+  Research vessel at night above a glowing underwater volcanic plateau in the
+  North Pacific.
 ---
 ## A Geological Cold Case Reopened
 
