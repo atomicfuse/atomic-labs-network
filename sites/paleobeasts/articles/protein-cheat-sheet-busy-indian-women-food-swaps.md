@@ -22,7 +22,7 @@ source_url: >-
   https://www.hindustantimes.com/lifestyle/health/fitness-coach-shares-the-ultimate-protein-cheat-sheet-for-busy-indian-women-trying-to-stay-healthy-101779013870652.html
 source_item_id: 6a14209016f23264031d7da5
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/protein-cheat-sheet-busy-indian-women-food-swaps.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   significantly short of the target word count, though it provides useful
   nutrition information.
 reading_time: 3
+image_alt: >-
+  High-protein Indian meal prep spread on a bright kitchen counter with a woman
+  packing lunch nearby.
 ---
 ## The Protein Gap in Traditional Indian Meals
 
