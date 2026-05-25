@@ -1,25 +1,41 @@
 ---
-title: "Jacob Elordi&#8217;s Bold Style Evolution at Wuthering Heights Press Tour"
-description: "Jacob Elordi captivated attendees at the Los Angeles premiere of \"Wuthering Heights\" with a sophisticated Chanel ensemble, blending classic elegance with contemporary flair. His daring style choices continue to influence men's fashion, encouraging individuality and breaking traditional norms."
-type: "standard"
-status: "published"
-publishDate: "2026-01-29T10:43:26+00:00"
-author: "Taylor Anderson"
+title: Jacob Elordi&#8217;s Bold Style Evolution at Wuthering Heights Press Tour
+description: >-
+  Jacob Elordi captivated attendees at the Los Angeles premiere of "Wuthering
+  Heights" with a sophisticated Chanel ensemble, blending classic elegance with
+  contemporary flair. His daring style choices continue to influence men's
+  fashion, encouraging individuality and breaking traditional norms.
+type: standard
+status: published
+publishDate: '2026-01-29T10:43:26+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "jacob-elordis-bold-style-evolution-at-wuthering-heights-press-tour"
+  - Celebrities
+  - Fashion
+slug: jacob-elordis-bold-style-evolution-at-wuthering-heights-press-tour
 reading_time: 3
-source_url: "https://popnsnap.com/jacob-elordis-bold-style-evolution-at-wuthering-heights-press-tour/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/jacob-elordis-bold-style-evolution-at-wuthering-heights-press-tour/
+imported_from: wordpress
 wp_original_id: 722
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/jacob-elordis-bold-style-evolution-at-wuthering-heights-press-tour.webp
 seo:
-  canonical: "https://popnsnap.com/jacob-elordis-bold-style-evolution-at-wuthering-heights-press-tour/"
-  og_title: "Jacob Elordi's Bold Style Evolution at Wuthering Heights Press Tour - Pop N&#039; Snap"
-  og_description: "Jacob Elordi captivated attendees at the Los Angeles premiere of \"Wuthering Heights\" with a sophisticated Chanel ensemble, blending classic elegance with contemporary flair. His daring style choices continue to influence men's fashion, encouraging individuality and breaking traditional norms."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/jacob-elordis-bold-style-evolution-at-wuthering-heights-press-tour/
+  og_title: >-
+    Jacob Elordi's Bold Style Evolution at Wuthering Heights Press Tour - Pop
+    N&#039; Snap
+  og_description: >-
+    Jacob Elordi captivated attendees at the Los Angeles premiere of "Wuthering
+    Heights" with a sophisticated Chanel ensemble, blending classic elegance
+    with contemporary flair. His daring style choices continue to influence
+    men's fashion, encouraging individuality and breaking traditional norms.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish young actor on a moody red carpet in a bold tailored black-and-white
+  ensemble.
 ---
 
 Stepping into the spotlight at a prestigious event, Jacob Elordi made a striking appearance at the Los Angeles photocall premiere of "Wuthering Heights." With his impeccable fashion sense, the "Euphoria" star captivated fashion enthusiasts and critics alike. Known for his daring style choices, Elordi once again demonstrated his ability to merge classic elegance with contemporary flair.
