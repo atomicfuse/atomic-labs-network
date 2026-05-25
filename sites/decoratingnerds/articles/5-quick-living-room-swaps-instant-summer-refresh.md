@@ -19,7 +19,7 @@ source_url: >-
   https://www.thecoolist.com/designers-say-these-5-living-room-swaps-deliver-a-summer-refresh-in-just-an-afternoon-spoiler-no-furniture-moved/
 source_item_id: 6a1420a916f23264031d7dad
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: /assets/images/5-quick-living-room-swaps-instant-summer-refresh.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   heavily on vague 'reports' and 'according to designers' without specific
   attribution.
 reading_time: 3
+image_alt: >-
+  Airy summer living room with pale linens, flatweave rug, fresh flowers, and
+  soft daylight
 ---
 ## Transform Your Living Room for Summer Without Moving Furniture
 
