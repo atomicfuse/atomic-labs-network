@@ -1,24 +1,34 @@
 ---
-title: "Dawn Staley’s Key Advice for Lady Vols Coach Kim Caldwell"
-description: "The University of Tennessee's Lady Vols basketball team is gearing up for a crucial game against South Carolina Gamecocks. Under Coach Kellie Harper's leadership, their strong defense will be key as fans eagerly anticipate this high-stakes matchup."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T10:05:37+00:00"
-author: "Taylor Winters"
+title: Dawn Staley’s Key Advice for Lady Vols Coach Kim Caldwell
+description: >-
+  The University of Tennessee's Lady Vols basketball team is gearing up for a
+  crucial game against South Carolina Gamecocks. Under Coach Kellie Harper's
+  leadership, their strong defense will be key as fans eagerly anticipate this
+  high-stakes matchup.
+type: standard
+status: review
+publishDate: '2026-02-09T10:05:37+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "dawn-staleys-key-advice-for-lady-vols-coach-kim-caldwell"
+  - Lifestyle
+slug: dawn-staleys-key-advice-for-lady-vols-coach-kim-caldwell
 reading_time: 3
-source_url: "https://womendivision.com/dawn-staleys-key-advice-for-lady-vols-coach-kim-caldwell/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/dawn-staleys-key-advice-for-lady-vols-coach-kim-caldwell/
+imported_from: wordpress
 wp_original_id: 30945
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/dawn-staleys-key-advice-for-lady-vols-coach-kim-caldwell.webp
 seo:
-  canonical: "https://womendivision.com/dawn-staleys-key-advice-for-lady-vols-coach-kim-caldwell/"
-  og_title: "Dawn Staley's Key Advice for Lady Vols Coach Kim Caldwell - Women Division"
-  og_description: "The University of Tennessee's Lady Vols basketball team is gearing up for a crucial game against South Carolina Gamecocks. Under Coach Kellie Harper's leadership, their strong defense will be key. Fans eagerly anticipate this high-stakes matchup."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/02/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/dawn-staleys-key-advice-for-lady-vols-coach-kim-caldwell/
+  og_title: Dawn Staley's Key Advice for Lady Vols Coach Kim Caldwell - Women Division
+  og_description: >-
+    The University of Tennessee's Lady Vols basketball team is gearing up for a
+    crucial game against South Carolina Gamecocks. Under Coach Kellie Harper's
+    leadership, their strong defense will be key. Fans eagerly anticipate this
+    high-stakes matchup.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/02/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 20
-quality_note: "Article is about college basketball coaching rather than healthy living topics, with poor SEO optimization and minimal relevance to the site's focus areas of beauty, fitness, lifestyle advice, and wellness."
+quality_note: >-
+  Article is about college basketball coaching rather than healthy living
+  topics, with poor SEO optimization and minimal relevance to the site's focus
+  areas of beauty, fitness, lifestyle advice, and wellness.
+image_alt: >-
+  Two women’s basketball coaches confer courtside as players practice defensive
+  drills in a packed arena.
 ---
 
 The University of Tennessee's Lady Vols basketball team is preparing for a highly anticipated matchup against the formidable South Carolina Gamecocks. This game is set to be a defining moment in the season, as both teams have shown remarkable performances on the court. The Lady Vols aim to leverage their strengths and counter the strategies of South Carolina's well-coached team.
