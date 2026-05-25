@@ -1,24 +1,39 @@
 ---
-title: "Exploring Florida Women’s Impact on Social Change with Kimberly Voss"
-description: "Exploring women's transformative role in Florida's history, the Matheson History Museum exhibit highlights significant contributions to social change, emphasizing education, health, and media advocacy. Historian Kimberly Voss provides insights into past achievements that inspire future social equality efforts."
-type: "standard"
-status: "review"
-publishDate: "2025-09-18T04:55:35+00:00"
-author: "Taylor Winters"
+title: Exploring Florida Women’s Impact on Social Change with Kimberly Voss
+description: >-
+  Exploring women's transformative role in Florida's history, the Matheson
+  History Museum exhibit highlights significant contributions to social change,
+  emphasizing education, health, and media advocacy. Historian Kimberly Voss
+  provides insights into past achievements that inspire future social equality
+  efforts.
+type: standard
+status: review
+publishDate: '2025-09-18T04:55:35+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "exploring-florida-womens-impact-on-social-change-with-kimberly-voss"
+  - Advice
+slug: exploring-florida-womens-impact-on-social-change-with-kimberly-voss
 reading_time: 3
-source_url: "https://womendivision.com/exploring-florida-womens-impact-on-social-change-with-kimberly-voss/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/exploring-florida-womens-impact-on-social-change-with-kimberly-voss/
+imported_from: wordpress
 wp_original_id: 30776
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-florida-womens-impact-on-social-change-with-kimberly-voss.webp
 seo:
-  canonical: "https://womendivision.com/exploring-florida-womens-impact-on-social-change-with-kimberly-voss/"
-  og_title: "Exploring Florida Women's Impact on Social Change with Kimberly Voss - Women Division"
-  og_description: "Exploring women's transformative role in Florida's history, the Matheson History Museum exhibit highlights significant contributions to social change, emphasizing education, health, and media advocacy. Historian Kimberly Voss provides insights into past achievements that inspire future social equality efforts."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/09/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/exploring-florida-womens-impact-on-social-change-with-kimberly-voss/
+  og_title: >-
+    Exploring Florida Women's Impact on Social Change with Kimberly Voss - Women
+    Division
+  og_description: >-
+    Exploring women's transformative role in Florida's history, the Matheson
+    History Museum exhibit highlights significant contributions to social
+    change, emphasizing education, health, and media advocacy. Historian
+    Kimberly Voss provides insights into past achievements that inspire future
+    social equality efforts.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/09/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "Well-written article about women's history that maintains an informative tone, but lacks alignment with the site's healthy living focus and primary keywords like fitness, beauty, and wellness."
+quality_note: >-
+  Well-written article about women's history that maintains an informative tone,
+  but lacks alignment with the site's healthy living focus and primary keywords
+  like fitness, beauty, and wellness.
+image_alt: >-
+  Archival objects in a museum gallery symbolize Florida women’s contributions
+  to social change.
 ---
 
 Exploring the transformative role of women in Florida's history offers an enriching perspective on societal progress. The Matheson History Museum in Gainesville, Florida, is showcasing an enlightening exhibit titled "Florida Women: Advice and Social Change," featuring insights from renowned author and historian Kimberly Voss. This exhibit delves into the significant contributions women have made to the state's cultural and social evolution.
