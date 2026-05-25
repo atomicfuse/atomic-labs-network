@@ -20,7 +20,7 @@ source_url: >-
   https://www.thecoolist.com/designers-say-these-5-living-room-swaps-deliver-a-summer-refresh-in-just-an-afternoon-spoiler-no-furniture-moved/
 source_item_id: 6a1420a916f23264031d7dad
 generated_by: claude
-featuredImage: /assets/images/decoratingtricks-general-article.webp
+featuredImage: /assets/images/5-living-room-swaps-summer-refresh-one-afternoon.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short on content length and contains vague references to 'reports' and 'design
   professionals' without specific attribution.
 reading_time: 3
+image_alt: >-
+  Airy cream living room with light textiles, flatweave rug, fresh flowers, and
+  warm summer afternoon light.
 ---
 ## Why Your Living Room Needs a Summer Reset
 
