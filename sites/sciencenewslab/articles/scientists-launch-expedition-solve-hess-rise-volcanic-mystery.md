@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-hess-northwest-pacific.html'
 source_item_id: 6a13fce316f23264031d7bce
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: >-
+  /assets/images/scientists-launch-expedition-solve-hess-rise-volcanic-mystery.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   significantly under target word count at 656 words instead of the 800-1200
   range.
 reading_time: 3
+image_alt: >-
+  Research vessel at dawn above a subtly glowing underwater volcanic plateau in
+  the North Pacific
 ---
 ## A Geological Cold Case Reopens
 
