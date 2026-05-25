@@ -1,23 +1,31 @@
 ---
-title: "Patiala Conman Groom Arrested for Defrauding Women"
-description: "A man from Patiala posed as a groom to scam multiple women for financial gain, using social media and matrimonial sites to deceive victims with false promises of marriage before being arrested by Punjab authorities."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T10:01:32+00:00"
-author: "Taylor Winters"
+title: Patiala Conman Groom Arrested for Defrauding Women
+description: >-
+  A man from Patiala posed as a groom to scam multiple women for financial gain,
+  using social media and matrimonial sites to deceive victims with false
+  promises of marriage before being arrested by Punjab authorities.
+type: standard
+status: review
+publishDate: '2026-01-12T10:01:32+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "patiala-conman-groom-arrested-for-defrauding-women"
+  - Advice
+slug: patiala-conman-groom-arrested-for-defrauding-women
 reading_time: 3
-source_url: "https://womendivision.com/patiala-conman-groom-arrested-for-defrauding-women/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/patiala-conman-groom-arrested-for-defrauding-women/'
+imported_from: wordpress
 wp_original_id: 30887
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/patiala-conman-groom-arrested-for-defrauding-women.webp
 seo:
-  canonical: "https://womendivision.com/patiala-conman-groom-arrested-for-defrauding-women/"
-  og_title: "Patiala Conman Groom Arrested for Defrauding Women - Women Division"
-  og_description: "A man from Patiala posed as a groom to scam women for financial gain, promising marriage to maintain a luxurious lifestyle. Using social media and matrimonial sites, he deceived victims, leading to his arrest and ongoing legal proceedings."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/patiala-conman-groom-arrested-for-defrauding-women/
+  og_title: Patiala Conman Groom Arrested for Defrauding Women - Women Division
+  og_description: >-
+    A man from Patiala posed as a groom to scam women for financial gain,
+    promising marriage to maintain a luxurious lifestyle. Using social media and
+    matrimonial sites, he deceived victims, leading to his arrest and ongoing
+    legal proceedings.
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 25
@@ -25,7 +33,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This crime news article is completely misaligned with the site's healthy living focus and target audience, despite being factually sound and reasonably well-structured."
+quality_note: >-
+  This crime news article is completely misaligned with the site's healthy
+  living focus and target audience, despite being factually sound and reasonably
+  well-structured.
+image_alt: >-
+  Handcuffs and a smartphone suggest an investigation into a matrimonial fraud
+  arrest.
 ---
 
 A recent case in Punjab has shed light on a concerning scam involving a man from Patiala who allegedly posed as a groom to deceive multiple women for financial gain. This individual's fraudulent activities were aimed at supporting a luxurious lifestyle, misleading victims with false promises of marriage.
