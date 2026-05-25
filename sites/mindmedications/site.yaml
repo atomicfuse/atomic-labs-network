@@ -73,7 +73,7 @@ theme:
     feed_date: "#808080"
     prose_heading: "#000000"
     prose_body: "#262626"
-    category_header_text: "#A8C5A0"
+    category_header_text: "#ffffff"
     subscribe_heading: "#1a1a2e"
     footer_text: "#FFFFFF"
     footer_heading: "#ffffff"
