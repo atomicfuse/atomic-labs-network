@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://fox8.com/video/parenting-tips-nurturing-now-thriving-later/11589254/'
 source_item_id: 6a1421f216f23264031d7e21
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/simple-daily-habits-build-child-confidence.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,7 @@ quality_note: >-
   Well-written parenting content with good keyword alignment, but falls short on
   length and uses vague sourcing that weakens credibility.
 reading_time: 3
+image_alt: 'Parent encourages a child during a small everyday task in a warm, sunlit home.'
 ---
 ## The Power of Present-Moment Nurturing
 
