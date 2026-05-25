@@ -64,7 +64,7 @@ theme:
     text: "#575757"
     muted: "#54595F"
     surface: "#f7f7f7"
-    border: "#e6e6e6"
+    border: "#f1edea"
     heading: "#54595F"
     link: "#24CEC6"
     link_hover: "#E14F64"
