@@ -1,24 +1,35 @@
 ---
-title: "Top 5 Health Issues for Moms Over 30 and Prevention Tips"
-description: "As women enter their 30s, their health needs evolve, requiring more attention. Cardiovascular and diabetes risks increase, while bone health and reproductive issues become concerns. Mental wellness is crucial, and preventive care helps manage these challenges effectively for a fulfilling life."
-type: "standard"
-status: "published"
-publishDate: "2025-05-12T05:53:23+00:00"
-author: "Taylor Winters"
+title: Top 5 Health Issues for Moms Over 30 and Prevention Tips
+description: >-
+  As women enter their 30s, their health needs evolve, requiring more attention.
+  Cardiovascular and diabetes risks increase, while bone health and reproductive
+  issues become concerns. Mental wellness is crucial, and preventive care helps
+  manage these challenges effectively for a fulfilling life.
+type: standard
+status: published
+publishDate: '2025-05-12T05:53:23+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "top-5-health-issues-for-moms-over-30-and-prevention-tips"
+  - Lifestyle
+slug: top-5-health-issues-for-moms-over-30-and-prevention-tips
 reading_time: 3
-source_url: "https://womendivision.com/top-5-health-issues-for-moms-over-30-and-prevention-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/top-5-health-issues-for-moms-over-30-and-prevention-tips/
+imported_from: wordpress
 wp_original_id: 30650
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/top-5-health-issues-for-moms-over-30-and-prevention-tips.webp
 seo:
-  canonical: "https://womendivision.com/top-5-health-issues-for-moms-over-30-and-prevention-tips/"
-  og_title: "Top 5 Health Issues for Moms Over 30 and Prevention Tips - Women Division"
-  og_description: "As women enter their 30s, their health needs evolve, requiring more attention. Cardiovascular and diabetes risks increase, while bone health and reproductive issues become concerns. Mental wellness is crucial, and preventive care helps manage these challenges effectively for a fulfilling life."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/top-5-health-issues-for-moms-over-30-and-prevention-tips/
+  og_title: Top 5 Health Issues for Moms Over 30 and Prevention Tips - Women Division
+  og_description: >-
+    As women enter their 30s, their health needs evolve, requiring more
+    attention. Cardiovascular and diabetes risks increase, while bone health and
+    reproductive issues become concerns. Mental wellness is crucial, and
+    preventive care helps manage these challenges effectively for a fulfilling
+    life.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/05/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 454 words versus the 800-1200 goal."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 454 words versus the 800-1200 goal.
+image_alt: >-
+  Mother in soft morning light surrounded by subtle wellness and prevention cues
+  at home
 ---
 
 As women enter their 30s, their health needs and risks often evolve, requiring more attention and care. This life stage may bring about various health challenges that can affect daily life and long-term well-being. Understanding these common health issues and taking proactive measures can significantly enhance quality of life for women over 30.
