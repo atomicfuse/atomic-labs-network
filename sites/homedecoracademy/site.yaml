@@ -53,32 +53,35 @@ brief:
 theme:
   base: modern
   colors:
-    primary: "#6EC1E4"
-    secondary: "#54595F"
-    accent: "#61CE70"
-    background: "#FFFFFF"
-    text: "#7A7A7A"
-    muted: "#bdbdbd"
-    surface: "#f7f7f7"
-    border: "#e6e6e6"
-    heading: "#7A7A7A"
-    link: "#6EC1E4"
-    link_hover: "#61CE70"
-    footer_bg: "#54595F"
+    primary: "#7c2d12"
+    accent: "#ea580c"
+    background: "#fffbeb"
+    secondary: "#1c1917"
+    text: "#1c1917"
+    muted: "#78716c"
+    surface: "#fef3c7"
+    border: "#d6d3d1"
+    heading: "#1c1917"
+    link: "#7c2d12"
+    link_hover: "#ea580c"
+    nav_link: "#ffffff"
+    nav_link_hover: "#ea580c"
+    footer_bg: "#1c1917"
+    must_reads_bg: "#1c1917"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    must_reads_bg: "#54595F"
     article_hero_title: "#ffffff"
-    article_hero_meta: "#bdbdbd"
-    feed_title: "#7A7A7A"
-    feed_desc: "#959595"
-    feed_date: "#bdbdbd"
-    category_header_text: "#1a1a1a"
-    prose_heading: "#7A7A7A"
-    prose_body: "#8e8e8e"
-    footer_text: "#9ca3af"
+    article_hero_meta: "#78716c"
+    feed_title: "#1c1917"
+    feed_desc: "#1c1917"
+    feed_date: "#78716c"
+    prose_heading: "#1c1917"
+    prose_body: "#292524"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#7c2d12"
+    footer_text: "#a8a29e"
     footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
+    footer_link: "#a8a29e"
     footer_link_hover: "#ffffff"
   fonts:
     heading: Poppins
@@ -86,6 +89,8 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   footer_logo: /assets/logo-footer.png
+  logo_height: 52
+  logo_height_footer: 78
 layout:
   hero:
     enabled: true
@@ -93,6 +98,12 @@ layout:
   must_reads:
     enabled: true
     count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
   sidebar_topics:
     auto: true
     explicit: []
