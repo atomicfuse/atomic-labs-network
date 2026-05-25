@@ -1,24 +1,37 @@
 ---
-title: "Exploring D’Angelo&#8217;s Impactful Last Albums in Music History"
-description: "D'Angelo's fourth album marked a pivotal moment in his career with its blend of soul, R&B, and funk, solidifying his status as a transformative figure and inspiring future generations in the music industry."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T11:01:37+00:00"
-author: "Taylor Anderson"
+title: Exploring D’Angelo&#8217;s Impactful Last Albums in Music History
+description: >-
+  D'Angelo's fourth album marked a pivotal moment in his career with its blend
+  of soul, R&B, and funk, solidifying his status as a transformative figure and
+  inspiring future generations in the music industry.
+type: standard
+status: published
+publishDate: '2025-12-04T11:01:37+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "exploring-dangelos-impactful-last-albums-in-music-history"
+  - Music
+slug: exploring-dangelos-impactful-last-albums-in-music-history
 reading_time: 3
-source_url: "https://popnsnap.com/exploring-dangelos-impactful-last-albums-in-music-history/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/exploring-dangelos-impactful-last-albums-in-music-history/
+imported_from: wordpress
 wp_original_id: 695
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/exploring-dangelos-impactful-last-albums-in-music-history.webp
 seo:
-  canonical: "https://popnsnap.com/exploring-dangelos-impactful-last-albums-in-music-history/"
-  og_title: "Exploring D’Angelo's Impactful Last Albums in Music History - Pop N&#039; Snap"
-  og_description: "D'Angelo's fourth album marked a pivotal moment in his career with its blend of soul, R&B, and funk, solidifying his status as a transformative figure and inspiring future generations in the music industry."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/exploring-dangelos-impactful-last-albums-in-music-history/
+  og_title: >-
+    Exploring D’Angelo's Impactful Last Albums in Music History - Pop N&#039;
+    Snap
+  og_description: >-
+    D'Angelo's fourth album marked a pivotal moment in his career with its blend
+    of soul, R&B, and funk, solidifying his status as a transformative figure
+    and inspiring future generations in the music industry.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Moody recording studio with a vintage microphone, vinyl records, and warm
+  colored light
 ---
 
 D'Angelo's influence on modern music is profound, particularly through his fourth album, which marked a significant moment in his career and the music industry. This album, notable for its blend of soul, R&B, and funk, demonstrated D'Angelo's artistic evolution and solidified his status as a transformative figure in contemporary music.
