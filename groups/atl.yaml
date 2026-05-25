@@ -1,1 +1,129 @@
 name: ATL
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
+scripts:
+  head:
+    - id: header
+      src: https://client.us-east.adsnx.com/js/widget.js
+  body_start: []
+  body_end: []
+scripts_vars: {}
+ads_config:
+  interstitial: true
+  interstitial_config:
+    script_url: ""
+    script_inline: |-
+      <div id="widget-1"></div>
+      <script src="https://client.w.digikube.com/atl.widget.js"></script>-
+      <script>
+          window._atl_loadWidget("widget-1", {
+              feedid: "cWFVUOzU8",
+              auth: "Vtg4LZ44FO2l",
+              qs: "g_umk=all&subid=102201&extcid=0&bundle_url=portal&muid=[IFA]&count=6&obj_id=0"
+          }, "vsm", {
+              qs: "g_umk=all&g_lo=3&g_mcol=2&g_by=1&g_imgrt=43&g_title=You may like:"
+          });
+      </script>
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: custom
+      max_per_session: 3
+    page_types:
+      - all
+    close_delay_seconds: 3
+    device: both
+    exclude_pages: []
+  layout: standard
+  ad_placements:
+    - id: block1
+      position: sidebar
+      device: desktop
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      code: |-
+        <div id="widget1" style='background-color:#fcfbf7'></div>
+        <script>
+            _sf_loadWidget("widget1", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+        </script>
+    - id: block2
+      position: above-content
+      device: mobile
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      code: |-
+        <div id="widget2" style='background-color:#fcfbf7'></div>
+        <script>
+            _sf_loadWidget("widget2", {qs: "g_lo=v&layout=vsm&count=1&epid=tU7PTkPnV&auth=Vtg4LZ44FO2l&keywords=auto&subid=1000&obj_id=0"});
+        </script>
+ads_txt:
+  - "# NGC Digital Websites #"
+  - ownerdomain=ngcdigital.io
+  - "#outbrain"
+  - outbrain.com, 00bd0383feaf83753aef29b9565e898a06, DIRECT
+  - "openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand"
+  - contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
+  - "aps.amazon.com, 3965, RESELLER #instream video by outbrain"
+  - "freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain"
+  - "freewheel.tv, 1133073, RESELLER #instream video by outbrain"
+  - "sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2 #outbrain_all formats"
+  - rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+  - "sharethrough.com, uDlHlVKG, RESELLER, d53b998a7bd4ecd2 #outbrain_video"
+  - "Media.net, 8CU33YS38, RESELLER # all formats"
+  - appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+  - "smartadserver.com, 3820, RESELLER # Premium Video Demand"
+  - "video.unrulymedia.com, 367782854, RESELLER # Premium video demand from Outbrain"
+  - "indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain"
+  - "pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain"
+  - "improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain"
+  - "freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain"
+  - "smaato.com, 1100048704, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain"
+  - "contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium video demand from Outbrain"
+  - "google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain"
+theme: {}
+legal: {}
