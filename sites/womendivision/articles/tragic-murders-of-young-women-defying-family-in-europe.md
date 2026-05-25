@@ -1,24 +1,34 @@
 ---
-title: "Tragic Murders of Young Women Defying Family in Europe"
-description: "Honor-based violence in Europe affects young women embracing Western lifestyles, often due to cultural tensions within families. Efforts to combat this include legislation, education, and support services to raise awareness and provide resources for victims."
-type: "standard"
-status: "review"
-publishDate: "2025-12-11T10:09:37+00:00"
-author: "Taylor Winters"
+title: Tragic Murders of Young Women Defying Family in Europe
+description: >-
+  Honor-based violence in Europe affects young women embracing Western
+  lifestyles, often due to cultural tensions within families. Efforts to combat
+  this include legislation, education, and support services to raise awareness
+  and provide resources for victims.
+type: standard
+status: review
+publishDate: '2025-12-11T10:09:37+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "tragic-murders-of-young-women-defying-family-in-europe"
+  - Lifestyle
+slug: tragic-murders-of-young-women-defying-family-in-europe
 reading_time: 3
-source_url: "https://womendivision.com/tragic-murders-of-young-women-defying-family-in-europe/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/tragic-murders-of-young-women-defying-family-in-europe/
+imported_from: wordpress
 wp_original_id: 30855
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/tragic-murders-of-young-women-defying-family-in-europe.webp
 seo:
-  canonical: "https://womendivision.com/tragic-murders-of-young-women-defying-family-in-europe/"
-  og_title: "Tragic Murders of Young Women Defying Family in Europe - Women Division"
-  og_description: "Honor-based violence in Europe affects young women embracing Western lifestyles, often due to cultural tensions within families. Efforts to combat this include legislation, education, and support services to raise awareness and provide resources for victims."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/tragic-murders-of-young-women-defying-family-in-europe/
+  og_title: Tragic Murders of Young Women Defying Family in Europe - Women Division
+  og_description: >-
+    Honor-based violence in Europe affects young women embracing Western
+    lifestyles, often due to cultural tensions within families. Efforts to
+    combat this include legislation, education, and support services to raise
+    awareness and provide resources for victims.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 37
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 10
-quality_note: "This article completely misses the site's healthy living focus and positive tone, covering a serious social issue that doesn't align with the beauty, fitness, and lifestyle content expected for this audience."
+quality_note: >-
+  This article completely misses the site's healthy living focus and positive
+  tone, covering a serious social issue that doesn't align with the beauty,
+  fitness, and lifestyle content expected for this audience.
+image_alt: A young woman stands in a dim doorway on a quiet European street at dusk.
 ---
 
 Honor-based violence continues to be a distressing issue in Europe, affecting young women who seek to embrace Western lifestyles. These tragic incidents often stem from cultural tensions within families who struggle to reconcile traditional values with modern societal norms. This article explores the complexities and challenges surrounding honor-related violence in Europe, highlighting key cases and efforts to combat this unsettling phenomenon.
