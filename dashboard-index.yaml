@@ -99,7 +99,7 @@ sites:
     worker_pending_dns: false
   - domain: wineoceans
     company: ATL
-    vertical: ""
+    vertical: Food & Drink
     status: Live
     site_id: "9185817424590"
     exclusivity: null
@@ -138,8 +138,8 @@ sites:
     custom_domain: dogpotato.com
     worker_pending_dns: false
   - domain: womendivision
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Healthy Living
     status: Staging
     site_id: "9619803022413"
     exclusivity: null
@@ -157,8 +157,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: popnsnap
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022462"
     exclusivity: null
@@ -176,8 +176,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: travelbeautytips
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Style & Fashion
     status: Staging
     site_id: "9619803022205"
     exclusivity: null
@@ -195,8 +195,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: funnypigeon
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022198"
     exclusivity: null
@@ -214,8 +214,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: eznutritiontips
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Food & Drink
     status: Staging
     site_id: "9619803022251"
     exclusivity: null
@@ -233,8 +233,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: decoratingmom
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Home & Garden
     status: Staging
     site_id: "9619803022491"
     exclusivity: null
@@ -252,8 +252,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: giantsavings
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Personal Finance
     status: Staging
     site_id: "9619803022375"
     exclusivity: null
@@ -271,8 +271,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: muvizz
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022539"
     exclusivity: null
@@ -290,8 +290,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: mindmedications
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Healthy Living
     status: Staging
     site_id: "9619803022655"
     exclusivity: null
@@ -309,8 +309,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: carsnewsmag
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Automotive
     status: Staging
     site_id: "9619803022781"
     exclusivity: null
@@ -328,8 +328,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: useminds
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Science
     status: Staging
     site_id: "9619803022718"
     exclusivity: null
@@ -347,8 +347,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: sciencenewslab
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Science
     status: Staging
     site_id: "9619803022577"
     exclusivity: null
@@ -366,8 +366,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: yogaterritory
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Healthy Living
     status: Staging
     site_id: "9619803022523"
     exclusivity: null
@@ -385,8 +385,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: medicalnewscorner
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Medical Health
     status: Staging
     site_id: "9619803022833"
     exclusivity: null
@@ -404,8 +404,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: soccernewsreports
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Sports
     status: Staging
     site_id: "9619803022620"
     exclusivity: null
@@ -423,8 +423,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: tvshowbox
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022961"
     exclusivity: null
@@ -442,8 +442,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: gamingnewsalley
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Video Gaming
     status: Staging
     site_id: "9619803022750"
     exclusivity: null
@@ -461,8 +461,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: stroylab
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Sensitive Topics
     status: Staging
     site_id: "9619803022013"
     exclusivity: null
@@ -480,8 +480,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: mindsbit
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Technology & Computing
     status: Staging
     site_id: "9619803022122"
     exclusivity: null
@@ -499,8 +499,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: decoratingtricks
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Home & Garden
     status: Staging
     site_id: "9619803022481"
     exclusivity: null
@@ -518,8 +518,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: homedecoracademy
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Home & Garden
     status: Staging
     site_id: "9619803022576"
     exclusivity: null
@@ -537,8 +537,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: tvshowsmag
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022904"
     exclusivity: null
@@ -556,8 +556,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: gamerinformers
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Video Gaming
     status: Staging
     site_id: "9619803022733"
     exclusivity: null
@@ -575,8 +575,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: coffeeactually
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Food & Drink
     status: Staging
     site_id: "9619803022920"
     exclusivity: null
@@ -594,8 +594,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: fashionnewsbee
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Style & Fashion
     status: Staging
     site_id: "9619803022473"
     exclusivity: null
@@ -613,8 +613,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: gigsfreaks
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022552"
     exclusivity: null
@@ -632,8 +632,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: travelnights
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Travel
     status: Staging
     site_id: "9619803022614"
     exclusivity: null
@@ -651,8 +651,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: decoratingnerds
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Home & Garden
     status: Staging
     site_id: "9619803022476"
     exclusivity: null
@@ -670,8 +670,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: geekystudios
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Science
     status: Staging
     site_id: "9619803022369"
     exclusivity: null
@@ -689,8 +689,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: buzzsoaps
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022634"
     exclusivity: null
@@ -708,8 +708,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: medicalnewsalley
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Medical Health
     status: Staging
     site_id: "9619803022674"
     exclusivity: null
@@ -727,8 +727,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: journeypeaks
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Travel
     status: Staging
     site_id: "9619803022405"
     exclusivity: null
@@ -746,8 +746,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: travelclearly
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Travel
     status: Staging
     site_id: "9619803022813"
     exclusivity: null
@@ -765,8 +765,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: paleobeasts
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Food & Drink
     status: Staging
     site_id: "9619803022267"
     exclusivity: null
@@ -784,8 +784,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: babyparenttrends
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Family and Relationships
     status: Staging
     site_id: "9619803022799"
     exclusivity: null
@@ -803,8 +803,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: rumorumor
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Entertainment
     status: Staging
     site_id: "9619803022121"
     exclusivity: null
@@ -822,8 +822,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: travelgeekexplorer
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Travel
     status: Staging
     site_id: "9619803022535"
     exclusivity: null
@@ -841,8 +841,8 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: gadgetskoala
-    company: null
-    vertical: null
+    company: ATL
+    vertical: Technology & Computing
     status: Staging
     site_id: "9619803022539"
     exclusivity: null
