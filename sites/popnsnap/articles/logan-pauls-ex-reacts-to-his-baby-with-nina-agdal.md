@@ -1,25 +1,34 @@
 ---
-title: "Logan Paul&#8217;s Ex Reacts to His Baby with Nina Agdal"
-description: "Logan Paul's ex-girlfriend has shared insights into what kind of father he might be, sparking public debate as discussions emerge about his potential future as a parent alongside Nina Agdal."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:20:07+00:00"
-author: "Taylor Anderson"
+title: Logan Paul&#8217;s Ex Reacts to His Baby with Nina Agdal
+description: >-
+  Logan Paul's ex-girlfriend has shared insights into what kind of father he
+  might be, sparking public debate as discussions emerge about his potential
+  future as a parent alongside Nina Agdal.
+type: standard
+status: published
+publishDate: '2025-05-13T12:20:07+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Influencers"
-slug: "logan-pauls-ex-reacts-to-his-baby-with-nina-agdal"
+  - Celebrities
+  - Influencers
+slug: logan-pauls-ex-reacts-to-his-baby-with-nina-agdal
 reading_time: 3
-source_url: "https://popnsnap.com/logan-pauls-ex-reacts-to-his-baby-with-nina-agdal/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/logan-pauls-ex-reacts-to-his-baby-with-nina-agdal/'
+imported_from: wordpress
 wp_original_id: 441
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/logan-pauls-ex-reacts-to-his-baby-with-nina-agdal.webp
 seo:
-  canonical: "https://popnsnap.com/logan-pauls-ex-reacts-to-his-baby-with-nina-agdal/"
-  og_title: "Logan Paul's Ex Reacts to His Baby with Nina Agdal - Pop N&#039; Snap"
-  og_description: "Logan Paul, known for his bold persona, is at the center of discussions about his potential future as a parent. Remarks from his ex-girlfriend have sparked debates, adding a new layer to his multifaceted public image."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-35.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/logan-pauls-ex-reacts-to-his-baby-with-nina-agdal/'
+  og_title: Logan Paul's Ex Reacts to His Baby with Nina Agdal - Pop N&#039; Snap
+  og_description: >-
+    Logan Paul, known for his bold persona, is at the center of discussions
+    about his potential future as a parent. Remarks from his ex-girlfriend have
+    sparked debates, adding a new layer to his multifaceted public image.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-35.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Baby shoes in a stylish nursery with silhouetted parents and paparazzi flashes
+  beyond the window.
 ---
 
 Logan Paul, a prominent figure in the entertainment and social media realms, often finds himself at the center of public attention due to his high-profile lifestyle and controversial statements. Recently, discussions have emerged about his potential future as a parent, particularly focusing on remarks from his ex-girlfriend.
