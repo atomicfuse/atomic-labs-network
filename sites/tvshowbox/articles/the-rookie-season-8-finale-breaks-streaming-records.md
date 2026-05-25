@@ -23,7 +23,7 @@ source_url: >-
   https://deadline.com/2026/05/the-rookie-season-8-finale-ratings-viewerhip-2025-26-season-1236915092/
 source_item_id: 6a0be4f216f23264031d7815
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/the-rookie-season-8-finale-breaks-streaming-records.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   inaccuracies including incorrect season number and viewership claims, plus
   below-target word count.
 reading_time: 3
+image_alt: >-
+  Moody living room with TV glow reflecting streaming tiles over a rain-soaked
+  city at night.
 ---
 ## Record-Breaking Numbers for ABC Drama
 
