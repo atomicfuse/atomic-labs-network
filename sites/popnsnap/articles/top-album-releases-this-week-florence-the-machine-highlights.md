@@ -1,24 +1,40 @@
 ---
-title: "Top Album Releases This Week: Florence + The Machine Highlights"
-description: "The UK's vibrant music scene sees new album releases this week, featuring diverse genres like indie rock, pop, electronic, jazz, and country. These albums showcase unique styles and promise to impact the charts, offering something for every music fan."
-type: "standard"
-status: "published"
-publishDate: "2025-10-30T10:17:19+00:00"
-author: "Taylor Anderson"
+title: 'Top Album Releases This Week: Florence + The Machine Highlights'
+description: >-
+  The UK's vibrant music scene sees new album releases this week, featuring
+  diverse genres like indie rock, pop, electronic, jazz, and country. These
+  albums showcase unique styles and promise to impact the charts, offering
+  something for every music fan.
+type: standard
+status: published
+publishDate: '2025-10-30T10:17:19+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "top-album-releases-this-week-florence-the-machine-highlights"
+  - Music
+slug: top-album-releases-this-week-florence-the-machine-highlights
 reading_time: 3
-source_url: "https://popnsnap.com/top-album-releases-this-week-florence-the-machine-highlights/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/top-album-releases-this-week-florence-the-machine-highlights/
+imported_from: wordpress
 wp_original_id: 547
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/top-album-releases-this-week-florence-the-machine-highlights.webp
 seo:
-  canonical: "https://popnsnap.com/top-album-releases-this-week-florence-the-machine-highlights/"
-  og_title: "Top Album Releases This Week: Florence + The Machine Highlights - Pop N&#039; Snap"
-  og_description: "The UK's vibrant music scene sees new album releases this week, featuring diverse genres like indie rock, pop, electronic, jazz, and country. These albums showcase unique styles and promise to impact the charts, offering something for every music fan."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/10/make_file-3-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/top-album-releases-this-week-florence-the-machine-highlights/
+  og_title: >-
+    Top Album Releases This Week: Florence + The Machine Highlights - Pop
+    N&#039; Snap
+  og_description: >-
+    The UK's vibrant music scene sees new album releases this week, featuring
+    diverse genres like indie rock, pop, electronic, jazz, and country. These
+    albums showcase unique styles and promise to impact the charts, offering
+    something for every music fan.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/10/make_file-3-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Moody backstage music scene with instruments, vinyl records, and a vocalist
+  silhouette under colorful stage lights.
 ---
 
 The music scene in the UK is vibrant and ever-evolving, with artists consistently pushing creative boundaries. This week, several new albums are hitting the shelves, showcasing diverse genres and unique styles from both emerging and established musicians. Fans of various music genres are in for a treat as they explore these fresh releases that promise to make an impact on the charts.
