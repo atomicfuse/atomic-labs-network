@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/euphoria-does-nate-jacobs-die.html'
 source_item_id: 6a13f84e16f23264031d7aac
 generated_by: claude
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: /assets/images/euphoria-nate-jacobs-dies-season-3-episode-7.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   contain fabricated information about Euphoria season 3 and is significantly
   under the target word count.
 reading_time: 3
+image_alt: >-
+  A tense young man stands in a dusky desert near disturbed sand and a snake
+  trail.
 ---
 ## Major Character Death Rocks Euphoria Season 3
 
