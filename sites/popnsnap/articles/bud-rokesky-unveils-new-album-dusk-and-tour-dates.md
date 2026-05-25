@@ -1,23 +1,32 @@
 ---
-title: "Bud Rokesky Unveils New Album Dusk and Tour Dates"
-description: "Emerging country artist Bud Rokesky announces his debut album, \"Dusk,\" set to release on March 24, 2023, alongside a live tour starting in Sydney. The album promises soulful melodies and introspective lyrics, offering fans a captivating musical experience."
-type: "standard"
-status: "published"
-publishDate: "2026-02-05T10:35:36+00:00"
-author: "Taylor Anderson"
+title: Bud Rokesky Unveils New Album Dusk and Tour Dates
+description: >-
+  Emerging country artist Bud Rokesky announces his debut album, "Dusk," set to
+  release on March 24, 2023, alongside a live tour starting in Sydney. The album
+  promises soulful melodies and introspective lyrics, offering fans a
+  captivating musical experience.
+type: standard
+status: published
+publishDate: '2026-02-05T10:35:36+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "bud-rokesky-unveils-new-album-dusk-and-tour-dates"
+  - Music
+slug: bud-rokesky-unveils-new-album-dusk-and-tour-dates
 reading_time: 3
-source_url: "https://popnsnap.com/bud-rokesky-unveils-new-album-dusk-and-tour-dates/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/bud-rokesky-unveils-new-album-dusk-and-tour-dates/'
+imported_from: wordpress
 wp_original_id: 726
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/bud-rokesky-unveils-new-album-dusk-and-tour-dates.webp
 seo:
-  canonical: "https://popnsnap.com/bud-rokesky-unveils-new-album-dusk-and-tour-dates/"
-  og_title: "Bud Rokesky Unveils New Album Dusk and Tour Dates - Pop N&#039; Snap"
-  og_description: "Emerging country artist Bud Rokesky announces his debut album, \"Dusk,\" set to release on March 24, 2023, alongside a live tour starting in Sydney. The album promises soulful melodies and introspective lyrics, offering fans a captivating musical experience."
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/bud-rokesky-unveils-new-album-dusk-and-tour-dates/'
+  og_title: Bud Rokesky Unveils New Album Dusk and Tour Dates - Pop N&#039; Snap
+  og_description: >-
+    Emerging country artist Bud Rokesky announces his debut album, "Dusk," set
+    to release on March 24, 2023, alongside a live tour starting in Sydney. The
+    album promises soulful melodies and introspective lyrics, offering fans a
+    captivating musical experience.
+  twitter_card: summary_large_image
+image_alt: Acoustic guitar and microphone on a dusky stage with warm lights and soft haze
 ---
 
 Emerging country artist Bud Rokesky has announced an exciting new chapter in his musical journey with the upcoming release of his debut album, "Dusk." This announcement is coupled with the news of a series of live performances, giving fans across the nation an opportunity to experience his evocative music firsthand.
