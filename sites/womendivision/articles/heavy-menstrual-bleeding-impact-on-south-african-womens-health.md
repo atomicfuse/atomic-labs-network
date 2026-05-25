@@ -1,24 +1,37 @@
 ---
-title: "Heavy Menstrual Bleeding: Impact on South African Women’s Health"
-description: "Menorrhagia, or heavy menstrual bleeding, affects many women globally, disrupting daily life and causing physical and emotional distress. Understanding symptoms and seeking medical advice can help manage the condition, improving quality of life and overall health."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T04:57:47+00:00"
-author: "Taylor Winters"
+title: 'Heavy Menstrual Bleeding: Impact on South African Women’s Health'
+description: >-
+  Menorrhagia, or heavy menstrual bleeding, affects many women globally,
+  disrupting daily life and causing physical and emotional distress.
+  Understanding symptoms and seeking medical advice can help manage the
+  condition, improving quality of life and overall health.
+type: standard
+status: review
+publishDate: '2025-08-14T04:57:47+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "heavy-menstrual-bleeding-impact-on-south-african-womens-health"
+  - Lifestyle
+slug: heavy-menstrual-bleeding-impact-on-south-african-womens-health
 reading_time: 3
-source_url: "https://womendivision.com/heavy-menstrual-bleeding-impact-on-south-african-womens-health/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/heavy-menstrual-bleeding-impact-on-south-african-womens-health/
+imported_from: wordpress
 wp_original_id: 30712
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/heavy-menstrual-bleeding-impact-on-south-african-womens-health.webp
 seo:
-  canonical: "https://womendivision.com/heavy-menstrual-bleeding-impact-on-south-african-womens-health/"
-  og_title: "Heavy Menstrual Bleeding: Impact on South African Women's Health - Women Division"
-  og_description: "Menorrhagia, or heavy menstrual bleeding, affects many women globally, disrupting daily life and causing physical and emotional distress. Understanding symptoms and seeking medical advice can help manage the condition, improving quality of life and overall health."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/heavy-menstrual-bleeding-impact-on-south-african-womens-health/
+  og_title: >-
+    Heavy Menstrual Bleeding: Impact on South African Women's Health - Women
+    Division
+  og_description: >-
+    Menorrhagia, or heavy menstrual bleeding, affects many women globally,
+    disrupting daily life and causing physical and emotional distress.
+    Understanding symptoms and seeking medical advice can help manage the
+    condition, improving quality of life and overall health.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 55
 score_breakdown:
   seo_quality: 25
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 40
-quality_note: "The article is informative and factually accurate but falls short on SEO optimization, content length requirements, and doesn't align well with the site's healthy living focus areas."
+quality_note: >-
+  The article is informative and factually accurate but falls short on SEO
+  optimization, content length requirements, and doesn't align well with the
+  site's healthy living focus areas.
+image_alt: >-
+  South African woman in a calm clinic setting receiving supportive healthcare
+  guidance
 ---
 
 Understanding the complexities of women's health is crucial for addressing various issues that can significantly impact daily life. One such condition is menorrhagia, or heavy menstrual bleeding, which affects many women across the globe, including in South Africa. This disorder can disrupt normal activities, causing both physical discomfort and emotional distress.
