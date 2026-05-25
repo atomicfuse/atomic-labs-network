@@ -1,24 +1,42 @@
 ---
-title: "Ashley Naylor&#8217;s New Album &#8216;Alexandria Sunset&#8217; Exclusive Listening Party"
-description: "Renowned musician Ashley Naylor will host an exclusive listening event in Melbourne for his new album, \"Alexandria Sunset,\" offering fans a unique, immersive musical experience and insights into the creative process behind his anticipated release."
-type: "standard"
-status: "published"
-publishDate: "2025-08-07T06:26:24+00:00"
-author: "Taylor Anderson"
+title: >-
+  Ashley Naylor&#8217;s New Album &#8216;Alexandria Sunset&#8217; Exclusive
+  Listening Party
+description: >-
+  Renowned musician Ashley Naylor will host an exclusive listening event in
+  Melbourne for his new album, "Alexandria Sunset," offering fans a unique,
+  immersive musical experience and insights into the creative process behind his
+  anticipated release.
+type: standard
+status: published
+publishDate: '2025-08-07T06:26:24+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party"
+  - Music
+slug: ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party
 reading_time: 3
-source_url: "https://popnsnap.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/
+imported_from: wordpress
 wp_original_id: 522
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party.webp
 seo:
-  canonical: "https://popnsnap.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/"
-  og_title: "Ashley Naylor's New Album 'Alexandria Sunset' Exclusive Listening Party - Pop N&#039; Snap"
-  og_description: "Renowned musician Ashley Naylor will host an exclusive listening event in Melbourne for his new album, \"Alexandria Sunset,\" offering fans a unique, immersive musical experience and insights into the creative process behind his anticipated release."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/08/make_file-1-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/
+  og_title: >-
+    Ashley Naylor's New Album 'Alexandria Sunset' Exclusive Listening Party -
+    Pop N&#039; Snap
+  og_description: >-
+    Renowned musician Ashley Naylor will host an exclusive listening event in
+    Melbourne for his new album, "Alexandria Sunset," offering fans a unique,
+    immersive musical experience and insights into the creative process behind
+    his anticipated release.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/08/make_file-1-1.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Warm sunset-lit listening room with a turntable and silhouettes gathered for
+  an intimate music event.
 ---
 
 Renowned musician Ashley Naylor is set to captivate fans with an exclusive listening event for his much-anticipated album, "Alexandria Sunset." Scheduled to take place in Melbourne, this event promises a unique and immersive musical journey.
