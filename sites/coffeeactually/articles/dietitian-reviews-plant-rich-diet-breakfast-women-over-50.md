@@ -23,7 +23,7 @@ source_url: >-
   https://www.smh.com.au/lifestyle/health-and-wellness/how-much-do-women-over-50-need-for-breakfast-a-dietitian-tells-20260513-p5zwm6.html
 source_item_id: 6a14208f16f23264031d7d80
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/dietitian-reviews-plant-rich-diet-breakfast-women-over-50.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,9 @@ quality_note: >-
   vs 800-1200 target) and has minimal relevance to coffee-focused content
   despite being tagged with Coffee News.
 reading_time: 3
+image_alt: >-
+  Sunlit plant-rich breakfast with protein foods, seeds, greens, and fitness
+  cues on a kitchen counter.
 ---
 ## Expert Analysis Reveals Breakfast Gap in Otherwise Healthy Diet
 
