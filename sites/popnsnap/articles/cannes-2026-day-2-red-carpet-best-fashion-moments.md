@@ -1,26 +1,35 @@
 ---
-title: "Cannes 2026 Day 2 Red Carpet Best Fashion Moments"
-description: "Cannes Film Festival 2026 day 2 delivered refined red carpet glamour, from sculptural gowns and minimalist styling to sharper menswear and polished beauty moments on the Croisette."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:26:28+00:00"
-author: "Taylor Anderson"
+title: Cannes 2026 Day 2 Red Carpet Best Fashion Moments
+description: >-
+  Cannes Film Festival 2026 day 2 delivered refined red carpet glamour, from
+  sculptural gowns and minimalist styling to sharper menswear and polished
+  beauty moments on the Croisette.
+type: standard
+status: published
+publishDate: '2026-05-14T09:26:28+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-  - "TV &amp; Movies"
-slug: "cannes-2026-day-2-red-carpet-best-fashion-moments"
+  - Celebrities
+  - Fashion
+  - TV &amp; Movies
+slug: cannes-2026-day-2-red-carpet-best-fashion-moments
 reading_time: 7
-source_url: "https://popnsnap.com/cannes-2026-day-2-red-carpet-best-fashion-moments/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/cannes-2026-day-2-red-carpet-best-fashion-moments/'
+imported_from: wordpress
 wp_original_id: 761
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/cannes-2026-day-2-red-carpet-best-fashion-moments.webp
 seo:
-  canonical: "https://popnsnap.com/cannes-2026-day-2-red-carpet-best-fashion-moments/"
-  og_title: "Cannes 2026 Day 2 Red Carpet Best Fashion Moments - Pop N&#039; Snap"
-  og_description: "Cannes Film Festival 2026 day 2 delivered refined red carpet glamour, from sculptural gowns and minimalist styling to sharper menswear and polished beauty moments on the Croisette."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/05/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/cannes-2026-day-2-red-carpet-best-fashion-moments/'
+  og_title: Cannes 2026 Day 2 Red Carpet Best Fashion Moments - Pop N&#039; Snap
+  og_description: >-
+    Cannes Film Festival 2026 day 2 delivered refined red carpet glamour, from
+    sculptural gowns and minimalist styling to sharper menswear and polished
+    beauty moments on the Croisette.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/05/make_file.webp'
+  twitter_card: summary_large_image
+image_alt: >-
+  Elegant festival red carpet with couture gowns, sharp menswear, and soft
+  Riviera evening light.
 ---
 
 The Cannes Film Festival 2026 red carpet moved into day 2 with the kind of glamour only the French Riviera can deliver. From dramatic gowns to precise tailoring, the arrivals turned the Croisette into a global fashion stage. The mood felt polished, cinematic, and confident, with stars, models, and festival guests embracing both classic elegance and modern risk-taking.
