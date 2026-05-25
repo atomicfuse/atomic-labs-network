@@ -1,24 +1,42 @@
 ---
-title: "Legal Guidance Sought by Detained Women at Anti-Genocide Rally for GSOC Complaint Submission"
-description: "In Dublin, a group called 'Mothers Against Genocide' held a peaceful protest that resulted in several arrests, sparking public outcry and prompting legal professionals to offer pro bono assistance to the detained women as they seek to file a GSOC complaint."
-type: "standard"
-status: "published"
-publishDate: "2025-04-03T09:31:34+00:00"
-author: "Taylor Winters"
+title: >-
+  Legal Guidance Sought by Detained Women at Anti-Genocide Rally for GSOC
+  Complaint Submission
+description: >-
+  In Dublin, a group called 'Mothers Against Genocide' held a peaceful protest
+  that resulted in several arrests, sparking public outcry and prompting legal
+  professionals to offer pro bono assistance to the detained women as they seek
+  to file a GSOC complaint.
+type: standard
+status: published
+publishDate: '2025-04-03T09:31:34+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "legal-guidance-sought-by-detained-women-at-anti-genocide-rally-for-gsoc-complaint-submission"
+  - Lifestyle
+slug: >-
+  legal-guidance-sought-by-detained-women-at-anti-genocide-rally-for-gsoc-complaint-submission
 reading_time: 2
-source_url: "https://womendivision.com/legal-guidance-sought-by-detained-women-at-anti-genocide-rally-for-gsoc-complaint-submission/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/legal-guidance-sought-by-detained-women-at-anti-genocide-rally-for-gsoc-complaint-submission/
+imported_from: wordpress
 wp_original_id: 30619
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/legal-guidance-sought-by-detained-women-at-anti-genocide-rally-for-gsoc-complaint-submission.webp
 seo:
-  canonical: "https://womendivision.com/legal-guidance-sought-by-detained-women-at-anti-genocide-rally-for-gsoc-complaint-submission/"
-  og_title: "Legal Guidance Sought by Detained Women at Anti-Genocide Rally for GSOC Complaint Submission - Women Division"
-  og_description: "In Dublin, a group called 'Mothers Against Genocide' protested against genocide peacefully but faced arrests. The situation triggered a public outcry, legal support for the detained mothers, and brought international attention to the issue of genocide. They remain determined to continue their peaceful protests."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/04/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/legal-guidance-sought-by-detained-women-at-anti-genocide-rally-for-gsoc-complaint-submission/
+  og_title: >-
+    Legal Guidance Sought by Detained Women at Anti-Genocide Rally for GSOC
+    Complaint Submission - Women Division
+  og_description: >-
+    In Dublin, a group called 'Mothers Against Genocide' protested against
+    genocide peacefully but faced arrests. The situation triggered a public
+    outcry, legal support for the detained mothers, and brought international
+    attention to the issue of genocide. They remain determined to continue their
+    peaceful protests.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/04/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: Women on a Dublin street receive legal support after a peaceful protest
 ---
 
 On the streets of Dublin, a group of determined mothers raised their voices in protest against genocide. They call themselves 'Mothers Against Genocide.' The peaceful demonstration, however, saw a sudden turn when a number of these mothers were arrested by the police.
