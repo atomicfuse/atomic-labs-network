@@ -1,24 +1,40 @@
 ---
-title: "Hurray For The Riff Raff: New Album and Winter Songwriting Charm"
-description: "Alynda Segarra of Hurray for the Riff Raff captivates with a blend of folk, rock, and Americana. Their new album explores roots and societal themes, promising diverse sounds and powerful storytelling that resonate with identity, resilience, and social change."
-type: "standard"
-status: "published"
-publishDate: "2026-03-19T12:02:09+00:00"
-author: "Taylor Anderson"
+title: 'Hurray For The Riff Raff: New Album and Winter Songwriting Charm'
+description: >-
+  Alynda Segarra of Hurray for the Riff Raff captivates with a blend of folk,
+  rock, and Americana. Their new album explores roots and societal themes,
+  promising diverse sounds and powerful storytelling that resonate with
+  identity, resilience, and social change.
+type: standard
+status: published
+publishDate: '2026-03-19T12:02:09+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "hurray-for-the-riff-raff-new-album-and-winter-songwriting-charm"
+  - Music
+slug: hurray-for-the-riff-raff-new-album-and-winter-songwriting-charm
 reading_time: 4
-source_url: "https://popnsnap.com/hurray-for-the-riff-raff-new-album-and-winter-songwriting-charm/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/hurray-for-the-riff-raff-new-album-and-winter-songwriting-charm/
+imported_from: wordpress
 wp_original_id: 745
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/hurray-for-the-riff-raff-new-album-and-winter-songwriting-charm.webp
 seo:
-  canonical: "https://popnsnap.com/hurray-for-the-riff-raff-new-album-and-winter-songwriting-charm/"
-  og_title: "Hurray For The Riff Raff: New Album and Winter Songwriting Charm - Pop N&#039; Snap"
-  og_description: "Alynda Segarra of Hurray for the Riff Raff captivates with a blend of folk, rock, and Americana. Their new album explores roots and societal themes, promising diverse sounds and powerful storytelling that resonate with identity, resilience, and social change."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/03/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/hurray-for-the-riff-raff-new-album-and-winter-songwriting-charm/
+  og_title: >-
+    Hurray For The Riff Raff: New Album and Winter Songwriting Charm - Pop
+    N&#039; Snap
+  og_description: >-
+    Alynda Segarra of Hurray for the Riff Raff captivates with a blend of folk,
+    rock, and Americana. Their new album explores roots and societal themes,
+    promising diverse sounds and powerful storytelling that resonate with
+    identity, resilience, and social change.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/03/make_file-3.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Acoustic guitar and songwriting notebook by a frosted window in warm winter
+  light
 ---
 
 Alynda Segarra, the creative force behind the band Hurray for the Riff Raff, continues to captivate audiences with their innovative blend of folk, rock, and Americana sounds. Known for their heartfelt and powerful storytelling, Segarra's music often explores themes of identity, resilience, and social change. With a new album set to release, fans and new listeners alike are eagerly anticipating what this talented artist will offer next.
