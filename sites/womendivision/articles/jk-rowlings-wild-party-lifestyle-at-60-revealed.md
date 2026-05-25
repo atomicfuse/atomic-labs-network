@@ -1,24 +1,32 @@
 ---
-title: "JK Rowling’s Wild Party Lifestyle at 60 Revealed"
-description: "J.K. Rowling's magical world of Harry Potter is beloved globally, with actors like Tom Felton, who played Draco Malfoy, bringing characters to life. Felton's journey from child star to respected actor showcases his versatility and enduring popularity."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T05:09:27+00:00"
-author: "Taylor Winters"
+title: JK Rowling’s Wild Party Lifestyle at 60 Revealed
+description: >-
+  J.K. Rowling's magical world of Harry Potter is beloved globally, with actors
+  like Tom Felton, who played Draco Malfoy, bringing characters to life.
+  Felton's journey from child star to respected actor showcases his versatility
+  and enduring popularity.
+type: standard
+status: review
+publishDate: '2025-07-31T05:09:27+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "jk-rowlings-wild-party-lifestyle-at-60-revealed"
+  - Lifestyle
+slug: jk-rowlings-wild-party-lifestyle-at-60-revealed
 reading_time: 3
-source_url: "https://womendivision.com/jk-rowlings-wild-party-lifestyle-at-60-revealed/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/jk-rowlings-wild-party-lifestyle-at-60-revealed/'
+imported_from: wordpress
 wp_original_id: 30704
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/jk-rowlings-wild-party-lifestyle-at-60-revealed.webp
 seo:
-  canonical: "https://womendivision.com/jk-rowlings-wild-party-lifestyle-at-60-revealed/"
-  og_title: "JK Rowling's Wild Party Lifestyle at 60 Revealed - Women Division"
-  og_description: "J.K. Rowling's magical world of Harry Potter is beloved globally, with actors like Tom Felton, who played Draco Malfoy, bringing characters to life. Felton's journey from child star to respected actor showcases his versatility and enduring popularity."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/07/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/jk-rowlings-wild-party-lifestyle-at-60-revealed/'
+  og_title: JK Rowling's Wild Party Lifestyle at 60 Revealed - Women Division
+  og_description: >-
+    J.K. Rowling's magical world of Harry Potter is beloved globally, with
+    actors like Tom Felton, who played Draco Malfoy, bringing characters to
+    life. Felton's journey from child star to respected actor showcases his
+    versatility and enduring popularity.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/07/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 30
-quality_note: "The article has significant issues with misleading title/description mismatch, poor SEO structure, short length, and weak relevance to the site's healthy living focus."
+quality_note: >-
+  The article has significant issues with misleading title/description mismatch,
+  poor SEO structure, short length, and weak relevance to the site's healthy
+  living focus.
+image_alt: >-
+  Glamorous literary-themed mansion party with candlelight, guests, and a
+  silhouetted older woman
 ---
 
 J.K. Rowling's creation, the magical world of Harry Potter, holds a special place in the hearts of millions worldwide. The series' success isn't just about its enchanting storylines but also about the actors who brought these beloved characters to life. Among them, Tom Felton, who portrayed Draco Malfoy, is renowned for his off-screen camaraderie and lively lifestyle. His journey from a childhood star to a household name is as fascinating as it is inspiring.
