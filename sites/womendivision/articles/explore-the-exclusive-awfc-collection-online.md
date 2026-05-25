@@ -1,36 +1,32 @@
 ---
-title: Explore the Exclusive AWFC Collection Online
-description: >-
-  Arsenal Women Football Club launches a new retail collection blending heritage
-  with modern style, featuring versatile apparel and accessories. The line
-  offers high-quality, comfortable products for fans worldwide, celebrating the
-  club's dedication to innovation and tradition in sports fashion.
-type: standard
-status: published
-publishDate: '2025-10-16T08:59:29+00:00'
-author: Taylor Winters
+title: "Explore the Exclusive AWFC Collection Online"
+description: "Arsenal Women Football Club launches a new retail collection blending heritage with modern style, featuring versatile apparel and accessories. The line offers high-quality, comfortable products for fans worldwide, celebrating the club's dedication to innovation and tradition in sports fashion."
+type: "standard"
+status: "review"
+publishDate: "2025-10-16T08:59:29+00:00"
+author: "Taylor Winters"
 tags:
-  - Fashion
-slug: explore-the-exclusive-awfc-collection-online
+  - "Fashion"
+slug: "explore-the-exclusive-awfc-collection-online"
 reading_time: 3
-source_url: 'https://womendivision.com/explore-the-exclusive-awfc-collection-online/'
-imported_from: wordpress
+source_url: "https://womendivision.com/explore-the-exclusive-awfc-collection-online/"
+imported_from: "wordpress"
 wp_original_id: 30837
-featuredImage: /assets/images/explore-the-exclusive-awfc-collection-online.webp
+featuredImage: "/assets/images/womendivision-general-article.webp"
 seo:
-  canonical: 'https://womendivision.com/explore-the-exclusive-awfc-collection-online/'
-  og_title: Explore the Exclusive AWFC Collection Online - Women Division
-  og_description: >-
-    Arsenal Women Football Club launches a new retail collection blending
-    heritage with modern style, featuring versatile apparel and accessories. The
-    line offers high-quality, comfortable products for fans worldwide,
-    celebrating the club's dedication to innovation and tradition in sports
-    fashion.
-  og_image: 'https://womendivision.com/wp-content/uploads/2025/10/make_file-1.jpeg'
-  twitter_card: summary_large_image
-image_alt: >-
-  Premium women's football-inspired apparel and accessories arranged in a modern
-  studio setting.
+  canonical: "https://womendivision.com/explore-the-exclusive-awfc-collection-online/"
+  og_title: "Explore the Exclusive AWFC Collection Online - Women Division"
+  og_description: "Arsenal Women Football Club launches a new retail collection blending heritage with modern style, featuring versatile apparel and accessories. The line offers high-quality, comfortable products for fans worldwide, celebrating the club's dedication to innovation and tradition in sports fashion."
+  og_image: "https://womendivision.com/wp-content/uploads/2025/10/make_file-1.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 54
+score_breakdown:
+  seo_quality: 25
+  tone_match: 70
+  content_length: 60
+  factual_accuracy: 85
+  keyword_relevance: 30
+quality_note: "While well-written with good tone, the article focuses on sports merchandise rather than healthy living content, making it poorly suited for the site's audience and SEO strategy."
 ---
 
 Arsenal Women Football Club (AWFC) is excited to unveil its latest retail collection, celebrating the club's rich heritage and contemporary style. This collection is designed to resonate with both ardent fans and fashion enthusiasts, blending sports performance with everyday wear. Featuring a versatile array of products, the collection underscores the club's commitment to quality and innovation.
