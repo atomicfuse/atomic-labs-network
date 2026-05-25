@@ -1,24 +1,40 @@
 ---
-title: "Streamer Johnny Somali Faces Serious Jail Time in South Korea"
-description: "In recent times, the digital landscape has seen a surge in controversial personalities like YouTuber Johnny Somali, whose recent arrest in Japan highlights the challenges of respecting local laws and the responsibilities of online influencers."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:18:23+00:00"
-author: "Taylor Anderson"
+title: Streamer Johnny Somali Faces Serious Jail Time in South Korea
+description: >-
+  In recent times, the digital landscape has seen a surge in controversial
+  personalities like YouTuber Johnny Somali, whose recent arrest in Japan
+  highlights the challenges of respecting local laws and the responsibilities of
+  online influencers.
+type: standard
+status: published
+publishDate: '2025-05-13T12:18:23+00:00'
+author: Taylor Anderson
 tags:
-  - "Influencers"
-slug: "streamer-johnny-somali-faces-serious-jail-time-in-south-korea"
+  - Influencers
+slug: streamer-johnny-somali-faces-serious-jail-time-in-south-korea
 reading_time: 3
-source_url: "https://popnsnap.com/streamer-johnny-somali-faces-serious-jail-time-in-south-korea/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/streamer-johnny-somali-faces-serious-jail-time-in-south-korea/
+imported_from: wordpress
 wp_original_id: 433
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/streamer-johnny-somali-faces-serious-jail-time-in-south-korea.webp
 seo:
-  canonical: "https://popnsnap.com/streamer-johnny-somali-faces-serious-jail-time-in-south-korea/"
-  og_title: "Streamer Johnny Somali Faces Serious Jail Time in South Korea - Pop N&#039; Snap"
-  og_description: "In recent times, the digital landscape has seen a surge in controversial personalities like YouTuber Johnny Somali, whose recent arrest in Japan highlights the challenges of respecting local laws and the responsibilities of online influencers."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-31.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/streamer-johnny-somali-faces-serious-jail-time-in-south-korea/
+  og_title: >-
+    Streamer Johnny Somali Faces Serious Jail Time in South Korea - Pop N&#039;
+    Snap
+  og_description: >-
+    In recent times, the digital landscape has seen a surge in controversial
+    personalities like YouTuber Johnny Somali, whose recent arrest in Japan
+    highlights the challenges of respecting local laws and the responsibilities
+    of online influencers.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-31.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  A silhouetted smartphone user on a rainy city street with blurred police
+  lights in the distance
 ---
 
 In recent times, the digital landscape has witnessed a surge in controversial online personalities who thrive on the edge of social norms. Among these figures is a YouTuber known as Johnny Somali, whose content and actions have sparked widespread debate and legal consequences. His recent arrest in Japan has brought him back into the spotlight, raising questions about the boundaries of online content creation and the responsibilities of influencers.
