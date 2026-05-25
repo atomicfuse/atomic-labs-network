@@ -19,7 +19,7 @@ source_url: >-
   https://timesofindia.indiatimes.com/life-style/food-news/chef-pankaj-bhadouria-shares-5-tips-to-make-moong-dal-pakode-extra-crisp-and-less-oily/photostory/131276563.cms
 source_item_id: 6a1421f216f23264031d7e27
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/chef-tips-crispy-moong-dal-pakode-less-oily.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   short on content length (583 words vs 800-1200 target) and could benefit from
   stronger SEO optimization in title length and heading structure.
 reading_time: 3
+image_alt: >-
+  Golden crispy moong dal pakode on a plate with chai and kitchen tools in soft
+  warm light.
 ---
 ## The Quest for Perfect Pakode
 
