@@ -51,7 +51,7 @@ brief:
 theme:
   base: modern
   colors:
-    primary: "#1D2B53"
+    primary: "#000000"
     accent: "#06D6A0"
     background: "#FFFFFF"
     secondary: "#f24093"
@@ -63,16 +63,16 @@ theme:
     link: "#000000"
     link_hover: "#06D6A0"
     nav_link: "#ffffff"
-    nav_link_hover: "#f4c542"
-    footer_bg: "#1D2B53"
+    nav_link_hover: "#f24093"
+    footer_bg: "#000000"
     must_reads_bg: "#000000"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
     article_hero_title: "#ffffff"
     article_hero_meta: "#f3f3f5"
-    feed_title: "#E6E7EB"
-    feed_desc: "#ebecef"
-    feed_date: "#f3f3f5"
+    feed_title: "#000000"
+    feed_desc: "#4f4f4f"
+    feed_date: "#f24093"
     prose_heading: "#000000"
     prose_body: "#4f4f4f"
     category_header_text: "#f3f3f5"
@@ -87,7 +87,7 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height: 52
-  logo_height_footer: 68
+  logo_height_footer: 80
 layout:
   hero:
     enabled: true
