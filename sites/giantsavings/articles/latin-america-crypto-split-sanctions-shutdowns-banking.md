@@ -23,7 +23,7 @@ source_url: >-
   https://news.bitcoin.com/latam-insights-us-sanctions-sinaloa-cartel-crypto-laundering-venezuela-shuts-down-mining-farm/
 source_item_id: 6a13fcf016f23264031d7be0
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: /assets/images/latin-america-crypto-split-sanctions-shutdowns-banking.webp
 quality_score: 50
 score_breakdown:
   seo_quality: 45
@@ -36,6 +36,9 @@ quality_note: >-
   the site's personal finance focus, using cryptocurrency/regulatory news
   instead of practical saving tips and budgeting advice.
 reading_time: 3
+image_alt: >-
+  Abstract Latin America map split between crypto enforcement, mining shutdowns,
+  and banking adoption
 ---
 ## A Tale of Two Crypto Realities
 
