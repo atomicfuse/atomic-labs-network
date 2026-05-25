@@ -1,24 +1,35 @@
 ---
-title: "Top 5 Classical Music Albums to Stream Today"
-description: "February brings a diverse selection of classical music albums, featuring fresh interpretations of Beethoven, lesser-known Mozart works, innovative contemporary compositions, and emerging talent, offering listeners a rich experience that celebrates tradition and modern creativity."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T10:49:28+00:00"
-author: "Taylor Anderson"
+title: Top 5 Classical Music Albums to Stream Today
+description: >-
+  February brings a diverse selection of classical music albums, featuring fresh
+  interpretations of Beethoven, lesser-known Mozart works, innovative
+  contemporary compositions, and emerging talent, offering listeners a rich
+  experience that celebrates tradition and modern creativity.
+type: standard
+status: published
+publishDate: '2026-02-12T10:49:28+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "top-5-classical-music-albums-to-stream-today"
+  - Music
+slug: top-5-classical-music-albums-to-stream-today
 reading_time: 2
-source_url: "https://popnsnap.com/top-5-classical-music-albums-to-stream-today/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/top-5-classical-music-albums-to-stream-today/'
+imported_from: wordpress
 wp_original_id: 731
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/top-5-classical-music-albums-to-stream-today.webp
 seo:
-  canonical: "https://popnsnap.com/top-5-classical-music-albums-to-stream-today/"
-  og_title: "Top 5 Classical Music Albums to Stream Today - Pop N&#039; Snap"
-  og_description: "February brings a diverse selection of classical music albums, featuring fresh interpretations of Beethoven, lesser-known Mozart works, innovative contemporary compositions, and emerging talent, offering listeners a rich experience that celebrates tradition and modern creativity."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/top-5-classical-music-albums-to-stream-today/'
+  og_title: Top 5 Classical Music Albums to Stream Today - Pop N&#039; Snap
+  og_description: >-
+    February brings a diverse selection of classical music albums, featuring
+    fresh interpretations of Beethoven, lesser-known Mozart works, innovative
+    contemporary compositions, and emerging talent, offering listeners a rich
+    experience that celebrates tradition and modern creativity.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Grand piano, violin, and glowing abstract music waves in a refined modern
+  concert setting
 ---
 
 The world of classical music continues to evolve, offering enthusiasts an array of new albums that showcase both creativity and tradition. This February, several recordings have captured the attention of listeners and critics alike, each presenting unique interpretations and masterful performances. Whether you are a seasoned aficionado or new to the genre, these albums promise to enrich your musical journey with their depth and artistry.
