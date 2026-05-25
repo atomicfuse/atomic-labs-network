@@ -1,24 +1,38 @@
 ---
-title: "Dave Mustaine Reveals Insights as Megadeth Counts Down to Extinction"
-description: "Dave Mustaine of Megadeth announces his final album, marking the end of an era for thrash metal fans. Despite health challenges, Mustaine's influence and legacy will continue to inspire musicians worldwide."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T10:49:29+00:00"
-author: "Taylor Anderson"
+title: Dave Mustaine Reveals Insights as Megadeth Counts Down to Extinction
+description: >-
+  Dave Mustaine of Megadeth announces his final album, marking the end of an era
+  for thrash metal fans. Despite health challenges, Mustaine's influence and
+  legacy will continue to inspire musicians worldwide.
+type: standard
+status: published
+publishDate: '2026-01-15T10:49:29+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "dave-mustaine-reveals-insights-as-megadeth-counts-down-to-extinction"
+  - Music
+slug: dave-mustaine-reveals-insights-as-megadeth-counts-down-to-extinction
 reading_time: 3
-source_url: "https://popnsnap.com/dave-mustaine-reveals-insights-as-megadeth-counts-down-to-extinction/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/dave-mustaine-reveals-insights-as-megadeth-counts-down-to-extinction/
+imported_from: wordpress
 wp_original_id: 714
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/dave-mustaine-reveals-insights-as-megadeth-counts-down-to-extinction.webp
 seo:
-  canonical: "https://popnsnap.com/dave-mustaine-reveals-insights-as-megadeth-counts-down-to-extinction/"
-  og_title: "Dave Mustaine Reveals Insights as Megadeth Counts Down to Extinction - Pop N&#039; Snap"
-  og_description: "Dave Mustaine of Megadeth announces his final album, marking the end of an era for thrash metal fans. Despite health challenges, Mustaine's influence and legacy will continue to inspire musicians worldwide."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/dave-mustaine-reveals-insights-as-megadeth-counts-down-to-extinction/
+  og_title: >-
+    Dave Mustaine Reveals Insights as Megadeth Counts Down to Extinction - Pop
+    N&#039; Snap
+  og_description: >-
+    Dave Mustaine of Megadeth announces his final album, marking the end of an
+    era for thrash metal fans. Despite health challenges, Mustaine's influence
+    and legacy will continue to inspire musicians worldwide.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Weathered electric guitar under a fading spotlight on an empty smoky concert
+  stage
 ---
 
 Heavy metal fans around the globe are bracing for a monumental moment in music history. Dave Mustaine, the legendary frontman of Megadeth, has announced that the band's next album will be his final contribution to their storied discography. This news marks the end of an era for fans who have followed Mustaine's career since the band's inception in the early 1980s.
