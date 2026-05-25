@@ -1,24 +1,37 @@
 ---
-title: "Modern Lifestyles Increasing Pelvic Floor Disorder Risk in Young Women"
-description: "Modern lifestyles are affecting young women's pelvic health, with sedentary habits and poor diet contributing to disorders. Understanding these factors enables informed choices in exercise, nutrition, and stress management to maintain pelvic floor strength and prevent complications."
-type: "standard"
-status: "published"
-publishDate: "2025-12-15T10:29:27+00:00"
-author: "Taylor Winters"
+title: Modern Lifestyles Increasing Pelvic Floor Disorder Risk in Young Women
+description: >-
+  Modern lifestyles are affecting young women's pelvic health, with sedentary
+  habits and poor diet contributing to disorders. Understanding these factors
+  enables informed choices in exercise, nutrition, and stress management to
+  maintain pelvic floor strength and prevent complications.
+type: standard
+status: published
+publishDate: '2025-12-15T10:29:27+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "modern-lifestyles-increasing-pelvic-floor-disorder-risk-in-young-women"
+  - Lifestyle
+slug: modern-lifestyles-increasing-pelvic-floor-disorder-risk-in-young-women
 reading_time: 3
-source_url: "https://womendivision.com/modern-lifestyles-increasing-pelvic-floor-disorder-risk-in-young-women/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/modern-lifestyles-increasing-pelvic-floor-disorder-risk-in-young-women/
+imported_from: wordpress
 wp_original_id: 30858
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: >-
+  /assets/images/modern-lifestyles-increasing-pelvic-floor-disorder-risk-in-young-women.webp
 seo:
-  canonical: "https://womendivision.com/modern-lifestyles-increasing-pelvic-floor-disorder-risk-in-young-women/"
-  og_title: "Modern Lifestyles Increasing Pelvic Floor Disorder Risk in Young Women - Women Division"
-  og_description: "Modern lifestyles are affecting young women's pelvic health, with sedentary habits and poor diet contributing to disorders. Understanding these factors enables informed choices in exercise, nutrition, and stress management to maintain pelvic floor strength and prevent complications."
-  og_image: "https://womendivision.com/wp-content/uploads/2025/12/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/modern-lifestyles-increasing-pelvic-floor-disorder-risk-in-young-women/
+  og_title: >-
+    Modern Lifestyles Increasing Pelvic Floor Disorder Risk in Young Women -
+    Women Division
+  og_description: >-
+    Modern lifestyles are affecting young women's pelvic health, with sedentary
+    habits and poor diet contributing to disorders. Understanding these factors
+    enables informed choices in exercise, nutrition, and stress management to
+    maintain pelvic floor strength and prevent complications.
+  og_image: 'https://womendivision.com/wp-content/uploads/2025/12/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on word count (480 vs 800-1200 target) and could benefit from stronger SEO optimization in title length and keyword integration."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on word
+  count (480 vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title length and keyword integration.
+image_alt: >-
+  Young woman stretching in a sunlit apartment with healthy food and a laptop
+  nearby.
 ---
 
 Modern lifestyles are significantly impacting young women's health, particularly in regard to pelvic floor disorders. As daily habits shift, an increasing number of women are experiencing issues related to pelvic health, a concern that demands urgent attention. Understanding the factors contributing to these disorders can empower women to make informed health choices.
