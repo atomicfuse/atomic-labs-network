@@ -2,7 +2,8 @@ domain: womendivision
 site_name: womendivision
 site_tagline: null
 author: Sam Cooper
-groups: []
+groups:
+  - outbrain-ads
 active: true
 bundle_id: 6a12d75f16f23264031d7a55
 brief:
