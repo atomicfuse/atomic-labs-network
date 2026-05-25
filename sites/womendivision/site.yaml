@@ -56,7 +56,7 @@ theme:
   base: modern
   colors:
     primary: "#6EC1E4"
-    accent: "#61CE70"
+    accent: "#3e6089"
     background: "#FFFFFF"
     secondary: "#54595F"
     text: "#7A7A7A"
