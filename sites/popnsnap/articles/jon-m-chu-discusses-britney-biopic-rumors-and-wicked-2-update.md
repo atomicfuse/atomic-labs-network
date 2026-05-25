@@ -1,25 +1,40 @@
 ---
-title: "Jon M. Chu Discusses Britney Biopic Rumors and Wicked 2 Update"
-description: "Director Jon M. Chu shares updates on the progress of Wicked 2 while addressing rumors about a potential Britney Spears biopic, offering fans a glimpse into his vision for the highly anticipated sequel."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:17:23+00:00"
-author: "Taylor Anderson"
+title: Jon M. Chu Discusses Britney Biopic Rumors and Wicked 2 Update
+description: >-
+  Director Jon M. Chu shares updates on the progress of Wicked 2 while
+  addressing rumors about a potential Britney Spears biopic, offering fans a
+  glimpse into his vision for the highly anticipated sequel.
+type: standard
+status: published
+publishDate: '2025-05-13T12:17:23+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "jon-m-chu-discusses-britney-biopic-rumors-and-wicked-2-update"
+  - Celebrities
+  - TV &amp; Movies
+slug: jon-m-chu-discusses-britney-biopic-rumors-and-wicked-2-update
 reading_time: 3
-source_url: "https://popnsnap.com/jon-m-chu-discusses-britney-biopic-rumors-and-wicked-2-update/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/jon-m-chu-discusses-britney-biopic-rumors-and-wicked-2-update/
+imported_from: wordpress
 wp_original_id: 429
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/jon-m-chu-discusses-britney-biopic-rumors-and-wicked-2-update.webp
 seo:
-  canonical: "https://popnsnap.com/jon-m-chu-discusses-britney-biopic-rumors-and-wicked-2-update/"
-  og_title: "Jon M. Chu Discusses Britney Biopic Rumors and Wicked 2 Update - Pop N&#039; Snap"
-  og_description: "The much-anticipated sequel to Wicked is generating excitement as director Jon M. Chu updates fans on its progress. Known for his work on In the Heights, Chu aims to maintain the original's essence while introducing captivating new elements."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-29.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/jon-m-chu-discusses-britney-biopic-rumors-and-wicked-2-update/
+  og_title: >-
+    Jon M. Chu Discusses Britney Biopic Rumors and Wicked 2 Update - Pop N&#039;
+    Snap
+  og_description: >-
+    The much-anticipated sequel to Wicked is generating excitement as director
+    Jon M. Chu updates fans on its progress. Known for his work on In the
+    Heights, Chu aims to maintain the original's essence while introducing
+    captivating new elements.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-29.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  A filmmaker silhouette faces emerald stage lights and pink concert spotlights
+  on a moody soundstage.
 ---
 
 The much-anticipated sequel to the beloved musical film, Wicked, is stirring excitement among fans as director Jon M. Chu provides new updates. With the previous film's success, expectations are high for this next installment. Chu, known for his work on In the Heights and Crazy Rich Asians, is set to bring his unique vision to the Wicked universe, promising a fresh take on the story of Elphaba and Glinda.
