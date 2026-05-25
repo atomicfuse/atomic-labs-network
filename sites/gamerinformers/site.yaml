@@ -78,7 +78,7 @@ theme:
     prose_heading: "#1e293b"
     prose_body: "#334155"
     category_header_text: "#ffffff"
-    subscribe_heading: "#334155"
+    subscribe_heading: "#ffffff"
     footer_text: "#94a3b8"
     footer_heading: "#ffffff"
     footer_link: "#94a3b8"
