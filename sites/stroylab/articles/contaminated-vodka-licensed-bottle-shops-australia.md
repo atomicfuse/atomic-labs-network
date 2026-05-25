@@ -23,7 +23,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-contaminated-illicit-alcohol-sold-unsuspecting.html
 source_item_id: 6a13fce316f23264031d7bda
 generated_by: claude
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/contaminated-vodka-licensed-bottle-shops-australia.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -37,6 +37,7 @@ quality_note: >-
   reading more like standard news reporting than engaging sensitive topics
   content.
 reading_time: 3
+image_alt: Unbranded vodka bottle on a shop shelf being checked with a small testing vial
 ---
 ## Hidden Dangers on Store Shelves
 
