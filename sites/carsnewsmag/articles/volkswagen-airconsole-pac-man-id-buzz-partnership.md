@@ -21,7 +21,7 @@ source_url: >-
   https://www.autoevolution.com/news/volkswagen-tries-to-be-young-yet-old-at-heart-with-airconsole-they-celebrate-pac-man-in-an-id-buzz-270426.html
 source_item_id: 6a13fcc816f23264031d7ba9
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: /assets/images/volkswagen-airconsole-pac-man-id-buzz-partnership.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong topic relevance and tone but significantly too short at 383 words and
   contains a factual error about Pac-Man's age (44 years, not 46).
 reading_time: 2
+image_alt: >-
+  Futuristic electric van cabin glowing with retro arcade-inspired lights and
+  pixel patterns
 ---
 ## Volkswagen Brings Retro Gaming to Electric Future
 
