@@ -63,7 +63,7 @@ theme:
     link: "#1a1a2e"
     link_hover: "#A259FF"
     nav_link: "#A259FF"
-    nav_link_hover: "#FEE440"
+    nav_link_hover: "#2ECFEA"
     footer_bg: "#2ECFEA"
     must_reads_bg: "#2ECFEA"
     hero_title: "#ffffff"
@@ -87,7 +87,7 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height: 62
-  logo_height_footer: 80
+  logo_height_footer: 90
 layout:
   hero:
     enabled: true
