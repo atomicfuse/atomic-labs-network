@@ -20,7 +20,7 @@ source_url: >-
   https://www.housedigest.com/2178564/boomers-cant-stand-bathroom-trend-wet-room-look/
 source_item_id: 6a1420a916f23264031d7dae
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: /assets/images/boomers-rejecting-ultra-minimal-wet-room-bathroom-trend.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong topic relevance and tone but falls short on length requirements and
   relies on vague sourcing that undermines credibility.
 reading_time: 3
+image_alt: >-
+  Warm timeless bathroom with wood, soft tile, and separated shower contrasting
+  sterile wet-room design.
 ---
 ## The Generational Divide in Bathroom Design
 
