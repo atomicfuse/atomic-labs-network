@@ -1,26 +1,39 @@
 ---
-title: "Top Cannes Red Carpet Fashion Moments of the Last 50 Years"
-description: "The Cannes Film Festival is famed for its cinematic excellence and red carpet moments, blending timeless elegance with bold fashion. Iconic looks from celebrities like Grace Kelly and Aishwarya Rai highlight its influence on fashion and diversity."
-type: "standard"
-status: "published"
-publishDate: "2025-05-13T12:23:07+00:00"
-author: "Taylor Anderson"
+title: Top Cannes Red Carpet Fashion Moments of the Last 50 Years
+description: >-
+  The Cannes Film Festival is famed for its cinematic excellence and red carpet
+  moments, blending timeless elegance with bold fashion. Iconic looks from
+  celebrities like Grace Kelly and Aishwarya Rai highlight its influence on
+  fashion and diversity.
+type: standard
+status: published
+publishDate: '2025-05-13T12:23:07+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "Fashion"
-  - "TV &amp; Movies"
-slug: "top-cannes-red-carpet-fashion-moments-of-the-last-50-years"
+  - Celebrities
+  - Fashion
+  - TV &amp; Movies
+slug: top-cannes-red-carpet-fashion-moments-of-the-last-50-years
 reading_time: 4
-source_url: "https://popnsnap.com/top-cannes-red-carpet-fashion-moments-of-the-last-50-years/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/top-cannes-red-carpet-fashion-moments-of-the-last-50-years/
+imported_from: wordpress
 wp_original_id: 451
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/top-cannes-red-carpet-fashion-moments-of-the-last-50-years.webp
 seo:
-  canonical: "https://popnsnap.com/top-cannes-red-carpet-fashion-moments-of-the-last-50-years/"
-  og_title: "Top Cannes Red Carpet Fashion Moments of the Last 50 Years - Pop N&#039; Snap"
-  og_description: "The Cannes Film Festival is famed for its cinematic excellence and red carpet moments, blending timeless elegance with bold fashion. Iconic looks from celebrities like Grace Kelly and Aishwarya Rai highlight its influence on fashion and diversity."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/05/make_file-42.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/top-cannes-red-carpet-fashion-moments-of-the-last-50-years/
+  og_title: >-
+    Top Cannes Red Carpet Fashion Moments of the Last 50 Years - Pop N&#039;
+    Snap
+  og_description: >-
+    The Cannes Film Festival is famed for its cinematic excellence and red
+    carpet moments, blending timeless elegance with bold fashion. Iconic looks
+    from celebrities like Grace Kelly and Aishwarya Rai highlight its influence
+    on fashion and diversity.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-42.jpeg'
+  twitter_card: summary_large_image
+image_alt: Anonymous couture silhouettes on a glamorous Riviera red carpet at twilight
 ---
 
 The Cannes Film Festival is renowned not only for its celebration of cinematic excellence but also for its stunning red carpet moments. Over the years, this prestigious event has witnessed a myriad of fashion statements that have left a lasting impression on both the fashion and film industries. Celebrities from around the globe descend on the French Riviera, each showcasing unique and breathtaking styles that capture the essence of glamour and sophistication.
