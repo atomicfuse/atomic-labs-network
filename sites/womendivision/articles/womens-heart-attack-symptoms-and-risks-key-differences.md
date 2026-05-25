@@ -1,24 +1,34 @@
 ---
-title: "Women’s Heart Attack Symptoms and Risks: Key Differences"
-description: "Heart disease affects millions globally, with symptoms and risk factors differing between men and women. Women may experience more subtle heart attack symptoms, which can lead to misdiagnosis. Awareness and early detection are crucial for effective treatment and prevention."
-type: "standard"
-status: "review"
-publishDate: "2026-02-26T10:05:31+00:00"
-author: "Taylor Winters"
+title: 'Women’s Heart Attack Symptoms and Risks: Key Differences'
+description: >-
+  Heart disease affects millions globally, with symptoms and risk factors
+  differing between men and women. Women may experience more subtle heart attack
+  symptoms, which can lead to misdiagnosis. Awareness and early detection are
+  crucial for effective treatment and prevention.
+type: standard
+status: review
+publishDate: '2026-02-26T10:05:31+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-slug: "womens-heart-attack-symptoms-and-risks-key-differences"
+  - Lifestyle
+slug: womens-heart-attack-symptoms-and-risks-key-differences
 reading_time: 3
-source_url: "https://womendivision.com/womens-heart-attack-symptoms-and-risks-key-differences/"
-imported_from: "wordpress"
+source_url: >-
+  https://womendivision.com/womens-heart-attack-symptoms-and-risks-key-differences/
+imported_from: wordpress
 wp_original_id: 30956
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/womens-heart-attack-symptoms-and-risks-key-differences.webp
 seo:
-  canonical: "https://womendivision.com/womens-heart-attack-symptoms-and-risks-key-differences/"
-  og_title: "Women's Heart Attack Symptoms and Risks: Key Differences - Women Division"
-  og_description: "Heart disease affects millions globally, with symptoms and risk factors differing between men and women. Women may experience more subtle heart attack symptoms, which can lead to misdiagnosis. Awareness and early detection are crucial for effective treatment and prevention."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/02/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://womendivision.com/womens-heart-attack-symptoms-and-risks-key-differences/
+  og_title: 'Women''s Heart Attack Symptoms and Risks: Key Differences - Women Division'
+  og_description: >-
+    Heart disease affects millions globally, with symptoms and risk factors
+    differing between men and women. Women may experience more subtle heart
+    attack symptoms, which can lead to misdiagnosis. Awareness and early
+    detection are crucial for effective treatment and prevention.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/02/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 45
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 90
   keyword_relevance: 30
-quality_note: "The article provides accurate health information with an appropriate tone but falls short on length, SEO optimization, and alignment with the site's focus on healthy living topics like fitness and wellness."
+quality_note: >-
+  The article provides accurate health information with an appropriate tone but
+  falls short on length, SEO optimization, and alignment with the site's focus
+  on healthy living topics like fitness and wellness.
+image_alt: >-
+  Diverse women in soft light with subtle heart health symbolism and a calm,
+  reflective mood
 ---
 
 Heart disease remains a leading health concern worldwide, impacting millions of lives each year. While many are aware of the general symptoms associated with heart attacks, it is crucial to understand that these symptoms and risk factors can differ significantly between men and women. This distinction is vital for effective diagnosis and treatment, emphasizing the need for increased awareness among women regarding their unique health signals.
