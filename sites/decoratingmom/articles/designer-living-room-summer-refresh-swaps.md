@@ -20,7 +20,7 @@ source_url: >-
   https://www.thecoolist.com/designers-say-these-5-living-room-swaps-deliver-a-summer-refresh-in-just-an-afternoon-spoiler-no-furniture-moved/
 source_item_id: 6a1420a916f23264031d7dad
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: /assets/images/designer-living-room-summer-refresh-swaps.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but falls short of
   target word count at 587 words instead of the 800-1200 range.
 reading_time: 3
+image_alt: >-
+  Airy summer living room with light textiles, simple decor, natural rug, and
+  fresh greenery.
 ---
 ## Make Your Living Room Summer-Ready Without the Heavy Lifting
 
