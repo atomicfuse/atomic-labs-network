@@ -1,24 +1,33 @@
 ---
-title: "Guam Women’s Chamber Hosts Leadership Panel Today"
-description: "The Guam Women's Chamber of Commerce event highlighted the evolving role of women in leadership, emphasizing the importance of mentorship, networking, and fostering inclusive environments for professional growth and leadership development."
-type: "standard"
-status: "review"
-publishDate: "2026-02-12T10:13:27+00:00"
-author: "Taylor Winters"
+title: Guam Women’s Chamber Hosts Leadership Panel Today
+description: >-
+  The Guam Women's Chamber of Commerce event highlighted the evolving role of
+  women in leadership, emphasizing the importance of mentorship, networking, and
+  fostering inclusive environments for professional growth and leadership
+  development.
+type: standard
+status: review
+publishDate: '2026-02-12T10:13:27+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-slug: "guam-womens-chamber-hosts-leadership-panel-today"
+  - Advice
+slug: guam-womens-chamber-hosts-leadership-panel-today
 reading_time: 3
-source_url: "https://womendivision.com/guam-womens-chamber-hosts-leadership-panel-today/"
-imported_from: "wordpress"
+source_url: 'https://womendivision.com/guam-womens-chamber-hosts-leadership-panel-today/'
+imported_from: wordpress
 wp_original_id: 30949
-featuredImage: "/assets/images/womendivision-general-article.webp"
+featuredImage: /assets/images/guam-womens-chamber-hosts-leadership-panel-today.webp
 seo:
-  canonical: "https://womendivision.com/guam-womens-chamber-hosts-leadership-panel-today/"
-  og_title: "Guam Women’s Chamber Hosts Leadership Panel Today - Women Division"
-  og_description: "The Guam Women's Chamber of Commerce event highlighted the evolving role of women in leadership, emphasizing the importance of mentorship, networking, and fostering inclusive environments. Panelists shared insights on overcoming barriers and creating opportunities for women's professional growth and leadership development."
-  og_image: "https://womendivision.com/wp-content/uploads/2026/02/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://womendivision.com/guam-womens-chamber-hosts-leadership-panel-today/'
+  og_title: Guam Women’s Chamber Hosts Leadership Panel Today - Women Division
+  og_description: >-
+    The Guam Women's Chamber of Commerce event highlighted the evolving role of
+    women in leadership, emphasizing the importance of mentorship, networking,
+    and fostering inclusive environments. Panelists shared insights on
+    overcoming barriers and creating opportunities for women's professional
+    growth and leadership development.
+  og_image: 'https://womendivision.com/wp-content/uploads/2026/02/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "This article is too short, lacks proper SEO optimization, and doesn't align well with the healthy living focus or conversational tone expected for the target audience."
+quality_note: >-
+  This article is too short, lacks proper SEO optimization, and doesn't align
+  well with the healthy living focus or conversational tone expected for the
+  target audience.
+image_alt: >-
+  Professional women in a bright conference setting discuss leadership and
+  mentorship together.
 ---
 
 The importance of leadership and mentorship took center stage at a recent meeting hosted by the Guam Women's Chamber of Commerce. This influential event brought together a panel of distinguished leaders who shared their insights on the evolving role of women in leadership positions both locally and globally.
