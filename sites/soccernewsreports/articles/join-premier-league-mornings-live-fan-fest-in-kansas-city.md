@@ -1,25 +1,37 @@
 ---
-title: "Join Premier League Mornings Live Fan Fest in Kansas City"
-description: "Kansas City will host the Premier League Mornings Live Fan Fest, offering fans live match screenings, interactive activities, and the chance to meet soccer legends. This event celebrates the vibrant local soccer culture and promises an unforgettable weekend for enthusiasts."
-type: "standard"
-status: "published"
-publishDate: "2025-09-18T04:21:37+00:00"
-author: "Taylor Winters"
+title: Join Premier League Mornings Live Fan Fest in Kansas City
+description: >-
+  Kansas City will host the Premier League Mornings Live Fan Fest, offering fans
+  live match screenings, interactive activities, and the chance to meet soccer
+  legends. This event celebrates the vibrant local soccer culture and promises
+  an unforgettable weekend for enthusiasts.
+type: standard
+status: published
+publishDate: '2025-09-18T04:21:37+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "join-premier-league-mornings-live-fan-fest-in-kansas-city"
+  - Latest News
+  - AFC Bournemouth
+slug: join-premier-league-mornings-live-fan-fest-in-kansas-city
 reading_time: 4
-source_url: "https://soccernewsreports.com/join-premier-league-mornings-live-fan-fest-in-kansas-city/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/join-premier-league-mornings-live-fan-fest-in-kansas-city/
+imported_from: wordpress
 wp_original_id: 37898
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/join-premier-league-mornings-live-fan-fest-in-kansas-city.webp
 seo:
-  canonical: "https://soccernewsreports.com/join-premier-league-mornings-live-fan-fest-in-kansas-city/"
-  og_title: "Join Premier League Mornings Live Fan Fest in Kansas City - Soccer News Reports"
-  og_description: "Kansas City will host the Premier League Mornings Live Fan Fest, offering fans live match screenings, interactive activities, and the chance to meet soccer legends. This event celebrates the vibrant local soccer culture and promises an unforgettable weekend for enthusiasts."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/09/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/join-premier-league-mornings-live-fan-fest-in-kansas-city/
+  og_title: >-
+    Join Premier League Mornings Live Fan Fest in Kansas City - Soccer News
+    Reports
+  og_description: >-
+    Kansas City will host the Premier League Mornings Live Fan Fest, offering
+    fans live match screenings, interactive activities, and the chance to meet
+    soccer legends. This event celebrates the vibrant local soccer culture and
+    promises an unforgettable weekend for enthusiasts.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/09/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -27,7 +39,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 75
-quality_note: "Well-written promotional piece with engaging tone and good structure, but falls short on content length and could benefit from stronger SEO optimization and more specific match details."
+quality_note: >-
+  Well-written promotional piece with engaging tone and good structure, but
+  falls short on content length and could benefit from stronger SEO optimization
+  and more specific match details.
+image_alt: Soccer fans gather at a lively Kansas City outdoor watch party at sunrise.
 ---
 
 Kansas City is set to host an exhilarating weekend for soccer enthusiasts with the upcoming Premier League Mornings Live Fan Fest. This iconic event is scheduled for Saturday and Sunday, promising an unforgettable experience for fans of the world-renowned English Premier League.
