@@ -1,24 +1,31 @@
 ---
-title: "Historic Good News: December 11 Highlights"
-description: "December 11th marks significant historical events, including King Edward VIII's abdication in 1936, the unveiling of the Concorde in 1967, Apollo 17's lunar landing in 1972, and IBM's Deep Blue defeating Garry Kasparov in 1997."
-type: "standard"
-status: "review"
-publishDate: "2025-12-11T10:21:27+00:00"
-author: "Nico Harper"
+title: 'Historic Good News: December 11 Highlights'
+description: >-
+  December 11th marks significant historical events, including King Edward
+  VIII's abdication in 1936, the unveiling of the Concorde in 1967, Apollo 17's
+  lunar landing in 1972, and IBM's Deep Blue defeating Garry Kasparov in 1997.
+type: standard
+status: review
+publishDate: '2025-12-11T10:21:27+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "historic-good-news-december-11-highlights"
+  - Good Vibes
+slug: historic-good-news-december-11-highlights
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-good-news-december-11-highlights/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-good-news-december-11-highlights/'
+imported_from: wordpress
 wp_original_id: 988
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-good-news-december-11-highlights.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-good-news-december-11-highlights/"
-  og_title: "Historic Good News: December 11 Highlights - GigsFreaks"
-  og_description: "December 11th marks significant historical events, including King Edward VIII's abdication in 1936, the unveiling of the Concorde in 1967, Apollo 17's lunar landing in 1972, and IBM's Deep Blue defeating Garry Kasparov in 1997."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historic-good-news-december-11-highlights/'
+  og_title: 'Historic Good News: December 11 Highlights - GigsFreaks'
+  og_description: >-
+    December 11th marks significant historical events, including King Edward
+    VIII's abdication in 1936, the unveiling of the Concorde in 1967, Apollo
+    17's lunar landing in 1972, and IBM's Deep Blue defeating Garry Kasparov in
+    1997.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -26,7 +33,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 45
-quality_note: "Well-written historical content with good factual accuracy, but falls short on entertainment focus and keyword integration for the target audience."
+quality_note: >-
+  Well-written historical content with good factual accuracy, but falls short on
+  entertainment focus and keyword integration for the target audience.
+image_alt: >-
+  Museum-style still life with a crown, aircraft, lunar module, and chess piece
+  representing historic milestones.
 ---
 
 On December 11th, numerous significant events have unfolded throughout history, marking this date with a blend of cultural achievements and scientific milestones. As we reflect on these moments, we gain insight into the diverse tapestry of human endeavor and innovation.
