@@ -1,24 +1,36 @@
 ---
-title: "Starlink vs Chinese Satellites: Near Collision Incident Explained"
-description: "A near-collision between a SpaceX Starlink satellite and a Chinese satellite highlights the urgent need for effective orbital traffic management systems as Earth's orbit becomes increasingly crowded."
-type: "standard"
-status: "review"
-publishDate: "2025-12-15T11:11:29+00:00"
-author: "Lena Ashwood"
+title: 'Starlink vs Chinese Satellites: Near Collision Incident Explained'
+description: >-
+  A near-collision between a SpaceX Starlink satellite and a Chinese satellite
+  highlights the urgent need for effective orbital traffic management systems as
+  Earth's orbit becomes increasingly crowded.
+type: standard
+status: review
+publishDate: '2025-12-15T11:11:29+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "starlink-vs-chinese-satellites-near-collision-incident-explained"
+  - Tech
+slug: starlink-vs-chinese-satellites-near-collision-incident-explained
 reading_time: 3
-source_url: "https://mindsbit.com/starlink-vs-chinese-satellites-near-collision-incident-explained/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/starlink-vs-chinese-satellites-near-collision-incident-explained/
+imported_from: wordpress
 wp_original_id: 433
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/starlink-vs-chinese-satellites-near-collision-incident-explained.webp
 seo:
-  canonical: "https://mindsbit.com/starlink-vs-chinese-satellites-near-collision-incident-explained/"
-  og_title: "Starlink vs Chinese Satellites: Near Collision Incident Explained - Minds bit"
-  og_description: "In the evolving field of satellite technology, a near-collision between a SpaceX Starlink satellite and a Chinese satellite underscores the urgent need for effective management systems to prevent incidents in increasingly crowded orbital paths."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/starlink-vs-chinese-satellites-near-collision-incident-explained/
+  og_title: >-
+    Starlink vs Chinese Satellites: Near Collision Incident Explained - Minds
+    bit
+  og_description: >-
+    In the evolving field of satellite technology, a near-collision between a
+    SpaceX Starlink satellite and a Chinese satellite underscores the urgent
+    need for effective management systems to prevent incidents in increasingly
+    crowded orbital paths.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/12/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 45
   keyword_relevance: 80
-quality_note: "The article maintains good tone and covers relevant tech topics, but suffers from being too short for guidelines and contains vague claims about recent incidents that appear fabricated without specific sources or dates."
+quality_note: >-
+  The article maintains good tone and covers relevant tech topics, but suffers
+  from being too short for guidelines and contains vague claims about recent
+  incidents that appear fabricated without specific sources or dates.
+image_alt: >-
+  Two generic satellites pass closely above Earth amid crowded orbital path
+  lines.
 ---
 
 In the rapidly evolving realm of satellite technology, ensuring the safety and coordination of space assets is paramount. Recent developments have highlighted the critical need for effective management systems in Earth's orbit. A recent close encounter between a SpaceX Starlink satellite and a Chinese satellite underscores the challenges of maintaining order in increasingly crowded skies.
