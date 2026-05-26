@@ -1,25 +1,38 @@
 ---
-title: "DXRacer Martian Pro Review: Electric Gaming Chair’s Versatility Challenges"
-description: "The DXRacer Martian Pro Electric gaming chair combines modern technology and comfort with its futuristic design and electric adjustments, but its premium price raises questions about value. Ideal for tech-savvy users, it may not appeal to those prioritizing simplicity."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T04:17:33+00:00"
-author: "Taylor Winters"
+title: 'DXRacer Martian Pro Review: Electric Gaming Chair’s Versatility Challenges'
+description: >-
+  The DXRacer Martian Pro Electric gaming chair combines modern technology and
+  comfort with its futuristic design and electric adjustments, but its premium
+  price raises questions about value. Ideal for tech-savvy users, it may not
+  appeal to those prioritizing simplicity.
+type: standard
+status: review
+publishDate: '2025-08-14T04:17:33+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "dxracer-martian-pro-review-electric-gaming-chairs-versatility-challenges"
+  - Gaming News
+  - Community
+slug: dxracer-martian-pro-review-electric-gaming-chairs-versatility-challenges
 reading_time: 3
-source_url: "https://gamerinformers.com/dxracer-martian-pro-review-electric-gaming-chairs-versatility-challenges/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/dxracer-martian-pro-review-electric-gaming-chairs-versatility-challenges/
+imported_from: wordpress
 wp_original_id: 34049
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/dxracer-martian-pro-review-electric-gaming-chairs-versatility-challenges.webp
 seo:
-  canonical: "https://gamerinformers.com/dxracer-martian-pro-review-electric-gaming-chairs-versatility-challenges/"
-  og_title: "DXRacer Martian Pro Review: Electric Gaming Chair's Versatility Challenges - Gamer Informers"
-  og_description: "The DXRacer Martian Pro Electric gaming chair combines modern technology and comfort with its futuristic design and electric adjustments, but its premium price raises questions about value. Ideal for tech-savvy users, it may not appeal to those prioritizing simplicity."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/08/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/dxracer-martian-pro-review-electric-gaming-chairs-versatility-challenges/
+  og_title: >-
+    DXRacer Martian Pro Review: Electric Gaming Chair's Versatility Challenges -
+    Gamer Informers
+  og_description: >-
+    The DXRacer Martian Pro Electric gaming chair combines modern technology and
+    comfort with its futuristic design and electric adjustments, but its premium
+    price raises questions about value. Ideal for tech-savvy users, it may not
+    appeal to those prioritizing simplicity.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/08/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,11 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "The article has good tone and accuracy but falls significantly short on word count (426 vs 800-1200 target) and could better integrate gaming-specific keywords beyond just 'gaming chair review'."
+quality_note: >-
+  The article has good tone and accuracy but falls significantly short on word
+  count (426 vs 800-1200 target) and could better integrate gaming-specific
+  keywords beyond just 'gaming chair review'.
+image_alt: Futuristic gaming chair in a moody neon-lit room with subtle tech reflections
 ---
 
 In the world of gaming chairs, the DXRacer Martian Pro Electric model attempts to offer a blend of modern technology and comfort. This chair aims to stand out in a crowded market with its unique features. However, the question remains: does it deliver the value expected from its price point?
