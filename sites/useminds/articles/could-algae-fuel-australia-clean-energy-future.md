@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://techxplore.com/news/2026-05-biofuels-havent-panned-algae-diesel.html'
 source_item_id: 6a152d8216f23264031d81b4
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/could-algae-fuel-australia-clean-energy-future.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   (634 words vs 800-1200 target) and could better integrate conspiracy/hidden
   history angles for stronger keyword relevance.
 reading_time: 3
+image_alt: >-
+  Green algae bioreactors against an Australian outback horizon with a distant
+  aircraft silhouette
 ---
 ## The Quiet Revolution in Australia's Fuel Crisis
 
