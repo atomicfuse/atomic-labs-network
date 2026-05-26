@@ -6,7 +6,7 @@ description: >-
   highlighting its unique blend of tradition and modernity, rich history,
   thriving arts scene, and delicious cuisine.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T09:59:21+00:00'
 author: Taylor Winters
 tags:

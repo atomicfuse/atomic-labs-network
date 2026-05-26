@@ -6,7 +6,7 @@ description: >-
   wilderness. Experience the Renaissance charm of Florence and create
   unforgettable memories worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T09:49:26+00:00'
 author: Taylor Winters
 tags:

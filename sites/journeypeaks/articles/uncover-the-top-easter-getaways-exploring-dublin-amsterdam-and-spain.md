@@ -6,7 +6,7 @@ description: >-
   for holidaymakers to stay updated with the latest travel advisories, health
   protocols, and local laws for a safe, hassle-free journey.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T08:16:35+00:00'
 author: Taylor Winters
 tags:

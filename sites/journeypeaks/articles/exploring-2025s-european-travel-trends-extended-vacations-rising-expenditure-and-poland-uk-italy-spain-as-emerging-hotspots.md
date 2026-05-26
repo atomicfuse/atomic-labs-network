@@ -8,7 +8,7 @@ description: >-
   Poland, the UK, Italy, Spain. These trends are reshaping the tourism industry,
   presenting new opportunities and challenges for travel providers.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T08:16:34+00:00'
 author: Taylor Winters
 tags:

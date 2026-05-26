@@ -6,7 +6,7 @@ description: >-
   blindness. Travelers are advised to purchase alcohol from reputable sources
   and be aware of regional regulatory oversight.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-23T08:57:24+00:00'
 author: Taylor Winters
 tags:

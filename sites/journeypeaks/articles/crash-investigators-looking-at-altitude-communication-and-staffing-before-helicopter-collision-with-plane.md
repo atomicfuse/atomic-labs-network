@@ -8,7 +8,7 @@ description: >-
   Airlines Flight 5342 over the Potomac River, which killed all 67 people aboard
   both aircraft.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T10:10:37+00:00'
 author: admin
 tags:

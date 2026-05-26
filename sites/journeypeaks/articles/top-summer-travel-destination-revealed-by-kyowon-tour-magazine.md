@@ -6,7 +6,7 @@ description: >-
   superstars renowned for collaborations, fashion influence, and highly
   anticipated upcoming projects.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T04:43:39+00:00'
 author: Taylor Winters
 tags:

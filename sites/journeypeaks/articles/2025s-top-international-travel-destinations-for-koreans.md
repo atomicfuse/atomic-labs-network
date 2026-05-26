@@ -6,7 +6,7 @@ description: >-
   economic growth and reduces reliance on fossil fuels, setting a global example
   in clean energy innovation.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T09:47:21+00:00'
 author: Taylor Winters
 tags:

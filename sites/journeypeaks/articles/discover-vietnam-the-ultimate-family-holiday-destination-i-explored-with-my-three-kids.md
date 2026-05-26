@@ -8,7 +8,7 @@ description: >-
   historical sites, and picturesque landscapes provide a rewarding experience
   for both children and adults, making it an ideal family getaway.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T09:01:40+00:00'
 author: Taylor Winters
 tags:

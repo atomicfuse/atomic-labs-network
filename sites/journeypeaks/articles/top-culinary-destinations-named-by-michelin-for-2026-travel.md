@@ -5,7 +5,7 @@ description: >-
   2026, spotlighting cities like Paris, Tokyo, Lima, and Cape Town for their
   exceptional culinary experiences, innovative chefs, and diverse food cultures.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T10:01:34+00:00'
 author: Taylor Winters
 tags:

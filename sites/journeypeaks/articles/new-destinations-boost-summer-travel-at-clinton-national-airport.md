@@ -6,7 +6,7 @@ description: >-
   travelers. This initiative is expected to boost the local economy and foster
   growth in tourism and business sectors.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T09:51:23+00:00'
 author: Taylor Winters
 tags:

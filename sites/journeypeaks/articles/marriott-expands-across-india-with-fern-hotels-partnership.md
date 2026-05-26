@@ -5,7 +5,7 @@ description: >-
   partnership with Fern Hotels, broadening its portfolio in key regional
   markets.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-21T08:47:23+00:00'
 author: Taylor Winters
 tags:

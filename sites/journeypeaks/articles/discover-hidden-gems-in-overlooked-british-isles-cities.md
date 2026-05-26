@@ -4,7 +4,7 @@ description: >-
   Explore the lesser-known cities across the British Isles that offer unique
   travel experiences beyond the typical tourist destinations.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

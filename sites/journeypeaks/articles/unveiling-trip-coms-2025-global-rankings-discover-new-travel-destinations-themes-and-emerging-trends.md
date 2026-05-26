@@ -8,7 +8,7 @@ description: >-
   emerging travel destinations, themes, and trends for both travelers and
   industry professionals.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T08:16:39+00:00'
 author: Taylor Winters
 tags:

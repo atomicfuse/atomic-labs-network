@@ -5,7 +5,7 @@ description: >-
   breathtaking sights. Discover emerging cities with cultural charm, marvel at
   natural wonders, and indulge in diverse culinary journeys.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T10:17:32+00:00'
 author: Taylor Winters
 tags:

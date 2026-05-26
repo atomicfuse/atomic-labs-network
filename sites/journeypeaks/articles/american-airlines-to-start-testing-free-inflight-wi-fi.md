@@ -5,7 +5,7 @@ description: >-
   as competing carriers like Delta, United, and JetBlue move toward offering
   complimentary connectivity to passengers.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T12:30:39+00:00'
 author: Taylor Winters
 tags:
