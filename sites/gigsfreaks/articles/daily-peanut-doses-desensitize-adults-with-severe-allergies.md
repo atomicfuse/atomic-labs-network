@@ -1,24 +1,35 @@
 ---
-title: "Daily Peanut Doses Desensitize Adults With Severe Allergies"
-description: "Peanut allergies, long a concern for many adults, could soon be managed more effectively with advancements in oral immunotherapy. This approach gradually introduces peanut protein to desensitize the immune system, offering hope for reducing severe reactions and improving quality of life."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:13:00+00:00"
-author: "Nico Harper"
+title: Daily Peanut Doses Desensitize Adults With Severe Allergies
+description: >-
+  Peanut allergies, long a concern for many adults, could soon be managed more
+  effectively with advancements in oral immunotherapy. This approach gradually
+  introduces peanut protein to desensitize the immune system, offering hope for
+  reducing severe reactions and improving quality of life.
+type: standard
+status: review
+publishDate: '2025-05-05T16:13:00+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "daily-peanut-doses-desensitize-adults-with-severe-allergies"
+  - Good Vibes
+slug: daily-peanut-doses-desensitize-adults-with-severe-allergies
 reading_time: 3
-source_url: "https://gigsfreaks.com/daily-peanut-doses-desensitize-adults-with-severe-allergies/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/daily-peanut-doses-desensitize-adults-with-severe-allergies/
+imported_from: wordpress
 wp_original_id: 873
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/daily-peanut-doses-desensitize-adults-with-severe-allergies.webp
 seo:
-  canonical: "https://gigsfreaks.com/daily-peanut-doses-desensitize-adults-with-severe-allergies/"
-  og_title: "Daily Peanut Doses Desensitize Adults With Severe Allergies - GigsFreaks"
-  og_description: "Peanut allergies, long a concern for many adults, could soon be managed more effectively with advancements in oral immunotherapy. This approach gradually introduces peanut protein to desensitize the immune system, offering hope for reducing severe reactions and improving quality of life."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-93.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/daily-peanut-doses-desensitize-adults-with-severe-allergies/
+  og_title: Daily Peanut Doses Desensitize Adults With Severe Allergies - GigsFreaks
+  og_description: >-
+    Peanut allergies, long a concern for many adults, could soon be managed more
+    effectively with advancements in oral immunotherapy. This approach gradually
+    introduces peanut protein to desensitize the immune system, offering hope
+    for reducing severe reactions and improving quality of life.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-93.jpeg'
+  twitter_card: summary_large_image
 quality_score: .nan
 score_breakdown:
   seo_quality: 45
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: .nan
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This medical article is factually sound but completely misaligned with gigsfreaks' entertainment focus, lacking the engaging conversational tone and relevant keywords for the target audience."
+quality_note: >-
+  This medical article is factually sound but completely misaligned with
+  gigsfreaks' entertainment focus, lacking the engaging conversational tone and
+  relevant keywords for the target audience.
+image_alt: >-
+  Small measured peanut dose on a clinic table with patient and clinician hands
+  softly blurred behind it
 ---
 
 Peanut allergies have long been a concern for many adults, leading to severe reactions and limiting lifestyle choices. Recent advancements, however, offer a promising solution that could transform how this allergy is managed.
