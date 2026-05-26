@@ -1,21 +1,27 @@
 ---
-title: "Stranded Dolphins’ Brains Reveal Alzheimer’s Disease Signs"
-description: "Recent research reveals that stranded dolphins exhibit brain features similar to Alzheimer's disease in humans, potentially providing insights into neurodegenerative diseases and highlighting environmental factors affecting both marine mammals and human health."
-type: "standard"
-status: "published"
-publishDate: "2025-10-09T11:59:52"
-author: "Taylor Winters"
+title: Stranded Dolphins’ Brains Reveal Alzheimer’s Disease Signs
+description: >-
+  Recent research reveals that stranded dolphins exhibit brain features similar
+  to Alzheimer's disease in humans, potentially providing insights into
+  neurodegenerative diseases and highlighting environmental factors affecting
+  both marine mammals and human health.
+type: standard
+status: published
+publishDate: '2025-10-09T11:59:52'
+author: Taylor Winters
 tags:
-  - "Environment"
-slug: "stranded-dolphins-brains-reveal-alzheimers-disease-signs"
+  - Environment
+slug: stranded-dolphins-brains-reveal-alzheimers-disease-signs
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/stranded-dolphins-brains-reveal-alzheimers-disease-signs/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/stranded-dolphins-brains-reveal-alzheimers-disease-signs/
+imported_from: wordpress
 wp_original_id: 15006
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/stranded-dolphins-brains-reveal-alzheimers-disease-signs.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/stranded-dolphins-brains-reveal-alzheimers-disease-signs/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/stranded-dolphins-brains-reveal-alzheimers-disease-signs/
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -23,7 +29,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 478 words versus 800-1200 target range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 478 words versus 800-1200 target range.
+image_alt: >-
+  Dolphin in shallow coastal water with subtle neural patterns suggesting brain
+  research
 ---
 
 Recent research has uncovered intriguing connections between stranded dolphins and human neurodegenerative diseases. Scientists have discovered that the brains of these dolphins exhibited pathological features commonly associated with Alzheimer's disease. This finding opens new avenues for understanding how such conditions develop in marine mammals and potentially offers insights into human health.
