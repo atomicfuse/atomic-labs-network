@@ -1,25 +1,38 @@
 ---
-title: "Boost Nutrition in Store-Bought Comfort Foods: Dietitian’s Tips"
-description: "Transform store-bought comfort foods into nutritious meals by adding fresh vegetables, enhancing proteins, reducing sodium, and making smart substitutions. These simple modifications allow you to enjoy convenience while nourishing your body with balanced, health-friendly dishes."
-type: "standard"
-status: "published"
-publishDate: "2026-03-02T10:13:23+00:00"
-author: "Taylor Winters"
+title: 'Boost Nutrition in Store-Bought Comfort Foods: Dietitian’s Tips'
+description: >-
+  Transform store-bought comfort foods into nutritious meals by adding fresh
+  vegetables, enhancing proteins, reducing sodium, and making smart
+  substitutions. These simple modifications allow you to enjoy convenience while
+  nourishing your body with balanced, health-friendly dishes.
+type: standard
+status: published
+publishDate: '2026-03-02T10:13:23+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "boost-nutrition-in-store-bought-comfort-foods-dietitians-tips"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: boost-nutrition-in-store-bought-comfort-foods-dietitians-tips
 reading_time: 3
-source_url: "https://eznutritiontips.com/boost-nutrition-in-store-bought-comfort-foods-dietitians-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/boost-nutrition-in-store-bought-comfort-foods-dietitians-tips/
+imported_from: wordpress
 wp_original_id: 19000
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/boost-nutrition-in-store-bought-comfort-foods-dietitians-tips.webp
 seo:
-  canonical: "https://eznutritiontips.com/boost-nutrition-in-store-bought-comfort-foods-dietitians-tips/"
-  og_title: "Boost Nutrition in Store-Bought Comfort Foods: Dietitian's Tips - Easy Nutrition Tips"
-  og_description: "Transform store-bought comfort foods into nutritious meals by adding fresh vegetables, enhancing proteins, reducing sodium, and making smart substitutions. These simple modifications allow you to enjoy convenience while nourishing your body with balanced, health-friendly dishes."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/boost-nutrition-in-store-bought-comfort-foods-dietitians-tips/
+  og_title: >-
+    Boost Nutrition in Store-Bought Comfort Foods: Dietitian's Tips - Easy
+    Nutrition Tips
+  og_description: >-
+    Transform store-bought comfort foods into nutritious meals by adding fresh
+    vegetables, enhancing proteins, reducing sodium, and making smart
+    substitutions. These simple modifications allow you to enjoy convenience
+    while nourishing your body with balanced, health-friendly dishes.
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written nutritional advice with good tone and keyword coverage, but significantly under the target word count at only 482 words versus the 800-1200 range."
+quality_note: >-
+  Well-written nutritional advice with good tone and keyword coverage, but
+  significantly under the target word count at only 482 words versus the
+  800-1200 range.
+image_alt: >-
+  Fresh vegetables and protein being added to a comforting prepared meal on a
+  bright kitchen counter.
 ---
 
 Transforming store-bought comfort foods into nutritious meals is simpler than you might think. Many people crave the ease of pre-packaged meals but worry about the lack of nutritional value. By making a few strategic modifications, you can elevate these convenient options into health-friendly dishes that satisfy both your taste buds and dietary needs.
