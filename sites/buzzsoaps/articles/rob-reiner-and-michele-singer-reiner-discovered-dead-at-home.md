@@ -1,24 +1,35 @@
 ---
-title: "Rob Reiner and Michele Singer Reiner Discovered Dead at Home"
-description: "The entertainment industry mourns Michele Singer Reiner, wife of filmmaker Rob Reiner, known for her vibrant personality and philanthropy. Her dedication to social justice and children's healthcare left a lasting impact, inspiring future generations to pursue positive change."
-type: "standard"
-status: "review"
-publishDate: "2025-12-15T11:15:29+00:00"
-author: "Becca Roberts"
+title: Rob Reiner and Michele Singer Reiner Discovered Dead at Home
+description: >-
+  The entertainment industry mourns Michele Singer Reiner, wife of filmmaker Rob
+  Reiner, known for her vibrant personality and philanthropy. Her dedication to
+  social justice and children's healthcare left a lasting impact, inspiring
+  future generations to pursue positive change.
+type: standard
+status: review
+publishDate: '2025-12-15T11:15:29+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "rob-reiner-and-michele-singer-reiner-discovered-dead-at-home"
+  - Culture Buzz
+slug: rob-reiner-and-michele-singer-reiner-discovered-dead-at-home
 reading_time: 3
-source_url: "https://buzzsoaps.com/rob-reiner-and-michele-singer-reiner-discovered-dead-at-home/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/rob-reiner-and-michele-singer-reiner-discovered-dead-at-home/
+imported_from: wordpress
 wp_original_id: 513
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/rob-reiner-and-michele-singer-reiner-discovered-dead-at-home.webp
 seo:
-  canonical: "https://buzzsoaps.com/rob-reiner-and-michele-singer-reiner-discovered-dead-at-home/"
-  og_title: "Rob Reiner and Michele Singer Reiner Discovered Dead at Home - BuzzSoaps!"
-  og_description: "The entertainment industry mourns Michele Singer Reiner, wife of filmmaker Rob Reiner, known for her vibrant personality and philanthropy. Her dedication to social justice and children's healthcare left a lasting impact, inspiring future generations to pursue positive change."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/rob-reiner-and-michele-singer-reiner-discovered-dead-at-home/
+  og_title: Rob Reiner and Michele Singer Reiner Discovered Dead at Home - BuzzSoaps!
+  og_description: >-
+    The entertainment industry mourns Michele Singer Reiner, wife of filmmaker
+    Rob Reiner, known for her vibrant personality and philanthropy. Her
+    dedication to social justice and children's healthcare left a lasting
+    impact, inspiring future generations to pursue positive change.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 36
 score_breakdown:
   seo_quality: 25
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 0
   keyword_relevance: 30
-quality_note: "The article contains a completely false and harmful claim that Rob Reiner is dead, which is fabricated information that destroys credibility despite otherwise decent writing quality."
+quality_note: >-
+  The article contains a completely false and harmful claim that Rob Reiner is
+  dead, which is fabricated information that destroys credibility despite
+  otherwise decent writing quality.
+image_alt: >-
+  Empty chairs and white flowers on a softly lit terrace evoke quiet
+  remembrance.
 ---
 
 In a recent turn of events, the entertainment industry mourns the loss of Michele Singer Reiner, the wife of renowned filmmaker Rob Reiner. Known for her vibrant personality and commitment to philanthropy, Michele Singer Reiner played a significant role in various charitable endeavors alongside her husband. Her unexpected passing has left a void in the hearts of many who knew her personally and professionally.
