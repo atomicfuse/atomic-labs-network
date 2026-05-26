@@ -1,24 +1,41 @@
 ---
-title: "Guatemala Prioritizes Wildlife Conservation Over Oil Extraction in Mayan Biosphere"
-description: "Guatemala prioritizes environmental conservation over economic gains by forgoing oil extraction to preserve the Mayan Biosphere Reserve, highlighting a commitment to biodiversity and cultural heritage. This decision sets a precedent for sustainable development and community resilience."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T10:19:31+00:00"
-author: "Nico Harper"
+title: >-
+  Guatemala Prioritizes Wildlife Conservation Over Oil Extraction in Mayan
+  Biosphere
+description: >-
+  Guatemala prioritizes environmental conservation over economic gains by
+  forgoing oil extraction to preserve the Mayan Biosphere Reserve, highlighting
+  a commitment to biodiversity and cultural heritage. This decision sets a
+  precedent for sustainable development and community resilience.
+type: standard
+status: review
+publishDate: '2026-01-29T10:19:31+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "guatemala-prioritizes-wildlife-conservation-over-oil-extraction-in-mayan-biosphere"
+  - Good Vibes
+slug: >-
+  guatemala-prioritizes-wildlife-conservation-over-oil-extraction-in-mayan-biosphere
 reading_time: 3
-source_url: "https://gigsfreaks.com/guatemala-prioritizes-wildlife-conservation-over-oil-extraction-in-mayan-biosphere/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/guatemala-prioritizes-wildlife-conservation-over-oil-extraction-in-mayan-biosphere/
+imported_from: wordpress
 wp_original_id: 1010
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/guatemala-prioritizes-wildlife-conservation-over-oil-extraction-in-mayan-biosphere.webp
 seo:
-  canonical: "https://gigsfreaks.com/guatemala-prioritizes-wildlife-conservation-over-oil-extraction-in-mayan-biosphere/"
-  og_title: "Guatemala Prioritizes Wildlife Conservation Over Oil Extraction in Mayan Biosphere - GigsFreaks"
-  og_description: "Guatemala prioritizes environmental conservation over economic gains by forgoing oil extraction to preserve the Mayan Biosphere Reserve, highlighting a commitment to biodiversity and cultural heritage. This decision sets a precedent for sustainable development and community resilience."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/01/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/guatemala-prioritizes-wildlife-conservation-over-oil-extraction-in-mayan-biosphere/
+  og_title: >-
+    Guatemala Prioritizes Wildlife Conservation Over Oil Extraction in Mayan
+    Biosphere - GigsFreaks
+  og_description: >-
+    Guatemala prioritizes environmental conservation over economic gains by
+    forgoing oil extraction to preserve the Mayan Biosphere Reserve,
+    highlighting a commitment to biodiversity and cultural heritage. This
+    decision sets a precedent for sustainable development and community
+    resilience.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/01/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -26,7 +43,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "This is a serious environmental news article that doesn't align with gigsfreaks' entertainment focus and conversational tone, lacking the engaging, fun content expected for this audience."
+quality_note: >-
+  This is a serious environmental news article that doesn't align with
+  gigsfreaks' entertainment focus and conversational tone, lacking the engaging,
+  fun content expected for this audience.
+image_alt: Misty Guatemalan rainforest with Maya ruins and tropical birds at sunrise
 ---
 
 The government of Guatemala recently made a landmark decision to prioritize environmental conservation over short-term economic gains. By forgoing potential oil extraction projects, the country aims to secure and preserve the invaluable Mayan Biosphere Reserve. This move underscores a commitment to protecting biodiversity and cultural heritage, setting a precedent for sustainable development.
