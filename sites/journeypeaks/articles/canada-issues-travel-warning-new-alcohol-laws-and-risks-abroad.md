@@ -1,26 +1,40 @@
 ---
-title: "Canada Issues Travel Warning: New Alcohol Laws and Risks Abroad"
-description: "Travelers should stay informed about new travel advisories affecting Thailand's alcohol regulations, Colombia's volcanic activity, and security concerns in Lebanon. Understanding these issues ensures safety and enhances travel experiences by aligning with local customs and guidelines."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T10:33:27+00:00"
-author: "Taylor Winters"
+title: 'Canada Issues Travel Warning: New Alcohol Laws and Risks Abroad'
+description: >-
+  Travelers should stay informed about new travel advisories affecting
+  Thailand's alcohol regulations, Colombia's volcanic activity, and security
+  concerns in Lebanon. Understanding these issues ensures safety and enhances
+  travel experiences by aligning with local customs and guidelines.
+type: standard
+status: published
+publishDate: '2025-12-08T10:33:27+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Tips"
-  - "Travel"
-slug: "canada-issues-travel-warning-new-alcohol-laws-and-risks-abroad"
+  - News
+  - Tips
+  - Travel
+slug: canada-issues-travel-warning-new-alcohol-laws-and-risks-abroad
 reading_time: 3
-source_url: "https://journeypeaks.com/canada-issues-travel-warning-new-alcohol-laws-and-risks-abroad/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/canada-issues-travel-warning-new-alcohol-laws-and-risks-abroad/
+imported_from: wordpress
 wp_original_id: 38761
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/canada-issues-travel-warning-new-alcohol-laws-and-risks-abroad.webp
 seo:
-  canonical: "https://journeypeaks.com/canada-issues-travel-warning-new-alcohol-laws-and-risks-abroad/"
-  og_title: "Canada Issues Travel Warning: New Alcohol Laws and Risks Abroad - Journey Peaks"
-  og_description: "Travelers should stay informed about new travel advisories affecting Thailand's alcohol regulations, Colombia's volcanic activity, and security concerns in Lebanon. Understanding these issues ensures safety and enhances travel experiences by aligning with local customs and guidelines."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/12/make_shutterstock_766790557.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/canada-issues-travel-warning-new-alcohol-laws-and-risks-abroad/
+  og_title: >-
+    Canada Issues Travel Warning: New Alcohol Laws and Risks Abroad - Journey
+    Peaks
+  og_description: >-
+    Travelers should stay informed about new travel advisories affecting
+    Thailand's alcohol regulations, Colombia's volcanic activity, and security
+    concerns in Lebanon. Understanding these issues ensures safety and enhances
+    travel experiences by aligning with local customs and guidelines.
+  og_image: >-
+    https://journeypeaks.com/wp-content/uploads/2025/12/make_shutterstock_766790557.jpg
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +42,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written travel advisory content with good keyword coverage, but falls short on length requirements and contains some vague claims that could benefit from specific sources."
+quality_note: >-
+  Well-written travel advisory content with good keyword coverage, but falls
+  short on length requirements and contains some vague claims that could benefit
+  from specific sources.
+image_alt: >-
+  Passport, map, and travel alert markers suggest updated international safety
+  advisories.
 ---
 
 Travelers planning their next international adventure should be aware of recent updates to travel advisories affecting several popular destinations. Changes in Thailand's alcohol regulations, increased volcanic activity in Colombia, and security concerns in Lebanon are currently shaping travel guidelines. Understanding these issues can help ensure a safe and enjoyable trip.
