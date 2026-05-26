@@ -1,24 +1,35 @@
 ---
-title: "Top Makeup Trends for a Radiant Glow"
-description: "In the evolving world of beauty, current trends emphasize enhancing natural features with radiant, glowing looks. Minimalist makeup focuses on healthy skin, while bold eye colors and versatile lip products offer creative expression. Skincare remains crucial for a flawless makeup application."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T05:28:07+00:00"
-author: "Taylor Winters"
+title: Top Makeup Trends for a Radiant Glow
+description: >-
+  In the evolving world of beauty, current trends emphasize enhancing natural
+  features with radiant, glowing looks. Minimalist makeup focuses on healthy
+  skin, while bold eye colors and versatile lip products offer creative
+  expression. Skincare remains crucial for a flawless makeup application.
+type: standard
+status: published
+publishDate: '2025-05-15T05:28:07+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-slug: "top-makeup-trends-for-a-radiant-glow"
+  - Beauty
+slug: top-makeup-trends-for-a-radiant-glow
 reading_time: 4
-source_url: "https://fashionnewsbee.com/top-makeup-trends-for-a-radiant-glow/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/top-makeup-trends-for-a-radiant-glow/'
+imported_from: wordpress
 wp_original_id: 31518
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-makeup-trends-for-a-radiant-glow.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-makeup-trends-for-a-radiant-glow/"
-  og_title: "Top Makeup Trends for a Radiant Glow - Fashion News Bee"
-  og_description: "In the evolving world of beauty, current trends emphasize enhancing natural features with radiant, glowing looks. Minimalist makeup focuses on healthy skin, while bold eye colors and versatile lip products offer creative expression. Skincare remains crucial for a flawless makeup application."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/top-makeup-trends-for-a-radiant-glow/'
+  og_title: Top Makeup Trends for a Radiant Glow - Fashion News Bee
+  og_description: >-
+    In the evolving world of beauty, current trends emphasize enhancing natural
+    features with radiant, glowing looks. Minimalist makeup focuses on healthy
+    skin, while bold eye colors and versatile lip products offer creative
+    expression. Skincare remains crucial for a flawless makeup application.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Radiant beauty editorial with dewy skin, glossy lips, and a soft pop of bold
+  eye color
 ---
 
 In the world of beauty, trends constantly evolve, bringing new ideas and techniques to enhance our natural features. As we look for ways to refresh our makeup routines, embracing the latest trends can offer both a rejuvenating experience and a boost in confidence. This year, makeup enthusiasts are turning their attention to trends that promise a radiant, glowing appearance, balancing both bold and subtle elements to suit every occasion.
