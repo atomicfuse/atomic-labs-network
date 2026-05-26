@@ -1,24 +1,33 @@
 ---
-title: "Covid Vaccines and Heart Damage: Unveiling the Connection"
-description: "Recent Middle East developments highlight rising tensions between Israel and Hamas, leading to military actions and a humanitarian crisis. Understanding these events' complex dynamics is crucial for global awareness and response efforts to prevent further loss and destruction."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:36:19+00:00"
-author: "Blake Anderson"
+title: 'Covid Vaccines and Heart Damage: Unveiling the Connection'
+description: >-
+  Recent Middle East developments highlight rising tensions between Israel and
+  Hamas, leading to military actions and a humanitarian crisis. Understanding
+  these events' complex dynamics is crucial for global awareness and response
+  efforts to prevent further loss and destruction.
+type: standard
+status: review
+publishDate: '2025-12-22T11:36:19+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "covid-vaccines-and-heart-damage-unveiling-the-connection"
+  - Deep Dives
+slug: covid-vaccines-and-heart-damage-unveiling-the-connection
 reading_time: 2
-source_url: "https://stroylab.com/covid-vaccines-and-heart-damage-unveiling-the-connection/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/covid-vaccines-and-heart-damage-unveiling-the-connection/'
+imported_from: wordpress
 wp_original_id: 718
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/covid-vaccines-and-heart-damage-unveiling-the-connection.webp
 seo:
-  canonical: "https://stroylab.com/covid-vaccines-and-heart-damage-unveiling-the-connection/"
-  og_title: "Covid Vaccines and Heart Damage: Unveiling the Connection - StroyLab"
-  og_description: "Recent Middle East developments highlight rising tensions between Israel and Hamas, leading to military actions and a humanitarian crisis. Understanding these events' complex dynamics is crucial for global awareness and response efforts to prevent further loss and destruction."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-209.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/covid-vaccines-and-heart-damage-unveiling-the-connection/
+  og_title: 'Covid Vaccines and Heart Damage: Unveiling the Connection - StroyLab'
+  og_description: >-
+    Recent Middle East developments highlight rising tensions between Israel and
+    Hamas, leading to military actions and a humanitarian crisis. Understanding
+    these events' complex dynamics is crucial for global awareness and response
+    efforts to prevent further loss and destruction.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-209.jpeg'
+  twitter_card: summary_large_image
 quality_score: 40
 score_breakdown:
   seo_quality: 15
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 75
   keyword_relevance: 5
-quality_note: "The article completely mismatches its title about COVID vaccines with content about the Middle East conflict, has poor SEO structure, falls well short of target length, and doesn't align with the site's conspiracy/mystery focus."
+quality_note: >-
+  The article completely mismatches its title about COVID vaccines with content
+  about the Middle East conflict, has poor SEO structure, falls well short of
+  target length, and doesn't align with the site's conspiracy/mystery focus.
+image_alt: >-
+  Vaccine vial and syringe beside a translucent heart model in a clinical
+  setting
 ---
 
 Recent developments in the Middle East have drawn international attention as tensions rise between Israel and Hamas. The situation has led to significant military actions and a humanitarian crisis affecting countless civilians. Understanding the complex dynamics and the impact of these events is crucial for global awareness and response.
