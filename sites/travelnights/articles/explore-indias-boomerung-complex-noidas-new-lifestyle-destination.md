@@ -1,24 +1,37 @@
 ---
-title: "Explore India’s Boomerüng Complex: Noida’s New Lifestyle Destination"
-description: "The Boomerang Complex in Noida is a groundbreaking lifestyle hub, offering retail, dining, entertainment, and wellness under one roof. It combines modern architecture with eco-friendly design, aiming to transform Noida into a vibrant destination for locals and tourists."
-type: "standard"
-status: "review"
-publishDate: "2025-11-13T09:23:35+00:00"
-author: "Malcolm Anderson"
+title: 'Explore India’s Boomerüng Complex: Noida’s New Lifestyle Destination'
+description: >-
+  The Boomerang Complex in Noida is a groundbreaking lifestyle hub, offering
+  retail, dining, entertainment, and wellness under one roof. It combines modern
+  architecture with eco-friendly design, aiming to transform Noida into a
+  vibrant destination for locals and tourists.
+type: standard
+status: review
+publishDate: '2025-11-13T09:23:35+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-slug: "explore-indias-boomerung-complex-noidas-new-lifestyle-destination"
+  - Culture
+slug: explore-indias-boomerung-complex-noidas-new-lifestyle-destination
 reading_time: 3
-source_url: "https://travelnights.com/explore-indias-boomerung-complex-noidas-new-lifestyle-destination/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/explore-indias-boomerung-complex-noidas-new-lifestyle-destination/
+imported_from: wordpress
 wp_original_id: 36572
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/explore-indias-boomerung-complex-noidas-new-lifestyle-destination.webp
 seo:
-  canonical: "https://travelnights.com/explore-indias-boomerung-complex-noidas-new-lifestyle-destination/"
-  og_title: "Explore India's Boomerüng Complex: Noida's New Lifestyle Destination - Travel Nights"
-  og_description: "The Boomerang Complex in Noida is a groundbreaking lifestyle hub, offering retail, dining, entertainment, and wellness under one roof. It combines modern architecture with eco-friendly design, aiming to transform Noida into a vibrant destination for locals and tourists."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/explore-indias-boomerung-complex-noidas-new-lifestyle-destination/
+  og_title: >-
+    Explore India's Boomerüng Complex: Noida's New Lifestyle Destination -
+    Travel Nights
+  og_description: >-
+    The Boomerang Complex in Noida is a groundbreaking lifestyle hub, offering
+    retail, dining, entertainment, and wellness under one roof. It combines
+    modern architecture with eco-friendly design, aiming to transform Noida into
+    a vibrant destination for locals and tourists.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 61
 score_breakdown:
   seo_quality: 65
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 40
   keyword_relevance: 70
-quality_note: "The article has a promotional tone and structure but lacks factual verification, falls short on word count, and contains questionable claims about a specific complex that may not exist as described."
+quality_note: >-
+  The article has a promotional tone and structure but lacks factual
+  verification, falls short on word count, and contains questionable claims
+  about a specific complex that may not exist as described.
+image_alt: >-
+  Modern eco-friendly lifestyle complex with curved architecture, greenery, and
+  visitors at golden hour
 ---
 
 Located in the heart of Noida, the Boomerang Complex stands as a groundbreaking lifestyle and entertainment hub, offering an unparalleled experience for visitors. Situated within the expansive Jaypee Greens Wish Town, this innovative development is a testament to modern architectural design and comprehensive leisure offerings. The complex aims to transform Noida into a vibrant destination for both locals and tourists, combining retail, dining, entertainment, and wellness under one roof.
