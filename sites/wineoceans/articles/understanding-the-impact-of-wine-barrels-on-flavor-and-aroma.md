@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-understanding-the-impact-of-wine-barrels-on-flavor-and-aroma
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/understanding-the-impact-of-wine-barrels-on-flavor-and-aroma.webp
 reading_time: 3
 quality_score: 69
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   Article covers relevant wine tips but falls significantly short on word count
   (528 vs 800-1200 target) and relies too heavily on vague phrases like 'reports
   indicate' without providing specific information.
+image_alt: >-
+  Oak wine barrel and glass with warm aromatic notes suggesting flavor from
+  aging.
 ---
 ## The Role of Barrels in Winemaking
 
