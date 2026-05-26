@@ -22,7 +22,7 @@ source_url: >-
   https://oysterbaytown.com/saladino-announces-registration-for-pilates-in-the-park/
 source_item_id: 6a13fc9f16f23264031d7b89
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/oyster-bay-pilates-in-the-park-summer-program.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   length and could improve SEO optimization with better keyword integration and
   structure.
 reading_time: 3
+image_alt: >-
+  People practice Pilates on mats in a sunny waterfront park during a summer
+  community wellness class.
 ---
 ## Community Wellness Takes Center Stage
 
