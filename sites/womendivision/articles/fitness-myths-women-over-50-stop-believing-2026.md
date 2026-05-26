@@ -22,7 +22,7 @@ source_url: >-
   https://creators.yahoo.com/lifestyle/story/10-fitness-myths-women-over-50-need-to-stop-believing-in-2026-191900115.html
 source_item_id: 6a14208f16f23264031d7d7f
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/fitness-myths-women-over-50-stop-believing-2026.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Strong topic relevance and good tone, but significantly under target word
   count and contains vague sourcing that undermines credibility.
 reading_time: 3
+image_alt: >-
+  Confident woman over 50 strength training in a bright studio with fitness
+  equipment nearby.
 ---
 ## The Shift Toward Smarter Training After 50
 
