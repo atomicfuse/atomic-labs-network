@@ -1,24 +1,37 @@
 ---
-title: "Arsenal’s Dominance Grows as Aston Villa Struggles in Premier League"
-description: "The Premier League's current season is packed with thrilling narratives as Arsenal shines in set-pieces, Aston Villa struggles to regain form, and clubs like Manchester City and Liverpool make strategic adjustments to maintain their competitive edge."
-type: "standard"
-status: "published"
-publishDate: "2026-03-02T09:37:26+00:00"
-author: "Taylor Winters"
+title: Arsenal’s Dominance Grows as Aston Villa Struggles in Premier League
+description: >-
+  The Premier League's current season is packed with thrilling narratives as
+  Arsenal shines in set-pieces, Aston Villa struggles to regain form, and clubs
+  like Manchester City and Liverpool make strategic adjustments to maintain
+  their competitive edge.
+type: standard
+status: published
+publishDate: '2026-03-02T09:37:26+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alex Iwobi"
-slug: "arsenals-dominance-grows-as-aston-villa-struggles-in-premier-league"
+  - Latest News
+  - Alex Iwobi
+slug: arsenals-dominance-grows-as-aston-villa-struggles-in-premier-league
 reading_time: 3
-source_url: "https://soccernewsreports.com/arsenals-dominance-grows-as-aston-villa-struggles-in-premier-league/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/arsenals-dominance-grows-as-aston-villa-struggles-in-premier-league/
+imported_from: wordpress
 wp_original_id: 37986
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/arsenals-dominance-grows-as-aston-villa-struggles-in-premier-league.webp
 seo:
-  canonical: "https://soccernewsreports.com/arsenals-dominance-grows-as-aston-villa-struggles-in-premier-league/"
-  og_title: "Arsenal's Dominance Grows as Aston Villa Struggles in Premier League - Soccer News Reports"
-  og_description: "The Premier League's current season is packed with thrilling narratives as Arsenal shines in set-pieces, Aston Villa struggles to regain form, and clubs like Manchester City and Liverpool make strategic adjustments to maintain their competitive edge."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/arsenals-dominance-grows-as-aston-villa-struggles-in-premier-league/
+  og_title: >-
+    Arsenal's Dominance Grows as Aston Villa Struggles in Premier League -
+    Soccer News Reports
+  og_description: >-
+    The Premier League's current season is packed with thrilling narratives as
+    Arsenal shines in set-pieces, Aston Villa struggles to regain form, and
+    clubs like Manchester City and Liverpool make strategic adjustments to
+    maintain their competitive edge.
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and relevant content, but significantly below target word count which severely impacts overall quality."
+quality_note: >-
+  Well-written article with good tone and relevant content, but significantly
+  below target word count which severely impacts overall quality.
+image_alt: >-
+  Footballers contest a dramatic set-piece under floodlights as defenders
+  scramble in the box.
 ---
 
 The Premier League continues to thrill fans with its unpredictable outcomes and captivating storylines. As the season progresses, teams are showcasing their strengths and weaknesses, offering plenty of talking points. This week, Arsenal's mastery of set-pieces and Aston Villa's struggles have captured significant attention.
