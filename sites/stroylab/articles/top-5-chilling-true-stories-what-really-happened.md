@@ -1,29 +1,33 @@
 ---
-title: "Top 5 Chilling True Stories: What Really Happened?"
-description: "Explore five spine-tingling stories that defy belief, from an astonishing coincidence in London to a plane passenger's eerie sighting in Colorado."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:30:35+00:00"
-author: "Blake Anderson"
+title: 'Top 5 Chilling True Stories: What Really Happened?'
+description: >-
+  Explore five spine-tingling stories that defy belief, from an astonishing
+  coincidence in London to a plane passenger's eerie sighting in Colorado.
+type: standard
+status: review
+publishDate: '2025-12-22T11:30:35+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Deep Dives"
-  - "Mysteries"
-slug: "top-5-chilling-true-stories-what-really-happened"
+  - Dark History
+  - Deep Dives
+  - Mysteries
+slug: top-5-chilling-true-stories-what-really-happened
 reading_time: 2
-source_url: "https://stroylab.com/top-5-chilling-true-stories-what-really-happened/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/top-5-chilling-true-stories-what-really-happened/'
+imported_from: wordpress
 wp_original_id: 686
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/top-5-chilling-true-stories-what-really-happened.webp
 seo:
-  canonical: "https://stroylab.com/top-5-chilling-true-stories-what-really-happened/"
-  og_title: "Top 5 Chilling True Stories: What Really Happened? - StroyLab"
-  og_description: "Explore five spine-tingling stories that defy belief, from an astonishing coincidence in London to a plane passenger's eerie sighting in Colorado."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/top-5-chilling-true-stories-what-really-happened/'
+  og_title: 'Top 5 Chilling True Stories: What Really Happened? - StroyLab'
+  og_description: >-
+    Explore five spine-tingling stories that defy belief, from an astonishing
+    coincidence in London to a plane passenger's eerie sighting in Colorado.
+  twitter_card: summary_large_image
 videos:
-  - id: "ee7cd5e3"
-    url: "https://www.youtube.com/watch?v=JRXfCnRxBBc"
-    position: "after-paragraph-2"
+  - id: ee7cd5e3
+    url: 'https://www.youtube.com/watch?v=JRXfCnRxBBc'
+    position: after-paragraph-2
 quality_score: 49
 score_breakdown:
   seo_quality: 45
@@ -31,7 +35,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "While the tone and mystery topics align well with the site's focus, the article suffers from being extremely short at only 291 words and lacks specific details that would make these stories credible or compelling."
+quality_note: >-
+  While the tone and mystery topics align well with the site's focus, the
+  article suffers from being extremely short at only 291 words and lacks
+  specific details that would make these stories credible or compelling.
+image_alt: >-
+  A lone silhouette by a dark window with eerie city and mountain reflections in
+  blue-gray light.
 ---
 
 When it comes to stories that chill to the bone and intrigue with their uncanny twists, few can resist the allure of a well-spun tale. Here, we delve into five such stories that have captured the imagination of many, leaving us to ponder the mysteries of life and the strange coincidences that occur within it.
