@@ -1,25 +1,33 @@
 ---
-title: "China Joins Race to Discover Life on Mars"
-description: "The race to explore Mars intensifies with the U.S. and China leading efforts to return samples. These missions aim to unlock Mars' geological secrets, advancing interplanetary science and paving the way for potential human missions."
-type: "standard"
-status: "published"
-publishDate: "2026-02-26T10:39:29+00:00"
-author: "Lena Ashwood"
+title: China Joins Race to Discover Life on Mars
+description: >-
+  The race to explore Mars intensifies with the U.S. and China leading efforts
+  to return samples. These missions aim to unlock Mars' geological secrets,
+  advancing interplanetary science and paving the way for potential human
+  missions.
+type: standard
+status: published
+publishDate: '2026-02-26T10:39:29+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "china-joins-race-to-discover-life-on-mars"
+  - Innovation
+  - Tech
+slug: china-joins-race-to-discover-life-on-mars
 reading_time: 3
-source_url: "https://mindsbit.com/china-joins-race-to-discover-life-on-mars/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/china-joins-race-to-discover-life-on-mars/'
+imported_from: wordpress
 wp_original_id: 470
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/china-joins-race-to-discover-life-on-mars.webp
 seo:
-  canonical: "https://mindsbit.com/china-joins-race-to-discover-life-on-mars/"
-  og_title: "China Joins Race to Discover Life on Mars - Minds bit"
-  og_description: "The race to explore Mars intensifies with the U.S. and China leading efforts to return samples. These missions aim to unlock Mars' geological secrets, advancing interplanetary science and paving the way for potential human missions."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/02/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/china-joins-race-to-discover-life-on-mars/'
+  og_title: China Joins Race to Discover Life on Mars - Minds bit
+  og_description: >-
+    The race to explore Mars intensifies with the U.S. and China leading efforts
+    to return samples. These missions aim to unlock Mars' geological secrets,
+    advancing interplanetary science and paving the way for potential human
+    missions.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/02/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (558 words vs 800-1200 target) and could benefit from stronger SEO optimization including meta description length and keyword integration."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (558 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization including meta description length and keyword integration.
+image_alt: >-
+  A Mars rover studies red rocks as distant landers stand on separate ridgelines
+  under a dusty dawn sky.
 ---
 
 In recent years, the race to explore Mars has intensified, with the United States and China leading the charge. Both nations aim to achieve significant milestones in returning samples from the Red Planet, a pursuit that has captured global attention. As these two superpowers push the boundaries of space exploration, their efforts are shaping the future of interplanetary science.
