@@ -1,25 +1,34 @@
 ---
-title: "Taylor Swift’s Surprising Connection to a Serial Killer"
-description: "Taylor Swift's fanbase creatively engages with her work, crafting theories like her alleged serial killer connections. Despite being fictional, these narratives highlight fans' passion and imagination, contributing to Swift's dynamic relationship with her audience."
-type: "standard"
-status: "published"
-publishDate: "2025-05-22T09:23:05+00:00"
-author: "Becca Roberts"
+title: Taylor Swift’s Surprising Connection to a Serial Killer
+description: >-
+  Taylor Swift's fanbase creatively engages with her work, crafting theories
+  like her alleged serial killer connections. Despite being fictional, these
+  narratives highlight fans' passion and imagination, contributing to Swift's
+  dynamic relationship with her audience.
+type: standard
+status: published
+publishDate: '2025-05-22T09:23:05+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-  - "Hot Takes"
-slug: "taylor-swifts-surprising-connection-to-a-serial-killer"
+  - Culture Buzz
+  - Hot Takes
+slug: taylor-swifts-surprising-connection-to-a-serial-killer
 reading_time: 3
-source_url: "https://buzzsoaps.com/taylor-swifts-surprising-connection-to-a-serial-killer/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/taylor-swifts-surprising-connection-to-a-serial-killer/'
+imported_from: wordpress
 wp_original_id: 396
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/taylor-swifts-surprising-connection-to-a-serial-killer.webp
 seo:
-  canonical: "https://buzzsoaps.com/taylor-swifts-surprising-connection-to-a-serial-killer/"
-  og_title: "Taylor Swift's Surprising Connection to a Serial Killer - BuzzSoaps!"
-  og_description: "Taylor Swift's fanbase creatively engages with her work, crafting theories like her alleged serial killer connections. Despite being fictional, these narratives highlight fans' passion and imagination, contributing to Swift's dynamic relationship with her audience."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-91.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/taylor-swifts-surprising-connection-to-a-serial-killer/
+  og_title: Taylor Swift's Surprising Connection to a Serial Killer - BuzzSoaps!
+  og_description: >-
+    Taylor Swift's fanbase creatively engages with her work, crafting theories
+    like her alleged serial killer connections. Despite being fictional, these
+    narratives highlight fans' passion and imagination, contributing to Swift's
+    dynamic relationship with her audience.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-91.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with engaging tone and strong keyword relevance, but falls short of target word count at 512 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article with engaging tone and strong keyword relevance, but
+  falls short of target word count at 512 words instead of the 800-1200 range.
+image_alt: >-
+  A moody backstage mystery board with pop fandom clues, red string, sequins,
+  and concert lighting.
 ---
 
 Taylor Swift, an iconic figure in the music industry, often finds herself at the center of intriguing fan theories. Recently, a playful yet bizarre myth has emerged, suggesting that Swift may have a hidden connection to infamous serial killers. While this claim is purely speculative and meant for entertainment, it reflects the creativity and curiosity of her fanbase.
