@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-tesla-fourth-quarter-results-miss-estimates-as-automotive-revenue-drops-8
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/tesla-fourth-quarter-results-miss-estimates-as-automotive-revenue-drops-8.webp
 reading_time: 3
 quality_score: 63
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Article covers relevant automotive news with good keyword integration, but
   falls significantly short on length and relies heavily on vague 'according to
   reports' language without specific data or sources.
+image_alt: >-
+  Unbranded electric sedan in a subdued showroom with abstract downward
+  financial shadows
 ---
 ## Tesla Reports Disappointing Fourth Quarter Performance
 
