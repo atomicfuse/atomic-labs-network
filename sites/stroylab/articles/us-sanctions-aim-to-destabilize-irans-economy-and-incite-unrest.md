@@ -1,24 +1,35 @@
 ---
-title: "US Sanctions Aim to Destabilize Iran’s Economy and Incite Unrest"
-description: "The UK's suspension of COVID-19 booster vaccines for those under 50 has sparked debate about balancing public health priorities with resource management, focusing on protecting high-risk groups while ensuring healthcare system stability."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:53:29+00:00"
-author: "Blake Anderson"
+title: US Sanctions Aim to Destabilize Iran’s Economy and Incite Unrest
+description: >-
+  The UK's suspension of COVID-19 booster vaccines for those under 50 has
+  sparked debate about balancing public health priorities with resource
+  management, focusing on protecting high-risk groups while ensuring healthcare
+  system stability.
+type: standard
+status: review
+publishDate: '2026-01-22T10:53:29+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "us-sanctions-aim-to-destabilize-irans-economy-and-incite-unrest"
+  - Deep Dives
+slug: us-sanctions-aim-to-destabilize-irans-economy-and-incite-unrest
 reading_time: 4
-source_url: "https://stroylab.com/us-sanctions-aim-to-destabilize-irans-economy-and-incite-unrest/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/us-sanctions-aim-to-destabilize-irans-economy-and-incite-unrest/
+imported_from: wordpress
 wp_original_id: 773
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/us-sanctions-aim-to-destabilize-irans-economy-and-incite-unrest.webp
 seo:
-  canonical: "https://stroylab.com/us-sanctions-aim-to-destabilize-irans-economy-and-incite-unrest/"
-  og_title: "US Sanctions Aim to Destabilize Iran's Economy and Incite Unrest - StroyLab"
-  og_description: "The UK's suspension of COVID-19 booster vaccines for those under 50 has sparked debate about balancing public health priorities with resource management, focusing on protecting high-risk groups while ensuring healthcare system stability."
-  og_image: "https://stroylab.com/wp-content/uploads/2026/01/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/us-sanctions-aim-to-destabilize-irans-economy-and-incite-unrest/
+  og_title: US Sanctions Aim to Destabilize Iran's Economy and Incite Unrest - StroyLab
+  og_description: >-
+    The UK's suspension of COVID-19 booster vaccines for those under 50 has
+    sparked debate about balancing public health priorities with resource
+    management, focusing on protecting high-risk groups while ensuring
+    healthcare system stability.
+  og_image: 'https://stroylab.com/wp-content/uploads/2026/01/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 53
 score_breakdown:
   seo_quality: 25
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 80
   keyword_relevance: 15
-quality_note: "The article has a complete title-description mismatch (Iran sanctions vs COVID vaccines) and fails to cover any of the site's core topics like conspiracies, mysteries, or dark history, making it irrelevant to the target audience."
+quality_note: >-
+  The article has a complete title-description mismatch (Iran sanctions vs COVID
+  vaccines) and fails to cover any of the site's core topics like conspiracies,
+  mysteries, or dark history, making it irrelevant to the target audience.
+image_alt: >-
+  Vaccination station in a clinic with an older patient being assisted by a
+  healthcare worker.
 ---
 
 The global narrative surrounding the COVID-19 pandemic has been marked by a complex interplay of health guidelines, governmental policies, and public perception. As countries continue to navigate the challenges of the pandemic, recent developments in the United Kingdom highlight ongoing debates about the efficacy and necessity of vaccination campaigns, especially concerning booster doses.
