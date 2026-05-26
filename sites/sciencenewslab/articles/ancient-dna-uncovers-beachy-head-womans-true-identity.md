@@ -1,22 +1,28 @@
 ---
-title: "Ancient DNA Uncovers Beachy Head Woman’s True Identity"
-description: "Recent advancements in ancient DNA analysis have revealed that Beachy Head Woman likely originated from the eastern Mediterranean, challenging previous assumptions about Britain's early inhabitants and highlighting diverse migration patterns and cultural exchanges during the Roman era."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T12:53:24"
-author: "Taylor Winters"
+title: Ancient DNA Uncovers Beachy Head Woman’s True Identity
+description: >-
+  Recent advancements in ancient DNA analysis have revealed that Beachy Head
+  Woman likely originated from the eastern Mediterranean, challenging previous
+  assumptions about Britain's early inhabitants and highlighting diverse
+  migration patterns and cultural exchanges during the Roman era.
+type: standard
+status: review
+publishDate: '2025-12-22T12:53:24'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "ancient-dna-uncovers-beachy-head-womans-true-identity"
+  - Space
+  - Humans
+slug: ancient-dna-uncovers-beachy-head-womans-true-identity
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/ancient-dna-uncovers-beachy-head-womans-true-identity/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/ancient-dna-uncovers-beachy-head-womans-true-identity/
+imported_from: wordpress
 wp_original_id: 15044
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/ancient-dna-uncovers-beachy-head-womans-true-identity.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/ancient-dna-uncovers-beachy-head-womans-true-identity/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/ancient-dna-uncovers-beachy-head-womans-true-identity/
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 25
-quality_note: "Well-written archaeological piece with good tone and accuracy, but falls short on length requirements and doesn't align with the site's science focus areas of Space, Nature, Physics, Technology, and Environment."
+quality_note: >-
+  Well-written archaeological piece with good tone and accuracy, but falls short
+  on length requirements and doesn't align with the site's science focus areas
+  of Space, Nature, Physics, Technology, and Environment.
+image_alt: >-
+  Chalk cliffs at dawn with ancient artifacts and a glowing DNA strand
+  suggesting Roman-era migration
 ---
 
 Recent advancements in ancient DNA analysis have brought a new perspective to the historical narrative of Beachy Head Woman, an intriguing figure from Britain's distant past. This fascinating discovery sheds light on her origins and challenges previous assumptions about Britain's early inhabitants, offering a fresh understanding of migration patterns and cultural exchanges during the Roman era.
