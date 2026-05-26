@@ -1,27 +1,45 @@
 ---
-title: "US Army Medical Research Institute Partners with Recce Pharmaceuticals for Groundbreaking Research Collaboration"
-description: "Recce Pharmaceuticals has entered a research agreement with the US Army Medical Research Institute of Infectious Diseases (USAMRIID) to evaluate the potential of Recce's synthetic compounds in treating bio-threat pathogens. The collaborative research will focus on Recce's experimental drugs, RECCE 327 and RECCE 529."
-type: "standard"
-status: "published"
-publishDate: "2025-04-28T06:16:34+00:00"
-author: "Taylor Winters"
+title: >-
+  US Army Medical Research Institute Partners with Recce Pharmaceuticals for
+  Groundbreaking Research Collaboration
+description: >-
+  Recce Pharmaceuticals has entered a research agreement with the US Army
+  Medical Research Institute of Infectious Diseases (USAMRIID) to evaluate the
+  potential of Recce's synthetic compounds in treating bio-threat pathogens. The
+  collaborative research will focus on Recce's experimental drugs, RECCE 327 and
+  RECCE 529.
+type: standard
+status: published
+publishDate: '2025-04-28T06:16:34+00:00'
+author: Taylor Winters
 tags:
-  - "Medical Research"
-  - "Clinical Trials &amp; Research"
-  - "Drugs"
-  - "News"
-slug: "us-army-medical-research-institute-partners-with-recce-pharmaceuticals-for-groundbreaking-research-collaboration"
+  - Medical Research
+  - Clinical Trials &amp; Research
+  - Drugs
+  - News
+slug: >-
+  us-army-medical-research-institute-partners-with-recce-pharmaceuticals-for-groundbreaking-research-collaboration
 reading_time: 2
-source_url: "https://medicalnewsalley.com/us-army-medical-research-institute-partners-with-recce-pharmaceuticals-for-groundbreaking-research-collaboration/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/us-army-medical-research-institute-partners-with-recce-pharmaceuticals-for-groundbreaking-research-collaboration/
+imported_from: wordpress
 wp_original_id: 32424
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/us-army-medical-research-institute-partners-with-recce-pharmaceuticals-for-groundbreaking-research-collaboration.webp
 seo:
-  canonical: "https://medicalnewsalley.com/us-army-medical-research-institute-partners-with-recce-pharmaceuticals-for-groundbreaking-research-collaboration/"
-  og_title: "US Army Medical Research Institute Partners with Recce Pharmaceuticals for Groundbreaking Research Collaboration - Medical News Alley"
-  og_description: "Recce Pharmaceuticals has entered a research agreement with the US Army Medical Research Institute of Infectious Diseases (USAMRIID) to evaluate the potential of Recce's synthetic compounds in treating bio-threat pathogens. The collaborative research will focus on Recce's experimental drugs, RECCE 327 and RECCE 529."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/us-army-medical-research-institute-partners-with-recce-pharmaceuticals-for-groundbreaking-research-collaboration/
+  og_title: >-
+    US Army Medical Research Institute Partners with Recce Pharmaceuticals for
+    Groundbreaking Research Collaboration - Medical News Alley
+  og_description: >-
+    Recce Pharmaceuticals has entered a research agreement with the US Army
+    Medical Research Institute of Infectious Diseases (USAMRIID) to evaluate the
+    potential of Recce's synthetic compounds in treating bio-threat pathogens.
+    The collaborative research will focus on Recce's experimental drugs, RECCE
+    327 and RECCE 529.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -29,7 +47,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong content relevance and tone but significantly under target word count at 367 words, which severely impacts overall quality despite good medical research coverage."
+quality_note: >-
+  Strong content relevance and tone but significantly under target word count at
+  367 words, which severely impacts overall quality despite good medical
+  research coverage.
+image_alt: >-
+  Researchers collaborate in a secure biomedical lab studying experimental
+  compounds against infectious threats.
 ---
 
 Recce Pharmaceuticals, an Australian biotechnology firm, has recently inked a significant research agreement with the US Army Medical Research Institute of Infectious Diseases (USAMRIID). This strategic alliance aims to evaluate the potential of Recce's unique synthetic compounds in addressing bio-threat pathogens.
