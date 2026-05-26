@@ -1,26 +1,34 @@
 ---
-title: "Living with a U.S. Ban for Combatting Online Hate"
-description: "The digital landscape is a battleground where individuals combat online hate speech and extremism, facing challenges like international travel bans. This article explores their experiences and the broader implications of their efforts in navigating this complex environment."
-type: "standard"
-status: "review"
-publishDate: "2026-01-19T10:23:31+00:00"
-author: "Lena Ashwood"
+title: Living with a U.S. Ban for Combatting Online Hate
+description: >-
+  The digital landscape is a battleground where individuals combat online hate
+  speech and extremism, facing challenges like international travel bans. This
+  article explores their experiences and the broader implications of their
+  efforts in navigating this complex environment.
+type: standard
+status: review
+publishDate: '2026-01-19T10:23:31+00:00'
+author: Lena Ashwood
 tags:
-  - "Ideas"
-  - "Innovation"
-  - "Tech"
-slug: "living-with-a-u-s-ban-for-combatting-online-hate"
+  - Ideas
+  - Innovation
+  - Tech
+slug: living-with-a-u-s-ban-for-combatting-online-hate
 reading_time: 3
-source_url: "https://mindsbit.com/living-with-a-u-s-ban-for-combatting-online-hate/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/living-with-a-u-s-ban-for-combatting-online-hate/'
+imported_from: wordpress
 wp_original_id: 448
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/living-with-a-u-s-ban-for-combatting-online-hate.webp
 seo:
-  canonical: "https://mindsbit.com/living-with-a-u-s-ban-for-combatting-online-hate/"
-  og_title: "Living with a U.S. Ban for Combatting Online Hate - Minds bit"
-  og_description: "The digital landscape is a battleground where individuals combat online hate speech and extremism, facing challenges like international travel bans. This article explores their experiences and the broader implications of their efforts in navigating this complex environment."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/living-with-a-u-s-ban-for-combatting-online-hate/'
+  og_title: Living with a U.S. Ban for Combatting Online Hate - Minds bit
+  og_description: >-
+    The digital landscape is a battleground where individuals combat online hate
+    speech and extremism, facing challenges like international travel bans. This
+    article explores their experiences and the broader implications of their
+    efforts in navigating this complex environment.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 75
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant keywords, but falls short on length and lacks specific SEO optimization elements like meta description length and concrete examples."
+quality_note: >-
+  Well-written article with good tone and relevant keywords, but falls short on
+  length and lacks specific SEO optimization elements like meta description
+  length and concrete examples.
+image_alt: >-
+  Activist with laptop sits alone in a dim airport terminal, reflected in glass
+  near security barriers.
 ---
 
 The digital landscape has become a battleground for both good and ill, with individuals dedicating their lives to combating online hate speech and extremism. Yet, the complexities of this endeavor can lead to unexpected consequences, including international travel bans. This article explores the experiences of those who have faced such repercussions and the broader implications of their work.
