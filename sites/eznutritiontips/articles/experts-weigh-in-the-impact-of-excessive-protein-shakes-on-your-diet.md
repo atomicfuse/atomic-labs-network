@@ -1,26 +1,39 @@
 ---
-title: "Experts Weigh In: The Impact of Excessive Protein Shakes on Your Diet"
-description: "This article discusses the convenience and benefits of protein shakes, the recommended daily protein intake, potential risks of excessive consumption, and guidance on how many shakes one should consume daily, emphasizing the importance of a balanced diet and professional consultation."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:12:39+00:00"
-author: "Taylor Winters"
+title: 'Experts Weigh In: The Impact of Excessive Protein Shakes on Your Diet'
+description: >-
+  This article discusses the convenience and benefits of protein shakes, the
+  recommended daily protein intake, potential risks of excessive consumption,
+  and guidance on how many shakes one should consume daily, emphasizing the
+  importance of a balanced diet and professional consultation.
+type: standard
+status: review
+publishDate: '2025-04-23T16:12:39+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "experts-weigh-in-the-impact-of-excessive-protein-shakes-on-your-diet"
+  - Nutrition Myths
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: experts-weigh-in-the-impact-of-excessive-protein-shakes-on-your-diet
 reading_time: 2
-source_url: "https://eznutritiontips.com/experts-weigh-in-the-impact-of-excessive-protein-shakes-on-your-diet/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/experts-weigh-in-the-impact-of-excessive-protein-shakes-on-your-diet/
+imported_from: wordpress
 wp_original_id: 18758
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/experts-weigh-in-the-impact-of-excessive-protein-shakes-on-your-diet.webp
 seo:
-  canonical: "https://eznutritiontips.com/experts-weigh-in-the-impact-of-excessive-protein-shakes-on-your-diet/"
-  og_title: "Experts Weigh In: The Impact of Excessive Protein Shakes on Your Diet - Easy Nutrition Tips"
-  og_description: "This article discusses the convenience and benefits of protein shakes, the recommended daily protein intake, potential risks of exceeding this intake, and how many shakes one should consume daily. It emphasizes the importance of a balanced diet and consultation with a healthcare professional."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-49.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/experts-weigh-in-the-impact-of-excessive-protein-shakes-on-your-diet/
+  og_title: >-
+    Experts Weigh In: The Impact of Excessive Protein Shakes on Your Diet - Easy
+    Nutrition Tips
+  og_description: >-
+    This article discusses the convenience and benefits of protein shakes, the
+    recommended daily protein intake, potential risks of exceeding this intake,
+    and how many shakes one should consume daily. It emphasizes the importance
+    of a balanced diet and consultation with a healthcare professional.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-49.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "While the article has good tone and relevant content, it falls significantly short of the target word count at only 352 words, which severely impacts its overall quality score."
+quality_note: >-
+  While the article has good tone and relevant content, it falls significantly
+  short of the target word count at only 352 words, which severely impacts its
+  overall quality score.
+image_alt: >-
+  Protein shaker on a kitchen counter beside whole foods suggesting a balanced
+  diet
 ---
 
 Do you love the convenience and benefits of protein shakes and wonder how many you can safely consume each day? Let's answer that burning question while diving into the world of protein supplementation and its impact on our health and wellbeing.
