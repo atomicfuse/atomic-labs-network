@@ -1,25 +1,33 @@
 ---
-title: "Jade Raymond Departs PlayStation Studio She Established"
-description: "Jade Raymond has unexpectedly departed from Haven Studios, the PlayStation-backed studio she founded, sparking discussions about the studio's future direction and ongoing projects."
-type: "standard"
-status: "published"
-publishDate: "2025-05-18T11:07:18+00:00"
-author: "Lena Ashwood"
+title: Jade Raymond Departs PlayStation Studio She Established
+description: >-
+  Jade Raymond has unexpectedly departed from Haven Studios, the
+  PlayStation-backed studio she founded, sparking discussions about the studio's
+  future direction and ongoing projects.
+type: standard
+status: published
+publishDate: '2025-05-18T11:07:18+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "jade-raymond-departs-playstation-studio-she-established"
+  - Innovation
+  - Tech
+slug: jade-raymond-departs-playstation-studio-she-established
 reading_time: 3
-source_url: "https://mindsbit.com/jade-raymond-departs-playstation-studio-she-established/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/jade-raymond-departs-playstation-studio-she-established/'
+imported_from: wordpress
 wp_original_id: 334
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/jade-raymond-departs-playstation-studio-she-established.webp
 seo:
-  canonical: "https://mindsbit.com/jade-raymond-departs-playstation-studio-she-established/"
-  og_title: "Jade Raymond Departs PlayStation Studio She Established - Minds bit"
-  og_description: "The gaming industry is abuzz with Jade Raymond's unexpected departure from Haven Studios, sparking discussions about the studio's future. Her leadership and creative vision have significantly shaped the industry, raising questions about Haven's trajectory and its ongoing projects."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-36.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/jade-raymond-departs-playstation-studio-she-established/
+  og_title: Jade Raymond Departs PlayStation Studio She Established - Minds bit
+  og_description: >-
+    The gaming industry is abuzz with Jade Raymond's unexpected departure from
+    Haven Studios, sparking discussions about the studio's future. Her
+    leadership and creative vision have significantly shaped the industry,
+    raising questions about Haven's trajectory and its ongoing projects.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-36.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (521 words vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (521 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization.
+image_alt: >-
+  Empty game studio chair and glowing workstations suggest leadership change and
+  uncertainty.
 ---
 
 The gaming industry is buzzing with the unexpected departure of a prominent figure from Haven Studios, a company well-known for its innovative approach to game development. Jade Raymond, a veteran in the gaming scene, has announced her exit from the studio she established in partnership with PlayStation. This development has sparked discussions about the future direction of Haven Studios and its ongoing projects.
