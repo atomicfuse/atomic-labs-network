@@ -1,23 +1,40 @@
 ---
-title: "London Fashion Week AW26: Top Trends from Drama to Minimalism"
-description: "London Fashion Week for Autumn/Winter 2026 highlighted creativity, inclusivity, and sustainability, with designers showcasing classic silhouettes with modern touches, eco-friendly practices, bold prints, and tech-driven designs."
-type: "standard"
-status: "published"
-publishDate: "2026-02-23T09:55:28+00:00"
-author: "Taylor Winters"
+title: 'London Fashion Week AW26: Top Trends from Drama to Minimalism'
+description: >-
+  London Fashion Week for Autumn/Winter 2026 highlighted creativity,
+  inclusivity, and sustainability, with designers showcasing classic silhouettes
+  with modern touches, eco-friendly practices, bold prints, and tech-driven
+  designs.
+type: standard
+status: published
+publishDate: '2026-02-23T09:55:28+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "london-fashion-week-aw26-top-trends-from-drama-to-minimalism"
+  - Fashion
+slug: london-fashion-week-aw26-top-trends-from-drama-to-minimalism
 reading_time: 2
-source_url: "https://fashionnewsbee.com/london-fashion-week-aw26-top-trends-from-drama-to-minimalism/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/london-fashion-week-aw26-top-trends-from-drama-to-minimalism/
+imported_from: wordpress
 wp_original_id: 31640
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/london-fashion-week-aw26-top-trends-from-drama-to-minimalism.webp
 seo:
-  canonical: "https://fashionnewsbee.com/london-fashion-week-aw26-top-trends-from-drama-to-minimalism/"
-  og_title: "London Fashion Week AW26: Top Trends from Drama to Minimalism - Fashion News Bee"
-  og_description: "London Fashion Week for Autumn/Winter 2026 highlighted creativity, inclusivity, and sustainability. Designers showcased classic silhouettes with modern touches, eco-friendly practices, bold prints, and tech-driven designs. The event set the stage for future fashion trends, emphasizing diversity and innovation."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/london-fashion-week-aw26-top-trends-from-drama-to-minimalism/
+  og_title: >-
+    London Fashion Week AW26: Top Trends from Drama to Minimalism - Fashion News
+    Bee
+  og_description: >-
+    London Fashion Week for Autumn/Winter 2026 highlighted creativity,
+    inclusivity, and sustainability. Designers showcased classic silhouettes
+    with modern touches, eco-friendly practices, bold prints, and tech-driven
+    designs. The event set the stage for future fashion trends, emphasizing
+    diversity and innovation.
+  twitter_card: summary_large_image
+image_alt: >-
+  Diverse models in dramatic and minimalist winter fashion on a futuristic
+  London runway
 ---
 
 London Fashion Week for Autumn/Winter 2026 was a vibrant display of creativity and innovation. Designers showcased their collections, setting the tone for upcoming style trends. With a focus on inclusivity and sustainability, the event was a celebration of fashion's evolving landscape. As the runways buzzed with excitement, several standout themes emerged that are set to influence wardrobes worldwide.
