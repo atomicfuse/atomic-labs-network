@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-exploring-the-features-of-the-2015-chevrolet-impala-lt-limited
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/exploring-the-features-of-the-2015-chevrolet-impala-lt-limited.webp
 reading_time: 3
 quality_score: 51
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   Article lacks specific details and relies heavily on vague language like
   'according to reports' without providing actual facts or specifications about
   the vehicle.
+image_alt: >-
+  Unbranded full-size sedan in a polished studio setting with warm reflective
+  lighting.
 ---
 ## Overview of the 2015 Chevrolet Impala LT Limited
 
