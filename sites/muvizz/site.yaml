@@ -2,7 +2,8 @@ domain: muvizz.com
 site_name: muvizz
 site_tagline: null
 author: Julia Parker
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d73c16f23264031d7a50
 brief:
