@@ -1,21 +1,25 @@
 ---
-title: "NASA Loses Contact with Mars Orbiter MAVEN"
-description: "NASA's MAVEN spacecraft has lost contact, raising concerns about its critical role in studying Mars' atmosphere. The mission helps understand atmospheric loss and climate change on Mars, essential for future exploration and understanding the planet's transformation over time."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T12:55:33"
-author: "Taylor Winters"
+title: NASA Loses Contact with Mars Orbiter MAVEN
+description: >-
+  NASA's MAVEN spacecraft has lost contact, raising concerns about its critical
+  role in studying Mars' atmosphere. The mission helps understand atmospheric
+  loss and climate change on Mars, essential for future exploration and
+  understanding the planet's transformation over time.
+type: standard
+status: published
+publishDate: '2025-12-11T12:55:33'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "nasa-loses-contact-with-mars-orbiter-maven"
+  - Space
+slug: nasa-loses-contact-with-mars-orbiter-maven
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/nasa-loses-contact-with-mars-orbiter-maven/"
-imported_from: "wordpress"
+source_url: 'https://www.sciencenewslab.com/nasa-loses-contact-with-mars-orbiter-maven/'
+imported_from: wordpress
 wp_original_id: 15038
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/nasa-loses-contact-with-mars-orbiter-maven.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/nasa-loses-contact-with-mars-orbiter-maven/"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.sciencenewslab.com/nasa-loses-contact-with-mars-orbiter-maven/'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -23,7 +27,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and factual accuracy, but significantly under target word count at 499 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and factual accuracy, but significantly
+  under target word count at 499 words versus the 800-1200 range.
+image_alt: >-
+  A lone Mars orbiter drifts above the planet as a broken signal fades into deep
+  space.
 ---
 
 NASA has recently encountered a significant setback as it lost contact with its Mars Atmosphere and Volatile EvolutioN (MAVEN) spacecraft. This unexpected communication gap has raised concerns about the future of the mission, which is crucial for studying the Martian atmosphere. MAVEN, launched to explore and understand the upper atmosphere of Mars, plays a vital role in NASA's ongoing research efforts.
