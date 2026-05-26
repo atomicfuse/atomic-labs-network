@@ -1,24 +1,41 @@
 ---
-title: "Unveiling the New Corsair x Call of Duty: Warzone Collection – Boost Your Gaming Performance Today!"
-description: "Corsair has announced a collaboration with Call of Duty: Warzone, launching a new range of high-performance gaming equipment featuring Warzone-themed peripherals and PC components designed to enhance immersion and performance for gamers."
-type: "standard"
-status: "review"
-publishDate: "2025-04-14T06:01:49+00:00"
-author: "Taylor Winters"
+title: >-
+  Unveiling the New Corsair x Call of Duty: Warzone Collection – Boost Your
+  Gaming Performance Today!
+description: >-
+  Corsair has announced a collaboration with Call of Duty: Warzone, launching a
+  new range of high-performance gaming equipment featuring Warzone-themed
+  peripherals and PC components designed to enhance immersion and performance
+  for gamers.
+type: standard
+status: review
+publishDate: '2025-04-14T06:01:49+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "unveiling-the-new-corsair-x-call-of-duty-warzone-collection-boost-your-gaming-performance-today"
+  - Reviews
+slug: >-
+  unveiling-the-new-corsair-x-call-of-duty-warzone-collection-boost-your-gaming-performance-today
 reading_time: 2
-source_url: "https://gamerinformers.com/unveiling-the-new-corsair-x-call-of-duty-warzone-collection-boost-your-gaming-performance-today/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/unveiling-the-new-corsair-x-call-of-duty-warzone-collection-boost-your-gaming-performance-today/
+imported_from: wordpress
 wp_original_id: 33984
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/unveiling-the-new-corsair-x-call-of-duty-warzone-collection-boost-your-gaming-performance-today.webp
 seo:
-  canonical: "https://gamerinformers.com/unveiling-the-new-corsair-x-call-of-duty-warzone-collection-boost-your-gaming-performance-today/"
-  og_title: "Unveiling the New Corsair x Call of Duty: Warzone Collection - Boost Your Gaming Performance Today! - Gamer Informers"
-  og_description: "Corsair has announced a collaboration with Call of Duty Warzone, launching a new range of high-performance gaming equipment. The Corsair Warzone Collection features gaming peripherals and PC components, all designed with a Warzone-themed design, promising enhanced immersion and performance for gamers."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/04/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/unveiling-the-new-corsair-x-call-of-duty-warzone-collection-boost-your-gaming-performance-today/
+  og_title: >-
+    Unveiling the New Corsair x Call of Duty: Warzone Collection - Boost Your
+    Gaming Performance Today! - Gamer Informers
+  og_description: >-
+    Corsair has announced a collaboration with Call of Duty Warzone, launching a
+    new range of high-performance gaming equipment. The Corsair Warzone
+    Collection features gaming peripherals and PC components, all designed with
+    a Warzone-themed design, promising enhanced immersion and performance for
+    gamers.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/04/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -26,7 +43,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: "Well-written gaming content with good tone and keyword relevance, but significantly under target word count and contains potentially fabricated product specifications."
+quality_note: >-
+  Well-written gaming content with good tone and keyword relevance, but
+  significantly under target word count and contains potentially fabricated
+  product specifications.
+image_alt: >-
+  Unbranded gaming peripherals glow on a tactical-style desk with a
+  high-performance PC in the background.
 ---
 
 Corsair, a renowned name in the gaming industry, recently announced its latest collaboration with Call of Duty: Warzone. This partnership has led to the creation of a new range of high-performance gaming equipment designed to enhance the gaming experience. The Corsair Warzone Collection promises to bring a new level of immersion and performance to the popular battle royale game.
