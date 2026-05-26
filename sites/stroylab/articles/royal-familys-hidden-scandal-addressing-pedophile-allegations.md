@@ -1,24 +1,37 @@
 ---
-title: "Royal Family’s Hidden Scandal: Addressing Pedophile Allegations"
-description: "In a world of rising geopolitical tensions and conflicts, nations face complex issues affecting global stability. Shifting alliances, economic sanctions, and technological advances shape modern geopolitics, while international organizations and environmental concerns demand collaborative efforts for sustainable development and peace."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:40:40+00:00"
-author: "Blake Anderson"
+title: 'Royal Family’s Hidden Scandal: Addressing Pedophile Allegations'
+description: >-
+  In a world of rising geopolitical tensions and conflicts, nations face complex
+  issues affecting global stability. Shifting alliances, economic sanctions, and
+  technological advances shape modern geopolitics, while international
+  organizations and environmental concerns demand collaborative efforts for
+  sustainable development and peace.
+type: standard
+status: review
+publishDate: '2025-12-22T11:40:40+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "royal-familys-hidden-scandal-addressing-pedophile-allegations"
+  - Deep Dives
+slug: royal-familys-hidden-scandal-addressing-pedophile-allegations
 reading_time: 3
-source_url: "https://stroylab.com/royal-familys-hidden-scandal-addressing-pedophile-allegations/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/royal-familys-hidden-scandal-addressing-pedophile-allegations/
+imported_from: wordpress
 wp_original_id: 742
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/royal-familys-hidden-scandal-addressing-pedophile-allegations.webp
 seo:
-  canonical: "https://stroylab.com/royal-familys-hidden-scandal-addressing-pedophile-allegations/"
-  og_title: "Royal Family's Hidden Scandal: Addressing Pedophile Allegations - StroyLab"
-  og_description: "In a world of rising geopolitical tensions and conflicts, nations face complex issues affecting global stability. Shifting alliances, economic sanctions, and technological advances shape modern geopolitics, while international organizations and environmental concerns demand collaborative efforts for sustainable development and peace."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-219.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/royal-familys-hidden-scandal-addressing-pedophile-allegations/
+  og_title: 'Royal Family''s Hidden Scandal: Addressing Pedophile Allegations - StroyLab'
+  og_description: >-
+    In a world of rising geopolitical tensions and conflicts, nations face
+    complex issues affecting global stability. Shifting alliances, economic
+    sanctions, and technological advances shape modern geopolitics, while
+    international organizations and environmental concerns demand collaborative
+    efforts for sustainable development and peace.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-219.jpeg'
+  twitter_card: summary_large_image
 quality_score: 38
 score_breakdown:
   seo_quality: 15
@@ -26,7 +39,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article completely mismatches its title about royal pedophile allegations and instead discusses generic geopolitics, making it irrelevant to the site's conspiracy/mystery focus and creating severe SEO issues."
+quality_note: >-
+  The article completely mismatches its title about royal pedophile allegations
+  and instead discusses generic geopolitics, making it irrelevant to the site's
+  conspiracy/mystery focus and creating severe SEO issues.
+image_alt: A crown and sealed documents sit in shadow inside a dim palace corridor.
 ---
 
 In the face of rising geopolitical tensions and ongoing conflicts, the modern world finds itself grappling with complex issues that demand attention and understanding. Nations are navigating through a landscape marked by economic and political challenges, where decisions can have far-reaching consequences on global stability and peace.
