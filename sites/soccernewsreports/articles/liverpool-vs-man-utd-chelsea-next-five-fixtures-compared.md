@@ -1,25 +1,37 @@
 ---
-title: "Liverpool vs Man Utd, Chelsea: Next Five Fixtures Compared"
-description: "Liverpool faces a challenging period in the Premier League with critical matches against Manchester City, Southampton, Manchester United, and Chelsea, with results likely to significantly impact their league standing and title aspirations."
-type: "standard"
-status: "review"
-publishDate: "2026-02-12T09:39:25+00:00"
-author: "Taylor Winters"
+title: 'Liverpool vs Man Utd, Chelsea: Next Five Fixtures Compared'
+description: >-
+  Liverpool faces a challenging period in the Premier League with critical
+  matches against Manchester City, Southampton, Manchester United, and Chelsea,
+  with results likely to significantly impact their league standing and title
+  aspirations.
+type: standard
+status: review
+publishDate: '2026-02-12T09:39:25+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andrew Robertson"
-slug: "liverpool-vs-man-utd-chelsea-next-five-fixtures-compared"
+  - Latest News
+  - Andrew Robertson
+slug: liverpool-vs-man-utd-chelsea-next-five-fixtures-compared
 reading_time: 3
-source_url: "https://soccernewsreports.com/liverpool-vs-man-utd-chelsea-next-five-fixtures-compared/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/liverpool-vs-man-utd-chelsea-next-five-fixtures-compared/
+imported_from: wordpress
 wp_original_id: 37976
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/liverpool-vs-man-utd-chelsea-next-five-fixtures-compared.webp
 seo:
-  canonical: "https://soccernewsreports.com/liverpool-vs-man-utd-chelsea-next-five-fixtures-compared/"
-  og_title: "Liverpool vs Man Utd, Chelsea: Next Five Fixtures Compared - Soccer News Reports"
-  og_description: "Liverpool faces a challenging period in the Premier League with critical matches against Manchester City, Southampton, Manchester United, and Chelsea. These fixtures will test their resilience and could significantly impact their league standing and title aspirations."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/02/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/liverpool-vs-man-utd-chelsea-next-five-fixtures-compared/
+  og_title: >-
+    Liverpool vs Man Utd, Chelsea: Next Five Fixtures Compared - Soccer News
+    Reports
+  og_description: >-
+    Liverpool faces a challenging period in the Premier League with critical
+    matches against Manchester City, Southampton, Manchester United, and
+    Chelsea. These fixtures will test their resilience and could significantly
+    impact their league standing and title aspirations.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/02/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Article has good tone and relevance but falls significantly short of target word count and lacks specific fixture details that would enhance SEO value."
+quality_note: >-
+  Article has good tone and relevance but falls significantly short of target
+  word count and lacks specific fixture details that would enhance SEO value.
+image_alt: >-
+  Red footballer sprinting toward shadowy opponents under dramatic stadium
+  lights.
 ---
 
 Liverpool is set for a challenging period in the Premier League as they gear up to face a series of critical matches. The upcoming fixtures will test their resilience and determination as they aim to maintain a strong position in the league standings. These matches are not only pivotal for Liverpool but also for their competitors, including Manchester United and Chelsea, who are eager to climb the league table.
