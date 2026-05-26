@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-antinori-family-purchases-napas-arcadia-vineyard-longtime-grape-source-for-stags-leap-wine-cellars
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/antinori-family-purchases-napas-arcadia-vineyard-longtime-grape-source-for-stags-leap-wine-cellars.webp
 reading_time: 2
 quality_score: 71
 score_breakdown:
@@ -34,6 +35,9 @@ score_breakdown:
 quality_note: >-
   Strong wine news relevance and decent structure, but significantly under
   target word count at 284 words hurts overall quality.
+image_alt: >-
+  Golden Napa vineyard at sunset with wine glasses, grapes, and an old-world
+  vineyard ledger
 ---
 ## Major Vineyard Acquisition in Napa Valley
 
