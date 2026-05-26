@@ -1,25 +1,37 @@
 ---
-title: "Can England’s Top Players Stay Injury-Free for World Cup?"
-description: "England's World Cup hopes rest on a core group of skilled players: Jordan Pickford, John Stones, Declan Rice, and Harry Kane. Their unique strengths and experience form a formidable squad, aiming to break past records and achieve international glory."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T09:40:40+00:00"
-author: "Taylor Winters"
+title: Can England’s Top Players Stay Injury-Free for World Cup?
+description: >-
+  England's World Cup hopes rest on a core group of skilled players: Jordan
+  Pickford, John Stones, Declan Rice, and Harry Kane. Their unique strengths and
+  experience form a formidable squad, aiming to break past records and achieve
+  international glory.
+type: standard
+status: review
+publishDate: '2025-11-17T09:40:40+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alisson"
-slug: "can-englands-top-players-stay-injury-free-for-world-cup"
+  - Latest News
+  - Alisson
+slug: can-englands-top-players-stay-injury-free-for-world-cup
 reading_time: 3
-source_url: "https://soccernewsreports.com/can-englands-top-players-stay-injury-free-for-world-cup/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/can-englands-top-players-stay-injury-free-for-world-cup/
+imported_from: wordpress
 wp_original_id: 37926
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/can-englands-top-players-stay-injury-free-for-world-cup.webp
 seo:
-  canonical: "https://soccernewsreports.com/can-englands-top-players-stay-injury-free-for-world-cup/"
-  og_title: "Can England's Top Players Stay Injury-Free for World Cup? - Soccer News Reports"
-  og_description: "England's World Cup hopes rest on a core group of skilled players: Jordan Pickford, John Stones, Declan Rice, and Harry Kane. Their unique strengths and experience form a formidable squad, aiming to break past records and achieve international glory."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/11/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/can-englands-top-players-stay-injury-free-for-world-cup/
+  og_title: >-
+    Can England's Top Players Stay Injury-Free for World Cup? - Soccer News
+    Reports
+  og_description: >-
+    England's World Cup hopes rest on a core group of skilled players: Jordan
+    Pickford, John Stones, Declan Rice, and Harry Kane. Their unique strengths
+    and experience form a formidable squad, aiming to break past records and
+    achieve international glory.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/11/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but significantly too short at 451 words and has mismatched tags (Alisson instead of relevant England/World Cup tags)."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly too short
+  at 451 words and has mismatched tags (Alisson instead of relevant
+  England/World Cup tags).
+image_alt: >-
+  Four unbranded England footballers stand on a floodlit pitch facing a golden
+  trophy glow.
 ---
 
 As the anticipation for the upcoming World Cup builds, England's national football team gears up with a solid backbone comprising some of the sport's most skilled players. This core group, featuring Jordan Pickford, John Stones, Declan Rice, and Harry Kane, is expected to be pivotal in England's quest for international glory. Each of these players brings unique strengths and experience, forming a formidable squad that fans hope will break past records.
