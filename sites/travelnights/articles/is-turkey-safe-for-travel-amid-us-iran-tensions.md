@@ -1,25 +1,33 @@
 ---
-title: "Is Turkey Safe for Travel Amid US-Iran Tensions?"
-description: "Travelers planning a trip to Turkey should be aware of safety concerns due to geopolitical tensions. While Turkey remains a popular destination, understanding the current safety landscape and following government advisories are crucial for a safe travel experience."
-type: "standard"
-status: "published"
-publishDate: "2026-03-16T12:13:30+00:00"
-author: "Malcolm Anderson"
+title: Is Turkey Safe for Travel Amid US-Iran Tensions?
+description: >-
+  Travelers planning a trip to Turkey should be aware of safety concerns due to
+  geopolitical tensions. While Turkey remains a popular destination,
+  understanding the current safety landscape and following government advisories
+  are crucial for a safe travel experience.
+type: standard
+status: published
+publishDate: '2026-03-16T12:13:30+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "is-turkey-safe-for-travel-amid-us-iran-tensions"
+  - Destinations
+  - Guides &amp; Tips
+slug: is-turkey-safe-for-travel-amid-us-iran-tensions
 reading_time: 3
-source_url: "https://travelnights.com/is-turkey-safe-for-travel-amid-us-iran-tensions/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/is-turkey-safe-for-travel-amid-us-iran-tensions/'
+imported_from: wordpress
 wp_original_id: 36716
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/is-turkey-safe-for-travel-amid-us-iran-tensions.webp
 seo:
-  canonical: "https://travelnights.com/is-turkey-safe-for-travel-amid-us-iran-tensions/"
-  og_title: "Is Turkey Safe for Travel Amid US-Iran Tensions? - Travel Nights"
-  og_description: "Travelers planning a trip to Turkey should be aware of safety concerns due to geopolitical tensions. While Turkey remains a popular destination, understanding the current safety landscape and following government advisories are crucial for a safe travel experience."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/03/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/is-turkey-safe-for-travel-amid-us-iran-tensions/'
+  og_title: Is Turkey Safe for Travel Amid US-Iran Tensions? - Travel Nights
+  og_description: >-
+    Travelers planning a trip to Turkey should be aware of safety concerns due
+    to geopolitical tensions. While Turkey remains a popular destination,
+    understanding the current safety landscape and following government
+    advisories are crucial for a safe travel experience.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/03/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,11 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written travel safety guide with good tone and relevance, but significantly below target word count which limits its comprehensiveness and SEO potential."
+quality_note: >-
+  Well-written travel safety guide with good tone and relevance, but
+  significantly below target word count which limits its comprehensiveness and
+  SEO potential.
+image_alt: Traveler overlooking Istanbul at dawn with a calm but cautious atmosphere
 ---
 
 Travelers planning a trip to Turkey may have concerns about safety, especially given the current geopolitical tensions in the region. Turkey, a country rich in cultural heritage and stunning landscapes, remains a popular destination for tourists despite its proximity to conflict zones. Understanding the current safety landscape is crucial for making informed travel decisions.
