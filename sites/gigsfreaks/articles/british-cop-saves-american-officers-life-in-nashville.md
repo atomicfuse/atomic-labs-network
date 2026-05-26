@@ -1,24 +1,31 @@
 ---
-title: "British Cop Saves American Officer’s Life in Nashville"
-description: "An off-duty British police officer on holiday in Nashville stepped in to help a Metro officer struggling with a suspect, turning a vacation moment into a cross-border act of courage and public service."
-type: "standard"
-status: "review"
-publishDate: "2026-05-18T09:10:47+00:00"
-author: "Nico Harper"
+title: British Cop Saves American Officer’s Life in Nashville
+description: >-
+  An off-duty British police officer on holiday in Nashville stepped in to help
+  a Metro officer struggling with a suspect, turning a vacation moment into a
+  cross-border act of courage and public service.
+type: standard
+status: review
+publishDate: '2026-05-18T09:10:47+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "british-cop-saves-american-officers-life-in-nashville"
+  - Good Vibes
+slug: british-cop-saves-american-officers-life-in-nashville
 reading_time: 7
-source_url: "https://gigsfreaks.com/british-cop-saves-american-officers-life-in-nashville/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/british-cop-saves-american-officers-life-in-nashville/'
+imported_from: wordpress
 wp_original_id: 1055
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/british-cop-saves-american-officers-life-in-nashville.webp
 seo:
-  canonical: "https://gigsfreaks.com/british-cop-saves-american-officers-life-in-nashville/"
-  og_title: "British Cop Saves American Officer’s Life in Nashville - GigsFreaks"
-  og_description: "An off-duty British police officer on holiday in Nashville stepped in to help a Metro officer struggling with a suspect, turning a vacation moment into a cross-border act of courage and public service."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/british-cop-saves-american-officers-life-in-nashville/
+  og_title: British Cop Saves American Officer’s Life in Nashville - GigsFreaks
+  og_description: >-
+    An off-duty British police officer on holiday in Nashville stepped in to
+    help a Metro officer struggling with a suspect, turning a vacation moment
+    into a cross-border act of courage and public service.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "Well-written article with good length and tone, but lacks compelling SEO elements and doesn't align with the site's entertainment-focused keywords like LOL, Funny Animals, or Internet Mysteries."
+quality_note: >-
+  Well-written article with good length and tone, but lacks compelling SEO
+  elements and doesn't align with the site's entertainment-focused keywords like
+  LOL, Funny Animals, or Internet Mysteries.
+image_alt: >-
+  Two public servants stand together on a Nashville street at dusk, suggesting
+  courage and solidarity.
 ---
 
 A British police officer traveled to Nashville expecting music, food, and a memorable holiday. Instead, the off-duty visitor became part of a real-life rescue after stepping in to help a Metro Nashville police officer facing danger during an arrest.
