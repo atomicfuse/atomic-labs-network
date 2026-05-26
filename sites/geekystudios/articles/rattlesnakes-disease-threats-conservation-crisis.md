@@ -22,7 +22,7 @@ source_url: >-
   https://phys.org/news/2026-05-rattlesnakes-vulnerable-fungal-disease-parasitic.html
 source_item_id: 6a152d8216f23264031d81af
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/rattlesnakes-disease-threats-conservation-crisis.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   target word count at 634 words and could better incorporate tech/pop culture
   angles for the target audience.
 reading_time: 3
+image_alt: >-
+  Rattlesnake coiled in shadowed forest habitat with damp leaves suggesting
+  hidden disease threats.
 ---
 ## Disease Emerges as Underestimated Threat to Snake Populations
 
