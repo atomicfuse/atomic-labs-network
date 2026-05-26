@@ -1,25 +1,38 @@
 ---
-title: "Discover the 9 Teas That Could Boost Your Weight Loss Journey"
-description: "Tea is not only a soothing beverage but also aids in weight loss. This article discusses five teas — including green tea, black tea, oolong tea, white tea, and Pu-erh tea — that can assist in weight loss when incorporated into a balanced diet and regular exercise regime."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:17:29+00:00"
-author: "Taylor Winters"
+title: Discover the 9 Teas That Could Boost Your Weight Loss Journey
+description: >-
+  Tea is not only a soothing beverage but also aids in weight loss. This article
+  discusses five teas — including green tea, black tea, oolong tea, white tea,
+  and Pu-erh tea — that can assist in weight loss when incorporated into a
+  balanced diet and regular exercise regime.
+type: standard
+status: review
+publishDate: '2025-04-23T16:17:29+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "discover-the-9-teas-that-could-boost-your-weight-loss-journey"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: discover-the-9-teas-that-could-boost-your-weight-loss-journey
 reading_time: 2
-source_url: "https://eznutritiontips.com/discover-the-9-teas-that-could-boost-your-weight-loss-journey/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/discover-the-9-teas-that-could-boost-your-weight-loss-journey/
+imported_from: wordpress
 wp_original_id: 18772
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-9-teas-that-could-boost-your-weight-loss-journey.webp
 seo:
-  canonical: "https://eznutritiontips.com/discover-the-9-teas-that-could-boost-your-weight-loss-journey/"
-  og_title: "Discover the 9 Teas That Could Boost Your Weight Loss Journey - Easy Nutrition Tips"
-  og_description: "Tea is not only a soothing beverage but also aids in weight loss. The article discusses five teas including green tea, black tea, oolong tea, white tea, and Pu-erh tea, which can assist in weight loss when incorporated into a balanced diet and regular exercise regime."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-55.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/discover-the-9-teas-that-could-boost-your-weight-loss-journey/
+  og_title: >-
+    Discover the 9 Teas That Could Boost Your Weight Loss Journey - Easy
+    Nutrition Tips
+  og_description: >-
+    Tea is not only a soothing beverage but also aids in weight loss. The
+    article discusses five teas including green tea, black tea, oolong tea,
+    white tea, and Pu-erh tea, which can assist in weight loss when incorporated
+    into a balanced diet and regular exercise regime.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-55.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 70
@@ -27,7 +40,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and relevant content, but significantly under target word count at only 351 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and relevant content, but significantly
+  under target word count at only 351 words versus the 800-1200 range.
+image_alt: >-
+  Assorted teas on a sunlit table with wellness items suggesting a healthy
+  routine
 ---
 
 Tea is more than just a soothing beverage. It is packed with several health benefits, including aiding in weight loss. In this article, we will explore the top teas that can assist you in your weight loss journey.
