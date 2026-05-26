@@ -1,24 +1,35 @@
 ---
-title: "Women Reject Disposable Fashion as Trend Fatigue Grows"
-description: "Women are moving beyond disposable fashion, choosing durable, versatile wardrobes that reflect personal style, reduce waste and challenge the exhausting pace of online trend cycles."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:44:35+00:00"
-author: "Taylor Winters"
+title: Women Reject Disposable Fashion as Trend Fatigue Grows
+description: >-
+  Women are moving beyond disposable fashion, choosing durable, versatile
+  wardrobes that reflect personal style, reduce waste and challenge the
+  exhausting pace of online trend cycles.
+type: standard
+status: published
+publishDate: '2026-05-11T08:44:35+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "women-reject-disposable-fashion-as-trend-fatigue-grows"
+  - Fashion
+slug: women-reject-disposable-fashion-as-trend-fatigue-grows
 reading_time: 7
-source_url: "https://fashionnewsbee.com/women-reject-disposable-fashion-as-trend-fatigue-grows/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/women-reject-disposable-fashion-as-trend-fatigue-grows/
+imported_from: wordpress
 wp_original_id: 31666
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/women-reject-disposable-fashion-as-trend-fatigue-grows.webp
 seo:
-  canonical: "https://fashionnewsbee.com/women-reject-disposable-fashion-as-trend-fatigue-grows/"
-  og_title: "Women Reject Disposable Fashion as Trend Fatigue Grows - Fashion News Bee"
-  og_description: "Women are moving beyond disposable fashion, choosing durable, versatile wardrobes that reflect personal style, reduce waste and challenge the exhausting pace of online trend cycles."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/women-reject-disposable-fashion-as-trend-fatigue-grows/
+  og_title: Women Reject Disposable Fashion as Trend Fatigue Grows - Fashion News Bee
+  og_description: >-
+    Women are moving beyond disposable fashion, choosing durable, versatile
+    wardrobes that reflect personal style, reduce waste and challenge the
+    exhausting pace of online trend cycles.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Woman choosing timeless clothing from a curated wardrobe while discarded fast
+  fashion fades behind her.
 ---
 
 Fashion fatigue is setting in, and many women are no longer willing to chase every microtrend that appears online. After years of rapid style shifts, low-cost hauls and barely worn garments, shoppers are reassessing what they buy, how often they buy it and what happens when clothing leaves their wardrobes.
