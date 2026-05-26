@@ -294,22 +294,23 @@ sites:
   - domain: mindmedications
     company: ATL
     vertical: Healthy Living
-    status: Staging
+    status: Live
     site_id: "9619803022655"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-26T08:32:25.056Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 0820311d4e73c1deba307a9c09b2f4cb
     staging_branch: staging/mindmedications
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=mindmedications
     saved_previews: null
-    custom_domain: null
+    custom_domain: mindmedications.com
+    worker_pending_dns: false
   - domain: carsnewsmag
     company: NGC
     vertical: Automotive
