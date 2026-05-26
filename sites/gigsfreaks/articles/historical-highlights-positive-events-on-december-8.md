@@ -1,24 +1,33 @@
 ---
-title: "Historical Highlights: Positive Events on December 8"
-description: "December 8th is a date of historical significance, marked by pivotal political treaties, groundbreaking scientific advancements, artistic contributions, and remarkable human endeavors, illustrating the interconnectedness of global events and their influence on society's evolution."
-type: "standard"
-status: "review"
-publishDate: "2025-12-08T12:27:31+00:00"
-author: "Nico Harper"
+title: 'Historical Highlights: Positive Events on December 8'
+description: >-
+  December 8th is a date of historical significance, marked by pivotal political
+  treaties, groundbreaking scientific advancements, artistic contributions, and
+  remarkable human endeavors, illustrating the interconnectedness of global
+  events and their influence on society's evolution.
+type: standard
+status: review
+publishDate: '2025-12-08T12:27:31+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "historical-highlights-positive-events-on-december-8"
+  - Good Vibes
+slug: historical-highlights-positive-events-on-december-8
 reading_time: 3
-source_url: "https://gigsfreaks.com/historical-highlights-positive-events-on-december-8/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historical-highlights-positive-events-on-december-8/'
+imported_from: wordpress
 wp_original_id: 986
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historical-highlights-positive-events-on-december-8.webp
 seo:
-  canonical: "https://gigsfreaks.com/historical-highlights-positive-events-on-december-8/"
-  og_title: "Historical Highlights: Positive Events on December 8 - GigsFreaks"
-  og_description: "December 8th is a date of historical significance, marked by pivotal political treaties, groundbreaking scientific advancements, artistic contributions, and remarkable human endeavors, illustrating the interconnectedness of global events and their influence on society's evolution."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historical-highlights-positive-events-on-december-8/'
+  og_title: 'Historical Highlights: Positive Events on December 8 - GigsFreaks'
+  og_description: >-
+    December 8th is a date of historical significance, marked by pivotal
+    political treaties, groundbreaking scientific advancements, artistic
+    contributions, and remarkable human endeavors, illustrating the
+    interconnectedness of global events and their influence on society's
+    evolution.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/12/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 28
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: "The article contains significant factual errors, is too short, uses overly formal tone for entertainment audience, and completely misses the site's entertainment focus and keywords."
+quality_note: >-
+  The article contains significant factual errors, is too short, uses overly
+  formal tone for entertainment audience, and completely misses the site's
+  entertainment focus and keywords.
+image_alt: >-
+  Sunlit historical objects symbolize treaties, science, art, and human progress
+  across time.
 ---
 
 On this day, history has witnessed many remarkable events that have shaped the world as we know it. From pivotal political decisions to groundbreaking scientific achievements, December 8th has consistently been a date of significance across various fields.
