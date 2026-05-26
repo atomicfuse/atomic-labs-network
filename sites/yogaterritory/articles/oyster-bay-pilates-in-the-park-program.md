@@ -22,7 +22,7 @@ source_url: >-
   https://oysterbaytown.com/saladino-announces-registration-for-pilates-in-the-park/
 source_item_id: 6a13fc9f16f23264031d7b89
 generated_by: claude
-featuredImage: /assets/images/yogaterritory-general-article.webp
+featuredImage: /assets/images/oyster-bay-pilates-in-the-park-program.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   program rather than yoga content, making it poorly suited for a yoga-focused
   website's audience and SEO strategy.
 reading_time: 3
+image_alt: >-
+  Adults stretch on exercise mats during a sunny outdoor Pilates session in a
+  waterfront park.
 ---
 ## Free Community Pilates Program Returns to Theodore Roosevelt Park
 
