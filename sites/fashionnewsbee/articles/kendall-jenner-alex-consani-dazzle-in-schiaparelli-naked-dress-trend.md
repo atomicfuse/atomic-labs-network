@@ -1,24 +1,38 @@
 ---
-title: "Kendall Jenner, Alex Consani Dazzle in Schiaparelli Naked Dress Trend"
-description: "The \"naked dress\" trend, featuring sheer fabrics and minimalist design, is making a significant comeback in high fashion. Schiaparelli's latest collection highlighted this trend with Kendall Jenner and Alex Consani, showcasing the style's daring evolution and continued appeal."
-type: "standard"
-status: "published"
-publishDate: "2025-10-03T05:45:32+00:00"
-author: "Taylor Winters"
+title: 'Kendall Jenner, Alex Consani Dazzle in Schiaparelli Naked Dress Trend'
+description: >-
+  The "naked dress" trend, featuring sheer fabrics and minimalist design, is
+  making a significant comeback in high fashion. Schiaparelli's latest
+  collection highlighted this trend with Kendall Jenner and Alex Consani,
+  showcasing the style's daring evolution and continued appeal.
+type: standard
+status: published
+publishDate: '2025-10-03T05:45:32+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "kendall-jenner-alex-consani-dazzle-in-schiaparelli-naked-dress-trend"
+  - Fashion
+slug: kendall-jenner-alex-consani-dazzle-in-schiaparelli-naked-dress-trend
 reading_time: 4
-source_url: "https://fashionnewsbee.com/kendall-jenner-alex-consani-dazzle-in-schiaparelli-naked-dress-trend/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/kendall-jenner-alex-consani-dazzle-in-schiaparelli-naked-dress-trend/
+imported_from: wordpress
 wp_original_id: 31566
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/kendall-jenner-alex-consani-dazzle-in-schiaparelli-naked-dress-trend.webp
 seo:
-  canonical: "https://fashionnewsbee.com/kendall-jenner-alex-consani-dazzle-in-schiaparelli-naked-dress-trend/"
-  og_title: "Kendall Jenner, Alex Consani Dazzle in Schiaparelli Naked Dress Trend - Fashion News Bee"
-  og_description: "The \"naked dress\" trend, featuring sheer fabrics and minimalist design, is making a significant comeback in high fashion. Schiaparelli's latest collection highlighted this trend with Kendall Jenner and Alex Consani, showcasing the style's daring evolution and continued appeal."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/10/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/kendall-jenner-alex-consani-dazzle-in-schiaparelli-naked-dress-trend/
+  og_title: >-
+    Kendall Jenner, Alex Consani Dazzle in Schiaparelli Naked Dress Trend -
+    Fashion News Bee
+  og_description: >-
+    The "naked dress" trend, featuring sheer fabrics and minimalist design, is
+    making a significant comeback in high fashion. Schiaparelli's latest
+    collection highlighted this trend with Kendall Jenner and Alex Consani,
+    showcasing the style's daring evolution and continued appeal.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/10/make_file.png'
+  twitter_card: summary_large_image
+image_alt: Anonymous models in sheer couture gowns on a dramatic luxury runway
 ---
 
 The fashion world was recently abuzz with the latest runway show from Schiaparelli, where the "naked dress" trend took center stage. This daring and bold style was exemplified by none other than Kendall Jenner and Alex Consani, two fashion icons known for their ability to captivate audiences with their style choices. Their appearance on the runway not only highlighted the trend's continued appeal but also demonstrated the creative evolution of fashion in recent seasons.
