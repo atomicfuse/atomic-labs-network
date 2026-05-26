@@ -1,21 +1,31 @@
 ---
-title: "Unusual ‘Smiley Face’ Moon Aligns with Venus and Saturn: A Spectacular Celestial Event on the Horizon"
-description: "The rare lunar phenomenon known as the 'Smiley Face Moon' forms a unique alignment of the Moon, Venus, and Saturn. This occurs when these celestial bodies perfectly align in our line of sight, creating a smiley face pattern visible from Earth."
-type: "standard"
-status: "review"
-publishDate: "2025-04-24T11:01:49"
-author: "Taylor Winters"
+title: >-
+  Unusual ‘Smiley Face’ Moon Aligns with Venus and Saturn: A Spectacular
+  Celestial Event on the Horizon
+description: >-
+  The rare lunar phenomenon known as the 'Smiley Face Moon' forms a unique
+  alignment of the Moon, Venus, and Saturn. This occurs when these celestial
+  bodies perfectly align in our line of sight, creating a smiley face pattern
+  visible from Earth.
+type: standard
+status: review
+publishDate: '2025-04-24T11:01:49'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "unusual-smiley-face-moon-aligns-with-venus-and-saturn-a-spectacular-celestial-event-on-the-horizon"
+  - Space
+slug: >-
+  unusual-smiley-face-moon-aligns-with-venus-and-saturn-a-spectacular-celestial-event-on-the-horizon
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/unusual-smiley-face-moon-aligns-with-venus-and-saturn-a-spectacular-celestial-event-on-the-horizon/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/unusual-smiley-face-moon-aligns-with-venus-and-saturn-a-spectacular-celestial-event-on-the-horizon/
+imported_from: wordpress
 wp_original_id: 14949
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/unusual-smiley-face-moon-aligns-with-venus-and-saturn-a-spectacular-celestial-event-on-the-horizon.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/unusual-smiley-face-moon-aligns-with-venus-and-saturn-a-spectacular-celestial-event-on-the-horizon/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/unusual-smiley-face-moon-aligns-with-venus-and-saturn-a-spectacular-celestial-event-on-the-horizon/
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -23,7 +33,14 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "While the article has good tone and strong space keyword relevance, it's significantly too short at 416 words and contains vague, potentially inaccurate claims about this 'Smiley Face Moon' phenomenon without specific dates or scientific verification."
+quality_note: >-
+  While the article has good tone and strong space keyword relevance, it's
+  significantly too short at 416 words and contains vague, potentially
+  inaccurate claims about this 'Smiley Face Moon' phenomenon without specific
+  dates or scientific verification.
+image_alt: >-
+  Stargazers watch a crescent moon and two bright planets align in a serene
+  night sky.
 ---
 
 Prepare for a celestial spectacle as a rare lunar phenomenon is set to grace our skies. Referred to as the 'Smiley Face Moon,' this astral event creates a unique alignment of the Moon, Venus, and Saturn, which comes around only once in a blue moon. As a stargazer, you can't afford to miss this.
