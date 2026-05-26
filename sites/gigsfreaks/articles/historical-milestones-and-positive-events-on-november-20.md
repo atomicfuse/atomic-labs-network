@@ -1,24 +1,34 @@
 ---
-title: "Historical Milestones and Positive Events on November 20"
-description: "November 20th is marked by historic milestones across sports, entertainment, politics, and technology, including Joe DiMaggio's MVP record, Bo Derek's birth, the start of the Nuremberg Trials, The Beatles' \"Revolver,\" and the launch of Windows 1.0."
-type: "standard"
-status: "review"
-publishDate: "2025-11-20T10:31:35+00:00"
-author: "Nico Harper"
+title: Historical Milestones and Positive Events on November 20
+description: >-
+  November 20th is marked by historic milestones across sports, entertainment,
+  politics, and technology, including Joe DiMaggio's MVP record, Bo Derek's
+  birth, the start of the Nuremberg Trials, The Beatles' "Revolver," and the
+  launch of Windows 1.0.
+type: standard
+status: review
+publishDate: '2025-11-20T10:31:35+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "historical-milestones-and-positive-events-on-november-20"
+  - Hot Trends
+slug: historical-milestones-and-positive-events-on-november-20
 reading_time: 3
-source_url: "https://gigsfreaks.com/historical-milestones-and-positive-events-on-november-20/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/historical-milestones-and-positive-events-on-november-20/
+imported_from: wordpress
 wp_original_id: 980
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historical-milestones-and-positive-events-on-november-20.webp
 seo:
-  canonical: "https://gigsfreaks.com/historical-milestones-and-positive-events-on-november-20/"
-  og_title: "Historical Milestones and Positive Events on November 20 - GigsFreaks"
-  og_description: "November 20th is marked by historic milestones across sports, entertainment, politics, and technology, including Joe DiMaggio's MVP record, Bo Derek's birth, the start of the Nuremberg Trials, The Beatles' \"Revolver,\" and the launch of Windows 1.0."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/historical-milestones-and-positive-events-on-november-20/
+  og_title: Historical Milestones and Positive Events on November 20 - GigsFreaks
+  og_description: >-
+    November 20th is marked by historic milestones across sports, entertainment,
+    politics, and technology, including Joe DiMaggio's MVP record, Bo Derek's
+    birth, the start of the Nuremberg Trials, The Beatles' "Revolver," and the
+    launch of Windows 1.0.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 45
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 30
   keyword_relevance: 25
-quality_note: "The article contains multiple factual errors (DiMaggio's MVP wins, Beatles' Revolver release date, Windows 1.0 launch) and lacks alignment with the entertainment site's focus on trends, humor, and viral content."
+quality_note: >-
+  The article contains multiple factual errors (DiMaggio's MVP wins, Beatles'
+  Revolver release date, Windows 1.0 launch) and lacks alignment with the
+  entertainment site's focus on trends, humor, and viral content.
+image_alt: >-
+  A museum-like timeline of objects symbolizing sports, music, justice, and
+  technology milestones.
 ---
 
 On this day in history, November 20th, various significant events across fields such as sports, entertainment, and politics have left a lasting imprint on our collective memory. This day has witnessed groundbreaking achievements and momentous occasions that continue to inspire and intrigue people worldwide. As we reflect on these pivotal moments, let's delve into the fascinating history of November 20th.
