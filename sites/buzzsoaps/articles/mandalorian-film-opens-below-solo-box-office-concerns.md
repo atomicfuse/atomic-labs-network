@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/buzzsoaps-general-article.webp
+featuredImage: /assets/images/mandalorian-film-opens-below-solo-box-office-concerns.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong tone and keyword alignment, but severely penalized for short length and
   major factual inaccuracies about a non-existent Mandalorian theatrical film.
 reading_time: 3
+image_alt: >-
+  Empty cinema lobby with a dusty sci-fi helmet and lone cloaked figure
+  suggesting box office fatigue.
 ---
 ## Star Wars Faces New Box Office Reality
 
