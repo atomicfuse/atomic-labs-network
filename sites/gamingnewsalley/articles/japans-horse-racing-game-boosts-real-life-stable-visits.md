@@ -1,25 +1,35 @@
 ---
-title: "Japan’s Horse-Racing Game Boosts Real-Life Stable Visits"
-description: "\"Umamusume: Pretty Derby\" blends horse racing and anime, captivating global audiences with its strategic gameplay and unique characters. This game has significantly impacted the gaming community and cultural landscape, combining traditional sports with modern entertainment elements."
-type: "standard"
-status: "published"
-publishDate: "2025-12-29T09:35:25+00:00"
-author: "Taylor Winters"
+title: Japan’s Horse-Racing Game Boosts Real-Life Stable Visits
+description: >-
+  "Umamusume: Pretty Derby" blends horse racing and anime, captivating global
+  audiences with its strategic gameplay and unique characters. This game has
+  significantly impacted the gaming community and cultural landscape, combining
+  traditional sports with modern entertainment elements.
+type: standard
+status: published
+publishDate: '2025-12-29T09:35:25+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "japans-horse-racing-game-boosts-real-life-stable-visits"
+  - Gaming News
+  - Community
+slug: japans-horse-racing-game-boosts-real-life-stable-visits
 reading_time: 4
-source_url: "https://gamingnewsalley.com/japans-horse-racing-game-boosts-real-life-stable-visits/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/japans-horse-racing-game-boosts-real-life-stable-visits/
+imported_from: wordpress
 wp_original_id: 42580
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/japans-horse-racing-game-boosts-real-life-stable-visits.webp
 seo:
-  canonical: "https://gamingnewsalley.com/japans-horse-racing-game-boosts-real-life-stable-visits/"
-  og_title: "Japan's Horse-Racing Game Boosts Real-Life Stable Visits - Gaming News Alley"
-  og_description: "\"Umamusume: Pretty Derby\" blends horse racing and anime, captivating global audiences with its strategic gameplay and unique characters. This game has significantly impacted the gaming community and cultural landscape, combining traditional sports with modern entertainment elements."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/12/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/japans-horse-racing-game-boosts-real-life-stable-visits/
+  og_title: Japan's Horse-Racing Game Boosts Real-Life Stable Visits - Gaming News Alley
+  og_description: >-
+    "Umamusume: Pretty Derby" blends horse racing and anime, captivating global
+    audiences with its strategic gameplay and unique characters. This game has
+    significantly impacted the gaming community and cultural landscape,
+    combining traditional sports with modern entertainment elements.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/12/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and factual content, but falls short on length and could benefit from stronger SEO optimization in title and headings."
+quality_note: >-
+  Well-written article with good tone and factual content, but falls short on
+  length and could benefit from stronger SEO optimization in title and headings.
+image_alt: >-
+  Visitor in a Japanese racing stable with a glowing phone near a calm racehorse
+  at dusk
 ---
 
 In recent years, the gaming industry has witnessed remarkable growth with innovative titles captivating global audiences. One such game making waves is "Umamusume: Pretty Derby," a unique blend of horse racing and anime-inspired characters that has gained significant popularity. Set in a vibrant world where players can train and manage horse-girl characters, this game offers an immersive experience that extends beyond traditional gaming.
