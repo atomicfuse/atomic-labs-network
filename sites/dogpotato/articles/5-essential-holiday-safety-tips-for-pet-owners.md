@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-5-essential-holiday-safety-tips-for-pet-owners
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/5-essential-holiday-safety-tips-for-pet-owners.webp
 reading_time: 4
 quality_score: 74
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Well-written pet safety content with good tone but falls short on word count
   and lacks specific details that would enhance both factual accuracy and SEO
   value.
+image_alt: >-
+  Dog and cat relax in a cozy holiday room with festive decorations safely
+  arranged out of reach.
 ---
 The holiday season brings joy, celebration, and unfortunately, potential hazards for our beloved pets. According to reports, pet owners need to be extra vigilant during festive periods to ensure their furry companions stay safe and healthy.
 
