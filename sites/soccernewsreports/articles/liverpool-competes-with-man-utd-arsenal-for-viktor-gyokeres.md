@@ -1,25 +1,38 @@
 ---
-title: "Liverpool Competes with Man Utd, Arsenal for Viktor Gyokeres"
-description: "Liverpool, Manchester United, and Arsenal are competing to sign Coventry City striker Viktor Gyokeres, who has impressed in the Championship. As the January transfer window nears, the Swedish forward's performances have attracted significant interest from these Premier League clubs."
-type: "standard"
-status: "review"
-publishDate: "2025-06-26T04:21:25+00:00"
-author: "Taylor Winters"
+title: 'Liverpool Competes with Man Utd, Arsenal for Viktor Gyokeres'
+description: >-
+  Liverpool, Manchester United, and Arsenal are competing to sign Coventry City
+  striker Viktor Gyokeres, who has impressed in the Championship. As the January
+  transfer window nears, the Swedish forward's performances have attracted
+  significant interest from these Premier League clubs.
+type: standard
+status: review
+publishDate: '2025-06-26T04:21:25+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andy Robertson"
-slug: "liverpool-competes-with-man-utd-arsenal-for-viktor-gyokeres"
+  - Latest News
+  - Andy Robertson
+slug: liverpool-competes-with-man-utd-arsenal-for-viktor-gyokeres
 reading_time: 3
-source_url: "https://soccernewsreports.com/liverpool-competes-with-man-utd-arsenal-for-viktor-gyokeres/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/liverpool-competes-with-man-utd-arsenal-for-viktor-gyokeres/
+imported_from: wordpress
 wp_original_id: 37870
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/liverpool-competes-with-man-utd-arsenal-for-viktor-gyokeres.webp
 seo:
-  canonical: "https://soccernewsreports.com/liverpool-competes-with-man-utd-arsenal-for-viktor-gyokeres/"
-  og_title: "Liverpool Competes with Man Utd, Arsenal for Viktor Gyokeres - Soccer News Reports"
-  og_description: "Liverpool, Manchester United, and Arsenal are competing to sign Coventry City striker Viktor Gyokeres, who has impressed in the Championship. As the January transfer window nears, the Swedish forward's performances have attracted significant interest from these Premier League clubs."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/06/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/liverpool-competes-with-man-utd-arsenal-for-viktor-gyokeres/
+  og_title: >-
+    Liverpool Competes with Man Utd, Arsenal for Viktor Gyokeres - Soccer News
+    Reports
+  og_description: >-
+    Liverpool, Manchester United, and Arsenal are competing to sign Coventry
+    City striker Viktor Gyokeres, who has impressed in the Championship. As the
+    January transfer window nears, the Swedish forward's performances have
+    attracted significant interest from these Premier League clubs.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/06/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: "Article has good tone and keyword usage but falls well short of target word count and contains significant factual inaccuracies about Gyokeres' current club status."
+quality_note: >-
+  Article has good tone and keyword usage but falls well short of target word
+  count and contains significant factual inaccuracies about Gyokeres' current
+  club status.
+image_alt: >-
+  Striker in a sky-blue kit sprints under floodlights as rival scouts watch from
+  the shadows.
 ---
 
 Liverpool, Manchester United, and Arsenal are reportedly eyeing a move for Coventry City striker Viktor Gyokeres. The Swedish forward has caught the attention of these Premier League giants following his impressive performances in the Championship. As the January transfer window approaches, competition for Gyokeres is expected to intensify, with each club eager to enhance their attacking options.
