@@ -1,24 +1,33 @@
 ---
-title: "Lifetime Alcohol Intake Increases Colorectal Cancer Risk"
-description: "Recent research shows a significant link between lifetime alcohol consumption and increased risk of major diseases like cancer, liver disease, and cardiovascular conditions. Understanding these findings is essential for making informed lifestyle choices and guiding public health initiatives."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T10:51:36+00:00"
-author: "Nico Ashwood"
+title: Lifetime Alcohol Intake Increases Colorectal Cancer Risk
+description: >-
+  Recent research shows a significant link between lifetime alcohol consumption
+  and increased risk of major diseases like cancer, liver disease, and
+  cardiovascular conditions. Understanding these findings is essential for
+  making informed lifestyle choices and guiding public health initiatives.
+type: standard
+status: review
+publishDate: '2026-01-26T10:51:36+00:00'
+author: Nico Ashwood
 tags:
-  - "Mind-Blowing Science"
-slug: "lifetime-alcohol-intake-increases-colorectal-cancer-risk"
+  - Mind-Blowing Science
+slug: lifetime-alcohol-intake-increases-colorectal-cancer-risk
 reading_time: 3
-source_url: "https://useminds.com/lifetime-alcohol-intake-increases-colorectal-cancer-risk/"
-imported_from: "wordpress"
+source_url: 'https://useminds.com/lifetime-alcohol-intake-increases-colorectal-cancer-risk/'
+imported_from: wordpress
 wp_original_id: 475
-featuredImage: "/assets/images/useminds-general-article.webp"
+featuredImage: /assets/images/lifetime-alcohol-intake-increases-colorectal-cancer-risk.webp
 seo:
-  canonical: "https://useminds.com/lifetime-alcohol-intake-increases-colorectal-cancer-risk/"
-  og_title: "Lifetime Alcohol Intake Increases Colorectal Cancer Risk - UseMinds"
-  og_description: "Recent research shows a significant link between lifetime alcohol consumption and increased risk of major diseases like cancer, liver disease, and cardiovascular conditions. Understanding these findings is essential for making informed lifestyle choices and guiding public health initiatives."
-  og_image: "https://useminds.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://useminds.com/lifetime-alcohol-intake-increases-colorectal-cancer-risk/
+  og_title: Lifetime Alcohol Intake Increases Colorectal Cancer Risk - UseMinds
+  og_description: >-
+    Recent research shows a significant link between lifetime alcohol
+    consumption and increased risk of major diseases like cancer, liver disease,
+    and cardiovascular conditions. Understanding these findings is essential for
+    making informed lifestyle choices and guiding public health initiatives.
+  og_image: 'https://useminds.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "Well-structured health article with good SEO elements but lacks the engaging conversational tone and mind-blowing science focus expected for the target audience."
+quality_note: >-
+  Well-structured health article with good SEO elements but lacks the engaging
+  conversational tone and mind-blowing science focus expected for the target
+  audience.
+image_alt: >-
+  A glass of amber liquid casts a shadow into abstract cellular patterns on a
+  laboratory surface.
 ---
 
 Alcohol consumption has long been a topic of extensive research, with numerous studies exploring its effects on health. Recent findings have unveiled a significant connection between lifetime alcohol consumption and an increased risk of developing major diseases. Understanding these implications is crucial for public health initiatives and individual lifestyle choices.
