@@ -1,26 +1,39 @@
 ---
-title: "Uncover the Top Easter Getaways: Exploring Dublin, Amsterdam, and Spain"
-description: "As the Easter holiday season approaches, popular destinations like Dublin, Amsterdam, and Spain are preparing to welcome tourists. However, it's crucial for holidaymakers to stay updated with the latest travel advisories, health protocols, and local laws for a safe, hassle-free journey."
-type: "standard"
-status: "review"
-publishDate: "2025-04-17T08:16:35+00:00"
-author: "Taylor Winters"
+title: 'Uncover the Top Easter Getaways: Exploring Dublin, Amsterdam, and Spain'
+description: >-
+  As the Easter holiday season approaches, popular destinations like Dublin,
+  Amsterdam, and Spain are preparing to welcome tourists. However, it's crucial
+  for holidaymakers to stay updated with the latest travel advisories, health
+  protocols, and local laws for a safe, hassle-free journey.
+type: standard
+status: review
+publishDate: '2025-04-17T08:16:35+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "uncover-the-top-easter-getaways-exploring-dublin-amsterdam-and-spain"
+  - Destinations
+  - Tips
+  - Travel
+slug: uncover-the-top-easter-getaways-exploring-dublin-amsterdam-and-spain
 reading_time: 2
-source_url: "https://journeypeaks.com/uncover-the-top-easter-getaways-exploring-dublin-amsterdam-and-spain/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/uncover-the-top-easter-getaways-exploring-dublin-amsterdam-and-spain/
+imported_from: wordpress
 wp_original_id: 38625
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/uncover-the-top-easter-getaways-exploring-dublin-amsterdam-and-spain.webp
 seo:
-  canonical: "https://journeypeaks.com/uncover-the-top-easter-getaways-exploring-dublin-amsterdam-and-spain/"
-  og_title: "Uncover the Top Easter Getaways: Exploring Dublin, Amsterdam, and Spain - Journey Peaks"
-  og_description: "As the Easter holiday season approaches, popular destinations like Dublin, Amsterdam, and Spain are preparing to welcome tourists. However, it's crucial for holidaymakers to stay updated with the latest travel advisories, health protocols, and local laws for a safe, hassle-free journey."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/uncover-the-top-easter-getaways-exploring-dublin-amsterdam-and-spain/
+  og_title: >-
+    Uncover the Top Easter Getaways: Exploring Dublin, Amsterdam, and Spain -
+    Journey Peaks
+  og_description: >-
+    As the Easter holiday season approaches, popular destinations like Dublin,
+    Amsterdam, and Spain are preparing to welcome tourists. However, it's
+    crucial for holidaymakers to stay updated with the latest travel advisories,
+    health protocols, and local laws for a safe, hassle-free journey.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-targeted travel content with good tone and keyword coverage, but severely penalized by extremely short length at only 318 words versus the 800-1200 word target."
+quality_note: >-
+  Well-targeted travel content with good tone and keyword coverage, but severely
+  penalized by extremely short length at only 318 words versus the 800-1200 word
+  target.
+image_alt: >-
+  Spring travel essentials on a café table with soft European city details in
+  the background
 ---
 
 As the Easter holiday season approaches, families and holidaymakers are eager to finalize their travel plans. Top destinations like Dublin, Amsterdam, and Spain are on the popular list. However, there are some essential details to keep in mind before packing your bags for these hotspots.
