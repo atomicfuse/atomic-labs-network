@@ -1,24 +1,37 @@
 ---
-title: "Rockstar Games Allegedly Dismisses Dozens to Avoid Unionization"
-description: "Rockstar Games faces scrutiny after allegedly dismissing dozens of employees to thwart unionization efforts, sparking a debate about labor practices in the gaming industry. The situation highlights tensions between business objectives and fair treatment of workers."
-type: "standard"
-status: "review"
-publishDate: "2025-11-03T09:33:23+00:00"
-author: "Taylor Winters"
+title: Rockstar Games Allegedly Dismisses Dozens to Avoid Unionization
+description: >-
+  Rockstar Games faces scrutiny after allegedly dismissing dozens of employees
+  to thwart unionization efforts, sparking a debate about labor practices in the
+  gaming industry. The situation highlights tensions between business objectives
+  and fair treatment of workers.
+type: standard
+status: review
+publishDate: '2025-11-03T09:33:23+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "rockstar-games-allegedly-dismisses-dozens-to-avoid-unionization"
+  - Gaming News
+  - Community
+slug: rockstar-games-allegedly-dismisses-dozens-to-avoid-unionization
 reading_time: 3
-source_url: "https://gamingnewsalley.com/rockstar-games-allegedly-dismisses-dozens-to-avoid-unionization/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/rockstar-games-allegedly-dismisses-dozens-to-avoid-unionization/
+imported_from: wordpress
 wp_original_id: 42541
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/rockstar-games-allegedly-dismisses-dozens-to-avoid-unionization.webp
 seo:
-  canonical: "https://gamingnewsalley.com/rockstar-games-allegedly-dismisses-dozens-to-avoid-unionization/"
-  og_title: "Rockstar Games Allegedly Dismisses Dozens to Avoid Unionization - Gaming News Alley"
-  og_description: "Rockstar Games faces scrutiny after allegedly dismissing dozens of employees to thwart unionization efforts, sparking a debate about labor practices in the gaming industry. The situation highlights tensions between business objectives and fair treatment of workers."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/rockstar-games-allegedly-dismisses-dozens-to-avoid-unionization/
+  og_title: >-
+    Rockstar Games Allegedly Dismisses Dozens to Avoid Unionization - Gaming
+    News Alley
+  og_description: >-
+    Rockstar Games faces scrutiny after allegedly dismissing dozens of employees
+    to thwart unionization efforts, sparking a debate about labor practices in
+    the gaming industry. The situation highlights tensions between business
+    objectives and fair treatment of workers.
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "Article covers relevant gaming industry news with good keyword integration, but lacks specific sourcing for serious allegations and falls short of target word count."
+quality_note: >-
+  Article covers relevant gaming industry news with good keyword integration,
+  but lacks specific sourcing for serious allegations and falls short of target
+  word count.
+image_alt: >-
+  Anonymous game studio workers gather in a tense office after hours amid empty
+  desks.
 ---
 
 Rockstar Games, the renowned game developer behind the iconic Grand Theft Auto series, recently made headlines with reports that it dismissed dozens of employees in an effort to thwart unionization efforts. This decision has drawn significant attention from both industry insiders and the public, raising questions about labor practices within the gaming industry.
