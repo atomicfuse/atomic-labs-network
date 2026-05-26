@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-xpeng-p7-a-unique-blend-of-style-and-innovation-in-modern-cars
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/xpeng-p7-a-unique-blend-of-style-and-innovation-in-modern-cars.webp
 reading_time: 3
 quality_score: 70
 score_breakdown:
@@ -34,6 +35,7 @@ quality_note: >-
   Article covers relevant EV topics well but is significantly under target word
   count at 588 words, and lacks specific technical details or compelling hooks
   that would engage automotive enthusiasts.
+image_alt: Sleek futuristic electric sedan on a reflective city street at blue hour
 ---
 ## The Xpeng P7's Distinctive Approach to Electric Mobility
 
