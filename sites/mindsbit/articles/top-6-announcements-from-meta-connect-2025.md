@@ -1,25 +1,33 @@
 ---
-title: "Top 6 Announcements from Meta Connect 2025"
-description: "Meta Connect 2025 showcased new Ray-Ban and Oakley smart glasses, highlighting a leap in wearable tech. These glasses offer advanced features, seamless connectivity, and innovative design, enhancing user interaction with digital content while ensuring privacy and security."
-type: "standard"
-status: "review"
-publishDate: "2025-09-18T07:29:25+00:00"
-author: "Lena Ashwood"
+title: Top 6 Announcements from Meta Connect 2025
+description: >-
+  Meta Connect 2025 showcased new Ray-Ban and Oakley smart glasses, highlighting
+  a leap in wearable tech. These glasses offer advanced features, seamless
+  connectivity, and innovative design, enhancing user interaction with digital
+  content while ensuring privacy and security.
+type: standard
+status: review
+publishDate: '2025-09-18T07:29:25+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "top-6-announcements-from-meta-connect-2025"
+  - Innovation
+  - Tech
+slug: top-6-announcements-from-meta-connect-2025
 reading_time: 3
-source_url: "https://mindsbit.com/top-6-announcements-from-meta-connect-2025/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/top-6-announcements-from-meta-connect-2025/'
+imported_from: wordpress
 wp_original_id: 397
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/top-6-announcements-from-meta-connect-2025.webp
 seo:
-  canonical: "https://mindsbit.com/top-6-announcements-from-meta-connect-2025/"
-  og_title: "Top 6 Announcements from Meta Connect 2025 - Minds bit"
-  og_description: "Meta Connect 2025 showcased new Ray-Ban and Oakley smart glasses, highlighting a leap in wearable tech. These glasses offer advanced features, seamless connectivity, and innovative design, enhancing user interaction with digital content while ensuring privacy and security."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/09/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/top-6-announcements-from-meta-connect-2025/'
+  og_title: Top 6 Announcements from Meta Connect 2025 - Minds bit
+  og_description: >-
+    Meta Connect 2025 showcased new Ray-Ban and Oakley smart glasses,
+    highlighting a leap in wearable tech. These glasses offer advanced features,
+    seamless connectivity, and innovative design, enhancing user interaction
+    with digital content while ensuring privacy and security.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/09/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "While the article covers relevant tech topics with appropriate tone, it's significantly too short and contains major factual inaccuracies about a 2025 event that hasn't occurred yet."
+quality_note: >-
+  While the article covers relevant tech topics with appropriate tone, it's
+  significantly too short and contains major factual inaccuracies about a 2025
+  event that hasn't occurred yet.
+image_alt: >-
+  Sleek smart glasses with subtle holographic interface elements on a reflective
+  surface
 ---
 
 Meta's latest innovations were unveiled at the much-anticipated Meta Connect 2025, a significant event that showcased the company's strides in technology. Among the highlights were the new Ray-Ban and Oakley smart glasses, which represent a leap forward in wearable tech. These glasses are designed to integrate seamlessly into daily life, offering advanced features and connectivity.
