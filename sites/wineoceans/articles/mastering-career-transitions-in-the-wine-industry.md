@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-mastering-career-transitions-in-the-wine-industry
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/mastering-career-transitions-in-the-wine-industry.webp
 reading_time: 2
 quality_score: 67
 score_breakdown:
@@ -33,6 +33,9 @@ quality_note: >-
   Article covers relevant wine industry topic with good structure and accuracy,
   but falls significantly short of target word count at only 381 words, limiting
   its overall effectiveness.
+image_alt: >-
+  Wine professional standing between a barrel cellar and sunlit vineyard,
+  suggesting a career transition.
 ---
 ## Understanding Wine Industry Career Paths
 
