@@ -22,7 +22,8 @@ source_url: >-
   https://medium.com/@attilavago?source=topic_portal---recommended_stories---pop_culture---5-107--------------------0c7c03ff_17cb_4a49_aeaf_b6a6c35c0518--------------
 source_item_id: 6a13f84e16f23264031d7ab3
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: >-
+  /assets/images/tech-professional-builds-personal-brand-accessibility-advocacy.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -34,6 +35,9 @@ quality_note: >-
   Well-written article with good structure and tone, but falls short on content
   length and has limited direct gadget focus despite relevant tags.
 reading_time: 3
+image_alt: >-
+  Tech professional in a warm workspace with abstract accessibility and
+  creator-brand elements
 ---
 ## Building Authority Through Technical Expertise and Personal Passion
 
