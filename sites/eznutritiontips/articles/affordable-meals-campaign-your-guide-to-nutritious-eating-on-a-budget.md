@@ -1,26 +1,40 @@
 ---
-title: "Affordable Meals Campaign: Your Guide to Nutritious Eating on a Budget"
-description: "The Affordable Meals campaign, led by the University of Manitoba, is assisting students to access nutritious, low-cost meals through meal planning guides, budget-friendly recipes, nutrition workshops, and collaborations with grocery stores and community organizations."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:20:37+00:00"
-author: "Taylor Winters"
+title: 'Affordable Meals Campaign: Your Guide to Nutritious Eating on a Budget'
+description: >-
+  The Affordable Meals campaign, led by the University of Manitoba, is assisting
+  students to access nutritious, low-cost meals through meal planning guides,
+  budget-friendly recipes, nutrition workshops, and collaborations with grocery
+  stores and community organizations.
+type: standard
+status: review
+publishDate: '2025-04-23T16:20:37+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Special Diets"
-slug: "affordable-meals-campaign-your-guide-to-nutritious-eating-on-a-budget"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Special Diets
+slug: affordable-meals-campaign-your-guide-to-nutritious-eating-on-a-budget
 reading_time: 2
-source_url: "https://eznutritiontips.com/affordable-meals-campaign-your-guide-to-nutritious-eating-on-a-budget/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/affordable-meals-campaign-your-guide-to-nutritious-eating-on-a-budget/
+imported_from: wordpress
 wp_original_id: 18778
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/affordable-meals-campaign-your-guide-to-nutritious-eating-on-a-budget.webp
 seo:
-  canonical: "https://eznutritiontips.com/affordable-meals-campaign-your-guide-to-nutritious-eating-on-a-budget/"
-  og_title: "Affordable Meals Campaign: Your Guide to Nutritious Eating on a Budget - Easy Nutrition Tips"
-  og_description: "The Affordable Meals campaign, led by the University of Manitoba, is assisting students to access nutritious, low-cost meals. The initiative includes meal planning guides, budget-friendly recipes, and nutrition workshops, and collaborates with grocery stores and community organizations to provide meal kits and food baskets."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-58.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/affordable-meals-campaign-your-guide-to-nutritious-eating-on-a-budget/
+  og_title: >-
+    Affordable Meals Campaign: Your Guide to Nutritious Eating on a Budget -
+    Easy Nutrition Tips
+  og_description: >-
+    The Affordable Meals campaign, led by the University of Manitoba, is
+    assisting students to access nutritious, low-cost meals. The initiative
+    includes meal planning guides, budget-friendly recipes, and nutrition
+    workshops, and collaborates with grocery stores and community organizations
+    to provide meal kits and food baskets.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-58.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -28,7 +42,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but significantly under target length at 387 words and could better integrate nutrition tips and recipes for the target audience."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target length at 387 words and could better integrate nutrition tips and
+  recipes for the target audience.
+image_alt: >-
+  Students prepare colorful affordable meals together in a bright kitchen
+  setting.
 ---
 
 Keeping up a healthy diet while on a tight budget may seem daunting, but it's a challenge being tackled head-on by the Affordable Meals campaign. Led by the University of Manitoba's Student Support, the initiative is aimed at helping students gain access to nutritious, low-cost meals.
