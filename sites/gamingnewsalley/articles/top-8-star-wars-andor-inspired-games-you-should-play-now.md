@@ -1,27 +1,40 @@
 ---
-title: "Top 8 Star Wars: Andor Inspired Games You Should Play Now"
-description: "As anticipation for the Star Wars: Andor series builds, fans can immerse themselves in the Star Wars universe through video games like Star Wars: Battlefront II, Star Wars: Knights of the Old Republic, Star Wars Jedi: Fallen Order, and Star Wars: Squadrons."
-type: "standard"
-status: "review"
-publishDate: "2025-04-28T06:46:38+00:00"
-author: "Taylor Winters"
+title: 'Top 8 Star Wars: Andor Inspired Games You Should Play Now'
+description: >-
+  As anticipation for the Star Wars: Andor series builds, fans can immerse
+  themselves in the Star Wars universe through video games like Star Wars:
+  Battlefront II, Star Wars: Knights of the Old Republic, Star Wars Jedi: Fallen
+  Order, and Star Wars: Squadrons.
+type: standard
+status: review
+publishDate: '2025-04-28T06:46:38+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Christian Cantamessa"
-  - "chucklefish"
-  - "Compile Heart"
-slug: "top-8-star-wars-andor-inspired-games-you-should-play-now"
+  - Gaming News
+  - Christian Cantamessa
+  - chucklefish
+  - Compile Heart
+slug: top-8-star-wars-andor-inspired-games-you-should-play-now
 reading_time: 2
-source_url: "https://gamingnewsalley.com/top-8-star-wars-andor-inspired-games-you-should-play-now/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/top-8-star-wars-andor-inspired-games-you-should-play-now/
+imported_from: wordpress
 wp_original_id: 42458
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/top-8-star-wars-andor-inspired-games-you-should-play-now.webp
 seo:
-  canonical: "https://gamingnewsalley.com/top-8-star-wars-andor-inspired-games-you-should-play-now/"
-  og_title: "Top 8 Star Wars: Andor Inspired Games You Should Play Now - Gaming News Alley"
-  og_description: "As anticipation for the Star Wars: Andor series builds, fans can immerse themselves in the Star Wars universe through video games like Star Wars: Battlefront II, Star Wars: Knights of the Old Republic, Star Wars Jedi: Fallen Order, and Star Wars: Squadrons."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/04/make_mixcollage-26-apr-2025-12-54-pm-7261.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/top-8-star-wars-andor-inspired-games-you-should-play-now/
+  og_title: >-
+    Top 8 Star Wars: Andor Inspired Games You Should Play Now - Gaming News
+    Alley
+  og_description: >-
+    As anticipation for the Star Wars: Andor series builds, fans can immerse
+    themselves in the Star Wars universe through video games like Star Wars:
+    Battlefront II, Star Wars: Knights of the Old Republic, Star Wars Jedi:
+    Fallen Order, and Star Wars: Squadrons.
+  og_image: >-
+    https://gamingnewsalley.com/wp-content/uploads/2025/04/make_mixcollage-26-apr-2025-12-54-pm-7261.jpg
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -29,7 +42,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and factual content but falls significantly short of the target word count and has misleading tags that don't match the Star Wars gaming content."
+quality_note: >-
+  The article has good tone and factual content but falls significantly short of
+  the target word count and has misleading tags that don't match the Star Wars
+  gaming content.
+image_alt: >-
+  A sci-fi pilot in a smoky hangar faces glowing holographic portals to
+  different space adventures.
 ---
 
 With the anticipation for the Star Wars: Andor series building, fans of the franchise are seeking to immerse themselves in the Star Wars universe. If you're one of them, we've got you covered. Here's our pick of video games that echo the themes and atmosphere of the upcoming show. These recommendations will help you get your Star Wars fix while you wait for the Andor series.
