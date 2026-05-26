@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: /assets/images/mandalorian-film-opens-below-solo-box-office.webp
 quality_score: 57
 score_breakdown:
   seo_quality: 72
@@ -34,6 +34,7 @@ quality_note: >-
   film and is significantly below target word count, despite good tone and
   keyword relevance.
 reading_time: 2
+image_alt: Empty theater seats with a lone sci-fi helmet under a dim projector beam
 ---
 ## Star Wars Theatrical Struggles Continue
 
