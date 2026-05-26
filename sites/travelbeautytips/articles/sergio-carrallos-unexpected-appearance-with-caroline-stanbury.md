@@ -1,25 +1,38 @@
 ---
-title: "Sergio Carrallo’s Unexpected Appearance with Caroline Stanbury"
-description: "Sergio Carrallo, husband of Caroline Stanbury, unexpectedly appeared without pants in one of his wife's beauty videos, sparking a viral moment that highlighted the couple's playful dynamic and the power of authenticity in social media marketing."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T04:49:30+00:00"
-author: "Taylor Winters"
+title: Sergio Carrallo’s Unexpected Appearance with Caroline Stanbury
+description: >-
+  Sergio Carrallo, husband of Caroline Stanbury, unexpectedly appeared without
+  pants in one of his wife's beauty videos, sparking a viral moment that
+  highlighted the couple's playful dynamic and the power of authenticity in
+  social media marketing.
+type: standard
+status: review
+publishDate: '2025-07-31T04:49:30+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "sergio-carrallos-unexpected-appearance-with-caroline-stanbury"
+  - Travel Tips
+  - Beauty
+slug: sergio-carrallos-unexpected-appearance-with-caroline-stanbury
 reading_time: 3
-source_url: "https://travelbeautytips.com/sergio-carrallos-unexpected-appearance-with-caroline-stanbury/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/sergio-carrallos-unexpected-appearance-with-caroline-stanbury/
+imported_from: wordpress
 wp_original_id: 35928
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/sergio-carrallos-unexpected-appearance-with-caroline-stanbury.webp
 seo:
-  canonical: "https://travelbeautytips.com/sergio-carrallos-unexpected-appearance-with-caroline-stanbury/"
-  og_title: "Sergio Carrallo's Unexpected Appearance with Caroline Stanbury - Travel Beauty Tips"
-  og_description: "Sergio Carrallo, husband of Caroline Stanbury, unexpectedly appeared without pants in a beauty video, sparking humor and intrigue. This viral moment highlighted their playful dynamic and emphasized the power of authenticity in social media marketing."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/07/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/sergio-carrallos-unexpected-appearance-with-caroline-stanbury/
+  og_title: >-
+    Sergio Carrallo's Unexpected Appearance with Caroline Stanbury - Travel
+    Beauty Tips
+  og_description: >-
+    Sergio Carrallo, husband of Caroline Stanbury, unexpectedly appeared without
+    pants in a beauty video, sparking humor and intrigue. This viral moment
+    highlighted their playful dynamic and emphasized the power of authenticity
+    in social media marketing.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/07/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 30
-quality_note: "The article lacks proper SEO structure with no meta description or H2/H3 headings, is significantly under target word count, and focuses on celebrity gossip rather than the site's core beauty and travel content."
+quality_note: >-
+  The article lacks proper SEO structure with no meta description or H2/H3
+  headings, is significantly under target word count, and focuses on celebrity
+  gossip rather than the site's core beauty and travel content.
+image_alt: >-
+  Glamorous beauty shoot interrupted by a playful partner peeking in from a
+  doorway
 ---
 
 In the world of glamor and social media, unexpected moments often capture the audience's attention. Recently, Sergio Carrallo, the husband of British television personality Caroline Stanbury, made headlines with a surprising appearance in one of his wife's beauty videos. This incident has sparked a buzz among fans and followers, bringing a fresh wave of attention to the couple.
