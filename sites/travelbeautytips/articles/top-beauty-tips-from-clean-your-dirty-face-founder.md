@@ -1,25 +1,35 @@
 ---
-title: "Top Beauty Tips from Clean Your Dirty Face Founder"
-description: "Shama Patel, founder of Clean Your Dirty Face, is revolutionizing skincare with her innovative approach, offering accessible and efficient facial services. Her commitment to simplicity and quality reflects her passion for empowering individuals through effective skincare solutions."
-type: "standard"
-status: "review"
-publishDate: "2026-03-12T09:45:28+00:00"
-author: "Taylor Winters"
+title: Top Beauty Tips from Clean Your Dirty Face Founder
+description: >-
+  Shama Patel, founder of Clean Your Dirty Face, is revolutionizing skincare
+  with her innovative approach, offering accessible and efficient facial
+  services. Her commitment to simplicity and quality reflects her passion for
+  empowering individuals through effective skincare solutions.
+type: standard
+status: review
+publishDate: '2026-03-12T09:45:28+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty Tips"
-  - "Beauty"
-slug: "top-beauty-tips-from-clean-your-dirty-face-founder"
+  - Beauty Tips
+  - Beauty
+slug: top-beauty-tips-from-clean-your-dirty-face-founder
 reading_time: 3
-source_url: "https://travelbeautytips.com/top-beauty-tips-from-clean-your-dirty-face-founder/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/top-beauty-tips-from-clean-your-dirty-face-founder/
+imported_from: wordpress
 wp_original_id: 36162
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/top-beauty-tips-from-clean-your-dirty-face-founder.webp
 seo:
-  canonical: "https://travelbeautytips.com/top-beauty-tips-from-clean-your-dirty-face-founder/"
-  og_title: "Top Beauty Tips from Clean Your Dirty Face Founder - Travel Beauty Tips"
-  og_description: "Shama Patel, founder of Clean Your Dirty Face, is revolutionizing skincare with her innovative approach, offering accessible and efficient facial services. Her commitment to simplicity and quality reflects her passion for empowering individuals through effective skincare solutions."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/03/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/top-beauty-tips-from-clean-your-dirty-face-founder/
+  og_title: Top Beauty Tips from Clean Your Dirty Face Founder - Travel Beauty Tips
+  og_description: >-
+    Shama Patel, founder of Clean Your Dirty Face, is revolutionizing skincare
+    with her innovative approach, offering accessible and efficient facial
+    services. Her commitment to simplicity and quality reflects her passion for
+    empowering individuals through effective skincare solutions.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/03/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Article has good tone and keyword relevance but falls significantly short of target word count at only 410 words, impacting overall quality."
+quality_note: >-
+  Article has good tone and keyword relevance but falls significantly short of
+  target word count at only 410 words, impacting overall quality.
+image_alt: >-
+  A woman receives a calming facial treatment in a bright, modern skincare
+  studio.
 ---
 
 Shama Patel, a visionary in the beauty industry, has crafted a unique path by founding the innovative skincare brand, Clean Your Dirty Face. Her journey is not only a testament to her entrepreneurial spirit but also a reflection of her passion for skincare and wellness. As she continues to build her brand, Shama shares insights into her beauty routine and the inspirations that drive her success.
