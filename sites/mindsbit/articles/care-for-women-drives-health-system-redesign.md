@@ -1,26 +1,32 @@
 ---
-title: "CARE for Women Drives Health System Redesign"
-description: "Women's health is a major healthcare and economic opportunity, requiring better data, investment, and care models that address women's needs across every life stage, not just reproductive health."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T09:18:47+00:00"
-author: "Lena Ashwood"
+title: CARE for Women Drives Health System Redesign
+description: >-
+  Women's health is a major healthcare and economic opportunity, requiring
+  better data, investment, and care models that address women's needs across
+  every life stage, not just reproductive health.
+type: standard
+status: published
+publishDate: '2026-05-18T09:18:47+00:00'
+author: Lena Ashwood
 tags:
-  - "Finance"
-  - "Ideas"
-  - "Innovation"
-slug: "care-for-women-drives-health-system-redesign"
+  - Finance
+  - Ideas
+  - Innovation
+slug: care-for-women-drives-health-system-redesign
 reading_time: 7
-source_url: "https://mindsbit.com/care-for-women-drives-health-system-redesign/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/care-for-women-drives-health-system-redesign/'
+imported_from: wordpress
 wp_original_id: 522
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/care-for-women-drives-health-system-redesign.webp
 seo:
-  canonical: "https://mindsbit.com/care-for-women-drives-health-system-redesign/"
-  og_title: "CARE for Women Drives Health System Redesign - Minds bit"
-  og_description: "Women’s health is a major healthcare and economic opportunity, requiring better data, investment and care models that address women’s needs across every life stage, not just reproductive health."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/05/make_file-2.html"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/care-for-women-drives-health-system-redesign/'
+  og_title: CARE for Women Drives Health System Redesign - Minds bit
+  og_description: >-
+    Women’s health is a major healthcare and economic opportunity, requiring
+    better data, investment and care models that address women’s needs across
+    every life stage, not just reproductive health.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/05/make_file-2.html'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -28,7 +34,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written healthcare policy article with strong structure and data-backed arguments, though it focuses more on healthcare than core technology topics expected for this tech-focused audience."
+quality_note: >-
+  Well-written healthcare policy article with strong structure and data-backed
+  arguments, though it focuses more on healthcare than core technology topics
+  expected for this tech-focused audience.
+image_alt: Diverse women in a modern care setting connected by subtle pathways of light
 ---
 
 Women's health is moving from the margins of healthcare strategy to the center of global economic planning. A growing body of evidence shows that better care for women is not only a matter of fairness, but also a major opportunity to improve productivity, extend healthy lives and strengthen health systems. The World Economic Forum and McKinsey have helped sharpen that conversation by framing women's health as a lifelong, whole-person issue that reaches far beyond pregnancy and reproductive care.
