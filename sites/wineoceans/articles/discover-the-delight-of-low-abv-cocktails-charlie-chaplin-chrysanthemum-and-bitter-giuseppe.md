@@ -24,7 +24,8 @@ source_url: ''
 source_item_id: >-
   synthetic-discover-the-delight-of-low-abv-cocktails-charlie-chaplin-chrysanthemum-and-bitter-giuseppe
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/discover-the-delight-of-low-abv-cocktails-charlie-chaplin-chrysanthemum-and-bitter-giuseppe.webp
 reading_time: 3
 quality_score: 52
 score_breakdown:
@@ -37,6 +38,9 @@ quality_note: >-
   Article is significantly under target length at 411 words and focuses on
   cocktails rather than wine topics, though it maintains decent structure and
   readability.
+image_alt: >-
+  Three refined low-alcohol cocktails on a marble bar with citrus garnishes and
+  warm ambient lighting.
 ---
 ## The Rise of Low ABV Cocktails
 
