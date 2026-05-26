@@ -1,25 +1,32 @@
 ---
-title: "Casting Calls for Movies and TV Shows in Los Angeles"
-description: "The entertainment industry in Los Angeles thrives in 2026, with new movies and TV shows casting. The city remains a key hub for film production, attracting actors seeking career opportunities across diverse projects."
-type: "standard"
-status: "published"
-publishDate: "2026-02-05T10:37:36+00:00"
-author: "Jennifer Clarkson"
+title: Casting Calls for Movies and TV Shows in Los Angeles
+description: >-
+  The entertainment industry in Los Angeles thrives in 2026, with new movies and
+  TV shows casting. The city remains a key hub for film production, attracting
+  actors seeking career opportunities across diverse projects.
+type: standard
+status: published
+publishDate: '2026-02-05T10:37:36+00:00'
+author: Jennifer Clarkson
 tags:
-  - "Movies"
-  - "TV Shows"
-slug: "casting-calls-for-movies-and-tv-shows-in-los-angeles-2"
+  - Movies
+  - TV Shows
+slug: casting-calls-for-movies-and-tv-shows-in-los-angeles-2
 reading_time: 4
-source_url: "https://muvizz.com/casting-calls-for-movies-and-tv-shows-in-los-angeles-2/"
-imported_from: "wordpress"
+source_url: 'https://muvizz.com/casting-calls-for-movies-and-tv-shows-in-los-angeles-2/'
+imported_from: wordpress
 wp_original_id: 28240
-featuredImage: "/assets/images/muvizz-general-article.webp"
+featuredImage: /assets/images/casting-calls-for-movies-and-tv-shows-in-los-angeles-2.webp
 seo:
-  canonical: "https://muvizz.com/casting-calls-for-movies-and-tv-shows-in-los-angeles-2/"
-  og_title: "Casting Calls for Movies and TV Shows in Los Angeles - Muvizz"
-  og_description: "The entertainment industry in Los Angeles thrives in 2026, with new movies and TV shows casting. The city remains a key hub for film production, attracting actors seeking career opportunities. Diverse landscapes and studios provide ideal settings for varied projects."
-  og_image: "https://muvizz.com/wp-content/uploads/2026/02/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://muvizz.com/casting-calls-for-movies-and-tv-shows-in-los-angeles-2/'
+  og_title: Casting Calls for Movies and TV Shows in Los Angeles - Muvizz
+  og_description: >-
+    The entertainment industry in Los Angeles thrives in 2026, with new movies
+    and TV shows casting. The city remains a key hub for film production,
+    attracting actors seeking career opportunities. Diverse landscapes and
+    studios provide ideal settings for varied projects.
+  og_image: 'https://muvizz.com/wp-content/uploads/2026/02/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -27,7 +34,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Decent entertainment industry content with good tone match but lacks compelling SEO optimization and specific current details that would make it truly engaging for entertainment enthusiasts."
+quality_note: >-
+  Decent entertainment industry content with good tone match but lacks
+  compelling SEO optimization and specific current details that would make it
+  truly engaging for entertainment enthusiasts.
+image_alt: >-
+  Hopeful actor waits in a sunlit Los Angeles studio corridor before an
+  audition.
 ---
 
 The entertainment industry in Los Angeles is always bustling with activity, and 2026 is no exception. With a plethora of new movies and TV shows being cast, the City of Angels remains a pivotal hub for film and television production. Aspiring actors and seasoned veterans alike flock to the city for opportunities that could launch or elevate their careers.
