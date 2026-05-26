@@ -336,22 +336,23 @@ sites:
   - domain: useminds
     company: NGC
     vertical: Science
-    status: Staging
+    status: Live
     site_id: "9619803022718"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-25T10:30:45.997Z
+    last_updated: 2026-05-26T08:44:47.732Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: d391aef79e0b6b2f8d2effad885a7f5f
     staging_branch: staging/useminds
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=useminds
     saved_previews: null
-    custom_domain: null
+    custom_domain: useminds.com
+    worker_pending_dns: false
   - domain: sciencenewslab
     company: ATL
     vertical: Science
