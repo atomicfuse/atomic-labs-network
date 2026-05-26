@@ -1,26 +1,39 @@
 ---
-title: "2025 Business Travel Forecast: Slow Growth in Major U.S. Cities"
-description: "Business travel in major U.S. cities is expected to grow slowly by 2025, presenting challenges and opportunities for the industry as it adapts to evolving market conditions. Key cities like New York, Los Angeles, and Miami face varied recovery paths."
-type: "standard"
-status: "published"
-publishDate: "2025-10-03T05:49:24+00:00"
-author: "Taylor Winters"
+title: '2025 Business Travel Forecast: Slow Growth in Major U.S. Cities'
+description: >-
+  Business travel in major U.S. cities is expected to grow slowly by 2025,
+  presenting challenges and opportunities for the industry as it adapts to
+  evolving market conditions. Key cities like New York, Los Angeles, and Miami
+  face varied recovery paths.
+type: standard
+status: published
+publishDate: '2025-10-03T05:49:24+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "News"
-  - "Travel"
-slug: "2025-business-travel-forecast-slow-growth-in-major-u-s-cities"
+  - Destinations
+  - News
+  - Travel
+slug: 2025-business-travel-forecast-slow-growth-in-major-u-s-cities
 reading_time: 3
-source_url: "https://journeypeaks.com/2025-business-travel-forecast-slow-growth-in-major-u-s-cities/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/2025-business-travel-forecast-slow-growth-in-major-u-s-cities/
+imported_from: wordpress
 wp_original_id: 38704
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/2025-business-travel-forecast-slow-growth-in-major-u-s-cities.webp
 seo:
-  canonical: "https://journeypeaks.com/2025-business-travel-forecast-slow-growth-in-major-u-s-cities/"
-  og_title: "2025 Business Travel Forecast: Slow Growth in Major U.S. Cities - Journey Peaks"
-  og_description: "Business travel in major U.S. cities is expected to grow slowly by 2025, presenting challenges and opportunities for the industry as it adapts to evolving market conditions. Key cities like New York, Los Angeles, and Miami face varied recovery paths."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/2025-business-travel-forecast-slow-growth-in-major-u-s-cities/
+  og_title: >-
+    2025 Business Travel Forecast: Slow Growth in Major U.S. Cities - Journey
+    Peaks
+  og_description: >-
+    Business travel in major U.S. cities is expected to grow slowly by 2025,
+    presenting challenges and opportunities for the industry as it adapts to
+    evolving market conditions. Key cities like New York, Los Angeles, and Miami
+    face varied recovery paths.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written article with strong keyword relevance and appropriate tone, but falls short on length and could benefit from more specific data sources for better factual grounding."
+quality_note: >-
+  Well-written article with strong keyword relevance and appropriate tone, but
+  falls short on length and could benefit from more specific data sources for
+  better factual grounding.
+image_alt: Business traveler in an airport lounge facing a layered city skyline at dawn.
 ---
 
 The landscape of business travel in the United States is undergoing significant changes, with a new forecast shedding light on future trends in major cities. As the economy continues to recover, key destinations like New York City, Los Angeles, Miami, Chicago, Las Vegas, and San Francisco are expected to see slow growth in business travel by 2025. This shift presents both challenges and opportunities for the travel industry as it adapts to evolving market conditions.
