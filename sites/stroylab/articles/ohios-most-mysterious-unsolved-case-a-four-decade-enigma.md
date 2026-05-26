@@ -1,29 +1,34 @@
 ---
-title: "Ohio’s Most Mysterious Unsolved Case: A Four-Decade Enigma"
-description: "Explore Ohio's eeriest unsolved mystery that has baffled investigators and captivated true crime enthusiasts for over forty years."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:36:33+00:00"
-author: "Blake Anderson"
+title: 'Ohio’s Most Mysterious Unsolved Case: A Four-Decade Enigma'
+description: >-
+  Explore Ohio's eeriest unsolved mystery that has baffled investigators and
+  captivated true crime enthusiasts for over forty years.
+type: standard
+status: review
+publishDate: '2025-12-22T11:36:33+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "ohios-most-mysterious-unsolved-case-a-four-decade-enigma"
+  - Deep Dives
+  - Mysteries
+  - Unsolved Cases
+slug: ohios-most-mysterious-unsolved-case-a-four-decade-enigma
 reading_time: 2
-source_url: "https://stroylab.com/ohios-most-mysterious-unsolved-case-a-four-decade-enigma/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/ohios-most-mysterious-unsolved-case-a-four-decade-enigma/'
+imported_from: wordpress
 wp_original_id: 720
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/ohios-most-mysterious-unsolved-case-a-four-decade-enigma.webp
 seo:
-  canonical: "https://stroylab.com/ohios-most-mysterious-unsolved-case-a-four-decade-enigma/"
-  og_title: "Ohio's Most Mysterious Unsolved Case: A Four-Decade Enigma - StroyLab"
-  og_description: "Explore Ohio's eeriest unsolved mystery that has baffled investigators and captivated true crime enthusiasts for over forty years."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/ohios-most-mysterious-unsolved-case-a-four-decade-enigma/
+  og_title: 'Ohio''s Most Mysterious Unsolved Case: A Four-Decade Enigma - StroyLab'
+  og_description: >-
+    Explore Ohio's eeriest unsolved mystery that has baffled investigators and
+    captivated true crime enthusiasts for over forty years.
+  twitter_card: summary_large_image
 videos:
-  - id: "392198fb"
-    url: "https://www.youtube.com/watch?v=EiKTOugxP-E"
-    position: "after-paragraph-2"
+  - id: 392198fb
+    url: 'https://www.youtube.com/watch?v=EiKTOugxP-E'
+    position: after-paragraph-2
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -31,7 +36,14 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "While the tone and keyword usage are strong, the article is severely undermined by its extremely short length and complete lack of specific details about any actual case, making it essentially content-free despite good presentation."
+quality_note: >-
+  While the tone and keyword usage are strong, the article is severely
+  undermined by its extremely short length and complete lack of specific details
+  about any actual case, making it essentially content-free despite good
+  presentation.
+image_alt: >-
+  Foggy rural road at dusk with a case folder and flashlight suggesting a
+  long-unsolved Ohio mystery.
 ---
 
 Ohio, a state known for its rich history and diverse culture, holds within its borders an enigma that has puzzled investigators and intrigued true crime enthusiasts for over four decades. This unsolved mystery, shrouded in secrecy and suspense, continues to captivate those who seek the truth behind one of the state's most perplexing cases.
