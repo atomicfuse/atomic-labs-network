@@ -2,7 +2,8 @@ domain: tvshowbox
 site_name: tvshowbox
 site_tagline: null
 author: Julia Sanders
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d79516f23264031d7a5e
 brief:
