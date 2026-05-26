@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-could-the-lucid-air-gt-performance-convert-ev-skeptics
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/could-the-lucid-air-gt-performance-convert-ev-skeptics.webp
 reading_time: 3
 quality_score: 71
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Article covers relevant EV topics well but falls significantly short of target
   length and lacks the engaging, conversational tone expected for automotive
   enthusiasts.
+image_alt: >-
+  Sleek electric luxury sedan on a desert road at dawn with an old gas station
+  fading behind it.
 ---
 ## The Question of EV Conversion
 
