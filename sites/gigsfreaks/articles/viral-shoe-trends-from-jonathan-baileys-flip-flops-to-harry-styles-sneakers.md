@@ -1,24 +1,37 @@
 ---
-title: "Viral Shoe Trends: From Jonathan Bailey’s Flip-Flops to Harry Styles’ Sneakers"
-description: "The fashion world is buzzing with new footwear trends, including the resurgence of clogs and the timeless appeal of classic sneakers. Social media and celebrity endorsements significantly influence these trends, driving popularity and sales in the footwear industry."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T05:25:28+00:00"
-author: "Nico Harper"
+title: 'Viral Shoe Trends: From Jonathan Bailey’s Flip-Flops to Harry Styles’ Sneakers'
+description: >-
+  The fashion world is buzzing with new footwear trends, including the
+  resurgence of clogs and the timeless appeal of classic sneakers. Social media
+  and celebrity endorsements significantly influence these trends, driving
+  popularity and sales in the footwear industry.
+type: standard
+status: published
+publishDate: '2025-07-31T05:25:28+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "viral-shoe-trends-from-jonathan-baileys-flip-flops-to-harry-styles-sneakers"
+  - Hot Trends
+slug: viral-shoe-trends-from-jonathan-baileys-flip-flops-to-harry-styles-sneakers
 reading_time: 3
-source_url: "https://gigsfreaks.com/viral-shoe-trends-from-jonathan-baileys-flip-flops-to-harry-styles-sneakers/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/viral-shoe-trends-from-jonathan-baileys-flip-flops-to-harry-styles-sneakers/
+imported_from: wordpress
 wp_original_id: 945
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/viral-shoe-trends-from-jonathan-baileys-flip-flops-to-harry-styles-sneakers.webp
 seo:
-  canonical: "https://gigsfreaks.com/viral-shoe-trends-from-jonathan-baileys-flip-flops-to-harry-styles-sneakers/"
-  og_title: "Viral Shoe Trends: From Jonathan Bailey’s Flip-Flops to Harry Styles' Sneakers - GigsFreaks"
-  og_description: "The fashion world is buzzing with new footwear trends, including the resurgence of clogs and the timeless appeal of classic sneakers. Social media and celebrity endorsements significantly influence these trends, driving popularity and sales in the footwear industry."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/07/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/viral-shoe-trends-from-jonathan-baileys-flip-flops-to-harry-styles-sneakers/
+  og_title: >-
+    Viral Shoe Trends: From Jonathan Bailey’s Flip-Flops to Harry Styles'
+    Sneakers - GigsFreaks
+  og_description: >-
+    The fashion world is buzzing with new footwear trends, including the
+    resurgence of clogs and the timeless appeal of classic sneakers. Social
+    media and celebrity endorsements significantly influence these trends,
+    driving popularity and sales in the footwear industry.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/07/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written fashion article with good tone and keyword coverage, but falls short of ideal length and could benefit from more specific trending examples mentioned in the title."
+quality_note: >-
+  Well-written fashion article with good tone and keyword coverage, but falls
+  short of ideal length and could benefit from more specific trending examples
+  mentioned in the title.
+image_alt: >-
+  Fashionable shoes arranged on glossy steps with soft studio lighting and
+  subtle social media-inspired reflections.
 ---
 
 The world of fashion is ever-evolving, with each season bringing new trends that capture the public's imagination. In recent months, certain footwear has taken center stage, dominating the fashion scene with their unique designs and cultural significance. Let's explore the latest footwear trends that have caught the attention of style enthusiasts and made their mark in the industry.
