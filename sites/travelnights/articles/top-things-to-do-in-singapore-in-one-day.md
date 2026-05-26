@@ -1,24 +1,32 @@
 ---
-title: "Top Things to Do in Singapore in One Day"
-description: "Explore Singapore in 16 hours with a well-planned itinerary capturing iconic landmarks, cultural experiences, and local cuisine. From Marina Bay Sands to Gardens by the Bay and Clarke Quay, enjoy a dynamic blend of modernity and tradition."
-type: "standard"
-status: "published"
-publishDate: "2025-09-25T07:23:23+00:00"
-author: "Malcolm Anderson"
+title: Top Things to Do in Singapore in One Day
+description: >-
+  Explore Singapore in 16 hours with a well-planned itinerary capturing iconic
+  landmarks, cultural experiences, and local cuisine. From Marina Bay Sands to
+  Gardens by the Bay and Clarke Quay, enjoy a dynamic blend of modernity and
+  tradition.
+type: standard
+status: published
+publishDate: '2025-09-25T07:23:23+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "Food"
-slug: "top-things-to-do-in-singapore-in-one-day"
+  - Destinations
+  - Food
+slug: top-things-to-do-in-singapore-in-one-day
 reading_time: 3
-source_url: "https://travelnights.com/top-things-to-do-in-singapore-in-one-day/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/top-things-to-do-in-singapore-in-one-day/'
+imported_from: wordpress
 wp_original_id: 36545
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-things-to-do-in-singapore-in-one-day.webp
 seo:
-  canonical: "https://travelnights.com/top-things-to-do-in-singapore-in-one-day/"
-  og_title: "Top Things to Do in Singapore in One Day - Travel Nights"
-  og_description: "Explore Singapore in 16 hours with a well-planned itinerary capturing iconic landmarks, cultural experiences, and local cuisine. From Marina Bay Sands to Gardens by the Bay and Clarke Quay, enjoy a dynamic blend of modernity and tradition."
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/top-things-to-do-in-singapore-in-one-day/'
+  og_title: Top Things to Do in Singapore in One Day - Travel Nights
+  og_description: >-
+    Explore Singapore in 16 hours with a well-planned itinerary capturing iconic
+    landmarks, cultural experiences, and local cuisine. From Marina Bay Sands to
+    Gardens by the Bay and Clarke Quay, enjoy a dynamic blend of modernity and
+    tradition.
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel guide with engaging tone and accurate information, but significantly under the target word count at 429 words versus the 800-1200 word range."
+quality_note: >-
+  Well-written travel guide with engaging tone and accurate information, but
+  significantly under the target word count at 429 words versus the 800-1200
+  word range.
+image_alt: Traveler overlooking Singapore’s skyline and gardens at golden hour
 ---
 
 Exploring Singapore in a limited timeframe can be both thrilling and challenging. With just 16 hours to spare, it's crucial to plan an itinerary that captures the essence of this dynamic city. From iconic landmarks to cultural experiences, there's plenty to fit into a short visit.
