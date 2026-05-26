@@ -1,50 +1,34 @@
 ---
-title: Updated Travel Advisory for Popular Caribbean Destination
-description: >-
-  Recent travel advisory updates have caused tourists to reconsider plans to the
-  Bahamas. The U.S. government has revised its guidance, highlighting safety
-  concerns due to crime and health issues, urging travelers to stay informed and
-  take precautions.
-type: standard
-status: published
-publishDate: '2026-01-19T12:42:05+00:00'
-author: Malcolm Anderson
+title: "Updated Travel Advisory for Popular Caribbean Destination"
+description: "Recent travel advisory updates have caused tourists to reconsider plans to the Bahamas, as the U.S. government has revised its guidance highlighting safety concerns related to crime and health issues, urging travelers to stay informed and take precautions."
+type: "standard"
+status: "published"
+publishDate: "2026-01-19T12:42:05+00:00"
+author: "Malcolm Anderson"
 tags:
-  - Destinations
-  - Guides &amp; Tips
-  - News
-slug: updated-travel-advisory-for-popular-caribbean-destination
+  - "Destinations"
+  - "Guides &amp; Tips"
+  - "News"
+slug: "updated-travel-advisory-for-popular-caribbean-destination"
 reading_time: 3
-source_url: >-
-  https://travelnights.com/updated-travel-advisory-for-popular-caribbean-destination/
-imported_from: wordpress
+source_url: "https://travelnights.com/updated-travel-advisory-for-popular-caribbean-destination/"
+imported_from: "wordpress"
 wp_original_id: 36691
-featuredImage: /assets/images/updated-travel-advisory-for-popular-caribbean-destination.webp
+featuredImage: "/assets/images/travelnights-general-article.webp"
 seo:
-  canonical: >-
-    https://travelnights.com/updated-travel-advisory-for-popular-caribbean-destination/
-  og_title: Updated Travel Advisory for Popular Caribbean Destination - Travel Nights
-  og_description: >-
-    Recent travel advisory updates have caused tourists to reconsider plans to
-    the Bahamas. The U.S. government has revised its guidance, highlighting
-    safety concerns due to crime and health issues, urging travelers to stay
-    informed and take precautions.
-  og_image: 'https://travelnights.com/wp-content/uploads/2026/01/make_file-2.jpeg'
-  twitter_card: summary_large_image
-quality_score: 75
+  canonical: "https://travelnights.com/updated-travel-advisory-for-popular-caribbean-destination/"
+  og_title: "Updated Travel Advisory for Popular Caribbean Destination - Travel Nights"
+  og_description: "Recent travel advisory updates have caused tourists to reconsider plans to the Bahamas. The U.S. government has revised its guidance, highlighting safety concerns due to crime and health issues, urging travelers to stay informed and take precautions."
+  og_image: "https://travelnights.com/wp-content/uploads/2026/01/make_file-2.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 78
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 45
-  factual_accuracy: 80
-  keyword_relevance: 90
-quality_note: >-
-  Well-written article covering relevant travel topics with appropriate tone,
-  but significantly under target word count at 454 words versus the 800-1200
-  word target.
-image_alt: >-
-  Traveler with suitcase looks toward a sunny Caribbean shoreline from a quiet
-  terminal window.
+  factual_accuracy: 90
+  keyword_relevance: 95
+quality_note: "Well-written article with excellent keyword relevance and tone, but significantly below target word count at 454 words instead of the 800-1200 range."
 ---
 
 The Caribbean is a favored destination for many travelers seeking sun, sand, and relaxation. However, recent updates to travel advisories have prompted tourists to reconsider their plans. The U.S. government has revised its travel guidance for the Bahamas, influencing travel decisions and raising safety awareness among potential visitors.
