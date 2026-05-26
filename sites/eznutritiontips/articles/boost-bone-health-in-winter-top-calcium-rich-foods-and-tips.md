@@ -1,25 +1,38 @@
 ---
-title: "Boost Bone Health in Winter: Top Calcium-Rich Foods and Tips"
-description: "As winter arrives, maintaining a balanced diet becomes crucial for bone health, especially with reduced sunlight affecting vitamin D production. Including calcium-rich foods like leafy greens, dairy, nuts, seeds, and fortified products can support bone strength effectively."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T12:25:32+00:00"
-author: "Taylor Winters"
+title: 'Boost Bone Health in Winter: Top Calcium-Rich Foods and Tips'
+description: >-
+  As winter arrives, maintaining a balanced diet becomes crucial for bone
+  health, especially with reduced sunlight affecting vitamin D production.
+  Including calcium-rich foods like leafy greens, dairy, nuts, seeds, and
+  fortified products can support bone strength effectively.
+type: standard
+status: published
+publishDate: '2025-12-08T12:25:32+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-slug: "boost-bone-health-in-winter-top-calcium-rich-foods-and-tips"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+slug: boost-bone-health-in-winter-top-calcium-rich-foods-and-tips
 reading_time: 2
-source_url: "https://eznutritiontips.com/boost-bone-health-in-winter-top-calcium-rich-foods-and-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/boost-bone-health-in-winter-top-calcium-rich-foods-and-tips/
+imported_from: wordpress
 wp_original_id: 18959
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/boost-bone-health-in-winter-top-calcium-rich-foods-and-tips.webp
 seo:
-  canonical: "https://eznutritiontips.com/boost-bone-health-in-winter-top-calcium-rich-foods-and-tips/"
-  og_title: "Boost Bone Health in Winter: Top Calcium-Rich Foods and Tips - Easy Nutrition Tips"
-  og_description: "As winter arrives, maintaining a balanced diet becomes crucial for bone health, especially with reduced sunlight affecting vitamin D production. Including calcium-rich foods like leafy greens, dairy, nuts, seeds, and fortified products can support bone strength effectively."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/12/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/boost-bone-health-in-winter-top-calcium-rich-foods-and-tips/
+  og_title: >-
+    Boost Bone Health in Winter: Top Calcium-Rich Foods and Tips - Easy
+    Nutrition Tips
+  og_description: >-
+    As winter arrives, maintaining a balanced diet becomes crucial for bone
+    health, especially with reduced sunlight affecting vitamin D production.
+    Including calcium-rich foods like leafy greens, dairy, nuts, seeds, and
+    fortified products can support bone strength effectively.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/12/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 385 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 385 words instead of the 800-1200 range.
+image_alt: >-
+  Calcium-rich foods arranged in a cozy winter kitchen with soft snowy window
+  light.
 ---
 
 As winter arrives, maintaining a balanced diet becomes crucial, especially in ensuring adequate calcium intake. With reduced sunlight during these colder months, achieving optimal bone health can be challenging. However, by incorporating certain foods into your diet, you can support your bone health effectively.
