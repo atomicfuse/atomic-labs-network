@@ -1,24 +1,34 @@
 ---
-title: "Fujifilm X Half Camera Embraces Analog, Omits RAW Shooting"
-description: "Fujifilm's X100V blends classic design with modern technology, appealing to photography enthusiasts who love the feel of analog cameras but want digital convenience. Its fixed lens, advanced specs, and hybrid viewfinder offer versatility for various photography styles."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T05:07:22+00:00"
-author: "Arthur Daly"
+title: 'Fujifilm X Half Camera Embraces Analog, Omits RAW Shooting'
+description: >-
+  Fujifilm's X100V blends classic design with modern technology, appealing to
+  photography enthusiasts who love the feel of analog cameras but want digital
+  convenience. Its fixed lens, advanced specs, and hybrid viewfinder offer
+  versatility for various photography styles.
+type: standard
+status: review
+publishDate: '2025-05-22T05:07:22+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "fujifilm-x-half-camera-embraces-analog-omits-raw-shooting"
+  - Tech
+slug: fujifilm-x-half-camera-embraces-analog-omits-raw-shooting
 reading_time: 3
-source_url: "https://geekystudios.com/fujifilm-x-half-camera-embraces-analog-omits-raw-shooting/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/fujifilm-x-half-camera-embraces-analog-omits-raw-shooting/
+imported_from: wordpress
 wp_original_id: 603
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/fujifilm-x-half-camera-embraces-analog-omits-raw-shooting.webp
 seo:
-  canonical: "https://geekystudios.com/fujifilm-x-half-camera-embraces-analog-omits-raw-shooting/"
-  og_title: "Fujifilm X Half Camera Embraces Analog, Omits RAW Shooting - Geeky Studios"
-  og_description: "Fujifilm's X100V blends classic design with modern technology, appealing to photography enthusiasts who love the feel of analog cameras but want digital convenience. Its fixed lens, advanced specs, and hybrid viewfinder offer versatility for various photography styles."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-39.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/fujifilm-x-half-camera-embraces-analog-omits-raw-shooting/
+  og_title: 'Fujifilm X Half Camera Embraces Analog, Omits RAW Shooting - Geeky Studios'
+  og_description: >-
+    Fujifilm's X100V blends classic design with modern technology, appealing to
+    photography enthusiasts who love the feel of analog cameras but want digital
+    convenience. Its fixed lens, advanced specs, and hybrid viewfinder offer
+    versatility for various photography styles.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-39.jpeg'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "The article has good tone and tech relevance but suffers from significant factual inaccuracies (title mentions X Half Camera and RAW omission but article only discusses X100V) and is too short for target length."
+quality_note: >-
+  The article has good tone and tech relevance but suffers from significant
+  factual inaccuracies (title mentions X Half Camera and RAW omission but
+  article only discusses X100V) and is too short for target length.
+image_alt: >-
+  Retro-style digital camera on a studio surface with film canisters and subtle
+  pixel-like light patterns
 ---
 
 Fujifilm has made waves in the photography community with its latest innovation, the X100V, a camera that combines classic design with modern technology. This new release caters to photography enthusiasts who appreciate the tactile feel of analog cameras but desire the convenience and versatility of digital features. Offering a fixed lens and advanced specs, the X100V is set to redefine how photographers approach their craft.
