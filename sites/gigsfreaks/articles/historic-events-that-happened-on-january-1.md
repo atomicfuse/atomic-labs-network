@@ -1,24 +1,32 @@
 ---
-title: "Historic Events That Happened on January 1"
-description: "January 1st marks a day of historical significance, witnessing events from political shifts and technological advancements to cultural milestones. Notable occurrences include the Act of Union in 1801 and the adoption of the Internet Protocol in 1983."
-type: "standard"
-status: "review"
-publishDate: "2026-01-01T10:21:22+00:00"
-author: "Nico Harper"
+title: Historic Events That Happened on January 1
+description: >-
+  January 1st marks a day of historical significance, witnessing events from
+  political shifts and technological advancements to cultural milestones.
+  Notable occurrences include the Act of Union in 1801 and the adoption of the
+  Internet Protocol in 1983.
+type: standard
+status: review
+publishDate: '2026-01-01T10:21:22+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "historic-events-that-happened-on-january-1"
+  - Hot Trends
+slug: historic-events-that-happened-on-january-1
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-events-that-happened-on-january-1/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-events-that-happened-on-january-1/'
+imported_from: wordpress
 wp_original_id: 998
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-events-that-happened-on-january-1.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-events-that-happened-on-january-1/"
-  og_title: "Historic Events That Happened on January 1 - GigsFreaks"
-  og_description: "January 1st marks a day of historical significance, witnessing events from political shifts and technological advancements to cultural milestones. Notable occurrences include the Act of Union in 1801 and the adoption of the Internet Protocol in 1983."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historic-events-that-happened-on-january-1/'
+  og_title: Historic Events That Happened on January 1 - GigsFreaks
+  og_description: >-
+    January 1st marks a day of historical significance, witnessing events from
+    political shifts and technological advancements to cultural milestones.
+    Notable occurrences include the Act of Union in 1801 and the adoption of the
+    Internet Protocol in 1983.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "Well-written historical article with good tone and accuracy, but significantly misses the entertainment-focused keyword targets and falls short of optimal word count."
+quality_note: >-
+  Well-written historical article with good tone and accuracy, but significantly
+  misses the entertainment-focused keyword targets and falls short of optimal
+  word count.
+image_alt: >-
+  Historic desk scene blending parchment, quill, and modern light trails to
+  symbolize events across time.
 ---
 
 January 1st marks not only the beginning of a new year but also a day rich with historical significance and cultural milestones. Across the globe, this date has witnessed events that have shaped history, from technological advancements to significant births and landmark achievements. As we step into a new year, let's delve into the remarkable events that have occurred on this day throughout history.
