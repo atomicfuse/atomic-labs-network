@@ -1,21 +1,27 @@
 ---
-title: "Amazonian Scorpion Venom Destroys Breast Cancer Cells"
-description: "Scientists have discovered that compounds in Amazonian scorpion venom can target and destroy breast cancer cells, providing a promising new approach to cancer treatment. This breakthrough offers hope for more effective and less harmful therapies."
-type: "standard"
-status: "review"
-publishDate: "2025-06-26T07:51:28"
-author: "Taylor Winters"
+title: Amazonian Scorpion Venom Destroys Breast Cancer Cells
+description: >-
+  Scientists have discovered that compounds in Amazonian scorpion venom can
+  target and destroy breast cancer cells, providing a promising new approach to
+  cancer treatment. This breakthrough offers hope for more effective and less
+  harmful therapies.
+type: standard
+status: review
+publishDate: '2025-06-26T07:51:28'
+author: Taylor Winters
 tags:
-  - "Nature"
-slug: "amazonian-scorpion-venom-destroys-breast-cancer-cells"
+  - Nature
+slug: amazonian-scorpion-venom-destroys-breast-cancer-cells
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/amazonian-scorpion-venom-destroys-breast-cancer-cells/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/amazonian-scorpion-venom-destroys-breast-cancer-cells/
+imported_from: wordpress
 wp_original_id: 14977
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/amazonian-scorpion-venom-destroys-breast-cancer-cells.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/amazonian-scorpion-venom-destroys-breast-cancer-cells/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/amazonian-scorpion-venom-destroys-breast-cancer-cells/
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -23,7 +29,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and strong keyword relevance, but significantly under target word count and lacks specific research citations for verification."
+quality_note: >-
+  Well-written article with good tone and strong keyword relevance, but
+  significantly under target word count and lacks specific research citations
+  for verification.
+image_alt: >-
+  Glowing venom droplet and particles targeting abstract cancer cells with
+  Amazon rainforest tones behind
 ---
 
 The quest for effective cancer treatments has led scientists to an unexpected source: the venom of Amazonian scorpions. This intriguing discovery offers new hope in the fight against one of the most pervasive forms of cancer—breast cancer. Recent studies have revealed that compounds in the venom of specific scorpions can target and destroy breast cancer cells, paving the way for innovative therapeutic approaches.
