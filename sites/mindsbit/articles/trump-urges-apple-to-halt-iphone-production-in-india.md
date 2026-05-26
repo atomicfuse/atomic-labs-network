@@ -1,24 +1,32 @@
 ---
-title: "Trump Urges Apple to Halt iPhone Production in India"
-description: "Donald Trump has urged Apple to halt iPhone production in India and bring manufacturing back to the U.S., but higher labor costs and insufficient domestic infrastructure present significant obstacles to making that a reality."
-type: "standard"
-status: "published"
-publishDate: "2025-05-18T11:09:57+00:00"
-author: "Lena Ashwood"
+title: Trump Urges Apple to Halt iPhone Production in India
+description: >-
+  Donald Trump has urged Apple to halt iPhone production in India and bring
+  manufacturing back to the U.S., but higher labor costs and insufficient
+  domestic infrastructure present significant obstacles to making that a
+  reality.
+type: standard
+status: published
+publishDate: '2025-05-18T11:09:57+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "trump-urges-apple-to-halt-iphone-production-in-india"
+  - Tech
+slug: trump-urges-apple-to-halt-iphone-production-in-india
 reading_time: 3
-source_url: "https://mindsbit.com/trump-urges-apple-to-halt-iphone-production-in-india/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/trump-urges-apple-to-halt-iphone-production-in-india/'
+imported_from: wordpress
 wp_original_id: 355
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/trump-urges-apple-to-halt-iphone-production-in-india.webp
 seo:
-  canonical: "https://mindsbit.com/trump-urges-apple-to-halt-iphone-production-in-india/"
-  og_title: "Trump Urges Apple to Halt iPhone Production in India - Minds bit"
-  og_description: "Donald Trump's suggestion to bring iPhone manufacturing back to the U.S. aligns with his past economic policies aimed at restoring American jobs. However, challenges such as higher labor costs and lack of infrastructure in the U.S. pose significant obstacles."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-46.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/trump-urges-apple-to-halt-iphone-production-in-india/'
+  og_title: Trump Urges Apple to Halt iPhone Production in India - Minds bit
+  og_description: >-
+    Donald Trump's suggestion to bring iPhone manufacturing back to the U.S.
+    aligns with his past economic policies aimed at restoring American jobs.
+    However, challenges such as higher labor costs and lack of infrastructure in
+    the U.S. pose significant obstacles.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-46.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under the target word count at 581 words instead of the preferred 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under the
+  target word count at 581 words instead of the preferred 800-1200 range.
+image_alt: >-
+  Smartphones on a factory conveyor with blurred manufacturing workspaces in the
+  background.
 ---
 
 In recent discussions surrounding technology manufacturing, former President Donald Trump has voiced his opinion on where Apple should produce its popular iPhone devices. The emphasis on bringing production back to the United States has sparked interest in the tech community and among industry leaders.
