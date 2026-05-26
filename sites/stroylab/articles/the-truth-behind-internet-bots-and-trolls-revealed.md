@@ -1,23 +1,31 @@
 ---
-title: "The Truth Behind Internet Bots and Trolls Revealed"
-description: "The 'Dead Internet' theory suggests much online content is bot-generated, questioning the authenticity of digital interactions. AI advancements make detecting fake content challenging, impacting trust and engagement on social media platforms and beyond."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T11:35:51+00:00"
-author: "Blake Anderson"
+title: The Truth Behind Internet Bots and Trolls Revealed
+description: >-
+  The 'Dead Internet' theory suggests much online content is bot-generated,
+  questioning the authenticity of digital interactions. AI advancements make
+  detecting fake content challenging, impacting trust and engagement on social
+  media platforms and beyond.
+type: standard
+status: published
+publishDate: '2025-12-22T11:35:51+00:00'
+author: Blake Anderson
 tags:
-  - "Conspiracies"
-slug: "the-truth-behind-internet-bots-and-trolls-revealed"
+  - Conspiracies
+slug: the-truth-behind-internet-bots-and-trolls-revealed
 reading_time: 3
-source_url: "https://stroylab.com/the-truth-behind-internet-bots-and-trolls-revealed/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/the-truth-behind-internet-bots-and-trolls-revealed/'
+imported_from: wordpress
 wp_original_id: 714
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/the-truth-behind-internet-bots-and-trolls-revealed.webp
 seo:
-  canonical: "https://stroylab.com/the-truth-behind-internet-bots-and-trolls-revealed/"
-  og_title: "The Truth Behind Internet Bots and Trolls Revealed - StroyLab"
-  og_description: "The 'Dead Internet' theory suggests much online content is bot-generated, questioning the authenticity of digital interactions. AI advancements make detecting fake content challenging, impacting trust and engagement on social media platforms and beyond."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/the-truth-behind-internet-bots-and-trolls-revealed/'
+  og_title: The Truth Behind Internet Bots and Trolls Revealed - StroyLab
+  og_description: >-
+    The 'Dead Internet' theory suggests much online content is bot-generated,
+    questioning the authenticity of digital interactions. AI advancements make
+    detecting fake content challenging, impacting trust and engagement on social
+    media platforms and beyond.
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -25,7 +33,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on length and could benefit from stronger SEO optimization and deeper conspiracy theory exploration."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  and could benefit from stronger SEO optimization and deeper conspiracy theory
+  exploration.
+image_alt: >-
+  A human silhouette faces a field of glowing digital profiles fading into
+  synthetic patterns.
 ---
 
 The digital landscape has evolved dramatically over the years, leading to speculations about the authenticity and liveliness of the internet as we know it today. Questions arise about whether the internet is truly alive with genuine human interaction or dominated by artificial representations and automated systems.
