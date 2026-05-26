@@ -19,7 +19,8 @@ source_url: >-
   https://www.homesandgardens.com/interior-design/the-very-british-edit-summer-styling
 source_item_id: 6a152fda16f23264031d81f9
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: >-
+  /assets/images/british-california-coastal-style-travel-inspired-summer-decor.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   on content length and contains vague sourcing that affects factual
   credibility.
 reading_time: 3
+image_alt: >-
+  Sunlit summer interior with linen seating, natural textures, open doors,
+  greenery, and refined coastal styling.
 ---
 ## A New Approach to Summer Home Styling
 
