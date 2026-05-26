@@ -1,26 +1,34 @@
 ---
-title: "Anime Tourism Boosts Filipino Travel to Japan Destinations"
-description: "Anime tourism is inspiring Filipino travelers to explore Japan through beloved shows, from Akihabara shops and themed cafes to real-life locations that turn favorite scenes into personal travel memories."
-type: "standard"
-status: "published"
-publishDate: "2026-05-25T08:48:15+00:00"
-author: "Taylor Winters"
+title: Anime Tourism Boosts Filipino Travel to Japan Destinations
+description: >-
+  Anime tourism is inspiring Filipino travelers to explore Japan through beloved
+  shows, from Akihabara shops and themed cafes to real-life locations that turn
+  favorite scenes into personal travel memories.
+type: standard
+status: published
+publishDate: '2026-05-25T08:48:15+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "anime-tourism-boosts-filipino-travel-to-japan-destinations"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: anime-tourism-boosts-filipino-travel-to-japan-destinations
 reading_time: 8
-source_url: "https://journeypeaks.com/anime-tourism-boosts-filipino-travel-to-japan-destinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/anime-tourism-boosts-filipino-travel-to-japan-destinations/
+imported_from: wordpress
 wp_original_id: 38861
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/anime-tourism-boosts-filipino-travel-to-japan-destinations.webp
 seo:
-  canonical: "https://journeypeaks.com/anime-tourism-boosts-filipino-travel-to-japan-destinations/"
-  og_title: "Anime Tourism Boosts Filipino Travel to Japan Destinations - Journey Peaks"
-  og_description: "Anime tourism is inspiring Filipino travelers to explore Japan through beloved shows, from Akihabara shops and themed cafes to real-life locations that turn favorite scenes into personal travel memories."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/anime-tourism-boosts-filipino-travel-to-japan-destinations/
+  og_title: Anime Tourism Boosts Filipino Travel to Japan Destinations - Journey Peaks
+  og_description: >-
+    Anime tourism is inspiring Filipino travelers to explore Japan through
+    beloved shows, from Akihabara shops and themed cafes to real-life locations
+    that turn favorite scenes into personal travel memories.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/05/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -28,7 +36,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Well-structured article with excellent tone and comprehensive coverage of anime tourism, though the title could be slightly more compelling for SEO optimization."
+quality_note: >-
+  Well-structured article with excellent tone and comprehensive coverage of
+  anime tourism, though the title could be slightly more compelling for SEO
+  optimization.
+image_alt: Filipino travelers explore a glowing Tokyo street inspired by anime tourism.
 ---
 
 Anime is no longer just shaping what Filipinos watch at home. It is also influencing where they fly, what they photograph, and how they plan their Japan itineraries. For many Filipino travelers, a trip to Japan now includes more than temples, food streets, and cherry blossoms. It can also mean standing at a train crossing seen in a beloved series, browsing shelves of character goods, or visiting neighborhoods that inspired unforgettable animated scenes.
