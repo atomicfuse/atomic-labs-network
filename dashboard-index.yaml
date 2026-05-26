@@ -349,22 +349,23 @@ sites:
   - domain: sciencenewslab
     company: ATL
     vertical: Science
-    status: Staging
+    status: Live
     site_id: "9619803022577"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-26T08:28:15.468Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 3bfb814dd3859bcc0c477a48d5cf8979
     staging_branch: staging/sciencenewslab
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=sciencenewslab
     saved_previews: null
-    custom_domain: null
+    custom_domain: sciencenewslab.com
+    worker_pending_dns: false
   - domain: yogaterritory
     company: NGC
     vertical: Healthy Living
