@@ -1,25 +1,33 @@
 ---
-title: "How to Help a Friend in a Toxic Relationship"
-description: "Building healthy relationships requires understanding and effort. Effective communication and empathy are key to fostering strong bonds, whether dealing with family dynamics, friendship hiccups, or romantic entanglements."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T10:43:30+00:00"
-author: "Gabe Hernandez"
+title: How to Help a Friend in a Toxic Relationship
+description: >-
+  Building healthy relationships requires understanding and effort. Effective
+  communication and empathy are key to fostering strong bonds, whether dealing
+  with family dynamics, friendship hiccups, or romantic entanglements.
+type: standard
+status: review
+publishDate: '2026-01-26T10:43:30+00:00'
+author: Gabe Hernandez
 tags:
-  - "Funny Videos"
-  - "Advice"
-slug: "how-to-help-a-friend-in-a-toxic-relationship"
+  - Funny Videos
+  - Advice
+slug: how-to-help-a-friend-in-a-toxic-relationship
 reading_time: 3
-source_url: "https://funnypigeon.com/how-to-help-a-friend-in-a-toxic-relationship/"
-imported_from: "wordpress"
+source_url: 'https://funnypigeon.com/how-to-help-a-friend-in-a-toxic-relationship/'
+imported_from: wordpress
 wp_original_id: 509
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: /assets/images/how-to-help-a-friend-in-a-toxic-relationship.webp
 seo:
-  canonical: "https://funnypigeon.com/how-to-help-a-friend-in-a-toxic-relationship/"
-  og_title: "How to Help a Friend in a Toxic Relationship - Funny Pigeon"
-  og_description: "Building healthy relationships requires understanding and effort. Effective communication and empathy are key to fostering strong bonds, whether dealing with family dynamics, friendship hiccups, or romantic entanglements. By recognizing each relationship's unique dynamics, individuals can nurture them successfully."
-  og_image: "https://funnypigeon.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://funnypigeon.com/how-to-help-a-friend-in-a-toxic-relationship/'
+  og_title: How to Help a Friend in a Toxic Relationship - Funny Pigeon
+  og_description: >-
+    Building healthy relationships requires understanding and effort. Effective
+    communication and empathy are key to fostering strong bonds, whether dealing
+    with family dynamics, friendship hiccups, or romantic entanglements. By
+    recognizing each relationship's unique dynamics, individuals can nurture
+    them successfully.
+  og_image: 'https://funnypigeon.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This relationship advice article completely misses the entertainment focus of funnypigeon, lacks humor/viral content, and has minimal SEO optimization for the target keywords."
+quality_note: >-
+  This relationship advice article completely misses the entertainment focus of
+  funnypigeon, lacks humor/viral content, and has minimal SEO optimization for
+  the target keywords.
+image_alt: >-
+  A friend offers quiet support in a dim hallway as cold light spills from a
+  half-open door.
 ---
 
 Building and maintaining healthy relationships requires understanding and effort. Navigating the complexities of interpersonal connections can be challenging, but with the right guidance, it becomes manageable. Whether it's dealing with family dynamics, friendship hiccups, or romantic entanglements, effective communication and empathy are key to fostering strong bonds.
