@@ -1,23 +1,29 @@
 ---
-title: "Mysterious Life Signs Found in Blue Volcanic Goo"
-description: "Scientists discovered signs of life in blue volcanic goo, revealing microbes thriving in extreme conditions. This finding has implications for astrobiology, suggesting similar life could exist on planets with harsh environments, such as Mars, fueling the search for extraterrestrial life."
-type: "standard"
-status: "review"
-publishDate: "2025-11-10T12:57:33"
-author: "Taylor Winters"
+title: Mysterious Life Signs Found in Blue Volcanic Goo
+description: >-
+  Scientists discovered signs of life in blue volcanic goo, revealing microbes
+  thriving in extreme conditions. This finding has implications for
+  astrobiology, suggesting similar life could exist on planets with harsh
+  environments, such as Mars, fueling the search for extraterrestrial life.
+type: standard
+status: review
+publishDate: '2025-11-10T12:57:33'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Nature"
-  - "Space"
-slug: "mysterious-life-signs-found-in-blue-volcanic-goo"
+  - Environment
+  - Nature
+  - Space
+slug: mysterious-life-signs-found-in-blue-volcanic-goo
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/mysterious-life-signs-found-in-blue-volcanic-goo/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/mysterious-life-signs-found-in-blue-volcanic-goo/
+imported_from: wordpress
 wp_original_id: 15022
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/mysterious-life-signs-found-in-blue-volcanic-goo.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/mysterious-life-signs-found-in-blue-volcanic-goo/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/mysterious-life-signs-found-in-blue-volcanic-goo/
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -25,7 +31,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under target word count and contains vague claims that lack specific details or citations."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  under target word count and contains vague claims that lack specific details
+  or citations.
+image_alt: >-
+  Blue volcanic ooze glows in dark cracked rock beneath a Mars-like twilight
+  sky.
 ---
 
 In a groundbreaking discovery, scientists have uncovered intriguing signs of life within an unusual blue volcanic substance. This peculiar find has sparked curiosity and excitement in the scientific community, as it could offer new insights into extremophiles—organisms thriving in inhospitable environments. The vibrant blue hue of this volcanic material, along with its potential to harbor life, raises questions about the adaptability of life forms under extreme conditions.
