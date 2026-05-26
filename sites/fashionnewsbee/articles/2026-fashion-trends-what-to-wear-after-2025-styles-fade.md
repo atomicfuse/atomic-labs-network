@@ -1,24 +1,37 @@
 ---
-title: "2026 Fashion Trends: What to Wear After 2025 Styles Fade"
-description: "Fashion is constantly evolving, with trends fading as new ones emerge. As 2026 approaches, expect oversized silhouettes, logomania, fast fashion, neon colors, and chunky sneakers to decline, giving way to tailored fits, minimalism, sustainability, and subtle elegance."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T09:47:32+00:00"
-author: "Taylor Winters"
+title: '2026 Fashion Trends: What to Wear After 2025 Styles Fade'
+description: >-
+  Fashion is constantly evolving, with trends fading as new ones emerge. As 2026
+  approaches, expect oversized silhouettes, logomania, fast fashion, neon
+  colors, and chunky sneakers to decline, giving way to tailored fits,
+  minimalism, sustainability, and subtle elegance.
+type: standard
+status: published
+publishDate: '2026-01-19T09:47:32+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "2026-fashion-trends-what-to-wear-after-2025-styles-fade"
+  - Fashion
+slug: 2026-fashion-trends-what-to-wear-after-2025-styles-fade
 reading_time: 3
-source_url: "https://fashionnewsbee.com/2026-fashion-trends-what-to-wear-after-2025-styles-fade/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/2026-fashion-trends-what-to-wear-after-2025-styles-fade/
+imported_from: wordpress
 wp_original_id: 31620
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/2026-fashion-trends-what-to-wear-after-2025-styles-fade.webp
 seo:
-  canonical: "https://fashionnewsbee.com/2026-fashion-trends-what-to-wear-after-2025-styles-fade/"
-  og_title: "2026 Fashion Trends: What to Wear After 2025 Styles Fade - Fashion News Bee"
-  og_description: "Fashion is constantly evolving, with trends fading as new ones emerge. As 2026 approaches, expect oversized silhouettes, logomania, fast fashion, neon colors, and chunky sneakers to decline, giving way to tailored fits, minimalism, sustainability, and subtle elegance."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/2026-fashion-trends-what-to-wear-after-2025-styles-fade/
+  og_title: '2026 Fashion Trends: What to Wear After 2025 Styles Fade - Fashion News Bee'
+  og_description: >-
+    Fashion is constantly evolving, with trends fading as new ones emerge. As
+    2026 approaches, expect oversized silhouettes, logomania, fast fashion, neon
+    colors, and chunky sneakers to decline, giving way to tailored fits,
+    minimalism, sustainability, and subtle elegance.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  A model in tailored neutral clothing stands beside a minimalist wardrobe with
+  soft natural textures.
 ---
 
 Fashion is a dynamic world that constantly evolves, with trends coming and going in the blink of an eye. As we look forward to 2026, it's crucial to know which styles might be on their way out. Keeping a wardrobe updated isn't just about embracing the new; it's also about knowing what to retire. Let's explore some of the fashion trends that are expected to fade away in the coming years.
