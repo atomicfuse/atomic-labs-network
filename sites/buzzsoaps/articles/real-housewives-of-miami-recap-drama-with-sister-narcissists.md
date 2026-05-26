@@ -1,24 +1,36 @@
 ---
-title: "Real Housewives of Miami Recap: Drama with Sister Narcissists"
-description: "The latest season of \"Real Housewives of Miami\" continues with intense confrontations, unexpected alliances, and personal growth, as Episode 6 features explosive arguments and emotional moments that highlight how personal issues impact relationships."
-type: "standard"
-status: "review"
-publishDate: "2025-07-17T05:25:24+00:00"
-author: "Becca Roberts"
+title: 'Real Housewives of Miami Recap: Drama with Sister Narcissists'
+description: >-
+  The latest season of "Real Housewives of Miami" continues with intense
+  confrontations, unexpected alliances, and personal growth, as Episode 6
+  features explosive arguments and emotional moments that highlight how personal
+  issues impact relationships.
+type: standard
+status: review
+publishDate: '2025-07-17T05:25:24+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "real-housewives-of-miami-recap-drama-with-sister-narcissists"
+  - Watch
+slug: real-housewives-of-miami-recap-drama-with-sister-narcissists
 reading_time: 3
-source_url: "https://buzzsoaps.com/real-housewives-of-miami-recap-drama-with-sister-narcissists/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/real-housewives-of-miami-recap-drama-with-sister-narcissists/
+imported_from: wordpress
 wp_original_id: 451
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/real-housewives-of-miami-recap-drama-with-sister-narcissists.webp
 seo:
-  canonical: "https://buzzsoaps.com/real-housewives-of-miami-recap-drama-with-sister-narcissists/"
-  og_title: "Real Housewives of Miami Recap: Drama with Sister Narcissists - BuzzSoaps!"
-  og_description: "The latest season of \"Real Housewives of Miami\" continues with intense confrontations, unexpected alliances, and personal growth. Episode 6 features explosive arguments and emotional confrontations, highlighting how personal issues impact relationships and offering a blend of drama and heartfelt moments."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/07/make_file-6.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/real-housewives-of-miami-recap-drama-with-sister-narcissists/
+  og_title: 'Real Housewives of Miami Recap: Drama with Sister Narcissists - BuzzSoaps!'
+  og_description: >-
+    The latest season of "Real Housewives of Miami" continues with intense
+    confrontations, unexpected alliances, and personal growth. Episode 6
+    features explosive arguments and emotional confrontations, highlighting how
+    personal issues impact relationships and offering a blend of drama and
+    heartfelt moments.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/07/make_file-6.png'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and structure but falls significantly short of the target word count at only 524 words, which severely impacts its content quality score."
+quality_note: >-
+  The article has good tone and structure but falls significantly short of the
+  target word count at only 524 words, which severely impacts its content
+  quality score.
+image_alt: >-
+  Glamorous women face a tense confrontation in a luxury Miami penthouse at
+  dusk.
 ---
 
 The vibrant city of Miami continues to be the backdrop for dramatic twists and turns as the "Real Housewives of Miami" unfolds in its latest season. Each episode brings new revelations and engaging story arcs that keep viewers hooked. The sixth episode of Season 7 is no exception, featuring intense confrontations, unexpected alliances, and personal growth among the housewives.
