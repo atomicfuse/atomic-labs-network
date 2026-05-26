@@ -1,24 +1,32 @@
 ---
-title: "Avatar Fire and Ash Dominates Box Office for Five Weeks"
-description: "\"Avatar: The Way of Water\" continues its box office dominance, holding the top spot for five weeks. Its success is driven by cutting-edge visuals, immersive storytelling, and a strong fan base, solidifying its place in cinematic history."
-type: "standard"
-status: "review"
-publishDate: "2026-01-19T10:33:24+00:00"
-author: "Jennifer Clarkson"
+title: Avatar Fire and Ash Dominates Box Office for Five Weeks
+description: >-
+  "Avatar: The Way of Water" continues its box office dominance, holding the top
+  spot for five weeks. Its success is driven by cutting-edge visuals, immersive
+  storytelling, and a strong fan base, solidifying its place in cinematic
+  history.
+type: standard
+status: review
+publishDate: '2026-01-19T10:33:24+00:00'
+author: Jennifer Clarkson
 tags:
-  - "Movies"
-slug: "avatar-fire-and-ash-dominates-box-office-for-five-weeks"
+  - Movies
+slug: avatar-fire-and-ash-dominates-box-office-for-five-weeks
 reading_time: 3
-source_url: "https://muvizz.com/avatar-fire-and-ash-dominates-box-office-for-five-weeks/"
-imported_from: "wordpress"
+source_url: 'https://muvizz.com/avatar-fire-and-ash-dominates-box-office-for-five-weeks/'
+imported_from: wordpress
 wp_original_id: 28226
-featuredImage: "/assets/images/muvizz-general-article.webp"
+featuredImage: /assets/images/avatar-fire-and-ash-dominates-box-office-for-five-weeks.webp
 seo:
-  canonical: "https://muvizz.com/avatar-fire-and-ash-dominates-box-office-for-five-weeks/"
-  og_title: "Avatar Fire and Ash Dominates Box Office for Five Weeks - Muvizz"
-  og_description: "\"Avatar: The Way of Water\" continues its box office dominance, holding the top spot for five weeks. Its success is driven by cutting-edge visuals, immersive storytelling, and a strong fan base, solidifying its place in cinematic history."
-  og_image: "https://muvizz.com/wp-content/uploads/2026/01/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://muvizz.com/avatar-fire-and-ash-dominates-box-office-for-five-weeks/'
+  og_title: Avatar Fire and Ash Dominates Box Office for Five Weeks - Muvizz
+  og_description: >-
+    "Avatar: The Way of Water" continues its box office dominance, holding the
+    top spot for five weeks. Its success is driven by cutting-edge visuals,
+    immersive storytelling, and a strong fan base, solidifying its place in
+    cinematic history.
+  og_image: 'https://muvizz.com/wp-content/uploads/2026/01/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "The article has good entertainment focus and engaging tone but is severely hindered by major factual inaccuracies (Avatar 3 is titled 'Fire and Ash', not 'Way of Water') and falls well below the target word count."
+quality_note: >-
+  The article has good entertainment focus and engaging tone but is severely
+  hindered by major factual inaccuracies (Avatar 3 is titled 'Fire and Ash', not
+  'Way of Water') and falls well below the target word count.
+image_alt: >-
+  Silhouetted moviegoers face a glowing alien ocean world with five beams of
+  cinematic light.
 ---
 
 This past weekend, the film industry witnessed another remarkable achievement as "Avatar: The Way of Water" continued its box office dominance. The sequel has not only captivated audiences worldwide but also demonstrated its staying power by holding the top spot for five consecutive weeks. As the cinematic landscape shifts, this film stands as a testament to the enduring appeal of the "Avatar" franchise.
