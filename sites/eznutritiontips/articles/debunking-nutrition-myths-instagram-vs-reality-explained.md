@@ -1,26 +1,38 @@
 ---
-title: "Debunking Nutrition Myths: Instagram vs. Reality Explained"
-description: "In today's digital age, social media is rife with alluring yet misleading nutrition advice. Distinguishing fact from fiction is crucial, especially for those in demanding roles like firefighting, as a balanced diet supports long-term health and performance by incorporating essential nutrients."
-type: "standard"
-status: "published"
-publishDate: "2025-05-22T05:01:25+00:00"
-author: "Taylor Winters"
+title: 'Debunking Nutrition Myths: Instagram vs. Reality Explained'
+description: >-
+  In today's digital age, social media is rife with alluring yet misleading
+  nutrition advice. Distinguishing fact from fiction is crucial, especially for
+  those in demanding roles like firefighting, as a balanced diet supports
+  long-term health and performance by incorporating essential nutrients.
+type: standard
+status: published
+publishDate: '2025-05-22T05:01:25+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "debunking-nutrition-myths-instagram-vs-reality-explained"
+  - Nutrition Myths
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: debunking-nutrition-myths-instagram-vs-reality-explained
 reading_time: 3
-source_url: "https://eznutritiontips.com/debunking-nutrition-myths-instagram-vs-reality-explained/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/debunking-nutrition-myths-instagram-vs-reality-explained/
+imported_from: wordpress
 wp_original_id: 18919
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/debunking-nutrition-myths-instagram-vs-reality-explained.webp
 seo:
-  canonical: "https://eznutritiontips.com/debunking-nutrition-myths-instagram-vs-reality-explained/"
-  og_title: "Debunking Nutrition Myths: Instagram vs. Reality Explained - Easy Nutrition Tips"
-  og_description: "In today's digital age, social media is rife with alluring yet misleading nutrition advice. Distinguishing fact from fiction is crucial, especially for those in demanding roles like firefighting. A balanced diet supports long-term health and performance by incorporating essential nutrients."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/debunking-nutrition-myths-instagram-vs-reality-explained/
+  og_title: >-
+    Debunking Nutrition Myths: Instagram vs. Reality Explained - Easy Nutrition
+    Tips
+  og_description: >-
+    In today's digital age, social media is rife with alluring yet misleading
+    nutrition advice. Distinguishing fact from fiction is crucial, especially
+    for those in demanding roles like firefighting. A balanced diet supports
+    long-term health and performance by incorporating essential nutrients.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong content that effectively debunks nutrition myths with accurate information and good keyword alignment, but falls short of target word count at only 550 words."
+quality_note: >-
+  Strong content that effectively debunks nutrition myths with accurate
+  information and good keyword alignment, but falls short of target word count
+  at only 550 words.
+image_alt: >-
+  Balanced meal and firefighter gear contrast with a glowing phone suggesting
+  misleading nutrition trends.
 ---
 
 In today's digital age, social media platforms are flooded with nutrition advice that can be both alluring and misleading. Many individuals, including firefighters who require optimal health for their demanding roles, fall prey to these myths. Sorting fact from fiction in nutrition is crucial to maintaining well-being and performance.
