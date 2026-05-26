@@ -1,24 +1,37 @@
 ---
-title: "Essential Nutrition Tips for Managing Chronic Kidney Disease 2026"
-description: "Nutrition is crucial in managing chronic kidney disease, requiring a tailored diet to regulate proteins, sodium, potassium, and phosphorus. Patients can enhance their quality of life by focusing on nutrient balance and collaborating with healthcare providers for personalized dietary plans."
-type: "standard"
-status: "published"
-publishDate: "2026-03-12T10:15:30+00:00"
-author: "Taylor Winters"
+title: Essential Nutrition Tips for Managing Chronic Kidney Disease 2026
+description: >-
+  Nutrition is crucial in managing chronic kidney disease, requiring a tailored
+  diet to regulate proteins, sodium, potassium, and phosphorus. Patients can
+  enhance their quality of life by focusing on nutrient balance and
+  collaborating with healthcare providers for personalized dietary plans.
+type: standard
+status: published
+publishDate: '2026-03-12T10:15:30+00:00'
+author: Taylor Winters
 tags:
-  - "Special Diets"
-slug: "essential-nutrition-tips-for-managing-chronic-kidney-disease-2026"
+  - Special Diets
+slug: essential-nutrition-tips-for-managing-chronic-kidney-disease-2026
 reading_time: 3
-source_url: "https://eznutritiontips.com/essential-nutrition-tips-for-managing-chronic-kidney-disease-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/essential-nutrition-tips-for-managing-chronic-kidney-disease-2026/
+imported_from: wordpress
 wp_original_id: 19007
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/essential-nutrition-tips-for-managing-chronic-kidney-disease-2026.webp
 seo:
-  canonical: "https://eznutritiontips.com/essential-nutrition-tips-for-managing-chronic-kidney-disease-2026/"
-  og_title: "Essential Nutrition Tips for Managing Chronic Kidney Disease 2026 - Easy Nutrition Tips"
-  og_description: "Nutrition is crucial in managing chronic kidney disease, requiring a tailored diet to regulate proteins, sodium, potassium, and phosphorus. Patients can enhance their quality of life by focusing on nutrient balance and collaborating with healthcare providers for personalized dietary plans."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/essential-nutrition-tips-for-managing-chronic-kidney-disease-2026/
+  og_title: >-
+    Essential Nutrition Tips for Managing Chronic Kidney Disease 2026 - Easy
+    Nutrition Tips
+  og_description: >-
+    Nutrition is crucial in managing chronic kidney disease, requiring a
+    tailored diet to regulate proteins, sodium, potassium, and phosphorus.
+    Patients can enhance their quality of life by focusing on nutrient balance
+    and collaborating with healthcare providers for personalized dietary plans.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with accurate medical information and good tone match, but significantly under target word count at 542 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with accurate medical information and good tone match,
+  but significantly under target word count at 542 words versus the 800-1200
+  range.
+image_alt: >-
+  Balanced kidney-friendly meal on a sunlit table with patient and nutritionist
+  discussing diet in the background.
 ---
 
 In the realm of chronic kidney disease management, nutrition plays a pivotal role in maintaining health and preventing complications. Individuals diagnosed with this condition often face dietary restrictions that require careful planning and understanding. By focusing on specific nutrients and adopting a tailored diet, patients can enhance their quality of life while managing their condition effectively.
