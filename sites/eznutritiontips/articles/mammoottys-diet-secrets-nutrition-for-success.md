@@ -1,25 +1,34 @@
 ---
-title: "Mammootty’s Diet Secrets: Nutrition for Success"
-description: "Renowned actor Mammootty maintains his youthful vitality through a meticulously curated diet managed by a professional dietitian. His balanced nutritional plan includes fresh produce, lean proteins, whole grains, healthy fats, and emphasizes hydration and mindful eating for overall well-being."
-type: "standard"
-status: "review"
-publishDate: "2025-05-19T13:24:38+00:00"
-author: "Taylor Winters"
+title: 'Mammootty’s Diet Secrets: Nutrition for Success'
+description: >-
+  Renowned actor Mammootty maintains his youthful vitality through a
+  meticulously curated diet managed by a professional dietitian. His balanced
+  nutritional plan includes fresh produce, lean proteins, whole grains, healthy
+  fats, and emphasizes hydration and mindful eating for overall well-being.
+type: standard
+status: review
+publishDate: '2025-05-19T13:24:38+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "mammoottys-diet-secrets-nutrition-for-success"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: mammoottys-diet-secrets-nutrition-for-success
 reading_time: 3
-source_url: "https://eznutritiontips.com/mammoottys-diet-secrets-nutrition-for-success/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/mammoottys-diet-secrets-nutrition-for-success/'
+imported_from: wordpress
 wp_original_id: 18917
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/mammoottys-diet-secrets-nutrition-for-success.webp
 seo:
-  canonical: "https://eznutritiontips.com/mammoottys-diet-secrets-nutrition-for-success/"
-  og_title: "Mammootty's Diet Secrets: Nutrition for Success - Easy Nutrition Tips"
-  og_description: "Renowned actor Mammootty maintains his youthful vitality through a meticulously curated diet managed by a professional dietitian. His balanced nutritional plan includes fresh produce, lean proteins, whole grains, healthy fats, and emphasizes hydration and mindful eating for overall well-being."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/mammoottys-diet-secrets-nutrition-for-success/'
+  og_title: 'Mammootty''s Diet Secrets: Nutrition for Success - Easy Nutrition Tips'
+  og_description: >-
+    Renowned actor Mammootty maintains his youthful vitality through a
+    meticulously curated diet managed by a professional dietitian. His balanced
+    nutritional plan includes fresh produce, lean proteins, whole grains,
+    healthy fats, and emphasizes hydration and mindful eating for overall
+    well-being.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article covers nutrition topics well but is significantly under the target word count and lacks specific actionable nutrition tips that would better serve the food enthusiast audience."
+quality_note: >-
+  The article covers nutrition topics well but is significantly under the target
+  word count and lacks specific actionable nutrition tips that would better
+  serve the food enthusiast audience.
+image_alt: >-
+  Elegant balanced meal with fresh produce, lean protein, whole grains, and
+  water in warm natural light
 ---
 
 Renowned actor Mammootty is known not just for his stellar performances but also for his youthful vitality and health. The secret to his robust health lies in a meticulously curated diet managed by a professional dietitian. This balanced nutritional plan plays a pivotal role in maintaining his energy and longevity, setting a benchmark for fitness enthusiasts and fans alike.
