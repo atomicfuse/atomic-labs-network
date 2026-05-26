@@ -1,0 +1,113 @@
+domain: sciencenewslab.com
+site_name: sciencenewslab
+site_tagline: null
+author: Julia Scott
+groups:
+  - atl
+active: true
+bundle_id: 6a12d74f16f23264031d7a53
+brief:
+  audiences:
+    - Science enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Space
+    - Nature
+    - Physics
+    - Technology
+    - Environment
+  seo_keywords_focus:
+    - Space
+    - Nature
+    - Physics
+    - Technology
+    - Environment
+  content_guidelines:
+    - Focus on Science content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Science
+  vertical_id: 6a00793d1104bbff809b7c68
+  category_ids:
+    - 6a00793d1104bbff809b7c68
+    - 6a00793e1104bbff809b7e1b
+    - 6a00793e1104bbff809b7e17
+    - 6a00793e1104bbff809b7e23
+    - 6a00793e1104bbff809b7e25
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: modern
+  colors:
+    primary: "#008BD8"
+    accent: "#ce5f5f"
+    background: "#FFFFFF"
+    secondary: "#2A2A2A"
+    text: "#000000"
+    muted: "#808080"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#000000"
+    link: "#008BD8"
+    link_hover: "#ce5f5f"
+    nav_link: "#ffffff"
+    nav_link_hover: "#ce5f5f"
+    footer_bg: "#008BD8"
+    must_reads_bg: "#008BD8"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#ffffff"
+    feed_title: "#000000"
+    feed_desc: "#333333"
+    feed_date: "#808080"
+    prose_heading: "#000000"
+    prose_body: "#262626"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#ffffff"
+    footer_heading: "#ffffff"
+    footer_link: "#ffffff"
+    footer_link_hover: "#ce5f5f"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 52
+  logo_height_footer: 72
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-VQ32T2NWZR
+  gtm: GT-5NXK45CR
