@@ -1,26 +1,36 @@
 ---
-title: "Budget-Friendly Holiday Destinations in Europe and Asia"
-description: "Exploring new destinations for your next vacation can be exciting and daunting. Montenegro, Georgia, Vietnam, Bulgaria, and Sri Lanka offer budget-friendly alternatives with rich cultural experiences, stunning landscapes, and adventures that won't strain your wallet."
-type: "standard"
-status: "published"
-publishDate: "2025-05-19T04:35:19+00:00"
-author: "Taylor Winters"
+title: Budget-Friendly Holiday Destinations in Europe and Asia
+description: >-
+  Exploring new destinations for your next vacation can be exciting and
+  daunting. Montenegro, Georgia, Vietnam, Bulgaria, and Sri Lanka offer
+  budget-friendly alternatives with rich cultural experiences, stunning
+  landscapes, and adventures that won't strain your wallet.
+type: standard
+status: published
+publishDate: '2025-05-19T04:35:19+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "budget-friendly-holiday-destinations-in-europe-and-asia"
+  - Destinations
+  - Tips
+  - Travel
+slug: budget-friendly-holiday-destinations-in-europe-and-asia
 reading_time: 3
-source_url: "https://journeypeaks.com/budget-friendly-holiday-destinations-in-europe-and-asia/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/budget-friendly-holiday-destinations-in-europe-and-asia/
+imported_from: wordpress
 wp_original_id: 38647
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/budget-friendly-holiday-destinations-in-europe-and-asia.webp
 seo:
-  canonical: "https://journeypeaks.com/budget-friendly-holiday-destinations-in-europe-and-asia/"
-  og_title: "Budget-Friendly Holiday Destinations in Europe and Asia - Journey Peaks"
-  og_description: "Exploring new destinations for your next vacation can be exciting and daunting. Montenegro, Georgia, Vietnam, Bulgaria, and Sri Lanka offer budget-friendly alternatives with rich cultural experiences, stunning landscapes, and adventures that won't strain your wallet."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/budget-friendly-holiday-destinations-in-europe-and-asia/
+  og_title: Budget-Friendly Holiday Destinations in Europe and Asia - Journey Peaks
+  og_description: >-
+    Exploring new destinations for your next vacation can be exciting and
+    daunting. Montenegro, Georgia, Vietnam, Bulgaria, and Sri Lanka offer
+    budget-friendly alternatives with rich cultural experiences, stunning
+    landscapes, and adventures that won't strain your wallet.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Good content with strong keyword relevance and tone match, but significantly below target word count which impacts overall effectiveness."
+quality_note: >-
+  Good content with strong keyword relevance and tone match, but significantly
+  below target word count which impacts overall effectiveness.
+image_alt: >-
+  Sunlit travel table with backpack and coins overlooking mountains, coastline,
+  and lush scenery.
 ---
 
 Exploring new destinations for your next vacation can be both exciting and daunting, especially when you're searching for affordable yet enriching experiences. While Turkey and Azerbaijan are well-known for their cultural richness, there are other budget-friendly alternatives across Europe and Asia that promise equally captivating adventures without straining your wallet.
