@@ -1,26 +1,32 @@
 ---
-title: "Spain’s Happiest City: Why Visit and What to Know"
-description: "Malaga blends Mediterranean sunshine, walkable history, beach life, standout art, and relaxed Andalusian dining into one of Spain's most uplifting city breaks, with easy transport and memorable day trips nearby."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T09:32:29+00:00"
-author: "Malcolm Anderson"
+title: 'Spain’s Happiest City: Why Visit and What to Know'
+description: >-
+  Malaga blends Mediterranean sunshine, walkable history, beach life, standout
+  art, and relaxed Andalusian dining into one of Spain's most uplifting city
+  breaks, with easy transport and memorable day trips nearby.
+type: standard
+status: published
+publishDate: '2026-05-04T09:32:29+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "spains-happiest-city-why-visit-and-what-to-know"
+  - Culture
+  - Destinations
+  - Guides &amp; Tips
+slug: spains-happiest-city-why-visit-and-what-to-know
 reading_time: 8
-source_url: "https://travelnights.com/spains-happiest-city-why-visit-and-what-to-know/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/spains-happiest-city-why-visit-and-what-to-know/'
+imported_from: wordpress
 wp_original_id: 36722
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/spains-happiest-city-why-visit-and-what-to-know.webp
 seo:
-  canonical: "https://travelnights.com/spains-happiest-city-why-visit-and-what-to-know/"
-  og_title: "Spain’s Happiest City: Why Visit and What to Know - Travel Nights"
-  og_description: "Malaga blends Mediterranean sunshine, walkable history, beach life, standout art, and relaxed Andalusian dining into one of Spain’s most uplifting city breaks, with easy transport and memorable day trips nearby."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/spains-happiest-city-why-visit-and-what-to-know/'
+  og_title: 'Spain’s Happiest City: Why Visit and What to Know - Travel Nights'
+  og_description: >-
+    Malaga blends Mediterranean sunshine, walkable history, beach life, standout
+    art, and relaxed Andalusian dining into one of Spain’s most uplifting city
+    breaks, with easy transport and memorable day trips nearby.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -28,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Excellent travel guide with engaging tone, perfect length, comprehensive destination coverage, and strong SEO elements, though title could be slightly more compelling for search optimization."
+quality_note: >-
+  Excellent travel guide with engaging tone, perfect length, comprehensive
+  destination coverage, and strong SEO elements, though title could be slightly
+  more compelling for search optimization.
+image_alt: >-
+  Sunlit Malaga rooftops, palms, sea, and a relaxed café terrace capturing a
+  bright Mediterranean city break.
 ---
 
 Malaga has become one of Spain's most talked-about city breaks, and its appeal goes far beyond sunshine. Set on the Costa del Sol in southern Andalusia, this Mediterranean city blends beach life, historic neighborhoods, world-class art, relaxed dining, and an easygoing local rhythm. It is also frequently recognized in global happiness and livability discussions, especially among travelers, remote workers, and international residents seeking a warm, walkable, culturally rich place to enjoy Spain.
