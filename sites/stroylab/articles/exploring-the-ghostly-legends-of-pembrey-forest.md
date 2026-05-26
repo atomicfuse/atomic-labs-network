@@ -1,29 +1,33 @@
 ---
-title: "Exploring the Ghostly Legends of Pembrey Forest"
-description: "Discover the eerie stories surrounding the Pembrey Forest hauntings, where beauty meets the unexplained."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:34:14+00:00"
-author: "Blake Anderson"
+title: Exploring the Ghostly Legends of Pembrey Forest
+description: >-
+  Discover the eerie stories surrounding the Pembrey Forest hauntings, where
+  beauty meets the unexplained.
+type: standard
+status: review
+publishDate: '2025-12-22T11:34:14+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "exploring-the-ghostly-legends-of-pembrey-forest"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: exploring-the-ghostly-legends-of-pembrey-forest
 reading_time: 2
-source_url: "https://stroylab.com/exploring-the-ghostly-legends-of-pembrey-forest/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/exploring-the-ghostly-legends-of-pembrey-forest/'
+imported_from: wordpress
 wp_original_id: 706
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/exploring-the-ghostly-legends-of-pembrey-forest.webp
 seo:
-  canonical: "https://stroylab.com/exploring-the-ghostly-legends-of-pembrey-forest/"
-  og_title: "Exploring the Ghostly Legends of Pembrey Forest - StroyLab"
-  og_description: "Discover the eerie stories surrounding the Pembrey Forest hauntings, where beauty meets the unexplained."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/exploring-the-ghostly-legends-of-pembrey-forest/'
+  og_title: Exploring the Ghostly Legends of Pembrey Forest - StroyLab
+  og_description: >-
+    Discover the eerie stories surrounding the Pembrey Forest hauntings, where
+    beauty meets the unexplained.
+  twitter_card: summary_large_image
 videos:
-  - id: "176cea8b"
-    url: "https://www.youtube.com/watch?v=viUrCpO1g34"
-    position: "after-paragraph-2"
+  - id: 176cea8b
+    url: 'https://www.youtube.com/watch?v=viUrCpO1g34'
+    position: after-paragraph-2
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -31,7 +35,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with appropriate tone and strong keyword relevance, but significantly under target word count at only 386 words when 800-1200 is expected."
+quality_note: >-
+  Well-written article with appropriate tone and strong keyword relevance, but
+  significantly under target word count at only 386 words when 800-1200 is
+  expected.
+image_alt: Misty twilight forest path with an eerie glow between dark pine trees.
 ---
 
 Situated along the tranquil south-west coast of Wales, Carmarthenshire is renowned for its breathtaking landscapes and serene shoreline. However, beneath its picturesque exterior lies a chilling history filled with tragic tales and unexplained phenomena. This article delves into the mysterious occurrences collectively known as The Pembrey Forest Hauntings, where visitors report eerie and ghostly encounters.
