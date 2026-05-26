@@ -1,24 +1,32 @@
 ---
-title: "Top Nutrition Myths Debunked for Better Health"
-description: "The article debunks common nutrition myths, emphasizing the importance of understanding the role of carbohydrates, fats, and meal timing. It highlights the benefits of a balanced diet over detox diets and supplements, promoting informed dietary choices for optimal health."
-type: "standard"
-status: "published"
-publishDate: "2026-02-05T10:13:23+00:00"
-author: "Taylor Winters"
+title: Top Nutrition Myths Debunked for Better Health
+description: >-
+  The article debunks common nutrition myths, emphasizing the importance of
+  understanding the role of carbohydrates, fats, and meal timing. It highlights
+  the benefits of a balanced diet over detox diets and supplements, promoting
+  informed dietary choices for optimal health.
+type: standard
+status: published
+publishDate: '2026-02-05T10:13:23+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-  - "Weight &amp; Wellness"
-slug: "top-nutrition-myths-debunked-for-better-health"
+  - Nutrition Myths
+  - Weight &amp; Wellness
+slug: top-nutrition-myths-debunked-for-better-health
 reading_time: 3
-source_url: "https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health/'
+imported_from: wordpress
 wp_original_id: 18988
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-nutrition-myths-debunked-for-better-health.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health/"
-  og_title: "Top Nutrition Myths Debunked for Better Health - Easy Nutrition Tips"
-  og_description: "The article debunks common nutrition myths, emphasizing the importance of understanding the role of carbohydrates, fats, and meal timing. It highlights the benefits of a balanced diet over detox diets and supplements, promoting informed dietary choices for optimal health."
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health/'
+  og_title: Top Nutrition Myths Debunked for Better Health - Easy Nutrition Tips
+  og_description: >-
+    The article debunks common nutrition myths, emphasizing the importance of
+    understanding the role of carbohydrates, fats, and meal timing. It
+    highlights the benefits of a balanced diet over detox diets and supplements,
+    promoting informed dietary choices for optimal health.
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Strong content on nutrition myths with accurate information and good keyword alignment, but significantly under the target word count at only 443 words."
+quality_note: >-
+  Strong content on nutrition myths with accurate information and good keyword
+  alignment, but significantly under the target word count at only 443 words.
+image_alt: >-
+  Balanced whole foods on a sunlit kitchen table with fad diet props blurred in
+  the background.
 ---
 
 In the ever-evolving world of nutrition, it's easy to get caught up in myths that can mislead even the most health-conscious individuals. With new trends emerging frequently, distinguishing between fact and fiction is crucial for maintaining a balanced diet and achieving optimal health. This article aims to debunk some common nutrition myths, providing clarity and reliable information for those seeking to make informed dietary choices.
