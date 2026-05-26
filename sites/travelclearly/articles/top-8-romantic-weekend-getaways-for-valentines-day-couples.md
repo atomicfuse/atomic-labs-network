@@ -1,26 +1,36 @@
 ---
-title: "Top 8 Romantic Weekend Getaways for Valentine’s Day Couples"
-description: "Valentine's Day is the perfect time for a romantic escape. From the enchanting Amalfi Coast to the vibrant energy of New York City, discover destinations that promise unforgettable memories and a deepened connection with your partner."
-type: "standard"
-status: "published"
-publishDate: "2026-01-08T09:23:34+00:00"
-author: "Taylor Winters"
+title: Top 8 Romantic Weekend Getaways for Valentine’s Day Couples
+description: >-
+  Valentine's Day is the perfect time for a romantic escape. From the enchanting
+  Amalfi Coast to the vibrant energy of New York City, discover destinations
+  that promise unforgettable memories and a deepened connection with your
+  partner.
+type: standard
+status: published
+publishDate: '2026-01-08T09:23:34+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "top-8-romantic-weekend-getaways-for-valentines-day-couples"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: top-8-romantic-weekend-getaways-for-valentines-day-couples
 reading_time: 3
-source_url: "https://travelclearly.com/top-8-romantic-weekend-getaways-for-valentines-day-couples/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/top-8-romantic-weekend-getaways-for-valentines-day-couples/
+imported_from: wordpress
 wp_original_id: 36602
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/top-8-romantic-weekend-getaways-for-valentines-day-couples.webp
 seo:
-  canonical: "https://travelclearly.com/top-8-romantic-weekend-getaways-for-valentines-day-couples/"
-  og_title: "Top 8 Romantic Weekend Getaways for Valentine's Day Couples - Travel Clearly"
-  og_description: "Valentine's Day is the perfect time for a romantic escape. From the enchanting Amalfi Coast to the vibrant energy of New York City, discover destinations that promise unforgettable memories and a deepened connection with your partner."
-  og_image: "https://travelclearly.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/top-8-romantic-weekend-getaways-for-valentines-day-couples/
+  og_title: Top 8 Romantic Weekend Getaways for Valentine's Day Couples - Travel Clearly
+  og_description: >-
+    Valentine's Day is the perfect time for a romantic escape. From the
+    enchanting Amalfi Coast to the vibrant energy of New York City, discover
+    destinations that promise unforgettable memories and a deepened connection
+    with your partner.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,10 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written romantic travel guide with good tone and accuracy, but significantly under target word count at 541 words instead of 800-1200."
+quality_note: >-
+  Well-written romantic travel guide with good tone and accuracy, but
+  significantly under target word count at 541 words instead of 800-1200.
+image_alt: Couple on a golden-hour terrace overlooking a romantic coastal getaway
 ---
 
 Valentine's Day offers the perfect excuse for a romantic escape with your partner. Whether you crave a peaceful retreat or an adventurous getaway, there are numerous destinations ready to create unforgettable memories. From picturesque beaches to charming mountain towns, these locations promise to ignite romance and relaxation.
