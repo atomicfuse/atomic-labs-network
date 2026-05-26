@@ -1,29 +1,37 @@
 ---
-title: "Experience the Craziest Summer Fails of 2025 with FailArmy"
-description: "Dive into the most hilarious and epic summer fails of 2025 with FailArmy's live watch party, featuring fan-submitted videos that will keep you entertained."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T10:51:21+00:00"
-author: "Gabe Hernandez"
+title: Experience the Craziest Summer Fails of 2025 with FailArmy
+description: >-
+  Dive into the most hilarious and epic summer fails of 2025 with FailArmy's
+  live watch party, featuring fan-submitted videos that will keep you
+  entertained.
+type: standard
+status: review
+publishDate: '2025-12-29T10:51:21+00:00'
+author: Gabe Hernandez
 tags:
-  - "Memes"
-  - "Odd News"
-  - "Viral"
-slug: "experience-the-craziest-summer-fails-of-2025-with-failarmy"
+  - Memes
+  - Odd News
+  - Viral
+slug: experience-the-craziest-summer-fails-of-2025-with-failarmy
 reading_time: 2
-source_url: "https://funnypigeon.com/experience-the-craziest-summer-fails-of-2025-with-failarmy/"
-imported_from: "wordpress"
+source_url: >-
+  https://funnypigeon.com/experience-the-craziest-summer-fails-of-2025-with-failarmy/
+imported_from: wordpress
 wp_original_id: 497
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: /assets/images/experience-the-craziest-summer-fails-of-2025-with-failarmy.webp
 seo:
-  canonical: "https://funnypigeon.com/experience-the-craziest-summer-fails-of-2025-with-failarmy/"
-  og_title: "Experience the Craziest Summer Fails of 2025 with FailArmy - Funny Pigeon"
-  og_description: "Dive into the most hilarious and epic summer fails of 2025 with FailArmy's live watch party, featuring fan-submitted videos that will keep you entertained."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://funnypigeon.com/experience-the-craziest-summer-fails-of-2025-with-failarmy/
+  og_title: Experience the Craziest Summer Fails of 2025 with FailArmy - Funny Pigeon
+  og_description: >-
+    Dive into the most hilarious and epic summer fails of 2025 with FailArmy's
+    live watch party, featuring fan-submitted videos that will keep you
+    entertained.
+  twitter_card: summary_large_image
 videos:
-  - id: "c0e1e547"
-    url: "https://www.youtube.com/watch?v=Pc8lI0UwELU"
-    position: "after-paragraph-2"
+  - id: c0e1e547
+    url: 'https://www.youtube.com/watch?v=Pc8lI0UwELU'
+    position: after-paragraph-2
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -31,7 +39,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 70
   keyword_relevance: 75
-quality_note: "The article has good tone and keyword relevance but falls significantly short on length at 354 words (target 800-1200) and contains future-dated content claiming 2025 fails."
+quality_note: >-
+  The article has good tone and keyword relevance but falls significantly short
+  on length at 354 words (target 800-1200) and contains future-dated content
+  claiming 2025 fails.
+image_alt: >-
+  Friends laugh at a chaotic summer backyard watch party with pool toys and
+  popcorn scattered around.
 ---
 
 Summer 2025 has arrived, and with it comes an onslaught of hilarious and jaw-dropping fails that only FailArmy can deliver. Known as the world's leading source for epic fail videos, FailArmy invites you to join their live watch party, where you can witness the craziest summer misadventures submitted by fans from all corners of the globe.
