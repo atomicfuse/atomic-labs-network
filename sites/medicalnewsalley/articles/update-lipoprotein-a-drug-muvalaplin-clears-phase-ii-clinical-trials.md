@@ -1,24 +1,38 @@
 ---
-title: "Update: Lipoprotein (a) drug, Muvalaplin, clears phase II clinical trials"
-description: "Muvalaplin, a drug targeting lipoprotein (a), has successfully passed phase II clinical trials, demonstrating reductions of up to 85.7% in lipoprotein (a) levels over twelve weeks with a favorable safety profile comparable to placebo."
-type: "standard"
-status: "published"
-publishDate: "2025-01-27T19:01:21+00:00"
-author: "admin"
+title: 'Update: Lipoprotein (a) drug, Muvalaplin, clears phase II clinical trials'
+description: >-
+  Muvalaplin, a drug targeting lipoprotein (a), has successfully passed phase II
+  clinical trials, demonstrating reductions of up to 85.7% in lipoprotein (a)
+  levels over twelve weeks with a favorable safety profile comparable to
+  placebo.
+type: standard
+status: published
+publishDate: '2025-01-27T19:01:21+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Drugs"
-slug: "update-lipoprotein-a-drug-muvalaplin-clears-phase-ii-clinical-trials"
+  - Health News
+  - Drugs
+slug: update-lipoprotein-a-drug-muvalaplin-clears-phase-ii-clinical-trials
 reading_time: 4
-source_url: "https://medicalnewsalley.com/update-lipoprotein-a-drug-muvalaplin-clears-phase-ii-clinical-trials/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/update-lipoprotein-a-drug-muvalaplin-clears-phase-ii-clinical-trials/
+imported_from: wordpress
 wp_original_id: 32221
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/update-lipoprotein-a-drug-muvalaplin-clears-phase-ii-clinical-trials.webp
 seo:
-  canonical: "https://medicalnewsalley.com/update-lipoprotein-a-drug-muvalaplin-clears-phase-ii-clinical-trials/"
-  og_title: "Update: Lipoprotein (a) drug, Muvalaplin, clears phase II clinical trials - Medical News Alley"
-  og_description: "The much anticipated cholesterol blockage control drug Muvalaplin reduces lipoprotein (a) by up to 85% within twelve weeks. Last June we reported that Muvalaplin researchers had published encouraging phase I clinical trial results. This January, Victorian Heart Institute scientists led by John H. Krege, MD announced in a JAMA research article that the drug has [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/update-lipoprotein-a-drug-muvalaplin-clears-phase-ii-clinical-trials/
+  og_title: >-
+    Update: Lipoprotein (a) drug, Muvalaplin, clears phase II clinical trials -
+    Medical News Alley
+  og_description: >-
+    The much anticipated cholesterol blockage control drug Muvalaplin reduces
+    lipoprotein (a) by up to 85% within twelve weeks. Last June we reported that
+    Muvalaplin researchers had published encouraging phase I clinical trial
+    results. This January, Victorian Heart Institute scientists led by John H.
+    Krege, MD announced in a JAMA research article that the drug has [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -26,7 +40,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written medical news article with strong keyword relevance and engaging tone, though the title could be more compelling and the article would benefit from better heading structure for SEO optimization."
+quality_note: >-
+  Well-written medical news article with strong keyword relevance and engaging
+  tone, though the title could be more compelling and the article would benefit
+  from better heading structure for SEO optimization.
+image_alt: >-
+  Unbranded medicine vial and molecular form in a softly lit clinical lab
+  setting
 ---
 
 The much anticipated cholesterol blockage control drug Muvalaplin reduces lipoprotein (a) by up to 85% within twelve weeks. Last June we reported that Muvalaplin researchers had published encouraging phase I clinical trial results. This January, Victorian Heart Institute scientists led by John H. Krege, MD announced in a *JAMA* research article that the drug has passed the next hurdle on its way to the pharmacy. You can find background information about the drug and lipoprotein (a) [here](https://medicalnewsbulletin.com/new-drug-drops-bad-cholesterol-by-65/).
