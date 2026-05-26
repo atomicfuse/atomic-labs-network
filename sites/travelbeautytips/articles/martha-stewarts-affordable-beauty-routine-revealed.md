@@ -1,27 +1,35 @@
 ---
-title: "Martha Stewart’s Affordable Beauty Routine Revealed"
-description: "Martha Stewart's radiant complexion is achievable with a consistent routine combining Mario Badescu skin care classics, daily hydration and sunscreen, and the affordable glow of L'Oreal Paris True Match Lumi Glotion."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:38:24+00:00"
-author: "Taylor Winters"
+title: Martha Stewart’s Affordable Beauty Routine Revealed
+description: >-
+  Martha Stewart's radiant complexion is achievable with a consistent routine
+  combining Mario Badescu skin care classics, daily hydration and sunscreen, and
+  the affordable glow of L'Oreal Paris True Match Lumi Glotion.
+type: standard
+status: published
+publishDate: '2026-05-21T08:38:24+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-  - "Makeup Tutorial"
-slug: "martha-stewarts-affordable-beauty-routine-revealed"
+  - Travel Tips
+  - Beauty
+  - Makeup Hacks
+  - Makeup Tutorial
+slug: martha-stewarts-affordable-beauty-routine-revealed
 reading_time: 7
-source_url: "https://travelbeautytips.com/martha-stewarts-affordable-beauty-routine-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/martha-stewarts-affordable-beauty-routine-revealed/
+imported_from: wordpress
 wp_original_id: 36183
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/martha-stewarts-affordable-beauty-routine-revealed.webp
 seo:
-  canonical: "https://travelbeautytips.com/martha-stewarts-affordable-beauty-routine-revealed/"
-  og_title: "Martha Stewart’s Affordable Beauty Routine Revealed - Travel Beauty Tips"
-  og_description: "Martha Stewart’s glow inspires an achievable routine built on consistent skin care, hydration, sunscreen, Mario Badescu classics, and affordable radiance from L’Oreal Paris True Match Lumi Glotion."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/martha-stewarts-affordable-beauty-routine-revealed/
+  og_title: Martha Stewart’s Affordable Beauty Routine Revealed - Travel Beauty Tips
+  og_description: >-
+    Martha Stewart’s glow inspires an achievable routine built on consistent
+    skin care, hydration, sunscreen, Mario Badescu classics, and affordable
+    radiance from L’Oreal Paris True Match Lumi Glotion.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written beauty article with excellent length and tone, but lacks travel-specific content and strong SEO optimization for the site's primary focus areas."
+quality_note: >-
+  Well-written beauty article with excellent length and tone, but lacks
+  travel-specific content and strong SEO optimization for the site's primary
+  focus areas.
+image_alt: >-
+  Sunlit vanity with unbranded skincare and an older woman applying moisturizer
+  in the mirror
 ---
 
 Martha Stewart has turned luminous skin into part of her personal brand, and her beauty routine continues to draw attention for one clear reason: it feels achievable. Instead of relying only on luxury formulas, she mixes consistent skin care, expert treatments, and smart glow-boosting makeup. Two names often connected to her radiant look are Mario Badescu and L'Oreal Paris True Match Lumi Glotion, proving that polished skin does not always require an intimidating price tag.
