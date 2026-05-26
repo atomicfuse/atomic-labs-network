@@ -20,7 +20,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71386675/exercise-best-blood-pressure-study/
 source_item_id: 6a13fcb016f23264031d7b92
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/best-exercise-combo-lowering-blood-pressure-study.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written fitness content with good tone and strong keyword relevance, but
   falls short on word count and lacks specific study details for credibility.
 reading_time: 3
+image_alt: >-
+  Woman holding a kettlebell in a bright gym with cardio equipment softly
+  visible behind her.
 ---
 ## Breaking Down the Research Findings
 
