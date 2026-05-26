@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-european-automakers-must-innovate-quickly-in-ai-race
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/european-automakers-must-innovate-quickly-in-ai-race.webp
 reading_time: 3
 quality_score: 75
 score_breakdown:
@@ -31,6 +31,9 @@ score_breakdown:
 quality_note: >-
   Strong industry focus and keyword alignment, but significantly under target
   word count at 444 words versus the 800-1200 range.
+image_alt: >-
+  Sleek concept car in a futuristic studio surrounded by abstract AI network
+  patterns
 ---
 ## The AI Challenge for European Automakers
 
