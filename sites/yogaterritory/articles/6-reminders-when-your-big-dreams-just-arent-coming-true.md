@@ -1,24 +1,33 @@
 ---
-title: "6 Reminders When Your Big Dreams Just Aren’t Coming True"
-description: "A reassuring reminder that big dreams take time, and that growth, perspective, and flexibility are all part of the journey toward success."
-type: "standard"
-status: "review"
-publishDate: "2024-08-29T22:58:16+00:00"
-author: "Taylor Winters"
+title: 6 Reminders When Your Big Dreams Just Aren’t Coming True
+description: >-
+  A reassuring reminder that big dreams take time, and that growth, perspective,
+  and flexibility are all part of the journey toward success.
+type: standard
+status: review
+publishDate: '2024-08-29T22:58:16+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-slug: "6-reminders-when-your-big-dreams-just-arent-coming-true"
+  - Yoga Poses
+  - Lifestyle
+slug: 6-reminders-when-your-big-dreams-just-arent-coming-true
 reading_time: 3
-source_url: "https://yogaterritory.com/6-reminders-when-your-big-dreams-just-arent-coming-true/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/6-reminders-when-your-big-dreams-just-arent-coming-true/
+imported_from: wordpress
 wp_original_id: 19353
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/6-reminders-when-your-big-dreams-just-arent-coming-true.webp
 seo:
-  canonical: "https://yogaterritory.com/6-reminders-when-your-big-dreams-just-arent-coming-true/"
-  og_title: "6 Reminders When Your Big Dreams Just Aren’t Coming True - Yoga Territory"
-  og_description: "Your wildest dreams aren&#x2019;t going to become a reality overnight. These things take time. You might feel like you&#x2019;re behind because other people in your field are moving at a faster pace, or because they reached &#x2018;success&#x2019; at an earlier age than you, but there isn&#x2019;t a time limit on when you&#x2019;re allowed to accomplish [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/6-reminders-when-your-big-dreams-just-arent-coming-true/
+  og_title: 6 Reminders When Your Big Dreams Just Aren’t Coming True - Yoga Territory
+  og_description: >-
+    Your wildest dreams aren&#x2019;t going to become a reality overnight. These
+    things take time. You might feel like you&#x2019;re behind because other
+    people in your field are moving at a faster pace, or because they reached
+    &#x2018;success&#x2019; at an earlier age than you, but there isn&#x2019;t a
+    time limit on when you&#x2019;re allowed to accomplish [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 100
   keyword_relevance: 15
-quality_note: "While the tone is engaging and conversational, this motivational content lacks yoga/wellness focus and has poor SEO optimization for the target audience."
+quality_note: >-
+  While the tone is engaging and conversational, this motivational content lacks
+  yoga/wellness focus and has poor SEO optimization for the target audience.
+image_alt: >-
+  A person pauses on a winding hillside path at sunrise with misty mountains
+  ahead.
 ---
 
 **Your wildest dreams aren't going to become a reality overnight.** These things take time. You might feel like you're behind because other people in your field are moving at a faster pace, or because they reached 'success' at an earlier age than you, but there isn't a time limit on when you're allowed to accomplish your big dreams. You aren't running out of time. Quite the contrary. The more time that passes, the more you're growing, the more you're learning. Every single day, you're strengthening your skills, and sooner or later, you're going to see your effort rewarded.
