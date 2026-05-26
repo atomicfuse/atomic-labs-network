@@ -1,25 +1,33 @@
 ---
-title: "Arsenal Stars Celebrate Premier League Triumph at Dawn"
-description: "Arsenal's 2001-02 title triumph at Old Trafford sealed a domestic Double, stunned Manchester United, and sparked unforgettable celebrations after Sylvain Wiltord's decisive goal."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:34:26+00:00"
-author: "Taylor Winters"
+title: Arsenal Stars Celebrate Premier League Triumph at Dawn
+description: >-
+  Arsenal's 2001-02 title triumph at Old Trafford sealed a domestic Double,
+  stunned Manchester United, and sparked unforgettable celebrations after
+  Sylvain Wiltord's decisive goal.
+type: standard
+status: published
+publishDate: '2026-05-21T08:34:26+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alexis Sánchez"
-slug: "arsenal-stars-celebrate-premier-league-triumph-at-dawn"
+  - Latest News
+  - Alexis Sánchez
+slug: arsenal-stars-celebrate-premier-league-triumph-at-dawn
 reading_time: 6
-source_url: "https://soccernewsreports.com/arsenal-stars-celebrate-premier-league-triumph-at-dawn/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/arsenal-stars-celebrate-premier-league-triumph-at-dawn/
+imported_from: wordpress
 wp_original_id: 38016
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/arsenal-stars-celebrate-premier-league-triumph-at-dawn.webp
 seo:
-  canonical: "https://soccernewsreports.com/arsenal-stars-celebrate-premier-league-triumph-at-dawn/"
-  og_title: "Arsenal Stars Celebrate Premier League Triumph at Dawn - Soccer News Reports"
-  og_description: "Arsenal’s 2001-02 title triumph at Old Trafford sealed a domestic Double, stunned Manchester United, and sparked unforgettable celebrations after Sylvain Wiltord’s decisive goal."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/arsenal-stars-celebrate-premier-league-triumph-at-dawn/
+  og_title: Arsenal Stars Celebrate Premier League Triumph at Dawn - Soccer News Reports
+  og_description: >-
+    Arsenal’s 2001-02 title triumph at Old Trafford sealed a domestic Double,
+    stunned Manchester United, and sparked unforgettable celebrations after
+    Sylvain Wiltord’s decisive goal.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,10 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 65
   keyword_relevance: 70
-quality_note: "Well-written historical piece with engaging tone and proper length, but contains factual inconsistencies about the 2001-02 season and misaligned tags."
+quality_note: >-
+  Well-written historical piece with engaging tone and proper length, but
+  contains factual inconsistencies about the 2001-02 season and misaligned tags.
+image_alt: Footballers in red and white celebrate at dawn on a misty stadium pitch.
 ---
 
 Arsenal's Premier League triumph at Old Trafford remains one of English football's defining title-clinching nights. A narrow win over Manchester United delivered the crown, sparked celebrations that lasted until daybreak, and confirmed Arsene Wenger's side as the benchmark of the 2001-02 season.
