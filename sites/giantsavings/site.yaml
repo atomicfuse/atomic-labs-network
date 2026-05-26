@@ -2,7 +2,8 @@ domain: giantsavings
 site_name: giant-savings
 site_tagline: null
 author: Olivia Morgan
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d78416f23264031d7a5b
 brief:
