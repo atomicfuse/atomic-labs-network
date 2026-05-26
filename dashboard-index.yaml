@@ -730,22 +730,23 @@ sites:
   - domain: medicalnewsalley
     company: NGC
     vertical: Medical Health
-    status: Staging
+    status: Live
     site_id: "9619803022674"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-25T10:35:24.443Z
+    last_updated: 2026-05-26T08:46:58.062Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: bdd9daefb4d8341d62948bb0fdbbda6a
     staging_branch: staging/medicalnewsalley
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=medicalnewsalley
     saved_previews: null
-    custom_domain: null
+    custom_domain: medicalnewsalley.com
+    worker_pending_dns: false
   - domain: journeypeaks
     company: ATL
     vertical: Travel
