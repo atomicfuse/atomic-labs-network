@@ -1,25 +1,36 @@
 ---
-title: "Confronting Family Lies: Facing the Consequences After Years"
-description: "Navigating family relationships often requires balancing personal boundaries and family expectations. Open communication and mutual respect are essential for introducing significant others while maintaining harmony and understanding within the family dynamic."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T11:36:57+00:00"
-author: "Gabe Hernandez"
+title: 'Confronting Family Lies: Facing the Consequences After Years'
+description: >-
+  Navigating family relationships often requires balancing personal boundaries
+  and family expectations. Open communication and mutual respect are essential
+  for introducing significant others while maintaining harmony and understanding
+  within the family dynamic.
+type: standard
+status: review
+publishDate: '2026-02-02T11:36:57+00:00'
+author: Gabe Hernandez
 tags:
-  - "Funny Videos"
-  - "Advice"
-slug: "confronting-family-lies-facing-the-consequences-after-years"
+  - Funny Videos
+  - Advice
+slug: confronting-family-lies-facing-the-consequences-after-years
 reading_time: 3
-source_url: "https://funnypigeon.com/confronting-family-lies-facing-the-consequences-after-years/"
-imported_from: "wordpress"
+source_url: >-
+  https://funnypigeon.com/confronting-family-lies-facing-the-consequences-after-years/
+imported_from: wordpress
 wp_original_id: 513
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: >-
+  /assets/images/confronting-family-lies-facing-the-consequences-after-years.webp
 seo:
-  canonical: "https://funnypigeon.com/confronting-family-lies-facing-the-consequences-after-years/"
-  og_title: "Confronting Family Lies: Facing the Consequences After Years - Funny Pigeon"
-  og_description: "Navigating family relationships often requires balancing personal boundaries and family expectations. Open communication and mutual respect are essential for introducing significant others while maintaining harmony and understanding within the family dynamic."
-  og_image: "https://funnypigeon.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://funnypigeon.com/confronting-family-lies-facing-the-consequences-after-years/
+  og_title: 'Confronting Family Lies: Facing the Consequences After Years - Funny Pigeon'
+  og_description: >-
+    Navigating family relationships often requires balancing personal boundaries
+    and family expectations. Open communication and mutual respect are essential
+    for introducing significant others while maintaining harmony and
+    understanding within the family dynamic.
+  og_image: 'https://funnypigeon.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This article about family relationship advice completely misaligns with funnypigeon's entertainment focus on funny videos, memes, and viral content, despite having minimal entertainment tags."
+quality_note: >-
+  This article about family relationship advice completely misaligns with
+  funnypigeon's entertainment focus on funny videos, memes, and viral content,
+  despite having minimal entertainment tags.
+image_alt: >-
+  A tense family dinner scene with a newcomer standing in the doorway and uneasy
+  relatives at the table.
 ---
 
 Navigating the complex terrain of family relationships often requires delicate balance, especially when introducing significant others into the mix. This dynamic can be further complicated when there are deeply rooted family expectations or past relationship experiences that influence current decisions. Understanding how to manage these situations with honesty and empathy can foster stronger family ties while respecting personal boundaries.
