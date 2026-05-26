@@ -1,24 +1,34 @@
 ---
-title: "NASA’s Lucy Reveals First Image of Unique Asteroid Shape"
-description: "NASA's Lucy mission has captured the first detailed images of the asteroid Dinkinesh, revealing its unique peanut-like shape. This discovery provides new insights into the asteroid's characteristics and composition, enhancing our understanding of the solar system's formation."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:11:37+00:00"
-author: "Nico Harper"
+title: NASA’s Lucy Reveals First Image of Unique Asteroid Shape
+description: >-
+  NASA's Lucy mission has captured the first detailed images of the asteroid
+  Dinkinesh, revealing its unique peanut-like shape. This discovery provides new
+  insights into the asteroid's characteristics and composition, enhancing our
+  understanding of the solar system's formation.
+type: standard
+status: review
+publishDate: '2025-05-05T16:11:37+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "nasas-lucy-reveals-first-image-of-unique-asteroid-shape"
+  - Hot Trends
+slug: nasas-lucy-reveals-first-image-of-unique-asteroid-shape
 reading_time: 3
-source_url: "https://gigsfreaks.com/nasas-lucy-reveals-first-image-of-unique-asteroid-shape/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/nasas-lucy-reveals-first-image-of-unique-asteroid-shape/
+imported_from: wordpress
 wp_original_id: 867
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/nasas-lucy-reveals-first-image-of-unique-asteroid-shape.webp
 seo:
-  canonical: "https://gigsfreaks.com/nasas-lucy-reveals-first-image-of-unique-asteroid-shape/"
-  og_title: "NASA's Lucy Reveals First Image of Unique Asteroid Shape - GigsFreaks"
-  og_description: "NASA's Lucy mission has captured the first detailed images of the asteroid Dinkinesh, revealing its unique peanut-like shape. This discovery provides new insights into the asteroid's characteristics and composition, enhancing our understanding of the solar system's formation."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-90.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/nasas-lucy-reveals-first-image-of-unique-asteroid-shape/
+  og_title: NASA's Lucy Reveals First Image of Unique Asteroid Shape - GigsFreaks
+  og_description: >-
+    NASA's Lucy mission has captured the first detailed images of the asteroid
+    Dinkinesh, revealing its unique peanut-like shape. This discovery provides
+    new insights into the asteroid's characteristics and composition, enhancing
+    our understanding of the solar system's formation.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-90.jpeg'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "While factually accurate about NASA's Lucy mission, the article fails to match the entertainment-focused audience with its academic tone and lacks relevance to the site's fun, engaging content pillars."
+quality_note: >-
+  While factually accurate about NASA's Lucy mission, the article fails to match
+  the entertainment-focused audience with its academic tone and lacks relevance
+  to the site's fun, engaging content pillars.
+image_alt: >-
+  Peanut-shaped asteroid lit against deep space with a distant research
+  spacecraft silhouette
 ---
 
 NASA's Lucy mission has achieved a groundbreaking milestone by capturing the first detailed images of the asteroid Dinkinesh, a discovery that reveals its unique peanut-like shape. These observations offer unprecedented insights into the physical characteristics and composition of this celestial object, contributing significantly to our understanding of asteroids.
