@@ -1,24 +1,34 @@
 ---
-title: "2026 Golden Globes Highlights: Winners, Surprises, and Shocks"
-description: "The Golden Globe Awards 2026 celebrated the best in film and television with glamour and surprises, highlighting diverse storytelling and standout performances. The event set a tone for future awards, influencing trends and celebrating creativity and inclusion."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T10:25:34+00:00"
-author: "Becca Roberts"
+title: '2026 Golden Globes Highlights: Winners, Surprises, and Shocks'
+description: >-
+  The Golden Globe Awards 2026 celebrated the best in film and television with
+  glamour and surprises, highlighting diverse storytelling and standout
+  performances. The event set a tone for future awards, influencing trends and
+  celebrating creativity and inclusion.
+type: standard
+status: review
+publishDate: '2026-01-12T10:25:34+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "2026-golden-globes-highlights-winners-surprises-and-shocks"
+  - Watch
+slug: 2026-golden-globes-highlights-winners-surprises-and-shocks
 reading_time: 3
-source_url: "https://buzzsoaps.com/2026-golden-globes-highlights-winners-surprises-and-shocks/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/2026-golden-globes-highlights-winners-surprises-and-shocks/
+imported_from: wordpress
 wp_original_id: 525
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/2026-golden-globes-highlights-winners-surprises-and-shocks.webp
 seo:
-  canonical: "https://buzzsoaps.com/2026-golden-globes-highlights-winners-surprises-and-shocks/"
-  og_title: "2026 Golden Globes Highlights: Winners, Surprises, and Shocks - BuzzSoaps!"
-  og_description: "The Golden Globe Awards 2026 celebrated the best in film and television with glamour and surprises, highlighting diverse storytelling and standout performances. The event set a tone for future awards, influencing trends and celebrating creativity and inclusion."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/2026-golden-globes-highlights-winners-surprises-and-shocks/
+  og_title: '2026 Golden Globes Highlights: Winners, Surprises, and Shocks - BuzzSoaps!'
+  og_description: >-
+    The Golden Globe Awards 2026 celebrated the best in film and television with
+    glamour and surprises, highlighting diverse storytelling and standout
+    performances. The event set a tone for future awards, influencing trends and
+    celebrating creativity and inclusion.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "The article has good tone and keyword relevance but is severely penalized for being about a fictional 2026 Golden Globes event and falls short of the target word count."
+quality_note: >-
+  The article has good tone and keyword relevance but is severely penalized for
+  being about a fictional 2026 Golden Globes event and falls short of the target
+  word count.
+image_alt: >-
+  Gold-lit awards stage with red carpet, silhouettes, camera flashes, confetti,
+  and envelopes
 ---
 
 The Golden Globe Awards 2026 celebrated the best in film and television with an evening full of glamour and surprises. From unexpected wins to memorable speeches, the night offered plenty of excitement for audiences worldwide.
