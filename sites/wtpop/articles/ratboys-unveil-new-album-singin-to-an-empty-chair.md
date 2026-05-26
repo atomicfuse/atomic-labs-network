@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-ratboys-unveil-new-album-singin-to-an-empty-chair
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/ratboys-unveil-new-album-singin-to-an-empty-chair.webp
 reading_time: 2
 quality_score: 61
 score_breakdown:
@@ -36,6 +36,7 @@ quality_note: >-
   it falls significantly short on length and uses an overly formal,
   press-release tone that lacks the engaging conversational style expected for
   entertainment enthusiasts.
+image_alt: An empty chair under a spotlight on a quiet indie rock venue stage.
 ---
 ## Ratboys Announce Latest Musical Project
 
