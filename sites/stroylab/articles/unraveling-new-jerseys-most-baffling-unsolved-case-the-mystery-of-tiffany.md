@@ -1,29 +1,38 @@
 ---
-title: "Unraveling New Jersey’s Most Baffling Unsolved Case: The Mystery of Tiffany"
-description: "Explore the perplexing unsolved mystery of Tiffany's disappearance in New Jersey, a case that continues to baffle investigators and haunt her family."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:27:41+00:00"
-author: "Blake Anderson"
+title: 'Unraveling New Jersey’s Most Baffling Unsolved Case: The Mystery of Tiffany'
+description: >-
+  Explore the perplexing unsolved mystery of Tiffany's disappearance in New
+  Jersey, a case that continues to baffle investigators and haunt her family.
+type: standard
+status: review
+publishDate: '2025-12-22T11:27:41+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "unraveling-new-jerseys-most-baffling-unsolved-case-the-mystery-of-tiffany"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: unraveling-new-jerseys-most-baffling-unsolved-case-the-mystery-of-tiffany
 reading_time: 2
-source_url: "https://stroylab.com/unraveling-new-jerseys-most-baffling-unsolved-case-the-mystery-of-tiffany/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/unraveling-new-jerseys-most-baffling-unsolved-case-the-mystery-of-tiffany/
+imported_from: wordpress
 wp_original_id: 671
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/unraveling-new-jerseys-most-baffling-unsolved-case-the-mystery-of-tiffany.webp
 seo:
-  canonical: "https://stroylab.com/unraveling-new-jerseys-most-baffling-unsolved-case-the-mystery-of-tiffany/"
-  og_title: "Unraveling New Jersey's Most Baffling Unsolved Case: The Mystery of Tiffany - StroyLab"
-  og_description: "Explore the perplexing unsolved mystery of Tiffany's disappearance in New Jersey, a case that continues to baffle investigators and haunt her family."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/unraveling-new-jerseys-most-baffling-unsolved-case-the-mystery-of-tiffany/
+  og_title: >-
+    Unraveling New Jersey's Most Baffling Unsolved Case: The Mystery of Tiffany
+    - StroyLab
+  og_description: >-
+    Explore the perplexing unsolved mystery of Tiffany's disappearance in New
+    Jersey, a case that continues to baffle investigators and haunt her family.
+  twitter_card: summary_large_image
 videos:
-  - id: "f41463d0"
-    url: "https://www.youtube.com/watch?v=LgPBftReWWw"
-    position: "after-paragraph-2"
+  - id: f41463d0
+    url: 'https://www.youtube.com/watch?v=LgPBftReWWw'
+    position: after-paragraph-2
 quality_score: 59
 score_breakdown:
   seo_quality: 75
@@ -31,7 +40,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "Article has strong keyword relevance and decent SEO structure but is severely under target word count and lacks specific factual details about the case."
+quality_note: >-
+  Article has strong keyword relevance and decent SEO structure but is severely
+  under target word count and lacks specific factual details about the case.
+image_alt: >-
+  Rainy New Jersey street at dusk with an empty sidewalk and open gate, evoking
+  an unsolved disappearance.
 ---
 
 New Jersey has been the backdrop for many mysteries, but none as perplexing as the unsolved case of Tiffany's disappearance. This case, filled with unanswered questions and puzzling details, has haunted the minds of investigators and her family for years. Despite numerous investigations and theories, Tiffany's mystery remains unsolved, leaving many to wonder what really happened.
