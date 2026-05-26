@@ -1,26 +1,34 @@
 ---
-title: "Living Room Trends Losing Popularity in 2026"
-description: "As we approach 2026, living room design trends are shifting away from minimalism, open shelving, and neutral palettes, favoring bold colors, eclectic styles, and eco-friendly choices that create more personalized and inviting spaces reflecting individuality and sustainability."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T09:19:39+00:00"
-author: "Taylor Winters"
+title: Living Room Trends Losing Popularity in 2026
+description: >-
+  As we approach 2026, living room design trends are shifting away from
+  minimalism, open shelving, and neutral palettes, favoring bold colors,
+  eclectic styles, and eco-friendly choices that create more personalized and
+  inviting spaces reflecting individuality and sustainability.
+type: standard
+status: review
+publishDate: '2026-02-02T09:19:39+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "Home"
-slug: "living-room-trends-losing-popularity-in-2026"
+  - Decor Ideas
+  - Design
+  - Home
+slug: living-room-trends-losing-popularity-in-2026
 reading_time: 3
-source_url: "https://decoratingtricks.com/living-room-trends-losing-popularity-in-2026/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/living-room-trends-losing-popularity-in-2026/'
+imported_from: wordpress
 wp_original_id: 21556
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/living-room-trends-losing-popularity-in-2026.webp
 seo:
-  canonical: "https://decoratingtricks.com/living-room-trends-losing-popularity-in-2026/"
-  og_title: "Living Room Trends Losing Popularity in 2026 - Decorating Tricks"
-  og_description: "As we approach 2026, living room design trends are shifting away from minimalism, open shelving, and neutral palettes, favoring bold colors, eclectic styles, and eco-friendly choices, creating more personalized and inviting spaces that reflect individuality and sustainability."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingtricks.com/living-room-trends-losing-popularity-in-2026/'
+  og_title: Living Room Trends Losing Popularity in 2026 - Decorating Tricks
+  og_description: >-
+    As we approach 2026, living room design trends are shifting away from
+    minimalism, open shelving, and neutral palettes, favoring bold colors,
+    eclectic styles, and eco-friendly choices, creating more personalized and
+    inviting spaces that reflect individuality and sustainability.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but severely penalized for speculative claims about 2026 trends presented as fact and below-target word count."
+quality_note: >-
+  Strong topic relevance and tone but severely penalized for speculative claims
+  about 2026 trends presented as fact and below-target word count.
+image_alt: >-
+  Stylish living room blending neutral minimalism with bold colors, plants,
+  vintage decor, and sustainable materials.
 ---
 
 In the ever-evolving world of interior design, staying updated on current trends is crucial for creating a modern and inviting living space. As we look towards 2026, several living room trends are expected to fade, making way for fresh and innovative styles. Whether you're planning a complete makeover or a subtle refresh, knowing which trends to leave behind can help you create a stylish and timeless living area.
