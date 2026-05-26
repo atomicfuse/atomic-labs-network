@@ -1,25 +1,36 @@
 ---
-title: "Trump Fundraisers Sought Microsoft White House Ballroom Donation"
-description: "The White House ballroom renovation highlights a collaboration between the government and tech giants like Microsoft and Amazon, sparking discussions about corporate influence in public projects while balancing modern technology with historical preservation."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T10:23:24+00:00"
-author: "Lena Ashwood"
+title: Trump Fundraisers Sought Microsoft White House Ballroom Donation
+description: >-
+  The White House ballroom renovation highlights a collaboration between the
+  government and tech giants like Microsoft and Amazon, sparking discussions
+  about corporate influence in public projects while balancing modern technology
+  with historical preservation.
+type: standard
+status: review
+publishDate: '2026-01-12T10:23:24+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "trump-fundraisers-sought-microsoft-white-house-ballroom-donation"
+  - Innovation
+  - Tech
+slug: trump-fundraisers-sought-microsoft-white-house-ballroom-donation
 reading_time: 3
-source_url: "https://mindsbit.com/trump-fundraisers-sought-microsoft-white-house-ballroom-donation/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/trump-fundraisers-sought-microsoft-white-house-ballroom-donation/
+imported_from: wordpress
 wp_original_id: 444
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/trump-fundraisers-sought-microsoft-white-house-ballroom-donation.webp
 seo:
-  canonical: "https://mindsbit.com/trump-fundraisers-sought-microsoft-white-house-ballroom-donation/"
-  og_title: "Trump Fundraisers Sought Microsoft White House Ballroom Donation - Minds bit"
-  og_description: "The White House ballroom renovation highlights collaboration between the government and tech giants like Microsoft and Amazon, sparking discussions about corporate influence in public projects. The project aimed to enhance the venue's technology while preserving its historical charm."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/trump-fundraisers-sought-microsoft-white-house-ballroom-donation/
+  og_title: Trump Fundraisers Sought Microsoft White House Ballroom Donation - Minds bit
+  og_description: >-
+    The White House ballroom renovation highlights collaboration between the
+    government and tech giants like Microsoft and Amazon, sparking discussions
+    about corporate influence in public projects. The project aimed to enhance
+    the venue's technology while preserving its historical charm.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 65
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "The article has good tone and covers relevant topics, but is significantly too short at 455 words and appears to discuss a potentially fabricated or highly unclear event about White House ballroom renovations."
+quality_note: >-
+  The article has good tone and covers relevant topics, but is significantly too
+  short at 455 words and appears to discuss a potentially fabricated or highly
+  unclear event about White House ballroom renovations.
+image_alt: >-
+  Historic ballroom renovation with modern tech equipment and an anonymous
+  suited figure reviewing plans.
 ---
 
 The recent renovation of a White House ballroom has attracted attention, not just for its aesthetic updates but also for its funding sources. This project highlights a collaboration between the government and private tech giants like Microsoft and Amazon. The involvement of these companies in the renovation has sparked discussions about their influence and role in the public sector.
