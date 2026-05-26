@@ -1,26 +1,39 @@
 ---
-title: "Discover Morocco’s Top City Among 2026 Global Travel Destinations"
-description: "Morocco's vibrant culture and historical landmarks continue to captivate travelers. A Moroccan city has been named a top travel destination for 2026, highlighting its unique blend of tradition and modernity, rich history, thriving arts scene, and delicious cuisine."
-type: "standard"
-status: "review"
-publishDate: "2026-02-23T09:59:21+00:00"
-author: "Taylor Winters"
+title: Discover Morocco’s Top City Among 2026 Global Travel Destinations
+description: >-
+  Morocco's vibrant culture and historical landmarks continue to captivate
+  travelers. A Moroccan city has been named a top travel destination for 2026,
+  highlighting its unique blend of tradition and modernity, rich history,
+  thriving arts scene, and delicious cuisine.
+type: standard
+status: review
+publishDate: '2026-02-23T09:59:21+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Food &amp; Drink"
-  - "Travel"
-slug: "discover-moroccos-top-city-among-2026-global-travel-destinations"
+  - Destinations
+  - Food &amp; Drink
+  - Travel
+slug: discover-moroccos-top-city-among-2026-global-travel-destinations
 reading_time: 3
-source_url: "https://journeypeaks.com/discover-moroccos-top-city-among-2026-global-travel-destinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/discover-moroccos-top-city-among-2026-global-travel-destinations/
+imported_from: wordpress
 wp_original_id: 38812
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-moroccos-top-city-among-2026-global-travel-destinations.webp
 seo:
-  canonical: "https://journeypeaks.com/discover-moroccos-top-city-among-2026-global-travel-destinations/"
-  og_title: "Discover Morocco's Top City Among 2026 Global Travel Destinations - Journey Peaks"
-  og_description: "Morocco's vibrant culture and historical landmarks continue to captivate travelers. A Moroccan city has been named a top travel destination for 2026, highlighting its unique blend of tradition and modernity, rich history, thriving arts scene, and delicious cuisine."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/02/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/discover-moroccos-top-city-among-2026-global-travel-destinations/
+  og_title: >-
+    Discover Morocco's Top City Among 2026 Global Travel Destinations - Journey
+    Peaks
+  og_description: >-
+    Morocco's vibrant culture and historical landmarks continue to captivate
+    travelers. A Moroccan city has been named a top travel destination for 2026,
+    highlighting its unique blend of tradition and modernity, rich history,
+    thriving arts scene, and delicious cuisine.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/02/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 40
   keyword_relevance: 95
-quality_note: "The article has excellent keyword relevance and engaging tone, but suffers from vague content that never identifies the specific Moroccan city being discussed, creating credibility issues."
+quality_note: >-
+  The article has excellent keyword relevance and engaging tone, but suffers
+  from vague content that never identifies the specific Moroccan city being
+  discussed, creating credibility issues.
+image_alt: >-
+  Golden-hour Moroccan rooftop overlooking a historic medina with tiles,
+  lanterns, tea, and modern skyline hints.
 ---
 
 Morocco continues to capture the imagination of travelers worldwide with its vibrant culture, historical landmarks, and breathtaking landscapes. Recently, a Moroccan city has been recognized as one of the top global travel destinations to watch for by 2026, solidifying its place on the world tourism map. This recognition shines a spotlight on the city's unique offerings and positions it as a must-visit location for adventurous globetrotters seeking new experiences.
