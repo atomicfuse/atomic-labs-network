@@ -24,7 +24,8 @@ source_url: ''
 source_item_id: >-
   synthetic-renault-geely-unveils-innovative-hybrid-conversion-kit-at-2025-shanghai-auto-show-transform-your-ev-today
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/renault-geely-unveils-innovative-hybrid-conversion-kit-at-2025-shanghai-auto-show-transform-your-ev-today.webp
 reading_time: 3
 quality_score: 65
 score_breakdown:
@@ -38,6 +39,9 @@ quality_note: >-
   significantly too short and contains concerning factual issues including
   references to a future 2025 Shanghai Auto Show and vague, unsupported claims
   about a hybrid conversion kit that may not exist.
+image_alt: >-
+  Futuristic hybrid car display with glowing drivetrain components on a sleek
+  auto show floor
 ---
 ## Major Automakers Collaborate on Hybrid Technology
 
