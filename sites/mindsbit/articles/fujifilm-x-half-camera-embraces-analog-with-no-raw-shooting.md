@@ -1,25 +1,35 @@
 ---
-title: "Fujifilm X Half Camera Embraces Analog with No RAW Shooting"
-description: "Fujifilm's new X Half compact camera blends analog charm with digital technology, offering a retro-inspired design, film simulation modes, and modern connectivity options — but notably omits RAW shooting support."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T05:11:20+00:00"
-author: "Lena Ashwood"
+title: Fujifilm X Half Camera Embraces Analog with No RAW Shooting
+description: >-
+  Fujifilm's new X Half compact camera blends analog charm with digital
+  technology, offering a retro-inspired design, film simulation modes, and
+  modern connectivity options — but notably omits RAW shooting support.
+type: standard
+status: review
+publishDate: '2025-05-22T05:11:20+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "fujifilm-x-half-camera-embraces-analog-with-no-raw-shooting"
+  - Innovation
+  - Tech
+slug: fujifilm-x-half-camera-embraces-analog-with-no-raw-shooting
 reading_time: 3
-source_url: "https://mindsbit.com/fujifilm-x-half-camera-embraces-analog-with-no-raw-shooting/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/fujifilm-x-half-camera-embraces-analog-with-no-raw-shooting/
+imported_from: wordpress
 wp_original_id: 369
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/fujifilm-x-half-camera-embraces-analog-with-no-raw-shooting.webp
 seo:
-  canonical: "https://mindsbit.com/fujifilm-x-half-camera-embraces-analog-with-no-raw-shooting/"
-  og_title: "Fujifilm X Half Camera Embraces Analog with No RAW Shooting - Minds bit"
-  og_description: "Fujifilm's new compact camera blends analog charm with digital technology, offering a retro-inspired design and advanced features. It includes film simulation modes and connectivity options, making it ideal for both hobbyists and professionals seeking style and functionality."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-51.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/fujifilm-x-half-camera-embraces-analog-with-no-raw-shooting/
+  og_title: Fujifilm X Half Camera Embraces Analog with No RAW Shooting - Minds bit
+  og_description: >-
+    Fujifilm's new compact camera blends analog charm with digital technology,
+    offering a retro-inspired design and advanced features. It includes film
+    simulation modes and connectivity options, making it ideal for both
+    hobbyists and professionals seeking style and functionality.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-51.jpeg'
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "The article maintains an engaging tone but suffers from vague references to an unnamed camera model and lacks specific technical details that would demonstrate factual accuracy."
+quality_note: >-
+  The article maintains an engaging tone but suffers from vague references to an
+  unnamed camera model and lacks specific technical details that would
+  demonstrate factual accuracy.
+image_alt: >-
+  Retro compact camera on a studio surface with film rolls and subtle digital
+  light accents
 ---
 
 Fujifilm continues to impress photography enthusiasts with its innovative approach by introducing a remarkable addition to its camera lineup. Blending the charm of analog aesthetics with cutting-edge digital technology, Fujifilm's latest compact camera model is designed to cater to both nostalgic film lovers and modern digital photographers.
