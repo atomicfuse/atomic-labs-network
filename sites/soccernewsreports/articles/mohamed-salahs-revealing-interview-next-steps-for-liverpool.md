@@ -1,25 +1,38 @@
 ---
-title: "Mohamed Salah’s Revealing Interview: Next Steps for Liverpool"
-description: "Mohamed Salah's potential transfer is a hot topic as the window approaches. His impact at Liverpool has been transformative, sparking curiosity about his future. Fans and analysts eagerly await his decision, which could reshape football landscapes."
-type: "standard"
-status: "review"
-publishDate: "2025-12-08T09:41:26+00:00"
-author: "Taylor Winters"
+title: 'Mohamed Salah’s Revealing Interview: Next Steps for Liverpool'
+description: >-
+  Mohamed Salah's potential transfer is a hot topic as the window approaches.
+  His impact at Liverpool has been transformative, sparking curiosity about his
+  future. Fans and analysts eagerly await his decision, which could reshape
+  football landscapes.
+type: standard
+status: review
+publishDate: '2025-12-08T09:41:26+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alisson"
-slug: "mohamed-salahs-revealing-interview-next-steps-for-liverpool"
+  - Latest News
+  - Alisson
+slug: mohamed-salahs-revealing-interview-next-steps-for-liverpool
 reading_time: 3
-source_url: "https://soccernewsreports.com/mohamed-salahs-revealing-interview-next-steps-for-liverpool/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/mohamed-salahs-revealing-interview-next-steps-for-liverpool/
+imported_from: wordpress
 wp_original_id: 37936
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/mohamed-salahs-revealing-interview-next-steps-for-liverpool.webp
 seo:
-  canonical: "https://soccernewsreports.com/mohamed-salahs-revealing-interview-next-steps-for-liverpool/"
-  og_title: "Mohamed Salah's Revealing Interview: Next Steps for Liverpool - Soccer News Reports"
-  og_description: "Mohamed Salah's potential transfer is a hot topic as the window approaches. His impact at Liverpool has been transformative, sparking curiosity about his future. Fans and analysts eagerly await his decision, which could reshape football landscapes."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/mohamed-salahs-revealing-interview-next-steps-for-liverpool/
+  og_title: >-
+    Mohamed Salah's Revealing Interview: Next Steps for Liverpool - Soccer News
+    Reports
+  og_description: >-
+    Mohamed Salah's potential transfer is a hot topic as the window approaches.
+    His impact at Liverpool has been transformative, sparking curiosity about
+    his future. Fans and analysts eagerly await his decision, which could
+    reshape football landscapes.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/12/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "Article covers relevant football transfer topics with appropriate tone but lacks factual specificity and contains vague speculation without concrete details or recent interview references."
+quality_note: >-
+  Article covers relevant football transfer topics with appropriate tone but
+  lacks factual specificity and contains vague speculation without concrete
+  details or recent interview references.
+image_alt: >-
+  Footballer in a red kit pauses between a stadium pitch and a shadowed exit
+  under dramatic lights.
 ---
 
 Mohamed Salah has been a cornerstone of Liverpool's success in recent years, and his potential transfer has become a hot topic in the football world. As the transfer window approaches, fans and analysts alike are eager to see how this saga unfolds. Salah has expressed his commitment to continuing his career journey, and this has naturally sparked curiosity about his future destinations.
