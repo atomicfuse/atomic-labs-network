@@ -1,25 +1,38 @@
 ---
-title: "Rugrats Retro Rewind Collection Review Nostalgia Worth Revisiting"
-description: "Rugrats: Adventures in Gameland delivers a charming, nostalgic retro platformer with playful visuals, simple mechanics, co-op fun, and imaginative household stages built for fans of Tommy, Chuckie, Phil, Lil, and Reptar."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:32:47+00:00"
-author: "Taylor Winters"
+title: Rugrats Retro Rewind Collection Review Nostalgia Worth Revisiting
+description: >-
+  Rugrats: Adventures in Gameland delivers a charming, nostalgic retro
+  platformer with playful visuals, simple mechanics, co-op fun, and imaginative
+  household stages built for fans of Tommy, Chuckie, Phil, Lil, and Reptar.
+type: standard
+status: published
+publishDate: '2026-05-21T08:32:47+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Crash Bandicoot"
-slug: "rugrats-retro-rewind-collection-review-nostalgia-worth-revisiting"
+  - Gaming News
+  - Crash Bandicoot
+slug: rugrats-retro-rewind-collection-review-nostalgia-worth-revisiting
 reading_time: 7
-source_url: "https://gamingnewsalley.com/rugrats-retro-rewind-collection-review-nostalgia-worth-revisiting/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/rugrats-retro-rewind-collection-review-nostalgia-worth-revisiting/
+imported_from: wordpress
 wp_original_id: 42648
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/rugrats-retro-rewind-collection-review-nostalgia-worth-revisiting.webp
 seo:
-  canonical: "https://gamingnewsalley.com/rugrats-retro-rewind-collection-review-nostalgia-worth-revisiting/"
-  og_title: "Rugrats Retro Rewind Collection Review Nostalgia Worth Revisiting - Gaming News Alley"
-  og_description: "Rugrats: Adventures in Gameland delivers a charming, nostalgic retro platformer with playful visuals, simple mechanics, co-op fun, and imaginative household stages built for fans of Tommy, Chuckie, Phil, Lil, and Reptar."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/05/make_rugrats-search-for-reptar-opening.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/rugrats-retro-rewind-collection-review-nostalgia-worth-revisiting/
+  og_title: >-
+    Rugrats Retro Rewind Collection Review Nostalgia Worth Revisiting - Gaming
+    News Alley
+  og_description: >-
+    Rugrats: Adventures in Gameland delivers a charming, nostalgic retro
+    platformer with playful visuals, simple mechanics, co-op fun, and
+    imaginative household stages built for fans of Tommy, Chuckie, Phil, Lil,
+    and Reptar.
+  og_image: >-
+    https://gamingnewsalley.com/wp-content/uploads/2026/05/make_rugrats-search-for-reptar-opening.jpg
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 65
-quality_note: "Well-written review with excellent tone and length, but SEO could be stronger with better title optimization and the tags don't match the content focus on Rugrats rather than Crash Bandicoot."
+quality_note: >-
+  Well-written review with excellent tone and length, but SEO could be stronger
+  with better title optimization and the tags don't match the content focus on
+  Rugrats rather than Crash Bandicoot.
+image_alt: Retro living room transformed into a playful pixel-art platformer adventure
 ---
 
 Rugrats returns to video games with a cheerful throwback platformer that blends Nickelodeon nostalgia with old-school design. Built around Tommy, Chuckie, Phil, and Lil, this retro-inspired adventure turns an ordinary house into a Reptar-sized playground filled with secrets, hazards, and childlike imagination.
