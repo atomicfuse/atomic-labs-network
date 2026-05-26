@@ -1,23 +1,36 @@
 ---
-title: "Southern Charm Premiere: Drama Unfolds at Affectionless Shower Recap"
-description: "The 11th season of Southern Charm returns to Charleston, featuring old tensions, new dynamics, and the promise of gripping storylines. Familiar faces like Shep Rose and Craig Conover are joined by newcomers, ensuring drama amidst South Carolina's charming backdrop."
-type: "standard"
-status: "review"
-publishDate: "2025-11-20T13:00:23+00:00"
-author: "Becca Roberts"
+title: 'Southern Charm Premiere: Drama Unfolds at Affectionless Shower Recap'
+description: >-
+  The 11th season of Southern Charm returns to Charleston, featuring old
+  tensions, new dynamics, and the promise of gripping storylines. Familiar faces
+  like Shep Rose and Craig Conover are joined by newcomers, ensuring drama
+  amidst South Carolina's charming backdrop.
+type: standard
+status: review
+publishDate: '2025-11-20T13:00:23+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "southern-charm-premiere-drama-unfolds-at-affectionless-shower-recap"
+  - Watch
+slug: southern-charm-premiere-drama-unfolds-at-affectionless-shower-recap
 reading_time: 3
-source_url: "https://buzzsoaps.com/southern-charm-premiere-drama-unfolds-at-affectionless-shower-recap/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/southern-charm-premiere-drama-unfolds-at-affectionless-shower-recap/
+imported_from: wordpress
 wp_original_id: 502
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/southern-charm-premiere-drama-unfolds-at-affectionless-shower-recap.webp
 seo:
-  canonical: "https://buzzsoaps.com/southern-charm-premiere-drama-unfolds-at-affectionless-shower-recap/"
-  og_title: "Southern Charm Premiere: Drama Unfolds at Affectionless Shower Recap - BuzzSoaps!"
-  og_description: "The 11th season of Southern Charm returns to Charleston, featuring old tensions, new dynamics, and the promise of gripping storylines. Familiar faces like Shep Rose and Craig Conover are joined by newcomers, ensuring drama amidst South Carolina's charming backdrop."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/southern-charm-premiere-drama-unfolds-at-affectionless-shower-recap/
+  og_title: >-
+    Southern Charm Premiere: Drama Unfolds at Affectionless Shower Recap -
+    BuzzSoaps!
+  og_description: >-
+    The 11th season of Southern Charm returns to Charleston, featuring old
+    tensions, new dynamics, and the promise of gripping storylines. Familiar
+    faces like Shep Rose and Craig Conover are joined by newcomers, ensuring
+    drama amidst South Carolina's charming backdrop.
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -25,7 +38,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "The article has good tone and accuracy but falls significantly short on length (462 words vs 800-1200 target) and needs stronger SEO optimization with better keyword integration."
+quality_note: >-
+  The article has good tone and accuracy but falls significantly short on length
+  (462 words vs 800-1200 target) and needs stronger SEO optimization with better
+  keyword integration.
+image_alt: >-
+  Tense upscale Charleston garden party outside a Southern mansion at golden
+  hour
 ---
 
 # Southern Charm Season 11 Premiere
