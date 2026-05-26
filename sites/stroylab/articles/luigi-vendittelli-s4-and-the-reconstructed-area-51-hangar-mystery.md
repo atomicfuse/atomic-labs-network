@@ -1,29 +1,40 @@
 ---
-title: "Luigi Vendittelli, S4, and the Reconstructed Area 51 Hangar Mystery"
-description: "A look at Luigi Vendittelli's journey from a childhood UFO story in Montreal to a five-year 3D reconstruction of S4 and a claimed 1941 government map tied to Area 51's hangar doors."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T09:44:08+00:00"
-author: "Blake Anderson"
+title: 'Luigi Vendittelli, S4, and the Reconstructed Area 51 Hangar Mystery'
+description: >-
+  A look at Luigi Vendittelli's journey from a childhood UFO story in Montreal
+  to a five-year 3D reconstruction of S4 and a claimed 1941 government map tied
+  to Area 51's hangar doors.
+type: standard
+status: published
+publishDate: '2026-05-11T09:44:08+00:00'
+author: Blake Anderson
 tags:
-  - "Conspiracies"
-  - "Deep Dives"
-  - "Mysteries"
-slug: "luigi-vendittelli-s4-and-the-reconstructed-area-51-hangar-mystery"
+  - Conspiracies
+  - Deep Dives
+  - Mysteries
+slug: luigi-vendittelli-s4-and-the-reconstructed-area-51-hangar-mystery
 reading_time: 5
-source_url: "https://stroylab.com/luigi-vendittelli-s4-and-the-reconstructed-area-51-hangar-mystery/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/luigi-vendittelli-s4-and-the-reconstructed-area-51-hangar-mystery/
+imported_from: wordpress
 wp_original_id: 815
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/luigi-vendittelli-s4-and-the-reconstructed-area-51-hangar-mystery.webp
 seo:
-  canonical: "https://stroylab.com/luigi-vendittelli-s4-and-the-reconstructed-area-51-hangar-mystery/"
-  og_title: "Luigi Vendittelli, S4, and the Reconstructed Area 51 Hangar Mystery - StroyLab"
-  og_description: "A look at Luigi Vendittelli’s journey from a childhood UFO story in Montreal to a five-year 3D reconstruction of S4 and a claimed 1941 government map tied to Area 51’s hangar doors."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/luigi-vendittelli-s4-and-the-reconstructed-area-51-hangar-mystery/
+  og_title: >-
+    Luigi Vendittelli, S4, and the Reconstructed Area 51 Hangar Mystery -
+    StroyLab
+  og_description: >-
+    A look at Luigi Vendittelli’s journey from a childhood UFO story in Montreal
+    to a five-year 3D reconstruction of S4 and a claimed 1941 government map
+    tied to Area 51’s hangar doors.
+  twitter_card: summary_large_image
 videos:
-  - id: "d7a4257e"
-    url: "https://www.youtube.com/watch?v=-d8MFh0fUdg"
-    position: "after-paragraph-2"
+  - id: d7a4257e
+    url: 'https://www.youtube.com/watch?v=-d8MFh0fUdg'
+    position: after-paragraph-2
 quality_score: 85
 score_breakdown:
   seo_quality: 75
@@ -31,7 +42,13 @@ score_breakdown:
   content_length: 90
   factual_accuracy: 80
   keyword_relevance: 95
-quality_note: "Strong mystery content with engaging tone and excellent keyword coverage, though SEO optimization could be improved with better heading structure and meta description length."
+quality_note: >-
+  Strong mystery content with engaging tone and excellent keyword coverage,
+  though SEO optimization could be improved with better heading structure and
+  meta description length.
+image_alt: >-
+  Secretive desert hangar entrance with reconstruction tools and map fragments
+  in the foreground
 ---
 
 Luigi Vendittelli's story begins with a moment that sounds small at first, but became the spark for a lifetime of investigation: when he was 9 years old, his grandfather came inside shaking and said he had just seen a flying saucer over Montreal.
