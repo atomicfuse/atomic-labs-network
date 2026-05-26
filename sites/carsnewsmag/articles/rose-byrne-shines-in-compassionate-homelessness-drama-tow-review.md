@@ -1,25 +1,37 @@
 ---
-title: "Rose Byrne Shines in Compassionate Homelessness Drama ‘Tow’ Review"
-description: "Rose Byrne, Octavia Spencer, and Demi Lovato star in \"Tow,\" a film blending humor and drama that explores human relationships, resilience, and empathy, drawing both praise and mixed reviews upon release."
-type: "standard"
-status: "review"
-publishDate: "2025-06-12T04:17:26+00:00"
-author: "Taylor Winters"
+title: Rose Byrne Shines in Compassionate Homelessness Drama ‘Tow’ Review
+description: >-
+  Rose Byrne, Octavia Spencer, and Demi Lovato star in "Tow," a film blending
+  humor and drama that explores human relationships, resilience, and empathy,
+  drawing both praise and mixed reviews upon release.
+type: standard
+status: review
+publishDate: '2025-06-12T04:17:26+00:00'
+author: Taylor Winters
 tags:
-  - "Celebrities"
-  - "Industry"
-  - "Reviews"
-slug: "rose-byrne-shines-in-compassionate-homelessness-drama-tow-review"
+  - Celebrities
+  - Industry
+  - Reviews
+slug: rose-byrne-shines-in-compassionate-homelessness-drama-tow-review
 reading_time: 2
-source_url: "https://carsnewsmag.com/rose-byrne-shines-in-compassionate-homelessness-drama-tow-review/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/rose-byrne-shines-in-compassionate-homelessness-drama-tow-review/
+imported_from: wordpress
 wp_original_id: 38460
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/rose-byrne-shines-in-compassionate-homelessness-drama-tow-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/rose-byrne-shines-in-compassionate-homelessness-drama-tow-review/"
-  og_title: "Rose Byrne Shines in Compassionate Homelessness Drama 'Tow' Review - Cars News Magazine"
-  og_description: "The film showcases a stellar cast including Rose Byrne, Octavia Spencer, and Demi Lovato, offering a blend of humor, drama, and unique storytelling that promises both entertainment and thought-provoking themes, while exploring the complexities of human relationships."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/rose-byrne-shines-in-compassionate-homelessness-drama-tow-review/
+  og_title: >-
+    Rose Byrne Shines in Compassionate Homelessness Drama 'Tow' Review - Cars
+    News Magazine
+  og_description: >-
+    The film showcases a stellar cast including Rose Byrne, Octavia Spencer, and
+    Demi Lovato, offering a blend of humor, drama, and unique storytelling that
+    promises both entertainment and thought-provoking themes, while exploring
+    the complexities of human relationships.
+  twitter_card: summary_large_image
 quality_score: 28
 score_breakdown:
   seo_quality: 25
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: "This film review article is completely off-topic for an automotive magazine, lacks automotive keywords, contains vague unverifiable claims, and falls well short of target length."
+quality_note: >-
+  This film review article is completely off-topic for an automotive magazine,
+  lacks automotive keywords, contains vague unverifiable claims, and falls well
+  short of target length.
+image_alt: >-
+  Two strangers share coffee beside a tow truck on a rain-damp city street at
+  dawn.
 ---
 
 The film industry continues to explore diverse narratives in cinema, with recent releases showcasing innovative storytelling. One compelling entry brings together a stellar cast — including Rose Byrne, Octavia Spencer, and Demi Lovato — combining humor, drama, and a unique plot that promises both entertainment and thought-provoking themes.
