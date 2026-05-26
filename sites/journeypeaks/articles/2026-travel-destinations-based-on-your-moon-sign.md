@@ -1,26 +1,34 @@
 ---
-title: "2026 Travel Destinations Based on Your Moon Sign"
-description: "In 2026, align your travel destinations with your moon sign to embark on journeys that resonate with your inner self. Discover thrilling adventures, serene escapes, or vibrant cultures, guided by astrological insights for a deeply fulfilling travel experience."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:55:52+00:00"
-author: "Taylor Winters"
+title: 2026 Travel Destinations Based on Your Moon Sign
+description: >-
+  In 2026, align your travel destinations with your moon sign to embark on
+  journeys that resonate with your inner self. Discover thrilling adventures,
+  serene escapes, or vibrant cultures, guided by astrological insights for a
+  deeply fulfilling travel experience.
+type: standard
+status: published
+publishDate: '2026-01-26T09:55:52+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "2026-travel-destinations-based-on-your-moon-sign"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: 2026-travel-destinations-based-on-your-moon-sign
 reading_time: 5
-source_url: "https://journeypeaks.com/2026-travel-destinations-based-on-your-moon-sign/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/2026-travel-destinations-based-on-your-moon-sign/'
+imported_from: wordpress
 wp_original_id: 38794
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/2026-travel-destinations-based-on-your-moon-sign.webp
 seo:
-  canonical: "https://journeypeaks.com/2026-travel-destinations-based-on-your-moon-sign/"
-  og_title: "2026 Travel Destinations Based on Your Moon Sign - Journey Peaks"
-  og_description: "In 2026, align your travel destinations with your moon sign to embark on journeys that resonate with your inner self. Discover thrilling adventures, serene escapes, or vibrant cultures, guided by astrological insights for a deeply fulfilling travel experience."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/2026-travel-destinations-based-on-your-moon-sign/'
+  og_title: 2026 Travel Destinations Based on Your Moon Sign - Journey Peaks
+  og_description: >-
+    In 2026, align your travel destinations with your moon sign to embark on
+    journeys that resonate with your inner self. Discover thrilling adventures,
+    serene escapes, or vibrant cultures, guided by astrological insights for a
+    deeply fulfilling travel experience.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 87
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-structured travel content with good keyword integration and engaging tone, though the title could be more SEO-optimized and lacks a meta description within the ideal character range."
+quality_note: >-
+  Well-structured travel content with good keyword integration and engaging
+  tone, though the title could be more SEO-optimized and lacks a meta
+  description within the ideal character range.
+image_alt: >-
+  Traveler under a glowing moon overlooking dreamlike landscapes and celestial
+  constellations
 ---
 
 2026 is set to be a remarkable year for travel enthusiasts who seek inspiration from the cosmos. By aligning travel destinations with your moon sign, you can embark on a journey that resonates with your inner self, offering a unique blend of adventure and introspection. Whether you're a fiery Aries seeking excitement or a grounded Taurus looking for tranquility, these astrological insights can guide your travel plans.
