@@ -1,25 +1,40 @@
 ---
-title: "Discover 7 Stunning Sea Travel Destinations with Cartology Travel"
-description: "Exploring captivating destinations by sea offers a unique perspective, allowing travelers to immerse in natural beauty and adventure. From the Galápagos to Norway's fjords, these journeys provide unforgettable experiences, blending relaxation with exploration and ecological understanding."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T09:55:31+00:00"
-author: "Taylor Winters"
+title: Discover 7 Stunning Sea Travel Destinations with Cartology Travel
+description: >-
+  Exploring captivating destinations by sea offers a unique perspective,
+  allowing travelers to immerse in natural beauty and adventure. From the
+  Galápagos to Norway's fjords, these journeys provide unforgettable
+  experiences, blending relaxation with exploration and ecological
+  understanding.
+type: standard
+status: published
+publishDate: '2025-12-22T09:55:31+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "discover-7-stunning-sea-travel-destinations-with-cartology-travel"
+  - Destinations
+  - Travel
+slug: discover-7-stunning-sea-travel-destinations-with-cartology-travel
 reading_time: 4
-source_url: "https://journeypeaks.com/discover-7-stunning-sea-travel-destinations-with-cartology-travel/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/discover-7-stunning-sea-travel-destinations-with-cartology-travel/
+imported_from: wordpress
 wp_original_id: 38773
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-7-stunning-sea-travel-destinations-with-cartology-travel.webp
 seo:
-  canonical: "https://journeypeaks.com/discover-7-stunning-sea-travel-destinations-with-cartology-travel/"
-  og_title: "Discover 7 Stunning Sea Travel Destinations with Cartology Travel - Journey Peaks"
-  og_description: "Exploring captivating destinations by sea offers a unique perspective, allowing travelers to immerse in natural beauty and adventure. From the Galápagos to Norway's fjords, these journeys provide unforgettable experiences, blending relaxation with exploration and ecological understanding."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/12/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/discover-7-stunning-sea-travel-destinations-with-cartology-travel/
+  og_title: >-
+    Discover 7 Stunning Sea Travel Destinations with Cartology Travel - Journey
+    Peaks
+  og_description: >-
+    Exploring captivating destinations by sea offers a unique perspective,
+    allowing travelers to immerse in natural beauty and adventure. From the
+    Galápagos to Norway's fjords, these journeys provide unforgettable
+    experiences, blending relaxation with exploration and ecological
+    understanding.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/12/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -27,7 +42,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel content with good destination coverage and engaging tone, but falls short on length (637 words vs 800+ target) and could improve SEO optimization with better meta description length and more strategic keyword placement."
+quality_note: >-
+  Well-written travel content with good destination coverage and engaging tone,
+  but falls short on length (637 words vs 800+ target) and could improve SEO
+  optimization with better meta description length and more strategic keyword
+  placement.
+image_alt: >-
+  Expedition vessel sailing through a dreamlike seascape of fjords, islands, and
+  golden light
 ---
 
 When it comes to exploring the world's most captivating destinations, sometimes the journey itself is as thrilling as the destination. Traveling by sea offers a unique perspective, allowing adventurers to experience the magnificence of remote locations in a way that air travel simply cannot match. Below, we delve into seven extraordinary destinations best reached by ship, offering travelers an unforgettable blend of adventure and natural beauty.
