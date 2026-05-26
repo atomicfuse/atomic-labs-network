@@ -1,24 +1,35 @@
 ---
-title: "Banjo-Kazooie Creator Gregg Mayles Leaves Rare After 36 Years"
-description: "Gregg Mayles, the creative mind behind iconic games like Donkey Kong Country and Banjo-Kazooie, has departed from Rare after 36 years, marking the end of a significant era for the beloved studio."
-type: "standard"
-status: "published"
-publishDate: "2025-10-16T08:33:25+00:00"
-author: "Taylor Winters"
+title: Banjo-Kazooie Creator Gregg Mayles Leaves Rare After 36 Years
+description: >-
+  Gregg Mayles, the creative mind behind iconic games like Donkey Kong Country
+  and Banjo-Kazooie, has departed from Rare after 36 years, marking the end of a
+  significant era for the beloved studio.
+type: standard
+status: published
+publishDate: '2025-10-16T08:33:25+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "banjo-kazooie-creator-gregg-mayles-leaves-rare-after-36-years"
+  - Gaming News
+  - Community
+slug: banjo-kazooie-creator-gregg-mayles-leaves-rare-after-36-years
 reading_time: 3
-source_url: "https://gamingnewsalley.com/banjo-kazooie-creator-gregg-mayles-leaves-rare-after-36-years/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/banjo-kazooie-creator-gregg-mayles-leaves-rare-after-36-years/
+imported_from: wordpress
 wp_original_id: 42534
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/banjo-kazooie-creator-gregg-mayles-leaves-rare-after-36-years.webp
 seo:
-  canonical: "https://gamingnewsalley.com/banjo-kazooie-creator-gregg-mayles-leaves-rare-after-36-years/"
-  og_title: "Banjo-Kazooie Creator Gregg Mayles Leaves Rare After 36 Years - Gaming News Alley"
-  og_description: "Gregg Mayles, a key figure at Rare for over 30 years, has left the company. Known for creating iconic games like Donkey Kong Country and Banjo-Kazooie, his departure marks the end of an era at the innovative studio."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/banjo-kazooie-creator-gregg-mayles-leaves-rare-after-36-years/
+  og_title: >-
+    Banjo-Kazooie Creator Gregg Mayles Leaves Rare After 36 Years - Gaming News
+    Alley
+  og_description: >-
+    Gregg Mayles, a key figure at Rare for over 30 years, has left the company.
+    Known for creating iconic games like Donkey Kong Country and Banjo-Kazooie,
+    his departure marks the end of an era at the innovative studio.
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written gaming news article with good tone and accuracy, but significantly under target word count at 418 words instead of the recommended 800-1200 range."
+quality_note: >-
+  Well-written gaming news article with good tone and accuracy, but
+  significantly under target word count at 418 words instead of the recommended
+  800-1200 range.
+image_alt: >-
+  Empty game design studio at dusk with a vintage controller, sketches, and an
+  open door casting golden light.
 ---
 
 In a significant shift within the gaming industry, Gregg Mayles, a pivotal figure at Rare for over three decades, has departed from the company. Recognized for his instrumental role in creating beloved titles like Donkey Kong Country and Banjo-Kazooie, Mayles' exit marks the end of an era at Rare, a studio known for its innovative contributions to gaming.
