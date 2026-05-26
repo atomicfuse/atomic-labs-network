@@ -1,24 +1,35 @@
 ---
-title: "Gordon Parks Foundation Gala Honors Black Excellence"
-description: "The 2025 Gordon Parks Foundation Gala celebrates artistic and cultural achievements, recognizing individuals for their contributions while supporting the foundation's mission to nurture emerging talent through scholarships and educational programs, honoring the legacy of photographer and activist Gordon Parks."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T10:06:18+00:00"
-author: "Becca Roberts"
+title: Gordon Parks Foundation Gala Honors Black Excellence
+description: >-
+  The 2025 Gordon Parks Foundation Gala celebrates artistic and cultural
+  achievements, recognizing individuals for their contributions while supporting
+  the foundation's mission to nurture emerging talent through scholarships and
+  educational programs, honoring the legacy of photographer and activist Gordon
+  Parks.
+type: standard
+status: review
+publishDate: '2025-05-22T10:06:18+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "gordon-parks-foundation-gala-honors-black-excellence-2"
+  - Culture Buzz
+slug: gordon-parks-foundation-gala-honors-black-excellence-2
 reading_time: 3
-source_url: "https://buzzsoaps.com/gordon-parks-foundation-gala-honors-black-excellence-2/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/gordon-parks-foundation-gala-honors-black-excellence-2/'
+imported_from: wordpress
 wp_original_id: 430
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/gordon-parks-foundation-gala-honors-black-excellence-2.webp
 seo:
-  canonical: "https://buzzsoaps.com/gordon-parks-foundation-gala-honors-black-excellence-2/"
-  og_title: "Gordon Parks Foundation Gala Honors Black Excellence - BuzzSoaps!"
-  og_description: "The 2025 Gordon Parks Foundation Gala celebrates artistic and cultural achievements, recognizing individuals for their contributions. This prestigious event supports the foundation's mission to nurture emerging talent through scholarships and educational programs, honoring the legacy of photographer and activist Gordon Parks."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-108.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/gordon-parks-foundation-gala-honors-black-excellence-2/
+  og_title: Gordon Parks Foundation Gala Honors Black Excellence - BuzzSoaps!
+  og_description: >-
+    The 2025 Gordon Parks Foundation Gala celebrates artistic and cultural
+    achievements, recognizing individuals for their contributions. This
+    prestigious event supports the foundation's mission to nurture emerging
+    talent through scholarships and educational programs, honoring the legacy of
+    photographer and activist Gordon Parks.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-108.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -26,7 +37,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and relevance to Culture Buzz, but significantly under target word count at 433 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and relevance to Culture Buzz, but
+  significantly under target word count at 433 words versus the 800-1200 range.
+image_alt: >-
+  Elegant gala guests celebrate Black artistic excellence in a warmly lit
+  gallery setting.
 ---
 
 The Gordon Parks Foundation Gala, an annual celebration of artistic and cultural achievements, is set to leave an indelible mark in 2025. This prestigious event recognizes individuals who have made significant contributions to the arts and society, aligning with the visionary legacy of Gordon Parks himself. Renowned for his work as a photographer, filmmaker, and writer, Parks' influence continues to inspire new generations.
