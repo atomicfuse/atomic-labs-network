@@ -1,26 +1,34 @@
 ---
-title: "5 Savannah-Inspired Yoga Poses for Relaxation"
-description: "African Savannah yoga offers a unique blend of nature-inspired movements that promote mental clarity and inner peace. Its poses, mimicking savannah wildlife, enhance mental focus, emotional balance, and provide a refreshing approach to mindfulness and well-being."
-type: "standard"
-status: "review"
-publishDate: "2025-06-05T07:39:27+00:00"
-author: "Taylor Winters"
+title: 5 Savannah-Inspired Yoga Poses for Relaxation
+description: >-
+  African Savannah yoga offers a unique blend of nature-inspired movements that
+  promote mental clarity and inner peace. Its poses, mimicking savannah
+  wildlife, enhance mental focus, emotional balance, and provide a refreshing
+  approach to mindfulness and well-being.
+type: standard
+status: review
+publishDate: '2025-06-05T07:39:27+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "5-savannah-inspired-yoga-poses-for-relaxation"
+  - Yoga Poses
+  - Mindfullness
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: 5-savannah-inspired-yoga-poses-for-relaxation
 reading_time: 3
-source_url: "https://yogaterritory.com/5-savannah-inspired-yoga-poses-for-relaxation/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/5-savannah-inspired-yoga-poses-for-relaxation/'
+imported_from: wordpress
 wp_original_id: 20625
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/5-savannah-inspired-yoga-poses-for-relaxation.webp
 seo:
-  canonical: "https://yogaterritory.com/5-savannah-inspired-yoga-poses-for-relaxation/"
-  og_title: "5 Savannah-Inspired Yoga Poses for Relaxation - Yoga Territory"
-  og_description: "African Savannah yoga offers a unique blend of nature-inspired movements that promote mental clarity and inner peace. Its poses, mimicking savannah wildlife, enhance mental focus, emotional balance, and provide a refreshing approach to mindfulness and well-being."
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/5-savannah-inspired-yoga-poses-for-relaxation/'
+  og_title: 5 Savannah-Inspired Yoga Poses for Relaxation - Yoga Territory
+  og_description: >-
+    African Savannah yoga offers a unique blend of nature-inspired movements
+    that promote mental clarity and inner peace. Its poses, mimicking savannah
+    wildlife, enhance mental focus, emotional balance, and provide a refreshing
+    approach to mindfulness and well-being.
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 72
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 60
   keyword_relevance: 88
-quality_note: "Strong tone and keyword relevance but severely penalized by very short length (505 words vs 800-1200 target) and questionable claims about 'African Savannah yoga' without proper cultural context or sources."
+quality_note: >-
+  Strong tone and keyword relevance but severely penalized by very short length
+  (505 words vs 800-1200 target) and questionable claims about 'African Savannah
+  yoga' without proper cultural context or sources.
+image_alt: >-
+  Yoga practitioner at sunrise in golden savannah grasses with soft acacia
+  silhouettes
 ---
 
 Yoga, a practice embraced globally for its mental and physical benefits, finds unique expressions across diverse cultures. Among these, African Savannah yoga stands out for its harmonizing blend of nature-inspired movements that cultivate mental clarity and inner peace. These poses, inspired by the vast and serene African landscapes, offer a refreshing approach to mindfulness.
