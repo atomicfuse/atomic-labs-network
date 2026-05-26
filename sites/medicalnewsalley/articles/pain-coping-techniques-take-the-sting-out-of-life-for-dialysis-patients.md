@@ -1,24 +1,39 @@
 ---
-title: "Pain coping techniques take the sting out of life for dialysis patients"
-description: "A new clinical study shows that Pain Coping Skills Training (PCST), a cognitive behavioural therapy-based approach, significantly reduced pain interference in daily activities for dialysis patients, offering a promising non-drug alternative to traditional pain management."
-type: "standard"
-status: "published"
-publishDate: "2025-01-24T18:25:59+00:00"
-author: "admin"
+title: Pain coping techniques take the sting out of life for dialysis patients
+description: >-
+  A new clinical study shows that Pain Coping Skills Training (PCST), a
+  cognitive behavioural therapy-based approach, significantly reduced pain
+  interference in daily activities for dialysis patients, offering a promising
+  non-drug alternative to traditional pain management.
+type: standard
+status: published
+publishDate: '2025-01-24T18:25:59+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Drugs"
-slug: "pain-coping-techniques-take-the-sting-out-of-life-for-dialysis-patients"
+  - Health News
+  - Drugs
+slug: pain-coping-techniques-take-the-sting-out-of-life-for-dialysis-patients
 reading_time: 5
-source_url: "https://medicalnewsalley.com/pain-coping-techniques-take-the-sting-out-of-life-for-dialysis-patients/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/pain-coping-techniques-take-the-sting-out-of-life-for-dialysis-patients/
+imported_from: wordpress
 wp_original_id: 32220
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/pain-coping-techniques-take-the-sting-out-of-life-for-dialysis-patients.webp
 seo:
-  canonical: "https://medicalnewsalley.com/pain-coping-techniques-take-the-sting-out-of-life-for-dialysis-patients/"
-  og_title: "Pain coping techniques take the sting out of life for dialysis patients - Medical News Alley"
-  og_description: "A new clinical study has revealed promising results for dialysis patients suffering from chronic pain. U.S. Kidney doctors say these results suggest that behavioural training could offer a non-drug alternative to traditional pain management. Chronic pain for kidney patients Chronic pain is a common problem among people undergoing dialysis, often affecting their ability to carry [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/pain-coping-techniques-take-the-sting-out-of-life-for-dialysis-patients/
+  og_title: >-
+    Pain coping techniques take the sting out of life for dialysis patients -
+    Medical News Alley
+  og_description: >-
+    A new clinical study has revealed promising results for dialysis patients
+    suffering from chronic pain. U.S. Kidney doctors say these results suggest
+    that behavioural training could offer a non-drug alternative to traditional
+    pain management. Chronic pain for kidney patients Chronic pain is a common
+    problem among people undergoing dialysis, often affecting their ability to
+    carry [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written health news article with strong content structure and appropriate tone, though the title could be more compelling and some references appear potentially fabricated."
+quality_note: >-
+  Well-written health news article with strong content structure and appropriate
+  tone, though the title could be more compelling and some references appear
+  potentially fabricated.
+image_alt: >-
+  Dialysis patient rests calmly in a bright clinic, suggesting pain relief
+  through coping skills.
 ---
 
 A new clinical study has revealed promising results for dialysis patients suffering from chronic pain. U.S. Kidney doctors say these results suggest that behavioural training could offer a non-drug alternative to traditional pain management.
