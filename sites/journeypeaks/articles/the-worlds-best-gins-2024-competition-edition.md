@@ -1,24 +1,32 @@
 ---
-title: "The World’s Best Gins: 2024 Competition Edition"
-description: "A roundup of the five best gins of 2024 as recognized by premier international spirits competitions, highlighting award-winning bottles from Japan, England, Australia, Scotland, and France."
-type: "standard"
-status: "published"
-publishDate: "2025-02-28T19:10:39+00:00"
-author: "admin"
+title: 'The World’s Best Gins: 2024 Competition Edition'
+description: >-
+  A roundup of the five best gins of 2024 as recognized by premier international
+  spirits competitions, highlighting award-winning bottles from Japan, England,
+  Australia, Scotland, and France.
+type: standard
+status: published
+publishDate: '2025-02-28T19:10:39+00:00'
+author: admin
 tags:
-  - "Travel"
-  - "Food &amp; Drink"
-slug: "the-worlds-best-gins-2024-competition-edition"
+  - Travel
+  - Food &amp; Drink
+slug: the-worlds-best-gins-2024-competition-edition
 reading_time: 6
-source_url: "https://journeypeaks.com/the-worlds-best-gins-2024-competition-edition/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/the-worlds-best-gins-2024-competition-edition/'
+imported_from: wordpress
 wp_original_id: 38603
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/the-worlds-best-gins-2024-competition-edition.webp
 seo:
-  canonical: "https://journeypeaks.com/the-worlds-best-gins-2024-competition-edition/"
-  og_title: "The World’s Best Gins: 2024 Competition Edition - Journey Peaks"
-  og_description: "The resurgence of gin over the last decade has been nothing short of a boon for drinkers. The spirit, first distilled in the 17th century in the Netherlands, is a veritable Swiss army knife for making cocktails. You can drink it straight up in a martini, over ice in a classic Gin &amp; Tonic, layered [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/the-worlds-best-gins-2024-competition-edition/'
+  og_title: 'The World’s Best Gins: 2024 Competition Edition - Journey Peaks'
+  og_description: >-
+    The resurgence of gin over the last decade has been nothing short of a boon
+    for drinkers. The spirit, first distilled in the 17th century in the
+    Netherlands, is a veritable Swiss army knife for making cocktails. You can
+    drink it straight up in a martini, over ice in a classic Gin &amp; Tonic,
+    layered [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 87
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Strong article with engaging tone and proper length, though the title could be more SEO-optimized and the travel connection could be stronger for this travel-focused site."
+quality_note: >-
+  Strong article with engaging tone and proper length, though the title could be
+  more SEO-optimized and the travel connection could be stronger for this
+  travel-focused site.
+image_alt: >-
+  Five unlabeled gin bottles on a refined bar cart with global botanicals and
+  cocktail glassware.
 ---
 
 The resurgence of gin over the last decade has been nothing short of a boon for drinkers. The spirit, first distilled in the 17th century in the Netherlands, is a veritable Swiss army knife for making cocktails. You can drink it straight up in a martini, over ice in a classic Gin & Tonic, layered into a Singapore Sling or featured in a host of other fantastic cocktails that modern mixologists craft these days.
