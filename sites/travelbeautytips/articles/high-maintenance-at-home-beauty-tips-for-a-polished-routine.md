@@ -1,29 +1,40 @@
 ---
-title: "High-Maintenance At-Home Beauty Tips for a Polished Routine"
-description: "A beauty-focused guide inspired by an at-home high-maintenance routine, featuring brow care, product organization, and consistent self-maintenance habits."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:38:10+00:00"
-author: "Taylor Winters"
+title: High-Maintenance At-Home Beauty Tips for a Polished Routine
+description: >-
+  A beauty-focused guide inspired by an at-home high-maintenance routine,
+  featuring brow care, product organization, and consistent self-maintenance
+  habits.
+type: standard
+status: published
+publishDate: '2026-05-14T08:38:10+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-slug: "high-maintenance-at-home-beauty-tips-for-a-polished-routine"
+  - Beauty Tips
+  - Beauty
+  - Makeup Hacks
+slug: high-maintenance-at-home-beauty-tips-for-a-polished-routine
 reading_time: 4
-source_url: "https://travelbeautytips.com/high-maintenance-at-home-beauty-tips-for-a-polished-routine/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/high-maintenance-at-home-beauty-tips-for-a-polished-routine/
+imported_from: wordpress
 wp_original_id: 36179
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/high-maintenance-at-home-beauty-tips-for-a-polished-routine.webp
 seo:
-  canonical: "https://travelbeautytips.com/high-maintenance-at-home-beauty-tips-for-a-polished-routine/"
-  og_title: "High-Maintenance At-Home Beauty Tips for a Polished Routine - Travel Beauty Tips"
-  og_description: "A beauty-focused guide inspired by an at-home high-maintenance routine, featuring brow care, product organization, and consistent self-maintenance habits."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/high-maintenance-at-home-beauty-tips-for-a-polished-routine/
+  og_title: >-
+    High-Maintenance At-Home Beauty Tips for a Polished Routine - Travel Beauty
+    Tips
+  og_description: >-
+    A beauty-focused guide inspired by an at-home high-maintenance routine,
+    featuring brow care, product organization, and consistent self-maintenance
+    habits.
+  twitter_card: summary_large_image
 videos:
-  - id: "7acac6c9"
-    url: "https://www.youtube.com/watch?v=PTsfZ-ITBSo"
-    position: "after-paragraph-2"
+  - id: 7acac6c9
+    url: 'https://www.youtube.com/watch?v=PTsfZ-ITBSo'
+    position: after-paragraph-2
 quality_score: 79
 score_breakdown:
   seo_quality: 65
@@ -31,7 +42,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written beauty guide with good tone and relevant content, but needs stronger SEO optimization and is slightly under target word count."
+quality_note: >-
+  Well-written beauty guide with good tone and relevant content, but needs
+  stronger SEO optimization and is slightly under target word count.
+image_alt: >-
+  Sunlit vanity with organized beauty tools, skincare, flowers, and manicured
+  hands creating a polished routine
 ---
 
 High-maintenance beauty does not always have to mean constant appointments, complicated steps, or an overflowing schedule. An at-home beauty routine can help create a polished, put-together feeling from the comfort of home. For anyone who enjoys feeling elevated day to day, the key is not necessarily doing more, but making the right steps feel repeatable. From brow care to product organization and everyday self-maintenance, this type of routine is about building habits that support confidence before makeup, outfits, photos, or plans even begin.
