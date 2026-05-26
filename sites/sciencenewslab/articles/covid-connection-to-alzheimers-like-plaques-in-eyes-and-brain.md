@@ -1,22 +1,29 @@
 ---
-title: "COVID Connection to Alzheimer’s-Like Plaques in Eyes and Brain"
-description: "Recent studies suggest COVID-19 infections may lead to neurological complications similar to Alzheimer's disease, with researchers investigating how the virus contributes to harmful plaque formation in the brain and eyes, with potential implications for long-term cognitive health."
-type: "standard"
-status: "review"
-publishDate: "2025-07-24T07:39:31"
-author: "Taylor Winters"
+title: COVID Connection to Alzheimer’s-Like Plaques in Eyes and Brain
+description: >-
+  Recent studies suggest COVID-19 infections may lead to neurological
+  complications similar to Alzheimer's disease, with researchers investigating
+  how the virus contributes to harmful plaque formation in the brain and eyes,
+  with potential implications for long-term cognitive health.
+type: standard
+status: review
+publishDate: '2025-07-24T07:39:31'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "covid-connection-to-alzheimers-like-plaques-in-eyes-and-brain"
+  - Space
+  - Humans
+slug: covid-connection-to-alzheimers-like-plaques-in-eyes-and-brain
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/covid-connection-to-alzheimers-like-plaques-in-eyes-and-brain/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/covid-connection-to-alzheimers-like-plaques-in-eyes-and-brain/
+imported_from: wordpress
 wp_original_id: 14986
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/covid-connection-to-alzheimers-like-plaques-in-eyes-and-brain.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/covid-connection-to-alzheimers-like-plaques-in-eyes-and-brain/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/covid-connection-to-alzheimers-like-plaques-in-eyes-and-brain/
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 40
-quality_note: "Well-written health article with good tone but falls short on length, lacks coverage of core science topics, and presents some claims without sufficient evidence backing."
+quality_note: >-
+  Well-written health article with good tone but falls short on length, lacks
+  coverage of core science topics, and presents some claims without sufficient
+  evidence backing.
+image_alt: >-
+  Translucent head profile highlighting the eye and brain with abstract
+  plaque-like clusters in a clinical setting
 ---
 
 Recent studies have unveiled a concerning link between COVID-19 infections and the potential development of neurological complications similar to those seen in Alzheimer's disease. Researchers are delving into how the virus may contribute to the formation of harmful plaques, typically associated with neurodegenerative disorders, in both the brain and eyes. This discovery could have significant implications for understanding the long-term effects of COVID-19 on cognitive health.
