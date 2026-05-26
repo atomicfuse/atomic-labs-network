@@ -1,29 +1,38 @@
 ---
-title: "Humanoid Robots Steal the Show at China’s Spring Festival Gala"
-description: "Humanoid robots wowed audiences at China's Spring Festival Gala with acrobatics and kung fu, sparking discussions on robotics in entertainment."
-type: "standard"
-status: "review"
-publishDate: "2026-02-19T09:23:22+00:00"
-author: "Taylor Winters"
+title: Humanoid Robots Steal the Show at China’s Spring Festival Gala
+description: >-
+  Humanoid robots wowed audiences at China's Spring Festival Gala with
+  acrobatics and kung fu, sparking discussions on robotics in entertainment.
+type: standard
+status: review
+publishDate: '2026-02-19T09:23:22+00:00'
+author: Taylor Winters
 tags:
-  - "Industry"
-  - "News"
-  - "Offbeat"
-slug: "humanoid-robots-steal-the-show-at-chinas-spring-festival-gala"
+  - Industry
+  - News
+  - Offbeat
+slug: humanoid-robots-steal-the-show-at-chinas-spring-festival-gala
 reading_time: 2
-source_url: "https://carsnewsmag.com/humanoid-robots-steal-the-show-at-chinas-spring-festival-gala/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/humanoid-robots-steal-the-show-at-chinas-spring-festival-gala/
+imported_from: wordpress
 wp_original_id: 38568
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/humanoid-robots-steal-the-show-at-chinas-spring-festival-gala.webp
 seo:
-  canonical: "https://carsnewsmag.com/humanoid-robots-steal-the-show-at-chinas-spring-festival-gala/"
-  og_title: "Humanoid Robots Steal the Show at China's Spring Festival Gala - Cars News Magazine"
-  og_description: "Humanoid robots wowed audiences at China's Spring Festival Gala with acrobatics and kung fu, sparking discussions on robotics in entertainment."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/humanoid-robots-steal-the-show-at-chinas-spring-festival-gala/
+  og_title: >-
+    Humanoid Robots Steal the Show at China's Spring Festival Gala - Cars News
+    Magazine
+  og_description: >-
+    Humanoid robots wowed audiences at China's Spring Festival Gala with
+    acrobatics and kung fu, sparking discussions on robotics in entertainment.
+  twitter_card: summary_large_image
 videos:
-  - id: "7672b6e2"
-    url: "https://www.youtube.com/watch?v=1XCpBJn-Puc"
-    position: "after-paragraph-2"
+  - id: 7672b6e2
+    url: 'https://www.youtube.com/watch?v=1XCpBJn-Puc'
+    position: after-paragraph-2
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -31,7 +40,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 60
   keyword_relevance: 20
-quality_note: "While well-written with appropriate tone, this robotics article is too short and completely off-topic for an automotive site focused on cars, electric vehicles, and auto industry news."
+quality_note: >-
+  While well-written with appropriate tone, this robotics article is too short
+  and completely off-topic for an automotive site focused on cars, electric
+  vehicles, and auto industry news.
+image_alt: >-
+  Humanoid robots perform a dramatic festival stage routine under red and gold
+  lights.
 ---
 
 The recent Spring Festival Gala in China witnessed an extraordinary performance that captured the imagination of audiences across the nation and beyond. This year, humanoid robots took center stage, showcasing their capabilities through stunning acrobatic dances and intricate kung fu routines. The performance not only dominated Chinese social media but also ignited a broader debate about the role of robotics in the world of entertainment.
