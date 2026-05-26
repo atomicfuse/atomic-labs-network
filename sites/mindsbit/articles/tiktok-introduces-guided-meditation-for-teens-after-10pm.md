@@ -1,25 +1,34 @@
 ---
-title: "TikTok Introduces Guided Meditation for Teens After 10PM"
-description: "TikTok is expanding into wellness with its new 'Wind Down' feature, aimed at promoting relaxation and mental well-being. The feature, available from 10 PM, offers guided meditation sessions and calming audio to help users transition into a restful state."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:07:05+00:00"
-author: "Lena Ashwood"
+title: TikTok Introduces Guided Meditation for Teens After 10PM
+description: >-
+  TikTok is expanding into wellness with its new 'Wind Down' feature, aimed at
+  promoting relaxation and mental well-being. The feature, available from 10 PM,
+  offers guided meditation sessions and calming audio to help users transition
+  into a restful state.
+type: standard
+status: review
+publishDate: '2025-05-18T11:07:05+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Mind"
-slug: "tiktok-introduces-guided-meditation-for-teens-after-10pm"
+  - Innovation
+  - Mind
+slug: tiktok-introduces-guided-meditation-for-teens-after-10pm
 reading_time: 3
-source_url: "https://mindsbit.com/tiktok-introduces-guided-meditation-for-teens-after-10pm/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/tiktok-introduces-guided-meditation-for-teens-after-10pm/'
+imported_from: wordpress
 wp_original_id: 332
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/tiktok-introduces-guided-meditation-for-teens-after-10pm.webp
 seo:
-  canonical: "https://mindsbit.com/tiktok-introduces-guided-meditation-for-teens-after-10pm/"
-  og_title: "TikTok Introduces Guided Meditation for Teens After 10PM - Minds bit"
-  og_description: "TikTok is expanding into wellness with its new 'Wind Down' feature, aimed at promoting relaxation and mental well-being. The feature, available from 10 PM, offers guided meditation sessions and calming audio to help users transition into a restful state."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-35.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/tiktok-introduces-guided-meditation-for-teens-after-10pm/
+  og_title: TikTok Introduces Guided Meditation for Teens After 10PM - Minds bit
+  og_description: >-
+    TikTok is expanding into wellness with its new 'Wind Down' feature, aimed at
+    promoting relaxation and mental well-being. The feature, available from 10
+    PM, offers guided meditation sessions and calming audio to help users
+    transition into a restful state.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-35.jpeg'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 70
-quality_note: "The article covers relevant innovation and wellness topics but appears to describe a fictional TikTok feature that doesn't exist, significantly impacting factual accuracy despite good structure and tone."
+quality_note: >-
+  The article covers relevant innovation and wellness topics but appears to
+  describe a fictional TikTok feature that doesn't exist, significantly
+  impacting factual accuracy despite good structure and tone.
+image_alt: >-
+  Teen relaxing in a moonlit bedroom as soft abstract audio waves glow from a
+  phone.
 ---
 
 TikTok, a vibrant platform known for its diverse content, is expanding its horizons by delving into wellness. Recently, the app introduced a new feature aimed at promoting relaxation and mental well-being. This endeavor aligns with the growing trend of digital platforms incorporating wellness initiatives to enhance user experience and engagement.
