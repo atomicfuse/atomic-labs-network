@@ -1,24 +1,36 @@
 ---
-title: "Hyundai Santa Fe Capacity: How Many Passengers Fit Comfortably?"
-description: "The Hyundai Santa Fe is a versatile midsize SUV offering spacious interiors, advanced safety features, and flexible seating for up to seven passengers, making it ideal for families and adventure enthusiasts."
-type: "standard"
-status: "published"
-publishDate: "2026-03-30T08:21:17+00:00"
-author: "Taylor Winters"
+title: 'Hyundai Santa Fe Capacity: How Many Passengers Fit Comfortably?'
+description: >-
+  The Hyundai Santa Fe is a versatile midsize SUV offering spacious interiors,
+  advanced safety features, and flexible seating for up to seven passengers,
+  making it ideal for families and adventure enthusiasts.
+type: standard
+status: published
+publishDate: '2026-03-30T08:21:17+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "hyundai-santa-fe-capacity-how-many-passengers-fit-comfortably"
+  - Reviews
+slug: hyundai-santa-fe-capacity-how-many-passengers-fit-comfortably
 reading_time: 3
-source_url: "https://carsnewsmag.com/hyundai-santa-fe-capacity-how-many-passengers-fit-comfortably/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/hyundai-santa-fe-capacity-how-many-passengers-fit-comfortably/
+imported_from: wordpress
 wp_original_id: 38594
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/hyundai-santa-fe-capacity-how-many-passengers-fit-comfortably.webp
 seo:
-  canonical: "https://carsnewsmag.com/hyundai-santa-fe-capacity-how-many-passengers-fit-comfortably/"
-  og_title: "Hyundai Santa Fe Capacity: How Many Passengers Fit Comfortably? - Cars News Magazine"
-  og_description: "The Hyundai Santa Fe is a versatile midsize SUV offering spacious interiors, advanced safety features, and flexible seating for up to seven passengers. Its design accommodates both passengers and cargo efficiently, making it ideal for families and adventure enthusiasts."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/03/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/hyundai-santa-fe-capacity-how-many-passengers-fit-comfortably/
+  og_title: >-
+    Hyundai Santa Fe Capacity: How Many Passengers Fit Comfortably? - Cars News
+    Magazine
+  og_description: >-
+    The Hyundai Santa Fe is a versatile midsize SUV offering spacious interiors,
+    advanced safety features, and flexible seating for up to seven passengers.
+    Its design accommodates both passengers and cargo efficiently, making it
+    ideal for families and adventure enthusiasts.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/03/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,10 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written review with good tone and accurate information, but falls short of target word count and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written review with good tone and accurate information, but falls short
+  of target word count and could benefit from stronger SEO optimization.
+image_alt: Modern three-row SUV with open doors and family gear at a scenic trailhead
 ---
 
 The Hyundai Santa Fe has been a popular choice for families and adventure-seekers alike, providing a versatile and comfortable ride. Known for its spacious interior and advanced features, the Santa Fe is designed to accommodate both passengers and cargo efficiently. This SUV offers a blend of comfort, technology, and space, making it a strong competitor in the midsize SUV market.
