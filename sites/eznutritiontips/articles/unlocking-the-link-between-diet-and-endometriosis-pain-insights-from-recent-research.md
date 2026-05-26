@@ -1,25 +1,43 @@
 ---
-title: "Unlocking the Link Between Diet and Endometriosis Pain: Insights from Recent Research"
-description: "Endometriosis affects millions of women globally, and while medical treatments exist, dietary changes can help manage symptoms. This article explores how consuming anti-inflammatory foods, reducing red meat, increasing fruits and vegetables, focusing on whole grains, and limiting caffeine and alcohol may significantly impact symptom severity."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:11:17+00:00"
-author: "Taylor Winters"
+title: >-
+  Unlocking the Link Between Diet and Endometriosis Pain: Insights from Recent
+  Research
+description: >-
+  Endometriosis affects millions of women globally, and while medical treatments
+  exist, dietary changes can help manage symptoms. This article explores how
+  consuming anti-inflammatory foods, reducing red meat, increasing fruits and
+  vegetables, focusing on whole grains, and limiting caffeine and alcohol may
+  significantly impact symptom severity.
+type: standard
+status: review
+publishDate: '2025-04-23T16:11:17+00:00'
+author: Taylor Winters
 tags:
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "unlocking-the-link-between-diet-and-endometriosis-pain-insights-from-recent-research"
+  - Special Diets
+  - Weight &amp; Wellness
+slug: >-
+  unlocking-the-link-between-diet-and-endometriosis-pain-insights-from-recent-research
 reading_time: 2
-source_url: "https://eznutritiontips.com/unlocking-the-link-between-diet-and-endometriosis-pain-insights-from-recent-research/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/unlocking-the-link-between-diet-and-endometriosis-pain-insights-from-recent-research/
+imported_from: wordpress
 wp_original_id: 18754
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/unlocking-the-link-between-diet-and-endometriosis-pain-insights-from-recent-research.webp
 seo:
-  canonical: "https://eznutritiontips.com/unlocking-the-link-between-diet-and-endometriosis-pain-insights-from-recent-research/"
-  og_title: "Unlocking the Link Between Diet and Endometriosis Pain: Insights from Recent Research - Easy Nutrition Tips"
-  og_description: "Endometriosis affects millions of women globally. While medical treatments exist, dietary changes can help manage symptoms. Consuming anti-inflammatory foods, reducing red meat intake, increasing fruit and vegetable consumption, focusing on whole grains, limiting caffeine and alcohol, and staying hydrated may significantly impact symptom severity."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-47.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/unlocking-the-link-between-diet-and-endometriosis-pain-insights-from-recent-research/
+  og_title: >-
+    Unlocking the Link Between Diet and Endometriosis Pain: Insights from Recent
+    Research - Easy Nutrition Tips
+  og_description: >-
+    Endometriosis affects millions of women globally. While medical treatments
+    exist, dietary changes can help manage symptoms. Consuming anti-inflammatory
+    foods, reducing red meat intake, increasing fruit and vegetable consumption,
+    focusing on whole grains, limiting caffeine and alcohol, and staying
+    hydrated may significantly impact symptom severity.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-47.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -27,7 +45,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but severely penalized for being only 338 words when target is 800-1200 words."
+quality_note: >-
+  Well-written article with good tone and accuracy, but severely penalized for
+  being only 338 words when target is 800-1200 words.
+image_alt: >-
+  Woman at a sunlit table with nourishing foods, suggesting diet support for
+  endometriosis pain
 ---
 
 Endometriosis, a condition characterized by the growth of endometrial tissue outside the uterus, affects millions of women worldwide. While medical treatments are available, dietary changes have shown promising results in managing the symptoms. Below, we explore how tweaking your diet can significantly impact the severity of your endometriosis symptoms.
