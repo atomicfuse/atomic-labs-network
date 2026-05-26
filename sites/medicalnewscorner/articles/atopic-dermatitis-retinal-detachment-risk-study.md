@@ -20,7 +20,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-atopic-dermatitis-linked-retinal-detachment.html
 source_item_id: 6a152d8216f23264031d81b2
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/atopic-dermatitis-retinal-detachment-risk-study.webp
 quality_score: 85
 score_breakdown:
   seo_quality: 85
@@ -32,6 +32,9 @@ quality_note: >-
   Strong health news article with excellent tone and accuracy, but falls short
   of optimal length at 585 words versus the 800-1200 word target range.
 reading_time: 3
+image_alt: >-
+  Close portrait of an eye with subtle skin irritation and abstract retinal
+  light reflections
 ---
 ## Unexpected Connection Between Skin and Eye Health
 
