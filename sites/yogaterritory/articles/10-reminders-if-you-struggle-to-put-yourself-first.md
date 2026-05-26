@@ -1,25 +1,36 @@
 ---
-title: "10 Reminders If You Struggle To Put Yourself First"
-description: "A list of 10 practical reminders for people who struggle to prioritize themselves, covering topics like burnout, boundaries, self-worth, and the importance of putting your own needs first."
-type: "standard"
-status: "review"
-publishDate: "2024-08-29T10:58:07+00:00"
-author: "admin"
+title: 10 Reminders If You Struggle To Put Yourself First
+description: >-
+  A list of 10 practical reminders for people who struggle to prioritize
+  themselves, covering topics like burnout, boundaries, self-worth, and the
+  importance of putting your own needs first.
+type: standard
+status: review
+publishDate: '2024-08-29T10:58:07+00:00'
+author: admin
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-slug: "10-reminders-if-you-struggle-to-put-yourself-first"
+  - Yoga Poses
+  - Lifestyle
+slug: 10-reminders-if-you-struggle-to-put-yourself-first
 reading_time: 4
-source_url: "https://yogaterritory.com/10-reminders-if-you-struggle-to-put-yourself-first/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/10-reminders-if-you-struggle-to-put-yourself-first/'
+imported_from: wordpress
 wp_original_id: 19352
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/10-reminders-if-you-struggle-to-put-yourself-first.webp
 seo:
-  canonical: "https://yogaterritory.com/10-reminders-if-you-struggle-to-put-yourself-first/"
-  og_title: "10 Reminders If You Struggle To Put Yourself First - Yoga Territory"
-  og_description: "Thought CatalogInstagram Facebook Facebook Twitter Twitter Amazon TikTok TikTok Thought Catalog Diamond Mark Camera Collective World FlagLink Skip to content Burnout is not a badge of honor. Overextending yourself in your work, your relationships, and your personal goals to the point of burnout is not noble. It is self-destruction. It is exhausting. Spreading yourself too [&hellip;]"
-  og_image: "https://thoughtcatalog.com/wp-content/uploads/2017/05/when-i-was-diagnosed-with-cancer-the-last-thing-i-expected-was-that-id-lose-some-of-my-friendships-e1552325153732.jpg?w=1920&amp;h=1280&amp;crop=1"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/10-reminders-if-you-struggle-to-put-yourself-first/
+  og_title: 10 Reminders If You Struggle To Put Yourself First - Yoga Territory
+  og_description: >-
+    Thought CatalogInstagram Facebook Facebook Twitter Twitter Amazon TikTok
+    TikTok Thought Catalog Diamond Mark Camera Collective World FlagLink Skip to
+    content Burnout is not a badge of honor. Overextending yourself in your
+    work, your relationships, and your personal goals to the point of burnout is
+    not noble. It is self-destruction. It is exhausting. Spreading yourself too
+    [&hellip;]
+  og_image: >-
+    https://thoughtcatalog.com/wp-content/uploads/2017/05/when-i-was-diagnosed-with-cancer-the-last-thing-i-expected-was-that-id-lose-some-of-my-friendships-e1552325153732.jpg?w=1920&amp;h=1280&amp;crop=1
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 25
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 90
   keyword_relevance: 15
-quality_note: "Well-written self-care content with engaging tone, but completely misses the site's yoga and wellness focus with no relevant keywords or topics covered."
+quality_note: >-
+  Well-written self-care content with engaging tone, but completely misses the
+  site's yoga and wellness focus with no relevant keywords or topics covered.
+image_alt: >-
+  A calm person sits by a sunlit window with a mug in a peaceful, uncluttered
+  room.
 ---
 
 1. **Burnout is not a badge of honor.** Overextending yourself in your work, your relationships, and your personal goals to the point of burnout is not noble. It is self-destruction. It is exhausting. Spreading yourself too thin waters down the overall quality of your life, which is why it's so important to make time for rest. Recharge by going to bed early or finally allowing yourself to sleep in. Put your phone on do not disturb. Reschedule plans. Delegate tasks at work. Ask for help. Do things you actually enjoy. And, most importantly, remember to _breathe_.
