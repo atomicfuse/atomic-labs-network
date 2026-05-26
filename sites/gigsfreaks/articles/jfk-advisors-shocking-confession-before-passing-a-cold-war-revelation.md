@@ -1,28 +1,39 @@
 ---
-title: "JFK Advisor’s Shocking Confession Before Passing: A Cold War Revelation"
-description: "In his final days, Dr. Harald Malmgren, advisor to four U.S. presidents, revealed classified events, including a 1962 UFO incident during a nuclear test."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:17:23+00:00"
-author: "Nico Harper"
+title: 'JFK Advisor’s Shocking Confession Before Passing: A Cold War Revelation'
+description: >-
+  In his final days, Dr. Harald Malmgren, advisor to four U.S. presidents,
+  revealed classified events, including a 1962 UFO incident during a nuclear
+  test.
+type: standard
+status: review
+publishDate: '2025-05-05T16:17:23+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-  - "Internet Mysteries"
-slug: "jfk-advisors-shocking-confession-before-passing-a-cold-war-revelation"
+  - Hot Trends
+  - Internet Mysteries
+slug: jfk-advisors-shocking-confession-before-passing-a-cold-war-revelation
 reading_time: 2
-source_url: "https://gigsfreaks.com/jfk-advisors-shocking-confession-before-passing-a-cold-war-revelation/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/jfk-advisors-shocking-confession-before-passing-a-cold-war-revelation/
+imported_from: wordpress
 wp_original_id: 895
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/jfk-advisors-shocking-confession-before-passing-a-cold-war-revelation.webp
 seo:
-  canonical: "https://gigsfreaks.com/jfk-advisors-shocking-confession-before-passing-a-cold-war-revelation/"
-  og_title: "JFK Advisor's Shocking Confession Before Passing: A Cold War Revelation - GigsFreaks"
-  og_description: "In his final days, Dr. Harald Malmgren, advisor to four U.S. presidents, revealed classified events, including a 1962 UFO incident during a nuclear test."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/jfk-advisors-shocking-confession-before-passing-a-cold-war-revelation/
+  og_title: >-
+    JFK Advisor's Shocking Confession Before Passing: A Cold War Revelation -
+    GigsFreaks
+  og_description: >-
+    In his final days, Dr. Harald Malmgren, advisor to four U.S. presidents,
+    revealed classified events, including a 1962 UFO incident during a nuclear
+    test.
+  twitter_card: summary_large_image
 videos:
-  - id: "f49dab04"
-    url: "https://www.youtube.com/watch?v=x2yC0zSkcv8"
-    position: "after-paragraph-2"
+  - id: f49dab04
+    url: 'https://www.youtube.com/watch?v=x2yC0zSkcv8'
+    position: after-paragraph-2
 quality_score: 56
 score_breakdown:
   seo_quality: 75
@@ -30,7 +41,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "Strong keyword alignment and decent tone, but significantly under word count and contains fabricated claims about Dr. Malmgren's death and confession."
+quality_note: >-
+  Strong keyword alignment and decent tone, but significantly under word count
+  and contains fabricated claims about Dr. Malmgren's death and confession.
+image_alt: >-
+  Dim Cold War archive with a silhouetted advisor, nuclear-test glow, and a
+  mysterious shape in the sky
 ---
 
 The world was taken by surprise when Dr. Harald Malmgren, an esteemed advisor to four U.S. presidents, shared a startling confession just before his passing in February 2025. Dr. Malmgren, a figure deeply entrenched in the corridors of power, unveiled a series of extraordinary events that had remained shrouded in secrecy for decades.
