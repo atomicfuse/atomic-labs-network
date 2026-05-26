@@ -1,25 +1,38 @@
 ---
-title: "Essential Travel Tips for Patriots Fans Heading to Super Bowl LX"
-description: "Patriots fans heading to Super Bowl LX at Levi's Stadium should plan ahead for a smooth airport experience, ensuring they have travel documents ready, understanding TSA guidelines, and considering TSA PreCheck to save time and reduce stress."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T10:47:34+00:00"
-author: "Malcolm Anderson"
+title: Essential Travel Tips for Patriots Fans Heading to Super Bowl LX
+description: >-
+  Patriots fans heading to Super Bowl LX at Levi's Stadium should plan ahead for
+  a smooth airport experience, ensuring they have travel documents ready,
+  understanding TSA guidelines, and considering TSA PreCheck to save time and
+  reduce stress.
+type: standard
+status: review
+publishDate: '2026-02-05T10:47:34+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Guides &amp; Tips"
-slug: "essential-travel-tips-for-patriots-fans-heading-to-super-bowl-lx"
+  - Culture
+  - Guides &amp; Tips
+slug: essential-travel-tips-for-patriots-fans-heading-to-super-bowl-lx
 reading_time: 3
-source_url: "https://travelnights.com/essential-travel-tips-for-patriots-fans-heading-to-super-bowl-lx/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/essential-travel-tips-for-patriots-fans-heading-to-super-bowl-lx/
+imported_from: wordpress
 wp_original_id: 36703
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/essential-travel-tips-for-patriots-fans-heading-to-super-bowl-lx.webp
 seo:
-  canonical: "https://travelnights.com/essential-travel-tips-for-patriots-fans-heading-to-super-bowl-lx/"
-  og_title: "Essential Travel Tips for Patriots Fans Heading to Super Bowl LX - Travel Nights"
-  og_description: "Patriots fans heading to Super Bowl LX at Levi's Stadium should plan ahead for a smooth airport experience, ensuring they have travel documents ready, understanding TSA guidelines, and considering TSA PreCheck to save time and reduce stress."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/essential-travel-tips-for-patriots-fans-heading-to-super-bowl-lx/
+  og_title: >-
+    Essential Travel Tips for Patriots Fans Heading to Super Bowl LX - Travel
+    Nights
+  og_description: >-
+    Patriots fans heading to Super Bowl LX at Levi's Stadium should plan ahead
+    for a smooth airport experience, ensuring they have travel documents ready,
+    understanding TSA guidelines, and considering TSA PreCheck to save time and
+    reduce stress.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "The article has good tone and structure but contains major factual errors about Super Bowl LX and the Patriots, and falls short of the ideal word count target."
+quality_note: >-
+  The article has good tone and structure but contains major factual errors
+  about Super Bowl LX and the Patriots, and falls short of the ideal word count
+  target.
+image_alt: >-
+  Football fans with luggage navigate a bright airport terminal before a major
+  championship trip.
 ---
 
 As the anticipation builds for Super Bowl LX, New England Patriots fans are gearing up to support their team at Levi's Stadium. For those planning to travel, ensuring a seamless airport experience is essential. Here are some strategic tips to help Patriots fans navigate airport security efficiently and arrive at the game ready to cheer.
