@@ -1,24 +1,36 @@
 ---
-title: "Citroen C5 Aircross: Best Stellantis EV First Drive Review"
-description: "The Citroën C5 Aircross stands out in the SUV market with its distinctive design, emphasis on comfort, and innovative features, offering a unique driving experience that appeals to drivers seeking style, practicality, and advanced technology in their vehicle."
-type: "standard"
-status: "review"
-publishDate: "2025-10-09T08:33:53+00:00"
-author: "Taylor Winters"
+title: 'Citroen C5 Aircross: Best Stellantis EV First Drive Review'
+description: >-
+  The Citroën C5 Aircross stands out in the SUV market with its distinctive
+  design, emphasis on comfort, and innovative features, offering a unique
+  driving experience that appeals to drivers seeking style, practicality, and
+  advanced technology in their vehicle.
+type: standard
+status: review
+publishDate: '2025-10-09T08:33:53+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "citroen-c5-aircross-best-stellantis-ev-first-drive-review"
+  - Reviews
+slug: citroen-c5-aircross-best-stellantis-ev-first-drive-review
 reading_time: 3
-source_url: "https://carsnewsmag.com/citroen-c5-aircross-best-stellantis-ev-first-drive-review/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/citroen-c5-aircross-best-stellantis-ev-first-drive-review/
+imported_from: wordpress
 wp_original_id: 38499
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/citroen-c5-aircross-best-stellantis-ev-first-drive-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/citroen-c5-aircross-best-stellantis-ev-first-drive-review/"
-  og_title: "Citroen C5 Aircross: Best Stellantis EV First Drive Review - Cars News Magazine"
-  og_description: "The Citroën C5 Aircross stands out in the SUV market with its distinctive design, emphasis on comfort, and innovative features, offering a unique driving experience that appeals to drivers seeking style, practicality, and advanced technology in their vehicle."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/10/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/citroen-c5-aircross-best-stellantis-ev-first-drive-review/
+  og_title: >-
+    Citroen C5 Aircross: Best Stellantis EV First Drive Review - Cars News
+    Magazine
+  og_description: >-
+    The Citroën C5 Aircross stands out in the SUV market with its distinctive
+    design, emphasis on comfort, and innovative features, offering a unique
+    driving experience that appeals to drivers seeking style, practicality, and
+    advanced technology in their vehicle.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/10/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 75
-quality_note: "The article has good automotive content and engaging tone but is significantly short at 496 words (needs 800-1200), and the title misleadingly suggests it's about an EV when the content describes a hybrid/conventional SUV."
+quality_note: >-
+  The article has good automotive content and engaging tone but is significantly
+  short at 496 words (needs 800-1200), and the title misleadingly suggests it's
+  about an EV when the content describes a hybrid/conventional SUV.
+image_alt: >-
+  Modern electric SUV driving on a coastal road at golden hour with a refined
+  editorial look.
 ---
 
 The Citroën C5 Aircross is making waves in the SUV market with its distinctive design and emphasis on comfort. This SUV aims to provide a unique driving experience, setting itself apart with innovative features and a focus on passenger comfort. With its striking appearance and practical functionality, the C5 Aircross is capturing the attention of drivers looking for something different from the usual SUV offerings.
