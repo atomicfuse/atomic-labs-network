@@ -1,26 +1,38 @@
 ---
-title: "2026 Hyundai IONIQ 9 Calligraphy Review: Luxury Redefined"
-description: "The 2026 Hyundai Ioniq 9 Calligraphy is a luxury electric SUV that combines cutting-edge technology and elegant design, offering eco-conscious drivers a blend of style and performance with features like a state-of-the-art infotainment system and advanced safety measures."
-type: "standard"
-status: "review"
-publishDate: "2026-03-16T09:21:22+00:00"
-author: "Taylor Winters"
+title: '2026 Hyundai IONIQ 9 Calligraphy Review: Luxury Redefined'
+description: >-
+  The 2026 Hyundai Ioniq 9 Calligraphy is a luxury electric SUV that combines
+  cutting-edge technology and elegant design, offering eco-conscious drivers a
+  blend of style and performance with features like a state-of-the-art
+  infotainment system and advanced safety measures.
+type: standard
+status: review
+publishDate: '2026-03-16T09:21:22+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Industry"
-  - "Reviews"
-slug: "2026-hyundai-ioniq-9-calligraphy-review-luxury-redefined"
+  - Electric Cars
+  - Industry
+  - Reviews
+slug: 2026-hyundai-ioniq-9-calligraphy-review-luxury-redefined
 reading_time: 3
-source_url: "https://carsnewsmag.com/2026-hyundai-ioniq-9-calligraphy-review-luxury-redefined/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/2026-hyundai-ioniq-9-calligraphy-review-luxury-redefined/
+imported_from: wordpress
 wp_original_id: 38584
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-hyundai-ioniq-9-calligraphy-review-luxury-redefined.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-hyundai-ioniq-9-calligraphy-review-luxury-redefined/"
-  og_title: "2026 Hyundai IONIQ 9 Calligraphy Review: Luxury Redefined - Cars News Magazine"
-  og_description: "The 2026 Hyundai Ioniq 9 Calligraphy is a luxury electric SUV that combines cutting-edge technology and elegant design, offering eco-conscious drivers a blend of style and performance with features like a state-of-the-art infotainment system and advanced safety measures."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/2026-hyundai-ioniq-9-calligraphy-review-luxury-redefined/
+  og_title: >-
+    2026 Hyundai IONIQ 9 Calligraphy Review: Luxury Redefined - Cars News
+    Magazine
+  og_description: >-
+    The 2026 Hyundai Ioniq 9 Calligraphy is a luxury electric SUV that combines
+    cutting-edge technology and elegant design, offering eco-conscious drivers a
+    blend of style and performance with features like a state-of-the-art
+    infotainment system and advanced safety measures.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong keyword relevance and tone but significantly under target word count at 457 words, and some claims about specific features lack verification for a 2026 model."
+quality_note: >-
+  Strong keyword relevance and tone but significantly under target word count at
+  457 words, and some claims about specific features lack verification for a
+  2026 model.
+image_alt: >-
+  Luxury electric SUV on a coastal road at dusk with futuristic lighting and
+  sleek reflections.
 ---
 
 The automotive industry is abuzz with the arrival of the 2026 Hyundai Ioniq 9 Calligraphy, a luxury electric SUV that promises to redefine opulence on wheels. Combining cutting-edge technology with elegant design, this vehicle is set to capture the hearts of eco-conscious drivers who refuse to compromise on style and performance.
