@@ -1,24 +1,33 @@
 ---
-title: "The Last of Us Recap: Emotional Father-Daughter Moments"
-description: "The latest \"The Last of Us\" episode explores survival and sacrifice, delving into moral dilemmas and character development amid a post-apocalyptic world. Stunning visuals and complex narratives engage viewers in the struggle for resources, safety, and humanity."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T09:25:12+00:00"
-author: "Becca Roberts"
+title: 'The Last of Us Recap: Emotional Father-Daughter Moments'
+description: >-
+  The latest "The Last of Us" episode explores survival and sacrifice, delving
+  into moral dilemmas and character development amid a post-apocalyptic world.
+  Stunning visuals and complex narratives engage viewers in the struggle for
+  resources, safety, and humanity.
+type: standard
+status: review
+publishDate: '2025-05-22T09:25:12+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "the-last-of-us-recap-emotional-father-daughter-moments"
+  - Watch
+slug: the-last-of-us-recap-emotional-father-daughter-moments
 reading_time: 3
-source_url: "https://buzzsoaps.com/the-last-of-us-recap-emotional-father-daughter-moments/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/the-last-of-us-recap-emotional-father-daughter-moments/'
+imported_from: wordpress
 wp_original_id: 411
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/the-last-of-us-recap-emotional-father-daughter-moments.webp
 seo:
-  canonical: "https://buzzsoaps.com/the-last-of-us-recap-emotional-father-daughter-moments/"
-  og_title: "The Last of Us Recap: Emotional Father-Daughter Moments - BuzzSoaps!"
-  og_description: "The latest \"The Last of Us\" episode explores survival and sacrifice, delving into moral dilemmas and character development amid a post-apocalyptic world. Stunning visuals and complex narratives engage viewers in the struggle for resources, safety, and humanity."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-98.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/the-last-of-us-recap-emotional-father-daughter-moments/
+  og_title: 'The Last of Us Recap: Emotional Father-Daughter Moments - BuzzSoaps!'
+  og_description: >-
+    The latest "The Last of Us" episode explores survival and sacrifice, delving
+    into moral dilemmas and character development amid a post-apocalyptic world.
+    Stunning visuals and complex narratives engage viewers in the struggle for
+    resources, safety, and humanity.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-98.jpeg'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 45
@@ -26,7 +35,10 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 75
-quality_note: "Well-written recap with appropriate tone but significantly under target word count and lacks specific episode details or compelling SEO elements."
+quality_note: >-
+  Well-written recap with appropriate tone but significantly under target word
+  count and lacks specific episode details or compelling SEO elements.
+image_alt: A guardian and teenage girl stand together in a ruined overgrown city at dusk.
 ---
 
 The latest episode of the renowned series, "The Last of Us," delves into the intricacies of survival and personal sacrifice. As the storyline progresses, viewers are taken on a journey through emotional landscapes and moral dilemmas faced by the characters in a world ravaged by infection and turmoil.
