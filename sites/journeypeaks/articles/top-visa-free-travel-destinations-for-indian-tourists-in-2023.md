@@ -1,25 +1,38 @@
 ---
-title: "Top Visa-Free Travel Destinations for Indian Tourists in 2023"
-description: "Indian travelers are increasingly choosing visa-free or visa-on-arrival destinations like Malaysia, the Philippines, and Palau for hassle-free experiences. These countries' favorable entry policies and diverse attractions appeal to those seeking seamless travel adventures."
-type: "standard"
-status: "published"
-publishDate: "2025-06-26T04:53:33+00:00"
-author: "Taylor Winters"
+title: Top Visa-Free Travel Destinations for Indian Tourists in 2023
+description: >-
+  Indian travelers are increasingly choosing visa-free or visa-on-arrival
+  destinations like Malaysia, the Philippines, and Palau for hassle-free
+  experiences. These countries' favorable entry policies and diverse attractions
+  appeal to those seeking seamless travel adventures.
+type: standard
+status: published
+publishDate: '2025-06-26T04:53:33+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-visa-free-travel-destinations-for-indian-tourists-in-2023"
+  - Destinations
+  - Travel
+slug: top-visa-free-travel-destinations-for-indian-tourists-in-2023
 reading_time: 3
-source_url: "https://journeypeaks.com/top-visa-free-travel-destinations-for-indian-tourists-in-2023/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-visa-free-travel-destinations-for-indian-tourists-in-2023/
+imported_from: wordpress
 wp_original_id: 38662
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/top-visa-free-travel-destinations-for-indian-tourists-in-2023.webp
 seo:
-  canonical: "https://journeypeaks.com/top-visa-free-travel-destinations-for-indian-tourists-in-2023/"
-  og_title: "Top Visa-Free Travel Destinations for Indian Tourists in 2023 - Journey Peaks"
-  og_description: "Indian travelers are increasingly choosing visa-free or visa-on-arrival destinations like Malaysia, the Philippines, and Palau for hassle-free experiences. These countries' favorable entry policies and diverse attractions appeal to those seeking seamless travel adventures."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/06/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-visa-free-travel-destinations-for-indian-tourists-in-2023/
+  og_title: >-
+    Top Visa-Free Travel Destinations for Indian Tourists in 2023 - Journey
+    Peaks
+  og_description: >-
+    Indian travelers are increasingly choosing visa-free or visa-on-arrival
+    destinations like Malaysia, the Philippines, and Palau for hassle-free
+    experiences. These countries' favorable entry policies and diverse
+    attractions appeal to those seeking seamless travel adventures.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/06/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written travel article with good keyword relevance and tone, but falls short on word count (595 vs 800-1200 target) and has some minor factual concerns about visa requirements."
+quality_note: >-
+  Well-written travel article with good keyword relevance and tone, but falls
+  short on word count (595 vs 800-1200 target) and has some minor factual
+  concerns about visa requirements.
+image_alt: >-
+  Indian travelers walk toward a tropical destination panorama with city
+  skyline, islands, and blue lagoons.
 ---
 
 As global travel becomes increasingly accessible, Indian travelers are keen to explore destinations that offer visa-free or visa-on-arrival entry. This growing trend is fueled by the desire for hassle-free travel experiences, with many Indians seeking countries that provide easier access. Among these, Malaysia, the Philippines, and Palau are witnessing significant interest due to their favorable entry policies.
