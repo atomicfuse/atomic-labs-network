@@ -1,25 +1,35 @@
 ---
-title: "Boost Health by Walking 7,000 Steps Daily: Study Finds"
-description: "Walking 7,000 steps daily can significantly enhance health, lowering mortality risk and improving cardiovascular health. This achievable target provides benefits without the pressure of 10,000 steps, making it accessible for people of all fitness levels."
-type: "standard"
-status: "published"
-publishDate: "2025-07-24T04:21:34+00:00"
-author: "Taylor Winters"
+title: 'Boost Health by Walking 7,000 Steps Daily: Study Finds'
+description: >-
+  Walking 7,000 steps daily can significantly enhance health, lowering mortality
+  risk and improving cardiovascular health. This achievable target provides
+  benefits without the pressure of 10,000 steps, making it accessible for people
+  of all fitness levels.
+type: standard
+status: published
+publishDate: '2025-07-24T04:21:34+00:00'
+author: Taylor Winters
 tags:
-  - "Health, Fitness &amp; Food"
-  - "Mental Health"
-slug: "boost-health-by-walking-7000-steps-daily-study-finds"
+  - 'Health, Fitness &amp; Food'
+  - Mental Health
+slug: boost-health-by-walking-7000-steps-daily-study-finds
 reading_time: 3
-source_url: "https://medicalnewsalley.com/boost-health-by-walking-7000-steps-daily-study-finds/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/boost-health-by-walking-7000-steps-daily-study-finds/
+imported_from: wordpress
 wp_original_id: 32468
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/boost-health-by-walking-7000-steps-daily-study-finds.webp
 seo:
-  canonical: "https://medicalnewsalley.com/boost-health-by-walking-7000-steps-daily-study-finds/"
-  og_title: "Boost Health by Walking 7,000 Steps Daily: Study Finds - Medical News Alley"
-  og_description: "Walking 7,000 steps daily can significantly enhance health, lowering mortality risk and improving cardiovascular health. This achievable target provides benefits without the pressure of 10,000 steps, making it accessible for people of all fitness levels."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/07/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/boost-health-by-walking-7000-steps-daily-study-finds/
+  og_title: 'Boost Health by Walking 7,000 Steps Daily: Study Finds - Medical News Alley'
+  og_description: >-
+    Walking 7,000 steps daily can significantly enhance health, lowering
+    mortality risk and improving cardiovascular health. This achievable target
+    provides benefits without the pressure of 10,000 steps, making it accessible
+    for people of all fitness levels.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/07/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and credible health information, but falls short on length (564 words vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written article with good tone and credible health information, but falls
+  short on length (564 words vs 800-1200 target) and could benefit from stronger
+  SEO optimization.
+image_alt: >-
+  A person walks along a sunlit park path, suggesting a simple daily habit for
+  better health.
 ---
 
 Walking is a simple yet powerful activity that can significantly enhance your health and well-being. Recent studies suggest that taking just 7,000 steps a day can lead to remarkable health benefits, reducing the risk of mortality and improving cardiovascular health. While the widely popular notion of 10,000 steps remains, this new insight offers a more achievable target for many.
