@@ -1,24 +1,32 @@
 ---
-title: "Leon Thomas Embraces Vintage Recording Techniques"
-description: "Leon Thomas, a multifaceted artist, is making waves with his latest EP, \"Mutt\", showcasing his dynamic talents as a singer, songwriter, and producer. His journey from acting to music highlights his versatility and dedication, appealing to diverse audiences."
-type: "standard"
-status: "review"
-publishDate: "2025-11-13T10:54:41+00:00"
-author: "Becca Roberts"
+title: Leon Thomas Embraces Vintage Recording Techniques
+description: >-
+  Leon Thomas, a multifaceted artist, is making waves with his latest EP,
+  "Mutt", showcasing his dynamic talents as a singer, songwriter, and producer.
+  His journey from acting to music highlights his versatility and dedication,
+  appealing to diverse audiences.
+type: standard
+status: review
+publishDate: '2025-11-13T10:54:41+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "leon-thomas-embraces-vintage-recording-techniques"
+  - Culture Buzz
+slug: leon-thomas-embraces-vintage-recording-techniques
 reading_time: 2
-source_url: "https://buzzsoaps.com/leon-thomas-embraces-vintage-recording-techniques/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/leon-thomas-embraces-vintage-recording-techniques/'
+imported_from: wordpress
 wp_original_id: 497
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/leon-thomas-embraces-vintage-recording-techniques.webp
 seo:
-  canonical: "https://buzzsoaps.com/leon-thomas-embraces-vintage-recording-techniques/"
-  og_title: "Leon Thomas Embraces Vintage Recording Techniques - BuzzSoaps!"
-  og_description: "Leon Thomas, a multifaceted artist, is making waves with his latest EP, \"Mutt\", showcasing his dynamic talents as a singer, songwriter, and producer. His journey from acting to music highlights his versatility and dedication, appealing to diverse audiences."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/11/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/leon-thomas-embraces-vintage-recording-techniques/'
+  og_title: Leon Thomas Embraces Vintage Recording Techniques - BuzzSoaps!
+  og_description: >-
+    Leon Thomas, a multifaceted artist, is making waves with his latest EP,
+    "Mutt", showcasing his dynamic talents as a singer, songwriter, and
+    producer. His journey from acting to music highlights his versatility and
+    dedication, appealing to diverse audiences.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/11/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and decent keyword alignment, but falls significantly short on length requirements and lacks strong SEO optimization."
+quality_note: >-
+  The article has good tone and decent keyword alignment, but falls
+  significantly short on length requirements and lacks strong SEO optimization.
+image_alt: >-
+  Vintage recording studio with analog gear and a musician adjusting controls in
+  warm cinematic light
 ---
 
 Leon Thomas, a multifaceted artist, is making waves in the music industry with his latest EP, 'Mutt'. Known for his dynamic talents as a singer, songwriter, and producer, Thomas has crafted a unique sound that resonates with fans across various genres. His journey from acting to a music career showcases his versatility and dedication to his craft.
