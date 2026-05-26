@@ -1,24 +1,32 @@
 ---
-title: "2026 Hyundai Palisade: In-Depth Review and Features"
-description: "The 2026 Hyundai Palisade is a full-size SUV that combines luxury, technology, and performance in a stylish package, featuring a bold design, spacious interior, advanced technology, and robust performance that makes it a top choice for drivers."
-type: "standard"
-status: "review"
-publishDate: "2025-11-06T09:23:29+00:00"
-author: "Taylor Winters"
+title: '2026 Hyundai Palisade: In-Depth Review and Features'
+description: >-
+  The 2026 Hyundai Palisade is a full-size SUV that combines luxury, technology,
+  and performance in a stylish package, featuring a bold design, spacious
+  interior, advanced technology, and robust performance that makes it a top
+  choice for drivers.
+type: standard
+status: review
+publishDate: '2025-11-06T09:23:29+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "2026-hyundai-palisade-in-depth-review-and-features"
+  - Reviews
+slug: 2026-hyundai-palisade-in-depth-review-and-features
 reading_time: 3
-source_url: "https://carsnewsmag.com/2026-hyundai-palisade-in-depth-review-and-features/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/2026-hyundai-palisade-in-depth-review-and-features/'
+imported_from: wordpress
 wp_original_id: 38512
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-hyundai-palisade-in-depth-review-and-features.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-hyundai-palisade-in-depth-review-and-features/"
-  og_title: "2026 Hyundai Palisade: In-Depth Review and Features - Cars News Magazine"
-  og_description: "The 2026 Hyundai Palisade is a full-size SUV that combines luxury, technology, and performance in a stylish package. It features a bold design, spacious interior, advanced technology, and robust performance, making it a top choice for drivers."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/2026-hyundai-palisade-in-depth-review-and-features/'
+  og_title: '2026 Hyundai Palisade: In-Depth Review and Features - Cars News Magazine'
+  og_description: >-
+    The 2026 Hyundai Palisade is a full-size SUV that combines luxury,
+    technology, and performance in a stylish package. It features a bold design,
+    spacious interior, advanced technology, and robust performance, making it a
+    top choice for drivers.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written review with good tone and keyword relevance, but significantly under target word count and contains speculative claims about a future model year."
+quality_note: >-
+  Well-written review with good tone and keyword relevance, but significantly
+  under target word count and contains speculative claims about a future model
+  year.
+image_alt: >-
+  Luxury full-size SUV on a modern highway at golden hour with a refined
+  high-tech presence.
 ---
 
 The automotive landscape is in constant evolution, and the latest iteration of the Hyundai Palisade is a testament to this dynamic change. The 2026 Hyundai Palisade, an impressive full-size SUV, promises to captivate those in search of luxury, technology, and performance wrapped in a stylish package. This model continues Hyundai's tradition of delivering value-packed vehicles, but it ups the ante with a blend of innovative features and refined aesthetics.
