@@ -1,25 +1,38 @@
 ---
-title: "PSG Defeats Four English Teams, Reaches Champions League Final"
-description: "Paris Saint-Germain has emerged as a dominant force in the UEFA Champions League, defeating four Premier League teams on their journey to the final. PSG's success highlights their exceptional prowess and the intense competition within European football."
-type: "standard"
-status: "review"
-publishDate: "2025-05-08T04:21:27+00:00"
-author: "Taylor Winters"
+title: 'PSG Defeats Four English Teams, Reaches Champions League Final'
+description: >-
+  Paris Saint-Germain has emerged as a dominant force in the UEFA Champions
+  League, defeating four Premier League teams on their journey to the final.
+  PSG's success highlights their exceptional prowess and the intense competition
+  within European football.
+type: standard
+status: review
+publishDate: '2025-05-08T04:21:27+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AC Milan"
-slug: "psg-defeats-four-english-teams-reaches-champions-league-final"
+  - Latest News
+  - AC Milan
+slug: psg-defeats-four-english-teams-reaches-champions-league-final
 reading_time: 4
-source_url: "https://soccernewsreports.com/psg-defeats-four-english-teams-reaches-champions-league-final/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/psg-defeats-four-english-teams-reaches-champions-league-final/
+imported_from: wordpress
 wp_original_id: 37849
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/psg-defeats-four-english-teams-reaches-champions-league-final.webp
 seo:
-  canonical: "https://soccernewsreports.com/psg-defeats-four-english-teams-reaches-champions-league-final/"
-  og_title: "PSG Defeats Four English Teams, Reaches Champions League Final - Soccer News Reports"
-  og_description: "Paris Saint-Germain has emerged as a dominant force in the UEFA Champions League, defeating four Premier League teams on their journey to the final. PSG's success highlights their exceptional prowess and the intense competition within European football."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/05/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/psg-defeats-four-english-teams-reaches-champions-league-final/
+  og_title: >-
+    PSG Defeats Four English Teams, Reaches Champions League Final - Soccer News
+    Reports
+  og_description: >-
+    Paris Saint-Germain has emerged as a dominant force in the UEFA Champions
+    League, defeating four Premier League teams on their journey to the final.
+    PSG's success highlights their exceptional prowess and the intense
+    competition within European football.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/05/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "The article has strong tone and keyword usage but contains major factual inaccuracies about PSG's Champions League performance and falls short of optimal length."
+quality_note: >-
+  The article has strong tone and keyword usage but contains major factual
+  inaccuracies about PSG's Champions League performance and falls short of
+  optimal length.
+image_alt: >-
+  Paris footballer charges past four shadowed opponents under dramatic stadium
+  floodlights
 ---
 
 In a stunning showcase of talent and strategy, Paris Saint-Germain (PSG) has emerged as a dominant force in the UEFA Champions League, defeating four Premier League teams on their journey to the final. This remarkable achievement has not only spotlighted PSG's exceptional prowess but also highlighted the intense competition within European football.
