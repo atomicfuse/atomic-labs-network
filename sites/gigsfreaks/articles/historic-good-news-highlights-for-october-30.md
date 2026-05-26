@@ -1,23 +1,31 @@
 ---
-title: "Historic Good News Highlights for October 30"
-description: "October 30 is notable for significant events across music, science, and diplomacy, including the birth of Grace Slick, Orson Welles' groundbreaking broadcast, and the Treaty of Lausanne, each leaving a lasting impact on their respective fields."
-type: "standard"
-status: "review"
-publishDate: "2025-10-30T10:15:33+00:00"
-author: "Nico Harper"
+title: Historic Good News Highlights for October 30
+description: >-
+  October 30 is notable for significant events across music, science, and
+  diplomacy, including the birth of Grace Slick, Orson Welles' groundbreaking
+  broadcast, and the Treaty of Lausanne, each leaving a lasting impact on their
+  respective fields.
+type: standard
+status: review
+publishDate: '2025-10-30T10:15:33+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "historic-good-news-highlights-for-october-30"
+  - Good Vibes
+slug: historic-good-news-highlights-for-october-30
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-good-news-highlights-for-october-30/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-good-news-highlights-for-october-30/'
+imported_from: wordpress
 wp_original_id: 968
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-good-news-highlights-for-october-30.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-good-news-highlights-for-october-30/"
-  og_title: "Historic Good News Highlights for October 30 - GigsFreaks"
-  og_description: "October 30 is notable for significant events across music, science, and diplomacy, including the birth of Grace Slick, Orson Welles' groundbreaking broadcast, and the Treaty of Lausanne, each leaving a lasting impact on their respective fields."
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historic-good-news-highlights-for-october-30/'
+  og_title: Historic Good News Highlights for October 30 - GigsFreaks
+  og_description: >-
+    October 30 is notable for significant events across music, science, and
+    diplomacy, including the birth of Grace Slick, Orson Welles' groundbreaking
+    broadcast, and the Treaty of Lausanne, each leaving a lasting impact on
+    their respective fields.
+  twitter_card: summary_large_image
 quality_score: 38
 score_breakdown:
   seo_quality: 35
@@ -25,7 +33,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 30
-quality_note: "The article contains significant factual errors (Treaty of Lausanne date, Ezra Pound birth date) and is too short at 457 words, while lacking the engaging entertainment focus expected for the target audience."
+quality_note: >-
+  The article contains significant factual errors (Treaty of Lausanne date, Ezra
+  Pound birth date) and is too short at 457 words, while lacking the engaging
+  entertainment focus expected for the target audience.
+image_alt: >-
+  Vintage microphone, record, and diplomatic pen arranged as historic cultural
+  artifacts
 ---
 
 October 30 is a day marked by significant historical events and notable achievements across various fields, from music and literature to scientific advancements and international diplomacy. This article delves into some of the remarkable occurrences associated with this date, shedding light on their impact and legacy.
