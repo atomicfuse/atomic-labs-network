@@ -1,27 +1,39 @@
 ---
-title: "Buzz Alert: Is Game Prototype 3 Currently Under Development?"
-description: "Exciting developments are underway in the gaming world with the potential emergence of a new Prototype game, hinted at when a 3D artist listed 'Prototype 3' on their ArtStation portfolio, stirring anticipation among the gaming community."
-type: "standard"
-status: "published"
-publishDate: "2025-04-14T06:16:36+00:00"
-author: "Taylor Winters"
+title: 'Buzz Alert: Is Game Prototype 3 Currently Under Development?'
+description: >-
+  Exciting developments are underway in the gaming world with the potential
+  emergence of a new Prototype game, hinted at when a 3D artist listed
+  'Prototype 3' on their ArtStation portfolio, stirring anticipation among the
+  gaming community.
+type: standard
+status: published
+publishDate: '2025-04-14T06:16:36+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "CD Projekt Red"
-  - "code vein"
-  - "Compile Heart"
-slug: "buzz-alert-is-game-prototype-3-currently-under-development"
+  - Gaming News
+  - CD Projekt Red
+  - code vein
+  - Compile Heart
+slug: buzz-alert-is-game-prototype-3-currently-under-development
 reading_time: 2
-source_url: "https://gamingnewsalley.com/buzz-alert-is-game-prototype-3-currently-under-development/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/buzz-alert-is-game-prototype-3-currently-under-development/
+imported_from: wordpress
 wp_original_id: 42441
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/buzz-alert-is-game-prototype-3-currently-under-development.webp
 seo:
-  canonical: "https://gamingnewsalley.com/buzz-alert-is-game-prototype-3-currently-under-development/"
-  og_title: "Buzz Alert: Is Game Prototype 3 Currently Under Development? - Gaming News Alley"
-  og_description: "Exciting developments are underway in the gaming world with the potential emergence of a new Prototype game. The possibility was hinted at when a 3D artist listed 'Prototype 3' on their portfolio, stirring anticipation among the gaming community."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/04/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/buzz-alert-is-game-prototype-3-currently-under-development/
+  og_title: >-
+    Buzz Alert: Is Game Prototype 3 Currently Under Development? - Gaming News
+    Alley
+  og_description: >-
+    Exciting developments are underway in the gaming world with the potential
+    emergence of a new Prototype game. The possibility was hinted at when a 3D
+    artist listed 'Prototype 3' on their portfolio, stirring anticipation among
+    the gaming community.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/04/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -29,7 +41,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written gaming news piece with good tone and accuracy, but significantly too short at only 365 words when target is 800-1200 words."
+quality_note: >-
+  Well-written gaming news piece with good tone and accuracy, but significantly
+  too short at only 365 words when target is 800-1200 words.
+image_alt: >-
+  Hooded figure on a rainy rooftop above a neon city with red bio-organic energy
+  swirling nearby
 ---
 
 Exciting developments in the gaming world are afoot as the possibility of a new Prototype game emerges. This potential new entry in the popular game series has sent waves of anticipation through the gaming community.
