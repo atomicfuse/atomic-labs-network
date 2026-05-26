@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/mandalorian-movie-opens-below-solo-box-office.webp
 quality_score: 30
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   exists) and poorly matches the site's entertainment focus, lacking the
   engaging tone and relevant keywords for funnypigeon's audience.
 reading_time: 2
+image_alt: >-
+  A deserted desert movie theater at dusk with two sci-fi silhouettes walking
+  away through windblown tickets.
 ---
 ## Star Wars Franchise Faces New Box Office Challenge
 
