@@ -1,24 +1,33 @@
 ---
-title: "Southern Charm Recap: Unpacking the Latest Episode Drama"
-description: "In \"Southern Charm\" Season 11, the Charleston crew faces personal and social challenges at a lavish party, revealing underlying tensions and evolving relationships. Emotional confrontations and unexpected twists keep fans engaged and eager for future developments."
-type: "standard"
-status: "review"
-publishDate: "2025-12-11T10:33:34+00:00"
-author: "Becca Roberts"
+title: 'Southern Charm Recap: Unpacking the Latest Episode Drama'
+description: >-
+  In "Southern Charm" Season 11, the Charleston crew faces personal and social
+  challenges at a lavish party, revealing underlying tensions and evolving
+  relationships. Emotional confrontations and unexpected twists keep fans
+  engaged and eager for future developments.
+type: standard
+status: review
+publishDate: '2025-12-11T10:33:34+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "southern-charm-recap-unpacking-the-latest-episode-drama"
+  - Watch
+slug: southern-charm-recap-unpacking-the-latest-episode-drama
 reading_time: 3
-source_url: "https://buzzsoaps.com/southern-charm-recap-unpacking-the-latest-episode-drama/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/southern-charm-recap-unpacking-the-latest-episode-drama/'
+imported_from: wordpress
 wp_original_id: 510
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/southern-charm-recap-unpacking-the-latest-episode-drama.webp
 seo:
-  canonical: "https://buzzsoaps.com/southern-charm-recap-unpacking-the-latest-episode-drama/"
-  og_title: "Southern Charm Recap: Unpacking the Latest Episode Drama - BuzzSoaps!"
-  og_description: "In \"Southern Charm\" Season 11, the Charleston crew faces personal and social challenges at a lavish party, revealing underlying tensions and evolving relationships. Emotional confrontations and unexpected twists keep fans engaged and eager for future developments."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/southern-charm-recap-unpacking-the-latest-episode-drama/
+  og_title: 'Southern Charm Recap: Unpacking the Latest Episode Drama - BuzzSoaps!'
+  og_description: >-
+    In "Southern Charm" Season 11, the Charleston crew faces personal and social
+    challenges at a lavish party, revealing underlying tensions and evolving
+    relationships. Emotional confrontations and unexpected twists keep fans
+    engaged and eager for future developments.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +35,10 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Well-written recap that matches the site's entertainment focus and engaging tone, but falls significantly short of target word count at only 434 words."
+quality_note: >-
+  Well-written recap that matches the site's entertainment focus and engaging
+  tone, but falls significantly short of target word count at only 434 words.
+image_alt: Tense guests at a lavish Southern mansion party under warm chandelier light
 ---
 
 In the latest episode of "Southern Charm" Season 11, emotions run high as the Charleston crew navigates personal and social challenges. The intricate dynamics between the cast members take center stage, offering viewers a glimpse into their evolving relationships and individual struggles. This episode, packed with surprises and heartfelt moments, keeps fans on the edge of their seats.
