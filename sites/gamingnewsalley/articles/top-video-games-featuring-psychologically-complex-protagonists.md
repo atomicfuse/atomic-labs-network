@@ -1,25 +1,39 @@
 ---
-title: "Top Video Games Featuring Psychologically Complex Protagonists"
-description: "Video games featuring protagonists with mental struggles offer players a unique experience, providing insight into the human psyche. These narratives engage players deeply, raising awareness about mental health while challenging stereotypes and fostering empathy through storytelling."
-type: "standard"
-status: "published"
-publishDate: "2025-05-01T05:01:40+00:00"
-author: "Taylor Winters"
+title: Top Video Games Featuring Psychologically Complex Protagonists
+description: >-
+  Video games featuring protagonists with mental struggles offer players a
+  unique experience, providing insight into the human psyche. These narratives
+  engage players deeply, raising awareness about mental health while challenging
+  stereotypes and fostering empathy through storytelling.
+type: standard
+status: published
+publishDate: '2025-05-01T05:01:40+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Catherine: Full Body"
-slug: "top-video-games-featuring-psychologically-complex-protagonists"
+  - Gaming News
+  - 'Catherine: Full Body'
+slug: top-video-games-featuring-psychologically-complex-protagonists
 reading_time: 4
-source_url: "https://gamingnewsalley.com/top-video-games-featuring-psychologically-complex-protagonists/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/top-video-games-featuring-psychologically-complex-protagonists/
+imported_from: wordpress
 wp_original_id: 42460
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/top-video-games-featuring-psychologically-complex-protagonists.webp
 seo:
-  canonical: "https://gamingnewsalley.com/top-video-games-featuring-psychologically-complex-protagonists/"
-  og_title: "Top Video Games Featuring Psychologically Complex Protagonists - Gaming News Alley"
-  og_description: "Video games featuring protagonists with mental struggles offer players a unique experience, providing insight into the human psyche. These narratives engage players deeply, raising awareness about mental health while challenging stereotypes and fostering empathy through storytelling."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/05/make_mixcollage-24-apr-2025-01-19-pm-1720.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/top-video-games-featuring-psychologically-complex-protagonists/
+  og_title: >-
+    Top Video Games Featuring Psychologically Complex Protagonists - Gaming News
+    Alley
+  og_description: >-
+    Video games featuring protagonists with mental struggles offer players a
+    unique experience, providing insight into the human psyche. These narratives
+    engage players deeply, raising awareness about mental health while
+    challenging stereotypes and fostering empathy through storytelling.
+  og_image: >-
+    https://gamingnewsalley.com/wp-content/uploads/2025/05/make_mixcollage-24-apr-2025-01-19-pm-1720.jpg
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 72
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 68
   factual_accuracy: 95
   keyword_relevance: 75
-quality_note: "Well-written article with good tone and accuracy, but falls short on length and could benefit from stronger SEO optimization and more specific gaming focus."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  and could benefit from stronger SEO optimization and more specific gaming
+  focus.
+image_alt: >-
+  Solitary figure facing a glowing screen surrounded by surreal shadows and
+  fractured reflections
 ---
 
 The world of video games often explores complex themes, including the psychological depth of its characters. Some standout games feature protagonists who grapple with severe mental struggles, offering players a unique and intense experience.
