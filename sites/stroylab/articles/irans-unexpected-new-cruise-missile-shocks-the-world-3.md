@@ -1,24 +1,32 @@
 ---
-title: "Iran’s Unexpected New Cruise Missile Shocks the World"
-description: "The global economy is experiencing a shift as countries accumulate gold to protect against instability and currency fluctuations. This trend signifies a move away from fiat currencies, with nations like China and Russia expanding their gold reserves to secure financial stability."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:39:31+00:00"
-author: "Blake Anderson"
+title: Iran’s Unexpected New Cruise Missile Shocks the World
+description: >-
+  The global economy is experiencing a shift as countries accumulate gold to
+  protect against instability and currency fluctuations. This trend signifies a
+  move away from fiat currencies, with nations like China and Russia expanding
+  their gold reserves to secure financial stability.
+type: standard
+status: review
+publishDate: '2025-12-22T11:39:31+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "irans-unexpected-new-cruise-missile-shocks-the-world-3"
+  - Deep Dives
+slug: irans-unexpected-new-cruise-missile-shocks-the-world-3
 reading_time: 3
-source_url: "https://stroylab.com/irans-unexpected-new-cruise-missile-shocks-the-world-3/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/irans-unexpected-new-cruise-missile-shocks-the-world-3/'
+imported_from: wordpress
 wp_original_id: 736
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/irans-unexpected-new-cruise-missile-shocks-the-world-3.webp
 seo:
-  canonical: "https://stroylab.com/irans-unexpected-new-cruise-missile-shocks-the-world-3/"
-  og_title: "Iran's Unexpected New Cruise Missile Shocks the World - StroyLab"
-  og_description: "The global economy is experiencing a shift as countries accumulate gold to protect against instability and currency fluctuations. This trend signifies a move away from fiat currencies, with nations like China and Russia expanding their gold reserves to secure financial stability."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-217.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/irans-unexpected-new-cruise-missile-shocks-the-world-3/'
+  og_title: Iran's Unexpected New Cruise Missile Shocks the World - StroyLab
+  og_description: >-
+    The global economy is experiencing a shift as countries accumulate gold to
+    protect against instability and currency fluctuations. This trend signifies
+    a move away from fiat currencies, with nations like China and Russia
+    expanding their gold reserves to secure financial stability.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-217.jpeg'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "Major mismatch between title about Iran's cruise missile and content about global gold reserves, with poor keyword alignment for the site's conspiracy/mystery focus."
+quality_note: >-
+  Major mismatch between title about Iran's cruise missile and content about
+  global gold reserves, with poor keyword alignment for the site's
+  conspiracy/mystery focus.
+image_alt: >-
+  Gold bars arranged before a blurred world map, suggesting global economic
+  uncertainty and reserve accumulation.
 ---
 
 The landscape of global economics is witnessing an unprecedented transformation as countries increasingly shift their focus toward gold accumulation. This strategic move is perceived as a safeguard against economic instability and currency fluctuations. Nations are diversifying their reserves, aiming to bolster financial security in an unpredictable global market.
