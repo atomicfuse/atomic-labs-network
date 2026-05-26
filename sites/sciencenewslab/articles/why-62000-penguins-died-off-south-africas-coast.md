@@ -1,21 +1,27 @@
 ---
-title: "Why 62,000 Penguins Died Off South Africa’s Coast"
-description: "Penguin populations in South Africa are declining due to starvation, primarily caused by shifts in prey availability and climate change. Conservation efforts focus on habitat protection and sustainable fishing, but challenges remain due to complex marine ecosystems and global climate issues."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T13:31:20"
-author: "Taylor Winters"
+title: 'Why 62,000 Penguins Died Off South Africa’s Coast'
+description: >-
+  Penguin populations in South Africa are declining due to starvation, primarily
+  caused by shifts in prey availability and climate change. Conservation efforts
+  focus on habitat protection and sustainable fishing, but challenges remain due
+  to complex marine ecosystems and global climate issues.
+type: standard
+status: published
+publishDate: '2025-12-08T13:31:20'
+author: Taylor Winters
 tags:
-  - "Environment"
-slug: "why-62000-penguins-died-off-south-africas-coast"
+  - Environment
+slug: why-62000-penguins-died-off-south-africas-coast
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/why-62000-penguins-died-off-south-africas-coast/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/why-62000-penguins-died-off-south-africas-coast/
+imported_from: wordpress
 wp_original_id: 15036
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/why-62000-penguins-died-off-south-africas-coast.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/why-62000-penguins-died-off-south-africas-coast/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/why-62000-penguins-died-off-south-africas-coast/
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -23,7 +29,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written environmental article with good keyword relevance and appropriate tone, but falls short on length requirements and lacks specific source attribution for the 62,000 figure."
+quality_note: >-
+  Well-written environmental article with good keyword relevance and appropriate
+  tone, but falls short on length requirements and lacks specific source
+  attribution for the 62,000 figure.
+image_alt: >-
+  African penguins stand on a quiet South African shore beside a vast gray
+  ocean.
 ---
 
 In recent years, a troubling trend has emerged off the coast of South Africa where penguin populations have been drastically declining. Over the past decade, an alarming number of these seabirds have succumbed to starvation. Understanding the reasons behind this decline is crucial to conserving these iconic species and maintaining ecological balance in the region.
