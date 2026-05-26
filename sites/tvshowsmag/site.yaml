@@ -2,7 +2,8 @@ domain: tvshowsmag
 site_name: tvshowsmag
 site_tagline: null
 author: Zoe Hayes
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d73e16f23264031d7a51
 brief:
