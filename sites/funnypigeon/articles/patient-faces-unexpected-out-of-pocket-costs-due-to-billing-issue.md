@@ -1,24 +1,39 @@
 ---
-title: "Patient Faces Unexpected Out-of-Pocket Costs Due to Billing Issue"
-description: "Navigating medical billing complexities can be daunting for patients, often leading to unexpected expenses and financial stress. Understanding billing practices and patient rights is essential for managing healthcare costs effectively, while avoiding errors and discrepancies in medical billing statements."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T10:31:30+00:00"
-author: "Gabe Hernandez"
+title: Patient Faces Unexpected Out-of-Pocket Costs Due to Billing Issue
+description: >-
+  Navigating medical billing complexities can be daunting for patients, often
+  leading to unexpected expenses and financial stress. Understanding billing
+  practices and patient rights is essential for managing healthcare costs
+  effectively, while avoiding errors and discrepancies in medical billing
+  statements.
+type: standard
+status: review
+publishDate: '2026-02-05T10:31:30+00:00'
+author: Gabe Hernandez
 tags:
-  - "Funny Videos"
-  - "Advice"
-slug: "patient-faces-unexpected-out-of-pocket-costs-due-to-billing-issue"
+  - Funny Videos
+  - Advice
+slug: patient-faces-unexpected-out-of-pocket-costs-due-to-billing-issue
 reading_time: 3
-source_url: "https://funnypigeon.com/patient-faces-unexpected-out-of-pocket-costs-due-to-billing-issue/"
-imported_from: "wordpress"
+source_url: >-
+  https://funnypigeon.com/patient-faces-unexpected-out-of-pocket-costs-due-to-billing-issue/
+imported_from: wordpress
 wp_original_id: 515
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: >-
+  /assets/images/patient-faces-unexpected-out-of-pocket-costs-due-to-billing-issue.webp
 seo:
-  canonical: "https://funnypigeon.com/patient-faces-unexpected-out-of-pocket-costs-due-to-billing-issue/"
-  og_title: "Patient Faces Unexpected Out-of-Pocket Costs Due to Billing Issue - Funny Pigeon"
-  og_description: "Navigating medical billing complexities can be daunting for patients, often leading to unexpected expenses and financial stress. Understanding billing practices and patient rights is essential for managing healthcare costs effectively, while avoiding errors and discrepancies in medical billing statements."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://funnypigeon.com/patient-faces-unexpected-out-of-pocket-costs-due-to-billing-issue/
+  og_title: >-
+    Patient Faces Unexpected Out-of-Pocket Costs Due to Billing Issue - Funny
+    Pigeon
+  og_description: >-
+    Navigating medical billing complexities can be daunting for patients, often
+    leading to unexpected expenses and financial stress. Understanding billing
+    practices and patient rights is essential for managing healthcare costs
+    effectively, while avoiding errors and discrepancies in medical billing
+    statements.
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 25
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 10
-quality_note: "This healthcare billing article is completely misaligned with funnypigeon's entertainment focus on funny videos, memes, and viral content, despite having relevant tags."
+quality_note: >-
+  This healthcare billing article is completely misaligned with funnypigeon's
+  entertainment focus on funny videos, memes, and viral content, despite having
+  relevant tags.
+image_alt: >-
+  A worried patient sits at a dim kitchen table surrounded by blank medical
+  paperwork at night.
 ---
 
 In today's healthcare landscape, navigating the complexities of medical billing can be daunting for many patients. Unexpected out-of-pocket expenses often arise, leading to financial stress and confusion. Understanding the nuances of billing practices and patient rights is crucial for managing healthcare costs effectively.
