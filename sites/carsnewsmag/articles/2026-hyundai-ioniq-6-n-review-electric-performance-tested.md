@@ -1,25 +1,35 @@
 ---
-title: "2026 Hyundai Ioniq 6 N Review: Electric Performance Tested"
-description: "The 2026 Hyundai Ioniq 6 N transforms Hyundai's sleek EV sedan into a track-ready performance car with huge dual-motor power, sharper handling, playful software, and everyday usability."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T08:22:37+00:00"
-author: "Taylor Winters"
+title: '2026 Hyundai Ioniq 6 N Review: Electric Performance Tested'
+description: >-
+  The 2026 Hyundai Ioniq 6 N transforms Hyundai's sleek EV sedan into a
+  track-ready performance car with huge dual-motor power, sharper handling,
+  playful software, and everyday usability.
+type: standard
+status: published
+publishDate: '2026-05-07T08:22:37+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Reviews"
-slug: "2026-hyundai-ioniq-6-n-review-electric-performance-tested"
+  - Electric Cars
+  - Reviews
+slug: 2026-hyundai-ioniq-6-n-review-electric-performance-tested
 reading_time: 7
-source_url: "https://carsnewsmag.com/2026-hyundai-ioniq-6-n-review-electric-performance-tested/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/2026-hyundai-ioniq-6-n-review-electric-performance-tested/
+imported_from: wordpress
 wp_original_id: 38610
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-hyundai-ioniq-6-n-review-electric-performance-tested.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-hyundai-ioniq-6-n-review-electric-performance-tested/"
-  og_title: "2026 Hyundai Ioniq 6 N Review: Electric Performance Tested - Cars News Magazine"
-  og_description: "The 2026 Hyundai Ioniq 6 N transforms Hyundai’s sleek EV sedan into a track-ready performance car with huge dual-motor power, sharper handling, playful software, and everyday usability."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/2026-hyundai-ioniq-6-n-review-electric-performance-tested/
+  og_title: >-
+    2026 Hyundai Ioniq 6 N Review: Electric Performance Tested - Cars News
+    Magazine
+  og_description: >-
+    The 2026 Hyundai Ioniq 6 N transforms Hyundai’s sleek EV sedan into a
+    track-ready performance car with huge dual-motor power, sharper handling,
+    playful software, and everyday usability.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 85
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 75
   keyword_relevance: 95
-quality_note: "Well-structured review with excellent tone and keyword coverage, but contains speculative details about an unreleased 2026 model that may not be factually verified."
+quality_note: >-
+  Well-structured review with excellent tone and keyword coverage, but contains
+  speculative details about an unreleased 2026 model that may not be factually
+  verified.
+image_alt: Sleek electric performance sedan cornering on a racetrack at golden hour
 ---
 
 The 2026 Hyundai Ioniq 6 N turns Hyundai's sleek electric sedan into a serious performance EV with track-ready hardware, playful software, and enough character to challenge established sport sedans. It takes the low-slung Ioniq 6 platform and adds the attitude, cooling, grip, and tuning expected from Hyundai's N division.
