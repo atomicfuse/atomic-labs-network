@@ -1,24 +1,37 @@
 ---
-title: "Gastroenterologist Reveals Surprising GLP-1 Gut Health Benefits"
-description: "GLP-1 medications, initially developed for diabetes management, are now being explored for their broader benefits in gut health and weight management, potentially offering improved nutrient absorption and satiety for those with obesity and digestive disorders."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T10:21:43+00:00"
-author: "Lena Ashwood"
+title: Gastroenterologist Reveals Surprising GLP-1 Gut Health Benefits
+description: >-
+  GLP-1 medications, initially developed for diabetes management, are now being
+  explored for their broader benefits in gut health and weight management,
+  potentially offering improved nutrient absorption and satiety for those with
+  obesity and digestive disorders.
+type: standard
+status: published
+publishDate: '2026-01-19T10:21:43+00:00'
+author: Lena Ashwood
 tags:
-  - "Wellness"
-slug: "gastroenterologist-reveals-surprising-glp-1-gut-health-benefits"
+  - Wellness
+slug: gastroenterologist-reveals-surprising-glp-1-gut-health-benefits
 reading_time: 3
-source_url: "https://mindmedications.com/gastroenterologist-reveals-surprising-glp-1-gut-health-benefits/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/gastroenterologist-reveals-surprising-glp-1-gut-health-benefits/
+imported_from: wordpress
 wp_original_id: 609
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: >-
+  /assets/images/gastroenterologist-reveals-surprising-glp-1-gut-health-benefits.webp
 seo:
-  canonical: "https://mindmedications.com/gastroenterologist-reveals-surprising-glp-1-gut-health-benefits/"
-  og_title: "Gastroenterologist Reveals Surprising GLP-1 Gut Health Benefits - Mind Medications"
-  og_description: "GLP-1 medications, initially for diabetes, are now being explored for their benefits in gut health and weight management, potentially offering improved nutrient absorption and satiety, aiding those with obesity and digestive disorders."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/gastroenterologist-reveals-surprising-glp-1-gut-health-benefits/
+  og_title: >-
+    Gastroenterologist Reveals Surprising GLP-1 Gut Health Benefits - Mind
+    Medications
+  og_description: >-
+    GLP-1 medications, initially for diabetes, are now being explored for their
+    benefits in gut health and weight management, potentially offering improved
+    nutrient absorption and satiety, aiding those with obesity and digestive
+    disorders.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 48
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly below target word count at 483 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly below
+  target word count at 483 words instead of the 800-1200 range.
+image_alt: >-
+  Patient and gastroenterologist in a bright clinic with abstract gut health
+  visuals and fresh foods nearby.
 ---
 
 ## Exploring the Impact of GLP-1 Medications on Gut Health
