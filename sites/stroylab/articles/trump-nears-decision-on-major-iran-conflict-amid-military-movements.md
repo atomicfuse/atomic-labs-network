@@ -1,24 +1,37 @@
 ---
-title: "Trump Nears Decision on Major Iran Conflict Amid Military Movements"
-description: "With global discourse on digital privacy growing, technology's role in governance faces scrutiny. Balancing security with individual freedom is crucial as digital tools become more sophisticated, raising ethical and privacy concerns in the evolving landscape of digital governance."
-type: "standard"
-status: "review"
-publishDate: "2026-02-12T11:01:29+00:00"
-author: "Blake Anderson"
+title: Trump Nears Decision on Major Iran Conflict Amid Military Movements
+description: >-
+  With global discourse on digital privacy growing, technology's role in
+  governance faces scrutiny. Balancing security with individual freedom is
+  crucial as digital tools become more sophisticated, raising ethical and
+  privacy concerns in the evolving landscape of digital governance.
+type: standard
+status: review
+publishDate: '2026-02-12T11:01:29+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "trump-nears-decision-on-major-iran-conflict-amid-military-movements"
+  - Deep Dives
+slug: trump-nears-decision-on-major-iran-conflict-amid-military-movements
 reading_time: 3
-source_url: "https://stroylab.com/trump-nears-decision-on-major-iran-conflict-amid-military-movements/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/trump-nears-decision-on-major-iran-conflict-amid-military-movements/
+imported_from: wordpress
 wp_original_id: 785
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/trump-nears-decision-on-major-iran-conflict-amid-military-movements.webp
 seo:
-  canonical: "https://stroylab.com/trump-nears-decision-on-major-iran-conflict-amid-military-movements/"
-  og_title: "Trump Nears Decision on Major Iran Conflict Amid Military Movements - StroyLab"
-  og_description: "With global discourse on digital privacy growing, technology's role in governance faces scrutiny. Balancing security with individual freedom is crucial as digital tools become more sophisticated, raising ethical and privacy concerns in the evolving landscape of digital governance."
-  og_image: "https://stroylab.com/wp-content/uploads/2026/02/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/trump-nears-decision-on-major-iran-conflict-amid-military-movements/
+  og_title: >-
+    Trump Nears Decision on Major Iran Conflict Amid Military Movements -
+    StroyLab
+  og_description: >-
+    With global discourse on digital privacy growing, technology's role in
+    governance faces scrutiny. Balancing security with individual freedom is
+    crucial as digital tools become more sophisticated, raising ethical and
+    privacy concerns in the evolving landscape of digital governance.
+  og_image: 'https://stroylab.com/wp-content/uploads/2026/02/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article completely mismatches its title about Trump and Iran conflict, instead covering digital governance, and fails to align with the site's focus on conspiracies, mysteries, and dark history topics."
+quality_note: >-
+  The article completely mismatches its title about Trump and Iran conflict,
+  instead covering digital governance, and fails to align with the site's focus
+  on conspiracies, mysteries, and dark history topics.
+image_alt: >-
+  Silhouetted official studies military markers in a tense government situation
+  room
 ---
 
 With the ongoing global discourse on digital privacy, the role of technology in governance is increasingly scrutinized. Recent developments have sparked interest in how digital infrastructures can influence and control public behavior. Understanding these dynamics is crucial as nations navigate the complexities of modern surveillance and privacy concerns.
