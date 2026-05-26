@@ -23,7 +23,7 @@ source_url: >-
   https://www.aol.com/lifestyle/stunning-dining-room-trends-taking-180000445.html
 source_item_id: 6a152fda16f23264031d81fb
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: /assets/images/2026-dining-room-trends-formal-spaces-revival.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,9 @@ quality_note: >-
   short at 613 words and contains vague, unsupported claims about 2026 trends
   without credible sources.
 reading_time: 3
+image_alt: >-
+  Modern formal dining room with warm wood, upholstered chairs, pendant
+  lighting, greenery, and soft natural light.
 ---
 ## The Dining Room Renaissance of 2026
 
