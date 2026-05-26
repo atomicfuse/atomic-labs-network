@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://www.cgmagonline.com/articles/previews/hands-on-outward-2s/'
 source_item_id: 6a14214f16f23264031d7dce
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: >-
+  /assets/images/outward-2-beta-preview-anti-power-fantasy-rpg-stays-hardcore.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,9 @@ quality_note: >-
   Strong gaming focus and tone but significantly under target word count and
   relies heavily on vague sourcing that raises accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Two weary fantasy travelers face a misty wilderness with heavy survival gear
+  and distant ruins.
 ---
 ## A Return to Harsh RPG Fundamentals
 
