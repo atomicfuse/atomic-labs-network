@@ -1,28 +1,37 @@
 ---
-title: "Experience the Thrill of Opening a Messi 110 Pack in eFootball"
-description: "Dive into the excitement of opening the highest-rated player pack in eFootball, featuring Messi 110, and enjoy thrilling gameplay."
-type: "standard"
-status: "review"
-publishDate: "2026-01-01T09:33:21+00:00"
-author: "Taylor Winters"
+title: Experience the Thrill of Opening a Messi 110 Pack in eFootball
+description: >-
+  Dive into the excitement of opening the highest-rated player pack in
+  eFootball, featuring Messi 110, and enjoy thrilling gameplay.
+type: standard
+status: review
+publishDate: '2026-01-01T09:33:21+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "bungie"
-slug: "experience-the-thrill-of-opening-a-messi-110-pack-in-efootball"
+  - Gaming News
+  - bungie
+slug: experience-the-thrill-of-opening-a-messi-110-pack-in-efootball
 reading_time: 2
-source_url: "https://gamerinformers.com/experience-the-thrill-of-opening-a-messi-110-pack-in-efootball/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/experience-the-thrill-of-opening-a-messi-110-pack-in-efootball/
+imported_from: wordpress
 wp_original_id: 34117
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/experience-the-thrill-of-opening-a-messi-110-pack-in-efootball.webp
 seo:
-  canonical: "https://gamerinformers.com/experience-the-thrill-of-opening-a-messi-110-pack-in-efootball/"
-  og_title: "Experience the Thrill of Opening a Messi 110 Pack in eFootball - Gamer Informers"
-  og_description: "Dive into the excitement of opening the highest-rated player pack in eFootball, featuring Messi 110, and enjoy thrilling gameplay."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/experience-the-thrill-of-opening-a-messi-110-pack-in-efootball/
+  og_title: >-
+    Experience the Thrill of Opening a Messi 110 Pack in eFootball - Gamer
+    Informers
+  og_description: >-
+    Dive into the excitement of opening the highest-rated player pack in
+    eFootball, featuring Messi 110, and enjoy thrilling gameplay.
+  twitter_card: summary_large_image
 videos:
-  - id: "e209b2c9"
-    url: "https://www.youtube.com/watch?v=15FqT2MGLbc"
-    position: "after-paragraph-2"
+  - id: e209b2c9
+    url: 'https://www.youtube.com/watch?v=15FqT2MGLbc'
+    position: after-paragraph-2
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -30,7 +39,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Article has appropriate gaming tone and factual content but falls significantly short of the 800-1200 word target at only 286 words, limiting its overall effectiveness."
+quality_note: >-
+  Article has appropriate gaming tone and factual content but falls
+  significantly short of the 800-1200 word target at only 286 words, limiting
+  its overall effectiveness.
+image_alt: >-
+  Glowing digital football player card emerging in a futuristic stadium with
+  gold and blue energy effects.
 ---
 
 Are you ready for an exhilarating experience in eFootball? The latest Messi 110 pack opening is here, offering the highest-rated player available in the game. This event has captured the attention of football gaming enthusiasts, providing both thrilling gameplay and a chance to significantly enhance your team's performance.
