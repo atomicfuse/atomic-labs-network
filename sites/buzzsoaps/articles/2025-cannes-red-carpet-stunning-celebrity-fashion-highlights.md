@@ -1,24 +1,36 @@
 ---
-title: "2025 Cannes Red Carpet: Stunning Celebrity Fashion Highlights"
-description: "The Cannes Film Festival 2025 showcased breathtaking fashion, with celebrities setting new trends through bold styles and sustainable designs. The event highlighted creativity, diversity, and the festival's influence on global fashion, merging cinematic achievements with innovative fashion expressions."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T09:23:34+00:00"
-author: "Becca Roberts"
+title: '2025 Cannes Red Carpet: Stunning Celebrity Fashion Highlights'
+description: >-
+  The Cannes Film Festival 2025 showcased breathtaking fashion, with celebrities
+  setting new trends through bold styles and sustainable designs. The event
+  highlighted creativity, diversity, and the festival's influence on global
+  fashion, merging cinematic achievements with innovative fashion expressions.
+type: standard
+status: review
+publishDate: '2025-05-22T09:23:34+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "2025-cannes-red-carpet-stunning-celebrity-fashion-highlights"
+  - Culture Buzz
+slug: 2025-cannes-red-carpet-stunning-celebrity-fashion-highlights
 reading_time: 3
-source_url: "https://buzzsoaps.com/2025-cannes-red-carpet-stunning-celebrity-fashion-highlights/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/2025-cannes-red-carpet-stunning-celebrity-fashion-highlights/
+imported_from: wordpress
 wp_original_id: 400
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/2025-cannes-red-carpet-stunning-celebrity-fashion-highlights.webp
 seo:
-  canonical: "https://buzzsoaps.com/2025-cannes-red-carpet-stunning-celebrity-fashion-highlights/"
-  og_title: "2025 Cannes Red Carpet: Stunning Celebrity Fashion Highlights - BuzzSoaps!"
-  og_description: "The Cannes Film Festival 2025 showcased breathtaking fashion, with celebrities setting new trends through bold styles and sustainable designs. The event highlighted creativity, diversity, and the festival's influence on global fashion, merging cinematic achievements with innovative fashion expressions."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-93.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/2025-cannes-red-carpet-stunning-celebrity-fashion-highlights/
+  og_title: '2025 Cannes Red Carpet: Stunning Celebrity Fashion Highlights - BuzzSoaps!'
+  og_description: >-
+    The Cannes Film Festival 2025 showcased breathtaking fashion, with
+    celebrities setting new trends through bold styles and sustainable designs.
+    The event highlighted creativity, diversity, and the festival's influence on
+    global fashion, merging cinematic achievements with innovative fashion
+    expressions.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-93.jpeg'
+  twitter_card: summary_large_image
 quality_score: 55
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "The article has major factual accuracy issues as it describes future events (2025 Cannes) as if they already happened, and falls significantly short of the target word count."
+quality_note: >-
+  The article has major factual accuracy issues as it describes future events
+  (2025 Cannes) as if they already happened, and falls significantly short of
+  the target word count.
+image_alt: >-
+  Glamorous red carpet fashion scene with diverse models in bold couture under
+  cinematic camera flashes
 ---
 
 The Cannes Film Festival red carpet is renowned for its display of glamour and high fashion. With each year, celebrities dazzle audiences worldwide with their sartorial choices, setting new trends and showcasing the creativity of designers. The 2025 event was no exception, as it featured an array of breathtaking styles and memorable ensembles that captivated fashion enthusiasts.
