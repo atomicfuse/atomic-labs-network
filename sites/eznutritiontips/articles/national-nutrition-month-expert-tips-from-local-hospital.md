@@ -1,25 +1,37 @@
 ---
-title: "National Nutrition Month: Expert Tips from Local Hospital"
-description: "March is National Nutrition Month, emphasizing healthy eating for all ages. With lifestyle-related diseases on the rise, adopting a balanced diet is crucial. Local healthcare providers offer guidance on nutritious choices to improve physical and mental well-being."
-type: "standard"
-status: "review"
-publishDate: "2026-02-26T10:15:29+00:00"
-author: "Taylor Winters"
+title: 'National Nutrition Month: Expert Tips from Local Hospital'
+description: >-
+  March is National Nutrition Month, emphasizing healthy eating for all ages.
+  With lifestyle-related diseases on the rise, adopting a balanced diet is
+  crucial. Local healthcare providers offer guidance on nutritious choices to
+  improve physical and mental well-being.
+type: standard
+status: review
+publishDate: '2026-02-26T10:15:29+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "national-nutrition-month-expert-tips-from-local-hospital"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: national-nutrition-month-expert-tips-from-local-hospital
 reading_time: 3
-source_url: "https://eznutritiontips.com/national-nutrition-month-expert-tips-from-local-hospital/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/national-nutrition-month-expert-tips-from-local-hospital/
+imported_from: wordpress
 wp_original_id: 18998
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/national-nutrition-month-expert-tips-from-local-hospital.webp
 seo:
-  canonical: "https://eznutritiontips.com/national-nutrition-month-expert-tips-from-local-hospital/"
-  og_title: "National Nutrition Month: Expert Tips from Local Hospital - Easy Nutrition Tips"
-  og_description: "March is National Nutrition Month, emphasizing healthy eating for all ages. With lifestyle-related diseases on the rise, adopting a balanced diet is crucial. Local healthcare providers offer guidance on nutritious choices to improve physical and mental well-being."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/02/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/national-nutrition-month-expert-tips-from-local-hospital/
+  og_title: >-
+    National Nutrition Month: Expert Tips from Local Hospital - Easy Nutrition
+    Tips
+  og_description: >-
+    March is National Nutrition Month, emphasizing healthy eating for all ages.
+    With lifestyle-related diseases on the rise, adopting a balanced diet is
+    crucial. Local healthcare providers offer guidance on nutritious choices to
+    improve physical and mental well-being.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/02/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written informational article with good tone and accuracy, but falls short on length (481 words vs 800-1200 target) and could benefit from stronger SEO optimization with more compelling headlines and keyword integration."
+quality_note: >-
+  Well-written informational article with good tone and accuracy, but falls
+  short on length (481 words vs 800-1200 target) and could benefit from stronger
+  SEO optimization with more compelling headlines and keyword integration.
+image_alt: >-
+  Dietitian discusses healthy food choices with a diverse family in a bright
+  hospital counseling room.
 ---
 
 March marks the arrival of National Nutrition Month, a time dedicated to emphasizing the importance of healthy eating habits for people of all ages. With the increasing prevalence of lifestyle-related diseases, adopting a balanced diet is more crucial than ever. Local healthcare providers are stepping up to offer guidance on how to incorporate nutritious choices into daily life.
