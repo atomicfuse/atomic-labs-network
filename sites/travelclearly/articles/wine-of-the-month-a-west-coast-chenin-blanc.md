@@ -1,24 +1,32 @@
 ---
-title: "Wine Of The Month: A West Coast Chenin Blanc"
-description: "Minus Tide's Sterling Ranch Chenin Blanc from Mendocino is a nuanced, versatile wine offering saline, bright acidity, and muted yellow fruit — closer in style to a Chablis than a Loire Valley expression."
-type: "standard"
-status: "review"
-publishDate: "2025-03-01T18:00:56+00:00"
-author: "Taylor Winters"
+title: 'Wine Of The Month: A West Coast Chenin Blanc'
+description: >-
+  Minus Tide's Sterling Ranch Chenin Blanc from Mendocino is a nuanced,
+  versatile wine offering saline, bright acidity, and muted yellow fruit —
+  closer in style to a Chablis than a Loire Valley expression.
+type: standard
+status: review
+publishDate: '2025-03-01T18:00:56+00:00'
+author: Taylor Winters
 tags:
-  - "Travel"
-  - "Food &amp; Drink"
-slug: "wine-of-the-month-a-west-coast-chenin-blanc"
+  - Travel
+  - Food &amp; Drink
+slug: wine-of-the-month-a-west-coast-chenin-blanc
 reading_time: 2
-source_url: "https://travelclearly.com/wine-of-the-month-a-west-coast-chenin-blanc/"
-imported_from: "wordpress"
+source_url: 'https://travelclearly.com/wine-of-the-month-a-west-coast-chenin-blanc/'
+imported_from: wordpress
 wp_original_id: 36452
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/wine-of-the-month-a-west-coast-chenin-blanc.webp
 seo:
-  canonical: "https://travelclearly.com/wine-of-the-month-a-west-coast-chenin-blanc/"
-  og_title: "Wine Of The Month: A West Coast Chenin Blanc - Travel Clearly"
-  og_description: "Hailing from Mendocino, Minus Tide&#x2019;s Sterling Ranch Chenin Blanc delivers a satisfying snap along with savory notes This young winery in Mendocino has quickly become a favorite of mine. Nearly every of its wine I&#x2019;ve sampled has been faithful to the variety&#x2014;nuanced and not exaggerated, which is not always an easy thing to do when [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelclearly.com/wine-of-the-month-a-west-coast-chenin-blanc/'
+  og_title: 'Wine Of The Month: A West Coast Chenin Blanc - Travel Clearly'
+  og_description: >-
+    Hailing from Mendocino, Minus Tide&#x2019;s Sterling Ranch Chenin Blanc
+    delivers a satisfying snap along with savory notes This young winery in
+    Mendocino has quickly become a favorite of mine. Nearly every of its wine
+    I&#x2019;ve sampled has been faithful to the variety&#x2014;nuanced and not
+    exaggerated, which is not always an easy thing to do when [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 95
   keyword_relevance: 75
-quality_note: "Well-written wine review with excellent tone and accuracy but significantly under target length at 299 words versus the 800-1200 word guideline."
+quality_note: >-
+  Well-written wine review with excellent tone and accuracy but significantly
+  under target length at 299 words versus the 800-1200 word guideline.
+image_alt: >-
+  Pale white wine on a coastal terrace with misty cliffs, vineyards, yellow
+  fruit, and sea salt.
 ---
 
 _**Hailing from Mendocino, Minus Tide's Sterling Ranch Chenin Blanc delivers a satisfying snap along with savory notes**_
