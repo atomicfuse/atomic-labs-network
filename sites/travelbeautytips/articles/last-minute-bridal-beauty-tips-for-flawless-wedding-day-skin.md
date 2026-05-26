@@ -1,26 +1,39 @@
 ---
-title: "Last-Minute Bridal Beauty Tips for Flawless Wedding Day Skin"
-description: "Preparing for your wedding day involves more than just choosing the perfect dress; it requires a comprehensive skincare routine to ensure glowing, radiant skin. Start early with cleansing, toning, and moisturizing, and consult a dermatologist for persistent issues."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T09:45:29+00:00"
-author: "Taylor Winters"
+title: Last-Minute Bridal Beauty Tips for Flawless Wedding Day Skin
+description: >-
+  Preparing for your wedding day involves more than just choosing the perfect
+  dress; it requires a comprehensive skincare routine to ensure glowing, radiant
+  skin. Start early with cleansing, toning, and moisturizing, and consult a
+  dermatologist for persistent issues.
+type: standard
+status: published
+publishDate: '2025-12-11T09:45:29+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-slug: "last-minute-bridal-beauty-tips-for-flawless-wedding-day-skin"
+  - Beauty Tips
+  - Beauty
+  - Makeup Hacks
+slug: last-minute-bridal-beauty-tips-for-flawless-wedding-day-skin
 reading_time: 3
-source_url: "https://travelbeautytips.com/last-minute-bridal-beauty-tips-for-flawless-wedding-day-skin/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/last-minute-bridal-beauty-tips-for-flawless-wedding-day-skin/
+imported_from: wordpress
 wp_original_id: 36091
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/last-minute-bridal-beauty-tips-for-flawless-wedding-day-skin.webp
 seo:
-  canonical: "https://travelbeautytips.com/last-minute-bridal-beauty-tips-for-flawless-wedding-day-skin/"
-  og_title: "Last-Minute Bridal Beauty Tips for Flawless Wedding Day Skin - Travel Beauty Tips"
-  og_description: "Preparing for your wedding day involves more than just choosing the perfect dress; it requires a comprehensive skincare routine to ensure glowing, radiant skin. Start early with cleansing, toning, and moisturizing, and consult a dermatologist for persistent issues."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/12/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/last-minute-bridal-beauty-tips-for-flawless-wedding-day-skin/
+  og_title: >-
+    Last-Minute Bridal Beauty Tips for Flawless Wedding Day Skin - Travel Beauty
+    Tips
+  og_description: >-
+    Preparing for your wedding day involves more than just choosing the perfect
+    dress; it requires a comprehensive skincare routine to ensure glowing,
+    radiant skin. Start early with cleansing, toning, and moisturizing, and
+    consult a dermatologist for persistent issues.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/12/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,12 @@ score_breakdown:
   content_length: 48
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written beauty content with good tone and accuracy, but significantly under target word count at 485 words versus the 800-1200 range."
+quality_note: >-
+  Well-written beauty content with good tone and accuracy, but significantly
+  under target word count at 485 words versus the 800-1200 range.
+image_alt: >-
+  Bride-to-be in a white robe glowing in soft morning light beside skincare and
+  flowers.
 ---
 
 Your wedding day is a momentous occasion, and every bride dreams of looking her absolute best. While the dress and accessories play their part, glowing skin is the ultimate accessory for a radiant appearance. Preparing your skin for this special day involves more than just makeup; it requires a well-rounded beauty regimen tailored to your skin's needs.
