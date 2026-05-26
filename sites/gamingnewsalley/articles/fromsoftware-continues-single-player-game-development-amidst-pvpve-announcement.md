@@ -1,27 +1,44 @@
 ---
-title: "FromSoftware Continues Single-Player Game Development Amidst PvPvE Announcement"
-description: "Despite introducing co-op and PvPvE elements in Elden Ring, FromSoftware reaffirms its commitment to single-player games, emphasizing that the new multiplayer features are additions rather than replacements for the solo experience the studio is known for."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T07:01:38+00:00"
-author: "Taylor Winters"
+title: >-
+  FromSoftware Continues Single-Player Game Development Amidst PvPvE
+  Announcement
+description: >-
+  Despite introducing co-op and PvPvE elements in Elden Ring, FromSoftware
+  reaffirms its commitment to single-player games, emphasizing that the new
+  multiplayer features are additions rather than replacements for the solo
+  experience the studio is known for.
+type: standard
+status: review
+publishDate: '2025-04-07T07:01:38+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "chucklefish"
-  - "chucklefish games"
-  - "Compile Heart"
-slug: "fromsoftware-continues-single-player-game-development-amidst-pvpve-announcement"
+  - Gaming News
+  - chucklefish
+  - chucklefish games
+  - Compile Heart
+slug: >-
+  fromsoftware-continues-single-player-game-development-amidst-pvpve-announcement
 reading_time: 3
-source_url: "https://gamingnewsalley.com/fromsoftware-continues-single-player-game-development-amidst-pvpve-announcement/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/fromsoftware-continues-single-player-game-development-amidst-pvpve-announcement/
+imported_from: wordpress
 wp_original_id: 42436
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/fromsoftware-continues-single-player-game-development-amidst-pvpve-announcement.webp
 seo:
-  canonical: "https://gamingnewsalley.com/fromsoftware-continues-single-player-game-development-amidst-pvpve-announcement/"
-  og_title: "FromSoftware Continues Single-Player Game Development Amidst PvPvE Announcement - Gaming News Alley"
-  og_description: "Despite introducing co-op and player vs player vs environment (PvPvE) elements in their upcoming title 'Elden Ring', FromSoftware reaffirms its focus on creating single-player games. The company emphasizes that these multiplayer features are additions, not replacements, ensuring the core of their games remains single-player-centric."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/fromsoftware-continues-single-player-game-development-amidst-pvpve-announcement/
+  og_title: >-
+    FromSoftware Continues Single-Player Game Development Amidst PvPvE
+    Announcement - Gaming News Alley
+  og_description: >-
+    Despite introducing co-op and player vs player vs environment (PvPvE)
+    elements in their upcoming title 'Elden Ring', FromSoftware reaffirms its
+    focus on creating single-player games. The company emphasizes that these
+    multiplayer features are additions, not replacements, ensuring the core of
+    their games remains single-player-centric.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 45
@@ -29,7 +46,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 20
   keyword_relevance: 40
-quality_note: "The article has significant factual issues including confusion about Elden Ring's release status and mismatched tags, plus it's too short at only 409 words."
+quality_note: >-
+  The article has significant factual issues including confusion about Elden
+  Ring's release status and mismatched tags, plus it's too short at only 409
+  words.
+image_alt: >-
+  Lone fantasy warrior on a misty ruin with faint spectral companions in the
+  distance
 ---
 
 FromSoftware, the video game developer that has won the hearts of gamers worldwide, continues to focus on creating single-player games. This commitment comes despite the recent unveiling of co-op and player vs player vs environment (PvPvE) elements in their upcoming title, a move that has sparked intrigue and speculation within the gaming community.
