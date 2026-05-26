@@ -1,26 +1,34 @@
 ---
-title: "TV Star Transitions to Kitchen Cleaning Career"
-description: "Actor Javon \"Wanna\" Walton, known for his role in \"Euphoria,\" is shifting from acting to entrepreneurship, showcasing his versatility and inspiring fans with his commitment to personal growth and exploration beyond traditional media roles."
-type: "standard"
-status: "review"
-publishDate: "2025-07-24T04:29:29+00:00"
-author: "Taylor Winters"
+title: TV Star Transitions to Kitchen Cleaning Career
+description: >-
+  Actor Javon "Wanna" Walton, known for his role in "Euphoria," is shifting from
+  acting to entrepreneurship, showcasing his versatility and inspiring fans with
+  his commitment to personal growth and exploration beyond traditional media
+  roles.
+type: standard
+status: review
+publishDate: '2025-07-24T04:29:29+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-  - "TV"
-slug: "tv-star-transitions-to-kitchen-cleaning-career"
+  - TV News
+  - News
+  - TV
+slug: tv-star-transitions-to-kitchen-cleaning-career
 reading_time: 3
-source_url: "https://tvshowbox.com/tv-star-transitions-to-kitchen-cleaning-career/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/tv-star-transitions-to-kitchen-cleaning-career/'
+imported_from: wordpress
 wp_original_id: 23918
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tv-star-transitions-to-kitchen-cleaning-career.webp
 seo:
-  canonical: "https://tvshowbox.com/tv-star-transitions-to-kitchen-cleaning-career/"
-  og_title: "TV Star Transitions to Kitchen Cleaning Career - TV Show Box"
-  og_description: "Actor Javon \"Wanna\" Walton, known for his role in \"Euphoria,\" is shifting from acting to entrepreneurship, showcasing his versatility and inspiring fans with his commitment to personal growth and exploration beyond traditional media roles."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/07/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/tv-star-transitions-to-kitchen-cleaning-career/'
+  og_title: TV Star Transitions to Kitchen Cleaning Career - TV Show Box
+  og_description: >-
+    Actor Javon "Wanna" Walton, known for his role in "Euphoria," is shifting
+    from acting to entrepreneurship, showcasing his versatility and inspiring
+    fans with his commitment to personal growth and exploration beyond
+    traditional media roles.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/07/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 75
-quality_note: "The article has major factual issues with a misleading title about 'kitchen cleaning career' that doesn't match the entrepreneurship content, and lacks specific details about Walton's actual business ventures."
+quality_note: >-
+  The article has major factual issues with a misleading title about 'kitchen
+  cleaning career' that doesn't match the entrepreneurship content, and lacks
+  specific details about Walton's actual business ventures.
+image_alt: >-
+  Young entrepreneur in a moody commercial kitchen holding a cleaning cloth with
+  determined expression.
 ---
 
 The entertainment industry often surprises fans with unexpected career shifts from their favorite stars. One such intriguing transition involves actor Javon "Wanna" Walton, renowned for his role in the hit series "Euphoria." Walton, notable for his portrayal of Ashtray, has embarked on a new career path that has piqued the interest of fans and industry insiders alike.
