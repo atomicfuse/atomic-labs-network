@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.vogue.com/article/meet-the-women-reclaiming-moroccos-rose-industry'
 source_item_id: 6a14fea316f23264031d804c
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: /assets/images/morocco-rose-industry-women-cooperatives-economic-power.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   (599 vs 800-1200 target) and relies heavily on vague 'reports indicate'
   sourcing without specific data.
 reading_time: 3
+image_alt: >-
+  Amazigh women sort rose petals together in a sunlit Moroccan cooperative
+  courtyard.
 ---
 ## Traditional Labor Meets Modern Market Dynamics
 
