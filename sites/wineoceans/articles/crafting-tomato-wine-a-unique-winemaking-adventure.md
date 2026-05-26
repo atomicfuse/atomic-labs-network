@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-crafting-tomato-wine-a-unique-winemaking-adventure
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/crafting-tomato-wine-a-unique-winemaking-adventure.webp
 reading_time: 2
 quality_score: 58
 score_breakdown:
@@ -35,6 +35,9 @@ quality_note: >-
   Article covers a relevant wine topic with good keyword integration, but is
   severely lacking in content length and relies heavily on vague reporting
   language without providing concrete information or actionable details.
+image_alt: >-
+  Heirloom tomatoes beside glass fermenters of amber-red tomato wine on a rustic
+  table.
 ---
 ## The Unconventional Path to Tomato Wine
 
