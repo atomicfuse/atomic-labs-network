@@ -1,24 +1,33 @@
 ---
-title: "God’s Role in Justice Over Prelate’s Remarks"
-description: "The global landscape is transforming with shifts in economic power, technological advancements, military strategies, and diplomatic efforts, impacting international relations and stability. Emerging economies like China and India are reshaping global influence and challenging traditional powers."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:28:49+00:00"
-author: "Blake Anderson"
+title: God’s Role in Justice Over Prelate’s Remarks
+description: >-
+  The global landscape is transforming with shifts in economic power,
+  technological advancements, military strategies, and diplomatic efforts,
+  impacting international relations and stability. Emerging economies like China
+  and India are reshaping global influence and challenging traditional powers.
+type: standard
+status: review
+publishDate: '2025-12-22T11:28:49+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "gods-role-in-justice-over-prelates-remarks"
+  - Deep Dives
+slug: gods-role-in-justice-over-prelates-remarks
 reading_time: 2
-source_url: "https://stroylab.com/gods-role-in-justice-over-prelates-remarks/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/gods-role-in-justice-over-prelates-remarks/'
+imported_from: wordpress
 wp_original_id: 677
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/gods-role-in-justice-over-prelates-remarks.webp
 seo:
-  canonical: "https://stroylab.com/gods-role-in-justice-over-prelates-remarks/"
-  og_title: "God's Role in Justice Over Prelate's Remarks - StroyLab"
-  og_description: "The global landscape is transforming with shifts in economic power, technological advancements, military strategies, and diplomatic efforts, impacting international relations and stability. Emerging economies like China and India are reshaping global influence and challenging traditional powers."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-188.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/gods-role-in-justice-over-prelates-remarks/'
+  og_title: God's Role in Justice Over Prelate's Remarks - StroyLab
+  og_description: >-
+    The global landscape is transforming with shifts in economic power,
+    technological advancements, military strategies, and diplomatic efforts,
+    impacting international relations and stability. Emerging economies like
+    China and India are reshaping global influence and challenging traditional
+    powers.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-188.jpeg'
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "Article completely misses the site's focus on sensitive topics like conspiracies and mysteries, instead delivering generic geopolitical analysis that doesn't match the audience or SEO strategy."
+quality_note: >-
+  Article completely misses the site's focus on sensitive topics like
+  conspiracies and mysteries, instead delivering generic geopolitical analysis
+  that doesn't match the audience or SEO strategy.
+image_alt: >-
+  Abstract diplomatic table scene suggesting shifting global power and
+  international tension
 ---
 
 In recent years, the global community has witnessed significant shifts in geopolitical dynamics. The influence of major powers continues to evolve, impacting international relations and global stability. These changes are driven by various factors, including economic policies, military strategies, and diplomatic relations.
