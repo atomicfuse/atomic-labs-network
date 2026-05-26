@@ -1,23 +1,30 @@
 ---
-title: "Home Appliances Release Trillions of Harmful Particles: Study"
-description: "Household appliances emit trillions of ultrafine particles, impacting indoor air quality and health. A recent study highlights the need for mitigation strategies like regular maintenance, effective ventilation, and air purifiers to reduce exposure to these potentially harmful emissions."
-type: "standard"
-status: "review"
-publishDate: "2025-12-18T12:47:24"
-author: "Taylor Winters"
+title: 'Home Appliances Release Trillions of Harmful Particles: Study'
+description: >-
+  Household appliances emit trillions of ultrafine particles, impacting indoor
+  air quality and health. A recent study highlights the need for mitigation
+  strategies like regular maintenance, effective ventilation, and air purifiers
+  to reduce exposure to these potentially harmful emissions.
+type: standard
+status: review
+publishDate: '2025-12-18T12:47:24'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Humans"
-  - "Tech"
-slug: "home-appliances-release-trillions-of-harmful-particles-study"
+  - Environment
+  - Humans
+  - Tech
+slug: home-appliances-release-trillions-of-harmful-particles-study
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/home-appliances-release-trillions-of-harmful-particles-study/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/home-appliances-release-trillions-of-harmful-particles-study/
+imported_from: wordpress
 wp_original_id: 15042
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/home-appliances-release-trillions-of-harmful-particles-study.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/home-appliances-release-trillions-of-harmful-particles-study/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/home-appliances-release-trillions-of-harmful-particles-study/
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -25,7 +32,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant environmental content, but significantly under target word count and lacks specific study details that would strengthen credibility."
+quality_note: >-
+  Well-written article with good tone and relevant environmental content, but
+  significantly under target word count and lacks specific study details that
+  would strengthen credibility.
+image_alt: >-
+  Modern kitchen appliances surrounded by sunlit airborne particles with an air
+  purifier nearby
 ---
 
 In our daily lives, we often overlook the invisible particles that surround us, especially those emitted by common household appliances. A recent study has shed light on how these everyday items release trillions of potentially harmful particles into the air, which could have implications for indoor air quality and our health.
