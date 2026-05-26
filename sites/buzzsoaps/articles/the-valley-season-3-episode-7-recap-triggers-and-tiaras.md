@@ -1,25 +1,32 @@
 ---
-title: "The Valley Season 3 Episode 7 Recap Triggers and Tiaras"
-description: "The Valley season 3 episode 7 mixes pageant glamour with emotional fallout as fractured couples, old resentments, and shifting alliances push the Bravo friend group toward more unresolved conflict."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:20:30+00:00"
-author: "Becca Roberts"
+title: The Valley Season 3 Episode 7 Recap Triggers and Tiaras
+description: >-
+  The Valley season 3 episode 7 mixes pageant glamour with emotional fallout as
+  fractured couples, old resentments, and shifting alliances push the Bravo
+  friend group toward more unresolved conflict.
+type: standard
+status: published
+publishDate: '2026-05-14T09:20:30+00:00'
+author: Becca Roberts
 tags:
-  - "Off Script"
-  - "Watch"
-slug: "the-valley-season-3-episode-7-recap-triggers-and-tiaras"
+  - Off Script
+  - Watch
+slug: the-valley-season-3-episode-7-recap-triggers-and-tiaras
 reading_time: 7
-source_url: "https://buzzsoaps.com/the-valley-season-3-episode-7-recap-triggers-and-tiaras/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/the-valley-season-3-episode-7-recap-triggers-and-tiaras/'
+imported_from: wordpress
 wp_original_id: 598
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/the-valley-season-3-episode-7-recap-triggers-and-tiaras.webp
 seo:
-  canonical: "https://buzzsoaps.com/the-valley-season-3-episode-7-recap-triggers-and-tiaras/"
-  og_title: "The Valley Season 3 Episode 7 Recap Triggers and Tiaras - BuzzSoaps!"
-  og_description: "The Valley season 3 episode 7 mixes pageant glamour with emotional fallout as fractured couples, old resentments, and shifting alliances push the Bravo friend group toward more unresolved conflict."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/the-valley-season-3-episode-7-recap-triggers-and-tiaras/
+  og_title: The Valley Season 3 Episode 7 Recap Triggers and Tiaras - BuzzSoaps!
+  og_description: >-
+    The Valley season 3 episode 7 mixes pageant glamour with emotional fallout
+    as fractured couples, old resentments, and shifting alliances push the Bravo
+    friend group toward more unresolved conflict.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written entertainment recap with strong tone and perfect length, but lacks meta description and has some potentially fabricated specific details about the show."
+quality_note: >-
+  Well-written entertainment recap with strong tone and perfect length, but
+  lacks meta description and has some potentially fabricated specific details
+  about the show.
+image_alt: >-
+  A tiara on a backstage vanity with a tense formal friend group blurred behind
+  it
 ---
 
 The Valley season 3 episode 7, "Triggers and Tiaras," puts the Bravo friend group back under pressure as old resentments, fragile relationships, and public-facing confidence collide. The episode mixes pageant polish with raw emotional fallout, showing how quickly a glamorous setting can expose unresolved tension.
