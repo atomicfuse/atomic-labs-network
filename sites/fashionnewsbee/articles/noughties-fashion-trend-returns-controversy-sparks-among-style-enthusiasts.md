@@ -1,24 +1,39 @@
 ---
-title: "Noughties Fashion Trend Returns: Controversy Sparks Among Style Enthusiasts"
-description: "The bandage dress, a figure-hugging style popularized in the early 2000s by Hervé Léger, is making a comeback driven by modern brands like House of CB, appealing to today's fashion-forward consumers."
-type: "standard"
-status: "published"
-publishDate: "2025-06-05T07:41:31+00:00"
-author: "Taylor Winters"
+title: 'Noughties Fashion Trend Returns: Controversy Sparks Among Style Enthusiasts'
+description: >-
+  The bandage dress, a figure-hugging style popularized in the early 2000s by
+  Hervé Léger, is making a comeback driven by modern brands like House of CB,
+  appealing to today's fashion-forward consumers.
+type: standard
+status: published
+publishDate: '2025-06-05T07:41:31+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "noughties-fashion-trend-returns-controversy-sparks-among-style-enthusiasts"
+  - Fashion
+slug: noughties-fashion-trend-returns-controversy-sparks-among-style-enthusiasts
 reading_time: 3
-source_url: "https://fashionnewsbee.com/noughties-fashion-trend-returns-controversy-sparks-among-style-enthusiasts/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/noughties-fashion-trend-returns-controversy-sparks-among-style-enthusiasts/
+imported_from: wordpress
 wp_original_id: 31528
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/noughties-fashion-trend-returns-controversy-sparks-among-style-enthusiasts.webp
 seo:
-  canonical: "https://fashionnewsbee.com/noughties-fashion-trend-returns-controversy-sparks-among-style-enthusiasts/"
-  og_title: "Noughties Fashion Trend Returns: Controversy Sparks Among Style Enthusiasts - Fashion News Bee"
-  og_description: "The bandage dress, known for its figure-hugging design, is making a comeback. Popularized in the early 2000s and originally by Hervé Léger, its resurgence is driven by modern brands like House of CB, appealing to today's fashion-forward consumers."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/06/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/noughties-fashion-trend-returns-controversy-sparks-among-style-enthusiasts/
+  og_title: >-
+    Noughties Fashion Trend Returns: Controversy Sparks Among Style Enthusiasts
+    - Fashion News Bee
+  og_description: >-
+    The bandage dress, known for its figure-hugging design, is making a
+    comeback. Popularized in the early 2000s and originally by Hervé Léger, its
+    resurgence is driven by modern brands like House of CB, appealing to today's
+    fashion-forward consumers.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/06/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Fashion insiders examine a sleek body-hugging dress in a polished modern
+  studio setting.
 ---
 
 The fashion world is no stranger to the cyclical nature of trends, and one such iconic style making a notable return is the bandage dress. Known for its figure-hugging design and popularized in the early 2000s, this garment is again capturing the attention of trendsetters and fashion aficionados worldwide.
