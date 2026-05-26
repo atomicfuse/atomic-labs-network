@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-gm-stock-falls-even-as-company-beats-analyst-expectations-on-earnings
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/gm-stock-falls-even-as-company-beats-analyst-expectations-on-earnings.webp
 reading_time: 2
 quality_score: 67
 score_breakdown:
@@ -36,6 +37,9 @@ quality_note: >-
   Well-structured article with good tone and keyword coverage, but severely
   penalized for being too short at 284 words and lacking specific data to
   support earnings claims.
+image_alt: >-
+  Unbranded car in a sleek studio with abstract market lines suggesting a stock
+  decline.
 ---
 ## GM Delivers Strong Earnings Performance
 
