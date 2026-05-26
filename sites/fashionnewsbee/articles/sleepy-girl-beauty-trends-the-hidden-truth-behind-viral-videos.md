@@ -1,24 +1,40 @@
 ---
-title: "Sleepy Girl Beauty Trends: The Hidden Truth Behind Viral Videos"
-description: "The \"Sleepy Girl\" beauty trend emphasizes a deliberately tired appearance, sparking debate over its laid-back appeal versus concerns about glamorizing fatigue. While it challenges traditional beauty norms, critics worry it may overlook the importance of rest and self-care."
-type: "standard"
-status: "published"
-publishDate: "2025-11-17T09:52:47+00:00"
-author: "Taylor Winters"
+title: 'Sleepy Girl Beauty Trends: The Hidden Truth Behind Viral Videos'
+description: >-
+  The "Sleepy Girl" beauty trend emphasizes a deliberately tired appearance,
+  sparking debate over its laid-back appeal versus concerns about glamorizing
+  fatigue. While it challenges traditional beauty norms, critics worry it may
+  overlook the importance of rest and self-care.
+type: standard
+status: published
+publishDate: '2025-11-17T09:52:47+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-slug: "sleepy-girl-beauty-trends-the-hidden-truth-behind-viral-videos"
+  - Beauty
+slug: sleepy-girl-beauty-trends-the-hidden-truth-behind-viral-videos
 reading_time: 3
-source_url: "https://fashionnewsbee.com/sleepy-girl-beauty-trends-the-hidden-truth-behind-viral-videos/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/sleepy-girl-beauty-trends-the-hidden-truth-behind-viral-videos/
+imported_from: wordpress
 wp_original_id: 31589
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/sleepy-girl-beauty-trends-the-hidden-truth-behind-viral-videos.webp
 seo:
-  canonical: "https://fashionnewsbee.com/sleepy-girl-beauty-trends-the-hidden-truth-behind-viral-videos/"
-  og_title: "Sleepy Girl Beauty Trends: The Hidden Truth Behind Viral Videos - Fashion News Bee"
-  og_description: "The \"Sleepy Girl\" beauty trend emphasizes a deliberately tired appearance, sparking debate over its laid-back appeal versus concerns about glamorizing fatigue. While it challenges traditional beauty norms, critics worry it may overlook the importance of rest and self-care."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/11/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/sleepy-girl-beauty-trends-the-hidden-truth-behind-viral-videos/
+  og_title: >-
+    Sleepy Girl Beauty Trends: The Hidden Truth Behind Viral Videos - Fashion
+    News Bee
+  og_description: >-
+    The "Sleepy Girl" beauty trend emphasizes a deliberately tired appearance,
+    sparking debate over its laid-back appeal versus concerns about glamorizing
+    fatigue. While it challenges traditional beauty norms, critics worry it may
+    overlook the importance of rest and self-care.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/11/make_file-4.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  A tired-looking beauty model at a dawn-lit vanity with smudged makeup and
+  soft, uneasy styling.
 ---
 
 In recent months, a new beauty trend known as the "Sleepy Girl" look has emerged, captivating the attention of beauty enthusiasts worldwide. This trend, characterized by a deliberately tired and droopy appearance, has sparked significant interest and debate within the beauty community. While some embrace the aesthetic for its laid-back appeal, others express concern about the implications of glorifying a fatigued look.
