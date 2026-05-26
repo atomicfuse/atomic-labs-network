@@ -1,29 +1,36 @@
 ---
-title: "Unraveling the Mysteries of Alor Island: A Historical Enigma"
-description: "Discover the mysterious occurrences on Alor Island, Indonesia, where unexplained events challenge both science and folklore."
-type: "standard"
-status: "review"
-publishDate: "2026-02-16T12:49:28+00:00"
-author: "Blake Anderson"
+title: 'Unraveling the Mysteries of Alor Island: A Historical Enigma'
+description: >-
+  Discover the mysterious occurrences on Alor Island, Indonesia, where
+  unexplained events challenge both science and folklore.
+type: standard
+status: review
+publishDate: '2026-02-16T12:49:28+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "unraveling-the-mysteries-of-alor-island-a-historical-enigma"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: unraveling-the-mysteries-of-alor-island-a-historical-enigma
 reading_time: 2
-source_url: "https://stroylab.com/unraveling-the-mysteries-of-alor-island-a-historical-enigma/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/unraveling-the-mysteries-of-alor-island-a-historical-enigma/
+imported_from: wordpress
 wp_original_id: 787
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/unraveling-the-mysteries-of-alor-island-a-historical-enigma.webp
 seo:
-  canonical: "https://stroylab.com/unraveling-the-mysteries-of-alor-island-a-historical-enigma/"
-  og_title: "Unraveling the Mysteries of Alor Island: A Historical Enigma - StroyLab"
-  og_description: "Discover the mysterious occurrences on Alor Island, Indonesia, where unexplained events challenge both science and folklore."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/unraveling-the-mysteries-of-alor-island-a-historical-enigma/
+  og_title: 'Unraveling the Mysteries of Alor Island: A Historical Enigma - StroyLab'
+  og_description: >-
+    Discover the mysterious occurrences on Alor Island, Indonesia, where
+    unexplained events challenge both science and folklore.
+  twitter_card: summary_large_image
 videos:
-  - id: "714fac26"
-    url: "https://www.youtube.com/watch?v=u8ZjOPURIv8"
-    position: "after-paragraph-2"
+  - id: 714fac26
+    url: 'https://www.youtube.com/watch?v=u8ZjOPURIv8'
+    position: after-paragraph-2
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -31,7 +38,11 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: "Well-written mystery content with good tone and keyword relevance, but significantly too short at 290 words and contains vague claims that could be fabricated."
+quality_note: >-
+  Well-written mystery content with good tone and keyword relevance, but
+  significantly too short at 290 words and contains vague claims that could be
+  fabricated.
+image_alt: Misty tropical island coastline with ancient stones and volcanic hills at dawn
 ---
 
 Alor Island, a remote part of Indonesia, has remained a source of intrigue and mystery for decades. While many places are known for singular events, Alor Island is distinguished by its persistent and puzzling occurrences that captivate both locals and outsiders. These happenings, which blur the line between folklore and reality, have been documented since the mid-twentieth century, challenging the understanding of traditional science and local myths.
