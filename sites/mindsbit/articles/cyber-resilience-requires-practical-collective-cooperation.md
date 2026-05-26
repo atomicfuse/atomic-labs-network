@@ -1,24 +1,32 @@
 ---
-title: "Cyber Resilience Requires Practical Collective Cooperation"
-description: "Cyber resilience is now a business priority, requiring practical controls, tested recovery plans, trusted suppliers and public-private cooperation to keep essential services running during attacks and protect digital trust."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T09:18:24+00:00"
-author: "Lena Ashwood"
+title: Cyber Resilience Requires Practical Collective Cooperation
+description: >-
+  Cyber resilience is now a business priority, requiring practical controls,
+  tested recovery plans, trusted suppliers and public-private cooperation to
+  keep essential services running during attacks and protect digital trust.
+type: standard
+status: published
+publishDate: '2026-05-04T09:18:24+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "cyber-resilience-requires-practical-collective-cooperation"
+  - Tech
+slug: cyber-resilience-requires-practical-collective-cooperation
 reading_time: 8
-source_url: "https://mindsbit.com/cyber-resilience-requires-practical-collective-cooperation/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/cyber-resilience-requires-practical-collective-cooperation/
+imported_from: wordpress
 wp_original_id: 508
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/cyber-resilience-requires-practical-collective-cooperation.webp
 seo:
-  canonical: "https://mindsbit.com/cyber-resilience-requires-practical-collective-cooperation/"
-  og_title: "Cyber Resilience Requires Practical Collective Cooperation - Minds bit"
-  og_description: "Cyber resilience is now a business priority, requiring practical controls, tested recovery plans, trusted suppliers and public-private cooperation to keep essential services running during attacks and protect digital trust."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/05/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/cyber-resilience-requires-practical-collective-cooperation/
+  og_title: Cyber Resilience Requires Practical Collective Cooperation - Minds bit
+  og_description: >-
+    Cyber resilience is now a business priority, requiring practical controls,
+    tested recovery plans, trusted suppliers and public-private cooperation to
+    keep essential services running during attacks and protect digital trust.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/05/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-structured article with strong content and tone matching the tech-focused audience, though the title could be more compelling for SEO optimization."
+quality_note: >-
+  Well-structured article with strong content and tone matching the tech-focused
+  audience, though the title could be more compelling for SEO optimization.
+image_alt: >-
+  Professionals coordinate around a glowing digital network representing
+  resilient essential services.
 ---
 
 Cyber resilience has become a core business requirement, not a technical side project. As digital systems connect governments, hospitals, banks, manufacturers and supply chains, one weak point can disrupt many others. Organizations now need practical controls, trusted partnerships and shared responsibility to withstand cyberattacks and recover quickly.
