@@ -1,25 +1,36 @@
 ---
-title: "How Cosmere Books Could Inspire Exciting Video Games"
-description: "Brandon Sanderson's Cosmere universe is expanding into video games with \"Isles of Emberdark,\" offering an interactive experience that captures the depth and magic of his novels, allowing players to explore complex worlds and magic systems within an open-world setting."
-type: "standard"
-status: "review"
-publishDate: "2025-07-03T04:25:31+00:00"
-author: "Taylor Winters"
+title: How Cosmere Books Could Inspire Exciting Video Games
+description: >-
+  Brandon Sanderson's Cosmere universe is expanding into video games with "Isles
+  of Emberdark," offering an interactive experience that captures the depth and
+  magic of his novels, allowing players to explore complex worlds and magic
+  systems within an open-world setting.
+type: standard
+status: review
+publishDate: '2025-07-03T04:25:31+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "how-cosmere-books-could-inspire-exciting-video-games"
+  - Gaming News
+  - Community
+slug: how-cosmere-books-could-inspire-exciting-video-games
 reading_time: 4
-source_url: "https://gamingnewsalley.com/how-cosmere-books-could-inspire-exciting-video-games/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/how-cosmere-books-could-inspire-exciting-video-games/
+imported_from: wordpress
 wp_original_id: 42493
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/how-cosmere-books-could-inspire-exciting-video-games.webp
 seo:
-  canonical: "https://gamingnewsalley.com/how-cosmere-books-could-inspire-exciting-video-games/"
-  og_title: "How Cosmere Books Could Inspire Exciting Video Games - Gaming News Alley"
-  og_description: "Brandon Sanderson’s Cosmere universe is expanding into video games with \"Isles of Emberdark,\" offering an interactive experience that captures the depth and magic of his novels, allowing players to explore complex worlds and magic systems within an open-world setting."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/07/make_8-how-every-book-in-brandon-sanderson-s-fantasy-universe-could-work-as-a-game-2.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/how-cosmere-books-could-inspire-exciting-video-games/
+  og_title: How Cosmere Books Could Inspire Exciting Video Games - Gaming News Alley
+  og_description: >-
+    Brandon Sanderson’s Cosmere universe is expanding into video games with
+    "Isles of Emberdark," offering an interactive experience that captures the
+    depth and magic of his novels, allowing players to explore complex worlds
+    and magic systems within an open-world setting.
+  og_image: >-
+    https://gamingnewsalley.com/wp-content/uploads/2025/07/make_8-how-every-book-in-brandon-sanderson-s-fantasy-universe-could-work-as-a-game-2.jpg
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,14 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "While the article demonstrates good tone and keyword integration, it appears to be discussing a fictional game 'Isles of Emberdark' that doesn't exist, severely compromising factual accuracy despite otherwise solid content structure."
+quality_note: >-
+  While the article demonstrates good tone and keyword integration, it appears
+  to be discussing a fictional game 'Isles of Emberdark' that doesn't exist,
+  severely compromising factual accuracy despite otherwise solid content
+  structure.
+image_alt: >-
+  A glowing book and controller open a portal to ember-lit floating islands and
+  magical skies.
 ---
 
 Brandon Sanderson's fantasy universe, known as the Cosmere, has captivated readers worldwide with its intricate storytelling and expansive world-building. Now, the allure of this universe is being translated into an exciting new medium: video games. This venture promises to bring the depth and magic of Sanderson's novels to a broader audience, offering an interactive experience set within the rich tapestry of his renowned series.
