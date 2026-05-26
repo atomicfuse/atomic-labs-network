@@ -1,24 +1,39 @@
 ---
-title: "Power Outage Causes Frozen Waymos to Block San Francisco Traffic"
-description: "Waymo's autonomous vehicles navigated San Francisco's streets during a city-wide power outage, showcasing their ability to handle unexpected challenges. This incident highlighted the importance of robust fail-safes and adaptability in autonomous vehicle technology, critical for future urban environments."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T10:59:32+00:00"
-author: "Arthur Daly"
+title: Power Outage Causes Frozen Waymos to Block San Francisco Traffic
+description: >-
+  Waymo's autonomous vehicles navigated San Francisco's streets during a
+  city-wide power outage, showcasing their ability to handle unexpected
+  challenges. This incident highlighted the importance of robust fail-safes and
+  adaptability in autonomous vehicle technology, critical for future urban
+  environments.
+type: standard
+status: published
+publishDate: '2025-12-22T10:59:32+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "power-outage-causes-frozen-waymos-to-block-san-francisco-traffic"
+  - Tech
+slug: power-outage-causes-frozen-waymos-to-block-san-francisco-traffic
 reading_time: 3
-source_url: "https://geekystudios.com/power-outage-causes-frozen-waymos-to-block-san-francisco-traffic/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/power-outage-causes-frozen-waymos-to-block-san-francisco-traffic/
+imported_from: wordpress
 wp_original_id: 680
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/power-outage-causes-frozen-waymos-to-block-san-francisco-traffic.webp
 seo:
-  canonical: "https://geekystudios.com/power-outage-causes-frozen-waymos-to-block-san-francisco-traffic/"
-  og_title: "Power Outage Causes Frozen Waymos to Block San Francisco Traffic - Geeky Studios"
-  og_description: "Waymo's autonomous vehicles navigated San Francisco's streets during a city-wide power outage, showcasing their ability to handle unexpected challenges. This incident highlighted the importance of robust fail-safes and adaptability in autonomous vehicle technology, critical for future urban environments."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/12/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/power-outage-causes-frozen-waymos-to-block-san-francisco-traffic/
+  og_title: >-
+    Power Outage Causes Frozen Waymos to Block San Francisco Traffic - Geeky
+    Studios
+  og_description: >-
+    Waymo's autonomous vehicles navigated San Francisco's streets during a
+    city-wide power outage, showcasing their ability to handle unexpected
+    challenges. This incident highlighted the importance of robust fail-safes
+    and adaptability in autonomous vehicle technology, critical for future urban
+    environments.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/12/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written tech article with good tone and keyword relevance, but falls short on word count and contains potentially fabricated claims about a specific power outage incident that lacks verifiable details."
+quality_note: >-
+  Well-written tech article with good tone and keyword relevance, but falls
+  short on word count and contains potentially fabricated claims about a
+  specific power outage incident that lacks verifiable details.
+image_alt: Driverless cars stalled in a dark San Francisco intersection during a blackout
 ---
 
 Waymo's autonomous vehicles have been making waves in San Francisco's bustling streets, showcasing the future of transportation. Despite their impressive technology, these self-driving cars recently faced an unexpected challenge—a city-wide power outage that tested their capabilities in unforeseen circumstances.
