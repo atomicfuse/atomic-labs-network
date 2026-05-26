@@ -1,24 +1,31 @@
 ---
-title: "Tennessee Man Wins $100,000 Powerball Prize in Maryland"
-description: "A Tennessee man turned an ordinary day into an extraordinary one by winning a substantial prize from the Maryland Lottery during a casual lunch, demonstrating how a simple decision can lead to life-changing outcomes."
-type: "standard"
-status: "review"
-publishDate: "2026-02-12T10:43:31+00:00"
-author: "Gabe Hernandez"
+title: 'Tennessee Man Wins $100,000 Powerball Prize in Maryland'
+description: >-
+  A Tennessee man turned an ordinary day into an extraordinary one by winning a
+  substantial prize from the Maryland Lottery during a casual lunch,
+  demonstrating how a simple decision can lead to life-changing outcomes.
+type: standard
+status: review
+publishDate: '2026-02-12T10:43:31+00:00'
+author: Gabe Hernandez
 tags:
-  - "Odd News"
-slug: "tennessee-man-wins-100000-powerball-prize-in-maryland"
+  - Odd News
+slug: tennessee-man-wins-100000-powerball-prize-in-maryland
 reading_time: 4
-source_url: "https://funnypigeon.com/tennessee-man-wins-100000-powerball-prize-in-maryland/"
-imported_from: "wordpress"
+source_url: 'https://funnypigeon.com/tennessee-man-wins-100000-powerball-prize-in-maryland/'
+imported_from: wordpress
 wp_original_id: 519
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: /assets/images/tennessee-man-wins-100000-powerball-prize-in-maryland.webp
 seo:
-  canonical: "https://funnypigeon.com/tennessee-man-wins-100000-powerball-prize-in-maryland/"
-  og_title: "Tennessee Man Wins $100,000 Powerball Prize in Maryland - Funny Pigeon"
-  og_description: "A Tennessee man turned an ordinary day into an extraordinary one by winning a substantial prize from the Maryland Lottery during a casual lunch, demonstrating how a simple decision can lead to life-changing outcomes."
-  og_image: "https://funnypigeon.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://funnypigeon.com/tennessee-man-wins-100000-powerball-prize-in-maryland/
+  og_title: 'Tennessee Man Wins $100,000 Powerball Prize in Maryland - Funny Pigeon'
+  og_description: >-
+    A Tennessee man turned an ordinary day into an extraordinary one by winning
+    a substantial prize from the Maryland Lottery during a casual lunch,
+    demonstrating how a simple decision can lead to life-changing outcomes.
+  og_image: 'https://funnypigeon.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 45
   keyword_relevance: 85
-quality_note: "While the article fits the 'Odd News' category well and maintains an engaging tone, it appears to fabricate specific details about a lottery win without clear sourcing, which significantly impacts credibility."
+quality_note: >-
+  While the article fits the 'Odd News' category well and maintains an engaging
+  tone, it appears to fabricate specific details about a lottery win without
+  clear sourcing, which significantly impacts credibility.
+image_alt: >-
+  A stunned traveler in a sunlit diner holds a lottery slip during an ordinary
+  lunch moment.
 ---
 
 A Tennessee man recently experienced an astonishing twist of fate, turning an ordinary day into an extraordinary one by winning a substantial prize from the Maryland Lottery. This remarkable event, which unfolded over a casual lunch, highlights how a simple decision can lead to life-changing outcomes.
