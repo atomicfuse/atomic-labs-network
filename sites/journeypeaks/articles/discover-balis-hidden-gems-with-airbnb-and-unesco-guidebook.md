@@ -1,25 +1,36 @@
 ---
-title: "Discover Bali’s Hidden Gems with Airbnb and UNESCO Guidebook"
-description: "Bali's new cultural guidebook by Airbnb and UNESCO highlights hidden gems, encouraging sustainable tourism and cultural preservation. It offers travelers authentic experiences in lesser-known villages and promotes community engagement while reducing pressure on popular spots."
-type: "standard"
-status: "published"
-publishDate: "2025-09-11T04:39:30+00:00"
-author: "Taylor Winters"
+title: Discover Bali’s Hidden Gems with Airbnb and UNESCO Guidebook
+description: >-
+  Bali's new cultural guidebook by Airbnb and UNESCO highlights hidden gems,
+  encouraging sustainable tourism and cultural preservation. It offers travelers
+  authentic experiences in lesser-known villages and promotes community
+  engagement while reducing pressure on popular spots.
+type: standard
+status: published
+publishDate: '2025-09-11T04:39:30+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "discover-balis-hidden-gems-with-airbnb-and-unesco-guidebook"
+  - Destinations
+  - Travel
+slug: discover-balis-hidden-gems-with-airbnb-and-unesco-guidebook
 reading_time: 3
-source_url: "https://journeypeaks.com/discover-balis-hidden-gems-with-airbnb-and-unesco-guidebook/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/discover-balis-hidden-gems-with-airbnb-and-unesco-guidebook/
+imported_from: wordpress
 wp_original_id: 38688
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-balis-hidden-gems-with-airbnb-and-unesco-guidebook.webp
 seo:
-  canonical: "https://journeypeaks.com/discover-balis-hidden-gems-with-airbnb-and-unesco-guidebook/"
-  og_title: "Discover Bali's Hidden Gems with Airbnb and UNESCO Guidebook - Journey Peaks"
-  og_description: "Bali's new cultural guidebook by Airbnb and UNESCO highlights hidden gems, encouraging sustainable tourism and cultural preservation. It offers travelers authentic experiences in lesser-known villages and promotes community engagement while reducing pressure on popular spots."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/09/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/discover-balis-hidden-gems-with-airbnb-and-unesco-guidebook/
+  og_title: Discover Bali's Hidden Gems with Airbnb and UNESCO Guidebook - Journey Peaks
+  og_description: >-
+    Bali's new cultural guidebook by Airbnb and UNESCO highlights hidden gems,
+    encouraging sustainable tourism and cultural preservation. It offers
+    travelers authentic experiences in lesser-known villages and promotes
+    community engagement while reducing pressure on popular spots.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/09/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written travel content with good tone and keyword relevance, but falls short on length and lacks verification of the Airbnb-UNESCO collaboration claim."
+quality_note: >-
+  Well-written travel content with good tone and keyword relevance, but falls
+  short on length and lacks verification of the Airbnb-UNESCO collaboration
+  claim.
+image_alt: Quiet Balinese village path with rice terraces and artisans at golden hour
 ---
 
 Bali, renowned for its stunning beaches and vibrant culture, now offers travelers an opportunity to delve deeper into its rich tapestry of traditions and hidden locales. A collaborative effort between Airbnb and UNESCO has unveiled a cultural guidebook designed to showcase Bali's lesser-known treasures. This initiative aims to enrich the travel experience by spotlighting unique destinations and cultural practices often overshadowed by mainstream attractions.
