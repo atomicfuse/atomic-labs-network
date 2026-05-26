@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-5000-year-old-elite-womans-remains-discovered-in-peru
 generated_by: claude
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: /assets/images/5000-year-old-elite-womans-remains-discovered-in-peru.webp
 reading_time: 4
 quality_score: 38
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   The article lacks entertainment focus for gigsfreaks audience, has poor SEO
   optimization with vague content, and doesn't align with the site's fun,
   engaging topics like LOL or Funny Animals.
+image_alt: >-
+  Ancient ceremonial objects emerge from a Peruvian excavation site beneath
+  misty Andean mountains.
 ---
 ## Ancient Discovery Captures Global Attention
 
