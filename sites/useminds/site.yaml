@@ -2,7 +2,8 @@ domain: useminds.com
 site_name: useminds
 site_tagline: null
 author: Daniel Rivera
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d72c16f23264031d7a4e
 brief:
