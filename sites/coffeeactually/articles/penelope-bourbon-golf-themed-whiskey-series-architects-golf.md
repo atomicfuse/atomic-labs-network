@@ -22,7 +22,8 @@ source_url: >-
   https://www.forbes.com/sites/david-tao/2026/05/25/penelope-bourbon-introduces-18-bottle-golf-themed-whiskey-series/
 source_item_id: 6a14fea216f23264031d8048
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/penelope-bourbon-golf-themed-whiskey-series-architects-golf.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 25
@@ -34,6 +35,9 @@ quality_note: >-
   The article is well-written about whiskey but completely misaligned with a
   coffee website's focus, lacking relevant coffee keywords and topics.
 reading_time: 3
+image_alt: >-
+  Premium bourbon bottles staged with golf accents, oak staves, and warm amber
+  studio lighting.
 ---
 ## Premium Spirits Meet Golf Culture
 
