@@ -1,28 +1,35 @@
 ---
-title: "Anonymous Unleashes Controversial Video on Overpopulation"
-description: "Anonymous has sparked debate with a video featuring clips of Prince Philip discussing overpopulation concerns, reigniting conversations about environmental sustainability and resource distribution."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:14:29+00:00"
-author: "Nico Harper"
+title: Anonymous Unleashes Controversial Video on Overpopulation
+description: >-
+  Anonymous has sparked debate with a video featuring clips of Prince Philip
+  discussing overpopulation concerns, reigniting conversations about
+  environmental sustainability and resource distribution.
+type: standard
+status: review
+publishDate: '2025-05-05T16:14:29+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-  - "Internet Mysteries"
-slug: "anonymous-unleashes-controversial-video-on-overpopulation"
+  - Hot Trends
+  - Internet Mysteries
+slug: anonymous-unleashes-controversial-video-on-overpopulation
 reading_time: 2
-source_url: "https://gigsfreaks.com/anonymous-unleashes-controversial-video-on-overpopulation/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/anonymous-unleashes-controversial-video-on-overpopulation/
+imported_from: wordpress
 wp_original_id: 881
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/anonymous-unleashes-controversial-video-on-overpopulation.webp
 seo:
-  canonical: "https://gigsfreaks.com/anonymous-unleashes-controversial-video-on-overpopulation/"
-  og_title: "Anonymous Unleashes Controversial Video on Overpopulation - GigsFreaks"
-  og_description: "Anonymous has sparked debate with a video featuring clips of Prince Philip discussing overpopulation concerns."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/anonymous-unleashes-controversial-video-on-overpopulation/
+  og_title: Anonymous Unleashes Controversial Video on Overpopulation - GigsFreaks
+  og_description: >-
+    Anonymous has sparked debate with a video featuring clips of Prince Philip
+    discussing overpopulation concerns.
+  twitter_card: summary_large_image
 videos:
-  - id: "8034084e"
-    url: "https://www.youtube.com/watch?v=NQWgUa_v6ww"
-    position: "after-paragraph-2"
+  - id: 8034084e
+    url: 'https://www.youtube.com/watch?v=NQWgUa_v6ww'
+    position: after-paragraph-2
 quality_score: 53
 score_breakdown:
   seo_quality: 65
@@ -30,7 +37,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 70
   keyword_relevance: 60
-quality_note: "Article is severely underperforming due to extremely short length (253 words vs 800-1200 target) and overly formal tone that doesn't match the entertainment site's engaging, conversational style."
+quality_note: >-
+  Article is severely underperforming due to extremely short length (253 words
+  vs 800-1200 target) and overly formal tone that doesn't match the
+  entertainment site's engaging, conversational style.
+image_alt: >-
+  A dim desk with a glitching anonymous figure on a laptop against a crowded
+  city and Earth backdrop
 ---
 
 The hacking group Anonymous has once again captured public attention with a recent release that has taken social media by storm. The video, unsettling to many, highlights the pressing issue of human overpopulation, featuring clips of the late Prince Philip and other notable figures expressing their concerns.
