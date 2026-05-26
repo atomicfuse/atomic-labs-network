@@ -1,21 +1,29 @@
 ---
-title: "Ancient Egyptian Pyramid Found on Mars: A Mysterious Structure"
-description: "Exploration of Mars reveals enigmatic structures resembling ancient Earth architecture, captured by the HiRISE camera. These intriguing visuals spark theories about potential past civilizations or natural formations, fueling public curiosity and scientific investigation into Mars' geological history and future exploration."
-type: "standard"
-status: "published"
-publishDate: "2026-03-23T13:01:36"
-author: "Taylor Winters"
+title: 'Ancient Egyptian Pyramid Found on Mars: A Mysterious Structure'
+description: >-
+  Exploration of Mars reveals enigmatic structures resembling ancient Earth
+  architecture, captured by the HiRISE camera. These intriguing visuals spark
+  theories about potential past civilizations or natural formations, fueling
+  public curiosity and scientific investigation into Mars' geological history
+  and future exploration.
+type: standard
+status: published
+publishDate: '2026-03-23T13:01:36'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "ancient-egyptian-pyramid-found-on-mars-a-mysterious-structure"
+  - Space
+slug: ancient-egyptian-pyramid-found-on-mars-a-mysterious-structure
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/ancient-egyptian-pyramid-found-on-mars-a-mysterious-structure/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/ancient-egyptian-pyramid-found-on-mars-a-mysterious-structure/
+imported_from: wordpress
 wp_original_id: 15094
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/ancient-egyptian-pyramid-found-on-mars-a-mysterious-structure.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/ancient-egyptian-pyramid-found-on-mars-a-mysterious-structure/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/ancient-egyptian-pyramid-found-on-mars-a-mysterious-structure/
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -23,7 +31,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but falls short on length and has a misleading clickbait title that doesn't match the balanced scientific content."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but falls short on
+  length and has a misleading clickbait title that doesn't match the balanced
+  scientific content.
+image_alt: >-
+  Pyramid-like rock formation casting long shadows across a dusty Martian
+  landscape at dawn.
 ---
 
 Exploration of Mars continues to captivate scientists and the public alike, with the latest images revealing enigmatic structures that resemble ancient Earth architecture. The Red Planet's surface, captured by the HiRISE camera aboard the Mars Reconnaissance Orbiter, has offered intriguing visuals, sparking theories and curiosity about potential past civilizations or natural formations that mimic familiar structures.
