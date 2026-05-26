@@ -1,24 +1,32 @@
 ---
-title: "Benson Boone and Tom Holland Friendship Status Update"
-description: "The budding friendship between singer-songwriter Benson Boone and actor Tom Holland captivates fans, highlighting how their mutual admiration could lead to exciting collaborations, blending music and film, and inspiring creative projects within the entertainment industry."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T09:21:55+00:00"
-author: "Becca Roberts"
+title: Benson Boone and Tom Holland Friendship Status Update
+description: >-
+  The budding friendship between singer-songwriter Benson Boone and actor Tom
+  Holland captivates fans, highlighting how their mutual admiration could lead
+  to exciting collaborations, blending music and film, and inspiring creative
+  projects within the entertainment industry.
+type: standard
+status: review
+publishDate: '2025-05-22T09:21:55+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "benson-boone-and-tom-holland-friendship-status-update"
+  - Culture Buzz
+slug: benson-boone-and-tom-holland-friendship-status-update
 reading_time: 3
-source_url: "https://buzzsoaps.com/benson-boone-and-tom-holland-friendship-status-update/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/benson-boone-and-tom-holland-friendship-status-update/'
+imported_from: wordpress
 wp_original_id: 389
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/benson-boone-and-tom-holland-friendship-status-update.webp
 seo:
-  canonical: "https://buzzsoaps.com/benson-boone-and-tom-holland-friendship-status-update/"
-  og_title: "Benson Boone and Tom Holland Friendship Status Update - BuzzSoaps!"
-  og_description: "The budding friendship between singer-songwriter Benson Boone and actor Tom Holland captivates fans, highlighting how their mutual admiration could lead to exciting collaborations, blending music and film, and inspiring creative projects within the entertainment industry."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-87.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/benson-boone-and-tom-holland-friendship-status-update/'
+  og_title: Benson Boone and Tom Holland Friendship Status Update - BuzzSoaps!
+  og_description: >-
+    The budding friendship between singer-songwriter Benson Boone and actor Tom
+    Holland captivates fans, highlighting how their mutual admiration could lead
+    to exciting collaborations, blending music and film, and inspiring creative
+    projects within the entertainment industry.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-87.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "Well-written piece with engaging tone but severely penalized for apparent fabrication of friendship claims without credible sources, and falls short of target word count."
+quality_note: >-
+  Well-written piece with engaging tone but severely penalized for apparent
+  fabrication of friendship claims without credible sources, and falls short of
+  target word count.
+image_alt: >-
+  Two young performers meet backstage between a concert stage and film set under
+  warm cinematic lights.
 ---
 
 The world of entertainment often brings together unexpected friendships that capture the public's imagination. One such intriguing connection is between singer-songwriter Benson Boone and acclaimed actor Tom Holland. Known for their achievements in music and film respectively, these two stars have sparked interest with their budding friendship.
