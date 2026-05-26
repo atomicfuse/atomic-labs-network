@@ -1,0 +1,112 @@
+domain: yogaterritory.com
+site_name: yogaterritory
+site_tagline: null
+author: Lucas Price
+groups:
+  - ncg
+active: true
+bundle_id: 6a12d70816f23264031d7a48
+brief:
+  audiences:
+    - Healthy Living enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Yoga Poses
+    - Beginner Yoga
+    - Yoga Routines
+    - Meditation
+    - Wellness
+  seo_keywords_focus:
+    - Yoga Poses
+    - Beginner Yoga
+    - Yoga Routines
+    - Meditation
+    - Wellness
+  content_guidelines:
+    - Focus on Healthy Living content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Healthy Living
+  vertical_id: 6a00793d1104bbff809b7c41
+  category_ids:
+    - 6a00793d1104bbff809b7c41
+    - 6a00793e1104bbff809b7d21
+    - 6a00793e1104bbff809b7d27
+    - 6a00793e1104bbff809b7d25
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: modern
+  colors:
+    primary: "#005BAA"
+    accent: "#ef81cb"
+    background: "#FFFFFF"
+    secondary: "#000000"
+    text: "#121212"
+    muted: "#898989"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#121212"
+    link: "#005BAA"
+    link_hover: "#ef81cb"
+    nav_link: "#ffffff"
+    nav_link_hover: "#ef81cb"
+    footer_bg: "#005BAA"
+    must_reads_bg: "#005BAA"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#ffffff"
+    feed_title: "#121212"
+    feed_desc: "#414141"
+    feed_date: "#898989"
+    prose_heading: "#121212"
+    prose_body: "#363636"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 52
+  logo_height_footer: 80
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-L4H3R5C37D
+  gtm: GT-KV5DGKH9
