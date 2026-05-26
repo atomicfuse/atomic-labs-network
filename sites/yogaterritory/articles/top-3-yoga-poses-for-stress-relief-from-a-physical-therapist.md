@@ -1,27 +1,40 @@
 ---
-title: "Top 3 Yoga Poses for Stress Relief from a Physical Therapist"
-description: "Yoga offers a holistic approach to managing stress by integrating specific poses into your routine, improving mental and physical well-being. Regular practice lowers cortisol levels, enhances flexibility, and fosters inner peace, making it ideal for a balanced lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2026-01-22T09:51:38+00:00"
-author: "Taylor Winters"
+title: Top 3 Yoga Poses for Stress Relief from a Physical Therapist
+description: >-
+  Yoga offers a holistic approach to managing stress by integrating specific
+  poses into your routine, improving mental and physical well-being. Regular
+  practice lowers cortisol levels, enhances flexibility, and fosters inner
+  peace, making it ideal for a balanced lifestyle.
+type: standard
+status: published
+publishDate: '2026-01-22T09:51:38+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "top-3-yoga-poses-for-stress-relief-from-a-physical-therapist"
+  - Yoga Poses
+  - Mindfullness
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: top-3-yoga-poses-for-stress-relief-from-a-physical-therapist
 reading_time: 4
-source_url: "https://yogaterritory.com/top-3-yoga-poses-for-stress-relief-from-a-physical-therapist/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/top-3-yoga-poses-for-stress-relief-from-a-physical-therapist/
+imported_from: wordpress
 wp_original_id: 20715
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/top-3-yoga-poses-for-stress-relief-from-a-physical-therapist.webp
 seo:
-  canonical: "https://yogaterritory.com/top-3-yoga-poses-for-stress-relief-from-a-physical-therapist/"
-  og_title: "Top 3 Yoga Poses for Stress Relief from a Physical Therapist - Yoga Territory"
-  og_description: "Yoga offers a holistic approach to managing stress by integrating specific poses into your routine, improving mental and physical well-being. Regular practice lowers cortisol levels, enhances flexibility, and fosters inner peace, making it ideal for a balanced lifestyle."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/01/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/top-3-yoga-poses-for-stress-relief-from-a-physical-therapist/
+  og_title: >-
+    Top 3 Yoga Poses for Stress Relief from a Physical Therapist - Yoga
+    Territory
+  og_description: >-
+    Yoga offers a holistic approach to managing stress by integrating specific
+    poses into your routine, improving mental and physical well-being. Regular
+    practice lowers cortisol levels, enhances flexibility, and fosters inner
+    peace, making it ideal for a balanced lifestyle.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -29,7 +42,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written article with strong keyword relevance and appropriate tone, but falls short on word count (640 vs 800+ target) and could improve SEO elements like title length and meta description optimization."
+quality_note: >-
+  Well-written article with strong keyword relevance and appropriate tone, but
+  falls short on word count (640 vs 800+ target) and could improve SEO elements
+  like title length and meta description optimization.
+image_alt: >-
+  Person practicing restorative yoga in a sunlit calm room with plants and soft
+  natural light.
 ---
 
 Yoga offers a holistic approach to managing stress effectively, according to leading physical therapists. By integrating specific yoga poses into your routine, you can significantly improve your mental and physical well-being, especially during high-stress periods.
