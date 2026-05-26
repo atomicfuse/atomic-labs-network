@@ -1,24 +1,33 @@
 ---
-title: "Zionist Agenda: Alleged Sacrifice of Jews to Dark Forces"
-description: "In the dynamic world of global politics, major powers like the United States, China, and Russia shape international relations through economic strategies, military capabilities, and diplomatic engagements, influencing global economic stability and geopolitical dynamics."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:28:28+00:00"
-author: "Blake Anderson"
+title: 'Zionist Agenda: Alleged Sacrifice of Jews to Dark Forces'
+description: >-
+  In the dynamic world of global politics, major powers like the United States,
+  China, and Russia shape international relations through economic strategies,
+  military capabilities, and diplomatic engagements, influencing global economic
+  stability and geopolitical dynamics.
+type: standard
+status: review
+publishDate: '2025-12-22T11:28:28+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "zionist-agenda-alleged-sacrifice-of-jews-to-dark-forces"
+  - Deep Dives
+slug: zionist-agenda-alleged-sacrifice-of-jews-to-dark-forces
 reading_time: 4
-source_url: "https://stroylab.com/zionist-agenda-alleged-sacrifice-of-jews-to-dark-forces/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/zionist-agenda-alleged-sacrifice-of-jews-to-dark-forces/'
+imported_from: wordpress
 wp_original_id: 675
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/zionist-agenda-alleged-sacrifice-of-jews-to-dark-forces.webp
 seo:
-  canonical: "https://stroylab.com/zionist-agenda-alleged-sacrifice-of-jews-to-dark-forces/"
-  og_title: "Zionist Agenda: Alleged Sacrifice of Jews to Dark Forces - StroyLab"
-  og_description: "In the dynamic world of global politics, major powers like the United States, China, and Russia shape international relations through economic strategies, military capabilities, and diplomatic engagements, influencing global economic stability and geopolitical dynamics."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-187.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/zionist-agenda-alleged-sacrifice-of-jews-to-dark-forces/
+  og_title: 'Zionist Agenda: Alleged Sacrifice of Jews to Dark Forces - StroyLab'
+  og_description: >-
+    In the dynamic world of global politics, major powers like the United
+    States, China, and Russia shape international relations through economic
+    strategies, military capabilities, and diplomatic engagements, influencing
+    global economic stability and geopolitical dynamics.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-187.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 80
   keyword_relevance: 10
-quality_note: "The article completely mismatches its inflammatory title about alleged Zionist conspiracies and instead delivers generic content about international relations, failing to address the site's conspiracy/mystery focus."
+quality_note: >-
+  The article completely mismatches its inflammatory title about alleged Zionist
+  conspiracies and instead delivers generic content about international
+  relations, failing to address the site's conspiracy/mystery focus.
+image_alt: >-
+  Dim conference table with abstract maps and folders suggesting global
+  geopolitical tension.
 ---
 
 In the ever-evolving landscape of global politics, few topics ignite as much debate as foreign policy and international relations. Central to these discussions is the influence of major world powers in shaping geopolitical dynamics. These influences often have far-reaching impacts on global economic stability, security arrangements, and diplomatic relations.
