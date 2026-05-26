@@ -1,26 +1,39 @@
 ---
-title: "Collins Questions Trump on Medical Research Funding Strategy"
-description: "U.S. Senator Susan Collins has raised concerns about the administration's approach to funding medical research, particularly regarding the NIH, seeking clarity on potential changes impacting health programs and stressing the importance of bipartisan support for medical advancements."
-type: "standard"
-status: "published"
-publishDate: "2026-02-05T09:31:26+00:00"
-author: "Taylor Winters"
+title: Collins Questions Trump on Medical Research Funding Strategy
+description: >-
+  U.S. Senator Susan Collins has raised concerns about the administration's
+  approach to funding medical research, particularly regarding the NIH, seeking
+  clarity on potential changes impacting health programs and stressing the
+  importance of bipartisan support for medical advancements.
+type: standard
+status: published
+publishDate: '2026-02-05T09:31:26+00:00'
+author: Taylor Winters
 tags:
-  - "Medical Research"
-  - "Clinical Trials &amp; Research"
-  - "News"
-slug: "collins-questions-trump-on-medical-research-funding-strategy"
+  - Medical Research
+  - Clinical Trials &amp; Research
+  - News
+slug: collins-questions-trump-on-medical-research-funding-strategy
 reading_time: 3
-source_url: "https://medicalnewsalley.com/collins-questions-trump-on-medical-research-funding-strategy/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/collins-questions-trump-on-medical-research-funding-strategy/
+imported_from: wordpress
 wp_original_id: 32563
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/collins-questions-trump-on-medical-research-funding-strategy.webp
 seo:
-  canonical: "https://medicalnewsalley.com/collins-questions-trump-on-medical-research-funding-strategy/"
-  og_title: "Collins Questions Trump on Medical Research Funding Strategy - Medical News Alley"
-  og_description: "U.S. Senator Susan Collins has raised concerns about the administration's approach to funding medical research, particularly regarding the NIH. Her inquiry seeks clarity on potential changes impacting health programs and stresses the importance of bipartisan support for medical advancements."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/collins-questions-trump-on-medical-research-funding-strategy/
+  og_title: >-
+    Collins Questions Trump on Medical Research Funding Strategy - Medical News
+    Alley
+  og_description: >-
+    U.S. Senator Susan Collins has raised concerns about the administration's
+    approach to funding medical research, particularly regarding the NIH. Her
+    inquiry seeks clarity on potential changes impacting health programs and
+    stresses the importance of bipartisan support for medical advancements.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Strong relevance to medical research topics with appropriate tone, but significantly under target word count which limits overall content value."
+quality_note: >-
+  Strong relevance to medical research topics with appropriate tone, but
+  significantly under target word count which limits overall content value.
+image_alt: >-
+  Biomedical lab equipment with the Capitol softly visible, symbolizing medical
+  research funding decisions.
 ---
 
 In a recent development, U.S. Senator Susan Collins has expressed her concerns about the current administration's approach to funding for medical research. Her inquiry comes amid growing uncertainties about how federal resources are allocated to crucial medical initiatives, particularly concerning the National Institutes of Health (NIH). Collins, known for her bipartisan efforts, seeks clarity on the potential changes that could impact various health programs.
