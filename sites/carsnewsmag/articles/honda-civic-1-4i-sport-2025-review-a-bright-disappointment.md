@@ -1,24 +1,35 @@
 ---
-title: "Honda Civic 1.4i Sport 2025 Review: A Bright Disappointment"
-description: "The 1997 Honda Civic 5-Door Hatchback blends practicality and performance, offering reliability and efficiency in a compact design that suits both urban driving and family use."
-type: "standard"
-status: "review"
-publishDate: "2025-10-03T05:21:28+00:00"
-author: "Taylor Winters"
+title: 'Honda Civic 1.4i Sport 2025 Review: A Bright Disappointment'
+description: >-
+  The 1997 Honda Civic 5-Door Hatchback blends practicality and performance,
+  offering reliability and efficiency in a compact design that suits both urban
+  driving and family use.
+type: standard
+status: review
+publishDate: '2025-10-03T05:21:28+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "honda-civic-1-4i-sport-2025-review-a-bright-disappointment"
+  - Reviews
+slug: honda-civic-1-4i-sport-2025-review-a-bright-disappointment
 reading_time: 3
-source_url: "https://carsnewsmag.com/honda-civic-1-4i-sport-2025-review-a-bright-disappointment/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/honda-civic-1-4i-sport-2025-review-a-bright-disappointment/
+imported_from: wordpress
 wp_original_id: 38496
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/honda-civic-1-4i-sport-2025-review-a-bright-disappointment.webp
 seo:
-  canonical: "https://carsnewsmag.com/honda-civic-1-4i-sport-2025-review-a-bright-disappointment/"
-  og_title: "Honda Civic 1.4i Sport 2025 Review: A Bright Disappointment - Cars News Magazine"
-  og_description: "The 1997 Honda Civic 5-Door Hatchback blends practicality and performance, offering reliability and efficiency. Its compact design provides spaciousness for urban and family use, while the sporty trim and efficient engine make it a standout in the compact car category."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/honda-civic-1-4i-sport-2025-review-a-bright-disappointment/
+  og_title: >-
+    Honda Civic 1.4i Sport 2025 Review: A Bright Disappointment - Cars News
+    Magazine
+  og_description: >-
+    The 1997 Honda Civic 5-Door Hatchback blends practicality and performance,
+    offering reliability and efficiency. Its compact design provides
+    spaciousness for urban and family use, while the sporty trim and efficient
+    engine make it a standout in the compact car category.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 15
@@ -26,7 +37,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "Major issues with title/description mismatch (2025 vs 1997 model), poor SEO structure, and confusing content focus significantly impact quality despite decent automotive tone."
+quality_note: >-
+  Major issues with title/description mismatch (2025 vs 1997 model), poor SEO
+  structure, and confusing content focus significantly impact quality despite
+  decent automotive tone.
+image_alt: Late-1990s compact hatchback parked on a sunlit urban street with soft shadows
 ---
 
 The Honda Civic has long been a staple in the compact car segment, celebrated for its reliability and efficiency. The 1997 Honda Civic 5-Door Hatchback continues this tradition, offering a blend of practicality and performance that appeals to a diverse range of drivers. This model, particularly the 1.4i Sport 5dr variant, exemplifies the Civic's ability to balance everyday usability with a hint of sporty flair.
