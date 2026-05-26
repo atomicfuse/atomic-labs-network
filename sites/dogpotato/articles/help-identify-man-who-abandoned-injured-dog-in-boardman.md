@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-help-identify-man-who-abandoned-injured-dog-in-boardman
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/help-identify-man-who-abandoned-injured-dog-in-boardman.webp
 reading_time: 3
 quality_score: 55
 score_breakdown:
@@ -35,6 +35,9 @@ quality_note: >-
   The article has poor SEO optimization with a very long title and lacks proper
   heading structure, plus the content is too short at only 434 words when 800+
   is expected.
+image_alt: >-
+  Empty dog leash and collar on a quiet roadside at dusk, evoking concern for an
+  abandoned pet.
 ---
 ## Community Assistance Needed to Identify Suspect
 
