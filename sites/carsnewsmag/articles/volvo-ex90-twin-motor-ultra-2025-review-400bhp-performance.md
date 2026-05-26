@@ -1,25 +1,39 @@
 ---
-title: "Volvo EX90 Twin Motor Ultra 2025 Review: 400bhp Performance"
-description: "Volvo unveils the EX90, redefining luxury SUVs with cutting-edge technology and sustainable engineering. This electric vehicle combines innovative design, impressive performance, and a commitment to sustainability, setting a new benchmark for eco-conscious drivers in the competitive luxury electric vehicle market."
-type: "standard"
-status: "review"
-publishDate: "2025-12-18T09:21:37+00:00"
-author: "Taylor Winters"
+title: 'Volvo EX90 Twin Motor Ultra 2025 Review: 400bhp Performance'
+description: >-
+  Volvo unveils the EX90, redefining luxury SUVs with cutting-edge technology
+  and sustainable engineering. This electric vehicle combines innovative design,
+  impressive performance, and a commitment to sustainability, setting a new
+  benchmark for eco-conscious drivers in the competitive luxury electric vehicle
+  market.
+type: standard
+status: review
+publishDate: '2025-12-18T09:21:37+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Industry"
-  - "Reviews"
-slug: "volvo-ex90-twin-motor-ultra-2025-review-400bhp-performance"
+  - Electric Cars
+  - Industry
+  - Reviews
+slug: volvo-ex90-twin-motor-ultra-2025-review-400bhp-performance
 reading_time: 3
-source_url: "https://carsnewsmag.com/volvo-ex90-twin-motor-ultra-2025-review-400bhp-performance/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/volvo-ex90-twin-motor-ultra-2025-review-400bhp-performance/
+imported_from: wordpress
 wp_original_id: 38534
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/volvo-ex90-twin-motor-ultra-2025-review-400bhp-performance.webp
 seo:
-  canonical: "https://carsnewsmag.com/volvo-ex90-twin-motor-ultra-2025-review-400bhp-performance/"
-  og_title: "Volvo EX90 Twin Motor Ultra 2025 Review: 400bhp Performance - Cars News Magazine"
-  og_description: "Volvo unveils the EX90, redefining luxury SUVs with cutting-edge technology and sustainable engineering. This electric vehicle combines innovative design, impressive performance, and a commitment to sustainability, setting a new benchmark for eco-conscious drivers in the competitive luxury electric vehicle market."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/volvo-ex90-twin-motor-ultra-2025-review-400bhp-performance/
+  og_title: >-
+    Volvo EX90 Twin Motor Ultra 2025 Review: 400bhp Performance - Cars News
+    Magazine
+  og_description: >-
+    Volvo unveils the EX90, redefining luxury SUVs with cutting-edge technology
+    and sustainable engineering. This electric vehicle combines innovative
+    design, impressive performance, and a commitment to sustainability, setting
+    a new benchmark for eco-conscious drivers in the competitive luxury electric
+    vehicle market.
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance, but significantly under target word count and contains some unverified performance claims that could be factual inaccuracies."
+quality_note: >-
+  Strong tone and keyword relevance, but significantly under target word count
+  and contains some unverified performance claims that could be factual
+  inaccuracies.
+image_alt: >-
+  Sleek luxury electric SUV on a misty coastal road at dawn with a premium
+  futuristic feel
 ---
 
 The automotive world is abuzz with excitement as Volvo unveils the EX90, its latest electric offering that promises to redefine the luxury SUV segment. With its cutting-edge technology and sustainable engineering, the EX90 sets a new benchmark for electric vehicles. This article delves into the features, performance, and innovations that make the Volvo EX90 a standout choice for eco-conscious drivers.
