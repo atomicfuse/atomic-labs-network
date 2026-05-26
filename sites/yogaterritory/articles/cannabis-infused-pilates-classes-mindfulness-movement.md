@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.rimonthly.com/pilates/'
 source_item_id: 6a07fc2a4bdae0614e7aae9a
 generated_by: claude
-featuredImage: /assets/images/yogaterritory-general-article.webp
+featuredImage: /assets/images/cannabis-infused-pilates-classes-mindfulness-movement.webp
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   yogaterritory's core focus on yoga poses, routines, and meditation, instead
   covering an off-topic cannabis fitness trend.
 reading_time: 3
+image_alt: >-
+  A calm group pilates class in warm light with subtle green botanical accents
+  and journals nearby.
 ---
 ## The Rise of Cannabis-Enhanced Wellness
 
