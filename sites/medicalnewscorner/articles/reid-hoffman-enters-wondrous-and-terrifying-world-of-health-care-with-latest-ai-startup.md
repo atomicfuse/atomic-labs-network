@@ -1,24 +1,41 @@
 ---
-title: "Reid Hoffman enters ‘wondrous and terrifying’ world of health care with latest AI startup"
-description: "LinkedIn co-founder Reid Hoffman and oncologist Dr. Siddhartha Mukherjee have launched Manas AI, a startup using artificial intelligence to accelerate drug discovery, starting with new treatments for aggressive cancers like prostate cancer, lymphoma, and triple-negative breast cancer."
-type: "standard"
-status: "published"
-publishDate: "2025-02-02T22:30:16+00:00"
-author: "admin"
+title: >-
+  Reid Hoffman enters ‘wondrous and terrifying’ world of health care with latest
+  AI startup
+description: >-
+  LinkedIn co-founder Reid Hoffman and oncologist Dr. Siddhartha Mukherjee have
+  launched Manas AI, a startup using artificial intelligence to accelerate drug
+  discovery, starting with new treatments for aggressive cancers like prostate
+  cancer, lymphoma, and triple-negative breast cancer.
+type: standard
+status: published
+publishDate: '2025-02-02T22:30:16+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Health, Fitness &amp; Food"
-slug: "reid-hoffman-enters-wondrous-and-terrifying-world-of-health-care-with-latest-ai-startup"
+  - Health News
+  - 'Health, Fitness &amp; Food'
+slug: >-
+  reid-hoffman-enters-wondrous-and-terrifying-world-of-health-care-with-latest-ai-startup
 reading_time: 4
-source_url: "https://medicalnewscorner.com/reid-hoffman-enters-wondrous-and-terrifying-world-of-health-care-with-latest-ai-startup/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/reid-hoffman-enters-wondrous-and-terrifying-world-of-health-care-with-latest-ai-startup/
+imported_from: wordpress
 wp_original_id: 24452
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/reid-hoffman-enters-wondrous-and-terrifying-world-of-health-care-with-latest-ai-startup.webp
 seo:
-  canonical: "https://medicalnewscorner.com/reid-hoffman-enters-wondrous-and-terrifying-world-of-health-care-with-latest-ai-startup/"
-  og_title: "Reid Hoffman enters 'wondrous and terrifying' world of health care with latest AI startup - Medical News Corner"
-  og_description: "Reid Hoffman, Partner at Greylock and co-founder LinkedIn, speaks during the WSJ Tech Live conference hosted by the Wall Street Journal at the Montage Laguna Beach in Laguna Beach, California, on October 21, 2024. Frederic J. Brown | Afp | Getty Images LinkedIn co-founder and venture capitalist Reid Hoffman became a billionaire from his business [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/reid-hoffman-enters-wondrous-and-terrifying-world-of-health-care-with-latest-ai-startup/
+  og_title: >-
+    Reid Hoffman enters 'wondrous and terrifying' world of health care with
+    latest AI startup - Medical News Corner
+  og_description: >-
+    Reid Hoffman, Partner at Greylock and co-founder LinkedIn, speaks during the
+    WSJ Tech Live conference hosted by the Wall Street Journal at the Montage
+    Laguna Beach in Laguna Beach, California, on October 21, 2024. Frederic J.
+    Brown | Afp | Getty Images LinkedIn co-founder and venture capitalist Reid
+    Hoffman became a billionaire from his business [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +43,11 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-researched health tech article with good factual accuracy and keyword coverage, but tone leans more business/tech focused than medical health enthusiast audience expects."
+quality_note: >-
+  Well-researched health tech article with good factual accuracy and keyword
+  coverage, but tone leans more business/tech focused than medical health
+  enthusiast audience expects.
+image_alt: Glowing molecular model and AI data patterns in a modern cancer research lab
 ---
 
 LinkedIn co-founder and venture capitalist [Reid Hoffman](https://www.cnbc.com/2025/01/17/billionaire-linkedin-co-founder-traits-entrepreneurs-need-to-succeed.html) became a billionaire from his business social-networking company, and has made lucrative bets on companies including Airbnb and Zynga while also backing nuclear fusion startup Helion Energy.
