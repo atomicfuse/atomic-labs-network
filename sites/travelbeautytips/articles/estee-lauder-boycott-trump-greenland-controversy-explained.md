@@ -1,25 +1,37 @@
 ---
-title: "Estée Lauder Boycott: Trump-Greenland Controversy Explained"
-description: "The Estée Lauder boycott controversy explains how Donald Trump's remarks about purchasing Greenland from Denmark, combined with Ronald Lauder's ties to the former president, sparked social media-driven calls to boycott the cosmetics brand."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T09:43:29+00:00"
-author: "Taylor Winters"
+title: 'Estée Lauder Boycott: Trump-Greenland Controversy Explained'
+description: >-
+  The Estée Lauder boycott controversy explains how Donald Trump's remarks about
+  purchasing Greenland from Denmark, combined with Ronald Lauder's ties to the
+  former president, sparked social media-driven calls to boycott the cosmetics
+  brand.
+type: standard
+status: review
+publishDate: '2026-02-05T09:43:29+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "estee-lauder-boycott-trump-greenland-controversy-explained"
+  - Travel Tips
+  - Beauty
+slug: estee-lauder-boycott-trump-greenland-controversy-explained
 reading_time: 4
-source_url: "https://travelbeautytips.com/estee-lauder-boycott-trump-greenland-controversy-explained/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/estee-lauder-boycott-trump-greenland-controversy-explained/
+imported_from: wordpress
 wp_original_id: 36142
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/estee-lauder-boycott-trump-greenland-controversy-explained.webp
 seo:
-  canonical: "https://travelbeautytips.com/estee-lauder-boycott-trump-greenland-controversy-explained/"
-  og_title: "Estée Lauder Boycott: Trump-Greenland Controversy Explained - Travel Beauty Tips"
-  og_description: "The Estee Lauder controversy highlights the impact of political affiliations on consumer behavior, as calls for a boycott emerged following Donald Trump's remarks about Greenland. Social media activism has intensified scrutiny on the brand's perceived political connections."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/estee-lauder-boycott-trump-greenland-controversy-explained/
+  og_title: >-
+    Estée Lauder Boycott: Trump-Greenland Controversy Explained - Travel Beauty
+    Tips
+  og_description: >-
+    The Estee Lauder controversy highlights the impact of political affiliations
+    on consumer behavior, as calls for a boycott emerged following Donald
+    Trump's remarks about Greenland. Social media activism has intensified
+    scrutiny on the brand's perceived political connections.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 35
 score_breakdown:
   seo_quality: 25
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 30
-quality_note: "Article has poor SEO structure, fabricated political controversy, insufficient length, and minimal relevance to the site's beauty and travel focus."
+quality_note: >-
+  Article has poor SEO structure, fabricated political controversy, insufficient
+  length, and minimal relevance to the site's beauty and travel focus.
+image_alt: >-
+  Unbranded cosmetics display with Arctic-blue lighting and abstract social
+  media signals
 ---
 
 The recent controversy surrounding a prominent beauty brand has captured global attention, intertwining politics and consumer advocacy. Estée Lauder, a renowned name in cosmetics, finds itself at the center of an unexpected backlash. This incident has sparked a digital uproar, resulting in calls for a boycott driven by political sentiments.
