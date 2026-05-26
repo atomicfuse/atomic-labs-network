@@ -1,24 +1,32 @@
 ---
-title: "Top Destinations to Visit Without a Passport"
-description: "Exploring the world is enriching, but obtaining a passport can be a hassle. Fortunately, U.S. citizens can travel to places like Puerto Rico, the U.S. Virgin Islands, and Guam without a passport, making international adventures more accessible."
-type: "standard"
-status: "published"
-publishDate: "2026-03-16T09:53:26+00:00"
-author: "Taylor Winters"
+title: Top Destinations to Visit Without a Passport
+description: >-
+  Exploring the world is enriching, but obtaining a passport can be a hassle.
+  Fortunately, U.S. citizens can travel to places like Puerto Rico, the U.S.
+  Virgin Islands, and Guam without a passport, making international adventures
+  more accessible.
+type: standard
+status: published
+publishDate: '2026-03-16T09:53:26+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-destinations-to-visit-without-a-passport"
+  - Destinations
+  - Travel
+slug: top-destinations-to-visit-without-a-passport
 reading_time: 4
-source_url: "https://journeypeaks.com/top-destinations-to-visit-without-a-passport/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-destinations-to-visit-without-a-passport/'
+imported_from: wordpress
 wp_original_id: 38825
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-destinations-to-visit-without-a-passport.webp
 seo:
-  canonical: "https://journeypeaks.com/top-destinations-to-visit-without-a-passport/"
-  og_title: "Top Destinations to Visit Without a Passport - Journey Peaks"
-  og_description: "Exploring the world is enriching, but obtaining a passport can be a hassle. Fortunately, U.S. citizens can travel to places like Puerto Rico, the U.S. Virgin Islands, and Guam without a passport, making international adventures more accessible."
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/top-destinations-to-visit-without-a-passport/'
+  og_title: Top Destinations to Visit Without a Passport - Journey Peaks
+  og_description: >-
+    Exploring the world is enriching, but obtaining a passport can be a hassle.
+    Fortunately, U.S. citizens can travel to places like Puerto Rico, the U.S.
+    Virgin Islands, and Guam without a passport, making international adventures
+    more accessible.
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel guide with good keyword coverage and engaging tone, but falls short of optimal length and could improve SEO elements like meta description length."
+quality_note: >-
+  Well-written travel guide with good keyword coverage and engaging tone, but
+  falls short of optimal length and could improve SEO elements like meta
+  description length.
+image_alt: Sunlit suitcase on a tropical balcony overlooking a turquoise island bay
 ---
 
 Exploring the world is an enriching experience, but sometimes, the hassle of procuring a passport can deter potential travelers. Fortunately, there are numerous destinations where U.S. citizens can travel without the need for a passport, making international adventures more accessible and convenient.
