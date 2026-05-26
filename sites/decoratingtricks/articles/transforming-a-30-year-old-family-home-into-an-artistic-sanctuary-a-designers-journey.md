@@ -1,26 +1,44 @@
 ---
-title: "Transforming a 30-Year-Old Family Home into an Artistic Sanctuary: A Designer’s Journey"
-description: "Interior designer Tanya Mallavarapu renovated her in-laws' 30-year-old family residence, creating a visually stunning art haven that seamlessly blends tradition and modernity. Her design overhaul introduced a fresh, contemporary outlook while preserving the home's essence, demonstrating a delicate balance between respecting the past and embracing the future."
-type: "standard"
-status: "review"
-publishDate: "2025-04-01T11:36:07+00:00"
-author: "Taylor Winters"
+title: >-
+  Transforming a 30-Year-Old Family Home into an Artistic Sanctuary: A
+  Designer’s Journey
+description: >-
+  Interior designer Tanya Mallavarapu renovated her in-laws' 30-year-old family
+  residence, creating a visually stunning art haven that seamlessly blends
+  tradition and modernity. Her design overhaul introduced a fresh, contemporary
+  outlook while preserving the home's essence, demonstrating a delicate balance
+  between respecting the past and embracing the future.
+type: standard
+status: review
+publishDate: '2025-04-01T11:36:07+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "Home Improvement"
-slug: "transforming-a-30-year-old-family-home-into-an-artistic-sanctuary-a-designers-journey"
+  - Design
+  - Home
+  - Home Improvement
+slug: >-
+  transforming-a-30-year-old-family-home-into-an-artistic-sanctuary-a-designers-journey
 reading_time: 2
-source_url: "https://decoratingtricks.com/transforming-a-30-year-old-family-home-into-an-artistic-sanctuary-a-designers-journey/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/transforming-a-30-year-old-family-home-into-an-artistic-sanctuary-a-designers-journey/
+imported_from: wordpress
 wp_original_id: 21310
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/transforming-a-30-year-old-family-home-into-an-artistic-sanctuary-a-designers-journey.webp
 seo:
-  canonical: "https://decoratingtricks.com/transforming-a-30-year-old-family-home-into-an-artistic-sanctuary-a-designers-journey/"
-  og_title: "Transforming a 30-Year-Old Family Home into an Artistic Sanctuary: A Designer's Journey - Decorating Tricks"
-  og_description: "Interior designer Tanya Mallavarapu renovated her in-laws' 30-year-old family residence, creating a visually stunning art haven that seamlessly blends tradition and modernity. Her design overhaul introduced a fresh, contemporary outlook while preserving the home's essence, demonstrating a delicate balance between respecting the past and embracing the future."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2025/04/make_file-4.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/transforming-a-30-year-old-family-home-into-an-artistic-sanctuary-a-designers-journey/
+  og_title: >-
+    Transforming a 30-Year-Old Family Home into an Artistic Sanctuary: A
+    Designer's Journey - Decorating Tricks
+  og_description: >-
+    Interior designer Tanya Mallavarapu renovated her in-laws' 30-year-old
+    family residence, creating a visually stunning art haven that seamlessly
+    blends tradition and modernity. Her design overhaul introduced a fresh,
+    contemporary outlook while preserving the home's essence, demonstrating a
+    delicate balance between respecting the past and embracing the future.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2025/04/make_file-4.png'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -28,7 +46,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "The article has good tone and content quality but is significantly too short at 394 words (needs 800-1200) and could benefit from stronger SEO optimization with more targeted keywords."
+quality_note: >-
+  The article has good tone and content quality but is significantly too short
+  at 394 words (needs 800-1200) and could benefit from stronger SEO optimization
+  with more targeted keywords.
+image_alt: >-
+  Sunlit living room blending traditional details with modern art and refined
+  contemporary decor.
 ---
 
 When it comes to home design, the art of transformation is a delicate dance between respecting the past and embracing the future. This was the balancing act that interior designer Tanya Mallavarapu faced when she took on the task of renovating her in-laws' 30-year-old family residence. The result is a visually stunning art haven that seamlessly blends tradition and modernity.
