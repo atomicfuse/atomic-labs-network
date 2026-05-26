@@ -1,26 +1,42 @@
 ---
-title: "Boost Your Protein and Fiber Intake on a Budget: 3 Underrated Foods Revealed by a Dietitian"
-description: "High-fiber, protein-rich foods like lentils, chia seeds, quinoa, hemp seeds, Greek yogurt, and sauerkraut are nutritional powerhouses. Incorporating them into your diet can provide a wealth of health benefits and add variety to your meals, making healthy eating exciting and diverse."
-type: "standard"
-status: "published"
-publishDate: "2025-04-23T16:13:24+00:00"
-author: "Taylor Winters"
+title: >-
+  Boost Your Protein and Fiber Intake on a Budget: 3 Underrated Foods Revealed
+  by a Dietitian
+description: >-
+  High-fiber, protein-rich foods like lentils, chia seeds, quinoa, hemp seeds,
+  Greek yogurt, and sauerkraut are nutritional powerhouses. Incorporating them
+  into your diet can provide a wealth of health benefits and add variety to your
+  meals, making healthy eating exciting and diverse.
+type: standard
+status: published
+publishDate: '2025-04-23T16:13:24+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "boost-your-protein-and-fiber-intake-on-a-budget-3-underrated-foods-revealed-by-a-dietitian"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: >-
+  boost-your-protein-and-fiber-intake-on-a-budget-3-underrated-foods-revealed-by-a-dietitian
 reading_time: 3
-source_url: "https://eznutritiontips.com/boost-your-protein-and-fiber-intake-on-a-budget-3-underrated-foods-revealed-by-a-dietitian/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/boost-your-protein-and-fiber-intake-on-a-budget-3-underrated-foods-revealed-by-a-dietitian/
+imported_from: wordpress
 wp_original_id: 18760
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/boost-your-protein-and-fiber-intake-on-a-budget-3-underrated-foods-revealed-by-a-dietitian.webp
 seo:
-  canonical: "https://eznutritiontips.com/boost-your-protein-and-fiber-intake-on-a-budget-3-underrated-foods-revealed-by-a-dietitian/"
-  og_title: "Boost Your Protein and Fiber Intake on a Budget: 3 Underrated Foods Revealed by a Dietitian - Easy Nutrition Tips"
-  og_description: "High-fiber, protein-rich foods like lentils, chia seeds, quinoa, hemp seeds, Greek yogurt, and sauerkraut are nutritional powerhouses. Incorporating them into your diet can provide a wealth of health benefits and add variety to your meals, making healthy eating exciting and diverse."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-50.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/boost-your-protein-and-fiber-intake-on-a-budget-3-underrated-foods-revealed-by-a-dietitian/
+  og_title: >-
+    Boost Your Protein and Fiber Intake on a Budget: 3 Underrated Foods Revealed
+    by a Dietitian - Easy Nutrition Tips
+  og_description: >-
+    High-fiber, protein-rich foods like lentils, chia seeds, quinoa, hemp seeds,
+    Greek yogurt, and sauerkraut are nutritional powerhouses. Incorporating them
+    into your diet can provide a wealth of health benefits and add variety to
+    your meals, making healthy eating exciting and diverse.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-50.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -28,7 +44,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate nutrition information, but significantly under target word count at 410 words versus the 800-1200 word range."
+quality_note: >-
+  Well-written article with good tone and accurate nutrition information, but
+  significantly under target word count at 410 words versus the 800-1200 word
+  range.
+image_alt: >-
+  Sunlit bowls of protein- and fiber-rich foods arranged on a clean kitchen
+  counter.
 ---
 
 Embarking on a journey to improve your health? High-fiber, protein-rich foods can be your best allies. Yet, some of these nutrient powerhouses often fly under the radar. Let's shine a spotlight on these unsung heroes of a balanced diet.
