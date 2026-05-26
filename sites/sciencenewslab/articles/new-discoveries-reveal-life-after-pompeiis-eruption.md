@@ -1,22 +1,28 @@
 ---
-title: "New Discoveries Reveal Life After Pompeii’s Eruption"
-description: "Archaeologists have found evidence that life continued in Pompeii after the 79 AD eruption of Mount Vesuvius, revealing that the city was not immediately abandoned. These findings challenge previous assumptions and highlight the resilience of its inhabitants."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T07:33:31"
-author: "Taylor Winters"
+title: New Discoveries Reveal Life After Pompeii’s Eruption
+description: >-
+  Archaeologists have found evidence that life continued in Pompeii after the 79
+  AD eruption of Mount Vesuvius, revealing that the city was not immediately
+  abandoned. These findings challenge previous assumptions and highlight the
+  resilience of its inhabitants.
+type: standard
+status: review
+publishDate: '2025-08-07T07:33:31'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "new-discoveries-reveal-life-after-pompeiis-eruption"
+  - Space
+  - Humans
+slug: new-discoveries-reveal-life-after-pompeiis-eruption
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/new-discoveries-reveal-life-after-pompeiis-eruption/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/new-discoveries-reveal-life-after-pompeiis-eruption/
+imported_from: wordpress
 wp_original_id: 14990
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/new-discoveries-reveal-life-after-pompeiis-eruption.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/new-discoveries-reveal-life-after-pompeiis-eruption/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/new-discoveries-reveal-life-after-pompeiis-eruption/
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -24,7 +30,14 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article is well-written about Pompeii archaeology but completely misses the site's science focus areas (Space, Nature, Physics, Technology, Environment), making it poorly suited for sciencenewslab's audience and SEO strategy."
+quality_note: >-
+  The article is well-written about Pompeii archaeology but completely misses
+  the site's science focus areas (Space, Nature, Physics, Technology,
+  Environment), making it poorly suited for sciencenewslab's audience and SEO
+  strategy.
+image_alt: >-
+  Ash-dusted Pompeii ruins at dawn with an oil lamp and Vesuvius in the
+  distance.
 ---
 
 In a remarkable discovery, archaeologists have unearthed compelling evidence that life persisted in Pompeii after the catastrophic eruption of Mount Vesuvius in 79 AD. This groundbreaking finding offers new insights into how the ancient city adapted and survived in the wake of a natural disaster that buried it under volcanic ash and pumice.
