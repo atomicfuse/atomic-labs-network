@@ -1,27 +1,43 @@
 ---
-title: "How Your Eating Habits in Your 60s Can Influence Hip Fracture and Heart Disease Risk"
-description: "Recent research involving over 400,000 participants suggests that a diet rich in fruits, vegetables, whole grains, nuts, and legumes — a plant-based diet — can significantly reduce the risks of fractures and heart complications in people approaching their 60s."
-type: "standard"
-status: "review"
-publishDate: "2025-04-14T04:16:34+00:00"
-author: "Taylor Winters"
+title: >-
+  How Your Eating Habits in Your 60s Can Influence Hip Fracture and Heart
+  Disease Risk
+description: >-
+  Recent research involving over 400,000 participants suggests that a diet rich
+  in fruits, vegetables, whole grains, nuts, and legumes — a plant-based diet —
+  can significantly reduce the risks of fractures and heart complications in
+  people approaching their 60s.
+type: standard
+status: review
+publishDate: '2025-04-14T04:16:34+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Aging"
-  - "Clinical Trials &amp; Research"
-  - "Health, Fitness &amp; Food"
-slug: "how-your-eating-habits-in-your-60s-can-influence-hip-fracture-and-heart-disease-risk"
+  - Research
+  - Aging
+  - Clinical Trials &amp; Research
+  - 'Health, Fitness &amp; Food'
+slug: >-
+  how-your-eating-habits-in-your-60s-can-influence-hip-fracture-and-heart-disease-risk
 reading_time: 2
-source_url: "https://medicalnewscorner.com/how-your-eating-habits-in-your-60s-can-influence-hip-fracture-and-heart-disease-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/how-your-eating-habits-in-your-60s-can-influence-hip-fracture-and-heart-disease-risk/
+imported_from: wordpress
 wp_original_id: 24609
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/how-your-eating-habits-in-your-60s-can-influence-hip-fracture-and-heart-disease-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/how-your-eating-habits-in-your-60s-can-influence-hip-fracture-and-heart-disease-risk/"
-  og_title: "How Your Eating Habits in Your 60s Can Influence Hip Fracture and Heart Disease Risk - Medical News Corner"
-  og_description: "Recent research involving over 400,000 participants suggests that a diet rich in fruits, vegetables, whole grains, nuts, and legumes — a plant-based diet — can significantly reduce the risks of fractures and heart complications in people approaching their 60s."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/how-your-eating-habits-in-your-60s-can-influence-hip-fracture-and-heart-disease-risk/
+  og_title: >-
+    How Your Eating Habits in Your 60s Can Influence Hip Fracture and Heart
+    Disease Risk - Medical News Corner
+  og_description: >-
+    Recent research involving over 400,000 participants suggests that a diet
+    rich in fruits, vegetables, whole grains, nuts, and legumes — a plant-based
+    diet — can significantly reduce the risks of fractures and heart
+    complications in people approaching their 60s.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -29,7 +45,11 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Strong topic relevance and engaging tone, but significantly under word count target and contains potentially fabricated statistics without proper attribution."
+quality_note: >-
+  Strong topic relevance and engaging tone, but significantly under word count
+  target and contains potentially fabricated statistics without proper
+  attribution.
+image_alt: Older couple preparing a colorful plant-based meal in a bright kitchen
 ---
 
 Are you approaching your 60s and worried about potential health issues like fractures and heart complications? Well, you might be looking in the right direction when you think about tweaking your diet. Recent research points to diet as a crucial factor that can help you steer clear of these health concerns in your golden years.
