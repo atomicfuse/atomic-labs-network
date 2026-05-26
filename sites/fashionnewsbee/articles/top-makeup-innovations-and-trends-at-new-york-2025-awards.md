@@ -1,24 +1,38 @@
 ---
-title: "Top Makeup Innovations and Trends at New York 2025 Awards"
-description: "The Makeup in New York 2025 event highlights cutting-edge beauty innovations, focusing on smart devices, sustainable practices, and creative design, while emphasizing eco-friendly solutions and inclusive aesthetics in the evolving cosmetics industry."
-type: "standard"
-status: "published"
-publishDate: "2025-09-18T04:33:23+00:00"
-author: "Taylor Winters"
+title: Top Makeup Innovations and Trends at New York 2025 Awards
+description: >-
+  The Makeup in New York 2025 event highlights cutting-edge beauty innovations,
+  focusing on smart devices, sustainable practices, and creative design, while
+  emphasizing eco-friendly solutions and inclusive aesthetics in the evolving
+  cosmetics industry.
+type: standard
+status: published
+publishDate: '2025-09-18T04:33:23+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-slug: "top-makeup-innovations-and-trends-at-new-york-2025-awards"
+  - Beauty
+slug: top-makeup-innovations-and-trends-at-new-york-2025-awards
 reading_time: 3
-source_url: "https://fashionnewsbee.com/top-makeup-innovations-and-trends-at-new-york-2025-awards/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/top-makeup-innovations-and-trends-at-new-york-2025-awards/
+imported_from: wordpress
 wp_original_id: 31557
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-makeup-innovations-and-trends-at-new-york-2025-awards.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-makeup-innovations-and-trends-at-new-york-2025-awards/"
-  og_title: "Top Makeup Innovations and Trends at New York 2025 Awards - Fashion News Bee"
-  og_description: "The Makeup in New York 2025 event highlights cutting-edge beauty innovations, focusing on smart devices, sustainable practices, and creative design. It promises to redefine makeup application and emphasizes eco-friendly solutions and inclusive aesthetics in the evolving cosmetics industry."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/09/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/top-makeup-innovations-and-trends-at-new-york-2025-awards/
+  og_title: Top Makeup Innovations and Trends at New York 2025 Awards - Fashion News Bee
+  og_description: >-
+    The Makeup in New York 2025 event highlights cutting-edge beauty
+    innovations, focusing on smart devices, sustainable practices, and creative
+    design. It promises to redefine makeup application and emphasizes
+    eco-friendly solutions and inclusive aesthetics in the evolving cosmetics
+    industry.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/09/make_file-1.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Futuristic sustainable cosmetics arranged with inclusive tones and soft New
+  York studio lighting
 ---
 
 The world of cosmetics is constantly evolving, with new trends and innovations emerging every year. The Makeup in New York 2025 event promises to be a groundbreaking showcase of these advancements, setting the stage for what is to come in the beauty industry. Held annually, this event draws industry leaders from around the globe to present the latest in makeup technology, sustainable practices, and creative design.
