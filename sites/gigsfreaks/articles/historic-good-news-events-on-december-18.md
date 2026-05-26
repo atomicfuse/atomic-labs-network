@@ -1,24 +1,32 @@
 ---
-title: "Historic Good News Events on December 18"
-description: "December 18th has witnessed remarkable moments, from the launch of Project SCORE in 1958 to Keith Richards' birth in 1943, showcasing advances in technology, music, and literature. This date is rich with historical significance and cultural milestones."
-type: "standard"
-status: "review"
-publishDate: "2025-12-18T10:23:28+00:00"
-author: "Nico Harper"
+title: Historic Good News Events on December 18
+description: >-
+  December 18th has witnessed remarkable moments, from the launch of Project
+  SCORE in 1958 to Keith Richards' birth in 1943, showcasing advances in
+  technology, music, and literature. This date is rich with historical
+  significance and cultural milestones.
+type: standard
+status: review
+publishDate: '2025-12-18T10:23:28+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "historic-good-news-events-on-december-18"
+  - Good Vibes
+slug: historic-good-news-events-on-december-18
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-good-news-events-on-december-18/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-good-news-events-on-december-18/'
+imported_from: wordpress
 wp_original_id: 992
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-good-news-events-on-december-18.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-good-news-events-on-december-18/"
-  og_title: "Historic Good News Events on December 18 - GigsFreaks"
-  og_description: "December 18th has witnessed remarkable moments, from the launch of Project SCORE in 1958 to Keith Richards' birth in 1943, showcasing advances in technology, music, and literature. This date is rich with historical significance and cultural milestones."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/12/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historic-good-news-events-on-december-18/'
+  og_title: Historic Good News Events on December 18 - GigsFreaks
+  og_description: >-
+    December 18th has witnessed remarkable moments, from the launch of Project
+    SCORE in 1958 to Keith Richards' birth in 1943, showcasing advances in
+    technology, music, and literature. This date is rich with historical
+    significance and cultural milestones.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/12/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and factual content, but significantly too short at 420 words (target is 800-1200) and needs stronger SEO optimization including meta description length and keyword integration."
+quality_note: >-
+  Well-written article with good tone and factual content, but significantly too
+  short at 420 words (target is 800-1200) and needs stronger SEO optimization
+  including meta description length and keyword integration.
+image_alt: >-
+  Vintage radio, guitar, book, and archival objects connected by warm light in a
+  historian’s study.
 ---
 
 December 18th is a day that has witnessed remarkable moments in history, each contributing to the diverse tapestry of global achievements and cultural milestones. From groundbreaking discoveries to significant cultural events, this date holds a special place in various fields, including science, music, and literature.
