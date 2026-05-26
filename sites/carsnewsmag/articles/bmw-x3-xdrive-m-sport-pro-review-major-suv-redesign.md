@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-bmw-x3-xdrive-m-sport-pro-review-major-suv-redesign
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: /assets/images/bmw-x3-xdrive-m-sport-pro-review-major-suv-redesign.webp
 reading_time: 2
 quality_score: 64
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Article covers relevant automotive news but is significantly too short at 354
   words and lacks specific details, relying heavily on vague 'according to
   reports' statements that raise factual accuracy concerns.
+image_alt: >-
+  Redesigned luxury SUV in a dark studio with dramatic lighting and
+  sport-inspired styling.
 ---
 ## BMW X3 xDrive M Sport Pro Gets Major Overhaul
 
