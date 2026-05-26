@@ -1,22 +1,26 @@
 ---
-title: "4 Diets Proven to Cut Dementia Risk by 28%"
-description: "Recent research shows that specific dietary patterns can reduce dementia risk by up to 28%. Emphasizing fruits, vegetables, whole grains, and healthy fats while minimizing processed foods supports long-term brain health and cognitive function."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T07:49:28"
-author: "Taylor Winters"
+title: 4 Diets Proven to Cut Dementia Risk by 28%
+description: >-
+  Recent research shows that specific dietary patterns can reduce dementia risk
+  by up to 28%. Emphasizing fruits, vegetables, whole grains, and healthy fats
+  while minimizing processed foods supports long-term brain health and cognitive
+  function.
+type: standard
+status: review
+publishDate: '2025-07-10T07:49:28'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "4-diets-proven-to-cut-dementia-risk-by-28"
+  - Space
+  - Humans
+slug: 4-diets-proven-to-cut-dementia-risk-by-28
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/4-diets-proven-to-cut-dementia-risk-by-28/"
-imported_from: "wordpress"
+source_url: 'https://www.sciencenewslab.com/4-diets-proven-to-cut-dementia-risk-by-28/'
+imported_from: wordpress
 wp_original_id: 14982
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/4-diets-proven-to-cut-dementia-risk-by-28.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/4-diets-proven-to-cut-dementia-risk-by-28/"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.sciencenewslab.com/4-diets-proven-to-cut-dementia-risk-by-28/'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 45
@@ -24,7 +28,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 20
-quality_note: "The article has decent tone and structure but completely misses the site's science focus areas, lacks specific research citations, and contains vague health claims without proper scientific backing."
+quality_note: >-
+  The article has decent tone and structure but completely misses the site's
+  science focus areas, lacks specific research citations, and contains vague
+  health claims without proper scientific backing.
+image_alt: Sunlit healthy foods and hands preparing a meal on a kitchen table
 ---
 
 Recent research has unveiled a significant connection between specific dietary patterns and a reduced risk of dementia. By adhering to certain healthy diets, individuals can potentially lower their chances of developing this cognitive condition by up to 28%. This groundbreaking study provides valuable insights for those looking to maintain their brain health through nutritional choices.
