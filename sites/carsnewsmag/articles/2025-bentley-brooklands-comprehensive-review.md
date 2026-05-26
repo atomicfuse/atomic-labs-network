@@ -1,24 +1,32 @@
 ---
-title: "2025 Bentley Brooklands Comprehensive Review"
-description: "The Bentley Brooklands exemplifies luxury and performance with its blend of classic craftsmanship and modern engineering. Its design, powerful V8 engine, and advanced technology create an exhilarating driving experience, making it a standout in the world of luxury coupes."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T09:23:33+00:00"
-author: "Taylor Winters"
+title: 2025 Bentley Brooklands Comprehensive Review
+description: >-
+  The Bentley Brooklands exemplifies luxury and performance with its blend of
+  classic craftsmanship and modern engineering. Its design, powerful V8 engine,
+  and advanced technology create an exhilarating driving experience, making it a
+  standout in the world of luxury coupes.
+type: standard
+status: review
+publishDate: '2025-12-22T09:23:33+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "2025-bentley-brooklands-comprehensive-review"
+  - Reviews
+slug: 2025-bentley-brooklands-comprehensive-review
 reading_time: 3
-source_url: "https://carsnewsmag.com/2025-bentley-brooklands-comprehensive-review/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/2025-bentley-brooklands-comprehensive-review/'
+imported_from: wordpress
 wp_original_id: 38536
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2025-bentley-brooklands-comprehensive-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/2025-bentley-brooklands-comprehensive-review/"
-  og_title: "2025 Bentley Brooklands Comprehensive Review - Cars News Magazine"
-  og_description: "The Bentley Brooklands exemplifies luxury and performance with its blend of classic craftsmanship and modern engineering. Its design, powerful V8 engine, and advanced technology create an exhilarating driving experience, making it a standout in the world of luxury coupes."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/12/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/2025-bentley-brooklands-comprehensive-review/'
+  og_title: 2025 Bentley Brooklands Comprehensive Review - Cars News Magazine
+  og_description: >-
+    The Bentley Brooklands exemplifies luxury and performance with its blend of
+    classic craftsmanship and modern engineering. Its design, powerful V8
+    engine, and advanced technology create an exhilarating driving experience,
+    making it a standout in the world of luxury coupes.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/12/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "While the article has excellent tone and keyword relevance for reviews, it contains significant factual inaccuracies about a discontinued Bentley model being presented as a 2025 vehicle, and falls short of the target word count."
+quality_note: >-
+  While the article has excellent tone and keyword relevance for reviews, it
+  contains significant factual inaccuracies about a discontinued Bentley model
+  being presented as a 2025 vehicle, and falls short of the target word count.
+image_alt: >-
+  Luxury grand coupe on a coastal road at golden hour, evoking elegance and
+  performance.
 ---
 
 The Bentley Brooklands is a testament to luxury and performance, embodying the essence of classic British automotive craftsmanship. This remarkable vehicle combines traditional elegance with modern engineering, making it a standout in the world of luxury coupes. With its impressive performance capabilities and exquisite interior, the Brooklands offers a driving experience that is both exhilarating and refined.
