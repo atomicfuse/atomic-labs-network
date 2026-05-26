@@ -1,25 +1,37 @@
 ---
-title: "Test Driving the UK’s Most Affordable Plug-In Hybrid Car"
-description: "The BYD Atto 2 Hybrid combines modern design with cutting-edge hybrid technology, offering an appealing option for eco-conscious drivers. Its sleek design, advanced powertrain, and emphasis on safety and efficiency make it a strong contender in the compact SUV market."
-type: "standard"
-status: "review"
-publishDate: "2025-11-20T09:23:29+00:00"
-author: "Taylor Winters"
+title: Test Driving the UK’s Most Affordable Plug-In Hybrid Car
+description: >-
+  The BYD Atto 2 Hybrid combines modern design with cutting-edge hybrid
+  technology, offering an appealing option for eco-conscious drivers. Its sleek
+  design, advanced powertrain, and emphasis on safety and efficiency make it a
+  strong contender in the compact SUV market.
+type: standard
+status: review
+publishDate: '2025-11-20T09:23:29+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Industry"
-  - "Reviews"
-slug: "test-driving-the-uks-most-affordable-plug-in-hybrid-car"
+  - Electric Cars
+  - Industry
+  - Reviews
+slug: test-driving-the-uks-most-affordable-plug-in-hybrid-car
 reading_time: 3
-source_url: "https://carsnewsmag.com/test-driving-the-uks-most-affordable-plug-in-hybrid-car/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/test-driving-the-uks-most-affordable-plug-in-hybrid-car/
+imported_from: wordpress
 wp_original_id: 38520
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/test-driving-the-uks-most-affordable-plug-in-hybrid-car.webp
 seo:
-  canonical: "https://carsnewsmag.com/test-driving-the-uks-most-affordable-plug-in-hybrid-car/"
-  og_title: "Test Driving the UK's Most Affordable Plug-In Hybrid Car - Cars News Magazine"
-  og_description: "The BYD Atto 2 Hybrid combines modern design with cutting-edge hybrid technology, offering an appealing option for eco-conscious drivers. Its sleek design, advanced powertrain, and emphasis on safety and efficiency make it a strong contender in the compact SUV market."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/test-driving-the-uks-most-affordable-plug-in-hybrid-car/
+  og_title: >-
+    Test Driving the UK's Most Affordable Plug-In Hybrid Car - Cars News
+    Magazine
+  og_description: >-
+    The BYD Atto 2 Hybrid combines modern design with cutting-edge hybrid
+    technology, offering an appealing option for eco-conscious drivers. Its
+    sleek design, advanced powertrain, and emphasis on safety and efficiency
+    make it a strong contender in the compact SUV market.
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but severely undermined by factual inaccuracies about a non-existent BYD model and insufficient word count for the target length."
+quality_note: >-
+  Strong tone and keyword relevance but severely undermined by factual
+  inaccuracies about a non-existent BYD model and insufficient word count for
+  the target length.
+image_alt: Sleek compact hybrid SUV driving on a misty British road at dawn
 ---
 
 The automotive industry is witnessing a surge in innovation, and the BYD Atto 2 Hybrid is a testament to this evolution. As a fresh entrant in the compact SUV segment, this vehicle combines modern design aesthetics with cutting-edge hybrid technology, promising an intriguing option for eco-conscious drivers.
