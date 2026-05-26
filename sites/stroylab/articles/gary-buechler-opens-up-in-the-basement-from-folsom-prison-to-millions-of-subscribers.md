@@ -1,28 +1,42 @@
 ---
-title: "Gary Buechler Opens Up in The Basement: From Folsom Prison to Millions of Subscribers"
-description: "A new episode of The Basement features Gary Buechler in a revealing conversation with AJ, tracing the lesser-known story behind his memoir, Waiting For, and the life experiences that came before YouTube fame."
-type: "standard"
-status: "review"
-publishDate: "2026-05-04T14:15:15+00:00"
-author: "Blake Anderson"
+title: >-
+  Gary Buechler Opens Up in The Basement: From Folsom Prison to Millions of
+  Subscribers
+description: >-
+  A new episode of The Basement features Gary Buechler in a revealing
+  conversation with AJ, tracing the lesser-known story behind his memoir,
+  Waiting For, and the life experiences that came before YouTube fame.
+type: standard
+status: review
+publishDate: '2026-05-04T14:15:15+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Deep Dives"
-slug: "gary-buechler-opens-up-in-the-basement-from-folsom-prison-to-millions-of-subscribers"
+  - Dark History
+  - Deep Dives
+slug: >-
+  gary-buechler-opens-up-in-the-basement-from-folsom-prison-to-millions-of-subscribers
 reading_time: 6
-source_url: "https://stroylab.com/gary-buechler-opens-up-in-the-basement-from-folsom-prison-to-millions-of-subscribers/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/gary-buechler-opens-up-in-the-basement-from-folsom-prison-to-millions-of-subscribers/
+imported_from: wordpress
 wp_original_id: 808
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/gary-buechler-opens-up-in-the-basement-from-folsom-prison-to-millions-of-subscribers.webp
 seo:
-  canonical: "https://stroylab.com/gary-buechler-opens-up-in-the-basement-from-folsom-prison-to-millions-of-subscribers/"
-  og_title: "Gary Buechler Opens Up in The Basement: From Folsom Prison to Millions of Subscribers - StroyLab"
-  og_description: "A new episode of The Basement features Gary Buechler in a revealing conversation with AJ, tracing the lesser-known story behind his memoir, Waiting For, and the life experiences that came before YouTube fame."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/gary-buechler-opens-up-in-the-basement-from-folsom-prison-to-millions-of-subscribers/
+  og_title: >-
+    Gary Buechler Opens Up in The Basement: From Folsom Prison to Millions of
+    Subscribers - StroyLab
+  og_description: >-
+    A new episode of The Basement features Gary Buechler in a revealing
+    conversation with AJ, tracing the lesser-known story behind his memoir,
+    Waiting For, and the life experiences that came before YouTube fame.
+  twitter_card: summary_large_image
 videos:
-  - id: "08fb5249"
-    url: "https://www.youtube.com/watch?v=KkKJpM456MM"
-    position: "after-paragraph-2"
+  - id: 08fb5249
+    url: 'https://www.youtube.com/watch?v=KkKJpM456MM'
+    position: after-paragraph-2
 quality_score: 66
 score_breakdown:
   seo_quality: 45
@@ -30,7 +44,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 70
   keyword_relevance: 40
-quality_note: "Well-written article with appropriate length and tone, but lacks compelling SEO elements and doesn't strongly align with the site's conspiracy/mystery focus, reading more like entertainment journalism."
+quality_note: >-
+  Well-written article with appropriate length and tone, but lacks compelling
+  SEO elements and doesn't strongly align with the site's conspiracy/mystery
+  focus, reading more like entertainment journalism.
+image_alt: >-
+  Two silhouetted interviewers in a moody basement studio with symbolic shadows
+  and glowing screens.
 ---
 
 Gary Buechler's story, as introduced in the trailer for The Basement, is not framed as a simple origin story about online success. The title alone points to a striking contrast: from Folsom Prison to millions of subscribers. Before the familiar public chapters connected to YouTube, before the audience growth, and before Friday Night Tights, the description presents a very different beginning, one centered on hardship, memory, and moments that most viewers may not have known about.
