@@ -1,24 +1,35 @@
 ---
-title: "Ken Schoolland: Origins of the Philosophy of Liberty Explored"
-description: "Philosophy of liberty emphasizes individual freedom and autonomy, rooted in classical liberalism. Influenced by thinkers like John Locke, it continues to shape political discourse, advocating for personal rights amidst technological advancements and global challenges."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:43:03+00:00"
-author: "Blake Anderson"
+title: 'Ken Schoolland: Origins of the Philosophy of Liberty Explored'
+description: >-
+  Philosophy of liberty emphasizes individual freedom and autonomy, rooted in
+  classical liberalism. Influenced by thinkers like John Locke, it continues to
+  shape political discourse, advocating for personal rights amidst technological
+  advancements and global challenges.
+type: standard
+status: review
+publishDate: '2025-12-22T11:43:03+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "ken-schoolland-origins-of-the-philosophy-of-liberty-explored"
+  - Deep Dives
+slug: ken-schoolland-origins-of-the-philosophy-of-liberty-explored
 reading_time: 3
-source_url: "https://stroylab.com/ken-schoolland-origins-of-the-philosophy-of-liberty-explored/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/ken-schoolland-origins-of-the-philosophy-of-liberty-explored/
+imported_from: wordpress
 wp_original_id: 754
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/ken-schoolland-origins-of-the-philosophy-of-liberty-explored.webp
 seo:
-  canonical: "https://stroylab.com/ken-schoolland-origins-of-the-philosophy-of-liberty-explored/"
-  og_title: "Ken Schoolland: Origins of the Philosophy of Liberty Explored - StroyLab"
-  og_description: "Philosophy of liberty emphasizes individual freedom and autonomy, rooted in classical liberalism. Influenced by thinkers like John Locke, it continues to shape political discourse, advocating for personal rights amidst technological advancements and global challenges."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-224.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/ken-schoolland-origins-of-the-philosophy-of-liberty-explored/
+  og_title: 'Ken Schoolland: Origins of the Philosophy of Liberty Explored - StroyLab'
+  og_description: >-
+    Philosophy of liberty emphasizes individual freedom and autonomy, rooted in
+    classical liberalism. Influenced by thinkers like John Locke, it continues
+    to shape political discourse, advocating for personal rights amidst
+    technological advancements and global challenges.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-224.jpeg'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article is well-written but completely misses the site's focus on sensitive topics like conspiracies and mysteries, instead delivering a standard academic philosophy piece."
+quality_note: >-
+  The article is well-written but completely misses the site's focus on
+  sensitive topics like conspiracies and mysteries, instead delivering a
+  standard academic philosophy piece.
+image_alt: >-
+  Antique desk with open book, compass, and modern skyline suggesting liberty
+  across eras
 ---
 
 Philosophy has always been a cornerstone of human thought, influencing societies and cultures throughout history. One such philosophy that has garnered attention is the philosophy of liberty. This concept underscores the importance of individual freedom and autonomy, fostering a world where personal choice and responsibility are paramount. Understanding its origins and development provides insight into how societies function and the value placed on individual rights.
