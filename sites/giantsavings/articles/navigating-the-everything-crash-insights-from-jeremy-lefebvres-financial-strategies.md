@@ -1,28 +1,41 @@
 ---
-title: "Navigating the Everything Crash: Insights from Jeremy Lefebvre’s Financial Strategies"
-description: "Explore the impact of the 'everything crash' on the stock market with expert insights from Jeremy Lefebvre, including strategies for navigating market downturns and resources for financial education."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T10:33:19+00:00"
-author: "Tony Anderson"
+title: >-
+  Navigating the Everything Crash: Insights from Jeremy Lefebvre’s Financial
+  Strategies
+description: >-
+  Explore the impact of the 'everything crash' on the stock market with expert
+  insights from Jeremy Lefebvre, including strategies for navigating market
+  downturns and resources for financial education.
+type: standard
+status: review
+publishDate: '2026-02-05T10:33:19+00:00'
+author: Tony Anderson
 tags:
-  - "Saving Tips"
-  - "Personal Finance"
-slug: "navigating-the-everything-crash-insights-from-jeremy-lefebvres-financial-strategies"
+  - Saving Tips
+  - Personal Finance
+slug: >-
+  navigating-the-everything-crash-insights-from-jeremy-lefebvres-financial-strategies
 reading_time: 2
-source_url: "https://giant-savings.co/navigating-the-everything-crash-insights-from-jeremy-lefebvres-financial-strategies/"
-imported_from: "wordpress"
+source_url: >-
+  https://giant-savings.co/navigating-the-everything-crash-insights-from-jeremy-lefebvres-financial-strategies/
+imported_from: wordpress
 wp_original_id: 413
-featuredImage: "/assets/images/giantsavings-general-article.webp"
+featuredImage: >-
+  /assets/images/navigating-the-everything-crash-insights-from-jeremy-lefebvres-financial-strategies.webp
 seo:
-  canonical: "https://giant-savings.co/navigating-the-everything-crash-insights-from-jeremy-lefebvres-financial-strategies/"
-  og_title: "Navigating the Everything Crash: Insights from Jeremy Lefebvre's Financial Strategies - Giant Savings"
-  og_description: "Explore the impact of the 'everything crash' on the stock market with expert insights from Jeremy Lefebvre."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://giant-savings.co/navigating-the-everything-crash-insights-from-jeremy-lefebvres-financial-strategies/
+  og_title: >-
+    Navigating the Everything Crash: Insights from Jeremy Lefebvre's Financial
+    Strategies - Giant Savings
+  og_description: >-
+    Explore the impact of the 'everything crash' on the stock market with expert
+    insights from Jeremy Lefebvre.
+  twitter_card: summary_large_image
 videos:
-  - id: "61cb441c"
-    url: "https://www.youtube.com/watch?v=cCRQ41JBU8o"
-    position: "after-paragraph-2"
+  - id: 61cb441c
+    url: 'https://www.youtube.com/watch?v=cCRQ41JBU8o'
+    position: after-paragraph-2
 quality_score: 38
 score_breakdown:
   seo_quality: 25
@@ -30,7 +43,13 @@ score_breakdown:
   content_length: 20
   factual_accuracy: 70
   keyword_relevance: 30
-quality_note: "Article is severely underperforming with only 235 words versus the 800-1200 target, poor SEO optimization, and lacks focus on the site's core personal finance topics like budgeting and saving tips."
+quality_note: >-
+  Article is severely underperforming with only 235 words versus the 800-1200
+  target, poor SEO optimization, and lacks focus on the site's core personal
+  finance topics like budgeting and saving tips.
+image_alt: >-
+  Investor organizing portfolio blocks as abstract market lines fall in the
+  background
 ---
 
 The concept of an 'everything crash' has been a topic of concern for investors worldwide. Financial expert Jeremy Lefebvre provides insights into how such a downturn could impact the stock market and what strategies can be employed to navigate these turbulent times.
