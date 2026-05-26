@@ -1,25 +1,39 @@
 ---
-title: "Israel’s Gaming Industry: The Overlooked Start-Up Success Story"
-description: "The rapid growth of artificial intelligence is reshaping industries by automating tasks, enhancing decision-making, and improving customer experiences, with its impact spanning sectors like healthcare and finance while presenting challenges in ethics and data privacy."
-type: "standard"
-status: "review"
-publishDate: "2026-01-01T09:35:18+00:00"
-author: "Taylor Winters"
+title: 'Israel’s Gaming Industry: The Overlooked Start-Up Success Story'
+description: >-
+  The rapid growth of artificial intelligence is reshaping industries by
+  automating tasks, enhancing decision-making, and improving customer
+  experiences, with its impact spanning sectors like healthcare and finance
+  while presenting challenges in ethics and data privacy.
+type: standard
+status: review
+publishDate: '2026-01-01T09:35:18+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "israels-gaming-industry-the-overlooked-start-up-success-story"
+  - Gaming News
+  - Community
+slug: israels-gaming-industry-the-overlooked-start-up-success-story
 reading_time: 3
-source_url: "https://gamingnewsalley.com/israels-gaming-industry-the-overlooked-start-up-success-story/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/israels-gaming-industry-the-overlooked-start-up-success-story/
+imported_from: wordpress
 wp_original_id: 42582
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/israels-gaming-industry-the-overlooked-start-up-success-story.webp
 seo:
-  canonical: "https://gamingnewsalley.com/israels-gaming-industry-the-overlooked-start-up-success-story/"
-  og_title: "Israel's Gaming Industry: The Overlooked Start-Up Success Story - Gaming News Alley"
-  og_description: "The rapid growth of technology, particularly artificial intelligence, is reshaping industries by automating tasks, enhancing decision-making, and improving customer experiences. AI's impact spans sectors like healthcare and finance, driving innovation while presenting challenges in ethics and data privacy."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/israels-gaming-industry-the-overlooked-start-up-success-story/
+  og_title: >-
+    Israel's Gaming Industry: The Overlooked Start-Up Success Story - Gaming
+    News Alley
+  og_description: >-
+    The rapid growth of technology, particularly artificial intelligence, is
+    reshaping industries by automating tasks, enhancing decision-making, and
+    improving customer experiences. AI's impact spans sectors like healthcare
+    and finance, driving innovation while presenting challenges in ethics and
+    data privacy.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 38
 score_breakdown:
   seo_quality: 15
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article is completely off-topic for a gaming news site, discussing AI in business/healthcare/finance instead of gaming, with a misleading title about Israel's gaming industry that doesn't match the content at all."
+quality_note: >-
+  The article is completely off-topic for a gaming news site, discussing AI in
+  business/healthcare/finance instead of gaming, with a misleading title about
+  Israel's gaming industry that doesn't match the content at all.
+image_alt: >-
+  Modern game development studio overlooking a Mediterranean tech skyline at
+  dusk
 ---
 
 The rapid growth of technology has revolutionized industries worldwide, and the rise of artificial intelligence (AI) is at the forefront of this transformation. As AI continues to evolve, its integration into various sectors is reshaping traditional business models and creating new opportunities for innovation and efficiency.
