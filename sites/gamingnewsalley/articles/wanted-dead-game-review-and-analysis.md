@@ -1,25 +1,33 @@
 ---
-title: "Wanted: Dead Game Review and Analysis"
-description: "\"Wanted: Dead\" offers a thrilling cyberpunk action experience combining fast-paced combat and a gripping narrative. The game features engaging hack-and-slash mechanics, strategic gameplay, and an immersive storyline set in a dystopian future with stunning visuals and audio."
-type: "standard"
-status: "review"
-publishDate: "2025-09-11T04:19:29+00:00"
-author: "Taylor Winters"
+title: 'Wanted: Dead Game Review and Analysis'
+description: >-
+  "Wanted: Dead" offers a thrilling cyberpunk action experience combining
+  fast-paced combat and a gripping narrative. The game features engaging
+  hack-and-slash mechanics, strategic gameplay, and an immersive storyline set
+  in a dystopian future with stunning visuals and audio.
+type: standard
+status: review
+publishDate: '2025-09-11T04:19:29+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Bohemia Interactive"
-slug: "wanted-dead-game-review-and-analysis"
+  - Gaming News
+  - Bohemia Interactive
+slug: wanted-dead-game-review-and-analysis
 reading_time: 2
-source_url: "https://gamingnewsalley.com/wanted-dead-game-review-and-analysis/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/wanted-dead-game-review-and-analysis/'
+imported_from: wordpress
 wp_original_id: 42521
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/wanted-dead-game-review-and-analysis.webp
 seo:
-  canonical: "https://gamingnewsalley.com/wanted-dead-game-review-and-analysis/"
-  og_title: "Wanted: Dead Game Review and Analysis - Gaming News Alley"
-  og_description: "\"Wanted: Dead\" offers a thrilling cyberpunk action experience combining fast-paced combat and a gripping narrative. The game features engaging hack-and-slash mechanics, strategic gameplay, and an immersive storyline set in a dystopian future with stunning visuals and audio."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/09/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/wanted-dead-game-review-and-analysis/'
+  og_title: 'Wanted: Dead Game Review and Analysis - Gaming News Alley'
+  og_description: >-
+    "Wanted: Dead" offers a thrilling cyberpunk action experience combining
+    fast-paced combat and a gripping narrative. The game features engaging
+    hack-and-slash mechanics, strategic gameplay, and an immersive storyline set
+    in a dystopian future with stunning visuals and audio.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/09/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -27,7 +35,11 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Article has good tone and covers gaming content well, but falls significantly short on length (385 vs 800-1200 target) and lacks proper SEO optimization with weak title structure and missing meta description."
+quality_note: >-
+  Article has good tone and covers gaming content well, but falls significantly
+  short on length (385 vs 800-1200 target) and lacks proper SEO optimization
+  with weak title structure and missing meta description.
+image_alt: Cyberpunk fighter in a neon rain-soaked alley with weapons ready
 ---
 
 "Wanted: Dead" introduces gamers to a frenetic world of cyberpunk action, blending fast-paced combat with a narrative filled with intrigue. Set against the backdrop of a dystopian future, this game offers players a unique blend of hack-and-slash mechanics and third-person shooting dynamics, making it a standout in the action genre.
