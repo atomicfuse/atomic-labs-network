@@ -1,25 +1,35 @@
 ---
-title: "Trossard Goal Sends Arsenal Past West Ham in Title Race"
-description: "Leandro Trossard stood out as Arsenal controlled key phases of a heated London derby, while West Ham battled for balance, resilience, and sharper moments at the London Stadium."
-type: "standard"
-status: "review"
-publishDate: "2026-05-11T08:35:03+00:00"
-author: "Taylor Winters"
+title: Trossard Goal Sends Arsenal Past West Ham in Title Race
+description: >-
+  Leandro Trossard stood out as Arsenal controlled key phases of a heated London
+  derby, while West Ham battled for balance, resilience, and sharper moments at
+  the London Stadium.
+type: standard
+status: review
+publishDate: '2026-05-11T08:35:03+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Aaron Ramsdale"
-slug: "trossard-goal-sends-arsenal-past-west-ham-in-title-race"
+  - Latest News
+  - Aaron Ramsdale
+slug: trossard-goal-sends-arsenal-past-west-ham-in-title-race
 reading_time: 6
-source_url: "https://soccernewsreports.com/trossard-goal-sends-arsenal-past-west-ham-in-title-race/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/trossard-goal-sends-arsenal-past-west-ham-in-title-race/
+imported_from: wordpress
 wp_original_id: 38009
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/trossard-goal-sends-arsenal-past-west-ham-in-title-race.webp
 seo:
-  canonical: "https://soccernewsreports.com/trossard-goal-sends-arsenal-past-west-ham-in-title-race/"
-  og_title: "Trossard Goal Sends Arsenal Past West Ham in Title Race - Soccer News Reports"
-  og_description: "Leandro Trossard stood out as Arsenal controlled key phases of a heated London derby, while West Ham battled for balance, resilience, and sharper moments at the London Stadium."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/trossard-goal-sends-arsenal-past-west-ham-in-title-race/
+  og_title: >-
+    Trossard Goal Sends Arsenal Past West Ham in Title Race - Soccer News
+    Reports
+  og_description: >-
+    Leandro Trossard stood out as Arsenal controlled key phases of a heated
+    London derby, while West Ham battled for balance, resilience, and sharper
+    moments at the London Stadium.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "Well-written match analysis with appropriate tone and length, but severely compromised by reporting on a fictional 2025-26 Premier League season that doesn't exist."
+quality_note: >-
+  Well-written match analysis with appropriate tone and length, but severely
+  compromised by reporting on a fictional 2025-26 Premier League season that
+  doesn't exist.
+image_alt: >-
+  A footballer strikes a decisive shot under stadium lights as defenders rush to
+  block.
 ---
 
 West Ham vs Arsenal in the Premier League 2025-26 season delivered another vivid London derby scene at the London Stadium, with Leandro Trossard emerging as one of the central figures in Arsenal's attacking story. The fixture carried the usual edge of a capital rivalry, but it also offered a wider look at Arsenal's rhythm, West Ham's resilience, and the fine margins that shape high-pressure English football battles.
