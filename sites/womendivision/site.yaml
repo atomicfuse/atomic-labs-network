@@ -1,0 +1,118 @@
+domain: womendivision.com
+site_name: womendivision
+site_tagline: null
+author: Sam Cooper
+groups:
+  - outbrain-ads
+  - atl
+active: true
+bundle_id: 6a12d75f16f23264031d7a55
+brief:
+  audiences:
+    - Healthy Living enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Advice
+    - Beauty
+    - Fashion
+    - Fitness
+    - Lifestyle
+    - Mindfullness
+    - Workout Meals
+    - Yoga
+  seo_keywords_focus:
+    - Advice
+    - Beauty
+    - Fashion
+    - Fitness
+    - Lifestyle
+    - Mindfullness
+    - Workout Meals
+    - Yoga
+  content_guidelines:
+    - Focus on Healthy Living content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Healthy Living
+  vertical_id: 6a00793d1104bbff809b7c41
+  category_ids:
+    - 6a00793d1104bbff809b7c41
+    - 6a00793e1104bbff809b7d21
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: modern
+  colors:
+    primary: "#6EC1E4"
+    accent: "#3e6089"
+    background: "#FFFFFF"
+    secondary: "#54595F"
+    text: "#7A7A7A"
+    muted: "#bdbdbd"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#7A7A7A"
+    link: "#6EC1E4"
+    link_hover: "#3e6089"
+    nav_link: "#ffffff"
+    nav_link_hover: "#3e6089"
+    footer_bg: "#3e6089"
+    must_reads_bg: "#3e6089"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#7A7A7A"
+    feed_title: "#7A7A7A"
+    feed_desc: "#959595"
+    feed_date: "#959595"
+    prose_heading: "#7A7A7A"
+    prose_body: "#8e8e8e"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Poppins
+  logo_height: 52
+  logo_height_footer: 76
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  footer_logo: /assets/logo-footer.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-LPFCPG9C7W
+  gtm: GT-T5NXM9NQ
