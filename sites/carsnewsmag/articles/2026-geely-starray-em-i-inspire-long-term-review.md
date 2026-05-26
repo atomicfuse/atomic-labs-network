@@ -1,25 +1,31 @@
 ---
-title: "2026 Geely Starray EM-i Inspire Long-Term Review"
-description: "Geely's Starray EM-i Inspire blends plug-in hybrid efficiency, family-friendly space and generous equipment, positioning itself as a strong-value contender in Australia's growing medium SUV market."
-type: "standard"
-status: "published"
-publishDate: "2026-05-25T08:22:37+00:00"
-author: "Taylor Winters"
+title: 2026 Geely Starray EM-i Inspire Long-Term Review
+description: >-
+  Geely's Starray EM-i Inspire blends plug-in hybrid efficiency, family-friendly
+  space and generous equipment, positioning itself as a strong-value contender
+  in Australia's growing medium SUV market.
+type: standard
+status: published
+publishDate: '2026-05-25T08:22:37+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Reviews"
-slug: "2026-geely-starray-em-i-inspire-long-term-review"
+  - Electric Cars
+  - Reviews
+slug: 2026-geely-starray-em-i-inspire-long-term-review
 reading_time: 7
-source_url: "https://carsnewsmag.com/2026-geely-starray-em-i-inspire-long-term-review/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/2026-geely-starray-em-i-inspire-long-term-review/'
+imported_from: wordpress
 wp_original_id: 38621
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-geely-starray-em-i-inspire-long-term-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-geely-starray-em-i-inspire-long-term-review/"
-  og_title: "2026 Geely Starray EM-i Inspire Long-Term Review - Cars News Magazine"
-  og_description: "Geely’s Starray EM-i Inspire blends plug-in hybrid efficiency, family-friendly space and generous equipment, positioning itself as a strong-value contender in Australia’s growing medium SUV market."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/2026-geely-starray-em-i-inspire-long-term-review/'
+  og_title: 2026 Geely Starray EM-i Inspire Long-Term Review - Cars News Magazine
+  og_description: >-
+    Geely’s Starray EM-i Inspire blends plug-in hybrid efficiency,
+    family-friendly space and generous equipment, positioning itself as a
+    strong-value contender in Australia’s growing medium SUV market.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -27,7 +33,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Excellent automotive review with perfect tone and length, strong keyword coverage, and professional SEO structure, though some minor factual claims about Geely's global connections could be more specific."
+quality_note: >-
+  Excellent automotive review with perfect tone and length, strong keyword
+  coverage, and professional SEO structure, though some minor factual claims
+  about Geely's global connections could be more specific.
+image_alt: Unbadged modern hybrid SUV on an Australian coastal road at golden hour
 ---
 
 The Geely Starray EM-i Inspire arrives with a clear mission: deliver plug-in hybrid efficiency, family-friendly space and premium-style equipment without pushing into luxury SUV pricing. For Australian buyers comparing new medium SUVs, this electrified newcomer is one of the more interesting options to watch.
