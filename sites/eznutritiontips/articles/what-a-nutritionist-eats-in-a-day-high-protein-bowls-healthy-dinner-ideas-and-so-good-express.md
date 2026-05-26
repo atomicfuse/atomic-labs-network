@@ -1,29 +1,43 @@
 ---
-title: "What a Nutritionist Eats in a Day: High-Protein Bowls, Healthy Dinner Ideas and So Good Express"
-description: "A realistic full day of healthy eating inspired by a nutritionist's busy book launch week, featuring high-protein breakfast, balanced lunch bowls and smoky chicken chilli for dinner."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T09:07:52+00:00"
-author: "Taylor Winters"
+title: >-
+  What a Nutritionist Eats in a Day: High-Protein Bowls, Healthy Dinner Ideas
+  and So Good Express
+description: >-
+  A realistic full day of healthy eating inspired by a nutritionist's busy book
+  launch week, featuring high-protein breakfast, balanced lunch bowls and smoky
+  chicken chilli for dinner.
+type: standard
+status: published
+publishDate: '2026-05-18T09:07:52+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "what-a-nutritionist-eats-in-a-day-high-protein-bowls-healthy-dinner-ideas-and-so-good-express"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: >-
+  what-a-nutritionist-eats-in-a-day-high-protein-bowls-healthy-dinner-ideas-and-so-good-express
 reading_time: 5
-source_url: "https://eznutritiontips.com/what-a-nutritionist-eats-in-a-day-high-protein-bowls-healthy-dinner-ideas-and-so-good-express/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/what-a-nutritionist-eats-in-a-day-high-protein-bowls-healthy-dinner-ideas-and-so-good-express/
+imported_from: wordpress
 wp_original_id: 19025
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/what-a-nutritionist-eats-in-a-day-high-protein-bowls-healthy-dinner-ideas-and-so-good-express.webp
 seo:
-  canonical: "https://eznutritiontips.com/what-a-nutritionist-eats-in-a-day-high-protein-bowls-healthy-dinner-ideas-and-so-good-express/"
-  og_title: "What a Nutritionist Eats in a Day: High-Protein Bowls, Healthy Dinner Ideas and So Good Express - Easy Nutrition Tips"
-  og_description: "A realistic full day of healthy eating inspired by a nutritionist’s busy book launch week, featuring high-protein breakfast, balanced lunch bowls and smoky chicken chilli for dinner."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/what-a-nutritionist-eats-in-a-day-high-protein-bowls-healthy-dinner-ideas-and-so-good-express/
+  og_title: >-
+    What a Nutritionist Eats in a Day: High-Protein Bowls, Healthy Dinner Ideas
+    and So Good Express - Easy Nutrition Tips
+  og_description: >-
+    A realistic full day of healthy eating inspired by a nutritionist’s busy
+    book launch week, featuring high-protein breakfast, balanced lunch bowls and
+    smoky chicken chilli for dinner.
+  twitter_card: summary_large_image
 videos:
-  - id: "e0d3618d"
-    url: "https://www.youtube.com/watch?v=k_w2noJOuL4"
-    position: "after-paragraph-2"
+  - id: e0d3618d
+    url: 'https://www.youtube.com/watch?v=k_w2noJOuL4'
+    position: after-paragraph-2
 quality_score: 88
 score_breakdown:
   seo_quality: 75
@@ -31,7 +45,11 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong content that effectively covers nutrition topics with good keyword integration and appropriate length, though the title could be more compelling and the book promotion feels somewhat promotional."
+quality_note: >-
+  Strong content that effectively covers nutrition topics with good keyword
+  integration and appropriate length, though the title could be more compelling
+  and the book promotion feels somewhat promotional.
+image_alt: Healthy meal bowls and smoky chicken chili arranged on a bright kitchen table
 ---
 
 A realistic day of healthy eating does not need to be complicated, restrictive or perfect. In this full-day food diary, the focus is on simple nutrition foundations: easy high-protein meals, balanced bowls, healthy dinner inspiration and practical choices that help keep energy steady when life feels full on.
