@@ -1,25 +1,34 @@
 ---
-title: "Top Nutrition Tip for Optimal Health by Mia Syn"
-description: "Focusing on nutrition is essential for maintaining wellness. Consuming a variety of nutrients like carbohydrates, proteins, fats, vitamins, and minerals supports body functions and enhances overall health, while incorporating whole foods and staying hydrated are key components of a balanced lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T10:31:20+00:00"
-author: "Taylor Winters"
+title: Top Nutrition Tip for Optimal Health by Mia Syn
+description: >-
+  Focusing on nutrition is essential for maintaining wellness. Consuming a
+  variety of nutrients like carbohydrates, proteins, fats, vitamins, and
+  minerals supports body functions and enhances overall health, while
+  incorporating whole foods and staying hydrated are key components of a
+  balanced lifestyle.
+type: standard
+status: published
+publishDate: '2026-01-15T10:31:20+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "top-nutrition-tip-for-optimal-health-by-mia-syn"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: top-nutrition-tip-for-optimal-health-by-mia-syn
 reading_time: 3
-source_url: "https://eznutritiontips.com/top-nutrition-tip-for-optimal-health-by-mia-syn/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/top-nutrition-tip-for-optimal-health-by-mia-syn/'
+imported_from: wordpress
 wp_original_id: 18975
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-nutrition-tip-for-optimal-health-by-mia-syn.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-nutrition-tip-for-optimal-health-by-mia-syn/"
-  og_title: "Top Nutrition Tip for Optimal Health by Mia Syn - Easy Nutrition Tips"
-  og_description: "Focusing on nutrition is essential for maintaining wellness. Consuming a variety of nutrients like carbohydrates, proteins, fats, vitamins, and minerals supports body functions and enhances overall health. Incorporating whole foods and staying hydrated are key components of a balanced lifestyle."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/01/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/top-nutrition-tip-for-optimal-health-by-mia-syn/'
+  og_title: Top Nutrition Tip for Optimal Health by Mia Syn - Easy Nutrition Tips
+  og_description: >-
+    Focusing on nutrition is essential for maintaining wellness. Consuming a
+    variety of nutrients like carbohydrates, proteins, fats, vitamins, and
+    minerals supports body functions and enhances overall health. Incorporating
+    whole foods and staying hydrated are key components of a balanced lifestyle.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/01/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 65
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate information, but falls short on word count (495 vs 800-1200 target) and could benefit from stronger SEO optimization with better keyword integration in headings."
+quality_note: >-
+  Well-written article with good tone and accurate information, but falls short
+  on word count (495 vs 800-1200 target) and could benefit from stronger SEO
+  optimization with better keyword integration in headings.
+image_alt: >-
+  Colorful whole foods and water arranged on a sunlit kitchen table for balanced
+  nutrition.
 ---
 
 Staying healthy is a goal many strive for, yet achieving it often seems elusive. One effective approach to maintaining wellness is to focus on nutrition, the cornerstone of a balanced lifestyle. By making informed dietary choices, individuals can significantly enhance their overall health and vitality.
