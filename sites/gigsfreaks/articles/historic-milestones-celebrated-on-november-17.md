@@ -1,24 +1,32 @@
 ---
-title: "Historic Milestones Celebrated on November 17"
-description: "On November 17th, historical events across music, science, and politics have left a lasting impact. From Rod Stewart's \"Gasoline Alley\" release to the Velvet Revolution, this date marks significant milestones that continue to shape our world today."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T10:18:50+00:00"
-author: "Nico Harper"
+title: Historic Milestones Celebrated on November 17
+description: >-
+  On November 17th, historical events across music, science, and politics have
+  left a lasting impact. From Rod Stewart's "Gasoline Alley" release to the
+  Velvet Revolution, this date marks significant milestones that continue to
+  shape our world today.
+type: standard
+status: review
+publishDate: '2025-11-17T10:18:50+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "historic-milestones-celebrated-on-november-17"
+  - Hot Trends
+slug: historic-milestones-celebrated-on-november-17
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-milestones-celebrated-on-november-17/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-milestones-celebrated-on-november-17/'
+imported_from: wordpress
 wp_original_id: 978
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-milestones-celebrated-on-november-17.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-milestones-celebrated-on-november-17/"
-  og_title: "Historic Milestones Celebrated on November 17 - GigsFreaks"
-  og_description: "On November 17th, historical events across music, science, and politics have left a lasting impact. From Rod Stewart's \"Gasoline Alley\" release to the Velvet Revolution, this date marks significant milestones that continue to shape our world today."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historic-milestones-celebrated-on-november-17/'
+  og_title: Historic Milestones Celebrated on November 17 - GigsFreaks
+  og_description: >-
+    On November 17th, historical events across music, science, and politics have
+    left a lasting impact. From Rod Stewart's "Gasoline Alley" release to the
+    Velvet Revolution, this date marks significant milestones that continue to
+    shape our world today.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: "The article is well-written and factually sound but completely misses the entertainment focus and keyword targets of the site, reading more like an encyclopedia entry than engaging entertainment content."
+quality_note: >-
+  The article is well-written and factually sound but completely misses the
+  entertainment focus and keyword targets of the site, reading more like an
+  encyclopedia entry than engaging entertainment content.
+image_alt: >-
+  Symbolic historical artifacts on a warmly lit archive table representing
+  milestones in music, science, and politics.
 ---
 
 On this day in history, notable events across the globe have shaped various cultural, scientific, and political landscapes, leaving a lasting impact on society. From influential music releases to significant scientific achievements, November 17th holds a treasure trove of fascinating milestones worth exploring.
