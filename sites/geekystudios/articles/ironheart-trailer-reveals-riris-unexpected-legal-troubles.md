@@ -1,24 +1,33 @@
 ---
-title: "Ironheart Trailer Reveals Riri’s Unexpected Legal Troubles"
-description: "Marvel Studios' upcoming Disney+ series, Ironheart, introduces Riri Williams, a brilliant inventor who creates her own advanced armor, blending intelligence and innovation as a new hero in the Marvel universe."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T10:53:18+00:00"
-author: "Arthur Daly"
+title: Ironheart Trailer Reveals Riri’s Unexpected Legal Troubles
+description: >-
+  Marvel Studios' upcoming Disney+ series, Ironheart, introduces Riri Williams,
+  a brilliant inventor who creates her own advanced armor, blending intelligence
+  and innovation as a new hero in the Marvel universe.
+type: standard
+status: review
+publishDate: '2025-05-15T10:53:18+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "ironheart-trailer-reveals-riris-unexpected-legal-troubles"
+  - Pop Culture
+slug: ironheart-trailer-reveals-riris-unexpected-legal-troubles
 reading_time: 3
-source_url: "https://geekystudios.com/ironheart-trailer-reveals-riris-unexpected-legal-troubles/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/ironheart-trailer-reveals-riris-unexpected-legal-troubles/
+imported_from: wordpress
 wp_original_id: 582
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/ironheart-trailer-reveals-riris-unexpected-legal-troubles.webp
 seo:
-  canonical: "https://geekystudios.com/ironheart-trailer-reveals-riris-unexpected-legal-troubles/"
-  og_title: "Ironheart Trailer Reveals Riri's Unexpected Legal Troubles - Geeky Studios"
-  og_description: "Marvel Studios' upcoming series, Ironheart, introduces Riri Williams, a brilliant inventor who creates her own advanced armor. This highly anticipated Disney+ show highlights her journey as a young hero, blending intelligence and innovation in the Marvel universe."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-36.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/ironheart-trailer-reveals-riris-unexpected-legal-troubles/
+  og_title: Ironheart Trailer Reveals Riri's Unexpected Legal Troubles - Geeky Studios
+  og_description: >-
+    Marvel Studios' upcoming series, Ironheart, introduces Riri Williams, a
+    brilliant inventor who creates her own advanced armor. This highly
+    anticipated Disney+ show highlights her journey as a young hero, blending
+    intelligence and innovation in the Marvel universe.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-36.jpeg'
+  twitter_card: summary_large_image
 quality_score: 53
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: "Article has strong pop culture relevance and good tone, but suffers from significant title-content mismatch (no mention of legal troubles), short length, and SEO optimization issues."
+quality_note: >-
+  Article has strong pop culture relevance and good tone, but suffers from
+  significant title-content mismatch (no mention of legal troubles), short
+  length, and SEO optimization issues.
+image_alt: >-
+  Young inventor in a shadowy workshop beside glowing armor parts and legal
+  papers
 ---
 
 Marvel Studios continues to expand its cinematic universe with fresh narratives and fascinating characters. The upcoming series, Ironheart, is set to make waves on Disney+ as it introduces audiences to a new superhero who blends intelligence with innovation. This highly anticipated show follows the journey of Riri Williams, a brilliant inventor who creates her own advanced suit of armor, signaling the rise of a new hero in the Marvel universe.
