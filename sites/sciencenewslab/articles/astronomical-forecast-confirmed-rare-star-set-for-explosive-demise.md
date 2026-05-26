@@ -1,22 +1,29 @@
 ---
-title: "Astronomical Forecast Confirmed: Rare Star Set for Explosive Demise"
-description: "An unusual star named HD74423 has been discovered in a distant part of the cosmos. Identified as a rare 'heartbeat star', its unique behavior verifies a long-held astronomical prediction, captured by the Transiting Exoplanet Survey Satellite (TESS)."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T11:46:32"
-author: "Taylor Winters"
+title: 'Astronomical Forecast Confirmed: Rare Star Set for Explosive Demise'
+description: >-
+  An unusual star named HD74423 has been discovered in a distant part of the
+  cosmos. Identified as a rare 'heartbeat star', its unique behavior verifies a
+  long-held astronomical prediction, captured by the Transiting Exoplanet Survey
+  Satellite (TESS).
+type: standard
+status: review
+publishDate: '2025-04-07T11:46:32'
+author: Taylor Winters
 tags:
-  - "Physics"
-  - "Space"
-slug: "astronomical-forecast-confirmed-rare-star-set-for-explosive-demise"
+  - Physics
+  - Space
+slug: astronomical-forecast-confirmed-rare-star-set-for-explosive-demise
 reading_time: 2
-source_url: "https://www.sciencenewslab.com/astronomical-forecast-confirmed-rare-star-set-for-explosive-demise/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/astronomical-forecast-confirmed-rare-star-set-for-explosive-demise/
+imported_from: wordpress
 wp_original_id: 14932
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/astronomical-forecast-confirmed-rare-star-set-for-explosive-demise.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/astronomical-forecast-confirmed-rare-star-set-for-explosive-demise/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/astronomical-forecast-confirmed-rare-star-set-for-explosive-demise/
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but significantly too short and contains major factual inaccuracies about HD74423 being destined for supernova explosion."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  too short and contains major factual inaccuracies about HD74423 being destined
+  for supernova explosion.
+image_alt: >-
+  A glowing distorted star pulses in deep space, surrounded by faint orbital
+  trails and cosmic dust.
 ---
 
 In a distant part of the cosmos, an unusual star named HD74423 has been discovered, verifying a long-held astronomical prediction. By its unique behaviour, it has been identified as a heartbeat star, destined to explode in a supernova. This astronomical marvel was captured by the Transiting Exoplanet Survey Satellite (TESS), making it the first time such a phenomenon was confirmed.
