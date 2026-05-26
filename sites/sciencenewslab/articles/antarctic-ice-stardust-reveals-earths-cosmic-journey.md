@@ -1,23 +1,28 @@
 ---
-title: "Antarctic Ice Stardust Reveals Earth’s Cosmic Journey"
-description: "Antarctic ice preserves rare iron-60 stardust from ancient supernovae, giving scientists a direct record of interstellar material reaching Earth as the Solar System moves through the Milky Way."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T11:46:47"
-author: "Taylor Winters"
+title: Antarctic Ice Stardust Reveals Earth’s Cosmic Journey
+description: >-
+  Antarctic ice preserves rare iron-60 stardust from ancient supernovae, giving
+  scientists a direct record of interstellar material reaching Earth as the
+  Solar System moves through the Milky Way.
+type: standard
+status: published
+publishDate: '2026-05-11T11:46:47'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Physics"
-  - "Space"
-slug: "antarctic-ice-stardust-reveals-earths-cosmic-journey"
+  - Environment
+  - Physics
+  - Space
+slug: antarctic-ice-stardust-reveals-earths-cosmic-journey
 reading_time: 8
-source_url: "https://www.sciencenewslab.com/antarctic-ice-stardust-reveals-earths-cosmic-journey/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/antarctic-ice-stardust-reveals-earths-cosmic-journey/
+imported_from: wordpress
 wp_original_id: 15103
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/antarctic-ice-stardust-reveals-earths-cosmic-journey.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/antarctic-ice-stardust-reveals-earths-cosmic-journey/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/antarctic-ice-stardust-reveals-earths-cosmic-journey/
+  twitter_card: summary_large_image
 quality_score: 94
 score_breakdown:
   seo_quality: 85
@@ -25,7 +30,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 98
-quality_note: "Excellent science article with strong keyword coverage, perfect length, engaging tone, and accurate content, though SEO elements could be slightly optimized."
+quality_note: >-
+  Excellent science article with strong keyword coverage, perfect length,
+  engaging tone, and accurate content, though SEO elements could be slightly
+  optimized.
+image_alt: >-
+  Antarctic ice under a star-filled sky with subtle glowing particles suggesting
+  cosmic stardust
 ---
 
 Antarctic ice is one of Earth's most powerful natural archives, and new research shows it can preserve evidence from far beyond our planet. Tiny traces of radioactive stardust locked inside polar snow and ice are helping scientists understand how Earth moves through the galaxy, including its passage through clouds of ancient material shaped by long-dead stars.
