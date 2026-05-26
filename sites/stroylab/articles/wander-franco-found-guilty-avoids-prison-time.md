@@ -22,7 +22,7 @@ source_url: >-
   https://www.tmz.com/2026/05/25/wander-franco-found-criminally-responsible-in-minor-abuse-case/
 source_item_id: 6a151f7316f23264031d8117
 generated_by: claude
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/wander-franco-found-guilty-avoids-prison-time.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Well-written sports controversy piece with good tone but falls short on length
   and doesn't fully align with the site's core mystery/conspiracy focus areas.
 reading_time: 3
+image_alt: >-
+  Empty baseball dugout with helmet and bat under courthouse-like shadows,
+  suggesting sports and legal accountability.
 ---
 ## Legal Ruling Shocks Baseball World
 
