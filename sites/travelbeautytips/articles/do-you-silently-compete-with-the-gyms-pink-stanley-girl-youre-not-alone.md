@@ -1,24 +1,37 @@
 ---
-title: "Do You Silently Compete With the Gym’s “Pink Stanley Girl”? You’re Not Alone"
-description: "The \"pink Stanley girl\" gym trend—where people silently compete with a fellow gym-goer—has gone viral on TikTok, and a psychotherapist weighs in on when that kind of social comparison is motivating versus when it becomes unhealthy."
-type: "standard"
-status: "review"
-publishDate: "2025-03-01T19:01:31+00:00"
-author: "admin"
+title: Do You Silently Compete With the Gym’s “Pink Stanley Girl”? You’re Not Alone
+description: >-
+  The "pink Stanley girl" gym trend—where people silently compete with a fellow
+  gym-goer—has gone viral on TikTok, and a psychotherapist weighs in on when
+  that kind of social comparison is motivating versus when it becomes unhealthy.
+type: standard
+status: review
+publishDate: '2025-03-01T19:01:31+00:00'
+author: admin
 tags:
-  - "Travel Tips"
-  - "Weight Loss"
-slug: "do-you-silently-compete-with-the-gyms-pink-stanley-girl-youre-not-alone"
+  - Travel Tips
+  - Weight Loss
+slug: do-you-silently-compete-with-the-gyms-pink-stanley-girl-youre-not-alone
 reading_time: 5
-source_url: "https://travelbeautytips.com/do-you-silently-compete-with-the-gyms-pink-stanley-girl-youre-not-alone/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/do-you-silently-compete-with-the-gyms-pink-stanley-girl-youre-not-alone/
+imported_from: wordpress
 wp_original_id: 35848
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/do-you-silently-compete-with-the-gyms-pink-stanley-girl-youre-not-alone.webp
 seo:
-  canonical: "https://travelbeautytips.com/do-you-silently-compete-with-the-gyms-pink-stanley-girl-youre-not-alone/"
-  og_title: "Do You Silently Compete With the Gym's \"Pink Stanley Girl\"? You're Not Alone - Travel Beauty Tips"
-  og_description: "&#8220;Some girl was trying to make me her pink Stanley girl at the gym . . . and I did not let that happen,&#8221; says creator @majordepressiveepisode in a February TikTok with more than 200,000 likes. Although not explicitly stated, the idea of the &#8220;pink Stanley girl&#8221; is almost universally understood &#x2014; you may have [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/do-you-silently-compete-with-the-gyms-pink-stanley-girl-youre-not-alone/
+  og_title: >-
+    Do You Silently Compete With the Gym's "Pink Stanley Girl"? You're Not Alone
+    - Travel Beauty Tips
+  og_description: >-
+    &#8220;Some girl was trying to make me her pink Stanley girl at the gym . .
+    . and I did not let that happen,&#8221; says creator @majordepressiveepisode
+    in a February TikTok with more than 200,000 likes. Although not explicitly
+    stated, the idea of the &#8220;pink Stanley girl&#8221; is almost
+    universally understood &#x2014; you may have [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 25
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 90
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "While well-written and engaging on gym psychology, this article doesn't align with the site's style and fashion focus, has poor SEO optimization, and lacks relevant keywords for travelbeautytips' target topics."
+quality_note: >-
+  While well-written and engaging on gym psychology, this article doesn't align
+  with the site's style and fashion focus, has poor SEO optimization, and lacks
+  relevant keywords for travelbeautytips' target topics.
+image_alt: >-
+  Two stylish gym-goers train in parallel near a pastel pink tumbler in a bright
+  boutique fitness studio.
 ---
 
 "Some girl was trying to make me her pink Stanley girl at the gym . . . and I did not let that happen," says creator @majordepressiveepisode in [a February TikTok](https://www.tiktok.com/@majordepressiveepisode/video/7473595930055396650) with more than 200,000 likes. Although not explicitly stated, the idea of the "pink Stanley girl" is almost universally understood — you may have even come across one yourself. In essence, it's the person you silently compete with at the gym (presumably someone you think you could beat). The term originally gained traction thanks to [a viral video](https://www.tiktok.com/@ram.arton/video/7469863095339601198) of a man competing against a girl with a pink Stanley water bottle on the Stairmaster. "It's been five hours and she won't get off. Help," the creator wrote.
