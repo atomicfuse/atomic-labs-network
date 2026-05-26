@@ -1,24 +1,41 @@
 ---
-title: "Why Sabrina Carpenter’s Best Pop Vocal Album Speech Got Censored at the 2025 Grammys"
-description: "Sabrina Carpenter won her first Grammy Awards at the 2025 ceremony, taking home Best Pop Vocal Album and Best Pop Solo Performance, but her acceptance speech was partially censored on broadcast for colorful language."
-type: "standard"
-status: "review"
-publishDate: "2025-02-03T09:48:40+00:00"
-author: "admin"
+title: >-
+  Why Sabrina Carpenter’s Best Pop Vocal Album Speech Got Censored at the 2025
+  Grammys
+description: >-
+  Sabrina Carpenter won her first Grammy Awards at the 2025 ceremony, taking
+  home Best Pop Vocal Album and Best Pop Solo Performance, but her acceptance
+  speech was partially censored on broadcast for colorful language.
+type: standard
+status: review
+publishDate: '2025-02-03T09:48:40+00:00'
+author: admin
 tags:
-  - "Culture"
-slug: "why-sabrina-carpenters-best-pop-vocal-album-speech-got-censored-at-the-2025-grammys"
+  - Culture
+slug: >-
+  why-sabrina-carpenters-best-pop-vocal-album-speech-got-censored-at-the-2025-grammys
 reading_time: 3
-source_url: "https://fashionnewsbee.com/why-sabrina-carpenters-best-pop-vocal-album-speech-got-censored-at-the-2025-grammys/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/why-sabrina-carpenters-best-pop-vocal-album-speech-got-censored-at-the-2025-grammys/
+imported_from: wordpress
 wp_original_id: 31271
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/why-sabrina-carpenters-best-pop-vocal-album-speech-got-censored-at-the-2025-grammys.webp
 seo:
-  canonical: "https://fashionnewsbee.com/why-sabrina-carpenters-best-pop-vocal-album-speech-got-censored-at-the-2025-grammys/"
-  og_title: "Why Sabrina Carpenter’s Best Pop Vocal Album Speech Got Censored at the 2025 Grammys - Fashion News Bee"
-  og_description: "Sabrina Carpenter just won her first Grammys&#x2014;yes, plural. The singer, who is up for several awards this evening, took home the trophy for Best Pop Album during the ceremony broadcast. This follows her earlier win ahead of the show for Best Pop Solo Performance (&#x201C;Espresso&#x201D;). Onstage, Carpenter spoke about how this moment is a dream [&hellip;]"
-  og_image: "https://www.elle.com/_assets/design-tokens/fre/static/icons/play.db7c035.svg?primary=%2523ffffff"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/why-sabrina-carpenters-best-pop-vocal-album-speech-got-censored-at-the-2025-grammys/
+  og_title: >-
+    Why Sabrina Carpenter’s Best Pop Vocal Album Speech Got Censored at the 2025
+    Grammys - Fashion News Bee
+  og_description: >-
+    Sabrina Carpenter just won her first Grammys&#x2014;yes, plural. The singer,
+    who is up for several awards this evening, took home the trophy for Best Pop
+    Album during the ceremony broadcast. This follows her earlier win ahead of
+    the show for Best Pop Solo Performance (&#x201C;Espresso&#x201D;). Onstage,
+    Carpenter spoke about how this moment is a dream [&hellip;]
+  og_image: >-
+    https://www.elle.com/_assets/design-tokens/fre/static/icons/play.db7c035.svg?primary=%2523ffffff
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -26,7 +43,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "The article has engaging tone and good cultural relevance, but is severely penalized for fabricating Grammy winners and events from a future ceremony that hasn't occurred."
+quality_note: >-
+  The article has engaging tone and good cultural relevance, but is severely
+  penalized for fabricating Grammy winners and events from a future ceremony
+  that hasn't occurred.
+image_alt: >-
+  Glamorous pop performer at an awards podium under spotlights with a muted
+  microphone motif.
 ---
 
 Sabrina Carpenter just won her first Grammys—yes, plural. The singer, who is up for several awards this evening, took home the trophy for Best Pop Album during the ceremony broadcast. This follows her earlier win ahead of the show for Best Pop Solo Performance ("Espresso").
