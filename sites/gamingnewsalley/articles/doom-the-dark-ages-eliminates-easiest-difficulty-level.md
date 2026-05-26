@@ -1,25 +1,35 @@
 ---
-title: "Doom: The Dark Ages Eliminates Easiest Difficulty Level"
-description: "The gaming community is debating the removal of the 'I'm Too Young to Die' difficulty from Doom: The Dark Ages, a mode that was crucial for newcomers and veterans seeking a relaxed experience, sparking controversy over game accessibility and challenge."
-type: "standard"
-status: "review"
-publishDate: "2025-05-12T05:27:27+00:00"
-author: "Taylor Winters"
+title: 'Doom: The Dark Ages Eliminates Easiest Difficulty Level'
+description: >-
+  The gaming community is debating the removal of the 'I'm Too Young to Die'
+  difficulty from Doom: The Dark Ages, a mode that was crucial for newcomers and
+  veterans seeking a relaxed experience, sparking controversy over game
+  accessibility and challenge.
+type: standard
+status: review
+publishDate: '2025-05-12T05:27:27+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "doom-the-dark-ages-eliminates-easiest-difficulty-level"
+  - Gaming News
+  - Community
+slug: doom-the-dark-ages-eliminates-easiest-difficulty-level
 reading_time: 4
-source_url: "https://gamingnewsalley.com/doom-the-dark-ages-eliminates-easiest-difficulty-level/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/doom-the-dark-ages-eliminates-easiest-difficulty-level/
+imported_from: wordpress
 wp_original_id: 42467
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/doom-the-dark-ages-eliminates-easiest-difficulty-level.webp
 seo:
-  canonical: "https://gamingnewsalley.com/doom-the-dark-ages-eliminates-easiest-difficulty-level/"
-  og_title: "Doom: The Dark Ages Eliminates Easiest Difficulty Level - Gaming News Alley"
-  og_description: "The gaming community is debating the removal of the 'I'm Too Young to Die' difficulty from The Dark Ages. This mode was crucial for newcomers and veterans seeking a relaxed experience, and its absence has sparked controversy over game accessibility and challenge."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/doom-the-dark-ages-eliminates-easiest-difficulty-level/
+  og_title: 'Doom: The Dark Ages Eliminates Easiest Difficulty Level - Gaming News Alley'
+  og_description: >-
+    The gaming community is debating the removal of the 'I'm Too Young to Die'
+    difficulty from The Dark Ages. This mode was crucial for newcomers and
+    veterans seeking a relaxed experience, and its absence has sparked
+    controversy over game accessibility and challenge.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 45
   keyword_relevance: 80
-quality_note: "Article covers relevant gaming news with appropriate tone but suffers from factual accuracy issues regarding unconfirmed difficulty removal and falls short of target word count."
+quality_note: >-
+  Article covers relevant gaming news with appropriate tone but suffers from
+  factual accuracy issues regarding unconfirmed difficulty removal and falls
+  short of target word count.
+image_alt: Armored warrior facing two contrasting paths into a dark gothic fortress
 ---
 
 The iconic first-person shooter Doom has seen some changes that have sparked debate among its fans. The removal of a familiar difficulty setting has caught the attention of gamers worldwide.
