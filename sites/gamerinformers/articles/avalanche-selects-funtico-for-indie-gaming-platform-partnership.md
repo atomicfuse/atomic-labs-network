@@ -1,25 +1,39 @@
 ---
-title: "Avalanche Selects Funtico for Indie Gaming Platform Partnership"
-description: "Avalanche has partnered with Funtico to revolutionize indie gaming by integrating blockchain technology, simplifying game development, and enhancing player experiences with features like verifiable scarcity and secure transactions."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T04:25:23+00:00"
-author: "Taylor Winters"
+title: Avalanche Selects Funtico for Indie Gaming Platform Partnership
+description: >-
+  Avalanche has partnered with Funtico to revolutionize indie gaming by
+  integrating blockchain technology, simplifying game development, and enhancing
+  player experiences with features like verifiable scarcity and secure
+  transactions.
+type: standard
+status: review
+publishDate: '2025-08-28T04:25:23+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "avalanche-selects-funtico-for-indie-gaming-platform-partnership"
+  - Gaming News
+  - Community
+slug: avalanche-selects-funtico-for-indie-gaming-platform-partnership
 reading_time: 3
-source_url: "https://gamerinformers.com/avalanche-selects-funtico-for-indie-gaming-platform-partnership/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/avalanche-selects-funtico-for-indie-gaming-platform-partnership/
+imported_from: wordpress
 wp_original_id: 34053
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/avalanche-selects-funtico-for-indie-gaming-platform-partnership.webp
 seo:
-  canonical: "https://gamerinformers.com/avalanche-selects-funtico-for-indie-gaming-platform-partnership/"
-  og_title: "Avalanche Selects Funtico for Indie Gaming Platform Partnership - Gamer Informers"
-  og_description: "Avalanche partners with Funtico to revolutionize indie gaming by integrating blockchain technology, simplifying game development, and enhancing player experiences with features like verifiable scarcity and secure transactions. This collaboration aims to empower developers and offer diverse gaming content."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/08/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/avalanche-selects-funtico-for-indie-gaming-platform-partnership/
+  og_title: >-
+    Avalanche Selects Funtico for Indie Gaming Platform Partnership - Gamer
+    Informers
+  og_description: >-
+    Avalanche partners with Funtico to revolutionize indie gaming by integrating
+    blockchain technology, simplifying game development, and enhancing player
+    experiences with features like verifiable scarcity and secure transactions.
+    This collaboration aims to empower developers and offer diverse gaming
+    content.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/08/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 80
-quality_note: "The article covers relevant gaming news with good keyword integration and appropriate tone, but falls short on length (428 words vs 800-1200 target) and lacks verifiable details about the partnership announcement."
+quality_note: >-
+  The article covers relevant gaming news with good keyword integration and
+  appropriate tone, but falls short on length (428 words vs 800-1200 target) and
+  lacks verifiable details about the partnership announcement.
+image_alt: >-
+  Futuristic indie game world built from glowing digital cubes and circuit
+  pathways
 ---
 
 The gaming industry is witnessing a significant transformation as Avalanche announces its partnership with Funtico to enhance its indie gaming platform. This collaboration is set to revolutionize the way independent game developers engage with the blockchain technology offered by Avalanche, promising a novel experience for gamers and developers alike.
