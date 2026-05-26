@@ -1,25 +1,45 @@
 ---
-title: "Exploring High-Low Fashion: How One Royal Family Member is Revolutionizing the Trend – Times of India Insights"
-description: "High-Low fashion blends luxury designer pieces with affordable everyday wear to create versatile, budget-friendly outfits. The trend has gained widespread popularity, championed by style icons like Kate Middleton, the Duchess of Cambridge, and promotes both sustainability and personal expression."
-type: "standard"
-status: "published"
-publishDate: "2025-04-24T07:46:37+00:00"
-author: "Taylor Winters"
+title: >-
+  Exploring High-Low Fashion: How One Royal Family Member is Revolutionizing the
+  Trend – Times of India Insights
+description: >-
+  High-Low fashion blends luxury designer pieces with affordable everyday wear
+  to create versatile, budget-friendly outfits. The trend has gained widespread
+  popularity, championed by style icons like Kate Middleton, the Duchess of
+  Cambridge, and promotes both sustainability and personal expression.
+type: standard
+status: published
+publishDate: '2025-04-24T07:46:37+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-  - "Fashion"
-slug: "exploring-high-low-fashion-how-one-royal-family-member-is-revolutionizing-the-trend-times-of-india-insights"
+  - Culture
+  - Fashion
+slug: >-
+  exploring-high-low-fashion-how-one-royal-family-member-is-revolutionizing-the-trend-times-of-india-insights
 reading_time: 2
-source_url: "https://fashionnewsbee.com/exploring-high-low-fashion-how-one-royal-family-member-is-revolutionizing-the-trend-times-of-india-insights/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/exploring-high-low-fashion-how-one-royal-family-member-is-revolutionizing-the-trend-times-of-india-insights/
+imported_from: wordpress
 wp_original_id: 31502
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-high-low-fashion-how-one-royal-family-member-is-revolutionizing-the-trend-times-of-india-insights.webp
 seo:
-  canonical: "https://fashionnewsbee.com/exploring-high-low-fashion-how-one-royal-family-member-is-revolutionizing-the-trend-times-of-india-insights/"
-  og_title: "Exploring High-Low Fashion: How One Royal Family Member is Revolutionizing the Trend - Times of India Insights - Fashion News Bee"
-  og_description: "High-Low fashion blends luxury and everyday style, creating a versatile, budget-friendly wardrobe. The trend is popular among celebrities and style enthusiasts, including the Duchess of Cambridge, Kate Middleton. High-Low fashion promotes sustainability and allows for expression of unique style without price tag restrictions."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/exploring-high-low-fashion-how-one-royal-family-member-is-revolutionizing-the-trend-times-of-india-insights/
+  og_title: >-
+    Exploring High-Low Fashion: How One Royal Family Member is Revolutionizing
+    the Trend - Times of India Insights - Fashion News Bee
+  og_description: >-
+    High-Low fashion blends luxury and everyday style, creating a versatile,
+    budget-friendly wardrobe. The trend is popular among celebrities and style
+    enthusiasts, including the Duchess of Cambridge, Kate Middleton. High-Low
+    fashion promotes sustainability and allows for expression of unique style
+    without price tag restrictions.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-6.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Elegant street-style outfit blending polished luxury pieces with casual
+  everyday fashion
 ---
 
 High-Low fashion, a style that blends the luxurious with the everyday, is all the rage. One notable trendsetter leading the charge is a member of the British royal family. This captivating blend of high-end and affordable pieces makes for a versatile wardrobe that appeals to fashion enthusiasts globally.
