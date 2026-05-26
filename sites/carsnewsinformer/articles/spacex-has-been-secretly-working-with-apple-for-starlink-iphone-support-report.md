@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-spacex-has-been-secretly-working-with-apple-for-starlink-iphone-support-report
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/spacex-has-been-secretly-working-with-apple-for-starlink-iphone-support-report.webp
 reading_time: 3
 quality_score: 36
 score_breakdown:
@@ -34,6 +35,7 @@ score_breakdown:
 quality_note: >-
   Article is off-topic for automotive site, too short, lacks proper SEO
   structure, and makes unverified claims about SpaceX-Apple collaboration.
+image_alt: Generic smartphone on a car dashboard under satellite trails at dusk
 ---
 ## Breaking Partnership Reports
 
