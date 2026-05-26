@@ -2,7 +2,8 @@ domain: medicalnewsalley.com
 site_name: medicalnewsalley
 site_tagline: null
 author: Ava Scott
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d79a16f23264031d7a60
 brief:
