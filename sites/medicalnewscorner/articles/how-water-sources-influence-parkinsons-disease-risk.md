@@ -1,25 +1,36 @@
 ---
-title: "How Water Sources Influence Parkinson’s Disease Risk"
-description: "Recent studies highlight the potential link between water contaminants and Parkinson's disease, emphasizing the importance of understanding environmental factors in disease prevention. Chemicals like trichloroethylene (TCE) found in water sources may increase the risk of developing Parkinson's."
-type: "standard"
-status: "published"
-publishDate: "2026-03-12T09:17:21+00:00"
-author: "Taylor Winters"
+title: How Water Sources Influence Parkinson’s Disease Risk
+description: >-
+  Recent studies highlight the potential link between water contaminants and
+  Parkinson's disease, emphasizing the importance of understanding environmental
+  factors in disease prevention. Chemicals like trichloroethylene (TCE) found in
+  water sources may increase the risk of developing Parkinson's.
+type: standard
+status: published
+publishDate: '2026-03-12T09:17:21+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "how-water-sources-influence-parkinsons-disease-risk"
+  - Research
+  - Clinical Trials &amp; Research
+slug: how-water-sources-influence-parkinsons-disease-risk
 reading_time: 3
-source_url: "https://medicalnewscorner.com/how-water-sources-influence-parkinsons-disease-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/how-water-sources-influence-parkinsons-disease-risk/
+imported_from: wordpress
 wp_original_id: 24798
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/how-water-sources-influence-parkinsons-disease-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/how-water-sources-influence-parkinsons-disease-risk/"
-  og_title: "How Water Sources Influence Parkinson's Disease Risk - Medical News Corner"
-  og_description: "Recent studies highlight the potential link between water contaminants and Parkinson's disease, emphasizing the importance of understanding environmental factors in disease prevention. Chemicals like trichloroethylene (TCE) found in water sources may increase the risk of developing Parkinson's."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/how-water-sources-influence-parkinsons-disease-risk/
+  og_title: How Water Sources Influence Parkinson's Disease Risk - Medical News Corner
+  og_description: >-
+    Recent studies highlight the potential link between water contaminants and
+    Parkinson's disease, emphasizing the importance of understanding
+    environmental factors in disease prevention. Chemicals like
+    trichloroethylene (TCE) found in water sources may increase the risk of
+    developing Parkinson's.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 78
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 51
   factual_accuracy: 90
   keyword_relevance: 88
-quality_note: "Well-written article with good tone and accuracy, but falls significantly short of the target word count at only 514 words compared to the 800-1200 word target range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls significantly
+  short of the target word count at only 514 words compared to the 800-1200 word
+  target range.
+image_alt: >-
+  Glass of water and lab sample in soft light suggesting environmental health
+  concerns
 ---
 
 Parkinson's disease, a progressive neurological disorder, affects millions worldwide. Recent studies suggest that environmental factors, including water sources, may influence the risk of developing this condition. As researchers delve deeper into these connections, understanding the role of water contaminants becomes crucial in the broader context of Parkinson's disease prevention.
