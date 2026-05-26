@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-maximizing-barrel-use-in-winemaking-an-insight-by-todd-cirella
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/maximizing-barrel-use-in-winemaking-an-insight-by-todd-cirella.webp
 reading_time: 2
 quality_score: 56
 score_breakdown:
@@ -34,6 +35,7 @@ quality_note: >-
   Article has good keyword relevance and decent SEO structure but is severely
   underweight at 248 words and contains vague, unsupported claims about industry
   expert Todd Cirella without concrete evidence.
+image_alt: Winemaker inspecting oak and red wine in a warmly lit barrel room
 ---
 ## Expert Perspectives on Barrel Optimization
 
