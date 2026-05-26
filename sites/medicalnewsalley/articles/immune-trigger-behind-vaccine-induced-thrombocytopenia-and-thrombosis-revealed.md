@@ -1,25 +1,40 @@
 ---
-title: "Immune Trigger Behind Vaccine-Induced Thrombocytopenia and Thrombosis Revealed"
-description: "Recent research reveals a breakthrough in understanding immune mechanisms linked to rare blood clotting disorders post-vaccination, offering insights to enhance vaccine safety and effectiveness globally. The study identifies antibodies' role in triggering these rare conditions, paving the way for safer vaccines."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T09:31:26+00:00"
-author: "Taylor Winters"
+title: Immune Trigger Behind Vaccine-Induced Thrombocytopenia and Thrombosis Revealed
+description: >-
+  Recent research reveals a breakthrough in understanding immune mechanisms
+  linked to rare blood clotting disorders post-vaccination, offering insights to
+  enhance vaccine safety and effectiveness globally. The study identifies
+  antibodies' role in triggering these rare conditions, paving the way for safer
+  vaccines.
+type: standard
+status: published
+publishDate: '2026-02-12T09:31:26+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Clinical Trials &amp; Research"
-  - "News"
-slug: "immune-trigger-behind-vaccine-induced-thrombocytopenia-and-thrombosis-revealed"
+  - Health News
+  - Clinical Trials &amp; Research
+  - News
+slug: immune-trigger-behind-vaccine-induced-thrombocytopenia-and-thrombosis-revealed
 reading_time: 3
-source_url: "https://medicalnewsalley.com/immune-trigger-behind-vaccine-induced-thrombocytopenia-and-thrombosis-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/immune-trigger-behind-vaccine-induced-thrombocytopenia-and-thrombosis-revealed/
+imported_from: wordpress
 wp_original_id: 32567
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/immune-trigger-behind-vaccine-induced-thrombocytopenia-and-thrombosis-revealed.webp
 seo:
-  canonical: "https://medicalnewsalley.com/immune-trigger-behind-vaccine-induced-thrombocytopenia-and-thrombosis-revealed/"
-  og_title: "Immune Trigger Behind Vaccine-Induced Thrombocytopenia and Thrombosis Revealed - Medical News Alley"
-  og_description: "Recent research reveals a breakthrough in understanding immune mechanisms linked to rare blood clotting disorders post-vaccination, offering insights to enhance vaccine safety and effectiveness globally. The study identifies antibodies' role in triggering these rare conditions, paving the way for safer vaccines."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/immune-trigger-behind-vaccine-induced-thrombocytopenia-and-thrombosis-revealed/
+  og_title: >-
+    Immune Trigger Behind Vaccine-Induced Thrombocytopenia and Thrombosis
+    Revealed - Medical News Alley
+  og_description: >-
+    Recent research reveals a breakthrough in understanding immune mechanisms
+    linked to rare blood clotting disorders post-vaccination, offering insights
+    to enhance vaccine safety and effectiveness globally. The study identifies
+    antibodies' role in triggering these rare conditions, paving the way for
+    safer vaccines.
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong medical content with excellent keyword relevance and tone, but significantly under target word count at only 422 words versus the 800-1200 target range."
+quality_note: >-
+  Strong medical content with excellent keyword relevance and tone, but
+  significantly under target word count at only 422 words versus the 800-1200
+  target range.
+image_alt: >-
+  Stylized antibodies and platelets glowing above a modern medical research
+  bench
 ---
 
 Recent research has unveiled a significant breakthrough in understanding the immune mechanisms that may lead to rare blood clotting disorders following certain vaccinations. This discovery highlights the complex interplay between vaccines and the immune system, offering insights that could enhance vaccine safety and effectiveness across the globe.
