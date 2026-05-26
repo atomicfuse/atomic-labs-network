@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-crafting-tomato-wine-a-unique-fermentation-adventure
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/crafting-tomato-wine-a-unique-fermentation-adventure.webp
 reading_time: 4
 quality_score: 70
 score_breakdown:
@@ -36,6 +36,9 @@ quality_note: >-
   lacks specific details, and relies too heavily on vague phrases like
   'according to reports' without providing concrete information or actionable
   advice.
+image_alt: >-
+  Heirloom tomatoes, a fermenting vessel, and amber-red wine on a rustic kitchen
+  table.
 ---
 ## The Unconventional World of Tomato Wine
 
