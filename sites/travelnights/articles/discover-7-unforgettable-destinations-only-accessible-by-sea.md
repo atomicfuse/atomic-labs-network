@@ -1,24 +1,37 @@
 ---
-title: "Discover 7 Unforgettable Destinations Only Accessible by Sea"
-description: "Exploring unique destinations by sea offers travelers breathtaking experiences, blending natural beauty with cultural richness. From the dramatic Norwegian fjords to the mysterious Easter Island, each location provides unforgettable memories and a distinct adventure enriched by the journey itself."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T11:22:21+00:00"
-author: "Malcolm Anderson"
+title: Discover 7 Unforgettable Destinations Only Accessible by Sea
+description: >-
+  Exploring unique destinations by sea offers travelers breathtaking
+  experiences, blending natural beauty with cultural richness. From the dramatic
+  Norwegian fjords to the mysterious Easter Island, each location provides
+  unforgettable memories and a distinct adventure enriched by the journey
+  itself.
+type: standard
+status: published
+publishDate: '2025-12-22T11:22:21+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "discover-7-unforgettable-destinations-only-accessible-by-sea"
+  - Destinations
+slug: discover-7-unforgettable-destinations-only-accessible-by-sea
 reading_time: 4
-source_url: "https://travelnights.com/discover-7-unforgettable-destinations-only-accessible-by-sea/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/discover-7-unforgettable-destinations-only-accessible-by-sea/
+imported_from: wordpress
 wp_original_id: 36675
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-7-unforgettable-destinations-only-accessible-by-sea.webp
 seo:
-  canonical: "https://travelnights.com/discover-7-unforgettable-destinations-only-accessible-by-sea/"
-  og_title: "Discover 7 Unforgettable Destinations Only Accessible by Sea - Travel Nights"
-  og_description: "Exploring unique destinations by sea offers travelers breathtaking experiences, blending natural beauty with cultural richness. From the dramatic Norwegian fjords to the mysterious Easter Island, each location provides unforgettable memories and a distinct adventure enriched by the journey itself."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-4.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/discover-7-unforgettable-destinations-only-accessible-by-sea/
+  og_title: Discover 7 Unforgettable Destinations Only Accessible by Sea - Travel Nights
+  og_description: >-
+    Exploring unique destinations by sea offers travelers breathtaking
+    experiences, blending natural beauty with cultural richness. From the
+    dramatic Norwegian fjords to the mysterious Easter Island, each location
+    provides unforgettable memories and a distinct adventure enriched by the
+    journey itself.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-4.png'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel content with engaging tone and accurate information, but significantly under target word count at 610 words versus the 800-1200 range."
+quality_note: >-
+  Well-written travel content with engaging tone and accurate information, but
+  significantly under target word count at 610 words versus the 800-1200 range.
+image_alt: >-
+  Expedition boat approaching a remote sea-only coastline under golden-hour
+  light
 ---
 
 Exploring unique destinations around the globe offers travelers the chance to experience the world in extraordinary ways. Some destinations, often tucked away from the usual tourist routes, offer breathtaking experiences that are best accessed by sea. These locations promise to provide adventurers with unforgettable memories, blending natural beauty with cultural richness.
