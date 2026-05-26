@@ -1,29 +1,40 @@
 ---
-title: "A Day of Nourishing Meals and Energizing Workouts: Your Guide to Healthy Living"
-description: "Explore a full day of vibrant meals and invigorating exercises designed to nourish your body and fuel an active lifestyle."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T05:13:24+00:00"
-author: "Taylor Winters"
+title: >-
+  A Day of Nourishing Meals and Energizing Workouts: Your Guide to Healthy
+  Living
+description: >-
+  Explore a full day of vibrant meals and invigorating exercises designed to
+  nourish your body and fuel an active lifestyle.
+type: standard
+status: review
+publishDate: '2025-08-14T05:13:24+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "a-day-of-nourishing-meals-and-energizing-workouts-your-guide-to-healthy-living"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: a-day-of-nourishing-meals-and-energizing-workouts-your-guide-to-healthy-living
 reading_time: 2
-source_url: "https://eznutritiontips.com/a-day-of-nourishing-meals-and-energizing-workouts-your-guide-to-healthy-living/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/a-day-of-nourishing-meals-and-energizing-workouts-your-guide-to-healthy-living/
+imported_from: wordpress
 wp_original_id: 18933
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/a-day-of-nourishing-meals-and-energizing-workouts-your-guide-to-healthy-living.webp
 seo:
-  canonical: "https://eznutritiontips.com/a-day-of-nourishing-meals-and-energizing-workouts-your-guide-to-healthy-living/"
-  og_title: "A Day of Nourishing Meals and Energizing Workouts: Your Guide to Healthy Living - Easy Nutrition Tips"
-  og_description: "Explore a full day of vibrant meals and invigorating exercises designed to nourish your body and fuel an active lifestyle."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/a-day-of-nourishing-meals-and-energizing-workouts-your-guide-to-healthy-living/
+  og_title: >-
+    A Day of Nourishing Meals and Energizing Workouts: Your Guide to Healthy
+    Living - Easy Nutrition Tips
+  og_description: >-
+    Explore a full day of vibrant meals and invigorating exercises designed to
+    nourish your body and fuel an active lifestyle.
+  twitter_card: summary_large_image
 videos:
-  - id: "d7d8a1e2"
-    url: "https://www.youtube.com/watch?v=zoAHM3ByAlE"
-    position: "after-paragraph-2"
+  - id: d7d8a1e2
+    url: 'https://www.youtube.com/watch?v=zoAHM3ByAlE'
+    position: after-paragraph-2
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -31,7 +42,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 75
-quality_note: "The article has good tone and keyword alignment but is significantly too short at 383 words (target 800-1200) and lacks depth in meal preparation details and exercise content."
+quality_note: >-
+  The article has good tone and keyword alignment but is significantly too short
+  at 383 words (target 800-1200) and lacks depth in meal preparation details and
+  exercise content.
+image_alt: >-
+  Sunlit healthy foods with workout gear nearby, suggesting a balanced active
+  lifestyle.
 ---
 
 Living a healthy lifestyle is a journey enriched with delicious meals and invigorating workouts. In this blog post, we dive into a full day dedicated to nourishing your body and embracing an active routine. From breakfast to dinner, discover how to incorporate wholesome recipes and effective exercise tips into your daily regimen.
