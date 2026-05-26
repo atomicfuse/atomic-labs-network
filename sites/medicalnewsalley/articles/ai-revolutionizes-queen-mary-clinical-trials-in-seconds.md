@@ -1,26 +1,36 @@
 ---
-title: "AI Revolutionizes Queen Mary Clinical Trials in Seconds"
-description: "AI has revolutionized clinical trials by drastically reducing their duration, enhancing accuracy, and minimizing human error, with Queen Mary University's adoption of Research Grid's AI tool setting new standards for efficiency in medical research."
-type: "standard"
-status: "review"
-publishDate: "2025-06-05T07:17:28+00:00"
-author: "Taylor Winters"
+title: AI Revolutionizes Queen Mary Clinical Trials in Seconds
+description: >-
+  AI has revolutionized clinical trials by drastically reducing their duration,
+  enhancing accuracy, and minimizing human error, with Queen Mary University's
+  adoption of Research Grid's AI tool setting new standards for efficiency in
+  medical research.
+type: standard
+status: review
+publishDate: '2025-06-05T07:17:28+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Clinical Trials &amp; Research"
-  - "News"
-slug: "ai-revolutionizes-queen-mary-clinical-trials-in-seconds"
+  - Health News
+  - Clinical Trials &amp; Research
+  - News
+slug: ai-revolutionizes-queen-mary-clinical-trials-in-seconds
 reading_time: 4
-source_url: "https://medicalnewsalley.com/ai-revolutionizes-queen-mary-clinical-trials-in-seconds/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/ai-revolutionizes-queen-mary-clinical-trials-in-seconds/
+imported_from: wordpress
 wp_original_id: 32453
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/ai-revolutionizes-queen-mary-clinical-trials-in-seconds.webp
 seo:
-  canonical: "https://medicalnewsalley.com/ai-revolutionizes-queen-mary-clinical-trials-in-seconds/"
-  og_title: "AI Revolutionizes Queen Mary Clinical Trials in Seconds - Medical News Alley"
-  og_description: "AI has revolutionized clinical trials by drastically reducing their duration, enhancing accuracy, and minimizing human error. This innovation promises faster drug development, cost savings, and improved data security, setting new standards for efficiency in medical research."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/ai-revolutionizes-queen-mary-clinical-trials-in-seconds/
+  og_title: AI Revolutionizes Queen Mary Clinical Trials in Seconds - Medical News Alley
+  og_description: >-
+    AI has revolutionized clinical trials by drastically reducing their
+    duration, enhancing accuracy, and minimizing human error. This innovation
+    promises faster drug development, cost savings, and improved data security,
+    setting new standards for efficiency in medical research.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly underperforms on word count and contains potentially fabricated claims about specific AI achievements at Queen Mary University."
+quality_note: >-
+  Strong topic relevance and tone but significantly underperforms on word count
+  and contains potentially fabricated claims about specific AI achievements at
+  Queen Mary University.
+image_alt: Researchers study glowing AI data streams in a modern clinical trial lab.
 ---
 
 In a groundbreaking development, artificial intelligence (AI) has transformed the landscape of clinical trials by significantly reducing their duration. At Queen Mary University, an innovative AI tool from Research Grid has achieved what once took years to complete in mere seconds, marking a significant leap forward in medical research efficiency.
