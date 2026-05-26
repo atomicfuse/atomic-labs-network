@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-us-south-korea-trade-deal-trump-confirms-15-tariff-agreement
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/us-south-korea-trade-deal-trump-confirms-15-tariff-agreement.webp
 reading_time: 2
 quality_score: 36
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Article has major factual issues claiming current Trump confirmation of a 15%
   tariff deal, is significantly under target word count at 270 words, and lacks
   automotive focus despite weak attempts to connect trade policy to cars.
+image_alt: >-
+  Unbranded cars lined up at a port terminal with cranes and abstract
+  trade-route graphics
 ---
 ## Trump Administration Announces Trade Agreement with South Korea
 
