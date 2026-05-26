@@ -24,7 +24,8 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/summer-houses-jesse-teases-reunion-drama-for-amanda-west/
 source_item_id: 6a151f7216f23264031d8103
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: >-
+  /assets/images/summer-house-jesse-solomon-teases-brutal-reunion-amanda-west-drama.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 75
@@ -38,6 +39,9 @@ quality_note: >-
   with funnypigeon's core entertainment topics like funny videos, memes, and
   viral content.
 reading_time: 3
+image_alt: >-
+  Empty reunion-style studio chairs under purple lighting suggest tense reality
+  TV fallout.
 ---
 ## Summer House Reunion Promises Explosive Drama
 
