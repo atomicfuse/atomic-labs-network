@@ -1,24 +1,34 @@
 ---
-title: "Premier League Urged to Act After Racial Abuse Scandal"
-description: "Incidents of racial abuse in soccer have sparked demands for action from fans and authorities. Over a weekend, four Premier League players faced abuse on social media, highlighting the need for stronger measures from tech companies to combat online racism."
-type: "standard"
-status: "published"
-publishDate: "2026-02-23T09:45:30+00:00"
-author: "Taylor Winters"
+title: Premier League Urged to Act After Racial Abuse Scandal
+description: >-
+  Incidents of racial abuse in soccer have sparked demands for action from fans
+  and authorities. Over a weekend, four Premier League players faced abuse on
+  social media, highlighting the need for stronger measures from tech companies
+  to combat online racism.
+type: standard
+status: published
+publishDate: '2026-02-23T09:45:30+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "premier-league-urged-to-act-after-racial-abuse-scandal"
+  - Latest News
+  - AFC Bournemouth
+slug: premier-league-urged-to-act-after-racial-abuse-scandal
 reading_time: 4
-source_url: "https://soccernewsreports.com/premier-league-urged-to-act-after-racial-abuse-scandal/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/premier-league-urged-to-act-after-racial-abuse-scandal/
+imported_from: wordpress
 wp_original_id: 37980
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/premier-league-urged-to-act-after-racial-abuse-scandal.webp
 seo:
-  canonical: "https://soccernewsreports.com/premier-league-urged-to-act-after-racial-abuse-scandal/"
-  og_title: "Premier League Urged to Act After Racial Abuse Scandal - Soccer News Reports"
-  og_description: "Incidents of racial abuse in soccer have sparked demands for action from fans and authorities. Over a weekend, four Premier League players faced abuse on social media, highlighting the need for stronger measures from tech companies to combat online racism."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/premier-league-urged-to-act-after-racial-abuse-scandal/
+  og_title: Premier League Urged to Act After Racial Abuse Scandal - Soccer News Reports
+  og_description: >-
+    Incidents of racial abuse in soccer have sparked demands for action from
+    fans and authorities. Over a weekend, four Premier League players faced
+    abuse on social media, highlighting the need for stronger measures from tech
+    companies to combat online racism.
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written article with strong tone and keyword relevance, but lacks specific details about the incidents and may contain vague claims that reduce factual accuracy."
+quality_note: >-
+  Well-written article with strong tone and keyword relevance, but lacks
+  specific details about the incidents and may contain vague claims that reduce
+  factual accuracy.
+image_alt: >-
+  Soccer player in a stadium tunnel holding a glowing phone before stepping onto
+  the pitch
 ---
 
 In recent times, the world of professional soccer has faced challenges beyond the pitch, as racial abuse incidents mar an otherwise beautiful game. Over a single weekend, four Premier League players found themselves at the receiving end of appalling racial abuse, sparking widespread demands for action and accountability from fans, authorities, and tech companies alike.
