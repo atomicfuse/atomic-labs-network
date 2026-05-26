@@ -20,7 +20,7 @@ source_url: >-
   https://economictimes.indiatimes.com/news/international/us/at-15-a-teenager-building-video-games-from-his-bedroom-accidentally-helped-create-one-of-the-internets-earliest-coding-communities/articleshow/131291535.cms
 source_item_id: 6a14215016f23264031d7de3
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: /assets/images/teen-bedroom-coders-created-developer-culture.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on length and relies heavily on vague 'according to reports'
   statements that weaken credibility.
 reading_time: 3
+image_alt: >-
+  Vintage bedroom computer with floppy disks connected to glowing abstract
+  network lines
 ---
 ## The Origins of Collaborative Coding
 
