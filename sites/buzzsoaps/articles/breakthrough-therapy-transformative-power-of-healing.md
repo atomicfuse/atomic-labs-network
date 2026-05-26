@@ -1,24 +1,32 @@
 ---
-title: "Breakthrough Therapy: Transformative Power of Healing"
-description: "Internal Family Systems (IFS) therapy, developed by Dr. Richard Schwartz, helps individuals achieve healing by understanding and interacting with their internal parts, fostering harmony and addressing trauma for improved emotional well-being and personal growth."
-type: "standard"
-status: "review"
-publishDate: "2025-10-30T11:40:10+00:00"
-author: "Becca Roberts"
+title: 'Breakthrough Therapy: Transformative Power of Healing'
+description: >-
+  Internal Family Systems (IFS) therapy, developed by Dr. Richard Schwartz,
+  helps individuals achieve healing by understanding and interacting with their
+  internal parts, fostering harmony and addressing trauma for improved emotional
+  well-being and personal growth.
+type: standard
+status: review
+publishDate: '2025-10-30T11:40:10+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "breakthrough-therapy-transformative-power-of-healing"
+  - Culture Buzz
+slug: breakthrough-therapy-transformative-power-of-healing
 reading_time: 4
-source_url: "https://buzzsoaps.com/breakthrough-therapy-transformative-power-of-healing/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/breakthrough-therapy-transformative-power-of-healing/'
+imported_from: wordpress
 wp_original_id: 490
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/breakthrough-therapy-transformative-power-of-healing.webp
 seo:
-  canonical: "https://buzzsoaps.com/breakthrough-therapy-transformative-power-of-healing/"
-  og_title: "Breakthrough Therapy: Transformative Power of Healing - BuzzSoaps!"
-  og_description: "Internal Family Systems (IFS) therapy, developed by Dr. Richard Schwartz, helps individuals achieve healing by understanding and interacting with their internal parts, fostering harmony and addressing trauma for improved emotional well-being and personal growth."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/10/make_file-10.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/breakthrough-therapy-transformative-power-of-healing/'
+  og_title: 'Breakthrough Therapy: Transformative Power of Healing - BuzzSoaps!'
+  og_description: >-
+    Internal Family Systems (IFS) therapy, developed by Dr. Richard Schwartz,
+    helps individuals achieve healing by understanding and interacting with
+    their internal parts, fostering harmony and addressing trauma for improved
+    emotional well-being and personal growth.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/10/make_file-10.jpeg'
+  twitter_card: summary_large_image
 quality_score: 48
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This is a well-written therapy article but completely misaligned with buzzsoaps' entertainment focus, lacking proper SEO optimization and missing all target keywords."
+quality_note: >-
+  This is a well-written therapy article but completely misaligned with
+  buzzsoaps' entertainment focus, lacking proper SEO optimization and missing
+  all target keywords.
+image_alt: >-
+  Serene person in warm light surrounded by abstract shapes suggesting inner
+  harmony and healing
 ---
 
 In recent years, Internal Family Systems (IFS) therapy has gained recognition as a transformative approach to mental health treatment. Rooted in the belief that the mind is composed of multiple interacting parts, IFS aims to foster harmony within the self. This therapeutic model is proving effective in addressing trauma and enhancing emotional well-being.
