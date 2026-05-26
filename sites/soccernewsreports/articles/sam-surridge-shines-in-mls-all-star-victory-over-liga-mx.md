@@ -1,25 +1,38 @@
 ---
-title: "Sam Surridge Shines in MLS All-Star Victory Over Liga MX"
-description: "The MLS All-Star Game showcased an impressive performance with a 3-1 victory over Liga MX, highlighting the growing talent and competitive spirit of Major League Soccer. Standout players like Sam Surridge played crucial roles in the team's success."
-type: "standard"
-status: "review"
-publishDate: "2025-07-24T04:27:27+00:00"
-author: "Taylor Winters"
+title: Sam Surridge Shines in MLS All-Star Victory Over Liga MX
+description: >-
+  The MLS All-Star Game showcased an impressive performance with a 3-1 victory
+  over Liga MX, highlighting the growing talent and competitive spirit of Major
+  League Soccer. Standout players like Sam Surridge played crucial roles in the
+  team's success.
+type: standard
+status: review
+publishDate: '2025-07-24T04:27:27+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alan Pulido"
-slug: "sam-surridge-shines-in-mls-all-star-victory-over-liga-mx"
+  - Latest News
+  - Alan Pulido
+slug: sam-surridge-shines-in-mls-all-star-victory-over-liga-mx
 reading_time: 4
-source_url: "https://soccernewsreports.com/sam-surridge-shines-in-mls-all-star-victory-over-liga-mx/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/sam-surridge-shines-in-mls-all-star-victory-over-liga-mx/
+imported_from: wordpress
 wp_original_id: 37878
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/sam-surridge-shines-in-mls-all-star-victory-over-liga-mx.webp
 seo:
-  canonical: "https://soccernewsreports.com/sam-surridge-shines-in-mls-all-star-victory-over-liga-mx/"
-  og_title: "Sam Surridge Shines in MLS All-Star Victory Over Liga MX - Soccer News Reports"
-  og_description: "The MLS All-Star Game showcased an impressive performance with a 3-1 victory over Liga MX, highlighting the growing talent and competitive spirit of Major League Soccer. Standout players like Sam Surridge played crucial roles in the team's success."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/07/make_3b9fb9f0-683e-11f0-9fed-e22ab03cefaa.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/sam-surridge-shines-in-mls-all-star-victory-over-liga-mx/
+  og_title: >-
+    Sam Surridge Shines in MLS All-Star Victory Over Liga MX - Soccer News
+    Reports
+  og_description: >-
+    The MLS All-Star Game showcased an impressive performance with a 3-1 victory
+    over Liga MX, highlighting the growing talent and competitive spirit of
+    Major League Soccer. Standout players like Sam Surridge played crucial roles
+    in the team's success.
+  og_image: >-
+    https://soccernewsreports.com/wp-content/uploads/2025/07/make_3b9fb9f0-683e-11f0-9fed-e22ab03cefaa.jpg
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 80
-quality_note: "The article has good tone and covers relevant soccer content, but is significantly under the target word count and contains potential factual inaccuracies about MLS All-Star Game format and participants."
+quality_note: >-
+  The article has good tone and covers relevant soccer content, but is
+  significantly under the target word count and contains potential factual
+  inaccuracies about MLS All-Star Game format and participants.
+image_alt: >-
+  Soccer player celebrates under stadium lights after a decisive all-star match
+  moment.
 ---
 
 The MLS All-Star Game recently showcased an impressive performance as the Major League Soccer team triumphed over their Liga MX counterparts. This exciting match featured a commanding 3-1 victory, with standout players and thrilling gameplay that left fans in awe. The event not only highlighted the growing talent within the MLS but also emphasized the competitive spirit between these North American leagues.
