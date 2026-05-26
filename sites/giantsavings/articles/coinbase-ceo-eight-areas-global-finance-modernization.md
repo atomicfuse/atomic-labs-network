@@ -23,7 +23,7 @@ source_url: >-
   https://news.bitcoin.com/coinbase-ceo-lists-7-areas-where-global-finance-still-needs-an-update/
 source_item_id: 6a13c94216f23264031d7a6b
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: /assets/images/coinbase-ceo-eight-areas-global-finance-modernization.webp
 quality_score: 39
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   finance site's audience and topics, lacking practical savings tips or
   budgeting advice.
 reading_time: 3
+image_alt: >-
+  A smartphone emits blue digital finance rails and token-like nodes across a
+  modern fintech background.
 ---
 ## The Push for Financial System Modernization
 
