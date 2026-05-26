@@ -106,3 +106,10 @@ layout:
     explicit: []
   load_more:
     page_size: 10
+tracking:
+  ga4: G-S6QEGTVET1
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
