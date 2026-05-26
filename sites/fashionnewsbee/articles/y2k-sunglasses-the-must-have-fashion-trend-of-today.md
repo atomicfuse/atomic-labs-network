@@ -1,23 +1,36 @@
 ---
-title: "Y2K Sunglasses: The Must-Have Fashion Trend of Today"
-description: "The resurgence of Y2K fashion, led by vintage-inspired sunglasses, is capturing global attention. Characterized by bold shapes and vibrant colors, these accessories offer a nostalgic yet modern twist, appealing to fashion enthusiasts, celebrities, and influencers alike."
-type: "standard"
-status: "published"
-publishDate: "2025-09-04T04:31:30+00:00"
-author: "Taylor Winters"
+title: 'Y2K Sunglasses: The Must-Have Fashion Trend of Today'
+description: >-
+  The resurgence of Y2K fashion, led by vintage-inspired sunglasses, is
+  capturing global attention. Characterized by bold shapes and vibrant colors,
+  these accessories offer a nostalgic yet modern twist, appealing to fashion
+  enthusiasts, celebrities, and influencers alike.
+type: standard
+status: published
+publishDate: '2025-09-04T04:31:30+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "y2k-sunglasses-the-must-have-fashion-trend-of-today"
+  - Fashion
+slug: y2k-sunglasses-the-must-have-fashion-trend-of-today
 reading_time: 3
-source_url: "https://fashionnewsbee.com/y2k-sunglasses-the-must-have-fashion-trend-of-today/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/y2k-sunglasses-the-must-have-fashion-trend-of-today/
+imported_from: wordpress
 wp_original_id: 31553
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/y2k-sunglasses-the-must-have-fashion-trend-of-today.webp
 seo:
-  canonical: "https://fashionnewsbee.com/y2k-sunglasses-the-must-have-fashion-trend-of-today/"
-  og_title: "Y2K Sunglasses: The Must-Have Fashion Trend of Today - Fashion News Bee"
-  og_description: "The resurgence of Y2K fashion, led by vintage-inspired sunglasses, is capturing global attention. Characterized by bold shapes and vibrant colors, these accessories offer a nostalgic yet modern twist, appealing to fashion enthusiasts, celebrities, and influencers alike."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/y2k-sunglasses-the-must-have-fashion-trend-of-today/
+  og_title: 'Y2K Sunglasses: The Must-Have Fashion Trend of Today - Fashion News Bee'
+  og_description: >-
+    The resurgence of Y2K fashion, led by vintage-inspired sunglasses, is
+    capturing global attention. Characterized by bold shapes and vibrant colors,
+    these accessories offer a nostalgic yet modern twist, appealing to fashion
+    enthusiasts, celebrities, and influencers alike.
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish model wearing colorful Y2K-inspired sunglasses in a glossy fashion
+  editorial setting.
 ---
 
 The resurgence of Y2K fashion has taken the world by storm, and leading the charge are vintage-inspired sunglasses reminiscent of the early 2000s. These bold and nostalgic accessories have made a significant comeback, influencing fashion enthusiasts and celebrities alike to embrace their edgy and playful styles.
