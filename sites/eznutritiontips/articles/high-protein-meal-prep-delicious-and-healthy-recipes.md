@@ -1,29 +1,33 @@
 ---
-title: "High Protein Meal Prep: Delicious and Healthy Recipes"
-description: "Discover how to prepare high-protein, healthy meals with these easy recipes perfect for meal prepping breakfast, lunch, and dinner throughout the week."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T10:53:24+00:00"
-author: "Taylor Winters"
+title: 'High Protein Meal Prep: Delicious and Healthy Recipes'
+description: >-
+  Discover how to prepare high-protein, healthy meals with these easy recipes
+  perfect for meal prepping breakfast, lunch, and dinner throughout the week.
+type: standard
+status: published
+publishDate: '2025-12-22T10:53:24+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "high-protein-meal-prep-delicious-and-healthy-recipes"
+  - Healthy Recipes
+  - Special Diets
+  - Weight &amp; Wellness
+slug: high-protein-meal-prep-delicious-and-healthy-recipes
 reading_time: 2
-source_url: "https://eznutritiontips.com/high-protein-meal-prep-delicious-and-healthy-recipes/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/high-protein-meal-prep-delicious-and-healthy-recipes/
+imported_from: wordpress
 wp_original_id: 18967
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/high-protein-meal-prep-delicious-and-healthy-recipes.webp
 seo:
-  canonical: "https://eznutritiontips.com/high-protein-meal-prep-delicious-and-healthy-recipes/"
-  og_title: "High Protein Meal Prep: Delicious and Healthy Recipes - Easy Nutrition Tips"
-  og_description: "Discover how to prepare high-protein, healthy meals with these easy recipes."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/high-protein-meal-prep-delicious-and-healthy-recipes/
+  og_title: 'High Protein Meal Prep: Delicious and Healthy Recipes - Easy Nutrition Tips'
+  og_description: 'Discover how to prepare high-protein, healthy meals with these easy recipes.'
+  twitter_card: summary_large_image
 videos:
-  - id: "a93a926b"
-    url: "https://www.youtube.com/watch?v=aa6DHUJIxAs"
-    position: "after-paragraph-2"
+  - id: a93a926b
+    url: 'https://www.youtube.com/watch?v=aa6DHUJIxAs'
+    position: after-paragraph-2
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,7 +35,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and relevant content, but significantly too short at 343 words compared to the 800-1200 word target range."
+quality_note: >-
+  Well-written article with good tone and relevant content, but significantly
+  too short at 343 words compared to the 800-1200 word target range.
+image_alt: >-
+  Organized high-protein meal prep containers with lean proteins, grains,
+  vegetables, and fruit on a kitchen counter.
 ---
 
 Meal prepping is not only a fantastic way to save time during the week, but it also ensures you are eating nutritious and delicious meals. In this guide, we will explore some high-protein and healthy recipes that are perfect for meal prep. Each recipe is designed to provide you with the nutrients you need to fuel your day.
