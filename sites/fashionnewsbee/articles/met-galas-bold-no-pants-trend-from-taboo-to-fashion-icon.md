@@ -1,24 +1,39 @@
 ---
-title: "Met Gala’s Bold No-Pants Trend: From Taboo to Fashion Icon"
-description: "Fashion is constantly evolving, with trends like wearing no pants in public challenging traditional norms. Once unconventional, this bold statement now graces prestigious platforms like the Met Gala, reflecting a shift towards individualism and freedom in personal style."
-type: "standard"
-status: "published"
-publishDate: "2025-05-08T06:25:38+00:00"
-author: "Taylor Winters"
+title: 'Met Gala’s Bold No-Pants Trend: From Taboo to Fashion Icon'
+description: >-
+  Fashion is constantly evolving, with trends like wearing no pants in public
+  challenging traditional norms. Once unconventional, this bold statement now
+  graces prestigious platforms like the Met Gala, reflecting a shift towards
+  individualism and freedom in personal style.
+type: standard
+status: published
+publishDate: '2025-05-08T06:25:38+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "met-galas-bold-no-pants-trend-from-taboo-to-fashion-icon"
+  - Fashion
+slug: met-galas-bold-no-pants-trend-from-taboo-to-fashion-icon
 reading_time: 4
-source_url: "https://fashionnewsbee.com/met-galas-bold-no-pants-trend-from-taboo-to-fashion-icon/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/met-galas-bold-no-pants-trend-from-taboo-to-fashion-icon/
+imported_from: wordpress
 wp_original_id: 31512
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/met-galas-bold-no-pants-trend-from-taboo-to-fashion-icon.webp
 seo:
-  canonical: "https://fashionnewsbee.com/met-galas-bold-no-pants-trend-from-taboo-to-fashion-icon/"
-  og_title: "Met Gala's Bold No-Pants Trend: From Taboo to Fashion Icon - Fashion News Bee"
-  og_description: "Fashion is constantly evolving, with trends like wearing no pants in public challenging traditional norms. Once unconventional, this bold statement now graces prestigious platforms like the Met Gala, reflecting a shift towards individualism and freedom in personal style."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/met-galas-bold-no-pants-trend-from-taboo-to-fashion-icon/
+  og_title: >-
+    Met Gala's Bold No-Pants Trend: From Taboo to Fashion Icon - Fashion News
+    Bee
+  og_description: >-
+    Fashion is constantly evolving, with trends like wearing no pants in public
+    challenging traditional norms. Once unconventional, this bold statement now
+    graces prestigious platforms like the Met Gala, reflecting a shift towards
+    individualism and freedom in personal style.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Avant-garde model in sculptural couture strides across a glamorous abstract
+  red-carpet setting.
 ---
 
 Fashion is ever-evolving, and what once seemed unconventional can quickly become the norm. This is clearly evident in the latest trend that has taken the fashion world by storm: wearing no pants in public. Once regarded as a fashion faux pas, this bold statement has now found its way to the prestigious platforms of Met Gala events and high-fashion runways.
