@@ -1,25 +1,37 @@
 ---
-title: "Ancestral Beauty Rituals Loved by Top Latina Influencers"
-description: "Latina influencers are revolutionizing beauty standards by blending cultural heritage with modern trends, promoting diversity and inclusivity. They inspire with unique rituals, champion underrepresented communities, and drive industry change, fostering creativity and empowerment."
-type: "standard"
-status: "published"
-publishDate: "2025-09-11T04:29:26+00:00"
-author: "Taylor Winters"
+title: Ancestral Beauty Rituals Loved by Top Latina Influencers
+description: >-
+  Latina influencers are revolutionizing beauty standards by blending cultural
+  heritage with modern trends, promoting diversity and inclusivity. They inspire
+  with unique rituals, champion underrepresented communities, and drive industry
+  change, fostering creativity and empowerment.
+type: standard
+status: published
+publishDate: '2025-09-11T04:29:26+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "ancestral-beauty-rituals-loved-by-top-latina-influencers"
+  - Travel Tips
+  - Beauty
+slug: ancestral-beauty-rituals-loved-by-top-latina-influencers
 reading_time: 3
-source_url: "https://travelbeautytips.com/ancestral-beauty-rituals-loved-by-top-latina-influencers/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/ancestral-beauty-rituals-loved-by-top-latina-influencers/
+imported_from: wordpress
 wp_original_id: 35946
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/ancestral-beauty-rituals-loved-by-top-latina-influencers.webp
 seo:
-  canonical: "https://travelbeautytips.com/ancestral-beauty-rituals-loved-by-top-latina-influencers/"
-  og_title: "Ancestral Beauty Rituals Loved by Top Latina Influencers - Travel Beauty Tips"
-  og_description: "Latina influencers are revolutionizing beauty standards by blending cultural heritage with modern trends, promoting diversity and inclusivity. They inspire with unique rituals, champion underrepresented communities, and drive industry change, fostering creativity and empowerment."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/09/make_file-2.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/ancestral-beauty-rituals-loved-by-top-latina-influencers/
+  og_title: >-
+    Ancestral Beauty Rituals Loved by Top Latina Influencers - Travel Beauty
+    Tips
+  og_description: >-
+    Latina influencers are revolutionizing beauty standards by blending cultural
+    heritage with modern trends, promoting diversity and inclusivity. They
+    inspire with unique rituals, champion underrepresented communities, and
+    drive industry change, fostering creativity and empowerment.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/09/make_file-2.png'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "Well-written article with good tone but falls short on length (585 words vs 800+ target) and lacks specific ancestral beauty rituals mentioned in the title."
+quality_note: >-
+  Well-written article with good tone but falls short on length (585 words vs
+  800+ target) and lacks specific ancestral beauty rituals mentioned in the
+  title.
+image_alt: >-
+  Latina women share modern beauty rituals with botanicals, oils, and clay in
+  warm golden light.
 ---
 
 Latina influencers are redefining beauty standards with their unique perspectives and cultural heritage. Their beauty rituals, often steeped in tradition, offer a fresh take on self-care and self-expression. These influencers are not just sharing makeup tips; they are celebrating diversity and embracing authenticity in the beauty industry.
