@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-tpau-returns-with-new-album-be-wonderful-release
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/tpau-returns-with-new-album-be-wonderful-release.webp
 reading_time: 2
 quality_score: 48
 score_breakdown:
@@ -33,6 +33,9 @@ quality_note: >-
   Article covers relevant music content but is significantly too short, lacks
   specific details, and contains vague claims that appear potentially fabricated
   without verification.
+image_alt: >-
+  Moody rock stage with a microphone, instruments, and dramatic lights awaiting
+  a comeback performance.
 ---
 ## T'Pau Announces Musical Comeback
 
