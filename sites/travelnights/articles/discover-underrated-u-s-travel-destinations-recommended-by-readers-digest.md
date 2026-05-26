@@ -1,24 +1,37 @@
 ---
-title: "Discover Underrated U.S. Travel Destinations Recommended by Reader’s Digest"
-description: "Escape the crowds and explore America's hidden gems, offering beauty and excitement without overwhelming tourist traffic. From Beaufort's historic charm to the wilderness of Idaho's Sawtooth Mountains, discover unique experiences for every traveler."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T12:45:51+00:00"
-author: "Malcolm Anderson"
+title: Discover Underrated U.S. Travel Destinations Recommended by Reader’s Digest
+description: >-
+  Escape the crowds and explore America's hidden gems, offering beauty and
+  excitement without overwhelming tourist traffic. From Beaufort's historic
+  charm to the wilderness of Idaho's Sawtooth Mountains, discover unique
+  experiences for every traveler.
+type: standard
+status: published
+publishDate: '2026-02-16T12:45:51+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "discover-underrated-u-s-travel-destinations-recommended-by-readers-digest"
+  - Destinations
+slug: discover-underrated-u-s-travel-destinations-recommended-by-readers-digest
 reading_time: 3
-source_url: "https://travelnights.com/discover-underrated-u-s-travel-destinations-recommended-by-readers-digest/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/discover-underrated-u-s-travel-destinations-recommended-by-readers-digest/
+imported_from: wordpress
 wp_original_id: 36710
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-underrated-u-s-travel-destinations-recommended-by-readers-digest.webp
 seo:
-  canonical: "https://travelnights.com/discover-underrated-u-s-travel-destinations-recommended-by-readers-digest/"
-  og_title: "Discover Underrated U.S. Travel Destinations Recommended by Reader's Digest - Travel Nights"
-  og_description: "Escape the crowds and explore America's hidden gems, offering beauty and excitement without overwhelming tourist traffic. From Beaufort's historic charm to the wilderness of Idaho's Sawtooth Mountains, discover unique experiences for every traveler."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/discover-underrated-u-s-travel-destinations-recommended-by-readers-digest/
+  og_title: >-
+    Discover Underrated U.S. Travel Destinations Recommended by Reader's Digest
+    - Travel Nights
+  og_description: >-
+    Escape the crowds and explore America's hidden gems, offering beauty and
+    excitement without overwhelming tourist traffic. From Beaufort's historic
+    charm to the wilderness of Idaho's Sawtooth Mountains, discover unique
+    experiences for every traveler.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel guide with excellent destination coverage and engaging tone, but falls short on length at 522 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written travel guide with excellent destination coverage and engaging
+  tone, but falls short on length at 522 words versus the 800-1200 target range.
+image_alt: >-
+  A traveler overlooks a quiet historic town, river, and distant mountains in
+  warm morning light.
 ---
 
 Escape the crowds and explore some of America's most overlooked travel destinations. While popular spots like New York City or Los Angeles attract millions each year, there are hidden gems across the United States that offer just as much beauty and excitement without the overwhelming tourist traffic. From serene beaches to vibrant cities, these destinations provide unique experiences for every type of traveler.
