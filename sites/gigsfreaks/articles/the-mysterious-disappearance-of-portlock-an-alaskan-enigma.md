@@ -1,27 +1,34 @@
 ---
-title: "The Mysterious Disappearance of Portlock: An Alaskan Enigma"
-description: "Discover the chilling tale of Portlock, Alaska, where over 600 residents mysteriously vanished overnight, leaving behind an abandoned ghost town shrouded in fear, rumors, and unanswered questions."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:23:23+00:00"
-author: "Nico Harper"
+title: 'The Mysterious Disappearance of Portlock: An Alaskan Enigma'
+description: >-
+  Discover the chilling tale of Portlock, Alaska, where over 600 residents
+  mysteriously vanished overnight, leaving behind an abandoned ghost town
+  shrouded in fear, rumors, and unanswered questions.
+type: standard
+status: review
+publishDate: '2026-01-22T10:23:23+00:00'
+author: Nico Harper
 tags:
-  - "Internet Mysteries"
-slug: "the-mysterious-disappearance-of-portlock-an-alaskan-enigma"
+  - Internet Mysteries
+slug: the-mysterious-disappearance-of-portlock-an-alaskan-enigma
 reading_time: 2
-source_url: "https://gigsfreaks.com/the-mysterious-disappearance-of-portlock-an-alaskan-enigma/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/the-mysterious-disappearance-of-portlock-an-alaskan-enigma/
+imported_from: wordpress
 wp_original_id: 1006
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/the-mysterious-disappearance-of-portlock-an-alaskan-enigma.webp
 seo:
-  canonical: "https://gigsfreaks.com/the-mysterious-disappearance-of-portlock-an-alaskan-enigma/"
-  og_title: "The Mysterious Disappearance of Portlock: An Alaskan Enigma - GigsFreaks"
-  og_description: "Discover the chilling tale of Portlock, Alaska, where 600 residents vanished overnight, leaving behind a haunting mystery."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/the-mysterious-disappearance-of-portlock-an-alaskan-enigma/
+  og_title: 'The Mysterious Disappearance of Portlock: An Alaskan Enigma - GigsFreaks'
+  og_description: >-
+    Discover the chilling tale of Portlock, Alaska, where 600 residents vanished
+    overnight, leaving behind a haunting mystery.
+  twitter_card: summary_large_image
 videos:
-  - id: "cf0d68ce"
-    url: "https://www.youtube.com/watch?v=SIfanSoELr4"
-    position: "after-paragraph-2"
+  - id: cf0d68ce
+    url: 'https://www.youtube.com/watch?v=SIfanSoELr4'
+    position: after-paragraph-2
 quality_score: 58
 score_breakdown:
   seo_quality: 75
@@ -29,7 +36,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 15
   keyword_relevance: 90
-quality_note: "Strong mystery content with engaging tone, but severely damaged by extremely short length and major factual inaccuracies about Portlock's history."
+quality_note: >-
+  Strong mystery content with engaging tone, but severely damaged by extremely
+  short length and major factual inaccuracies about Portlock's history.
+image_alt: >-
+  Fog surrounds abandoned cabins and docks in a remote Alaskan coastal ghost
+  town.
 ---
 
 Portlock, Alaska, is a name that resonates with mystery and intrigue. This remote coastal town, once bustling with over 600 residents, is now an eerie reminder of a past steeped in fear and uncertainty. The story of Portlock's sudden abandonment is one that captivates historians and mystery enthusiasts alike.
