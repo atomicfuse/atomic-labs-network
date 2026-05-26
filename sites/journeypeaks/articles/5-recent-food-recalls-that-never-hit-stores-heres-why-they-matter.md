@@ -1,25 +1,42 @@
 ---
-title: "5 Recent Food Recalls That Never Hit Stores—Here’s Why They Matter"
-description: "Several recent food recalls were issued for products that never reached store shelves, highlighting critical gaps in food safety oversight involving import violations, missing inspections, and distribution errors. These cases underscore why federal inspections and import regulations matter even when consumers are never directly exposed."
-type: "standard"
-status: "review"
-publishDate: "2025-03-01T07:20:43+00:00"
-author: "admin"
+title: 5 Recent Food Recalls That Never Hit Stores—Here’s Why They Matter
+description: >-
+  Several recent food recalls were issued for products that never reached store
+  shelves, highlighting critical gaps in food safety oversight involving import
+  violations, missing inspections, and distribution errors. These cases
+  underscore why federal inspections and import regulations matter even when
+  consumers are never directly exposed.
+type: standard
+status: review
+publishDate: '2025-03-01T07:20:43+00:00'
+author: admin
 tags:
-  - "Travel"
-  - "Food &amp; Drink"
-slug: "5-recent-food-recalls-that-never-hit-stores-heres-why-they-matter"
+  - Travel
+  - Food &amp; Drink
+slug: 5-recent-food-recalls-that-never-hit-stores-heres-why-they-matter
 reading_time: 5
-source_url: "https://journeypeaks.com/5-recent-food-recalls-that-never-hit-stores-heres-why-they-matter/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/5-recent-food-recalls-that-never-hit-stores-heres-why-they-matter/
+imported_from: wordpress
 wp_original_id: 38604
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/5-recent-food-recalls-that-never-hit-stores-heres-why-they-matter.webp
 seo:
-  canonical: "https://journeypeaks.com/5-recent-food-recalls-that-never-hit-stores-heres-why-they-matter/"
-  og_title: "5 Recent Food Recalls That Never Hit Stores—Here’s Why They Matter - Journey Peaks"
-  og_description: "Food recalls often make headlines when contaminated or mislabeled products reach consumers&#x2014;but what about the recalls that happen before a product ever lands on store shelves? This month, several high-profile recalls were issued for products that never made it to retail stores thanks to import violations, missing inspections, or distribution errors. While these recalls didn&#x2019;t [&hellip;]"
-  og_image: "https://specials-images.forbesimg.com/imageserve/67c24de2ee3e2c1cbd255819/Dried-catfish-fillet-on-wooden-background--Snack-on-fish-with-beer--Close-up/960x0.jpg?cropX1=0&amp;cropX2=2101&amp;cropY1=108&amp;cropY2=1290"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/5-recent-food-recalls-that-never-hit-stores-heres-why-they-matter/
+  og_title: >-
+    5 Recent Food Recalls That Never Hit Stores—Here’s Why They Matter - Journey
+    Peaks
+  og_description: >-
+    Food recalls often make headlines when contaminated or mislabeled products
+    reach consumers&#x2014;but what about the recalls that happen before a
+    product ever lands on store shelves? This month, several high-profile
+    recalls were issued for products that never made it to retail stores thanks
+    to import violations, missing inspections, or distribution errors. While
+    these recalls didn&#x2019;t [&hellip;]
+  og_image: >-
+    https://specials-images.forbesimg.com/imageserve/67c24de2ee3e2c1cbd255819/Dried-catfish-fillet-on-wooden-background--Snack-on-fish-with-beer--Close-up/960x0.jpg?cropX1=0&amp;cropX2=2101&amp;cropY1=108&amp;cropY2=1290
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -27,7 +44,13 @@ score_breakdown:
   content_length: 90
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "The article is well-researched with good length but severely misaligned with the travel site's focus, written in a news tone rather than engaging conversational style for travel enthusiasts."
+quality_note: >-
+  The article is well-researched with good length but severely misaligned with
+  the travel site's focus, written in a news tone rather than engaging
+  conversational style for travel enthusiasts.
+image_alt: >-
+  Unbranded food cargo boxes await inspection in a quiet airport freight area at
+  dawn.
 ---
 
 Food recalls often make headlines when contaminated or mislabeled products reach consumers—but what about the recalls that happen *before* a product ever lands on store shelves?
