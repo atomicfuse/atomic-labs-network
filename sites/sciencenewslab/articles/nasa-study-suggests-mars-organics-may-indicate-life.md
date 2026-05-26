@@ -1,21 +1,26 @@
 ---
-title: "NASA Study Suggests Mars Organics May Indicate Life"
-description: "NASA's Perseverance Rover has detected complex organic molecules on Mars, suggesting potential past life-supporting conditions and challenging our understanding of Martian geology."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T12:55:30"
-author: "Taylor Winters"
+title: NASA Study Suggests Mars Organics May Indicate Life
+description: >-
+  NASA's Perseverance Rover has detected complex organic molecules on Mars,
+  suggesting potential past life-supporting conditions and challenging our
+  understanding of Martian geology.
+type: standard
+status: published
+publishDate: '2026-02-12T12:55:30'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "nasa-study-suggests-mars-organics-may-indicate-life"
+  - Space
+slug: nasa-study-suggests-mars-organics-may-indicate-life
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/nasa-study-suggests-mars-organics-may-indicate-life/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/nasa-study-suggests-mars-organics-may-indicate-life/
+imported_from: wordpress
 wp_original_id: 15070
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/nasa-study-suggests-mars-organics-may-indicate-life.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/nasa-study-suggests-mars-organics-may-indicate-life/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/nasa-study-suggests-mars-organics-may-indicate-life/
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -23,7 +28,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written space article with engaging tone and strong keyword relevance, but falls short of optimal word count target."
+quality_note: >-
+  Well-written space article with engaging tone and strong keyword relevance,
+  but falls short of optimal word count target.
+image_alt: >-
+  Rover tracks cross a Martian landscape toward glowing molecular forms in
+  ancient red rock.
 ---
 
 Mars, our intriguing cosmic neighbor, has long captivated scientists with its mysterious landscape and potential for harboring life. Recent findings from a NASA-led study bring a new perspective to the planet's potential for life, focusing on complex organic compounds found on Mars. These discoveries challenge our understanding of Martian geology and pose significant questions about the planet's history and its capacity to support life.
