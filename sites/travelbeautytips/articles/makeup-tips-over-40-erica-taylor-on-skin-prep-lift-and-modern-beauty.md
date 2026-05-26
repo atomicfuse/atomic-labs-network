@@ -1,30 +1,41 @@
 ---
-title: "Makeup Tips Over 40: Erica Taylor on Skin Prep, Lift, and Modern Beauty"
-description: "Veteran makeup artist Erica Taylor shares approachable makeup advice for women over 40, including skin prep, placement tricks, and ways to refresh an outdated routine."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T08:37:59+00:00"
-author: "Taylor Winters"
+title: 'Makeup Tips Over 40: Erica Taylor on Skin Prep, Lift, and Modern Beauty'
+description: >-
+  Veteran makeup artist Erica Taylor shares approachable makeup advice for women
+  over 40, including skin prep, placement tricks, and ways to refresh an
+  outdated routine.
+type: standard
+status: published
+publishDate: '2026-05-07T08:37:59+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-  - "Makeup Tutorial"
-slug: "makeup-tips-over-40-erica-taylor-on-skin-prep-lift-and-modern-beauty"
+  - Travel Tips
+  - Beauty
+  - Makeup Hacks
+  - Makeup Tutorial
+slug: makeup-tips-over-40-erica-taylor-on-skin-prep-lift-and-modern-beauty
 reading_time: 5
-source_url: "https://travelbeautytips.com/makeup-tips-over-40-erica-taylor-on-skin-prep-lift-and-modern-beauty/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/makeup-tips-over-40-erica-taylor-on-skin-prep-lift-and-modern-beauty/
+imported_from: wordpress
 wp_original_id: 36175
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/makeup-tips-over-40-erica-taylor-on-skin-prep-lift-and-modern-beauty.webp
 seo:
-  canonical: "https://travelbeautytips.com/makeup-tips-over-40-erica-taylor-on-skin-prep-lift-and-modern-beauty/"
-  og_title: "Makeup Tips Over 40: Erica Taylor on Skin Prep, Lift, and Modern Beauty - Travel Beauty Tips"
-  og_description: "Veteran makeup artist Erica Taylor shares approachable makeup advice for women over 40, including skin prep, placement tricks, and ways to refresh an outdated routine."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/makeup-tips-over-40-erica-taylor-on-skin-prep-lift-and-modern-beauty/
+  og_title: >-
+    Makeup Tips Over 40: Erica Taylor on Skin Prep, Lift, and Modern Beauty -
+    Travel Beauty Tips
+  og_description: >-
+    Veteran makeup artist Erica Taylor shares approachable makeup advice for
+    women over 40, including skin prep, placement tricks, and ways to refresh an
+    outdated routine.
+  twitter_card: summary_large_image
 videos:
-  - id: "f7c0fa3f"
-    url: "https://www.youtube.com/watch?v=0xAM0En5-cU"
-    position: "after-paragraph-2"
+  - id: f7c0fa3f
+    url: 'https://www.youtube.com/watch?v=0xAM0En5-cU'
+    position: after-paragraph-2
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -32,7 +43,11 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written beauty article with excellent tone and length, but lacks travel content integration and could benefit from stronger SEO optimization with title length and keyword placement."
+quality_note: >-
+  Well-written beauty article with excellent tone and length, but lacks travel
+  content integration and could benefit from stronger SEO optimization with
+  title length and keyword placement.
+image_alt: Confident woman over 40 applying makeup at a softly lit vanity
 ---
 
 Makeup routines can stay familiar for years, but skin, style, and product preferences often evolve over time. In this episode of The Beauty Authority, NewBeauty's Tatiana Bido speaks with veteran makeup artist and viral content creator Erica Taylor about makeup tips for women over 40, with a focus on confidence, approachable technique, and simple updates that make a routine feel fresh again.
