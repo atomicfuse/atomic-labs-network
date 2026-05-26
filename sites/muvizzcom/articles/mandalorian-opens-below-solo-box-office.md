@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: /assets/images/mandalorian-opens-below-solo-box-office.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   claims about a Mandalorian theatrical release that never happened, plus
   below-target word count.
 reading_time: 3
+image_alt: >-
+  A lone space-western figure faces a glowing desert screen in a mostly empty
+  theater.
 ---
 ## Star Wars Struggles Continue at the Box Office
 
