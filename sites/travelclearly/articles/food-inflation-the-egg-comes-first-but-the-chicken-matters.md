@@ -1,25 +1,39 @@
 ---
-title: "Food Inflation: The Egg Comes First But The Chicken Matters!"
-description: "An analysis of the current egg price inflation, explaining how avian flu outbreaks, climate change, and supply-demand timing challenges have driven a 36.8% increase in egg prices, with further increases expected throughout the year."
-type: "standard"
-status: "review"
-publishDate: "2025-02-02T12:53:23+00:00"
-author: "admin"
+title: 'Food Inflation: The Egg Comes First But The Chicken Matters!'
+description: >-
+  An analysis of the current egg price inflation, explaining how avian flu
+  outbreaks, climate change, and supply-demand timing challenges have driven a
+  36.8% increase in egg prices, with further increases expected throughout the
+  year.
+type: standard
+status: review
+publishDate: '2025-02-02T12:53:23+00:00'
+author: admin
 tags:
-  - "Travel"
-  - "Food &amp; Drink"
-slug: "food-inflation-the-egg-comes-first-but-the-chicken-matters"
+  - Travel
+  - Food &amp; Drink
+slug: food-inflation-the-egg-comes-first-but-the-chicken-matters
 reading_time: 3
-source_url: "https://travelclearly.com/food-inflation-the-egg-comes-first-but-the-chicken-matters/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/food-inflation-the-egg-comes-first-but-the-chicken-matters/
+imported_from: wordpress
 wp_original_id: 36348
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/food-inflation-the-egg-comes-first-but-the-chicken-matters.webp
 seo:
-  canonical: "https://travelclearly.com/food-inflation-the-egg-comes-first-but-the-chicken-matters/"
-  og_title: "Food Inflation: The Egg Comes First But The Chicken Matters! - Travel Clearly"
-  og_description: "The current consumer outcries regarding the price of eggs, on average Garde A large for $4.15 a dozen is warranted. Last year, this time the same eggs cost $2.52 a dozen, that is a 36.8% increase. To understand the economics of eggs, you must acknowledge that the chicken comes first. Headlines are solely focused on [&hellip;]"
-  og_image: "https://specials-images.forbesimg.com/imageserve/679d9eb4fb6fec8cbc5e5ea5/The-variances-between-protein-consumption/960x0.png?fit=scale"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/food-inflation-the-egg-comes-first-but-the-chicken-matters/
+  og_title: >-
+    Food Inflation: The Egg Comes First But The Chicken Matters! - Travel
+    Clearly
+  og_description: >-
+    The current consumer outcries regarding the price of eggs, on average Garde
+    A large for $4.15 a dozen is warranted. Last year, this time the same eggs
+    cost $2.52 a dozen, that is a 36.8% increase. To understand the economics of
+    eggs, you must acknowledge that the chicken comes first. Headlines are
+    solely focused on [&hellip;]
+  og_image: >-
+    https://specials-images.forbesimg.com/imageserve/679d9eb4fb6fec8cbc5e5ea5/The-variances-between-protein-consumption/960x0.png?fit=scale
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 45
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: "While factually accurate about egg pricing and avian flu, this economic analysis doesn't match the travel site's engaging tone or focus on travel-related food content."
+quality_note: >-
+  While factually accurate about egg pricing and avian flu, this economic
+  analysis doesn't match the travel site's engaging tone or focus on
+  travel-related food content.
+image_alt: >-
+  Basket of eggs on a quiet market counter with empty crates and a blurred hen
+  in the background
 ---
 
 The current consumer outcries regarding [the price of eggs](https://www.sofi.com/learn/content/average-cost-of-a-dozen-eggs/), on average Grade A large for $4.15 a dozen, is warranted. Last year at this time the same eggs cost $2.52 a dozen — that is a 36.8% increase. To understand the economics of eggs, you must acknowledge that the chicken comes first.
