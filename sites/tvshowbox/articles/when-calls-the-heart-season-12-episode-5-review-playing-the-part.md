@@ -1,24 +1,40 @@
 ---
-title: "When Calls the Heart Season 12 Episode 5 Review: Playing the Part"
-description: "A review of When Calls the Heart Season 12 Episode 5, in which several characters attempt to play personas that aren't their own, bringing humor, mystery, and emotional depth to Hope Valley through storylines involving an undercover mission, a teenage heartbreak, a suspicious heiress, and a friends' reunion."
-type: "standard"
-status: "published"
-publishDate: "2025-02-03T04:51:45+00:00"
-author: "admin"
+title: 'When Calls the Heart Season 12 Episode 5 Review: Playing the Part'
+description: >-
+  A review of When Calls the Heart Season 12 Episode 5, in which several
+  characters attempt to play personas that aren't their own, bringing humor,
+  mystery, and emotional depth to Hope Valley through storylines involving an
+  undercover mission, a teenage heartbreak, a suspicious heiress, and a friends'
+  reunion.
+type: standard
+status: published
+publishDate: '2025-02-03T04:51:45+00:00'
+author: admin
 tags:
-  - "TV News"
-  - "Spoilers"
-slug: "when-calls-the-heart-season-12-episode-5-review-playing-the-part"
+  - TV News
+  - Spoilers
+slug: when-calls-the-heart-season-12-episode-5-review-playing-the-part
 reading_time: 5
-source_url: "https://tvshowbox.com/when-calls-the-heart-season-12-episode-5-review-playing-the-part/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/when-calls-the-heart-season-12-episode-5-review-playing-the-part/
+imported_from: wordpress
 wp_original_id: 23626
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/when-calls-the-heart-season-12-episode-5-review-playing-the-part.webp
 seo:
-  canonical: "https://tvshowbox.com/when-calls-the-heart-season-12-episode-5-review-playing-the-part/"
-  og_title: "When Calls the Heart Season 12 Episode 5 Review: Playing the Part - TV Show Box"
-  og_description: "Critic&#8217;s Rating: 4.4 / 5.0 Many new mysteries began in Hope Valley, including discerning a suspicious heiress&#x2019;s motives. When Calls the Heart, Season 12 Episode 5 was fun and mysterious because several characters tried to play personas that weren&#x2019;t themselves. This worked for Nathan, who looked handsome and confident as a high-roller poker player. It [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/when-calls-the-heart-season-12-episode-5-review-playing-the-part/
+  og_title: >-
+    When Calls the Heart Season 12 Episode 5 Review: Playing the Part - TV Show
+    Box
+  og_description: >-
+    Critic&#8217;s Rating: 4.4 / 5.0 Many new mysteries began in Hope Valley,
+    including discerning a suspicious heiress&#x2019;s motives. When Calls the
+    Heart, Season 12 Episode 5 was fun and mysterious because several characters
+    tried to play personas that weren&#x2019;t themselves. This worked for
+    Nathan, who looked handsome and confident as a high-roller poker player. It
+    [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -26,7 +42,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written TV review with engaging tone and good length, though SEO optimization could be stronger with better heading structure and meta description length."
+quality_note: >-
+  Well-written TV review with engaging tone and good length, though SEO
+  optimization could be stronger with better heading structure and meta
+  description length.
+image_alt: >-
+  Period townspeople gather at dusk with hints of secrecy, romance, and
+  disguise.
 ---
 
 **Critic's Rating:** 4.4 / 5.0
