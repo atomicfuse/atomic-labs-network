@@ -1,26 +1,38 @@
 ---
-title: "Italy Expands Flight-Free Rail Adventures With Byway and Exodus"
-description: "Byway and Exodus Adventure Travels have expanded their rail partnership to make Italy and other European destinations more accessible for flight-free adventure holidays, supporting slower, lower-carbon travel experiences across the continent."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:48:09+00:00"
-author: "Taylor Winters"
+title: Italy Expands Flight-Free Rail Adventures With Byway and Exodus
+description: >-
+  Byway and Exodus Adventure Travels have expanded their rail partnership to
+  make Italy and other European destinations more accessible for flight-free
+  adventure holidays, supporting slower, lower-carbon travel experiences across
+  the continent.
+type: standard
+status: published
+publishDate: '2026-05-18T08:48:09+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "News"
-  - "Travel"
-slug: "italy-expands-flight-free-rail-adventures-with-byway-and-exodus"
+  - Destinations
+  - News
+  - Travel
+slug: italy-expands-flight-free-rail-adventures-with-byway-and-exodus
 reading_time: 7
-source_url: "https://journeypeaks.com/italy-expands-flight-free-rail-adventures-with-byway-and-exodus/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/italy-expands-flight-free-rail-adventures-with-byway-and-exodus/
+imported_from: wordpress
 wp_original_id: 38851
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/italy-expands-flight-free-rail-adventures-with-byway-and-exodus.webp
 seo:
-  canonical: "https://journeypeaks.com/italy-expands-flight-free-rail-adventures-with-byway-and-exodus/"
-  og_title: "Italy Expands Flight-Free Rail Adventures With Byway and Exodus - Journey Peaks"
-  og_description: "Byway and Exodus Adventure Travels expand rail-based adventure holidays, making Italy and other European destinations easier to reach flight-free while supporting slower, lower-carbon travel experiences."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/italy-expands-flight-free-rail-adventures-with-byway-and-exodus/
+  og_title: >-
+    Italy Expands Flight-Free Rail Adventures With Byway and Exodus - Journey
+    Peaks
+  og_description: >-
+    Byway and Exodus Adventure Travels expand rail-based adventure holidays,
+    making Italy and other European destinations easier to reach flight-free
+    while supporting slower, lower-carbon travel experiences.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong travel content with excellent keyword coverage and appropriate length, though the title could be more compelling for SEO optimization."
+quality_note: >-
+  Strong travel content with excellent keyword coverage and appropriate length,
+  though the title could be more compelling for SEO optimization.
+image_alt: >-
+  Passenger train winding through sunlit Italian countryside with vineyards and
+  distant hill towns
 ---
 
 Flight-free travel is moving from niche idea to mainstream holiday choice, and Italy is now a bigger part of that shift. Byway and Exodus Adventure Travels have expanded their rail partnership, giving more travellers a practical way to reach European adventure holidays without stepping onto a plane. The move strengthens rail access to Italy while connecting it with popular destinations such as France, Spain, Germany, Switzerland, Norway and Greece.
