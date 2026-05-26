@@ -1,26 +1,42 @@
 ---
-title: "Boost Your Gut Health: 3 Essential Seeds to Combat Constipation as Recommended by Doctors"
-description: "Incorporating flaxseeds, chia seeds, and pumpkin seeds into your daily diet can significantly improve gut health and alleviate constipation. These seeds are rich in dietary fiber and essential nutrients, offering numerous health benefits that support digestion and overall wellness."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:21:26+00:00"
-author: "Taylor Winters"
+title: >-
+  Boost Your Gut Health: 3 Essential Seeds to Combat Constipation as Recommended
+  by Doctors
+description: >-
+  Incorporating flaxseeds, chia seeds, and pumpkin seeds into your daily diet
+  can significantly improve gut health and alleviate constipation. These seeds
+  are rich in dietary fiber and essential nutrients, offering numerous health
+  benefits that support digestion and overall wellness.
+type: standard
+status: review
+publishDate: '2025-04-23T16:21:26+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "boost-your-gut-health-3-essential-seeds-to-combat-constipation-as-recommended-by-doctors"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: >-
+  boost-your-gut-health-3-essential-seeds-to-combat-constipation-as-recommended-by-doctors
 reading_time: 2
-source_url: "https://eznutritiontips.com/boost-your-gut-health-3-essential-seeds-to-combat-constipation-as-recommended-by-doctors/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/boost-your-gut-health-3-essential-seeds-to-combat-constipation-as-recommended-by-doctors/
+imported_from: wordpress
 wp_original_id: 18780
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/boost-your-gut-health-3-essential-seeds-to-combat-constipation-as-recommended-by-doctors.webp
 seo:
-  canonical: "https://eznutritiontips.com/boost-your-gut-health-3-essential-seeds-to-combat-constipation-as-recommended-by-doctors/"
-  og_title: "Boost Your Gut Health: 3 Essential Seeds to Combat Constipation as Recommended by Doctors - Easy Nutrition Tips"
-  og_description: "Incorporating flaxseeds, chia seeds, and pumpkin seeds into your daily diet can significantly improve gut health and alleviate constipation. These seeds are rich in dietary fiber and essential nutrients, offering numerous health benefits that support digestion and overall wellness."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-59.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/boost-your-gut-health-3-essential-seeds-to-combat-constipation-as-recommended-by-doctors/
+  og_title: >-
+    Boost Your Gut Health: 3 Essential Seeds to Combat Constipation as
+    Recommended by Doctors - Easy Nutrition Tips
+  og_description: >-
+    Incorporating flaxseeds, chia seeds, and pumpkin seeds into your daily diet
+    can significantly improve gut health and alleviate constipation. These seeds
+    are rich in dietary fiber and essential nutrients, offering numerous health
+    benefits that support digestion and overall wellness.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-59.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -28,7 +44,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 369 words compared to the 800-1200 word range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 369 words compared to the 800-1200 word range.
+image_alt: >-
+  Bowls of flax, chia, and pumpkin seeds on a bright kitchen counter with a
+  glass of water.
 ---
 
 Are you finding it difficult to maintain a healthy gut? Experiencing constipation issues? You're not alone. Many individuals grapple with these health challenges. Fortunately, a simple dietary modification can help. According to a health professional, incorporating three types of seeds into your daily diet can significantly improve your gut health and alleviate constipation.
