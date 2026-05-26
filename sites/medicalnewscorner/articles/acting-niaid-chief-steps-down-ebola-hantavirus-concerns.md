@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://medicalxpress.com/news/2026-05-niaid-chief-ebola-hantavirus.html'
 source_item_id: 6a152d8216f23264031d81b0
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/acting-niaid-chief-steps-down-ebola-hantavirus-concerns.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   keywords, it appears to contain factual inaccuracies about Dr. Taubenberger's
   role and current NIAID leadership, significantly impacting credibility.
 reading_time: 3
+image_alt: >-
+  Empty chair in a modern research facility corridor with blurred scientists
+  working behind glass.
 ---
 ## Leadership Vacuum at Critical Health Agency
 
