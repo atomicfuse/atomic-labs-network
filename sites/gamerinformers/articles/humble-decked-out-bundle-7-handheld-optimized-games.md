@@ -1,25 +1,37 @@
 ---
-title: "Humble Decked Out Bundle: 7 Handheld-Optimized Games"
-description: "The Humble Decked Out Bundle offers seven exceptional games optimized for handheld devices, combining convenience and high performance. This curated collection provides diverse gaming experiences, appealing to both casual and dedicated players, while supporting charitable causes with a portion of its proceeds."
-type: "standard"
-status: "review"
-publishDate: "2026-01-08T09:33:35+00:00"
-author: "Taylor Winters"
+title: 'Humble Decked Out Bundle: 7 Handheld-Optimized Games'
+description: >-
+  The Humble Decked Out Bundle offers seven exceptional games optimized for
+  handheld devices, combining convenience and high performance. This curated
+  collection provides diverse gaming experiences, appealing to both casual and
+  dedicated players, while supporting charitable causes with a portion of its
+  proceeds.
+type: standard
+status: review
+publishDate: '2026-01-08T09:33:35+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "humble-decked-out-bundle-7-handheld-optimized-games"
+  - Gaming News
+  - Community
+slug: humble-decked-out-bundle-7-handheld-optimized-games
 reading_time: 4
-source_url: "https://gamerinformers.com/humble-decked-out-bundle-7-handheld-optimized-games/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/humble-decked-out-bundle-7-handheld-optimized-games/
+imported_from: wordpress
 wp_original_id: 34119
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: /assets/images/humble-decked-out-bundle-7-handheld-optimized-games.webp
 seo:
-  canonical: "https://gamerinformers.com/humble-decked-out-bundle-7-handheld-optimized-games/"
-  og_title: "Humble Decked Out Bundle: 7 Handheld-Optimized Games - Gamer Informers"
-  og_description: "The Humble Decked Out Bundle offers seven exceptional games optimized for handheld devices, combining convenience and high performance. This curated collection provides diverse gaming experiences, appealing to both casual and dedicated players, while supporting charitable causes with a portion of its proceeds."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2026/01/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/humble-decked-out-bundle-7-handheld-optimized-games/
+  og_title: 'Humble Decked Out Bundle: 7 Handheld-Optimized Games - Gamer Informers'
+  og_description: >-
+    The Humble Decked Out Bundle offers seven exceptional games optimized for
+    handheld devices, combining convenience and high performance. This curated
+    collection provides diverse gaming experiences, appealing to both casual and
+    dedicated players, while supporting charitable causes with a portion of its
+    proceeds.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2026/01/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 80
-quality_note: "Well-written piece with good tone and keyword coverage, but suffers from vague content about unspecified games and falls short of ideal word count."
+quality_note: >-
+  Well-written piece with good tone and keyword coverage, but suffers from vague
+  content about unspecified games and falls short of ideal word count.
+image_alt: >-
+  Handheld gaming console glowing with colorful abstract game worlds on a sleek
+  tabletop
 ---
 
 In the ever-evolving world of gaming, handheld devices provide an immersive experience that combines convenience and high performance. Gamers seeking titles optimized for portable play can now indulge in the Humble Decked Out Bundle, which offers a curated selection of seven exceptional games. This bundle is designed to enhance the handheld gaming experience, appealing to both casual and dedicated players.
