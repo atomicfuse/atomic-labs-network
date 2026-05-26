@@ -1,26 +1,42 @@
 ---
-title: "Boost Your Health with Annessa Chumbley’s Delicious Tips for National Nutrition Month"
-description: "In celebration of National Nutrition Month, dietician Annessa Chumbley shares insights on maintaining a balanced diet, emphasizing the importance of variety in food, hydration, mindful eating, nutritious snacking, and meal planning for a healthier lifestyle."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:24:51+00:00"
-author: "Taylor Winters"
+title: >-
+  Boost Your Health with Annessa Chumbley’s Delicious Tips for National
+  Nutrition Month
+description: >-
+  In celebration of National Nutrition Month, dietician Annessa Chumbley shares
+  insights on maintaining a balanced diet, emphasizing the importance of variety
+  in food, hydration, mindful eating, nutritious snacking, and meal planning for
+  a healthier lifestyle.
+type: standard
+status: review
+publishDate: '2025-04-23T16:24:51+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "boost-your-health-with-annessa-chumbleys-delicious-tips-for-national-nutrition-month"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: >-
+  boost-your-health-with-annessa-chumbleys-delicious-tips-for-national-nutrition-month
 reading_time: 2
-source_url: "https://eznutritiontips.com/boost-your-health-with-annessa-chumbleys-delicious-tips-for-national-nutrition-month/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/boost-your-health-with-annessa-chumbleys-delicious-tips-for-national-nutrition-month/
+imported_from: wordpress
 wp_original_id: 18790
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/boost-your-health-with-annessa-chumbleys-delicious-tips-for-national-nutrition-month.webp
 seo:
-  canonical: "https://eznutritiontips.com/boost-your-health-with-annessa-chumbleys-delicious-tips-for-national-nutrition-month/"
-  og_title: "Boost Your Health with Annessa Chumbley's Delicious Tips for National Nutrition Month - Easy Nutrition Tips"
-  og_description: "In celebration of National Nutrition Month, dietician Annessa Chumbley shares insights on maintaining a balanced diet. She emphasizes the importance of variety in food, hydration, mindful eating, nutritious snacking, and meal planning for a healthier lifestyle."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-62.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/boost-your-health-with-annessa-chumbleys-delicious-tips-for-national-nutrition-month/
+  og_title: >-
+    Boost Your Health with Annessa Chumbley's Delicious Tips for National
+    Nutrition Month - Easy Nutrition Tips
+  og_description: >-
+    In celebration of National Nutrition Month, dietician Annessa Chumbley
+    shares insights on maintaining a balanced diet. She emphasizes the
+    importance of variety in food, hydration, mindful eating, nutritious
+    snacking, and meal planning for a healthier lifestyle.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-62.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -28,7 +44,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written nutrition content with good tone and keyword relevance, but significantly under the target word count at only 358 words when 800-1200 is expected."
+quality_note: >-
+  Well-written nutrition content with good tone and keyword relevance, but
+  significantly under the target word count at only 358 words when 800-1200 is
+  expected.
+image_alt: >-
+  Colorful healthy foods and water arranged on a sunlit kitchen counter for
+  balanced nutrition
 ---
 
 March is a month synonymous with the celebration of nutritional awareness across the globe. Annessa Chumbley, a renowned dietician, shares some exciting and healthful insights to commemorate National Nutrition Month. Let's delve into her expert advice to maintain a balanced diet and lead a healthier lifestyle.
