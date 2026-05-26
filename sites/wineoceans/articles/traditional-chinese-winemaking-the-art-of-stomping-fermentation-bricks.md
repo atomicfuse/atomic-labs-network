@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-traditional-chinese-winemaking-the-art-of-stomping-fermentation-bricks
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/traditional-chinese-winemaking-the-art-of-stomping-fermentation-bricks.webp
 reading_time: 4
 quality_score: 66
 score_breakdown:
@@ -35,6 +36,7 @@ quality_note: >-
   Article covers relevant wine topics with good keyword integration but contains
   vague, potentially fabricated claims about Chinese winemaking practices and
   falls short of target word count.
+image_alt: Artisan stomping fermentation bricks in a warm traditional Chinese winery
 ---
 ## Ancient Techniques in Modern Times
 
