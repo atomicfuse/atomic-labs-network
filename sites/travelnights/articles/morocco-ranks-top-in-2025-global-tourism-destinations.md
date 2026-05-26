@@ -1,25 +1,35 @@
 ---
-title: "Morocco Ranks Top in 2025 Global Tourism Destinations"
-description: "Morocco is emerging as a top global travel destination, offering rich cultural heritage, diverse landscapes, and vibrant cities. With strategic efforts in infrastructure and cultural preservation, Morocco aims to solidify its position in global tourism by 2025."
-type: "standard"
-status: "published"
-publishDate: "2025-11-30T15:08:52+00:00"
-author: "Malcolm Anderson"
+title: Morocco Ranks Top in 2025 Global Tourism Destinations
+description: >-
+  Morocco is emerging as a top global travel destination, offering rich cultural
+  heritage, diverse landscapes, and vibrant cities. With strategic efforts in
+  infrastructure and cultural preservation, Morocco aims to solidify its
+  position in global tourism by 2025.
+type: standard
+status: published
+publishDate: '2025-11-30T15:08:52+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Destinations"
-slug: "morocco-ranks-top-in-2025-global-tourism-destinations"
+  - Culture
+  - Destinations
+slug: morocco-ranks-top-in-2025-global-tourism-destinations
 reading_time: 3
-source_url: "https://travelnights.com/morocco-ranks-top-in-2025-global-tourism-destinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/morocco-ranks-top-in-2025-global-tourism-destinations/
+imported_from: wordpress
 wp_original_id: 36618
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/morocco-ranks-top-in-2025-global-tourism-destinations.webp
 seo:
-  canonical: "https://travelnights.com/morocco-ranks-top-in-2025-global-tourism-destinations/"
-  og_title: "Morocco Ranks Top in 2025 Global Tourism Destinations - Travel Nights"
-  og_description: "Morocco is emerging as a top global travel destination, offering rich cultural heritage, diverse landscapes, and vibrant cities. With strategic efforts in infrastructure and cultural preservation, Morocco aims to solidify its position in global tourism by 2025."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/11/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/morocco-ranks-top-in-2025-global-tourism-destinations/
+  og_title: Morocco Ranks Top in 2025 Global Tourism Destinations - Travel Nights
+  og_description: >-
+    Morocco is emerging as a top global travel destination, offering rich
+    cultural heritage, diverse landscapes, and vibrant cities. With strategic
+    efforts in infrastructure and cultural preservation, Morocco aims to
+    solidify its position in global tourism by 2025.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/11/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with strong keyword relevance and engaging tone, but falls short on length requirements and makes unsupported claims about Morocco's future tourism rankings."
+quality_note: >-
+  Well-written article with strong keyword relevance and engaging tone, but
+  falls short on length requirements and makes unsupported claims about
+  Morocco's future tourism rankings.
+image_alt: >-
+  Golden-hour Moroccan rooftop view with medina architecture, mountains, and
+  desert tones
 ---
 
 Morocco is steadily emerging as a premier global travel destination, captivating visitors with its rich cultural heritage, diverse landscapes, and vibrant cities. As tourism experts anticipate Morocco's ascent in global rankings by 2025, the country is poised to offer unforgettable experiences to travelers from around the world. From bustling markets to serene deserts, Morocco's allure is undeniable.
