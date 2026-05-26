@@ -1,25 +1,36 @@
 ---
-title: "Leaked Footage Reveals Canceled Escape From New York Game"
-description: "Unseen footage of a canceled \"Escape from New York\" video game adaptation developed by Namco has surfaced online, offering a rare glimpse at the unreleased action-stealth title centered around Snake Plissken."
-type: "standard"
-status: "published"
-publishDate: "2025-11-17T09:36:49+00:00"
-author: "Taylor Winters"
+title: Leaked Footage Reveals Canceled Escape From New York Game
+description: >-
+  Unseen footage of a canceled "Escape from New York" video game adaptation
+  developed by Namco has surfaced online, offering a rare glimpse at the
+  unreleased action-stealth title centered around Snake Plissken.
+type: standard
+status: published
+publishDate: '2025-11-17T09:36:49+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "leaked-footage-reveals-canceled-escape-from-new-york-game"
+  - Gaming News
+  - Community
+slug: leaked-footage-reveals-canceled-escape-from-new-york-game
 reading_time: 3
-source_url: "https://gamingnewsalley.com/leaked-footage-reveals-canceled-escape-from-new-york-game/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/leaked-footage-reveals-canceled-escape-from-new-york-game/
+imported_from: wordpress
 wp_original_id: 42549
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/leaked-footage-reveals-canceled-escape-from-new-york-game.webp
 seo:
-  canonical: "https://gamingnewsalley.com/leaked-footage-reveals-canceled-escape-from-new-york-game/"
-  og_title: "Leaked Footage Reveals Canceled Escape From New York Game - Gaming News Alley"
-  og_description: "Unseen footage of a canceled \"Escape from New York\" video game adaptation has surfaced, reigniting interest among fans. The game, developed by Namco, promised an immersive experience with action and stealth elements, but was ultimately shelved due to various challenges."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/11/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/leaked-footage-reveals-canceled-escape-from-new-york-game/
+  og_title: >-
+    Leaked Footage Reveals Canceled Escape From New York Game - Gaming News
+    Alley
+  og_description: >-
+    Unseen footage of a canceled "Escape from New York" video game adaptation
+    has surfaced, reigniting interest among fans. The game, developed by Namco,
+    promised an immersive experience with action and stealth elements, but was
+    ultimately shelved due to various challenges.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/11/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written gaming news piece with strong keyword coverage and engaging tone, but falls short of target word count at 594 words versus the 800-1200 range."
+quality_note: >-
+  Well-written gaming news piece with strong keyword coverage and engaging tone,
+  but falls short of target word count at 594 words versus the 800-1200 range.
+image_alt: >-
+  A dusty CRT monitor glows with grainy stealth-game footage in a dark archive
+  room.
 ---
 
 In a surprising turn of events, previously unseen footage of a canceled video game adaptation of the cult classic film "Escape from New York" has emerged online, sparking interest and curiosity among fans and gamers alike. This revelation allows a glimpse into what could have been a fascinating addition to the gaming world, centered around the iconic character Snake Plissken, originally portrayed by Kurt Russell in the 1981 film.
