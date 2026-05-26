@@ -1,25 +1,36 @@
 ---
-title: "Hummer EV’s King Crab Rear Steering Enhances Maneuverability"
-description: "The GMC Hummer EV is transforming the automotive landscape with its cutting-edge electric design and unique features like rear-wheel steering, enhancing off-road capabilities. It combines a robust electric powertrain with advanced technologies for a sustainable, thrilling driving experience."
-type: "standard"
-status: "published"
-publishDate: "2025-05-18T11:10:29+00:00"
-author: "Lena Ashwood"
+title: Hummer EV’s King Crab Rear Steering Enhances Maneuverability
+description: >-
+  The GMC Hummer EV is transforming the automotive landscape with its
+  cutting-edge electric design and unique features like rear-wheel steering,
+  enhancing off-road capabilities. It combines a robust electric powertrain with
+  advanced technologies for a sustainable, thrilling driving experience.
+type: standard
+status: published
+publishDate: '2025-05-18T11:10:29+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "hummer-evs-king-crab-rear-steering-enhances-maneuverability"
+  - Innovation
+  - Tech
+slug: hummer-evs-king-crab-rear-steering-enhances-maneuverability
 reading_time: 3
-source_url: "https://mindsbit.com/hummer-evs-king-crab-rear-steering-enhances-maneuverability/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/hummer-evs-king-crab-rear-steering-enhances-maneuverability/
+imported_from: wordpress
 wp_original_id: 359
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/hummer-evs-king-crab-rear-steering-enhances-maneuverability.webp
 seo:
-  canonical: "https://mindsbit.com/hummer-evs-king-crab-rear-steering-enhances-maneuverability/"
-  og_title: "Hummer EV's King Crab Rear Steering Enhances Maneuverability - Minds bit"
-  og_description: "The GMC Hummer EV is transforming the automotive landscape with its cutting-edge electric design and unique features like rear-wheel steering, enhancing off-road capabilities. It combines a robust electric powertrain with advanced technologies for a sustainable, thrilling driving experience."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-48.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/hummer-evs-king-crab-rear-steering-enhances-maneuverability/
+  og_title: Hummer EV's King Crab Rear Steering Enhances Maneuverability - Minds bit
+  og_description: >-
+    The GMC Hummer EV is transforming the automotive landscape with its
+    cutting-edge electric design and unique features like rear-wheel steering,
+    enhancing off-road capabilities. It combines a robust electric powertrain
+    with advanced technologies for a sustainable, thrilling driving experience.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-48.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on length requirements and could benefit from stronger SEO optimization including meta description length and more strategic keyword placement."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  requirements and could benefit from stronger SEO optimization including meta
+  description length and more strategic keyword placement.
+image_alt: >-
+  Futuristic electric off-road SUV carving tight curved tracks across a desert
+  trail at sunset
 ---
 
 The automotive landscape is undergoing a transformative shift with the introduction of cutting-edge electric vehicles. Among these innovations, the GMC Hummer EV stands out, not only for its remarkable design but also for its unique features that promise to redefine off-road capabilities. One of the most intriguing features of this vehicle is its rear-wheel steering, which allows for exceptional maneuverability in challenging terrains.
