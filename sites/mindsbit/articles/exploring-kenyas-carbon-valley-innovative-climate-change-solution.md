@@ -1,25 +1,38 @@
 ---
-title: "Exploring Kenya’s Carbon Valley: Innovative Climate Change Solution"
-description: "Kenya is pioneering geothermal energy and carbon capture technologies, positioning itself as a leader in sustainable energy solutions that enhance energy security, reduce carbon emissions, and serve as a global model for combating climate change."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T11:03:33+00:00"
-author: "Lena Ashwood"
+title: 'Exploring Kenya’s Carbon Valley: Innovative Climate Change Solution'
+description: >-
+  Kenya is pioneering geothermal energy and carbon capture technologies,
+  positioning itself as a leader in sustainable energy solutions that enhance
+  energy security, reduce carbon emissions, and serve as a global model for
+  combating climate change.
+type: standard
+status: published
+publishDate: '2025-12-22T11:03:33+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "exploring-kenyas-carbon-valley-innovative-climate-change-solution"
+  - Innovation
+  - Tech
+slug: exploring-kenyas-carbon-valley-innovative-climate-change-solution
 reading_time: 3
-source_url: "https://mindsbit.com/exploring-kenyas-carbon-valley-innovative-climate-change-solution/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/exploring-kenyas-carbon-valley-innovative-climate-change-solution/
+imported_from: wordpress
 wp_original_id: 437
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-kenyas-carbon-valley-innovative-climate-change-solution.webp
 seo:
-  canonical: "https://mindsbit.com/exploring-kenyas-carbon-valley-innovative-climate-change-solution/"
-  og_title: "Exploring Kenya's Carbon Valley: Innovative Climate Change Solution - Minds bit"
-  og_description: "Kenya is pioneering in geothermal energy and carbon capture, positioning itself as a leader in sustainable energy solutions. This approach enhances energy security, reduces carbon emissions, and serves as a global model for combating climate change."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/exploring-kenyas-carbon-valley-innovative-climate-change-solution/
+  og_title: >-
+    Exploring Kenya's Carbon Valley: Innovative Climate Change Solution - Minds
+    bit
+  og_description: >-
+    Kenya is pioneering in geothermal energy and carbon capture, positioning
+    itself as a leader in sustainable energy solutions. This approach enhances
+    energy security, reduces carbon emissions, and serves as a global model for
+    combating climate change.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 513 words compared to the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 513 words compared to the 800-1200 range.
+image_alt: >-
+  Geothermal steam rises over Kenya’s Rift Valley in warm sunrise light with
+  futuristic clean energy elements.
 ---
 
 In the quest for sustainable energy solutions, Kenya emerges as a pioneering force in harnessing geothermal resources and integrating carbon capture technologies. As global concerns about climate change intensify, this East African nation is leading the charge with innovative approaches that promise a cleaner and more sustainable future.
