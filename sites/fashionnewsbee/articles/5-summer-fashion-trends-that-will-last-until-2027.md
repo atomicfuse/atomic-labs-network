@@ -1,24 +1,35 @@
 ---
-title: "5 Summer Fashion Trends That Will Last Until 2027"
-description: "Summer 2026 fashion favors effortless polish with butter yellow, capri pants, scarf styling, sheer layers, raffia accessories, minimal sandals, crochet textures, and refined nautical details for a wearable warm-weather wardrobe."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T08:44:25+00:00"
-author: "Taylor Winters"
+title: 5 Summer Fashion Trends That Will Last Until 2027
+description: >-
+  Summer 2026 fashion favors effortless polish with butter yellow, capri pants,
+  scarf styling, sheer layers, raffia accessories, minimal sandals, crochet
+  textures, and refined nautical details for a wearable warm-weather wardrobe.
+type: standard
+status: published
+publishDate: '2026-05-07T08:44:25+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "5-summer-fashion-trends-that-will-last-until-2027"
+  - Fashion
+slug: 5-summer-fashion-trends-that-will-last-until-2027
 reading_time: 8
-source_url: "https://fashionnewsbee.com/5-summer-fashion-trends-that-will-last-until-2027/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/5-summer-fashion-trends-that-will-last-until-2027/'
+imported_from: wordpress
 wp_original_id: 31664
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/5-summer-fashion-trends-that-will-last-until-2027.webp
 seo:
-  canonical: "https://fashionnewsbee.com/5-summer-fashion-trends-that-will-last-until-2027/"
-  og_title: "5 Summer Fashion Trends That Will Last Until 2027 - Fashion News Bee"
-  og_description: "Summer 2026 fashion favors effortless polish with butter yellow, capri pants, scarf styling, sheer layers, raffia accessories, minimal sandals, crochet textures, and refined nautical details for a wearable warm-weather wardrobe."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/5-summer-fashion-trends-that-will-last-until-2027/
+  og_title: 5 Summer Fashion Trends That Will Last Until 2027 - Fashion News Bee
+  og_description: >-
+    Summer 2026 fashion favors effortless polish with butter yellow, capri
+    pants, scarf styling, sheer layers, raffia accessories, minimal sandals,
+    crochet textures, and refined nautical details for a wearable warm-weather
+    wardrobe.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Sunlit summer fashion editorial with butter yellow layers, raffia accessories,
+  crochet texture, and coastal styling.
 ---
 
 Summer 2026 fashion is leaning into ease, polish, and personality. The strongest trends feel wearable, but never boring. Think refined vacation textures, playful proportions, sun-washed color, and nostalgic pieces reworked for today. Instead of one dominant aesthetic, the season offers several clear directions that can blend into a modern warm-weather wardrobe.
