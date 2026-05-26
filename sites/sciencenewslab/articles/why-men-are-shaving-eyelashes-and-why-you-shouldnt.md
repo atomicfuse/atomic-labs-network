@@ -1,22 +1,27 @@
 ---
-title: "Why Men Are Shaving Eyelashes and Why You Shouldn’t"
-description: "Unusual beauty trends like men shaving their eyelashes have emerged on social media, but while influencers claim it enhances lash growth, experts warn it can harm eye health, leading to infections and unpredictable regrowth."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T08:30:04"
-author: "Taylor Winters"
+title: Why Men Are Shaving Eyelashes and Why You Shouldn’t
+description: >-
+  Unusual beauty trends like men shaving their eyelashes have emerged on social
+  media, but while influencers claim it enhances lash growth, experts warn it
+  can harm eye health, leading to infections and unpredictable regrowth.
+type: standard
+status: review
+publishDate: '2025-05-15T08:30:04'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "why-men-are-shaving-eyelashes-and-why-you-shouldnt"
+  - Space
+  - Humans
+slug: why-men-are-shaving-eyelashes-and-why-you-shouldnt
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/why-men-are-shaving-eyelashes-and-why-you-shouldnt/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/why-men-are-shaving-eyelashes-and-why-you-shouldnt/
+imported_from: wordpress
 wp_original_id: 14962
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/why-men-are-shaving-eyelashes-and-why-you-shouldnt.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/why-men-are-shaving-eyelashes-and-why-you-shouldnt/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/why-men-are-shaving-eyelashes-and-why-you-shouldnt/
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 25
@@ -24,7 +29,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "While the article maintains good factual accuracy and appropriate tone, it completely misses the site's science focus and target keywords, has a poor SEO title, and falls short of the target word count."
+quality_note: >-
+  While the article maintains good factual accuracy and appropriate tone, it
+  completely misses the site's science focus and target keywords, has a poor SEO
+  title, and falls short of the target word count.
+image_alt: >-
+  Close-up of a man’s eye with a razor held nearby, suggesting caution around
+  risky grooming trends.
 ---
 
 In recent times, social media platforms have become hotbeds for unusual beauty trends. One such trend gaining traction involves men shaving their eyelashes. While influencers may claim this practice enhances lash growth, experts warn that such actions can lead to potential harm and unintended consequences.
