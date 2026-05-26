@@ -1,0 +1,95 @@
+domain: foreverhealty
+site_name: ForeverHealty
+site_tagline: null
+author: Lily Reed
+groups: []
+active: true
+bundle_id: 6a158d0f16f23264031d8229
+brief:
+  audiences:
+    - Healthy Living enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Fitness & Movement
+    - Healthy Aging
+    - Healthy Recipes
+    - Mind & Body Wellness
+    - Nutrition & Diet
+    - Healthy Living Tips
+  seo_keywords_focus:
+    - Fitness & Movement
+    - Healthy Aging
+    - Healthy Recipes
+    - Mind & Body Wellness
+    - Nutrition & Diet
+    - Healthy Living Tips
+  content_guidelines:
+    - Focus on Healthy Living content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Healthy Living
+  vertical_id: 6a00793d1104bbff809b7c41
+  category_ids:
+    - 6a00793d1104bbff809b7c41
+    - 6a00793e1104bbff809b7d25
+    - 6a00793e1104bbff809b7d27
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#005BAA"
+    secondary: "#000000"
+    accent: "#61CE70"
+    background: "#FFFFFF"
+    text: "#121212"
+    muted: "#898989"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#121212"
+    link: "#005BAA"
+    link_hover: "#61CE70"
+    footer_bg: "#005BAA"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#005BAA"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#898989"
+    feed_title: "#121212"
+    feed_desc: "#414141"
+    feed_date: "#898989"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#121212"
+    prose_body: "#363636"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
