@@ -1,25 +1,33 @@
 ---
-title: "Expert Tips on Nutrition for Cancer Prevention"
-description: "Nutrition is key in cancer prevention, with dietary choices playing a significant role. Embracing plant-based foods, lean proteins, and healthy fats, while limiting red meats and alcohol, alongside regular exercise, can reduce cancer risk and promote overall health."
-type: "standard"
-status: "published"
-publishDate: "2025-11-20T10:29:40+00:00"
-author: "Taylor Winters"
+title: Expert Tips on Nutrition for Cancer Prevention
+description: >-
+  Nutrition is key in cancer prevention, with dietary choices playing a
+  significant role. Embracing plant-based foods, lean proteins, and healthy
+  fats, while limiting red meats and alcohol, alongside regular exercise, can
+  reduce cancer risk and promote overall health.
+type: standard
+status: published
+publishDate: '2025-11-20T10:29:40+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "expert-tips-on-nutrition-for-cancer-prevention"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: expert-tips-on-nutrition-for-cancer-prevention
 reading_time: 3
-source_url: "https://eznutritiontips.com/expert-tips-on-nutrition-for-cancer-prevention/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/expert-tips-on-nutrition-for-cancer-prevention/'
+imported_from: wordpress
 wp_original_id: 18951
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/expert-tips-on-nutrition-for-cancer-prevention.webp
 seo:
-  canonical: "https://eznutritiontips.com/expert-tips-on-nutrition-for-cancer-prevention/"
-  og_title: "Expert Tips on Nutrition for Cancer Prevention - Easy Nutrition Tips"
-  og_description: "Nutrition is key in cancer prevention, with dietary choices playing a significant role. Embracing plant-based foods, lean proteins, and healthy fats, while limiting red meats and alcohol, alongside regular exercise, can reduce cancer risk and promote overall health."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/expert-tips-on-nutrition-for-cancer-prevention/'
+  og_title: Expert Tips on Nutrition for Cancer Prevention - Easy Nutrition Tips
+  og_description: >-
+    Nutrition is key in cancer prevention, with dietary choices playing a
+    significant role. Embracing plant-based foods, lean proteins, and healthy
+    fats, while limiting red meats and alcohol, alongside regular exercise, can
+    reduce cancer risk and promote overall health.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with accurate health information and good tone, but falls short on length (551 words vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written article with accurate health information and good tone, but falls
+  short on length (551 words vs 800-1200 target) and could benefit from stronger
+  SEO optimization.
+image_alt: >-
+  Colorful healthy foods on a sunlit counter with a person preparing for
+  exercise in the background.
 ---
 
 Nutrition plays a crucial role in cancer prevention, offering a proactive approach to reducing risk through dietary choices. By incorporating certain foods and lifestyle habits, individuals can significantly influence their overall health and decrease the likelihood of developing cancer. This article explores essential dietary strategies to consider in your daily routine.
