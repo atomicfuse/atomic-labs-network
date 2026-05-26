@@ -1,26 +1,41 @@
 ---
-title: "Exploring Feelings on Written Consent: Mindfulness or Obligation?"
-description: "Understanding decision-making dynamics is crucial. Recent research highlights how mindfulness and written consent influence choices, suggesting that mindful awareness can significantly impact decisions, fostering deliberate and thoughtful approaches for more satisfactory outcomes in personal and professional contexts."
-type: "standard"
-status: "published"
-publishDate: "2026-02-05T10:23:31+00:00"
-author: "Lena Ashwood"
+title: 'Exploring Feelings on Written Consent: Mindfulness or Obligation?'
+description: >-
+  Understanding decision-making dynamics is crucial. Recent research highlights
+  how mindfulness and written consent influence choices, suggesting that mindful
+  awareness can significantly impact decisions, fostering deliberate and
+  thoughtful approaches for more satisfactory outcomes in personal and
+  professional contexts.
+type: standard
+status: published
+publishDate: '2026-02-05T10:23:31+00:00'
+author: Lena Ashwood
 tags:
-  - "Mindfulness"
-  - "Personal Growth"
-  - "Wellness"
-slug: "exploring-feelings-on-written-consent-mindfulness-or-obligation"
+  - Mindfulness
+  - Personal Growth
+  - Wellness
+slug: exploring-feelings-on-written-consent-mindfulness-or-obligation
 reading_time: 3
-source_url: "https://mindmedications.com/exploring-feelings-on-written-consent-mindfulness-or-obligation/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/exploring-feelings-on-written-consent-mindfulness-or-obligation/
+imported_from: wordpress
 wp_original_id: 619
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-feelings-on-written-consent-mindfulness-or-obligation.webp
 seo:
-  canonical: "https://mindmedications.com/exploring-feelings-on-written-consent-mindfulness-or-obligation/"
-  og_title: "Exploring Feelings on Written Consent: Mindfulness or Obligation? - Mind Medications"
-  og_description: "Understanding decision-making dynamics is crucial. Recent research highlights how mindfulness and written consent influence choices, suggesting that mindful awareness can significantly impact decisions, fostering deliberate and thoughtful approaches for more satisfactory outcomes in personal and professional contexts."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/exploring-feelings-on-written-consent-mindfulness-or-obligation/
+  og_title: >-
+    Exploring Feelings on Written Consent: Mindfulness or Obligation? - Mind
+    Medications
+  og_description: >-
+    Understanding decision-making dynamics is crucial. Recent research
+    highlights how mindfulness and written consent influence choices, suggesting
+    that mindful awareness can significantly impact decisions, fostering
+    deliberate and thoughtful approaches for more satisfactory outcomes in
+    personal and professional contexts.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -28,7 +43,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with excellent keyword relevance and appropriate tone, but significantly below target word count and lacks specific research citations to support claims."
+quality_note: >-
+  Well-written article with excellent keyword relevance and appropriate tone,
+  but significantly below target word count and lacks specific research
+  citations to support claims.
+image_alt: >-
+  A person pauses thoughtfully beside a blank form and pen in soft morning
+  light.
 ---
 
 Understanding the dynamics of how we make decisions is crucial in both personal and professional contexts. Recent research explores the intricate process of mindful choice, shedding light on how written consent can influence decision-making. This study offers valuable insights into the role of mindfulness in everyday choices, suggesting that the practice of mindful awareness can profoundly impact the decisions we make.
