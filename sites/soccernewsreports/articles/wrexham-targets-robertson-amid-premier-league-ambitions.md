@@ -1,25 +1,37 @@
 ---
-title: "Wrexham Targets Robertson Amid Premier League Ambitions"
-description: "Wrexham AFC, co-owned by Hollywood stars Ryan Reynolds and Rob McElhenney, is reportedly targeting Liverpool's Andy Robertson in a bold transfer move that reflects the club's ambitious vision to climb the English football ladder and reach the Premier League."
-type: "standard"
-status: "review"
-publishDate: "2026-03-05T09:39:40+00:00"
-author: "Taylor Winters"
+title: Wrexham Targets Robertson Amid Premier League Ambitions
+description: >-
+  Wrexham AFC, co-owned by Hollywood stars Ryan Reynolds and Rob McElhenney, is
+  reportedly targeting Liverpool's Andy Robertson in a bold transfer move that
+  reflects the club's ambitious vision to climb the English football ladder and
+  reach the Premier League.
+type: standard
+status: review
+publishDate: '2026-03-05T09:39:40+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andy Robertson"
-slug: "wrexham-targets-robertson-amid-premier-league-ambitions"
+  - Latest News
+  - Andy Robertson
+slug: wrexham-targets-robertson-amid-premier-league-ambitions
 reading_time: 4
-source_url: "https://soccernewsreports.com/wrexham-targets-robertson-amid-premier-league-ambitions/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/wrexham-targets-robertson-amid-premier-league-ambitions/
+imported_from: wordpress
 wp_original_id: 37990
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/wrexham-targets-robertson-amid-premier-league-ambitions.webp
 seo:
-  canonical: "https://soccernewsreports.com/wrexham-targets-robertson-amid-premier-league-ambitions/"
-  og_title: "Wrexham Targets Robertson Amid Premier League Ambitions - Soccer News Reports"
-  og_description: "Wrexham AFC, co-owned by Ryan Reynolds and Rob McElhenney, is reportedly targeting Scotland's Andy Robertson in a bold move to strengthen their squad and ascend the English football ladder, reflecting their ambition and vision to reach the Premier League."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/wrexham-targets-robertson-amid-premier-league-ambitions/
+  og_title: >-
+    Wrexham Targets Robertson Amid Premier League Ambitions - Soccer News
+    Reports
+  og_description: >-
+    Wrexham AFC, co-owned by Ryan Reynolds and Rob McElhenney, is reportedly
+    targeting Scotland's Andy Robertson in a bold move to strengthen their squad
+    and ascend the English football ladder, reflecting their ambition and vision
+    to reach the Premier League.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "Engaging content with good tone but falls short on length and contains speculative transfer claims without credible sourcing that could mislead readers."
+quality_note: >-
+  Engaging content with good tone but falls short on length and contains
+  speculative transfer claims without credible sourcing that could mislead
+  readers.
+image_alt: Footballer in a red kit looks toward a brightly lit stadium from a tunnel.
 ---
 
 Wrexham AFC, a club that has captured the world's attention with its recent rise, is reportedly eyeing a major move in the transfer market. The club, co-owned by Hollywood stars Ryan Reynolds and Rob McElhenney, has ambitions that match its newfound fame. This includes a bold plan to bring a seasoned Premier League talent into their ranks, reflecting their commitment to ascend the English football ladder.
