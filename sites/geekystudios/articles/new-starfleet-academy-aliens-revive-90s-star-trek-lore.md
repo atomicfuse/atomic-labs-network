@@ -1,24 +1,34 @@
 ---
-title: "New Starfleet Academy Aliens Revive ’90s Star Trek Lore"
-description: "The Marvel Cinematic Universe expands with the introduction of Sentry, a superhero with immense power and a complex narrative involving his dangerous alter ego, the Void, promising new storytelling possibilities exploring themes of identity and inner conflict."
-type: "standard"
-status: "review"
-publishDate: "2026-02-12T10:33:24+00:00"
-author: "Arthur Daly"
+title: New Starfleet Academy Aliens Revive ’90s Star Trek Lore
+description: >-
+  The Marvel Cinematic Universe expands with the introduction of Sentry, a
+  superhero with immense power and a complex narrative involving his dangerous
+  alter ego, the Void, promising new storytelling possibilities exploring themes
+  of identity and inner conflict.
+type: standard
+status: review
+publishDate: '2026-02-12T10:33:24+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "new-starfleet-academy-aliens-revive-90s-star-trek-lore"
+  - Pop Culture
+slug: new-starfleet-academy-aliens-revive-90s-star-trek-lore
 reading_time: 3
-source_url: "https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/
+imported_from: wordpress
 wp_original_id: 706
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/new-starfleet-academy-aliens-revive-90s-star-trek-lore.webp
 seo:
-  canonical: "https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/"
-  og_title: "New Starfleet Academy Aliens Revive '90s Star Trek Lore - Geeky Studios"
-  og_description: "The Marvel Cinematic Universe expands by introducing dynamic characters like Sentry, a superhero with immense power and a complex narrative. His arrival promises new storytelling possibilities, exploring themes of identity and inner conflict, enriching the MCU's narrative landscape."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/
+  og_title: New Starfleet Academy Aliens Revive '90s Star Trek Lore - Geeky Studios
+  og_description: >-
+    The Marvel Cinematic Universe expands by introducing dynamic characters like
+    Sentry, a superhero with immense power and a complex narrative. His arrival
+    promises new storytelling possibilities, exploring themes of identity and
+    inner conflict, enriching the MCU's narrative landscape.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 52
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "Major disconnect between title (Star Trek) and content (Marvel Sentry), with poor SEO structure and irrelevant keyword targeting despite decent writing quality."
+quality_note: >-
+  Major disconnect between title (Star Trek) and content (Marvel Sentry), with
+  poor SEO structure and irrelevant keyword targeting despite decent writing
+  quality.
+image_alt: >-
+  Alien cadets gather in a retro-futurist space academy atrium under cinematic
+  light.
 ---
 
 The Marvel Cinematic Universe (MCU) continues to expand its horizons with the introduction of new characters that promise to captivate audiences worldwide. As the MCU grows, it embraces both fresh faces and beloved figures from the comic world, creating a dynamic blend of narratives and personalities. One such character receiving much attention is Sentry, a superhero with a complex background and extraordinary abilities.
