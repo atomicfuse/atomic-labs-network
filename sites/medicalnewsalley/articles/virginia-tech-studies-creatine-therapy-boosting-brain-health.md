@@ -1,26 +1,39 @@
 ---
-title: "Virginia Tech Studies Creatine Therapy Boosting Brain Health"
-description: "Virginia Tech researchers are exploring creatine's potential to enhance brain health and cognitive function, investigating how creatine supplementation could support cognitive resilience and protect against neurological decline, particularly in aging populations."
-type: "standard"
-status: "published"
-publishDate: "2025-07-10T04:23:29+00:00"
-author: "Taylor Winters"
+title: Virginia Tech Studies Creatine Therapy Boosting Brain Health
+description: >-
+  Virginia Tech researchers are exploring creatine's potential to enhance brain
+  health and cognitive function, investigating how creatine supplementation
+  could support cognitive resilience and protect against neurological decline,
+  particularly in aging populations.
+type: standard
+status: published
+publishDate: '2025-07-10T04:23:29+00:00'
+author: Taylor Winters
 tags:
-  - "Aging"
-  - "Clinical Trials &amp; Research"
-  - "Mental Health"
-slug: "virginia-tech-studies-creatine-therapy-boosting-brain-health"
+  - Aging
+  - Clinical Trials &amp; Research
+  - Mental Health
+slug: virginia-tech-studies-creatine-therapy-boosting-brain-health
 reading_time: 3
-source_url: "https://medicalnewsalley.com/virginia-tech-studies-creatine-therapy-boosting-brain-health/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/virginia-tech-studies-creatine-therapy-boosting-brain-health/
+imported_from: wordpress
 wp_original_id: 32463
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/virginia-tech-studies-creatine-therapy-boosting-brain-health.webp
 seo:
-  canonical: "https://medicalnewsalley.com/virginia-tech-studies-creatine-therapy-boosting-brain-health/"
-  og_title: "Virginia Tech Studies Creatine Therapy Boosting Brain Health - Medical News Alley"
-  og_description: "Virginia Tech researchers are exploring creatine's potential to enhance brain health and cognitive function. This study aims to uncover how creatine supplementation could support cognitive resilience and protect against neurological decline, particularly in aging populations."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/07/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/virginia-tech-studies-creatine-therapy-boosting-brain-health/
+  og_title: >-
+    Virginia Tech Studies Creatine Therapy Boosting Brain Health - Medical News
+    Alley
+  og_description: >-
+    Virginia Tech researchers are exploring creatine's potential to enhance
+    brain health and cognitive function. This study aims to uncover how creatine
+    supplementation could support cognitive resilience and protect against
+    neurological decline, particularly in aging populations.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/07/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written article with strong tone and keyword relevance, but significantly under target word count at 535 words, which limits its SEO potential and depth of coverage."
+quality_note: >-
+  Well-written article with strong tone and keyword relevance, but significantly
+  under target word count at 535 words, which limits its SEO potential and depth
+  of coverage.
+image_alt: >-
+  Older adult in a neuroscience lab during a calm brain health assessment with a
+  researcher nearby
 ---
 
 Virginia Tech researchers are delving into the potential of creatine as a therapeutic option for enhancing brain health. Their innovative research seeks to explore how creatine can be leveraged to support cognitive function and protect against neurological decline. The study is spearheaded by a team of experts committed to uncovering alternative therapies that could offer significant benefits for mental well-being.
