@@ -1,30 +1,37 @@
 ---
-title: "Transformative Micro Beauty Habits for a Radiant Life"
-description: "Discover 20 micro beauty habits that can dramatically enhance your appearance and boost your confidence, from simple skincare routines to mindset practices that transform how you look and feel."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T09:45:23+00:00"
-author: "Taylor Winters"
+title: Transformative Micro Beauty Habits for a Radiant Life
+description: >-
+  Discover 20 micro beauty habits that can dramatically enhance your appearance
+  and boost your confidence, from simple skincare routines to mindset practices
+  that transform how you look and feel.
+type: standard
+status: review
+publishDate: '2025-12-22T09:45:23+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Fashion"
-  - "Makeup Hacks"
-slug: "transformative-micro-beauty-habits-for-a-radiant-life"
+  - Travel Tips
+  - Beauty
+  - Fashion
+  - Makeup Hacks
+slug: transformative-micro-beauty-habits-for-a-radiant-life
 reading_time: 3
-source_url: "https://travelbeautytips.com/transformative-micro-beauty-habits-for-a-radiant-life/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/transformative-micro-beauty-habits-for-a-radiant-life/
+imported_from: wordpress
 wp_original_id: 36101
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/transformative-micro-beauty-habits-for-a-radiant-life.webp
 seo:
-  canonical: "https://travelbeautytips.com/transformative-micro-beauty-habits-for-a-radiant-life/"
-  og_title: "Transformative Micro Beauty Habits for a Radiant Life - Travel Beauty Tips"
-  og_description: "Discover 20 micro beauty habits that can dramatically enhance your appearance and boost your confidence."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/transformative-micro-beauty-habits-for-a-radiant-life/
+  og_title: Transformative Micro Beauty Habits for a Radiant Life - Travel Beauty Tips
+  og_description: >-
+    Discover 20 micro beauty habits that can dramatically enhance your
+    appearance and boost your confidence.
+  twitter_card: summary_large_image
 videos:
-  - id: "72b5e1a9"
-    url: "https://www.youtube.com/watch?v=AENj5F8D2Yg"
-    position: "after-paragraph-2"
+  - id: 72b5e1a9
+    url: 'https://www.youtube.com/watch?v=AENj5F8D2Yg'
+    position: after-paragraph-2
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -32,7 +39,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 75
   keyword_relevance: 70
-quality_note: "The article has good tone and relevant beauty content but is significantly too short at 444 words (well below the 800-1200 target) and lacks proper heading structure for SEO optimization."
+quality_note: >-
+  The article has good tone and relevant beauty content but is significantly too
+  short at 444 words (well below the 800-1200 target) and lacks proper heading
+  structure for SEO optimization.
+image_alt: >-
+  Serene morning beauty routine with soft sunlight, skincare items, flowers, and
+  a confident woman at a vanity
 ---
 
 In the pursuit of beauty and self-improvement, it's often the small changes that make the most significant impact. Here, we explore 20 micro beauty habits that can truly transform your life. From enhancing your appearance to boosting your confidence, these simple practices are designed to help you achieve a radiant glow and a positive outlook.
