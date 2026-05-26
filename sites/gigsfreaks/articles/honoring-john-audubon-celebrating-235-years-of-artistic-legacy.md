@@ -1,24 +1,35 @@
 ---
-title: "Honoring John Audubon: Celebrating 235 Years of Artistic Legacy"
-description: "Various significant events shaping history on April 26 include the Chernobyl disaster, the launch of Explorer 1, and the birth of cultural icons like Carol Burnett, reflecting human achievement and resilience across politics, technology, and the arts."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:16:41+00:00"
-author: "Nico Harper"
+title: 'Honoring John Audubon: Celebrating 235 Years of Artistic Legacy'
+description: >-
+  Various significant events shaping history on April 26 include the Chernobyl
+  disaster, the launch of Explorer 1, and the birth of cultural icons like Carol
+  Burnett, reflecting human achievement and resilience across politics,
+  technology, and the arts.
+type: standard
+status: review
+publishDate: '2025-05-05T16:16:41+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "honoring-john-audubon-celebrating-235-years-of-artistic-legacy"
+  - Good Vibes
+slug: honoring-john-audubon-celebrating-235-years-of-artistic-legacy
 reading_time: 2
-source_url: "https://gigsfreaks.com/honoring-john-audubon-celebrating-235-years-of-artistic-legacy/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/honoring-john-audubon-celebrating-235-years-of-artistic-legacy/
+imported_from: wordpress
 wp_original_id: 891
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/honoring-john-audubon-celebrating-235-years-of-artistic-legacy.webp
 seo:
-  canonical: "https://gigsfreaks.com/honoring-john-audubon-celebrating-235-years-of-artistic-legacy/"
-  og_title: "Honoring John Audubon: Celebrating 235 Years of Artistic Legacy - GigsFreaks"
-  og_description: "Various significant events shaping history on April 26 include the Chernobyl disaster, the launch of Explorer 1, and the birth of cultural icons like Carol Burnett. These moments reflect human achievement and resilience across politics, technology, and the arts."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-102.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/honoring-john-audubon-celebrating-235-years-of-artistic-legacy/
+  og_title: 'Honoring John Audubon: Celebrating 235 Years of Artistic Legacy - GigsFreaks'
+  og_description: >-
+    Various significant events shaping history on April 26 include the Chernobyl
+    disaster, the launch of Explorer 1, and the birth of cultural icons like
+    Carol Burnett. These moments reflect human achievement and resilience across
+    politics, technology, and the arts.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-102.jpeg'
+  twitter_card: summary_large_image
 quality_score: 30
 score_breakdown:
   seo_quality: 25
@@ -26,7 +37,14 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 40
   keyword_relevance: 15
-quality_note: "The article is too short, contains factual errors (John James Audubon was a naturalist/ornithologist, not a composer, and died in 1851, not born in 1785), doesn't match the entertainment site's tone or keywords, and has poor SEO optimization with a misleading title."
+quality_note: >-
+  The article is too short, contains factual errors (John James Audubon was a
+  naturalist/ornithologist, not a composer, and died in 1851, not born in 1785),
+  doesn't match the entertainment site's tone or keywords, and has poor SEO
+  optimization with a misleading title.
+image_alt: >-
+  Antique sketchbook with a watercolor bird study beside archival objects and
+  soft historical silhouettes
 ---
 
 ## Historical Milestones
