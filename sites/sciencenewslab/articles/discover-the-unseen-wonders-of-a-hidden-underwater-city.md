@@ -1,23 +1,29 @@
 ---
-title: "Discover the Unseen Wonders of a Hidden Underwater City"
-description: "Scientists have discovered a \"lost city\" deep in the ocean, featuring unique geological formations and ecosystems. This site offers insights into Earth's history and potential extraterrestrial life, highlighting the need for preservation and further research into these underwater wonders."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T12:53:26"
-author: "Taylor Winters"
+title: Discover the Unseen Wonders of a Hidden Underwater City
+description: >-
+  Scientists have discovered a "lost city" deep in the ocean, featuring unique
+  geological formations and ecosystems. This site offers insights into Earth's
+  history and potential extraterrestrial life, highlighting the need for
+  preservation and further research into these underwater wonders.
+type: standard
+status: published
+publishDate: '2026-01-26T12:53:26'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Nature"
-  - "Space"
-slug: "discover-the-unseen-wonders-of-a-hidden-underwater-city"
+  - Environment
+  - Nature
+  - Space
+slug: discover-the-unseen-wonders-of-a-hidden-underwater-city
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/discover-the-unseen-wonders-of-a-hidden-underwater-city/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/discover-the-unseen-wonders-of-a-hidden-underwater-city/
+imported_from: wordpress
 wp_original_id: 15059
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/discover-the-unseen-wonders-of-a-hidden-underwater-city.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/discover-the-unseen-wonders-of-a-hidden-underwater-city/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/discover-the-unseen-wonders-of-a-hidden-underwater-city/
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -25,7 +31,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good scientific accuracy and engaging tone, but falls short on word count (603 vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with good scientific accuracy and engaging tone, but
+  falls short on word count (603 vs 800-1200 target) and could benefit from
+  stronger SEO optimization in title and meta description.
+image_alt: >-
+  Deep-sea mineral spires glow under a submersible’s lights in a mysterious
+  underwater landscape.
 ---
 
 Deep within the ocean's depths, scientists have unveiled a remarkable geological wonder that challenges previous conceptions of underwater landscapes. This newly discovered area, often described as a "lost city," offers a glimpse into the unique and diverse formations hidden beneath the sea. The site, with its towering structures and intricate ecosystems, is unlike anything encountered before, providing invaluable insights into the Earth's geological history.
