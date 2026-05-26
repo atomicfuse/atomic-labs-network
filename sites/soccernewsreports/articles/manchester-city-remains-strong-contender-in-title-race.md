@@ -1,25 +1,35 @@
 ---
-title: "Manchester City Remains Strong Contender in Title Race"
-description: "In the 2025-2026 season, Manchester City is dominating the Premier League, showcasing talent and strategic management. Their well-rounded squad, combined with experienced leadership, has positioned them as strong title contenders amidst intense competition."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T09:37:31+00:00"
-author: "Taylor Winters"
+title: Manchester City Remains Strong Contender in Title Race
+description: >-
+  In the 2025-2026 season, Manchester City is dominating the Premier League,
+  showcasing talent and strategic management. Their well-rounded squad, combined
+  with experienced leadership, has positioned them as strong title contenders
+  amidst intense competition.
+type: standard
+status: review
+publishDate: '2026-01-26T09:37:31+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "manchester-city-remains-strong-contender-in-title-race"
+  - Latest News
+  - AFC Bournemouth
+slug: manchester-city-remains-strong-contender-in-title-race
 reading_time: 3
-source_url: "https://soccernewsreports.com/manchester-city-remains-strong-contender-in-title-race/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/manchester-city-remains-strong-contender-in-title-race/
+imported_from: wordpress
 wp_original_id: 37966
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/manchester-city-remains-strong-contender-in-title-race.webp
 seo:
-  canonical: "https://soccernewsreports.com/manchester-city-remains-strong-contender-in-title-race/"
-  og_title: "Manchester City Remains Strong Contender in Title Race - Soccer News Reports"
-  og_description: "In the 2025-2026 season, Manchester City is dominating the Premier League, showcasing talent and strategic management. Their well-rounded squad, combined with experienced leadership, has positioned them as strong title contenders amidst intense competition."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/manchester-city-remains-strong-contender-in-title-race/
+  og_title: Manchester City Remains Strong Contender in Title Race - Soccer News Reports
+  og_description: >-
+    In the 2025-2026 season, Manchester City is dominating the Premier League,
+    showcasing talent and strategic management. Their well-rounded squad,
+    combined with experienced leadership, has positioned them as strong title
+    contenders amidst intense competition.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 53
 score_breakdown:
   seo_quality: 45
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 60
-quality_note: "The article has major factual issues discussing a future 2025-2026 season as if currently happening, lacks specific SEO optimization, but maintains good tone and covers relevant football topics."
+quality_note: >-
+  The article has major factual issues discussing a future 2025-2026 season as
+  if currently happening, lacks specific SEO optimization, but maintains good
+  tone and covers relevant football topics.
+image_alt: Unbranded footballers in sky-blue kits sprint across a floodlit stadium pitch.
 ---
 
 In the world of English football, the Premier League has long been considered one of the most competitive and entertaining leagues globally. The 2025-2026 season is proving no different, with Manchester City once again asserting their dominance. As the season progresses, they continue to demonstrate their prowess, aiming for yet another title. Their performance is not only a testament to their talent but also a reflection of the strategic management and formidable squad depth that they possess.
