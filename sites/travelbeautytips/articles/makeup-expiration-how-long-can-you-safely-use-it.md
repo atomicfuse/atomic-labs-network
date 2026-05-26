@@ -1,25 +1,34 @@
 ---
-title: "Makeup Expiration: How Long Can You Safely Use It?"
-description: "Understanding makeup expiration dates is crucial for maintaining skin health and product effectiveness. This guide helps you recognize signs of expired makeup and offers tips on storage and hygiene to ensure your beauty items remain safe and effective."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T09:45:39+00:00"
-author: "Taylor Winters"
+title: 'Makeup Expiration: How Long Can You Safely Use It?'
+description: >-
+  Understanding makeup expiration dates is crucial for maintaining skin health
+  and product effectiveness. This guide helps you recognize signs of expired
+  makeup and offers tips on storage and hygiene to ensure your beauty items
+  remain safe and effective.
+type: standard
+status: published
+publishDate: '2026-01-15T09:45:39+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "makeup-expiration-how-long-can-you-safely-use-it"
+  - Travel Tips
+  - Beauty
+slug: makeup-expiration-how-long-can-you-safely-use-it
 reading_time: 3
-source_url: "https://travelbeautytips.com/makeup-expiration-how-long-can-you-safely-use-it/"
-imported_from: "wordpress"
+source_url: 'https://travelbeautytips.com/makeup-expiration-how-long-can-you-safely-use-it/'
+imported_from: wordpress
 wp_original_id: 36118
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/makeup-expiration-how-long-can-you-safely-use-it.webp
 seo:
-  canonical: "https://travelbeautytips.com/makeup-expiration-how-long-can-you-safely-use-it/"
-  og_title: "Makeup Expiration: How Long Can You Safely Use It? - Travel Beauty Tips"
-  og_description: "Understanding makeup expiration dates is crucial for maintaining skin health and product effectiveness. This guide helps you recognize signs of expired makeup and offers tips on storage and hygiene to ensure your beauty items remain safe and effective."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/01/make_file.gif"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/makeup-expiration-how-long-can-you-safely-use-it/
+  og_title: 'Makeup Expiration: How Long Can You Safely Use It? - Travel Beauty Tips'
+  og_description: >-
+    Understanding makeup expiration dates is crucial for maintaining skin health
+    and product effectiveness. This guide helps you recognize signs of expired
+    makeup and offers tips on storage and hygiene to ensure your beauty items
+    remain safe and effective.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/01/make_file.gif'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written beauty article with good tone and accurate information, but falls short on length and could better integrate travel-related keywords for the site's focus."
+quality_note: >-
+  Well-written beauty article with good tone and accurate information, but falls
+  short on length and could better integrate travel-related keywords for the
+  site's focus.
+image_alt: >-
+  Clean vanity with makeup, a clock, cotton pads, and greenery suggesting beauty
+  hygiene and expiration awareness.
 ---
 
 When it comes to makeup, many enthusiasts are guilty of holding onto products far longer than they should. Understanding makeup expiration dates is crucial for maintaining skin health and maximizing product effectiveness. This guide will help you determine when it's time to let go of your beloved beauty items and introduce fresh ones into your routine.
