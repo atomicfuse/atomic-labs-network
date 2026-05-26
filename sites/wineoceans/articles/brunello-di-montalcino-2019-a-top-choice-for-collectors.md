@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-brunello-di-montalcino-2019-a-top-choice-for-collectors
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/brunello-di-montalcino-2019-a-top-choice-for-collectors.webp
 reading_time: 2
 quality_score: 72
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Well-structured wine news article with good keyword coverage and accurate
   information, but significantly too short at 350 words compared to the 800-1200
   word target.
+image_alt: >-
+  Elegant wine cellar still life with an unlabeled bottle, ruby wine glass, and
+  warm oak tones.
 ---
 ## Brunello Di Montalcino 2019 Gains Collector Recognition
 
