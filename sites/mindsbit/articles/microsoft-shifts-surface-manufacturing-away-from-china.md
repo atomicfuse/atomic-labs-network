@@ -1,24 +1,32 @@
 ---
-title: "Microsoft Shifts Surface Manufacturing Away from China"
-description: "Microsoft is reportedly shifting production of its Surface devices from China to alternative locations to mitigate geopolitical risks and enhance supply chain resilience. This move may influence global supply chain dynamics and encourage new manufacturing hubs in Southeast Asia or India."
-type: "standard"
-status: "review"
-publishDate: "2025-10-16T09:19:20+00:00"
-author: "Lena Ashwood"
+title: Microsoft Shifts Surface Manufacturing Away from China
+description: >-
+  Microsoft is reportedly shifting production of its Surface devices from China
+  to alternative locations to mitigate geopolitical risks and enhance supply
+  chain resilience. This move may influence global supply chain dynamics and
+  encourage new manufacturing hubs in Southeast Asia or India.
+type: standard
+status: review
+publishDate: '2025-10-16T09:19:20+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "microsoft-shifts-surface-manufacturing-away-from-china"
+  - Tech
+slug: microsoft-shifts-surface-manufacturing-away-from-china
 reading_time: 2
-source_url: "https://mindsbit.com/microsoft-shifts-surface-manufacturing-away-from-china/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/microsoft-shifts-surface-manufacturing-away-from-china/'
+imported_from: wordpress
 wp_original_id: 401
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/microsoft-shifts-surface-manufacturing-away-from-china.webp
 seo:
-  canonical: "https://mindsbit.com/microsoft-shifts-surface-manufacturing-away-from-china/"
-  og_title: "Microsoft Shifts Surface Manufacturing Away from China - Minds bit"
-  og_description: "Microsoft is reportedly shifting production of its Surface devices from China to alternative locations to mitigate geopolitical risks and enhance supply chain resilience. This move may influence global supply chain dynamics and encourage new manufacturing hubs in Southeast Asia or India."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/10/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/microsoft-shifts-surface-manufacturing-away-from-china/'
+  og_title: Microsoft Shifts Surface Manufacturing Away from China - Minds bit
+  og_description: >-
+    Microsoft is reportedly shifting production of its Surface devices from
+    China to alternative locations to mitigate geopolitical risks and enhance
+    supply chain resilience. This move may influence global supply chain
+    dynamics and encourage new manufacturing hubs in Southeast Asia or India.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/10/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and structure, but significantly under the target word count at only 313 words when 800-1200 is expected."
+quality_note: >-
+  Well-written article with good tone and structure, but significantly under the
+  target word count at only 313 words when 800-1200 is expected.
+image_alt: >-
+  Modern device on a workbench with global supply chain routes and factory
+  silhouettes in the background
 ---
 
 In a move reflecting evolving global manufacturing strategies, Microsoft is reportedly shifting production of its Surface devices from China to alternative locations. This strategic decision aims to mitigate risks associated with geopolitical tensions and the trade environment.
