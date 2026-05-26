@@ -1,24 +1,34 @@
 ---
-title: "10 Underrated TV Shows You Should Definitely Finish"
-description: "Some television series, initially overlooked, are worth revisiting for their captivating narratives and unexpected twists. Despite slow starts, they offer rewarding experiences with intricate plots and character development, making them hidden gems in the vast landscape of television."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:59:29+00:00"
-author: "Taylor Winters"
+title: 10 Underrated TV Shows You Should Definitely Finish
+description: >-
+  Some television series, initially overlooked, are worth revisiting for their
+  captivating narratives and unexpected twists. Despite slow starts, they offer
+  rewarding experiences with intricate plots and character development, making
+  them hidden gems in the vast landscape of television.
+type: standard
+status: review
+publishDate: '2025-06-19T04:59:29+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "10-underrated-tv-shows-you-should-definitely-finish"
+  - TV News
+  - TV Shows
+slug: 10-underrated-tv-shows-you-should-definitely-finish
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/10-underrated-tv-shows-you-should-definitely-finish/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/10-underrated-tv-shows-you-should-definitely-finish/
+imported_from: wordpress
 wp_original_id: 28051
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/10-underrated-tv-shows-you-should-definitely-finish.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/10-underrated-tv-shows-you-should-definitely-finish/"
-  og_title: "10 Underrated TV Shows You Should Definitely Finish - TV Shows Magazine"
-  og_description: "Some television series, initially overlooked, are worth revisiting for their captivating narratives and unexpected twists. Despite slow starts, they offer rewarding experiences with intricate plots and character development, making them hidden gems in the vast landscape of television."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/10-underrated-tv-shows-you-should-definitely-finish/
+  og_title: 10 Underrated TV Shows You Should Definitely Finish - TV Shows Magazine
+  og_description: >-
+    Some television series, initially overlooked, are worth revisiting for their
+    captivating narratives and unexpected twists. Despite slow starts, they
+    offer rewarding experiences with intricate plots and character development,
+    making them hidden gems in the vast landscape of television.
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 45
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "The article has good tone and accuracy but falls short on SEO optimization, content length (570 words vs 800-1200 target), and fails to deliver on the specific promise of listing '10 underrated TV shows' mentioned in the title."
+quality_note: >-
+  The article has good tone and accuracy but falls short on SEO optimization,
+  content length (570 words vs 800-1200 target), and fails to deliver on the
+  specific promise of listing '10 underrated TV shows' mentioned in the title.
+image_alt: >-
+  Dim living room with glowing screens suggesting hidden TV stories waiting to
+  be discovered
 ---
 
 Television series often captivate audiences with gripping plots and intriguing character arcs. Yet, some shows, despite their potential, fail to retain viewers until the end. While these series may not have initially held the majority's attention, they are indeed worth a revisit for the captivating narratives and unexpected twists they offer.
