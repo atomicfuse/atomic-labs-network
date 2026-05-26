@@ -1,9 +1,10 @@
-domain: wtpop
+domain: wtpop.com
 site_name: wtpop
 site_tagline: null
 author: Rachel Long
 groups:
   - mock-ads
+  - ncg
 active: true
 bundle_id: 6a04589d86fcaaeb5bc8398d
 brief:
@@ -51,30 +52,43 @@ brief:
 theme:
   base: modern
   colors:
-    primary: "#A259FF"
-    secondary: "#2ECFEA"
+    primary: "#FFFFFF"
     accent: "#FEE440"
     background: "#FFFFFF"
+    secondary: "#A259FF"
     text: "#0F1020"
     muted: "#878890"
     surface: "#f7f7f7"
     border: "#e6e6e6"
+    heading: "#1a1a2e"
+    link: "#1a1a2e"
+    link_hover: "#A259FF"
+    nav_link: "#A259FF"
+    nav_link_hover: "#2ECFEA"
     footer_bg: "#2ECFEA"
+    must_reads_bg: "#2ECFEA"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    must_reads_bg: "#2ECFEA"
-    article_hero_title: "#ffffff"
+    article_hero_title: "#A259FF"
+    article_hero_meta: "#6b7280"
     feed_title: "#0F1020"
     feed_desc: "#3f404d"
-    feed_date: "#FEE440"
-    category_header_text: "#1a1a1a"
+    feed_date: "#A259FF"
     prose_heading: "#0F1020"
     prose_body: "#333441"
+    category_header_text: "#1a1a1a"
+    subscribe_heading: "#0F1020"
+    footer_text: "#ffffff"
+    footer_heading: "#ffffff"
+    footer_link: "#ffffff"
+    footer_link_hover: "#A259FF"
   fonts:
     heading: Poppins
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height: 62
+  logo_height_footer: 90
 layout:
   hero:
     enabled: true
@@ -82,6 +96,12 @@ layout:
   must_reads:
     enabled: true
     count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
   sidebar_topics:
     auto: true
     explicit: []
