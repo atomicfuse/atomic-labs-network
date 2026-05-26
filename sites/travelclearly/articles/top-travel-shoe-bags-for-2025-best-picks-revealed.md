@@ -1,24 +1,32 @@
 ---
-title: "Top Travel Shoe Bags for 2025: Best Picks Revealed"
-description: "Traveling requires efficient packing, and a reliable shoe bag is essential for keeping footwear separate from clothing. Shoe bags protect shoes, save space, and prevent dirt and odors from spreading, enhancing your travel experience by maintaining an organized suitcase."
-type: "standard"
-status: "published"
-publishDate: "2025-06-05T04:07:36+00:00"
-author: "Taylor Winters"
+title: 'Top Travel Shoe Bags for 2025: Best Picks Revealed'
+description: >-
+  Traveling requires efficient packing, and a reliable shoe bag is essential for
+  keeping footwear separate from clothing. Shoe bags protect shoes, save space,
+  and prevent dirt and odors from spreading, enhancing your travel experience by
+  maintaining an organized suitcase.
+type: standard
+status: published
+publishDate: '2025-06-05T04:07:36+00:00'
+author: Taylor Winters
 tags:
-  - "Travel"
-slug: "top-travel-shoe-bags-for-2025-best-picks-revealed"
+  - Travel
+slug: top-travel-shoe-bags-for-2025-best-picks-revealed
 reading_time: 3
-source_url: "https://travelclearly.com/top-travel-shoe-bags-for-2025-best-picks-revealed/"
-imported_from: "wordpress"
+source_url: 'https://travelclearly.com/top-travel-shoe-bags-for-2025-best-picks-revealed/'
+imported_from: wordpress
 wp_original_id: 36509
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/top-travel-shoe-bags-for-2025-best-picks-revealed.webp
 seo:
-  canonical: "https://travelclearly.com/top-travel-shoe-bags-for-2025-best-picks-revealed/"
-  og_title: "Top Travel Shoe Bags for 2025: Best Picks Revealed - Travel Clearly"
-  og_description: "Traveling requires efficient packing, and a reliable shoe bag is essential for keeping footwear separate from clothing. Shoe bags protect shoes, save space, and prevent dirt and odors from spreading, enhancing your travel experience by maintaining an organized suitcase."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/06/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelclearly.com/top-travel-shoe-bags-for-2025-best-picks-revealed/'
+  og_title: 'Top Travel Shoe Bags for 2025: Best Picks Revealed - Travel Clearly'
+  og_description: >-
+    Traveling requires efficient packing, and a reliable shoe bag is essential
+    for keeping footwear separate from clothing. Shoe bags protect shoes, save
+    space, and prevent dirt and odors from spreading, enhancing your travel
+    experience by maintaining an organized suitcase.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2025/06/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,10 @@ score_breakdown:
   content_length: 57
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Good travel-focused content with excellent keyword relevance and tone, but significantly under target word count at 573 words instead of 800-1200."
+quality_note: >-
+  Good travel-focused content with excellent keyword relevance and tone, but
+  significantly under target word count at 573 words instead of 800-1200.
+image_alt: Neatly packed suitcase with shoes in travel bags on a sunlit hotel bed
 ---
 
 Traveling often requires careful packing to ensure your belongings stay organized and protected. One of the essential items for frequent travelers is a reliable shoe bag, which helps keep footwear separate from clothing while maintaining a tidy suitcase.
