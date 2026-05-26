@@ -1,23 +1,33 @@
 ---
-title: "Top 2026 Travel Destinations by Who What Wear UK Editors"
-description: "By 2026, new holiday spots will captivate travelers with cultural richness and natural beauty. Destinations like Kyoto, Patagonia, Marrakech, Amalfi Coast, Petra, and Banff offer unique experiences blending history, adventure, and breathtaking landscapes, promising unforgettable memories."
-type: "standard"
-status: "published"
-publishDate: "2026-01-22T10:47:35+00:00"
-author: "Malcolm Anderson"
+title: Top 2026 Travel Destinations by Who What Wear UK Editors
+description: >-
+  By 2026, new holiday spots will captivate travelers with cultural richness and
+  natural beauty. Destinations like Kyoto, Patagonia, Marrakech, Amalfi Coast,
+  Petra, and Banff offer unique experiences blending history, adventure, and
+  breathtaking landscapes, promising unforgettable memories.
+type: standard
+status: published
+publishDate: '2026-01-22T10:47:35+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "top-2026-travel-destinations-by-who-what-wear-uk-editors"
+  - Destinations
+slug: top-2026-travel-destinations-by-who-what-wear-uk-editors
 reading_time: 3
-source_url: "https://travelnights.com/top-2026-travel-destinations-by-who-what-wear-uk-editors/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/top-2026-travel-destinations-by-who-what-wear-uk-editors/
+imported_from: wordpress
 wp_original_id: 36694
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-2026-travel-destinations-by-who-what-wear-uk-editors.webp
 seo:
-  canonical: "https://travelnights.com/top-2026-travel-destinations-by-who-what-wear-uk-editors/"
-  og_title: "Top 2026 Travel Destinations by Who What Wear UK Editors - Travel Nights"
-  og_description: "By 2026, new holiday spots will captivate travelers with cultural richness and natural beauty. Destinations like Kyoto, Patagonia, Marrakech, Amalfi Coast, Petra, and Banff offer unique experiences blending history, adventure, and breathtaking landscapes, promising unforgettable memories."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/top-2026-travel-destinations-by-who-what-wear-uk-editors/
+  og_title: Top 2026 Travel Destinations by Who What Wear UK Editors - Travel Nights
+  og_description: >-
+    By 2026, new holiday spots will captivate travelers with cultural richness
+    and natural beauty. Destinations like Kyoto, Patagonia, Marrakech, Amalfi
+    Coast, Petra, and Banff offer unique experiences blending history,
+    adventure, and breathtaking landscapes, promising unforgettable memories.
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -25,7 +35,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel content with excellent keyword coverage and engaging tone, but falls short on length (583 words vs 800+ target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written travel content with excellent keyword coverage and engaging tone,
+  but falls short on length (583 words vs 800+ target) and could benefit from
+  stronger SEO optimization in title and meta description.
+image_alt: >-
+  Stylish traveler overlooking a dreamlike horizon of cultural landmarks and
+  natural landscapes
 ---
 
 As the world becomes more accessible, discerning travelers are constantly on the lookout for unique and breathtaking destinations to explore. By 2026, a new wave of holiday spots is set to capture the imagination of globetrotters. These destinations offer a mix of cultural richness, natural beauty, and unparalleled experiences that promise to make unforgettable memories.
