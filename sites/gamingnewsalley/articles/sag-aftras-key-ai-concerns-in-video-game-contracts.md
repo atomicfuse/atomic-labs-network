@@ -1,25 +1,37 @@
 ---
-title: "SAG-AFTRA’s Key AI Concerns in Video Game Contracts"
-description: "SAG-AFTRA is negotiating with major video game companies for better compensation and improved working conditions for voice actors and motion capture artists. Their proposal includes residual payments and enhanced safety measures, aiming to reflect performers' essential roles in the gaming industry."
-type: "standard"
-status: "review"
-publishDate: "2025-05-08T04:19:27+00:00"
-author: "Taylor Winters"
+title: SAG-AFTRA’s Key AI Concerns in Video Game Contracts
+description: >-
+  SAG-AFTRA is negotiating with major video game companies for better
+  compensation and improved working conditions for voice actors and motion
+  capture artists. Their proposal includes residual payments and enhanced safety
+  measures, aiming to reflect performers' essential roles in the gaming
+  industry.
+type: standard
+status: review
+publishDate: '2025-05-08T04:19:27+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "sag-aftras-key-ai-concerns-in-video-game-contracts"
+  - Gaming News
+  - Community
+slug: sag-aftras-key-ai-concerns-in-video-game-contracts
 reading_time: 3
-source_url: "https://gamingnewsalley.com/sag-aftras-key-ai-concerns-in-video-game-contracts/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/sag-aftras-key-ai-concerns-in-video-game-contracts/
+imported_from: wordpress
 wp_original_id: 42464
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/sag-aftras-key-ai-concerns-in-video-game-contracts.webp
 seo:
-  canonical: "https://gamingnewsalley.com/sag-aftras-key-ai-concerns-in-video-game-contracts/"
-  og_title: "SAG-AFTRA's Key AI Concerns in Video Game Contracts - Gaming News Alley"
-  og_description: "SAG-AFTRA is negotiating with major video game companies for better compensation and improved working conditions for voice actors and motion capture artists. Their proposal includes residual payments and enhanced safety measures, aiming to reflect performers' essential roles in the gaming industry."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/sag-aftras-key-ai-concerns-in-video-game-contracts/
+  og_title: SAG-AFTRA's Key AI Concerns in Video Game Contracts - Gaming News Alley
+  og_description: >-
+    SAG-AFTRA is negotiating with major video game companies for better
+    compensation and improved working conditions for voice actors and motion
+    capture artists. Their proposal includes residual payments and enhanced
+    safety measures, aiming to reflect performers' essential roles in the gaming
+    industry.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "While the article covers relevant gaming industry topics with an appropriate tone, it falls significantly short of the target word count at only 439 words, which severely impacts its overall quality score."
+quality_note: >-
+  While the article covers relevant gaming industry topics with an appropriate
+  tone, it falls significantly short of the target word count at only 439 words,
+  which severely impacts its overall quality score.
+image_alt: >-
+  Motion-capture performer facing a fragmented digital avatar in a
+  negotiation-themed studio setting
 ---
 
 The world of video game development is once again under the spotlight as SAG-AFTRA, the union representing actors and performers, has made significant strides in its negotiations with major video game companies. These discussions have been ongoing, focusing primarily on better compensation and improved working conditions for voice actors and motion capture artists within the gaming industry.
