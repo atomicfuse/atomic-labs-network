@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-crafting-unique-tomato-wine-at-home-a-step-by-step-guide
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/crafting-unique-tomato-wine-at-home-a-step-by-step-guide.webp
 reading_time: 4
 quality_score: 68
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Article has good keyword coverage and structure but falls short on length (609
   words vs 800-1200 target) and relies heavily on vague 'according to reports'
   statements without specific details.
+image_alt: >-
+  Heirloom tomatoes beside a glass fermenter and ruby tomato wine on a sunlit
+  kitchen counter.
 ---
 ## The Art of Tomato Wine Making
 
