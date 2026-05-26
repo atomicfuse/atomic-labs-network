@@ -1,24 +1,32 @@
 ---
-title: "Thrustmaster HEART Controller Review"
-description: "A review of the Thrustmaster HEART Controller for Xbox and PC, exploring its HallEffect AccuRate Technology, design, features, and overall performance as a wired entry-level controller."
-type: "standard"
-status: "published"
-publishDate: "2025-02-03T07:28:01+00:00"
-author: "admin"
+title: Thrustmaster HEART Controller Review
+description: >-
+  A review of the Thrustmaster HEART Controller for Xbox and PC, exploring its
+  HallEffect AccuRate Technology, design, features, and overall performance as a
+  wired entry-level controller.
+type: standard
+status: published
+publishDate: '2025-02-03T07:28:01+00:00'
+author: admin
 tags:
-  - "Gaming News"
-  - "Xbox One"
-slug: "thrustmaster-heart-controller-review"
+  - Gaming News
+  - Xbox One
+slug: thrustmaster-heart-controller-review
 reading_time: 7
-source_url: "https://gamingnewsalley.com/thrustmaster-heart-controller-review/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/thrustmaster-heart-controller-review/'
+imported_from: wordpress
 wp_original_id: 42053
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/thrustmaster-heart-controller-review.webp
 seo:
-  canonical: "https://gamingnewsalley.com/thrustmaster-heart-controller-review/"
-  og_title: "Thrustmaster HEART Controller Review - Gaming News Alley"
-  og_description: "Beyond the Buzzwords: Thrustmaster’s HEART Controller for Xbox and PC You can’t ever say that Thrustmaster just toe the line, delivering standard products to the gaming market over and over again. For in fact, they have fingers in many pies, rarely running generic products, consistently pushing boundaries.&nbsp; With the likes of the T248 Wheel in [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/thrustmaster-heart-controller-review/'
+  og_title: Thrustmaster HEART Controller Review - Gaming News Alley
+  og_description: >-
+    Beyond the Buzzwords: Thrustmaster’s HEART Controller for Xbox and PC You
+    can’t ever say that Thrustmaster just toe the line, delivering standard
+    products to the gaming market over and over again. For in fact, they have
+    fingers in many pies, rarely running generic products, consistently pushing
+    boundaries.&nbsp; With the likes of the T248 Wheel in [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 85
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written gaming review with engaging tone and proper length, though could benefit from better heading structure and more targeted SEO optimization for the gaming audience."
+quality_note: >-
+  Well-written gaming review with engaging tone and proper length, though could
+  benefit from better heading structure and more targeted SEO optimization for
+  the gaming audience.
+image_alt: >-
+  Unbranded wired game controller on a dark desk with subtle magnetic field
+  visuals around the sticks
 ---
 
 ## Beyond the Buzzwords: Thrustmaster's HEART Controller for Xbox and PC
