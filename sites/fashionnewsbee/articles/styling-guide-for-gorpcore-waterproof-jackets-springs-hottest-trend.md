@@ -1,25 +1,40 @@
 ---
-title: "Styling Guide for Gorpcore Waterproof Jackets: Spring’s Hottest Trend"
-description: "As winter transitions into spring, the fashion world is experiencing a surge in the trend of waterproof jackets, or 'gorpcore.' The style embraces the practicality of outdoor gear, transforming it into a fashionable statement, with high-end labels and outdoor gear companies alike capitalizing on this trend."
-type: "standard"
-status: "published"
-publishDate: "2025-04-01T11:37:11+00:00"
-author: "Taylor Winters"
+title: 'Styling Guide for Gorpcore Waterproof Jackets: Spring’s Hottest Trend'
+description: >-
+  As winter transitions into spring, the fashion world is experiencing a surge
+  in the trend of waterproof jackets, or 'gorpcore.' The style embraces the
+  practicality of outdoor gear, transforming it into a fashionable statement,
+  with high-end labels and outdoor gear companies alike capitalizing on this
+  trend.
+type: standard
+status: published
+publishDate: '2025-04-01T11:37:11+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-  - "Fashion"
-slug: "styling-guide-for-gorpcore-waterproof-jackets-springs-hottest-trend"
+  - Culture
+  - Fashion
+slug: styling-guide-for-gorpcore-waterproof-jackets-springs-hottest-trend
 reading_time: 2
-source_url: "https://fashionnewsbee.com/styling-guide-for-gorpcore-waterproof-jackets-springs-hottest-trend/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/styling-guide-for-gorpcore-waterproof-jackets-springs-hottest-trend/
+imported_from: wordpress
 wp_original_id: 31482
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/styling-guide-for-gorpcore-waterproof-jackets-springs-hottest-trend.webp
 seo:
-  canonical: "https://fashionnewsbee.com/styling-guide-for-gorpcore-waterproof-jackets-springs-hottest-trend/"
-  og_title: "Styling Guide for Gorpcore Waterproof Jackets: Spring's Hottest Trend - Fashion News Bee"
-  og_description: "As winter transitions into spring, the fashion world is experiencing a surge in the trend of waterproof jackets, or 'gorpcore.' The style embraces the practicality of outdoor gear, transforming it into a fashionable statement. High-end labels and outdoor gear companies alike are capitalizing on this trend."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/styling-guide-for-gorpcore-waterproof-jackets-springs-hottest-trend/
+  og_title: >-
+    Styling Guide for Gorpcore Waterproof Jackets: Spring's Hottest Trend -
+    Fashion News Bee
+  og_description: >-
+    As winter transitions into spring, the fashion world is experiencing a surge
+    in the trend of waterproof jackets, or 'gorpcore.' The style embraces the
+    practicality of outdoor gear, transforming it into a fashionable statement.
+    High-end labels and outdoor gear companies alike are capitalizing on this
+    trend.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +42,10 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword relevance, but significantly too short at 339 words compared to the 800-1200 word target."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  too short at 339 words compared to the 800-1200 word target.
+image_alt: Stylish model in a waterproof spring jacket on a rain-damp urban park path
 ---
 
 As the season shifts from winter to spring, the fashion world is buzzing with a new trend: waterproof jackets. Known as 'gorpcore,' these functional, yet stylish jackets are making waves in the world of outdoor gear.
