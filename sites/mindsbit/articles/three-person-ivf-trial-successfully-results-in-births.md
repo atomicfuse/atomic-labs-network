@@ -1,25 +1,33 @@
 ---
-title: "Three-Person IVF Trial Successfully Results in Births"
-description: "Babies born using three-parent IVF techniques are transforming reproductive medicine by combining DNA from three individuals to prevent genetic disorders, offering hope for families affected by mitochondrial diseases and raising ethical and biological considerations."
-type: "standard"
-status: "published"
-publishDate: "2025-07-17T05:17:26+00:00"
-author: "Lena Ashwood"
+title: Three-Person IVF Trial Successfully Results in Births
+description: >-
+  Babies born using three-parent IVF techniques are transforming reproductive
+  medicine by combining DNA from three individuals to prevent genetic disorders,
+  offering hope for families affected by mitochondrial diseases and raising
+  ethical and biological considerations.
+type: standard
+status: published
+publishDate: '2025-07-17T05:17:26+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "three-person-ivf-trial-successfully-results-in-births"
+  - Innovation
+  - Tech
+slug: three-person-ivf-trial-successfully-results-in-births
 reading_time: 3
-source_url: "https://mindsbit.com/three-person-ivf-trial-successfully-results-in-births/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/three-person-ivf-trial-successfully-results-in-births/'
+imported_from: wordpress
 wp_original_id: 386
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/three-person-ivf-trial-successfully-results-in-births.webp
 seo:
-  canonical: "https://mindsbit.com/three-person-ivf-trial-successfully-results-in-births/"
-  og_title: "Three-Person IVF Trial Successfully Results in Births - Minds bit"
-  og_description: "Babies born using three-parent IVF techniques are transforming reproductive medicine by combining DNA from three individuals to prevent genetic disorders, offering hope for families affected by mitochondrial diseases and raising ethical and biological considerations."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/07/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/three-person-ivf-trial-successfully-results-in-births/'
+  og_title: Three-Person IVF Trial Successfully Results in Births - Minds bit
+  og_description: >-
+    Babies born using three-parent IVF techniques are transforming reproductive
+    medicine by combining DNA from three individuals to prevent genetic
+    disorders, offering hope for families affected by mitochondrial diseases and
+    raising ethical and biological considerations.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/07/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but falls short on length requirements and could better integrate the site's focus keywords while strengthening SEO elements."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  requirements and could better integrate the site's focus keywords while
+  strengthening SEO elements.
+image_alt: >-
+  Three colored light strands converge into a glowing cell in a softly lit
+  fertility lab.
 ---
 
 Babies born through innovative IVF techniques that involve three genetic parents are reshaping the future of reproductive medicine. This groundbreaking approach, which combines DNA from three individuals, is designed to prevent the transmission of certain genetic disorders. The procedure is a promising advancement for families affected by mitochondrial diseases, offering hope for healthier futures.
