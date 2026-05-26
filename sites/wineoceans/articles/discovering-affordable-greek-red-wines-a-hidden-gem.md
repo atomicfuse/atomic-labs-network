@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-discovering-affordable-greek-red-wines-a-hidden-gem
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/discovering-affordable-greek-red-wines-a-hidden-gem.webp
 reading_time: 4
 quality_score: 67
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Article covers relevant wine content with good keyword integration but falls
   short on length (643 words vs 800+ target) and relies heavily on vague
   'reports suggest' claims without specific sources.
+image_alt: >-
+  Ruby red wine on a sunlit Greek terrace with grapes, olive leaves, and coastal
+  scenery.
 ---
 ## The Untapped Potential of Greek Red Wines
 
