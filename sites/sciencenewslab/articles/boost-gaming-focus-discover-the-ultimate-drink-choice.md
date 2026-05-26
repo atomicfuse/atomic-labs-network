@@ -1,22 +1,29 @@
 ---
-title: "Boost Gaming Focus: Discover the Ultimate Drink Choice"
-description: "Recent research demonstrates that staying hydrated significantly enhances gamers' focus and reaction times. Drinking water consistently during gaming sessions helps maintain cognitive performance, offering a competitive edge and highlighting the importance of health-conscious habits for optimal performance."
-type: "standard"
-status: "review"
-publishDate: "2026-03-12T12:53:21"
-author: "Taylor Winters"
+title: 'Boost Gaming Focus: Discover the Ultimate Drink Choice'
+description: >-
+  Recent research demonstrates that staying hydrated significantly enhances
+  gamers' focus and reaction times. Drinking water consistently during gaming
+  sessions helps maintain cognitive performance, offering a competitive edge and
+  highlighting the importance of health-conscious habits for optimal
+  performance.
+type: standard
+status: review
+publishDate: '2026-03-12T12:53:21'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Video"
-slug: "boost-gaming-focus-discover-the-ultimate-drink-choice"
+  - Space
+  - Video
+slug: boost-gaming-focus-discover-the-ultimate-drink-choice
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/boost-gaming-focus-discover-the-ultimate-drink-choice/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/boost-gaming-focus-discover-the-ultimate-drink-choice/
+imported_from: wordpress
 wp_original_id: 15087
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/boost-gaming-focus-discover-the-ultimate-drink-choice.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/boost-gaming-focus-discover-the-ultimate-drink-choice/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/boost-gaming-focus-discover-the-ultimate-drink-choice/
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 15
-quality_note: "The article fails to align with the science site's focus areas, lacks proper SEO optimization, and makes vague research claims without specific citations or data."
+quality_note: >-
+  The article fails to align with the science site's focus areas, lacks proper
+  SEO optimization, and makes vague research claims without specific citations
+  or data.
+image_alt: >-
+  Focused gamer at a neon-lit desk with a clear glass of water in the
+  foreground.
 ---
 
 In the competitive world of gaming, maintaining sharp focus and quick reflexes can be the difference between victory and defeat. Recent research has uncovered a straightforward yet effective way for gamers to enhance their concentration during extended gaming sessions. This study reveals that a simple drink choice can significantly boost a player's ability to stay focused for hours.
