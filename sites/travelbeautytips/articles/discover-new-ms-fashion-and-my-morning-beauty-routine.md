@@ -1,30 +1,36 @@
 ---
-title: "Discover New M&S Fashion and My Morning Beauty Routine"
-description: "Explore the latest fashion pieces from Marks & Spencer and get a glimpse into my daily beauty routine."
-type: "standard"
-status: "review"
-publishDate: "2026-01-19T09:39:22+00:00"
-author: "Taylor Winters"
+title: Discover New M&S Fashion and My Morning Beauty Routine
+description: >-
+  Explore the latest fashion pieces from Marks & Spencer and get a glimpse into
+  my daily beauty routine.
+type: standard
+status: review
+publishDate: '2026-01-19T09:39:22+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Fashion"
-  - "Makeup Tutorial"
-slug: "discover-new-ms-fashion-and-my-morning-beauty-routine"
+  - Travel Tips
+  - Beauty
+  - Fashion
+  - Makeup Tutorial
+slug: discover-new-ms-fashion-and-my-morning-beauty-routine
 reading_time: 2
-source_url: "https://travelbeautytips.com/discover-new-ms-fashion-and-my-morning-beauty-routine/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/discover-new-ms-fashion-and-my-morning-beauty-routine/
+imported_from: wordpress
 wp_original_id: 36120
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/discover-new-ms-fashion-and-my-morning-beauty-routine.webp
 seo:
-  canonical: "https://travelbeautytips.com/discover-new-ms-fashion-and-my-morning-beauty-routine/"
-  og_title: "Discover New M&S Fashion and My Morning Beauty Routine - Travel Beauty Tips"
-  og_description: "Explore the latest fashion pieces from Marks & Spencer and get a glimpse into my daily beauty routine."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/discover-new-ms-fashion-and-my-morning-beauty-routine/
+  og_title: Discover New M&S Fashion and My Morning Beauty Routine - Travel Beauty Tips
+  og_description: >-
+    Explore the latest fashion pieces from Marks & Spencer and get a glimpse
+    into my daily beauty routine.
+  twitter_card: summary_large_image
 videos:
-  - id: "9fab7ce2"
-    url: "https://www.youtube.com/watch?v=abuP_GU_uIU"
-    position: "after-paragraph-2"
+  - id: 9fab7ce2
+    url: 'https://www.youtube.com/watch?v=abuP_GU_uIU'
+    position: after-paragraph-2
 quality_score: 59
 score_breakdown:
   seo_quality: 45
@@ -32,7 +38,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 60
-quality_note: "The article has an engaging tone and reasonable accuracy but is severely under the target word count and lacks proper SEO optimization with weak title and missing meta description."
+quality_note: >-
+  The article has an engaging tone and reasonable accuracy but is severely under
+  the target word count and lacks proper SEO optimization with weak title and
+  missing meta description.
+image_alt: >-
+  Stylish morning dressing area with curated fashion pieces and beauty products
+  in soft natural light
 ---
 
 This week, I'm excited to share some fabulous new arrivals from Marks & Spencer, perfect for refreshing your wardrobe. Alongside the fashion haul, I offer you a peek into my morning beauty and makeup routine, showcasing some must-have products.
