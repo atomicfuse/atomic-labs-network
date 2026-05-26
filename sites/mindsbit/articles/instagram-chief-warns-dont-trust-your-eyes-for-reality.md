@@ -1,25 +1,33 @@
 ---
-title: "Instagram Chief Warns: Don’t Trust Your Eyes for Reality"
-description: "Instagram is integrating artificial intelligence into its platform to enhance user experience and creativity, offering AI-generated images and videos while raising important questions about authenticity and the ethical use of technology."
-type: "standard"
-status: "review"
-publishDate: "2026-01-01T10:29:16+00:00"
-author: "Lena Ashwood"
+title: 'Instagram Chief Warns: Don’t Trust Your Eyes for Reality'
+description: >-
+  Instagram is integrating artificial intelligence into its platform to enhance
+  user experience and creativity, offering AI-generated images and videos while
+  raising important questions about authenticity and the ethical use of
+  technology.
+type: standard
+status: review
+publishDate: '2026-01-01T10:29:16+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "instagram-chief-warns-dont-trust-your-eyes-for-reality"
+  - Innovation
+  - Tech
+slug: instagram-chief-warns-dont-trust-your-eyes-for-reality
 reading_time: 3
-source_url: "https://mindsbit.com/instagram-chief-warns-dont-trust-your-eyes-for-reality/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/instagram-chief-warns-dont-trust-your-eyes-for-reality/'
+imported_from: wordpress
 wp_original_id: 441
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/instagram-chief-warns-dont-trust-your-eyes-for-reality.webp
 seo:
-  canonical: "https://mindsbit.com/instagram-chief-warns-dont-trust-your-eyes-for-reality/"
-  og_title: "Instagram Chief Warns: Don't Trust Your Eyes for Reality - Minds bit"
-  og_description: "Instagram integrates AI to enhance user experience and creativity, offering AI-generated images and videos that personalize content and improve engagement. This evolution empowers creators with innovative tools while raising considerations about authenticity and ethical use of technology."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/instagram-chief-warns-dont-trust-your-eyes-for-reality/'
+  og_title: 'Instagram Chief Warns: Don''t Trust Your Eyes for Reality - Minds bit'
+  og_description: >-
+    Instagram integrates AI to enhance user experience and creativity, offering
+    AI-generated images and videos that personalize content and improve
+    engagement. This evolution empowers creators with innovative tools while
+    raising considerations about authenticity and ethical use of technology.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Article has good tone and covers relevant topics but is significantly under target word count at 457 words and the clickbait title doesn't match the generic content about AI integration."
+quality_note: >-
+  Article has good tone and covers relevant topics but is significantly under
+  target word count at 457 words and the clickbait title doesn't match the
+  generic content about AI integration.
+image_alt: >-
+  Person holding a phone as the surrounding world fractures into realistic and
+  synthetic layers
 ---
 
 Instagram continues to evolve as a platform, delving deeper into the integration of artificial intelligence (AI) in its features to enhance user experience. This strategic move aims to bolster the platform's visual offerings, with a keen focus on the potential of AI-generated images and videos.
