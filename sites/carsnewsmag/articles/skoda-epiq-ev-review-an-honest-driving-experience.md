@@ -1,25 +1,34 @@
 ---
-title: "Skoda Epiq EV Review: An Honest Driving Experience"
-description: "The Skoda Enyaq iV is an electric SUV combining practicality with technology, offering a sleek design, spacious interior, and advanced features. It delivers smooth performance, efficient charging capabilities, and contributes to sustainability, making it an attractive eco-friendly driving choice."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T09:21:35+00:00"
-author: "Taylor Winters"
+title: 'Skoda Epiq EV Review: An Honest Driving Experience'
+description: >-
+  The Skoda Enyaq iV is an electric SUV combining practicality with technology,
+  offering a sleek design, spacious interior, and advanced features. It delivers
+  smooth performance, efficient charging capabilities, and contributes to
+  sustainability, making it an attractive eco-friendly driving choice.
+type: standard
+status: review
+publishDate: '2026-02-09T09:21:35+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Reviews"
-slug: "skoda-epiq-ev-review-an-honest-driving-experience"
+  - Electric Cars
+  - Reviews
+slug: skoda-epiq-ev-review-an-honest-driving-experience
 reading_time: 3
-source_url: "https://carsnewsmag.com/skoda-epiq-ev-review-an-honest-driving-experience/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/skoda-epiq-ev-review-an-honest-driving-experience/'
+imported_from: wordpress
 wp_original_id: 38562
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/skoda-epiq-ev-review-an-honest-driving-experience.webp
 seo:
-  canonical: "https://carsnewsmag.com/skoda-epiq-ev-review-an-honest-driving-experience/"
-  og_title: "Skoda Epiq EV Review: An Honest Driving Experience - Cars News Magazine"
-  og_description: "The Skoda Enyaq iV is an electric SUV combining practicality with technology, offering a sleek design, spacious interior, and advanced features. It delivers smooth performance, efficient charging capabilities, and contributes to sustainability, making it an attractive eco-friendly driving choice."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/02/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/skoda-epiq-ev-review-an-honest-driving-experience/'
+  og_title: 'Skoda Epiq EV Review: An Honest Driving Experience - Cars News Magazine'
+  og_description: >-
+    The Skoda Enyaq iV is an electric SUV combining practicality with
+    technology, offering a sleek design, spacious interior, and advanced
+    features. It delivers smooth performance, efficient charging capabilities,
+    and contributes to sustainability, making it an attractive eco-friendly
+    driving choice.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/02/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -27,7 +36,10 @@ score_breakdown:
   content_length: 48
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but significantly hurt by confusing title/content mismatch (Epiq vs Enyaq) and being too short at only 482 words."
+quality_note: >-
+  Strong tone and keyword relevance but significantly hurt by confusing
+  title/content mismatch (Epiq vs Enyaq) and being too short at only 482 words.
+image_alt: Sleek electric SUV driving on a quiet modern road at golden hour
 ---
 
 The automotive landscape is undergoing a dramatic transformation as electric vehicles (EVs) become increasingly popular. Among the contenders making waves is the Skoda Enyaq iV, an electric SUV that blends practicality with cutting-edge technology. This vehicle exemplifies Skoda's commitment to sustainable mobility, offering consumers a new way to experience driving.
