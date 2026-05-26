@@ -1,22 +1,32 @@
 ---
-title: "Discover the Intriguing New Phase of Matter: The Half-Ice, Half-Fire Magnet Phenomenon"
-description: "Scientists have discovered a new phase of matter called 'quantum spin liquid' within the magnetic material herbertsmithite, where magnetic moments behave chaotically rather than aligning in patterns, with potential implications for quantum computing and fundamental physics."
-type: "standard"
-status: "published"
-publishDate: "2025-04-01T13:31:45"
-author: "Taylor Winters"
+title: >-
+  Discover the Intriguing New Phase of Matter: The Half-Ice, Half-Fire Magnet
+  Phenomenon
+description: >-
+  Scientists have discovered a new phase of matter called 'quantum spin liquid'
+  within the magnetic material herbertsmithite, where magnetic moments behave
+  chaotically rather than aligning in patterns, with potential implications for
+  quantum computing and fundamental physics.
+type: standard
+status: published
+publishDate: '2025-04-01T13:31:45'
+author: Taylor Winters
 tags:
-  - "Physics"
-  - "Tech"
-slug: "discover-the-intriguing-new-phase-of-matter-the-half-ice-half-fire-magnet-phenomenon"
+  - Physics
+  - Tech
+slug: >-
+  discover-the-intriguing-new-phase-of-matter-the-half-ice-half-fire-magnet-phenomenon
 reading_time: 2
-source_url: "https://www.sciencenewslab.com/discover-the-intriguing-new-phase-of-matter-the-half-ice-half-fire-magnet-phenomenon/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/discover-the-intriguing-new-phase-of-matter-the-half-ice-half-fire-magnet-phenomenon/
+imported_from: wordpress
 wp_original_id: 14903
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-intriguing-new-phase-of-matter-the-half-ice-half-fire-magnet-phenomenon.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/discover-the-intriguing-new-phase-of-matter-the-half-ice-half-fire-magnet-phenomenon/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/discover-the-intriguing-new-phase-of-matter-the-half-ice-half-fire-magnet-phenomenon/
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -24,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Good scientific content with engaging tone and accurate information, but significantly under target word count at only 391 words instead of the 800-1200 range."
+quality_note: >-
+  Good scientific content with engaging tone and accurate information, but
+  significantly under target word count at only 391 words instead of the
+  800-1200 range.
+image_alt: >-
+  Chaotic glowing magnetic particles swirl through an icy blue and ember-orange
+  crystal lattice.
 ---
 
 Unveiling a new phase of matter that's half ice, half fire and found within the confines of a magnet, researchers have made a significant breakthrough. This discovery, which has been dubbed 'quantum spin liquid', is a state where magnetic moments, or 'spins', instead of aligning or forming patterns as they usually do, exhibit a more chaotic behavior.
