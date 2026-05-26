@@ -1,26 +1,42 @@
 ---
-title: "Significant Reduction in Alzheimer’s Risk for Users of Semaglutide and SGLT2 Drugs"
-description: "Recent medical research reveals that diabetes medications Ozempic and Jardiance may help reduce the risk of Alzheimer's disease, with a study showing GLP-1RAs lowering risk by 41% and SGLT2 inhibitors by 33% in patients with type 2 diabetes."
-type: "standard"
-status: "published"
-publishDate: "2025-04-10T04:16:37+00:00"
-author: "Taylor Winters"
+title: >-
+  Significant Reduction in Alzheimer’s Risk for Users of Semaglutide and SGLT2
+  Drugs
+description: >-
+  Recent medical research reveals that diabetes medications Ozempic and
+  Jardiance may help reduce the risk of Alzheimer's disease, with a study
+  showing GLP-1RAs lowering risk by 41% and SGLT2 inhibitors by 33% in patients
+  with type 2 diabetes.
+type: standard
+status: published
+publishDate: '2025-04-10T04:16:37+00:00'
+author: Taylor Winters
 tags:
-  - "Clinical Trials &amp; Research"
-  - "Diabetes"
-  - "Drugs"
-slug: "significant-reduction-in-alzheimers-risk-for-users-of-semaglutide-and-sglt2-drugs"
+  - Clinical Trials &amp; Research
+  - Diabetes
+  - Drugs
+slug: >-
+  significant-reduction-in-alzheimers-risk-for-users-of-semaglutide-and-sglt2-drugs
 reading_time: 2
-source_url: "https://medicalnewscorner.com/significant-reduction-in-alzheimers-risk-for-users-of-semaglutide-and-sglt2-drugs/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/significant-reduction-in-alzheimers-risk-for-users-of-semaglutide-and-sglt2-drugs/
+imported_from: wordpress
 wp_original_id: 24607
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/significant-reduction-in-alzheimers-risk-for-users-of-semaglutide-and-sglt2-drugs.webp
 seo:
-  canonical: "https://medicalnewscorner.com/significant-reduction-in-alzheimers-risk-for-users-of-semaglutide-and-sglt2-drugs/"
-  og_title: "Significant Reduction in Alzheimer's Risk for Users of Semaglutide and SGLT2 Drugs - Medical News Corner"
-  og_description: "Recent medical research reveals that diabetes medications Ozempic and Jardiance may help reduce the risk of Alzheimer's disease. This discovery, based on extensive patient data analysis, suggests these drugs may offer a potential breakthrough in Alzheimer's prevention strategies."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/significant-reduction-in-alzheimers-risk-for-users-of-semaglutide-and-sglt2-drugs/
+  og_title: >-
+    Significant Reduction in Alzheimer's Risk for Users of Semaglutide and SGLT2
+    Drugs - Medical News Corner
+  og_description: >-
+    Recent medical research reveals that diabetes medications Ozempic and
+    Jardiance may help reduce the risk of Alzheimer's disease. This discovery,
+    based on extensive patient data analysis, suggests these drugs may offer a
+    potential breakthrough in Alzheimer's prevention strategies.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -28,7 +44,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and relevant medical content, but significantly below target word count at only 364 words when 800-1200 is expected."
+quality_note: >-
+  Well-written article with good tone and relevant medical content, but
+  significantly below target word count at only 364 words when 800-1200 is
+  expected.
+image_alt: >-
+  Older adult’s hands near diabetes medication with a soft abstract brain-light
+  pattern in the background.
 ---
 
 The latest in medical research reveals that certain diabetes medications, namely Ozempic and Jardiance, may play a significant role in reducing the risk of Alzheimer's disease. This assertion is based on an extensive analysis of patient data, providing a potential breakthrough in Alzheimer's prevention strategies.
