@@ -1,24 +1,32 @@
 ---
-title: "Can Junk Food Trigger Acne in Teenagers?"
-description: "Acne is influenced by genetics, hormones, and lifestyle, not just junk food. While diet can play a role, a balanced approach with healthy habits is key to managing acne effectively, and individual responses to dietary changes also vary."
-type: "standard"
-status: "published"
-publishDate: "2025-07-10T05:35:23+00:00"
-author: "Taylor Winters"
+title: Can Junk Food Trigger Acne in Teenagers?
+description: >-
+  Acne is influenced by genetics, hormones, and lifestyle, not just junk food.
+  While diet can play a role, a balanced approach with healthy habits is key to
+  managing acne effectively, and individual responses to dietary changes also
+  vary.
+type: standard
+status: published
+publishDate: '2025-07-10T05:35:23+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-slug: "can-junk-food-trigger-acne-in-teenagers"
+  - Nutrition Myths
+slug: can-junk-food-trigger-acne-in-teenagers
 reading_time: 3
-source_url: "https://eznutritiontips.com/can-junk-food-trigger-acne-in-teenagers/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/can-junk-food-trigger-acne-in-teenagers/'
+imported_from: wordpress
 wp_original_id: 18925
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/can-junk-food-trigger-acne-in-teenagers.webp
 seo:
-  canonical: "https://eznutritiontips.com/can-junk-food-trigger-acne-in-teenagers/"
-  og_title: "Can Junk Food Trigger Acne in Teenagers? - Easy Nutrition Tips"
-  og_description: "Acne is influenced by genetics, hormones, and lifestyle, not just junk food. While diet can play a role, a balanced approach with healthy habits is key to managing acne effectively. Individual responses to dietary changes also vary."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/07/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/can-junk-food-trigger-acne-in-teenagers/'
+  og_title: Can Junk Food Trigger Acne in Teenagers? - Easy Nutrition Tips
+  og_description: >-
+    Acne is influenced by genetics, hormones, and lifestyle, not just junk food.
+    While diet can play a role, a balanced approach with healthy habits is key
+    to managing acne effectively. Individual responses to dietary changes also
+    vary.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/07/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (477 words vs 800-1200 target) which significantly impacts overall quality."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (477 words vs 800-1200 target) which significantly impacts overall quality.
+image_alt: >-
+  Teen with subtle acne sitting at a bright kitchen table with both healthy
+  snacks and chips.
 ---
 
 Acne, a common skin condition, has long been associated with adolescents and their dietary choices. There's a widespread belief that junk food consumption is a major contributor to teenage acne. But how much of this is fact, and how much is fiction?
