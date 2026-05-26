@@ -20,7 +20,8 @@ source_url: >-
   https://www.homesandgardens.com/interior-design/the-very-british-edit-summer-styling
 source_item_id: 6a152fda16f23264031d81f9
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: >-
+  /assets/images/british-california-fusion-summer-home-decor-without-cliches.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   Strong topic relevance and tone but falls short on length (629 words vs
   800-1200 target) and contains vague claims without supporting sources.
 reading_time: 3
+image_alt: >-
+  Sunlit summer living space with linen seating, antique wood, woven textures,
+  and open doors to a leafy patio.
 ---
 ## A New Approach to Summer Decorating
 
