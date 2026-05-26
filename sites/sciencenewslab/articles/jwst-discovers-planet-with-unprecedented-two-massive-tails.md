@@ -1,21 +1,27 @@
 ---
-title: "JWST Discovers Planet with Unprecedented Two Massive Tails"
-description: "An exoplanet with two massive tails, similar to comet trails, was observed by the James Webb Space Telescope, showcasing its advanced capabilities and offering insights into planetary formation and behavior, challenging existing theories about planetary evolution."
-type: "standard"
-status: "review"
-publishDate: "2025-12-15T13:15:31"
-author: "Taylor Winters"
+title: JWST Discovers Planet with Unprecedented Two Massive Tails
+description: >-
+  An exoplanet with two massive tails, similar to comet trails, was observed by
+  the James Webb Space Telescope, showcasing its advanced capabilities and
+  offering insights into planetary formation and behavior, challenging existing
+  theories about planetary evolution.
+type: standard
+status: review
+publishDate: '2025-12-15T13:15:31'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "jwst-discovers-planet-with-unprecedented-two-massive-tails"
+  - Space
+slug: jwst-discovers-planet-with-unprecedented-two-massive-tails
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/jwst-discovers-planet-with-unprecedented-two-massive-tails/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/jwst-discovers-planet-with-unprecedented-two-massive-tails/
+imported_from: wordpress
 wp_original_id: 15040
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/jwst-discovers-planet-with-unprecedented-two-massive-tails.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/jwst-discovers-planet-with-unprecedented-two-massive-tails/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/jwst-discovers-planet-with-unprecedented-two-massive-tails/
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -23,7 +29,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "While the article matches the engaging tone and covers relevant space topics well, it appears to describe a fabricated discovery with no verifiable sources, significantly compromising factual accuracy."
+quality_note: >-
+  While the article matches the engaging tone and covers relevant space topics
+  well, it appears to describe a fabricated discovery with no verifiable
+  sources, significantly compromising factual accuracy.
+image_alt: Distant exoplanet near a star releasing two vast glowing tails into deep space
 ---
 
 An astronomical discovery involving a distant planet has captivated scientists worldwide. The James Webb Space Telescope (JWST) has observed an exoplanet displaying two astonishingly large tails, reminiscent of a comet's trails. This remarkable event not only highlights the advanced capabilities of the JWST but also opens new avenues for understanding planetary formation and behavior.
