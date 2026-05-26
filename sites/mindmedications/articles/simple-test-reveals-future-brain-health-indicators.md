@@ -1,24 +1,34 @@
 ---
-title: "Simple Test Reveals Future Brain Health Indicators"
-description: "Grip strength is a valuable indicator of both physical and cognitive health, linked to brain function, cardiovascular health, and biological age. Regular assessment and improvement of grip strength can offer insights into neurological well-being and potential health risks."
-type: "standard"
-status: "published"
-publishDate: "2026-01-29T10:29:24+00:00"
-author: "Lena Ashwood"
+title: Simple Test Reveals Future Brain Health Indicators
+description: >-
+  Grip strength is a valuable indicator of both physical and cognitive health,
+  linked to brain function, cardiovascular health, and biological age. Regular
+  assessment and improvement of grip strength can offer insights into
+  neurological well-being and potential health risks.
+type: standard
+status: published
+publishDate: '2026-01-29T10:29:24+00:00'
+author: Lena Ashwood
 tags:
-  - "Wellness"
-slug: "simple-test-reveals-future-brain-health-indicators"
+  - Wellness
+slug: simple-test-reveals-future-brain-health-indicators
 reading_time: 3
-source_url: "https://mindmedications.com/simple-test-reveals-future-brain-health-indicators/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/simple-test-reveals-future-brain-health-indicators/
+imported_from: wordpress
 wp_original_id: 615
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: /assets/images/simple-test-reveals-future-brain-health-indicators.webp
 seo:
-  canonical: "https://mindmedications.com/simple-test-reveals-future-brain-health-indicators/"
-  og_title: "Simple Test Reveals Future Brain Health Indicators - Mind Medications"
-  og_description: "Grip strength is a valuable indicator of both physical and cognitive health, linked to brain function, cardiovascular health, and biological age. Regular assessment and improvement of grip strength can offer insights into neurological well-being and potential health risks."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/simple-test-reveals-future-brain-health-indicators/
+  og_title: Simple Test Reveals Future Brain Health Indicators - Mind Medications
+  og_description: >-
+    Grip strength is a valuable indicator of both physical and cognitive health,
+    linked to brain function, cardiovascular health, and biological age. Regular
+    assessment and improvement of grip strength can offer insights into
+    neurological well-being and potential health risks.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate content, but significantly under target word count at 510 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accurate content, but significantly
+  under target word count at 510 words versus the 800-1200 range.
+image_alt: >-
+  Older adult testing grip strength in warm light with a supportive clinician
+  nearby
 ---
 
 Grip strength is often overlooked as merely a measure of physical power, but recent research reveals its deeper connection to both physical and cognitive health. From predicting neurological conditions to providing insight into overall well-being, understanding grip strength can offer a window into our brain's health and function.
