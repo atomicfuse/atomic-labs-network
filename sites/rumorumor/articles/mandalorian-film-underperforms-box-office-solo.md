@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/rumorumor-general-article.webp
+featuredImage: /assets/images/mandalorian-film-underperforms-box-office-solo.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong entertainment coverage with engaging tone, but severely undermined by
   apparent fabrication of a Mandalorian theatrical film that doesn't exist.
 reading_time: 3
+image_alt: >-
+  Lone sci-fi traveler facing a nearly empty desert hangar at dusk with dust and
+  scattered papers
 ---
 ## Disappointing Opening Weekend Performance
 
