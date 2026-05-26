@@ -4,7 +4,7 @@ description: >-
   Explore the latest fashion trends and style secrets for women over 50 to
   enhance your wardrobe and confidence.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:43:23+00:00'
 author: Taylor Winters
 tags:

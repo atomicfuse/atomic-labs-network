@@ -6,7 +6,7 @@ description: >-
   treatments, setting new standards in healthcare and improving patient outcomes
   worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T09:17:30+00:00'
 author: Taylor Winters
 tags:

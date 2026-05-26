@@ -8,7 +8,7 @@ description: >-
   a commitment to biodiversity and cultural heritage. This decision sets a
   precedent for sustainable development and community resilience.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:19:31+00:00'
 author: Nico Harper
 tags:

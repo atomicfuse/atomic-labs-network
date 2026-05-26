@@ -6,7 +6,7 @@ description: >-
   like drones and AI to enhance capabilities, ensure timely aid delivery, and
   build community resilience.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T10:27:35+00:00'
 author: Lena Ashwood
 tags:

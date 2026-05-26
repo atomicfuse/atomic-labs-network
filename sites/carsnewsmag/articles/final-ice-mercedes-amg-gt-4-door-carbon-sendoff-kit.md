@@ -4,7 +4,7 @@ description: >-
   Larte Design unveils Signature carbon tuning program for the last ICE-powered
   Mercedes-AMG GT 4-Door as the electric successor debuts.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: James Reed
 tags:

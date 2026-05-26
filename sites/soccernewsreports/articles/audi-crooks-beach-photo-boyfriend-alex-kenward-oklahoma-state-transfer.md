@@ -4,7 +4,7 @@ description: >-
   Oklahoma State's new basketball star Audi Crooks shares beach photo with
   boyfriend Alex Kenward as she prepares for high-pressure final college season.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Ben Reed
 tags:

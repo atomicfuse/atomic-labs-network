@@ -6,7 +6,7 @@ description: >-
   reevaluation of our understanding of ancient Egyptian architecture and
   engineering.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T05:03:21+00:00'
 author: Nico Harper
 tags:

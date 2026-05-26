@@ -6,7 +6,7 @@ description: >-
   model captures the essence of a real F1 car, appealing to enthusiasts and
   collectors.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T09:23:33+00:00'
 author: Taylor Winters
 tags:

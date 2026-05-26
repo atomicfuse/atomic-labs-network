@@ -6,7 +6,7 @@ description: >-
   interior, advanced technology, and robust performance that makes it a top
   choice for drivers.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-06T09:23:29+00:00'
 author: Taylor Winters
 tags:

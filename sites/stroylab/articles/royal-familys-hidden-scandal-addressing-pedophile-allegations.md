@@ -7,7 +7,7 @@ description: >-
   organizations and environmental concerns demand collaborative efforts for
   sustainable development and peace.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:40:40+00:00'
 author: Blake Anderson
 tags:

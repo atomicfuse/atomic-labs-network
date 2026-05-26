@@ -6,7 +6,7 @@ description: >-
   efficiency and performance. It offers a sleek design, advanced technology, and
   reduced emissions for eco-conscious drivers.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-19T04:07:25+00:00'
 author: Taylor Winters
 tags:

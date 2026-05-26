@@ -5,7 +5,7 @@ description: >-
   unrelated to the title and appears to be generic placeholder text about
   renewable energy, with no actual reporting on the stated subject matter.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:32:53+00:00'
 author: Blake Anderson
 tags:

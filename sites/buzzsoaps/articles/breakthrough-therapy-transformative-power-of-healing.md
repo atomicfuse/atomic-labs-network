@@ -6,7 +6,7 @@ description: >-
   internal parts, fostering harmony and addressing trauma for improved emotional
   well-being and personal growth.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T11:40:10+00:00'
 author: Becca Roberts
 tags:

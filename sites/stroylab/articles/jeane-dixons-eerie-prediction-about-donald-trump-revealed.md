@@ -6,7 +6,7 @@ description: >-
   crucial for investors, policymakers, and the public as technology, monetary
   policies, and geopolitical factors shape the financial landscape.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:41:28+00:00'
 author: Blake Anderson
 tags:

@@ -5,7 +5,7 @@ description: >-
   technology, offering a retro-inspired design, film simulation modes, and
   modern connectivity options — but notably omits RAW shooting support.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T05:11:20+00:00'
 author: Lena Ashwood
 tags:

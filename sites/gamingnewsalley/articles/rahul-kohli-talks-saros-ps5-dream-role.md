@@ -4,7 +4,7 @@ description: >-
   Rahul Kohli discusses his dream role in Saros for PS5, though the full article
   content was unavailable due to inaccessible external URLs.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-30T08:15:45+00:00'
 author: Taylor Winters
 tags:

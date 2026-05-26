@@ -5,7 +5,7 @@ description: >-
   prestige TV, this weekend's streaming lineup offers something for every
   obsession.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Chloe Carter
 tags:

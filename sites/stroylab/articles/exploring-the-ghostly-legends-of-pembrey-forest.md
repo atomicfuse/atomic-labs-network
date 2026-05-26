@@ -4,7 +4,7 @@ description: >-
   Discover the eerie stories surrounding the Pembrey Forest hauntings, where
   beauty meets the unexplained.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:34:14+00:00'
 author: Blake Anderson
 tags:

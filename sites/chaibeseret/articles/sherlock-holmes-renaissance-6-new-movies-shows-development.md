@@ -5,7 +5,7 @@ description: >-
   Sherlock Holmes adaptations currently in development across streaming and
   traditional...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

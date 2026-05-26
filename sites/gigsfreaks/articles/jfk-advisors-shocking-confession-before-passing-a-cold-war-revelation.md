@@ -5,7 +5,7 @@ description: >-
   revealed classified events, including a 1962 UFO incident during a nuclear
   test.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:17:23+00:00'
 author: Nico Harper
 tags:

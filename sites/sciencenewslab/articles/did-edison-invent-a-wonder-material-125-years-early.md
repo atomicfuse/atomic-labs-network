@@ -6,7 +6,7 @@ description: >-
   highlighting his potential role as a pioneer in the field and encouraging a
   re-examination of historical scientific artifacts.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T12:53:35'
 author: Taylor Winters
 tags:

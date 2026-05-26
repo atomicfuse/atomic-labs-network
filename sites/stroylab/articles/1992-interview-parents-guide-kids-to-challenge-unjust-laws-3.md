@@ -6,7 +6,7 @@ description: >-
   strategic positions, forge alliances, and address challenges like economic
   interdependence, cybersecurity, and international trade.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:39:03+00:00'
 author: Blake Anderson
 tags:

@@ -6,7 +6,7 @@ description: >-
   Understanding symptoms and seeking medical advice can help manage the
   condition, improving quality of life and overall health.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:57:47+00:00'
 author: Taylor Winters
 tags:

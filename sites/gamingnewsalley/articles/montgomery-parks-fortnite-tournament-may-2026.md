@@ -4,7 +4,7 @@ description: >-
   Montgomery Parks and Recreation is hosting a Fortnite tournament on May 29 at
   Chisholm Community Center with pre-registration required and gaming prizes.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Elena Long
 tags:

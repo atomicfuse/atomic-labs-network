@@ -5,7 +5,7 @@ description: >-
   classes that use low-dose THC to enhance body awareness and transform the
   fitness...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Lucas Price
 tags:

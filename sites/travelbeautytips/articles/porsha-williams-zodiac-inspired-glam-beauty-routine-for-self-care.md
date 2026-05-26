@@ -6,7 +6,7 @@ description: >-
   zodiac insights with practical routines, mindfulness, and the importance of
   supportive environments.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-19T04:25:22+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   by European ambitions, tactical questions, team news, and the emotion of
   Everton's final season at their historic home.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04T08:34:37+00:00'
 author: Taylor Winters
 tags:

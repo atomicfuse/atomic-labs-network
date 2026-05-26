@@ -5,7 +5,7 @@ description: >-
   owners protect their furry friends from dehydration and heat stroke during
   summer.
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Ava Murphy
 tags:

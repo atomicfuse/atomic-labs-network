@@ -6,7 +6,7 @@ description: >-
   volatility, and technological advancements, highlighting the need for
   cooperation and adaptation to navigate these uncertain times.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:29:12+00:00'
 author: Blake Anderson
 tags:

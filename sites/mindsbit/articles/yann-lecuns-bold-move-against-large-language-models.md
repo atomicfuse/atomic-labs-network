@@ -6,7 +6,7 @@ description: >-
   transformations across industries like healthcare, finance, and robotics while
   addressing ethical and privacy concerns.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:31:32+00:00'
 author: Lena Ashwood
 tags:

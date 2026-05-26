@@ -5,7 +5,7 @@ description: >-
   media, but while influencers claim it enhances lash growth, experts warn it
   can harm eye health, leading to infections and unpredictable regrowth.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T08:30:04'
 author: Taylor Winters
 tags:

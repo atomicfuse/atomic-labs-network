@@ -7,7 +7,7 @@ description: >-
   protectionist policies and renegotiation of trade agreements in a fragmented
   market.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T11:13:20+00:00'
 author: Blake Anderson
 tags:

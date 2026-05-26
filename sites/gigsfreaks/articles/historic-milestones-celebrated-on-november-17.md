@@ -6,7 +6,7 @@ description: >-
   Velvet Revolution, this date marks significant milestones that continue to
   shape our world today.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T10:18:50+00:00'
 author: Nico Harper
 tags:

@@ -4,7 +4,7 @@ description: >-
   Sean Duffy's new reality show funded by corporations his agency oversees draws
   criticism amid high gas prices and economic struggles for Americans.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

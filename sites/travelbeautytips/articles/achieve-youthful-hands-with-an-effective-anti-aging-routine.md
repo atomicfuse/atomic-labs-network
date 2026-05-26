@@ -4,7 +4,7 @@ description: >-
   Discover an easy hand care routine that keeps your hands looking youthful and
   smooth all year round using retinol and other nourishing products.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T09:49:21+00:00'
 author: Taylor Winters
 tags:

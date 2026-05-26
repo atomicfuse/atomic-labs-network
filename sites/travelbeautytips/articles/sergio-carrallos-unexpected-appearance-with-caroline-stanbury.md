@@ -6,7 +6,7 @@ description: >-
   highlighted the couple's playful dynamic and the power of authenticity in
   social media marketing.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T04:49:30+00:00'
 author: Taylor Winters
 tags:

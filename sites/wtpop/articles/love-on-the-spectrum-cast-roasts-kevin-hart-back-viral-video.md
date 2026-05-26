@@ -5,7 +5,7 @@ description: >-
   about their series during a recent comedy bit, turning the tables with their
   own...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Rachel Long
 tags:

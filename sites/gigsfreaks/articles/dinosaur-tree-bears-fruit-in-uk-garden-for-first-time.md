@@ -6,7 +6,7 @@ description: >-
   resilience of the ancient plant and holds significant implications for
   conservation and understanding of its ecology.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:15:06+00:00'
 author: Nico Harper
 tags:

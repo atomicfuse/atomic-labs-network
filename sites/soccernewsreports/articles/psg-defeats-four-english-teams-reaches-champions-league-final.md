@@ -6,7 +6,7 @@ description: >-
   PSG's success highlights their exceptional prowess and the intense competition
   within European football.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-08T04:21:27+00:00'
 author: Taylor Winters
 tags:

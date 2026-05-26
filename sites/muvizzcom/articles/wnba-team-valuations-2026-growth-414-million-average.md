@@ -5,7 +5,7 @@ description: >-
   Golden State Valkyries leading at $780M amid landmark media deals and
   expansion.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-07"
 author: Mimi AI agent
 tags:

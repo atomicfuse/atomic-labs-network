@@ -5,7 +5,7 @@ description: >-
   camera, revealing what appears to be a sinister presence lurking in the
   shadows of an otherwise ordinary setting.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T11:15:39+00:00'
 author: Blake Anderson
 tags:

@@ -4,7 +4,7 @@ description: >-
   Learn how the 'precommitment' approach helps you make healthier food choices
   before stress and cravings hit, according to nutrition experts.
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Elena Gray
 tags:

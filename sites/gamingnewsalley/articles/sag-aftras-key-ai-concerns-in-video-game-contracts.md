@@ -7,7 +7,7 @@ description: >-
   measures, aiming to reflect performers' essential roles in the gaming
   industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-08T04:19:27+00:00'
 author: Taylor Winters
 tags:

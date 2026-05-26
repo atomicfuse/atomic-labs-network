@@ -6,7 +6,7 @@ description: >-
   by factors like currency fluctuations and inflation, raising concerns about
   affordability among gamers.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T04:19:21+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   memorable wins, speeches on social issues, and tributes to industry legends,
   setting new standards for future entertainment celebrations.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T10:25:31+00:00'
 author: Becca Roberts
 tags:

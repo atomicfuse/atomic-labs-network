@@ -6,7 +6,7 @@ description: >-
   health concerns due to potential skin irritation from heavy makeup and
   prosthetics. Experts recommend cautious, safe practices.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T04:51:20+00:00'
 author: Taylor Winters
 tags:

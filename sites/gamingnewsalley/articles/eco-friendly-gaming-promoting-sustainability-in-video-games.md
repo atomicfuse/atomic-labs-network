@@ -6,7 +6,7 @@ description: >-
   ecological issues, inspiring critical thinking and real-world action for
   sustainability.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:19:27+00:00'
 author: Taylor Winters
 tags:

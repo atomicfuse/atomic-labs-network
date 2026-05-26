@@ -6,7 +6,7 @@ description: >-
   initiatives and technological innovations. This growth offers significant
   opportunities and challenges, impacting job creation and economic development.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T10:25:21+00:00'
 author: Lena Ashwood
 tags:

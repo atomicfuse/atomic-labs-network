@@ -5,7 +5,7 @@ description: >-
   biofuels emerge as a potential solution for clean diesel and aviation fuel
   production.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Daniel Rivera
 tags:

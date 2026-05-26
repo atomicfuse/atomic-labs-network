@@ -7,7 +7,7 @@ description: >-
   consumers can achieve a balanced complexion while reducing waste and fostering
   self-acceptance.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T09:47:29+00:00'
 author: Taylor Winters
 tags:

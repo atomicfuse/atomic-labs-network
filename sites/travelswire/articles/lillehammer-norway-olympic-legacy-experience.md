@@ -4,7 +4,7 @@ description: >-
   Explore Lillehammer's living 1994 Olympic legacy through hands-on winter
   sports experiences, museums, and authentic Nordic culture beyond the medals.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Sarah Rivera
 tags:

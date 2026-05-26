@@ -5,7 +5,7 @@ description: >-
   parents, and kids can vacation together comfortably, from Bali to Portugal's
   Algarve.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Marcus Long
 tags:

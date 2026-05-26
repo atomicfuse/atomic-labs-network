@@ -4,7 +4,7 @@ description: >-
   This article covers healthy high protein meal prep ideas and strategies to
   help readers plan and prepare nutritious, protein-rich meals in advance.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-15T08:56:12+00:00'
 author: admin
 tags:

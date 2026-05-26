@@ -5,7 +5,7 @@ description: >-
   troubling silent invasion that challenges public health and ecosystems
   worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T06:22:07+00:00'
 author: Nico Harper
 tags:

@@ -4,7 +4,7 @@ description: >-
   A controversial children's book sparks debate by framing abortion as a
   superpower, drawing strong reactions from various groups.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:41:03+00:00'
 author: Blake Anderson
 tags:

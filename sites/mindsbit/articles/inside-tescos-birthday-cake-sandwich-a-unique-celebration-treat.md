@@ -6,7 +6,7 @@ description: >-
   customer interactions and prompting traditional banks to invest in technology
   to remain competitive.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T06:32:18+00:00'
 author: Lena Ashwood
 tags:

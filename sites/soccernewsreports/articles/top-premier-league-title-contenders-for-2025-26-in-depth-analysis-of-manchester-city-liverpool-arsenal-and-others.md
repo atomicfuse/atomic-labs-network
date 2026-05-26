@@ -8,7 +8,7 @@ description: >-
   champions. The dynamic nature of football means any of these teams could rise
   to the occasion and bag the title.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T07:01:45+00:00'
 author: Taylor Winters
 tags:

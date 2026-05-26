@@ -6,7 +6,7 @@ description: >-
   emphasizes authenticity and humor in her work, drawing inspiration from
   literature, personal experiences, and everyday life.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-27T11:21:07+00:00'
 author: Becca Roberts
 tags:

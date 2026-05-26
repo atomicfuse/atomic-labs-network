@@ -7,7 +7,7 @@ description: >-
   holistic approach to beauty, incorporating nutrition and exercise into her
   daily regimen.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T07:01:43+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   leadership, their strong defense will be key as fans eagerly anticipate this
   high-stakes matchup.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T10:05:37+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   new chapter promises fresh opportunities and obstacles, blending comedy with
   introspection as Valerie seeks to revive her career.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-23T10:43:27+00:00'
 author: Becca Roberts
 tags:

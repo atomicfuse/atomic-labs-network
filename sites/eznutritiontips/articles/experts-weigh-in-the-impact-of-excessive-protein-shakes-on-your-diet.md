@@ -6,7 +6,7 @@ description: >-
   and guidance on how many shakes one should consume daily, emphasizing the
   importance of a balanced diet and professional consultation.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:12:39+00:00'
 author: Taylor Winters
 tags:

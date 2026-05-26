@@ -6,7 +6,7 @@ description: >-
   advances, stakeholders must adapt to new opportunities and challenges to stay
   competitive in this dynamic landscape.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-08T09:35:36+00:00'
 author: Taylor Winters
 tags:

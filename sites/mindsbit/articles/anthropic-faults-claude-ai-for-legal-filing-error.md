@@ -6,7 +6,7 @@ description: >-
   Claude, highlights the challenges of ensuring accuracy in AI-generated legal
   documents, emphasizing the need for rigorous oversight and verification.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:04:55+00:00'
 author: Lena Ashwood
 tags:

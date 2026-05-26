@@ -6,7 +6,7 @@ description: >-
   commendable resilience from both sides, highlighting football's unpredictable
   and passionate nature.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T09:35:28+00:00'
 author: Taylor Winters
 tags:

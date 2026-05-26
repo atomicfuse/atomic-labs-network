@@ -4,7 +4,7 @@ description: >-
   Explore the thrilling challenge of risking it all for a chance at $500,000
   under expert supervision.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:16:21+00:00'
 author: Nico Harper
 tags:

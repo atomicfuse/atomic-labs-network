@@ -5,7 +5,7 @@ description: >-
   boundaries of our understanding, from bizarre natural occurrences to ancient
   historical puzzles that continue to baffle experts.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T05:15:22+00:00'
 author: Nico Harper
 tags:

@@ -4,7 +4,7 @@ description: >-
   Volkswagen Commercial Vehicles teams up with AirConsole to celebrate Pac-Man's
   46th anniversary with a themed gaming experience in the electric ID. Buzz van.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: James Reed
 tags:

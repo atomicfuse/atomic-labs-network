@@ -5,7 +5,7 @@ description: >-
   Wegovy compared to Ozempic, highlighting the importance of informed medical
   decisions when using these weight-loss and diabetes management drugs.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T12:51:19'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   enhance competitiveness, and deliver quality content in the evolving gaming
   sector.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T09:39:27+00:00'
 author: Taylor Winters
 tags:

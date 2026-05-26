@@ -4,7 +4,7 @@ description: >-
   Mexico and the EU expand cooperation to combat crypto-linked money laundering
   by transnational criminal groups following major trade agreement.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Olivia Morgan
 tags:

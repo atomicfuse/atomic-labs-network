@@ -6,7 +6,7 @@ description: >-
   adjustments and leadership are crucial for survival, as the club aims to
   strengthen its defense and boost morale amid a difficult season.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T09:39:27+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   New research reveals rattlesnakes are especially vulnerable to fungal disease
   and parasitic infections, adding disease to habitat loss as a major threat.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Olivia Kim
 tags:

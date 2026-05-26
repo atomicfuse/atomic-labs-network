@@ -6,7 +6,7 @@ description: >-
   diet, adequate protein, regular exercise, and mindful eating, offering a
   comprehensive approach to achieving and maintaining a healthy weight.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T10:13:32+00:00'
 author: Taylor Winters
 tags:

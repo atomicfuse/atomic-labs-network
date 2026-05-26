@@ -5,7 +5,7 @@ description: >-
   but Nate's death feels heavily telegraphed rather than shocking according
   to...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Maya Torres
 tags:

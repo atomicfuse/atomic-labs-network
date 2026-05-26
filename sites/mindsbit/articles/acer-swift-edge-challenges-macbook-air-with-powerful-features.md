@@ -6,7 +6,7 @@ description: >-
   top-notch performance, long battery life, and robust security at a competitive
   price.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:04:40+00:00'
 author: Lena Ashwood
 tags:

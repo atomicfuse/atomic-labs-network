@@ -7,7 +7,7 @@ description: >-
   a balanced diet, preventing seasonal allergies through dietary strategies,
   staying hydrated, and embracing regular physical activity.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:14:01+00:00'
 author: Taylor Winters
 tags:

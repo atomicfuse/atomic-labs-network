@@ -6,7 +6,7 @@ description: >-
   sunscreen, a gentle cleanser, and a hydrating moisturizer, demonstrating the
   effectiveness of a consistent, straightforward regimen.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T07:01:37+00:00'
 author: Taylor Winters
 tags:

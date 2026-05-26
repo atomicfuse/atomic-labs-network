@@ -4,7 +4,7 @@ description: >-
   The 31-year-old actress relies on strength, conditioning, and Pilates moves to
   build endurance, power, and core control for her demanding schedule.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Lily Reed
 tags:

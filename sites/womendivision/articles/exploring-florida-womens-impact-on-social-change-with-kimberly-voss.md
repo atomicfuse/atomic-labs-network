@@ -7,7 +7,7 @@ description: >-
   provides insights into past achievements that inspire future social equality
   efforts.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T04:55:35+00:00'
 author: Taylor Winters
 tags:

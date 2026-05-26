@@ -6,7 +6,7 @@ description: >-
   From primers to foundations, the brand enhances natural beauty with innovative
   and inclusive offerings.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T04:37:20+00:00'
 author: Taylor Winters
 tags:

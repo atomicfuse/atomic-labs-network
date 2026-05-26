@@ -4,7 +4,7 @@ description: >-
   Discover five chilling cold cases that remain unsolved, haunting the backroads
   of America.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T11:14:33+00:00'
 author: Blake Anderson
 tags:

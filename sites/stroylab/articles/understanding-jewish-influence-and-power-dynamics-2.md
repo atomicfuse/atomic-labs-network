@@ -2,7 +2,7 @@
 title: "Understanding Jewish Influence and Power Dynamics"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-22T11:37:25+00:00"
 author: "Blake Anderson"
 tags:

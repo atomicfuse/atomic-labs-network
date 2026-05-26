@@ -7,7 +7,7 @@ description: >-
   effects, complementing traditional therapies and promoting psychological
   insights.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-08T09:27:43'
 author: Taylor Winters
 tags:

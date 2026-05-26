@@ -5,7 +5,7 @@ description: >-
   electrifying performances, celebrating veteran talent and fresh faces while
   highlighting diversity and inclusion in the film industry.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T10:27:17+00:00'
 author: Becca Roberts
 tags:

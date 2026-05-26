@@ -6,7 +6,7 @@ description: >-
   skills and success, offering them enhanced visibility and marketability in the
   professional sports landscape.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T09:33:44+00:00'
 author: Taylor Winters
 tags:

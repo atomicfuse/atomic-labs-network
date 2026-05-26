@@ -6,7 +6,7 @@ description: >-
   capabilities, and impressive battery life for both tech enthusiasts and
   fashion-conscious users.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:10:45+00:00'
 author: Lena Ashwood
 tags:

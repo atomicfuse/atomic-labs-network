@@ -6,7 +6,7 @@ description: >-
   suggested alternative player selections could have better countered
   Liverpool's strengths and influenced the match's outcome.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T09:41:33+00:00'
 author: Taylor Winters
 tags:

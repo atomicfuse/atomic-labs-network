@@ -6,7 +6,7 @@ description: >-
   complex platform guidelines balancing security, privacy, and technological
   advancement.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-03T06:17:28+00:00'
 author: Lena Ashwood
 tags:

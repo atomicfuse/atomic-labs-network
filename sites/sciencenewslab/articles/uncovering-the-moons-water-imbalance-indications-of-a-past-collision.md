@@ -6,7 +6,7 @@ description: >-
   geological history. This finding could also aid in planning future lunar
   missions, opening new avenues for exploration.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T11:01:39'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   Wheels to life. Enjoy a wide range of cars and multiplayer features for a
   captivating gaming adventure.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-03T09:21:22+00:00'
 author: Taylor Winters
 tags:

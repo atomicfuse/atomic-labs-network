@@ -4,7 +4,7 @@ description: >-
   A motorcyclist was apprehended following a high-speed police chase in San
   Bernardino County, led by the California Highway Patrol.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-25T07:21:15+00:00'
 author: Taylor Winters
 tags:

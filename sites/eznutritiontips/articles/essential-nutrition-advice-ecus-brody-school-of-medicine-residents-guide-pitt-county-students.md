@@ -8,7 +8,7 @@ description: >-
   regular exercise to foster a healthier community culture and cultivate a more
   educated future generation.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:22:01+00:00'
 author: Taylor Winters
 tags:

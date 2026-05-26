@@ -7,7 +7,7 @@ description: >-
   or more immediate concerns, highlighting the need for greater awareness and
   appreciation.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:03:28+00:00'
 author: Taylor Winters
 tags:

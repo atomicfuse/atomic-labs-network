@@ -6,7 +6,7 @@ description: >-
   secrets. Experience the freedom of flight, engaging challenges, and stunning
   visuals in this captivating adventure.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T09:33:35+00:00'
 author: Taylor Winters
 tags:

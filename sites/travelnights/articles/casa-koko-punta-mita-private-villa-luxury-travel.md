@@ -5,7 +5,7 @@ description: >-
   wellness, fine dining, and nature excursions as travelers seek intimate
   alternatives...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Marcus Long
 tags:

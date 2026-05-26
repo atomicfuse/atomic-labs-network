@@ -6,7 +6,7 @@ description: >-
   friendship, rivalry, and significant confrontations that lead to unexpected
   alliances and new tensions among the cast.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T05:29:30+00:00'
 author: Becca Roberts
 tags:

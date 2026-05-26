@@ -6,7 +6,7 @@ description: >-
   A high-stakes police chase unfolded as officers pursued a pickup truck with
   fake plates across the San Fernando and San Gabriel Valleys.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-05T09:21:23+00:00'
 author: Taylor Winters
 tags:

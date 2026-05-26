@@ -4,7 +4,7 @@ description: >-
   Dive into the chilling unsolved case of Kenneka Jenkins, a mystery that
   continues to perplex investigators and captivate the public.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T05:37:23+00:00'
 author: Nico Harper
 tags:

@@ -6,7 +6,7 @@ description: >-
   women's football, enhances fan engagement, and sets a precedent for gender
   equality in sports merchandising.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-11T04:51:24+00:00'
 author: Taylor Winters
 tags:

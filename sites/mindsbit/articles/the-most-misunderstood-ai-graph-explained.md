@@ -6,7 +6,7 @@ description: >-
   misinterpreted. Understanding its true meaning helps clarify AI's current
   state and future potential, avoiding misconceptions about its abilities.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:25:36+00:00'
 author: Lena Ashwood
 tags:

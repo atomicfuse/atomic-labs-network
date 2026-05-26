@@ -7,7 +7,7 @@ description: >-
   highlighting the importance of lifestyle changes and regular screenings for
   cancer prevention.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T09:17:22+00:00'
 author: Taylor Winters
 tags:

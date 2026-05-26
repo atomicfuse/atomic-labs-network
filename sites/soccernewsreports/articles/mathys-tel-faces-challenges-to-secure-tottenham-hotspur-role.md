@@ -6,7 +6,7 @@ description: >-
   Tel's entry into the Premier League promises excitement and strategic
   advantages for the club.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-25T07:39:30+00:00'
 author: Taylor Winters
 tags:

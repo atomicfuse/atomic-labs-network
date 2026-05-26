@@ -4,7 +4,7 @@ description: >-
   Discover U.S. destinations offering parades, ceremonies, and patriotic events
   to commemorate Memorial Day while experiencing local history and community...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Sarah Rivera
 tags:

@@ -6,7 +6,7 @@ description: >-
   community engagement. Their commitment to accessibility and education ensures
   a welcoming space for players of all backgrounds.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:37:21+00:00'
 author: Taylor Winters
 tags:

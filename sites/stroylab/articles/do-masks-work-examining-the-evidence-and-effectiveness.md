@@ -6,7 +6,7 @@ description: >-
   Nations are diversifying trade, investing in technology, and forging alliances
   to navigate uncertainties and ensure stability in global markets.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:35:26+00:00'
 author: Blake Anderson
 tags:

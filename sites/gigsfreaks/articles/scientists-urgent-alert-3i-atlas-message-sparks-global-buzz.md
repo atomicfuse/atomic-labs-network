@@ -5,7 +5,7 @@ description: >-
   world by storm, igniting viral speculation and intrigue across both scientific
   communities and the general public.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T05:13:19+00:00'
 author: Nico Harper
 tags:

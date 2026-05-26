@@ -5,7 +5,7 @@ description: >-
   abusing a minor in Dominican Republic but receives judicial pardon, avoiding
   prison.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Sarah Bennett
 tags:

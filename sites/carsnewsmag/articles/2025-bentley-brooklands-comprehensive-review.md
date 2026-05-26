@@ -6,7 +6,7 @@ description: >-
   and advanced technology create an exhilarating driving experience, making it a
   standout in the world of luxury coupes.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T09:23:33+00:00'
 author: Taylor Winters
 tags:

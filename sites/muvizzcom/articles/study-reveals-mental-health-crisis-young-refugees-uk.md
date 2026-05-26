@@ -4,7 +4,7 @@ description: >-
   University of East Anglia research exposes severe trauma, PTSD, and isolation
   faced by Afghan refugees who arrived in the UK as unaccompanied children.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-15'
 author: Daniel Parker
 tags:

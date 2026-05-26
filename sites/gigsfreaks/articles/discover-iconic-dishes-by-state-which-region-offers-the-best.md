@@ -6,7 +6,7 @@ description: >-
   survey highlights the Southern states' comfort foods as some of the most
   celebrated, emphasizing their impact on American food culture.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:21:32+00:00'
 author: Nico Harper
 tags:

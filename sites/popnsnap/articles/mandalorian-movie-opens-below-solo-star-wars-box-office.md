@@ -5,7 +5,7 @@ description: >-
   concerns about potential Star Wars franchise fatigue and theatrical
   performance.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Sam Gray
 tags:

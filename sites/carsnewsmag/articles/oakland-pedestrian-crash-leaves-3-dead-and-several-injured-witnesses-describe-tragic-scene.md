@@ -7,7 +7,7 @@ description: >-
   three people and injuring several others. Witnesses described the devastating
   moment and its aftermath.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18T08:21:45+00:00'
 author: Taylor Winters
 tags:

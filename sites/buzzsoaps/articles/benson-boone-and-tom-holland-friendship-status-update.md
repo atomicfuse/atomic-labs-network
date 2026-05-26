@@ -6,7 +6,7 @@ description: >-
   to exciting collaborations, blending music and film, and inspiring creative
   projects within the entertainment industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T09:21:55+00:00'
 author: Becca Roberts
 tags:

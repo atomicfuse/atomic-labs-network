@@ -5,7 +5,7 @@ description: >-
   contributions to civil political debate and the importance of constructive
   dialogue in today's polarized society.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-11T04:07:29+00:00'
 author: Taylor Winters
 tags:

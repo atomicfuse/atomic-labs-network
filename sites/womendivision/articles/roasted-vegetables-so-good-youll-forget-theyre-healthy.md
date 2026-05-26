@@ -6,7 +6,7 @@ description: >-
   a flavor-packed and healthy meal — perfect for meal prep, weeknight dinners,
   or as a holiday side dish.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-11T08:06:44+00:00'
 author: admin
 tags:

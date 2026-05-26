@@ -7,7 +7,7 @@ description: >-
   biotechnology, offering hope for treating genetic disorders and improving
   global health.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T09:17:40+00:00'
 author: Taylor Winters
 tags:

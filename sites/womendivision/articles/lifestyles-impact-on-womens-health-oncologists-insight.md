@@ -6,7 +6,7 @@ description: >-
   and preventive measures is crucial for mitigating this troubling rise, with
   lifestyle and genetic factors playing significant roles in early onset.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-03T05:59:26+00:00'
 author: Taylor Winters
 tags:

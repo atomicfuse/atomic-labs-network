@@ -5,7 +5,7 @@ description: >-
   protection, quality products, and healthy lifestyle habits to achieve and
   maintain a glowing complexion.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:35:32+00:00'
 author: Taylor Winters
 tags:

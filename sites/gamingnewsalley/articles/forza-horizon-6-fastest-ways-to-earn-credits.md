@@ -5,7 +5,7 @@ description: >-
   difficulty settings, Wheelspins, mastery perks, seasonal rewards, and careful
   Auction House selling while avoiding wasteful early spending.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18T08:32:22+00:00'
 author: Taylor Winters
 tags:

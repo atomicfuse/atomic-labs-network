@@ -6,7 +6,7 @@ description: >-
   benefits, and metabolic advantages suggesting moderate consumption could
   promote healthy aging.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T09:17:25+00:00'
 author: Taylor Winters
 tags:

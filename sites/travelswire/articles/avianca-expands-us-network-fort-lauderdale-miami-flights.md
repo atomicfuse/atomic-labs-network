@@ -4,7 +4,7 @@ description: >-
   Avianca Airlines strengthens its US presence with new flight routes to Fort
   Lauderdale and Miami as part of strategic expansion into Florida markets.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-17'
 author: Sarah Rivera
 tags:

@@ -4,7 +4,7 @@ description: >-
   From Spider-Noir to The Boys finale, Vulture rounds up the 11 best new movies
   and TV shows to watch over Memorial Day weekend 2026 across theaters and...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Daniel Parker
 tags:

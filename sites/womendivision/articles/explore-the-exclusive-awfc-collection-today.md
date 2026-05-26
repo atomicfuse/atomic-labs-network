@@ -6,7 +6,7 @@ description: >-
   accessories, the collection emphasizes quality, style, and sustainability,
   aiming to strengthen community bonds and support environmental values.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-08T06:39:30+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   confidence and individuality, promoting a radiant look that celebrates one's
   unique beauty through simple, effective routines.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T09:41:25+00:00'
 author: Taylor Winters
 tags:

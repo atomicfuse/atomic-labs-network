@@ -6,7 +6,7 @@ description: >-
   Lazio are making headlines with strategic plays and tactical innovations in
   this highly competitive tournament.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T10:39:26+00:00'
 author: Taylor Winters
 tags:

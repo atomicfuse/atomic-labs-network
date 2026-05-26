@@ -5,7 +5,7 @@ description: >-
   requesting source text, so there is nothing to clean up or summarize about
   Euphoria Season 3 Episode 5.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11T09:19:36+00:00'
 author: Becca Roberts
 tags:

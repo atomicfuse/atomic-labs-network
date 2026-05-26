@@ -6,7 +6,7 @@ description: >-
   storytelling. This recognition underscores the evolving role of video games as
   significant contributors to cultural dialogue and creative expression.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T09:37:26+00:00'
 author: Taylor Winters
 tags:

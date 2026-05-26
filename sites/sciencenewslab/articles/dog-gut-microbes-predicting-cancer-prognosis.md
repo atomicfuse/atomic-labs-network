@@ -6,7 +6,7 @@ description: >-
   options. Understanding these microbial correlations enriches canine health
   knowledge and provides insights into broader human medical conditions.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T12:49:30'
 author: Taylor Winters
 tags:

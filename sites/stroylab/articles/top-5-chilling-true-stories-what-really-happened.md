@@ -4,7 +4,7 @@ description: >-
   Explore five spine-tingling stories that defy belief, from an astonishing
   coincidence in London to a plane passenger's eerie sighting in Colorado.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:30:35+00:00'
 author: Blake Anderson
 tags:

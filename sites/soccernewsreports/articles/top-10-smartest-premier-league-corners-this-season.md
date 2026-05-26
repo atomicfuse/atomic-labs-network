@@ -6,7 +6,7 @@ description: >-
   innovative corner approaches contrasting Manchester United's focus on aerial
   dominance, creating a fascinating tactical battle.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T09:39:25+00:00'
 author: Taylor Winters
 tags:

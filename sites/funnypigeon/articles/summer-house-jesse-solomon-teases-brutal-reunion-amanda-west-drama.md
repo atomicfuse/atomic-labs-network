@@ -5,7 +5,7 @@ description: >-
   major accountability and emotional fallout from Amanda Batula and West
   Wilson's...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Andrew Gray
 tags:

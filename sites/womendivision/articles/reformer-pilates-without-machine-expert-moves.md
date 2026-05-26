@@ -5,7 +5,7 @@ description: >-
   and resistance bands to recreate reformer Pilates benefits at home without
   the...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Sam Cooper
 tags:

@@ -5,7 +5,7 @@ description: >-
   calf in Virginia, highlighting the power of youthful intuition, community
   collaboration, and the impact of empathy and vigilance in times of need.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:13:57+00:00'
 author: Nico Harper
 tags:

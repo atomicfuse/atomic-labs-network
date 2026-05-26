@@ -4,7 +4,7 @@ description: >-
   Explore the perplexing unsolved mystery of Tiffany's disappearance in New
   Jersey, a case that continues to baffle investigators and haunt her family.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:27:41+00:00'
 author: Blake Anderson
 tags:

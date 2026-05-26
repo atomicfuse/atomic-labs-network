@@ -6,7 +6,7 @@ description: >-
   with power, trust, and betrayal, set against breathtaking visual aesthetics
   and a strong narrative foundation.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T10:41:26+00:00'
 author: Becca Roberts
 tags:

@@ -6,7 +6,7 @@ description: >-
   insights on preventing heart diseases, emphasizing risk management, adopting
   healthy lifestyles, and the importance of regular medical check-ups.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:03:22+00:00'
 author: Taylor Winters
 tags:

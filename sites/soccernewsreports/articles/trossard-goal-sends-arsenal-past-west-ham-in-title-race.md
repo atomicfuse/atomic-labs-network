@@ -5,7 +5,7 @@ description: >-
   derby, while West Ham battled for balance, resilience, and sharper moments at
   the London Stadium.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11T08:35:03+00:00'
 author: Taylor Winters
 tags:

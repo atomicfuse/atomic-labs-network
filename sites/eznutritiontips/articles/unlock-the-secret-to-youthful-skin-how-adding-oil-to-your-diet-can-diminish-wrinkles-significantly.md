@@ -7,7 +7,7 @@ description: >-
   wrinkles and signs of aging, offering deep hydration, antioxidant protection,
   and anti-inflammatory benefits that can promote a more youthful appearance.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:15:23+00:00'
 author: Taylor Winters
 tags:

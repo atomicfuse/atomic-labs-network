@@ -7,7 +7,7 @@ description: >-
   ECMO's potential as a life-saving bridge to transplantation in critical
   respiratory cases.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T13:58:55'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   crucial for success, while staying informed on injuries and engaging with the
   FPL community can provide a competitive edge.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T09:37:36+00:00'
 author: Taylor Winters
 tags:

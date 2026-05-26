@@ -6,7 +6,7 @@ description: >-
   experience form a formidable squad, aiming to break past records and achieve
   international glory.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T09:40:40+00:00'
 author: Taylor Winters
 tags:

@@ -2,7 +2,7 @@
 title: "Southern Charm Recap: Farm Purchase Drama Unfolds"
 description: "Bravo's \"Southern Charm\" Season 11, Episode 10 captivates with drama and personal revelations, as a social gathering triggers conflicts and heartfelt exchanges that offer insights into cast dynamics, evolving relationships, and themes of forgiveness and personal growth."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-05T10:29:33+00:00"
 author: "Becca Roberts"
 tags:

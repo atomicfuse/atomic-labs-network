@@ -5,7 +5,7 @@ description: >-
   Cox, as he unravels the theory that reshaped our understanding of the
   universe.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:04:28+00:00'
 author: Lena Ashwood
 tags:

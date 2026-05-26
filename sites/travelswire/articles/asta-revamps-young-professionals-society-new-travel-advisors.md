@@ -5,7 +5,7 @@ description: >-
   support and networking opportunities for newer travel advisors entering the
   industry.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

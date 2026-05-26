@@ -4,7 +4,7 @@ description: >-
   Car thieves are exploiting vulnerabilities in new vehicles at LAX parking
   lots. Learn how to protect your vehicle.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-24T09:21:33+00:00'
 author: Taylor Winters
 tags:

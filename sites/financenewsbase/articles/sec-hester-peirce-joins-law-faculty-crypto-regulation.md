@@ -5,7 +5,7 @@ description: >-
   faculty, signaling mainstream academic focus on digital asset regulation and
   compliance.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-22'
 author: Hannah Murphy
 tags:

@@ -5,7 +5,7 @@ description: >-
   exclusive creator shows, positioning itself as the future of entertainment
   over...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-14'
 author: Rachel Long
 tags:

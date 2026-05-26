@@ -6,7 +6,7 @@ description: >-
   foods, complex carbohydrates, lean proteins, and cooling foods into your daily
   routine, you can stay energized and cool throughout the summer season.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:09:42+00:00'
 author: Taylor Winters
 tags:

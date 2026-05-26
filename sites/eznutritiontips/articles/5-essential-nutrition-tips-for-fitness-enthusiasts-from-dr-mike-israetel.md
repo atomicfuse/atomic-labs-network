@@ -6,7 +6,7 @@ description: >-
   sugars, staying hydrated, and practicing moderation to achieve overall health
   and fitness goals.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:14:39+00:00'
 author: Taylor Winters
 tags:

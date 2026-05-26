@@ -6,7 +6,7 @@ description: >-
   to hell and other tales exploring the human psyche under extraordinary
   circumstances.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:44:11+00:00'
 author: Blake Anderson
 tags:

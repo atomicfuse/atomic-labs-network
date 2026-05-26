@@ -5,7 +5,7 @@ description: >-
   begun, sparking widespread interest, debate, and speculation across online
   communities.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T10:13:21+00:00'
 author: Nico Harper
 tags:

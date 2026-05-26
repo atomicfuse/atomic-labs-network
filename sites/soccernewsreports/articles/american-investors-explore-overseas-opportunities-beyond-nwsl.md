@@ -6,7 +6,7 @@ description: >-
   promise to redefine the sport's boundaries, enhance infrastructure, and create
   new opportunities for young female athletes globally.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-11T04:21:33+00:00'
 author: Taylor Winters
 tags:

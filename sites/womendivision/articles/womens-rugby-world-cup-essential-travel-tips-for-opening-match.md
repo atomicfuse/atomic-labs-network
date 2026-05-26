@@ -6,7 +6,7 @@ description: >-
   accommodations to fully enjoy the games and explore Sunderland's attractions,
   supporting women's sports on a global stage.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T06:12:46+00:00'
 author: Taylor Winters
 tags:

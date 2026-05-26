@@ -5,7 +5,7 @@ description: >-
   PlayStation game prices, in a case that could have significant implications
   for the gaming industry.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T09:35:23+00:00'
 author: Taylor Winters
 tags:

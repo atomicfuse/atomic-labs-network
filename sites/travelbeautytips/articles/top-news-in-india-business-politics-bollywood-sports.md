@@ -6,7 +6,7 @@ description: >-
   recent events and their implications, helping individuals and organizations
   prepare for future challenges and opportunities.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T09:43:24+00:00'
 author: Taylor Winters
 tags:

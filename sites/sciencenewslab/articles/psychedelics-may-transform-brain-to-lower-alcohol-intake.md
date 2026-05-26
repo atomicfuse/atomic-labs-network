@@ -7,7 +7,7 @@ description: >-
   traditional treatments and supporting long-term recovery through profound
   psychological experiences.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-12T08:41:26'
 author: Taylor Winters
 tags:

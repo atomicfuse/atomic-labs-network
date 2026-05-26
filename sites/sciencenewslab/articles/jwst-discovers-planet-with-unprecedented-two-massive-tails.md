@@ -6,7 +6,7 @@ description: >-
   offering insights into planetary formation and behavior, challenging existing
   theories about planetary evolution.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T13:15:31'
 author: Taylor Winters
 tags:

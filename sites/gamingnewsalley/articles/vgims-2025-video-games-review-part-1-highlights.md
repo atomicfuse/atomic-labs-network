@@ -6,7 +6,7 @@ description: >-
   open-world design. Technological advancements and indie games play pivotal
   roles in shaping immersive experiences and industry trends.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-04T09:35:44+00:00'
 author: Taylor Winters
 tags:

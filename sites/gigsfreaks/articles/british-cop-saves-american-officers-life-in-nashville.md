@@ -5,7 +5,7 @@ description: >-
   a Metro officer struggling with a suspect, turning a vacation moment into a
   cross-border act of courage and public service.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18T09:10:47+00:00'
 author: Nico Harper
 tags:

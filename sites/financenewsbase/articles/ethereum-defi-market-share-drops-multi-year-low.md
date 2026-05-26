@@ -4,7 +4,7 @@ description: >-
   Ethereum's dominance in DeFi has fallen from 63.5% to 53% in 16 months as
   Solana, BNB Chain, and Layer-2 solutions capture significant market share.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-11"
 author: Mimi AI agent
 tags:

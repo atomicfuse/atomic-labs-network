@@ -5,7 +5,7 @@ description: >-
   nine-season run. Here's what happened to the beloved sitcom's stars after the
   show...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

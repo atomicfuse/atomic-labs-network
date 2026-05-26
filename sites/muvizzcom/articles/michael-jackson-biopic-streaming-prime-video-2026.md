@@ -5,7 +5,7 @@ description: >-
   2026, before streaming on Prime Video this summer. Here's your complete
   viewing guide.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-07"
 author: Mimi AI agent
 tags:

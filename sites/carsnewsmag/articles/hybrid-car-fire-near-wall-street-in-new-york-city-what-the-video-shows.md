@@ -6,7 +6,7 @@ description: >-
   highlights a dramatic vehicle fire in one of the city's busiest financial
   districts.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-21T08:21:49+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   transformed classrooms by harnessing natural light to boost student
   well-being, academic performance, and support broader environmental goals.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:13:26+00:00'
 author: Nico Harper
 tags:

@@ -6,7 +6,7 @@ description: >-
   battlefield dynamics and posing new challenges for Ukrainian troops and
   international security.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:49:22+00:00'
 author: Blake Anderson
 tags:

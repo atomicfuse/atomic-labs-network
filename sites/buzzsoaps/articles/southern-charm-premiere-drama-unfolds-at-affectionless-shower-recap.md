@@ -6,7 +6,7 @@ description: >-
   like Shep Rose and Craig Conover are joined by newcomers, ensuring drama
   amidst South Carolina's charming backdrop.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T13:00:23+00:00'
 author: Becca Roberts
 tags:

@@ -6,7 +6,7 @@ description: >-
   talents and technological advancements, the sport's future looks promising and
   continues to captivate fans worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:39:29+00:00'
 author: Taylor Winters
 tags:

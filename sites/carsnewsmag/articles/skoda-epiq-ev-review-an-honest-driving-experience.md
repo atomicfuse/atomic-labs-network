@@ -6,7 +6,7 @@ description: >-
   smooth performance, efficient charging capabilities, and contributes to
   sustainability, making it an attractive eco-friendly driving choice.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T09:21:35+00:00'
 author: Taylor Winters
 tags:

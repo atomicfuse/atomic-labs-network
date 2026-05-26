@@ -7,7 +7,7 @@ description: >-
   health emergencies with tailored strategies that respect local needs and
   international goals.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:27:28+00:00'
 author: Blake Anderson
 tags:

@@ -5,7 +5,7 @@ description: >-
   navigate the transition with simple daily rituals and confidence-building
   habits.
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Max Ward
 tags:

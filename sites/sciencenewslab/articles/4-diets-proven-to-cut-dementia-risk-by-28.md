@@ -6,7 +6,7 @@ description: >-
   while minimizing processed foods supports long-term brain health and cognitive
   function.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T07:49:28'
 author: Taylor Winters
 tags:

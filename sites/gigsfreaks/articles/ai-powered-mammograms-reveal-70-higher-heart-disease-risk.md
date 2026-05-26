@@ -6,7 +6,7 @@ description: >-
   offering a 70% greater detection rate compared to traditional methods and
   enabling dual screening for both breast cancer and heart conditions.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T10:17:35+00:00'
 author: Nico Harper
 tags:

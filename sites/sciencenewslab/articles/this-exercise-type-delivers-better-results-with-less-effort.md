@@ -5,7 +5,7 @@ description: >-
   helping build strength, muscle, balance, and mobility with fewer repetitions
   when practiced safely and consistently.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04T11:46:24'
 author: Taylor Winters
 tags:

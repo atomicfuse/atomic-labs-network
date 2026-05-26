@@ -5,7 +5,7 @@ description: >-
   weekend, potentially becoming the lowest-grossing Star Wars film in franchise
   history.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Andrew Gray
 tags:

@@ -4,7 +4,7 @@ description: >-
   Zeeko Zaki discusses OA's shocking exit and undercover mission in FBI's season
   8 finale, setting up major changes for season 9's return.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Rachel Long
 tags:

@@ -4,7 +4,7 @@ description: >-
   Humanoid robots wowed audiences at China's Spring Festival Gala with
   acrobatics and kung fu, sparking discussions on robotics in entertainment.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-19T09:23:22+00:00'
 author: Taylor Winters
 tags:

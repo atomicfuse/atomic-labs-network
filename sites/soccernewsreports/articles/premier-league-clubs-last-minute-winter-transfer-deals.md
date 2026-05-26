@@ -6,7 +6,7 @@ description: >-
   or offer long-term benefits, balancing talent with budget. Transfer deadline
   day is filled with anticipation and last-minute deals.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T10:42:46+00:00'
 author: Taylor Winters
 tags:

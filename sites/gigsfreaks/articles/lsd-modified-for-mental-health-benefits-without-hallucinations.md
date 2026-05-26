@@ -6,7 +6,7 @@ description: >-
   modifying its structure, researchers hope to create a version that alleviates
   symptoms of depression, anxiety, and PTSD without inducing hallucinations.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:10:49+00:00'
 author: Nico Harper
 tags:

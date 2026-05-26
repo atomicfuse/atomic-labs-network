@@ -4,7 +4,7 @@ description: >-
   Discover how to make cinnamon tea, an easy homemade drink that boosts
   metabolism and aids in burning belly fat.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-12T12:02:20+00:00'
 author: Taylor Winters
 tags:

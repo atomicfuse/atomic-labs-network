@@ -6,7 +6,7 @@ description: >-
   strong form has impressed, while Sunderland fans face mixed emotions due to
   challenging forecasts and team performance concerns.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T09:35:35+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   performances and advocacy work, she continues to inspire fans and the
   entertainment industry alike.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T10:06:04+00:00'
 author: Becca Roberts
 tags:

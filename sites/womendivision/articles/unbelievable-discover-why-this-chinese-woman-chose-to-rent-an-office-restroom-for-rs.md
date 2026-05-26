@@ -8,7 +8,7 @@ description: >-
   Rs. 8000) monthly as a deliberate strategy to cut living expenses and save
   money.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T08:50:03+00:00'
 author: Taylor Winters
 tags:

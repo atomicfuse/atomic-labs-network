@@ -5,7 +5,7 @@ description: >-
   values in San Diego, and how choosing the right color can maximize your
   vehicle's long-term worth.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T04:05:35+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   avoid harmful chemicals, supporting both skin health and environmental
   sustainability.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:17:27+00:00'
 author: Taylor Winters
 tags:

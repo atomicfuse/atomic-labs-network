@@ -4,7 +4,7 @@ description: >-
   Gaming is becoming more expensive across consoles, games, subscriptions, and
   accessories as multiple factors drive prices up simultaneously in 2026.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Elena Long
 tags:

@@ -7,7 +7,7 @@ description: >-
   evolution amidst supernatural elements, setting the stage for future
   developments.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T10:37:35+00:00'
 author: Becca Roberts
 tags:

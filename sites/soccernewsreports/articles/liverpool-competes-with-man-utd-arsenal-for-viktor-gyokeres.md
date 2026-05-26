@@ -6,7 +6,7 @@ description: >-
   transfer window nears, the Swedish forward's performances have attracted
   significant interest from these Premier League clubs.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:21:25+00:00'
 author: Taylor Winters
 tags:

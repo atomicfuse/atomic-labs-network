@@ -6,7 +6,7 @@ description: >-
   environmental impact. The potential restart could undermine global
   non-proliferation efforts and provoke other nations to conduct tests.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T11:36:07+00:00'
 author: Lena Ashwood
 tags:

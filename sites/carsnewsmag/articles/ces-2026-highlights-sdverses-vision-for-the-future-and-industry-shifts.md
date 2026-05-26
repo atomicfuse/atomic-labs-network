@@ -5,7 +5,7 @@ description: >-
   software-defined vehicles, alongside major industry changes including Nissan's
   leadership shift.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-08T09:21:21+00:00'
 author: Taylor Winters
 tags:

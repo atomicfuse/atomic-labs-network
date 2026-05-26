@@ -6,7 +6,7 @@ description: >-
   rivalry with Manchester City, the team remains focused on reclaiming their
   status as title contenders, driven by resilience and tactical adaptability.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T09:41:29+00:00'
 author: Taylor Winters
 tags:

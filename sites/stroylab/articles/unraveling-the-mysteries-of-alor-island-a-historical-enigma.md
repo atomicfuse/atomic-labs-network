@@ -4,7 +4,7 @@ description: >-
   Discover the mysterious occurrences on Alor Island, Indonesia, where
   unexplained events challenge both science and folklore.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T12:49:28+00:00'
 author: Blake Anderson
 tags:

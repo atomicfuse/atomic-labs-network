@@ -6,7 +6,7 @@ description: >-
   League Soccer. Standout players like Sam Surridge played crucial roles in the
   team's success.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-24T04:27:27+00:00'
 author: Taylor Winters
 tags:

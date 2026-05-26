@@ -4,7 +4,7 @@ description: >-
   ABC's 'The Rookie' Season 8 finale drew 9.25 million viewers across platforms,
   setting new streaming highs and proving network TV can still grow.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Daniel Parker
 tags:

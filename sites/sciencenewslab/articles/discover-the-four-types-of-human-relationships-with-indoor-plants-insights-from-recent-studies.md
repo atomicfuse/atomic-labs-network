@@ -9,7 +9,7 @@ description: >-
   care practices, influencing how we design spaces, choose plants, and develop
   care regimens.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T11:32:13'
 author: Taylor Winters
 tags:

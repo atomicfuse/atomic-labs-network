@@ -5,7 +5,7 @@ description: >-
   and vast data pools, offering insights into potential outcomes by considering
   historical data, player transfers, and managerial changes.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:21:33+00:00'
 author: Taylor Winters
 tags:

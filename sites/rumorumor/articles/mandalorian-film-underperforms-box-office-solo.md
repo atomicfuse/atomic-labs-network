@@ -4,7 +4,7 @@ description: >-
   The Mandalorian movie opened below Solo's box office numbers, potentially
   becoming the lowest-grossing Star Wars film in franchise history.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Maya Torres
 tags:

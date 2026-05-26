@@ -5,7 +5,7 @@ description: >-
   burial and snake bite, with Jacob Elordi reacting to his character's
   controversial...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Maya Torres
 tags:

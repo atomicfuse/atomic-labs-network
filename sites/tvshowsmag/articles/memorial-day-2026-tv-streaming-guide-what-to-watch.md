@@ -4,7 +4,7 @@ description: >-
   From The Boys finale to Spider-Noir and Rick and Morty season 9, discover the
   best new movies and TV shows premiering Memorial Day weekend 2026.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Zoe Hayes
 tags:

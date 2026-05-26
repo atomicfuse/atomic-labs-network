@@ -5,7 +5,7 @@ description: >-
   baffle experts and enthusiasts alike, spanning historical enigmas, scientific
   puzzles, and unexplained phenomena.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-06T10:19:29+00:00'
 author: Nico Harper
 tags:

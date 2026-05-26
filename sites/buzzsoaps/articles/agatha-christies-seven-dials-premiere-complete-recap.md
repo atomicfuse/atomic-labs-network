@@ -6,7 +6,7 @@ description: >-
   explores themes of deception and justice, as a secretive group entangles
   characters in a web of intrigue.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T10:43:25+00:00'
 author: Becca Roberts
 tags:

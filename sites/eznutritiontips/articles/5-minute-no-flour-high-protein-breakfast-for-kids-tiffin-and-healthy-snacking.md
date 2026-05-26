@@ -4,7 +4,7 @@ description: >-
   A quick, vegetarian, no-maida breakfast and tiffin idea designed for busy
   mornings, kids lunch boxes, evening snacks, and protein-rich healthy eating.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04T09:07:40+00:00'
 author: Taylor Winters
 tags:

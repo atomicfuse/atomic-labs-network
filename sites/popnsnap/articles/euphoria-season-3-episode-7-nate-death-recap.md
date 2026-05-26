@@ -5,7 +5,7 @@ description: >-
   character death while highlighting ongoing concerns about the show's
   direction.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Sam Gray
 tags:

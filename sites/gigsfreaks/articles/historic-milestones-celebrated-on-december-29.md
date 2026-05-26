@@ -6,7 +6,7 @@ description: >-
   joining the U.S. in 1845, reflecting a day of innovation and historical
   importance.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T10:39:23+00:00'
 author: Nico Harper
 tags:

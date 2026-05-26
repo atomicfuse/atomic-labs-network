@@ -5,7 +5,7 @@ description: >-
   reflecting the broader impact of grassroots advocacy on national policy
   decisions.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:38:34+00:00'
 author: Blake Anderson
 tags:

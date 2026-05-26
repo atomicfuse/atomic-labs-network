@@ -5,7 +5,7 @@ description: >-
   unsettling truths, from a chilling mountain hike to an inexplicable family
   portrait taken before a storm.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:36:04+00:00'
 author: Blake Anderson
 tags:

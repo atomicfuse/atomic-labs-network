@@ -6,7 +6,7 @@ description: >-
   valuation adjustments, trade negotiations, and strategic investments in
   emerging markets.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:34:59+00:00'
 author: Blake Anderson
 tags:

@@ -7,7 +7,7 @@ description: >-
   but faced arrests, triggering public outcry and an outpouring of legal support
   for the detained women as they seek to file a GSOC complaint.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T09:31:34+00:00'
 author: Taylor Winters
 tags:

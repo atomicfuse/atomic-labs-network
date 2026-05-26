@@ -7,7 +7,7 @@ description: >-
   varieties while raising ethical and ecological questions about modifying plant
   genomes for decorative purposes.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T07:47:35'
 author: Taylor Winters
 tags:

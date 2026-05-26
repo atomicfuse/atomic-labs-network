@@ -6,7 +6,7 @@ description: >-
   services. Her commitment to simplicity and quality reflects her passion for
   empowering individuals through effective skincare solutions.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T09:45:28+00:00'
 author: Taylor Winters
 tags:

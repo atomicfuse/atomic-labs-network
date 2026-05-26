@@ -5,7 +5,7 @@ description: >-
   break, restore your energy, and gently ease in or out of a busy day. Bring a
   blanket, towel, or bolster if available.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-14T08:36:04+00:00'
 author: admin
 tags:

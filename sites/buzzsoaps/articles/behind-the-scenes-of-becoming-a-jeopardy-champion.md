@@ -6,7 +6,7 @@ description: >-
   details, showcasing a battle of wits that requires strategy, composure, and
   deep knowledge.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T09:24:44+00:00'
 author: Becca Roberts
 tags:

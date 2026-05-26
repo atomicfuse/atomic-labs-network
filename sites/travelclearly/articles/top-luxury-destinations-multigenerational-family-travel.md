@@ -4,7 +4,7 @@ description: >-
   New analysis reveals the best high-end destinations for family trips spanning
   grandparents to grandchildren, prioritizing safety and cross-generational...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Ben Chen
 tags:

@@ -8,7 +8,7 @@ description: >-
   comfort, and quality, offering fans a unique way to express their support for
   the team and contribute to the growth of women's football.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T10:16:35+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Explore delightful spring-themed pet moments in 4K, capturing the essence of
   the season with 60 minutes of charming and playful animal antics.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:14:12+00:00'
 author: Nico Harper
 tags:

@@ -7,7 +7,7 @@ description: >-
   minimalist style, Veja Esplar for sustainability, Converse Chuck Taylor All
   Star for versatility, and Nike Air Force 1 for iconic design.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T09:31:33+00:00'
 author: Taylor Winters
 tags:

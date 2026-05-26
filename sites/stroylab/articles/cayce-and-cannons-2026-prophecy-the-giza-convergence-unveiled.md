@@ -6,7 +6,7 @@ description: >-
   alliances, and global security. This evolution demands strategic cooperation
   and adaptation to maintain stability and prosperity in a dynamic world.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:29:57+00:00'
 author: Blake Anderson
 tags:

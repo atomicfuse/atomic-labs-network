@@ -9,7 +9,7 @@ description: >-
   initiative also extends to the wider community through health fairs and
   workshops.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:23:26+00:00'
 author: Taylor Winters
 tags:

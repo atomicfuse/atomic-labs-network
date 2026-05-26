@@ -4,7 +4,7 @@ description: >-
   After binging Beef Season 2 on Netflix, discover six alternative dark comedy
   dramas perfect for your next streaming session this May.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

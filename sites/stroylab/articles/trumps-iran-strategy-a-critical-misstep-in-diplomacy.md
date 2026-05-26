@@ -6,7 +6,7 @@ description: >-
   are racing for technological supremacy, prompting calls for international
   regulations to ensure responsible AI deployment in defense strategies.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:59:31+00:00'
 author: Blake Anderson
 tags:

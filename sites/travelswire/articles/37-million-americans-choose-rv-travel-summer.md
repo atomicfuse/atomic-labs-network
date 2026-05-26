@@ -4,7 +4,7 @@ description: >-
   RV travel becomes the preferred vacation method for 37 million Americans this
   summer as post-pandemic wanderlust meets inflation concerns.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

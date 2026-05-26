@@ -4,7 +4,7 @@ description: >-
   From Caroline in the City to 3rd Rock from the Sun, discover the forgotten
   hits that ruled primetime during TV's golden year of 1996.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

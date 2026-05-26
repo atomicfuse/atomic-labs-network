@@ -5,7 +5,7 @@ description: >-
   top-four race, boosting their points and goal difference as Liverpool lead and
   several clubs battle for Champions League qualification.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-14T08:35:25+00:00'
 author: Taylor Winters
 tags:

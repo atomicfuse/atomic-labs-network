@@ -6,7 +6,7 @@ description: >-
   environmental lead levels and awareness to mitigate risks, particularly in
   older infrastructures and urban areas.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-19T09:19:28+00:00'
 author: Taylor Winters
 tags:

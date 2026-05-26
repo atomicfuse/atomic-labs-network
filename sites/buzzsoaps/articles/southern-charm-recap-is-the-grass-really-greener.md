@@ -5,7 +5,7 @@ description: >-
   confrontations, testing friendships and loyalty as secrets are unveiled and
   personal drama intertwines with the pressures of Charleston's high society.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:41:28+00:00'
 author: Becca Roberts
 tags:

@@ -5,7 +5,7 @@ description: >-
   glitch, prompting the platform to address user frustrations, restore affected
   accounts, and implement measures to prevent similar issues in the future.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:08:12+00:00'
 author: Lena Ashwood
 tags:

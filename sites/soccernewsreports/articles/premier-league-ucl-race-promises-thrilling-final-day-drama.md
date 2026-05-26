@@ -7,7 +7,7 @@ description: >-
   unpredictability and excitement as teams and players adapted in high-stakes
   games.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-19T04:21:20+00:00'
 author: Taylor Winters
 tags:

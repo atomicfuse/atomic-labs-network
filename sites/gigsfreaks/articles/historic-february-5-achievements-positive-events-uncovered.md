@@ -6,7 +6,7 @@ description: >-
   launch of Explorer 1, the conviction of Byron De La Beckwith, and the release
   of "Iron Man."
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:17:34+00:00'
 author: Nico Harper
 tags:

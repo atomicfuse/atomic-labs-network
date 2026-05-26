@@ -6,7 +6,7 @@ description: >-
   ancient mythologies with new narratives, innovative gameplay mechanics, and
   stunning visual and audio enhancements.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T09:37:22+00:00'
 author: Taylor Winters
 tags:

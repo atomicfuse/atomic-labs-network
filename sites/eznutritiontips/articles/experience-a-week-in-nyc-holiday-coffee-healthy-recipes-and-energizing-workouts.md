@@ -6,7 +6,7 @@ description: >-
   Discover a vibrant week in NYC with holiday coffee indulgences, delicious
   home-cooked meals, and invigorating workouts.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T10:16:34+00:00'
 author: Taylor Winters
 tags:

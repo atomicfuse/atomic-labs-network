@@ -6,7 +6,7 @@ description: >-
   holistic approach to skincare and mental well-being enhances her political
   image, inspiring a new generation with authenticity and transparency.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-06T09:45:34+00:00'
 author: Taylor Winters
 tags:

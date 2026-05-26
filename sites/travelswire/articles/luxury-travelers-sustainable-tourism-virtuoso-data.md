@@ -5,7 +5,7 @@ description: >-
   destinations and supporting local communities over crowded hotspots for
   sustainable vacation...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

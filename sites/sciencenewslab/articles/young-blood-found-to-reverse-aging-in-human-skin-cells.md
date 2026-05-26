@@ -6,7 +6,7 @@ description: >-
   breakthrough could lead to new therapies in regenerative medicine and
   cosmetics, aimed at reversing or slowing the aging process.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T07:43:31'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   raising important questions about authenticity and the ethical use of
   technology.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:29:16+00:00'
 author: Lena Ashwood
 tags:

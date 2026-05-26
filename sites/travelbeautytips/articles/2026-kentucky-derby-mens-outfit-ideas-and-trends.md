@@ -5,7 +5,7 @@ description: >-
   event nears, explore trends like bold colors, pastel shades, and iconic hats
   to ensure a memorable and stylish Derby day experience.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T09:39:24+00:00'
 author: Taylor Winters
 tags:

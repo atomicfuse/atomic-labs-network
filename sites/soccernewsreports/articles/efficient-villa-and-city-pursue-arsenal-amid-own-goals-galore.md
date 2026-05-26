@@ -6,7 +6,7 @@ description: >-
   City's dominance, and Arsenal's resurgence making this season one of the most
   thrilling in recent memory.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T09:35:23+00:00'
 author: Taylor Winters
 tags:

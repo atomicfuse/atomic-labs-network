@@ -7,7 +7,7 @@ description: >-
   environments and visual effects that capture the essence of this unique
   universe.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-25T12:57:25+00:00'
 author: Taylor Winters
 tags:

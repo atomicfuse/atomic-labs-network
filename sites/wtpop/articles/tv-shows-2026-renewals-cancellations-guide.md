@@ -4,7 +4,7 @@ description: >-
   Complete guide to which major TV shows are getting renewed, canceled, or
   ending in 2026 across Netflix, Bravo, Fox, FX and more streaming platforms.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Rachel Long
 tags:

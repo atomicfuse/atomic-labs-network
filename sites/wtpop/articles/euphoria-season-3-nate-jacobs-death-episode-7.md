@@ -4,7 +4,7 @@ description: >-
   Nate Jacobs dies in Euphoria season 3, episode 7 after being buried in the
   desert over a $1 million debt and bitten by a snake, leaving fans stunned.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Rachel Long
 tags:

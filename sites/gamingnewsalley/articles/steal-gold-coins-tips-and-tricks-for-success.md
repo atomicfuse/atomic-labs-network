@@ -6,7 +6,7 @@ description: >-
   boundaries. This incident emphasizes the importance of intellectual property
   rights in protecting developers' innovations and market integrity.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:37:33+00:00'
 author: Taylor Winters
 tags:

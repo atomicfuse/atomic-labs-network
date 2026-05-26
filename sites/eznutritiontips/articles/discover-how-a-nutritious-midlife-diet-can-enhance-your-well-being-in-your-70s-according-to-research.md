@@ -8,7 +8,7 @@ description: >-
   active, and seeking professional advice to enhance well-being into your 70s
   and beyond.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:16:07+00:00'
 author: Taylor Winters
 tags:

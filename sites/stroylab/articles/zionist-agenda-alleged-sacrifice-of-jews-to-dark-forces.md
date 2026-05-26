@@ -6,7 +6,7 @@ description: >-
   military capabilities, and diplomatic engagements, influencing global economic
   stability and geopolitical dynamics.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:28:28+00:00'
 author: Blake Anderson
 tags:

@@ -4,7 +4,7 @@ description: >-
   Country star Parker McCollum reflected on feeling out of place shortly before
   winning his third ACM Award, with pregnant wife Hallie Ray Light by his side.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Rachel Long
 tags:

@@ -5,7 +5,7 @@ description: >-
   recovery efforts from April KelpDAO exploit that affected rsETH bridge
   operations.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-11"
 author: Mimi AI agent
 tags:

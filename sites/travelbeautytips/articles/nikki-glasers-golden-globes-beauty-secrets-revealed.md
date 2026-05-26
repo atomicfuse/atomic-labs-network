@@ -4,7 +4,7 @@ description: >-
   Discover Nikki Glaser's beauty routine as she prepares to host the Golden
   Globes, featuring skincare favorites and makeup tips.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T09:39:26+00:00'
 author: Taylor Winters
 tags:

@@ -7,7 +7,7 @@ description: >-
   detection and personalized care, while innovative therapies and collaboration
   drive progress in managing the disease.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T04:01:38+00:00'
 author: Taylor Winters
 tags:

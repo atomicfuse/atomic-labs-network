@@ -6,7 +6,7 @@ description: >-
   Jesse Solomon previews the explosive Summer House season 10 reunion, warning
   of major accountability and emotional fallout around Amanda Batula and West...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Julia Bennett
 tags:

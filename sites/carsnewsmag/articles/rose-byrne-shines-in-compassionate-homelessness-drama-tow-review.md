@@ -5,7 +5,7 @@ description: >-
   humor and drama that explores human relationships, resilience, and empathy,
   drawing both praise and mixed reviews upon release.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-12T04:17:26+00:00'
 author: Taylor Winters
 tags:

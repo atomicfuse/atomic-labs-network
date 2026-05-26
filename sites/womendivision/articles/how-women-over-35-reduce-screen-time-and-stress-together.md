@@ -6,7 +6,7 @@ description: >-
   genuine connections, improving mental health, and promoting a balanced
   lifestyle through meaningful interactions and shared experiences.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T10:11:27+00:00'
 author: Taylor Winters
 tags:

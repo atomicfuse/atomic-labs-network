@@ -4,7 +4,7 @@ description: >-
   HBO is already planning Harry Potter season 2 before season 1 premieres on
   Christmas Day. Here's what we know about the Chamber of Secrets adaptation.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Zoe Hayes
 tags:

@@ -5,7 +5,7 @@ description: >-
   can build distinctive online voices through accessibility advocacy and
   niche...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Maya Gray
 tags:

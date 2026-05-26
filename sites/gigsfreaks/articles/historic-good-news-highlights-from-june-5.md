@@ -7,7 +7,7 @@ description: >-
   literary contributions, influential art movements, and social movements
   driving change.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T08:09:28+00:00'
 author: Nico Harper
 tags:

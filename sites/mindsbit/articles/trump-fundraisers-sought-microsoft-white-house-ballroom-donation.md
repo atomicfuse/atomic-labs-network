@@ -6,7 +6,7 @@ description: >-
   about corporate influence in public projects while balancing modern technology
   with historical preservation.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:23:24+00:00'
 author: Lena Ashwood
 tags:

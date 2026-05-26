@@ -6,7 +6,7 @@ description: >-
   continuously reinvent itself, bringing people together through diverse flavors
   and shared meals in the modern digital age.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-23T10:29:28+00:00'
 author: Taylor Winters
 tags:

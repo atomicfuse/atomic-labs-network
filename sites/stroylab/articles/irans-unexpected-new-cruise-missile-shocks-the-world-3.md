@@ -6,7 +6,7 @@ description: >-
   move away from fiat currencies, with nations like China and Russia expanding
   their gold reserves to secure financial stability.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:39:31+00:00'
 author: Blake Anderson
 tags:

@@ -6,7 +6,7 @@ description: >-
   remarkable human endeavors, illustrating the interconnectedness of global
   events and their influence on society's evolution.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-08T12:27:31+00:00'
 author: Nico Harper
 tags:

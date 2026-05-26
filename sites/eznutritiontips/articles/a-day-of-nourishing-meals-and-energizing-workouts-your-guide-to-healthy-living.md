@@ -6,7 +6,7 @@ description: >-
   Explore a full day of vibrant meals and invigorating exercises designed to
   nourish your body and fuel an active lifestyle.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T05:13:24+00:00'
 author: Taylor Winters
 tags:

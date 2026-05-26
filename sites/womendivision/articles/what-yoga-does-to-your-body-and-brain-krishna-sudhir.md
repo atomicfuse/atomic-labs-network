@@ -5,7 +5,7 @@ description: >-
   postures, breathing exercises, and spiritual contemplation impacts both your
   body and brain health.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-11T08:06:44+00:00'
 author: admin
 tags:

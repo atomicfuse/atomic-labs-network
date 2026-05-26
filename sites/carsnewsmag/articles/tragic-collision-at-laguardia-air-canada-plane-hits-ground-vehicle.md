@@ -5,7 +5,7 @@ description: >-
   ground vehicle at LaGuardia Airport, resulting in two fatalities and a
   temporary airport shutdown.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-23T09:21:19+00:00'
 author: Taylor Winters
 tags:

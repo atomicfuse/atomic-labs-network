@@ -7,7 +7,7 @@ description: >-
   must prioritize data protection to navigate the complexities of the digital
   age.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T12:27:24+00:00'
 author: Blake Anderson
 tags:

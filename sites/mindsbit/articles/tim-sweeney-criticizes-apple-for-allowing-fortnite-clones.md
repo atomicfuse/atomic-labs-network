@@ -6,7 +6,7 @@ description: >-
   arguing they stifle competition, with the outcome potentially reshaping how
   digital goods are distributed and monetized globally.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:06:52+00:00'
 author: Lena Ashwood
 tags:

@@ -5,7 +5,7 @@ description: >-
   highlighting their essential role in post-pandemic travel planning and
   customer...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

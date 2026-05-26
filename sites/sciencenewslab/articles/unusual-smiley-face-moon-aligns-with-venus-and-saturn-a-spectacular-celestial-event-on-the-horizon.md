@@ -8,7 +8,7 @@ description: >-
   bodies perfectly align in our line of sight, creating a smiley face pattern
   visible from Earth.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T11:01:49'
 author: Taylor Winters
 tags:

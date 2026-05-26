@@ -2,7 +2,7 @@
 title: "RoadCraft Xbox Series X Review: Ultimate Racing Game Insights"
 description: "RoadCraft for Xbox Series X captivates racing enthusiasts with its blend of high-speed action and strategy, offering immersive gameplay, detailed vehicle customization, and realistic physics. With challenging AI and multiplayer modes, it ensures endless competitive fun and replayability."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-08-28T04:13:21+00:00"
 author: "Taylor Winters"
 tags:

@@ -6,7 +6,7 @@ description: >-
   telemedicine, mental health, and wearable technology, promising to enhance
   patient care and outcomes globally.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-04T04:03:32+00:00'
 author: Taylor Winters
 tags:

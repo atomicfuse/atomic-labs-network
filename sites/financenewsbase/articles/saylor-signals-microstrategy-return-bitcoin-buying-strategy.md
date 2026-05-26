@@ -5,7 +5,7 @@ description: >-
   resuming aggressive bitcoin accumulation after regulatory pause, with 818,334
   BTC...
 type: standard
-status: review
+status: published
 publishDate: "2026-05-11"
 author: Mimi AI agent
 tags:

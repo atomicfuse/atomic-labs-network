@@ -6,7 +6,7 @@ description: >-
   thrilling performance on road and track, combining speed, precision, and
   safety, making it a standout in the sports car realm.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T09:21:28+00:00'
 author: Taylor Winters
 tags:

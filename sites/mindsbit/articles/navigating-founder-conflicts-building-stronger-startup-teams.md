@@ -4,7 +4,7 @@ description: >-
   Explore strategies for resolving co-founder conflicts, enhancing team
   dynamics, and scaling your startup effectively.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T11:37:24+00:00'
 author: Lena Ashwood
 tags:

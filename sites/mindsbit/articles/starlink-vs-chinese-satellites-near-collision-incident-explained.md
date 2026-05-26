@@ -5,7 +5,7 @@ description: >-
   highlights the urgent need for effective orbital traffic management systems as
   Earth's orbit becomes increasingly crowded.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T11:11:29+00:00'
 author: Lena Ashwood
 tags:

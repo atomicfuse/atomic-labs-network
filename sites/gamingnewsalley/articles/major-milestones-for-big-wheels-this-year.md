@@ -5,7 +5,7 @@ description: >-
   through chiaroscuro techniques, challenging viewers' perceptions and
   encouraging introspection while setting new standards in contemporary art.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-19T04:23:32+00:00'
 author: Taylor Winters
 tags:

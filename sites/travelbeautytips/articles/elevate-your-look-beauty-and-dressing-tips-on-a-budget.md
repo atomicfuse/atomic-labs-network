@@ -4,7 +4,7 @@ description: >-
   Discover how to look elegant and stylish without breaking the bank using
   practical beauty and fashion tips.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T09:41:25+00:00'
 author: Taylor Winters
 tags:

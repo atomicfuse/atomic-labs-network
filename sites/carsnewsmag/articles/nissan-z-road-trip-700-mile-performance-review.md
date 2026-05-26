@@ -6,7 +6,7 @@ description: >-
   predecessors while delivering exhilarating performance and cutting-edge
   connectivity.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-25T12:37:18+00:00'
 author: Taylor Winters
 tags:

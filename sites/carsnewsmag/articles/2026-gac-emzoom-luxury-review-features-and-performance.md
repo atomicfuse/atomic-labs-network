@@ -5,7 +5,7 @@ description: >-
   technology, superior design, and efficient performance, offering a premium
   driving experience and setting a new standard in its class.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-16T08:21:19+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   in 1976, and cultural shifts highlighted by the passing of The Notorious
   B.I.G. in 1997.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T10:19:29+00:00'
 author: Nico Harper
 tags:

@@ -5,7 +5,7 @@ description: >-
   government shutdown and its potential resolution, as well as other major news
   events.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T09:21:22+00:00'
 author: Taylor Winters
 tags:

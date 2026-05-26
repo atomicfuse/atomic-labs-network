@@ -4,7 +4,7 @@ description: >-
   Celebrity Cruises unveils month-long appreciation campaign with Caribbean
   cruise giveaway, weekly prizes, and bonus points for travel advisors.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

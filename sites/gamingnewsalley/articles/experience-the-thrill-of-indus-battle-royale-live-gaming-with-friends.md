@@ -4,7 +4,7 @@ description: >-
   Dive into the exciting world of Indus Battle Royale with live gameplay
   alongside friends, offering an immersive gaming experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-04T04:19:21+00:00'
 author: Taylor Winters
 tags:

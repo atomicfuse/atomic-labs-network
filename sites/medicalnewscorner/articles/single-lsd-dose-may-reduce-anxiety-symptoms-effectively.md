@@ -6,7 +6,7 @@ description: >-
   traditional methods. The drug's interaction with serotonin receptors could
   play a crucial role in reducing anxiety.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-11T04:03:27+00:00'
 author: Taylor Winters
 tags:

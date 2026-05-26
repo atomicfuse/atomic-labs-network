@@ -5,7 +5,7 @@ description: >-
   using social media and matrimonial sites to deceive victims with false
   promises of marriage before being arrested by Punjab authorities.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:01:32+00:00'
 author: Taylor Winters
 tags:

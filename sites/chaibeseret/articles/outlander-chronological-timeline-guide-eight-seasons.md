@@ -4,7 +4,7 @@ description: >-
   A comprehensive chronological guide helps fans navigate Outlander's sprawling
   time-hopping narrative from 1715 to the 20th century across eight seasons.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Chloe Carter
 tags:

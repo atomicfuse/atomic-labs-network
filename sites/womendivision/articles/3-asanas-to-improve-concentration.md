@@ -4,7 +4,7 @@ description: >-
   This article introduces three yoga asanas (poses) designed to help improve
   concentration and mental focus.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-12T08:15:32+00:00'
 author: admin
 tags:

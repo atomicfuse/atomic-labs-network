@@ -6,7 +6,7 @@ description: >-
   platforms. This feature enhances the user experience by providing a
   hassle-free method to keep collections intact.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:04:17+00:00'
 author: Lena Ashwood
 tags:

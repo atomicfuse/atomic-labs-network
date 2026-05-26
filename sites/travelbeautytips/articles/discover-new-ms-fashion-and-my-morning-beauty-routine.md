@@ -4,7 +4,7 @@ description: >-
   Explore the latest fashion pieces from Marks & Spencer and get a glimpse into
   my daily beauty routine.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T09:39:22+00:00'
 author: Taylor Winters
 tags:

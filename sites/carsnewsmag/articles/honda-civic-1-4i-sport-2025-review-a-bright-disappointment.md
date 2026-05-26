@@ -5,7 +5,7 @@ description: >-
   offering reliability and efficiency in a compact design that suits both urban
   driving and family use.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-03T05:21:28+00:00'
 author: Taylor Winters
 tags:

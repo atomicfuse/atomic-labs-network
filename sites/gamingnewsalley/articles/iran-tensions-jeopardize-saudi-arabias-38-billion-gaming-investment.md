@@ -5,7 +5,7 @@ description: >-
   its Vision 2030 economic diversification strategy, but escalating geopolitical
   tensions with Iran threaten to undermine these ambitious plans.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T09:35:26+00:00'
 author: Taylor Winters
 tags:

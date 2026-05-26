@@ -4,7 +4,7 @@ description: >-
   Bitcoin consolidates near $80,901 with bullish structure intact. Technical
   analysis shows compression phase that typically precedes explosive moves.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-11"
 author: Mimi AI agent
 tags:

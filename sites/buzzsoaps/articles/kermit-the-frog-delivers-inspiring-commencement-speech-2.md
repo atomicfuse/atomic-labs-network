@@ -6,7 +6,7 @@ description: >-
   staying true to oneself. His insights offered graduates meaningful life
   lessons for navigating future challenges with optimism and resilience.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T10:05:20+00:00'
 author: Becca Roberts
 tags:

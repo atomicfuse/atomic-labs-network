@@ -4,7 +4,7 @@ description: >-
   HBO's upcoming Harry Potter series will recast Ginny Weasley for season 2
   after Gracie Cochrane stepped away due to 'unforeseen circumstances.'
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Rachel Long
 tags:

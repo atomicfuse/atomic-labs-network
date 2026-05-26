@@ -6,7 +6,7 @@ description: >-
   star systems. Its study is crucial for understanding celestial diversity and
   the evolution of planetary systems.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-13T13:13:30'
 author: Taylor Winters
 tags:

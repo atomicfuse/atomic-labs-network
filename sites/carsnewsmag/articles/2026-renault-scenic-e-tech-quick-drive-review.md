@@ -6,7 +6,7 @@ description: >-
   sustainability and performance, offering a spacious interior, advanced safety
   features, and a seamless blend of petrol and electric power.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-26T09:23:20+00:00'
 author: Taylor Winters
 tags:

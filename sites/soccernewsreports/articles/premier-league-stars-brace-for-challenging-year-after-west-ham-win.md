@@ -6,7 +6,7 @@ description: >-
   over Everton in Chicago highlights the intense competition and skill level
   expected in the upcoming season.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T04:33:27+00:00'
 author: Taylor Winters
 tags:

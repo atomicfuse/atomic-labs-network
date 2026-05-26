@@ -6,7 +6,7 @@ description: >-
   Joe Scarborough shares insights on the pivotal events in Minneapolis, Trump's
   influence, and his last conversation with the former president.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:21:31+00:00'
 author: Taylor Winters
 tags:

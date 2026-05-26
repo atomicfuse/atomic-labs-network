@@ -6,7 +6,7 @@ description: >-
   highlights the importance of robust security measures in the gaming industry
   to combat increasing cyber threats.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T10:47:28+00:00'
 author: Lena Ashwood
 tags:

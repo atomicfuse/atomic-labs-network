@@ -6,7 +6,7 @@ description: >-
   improving mental health and well-being — prioritize these to fully enjoy the
   festive period.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-24T13:19:28'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Looking for your next binge after Beef Season 2? These six dark comedy dramas
   offer the same intense, character-driven storytelling that fans crave.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-10'
 author: Editorial Team
 tags:

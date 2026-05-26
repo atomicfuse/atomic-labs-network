@@ -5,7 +5,7 @@ description: >-
   climate collapse while positioning green energy as Bitcoin's sustainable
   future.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

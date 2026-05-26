@@ -6,7 +6,7 @@ description: >-
   raises serious concerns about Fourth Amendment protections and civil
   liberties.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T09:21:19+00:00'
 author: Taylor Winters
 tags:

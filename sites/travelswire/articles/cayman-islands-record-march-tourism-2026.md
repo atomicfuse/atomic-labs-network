@@ -4,7 +4,7 @@ description: >-
   The Cayman Islands achieved record-breaking visitation in March 2026 with
   nearly 65,000 visitors, marking a significant 12.6% year-over-year increase.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-17'
 author: Sarah Rivera
 tags:

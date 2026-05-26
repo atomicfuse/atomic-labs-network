@@ -6,7 +6,7 @@ description: >-
   improve emotional health. Seeking professional support and practicing
   self-care are vital strategies for a balanced and fulfilling life.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T10:11:26+00:00'
 author: Taylor Winters
 tags:

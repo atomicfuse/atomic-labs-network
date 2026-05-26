@@ -6,7 +6,7 @@ description: >-
   as geopolitics and technology, while feedback shapes content relevance and
   quality, fostering a vibrant and informed engagement experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:43:52+00:00'
 author: Blake Anderson
 tags:

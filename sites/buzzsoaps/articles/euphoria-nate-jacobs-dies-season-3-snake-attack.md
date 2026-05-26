@@ -4,7 +4,7 @@ description: >-
   Euphoria season 3 episode 7 delivers a shocking death as Nate Jacobs meets his
   end in the desert, leaving fans reeling ahead of the finale.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Julia Bennett
 tags:

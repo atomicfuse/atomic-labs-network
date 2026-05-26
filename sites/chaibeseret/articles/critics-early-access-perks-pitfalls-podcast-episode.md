@@ -4,7 +4,7 @@ description: >-
   Pop Culture Happy Hour hosts explore the insider world of advance screenings
   and how early access shapes professional criticism in entertainment.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

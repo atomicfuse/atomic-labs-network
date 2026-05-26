@@ -6,7 +6,7 @@ description: >-
   dark state," suggests technology and bureaucracy influence global policies,
   impacting individual freedoms and potentially sidelining democratic processes.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:31:08+00:00'
 author: Blake Anderson
 tags:

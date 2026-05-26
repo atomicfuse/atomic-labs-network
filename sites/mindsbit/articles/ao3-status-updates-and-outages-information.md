@@ -6,7 +6,7 @@ description: >-
   unique tagging system for personalized searches, fostering a vibrant,
   inclusive community and preserving fan culture.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T10:23:22+00:00'
 author: Lena Ashwood
 tags:

@@ -6,7 +6,7 @@ description: >-
   Arsenal set to significantly impact both his career trajectory and the club's
   defensive strategy.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-09T08:47:55+00:00'
 author: Taylor Winters
 tags:

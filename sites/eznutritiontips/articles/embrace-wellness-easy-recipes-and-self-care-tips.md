@@ -4,7 +4,7 @@ description: >-
   Discover simple healthy recipes and self-care tips for a week of wellness,
   including a Valentine's surprise from CVS.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:22:54+00:00'
 author: Taylor Winters
 tags:

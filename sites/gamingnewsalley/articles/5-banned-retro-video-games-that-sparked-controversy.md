@@ -6,7 +6,7 @@ description: >-
   the lessons learned that have shaped the gaming industry's approach to
   inclusivity and diversity.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T09:35:38+00:00'
 author: Taylor Winters
 tags:

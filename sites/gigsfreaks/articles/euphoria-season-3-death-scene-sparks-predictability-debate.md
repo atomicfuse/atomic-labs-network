@@ -4,7 +4,7 @@ description: >-
   Euphoria Season 3 Episode 7 delivers a major character death that viewers saw
   coming, raising questions about the show's shock value strategy.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Max Kim
 tags:

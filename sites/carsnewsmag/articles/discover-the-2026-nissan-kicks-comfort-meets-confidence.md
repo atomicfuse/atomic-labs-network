@@ -6,7 +6,7 @@ description: >-
   design, advanced technology, and strong safety ratings, ensuring a dependable
   and enjoyable driving experience.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T09:21:39+00:00'
 author: Taylor Winters
 tags:

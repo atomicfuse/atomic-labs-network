@@ -5,7 +5,7 @@ description: >-
   system upgrades, from tokenization to stablecoins, as crypto moves into
   institutional...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Olivia Morgan
 tags:

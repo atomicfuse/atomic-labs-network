@@ -6,7 +6,7 @@ description: >-
   mechanics and an open-world design, the game faces criticism for diluting the
   intensity and facing technical issues.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-29T04:23:29+00:00'
 author: Taylor Winters
 tags:

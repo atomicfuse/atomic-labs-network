@@ -5,7 +5,7 @@ description: >-
   crypto-backed political groups' growing influence on digital asset regulation
   and election...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Olivia Morgan
 tags:

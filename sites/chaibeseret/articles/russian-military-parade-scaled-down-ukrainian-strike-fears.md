@@ -4,7 +4,7 @@ description: >-
   Russia held a notably smaller Victory Day parade in Red Square with reduced
   Putin visibility, signaling security concerns amid ongoing Ukraine conflict.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

@@ -5,7 +5,7 @@ description: >-
   passed away at the age of 38 following a car accident in her hometown of
   Chihuahua, Mexico.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:07:21+00:00'
 author: Taylor Winters
 tags:

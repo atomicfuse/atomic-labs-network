@@ -6,7 +6,7 @@ description: >-
   contestants face deceit and strategy, making it a captivating experience for
   reality TV enthusiasts.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T10:41:29+00:00'
 author: Becca Roberts
 tags:

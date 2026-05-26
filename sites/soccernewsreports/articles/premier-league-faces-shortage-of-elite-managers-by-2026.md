@@ -6,7 +6,7 @@ description: >-
   relations, and strategic decision-making while facing pressure from
   competitiveness, financial constraints, and technological advancements.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-08T09:37:39+00:00'
 author: Taylor Winters
 tags:

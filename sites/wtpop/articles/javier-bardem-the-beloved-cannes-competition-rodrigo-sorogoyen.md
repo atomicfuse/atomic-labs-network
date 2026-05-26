@@ -4,7 +4,7 @@ description: >-
   Javier Bardem and Victoria Luengo star in Rodrigo Sorogoyen's family drama
   'The Beloved,' premiering in competition at the Cannes Film Festival.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-13'
 author: Rachel Long
 tags:

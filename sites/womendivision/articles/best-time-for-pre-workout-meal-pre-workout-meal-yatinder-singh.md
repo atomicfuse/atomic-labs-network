@@ -4,7 +4,7 @@ description: >-
   This article by Yatinder Singh discusses the optimal timing for pre-workout
   meals to maximize performance and energy during exercise.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-13T08:24:51+00:00'
 author: admin
 tags:

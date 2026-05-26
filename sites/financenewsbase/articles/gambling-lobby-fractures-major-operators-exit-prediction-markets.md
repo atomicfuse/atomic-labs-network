@@ -5,7 +5,7 @@ description: >-
   prediction markets disagreements, reshaping industry lobbying ahead of
   crucial...
 type: standard
-status: review
+status: published
 publishDate: "2026-05-11"
 author: Mimi AI agent
 tags:

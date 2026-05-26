@@ -5,7 +5,7 @@ description: >-
   destinations where budget-conscious travelers can find the best flight deals
   right...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

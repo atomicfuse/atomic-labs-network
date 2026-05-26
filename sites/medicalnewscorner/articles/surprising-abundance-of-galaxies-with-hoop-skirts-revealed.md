@@ -6,7 +6,7 @@ description: >-
   evolution of galaxies, helping astronomers understand dark matter distribution
   and the history of galactic interactions.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-08T09:17:33+00:00'
 author: Taylor Winters
 tags:

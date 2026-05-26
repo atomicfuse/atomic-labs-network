@@ -6,7 +6,7 @@ description: >-
   video game scores reimagined by a full orchestra, creating a memorable evening
   for gamers and music enthusiasts alike.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T09:35:26+00:00'
 author: Taylor Winters
 tags:

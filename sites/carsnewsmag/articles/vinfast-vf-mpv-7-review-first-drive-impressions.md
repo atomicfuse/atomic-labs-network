@@ -6,7 +6,7 @@ description: >-
   impressive performance, and cutting-edge safety features, making it a strong
   contender in the global market.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06T08:23:20+00:00'
 author: Taylor Winters
 tags:

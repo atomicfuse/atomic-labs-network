@@ -5,7 +5,7 @@ description: >-
   20-minute full body yoga flow designed to build strength, flexibility,
   balance, and body awareness through new poses and breathwork.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-10T08:05:47+00:00'
 author: admin
 tags:

@@ -6,7 +6,7 @@ description: >-
   cases, and reducing these habits can significantly decrease cancer risk and
   improve overall well-being.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T12:51:32'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   pivotal for league standings, drawing global attention and engaging fans with
   its high-stakes drama and competitive intensity.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T09:39:27+00:00'
 author: Taylor Winters
 tags:

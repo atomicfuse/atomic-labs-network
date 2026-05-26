@@ -4,7 +4,7 @@ description: >-
   Discover the intriguing tale of St. Nicholas' bones, which have mysteriously
   leaked for centuries, captivating historians and scientists alike.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:27:57+00:00'
 author: Blake Anderson
 tags:

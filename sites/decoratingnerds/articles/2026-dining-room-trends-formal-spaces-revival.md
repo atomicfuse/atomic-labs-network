@@ -5,7 +5,7 @@ description: >-
   intentional, stylish, and worth redesigning as homes serve multiple
   lifestyle...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Julia Bell
 tags:

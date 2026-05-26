@@ -2,7 +2,7 @@
 title: Boston Opens Remote Terminal for Delta, JetBlue Passengers
 description: Boston Logan introduces a remote terminal in Framingham where passengers can check in, drop bags, and clear TSA before taking an airside bus to the airport.
 type: standard
-status: review
+status: published
 publishDate: 2026-05-19
 author: Sarah Rivera
 tags:

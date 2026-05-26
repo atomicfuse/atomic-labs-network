@@ -6,7 +6,7 @@ description: >-
   Paramount+, ensuring you never miss the excitement of Italian football from
   anywhere in the world.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T08:35:30+00:00'
 author: Taylor Winters
 tags:

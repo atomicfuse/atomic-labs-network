@@ -4,7 +4,7 @@ description: >-
   Recent studies reveal a fascinating swarm of objects accompanying the
   interstellar 3I/ATLAS, shedding light on its unusual teardrop glow.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-04T10:35:25+00:00'
 author: Nico Harper
 tags:

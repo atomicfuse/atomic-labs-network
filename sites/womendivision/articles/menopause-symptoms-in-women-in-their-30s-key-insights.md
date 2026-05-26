@@ -6,7 +6,7 @@ description: >-
   seeking medical advice can help manage these symptoms effectively, improving
   daily life and well-being.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-24T04:51:29+00:00'
 author: Taylor Winters
 tags:

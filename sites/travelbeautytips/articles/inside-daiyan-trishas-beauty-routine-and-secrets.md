@@ -6,7 +6,7 @@ description: >-
   simplicity, effectiveness, and individuality, offering practical tips for
   maintaining beauty while supporting a busy lifestyle.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-13T09:49:28+00:00'
 author: Taylor Winters
 tags:

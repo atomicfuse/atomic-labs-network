@@ -6,7 +6,7 @@ description: >-
   engaging interactions, strategic gameplay, and memorable moments, making it a
   must-watch event for reality TV fans.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T10:04:49+00:00'
 author: Becca Roberts
 tags:

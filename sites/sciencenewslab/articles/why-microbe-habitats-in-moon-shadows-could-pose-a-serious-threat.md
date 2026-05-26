@@ -6,7 +6,7 @@ description: >-
   contamination risks during space exploration missions and the need to update
   planetary protection protocols.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T11:01:45'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   gaming industry. The situation highlights tensions between business objectives
   and fair treatment of workers.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-03T09:33:23+00:00'
 author: Taylor Winters
 tags:

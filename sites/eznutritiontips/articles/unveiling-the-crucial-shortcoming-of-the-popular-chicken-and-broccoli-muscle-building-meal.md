@@ -8,7 +8,7 @@ description: >-
   carbohydrates, and healthy fats. These elements together fuel your body for
   growth, energy, and recovery, aiding in achieving your fitness goals.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:19:55+00:00'
 author: Taylor Winters
 tags:

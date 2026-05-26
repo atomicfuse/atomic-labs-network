@@ -6,7 +6,7 @@ description: >-
   assertive helps maintain confidence and ensures healthy relationships based on
   respect and mutual support.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T09:59:26+00:00'
 author: Taylor Winters
 tags:

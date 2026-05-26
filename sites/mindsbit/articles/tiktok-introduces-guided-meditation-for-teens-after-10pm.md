@@ -6,7 +6,7 @@ description: >-
   offers guided meditation sessions and calming audio to help users transition
   into a restful state.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:07:05+00:00'
 author: Lena Ashwood
 tags:

@@ -6,7 +6,7 @@ description: >-
   exercise stimulates brain areas associated with memory, potentially serving as
   a preventive measure against memory-related issues.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T09:17:24+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   these events' complex dynamics is crucial for global awareness and response
   efforts to prevent further loss and destruction.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:36:19+00:00'
 author: Blake Anderson
 tags:

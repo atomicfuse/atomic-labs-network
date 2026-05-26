@@ -4,7 +4,7 @@ description: >-
   Students and staff reflect on how shows like Wild Kratts and Hey Arnold shaped
   their upbringing, as Gen Z nostalgia becomes a major content driver.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Chloe Carter
 tags:

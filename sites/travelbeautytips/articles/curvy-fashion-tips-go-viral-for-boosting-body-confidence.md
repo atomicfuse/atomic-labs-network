@@ -5,7 +5,7 @@ description: >-
   couleurs, confort et audace, afin de s'habiller pour soi sans chercher à
   disparaître.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18T08:38:42+00:00'
 author: Taylor Winters
 tags:

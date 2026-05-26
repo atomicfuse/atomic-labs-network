@@ -7,7 +7,7 @@ description: >-
   emphasizing reduced waste, environmental responsibility, and collaboration
   across the industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-13T09:35:30+00:00'
 author: Taylor Winters
 tags:

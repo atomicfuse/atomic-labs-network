@@ -5,7 +5,7 @@ description: >-
   hypotheses and identify drug candidates, but still require human guidance
   and...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Hannah Adams
 tags:

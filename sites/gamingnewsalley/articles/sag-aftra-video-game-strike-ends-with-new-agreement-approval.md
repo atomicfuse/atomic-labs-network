@@ -6,7 +6,7 @@ description: >-
   compensation for voice actors and motion capture performers, ensuring
   continued collaboration between the union and studios.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T04:27:26+00:00'
 author: Taylor Winters
 tags:

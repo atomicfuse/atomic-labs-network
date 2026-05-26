@@ -5,7 +5,7 @@ description: >-
   pregnant woman and injuries to four others, prompting community mourning and
   renewed discussions about railway safety.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:21:19+00:00'
 author: Taylor Winters
 tags:

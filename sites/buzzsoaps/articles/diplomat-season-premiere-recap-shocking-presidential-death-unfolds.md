@@ -7,7 +7,7 @@ description: >-
   character motivations and introducing fresh conflicts with global
   implications.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T09:23:26+00:00'
 author: Becca Roberts
 tags:

@@ -5,7 +5,7 @@ description: >-
   Christmas Day, with Chamber of Secrets adaptation and major casting decisions
   ahead.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Daniel Parker
 tags:

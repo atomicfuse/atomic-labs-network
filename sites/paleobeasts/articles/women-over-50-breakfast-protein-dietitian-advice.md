@@ -4,7 +4,7 @@ description: >-
   A dietitian reviews a 50-year-old health coach's plant-rich diet, finding
   breakfast too light for women's post-menopause nutritional needs.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Elena Gray
 tags:

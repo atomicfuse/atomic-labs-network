@@ -6,7 +6,7 @@ description: >-
   live via major sports networks or online streaming platforms, ensuring they
   don't miss a moment.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-03T09:35:29+00:00'
 author: Taylor Winters
 tags:

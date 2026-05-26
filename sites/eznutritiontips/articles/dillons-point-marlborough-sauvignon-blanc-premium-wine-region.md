@@ -4,7 +4,7 @@ description: >-
   Discover how a tiny Marlborough subregion transformed from overlooked farmland
   into some of the world's most valuable Sauvignon Blanc territory, rivaling...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Ben Rivera
 tags:

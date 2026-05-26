@@ -4,7 +4,7 @@ description: >-
   Fitness coach reveals practical protein anchors to help Indian women reach
   90-120g daily protein through familiar meals like dal-roti-sabzi and dosa.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Elena Gray
 tags:

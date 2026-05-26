@@ -5,7 +5,7 @@ description: >-
   famous UFO encounters in history. Discover the details and implications of
   their extraordinary experience.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:57:22+00:00'
 author: Blake Anderson
 tags:

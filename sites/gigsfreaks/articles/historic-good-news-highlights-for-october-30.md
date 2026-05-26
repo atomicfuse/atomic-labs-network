@@ -6,7 +6,7 @@ description: >-
   broadcast, and the Treaty of Lausanne, each leaving a lasting impact on their
   respective fields.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T10:15:33+00:00'
 author: Nico Harper
 tags:

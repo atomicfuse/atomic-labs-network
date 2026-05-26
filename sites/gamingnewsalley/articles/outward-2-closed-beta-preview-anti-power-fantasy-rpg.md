@@ -5,7 +5,7 @@ description: >-
   harsh RPG vision without compromising the cult appeal that made the original
   special.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Elena Long
 tags:

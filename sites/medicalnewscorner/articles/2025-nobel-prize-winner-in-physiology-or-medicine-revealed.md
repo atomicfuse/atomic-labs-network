@@ -6,7 +6,7 @@ description: >-
   The laureates' innovative gene editing work opens new avenues for treating
   genetic disorders and personalizing medical therapies.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T09:17:25+00:00'
 author: Taylor Winters
 tags:

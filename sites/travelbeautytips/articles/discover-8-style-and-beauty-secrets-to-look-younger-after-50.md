@@ -4,7 +4,7 @@ description: >-
   Unlock a vibrant, youthful look with these 8 essential style and beauty tips
   for women over 50. Learn how simple tweaks can transform your appearance.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T10:55:17+00:00'
 author: Taylor Winters
 tags:

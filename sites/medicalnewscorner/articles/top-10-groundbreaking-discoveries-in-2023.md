@@ -7,7 +7,7 @@ description: >-
   innovating renewable energy and AI systems, inspiring future generations to
   push boundaries.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T09:17:27+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   ensuring the tech landscape is accessible to all, irrespective of gender or
   socioeconomic status.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T09:31:44+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   performances. The event set a tone for future awards, influencing trends and
   celebrating creativity and inclusion.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:25:34+00:00'
 author: Becca Roberts
 tags:

@@ -7,7 +7,7 @@ description: >-
   highlighting the importance of health-conscious habits for optimal
   performance.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T12:53:21'
 author: Taylor Winters
 tags:

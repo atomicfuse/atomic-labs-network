@@ -6,7 +6,7 @@ description: >-
   conditions like diabetes, kidney disease, and obesity, highlighting the
   importance of collaboration with veterinarians for tailored nutrition plans.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-06T10:17:29+00:00'
 author: Taylor Winters
 tags:

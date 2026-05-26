@@ -6,7 +6,7 @@ description: >-
   Printing, highlighting themes of national unity, governance transitions, and
   technological innovation.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T10:15:53+00:00'
 author: Nico Harper
 tags:

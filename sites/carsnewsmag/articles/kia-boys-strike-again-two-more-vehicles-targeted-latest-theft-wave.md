@@ -4,7 +4,7 @@ description: >-
   Teens continue targeting vulnerable Kia and Hyundai vehicles, smashing windows
   and stealing cars as unpatched models remain easy targets for viral theft...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: James Reed
 tags:

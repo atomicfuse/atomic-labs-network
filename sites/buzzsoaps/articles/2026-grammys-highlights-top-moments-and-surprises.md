@@ -7,7 +7,7 @@ description: >-
   both new and legendary artists while emphasizing representation and
   innovation.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:34:48+00:00'
 author: Becca Roberts
 tags:

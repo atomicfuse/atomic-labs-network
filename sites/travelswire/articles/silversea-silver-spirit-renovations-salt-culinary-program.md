@@ -5,7 +5,7 @@ description: >-
   S.A.L.T. culinary program and reimagined Riviera poolside spaces blending
   wellness...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

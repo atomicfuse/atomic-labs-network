@@ -5,7 +5,7 @@ description: >-
   after his return from a trip amid a deadly outbreak on the MV Hondius cruise
   ship.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-13'
 author: Daniel Parker
 tags:

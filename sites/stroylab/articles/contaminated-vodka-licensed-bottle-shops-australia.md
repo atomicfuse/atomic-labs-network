@@ -4,7 +4,7 @@ description: >-
   New research reveals illicit vodka containing methanol and plastic
   contaminants being sold alongside legal products in Melbourne bottle shops.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Sarah Bennett
 tags:

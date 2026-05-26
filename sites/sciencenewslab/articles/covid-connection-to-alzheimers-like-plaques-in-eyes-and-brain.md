@@ -6,7 +6,7 @@ description: >-
   how the virus contributes to harmful plaque formation in the brain and eyes,
   with potential implications for long-term cognitive health.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-24T07:39:31'
 author: Taylor Winters
 tags:

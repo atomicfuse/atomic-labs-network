@@ -6,7 +6,7 @@ description: >-
   former president, sparked social media-driven calls to boycott the cosmetics
   brand.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:43:29+00:00'
 author: Taylor Winters
 tags:

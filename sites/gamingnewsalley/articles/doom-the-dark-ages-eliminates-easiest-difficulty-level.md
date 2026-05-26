@@ -6,7 +6,7 @@ description: >-
   veterans seeking a relaxed experience, sparking controversy over game
   accessibility and challenge.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-12T05:27:27+00:00'
 author: Taylor Winters
 tags:

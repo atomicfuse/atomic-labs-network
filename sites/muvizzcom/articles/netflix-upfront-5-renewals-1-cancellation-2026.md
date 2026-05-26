@@ -5,7 +5,7 @@ description: >-
   show renewals and one cancellation, signaling the streamer's strategic
   priorities.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-14'
 author: Daniel Parker
 tags:

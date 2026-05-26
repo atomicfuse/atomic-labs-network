@@ -4,7 +4,7 @@ description: >-
   Discover the most viewed healthy recipes on TikTok and learn their impact on
   your lifestyle.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-12T06:07:21+00:00'
 author: Taylor Winters
 tags:

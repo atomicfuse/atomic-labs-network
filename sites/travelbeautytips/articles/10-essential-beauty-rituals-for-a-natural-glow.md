@@ -4,7 +4,7 @@ description: >-
   Discover daily, weekly, and monthly beauty rituals to enhance your natural
   beauty effortlessly.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T07:31:16+00:00'
 author: Taylor Winters
 tags:

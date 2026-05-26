@@ -5,7 +5,7 @@ description: >-
   waste into activated carbon that captures carbon dioxide, addressing
   pollution, reducing emissions, and empowering women in science.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T09:09:25+00:00'
 author: Nico Harper
 tags:

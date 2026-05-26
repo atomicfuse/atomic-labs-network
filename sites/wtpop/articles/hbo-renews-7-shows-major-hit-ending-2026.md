@@ -5,7 +5,7 @@ description: >-
   lights while one major hit prepares for its finale as streaming budgets
   tighten.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-22'
 author: Rachel Long
 tags:

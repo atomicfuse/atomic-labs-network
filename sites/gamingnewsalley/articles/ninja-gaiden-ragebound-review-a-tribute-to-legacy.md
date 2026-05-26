@@ -6,7 +6,7 @@ description: >-
   levels. Its dynamic combat system and thoughtful design ensure an exhilarating
   experience for newcomers and veterans.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T04:31:33+00:00'
 author: Taylor Winters
 tags:

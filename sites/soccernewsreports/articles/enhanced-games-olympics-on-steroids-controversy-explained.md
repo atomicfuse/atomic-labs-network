@@ -5,7 +5,7 @@ description: >-
   performance-enhancing drugs legally, sparking debate over the future of
   competitive...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Ben Reed
 tags:

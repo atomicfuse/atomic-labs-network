@@ -5,7 +5,7 @@ description: >-
   battling jellyfish and harsh conditions as part of her quest to become the
   youngest person to finish the Ocean's Seven open water swimming challenge.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-12T06:11:23+00:00'
 author: Nico Harper
 tags:

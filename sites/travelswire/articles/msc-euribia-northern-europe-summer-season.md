@@ -4,7 +4,7 @@ description: >-
   MSC Euribia begins its Northern Europe summer season with sailings from Kiel
   and Copenhagen, featuring Norway fjords itineraries and extensive onboard...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Sarah Rivera
 tags:

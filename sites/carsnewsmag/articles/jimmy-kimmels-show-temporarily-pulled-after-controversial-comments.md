@@ -6,7 +6,7 @@ description: >-
   of Charlie Kirk, sparking widespread discussion about on-air speech and
   network responsibility.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T04:07:20+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   time as Ebola and hantavirus concerns mount, raising questions about
   infectious...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Ava Scott
 tags:

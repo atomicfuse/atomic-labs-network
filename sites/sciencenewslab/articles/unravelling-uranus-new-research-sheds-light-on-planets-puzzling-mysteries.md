@@ -6,7 +6,7 @@ description: >-
   weather patterns, and unique magnetic field. This breakthrough expands our
   understanding of the solar system and opens up new avenues for research.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T11:01:52'
 author: Taylor Winters
 tags:

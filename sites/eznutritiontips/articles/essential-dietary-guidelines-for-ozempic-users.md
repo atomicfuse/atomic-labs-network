@@ -6,7 +6,7 @@ description: >-
   into your lifestyle, focusing on diet, hydration, and regular physical
   activity for optimal health outcomes.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:11:31+00:00'
 author: Taylor Winters
 tags:

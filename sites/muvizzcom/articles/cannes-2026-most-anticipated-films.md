@@ -4,7 +4,7 @@ description: >-
   From Diego Luna's immigration drama to Adam Driver and Scarlett Johansson
   reunions, these are the buzzy titles premiering at Cannes 2026.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-12'
 author: Editorial Team
 tags:

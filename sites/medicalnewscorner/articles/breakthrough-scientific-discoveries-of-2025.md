@@ -7,7 +7,7 @@ description: >-
   space exploration achievements, all transforming industries and addressing
   global challenges.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-25T09:17:24+00:00'
 author: Taylor Winters
 tags:

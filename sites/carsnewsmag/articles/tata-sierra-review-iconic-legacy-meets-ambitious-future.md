@@ -6,7 +6,7 @@ description: >-
   featuring sleek design, spacious interiors, and advanced technology, making it
   ideal for adventurous drivers seeking a stylish and reliable vehicle.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-08T09:21:25+00:00'
 author: Taylor Winters
 tags:

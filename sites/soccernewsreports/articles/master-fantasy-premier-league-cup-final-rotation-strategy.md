@@ -6,7 +6,7 @@ description: >-
   matches, affecting fantasy teams, so managers must strategize carefully to
   maintain a competitive edge during this period.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T05:16:03+00:00'
 author: Taylor Winters
 tags:

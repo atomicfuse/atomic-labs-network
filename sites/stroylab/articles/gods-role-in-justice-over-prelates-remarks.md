@@ -6,7 +6,7 @@ description: >-
   impacting international relations and stability. Emerging economies like China
   and India are reshaping global influence and challenging traditional powers.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:28:49+00:00'
 author: Blake Anderson
 tags:

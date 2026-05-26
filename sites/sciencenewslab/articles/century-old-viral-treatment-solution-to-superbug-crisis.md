@@ -6,7 +6,7 @@ description: >-
   target harmful bacteria, offering hope against superbugs threatening global
   health.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-03T08:47:27'
 author: Taylor Winters
 tags:

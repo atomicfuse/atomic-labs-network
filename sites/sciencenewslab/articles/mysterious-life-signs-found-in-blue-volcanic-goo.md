@@ -6,7 +6,7 @@ description: >-
   astrobiology, suggesting similar life could exist on planets with harsh
   environments, such as Mars, fueling the search for extraterrestrial life.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T12:57:33'
 author: Taylor Winters
 tags:

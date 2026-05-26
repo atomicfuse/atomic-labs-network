@@ -5,7 +5,7 @@ description: >-
   health benefits but highlighting the need for more protein distribution,
   especially...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Ryan Powell
 tags:

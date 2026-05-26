@@ -7,7 +7,7 @@ description: >-
   educational programs, honoring the legacy of photographer and activist Gordon
   Parks.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T10:06:18+00:00'
 author: Becca Roberts
 tags:

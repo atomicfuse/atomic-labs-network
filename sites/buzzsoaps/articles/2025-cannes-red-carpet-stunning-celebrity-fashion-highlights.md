@@ -6,7 +6,7 @@ description: >-
   highlighted creativity, diversity, and the festival's influence on global
   fashion, merging cinematic achievements with innovative fashion expressions.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T09:23:34+00:00'
 author: Becca Roberts
 tags:

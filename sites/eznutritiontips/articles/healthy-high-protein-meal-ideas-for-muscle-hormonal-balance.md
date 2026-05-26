@@ -4,7 +4,7 @@ description: >-
   Discover how to rebuild your body with nourishing, high-protein meals that
   support muscle and hormonal balance.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T10:25:21+00:00'
 author: Taylor Winters
 tags:

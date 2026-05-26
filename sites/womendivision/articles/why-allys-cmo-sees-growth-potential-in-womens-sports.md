@@ -6,7 +6,7 @@ description: >-
   driving gender equality and inspiring future investments in women's sports
   with Ally's support of the National Women's Soccer League.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-04T10:15:37+00:00'
 author: Taylor Winters
 tags:

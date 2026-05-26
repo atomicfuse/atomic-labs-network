@@ -5,7 +5,7 @@ description: >-
   voyages to Juneau featuring glacier viewing and Alaska-inspired dining
   through...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Sarah Rivera
 tags:

@@ -4,7 +4,7 @@ description: >-
   This article explores the psychological and social reasons why people tend to
   prefer comforting falsehoods over uncomfortable truths.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-14T09:35:25+00:00'
 author: Blake Anderson
 tags:

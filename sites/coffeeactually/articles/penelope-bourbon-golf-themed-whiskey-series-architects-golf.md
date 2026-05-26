@@ -5,7 +5,7 @@ description: >-
   inspired by a round of golf, featuring oak stave-finished bourbons at
   varying...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Ryan Powell
 tags:

@@ -4,7 +4,7 @@ description: >-
   The latest Euphoria episode accelerates toward chaos as storylines collide,
   but Nate's death feels heavily telegraphed rather than shocking.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Rachel Long
 tags:

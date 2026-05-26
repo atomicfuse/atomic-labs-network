@@ -4,7 +4,7 @@ description: >-
   A homeless Afghan man was arrested in connection with an arson incident near
   the Montpellier Opera house in France.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:53:27+00:00'
 author: Blake Anderson
 tags:

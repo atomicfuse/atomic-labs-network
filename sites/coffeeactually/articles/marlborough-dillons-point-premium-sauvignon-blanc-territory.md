@@ -4,7 +4,7 @@ description: >-
   Once overlooked farmland, Dillons Point has become Marlborough's most valuable
   wine territory, producing distinctive coastal Sauvignon Blanc that rivals...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Ryan Powell
 tags:

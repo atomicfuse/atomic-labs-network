@@ -4,7 +4,7 @@ description: >-
   Learn expert-approved techniques to treat and prevent razor bumps with proper
   shaving methods, clean tools, and gentle skincare routines for silky-smooth...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Max Ward
 tags:

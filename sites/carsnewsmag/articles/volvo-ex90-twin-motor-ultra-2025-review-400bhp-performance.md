@@ -7,7 +7,7 @@ description: >-
   benchmark for eco-conscious drivers in the competitive luxury electric vehicle
   market.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T09:21:37+00:00'
 author: Taylor Winters
 tags:

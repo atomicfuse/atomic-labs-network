@@ -7,7 +7,7 @@ description: >-
   innovations, celebrating the enduring impact of notable individuals and
   moments.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:27:31+00:00'
 author: Nico Harper
 tags:

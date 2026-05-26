@@ -6,7 +6,7 @@ description: >-
   faced tactical challenges, young talents shone, and VAR decisions stirred
   controversy, highlighting the league's unpredictability and excitement.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T09:35:36+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   and the unknown beckons curiosity, spanning ancient artifacts, modern
   phenomena, and everything in between.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T10:19:21+00:00'
 author: Nico Harper
 tags:

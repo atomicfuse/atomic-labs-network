@@ -4,7 +4,7 @@ description: >-
   Discover the emerging 2026 dining room decor trends that are transforming
   underused formal spaces into stylish, intentional areas worth redesigning.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Leo Bennett
 tags:

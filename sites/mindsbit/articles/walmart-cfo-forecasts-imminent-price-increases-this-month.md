@@ -6,7 +6,7 @@ description: >-
   them to consumers, while exploring supply chain diversification and
   negotiations with suppliers to mitigate the impact.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:08:58+00:00'
 author: Lena Ashwood
 tags:

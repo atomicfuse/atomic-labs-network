@@ -4,7 +4,7 @@ description: >-
   MasterChef Pankaj Bhadouria reveals five practical techniques for achieving
   street-style crispy pakode at home while reducing oil absorption.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Ryan Powell
 tags:

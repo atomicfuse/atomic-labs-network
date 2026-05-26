@@ -4,7 +4,7 @@ description: >-
   From The Boys finale to new Star Wars content, discover the best theatrical
   releases and streaming premieres for Memorial Day weekend 2026.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Julia Sanders
 tags:

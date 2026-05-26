@@ -6,7 +6,7 @@ description: >-
   Burnett, reflecting human achievement and resilience across politics,
   technology, and the arts.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:16:41+00:00'
 author: Nico Harper
 tags:

@@ -5,7 +5,7 @@ description: >-
   using simple kitchen ingredients, without heat styling tools or harsh
   chemicals.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-12T05:33:20+00:00'
 author: Taylor Winters
 tags:

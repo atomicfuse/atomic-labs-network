@@ -4,7 +4,7 @@ description: >-
   Fremantle maintains stable Q1 revenues at €372M while parent RTL's streaming
   platforms achieve profitability under new CEO Clément Schwebig's leadership.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-13'
 author: Hannah Murphy
 tags:

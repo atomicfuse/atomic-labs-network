@@ -6,7 +6,7 @@ description: >-
   shape political discourse, advocating for personal rights amidst technological
   advancements and global challenges.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:43:03+00:00'
 author: Blake Anderson
 tags:

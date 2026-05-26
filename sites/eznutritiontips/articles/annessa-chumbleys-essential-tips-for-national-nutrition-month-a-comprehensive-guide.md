@@ -7,7 +7,7 @@ description: >-
   Month, covering hydration, whole grains, protein, cooking with kids, and smart
   snacking to help foster healthier eating habits year-round.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:24:09+00:00'
 author: Taylor Winters
 tags:

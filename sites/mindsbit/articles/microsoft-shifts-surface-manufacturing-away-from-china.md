@@ -6,7 +6,7 @@ description: >-
   chain resilience. This move may influence global supply chain dynamics and
   encourage new manufacturing hubs in Southeast Asia or India.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T09:19:20+00:00'
 author: Lena Ashwood
 tags:

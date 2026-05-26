@@ -6,7 +6,7 @@ description: >-
   emphasizing the need for understanding long-term effects and exploring
   alternative pain management strategies to enhance patients' well-being.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-17T07:39:27'
 author: Taylor Winters
 tags:

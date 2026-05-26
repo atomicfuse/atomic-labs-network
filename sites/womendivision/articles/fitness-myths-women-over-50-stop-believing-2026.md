@@ -5,7 +5,7 @@ description: >-
   progress. Here's what outdated beliefs to stop following and how to train
   smarter...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Sam Cooper
 tags:

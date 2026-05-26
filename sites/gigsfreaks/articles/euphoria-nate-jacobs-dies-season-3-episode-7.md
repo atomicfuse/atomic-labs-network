@@ -5,7 +5,7 @@ description: >-
   in the desert over debt. Jacob Elordi reacts to his character's shocking
   death.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Max Kim
 tags:

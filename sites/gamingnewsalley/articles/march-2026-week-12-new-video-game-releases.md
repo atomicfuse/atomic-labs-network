@@ -6,7 +6,7 @@ description: >-
   role-playing experiences, innovative indie titles, and thrilling sports
   simulations, offering something for every gaming enthusiast.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T09:33:19+00:00'
 author: Taylor Winters
 tags:

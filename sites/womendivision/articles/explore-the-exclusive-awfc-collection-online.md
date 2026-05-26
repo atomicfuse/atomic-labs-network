@@ -6,7 +6,7 @@ description: >-
   offers high-quality, comfortable products for fans worldwide, celebrating the
   club's dedication to innovation and tradition in sports fashion.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T08:59:29+00:00'
 author: Taylor Winters
 tags:

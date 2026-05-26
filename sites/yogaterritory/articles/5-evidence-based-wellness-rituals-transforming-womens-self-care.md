@@ -4,7 +4,7 @@ description: >-
   From pH-aware hygiene to sleep preparation routines, discover the practical
   wellness rituals shaping women's self-care habits in 2026.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Lucas Price
 tags:

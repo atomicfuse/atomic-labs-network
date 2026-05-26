@@ -5,7 +5,7 @@ description: >-
   continue across the Gulf region, with the pilot reportedly ejecting safely
   amid escalating regional tensions.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T09:21:26+00:00'
 author: Taylor Winters
 tags:

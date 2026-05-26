@@ -4,7 +4,7 @@ description: >-
   From 'The Pitt' to 'Grey's Anatomy,' discover how TV shows recruit and pay
   infant stars, while AI increasingly replaces real babies on set.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-15'
 author: Daniel Parker
 tags:

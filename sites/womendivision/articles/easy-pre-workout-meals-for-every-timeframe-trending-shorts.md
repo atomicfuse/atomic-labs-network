@@ -5,7 +5,7 @@ description: >-
   you fuel your workouts effectively no matter how much time you have before
   hitting the gym.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-10T08:05:48+00:00'
 author: admin
 tags:

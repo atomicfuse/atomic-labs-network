@@ -6,7 +6,7 @@ description: >-
   species. Its blend of traditional elements and modern enhancements makes it a
   must-play for fans and newcomers.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-05T09:35:28+00:00'
 author: Taylor Winters
 tags:

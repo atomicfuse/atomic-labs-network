@@ -7,7 +7,7 @@ description: >-
   and stunning visuals enrich the engaging narrative, leaving viewers
   captivated.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:41:37+00:00'
 author: Becca Roberts
 tags:

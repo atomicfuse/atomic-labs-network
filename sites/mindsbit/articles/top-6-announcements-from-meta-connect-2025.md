@@ -6,7 +6,7 @@ description: >-
   connectivity, and innovative design, enhancing user interaction with digital
   content while ensuring privacy and security.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T07:29:25+00:00'
 author: Lena Ashwood
 tags:

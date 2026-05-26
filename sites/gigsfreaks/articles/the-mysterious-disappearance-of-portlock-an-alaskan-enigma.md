@@ -5,7 +5,7 @@ description: >-
   mysteriously vanished overnight, leaving behind an abandoned ghost town
   shrouded in fear, rumors, and unanswered questions.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:23:23+00:00'
 author: Nico Harper
 tags:

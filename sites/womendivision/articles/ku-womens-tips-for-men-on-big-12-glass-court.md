@@ -6,7 +6,7 @@ description: >-
   on strategies for visibility, footwork, and mental toughness to improve
   performance in challenging conditions.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T10:07:22+00:00'
 author: Taylor Winters
 tags:

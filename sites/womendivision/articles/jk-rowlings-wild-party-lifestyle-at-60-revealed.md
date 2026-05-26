@@ -6,7 +6,7 @@ description: >-
   Felton's journey from child star to respected actor showcases his versatility
   and enduring popularity.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T05:09:27+00:00'
 author: Taylor Winters
 tags:

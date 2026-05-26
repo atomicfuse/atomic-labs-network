@@ -6,7 +6,7 @@ description: >-
   analysts' attention. Both players have shared their perspectives, emphasizing
   respect and rivalry in women's sports.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T09:23:18+00:00'
 author: Becca Roberts
 tags:

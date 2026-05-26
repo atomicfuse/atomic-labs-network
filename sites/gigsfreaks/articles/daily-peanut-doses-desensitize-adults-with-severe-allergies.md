@@ -6,7 +6,7 @@ description: >-
   introduces peanut protein to desensitize the immune system, offering hope for
   reducing severe reactions and improving quality of life.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:13:00+00:00'
 author: Nico Harper
 tags:

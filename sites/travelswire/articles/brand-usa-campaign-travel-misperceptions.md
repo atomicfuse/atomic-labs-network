@@ -5,7 +5,7 @@ description: >-
   correct misperceptions about visiting the United States amid shifting global
   travel...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Sarah Rivera
 tags:

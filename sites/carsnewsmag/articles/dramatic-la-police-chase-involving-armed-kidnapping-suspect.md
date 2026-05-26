@@ -4,7 +4,7 @@ description: >-
   A high-stakes police pursuit unfolds in Los Angeles as authorities chase a
   potentially armed kidnapping suspect through the city's streets.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T09:25:36+00:00'
 author: Taylor Winters
 tags:

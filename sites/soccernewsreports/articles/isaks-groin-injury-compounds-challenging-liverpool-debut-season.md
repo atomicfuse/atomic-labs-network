@@ -6,7 +6,7 @@ description: >-
   adjustments and management efforts are crucial in overcoming these setbacks
   and ensuring long-term resilience and success.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-23T08:41:27+00:00'
 author: Taylor Winters
 tags:

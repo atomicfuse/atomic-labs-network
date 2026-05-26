@@ -4,7 +4,7 @@ description: >-
   Explore Ohio's eeriest unsolved mystery that has baffled investigators and
   captivated true crime enthusiasts for over forty years.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:36:33+00:00'
 author: Blake Anderson
 tags:

@@ -7,7 +7,7 @@ description: >-
   significantly impact both teams' standing and morale, with both clubs eyeing
   the top slot in a contest that could alter the trajectory of the season.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T06:31:43+00:00'
 author: Taylor Winters
 tags:

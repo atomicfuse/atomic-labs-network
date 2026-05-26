@@ -5,7 +5,7 @@ description: >-
   after a tense campaign while raising major questions about rebuilding,
   consistency, recruitment, and the club's long-term direction.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25T08:34:15+00:00'
 author: Taylor Winters
 tags:

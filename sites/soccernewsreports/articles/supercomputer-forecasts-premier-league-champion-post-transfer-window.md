@@ -6,7 +6,7 @@ description: >-
   Arsenal, and Liverpool emerge as strong contenders, but the league's
   unpredictability keeps fans eagerly anticipating every match.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-04T04:21:36+00:00'
 author: Taylor Winters
 tags:

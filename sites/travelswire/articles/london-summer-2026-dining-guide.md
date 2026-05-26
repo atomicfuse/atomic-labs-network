@@ -4,7 +4,7 @@ description: >-
   From rooftop terraces to new restaurant openings, discover London's hottest
   dining spots for summer 2026, perfect for Wimbledon and Chelsea Flower Show...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Sarah Rivera
 tags:

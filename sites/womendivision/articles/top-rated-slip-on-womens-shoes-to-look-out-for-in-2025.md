@@ -7,7 +7,7 @@ description: >-
   pair can make a significant difference, boosting your confidence and elevating
   your outfit.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T09:31:31+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   design and advanced features, offering versatile powertrains and cutting-edge
   technology that make it a standout in the compact car market.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-23T08:27:25+00:00'
 author: Taylor Winters
 tags:

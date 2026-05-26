@@ -8,7 +8,7 @@ description: >-
   dominance, a thrilling Real Madrid vs. FC Barcelona clash, and Bayern Munich's
   tested supremacy in the Bundesliga.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T06:46:34+00:00'
 author: Taylor Winters
 tags:

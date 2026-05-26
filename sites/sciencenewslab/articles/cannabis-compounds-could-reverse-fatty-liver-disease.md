@@ -6,7 +6,7 @@ description: >-
   new treatments. Further studies are needed to confirm these findings and
   establish safe, effective therapies.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T14:03:26'
 author: Taylor Winters
 tags:

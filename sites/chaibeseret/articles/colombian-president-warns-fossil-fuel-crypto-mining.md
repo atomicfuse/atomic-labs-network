@@ -4,7 +4,7 @@ description: >-
   Gustavo Petro positions green energy as the future of Bitcoin mining while
   Paraguay emerges as a major hydroelectric-powered mining hub.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

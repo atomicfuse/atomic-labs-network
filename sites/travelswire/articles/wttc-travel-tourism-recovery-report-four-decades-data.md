@@ -4,7 +4,7 @@ description: >-
   New World Travel & Tourism Council report analyzes 40 years of crisis data to
   identify travel industry recovery patterns and timelines for stakeholders.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

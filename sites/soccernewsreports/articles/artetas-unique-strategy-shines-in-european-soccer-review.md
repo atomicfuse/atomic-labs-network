@@ -6,7 +6,7 @@ description: >-
   impressive goals, and dramatic moments across the Premier League, La Liga, and
   Bundesliga, marking highlights of the season.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T05:16:24+00:00'
 author: Taylor Winters
 tags:

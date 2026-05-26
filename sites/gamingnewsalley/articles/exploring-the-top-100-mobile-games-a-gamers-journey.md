@@ -4,7 +4,7 @@ description: >-
   Dive into the world of mobile gaming as we explore the top 100 games,
   highlighting unique gameplay experiences and features.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T09:33:17+00:00'
 author: Taylor Winters
 tags:

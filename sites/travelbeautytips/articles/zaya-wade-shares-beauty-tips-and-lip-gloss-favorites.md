@@ -6,7 +6,7 @@ description: >-
   emphasizes representation and inclusivity, challenging traditional beauty
   standards and advocating for a more diverse and empowered industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-08T04:33:40+00:00'
 author: Taylor Winters
 tags:

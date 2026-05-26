@@ -4,7 +4,7 @@ description: >-
   Week 34 ratings data shows which freshman TV shows are performing best and
   worst as networks prepare renewal decisions for the 2026-27 season.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-21'
 author: Rachel Long
 tags:

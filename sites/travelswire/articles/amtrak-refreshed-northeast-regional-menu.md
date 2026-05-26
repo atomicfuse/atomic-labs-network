@@ -4,7 +4,7 @@ description: >-
   Amtrak announces updated onboard dining options for Northeast Regional trains,
   aiming to modernize the passenger experience and better compete with airlines.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Sarah Rivera
 tags:

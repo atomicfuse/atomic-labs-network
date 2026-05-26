@@ -6,7 +6,7 @@ description: >-
   and opportunities for innovation, economic growth, and sustainable practices
   in the energy sector.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T08:51:23+00:00'
 author: Lena Ashwood
 tags:

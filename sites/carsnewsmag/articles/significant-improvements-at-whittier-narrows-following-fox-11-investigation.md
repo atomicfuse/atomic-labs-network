@@ -5,7 +5,7 @@ description: >-
   after a large-scale cleanup was initiated, spurred by FOX 11's investigative
   report on local crime, homeless encampments, and unsafe tunnel conditions.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T09:21:20+00:00'
 author: Taylor Winters
 tags:

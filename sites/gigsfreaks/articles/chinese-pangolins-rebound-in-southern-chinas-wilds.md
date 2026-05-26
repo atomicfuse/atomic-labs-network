@@ -5,7 +5,7 @@ description: >-
   protections, better monitoring, habitat conservation, and public awareness
   help one of the world's most trafficked mammals rebuild wild populations.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-30T10:06:51+00:00'
 author: Nico Harper
 tags:

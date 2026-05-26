@@ -5,7 +5,7 @@ description: >-
   shows the national average hit $4.52/gallon—up $1.40 from last year amid
   U.S.-Iran...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

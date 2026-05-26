@@ -6,7 +6,7 @@ description: >-
   eating, stress management, and adequate sleep to achieve sustainable weight
   loss, mimicking the effects of medications like Ozempic without side effects.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-19T07:33:20'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   mercenary leader, exploring a dynamic world with diverse characters and
   quests, offering a unique action-adventure experience.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T10:37:28+00:00'
 author: Taylor Winters
 tags:

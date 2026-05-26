@@ -6,7 +6,7 @@ description: >-
   focus on films outside major studios, the event emphasized creativity,
   diversity, and the emergence of new talent in filmmaking.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T10:25:35+00:00'
 author: Becca Roberts
 tags:

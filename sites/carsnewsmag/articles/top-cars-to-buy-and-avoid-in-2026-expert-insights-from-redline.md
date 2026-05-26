@@ -4,7 +4,7 @@ description: >-
   Discover the must-buy and avoid cars for 2026 based on Sofyan Bey from
   Redline's extensive experience driving 132 press cars throughout the year.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T09:23:18+00:00'
 author: Taylor Winters
 tags:

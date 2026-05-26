@@ -4,7 +4,7 @@ description: >-
   From Lady Gaga's concert special to psychological horror, here's what to
   stream this weekend spanning documentaries, thrillers, and prestige TV.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Daniel Parker
 tags:

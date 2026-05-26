@@ -6,7 +6,7 @@ description: >-
   quest for Champions League qualification as managers rethink strategies in the
   season's critical phase.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-12T05:29:29+00:00'
 author: Taylor Winters
 tags:

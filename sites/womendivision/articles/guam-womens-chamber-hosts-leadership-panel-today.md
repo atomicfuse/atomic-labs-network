@@ -6,7 +6,7 @@ description: >-
   fostering inclusive environments for professional growth and leadership
   development.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:13:27+00:00'
 author: Taylor Winters
 tags:

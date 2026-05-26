@@ -6,7 +6,7 @@ description: >-
   narrative highlights the importance of recognizing personal stories and
   achievements that shape a person's legacy.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T10:01:27+00:00'
 author: Taylor Winters
 tags:

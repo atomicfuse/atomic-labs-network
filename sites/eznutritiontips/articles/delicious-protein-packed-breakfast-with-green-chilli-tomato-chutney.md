@@ -4,7 +4,7 @@ description: >-
   Discover a quick and healthy protein-rich breakfast recipe paired with a zesty
   green chilli tomato chutney, perfect for busy mornings.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-27T11:03:06+00:00'
 author: Taylor Winters
 tags:

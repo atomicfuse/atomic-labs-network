@@ -6,7 +6,7 @@ description: >-
   advancement could improve patient comfort and outcomes, potentially
   transforming sleep apnea management for millions worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T12:53:30'
 author: Taylor Winters
 tags:

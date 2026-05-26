@@ -6,7 +6,7 @@ description: >-
   policies play pivotal roles, influencing markets and investment decisions,
   highlighting the need for adaptive strategies and international cooperation.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:32:07+00:00'
 author: Blake Anderson
 tags:

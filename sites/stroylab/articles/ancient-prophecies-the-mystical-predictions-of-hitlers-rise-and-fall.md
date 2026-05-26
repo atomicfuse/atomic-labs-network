@@ -4,7 +4,7 @@ description: >-
   Explore the ancient prophecies that foretold the rise and fall of Hitler, a
   tale intertwined with mysticism, occultism, and destiny.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T12:51:33+00:00'
 author: Blake Anderson
 tags:

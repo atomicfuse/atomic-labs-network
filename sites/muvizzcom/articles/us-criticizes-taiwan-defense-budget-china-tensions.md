@@ -5,7 +5,7 @@ description: >-
   approving defense spending below Washington's recommendations amid rising
   China...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

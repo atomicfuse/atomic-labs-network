@@ -6,7 +6,7 @@ description: >-
   while showcasing the celebrity's ability to maintain authenticity and engage
   effectively with their audience.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-04T09:43:31+00:00'
 author: Taylor Winters
 tags:

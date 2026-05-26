@@ -6,7 +6,7 @@ description: >-
   Notable occurrences include the Act of Union in 1801 and the adoption of the
   Internet Protocol in 1983.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:21:22+00:00'
 author: Nico Harper
 tags:

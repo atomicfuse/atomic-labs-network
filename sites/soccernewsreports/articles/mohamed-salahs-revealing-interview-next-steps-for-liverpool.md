@@ -6,7 +6,7 @@ description: >-
   future. Fans and analysts eagerly await his decision, which could reshape
   football landscapes.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-08T09:41:26+00:00'
 author: Taylor Winters
 tags:

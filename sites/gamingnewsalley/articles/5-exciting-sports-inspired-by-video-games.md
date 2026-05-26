@@ -6,7 +6,7 @@ description: >-
   fans and newcomers alike, showcasing the creative potential of merging virtual
   and real experiences.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T04:19:30+00:00'
 author: Taylor Winters
 tags:

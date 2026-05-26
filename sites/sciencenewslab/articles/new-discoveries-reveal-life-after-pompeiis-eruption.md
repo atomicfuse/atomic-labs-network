@@ -6,7 +6,7 @@ description: >-
   abandoned. These findings challenge previous assumptions and highlight the
   resilience of its inhabitants.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T07:33:31'
 author: Taylor Winters
 tags:

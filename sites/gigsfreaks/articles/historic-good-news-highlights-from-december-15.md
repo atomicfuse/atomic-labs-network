@@ -6,7 +6,7 @@ description: >-
   cultural highlights. These narratives offer insight into their influence on
   society and inspire future generations.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T10:59:25+00:00'
 author: Nico Harper
 tags:

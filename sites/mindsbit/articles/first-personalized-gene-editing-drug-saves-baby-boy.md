@@ -6,7 +6,7 @@ description: >-
   gene-editing drugs, marks a significant milestone in genetic medicine,
   offering hope for rare genetic conditions.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:08:28+00:00'
 author: Lena Ashwood
 tags:

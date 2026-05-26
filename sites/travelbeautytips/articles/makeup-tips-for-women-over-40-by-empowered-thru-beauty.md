@@ -5,7 +5,7 @@ description: >-
   focusing on enhancing natural beauty with products that hydrate and provide a
   radiant finish, helping mature women look and feel confident at any age.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:25:27+00:00'
 author: Taylor Winters
 tags:

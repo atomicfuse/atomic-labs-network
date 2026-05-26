@@ -6,7 +6,7 @@ description: >-
   long-held astronomical prediction, captured by the Transiting Exoplanet Survey
   Satellite (TESS).
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T11:46:32'
 author: Taylor Winters
 tags:

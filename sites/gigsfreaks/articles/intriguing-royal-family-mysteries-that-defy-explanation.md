@@ -5,7 +5,7 @@ description: >-
   including the enigmatic discovery of King Richard III's remains and the
   unexpected revelations about royal ancestry that followed.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-17T05:11:25+00:00'
 author: Nico Harper
 tags:

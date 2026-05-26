@@ -4,7 +4,7 @@ description: >-
   Pilates Addiction reaches 300 franchise licenses sold, signaling explosive
   growth in the boutique fitness industry as pilates becomes mainstream.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Hannah Murphy
 tags:

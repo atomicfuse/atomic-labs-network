@@ -6,7 +6,7 @@ description: >-
   driving significant changes and challenging disparities in compensation
   between male and female athletes.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T10:06:35+00:00'
 author: Becca Roberts
 tags:

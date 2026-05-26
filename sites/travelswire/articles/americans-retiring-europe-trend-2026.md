@@ -5,7 +5,7 @@ description: >-
   by lower costs, accessible healthcare, and golden visa programs offering
   new...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

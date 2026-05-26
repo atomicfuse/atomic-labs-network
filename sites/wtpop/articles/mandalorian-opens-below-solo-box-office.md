@@ -4,7 +4,7 @@ description: >-
   The latest Star Wars film 'The Mandalorian' grossed less than 'Solo' during
   its opening weekend, potentially signaling franchise fatigue.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Rachel Long
 tags:

@@ -6,7 +6,7 @@ description: >-
   suited to their needs, and the Linux community provides extensive support for
   both beginners and professionals.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:41:51+00:00'
 author: Blake Anderson
 tags:

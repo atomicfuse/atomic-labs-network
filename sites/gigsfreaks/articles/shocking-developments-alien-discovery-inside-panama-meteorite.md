@@ -5,7 +5,7 @@ description: >-
   substance seeping from a meteorite, with the situation escalating as
   Hazmat-suited officials arrive on the scene.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T07:15:21+00:00'
 author: Nico Harper
 tags:

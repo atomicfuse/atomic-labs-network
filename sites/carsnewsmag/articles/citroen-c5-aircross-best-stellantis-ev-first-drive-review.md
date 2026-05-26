@@ -6,7 +6,7 @@ description: >-
   driving experience that appeals to drivers seeking style, practicality, and
   advanced technology in their vehicle.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-09T08:33:53+00:00'
 author: Taylor Winters
 tags:

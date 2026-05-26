@@ -5,7 +5,7 @@ description: >-
   securing the top spot on Metacritic's all-time ratings with its immersive
   storytelling, cutting-edge graphics, and innovative mechanics.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T05:11:24+00:00'
 author: Taylor Winters
 tags:

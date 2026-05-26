@@ -4,7 +4,7 @@ description: >-
   Alaska Airlines is expanding globally with premium economy cabins on Boeing
   787s by 2028 and a 40,000-square-foot luxury lounge at Seattle-Tacoma airport.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Sarah Rivera
 tags:

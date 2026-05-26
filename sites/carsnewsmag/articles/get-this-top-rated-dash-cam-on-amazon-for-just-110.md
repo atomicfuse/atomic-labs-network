@@ -6,7 +6,7 @@ description: >-
   5-star reviews, praised for ease of use, high video quality, affordability,
   and features like night vision and GPS tracking.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T09:21:27+00:00'
 author: Taylor Winters
 tags:

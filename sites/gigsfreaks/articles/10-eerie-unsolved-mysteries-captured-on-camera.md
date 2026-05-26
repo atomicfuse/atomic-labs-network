@@ -5,7 +5,7 @@ description: >-
   humanoids and inexplicable photographs that continue to baffle experts and
   enthusiasts alike.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:13:23+00:00'
 author: Nico Harper
 tags:

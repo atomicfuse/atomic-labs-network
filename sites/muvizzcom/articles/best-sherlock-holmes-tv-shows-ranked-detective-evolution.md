@@ -4,7 +4,7 @@ description: >-
   From Victorian adaptations to sci-fi reimaginings, these Sherlock Holmes TV
   shows prove the detective's enduring appeal across eras and genres.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-22'
 author: Daniel Parker
 tags:

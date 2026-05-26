@@ -6,7 +6,7 @@ description: >-
   Super Bowl halftime show highlighted Latin culture's diversity while
   advocating for artistic freedom and representation.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T10:27:27+00:00'
 author: Becca Roberts
 tags:

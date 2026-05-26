@@ -5,7 +5,7 @@ description: >-
   lifestyle with a balanced diet, regular exercise, and stress management can
   significantly reduce the risk of heart disease and improve quality of life.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T10:09:23+00:00'
 author: Taylor Winters
 tags:

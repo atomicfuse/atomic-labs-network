@@ -6,7 +6,7 @@ description: >-
   approaches, fans prepare to create competitive teams, strategize for top
   rankings, and enjoy the game's thrill.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T04:29:29+00:00'
 author: Taylor Winters
 tags:

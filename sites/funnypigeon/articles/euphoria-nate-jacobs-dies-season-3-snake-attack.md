@@ -4,7 +4,7 @@ description: >-
   Nate Jacobs meets his end in Euphoria season 3 episode 7 after being buried in
   the desert over a debt. Jacob Elordi reacts to his character's shocking death.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Andrew Gray
 tags:

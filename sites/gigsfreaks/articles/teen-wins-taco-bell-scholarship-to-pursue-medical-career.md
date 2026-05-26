@@ -6,7 +6,7 @@ description: >-
   underscores the impact of perseverance and financial support in achieving
   educational milestones.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:15:29+00:00'
 author: Nico Harper
 tags:

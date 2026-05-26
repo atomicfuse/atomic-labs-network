@@ -5,7 +5,7 @@ description: >-
   reclaim value and heritage in the traditional Damask rose industry, moving
   beyond...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Hannah Murphy
 tags:

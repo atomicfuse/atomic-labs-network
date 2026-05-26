@@ -2,7 +2,7 @@
 title: "Netanyahu to Brief Trump on Potential Iran Strikes"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-29T11:07:30+00:00"
 author: "Blake Anderson"
 tags:

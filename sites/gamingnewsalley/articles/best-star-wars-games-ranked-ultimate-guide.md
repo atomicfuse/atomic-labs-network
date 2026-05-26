@@ -5,7 +5,7 @@ description: >-
   spanning multiple platforms and showcasing the franchise's strongest
   interactive...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Elena Long
 tags:

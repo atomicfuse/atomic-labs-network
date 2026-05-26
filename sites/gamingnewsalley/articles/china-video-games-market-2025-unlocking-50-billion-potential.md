@@ -6,7 +6,7 @@ description: >-
   base. Despite regulatory challenges, investment opportunities abound in this
   rapidly evolving industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T04:27:28+00:00'
 author: Taylor Winters
 tags:

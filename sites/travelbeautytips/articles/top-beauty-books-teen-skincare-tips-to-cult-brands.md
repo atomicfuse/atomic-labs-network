@@ -6,7 +6,7 @@ description: >-
   stories, tips, and eco-conscious advice, perfect for beauty enthusiasts
   seeking inspiration and a deeper understanding of global beauty standards.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-09T08:51:52+00:00'
 author: Taylor Winters
 tags:

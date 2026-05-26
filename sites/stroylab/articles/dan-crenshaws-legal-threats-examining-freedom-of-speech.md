@@ -5,7 +5,7 @@ description: >-
   Amendment rights, examining how such actions by public figures can impact free
   speech and democratic accountability.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:37:05+00:00'
 author: Blake Anderson
 tags:

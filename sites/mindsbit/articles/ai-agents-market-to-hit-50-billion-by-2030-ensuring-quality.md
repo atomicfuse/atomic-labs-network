@@ -6,7 +6,7 @@ description: >-
   through transparency, reliability, and ethics is crucial for AI's widespread
   adoption and integration into society.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T10:41:24+00:00'
 author: Lena Ashwood
 tags:

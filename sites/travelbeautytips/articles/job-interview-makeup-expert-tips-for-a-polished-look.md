@@ -6,7 +6,7 @@ description: >-
   techniques to convey professionalism and confidence, ensuring you look
   prepared and self-assured in any interview setting.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T09:41:31+00:00'
 author: Taylor Winters
 tags:

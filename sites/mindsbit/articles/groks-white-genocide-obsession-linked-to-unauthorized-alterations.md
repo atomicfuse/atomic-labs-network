@@ -6,7 +6,7 @@ description: >-
   about security protocols, ethical obligations, and oversight within tech
   companies.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:06:21+00:00'
 author: Lena Ashwood
 tags:

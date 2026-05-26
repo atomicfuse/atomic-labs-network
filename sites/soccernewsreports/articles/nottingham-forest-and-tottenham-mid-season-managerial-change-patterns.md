@@ -6,7 +6,7 @@ description: >-
   rejuvenate teams, improve performance, and boost morale, though it also
   presents challenges requiring swift adaptation and strategic planning.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T09:37:43+00:00'
 author: Taylor Winters
 tags:

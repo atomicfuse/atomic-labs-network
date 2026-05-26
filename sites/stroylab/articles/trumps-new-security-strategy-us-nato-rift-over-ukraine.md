@@ -6,7 +6,7 @@ description: >-
   inclusion. However, these developments raise significant concerns about
   privacy and control, challenging the traditional banking sector's future.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:43:29+00:00'
 author: Blake Anderson
 tags:

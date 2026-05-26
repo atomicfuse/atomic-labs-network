@@ -4,7 +4,7 @@ description: >-
   Discover three hidden gem Apple TV+ series featuring A-list talent like Colin
   Farrell and Rose Byrne that deserve more attention from streaming audiences.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-10'
 author: Editorial Team
 tags:

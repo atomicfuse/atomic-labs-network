@@ -9,7 +9,7 @@ description: >-
   unity, dedication, and discipline displayed speak volumes about their
   character.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T06:31:45+00:00'
 author: Taylor Winters
 tags:

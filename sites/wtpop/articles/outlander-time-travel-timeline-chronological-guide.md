@@ -4,7 +4,7 @@ description: >-
   A comprehensive guide mapping Outlander's sprawling narrative across eight
   seasons and spinoff Blood of My Blood, from 1715 through the 20th century.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Rachel Long
 tags:

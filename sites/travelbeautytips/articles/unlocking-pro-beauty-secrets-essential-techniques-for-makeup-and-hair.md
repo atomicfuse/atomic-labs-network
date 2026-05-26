@@ -5,7 +5,7 @@ description: >-
   makeup and hair routine, learning the secrets professionals use to elevate
   their craft.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T09:43:22+00:00'
 author: Taylor Winters
 tags:

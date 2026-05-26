@@ -6,7 +6,7 @@ description: >-
   passages, improves breathing, and reduces congestion, offering a natural
   remedy for respiratory issues and enhancing overall wellness.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T12:54:44'
 author: Taylor Winters
 tags:

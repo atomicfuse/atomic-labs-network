@@ -6,7 +6,7 @@ description: >-
   hack-and-slash mechanics, strategic gameplay, and an immersive storyline set
   in a dystopian future with stunning visuals and audio.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-11T04:19:29+00:00'
 author: Taylor Winters
 tags:

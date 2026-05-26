@@ -4,7 +4,7 @@ description: >-
   HBO announces renewal of seven shows while confirming one major hit will end
   in 2026, signaling the network's strategic priorities for the year.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-22'
 author: Daniel Parker
 tags:

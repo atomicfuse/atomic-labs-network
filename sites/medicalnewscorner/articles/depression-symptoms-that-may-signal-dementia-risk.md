@@ -6,7 +6,7 @@ description: >-
   crucial for preventing cognitive decline as populations age, highlighting the
   need for proactive mental health care strategies.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T09:17:23+00:00'
 author: Taylor Winters
 tags:

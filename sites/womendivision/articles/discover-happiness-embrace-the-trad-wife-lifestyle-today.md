@@ -6,7 +6,7 @@ description: >-
   husbands. This choice emphasizes family values and personal fulfillment while
   sparking both interest and controversy.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:05:30+00:00'
 author: Taylor Winters
 tags:

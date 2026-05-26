@@ -5,7 +5,7 @@ description: >-
   database, confirming continued development despite delays and rising hardware
   costs.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Hannah Adams
 tags:

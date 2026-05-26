@@ -4,7 +4,7 @@ description: >-
   Penelope Bourbon unveils 'Architects of Golf,' an 18-bottle limited whiskey
   series inspired by golf holes, featuring oak stave-finished bourbons.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Ben Rivera
 tags:

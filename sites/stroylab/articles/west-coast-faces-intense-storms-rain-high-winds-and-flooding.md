@@ -7,7 +7,7 @@ description: >-
   through transparent communication, innovation, and international cooperation
   is essential for effective public health strategies.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:26:25+00:00'
 author: Blake Anderson
 tags:

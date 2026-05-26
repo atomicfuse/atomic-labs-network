@@ -6,7 +6,7 @@ description: >-
   reflects the club's ambitious vision to climb the English football ladder and
   reach the Premier League.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-05T09:39:40+00:00'
 author: Taylor Winters
 tags:

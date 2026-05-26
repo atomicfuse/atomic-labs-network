@@ -6,7 +6,7 @@ description: >-
   blend of style and performance with features like a state-of-the-art
   infotainment system and advanced safety measures.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T09:21:22+00:00'
 author: Taylor Winters
 tags:

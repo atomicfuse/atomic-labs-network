@@ -2,7 +2,7 @@
 title: "The Anti-Christ: Satan’s False Messiah Revealed"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-22T11:32:28+00:00"
 author: "Blake Anderson"
 tags:

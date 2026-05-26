@@ -8,7 +8,7 @@ description: >-
   in food, hydration, mindful eating, nutritious snacking, and meal planning for
   a healthier lifestyle.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:24:51+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   image, and self-care, helping you embrace opportunities and express your true
   self.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T10:07:30+00:00'
 author: Taylor Winters
 tags:

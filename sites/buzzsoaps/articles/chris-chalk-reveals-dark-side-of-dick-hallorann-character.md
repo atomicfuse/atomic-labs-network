@@ -6,7 +6,7 @@ description: >-
   historical drama, with Chalk's performance adding depth and authenticity to
   the chilling narrative.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:05:41+00:00'
 author: Becca Roberts
 tags:

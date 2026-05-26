@@ -5,7 +5,7 @@ description: >-
   disasters, examining the chilling moments when panic-driven choices lead to
   tragic and unforeseen consequences.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T11:13:25+00:00'
 author: Blake Anderson
 tags:

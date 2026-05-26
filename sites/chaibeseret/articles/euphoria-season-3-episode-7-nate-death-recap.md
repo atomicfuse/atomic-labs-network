@@ -5,7 +5,7 @@ description: >-
   with Nate's heavily telegraphed death and colliding storylines as the
   finale...
 type: review
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Chloe Carter
 tags:

@@ -6,7 +6,7 @@ description: >-
   this transition, open communication and support are crucial for couples to
   maintain a healthy and understanding relationship.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:09:22+00:00'
 author: Taylor Winters
 tags:

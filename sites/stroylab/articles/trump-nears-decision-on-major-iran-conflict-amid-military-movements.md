@@ -6,7 +6,7 @@ description: >-
   crucial as digital tools become more sophisticated, raising ethical and
   privacy concerns in the evolving landscape of digital governance.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T11:01:29+00:00'
 author: Blake Anderson
 tags:

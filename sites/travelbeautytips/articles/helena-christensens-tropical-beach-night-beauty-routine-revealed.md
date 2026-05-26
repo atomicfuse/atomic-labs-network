@@ -5,7 +5,7 @@ description: >-
   tropical beach night look, combining luxurious skincare essentials with expert
   makeup techniques.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-19T04:33:21+00:00'
 author: Taylor Winters
 tags:

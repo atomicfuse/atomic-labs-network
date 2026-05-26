@@ -9,7 +9,7 @@ description: >-
   vegetables, focusing on whole grains, and limiting caffeine and alcohol may
   significantly impact symptom severity.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:11:17+00:00'
 author: Taylor Winters
 tags:

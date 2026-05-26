@@ -6,7 +6,7 @@ description: >-
   style and responsive handling, it offers a blend of comfort, economy, and
   innovation, appealing to both enthusiasts and everyday drivers.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T09:21:33+00:00'
 author: Taylor Winters
 tags:

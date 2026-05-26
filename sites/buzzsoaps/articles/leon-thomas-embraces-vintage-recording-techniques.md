@@ -6,7 +6,7 @@ description: >-
   His journey from acting to music highlights his versatility and dedication,
   appealing to diverse audiences.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-13T10:54:41+00:00'
 author: Becca Roberts
 tags:

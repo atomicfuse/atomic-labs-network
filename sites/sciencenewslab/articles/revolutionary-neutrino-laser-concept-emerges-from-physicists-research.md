@@ -7,7 +7,7 @@ description: >-
   communications, offering insights into fundamental physics and the universe's
   mysteries.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T07:35:43'
 author: Taylor Winters
 tags:

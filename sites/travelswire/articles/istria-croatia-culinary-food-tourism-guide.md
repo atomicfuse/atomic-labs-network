@@ -4,7 +4,7 @@ description: >-
   Discover Croatia's Istria region through farm-to-table experiences, from
   truffle hunting at Prodan Tartufi to Michelin-starred dining at Cap Aureo.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-17'
 author: Sarah Rivera
 tags:

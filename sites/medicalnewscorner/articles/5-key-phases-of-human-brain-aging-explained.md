@@ -6,7 +6,7 @@ description: >-
   understanding of cognitive abilities, decision-making, and mental health,
   highlighting the need for adjusted educational and societal approaches.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-08T09:17:28+00:00'
 author: Taylor Winters
 tags:

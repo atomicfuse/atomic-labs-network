@@ -5,7 +5,7 @@ description: >-
   Jilly Cooper through Easter eggs and expanded storytelling with new cast
   members.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-13'
 author: Rachel Long
 tags:

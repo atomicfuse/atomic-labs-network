@@ -6,7 +6,7 @@ description: >-
   Plutonium, marking significant political, scientific, cultural, and
   humanitarian milestones globally.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-13T10:42:50+00:00'
 author: Nico Harper
 tags:

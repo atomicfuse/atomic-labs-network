@@ -5,7 +5,7 @@ description: >-
   flexibility and mobility while also promoting relaxation and calming the mind
   through stretching and breathing techniques.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-15T08:56:12+00:00'
 author: Taylor Winters
 tags:

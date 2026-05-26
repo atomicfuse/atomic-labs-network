@@ -7,7 +7,7 @@ description: >-
   and international cooperation are crucial for managing these challenges and
   opportunities.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:34:36+00:00'
 author: Blake Anderson
 tags:

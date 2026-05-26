@@ -8,7 +8,7 @@ description: >-
   are rich in dietary fiber and essential nutrients, offering numerous health
   benefits that support digestion and overall wellness.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:21:26+00:00'
 author: Taylor Winters
 tags:

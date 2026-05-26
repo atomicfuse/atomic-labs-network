@@ -5,7 +5,7 @@ description: >-
   co-branded digital marketing tools designed to promote luxury voyages and
   drive...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Sarah Rivera
 tags:

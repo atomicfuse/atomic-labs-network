@@ -8,7 +8,7 @@ description: >-
   and the right eye makeup, these are the must-haves for enhancing your prom
   night allure.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T07:01:49+00:00'
 author: Taylor Winters
 tags:

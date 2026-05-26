@@ -6,7 +6,7 @@ description: >-
   offering simplicity, performance, and affordability with a sleek design and
   versatile connectivity options.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-18T11:08:42+00:00'
 author: Lena Ashwood
 tags:

@@ -7,7 +7,7 @@ description: >-
   analytical power with dietitians' support enhances nutritional guidance and
   health outcomes.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:19:32+00:00'
 author: Taylor Winters
 tags:

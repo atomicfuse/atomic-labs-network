@@ -6,7 +6,7 @@ description: >-
   and midfield maestro offer significant value, while defensive selections
   require caution and strategic FPL planning around favorable fixtures.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:39:26+00:00'
 author: Taylor Winters
 tags:

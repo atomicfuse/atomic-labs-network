@@ -7,7 +7,7 @@ description: >-
   reproductive health in women, addressing conditions like PCOS, irregular
   cycles, and menopause through gentle, effective poses.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-13T08:24:51+00:00'
 author: admin
 tags:

@@ -6,7 +6,7 @@ description: >-
   Featuring advanced safety systems and a luxurious interior, it promises a
   dynamic driving experience while setting a new standard in the market.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-02T08:21:21+00:00'
 author: Taylor Winters
 tags:

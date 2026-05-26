@@ -6,7 +6,7 @@ description: >-
   includes hydrating products, effective cleansing techniques, and customized
   treatments, supported by a balanced lifestyle for optimal skin health.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-03T05:39:34+00:00'
 author: Taylor Winters
 tags:

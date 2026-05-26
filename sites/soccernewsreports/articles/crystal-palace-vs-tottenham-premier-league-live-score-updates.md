@@ -6,7 +6,7 @@ description: >-
   draw. Both clubs aimed for crucial points, with tactical battles and
   game-changing substitutions offering fans an exhilarating match.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-28T14:01:48+00:00'
 author: Taylor Winters
 tags:

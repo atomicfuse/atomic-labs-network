@@ -6,7 +6,7 @@ description: >-
   Battlefront II, Star Wars: Knights of the Old Republic, Star Wars Jedi: Fallen
   Order, and Star Wars: Squadrons.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T06:46:38+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   ended in a thrilling 0-0 draw, with both teams showcasing their skills and
   strategies while leaving the outcome wide open for the decisive second leg.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:29:26+00:00'
 author: Taylor Winters
 tags:

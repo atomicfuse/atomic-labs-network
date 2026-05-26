@@ -4,7 +4,7 @@ description: >-
   Networks approach renewal decisions as week 34 ratings reveal which freshman
   TV shows are performing best and worst this season.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-21'
 author: Daniel Parker
 tags:

@@ -6,7 +6,7 @@ description: >-
   defensive rock, Manchester City's midfield maestro, Liverpool's relentless
   forward, and Tottenham's creative force drive their clubs toward success.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T09:41:30+00:00'
 author: Taylor Winters
 tags:

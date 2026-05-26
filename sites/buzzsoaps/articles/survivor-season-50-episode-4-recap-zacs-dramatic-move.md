@@ -5,7 +5,7 @@ description: >-
   as contestants forge new alliances, face grueling challenges, and navigate the
   emotional and psychological toll of the game.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T11:47:25+00:00'
 author: Becca Roberts
 tags:

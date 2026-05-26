@@ -4,7 +4,7 @@ description: >-
   Discover easy and effective grooming routines to enhance your beauty every day
   with minimal effort.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T09:39:17+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   warn of other risks, such as increased inequality and bias, necessitating
   regulation and education.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T12:55:33'
 author: Taylor Winters
 tags:

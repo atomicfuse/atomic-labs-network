@@ -6,7 +6,7 @@ description: >-
   while microneedling and supplements require caution and professional guidance
   to avoid adverse effects and maintain healthy skin.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T04:33:31+00:00'
 author: Taylor Winters
 tags:

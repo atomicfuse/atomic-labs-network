@@ -5,7 +5,7 @@ description: >-
   reclaims control through fear, Cassie spirals, and Lexi's play threatens to
   expose East Highland's deepest wounds.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18T09:20:46+00:00'
 author: Becca Roberts
 tags:

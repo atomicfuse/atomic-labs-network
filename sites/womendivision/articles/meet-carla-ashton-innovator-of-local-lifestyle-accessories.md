@@ -6,7 +6,7 @@ description: >-
   practices, she sets new industry standards, supporting local artisans and
   promoting environmental responsibility in an increasingly competitive market.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-05T10:05:28+00:00'
 author: Taylor Winters
 tags:

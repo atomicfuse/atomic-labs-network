@@ -6,7 +6,7 @@ description: >-
   fitness benefits. Consulting healthcare providers ensures personalized advice
   for a safe and healthy pregnancy experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T05:03:23+00:00'
 author: Taylor Winters
 tags:

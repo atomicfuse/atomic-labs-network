@@ -5,7 +5,7 @@ description: >-
   burial over debt goes wrong. Jacob Elordi reacts to his character's shocking
   exit.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Sam Gray
 tags:

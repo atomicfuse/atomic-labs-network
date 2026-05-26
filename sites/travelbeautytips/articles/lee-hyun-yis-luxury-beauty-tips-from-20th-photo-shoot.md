@@ -2,7 +2,7 @@
 title: "Lee Hyun-yi’s Luxury Beauty Tips from 20th Photo Shoot"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-11-03T09:43:19+00:00"
 author: "Taylor Winters"
 tags:

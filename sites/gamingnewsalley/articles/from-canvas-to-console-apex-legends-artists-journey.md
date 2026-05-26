@@ -6,7 +6,7 @@ description: >-
   artist's journey from physical paints to digital tools emphasizes adaptability
   and innovation in the creative process.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-23T09:45:33+00:00'
 author: Taylor Winters
 tags:

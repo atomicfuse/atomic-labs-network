@@ -6,7 +6,7 @@ description: >-
   potential loopholes in financial fair play regulations and prompting
   discussions on future regulatory revisions to ensure fair competition.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T07:23:27+00:00'
 author: Taylor Winters
 tags:

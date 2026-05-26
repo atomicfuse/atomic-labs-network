@@ -6,7 +6,7 @@ description: >-
   Hawthorne, and cultural milestones like the premiere of "My Fair Lady" in
   1956.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T10:17:26+00:00'
 author: Nico Harper
 tags:

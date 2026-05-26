@@ -4,7 +4,7 @@ description: >-
   Switzerland leads U.S. News & World Report's 2026 Best Countries rankings,
   with Nordic nations dominating quality of life categories.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Sarah Rivera
 tags:

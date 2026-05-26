@@ -5,7 +5,7 @@ description: >-
   telegraphed death, while Ali's backstory provides the season's strongest
   emotional...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Andrew Gray
 tags:

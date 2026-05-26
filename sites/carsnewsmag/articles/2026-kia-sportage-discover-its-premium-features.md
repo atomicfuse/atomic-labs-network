@@ -6,7 +6,7 @@ description: >-
   innovative features, setting a new standard in the SUV segment for style,
   comfort, and performance.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T09:21:32+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   'The Retrievals' and Kim Kardashian's teen drama 'Calabasas' from
   Bridgerton...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Chloe Carter
 tags:

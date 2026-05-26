@@ -5,7 +5,7 @@ description: >-
   declines for fourth consecutive year, driven by climate disasters and
   shifting...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-13'
 author: Hannah Murphy
 tags:

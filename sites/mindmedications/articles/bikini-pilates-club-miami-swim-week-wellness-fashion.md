@@ -4,7 +4,7 @@ description: >-
   Luxury wellness event at The Gale Miami Hotel combines Pilates, swimwear, and
   beauty activations during Miami Swim Week, reflecting fashion industry's...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Nora Sanders
 tags:

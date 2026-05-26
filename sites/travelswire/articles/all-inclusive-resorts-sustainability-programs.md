@@ -4,7 +4,7 @@ description: >-
   Discover how top all-inclusive resorts are implementing meaningful
   sustainability programs beyond basic eco-friendly marketing claims.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-22'
 author: Sarah Rivera
 tags:

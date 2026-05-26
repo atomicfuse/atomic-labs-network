@@ -6,7 +6,7 @@ description: >-
   management and deepen our understanding of the biological trade-offs between
   reproduction and longevity.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T12:49:46'
 author: Taylor Winters
 tags:

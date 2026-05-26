@@ -2,7 +2,7 @@
 title: HBO's 2026 Streaming Dominance Continues as R-Rated Comedies Fail
 description: HBO maintains streaming chart dominance with The Pitt and Euphoria, while Netflix's shorter seasons struggle for longevity and R-rated comedies fail across...
 type: standard
-status: review
+status: published
 publishDate: 2026-05-24
 author: Rachel Long
 tags:

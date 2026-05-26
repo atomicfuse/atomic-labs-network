@@ -6,7 +6,7 @@ description: >-
   crucial. Local healthcare providers offer guidance on nutritious choices to
   improve physical and mental well-being.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T10:15:29+00:00'
 author: Taylor Winters
 tags:

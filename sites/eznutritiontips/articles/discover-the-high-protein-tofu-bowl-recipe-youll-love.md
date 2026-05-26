@@ -4,7 +4,7 @@ description: >-
   Explore a nutritious roasted tofu bowl recipe with coconut black rice and
   mango cole slaw, perfect for meal prep.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T08:16:13+00:00'
 author: Taylor Winters
 tags:

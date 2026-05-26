@@ -5,7 +5,7 @@ description: >-
   The Neighborhood gets surprising cancellation despite 4M viewers. Full
   breakdown...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11'
 author: Editorial Team
 tags:

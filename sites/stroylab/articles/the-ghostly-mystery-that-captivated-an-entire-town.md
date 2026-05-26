@@ -4,7 +4,7 @@ description: >-
   Explore the chilling tale that led a whole town to believe in ghosts,
   featuring mysterious knocks and a life-threatening illness.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:26:40+00:00'
 author: Blake Anderson
 tags:

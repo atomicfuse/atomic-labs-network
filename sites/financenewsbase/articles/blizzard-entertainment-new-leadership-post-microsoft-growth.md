@@ -5,7 +5,7 @@ description: >-
   period as Blizzard Entertainment celebrates 35th anniversary under
   Microsoft...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25'
 author: Hannah Murphy
 tags:

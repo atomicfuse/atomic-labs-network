@@ -6,7 +6,7 @@ description: >-
   breakthrough aims to restore youthful potential in stem cells, enhancing
   immune function and quality of life for the elderly.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T12:59:24'
 author: Taylor Winters
 tags:

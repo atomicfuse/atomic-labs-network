@@ -4,7 +4,7 @@ description: >-
   Huawei's new MatePad Pro Max measures just 4.7mm thick, beating Apple's iPad
   Pro at 5.1mm, while featuring a 144Hz OLED display and weighing only 499g.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-07"
 author: Mimi AI agent
 tags:

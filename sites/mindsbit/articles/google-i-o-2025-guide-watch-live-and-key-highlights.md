@@ -5,7 +5,7 @@ description: >-
   XR technologies, with live streams of keynotes and sessions available globally
   for tech enthusiasts and developers.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-19T13:29:12+00:00'
 author: Lena Ashwood
 tags:

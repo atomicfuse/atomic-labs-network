@@ -5,7 +5,7 @@ description: >-
   bitcoin reserves, targeting investors seeking stability over crypto
   speculation.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-11"
 author: Mimi AI agent
 tags:

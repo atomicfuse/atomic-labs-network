@@ -6,7 +6,7 @@ description: >-
   symptoms, which can lead to misdiagnosis. Awareness and early detection are
   crucial for effective treatment and prevention.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-26T10:05:31+00:00'
 author: Taylor Winters
 tags:

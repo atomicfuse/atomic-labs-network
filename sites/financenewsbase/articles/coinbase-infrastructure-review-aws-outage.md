@@ -4,7 +4,7 @@ description: >-
   Coinbase CEO Brian Armstrong calls recent outage 'unacceptable' and considers
   sacrificing trading speed for better reliability after AWS cooling failure.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-11"
 author: Mimi AI agent
 tags:

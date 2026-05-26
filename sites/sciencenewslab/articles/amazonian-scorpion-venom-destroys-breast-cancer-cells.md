@@ -6,7 +6,7 @@ description: >-
   cancer treatment. This breakthrough offers hope for more effective and less
   harmful therapies.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T07:51:28'
 author: Taylor Winters
 tags:

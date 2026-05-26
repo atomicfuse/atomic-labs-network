@@ -7,7 +7,7 @@ description: >-
   advancements, showcasing the power of creativity and resilience in shaping
   society.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T08:35:25+00:00'
 author: Nico Harper
 tags:

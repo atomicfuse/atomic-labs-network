@@ -6,7 +6,7 @@ description: >-
   reassuring healthcare providers and patients about their safety in long-term
   treatments.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T09:17:26+00:00'
 author: Taylor Winters
 tags:

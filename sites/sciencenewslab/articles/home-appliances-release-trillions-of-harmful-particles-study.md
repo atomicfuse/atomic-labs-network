@@ -6,7 +6,7 @@ description: >-
   strategies like regular maintenance, effective ventilation, and air purifiers
   to reduce exposure to these potentially harmful emissions.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T12:47:24'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   Brown's Chicken Massacre to the enigmatic disappearance of Rebecca Coriam and
   other baffling unsolved mysteries of 2025.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:33:09+00:00'
 author: Blake Anderson
 tags:

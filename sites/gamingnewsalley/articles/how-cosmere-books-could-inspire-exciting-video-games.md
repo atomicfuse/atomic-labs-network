@@ -6,7 +6,7 @@ description: >-
   magic of his novels, allowing players to explore complex worlds and magic
   systems within an open-world setting.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T04:25:31+00:00'
 author: Taylor Winters
 tags:

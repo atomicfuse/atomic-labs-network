@@ -6,7 +6,7 @@ description: >-
   dominance of digital consumption, with platforms like Xbox Game Pass and
   PlayStation Plus leading the change.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T09:43:22+00:00'
 author: Taylor Winters
 tags:

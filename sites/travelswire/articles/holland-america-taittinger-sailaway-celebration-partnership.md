@@ -5,7 +5,7 @@ description: >-
   Reserve Champagne at every sailaway celebration, reviving cherished
   maritime...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Sarah Rivera
 tags:

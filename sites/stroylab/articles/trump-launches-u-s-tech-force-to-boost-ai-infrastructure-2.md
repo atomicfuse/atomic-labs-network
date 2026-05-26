@@ -6,7 +6,7 @@ description: >-
   innovation, it seeks to drive economic growth and address contemporary
   challenges, although it faces criticism over inclusivity and transparency.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:31:45+00:00'
 author: Blake Anderson
 tags:

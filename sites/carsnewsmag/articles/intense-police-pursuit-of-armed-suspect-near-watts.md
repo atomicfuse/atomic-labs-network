@@ -2,7 +2,7 @@
 title: "Intense Police Pursuit of Armed Suspect Near Watts"
 description: "An intense police chase unfolds near Watts as officers pursue a possibly armed suspect, bringing heightened tension to the area."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-05-29T04:07:21+00:00"
 author: "Taylor Winters"
 tags:

@@ -5,7 +5,7 @@ description: >-
   fun and educational driving experience with safety features like a roll cage
   and speed limiter, while teaching sustainable transportation from a young age.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T09:23:28+00:00'
 author: Taylor Winters
 tags:

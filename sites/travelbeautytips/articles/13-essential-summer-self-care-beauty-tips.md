@@ -5,7 +5,7 @@ description: >-
   cool all season long. From skincare to fashion hacks, we cover every topic to
   beat the heat in style.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T07:31:21+00:00'
 author: Taylor Winters
 tags:

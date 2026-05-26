@@ -5,7 +5,7 @@ description: >-
   and strategic gameplay as alliances shift and rivalries deepen, culminating in
   a game-changing tribal council.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-05T10:35:28+00:00'
 author: Becca Roberts
 tags:

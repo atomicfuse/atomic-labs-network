@@ -6,7 +6,7 @@ description: >-
   global reputation. A Premier League move could boost his career and American
   soccer's visibility in Europe.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-19T04:25:34+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   graphics, leaving a lasting impact on the industry despite its short
   commercial life.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T09:35:40+00:00'
 author: Taylor Winters
 tags:

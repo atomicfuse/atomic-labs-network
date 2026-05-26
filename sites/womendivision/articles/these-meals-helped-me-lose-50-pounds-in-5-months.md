@@ -4,7 +4,7 @@ description: >-
   A personal account of the meals that contributed to a 50-pound weight loss in
   5 months, with guidance on working with a fitness coach.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-14T08:36:05+00:00'
 author: admin
 tags:

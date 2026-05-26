@@ -6,7 +6,7 @@ description: >-
   insights into the asteroid's characteristics and composition, enhancing our
   understanding of the solar system's formation.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T16:11:37+00:00'
 author: Nico Harper
 tags:

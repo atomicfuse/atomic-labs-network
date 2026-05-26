@@ -4,7 +4,7 @@ description: >-
   The article body contains no actual content, only a placeholder message
   requesting source text. There is nothing substantive to clean up or publish.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18T10:11:24+00:00'
 author: Blake Anderson
 tags:

@@ -5,7 +5,7 @@ description: >-
   Egyptian structure linked to Atlantis, recently rediscovered after thousands
   of years.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:31:22+00:00'
 author: Blake Anderson
 tags:

@@ -6,7 +6,7 @@ description: >-
   impacts and exploring healthier alternatives for sustainable beauty and
   wellness.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T04:39:20+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   Cooper, and other major creators, signaling the platform's evolution from
   streaming...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-14'
 author: Daniel Parker
 tags:

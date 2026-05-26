@@ -6,7 +6,7 @@ description: >-
   measure for those who have experienced a cardiovascular event by improving
   vascular function and reducing inflammation.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T09:17:28+00:00'
 author: Taylor Winters
 tags:

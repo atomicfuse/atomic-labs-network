@@ -5,7 +5,7 @@ description: >-
   the world through their Bundle of Joy Fund before his sudden death from
   sepsis.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Ben Reed
 tags:

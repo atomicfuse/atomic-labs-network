@@ -7,7 +7,7 @@ description: >-
   digital alternative to cash, promising transformative impacts on global
   finance.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:30:20+00:00'
 author: Blake Anderson
 tags:

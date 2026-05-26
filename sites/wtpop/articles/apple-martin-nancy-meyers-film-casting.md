@@ -4,7 +4,7 @@ description: >-
   Gwyneth Paltrow's daughter Apple Martin lands role in upcoming Nancy Meyers
   movie featuring Penélope Cruz, Kieran Culkin, Jude Law, and Owen Wilson.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Rachel Long
 tags:

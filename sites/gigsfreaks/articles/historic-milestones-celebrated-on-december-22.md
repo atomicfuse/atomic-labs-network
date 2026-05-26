@@ -6,7 +6,7 @@ description: >-
   achievements. Reflecting on these moments provides insights into their lasting
   influence and the lessons they impart.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T10:55:27+00:00'
 author: Nico Harper
 tags:

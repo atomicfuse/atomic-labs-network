@@ -5,7 +5,7 @@ description: >-
   responders, military personnel, and teachers, recognizing essential workers
   with special...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-17'
 author: Sarah Rivera
 tags:

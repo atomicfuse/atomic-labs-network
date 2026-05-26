@@ -6,7 +6,7 @@ description: >-
   shift allows teams to create scoring opportunities and disrupt defensive
   setups, enhancing modern football strategies.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-03T05:35:32+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   Treaty of Guadalupe Hidalgo, highlighting the interconnectedness of human
   activities and natural phenomena.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:24:46+00:00'
 author: Nico Harper
 tags:

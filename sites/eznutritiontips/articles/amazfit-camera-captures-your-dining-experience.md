@@ -6,7 +6,7 @@ description: >-
   offers stabilization technology and AI-based food recognition, enhancing both
   lifestyle documentation and dietary analysis while prioritizing user privacy.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:25:24+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   influential return to Paris in 1942, highlighting achievements in literature,
   science, and fashion.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T10:27:37+00:00'
 author: Nico Harper
 tags:

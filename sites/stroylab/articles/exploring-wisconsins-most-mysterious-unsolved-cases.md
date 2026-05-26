@@ -4,7 +4,7 @@ description: >-
   Delve into Wisconsin's enigmatic past with five chilling unsolved cases that
   continue to baffle investigators.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:42:13+00:00'
 author: Blake Anderson
 tags:

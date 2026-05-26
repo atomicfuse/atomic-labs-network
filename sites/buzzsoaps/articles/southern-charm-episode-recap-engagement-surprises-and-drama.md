@@ -6,7 +6,7 @@ description: >-
   The episode explores fractured bonds, romantic entanglements, and social
   gatherings, setting the stage for future drama and character evolution.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:33:30+00:00'
 author: Becca Roberts
 tags:

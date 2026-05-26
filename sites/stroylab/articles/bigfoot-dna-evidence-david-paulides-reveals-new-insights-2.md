@@ -2,7 +2,7 @@
 title: "Bigfoot DNA Evidence: David Paulides Reveals New Insights"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-22T11:42:40+00:00"
 author: "Blake Anderson"
 tags:

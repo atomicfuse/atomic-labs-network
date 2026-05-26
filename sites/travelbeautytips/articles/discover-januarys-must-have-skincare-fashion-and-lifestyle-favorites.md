@@ -5,7 +5,7 @@ description: >-
   favorites this January, from skincare essentials and hair care to chic fashion
   picks and cozy home additions.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T10:48:40+00:00'
 author: Taylor Winters
 tags:

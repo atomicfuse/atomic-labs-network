@@ -6,7 +6,7 @@ description: >-
   incredible athleticism and strategic plays as teams vie for the coveted title
   in an unpredictable season.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-24T09:37:31+00:00'
 author: Taylor Winters
 tags:

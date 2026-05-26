@@ -5,7 +5,7 @@ description: >-
   with a significant role in a popular TV series, showcasing her versatility
   beyond music and marking an exciting new phase in her entertainment career.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:33:17+00:00'
 author: Becca Roberts
 tags:

@@ -6,7 +6,7 @@ description: >-
   advancements support AI and emerging technologies, shaping the future of
   storage in a rapidly evolving industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T10:31:44+00:00'
 author: Lena Ashwood
 tags:

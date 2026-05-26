@@ -6,7 +6,7 @@ description: >-
   supports local developers and impacts the global gaming landscape, fostering
   innovation and collaboration.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-24T04:25:34+00:00'
 author: Taylor Winters
 tags:

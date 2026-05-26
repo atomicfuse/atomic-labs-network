@@ -6,7 +6,7 @@ description: >-
   consumer demand and government regulations, supported by financial incentives
   and infrastructure development.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T10:37:27+00:00'
 author: Lena Ashwood
 tags:

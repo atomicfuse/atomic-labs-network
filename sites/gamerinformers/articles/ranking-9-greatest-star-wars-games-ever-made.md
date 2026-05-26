@@ -4,7 +4,7 @@ description: >-
   A comprehensive look at the absolute best Star Wars video games across
   platforms, highlighting the franchise's strongest interactive adventures.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Mia Brooks
 tags:

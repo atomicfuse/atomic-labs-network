@@ -6,7 +6,7 @@ description: >-
   in technology, culture, and civil rights through significant historical
   milestones.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T10:15:27+00:00'
 author: Nico Harper
 tags:

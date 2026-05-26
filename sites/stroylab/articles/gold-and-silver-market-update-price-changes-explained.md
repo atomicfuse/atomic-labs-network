@@ -6,7 +6,7 @@ description: >-
   developments impact international relations, trade routes, and emerging
   markets, leading to a potential shift in global power structures.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:56:49+00:00'
 author: Blake Anderson
 tags:

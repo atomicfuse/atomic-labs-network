@@ -5,7 +5,7 @@ description: >-
   VIII's abdication in 1936, the unveiling of the Concorde in 1967, Apollo 17's
   lunar landing in 1972, and IBM's Deep Blue defeating Garry Kasparov in 1997.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T10:21:27+00:00'
 author: Nico Harper
 tags:

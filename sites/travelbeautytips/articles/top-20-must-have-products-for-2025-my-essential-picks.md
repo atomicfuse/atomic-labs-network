@@ -2,7 +2,7 @@
 title: "Top 20 Must-Have Products for 2025: My Essential Picks"
 description: "Discover the top 20 must-have products for 2025, featuring essential picks across fashion, beauty, and accessories, complete with exclusive deals and shopping tips."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-01T09:41:15+00:00"
 author: "Taylor Winters"
 tags:

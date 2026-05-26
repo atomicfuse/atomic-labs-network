@@ -4,7 +4,7 @@ description: >-
   Oyster Bay Town announces registration for free 10-week Pilates in the Park
   program at Theodore Roosevelt Park starting July 11th.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Lucas Price
 tags:

@@ -4,7 +4,7 @@ description: >-
   With only one episode left, The Boys delivers a shocking character death and
   sets up the final showdown between Kimiko and Homelander in episode 7.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-20'
 author: Daniel Parker
 tags:

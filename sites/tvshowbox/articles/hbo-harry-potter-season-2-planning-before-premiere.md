@@ -4,7 +4,7 @@ description: >-
   HBO is developing Harry Potter season 2 to adapt Chamber of Secrets before
   season 1 premieres on Christmas Day, with major casting decisions ahead.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Julia Sanders
 tags:

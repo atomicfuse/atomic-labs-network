@@ -7,7 +7,7 @@ description: >-
   conversation with AJ, tracing the lesser-known story behind his memoir,
   Waiting For, and the life experiences that came before YouTube fame.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04T14:15:15+00:00'
 author: Blake Anderson
 tags:

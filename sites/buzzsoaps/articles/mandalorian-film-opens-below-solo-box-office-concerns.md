@@ -4,7 +4,7 @@ description: >-
   The Mandalorian's theatrical debut underperforms against Solo's opening,
   potentially marking the lowest-grossing Star Wars film in franchise history.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Julia Bennett
 tags:

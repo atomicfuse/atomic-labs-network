@@ -6,7 +6,7 @@ description: >-
   with results likely to significantly impact their league standing and title
   aspirations.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T09:39:25+00:00'
 author: Taylor Winters
 tags:

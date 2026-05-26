@@ -6,7 +6,7 @@ description: >-
   lineups, bringing energy and adaptability, but face challenges such as
   pressure and physical demands.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-23T09:47:30+00:00'
 author: Taylor Winters
 tags:

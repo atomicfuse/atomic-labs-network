@@ -6,7 +6,7 @@ description: >-
   backdrop. The season highlights leadership, resilience, and the balance
   between work and play, making it a standout in reality TV.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T09:21:21+00:00'
 author: Becca Roberts
 tags:

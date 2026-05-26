@@ -6,7 +6,7 @@ description: >-
   their relationship and shared history explored. The film offers insights into
   Tomlinson's life and career.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-03T06:23:29+00:00'
 author: Becca Roberts
 tags:

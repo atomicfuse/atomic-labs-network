@@ -5,7 +5,7 @@ description: >-
   California and the U.S. West Coast, examining current capabilities,
   technological limitations, and U.S. defense measures.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T09:21:16+00:00'
 author: Taylor Winters
 tags:

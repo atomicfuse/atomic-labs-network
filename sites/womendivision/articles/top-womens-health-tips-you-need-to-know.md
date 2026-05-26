@@ -6,7 +6,7 @@ description: >-
   can make informed health decisions, focusing on mental health, physical
   fitness, and nutrition for an improved quality of life.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T07:57:22+00:00'
 author: Taylor Winters
 tags:

@@ -7,7 +7,7 @@ description: >-
   technological innovation, and diplomatic engagement to navigate this evolving
   environment and ensure stability and growth.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:33:32+00:00'
 author: Blake Anderson
 tags:

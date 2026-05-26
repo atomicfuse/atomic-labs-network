@@ -4,7 +4,7 @@ description: >-
   Discover elegant fashion tips and style inspiration for women over 60,
   celebrating timeless beauty and confidence.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T09:43:22+00:00'
 author: Taylor Winters
 tags:

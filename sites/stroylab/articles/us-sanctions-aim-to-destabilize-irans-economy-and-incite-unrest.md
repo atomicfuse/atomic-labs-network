@@ -6,7 +6,7 @@ description: >-
   management, focusing on protecting high-risk groups while ensuring healthcare
   system stability.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:53:29+00:00'
 author: Blake Anderson
 tags:

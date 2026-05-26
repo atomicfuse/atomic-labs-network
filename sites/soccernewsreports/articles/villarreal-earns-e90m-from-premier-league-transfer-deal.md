@@ -6,7 +6,7 @@ description: >-
   selling talented players, positioning the club for future growth and
   competitiveness.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T04:27:24+00:00'
 author: Taylor Winters
 tags:

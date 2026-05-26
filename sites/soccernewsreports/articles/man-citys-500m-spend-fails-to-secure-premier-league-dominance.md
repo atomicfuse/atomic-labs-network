@@ -6,7 +6,7 @@ description: >-
   consistency and resilience make it a favorite for the Premier League title,
   captivating fans and analysts alike.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T09:37:33+00:00'
 author: Taylor Winters
 tags:

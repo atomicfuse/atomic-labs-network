@@ -5,7 +5,7 @@ description: >-
   skeletons, Sumerian myths, and megalithic sites worldwide, drawing on over two
   decades of research and fieldwork.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T12:21:22+00:00'
 author: Blake Anderson
 tags:

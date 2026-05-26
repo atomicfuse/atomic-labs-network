@@ -6,7 +6,7 @@ description: >-
   across areas like breast cancer, cervical health, bone density, cholesterol,
   blood pressure, diabetes, and colon cancer.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T10:43:29+00:00'
 author: Taylor Winters
 tags:

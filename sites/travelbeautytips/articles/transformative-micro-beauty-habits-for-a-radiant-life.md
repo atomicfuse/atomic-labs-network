@@ -5,7 +5,7 @@ description: >-
   and boost your confidence, from simple skincare routines to mindset practices
   that transform how you look and feel.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T09:45:23+00:00'
 author: Taylor Winters
 tags:

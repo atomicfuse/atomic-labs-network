@@ -6,7 +6,7 @@ description: >-
   the first live transatlantic TV broadcast, and the signing of the Civil Rights
   Act, inspiring progress and equality.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T10:27:20+00:00'
 author: Nico Harper
 tags:

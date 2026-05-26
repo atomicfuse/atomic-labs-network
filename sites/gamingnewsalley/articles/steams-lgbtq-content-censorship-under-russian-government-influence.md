@@ -6,7 +6,7 @@ description: >-
   policies, influenced by international laws, impact creators and highlight the
   need for inclusive, transparent regulation in gaming.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T09:37:28+00:00'
 author: Taylor Winters
 tags:

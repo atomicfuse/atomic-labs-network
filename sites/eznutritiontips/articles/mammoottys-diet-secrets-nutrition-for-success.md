@@ -6,7 +6,7 @@ description: >-
   nutritional plan includes fresh produce, lean proteins, whole grains, healthy
   fats, and emphasizes hydration and mindful eating for overall well-being.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-19T13:24:38+00:00'
 author: Taylor Winters
 tags:

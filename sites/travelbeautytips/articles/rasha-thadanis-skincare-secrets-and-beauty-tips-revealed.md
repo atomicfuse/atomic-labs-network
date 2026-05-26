@@ -6,7 +6,7 @@ description: >-
   Her minimalist approach encourages using fewer products with greater impact,
   promoting healthier, radiant skin and a confident beauty routine.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T09:45:28+00:00'
 author: Taylor Winters
 tags:

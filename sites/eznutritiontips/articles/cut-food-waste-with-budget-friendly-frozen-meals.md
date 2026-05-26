@@ -7,7 +7,7 @@ description: >-
   making them an environmentally friendly and practical solution for modern
   kitchens.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T10:15:32+00:00'
 author: Taylor Winters
 tags:

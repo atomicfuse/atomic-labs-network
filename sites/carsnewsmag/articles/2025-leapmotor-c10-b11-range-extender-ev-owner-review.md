@@ -6,7 +6,7 @@ description: >-
   range, efficient charging, and advanced safety features for eco-conscious
   drivers.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-23T09:29:21+00:00'
 author: Taylor Winters
 tags:

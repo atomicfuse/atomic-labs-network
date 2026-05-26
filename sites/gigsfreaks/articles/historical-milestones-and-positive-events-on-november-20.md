@@ -6,7 +6,7 @@ description: >-
   birth, the start of the Nuremberg Trials, The Beatles' "Revolver," and the
   launch of Windows 1.0.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T10:31:35+00:00'
 author: Nico Harper
 tags:

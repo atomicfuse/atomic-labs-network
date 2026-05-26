@@ -4,7 +4,7 @@ description: >-
   A wellness coach highlights six foods including seeds and leafy greens that
   may support hormonal health in women through nutrition-focused approaches.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Elena Gray
 tags:

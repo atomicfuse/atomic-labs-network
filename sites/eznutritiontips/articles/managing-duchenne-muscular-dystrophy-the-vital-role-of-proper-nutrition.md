@@ -6,7 +6,7 @@ description: >-
   a balanced, nutrient-rich diet with high protein intake, low sodium, healthy
   weight management, and appropriate supplementation.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-23T16:22:46+00:00'
 author: Taylor Winters
 tags:

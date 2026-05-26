@@ -6,7 +6,7 @@ description: >-
   technology, music, and literature. This date is rich with historical
   significance and cultural milestones.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T10:23:28+00:00'
 author: Nico Harper
 tags:

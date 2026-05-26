@@ -5,7 +5,7 @@ description: >-
   Texas ranchers series, and renewals for top reality franchises at
   NBCUniversal...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-18'
 author: Chloe Carter
 tags:

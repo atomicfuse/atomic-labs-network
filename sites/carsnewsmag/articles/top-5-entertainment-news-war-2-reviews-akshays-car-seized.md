@@ -6,7 +6,7 @@ description: >-
   media's growing influence continues to shape narratives and public perceptions
   in the entertainment industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:07:33+00:00'
 author: Taylor Winters
 tags:

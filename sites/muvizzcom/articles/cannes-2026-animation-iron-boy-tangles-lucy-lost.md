@@ -4,7 +4,7 @@ description: >-
   Animation takes center stage at Cannes 2026 with Iron Boy, Tangles, and Lucy
   Lost generating buzz, plus a standout new work from a Pixar veteran.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-21'
 author: Daniel Parker
 tags:

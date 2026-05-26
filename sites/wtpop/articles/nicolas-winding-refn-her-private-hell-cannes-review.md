@@ -4,7 +4,7 @@ description: >-
   Director Nicolas Winding Refn makes his comeback at Cannes with 'Her Private
   Hell,' a surreal film that prioritizes mood and visual experimentation over...
 type: review
-status: review
+status: published
 publishDate: '2026-05-19'
 author: Rachel Long
 tags:

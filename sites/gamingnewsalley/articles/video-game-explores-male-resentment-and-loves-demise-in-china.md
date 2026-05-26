@@ -6,7 +6,7 @@ description: >-
   inclusive content, while navigating stringent government regulations on
   playtime and content.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-17T04:25:36+00:00'
 author: Taylor Winters
 tags:

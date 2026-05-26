@@ -6,7 +6,7 @@ description: >-
   design, advanced powertrain, and emphasis on safety and efficiency make it a
   strong contender in the compact SUV market.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T09:23:29+00:00'
 author: Taylor Winters
 tags:

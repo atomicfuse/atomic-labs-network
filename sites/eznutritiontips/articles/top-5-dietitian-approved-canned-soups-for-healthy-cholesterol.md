@@ -6,7 +6,7 @@ description: >-
   or whole grain soups to support heart health while enjoying a nutritious and
   delicious meal.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T09:07:40+00:00'
 author: Taylor Winters
 tags:

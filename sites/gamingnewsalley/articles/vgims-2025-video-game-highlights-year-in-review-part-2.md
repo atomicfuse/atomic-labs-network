@@ -7,7 +7,7 @@ description: >-
   challenges like diversity and the chip shortage impacting console
   availability.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T09:39:25+00:00'
 author: Taylor Winters
 tags:

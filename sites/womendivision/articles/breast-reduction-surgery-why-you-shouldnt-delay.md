@@ -5,7 +5,7 @@ description: >-
   may come at a cost to your physical and mental well-being. Learn why taking
   the first step sooner rather than later is the right choice.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T10:01:30+00:00'
 author: Taylor Winters
 tags:

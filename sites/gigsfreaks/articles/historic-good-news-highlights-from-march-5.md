@@ -6,7 +6,7 @@ description: >-
   Curtain" speech, and the Beatles recording their debut album, highlighting
   significant progress and innovation across history.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-05T10:21:30+00:00'
 author: Nico Harper
 tags:

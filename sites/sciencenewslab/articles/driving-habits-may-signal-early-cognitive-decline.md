@@ -6,7 +6,7 @@ description: >-
   sensors, researchers can detect subtle shifts in driving patterns, offering a
   potential method for early intervention.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-04T12:53:36'
 author: Taylor Winters
 tags:

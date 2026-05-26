@@ -5,7 +5,7 @@ description: >-
   development costs, marketing, cash flow, publishing deals, key metrics,
   valuation, and financial planning for studios seeking sustainable growth.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-14T08:32:26+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   financial strength and unpredictable nature continue to captivate fans
   worldwide, ensuring its place as a leading football league.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T09:37:19+00:00'
 author: Taylor Winters
 tags:

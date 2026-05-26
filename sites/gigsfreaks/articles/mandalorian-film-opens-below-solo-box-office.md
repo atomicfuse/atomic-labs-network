@@ -4,7 +4,7 @@ description: >-
   The Mandalorian's theatrical debut underperformed Solo's opening weekend,
   potentially signaling franchise fatigue for Star Wars films.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Max Kim
 tags:

@@ -6,7 +6,7 @@ description: >-
   making it an ideal choice for consumers seeking innovation and sustainability
   in a modern SUV.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T09:23:18+00:00'
 author: Taylor Winters
 tags:

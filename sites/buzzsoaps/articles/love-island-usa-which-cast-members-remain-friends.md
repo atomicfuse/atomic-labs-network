@@ -6,7 +6,7 @@ description: >-
   and resilience, often outshining romantic relationships and enriching the
   overall experience for contestants and viewers alike.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T05:31:32+00:00'
 author: Becca Roberts
 tags:

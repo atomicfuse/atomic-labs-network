@@ -6,7 +6,7 @@ description: >-
   meticulously crafted exterior, sophisticated interior, and cutting-edge
   innovations that set new standards in performance and luxury.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-09T08:25:19+00:00'
 author: Taylor Winters
 tags:
