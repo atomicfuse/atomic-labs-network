@@ -22,7 +22,7 @@ source_url: >-
   https://www.forbes.com/sites/jimclash/2026/05/25/this-kyle-busch-hater-warmed-to-him-and-like-others-mourns-his-death/
 source_item_id: 6a14fea216f23264031d803c
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/kyle-busch-death-nascar-last-great-villain.webp
 quality_score: 48
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,7 @@ quality_note: >-
   which is entirely false and constitutes dangerous misinformation that would
   severely damage the site's credibility.
 reading_time: 3
+image_alt: Empty nighttime pit lane with a lone racing helmet under stadium lights
 ---
 ## NASCAR Loses Its Most Polarizing Star
 
