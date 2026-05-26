@@ -1,29 +1,33 @@
 ---
-title: "Unveiling the Mystery of St. Nicholas’ Leaking Bones"
-description: "Discover the intriguing tale of St. Nicholas' bones, which have mysteriously leaked for centuries, captivating historians and scientists alike."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:27:57+00:00"
-author: "Blake Anderson"
+title: Unveiling the Mystery of St. Nicholas’ Leaking Bones
+description: >-
+  Discover the intriguing tale of St. Nicholas' bones, which have mysteriously
+  leaked for centuries, captivating historians and scientists alike.
+type: standard
+status: review
+publishDate: '2025-12-22T11:27:57+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Deep Dives"
-  - "Mysteries"
-slug: "unveiling-the-mystery-of-st-nicholas-leaking-bones"
+  - Dark History
+  - Deep Dives
+  - Mysteries
+slug: unveiling-the-mystery-of-st-nicholas-leaking-bones
 reading_time: 2
-source_url: "https://stroylab.com/unveiling-the-mystery-of-st-nicholas-leaking-bones/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/unveiling-the-mystery-of-st-nicholas-leaking-bones/'
+imported_from: wordpress
 wp_original_id: 673
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/unveiling-the-mystery-of-st-nicholas-leaking-bones.webp
 seo:
-  canonical: "https://stroylab.com/unveiling-the-mystery-of-st-nicholas-leaking-bones/"
-  og_title: "Unveiling the Mystery of St. Nicholas’ Leaking Bones - StroyLab"
-  og_description: "Discover the intriguing tale of St. Nicholas' bones, which have mysteriously leaked for centuries, captivating historians and scientists alike."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/unveiling-the-mystery-of-st-nicholas-leaking-bones/'
+  og_title: Unveiling the Mystery of St. Nicholas’ Leaking Bones - StroyLab
+  og_description: >-
+    Discover the intriguing tale of St. Nicholas' bones, which have mysteriously
+    leaked for centuries, captivating historians and scientists alike.
+  twitter_card: summary_large_image
 videos:
-  - id: "1bc06e42"
-    url: "https://www.youtube.com/watch?v=0l4axysxghU"
-    position: "after-paragraph-2"
+  - id: 1bc06e42
+    url: 'https://www.youtube.com/watch?v=0l4axysxghU'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -31,7 +35,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but severely penalized by very short length (331 words vs 800-1200 target) and some questionable claims about the phenomenon."
+quality_note: >-
+  Strong tone and keyword relevance but severely penalized by very short length
+  (331 words vs 800-1200 target) and some questionable claims about the
+  phenomenon.
+image_alt: >-
+  Ancient reliquary in a dim crypt with amber droplets and observers in the
+  background
 ---
 
 The mysterious phenomenon surrounding the bones of St. Nicholas, known to many as Santa Claus, has puzzled historians and scientists for centuries. Reports suggest that for the last seventeen hundred years, the bones have been leaking an unknown substance, sparking curiosity and a plethora of theories about this strange occurrence.
