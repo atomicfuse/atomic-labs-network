@@ -1,24 +1,35 @@
 ---
-title: "Huawei Watch Unveils Innovative Fingertip Sensor Technology"
-description: "The Huawei Watch 5 is an innovative smartwatch designed with advanced features and a sleek appearance, offering robust performance, extensive health tracking capabilities, and impressive battery life for both tech enthusiasts and fashion-conscious users."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:10:45+00:00"
-author: "Lena Ashwood"
+title: Huawei Watch Unveils Innovative Fingertip Sensor Technology
+description: >-
+  The Huawei Watch 5 is an innovative smartwatch designed with advanced features
+  and a sleek appearance, offering robust performance, extensive health tracking
+  capabilities, and impressive battery life for both tech enthusiasts and
+  fashion-conscious users.
+type: standard
+status: review
+publishDate: '2025-05-18T11:10:45+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "huawei-watch-unveils-innovative-fingertip-sensor-technology"
+  - Tech
+slug: huawei-watch-unveils-innovative-fingertip-sensor-technology
 reading_time: 3
-source_url: "https://mindsbit.com/huawei-watch-unveils-innovative-fingertip-sensor-technology/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/huawei-watch-unveils-innovative-fingertip-sensor-technology/
+imported_from: wordpress
 wp_original_id: 361
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/huawei-watch-unveils-innovative-fingertip-sensor-technology.webp
 seo:
-  canonical: "https://mindsbit.com/huawei-watch-unveils-innovative-fingertip-sensor-technology/"
-  og_title: "Huawei Watch Unveils Innovative Fingertip Sensor Technology - Minds bit"
-  og_description: "The Huawei Watch 5 is an innovative smartwatch designed with advanced features and a sleek appearance. It offers robust performance, extensive health tracking capabilities, and impressive battery life, making it a versatile choice for both tech enthusiasts and fashion-conscious users."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-49.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/huawei-watch-unveils-innovative-fingertip-sensor-technology/
+  og_title: Huawei Watch Unveils Innovative Fingertip Sensor Technology - Minds bit
+  og_description: >-
+    The Huawei Watch 5 is an innovative smartwatch designed with advanced
+    features and a sleek appearance. It offers robust performance, extensive
+    health tracking capabilities, and impressive battery life, making it a
+    versatile choice for both tech enthusiasts and fashion-conscious users.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-49.jpeg'
+  twitter_card: summary_large_image
 quality_score: 54
 score_breakdown:
   seo_quality: 45
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "The article has good tech relevance and appropriate tone but suffers from misleading title/description about fingertip sensors, very short length at 487 words, and potential factual inaccuracies about an unverified product."
+quality_note: >-
+  The article has good tech relevance and appropriate tone but suffers from
+  misleading title/description about fingertip sensors, very short length at 487
+  words, and potential factual inaccuracies about an unverified product.
+image_alt: >-
+  Sleek unbranded smartwatch with a fingertip touching a glowing side sensor in
+  a modern studio setting.
 ---
 
 The world of wearable technology is ever-evolving, and Huawei continues to make strides with its latest innovation, the Huawei Watch 5. This smartwatch promises to enhance users' lives through advanced features and a sleek design. As consumers seek more from their devices, understanding what the Huawei Watch 5 offers becomes essential.
