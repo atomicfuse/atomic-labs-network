@@ -1,25 +1,33 @@
 ---
-title: "YouTube Launches Podcast Chart: Joe Rogan Ranks Top"
-description: "YouTube has launched a weekly podcast chart, reshaping podcast consumption and offering creators new visibility. This move underscores YouTube's commitment to the podcasting world, leveraging its massive user base to transform the podcast landscape and enhance user engagement."
-type: "standard"
-status: "published"
-publishDate: "2025-05-18T11:07:46+00:00"
-author: "Lena Ashwood"
+title: 'YouTube Launches Podcast Chart: Joe Rogan Ranks Top'
+description: >-
+  YouTube has launched a weekly podcast chart, reshaping podcast consumption and
+  offering creators new visibility. This move underscores YouTube's commitment
+  to the podcasting world, leveraging its massive user base to transform the
+  podcast landscape and enhance user engagement.
+type: standard
+status: published
+publishDate: '2025-05-18T11:07:46+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "youtube-launches-podcast-chart-joe-rogan-ranks-top"
+  - Innovation
+  - Tech
+slug: youtube-launches-podcast-chart-joe-rogan-ranks-top
 reading_time: 4
-source_url: "https://mindsbit.com/youtube-launches-podcast-chart-joe-rogan-ranks-top/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/youtube-launches-podcast-chart-joe-rogan-ranks-top/'
+imported_from: wordpress
 wp_original_id: 338
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/youtube-launches-podcast-chart-joe-rogan-ranks-top.webp
 seo:
-  canonical: "https://mindsbit.com/youtube-launches-podcast-chart-joe-rogan-ranks-top/"
-  og_title: "YouTube Launches Podcast Chart: Joe Rogan Ranks Top - Minds bit"
-  og_description: "YouTube has launched a weekly podcast chart, reshaping podcast consumption and offering creators new visibility. This move underscores YouTube's commitment to the podcasting world, leveraging its massive user base to transform the podcast landscape and enhance user engagement."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-38.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/youtube-launches-podcast-chart-joe-rogan-ranks-top/'
+  og_title: 'YouTube Launches Podcast Chart: Joe Rogan Ranks Top - Minds bit'
+  og_description: >-
+    YouTube has launched a weekly podcast chart, reshaping podcast consumption
+    and offering creators new visibility. This move underscores YouTube's
+    commitment to the podcasting world, leveraging its massive user base to
+    transform the podcast landscape and enhance user engagement.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-38.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 65
   keyword_relevance: 85
-quality_note: "Well-structured article with good keyword integration and appropriate tone, but falls short on word count and contains potentially inaccurate claims about YouTube's podcast chart launch."
+quality_note: >-
+  Well-structured article with good keyword integration and appropriate tone,
+  but falls short on word count and contains potentially inaccurate claims about
+  YouTube's podcast chart launch.
+image_alt: >-
+  Podcast microphone and tablet with abstract rising audio chart on a modern
+  studio desk
 ---
 
 YouTube has expanded its influence in the media industry by launching a new feature that is reshaping how podcasts are consumed. Aiming to capture the attention of podcast enthusiasts, YouTube has introduced a weekly podcast chart, which highlights the most popular shows on the platform. This move not only underscores YouTube's commitment to becoming a significant player in the podcasting world but also reveals the evolving landscape of digital media consumption.
