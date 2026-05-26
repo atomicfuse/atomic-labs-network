@@ -1,24 +1,34 @@
 ---
-title: "Teen Wins Taco Bell Scholarship to Pursue Medical Career"
-description: "A young woman working at Taco Bell has been awarded a $40,000 scholarship, transforming her dream of becoming a doctor into a reality. Her journey underscores the impact of perseverance and financial support in achieving educational milestones."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:15:29+00:00"
-author: "Nico Harper"
+title: Teen Wins Taco Bell Scholarship to Pursue Medical Career
+description: >-
+  A young woman working at Taco Bell has been awarded a $40,000 scholarship,
+  transforming her dream of becoming a doctor into a reality. Her journey
+  underscores the impact of perseverance and financial support in achieving
+  educational milestones.
+type: standard
+status: review
+publishDate: '2025-05-05T16:15:29+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "teen-wins-taco-bell-scholarship-to-pursue-medical-career"
+  - Good Vibes
+slug: teen-wins-taco-bell-scholarship-to-pursue-medical-career
 reading_time: 3
-source_url: "https://gigsfreaks.com/teen-wins-taco-bell-scholarship-to-pursue-medical-career/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/teen-wins-taco-bell-scholarship-to-pursue-medical-career/
+imported_from: wordpress
 wp_original_id: 885
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/teen-wins-taco-bell-scholarship-to-pursue-medical-career.webp
 seo:
-  canonical: "https://gigsfreaks.com/teen-wins-taco-bell-scholarship-to-pursue-medical-career/"
-  og_title: "Teen Wins Taco Bell Scholarship to Pursue Medical Career - GigsFreaks"
-  og_description: "A young woman working at Taco Bell has been awarded a $40,000 scholarship, transforming her dream of becoming a doctor into a reality. Her journey underscores the impact of perseverance and financial support in achieving educational milestones."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-99.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/teen-wins-taco-bell-scholarship-to-pursue-medical-career/
+  og_title: Teen Wins Taco Bell Scholarship to Pursue Medical Career - GigsFreaks
+  og_description: >-
+    A young woman working at Taco Bell has been awarded a $40,000 scholarship,
+    transforming her dream of becoming a doctor into a reality. Her journey
+    underscores the impact of perseverance and financial support in achieving
+    educational milestones.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-99.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 20
-quality_note: "Article lacks SEO optimization with generic title/description, falls short on word count, and doesn't align with entertainment-focused keyword strategy despite having an uplifting tone."
+quality_note: >-
+  Article lacks SEO optimization with generic title/description, falls short on
+  word count, and doesn't align with entertainment-focused keyword strategy
+  despite having an uplifting tone.
+image_alt: >-
+  Teen fast-food worker holding a scholarship envelope with medical study items
+  nearby
 ---
 
 A young aspirant in the medical field has recently taken a significant step toward her dream, thanks to a remarkable scholarship opportunity. This inspiring story highlights how dedication and hard work can transform aspirations into reality, as a teenager working at Taco Bell has been awarded a substantial scholarship to pursue her ambition of becoming a doctor.
