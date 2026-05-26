@@ -1,24 +1,38 @@
 ---
-title: "Lucid CEO thanks Tesla team for Gravity SUV Supercharger access"
-description: "Lucid CEO and CTO Peter Rawlinson publicly thanked the Tesla team for their collaboration in granting the Lucid Gravity SUV native access to Tesla's Supercharger network, praising the process as seamless and highly productive."
-type: "standard"
-status: "published"
-publishDate: "2025-02-01T14:48:40+00:00"
-author: "admin"
+title: Lucid CEO thanks Tesla team for Gravity SUV Supercharger access
+description: >-
+  Lucid CEO and CTO Peter Rawlinson publicly thanked the Tesla team for their
+  collaboration in granting the Lucid Gravity SUV native access to Tesla's
+  Supercharger network, praising the process as seamless and highly productive.
+type: standard
+status: published
+publishDate: '2025-02-01T14:48:40+00:00'
+author: admin
 tags:
-  - "Electric Cars"
-slug: "lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access"
+  - Electric Cars
+slug: lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access
 reading_time: 2
-source_url: "https://carsnewsmag.com/lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access/
+imported_from: wordpress
 wp_original_id: 38299
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access.webp
 seo:
-  canonical: "https://carsnewsmag.com/lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access/"
-  og_title: "Lucid CEO thanks Tesla team for Gravity SUV Supercharger access - Cars News Magazine"
-  og_description: "By Simon Alvarez Posted on January 31, 2025 While Lucid CEO and CTO Peter Rawlinson has been pretty critical of Tesla in the past, the executive does appear to be appreciative of the Lucid Gravity&#x2019;s recent access to Tesla Superchargers.&#xA0; Rawlinson shared his thoughts in a post on his LinkedIn account. Lucid Gravity Supercharger Access: [&hellip;]"
-  og_image: "https://secure.gravatar.com/avatar/d2f2ae7ba56c7a1974ce6b39f1467eca?s=50&amp;r=pg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access/
+  og_title: >-
+    Lucid CEO thanks Tesla team for Gravity SUV Supercharger access - Cars News
+    Magazine
+  og_description: >-
+    By Simon Alvarez Posted on January 31, 2025 While Lucid CEO and CTO Peter
+    Rawlinson has been pretty critical of Tesla in the past, the executive does
+    appear to be appreciative of the Lucid Gravity&#x2019;s recent access to
+    Tesla Superchargers.&#xA0; Rawlinson shared his thoughts in a post on his
+    LinkedIn account. Lucid Gravity Supercharger Access: [&hellip;]
+  og_image: >-
+    https://secure.gravatar.com/avatar/d2f2ae7ba56c7a1974ce6b39f1467eca?s=50&amp;r=pg
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +40,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong coverage of electric vehicle news with good tone and accuracy, but severely hampered by very short length at only 283 words when target is 800-1200 words."
+quality_note: >-
+  Strong coverage of electric vehicle news with good tone and accuracy, but
+  severely hampered by very short length at only 283 words when target is
+  800-1200 words.
+image_alt: >-
+  Unbranded electric SUV charging at dawn as two engineers shake hands beside a
+  modern charger
 ---
 
 While Lucid CEO and CTO Peter Rawlinson has been pretty critical of Tesla in the past, the executive does appear to be appreciative of the Lucid Gravity's recent access to Tesla Superchargers.
