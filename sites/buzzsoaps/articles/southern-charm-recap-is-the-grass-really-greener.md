@@ -1,23 +1,30 @@
 ---
-title: "Southern Charm Recap: Is the Grass Really Greener?"
-description: "In \"Southern Charm\" episode 11, the cast faces fallout from past confrontations, testing friendships and loyalty as secrets are unveiled and personal drama intertwines with the pressures of Charleston's high society."
-type: "standard"
-status: "review"
-publishDate: "2026-02-12T10:41:28+00:00"
-author: "Becca Roberts"
+title: 'Southern Charm Recap: Is the Grass Really Greener?'
+description: >-
+  In "Southern Charm" episode 11, the cast faces fallout from past
+  confrontations, testing friendships and loyalty as secrets are unveiled and
+  personal drama intertwines with the pressures of Charleston's high society.
+type: standard
+status: review
+publishDate: '2026-02-12T10:41:28+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "southern-charm-recap-is-the-grass-really-greener"
+  - Watch
+slug: southern-charm-recap-is-the-grass-really-greener
 reading_time: 3
-source_url: "https://buzzsoaps.com/southern-charm-recap-is-the-grass-really-greener/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/southern-charm-recap-is-the-grass-really-greener/'
+imported_from: wordpress
 wp_original_id: 550
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/southern-charm-recap-is-the-grass-really-greener.webp
 seo:
-  canonical: "https://buzzsoaps.com/southern-charm-recap-is-the-grass-really-greener/"
-  og_title: "Southern Charm Recap: Is the Grass Really Greener? - BuzzSoaps!"
-  og_description: "In \"Southern Charm\" episode 11, the cast faces fallout from past confrontations, testing friendships and loyalty. Secrets are unveiled, adding intrigue as personal drama and societal pressures intertwine, setting the stage for future tensions in Charleston's high society."
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/southern-charm-recap-is-the-grass-really-greener/'
+  og_title: 'Southern Charm Recap: Is the Grass Really Greener? - BuzzSoaps!'
+  og_description: >-
+    In "Southern Charm" episode 11, the cast faces fallout from past
+    confrontations, testing friendships and loyalty. Secrets are unveiled,
+    adding intrigue as personal drama and societal pressures intertwine, setting
+    the stage for future tensions in Charleston's high society.
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -25,7 +32,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Article covers relevant entertainment content with appropriate tone but falls significantly short of target word count and lacks specific detail for a recap format."
+quality_note: >-
+  Article covers relevant entertainment content with appropriate tone but falls
+  significantly short of target word count and lacks specific detail for a recap
+  format.
+image_alt: >-
+  A moody Charleston garden party table hints at secrets and social tension
+  after dark.
 ---
 
 In the latest installment of the reality TV series "Southern Charm," tension and drama continue to simmer among the cast, bringing viewers into the heart of Charleston's high-society conflicts. As friendships are tested and secrets unveiled, the show delivers another captivating episode that leaves fans eager for more.
