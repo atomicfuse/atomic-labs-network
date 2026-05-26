@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/mandalorian-film-opens-below-solo-star-wars-box-office.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   appears to be reporting on a fictional Mandalorian film that doesn't exist,
   severely compromising factual accuracy.
 reading_time: 3
+image_alt: >-
+  Solitary sci-fi traveler faces a dim, empty theater across a windswept desert
+  at dusk.
 ---
 ## Disappointing Opening Raises Franchise Questions
 
