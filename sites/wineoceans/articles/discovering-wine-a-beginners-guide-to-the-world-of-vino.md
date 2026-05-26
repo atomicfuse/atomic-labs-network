@@ -17,7 +17,7 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-discovering-wine-a-beginners-guide-to-the-world-of-vino
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/discovering-wine-a-beginners-guide-to-the-world-of-vino.webp
 reading_time: 3
 quality_score: 78
 score_breakdown:
@@ -30,6 +30,9 @@ quality_note: >-
   Well-structured beginner's guide with excellent keyword alignment but
   significantly under target word count at 549 words versus 800-1200 target
   range.
+image_alt: >-
+  Sunlit table with red, white, and rosé wine glasses, grapes, and a blank
+  notebook for wine tasting.
 ---
 ## Starting Your Wine Journey
 
