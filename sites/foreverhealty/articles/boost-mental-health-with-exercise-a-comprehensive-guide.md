@@ -1,26 +1,36 @@
 ---
-title: "Boost Mental Health with Exercise: A Comprehensive Guide"
-description: "Exercise enhances mental well-being by improving mood, self-esteem, and mental health. Regular physical activity releases endorphins, boosts neurotransmitters like serotonin, and reduces stress, leading to a more positive outlook, better sleep, and increased confidence."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T05:54:05+00:00"
-author: "Elena Hartwell"
+title: 'Boost Mental Health with Exercise: A Comprehensive Guide'
+description: >-
+  Exercise enhances mental well-being by improving mood, self-esteem, and mental
+  health. Regular physical activity releases endorphins, boosts
+  neurotransmitters like serotonin, and reduces stress, leading to a more
+  positive outlook, better sleep, and increased confidence.
+type: standard
+status: published
+publishDate: '2025-05-15T05:54:05+00:00'
+author: Elena Hartwell
 tags:
-  - "Fitness &amp; Movement"
-  - "Healthy Living Tips"
-  - "Mind &amp; Body Wellness"
-slug: "boost-mental-health-with-exercise-a-comprehensive-guide"
+  - Fitness &amp; Movement
+  - Healthy Living Tips
+  - Mind &amp; Body Wellness
+slug: boost-mental-health-with-exercise-a-comprehensive-guide
 reading_time: 4
-source_url: "https://foreverhealty.com/boost-mental-health-with-exercise-a-comprehensive-guide/"
-imported_from: "wordpress"
+source_url: >-
+  https://foreverhealty.com/boost-mental-health-with-exercise-a-comprehensive-guide/
+imported_from: wordpress
 wp_original_id: 19057
-featuredImage: "/assets/images/foreverhealty-general-article.webp"
+featuredImage: /assets/images/boost-mental-health-with-exercise-a-comprehensive-guide.webp
 seo:
-  canonical: "https://foreverhealty.com/boost-mental-health-with-exercise-a-comprehensive-guide/"
-  og_title: "Boost Mental Health with Exercise: A Comprehensive Guide - Forever Healthy"
-  og_description: "Exercise enhances mental well-being by improving mood, self-esteem, and mental health. Regular physical activity releases endorphins, boosts neurotransmitters like serotonin, and reduces stress, leading to a more positive outlook, better sleep, and increased confidence."
-  og_image: "https://foreverhealty.com/wp-content/uploads/2025/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://foreverhealty.com/boost-mental-health-with-exercise-a-comprehensive-guide/
+  og_title: 'Boost Mental Health with Exercise: A Comprehensive Guide - Forever Healthy'
+  og_description: >-
+    Exercise enhances mental well-being by improving mood, self-esteem, and
+    mental health. Regular physical activity releases endorphins, boosts
+    neurotransmitters like serotonin, and reduces stress, leading to a more
+    positive outlook, better sleep, and increased confidence.
+  og_image: 'https://foreverhealty.com/wp-content/uploads/2025/05/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent keyword coverage and engaging tone, though slightly below optimal word count and title could be more compelling."
+quality_note: >-
+  Well-written article with excellent keyword coverage and engaging tone, though
+  slightly below optimal word count and title could be more compelling.
+image_alt: >-
+  A calm jogger pauses on a sunlit park path at sunrise, suggesting exercise and
+  mental well-being.
 ---
 
 Exercise is a powerful tool for enhancing mental well-being. Embracing regular physical activity can lead to significant improvements in mood, self-esteem, and overall mental health. This article will explore the key ways exercise benefits mental health and provide practical tips to incorporate it into your daily routine.
