@@ -1,24 +1,32 @@
 ---
-title: "Historical Good News Highlights: November 13"
-description: "November 13th has witnessed pivotal events in history, from the U.S. Supreme Court's 1956 ruling against bus segregation to the 1940 discovery of Plutonium, marking significant political, scientific, cultural, and humanitarian milestones globally."
-type: "standard"
-status: "review"
-publishDate: "2025-11-13T10:42:50+00:00"
-author: "Nico Harper"
+title: 'Historical Good News Highlights: November 13'
+description: >-
+  November 13th has witnessed pivotal events in history, from the U.S. Supreme
+  Court's 1956 ruling against bus segregation to the 1940 discovery of
+  Plutonium, marking significant political, scientific, cultural, and
+  humanitarian milestones globally.
+type: standard
+status: review
+publishDate: '2025-11-13T10:42:50+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "historical-good-news-highlights-november-13"
+  - Good Vibes
+slug: historical-good-news-highlights-november-13
 reading_time: 3
-source_url: "https://gigsfreaks.com/historical-good-news-highlights-november-13/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historical-good-news-highlights-november-13/'
+imported_from: wordpress
 wp_original_id: 976
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historical-good-news-highlights-november-13.webp
 seo:
-  canonical: "https://gigsfreaks.com/historical-good-news-highlights-november-13/"
-  og_title: "Historical Good News Highlights: November 13 - GigsFreaks"
-  og_description: "November 13th has witnessed pivotal events in history, from the U.S. Supreme Court's 1956 ruling against bus segregation to the 1940 discovery of Plutonium. This date marks significant political, scientific, cultural, and humanitarian milestones globally."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historical-good-news-highlights-november-13/'
+  og_title: 'Historical Good News Highlights: November 13 - GigsFreaks'
+  og_description: >-
+    November 13th has witnessed pivotal events in history, from the U.S. Supreme
+    Court's 1956 ruling against bus segregation to the 1940 discovery of
+    Plutonium. This date marks significant political, scientific, cultural, and
+    humanitarian milestones globally.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 60
-quality_note: "The article maintains good tone and structure but falls short on length requirements and contains some factual inaccuracies, while only marginally connecting to the entertainment-focused keyword strategy."
+quality_note: >-
+  The article maintains good tone and structure but falls short on length
+  requirements and contains some factual inaccuracies, while only marginally
+  connecting to the entertainment-focused keyword strategy.
+image_alt: >-
+  Archival objects on a warm tabletop symbolize historic progress in civil
+  rights, science, and humanity.
 ---
 
 On November 13th, a series of remarkable events throughout history have shaped the world as we know it. From monumental political changes to groundbreaking scientific achievements, this day has consistently been a beacon of progress and transformation. Join us on a journey through time as we explore some of the most significant occurrences that took place on this date.
