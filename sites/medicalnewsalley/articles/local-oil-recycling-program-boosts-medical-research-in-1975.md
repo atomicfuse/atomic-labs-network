@@ -1,26 +1,41 @@
 ---
-title: "Local Oil Recycling Program Boosts Medical Research in 1975"
-description: "A local initiative repurposes used motor oil to support medical research, addressing environmental concerns and contributing to health sciences. The program reduces pollution risks and funds research for new medical technologies, exemplifying community-driven innovation for sustainability and health improvement."
-type: "standard"
-status: "review"
-publishDate: "2025-06-12T11:51:23+00:00"
-author: "Taylor Winters"
+title: Local Oil Recycling Program Boosts Medical Research in 1975
+description: >-
+  A local initiative repurposes used motor oil to support medical research,
+  addressing environmental concerns and contributing to health sciences. The
+  program reduces pollution risks and funds research for new medical
+  technologies, exemplifying community-driven innovation for sustainability and
+  health improvement.
+type: standard
+status: review
+publishDate: '2025-06-12T11:51:23+00:00'
+author: Taylor Winters
 tags:
-  - "Medical Research"
-  - "Clinical Trials &amp; Research"
-  - "News"
-slug: "local-oil-recycling-program-boosts-medical-research-in-1975"
+  - Medical Research
+  - Clinical Trials &amp; Research
+  - News
+slug: local-oil-recycling-program-boosts-medical-research-in-1975
 reading_time: 3
-source_url: "https://medicalnewsalley.com/local-oil-recycling-program-boosts-medical-research-in-1975/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/local-oil-recycling-program-boosts-medical-research-in-1975/
+imported_from: wordpress
 wp_original_id: 32455
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/local-oil-recycling-program-boosts-medical-research-in-1975.webp
 seo:
-  canonical: "https://medicalnewsalley.com/local-oil-recycling-program-boosts-medical-research-in-1975/"
-  og_title: "Local Oil Recycling Program Boosts Medical Research in 1975 - Medical News Alley"
-  og_description: "A local initiative repurposes used motor oil to support medical research, addressing environmental concerns and contributing to health sciences. The program reduces pollution risks and funds research for new medical technologies, exemplifying community-driven innovation for sustainability and health improvement."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/local-oil-recycling-program-boosts-medical-research-in-1975/
+  og_title: >-
+    Local Oil Recycling Program Boosts Medical Research in 1975 - Medical News
+    Alley
+  og_description: >-
+    A local initiative repurposes used motor oil to support medical research,
+    addressing environmental concerns and contributing to health sciences. The
+    program reduces pollution risks and funds research for new medical
+    technologies, exemplifying community-driven innovation for sustainability
+    and health improvement.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 37
 score_breakdown:
   seo_quality: 25
@@ -28,7 +43,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 30
-quality_note: "The article is severely problematic due to its misleading 1975 title date, vague claims about oil recycling funding medical research without evidence, and poor SEO optimization with inadequate length for the target audience."
+quality_note: >-
+  The article is severely problematic due to its misleading 1975 title date,
+  vague claims about oil recycling funding medical research without evidence,
+  and poor SEO optimization with inadequate length for the target audience.
+image_alt: >-
+  Vintage workbench linking recycled motor oil containers with medical lab
+  glassware in warm light
 ---
 
 In an innovative approach to environmental sustainability and medical advancement, a local initiative is repurposing used motor oil to support vital medical research. This program not only addresses environmental concerns but also opens new avenues for health sciences. By collecting and recycling oil, the community is making strides toward a greener future while simultaneously contributing to the development of life-saving medical technologies.
