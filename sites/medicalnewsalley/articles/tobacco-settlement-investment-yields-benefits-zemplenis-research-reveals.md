@@ -1,27 +1,42 @@
 ---
-title: "Tobacco Settlement Investment Yields Benefits, Zempleni’s Research Reveals"
-description: "The University of Nebraska–Lincoln's investment from tobacco settlement funds has fueled groundbreaking medical research, particularly in dietary components affecting genetic regulation, positioning Nebraska as a leader in health research and demonstrating the transformative potential of strategic funding in science and public health."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:29:34+00:00"
-author: "Taylor Winters"
+title: 'Tobacco Settlement Investment Yields Benefits, Zempleni’s Research Reveals'
+description: >-
+  The University of Nebraska–Lincoln's investment from tobacco settlement funds
+  has fueled groundbreaking medical research, particularly in dietary components
+  affecting genetic regulation, positioning Nebraska as a leader in health
+  research and demonstrating the transformative potential of strategic funding
+  in science and public health.
+type: standard
+status: published
+publishDate: '2026-01-26T09:29:34+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Clinical Trials &amp; Research"
-  - "Health, Fitness &amp; Food"
-  - "News"
-slug: "tobacco-settlement-investment-yields-benefits-zemplenis-research-reveals"
+  - Health News
+  - Clinical Trials &amp; Research
+  - 'Health, Fitness &amp; Food'
+  - News
+slug: tobacco-settlement-investment-yields-benefits-zemplenis-research-reveals
 reading_time: 3
-source_url: "https://medicalnewsalley.com/tobacco-settlement-investment-yields-benefits-zemplenis-research-reveals/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/tobacco-settlement-investment-yields-benefits-zemplenis-research-reveals/
+imported_from: wordpress
 wp_original_id: 32557
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/tobacco-settlement-investment-yields-benefits-zemplenis-research-reveals.webp
 seo:
-  canonical: "https://medicalnewsalley.com/tobacco-settlement-investment-yields-benefits-zemplenis-research-reveals/"
-  og_title: "Tobacco Settlement Investment Yields Benefits, Zempleni's Research Reveals - Medical News Alley"
-  og_description: "The University of Nebraska–Lincoln's investment from tobacco settlement funds has fueled groundbreaking medical research, particularly in dietary components affecting genetic regulation, positioning Nebraska as a leader in health research and demonstrating the transformative potential of strategic funding in science and public health."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/tobacco-settlement-investment-yields-benefits-zemplenis-research-reveals/
+  og_title: >-
+    Tobacco Settlement Investment Yields Benefits, Zempleni's Research Reveals -
+    Medical News Alley
+  og_description: >-
+    The University of Nebraska–Lincoln's investment from tobacco settlement
+    funds has fueled groundbreaking medical research, particularly in dietary
+    components affecting genetic regulation, positioning Nebraska as a leader in
+    health research and demonstrating the transformative potential of strategic
+    funding in science and public health.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -29,7 +44,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with appropriate tone and strong factual basis, but significantly below target word count at 465 words, impacting overall content depth and SEO potential."
+quality_note: >-
+  Well-written article with appropriate tone and strong factual basis, but
+  significantly below target word count at 465 words, impacting overall content
+  depth and SEO potential.
+image_alt: >-
+  Researchers study nutrient compounds in a modern lab with subtle DNA-shaped
+  light patterns.
 ---
 
 The University of Nebraska–Lincoln has recently highlighted the significant outcomes of an investment made by the Nebraska Legislature from the national tobacco settlement funds. This strategic investment has fueled groundbreaking research initiatives, delivering promising results in the field of medicine and human health.
