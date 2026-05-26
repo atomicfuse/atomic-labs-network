@@ -1,24 +1,36 @@
 ---
-title: "Trump Unveils New Health Care Records System for Consumers"
-description: "The U.S. is modernizing health records to streamline storage and access, enhancing care quality by providing quick access to comprehensive patient data. The new system uses cloud computing and encryption, reducing administrative burdens and improving communication between healthcare facilities."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T12:35:50+00:00"
-author: "Priscilla Cruz"
+title: Trump Unveils New Health Care Records System for Consumers
+description: >-
+  The U.S. is modernizing health records to streamline storage and access,
+  enhancing care quality by providing quick access to comprehensive patient
+  data. The new system uses cloud computing and encryption, reducing
+  administrative burdens and improving communication between healthcare
+  facilities.
+type: standard
+status: review
+publishDate: '2025-07-31T12:35:50+00:00'
+author: Priscilla Cruz
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "trump-unveils-new-health-care-records-system-for-consumers"
+  - Celebrities
+  - TV &amp; Movies
+slug: trump-unveils-new-health-care-records-system-for-consumers
 reading_time: 3
-source_url: "https://rumorumor.com/trump-unveils-new-health-care-records-system-for-consumers/"
-imported_from: "wordpress"
+source_url: >-
+  https://rumorumor.com/trump-unveils-new-health-care-records-system-for-consumers/
+imported_from: wordpress
 wp_original_id: 519
-featuredImage: "/assets/images/rumorumor-general-article.webp"
+featuredImage: /assets/images/trump-unveils-new-health-care-records-system-for-consumers.webp
 seo:
-  canonical: "https://rumorumor.com/trump-unveils-new-health-care-records-system-for-consumers/"
-  og_title: "Trump Unveils New Health Care Records System for Consumers - Rumor Rumor"
-  og_description: "The U.S. is modernizing health records to streamline storage and access, enhancing care quality by providing quick access to comprehensive patient data. The new system uses cloud computing and encryption, reducing administrative burdens and improving communication between healthcare facilities."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://rumorumor.com/trump-unveils-new-health-care-records-system-for-consumers/
+  og_title: Trump Unveils New Health Care Records System for Consumers - Rumor Rumor
+  og_description: >-
+    The U.S. is modernizing health records to streamline storage and access,
+    enhancing care quality by providing quick access to comprehensive patient
+    data. The new system uses cloud computing and encryption, reducing
+    administrative burdens and improving communication between healthcare
+    facilities.
+  twitter_card: summary_large_image
 quality_score: 36
 score_breakdown:
   seo_quality: 25
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 5
-quality_note: "Article completely misaligns with rumorumor's entertainment focus, covering healthcare policy instead of celebrities/entertainment, despite having entertainment tags."
+quality_note: >-
+  Article completely misaligns with rumorumor's entertainment focus, covering
+  healthcare policy instead of celebrities/entertainment, despite having
+  entertainment tags.
+image_alt: >-
+  Silhouetted doctor and patient beyond glowing digital records in a modern
+  hospital corridor
 ---
 
 The landscape of healthcare information technology is undergoing significant changes with the introduction of a new policy aimed at modernizing health records management in the United States. This initiative is designed to streamline the way medical records are stored and accessed, offering both healthcare providers and patients a more efficient system.
