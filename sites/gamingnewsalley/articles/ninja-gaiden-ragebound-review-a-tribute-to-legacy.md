@@ -1,25 +1,34 @@
 ---
-title: "Ninja Gaiden: Ragebound Review – A Tribute to Legacy"
-description: "Ninja Gaiden: Ragebound offers a fresh adventure with intense action and strategic gameplay, challenging players through diverse enemies and intricate levels. Its dynamic combat system and thoughtful design ensure an exhilarating experience for newcomers and veterans."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T04:31:33+00:00"
-author: "Taylor Winters"
+title: 'Ninja Gaiden: Ragebound Review – A Tribute to Legacy'
+description: >-
+  Ninja Gaiden: Ragebound offers a fresh adventure with intense action and
+  strategic gameplay, challenging players through diverse enemies and intricate
+  levels. Its dynamic combat system and thoughtful design ensure an exhilarating
+  experience for newcomers and veterans.
+type: standard
+status: review
+publishDate: '2025-07-31T04:31:33+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "ninja-gaiden-ragebound-review-a-tribute-to-legacy"
+  - Gaming News
+  - Community
+slug: ninja-gaiden-ragebound-review-a-tribute-to-legacy
 reading_time: 3
-source_url: "https://gamingnewsalley.com/ninja-gaiden-ragebound-review-a-tribute-to-legacy/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/ninja-gaiden-ragebound-review-a-tribute-to-legacy/'
+imported_from: wordpress
 wp_original_id: 42507
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/ninja-gaiden-ragebound-review-a-tribute-to-legacy.webp
 seo:
-  canonical: "https://gamingnewsalley.com/ninja-gaiden-ragebound-review-a-tribute-to-legacy/"
-  og_title: "Ninja Gaiden: Ragebound Review - A Tribute to Legacy - Gaming News Alley"
-  og_description: "Ninja Gaiden: Ragebound offers a fresh adventure with intense action and strategic gameplay, challenging players through diverse enemies and intricate levels. Its dynamic combat system and thoughtful design ensure an exhilarating experience for newcomers and veterans."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/07/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/ninja-gaiden-ragebound-review-a-tribute-to-legacy/
+  og_title: 'Ninja Gaiden: Ragebound Review - A Tribute to Legacy - Gaming News Alley'
+  og_description: >-
+    Ninja Gaiden: Ragebound offers a fresh adventure with intense action and
+    strategic gameplay, challenging players through diverse enemies and
+    intricate levels. Its dynamic combat system and thoughtful design ensure an
+    exhilarating experience for newcomers and veterans.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/07/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance for gaming content, but severely penalized for being too short and potentially reviewing a non-existent game without disclaimer."
+quality_note: >-
+  Strong tone and keyword relevance for gaming content, but severely penalized
+  for being too short and potentially reviewing a non-existent game without
+  disclaimer.
+image_alt: >-
+  Masked warrior on a stormy rooftop facing shadowy foes under dramatic night
+  lighting.
 ---
 
 Ninja Gaiden: Ragebound offers a fresh adventure in the iconic series, blending intense action with strategic gameplay. This installment challenges players with a variety of enemies and intricate levels, ensuring a thrilling experience for both newcomers and veterans alike.
