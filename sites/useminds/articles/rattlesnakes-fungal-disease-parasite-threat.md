@@ -20,7 +20,7 @@ source_url: >-
   https://phys.org/news/2026-05-rattlesnakes-vulnerable-fungal-disease-parasitic.html
 source_item_id: 6a152d8216f23264031d81af
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/rattlesnakes-fungal-disease-parasite-threat.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   count and could better integrate site-specific keywords for optimal SEO
   performance.
 reading_time: 3
+image_alt: >-
+  Rattlesnake resting in shadowed forest leaf litter with soft light emphasizing
+  its scales and eye.
 ---
 ## Disease: The Hidden Enemy of Snake Populations
 
