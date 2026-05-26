@@ -1,29 +1,34 @@
 ---
-title: "Fashion Trends and Style Tips for Women Over 50"
-description: "Explore the latest fashion trends and style secrets for women over 50 to enhance your wardrobe and confidence."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T09:43:23+00:00"
-author: "Taylor Winters"
+title: Fashion Trends and Style Tips for Women Over 50
+description: >-
+  Explore the latest fashion trends and style secrets for women over 50 to
+  enhance your wardrobe and confidence.
+type: standard
+status: review
+publishDate: '2026-01-29T09:43:23+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Fashion"
-slug: "fashion-trends-and-style-tips-for-women-over-50"
+  - Travel Tips
+  - Beauty
+  - Fashion
+slug: fashion-trends-and-style-tips-for-women-over-50
 reading_time: 2
-source_url: "https://travelbeautytips.com/fashion-trends-and-style-tips-for-women-over-50/"
-imported_from: "wordpress"
+source_url: 'https://travelbeautytips.com/fashion-trends-and-style-tips-for-women-over-50/'
+imported_from: wordpress
 wp_original_id: 36129
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/fashion-trends-and-style-tips-for-women-over-50.webp
 seo:
-  canonical: "https://travelbeautytips.com/fashion-trends-and-style-tips-for-women-over-50/"
-  og_title: "Fashion Trends and Style Tips for Women Over 50 - Travel Beauty Tips"
-  og_description: "Explore the latest fashion trends and style secrets for women over 50 to enhance your wardrobe and confidence."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/fashion-trends-and-style-tips-for-women-over-50/
+  og_title: Fashion Trends and Style Tips for Women Over 50 - Travel Beauty Tips
+  og_description: >-
+    Explore the latest fashion trends and style secrets for women over 50 to
+    enhance your wardrobe and confidence.
+  twitter_card: summary_large_image
 videos:
-  - id: "7cd00dcb"
-    url: "https://www.youtube.com/watch?v=8pvlIcJUCEU"
-    position: "after-paragraph-2"
+  - id: 7cd00dcb
+    url: 'https://www.youtube.com/watch?v=8pvlIcJUCEU'
+    position: after-paragraph-2
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -31,7 +36,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 95
   keyword_relevance: 60
-quality_note: "Well-written fashion content with appropriate tone but significantly under target word count and limited coverage of site's core travel and beauty focus areas."
+quality_note: >-
+  Well-written fashion content with appropriate tone but significantly under
+  target word count and limited coverage of site's core travel and beauty focus
+  areas.
+image_alt: >-
+  Stylish women over 50 walking confidently in elegant modern outfits on a
+  sunlit city street.
 ---
 
 As women gracefully enter their fifties, fashion becomes a powerful tool for expressing individuality and celebrating beauty. The latest fashion trends for women over 50 emphasize elegance, comfort, and a dash of modern flair. This guide unravels style secrets that ensure you step out with confidence and poise.
