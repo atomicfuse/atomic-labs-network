@@ -1,24 +1,33 @@
 ---
-title: "Best Cafés Near Paris Fashion Week"
-description: "Style Not Com highlights the future of digital fashion, where curated discovery, visual storytelling, personalization, and smarter shopping tools help users move from inspiration to confident wardrobe choices."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:44:17+00:00"
-author: "Taylor Winters"
+title: Best Cafés Near Paris Fashion Week
+description: >-
+  Style Not Com highlights the future of digital fashion, where curated
+  discovery, visual storytelling, personalization, and smarter shopping tools
+  help users move from inspiration to confident wardrobe choices.
+type: standard
+status: published
+publishDate: '2026-05-14T08:44:17+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "best-cafes-near-paris-fashion-week"
+  - Fashion
+slug: best-cafes-near-paris-fashion-week
 reading_time: 7
-source_url: "https://fashionnewsbee.com/best-cafes-near-paris-fashion-week/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/best-cafes-near-paris-fashion-week/'
+imported_from: wordpress
 wp_original_id: 31668
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/best-cafes-near-paris-fashion-week.webp
 seo:
-  canonical: "https://fashionnewsbee.com/best-cafes-near-paris-fashion-week/"
-  og_title: "Best Cafés Near Paris Fashion Week - Fashion News Bee"
-  og_description: "Style Not Com highlights the future of digital fashion, where curated discovery, visual storytelling, personalization, and smarter shopping tools help users move from inspiration to confident wardrobe choices."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/best-cafes-near-paris-fashion-week/'
+  og_title: Best Cafés Near Paris Fashion Week - Fashion News Bee
+  og_description: >-
+    Style Not Com highlights the future of digital fashion, where curated
+    discovery, visual storytelling, personalization, and smarter shopping tools
+    help users move from inspiration to confident wardrobe choices.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file.html'
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish Paris café scene with espresso, fashion accessories, and subtle
+  digital design elements
 ---
 
 Style Not Com reflects a growing shift in digital fashion: shoppers want inspiration, guidance, and product discovery in one seamless experience. Instead of treating online style as a simple catalog, the platform points toward a more curated way to explore clothing, outfits, and trends through a modern digital lens.
