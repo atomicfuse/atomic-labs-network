@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://techxplore.com/news/2026-05-biofuels-havent-panned-algae-diesel.html'
 source_item_id: 6a152d8216f23264031d81b4
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/algae-biofuels-australia-clean-diesel-aviation-fuel.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length and could benefit from more specific data and better SEO
   optimization.
 reading_time: 3
+image_alt: >-
+  Glowing green algae bioreactor overlooking an Australian landscape with
+  distant transport silhouettes
 ---
 ## Australia's Fuel Security Challenge
 
