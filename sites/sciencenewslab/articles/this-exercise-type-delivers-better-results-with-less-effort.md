@@ -1,22 +1,28 @@
 ---
-title: "This Exercise Type Delivers Better Results With Less Effort"
-description: "Eccentric exercise focuses on the controlled lowering phase of movement, helping build strength, muscle, balance, and mobility with fewer repetitions when practiced safely and consistently."
-type: "standard"
-status: "review"
-publishDate: "2026-05-04T11:46:24"
-author: "Taylor Winters"
+title: This Exercise Type Delivers Better Results With Less Effort
+description: >-
+  Eccentric exercise focuses on the controlled lowering phase of movement,
+  helping build strength, muscle, balance, and mobility with fewer repetitions
+  when practiced safely and consistently.
+type: standard
+status: review
+publishDate: '2026-05-04T11:46:24'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "this-exercise-type-delivers-better-results-with-less-effort"
+  - Space
+  - Humans
+slug: this-exercise-type-delivers-better-results-with-less-effort
 reading_time: 7
-source_url: "https://www.sciencenewslab.com/this-exercise-type-delivers-better-results-with-less-effort/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/this-exercise-type-delivers-better-results-with-less-effort/
+imported_from: wordpress
 wp_original_id: 15099
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/this-exercise-type-delivers-better-results-with-less-effort.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/this-exercise-type-delivers-better-results-with-less-effort/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/this-exercise-type-delivers-better-results-with-less-effort/
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -24,7 +30,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 20
-quality_note: "Well-written fitness article with good length and tone, but completely misaligned with the site's science focus areas and keyword relevance is poor."
+quality_note: >-
+  Well-written fitness article with good length and tone, but completely
+  misaligned with the site's science focus areas and keyword relevance is poor.
+image_alt: >-
+  Athlete slowly lowers into a controlled single-leg squat in a bright fitness
+  studio.
 ---
 
 If your workouts feel too long, the answer may not be doing more. It may be changing how you move. Eccentric exercise, the controlled lowering phase of a movement, is gaining attention for building strength and muscle with less total effort. This training style uses the part of an exercise many people rush through, yet it can deliver impressive results when performed with focus and control.
