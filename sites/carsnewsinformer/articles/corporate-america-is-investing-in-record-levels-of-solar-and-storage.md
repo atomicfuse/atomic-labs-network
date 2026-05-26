@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-corporate-america-is-investing-in-record-levels-of-solar-and-storage
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/corporate-america-is-investing-in-record-levels-of-solar-and-storage.webp
 reading_time: 3
 quality_score: 53
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Article is off-topic for an automotive site, lacks proper SEO optimization,
   and is too short for target length despite decent tone and factual
   presentation.
+image_alt: >-
+  Electric vehicle near solar panels and battery storage at a modern corporate
+  campus at sunrise
 ---
 ## Corporate Investment Surge in Renewable Energy
 
