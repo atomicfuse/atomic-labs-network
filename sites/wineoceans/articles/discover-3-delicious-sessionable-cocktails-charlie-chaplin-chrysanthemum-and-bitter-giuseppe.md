@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-discover-3-delicious-sessionable-cocktails-charlie-chaplin-chrysanthemum-and-bitter-giuseppe
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/discover-3-delicious-sessionable-cocktails-charlie-chaplin-chrysanthemum-and-bitter-giuseppe.webp
 reading_time: 4
 quality_score: 54
 score_breakdown:
@@ -36,6 +37,7 @@ quality_note: >-
   The article is well-structured but completely off-topic for a wine site,
   focusing on cocktails instead of wine, and contains vague content without
   specific recipes or concrete details.
+image_alt: Three elegant cocktails on a dark wood bar in warm afternoon light.
 ---
 ## Exploring Sessionable Cocktails for Modern Drinkers
 
