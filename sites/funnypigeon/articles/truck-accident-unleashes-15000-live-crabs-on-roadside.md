@@ -1,25 +1,34 @@
 ---
-title: "Truck Accident Unleashes 15,000 Live Crabs on Roadside"
-description: "A truck carrying live crabs overturned in Ireland, causing a crustacean spill near the coast. Local authorities and residents swiftly responded, ensuring public safety and relocating the crabs to their natural habitat, highlighting community spirit and marine protection efforts."
-type: "standard"
-status: "review"
-publishDate: "2026-01-15T10:45:27+00:00"
-author: "Gabe Hernandez"
+title: 'Truck Accident Unleashes 15,000 Live Crabs on Roadside'
+description: >-
+  A truck carrying live crabs overturned in Ireland, causing a crustacean spill
+  near the coast. Local authorities and residents swiftly responded, ensuring
+  public safety and relocating the crabs to their natural habitat, highlighting
+  community spirit and marine protection efforts.
+type: standard
+status: review
+publishDate: '2026-01-15T10:45:27+00:00'
+author: Gabe Hernandez
 tags:
-  - "Animals"
-  - "Odd News"
-slug: "truck-accident-unleashes-15000-live-crabs-on-roadside"
+  - Animals
+  - Odd News
+slug: truck-accident-unleashes-15000-live-crabs-on-roadside
 reading_time: 3
-source_url: "https://funnypigeon.com/truck-accident-unleashes-15000-live-crabs-on-roadside/"
-imported_from: "wordpress"
+source_url: 'https://funnypigeon.com/truck-accident-unleashes-15000-live-crabs-on-roadside/'
+imported_from: wordpress
 wp_original_id: 503
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: /assets/images/truck-accident-unleashes-15000-live-crabs-on-roadside.webp
 seo:
-  canonical: "https://funnypigeon.com/truck-accident-unleashes-15000-live-crabs-on-roadside/"
-  og_title: "Truck Accident Unleashes 15,000 Live Crabs on Roadside - Funny Pigeon"
-  og_description: "A truck carrying live crabs overturned in Ireland, causing a crustacean spill near the coast. Local authorities and residents swiftly responded, ensuring public safety and relocating the crabs to their natural habitat, highlighting community spirit and marine protection efforts."
-  og_image: "https://funnypigeon.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://funnypigeon.com/truck-accident-unleashes-15000-live-crabs-on-roadside/
+  og_title: 'Truck Accident Unleashes 15,000 Live Crabs on Roadside - Funny Pigeon'
+  og_description: >-
+    A truck carrying live crabs overturned in Ireland, causing a crustacean
+    spill near the coast. Local authorities and residents swiftly responded,
+    ensuring public safety and relocating the crabs to their natural habitat,
+    highlighting community spirit and marine protection efforts.
+  og_image: 'https://funnypigeon.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article matching site topics and tone, but significantly under target word count at 452 words versus 800-1200 range."
+quality_note: >-
+  Well-written article matching site topics and tone, but significantly under
+  target word count at 452 words versus 800-1200 range.
+image_alt: >-
+  Crabs scatter across a foggy coastal road as silhouetted residents guide them
+  toward the sea.
 ---
 
 A peculiar incident in Ireland has captured attention after a truck carrying live crabs overturned, leading to an unexpected crustacean spill. This event occurred near the scenic coastal region, where the local authorities swiftly responded to the unusual situation.
