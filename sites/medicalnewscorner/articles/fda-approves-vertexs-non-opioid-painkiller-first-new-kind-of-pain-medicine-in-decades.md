@@ -1,24 +1,41 @@
 ---
-title: "FDA approves Vertex’s non-opioid painkiller, first new kind of pain medicine in decades"
-description: "The FDA has approved Vertex Pharmaceuticals' non-opioid painkiller Journavx, marking the first new type of pain medicine approved in decades and offering an alternative to opioids without the risk of addiction."
-type: "standard"
-status: "published"
-publishDate: "2025-01-30T22:15:52+00:00"
-author: "admin"
+title: >-
+  FDA approves Vertex’s non-opioid painkiller, first new kind of pain medicine
+  in decades
+description: >-
+  The FDA has approved Vertex Pharmaceuticals' non-opioid painkiller Journavx,
+  marking the first new type of pain medicine approved in decades and offering
+  an alternative to opioids without the risk of addiction.
+type: standard
+status: published
+publishDate: '2025-01-30T22:15:52+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Health, Fitness &amp; Food"
-slug: "fda-approves-vertexs-non-opioid-painkiller-first-new-kind-of-pain-medicine-in-decades"
+  - Health News
+  - 'Health, Fitness &amp; Food'
+slug: >-
+  fda-approves-vertexs-non-opioid-painkiller-first-new-kind-of-pain-medicine-in-decades
 reading_time: 3
-source_url: "https://medicalnewscorner.com/fda-approves-vertexs-non-opioid-painkiller-first-new-kind-of-pain-medicine-in-decades/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/fda-approves-vertexs-non-opioid-painkiller-first-new-kind-of-pain-medicine-in-decades/
+imported_from: wordpress
 wp_original_id: 24443
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/fda-approves-vertexs-non-opioid-painkiller-first-new-kind-of-pain-medicine-in-decades.webp
 seo:
-  canonical: "https://medicalnewscorner.com/fda-approves-vertexs-non-opioid-painkiller-first-new-kind-of-pain-medicine-in-decades/"
-  og_title: "FDA approves Vertex’s non-opioid painkiller, first new kind of pain medicine in decades - Medical News Corner"
-  og_description: "In this article VRTX Follow your favorite stocksCREATE FREE ACCOUNT A sign hangs in front of the world headquarters of Vertex Pharmaceuticals in Boston. Brian Snyder | Reuters The Food and Drug Administration on Thursday approved Vertex Pharmaceuticals&#8216; non-opioid painkiller pill, a new alternative for pain relief that comes without the risk of addiction.&#xA0; Vertex [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/fda-approves-vertexs-non-opioid-painkiller-first-new-kind-of-pain-medicine-in-decades/
+  og_title: >-
+    FDA approves Vertex’s non-opioid painkiller, first new kind of pain medicine
+    in decades - Medical News Corner
+  og_description: >-
+    In this article VRTX Follow your favorite stocksCREATE FREE ACCOUNT A sign
+    hangs in front of the world headquarters of Vertex Pharmaceuticals in
+    Boston. Brian Snyder | Reuters The Food and Drug Administration on Thursday
+    approved Vertex Pharmaceuticals&#8216; non-opioid painkiller pill, a new
+    alternative for pain relief that comes without the risk of addiction.&#xA0;
+    Vertex [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -26,7 +43,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong health news coverage with good tone and accuracy, but article is too short at 577 words compared to the 800-1200 word target range."
+quality_note: >-
+  Strong health news coverage with good tone and accuracy, but article is too
+  short at 577 words compared to the 800-1200 word target range.
+image_alt: >-
+  Unbranded pill and stethoscope in a softly lit clinic with doctor and patient
+  blurred behind
 ---
 
 The Food and Drug Administration on Thursday approved [Vertex Pharmaceuticals](https://www.cnbc.com/quotes/VRTX/)' non-opioid [painkiller](https://news.vrtx.com/news-releases/news-release-details/vertex-announces-positive-results-vx-548-phase-3-program) pill, [a new alternative](https://www.fda.gov/news-events/press-announcements/fda-approves-novel-non-opioid-treatment-moderate-severe-acute-pain#:~:text=Journavx%20reduces%20pain%20by%20targeting,class%20of%20pain%20management%20medicines) for pain relief that comes without the risk of addiction.
