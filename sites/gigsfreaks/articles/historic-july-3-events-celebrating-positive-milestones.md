@@ -1,23 +1,34 @@
 ---
-title: "Historic July 3 Events: Celebrating Positive Milestones"
-description: "July 3rd is a day of historical significance, marked by technological breakthroughs, cultural milestones, and influential personalities. This date highlights achievements in space exploration, music, and political advancements, showcasing the power of creativity and resilience in shaping society."
-type: "standard"
-status: "review"
-publishDate: "2025-07-03T08:35:25+00:00"
-author: "Nico Harper"
+title: 'Historic July 3 Events: Celebrating Positive Milestones'
+description: >-
+  July 3rd is a day of historical significance, marked by technological
+  breakthroughs, cultural milestones, and influential personalities. This date
+  highlights achievements in space exploration, music, and political
+  advancements, showcasing the power of creativity and resilience in shaping
+  society.
+type: standard
+status: review
+publishDate: '2025-07-03T08:35:25+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "historic-july-3-events-celebrating-positive-milestones"
+  - Good Vibes
+slug: historic-july-3-events-celebrating-positive-milestones
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-july-3-events-celebrating-positive-milestones/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-july-3-events-celebrating-positive-milestones/'
+imported_from: wordpress
 wp_original_id: 939
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-july-3-events-celebrating-positive-milestones.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-july-3-events-celebrating-positive-milestones/"
-  og_title: "Historic July 3 Events: Celebrating Positive Milestones - GigsFreaks"
-  og_description: "July 3rd is a day of historical significance, marked by technological breakthroughs, cultural milestones, and influential personalities. This date highlights achievements in space exploration, music, and political advancements, showcasing the power of creativity and resilience in shaping society."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/historic-july-3-events-celebrating-positive-milestones/
+  og_title: 'Historic July 3 Events: Celebrating Positive Milestones - GigsFreaks'
+  og_description: >-
+    July 3rd is a day of historical significance, marked by technological
+    breakthroughs, cultural milestones, and influential personalities. This date
+    highlights achievements in space exploration, music, and political
+    advancements, showcasing the power of creativity and resilience in shaping
+    society.
+  twitter_card: summary_large_image
 quality_score: 37
 score_breakdown:
   seo_quality: 25
@@ -25,7 +36,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 60
-quality_note: "The article lacks specific factual details and reads more like an academic overview than engaging entertainment content suitable for the target audience."
+quality_note: >-
+  The article lacks specific factual details and reads more like an academic
+  overview than engaging entertainment content suitable for the target audience.
+image_alt: >-
+  People gather in a sunlit atrium with symbolic displays of space, music, and
+  civic progress.
 ---
 
 July 3rd marks a day of historical significance across various spheres, from technological innovations to cultural milestones. This date has witnessed remarkable occurrences that have shaped different facets of society, leaving a lasting impact on the world. As we delve into some of these key events, we uncover stories of creativity, bravery, and progress.
