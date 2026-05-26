@@ -20,7 +20,7 @@ source_url: >-
   https://www.homesandgardens.com/interior-design/the-very-british-edit-summer-styling
 source_item_id: 6a152fda16f23264031d81f9
 generated_by: claude
-featuredImage: /assets/images/decoratingtricks-general-article.webp
+featuredImage: /assets/images/british-california-design-fusion-summer-decor-trend.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   target) and relies heavily on vague 'according to reports' without specific
   sources.
 reading_time: 3
+image_alt: >-
+  Sunlit summer interior blending refined British details with relaxed
+  California indoor-outdoor style.
 ---
 ## A New Approach to Summer Decorating
 
