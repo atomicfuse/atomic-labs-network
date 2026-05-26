@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-terroir-compost-and-organic-viticulture-in-new-zealand
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/terroir-compost-and-organic-viticulture-in-new-zealand.webp
 reading_time: 2
 quality_score: 70
 score_breakdown:
@@ -32,6 +32,7 @@ score_breakdown:
 quality_note: >-
   Well-structured article on relevant wine topics with good SEO elements, but
   significantly below target word count at 397 words instead of 800-1200.
+image_alt: Compost-enriched soil beneath grapevines in a sunlit New Zealand vineyard
 ---
 ## Understanding Terroir Compost in Winemaking
 
