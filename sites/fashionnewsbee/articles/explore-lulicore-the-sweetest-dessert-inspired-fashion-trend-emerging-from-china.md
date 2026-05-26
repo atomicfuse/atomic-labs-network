@@ -1,25 +1,44 @@
 ---
-title: "Explore Lulicore: The Sweetest Dessert-Inspired Fashion Trend Emerging from China"
-description: "China's fashion scene is introducing Lulicore, a fresh, innovative trend inspired by desserts. This style disrupts the fashion world with its unique blend of pastel shades, frilly silhouettes, and delicate textures that mimic the look of delectable treats."
-type: "standard"
-status: "published"
-publishDate: "2025-04-10T07:46:37+00:00"
-author: "Taylor Winters"
+title: >-
+  Explore Lulicore: The Sweetest Dessert-Inspired Fashion Trend Emerging from
+  China
+description: >-
+  China's fashion scene is introducing Lulicore, a fresh, innovative trend
+  inspired by desserts. This style disrupts the fashion world with its unique
+  blend of pastel shades, frilly silhouettes, and delicate textures that mimic
+  the look of delectable treats.
+type: standard
+status: published
+publishDate: '2025-04-10T07:46:37+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-  - "Fashion"
-slug: "explore-lulicore-the-sweetest-dessert-inspired-fashion-trend-emerging-from-china"
+  - Culture
+  - Fashion
+slug: >-
+  explore-lulicore-the-sweetest-dessert-inspired-fashion-trend-emerging-from-china
 reading_time: 2
-source_url: "https://fashionnewsbee.com/explore-lulicore-the-sweetest-dessert-inspired-fashion-trend-emerging-from-china/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/explore-lulicore-the-sweetest-dessert-inspired-fashion-trend-emerging-from-china/
+imported_from: wordpress
 wp_original_id: 31493
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/explore-lulicore-the-sweetest-dessert-inspired-fashion-trend-emerging-from-china.webp
 seo:
-  canonical: "https://fashionnewsbee.com/explore-lulicore-the-sweetest-dessert-inspired-fashion-trend-emerging-from-china/"
-  og_title: "Explore Lulicore: The Sweetest Dessert-Inspired Fashion Trend Emerging from China - Fashion News Bee"
-  og_description: "China's fashion scene is introducing Lulicore, a fresh, innovative trend inspired by desserts. This style disrupts the fashion world with its unique blend of pastel shades, frilly silhouettes, and delicate textures that mimic the look of delectable treats."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/explore-lulicore-the-sweetest-dessert-inspired-fashion-trend-emerging-from-china/
+  og_title: >-
+    Explore Lulicore: The Sweetest Dessert-Inspired Fashion Trend Emerging from
+    China - Fashion News Bee
+  og_description: >-
+    China's fashion scene is introducing Lulicore, a fresh, innovative trend
+    inspired by desserts. This style disrupts the fashion world with its unique
+    blend of pastel shades, frilly silhouettes, and delicate textures that mimic
+    the look of delectable treats.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Model in pastel frilled fashion poses in a sleek studio with soft
+  dessert-inspired colors.
 ---
 
 China's fashion scene is shining the spotlight on a fresh, innovative trend known as Lulicore. Inspired by the allure of desserts, this style movement is disrupting the fashion industry with its unique blend of pastel shades, frilly silhouettes, and delicate textures that mimic the look and feel of delectable treats.
