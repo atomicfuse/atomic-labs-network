@@ -2,7 +2,8 @@ domain: fashionnewsbee
 site_name: fashionnewsbee
 site_tagline: null
 author: Ethan Ward
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d77416f23264031d7a59
 brief:
