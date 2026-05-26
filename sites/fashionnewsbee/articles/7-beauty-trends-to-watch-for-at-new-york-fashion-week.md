@@ -1,25 +1,38 @@
 ---
-title: "7 Beauty Trends to Watch for at New York Fashion Week"
-description: "New York Fashion Week showcased bold makeup, natural glows, and innovative hairstyles. Emphasizing sustainability and technology, the event highlighted trends like vibrant eyeshadows and minimalist nail art, paving the way for future beauty innovations."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T09:51:35+00:00"
-author: "Taylor Winters"
+title: 7 Beauty Trends to Watch for at New York Fashion Week
+description: >-
+  New York Fashion Week showcased bold makeup, natural glows, and innovative
+  hairstyles. Emphasizing sustainability and technology, the event highlighted
+  trends like vibrant eyeshadows and minimalist nail art, paving the way for
+  future beauty innovations.
+type: standard
+status: published
+publishDate: '2026-02-12T09:51:35+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-  - "Fashion"
-slug: "7-beauty-trends-to-watch-for-at-new-york-fashion-week"
+  - Beauty
+  - Fashion
+slug: 7-beauty-trends-to-watch-for-at-new-york-fashion-week
 reading_time: 3
-source_url: "https://fashionnewsbee.com/7-beauty-trends-to-watch-for-at-new-york-fashion-week/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/7-beauty-trends-to-watch-for-at-new-york-fashion-week/
+imported_from: wordpress
 wp_original_id: 31636
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/7-beauty-trends-to-watch-for-at-new-york-fashion-week.webp
 seo:
-  canonical: "https://fashionnewsbee.com/7-beauty-trends-to-watch-for-at-new-york-fashion-week/"
-  og_title: "7 Beauty Trends to Watch for at New York Fashion Week - Fashion News Bee"
-  og_description: "New York Fashion Week showcased bold makeup, natural glows, and innovative hairstyles. Emphasizing sustainability and technology, the event highlighted trends like vibrant eyeshadows and minimalist nail art, paving the way for future beauty innovations."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/02/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/7-beauty-trends-to-watch-for-at-new-york-fashion-week/
+  og_title: 7 Beauty Trends to Watch for at New York Fashion Week - Fashion News Bee
+  og_description: >-
+    New York Fashion Week showcased bold makeup, natural glows, and innovative
+    hairstyles. Emphasizing sustainability and technology, the event highlighted
+    trends like vibrant eyeshadows and minimalist nail art, paving the way for
+    future beauty innovations.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/02/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Fashion models with bold makeup, glowing skin, sculptural hair, and minimalist
+  nails in a chic backstage setting.
 ---
 
 New York Fashion Week is always a spectacle of creativity and innovation, particularly when it comes to beauty trends. Each season, designers and makeup artists collaborate to push the boundaries of beauty, setting trends that will influence the industry in the months to come. This year was no exception, with a range of daring looks and subtle transformations making their mark.
