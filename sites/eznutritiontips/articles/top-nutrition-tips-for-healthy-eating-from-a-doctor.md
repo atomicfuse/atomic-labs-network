@@ -1,25 +1,34 @@
 ---
-title: "Top Nutrition Tips for Healthy Eating from a Doctor"
-description: "Eating healthily is simple with practical strategies focusing on balance and sustainability. Prioritize whole foods, practice portion control, stay hydrated, and incorporate physical activity to enhance wellness."
-type: "standard"
-status: "published"
-publishDate: "2026-03-05T10:17:28+00:00"
-author: "Taylor Winters"
+title: Top Nutrition Tips for Healthy Eating from a Doctor
+description: >-
+  Eating healthily is simple with practical strategies focusing on balance and
+  sustainability. Prioritize whole foods, practice portion control, stay
+  hydrated, and incorporate physical activity to enhance wellness.
+type: standard
+status: published
+publishDate: '2026-03-05T10:17:28+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Tips"
-  - "Nutrition Quick Tips"
-slug: "top-nutrition-tips-for-healthy-eating-from-a-doctor"
+  - Nutrition Tips
+  - Nutrition Quick Tips
+slug: top-nutrition-tips-for-healthy-eating-from-a-doctor
 reading_time: 4
-source_url: "https://eznutritiontips.com/top-nutrition-tips-for-healthy-eating-from-a-doctor/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/top-nutrition-tips-for-healthy-eating-from-a-doctor/
+imported_from: wordpress
 wp_original_id: 19003
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-nutrition-tips-for-healthy-eating-from-a-doctor.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-nutrition-tips-for-healthy-eating-from-a-doctor/"
-  og_title: "Top Nutrition Tips for Healthy Eating from a Doctor - Easy Nutrition Tips"
-  og_description: "Eating healthily is simple with practical strategies focusing on balance and sustainability. Prioritize whole foods, practice portion control, stay hydrated, and incorporate physical activity to enhance wellness. These changes promote a balanced, nutritious lifestyle without complex dieting."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/top-nutrition-tips-for-healthy-eating-from-a-doctor/
+  og_title: Top Nutrition Tips for Healthy Eating from a Doctor - Easy Nutrition Tips
+  og_description: >-
+    Eating healthily is simple with practical strategies focusing on balance and
+    sustainability. Prioritize whole foods, practice portion control, stay
+    hydrated, and incorporate physical activity to enhance wellness. These
+    changes promote a balanced, nutritious lifestyle without complex dieting.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong topic relevance and tone but falls short on content length (609 words vs 800-1200 target) and could improve SEO optimization with better title length and meta description."
+quality_note: >-
+  Strong topic relevance and tone but falls short on content length (609 words
+  vs 800-1200 target) and could improve SEO optimization with better title
+  length and meta description.
+image_alt: Balanced healthy meal with water and whole foods on a bright kitchen table
 ---
 
 Eating healthily doesn't have to be complicated. By following straightforward nutrition strategies, individuals can enhance their wellness without the stress of complex dieting. Practical tips from nutrition experts help demystify the path to a healthier lifestyle by focusing on balance and sustainability.
