@@ -1,28 +1,42 @@
 ---
-title: "Oakland Pedestrian Crash Leaves 3 Dead and Several Injured, Witnesses Describe Tragic Scene"
-description: "A driver struck a crowd of pedestrians in Oakland on Saturday night, killing three people and injuring several others. Witnesses described the devastating moment and its aftermath."
-type: "standard"
-status: "review"
-publishDate: "2026-05-18T08:21:45+00:00"
-author: "Taylor Winters"
+title: >-
+  Oakland Pedestrian Crash Leaves 3 Dead and Several Injured, Witnesses Describe
+  Tragic Scene
+description: >-
+  A driver struck a crowd of pedestrians in Oakland on Saturday night, killing
+  three people and injuring several others. Witnesses described the devastating
+  moment and its aftermath.
+type: standard
+status: review
+publishDate: '2026-05-18T08:21:45+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Videos"
-slug: "oakland-pedestrian-crash-leaves-3-dead-and-several-injured-witnesses-describe-tragic-scene"
+  - News
+  - Videos
+slug: >-
+  oakland-pedestrian-crash-leaves-3-dead-and-several-injured-witnesses-describe-tragic-scene
 reading_time: 4
-source_url: "https://carsnewsmag.com/oakland-pedestrian-crash-leaves-3-dead-and-several-injured-witnesses-describe-tragic-scene/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/oakland-pedestrian-crash-leaves-3-dead-and-several-injured-witnesses-describe-tragic-scene/
+imported_from: wordpress
 wp_original_id: 38617
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/oakland-pedestrian-crash-leaves-3-dead-and-several-injured-witnesses-describe-tragic-scene.webp
 seo:
-  canonical: "https://carsnewsmag.com/oakland-pedestrian-crash-leaves-3-dead-and-several-injured-witnesses-describe-tragic-scene/"
-  og_title: "Oakland Pedestrian Crash Leaves 3 Dead and Several Injured, Witnesses Describe Tragic Scene - Cars News Magazine"
-  og_description: "A driver struck a crowd of pedestrians in Oakland on Saturday night, killing three people and injuring several others. Witnesses described the devastating moment and its aftermath."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/oakland-pedestrian-crash-leaves-3-dead-and-several-injured-witnesses-describe-tragic-scene/
+  og_title: >-
+    Oakland Pedestrian Crash Leaves 3 Dead and Several Injured, Witnesses
+    Describe Tragic Scene - Cars News Magazine
+  og_description: >-
+    A driver struck a crowd of pedestrians in Oakland on Saturday night, killing
+    three people and injuring several others. Witnesses described the
+    devastating moment and its aftermath.
+  twitter_card: summary_large_image
 videos:
-  - id: "b5f10cd6"
-    url: "https://www.youtube.com/watch?v=dchXAp1z7vY"
-    position: "after-paragraph-2"
+  - id: b5f10cd6
+    url: 'https://www.youtube.com/watch?v=dchXAp1z7vY'
+    position: after-paragraph-2
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -30,7 +44,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "This article covers a tragic news event with appropriate sensitivity but is completely off-topic for an automotive enthusiast website, lacks automotive context, and has poor SEO optimization for the target audience."
+quality_note: >-
+  This article covers a tragic news event with appropriate sensitivity but is
+  completely off-topic for an automotive enthusiast website, lacks automotive
+  context, and has poor SEO optimization for the target audience.
+image_alt: >-
+  Emergency lights reflect on a dark Oakland street after a tragic pedestrian
+  crash.
 ---
 
 Three people were killed and several others were injured after a driver struck a crowd of pedestrians in Oakland on Saturday night. The incident has drawn attention because of the scale of the loss, the number of people hurt, and the eyewitness accounts describing the moment the vehicle barreled into people on foot.
