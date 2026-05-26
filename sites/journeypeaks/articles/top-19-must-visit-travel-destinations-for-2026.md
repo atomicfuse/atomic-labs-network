@@ -1,24 +1,31 @@
 ---
-title: "Top 19 Must-Visit Travel Destinations for 2026"
-description: "Explore diverse travel destinations for 2026, from Milan's fashion and history to Nuuk's Arctic allure, Kyoto's cultural heritage, Buenos Aires' vibrant soul, Cape Town's natural beauty, and Vancouver's urban charm."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T09:57:33+00:00"
-author: "Taylor Winters"
+title: Top 19 Must-Visit Travel Destinations for 2026
+description: >-
+  Explore diverse travel destinations for 2026, from Milan's fashion and history
+  to Nuuk's Arctic allure, Kyoto's cultural heritage, Buenos Aires' vibrant
+  soul, Cape Town's natural beauty, and Vancouver's urban charm.
+type: standard
+status: published
+publishDate: '2025-12-11T09:57:33+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-19-must-visit-travel-destinations-for-2026"
+  - Destinations
+  - Travel
+slug: top-19-must-visit-travel-destinations-for-2026
 reading_time: 3
-source_url: "https://journeypeaks.com/top-19-must-visit-travel-destinations-for-2026/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-19-must-visit-travel-destinations-for-2026/'
+imported_from: wordpress
 wp_original_id: 38767
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-19-must-visit-travel-destinations-for-2026.webp
 seo:
-  canonical: "https://journeypeaks.com/top-19-must-visit-travel-destinations-for-2026/"
-  og_title: "Top 19 Must-Visit Travel Destinations for 2026 - Journey Peaks"
-  og_description: "Explore diverse destinations in 2026, from Milan's fashion and history to Nuuk's Arctic allure, Kyoto's cultural heritage, Buenos Aires' vibrant soul, Cape Town's natural beauty, and Vancouver's urban charm. Discover unique experiences for every travel interest."
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/top-19-must-visit-travel-destinations-for-2026/'
+  og_title: Top 19 Must-Visit Travel Destinations for 2026 - Journey Peaks
+  og_description: >-
+    Explore diverse destinations in 2026, from Milan's fashion and history to
+    Nuuk's Arctic allure, Kyoto's cultural heritage, Buenos Aires' vibrant soul,
+    Cape Town's natural beauty, and Vancouver's urban charm. Discover unique
+    experiences for every travel interest.
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 65
@@ -26,7 +33,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel content with good tone and accuracy, but significantly too short at 519 words and title promises 19 destinations while only covering 6."
+quality_note: >-
+  Well-written travel content with good tone and accuracy, but significantly too
+  short at 519 words and title promises 19 destinations while only covering 6.
+image_alt: >-
+  Traveler gazes toward a blended horizon of cities, mountains, coastlines, and
+  Arctic light.
 ---
 
 As travel enthusiasts look ahead to new adventures, 2026 promises a diverse array of destinations that cater to every kind of traveler. From vibrant cities to serene natural landscapes, the world is filled with exciting places to explore. Whether you're seeking cultural experiences, breathtaking scenery, or a mix of both, this guide highlights some of the top travel destinations to consider for your next journey.
