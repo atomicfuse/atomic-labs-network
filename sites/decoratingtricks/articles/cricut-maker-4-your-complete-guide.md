@@ -1,29 +1,38 @@
 ---
-title: "Cricut Maker 4: Your Complete Guide"
-description: "A comprehensive guide to the Cricut Maker 4, covering its features, specs, setup process, and a side-by-side speed comparison with the Cricut Maker 3 across multiple materials to help you decide if it's worth the upgrade."
-type: "standard"
-status: "review"
-publishDate: "2025-02-28T17:08:30+00:00"
-author: "Taylor Winters"
+title: 'Cricut Maker 4: Your Complete Guide'
+description: >-
+  A comprehensive guide to the Cricut Maker 4, covering its features, specs,
+  setup process, and a side-by-side speed comparison with the Cricut Maker 3
+  across multiple materials to help you decide if it's worth the upgrade.
+type: standard
+status: review
+publishDate: '2025-02-28T17:08:30+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "cricut-maker-4-your-complete-guide"
+  - Decor Ideas
+  - Design
+slug: cricut-maker-4-your-complete-guide
 reading_time: 11
-source_url: "https://decoratingtricks.com/cricut-maker-4-your-complete-guide/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/cricut-maker-4-your-complete-guide/'
+imported_from: wordpress
 wp_original_id: 21276
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/cricut-maker-4-your-complete-guide.webp
 seo:
-  canonical: "https://decoratingtricks.com/cricut-maker-4-your-complete-guide/"
-  og_title: "Cricut Maker 4: Your Complete Guide - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. I am excited to show you [&hellip;]"
-  og_image: "https://www.thecountrychiccottage.net/wp-content/uploads/2025/02/maker-4-machine-576x1024.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingtricks.com/cricut-maker-4-your-complete-guide/'
+  og_title: 'Cricut Maker 4: Your Complete Guide - Decorating Tricks'
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. I am excited to show you
+    [&hellip;]
+  og_image: >-
+    https://www.thecountrychiccottage.net/wp-content/uploads/2025/02/maker-4-machine-576x1024.png
+  twitter_card: summary_large_image
 videos:
-  - id: "3ce802c1"
-    url: "https://www.youtube.com/watch?v=6DG58nU5hGg"
-    position: "after-paragraph-8"
+  - id: 3ce802c1
+    url: 'https://www.youtube.com/watch?v=6DG58nU5hGg'
+    position: after-paragraph-8
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -31,7 +40,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 40
-quality_note: "Well-written craft machine review with good tone and accuracy, but significantly over target length and lacks home decor/design focus expected for decoratingtricks audience."
+quality_note: >-
+  Well-written craft machine review with good tone and accuracy, but
+  significantly over target length and lacks home decor/design focus expected
+  for decoratingtricks audience.
+image_alt: >-
+  Modern craft workspace with an unbranded cutting machine, colorful materials,
+  and finished DIY décor projects
 ---
 
 # Cricut Maker 4: Your Complete Guide
