@@ -1,29 +1,36 @@
 ---
-title: "Would You Brave Dangerous Waters for Half a Million Dollars?"
-description: "Explore the thrilling challenge of risking it all for a chance at $500,000 under expert supervision."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:16:21+00:00"
-author: "Nico Harper"
+title: Would You Brave Dangerous Waters for Half a Million Dollars?
+description: >-
+  Explore the thrilling challenge of risking it all for a chance at $500,000
+  under expert supervision.
+type: standard
+status: review
+publishDate: '2025-05-05T16:16:21+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-  - "Hot Trends"
-  - "LOL"
-slug: "would-you-brave-dangerous-waters-for-half-a-million-dollars"
+  - Good Vibes
+  - Hot Trends
+  - LOL
+slug: would-you-brave-dangerous-waters-for-half-a-million-dollars
 reading_time: 2
-source_url: "https://gigsfreaks.com/would-you-brave-dangerous-waters-for-half-a-million-dollars/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/would-you-brave-dangerous-waters-for-half-a-million-dollars/
+imported_from: wordpress
 wp_original_id: 889
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/would-you-brave-dangerous-waters-for-half-a-million-dollars.webp
 seo:
-  canonical: "https://gigsfreaks.com/would-you-brave-dangerous-waters-for-half-a-million-dollars/"
-  og_title: "Would You Brave Dangerous Waters for Half a Million Dollars? - GigsFreaks"
-  og_description: "Explore the thrilling challenge of risking it all for a chance at $500,000 under expert supervision."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/would-you-brave-dangerous-waters-for-half-a-million-dollars/
+  og_title: Would You Brave Dangerous Waters for Half a Million Dollars? - GigsFreaks
+  og_description: >-
+    Explore the thrilling challenge of risking it all for a chance at $500,000
+    under expert supervision.
+  twitter_card: summary_large_image
 videos:
-  - id: "d4d8cc34"
-    url: "https://www.youtube.com/watch?v=uyiG6uw-6pA"
-    position: "after-paragraph-2"
+  - id: d4d8cc34
+    url: 'https://www.youtube.com/watch?v=uyiG6uw-6pA'
+    position: after-paragraph-2
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -31,7 +38,10 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 70
   keyword_relevance: 45
-quality_note: "Article is significantly too short at 311 words and lacks proper SEO structure with weak title optimization and no clear heading hierarchy."
+quality_note: >-
+  Article is significantly too short at 311 words and lacks proper SEO structure
+  with weak title optimization and no clear heading hierarchy.
+image_alt: Contestant faces stormy waters as a safety boat waits in the distance
 ---
 
 In today's thrilling exploration, we dive into the question: Would you risk it all for a chance at $500,000? This daring challenge isn't for the faint-hearted, as it involves facing potentially dangerous situations, all under the watchful eye of professionals.
