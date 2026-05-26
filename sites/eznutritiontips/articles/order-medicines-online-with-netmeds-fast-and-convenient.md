@@ -1,24 +1,36 @@
 ---
-title: "Order Medicines Online with Netmeds: Fast and Convenient"
-description: "The article explores the critical role of nutrition in managing chronic diseases in cats, emphasizing how a balanced diet can aid in addressing conditions like diabetes, kidney disease, and obesity, highlighting the importance of collaboration with veterinarians for tailored nutrition plans."
-type: "standard"
-status: "review"
-publishDate: "2025-11-06T10:17:29+00:00"
-author: "Taylor Winters"
+title: 'Order Medicines Online with Netmeds: Fast and Convenient'
+description: >-
+  The article explores the critical role of nutrition in managing chronic
+  diseases in cats, emphasizing how a balanced diet can aid in addressing
+  conditions like diabetes, kidney disease, and obesity, highlighting the
+  importance of collaboration with veterinarians for tailored nutrition plans.
+type: standard
+status: review
+publishDate: '2025-11-06T10:17:29+00:00'
+author: Taylor Winters
 tags:
-  - "Special Diets"
-slug: "order-medicines-online-with-netmeds-fast-and-convenient"
+  - Special Diets
+slug: order-medicines-online-with-netmeds-fast-and-convenient
 reading_time: 3
-source_url: "https://eznutritiontips.com/order-medicines-online-with-netmeds-fast-and-convenient/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/order-medicines-online-with-netmeds-fast-and-convenient/
+imported_from: wordpress
 wp_original_id: 18943
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/order-medicines-online-with-netmeds-fast-and-convenient.webp
 seo:
-  canonical: "https://eznutritiontips.com/order-medicines-online-with-netmeds-fast-and-convenient/"
-  og_title: "Order Medicines Online with Netmeds: Fast and Convenient - Easy Nutrition Tips"
-  og_description: "The article explores the critical role of nutrition in managing chronic diseases in cats, emphasizing how a balanced diet can aid in addressing conditions like diabetes, kidney disease, and obesity, highlighting the importance of collaboration with veterinarians for tailored nutrition plans."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/11/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/order-medicines-online-with-netmeds-fast-and-convenient/
+  og_title: >-
+    Order Medicines Online with Netmeds: Fast and Convenient - Easy Nutrition
+    Tips
+  og_description: >-
+    The article explores the critical role of nutrition in managing chronic
+    diseases in cats, emphasizing how a balanced diet can aid in addressing
+    conditions like diabetes, kidney disease, and obesity, highlighting the
+    importance of collaboration with veterinarians for tailored nutrition plans.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/11/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 15
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "This article about cat nutrition is completely mismatched for a human food and nutrition website, with misleading title/description creating serious content relevance issues."
+quality_note: >-
+  This article about cat nutrition is completely mismatched for a human food and
+  nutrition website, with misleading title/description creating serious content
+  relevance issues.
+image_alt: >-
+  Cat beside nutritious food, medicine organizer, and a tablet for online
+  veterinary care.
 ---
 
 In recent years, the importance of feline nutrition has gained significant attention, particularly in managing multiple chronic diseases in cats. As veterinary science advances, understanding the relationship between diet and disease management becomes crucial for cat owners and veterinarians. This article delves into how a balanced diet can play a pivotal role in addressing feline comorbidities, offering insights into strategies for improving your cat's health.
