@@ -1,21 +1,28 @@
 ---
-title: "290-Million-Year-Old Reptile Reveals Oldest Fossilized Anus"
-description: "A 290-million-year-old fossilized cloaca has been discovered, providing insights into ancient reptilian anatomy and evolution. This rare find from the species Captorhinus helps scientists understand physiological functions and evolutionary lineage of early reptiles, shedding light on modern descendants."
-type: "standard"
-status: "published"
-publishDate: "2026-02-23T12:57:24"
-author: "Taylor Winters"
+title: 290-Million-Year-Old Reptile Reveals Oldest Fossilized Anus
+description: >-
+  A 290-million-year-old fossilized cloaca has been discovered, providing
+  insights into ancient reptilian anatomy and evolution. This rare find from the
+  species Captorhinus helps scientists understand physiological functions and
+  evolutionary lineage of early reptiles, shedding light on modern descendants.
+type: standard
+status: published
+publishDate: '2026-02-23T12:57:24'
+author: Taylor Winters
 tags:
-  - "Nature"
-slug: "290-million-year-old-reptile-reveals-oldest-fossilized-anus"
+  - Nature
+slug: 290-million-year-old-reptile-reveals-oldest-fossilized-anus
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/290-million-year-old-reptile-reveals-oldest-fossilized-anus/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/290-million-year-old-reptile-reveals-oldest-fossilized-anus/
+imported_from: wordpress
 wp_original_id: 15074
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/290-million-year-old-reptile-reveals-oldest-fossilized-anus.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/290-million-year-old-reptile-reveals-oldest-fossilized-anus/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/290-million-year-old-reptile-reveals-oldest-fossilized-anus/
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -23,7 +30,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with strong nature/science focus and engaging tone, but falls short on word count and contains some questionable claims about the discovery's specifics."
+quality_note: >-
+  Well-written article with strong nature/science focus and engaging tone, but
+  falls short on word count and contains some questionable claims about the
+  discovery's specifics.
+image_alt: >-
+  Ancient reptile fossil examined with paleontology tools in a softly lit
+  research lab
 ---
 
 A remarkable discovery from the depths of geological history has unveiled a fascinating glimpse into the anatomy of ancient creatures. Researchers have identified what is believed to be the oldest known fossilized cloaca, dating back approximately 290 million years. This discovery offers new insights into the evolution of reptilian anatomy and provides a unique window into the lives of these prehistoric beings.
