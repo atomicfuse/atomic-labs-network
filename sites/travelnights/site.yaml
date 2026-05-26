@@ -2,7 +2,8 @@ domain: travelnights.com
 site_name: travelnights
 site_tagline: null
 author: Marcus Long
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d7ab16f23264031d7a63
 brief:
