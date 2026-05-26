@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-tesla-autopilot-misuse-unchecked-safety-expert-reveals
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/tesla-autopilot-misuse-unchecked-safety-expert-reveals.webp
 reading_time: 2
 quality_score: 66
 score_breakdown:
@@ -35,6 +35,7 @@ quality_note: >-
   Article covers relevant automotive safety topics with good keyword integration
   but is significantly too short at 304 words and lacks specific details or
   sources to support claims.
+image_alt: Driver’s hands hover near the wheel inside a modern electric car at dusk.
 ---
 ## Safety Expert Raises Autopilot Concerns
 
