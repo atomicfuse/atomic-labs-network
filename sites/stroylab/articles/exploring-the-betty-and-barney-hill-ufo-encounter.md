@@ -1,29 +1,35 @@
 ---
-title: "Exploring the Betty and Barney Hill UFO Encounter"
-description: "Dive into the intriguing story of Betty and Barney Hill, one of the most famous UFO encounters in history. Discover the details and implications of their extraordinary experience."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T10:57:22+00:00"
-author: "Blake Anderson"
+title: Exploring the Betty and Barney Hill UFO Encounter
+description: >-
+  Dive into the intriguing story of Betty and Barney Hill, one of the most
+  famous UFO encounters in history. Discover the details and implications of
+  their extraordinary experience.
+type: standard
+status: review
+publishDate: '2026-01-26T10:57:22+00:00'
+author: Blake Anderson
 tags:
-  - "Conspiracies"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "exploring-the-betty-and-barney-hill-ufo-encounter"
+  - Conspiracies
+  - Mysteries
+  - Unsolved Cases
+slug: exploring-the-betty-and-barney-hill-ufo-encounter
 reading_time: 2
-source_url: "https://stroylab.com/exploring-the-betty-and-barney-hill-ufo-encounter/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/exploring-the-betty-and-barney-hill-ufo-encounter/'
+imported_from: wordpress
 wp_original_id: 775
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/exploring-the-betty-and-barney-hill-ufo-encounter.webp
 seo:
-  canonical: "https://stroylab.com/exploring-the-betty-and-barney-hill-ufo-encounter/"
-  og_title: "Exploring the Betty and Barney Hill UFO Encounter - StroyLab"
-  og_description: "Dive into the intriguing story of Betty and Barney Hill, one of the most famous UFO encounters in history. Discover the details and implications of their extraordinary experience."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/exploring-the-betty-and-barney-hill-ufo-encounter/'
+  og_title: Exploring the Betty and Barney Hill UFO Encounter - StroyLab
+  og_description: >-
+    Dive into the intriguing story of Betty and Barney Hill, one of the most
+    famous UFO encounters in history. Discover the details and implications of
+    their extraordinary experience.
+  twitter_card: summary_large_image
 videos:
-  - id: "93c34c90"
-    url: "https://www.youtube.com/watch?v=zV7PTjZTSYY"
-    position: "after-paragraph-2"
+  - id: 93c34c90
+    url: 'https://www.youtube.com/watch?v=zV7PTjZTSYY'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -31,7 +37,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and accuracy but severely penalized for being far too short at only 365 words versus the 800-1200 word target."
+quality_note: >-
+  Well-written article with excellent tone and accuracy but severely penalized
+  for being far too short at only 365 words versus the 800-1200 word target.
+image_alt: >-
+  A vintage car stopped on a foggy rural road under a mysterious light in the
+  night sky
 ---
 
 The story of Betty and Barney Hill remains one of the most captivating UFO encounters in history. This case, which occurred in the early 1960s, has intrigued enthusiasts and skeptics alike, sparking numerous discussions and investigations into the possibility of extraterrestrial life.
