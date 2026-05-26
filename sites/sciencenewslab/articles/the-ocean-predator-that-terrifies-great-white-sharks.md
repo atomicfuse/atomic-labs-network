@@ -1,22 +1,28 @@
 ---
-title: "The Ocean Predator That Terrifies Great White Sharks"
-description: "Orcas, known for their intelligence and social hunting strategies, are impacting great white sharks' behavior and distribution. When orcas enter an area, great white sharks often flee, showcasing the orcas' predatory skills and effect on marine ecosystems."
-type: "standard"
-status: "published"
-publishDate: "2025-11-03T12:53:30"
-author: "Taylor Winters"
+title: The Ocean Predator That Terrifies Great White Sharks
+description: >-
+  Orcas, known for their intelligence and social hunting strategies, are
+  impacting great white sharks' behavior and distribution. When orcas enter an
+  area, great white sharks often flee, showcasing the orcas' predatory skills
+  and effect on marine ecosystems.
+type: standard
+status: published
+publishDate: '2025-11-03T12:53:30'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Nature"
-slug: "the-ocean-predator-that-terrifies-great-white-sharks"
+  - Environment
+  - Nature
+slug: the-ocean-predator-that-terrifies-great-white-sharks
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/the-ocean-predator-that-terrifies-great-white-sharks/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/the-ocean-predator-that-terrifies-great-white-sharks/
+imported_from: wordpress
 wp_original_id: 15018
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/the-ocean-predator-that-terrifies-great-white-sharks.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/the-ocean-predator-that-terrifies-great-white-sharks/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/the-ocean-predator-that-terrifies-great-white-sharks/
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and accurate content, but falls short on length (603 words vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written article with good tone and accurate content, but falls short on
+  length (603 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization.
+image_alt: >-
+  An orca dominates a shadowy ocean scene as a distant great white shark turns
+  away.
 ---
 
 In the vast and mysterious world beneath the ocean's surface, where apex predators reign supreme, one creature stands out for its ability to strike fear even in the formidable great white shark. This formidable presence is none other than the orca, also known as the killer whale. Known for their intelligence and social hunting strategies, orcas have been observed in recent years to have a significant impact on the behavior and distribution of great white sharks.
