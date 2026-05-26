@@ -1,24 +1,34 @@
 ---
-title: "Stranger Things Recap: Karen’s Wine Moments Explained"
-description: "The latest \"Stranger Things\" episode captivates as Holly Wheeler's disappearance unveils a web of intrigue in Hawkins. Familiar faces like Chief Hopper and Eleven navigate clues, while Nancy Wheeler's resolve highlights her evolution amidst supernatural elements, setting the stage for future developments."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T10:37:35+00:00"
-author: "Becca Roberts"
+title: 'Stranger Things Recap: Karen’s Wine Moments Explained'
+description: >-
+  The latest "Stranger Things" episode captivates as Holly Wheeler's
+  disappearance unveils a web of intrigue in Hawkins. Familiar faces like Chief
+  Hopper and Eleven navigate clues, while Nancy Wheeler's resolve highlights her
+  evolution amidst supernatural elements, setting the stage for future
+  developments.
+type: standard
+status: review
+publishDate: '2025-11-27T10:37:35+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "stranger-things-recap-karens-wine-moments-explained"
+  - Watch
+slug: stranger-things-recap-karens-wine-moments-explained
 reading_time: 3
-source_url: "https://buzzsoaps.com/stranger-things-recap-karens-wine-moments-explained/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/stranger-things-recap-karens-wine-moments-explained/'
+imported_from: wordpress
 wp_original_id: 504
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/stranger-things-recap-karens-wine-moments-explained.webp
 seo:
-  canonical: "https://buzzsoaps.com/stranger-things-recap-karens-wine-moments-explained/"
-  og_title: "Stranger Things Recap: Karen's Wine Moments Explained - BuzzSoaps!"
-  og_description: "The latest \"Stranger Things\" episode captivates as Holly Wheeler's disappearance unveils a web of intrigue in Hawkins. Familiar faces like Chief Hopper and Eleven navigate clues, while Nancy Wheeler's resolve highlights her evolution amidst supernatural elements, setting the stage for future developments."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/11/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/stranger-things-recap-karens-wine-moments-explained/'
+  og_title: 'Stranger Things Recap: Karen''s Wine Moments Explained - BuzzSoaps!'
+  og_description: >-
+    The latest "Stranger Things" episode captivates as Holly Wheeler's
+    disappearance unveils a web of intrigue in Hawkins. Familiar faces like
+    Chief Hopper and Eleven navigate clues, while Nancy Wheeler's resolve
+    highlights her evolution amidst supernatural elements, setting the stage for
+    future developments.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/11/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "Well-written entertainment content with good tone and keyword usage, but significantly penalized for fabricating plot details about Holly Wheeler's disappearance that don't exist in Stranger Things."
+quality_note: >-
+  Well-written entertainment content with good tone and keyword usage, but
+  significantly penalized for fabricating plot details about Holly Wheeler's
+  disappearance that don't exist in Stranger Things.
+image_alt: >-
+  A dim 1980s kitchen with a wine glass, phone, scattered photos, and eerie
+  light from a hallway.
 ---
 
 The phenomenon of "Stranger Things" continues to captivate audiences as it delves deeper into the mysteries of Hawkins, Indiana. In the latest installment of the show, the tension escalates, drawing viewers into a complex web of intrigue and supernatural occurrences surrounding the young residents of this fictional town.
