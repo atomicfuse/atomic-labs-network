@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-elon-musk-exits-trump-administration-confirms-white-house-official
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/elon-musk-exits-trump-administration-confirms-white-house-official.webp
 reading_time: 2
 quality_score: 51
 score_breakdown:
@@ -34,6 +35,7 @@ quality_note: >-
   The article has major factual accuracy issues with unverified claims about
   Musk's government role, and falls far short of the target word count at only
   271 words.
+image_alt: Unbranded electric car outside a government building at dusk with an open door
 ---
 ## White House Confirms Musk's Departure
 
