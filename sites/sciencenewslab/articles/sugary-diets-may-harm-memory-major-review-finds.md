@@ -1,22 +1,28 @@
 ---
-title: "Sugary Diets May Harm Memory, Major Review Finds"
-description: "Research suggests diets high in added sugar may strain the hippocampus, disrupt insulin signaling, and fuel inflammation, potentially weakening memory over time. Cutting sugary drinks and ultra-processed snacks can support better brain health."
-type: "standard"
-status: "published"
-publishDate: "2026-05-25T11:46:09"
-author: "Taylor Winters"
+title: 'Sugary Diets May Harm Memory, Major Review Finds'
+description: >-
+  Research suggests diets high in added sugar may strain the hippocampus,
+  disrupt insulin signaling, and fuel inflammation, potentially weakening memory
+  over time. Cutting sugary drinks and ultra-processed snacks can support better
+  brain health.
+type: standard
+status: published
+publishDate: '2026-05-25T11:46:09'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "sugary-diets-may-harm-memory-major-review-finds"
+  - Space
+  - Humans
+slug: sugary-diets-may-harm-memory-major-review-finds
 reading_time: 8
-source_url: "https://www.sciencenewslab.com/sugary-diets-may-harm-memory-major-review-finds/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/sugary-diets-may-harm-memory-major-review-finds/
+imported_from: wordpress
 wp_original_id: 15113
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/sugary-diets-may-harm-memory-major-review-finds.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/sugary-diets-may-harm-memory-major-review-finds/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/sugary-diets-may-harm-memory-major-review-finds/
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 40
-quality_note: "Well-written article with good length and tone, but poorly aligned with site's focus areas of Space, Nature, Physics, Technology, and Environment - this health/nutrition topic doesn't match the science topics the site covers."
+quality_note: >-
+  Well-written article with good length and tone, but poorly aligned with site's
+  focus areas of Space, Nature, Physics, Technology, and Environment - this
+  health/nutrition topic doesn't match the science topics the site covers.
+image_alt: >-
+  Healthy foods in soft light contrast with blurred sugary snacks, suggesting
+  brain health and memory.
 ---
 
 A growing body of brain research suggests that a diet heavy in added sugar may affect more than waistlines and blood glucose. Frequent intake of sweetened drinks, desserts, and ultra-processed snacks appears linked with changes in memory, especially the kind of memory supported by the hippocampus. This does not mean one sweet treat erases your recall. It does mean that long-term eating patterns rich in sugar may create conditions that make learning, focus, and memory less resilient.
