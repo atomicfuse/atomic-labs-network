@@ -1,27 +1,33 @@
 ---
-title: "Unveiling the Alleged FBI Cover-Up of Trump’s Past"
-description: "Explore the claims surrounding Donald Trump's alleged secrets and the FBI's purported involvement in covering them up, as discussed by MeidasTouch host Ben Meiselas."
-type: "standard"
-status: "review"
-publishDate: "2025-05-19T13:26:50+00:00"
-author: "Priscilla Cruz"
+title: Unveiling the Alleged FBI Cover-Up of Trump’s Past
+description: >-
+  Explore the claims surrounding Donald Trump's alleged secrets and the FBI's
+  purported involvement in covering them up, as discussed by MeidasTouch host
+  Ben Meiselas.
+type: standard
+status: review
+publishDate: '2025-05-19T13:26:50+00:00'
+author: Priscilla Cruz
 tags:
-  - "Celebrities"
-slug: "unveiling-the-alleged-fbi-cover-up-of-trumps-past"
+  - Celebrities
+slug: unveiling-the-alleged-fbi-cover-up-of-trumps-past
 reading_time: 2
-source_url: "https://rumorumor.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/"
-imported_from: "wordpress"
+source_url: 'https://rumorumor.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/'
+imported_from: wordpress
 wp_original_id: 482
-featuredImage: "/assets/images/rumorumor-general-article.webp"
+featuredImage: /assets/images/unveiling-the-alleged-fbi-cover-up-of-trumps-past.webp
 seo:
-  canonical: "https://rumorumor.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/"
-  og_title: "Unveiling the Alleged FBI Cover-Up of Trump's Past - Rumor Rumor"
-  og_description: "Explore the claims surrounding Donald Trump's alleged secrets and the FBI's purported involvement in covering them up, as discussed by MeidasTouch host Ben Meiselas."
-  twitter_card: "summary_large_image"
+  canonical: 'https://rumorumor.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/'
+  og_title: Unveiling the Alleged FBI Cover-Up of Trump's Past - Rumor Rumor
+  og_description: >-
+    Explore the claims surrounding Donald Trump's alleged secrets and the FBI's
+    purported involvement in covering them up, as discussed by MeidasTouch host
+    Ben Meiselas.
+  twitter_card: summary_large_image
 videos:
-  - id: "763f5c65"
-    url: "https://www.youtube.com/watch?v=fdmZ6TyEyds"
-    position: "after-paragraph-2"
+  - id: 763f5c65
+    url: 'https://www.youtube.com/watch?v=fdmZ6TyEyds'
+    position: after-paragraph-2
 quality_score: 28
 score_breakdown:
   seo_quality: 25
@@ -29,7 +35,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 30
   keyword_relevance: 20
-quality_note: "This political article is completely off-topic for an entertainment site, lacks proper SEO structure, is too short, and contains vague unsubstantiated claims inappropriate for the target audience."
+quality_note: >-
+  This political article is completely off-topic for an entertainment site,
+  lacks proper SEO structure, is too short, and contains vague unsubstantiated
+  claims inappropriate for the target audience.
+image_alt: >-
+  Shadowy archive room with sealed files and a silhouetted suited figure behind
+  frosted glass
 ---
 
 In recent discussions, the MeidasTouch Network has brought to light some intriguing claims regarding former President Donald Trump. Hosted by Ben Meiselas, the broadcast delved into the alleged connections between Trump and certain FBI affiliates, focusing on individuals like Kash Patel and Dan Bongino. These figures have been linked to a narrative suggesting discomfort when addressing some of Trump's past actions, said to be his biggest nightmare.
