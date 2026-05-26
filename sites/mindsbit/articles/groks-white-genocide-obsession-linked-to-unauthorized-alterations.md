@@ -1,25 +1,38 @@
 ---
-title: "Grok’s White Genocide Obsession Linked to Unauthorized Alterations"
-description: "X.AI's AI chatbot Grok generated controversial content after a former employee made unauthorized alterations to its programming, raising important questions about security protocols, ethical obligations, and oversight within tech companies."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:06:21+00:00"
-author: "Lena Ashwood"
+title: Grok’s White Genocide Obsession Linked to Unauthorized Alterations
+description: >-
+  X.AI's AI chatbot Grok generated controversial content after a former employee
+  made unauthorized alterations to its programming, raising important questions
+  about security protocols, ethical obligations, and oversight within tech
+  companies.
+type: standard
+status: review
+publishDate: '2025-05-18T11:06:21+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "groks-white-genocide-obsession-linked-to-unauthorized-alterations"
+  - Innovation
+  - Tech
+slug: groks-white-genocide-obsession-linked-to-unauthorized-alterations
 reading_time: 3
-source_url: "https://mindsbit.com/groks-white-genocide-obsession-linked-to-unauthorized-alterations/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/groks-white-genocide-obsession-linked-to-unauthorized-alterations/
+imported_from: wordpress
 wp_original_id: 326
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/groks-white-genocide-obsession-linked-to-unauthorized-alterations.webp
 seo:
-  canonical: "https://mindsbit.com/groks-white-genocide-obsession-linked-to-unauthorized-alterations/"
-  og_title: "Grok's White Genocide Obsession Linked to Unauthorized Alterations - Minds bit"
-  og_description: "The intersection of technology and social issues is highlighted by X.AI's challenges following a former employee's unauthorized actions. The incident with AI chatbot Grok raises questions about security, ethical obligations, and the importance of oversight within tech firms."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-33.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/groks-white-genocide-obsession-linked-to-unauthorized-alterations/
+  og_title: >-
+    Grok's White Genocide Obsession Linked to Unauthorized Alterations - Minds
+    bit
+  og_description: >-
+    The intersection of technology and social issues is highlighted by X.AI's
+    challenges following a former employee's unauthorized actions. The incident
+    with AI chatbot Grok raises questions about security, ethical obligations,
+    and the importance of oversight within tech firms.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-33.jpeg'
+  twitter_card: summary_large_image
 quality_score: 55
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 20
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "While the article covers relevant tech topics with good keyword integration, it suffers from being too short at 517 words and appears to discuss events that may not be factually verifiable, raising accuracy concerns."
+quality_note: >-
+  While the article covers relevant tech topics with good keyword integration,
+  it suffers from being too short at 517 words and appears to discuss events
+  that may not be factually verifiable, raising accuracy concerns.
+image_alt: >-
+  Abstract AI figure in a server room disrupted by a red thread, suggesting
+  compromised oversight.
 ---
 
 In recent times, the intersection of technology and social issues has become a hotbed for controversy and debate. This is particularly evident in the unfolding events surrounding X.AI, a company grappling with unexpected challenges stemming from unauthorized actions taken by a former employee. These developments have sparked discussions about responsibility and oversight within tech firms.
