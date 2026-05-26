@@ -481,22 +481,23 @@ sites:
   - domain: stroylab
     company: NGC
     vertical: Sensitive Topics
-    status: Staging
+    status: Live
     site_id: "9619803022013"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-25T10:33:01.640Z
+    last_updated: 2026-05-26T08:52:53.458Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: e1e15d629b5f5f3b78c85d58a3fe84fd
     staging_branch: staging/stroylab
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=stroylab
     saved_previews: null
-    custom_domain: null
+    custom_domain: stroylab.com
+    worker_pending_dns: false
   - domain: mindsbit
     company: ATL
     vertical: Technology & Computing
