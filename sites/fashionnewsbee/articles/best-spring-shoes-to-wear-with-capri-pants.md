@@ -1,24 +1,33 @@
 ---
-title: "Best Spring Shoes to Wear With Capri Pants"
-description: "Capri pants feel modern and flattering with the right shoes, from pointed flats and slingbacks to strappy sandals, loafers, slim trainers, and mules that balance the cropped hem."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:28:28+00:00"
-author: "Taylor Winters"
+title: Best Spring Shoes to Wear With Capri Pants
+description: >-
+  Capri pants feel modern and flattering with the right shoes, from pointed
+  flats and slingbacks to strappy sandals, loafers, slim trainers, and mules
+  that balance the cropped hem.
+type: standard
+status: published
+publishDate: '2026-04-30T08:28:28+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "best-spring-shoes-to-wear-with-capri-pants"
+  - Fashion
+slug: best-spring-shoes-to-wear-with-capri-pants
 reading_time: 8
-source_url: "https://fashionnewsbee.com/best-spring-shoes-to-wear-with-capri-pants/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/best-spring-shoes-to-wear-with-capri-pants/'
+imported_from: wordpress
 wp_original_id: 31660
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/best-spring-shoes-to-wear-with-capri-pants.webp
 seo:
-  canonical: "https://fashionnewsbee.com/best-spring-shoes-to-wear-with-capri-pants/"
-  og_title: "Best Spring Shoes to Wear With Capri Pants - Fashion News Bee"
-  og_description: "Capri pants feel modern and flattering with the right shoes, from pointed flats and slingbacks to strappy sandals, loafers, slim trainers, and mules that balance the cropped hem."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/best-spring-shoes-to-wear-with-capri-pants/'
+  og_title: Best Spring Shoes to Wear With Capri Pants - Fashion News Bee
+  og_description: >-
+    Capri pants feel modern and flattering with the right shoes, from pointed
+    flats and slingbacks to strappy sandals, loafers, slim trainers, and mules
+    that balance the cropped hem.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish capri pants paired with curated spring shoes in a bright fashion
+  editorial setting.
 ---
 
 Capri pants are back in the fashion conversation, and they are far more wearable than their divisive reputation suggests. The cropped hem can look polished, playful, minimal, or retro, depending on how you style it. The most important detail is footwear. Because capris finish around the calf or just above the ankle, your shoes shape the whole silhouette. Choose the right pair, and cropped trousers feel fresh and lengthening. Choose the wrong pair, and the outfit can look heavy or awkward.
