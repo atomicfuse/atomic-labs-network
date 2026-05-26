@@ -1,0 +1,110 @@
+domain: rumorumor.com
+site_name: rumorumor
+site_tagline: null
+author: Maya Torres
+groups: []
+active: true
+bundle_id: 6a12d71916f23264031d7a4a
+brief:
+  audiences:
+    - Entertainment enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Celebrities
+    - Fashion
+    - Influencers
+    - Music
+    - TV & Movies
+  seo_keywords_focus:
+    - Celebrities
+    - Fashion
+    - Influencers
+    - Music
+    - TV & Movies
+  content_guidelines:
+    - Focus on Entertainment content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  category_ids:
+    - 6a00793d1104bbff809b7c32
+    - 6a0079401104bbff809b7fd9
+    - 6a0079401104bbff809b7fdb
+    - 6a0079401104bbff809b7fed
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+theme:
+  base: modern
+  colors:
+    primary: "#FFFFFF"
+    accent: "#b0e23c"
+    background: "#FFFFFF"
+    secondary: "#ff00dd"
+    text: "#000000"
+    muted: "#808080"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#000000"
+    link: "#ffb3df"
+    link_hover: "#b0e23c"
+    nav_link: "#ff00dd"
+    nav_link_hover: "#b0e23c"
+    footer_bg: "#ffb3df"
+    must_reads_bg: "#ffb3df"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#e651a8"
+    article_hero_meta: "#e651a8"
+    feed_title: "#000000"
+    feed_desc: "#333333"
+    feed_date: "#808080"
+    prose_heading: "#000000"
+    prose_body: "#262626"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#ffffff"
+    footer_heading: "#ffffff"
+    footer_link: "#ffffff"
+    footer_link_hover: "#ff00dd"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 52
+  logo_height_footer: 80
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-SM6KT8XCKC
+  gtm: GT-KDBFSGXG
