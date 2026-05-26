@@ -2,7 +2,8 @@ domain: mindsbit
 site_name: mindsbit
 site_tagline: null
 author: Maya Gray
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d73a16f23264031d7a4f
 brief:
