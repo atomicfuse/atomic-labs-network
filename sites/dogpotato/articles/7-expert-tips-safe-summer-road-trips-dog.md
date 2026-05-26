@@ -19,7 +19,7 @@ source_url: >-
   https://shopping.yahoo.com/general/article/road-tripping-with-your-dog-this-summer-trainers-and-vets-share-helpful-tips-194244536.html
 source_item_id: 6a0fdbcc16f23264031d79b8
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/7-expert-tips-safe-summer-road-trips-dog.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   length at 657 words and could improve SEO optimization with better keyword
   integration.
 reading_time: 3
+image_alt: Dog safely harnessed in a car during a sunny summer road trip stop
 ---
 ## Planning Ahead Is Essential for Dog Road Trip Success
 
