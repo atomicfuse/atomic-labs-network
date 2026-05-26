@@ -1,24 +1,32 @@
 ---
-title: "Trump’s New Security Strategy: US-NATO Rift Over Ukraine"
-description: "The global financial landscape is evolving with the rise of Central Bank Digital Currencies (CBDCs), promising streamlined payments and financial inclusion. However, these developments raise significant concerns about privacy and control, challenging the traditional banking sector's future."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:43:29+00:00"
-author: "Blake Anderson"
+title: 'Trump’s New Security Strategy: US-NATO Rift Over Ukraine'
+description: >-
+  The global financial landscape is evolving with the rise of Central Bank
+  Digital Currencies (CBDCs), promising streamlined payments and financial
+  inclusion. However, these developments raise significant concerns about
+  privacy and control, challenging the traditional banking sector's future.
+type: standard
+status: review
+publishDate: '2025-12-22T11:43:29+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "trumps-new-security-strategy-us-nato-rift-over-ukraine"
+  - Deep Dives
+slug: trumps-new-security-strategy-us-nato-rift-over-ukraine
 reading_time: 4
-source_url: "https://stroylab.com/trumps-new-security-strategy-us-nato-rift-over-ukraine/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/trumps-new-security-strategy-us-nato-rift-over-ukraine/'
+imported_from: wordpress
 wp_original_id: 756
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/trumps-new-security-strategy-us-nato-rift-over-ukraine.webp
 seo:
-  canonical: "https://stroylab.com/trumps-new-security-strategy-us-nato-rift-over-ukraine/"
-  og_title: "Trump's New Security Strategy: US-NATO Rift Over Ukraine - StroyLab"
-  og_description: "The global financial landscape is evolving with the rise of Central Bank Digital Currencies (CBDCs), promising streamlined payments and financial inclusion. However, these developments raise significant concerns about privacy and control, challenging the traditional banking sector's future."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-225.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/trumps-new-security-strategy-us-nato-rift-over-ukraine/'
+  og_title: 'Trump''s New Security Strategy: US-NATO Rift Over Ukraine - StroyLab'
+  og_description: >-
+    The global financial landscape is evolving with the rise of Central Bank
+    Digital Currencies (CBDCs), promising streamlined payments and financial
+    inclusion. However, these developments raise significant concerns about
+    privacy and control, challenging the traditional banking sector's future.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-225.jpeg'
+  twitter_card: summary_large_image
 quality_score: 48
 score_breakdown:
   seo_quality: 15
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article has a complete title-description mismatch (Trump/NATO vs CBDCs), lacks conspiracy/mystery elements entirely, and has poor SEO structure despite decent factual content about digital currencies."
+quality_note: >-
+  The article has a complete title-description mismatch (Trump/NATO vs CBDCs),
+  lacks conspiracy/mystery elements entirely, and has poor SEO structure despite
+  decent factual content about digital currencies.
+image_alt: >-
+  Empty security meeting room split by shadow with an indistinct Eastern Europe
+  map in the background
 ---
 
 The global financial landscape is constantly evolving, and recent developments have intensified discussions around the future of digital currencies. As central banks explore the potential of digital currencies, concerns about financial autonomy and privacy have emerged. These discussions are crucial as they could redefine the way we handle money and transactions in the near future.
