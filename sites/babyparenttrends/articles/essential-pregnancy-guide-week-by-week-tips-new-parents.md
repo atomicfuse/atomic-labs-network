@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.todaysparent.com/pregnancy/'
 source_item_id: 6a1421f216f23264031d7e22
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/essential-pregnancy-guide-week-by-week-tips-new-parents.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 78
@@ -32,6 +32,7 @@ quality_note: >-
   words and contains vague 'according to reports' claims without proper
   attribution.
 reading_time: 3
+image_alt: Expectant parents in a softly lit nursery preparing for their baby's arrival
 ---
 ## Navigating Pregnancy with Confidence: A Comprehensive Resource for Expectant Parents
 
