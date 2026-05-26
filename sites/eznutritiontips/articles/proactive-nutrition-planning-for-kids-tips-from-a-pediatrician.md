@@ -1,25 +1,38 @@
 ---
-title: "Proactive Nutrition Planning for Kids: Tips from a Pediatrician"
-description: "Ensuring children maintain a healthy diet can be challenging with busy lifestyles. Strategic planning and a proactive approach can enhance their nutritional intake, focusing on balanced meals and informed food choices to support growth, development, and overall health."
-type: "standard"
-status: "published"
-publishDate: "2025-08-28T05:11:28+00:00"
-author: "Taylor Winters"
+title: 'Proactive Nutrition Planning for Kids: Tips from a Pediatrician'
+description: >-
+  Ensuring children maintain a healthy diet can be challenging with busy
+  lifestyles. Strategic planning and a proactive approach can enhance their
+  nutritional intake, focusing on balanced meals and informed food choices to
+  support growth, development, and overall health.
+type: standard
+status: published
+publishDate: '2025-08-28T05:11:28+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "proactive-nutrition-planning-for-kids-tips-from-a-pediatrician"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: proactive-nutrition-planning-for-kids-tips-from-a-pediatrician
 reading_time: 4
-source_url: "https://eznutritiontips.com/proactive-nutrition-planning-for-kids-tips-from-a-pediatrician/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/proactive-nutrition-planning-for-kids-tips-from-a-pediatrician/
+imported_from: wordpress
 wp_original_id: 18935
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/proactive-nutrition-planning-for-kids-tips-from-a-pediatrician.webp
 seo:
-  canonical: "https://eznutritiontips.com/proactive-nutrition-planning-for-kids-tips-from-a-pediatrician/"
-  og_title: "Proactive Nutrition Planning for Kids: Tips from a Pediatrician - Easy Nutrition Tips"
-  og_description: "Ensuring children maintain a healthy diet can be challenging with busy lifestyles. Strategic planning and a proactive approach can enhance their nutritional intake, focusing on balanced meals and informed food choices to support growth, development, and overall health."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/proactive-nutrition-planning-for-kids-tips-from-a-pediatrician/
+  og_title: >-
+    Proactive Nutrition Planning for Kids: Tips from a Pediatrician - Easy
+    Nutrition Tips
+  og_description: >-
+    Ensuring children maintain a healthy diet can be challenging with busy
+    lifestyles. Strategic planning and a proactive approach can enhance their
+    nutritional intake, focusing on balanced meals and informed food choices to
+    support growth, development, and overall health.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (606 words vs 800+ target) and could better integrate site's specific keywords like 'nutrition tips' and 'special diets'."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (606 words vs 800+ target) and could better integrate site's specific keywords
+  like 'nutrition tips' and 'special diets'.
+image_alt: Parent and child preparing colorful healthy meals together in a bright kitchen
 ---
 
 Ensuring that children maintain a healthy diet can be a challenge, especially with the busy lifestyles many families lead today. However, with strategic planning and a proactive approach, parents can significantly enhance their children's nutritional intake. This involves understanding the importance of balanced meals and making informed choices about the food that children consume daily.
