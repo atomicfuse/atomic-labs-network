@@ -1,26 +1,38 @@
 ---
-title: "Emma Sims Hilditch: Journey to Studio Founder Success"
-description: "Emma Sims Hilditch transitioned from film set design to founding Sims Hilditch, a leading interior design studio known for blending comfort with elegance. Her client-focused approach and commitment to quality create personalized, beautiful, and functional spaces that reflect individual lifestyles."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T09:19:30+00:00"
-author: "Taylor Winters"
+title: 'Emma Sims Hilditch: Journey to Studio Founder Success'
+description: >-
+  Emma Sims Hilditch transitioned from film set design to founding Sims
+  Hilditch, a leading interior design studio known for blending comfort with
+  elegance. Her client-focused approach and commitment to quality create
+  personalized, beautiful, and functional spaces that reflect individual
+  lifestyles.
+type: standard
+status: review
+publishDate: '2026-01-26T09:19:30+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "Home"
-slug: "emma-sims-hilditch-journey-to-studio-founder-success"
+  - Decor Ideas
+  - Design
+  - Home
+slug: emma-sims-hilditch-journey-to-studio-founder-success
 reading_time: 3
-source_url: "https://decoratingtricks.com/emma-sims-hilditch-journey-to-studio-founder-success/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/emma-sims-hilditch-journey-to-studio-founder-success/
+imported_from: wordpress
 wp_original_id: 21552
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/emma-sims-hilditch-journey-to-studio-founder-success.webp
 seo:
-  canonical: "https://decoratingtricks.com/emma-sims-hilditch-journey-to-studio-founder-success/"
-  og_title: "Emma Sims Hilditch: Journey to Studio Founder Success - Decorating Tricks"
-  og_description: "Emma Sims Hilditch transitioned from film set design to founding Sims Hilditch, a leading interior design studio known for blending comfort with elegance. Her client-focused approach and commitment to quality create personalized, beautiful, and functional spaces that reflect individual lifestyles."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/emma-sims-hilditch-journey-to-studio-founder-success/
+  og_title: 'Emma Sims Hilditch: Journey to Studio Founder Success - Decorating Tricks'
+  og_description: >-
+    Emma Sims Hilditch transitioned from film set design to founding Sims
+    Hilditch, a leading interior design studio known for blending comfort with
+    elegance. Her client-focused approach and commitment to quality create
+    personalized, beautiful, and functional spaces that reflect individual
+    lifestyles.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 59
 score_breakdown:
   seo_quality: 25
@@ -28,7 +40,14 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "While the article has good tone and reasonable accuracy, it falls short on SEO optimization, content length (537 words vs 800-1200 target), and focuses more on a designer's biography than practical home design content that would serve the site's DIY-focused audience."
+quality_note: >-
+  While the article has good tone and reasonable accuracy, it falls short on SEO
+  optimization, content length (537 words vs 800-1200 target), and focuses more
+  on a designer's biography than practical home design content that would serve
+  the site's DIY-focused audience.
+image_alt: >-
+  Sunlit interior design studio with fabric swatches, sketches, elegant
+  furniture, and a vintage film light.
 ---
 
 Emma Sims Hilditch has carved a niche in the interior design world with her distinctive approach that effortlessly blends comfort with elegance. Her journey from a film set designer to the founder of a renowned interior design studio is both inspiring and instructive for aspiring designers.
