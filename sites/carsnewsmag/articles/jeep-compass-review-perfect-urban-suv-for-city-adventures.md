@@ -1,24 +1,35 @@
 ---
-title: "Jeep Compass Review: Perfect Urban SUV for City Adventures"
-description: "The Jeep Compass is a versatile compact SUV with a rugged design, modern technology, and enhanced safety features, making it ideal for both city driving and outdoor adventures."
-type: "standard"
-status: "published"
-publishDate: "2025-12-15T09:21:31+00:00"
-author: "Taylor Winters"
+title: 'Jeep Compass Review: Perfect Urban SUV for City Adventures'
+description: >-
+  The Jeep Compass is a versatile compact SUV with a rugged design, modern
+  technology, and enhanced safety features, making it ideal for both city
+  driving and outdoor adventures.
+type: standard
+status: published
+publishDate: '2025-12-15T09:21:31+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "jeep-compass-review-perfect-urban-suv-for-city-adventures"
+  - Reviews
+slug: jeep-compass-review-perfect-urban-suv-for-city-adventures
 reading_time: 3
-source_url: "https://carsnewsmag.com/jeep-compass-review-perfect-urban-suv-for-city-adventures/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/jeep-compass-review-perfect-urban-suv-for-city-adventures/
+imported_from: wordpress
 wp_original_id: 38532
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/jeep-compass-review-perfect-urban-suv-for-city-adventures.webp
 seo:
-  canonical: "https://carsnewsmag.com/jeep-compass-review-perfect-urban-suv-for-city-adventures/"
-  og_title: "Jeep Compass Review: Perfect Urban SUV for City Adventures - Cars News Magazine"
-  og_description: "The Jeep Compass is a versatile compact SUV with a rugged design, modern technology, and enhanced safety features. It offers a spacious interior, advanced infotainment, and efficient performance, making it ideal for both city driving and outdoor adventures."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/jeep-compass-review-perfect-urban-suv-for-city-adventures/
+  og_title: >-
+    Jeep Compass Review: Perfect Urban SUV for City Adventures - Cars News
+    Magazine
+  og_description: >-
+    The Jeep Compass is a versatile compact SUV with a rugged design, modern
+    technology, and enhanced safety features. It offers a spacious interior,
+    advanced infotainment, and efficient performance, making it ideal for both
+    city driving and outdoor adventures.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written review with good tone and keyword relevance, but significantly under target word count at 558 words instead of 800-1200."
+quality_note: >-
+  Well-written review with good tone and keyword relevance, but significantly
+  under target word count at 558 words instead of 800-1200.
+image_alt: >-
+  Rugged compact SUV parked between a modern city street and a green outdoor
+  trailhead
 ---
 
 The Jeep Compass has evolved significantly over time, positioning itself as a robust choice in the compact SUV market. With its rugged design and versatile capabilities, the Compass aims to attract both urban drivers and adventure enthusiasts. Its latest iteration offers several updates that enhance both its aesthetic appeal and functionality.
