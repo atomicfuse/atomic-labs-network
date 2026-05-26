@@ -1,21 +1,28 @@
 ---
-title: "Perseverance Rover Finds Strongest Evidence of Life on Mars"
-description: "NASA's Perseverance rover has discovered organic molecules in Mars' Jezero Crater, suggesting conditions once suitable for life. This finding provides insights into the planet's history and potential for past microbial life, guiding future exploration missions."
-type: "standard"
-status: "published"
-publishDate: "2025-09-11T07:37:25"
-author: "Taylor Winters"
+title: Perseverance Rover Finds Strongest Evidence of Life on Mars
+description: >-
+  NASA's Perseverance rover has discovered organic molecules in Mars' Jezero
+  Crater, suggesting conditions once suitable for life. This finding provides
+  insights into the planet's history and potential for past microbial life,
+  guiding future exploration missions.
+type: standard
+status: published
+publishDate: '2025-09-11T07:37:25'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "perseverance-rover-finds-strongest-evidence-of-life-on-mars"
+  - Space
+slug: perseverance-rover-finds-strongest-evidence-of-life-on-mars
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/perseverance-rover-finds-strongest-evidence-of-life-on-mars/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/perseverance-rover-finds-strongest-evidence-of-life-on-mars/
+imported_from: wordpress
 wp_original_id: 15000
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/perseverance-rover-finds-strongest-evidence-of-life-on-mars.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/perseverance-rover-finds-strongest-evidence-of-life-on-mars/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/perseverance-rover-finds-strongest-evidence-of-life-on-mars/
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -23,7 +30,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong content on Mars exploration with good tone and accuracy, but significantly under target word count at 457 words instead of the 800-1200 range."
+quality_note: >-
+  Strong content on Mars exploration with good tone and accuracy, but
+  significantly under target word count at 457 words instead of the 800-1200
+  range.
+image_alt: >-
+  Mars rover studies layered rocks in a crater at sunrise, suggesting a
+  breakthrough discovery.
 ---
 
 NASA's Perseverance rover has made a groundbreaking discovery on Mars that could significantly bolster the search for past life on the Red Planet. By investigating the Jezero Crater, Perseverance has uncovered intriguing organic molecules within rock samples. Scientists are excited as this finding could indicate ancient microbial life, highlighting Mars' potential as a habitat in its distant past.
