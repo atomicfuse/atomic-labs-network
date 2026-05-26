@@ -1,26 +1,40 @@
 ---
-title: "Unveiling Cosworth’s Unique Four-Wheel Drive F1 Car Creation"
-description: "Cosworth, the renowned British engineering company, has ventured beyond engine manufacturing to construct its own Formula 1 vehicle, sparking excitement about its performance potential and what it could mean for the future of F1 racing."
-type: "standard"
-status: "review"
-publishDate: "2025-04-21T04:46:24+00:00"
-author: "Taylor Winters"
+title: Unveiling Cosworth’s Unique Four-Wheel Drive F1 Car Creation
+description: >-
+  Cosworth, the renowned British engineering company, has ventured beyond engine
+  manufacturing to construct its own Formula 1 vehicle, sparking excitement
+  about its performance potential and what it could mean for the future of F1
+  racing.
+type: standard
+status: review
+publishDate: '2025-04-21T04:46:24+00:00'
+author: Taylor Winters
 tags:
-  - "Concept Cars"
-  - "Industry"
-  - "News"
-slug: "unveiling-cosworths-unique-four-wheel-drive-f1-car-creation"
+  - Concept Cars
+  - Industry
+  - News
+slug: unveiling-cosworths-unique-four-wheel-drive-f1-car-creation
 reading_time: 2
-source_url: "https://carsnewsmag.com/unveiling-cosworths-unique-four-wheel-drive-f1-car-creation/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/unveiling-cosworths-unique-four-wheel-drive-f1-car-creation/
+imported_from: wordpress
 wp_original_id: 38397
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/unveiling-cosworths-unique-four-wheel-drive-f1-car-creation.webp
 seo:
-  canonical: "https://carsnewsmag.com/unveiling-cosworths-unique-four-wheel-drive-f1-car-creation/"
-  og_title: "Unveiling Cosworth's Unique Four-Wheel Drive F1 Car Creation - Cars News Magazine"
-  og_description: "Cosworth, a renowned British engineering company, has decided to construct its own Formula 1 vehicle, marking a new era in its history. This endeavour sparks curiosity about the performance potential of a Cosworth-branded Formula 1 car and could potentially change the landscape of Formula 1 racing."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/unveiling-cosworths-unique-four-wheel-drive-f1-car-creation/
+  og_title: >-
+    Unveiling Cosworth's Unique Four-Wheel Drive F1 Car Creation - Cars News
+    Magazine
+  og_description: >-
+    Cosworth, a renowned British engineering company, has decided to construct
+    its own Formula 1 vehicle, marking a new era in its history. This endeavour
+    sparks curiosity about the performance potential of a Cosworth-branded
+    Formula 1 car and could potentially change the landscape of Formula 1
+    racing.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -28,7 +42,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "The article has good tone and keyword relevance but is severely undermined by apparent factual inaccuracies about Cosworth building a complete F1 car and falls well short of the target word count."
+quality_note: >-
+  The article has good tone and keyword relevance but is severely undermined by
+  apparent factual inaccuracies about Cosworth building a complete F1 car and
+  falls well short of the target word count.
+image_alt: >-
+  Futuristic Formula 1 prototype in a wind tunnel with airflow smoke around all
+  four wheels
 ---
 
 In an unprecedented move, Cosworth, a renowned British engineering company, made a bold decision to construct its own Formula 1 vehicle.
