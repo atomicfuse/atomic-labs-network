@@ -1,24 +1,37 @@
 ---
-title: "The Growing Need for Accessible Mental Health Resources"
-description: "Mental health awareness has grown, but access to proper care remains a significant challenge due to high costs, provider shortages, and stigma. This article explores the barriers to mental health resources and the role of counselors, technology, community programs, and education in expanding access to care."
-type: "standard"
-status: "published"
-publishDate: "2025-02-28T02:20:07+00:00"
-author: "admin"
+title: The Growing Need for Accessible Mental Health Resources
+description: >-
+  Mental health awareness has grown, but access to proper care remains a
+  significant challenge due to high costs, provider shortages, and stigma. This
+  article explores the barriers to mental health resources and the role of
+  counselors, technology, community programs, and education in expanding access
+  to care.
+type: standard
+status: published
+publishDate: '2025-02-28T02:20:07+00:00'
+author: admin
 tags:
-  - "Mental Health"
-  - "Drugs"
-slug: "the-growing-need-for-accessible-mental-health-resources"
+  - Mental Health
+  - Drugs
+slug: the-growing-need-for-accessible-mental-health-resources
 reading_time: 6
-source_url: "https://medicalnewsalley.com/the-growing-need-for-accessible-mental-health-resources/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/the-growing-need-for-accessible-mental-health-resources/
+imported_from: wordpress
 wp_original_id: 32312
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/the-growing-need-for-accessible-mental-health-resources.webp
 seo:
-  canonical: "https://medicalnewsalley.com/the-growing-need-for-accessible-mental-health-resources/"
-  og_title: "The Growing Need for Accessible Mental Health Resources - Medical News Alley"
-  og_description: "Mental health has finally become part of everyday conversations, but access to proper care is still a challenge for many people. While awareness has increased, too many individuals still struggle to find affordable, timely, and effective mental health services. Long wait times, high costs, and limited availability of professionals leave many without the support they [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/the-growing-need-for-accessible-mental-health-resources/
+  og_title: The Growing Need for Accessible Mental Health Resources - Medical News Alley
+  og_description: >-
+    Mental health has finally become part of everyday conversations, but access
+    to proper care is still a challenge for many people. While awareness has
+    increased, too many individuals still struggle to find affordable, timely,
+    and effective mental health services. Long wait times, high costs, and
+    limited availability of professionals leave many without the support they
+    [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong mental health content with good length and tone, but the title could be more compelling and the article needs better heading structure for SEO optimization."
+quality_note: >-
+  Strong mental health content with good length and tone, but the title could be
+  more compelling and the article needs better heading structure for SEO
+  optimization.
+image_alt: >-
+  Diverse group in a calm community space suggesting accessible mental health
+  support
 ---
 
 Mental health has finally become part of everyday conversations, but access to proper care is still a challenge for many people. While awareness has increased, too many individuals still struggle to find affordable, timely, and effective mental health services. Long wait times, high costs, and limited availability of professionals leave many without the support they need. This growing gap makes it clear that expanding mental health resources is more important than ever.
