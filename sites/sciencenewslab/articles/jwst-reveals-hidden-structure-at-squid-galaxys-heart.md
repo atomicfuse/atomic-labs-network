@@ -1,21 +1,26 @@
 ---
-title: "JWST Reveals Hidden Structure at Squid Galaxy’s Heart"
-description: "JWST reveals hidden filaments, shocked gas, and twin supermassive black holes inside NGC 6240, offering a vivid look at how a violent galaxy merger reshapes stars, dust, and future cosmic evolution."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T11:46:53"
-author: "Taylor Winters"
+title: JWST Reveals Hidden Structure at Squid Galaxy’s Heart
+description: >-
+  JWST reveals hidden filaments, shocked gas, and twin supermassive black holes
+  inside NGC 6240, offering a vivid look at how a violent galaxy merger reshapes
+  stars, dust, and future cosmic evolution.
+type: standard
+status: published
+publishDate: '2026-05-14T11:46:53'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "jwst-reveals-hidden-structure-at-squid-galaxys-heart"
+  - Space
+slug: jwst-reveals-hidden-structure-at-squid-galaxys-heart
 reading_time: 7
-source_url: "https://www.sciencenewslab.com/jwst-reveals-hidden-structure-at-squid-galaxys-heart/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/jwst-reveals-hidden-structure-at-squid-galaxys-heart/
+imported_from: wordpress
 wp_original_id: 15107
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/jwst-reveals-hidden-structure-at-squid-galaxys-heart.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/jwst-reveals-hidden-structure-at-squid-galaxys-heart/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/jwst-reveals-hidden-structure-at-squid-galaxys-heart/
+  twitter_card: summary_large_image
 quality_score: 92
 score_breakdown:
   seo_quality: 85
@@ -23,7 +28,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 88
   keyword_relevance: 95
-quality_note: "Well-structured space article with excellent tone and perfect length, though the title could be slightly shorter for optimal SEO."
+quality_note: >-
+  Well-structured space article with excellent tone and perfect length, though
+  the title could be slightly shorter for optimal SEO.
+image_alt: >-
+  Two bright galactic cores glow within swirling dust, gas, and filament-like
+  structures in deep space.
 ---
 
 The James Webb Space Telescope has given astronomers a sharper look into NGC 6240, the dramatic galaxy merger often called the Squid Galaxy. Behind its thick dust and distorted arms, Webb has exposed a complex structure near the core, where gas, stars, and two supermassive black holes are reshaping an entire galaxy.
