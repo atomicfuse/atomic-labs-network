@@ -1,24 +1,34 @@
 ---
-title: "Cut Food Waste with Budget-Friendly Frozen Meal Ideas"
-description: "Frozen foods offer convenience and quality, reducing food waste and preserving nutrients while providing economic savings and environmental benefits, making them a smart choice for sustainable and nutritious eating."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T10:23:33+00:00"
-author: "Lena Ashwood"
+title: Cut Food Waste with Budget-Friendly Frozen Meal Ideas
+description: >-
+  Frozen foods offer convenience and quality, reducing food waste and preserving
+  nutrients while providing economic savings and environmental benefits, making
+  them a smart choice for sustainable and nutritious eating.
+type: standard
+status: review
+publishDate: '2026-02-09T10:23:33+00:00'
+author: Lena Ashwood
 tags:
-  - "Nutrition"
-slug: "cut-food-waste-with-budget-friendly-frozen-meal-ideas"
+  - Nutrition
+slug: cut-food-waste-with-budget-friendly-frozen-meal-ideas
 reading_time: 3
-source_url: "https://mindmedications.com/cut-food-waste-with-budget-friendly-frozen-meal-ideas/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/cut-food-waste-with-budget-friendly-frozen-meal-ideas/
+imported_from: wordpress
 wp_original_id: 621
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: /assets/images/cut-food-waste-with-budget-friendly-frozen-meal-ideas.webp
 seo:
-  canonical: "https://mindmedications.com/cut-food-waste-with-budget-friendly-frozen-meal-ideas/"
-  og_title: "Cut Food Waste with Budget-Friendly Frozen Meal Ideas - Mind Medications"
-  og_description: "Frozen foods offer convenience and quality, reducing food waste and preserving nutrients. They provide economic savings and environmental benefits, with diverse meal options that cater to various dietary preferences, making them a smart choice for sustainable and nutritious eating."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/02/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/cut-food-waste-with-budget-friendly-frozen-meal-ideas/
+  og_title: Cut Food Waste with Budget-Friendly Frozen Meal Ideas - Mind Medications
+  og_description: >-
+    Frozen foods offer convenience and quality, reducing food waste and
+    preserving nutrients. They provide economic savings and environmental
+    benefits, with diverse meal options that cater to various dietary
+    preferences, making them a smart choice for sustainable and nutritious
+    eating.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/02/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good factual content and appropriate tone, but significantly under the target word count and could benefit from stronger SEO optimization including better keyword integration."
+quality_note: >-
+  Well-written article with good factual content and appropriate tone, but
+  significantly under the target word count and could benefit from stronger SEO
+  optimization including better keyword integration.
+image_alt: >-
+  Reusable containers of frozen vegetables and meals in a bright kitchen
+  meal-prep scene
 ---
 
 Frozen foods have become an indispensable part of many kitchens, offering convenience without compromising on quality. These products not only provide a quick meal solution but also help in reducing food waste, which is a growing global concern. By integrating frozen foods into your diet, you can enjoy a variety of nutritious meals while also being environmentally conscious.
