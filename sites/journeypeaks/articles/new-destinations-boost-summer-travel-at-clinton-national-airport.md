@@ -1,26 +1,39 @@
 ---
-title: "New Destinations Boost Summer Travel at Clinton National Airport"
-description: "Clinton National Airport is expanding its flight routes this summer to meet rising passenger demand, enhancing connectivity for business and leisure travelers. This initiative is expected to boost the local economy and foster growth in tourism and business sectors."
-type: "standard"
-status: "review"
-publishDate: "2026-03-02T09:51:23+00:00"
-author: "Taylor Winters"
+title: New Destinations Boost Summer Travel at Clinton National Airport
+description: >-
+  Clinton National Airport is expanding its flight routes this summer to meet
+  rising passenger demand, enhancing connectivity for business and leisure
+  travelers. This initiative is expected to boost the local economy and foster
+  growth in tourism and business sectors.
+type: standard
+status: review
+publishDate: '2026-03-02T09:51:23+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "News"
-  - "Travel"
-slug: "new-destinations-boost-summer-travel-at-clinton-national-airport"
+  - Destinations
+  - News
+  - Travel
+slug: new-destinations-boost-summer-travel-at-clinton-national-airport
 reading_time: 3
-source_url: "https://journeypeaks.com/new-destinations-boost-summer-travel-at-clinton-national-airport/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/new-destinations-boost-summer-travel-at-clinton-national-airport/
+imported_from: wordpress
 wp_original_id: 38816
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/new-destinations-boost-summer-travel-at-clinton-national-airport.webp
 seo:
-  canonical: "https://journeypeaks.com/new-destinations-boost-summer-travel-at-clinton-national-airport/"
-  og_title: "New Destinations Boost Summer Travel at Clinton National Airport - Journey Peaks"
-  og_description: "Clinton National Airport is expanding its flight routes this summer to meet rising passenger demand, enhancing connectivity for business and leisure travelers. This initiative is expected to boost the local economy and foster growth in tourism and business sectors."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/new-destinations-boost-summer-travel-at-clinton-national-airport/
+  og_title: >-
+    New Destinations Boost Summer Travel at Clinton National Airport - Journey
+    Peaks
+  og_description: >-
+    Clinton National Airport is expanding its flight routes this summer to meet
+    rising passenger demand, enhancing connectivity for business and leisure
+    travelers. This initiative is expected to boost the local economy and foster
+    growth in tourism and business sectors.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/03/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "The article covers relevant travel topics with appropriate tone but falls short on content length (462 words vs 800-1200 target) and lacks specific details about destinations and routes."
+quality_note: >-
+  The article covers relevant travel topics with appropriate tone but falls
+  short on content length (462 words vs 800-1200 target) and lacks specific
+  details about destinations and routes.
+image_alt: >-
+  Travelers look toward a sunlit runway as a plane prepares to depart for new
+  summer routes.
 ---
 
 In an exciting development for travelers, Clinton National Airport in Little Rock, Arkansas, is expanding its list of destinations this summer. The airport is set to offer new flight routes, providing more options for both business and leisure travelers. This strategic expansion aims to cater to the increasing demand for air travel as more people feel comfortable flying again.
