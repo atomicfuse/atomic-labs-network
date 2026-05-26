@@ -1,26 +1,34 @@
 ---
-title: "Top 20 Underrated US Travel Destinations for 2025"
-description: "Discover hidden gems across the U.S. for 2025, from Bisbee's vibrant arts scene and Eureka Springs' Victorian charm to Taos' rich history and Marquette's outdoor adventures, offering unique experiences beyond typical tourist spots."
-type: "standard"
-status: "published"
-publishDate: "2025-06-05T07:47:27+00:00"
-author: "Taylor Winters"
+title: Top 20 Underrated US Travel Destinations for 2025
+description: >-
+  Discover hidden gems across the U.S. for 2025, from Bisbee's vibrant arts
+  scene and Eureka Springs' Victorian charm to Taos' rich history and
+  Marquette's outdoor adventures, offering unique experiences beyond typical
+  tourist spots.
+type: standard
+status: published
+publishDate: '2025-06-05T07:47:27+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Features"
-  - "Travel"
-slug: "top-20-underrated-us-travel-destinations-for-2025"
+  - Destinations
+  - Features
+  - Travel
+slug: top-20-underrated-us-travel-destinations-for-2025
 reading_time: 3
-source_url: "https://journeypeaks.com/top-20-underrated-us-travel-destinations-for-2025/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-20-underrated-us-travel-destinations-for-2025/'
+imported_from: wordpress
 wp_original_id: 38658
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-20-underrated-us-travel-destinations-for-2025.webp
 seo:
-  canonical: "https://journeypeaks.com/top-20-underrated-us-travel-destinations-for-2025/"
-  og_title: "Top 20 Underrated US Travel Destinations for 2025 - Journey Peaks"
-  og_description: "Discover hidden gems in the U.S. for 2025, from Bisbee's vibrant arts scene to Eureka Springs' Victorian charm. Explore Taos' rich history or Marquette's outdoor adventures. Embrace offbeat destinations for unique experiences beyond typical tourist spots."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/06/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/top-20-underrated-us-travel-destinations-for-2025/'
+  og_title: Top 20 Underrated US Travel Destinations for 2025 - Journey Peaks
+  og_description: >-
+    Discover hidden gems in the U.S. for 2025, from Bisbee's vibrant arts scene
+    to Eureka Springs' Victorian charm. Explore Taos' rich history or
+    Marquette's outdoor adventures. Embrace offbeat destinations for unique
+    experiences beyond typical tourist spots.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/06/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 54
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel content with good tone and accurate information, but significantly under the target word count at 541 words versus the 800-1200 word range."
+quality_note: >-
+  Well-written travel content with good tone and accurate information, but
+  significantly under the target word count at 541 words versus the 800-1200
+  word range.
+image_alt: >-
+  Scenic road leading toward a colorful small town between desert hills,
+  forests, and mountains at sunset.
 ---
 
 Exploring less-traveled destinations can offer unique experiences and create unforgettable memories. The United States, rich in diverse landscapes and cultures, is home to some hidden gems that have yet to gain widespread recognition. As travelers look to broaden their horizons beyond the usual tourist hotspots, a new list highlights the top underrated travel destinations in the U.S. for 2025.
