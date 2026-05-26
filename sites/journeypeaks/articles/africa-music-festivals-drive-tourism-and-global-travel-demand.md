@@ -1,26 +1,37 @@
 ---
-title: "Africa Music Festivals Drive Tourism and Global Travel Demand"
-description: "Africa's live music festivals are transforming concerts into cultural travel experiences, boosting tourism, local economies, and global interest through music, food, nightlife, heritage, and community connection."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:32:23+00:00"
-author: "Taylor Winters"
+title: Africa Music Festivals Drive Tourism and Global Travel Demand
+description: >-
+  Africa's live music festivals are transforming concerts into cultural travel
+  experiences, boosting tourism, local economies, and global interest through
+  music, food, nightlife, heritage, and community connection.
+type: standard
+status: published
+publishDate: '2026-04-30T08:32:23+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Features"
-  - "Travel"
-slug: "africa-music-festivals-drive-tourism-and-global-travel-demand"
+  - Destinations
+  - Features
+  - Travel
+slug: africa-music-festivals-drive-tourism-and-global-travel-demand
 reading_time: 7
-source_url: "https://journeypeaks.com/africa-music-festivals-drive-tourism-and-global-travel-demand/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/africa-music-festivals-drive-tourism-and-global-travel-demand/
+imported_from: wordpress
 wp_original_id: 38833
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/africa-music-festivals-drive-tourism-and-global-travel-demand.webp
 seo:
-  canonical: "https://journeypeaks.com/africa-music-festivals-drive-tourism-and-global-travel-demand/"
-  og_title: "Africa Music Festivals Drive Tourism and Global Travel Demand - Journey Peaks"
-  og_description: "Africa’s live music festivals are transforming concerts into cultural travel experiences, boosting tourism, local economies, and global interest through music, food, nightlife, heritage, and community connection."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/africa-music-festivals-drive-tourism-and-global-travel-demand/
+  og_title: >-
+    Africa Music Festivals Drive Tourism and Global Travel Demand - Journey
+    Peaks
+  og_description: >-
+    Africa’s live music festivals are transforming concerts into cultural travel
+    experiences, boosting tourism, local economies, and global interest through
+    music, food, nightlife, heritage, and community connection.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -28,7 +39,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-structured article with excellent keyword relevance and appropriate length, though the title could be more compelling and the tone occasionally feels slightly formal for the target audience."
+quality_note: >-
+  Well-structured article with excellent keyword relevance and appropriate
+  length, though the title could be more compelling and the tone occasionally
+  feels slightly formal for the target audience.
+image_alt: >-
+  Festival crowd dancing at sunset with musicians, food stalls, and warm
+  travel-inspired atmosphere
 ---
 
 Africa's live music festivals are becoming powerful travel motivators, turning concerts into complete cultural journeys. From coastal jazz stages to desert gatherings, festival tourism is helping destinations attract global visitors, extend stays, and showcase local identity through sound, food, nightlife, and community experiences.
