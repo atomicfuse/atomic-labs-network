@@ -23,7 +23,8 @@ source_url: >-
   https://medium.com/@attilavago?source=topic_portal---recommended_stories---pop_culture---5-107--------------------0c7c03ff_17cb_4a49_aeaf_b6a6c35c0518--------------
 source_item_id: 6a13f84e16f23264031d7ab3
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: >-
+  /assets/images/dublin-engineer-builds-personal-brand-tech-writing-advocacy.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -36,6 +37,9 @@ quality_note: >-
   but falls short on length and relies heavily on vague sourcing that raises
   accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Dublin tech creator at a laptop with accessibility tools and colorful building
+  bricks nearby
 ---
 ## The Rise of Engineer-Influencers
 
