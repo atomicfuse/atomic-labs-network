@@ -1,23 +1,32 @@
 ---
-title: "Sharon Stone Shares Life Lessons at Astra Film Awards"
-description: "Sharon Stone's poignant acceptance speech at the Astra Film Awards highlighted her resilience and personal revelations, resonating deeply with the audience and emphasizing her enduring impact both on and off the screen as an actress and humanitarian."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T10:27:25+00:00"
-author: "Gabe Hernandez"
+title: Sharon Stone Shares Life Lessons at Astra Film Awards
+description: >-
+  Sharon Stone's poignant acceptance speech at the Astra Film Awards highlighted
+  her resilience and personal revelations, resonating deeply with the audience
+  and emphasizing her enduring impact both on and off the screen as an actress
+  and humanitarian.
+type: standard
+status: review
+publishDate: '2026-01-12T10:27:25+00:00'
+author: Gabe Hernandez
 tags:
-  - "Viral"
-slug: "sharon-stone-shares-life-lessons-at-astra-film-awards"
+  - Viral
+slug: sharon-stone-shares-life-lessons-at-astra-film-awards
 reading_time: 3
-source_url: "https://funnypigeon.com/sharon-stone-shares-life-lessons-at-astra-film-awards/"
-imported_from: "wordpress"
+source_url: 'https://funnypigeon.com/sharon-stone-shares-life-lessons-at-astra-film-awards/'
+imported_from: wordpress
 wp_original_id: 501
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: /assets/images/sharon-stone-shares-life-lessons-at-astra-film-awards.webp
 seo:
-  canonical: "https://funnypigeon.com/sharon-stone-shares-life-lessons-at-astra-film-awards/"
-  og_title: "Sharon Stone Shares Life Lessons at Astra Film Awards - Funny Pigeon"
-  og_description: "Sharon Stone's poignant acceptance speech at the Astra Film Awards highlighted her resilience and personal revelations, resonating deeply with the audience and emphasizing her enduring impact both on and off the screen as an actress and humanitarian."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://funnypigeon.com/sharon-stone-shares-life-lessons-at-astra-film-awards/
+  og_title: Sharon Stone Shares Life Lessons at Astra Film Awards - Funny Pigeon
+  og_description: >-
+    Sharon Stone's poignant acceptance speech at the Astra Film Awards
+    highlighted her resilience and personal revelations, resonating deeply with
+    the audience and emphasizing her enduring impact both on and off the screen
+    as an actress and humanitarian.
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 25
@@ -25,7 +34,11 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "Article lacks entertainment focus and viral content elements expected for funnypigeon, with poor keyword alignment and insufficient length for the target audience."
+quality_note: >-
+  Article lacks entertainment focus and viral content elements expected for
+  funnypigeon, with poor keyword alignment and insufficient length for the
+  target audience.
+image_alt: Elegant actress in a spotlight at an awards podium before a shadowed audience.
 ---
 
 Sharon Stone, renowned for her captivating performances and enduring presence in Hollywood, recently took center stage at the Astra Film Awards. Her acceptance speech was a poignant moment, offering both gratitude and a personal revelation that resonated deeply with the audience. The event served as a reminder of her impact both on and off the screen.
