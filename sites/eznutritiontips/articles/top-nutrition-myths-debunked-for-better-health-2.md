@@ -1,25 +1,34 @@
 ---
-title: "Top Nutrition Myths Debunked for Better Health"
-description: "Nutrition is essential for a healthy lifestyle, yet misinformation can cause confusion. By debunking myths about calories, proteins, carbohydrates, and fats, individuals can make informed dietary choices that support health and well-being while maintaining proper hydration practices."
-type: "standard"
-status: "published"
-publishDate: "2026-03-09T10:17:33+00:00"
-author: "Taylor Winters"
+title: Top Nutrition Myths Debunked for Better Health
+description: >-
+  Nutrition is essential for a healthy lifestyle, yet misinformation can cause
+  confusion. By debunking myths about calories, proteins, carbohydrates, and
+  fats, individuals can make informed dietary choices that support health and
+  well-being while maintaining proper hydration practices.
+type: standard
+status: published
+publishDate: '2026-03-09T10:17:33+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-  - "Weight &amp; Wellness"
-slug: "top-nutrition-myths-debunked-for-better-health-2"
+  - Nutrition Myths
+  - Weight &amp; Wellness
+slug: top-nutrition-myths-debunked-for-better-health-2
 reading_time: 3
-source_url: "https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health-2/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health-2/'
+imported_from: wordpress
 wp_original_id: 19005
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-nutrition-myths-debunked-for-better-health-2.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health-2/"
-  og_title: "Top Nutrition Myths Debunked for Better Health - Easy Nutrition Tips"
-  og_description: "Nutrition is essential for a healthy lifestyle, yet misinformation can cause confusion. By debunking myths about calories, proteins, carbohydrates, and fats, individuals can make informed dietary choices that support health and well-being while maintaining proper hydration practices."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/top-nutrition-myths-debunked-for-better-health-2/
+  og_title: Top Nutrition Myths Debunked for Better Health - Easy Nutrition Tips
+  og_description: >-
+    Nutrition is essential for a healthy lifestyle, yet misinformation can cause
+    confusion. By debunking myths about calories, proteins, carbohydrates, and
+    fats, individuals can make informed dietary choices that support health and
+    well-being while maintaining proper hydration practices.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 54
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Strong content on nutrition myths with accurate information and good keyword relevance, but significantly under target word count at 540 words versus the 800-1200 range."
+quality_note: >-
+  Strong content on nutrition myths with accurate information and good keyword
+  relevance, but significantly under target word count at 540 words versus the
+  800-1200 range.
+image_alt: >-
+  Balanced whole foods and water on a sunlit kitchen table with blank paper
+  scraps pushed aside
 ---
 
 Nutrition is a crucial aspect of maintaining a healthy lifestyle, yet the abundance of information available can often lead to confusion. Many popular beliefs about diet and nutrition are not entirely accurate. By debunking some common nutrition myths, we can make more informed choices that better support our health.
