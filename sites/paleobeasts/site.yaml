@@ -2,7 +2,8 @@ domain: paleobeasts.com
 site_name: paleobeasts
 site_tagline: null
 author: Elena Gray
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d72816f23264031d7a4c
 brief:
