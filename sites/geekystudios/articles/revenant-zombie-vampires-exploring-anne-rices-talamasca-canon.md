@@ -1,24 +1,37 @@
 ---
-title: "Revenant Zombie Vampires: Exploring Anne Rice’s Talamasca Canon"
-description: "In Anne Rice's universe, revenants are unique supernatural beings that blend traits of zombies and vampires, challenging traditional undead narratives by embodying the duality of life and death and offering a fresh perspective on immortality and human fears."
-type: "standard"
-status: "review"
-publishDate: "2025-11-10T10:27:31+00:00"
-author: "Arthur Daly"
+title: 'Revenant Zombie Vampires: Exploring Anne Rice’s Talamasca Canon'
+description: >-
+  In Anne Rice's universe, revenants are unique supernatural beings that blend
+  traits of zombies and vampires, challenging traditional undead narratives by
+  embodying the duality of life and death and offering a fresh perspective on
+  immortality and human fears.
+type: standard
+status: review
+publishDate: '2025-11-10T10:27:31+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "revenant-zombie-vampires-exploring-anne-rices-talamasca-canon"
+  - Pop Culture
+slug: revenant-zombie-vampires-exploring-anne-rices-talamasca-canon
 reading_time: 3
-source_url: "https://geekystudios.com/revenant-zombie-vampires-exploring-anne-rices-talamasca-canon/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/revenant-zombie-vampires-exploring-anne-rices-talamasca-canon/
+imported_from: wordpress
 wp_original_id: 656
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/revenant-zombie-vampires-exploring-anne-rices-talamasca-canon.webp
 seo:
-  canonical: "https://geekystudios.com/revenant-zombie-vampires-exploring-anne-rices-talamasca-canon/"
-  og_title: "Revenant Zombie Vampires: Exploring Anne Rice's Talamasca Canon - Geeky Studios"
-  og_description: "In Anne Rice's universe, revenants are unique supernatural beings that blend traits of zombies and vampires. They challenge traditional undead narratives by embodying the duality of life and death, offering a fresh perspective on immortality and human fears."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/11/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/revenant-zombie-vampires-exploring-anne-rices-talamasca-canon/
+  og_title: >-
+    Revenant Zombie Vampires: Exploring Anne Rice's Talamasca Canon - Geeky
+    Studios
+  og_description: >-
+    In Anne Rice's universe, revenants are unique supernatural beings that blend
+    traits of zombies and vampires. They challenge traditional undead narratives
+    by embodying the duality of life and death, offering a fresh perspective on
+    immortality and human fears.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/11/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "Well-written with good tone and pop culture relevance, but significantly under target word count and contains major factual inaccuracies about Anne Rice's canon, as revenants are not established creatures in her works."
+quality_note: >-
+  Well-written with good tone and pop culture relevance, but significantly under
+  target word count and contains major factual inaccuracies about Anne Rice's
+  canon, as revenants are not established creatures in her works.
+image_alt: >-
+  Candlelit gothic archive with a shadowy undead figure split between moonlight
+  and flame
 ---
 
 In the vast universe of Anne Rice's literary creations, the supernatural beings known as revenants hold a unique place. These creatures, somewhere between zombies and vampires, add a captivating layer to Rice's intricate tapestry of storytelling. This article delves into the origins, characteristics, and role of revenants within Rice's canon, offering a fresh perspective on these fascinating entities.
