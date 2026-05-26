@@ -1,25 +1,36 @@
 ---
-title: "Man United’s Future and Salah’s Trophy Quest Explored"
-description: "Manchester United secured a dramatic victory against Macclesfield in a match that showcased tactical discipline, standout individual performances, and commendable resilience from both sides, highlighting football's unpredictable and passionate nature."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T09:35:28+00:00"
-author: "Taylor Winters"
+title: Man United’s Future and Salah’s Trophy Quest Explored
+description: >-
+  Manchester United secured a dramatic victory against Macclesfield in a match
+  that showcased tactical discipline, standout individual performances, and
+  commendable resilience from both sides, highlighting football's unpredictable
+  and passionate nature.
+type: standard
+status: review
+publishDate: '2026-01-12T09:35:28+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Michael Carrick"
-slug: "man-uniteds-future-and-salahs-trophy-quest-explored"
+  - Latest News
+  - Michael Carrick
+slug: man-uniteds-future-and-salahs-trophy-quest-explored
 reading_time: 3
-source_url: "https://soccernewsreports.com/man-uniteds-future-and-salahs-trophy-quest-explored/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/man-uniteds-future-and-salahs-trophy-quest-explored/
+imported_from: wordpress
 wp_original_id: 37958
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/man-uniteds-future-and-salahs-trophy-quest-explored.webp
 seo:
-  canonical: "https://soccernewsreports.com/man-uniteds-future-and-salahs-trophy-quest-explored/"
-  og_title: "Man United's Future and Salah's Trophy Quest Explored - Soccer News Reports"
-  og_description: "Manchester United secured a dramatic victory against Macclesfield, showcasing skill and determination. The match highlighted football's unpredictable nature and the passion it ignites among supporters. Despite the loss, Macclesfield displayed commendable resilience, frustrating their opponents with a strong defensive line."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/man-uniteds-future-and-salahs-trophy-quest-explored/
+  og_title: Man United's Future and Salah's Trophy Quest Explored - Soccer News Reports
+  og_description: >-
+    Manchester United secured a dramatic victory against Macclesfield,
+    showcasing skill and determination. The match highlighted football's
+    unpredictable nature and the passion it ignites among supporters. Despite
+    the loss, Macclesfield displayed commendable resilience, frustrating their
+    opponents with a strong defensive line.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 49
 score_breakdown:
   seo_quality: 45
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 60
-quality_note: "Article has major factual issues with fabricated match details and poor content length, despite decent tone and some keyword coverage."
+quality_note: >-
+  Article has major factual issues with fabricated match details and poor
+  content length, despite decent tone and some keyword coverage.
+image_alt: >-
+  Footballers sprint for a loose ball under floodlights with a trophy silhouette
+  in the distance.
 ---
 
 In a thrilling encounter that has captivated football fans, Manchester United recently secured a dramatic victory against Macclesfield in a match that showcased both skill and determination. This exciting clash highlighted the unpredictable nature of football and the passion it ignites among supporters worldwide.
