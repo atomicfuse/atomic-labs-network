@@ -1,23 +1,34 @@
 ---
-title: "Discover the Four Types of Human Relationships with Indoor Plants: Insights from Recent Studies"
-description: "The bond between humans and their indoor plants can be categorized into four types: aesthetics appreciators, plant buddies, casual caretakers, and beneficial strategists. These categories reflect our emotional attachments and care practices, influencing how we design spaces, choose plants, and develop care regimens."
-type: "standard"
-status: "review"
-publishDate: "2025-04-21T11:32:13"
-author: "Taylor Winters"
+title: >-
+  Discover the Four Types of Human Relationships with Indoor Plants: Insights
+  from Recent Studies
+description: >-
+  The bond between humans and their indoor plants can be categorized into four
+  types: aesthetics appreciators, plant buddies, casual caretakers, and
+  beneficial strategists. These categories reflect our emotional attachments and
+  care practices, influencing how we design spaces, choose plants, and develop
+  care regimens.
+type: standard
+status: review
+publishDate: '2025-04-21T11:32:13'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Humans"
-  - "Nature"
-slug: "discover-the-four-types-of-human-relationships-with-indoor-plants-insights-from-recent-studies"
+  - Environment
+  - Humans
+  - Nature
+slug: >-
+  discover-the-four-types-of-human-relationships-with-indoor-plants-insights-from-recent-studies
 reading_time: 2
-source_url: "https://www.sciencenewslab.com/discover-the-four-types-of-human-relationships-with-indoor-plants-insights-from-recent-studies/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/discover-the-four-types-of-human-relationships-with-indoor-plants-insights-from-recent-studies/
+imported_from: wordpress
 wp_original_id: 14945
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-four-types-of-human-relationships-with-indoor-plants-insights-from-recent-studies.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/discover-the-four-types-of-human-relationships-with-indoor-plants-insights-from-recent-studies/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/discover-the-four-types-of-human-relationships-with-indoor-plants-insights-from-recent-studies/
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -25,7 +36,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword coverage, but significantly too short at 395 words and lacks specific research citations which raises factual accuracy concerns."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  too short at 395 words and lacks specific research citations which raises
+  factual accuracy concerns.
+image_alt: >-
+  Four indoor plant arrangements in a bright modern apartment reflecting
+  different ways people relate to plants.
 ---
 
 The bond between humans and their indoor greenery is complex, encompassing a spectrum of attitudes and behaviors, according to recent research. This connection may be categorized into four distinct types, each illustrating how we perceive and interact with indoor plants.
