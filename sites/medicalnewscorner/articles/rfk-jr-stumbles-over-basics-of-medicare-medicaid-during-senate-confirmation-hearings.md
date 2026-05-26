@@ -1,24 +1,42 @@
 ---
-title: "RFK Jr. stumbles over basics of Medicare, Medicaid during Senate confirmation hearings"
-description: "During his Senate confirmation hearings, RFK Jr. struggled to accurately describe the basic components of Medicare and Medicaid, drawing sharp criticism from Democratic senators who questioned his readiness to lead the Department of Health and Human Services."
-type: "standard"
-status: "published"
-publishDate: "2025-01-31T22:21:21+00:00"
-author: "admin"
+title: >-
+  RFK Jr. stumbles over basics of Medicare, Medicaid during Senate confirmation
+  hearings
+description: >-
+  During his Senate confirmation hearings, RFK Jr. struggled to accurately
+  describe the basic components of Medicare and Medicaid, drawing sharp
+  criticism from Democratic senators who questioned his readiness to lead the
+  Department of Health and Human Services.
+type: standard
+status: published
+publishDate: '2025-01-31T22:21:21+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Health, Fitness &amp; Food"
-slug: "rfk-jr-stumbles-over-basics-of-medicare-medicaid-during-senate-confirmation-hearings"
+  - Health News
+  - 'Health, Fitness &amp; Food'
+slug: >-
+  rfk-jr-stumbles-over-basics-of-medicare-medicaid-during-senate-confirmation-hearings
 reading_time: 3
-source_url: "https://medicalnewscorner.com/rfk-jr-stumbles-over-basics-of-medicare-medicaid-during-senate-confirmation-hearings/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/rfk-jr-stumbles-over-basics-of-medicare-medicaid-during-senate-confirmation-hearings/
+imported_from: wordpress
 wp_original_id: 24446
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/rfk-jr-stumbles-over-basics-of-medicare-medicaid-during-senate-confirmation-hearings.webp
 seo:
-  canonical: "https://medicalnewscorner.com/rfk-jr-stumbles-over-basics-of-medicare-medicaid-during-senate-confirmation-hearings/"
-  og_title: "RFK Jr. stumbles over basics of Medicare, Medicaid during Senate confirmation hearings - Medical News Corner"
-  og_description: "Robert F. Kennedy Jr., U.S. President Trump&#x2019;s nominee to be secretary of Health and Human Services, testifies before a Senate Health, Education, Labor, and Pensions (HELP) Committee confirmation hearing on Capitol Hill in Washington, U.S., Jan. 30, 2025.&#xA0; Nathan Howard | Reuters Robert F. Kennedy Jr., President Donald Trump&#8216;s pick to lead the Department of [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/rfk-jr-stumbles-over-basics-of-medicare-medicaid-during-senate-confirmation-hearings/
+  og_title: >-
+    RFK Jr. stumbles over basics of Medicare, Medicaid during Senate
+    confirmation hearings - Medical News Corner
+  og_description: >-
+    Robert F. Kennedy Jr., U.S. President Trump&#x2019;s nominee to be secretary
+    of Health and Human Services, testifies before a Senate Health, Education,
+    Labor, and Pensions (HELP) Committee confirmation hearing on Capitol Hill in
+    Washington, U.S., Jan. 30, 2025.&#xA0; Nathan Howard | Reuters Robert F.
+    Kennedy Jr., President Donald Trump&#8216;s pick to lead the Department of
+    [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +44,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written health news article with strong tone and accuracy, but significantly below target word count which hurts overall quality."
+quality_note: >-
+  Well-written health news article with strong tone and accuracy, but
+  significantly below target word count which hurts overall quality.
+image_alt: >-
+  Tense Senate hearing scene with an official facing healthcare policy binders
+  and blurred lawmakers.
 ---
 
 Robert F. Kennedy Jr., President Donald Trump's pick to lead the [Department of Health and Human Services](https://www.cnbc.com/2024/11/19/rfk-jr-is-trump-pick-for-hhs-secretary-heres-what-he-could-do.html), appeared to be unfamiliar with fundamental elements of the Medicare and Medicaid programs Thursday during his second Senate [confirmation hearing](https://www.help.senate.gov/hearings/nomination-of-robert-f-kennedy-jr-to-serve-as-secretary-of-health-and-human-services).
