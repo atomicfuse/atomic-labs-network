@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-crafting-tomato-wine-a-unique-alcoholic-adventure
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/crafting-tomato-wine-a-unique-alcoholic-adventure.webp
 reading_time: 3
 quality_score: 70
 score_breakdown:
@@ -32,6 +32,9 @@ score_breakdown:
 quality_note: >-
   Well-structured article with good keyword relevance but falls short on length
   and relies too heavily on vague sourcing without concrete facts.
+image_alt: >-
+  A glass of rosé-gold tomato wine beside heirloom tomatoes on a warmly lit
+  rustic counter
 ---
 ## The Rise of Unconventional Wine Making
 
