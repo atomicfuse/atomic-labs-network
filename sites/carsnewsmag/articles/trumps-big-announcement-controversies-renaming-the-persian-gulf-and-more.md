@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-trumps-big-announcement-controversies-renaming-the-persian-gulf-and-more
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/trumps-big-announcement-controversies-renaming-the-persian-gulf-and-more.webp
 reading_time: 2
 quality_score: 19
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   This article is completely off-topic for an automotive site, lacks specific
   details, is far too short, and contains vague political content that doesn't
   match the required automotive focus.
+image_alt: >-
+  Tense press briefing setup with microphones and an abstract gulf coastline
+  projection
 ---
 ## Major Announcement Creates Widespread Discussion
 
