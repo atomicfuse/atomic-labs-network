@@ -1,29 +1,34 @@
 ---
-title: "Exploring the Most Popular Healthy TikTok Recipes"
-description: "Discover the most viewed healthy recipes on TikTok and learn their impact on your lifestyle."
-type: "standard"
-status: "review"
-publishDate: "2025-05-12T06:07:21+00:00"
-author: "Taylor Winters"
+title: Exploring the Most Popular Healthy TikTok Recipes
+description: >-
+  Discover the most viewed healthy recipes on TikTok and learn their impact on
+  your lifestyle.
+type: standard
+status: review
+publishDate: '2025-05-12T06:07:21+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Myths"
-  - "Nutrition Quick Tips"
-slug: "exploring-the-most-popular-healthy-tiktok-recipes"
+  - Healthy Recipes
+  - Nutrition Myths
+  - Nutrition Quick Tips
+slug: exploring-the-most-popular-healthy-tiktok-recipes
 reading_time: 2
-source_url: "https://eznutritiontips.com/exploring-the-most-popular-healthy-tiktok-recipes/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/exploring-the-most-popular-healthy-tiktok-recipes/'
+imported_from: wordpress
 wp_original_id: 18913
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/exploring-the-most-popular-healthy-tiktok-recipes.webp
 seo:
-  canonical: "https://eznutritiontips.com/exploring-the-most-popular-healthy-tiktok-recipes/"
-  og_title: "Exploring the Most Popular Healthy TikTok Recipes - Easy Nutrition Tips"
-  og_description: "Discover the most viewed healthy recipes on TikTok and learn their impact on your lifestyle."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/exploring-the-most-popular-healthy-tiktok-recipes/
+  og_title: Exploring the Most Popular Healthy TikTok Recipes - Easy Nutrition Tips
+  og_description: >-
+    Discover the most viewed healthy recipes on TikTok and learn their impact on
+    your lifestyle.
+  twitter_card: summary_large_image
 videos:
-  - id: "73887c67"
-    url: "https://www.youtube.com/watch?v=JVCK_3CFC-E"
-    position: "after-paragraph-2"
+  - id: 73887c67
+    url: 'https://www.youtube.com/watch?v=JVCK_3CFC-E'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -31,7 +36,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and relevance but is significantly too short at 317 words, falling well below the 800-1200 word target range."
+quality_note: >-
+  The article has good tone and relevance but is significantly too short at 317
+  words, falling well below the 800-1200 word target range.
+image_alt: >-
+  Colorful healthy ingredients and prepared meals on a bright modern kitchen
+  counter
 ---
 
 TikTok has become a hub for innovative and creative recipes that captivate audiences worldwide. Among the most popular are those claiming to be healthy options that fit well into various lifestyles. In this article, we explore some of the most viewed healthy recipes on TikTok and discuss their appeal and potential benefits.
