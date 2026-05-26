@@ -1,25 +1,35 @@
 ---
-title: "2025’s Top International Travel Destinations for Koreans"
-description: "South Korea is advancing its energy sector by promoting hydrogen as a primary energy source, aiming for carbon neutrality by 2050. This initiative supports economic growth and reduces reliance on fossil fuels, setting a global example in clean energy innovation."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T09:47:21+00:00"
-author: "Taylor Winters"
+title: 2025’s Top International Travel Destinations for Koreans
+description: >-
+  South Korea is advancing its energy sector by promoting hydrogen as a primary
+  energy source, aiming for carbon neutrality by 2050. This initiative supports
+  economic growth and reduces reliance on fossil fuels, setting a global example
+  in clean energy innovation.
+type: standard
+status: review
+publishDate: '2025-12-29T09:47:21+00:00'
+author: Taylor Winters
 tags:
-  - "Travel"
-  - "News"
-slug: "2025s-top-international-travel-destinations-for-koreans"
+  - Travel
+  - News
+slug: 2025s-top-international-travel-destinations-for-koreans
 reading_time: 3
-source_url: "https://journeypeaks.com/2025s-top-international-travel-destinations-for-koreans/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/2025s-top-international-travel-destinations-for-koreans/
+imported_from: wordpress
 wp_original_id: 38775
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/2025s-top-international-travel-destinations-for-koreans.webp
 seo:
-  canonical: "https://journeypeaks.com/2025s-top-international-travel-destinations-for-koreans/"
-  og_title: "2025's Top International Travel Destinations for Koreans - Journey Peaks"
-  og_description: "South Korea is advancing its energy sector by promoting hydrogen as a primary energy source, aiming for carbon neutrality by 2050. This initiative supports economic growth and reduces reliance on fossil fuels, setting a global example in clean energy innovation."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/12/make_file-1.gif"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/2025s-top-international-travel-destinations-for-koreans/
+  og_title: 2025's Top International Travel Destinations for Koreans - Journey Peaks
+  og_description: >-
+    South Korea is advancing its energy sector by promoting hydrogen as a
+    primary energy source, aiming for carbon neutrality by 2050. This initiative
+    supports economic growth and reduces reliance on fossil fuels, setting a
+    global example in clean energy innovation.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/12/make_file-1.gif'
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 15
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article is completely mismatched - the title promises travel destinations for Koreans but delivers content about hydrogen energy policy, creating a severe disconnect between promised and actual content."
+quality_note: >-
+  The article is completely mismatched - the title promises travel destinations
+  for Koreans but delivers content about hydrogen energy policy, creating a
+  severe disconnect between promised and actual content.
+image_alt: >-
+  Futuristic hydrogen energy facility on a Korean coastal skyline under clear
+  blue light
 ---
 
 South Korea is making significant strides by implementing an innovative hydrogen policy aimed at driving the nation toward sustainable energy solutions. This initiative is a core part of South Korea's commitment to reducing carbon emissions and fostering an eco-friendly industrial environment. As the world shifts toward clean energy, South Korea's proactive approach sets a promising example for other nations.
