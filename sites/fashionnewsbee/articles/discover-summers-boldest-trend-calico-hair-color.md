@@ -1,23 +1,34 @@
 ---
-title: "Discover Summer’s Boldest Trend: Calico Hair Color"
-description: "The calico hair color trend blends multiple shades to mimic the patchy fur of calico cats, offering a unique and eye-catching look. This vibrant, customizable technique requires a professional colorist to achieve a seamless and dynamic result."
-type: "standard"
-status: "published"
-publishDate: "2025-06-19T04:39:44+00:00"
-author: "Taylor Winters"
+title: 'Discover Summer’s Boldest Trend: Calico Hair Color'
+description: >-
+  The calico hair color trend blends multiple shades to mimic the patchy fur of
+  calico cats, offering a unique and eye-catching look. This vibrant,
+  customizable technique requires a professional colorist to achieve a seamless
+  and dynamic result.
+type: standard
+status: published
+publishDate: '2025-06-19T04:39:44+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-slug: "discover-summers-boldest-trend-calico-hair-color"
+  - Beauty
+slug: discover-summers-boldest-trend-calico-hair-color
 reading_time: 4
-source_url: "https://fashionnewsbee.com/discover-summers-boldest-trend-calico-hair-color/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/discover-summers-boldest-trend-calico-hair-color/'
+imported_from: wordpress
 wp_original_id: 31530
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/discover-summers-boldest-trend-calico-hair-color.webp
 seo:
-  canonical: "https://fashionnewsbee.com/discover-summers-boldest-trend-calico-hair-color/"
-  og_title: "Discover Summer's Boldest Trend: Calico Hair Color - Fashion News Bee"
-  og_description: "The calico hair color trend blends multiple shades to mimic the patchy fur of calico cats, offering a unique and eye-catching look. This vibrant, customizable technique requires a professional colorist to achieve a seamless and dynamic result."
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/discover-summers-boldest-trend-calico-hair-color/'
+  og_title: 'Discover Summer''s Boldest Trend: Calico Hair Color - Fashion News Bee'
+  og_description: >-
+    The calico hair color trend blends multiple shades to mimic the patchy fur
+    of calico cats, offering a unique and eye-catching look. This vibrant,
+    customizable technique requires a professional colorist to achieve a
+    seamless and dynamic result.
+  twitter_card: summary_large_image
+image_alt: >-
+  Model with glossy calico-inspired hair in a bright summer beauty editorial
+  setting.
 ---
 
 In the world of hair color, new trends constantly emerge, offering exciting ways to express individuality and style. One of the latest trends capturing attention is the calico hair color trend. Inspired by the unique patterns found in calico cats, this hair color technique blends multiple shades to create a visually striking and dynamic look that is both playful and sophisticated.
