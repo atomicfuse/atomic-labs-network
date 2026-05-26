@@ -1,25 +1,42 @@
 ---
-title: "Experience the Thrill: Hyundai’s Game-Inspired Concept Car, INSTEROID, Makes Its Debut in Seoul"
-description: "Hyundai Motors has revealed its latest concept car, the Insteroid, specifically designed for the gaming community. The vehicle, debuted in Seoul, combines modern technology with gaming culture, underscoring Hyundai's commitment to innovation and revolutionizing the automotive experience."
-type: "standard"
-status: "review"
-publishDate: "2025-04-01T08:43:40+00:00"
-author: "Taylor Winters"
+title: >-
+  Experience the Thrill: Hyundai’s Game-Inspired Concept Car, INSTEROID, Makes
+  Its Debut in Seoul
+description: >-
+  Hyundai Motors has revealed its latest concept car, the Insteroid,
+  specifically designed for the gaming community. The vehicle, debuted in Seoul,
+  combines modern technology with gaming culture, underscoring Hyundai's
+  commitment to innovation and revolutionizing the automotive experience.
+type: standard
+status: review
+publishDate: '2025-04-01T08:43:40+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Cars 3: Driven to Win"
-slug: "experience-the-thrill-hyundais-game-inspired-concept-car-insteroid-makes-its-debut-in-seoul"
+  - Gaming News
+  - 'Cars 3: Driven to Win'
+slug: >-
+  experience-the-thrill-hyundais-game-inspired-concept-car-insteroid-makes-its-debut-in-seoul
 reading_time: 2
-source_url: "https://gamerinformers.com/experience-the-thrill-hyundais-game-inspired-concept-car-insteroid-makes-its-debut-in-seoul/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/experience-the-thrill-hyundais-game-inspired-concept-car-insteroid-makes-its-debut-in-seoul/
+imported_from: wordpress
 wp_original_id: 33949
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/experience-the-thrill-hyundais-game-inspired-concept-car-insteroid-makes-its-debut-in-seoul.webp
 seo:
-  canonical: "https://gamerinformers.com/experience-the-thrill-hyundais-game-inspired-concept-car-insteroid-makes-its-debut-in-seoul/"
-  og_title: "Experience the Thrill: Hyundai's Game-Inspired Concept Car, INSTEROID, Makes Its Debut in Seoul - Gamer Informers"
-  og_description: "Hyundai Motors has revealed its latest concept car, the Insteroid, specifically designed for the gaming community. The vehicle, debuted in Seoul, combines modern technology with gaming culture. The Insteroid underscores Hyundai's commitment to innovation and revolutionizing the automotive experience."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/experience-the-thrill-hyundais-game-inspired-concept-car-insteroid-makes-its-debut-in-seoul/
+  og_title: >-
+    Experience the Thrill: Hyundai's Game-Inspired Concept Car, INSTEROID, Makes
+    Its Debut in Seoul - Gamer Informers
+  og_description: >-
+    Hyundai Motors has revealed its latest concept car, the Insteroid,
+    specifically designed for the gaming community. The vehicle, debuted in
+    Seoul, combines modern technology with gaming culture. The Insteroid
+    underscores Hyundai's commitment to innovation and revolutionizing the
+    automotive experience.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 26
 score_breakdown:
   seo_quality: 25
@@ -27,7 +44,11 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: "This article appears to be about a fabricated Hyundai concept car with poor gaming relevance, insufficient length, and weak SEO optimization for a gaming audience."
+quality_note: >-
+  This article appears to be about a fabricated Hyundai concept car with poor
+  gaming relevance, insufficient length, and weak SEO optimization for a gaming
+  audience.
+image_alt: Futuristic unbranded concept car glowing on a neon gaming-inspired city stage
 ---
 
 Hyundai Motors, the South Korean automotive giant, has unveiled its latest concept car, the Insteroid, designed to cater to the gaming community. This innovative vehicle is a fusion of modern technology and gaming culture, and it made its debut in Seoul, South Korea. The Insteroid is a testament to Hyundai's commitment to pushing the boundaries of automotive technology and design.
