@@ -1,28 +1,36 @@
 ---
-title: "Scientist’s Urgent Alert: 3I/ATLAS Message Sparks Global Buzz"
-description: "An unexpected message from the interstellar object 3I/ATLAS has taken the world by storm, igniting viral speculation and intrigue across both scientific communities and the general public."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T05:13:19+00:00"
-author: "Nico Harper"
+title: 'Scientist’s Urgent Alert: 3I/ATLAS Message Sparks Global Buzz'
+description: >-
+  An unexpected message from the interstellar object 3I/ATLAS has taken the
+  world by storm, igniting viral speculation and intrigue across both scientific
+  communities and the general public.
+type: standard
+status: review
+publishDate: '2025-08-28T05:13:19+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-  - "Internet Mysteries"
-slug: "scientists-urgent-alert-3i-atlas-message-sparks-global-buzz"
+  - Hot Trends
+  - Internet Mysteries
+slug: scientists-urgent-alert-3i-atlas-message-sparks-global-buzz
 reading_time: 2
-source_url: "https://gigsfreaks.com/scientists-urgent-alert-3i-atlas-message-sparks-global-buzz/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/scientists-urgent-alert-3i-atlas-message-sparks-global-buzz/
+imported_from: wordpress
 wp_original_id: 951
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/scientists-urgent-alert-3i-atlas-message-sparks-global-buzz.webp
 seo:
-  canonical: "https://gigsfreaks.com/scientists-urgent-alert-3i-atlas-message-sparks-global-buzz/"
-  og_title: "Scientist's Urgent Alert: 3I/ATLAS Message Sparks Global Buzz - GigsFreaks"
-  og_description: "An unexpected message from 3I/ATLAS has taken the world by storm, igniting viral speculation and intrigue."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/scientists-urgent-alert-3i-atlas-message-sparks-global-buzz/
+  og_title: 'Scientist''s Urgent Alert: 3I/ATLAS Message Sparks Global Buzz - GigsFreaks'
+  og_description: >-
+    An unexpected message from 3I/ATLAS has taken the world by storm, igniting
+    viral speculation and intrigue.
+  twitter_card: summary_large_image
 videos:
-  - id: "fb9e698c"
-    url: "https://www.youtube.com/watch?v=pe0yMTE6ee0"
-    position: "after-paragraph-2"
+  - id: fb9e698c
+    url: 'https://www.youtube.com/watch?v=pe0yMTE6ee0'
+    position: after-paragraph-2
 quality_score: 55
 score_breakdown:
   seo_quality: 65
@@ -30,7 +38,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "Strong topic relevance and decent tone but critically short content and concerning factual claims about fabricated space object communications."
+quality_note: >-
+  Strong topic relevance and decent tone but critically short content and
+  concerning factual claims about fabricated space object communications.
+image_alt: >-
+  Scientists monitor a mysterious interstellar signal from a glowing object in
+  the night sky.
 ---
 
 In a stunning development that has captured the attention of the global community, a message from the interstellar object known as 3I/ATLAS has reportedly been transmitted to Earth. This event, which was initially whispered about in niche scientific communities, has since exploded across social media platforms, generating a whirlwind of speculation and curiosity.
