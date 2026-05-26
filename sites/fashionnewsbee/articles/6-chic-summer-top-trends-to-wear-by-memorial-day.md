@@ -1,24 +1,33 @@
 ---
-title: "6 Chic Summer Top Trends to Wear by Memorial Day"
-description: "Summer 2026 top trends focus on polished ease, from refined halters and soft peplums to sheer blouses, scarf tops, and sporty collars that make warm-weather outfits feel fresh, versatile, and city-ready."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:44:14+00:00"
-author: "Taylor Winters"
+title: 6 Chic Summer Top Trends to Wear by Memorial Day
+description: >-
+  Summer 2026 top trends focus on polished ease, from refined halters and soft
+  peplums to sheer blouses, scarf tops, and sporty collars that make
+  warm-weather outfits feel fresh, versatile, and city-ready.
+type: standard
+status: published
+publishDate: '2026-05-04T08:44:14+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "6-chic-summer-top-trends-to-wear-by-memorial-day"
+  - Fashion
+slug: 6-chic-summer-top-trends-to-wear-by-memorial-day
 reading_time: 7
-source_url: "https://fashionnewsbee.com/6-chic-summer-top-trends-to-wear-by-memorial-day/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/6-chic-summer-top-trends-to-wear-by-memorial-day/'
+imported_from: wordpress
 wp_original_id: 31662
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/6-chic-summer-top-trends-to-wear-by-memorial-day.webp
 seo:
-  canonical: "https://fashionnewsbee.com/6-chic-summer-top-trends-to-wear-by-memorial-day/"
-  og_title: "6 Chic Summer Top Trends to Wear by Memorial Day - Fashion News Bee"
-  og_description: "Summer 2026 top trends focus on polished ease, from refined halters and soft peplums to sheer blouses, scarf tops, and sporty collars that make warm-weather outfits feel fresh, versatile, and city-ready."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/6-chic-summer-top-trends-to-wear-by-memorial-day/'
+  og_title: 6 Chic Summer Top Trends to Wear by Memorial Day - Fashion News Bee
+  og_description: >-
+    Summer 2026 top trends focus on polished ease, from refined halters and soft
+    peplums to sheer blouses, scarf tops, and sporty collars that make
+    warm-weather outfits feel fresh, versatile, and city-ready.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Chic summer fashion look on a sunlit city street with airy layers and polished
+  warm-weather styling
 ---
 
 Summer 2026 top trends are moving in a polished but relaxed direction, with pieces that feel easy enough for hot weather yet refined enough for city dressing, holidays, and evening plans. The best styles this season balance shape, texture, and versatility. Think sculptural necklines, soft tailoring details, airy fabrics, and tops that can transform simple jeans, linen trousers, or a slip skirt into a complete look.
