@@ -1,26 +1,37 @@
 ---
-title: "Top Culinary Destinations Named by Michelin for 2026 Travel"
-description: "The Michelin Guide has revealed its top gastronomic travel destinations for 2026, spotlighting cities like Paris, Tokyo, Lima, and Cape Town for their exceptional culinary experiences, innovative chefs, and diverse food cultures."
-type: "standard"
-status: "review"
-publishDate: "2026-01-15T10:01:34+00:00"
-author: "Taylor Winters"
+title: Top Culinary Destinations Named by Michelin for 2026 Travel
+description: >-
+  The Michelin Guide has revealed its top gastronomic travel destinations for
+  2026, spotlighting cities like Paris, Tokyo, Lima, and Cape Town for their
+  exceptional culinary experiences, innovative chefs, and diverse food cultures.
+type: standard
+status: review
+publishDate: '2026-01-15T10:01:34+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Food &amp; Drink"
-  - "Travel"
-slug: "top-culinary-destinations-named-by-michelin-for-2026-travel"
+  - Destinations
+  - Food &amp; Drink
+  - Travel
+slug: top-culinary-destinations-named-by-michelin-for-2026-travel
 reading_time: 3
-source_url: "https://journeypeaks.com/top-culinary-destinations-named-by-michelin-for-2026-travel/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-culinary-destinations-named-by-michelin-for-2026-travel/
+imported_from: wordpress
 wp_original_id: 38787
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/top-culinary-destinations-named-by-michelin-for-2026-travel.webp
 seo:
-  canonical: "https://journeypeaks.com/top-culinary-destinations-named-by-michelin-for-2026-travel/"
-  og_title: "Top Culinary Destinations Named by Michelin for 2026 Travel - Journey Peaks"
-  og_description: "The Michelin Guide's 2026 list features top gastronomic travel destinations, spotlighting cities with exceptional culinary experiences. Highlights include Paris, Tokyo, and Cape Town, showcasing diverse flavors and innovative chefs, promising unforgettable dining adventures for food enthusiasts and cultural explorers alike."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/01/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-culinary-destinations-named-by-michelin-for-2026-travel/
+  og_title: Top Culinary Destinations Named by Michelin for 2026 Travel - Journey Peaks
+  og_description: >-
+    The Michelin Guide's 2026 list features top gastronomic travel destinations,
+    spotlighting cities with exceptional culinary experiences. Highlights
+    include Paris, Tokyo, and Cape Town, showcasing diverse flavors and
+    innovative chefs, promising unforgettable dining adventures for food
+    enthusiasts and cultural explorers alike.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/01/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -28,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but severely lacking in factual accuracy due to fabricated Michelin Guide 2026 list and insufficient word count for target audience."
+quality_note: >-
+  Strong tone and keyword relevance but severely lacking in factual accuracy due
+  to fabricated Michelin Guide 2026 list and insufficient word count for target
+  audience.
+image_alt: >-
+  Elegant tasting dishes arranged on a table evoking global culinary travel
+  destinations
 ---
 
 The Michelin Guide has unveiled its highly anticipated list of top gastronomic travel destinations for 2026, highlighting cities and regions worldwide that offer exceptional culinary experiences. This announcement generates excitement among food enthusiasts and travelers looking to explore diverse cultures through their cuisine.
