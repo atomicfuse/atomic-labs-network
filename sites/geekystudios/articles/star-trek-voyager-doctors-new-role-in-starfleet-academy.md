@@ -1,24 +1,34 @@
 ---
-title: "Star Trek: Voyager Doctor’s New Role in Starfleet Academy"
-description: "Star Trek: Starfleet Academy introduces fresh narratives and welcomes Robert Picardo, reprising his role as The Doctor from Voyager, adding depth and continuity as the series explores cadet life while bridging past and present Star Trek lore."
-type: "standard"
-status: "published"
-publishDate: "2026-02-26T10:33:30+00:00"
-author: "Arthur Daly"
+title: 'Star Trek: Voyager Doctor’s New Role in Starfleet Academy'
+description: >-
+  Star Trek: Starfleet Academy introduces fresh narratives and welcomes Robert
+  Picardo, reprising his role as The Doctor from Voyager, adding depth and
+  continuity as the series explores cadet life while bridging past and present
+  Star Trek lore.
+type: standard
+status: published
+publishDate: '2026-02-26T10:33:30+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "star-trek-voyager-doctors-new-role-in-starfleet-academy"
+  - Pop Culture
+slug: star-trek-voyager-doctors-new-role-in-starfleet-academy
 reading_time: 3
-source_url: "https://geekystudios.com/star-trek-voyager-doctors-new-role-in-starfleet-academy/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/star-trek-voyager-doctors-new-role-in-starfleet-academy/
+imported_from: wordpress
 wp_original_id: 714
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/star-trek-voyager-doctors-new-role-in-starfleet-academy.webp
 seo:
-  canonical: "https://geekystudios.com/star-trek-voyager-doctors-new-role-in-starfleet-academy/"
-  og_title: "Star Trek: Voyager Doctor's New Role in Starfleet Academy - Geeky Studios"
-  og_description: "Star Trek: Starfleet Academy introduces fresh narratives and welcomes Robert Picardo, reprising his role as The Doctor from Voyager, adding depth and continuity. This series explores cadet life, bridging past and present, while maintaining Star Trek's legacy."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/02/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/star-trek-voyager-doctors-new-role-in-starfleet-academy/
+  og_title: 'Star Trek: Voyager Doctor''s New Role in Starfleet Academy - Geeky Studios'
+  og_description: >-
+    Star Trek: Starfleet Academy introduces fresh narratives and welcomes Robert
+    Picardo, reprising his role as The Doctor from Voyager, adding depth and
+    continuity. This series explores cadet life, bridging past and present,
+    while maintaining Star Trek's legacy.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/02/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong pop culture focus with engaging tone, but lacks confirmation of some specific claims about the new series and falls short of target word count."
+quality_note: >-
+  Strong pop culture focus with engaging tone, but lacks confirmation of some
+  specific claims about the new series and falls short of target word count.
+image_alt: >-
+  Futuristic cadets gather around a glowing holographic mentor in a sleek space
+  academy atrium.
 ---
 
 Star Trek continues to captivate audiences with its ever-expanding universe, and the upcoming series "Star Trek: Starfleet Academy" promises to introduce a fresh narrative. One of the most exciting developments is the involvement of a familiar face from "Star Trek: Voyager"—The Doctor, played by Robert Picardo, who is set to take on a new and intriguing role.
