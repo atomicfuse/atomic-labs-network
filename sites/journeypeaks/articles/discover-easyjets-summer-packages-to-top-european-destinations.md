@@ -1,26 +1,40 @@
 ---
-title: "Discover easyJet’s Summer Packages to Top European Destinations"
-description: "Experience Europe's top destinations with EasyJet's travel packages, offering a mix of adventure, culture, and relaxation. From Mediterranean beaches to historic cities, each package is tailored for an authentic experience, ensuring a memorable vacation with flexibility and affordable luxury."
-type: "standard"
-status: "published"
-publishDate: "2025-10-30T09:55:28+00:00"
-author: "Taylor Winters"
+title: Discover easyJet’s Summer Packages to Top European Destinations
+description: >-
+  Experience Europe's top destinations with EasyJet's travel packages, offering
+  a mix of adventure, culture, and relaxation. From Mediterranean beaches to
+  historic cities, each package is tailored for an authentic experience,
+  ensuring a memorable vacation with flexibility and affordable luxury.
+type: standard
+status: published
+publishDate: '2025-10-30T09:55:28+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "discover-easyjets-summer-packages-to-top-european-destinations"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: discover-easyjets-summer-packages-to-top-european-destinations
 reading_time: 3
-source_url: "https://journeypeaks.com/discover-easyjets-summer-packages-to-top-european-destinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/discover-easyjets-summer-packages-to-top-european-destinations/
+imported_from: wordpress
 wp_original_id: 38729
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-easyjets-summer-packages-to-top-european-destinations.webp
 seo:
-  canonical: "https://journeypeaks.com/discover-easyjets-summer-packages-to-top-european-destinations/"
-  og_title: "Discover easyJet's Summer Packages to Top European Destinations - Journey Peaks"
-  og_description: "Experience Europe's top destinations with EasyJet's travel packages, offering a mix of adventure, culture, and relaxation. From Mediterranean beaches to historic cities, each package is tailored for an authentic experience, ensuring a memorable vacation with flexibility and affordable luxury."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/10/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/discover-easyjets-summer-packages-to-top-european-destinations/
+  og_title: >-
+    Discover easyJet's Summer Packages to Top European Destinations - Journey
+    Peaks
+  og_description: >-
+    Experience Europe's top destinations with EasyJet's travel packages,
+    offering a mix of adventure, culture, and relaxation. From Mediterranean
+    beaches to historic cities, each package is tailored for an authentic
+    experience, ensuring a memorable vacation with flexibility and affordable
+    luxury.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/10/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 65
@@ -28,7 +42,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written travel content with excellent tone and keyword relevance, but significantly short at 527 words compared to the 800-1200 target range, and lacks specific SEO elements like meta description optimization."
+quality_note: >-
+  Well-written travel content with excellent tone and keyword relevance, but
+  significantly short at 527 words compared to the 800-1200 target range, and
+  lacks specific SEO elements like meta description optimization.
+image_alt: >-
+  Sunlit travel essentials on a balcony overlooking a Mediterranean coast and
+  historic European rooftops.
 ---
 
 Experience the charm of Europe's most sought-after destinations this summer with easyJet's latest travel packages. These specially crafted packages are designed to offer travelers a seamless blend of adventure, culture, and relaxation. Whether you're a history buff, a culinary enthusiast, or simply seeking sun-kissed beaches, there's a destination waiting for you.
