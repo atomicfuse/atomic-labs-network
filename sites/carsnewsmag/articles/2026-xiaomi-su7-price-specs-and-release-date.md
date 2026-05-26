@@ -1,26 +1,32 @@
 ---
-title: "2026 Xiaomi SU7 Price Specs and Release Date"
-description: "Xiaomi's first EV is a sleek, high-tech saloon with strong performance, long-range potential and aggressive pricing, positioning the SU7 as a serious challenger to Tesla, BYD and premium electric sedans."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:22:15+00:00"
-author: "Taylor Winters"
+title: 2026 Xiaomi SU7 Price Specs and Release Date
+description: >-
+  Xiaomi's first EV is a sleek, high-tech saloon with strong performance,
+  long-range potential and aggressive pricing, positioning the SU7 as a serious
+  challenger to Tesla, BYD and premium electric sedans.
+type: standard
+status: published
+publishDate: '2026-05-04T08:22:15+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Industry"
-  - "Reviews"
-slug: "2026-xiaomi-su7-price-specs-and-release-date"
+  - Electric Cars
+  - Industry
+  - Reviews
+slug: 2026-xiaomi-su7-price-specs-and-release-date
 reading_time: 9
-source_url: "https://carsnewsmag.com/2026-xiaomi-su7-price-specs-and-release-date/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/2026-xiaomi-su7-price-specs-and-release-date/'
+imported_from: wordpress
 wp_original_id: 38608
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-xiaomi-su7-price-specs-and-release-date.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-xiaomi-su7-price-specs-and-release-date/"
-  og_title: "2026 Xiaomi SU7 Price Specs and Release Date - Cars News Magazine"
-  og_description: "Xiaomi’s first EV is a sleek, high-tech saloon with strong performance, long-range potential and aggressive pricing, positioning the SU7 as a serious challenger to Tesla, BYD and premium electric sedans."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/2026-xiaomi-su7-price-specs-and-release-date/'
+  og_title: 2026 Xiaomi SU7 Price Specs and Release Date - Cars News Magazine
+  og_description: >-
+    Xiaomi’s first EV is a sleek, high-tech saloon with strong performance,
+    long-range potential and aggressive pricing, positioning the SU7 as a
+    serious challenger to Tesla, BYD and premium electric sedans.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -28,7 +34,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written comprehensive review that perfectly matches the site's automotive focus and conversational tone, though the title could be more compelling and keyword-optimized."
+quality_note: >-
+  Well-written comprehensive review that perfectly matches the site's automotive
+  focus and conversational tone, though the title could be more compelling and
+  keyword-optimized.
+image_alt: Sleek electric saloon under futuristic lighting with subtle motion trails
 ---
 
 The Xiaomi SU7 proves that the next major electric car challenger may not come from a traditional carmaker. Xiaomi built its reputation on smartphones, smart home devices and connected software, yet its first electric saloon is already one of the most talked-about EVs in China. Sleek, quick and packed with technology, the 2026 Xiaomi SU7 aims directly at premium electric sedans such as the Tesla Model 3, Porsche Taycan and BYD Seal.
