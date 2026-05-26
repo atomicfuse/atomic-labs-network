@@ -1,24 +1,32 @@
 ---
-title: "Next’s £21 Floral Jeans Are Summer’s Must-Have Denim"
-description: "Floral jeans refresh classic denim with playful prints, embroidery, and summer-ready charm, offering easy styling ideas for daytime, evening, and transitional outfits."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:44:01+00:00"
-author: "Taylor Winters"
+title: Next’s £21 Floral Jeans Are Summer’s Must-Have Denim
+description: >-
+  Floral jeans refresh classic denim with playful prints, embroidery, and
+  summer-ready charm, offering easy styling ideas for daytime, evening, and
+  transitional outfits.
+type: standard
+status: published
+publishDate: '2026-05-21T08:44:01+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "nexts-21-floral-jeans-are-summers-must-have-denim"
+  - Fashion
+slug: nexts-21-floral-jeans-are-summers-must-have-denim
 reading_time: 8
-source_url: "https://fashionnewsbee.com/nexts-21-floral-jeans-are-summers-must-have-denim/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/nexts-21-floral-jeans-are-summers-must-have-denim/'
+imported_from: wordpress
 wp_original_id: 31672
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/nexts-21-floral-jeans-are-summers-must-have-denim.webp
 seo:
-  canonical: "https://fashionnewsbee.com/nexts-21-floral-jeans-are-summers-must-have-denim/"
-  og_title: "Next’s £21 Floral Jeans Are Summer’s Must-Have Denim - Fashion News Bee"
-  og_description: "Floral jeans refresh classic denim with playful prints, embroidery, and summer-ready charm, offering easy styling ideas for daytime, evening, and transitional outfits."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/nexts-21-floral-jeans-are-summers-must-have-denim/
+  og_title: Next’s £21 Floral Jeans Are Summer’s Must-Have Denim - Fashion News Bee
+  og_description: >-
+    Floral jeans refresh classic denim with playful prints, embroidery, and
+    summer-ready charm, offering easy styling ideas for daytime, evening, and
+    transitional outfits.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
+image_alt: Model wearing floral embroidered jeans in a sunny summer street setting
 ---
 
 Floral jeans are shaping up to be one of summer's easiest wardrobe refreshes, offering the same reliability as classic denim with a softer, more playful finish. From delicate embroidered blooms to bold printed flowers, this trend brings colour, texture, and personality to everyday outfits without feeling overly dressed up.
