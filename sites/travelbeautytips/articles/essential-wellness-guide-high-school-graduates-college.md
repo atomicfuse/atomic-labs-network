@@ -22,7 +22,7 @@ source_url: >-
   https://www.forbes.com/sites/poojashah/2026/05/25/the-high-school-graduates-guide-for-skin-and-overall-wellness/
 source_item_id: 6a14fea216f23264031d803f
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/essential-wellness-guide-high-school-graduates-college.webp
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -34,6 +34,9 @@ quality_note: >-
   Article covers relevant beauty and wellness topics but suffers from vague
   sourcing, poor SEO optimization, and below-target word count.
 reading_time: 3
+image_alt: >-
+  Sunlit dorm room desk with wellness essentials and a student relaxing in the
+  background
 ---
 ## Building Wellness Habits for College Success
 
