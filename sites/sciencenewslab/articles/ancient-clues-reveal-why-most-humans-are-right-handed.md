@@ -1,22 +1,27 @@
 ---
-title: "Ancient Clues Reveal Why Most Humans Are Right-Handed"
-description: "Fossil teeth and arm bones suggest human right-handedness began deep in evolution, linking ancient tool use, social learning, and brain specialization long before modern life."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T11:46:17"
-author: "Taylor Winters"
+title: Ancient Clues Reveal Why Most Humans Are Right-Handed
+description: >-
+  Fossil teeth and arm bones suggest human right-handedness began deep in
+  evolution, linking ancient tool use, social learning, and brain specialization
+  long before modern life.
+type: standard
+status: published
+publishDate: '2026-05-21T11:46:17'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "ancient-clues-reveal-why-most-humans-are-right-handed"
+  - Space
+  - Humans
+slug: ancient-clues-reveal-why-most-humans-are-right-handed
 reading_time: 7
-source_url: "https://www.sciencenewslab.com/ancient-clues-reveal-why-most-humans-are-right-handed/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/ancient-clues-reveal-why-most-humans-are-right-handed/
+imported_from: wordpress
 wp_original_id: 15111
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/ancient-clues-reveal-why-most-humans-are-right-handed.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/ancient-clues-reveal-why-most-humans-are-right-handed/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/ancient-clues-reveal-why-most-humans-are-right-handed/
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -24,7 +29,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "Well-written, engaging article with appropriate length and tone, but suffers from poor keyword alignment as it focuses on human evolution rather than the site's core topics of Space, Nature, Physics, Technology, and Environment."
+quality_note: >-
+  Well-written, engaging article with appropriate length and tone, but suffers
+  from poor keyword alignment as it focuses on human evolution rather than the
+  site's core topics of Space, Nature, Physics, Technology, and Environment.
+image_alt: 'Ancient hand, stone tool, and fossil clues on a warm archaeological surface'
 ---
 
 Most people reach, write, cut, throw, and point with the right hand. That familiar pattern is not a small quirk of modern life. Around 90 percent of humans are right-handed, and ancient evidence suggests this bias reaches deep into our evolutionary past.
