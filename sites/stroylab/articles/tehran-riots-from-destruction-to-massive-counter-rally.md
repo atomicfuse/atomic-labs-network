@@ -1,24 +1,32 @@
 ---
-title: "Tehran Riots: From Destruction to Massive Counter-Rally"
-description: "The global economic landscape is shifting as nations challenge the US dollar's dominance in international trade, with emerging economies like China, Russia, and India leading efforts to diversify currency usage and reshape global financial dynamics."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T10:43:34+00:00"
-author: "Blake Anderson"
+title: 'Tehran Riots: From Destruction to Massive Counter-Rally'
+description: >-
+  The global economic landscape is shifting as nations challenge the US dollar's
+  dominance in international trade, with emerging economies like China, Russia,
+  and India leading efforts to diversify currency usage and reshape global
+  financial dynamics.
+type: standard
+status: review
+publishDate: '2026-02-09T10:43:34+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "tehran-riots-from-destruction-to-massive-counter-rally"
+  - Deep Dives
+slug: tehran-riots-from-destruction-to-massive-counter-rally
 reading_time: 3
-source_url: "https://stroylab.com/tehran-riots-from-destruction-to-massive-counter-rally/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/tehran-riots-from-destruction-to-massive-counter-rally/'
+imported_from: wordpress
 wp_original_id: 783
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/tehran-riots-from-destruction-to-massive-counter-rally.webp
 seo:
-  canonical: "https://stroylab.com/tehran-riots-from-destruction-to-massive-counter-rally/"
-  og_title: "Tehran Riots: From Destruction to Massive Counter-Rally - StroyLab"
-  og_description: "The global economic landscape is shifting as nations challenge the US dollar's dominance in trade, seeking a balanced financial system. Emerging economies like China, Russia, and India lead efforts to use their currencies, impacting global trade dynamics and economic sovereignty."
-  og_image: "https://stroylab.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/tehran-riots-from-destruction-to-massive-counter-rally/'
+  og_title: 'Tehran Riots: From Destruction to Massive Counter-Rally - StroyLab'
+  og_description: >-
+    The global economic landscape is shifting as nations challenge the US
+    dollar's dominance in trade, seeking a balanced financial system. Emerging
+    economies like China, Russia, and India lead efforts to use their
+    currencies, impacting global trade dynamics and economic sovereignty.
+  og_image: 'https://stroylab.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 44
 score_breakdown:
   seo_quality: 15
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 70
   keyword_relevance: 10
-quality_note: "The article completely mismatches its title about Tehran riots with content about global currency systems, has poor SEO alignment, and fails to address the site's conspiracy/mystery focus despite being tagged as Deep Dives."
+quality_note: >-
+  The article completely mismatches its title about Tehran riots with content
+  about global currency systems, has poor SEO alignment, and fails to address
+  the site's conspiracy/mystery focus despite being tagged as Deep Dives.
+image_alt: >-
+  Dusk city boulevard with distant crowd silhouettes and abstract global trade
+  lines overhead
 ---
 
 The global landscape of economic power is undergoing significant shifts. Recent developments highlight a strategic move by several nations to challenge the dominance of the US dollar in international trade. This movement aims to establish a more balanced global financial system, reducing reliance on a single currency.
