@@ -1,29 +1,34 @@
 ---
-title: "Unraveling the Mystery of the Pope Lick Monster"
-description: "Discover the chilling legend of the goat-like Pope Lick Monster, a cryptid said to haunt a railway bridge east of Louisville, Kentucky, and the tragic real-life consequences its legend has inspired."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T11:14:51+00:00"
-author: "Blake Anderson"
+title: Unraveling the Mystery of the Pope Lick Monster
+description: >-
+  Discover the chilling legend of the goat-like Pope Lick Monster, a cryptid
+  said to haunt a railway bridge east of Louisville, Kentucky, and the tragic
+  real-life consequences its legend has inspired.
+type: standard
+status: published
+publishDate: '2025-12-18T11:14:51+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "unraveling-the-mystery-of-the-pope-lick-monster"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: unraveling-the-mystery-of-the-pope-lick-monster
 reading_time: 3
-source_url: "https://stroylab.com/unraveling-the-mystery-of-the-pope-lick-monster/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/unraveling-the-mystery-of-the-pope-lick-monster/'
+imported_from: wordpress
 wp_original_id: 658
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/unraveling-the-mystery-of-the-pope-lick-monster.webp
 seo:
-  canonical: "https://stroylab.com/unraveling-the-mystery-of-the-pope-lick-monster/"
-  og_title: "Unraveling the Mystery of the Pope Lick Monster - StroyLab"
-  og_description: "Discover the chilling legend of the goat-like Pope Lick Monster and the tragic tales it leaves in its wake."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/unraveling-the-mystery-of-the-pope-lick-monster/'
+  og_title: Unraveling the Mystery of the Pope Lick Monster - StroyLab
+  og_description: >-
+    Discover the chilling legend of the goat-like Pope Lick Monster and the
+    tragic tales it leaves in its wake.
+  twitter_card: summary_large_image
 videos:
-  - id: "ea2a6da5"
-    url: "https://www.youtube.com/watch?v=PbGHUKGGHL4"
-    position: "after-paragraph-2"
+  - id: ea2a6da5
+    url: 'https://www.youtube.com/watch?v=PbGHUKGGHL4'
+    position: after-paragraph-2
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,7 +36,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Strong tone and topic relevance with good factual grounding, but significantly under target word count at only 408 words when 800-1200 is expected."
+quality_note: >-
+  Strong tone and topic relevance with good factual grounding, but significantly
+  under target word count at only 408 words when 800-1200 is expected.
+image_alt: >-
+  Foggy railroad trestle in dark woods with eerie shadows suggesting a local
+  legend
 ---
 
 Hidden deep within the woods east of Louisville, Kentucky, lies an enigmatic railway bridge that holds more than meets the eye. Known to locals as the haunting grounds of the Pope Lick Monster, this railway bridge has been the subject of terrifying tales for over half a century. Encounters with this creature, described as a goat-like beast, have led to disturbing events with tragic outcomes.
