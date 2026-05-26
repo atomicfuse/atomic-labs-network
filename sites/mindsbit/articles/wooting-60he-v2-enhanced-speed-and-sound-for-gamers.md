@@ -1,25 +1,34 @@
 ---
-title: "Wooting 60HE v2: Enhanced Speed and Sound for Gamers"
-description: "The Wooting 60HE V2 keyboard revolutionizes gaming with its analog technology, offering precise control and responsiveness. Its compact design, durability, and customizable features enhance user experience, making it a top choice for gamers seeking performance optimization and innovative peripherals."
-type: "standard"
-status: "published"
-publishDate: "2025-05-18T11:05:36+00:00"
-author: "Lena Ashwood"
+title: 'Wooting 60HE v2: Enhanced Speed and Sound for Gamers'
+description: >-
+  The Wooting 60HE V2 keyboard revolutionizes gaming with its analog technology,
+  offering precise control and responsiveness. Its compact design, durability,
+  and customizable features enhance user experience, making it a top choice for
+  gamers seeking performance optimization and innovative peripherals.
+type: standard
+status: published
+publishDate: '2025-05-18T11:05:36+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "wooting-60he-v2-enhanced-speed-and-sound-for-gamers"
+  - Innovation
+  - Tech
+slug: wooting-60he-v2-enhanced-speed-and-sound-for-gamers
 reading_time: 3
-source_url: "https://mindsbit.com/wooting-60he-v2-enhanced-speed-and-sound-for-gamers/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/wooting-60he-v2-enhanced-speed-and-sound-for-gamers/'
+imported_from: wordpress
 wp_original_id: 320
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/wooting-60he-v2-enhanced-speed-and-sound-for-gamers.webp
 seo:
-  canonical: "https://mindsbit.com/wooting-60he-v2-enhanced-speed-and-sound-for-gamers/"
-  og_title: "Wooting 60HE v2: Enhanced Speed and Sound for Gamers - Minds bit"
-  og_description: "The Wooting 60HE V2 keyboard revolutionizes gaming with its analog technology, offering precise control and responsiveness. Its compact design, durability, and customizable features enhance user experience, making it a top choice for gamers seeking performance optimization and innovative peripherals."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-31.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/wooting-60he-v2-enhanced-speed-and-sound-for-gamers/'
+  og_title: 'Wooting 60HE v2: Enhanced Speed and Sound for Gamers - Minds bit'
+  og_description: >-
+    The Wooting 60HE V2 keyboard revolutionizes gaming with its analog
+    technology, offering precise control and responsiveness. Its compact design,
+    durability, and customizable features enhance user experience, making it a
+    top choice for gamers seeking performance optimization and innovative
+    peripherals.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-31.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under the target word count at 455 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  under the target word count at 455 words versus the 800-1200 range.
+image_alt: >-
+  Compact gaming keyboard on a dark desk with colorful light trails suggesting
+  speed and precision
 ---
 
 The gaming industry is constantly evolving, and with it, the demand for innovative peripherals grows. Among these, keyboards play a pivotal role in enhancing gamer performance. The latest offering from Wooting, the Wooting 60HE V2 keyboard, is set to redefine the gaming experience with its advanced features and cutting-edge technology.
