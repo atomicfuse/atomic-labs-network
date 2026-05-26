@@ -1,25 +1,35 @@
 ---
-title: "2025’s Top Travel Destinations for Korean Tourists"
-description: "South Korea plans to develop a comprehensive metaverse ecosystem to drive innovation across multiple sectors, integrating virtual reality into daily life and business. This initiative aims to position South Korea as a global leader in the digital economy."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T09:39:25+00:00"
-author: "Taylor Winters"
+title: 2025’s Top Travel Destinations for Korean Tourists
+description: >-
+  South Korea plans to develop a comprehensive metaverse ecosystem to drive
+  innovation across multiple sectors, integrating virtual reality into daily
+  life and business. This initiative aims to position South Korea as a global
+  leader in the digital economy.
+type: standard
+status: review
+publishDate: '2025-12-29T09:39:25+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "News"
-slug: "2025s-top-travel-destinations-for-korean-tourists"
+  - Destinations
+  - News
+slug: 2025s-top-travel-destinations-for-korean-tourists
 reading_time: 3
-source_url: "https://www.travelgeekexplorer.com/2025s-top-travel-destinations-for-korean-tourists/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.travelgeekexplorer.com/2025s-top-travel-destinations-for-korean-tourists/
+imported_from: wordpress
 wp_original_id: 44555
-featuredImage: "/assets/images/travelgeekexplorer-general-article.webp"
+featuredImage: /assets/images/2025s-top-travel-destinations-for-korean-tourists.webp
 seo:
-  canonical: "https://www.travelgeekexplorer.com/2025s-top-travel-destinations-for-korean-tourists/"
-  og_title: "2025's Top Travel Destinations for Korean Tourists - Travel Geek Explorer"
-  og_description: "South Korea plans to develop a comprehensive metaverse ecosystem to drive innovation across multiple sectors, integrating virtual reality into daily life and business. This initiative aims to position South Korea as a global leader in the digital economy."
-  og_image: "https://www.travelgeekexplorer.com/wp-content/uploads/2025/12/make_file.gif"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.travelgeekexplorer.com/2025s-top-travel-destinations-for-korean-tourists/
+  og_title: 2025's Top Travel Destinations for Korean Tourists - Travel Geek Explorer
+  og_description: >-
+    South Korea plans to develop a comprehensive metaverse ecosystem to drive
+    innovation across multiple sectors, integrating virtual reality into daily
+    life and business. This initiative aims to position South Korea as a global
+    leader in the digital economy.
+  og_image: 'https://www.travelgeekexplorer.com/wp-content/uploads/2025/12/make_file.gif'
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 25
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 80
   keyword_relevance: 15
-quality_note: "The article completely mismatches its title about Korean travel destinations, instead discussing metaverse technology, making it irrelevant to travel audiences despite decent writing quality."
+quality_note: >-
+  The article completely mismatches its title about Korean travel destinations,
+  instead discussing metaverse technology, making it irrelevant to travel
+  audiences despite decent writing quality.
+image_alt: >-
+  Korean traveler in a sunlit airport with subtle holographic travel visuals and
+  planes beyond the window
 ---
 
 South Korea has unveiled plans to develop a comprehensive metaverse ecosystem as part of its digital transformation strategy. This ambitious project aims to drive innovation across multiple sectors by integrating virtual reality into various aspects of daily life and business operations.
