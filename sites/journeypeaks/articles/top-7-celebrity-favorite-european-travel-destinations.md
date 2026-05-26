@@ -1,26 +1,36 @@
 ---
-title: "Top 7 Celebrity-Favorite European Travel Destinations"
-description: "Europe's diverse destinations, like Santorini, Positano, and the French Riviera, attract celebrities with their stunning beauty and cultural richness, offering luxury and inspiration. From vibrant nightlife in Ibiza to Prague's historic charm, these locales provide unforgettable experiences."
-type: "standard"
-status: "published"
-publishDate: "2025-10-16T08:49:28+00:00"
-author: "Taylor Winters"
+title: Top 7 Celebrity-Favorite European Travel Destinations
+description: >-
+  Europe's diverse destinations, like Santorini, Positano, and the French
+  Riviera, attract celebrities with their stunning beauty and cultural richness,
+  offering luxury and inspiration. From vibrant nightlife in Ibiza to Prague's
+  historic charm, these locales provide unforgettable experiences.
+type: standard
+status: published
+publishDate: '2025-10-16T08:49:28+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "top-7-celebrity-favorite-european-travel-destinations"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: top-7-celebrity-favorite-european-travel-destinations
 reading_time: 3
-source_url: "https://journeypeaks.com/top-7-celebrity-favorite-european-travel-destinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-7-celebrity-favorite-european-travel-destinations/
+imported_from: wordpress
 wp_original_id: 38717
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-7-celebrity-favorite-european-travel-destinations.webp
 seo:
-  canonical: "https://journeypeaks.com/top-7-celebrity-favorite-european-travel-destinations/"
-  og_title: "Top 7 Celebrity-Favorite European Travel Destinations - Journey Peaks"
-  og_description: "Europe's diverse destinations, like Santorini, Positano, and the French Riviera, attract celebrities with their stunning beauty and cultural richness, offering luxury and inspiration. From vibrant nightlife in Ibiza to Prague's historic charm, these locales provide unforgettable experiences."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/10/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-7-celebrity-favorite-european-travel-destinations/
+  og_title: Top 7 Celebrity-Favorite European Travel Destinations - Journey Peaks
+  og_description: >-
+    Europe's diverse destinations, like Santorini, Positano, and the French
+    Riviera, attract celebrities with their stunning beauty and cultural
+    richness, offering luxury and inspiration. From vibrant nightlife in Ibiza
+    to Prague's historic charm, these locales provide unforgettable experiences.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/10/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel article with strong keyword relevance and appropriate tone, but significantly under target word count at 552 words versus the 800-1200 ideal range."
+quality_note: >-
+  Well-written travel article with strong keyword relevance and appropriate
+  tone, but significantly under target word count at 552 words versus the
+  800-1200 ideal range.
+image_alt: >-
+  Elegant traveler on a yacht overlooking a luxurious Mediterranean European
+  coastline at golden hour
 ---
 
 Europe, with its rich history and captivating landscapes, has long been a favored destination for travelers around the world. Celebrities, in particular, are often drawn to the continent's allure, seeking both relaxation and inspiration in its diverse locales. From the sun-kissed beaches of the Mediterranean to the cultural hubs of central Europe, there are several destinations that continue to capture the hearts of the rich and famous.
