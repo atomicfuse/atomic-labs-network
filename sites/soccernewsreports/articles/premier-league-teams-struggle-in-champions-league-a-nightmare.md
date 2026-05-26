@@ -1,25 +1,39 @@
 ---
-title: "Premier League Teams Struggle in Champions League: A Nightmare"
-description: "The English Premier League, established in 1992, is renowned for its competitiveness and global appeal, featuring iconic clubs and players. Its financial strength and unpredictable nature continue to captivate fans worldwide, ensuring its place as a leading football league."
-type: "standard"
-status: "review"
-publishDate: "2026-03-12T09:37:19+00:00"
-author: "Taylor Winters"
+title: 'Premier League Teams Struggle in Champions League: A Nightmare'
+description: >-
+  The English Premier League, established in 1992, is renowned for its
+  competitiveness and global appeal, featuring iconic clubs and players. Its
+  financial strength and unpredictable nature continue to captivate fans
+  worldwide, ensuring its place as a leading football league.
+type: standard
+status: review
+publishDate: '2026-03-12T09:37:19+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "premier-league-teams-struggle-in-champions-league-a-nightmare"
+  - Latest News
+  - AFC Bournemouth
+slug: premier-league-teams-struggle-in-champions-league-a-nightmare
 reading_time: 3
-source_url: "https://soccernewsreports.com/premier-league-teams-struggle-in-champions-league-a-nightmare/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/premier-league-teams-struggle-in-champions-league-a-nightmare/
+imported_from: wordpress
 wp_original_id: 37994
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/premier-league-teams-struggle-in-champions-league-a-nightmare.webp
 seo:
-  canonical: "https://soccernewsreports.com/premier-league-teams-struggle-in-champions-league-a-nightmare/"
-  og_title: "Premier League Teams Struggle in Champions League: A Nightmare - Soccer News Reports"
-  og_description: "The English Premier League, established in 1992, is renowned for its competitiveness and global appeal, featuring iconic clubs and players. Its financial strength and unpredictable nature continue to captivate fans worldwide, ensuring its place as a leading football league."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/03/make_d14be66712d4e2a9cae1d5793f186ae9.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/premier-league-teams-struggle-in-champions-league-a-nightmare/
+  og_title: >-
+    Premier League Teams Struggle in Champions League: A Nightmare - Soccer News
+    Reports
+  og_description: >-
+    The English Premier League, established in 1992, is renowned for its
+    competitiveness and global appeal, featuring iconic clubs and players. Its
+    financial strength and unpredictable nature continue to captivate fans
+    worldwide, ensuring its place as a leading football league.
+  og_image: >-
+    https://soccernewsreports.com/wp-content/uploads/2026/03/make_d14be66712d4e2a9cae1d5793f186ae9.jpg
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 25
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "The article has a misleading title that doesn't match the content about Premier League history, poor SEO structure, and limited relevance to current football news despite good writing quality."
+quality_note: >-
+  The article has a misleading title that doesn't match the content about
+  Premier League history, poor SEO structure, and limited relevance to current
+  football news despite good writing quality.
+image_alt: >-
+  Dejected footballer under floodlights as distant opponents celebrate on a
+  rainy pitch
 ---
 
 The English Premier League is widely regarded as one of the most competitive football leagues globally, consistently attracting top talent and delivering thrilling matches. With its rich history and passionate fan base, the league continues to set the standard in the football world.
