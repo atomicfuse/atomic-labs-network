@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-craft-the-perfect-banana-rum-cocktail-with-old-monk-rum
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/craft-the-perfect-banana-rum-cocktail-with-old-monk-rum.webp
 reading_time: 3
 quality_score: 58
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   The article has decent SEO structure and tone but falls significantly short on
   word count (470 vs 800-1200 target), lacks specific recipes, and doesn't align
   well with wine-focused content despite being tagged as wine recipes.
+image_alt: >-
+  Tropical banana rum cocktail on a bar with fruit, spices, tools, and a blurred
+  dark rum bottle.
 ---
 ## The Rise of Banana Rum Cocktails
 
