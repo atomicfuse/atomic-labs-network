@@ -1,28 +1,33 @@
 ---
-title: "Unveiling the Most Bizarre Murder Mysteries of 2025"
-description: "Explore the year's most captivating true crime cases, from the chilling Brown's Chicken Massacre to the enigmatic disappearance of Rebecca Coriam and other baffling unsolved mysteries of 2025."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:33:09+00:00"
-author: "Blake Anderson"
+title: Unveiling the Most Bizarre Murder Mysteries of 2025
+description: >-
+  Explore the year's most captivating true crime cases, from the chilling
+  Brown's Chicken Massacre to the enigmatic disappearance of Rebecca Coriam and
+  other baffling unsolved mysteries of 2025.
+type: standard
+status: review
+publishDate: '2025-12-22T11:33:09+00:00'
+author: Blake Anderson
 tags:
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "unveiling-the-most-bizarre-murder-mysteries-of-2025"
+  - Mysteries
+  - Unsolved Cases
+slug: unveiling-the-most-bizarre-murder-mysteries-of-2025
 reading_time: 2
-source_url: "https://stroylab.com/unveiling-the-most-bizarre-murder-mysteries-of-2025/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/unveiling-the-most-bizarre-murder-mysteries-of-2025/'
+imported_from: wordpress
 wp_original_id: 700
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/unveiling-the-most-bizarre-murder-mysteries-of-2025.webp
 seo:
-  canonical: "https://stroylab.com/unveiling-the-most-bizarre-murder-mysteries-of-2025/"
-  og_title: "Unveiling the Most Bizarre Murder Mysteries of 2025 - StroyLab"
-  og_description: "Explore the year's most captivating true crime cases, from the chilling Brown's Chicken Massacre to the enigmatic Pond and The Barrel mystery."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/unveiling-the-most-bizarre-murder-mysteries-of-2025/'
+  og_title: Unveiling the Most Bizarre Murder Mysteries of 2025 - StroyLab
+  og_description: >-
+    Explore the year's most captivating true crime cases, from the chilling
+    Brown's Chicken Massacre to the enigmatic Pond and The Barrel mystery.
+  twitter_card: summary_large_image
 videos:
-  - id: "779c7e33"
-    url: "https://www.youtube.com/watch?v=ioIDVqJ7LkM"
-    position: "after-paragraph-2"
+  - id: 779c7e33
+    url: 'https://www.youtube.com/watch?v=ioIDVqJ7LkM'
+    position: after-paragraph-2
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -30,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong keyword relevance and tone but severely penalized for short length and major factual issues like claiming 2025 cases have already occurred and mixing real cases with potentially fabricated ones."
+quality_note: >-
+  Strong keyword relevance and tone but severely penalized for short length and
+  major factual issues like claiming 2025 cases have already occurred and mixing
+  real cases with potentially fabricated ones.
+image_alt: >-
+  Moody investigator desk with case materials, red string, and rain-lit shadows
+  suggesting an unsolved mystery.
 ---
 
 As we bid farewell to 2025, we take a moment to revisit the most captivating murder mysteries that have intrigued and baffled audiences throughout the year. These true crime cases are not only chilling but also leave us with more questions than answers, ensuring that they remain etched in our memories for years to come.
