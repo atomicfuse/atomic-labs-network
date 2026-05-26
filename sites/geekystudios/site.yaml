@@ -2,7 +2,8 @@ domain: geekystudios
 site_name: geekystudios
 site_tagline: null
 author: Olivia Kim
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d7cd16f23264031d7a68
 brief:
