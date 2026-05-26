@@ -1,25 +1,32 @@
 ---
-title: "Survivor Episode 10 Recap: MrBeast Twist Stuns Everyone"
-description: "Survivor 50 episode 10 tightens the endgame with shifting alliances, emotional reward fallout, immunity pressure, and a Tribal Council that proves social strategy still cuts deeper than modern reality TV spectacle."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T10:16:59+00:00"
-author: "Becca Roberts"
+title: 'Survivor Episode 10 Recap: MrBeast Twist Stuns Everyone'
+description: >-
+  Survivor 50 episode 10 tightens the endgame with shifting alliances, emotional
+  reward fallout, immunity pressure, and a Tribal Council that proves social
+  strategy still cuts deeper than modern reality TV spectacle.
+type: standard
+status: published
+publishDate: '2026-04-30T10:16:59+00:00'
+author: Becca Roberts
 tags:
-  - "Off Script"
-  - "Watch"
-slug: "survivor-episode-10-recap-mrbeast-twist-stuns-everyone"
+  - Off Script
+  - Watch
+slug: survivor-episode-10-recap-mrbeast-twist-stuns-everyone
 reading_time: 8
-source_url: "https://buzzsoaps.com/survivor-episode-10-recap-mrbeast-twist-stuns-everyone/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/survivor-episode-10-recap-mrbeast-twist-stuns-everyone/'
+imported_from: wordpress
 wp_original_id: 583
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/survivor-episode-10-recap-mrbeast-twist-stuns-everyone.webp
 seo:
-  canonical: "https://buzzsoaps.com/survivor-episode-10-recap-mrbeast-twist-stuns-everyone/"
-  og_title: "Survivor Episode 10 Recap: MrBeast Twist Stuns Everyone - BuzzSoaps!"
-  og_description: "Survivor 50 episode 10 tightens the endgame with shifting alliances, emotional reward fallout, immunity pressure, and a Tribal Council that proves social strategy still cuts deeper than modern reality TV spectacle."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/survivor-episode-10-recap-mrbeast-twist-stuns-everyone/
+  og_title: 'Survivor Episode 10 Recap: MrBeast Twist Stuns Everyone - BuzzSoaps!'
+  og_description: >-
+    Survivor 50 episode 10 tightens the endgame with shifting alliances,
+    emotional reward fallout, immunity pressure, and a Tribal Council that
+    proves social strategy still cuts deeper than modern reality TV spectacle.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +34,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Strong entertainment analysis with excellent tone and keyword usage, but severely damaged by fabricated Survivor 50 content and false MrBeast connection claims."
+quality_note: >-
+  Strong entertainment analysis with excellent tone and keyword usage, but
+  severely damaged by fabricated Survivor 50 content and false MrBeast
+  connection claims.
+image_alt: Torches and shadowed figures around a firelit jungle council scene at night
 ---
 
 Survivor 50 episode 10 pushes the season into a sharper, stranger lane, where old-school social survival collides with the spectacle-driven energy of modern competition television. The CBS reality staple has always rewarded patience, discipline, and persuasive timing. This installment keeps those fundamentals intact, but it also feels aware of a culture shaped by giant stunts, viral prizes, and the MrBeast-style promise that any challenge can become a life-changing event.
