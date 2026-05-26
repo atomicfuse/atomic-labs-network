@@ -1,23 +1,33 @@
 ---
-title: "Revisiting Star Wars: The Force Awakens 10 Years Later"
-description: "Star Wars: The Force Awakens revitalized the franchise in 2015, introducing new characters and continuing the saga's legacy. Directed by J.J. Abrams, it combined nostalgia with innovation, becoming a box office sensation and inspiring a new generation of fans."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T10:29:43+00:00"
-author: "Arthur Daly"
+title: 'Revisiting Star Wars: The Force Awakens 10 Years Later'
+description: >-
+  Star Wars: The Force Awakens revitalized the franchise in 2015, introducing
+  new characters and continuing the saga's legacy. Directed by J.J. Abrams, it
+  combined nostalgia with innovation, becoming a box office sensation and
+  inspiring a new generation of fans.
+type: standard
+status: published
+publishDate: '2025-12-18T10:29:43+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "revisiting-star-wars-the-force-awakens-10-years-later"
+  - Pop Culture
+slug: revisiting-star-wars-the-force-awakens-10-years-later
 reading_time: 3
-source_url: "https://geekystudios.com/revisiting-star-wars-the-force-awakens-10-years-later/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/revisiting-star-wars-the-force-awakens-10-years-later/
+imported_from: wordpress
 wp_original_id: 678
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/revisiting-star-wars-the-force-awakens-10-years-later.webp
 seo:
-  canonical: "https://geekystudios.com/revisiting-star-wars-the-force-awakens-10-years-later/"
-  og_title: "Revisiting Star Wars: The Force Awakens 10 Years Later - Geeky Studios"
-  og_description: "Star Wars: The Force Awakens revitalized the franchise in 2015, introducing new characters and continuing the saga's legacy. Directed by J.J. Abrams, it combined nostalgia with innovation, becoming a box office sensation and inspiring a new generation of fans."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/revisiting-star-wars-the-force-awakens-10-years-later/
+  og_title: 'Revisiting Star Wars: The Force Awakens 10 Years Later - Geeky Studios'
+  og_description: >-
+    Star Wars: The Force Awakens revitalized the franchise in 2015, introducing
+    new characters and continuing the saga's legacy. Directed by J.J. Abrams, it
+    combined nostalgia with innovation, becoming a box office sensation and
+    inspiring a new generation of fans.
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -25,7 +35,10 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Strong pop culture content with engaging tone and accurate information, but significantly under target word count at 544 words when 800-1200 is expected."
+quality_note: >-
+  Strong pop culture content with engaging tone and accurate information, but
+  significantly under target word count at 544 words when 800-1200 is expected.
+image_alt: Silhouetted traveler in desert dunes faces a buried starship under twin moons
 ---
 
 *Star Wars: The Force Awakens*, released in December 2015, marked a significant milestone in the Star Wars saga, revitalizing the franchise with new energy and drawing in a fresh generation of fans. This film, directed by J.J. Abrams, introduced audiences to a blend of new characters and familiar faces, while also setting the stage for future adventures in a galaxy far, far away.
