@@ -1,26 +1,34 @@
 ---
-title: "North East Travel Tips Roadworks Weather Updates May 14"
-description: "Plan ahead for May 14 travel in the North East with roadworks, changeable weather, and busy routes expected. Check updates, pack for rain and wind, allow extra time, and keep flexible backup plans."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:32:17+00:00"
-author: "Malcolm Anderson"
+title: North East Travel Tips Roadworks Weather Updates May 14
+description: >-
+  Plan ahead for May 14 travel in the North East with roadworks, changeable
+  weather, and busy routes expected. Check updates, pack for rain and wind,
+  allow extra time, and keep flexible backup plans.
+type: standard
+status: published
+publishDate: '2026-05-14T09:32:17+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "Guides &amp; Tips"
-  - "News"
-slug: "north-east-travel-tips-roadworks-weather-updates-may-14"
+  - Destinations
+  - Guides &amp; Tips
+  - News
+slug: north-east-travel-tips-roadworks-weather-updates-may-14
 reading_time: 7
-source_url: "https://travelnights.com/north-east-travel-tips-roadworks-weather-updates-may-14/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/north-east-travel-tips-roadworks-weather-updates-may-14/
+imported_from: wordpress
 wp_original_id: 36736
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/north-east-travel-tips-roadworks-weather-updates-may-14.webp
 seo:
-  canonical: "https://travelnights.com/north-east-travel-tips-roadworks-weather-updates-may-14/"
-  og_title: "North East Travel Tips Roadworks Weather Updates May 14 - Travel Nights"
-  og_description: "Plan ahead for May 14 travel in the North East with roadworks, changeable weather, and busy routes expected. Check updates, pack for rain and wind, allow extra time, and keep flexible backup plans."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/north-east-travel-tips-roadworks-weather-updates-may-14/
+  og_title: North East Travel Tips Roadworks Weather Updates May 14 - Travel Nights
+  og_description: >-
+    Plan ahead for May 14 travel in the North East with roadworks, changeable
+    weather, and busy routes expected. Check updates, pack for rain and wind,
+    allow extra time, and keep flexible backup plans.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-structured travel guide with appropriate length and tone, though the title could be more compelling and specific for better SEO impact."
+quality_note: >-
+  Well-structured travel guide with appropriate length and tone, though the
+  title could be more compelling and specific for better SEO impact.
+image_alt: >-
+  Wet North East road with traffic cones, busy cars, and changeable cloudy
+  weather
 ---
 
 Visitors heading to the North East on May 14 should prepare for a travel day shaped by changing weather, busy routes, and planned roadworks. The region remains a rewarding destination, with coastlines, heritage cities, national parks, and cultural attractions all within reach. However, a smooth journey will depend on checking updates early, building flexibility into plans, and packing for sudden shifts in conditions.
