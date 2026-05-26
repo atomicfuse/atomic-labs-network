@@ -1,26 +1,39 @@
 ---
-title: "Top US Summer Vacation Spots for Families, Expert-Recommended"
-description: "Planning a memorable summer getaway for your family can feel overwhelming with the myriad choices available. Whether seeking adventure or relaxation, the United States offers a wide array of family-friendly destinations that promise fun and bonding experiences for all ages."
-type: "standard"
-status: "published"
-publishDate: "2025-05-01T07:26:22+00:00"
-author: "Taylor Winters"
+title: 'Top US Summer Vacation Spots for Families, Expert-Recommended'
+description: >-
+  Planning a memorable summer getaway for your family can feel overwhelming with
+  the myriad choices available. Whether seeking adventure or relaxation, the
+  United States offers a wide array of family-friendly destinations that promise
+  fun and bonding experiences for all ages.
+type: standard
+status: published
+publishDate: '2025-05-01T07:26:22+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "top-us-summer-vacation-spots-for-families-expert-recommended"
+  - Destinations
+  - Tips
+  - Travel
+slug: top-us-summer-vacation-spots-for-families-expert-recommended
 reading_time: 3
-source_url: "https://journeypeaks.com/top-us-summer-vacation-spots-for-families-expert-recommended/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-us-summer-vacation-spots-for-families-expert-recommended/
+imported_from: wordpress
 wp_original_id: 38635
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/top-us-summer-vacation-spots-for-families-expert-recommended.webp
 seo:
-  canonical: "https://journeypeaks.com/top-us-summer-vacation-spots-for-families-expert-recommended/"
-  og_title: "Top US Summer Vacation Spots for Families, Expert-Recommended - Journey Peaks"
-  og_description: "Planning a memorable summer getaway for your family can feel overwhelming with the myriad choices available. Whether seeking adventure or relaxation, the United States offers a wide array of family-friendly destinations that promise fun and bonding experiences for all ages."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-us-summer-vacation-spots-for-families-expert-recommended/
+  og_title: >-
+    Top US Summer Vacation Spots for Families, Expert-Recommended - Journey
+    Peaks
+  og_description: >-
+    Planning a memorable summer getaway for your family can feel overwhelming
+    with the myriad choices available. Whether seeking adventure or relaxation,
+    the United States offers a wide array of family-friendly destinations that
+    promise fun and bonding experiences for all ages.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written family travel guide with good destination coverage and tone, but falls short on length and could improve SEO optimization with better title length and meta description."
+quality_note: >-
+  Well-written family travel guide with good destination coverage and tone, but
+  falls short on length and could improve SEO optimization with better title
+  length and meta description.
+image_alt: >-
+  Family overlooking a sunny landscape with beach, mountains, lake, and open
+  road in the distance.
 ---
 
 Planning a memorable summer getaway for your family can often feel overwhelming, given the myriad choices available. Whether you're looking for adventure, relaxation, or a mix of both, the United States offers a wide array of family-friendly destinations that promise fun and bonding experiences for all ages.
