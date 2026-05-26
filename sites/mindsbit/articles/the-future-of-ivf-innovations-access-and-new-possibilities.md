@@ -1,26 +1,34 @@
 ---
-title: "The Future of IVF Innovations Access and New Possibilities"
-description: "AI, robotics, genetic testing, and embryo editing are reshaping IVF, promising more personalized fertility care while raising important questions about safety, cost, access, evidence, and ethical limits."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:22:20+00:00"
-author: "Lena Ashwood"
+title: The Future of IVF Innovations Access and New Possibilities
+description: >-
+  AI, robotics, genetic testing, and embryo editing are reshaping IVF, promising
+  more personalized fertility care while raising important questions about
+  safety, cost, access, evidence, and ethical limits.
+type: standard
+status: published
+publishDate: '2026-05-07T09:22:20+00:00'
+author: Lena Ashwood
 tags:
-  - "Ideas"
-  - "Innovation"
-  - "Tech"
-slug: "the-future-of-ivf-innovations-access-and-new-possibilities"
+  - Ideas
+  - Innovation
+  - Tech
+slug: the-future-of-ivf-innovations-access-and-new-possibilities
 reading_time: 8
-source_url: "https://mindsbit.com/the-future-of-ivf-innovations-access-and-new-possibilities/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/the-future-of-ivf-innovations-access-and-new-possibilities/
+imported_from: wordpress
 wp_original_id: 510
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/the-future-of-ivf-innovations-access-and-new-possibilities.webp
 seo:
-  canonical: "https://mindsbit.com/the-future-of-ivf-innovations-access-and-new-possibilities/"
-  og_title: "The Future of IVF Innovations Access and New Possibilities - Minds bit"
-  og_description: "AI, robotics, genetic testing, and embryo editing are reshaping IVF, promising more personalized fertility care while raising important questions about safety, cost, access, evidence, and ethical limits."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/the-future-of-ivf-innovations-access-and-new-possibilities/
+  og_title: The Future of IVF Innovations Access and New Possibilities - Minds bit
+  og_description: >-
+    AI, robotics, genetic testing, and embryo editing are reshaping IVF,
+    promising more personalized fertility care while raising important questions
+    about safety, cost, access, evidence, and ethical limits.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written informative article with good length and tone, though the title could be more compelling and the content only partially aligns with the site's core tech focus."
+quality_note: >-
+  Well-written informative article with good length and tone, though the title
+  could be more compelling and the content only partially aligns with the site's
+  core tech focus.
+image_alt: >-
+  Softly lit fertility lab with a petri dish and subtle technology reflections
+  suggesting future IVF care.
 ---
 
 IVF is entering a new technological era, driven by artificial intelligence, laboratory robotics, improved genetic testing, and renewed debate over embryo editing. For people facing infertility, these advances promise faster decisions, better lab consistency, and more personalized treatment. Yet they also raise urgent questions about safety, access, evidence, and how far reproductive medicine should go.
