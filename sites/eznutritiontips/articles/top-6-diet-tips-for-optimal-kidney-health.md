@@ -1,25 +1,33 @@
 ---
-title: "Top 6 Diet Tips for Optimal Kidney Health"
-description: "Maintaining kidney health is crucial; a nutritious diet plays a significant role in safeguarding kidney function. Limit sodium, manage protein, stay hydrated, control phosphorus and potassium levels, and embrace a balanced diet for optimal kidney health."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T08:33:27+00:00"
-author: "Taylor Winters"
+title: Top 6 Diet Tips for Optimal Kidney Health
+description: >-
+  Maintaining kidney health is crucial; a nutritious diet plays a significant
+  role in safeguarding kidney function. Limit sodium, manage protein, stay
+  hydrated, control phosphorus and potassium levels, and embrace a balanced diet
+  for optimal kidney health.
+type: standard
+status: published
+publishDate: '2025-07-03T08:33:27+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Quick Tips"
-  - "Special Diets"
-slug: "top-6-diet-tips-for-optimal-kidney-health"
+  - Nutrition Quick Tips
+  - Special Diets
+slug: top-6-diet-tips-for-optimal-kidney-health
 reading_time: 3
-source_url: "https://eznutritiontips.com/top-6-diet-tips-for-optimal-kidney-health/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/top-6-diet-tips-for-optimal-kidney-health/'
+imported_from: wordpress
 wp_original_id: 18923
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-6-diet-tips-for-optimal-kidney-health.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-6-diet-tips-for-optimal-kidney-health/"
-  og_title: "Top 6 Diet Tips for Optimal Kidney Health - Easy Nutrition Tips"
-  og_description: "Maintaining kidney health is crucial; a nutritious diet plays a significant role in safeguarding kidney function. Limit sodium, manage protein, stay hydrated, control phosphorus and potassium levels, and embrace a balanced diet for optimal kidney health."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/07/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/top-6-diet-tips-for-optimal-kidney-health/'
+  og_title: Top 6 Diet Tips for Optimal Kidney Health - Easy Nutrition Tips
+  og_description: >-
+    Maintaining kidney health is crucial; a nutritious diet plays a significant
+    role in safeguarding kidney function. Limit sodium, manage protein, stay
+    hydrated, control phosphorus and potassium levels, and embrace a balanced
+    diet for optimal kidney health.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/07/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with accurate health information and good tone, but significantly below target word count which hurts overall content value."
+quality_note: >-
+  Well-written article with accurate health information and good tone, but
+  significantly below target word count which hurts overall content value.
+image_alt: >-
+  Sunlit kitchen counter with water and fresh balanced foods for kidney-friendly
+  eating
 ---
 
 Maintaining kidney health is crucial for overall well-being, as these vital organs perform essential tasks like filtering waste and balancing body fluids. A nutritious diet plays a significant role in safeguarding kidney function and preventing complications. By making informed dietary choices, you can support your kidneys and promote better health.
