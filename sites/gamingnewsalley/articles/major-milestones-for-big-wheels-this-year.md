@@ -1,25 +1,33 @@
 ---
-title: "Major Milestones for Big Wheels This Year"
-description: "\"Clair-Obscur\" by the artist collective Alters explores light and shadow through chiaroscuro techniques, challenging viewers' perceptions and encouraging introspection while setting new standards in contemporary art."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:23:32+00:00"
-author: "Taylor Winters"
+title: Major Milestones for Big Wheels This Year
+description: >-
+  "Clair-Obscur" by the artist collective Alters explores light and shadow
+  through chiaroscuro techniques, challenging viewers' perceptions and
+  encouraging introspection while setting new standards in contemporary art.
+type: standard
+status: review
+publishDate: '2025-06-19T04:23:32+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "concept-art"
-slug: "major-milestones-for-big-wheels-this-year"
+  - Gaming News
+  - concept-art
+slug: major-milestones-for-big-wheels-this-year
 reading_time: 3
-source_url: "https://gamingnewsalley.com/major-milestones-for-big-wheels-this-year/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/major-milestones-for-big-wheels-this-year/'
+imported_from: wordpress
 wp_original_id: 42487
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/major-milestones-for-big-wheels-this-year.webp
 seo:
-  canonical: "https://gamingnewsalley.com/major-milestones-for-big-wheels-this-year/"
-  og_title: "Major Milestones for Big Wheels This Year - Gaming News Alley"
-  og_description: "\"Clair-Obscur\" by Alters explores light and shadow, challenging perceptions through chiaroscuro techniques. The exhibition encourages introspection, engaging viewers emotionally and visually, while setting new standards in contemporary art by breaking traditional boundaries and inspiring dialogue on the human experience."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/06/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/major-milestones-for-big-wheels-this-year/'
+  og_title: Major Milestones for Big Wheels This Year - Gaming News Alley
+  og_description: >-
+    "Clair-Obscur" by Alters explores light and shadow, challenging perceptions
+    through chiaroscuro techniques. The exhibition encourages introspection,
+    engaging viewers emotionally and visually, while setting new standards in
+    contemporary art by breaking traditional boundaries and inspiring dialogue
+    on the human experience.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/06/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 22
 score_breakdown:
   seo_quality: 15
@@ -27,7 +35,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for a gaming website, discussing contemporary art exhibitions instead of video games, with misleading gaming tags and no gaming-related content whatsoever."
+quality_note: >-
+  This article is completely off-topic for a gaming website, discussing
+  contemporary art exhibitions instead of video games, with misleading gaming
+  tags and no gaming-related content whatsoever.
+image_alt: Abstract gallery sculpture lit by a narrow beam against deep shadow
 ---
 
 In the world of contemporary art, few exhibitions capture the essence of human experience like "Clair-Obscur" by the artist collective Alters. This unique exhibition, showcased in the heart of a bustling city, delves into the nuanced interplay of light and shadow, inviting viewers to explore the depths of perception and reality. The exhibition is an integral part of "Expedition 33-50 Big Wheel," a series that explores the boundaries of artistic expression.
