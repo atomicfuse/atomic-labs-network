@@ -1,30 +1,41 @@
 ---
-title: "Comprehensive 500-Hour Certified Yoga Teacher Training with Yoga Alliance USA"
-description: "Unlock the full potential of your yoga teaching skills with our 500-hour certified training course, accredited by Yoga Alliance USA, offering a multi-style curriculum."
-type: "standard"
-status: "review"
-publishDate: "2025-06-26T04:47:23+00:00"
-author: "Taylor Winters"
+title: Comprehensive 500-Hour Certified Yoga Teacher Training with Yoga Alliance USA
+description: >-
+  Unlock the full potential of your yoga teaching skills with our 500-hour
+  certified training course, accredited by Yoga Alliance USA, offering a
+  multi-style curriculum.
+type: standard
+status: review
+publishDate: '2025-06-26T04:47:23+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Back Pain"
-  - "Yoga For Beginners"
-  - "Yoga Postures"
-slug: "comprehensive-500-hour-certified-yoga-teacher-training-with-yoga-alliance-usa"
+  - Yoga Poses
+  - Yoga For Back Pain
+  - Yoga For Beginners
+  - Yoga Postures
+slug: comprehensive-500-hour-certified-yoga-teacher-training-with-yoga-alliance-usa
 reading_time: 2
-source_url: "https://yogaterritory.com/comprehensive-500-hour-certified-yoga-teacher-training-with-yoga-alliance-usa/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/comprehensive-500-hour-certified-yoga-teacher-training-with-yoga-alliance-usa/
+imported_from: wordpress
 wp_original_id: 20630
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/comprehensive-500-hour-certified-yoga-teacher-training-with-yoga-alliance-usa.webp
 seo:
-  canonical: "https://yogaterritory.com/comprehensive-500-hour-certified-yoga-teacher-training-with-yoga-alliance-usa/"
-  og_title: "Comprehensive 500-Hour Certified Yoga Teacher Training with Yoga Alliance USA - Yoga Territory"
-  og_description: "Unlock the full potential of your yoga teaching skills with our 500-hour certified training course, accredited by Yoga Alliance USA, offering a multi-style curriculum."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/comprehensive-500-hour-certified-yoga-teacher-training-with-yoga-alliance-usa/
+  og_title: >-
+    Comprehensive 500-Hour Certified Yoga Teacher Training with Yoga Alliance
+    USA - Yoga Territory
+  og_description: >-
+    Unlock the full potential of your yoga teaching skills with our 500-hour
+    certified training course, accredited by Yoga Alliance USA, offering a
+    multi-style curriculum.
+  twitter_card: summary_large_image
 videos:
-  - id: "8552b466"
-    url: "https://www.youtube.com/watch?v=H3prWSkAtuI"
-    position: "after-paragraph-2"
+  - id: 8552b466
+    url: 'https://www.youtube.com/watch?v=H3prWSkAtuI'
+    position: after-paragraph-2
 quality_score: 57
 score_breakdown:
   seo_quality: 45
@@ -32,7 +43,11 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "Article is severely under target length at 330 words and lacks proper SEO structure, though it maintains appropriate tone and covers relevant yoga topics."
+quality_note: >-
+  Article is severely under target length at 330 words and lacks proper SEO
+  structure, though it maintains appropriate tone and covers relevant yoga
+  topics.
+image_alt: 'Yoga instructor guiding a diverse class in a bright, peaceful studio'
 ---
 
 Are you ready to elevate your yoga practice and teaching skills to a professional level? Our 500-hour Certified Yoga Teacher Training Course, accredited by the prestigious Yoga Alliance USA, offers an extensive curriculum designed to transform yoga enthusiasts into expert instructors. This comprehensive training is conducted online, making it accessible to students worldwide, regardless of their location.
