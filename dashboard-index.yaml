@@ -240,22 +240,23 @@ sites:
   - domain: decoratingmom
     company: ATL
     vertical: Home & Garden
-    status: Staging
+    status: Live
     site_id: "9619803022491"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-26T08:48:42.203Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 7df27fd950bca5e6f3b1dfea61a5bfc8
     staging_branch: staging/decoratingmom
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=decoratingmom
     saved_previews: null
-    custom_domain: null
+    custom_domain: decoratingmom.com
+    worker_pending_dns: false
   - domain: giantsavings
     company: ATL
     vertical: Personal Finance
