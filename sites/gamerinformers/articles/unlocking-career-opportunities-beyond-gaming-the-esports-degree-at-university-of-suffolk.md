@@ -1,25 +1,42 @@
 ---
-title: "Unlocking Career Opportunities Beyond Gaming: The Esports Degree at University of Suffolk"
-description: "British researchers at the University of York have identified a protein called NMT that the common cold virus needs to survive, marking a potential breakthrough that could lead to new antiviral treatments and bring us closer to conquering the common cold."
-type: "standard"
-status: "review"
-publishDate: "2025-04-03T06:01:39+00:00"
-author: "Taylor Winters"
+title: >-
+  Unlocking Career Opportunities Beyond Gaming: The Esports Degree at University
+  of Suffolk
+description: >-
+  British researchers at the University of York have identified a protein called
+  NMT that the common cold virus needs to survive, marking a potential
+  breakthrough that could lead to new antiviral treatments and bring us closer
+  to conquering the common cold.
+type: standard
+status: review
+publishDate: '2025-04-03T06:01:39+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Creative Assembly"
-slug: "unlocking-career-opportunities-beyond-gaming-the-esports-degree-at-university-of-suffolk"
+  - Gaming News
+  - Creative Assembly
+slug: >-
+  unlocking-career-opportunities-beyond-gaming-the-esports-degree-at-university-of-suffolk
 reading_time: 3
-source_url: "https://gamerinformers.com/unlocking-career-opportunities-beyond-gaming-the-esports-degree-at-university-of-suffolk/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/unlocking-career-opportunities-beyond-gaming-the-esports-degree-at-university-of-suffolk/
+imported_from: wordpress
 wp_original_id: 33951
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/unlocking-career-opportunities-beyond-gaming-the-esports-degree-at-university-of-suffolk.webp
 seo:
-  canonical: "https://gamerinformers.com/unlocking-career-opportunities-beyond-gaming-the-esports-degree-at-university-of-suffolk/"
-  og_title: "Unlocking Career Opportunities Beyond Gaming: The Esports Degree at University of Suffolk - Gamer Informers"
-  og_description: "British researchers have identified a protein, NMT, that the common cold virus needs to survive. This groundbreaking discovery could lead to new treatments, potentially enabling us to conquer the common cold. The next steps involve testing potential drugs that target NMT under laboratory conditions."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/04/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/unlocking-career-opportunities-beyond-gaming-the-esports-degree-at-university-of-suffolk/
+  og_title: >-
+    Unlocking Career Opportunities Beyond Gaming: The Esports Degree at
+    University of Suffolk - Gamer Informers
+  og_description: >-
+    British researchers have identified a protein, NMT, that the common cold
+    virus needs to survive. This groundbreaking discovery could lead to new
+    treatments, potentially enabling us to conquer the common cold. The next
+    steps involve testing potential drugs that target NMT under laboratory
+    conditions.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/04/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 19
 score_breakdown:
   seo_quality: 15
@@ -27,7 +44,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 10
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for a gaming site, discusses medical research instead of gaming content, and has a misleading title that doesn't match the body content about cold virus research."
+quality_note: >-
+  This article is completely off-topic for a gaming site, discusses medical
+  research instead of gaming content, and has a misleading title that doesn't
+  match the body content about cold virus research.
+image_alt: >-
+  Students collaborate in a modern esports lab with gaming, broadcast, and
+  analytics equipment.
 ---
 
 Imagine a world where the common cold becomes a distant memory — a world where a single pill could swiftly and effectively fight off the virus. Such a world could soon exist, thanks to a groundbreaking discovery in the realm of medical science. A team of British researchers has made an unprecedented breakthrough, identifying a protein that the common cold virus needs to survive. This new discovery could pave the way for novel treatments, allowing us to conquer the common cold once and for all.
