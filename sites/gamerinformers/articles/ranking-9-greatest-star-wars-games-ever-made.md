@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.gamingbible.com/news/best-star-wars-games-all-time-747984-20260521'
 source_item_id: 6a14214f16f23264031d7dcf
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: /assets/images/ranking-9-greatest-star-wars-games-ever-made.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   details and engaging lists that would make this ranking article truly
   compelling for gaming enthusiasts.
 reading_time: 3
+image_alt: >-
+  Sci-fi gaming setup with holographic star maps, spacecraft, and glowing light
+  trails in a cinematic scene
 ---
 ## The Enduring Legacy of Star Wars Gaming
 
