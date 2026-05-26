@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-analyzing-the-impact-of-trumps-policies-on-the-future-of-the-u-s-auto-industry
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/analyzing-the-impact-of-trumps-policies-on-the-future-of-the-u-s-auto-industry.webp
 reading_time: 3
 quality_score: 71
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Well-structured industry analysis with good keyword coverage, but falls short
   on length and lacks the engaging conversational tone expected for automotive
   enthusiasts.
+image_alt: >-
+  Modern auto assembly line with patriotic lighting and policy symbols
+  suggesting industry uncertainty
 ---
 ## Policy Framework Under Scrutiny
 
