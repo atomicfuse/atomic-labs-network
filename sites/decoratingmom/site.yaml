@@ -2,7 +2,8 @@ domain: decoratingmom
 site_name: decoratingmom
 site_tagline: null
 author: David Scott
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d70616f23264031d7a46
 brief:
