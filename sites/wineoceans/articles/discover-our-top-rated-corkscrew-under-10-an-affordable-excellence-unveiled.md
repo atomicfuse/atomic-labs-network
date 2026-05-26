@@ -24,7 +24,8 @@ source_url: ''
 source_item_id: >-
   synthetic-discover-our-top-rated-corkscrew-under-10-an-affordable-excellence-unveiled
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/discover-our-top-rated-corkscrew-under-10-an-affordable-excellence-unveiled.webp
 reading_time: 2
 quality_score: 56
 score_breakdown:
@@ -38,6 +39,9 @@ quality_note: >-
   for being too short (264 words vs 800-1200 target) and making vague,
   unsupported claims without identifying the actual product or providing
   specific details.
+image_alt: >-
+  Elegant corkscrew beside a cork, wine glass, and unlabeled bottle on a sunlit
+  wooden table.
 ---
 ## Finding Quality on a Budget
 
