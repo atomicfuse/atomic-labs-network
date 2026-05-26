@@ -1,25 +1,35 @@
 ---
-title: "Apex Legends Switch Version Shutting Down This Summer"
-description: "Apex Legends will no longer be supported on the Nintendo Switch, with the shutdown set for the upcoming summer. This decision, driven by technical limitations, allows developers to focus on enhancing the game on more powerful platforms."
-type: "standard"
-status: "published"
-publishDate: "2026-02-02T10:40:47+00:00"
-author: "Taylor Winters"
+title: Apex Legends Switch Version Shutting Down This Summer
+description: >-
+  Apex Legends will no longer be supported on the Nintendo Switch, with the
+  shutdown set for the upcoming summer. This decision, driven by technical
+  limitations, allows developers to focus on enhancing the game on more powerful
+  platforms.
+type: standard
+status: published
+publishDate: '2026-02-02T10:40:47+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "apex-legends-switch-version-shutting-down-this-summer"
+  - Gaming News
+  - Community
+slug: apex-legends-switch-version-shutting-down-this-summer
 reading_time: 3
-source_url: "https://gamingnewsalley.com/apex-legends-switch-version-shutting-down-this-summer/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/apex-legends-switch-version-shutting-down-this-summer/
+imported_from: wordpress
 wp_original_id: 42601
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/apex-legends-switch-version-shutting-down-this-summer.webp
 seo:
-  canonical: "https://gamingnewsalley.com/apex-legends-switch-version-shutting-down-this-summer/"
-  og_title: "Apex Legends Switch Version Shutting Down This Summer - Gaming News Alley"
-  og_description: "Apex Legends will no longer be supported on the Nintendo Switch, with shutdown set for the upcoming summer. This decision, due to technical limitations, allows developers to focus on enhancing the game on more powerful platforms."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/apex-legends-switch-version-shutting-down-this-summer/
+  og_title: Apex Legends Switch Version Shutting Down This Summer - Gaming News Alley
+  og_description: >-
+    Apex Legends will no longer be supported on the Nintendo Switch, with
+    shutdown set for the upcoming summer. This decision, due to technical
+    limitations, allows developers to focus on enhancing the game on more
+    powerful platforms.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written gaming news piece with good tone and keyword coverage, but falls short on length and may contain unverified claims about the shutdown announcement."
+quality_note: >-
+  Well-written gaming news piece with good tone and keyword coverage, but falls
+  short on length and may contain unverified claims about the shutdown
+  announcement.
+image_alt: >-
+  Handheld game console with a fading screen beside a glowing gaming setup in
+  warm summer light.
 ---
 
 Fans of the popular battle royale game, Apex Legends, received significant news regarding its availability on the Nintendo Switch. Electronic Arts and Respawn Entertainment have announced that the game will no longer be supported on this platform, with the shutdown scheduled for the upcoming summer season. This decision has sparked discussions within the gaming community about its implications and the future of the game across other platforms.
