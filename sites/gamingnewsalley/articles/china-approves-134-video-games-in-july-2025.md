@@ -1,25 +1,33 @@
 ---
-title: "China Approves 134 Video Games in July 2025"
-description: "China approved 134 new video games in July 2025, marking a significant step in balancing digital entertainment demand with regulatory oversight. This move supports local developers and impacts the global gaming landscape, fostering innovation and collaboration."
-type: "standard"
-status: "review"
-publishDate: "2025-07-24T04:25:34+00:00"
-author: "Taylor Winters"
+title: China Approves 134 Video Games in July 2025
+description: >-
+  China approved 134 new video games in July 2025, marking a significant step in
+  balancing digital entertainment demand with regulatory oversight. This move
+  supports local developers and impacts the global gaming landscape, fostering
+  innovation and collaboration.
+type: standard
+status: review
+publishDate: '2025-07-24T04:25:34+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "China"
-slug: "china-approves-134-video-games-in-july-2025"
+  - Gaming News
+  - China
+slug: china-approves-134-video-games-in-july-2025
 reading_time: 3
-source_url: "https://gamingnewsalley.com/china-approves-134-video-games-in-july-2025/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/china-approves-134-video-games-in-july-2025/'
+imported_from: wordpress
 wp_original_id: 42499
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/china-approves-134-video-games-in-july-2025.webp
 seo:
-  canonical: "https://gamingnewsalley.com/china-approves-134-video-games-in-july-2025/"
-  og_title: "China Approves 134 Video Games in July 2025 - Gaming News Alley"
-  og_description: "China approved 134 new video games in July 2025, marking a significant step in balancing digital entertainment demand with regulatory oversight. This move supports local developers and impacts the global gaming landscape, fostering innovation and collaboration."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/07/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/china-approves-134-video-games-in-july-2025/'
+  og_title: China Approves 134 Video Games in July 2025 - Gaming News Alley
+  og_description: >-
+    China approved 134 new video games in July 2025, marking a significant step
+    in balancing digital entertainment demand with regulatory oversight. This
+    move supports local developers and impacts the global gaming landscape,
+    fostering innovation and collaboration.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/07/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "Strong gaming news coverage with good tone and keyword usage, but severely penalized for future-dated content (July 2025) and significantly below target word count."
+quality_note: >-
+  Strong gaming news coverage with good tone and keyword usage, but severely
+  penalized for future-dated content (July 2025) and significantly below target
+  word count.
+image_alt: >-
+  Modern Chinese skyline with a game controller and orderly floating digital
+  game tiles in red and gold light
 ---
 
 China's video game industry continues to evolve as the nation's regulatory body, the National Press and Publication Administration (NPPA), recently approved a new batch of video games. In July 2025, 134 games received the green light, reflecting a significant step in the country's gaming landscape. This move comes as part of China's broader strategy to balance the demand for digital entertainment with regulatory oversight.
