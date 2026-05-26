@@ -1,29 +1,38 @@
 ---
-title: "Timeless Fashion Tips for Women 60+: Embrace Elegance and Confidence"
-description: "Discover elegant fashion tips and style inspiration for women over 60, celebrating timeless beauty and confidence."
-type: "standard"
-status: "review"
-publishDate: "2026-03-09T09:43:22+00:00"
-author: "Taylor Winters"
+title: 'Timeless Fashion Tips for Women 60+: Embrace Elegance and Confidence'
+description: >-
+  Discover elegant fashion tips and style inspiration for women over 60,
+  celebrating timeless beauty and confidence.
+type: standard
+status: review
+publishDate: '2026-03-09T09:43:22+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Fashion"
-slug: "timeless-fashion-tips-for-women-60-embrace-elegance-and-confidence"
+  - Travel Tips
+  - Beauty
+  - Fashion
+slug: timeless-fashion-tips-for-women-60-embrace-elegance-and-confidence
 reading_time: 2
-source_url: "https://travelbeautytips.com/timeless-fashion-tips-for-women-60-embrace-elegance-and-confidence/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/timeless-fashion-tips-for-women-60-embrace-elegance-and-confidence/
+imported_from: wordpress
 wp_original_id: 36159
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/timeless-fashion-tips-for-women-60-embrace-elegance-and-confidence.webp
 seo:
-  canonical: "https://travelbeautytips.com/timeless-fashion-tips-for-women-60-embrace-elegance-and-confidence/"
-  og_title: "Timeless Fashion Tips for Women 60+: Embrace Elegance and Confidence - Travel Beauty Tips"
-  og_description: "Discover elegant fashion tips and style inspiration for women over 60, celebrating timeless beauty and confidence."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/timeless-fashion-tips-for-women-60-embrace-elegance-and-confidence/
+  og_title: >-
+    Timeless Fashion Tips for Women 60+: Embrace Elegance and Confidence -
+    Travel Beauty Tips
+  og_description: >-
+    Discover elegant fashion tips and style inspiration for women over 60,
+    celebrating timeless beauty and confidence.
+  twitter_card: summary_large_image
 videos:
-  - id: "1da42a1f"
-    url: "https://www.youtube.com/watch?v=mjK5LWztGMQ"
-    position: "after-paragraph-2"
+  - id: 1da42a1f
+    url: 'https://www.youtube.com/watch?v=mjK5LWztGMQ'
+    position: after-paragraph-2
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -31,7 +40,13 @@ score_breakdown:
   content_length: 38
   factual_accuracy: 95
   keyword_relevance: 40
-quality_note: "While the tone is engaging and appropriate for the audience, the article is significantly too short at 379 words and doesn't align well with the site's travel and lifestyle focus, being primarily about general fashion advice."
+quality_note: >-
+  While the tone is engaging and appropriate for the audience, the article is
+  significantly too short at 379 words and doesn't align well with the site's
+  travel and lifestyle focus, being primarily about general fashion advice.
+image_alt: >-
+  Confident older woman in elegant neutral fashion standing in warm natural
+  light
 ---
 
 As we journey through different stages of life, our fashion choices evolve, reflecting our personalities and the experiences we gather along the way. For women over 60, fashion becomes an elegant expression of confidence and timeless beauty. Welcome to Claire Lookbook, a fashion haven where mature women can find inspiration to embrace their style with grace.
