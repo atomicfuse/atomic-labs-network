@@ -1,22 +1,28 @@
 ---
-title: "Wegovy Linked to 5x Higher Sudden Sight Loss Risk Than Ozempic"
-description: "Recent research shows a nearly fivefold higher risk of sudden vision loss with Wegovy compared to Ozempic, highlighting the importance of informed medical decisions when using these weight-loss and diabetes management drugs."
-type: "standard"
-status: "review"
-publishDate: "2026-03-16T12:51:19"
-author: "Taylor Winters"
+title: Wegovy Linked to 5x Higher Sudden Sight Loss Risk Than Ozempic
+description: >-
+  Recent research shows a nearly fivefold higher risk of sudden vision loss with
+  Wegovy compared to Ozempic, highlighting the importance of informed medical
+  decisions when using these weight-loss and diabetes management drugs.
+type: standard
+status: review
+publishDate: '2026-03-16T12:51:19'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "wegovy-linked-to-5x-higher-sudden-sight-loss-risk-than-ozempic"
+  - Space
+  - Humans
+slug: wegovy-linked-to-5x-higher-sudden-sight-loss-risk-than-ozempic
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/wegovy-linked-to-5x-higher-sudden-sight-loss-risk-than-ozempic/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/wegovy-linked-to-5x-higher-sudden-sight-loss-risk-than-ozempic/
+imported_from: wordpress
 wp_original_id: 15090
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/wegovy-linked-to-5x-higher-sudden-sight-loss-risk-than-ozempic.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/wegovy-linked-to-5x-higher-sudden-sight-loss-risk-than-ozempic/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/wegovy-linked-to-5x-higher-sudden-sight-loss-risk-than-ozempic/
+  twitter_card: summary_large_image
 quality_score: 40
 score_breakdown:
   seo_quality: 25
@@ -24,7 +30,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: "The article covers a medical topic that doesn't align with the science site's focus areas (Space, Nature, Physics, Technology, Environment), has poor SEO optimization, and presents unverified medical claims without proper sourcing."
+quality_note: >-
+  The article covers a medical topic that doesn't align with the science site's
+  focus areas (Space, Nature, Physics, Technology, Environment), has poor SEO
+  optimization, and presents unverified medical claims without proper sourcing.
+image_alt: Unbranded injection pens beside eyeglasses in a softly lit clinical setting
 ---
 
 Recent research has highlighted a significant difference in the risk of sudden vision loss associated with two popular weight-loss drugs, Wegovy and Ozempic. Both medications are used to manage obesity and type 2 diabetes, but they have been linked to varying risks of ocular complications. This discovery sheds light on the potential side effects of these medications and the importance of informed medical decisions.
