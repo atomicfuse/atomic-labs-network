@@ -1,24 +1,37 @@
 ---
-title: "Chelsea Targets Aston Villa’s Morgan Rogers for Summer Transfer"
-description: "Chelsea is targeting Aston Villa's Morgan Rogers, a versatile forward known for agility and goal-scoring instincts, as part of their strategy to invest in young talent. His signing would enhance their attacking options and align with their youth development philosophy."
-type: "standard"
-status: "published"
-publishDate: "2025-07-17T04:27:26+00:00"
-author: "Taylor Winters"
+title: Chelsea Targets Aston Villa’s Morgan Rogers for Summer Transfer
+description: >-
+  Chelsea is targeting Aston Villa's Morgan Rogers, a versatile forward known
+  for agility and goal-scoring instincts, as part of their strategy to invest in
+  young talent. His signing would enhance their attacking options and align with
+  their youth development philosophy.
+type: standard
+status: published
+publishDate: '2025-07-17T04:27:26+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andreas Christensen"
-slug: "chelsea-targets-aston-villas-morgan-rogers-for-summer-transfer"
+  - Latest News
+  - Andreas Christensen
+slug: chelsea-targets-aston-villas-morgan-rogers-for-summer-transfer
 reading_time: 3
-source_url: "https://soccernewsreports.com/chelsea-targets-aston-villas-morgan-rogers-for-summer-transfer/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/chelsea-targets-aston-villas-morgan-rogers-for-summer-transfer/
+imported_from: wordpress
 wp_original_id: 37876
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/chelsea-targets-aston-villas-morgan-rogers-for-summer-transfer.webp
 seo:
-  canonical: "https://soccernewsreports.com/chelsea-targets-aston-villas-morgan-rogers-for-summer-transfer/"
-  og_title: "Chelsea Targets Aston Villa's Morgan Rogers for Summer Transfer - Soccer News Reports"
-  og_description: "Chelsea is targeting Aston Villa's Morgan Rogers, a versatile forward known for agility and goal-scoring instincts, as part of their strategy to invest in young talent. His signing would enhance their attacking options and align with their youth development philosophy."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/chelsea-targets-aston-villas-morgan-rogers-for-summer-transfer/
+  og_title: >-
+    Chelsea Targets Aston Villa's Morgan Rogers for Summer Transfer - Soccer
+    News Reports
+  og_description: >-
+    Chelsea is targeting Aston Villa's Morgan Rogers, a versatile forward known
+    for agility and goal-scoring instincts, as part of their strategy to invest
+    in young talent. His signing would enhance their attacking options and align
+    with their youth development philosophy.
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "Well-written transfer article with engaging tone and solid accuracy, but falls short on length and has mismatched tags that don't relate to the content."
+quality_note: >-
+  Well-written transfer article with engaging tone and solid accuracy, but falls
+  short on length and has mismatched tags that don't relate to the content.
+image_alt: >-
+  Young footballer sprinting under stadium lights, suggesting a high-profile
+  summer transfer move.
 ---
 
 In the world of football transfers, Chelsea is making headlines with their interest in Aston Villa's promising young talent, Morgan Rogers. As the summer transfer window approaches, the London club has placed Rogers at the top of their acquisition list, signaling a strategic move to bolster their squad with youthful energy and potential.
