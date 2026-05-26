@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-implemented-or-not-trumps-25-tariff-threat-is-challenging-the-auto-industry
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/implemented-or-not-trumps-25-tariff-threat-is-challenging-the-auto-industry.webp
 reading_time: 1
 quality_score: 56
 score_breakdown:
@@ -35,6 +36,7 @@ quality_note: >-
   Article is severely under-length at only 187 words and lacks the engaging,
   conversational tone expected for automotive enthusiasts, reading more like a
   dry press release than compelling content.
+image_alt: Unfinished cars on a factory line with shipping containers beyond the windows
 ---
 ## Industry Faces Uncertainty Over Tariff Proposals
 
