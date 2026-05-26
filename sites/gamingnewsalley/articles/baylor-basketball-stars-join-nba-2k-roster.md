@@ -1,25 +1,33 @@
 ---
-title: "Baylor Basketball Stars Join NBA 2K Roster"
-description: "Baylor University basketball stars will be featured in NBA 2K, marking a milestone for collegiate athletes in gaming. This inclusion highlights their skills and success, offering them enhanced visibility and marketability in the professional sports landscape."
-type: "standard"
-status: "review"
-publishDate: "2026-02-26T09:33:44+00:00"
-author: "Taylor Winters"
+title: Baylor Basketball Stars Join NBA 2K Roster
+description: >-
+  Baylor University basketball stars will be featured in NBA 2K, marking a
+  milestone for collegiate athletes in gaming. This inclusion highlights their
+  skills and success, offering them enhanced visibility and marketability in the
+  professional sports landscape.
+type: standard
+status: review
+publishDate: '2026-02-26T09:33:44+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "baylor-basketball-stars-join-nba-2k-roster"
+  - Gaming News
+  - Community
+slug: baylor-basketball-stars-join-nba-2k-roster
 reading_time: 4
-source_url: "https://gamingnewsalley.com/baylor-basketball-stars-join-nba-2k-roster/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/baylor-basketball-stars-join-nba-2k-roster/'
+imported_from: wordpress
 wp_original_id: 42615
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/baylor-basketball-stars-join-nba-2k-roster.webp
 seo:
-  canonical: "https://gamingnewsalley.com/baylor-basketball-stars-join-nba-2k-roster/"
-  og_title: "Baylor Basketball Stars Join NBA 2K Roster - Gaming News Alley"
-  og_description: "Baylor University basketball stars will be featured in NBA 2K, marking a milestone for collegiate athletes in gaming. This inclusion highlights their skills and success, offering them enhanced visibility and marketability in the professional sports landscape."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/baylor-basketball-stars-join-nba-2k-roster/'
+  og_title: Baylor Basketball Stars Join NBA 2K Roster - Gaming News Alley
+  og_description: >-
+    Baylor University basketball stars will be featured in NBA 2K, marking a
+    milestone for collegiate athletes in gaming. This inclusion highlights their
+    skills and success, offering them enhanced visibility and marketability in
+    the professional sports landscape.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 60
   keyword_relevance: 70
-quality_note: "Well-structured article with good tone and length, but lacks specific details about which players or when this occurred, raising concerns about factual accuracy and making claims that may not be verifiable."
+quality_note: >-
+  Well-structured article with good tone and length, but lacks specific details
+  about which players or when this occurred, raising concerns about factual
+  accuracy and making claims that may not be verifiable.
+image_alt: >-
+  College basketball players entering a glowing digital arena with futuristic
+  game-inspired effects
 ---
 
 Baylor University is making headlines in the sports gaming world as several of its basketball stars are set to be featured in the popular video game NBA 2K. This development marks a significant milestone for both the players and the university, highlighting the growing influence of collegiate athletes in the professional gaming landscape.
