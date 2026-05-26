@@ -1,24 +1,37 @@
 ---
-title: "Mayor of Kingstown Season Finale Recap: Shocking Ending Explained"
-description: "The fourth season finale of \"Mayor of Kingstown\" delivered intense drama and explosive plot twists, resolving key storylines while leaving intriguing mysteries for future exploration. Jeremy Renner's performance as Mike McLusky was particularly praised, adding depth to the gripping narrative."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T10:49:31+00:00"
-author: "Becca Roberts"
+title: 'Mayor of Kingstown Season Finale Recap: Shocking Ending Explained'
+description: >-
+  The fourth season finale of "Mayor of Kingstown" delivered intense drama and
+  explosive plot twists, resolving key storylines while leaving intriguing
+  mysteries for future exploration. Jeremy Renner's performance as Mike McLusky
+  was particularly praised, adding depth to the gripping narrative.
+type: standard
+status: review
+publishDate: '2025-12-29T10:49:31+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "mayor-of-kingstown-season-finale-recap-shocking-ending-explained"
+  - Watch
+slug: mayor-of-kingstown-season-finale-recap-shocking-ending-explained
 reading_time: 4
-source_url: "https://buzzsoaps.com/mayor-of-kingstown-season-finale-recap-shocking-ending-explained/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/mayor-of-kingstown-season-finale-recap-shocking-ending-explained/
+imported_from: wordpress
 wp_original_id: 520
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/mayor-of-kingstown-season-finale-recap-shocking-ending-explained.webp
 seo:
-  canonical: "https://buzzsoaps.com/mayor-of-kingstown-season-finale-recap-shocking-ending-explained/"
-  og_title: "Mayor of Kingstown Season Finale Recap: Shocking Ending Explained - BuzzSoaps!"
-  og_description: "The fourth season finale of \"Mayor of Kingstown\" delivered intense drama and explosive plot twists, resolving key storylines while leaving intriguing mysteries for future exploration. Jeremy Renner's performance as Mike McLusky was particularly praised, adding depth to the gripping narrative."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/12/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/mayor-of-kingstown-season-finale-recap-shocking-ending-explained/
+  og_title: >-
+    Mayor of Kingstown Season Finale Recap: Shocking Ending Explained -
+    BuzzSoaps!
+  og_description: >-
+    The fourth season finale of "Mayor of Kingstown" delivered intense drama and
+    explosive plot twists, resolving key storylines while leaving intriguing
+    mysteries for future exploration. Jeremy Renner's performance as Mike
+    McLusky was particularly praised, adding depth to the gripping narrative.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/12/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 20
   keyword_relevance: 95
-quality_note: "Strong entertainment focus and engaging tone, but contains major factual errors about the show's season count that significantly undermine credibility."
+quality_note: >-
+  Strong entertainment focus and engaging tone, but contains major factual
+  errors about the show's season count that significantly undermine credibility.
+image_alt: >-
+  Silhouetted man near a foggy prison complex with emergency lights reflecting
+  on wet pavement
 ---
 
 The gripping finale of "Mayor of Kingstown" has left fans eager for more, as the show wrapped up its intense fourth season with a riveting episode. This action-packed season has kept audiences on the edge of their seats, and the final episode did not disappoint, delivering dramatic twists and resolving key storylines while opening new possibilities for the future.
