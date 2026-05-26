@@ -1,24 +1,32 @@
 ---
-title: "Historic Good News Highlights from February 9"
-description: "On February 9th, historical events like The Beatles' Ed Sullivan debut, the Boeing 747's maiden flight, McCarthy's Red Scare speech, Apollo 14's lunar return, and Carmen Miranda's birth have shaped music, technology, politics, science, and culture, inspiring change and innovation."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T10:17:28+00:00"
-author: "Nico Harper"
+title: Historic Good News Highlights from February 9
+description: >-
+  On February 9th, historical events like The Beatles' Ed Sullivan debut, the
+  Boeing 747's maiden flight, McCarthy's Red Scare speech, Apollo 14's lunar
+  return, and Carmen Miranda's birth have shaped music, technology, politics,
+  science, and culture, inspiring change and innovation.
+type: standard
+status: review
+publishDate: '2026-02-09T10:17:28+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "historic-good-news-highlights-from-february-9"
+  - Good Vibes
+slug: historic-good-news-highlights-from-february-9
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-good-news-highlights-from-february-9/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-good-news-highlights-from-february-9/'
+imported_from: wordpress
 wp_original_id: 1017
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-good-news-highlights-from-february-9.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-good-news-highlights-from-february-9/"
-  og_title: "Historic Good News Highlights from February 9 - GigsFreaks"
-  og_description: "On February 9th, historical events like The Beatles' debut, Boeing 747's first flight, McCarthy's Red Scare speech, Apollo 14's lunar return, and Carmen Miranda's birth have shaped music, technology, politics, science, and culture, inspiring change and innovation."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historic-good-news-highlights-from-february-9/'
+  og_title: Historic Good News Highlights from February 9 - GigsFreaks
+  og_description: >-
+    On February 9th, historical events like The Beatles' debut, Boeing 747's
+    first flight, McCarthy's Red Scare speech, Apollo 14's lunar return, and
+    Carmen Miranda's birth have shaped music, technology, politics, science, and
+    culture, inspiring change and innovation.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written historical article with good tone but falls short on length (452 words vs 800-1200 target) and could better integrate entertainment-focused keywords for the site's audience."
+quality_note: >-
+  Well-written historical article with good tone but falls short on length (452
+  words vs 800-1200 target) and could better integrate entertainment-focused
+  keywords for the site's audience.
+image_alt: Symbolic historical artifacts arranged in a hopeful editorial still life
 ---
 
 On this day in history, several noteworthy events have left an indelible mark on the world, inspiring change and sparking movements. Let's dive into some of these significant moments that occurred on February 9th across different years, showcasing the power of innovation, courage, and creativity.
