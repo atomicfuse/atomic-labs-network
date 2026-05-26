@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://slate.com/advice/2026/05/parent-advice-son-soccer-team-sports.html'
 source_item_id: 6a1421f216f23264031d7e23
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/gender-norms-supporting-kids-social-pressure.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -31,6 +31,9 @@ quality_note: >-
   relies heavily on secondhand reports without clear sourcing and falls short of
   optimal length.
 reading_time: 3
+image_alt: >-
+  Child in a pink soccer jersey receives quiet support from a parent beside a
+  soccer field.
 ---
 ## The Pink Jersey Problem
 
