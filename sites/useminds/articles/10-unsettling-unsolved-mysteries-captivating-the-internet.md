@@ -1,29 +1,36 @@
 ---
-title: "10 Unsettling Unsolved Mysteries Captivating the Internet"
-description: "Explore the eerie unsolved mysteries capturing online attention, including a haunting McDonald's playground image that has sparked widespread discussion and speculation."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T10:37:27+00:00"
-author: "Nico Ashwood"
+title: 10 Unsettling Unsolved Mysteries Captivating the Internet
+description: >-
+  Explore the eerie unsolved mysteries capturing online attention, including a
+  haunting McDonald's playground image that has sparked widespread discussion
+  and speculation.
+type: standard
+status: review
+publishDate: '2026-02-09T10:37:27+00:00'
+author: Nico Ashwood
 tags:
-  - "Conspiracy Theories"
-  - "Hidden History"
-  - "Human Curiosity"
-slug: "10-unsettling-unsolved-mysteries-captivating-the-internet"
+  - Conspiracy Theories
+  - Hidden History
+  - Human Curiosity
+slug: 10-unsettling-unsolved-mysteries-captivating-the-internet
 reading_time: 2
-source_url: "https://useminds.com/10-unsettling-unsolved-mysteries-captivating-the-internet/"
-imported_from: "wordpress"
+source_url: >-
+  https://useminds.com/10-unsettling-unsolved-mysteries-captivating-the-internet/
+imported_from: wordpress
 wp_original_id: 483
-featuredImage: "/assets/images/useminds-general-article.webp"
+featuredImage: /assets/images/10-unsettling-unsolved-mysteries-captivating-the-internet.webp
 seo:
-  canonical: "https://useminds.com/10-unsettling-unsolved-mysteries-captivating-the-internet/"
-  og_title: "10 Unsettling Unsolved Mysteries Captivating the Internet - UseMinds"
-  og_description: "Explore the eerie unsolved mysteries that are capturing online attention, including a haunting McDonald's playground image."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://useminds.com/10-unsettling-unsolved-mysteries-captivating-the-internet/
+  og_title: 10 Unsettling Unsolved Mysteries Captivating the Internet - UseMinds
+  og_description: >-
+    Explore the eerie unsolved mysteries that are capturing online attention,
+    including a haunting McDonald's playground image.
+  twitter_card: summary_large_image
 videos:
-  - id: "5b203511"
-    url: "https://www.youtube.com/watch?v=vA6CUnalY8Q"
-    position: "after-paragraph-2"
+  - id: 5b203511
+    url: 'https://www.youtube.com/watch?v=vA6CUnalY8Q'
+    position: after-paragraph-2
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -31,7 +38,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 60
   keyword_relevance: 80
-quality_note: "The article has good tone and keyword alignment but is severely under the target word count and makes vague, unverifiable claims about viral mysteries without providing concrete sources or evidence."
+quality_note: >-
+  The article has good tone and keyword alignment but is severely under the
+  target word count and makes vague, unverifiable claims about viral mysteries
+  without providing concrete sources or evidence.
+image_alt: >-
+  Eerie abandoned playground viewed through an online mystery investigation
+  setup
 ---
 
 In the digital age, unsolved mysteries have taken on a new dimension, spreading rapidly across social media and online forums. These mysteries captivate audiences, leaving them both intrigued and unsettled. Among the most recent topics grabbing attention are ten particularly chilling enigmas that defy explanation.
