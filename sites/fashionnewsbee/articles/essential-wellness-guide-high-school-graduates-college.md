@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/poojashah/2026/05/25/the-high-school-graduates-guide-for-skin-and-overall-wellness/
 source_item_id: 6a14fea216f23264031d803f
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/essential-wellness-guide-high-school-graduates-college.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   length requirements and could benefit from stronger SEO optimization and more
   fashion/beauty focus.
 reading_time: 3
+image_alt: >-
+  Sunlit college dorm desk with skincare, water bottle, fruit, journal, and
+  graduation tassel
 ---
 ## Building Wellness Habits Before College Starts
 
