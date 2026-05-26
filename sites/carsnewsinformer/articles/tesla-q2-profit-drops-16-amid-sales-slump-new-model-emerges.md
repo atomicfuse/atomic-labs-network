@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-tesla-q2-profit-drops-16-amid-sales-slump-new-model-emerges
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/tesla-q2-profit-drops-16-amid-sales-slump-new-model-emerges.webp
 reading_time: 3
 quality_score: 65
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   Article covers relevant EV news with good keyword integration but falls
   significantly short on length (419 words vs 800-1200 target) and lacks
   specific details that would enhance credibility.
+image_alt: >-
+  Unbranded electric car in a modern showroom with a covered new model emerging
+  behind it
 ---
 ## Tesla Faces Challenging Quarter with Profit Decline
 
