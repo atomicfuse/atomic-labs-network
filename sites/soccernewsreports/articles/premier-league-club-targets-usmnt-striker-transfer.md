@@ -1,24 +1,34 @@
 ---
-title: "Premier League Club Targets USMNT Striker Transfer"
-description: "Player transfers in international soccer are a hot topic, with the English Premier League eyeing a USMNT striker, highlighting American players' growing global reputation. A Premier League move could boost his career and American soccer's visibility in Europe."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:25:34+00:00"
-author: "Taylor Winters"
+title: Premier League Club Targets USMNT Striker Transfer
+description: >-
+  Player transfers in international soccer are a hot topic, with the English
+  Premier League eyeing a USMNT striker, highlighting American players' growing
+  global reputation. A Premier League move could boost his career and American
+  soccer's visibility in Europe.
+type: standard
+status: review
+publishDate: '2025-06-19T04:25:34+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Aaron Long"
-slug: "premier-league-club-targets-usmnt-striker-transfer"
+  - Latest News
+  - Aaron Long
+slug: premier-league-club-targets-usmnt-striker-transfer
 reading_time: 4
-source_url: "https://soccernewsreports.com/premier-league-club-targets-usmnt-striker-transfer/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/premier-league-club-targets-usmnt-striker-transfer/
+imported_from: wordpress
 wp_original_id: 37868
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/premier-league-club-targets-usmnt-striker-transfer.webp
 seo:
-  canonical: "https://soccernewsreports.com/premier-league-club-targets-usmnt-striker-transfer/"
-  og_title: "Premier League Club Targets USMNT Striker Transfer - Soccer News Reports"
-  og_description: "Player transfers in international soccer are a hot topic, with the English Premier League eyeing a USMNT striker, highlighting American players' growing global reputation. A Premier League move could boost his career and American soccer's visibility in Europe."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/premier-league-club-targets-usmnt-striker-transfer/
+  og_title: Premier League Club Targets USMNT Striker Transfer - Soccer News Reports
+  og_description: >-
+    Player transfers in international soccer are a hot topic, with the English
+    Premier League eyeing a USMNT striker, highlighting American players'
+    growing global reputation. A Premier League move could boost his career and
+    American soccer's visibility in Europe.
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "While the article covers relevant transfer news with appropriate tone and length, it severely lacks factual accuracy by not identifying the specific player, making it appear fabricated or incomplete."
+quality_note: >-
+  While the article covers relevant transfer news with appropriate tone and
+  length, it severely lacks factual accuracy by not identifying the specific
+  player, making it appear fabricated or incomplete.
+image_alt: >-
+  Soccer striker under stadium lights with a silhouetted agent nearby,
+  suggesting an international transfer move.
 ---
 
 In the world of international soccer, player transfers often become a hot topic, especially when it involves prominent athletes moving to top leagues. The English Premier League, known for its competitive nature and global reach, is reportedly eyeing a new talent from the United States Men's National Team (USMNT). This interest highlights the growing reputation of American soccer players on the global stage.
