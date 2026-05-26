@@ -1,24 +1,34 @@
 ---
-title: "Kermit the Frog Delivers Inspiring Commencement Speech"
-description: "Kermit the Frog inspired the University of Maryland's Class of 2023 with a commencement speech emphasizing embracing change, valuing community, and staying true to oneself. His insights offered graduates meaningful life lessons for navigating future challenges with optimism and resilience."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T10:05:20+00:00"
-author: "Becca Roberts"
+title: Kermit the Frog Delivers Inspiring Commencement Speech
+description: >-
+  Kermit the Frog inspired the University of Maryland's Class of 2023 with a
+  commencement speech emphasizing embracing change, valuing community, and
+  staying true to oneself. His insights offered graduates meaningful life
+  lessons for navigating future challenges with optimism and resilience.
+type: standard
+status: review
+publishDate: '2025-05-22T10:05:20+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "kermit-the-frog-delivers-inspiring-commencement-speech-2"
+  - Culture Buzz
+slug: kermit-the-frog-delivers-inspiring-commencement-speech-2
 reading_time: 3
-source_url: "https://buzzsoaps.com/kermit-the-frog-delivers-inspiring-commencement-speech-2/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/kermit-the-frog-delivers-inspiring-commencement-speech-2/
+imported_from: wordpress
 wp_original_id: 424
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/kermit-the-frog-delivers-inspiring-commencement-speech-2.webp
 seo:
-  canonical: "https://buzzsoaps.com/kermit-the-frog-delivers-inspiring-commencement-speech-2/"
-  og_title: "Kermit the Frog Delivers Inspiring Commencement Speech - BuzzSoaps!"
-  og_description: "Kermit the Frog inspired the University of Maryland's Class of 2023 with a speech emphasizing embracing change, valuing community, and staying true to oneself. His insights offered graduates meaningful life lessons for navigating future challenges with optimism and resilience."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-105.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/kermit-the-frog-delivers-inspiring-commencement-speech-2/
+  og_title: Kermit the Frog Delivers Inspiring Commencement Speech - BuzzSoaps!
+  og_description: >-
+    Kermit the Frog inspired the University of Maryland's Class of 2023 with a
+    speech emphasizing embracing change, valuing community, and staying true to
+    oneself. His insights offered graduates meaningful life lessons for
+    navigating future challenges with optimism and resilience.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-105.jpeg'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 75
-quality_note: "While the article has good tone and covers relevant entertainment topics, it's significantly too short at 493 words and appears to fabricate a specific commencement speech event without verification."
+quality_note: >-
+  While the article has good tone and covers relevant entertainment topics, it's
+  significantly too short at 493 words and appears to fabricate a specific
+  commencement speech event without verification.
+image_alt: >-
+  Graduates face a sunlit stage where a green frog-like speaker stands at a
+  commencement podium.
 ---
 
 Kermit the Frog recently delivered a heartfelt and inspiring commencement speech that left a lasting impression on graduates and attendees alike. The beloved Muppet character shared his wisdom with the University of Maryland's Class of 2023, offering unique insights into life after college.
