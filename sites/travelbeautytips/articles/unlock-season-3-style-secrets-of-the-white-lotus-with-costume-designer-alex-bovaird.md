@@ -1,25 +1,41 @@
 ---
-title: "Unlock Season 3 Style Secrets of ‘The White Lotus’ with Costume Designer Alex Bovaird"
-description: "The hit HBO series 'The White Lotus' offers a wealth of fashion inspiration, from chic resort wear to avant-garde accessories. The show's wardrobe is distinctive for its bold prints, vibrant colors, statement pieces, and a blend of comfort and style."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T07:46:33+00:00"
-author: "Taylor Winters"
+title: >-
+  Unlock Season 3 Style Secrets of ‘The White Lotus’ with Costume Designer Alex
+  Bovaird
+description: >-
+  The hit HBO series 'The White Lotus' offers a wealth of fashion inspiration,
+  from chic resort wear to avant-garde accessories. The show's wardrobe is
+  distinctive for its bold prints, vibrant colors, statement pieces, and a blend
+  of comfort and style.
+type: standard
+status: review
+publishDate: '2025-04-07T07:46:33+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Fashion"
-slug: "unlock-season-3-style-secrets-of-the-white-lotus-with-costume-designer-alex-bovaird"
+  - Travel Tips
+  - Fashion
+slug: >-
+  unlock-season-3-style-secrets-of-the-white-lotus-with-costume-designer-alex-bovaird
 reading_time: 2
-source_url: "https://travelbeautytips.com/unlock-season-3-style-secrets-of-the-white-lotus-with-costume-designer-alex-bovaird/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/unlock-season-3-style-secrets-of-the-white-lotus-with-costume-designer-alex-bovaird/
+imported_from: wordpress
 wp_original_id: 35862
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/unlock-season-3-style-secrets-of-the-white-lotus-with-costume-designer-alex-bovaird.webp
 seo:
-  canonical: "https://travelbeautytips.com/unlock-season-3-style-secrets-of-the-white-lotus-with-costume-designer-alex-bovaird/"
-  og_title: "Unlock Season 3 Style Secrets of 'The White Lotus' with Costume Designer Alex Bovaird - Travel Beauty Tips"
-  og_description: "The hit HBO series 'The White Lotus' offers a wealth of fashion inspiration, from chic resort wear to avant-garde accessories. The show's wardrobe is distinctive for its bold prints, vibrant colors, statement pieces, and a blend of comfort and style."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/04/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/unlock-season-3-style-secrets-of-the-white-lotus-with-costume-designer-alex-bovaird/
+  og_title: >-
+    Unlock Season 3 Style Secrets of 'The White Lotus' with Costume Designer
+    Alex Bovaird - Travel Beauty Tips
+  og_description: >-
+    The hit HBO series 'The White Lotus' offers a wealth of fashion inspiration,
+    from chic resort wear to avant-garde accessories. The show's wardrobe is
+    distinctive for its bold prints, vibrant colors, statement pieces, and a
+    blend of comfort and style.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/04/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -27,7 +43,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 65
-quality_note: "While the tone and accuracy are decent, the article is significantly too short at 341 words and lacks proper SEO optimization with no meta description or structured headings."
+quality_note: >-
+  While the tone and accuracy are decent, the article is significantly too short
+  at 341 words and lacks proper SEO optimization with no meta description or
+  structured headings.
+image_alt: >-
+  Bold resort fashion and statement accessories arranged beside a sunlit luxury
+  pool
 ---
 
 If you're a fan of the hit HBO series 'The White Lotus', you're surely captivated by its distinctive fashion sense. The show is a goldmine of inspiration for women's fashion, from chic resort wear to avant-garde accessories. In anticipation of the third season, we've curated a selection of outfit ideas that echo the unique style of the series.
