@@ -1,29 +1,35 @@
 ---
-title: "Explore the Best of H&M’s Summer Home Decor Collection"
-description: "Discover the exquisite pieces from H&M's Summer Collection and learn top decorating tips to enhance your home."
-type: "standard"
-status: "review"
-publishDate: "2025-06-12T04:05:24+00:00"
-author: "Taylor Winters"
+title: Explore the Best of H&M’s Summer Home Decor Collection
+description: >-
+  Discover the exquisite pieces from H&M's Summer Collection and learn top
+  decorating tips to enhance your home.
+type: standard
+status: review
+publishDate: '2025-06-12T04:05:24+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "Home"
-slug: "explore-the-best-of-hms-summer-home-decor-collection"
+  - Decor Ideas
+  - Design
+  - Home
+slug: explore-the-best-of-hms-summer-home-decor-collection
 reading_time: 2
-source_url: "https://decoratingtricks.com/explore-the-best-of-hms-summer-home-decor-collection/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/explore-the-best-of-hms-summer-home-decor-collection/
+imported_from: wordpress
 wp_original_id: 21426
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/explore-the-best-of-hms-summer-home-decor-collection.webp
 seo:
-  canonical: "https://decoratingtricks.com/explore-the-best-of-hms-summer-home-decor-collection/"
-  og_title: "Explore the Best of H&M's Summer Home Decor Collection - Decorating Tricks"
-  og_description: "Discover the exquisite pieces from H&M's Summer Collection and learn top decorating tips to enhance your home."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/explore-the-best-of-hms-summer-home-decor-collection/
+  og_title: Explore the Best of H&M's Summer Home Decor Collection - Decorating Tricks
+  og_description: >-
+    Discover the exquisite pieces from H&M's Summer Collection and learn top
+    decorating tips to enhance your home.
+  twitter_card: summary_large_image
 videos:
-  - id: "32c02649"
-    url: "https://www.youtube.com/watch?v=FRpar4prwGQ"
-    position: "after-paragraph-2"
+  - id: 32c02649
+    url: 'https://www.youtube.com/watch?v=FRpar4prwGQ'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -31,7 +37,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "Well-written article with good tone and relevance but significantly under target word count at 394 words versus 800-1200 target range."
+quality_note: >-
+  Well-written article with good tone and relevance but significantly under
+  target word count at 394 words versus 800-1200 target range.
+image_alt: >-
+  Sunlit summer living room with neutral decor, woven textures, ceramics, and
+  fresh greenery.
 ---
 
 H&M has unveiled its latest home decor collection for the summer, and it promises to redefine your interior space with its stunning new offerings. This collection is a treasure trove of beautiful and functional pieces that are perfect for anyone looking to update their home decor. Whether you're a seasoned decorator or just starting, H&M's Summer Collection offers something for everyone.
