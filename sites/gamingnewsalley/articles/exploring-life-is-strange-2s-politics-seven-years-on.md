@@ -1,24 +1,34 @@
 ---
-title: "Exploring Life is Strange 2’s Politics Seven Years On"
-description: "Life is Strange 2, an episodic adventure game by Dontnod Entertainment, explores themes of family, identity, and societal issues. Through the journey of brothers Sean and Daniel Diaz, it offers a compelling commentary on modern-day politics and personal growth."
-type: "standard"
-status: "published"
-publishDate: "2025-10-30T09:39:32+00:00"
-author: "Taylor Winters"
+title: Exploring Life is Strange 2’s Politics Seven Years On
+description: >-
+  Life is Strange 2, an episodic adventure game by Dontnod Entertainment,
+  explores themes of family, identity, and societal issues. Through the journey
+  of brothers Sean and Daniel Diaz, it offers a compelling commentary on
+  modern-day politics and personal growth.
+type: standard
+status: published
+publishDate: '2025-10-30T09:39:32+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "exploring-life-is-strange-2s-politics-seven-years-on"
+  - Gaming News
+  - Community
+slug: exploring-life-is-strange-2s-politics-seven-years-on
 reading_time: 3
-source_url: "https://gamingnewsalley.com/exploring-life-is-strange-2s-politics-seven-years-on/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/exploring-life-is-strange-2s-politics-seven-years-on/
+imported_from: wordpress
 wp_original_id: 42539
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/exploring-life-is-strange-2s-politics-seven-years-on.webp
 seo:
-  canonical: "https://gamingnewsalley.com/exploring-life-is-strange-2s-politics-seven-years-on/"
-  og_title: "Exploring Life is Strange 2's Politics Seven Years On - Gaming News Alley"
-  og_description: "Life is Strange 2, an episodic adventure game by Dontnod Entertainment, explores themes of family, identity, and societal issues. Through the journey of brothers Sean and Daniel Diaz, it offers a compelling commentary on modern-day politics and personal growth."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/exploring-life-is-strange-2s-politics-seven-years-on/
+  og_title: Exploring Life is Strange 2's Politics Seven Years On - Gaming News Alley
+  og_description: >-
+    Life is Strange 2, an episodic adventure game by Dontnod Entertainment,
+    explores themes of family, identity, and societal issues. Through the
+    journey of brothers Sean and Daniel Diaz, it offers a compelling commentary
+    on modern-day politics and personal growth.
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with appropriate tone and accurate content, but falls short on word count (577 vs target 800-1200) and could better integrate gaming-specific SEO keywords."
+quality_note: >-
+  Well-written article with appropriate tone and accurate content, but falls
+  short on word count (577 vs target 800-1200) and could better integrate
+  gaming-specific SEO keywords.
+image_alt: >-
+  Two brothers stand on a dusk highway facing a distant border fence and stormy
+  horizon.
 ---
 
 Life is Strange 2, developed by Dontnod Entertainment, has left a significant mark in the realm of narrative-driven video games. Released in 2018, this episodic adventure game takes players on a profound journey through the lives of two brothers, Sean and Daniel Diaz. As they navigate the challenges of life on the run, themes of family, identity, and societal issues are intricately woven into the storyline, making it a compelling commentary on modern-day politics and personal growth.
