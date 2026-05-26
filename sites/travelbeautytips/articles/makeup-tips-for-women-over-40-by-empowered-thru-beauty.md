@@ -1,26 +1,34 @@
 ---
-title: "Makeup Tips for Women Over 40 by Empowered Thru Beauty"
-description: "Empowered Thru Beauty offers personalized makeup advice for women over 40, focusing on enhancing natural beauty with products that hydrate and provide a radiant finish, helping mature women look and feel confident at any age."
-type: "standard"
-status: "review"
-publishDate: "2025-06-26T04:25:27+00:00"
-author: "Taylor Winters"
+title: Makeup Tips for Women Over 40 by Empowered Thru Beauty
+description: >-
+  Empowered Thru Beauty offers personalized makeup advice for women over 40,
+  focusing on enhancing natural beauty with products that hydrate and provide a
+  radiant finish, helping mature women look and feel confident at any age.
+type: standard
+status: review
+publishDate: '2025-06-26T04:25:27+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Tutorial"
-slug: "makeup-tips-for-women-over-40-by-empowered-thru-beauty"
+  - Travel Tips
+  - Beauty
+  - Makeup Tutorial
+slug: makeup-tips-for-women-over-40-by-empowered-thru-beauty
 reading_time: 3
-source_url: "https://travelbeautytips.com/makeup-tips-for-women-over-40-by-empowered-thru-beauty/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/makeup-tips-for-women-over-40-by-empowered-thru-beauty/
+imported_from: wordpress
 wp_original_id: 35916
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/makeup-tips-for-women-over-40-by-empowered-thru-beauty.webp
 seo:
-  canonical: "https://travelbeautytips.com/makeup-tips-for-women-over-40-by-empowered-thru-beauty/"
-  og_title: "Makeup Tips for Women Over 40 by Empowered Thru Beauty - Travel Beauty Tips"
-  og_description: "Empowered Thru Beauty offers personalized makeup advice for women over 40, focusing on enhancing natural beauty with products that hydrate and provide a radiant finish, helping mature women look and feel confident at any age."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/06/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/makeup-tips-for-women-over-40-by-empowered-thru-beauty/
+  og_title: Makeup Tips for Women Over 40 by Empowered Thru Beauty - Travel Beauty Tips
+  og_description: >-
+    Empowered Thru Beauty offers personalized makeup advice for women over 40,
+    focusing on enhancing natural beauty with products that hydrate and provide
+    a radiant finish, helping mature women look and feel confident at any age.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/06/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -28,7 +36,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written beauty advice but significantly under target word count at 473 words, which severely impacts content length scoring despite good tone and relevance to beauty topics."
+quality_note: >-
+  Well-written beauty advice but significantly under target word count at 473
+  words, which severely impacts content length scoring despite good tone and
+  relevance to beauty topics.
+image_alt: Confident mature woman applying natural radiant makeup at a softly lit vanity
 ---
 
 Empowered Thru Beauty is revolutionizing the beauty industry by offering tailored makeup advice to women over 40. In an era where beauty standards are often dictated by youthful trends, this innovative approach celebrates maturity and helps women enhance their natural beauty as they age.
