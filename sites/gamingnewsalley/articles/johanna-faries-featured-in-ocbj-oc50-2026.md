@@ -1,25 +1,31 @@
 ---
-title: "Johanna Faries Featured in OCBJ OC50 2026"
-description: "Johanna Faries leads Blizzard Entertainment through a pivotal era under Microsoft, balancing beloved game franchises, player trust, studio culture and Orange County's role in the global gaming industry."
-type: "standard"
-status: "published"
-publishDate: "2026-05-25T08:32:19+00:00"
-author: "Taylor Winters"
+title: Johanna Faries Featured in OCBJ OC50 2026
+description: >-
+  Johanna Faries leads Blizzard Entertainment through a pivotal era under
+  Microsoft, balancing beloved game franchises, player trust, studio culture and
+  Orange County's role in the global gaming industry.
+type: standard
+status: published
+publishDate: '2026-05-25T08:32:19+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Call of Duty: Black Ops 4"
-slug: "johanna-faries-featured-in-ocbj-oc50-2026"
+  - Gaming News
+  - 'Call of Duty: Black Ops 4'
+slug: johanna-faries-featured-in-ocbj-oc50-2026
 reading_time: 7
-source_url: "https://gamingnewsalley.com/johanna-faries-featured-in-ocbj-oc50-2026/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/johanna-faries-featured-in-ocbj-oc50-2026/'
+imported_from: wordpress
 wp_original_id: 42650
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/johanna-faries-featured-in-ocbj-oc50-2026.webp
 seo:
-  canonical: "https://gamingnewsalley.com/johanna-faries-featured-in-ocbj-oc50-2026/"
-  og_title: "Johanna Faries Featured in OCBJ OC50 2026 - Gaming News Alley"
-  og_description: "Johanna Faries leads Blizzard Entertainment through a pivotal era under Microsoft, balancing beloved game franchises, player trust, studio culture and Orange County’s role in the global gaming industry."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/johanna-faries-featured-in-ocbj-oc50-2026/'
+  og_title: Johanna Faries Featured in OCBJ OC50 2026 - Gaming News Alley
+  og_description: >-
+    Johanna Faries leads Blizzard Entertainment through a pivotal era under
+    Microsoft, balancing beloved game franchises, player trust, studio culture
+    and Orange County’s role in the global gaming industry.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +33,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good length and tone, but needs stronger gaming focus and better SEO optimization for the target audience."
+quality_note: >-
+  Well-written article with good length and tone, but needs stronger gaming
+  focus and better SEO optimization for the target audience.
+image_alt: >-
+  Female gaming executive in a modern studio with abstract digital worlds
+  glowing behind her
 ---
 
 Johanna Faries has become one of Orange County's most closely watched technology leaders, guiding Irvine-based Blizzard Entertainment through a defining period for the global video game business. As president of the studio behind Warcraft, Diablo, Overwatch, StarCraft and Hearthstone, she sits at the center of creative ambition, corporate change and a fiercely competitive entertainment market.
