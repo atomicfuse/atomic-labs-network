@@ -1,24 +1,36 @@
 ---
-title: "Southern Charm Episode Recap: Engagement Surprises and Drama"
-description: "In the latest episode of Southern Charm, tensions escalate as friendships are tested by secrets and misunderstandings, leading to emotional confrontations. The episode explores fractured bonds, romantic entanglements, and social gatherings, setting the stage for future drama and character evolution."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:33:30+00:00"
-author: "Becca Roberts"
+title: 'Southern Charm Episode Recap: Engagement Surprises and Drama'
+description: >-
+  In the latest episode of Southern Charm, tensions escalate as friendships are
+  tested by secrets and misunderstandings, leading to emotional confrontations.
+  The episode explores fractured bonds, romantic entanglements, and social
+  gatherings, setting the stage for future drama and character evolution.
+type: standard
+status: review
+publishDate: '2026-01-22T10:33:30+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "southern-charm-episode-recap-engagement-surprises-and-drama"
+  - Watch
+slug: southern-charm-episode-recap-engagement-surprises-and-drama
 reading_time: 3
-source_url: "https://buzzsoaps.com/southern-charm-episode-recap-engagement-surprises-and-drama/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/southern-charm-episode-recap-engagement-surprises-and-drama/
+imported_from: wordpress
 wp_original_id: 531
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/southern-charm-episode-recap-engagement-surprises-and-drama.webp
 seo:
-  canonical: "https://buzzsoaps.com/southern-charm-episode-recap-engagement-surprises-and-drama/"
-  og_title: "Southern Charm Episode Recap: Engagement Surprises and Drama - BuzzSoaps!"
-  og_description: "In the latest episode of Southern Charm, tensions escalate as friendships are tested by secrets and misunderstandings, leading to emotional confrontations. The episode explores fractured bonds, romantic entanglements, and social gatherings, setting the stage for future drama and character evolution."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/southern-charm-episode-recap-engagement-surprises-and-drama/
+  og_title: 'Southern Charm Episode Recap: Engagement Surprises and Drama - BuzzSoaps!'
+  og_description: >-
+    In the latest episode of Southern Charm, tensions escalate as friendships
+    are tested by secrets and misunderstandings, leading to emotional
+    confrontations. The episode explores fractured bonds, romantic
+    entanglements, and social gatherings, setting the stage for future drama and
+    character evolution.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written recap with engaging tone but significantly under target word count at 417 words, limiting its SEO potential and comprehensive coverage."
+quality_note: >-
+  Well-written recap with engaging tone but significantly under target word
+  count at 417 words, limiting its SEO potential and comprehensive coverage.
+image_alt: >-
+  Tense upscale veranda gathering at dusk with a subtle engagement hint and
+  divided guests
 ---
 
 In the latest episode of Southern Charm, tensions among the Charleston group reach new heights as they navigate personal challenges and evolving dynamics. The episode offers a riveting glimpse into friendships tested by secrets, misunderstandings, and emotional confrontations, setting the stage for dramatic developments.
