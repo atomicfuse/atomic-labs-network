@@ -1,22 +1,28 @@
 ---
-title: "Why Breast Cancer Risk Increases With Age, Scientists Explain"
-description: "New research suggests breast cancer risk rises with age not only from DNA mutations, but also from changes in breast tissue that weaken defenses, increase inflammation, and help abnormal cells survive."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T11:30:44"
-author: "Taylor Winters"
+title: 'Why Breast Cancer Risk Increases With Age, Scientists Explain'
+description: >-
+  New research suggests breast cancer risk rises with age not only from DNA
+  mutations, but also from changes in breast tissue that weaken defenses,
+  increase inflammation, and help abnormal cells survive.
+type: standard
+status: published
+publishDate: '2026-04-30T11:30:44'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "why-breast-cancer-risk-increases-with-age-scientists-explain"
+  - Space
+  - Humans
+slug: why-breast-cancer-risk-increases-with-age-scientists-explain
 reading_time: 7
-source_url: "https://www.sciencenewslab.com/why-breast-cancer-risk-increases-with-age-scientists-explain/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/why-breast-cancer-risk-increases-with-age-scientists-explain/
+imported_from: wordpress
 wp_original_id: 15097
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/why-breast-cancer-risk-increases-with-age-scientists-explain.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/why-breast-cancer-risk-increases-with-age-scientists-explain/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/why-breast-cancer-risk-increases-with-age-scientists-explain/
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 25
-quality_note: "Well-written health article with good length and tone, but completely misaligned with site's science focus areas and tagged incorrectly."
+quality_note: >-
+  Well-written health article with good length and tone, but completely
+  misaligned with site's science focus areas and tagged incorrectly.
+image_alt: >-
+  Older woman in soft light with abstract cellular patterns suggesting
+  age-related breast cancer risk.
 ---
 
 Breast cancer risk rises sharply with age, and scientists are getting closer to explaining why. New research suggests the answer is not only about random DNA mistakes building up over time. The aging breast also changes as an ecosystem, making it easier for abnormal cells to survive, grow, and potentially become cancerous.
