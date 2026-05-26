@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-discover-the-latest-spring-beauty-trends-revamp-your-look-for-the-season
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: >-
+  /assets/images/discover-the-latest-spring-beauty-trends-revamp-your-look-for-the-season.webp
 reading_time: 3
 quality_score: 64
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   The article covers relevant beauty topics but lacks specific trend details,
   falls short on word count, and uses overly formal language that doesn't match
   the site's engaging conversational tone.
+image_alt: >-
+  Model with fresh spring makeup in soft natural light beside pastel blooms and
+  beauty products
 ---
 ## Spring Beauty Refresh: Time for a Seasonal Transformation
 
