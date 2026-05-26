@@ -21,7 +21,7 @@ source_url: >-
   https://www.forbes.com/sites/david-tao/2026/05/25/penelope-bourbon-introduces-18-bottle-golf-themed-whiskey-series/
 source_item_id: 6a14fea216f23264031d8048
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/penelope-bourbon-golf-whiskey-series-architects.webp
 quality_score: 48
 score_breakdown:
   seo_quality: 25
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written bourbon content with good tone, but severely misaligned with
   eznutritiontips' nutrition focus and too short for guidelines.
 reading_time: 3
+image_alt: >-
+  Three unbranded bourbon bottles with golf and oak accents in a refined studio
+  setting
 ---
 ## Premium Bourbon Meets Golf Culture
 
