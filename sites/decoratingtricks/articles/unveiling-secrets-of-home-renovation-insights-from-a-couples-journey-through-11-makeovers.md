@@ -1,26 +1,43 @@
 ---
-title: "Unveiling Secrets of Home Renovation: Insights from a Couple’s Journey Through 11 Makeovers"
-description: "Chris Mitchell and Pilar Guzman, veterans in the realm of print media, have transformed their 19th-century Brooklyn brownstone into a stylish, sophisticated, and warm oasis. Their home reflects their love for aesthetics, balancing the old with the new, and serves as a personal gallery."
-type: "standard"
-status: "review"
-publishDate: "2025-04-24T04:31:41+00:00"
-author: "Taylor Winters"
+title: >-
+  Unveiling Secrets of Home Renovation: Insights from a Couple’s Journey Through
+  11 Makeovers
+description: >-
+  Chris Mitchell and Pilar Guzman, veterans in the realm of print media, have
+  transformed their 19th-century Brooklyn brownstone into a stylish,
+  sophisticated, and warm oasis. Their home reflects their love for aesthetics,
+  balancing the old with the new, and serves as a personal gallery.
+type: standard
+status: review
+publishDate: '2025-04-24T04:31:41+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "Home Improvement"
-slug: "unveiling-secrets-of-home-renovation-insights-from-a-couples-journey-through-11-makeovers"
+  - Design
+  - Home
+  - Home Improvement
+slug: >-
+  unveiling-secrets-of-home-renovation-insights-from-a-couples-journey-through-11-makeovers
 reading_time: 3
-source_url: "https://decoratingtricks.com/unveiling-secrets-of-home-renovation-insights-from-a-couples-journey-through-11-makeovers/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/unveiling-secrets-of-home-renovation-insights-from-a-couples-journey-through-11-makeovers/
+imported_from: wordpress
 wp_original_id: 21353
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/unveiling-secrets-of-home-renovation-insights-from-a-couples-journey-through-11-makeovers.webp
 seo:
-  canonical: "https://decoratingtricks.com/unveiling-secrets-of-home-renovation-insights-from-a-couples-journey-through-11-makeovers/"
-  og_title: "Unveiling Secrets of Home Renovation: Insights from a Couple's Journey Through 11 Makeovers - Decorating Tricks"
-  og_description: "Chris Mitchell and Pilar Guzman, veterans in the realm of print media, have transformed their 19th-century Brooklyn brownstone into a stylish, sophisticated, and warm oasis. Their home reflects their love for aesthetics, balancing the old with the new, and serves as a personal gallery."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2025/04/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/unveiling-secrets-of-home-renovation-insights-from-a-couples-journey-through-11-makeovers/
+  og_title: >-
+    Unveiling Secrets of Home Renovation: Insights from a Couple's Journey
+    Through 11 Makeovers - Decorating Tricks
+  og_description: >-
+    Chris Mitchell and Pilar Guzman, veterans in the realm of print media, have
+    transformed their 19th-century Brooklyn brownstone into a stylish,
+    sophisticated, and warm oasis. Their home reflects their love for
+    aesthetics, balancing the old with the new, and serves as a personal
+    gallery.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2025/04/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 25
@@ -28,7 +45,14 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 60
-quality_note: "While the tone is engaging and appropriate for the audience, the article falls short on SEO optimization, length requirements, and fails to provide actionable home improvement insights that readers expect from decoratingtricks content."
+quality_note: >-
+  While the tone is engaging and appropriate for the audience, the article falls
+  short on SEO optimization, length requirements, and fails to provide
+  actionable home improvement insights that readers expect from decoratingtricks
+  content.
+image_alt: >-
+  Elegant renovated brownstone parlor blending historic details with modern art
+  and warm afternoon light
 ---
 
 Step into the world of Chris Mitchell and Pilar Guzman, a couple who've made their mark in the universe of design. Their passion for aesthetics has led them to transform their Brooklyn brownstone into an oasis of style, sophistication, and warmth.
