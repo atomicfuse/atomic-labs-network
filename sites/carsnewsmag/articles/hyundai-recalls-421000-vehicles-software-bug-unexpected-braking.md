@@ -20,7 +20,8 @@ source_url: >-
   https://www.foxbusiness.com/lifestyle/hyundai-recalls-over-421000-vehicles-fix-software-bug-causing-unexpected-braking
 source_item_id: 6a14fea216f23264031d803d
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/hyundai-recalls-421000-vehicles-software-bug-unexpected-braking.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 85
@@ -32,6 +33,9 @@ quality_note: >-
   Well-written article with excellent tone and factual content, but
   significantly below target word count at 544 words instead of 800-1200.
 reading_time: 3
+image_alt: >-
+  Dark blue SUV braking on a wet road with subtle sensor-like distortion near
+  the windshield
 ---
 ## Massive Recall Affects Multiple Hyundai Models
 
