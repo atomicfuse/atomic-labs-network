@@ -1,25 +1,36 @@
 ---
-title: "Mason Mount Backs Manchester United for Premier League Glory"
-description: "Mason Mount's Manchester United revival depends on fitness, clarity, and consistency as he seeks to turn early frustration into a meaningful role in a potential title challenge."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:19:00+00:00"
-author: "Taylor Winters"
+title: Mason Mount Backs Manchester United for Premier League Glory
+description: >-
+  Mason Mount's Manchester United revival depends on fitness, clarity, and
+  consistency as he seeks to turn early frustration into a meaningful role in a
+  potential title challenge.
+type: standard
+status: published
+publishDate: '2026-04-30T08:19:00+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Aaron Wan-Bissaka"
-slug: "mason-mount-backs-manchester-united-for-premier-league-glory"
+  - Latest News
+  - Aaron Wan-Bissaka
+slug: mason-mount-backs-manchester-united-for-premier-league-glory
 reading_time: 7
-source_url: "https://soccernewsreports.com/mason-mount-backs-manchester-united-for-premier-league-glory/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/mason-mount-backs-manchester-united-for-premier-league-glory/
+imported_from: wordpress
 wp_original_id: 38003
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/mason-mount-backs-manchester-united-for-premier-league-glory.webp
 seo:
-  canonical: "https://soccernewsreports.com/mason-mount-backs-manchester-united-for-premier-league-glory/"
-  og_title: "Mason Mount Backs Manchester United for Premier League Glory - Soccer News Reports"
-  og_description: "Mason Mount’s Manchester United revival depends on fitness, clarity, and consistency as he seeks to turn early frustration into a meaningful role in a potential title challenge."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/04/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/mason-mount-backs-manchester-united-for-premier-league-glory/
+  og_title: >-
+    Mason Mount Backs Manchester United for Premier League Glory - Soccer News
+    Reports
+  og_description: >-
+    Mason Mount’s Manchester United revival depends on fitness, clarity, and
+    consistency as he seeks to turn early frustration into a meaningful role in
+    a potential title challenge.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/04/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written analysis piece with excellent tone and length, but the title doesn't clearly indicate Mount 'backing United for glory' as claimed, and tags don't fully align with article content."
+quality_note: >-
+  Well-written analysis piece with excellent tone and length, but the title
+  doesn't clearly indicate Mount 'backing United for glory' as claimed, and tags
+  don't fully align with article content.
+image_alt: >-
+  Determined footballer in red prepares under stadium lights with a distant glow
+  suggesting a title pursuit.
 ---
 
 Manchester United's pursuit of major honours depends on more than star power. It also needs rhythm, balance, resilience, and players who can turn pressure into momentum. Mason Mount sits firmly inside that story, because his Old Trafford career still feels like a question waiting for a convincing answer.
