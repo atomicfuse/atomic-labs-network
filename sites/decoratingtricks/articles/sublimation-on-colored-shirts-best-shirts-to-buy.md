@@ -1,28 +1,37 @@
 ---
-title: "Sublimation on Colored Shirts: Best Shirts to Buy"
-description: "A practical guide to sublimation printing on colored shirts, covering which fabric colors and polyester counts work best, with comparisons of popular shirt blanks and tips for achieving vibrant results."
-type: "standard"
-status: "published"
-publishDate: "2025-01-14T09:28:04+00:00"
-author: "admin"
+title: 'Sublimation on Colored Shirts: Best Shirts to Buy'
+description: >-
+  A practical guide to sublimation printing on colored shirts, covering which
+  fabric colors and polyester counts work best, with comparisons of popular
+  shirt blanks and tips for achieving vibrant results.
+type: standard
+status: published
+publishDate: '2025-01-14T09:28:04+00:00'
+author: admin
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "sublimation-on-colored-shirts-best-shirts-to-buy"
+  - Decor Ideas
+  - Design
+slug: sublimation-on-colored-shirts-best-shirts-to-buy
 reading_time: 5
-source_url: "https://decoratingtricks.com/sublimation-on-colored-shirts-best-shirts-to-buy/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/sublimation-on-colored-shirts-best-shirts-to-buy/'
+imported_from: wordpress
 wp_original_id: 21186
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/sublimation-on-colored-shirts-best-shirts-to-buy.webp
 seo:
-  canonical: "https://decoratingtricks.com/sublimation-on-colored-shirts-best-shirts-to-buy/"
-  og_title: "Sublimation on Colored Shirts: Best Shirts to Buy - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. Let&#x2019;s chat about how to do [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/sublimation-on-colored-shirts-best-shirts-to-buy/
+  og_title: 'Sublimation on Colored Shirts: Best Shirts to Buy - Decorating Tricks'
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. Let&#x2019;s chat about how
+    to do [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "16491386"
-    url: "https://www.youtube.com/watch?v=Q5ytptsPRK4"
-    position: "after-paragraph-6"
+  - id: '16491386'
+    url: 'https://www.youtube.com/watch?v=Q5ytptsPRK4'
+    position: after-paragraph-6
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -30,7 +39,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 40
-quality_note: "Well-written technical guide with appropriate tone and length, but completely off-topic for a home decor site - this is about t-shirt printing, not home improvement or decorating."
+quality_note: >-
+  Well-written technical guide with appropriate tone and length, but completely
+  off-topic for a home decor site - this is about t-shirt printing, not home
+  improvement or decorating.
+image_alt: >-
+  Sunlit craft table with colored shirts, fabric swatches, heat press, and
+  vibrant sublimation samples.
 ---
 
 Let's chat about how to do sublimation on colored shirts. With sublimation, you need to make sure you're choosing the right colors and the right fabric and I'll show you which ones work well and which ones don't.
