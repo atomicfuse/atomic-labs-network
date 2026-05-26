@@ -1,29 +1,41 @@
 ---
-title: "Experience a Week in NYC: Holiday Coffee, Healthy Recipes, and Energizing Workouts"
-description: "Discover a vibrant week in NYC with holiday coffee indulgences, delicious home-cooked meals, and invigorating workouts."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T10:16:34+00:00"
-author: "Taylor Winters"
+title: >-
+  Experience a Week in NYC: Holiday Coffee, Healthy Recipes, and Energizing
+  Workouts
+description: >-
+  Discover a vibrant week in NYC with holiday coffee indulgences, delicious
+  home-cooked meals, and invigorating workouts.
+type: standard
+status: review
+publishDate: '2025-11-17T10:16:34+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "experience-a-week-in-nyc-holiday-coffee-healthy-recipes-and-energizing-workouts"
+  - Healthy Recipes
+  - Special Diets
+  - Weight &amp; Wellness
+slug: >-
+  experience-a-week-in-nyc-holiday-coffee-healthy-recipes-and-energizing-workouts
 reading_time: 2
-source_url: "https://eznutritiontips.com/experience-a-week-in-nyc-holiday-coffee-healthy-recipes-and-energizing-workouts/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/experience-a-week-in-nyc-holiday-coffee-healthy-recipes-and-energizing-workouts/
+imported_from: wordpress
 wp_original_id: 18949
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/experience-a-week-in-nyc-holiday-coffee-healthy-recipes-and-energizing-workouts.webp
 seo:
-  canonical: "https://eznutritiontips.com/experience-a-week-in-nyc-holiday-coffee-healthy-recipes-and-energizing-workouts/"
-  og_title: "Experience a Week in NYC: Holiday Coffee, Healthy Recipes, and Energizing Workouts - Easy Nutrition Tips"
-  og_description: "Discover a vibrant week in NYC with holiday coffee indulgences, delicious home-cooked meals, and invigorating workouts."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/experience-a-week-in-nyc-holiday-coffee-healthy-recipes-and-energizing-workouts/
+  og_title: >-
+    Experience a Week in NYC: Holiday Coffee, Healthy Recipes, and Energizing
+    Workouts - Easy Nutrition Tips
+  og_description: >-
+    Discover a vibrant week in NYC with holiday coffee indulgences, delicious
+    home-cooked meals, and invigorating workouts.
+  twitter_card: summary_large_image
 videos:
-  - id: "574cf79e"
-    url: "https://www.youtube.com/watch?v=T2xrg0qgsp0"
-    position: "after-paragraph-2"
+  - id: 574cf79e
+    url: 'https://www.youtube.com/watch?v=T2xrg0qgsp0'
+    position: after-paragraph-2
 quality_score: 57
 score_breakdown:
   seo_quality: 45
@@ -31,7 +43,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has good tone and relevant tags but falls significantly short on content length (289 words vs 800-1200 target) and lacks specific nutrition tips or healthy recipes as promised in the title."
+quality_note: >-
+  The article has good tone and relevant tags but falls significantly short on
+  content length (289 words vs 800-1200 target) and lacks specific nutrition
+  tips or healthy recipes as promised in the title.
+image_alt: >-
+  Cozy NYC apartment scene with holiday coffee, fresh food, workout gear, and a
+  winter city skyline.
 ---
 
 Join us as we dive into a bustling week in New York City, exploring holiday coffee delights at Ralph's, trying our hand at healthy recipes at home, and maintaining an active lifestyle through various workouts. This journey offers a glimpse into the vibrant life of NYC, filled with culinary adventures and fitness routines.
