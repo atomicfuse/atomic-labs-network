@@ -2,7 +2,8 @@ domain: medicalnewscorner
 site_name: medicalnewscorner
 site_tagline: null
 author: Lucas Ward
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d70716f23264031d7a47
 brief:
