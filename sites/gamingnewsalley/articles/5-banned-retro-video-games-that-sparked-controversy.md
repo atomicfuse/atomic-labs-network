@@ -1,25 +1,35 @@
 ---
-title: "5 Banned Retro Video Games That Sparked Controversy"
-description: "This article examines the removal of controversial retro video games from stores, exploring the role of cultural sensitivity, community feedback, and the lessons learned that have shaped the gaming industry's approach to inclusivity and diversity."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T09:35:38+00:00"
-author: "Taylor Winters"
+title: 5 Banned Retro Video Games That Sparked Controversy
+description: >-
+  This article examines the removal of controversial retro video games from
+  stores, exploring the role of cultural sensitivity, community feedback, and
+  the lessons learned that have shaped the gaming industry's approach to
+  inclusivity and diversity.
+type: standard
+status: review
+publishDate: '2026-01-26T09:35:38+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "5-banned-retro-video-games-that-sparked-controversy"
+  - Gaming News
+  - Community
+slug: 5-banned-retro-video-games-that-sparked-controversy
 reading_time: 3
-source_url: "https://gamingnewsalley.com/5-banned-retro-video-games-that-sparked-controversy/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/5-banned-retro-video-games-that-sparked-controversy/
+imported_from: wordpress
 wp_original_id: 42596
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/5-banned-retro-video-games-that-sparked-controversy.webp
 seo:
-  canonical: "https://gamingnewsalley.com/5-banned-retro-video-games-that-sparked-controversy/"
-  og_title: "5 Banned Retro Video Games That Sparked Controversy - Gaming News Alley"
-  og_description: "This article examines the removal of controversial video games from stores, highlighting cultural sensitivity, community feedback, and the evolving gaming industry. It discusses notable cases, the impact on game development, and lessons learned for future inclusivity and diversity."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/01/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/5-banned-retro-video-games-that-sparked-controversy/
+  og_title: 5 Banned Retro Video Games That Sparked Controversy - Gaming News Alley
+  og_description: >-
+    This article examines the removal of controversial video games from stores,
+    highlighting cultural sensitivity, community feedback, and the evolving
+    gaming industry. It discusses notable cases, the impact on game development,
+    and lessons learned for future inclusivity and diversity.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/01/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 59
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "While the article maintains good tone and covers gaming topics, it severely lacks specificity with no actual game names mentioned, making it appear fabricated, and falls well short of target word count."
+quality_note: >-
+  While the article maintains good tone and covers gaming topics, it severely
+  lacks specificity with no actual game names mentioned, making it appear
+  fabricated, and falls well short of target word count.
+image_alt: >-
+  Unlabeled retro game cartridges behind red-tinted glass in a moody vintage
+  game shop
 ---
 
 Throughout the history of video gaming, certain titles have sparked controversy, leading to their removal from store shelves. These games, often retro classics, have faced backlash due to their content, themes, or cultural impact. This article explores some of the most notable cases where video games were pulled from stores, shedding light on the reasons behind these decisions and their lasting effects on the gaming industry.
