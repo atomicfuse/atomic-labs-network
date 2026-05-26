@@ -1,21 +1,28 @@
 ---
-title: "Current Space Mission Crisis: Latest Updates on Stranded Astronauts"
-description: "Astronauts aboard the ISS face an extended stay due to a malfunction in their return spacecraft's cooling system, highlighting the challenges and resilience of space exploration and the importance of international cooperation in overcoming such issues."
-type: "standard"
-status: "published"
-publishDate: "2025-11-20T13:07:29"
-author: "Taylor Winters"
+title: 'Current Space Mission Crisis: Latest Updates on Stranded Astronauts'
+description: >-
+  Astronauts aboard the ISS face an extended stay due to a malfunction in their
+  return spacecraft's cooling system, highlighting the challenges and resilience
+  of space exploration and the importance of international cooperation in
+  overcoming such issues.
+type: standard
+status: published
+publishDate: '2025-11-20T13:07:29'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "current-space-mission-crisis-latest-updates-on-stranded-astronauts"
+  - Space
+slug: current-space-mission-crisis-latest-updates-on-stranded-astronauts
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/current-space-mission-crisis-latest-updates-on-stranded-astronauts/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/current-space-mission-crisis-latest-updates-on-stranded-astronauts/
+imported_from: wordpress
 wp_original_id: 15028
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/current-space-mission-crisis-latest-updates-on-stranded-astronauts.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/current-space-mission-crisis-latest-updates-on-stranded-astronauts/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/current-space-mission-crisis-latest-updates-on-stranded-astronauts/
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -23,7 +30,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written space content with good tone and keyword relevance, but falls short on length and lacks specific details that would enhance factual credibility."
+quality_note: >-
+  Well-written space content with good tone and keyword relevance, but falls
+  short on length and lacks specific details that would enhance factual
+  credibility.
+image_alt: >-
+  Astronauts float inside an orbital station as Earth glows beyond the window
+  and a capsule waits outside.
 ---
 
 In an unexpected turn of events, a group of astronauts finds themselves in an extended stay aboard the International Space Station (ISS) due to a technical malfunction in their return spacecraft. This situation has highlighted both the challenges and the resilience of space exploration, reminding us of the complexities involved in missions beyond our planet.
