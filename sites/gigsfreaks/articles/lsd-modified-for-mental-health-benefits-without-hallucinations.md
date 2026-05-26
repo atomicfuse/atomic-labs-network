@@ -1,24 +1,36 @@
 ---
-title: "LSD Modified for Mental Health Benefits Without Hallucinations"
-description: "LSD's therapeutic potential is being explored by scientists aiming to retain its mental health benefits while eliminating hallucinogenic effects. By modifying its structure, researchers hope to create a version that alleviates symptoms of depression, anxiety, and PTSD without inducing hallucinations."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:10:49+00:00"
-author: "Nico Harper"
+title: LSD Modified for Mental Health Benefits Without Hallucinations
+description: >-
+  LSD's therapeutic potential is being explored by scientists aiming to retain
+  its mental health benefits while eliminating hallucinogenic effects. By
+  modifying its structure, researchers hope to create a version that alleviates
+  symptoms of depression, anxiety, and PTSD without inducing hallucinations.
+type: standard
+status: review
+publishDate: '2025-05-05T16:10:49+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "lsd-modified-for-mental-health-benefits-without-hallucinations"
+  - Hot Trends
+slug: lsd-modified-for-mental-health-benefits-without-hallucinations
 reading_time: 3
-source_url: "https://gigsfreaks.com/lsd-modified-for-mental-health-benefits-without-hallucinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/lsd-modified-for-mental-health-benefits-without-hallucinations/
+imported_from: wordpress
 wp_original_id: 863
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/lsd-modified-for-mental-health-benefits-without-hallucinations.webp
 seo:
-  canonical: "https://gigsfreaks.com/lsd-modified-for-mental-health-benefits-without-hallucinations/"
-  og_title: "LSD Modified for Mental Health Benefits Without Hallucinations - GigsFreaks"
-  og_description: "LSD's therapeutic potential is being explored by scientists aiming to retain its mental health benefits while eliminating hallucinogenic effects. By modifying its structure, researchers hope to create a version that alleviates symptoms of depression, anxiety, and PTSD without inducing hallucinations."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-88.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/lsd-modified-for-mental-health-benefits-without-hallucinations/
+  og_title: LSD Modified for Mental Health Benefits Without Hallucinations - GigsFreaks
+  og_description: >-
+    LSD's therapeutic potential is being explored by scientists aiming to retain
+    its mental health benefits while eliminating hallucinogenic effects. By
+    modifying its structure, researchers hope to create a version that
+    alleviates symptoms of depression, anxiety, and PTSD without inducing
+    hallucinations.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-88.jpeg'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 45
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: "The article reads like a scientific research paper rather than entertainment content for gigsfreaks, with poor keyword alignment and overly formal tone for the target audience."
+quality_note: >-
+  The article reads like a scientific research paper rather than entertainment
+  content for gigsfreaks, with poor keyword alignment and overly formal tone for
+  the target audience.
+image_alt: >-
+  Molecular model in a softly lit lab suggesting psychedelic therapy research
+  without hallucinations
 ---
 
 LSD, a substance historically associated with psychedelic experiences, is being revisited by scientists seeking to unlock its therapeutic potential for mental health without the accompanying hallucinogenic effects. Researchers are making strides in modifying the chemical structure of LSD to retain its beneficial properties while eliminating the mind-altering experience. This innovative approach could pave the way for new treatments for various mental health disorders.
