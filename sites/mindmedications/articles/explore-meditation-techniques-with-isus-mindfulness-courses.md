@@ -1,26 +1,39 @@
 ---
-title: "Explore Meditation Techniques with ISU’s Mindfulness Courses"
-description: "The Illinois State University community is embracing mindfulness and meditation through courses designed to enhance mental well-being, offering students, faculty, and staff new ways to engage in practices that promote peace and clarity in their daily lives."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T10:21:22+00:00"
-author: "Lena Ashwood"
+title: Explore Meditation Techniques with ISU’s Mindfulness Courses
+description: >-
+  The Illinois State University community is embracing mindfulness and
+  meditation through courses designed to enhance mental well-being, offering
+  students, faculty, and staff new ways to engage in practices that promote
+  peace and clarity in their daily lives.
+type: standard
+status: published
+publishDate: '2026-02-16T10:21:22+00:00'
+author: Lena Ashwood
 tags:
-  - "Mindfulness"
-  - "Personal Growth"
-  - "Wellness"
-slug: "explore-meditation-techniques-with-isus-mindfulness-courses"
+  - Mindfulness
+  - Personal Growth
+  - Wellness
+slug: explore-meditation-techniques-with-isus-mindfulness-courses
 reading_time: 3
-source_url: "https://mindmedications.com/explore-meditation-techniques-with-isus-mindfulness-courses/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/explore-meditation-techniques-with-isus-mindfulness-courses/
+imported_from: wordpress
 wp_original_id: 625
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: >-
+  /assets/images/explore-meditation-techniques-with-isus-mindfulness-courses.webp
 seo:
-  canonical: "https://mindmedications.com/explore-meditation-techniques-with-isus-mindfulness-courses/"
-  og_title: "Explore Meditation Techniques with ISU's Mindfulness Courses - Mind Medications"
-  og_description: "The Illinois State University community is embracing mindfulness and meditation through courses designed to enhance mental well-being, offering students, faculty, and staff new ways to engage in practices that promote peace and clarity in their daily lives."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/02/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/explore-meditation-techniques-with-isus-mindfulness-courses/
+  og_title: >-
+    Explore Meditation Techniques with ISU's Mindfulness Courses - Mind
+    Medications
+  og_description: >-
+    The Illinois State University community is embracing mindfulness and
+    meditation through courses designed to enhance mental well-being, offering
+    students, faculty, and staff new ways to engage in practices that promote
+    peace and clarity in their daily lives.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/02/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,10 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Strong topic alignment and tone but significantly too short at 412 words when target is 800-1200 words, limiting overall effectiveness."
+quality_note: >-
+  Strong topic alignment and tone but significantly too short at 412 words when
+  target is 800-1200 words, limiting overall effectiveness.
+image_alt: Diverse university community meditating together in a sunlit wellness room
 ---
 
 The Illinois State University (ISU) community is embracing the transformative power of mindfulness and meditation through innovative courses designed to enhance mental well-being. This initiative is opening new avenues for students, faculty, and staff to engage in practices that promote peace and clarity in their daily lives.
