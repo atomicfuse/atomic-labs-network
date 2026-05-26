@@ -1,26 +1,34 @@
 ---
-title: "Why Kansas City Is 2026’s Hottest US Travel Destination"
-description: "Kansas City is emerging as a top 2026 travel destination, driven by World Cup excitement, standout barbecue, sports culture, jazz history, major museums, and vibrant neighborhoods."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T09:40:53+00:00"
-author: "Malcolm Anderson"
+title: Why Kansas City Is 2026’s Hottest US Travel Destination
+description: >-
+  Kansas City is emerging as a top 2026 travel destination, driven by World Cup
+  excitement, standout barbecue, sports culture, jazz history, major museums,
+  and vibrant neighborhoods.
+type: standard
+status: published
+publishDate: '2026-05-11T09:40:53+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "why-kansas-city-is-2026s-hottest-us-travel-destination"
+  - Culture
+  - Destinations
+  - Guides &amp; Tips
+slug: why-kansas-city-is-2026s-hottest-us-travel-destination
 reading_time: 7
-source_url: "https://travelnights.com/why-kansas-city-is-2026s-hottest-us-travel-destination/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/why-kansas-city-is-2026s-hottest-us-travel-destination/
+imported_from: wordpress
 wp_original_id: 36731
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/why-kansas-city-is-2026s-hottest-us-travel-destination.webp
 seo:
-  canonical: "https://travelnights.com/why-kansas-city-is-2026s-hottest-us-travel-destination/"
-  og_title: "Why Kansas City Is 2026’s Hottest US Travel Destination - Travel Nights"
-  og_description: "Kansas City is emerging as a top 2026 travel destination, driven by World Cup excitement, standout barbecue, sports culture, jazz history, major museums, and vibrant neighborhoods."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/why-kansas-city-is-2026s-hottest-us-travel-destination/
+  og_title: Why Kansas City Is 2026’s Hottest US Travel Destination - Travel Nights
+  og_description: >-
+    Kansas City is emerging as a top 2026 travel destination, driven by World
+    Cup excitement, standout barbecue, sports culture, jazz history, major
+    museums, and vibrant neighborhoods.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -28,7 +36,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Well-structured travel article with excellent tone and comprehensive coverage, though the title could be more compelling for SEO optimization."
+quality_note: >-
+  Well-structured travel article with excellent tone and comprehensive coverage,
+  though the title could be more compelling for SEO optimization.
+image_alt: >-
+  Golden-hour Kansas City street scene with skyline, travelers, barbecue smoke,
+  jazz, and sports energy.
 ---
 
 Kansas City is stepping into the national spotlight as one of America's most talked-about places to visit in 2026. Fresh travel interest, major sporting events, a celebrated food scene, and a growing arts culture have helped the metro earn recognition as a top trending U.S. travel destination. For visitors planning a city break, a sports trip, or a Midwest weekend getaway, Kansas City now offers far more than a stopover.
