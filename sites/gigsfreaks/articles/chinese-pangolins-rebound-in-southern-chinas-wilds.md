@@ -1,24 +1,31 @@
 ---
-title: "Chinese Pangolins Rebound in Southern China’s Wilds"
-description: "Chinese pangolins are showing signs of recovery in southern China as stronger protections, better monitoring, habitat conservation, and public awareness help one of the world's most trafficked mammals rebuild wild populations."
-type: "standard"
-status: "review"
-publishDate: "2026-04-30T10:06:51+00:00"
-author: "Nico Harper"
+title: Chinese Pangolins Rebound in Southern China’s Wilds
+description: >-
+  Chinese pangolins are showing signs of recovery in southern China as stronger
+  protections, better monitoring, habitat conservation, and public awareness
+  help one of the world's most trafficked mammals rebuild wild populations.
+type: standard
+status: review
+publishDate: '2026-04-30T10:06:51+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "chinese-pangolins-rebound-in-southern-chinas-wilds"
+  - Good Vibes
+slug: chinese-pangolins-rebound-in-southern-chinas-wilds
 reading_time: 7
-source_url: "https://gigsfreaks.com/chinese-pangolins-rebound-in-southern-chinas-wilds/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/chinese-pangolins-rebound-in-southern-chinas-wilds/'
+imported_from: wordpress
 wp_original_id: 1045
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/chinese-pangolins-rebound-in-southern-chinas-wilds.webp
 seo:
-  canonical: "https://gigsfreaks.com/chinese-pangolins-rebound-in-southern-chinas-wilds/"
-  og_title: "Chinese Pangolins Rebound in Southern China’s Wilds - GigsFreaks"
-  og_description: "Chinese pangolins are showing signs of recovery in southern China as stronger protections, better monitoring, habitat conservation, and public awareness help one of the world’s most trafficked mammals rebuild wild populations."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/chinese-pangolins-rebound-in-southern-chinas-wilds/'
+  og_title: Chinese Pangolins Rebound in Southern China’s Wilds - GigsFreaks
+  og_description: >-
+    Chinese pangolins are showing signs of recovery in southern China as
+    stronger protections, better monitoring, habitat conservation, and public
+    awareness help one of the world’s most trafficked mammals rebuild wild
+    populations.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 30
-quality_note: "Well-written conservation article with good length and accuracy, but lacks entertainment focus and keyword relevance for gigsfreaks' audience targeting Hot Trends, LOL, Funny Animals, Internet Mysteries, and Good Vibes."
+quality_note: >-
+  Well-written conservation article with good length and accuracy, but lacks
+  entertainment focus and keyword relevance for gigsfreaks' audience targeting
+  Hot Trends, LOL, Funny Animals, Internet Mysteries, and Good Vibes.
+image_alt: >-
+  Chinese pangolin emerging through misty forest under soft dawn light in
+  southern China.
 ---
 
 Chinese pangolins are showing encouraging signs of recovery in southern China, offering rare optimism for one of the world's most trafficked mammals. New field evidence suggests wild populations are increasing in key habitats for the first time this century, supported by stronger protection, improved monitoring, and growing public awareness.
