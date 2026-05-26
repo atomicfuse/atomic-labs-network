@@ -1,25 +1,36 @@
 ---
-title: "Eva Longoria’s Beauty Secrets and Insights on Turning 50"
-description: "Eva Longoria is a versatile Hollywood figure known for her roles in acting, directing, and producing, who actively participates in philanthropy, empowering Latinas and advocating for social justice."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T05:22:02+00:00"
-author: "Taylor Winters"
+title: Eva Longoria’s Beauty Secrets and Insights on Turning 50
+description: >-
+  Eva Longoria is a versatile Hollywood figure known for her roles in acting,
+  directing, and producing, who actively participates in philanthropy,
+  empowering Latinas and advocating for social justice.
+type: standard
+status: review
+publishDate: '2025-05-15T05:22:02+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "eva-longorias-beauty-secrets-and-insights-on-turning-50"
+  - Travel Tips
+  - Beauty
+slug: eva-longorias-beauty-secrets-and-insights-on-turning-50
 reading_time: 3
-source_url: "https://travelbeautytips.com/eva-longorias-beauty-secrets-and-insights-on-turning-50/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/eva-longorias-beauty-secrets-and-insights-on-turning-50/
+imported_from: wordpress
 wp_original_id: 35897
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/eva-longorias-beauty-secrets-and-insights-on-turning-50.webp
 seo:
-  canonical: "https://travelbeautytips.com/eva-longorias-beauty-secrets-and-insights-on-turning-50/"
-  og_title: "Eva Longoria's Beauty Secrets and Insights on Turning 50 - Travel Beauty Tips"
-  og_description: "Eva Longoria is a versatile Hollywood figure known for her roles in acting, directing, and producing. She actively participates in philanthropy, empowering Latinas and advocating for social justice. Her career and personal life exemplify dedication to positive societal impact."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/05/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/eva-longorias-beauty-secrets-and-insights-on-turning-50/
+  og_title: >-
+    Eva Longoria's Beauty Secrets and Insights on Turning 50 - Travel Beauty
+    Tips
+  og_description: >-
+    Eva Longoria is a versatile Hollywood figure known for her roles in acting,
+    directing, and producing. She actively participates in philanthropy,
+    empowering Latinas and advocating for social justice. Her career and
+    personal life exemplify dedication to positive societal impact.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/05/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article completely misses its promised topic of beauty secrets and turning 50, instead providing a generic career overview that doesn't match the site's beauty and travel focus."
+quality_note: >-
+  The article completely misses its promised topic of beauty secrets and turning
+  50, instead providing a generic career overview that doesn't match the site's
+  beauty and travel focus.
+image_alt: >-
+  Elegant Latina woman in a warm studio setting with subtle beauty and
+  filmmaking details
 ---
 
 Eva Longoria, a prominent figure in Hollywood, is widely known for her significant contributions to both entertainment and philanthropy. With a career spanning decades, she has consistently demonstrated her versatility as an actress, director, and producer. Beyond her professional achievements, Longoria actively engages in various charitable endeavors, illustrating her dedication to making a positive impact on society.
