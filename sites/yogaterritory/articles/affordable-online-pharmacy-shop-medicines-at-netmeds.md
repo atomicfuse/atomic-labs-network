@@ -1,25 +1,35 @@
 ---
-title: "Affordable Online Pharmacy: Shop Medicines at Netmeds"
-description: "Incorporating yoga into your daily winter routine can enhance vitality and flexibility, combating lethargy and improving circulation. Practice poses like Sun Salutation and Warrior II to maintain warmth and energy, promoting overall well-being during the colder months."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T09:41:24+00:00"
-author: "Taylor Winters"
+title: 'Affordable Online Pharmacy: Shop Medicines at Netmeds'
+description: >-
+  Incorporating yoga into your daily winter routine can enhance vitality and
+  flexibility, combating lethargy and improving circulation. Practice poses like
+  Sun Salutation and Warrior II to maintain warmth and energy, promoting overall
+  well-being during the colder months.
+type: standard
+status: review
+publishDate: '2025-12-29T09:41:24+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga Postures"
-slug: "affordable-online-pharmacy-shop-medicines-at-netmeds"
+  - Yoga Poses
+  - Yoga Postures
+slug: affordable-online-pharmacy-shop-medicines-at-netmeds
 reading_time: 3
-source_url: "https://yogaterritory.com/affordable-online-pharmacy-shop-medicines-at-netmeds/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/affordable-online-pharmacy-shop-medicines-at-netmeds/
+imported_from: wordpress
 wp_original_id: 20703
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/affordable-online-pharmacy-shop-medicines-at-netmeds.webp
 seo:
-  canonical: "https://yogaterritory.com/affordable-online-pharmacy-shop-medicines-at-netmeds/"
-  og_title: "Affordable Online Pharmacy: Shop Medicines at Netmeds - Yoga Territory"
-  og_description: "Incorporating yoga into your daily winter routine can enhance vitality and flexibility, combating lethargy and improving circulation. Practice poses like Sun Salutation and Warrior II to maintain warmth and energy, promoting overall well-being during the colder months."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/12/make_file-3.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/affordable-online-pharmacy-shop-medicines-at-netmeds/
+  og_title: 'Affordable Online Pharmacy: Shop Medicines at Netmeds - Yoga Territory'
+  og_description: >-
+    Incorporating yoga into your daily winter routine can enhance vitality and
+    flexibility, combating lethargy and improving circulation. Practice poses
+    like Sun Salutation and Warrior II to maintain warmth and energy, promoting
+    overall well-being during the colder months.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/12/make_file-3.png'
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 15
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Major SEO issues with title completely mismatched to content about online pharmacy instead of yoga, though the body content is well-written and relevant to yoga topics."
+quality_note: >-
+  Major SEO issues with title completely mismatched to content about online
+  pharmacy instead of yoga, though the body content is well-written and relevant
+  to yoga topics.
+image_alt: Person practicing yoga in a warm room on a snowy winter morning
 ---
 
 As the winter season envelops us with its chilly embrace, many people find their energy levels dwindling. The cold weather often brings a sense of lethargy, making it difficult to stay active. However, incorporating yoga into your daily routine can dramatically enhance your vitality and flexibility during these colder months. Here are five invigorating yoga poses that can help you maintain warmth and energy throughout winter.
