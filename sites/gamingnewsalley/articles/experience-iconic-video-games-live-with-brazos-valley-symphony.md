@@ -1,24 +1,37 @@
 ---
-title: "Experience Iconic Video Games Live with Brazos Valley Symphony"
-description: "Experience the thrill of gaming with the Brazos Valley Symphony Orchestra's event, merging symphonic music and video games. Attendees will enjoy iconic video game scores reimagined by a full orchestra, creating a memorable evening for gamers and music enthusiasts alike."
-type: "standard"
-status: "review"
-publishDate: "2026-01-15T09:35:26+00:00"
-author: "Taylor Winters"
+title: Experience Iconic Video Games Live with Brazos Valley Symphony
+description: >-
+  Experience the thrill of gaming with the Brazos Valley Symphony Orchestra's
+  event, merging symphonic music and video games. Attendees will enjoy iconic
+  video game scores reimagined by a full orchestra, creating a memorable evening
+  for gamers and music enthusiasts alike.
+type: standard
+status: review
+publishDate: '2026-01-15T09:35:26+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "experience-iconic-video-games-live-with-brazos-valley-symphony"
+  - Gaming News
+  - Community
+slug: experience-iconic-video-games-live-with-brazos-valley-symphony
 reading_time: 3
-source_url: "https://gamingnewsalley.com/experience-iconic-video-games-live-with-brazos-valley-symphony/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/experience-iconic-video-games-live-with-brazos-valley-symphony/
+imported_from: wordpress
 wp_original_id: 42589
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/experience-iconic-video-games-live-with-brazos-valley-symphony.webp
 seo:
-  canonical: "https://gamingnewsalley.com/experience-iconic-video-games-live-with-brazos-valley-symphony/"
-  og_title: "Experience Iconic Video Games Live with Brazos Valley Symphony - Gaming News Alley"
-  og_description: "Experience the thrill of gaming with the Brazos Valley Symphony Orchestra's event, merging symphonic music and video games. Attendees will enjoy iconic video game scores reimagined by a full orchestra, creating a memorable evening for gamers and music enthusiasts alike."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/experience-iconic-video-games-live-with-brazos-valley-symphony/
+  og_title: >-
+    Experience Iconic Video Games Live with Brazos Valley Symphony - Gaming News
+    Alley
+  og_description: >-
+    Experience the thrill of gaming with the Brazos Valley Symphony Orchestra's
+    event, merging symphonic music and video games. Attendees will enjoy iconic
+    video game scores reimagined by a full orchestra, creating a memorable
+    evening for gamers and music enthusiasts alike.
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 45
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article maintains an engaging tone but falls short on content length, lacks specific gaming details, and has weak SEO optimization with a vague title and missing meta description."
+quality_note: >-
+  The article maintains an engaging tone but falls short on content length,
+  lacks specific gaming details, and has weak SEO optimization with a vague
+  title and missing meta description.
+image_alt: >-
+  Orchestra on a glowing stage with abstract pixel lights suggesting video game
+  music performed live
 ---
 
 Experience the thrill of gaming like never before with the Brazos Valley Symphony Orchestra's unique event. This spectacular production merges the world of symphonic music with the exhilarating universe of video games, offering a live concert that will captivate audiences of all ages. With the sounds of legendary video games brought to life by a full orchestra, attendees can expect an unforgettable evening filled with nostalgia and excitement.
