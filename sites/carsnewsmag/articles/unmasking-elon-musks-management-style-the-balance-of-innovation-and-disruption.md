@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-unmasking-elon-musks-management-style-the-balance-of-innovation-and-disruption
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/unmasking-elon-musks-management-style-the-balance-of-innovation-and-disruption.webp
 reading_time: 2
 quality_score: 67
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   The article covers relevant automotive industry content with appropriate tone,
   but falls significantly short of the target word count at only 385 words,
   which severely impacts its overall quality score.
+image_alt: >-
+  Executive silhouette overlooks a high-tech electric vehicle factory floor with
+  robotic assembly lines.
 ---
 ## The Dual Nature of Musk's Leadership
 
