@@ -1,29 +1,34 @@
 ---
-title: "The Mystery of Samantha Sayers’ Disappearance"
-description: "Explore the enigmatic disappearance of Samantha Sayers, an experienced hiker who vanished during a solo trek in the Northern Cascades, and the details surrounding her unsolved case."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T11:36:48+00:00"
-author: "Blake Anderson"
+title: The Mystery of Samantha Sayers’ Disappearance
+description: >-
+  Explore the enigmatic disappearance of Samantha Sayers, an experienced hiker
+  who vanished during a solo trek in the Northern Cascades, and the details
+  surrounding her unsolved case.
+type: standard
+status: published
+publishDate: '2025-12-22T11:36:48+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "the-mystery-of-samantha-sayers-disappearance"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: the-mystery-of-samantha-sayers-disappearance
 reading_time: 2
-source_url: "https://stroylab.com/the-mystery-of-samantha-sayers-disappearance/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/the-mystery-of-samantha-sayers-disappearance/'
+imported_from: wordpress
 wp_original_id: 722
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/the-mystery-of-samantha-sayers-disappearance.webp
 seo:
-  canonical: "https://stroylab.com/the-mystery-of-samantha-sayers-disappearance/"
-  og_title: "The Mystery of Samantha Sayers' Disappearance - StroyLab"
-  og_description: "Explore the enigmatic disappearance of Samantha Sayers and the details surrounding her unsolved case."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/the-mystery-of-samantha-sayers-disappearance/'
+  og_title: The Mystery of Samantha Sayers' Disappearance - StroyLab
+  og_description: >-
+    Explore the enigmatic disappearance of Samantha Sayers and the details
+    surrounding her unsolved case.
+  twitter_card: summary_large_image
 videos:
-  - id: "cd380119"
-    url: "https://www.youtube.com/watch?v=t-KqOoU-NF0"
-    position: "after-paragraph-2"
+  - id: cd380119
+    url: 'https://www.youtube.com/watch?v=t-KqOoU-NF0'
+    position: after-paragraph-2
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,7 +36,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with appropriate tone and strong keyword relevance, but severely penalized for being too short at only 327 words versus the 800-1200 word target."
+quality_note: >-
+  Well-written article with appropriate tone and strong keyword relevance, but
+  severely penalized for being too short at only 327 words versus the 800-1200
+  word target.
+image_alt: >-
+  Misty mountain trail in the Northern Cascades with an abandoned backpack
+  beside the path
 ---
 
 The disappearance of Samantha Sayers has captivated the attention of many, sparking discussions and theories across various platforms. Her case remains one of the most puzzling unsolved mysteries, leaving many to wonder what happened to her.
