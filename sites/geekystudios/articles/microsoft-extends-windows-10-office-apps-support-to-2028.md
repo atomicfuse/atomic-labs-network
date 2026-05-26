@@ -1,24 +1,34 @@
 ---
-title: "Microsoft Extends Windows 10 Office Apps Support to 2028"
-description: "Microsoft extends support for its Office apps on Windows 10 until 2028, providing users with stability and time to prepare for future upgrades. This decision ensures access to regular updates and security patches, benefiting both individuals and businesses."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T10:51:56+00:00"
-author: "Arthur Daly"
+title: Microsoft Extends Windows 10 Office Apps Support to 2028
+description: >-
+  Microsoft extends support for its Office apps on Windows 10 until 2028,
+  providing users with stability and time to prepare for future upgrades. This
+  decision ensures access to regular updates and security patches, benefiting
+  both individuals and businesses.
+type: standard
+status: review
+publishDate: '2025-05-15T10:51:56+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "microsoft-extends-windows-10-office-apps-support-to-2028"
+  - Tech
+slug: microsoft-extends-windows-10-office-apps-support-to-2028
 reading_time: 3
-source_url: "https://geekystudios.com/microsoft-extends-windows-10-office-apps-support-to-2028/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/microsoft-extends-windows-10-office-apps-support-to-2028/
+imported_from: wordpress
 wp_original_id: 576
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/microsoft-extends-windows-10-office-apps-support-to-2028.webp
 seo:
-  canonical: "https://geekystudios.com/microsoft-extends-windows-10-office-apps-support-to-2028/"
-  og_title: "Microsoft Extends Windows 10 Office Apps Support to 2028 - Geeky Studios"
-  og_description: "Microsoft extends support for its Office apps on Windows 10 until 2028, providing users with stability and time to prepare for future upgrades. This decision ensures access to regular updates and security patches, benefiting both individuals and businesses."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-33.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/microsoft-extends-windows-10-office-apps-support-to-2028/
+  og_title: Microsoft Extends Windows 10 Office Apps Support to 2028 - Geeky Studios
+  og_description: >-
+    Microsoft extends support for its Office apps on Windows 10 until 2028,
+    providing users with stability and time to prepare for future upgrades. This
+    decision ensures access to regular updates and security patches, benefiting
+    both individuals and businesses.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-33.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written tech article with good tone and keyword relevance, but significantly under target word count and lacks verification of the specific 2028 support claim."
+quality_note: >-
+  Well-written tech article with good tone and keyword relevance, but
+  significantly under target word count and lacks verification of the specific
+  2028 support claim.
+image_alt: >-
+  Modern laptop with abstract update and security visuals in a clean office
+  setting
 ---
 
 Microsoft has recently announced an extension of support for its Office apps on Windows 10, providing relief to users who rely on these tools for their daily tasks. This decision ensures that individuals and businesses can continue to benefit from Microsoft's productivity suite without worrying about immediate upgrades.
