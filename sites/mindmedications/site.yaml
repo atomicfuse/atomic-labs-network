@@ -1,0 +1,111 @@
+domain: mindmedications.com
+site_name: mindmedications
+site_tagline: null
+author: Nora Sanders
+groups:
+  - atl
+active: true
+bundle_id: 6a12d77516f23264031d7a5a
+brief:
+  audiences:
+    - Healthy Living enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Lifestyle
+    - Mindfulness
+    - Nutrition
+    - Personal Growth
+    - Wellness
+  seo_keywords_focus:
+    - Lifestyle
+    - Mindfulness
+    - Nutrition
+    - Personal Growth
+    - Wellness
+  content_guidelines:
+    - Focus on Healthy Living content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Healthy Living
+  vertical_id: 6a00793d1104bbff809b7c41
+  category_ids:
+    - 6a00793d1104bbff809b7c41
+    - 6a00793e1104bbff809b7d25
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: modern
+  colors:
+    primary: "#FFFFFF"
+    accent: "#555B60"
+    background: "#FFFFFF"
+    secondary: "#A8C5A0"
+    text: "#000000"
+    muted: "#808080"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#000000"
+    link: "#2C6E6D"
+    link_hover: "#2C6E6D"
+    nav_link: "#555353"
+    nav_link_hover: "#2C6E6D"
+    footer_bg: "#555B60"
+    must_reads_bg: "#2C6E6D"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#2C6E6D"
+    article_hero_meta: "#808080"
+    feed_title: "#000000"
+    feed_desc: "#333333"
+    feed_date: "#808080"
+    prose_heading: "#000000"
+    prose_body: "#262626"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#FFFFFF"
+    footer_heading: "#ffffff"
+    footer_link: "#FFFFFF"
+    footer_link_hover: "#2C6E6D"
+  fonts:
+    heading: Roboto
+    body: Roboto
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 54
+  logo_height_footer: 82
+  footer_logo: /assets/logo-footer.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-S6RKKP7JRV
+  gtm: GT-5M3B82MR
