@@ -1,29 +1,36 @@
 ---
-title: "Navigating Founder Conflicts: Building Stronger Startup Teams"
-description: "Explore strategies for resolving co-founder conflicts, enhancing team dynamics, and scaling your startup effectively."
-type: "standard"
-status: "review"
-publishDate: "2026-03-19T11:37:24+00:00"
-author: "Lena Ashwood"
+title: 'Navigating Founder Conflicts: Building Stronger Startup Teams'
+description: >-
+  Explore strategies for resolving co-founder conflicts, enhancing team
+  dynamics, and scaling your startup effectively.
+type: standard
+status: review
+publishDate: '2026-03-19T11:37:24+00:00'
+author: Lena Ashwood
 tags:
-  - "Ideas"
-  - "Innovation"
-  - "Mind"
-slug: "navigating-founder-conflicts-building-stronger-startup-teams"
+  - Ideas
+  - Innovation
+  - Mind
+slug: navigating-founder-conflicts-building-stronger-startup-teams
 reading_time: 2
-source_url: "https://mindsbit.com/navigating-founder-conflicts-building-stronger-startup-teams/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/navigating-founder-conflicts-building-stronger-startup-teams/
+imported_from: wordpress
 wp_original_id: 482
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/navigating-founder-conflicts-building-stronger-startup-teams.webp
 seo:
-  canonical: "https://mindsbit.com/navigating-founder-conflicts-building-stronger-startup-teams/"
-  og_title: "Navigating Founder Conflicts: Building Stronger Startup Teams - Minds bit"
-  og_description: "Explore strategies for resolving co-founder conflicts, enhancing team dynamics, and scaling your startup effectively."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/navigating-founder-conflicts-building-stronger-startup-teams/
+  og_title: 'Navigating Founder Conflicts: Building Stronger Startup Teams - Minds bit'
+  og_description: >-
+    Explore strategies for resolving co-founder conflicts, enhancing team
+    dynamics, and scaling your startup effectively.
+  twitter_card: summary_large_image
 videos:
-  - id: "237b6cd5"
-    url: "https://www.youtube.com/watch?v=7QwK1LvJh7I"
-    position: "after-paragraph-2"
+  - id: 237b6cd5
+    url: 'https://www.youtube.com/watch?v=7QwK1LvJh7I'
+    position: after-paragraph-2
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -31,7 +38,10 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and relevance but significantly too short at 321 words versus the 800-1200 word target range."
+quality_note: >-
+  Well-written article with good tone and relevance but significantly too short
+  at 321 words versus the 800-1200 word target range.
+image_alt: Modern startup meeting room with two chairs and a shared roadmap on the table
 ---
 
 In the high-stakes world of startups, founding teams often consist of diverse personalities and communication styles. While this diversity can be a significant asset, it can also lead to conflicts if not managed properly. Without a clear framework for navigating these conflicts, even the strongest teams can dissolve before they achieve their full potential.
