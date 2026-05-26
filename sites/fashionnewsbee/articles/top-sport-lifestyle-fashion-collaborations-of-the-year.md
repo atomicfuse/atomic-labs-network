@@ -1,24 +1,37 @@
 ---
-title: "Top Sport-Lifestyle Fashion Collaborations of the Year"
-description: "PUMA teams up with Madhappy to launch a collection merging fashion with mental health awareness, blending PUMA's athletic heritage with Madhappy's positivity mission. Featuring vibrant designs, the collaboration aims to inspire confidence and support mental health initiatives worldwide."
-type: "standard"
-status: "published"
-publishDate: "2025-10-30T09:51:33+00:00"
-author: "Taylor Winters"
+title: Top Sport-Lifestyle Fashion Collaborations of the Year
+description: >-
+  PUMA teams up with Madhappy to launch a collection merging fashion with mental
+  health awareness, blending PUMA's athletic heritage with Madhappy's positivity
+  mission. Featuring vibrant designs, the collaboration aims to inspire
+  confidence and support mental health initiatives worldwide.
+type: standard
+status: published
+publishDate: '2025-10-30T09:51:33+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "top-sport-lifestyle-fashion-collaborations-of-the-year"
+  - Fashion
+slug: top-sport-lifestyle-fashion-collaborations-of-the-year
 reading_time: 3
-source_url: "https://fashionnewsbee.com/top-sport-lifestyle-fashion-collaborations-of-the-year/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/top-sport-lifestyle-fashion-collaborations-of-the-year/
+imported_from: wordpress
 wp_original_id: 31576
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-sport-lifestyle-fashion-collaborations-of-the-year.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-sport-lifestyle-fashion-collaborations-of-the-year/"
-  og_title: "Top Sport-Lifestyle Fashion Collaborations of the Year - Fashion News Bee"
-  og_description: "PUMA teams up with Madhappy to launch a collection merging fashion with mental health awareness, blending PUMA's athletic heritage with Madhappy's positivity mission. Featuring vibrant designs, the collaboration aims to inspire confidence and support mental health initiatives worldwide."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/10/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/top-sport-lifestyle-fashion-collaborations-of-the-year/
+  og_title: Top Sport-Lifestyle Fashion Collaborations of the Year - Fashion News Bee
+  og_description: >-
+    PUMA teams up with Madhappy to launch a collection merging fashion with
+    mental health awareness, blending PUMA's athletic heritage with Madhappy's
+    positivity mission. Featuring vibrant designs, the collaboration aims to
+    inspire confidence and support mental health initiatives worldwide.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/10/make_file.html'
+  twitter_card: summary_large_image
+image_alt: >-
+  Diverse friends in vibrant athletic streetwear pose on a sunny rooftop with an
+  open sky behind them.
 ---
 
 PUMA, a global leader in sportswear, has partnered with the Los Angeles-based wellness brand Madhappy to launch a new collection that merges fashion with mental health awareness. This collaboration brings together PUMA's rich heritage in athletic apparel with Madhappy's mission to foster positivity and mental well-being through innovative fashion.
