@@ -1,26 +1,39 @@
 ---
-title: "Avoid These Indian Destinations in September Due to Landslides"
-description: "As September brings the monsoon to India, travelers should be cautious of weather challenges like heavy rains and landslides. This article guides on which destinations to avoid and suggests safer alternatives for a secure travel experience."
-type: "standard"
-status: "published"
-publishDate: "2025-09-04T04:35:38+00:00"
-author: "Taylor Winters"
+title: Avoid These Indian Destinations in September Due to Landslides
+description: >-
+  As September brings the monsoon to India, travelers should be cautious of
+  weather challenges like heavy rains and landslides. This article guides on
+  which destinations to avoid and suggests safer alternatives for a secure
+  travel experience.
+type: standard
+status: published
+publishDate: '2025-09-04T04:35:38+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "avoid-these-indian-destinations-in-september-due-to-landslides"
+  - Destinations
+  - Tips
+  - Travel
+slug: avoid-these-indian-destinations-in-september-due-to-landslides
 reading_time: 3
-source_url: "https://journeypeaks.com/avoid-these-indian-destinations-in-september-due-to-landslides/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/avoid-these-indian-destinations-in-september-due-to-landslides/
+imported_from: wordpress
 wp_original_id: 38686
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/avoid-these-indian-destinations-in-september-due-to-landslides.webp
 seo:
-  canonical: "https://journeypeaks.com/avoid-these-indian-destinations-in-september-due-to-landslides/"
-  og_title: "Avoid These Indian Destinations in September Due to Landslides - Journey Peaks"
-  og_description: "As September brings the monsoon to India, travelers should be cautious of weather challenges like heavy rains and landslides. This article guides on which destinations to avoid and suggests safer alternatives for a secure travel experience."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/09/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/avoid-these-indian-destinations-in-september-due-to-landslides/
+  og_title: >-
+    Avoid These Indian Destinations in September Due to Landslides - Journey
+    Peaks
+  og_description: >-
+    As September brings the monsoon to India, travelers should be cautious of
+    weather challenges like heavy rains and landslides. This article guides on
+    which destinations to avoid and suggests safer alternatives for a secure
+    travel experience.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/09/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 78
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel advice article with good keyword coverage and tone, but falls short on word count target and could benefit from enhanced SEO elements like meta description optimization."
+quality_note: >-
+  Well-written travel advice article with good keyword coverage and tone, but
+  falls short on word count target and could benefit from enhanced SEO elements
+  like meta description optimization.
+image_alt: >-
+  Rain-soaked mountain road with mud and rocks from a landslide in misty green
+  hills.
 ---
 
 As September ushers in the monsoon season across India, travelers must remain vigilant about the weather-related challenges that may impact their plans. Heavy rains and landslides are common during this time, particularly in certain regions. This article provides insights into which destinations to approach with caution and alternative options for a safer travel experience.
