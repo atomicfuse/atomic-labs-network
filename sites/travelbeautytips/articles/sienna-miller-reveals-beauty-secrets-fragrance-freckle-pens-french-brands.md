@@ -1,27 +1,40 @@
 ---
-title: "Sienna Miller Reveals Beauty Secrets: Fragrance, Freckle Pens, French Brands"
-description: "Sienna Miller's beauty philosophy emphasizes natural features and minimal makeup, focusing on skincare and healthy hair. Her approach inspires confidence and individuality, promoting a radiant look that celebrates one's unique beauty through simple, effective routines."
-type: "standard"
-status: "review"
-publishDate: "2026-03-02T09:41:25+00:00"
-author: "Taylor Winters"
+title: 'Sienna Miller Reveals Beauty Secrets: Fragrance, Freckle Pens, French Brands'
+description: >-
+  Sienna Miller's beauty philosophy emphasizes natural features and minimal
+  makeup, focusing on skincare and healthy hair. Her approach inspires
+  confidence and individuality, promoting a radiant look that celebrates one's
+  unique beauty through simple, effective routines.
+type: standard
+status: review
+publishDate: '2026-03-02T09:41:25+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Fashion"
-  - "Hair"
-slug: "sienna-miller-reveals-beauty-secrets-fragrance-freckle-pens-french-brands"
+  - Travel Tips
+  - Beauty
+  - Fashion
+  - Hair
+slug: sienna-miller-reveals-beauty-secrets-fragrance-freckle-pens-french-brands
 reading_time: 3
-source_url: "https://travelbeautytips.com/sienna-miller-reveals-beauty-secrets-fragrance-freckle-pens-french-brands/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/sienna-miller-reveals-beauty-secrets-fragrance-freckle-pens-french-brands/
+imported_from: wordpress
 wp_original_id: 36154
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/sienna-miller-reveals-beauty-secrets-fragrance-freckle-pens-french-brands.webp
 seo:
-  canonical: "https://travelbeautytips.com/sienna-miller-reveals-beauty-secrets-fragrance-freckle-pens-french-brands/"
-  og_title: "Sienna Miller Reveals Beauty Secrets: Fragrance, Freckle Pens, French Brands - Travel Beauty Tips"
-  og_description: "Sienna Miller's beauty philosophy emphasizes natural features and minimal makeup, focusing on skincare and healthy hair. Her approach inspires confidence and individuality, promoting a radiant look that celebrates one's unique beauty through simple, effective routines."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/sienna-miller-reveals-beauty-secrets-fragrance-freckle-pens-french-brands/
+  og_title: >-
+    Sienna Miller Reveals Beauty Secrets: Fragrance, Freckle Pens, French Brands
+    - Travel Beauty Tips
+  og_description: >-
+    Sienna Miller's beauty philosophy emphasizes natural features and minimal
+    makeup, focusing on skincare and healthy hair. Her approach inspires
+    confidence and individuality, promoting a radiant look that celebrates one's
+    unique beauty through simple, effective routines.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/03/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -29,7 +42,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "Well-written beauty article with good tone match, but significantly below target word count and missing specific beauty product details mentioned in title."
+quality_note: >-
+  Well-written beauty article with good tone match, but significantly below
+  target word count and missing specific beauty product details mentioned in
+  title.
+image_alt: >-
+  Sunlit vanity with natural beauty products and a softly reflected freckled
+  woman
 ---
 
 Sienna Miller, the renowned actress and style icon, has long been admired for her effortlessly chic beauty and fashion sense. Her approach to beauty is refreshingly natural and attainable, making her a source of inspiration for many. Here, we delve into some of the beauty secrets and tips that have helped Sienna maintain her radiant appearance over the years.
