@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-exploring-american-wines-terroir-varietals-and-regions-unveiled
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/exploring-american-wines-terroir-varietals-and-regions-unveiled.webp
 reading_time: 2
 quality_score: 66
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   The article covers relevant wine topics well but falls significantly short of
   the target word count at only 331 words, which severely impacts its overall
   quality score.
+image_alt: >-
+  Wine glasses, grapes, soil, and vine leaves evoke diverse American vineyard
+  terroirs.
 ---
 ## Understanding American Wine Terroir
 
