@@ -1,24 +1,42 @@
 ---
-title: "Clade 2.3.4.4b H5N1 Bovine flu vaccine on the way say US scientists"
-description: "The battle continues against H5N1 flu in North America, but followers of the news will be reassured to hear that a cutting edge H5N1 vaccine for the highly virulent strain currently spreading in cows is in the works. Since seasonal flu vaccines do not protect against H5N1 flu, vaccine scientists have been racing against the […]"
-type: "standard"
-status: "published"
-publishDate: "2025-01-30T19:26:23+00:00"
-author: "admin"
+title: Clade 2.3.4.4b H5N1 Bovine flu vaccine on the way say US scientists
+description: >-
+  The battle continues against H5N1 flu in North America, but followers of the
+  news will be reassured to hear that a cutting edge H5N1 vaccine for the highly
+  virulent strain currently spreading in cows is in the works. Since seasonal
+  flu vaccines do not protect against H5N1 flu, vaccine scientists have been
+  racing against the […]
+type: standard
+status: published
+publishDate: '2025-01-30T19:26:23+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Drugs"
-slug: "clade-2-3-4-4b-h5n1-bovine-flu-vaccine-on-the-way-say-us-scientists"
+  - Health News
+  - Drugs
+slug: clade-2-3-4-4b-h5n1-bovine-flu-vaccine-on-the-way-say-us-scientists
 reading_time: 4
-source_url: "https://medicalnewsalley.com/clade-2-3-4-4b-h5n1-bovine-flu-vaccine-on-the-way-say-us-scientists/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/clade-2-3-4-4b-h5n1-bovine-flu-vaccine-on-the-way-say-us-scientists/
+imported_from: wordpress
 wp_original_id: 32223
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/clade-2-3-4-4b-h5n1-bovine-flu-vaccine-on-the-way-say-us-scientists.webp
 seo:
-  canonical: "https://medicalnewsalley.com/clade-2-3-4-4b-h5n1-bovine-flu-vaccine-on-the-way-say-us-scientists/"
-  og_title: "Clade 2.3.4.4b H5N1 Bovine flu vaccine on the way say US scientists - Medical News Alley"
-  og_description: "The battle continues against H5N1 flu in North America, but followers of the news will be reassured to hear that a cutting edge H5N1 vaccine for the highly virulent strain currently spreading in cows is in the works. Since seasonal flu vaccines do not protect against H5N1 flu, vaccine scientists have been racing against the [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/clade-2-3-4-4b-h5n1-bovine-flu-vaccine-on-the-way-say-us-scientists/
+  og_title: >-
+    Clade 2.3.4.4b H5N1 Bovine flu vaccine on the way say US scientists -
+    Medical News Alley
+  og_description: >-
+    The battle continues against H5N1 flu in North America, but followers of the
+    news will be reassured to hear that a cutting edge H5N1 vaccine for the
+    highly virulent strain currently spreading in cows is in the works. Since
+    seasonal flu vaccines do not protect against H5N1 flu, vaccine scientists
+    have been racing against the [&hellip;]
+  twitter_card: summary_large_image
+image_alt: >-
+  Vaccine vial and syringe in a lab with a blurred researcher and dairy cow in
+  the background
 ---
 
 The battle continues against [H5N1 flu](https://medicalnewsbulletin.com/h5n1-bird-flu-cow-milk/) in North America, but followers of the news will be reassured to hear that a cutting edge H5N1 vaccine for the highly virulent strain currently spreading in cows is in the works. Since [seasonal flu vaccines](https://medicalnewsbulletin.com/universe-flu-vaccine/) do not protect against H5N1 flu, vaccine scientists have been racing against the virus to generate an effective shot before it starts transmitting between humans.
