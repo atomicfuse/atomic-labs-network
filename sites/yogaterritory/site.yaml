@@ -2,7 +2,8 @@ domain: yogaterritory.com
 site_name: yogaterritory
 site_tagline: null
 author: Lucas Price
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d70816f23264031d7a48
 brief:
