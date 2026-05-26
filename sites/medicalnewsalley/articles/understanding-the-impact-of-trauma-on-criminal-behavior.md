@@ -1,24 +1,36 @@
 ---
-title: "Understanding the Impact of Trauma on Criminal Behavior"
-description: "Individuals with a history of trauma are significantly overrepresented in the criminal justice system, and understanding how trauma affects brain development, emotional regulation, and behavior is key to developing more effective approaches to crime prevention and rehabilitation."
-type: "standard"
-status: "published"
-publishDate: "2025-02-28T14:30:49+00:00"
-author: "Taylor Winters"
+title: Understanding the Impact of Trauma on Criminal Behavior
+description: >-
+  Individuals with a history of trauma are significantly overrepresented in the
+  criminal justice system, and understanding how trauma affects brain
+  development, emotional regulation, and behavior is key to developing more
+  effective approaches to crime prevention and rehabilitation.
+type: standard
+status: published
+publishDate: '2025-02-28T14:30:49+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Drugs"
-slug: "understanding-the-impact-of-trauma-on-criminal-behavior"
+  - Health News
+  - Drugs
+slug: understanding-the-impact-of-trauma-on-criminal-behavior
 reading_time: 6
-source_url: "https://medicalnewsalley.com/understanding-the-impact-of-trauma-on-criminal-behavior/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/understanding-the-impact-of-trauma-on-criminal-behavior/
+imported_from: wordpress
 wp_original_id: 32313
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/understanding-the-impact-of-trauma-on-criminal-behavior.webp
 seo:
-  canonical: "https://medicalnewsalley.com/understanding-the-impact-of-trauma-on-criminal-behavior/"
-  og_title: "Understanding the Impact of Trauma on Criminal Behavior - Medical News Alley"
-  og_description: "Did you know that individuals with a history of trauma are significantly overrepresented in the criminal justice system? Trauma, especially when it occurs in childhood, can alter brain development, impair emotional regulation, and increase impulsive behaviors. Yet, the link between trauma and criminal behavior is often misunderstood or overlooked. Understanding this connection isn&#x2019;t about excusing [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/understanding-the-impact-of-trauma-on-criminal-behavior/
+  og_title: Understanding the Impact of Trauma on Criminal Behavior - Medical News Alley
+  og_description: >-
+    Did you know that individuals with a history of trauma are significantly
+    overrepresented in the criminal justice system? Trauma, especially when it
+    occurs in childhood, can alter brain development, impair emotional
+    regulation, and increase impulsive behaviors. Yet, the link between trauma
+    and criminal behavior is often misunderstood or overlooked. Understanding
+    this connection isn&#x2019;t about excusing [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,12 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 40
-quality_note: "Well-written article with good tone and length, but lacks medical/health focus and proper SEO optimization for the target audience."
+quality_note: >-
+  Well-written article with good tone and length, but lacks medical/health focus
+  and proper SEO optimization for the target audience.
+image_alt: >-
+  Soft therapy-room scene with fading shadows and subtle neural patterns
+  suggesting trauma recovery.
 ---
 
 Did you know that individuals with a history of trauma are significantly overrepresented in the criminal justice system? Trauma, especially when it occurs in childhood, can alter brain development, impair emotional regulation, and increase impulsive behaviors. Yet, the link between trauma and criminal behavior is often misunderstood or overlooked.
