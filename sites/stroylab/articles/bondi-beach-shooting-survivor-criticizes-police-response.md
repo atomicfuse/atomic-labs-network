@@ -1,24 +1,33 @@
 ---
-title: "Bondi Beach Shooting Survivor Criticizes Police Response"
-description: "The global financial landscape is shaped by interconnected policies, where changes in major economies impact smaller nations. Central banks and trade policies play pivotal roles, influencing markets and investment decisions, highlighting the need for adaptive strategies and international cooperation."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:32:07+00:00"
-author: "Blake Anderson"
+title: Bondi Beach Shooting Survivor Criticizes Police Response
+description: >-
+  The global financial landscape is shaped by interconnected policies, where
+  changes in major economies impact smaller nations. Central banks and trade
+  policies play pivotal roles, influencing markets and investment decisions,
+  highlighting the need for adaptive strategies and international cooperation.
+type: standard
+status: review
+publishDate: '2025-12-22T11:32:07+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "bondi-beach-shooting-survivor-criticizes-police-response"
+  - Deep Dives
+slug: bondi-beach-shooting-survivor-criticizes-police-response
 reading_time: 3
-source_url: "https://stroylab.com/bondi-beach-shooting-survivor-criticizes-police-response/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/bondi-beach-shooting-survivor-criticizes-police-response/'
+imported_from: wordpress
 wp_original_id: 694
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/bondi-beach-shooting-survivor-criticizes-police-response.webp
 seo:
-  canonical: "https://stroylab.com/bondi-beach-shooting-survivor-criticizes-police-response/"
-  og_title: "Bondi Beach Shooting Survivor Criticizes Police Response - StroyLab"
-  og_description: "The global financial landscape is shaped by interconnected policies, where changes in major economies impact smaller nations. Central banks and trade policies play pivotal roles, influencing markets and investment decisions, highlighting the need for adaptive strategies and international cooperation."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-197.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/bondi-beach-shooting-survivor-criticizes-police-response/
+  og_title: Bondi Beach Shooting Survivor Criticizes Police Response - StroyLab
+  og_description: >-
+    The global financial landscape is shaped by interconnected policies, where
+    changes in major economies impact smaller nations. Central banks and trade
+    policies play pivotal roles, influencing markets and investment decisions,
+    highlighting the need for adaptive strategies and international cooperation.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-197.jpeg'
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 15
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article completely fails to match the site's focus on sensitive topics like conspiracies and mysteries, instead covering generic economic content that doesn't align with the audience or SEO strategy."
+quality_note: >-
+  The article completely fails to match the site's focus on sensitive topics
+  like conspiracies and mysteries, instead covering generic economic content
+  that doesn't align with the audience or SEO strategy.
+image_alt: >-
+  Empty beach at dawn with distant responders and blurred barriers suggesting a
+  tense aftermath
 ---
 
 In recent years, the discourse surrounding global economic strategies has intensified, with particular focus on the implications of certain financial policies. As countries navigate complex international relations, the effects on global markets are profound. Understanding these dynamics is crucial for both policymakers and economic stakeholders worldwide.
