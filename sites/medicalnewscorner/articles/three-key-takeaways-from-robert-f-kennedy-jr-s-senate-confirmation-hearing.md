@@ -1,24 +1,39 @@
 ---
-title: "Three key takeaways from Robert F. Kennedy Jr.’s Senate confirmation hearing"
-description: "Robert F. Kennedy Jr. testified before the Senate Finance Committee for his confirmation hearing as HHS secretary, facing tough questions on vaccine skepticism, abortion, and his grasp of federal health programs like Medicare and Medicaid."
-type: "standard"
-status: "published"
-publishDate: "2025-02-01T22:26:53+00:00"
-author: "admin"
+title: Three key takeaways from Robert F. Kennedy Jr.’s Senate confirmation hearing
+description: >-
+  Robert F. Kennedy Jr. testified before the Senate Finance Committee for his
+  confirmation hearing as HHS secretary, facing tough questions on vaccine
+  skepticism, abortion, and his grasp of federal health programs like Medicare
+  and Medicaid.
+type: standard
+status: published
+publishDate: '2025-02-01T22:26:53+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Health, Fitness &amp; Food"
-slug: "three-key-takeaways-from-robert-f-kennedy-jr-s-senate-confirmation-hearing"
+  - Health News
+  - 'Health, Fitness &amp; Food'
+slug: three-key-takeaways-from-robert-f-kennedy-jr-s-senate-confirmation-hearing
 reading_time: 6
-source_url: "https://medicalnewscorner.com/three-key-takeaways-from-robert-f-kennedy-jr-s-senate-confirmation-hearing/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/three-key-takeaways-from-robert-f-kennedy-jr-s-senate-confirmation-hearing/
+imported_from: wordpress
 wp_original_id: 24449
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/three-key-takeaways-from-robert-f-kennedy-jr-s-senate-confirmation-hearing.webp
 seo:
-  canonical: "https://medicalnewscorner.com/three-key-takeaways-from-robert-f-kennedy-jr-s-senate-confirmation-hearing/"
-  og_title: "Three key takeaways from Robert F. Kennedy Jr.'s Senate confirmation hearing - Medical News Corner"
-  og_description: "Robert F. Kennedy Jr., President Donald Trump&#8216;s controversial pick to lead the Department of Health and Human Services, testified Wednesday before a crucial Senate panel, where he faced questions about past vaccine skepticism, his evolving views on abortion and grasp on sprawling federal health programs. Kennedy, 71, appeared first before the Senate Committee on Finance, [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/three-key-takeaways-from-robert-f-kennedy-jr-s-senate-confirmation-hearing/
+  og_title: >-
+    Three key takeaways from Robert F. Kennedy Jr.'s Senate confirmation hearing
+    - Medical News Corner
+  og_description: >-
+    Robert F. Kennedy Jr., President Donald Trump&#8216;s controversial pick to
+    lead the Department of Health and Human Services, testified Wednesday before
+    a crucial Senate panel, where he faced questions about past vaccine
+    skepticism, his evolving views on abortion and grasp on sprawling federal
+    health programs. Kennedy, 71, appeared first before the Senate Committee on
+    Finance, [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written health news article with strong content length and tone, though the title could be more SEO-optimized and some technical health policy details may challenge general readers."
+quality_note: >-
+  Well-written health news article with strong content length and tone, though
+  the title could be more SEO-optimized and some technical health policy details
+  may challenge general readers.
+image_alt: >-
+  Empty Senate hearing table with microphones and subtle medical policy objects
+  in a formal chamber.
 ---
 
 [Robert F. Kennedy Jr.](https://www.cnbc.com/2024/11/19/rfk-jr-is-trump-pick-for-hhs-secretary-heres-what-he-could-do.html), President [Donald Trump](https://www.cnbc.com/donald-trump/)'s controversial pick to lead the Department of Health and Human Services, testified Wednesday before a crucial Senate panel, where he faced questions about past vaccine skepticism, his evolving views on abortion and grasp on sprawling federal health programs.
