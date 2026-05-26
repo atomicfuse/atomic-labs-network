@@ -1,25 +1,35 @@
 ---
-title: "Top Reasons Greece is Perfect for Family Trips in 2026"
-description: "Traveling with young ones to Greece offers a perfect blend of history, culture, and stunning landscapes. From ancient ruins to idyllic beaches, this Mediterranean gem is filled with opportunities for both adventure and relaxation for the whole family."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:23:31+00:00"
-author: "Taylor Winters"
+title: Top Reasons Greece is Perfect for Family Trips in 2026
+description: >-
+  Traveling with young ones to Greece offers a perfect blend of history,
+  culture, and stunning landscapes. From ancient ruins to idyllic beaches, this
+  Mediterranean gem is filled with opportunities for both adventure and
+  relaxation for the whole family.
+type: standard
+status: published
+publishDate: '2026-01-26T09:23:31+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "top-reasons-greece-is-perfect-for-family-trips-in-2026"
+  - Destinations
+  - Tips
+  - Travel
+slug: top-reasons-greece-is-perfect-for-family-trips-in-2026
 reading_time: 3
-source_url: "https://travelclearly.com/top-reasons-greece-is-perfect-for-family-trips-in-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/top-reasons-greece-is-perfect-for-family-trips-in-2026/
+imported_from: wordpress
 wp_original_id: 36612
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/top-reasons-greece-is-perfect-for-family-trips-in-2026.webp
 seo:
-  canonical: "https://travelclearly.com/top-reasons-greece-is-perfect-for-family-trips-in-2026/"
-  og_title: "Top Reasons Greece is Perfect for Family Trips in 2026 - Travel Clearly"
-  og_description: "Traveling with young ones to Greece offers a perfect blend of history, culture, and stunning landscapes. From ancient ruins to idyllic beaches, this Mediterranean gem is filled with opportunities for both adventure and relaxation for the whole family."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/top-reasons-greece-is-perfect-for-family-trips-in-2026/
+  og_title: Top Reasons Greece is Perfect for Family Trips in 2026 - Travel Clearly
+  og_description: >-
+    Traveling with young ones to Greece offers a perfect blend of history,
+    culture, and stunning landscapes. From ancient ruins to idyllic beaches,
+    this Mediterranean gem is filled with opportunities for both adventure and
+    relaxation for the whole family.
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel content with good tone and accurate information, but significantly under target word count which limits its SEO potential and comprehensive coverage."
+quality_note: >-
+  Well-written travel content with good tone and accurate information, but
+  significantly under target word count which limits its SEO potential and
+  comprehensive coverage.
+image_alt: >-
+  A family enjoys a sunny Greek coastal terrace with Aegean views and ancient
+  ruins nearby.
 ---
 
 Traveling with young ones can be a deeply rewarding experience, and Greece offers a perfect blend of history, culture, and stunning landscapes to explore with your family. From ancient ruins to idyllic beaches, this Mediterranean gem is filled with opportunities for both adventure and relaxation.
