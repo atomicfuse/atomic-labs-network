@@ -1,24 +1,34 @@
 ---
-title: "Top 19 Travel Destinations for 2026: Milan to Las Vegas"
-description: "Explore captivating destinations set to inspire 2026 travelers, from Milan's vibrant fashion scene to Nuuk's Arctic splendor. Discover rich cultures in Kyoto and Marrakech, or venture off the beaten path in Luang Prabang and Muscat for unique adventures."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T10:57:54+00:00"
-author: "Malcolm Anderson"
+title: 'Top 19 Travel Destinations for 2026: Milan to Las Vegas'
+description: >-
+  Explore captivating destinations set to inspire 2026 travelers, from Milan's
+  vibrant fashion scene to Nuuk's Arctic splendor. Discover rich cultures in
+  Kyoto and Marrakech, or venture off the beaten path in Luang Prabang and
+  Muscat for unique adventures.
+type: standard
+status: published
+publishDate: '2025-12-11T10:57:54+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "top-19-travel-destinations-for-2026-milan-to-las-vegas"
+  - Destinations
+slug: top-19-travel-destinations-for-2026-milan-to-las-vegas
 reading_time: 3
-source_url: "https://travelnights.com/top-19-travel-destinations-for-2026-milan-to-las-vegas/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/top-19-travel-destinations-for-2026-milan-to-las-vegas/
+imported_from: wordpress
 wp_original_id: 36646
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-19-travel-destinations-for-2026-milan-to-las-vegas.webp
 seo:
-  canonical: "https://travelnights.com/top-19-travel-destinations-for-2026-milan-to-las-vegas/"
-  og_title: "Top 19 Travel Destinations for 2026: Milan to Las Vegas - Travel Nights"
-  og_description: "Explore captivating destinations set to inspire 2026 travelers, from Milan's vibrant fashion scene to Nuuk's Arctic splendor. Discover rich cultures in Kyoto and Marrakech, or venture off the beaten path in Luang Prabang and Muscat for unique adventures."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/top-19-travel-destinations-for-2026-milan-to-las-vegas/
+  og_title: 'Top 19 Travel Destinations for 2026: Milan to Las Vegas - Travel Nights'
+  og_description: >-
+    Explore captivating destinations set to inspire 2026 travelers, from Milan's
+    vibrant fashion scene to Nuuk's Arctic splendor. Discover rich cultures in
+    Kyoto and Marrakech, or venture off the beaten path in Luang Prabang and
+    Muscat for unique adventures.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel article with good tone and keyword relevance, but significantly below target word count at 541 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written travel article with good tone and keyword relevance, but
+  significantly below target word count at 541 words versus the 800-1200 target
+  range.
+image_alt: >-
+  A traveler overlooks a dreamlike horizon blending city, desert, Arctic,
+  temple, and river landscapes.
 ---
 
 Exploring new travel destinations is always an exciting adventure, especially when planning for future trips. As we look forward to 2026, several stunning locations around the globe are set to capture the imagination of travelers. From bustling urban centers to serene natural landscapes, these destinations promise unique experiences and unforgettable memories.
