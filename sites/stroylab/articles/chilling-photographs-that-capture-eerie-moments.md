@@ -1,29 +1,34 @@
 ---
-title: "Chilling Photographs That Capture Eerie Moments"
-description: "Explore three haunting stories behind disturbing photographs that reveal unsettling truths, from a chilling mountain hike to an inexplicable family portrait taken before a storm."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:36:04+00:00"
-author: "Blake Anderson"
+title: Chilling Photographs That Capture Eerie Moments
+description: >-
+  Explore three haunting stories behind disturbing photographs that reveal
+  unsettling truths, from a chilling mountain hike to an inexplicable family
+  portrait taken before a storm.
+type: standard
+status: review
+publishDate: '2025-12-22T11:36:04+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "chilling-photographs-that-capture-eerie-moments"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: chilling-photographs-that-capture-eerie-moments
 reading_time: 2
-source_url: "https://stroylab.com/chilling-photographs-that-capture-eerie-moments/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/chilling-photographs-that-capture-eerie-moments/'
+imported_from: wordpress
 wp_original_id: 716
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/chilling-photographs-that-capture-eerie-moments.webp
 seo:
-  canonical: "https://stroylab.com/chilling-photographs-that-capture-eerie-moments/"
-  og_title: "Chilling Photographs That Capture Eerie Moments - StroyLab"
-  og_description: "Explore three haunting stories behind disturbing photographs that reveal unsettling truths."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/chilling-photographs-that-capture-eerie-moments/'
+  og_title: Chilling Photographs That Capture Eerie Moments - StroyLab
+  og_description: >-
+    Explore three haunting stories behind disturbing photographs that reveal
+    unsettling truths.
+  twitter_card: summary_large_image
 videos:
-  - id: "b48fb7dc"
-    url: "https://www.youtube.com/watch?v=ZWja_xrvBb4"
-    position: "after-paragraph-2"
+  - id: b48fb7dc
+    url: 'https://www.youtube.com/watch?v=ZWja_xrvBb4'
+    position: after-paragraph-2
 quality_score: 58
 score_breakdown:
   seo_quality: 65
@@ -31,7 +36,11 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "While the tone and keyword relevance are strong, the article is severely underwritten at only 325 words and contains vague, unverifiable claims without specific details or sources."
+quality_note: >-
+  While the tone and keyword relevance are strong, the article is severely
+  underwritten at only 325 words and contains vague, unverifiable claims without
+  specific details or sources.
+image_alt: Vintage photographs on a shadowed table beside a stormy rain-streaked window.
 ---
 
 Photographs are often seen as windows to the past, capturing moments that convey emotions or tell stories. However, some photos reveal more than expected, unveiling chilling and eerie narratives. In this article, we delve into three disturbing stories where photographs played a pivotal role in uncovering unsettling truths.
