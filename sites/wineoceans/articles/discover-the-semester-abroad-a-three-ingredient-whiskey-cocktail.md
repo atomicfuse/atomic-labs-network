@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-discover-the-semester-abroad-a-three-ingredient-whiskey-cocktail
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/discover-the-semester-abroad-a-three-ingredient-whiskey-cocktail.webp
 reading_time: 3
 quality_score: 40
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   Article suffers from major topic mismatch (whiskey cocktail on wine site),
   vague unsubstantiated claims, poor SEO optimization, and inadequate length for
   target audience.
+image_alt: >-
+  Amber whiskey cocktail on a stylish bar with citrus, bitters, and
+  travel-inspired props.
 ---
 ## A New Addition to the Cocktail Scene
 
