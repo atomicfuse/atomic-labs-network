@@ -1,24 +1,34 @@
 ---
-title: "Tim Sweeney Criticizes Apple for Allowing Fortnite Clones"
-description: "The legal battle between Apple and Epic Games centers on app distribution and digital commerce. Epic's lawsuit challenges Apple's App Store policies, arguing they stifle competition, with the outcome potentially reshaping how digital goods are distributed and monetized globally."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:06:52+00:00"
-author: "Lena Ashwood"
+title: Tim Sweeney Criticizes Apple for Allowing Fortnite Clones
+description: >-
+  The legal battle between Apple and Epic Games centers on app distribution and
+  digital commerce. Epic's lawsuit challenges Apple's App Store policies,
+  arguing they stifle competition, with the outcome potentially reshaping how
+  digital goods are distributed and monetized globally.
+type: standard
+status: review
+publishDate: '2025-05-18T11:06:52+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "tim-sweeney-criticizes-apple-for-allowing-fortnite-clones"
+  - Tech
+slug: tim-sweeney-criticizes-apple-for-allowing-fortnite-clones
 reading_time: 3
-source_url: "https://mindsbit.com/tim-sweeney-criticizes-apple-for-allowing-fortnite-clones/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/tim-sweeney-criticizes-apple-for-allowing-fortnite-clones/
+imported_from: wordpress
 wp_original_id: 330
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/tim-sweeney-criticizes-apple-for-allowing-fortnite-clones.webp
 seo:
-  canonical: "https://mindsbit.com/tim-sweeney-criticizes-apple-for-allowing-fortnite-clones/"
-  og_title: "Tim Sweeney Criticizes Apple for Allowing Fortnite Clones - Minds bit"
-  og_description: "The legal battle between Apple and Epic Games centers on app distribution and digital commerce. Epic's lawsuit challenges Apple's App Store policies, arguing they stifle competition. The outcome could significantly impact how digital goods are distributed and monetized globally."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-34.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/tim-sweeney-criticizes-apple-for-allowing-fortnite-clones/
+  og_title: Tim Sweeney Criticizes Apple for Allowing Fortnite Clones - Minds bit
+  og_description: >-
+    The legal battle between Apple and Epic Games centers on app distribution
+    and digital commerce. Epic's lawsuit challenges Apple's App Store policies,
+    arguing they stifle competition. The outcome could significantly impact how
+    digital goods are distributed and monetized globally.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-34.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article covers relevant tech topics with good accuracy and tone, but falls significantly short of the target word count at only 534 words versus the 800-1200 range."
+quality_note: >-
+  The article covers relevant tech topics with good accuracy and tone, but falls
+  significantly short of the target word count at only 534 words versus the
+  800-1200 range.
+image_alt: >-
+  Smartphone with duplicate app tiles on a courtroom table under dramatic
+  lighting
 ---
 
 The ongoing legal battle between Apple and Epic Games has captured significant attention due to its potential impact on app distribution and digital commerce. This high-profile case revolves around the policies governing Apple's App Store and the broader implications for developers worldwide. As both companies navigate the complexities of the legal system, the tech and gaming industries closely monitor developments that could reshape the digital landscape.
