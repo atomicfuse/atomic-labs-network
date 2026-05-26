@@ -1,25 +1,35 @@
 ---
-title: "Canada Shifts Billions in Tourism from U.S. to Domestic 2025"
-description: "Canada is redirecting billions in vacation spending toward domestic destinations amid political and economic tensions with the U.S., boosting local tourism across the country's diverse landscapes and vibrant cities."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T04:45:27+00:00"
-author: "Taylor Winters"
+title: Canada Shifts Billions in Tourism from U.S. to Domestic 2025
+description: >-
+  Canada is redirecting billions in vacation spending toward domestic
+  destinations amid political and economic tensions with the U.S., boosting
+  local tourism across the country's diverse landscapes and vibrant cities.
+type: standard
+status: review
+publishDate: '2025-08-14T04:45:27+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "News"
-  - "Travel"
-slug: "canada-shifts-billions-in-tourism-from-u-s-to-domestic-2025"
+  - Destinations
+  - News
+  - Travel
+slug: canada-shifts-billions-in-tourism-from-u-s-to-domestic-2025
 reading_time: 3
-source_url: "https://journeypeaks.com/canada-shifts-billions-in-tourism-from-u-s-to-domestic-2025/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/canada-shifts-billions-in-tourism-from-u-s-to-domestic-2025/
+imported_from: wordpress
 wp_original_id: 38681
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/canada-shifts-billions-in-tourism-from-u-s-to-domestic-2025.webp
 seo:
-  canonical: "https://journeypeaks.com/canada-shifts-billions-in-tourism-from-u-s-to-domestic-2025/"
-  og_title: "Canada Shifts Billions in Tourism from U.S. to Domestic 2025 - Journey Peaks"
-  og_description: "Canada is redirecting vacation spending towards domestic destinations due to political and economic tensions with the U.S., boosting local tourism. Canadians are exploring their country's diverse landscapes and vibrant cities, supporting local economies and enhancing the travel experience."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/canada-shifts-billions-in-tourism-from-u-s-to-domestic-2025/
+  og_title: Canada Shifts Billions in Tourism from U.S. to Domestic 2025 - Journey Peaks
+  og_description: >-
+    Canada is redirecting vacation spending towards domestic destinations due to
+    political and economic tensions with the U.S., boosting local tourism.
+    Canadians are exploring their country's diverse landscapes and vibrant
+    cities, supporting local economies and enhancing the travel experience.
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 65
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under target word count and contains some unsupported claims about specific economic figures and political tensions."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  under target word count and contains some unsupported claims about specific
+  economic figures and political tensions.
+image_alt: >-
+  Travelers in a Canadian station look toward mountains, city skyline, lake
+  cabin, and coastal harbor.
 ---
 
 In recent years, Canada has been successfully redirecting billions of dollars in vacation spending toward its own domestic destinations. This shift comes amid increasing political and economic tensions with the United States, affecting popular border-adjacent cities like Oregon, Seattle, Portland, and Detroit. Canadian tourists are opting to explore their own country, enjoying its diverse landscapes and vibrant cities instead of traveling south of the border.
