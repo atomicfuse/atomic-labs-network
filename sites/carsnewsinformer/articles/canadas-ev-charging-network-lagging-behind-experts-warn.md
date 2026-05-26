@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-canadas-ev-charging-network-lagging-behind-experts-warn
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/canadas-ev-charging-network-lagging-behind-experts-warn.webp
 reading_time: 2
 quality_score: 63
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Article has strong keyword relevance and decent SEO structure but is severely
   under the target word count and lacks specific data or expert quotes to
   support claims.
+image_alt: >-
+  Electric vehicle at a sparse charging station beside a snowy Canadian highway
+  at dusk
 ---
 ## Concerns Mount Over Canada's EV Infrastructure
 
