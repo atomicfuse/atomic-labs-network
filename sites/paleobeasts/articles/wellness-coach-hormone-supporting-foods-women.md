@@ -21,7 +21,7 @@ source_url: >-
   https://www.hindustantimes.com/lifestyle/health/wellness-coach-shares-6-foods-that-support-hormonal-health-in-women-from-seeds-to-leafy-greens-101778930981217.html
 source_item_id: 6a14209016f23264031d7da8
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/wellness-coach-hormone-supporting-foods-women.webp
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -33,6 +33,9 @@ quality_note: >-
   Article lacks paleo diet focus entirely, falls short on word count, and has
   weak SEO optimization despite decent tone and factual content.
 reading_time: 2
+image_alt: >-
+  Balanced wellness plate with greens, seeds, vegetables, berries, avocado, and
+  egg in soft morning light
 ---
 ## Growing Focus on Food-Based Hormone Support
 
