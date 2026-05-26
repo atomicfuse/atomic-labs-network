@@ -1,23 +1,31 @@
 ---
-title: "Camp Rock 3 Release: Latest Updates and Rumors"
-description: "Fans eagerly await news of \"Camp Rock 3,\" as rumors of a third installment in the beloved Disney Channel series circulate. Possible plots include mentoring new campers or exploring the original characters' adult lives, sparking excitement among audiences."
-type: "standard"
-status: "published"
-publishDate: "2025-09-18T07:31:33+00:00"
-author: "Becca Roberts"
+title: 'Camp Rock 3 Release: Latest Updates and Rumors'
+description: >-
+  Fans eagerly await news of "Camp Rock 3," as rumors of a third installment in
+  the beloved Disney Channel series circulate. Possible plots include mentoring
+  new campers or exploring the original characters' adult lives, sparking
+  excitement among audiences.
+type: standard
+status: published
+publishDate: '2025-09-18T07:31:33+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "camp-rock-3-release-latest-updates-and-rumors"
+  - Watch
+slug: camp-rock-3-release-latest-updates-and-rumors
 reading_time: 4
-source_url: "https://buzzsoaps.com/camp-rock-3-release-latest-updates-and-rumors/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/camp-rock-3-release-latest-updates-and-rumors/'
+imported_from: wordpress
 wp_original_id: 469
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/camp-rock-3-release-latest-updates-and-rumors.webp
 seo:
-  canonical: "https://buzzsoaps.com/camp-rock-3-release-latest-updates-and-rumors/"
-  og_title: "Camp Rock 3 Release: Latest Updates and Rumors - BuzzSoaps!"
-  og_description: "Fans eagerly await news of \"Camp Rock 3,\" as rumors of a third installment in the beloved Disney Channel series circulate. Possible plots include mentoring new campers or exploring the original characters' adult lives, sparking excitement among audiences."
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/camp-rock-3-release-latest-updates-and-rumors/'
+  og_title: 'Camp Rock 3 Release: Latest Updates and Rumors - BuzzSoaps!'
+  og_description: >-
+    Fans eagerly await news of "Camp Rock 3," as rumors of a third installment
+    in the beloved Disney Channel series circulate. Possible plots include
+    mentoring new campers or exploring the original characters' adult lives,
+    sparking excitement among audiences.
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -25,7 +33,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written entertainment article with engaging tone, but falls short of target word count and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written entertainment article with engaging tone, but falls short of
+  target word count and could benefit from stronger SEO optimization in title
+  and meta description.
+image_alt: >-
+  Twilight music camp stage with instruments and performers gathering in a
+  nostalgic cinematic scene
 ---
 
 # Camp Rock 3: Everything You Need to Know
