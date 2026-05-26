@@ -1,24 +1,33 @@
 ---
-title: "90-Year-Old Animal Savior Continues Mission at Sanctuary"
-description: "A 90-year-old Canadian woman has dedicated her life to rescuing over 10,000 animals, running a sanctuary that provides refuge and care for abandoned creatures while inspiring future generations to continue her mission."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:11:59+00:00"
-author: "Nico Harper"
+title: 90-Year-Old Animal Savior Continues Mission at Sanctuary
+description: >-
+  A 90-year-old Canadian woman has dedicated her life to rescuing over 10,000
+  animals, running a sanctuary that provides refuge and care for abandoned
+  creatures while inspiring future generations to continue her mission.
+type: standard
+status: review
+publishDate: '2025-05-05T16:11:59+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "90-year-old-animal-savior-continues-mission-at-sanctuary"
+  - Good Vibes
+slug: 90-year-old-animal-savior-continues-mission-at-sanctuary
 reading_time: 3
-source_url: "https://gigsfreaks.com/90-year-old-animal-savior-continues-mission-at-sanctuary/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/90-year-old-animal-savior-continues-mission-at-sanctuary/
+imported_from: wordpress
 wp_original_id: 869
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/90-year-old-animal-savior-continues-mission-at-sanctuary.webp
 seo:
-  canonical: "https://gigsfreaks.com/90-year-old-animal-savior-continues-mission-at-sanctuary/"
-  og_title: "90-Year-Old Animal Savior Continues Mission at Sanctuary - GigsFreaks"
-  og_description: "In Canada, a 90-year-old woman has dedicated her life to rescuing over 10,000 animals. Her sanctuary provides love and care, transforming her property into a refuge for abandoned creatures. Her commitment and legacy inspire future generations in animal rescue."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-91.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/90-year-old-animal-savior-continues-mission-at-sanctuary/
+  og_title: 90-Year-Old Animal Savior Continues Mission at Sanctuary - GigsFreaks
+  og_description: >-
+    In Canada, a 90-year-old woman has dedicated her life to rescuing over
+    10,000 animals. Her sanctuary provides love and care, transforming her
+    property into a refuge for abandoned creatures. Her commitment and legacy
+    inspire future generations in animal rescue.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-91.jpeg'
+  twitter_card: summary_large_image
 quality_score: 54
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 75
-quality_note: "While the article has good tone and matches the 'Good Vibes' category well, it suffers from poor SEO optimization, insufficient length, and lacks specific factual details that would make the story more credible and engaging."
+quality_note: >-
+  While the article has good tone and matches the 'Good Vibes' category well, it
+  suffers from poor SEO optimization, insufficient length, and lacks specific
+  factual details that would make the story more credible and engaging.
+image_alt: >-
+  Elderly sanctuary caretaker standing at a barn doorway surrounded by rescued
+  animals at golden hour
 ---
 
 In a quiet corner of Canada, a remarkable woman has dedicated her life to rescuing thousands of animals in need. At the age of 90, she remains as committed as ever to her sanctuary, a testament to her unwavering passion for animal welfare. Her story is one of dedication, compassion, and a refusal to retire from a cause she holds dear.
