@@ -1,26 +1,36 @@
 ---
-title: "European Defense Trends Capturing Global Attention"
-description: "The UK economy is transforming, focusing on innovation, workforce development, and sustainability to overcome stagnant growth. Key strategies include investing in technology, enhancing productivity, and strengthening international trade to secure a prosperous future amid recent economic challenges."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T10:31:32+00:00"
-author: "Lena Ashwood"
+title: European Defense Trends Capturing Global Attention
+description: >-
+  The UK economy is transforming, focusing on innovation, workforce development,
+  and sustainability to overcome stagnant growth. Key strategies include
+  investing in technology, enhancing productivity, and strengthening
+  international trade to secure a prosperous future amid recent economic
+  challenges.
+type: standard
+status: review
+publishDate: '2026-01-29T10:31:32+00:00'
+author: Lena Ashwood
 tags:
-  - "Finance"
-  - "Innovation"
-  - "Tech"
-slug: "european-defense-trends-capturing-global-attention"
+  - Finance
+  - Innovation
+  - Tech
+slug: european-defense-trends-capturing-global-attention
 reading_time: 3
-source_url: "https://mindsbit.com/european-defense-trends-capturing-global-attention/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/european-defense-trends-capturing-global-attention/'
+imported_from: wordpress
 wp_original_id: 455
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/european-defense-trends-capturing-global-attention.webp
 seo:
-  canonical: "https://mindsbit.com/european-defense-trends-capturing-global-attention/"
-  og_title: "European Defense Trends Capturing Global Attention - Minds bit"
-  og_description: "The UK economy is transforming, focusing on innovation, workforce development, and sustainability to overcome stagnant growth. Key strategies include investing in technology, enhancing productivity, and strengthening international trade to secure a prosperous future amid recent economic challenges."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/01/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/european-defense-trends-capturing-global-attention/'
+  og_title: European Defense Trends Capturing Global Attention - Minds bit
+  og_description: >-
+    The UK economy is transforming, focusing on innovation, workforce
+    development, and sustainability to overcome stagnant growth. Key strategies
+    include investing in technology, enhancing productivity, and strengthening
+    international trade to secure a prosperous future amid recent economic
+    challenges.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/01/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 59
 score_breakdown:
   seo_quality: 25
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 45
-quality_note: "Major SEO issues with title-description mismatch (defense vs economy) and poor keyword optimization, though content is well-written and factually sound."
+quality_note: >-
+  Major SEO issues with title-description mismatch (defense vs economy) and poor
+  keyword optimization, though content is well-written and factually sound.
+image_alt: >-
+  Modern European skyline with abstract shield and network lines suggesting
+  resilience and innovation
 ---
 
 The British economy is undergoing a significant transformation as it grapples with the challenge of stagnant growth and the search for new pathways to prosperity. As the nation emerges from the shadows of recent economic disruptions, key strategies are being developed to foster innovation and stability.
