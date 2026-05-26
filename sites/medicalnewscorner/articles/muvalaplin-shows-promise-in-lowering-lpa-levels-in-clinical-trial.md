@@ -1,24 +1,39 @@
 ---
-title: "Muvalaplin shows promise in lowering Lp(a) levels in clinical trial"
-description: "A clinical trial testing muvalaplin, a novel oral medication, demonstrated safe and effective reduction of high lipoprotein(a) levels by up to 85.5%, according to late-breaking science presented at the American Heart Association's Scientific Sessions 2024."
-type: "standard"
-status: "published"
-publishDate: "2024-11-19T22:45:23+00:00"
-author: "admin"
+title: Muvalaplin shows promise in lowering Lp(a) levels in clinical trial
+description: >-
+  A clinical trial testing muvalaplin, a novel oral medication, demonstrated
+  safe and effective reduction of high lipoprotein(a) levels by up to 85.5%,
+  according to late-breaking science presented at the American Heart
+  Association's Scientific Sessions 2024.
+type: standard
+status: published
+publishDate: '2024-11-19T22:45:23+00:00'
+author: admin
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "muvalaplin-shows-promise-in-lowering-lpa-levels-in-clinical-trial"
+  - Research
+  - Clinical Trials &amp; Research
+slug: muvalaplin-shows-promise-in-lowering-lpa-levels-in-clinical-trial
 reading_time: 4
-source_url: "https://medicalnewscorner.com/muvalaplin-shows-promise-in-lowering-lpa-levels-in-clinical-trial/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/muvalaplin-shows-promise-in-lowering-lpa-levels-in-clinical-trial/
+imported_from: wordpress
 wp_original_id: 24209
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/muvalaplin-shows-promise-in-lowering-lpa-levels-in-clinical-trial.webp
 seo:
-  canonical: "https://medicalnewscorner.com/muvalaplin-shows-promise-in-lowering-lpa-levels-in-clinical-trial/"
-  og_title: "Muvalaplin shows promise in lowering Lp(a) levels in clinical trial - Medical News Corner"
-  og_description: "A clinical trial testing muvalaplin, a novel oral medication, was able to safely and effectively lower high levels of lipoprotein (a), according to late-breaking science presented today at the American Heart Association&#8217;s&#xA0;Scientific Sessions 2024. The meeting, Nov. 16-18, 2024, in Chicago, is a premier global exchange of the latest scientific advancements, research and evidence-based clinical [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/muvalaplin-shows-promise-in-lowering-lpa-levels-in-clinical-trial/
+  og_title: >-
+    Muvalaplin shows promise in lowering Lp(a) levels in clinical trial -
+    Medical News Corner
+  og_description: >-
+    A clinical trial testing muvalaplin, a novel oral medication, was able to
+    safely and effectively lower high levels of lipoprotein (a), according to
+    late-breaking science presented today at the American Heart
+    Association&#8217;s&#xA0;Scientific Sessions 2024. The meeting, Nov. 16-18,
+    2024, in Chicago, is a premier global exchange of the latest scientific
+    advancements, research and evidence-based clinical [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 85
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written medical research article with strong factual content and appropriate tone, though slightly under optimal word count and could benefit from enhanced SEO optimization."
+quality_note: >-
+  Well-written medical research article with strong factual content and
+  appropriate tone, though slightly under optimal word count and could benefit
+  from enhanced SEO optimization.
+image_alt: >-
+  Unmarked pill and blood sample on a clean lab bench suggesting cardiovascular
+  research progress
 ---
 
 A clinical trial testing muvalaplin, a novel oral medication, was able to safely and effectively lower high levels of lipoprotein (a), according to late-breaking science presented at the American Heart Association's Scientific Sessions 2024. The study is simultaneously published in *JAMA, the Journal of the American Medical Association*.
