@@ -1,28 +1,42 @@
 ---
-title: "15 Unexplained Mysteries of 2026: Unanswered Questions and the Georgia Guidestones"
-description: "Explore the enduring fascination behind unexplained events, including the unresolved destruction of the Georgia Guidestones and why mysteries like these continue to raise questions in 2026."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T09:10:02+00:00"
-author: "Nico Harper"
+title: >-
+  15 Unexplained Mysteries of 2026: Unanswered Questions and the Georgia
+  Guidestones
+description: >-
+  Explore the enduring fascination behind unexplained events, including the
+  unresolved destruction of the Georgia Guidestones and why mysteries like these
+  continue to raise questions in 2026.
+type: standard
+status: published
+publishDate: '2026-05-11T09:10:02+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-  - "Internet Mysteries"
-slug: "15-unexplained-mysteries-of-2026-unanswered-questions-and-the-georgia-guidestones"
+  - Hot Trends
+  - Internet Mysteries
+slug: >-
+  15-unexplained-mysteries-of-2026-unanswered-questions-and-the-georgia-guidestones
 reading_time: 5
-source_url: "https://gigsfreaks.com/15-unexplained-mysteries-of-2026-unanswered-questions-and-the-georgia-guidestones/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/15-unexplained-mysteries-of-2026-unanswered-questions-and-the-georgia-guidestones/
+imported_from: wordpress
 wp_original_id: 1051
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/15-unexplained-mysteries-of-2026-unanswered-questions-and-the-georgia-guidestones.webp
 seo:
-  canonical: "https://gigsfreaks.com/15-unexplained-mysteries-of-2026-unanswered-questions-and-the-georgia-guidestones/"
-  og_title: "15 Unexplained Mysteries of 2026: Unanswered Questions and the Georgia Guidestones - GigsFreaks"
-  og_description: "Explore the enduring fascination behind unexplained events, including the unresolved destruction of the Georgia Guidestones and why mysteries like these continue to raise questions in 2026."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/15-unexplained-mysteries-of-2026-unanswered-questions-and-the-georgia-guidestones/
+  og_title: >-
+    15 Unexplained Mysteries of 2026: Unanswered Questions and the Georgia
+    Guidestones - GigsFreaks
+  og_description: >-
+    Explore the enduring fascination behind unexplained events, including the
+    unresolved destruction of the Georgia Guidestones and why mysteries like
+    these continue to raise questions in 2026.
+  twitter_card: summary_large_image
 videos:
-  - id: "7d1d3ee8"
-    url: "https://www.youtube.com/watch?v=ywCCYqKIVy8"
-    position: "after-paragraph-2"
+  - id: 7d1d3ee8
+    url: 'https://www.youtube.com/watch?v=ywCCYqKIVy8'
+    position: after-paragraph-2
 quality_score: 83
 score_breakdown:
   seo_quality: 65
@@ -30,7 +44,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article with strong mystery focus and appropriate length, but SEO elements need improvement and the Georgia Guidestones destruction date appears to be factually incorrect."
+quality_note: >-
+  Well-written article with strong mystery focus and appropriate length, but SEO
+  elements need improvement and the Georgia Guidestones destruction date appears
+  to be factually incorrect.
+image_alt: >-
+  Foggy rural field with fractured stone monoliths and distant lights under a
+  stormy dawn sky.
 ---
 
 Mysterious events have a way of holding public attention long after the first headlines fade. The idea of 15 mysterious events that cannot be explained in 2026 speaks directly to that fascination: the questions that remain open, the details that do not neatly fit, and the stories that continue to invite debate among viewers, researchers, travelers, and everyday curiosity seekers.
