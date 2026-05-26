@@ -817,22 +817,23 @@ sites:
   - domain: babyparenttrends
     company: ATL
     vertical: Family and Relationships
-    status: Staging
+    status: Live
     site_id: "9619803022799"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-26T08:51:45.154Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: a5e5c710ef2fa56f03b7a721a8216c51
     staging_branch: staging/babyparenttrends
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=babyparenttrends
     saved_previews: null
-    custom_domain: null
+    custom_domain: babyparenttrends.com
+    worker_pending_dns: false
   - domain: rumorumor
     company: null
     vertical: Entertainment
