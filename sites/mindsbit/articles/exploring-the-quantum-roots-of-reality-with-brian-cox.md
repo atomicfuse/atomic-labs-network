@@ -1,29 +1,35 @@
 ---
-title: "Exploring the Quantum Roots of Reality with Brian Cox"
-description: "Dive into the fascinating origins of quantum mechanics with physicist Brian Cox, as he unravels the theory that reshaped our understanding of the universe."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:04:28+00:00"
-author: "Lena Ashwood"
+title: Exploring the Quantum Roots of Reality with Brian Cox
+description: >-
+  Dive into the fascinating origins of quantum mechanics with physicist Brian
+  Cox, as he unravels the theory that reshaped our understanding of the
+  universe.
+type: standard
+status: review
+publishDate: '2025-05-18T11:04:28+00:00'
+author: Lena Ashwood
 tags:
-  - "Ideas"
-  - "Mind"
-  - "Tech"
-slug: "exploring-the-quantum-roots-of-reality-with-brian-cox"
+  - Ideas
+  - Mind
+  - Tech
+slug: exploring-the-quantum-roots-of-reality-with-brian-cox
 reading_time: 2
-source_url: "https://mindsbit.com/exploring-the-quantum-roots-of-reality-with-brian-cox/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/exploring-the-quantum-roots-of-reality-with-brian-cox/'
+imported_from: wordpress
 wp_original_id: 313
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/exploring-the-quantum-roots-of-reality-with-brian-cox.webp
 seo:
-  canonical: "https://mindsbit.com/exploring-the-quantum-roots-of-reality-with-brian-cox/"
-  og_title: "Exploring the Quantum Roots of Reality with Brian Cox - Minds bit"
-  og_description: "Dive into the fascinating origins of quantum mechanics with physicist Brian Cox, as he unravels the theory that reshaped our understanding of the universe."
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/exploring-the-quantum-roots-of-reality-with-brian-cox/'
+  og_title: Exploring the Quantum Roots of Reality with Brian Cox - Minds bit
+  og_description: >-
+    Dive into the fascinating origins of quantum mechanics with physicist Brian
+    Cox, as he unravels the theory that reshaped our understanding of the
+    universe.
+  twitter_card: summary_large_image
 videos:
-  - id: "36508cf6"
-    url: "https://www.youtube.com/watch?v=kO41iURud9c"
-    position: "after-paragraph-2"
+  - id: 36508cf6
+    url: 'https://www.youtube.com/watch?v=kO41iURud9c'
+    position: after-paragraph-2
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -31,7 +37,12 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article has good tone and relevance but is significantly too short at 359 words, well below the 800-1200 word target range."
+quality_note: >-
+  The article has good tone and relevance but is significantly too short at 359
+  words, well below the 800-1200 word target range.
+image_alt: >-
+  Physicist silhouette facing glowing quantum patterns emerging into a cosmic
+  field
 ---
 
 Quantum mechanics stands as one of the most transformational theories in the realm of physics. In a compelling interview, Brian Cox, a renowned physicist, delves into the quantum roots of reality, exploring how this groundbreaking theory emerged and revolutionized classical physics. Cox's discussion traces the journey from early scientific insights to the profound implications of quantum mechanics today.
