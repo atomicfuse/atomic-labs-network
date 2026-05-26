@@ -1,23 +1,39 @@
 ---
-title: "Dakota Johnson Sets Fashion Trend with Stylish Nike Sneakers"
-description: "Dakota Johnson's influence has sparked a resurgence in black sneakers, highlighting their versatility and timeless appeal. Her choice of chic black Nike sneakers is quickly making them a must-have item in fashion-forward wardrobes worldwide."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:49:34+00:00"
-author: "Taylor Winters"
+title: Dakota Johnson Sets Fashion Trend with Stylish Nike Sneakers
+description: >-
+  Dakota Johnson's influence has sparked a resurgence in black sneakers,
+  highlighting their versatility and timeless appeal. Her choice of chic black
+  Nike sneakers is quickly making them a must-have item in fashion-forward
+  wardrobes worldwide.
+type: standard
+status: published
+publishDate: '2026-01-26T09:49:34+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "dakota-johnson-sets-fashion-trend-with-stylish-nike-sneakers"
+  - Fashion
+slug: dakota-johnson-sets-fashion-trend-with-stylish-nike-sneakers
 reading_time: 4
-source_url: "https://fashionnewsbee.com/dakota-johnson-sets-fashion-trend-with-stylish-nike-sneakers/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/dakota-johnson-sets-fashion-trend-with-stylish-nike-sneakers/
+imported_from: wordpress
 wp_original_id: 31625
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/dakota-johnson-sets-fashion-trend-with-stylish-nike-sneakers.webp
 seo:
-  canonical: "https://fashionnewsbee.com/dakota-johnson-sets-fashion-trend-with-stylish-nike-sneakers/"
-  og_title: "Dakota Johnson Sets Fashion Trend with Stylish Nike Sneakers - Fashion News Bee"
-  og_description: "Dakota Johnson's influence has sparked a resurgence in black sneakers, highlighting their versatility and timeless appeal. Her choice of chic black Nike sneakers is quickly making them a must-have item in fashion-forward wardrobes worldwide."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/dakota-johnson-sets-fashion-trend-with-stylish-nike-sneakers/
+  og_title: >-
+    Dakota Johnson Sets Fashion Trend with Stylish Nike Sneakers - Fashion News
+    Bee
+  og_description: >-
+    Dakota Johnson's influence has sparked a resurgence in black sneakers,
+    highlighting their versatility and timeless appeal. Her choice of chic black
+    Nike sneakers is quickly making them a must-have item in fashion-forward
+    wardrobes worldwide.
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish person stepping onto a city curb wearing sleek black sneakers and
+  tailored casualwear.
 ---
 
 The fashion industry is ever-evolving, with trends emerging and fading swiftly. Recently, a new wave of black sneakers has captured the spotlight, thanks to the influence of Dakota Johnson. Known for her impeccable style and keen fashion sense, Dakota has once again set the trend with her choice of chic black Nike sneakers. These versatile shoes are quickly becoming a must-have item in wardrobes worldwide.
