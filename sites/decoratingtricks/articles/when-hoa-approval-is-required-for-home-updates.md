@@ -1,24 +1,33 @@
 ---
-title: "When HOA Approval is Required for Home Updates"
-description: "Homeowners in HOA-governed communities must navigate specific rules before altering their properties. Understanding these regulations helps ensure compliance, avoiding fines, while consulting the HOA early and following a clear approval process can facilitate smooth home improvement projects."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T09:19:33+00:00"
-author: "Taylor Winters"
+title: When HOA Approval is Required for Home Updates
+description: >-
+  Homeowners in HOA-governed communities must navigate specific rules before
+  altering their properties. Understanding these regulations helps ensure
+  compliance, avoiding fines, while consulting the HOA early and following a
+  clear approval process can facilitate smooth home improvement projects.
+type: standard
+status: published
+publishDate: '2026-01-15T09:19:33+00:00'
+author: Taylor Winters
 tags:
-  - "Home Improvement"
-slug: "when-hoa-approval-is-required-for-home-updates"
+  - Home Improvement
+slug: when-hoa-approval-is-required-for-home-updates
 reading_time: 3
-source_url: "https://decoratingtricks.com/when-hoa-approval-is-required-for-home-updates/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/when-hoa-approval-is-required-for-home-updates/'
+imported_from: wordpress
 wp_original_id: 21545
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/when-hoa-approval-is-required-for-home-updates.webp
 seo:
-  canonical: "https://decoratingtricks.com/when-hoa-approval-is-required-for-home-updates/"
-  og_title: "When HOA Approval is Required for Home Updates - Decorating Tricks"
-  og_description: "Homeowners in HOA-governed communities must navigate specific rules before altering their properties. Understanding these regulations helps ensure compliance, avoiding fines. Consulting the HOA early and following a clear approval process can facilitate smooth home improvement projects while maintaining community standards."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingtricks.com/when-hoa-approval-is-required-for-home-updates/'
+  og_title: When HOA Approval is Required for Home Updates - Decorating Tricks
+  og_description: >-
+    Homeowners in HOA-governed communities must navigate specific rules before
+    altering their properties. Understanding these regulations helps ensure
+    compliance, avoiding fines. Consulting the HOA early and following a clear
+    approval process can facilitate smooth home improvement projects while
+    maintaining community standards.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (544 words vs 800-1200 target) and could better integrate decorating/DIY focus for the site's audience."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (544 words vs 800-1200 target) and could better integrate decorating/DIY focus
+  for the site's audience.
+image_alt: >-
+  Homeowner reviews renovation plans outside a tidy suburban house in a planned
+  community
 ---
 
 For homeowners living in communities governed by Homeowners Associations (HOAs), making changes to your property often requires careful consideration and understanding of specific rules and regulations. These associations typically have guidelines that must be followed, and non-compliance can result in fines or other penalties. Understanding when and how to consult your HOA about home alterations is crucial for a smooth renovation process.
