@@ -1,25 +1,38 @@
 ---
-title: "Charlie Day Discusses ‘It’s Always Sunny’ Crossovers and Future Plans"
-description: "\"It's Always Sunny in Philadelphia\" captivates audiences with its humor and irreverence. As it approaches its 17th season, fans anticipate new antics from the gang, driven by the show's fearless comedy and the undeniable chemistry among its cast members."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T05:15:30+00:00"
-author: "Taylor Winters"
+title: Charlie Day Discusses ‘It’s Always Sunny’ Crossovers and Future Plans
+description: >-
+  "It's Always Sunny in Philadelphia" captivates audiences with its humor and
+  irreverence. As it approaches its 17th season, fans anticipate new antics from
+  the gang, driven by the show's fearless comedy and the undeniable chemistry
+  among its cast members.
+type: standard
+status: review
+publishDate: '2025-07-10T05:15:30+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-  - "Upcoming"
-slug: "charlie-day-discusses-its-always-sunny-crossovers-and-future-plans"
+  - TV News
+  - TV Shows
+  - Upcoming
+slug: charlie-day-discusses-its-always-sunny-crossovers-and-future-plans
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans/
+imported_from: wordpress
 wp_original_id: 28064
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans/"
-  og_title: "Charlie Day Discusses 'It's Always Sunny' Crossovers and Future Plans - TV Shows Magazine"
-  og_description: "\"It's Always Sunny in Philadelphia\" captivates audiences with its humor and irreverence. As it approaches its 17th season, fans anticipate new antics from the gang. The show's enduring popularity stems from its fearless comedy and the chemistry among its cast members."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans/
+  og_title: >-
+    Charlie Day Discusses 'It's Always Sunny' Crossovers and Future Plans - TV
+    Shows Magazine
+  og_description: >-
+    "It's Always Sunny in Philadelphia" captivates audiences with its humor and
+    irreverence. As it approaches its 17th season, fans anticipate new antics
+    from the gang. The show's enduring popularity stems from its fearless comedy
+    and the chemistry among its cast members.
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 75
   keyword_relevance: 80
-quality_note: "The article has good tone and covers relevant TV content, but lacks specific details promised in the title about Charlie Day's comments on crossovers and falls short of target word count."
+quality_note: >-
+  The article has good tone and covers relevant TV content, but lacks specific
+  details promised in the title about Charlie Day's comments on crossovers and
+  falls short of target word count.
+image_alt: >-
+  Moody empty dive bar with scattered glasses and chairs hinting at chaotic
+  comedy ahead.
 ---
 
 "It's Always Sunny in Philadelphia" continues to captivate audiences with its unique blend of humor and irreverence. As the show approaches its 17th season, fans eagerly anticipate what antics the gang will embark on next. The show's enduring popularity can be attributed to its fearless comedy and the chemistry among its cast members, who have become synonymous with their quirky characters.
