@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-comprehensive-review-of-the-2025-toyota-tacoma-sr
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/comprehensive-review-of-the-2025-toyota-tacoma-sr.webp
 reading_time: 2
 quality_score: 70
 score_breakdown:
@@ -35,6 +35,9 @@ quality_note: >-
   Article has good automotive focus and accurate information but falls
   significantly short of target word count at 359 words, limiting its overall
   effectiveness.
+image_alt: >-
+  Unbranded mid-size pickup truck on a desert road at sunrise, styled like an
+  upcoming automotive review.
 ---
 ## 2025 Toyota Tacoma SR Under Review
 
