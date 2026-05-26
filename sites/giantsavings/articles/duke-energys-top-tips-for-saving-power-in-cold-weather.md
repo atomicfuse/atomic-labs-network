@@ -1,24 +1,34 @@
 ---
-title: "Duke Energy’s Top Tips for Saving Power in Cold Weather"
-description: "As temperatures drop, conserving energy becomes crucial to ensure reliable service and sustainability. Duke Energy advises simple practices like adjusting thermostats and sealing drafts to reduce consumption, lower bills, and support environmental goals during cold spells."
-type: "standard"
-status: "published"
-publishDate: "2026-02-02T11:38:41+00:00"
-author: "Tony Anderson"
+title: Duke Energy’s Top Tips for Saving Power in Cold Weather
+description: >-
+  As temperatures drop, conserving energy becomes crucial to ensure reliable
+  service and sustainability. Duke Energy advises simple practices like
+  adjusting thermostats and sealing drafts to reduce consumption, lower bills,
+  and support environmental goals during cold spells.
+type: standard
+status: published
+publishDate: '2026-02-02T11:38:41+00:00'
+author: Tony Anderson
 tags:
-  - "Saving Tips"
-slug: "duke-energys-top-tips-for-saving-power-in-cold-weather"
+  - Saving Tips
+slug: duke-energys-top-tips-for-saving-power-in-cold-weather
 reading_time: 3
-source_url: "https://giant-savings.co/duke-energys-top-tips-for-saving-power-in-cold-weather/"
-imported_from: "wordpress"
+source_url: >-
+  https://giant-savings.co/duke-energys-top-tips-for-saving-power-in-cold-weather/
+imported_from: wordpress
 wp_original_id: 411
-featuredImage: "/assets/images/giantsavings-general-article.webp"
+featuredImage: /assets/images/duke-energys-top-tips-for-saving-power-in-cold-weather.webp
 seo:
-  canonical: "https://giant-savings.co/duke-energys-top-tips-for-saving-power-in-cold-weather/"
-  og_title: "Duke Energy's Top Tips for Saving Power in Cold Weather - Giant Savings"
-  og_description: "As temperatures drop, conserving energy becomes crucial to ensure reliable service and sustainability. Duke Energy advises simple practices like adjusting thermostats and sealing drafts to reduce consumption, lower bills, and support environmental goals during cold spells."
-  og_image: "https://giant-savings.co/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://giant-savings.co/duke-energys-top-tips-for-saving-power-in-cold-weather/
+  og_title: Duke Energy's Top Tips for Saving Power in Cold Weather - Giant Savings
+  og_description: >-
+    As temperatures drop, conserving energy becomes crucial to ensure reliable
+    service and sustainability. Duke Energy advises simple practices like
+    adjusting thermostats and sealing drafts to reduce consumption, lower bills,
+    and support environmental goals during cold spells.
+  og_image: 'https://giant-savings.co/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,14 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate information, but falls short on word count (517 vs 800-1200 target) and could benefit from stronger SEO optimization including meta description length and more strategic keyword placement."
+quality_note: >-
+  Well-written article with good tone and accurate information, but falls short
+  on word count (517 vs 800-1200 target) and could benefit from stronger SEO
+  optimization including meta description length and more strategic keyword
+  placement.
+image_alt: >-
+  Smart thermostat in a warm winter living room with frosted windows and
+  energy-saving details
 ---
 
 As temperatures drop, households and businesses face the challenge of keeping energy usage in check. Duke Energy, a major provider in the region, has emphasized the importance of conserving power during cold spells to ensure reliable service for everyone. By adopting simple yet effective practices, individuals can contribute to a more sustainable energy future while potentially reducing their utility bills.
