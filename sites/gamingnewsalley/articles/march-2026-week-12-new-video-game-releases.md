@@ -1,25 +1,33 @@
 ---
-title: "March 2026 Week 12: New Video Game Releases"
-description: "The gaming landscape is set for an exciting week with diverse video game releases in March 2026, featuring action-packed adventures, immersive role-playing experiences, innovative indie titles, and thrilling sports simulations, offering something for every gaming enthusiast."
-type: "standard"
-status: "review"
-publishDate: "2026-03-16T09:33:19+00:00"
-author: "Taylor Winters"
+title: 'March 2026 Week 12: New Video Game Releases'
+description: >-
+  The gaming landscape is set for an exciting week with diverse video game
+  releases in March 2026, featuring action-packed adventures, immersive
+  role-playing experiences, innovative indie titles, and thrilling sports
+  simulations, offering something for every gaming enthusiast.
+type: standard
+status: review
+publishDate: '2026-03-16T09:33:19+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "march-2026-week-12-new-video-game-releases"
+  - Gaming News
+  - Community
+slug: march-2026-week-12-new-video-game-releases
 reading_time: 3
-source_url: "https://gamingnewsalley.com/march-2026-week-12-new-video-game-releases/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/march-2026-week-12-new-video-game-releases/'
+imported_from: wordpress
 wp_original_id: 42628
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/march-2026-week-12-new-video-game-releases.webp
 seo:
-  canonical: "https://gamingnewsalley.com/march-2026-week-12-new-video-game-releases/"
-  og_title: "March 2026 Week 12: New Video Game Releases - Gaming News Alley"
-  og_description: "The gaming landscape is set for an exciting week with diverse video game releases in March 2026, featuring action-packed adventures, immersive role-playing experiences, innovative indie titles, and thrilling sports simulations, offering something for every gaming enthusiast."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/03/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/march-2026-week-12-new-video-game-releases/'
+  og_title: 'March 2026 Week 12: New Video Game Releases - Gaming News Alley'
+  og_description: >-
+    The gaming landscape is set for an exciting week with diverse video game
+    releases in March 2026, featuring action-packed adventures, immersive
+    role-playing experiences, innovative indie titles, and thrilling sports
+    simulations, offering something for every gaming enthusiast.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/03/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "The article has major issues with fabricated future content and inadequate length, though it maintains good tone and covers relevant gaming topics."
+quality_note: >-
+  The article has major issues with fabricated future content and inadequate
+  length, though it maintains good tone and covers relevant gaming topics.
+image_alt: >-
+  A moody gaming setup surrounded by glowing abstract portals suggesting
+  multiple game genres.
 ---
 
 The gaming landscape is set for an exciting week with a diverse range of video game releases scheduled for March 2026. Enthusiasts of various genres will find something to engage their interests, from action-packed adventures to immersive role-playing experiences. Let's explore what this week has in store for gamers.
