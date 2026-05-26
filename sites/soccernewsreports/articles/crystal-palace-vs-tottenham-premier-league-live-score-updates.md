@@ -1,25 +1,38 @@
 ---
-title: "Crystal Palace vs Tottenham: Premier League Live Score Updates"
-description: "In a thrilling Premier League encounter, Crystal Palace and Tottenham Hotspur showcased strategic prowess and determination, culminating in a hard-fought draw. Both clubs aimed for crucial points, with tactical battles and game-changing substitutions offering fans an exhilarating match."
-type: "standard"
-status: "review"
-publishDate: "2025-12-28T14:01:48+00:00"
-author: "Taylor Winters"
+title: 'Crystal Palace vs Tottenham: Premier League Live Score Updates'
+description: >-
+  In a thrilling Premier League encounter, Crystal Palace and Tottenham Hotspur
+  showcased strategic prowess and determination, culminating in a hard-fought
+  draw. Both clubs aimed for crucial points, with tactical battles and
+  game-changing substitutions offering fans an exhilarating match.
+type: standard
+status: review
+publishDate: '2025-12-28T14:01:48+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Asian Cup"
-slug: "crystal-palace-vs-tottenham-premier-league-live-score-updates"
+  - Latest News
+  - AFC Asian Cup
+slug: crystal-palace-vs-tottenham-premier-league-live-score-updates
 reading_time: 3
-source_url: "https://soccernewsreports.com/crystal-palace-vs-tottenham-premier-league-live-score-updates/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/crystal-palace-vs-tottenham-premier-league-live-score-updates/
+imported_from: wordpress
 wp_original_id: 37952
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/crystal-palace-vs-tottenham-premier-league-live-score-updates.webp
 seo:
-  canonical: "https://soccernewsreports.com/crystal-palace-vs-tottenham-premier-league-live-score-updates/"
-  og_title: "Crystal Palace vs Tottenham: Premier League Live Score Updates - Soccer News Reports"
-  og_description: "In a thrilling Premier League encounter, Crystal Palace and Tottenham Hotspur showcased strategic prowess and determination, culminating in a hard-fought draw. Both clubs aimed for crucial points, with tactical battles and game-changing substitutions offering fans an exhilarating match."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/crystal-palace-vs-tottenham-premier-league-live-score-updates/
+  og_title: >-
+    Crystal Palace vs Tottenham: Premier League Live Score Updates - Soccer News
+    Reports
+  og_description: >-
+    In a thrilling Premier League encounter, Crystal Palace and Tottenham
+    Hotspur showcased strategic prowess and determination, culminating in a
+    hard-fought draw. Both clubs aimed for crucial points, with tactical battles
+    and game-changing substitutions offering fans an exhilarating match.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 80
-quality_note: "Well-written match report with engaging tone but lacks specific factual details and falls short of target word count."
+quality_note: >-
+  Well-written match report with engaging tone but lacks specific factual
+  details and falls short of target word count.
+image_alt: >-
+  Footballers battle for the ball under stadium floodlights during a tense
+  Premier League-style match.
 ---
 
 In a thrilling Premier League encounter, Crystal Palace faced off against Tottenham Hotspur, showcasing the intense dynamics of English top-flight football. Both teams were eager to secure crucial points as the race for league standings heated up. This match was more than just a game; it was a display of strategic prowess and sheer determination.
