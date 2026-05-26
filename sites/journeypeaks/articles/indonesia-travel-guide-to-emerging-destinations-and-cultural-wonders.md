@@ -1,26 +1,38 @@
 ---
-title: "Indonesia Travel Guide to Emerging Destinations and Cultural Wonders"
-description: "Indonesia beyond Bali offers volcanic lakes, ancient temples, coral-rich seas, wildlife encounters, and living traditions, revealing a diverse archipelago filled with culture, adventure, and unforgettable island landscapes."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T08:50:25+00:00"
-author: "Taylor Winters"
+title: Indonesia Travel Guide to Emerging Destinations and Cultural Wonders
+description: >-
+  Indonesia beyond Bali offers volcanic lakes, ancient temples, coral-rich seas,
+  wildlife encounters, and living traditions, revealing a diverse archipelago
+  filled with culture, adventure, and unforgettable island landscapes.
+type: standard
+status: published
+publishDate: '2026-05-07T08:50:25+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "indonesia-travel-guide-to-emerging-destinations-and-cultural-wonders"
+  - Destinations
+  - Tips
+  - Travel
+slug: indonesia-travel-guide-to-emerging-destinations-and-cultural-wonders
 reading_time: 8
-source_url: "https://journeypeaks.com/indonesia-travel-guide-to-emerging-destinations-and-cultural-wonders/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/indonesia-travel-guide-to-emerging-destinations-and-cultural-wonders/
+imported_from: wordpress
 wp_original_id: 38838
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/indonesia-travel-guide-to-emerging-destinations-and-cultural-wonders.webp
 seo:
-  canonical: "https://journeypeaks.com/indonesia-travel-guide-to-emerging-destinations-and-cultural-wonders/"
-  og_title: "Indonesia Travel Guide to Emerging Destinations and Cultural Wonders - Journey Peaks"
-  og_description: "Indonesia beyond Bali offers volcanic lakes, ancient temples, coral-rich seas, wildlife encounters, and living traditions, revealing a diverse archipelago filled with culture, adventure, and unforgettable island landscapes."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/indonesia-travel-guide-to-emerging-destinations-and-cultural-wonders/
+  og_title: >-
+    Indonesia Travel Guide to Emerging Destinations and Cultural Wonders -
+    Journey Peaks
+  og_description: >-
+    Indonesia beyond Bali offers volcanic lakes, ancient temples, coral-rich
+    seas, wildlife encounters, and living traditions, revealing a diverse
+    archipelago filled with culture, adventure, and unforgettable island
+    landscapes.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -28,7 +40,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Well-structured travel guide with excellent keyword coverage and engaging tone, though the title could be more compelling for SEO optimization."
+quality_note: >-
+  Well-structured travel guide with excellent keyword coverage and engaging
+  tone, though the title could be more compelling for SEO optimization.
+image_alt: >-
+  Golden Indonesian landscape with volcanic lake, temple silhouettes, coral sea,
+  and a lone figure on a ridge
 ---
 
 Bali remains one of Asia's most beloved escapes, but Indonesia's travel story stretches far beyond its famous beaches and rice terraces. Across this vast archipelago, visitors can find volcanic lakes, ancient temples, coral-rich seas, tribal villages, wildlife encounters, and fast-growing resort regions that reveal the country's remarkable diversity.
