@@ -1,23 +1,41 @@
 ---
-title: "Matin Kim: Rising K-Fashion Brand Captivates Japan’s Style Scene"
-description: "AI-powered virtual fitting rooms are transforming online clothing shopping by allowing customers to visualize garments on a digital avatar of themselves, reducing return rates and enhancing personalization. This innovation blends convenience with a highly personalized experience, benefiting both consumers and retailers."
-type: "standard"
-status: "published"
-publishDate: "2025-05-19T04:31:19+00:00"
-author: "Taylor Winters"
+title: 'Matin Kim: Rising K-Fashion Brand Captivates Japan’s Style Scene'
+description: >-
+  AI-powered virtual fitting rooms are transforming online clothing shopping by
+  allowing customers to visualize garments on a digital avatar of themselves,
+  reducing return rates and enhancing personalization. This innovation blends
+  convenience with a highly personalized experience, benefiting both consumers
+  and retailers.
+type: standard
+status: published
+publishDate: '2025-05-19T04:31:19+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "matin-kim-rising-k-fashion-brand-captivates-japans-style-scene"
+  - Fashion
+slug: matin-kim-rising-k-fashion-brand-captivates-japans-style-scene
 reading_time: 3
-source_url: "https://fashionnewsbee.com/matin-kim-rising-k-fashion-brand-captivates-japans-style-scene/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/matin-kim-rising-k-fashion-brand-captivates-japans-style-scene/
+imported_from: wordpress
 wp_original_id: 31520
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/matin-kim-rising-k-fashion-brand-captivates-japans-style-scene.webp
 seo:
-  canonical: "https://fashionnewsbee.com/matin-kim-rising-k-fashion-brand-captivates-japans-style-scene/"
-  og_title: "Matin Kim: Rising K-Fashion Brand Captivates Japan's Style Scene - Fashion News Bee"
-  og_description: "AI-powered virtual fitting rooms are transforming online clothing shopping by allowing customers to visualize garments on a digital avatar of themselves, reducing return rates and enhancing personalization. This innovation blends convenience with a highly personalized experience, benefiting both consumers and retailers."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/matin-kim-rising-k-fashion-brand-captivates-japans-style-scene/
+  og_title: >-
+    Matin Kim: Rising K-Fashion Brand Captivates Japan's Style Scene - Fashion
+    News Bee
+  og_description: >-
+    AI-powered virtual fitting rooms are transforming online clothing shopping
+    by allowing customers to visualize garments on a digital avatar of
+    themselves, reducing return rates and enhancing personalization. This
+    innovation blends convenience with a highly personalized experience,
+    benefiting both consumers and retailers.
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish shopper beside a holographic fitting avatar in a modern digital
+  fashion boutique
 ---
 
 In recent years, the landscape of retail has seen dramatic shifts, driven by technological advancements and changing consumer behaviors. Now, a new innovation is poised to transform the industry once again. The introduction of AI-powered virtual fitting rooms is set to revolutionize how consumers shop for clothes online, blending convenience with a personalized shopping experience.
