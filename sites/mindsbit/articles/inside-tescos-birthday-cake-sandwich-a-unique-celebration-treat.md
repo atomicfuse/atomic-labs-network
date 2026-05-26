@@ -1,25 +1,38 @@
 ---
-title: "Inside Tesco’s Birthday Cake Sandwich: A Unique Celebration Treat"
-description: "The financial services industry is rapidly transforming due to regulatory changes and technological advancements, with digital banking reshaping customer interactions and prompting traditional banks to invest in technology to remain competitive."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T06:32:18+00:00"
-author: "Lena Ashwood"
+title: 'Inside Tesco’s Birthday Cake Sandwich: A Unique Celebration Treat'
+description: >-
+  The financial services industry is rapidly transforming due to regulatory
+  changes and technological advancements, with digital banking reshaping
+  customer interactions and prompting traditional banks to invest in technology
+  to remain competitive.
+type: standard
+status: review
+publishDate: '2025-08-07T06:32:18+00:00'
+author: Lena Ashwood
 tags:
-  - "Finance"
-  - "Innovation"
-  - "Tech"
-slug: "inside-tescos-birthday-cake-sandwich-a-unique-celebration-treat"
+  - Finance
+  - Innovation
+  - Tech
+slug: inside-tescos-birthday-cake-sandwich-a-unique-celebration-treat
 reading_time: 3
-source_url: "https://mindsbit.com/inside-tescos-birthday-cake-sandwich-a-unique-celebration-treat/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/inside-tescos-birthday-cake-sandwich-a-unique-celebration-treat/
+imported_from: wordpress
 wp_original_id: 390
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/inside-tescos-birthday-cake-sandwich-a-unique-celebration-treat.webp
 seo:
-  canonical: "https://mindsbit.com/inside-tescos-birthday-cake-sandwich-a-unique-celebration-treat/"
-  og_title: "Inside Tesco's Birthday Cake Sandwich: A Unique Celebration Treat - Minds bit"
-  og_description: "The financial services industry is rapidly transforming due to regulatory changes and tech advancements. Digital banking is reshaping customer interactions, prompting traditional banks to invest in technology to offer seamless experiences and maintain competitiveness in a changing landscape."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/inside-tescos-birthday-cake-sandwich-a-unique-celebration-treat/
+  og_title: >-
+    Inside Tesco's Birthday Cake Sandwich: A Unique Celebration Treat - Minds
+    bit
+  og_description: >-
+    The financial services industry is rapidly transforming due to regulatory
+    changes and tech advancements. Digital banking is reshaping customer
+    interactions, prompting traditional banks to invest in technology to offer
+    seamless experiences and maintain competitiveness in a changing landscape.
+  twitter_card: summary_large_image
 quality_score: 53
 score_breakdown:
   seo_quality: 25
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "Major disconnect between title (birthday cake sandwich) and content (financial services), creating severe SEO and relevance issues despite decent writing quality."
+quality_note: >-
+  Major disconnect between title (birthday cake sandwich) and content (financial
+  services), creating severe SEO and relevance issues despite decent writing
+  quality.
+image_alt: >-
+  A playful birthday-inspired dessert sandwich with sprinkles and candles on a
+  pastel tabletop
 ---
 
 The digital transformation of the financial services industry is accelerating, driven by a combination of regulatory changes and technological advancements. Financial institutions are now more focused than ever on innovation to stay competitive and meet evolving customer expectations.
