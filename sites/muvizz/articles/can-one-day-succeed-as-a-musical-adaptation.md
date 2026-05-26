@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-can-one-day-succeed-as-a-musical-adaptation
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/can-one-day-succeed-as-a-musical-adaptation.webp
 reading_time: 3
 quality_score: 40
 score_breakdown:
@@ -35,6 +35,9 @@ quality_note: >-
   The article lacks substance with vague reporting, no concrete information,
   repetitive content, and appears to contain speculative claims presented as
   facts.
+image_alt: >-
+  Empty theater stage with two chairs, a piano, and blank sheet music under a
+  single spotlight
 ---
 ## Musical Adaptation Under Consideration
 
