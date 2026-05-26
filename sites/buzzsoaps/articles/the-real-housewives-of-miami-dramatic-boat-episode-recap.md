@@ -1,24 +1,34 @@
 ---
-title: "The Real Housewives of Miami: Dramatic Boat Episode Recap"
-description: "The Real Housewives of Miami Season 7 continues with emotional confrontations, rekindled friendships, and Miami's opulent lifestyle, revealing complex relationships and the power of forgiveness set against a backdrop of glamorous fashion and luxurious settings."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T05:35:26+00:00"
-author: "Becca Roberts"
+title: 'The Real Housewives of Miami: Dramatic Boat Episode Recap'
+description: >-
+  The Real Housewives of Miami Season 7 continues with emotional confrontations,
+  rekindled friendships, and Miami's opulent lifestyle, revealing complex
+  relationships and the power of forgiveness set against a backdrop of glamorous
+  fashion and luxurious settings.
+type: standard
+status: review
+publishDate: '2025-07-31T05:35:26+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "the-real-housewives-of-miami-dramatic-boat-episode-recap"
+  - Watch
+slug: the-real-housewives-of-miami-dramatic-boat-episode-recap
 reading_time: 3
-source_url: "https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-boat-episode-recap/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-boat-episode-recap/
+imported_from: wordpress
 wp_original_id: 456
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/the-real-housewives-of-miami-dramatic-boat-episode-recap.webp
 seo:
-  canonical: "https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-boat-episode-recap/"
-  og_title: "The Real Housewives of Miami: Dramatic Boat Episode Recap - BuzzSoaps!"
-  og_description: "The Real Housewives of Miami Season 7 continues with emotional confrontations, rekindled friendships, and Miami's opulent lifestyle. The episode reveals complex relationships and the power of forgiveness, set against a backdrop of glamorous fashion and luxurious settings."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/07/make_file-8.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-boat-episode-recap/
+  og_title: 'The Real Housewives of Miami: Dramatic Boat Episode Recap - BuzzSoaps!'
+  og_description: >-
+    The Real Housewives of Miami Season 7 continues with emotional
+    confrontations, rekindled friendships, and Miami's opulent lifestyle. The
+    episode reveals complex relationships and the power of forgiveness, set
+    against a backdrop of glamorous fashion and luxurious settings.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/07/make_file-8.png'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,10 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 75
   keyword_relevance: 80
-quality_note: "Well-written entertainment recap with good tone match but significantly under target word count and lacks specific SEO optimization."
+quality_note: >-
+  Well-written entertainment recap with good tone match but significantly under
+  target word count and lacks specific SEO optimization.
+image_alt: 'Glamorous women on a Miami yacht at sunset with tense, elegant body language.'
 ---
 
 The vibrant and dramatic world of "The Real Housewives of Miami" continues to captivate viewers as the seventh season unfolds. This particular episode offers a mix of emotional confrontations, rekindled friendships, and the ever-present allure of Miami's opulent lifestyle. As tensions rise and relationships are tested, the Housewives navigate personal challenges while maintaining their glamorous personas.
