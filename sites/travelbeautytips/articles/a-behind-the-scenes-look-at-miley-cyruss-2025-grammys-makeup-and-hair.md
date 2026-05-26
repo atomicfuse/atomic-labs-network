@@ -1,25 +1,40 @@
 ---
-title: "A Behind-the-Scenes Look at Miley Cyrus’s 2025 Grammys Makeup and Hair"
-description: "A behind-the-scenes breakdown of Miley Cyrus's stunning 2025 Grammys beauty look, including the exact products and techniques used by her makeup artist James Kaliardos and hairstylist Bob Recine to achieve her sultry cat eye and sleek, straight hair."
-type: "standard"
-status: "review"
-publishDate: "2025-02-03T11:01:36+00:00"
-author: "admin"
+title: A Behind-the-Scenes Look at Miley Cyrus’s 2025 Grammys Makeup and Hair
+description: >-
+  A behind-the-scenes breakdown of Miley Cyrus's stunning 2025 Grammys beauty
+  look, including the exact products and techniques used by her makeup artist
+  James Kaliardos and hairstylist Bob Recine to achieve her sultry cat eye and
+  sleek, straight hair.
+type: standard
+status: review
+publishDate: '2025-02-03T11:01:36+00:00'
+author: admin
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "a-behind-the-scenes-look-at-miley-cyruss-2025-grammys-makeup-and-hair"
+  - Travel Tips
+  - Beauty
+slug: a-behind-the-scenes-look-at-miley-cyruss-2025-grammys-makeup-and-hair
 reading_time: 4
-source_url: "https://travelbeautytips.com/a-behind-the-scenes-look-at-miley-cyruss-2025-grammys-makeup-and-hair/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/a-behind-the-scenes-look-at-miley-cyruss-2025-grammys-makeup-and-hair/
+imported_from: wordpress
 wp_original_id: 35703
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/a-behind-the-scenes-look-at-miley-cyruss-2025-grammys-makeup-and-hair.webp
 seo:
-  canonical: "https://travelbeautytips.com/a-behind-the-scenes-look-at-miley-cyruss-2025-grammys-makeup-and-hair/"
-  og_title: "A Behind-the-Scenes Look at Miley Cyrus’s 2025 Grammys Makeup and Hair - Travel Beauty Tips"
-  og_description: "Miley Cyrus has been stunning the world with dark gowns and dramatic beauty looks this year, and tonight was no different. The singer stepped onto the 2025 Grammys red carpet in a black halter dress designed by Saint Laurent, accompanied by a sultry cat eye and stick-straight blunt bangs. By the time she got to [&hellip;]"
-  og_image: "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2197310352-67a020fbcfe0b.jpg?crop=1.00xw:0.834xh;0,0.0556xh&amp;resize=980:*"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/a-behind-the-scenes-look-at-miley-cyruss-2025-grammys-makeup-and-hair/
+  og_title: >-
+    A Behind-the-Scenes Look at Miley Cyrus’s 2025 Grammys Makeup and Hair -
+    Travel Beauty Tips
+  og_description: >-
+    Miley Cyrus has been stunning the world with dark gowns and dramatic beauty
+    looks this year, and tonight was no different. The singer stepped onto the
+    2025 Grammys red carpet in a black halter dress designed by Saint Laurent,
+    accompanied by a sultry cat eye and stick-straight blunt bangs. By the time
+    she got to [&hellip;]
+  og_image: >-
+    https://hips.hearstapps.com/hmg-prod/images/gettyimages-2197310352-67a020fbcfe0b.jpg?crop=1.00xw:0.834xh;0,0.0556xh&amp;resize=980:*
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 40
   keyword_relevance: 60
-quality_note: "While the beauty content is detailed and engaging, the article contains significant factual issues including references to a 2025 Grammys event and non-existent song collaborations that severely undermine credibility."
+quality_note: >-
+  While the beauty content is detailed and engaging, the article contains
+  significant factual issues including references to a 2025 Grammys event and
+  non-existent song collaborations that severely undermine credibility.
+image_alt: >-
+  Backstage vanity scene with sleek hair, cat-eye makeup, brushes, and soft
+  red-carpet glamour.
 ---
 
 Miley Cyrus has been stunning the world with dark gowns and dramatic beauty looks this year, and tonight was no different. The singer stepped onto the 2025 Grammys red carpet in a black halter dress designed by Saint Laurent, accompanied by a sultry cat eye and stick-straight blunt bangs. By the time she got to the ceremony, she had already won the Grammy for Best Country Duo/Group Performance for "II Most Wanted," her _Cowboy Carter_ duet with Beyoncé. And her makeup and hair definitely deserved an award as one of the best beauty looks of the night.
