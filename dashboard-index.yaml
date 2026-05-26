@@ -500,22 +500,23 @@ sites:
   - domain: mindsbit
     company: ATL
     vertical: Technology & Computing
-    status: Staging
+    status: Live
     site_id: "9619803022122"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-26T08:52:06.403Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: d0b77cca61b51acdf4828c12a9f0b19e
     staging_branch: staging/mindsbit
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=mindsbit
     saved_previews: null
-    custom_domain: null
+    custom_domain: mindsbit.com
+    worker_pending_dns: false
   - domain: decoratingtricks
     company: null
     vertical: Home & Garden
