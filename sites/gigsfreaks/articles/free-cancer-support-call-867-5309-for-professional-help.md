@@ -1,24 +1,34 @@
 ---
-title: "Free Cancer Support: Call 867-5309 for Professional Help"
-description: "The iconic phone number 867-5309 is now a free cancer support hotline, offering emotional and informational assistance. This initiative uses its cultural recognition to provide easy access to comprehensive care for cancer patients and their families."
-type: "standard"
-status: "review"
-publishDate: "2026-03-19T11:29:26+00:00"
-author: "Nico Harper"
+title: 'Free Cancer Support: Call 867-5309 for Professional Help'
+description: >-
+  The iconic phone number 867-5309 is now a free cancer support hotline,
+  offering emotional and informational assistance. This initiative uses its
+  cultural recognition to provide easy access to comprehensive care for cancer
+  patients and their families.
+type: standard
+status: review
+publishDate: '2026-03-19T11:29:26+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "free-cancer-support-call-867-5309-for-professional-help"
+  - Good Vibes
+slug: free-cancer-support-call-867-5309-for-professional-help
 reading_time: 3
-source_url: "https://gigsfreaks.com/free-cancer-support-call-867-5309-for-professional-help/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/free-cancer-support-call-867-5309-for-professional-help/
+imported_from: wordpress
 wp_original_id: 1040
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/free-cancer-support-call-867-5309-for-professional-help.webp
 seo:
-  canonical: "https://gigsfreaks.com/free-cancer-support-call-867-5309-for-professional-help/"
-  og_title: "Free Cancer Support: Call 867-5309 for Professional Help - GigsFreaks"
-  og_description: "The iconic phone number 867-5309 is now a free cancer support hotline, offering emotional and informational assistance. This initiative uses its cultural recognition to provide easy access to comprehensive care for cancer patients and their families."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/03/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/free-cancer-support-call-867-5309-for-professional-help/
+  og_title: 'Free Cancer Support: Call 867-5309 for Professional Help - GigsFreaks'
+  og_description: >-
+    The iconic phone number 867-5309 is now a free cancer support hotline,
+    offering emotional and informational assistance. This initiative uses its
+    cultural recognition to provide easy access to comprehensive care for cancer
+    patients and their families.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/03/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 30
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 0
   keyword_relevance: 15
-quality_note: "The article contains completely fabricated information about 867-5309 being a cancer hotline, which is factually inaccurate and potentially harmful misinformation."
+quality_note: >-
+  The article contains completely fabricated information about 867-5309 being a
+  cancer hotline, which is factually inaccurate and potentially harmful
+  misinformation.
+image_alt: >-
+  Softly lit cancer support desk with a phone, lavender ribbon, flowers, and a
+  caring professional in the background.
 ---
 
 Connecting with professional cancer support has become more accessible than ever. In an innovative move, the iconic phone number 867-5309, famously known from the 1980s hit song, is now repurposed to connect individuals with a free cancer support hotline. This initiative aims to provide invaluable assistance to those affected by cancer, offering them the emotional and informational support they need.
