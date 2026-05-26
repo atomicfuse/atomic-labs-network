@@ -1,24 +1,37 @@
 ---
-title: "AAA still exists, and they’ve made a new deal with ChargePoint"
-description: "AAA has partnered with ChargePoint to offer preferred pricing on Level 2 and Level 3 EV charging stations for its 60+ million members in the US and Canada."
-type: "standard"
-status: "review"
-publishDate: "2025-02-02T14:59:09+00:00"
-author: "admin"
+title: 'AAA still exists, and they’ve made a new deal with ChargePoint'
+description: >-
+  AAA has partnered with ChargePoint to offer preferred pricing on Level 2 and
+  Level 3 EV charging stations for its 60+ million members in the US and Canada.
+type: standard
+status: review
+publishDate: '2025-02-02T14:59:09+00:00'
+author: admin
 tags:
-  - "Electric Cars"
-slug: "aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint"
+  - Electric Cars
+slug: aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint
 reading_time: 2
-source_url: "https://carsnewsmag.com/aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint/
+imported_from: wordpress
 wp_original_id: 38301
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint.webp
 seo:
-  canonical: "https://carsnewsmag.com/aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint/"
-  og_title: "AAA still exists, and they’ve made a new deal with ChargePoint - Cars News Magazine"
-  og_description: "Best known for offering roadside assistance plans and TripTik travel maps in the days before GPS, the American Automobile Association&#xA0;(AAA) is still popular, claiming more than 60 million members in the US and Canada &#x2013;&#xA0;and now, those members will be able to get preferred pricing at ChargePoint stations. Established in 1902 by nine motor clubs [&hellip;]"
-  og_image: "https://electrek.co/wp-content/uploads/sites/3/2025/02/aaa-chargepoint-fast-charger-dc-usa-cropped.jpg?quality=82&amp;strip=all&amp;w=1600"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/aaa-still-exists-and-theyve-made-a-new-deal-with-chargepoint/
+  og_title: >-
+    AAA still exists, and they’ve made a new deal with ChargePoint - Cars News
+    Magazine
+  og_description: >-
+    Best known for offering roadside assistance plans and TripTik travel maps in
+    the days before GPS, the American Automobile Association&#xA0;(AAA) is still
+    popular, claiming more than 60 million members in the US and Canada
+    &#x2013;&#xA0;and now, those members will be able to get preferred pricing
+    at ChargePoint stations. Established in 1902 by nine motor clubs [&hellip;]
+  og_image: >-
+    https://electrek.co/wp-content/uploads/sites/3/2025/02/aaa-chargepoint-fast-charger-dc-usa-cropped.jpg?quality=82&amp;strip=all&amp;w=1600
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Engaging tone and strong keyword relevance for electric cars content, but significantly too short at 339 words compared to the 800-1200 word target range."
+quality_note: >-
+  Engaging tone and strong keyword relevance for electric cars content, but
+  significantly too short at 339 words compared to the 800-1200 word target
+  range.
+image_alt: >-
+  Unbranded roadside assistance vehicle near an electric car charging at a
+  modern highway station.
 ---
 
 Best known for offering roadside assistance plans and TripTik travel maps in the days before GPS, the American Automobile Association (AAA) is still popular, claiming more than 60 million members in the US and Canada – and now, those members will be able to get preferred pricing at ChargePoint stations.
