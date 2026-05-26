@@ -1,26 +1,42 @@
 ---
-title: "Understanding Safety for Thailand Travel: Tourist Guide Post-Myanmar Earthquake"
-description: "Recently, an earthquake originating from Myanmar caused mild panic in Bangkok, Thailand, raising questions about safety and potential travel disruptions. Despite the seismic activity, Bangkok's primary airport continued operations normally due to stringent building codes and robust safety measures."
-type: "standard"
-status: "review"
-publishDate: "2025-03-31T12:12:04+00:00"
-author: "Taylor Winters"
+title: >-
+  Understanding Safety for Thailand Travel: Tourist Guide Post-Myanmar
+  Earthquake
+description: >-
+  Recently, an earthquake originating from Myanmar caused mild panic in Bangkok,
+  Thailand, raising questions about safety and potential travel disruptions.
+  Despite the seismic activity, Bangkok's primary airport continued operations
+  normally due to stringent building codes and robust safety measures.
+type: standard
+status: review
+publishDate: '2025-03-31T12:12:04+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "News"
-  - "Travel"
-slug: "understanding-safety-for-thailand-travel-tourist-guide-post-myanmar-earthquake"
+  - Advice
+  - News
+  - Travel
+slug: understanding-safety-for-thailand-travel-tourist-guide-post-myanmar-earthquake
 reading_time: 2
-source_url: "https://travelclearly.com/understanding-safety-for-thailand-travel-tourist-guide-post-myanmar-earthquake/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/understanding-safety-for-thailand-travel-tourist-guide-post-myanmar-earthquake/
+imported_from: wordpress
 wp_original_id: 36458
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: >-
+  /assets/images/understanding-safety-for-thailand-travel-tourist-guide-post-myanmar-earthquake.webp
 seo:
-  canonical: "https://travelclearly.com/understanding-safety-for-thailand-travel-tourist-guide-post-myanmar-earthquake/"
-  og_title: "Understanding Safety for Thailand Travel: Tourist Guide Post-Myanmar Earthquake - Travel Clearly"
-  og_description: "Recently, an earthquake originating from Myanmar caused mild panic in Bangkok, Thailand, raising questions about safety and potential travel disruptions. Despite the seismic activity, Bangkok's primary airport continued operations normally due to stringent building codes and robust safety measures."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/understanding-safety-for-thailand-travel-tourist-guide-post-myanmar-earthquake/
+  og_title: >-
+    Understanding Safety for Thailand Travel: Tourist Guide Post-Myanmar
+    Earthquake - Travel Clearly
+  og_description: >-
+    Recently, an earthquake originating from Myanmar caused mild panic in
+    Bangkok, Thailand, raising questions about safety and potential travel
+    disruptions. Despite the seismic activity, Bangkok's primary airport
+    continued operations normally due to stringent building codes and robust
+    safety measures.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2025/03/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -28,7 +44,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written travel safety guide with good tone and keyword relevance, but significantly under target word count and contains some potentially unverified earthquake details."
+quality_note: >-
+  Well-written travel safety guide with good tone and keyword relevance, but
+  significantly under target word count and contains some potentially unverified
+  earthquake details.
+image_alt: >-
+  Calm travelers move through a modern Bangkok airport terminal in soft morning
+  light.
 ---
 
 Recently, the city of Bangkok in Thailand experienced an earthquake that caused a significant stir amongst travelers and locals. The seismic activity, which originated from neighboring Myanmar, is prompting questions about safety and potential travel disruptions. In this post, we'll delve into the details of the incident, its impact on the Bangkok airport, and the safety measures in place for travelers.
