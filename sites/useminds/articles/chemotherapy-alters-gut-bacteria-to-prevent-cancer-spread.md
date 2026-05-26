@@ -1,24 +1,36 @@
 ---
-title: "Chemotherapy Alters Gut Bacteria to Prevent Cancer Spread"
-description: "Recent studies reveal chemotherapy's interaction with gut bacteria, offering insights for optimizing treatment. Gut microbiota changes can influence chemotherapy's effectiveness and patient well-being, with potential strategies including probiotics and dietary adjustments to enhance outcomes and reduce side effects."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:43:24+00:00"
-author: "Nico Ashwood"
+title: Chemotherapy Alters Gut Bacteria to Prevent Cancer Spread
+description: >-
+  Recent studies reveal chemotherapy's interaction with gut bacteria, offering
+  insights for optimizing treatment. Gut microbiota changes can influence
+  chemotherapy's effectiveness and patient well-being, with potential strategies
+  including probiotics and dietary adjustments to enhance outcomes and reduce
+  side effects.
+type: standard
+status: review
+publishDate: '2026-01-22T10:43:24+00:00'
+author: Nico Ashwood
 tags:
-  - "Mind-Blowing Science"
-slug: "chemotherapy-alters-gut-bacteria-to-prevent-cancer-spread"
+  - Mind-Blowing Science
+slug: chemotherapy-alters-gut-bacteria-to-prevent-cancer-spread
 reading_time: 2
-source_url: "https://useminds.com/chemotherapy-alters-gut-bacteria-to-prevent-cancer-spread/"
-imported_from: "wordpress"
+source_url: >-
+  https://useminds.com/chemotherapy-alters-gut-bacteria-to-prevent-cancer-spread/
+imported_from: wordpress
 wp_original_id: 473
-featuredImage: "/assets/images/useminds-general-article.webp"
+featuredImage: /assets/images/chemotherapy-alters-gut-bacteria-to-prevent-cancer-spread.webp
 seo:
-  canonical: "https://useminds.com/chemotherapy-alters-gut-bacteria-to-prevent-cancer-spread/"
-  og_title: "Chemotherapy Alters Gut Bacteria to Prevent Cancer Spread - UseMinds"
-  og_description: "Recent studies reveal chemotherapy's interaction with gut bacteria, offering insights for optimizing treatment. Gut microbiota changes can influence chemotherapy's effectiveness and patient well-being, with potential strategies including probiotics and dietary adjustments to enhance outcomes and reduce side effects."
-  og_image: "https://useminds.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://useminds.com/chemotherapy-alters-gut-bacteria-to-prevent-cancer-spread/
+  og_title: Chemotherapy Alters Gut Bacteria to Prevent Cancer Spread - UseMinds
+  og_description: >-
+    Recent studies reveal chemotherapy's interaction with gut bacteria, offering
+    insights for optimizing treatment. Gut microbiota changes can influence
+    chemotherapy's effectiveness and patient well-being, with potential
+    strategies including probiotics and dietary adjustments to enhance outcomes
+    and reduce side effects.
+  og_image: 'https://useminds.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written scientific content with good tone and accuracy, but significantly too short at 394 words (target ~1000) and needs stronger SEO optimization including better keyword integration."
+quality_note: >-
+  Well-written scientific content with good tone and accuracy, but significantly
+  too short at 394 words (target ~1000) and needs stronger SEO optimization
+  including better keyword integration.
+image_alt: >-
+  Glowing gut microbiome and therapeutic particles within a translucent human
+  torso
 ---
 
 Chemotherapy, a primary treatment for cancer, is known for its effectiveness but also for the side effects it brings. Recent studies have revealed an unexpected interaction between chemotherapy and gut bacteria, offering insights into how the treatment might be optimized for better patient outcomes.
