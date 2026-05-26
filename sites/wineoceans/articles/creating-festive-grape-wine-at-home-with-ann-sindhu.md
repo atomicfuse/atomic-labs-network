@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-creating-festive-grape-wine-at-home-with-ann-sindhu
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/creating-festive-grape-wine-at-home-with-ann-sindhu.webp
 reading_time: 2
 quality_score: 60
 score_breakdown:
@@ -33,6 +33,9 @@ quality_note: >-
   Article covers relevant wine topics well but falls significantly short on
   content length (331 vs 800-1200 target) and lacks specific SEO optimization
   elements like meta description and detailed keyword integration.
+image_alt: >-
+  Homemade grape wine setup with grapes, fermenting jar, and festive kitchen
+  lights
 ---
 ## Home Winemaking Takes Center Stage
 
