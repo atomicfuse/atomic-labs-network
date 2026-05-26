@@ -1,29 +1,33 @@
 ---
-title: "The Ghostly Mystery That Captivated an Entire Town"
-description: "Explore the chilling tale that led a whole town to believe in ghosts, featuring mysterious knocks and a life-threatening illness."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:26:40+00:00"
-author: "Blake Anderson"
+title: The Ghostly Mystery That Captivated an Entire Town
+description: >-
+  Explore the chilling tale that led a whole town to believe in ghosts,
+  featuring mysterious knocks and a life-threatening illness.
+type: standard
+status: review
+publishDate: '2025-12-22T11:26:40+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "the-ghostly-mystery-that-captivated-an-entire-town"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: the-ghostly-mystery-that-captivated-an-entire-town
 reading_time: 2
-source_url: "https://stroylab.com/the-ghostly-mystery-that-captivated-an-entire-town/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/the-ghostly-mystery-that-captivated-an-entire-town/'
+imported_from: wordpress
 wp_original_id: 666
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/the-ghostly-mystery-that-captivated-an-entire-town.webp
 seo:
-  canonical: "https://stroylab.com/the-ghostly-mystery-that-captivated-an-entire-town/"
-  og_title: "The Ghostly Mystery That Captivated an Entire Town - StroyLab"
-  og_description: "Explore the chilling tale that led a whole town to believe in ghosts, featuring mysterious knocks and a life-threatening illness."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/the-ghostly-mystery-that-captivated-an-entire-town/'
+  og_title: The Ghostly Mystery That Captivated an Entire Town - StroyLab
+  og_description: >-
+    Explore the chilling tale that led a whole town to believe in ghosts,
+    featuring mysterious knocks and a life-threatening illness.
+  twitter_card: summary_large_image
 videos:
-  - id: "4214de3a"
-    url: "https://www.youtube.com/watch?v=05gcl7CPxic"
-    position: "after-paragraph-2"
+  - id: 4214de3a
+    url: 'https://www.youtube.com/watch?v=05gcl7CPxic'
+    position: after-paragraph-2
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -31,7 +35,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written mystery content with excellent keyword relevance and tone, but severely penalized by very short length at only 300 words when target is 800-1200 words."
+quality_note: >-
+  Well-written mystery content with excellent keyword relevance and tone, but
+  severely penalized by very short length at only 300 words when target is
+  800-1200 words.
+image_alt: >-
+  Foggy historic town street at night with a slightly open door and eerie
+  lamplight
 ---
 
 In the heart of a small town, a mystery unfolded that would captivate its residents and stir debates about the supernatural. This story revolves around two haunting tales that left an indelible mark on the local community, convincing many to believe in the existence of ghosts.
