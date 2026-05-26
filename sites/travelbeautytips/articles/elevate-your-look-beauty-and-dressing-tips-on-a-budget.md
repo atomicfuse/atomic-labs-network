@@ -1,30 +1,36 @@
 ---
-title: "Elevate Your Look: Beauty and Dressing Tips on a Budget"
-description: "Discover how to look elegant and stylish without breaking the bank using practical beauty and fashion tips."
-type: "standard"
-status: "review"
-publishDate: "2026-02-16T09:41:25+00:00"
-author: "Taylor Winters"
+title: 'Elevate Your Look: Beauty and Dressing Tips on a Budget'
+description: >-
+  Discover how to look elegant and stylish without breaking the bank using
+  practical beauty and fashion tips.
+type: standard
+status: review
+publishDate: '2026-02-16T09:41:25+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Fashion"
-  - "Makeup Hacks"
-slug: "elevate-your-look-beauty-and-dressing-tips-on-a-budget"
+  - Travel Tips
+  - Beauty
+  - Fashion
+  - Makeup Hacks
+slug: elevate-your-look-beauty-and-dressing-tips-on-a-budget
 reading_time: 2
-source_url: "https://travelbeautytips.com/elevate-your-look-beauty-and-dressing-tips-on-a-budget/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/elevate-your-look-beauty-and-dressing-tips-on-a-budget/
+imported_from: wordpress
 wp_original_id: 36148
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/elevate-your-look-beauty-and-dressing-tips-on-a-budget.webp
 seo:
-  canonical: "https://travelbeautytips.com/elevate-your-look-beauty-and-dressing-tips-on-a-budget/"
-  og_title: "Elevate Your Look: Beauty and Dressing Tips on a Budget - Travel Beauty Tips"
-  og_description: "Discover how to look elegant and stylish without breaking the bank using practical beauty and fashion tips."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/elevate-your-look-beauty-and-dressing-tips-on-a-budget/
+  og_title: 'Elevate Your Look: Beauty and Dressing Tips on a Budget - Travel Beauty Tips'
+  og_description: >-
+    Discover how to look elegant and stylish without breaking the bank using
+    practical beauty and fashion tips.
+  twitter_card: summary_large_image
 videos:
-  - id: "8f043e98"
-    url: "https://www.youtube.com/watch?v=AKFqvdzAM4w"
-    position: "after-paragraph-2"
+  - id: 8f043e98
+    url: 'https://www.youtube.com/watch?v=AKFqvdzAM4w'
+    position: after-paragraph-2
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -32,7 +38,11 @@ score_breakdown:
   content_length: 20
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "While the tone and topic alignment are good, the article is severely under the target word count at only 212 words versus the 800-1200 word target, significantly impacting overall quality."
+quality_note: >-
+  While the tone and topic alignment are good, the article is severely under the
+  target word count at only 212 words versus the 800-1200 word target,
+  significantly impacting overall quality.
+image_alt: Elegant affordable wardrobe and beauty essentials arranged in a sunlit room
 ---
 
 Looking expensive and elegant doesn't have to come with a high price tag. In this guide, we share effective beauty hacks and dressing sense ideas that will help you achieve a classy appearance without overspending.
