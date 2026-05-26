@@ -1,28 +1,36 @@
 ---
-title: "How to Make Custom Sublimation Tiles"
-description: "A comprehensive tutorial on how to make custom sublimation tiles, testing three different pressing methods (Nomex pad, green rubber pad, and white silicone mat) to determine which produces the best results."
-type: "standard"
-status: "published"
-publishDate: "2025-01-16T13:06:44+00:00"
-author: "admin"
+title: How to Make Custom Sublimation Tiles
+description: >-
+  A comprehensive tutorial on how to make custom sublimation tiles, testing
+  three different pressing methods (Nomex pad, green rubber pad, and white
+  silicone mat) to determine which produces the best results.
+type: standard
+status: published
+publishDate: '2025-01-16T13:06:44+00:00'
+author: admin
 tags:
-  - "How To"
-  - "Design"
-slug: "how-to-make-custom-sublimation-tiles"
+  - How To
+  - Design
+slug: how-to-make-custom-sublimation-tiles
 reading_time: 8
-source_url: "https://decoratingtricks.com/how-to-make-custom-sublimation-tiles/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/how-to-make-custom-sublimation-tiles/'
+imported_from: wordpress
 wp_original_id: 21187
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/how-to-make-custom-sublimation-tiles.webp
 seo:
-  canonical: "https://decoratingtricks.com/how-to-make-custom-sublimation-tiles/"
-  og_title: "How to Make Custom Sublimation Tiles - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. Are you ready to learn how [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingtricks.com/how-to-make-custom-sublimation-tiles/'
+  og_title: How to Make Custom Sublimation Tiles - Decorating Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. Are you ready to learn how
+    [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "382f4c34"
-    url: "https://www.youtube.com/watch?v=2ZwdFHwlCJw"
-    position: "after-paragraph-7"
+  - id: 382f4c34
+    url: 'https://www.youtube.com/watch?v=2ZwdFHwlCJw'
+    position: after-paragraph-7
 quality_score: 91
 score_breakdown:
   seo_quality: 85
@@ -30,7 +38,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-structured tutorial with excellent tone and comprehensive testing methodology, though could benefit from a stronger SEO title and more keyword integration in headings."
+quality_note: >-
+  Well-structured tutorial with excellent tone and comprehensive testing
+  methodology, though could benefit from a stronger SEO title and more keyword
+  integration in headings.
+image_alt: >-
+  Custom ceramic tiles and pressing pads arranged on a bright home craft
+  workspace
 ---
 
 Are you ready to learn how to create custom sublimation tiles that you can use in your home? I'm going to test a few different ways of sublimating tiles so we can see which method works best.
