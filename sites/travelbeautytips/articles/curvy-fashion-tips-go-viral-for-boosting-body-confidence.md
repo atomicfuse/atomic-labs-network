@@ -1,25 +1,35 @@
 ---
-title: "Curvy Fashion Tips Go Viral for Boosting Body Confidence"
-description: "Des conseils mode décomplexés pour silhouettes rondes, entre proportions, couleurs, confort et audace, afin de s'habiller pour soi sans chercher à disparaître."
-type: "standard"
-status: "review"
-publishDate: "2026-05-18T08:38:42+00:00"
-author: "Taylor Winters"
+title: Curvy Fashion Tips Go Viral for Boosting Body Confidence
+description: >-
+  Des conseils mode décomplexés pour silhouettes rondes, entre proportions,
+  couleurs, confort et audace, afin de s'habiller pour soi sans chercher à
+  disparaître.
+type: standard
+status: review
+publishDate: '2026-05-18T08:38:42+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Fashion"
-slug: "curvy-fashion-tips-go-viral-for-boosting-body-confidence"
+  - Travel Tips
+  - Fashion
+slug: curvy-fashion-tips-go-viral-for-boosting-body-confidence
 reading_time: 8
-source_url: "https://travelbeautytips.com/curvy-fashion-tips-go-viral-for-boosting-body-confidence/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/curvy-fashion-tips-go-viral-for-boosting-body-confidence/
+imported_from: wordpress
 wp_original_id: 36181
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/curvy-fashion-tips-go-viral-for-boosting-body-confidence.webp
 seo:
-  canonical: "https://travelbeautytips.com/curvy-fashion-tips-go-viral-for-boosting-body-confidence/"
-  og_title: "Curvy Fashion Tips Go Viral for Boosting Body Confidence - Travel Beauty Tips"
-  og_description: "Des conseils mode décomplexés pour silhouettes rondes, entre proportions, couleurs, confort et audace, afin de s’habiller pour soi sans chercher à disparaître."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/curvy-fashion-tips-go-viral-for-boosting-body-confidence/
+  og_title: >-
+    Curvy Fashion Tips Go Viral for Boosting Body Confidence - Travel Beauty
+    Tips
+  og_description: >-
+    Des conseils mode décomplexés pour silhouettes rondes, entre proportions,
+    couleurs, confort et audace, afin de s’habiller pour soi sans chercher à
+    disparaître.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 25
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 45
-quality_note: "Well-written fashion content with excellent tone and length, but has major SEO issues with French meta description and poor keyword alignment with site's travel/beauty focus."
+quality_note: >-
+  Well-written fashion content with excellent tone and length, but has major SEO
+  issues with French meta description and poor keyword alignment with site's
+  travel/beauty focus.
+image_alt: >-
+  Curvy people in bold modern outfits pose confidently in a bright fashion
+  studio.
 ---
 
 Sur les réseaux sociaux, les conseils mode pensés pour les silhouettes rondes prennent enfin la place qu'ils méritent. Des créatrices comme Rachel Windley Speckman rappellent une évidence trop longtemps ignorée : avoir un corps gros ne retire ni le style, ni le charme, ni le droit de se sentir désirable. Son approche séduit parce qu'elle ne cherche pas à camoufler les courbes à tout prix. Elle invite plutôt à comprendre les vêtements, à jouer avec les volumes et à s'habiller pour soi, sans attendre une validation extérieure.
