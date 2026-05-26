@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-discover-the-charm-of-three-sessionable-cocktails
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/discover-the-charm-of-three-sessionable-cocktails.webp
 reading_time: 2
 quality_score: 38
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   The article is too short, lacks specific details about the three cocktails
   mentioned in the title, and doesn't align well with wine-focused content
   guidelines despite having decent structure.
+image_alt: >-
+  Three refreshing low-alcohol cocktails on a sunlit bar table with citrus,
+  herbs, and sparkling ice.
 ---
 ## The Rise of Sessionable Cocktails
 
