@@ -1,24 +1,34 @@
 ---
-title: "A Knight of the Seven Kingdoms: Fish Scene Recap"
-description: "In the second episode of \"A Knight of the Seven Kingdoms,\" character development, political intrigue, and emotional depth intertwine as Ser Duncan and Egg navigate Westeros's challenges. New alliances, personal sacrifices, and stunning visuals enrich the engaging narrative, leaving viewers captivated."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T10:41:37+00:00"
-author: "Becca Roberts"
+title: 'A Knight of the Seven Kingdoms: Fish Scene Recap'
+description: >-
+  In the second episode of "A Knight of the Seven Kingdoms," character
+  development, political intrigue, and emotional depth intertwine as Ser Duncan
+  and Egg navigate Westeros's challenges. New alliances, personal sacrifices,
+  and stunning visuals enrich the engaging narrative, leaving viewers
+  captivated.
+type: standard
+status: review
+publishDate: '2026-01-26T10:41:37+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "a-knight-of-the-seven-kingdoms-fish-scene-recap"
+  - Watch
+slug: a-knight-of-the-seven-kingdoms-fish-scene-recap
 reading_time: 4
-source_url: "https://buzzsoaps.com/a-knight-of-the-seven-kingdoms-fish-scene-recap/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/a-knight-of-the-seven-kingdoms-fish-scene-recap/'
+imported_from: wordpress
 wp_original_id: 536
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/a-knight-of-the-seven-kingdoms-fish-scene-recap.webp
 seo:
-  canonical: "https://buzzsoaps.com/a-knight-of-the-seven-kingdoms-fish-scene-recap/"
-  og_title: "A Knight of the Seven Kingdoms: Fish Scene Recap - BuzzSoaps!"
-  og_description: "In the second episode of \"A Knight of the Seven Kingdoms,\" character development, political intrigue, and emotional depth intertwine as Ser Duncan and Egg navigate Westeros's challenges. New alliances, personal sacrifices, and stunning visuals enrich the engaging narrative, leaving viewers captivated."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-9.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/a-knight-of-the-seven-kingdoms-fish-scene-recap/'
+  og_title: 'A Knight of the Seven Kingdoms: Fish Scene Recap - BuzzSoaps!'
+  og_description: >-
+    In the second episode of "A Knight of the Seven Kingdoms," character
+    development, political intrigue, and emotional depth intertwine as Ser
+    Duncan and Egg navigate Westeros's challenges. New alliances, personal
+    sacrifices, and stunning visuals enrich the engaging narrative, leaving
+    viewers captivated.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-9.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "Well-written entertainment content with engaging tone, but severely compromised by discussing a fictional show that doesn't exist, creating factual accuracy issues."
+quality_note: >-
+  Well-written entertainment content with engaging tone, but severely
+  compromised by discussing a fictional show that doesn't exist, creating
+  factual accuracy issues.
+image_alt: >-
+  Armored knight and young squire beside fish baskets at a misty medieval river
+  market.
 ---
 
 In the captivating world of Westeros, the enthralling prequel series "A Knight of the Seven Kingdoms" continues to weave its intricate tale in the second episode. This episode delves deeper into the lives of our protagonists, exploring their challenges and the ever-present conflicts that define their existence. As the plot thickens, viewers are drawn into a narrative filled with tension, loyalty, and the complexities of power dynamics.
