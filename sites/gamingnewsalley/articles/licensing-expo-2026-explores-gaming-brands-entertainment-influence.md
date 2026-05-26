@@ -1,25 +1,36 @@
 ---
-title: "Licensing Expo 2026 Explores Gaming Brands’ Entertainment Influence"
-description: "Licensing Expo 2026 will spotlight how gaming IP is reshaping entertainment, consumer products, retail, and fan engagement as video game franchises become powerful engines for mainstream brand licensing."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:32:28+00:00"
-author: "Taylor Winters"
+title: Licensing Expo 2026 Explores Gaming Brands’ Entertainment Influence
+description: >-
+  Licensing Expo 2026 will spotlight how gaming IP is reshaping entertainment,
+  consumer products, retail, and fan engagement as video game franchises become
+  powerful engines for mainstream brand licensing.
+type: standard
+status: published
+publishDate: '2026-05-04T08:32:28+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community Event"
-slug: "licensing-expo-2026-explores-gaming-brands-entertainment-influence"
+  - Gaming News
+  - Community Event
+slug: licensing-expo-2026-explores-gaming-brands-entertainment-influence
 reading_time: 7
-source_url: "https://gamingnewsalley.com/licensing-expo-2026-explores-gaming-brands-entertainment-influence/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/licensing-expo-2026-explores-gaming-brands-entertainment-influence/
+imported_from: wordpress
 wp_original_id: 42638
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/licensing-expo-2026-explores-gaming-brands-entertainment-influence.webp
 seo:
-  canonical: "https://gamingnewsalley.com/licensing-expo-2026-explores-gaming-brands-entertainment-influence/"
-  og_title: "Licensing Expo 2026 Explores Gaming Brands' Entertainment Influence - Gaming News Alley"
-  og_description: "Licensing Expo 2026 will spotlight how gaming IP is reshaping entertainment, consumer products, retail, and fan engagement as video game franchises become powerful engines for mainstream brand licensing."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/05/make_image1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/licensing-expo-2026-explores-gaming-brands-entertainment-influence/
+  og_title: >-
+    Licensing Expo 2026 Explores Gaming Brands' Entertainment Influence - Gaming
+    News Alley
+  og_description: >-
+    Licensing Expo 2026 will spotlight how gaming IP is reshaping entertainment,
+    consumer products, retail, and fan engagement as video game franchises
+    become powerful engines for mainstream brand licensing.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/05/make_image1.png'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written industry analysis with appropriate length and tone, though it focuses more on licensing/business aspects than core gaming content that would best serve gaming enthusiasts."
+quality_note: >-
+  Well-written industry analysis with appropriate length and tone, though it
+  focuses more on licensing/business aspects than core gaming content that would
+  best serve gaming enthusiasts.
+image_alt: >-
+  Futuristic expo hall with gaming symbols, product displays, and light trails
+  converging into a brand ecosystem
 ---
 
 Gaming has moved far beyond the console, and Licensing Expo 2026 will put that shift in the spotlight. The Las Vegas event is set to examine how video game properties now drive entertainment trends, consumer products, fan culture, retail strategy, and cross-platform storytelling. As interactive brands grow into global franchises, the licensing industry is watching closely.
