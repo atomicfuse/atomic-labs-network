@@ -1,24 +1,35 @@
 ---
-title: "Top 26 Expert-Recommended Travel Destinations for 2026"
-description: "In 2026, explore remarkable destinations from Tokyo's blend of tradition and innovation to Iceland's breathtaking natural wonders. Discover unique experiences in places like Madagascar and Bhutan, each offering unforgettable adventures for travelers seeking culture, history, and natural beauty."
-type: "standard"
-status: "published"
-publishDate: "2026-01-29T10:49:25+00:00"
-author: "Malcolm Anderson"
+title: Top 26 Expert-Recommended Travel Destinations for 2026
+description: >-
+  In 2026, explore remarkable destinations from Tokyo's blend of tradition and
+  innovation to Iceland's breathtaking natural wonders. Discover unique
+  experiences in places like Madagascar and Bhutan, each offering unforgettable
+  adventures for travelers seeking culture, history, and natural beauty.
+type: standard
+status: published
+publishDate: '2026-01-29T10:49:25+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "top-26-expert-recommended-travel-destinations-for-2026"
+  - Destinations
+slug: top-26-expert-recommended-travel-destinations-for-2026
 reading_time: 3
-source_url: "https://travelnights.com/top-26-expert-recommended-travel-destinations-for-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/top-26-expert-recommended-travel-destinations-for-2026/
+imported_from: wordpress
 wp_original_id: 36698
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-26-expert-recommended-travel-destinations-for-2026.webp
 seo:
-  canonical: "https://travelnights.com/top-26-expert-recommended-travel-destinations-for-2026/"
-  og_title: "Top 26 Expert-Recommended Travel Destinations for 2026 - Travel Nights"
-  og_description: "In 2026, explore remarkable destinations from Tokyo's blend of tradition and innovation to Iceland's breathtaking natural wonders. Discover unique experiences in places like Madagascar and Bhutan, each offering unforgettable adventures for travelers seeking culture, history, and natural beauty."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/01/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/top-26-expert-recommended-travel-destinations-for-2026/
+  og_title: Top 26 Expert-Recommended Travel Destinations for 2026 - Travel Nights
+  og_description: >-
+    In 2026, explore remarkable destinations from Tokyo's blend of tradition and
+    innovation to Iceland's breathtaking natural wonders. Discover unique
+    experiences in places like Madagascar and Bhutan, each offering
+    unforgettable adventures for travelers seeking culture, history, and natural
+    beauty.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/01/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,10 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel article with excellent tone and keyword relevance, but significantly under target word count at 500 words versus the 800-1200 range."
+quality_note: >-
+  Well-written travel article with excellent tone and keyword relevance, but
+  significantly under target word count at 500 words versus the 800-1200 range.
+image_alt: Traveler overlooks a dreamlike panorama of global destinations at sunrise.
 ---
 
 As the world of travel continues to expand and evolve, 2026 promises a plethora of remarkable destinations that beckon explorers with their unique allure. Drawing insights from seasoned travel experts, we've compiled a list of must-visit locations. From the cultural vibrancy of cities to the pristine beauty of nature's wonders, these places offer unforgettable experiences ready to be discovered by adventurous travelers.
