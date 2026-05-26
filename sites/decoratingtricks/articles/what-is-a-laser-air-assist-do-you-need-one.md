@@ -1,28 +1,36 @@
 ---
-title: "What is a Laser Air Assist? Do You Need One?"
-description: "Learn what a laser air assist is, why it's important for improving cut and engraving quality, and how to set one up on a laser that doesn't include it by default."
-type: "standard"
-status: "review"
-publishDate: "2025-01-22T13:47:22+00:00"
-author: "admin"
+title: What is a Laser Air Assist? Do You Need One?
+description: >-
+  Learn what a laser air assist is, why it's important for improving cut and
+  engraving quality, and how to set one up on a laser that doesn't include it by
+  default.
+type: standard
+status: review
+publishDate: '2025-01-22T13:47:22+00:00'
+author: admin
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "what-is-a-laser-air-assist-do-you-need-one"
+  - Decor Ideas
+  - Design
+slug: what-is-a-laser-air-assist-do-you-need-one
 reading_time: 3
-source_url: "https://decoratingtricks.com/what-is-a-laser-air-assist-do-you-need-one/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/what-is-a-laser-air-assist-do-you-need-one/'
+imported_from: wordpress
 wp_original_id: 21190
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/what-is-a-laser-air-assist-do-you-need-one.webp
 seo:
-  canonical: "https://decoratingtricks.com/what-is-a-laser-air-assist-do-you-need-one/"
-  og_title: "What is a Laser Air Assist? Do You Need One? - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. If you are confused about what [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingtricks.com/what-is-a-laser-air-assist-do-you-need-one/'
+  og_title: What is a Laser Air Assist? Do You Need One? - Decorating Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. If you are confused about
+    what [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "c00d4c19"
-    url: "https://www.youtube.com/watch?v=wsbfZ_zkmZE"
-    position: "after-paragraph-7"
+  - id: c00d4c19
+    url: 'https://www.youtube.com/watch?v=wsbfZ_zkmZE'
+    position: after-paragraph-7
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -30,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 30
-quality_note: "The article is well-written and informative but focuses on laser equipment rather than home decor/DIY projects, making it poorly aligned with the site's home and garden focus."
+quality_note: >-
+  The article is well-written and informative but focuses on laser equipment
+  rather than home decor/DIY projects, making it poorly aligned with the site's
+  home and garden focus.
+image_alt: >-
+  Desktop laser cutter nozzle clearing smoke from a wood sheet in a tidy home
+  workshop
 ---
 
 If you are confused about what a laser air assist is, this post is for you! Find out what it does and why you should always use it. If you are shopping for a laser, make sure you include air assist. Some lasers come with it and for others, you will need to purchase separately.
