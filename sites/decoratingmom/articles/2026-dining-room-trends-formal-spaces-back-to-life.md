@@ -20,7 +20,7 @@ source_url: >-
   https://www.aol.com/lifestyle/stunning-dining-room-trends-taking-180000445.html
 source_item_id: 6a152fda16f23264031d81fb
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: /assets/images/2026-dining-room-trends-formal-spaces-back-to-life.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -33,6 +33,9 @@ quality_note: >-
   specific actionable details and relies heavily on vague trend claims without
   concrete sources.
 reading_time: 3
+image_alt: >-
+  Modern formal dining room with warm wood, upholstered chairs, greenery, and
+  layered natural light.
 ---
 ## Formal Dining Rooms Make a Stylish Comeback
 
