@@ -1,24 +1,33 @@
 ---
-title: "TikTok’s Explosive US Debut: Record-Breaking First Weekend"
-description: "TikTok users faced a major disruption over the weekend, affecting their ability to view or upload content, highlighting the platform's significant role in entertainment and the challenges content creators face during unexpected outages."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T10:33:26+00:00"
-author: "Lena Ashwood"
+title: 'TikTok’s Explosive US Debut: Record-Breaking First Weekend'
+description: >-
+  TikTok users faced a major disruption over the weekend, affecting their
+  ability to view or upload content, highlighting the platform's significant
+  role in entertainment and the challenges content creators face during
+  unexpected outages.
+type: standard
+status: review
+publishDate: '2026-01-26T10:33:26+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "tiktoks-explosive-us-debut-record-breaking-first-weekend"
+  - Tech
+slug: tiktoks-explosive-us-debut-record-breaking-first-weekend
 reading_time: 3
-source_url: "https://mindsbit.com/tiktoks-explosive-us-debut-record-breaking-first-weekend/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/tiktoks-explosive-us-debut-record-breaking-first-weekend/'
+imported_from: wordpress
 wp_original_id: 453
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/tiktoks-explosive-us-debut-record-breaking-first-weekend.webp
 seo:
-  canonical: "https://mindsbit.com/tiktoks-explosive-us-debut-record-breaking-first-weekend/"
-  og_title: "TikTok's Explosive US Debut: Record-Breaking First Weekend - Minds bit"
-  og_description: "TikTok users faced a major disruption over the weekend, affecting their ability to view or upload content. The outage highlighted dependency on the platform for entertainment, impacting both users and content creators who rely on TikTok for engagement."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/01/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/tiktoks-explosive-us-debut-record-breaking-first-weekend/
+  og_title: 'TikTok''s Explosive US Debut: Record-Breaking First Weekend - Minds bit'
+  og_description: >-
+    TikTok users faced a major disruption over the weekend, affecting their
+    ability to view or upload content. The outage highlighted dependency on the
+    platform for entertainment, impacting both users and content creators who
+    rely on TikTok for engagement.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/01/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "The article has major issues with misleading title/description about a 'US debut' that doesn't match the outage content, lacks proper SEO structure, and appears to describe a fictional event without factual basis."
+quality_note: >-
+  The article has major issues with misleading title/description about a 'US
+  debut' that doesn't match the outage content, lacks proper SEO structure, and
+  appears to describe a fictional event without factual basis.
+image_alt: >-
+  A glowing smartphone with frozen video tiles surrounded by blurred creator
+  silhouettes and studio lights
 ---
 
 Over the past weekend, TikTok users experienced a significant disruption that affected their ability to view or upload content. Reports indicate that the platform's popular For You Page (FYP) faced issues, leaving users unable to engage with their favorite content. This outage not only stirred frustration among users but also highlighted the dependency on this social media giant for entertainment and engagement.
