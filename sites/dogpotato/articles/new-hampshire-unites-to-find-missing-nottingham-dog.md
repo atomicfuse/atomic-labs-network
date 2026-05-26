@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-new-hampshire-unites-to-find-missing-nottingham-dog
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/new-hampshire-unites-to-find-missing-nottingham-dog.webp
 reading_time: 2
 quality_score: 45
 score_breakdown:
@@ -34,6 +34,7 @@ quality_note: >-
   Article is too short and lacks specific details, with weak SEO optimization
   and overly vague reporting style that doesn't match the engaging tone expected
   for pet enthusiasts.
+image_alt: Neighbors search a wooded New Hampshire roadside for a missing dog at sunset.
 ---
 ## Community Mobilizes for Missing Pet Search
 
