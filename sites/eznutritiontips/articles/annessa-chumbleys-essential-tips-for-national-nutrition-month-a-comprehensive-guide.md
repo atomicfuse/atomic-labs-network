@@ -1,26 +1,41 @@
 ---
-title: "Annessa Chumbley’s Essential Tips for National Nutrition Month: A Comprehensive Guide"
-description: "Nutrition expert Annessa Chumbley shares essential tips for National Nutrition Month, covering hydration, whole grains, protein, cooking with kids, and smart snacking to help foster healthier eating habits year-round."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:24:09+00:00"
-author: "Taylor Winters"
+title: >-
+  Annessa Chumbley’s Essential Tips for National Nutrition Month: A
+  Comprehensive Guide
+description: >-
+  Nutrition expert Annessa Chumbley shares essential tips for National Nutrition
+  Month, covering hydration, whole grains, protein, cooking with kids, and smart
+  snacking to help foster healthier eating habits year-round.
+type: standard
+status: review
+publishDate: '2025-04-23T16:24:09+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "annessa-chumbleys-essential-tips-for-national-nutrition-month-a-comprehensive-guide"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: >-
+  annessa-chumbleys-essential-tips-for-national-nutrition-month-a-comprehensive-guide
 reading_time: 2
-source_url: "https://eznutritiontips.com/annessa-chumbleys-essential-tips-for-national-nutrition-month-a-comprehensive-guide/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/annessa-chumbleys-essential-tips-for-national-nutrition-month-a-comprehensive-guide/
+imported_from: wordpress
 wp_original_id: 18788
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/annessa-chumbleys-essential-tips-for-national-nutrition-month-a-comprehensive-guide.webp
 seo:
-  canonical: "https://eznutritiontips.com/annessa-chumbleys-essential-tips-for-national-nutrition-month-a-comprehensive-guide/"
-  og_title: "Annessa Chumbley's Essential Tips for National Nutrition Month: A Comprehensive Guide - Easy Nutrition Tips"
-  og_description: "Nutrition expert Annessa Chumbley shares tips for National Nutrition Month, emphasizing on hydration, exploring whole grains, the power of protein, cooking with kids, and making smart snack choices. Her advice aids in fostering healthier eating habits and lifestyle."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-61.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/annessa-chumbleys-essential-tips-for-national-nutrition-month-a-comprehensive-guide/
+  og_title: >-
+    Annessa Chumbley's Essential Tips for National Nutrition Month: A
+    Comprehensive Guide - Easy Nutrition Tips
+  og_description: >-
+    Nutrition expert Annessa Chumbley shares tips for National Nutrition Month,
+    emphasizing on hydration, exploring whole grains, the power of protein,
+    cooking with kids, and making smart snack choices. Her advice aids in
+    fostering healthier eating habits and lifestyle.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-61.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -28,7 +43,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "The article has good tone and keyword relevance but is severely undermined by being too short at 370 words and potential issues with the expert attribution that cannot be verified."
+quality_note: >-
+  The article has good tone and keyword relevance but is severely undermined by
+  being too short at 370 words and potential issues with the expert attribution
+  that cannot be verified.
+image_alt: >-
+  Sunlit kitchen counter with fresh produce, whole grains, protein, water, and
+  hands preparing a healthy meal.
 ---
 
 March is a month dedicated to raising awareness about the importance of proper nutrition, and Annessa Chumbley, a renowned nutrition expert, has shared some valuable insights to help us embrace healthier eating habits. Let's delve into some of the advice she has to offer.
