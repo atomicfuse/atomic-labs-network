@@ -1,24 +1,31 @@
 ---
-title: "Google I/O 2025 Guide: Watch Live and Key Highlights"
-description: "Google I/O 2025 will showcase groundbreaking innovations in AI, Android, and XR technologies, with live streams of keynotes and sessions available globally for tech enthusiasts and developers."
-type: "standard"
-status: "review"
-publishDate: "2025-05-19T13:29:12+00:00"
-author: "Lena Ashwood"
+title: 'Google I/O 2025 Guide: Watch Live and Key Highlights'
+description: >-
+  Google I/O 2025 will showcase groundbreaking innovations in AI, Android, and
+  XR technologies, with live streams of keynotes and sessions available globally
+  for tech enthusiasts and developers.
+type: standard
+status: review
+publishDate: '2025-05-19T13:29:12+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "google-i-o-2025-guide-watch-live-and-key-highlights"
+  - Tech
+slug: google-i-o-2025-guide-watch-live-and-key-highlights
 reading_time: 3
-source_url: "https://mindsbit.com/google-i-o-2025-guide-watch-live-and-key-highlights/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/google-i-o-2025-guide-watch-live-and-key-highlights/'
+imported_from: wordpress
 wp_original_id: 367
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/google-i-o-2025-guide-watch-live-and-key-highlights.webp
 seo:
-  canonical: "https://mindsbit.com/google-i-o-2025-guide-watch-live-and-key-highlights/"
-  og_title: "Google I/O 2025 Guide: Watch Live and Key Highlights - Minds bit"
-  og_description: "Google I/O 2025 will showcase groundbreaking innovations in AI, Android, and XR technologies. Hosted in Silicon Valley, the event offers in-person and virtual experiences, with live streams of keynotes and sessions available globally for tech enthusiasts and developers."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-50.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/google-i-o-2025-guide-watch-live-and-key-highlights/'
+  og_title: 'Google I/O 2025 Guide: Watch Live and Key Highlights - Minds bit'
+  og_description: >-
+    Google I/O 2025 will showcase groundbreaking innovations in AI, Android, and
+    XR technologies. Hosted in Silicon Valley, the event offers in-person and
+    virtual experiences, with live streams of keynotes and sessions available
+    globally for tech enthusiasts and developers.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-50.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong keyword relevance and appropriate tone, but significantly undermined by probable factual inaccuracies about Google I/O 2025 dates and content being too short for guidelines."
+quality_note: >-
+  Strong keyword relevance and appropriate tone, but significantly undermined by
+  probable factual inaccuracies about Google I/O 2025 dates and content being
+  too short for guidelines.
+image_alt: >-
+  Futuristic tech keynote stage with abstract AI, mobile, and XR visuals above a
+  developer audience
 ---
 
 Google I/O, the annual developer conference, is a much-anticipated event in the tech world, offering insights into Google's latest innovations. This year's conference is expected to unveil exciting developments in artificial intelligence, Android updates, and immersive technologies. As tech enthusiasts gear up for Google's announcements, here's what you can expect from the event and how you can watch it live.
