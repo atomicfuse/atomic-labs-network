@@ -1,25 +1,38 @@
 ---
-title: "Fleetwood-Jourdain Welcomes Back the Excitement of Gaming: A Revival Story"
-description: "Evanston's Fleetwood-Jourdain Community Center is reopening its doors to gaming, reviving the excitement and camaraderie that video games offer and providing a platform for gamers of all ages to explore, compete, and bond."
-type: "standard"
-status: "review"
-publishDate: "2025-04-17T06:01:43+00:00"
-author: "Taylor Winters"
+title: 'Fleetwood-Jourdain Welcomes Back the Excitement of Gaming: A Revival Story'
+description: >-
+  Evanston's Fleetwood-Jourdain Community Center is reopening its doors to
+  gaming, reviving the excitement and camaraderie that video games offer and
+  providing a platform for gamers of all ages to explore, compete, and bond.
+type: standard
+status: review
+publishDate: '2025-04-17T06:01:43+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Gaming"
-slug: "fleetwood-jourdain-welcomes-back-the-excitement-of-gaming-a-revival-story"
+  - Gaming News
+  - Gaming
+slug: fleetwood-jourdain-welcomes-back-the-excitement-of-gaming-a-revival-story
 reading_time: 2
-source_url: "https://gamerinformers.com/fleetwood-jourdain-welcomes-back-the-excitement-of-gaming-a-revival-story/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/fleetwood-jourdain-welcomes-back-the-excitement-of-gaming-a-revival-story/
+imported_from: wordpress
 wp_original_id: 33989
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/fleetwood-jourdain-welcomes-back-the-excitement-of-gaming-a-revival-story.webp
 seo:
-  canonical: "https://gamerinformers.com/fleetwood-jourdain-welcomes-back-the-excitement-of-gaming-a-revival-story/"
-  og_title: "Fleetwood-Jourdain Welcomes Back the Excitement of Gaming: A Revival Story - Gamer Informers"
-  og_description: "Evanston's Fleetwood-Jourdain Community Center, renowned for fostering community engagement, is reopening its doors to the world of gaming. This move promises to revive the excitement and camaraderie that video games offer, providing a platform for gamers of all ages to explore, compete, and bond."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/fleetwood-jourdain-welcomes-back-the-excitement-of-gaming-a-revival-story/
+  og_title: >-
+    Fleetwood-Jourdain Welcomes Back the Excitement of Gaming: A Revival Story -
+    Gamer Informers
+  og_description: >-
+    Evanston's Fleetwood-Jourdain Community Center, renowned for fostering
+    community engagement, is reopening its doors to the world of gaming. This
+    move promises to revive the excitement and camaraderie that video games
+    offer, providing a platform for gamers of all ages to explore, compete, and
+    bond.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 38
 score_breakdown:
   seo_quality: 25
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 40
   keyword_relevance: 30
-quality_note: "The article is too short, lacks gaming industry focus, and appears to fabricate details about a community center's gaming program without credible sources."
+quality_note: >-
+  The article is too short, lacks gaming industry focus, and appears to
+  fabricate details about a community center's gaming program without credible
+  sources.
+image_alt: >-
+  Gamers of different ages gather in a warmly lit community gaming room with
+  colorful screen glow.
 ---
 
 Enthusiasts of digital entertainment in Evanston can once again experience the thrill of gaming at the renowned Fleetwood-Jourdain Community Center, a popular venue known for fostering community engagement through various activities. This magnificent center is reopening its doors to the world of gaming, in a move that promises to bring back the excitement and camaraderie that video games offer.
