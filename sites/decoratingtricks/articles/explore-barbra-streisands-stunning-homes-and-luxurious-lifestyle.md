@@ -1,26 +1,39 @@
 ---
-title: "Explore Barbra Streisand’s Stunning Homes and Luxurious Lifestyle"
-description: "Barbra Streisand's homes reflect her passion for architecture and design, blending elegance with personal style. From a Malibu estate to a New York penthouse, her properties showcase her discerning taste and commitment to creating captivating, sophisticated spaces."
-type: "standard"
-status: "review"
-publishDate: "2025-05-08T04:05:30+00:00"
-author: "Taylor Winters"
+title: Explore Barbra Streisand’s Stunning Homes and Luxurious Lifestyle
+description: >-
+  Barbra Streisand's homes reflect her passion for architecture and design,
+  blending elegance with personal style. From a Malibu estate to a New York
+  penthouse, her properties showcase her discerning taste and commitment to
+  creating captivating, sophisticated spaces.
+type: standard
+status: review
+publishDate: '2025-05-08T04:05:30+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "Home"
-slug: "explore-barbra-streisands-stunning-homes-and-luxurious-lifestyle"
+  - Decor Ideas
+  - Design
+  - Home
+slug: explore-barbra-streisands-stunning-homes-and-luxurious-lifestyle
 reading_time: 3
-source_url: "https://decoratingtricks.com/explore-barbra-streisands-stunning-homes-and-luxurious-lifestyle/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/explore-barbra-streisands-stunning-homes-and-luxurious-lifestyle/
+imported_from: wordpress
 wp_original_id: 21363
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/explore-barbra-streisands-stunning-homes-and-luxurious-lifestyle.webp
 seo:
-  canonical: "https://decoratingtricks.com/explore-barbra-streisands-stunning-homes-and-luxurious-lifestyle/"
-  og_title: "Explore Barbra Streisand's Stunning Homes and Luxurious Lifestyle - Decorating Tricks"
-  og_description: "Barbra Streisand's homes reflect her passion for architecture and design, blending elegance with personal style. From a Malibu estate to a New York penthouse, her properties showcase her discerning taste and commitment to creating captivating, sophisticated spaces."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2025/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/explore-barbra-streisands-stunning-homes-and-luxurious-lifestyle/
+  og_title: >-
+    Explore Barbra Streisand's Stunning Homes and Luxurious Lifestyle -
+    Decorating Tricks
+  og_description: >-
+    Barbra Streisand's homes reflect her passion for architecture and design,
+    blending elegance with personal style. From a Malibu estate to a New York
+    penthouse, her properties showcase her discerning taste and commitment to
+    creating captivating, sophisticated spaces.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2025/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "While well-written with good tone and accuracy, the article is too short at 581 words and focuses more on celebrity homes than actionable home improvement content for the target audience."
+quality_note: >-
+  While well-written with good tone and accuracy, the article is too short at
+  581 words and focuses more on celebrity homes than actionable home improvement
+  content for the target audience.
+image_alt: >-
+  Elegant coastal living room with Art Deco touches, ocean views, antiques,
+  flowers, and a grand piano.
 ---
 
 Barbra Streisand, an icon of both music and film, is also renowned for her exquisite taste in real estate. Her homes reflect not only her personal style but also her passion for architectural beauty and interior design. Streisand's properties, marked by elegance and attention to detail, have consistently captured the public's imagination.
