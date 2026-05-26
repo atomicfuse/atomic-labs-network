@@ -1,21 +1,28 @@
 ---
-title: "Microplastics Remain in Drinking Water Despite Treatment Upgrades"
-description: "The persistence of microplastics in drinking water, despite advanced treatment processes, raises environmental and health concerns. These tiny particles infiltrate water supplies, posing potential health risks and challenging the effectiveness of existing water treatment methods."
-type: "standard"
-status: "published"
-publishDate: "2025-05-01T10:11:26"
-author: "Taylor Winters"
+title: Microplastics Remain in Drinking Water Despite Treatment Upgrades
+description: >-
+  The persistence of microplastics in drinking water, despite advanced treatment
+  processes, raises environmental and health concerns. These tiny particles
+  infiltrate water supplies, posing potential health risks and challenging the
+  effectiveness of existing water treatment methods.
+type: standard
+status: published
+publishDate: '2025-05-01T10:11:26'
+author: Taylor Winters
 tags:
-  - "Environment"
-slug: "microplastics-remain-in-drinking-water-despite-treatment-upgrades"
+  - Environment
+slug: microplastics-remain-in-drinking-water-despite-treatment-upgrades
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/microplastics-remain-in-drinking-water-despite-treatment-upgrades/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/microplastics-remain-in-drinking-water-despite-treatment-upgrades/
+imported_from: wordpress
 wp_original_id: 14952
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/microplastics-remain-in-drinking-water-despite-treatment-upgrades.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/microplastics-remain-in-drinking-water-despite-treatment-upgrades/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/microplastics-remain-in-drinking-water-despite-treatment-upgrades/
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -23,7 +30,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written environmental article with good tone and accuracy, but falls short on length (583 words vs 800-1200 target) and could benefit from stronger SEO optimization in the title."
+quality_note: >-
+  Well-written environmental article with good tone and accuracy, but falls
+  short on length (583 words vs 800-1200 target) and could benefit from stronger
+  SEO optimization in the title.
+image_alt: >-
+  Glass of water with tiny particles lit in a laboratory beside blurred
+  filtration equipment
 ---
 
 The persistence of microplastics in our drinking water, despite advanced treatment processes, raises significant environmental and health concerns. Microplastics, tiny plastic particles resulting from the degradation of larger plastic debris, have infiltrated various ecosystems, including water supplies. These particles pose potential health risks, prompting scientists and environmentalists to scrutinize water treatment methods and their effectiveness in addressing this issue.
