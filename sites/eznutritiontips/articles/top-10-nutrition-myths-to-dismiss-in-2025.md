@@ -1,24 +1,31 @@
 ---
-title: "Top 10 Nutrition Myths to Dismiss in 2025"
-description: "The article explores common nutrition myths, debunking outdated beliefs and promoting evidence-based practices across topics like carbs, detox diets, eggs, gluten-free diets, and more."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T10:33:33+00:00"
-author: "Taylor Winters"
+title: Top 10 Nutrition Myths to Dismiss in 2025
+description: >-
+  The article explores common nutrition myths, debunking outdated beliefs and
+  promoting evidence-based practices across topics like carbs, detox diets,
+  eggs, gluten-free diets, and more.
+type: standard
+status: published
+publishDate: '2025-12-04T10:33:33+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-  - "Weight &amp; Wellness"
-slug: "top-10-nutrition-myths-to-dismiss-in-2025"
+  - Nutrition Myths
+  - Weight &amp; Wellness
+slug: top-10-nutrition-myths-to-dismiss-in-2025
 reading_time: 3
-source_url: "https://eznutritiontips.com/top-10-nutrition-myths-to-dismiss-in-2025/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/top-10-nutrition-myths-to-dismiss-in-2025/'
+imported_from: wordpress
 wp_original_id: 18957
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-10-nutrition-myths-to-dismiss-in-2025.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-10-nutrition-myths-to-dismiss-in-2025/"
-  og_title: "Top 10 Nutrition Myths to Dismiss in 2025 - Easy Nutrition Tips"
-  og_description: "The article explores common nutrition myths, debunking outdated beliefs and promoting evidence-based practices. It covers misconceptions about spot reduction, carbs, detox diets, eggs, gluten-free diets, fresh vs. frozen produce, supplements, red meat, calorie equality, and hydration sources."
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/top-10-nutrition-myths-to-dismiss-in-2025/'
+  og_title: Top 10 Nutrition Myths to Dismiss in 2025 - Easy Nutrition Tips
+  og_description: >-
+    The article explores common nutrition myths, debunking outdated beliefs and
+    promoting evidence-based practices. It covers misconceptions about spot
+    reduction, carbs, detox diets, eggs, gluten-free diets, fresh vs. frozen
+    produce, supplements, red meat, calorie equality, and hydration sources.
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article on nutrition myths with accurate information and excellent keyword relevance, but falls short of optimal length for comprehensive coverage."
+quality_note: >-
+  Well-written article on nutrition myths with accurate information and
+  excellent keyword relevance, but falls short of optimal length for
+  comprehensive coverage.
+image_alt: >-
+  Balanced healthy foods on a bright kitchen counter with abstract shards
+  dissolving around them
 ---
 
 The world of nutrition is rife with misconceptions that can mislead even the most health-conscious individuals. As we look towards a healthier future, it's crucial to debunk outdated beliefs and embrace evidence-based practices. In this exploration, we unravel common nutrition myths that continue to circulate, offering clarity and encouraging informed dietary choices.
