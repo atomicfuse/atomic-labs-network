@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-u-s-senate-race-abdul-el-sayeds-campaign-insights
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/u-s-senate-race-abdul-el-sayeds-campaign-insights.webp
 reading_time: 2
 quality_score: 24
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   This political article is completely off-topic for an automotive site, lacks
   substance with repetitive filler content, and fails to meet both audience
   expectations and content guidelines.
+image_alt: >-
+  Quiet campaign office at dawn with chairs, maps, clipboards, and soft morning
+  light
 ---
 ## Senate Campaign Developments
 
