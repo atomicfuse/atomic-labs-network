@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-top-tips-for-keeping-pets-healthy-during-holidays
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/top-tips-for-keeping-pets-healthy-during-holidays.webp
 reading_time: 3
 quality_score: 71
 score_breakdown:
@@ -32,6 +32,9 @@ score_breakdown:
 quality_note: >-
   Well-structured article with good tone and accuracy, but significantly under
   target word count at 444 words compared to the 800-1200 target range.
+image_alt: >-
+  A calm dog and cat relax in a cozy, pet-safe holiday home with soft seasonal
+  decor.
 ---
 ## Holiday Hazards for Your Furry Friends
 
