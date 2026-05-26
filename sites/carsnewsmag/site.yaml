@@ -2,7 +2,8 @@ domain: carsnewsmag.com
 site_name: carsnewsmag
 site_tagline: null
 author: James Reed
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d6f516f23264031d7a45
 brief:
