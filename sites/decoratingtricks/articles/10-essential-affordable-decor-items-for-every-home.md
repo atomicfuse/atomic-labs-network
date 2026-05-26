@@ -1,29 +1,35 @@
 ---
-title: "10 Essential Affordable Decor Items for Every Home"
-description: "Discover how to achieve a high-end designer look on a budget with these 10 must-have decor items."
-type: "standard"
-status: "published"
-publishDate: "2025-05-19T04:03:23+00:00"
-author: "Taylor Winters"
+title: 10 Essential Affordable Decor Items for Every Home
+description: >-
+  Discover how to achieve a high-end designer look on a budget with these 10
+  must-have decor items.
+type: standard
+status: published
+publishDate: '2025-05-19T04:03:23+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "Home Improvement"
-slug: "10-essential-affordable-decor-items-for-every-home"
+  - Design
+  - Home
+  - Home Improvement
+slug: 10-essential-affordable-decor-items-for-every-home
 reading_time: 3
-source_url: "https://decoratingtricks.com/10-essential-affordable-decor-items-for-every-home/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/10-essential-affordable-decor-items-for-every-home/
+imported_from: wordpress
 wp_original_id: 21369
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/10-essential-affordable-decor-items-for-every-home.webp
 seo:
-  canonical: "https://decoratingtricks.com/10-essential-affordable-decor-items-for-every-home/"
-  og_title: "10 Essential Affordable Decor Items for Every Home - Decorating Tricks"
-  og_description: "Discover how to achieve a high-end designer look on a budget with these 10 must-have decor items."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/10-essential-affordable-decor-items-for-every-home/
+  og_title: 10 Essential Affordable Decor Items for Every Home - Decorating Tricks
+  og_description: >-
+    Discover how to achieve a high-end designer look on a budget with these 10
+    must-have decor items.
+  twitter_card: summary_large_image
 videos:
-  - id: "a761fb6b"
-    url: "https://www.youtube.com/watch?v=AOZulahHWSk"
-    position: "after-paragraph-2"
+  - id: a761fb6b
+    url: 'https://www.youtube.com/watch?v=AOZulahHWSk'
+    position: after-paragraph-2
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -31,7 +37,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with strong tone and keyword relevance, but significantly under the target word count at 459 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written article with strong tone and keyword relevance, but significantly
+  under the target word count at 459 words versus the 800-1200 target range.
+image_alt: >-
+  Stylish neutral living room with layered decor, greenery, warm lighting, and
+  an elevated designer feel.
 ---
 
 Creating a stylish home doesn't have to break the bank. In this guide, we explore the top 10 affordable decor items that can transform any space into a high-end designer haven without the hefty price tag. Whether you're a seasoned interior decorator or just getting started, these essentials will help you achieve a luxurious look for less.
