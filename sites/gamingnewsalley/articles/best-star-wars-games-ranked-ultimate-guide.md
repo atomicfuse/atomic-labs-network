@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.gamingbible.com/news/best-star-wars-games-all-time-747984-20260521'
 source_item_id: 6a14214f16f23264031d7dcf
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/best-star-wars-games-ranked-ultimate-guide.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   suffers from vague content that discusses a ranking without actually providing
   it, plus repetitive phrasing that hurts readability.
 reading_time: 3
+image_alt: >-
+  Game controller before holographic star maps and starfighters in a cinematic
+  space battle setting
 ---
 ## Star Wars Gaming Legacy Continues to Captivate Players
 
