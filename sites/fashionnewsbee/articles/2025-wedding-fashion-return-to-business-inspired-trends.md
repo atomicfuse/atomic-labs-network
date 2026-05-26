@@ -1,24 +1,37 @@
 ---
-title: "2025 Wedding Fashion: Return to Business-Inspired Trends"
-description: "Neckties have become a powerful statement in women's fashion, blending sophistication and audacity. Women are redefining and owning neckties as a form of self-expression, integrating them into everyday wear for versatility and individuality."
-type: "standard"
-status: "published"
-publishDate: "2025-05-05T05:46:28+00:00"
-author: "Taylor Winters"
+title: '2025 Wedding Fashion: Return to Business-Inspired Trends'
+description: >-
+  Neckties have become a powerful statement in women's fashion, blending
+  sophistication and audacity. Women are redefining and owning neckties as a
+  form of self-expression, integrating them into everyday wear for versatility
+  and individuality.
+type: standard
+status: published
+publishDate: '2025-05-05T05:46:28+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "2025-wedding-fashion-return-to-business-inspired-trends"
+  - Fashion
+slug: 2025-wedding-fashion-return-to-business-inspired-trends
 reading_time: 4
-source_url: "https://fashionnewsbee.com/2025-wedding-fashion-return-to-business-inspired-trends/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/2025-wedding-fashion-return-to-business-inspired-trends/
+imported_from: wordpress
 wp_original_id: 31508
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/2025-wedding-fashion-return-to-business-inspired-trends.webp
 seo:
-  canonical: "https://fashionnewsbee.com/2025-wedding-fashion-return-to-business-inspired-trends/"
-  og_title: "2025 Wedding Fashion: Return to Business-Inspired Trends - Fashion News Bee"
-  og_description: "Neckties have become a powerful statement in women's fashion, blending sophistication and audacity. Women are redefining and owning neckties as a form of self-expression, integrating them into everyday wear for versatility and individuality."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/2025-wedding-fashion-return-to-business-inspired-trends/
+  og_title: '2025 Wedding Fashion: Return to Business-Inspired Trends - Fashion News Bee'
+  og_description: >-
+    Neckties have become a powerful statement in women's fashion, blending
+    sophistication and audacity. Women are redefining and owning neckties as a
+    form of self-expression, integrating them into everyday wear for versatility
+    and individuality.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Woman in ivory wedding-inspired tailoring with a satin necktie in a sleek
+  sunlit venue
 ---
 
 In recent years, the fashion world has seen a significant shift, with neckties transcending gender norms to become a staple in women's wardrobes. Once considered an accessory strictly for men, neckties for women are now a powerful statement of style and individuality, embodying a blend of sophistication and audacity.
