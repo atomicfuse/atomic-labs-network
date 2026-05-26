@@ -1,26 +1,35 @@
 ---
-title: "Money-Saving Tips from Farmington Library Experts"
-description: "Farmington Public Library offers diverse programs and digital resources to boost financial literacy, supporting personal finance management and entrepreneurship through workshops, tools, and networking events to help individuals achieve financial stability."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T10:29:28+00:00"
-author: "Tony Anderson"
+title: Money-Saving Tips from Farmington Library Experts
+description: >-
+  Farmington Public Library offers diverse programs and digital resources to
+  boost financial literacy, supporting personal finance management and
+  entrepreneurship through workshops, tools, and networking events to help
+  individuals achieve financial stability.
+type: standard
+status: review
+publishDate: '2026-01-12T10:29:28+00:00'
+author: Tony Anderson
 tags:
-  - "Budgeting"
-  - "Personal Finance"
-  - "Saving Tips"
-slug: "money-saving-tips-from-farmington-library-experts"
+  - Budgeting
+  - Personal Finance
+  - Saving Tips
+slug: money-saving-tips-from-farmington-library-experts
 reading_time: 3
-source_url: "https://giant-savings.co/money-saving-tips-from-farmington-library-experts/"
-imported_from: "wordpress"
+source_url: 'https://giant-savings.co/money-saving-tips-from-farmington-library-experts/'
+imported_from: wordpress
 wp_original_id: 399
-featuredImage: "/assets/images/giantsavings-general-article.webp"
+featuredImage: /assets/images/money-saving-tips-from-farmington-library-experts.webp
 seo:
-  canonical: "https://giant-savings.co/money-saving-tips-from-farmington-library-experts/"
-  og_title: "Money-Saving Tips from Farmington Library Experts - Giant Savings"
-  og_description: "Farmington Public Library offers diverse programs and digital resources to boost financial literacy, supporting personal finance management and entrepreneurship. With workshops, tools, and networking events, it empowers individuals to achieve financial stability and community engagement."
-  og_image: "https://giant-savings.co/wp-content/uploads/2026/01/make_Scott_Michlin_morning_program_3000x3000.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://giant-savings.co/money-saving-tips-from-farmington-library-experts/'
+  og_title: Money-Saving Tips from Farmington Library Experts - Giant Savings
+  og_description: >-
+    Farmington Public Library offers diverse programs and digital resources to
+    boost financial literacy, supporting personal finance management and
+    entrepreneurship. With workshops, tools, and networking events, it empowers
+    individuals to achieve financial stability and community engagement.
+  og_image: >-
+    https://giant-savings.co/wp-content/uploads/2026/01/make_Scott_Michlin_morning_program_3000x3000.png
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -28,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article is well-written and relevant to personal finance topics but falls significantly short of the target word count at only 464 words, which severely impacts its overall quality score."
+quality_note: >-
+  The article is well-written and relevant to personal finance topics but falls
+  significantly short of the target word count at only 464 words, which severely
+  impacts its overall quality score.
+image_alt: >-
+  Library finance consultation table with budget tools and people discussing
+  money-saving resources
 ---
 
 Farmington Public Library offers a treasure trove of resources for those looking to save money and expand their knowledge. From financial workshops to digital tools, the library is a pivotal community resource aiding individuals in their journey toward financial literacy and savings.
