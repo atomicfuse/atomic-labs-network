@@ -2,7 +2,8 @@ domain: sciencenewslab
 site_name: sciencenewslab
 site_tagline: null
 author: Julia Scott
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d74f16f23264031d7a53
 brief:
