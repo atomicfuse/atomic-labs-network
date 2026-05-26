@@ -1,24 +1,32 @@
 ---
-title: "Nara Smith’s Ballerina Farm Homemade Meatballs Recipe"
-description: "Discover the culinary collaboration between Nara Smith and Ballerina Farm, blending tradition and modernity. Their partnership produced a unique meatball recipe, celebrating rustic charm and contemporary flair with sustainable, high-quality ingredients and innovative culinary techniques."
-type: "standard"
-status: "published"
-publishDate: "2025-05-22T09:22:12+00:00"
-author: "Becca Roberts"
+title: Nara Smith’s Ballerina Farm Homemade Meatballs Recipe
+description: >-
+  Discover the culinary collaboration between Nara Smith and Ballerina Farm,
+  blending tradition and modernity. Their partnership produced a unique meatball
+  recipe, celebrating rustic charm and contemporary flair with sustainable,
+  high-quality ingredients and innovative culinary techniques.
+type: standard
+status: published
+publishDate: '2025-05-22T09:22:12+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "nara-smiths-ballerina-farm-homemade-meatballs-recipe"
+  - Culture Buzz
+slug: nara-smiths-ballerina-farm-homemade-meatballs-recipe
 reading_time: 3
-source_url: "https://buzzsoaps.com/nara-smiths-ballerina-farm-homemade-meatballs-recipe/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/nara-smiths-ballerina-farm-homemade-meatballs-recipe/'
+imported_from: wordpress
 wp_original_id: 391
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/nara-smiths-ballerina-farm-homemade-meatballs-recipe.webp
 seo:
-  canonical: "https://buzzsoaps.com/nara-smiths-ballerina-farm-homemade-meatballs-recipe/"
-  og_title: "Nara Smith's Ballerina Farm Homemade Meatballs Recipe - BuzzSoaps!"
-  og_description: "Discover the culinary collaboration between Nara Smith and Ballerina Farm, blending tradition and modernity. Their partnership produced a unique meatball recipe, celebrating rustic charm and contemporary flair with sustainable, high-quality ingredients and innovative culinary techniques."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-88.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/nara-smiths-ballerina-farm-homemade-meatballs-recipe/'
+  og_title: Nara Smith's Ballerina Farm Homemade Meatballs Recipe - BuzzSoaps!
+  og_description: >-
+    Discover the culinary collaboration between Nara Smith and Ballerina Farm,
+    blending tradition and modernity. Their partnership produced a unique
+    meatball recipe, celebrating rustic charm and contemporary flair with
+    sustainable, high-quality ingredients and innovative culinary techniques.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-88.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (596 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (596 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and meta description.
+image_alt: >-
+  Rustic ceramic bowl of homemade meatballs with fresh herbs on a sunlit
+  farmhouse table
 ---
 
 Discover the culinary collaboration between Nara Smith and Ballerina Farm, where tradition and modernity blend harmoniously. Ballerina Farm, known for its dedication to sustainable farming and high-quality meats, recently teamed up with Nara Smith, a culinary influencer celebrated for her innovative recipes. Together, they crafted a unique version of meatballs that celebrates both rustic charm and contemporary flair.
