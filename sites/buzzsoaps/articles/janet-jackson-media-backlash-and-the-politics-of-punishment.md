@@ -1,24 +1,34 @@
 ---
-title: "Janet Jackson Media Backlash and the Politics of Punishment"
-description: "Janet Jackson's Control era redefined pop stardom through autonomy, Black womanhood, and creative ownership, leaving a lasting blueprint for artists who turn personal freedom into cultural power."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:24:19+00:00"
-author: "Becca Roberts"
+title: Janet Jackson Media Backlash and the Politics of Punishment
+description: >-
+  Janet Jackson's Control era redefined pop stardom through autonomy, Black
+  womanhood, and creative ownership, leaving a lasting blueprint for artists who
+  turn personal freedom into cultural power.
+type: standard
+status: published
+publishDate: '2026-05-07T09:24:19+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "janet-jackson-media-backlash-and-the-politics-of-punishment"
+  - Culture Buzz
+slug: janet-jackson-media-backlash-and-the-politics-of-punishment
 reading_time: 8
-source_url: "https://buzzsoaps.com/janet-jackson-media-backlash-and-the-politics-of-punishment/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/janet-jackson-media-backlash-and-the-politics-of-punishment/
+imported_from: wordpress
 wp_original_id: 587
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/janet-jackson-media-backlash-and-the-politics-of-punishment.webp
 seo:
-  canonical: "https://buzzsoaps.com/janet-jackson-media-backlash-and-the-politics-of-punishment/"
-  og_title: "Janet Jackson Media Backlash and the Politics of Punishment - BuzzSoaps!"
-  og_description: "Janet Jackson’s Control era redefined pop stardom through autonomy, Black womanhood, creative ownership, and boundary-setting, leaving a lasting blueprint for artists who turn personal freedom into cultural power."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/05/make_1MwiWsZTJmSZu_FLei0tOGA.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/janet-jackson-media-backlash-and-the-politics-of-punishment/
+  og_title: Janet Jackson Media Backlash and the Politics of Punishment - BuzzSoaps!
+  og_description: >-
+    Janet Jackson’s Control era redefined pop stardom through autonomy, Black
+    womanhood, creative ownership, and boundary-setting, leaving a lasting
+    blueprint for artists who turn personal freedom into cultural power.
+  og_image: >-
+    https://buzzsoaps.com/wp-content/uploads/2026/05/make_1MwiWsZTJmSZu_FLei0tOGA.jpg
+  twitter_card: summary_large_image
 quality_score: 88
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Strong cultural analysis with excellent tone and length, though could benefit from more compelling title optimization and tighter SEO structure."
+quality_note: >-
+  Strong cultural analysis with excellent tone and length, though could benefit
+  from more compelling title optimization and tighter SEO structure.
+image_alt: >-
+  Black female performer stands in a dramatic spotlight, conveying autonomy,
+  scrutiny, and resilience.
 ---
 
 Janet Jackson transformed the meaning of pop stardom by making autonomy sound irresistible. Her breakthrough era was more than a career reset. It became a cultural statement about family expectations, Black womanhood, creative ownership, and the right to define oneself in public.
