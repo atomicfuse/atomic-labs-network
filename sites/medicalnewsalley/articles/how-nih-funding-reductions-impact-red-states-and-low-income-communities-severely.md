@@ -1,26 +1,42 @@
 ---
-title: "How NIH Funding Reductions Impact Red States and Low-Income Communities Severely"
-description: "Planned budget cuts to the National Institutes of Health (NIH) may disproportionately harm poorer demographics and red states, potentially reducing research resources, exacerbating health disparities, and threatening the US economy through job losses in the scientific sector."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T06:16:29+00:00"
-author: "Taylor Winters"
+title: >-
+  How NIH Funding Reductions Impact Red States and Low-Income Communities
+  Severely
+description: >-
+  Planned budget cuts to the National Institutes of Health (NIH) may
+  disproportionately harm poorer demographics and red states, potentially
+  reducing research resources, exacerbating health disparities, and threatening
+  the US economy through job losses in the scientific sector.
+type: standard
+status: review
+publishDate: '2025-04-07T06:16:29+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Clinical Trials &amp; Research"
-  - "News"
-slug: "how-nih-funding-reductions-impact-red-states-and-low-income-communities-severely"
+  - Health News
+  - Clinical Trials &amp; Research
+  - News
+slug: >-
+  how-nih-funding-reductions-impact-red-states-and-low-income-communities-severely
 reading_time: 2
-source_url: "https://medicalnewsalley.com/how-nih-funding-reductions-impact-red-states-and-low-income-communities-severely/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/how-nih-funding-reductions-impact-red-states-and-low-income-communities-severely/
+imported_from: wordpress
 wp_original_id: 32326
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/how-nih-funding-reductions-impact-red-states-and-low-income-communities-severely.webp
 seo:
-  canonical: "https://medicalnewsalley.com/how-nih-funding-reductions-impact-red-states-and-low-income-communities-severely/"
-  og_title: "How NIH Funding Reductions Impact Red States and Low-Income Communities Severely - Medical News Alley"
-  og_description: "Planned budget cuts to the National Institutes of Health (NIH) may disproportionately harm poorer demographics and red states. These cuts could reduce research resources, exacerbate health disparities, and impact the US economy by leading to job losses in the scientific sector."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/how-nih-funding-reductions-impact-red-states-and-low-income-communities-severely/
+  og_title: >-
+    How NIH Funding Reductions Impact Red States and Low-Income Communities
+    Severely - Medical News Alley
+  og_description: >-
+    Planned budget cuts to the National Institutes of Health (NIH) may
+    disproportionately harm poorer demographics and red states. These cuts could
+    reduce research resources, exacerbate health disparities, and impact the US
+    economy by leading to job losses in the scientific sector.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -28,7 +44,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Well-structured article with good tone and relevant health policy content, but severely penalized for being too short at only 321 words when target is 800-1200 words."
+quality_note: >-
+  Well-structured article with good tone and relevant health policy content, but
+  severely penalized for being too short at only 321 words when target is
+  800-1200 words.
+image_alt: >-
+  Rural clinic at dusk with patients in silhouette and a softly lit lab bench
+  nearby
 ---
 
 The potential implications of planned budget reductions to the National Institutes of Health (NIH) are under intense scrutiny. The proposed cuts, intended to lower the federal budget, may inadvertently hurt poorer demographics and red states more significantly.
