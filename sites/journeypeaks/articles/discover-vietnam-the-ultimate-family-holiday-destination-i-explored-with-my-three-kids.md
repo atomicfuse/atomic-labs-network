@@ -1,26 +1,42 @@
 ---
-title: "Discover Vietnam: The Ultimate Family Holiday Destination I Explored With My Three Kids"
-description: "Vietnam is a unique family vacation destination offering cultural immersion, historical exploration, and natural beauty. The country's rich heritage, historical sites, and picturesque landscapes provide a rewarding experience for both children and adults, making it an ideal family getaway."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T09:01:40+00:00"
-author: "Taylor Winters"
+title: >-
+  Discover Vietnam: The Ultimate Family Holiday Destination I Explored With My
+  Three Kids
+description: >-
+  Vietnam is a unique family vacation destination offering cultural immersion,
+  historical exploration, and natural beauty. The country's rich heritage,
+  historical sites, and picturesque landscapes provide a rewarding experience
+  for both children and adults, making it an ideal family getaway.
+type: standard
+status: review
+publishDate: '2025-04-07T09:01:40+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Features"
-  - "Travel"
-slug: "discover-vietnam-the-ultimate-family-holiday-destination-i-explored-with-my-three-kids"
+  - Destinations
+  - Features
+  - Travel
+slug: >-
+  discover-vietnam-the-ultimate-family-holiday-destination-i-explored-with-my-three-kids
 reading_time: 2
-source_url: "https://journeypeaks.com/discover-vietnam-the-ultimate-family-holiday-destination-i-explored-with-my-three-kids/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/discover-vietnam-the-ultimate-family-holiday-destination-i-explored-with-my-three-kids/
+imported_from: wordpress
 wp_original_id: 38618
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-vietnam-the-ultimate-family-holiday-destination-i-explored-with-my-three-kids.webp
 seo:
-  canonical: "https://journeypeaks.com/discover-vietnam-the-ultimate-family-holiday-destination-i-explored-with-my-three-kids/"
-  og_title: "Discover Vietnam: The Ultimate Family Holiday Destination I Explored With My Three Kids - Journey Peaks"
-  og_description: "Vietnam is a unique family vacation destination offering cultural immersion, historical exploration, and natural beauty. The country's rich heritage, historical sites, and picturesque landscapes provide a rewarding experience for both children and adults, making it an ideal family getaway."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/discover-vietnam-the-ultimate-family-holiday-destination-i-explored-with-my-three-kids/
+  og_title: >-
+    Discover Vietnam: The Ultimate Family Holiday Destination I Explored With My
+    Three Kids - Journey Peaks
+  og_description: >-
+    Vietnam is a unique family vacation destination offering cultural immersion,
+    historical exploration, and natural beauty. The country's rich heritage,
+    historical sites, and picturesque landscapes provide a rewarding experience
+    for both children and adults, making it an ideal family getaway.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -28,7 +44,10 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with good tone and keyword relevance, but significantly under target word count at only 295 words when 800-1200 is expected."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  under target word count at only 295 words when 800-1200 is expected.
+image_alt: Family on a boat exploring Vietnam’s lush river landscape at golden hour
 ---
 
 Have you considered Vietnam as your next family vacation destination? There is more to this Southeast Asian country than meets the eye. It offers a unique blend of cultural immersion, historical exploration, and natural beauty, making it an ideal getaway for families.
