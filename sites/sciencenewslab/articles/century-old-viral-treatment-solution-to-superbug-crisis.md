@@ -1,22 +1,28 @@
 ---
-title: "Century-Old Viral Treatment: Solution to Superbug Crisis?"
-description: "Scientists are exploring phage therapy as a promising alternative to combat antibiotic-resistant bacteria. This method employs viruses to specifically target harmful bacteria, offering hope against superbugs threatening global health."
-type: "standard"
-status: "review"
-publishDate: "2025-10-03T08:47:27"
-author: "Taylor Winters"
+title: 'Century-Old Viral Treatment: Solution to Superbug Crisis?'
+description: >-
+  Scientists are exploring phage therapy as a promising alternative to combat
+  antibiotic-resistant bacteria. This method employs viruses to specifically
+  target harmful bacteria, offering hope against superbugs threatening global
+  health.
+type: standard
+status: review
+publishDate: '2025-10-03T08:47:27'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "century-old-viral-treatment-solution-to-superbug-crisis"
+  - Space
+  - Humans
+slug: century-old-viral-treatment-solution-to-superbug-crisis
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/century-old-viral-treatment-solution-to-superbug-crisis/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/century-old-viral-treatment-solution-to-superbug-crisis/
+imported_from: wordpress
 wp_original_id: 15004
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/century-old-viral-treatment-solution-to-superbug-crisis.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/century-old-viral-treatment-solution-to-superbug-crisis/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/century-old-viral-treatment-solution-to-superbug-crisis/
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 30
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (612 words vs 800-1200 target) and doesn't align with site's focus on Space, Nature, Physics, Technology, Environment topics."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (612 words vs 800-1200 target) and doesn't align with site's focus on Space,
+  Nature, Physics, Technology, Environment topics.
+image_alt: >-
+  Glowing phage-like particles targeting dark bacteria in a clean
+  laboratory-inspired scene.
 ---
 
 In the face of an alarming rise in antibiotic-resistant bacteria, scientists are revisiting a century-old approach that could offer a glimmer of hope. This method, known as phage therapy, utilizes viruses to combat bacterial infections, presenting a promising alternative to traditional antibiotics. With superbugs posing a significant threat to global health, the revival of this therapy could be a game-changer in modern medicine.
