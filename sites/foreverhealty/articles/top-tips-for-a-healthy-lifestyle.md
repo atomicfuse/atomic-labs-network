@@ -1,26 +1,34 @@
 ---
-title: "Top Tips for a Healthy Lifestyle"
-description: "Maintaining a healthy lifestyle involves a balanced diet, regular physical activity, and mental well-being. Emphasizing a variety of nutrient-rich foods, staying active, managing stress, and ensuring hydration can enhance overall health and quality of life."
-type: "standard"
-status: "published"
-publishDate: "2025-05-12T06:09:27+00:00"
-author: "Elena Hartwell"
+title: Top Tips for a Healthy Lifestyle
+description: >-
+  Maintaining a healthy lifestyle involves a balanced diet, regular physical
+  activity, and mental well-being. Emphasizing a variety of nutrient-rich foods,
+  staying active, managing stress, and ensuring hydration can enhance overall
+  health and quality of life.
+type: standard
+status: published
+publishDate: '2025-05-12T06:09:27+00:00'
+author: Elena Hartwell
 tags:
-  - "Healthy Living Tips"
-  - "Mind &amp; Body Wellness"
-  - "Nutrition &amp; Diet"
-slug: "top-tips-for-a-healthy-lifestyle"
+  - Healthy Living Tips
+  - Mind &amp; Body Wellness
+  - Nutrition &amp; Diet
+slug: top-tips-for-a-healthy-lifestyle
 reading_time: 3
-source_url: "https://foreverhealty.com/top-tips-for-a-healthy-lifestyle/"
-imported_from: "wordpress"
+source_url: 'https://foreverhealty.com/top-tips-for-a-healthy-lifestyle/'
+imported_from: wordpress
 wp_original_id: 19055
-featuredImage: "/assets/images/foreverhealty-general-article.webp"
+featuredImage: /assets/images/top-tips-for-a-healthy-lifestyle.webp
 seo:
-  canonical: "https://foreverhealty.com/top-tips-for-a-healthy-lifestyle/"
-  og_title: "Top Tips for a Healthy Lifestyle - Forever Healthy"
-  og_description: "Maintaining a healthy lifestyle involves a balanced diet, regular physical activity, and mental well-being. Emphasizing a variety of nutrient-rich foods, staying active, managing stress, and ensuring hydration can enhance overall health and quality of life."
-  og_image: "https://foreverhealty.com/wp-content/uploads/2025/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://foreverhealty.com/top-tips-for-a-healthy-lifestyle/'
+  og_title: Top Tips for a Healthy Lifestyle - Forever Healthy
+  og_description: >-
+    Maintaining a healthy lifestyle involves a balanced diet, regular physical
+    activity, and mental well-being. Emphasizing a variety of nutrient-rich
+    foods, staying active, managing stress, and ensuring hydration can enhance
+    overall health and quality of life.
+  og_image: 'https://foreverhealty.com/wp-content/uploads/2025/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword alignment, but falls short on word count (534 vs target 800-1200) and has a generic title that could be more compelling for SEO."
+quality_note: >-
+  Well-written article with good tone and keyword alignment, but falls short on
+  word count (534 vs target 800-1200) and has a generic title that could be more
+  compelling for SEO.
+image_alt: >-
+  Sunlit wellness scene with fresh food, water, greenery, and a yoga mat in a
+  calm home setting.
 ---
 
 In today's fast-paced world, maintaining a healthy lifestyle can be a challenging yet rewarding endeavor. As people increasingly prioritize their well-being, understanding the fundamentals of healthy living becomes crucial. This article delves into essential components of a healthy lifestyle, offering practical tips and insights to enhance your physical and mental health.
