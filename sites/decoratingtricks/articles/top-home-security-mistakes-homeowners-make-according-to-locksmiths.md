@@ -1,25 +1,38 @@
 ---
-title: "Top Home Security Mistakes Homeowners Make, According to Locksmiths"
-description: "Home security is vital, yet common mistakes can leave homes vulnerable. Addressing issues like inadequate deadbolts, window security, and outdated locks enhances safety and provides peace of mind."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T09:19:31+00:00"
-author: "Taylor Winters"
+title: 'Top Home Security Mistakes Homeowners Make, According to Locksmiths'
+description: >-
+  Home security is vital, yet common mistakes can leave homes vulnerable.
+  Addressing issues like inadequate deadbolts, window security, and outdated
+  locks enhances safety and provides peace of mind.
+type: standard
+status: review
+publishDate: '2026-01-12T09:19:31+00:00'
+author: Taylor Winters
 tags:
-  - "Home"
-  - "Home Improvement"
-slug: "top-home-security-mistakes-homeowners-make-according-to-locksmiths"
+  - Home
+  - Home Improvement
+slug: top-home-security-mistakes-homeowners-make-according-to-locksmiths
 reading_time: 3
-source_url: "https://decoratingtricks.com/top-home-security-mistakes-homeowners-make-according-to-locksmiths/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/top-home-security-mistakes-homeowners-make-according-to-locksmiths/
+imported_from: wordpress
 wp_original_id: 21542
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/top-home-security-mistakes-homeowners-make-according-to-locksmiths.webp
 seo:
-  canonical: "https://decoratingtricks.com/top-home-security-mistakes-homeowners-make-according-to-locksmiths/"
-  og_title: "Top Home Security Mistakes Homeowners Make, According to Locksmiths - Decorating Tricks"
-  og_description: "Home security is vital, yet common mistakes can leave homes vulnerable. Addressing issues like inadequate deadbolts, window security, and outdated locks enhances safety. Implementing smart locks and maintaining existing systems can significantly reduce the risk of unauthorized entry and provide peace of mind."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/top-home-security-mistakes-homeowners-make-according-to-locksmiths/
+  og_title: >-
+    Top Home Security Mistakes Homeowners Make, According to Locksmiths -
+    Decorating Tricks
+  og_description: >-
+    Home security is vital, yet common mistakes can leave homes vulnerable.
+    Addressing issues like inadequate deadbolts, window security, and outdated
+    locks enhances safety. Implementing smart locks and maintaining existing
+    systems can significantly reduce the risk of unauthorized entry and provide
+    peace of mind.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 40
-quality_note: "While the article is well-written and factually sound, it falls short on content length and doesn't align well with the site's focus on decorating, DIY projects, and design tips."
+quality_note: >-
+  While the article is well-written and factually sound, it falls short on
+  content length and doesn't align well with the site's focus on decorating, DIY
+  projects, and design tips.
+image_alt: >-
+  Suburban front door at dusk with porch light, deadbolt, and shadowed window
+  details
 ---
 
 Home security is a top priority for homeowners, yet many common mistakes can leave your property vulnerable. Professional locksmiths often see the same errors repeated by homeowners, potentially putting their safety at risk. By addressing these issues, you can enhance your home security and enjoy peace of mind.
