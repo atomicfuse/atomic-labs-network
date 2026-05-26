@@ -200,22 +200,23 @@ sites:
   - domain: funnypigeon
     company: NGC
     vertical: Entertainment
-    status: Staging
+    status: Live
     site_id: "9619803022198"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-25T10:28:22.340Z
+    last_updated: 2026-05-26T08:46:33.624Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 2dbca4374ab4f2e834367ad154ccb16d
     staging_branch: staging/funnypigeon
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=funnypigeon
     saved_previews: null
-    custom_domain: null
+    custom_domain: funnypigeon.com
+    worker_pending_dns: false
   - domain: eznutritiontips
     company: ATL
     vertical: Food & Drink
