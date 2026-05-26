@@ -1,26 +1,34 @@
 ---
-title: "Top Spring Break Destinations Safer Than Mexico"
-description: "Spring break offers a chance to unwind and explore new places with safety in mind. Destinations like Myrtle Beach and Sedona provide a mix of fun and security, ensuring a worry-free vacation for families and adventure seekers alike."
-type: "standard"
-status: "published"
-publishDate: "2026-03-09T09:57:24+00:00"
-author: "Taylor Winters"
+title: Top Spring Break Destinations Safer Than Mexico
+description: >-
+  Spring break offers a chance to unwind and explore new places with safety in
+  mind. Destinations like Myrtle Beach and Sedona provide a mix of fun and
+  security, ensuring a worry-free vacation for families and adventure seekers
+  alike.
+type: standard
+status: published
+publishDate: '2026-03-09T09:57:24+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "top-spring-break-destinations-safer-than-mexico"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: top-spring-break-destinations-safer-than-mexico
 reading_time: 3
-source_url: "https://journeypeaks.com/top-spring-break-destinations-safer-than-mexico/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-spring-break-destinations-safer-than-mexico/'
+imported_from: wordpress
 wp_original_id: 38821
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-spring-break-destinations-safer-than-mexico.webp
 seo:
-  canonical: "https://journeypeaks.com/top-spring-break-destinations-safer-than-mexico/"
-  og_title: "Top Spring Break Destinations Safer Than Mexico - Journey Peaks"
-  og_description: "Spring break offers a chance to unwind and explore new places with safety in mind. Destinations like Myrtle Beach and Sedona provide a mix of fun and security, ensuring a worry-free vacation for families and adventure seekers alike."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/top-spring-break-destinations-safer-than-mexico/'
+  og_title: Top Spring Break Destinations Safer Than Mexico - Journey Peaks
+  og_description: >-
+    Spring break offers a chance to unwind and explore new places with safety in
+    mind. Destinations like Myrtle Beach and Sedona provide a mix of fun and
+    security, ensuring a worry-free vacation for families and adventure seekers
+    alike.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -28,7 +36,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel article with good tone and keyword relevance, but significantly under the target word count which impacts overall effectiveness."
+quality_note: >-
+  Well-written travel article with good tone and keyword relevance, but
+  significantly under the target word count which impacts overall effectiveness.
+image_alt: >-
+  Travelers enjoy a sunny boardwalk with beach and red-rock scenery suggesting
+  safe spring break options.
 ---
 
 Spring break offers the perfect opportunity for students and families to unwind and explore new places. However, safety is a crucial concern when selecting a travel destination. Fortunately, numerous spots provide the right mix of fun and security, ensuring a worry-free vacation.
