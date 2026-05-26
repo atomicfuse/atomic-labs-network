@@ -1,28 +1,38 @@
 ---
-title: "The Enduring Legacy of Charlie Kirk: A Tribute by Chris Cuomo"
-description: "Chris Cuomo pays tribute to the late Charlie Kirk, reflecting on his contributions to civil political debate and the importance of constructive dialogue in today's polarized society."
-type: "standard"
-status: "review"
-publishDate: "2025-09-11T04:07:29+00:00"
-author: "Taylor Winters"
+title: 'The Enduring Legacy of Charlie Kirk: A Tribute by Chris Cuomo'
+description: >-
+  Chris Cuomo pays tribute to the late Charlie Kirk, reflecting on his
+  contributions to civil political debate and the importance of constructive
+  dialogue in today's polarized society.
+type: standard
+status: review
+publishDate: '2025-09-11T04:07:29+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Opinion"
-slug: "the-enduring-legacy-of-charlie-kirk-a-tribute-by-chris-cuomo"
+  - News
+  - Opinion
+slug: the-enduring-legacy-of-charlie-kirk-a-tribute-by-chris-cuomo
 reading_time: 2
-source_url: "https://carsnewsmag.com/the-enduring-legacy-of-charlie-kirk-a-tribute-by-chris-cuomo/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/the-enduring-legacy-of-charlie-kirk-a-tribute-by-chris-cuomo/
+imported_from: wordpress
 wp_original_id: 38490
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/the-enduring-legacy-of-charlie-kirk-a-tribute-by-chris-cuomo.webp
 seo:
-  canonical: "https://carsnewsmag.com/the-enduring-legacy-of-charlie-kirk-a-tribute-by-chris-cuomo/"
-  og_title: "The Enduring Legacy of Charlie Kirk: A Tribute by Chris Cuomo - Cars News Magazine"
-  og_description: "Explore Chris Cuomo's tribute to Charlie Kirk and the impact of his work in fostering civil debate."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/the-enduring-legacy-of-charlie-kirk-a-tribute-by-chris-cuomo/
+  og_title: >-
+    The Enduring Legacy of Charlie Kirk: A Tribute by Chris Cuomo - Cars News
+    Magazine
+  og_description: >-
+    Explore Chris Cuomo's tribute to Charlie Kirk and the impact of his work in
+    fostering civil debate.
+  twitter_card: summary_large_image
 videos:
-  - id: "c70473be"
-    url: "https://www.youtube.com/watch?v=Y9LYU7siFRk"
-    position: "after-paragraph-2"
+  - id: c70473be
+    url: 'https://www.youtube.com/watch?v=Y9LYU7siFRk'
+    position: after-paragraph-2
 quality_score: 17
 score_breakdown:
   seo_quality: 15
@@ -30,7 +40,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 0
   keyword_relevance: 10
-quality_note: "This article contains major factual inaccuracies (Charlie Kirk is alive) and is completely off-topic for an automotive publication, making it unsuitable for carsnewsmag."
+quality_note: >-
+  This article contains major factual inaccuracies (Charlie Kirk is alive) and
+  is completely off-topic for an automotive publication, making it unsuitable
+  for carsnewsmag.
+image_alt: >-
+  Empty debate stage with two chairs under warm spotlights, evoking civil
+  dialogue and remembrance.
 ---
 
 In a recent episode of his show "CUOMO," Chris Cuomo pays tribute to Charlie Kirk, a conservative activist whose recent death has left a significant impact on both sides of the political spectrum. Despite their differing political views, Cuomo acknowledges the role Kirk played in fostering civil debate and making disagreement without being disagreeable an admirable trait in today's polarized society.
