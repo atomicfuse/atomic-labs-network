@@ -1,26 +1,39 @@
 ---
-title: "Orlando’s Holiday Festivities: 70 Days of November Celebration"
-description: "Orlando transforms into a festive wonderland this holiday season with a 70-day celebration featuring dazzling lights, exciting shows, and holiday cheer, offering unforgettable experiences for visitors of all ages and making it a must-visit destination."
-type: "standard"
-status: "published"
-publishDate: "2025-11-10T09:59:31+00:00"
-author: "Taylor Winters"
+title: 'Orlando’s Holiday Festivities: 70 Days of November Celebration'
+description: >-
+  Orlando transforms into a festive wonderland this holiday season with a 70-day
+  celebration featuring dazzling lights, exciting shows, and holiday cheer,
+  offering unforgettable experiences for visitors of all ages and making it a
+  must-visit destination.
+type: standard
+status: published
+publishDate: '2025-11-10T09:59:31+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "orlandos-holiday-festivities-70-days-of-november-celebration"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: orlandos-holiday-festivities-70-days-of-november-celebration
 reading_time: 3
-source_url: "https://journeypeaks.com/orlandos-holiday-festivities-70-days-of-november-celebration/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/orlandos-holiday-festivities-70-days-of-november-celebration/
+imported_from: wordpress
 wp_original_id: 38737
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/orlandos-holiday-festivities-70-days-of-november-celebration.webp
 seo:
-  canonical: "https://journeypeaks.com/orlandos-holiday-festivities-70-days-of-november-celebration/"
-  og_title: "Orlando's Holiday Festivities: 70 Days of November Celebration - Journey Peaks"
-  og_description: "Orlando transforms into a festive wonderland this holiday season with a 70-day celebration featuring dazzling lights, exciting shows, and holiday cheer, offering unforgettable experiences for visitors of all ages and making it a must-visit destination."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/11/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/orlandos-holiday-festivities-70-days-of-november-celebration/
+  og_title: >-
+    Orlando's Holiday Festivities: 70 Days of November Celebration - Journey
+    Peaks
+  og_description: >-
+    Orlando transforms into a festive wonderland this holiday season with a
+    70-day celebration featuring dazzling lights, exciting shows, and holiday
+    cheer, offering unforgettable experiences for visitors of all ages and
+    making it a must-visit destination.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/11/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written travel content with good keyword coverage and appropriate tone, but falls short on length and lacks specific details that could improve SEO and credibility."
+quality_note: >-
+  Well-written travel content with good keyword coverage and appropriate tone,
+  but falls short on length and lacks specific details that could improve SEO
+  and credibility.
+image_alt: >-
+  Festive Orlando street glowing with holiday lights, palm trees, and visitors
+  at dusk
 ---
 
 Orlando, a vibrant city known for its world-famous attractions, is set to transform into a festive wonderland this holiday season. Beginning in November, locals and tourists alike can immerse themselves in a spectacular 70-day celebration filled with dazzling lights, exciting shows, and holiday cheer. This annual event promises unforgettable experiences for visitors of all ages, making Orlando a must-visit destination during the festive period.
