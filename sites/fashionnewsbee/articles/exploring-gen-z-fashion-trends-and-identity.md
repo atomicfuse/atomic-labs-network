@@ -1,24 +1,36 @@
 ---
-title: "Exploring Gen Z Fashion Trends and Identity"
-description: "Generation Z is transforming fashion with a mix of vintage, streetwear, and digital influences, emphasizing individual expression and sustainability. This environmentally conscious generation drives brands to adopt ethical practices, while social media shapes trends and promotes inclusivity and diversity."
-type: "standard"
-status: "published"
-publishDate: "2026-03-05T09:49:28+00:00"
-author: "Taylor Winters"
+title: Exploring Gen Z Fashion Trends and Identity
+description: >-
+  Generation Z is transforming fashion with a mix of vintage, streetwear, and
+  digital influences, emphasizing individual expression and sustainability. This
+  environmentally conscious generation drives brands to adopt ethical practices,
+  while social media shapes trends and promotes inclusivity and diversity.
+type: standard
+status: published
+publishDate: '2026-03-05T09:49:28+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "exploring-gen-z-fashion-trends-and-identity"
+  - Fashion
+slug: exploring-gen-z-fashion-trends-and-identity
 reading_time: 3
-source_url: "https://fashionnewsbee.com/exploring-gen-z-fashion-trends-and-identity/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/exploring-gen-z-fashion-trends-and-identity/'
+imported_from: wordpress
 wp_original_id: 31647
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/exploring-gen-z-fashion-trends-and-identity.webp
 seo:
-  canonical: "https://fashionnewsbee.com/exploring-gen-z-fashion-trends-and-identity/"
-  og_title: "Exploring Gen Z Fashion Trends and Identity - Fashion News Bee"
-  og_description: "Generation Z is transforming fashion with a mix of vintage, streetwear, and digital influences, emphasizing individual expression and sustainability. This environmentally conscious generation drives brands to adopt ethical practices, while social media shapes trends and promotes inclusivity and diversity."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/03/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/exploring-gen-z-fashion-trends-and-identity/'
+  og_title: Exploring Gen Z Fashion Trends and Identity - Fashion News Bee
+  og_description: >-
+    Generation Z is transforming fashion with a mix of vintage, streetwear, and
+    digital influences, emphasizing individual expression and sustainability.
+    This environmentally conscious generation drives brands to adopt ethical
+    practices, while social media shapes trends and promotes inclusivity and
+    diversity.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/03/make_file.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Diverse Gen Z friends in expressive vintage and streetwear outfits in a sunny
+  urban courtyard
 ---
 
 Generation Z, the cohort born between the late 1990s and early 2010s, is redefining fashion with an eclectic mix of influences. Their unique sense of style embraces individual expression and sustainability, setting new trends that are quickly gaining traction worldwide.
