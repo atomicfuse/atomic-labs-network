@@ -1,26 +1,36 @@
 ---
-title: "Top Celebrity-Favorite Summer Vacation Spots to Visit"
-description: "Celebrities are setting travel trends by visiting exotic locations worldwide, from Thailand's tranquil beaches to Europe's vibrant streets, offering luxurious getaways with cultural and adventurous experiences. These destinations inspire fans to explore and enjoy unforgettable vacations."
-type: "standard"
-status: "published"
-publishDate: "2025-06-19T04:43:29+00:00"
-author: "Taylor Winters"
+title: Top Celebrity-Favorite Summer Vacation Spots to Visit
+description: >-
+  Celebrities are setting travel trends by visiting exotic locations worldwide,
+  from Thailand's tranquil beaches to Europe's vibrant streets, offering
+  luxurious getaways with cultural and adventurous experiences. These
+  destinations inspire fans to explore and enjoy unforgettable vacations.
+type: standard
+status: published
+publishDate: '2025-06-19T04:43:29+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "top-celebrity-favorite-summer-vacation-spots-to-visit"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: top-celebrity-favorite-summer-vacation-spots-to-visit
 reading_time: 3
-source_url: "https://journeypeaks.com/top-celebrity-favorite-summer-vacation-spots-to-visit/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-celebrity-favorite-summer-vacation-spots-to-visit/
+imported_from: wordpress
 wp_original_id: 38660
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-celebrity-favorite-summer-vacation-spots-to-visit.webp
 seo:
-  canonical: "https://journeypeaks.com/top-celebrity-favorite-summer-vacation-spots-to-visit/"
-  og_title: "Top Celebrity-Favorite Summer Vacation Spots to Visit - Journey Peaks"
-  og_description: "Celebrities are setting travel trends by visiting exotic locations worldwide, from Thailand's tranquil beaches to Europe's vibrant streets, offering luxurious getaways with cultural and adventurous experiences. These destinations inspire fans to explore and enjoy unforgettable vacations."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/06/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-celebrity-favorite-summer-vacation-spots-to-visit/
+  og_title: Top Celebrity-Favorite Summer Vacation Spots to Visit - Journey Peaks
+  og_description: >-
+    Celebrities are setting travel trends by visiting exotic locations
+    worldwide, from Thailand's tranquil beaches to Europe's vibrant streets,
+    offering luxurious getaways with cultural and adventurous experiences. These
+    destinations inspire fans to explore and enjoy unforgettable vacations.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/06/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "The article has good tone and keyword relevance but is significantly too short at 524 words compared to the 800-1200 word target, limiting its overall effectiveness."
+quality_note: >-
+  The article has good tone and keyword relevance but is significantly too short
+  at 524 words compared to the 800-1200 word target, limiting its overall
+  effectiveness.
+image_alt: >-
+  Luxury summer travel scene with an infinity pool, turquoise bay, and chic
+  vacation accessories
 ---
 
 This summer, celebrities are flocking to some of the most exotic and picturesque locations around the globe. From the soothing beaches of Thailand to the vibrant streets of Europe, these stars are setting trends with their travel choices, offering fans a glimpse into their luxurious getaways. These destinations are not just about relaxation but also provide cultural enrichment and unique experiences.
