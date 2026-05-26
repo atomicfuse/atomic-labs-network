@@ -1,24 +1,32 @@
 ---
-title: "Historic Good News Events on November 27"
-description: "November 27 is marked by significant historical events, including Alfred Nobel's will establishing the Nobel Prizes in 1895 and Coco Chanel's influential return to Paris in 1942, highlighting achievements in literature, science, and fashion."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T10:27:37+00:00"
-author: "Nico Harper"
+title: Historic Good News Events on November 27
+description: >-
+  November 27 is marked by significant historical events, including Alfred
+  Nobel's will establishing the Nobel Prizes in 1895 and Coco Chanel's
+  influential return to Paris in 1942, highlighting achievements in literature,
+  science, and fashion.
+type: standard
+status: review
+publishDate: '2025-11-27T10:27:37+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "historic-good-news-events-on-november-27"
+  - Hot Trends
+slug: historic-good-news-events-on-november-27
 reading_time: 3
-source_url: "https://gigsfreaks.com/historic-good-news-events-on-november-27/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/historic-good-news-events-on-november-27/'
+imported_from: wordpress
 wp_original_id: 982
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/historic-good-news-events-on-november-27.webp
 seo:
-  canonical: "https://gigsfreaks.com/historic-good-news-events-on-november-27/"
-  og_title: "Historic Good News Events on November 27 - GigsFreaks"
-  og_description: "November 27 is marked by significant historical events, including Alfred Nobel's will establishing the Nobel Prizes in 1895 and Coco Chanel's influential return to Paris in 1942, highlighting achievements in literature, science, and fashion."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/historic-good-news-events-on-november-27/'
+  og_title: Historic Good News Events on November 27 - GigsFreaks
+  og_description: >-
+    November 27 is marked by significant historical events, including Alfred
+    Nobel's will establishing the Nobel Prizes in 1895 and Coco Chanel's
+    influential return to Paris in 1942, highlighting achievements in
+    literature, science, and fashion.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/11/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 49
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 20
-quality_note: "The article lacks entertainment value and gigsfreaks-specific keywords, reads too formally for the target audience, and is significantly under the target word count."
+quality_note: >-
+  The article lacks entertainment value and gigsfreaks-specific keywords, reads
+  too formally for the target audience, and is significantly under the target
+  word count.
+image_alt: >-
+  Elegant historical still life evoking science, literature, legacy, and fashion
+  milestones on November 27.
 ---
 
 Throughout history, November 27 has been a day marked by notable events and achievements across various fields. From groundbreaking discoveries to significant cultural moments, this date has witnessed milestones that have shaped our world. Let us delve into some of these remarkable events that highlight the significance of this day.
