@@ -1,28 +1,34 @@
 ---
-title: "Effective Cinnamon Tea Recipe for Rapid Weight Loss"
-description: "Discover how to make cinnamon tea, an easy homemade drink that boosts metabolism and aids in burning belly fat."
-type: "standard"
-status: "review"
-publishDate: "2025-06-12T12:02:20+00:00"
-author: "Taylor Winters"
+title: Effective Cinnamon Tea Recipe for Rapid Weight Loss
+description: >-
+  Discover how to make cinnamon tea, an easy homemade drink that boosts
+  metabolism and aids in burning belly fat.
+type: standard
+status: review
+publishDate: '2025-06-12T12:02:20+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Weight Loss"
-slug: "effective-cinnamon-tea-recipe-for-rapid-weight-loss"
+  - Travel Tips
+  - Weight Loss
+slug: effective-cinnamon-tea-recipe-for-rapid-weight-loss
 reading_time: 2
-source_url: "https://travelbeautytips.com/effective-cinnamon-tea-recipe-for-rapid-weight-loss/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/effective-cinnamon-tea-recipe-for-rapid-weight-loss/
+imported_from: wordpress
 wp_original_id: 35911
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/effective-cinnamon-tea-recipe-for-rapid-weight-loss.webp
 seo:
-  canonical: "https://travelbeautytips.com/effective-cinnamon-tea-recipe-for-rapid-weight-loss/"
-  og_title: "Effective Cinnamon Tea Recipe for Rapid Weight Loss - Travel Beauty Tips"
-  og_description: "Discover how to make cinnamon tea, an easy homemade drink that boosts metabolism and aids in burning belly fat."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/effective-cinnamon-tea-recipe-for-rapid-weight-loss/
+  og_title: Effective Cinnamon Tea Recipe for Rapid Weight Loss - Travel Beauty Tips
+  og_description: >-
+    Discover how to make cinnamon tea, an easy homemade drink that boosts
+    metabolism and aids in burning belly fat.
+  twitter_card: summary_large_image
 videos:
-  - id: "59aab5b6"
-    url: "https://www.youtube.com/watch?v=aa8G3hVPai4"
-    position: "after-paragraph-2"
+  - id: 59aab5b6
+    url: 'https://www.youtube.com/watch?v=aa8G3hVPai4'
+    position: after-paragraph-2
 quality_score: 33
 score_breakdown:
   seo_quality: 25
@@ -30,7 +36,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 60
   keyword_relevance: 15
-quality_note: "This weight loss article is completely off-brand for a style and fashion travel site, too short at 376 words, lacks proper SEO optimization, and doesn't match the target audience or topics."
+quality_note: >-
+  This weight loss article is completely off-brand for a style and fashion
+  travel site, too short at 376 words, lacks proper SEO optimization, and
+  doesn't match the target audience or topics.
+image_alt: >-
+  Warm cinnamon tea with cinnamon sticks, lemon, and mint on a sunlit kitchen
+  counter
 ---
 
 Cinnamon tea has gained popularity as a natural remedy for weight loss due to its metabolism-boosting properties. This simple yet effective beverage can be a significant aid in your weight loss journey. In this article, we will guide you through making cinnamon tea using readily available ingredients from your kitchen.
