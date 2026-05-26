@@ -1,25 +1,38 @@
 ---
-title: "New SNES Games Added to Switch Online, Including Rare Mario Release"
-description: "Nintendo expands its Switch Online SNES library with \"Super Mario Bros: The Lost Levels,\" \"Kirby's Avalanche,\" and \"Fighter's History,\" offering platforming, puzzle, and fighting genres — including a challenging title released outside Japan for the first time."
-type: "standard"
-status: "published"
-publishDate: "2025-10-09T08:46:00+00:00"
-author: "Taylor Winters"
+title: 'New SNES Games Added to Switch Online, Including Rare Mario Release'
+description: >-
+  Nintendo expands its Switch Online SNES library with "Super Mario Bros: The
+  Lost Levels," "Kirby's Avalanche," and "Fighter's History," offering
+  platforming, puzzle, and fighting genres — including a challenging title
+  released outside Japan for the first time.
+type: standard
+status: published
+publishDate: '2025-10-09T08:46:00+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "new-snes-games-added-to-switch-online-including-rare-mario-release"
+  - Gaming News
+  - Community
+slug: new-snes-games-added-to-switch-online-including-rare-mario-release
 reading_time: 3
-source_url: "https://gamingnewsalley.com/new-snes-games-added-to-switch-online-including-rare-mario-release/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/new-snes-games-added-to-switch-online-including-rare-mario-release/
+imported_from: wordpress
 wp_original_id: 42531
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/new-snes-games-added-to-switch-online-including-rare-mario-release.webp
 seo:
-  canonical: "https://gamingnewsalley.com/new-snes-games-added-to-switch-online-including-rare-mario-release/"
-  og_title: "New SNES Games Added to Switch Online, Including Rare Mario Release - Gaming News Alley"
-  og_description: "Nintendo expands its Switch Online SNES library with \"Super Mario Bros: The Lost Levels,\" \"Kirby's Avalanche,\" and \"Fighter's History,\" offering platforming, puzzle, and fighting genres. This update introduces a challenging title outside Japan for the first time."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/10/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/new-snes-games-added-to-switch-online-including-rare-mario-release/
+  og_title: >-
+    New SNES Games Added to Switch Online, Including Rare Mario Release - Gaming
+    News Alley
+  og_description: >-
+    Nintendo expands its Switch Online SNES library with "Super Mario Bros: The
+    Lost Levels," "Kirby's Avalanche," and "Fighter's History," offering
+    platforming, puzzle, and fighting genres. This update introduces a
+    challenging title outside Japan for the first time.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/10/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written gaming news article with good tone and keyword coverage, but contains factual errors about Super Mario Bros 2/Lost Levels and is below optimal word count."
+quality_note: >-
+  Well-written gaming news article with good tone and keyword coverage, but
+  contains factual errors about Super Mario Bros 2/Lost Levels and is below
+  optimal word count.
+image_alt: Retro gaming worlds glow from a modern handheld console on a dark desk.
 ---
 
 Nintendo continues to delight fans by expanding its Nintendo Switch Online collection, recently adding three notable games to its Super Nintendo Entertainment System (SNES) library. For fans of classic gaming, this update is particularly exciting because it includes a title that has never been released outside of Japan before.
