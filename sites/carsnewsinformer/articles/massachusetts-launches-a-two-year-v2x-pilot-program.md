@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-massachusetts-launches-a-two-year-v2x-pilot-program
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/massachusetts-launches-a-two-year-v2x-pilot-program.webp
 reading_time: 3
 quality_score: 75
 score_breakdown:
@@ -31,6 +31,7 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and accuracy, but significantly under
   target word count at 421 words instead of 800-1200.
+image_alt: Connected car navigating a city intersection with glowing V2X network signals
 ---
 ## Massachusetts Advances Connected Vehicle Technology
 
