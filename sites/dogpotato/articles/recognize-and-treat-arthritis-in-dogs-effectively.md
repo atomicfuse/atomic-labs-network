@@ -17,7 +17,7 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-recognize-and-treat-arthritis-in-dogs-effectively
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/recognize-and-treat-arthritis-in-dogs-effectively.webp
 reading_time: 3
 quality_score: 76
 score_breakdown:
@@ -30,6 +30,7 @@ quality_note: >-
   The article covers relevant pet health content with good keyword alignment,
   but lacks specific details and actionable information that would make it more
   valuable to dog owners seeking practical arthritis guidance.
+image_alt: 'Senior dog being gently supported by its owner in a warm, sunlit home setting'
 ---
 ## Understanding Canine Arthritis
 
