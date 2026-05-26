@@ -1,26 +1,38 @@
 ---
-title: "Essential Design Element to Boost Your Home’s Curb Appeal"
-description: "Enhancing your home's curb appeal involves creating a welcoming atmosphere with strategies like painting the front door, upgrading lighting, and thoughtful landscaping. These improvements can transform your home's exterior, boost property value, and provide personal enjoyment."
-type: "standard"
-status: "review"
-publishDate: "2025-05-29T04:05:25+00:00"
-author: "Taylor Winters"
+title: Essential Design Element to Boost Your Home’s Curb Appeal
+description: >-
+  Enhancing your home's curb appeal involves creating a welcoming atmosphere
+  with strategies like painting the front door, upgrading lighting, and
+  thoughtful landscaping. These improvements can transform your home's exterior,
+  boost property value, and provide personal enjoyment.
+type: standard
+status: review
+publishDate: '2025-05-29T04:05:25+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "Home Improvement"
-slug: "essential-design-element-to-boost-your-homes-curb-appeal"
+  - Design
+  - Home
+  - Home Improvement
+slug: essential-design-element-to-boost-your-homes-curb-appeal
 reading_time: 3
-source_url: "https://decoratingtricks.com/essential-design-element-to-boost-your-homes-curb-appeal/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/essential-design-element-to-boost-your-homes-curb-appeal/
+imported_from: wordpress
 wp_original_id: 21377
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/essential-design-element-to-boost-your-homes-curb-appeal.webp
 seo:
-  canonical: "https://decoratingtricks.com/essential-design-element-to-boost-your-homes-curb-appeal/"
-  og_title: "Essential Design Element to Boost Your Home's Curb Appeal - Decorating Tricks"
-  og_description: "Enhancing your home's curb appeal involves creating a welcoming atmosphere with strategies like painting the front door, upgrading lighting, and thoughtful landscaping. These improvements can transform your home's exterior, boost property value, and provide personal enjoyment."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2025/05/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/essential-design-element-to-boost-your-homes-curb-appeal/
+  og_title: >-
+    Essential Design Element to Boost Your Home's Curb Appeal - Decorating
+    Tricks
+  og_description: >-
+    Enhancing your home's curb appeal involves creating a welcoming atmosphere
+    with strategies like painting the front door, upgrading lighting, and
+    thoughtful landscaping. These improvements can transform your home's
+    exterior, boost property value, and provide personal enjoyment.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2025/05/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -28,7 +40,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant content, but significantly under the target word count at 475 words versus the 800-1200 target."
+quality_note: >-
+  Well-written article with good tone and relevant content, but significantly
+  under the target word count at 475 words versus the 800-1200 target.
+image_alt: >-
+  Welcoming home entry with a painted front door, warm lighting, planters, and
+  manicured landscaping.
 ---
 
 Enhancing your home's curb appeal is more than a visual makeover; it's about creating a welcoming atmosphere that captivates and invites. Whether you're looking to sell your home or simply want to enjoy a more beautiful environment, focusing on the exterior can make a significant difference. Let's explore effective strategies to boost your home's curb appeal.
