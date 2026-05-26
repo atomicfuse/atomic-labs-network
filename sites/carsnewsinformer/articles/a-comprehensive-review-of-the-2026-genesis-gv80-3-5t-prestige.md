@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-a-comprehensive-review-of-the-2026-genesis-gv80-3-5t-prestige
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/a-comprehensive-review-of-the-2026-genesis-gv80-3-5t-prestige.webp
 reading_time: 3
 quality_score: 50
 score_breakdown:
@@ -34,6 +35,7 @@ quality_note: >-
   Article lacks substance with repetitive phrases about unavailable information
   and appears to be poorly researched content disguised as a comprehensive
   review.
+image_alt: Luxury charcoal SUV parked outside modern architecture at blue hour
 ---
 ## Genesis GV80 3.5T Prestige Overview
 
