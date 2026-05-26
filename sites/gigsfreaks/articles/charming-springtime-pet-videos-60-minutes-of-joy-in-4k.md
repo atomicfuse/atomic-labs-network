@@ -1,28 +1,33 @@
 ---
-title: "Charming Springtime Pet Videos: 60 Minutes of Joy in 4K"
-description: "Explore delightful spring-themed pet moments in 4K, capturing the essence of the season with 60 minutes of charming and playful animal antics."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:14:12+00:00"
-author: "Nico Harper"
+title: 'Charming Springtime Pet Videos: 60 Minutes of Joy in 4K'
+description: >-
+  Explore delightful spring-themed pet moments in 4K, capturing the essence of
+  the season with 60 minutes of charming and playful animal antics.
+type: standard
+status: review
+publishDate: '2025-05-05T16:14:12+00:00'
+author: Nico Harper
 tags:
-  - "Funny Animals"
-  - "Good Vibes"
-slug: "charming-springtime-pet-videos-60-minutes-of-joy-in-4k"
+  - Funny Animals
+  - Good Vibes
+slug: charming-springtime-pet-videos-60-minutes-of-joy-in-4k
 reading_time: 2
-source_url: "https://gigsfreaks.com/charming-springtime-pet-videos-60-minutes-of-joy-in-4k/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/charming-springtime-pet-videos-60-minutes-of-joy-in-4k/'
+imported_from: wordpress
 wp_original_id: 879
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/charming-springtime-pet-videos-60-minutes-of-joy-in-4k.webp
 seo:
-  canonical: "https://gigsfreaks.com/charming-springtime-pet-videos-60-minutes-of-joy-in-4k/"
-  og_title: "Charming Springtime Pet Videos: 60 Minutes of Joy in 4K - GigsFreaks"
-  og_description: "Explore delightful spring-themed pet moments in 4K, capturing the essence of the season."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/charming-springtime-pet-videos-60-minutes-of-joy-in-4k/
+  og_title: 'Charming Springtime Pet Videos: 60 Minutes of Joy in 4K - GigsFreaks'
+  og_description: >-
+    Explore delightful spring-themed pet moments in 4K, capturing the essence of
+    the season.
+  twitter_card: summary_large_image
 videos:
-  - id: "c45c9e3b"
-    url: "https://www.youtube.com/watch?v=J3cag2OQbgs"
-    position: "after-paragraph-2"
+  - id: c45c9e3b
+    url: 'https://www.youtube.com/watch?v=J3cag2OQbgs'
+    position: after-paragraph-2
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -30,7 +35,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and keyword alignment but is significantly too short at 326 words and lacks proper SEO structure with no headings or meta description optimization."
+quality_note: >-
+  The article has good tone and keyword alignment but is significantly too short
+  at 326 words and lacks proper SEO structure with no headings or meta
+  description optimization.
+image_alt: >-
+  Playful puppy and kitten in a sunny spring meadow with soft flowers and warm
+  light.
 ---
 
 Spring showers not only bring May flowers but also an abundance of charming pet moments that warm the heart. In this delightful 60-minute compilation, captured in stunning 4K resolution, you'll experience the playful antics of our furry friends as they embrace the joys of springtime.
