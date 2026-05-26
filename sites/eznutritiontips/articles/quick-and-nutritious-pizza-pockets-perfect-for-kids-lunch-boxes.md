@@ -1,29 +1,38 @@
 ---
-title: "Quick and Nutritious Pizza Pockets: Perfect for Kids’ Lunch Boxes"
-description: "Discover how to make healthy pizza pockets in just 10 minutes, ideal for kids' lunch boxes and quick breakfasts."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T10:11:26+00:00"
-author: "Taylor Winters"
+title: 'Quick and Nutritious Pizza Pockets: Perfect for Kids’ Lunch Boxes'
+description: >-
+  Discover how to make healthy pizza pockets in just 10 minutes, ideal for kids'
+  lunch boxes and quick breakfasts.
+type: standard
+status: published
+publishDate: '2026-02-16T10:11:26+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "quick-and-nutritious-pizza-pockets-perfect-for-kids-lunch-boxes"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: quick-and-nutritious-pizza-pockets-perfect-for-kids-lunch-boxes
 reading_time: 2
-source_url: "https://eznutritiontips.com/quick-and-nutritious-pizza-pockets-perfect-for-kids-lunch-boxes/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/quick-and-nutritious-pizza-pockets-perfect-for-kids-lunch-boxes/
+imported_from: wordpress
 wp_original_id: 18994
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/quick-and-nutritious-pizza-pockets-perfect-for-kids-lunch-boxes.webp
 seo:
-  canonical: "https://eznutritiontips.com/quick-and-nutritious-pizza-pockets-perfect-for-kids-lunch-boxes/"
-  og_title: "Quick and Nutritious Pizza Pockets: Perfect for Kids' Lunch Boxes - Easy Nutrition Tips"
-  og_description: "Discover how to make healthy pizza pockets in just 10 minutes, ideal for kids' lunch boxes and quick breakfasts."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/quick-and-nutritious-pizza-pockets-perfect-for-kids-lunch-boxes/
+  og_title: >-
+    Quick and Nutritious Pizza Pockets: Perfect for Kids' Lunch Boxes - Easy
+    Nutrition Tips
+  og_description: >-
+    Discover how to make healthy pizza pockets in just 10 minutes, ideal for
+    kids' lunch boxes and quick breakfasts.
+  twitter_card: summary_large_image
 videos:
-  - id: "6fffad2d"
-    url: "https://www.youtube.com/watch?v=rqtQ5u6btWw"
-    position: "after-paragraph-2"
+  - id: 6fffad2d
+    url: 'https://www.youtube.com/watch?v=rqtQ5u6btWw'
+    position: after-paragraph-2
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -31,7 +40,12 @@ score_breakdown:
   content_length: 39
   factual_accuracy: 95
   keyword_relevance: 88
-quality_note: "Well-written article with good tone and keyword relevance, but significantly too short at 390 words compared to the 800-1200 target range."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  too short at 390 words compared to the 800-1200 target range.
+image_alt: >-
+  Healthy homemade pizza pockets packed with fruit and veggies in a kids’ lunch
+  box.
 ---
 
 Are you constantly searching for quick and healthy meals that your kids will love? Look no further! These healthy pizza pockets can be prepared in just 10 minutes, making them the perfect addition to your kids' lunch boxes or a quick breakfast option.
