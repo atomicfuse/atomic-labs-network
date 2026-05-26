@@ -1,29 +1,41 @@
 ---
-title: "Intense Police Pursuit: Pickup Truck with Fake Plates Navigates San Fernando Valley"
-description: "A high-stakes police chase unfolded as officers pursued a pickup truck with fake plates across the San Fernando and San Gabriel Valleys."
-type: "standard"
-status: "review"
-publishDate: "2026-03-05T09:21:23+00:00"
-author: "Taylor Winters"
+title: >-
+  Intense Police Pursuit: Pickup Truck with Fake Plates Navigates San Fernando
+  Valley
+description: >-
+  A high-stakes police chase unfolded as officers pursued a pickup truck with
+  fake plates across the San Fernando and San Gabriel Valleys.
+type: standard
+status: review
+publishDate: '2026-03-05T09:21:23+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Offbeat"
-  - "Videos"
-slug: "intense-police-pursuit-pickup-truck-with-fake-plates-navigates-san-fernando-valley"
+  - News
+  - Offbeat
+  - Videos
+slug: >-
+  intense-police-pursuit-pickup-truck-with-fake-plates-navigates-san-fernando-valley
 reading_time: 2
-source_url: "https://carsnewsmag.com/intense-police-pursuit-pickup-truck-with-fake-plates-navigates-san-fernando-valley/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/intense-police-pursuit-pickup-truck-with-fake-plates-navigates-san-fernando-valley/
+imported_from: wordpress
 wp_original_id: 38578
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/intense-police-pursuit-pickup-truck-with-fake-plates-navigates-san-fernando-valley.webp
 seo:
-  canonical: "https://carsnewsmag.com/intense-police-pursuit-pickup-truck-with-fake-plates-navigates-san-fernando-valley/"
-  og_title: "Intense Police Pursuit: Pickup Truck with Fake Plates Navigates San Fernando Valley - Cars News Magazine"
-  og_description: "A high-stakes police chase unfolded as officers pursued a pickup truck with fake plates across the San Fernando and San Gabriel Valleys."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/intense-police-pursuit-pickup-truck-with-fake-plates-navigates-san-fernando-valley/
+  og_title: >-
+    Intense Police Pursuit: Pickup Truck with Fake Plates Navigates San Fernando
+    Valley - Cars News Magazine
+  og_description: >-
+    A high-stakes police chase unfolded as officers pursued a pickup truck with
+    fake plates across the San Fernando and San Gabriel Valleys.
+  twitter_card: summary_large_image
 videos:
-  - id: "7936477d"
-    url: "https://www.youtube.com/watch?v=afm0rhL_nyg"
-    position: "after-paragraph-2"
+  - id: 7936477d
+    url: 'https://www.youtube.com/watch?v=afm0rhL_nyg'
+    position: after-paragraph-2
 quality_score: 38
 score_breakdown:
   seo_quality: 25
@@ -31,7 +43,11 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 70
   keyword_relevance: 20
-quality_note: "This police chase article is too short, lacks automotive focus, has poor SEO optimization, and doesn't align with the site's car enthusiast audience or core topics."
+quality_note: >-
+  This police chase article is too short, lacks automotive focus, has poor SEO
+  optimization, and doesn't align with the site's car enthusiast audience or
+  core topics.
+image_alt: Police vehicles pursue a pickup truck through a lit valley boulevard at night.
 ---
 
 On a Wednesday night, law enforcement pursued a driver in a pickup truck bearing incorrect plates. The chase commenced in the San Fernando Valley before stretching into the foothills of the San Gabriel Valley.
