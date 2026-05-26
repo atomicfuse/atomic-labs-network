@@ -23,7 +23,7 @@ source_url: >-
   https://www.usmagazine.com/sports/news/kyle-busch-helped-pay-for-over-100-ivf-births-before-death/
 source_item_id: 6a151f7416f23264031d8120
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/kyle-busch-ivf-fund-legacy-100-births-2m-grants.webp
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   sepsis, when he is actually alive, making it completely unreliable despite
   decent writing quality.
 reading_time: 3
+image_alt: >-
+  Baby shoes and a racing helmet sit in a softly lit nursery overlooking a
+  blurred racetrack.
 ---
 ## A Racing Legacy Beyond the Track
 
