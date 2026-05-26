@@ -1,27 +1,43 @@
 ---
-title: "Ultimate Guide to Prom Makeup: Unleashing Simple Beauty Essentials and Bold Looks for the Memorable Night"
-description: "The perfect prom makeup look can be achieved with the right beauty essentials. From a flawless foundation and good concealer to the magic of blush, bronzer, and the right eye makeup, these are the must-haves for enhancing your prom night allure."
-type: "standard"
-status: "review"
-publishDate: "2025-04-24T07:01:49+00:00"
-author: "Taylor Winters"
+title: >-
+  Ultimate Guide to Prom Makeup: Unleashing Simple Beauty Essentials and Bold
+  Looks for the Memorable Night
+description: >-
+  The perfect prom makeup look can be achieved with the right beauty essentials.
+  From a flawless foundation and good concealer to the magic of blush, bronzer,
+  and the right eye makeup, these are the must-haves for enhancing your prom
+  night allure.
+type: standard
+status: review
+publishDate: '2025-04-24T07:01:49+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-  - "Makeup Tutorial"
-slug: "ultimate-guide-to-prom-makeup-unleashing-simple-beauty-essentials-and-bold-looks-for-the-memorable-night"
+  - Travel Tips
+  - Beauty
+  - Makeup Hacks
+  - Makeup Tutorial
+slug: >-
+  ultimate-guide-to-prom-makeup-unleashing-simple-beauty-essentials-and-bold-looks-for-the-memorable-night
 reading_time: 2
-source_url: "https://travelbeautytips.com/ultimate-guide-to-prom-makeup-unleashing-simple-beauty-essentials-and-bold-looks-for-the-memorable-night/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/ultimate-guide-to-prom-makeup-unleashing-simple-beauty-essentials-and-bold-looks-for-the-memorable-night/
+imported_from: wordpress
 wp_original_id: 35879
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/ultimate-guide-to-prom-makeup-unleashing-simple-beauty-essentials-and-bold-looks-for-the-memorable-night.webp
 seo:
-  canonical: "https://travelbeautytips.com/ultimate-guide-to-prom-makeup-unleashing-simple-beauty-essentials-and-bold-looks-for-the-memorable-night/"
-  og_title: "Ultimate Guide to Prom Makeup: Unleashing Simple Beauty Essentials and Bold Looks for the Memorable Night - Travel Beauty Tips"
-  og_description: "The perfect prom makeup look can be achieved with the right beauty essentials. From a flawless foundation and good concealer to the magic of blush, bronzer, and the right eye makeup, these are the must-haves for enhancing your prom night allure."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/04/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/ultimate-guide-to-prom-makeup-unleashing-simple-beauty-essentials-and-bold-looks-for-the-memorable-night/
+  og_title: >-
+    Ultimate Guide to Prom Makeup: Unleashing Simple Beauty Essentials and Bold
+    Looks for the Memorable Night - Travel Beauty Tips
+  og_description: >-
+    The perfect prom makeup look can be achieved with the right beauty
+    essentials. From a flawless foundation and good concealer to the magic of
+    blush, bronzer, and the right eye makeup, these are the must-haves for
+    enhancing your prom night allure.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/04/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -29,7 +45,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has good tone and accurate beauty advice but falls significantly short on word count (351 vs 800-1200 target) and lacks strong SEO optimization with minimal heading structure."
+quality_note: >-
+  The article has good tone and accurate beauty advice but falls significantly
+  short on word count (351 vs 800-1200 target) and lacks strong SEO optimization
+  with minimal heading structure.
+image_alt: >-
+  Elegant prom makeup setup with a young woman applying eye makeup at a softly
+  lit vanity
 ---
 
 Are you searching for the perfect prom makeup look? Whether you prefer a simple, understated style or a bold, dramatic statement, the right beauty essentials can help you achieve your desired look. Let's explore a variety of beauty must-haves to enhance your prom night allure.
