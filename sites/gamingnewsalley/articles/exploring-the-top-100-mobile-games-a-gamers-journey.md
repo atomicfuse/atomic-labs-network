@@ -1,30 +1,36 @@
 ---
-title: "Exploring the Top 100 Mobile Games: A Gamer’s Journey"
-description: "Dive into the world of mobile gaming as we explore the top 100 games, highlighting unique gameplay experiences and features."
-type: "standard"
-status: "review"
-publishDate: "2025-12-15T09:33:17+00:00"
-author: "Taylor Winters"
+title: 'Exploring the Top 100 Mobile Games: A Gamer’s Journey'
+description: >-
+  Dive into the world of mobile gaming as we explore the top 100 games,
+  highlighting unique gameplay experiences and features.
+type: standard
+status: review
+publishDate: '2025-12-15T09:33:17+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Board Game"
-  - "Capcom Mobile"
-  - "Community"
-slug: "exploring-the-top-100-mobile-games-a-gamers-journey"
+  - Gaming News
+  - Board Game
+  - Capcom Mobile
+  - Community
+slug: exploring-the-top-100-mobile-games-a-gamers-journey
 reading_time: 2
-source_url: "https://gamingnewsalley.com/exploring-the-top-100-mobile-games-a-gamers-journey/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/exploring-the-top-100-mobile-games-a-gamers-journey/
+imported_from: wordpress
 wp_original_id: 42568
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/exploring-the-top-100-mobile-games-a-gamers-journey.webp
 seo:
-  canonical: "https://gamingnewsalley.com/exploring-the-top-100-mobile-games-a-gamers-journey/"
-  og_title: "Exploring the Top 100 Mobile Games: A Gamer's Journey - Gaming News Alley"
-  og_description: "Dive into the world of mobile gaming as we explore the top 100 games, highlighting unique gameplay experiences and features."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/exploring-the-top-100-mobile-games-a-gamers-journey/
+  og_title: 'Exploring the Top 100 Mobile Games: A Gamer''s Journey - Gaming News Alley'
+  og_description: >-
+    Dive into the world of mobile gaming as we explore the top 100 games,
+    highlighting unique gameplay experiences and features.
+  twitter_card: summary_large_image
 videos:
-  - id: "db30ed2a"
-    url: "https://www.youtube.com/watch?v=QT1PF9tGkio"
-    position: "after-paragraph-2"
+  - id: db30ed2a
+    url: 'https://www.youtube.com/watch?v=QT1PF9tGkio'
+    position: after-paragraph-2
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -32,7 +38,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 60
   keyword_relevance: 40
-quality_note: "Article is too short at 328 words, has poor SEO optimization with weak title/description, and focuses on mobile games rather than the site's core PC/console gaming focus."
+quality_note: >-
+  Article is too short at 328 words, has poor SEO optimization with weak
+  title/description, and focuses on mobile games rather than the site's core
+  PC/console gaming focus.
+image_alt: >-
+  Gamer holding a glowing smartphone surrounded by colorful abstract mobile game
+  worlds
 ---
 
 The world of mobile gaming is vast and ever-growing, with new titles constantly emerging to capture our attention. For those who find it overwhelming to sift through the multitude of options, we have taken the plunge for you by playing the top 100 mobile games. This journey sheds light on some of the most engaging, innovative, and entertaining games available on mobile platforms today.
