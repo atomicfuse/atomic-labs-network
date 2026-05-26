@@ -1,26 +1,34 @@
 ---
-title: "Top 9 Must-Watch TV Shows This Week"
-description: "Television offers a captivating array of shows this week, with new premieres and returning favorites. Viewers can enjoy diverse genres, from drama and comedy to documentaries, ensuring a rich tapestry of stories and entertainment options for everyone."
-type: "standard"
-status: "review"
-publishDate: "2026-01-19T09:37:24+00:00"
-author: "Taylor Winters"
+title: Top 9 Must-Watch TV Shows This Week
+description: >-
+  Television offers a captivating array of shows this week, with new premieres
+  and returning favorites. Viewers can enjoy diverse genres, from drama and
+  comedy to documentaries, ensuring a rich tapestry of stories and entertainment
+  options for everyone.
+type: standard
+status: review
+publishDate: '2026-01-19T09:37:24+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-  - "TV"
-  - "Upcoming"
-slug: "top-9-must-watch-tv-shows-this-week-2"
+  - Reviews
+  - TV
+  - Upcoming
+slug: top-9-must-watch-tv-shows-this-week-2
 reading_time: 3
-source_url: "https://tvshowbox.com/top-9-must-watch-tv-shows-this-week-2/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/top-9-must-watch-tv-shows-this-week-2/'
+imported_from: wordpress
 wp_original_id: 24054
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/top-9-must-watch-tv-shows-this-week-2.webp
 seo:
-  canonical: "https://tvshowbox.com/top-9-must-watch-tv-shows-this-week-2/"
-  og_title: "Top 9 Must-Watch TV Shows This Week - TV Show Box"
-  og_description: "Television offers a captivating array of shows this week, with new premieres and returning favorites. Viewers can enjoy diverse genres, from drama and comedy to documentaries, ensuring a rich tapestry of stories and entertainment options for everyone."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/top-9-must-watch-tv-shows-this-week-2/'
+  og_title: Top 9 Must-Watch TV Shows This Week - TV Show Box
+  og_description: >-
+    Television offers a captivating array of shows this week, with new premieres
+    and returning favorites. Viewers can enjoy diverse genres, from drama and
+    comedy to documentaries, ensuring a rich tapestry of stories and
+    entertainment options for everyone.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 10
   keyword_relevance: 60
-quality_note: "The article fails critically by providing completely generic descriptions without naming any actual TV shows, making it essentially useless content with fabricated information."
+quality_note: >-
+  The article fails critically by providing completely generic descriptions
+  without naming any actual TV shows, making it essentially useless content with
+  fabricated information.
+image_alt: >-
+  Dim living room lit by a blank TV, with cinematic colors suggesting a week of
+  varied shows.
 ---
 
 Television continues to offer a captivating array of shows, providing viewers with diverse entertainment options each week. As winter settles in, many are eager to find new programs to enjoy from the comfort of their homes. This week, several shows stand out, promising both fresh perspectives and engaging storytelling.
