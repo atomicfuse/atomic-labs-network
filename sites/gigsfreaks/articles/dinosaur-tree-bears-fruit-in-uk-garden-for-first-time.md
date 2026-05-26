@@ -1,24 +1,33 @@
 ---
-title: "Dinosaur Tree Bears Fruit in UK Garden for First Time"
-description: "A prehistoric tree species, the critically endangered Wollemi pine, has successfully borne fruit in a British garden. This milestone highlights the resilience of the ancient plant and holds significant implications for conservation and understanding of its ecology."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:15:06+00:00"
-author: "Nico Harper"
+title: Dinosaur Tree Bears Fruit in UK Garden for First Time
+description: >-
+  A prehistoric tree species, the critically endangered Wollemi pine, has
+  successfully borne fruit in a British garden. This milestone highlights the
+  resilience of the ancient plant and holds significant implications for
+  conservation and understanding of its ecology.
+type: standard
+status: review
+publishDate: '2025-05-05T16:15:06+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "dinosaur-tree-bears-fruit-in-uk-garden-for-first-time"
+  - Good Vibes
+slug: dinosaur-tree-bears-fruit-in-uk-garden-for-first-time
 reading_time: 4
-source_url: "https://gigsfreaks.com/dinosaur-tree-bears-fruit-in-uk-garden-for-first-time/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/dinosaur-tree-bears-fruit-in-uk-garden-for-first-time/'
+imported_from: wordpress
 wp_original_id: 883
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/dinosaur-tree-bears-fruit-in-uk-garden-for-first-time.webp
 seo:
-  canonical: "https://gigsfreaks.com/dinosaur-tree-bears-fruit-in-uk-garden-for-first-time/"
-  og_title: "Dinosaur Tree Bears Fruit in UK Garden for First Time - GigsFreaks"
-  og_description: "A prehistoric tree species, the critically endangered Wollemi pine, has successfully borne fruit in a British garden. This milestone highlights the resilience of the ancient plant and holds significant implications for conservation and understanding of its ecology."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-98.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/dinosaur-tree-bears-fruit-in-uk-garden-for-first-time/
+  og_title: Dinosaur Tree Bears Fruit in UK Garden for First Time - GigsFreaks
+  og_description: >-
+    A prehistoric tree species, the critically endangered Wollemi pine, has
+    successfully borne fruit in a British garden. This milestone highlights the
+    resilience of the ancient plant and holds significant implications for
+    conservation and understanding of its ecology.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-98.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -26,7 +35,11 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 45
-quality_note: "Well-written botanical article with good factual content, but lacks alignment with entertainment-focused keywords and could benefit from stronger SEO optimization for the target audience."
+quality_note: >-
+  Well-written botanical article with good factual content, but lacks alignment
+  with entertainment-focused keywords and could benefit from stronger SEO
+  optimization for the target audience.
+image_alt: Fruiting cones on a rare Wollemi pine in a rain-fresh British garden
 ---
 
 In a remarkable event for botany enthusiasts and conservationists alike, a prehistoric tree species has borne fruit in a British garden, captivating plant lovers worldwide. This intriguing development occurred when a couple in the UK successfully cultivated the critically endangered Wollemi pine, a species that dates back to the age of dinosaurs. The tree's fruiting in their garden marks a significant milestone for the preservation and understanding of this ancient plant.
