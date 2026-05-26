@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-bud-rokesky-reveals-dusk-album-and-tour-dates
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/bud-rokesky-reveals-dusk-album-and-tour-dates.webp
 reading_time: 2
 quality_score: 47
 score_breakdown:
@@ -32,6 +32,9 @@ score_breakdown:
 quality_note: >-
   Article is severely underweight at 205 words and appears to be about a
   potentially fictional musician with vague, unsupported claims throughout.
+image_alt: >-
+  Silhouetted musician on a dusky stage with tour gear and soft amber-blue
+  lighting.
 ---
 ## Bud Rokesky Unveils 'Dusk' Album Plans
 
