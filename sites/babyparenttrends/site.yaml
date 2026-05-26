@@ -2,7 +2,8 @@ domain: babyparenttrends
 site_name: babyparenttrends
 site_tagline: null
 author: Alex Long
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d7b916f23264031d7a64
 brief:
