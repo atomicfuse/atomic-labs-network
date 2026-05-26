@@ -20,7 +20,7 @@ source_url: >-
   https://www.wkbn.com/news/local-news/youngstown-news/dog-warden-issues-tips-on-heat-safety-after-dogs-die-of-heat-stroke/
 source_item_id: 6a0fdbcc16f23264031d79c3
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/dogs-die-heat-stroke-officials-safety-warning.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   integration, but lacks specific details and relies heavily on vague 'according
   to reports' phrasing without concrete information.
 reading_time: 3
+image_alt: >-
+  Concerned owner helps a panting dog cool down beside a hot sidewalk on a
+  summer day.
 ---
 ## Tragic Heat Stroke Deaths Prompt Official Warning
 
