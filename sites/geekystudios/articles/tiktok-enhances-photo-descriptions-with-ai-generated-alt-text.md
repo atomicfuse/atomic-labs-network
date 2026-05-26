@@ -1,24 +1,37 @@
 ---
-title: "TikTok Enhances Photo Descriptions with AI-Generated Alt Text"
-description: "TikTok is enhancing accessibility with AI-generated alt text and improved visual contrast, benefiting users with visual impairments. These updates ensure inclusivity, improve user engagement, and set a precedent for social media platforms to prioritize accessibility."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T10:49:49+00:00"
-author: "Arthur Daly"
+title: TikTok Enhances Photo Descriptions with AI-Generated Alt Text
+description: >-
+  TikTok is enhancing accessibility with AI-generated alt text and improved
+  visual contrast, benefiting users with visual impairments. These updates
+  ensure inclusivity, improve user engagement, and set a precedent for social
+  media platforms to prioritize accessibility.
+type: standard
+status: published
+publishDate: '2025-05-15T10:49:49+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "tiktok-enhances-photo-descriptions-with-ai-generated-alt-text"
+  - Tech
+slug: tiktok-enhances-photo-descriptions-with-ai-generated-alt-text
 reading_time: 3
-source_url: "https://geekystudios.com/tiktok-enhances-photo-descriptions-with-ai-generated-alt-text/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/tiktok-enhances-photo-descriptions-with-ai-generated-alt-text/
+imported_from: wordpress
 wp_original_id: 566
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/tiktok-enhances-photo-descriptions-with-ai-generated-alt-text.webp
 seo:
-  canonical: "https://geekystudios.com/tiktok-enhances-photo-descriptions-with-ai-generated-alt-text/"
-  og_title: "TikTok Enhances Photo Descriptions with AI-Generated Alt Text - Geeky Studios"
-  og_description: "TikTok is enhancing accessibility with AI-generated alt text and improved visual contrast, benefiting users with visual impairments. These updates ensure inclusivity, improve user engagement, and set a precedent for social media platforms to prioritize accessibility."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-2.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/tiktok-enhances-photo-descriptions-with-ai-generated-alt-text/
+  og_title: >-
+    TikTok Enhances Photo Descriptions with AI-Generated Alt Text - Geeky
+    Studios
+  og_description: >-
+    TikTok is enhancing accessibility with AI-generated alt text and improved
+    visual contrast, benefiting users with visual impairments. These updates
+    ensure inclusivity, improve user engagement, and set a precedent for social
+    media platforms to prioritize accessibility.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-2.png'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written tech article with good tone and keyword relevance, but significantly under target word count at 497 words versus 800-1200 target."
+quality_note: >-
+  Well-written tech article with good tone and keyword relevance, but
+  significantly under target word count at 497 words versus 800-1200 target.
+image_alt: >-
+  Generic smartphone with glowing accessible interface elements over abstract
+  photo tiles
 ---
 
 TikTok is making strides in accessibility by enhancing its platform with innovative features aimed at inclusivity. Their latest update introduces AI-generated alt text, offering a more engaging experience for users with visual impairments. By leveraging artificial intelligence, TikTok aims to improve content accessibility and usability for all users.
