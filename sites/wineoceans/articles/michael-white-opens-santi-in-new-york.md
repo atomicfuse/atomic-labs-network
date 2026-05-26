@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-michael-white-opens-santi-in-new-york
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/michael-white-opens-santi-in-new-york.webp
 reading_time: 2
 quality_score: 46
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Article is severely underwritten at only 279 words and lacks wine-specific
   content despite being tagged as wine news, making it poorly suited for a
   wine-focused publication.
+image_alt: >-
+  Elegant pasta dish finished tableside in a warmly lit New York restaurant with
+  city lights beyond.
 ---
 ## New Restaurant Venture in Manhattan
 
