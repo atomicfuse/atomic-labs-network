@@ -1,25 +1,38 @@
 ---
-title: "Eco-Friendly Gaming: Promoting Sustainability in Video Games"
-description: "Video games are evolving into a tool for promoting environmental awareness, with developers using narratives and real-world data to engage players in ecological issues, inspiring critical thinking and real-world action for sustainability."
-type: "standard"
-status: "review"
-publishDate: "2025-06-26T04:19:27+00:00"
-author: "Taylor Winters"
+title: 'Eco-Friendly Gaming: Promoting Sustainability in Video Games'
+description: >-
+  Video games are evolving into a tool for promoting environmental awareness,
+  with developers using narratives and real-world data to engage players in
+  ecological issues, inspiring critical thinking and real-world action for
+  sustainability.
+type: standard
+status: review
+publishDate: '2025-06-26T04:19:27+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "eco-friendly-gaming-promoting-sustainability-in-video-games"
+  - Gaming News
+  - Community
+slug: eco-friendly-gaming-promoting-sustainability-in-video-games
 reading_time: 4
-source_url: "https://gamingnewsalley.com/eco-friendly-gaming-promoting-sustainability-in-video-games/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/eco-friendly-gaming-promoting-sustainability-in-video-games/
+imported_from: wordpress
 wp_original_id: 42489
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/eco-friendly-gaming-promoting-sustainability-in-video-games.webp
 seo:
-  canonical: "https://gamingnewsalley.com/eco-friendly-gaming-promoting-sustainability-in-video-games/"
-  og_title: "Eco-Friendly Gaming: Promoting Sustainability in Video Games - Gaming News Alley"
-  og_description: "Video games are evolving into a tool for promoting environmental awareness, with developers using narratives and real-world data to engage players in ecological issues, inspiring critical thinking and real-world action for sustainability."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/06/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/eco-friendly-gaming-promoting-sustainability-in-video-games/
+  og_title: >-
+    Eco-Friendly Gaming: Promoting Sustainability in Video Games - Gaming News
+    Alley
+  og_description: >-
+    Video games are evolving into a tool for promoting environmental awareness,
+    with developers using narratives and real-world data to engage players in
+    ecological issues, inspiring critical thinking and real-world action for
+    sustainability.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/06/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article is well-written with good structure but falls short on word count and doesn't focus heavily enough on core gaming topics like reviews, gameplay mechanics, or specific games that the target audience expects."
+quality_note: >-
+  The article is well-written with good structure but falls short on word count
+  and doesn't focus heavily enough on core gaming topics like reviews, gameplay
+  mechanics, or specific games that the target audience expects.
+image_alt: >-
+  Futuristic game controller on mossy desk with digital nature visuals in the
+  background
 ---
 
 Video games have long been a source of entertainment and creativity, but now they are also becoming a powerful tool for promoting environmental awareness and sustainability. As the gaming industry grows, developers and companies are increasingly using their platforms to educate players about ecological issues and inspire positive change. This trend highlights the potential of video games as a medium for social impact, engaging millions of players worldwide.
