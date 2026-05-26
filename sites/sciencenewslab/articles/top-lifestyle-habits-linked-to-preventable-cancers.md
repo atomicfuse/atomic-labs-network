@@ -1,22 +1,28 @@
 ---
-title: "Top Lifestyle Habits Linked to Preventable Cancers"
-description: "Understanding the root causes of cancer is essential for prevention. Tobacco use and alcohol consumption are major contributors to preventable cancer cases, and reducing these habits can significantly decrease cancer risk and improve overall well-being."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T12:51:32"
-author: "Taylor Winters"
+title: Top Lifestyle Habits Linked to Preventable Cancers
+description: >-
+  Understanding the root causes of cancer is essential for prevention. Tobacco
+  use and alcohol consumption are major contributors to preventable cancer
+  cases, and reducing these habits can significantly decrease cancer risk and
+  improve overall well-being.
+type: standard
+status: review
+publishDate: '2026-02-05T12:51:32'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "top-lifestyle-habits-linked-to-preventable-cancers"
+  - Space
+  - Humans
+slug: top-lifestyle-habits-linked-to-preventable-cancers
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/top-lifestyle-habits-linked-to-preventable-cancers/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/top-lifestyle-habits-linked-to-preventable-cancers/
+imported_from: wordpress
 wp_original_id: 15065
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/top-lifestyle-habits-linked-to-preventable-cancers.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/top-lifestyle-habits-linked-to-preventable-cancers/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/top-lifestyle-habits-linked-to-preventable-cancers/
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 25
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article is well-written about cancer prevention but completely misaligned with the site's science focus areas of Space, Nature, Physics, Technology, and Environment."
+quality_note: >-
+  The article is well-written about cancer prevention but completely misaligned
+  with the site's science focus areas of Space, Nature, Physics, Technology, and
+  Environment.
+image_alt: >-
+  Sunlit table with alcohol and cigarettes set aside beside water, fruit, and
+  walking shoes.
 ---
 
 In the realm of health and wellness, understanding the root causes of cancer is crucial for prevention. Recent studies highlight the significant impact of certain lifestyle choices on cancer rates. Specifically, two habits stand out as major contributors to preventable cancer cases: tobacco use and alcohol consumption. By addressing these factors, individuals can dramatically reduce their cancer risk and improve their overall well-being.
