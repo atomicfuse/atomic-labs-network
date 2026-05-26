@@ -1,24 +1,34 @@
 ---
-title: "Southern Charm Recap: Key Highlights and Drama Unveiled"
-description: "The latest Southern Charm episode captivates with Southern culture, drama, and social interactions. As secrets unfold, tensions rise among Charleston's elite, while Shep and Austen's friendship faces challenges and Leva mediates conflicts."
-type: "standard"
-status: "review"
-publishDate: "2025-12-04T10:53:39+00:00"
-author: "Becca Roberts"
+title: 'Southern Charm Recap: Key Highlights and Drama Unveiled'
+description: >-
+  The latest Southern Charm episode captivates with Southern culture, drama, and
+  social interactions. As secrets unfold, tensions rise among Charleston's
+  elite, while Shep and Austen's friendship faces challenges and Leva mediates
+  conflicts.
+type: standard
+status: review
+publishDate: '2025-12-04T10:53:39+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "southern-charm-recap-key-highlights-and-drama-unveiled"
+  - Watch
+slug: southern-charm-recap-key-highlights-and-drama-unveiled
 reading_time: 3
-source_url: "https://buzzsoaps.com/southern-charm-recap-key-highlights-and-drama-unveiled/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/southern-charm-recap-key-highlights-and-drama-unveiled/'
+imported_from: wordpress
 wp_original_id: 506
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/southern-charm-recap-key-highlights-and-drama-unveiled.webp
 seo:
-  canonical: "https://buzzsoaps.com/southern-charm-recap-key-highlights-and-drama-unveiled/"
-  og_title: "Southern Charm Recap: Key Highlights and Drama Unveiled - BuzzSoaps!"
-  og_description: "The latest \"Southern Charm\" episode captivates with Southern culture, drama, and social interactions. As secrets unfold, tensions rise among Charleston's elite. Shep and Austen's friendship faces challenges, while Leva mediates conflicts. Relationships are tested, blending opulence with personal struggles."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/12/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/southern-charm-recap-key-highlights-and-drama-unveiled/
+  og_title: 'Southern Charm Recap: Key Highlights and Drama Unveiled - BuzzSoaps!'
+  og_description: >-
+    The latest "Southern Charm" episode captivates with Southern culture, drama,
+    and social interactions. As secrets unfold, tensions rise among Charleston's
+    elite. Shep and Austen's friendship faces challenges, while Leva mediates
+    conflicts. Relationships are tested, blending opulence with personal
+    struggles.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/12/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "Decent entertainment recap with appropriate tone but falls short on length, lacks strong SEO optimization, and doesn't fully align with site's specific keyword strategy."
+quality_note: >-
+  Decent entertainment recap with appropriate tone but falls short on length,
+  lacks strong SEO optimization, and doesn't fully align with site's specific
+  keyword strategy.
+image_alt: >-
+  Tense upscale gathering on a Charleston veranda at dusk with guests caught in
+  silent conflict
 ---
 
 The latest episode of "Southern Charm" continues to captivate audiences with its dynamic mix of Southern culture, personal drama, and social interactions. As the eleventh season unfolds, viewers are drawn into the intricate lives of Charleston's elite, where friendships are tested, and secrets are unveiled. This episode highlights the ongoing tensions and evolving relationships among the cast members.
