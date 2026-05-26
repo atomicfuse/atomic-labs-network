@@ -1,25 +1,34 @@
 ---
-title: "Winter Nutrition Tips to Boost Your Immune System"
-description: "As winter approaches, strengthen your immune system by incorporating essential nutrients like vitamins C and D, zinc, and antioxidants into your diet. A balanced intake of these elements can help fend off colds and flu during the colder months."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T10:21:31+00:00"
-author: "Taylor Winters"
+title: Winter Nutrition Tips to Boost Your Immune System
+description: >-
+  As winter approaches, strengthen your immune system by incorporating essential
+  nutrients like vitamins C and D, zinc, and antioxidants into your diet. A
+  balanced intake of these elements can help fend off colds and flu during the
+  colder months.
+type: standard
+status: published
+publishDate: '2025-12-18T10:21:31+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Tips"
-  - "Weight &amp; Wellness"
-slug: "winter-nutrition-tips-to-boost-your-immune-system"
+  - Nutrition Tips
+  - Weight &amp; Wellness
+slug: winter-nutrition-tips-to-boost-your-immune-system
 reading_time: 3
-source_url: "https://eznutritiontips.com/winter-nutrition-tips-to-boost-your-immune-system/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/winter-nutrition-tips-to-boost-your-immune-system/'
+imported_from: wordpress
 wp_original_id: 18965
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/winter-nutrition-tips-to-boost-your-immune-system.webp
 seo:
-  canonical: "https://eznutritiontips.com/winter-nutrition-tips-to-boost-your-immune-system/"
-  og_title: "Winter Nutrition Tips to Boost Your Immune System - Easy Nutrition Tips"
-  og_description: "As winter approaches, strengthen your immune system by incorporating essential nutrients like vitamins C and D, zinc, and antioxidants into your diet. A balanced intake of these elements can help fend off colds and flu during the colder months."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/winter-nutrition-tips-to-boost-your-immune-system/
+  og_title: Winter Nutrition Tips to Boost Your Immune System - Easy Nutrition Tips
+  og_description: >-
+    As winter approaches, strengthen your immune system by incorporating
+    essential nutrients like vitamins C and D, zinc, and antioxidants into your
+    diet. A balanced intake of these elements can help fend off colds and flu
+    during the colder months.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent topic relevance and tone, but significantly under the target word count at 453 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with excellent topic relevance and tone, but
+  significantly under the target word count at 453 words versus the 800-1200
+  range.
+image_alt: >-
+  Colorful winter nutrition foods arranged on a cozy kitchen table by a frosted
+  window
 ---
 
 As the winter season approaches, it's crucial to fortify your immune system against the onslaught of colds and flu. While bundling up helps ward off the chill, a robust immune system defense starts with what you eat. Incorporating certain nutrients into your diet can be an effective strategy to keep illnesses at bay.
