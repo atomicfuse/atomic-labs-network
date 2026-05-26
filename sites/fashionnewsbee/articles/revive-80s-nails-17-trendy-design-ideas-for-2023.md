@@ -1,25 +1,36 @@
 ---
-title: "Revive ’80s Nails: 17 Trendy Design Ideas for 2023"
-description: "The vibrant aesthetics of the 1980s are back in nail art, offering inspiration with neon colors, geometric patterns, and metallic accents. Embrace this trend to express creativity with bold designs and nostalgic flair, making nails a standout feature."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T09:53:29+00:00"
-author: "Taylor Winters"
+title: 'Revive ’80s Nails: 17 Trendy Design Ideas for 2023'
+description: >-
+  The vibrant aesthetics of the 1980s are back in nail art, offering inspiration
+  with neon colors, geometric patterns, and metallic accents. Embrace this trend
+  to express creativity with bold designs and nostalgic flair, making nails a
+  standout feature.
+type: standard
+status: published
+publishDate: '2025-12-11T09:53:29+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-  - "Fashion"
-slug: "revive-80s-nails-17-trendy-design-ideas-for-2023"
+  - Beauty
+  - Fashion
+slug: revive-80s-nails-17-trendy-design-ideas-for-2023
 reading_time: 3
-source_url: "https://fashionnewsbee.com/revive-80s-nails-17-trendy-design-ideas-for-2023/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/revive-80s-nails-17-trendy-design-ideas-for-2023/'
+imported_from: wordpress
 wp_original_id: 31603
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/revive-80s-nails-17-trendy-design-ideas-for-2023.webp
 seo:
-  canonical: "https://fashionnewsbee.com/revive-80s-nails-17-trendy-design-ideas-for-2023/"
-  og_title: "Revive '80s Nails: 17 Trendy Design Ideas for 2023 - Fashion News Bee"
-  og_description: "The vibrant aesthetics of the 1980s are back in nail art, offering inspiration with neon colors, geometric patterns, and metallic accents. Embrace this trend to express creativity with bold designs and nostalgic flair, making nails a standout feature."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/revive-80s-nails-17-trendy-design-ideas-for-2023/'
+  og_title: 'Revive ''80s Nails: 17 Trendy Design Ideas for 2023 - Fashion News Bee'
+  og_description: >-
+    The vibrant aesthetics of the 1980s are back in nail art, offering
+    inspiration with neon colors, geometric patterns, and metallic accents.
+    Embrace this trend to express creativity with bold designs and nostalgic
+    flair, making nails a standout feature.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Neon geometric 1980s-inspired manicure on a hand against a glossy pastel
+  studio backdrop.
 ---
 
 The vibrant and bold aesthetics of the 1980s are making a grand comeback, especially in the realm of nail art. The decade known for its daring style statements offers a treasure trove of inspiration for modern-day manicures. From neon colors to geometric patterns, 80s-inspired nails are all about self-expression and creativity. If you're ready to embrace this nostalgic trend, here's how you can incorporate 80s flair into your nail art.
