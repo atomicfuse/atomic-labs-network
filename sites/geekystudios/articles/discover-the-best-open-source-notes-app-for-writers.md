@@ -1,24 +1,33 @@
 ---
-title: "Discover the Best Open-Source Notes App for Writers"
-description: "Anytype is an open-source note-taking app that emphasizes privacy, customization, and user empowerment, offering a visually appealing, minimalist interface with features like rich text formatting and offline access."
-type: "standard"
-status: "published"
-publishDate: "2025-10-27T11:09:12+00:00"
-author: "Arthur Daly"
+title: Discover the Best Open-Source Notes App for Writers
+description: >-
+  Anytype is an open-source note-taking app that emphasizes privacy,
+  customization, and user empowerment, offering a visually appealing, minimalist
+  interface with features like rich text formatting and offline access.
+type: standard
+status: published
+publishDate: '2025-10-27T11:09:12+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "discover-the-best-open-source-notes-app-for-writers"
+  - Tech
+slug: discover-the-best-open-source-notes-app-for-writers
 reading_time: 3
-source_url: "https://geekystudios.com/discover-the-best-open-source-notes-app-for-writers/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/discover-the-best-open-source-notes-app-for-writers/'
+imported_from: wordpress
 wp_original_id: 650
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/discover-the-best-open-source-notes-app-for-writers.webp
 seo:
-  canonical: "https://geekystudios.com/discover-the-best-open-source-notes-app-for-writers/"
-  og_title: "Discover the Best Open-Source Notes App for Writers - Geeky Studios"
-  og_description: "Anytype is an open-source note-taking app that emphasizes privacy, customization, and user empowerment. It offers a visually appealing, minimalist interface with features like rich text formatting and offline access, making it a versatile tool for organizing and managing information."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/10/make_the-anytype-app-on-my-android-phone.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/discover-the-best-open-source-notes-app-for-writers/
+  og_title: Discover the Best Open-Source Notes App for Writers - Geeky Studios
+  og_description: >-
+    Anytype is an open-source note-taking app that emphasizes privacy,
+    customization, and user empowerment. It offers a visually appealing,
+    minimalist interface with features like rich text formatting and offline
+    access, making it a versatile tool for organizing and managing information.
+  og_image: >-
+    https://geekystudios.com/wp-content/uploads/2025/10/make_the-anytype-app-on-my-android-phone.png
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written tech article with good tone and factual content, but falls short on length (579 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written tech article with good tone and factual content, but falls short
+  on length (579 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and meta description.
+image_alt: >-
+  Minimal writer workspace with abstract note cards on a laptop and a notebook
+  beside it
 ---
 
 In our modern digital age, having a reliable note-taking application is essential for productivity and organization. One of the standout options in this domain is Anytype, an open-source, visually appealing note-taking application that caters to the needs of both casual users and professionals alike. With its unique features and user-centric design, Anytype offers a refreshing alternative to traditional note-taking apps.
