@@ -1,22 +1,27 @@
 ---
-title: "JWST Uncovers Potential Evidence of Primordial Black Hole"
-description: "The James Webb Space Telescope has uncovered a mysterious cosmic object with a unique signature that may be a primordial black hole, potentially offering new insights into galaxy formation, dark matter, and the early universe."
-type: "standard"
-status: "published"
-publishDate: "2025-09-04T07:33:29"
-author: "Taylor Winters"
+title: JWST Uncovers Potential Evidence of Primordial Black Hole
+description: >-
+  The James Webb Space Telescope has uncovered a mysterious cosmic object with a
+  unique signature that may be a primordial black hole, potentially offering new
+  insights into galaxy formation, dark matter, and the early universe.
+type: standard
+status: published
+publishDate: '2025-09-04T07:33:29'
+author: Taylor Winters
 tags:
-  - "Physics"
-  - "Space"
-slug: "jwst-uncovers-potential-evidence-of-primordial-black-hole"
+  - Physics
+  - Space
+slug: jwst-uncovers-potential-evidence-of-primordial-black-hole
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/jwst-uncovers-potential-evidence-of-primordial-black-hole/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/jwst-uncovers-potential-evidence-of-primordial-black-hole/
+imported_from: wordpress
 wp_original_id: 14998
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/jwst-uncovers-potential-evidence-of-primordial-black-hole.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/jwst-uncovers-potential-evidence-of-primordial-black-hole/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/jwst-uncovers-potential-evidence-of-primordial-black-hole/
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -24,7 +29,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 80
   keyword_relevance: 95
-quality_note: "Well-written article with excellent keyword relevance and engaging tone, but falls short of target length at 594 words and lacks specific citations for the claimed discovery."
+quality_note: >-
+  Well-written article with excellent keyword relevance and engaging tone, but
+  falls short of target length at 594 words and lacks specific citations for the
+  claimed discovery.
+image_alt: >-
+  Mysterious cosmic distortion glows among distant early galaxies in a dark
+  infrared universe.
 ---
 
 The discovery of a mysterious cosmic object by the James Webb Space Telescope (JWST) has intrigued astronomers and sparked a new wave of scientific discussion. This object, potentially a primordial black hole, offers a rare glimpse into the early universe and may provide critical insights into the formation of galaxies and other cosmic structures.
