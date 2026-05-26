@@ -1,29 +1,40 @@
 ---
-title: "Tragic Collision at LaGuardia: Air Canada Plane Hits Ground Vehicle"
-description: "A tragic incident occurred as an Air Canada Express flight collided with a ground vehicle at LaGuardia Airport, resulting in two fatalities and a temporary airport shutdown."
-type: "standard"
-status: "review"
-publishDate: "2026-03-23T09:21:19+00:00"
-author: "Taylor Winters"
+title: 'Tragic Collision at LaGuardia: Air Canada Plane Hits Ground Vehicle'
+description: >-
+  A tragic incident occurred as an Air Canada Express flight collided with a
+  ground vehicle at LaGuardia Airport, resulting in two fatalities and a
+  temporary airport shutdown.
+type: standard
+status: review
+publishDate: '2026-03-23T09:21:19+00:00'
+author: Taylor Winters
 tags:
-  - "Industry"
-  - "News"
-  - "Offbeat"
-slug: "tragic-collision-at-laguardia-air-canada-plane-hits-ground-vehicle"
+  - Industry
+  - News
+  - Offbeat
+slug: tragic-collision-at-laguardia-air-canada-plane-hits-ground-vehicle
 reading_time: 2
-source_url: "https://carsnewsmag.com/tragic-collision-at-laguardia-air-canada-plane-hits-ground-vehicle/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/tragic-collision-at-laguardia-air-canada-plane-hits-ground-vehicle/
+imported_from: wordpress
 wp_original_id: 38588
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/tragic-collision-at-laguardia-air-canada-plane-hits-ground-vehicle.webp
 seo:
-  canonical: "https://carsnewsmag.com/tragic-collision-at-laguardia-air-canada-plane-hits-ground-vehicle/"
-  og_title: "Tragic Collision at LaGuardia: Air Canada Plane Hits Ground Vehicle - Cars News Magazine"
-  og_description: "A tragic incident occurred as an Air Canada Express flight collided with a ground vehicle at LaGuardia Airport, resulting in two fatalities and a temporary airport shutdown."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/tragic-collision-at-laguardia-air-canada-plane-hits-ground-vehicle/
+  og_title: >-
+    Tragic Collision at LaGuardia: Air Canada Plane Hits Ground Vehicle - Cars
+    News Magazine
+  og_description: >-
+    A tragic incident occurred as an Air Canada Express flight collided with a
+    ground vehicle at LaGuardia Airport, resulting in two fatalities and a
+    temporary airport shutdown.
+  twitter_card: summary_large_image
 videos:
-  - id: "411e6da7"
-    url: "https://www.youtube.com/watch?v=nSb3xcCqbgs"
-    position: "after-paragraph-2"
+  - id: 411e6da7
+    url: 'https://www.youtube.com/watch?v=nSb3xcCqbgs'
+    position: after-paragraph-2
 quality_score: 28
 score_breakdown:
   seo_quality: 25
@@ -31,7 +42,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: "This aviation accident article is completely off-topic for an automotive website, lacks factual verification, and fails to meet content guidelines for length and relevance."
+quality_note: >-
+  This aviation accident article is completely off-topic for an automotive
+  website, lacks factual verification, and fails to meet content guidelines for
+  length and relevance.
+image_alt: >-
+  Emergency vehicles on a wet airport runway near a silhouetted regional jet at
+  dusk
 ---
 
 A tragic incident unfolded at LaGuardia Airport in New York when an Air Canada Express flight collided with a ground vehicle during landing. This unfortunate event led to a major emergency response, a temporary airport shutdown, and a ground stop issued by the Federal Aviation Administration (FAA). With flights diverted and operations halted, the incident involving a CRJ-900 aircraft operated by Jazz Aviation has sparked widespread concern.
