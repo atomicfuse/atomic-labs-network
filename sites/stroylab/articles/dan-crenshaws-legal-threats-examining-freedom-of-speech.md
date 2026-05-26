@@ -1,29 +1,35 @@
 ---
-title: "Dan Crenshaw’s Legal Threats: Examining Freedom of Speech"
-description: "Exploring the tension between Rep. Dan Crenshaw's legal threats and the First Amendment rights, examining how such actions by public figures can impact free speech and democratic accountability."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:37:05+00:00"
-author: "Blake Anderson"
+title: 'Dan Crenshaw’s Legal Threats: Examining Freedom of Speech'
+description: >-
+  Exploring the tension between Rep. Dan Crenshaw's legal threats and the First
+  Amendment rights, examining how such actions by public figures can impact free
+  speech and democratic accountability.
+type: standard
+status: review
+publishDate: '2025-12-22T11:37:05+00:00'
+author: Blake Anderson
 tags:
-  - "Conspiracies"
-  - "Dark History"
-  - "Deep Dives"
-slug: "dan-crenshaws-legal-threats-examining-freedom-of-speech"
+  - Conspiracies
+  - Dark History
+  - Deep Dives
+slug: dan-crenshaws-legal-threats-examining-freedom-of-speech
 reading_time: 2
-source_url: "https://stroylab.com/dan-crenshaws-legal-threats-examining-freedom-of-speech/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/dan-crenshaws-legal-threats-examining-freedom-of-speech/'
+imported_from: wordpress
 wp_original_id: 724
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/dan-crenshaws-legal-threats-examining-freedom-of-speech.webp
 seo:
-  canonical: "https://stroylab.com/dan-crenshaws-legal-threats-examining-freedom-of-speech/"
-  og_title: "Dan Crenshaw's Legal Threats: Examining Freedom of Speech - StroyLab"
-  og_description: "Exploring the tension between Rep. Dan Crenshaw's legal threats and the First Amendment rights."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/dan-crenshaws-legal-threats-examining-freedom-of-speech/
+  og_title: 'Dan Crenshaw''s Legal Threats: Examining Freedom of Speech - StroyLab'
+  og_description: >-
+    Exploring the tension between Rep. Dan Crenshaw's legal threats and the
+    First Amendment rights.
+  twitter_card: summary_large_image
 videos:
-  - id: "e5a3dde8"
-    url: "https://www.youtube.com/watch?v=SPo8uYuabP4"
-    position: "after-paragraph-2"
+  - id: e5a3dde8
+    url: 'https://www.youtube.com/watch?v=SPo8uYuabP4'
+    position: after-paragraph-2
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -31,7 +37,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article is well-written and factually sound but falls significantly short of the target word count and lacks the deep dive mystery/conspiracy angle expected for this audience."
+quality_note: >-
+  The article is well-written and factually sound but falls significantly short
+  of the target word count and lacks the deep dive mystery/conspiracy angle
+  expected for this audience.
+image_alt: >-
+  A microphone stands in a courthouse corridor under the shadow of a legal
+  briefcase.
 ---
 
 In recent news, a controversy has arisen surrounding Representative Dan Crenshaw and his response to questions about his finances. This situation highlights the ongoing tension between public figures and the freedom of speech, a fundamental right guaranteed by the First Amendment of the United States Constitution.
