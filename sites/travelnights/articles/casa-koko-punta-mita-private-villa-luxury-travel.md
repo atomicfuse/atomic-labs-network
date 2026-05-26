@@ -23,7 +23,7 @@ source_url: >-
   https://www.forbes.com/sites/coreincarter/2026/05/25/inside-casa-koko-the-luxury-rivieria-nayarit-escape-of-the-summer/
 source_item_id: 6a14fea216f23264031d803b
 generated_by: claude
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/casa-koko-punta-mita-private-villa-luxury-travel.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   under target word count at 502 words and contains vague sourcing that raises
   accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Serene luxury villa terrace with infinity pool, tropical foliage, and Pacific
+  horizon at dusk.
 ---
 ## The Rise of Private Villa Luxury
 
