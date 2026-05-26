@@ -2,7 +2,8 @@ domain: gigsfreaks
 site_name: gigsfreaks
 site_tagline: null
 author: Max Kim
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d7cb16f23264031d7a67
 brief:
