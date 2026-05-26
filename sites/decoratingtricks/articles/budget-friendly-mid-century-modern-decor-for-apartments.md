@@ -1,29 +1,36 @@
 ---
-title: "Budget-Friendly Mid-Century Modern Decor for Apartments"
-description: "Explore budget-friendly mid-century modern decor ideas for your apartment, with tips on furniture selection, space optimization, and textiles to achieve a stylish yet practical living space."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T04:05:26+00:00"
-author: "Taylor Winters"
+title: Budget-Friendly Mid-Century Modern Decor for Apartments
+description: >-
+  Explore budget-friendly mid-century modern decor ideas for your apartment,
+  with tips on furniture selection, space optimization, and textiles to achieve
+  a stylish yet practical living space.
+type: standard
+status: review
+publishDate: '2025-08-14T04:05:26+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "Home Improvement"
-slug: "budget-friendly-mid-century-modern-decor-for-apartments"
+  - Design
+  - Home
+  - Home Improvement
+slug: budget-friendly-mid-century-modern-decor-for-apartments
 reading_time: 2
-source_url: "https://decoratingtricks.com/budget-friendly-mid-century-modern-decor-for-apartments/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/budget-friendly-mid-century-modern-decor-for-apartments/
+imported_from: wordpress
 wp_original_id: 21451
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/budget-friendly-mid-century-modern-decor-for-apartments.webp
 seo:
-  canonical: "https://decoratingtricks.com/budget-friendly-mid-century-modern-decor-for-apartments/"
-  og_title: "Budget-Friendly Mid-Century Modern Decor for Apartments - Decorating Tricks"
-  og_description: "Explore budget-friendly mid-century modern decor ideas for your apartment, inspired by a day in the life vlog showcasing stylish home updates."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/budget-friendly-mid-century-modern-decor-for-apartments/
+  og_title: Budget-Friendly Mid-Century Modern Decor for Apartments - Decorating Tricks
+  og_description: >-
+    Explore budget-friendly mid-century modern decor ideas for your apartment,
+    inspired by a day in the life vlog showcasing stylish home updates.
+  twitter_card: summary_large_image
 videos:
-  - id: "2ade060d"
-    url: "https://www.youtube.com/watch?v=z4wooaePWMI"
-    position: "after-paragraph-2"
+  - id: 2ade060d
+    url: 'https://www.youtube.com/watch?v=z4wooaePWMI'
+    position: after-paragraph-2
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -31,7 +38,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "While the content quality and relevance are good, the article falls significantly short of the target word count at only 275 words, severely impacting its comprehensiveness and SEO value."
+quality_note: >-
+  While the content quality and relevance are good, the article falls
+  significantly short of the target word count at only 275 words, severely
+  impacting its comprehensiveness and SEO value.
+image_alt: >-
+  Compact mid-century modern apartment living room with warm wood furniture,
+  plants, and patterned textiles
 ---
 
 Mid-century modern decor is a timeless style that blends elegance with functionality, making it a popular choice for modern apartments. In this article, we'll explore how you can incorporate mid-century modern elements into your living space without breaking the bank.
