@@ -19,7 +19,7 @@ source_url: >-
   https://www.forbes.com/sites/kaitlynmcinnis/2026/05/25/the-top-luxury-destinations-for-multigenerational-travel-per-new-analysis/
 source_item_id: 6a14fea216f23264031d8044
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/top-luxury-destinations-multigenerational-travel.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong topic relevance and tone but falls short on content length and contains
   vague sourcing that may not be verifiable.
 reading_time: 3
+image_alt: >-
+  Multigenerational family relaxing on a luxury terrace overlooking ocean and
+  sunlit cliffs
 ---
 ## The Rise of Multigenerational Luxury Travel
 
