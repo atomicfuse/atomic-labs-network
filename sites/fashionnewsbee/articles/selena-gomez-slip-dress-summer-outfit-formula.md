@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.glamour.com/story/selena-gomez-slip-dress-outfit-formula'
 source_item_id: 6a14fea216f23264031d8040
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/selena-gomez-slip-dress-summer-outfit-formula.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,7 @@ quality_note: >-
   Strong fashion content with good tone and keyword relevance, but falls short
   on length and contains vague sourcing that raises factual accuracy concerns.
 reading_time: 3
+image_alt: Woman in a monochrome ivory summer outfit walking along a sunny city street
 ---
 ## The Celebrity-Approved Summer Style Solution
 
