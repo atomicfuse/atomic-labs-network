@@ -1,24 +1,34 @@
 ---
-title: "Trump Launches U.S. Tech Force to Boost AI Infrastructure"
-description: "The World Economic Forum plays a pivotal role in shaping global policies, fostering dialogue, and promoting sustainability. By leveraging technology and innovation, it seeks to drive economic growth and address contemporary challenges, although it faces criticism over inclusivity and transparency."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:31:45+00:00"
-author: "Blake Anderson"
+title: Trump Launches U.S. Tech Force to Boost AI Infrastructure
+description: >-
+  The World Economic Forum plays a pivotal role in shaping global policies,
+  fostering dialogue, and promoting sustainability. By leveraging technology and
+  innovation, it seeks to drive economic growth and address contemporary
+  challenges, although it faces criticism over inclusivity and transparency.
+type: standard
+status: review
+publishDate: '2025-12-22T11:31:45+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "trump-launches-u-s-tech-force-to-boost-ai-infrastructure-2"
+  - Deep Dives
+slug: trump-launches-u-s-tech-force-to-boost-ai-infrastructure-2
 reading_time: 4
-source_url: "https://stroylab.com/trump-launches-u-s-tech-force-to-boost-ai-infrastructure-2/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/trump-launches-u-s-tech-force-to-boost-ai-infrastructure-2/
+imported_from: wordpress
 wp_original_id: 692
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/trump-launches-u-s-tech-force-to-boost-ai-infrastructure-2.webp
 seo:
-  canonical: "https://stroylab.com/trump-launches-u-s-tech-force-to-boost-ai-infrastructure-2/"
-  og_title: "Trump Launches U.S. Tech Force to Boost AI Infrastructure - StroyLab"
-  og_description: "The World Economic Forum plays a pivotal role in shaping global policies, fostering dialogue, and promoting sustainability. By leveraging technology and innovation, it seeks to drive economic growth and address contemporary challenges, although it faces criticism over inclusivity and transparency."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-196.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/trump-launches-u-s-tech-force-to-boost-ai-infrastructure-2/
+  og_title: Trump Launches U.S. Tech Force to Boost AI Infrastructure - StroyLab
+  og_description: >-
+    The World Economic Forum plays a pivotal role in shaping global policies,
+    fostering dialogue, and promoting sustainability. By leveraging technology
+    and innovation, it seeks to drive economic growth and address contemporary
+    challenges, although it faces criticism over inclusivity and transparency.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-196.jpeg'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 90
   keyword_relevance: 15
-quality_note: "The article completely mismatches its title about Trump's Tech Force, instead covering the World Economic Forum in a dry, academic tone that doesn't align with the site's conspiracy/mystery focus."
+quality_note: >-
+  The article completely mismatches its title about Trump's Tech Force, instead
+  covering the World Economic Forum in a dry, academic tone that doesn't align
+  with the site's conspiracy/mystery focus.
+image_alt: >-
+  Silhouetted officials in a high-tech briefing room with glowing servers and an
+  abstract AI network map
 ---
 
 The dynamics of global governance have witnessed significant shifts in recent years, with the World Economic Forum (WEF) playing a pivotal role. This influential organization has been at the forefront of shaping policies and initiatives that impact economic and social landscapes worldwide.
