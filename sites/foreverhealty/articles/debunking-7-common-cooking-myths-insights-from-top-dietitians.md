@@ -1,25 +1,39 @@
 ---
-title: "Debunking 7 Common Cooking Myths: Insights from Top Dietitians"
-description: "This article debunks seven common myths about healthy cooking, including the belief that cooking vegetables depletes nutrients, microwaving zaps nutrients, and all fats are bad. It underscores the importance of making informed diet decisions based on accurate information for a nutritious lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2025-04-24T15:29:59+00:00"
-author: "Elena Hartwell"
+title: 'Debunking 7 Common Cooking Myths: Insights from Top Dietitians'
+description: >-
+  This article debunks seven common myths about healthy cooking, including the
+  belief that cooking vegetables depletes nutrients, microwaving zaps nutrients,
+  and all fats are bad. It underscores the importance of making informed diet
+  decisions based on accurate information for a nutritious lifestyle.
+type: standard
+status: published
+publishDate: '2025-04-24T15:29:59+00:00'
+author: Elena Hartwell
 tags:
-  - "Healthy Living Tips"
-  - "Nutrition &amp; Diet"
-slug: "debunking-7-common-cooking-myths-insights-from-top-dietitians"
+  - Healthy Living Tips
+  - Nutrition &amp; Diet
+slug: debunking-7-common-cooking-myths-insights-from-top-dietitians
 reading_time: 2
-source_url: "https://foreverhealty.com/debunking-7-common-cooking-myths-insights-from-top-dietitians/"
-imported_from: "wordpress"
+source_url: >-
+  https://foreverhealty.com/debunking-7-common-cooking-myths-insights-from-top-dietitians/
+imported_from: wordpress
 wp_original_id: 18985
-featuredImage: "/assets/images/foreverhealty-general-article.webp"
+featuredImage: >-
+  /assets/images/debunking-7-common-cooking-myths-insights-from-top-dietitians.webp
 seo:
-  canonical: "https://foreverhealty.com/debunking-7-common-cooking-myths-insights-from-top-dietitians/"
-  og_title: "Debunking 7 Common Cooking Myths: Insights from Top Dietitians - Forever Healthy"
-  og_description: "This article debunks seven common myths about healthy cooking, including the belief that cooking vegetables depletes nutrients, microwaving zaps nutrients, and all fats are bad. It underscores the importance of making informed diet decisions based on accurate information for a nutritious lifestyle."
-  og_image: "https://foreverhealty.com/wp-content/uploads/2025/04/make_file-113.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://foreverhealty.com/debunking-7-common-cooking-myths-insights-from-top-dietitians/
+  og_title: >-
+    Debunking 7 Common Cooking Myths: Insights from Top Dietitians - Forever
+    Healthy
+  og_description: >-
+    This article debunks seven common myths about healthy cooking, including the
+    belief that cooking vegetables depletes nutrients, microwaving zaps
+    nutrients, and all fats are bad. It underscores the importance of making
+    informed diet decisions based on accurate information for a nutritious
+    lifestyle.
+  og_image: 'https://foreverhealty.com/wp-content/uploads/2025/04/make_file-113.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with accurate information and good tone, but significantly under target word count at 398 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written article with accurate information and good tone, but
+  significantly under target word count at 398 words versus the 800-1200 target
+  range.
+image_alt: >-
+  Sunlit kitchen counter with fresh and cooked vegetables, olive oil, grains,
+  and herbs arranged for healthy cooking.
 ---
 
 There's no shortage of cooking advice out there, but not all of it is accurate. Let's debunk seven common myths about healthy cooking that may be compromising your attempts at a nutritious lifestyle.
