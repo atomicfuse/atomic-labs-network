@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-china-set-to-outpace-europe-and-u-s-in-adopting-brake-by-wire-technology-heres-why
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/china-set-to-outpace-europe-and-u-s-in-adopting-brake-by-wire-technology-heres-why.webp
 reading_time: 3
 quality_score: 73
 score_breakdown:
@@ -36,6 +37,9 @@ quality_note: >-
   Well-written article with good tone and relevant automotive content, but
   significantly below target word count at 463 words versus 800-1200 target
   range.
+image_alt: >-
+  Futuristic electric sedan with glowing brake-control circuitry in a sleek
+  automotive test lab
 ---
 ## China's Technological Leadership Push
 
