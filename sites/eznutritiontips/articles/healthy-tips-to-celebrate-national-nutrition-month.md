@@ -1,25 +1,35 @@
 ---
-title: "Healthy Tips to Celebrate National Nutrition Month"
-description: "March is National Nutrition Month, promoting informed food choices and healthy habits. Embrace balanced nutrition by incorporating fruits, vegetables, whole grains, and mindful eating, combined with physical activity to improve well-being and enjoy a healthier lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2026-03-19T11:27:27+00:00"
-author: "Taylor Winters"
+title: Healthy Tips to Celebrate National Nutrition Month
+description: >-
+  March is National Nutrition Month, promoting informed food choices and healthy
+  habits. Embrace balanced nutrition by incorporating fruits, vegetables, whole
+  grains, and mindful eating, combined with physical activity to improve
+  well-being and enjoy a healthier lifestyle.
+type: standard
+status: published
+publishDate: '2026-03-19T11:27:27+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "healthy-tips-to-celebrate-national-nutrition-month"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: healthy-tips-to-celebrate-national-nutrition-month
 reading_time: 3
-source_url: "https://eznutritiontips.com/healthy-tips-to-celebrate-national-nutrition-month/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/healthy-tips-to-celebrate-national-nutrition-month/
+imported_from: wordpress
 wp_original_id: 19011
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/healthy-tips-to-celebrate-national-nutrition-month.webp
 seo:
-  canonical: "https://eznutritiontips.com/healthy-tips-to-celebrate-national-nutrition-month/"
-  og_title: "Healthy Tips to Celebrate National Nutrition Month - Easy Nutrition Tips"
-  og_description: "March is National Nutrition Month, promoting informed food choices and healthy habits. Embrace balanced nutrition by incorporating fruits, vegetables, whole grains, and mindful eating. Combine these with physical activity to improve well-being and enjoy a healthier lifestyle."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/healthy-tips-to-celebrate-national-nutrition-month/
+  og_title: Healthy Tips to Celebrate National Nutrition Month - Easy Nutrition Tips
+  og_description: >-
+    March is National Nutrition Month, promoting informed food choices and
+    healthy habits. Embrace balanced nutrition by incorporating fruits,
+    vegetables, whole grains, and mindful eating. Combine these with physical
+    activity to improve well-being and enjoy a healthier lifestyle.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and relevant content, but falls short on word count (582 vs 800-1200 target) and could benefit from stronger SEO optimization in title length and meta description."
+quality_note: >-
+  Well-written article with good tone and relevant content, but falls short on
+  word count (582 vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title length and meta description.
+image_alt: >-
+  Sunlit table with colorful healthy foods and exercise gear in a bright modern
+  kitchen
 ---
 
 March is a time to celebrate and embrace healthier eating choices as we acknowledge National Nutrition Month. This annual campaign, initiated by the Academy of Nutrition and Dietetics, encourages individuals to focus on the importance of making informed food choices and developing sound eating and physical activity habits.
