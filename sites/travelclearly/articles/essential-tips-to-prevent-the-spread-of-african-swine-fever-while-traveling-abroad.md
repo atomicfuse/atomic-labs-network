@@ -1,26 +1,42 @@
 ---
-title: "Essential Tips to Prevent the Spread of African Swine Fever While Traveling Abroad"
-description: "The global increase in voyagers plays a significant role in preventing diseases like African Swine Fever (ASF), a lethal disease affecting pigs. Travelers can help prevent its spread by avoiding pork products during international travel and adhering to biosecurity protocols."
-type: "standard"
-status: "review"
-publishDate: "2025-04-10T05:01:30+00:00"
-author: "Taylor Winters"
+title: >-
+  Essential Tips to Prevent the Spread of African Swine Fever While Traveling
+  Abroad
+description: >-
+  The global increase in voyagers plays a significant role in preventing
+  diseases like African Swine Fever (ASF), a lethal disease affecting pigs.
+  Travelers can help prevent its spread by avoiding pork products during
+  international travel and adhering to biosecurity protocols.
+type: standard
+status: review
+publishDate: '2025-04-10T05:01:30+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "News"
-  - "Travel"
-slug: "essential-tips-to-prevent-the-spread-of-african-swine-fever-while-traveling-abroad"
+  - Advice
+  - News
+  - Travel
+slug: >-
+  essential-tips-to-prevent-the-spread-of-african-swine-fever-while-traveling-abroad
 reading_time: 2
-source_url: "https://travelclearly.com/essential-tips-to-prevent-the-spread-of-african-swine-fever-while-traveling-abroad/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/essential-tips-to-prevent-the-spread-of-african-swine-fever-while-traveling-abroad/
+imported_from: wordpress
 wp_original_id: 36467
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: >-
+  /assets/images/essential-tips-to-prevent-the-spread-of-african-swine-fever-while-traveling-abroad.webp
 seo:
-  canonical: "https://travelclearly.com/essential-tips-to-prevent-the-spread-of-african-swine-fever-while-traveling-abroad/"
-  og_title: "Essential Tips to Prevent the Spread of African Swine Fever While Traveling Abroad - Travel Clearly"
-  og_description: "The global increase in voyagers plays a significant role in preventing diseases like African Swine Fever (ASF), a lethal disease affecting pigs. Travelers can help prevent its spread by avoiding pork products during international travel and adhering to biosecurity protocols."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/04/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/essential-tips-to-prevent-the-spread-of-african-swine-fever-while-traveling-abroad/
+  og_title: >-
+    Essential Tips to Prevent the Spread of African Swine Fever While Traveling
+    Abroad - Travel Clearly
+  og_description: >-
+    The global increase in voyagers plays a significant role in preventing
+    diseases like African Swine Fever (ASF), a lethal disease affecting pigs.
+    Travelers can help prevent its spread by avoiding pork products during
+    international travel and adhering to biosecurity protocols.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2025/04/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -28,7 +44,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "While factually accurate about ASF, this article is too short, lacks proper SEO optimization, and doesn't align well with travel enthusiast interests or the site's core travel content focus."
+quality_note: >-
+  While factually accurate about ASF, this article is too short, lacks proper
+  SEO optimization, and doesn't align well with travel enthusiast interests or
+  the site's core travel content focus.
+image_alt: >-
+  Traveler follows biosecurity precautions at an airport to help protect farms
+  from disease spread.
 ---
 
 As the number of global voyagers continues to increase, it's essential to comprehend the role we play in preventing the proliferation of diseases such as African Swine Fever (ASF). This highly contagious and lethal disease affects pigs, wreaking havoc on the swine industry worldwide. However, with your help, we can halt its spread.
