@@ -1,21 +1,28 @@
 ---
-title: "Why Mosquitoes Bite Us More: What Science Reveals"
-description: "Rising global temperatures and human activities are increasing mosquito populations, posing significant public health risks. Climate change extends breeding seasons, while urbanization creates new habitats, necessitating effective control measures and strategies to mitigate the spread of mosquito-borne diseases."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T12:57:31"
-author: "Taylor Winters"
+title: 'Why Mosquitoes Bite Us More: What Science Reveals'
+description: >-
+  Rising global temperatures and human activities are increasing mosquito
+  populations, posing significant public health risks. Climate change extends
+  breeding seasons, while urbanization creates new habitats, necessitating
+  effective control measures and strategies to mitigate the spread of
+  mosquito-borne diseases.
+type: standard
+status: published
+publishDate: '2026-01-15T12:57:31'
+author: Taylor Winters
 tags:
-  - "Environment"
-slug: "why-mosquitoes-bite-us-more-what-science-reveals"
+  - Environment
+slug: why-mosquitoes-bite-us-more-what-science-reveals
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/why-mosquitoes-bite-us-more-what-science-reveals/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/why-mosquitoes-bite-us-more-what-science-reveals/
+imported_from: wordpress
 wp_original_id: 15052
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/why-mosquitoes-bite-us-more-what-science-reveals.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/why-mosquitoes-bite-us-more-what-science-reveals/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/why-mosquitoes-bite-us-more-what-science-reveals/
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -23,7 +30,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong environmental content with good tone and accuracy, but significantly under target length at only 437 words versus the 800-1200 word target."
+quality_note: >-
+  Strong environmental content with good tone and accuracy, but significantly
+  under target length at only 437 words versus the 800-1200 word target.
+image_alt: >-
+  Mosquito hovering over a warm urban puddle at dusk, suggesting climate-driven
+  public health risk.
 ---
 
 As global temperatures continue to rise, mosquitoes are increasingly becoming a year-round nuisance, feeding on humans more frequently. This trend is largely attributed to changes in climate and human behavior, which create ideal conditions for these pests to thrive and spread.
