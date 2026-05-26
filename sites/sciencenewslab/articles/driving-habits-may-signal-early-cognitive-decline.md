@@ -1,23 +1,29 @@
 ---
-title: "Driving Habits May Signal Early Cognitive Decline"
-description: "Recent studies indicate that changes in driving habits might serve as early indicators of cognitive decline. By analyzing data from GPS and in-car sensors, researchers can detect subtle shifts in driving patterns, offering a potential method for early intervention."
-type: "standard"
-status: "review"
-publishDate: "2025-12-04T12:53:36"
-author: "Taylor Winters"
+title: Driving Habits May Signal Early Cognitive Decline
+description: >-
+  Recent studies indicate that changes in driving habits might serve as early
+  indicators of cognitive decline. By analyzing data from GPS and in-car
+  sensors, researchers can detect subtle shifts in driving patterns, offering a
+  potential method for early intervention.
+type: standard
+status: review
+publishDate: '2025-12-04T12:53:36'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-  - "Tech"
-slug: "driving-habits-may-signal-early-cognitive-decline"
+  - Space
+  - Humans
+  - Tech
+slug: driving-habits-may-signal-early-cognitive-decline
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/driving-habits-may-signal-early-cognitive-decline/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/driving-habits-may-signal-early-cognitive-decline/
+imported_from: wordpress
 wp_original_id: 15034
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/driving-habits-may-signal-early-cognitive-decline.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/driving-habits-may-signal-early-cognitive-decline/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/driving-habits-may-signal-early-cognitive-decline/
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -25,7 +31,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 40
-quality_note: "Well-written article with good tone and accuracy, but falls short on content length and doesn't align well with the site's primary science focus areas."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on content
+  length and doesn't align well with the site's primary science focus areas.
+image_alt: >-
+  Older driver’s hands on a steering wheel with a softly blurred road and subtle
+  GPS light reflections.
 ---
 
 Recent studies suggest that our driving habits may provide early indicators of cognitive decline. Researchers have observed that subtle changes in driving patterns could serve as a warning sign for future cognitive issues, often before more traditional symptoms become evident.
