@@ -1,27 +1,36 @@
 ---
-title: "Discover Chair Yoga Benefits and How to Start Today"
-description: "Chair yoga is an adaptable form of yoga performed seated or using a chair for support, making it accessible to all, including seniors and those with mobility challenges. It offers benefits like improved flexibility, balance, and stress reduction."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:45:32+00:00"
-author: "Taylor Winters"
+title: Discover Chair Yoga Benefits and How to Start Today
+description: >-
+  Chair yoga is an adaptable form of yoga performed seated or using a chair for
+  support, making it accessible to all, including seniors and those with
+  mobility challenges. It offers benefits like improved flexibility, balance,
+  and stress reduction.
+type: standard
+status: published
+publishDate: '2026-01-26T09:45:32+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Beginners"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "discover-chair-yoga-benefits-and-how-to-start-today"
+  - Yoga Poses
+  - Yoga For Beginners
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: discover-chair-yoga-benefits-and-how-to-start-today
 reading_time: 3
-source_url: "https://yogaterritory.com/discover-chair-yoga-benefits-and-how-to-start-today/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/discover-chair-yoga-benefits-and-how-to-start-today/'
+imported_from: wordpress
 wp_original_id: 20717
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/discover-chair-yoga-benefits-and-how-to-start-today.webp
 seo:
-  canonical: "https://yogaterritory.com/discover-chair-yoga-benefits-and-how-to-start-today/"
-  og_title: "Discover Chair Yoga Benefits and How to Start Today - Yoga Territory"
-  og_description: "Chair yoga is an adaptable form of yoga performed seated or using a chair for support, making it accessible to all, including seniors and those with mobility challenges. It offers benefits like improved flexibility, balance, and stress reduction."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/01/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/discover-chair-yoga-benefits-and-how-to-start-today/
+  og_title: Discover Chair Yoga Benefits and How to Start Today - Yoga Territory
+  og_description: >-
+    Chair yoga is an adaptable form of yoga performed seated or using a chair
+    for support, making it accessible to all, including seniors and those with
+    mobility challenges. It offers benefits like improved flexibility, balance,
+    and stress reduction.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -29,7 +38,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword relevance, but significantly below target word count at 504 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  below target word count at 504 words instead of the 800-1200 range.
+image_alt: >-
+  Adults practice gentle chair yoga in a bright, calming studio with supportive,
+  relaxed posture.
 ---
 
 Chair yoga offers an inclusive way to enjoy the benefits of yoga regardless of age, fitness level, or physical limitations. This adaptable form of yoga is performed seated in a chair or using it for support, making it accessible to everyone, including seniors and those with mobility challenges.
