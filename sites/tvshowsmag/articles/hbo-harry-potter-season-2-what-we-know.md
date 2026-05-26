@@ -22,7 +22,7 @@ source_url: >-
   https://www.elle.com/culture/celebrities/a71243453/hbo-harry-potter-season-2-news-date-cast/
 source_item_id: 6a0bc42316f23264031d7716
 generated_by: claude
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/hbo-harry-potter-season-2-what-we-know.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   significantly undermined by fabricated information about HBO's Harry Potter
   series and Christmas Day premiere date.
 reading_time: 3
+image_alt: >-
+  Three young students face a mysterious torchlit stone doorway glowing green in
+  a dark academy corridor.
 ---
 ## HBO Fast-Tracks Season 2 Development
 
