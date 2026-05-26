@@ -1,26 +1,41 @@
 ---
-title: "Transforming Houses into Homes: Key Stories and Essential Choices"
-description: "Creating a home that resonates with warmth, functionality, and personal style involves thoughtful design. Poonam Khanna, a celebrated architectural designer, excels in transforming houses into heartfelt homes, balancing aesthetics with practicality and personalizing each space to reflect its inhabitants' stories."
-type: "standard"
-status: "published"
-publishDate: "2026-01-22T09:19:31+00:00"
-author: "Taylor Winters"
+title: 'Transforming Houses into Homes: Key Stories and Essential Choices'
+description: >-
+  Creating a home that resonates with warmth, functionality, and personal style
+  involves thoughtful design. Poonam Khanna, a celebrated architectural
+  designer, excels in transforming houses into heartfelt homes, balancing
+  aesthetics with practicality and personalizing each space to reflect its
+  inhabitants' stories.
+type: standard
+status: published
+publishDate: '2026-01-22T09:19:31+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "Home"
-slug: "transforming-houses-into-homes-key-stories-and-essential-choices"
+  - Decor Ideas
+  - Design
+  - Home
+slug: transforming-houses-into-homes-key-stories-and-essential-choices
 reading_time: 3
-source_url: "https://decoratingtricks.com/transforming-houses-into-homes-key-stories-and-essential-choices/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/transforming-houses-into-homes-key-stories-and-essential-choices/
+imported_from: wordpress
 wp_original_id: 21550
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/transforming-houses-into-homes-key-stories-and-essential-choices.webp
 seo:
-  canonical: "https://decoratingtricks.com/transforming-houses-into-homes-key-stories-and-essential-choices/"
-  og_title: "Transforming Houses into Homes: Key Stories and Essential Choices - Decorating Tricks"
-  og_description: "Creating a home that resonates with warmth, functionality, and personal style involves thoughtful design. Poonam Khanna, a celebrated architectural designer, excels in transforming houses into heartfelt homes, balancing aesthetics with practicality and personalizing each space to reflect its inhabitants' stories."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/transforming-houses-into-homes-key-stories-and-essential-choices/
+  og_title: >-
+    Transforming Houses into Homes: Key Stories and Essential Choices -
+    Decorating Tricks
+  og_description: >-
+    Creating a home that resonates with warmth, functionality, and personal
+    style involves thoughtful design. Poonam Khanna, a celebrated architectural
+    designer, excels in transforming houses into heartfelt homes, balancing
+    aesthetics with practicality and personalizing each space to reflect its
+    inhabitants' stories.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -28,7 +43,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant design content, but falls short on word count (574 vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with good tone and relevant design content, but falls
+  short on word count (574 vs 800-1200 target) and could benefit from stronger
+  SEO optimization in title and meta description.
+image_alt: >-
+  Sunlit living room with warm textures, plants, books, and curated personal
+  decor
 ---
 
 Creating a home that resonates with warmth, functionality, and personal style is a journey that involves thoughtful design and a keen understanding of space. Poonam Khanna, a celebrated architectural designer, has mastered the art of transforming houses into heartfelt homes. Her approach, marked by an intricate balance between aesthetics and practicality, has set her apart in the design world.
