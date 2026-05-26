@@ -1,24 +1,32 @@
 ---
-title: "Chappell Roan Transforms 2026 Grammys Red Carpet Fashion"
-description: "The 2026 Grammy Awards will be a groundbreaking event for both music and fashion, with Chappell Roan poised to redefine red carpet style through her bold choices, unique flair, and commitment to sustainability and inclusivity in fashion."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T11:54:49+00:00"
-author: "Lena Harper"
+title: Chappell Roan Transforms 2026 Grammys Red Carpet Fashion
+description: >-
+  The 2026 Grammy Awards will be a groundbreaking event for both music and
+  fashion, with Chappell Roan poised to redefine red carpet style through her
+  bold choices, unique flair, and commitment to sustainability and inclusivity
+  in fashion.
+type: standard
+status: review
+publishDate: '2026-02-02T11:54:49+00:00'
+author: Lena Harper
 tags:
-  - "Fashion"
-  - "Music"
-slug: "chappell-roan-transforms-2026-grammys-red-carpet-fashion"
+  - Fashion
+  - Music
+slug: chappell-roan-transforms-2026-grammys-red-carpet-fashion
 reading_time: 3
-source_url: "https://wtpop.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/'
+imported_from: wordpress
 wp_original_id: 773
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/chappell-roan-transforms-2026-grammys-red-carpet-fashion.webp
 seo:
-  canonical: "https://wtpop.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/"
-  og_title: "Chappell Roan Transforms 2026 Grammys Red Carpet Fashion - WTPOP"
-  og_description: "The 2026 Grammy Awards will be a groundbreaking event for both music and fashion, with Chappell Roan poised to redefine red carpet style through her bold choices, unique flair, and commitment to sustainability and inclusivity in fashion."
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/chappell-roan-transforms-2026-grammys-red-carpet-fashion/'
+  og_title: Chappell Roan Transforms 2026 Grammys Red Carpet Fashion - WTPOP
+  og_description: >-
+    The 2026 Grammy Awards will be a groundbreaking event for both music and
+    fashion, with Chappell Roan poised to redefine red carpet style through her
+    bold choices, unique flair, and commitment to sustainability and inclusivity
+    in fashion.
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but severely compromised by future-tense speculation about 2026 events presented as fact, plus below-target word count."
+quality_note: >-
+  Strong tone and keyword relevance but severely compromised by future-tense
+  speculation about 2026 events presented as fact, plus below-target word count.
+image_alt: >-
+  Avant-garde pop performer in sustainable couture on a cinematic red carpet
+  with diverse guests.
 ---
 
 The 2026 Grammy Awards are set to be a groundbreaking event, not just for the music industry but also in the realm of fashion. As artists prepare to make their mark on the red carpet, one name stands out for its innovative approach to style: Chappell Roan. Known for her bold choices and unique flair, Roan is poised to redefine what it means to dress for the Grammys.
