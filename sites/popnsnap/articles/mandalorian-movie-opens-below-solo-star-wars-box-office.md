@@ -24,7 +24,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: /assets/images/mandalorian-movie-opens-below-solo-star-wars-box-office.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -38,6 +38,7 @@ quality_note: >-
   theatrically, severely compromising factual accuracy despite good keyword
   coverage.
 reading_time: 2
+image_alt: Lonely sci-fi helmet on dusty ground near an empty futuristic theater at dusk
 ---
 ## Star Wars Faces New Box Office Concerns
 
