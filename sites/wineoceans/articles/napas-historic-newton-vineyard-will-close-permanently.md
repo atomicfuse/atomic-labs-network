@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-napas-historic-newton-vineyard-will-close-permanently
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/napas-historic-newton-vineyard-will-close-permanently.webp
 reading_time: 2
 quality_score: 64
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Well-structured wine news article with good keyword coverage, but
   significantly too short at 364 words and lacks specific factual details about
   Newton Vineyard.
+image_alt: >-
+  Quiet Napa vineyard at dusk with rows of vines leading to a closed gate and
+  distant stone winery.
 ---
 ## Historic Napa Valley Winery Faces Closure
 
