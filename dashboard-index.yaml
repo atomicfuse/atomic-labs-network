@@ -918,7 +918,7 @@ sites:
     saved_previews: null
     custom_domain: null
   - domain: carsnewsinformer
-    company: NGC
+    company: null
     vertical: Automotive
     status: Staging
     site_id: "9801106869060"
@@ -927,7 +927,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-26T13:11:46.869Z
+    last_updated: 2026-05-26T14:19:54.079Z
     created_at: 2026-05-26T13:11:46.869Z
     pages_project: null
     pages_subdomain: null
