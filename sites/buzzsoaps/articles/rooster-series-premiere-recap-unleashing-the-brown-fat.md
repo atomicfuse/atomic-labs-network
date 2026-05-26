@@ -1,23 +1,34 @@
 ---
-title: "Rooster Series Premiere Recap: Unleashing the Brown Fat"
-description: "HBO's new series captivates audiences with unique storytelling and complex characters, set against a backdrop of drama and mystery. The premiere introduces a protagonist with secrets, intertwining personal dilemmas and societal issues, promising suspense and unexpected turns throughout the season."
-type: "standard"
-status: "review"
-publishDate: "2026-03-09T10:33:29+00:00"
-author: "Becca Roberts"
+title: 'Rooster Series Premiere Recap: Unleashing the Brown Fat'
+description: >-
+  HBO's new series captivates audiences with unique storytelling and complex
+  characters, set against a backdrop of drama and mystery. The premiere
+  introduces a protagonist with secrets, intertwining personal dilemmas and
+  societal issues, promising suspense and unexpected turns throughout the
+  season.
+type: standard
+status: review
+publishDate: '2026-03-09T10:33:29+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "rooster-series-premiere-recap-unleashing-the-brown-fat"
+  - Watch
+slug: rooster-series-premiere-recap-unleashing-the-brown-fat
 reading_time: 3
-source_url: "https://buzzsoaps.com/rooster-series-premiere-recap-unleashing-the-brown-fat/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/rooster-series-premiere-recap-unleashing-the-brown-fat/'
+imported_from: wordpress
 wp_original_id: 567
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/rooster-series-premiere-recap-unleashing-the-brown-fat.webp
 seo:
-  canonical: "https://buzzsoaps.com/rooster-series-premiere-recap-unleashing-the-brown-fat/"
-  og_title: "Rooster Series Premiere Recap: Unleashing the Brown Fat - BuzzSoaps!"
-  og_description: "HBO's new series captivates audiences with unique storytelling and complex characters, set against a backdrop of drama and mystery. The premiere introduces a protagonist with secrets, intertwining personal dilemmas and societal issues, promising suspense and unexpected turns throughout the season."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/rooster-series-premiere-recap-unleashing-the-brown-fat/
+  og_title: 'Rooster Series Premiere Recap: Unleashing the Brown Fat - BuzzSoaps!'
+  og_description: >-
+    HBO's new series captivates audiences with unique storytelling and complex
+    characters, set against a backdrop of drama and mystery. The premiere
+    introduces a protagonist with secrets, intertwining personal dilemmas and
+    societal issues, promising suspense and unexpected turns throughout the
+    season.
+  twitter_card: summary_large_image
 quality_score: 52
 score_breakdown:
   seo_quality: 45
@@ -25,7 +36,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "The article has major factual accuracy issues with a fabricated show title and lacks proper SEO optimization, though it maintains good tone and covers relevant entertainment topics."
+quality_note: >-
+  The article has major factual accuracy issues with a fabricated show title and
+  lacks proper SEO optimization, though it maintains good tone and covers
+  relevant entertainment topics.
+image_alt: >-
+  A shadowed figure stands in a dim apartment as dawn light reveals signs of
+  mystery and tension.
 ---
 
 The world of entertainment has been abuzz with the latest addition to HBO's lineup, a series that promises to captivate audiences with its unique storytelling and intriguing characters. This new show, set against a backdrop of drama and mystery, is already making waves among viewers and critics alike. As the first episode unfolds, viewers are drawn into the complex lives of its characters, setting the stage for a season filled with suspense and unexpected turns.
