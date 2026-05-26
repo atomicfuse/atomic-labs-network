@@ -1,25 +1,34 @@
 ---
-title: "New Year Tips for Teens: Stay Grounded, Not Reinvented"
-description: "Teens can start the new year by embracing their true selves and nurturing existing talents. Focusing on self-awareness and reflection allows them to build on strengths, maintain authentic connections, and set personal boundaries, ensuring meaningful growth and confidence."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:35:31+00:00"
-author: "Gabe Hernandez"
+title: 'New Year Tips for Teens: Stay Grounded, Not Reinvented'
+description: >-
+  Teens can start the new year by embracing their true selves and nurturing
+  existing talents. Focusing on self-awareness and reflection allows them to
+  build on strengths, maintain authentic connections, and set personal
+  boundaries, ensuring meaningful growth and confidence.
+type: standard
+status: review
+publishDate: '2026-01-22T10:35:31+00:00'
+author: Gabe Hernandez
 tags:
-  - "Funny Videos"
-  - "Advice"
-slug: "new-year-tips-for-teens-stay-grounded-not-reinvented"
+  - Funny Videos
+  - Advice
+slug: new-year-tips-for-teens-stay-grounded-not-reinvented
 reading_time: 3
-source_url: "https://funnypigeon.com/new-year-tips-for-teens-stay-grounded-not-reinvented/"
-imported_from: "wordpress"
+source_url: 'https://funnypigeon.com/new-year-tips-for-teens-stay-grounded-not-reinvented/'
+imported_from: wordpress
 wp_original_id: 507
-featuredImage: "/assets/images/funnypigeon-general-article.webp"
+featuredImage: /assets/images/new-year-tips-for-teens-stay-grounded-not-reinvented.webp
 seo:
-  canonical: "https://funnypigeon.com/new-year-tips-for-teens-stay-grounded-not-reinvented/"
-  og_title: "New Year Tips for Teens: Stay Grounded, Not Reinvented - Funny Pigeon"
-  og_description: "Teens can start the new year by embracing their true selves and nurturing existing talents. Focusing on self-awareness and reflection allows them to build on strengths, maintain authentic connections, and set personal boundaries, ensuring meaningful growth and confidence."
-  og_image: "https://funnypigeon.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://funnypigeon.com/new-year-tips-for-teens-stay-grounded-not-reinvented/
+  og_title: 'New Year Tips for Teens: Stay Grounded, Not Reinvented - Funny Pigeon'
+  og_description: >-
+    Teens can start the new year by embracing their true selves and nurturing
+    existing talents. Focusing on self-awareness and reflection allows them to
+    build on strengths, maintain authentic connections, and set personal
+    boundaries, ensuring meaningful growth and confidence.
+  og_image: 'https://funnypigeon.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 10
-quality_note: "This article completely misaligns with the entertainment site's focus, reading more like generic self-help content rather than engaging entertainment about funny videos, memes, viral content, animals, or odd news."
+quality_note: >-
+  This article completely misaligns with the entertainment site's focus, reading
+  more like generic self-help content rather than engaging entertainment about
+  funny videos, memes, viral content, animals, or odd news.
+image_alt: >-
+  Teen reflecting on a rooftop at dawn with personal objects nearby, evoking
+  grounded confidence
 ---
 
 As the new year unfolds, teenagers face the unique challenge of balancing growth with staying true to themselves. With societal pressures mounting, it's crucial for teens to navigate this period rooted in their core values, rather than seeking complete reinvention. By focusing on self-awareness and embracing their authentic selves, teens can enter the new year with confidence and clarity.
