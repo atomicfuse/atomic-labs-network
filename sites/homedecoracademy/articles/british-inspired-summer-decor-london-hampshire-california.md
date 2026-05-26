@@ -20,7 +20,7 @@ source_url: >-
   https://www.homesandgardens.com/interior-design/the-very-british-edit-summer-styling
 source_item_id: 6a152fda16f23264031d81f9
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/british-inspired-summer-decor-london-hampshire-california.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on word count and contains vague claims that lack specific
   support.
 reading_time: 3
+image_alt: >-
+  Airy summer living room with natural textures, open garden doors, and relaxed
+  British-California styling.
 ---
 ## A Fresh Take on Summer Home Styling
 
