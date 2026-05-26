@@ -1,24 +1,40 @@
 ---
-title: "Renewables to continue driving US power generation growth – EIA"
-description: "Renewable capacity additions, especially solar, will continue to drive US power generation growth over the next two years, according to the EIA's latest Short-Term Energy Outlook, which forecasts significant solar and wind expansion alongside accelerating coal retirements."
-type: "standard"
-status: "review"
-publishDate: "2025-02-01T02:28:53+00:00"
-author: "admin"
+title: Renewables to continue driving US power generation growth – EIA
+description: >-
+  Renewable capacity additions, especially solar, will continue to drive US
+  power generation growth over the next two years, according to the EIA's latest
+  Short-Term Energy Outlook, which forecasts significant solar and wind
+  expansion alongside accelerating coal retirements.
+type: standard
+status: review
+publishDate: '2025-02-01T02:28:53+00:00'
+author: admin
 tags:
-  - "Electric Cars"
-slug: "renewables-to-continue-driving-us-power-generation-growth-eia"
+  - Electric Cars
+slug: renewables-to-continue-driving-us-power-generation-growth-eia
 reading_time: 3
-source_url: "https://carsnewsmag.com/renewables-to-continue-driving-us-power-generation-growth-eia/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/renewables-to-continue-driving-us-power-generation-growth-eia/
+imported_from: wordpress
 wp_original_id: 38297
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/renewables-to-continue-driving-us-power-generation-growth-eia.webp
 seo:
-  canonical: "https://carsnewsmag.com/renewables-to-continue-driving-us-power-generation-growth-eia/"
-  og_title: "Renewables to continue driving US power generation growth – EIA - Cars News Magazine"
-  og_description: "Photo by Pixabay on Pexels.com Renewable capacity additions, especially solar, will continue to drive the growth of US power generation over the next two years, according to the US Energy Information Administration (EIA).&#xA0; According to its latest&#xA0;&#x201C;Short-Term Energy Outlook&#x201D;&#xA0;(STEO), the EIA expects that US utilities and independent power producers will add 26 gigawatts (GW) of [&hellip;]"
-  og_image: "https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-433308.jpeg?quality=82&amp;strip=all&amp;w=1500"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/renewables-to-continue-driving-us-power-generation-growth-eia/
+  og_title: >-
+    Renewables to continue driving US power generation growth – EIA - Cars News
+    Magazine
+  og_description: >-
+    Photo by Pixabay on Pexels.com Renewable capacity additions, especially
+    solar, will continue to drive the growth of US power generation over the
+    next two years, according to the US Energy Information Administration
+    (EIA).&#xA0; According to its latest&#xA0;&#x201C;Short-Term Energy
+    Outlook&#x201D;&#xA0;(STEO), the EIA expects that US utilities and
+    independent power producers will add 26 gigawatts (GW) of [&hellip;]
+  og_image: >-
+    https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-433308.jpeg?quality=82&amp;strip=all&amp;w=1500
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -26,7 +42,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 30
-quality_note: "While the article provides accurate energy sector data, it lacks automotive focus and falls short of target length for the car enthusiast audience."
+quality_note: >-
+  While the article provides accurate energy sector data, it lacks automotive
+  focus and falls short of target length for the car enthusiast audience.
+image_alt: >-
+  Solar panels and wind turbines power a distant city at sunrise with inactive
+  coal stacks beyond.
 ---
 
 Renewable capacity additions, especially solar, will continue to drive the growth of US power generation over the next two years, according to the US Energy Information Administration (EIA).
