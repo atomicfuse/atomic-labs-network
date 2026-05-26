@@ -1,25 +1,40 @@
 ---
-title: "Metrobank Hosts Financial Mindfulness Journaling Workshop for Gen Z"
-description: "Metrobank engages Gen Z in financial mindfulness through a unique journaling workshop, aiming to equip young individuals with essential money management skills. The interactive sessions combine financial education with journaling, helping participants understand and improve their financial habits and decisions."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T10:45:27+00:00"
-author: "Lena Ashwood"
+title: Metrobank Hosts Financial Mindfulness Journaling Workshop for Gen Z
+description: >-
+  Metrobank engages Gen Z in financial mindfulness through a unique journaling
+  workshop, aiming to equip young individuals with essential money management
+  skills. The interactive sessions combine financial education with journaling,
+  helping participants understand and improve their financial habits and
+  decisions.
+type: standard
+status: review
+publishDate: '2025-12-29T10:45:27+00:00'
+author: Lena Ashwood
 tags:
-  - "Mindfulness"
-  - "Personal Growth"
-slug: "metrobank-hosts-financial-mindfulness-journaling-workshop-for-gen-z"
+  - Mindfulness
+  - Personal Growth
+slug: metrobank-hosts-financial-mindfulness-journaling-workshop-for-gen-z
 reading_time: 3
-source_url: "https://mindmedications.com/metrobank-hosts-financial-mindfulness-journaling-workshop-for-gen-z/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/metrobank-hosts-financial-mindfulness-journaling-workshop-for-gen-z/
+imported_from: wordpress
 wp_original_id: 601
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: >-
+  /assets/images/metrobank-hosts-financial-mindfulness-journaling-workshop-for-gen-z.webp
 seo:
-  canonical: "https://mindmedications.com/metrobank-hosts-financial-mindfulness-journaling-workshop-for-gen-z/"
-  og_title: "Metrobank Hosts Financial Mindfulness Journaling Workshop for Gen Z - Mind Medications"
-  og_description: "Metrobank engages Gen Z in financial mindfulness through a unique journaling workshop, aiming to equip young individuals with essential money management skills. The interactive sessions combine financial education with journaling, helping participants understand and improve their financial habits and decisions."
-  og_image: "https://mindmedications.com/wp-content/uploads/2025/12/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/metrobank-hosts-financial-mindfulness-journaling-workshop-for-gen-z/
+  og_title: >-
+    Metrobank Hosts Financial Mindfulness Journaling Workshop for Gen Z - Mind
+    Medications
+  og_description: >-
+    Metrobank engages Gen Z in financial mindfulness through a unique journaling
+    workshop, aiming to equip young individuals with essential money management
+    skills. The interactive sessions combine financial education with
+    journaling, helping participants understand and improve their financial
+    habits and decisions.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2025/12/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 25
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article is too short and lacks SEO optimization, but maintains good tone and covers relevant mindfulness/personal growth topics for the target audience."
+quality_note: >-
+  The article is too short and lacks SEO optimization, but maintains good tone
+  and covers relevant mindfulness/personal growth topics for the target
+  audience.
+image_alt: >-
+  Young adults journal at a sunlit table with subtle budgeting tools in a calm
+  workshop setting.
 ---
 
 In a world where financial literacy is often overlooked by the younger generation, Metrobank is taking an innovative approach to engage Gen Z in financial mindfulness. By hosting a unique journaling workshop, the bank aims to equip young individuals with the skills necessary for effective money management.
