@@ -1,29 +1,37 @@
 ---
-title: "Exploring the Chilling Events of the One-Way Train to Hell"
-description: "Uncover the mysterious and haunting stories surrounding a fateful train journey during WWII, including MrBallen's chilling account of a one-way train to hell and other tales exploring the human psyche under extraordinary circumstances."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:44:11+00:00"
-author: "Blake Anderson"
+title: Exploring the Chilling Events of the One-Way Train to Hell
+description: >-
+  Uncover the mysterious and haunting stories surrounding a fateful train
+  journey during WWII, including MrBallen's chilling account of a one-way train
+  to hell and other tales exploring the human psyche under extraordinary
+  circumstances.
+type: standard
+status: review
+publishDate: '2025-12-22T11:44:11+00:00'
+author: Blake Anderson
 tags:
-  - "Conspiracies"
-  - "Dark History"
-  - "Mysteries"
-slug: "exploring-the-chilling-events-of-the-one-way-train-to-hell"
+  - Conspiracies
+  - Dark History
+  - Mysteries
+slug: exploring-the-chilling-events-of-the-one-way-train-to-hell
 reading_time: 2
-source_url: "https://stroylab.com/exploring-the-chilling-events-of-the-one-way-train-to-hell/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/exploring-the-chilling-events-of-the-one-way-train-to-hell/
+imported_from: wordpress
 wp_original_id: 760
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/exploring-the-chilling-events-of-the-one-way-train-to-hell.webp
 seo:
-  canonical: "https://stroylab.com/exploring-the-chilling-events-of-the-one-way-train-to-hell/"
-  og_title: "Exploring the Chilling Events of the One-Way Train to Hell - StroyLab"
-  og_description: "Uncover the mysterious and haunting stories surrounding a fateful train journey during WWII."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/exploring-the-chilling-events-of-the-one-way-train-to-hell/
+  og_title: Exploring the Chilling Events of the One-Way Train to Hell - StroyLab
+  og_description: >-
+    Uncover the mysterious and haunting stories surrounding a fateful train
+    journey during WWII.
+  twitter_card: summary_large_image
 videos:
-  - id: "de326e8a"
-    url: "https://www.youtube.com/watch?v=o1iibEUe5Wk"
-    position: "after-paragraph-2"
+  - id: de326e8a
+    url: 'https://www.youtube.com/watch?v=o1iibEUe5Wk'
+    position: after-paragraph-2
 quality_score: 49
 score_breakdown:
   seo_quality: 45
@@ -31,7 +39,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 30
   keyword_relevance: 75
-quality_note: "Article has good keyword relevance and tone but is severely underweight at 343 words and contains vague, potentially fabricated historical claims about WWII train stories without proper sourcing."
+quality_note: >-
+  Article has good keyword relevance and tone but is severely underweight at 343
+  words and contains vague, potentially fabricated historical claims about WWII
+  train stories without proper sourcing.
+image_alt: >-
+  A steam train emerges from fog on a desolate wartime railway under a cold,
+  ominous sky.
 ---
 
 In the realm of gripping narratives and eerie tales, few stories capture the imagination quite like those that revolve around mysterious journeys. One such tale is the chilling account of the one-way train to hell, set during the tumultuous times of World War II. This post delves into the haunting events that took place aboard this ill-fated train, as well as other intriguing stories shared by MrBallen.
