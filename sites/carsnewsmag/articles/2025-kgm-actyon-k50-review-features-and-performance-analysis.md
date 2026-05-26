@@ -1,24 +1,37 @@
 ---
-title: "2025 KGM Actyon K50 Review: Features and Performance Analysis"
-description: "The 2025 KGM Actyon K50 redefines automotive expectations with its cutting-edge technology, innovative design, and sustainable hybrid engine. Featuring advanced safety systems and a luxurious interior, it promises a dynamic driving experience while setting a new standard in the market."
-type: "standard"
-status: "review"
-publishDate: "2026-04-02T08:21:21+00:00"
-author: "Taylor Winters"
+title: '2025 KGM Actyon K50 Review: Features and Performance Analysis'
+description: >-
+  The 2025 KGM Actyon K50 redefines automotive expectations with its
+  cutting-edge technology, innovative design, and sustainable hybrid engine.
+  Featuring advanced safety systems and a luxurious interior, it promises a
+  dynamic driving experience while setting a new standard in the market.
+type: standard
+status: review
+publishDate: '2026-04-02T08:21:21+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "2025-kgm-actyon-k50-review-features-and-performance-analysis"
+  - Reviews
+slug: 2025-kgm-actyon-k50-review-features-and-performance-analysis
 reading_time: 3
-source_url: "https://carsnewsmag.com/2025-kgm-actyon-k50-review-features-and-performance-analysis/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/2025-kgm-actyon-k50-review-features-and-performance-analysis/
+imported_from: wordpress
 wp_original_id: 38596
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/2025-kgm-actyon-k50-review-features-and-performance-analysis.webp
 seo:
-  canonical: "https://carsnewsmag.com/2025-kgm-actyon-k50-review-features-and-performance-analysis/"
-  og_title: "2025 KGM Actyon K50 Review: Features and Performance Analysis - Cars News Magazine"
-  og_description: "The 2025 KGM Actyon K50 redefines automotive expectations with its cutting-edge technology, innovative design, and sustainable hybrid engine. Featuring advanced safety systems and a luxurious interior, it promises a dynamic driving experience while setting a new standard in the market."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/2025-kgm-actyon-k50-review-features-and-performance-analysis/
+  og_title: >-
+    2025 KGM Actyon K50 Review: Features and Performance Analysis - Cars News
+    Magazine
+  og_description: >-
+    The 2025 KGM Actyon K50 redefines automotive expectations with its
+    cutting-edge technology, innovative design, and sustainable hybrid engine.
+    Featuring advanced safety systems and a luxurious interior, it promises a
+    dynamic driving experience while setting a new standard in the market.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong review content with good tone and keyword relevance, but significantly too short at 461 words and contains fabricated vehicle information that raises serious factual accuracy concerns."
+quality_note: >-
+  Strong review content with good tone and keyword relevance, but significantly
+  too short at 461 words and contains fabricated vehicle information that raises
+  serious factual accuracy concerns.
+image_alt: >-
+  Sleek hybrid crossover driving on a coastal road at sunrise with a premium
+  futuristic feel
 ---
 
 The automotive world is buzzing with excitement as the 2025 KGM Actyon K50 makes its debut. This latest model promises to redefine expectations with its blend of cutting-edge technology and innovative design. As consumers eagerly await its arrival, the K50 is set to make a lasting impression in the automotive industry.
