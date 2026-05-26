@@ -1,22 +1,28 @@
 ---
-title: "Economist Warns: AI’s True Threat Isn’t Mass Unemployment"
-description: "The rapid advancement of AI is reshaping modern life, sparking debates about its future impact. While fears of AI-induced unemployment are common, experts warn of other risks, such as increased inequality and bias, necessitating regulation and education."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T12:55:33"
-author: "Taylor Winters"
+title: 'Economist Warns: AI’s True Threat Isn’t Mass Unemployment'
+description: >-
+  The rapid advancement of AI is reshaping modern life, sparking debates about
+  its future impact. While fears of AI-induced unemployment are common, experts
+  warn of other risks, such as increased inequality and bias, necessitating
+  regulation and education.
+type: standard
+status: review
+publishDate: '2026-01-22T12:55:33'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Tech"
-slug: "economist-warns-ais-true-threat-isnt-mass-unemployment"
+  - Space
+  - Tech
+slug: economist-warns-ais-true-threat-isnt-mass-unemployment
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/economist-warns-ais-true-threat-isnt-mass-unemployment/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/economist-warns-ais-true-threat-isnt-mass-unemployment/
+imported_from: wordpress
 wp_original_id: 15056
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/economist-warns-ais-true-threat-isnt-mass-unemployment.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/economist-warns-ais-true-threat-isnt-mass-unemployment/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/economist-warns-ais-true-threat-isnt-mass-unemployment/
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 40
-quality_note: "Well-written AI article with good tone and accuracy, but significantly under target word count and poorly aligned with site's science focus areas."
+quality_note: >-
+  Well-written AI article with good tone and accuracy, but significantly under
+  target word count and poorly aligned with site's science focus areas.
+image_alt: >-
+  Abstract AI network divides a modern workspace, suggesting inequality and bias
+  risks.
 ---
 
 The rapid advancement of artificial intelligence (AI) technologies is reshaping many aspects of modern life, leading to a wide range of debates about the future impact of these technologies. While fears about AI-induced mass unemployment are prevalent, some experts suggest that the real risks may lie elsewhere.
