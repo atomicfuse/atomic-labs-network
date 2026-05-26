@@ -1,25 +1,36 @@
 ---
-title: "Alma Teens Win National Competition with New Co-op Game"
-description: "A group of talented teenagers from Alma, Arkansas, achieved national recognition by developing an innovative cooperative video game. Their project, which emphasizes teamwork, won first place in a prestigious competition and highlights the potential of young developers in the gaming industry."
-type: "standard"
-status: "published"
-publishDate: "2025-08-14T04:19:34+00:00"
-author: "Taylor Winters"
+title: Alma Teens Win National Competition with New Co-op Game
+description: >-
+  A group of talented teenagers from Alma, Arkansas, achieved national
+  recognition by developing an innovative cooperative video game. Their project,
+  which emphasizes teamwork, won first place in a prestigious competition and
+  highlights the potential of young developers in the gaming industry.
+type: standard
+status: published
+publishDate: '2025-08-14T04:19:34+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "community game"
-slug: "alma-teens-win-national-competition-with-new-co-op-game"
+  - Gaming News
+  - community game
+slug: alma-teens-win-national-competition-with-new-co-op-game
 reading_time: 3
-source_url: "https://gamingnewsalley.com/alma-teens-win-national-competition-with-new-co-op-game/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/alma-teens-win-national-competition-with-new-co-op-game/
+imported_from: wordpress
 wp_original_id: 42514
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/alma-teens-win-national-competition-with-new-co-op-game.webp
 seo:
-  canonical: "https://gamingnewsalley.com/alma-teens-win-national-competition-with-new-co-op-game/"
-  og_title: "Alma Teens Win National Competition with New Co-op Game - Gaming News Alley"
-  og_description: "A group of talented teenagers from Alma, Arkansas, achieved national recognition by developing an innovative cooperative video game. Their project, which emphasizes teamwork, won first place in a prestigious competition and highlights the potential of young developers in the gaming industry."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/08/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/alma-teens-win-national-competition-with-new-co-op-game/
+  og_title: Alma Teens Win National Competition with New Co-op Game - Gaming News Alley
+  og_description: >-
+    A group of talented teenagers from Alma, Arkansas, achieved national
+    recognition by developing an innovative cooperative video game. Their
+    project, which emphasizes teamwork, won first place in a prestigious
+    competition and highlights the potential of young developers in the gaming
+    industry.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/08/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written gaming news article with engaging tone, but lacks specific details about the competition and game mechanics, making some claims difficult to verify."
+quality_note: >-
+  Well-written gaming news article with engaging tone, but lacks specific
+  details about the competition and game mechanics, making some claims difficult
+  to verify.
+image_alt: >-
+  Teen developers collaborate around a glowing laptop and game controller in a
+  school media lab.
 ---
 
 In an impressive display of creativity and technical prowess, a group of talented teenagers from Alma, Arkansas, has achieved national recognition by developing an innovative cooperative video game. These young developers participated in a prestigious competition and emerged victorious, capturing the first-place title and demonstrating the potential of young minds in the gaming industry.
