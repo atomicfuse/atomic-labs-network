@@ -1,22 +1,29 @@
 ---
-title: "Psychedelics May Transform Brain to Lower Alcohol Intake"
-description: "Recent research highlights the potential of psychedelics in treating alcohol use disorder by altering brain pathways. These substances may reduce alcohol consumption by enhancing neuroplasticity, offering an alternative to traditional treatments and supporting long-term recovery through profound psychological experiences."
-type: "standard"
-status: "review"
-publishDate: "2025-05-12T08:41:26"
-author: "Taylor Winters"
+title: Psychedelics May Transform Brain to Lower Alcohol Intake
+description: >-
+  Recent research highlights the potential of psychedelics in treating alcohol
+  use disorder by altering brain pathways. These substances may reduce alcohol
+  consumption by enhancing neuroplasticity, offering an alternative to
+  traditional treatments and supporting long-term recovery through profound
+  psychological experiences.
+type: standard
+status: review
+publishDate: '2025-05-12T08:41:26'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "psychedelics-may-transform-brain-to-lower-alcohol-intake"
+  - Space
+  - Humans
+slug: psychedelics-may-transform-brain-to-lower-alcohol-intake
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/psychedelics-may-transform-brain-to-lower-alcohol-intake/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/psychedelics-may-transform-brain-to-lower-alcohol-intake/
+imported_from: wordpress
 wp_original_id: 14958
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/psychedelics-may-transform-brain-to-lower-alcohol-intake.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/psychedelics-may-transform-brain-to-lower-alcohol-intake/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/psychedelics-may-transform-brain-to-lower-alcohol-intake/
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: "The article is well-written but significantly misaligned with the site's focus on science topics like Space, Nature, Physics, Technology, and Environment, instead covering psychology/medicine."
+quality_note: >-
+  The article is well-written but significantly misaligned with the site's focus
+  on science topics like Space, Nature, Physics, Technology, and Environment,
+  instead covering psychology/medicine.
+image_alt: >-
+  Glowing neural pathways in a human profile with a blurred drink fading into
+  shadow
 ---
 
 Recent research is shedding light on a novel approach to combating alcohol use disorder (AUD) by exploring the potential of psychedelics. These powerful substances, traditionally used in spiritual and recreational settings, are now being examined for their ability to alter brain pathways and potentially reduce alcohol consumption. This innovative field of study is opening new doors for those seeking treatment for AUD, a condition that affects millions worldwide.
