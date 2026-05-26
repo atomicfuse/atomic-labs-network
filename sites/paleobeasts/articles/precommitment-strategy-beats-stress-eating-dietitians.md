@@ -22,7 +22,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71285749/precommitment-eating-strategy/
 source_item_id: 6a09bbd1099fd899f75e8257
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/precommitment-strategy-beats-stress-eating-dietitians.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   800-1200 target) and could better integrate paleo-specific content and
   keywords for the site's audience.
 reading_time: 3
+image_alt: >-
+  Prepared healthy snacks on a calm kitchen counter with treats blurred behind
+  glass
 ---
 ## The Science Behind Stress and Food Choices
 
