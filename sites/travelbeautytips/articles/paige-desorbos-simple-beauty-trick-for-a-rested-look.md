@@ -1,27 +1,37 @@
 ---
-title: "Paige DeSorbo’s Simple Beauty Trick for a Rested Look"
-description: "Paige DeSorbo's beauty trick enhances your look with minimal effort by focusing on the eyes. Using light concealer and mascara, plus highlighter and lip color, creates an energized appearance, perfect for busy days requiring a quick beauty boost."
-type: "standard"
-status: "published"
-publishDate: "2025-05-01T05:51:22+00:00"
-author: "Taylor Winters"
+title: Paige DeSorbo’s Simple Beauty Trick for a Rested Look
+description: >-
+  Paige DeSorbo's beauty trick enhances your look with minimal effort by
+  focusing on the eyes. Using light concealer and mascara, plus highlighter and
+  lip color, creates an energized appearance, perfect for busy days requiring a
+  quick beauty boost.
+type: standard
+status: published
+publishDate: '2025-05-01T05:51:22+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-  - "Makeup Tutorial"
-slug: "paige-desorbos-simple-beauty-trick-for-a-rested-look"
+  - Travel Tips
+  - Beauty
+  - Makeup Hacks
+  - Makeup Tutorial
+slug: paige-desorbos-simple-beauty-trick-for-a-rested-look
 reading_time: 3
-source_url: "https://travelbeautytips.com/paige-desorbos-simple-beauty-trick-for-a-rested-look/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/paige-desorbos-simple-beauty-trick-for-a-rested-look/
+imported_from: wordpress
 wp_original_id: 35883
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/paige-desorbos-simple-beauty-trick-for-a-rested-look.webp
 seo:
-  canonical: "https://travelbeautytips.com/paige-desorbos-simple-beauty-trick-for-a-rested-look/"
-  og_title: "Paige DeSorbo's Simple Beauty Trick for a Rested Look - Travel Beauty Tips"
-  og_description: "Paige DeSorbo's beauty trick enhances your look with minimal effort by focusing on the eyes. Using light concealer and mascara, plus highlighter and lip color, creates an energized appearance, perfect for busy days requiring a quick beauty boost."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/paige-desorbos-simple-beauty-trick-for-a-rested-look/
+  og_title: Paige DeSorbo's Simple Beauty Trick for a Rested Look - Travel Beauty Tips
+  og_description: >-
+    Paige DeSorbo's beauty trick enhances your look with minimal effort by
+    focusing on the eyes. Using light concealer and mascara, plus highlighter
+    and lip color, creates an energized appearance, perfect for busy days
+    requiring a quick beauty boost.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written beauty article with engaging tone but falls significantly short of target word count at 496 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written beauty article with engaging tone but falls significantly short
+  of target word count at 496 words instead of the 800-1200 range.
+image_alt: >-
+  Morning vanity with concealer, mascara, highlighter, and lip tint for a quick
+  rested beauty look
 ---
 
 I'm always on the lookout for tips to enhance my look with minimal effort. Paige DeSorbo recently shared an intriguing beauty trick to help achieve a more awake appearance, which caught my attention. This innovative method promises to refresh your look instantly, making it a must-try for anyone wanting to add a little sparkle to their routine.
