@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-discover-hidden-gems-in-overlooked-british-isles-cities
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/discover-hidden-gems-in-overlooked-british-isles-cities.webp
 reading_time: 3
 quality_score: 70
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Well-targeted content with good tone and keyword coverage, but critically
   lacks specificity and relies heavily on vague 'according to reports'
   statements without naming actual cities or providing concrete information.
+image_alt: >-
+  Quiet British Isles city street with colorful facades, cobblestones, and soft
+  morning light
 ---
 ## Beyond London and Edinburgh: A Different Perspective on British Travel
 
