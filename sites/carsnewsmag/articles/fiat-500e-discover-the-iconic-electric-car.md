@@ -1,25 +1,33 @@
 ---
-title: "Fiat 500e: Discover the Iconic Electric Car"
-description: "The Fiat 500e blends classic Italian design with modern electric efficiency, offering a stylish and practical choice for eco-conscious drivers. Its efficient motor and advanced technology make it a compelling option in the growing compact electric vehicle market."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T04:07:29+00:00"
-author: "Taylor Winters"
+title: 'Fiat 500e: Discover the Iconic Electric Car'
+description: >-
+  The Fiat 500e blends classic Italian design with modern electric efficiency,
+  offering a stylish and practical choice for eco-conscious drivers. Its
+  efficient motor and advanced technology make it a compelling option in the
+  growing compact electric vehicle market.
+type: standard
+status: published
+publishDate: '2025-07-31T04:07:29+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Reviews"
-slug: "fiat-500e-discover-the-iconic-electric-car"
+  - Electric Cars
+  - Reviews
+slug: fiat-500e-discover-the-iconic-electric-car
 reading_time: 3
-source_url: "https://carsnewsmag.com/fiat-500e-discover-the-iconic-electric-car/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/fiat-500e-discover-the-iconic-electric-car/'
+imported_from: wordpress
 wp_original_id: 38475
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/fiat-500e-discover-the-iconic-electric-car.webp
 seo:
-  canonical: "https://carsnewsmag.com/fiat-500e-discover-the-iconic-electric-car/"
-  og_title: "Fiat 500e: Discover the Iconic Electric Car - Cars News Magazine"
-  og_description: "The Fiat 500e blends classic Italian design with modern electric efficiency, offering a stylish and practical choice for eco-conscious drivers. Its efficient motor and advanced technology make it a compelling option in the growing compact electric vehicle market."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/07/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/fiat-500e-discover-the-iconic-electric-car/'
+  og_title: 'Fiat 500e: Discover the Iconic Electric Car - Cars News Magazine'
+  og_description: >-
+    The Fiat 500e blends classic Italian design with modern electric efficiency,
+    offering a stylish and practical choice for eco-conscious drivers. Its
+    efficient motor and advanced technology make it a compelling option in the
+    growing compact electric vehicle market.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/07/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but falls short on length and lacks specific technical details that would enhance credibility."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but falls short on
+  length and lacks specific technical details that would enhance credibility.
+image_alt: >-
+  Retro-inspired compact electric car on a sunny European street near a charging
+  post
 ---
 
 The Fiat 500e represents a significant shift in the automotive landscape, combining classic Italian design with modern electric efficiency. As interest in eco-friendly vehicles grows, this compact car stands out with its distinctive style and practical features. Its entry into the electric vehicle market marks Fiat's commitment to sustainable transportation, offering drivers an appealing blend of innovation and tradition.
