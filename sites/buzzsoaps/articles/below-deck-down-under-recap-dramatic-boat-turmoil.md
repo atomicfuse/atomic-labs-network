@@ -1,24 +1,32 @@
 ---
-title: "Below Deck Down Under Recap: Dramatic Boat Turmoil"
-description: "Below Deck Down Under captivates with high-seas drama and luxury, showcasing crew challenges and interpersonal dynamics against Australia's stunning backdrop. The season highlights leadership, resilience, and the balance between work and play, making it a standout in reality TV."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T09:21:21+00:00"
-author: "Becca Roberts"
+title: 'Below Deck Down Under Recap: Dramatic Boat Turmoil'
+description: >-
+  Below Deck Down Under captivates with high-seas drama and luxury, showcasing
+  crew challenges and interpersonal dynamics against Australia's stunning
+  backdrop. The season highlights leadership, resilience, and the balance
+  between work and play, making it a standout in reality TV.
+type: standard
+status: review
+publishDate: '2025-05-22T09:21:21+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "below-deck-down-under-recap-dramatic-boat-turmoil"
+  - Watch
+slug: below-deck-down-under-recap-dramatic-boat-turmoil
 reading_time: 4
-source_url: "https://buzzsoaps.com/below-deck-down-under-recap-dramatic-boat-turmoil/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/below-deck-down-under-recap-dramatic-boat-turmoil/'
+imported_from: wordpress
 wp_original_id: 385
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/below-deck-down-under-recap-dramatic-boat-turmoil.webp
 seo:
-  canonical: "https://buzzsoaps.com/below-deck-down-under-recap-dramatic-boat-turmoil/"
-  og_title: "Below Deck Down Under Recap: Dramatic Boat Turmoil - BuzzSoaps!"
-  og_description: "Below Deck Down Under captivates with high-seas drama and luxury, showcasing crew challenges and interpersonal dynamics against Australia's stunning backdrop. The season highlights leadership, resilience, and the balance between work and play, making it a standout in reality TV."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-11.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/below-deck-down-under-recap-dramatic-boat-turmoil/'
+  og_title: 'Below Deck Down Under Recap: Dramatic Boat Turmoil - BuzzSoaps!'
+  og_description: >-
+    Below Deck Down Under captivates with high-seas drama and luxury, showcasing
+    crew challenges and interpersonal dynamics against Australia's stunning
+    backdrop. The season highlights leadership, resilience, and the balance
+    between work and play, making it a standout in reality TV.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-11.png'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has decent tone and accuracy but lacks proper SEO optimization with a short title, missing meta description length requirements, and insufficient keyword integration for the site's focus areas."
+quality_note: >-
+  The article has decent tone and accuracy but lacks proper SEO optimization
+  with a short title, missing meta description length requirements, and
+  insufficient keyword integration for the site's focus areas.
+image_alt: >-
+  Luxury yacht off the Australian coast with tense crew silhouettes under
+  dramatic storm clouds
 ---
 
 The world of yachting reality TV continues to captivate audiences with its blend of high-seas drama and luxurious lifestyles. "Below Deck Down Under" is no exception, offering a glimpse into the lives of crew members aboard a stunning superyacht. As the show navigates through its latest season, viewers are treated to a unique mix of personal and professional challenges faced by the cast in the breathtaking waters of Australia.
