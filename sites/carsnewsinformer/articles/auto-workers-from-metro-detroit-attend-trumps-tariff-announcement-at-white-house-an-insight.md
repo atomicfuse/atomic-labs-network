@@ -24,7 +24,8 @@ source_url: ''
 source_item_id: >-
   synthetic-auto-workers-from-metro-detroit-attend-trumps-tariff-announcement-at-white-house-an-insight
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/auto-workers-from-metro-detroit-attend-trumps-tariff-announcement-at-white-house-an-insight.webp
 reading_time: 2
 quality_score: 66
 score_breakdown:
@@ -37,6 +38,9 @@ quality_note: >-
   The article covers relevant automotive news but is significantly too short at
   353 words, lacks specific details, and has weak SEO optimization with a
   lengthy title.
+image_alt: >-
+  Auto workers stand near vehicle parts with the White House blurred in the
+  background.
 ---
 ## Metro Detroit Auto Workers Present at Presidential Tariff Announcement
 
