@@ -1,25 +1,34 @@
 ---
-title: "Expedition 33 Tops Metacritic’s All-Time Game Ratings"
-description: "Clair Obscur Expedition 33 has redefined excellence in video game development, securing the top spot on Metacritic's all-time ratings with its immersive storytelling, cutting-edge graphics, and innovative mechanics."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T05:11:24+00:00"
-author: "Taylor Winters"
+title: Expedition 33 Tops Metacritic’s All-Time Game Ratings
+description: >-
+  Clair Obscur Expedition 33 has redefined excellence in video game development,
+  securing the top spot on Metacritic's all-time ratings with its immersive
+  storytelling, cutting-edge graphics, and innovative mechanics.
+type: standard
+status: review
+publishDate: '2025-05-05T05:11:24+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "expedition-33-tops-metacritics-all-time-game-ratings"
+  - Gaming News
+  - Community
+slug: expedition-33-tops-metacritics-all-time-game-ratings
 reading_time: 3
-source_url: "https://gamingnewsalley.com/expedition-33-tops-metacritics-all-time-game-ratings/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/expedition-33-tops-metacritics-all-time-game-ratings/
+imported_from: wordpress
 wp_original_id: 42462
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/expedition-33-tops-metacritics-all-time-game-ratings.webp
 seo:
-  canonical: "https://gamingnewsalley.com/expedition-33-tops-metacritics-all-time-game-ratings/"
-  og_title: "Expedition 33 Tops Metacritic's All-Time Game Ratings - Gaming News Alley"
-  og_description: "Clair Obscur Expedition 33 has redefined excellence in video game development with its top Metacritic rating. Released recently, it captivates players with immersive storytelling, cutting-edge graphics, and innovative mechanics, setting a new benchmark for future video game projects."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/expedition-33-tops-metacritics-all-time-game-ratings/
+  og_title: Expedition 33 Tops Metacritic's All-Time Game Ratings - Gaming News Alley
+  og_description: >-
+    Clair Obscur Expedition 33 has redefined excellence in video game
+    development with its top Metacritic rating. Released recently, it captivates
+    players with immersive storytelling, cutting-edge graphics, and innovative
+    mechanics, setting a new benchmark for future video game projects.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "While the article demonstrates good gaming content structure and tone, it appears to contain fabricated information about a potentially non-existent game claiming to be Metacritic's highest-rated title, which severely undermines its credibility."
+quality_note: >-
+  While the article demonstrates good gaming content structure and tone, it
+  appears to contain fabricated information about a potentially non-existent
+  game claiming to be Metacritic's highest-rated title, which severely
+  undermines its credibility.
+image_alt: >-
+  Futuristic explorer standing atop a glowing surreal summit under cinematic
+  light
 ---
 
 Clair Obscur Expedition 33 has taken the gaming world by storm, achieving unprecedented acclaim and securing the top spot as Metacritic's highest-rated game of all time. This remarkable achievement has set new standards for excellence in video game development and captured the attention of gamers and critics alike.
