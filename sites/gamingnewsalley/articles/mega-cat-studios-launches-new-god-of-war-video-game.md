@@ -1,25 +1,35 @@
 ---
-title: "Mega Cat Studios Launches New God of War Video Game"
-description: "Mega Cat Studios is developing \"God of War: Sons of Sparta,\" a new installment in the acclaimed franchise that promises an engaging storyline blending ancient mythologies with new narratives, innovative gameplay mechanics, and stunning visual and audio enhancements."
-type: "standard"
-status: "review"
-publishDate: "2026-03-09T09:37:22+00:00"
-author: "Taylor Winters"
+title: Mega Cat Studios Launches New God of War Video Game
+description: >-
+  Mega Cat Studios is developing "God of War: Sons of Sparta," a new installment
+  in the acclaimed franchise that promises an engaging storyline blending
+  ancient mythologies with new narratives, innovative gameplay mechanics, and
+  stunning visual and audio enhancements.
+type: standard
+status: review
+publishDate: '2026-03-09T09:37:22+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Cory Barlog"
-slug: "mega-cat-studios-launches-new-god-of-war-video-game"
+  - Gaming News
+  - Cory Barlog
+slug: mega-cat-studios-launches-new-god-of-war-video-game
 reading_time: 3
-source_url: "https://gamingnewsalley.com/mega-cat-studios-launches-new-god-of-war-video-game/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/mega-cat-studios-launches-new-god-of-war-video-game/
+imported_from: wordpress
 wp_original_id: 42624
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/mega-cat-studios-launches-new-god-of-war-video-game.webp
 seo:
-  canonical: "https://gamingnewsalley.com/mega-cat-studios-launches-new-god-of-war-video-game/"
-  og_title: "Mega Cat Studios Launches New God of War Video Game - Gaming News Alley"
-  og_description: "The gaming world awaits \"God of War: Sons of Sparta,\" promising an engaging storyline and innovative gameplay. Mega Cat Studios brings fresh perspectives, blending ancient mythologies with new narratives, enhancing combat systems, and delivering stunning visual and auditory experiences."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/03/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/mega-cat-studios-launches-new-god-of-war-video-game/
+  og_title: Mega Cat Studios Launches New God of War Video Game - Gaming News Alley
+  og_description: >-
+    The gaming world awaits "God of War: Sons of Sparta," promising an engaging
+    storyline and innovative gameplay. Mega Cat Studios brings fresh
+    perspectives, blending ancient mythologies with new narratives, enhancing
+    combat systems, and delivering stunning visual and auditory experiences.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/03/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "While the article matches gaming topics well and has good tone, it contains major factual inaccuracies about God of War development and is significantly under target word count."
+quality_note: >-
+  While the article matches gaming topics well and has good tone, it contains
+  major factual inaccuracies about God of War development and is significantly
+  under target word count.
+image_alt: >-
+  Spartan-inspired warrior silhouette overlooks stormy ancient ruins under a
+  dramatic mythic sky
 ---
 
 The gaming world eagerly anticipates the next chapter in the acclaimed "God of War" series, as Mega Cat Studios gears up for the release of "God of War: Sons of Sparta". This highly anticipated installment promises to expand the epic saga with an engaging storyline and innovative gameplay features that have captivated fans across the globe.
