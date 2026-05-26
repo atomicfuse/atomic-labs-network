@@ -1,24 +1,34 @@
 ---
-title: "Miracle Surgery Saves Child Born with Heart Outside Chest"
-description: "A young girl born with ectopia cordis, a rare condition where the heart develops outside the chest cavity, has become a symbol of hope after surviving a groundbreaking surgical intervention that redefined the standards of pediatric care."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:11:16+00:00"
-author: "Nico Harper"
+title: Miracle Surgery Saves Child Born with Heart Outside Chest
+description: >-
+  A young girl born with ectopia cordis, a rare condition where the heart
+  develops outside the chest cavity, has become a symbol of hope after surviving
+  a groundbreaking surgical intervention that redefined the standards of
+  pediatric care.
+type: standard
+status: review
+publishDate: '2025-05-05T16:11:16+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "miracle-surgery-saves-child-born-with-heart-outside-chest"
+  - Good Vibes
+slug: miracle-surgery-saves-child-born-with-heart-outside-chest
 reading_time: 3
-source_url: "https://gigsfreaks.com/miracle-surgery-saves-child-born-with-heart-outside-chest/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/miracle-surgery-saves-child-born-with-heart-outside-chest/
+imported_from: wordpress
 wp_original_id: 865
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/miracle-surgery-saves-child-born-with-heart-outside-chest.webp
 seo:
-  canonical: "https://gigsfreaks.com/miracle-surgery-saves-child-born-with-heart-outside-chest/"
-  og_title: "Miracle Surgery Saves Child Born with Heart Outside Chest - GigsFreaks"
-  og_description: "A young girl with a rare congenital condition has become a symbol of hope and innovation in medicine after surviving a groundbreaking surgical intervention. Her story highlights the power of medical advancements and inspires families worldwide facing similar challenges."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-89.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/miracle-surgery-saves-child-born-with-heart-outside-chest/
+  og_title: Miracle Surgery Saves Child Born with Heart Outside Chest - GigsFreaks
+  og_description: >-
+    A young girl with a rare congenital condition has become a symbol of hope
+    and innovation in medicine after surviving a groundbreaking surgical
+    intervention. Her story highlights the power of medical advancements and
+    inspires families worldwide facing similar challenges.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-89.jpeg'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,11 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 90
   keyword_relevance: 35
-quality_note: "While medically accurate and well-written, this serious medical article doesn't align with gigsfreaks' entertainment-focused audience and conversational tone expectations."
+quality_note: >-
+  While medically accurate and well-written, this serious medical article
+  doesn't align with gigsfreaks' entertainment-focused audience and
+  conversational tone expectations.
+image_alt: A child’s hand held gently in a softly lit pediatric hospital room
 ---
 
 A remarkable medical achievement has captured global attention, shedding light on the resilience of the human spirit and the advancements in pediatric surgery. A young girl, once facing insurmountable odds due to a rare congenital condition, has become a symbol of hope and innovation in medicine. Her journey began with a life-threatening anomaly that required groundbreaking surgical intervention, leading her to defy expectations and inspire many around the world.
