@@ -1,24 +1,37 @@
 ---
-title: "Top Holiday Beauty Trends: Trust, Culture, and TikTok Shop"
-description: "As the holiday shopping season arrives, beauty brands focus on trends like TikTok's influence, trust, sustainability, and data-driven strategies to enhance consumer engagement and sales, ensuring they remain competitive and appealing to evolving customer preferences."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T10:29:30+00:00"
-author: "Taylor Winters"
+title: 'Top Holiday Beauty Trends: Trust, Culture, and TikTok Shop'
+description: >-
+  As the holiday shopping season arrives, beauty brands focus on trends like
+  TikTok's influence, trust, sustainability, and data-driven strategies to
+  enhance consumer engagement and sales, ensuring they remain competitive and
+  appealing to evolving customer preferences.
+type: standard
+status: published
+publishDate: '2025-12-08T10:29:30+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-slug: "top-holiday-beauty-trends-trust-culture-and-tiktok-shop"
+  - Beauty
+slug: top-holiday-beauty-trends-trust-culture-and-tiktok-shop
 reading_time: 3
-source_url: "https://fashionnewsbee.com/top-holiday-beauty-trends-trust-culture-and-tiktok-shop/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/top-holiday-beauty-trends-trust-culture-and-tiktok-shop/
+imported_from: wordpress
 wp_original_id: 31600
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-holiday-beauty-trends-trust-culture-and-tiktok-shop.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-holiday-beauty-trends-trust-culture-and-tiktok-shop/"
-  og_title: "Top Holiday Beauty Trends: Trust, Culture, and TikTok Shop - Fashion News Bee"
-  og_description: "As the holiday shopping season arrives, beauty brands focus on trends like TikTok's influence, trust, sustainability, and data-driven strategies to enhance consumer engagement and sales, ensuring they remain competitive and appealing to evolving customer preferences."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/12/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/top-holiday-beauty-trends-trust-culture-and-tiktok-shop/
+  og_title: >-
+    Top Holiday Beauty Trends: Trust, Culture, and TikTok Shop - Fashion News
+    Bee
+  og_description: >-
+    As the holiday shopping season arrives, beauty brands focus on trends like
+    TikTok's influence, trust, sustainability, and data-driven strategies to
+    enhance consumer engagement and sales, ensuring they remain competitive and
+    appealing to evolving customer preferences.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/12/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: Holiday beauty products beside a smartphone suggesting social shopping trends
 ---
 
 The holiday shopping season is upon us, and beauty brands are keenly observing emerging trends that will define consumer behavior this year. As shoppers navigate both in-store and online environments, several key trends have surfaced, indicating a shift in how beauty products are marketed and purchased. From the influence of social media platforms like TikTok to the importance of trust in brand interactions, these elements will play a pivotal role in shaping the beauty industry's holiday sales strategy.
