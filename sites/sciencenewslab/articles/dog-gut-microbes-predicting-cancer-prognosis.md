@@ -1,22 +1,26 @@
 ---
-title: "Dog Gut Microbes: Predicting Cancer Prognosis"
-description: "Recent research reveals connections between the gut microbiome of dogs and cancer prognosis, potentially leading to new diagnostic tools and treatment options. Understanding these microbial correlations enriches canine health knowledge and provides insights into broader human medical conditions."
-type: "standard"
-status: "review"
-publishDate: "2026-03-02T12:49:30"
-author: "Taylor Winters"
+title: 'Dog Gut Microbes: Predicting Cancer Prognosis'
+description: >-
+  Recent research reveals connections between the gut microbiome of dogs and
+  cancer prognosis, potentially leading to new diagnostic tools and treatment
+  options. Understanding these microbial correlations enriches canine health
+  knowledge and provides insights into broader human medical conditions.
+type: standard
+status: review
+publishDate: '2026-03-02T12:49:30'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "dog-gut-microbes-predicting-cancer-prognosis"
+  - Space
+  - Humans
+slug: dog-gut-microbes-predicting-cancer-prognosis
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/dog-gut-microbes-predicting-cancer-prognosis/"
-imported_from: "wordpress"
+source_url: 'https://www.sciencenewslab.com/dog-gut-microbes-predicting-cancer-prognosis/'
+imported_from: wordpress
 wp_original_id: 15079
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/dog-gut-microbes-predicting-cancer-prognosis.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/dog-gut-microbes-predicting-cancer-prognosis/"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.sciencenewslab.com/dog-gut-microbes-predicting-cancer-prognosis/'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -24,7 +28,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 25
-quality_note: "Well-written article with appropriate tone and good factual content, but falls short on length and severely misses the site's focus on Space, Nature, Physics, Technology, and Environment keywords."
+quality_note: >-
+  Well-written article with appropriate tone and good factual content, but falls
+  short on length and severely misses the site's focus on Space, Nature,
+  Physics, Technology, and Environment keywords.
+image_alt: >-
+  Calm dog in a modern veterinary lab with subtle abstract microbiome patterns
+  around it
 ---
 
 Recent research has uncovered fascinating connections between the gut microbiome of dogs and their cancer prognosis. This exciting development in veterinary science could lead to new diagnostic tools and treatment options for canine cancer, which remains one of the leading health concerns for dogs worldwide. Understanding these microbial correlations not only deepens our knowledge of canine health but also provides insights into broader animal and even human medical conditions.
