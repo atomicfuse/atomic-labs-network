@@ -1,28 +1,35 @@
 ---
-title: "Why I Decided to Sell My Top Stock: Insights and Lessons"
-description: "Discover the reasons behind selling a top-performing stock and the valuable lessons learned from this investment decision, including portfolio realignment, performance outlook, and the importance of staying informed."
-type: "standard"
-status: "review"
-publishDate: "2026-02-12T10:45:25+00:00"
-author: "Tony Anderson"
+title: 'Why I Decided to Sell My Top Stock: Insights and Lessons'
+description: >-
+  Discover the reasons behind selling a top-performing stock and the valuable
+  lessons learned from this investment decision, including portfolio
+  realignment, performance outlook, and the importance of staying informed.
+type: standard
+status: review
+publishDate: '2026-02-12T10:45:25+00:00'
+author: Tony Anderson
 tags:
-  - "Saving Tips"
-  - "Personal Finance"
-slug: "why-i-decided-to-sell-my-top-stock-insights-and-lessons"
+  - Saving Tips
+  - Personal Finance
+slug: why-i-decided-to-sell-my-top-stock-insights-and-lessons
 reading_time: 2
-source_url: "https://giant-savings.co/why-i-decided-to-sell-my-top-stock-insights-and-lessons/"
-imported_from: "wordpress"
+source_url: >-
+  https://giant-savings.co/why-i-decided-to-sell-my-top-stock-insights-and-lessons/
+imported_from: wordpress
 wp_original_id: 417
-featuredImage: "/assets/images/giantsavings-general-article.webp"
+featuredImage: /assets/images/why-i-decided-to-sell-my-top-stock-insights-and-lessons.webp
 seo:
-  canonical: "https://giant-savings.co/why-i-decided-to-sell-my-top-stock-insights-and-lessons/"
-  og_title: "Why I Decided to Sell My Top Stock: Insights and Lessons - Giant Savings"
-  og_description: "Discover the reasons behind selling my top stock and the valuable lessons learned from this investment decision."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://giant-savings.co/why-i-decided-to-sell-my-top-stock-insights-and-lessons/
+  og_title: 'Why I Decided to Sell My Top Stock: Insights and Lessons - Giant Savings'
+  og_description: >-
+    Discover the reasons behind selling my top stock and the valuable lessons
+    learned from this investment decision.
+  twitter_card: summary_large_image
 videos:
-  - id: "5d7a57a3"
-    url: "https://www.youtube.com/watch?v=Nyro0c39u_8"
-    position: "after-paragraph-2"
+  - id: 5d7a57a3
+    url: 'https://www.youtube.com/watch?v=Nyro0c39u_8'
+    position: after-paragraph-2
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -30,7 +37,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article is well-written but severely mismatched to the site's focus on personal finance savings and budgeting, covering stock investing instead of the target topics like grocery savings and utility bills."
+quality_note: >-
+  The article is well-written but severely mismatched to the site's focus on
+  personal finance savings and budgeting, covering stock investing instead of
+  the target topics like grocery savings and utility bills.
+image_alt: >-
+  A modern desk with investment tools suggesting portfolio review and strategic
+  financial decision-making.
 ---
 
 In the ever-changing world of stock market investing, making the right decisions can be both thrilling and challenging. As an investor, there comes a time when you need to evaluate your portfolio and make tough choices. Recently, I made the decision to sell my #1 stock, a move that was not taken lightly but was necessary for various reasons.
