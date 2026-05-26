@@ -1,25 +1,39 @@
 ---
-title: "Isak’s Groin Injury Compounds Challenging Liverpool Debut Season"
-description: "Liverpool FC faces significant challenges with player injuries during the 2023 season, affecting team performance and testing squad depth. Strategic adjustments and management efforts are crucial in overcoming these setbacks and ensuring long-term resilience and success."
-type: "standard"
-status: "review"
-publishDate: "2025-10-23T08:41:27+00:00"
-author: "Taylor Winters"
+title: Isak’s Groin Injury Compounds Challenging Liverpool Debut Season
+description: >-
+  Liverpool FC faces significant challenges with player injuries during the 2023
+  season, affecting team performance and testing squad depth. Strategic
+  adjustments and management efforts are crucial in overcoming these setbacks
+  and ensuring long-term resilience and success.
+type: standard
+status: review
+publishDate: '2025-10-23T08:41:27+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andrew Robertson"
-slug: "isaks-groin-injury-compounds-challenging-liverpool-debut-season"
+  - Latest News
+  - Andrew Robertson
+slug: isaks-groin-injury-compounds-challenging-liverpool-debut-season
 reading_time: 3
-source_url: "https://soccernewsreports.com/isaks-groin-injury-compounds-challenging-liverpool-debut-season/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/isaks-groin-injury-compounds-challenging-liverpool-debut-season/
+imported_from: wordpress
 wp_original_id: 37912
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/isaks-groin-injury-compounds-challenging-liverpool-debut-season.webp
 seo:
-  canonical: "https://soccernewsreports.com/isaks-groin-injury-compounds-challenging-liverpool-debut-season/"
-  og_title: "Isak's Groin Injury Compounds Challenging Liverpool Debut Season - Soccer News Reports"
-  og_description: "Liverpool FC faces significant challenges with player injuries during the 2023 season, affecting team performance and testing squad depth. Strategic adjustments and management efforts are crucial in overcoming these setbacks and ensuring long-term resilience and success."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/10/make_cNDQ2NjEyMWItNmU4Ny00YjBkMTVkMzctMDBjZS00.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/isaks-groin-injury-compounds-challenging-liverpool-debut-season/
+  og_title: >-
+    Isak's Groin Injury Compounds Challenging Liverpool Debut Season - Soccer
+    News Reports
+  og_description: >-
+    Liverpool FC faces significant challenges with player injuries during the
+    2023 season, affecting team performance and testing squad depth. Strategic
+    adjustments and management efforts are crucial in overcoming these setbacks
+    and ensuring long-term resilience and success.
+  og_image: >-
+    https://soccernewsreports.com/wp-content/uploads/2025/10/make_cNDQ2NjEyMWItNmU4Ny00YjBkMTVkMzctMDBjZS00.jpeg
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 40
-quality_note: "Article has major issues with misleading title about Isak's injury when content is generic about Liverpool's injury concerns, lacks specific details, and fails to deliver on SEO optimization."
+quality_note: >-
+  Article has major issues with misleading title about Isak's injury when
+  content is generic about Liverpool's injury concerns, lacks specific details,
+  and fails to deliver on SEO optimization.
+image_alt: >-
+  Footballer in a red kit stands injured under stadium lights as teammates train
+  in the background.
 ---
 
 The world of soccer is no stranger to the challenges of maintaining player health amidst a demanding schedule. Teams like Liverpool FC often face hurdles when injuries strike key players. Such setbacks not only impact team performance but also test the depth and resilience of a squad.
