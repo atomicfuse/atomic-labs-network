@@ -1,24 +1,32 @@
 ---
-title: "Audi Revolut F1 Team R26 Race Car Review"
-description: "The Audi Revolut F1 Team R26 from LEGO Technic offers a thrilling building experience with features like a working suspension and detailed engine. This model captures the essence of a real F1 car, appealing to enthusiasts and collectors."
-type: "standard"
-status: "review"
-publishDate: "2026-02-16T09:23:33+00:00"
-author: "Taylor Winters"
+title: Audi Revolut F1 Team R26 Race Car Review
+description: >-
+  The Audi Revolut F1 Team R26 from LEGO Technic offers a thrilling building
+  experience with features like a working suspension and detailed engine. This
+  model captures the essence of a real F1 car, appealing to enthusiasts and
+  collectors.
+type: standard
+status: review
+publishDate: '2026-02-16T09:23:33+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "audi-revolut-f1-team-r26-race-car-review"
+  - Reviews
+slug: audi-revolut-f1-team-r26-race-car-review
 reading_time: 3
-source_url: "https://carsnewsmag.com/audi-revolut-f1-team-r26-race-car-review/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/audi-revolut-f1-team-r26-race-car-review/'
+imported_from: wordpress
 wp_original_id: 38566
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/audi-revolut-f1-team-r26-race-car-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/audi-revolut-f1-team-r26-race-car-review/"
-  og_title: "Audi Revolut F1 Team R26 Race Car Review - Cars News Magazine"
-  og_description: "The Audi Revolut F1 Team R26 from LEGO Technic offers a thrilling building experience with features like a working suspension and detailed engine. This model captures the essence of a real F1 car, appealing to enthusiasts and collectors."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/audi-revolut-f1-team-r26-race-car-review/'
+  og_title: Audi Revolut F1 Team R26 Race Car Review - Cars News Magazine
+  og_description: >-
+    The Audi Revolut F1 Team R26 from LEGO Technic offers a thrilling building
+    experience with features like a working suspension and detailed engine. This
+    model captures the essence of a real F1 car, appealing to enthusiasts and
+    collectors.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 59
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "While the article maintains an engaging tone and covers automotive content, it appears to contain significant factual inaccuracies about a non-existent Audi F1 team and is too short for optimal content guidelines."
+quality_note: >-
+  While the article maintains an engaging tone and covers automotive content, it
+  appears to contain significant factual inaccuracies about a non-existent Audi
+  F1 team and is too short for optimal content guidelines.
+image_alt: >-
+  Unbranded LEGO-style Formula 1 model on a workbench with detailed suspension
+  and engine parts
 ---
 
 The world of motorsports is about to witness a fascinating addition with the introduction of the Audi Revolut F1 Team R26 race car model. This latest set from LEGO Technic promises not only a thrilling building experience but also a remarkable piece for both car enthusiasts and collectors alike. Let's delve into the features of this intricate model that brings the excitement of Formula 1 racing into your own home.
