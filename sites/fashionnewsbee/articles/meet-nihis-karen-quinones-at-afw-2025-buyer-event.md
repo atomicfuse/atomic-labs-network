@@ -1,24 +1,35 @@
 ---
-title: "Meet Nihi’s Karen Quinones at AFW 2025 Buyer Event"
-description: "Australian Fashion Week (AFW) is a vital platform connecting designers and buyers globally, with AFW 2025 set to spotlight influential figures like Karen Quinones alongside emerging designers and trends such as sustainable fashion."
-type: "standard"
-status: "published"
-publishDate: "2025-05-12T05:39:23+00:00"
-author: "Taylor Winters"
+title: Meet Nihi’s Karen Quinones at AFW 2025 Buyer Event
+description: >-
+  Australian Fashion Week (AFW) is a vital platform connecting designers and
+  buyers globally, with AFW 2025 set to spotlight influential figures like Karen
+  Quinones alongside emerging designers and trends such as sustainable fashion.
+type: standard
+status: published
+publishDate: '2025-05-12T05:39:23+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "meet-nihis-karen-quinones-at-afw-2025-buyer-event"
+  - Fashion
+slug: meet-nihis-karen-quinones-at-afw-2025-buyer-event
 reading_time: 4
-source_url: "https://fashionnewsbee.com/meet-nihis-karen-quinones-at-afw-2025-buyer-event/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/meet-nihis-karen-quinones-at-afw-2025-buyer-event/'
+imported_from: wordpress
 wp_original_id: 31514
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/meet-nihis-karen-quinones-at-afw-2025-buyer-event.webp
 seo:
-  canonical: "https://fashionnewsbee.com/meet-nihis-karen-quinones-at-afw-2025-buyer-event/"
-  og_title: "Meet Nihi's Karen Quinones at AFW 2025 Buyer Event - Fashion News Bee"
-  og_description: "Australian Fashion Week is a vital component of the fashion industry, showcasing emerging and established designers. AFW 2025 will highlight trends like sustainability, offering a platform for innovation and global connections, shaping future fashion directions."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/meet-nihis-karen-quinones-at-afw-2025-buyer-event/
+  og_title: Meet Nihi's Karen Quinones at AFW 2025 Buyer Event - Fashion News Bee
+  og_description: >-
+    Australian Fashion Week is a vital component of the fashion industry,
+    showcasing emerging and established designers. AFW 2025 will highlight
+    trends like sustainability, offering a platform for innovation and global
+    connections, shaping future fashion directions.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Fashion buyer reviews sustainable garments in a polished showroom during a
+  fashion week event
 ---
 
 In the dynamic world of fashion, Australian Fashion Week (AFW) has emerged as a significant platform for designers and buyers alike. This event not only highlights the burgeoning talent within Australia but also serves as a critical meeting point for industry professionals worldwide. With AFW 2025 on the horizon, many are keen to see how this annual event continues to shape fashion trends and business opportunities.
