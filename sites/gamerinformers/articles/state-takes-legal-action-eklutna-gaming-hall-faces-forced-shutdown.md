@@ -1,27 +1,42 @@
 ---
-title: "State Takes Legal Action: Eklutna Gaming Hall Faces Forced Shutdown"
-description: "The Alaskan government has initiated legal proceedings to halt the operations of Eklutna Gaming Hall, claiming it violates state and federal gaming laws. The case centers on the interpretation of the Indian Gaming Regulatory Act and its applicability in Alaska, and could have significant implications for tribal gaming operations across the state."
-type: "standard"
-status: "review"
-publishDate: "2025-04-10T06:01:45+00:00"
-author: "Taylor Winters"
+title: 'State Takes Legal Action: Eklutna Gaming Hall Faces Forced Shutdown'
+description: >-
+  The Alaskan government has initiated legal proceedings to halt the operations
+  of Eklutna Gaming Hall, claiming it violates state and federal gaming laws.
+  The case centers on the interpretation of the Indian Gaming Regulatory Act and
+  its applicability in Alaska, and could have significant implications for
+  tribal gaming operations across the state.
+type: standard
+status: review
+publishDate: '2025-04-10T06:01:45+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Compile Heart"
-  - "Crash Bandicoot"
-  - "Crazy Justice"
-slug: "state-takes-legal-action-eklutna-gaming-hall-faces-forced-shutdown"
+  - Gaming News
+  - Compile Heart
+  - Crash Bandicoot
+  - Crazy Justice
+slug: state-takes-legal-action-eklutna-gaming-hall-faces-forced-shutdown
 reading_time: 3
-source_url: "https://gamerinformers.com/state-takes-legal-action-eklutna-gaming-hall-faces-forced-shutdown/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/state-takes-legal-action-eklutna-gaming-hall-faces-forced-shutdown/
+imported_from: wordpress
 wp_original_id: 33981
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/state-takes-legal-action-eklutna-gaming-hall-faces-forced-shutdown.webp
 seo:
-  canonical: "https://gamerinformers.com/state-takes-legal-action-eklutna-gaming-hall-faces-forced-shutdown/"
-  og_title: "State Takes Legal Action: Eklutna Gaming Hall Faces Forced Shutdown - Gamer Informers"
-  og_description: "The Alaskan government has initiated legal proceedings to halt the operations of Eklutna Gaming Hall, claiming it violates state and federal gaming laws. The case centers on the interpretation of the Indian Gaming Regulatory Act and its applicability in Alaska, and could have significant implications for tribal gaming operations across the state."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/state-takes-legal-action-eklutna-gaming-hall-faces-forced-shutdown/
+  og_title: >-
+    State Takes Legal Action: Eklutna Gaming Hall Faces Forced Shutdown - Gamer
+    Informers
+  og_description: >-
+    The Alaskan government has initiated legal proceedings to halt the
+    operations of Eklutna Gaming Hall, claiming it violates state and federal
+    gaming laws. The case centers on the interpretation of the Indian Gaming
+    Regulatory Act and its applicability in Alaska, and could have significant
+    implications for tribal gaming operations across the state.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 25
@@ -29,7 +44,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This article about tribal gaming law in Alaska is completely off-topic for a video gaming site focused on PC/console games, reviews, and gaming news for enthusiasts."
+quality_note: >-
+  This article about tribal gaming law in Alaska is completely off-topic for a
+  video gaming site focused on PC/console games, reviews, and gaming news for
+  enthusiasts.
+image_alt: Snowy Alaskan gaming hall entrance cordoned off at dusk under moody blue light
 ---
 
 The Alaskan government has initiated legal proceedings with an aim to halt the operations of Eklutna Gaming Hall. The state authorities have filed an injunction against the casino, citing that it is operating in violation of state and federal gaming laws.
