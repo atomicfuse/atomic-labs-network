@@ -1,24 +1,35 @@
 ---
-title: "Empowering Climate Narratives: Shifting from Fear to Action"
-description: "Climate storytelling empowers communities by shifting narratives from fear to action, inspiring meaningful change against climate challenges. By integrating stories into education and policy, storytellers can bridge gaps between data and action, fostering empathy, agency, and sustainable solutions."
-type: "standard"
-status: "review"
-publishDate: "2026-03-23T10:39:25+00:00"
-author: "Lena Ashwood"
+title: 'Empowering Climate Narratives: Shifting from Fear to Action'
+description: >-
+  Climate storytelling empowers communities by shifting narratives from fear to
+  action, inspiring meaningful change against climate challenges. By integrating
+  stories into education and policy, storytellers can bridge gaps between data
+  and action, fostering empathy, agency, and sustainable solutions.
+type: standard
+status: review
+publishDate: '2026-03-23T10:39:25+00:00'
+author: Lena Ashwood
 tags:
-  - "Ideas"
-slug: "empowering-climate-narratives-shifting-from-fear-to-action"
+  - Ideas
+slug: empowering-climate-narratives-shifting-from-fear-to-action
 reading_time: 3
-source_url: "https://mindsbit.com/empowering-climate-narratives-shifting-from-fear-to-action/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/empowering-climate-narratives-shifting-from-fear-to-action/
+imported_from: wordpress
 wp_original_id: 484
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/empowering-climate-narratives-shifting-from-fear-to-action.webp
 seo:
-  canonical: "https://mindsbit.com/empowering-climate-narratives-shifting-from-fear-to-action/"
-  og_title: "Empowering Climate Narratives: Shifting from Fear to Action - Minds bit"
-  og_description: "Climate storytelling empowers communities by shifting narratives from fear to action, inspiring meaningful change against climate challenges. By integrating stories into education and policy, storytellers can bridge gaps between data and action, fostering empathy, agency, and sustainable solutions."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/empowering-climate-narratives-shifting-from-fear-to-action/
+  og_title: 'Empowering Climate Narratives: Shifting from Fear to Action - Minds bit'
+  og_description: >-
+    Climate storytelling empowers communities by shifting narratives from fear
+    to action, inspiring meaningful change against climate challenges. By
+    integrating stories into education and policy, storytellers can bridge gaps
+    between data and action, fostering empathy, agency, and sustainable
+    solutions.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 25
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "While well-written with good tone, the article falls short on SEO optimization, length requirements, and alignment with the site's technology focus, covering climate storytelling instead of core tech topics."
+quality_note: >-
+  While well-written with good tone, the article falls short on SEO
+  optimization, length requirements, and alignment with the site's technology
+  focus, covering climate storytelling instead of core tech topics.
+image_alt: >-
+  Community members collaborate in a sunlit green space, symbolizing hopeful
+  climate action.
 ---
 
 Climate storytelling has emerged as a powerful tool to engage the public and influence policy decisions. By shifting the narrative from fear to agency, storytellers can inspire communities and policymakers to take meaningful action against climate change. Understanding the impact of storytelling on climate action and how it can be effectively utilized is essential for creating a sustainable future.
