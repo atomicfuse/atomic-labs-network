@@ -22,7 +22,7 @@ source_url: >-
   https://www.womenshealthmag.com/uk/fitness/strength-training/a71360368/simone-ashley-strength-conditioning-routine/
 source_item_id: 6a13fc9e16f23264031d7b77
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/simone-ashley-full-body-training-routine-8-moves.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   words vs 800-1200 target) and contains potentially fabricated celebrity
   details that could impact credibility.
 reading_time: 3
+image_alt: >-
+  Athletic woman in a sleek studio performing a strong lunge beside modern gym
+  and Pilates equipment
 ---
 ## A Red-Carpet Ready Approach to Fitness
 
