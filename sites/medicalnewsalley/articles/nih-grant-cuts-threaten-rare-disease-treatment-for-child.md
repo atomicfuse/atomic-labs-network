@@ -1,26 +1,38 @@
 ---
-title: "NIH Grant Cuts Threaten Rare Disease Treatment for Child"
-description: "The NIH's funding shift may hinder rare disease research, sparking concern among families and researchers. Advocacy groups stress the importance of continued support to prevent setbacks in developing treatments for conditions affecting a small but significant population segment."
-type: "standard"
-status: "published"
-publishDate: "2025-05-29T04:17:27+00:00"
-author: "Taylor Winters"
+title: NIH Grant Cuts Threaten Rare Disease Treatment for Child
+description: >-
+  The NIH's funding shift may hinder rare disease research, sparking concern
+  among families and researchers. Advocacy groups stress the importance of
+  continued support to prevent setbacks in developing treatments for conditions
+  affecting a small but significant population segment.
+type: standard
+status: published
+publishDate: '2025-05-29T04:17:27+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Clinical Trials &amp; Research"
-  - "News"
-slug: "nih-grant-cuts-threaten-rare-disease-treatment-for-child"
+  - Health News
+  - Clinical Trials &amp; Research
+  - News
+slug: nih-grant-cuts-threaten-rare-disease-treatment-for-child
 reading_time: 3
-source_url: "https://medicalnewsalley.com/nih-grant-cuts-threaten-rare-disease-treatment-for-child/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/nih-grant-cuts-threaten-rare-disease-treatment-for-child/
+imported_from: wordpress
 wp_original_id: 32450
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/nih-grant-cuts-threaten-rare-disease-treatment-for-child.webp
 seo:
-  canonical: "https://medicalnewsalley.com/nih-grant-cuts-threaten-rare-disease-treatment-for-child/"
-  og_title: "NIH Grant Cuts Threaten Rare Disease Treatment for Child - Medical News Alley"
-  og_description: "The NIH's funding shift may hinder rare disease research, sparking concern among families and researchers. Advocacy groups stress the importance of continued support to prevent setbacks in developing treatments for conditions affecting a small but significant population segment."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/05/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/nih-grant-cuts-threaten-rare-disease-treatment-for-child/
+  og_title: >-
+    NIH Grant Cuts Threaten Rare Disease Treatment for Child - Medical News
+    Alley
+  og_description: >-
+    The NIH's funding shift may hinder rare disease research, sparking concern
+    among families and researchers. Advocacy groups stress the importance of
+    continued support to prevent setbacks in developing treatments for
+    conditions affecting a small but significant population segment.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/05/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with strong keyword relevance and appropriate tone, but falls short on word count and lacks specific citations to support claims about NIH funding changes."
+quality_note: >-
+  Well-written article with strong keyword relevance and appropriate tone, but
+  falls short on word count and lacks specific citations to support claims about
+  NIH funding changes.
+image_alt: >-
+  Child holding a parent's hand in a softly lit medical research setting with a
+  researcher nearby.
 ---
 
 The National Institutes of Health (NIH) has recently announced a significant change in its funding strategy, impacting research into rare diseases. This decision has left many families and researchers concerned about the future of these vital studies that aim to uncover treatments for conditions affecting only a small fraction of the population.
