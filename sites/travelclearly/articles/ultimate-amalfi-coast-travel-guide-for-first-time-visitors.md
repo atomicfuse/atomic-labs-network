@@ -1,26 +1,36 @@
 ---
-title: "Ultimate Amalfi Coast Travel Guide for First-Time Visitors"
-description: "Italy's Amalfi Coast enchants travelers with its stunning scenery and vibrant culture. From Positano's colorful cliffside houses to Ravello's cultural heritage and Capri's natural wonders, this iconic destination offers unforgettable experiences amid breathtaking beauty and rich history."
-type: "standard"
-status: "published"
-publishDate: "2025-06-12T04:19:29+00:00"
-author: "Taylor Winters"
+title: Ultimate Amalfi Coast Travel Guide for First-Time Visitors
+description: >-
+  Italy's Amalfi Coast enchants travelers with its stunning scenery and vibrant
+  culture. From Positano's colorful cliffside houses to Ravello's cultural
+  heritage and Capri's natural wonders, this iconic destination offers
+  unforgettable experiences amid breathtaking beauty and rich history.
+type: standard
+status: published
+publishDate: '2025-06-12T04:19:29+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "ultimate-amalfi-coast-travel-guide-for-first-time-visitors"
+  - Destinations
+  - Tips
+  - Travel
+slug: ultimate-amalfi-coast-travel-guide-for-first-time-visitors
 reading_time: 3
-source_url: "https://travelclearly.com/ultimate-amalfi-coast-travel-guide-for-first-time-visitors/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/ultimate-amalfi-coast-travel-guide-for-first-time-visitors/
+imported_from: wordpress
 wp_original_id: 36511
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/ultimate-amalfi-coast-travel-guide-for-first-time-visitors.webp
 seo:
-  canonical: "https://travelclearly.com/ultimate-amalfi-coast-travel-guide-for-first-time-visitors/"
-  og_title: "Ultimate Amalfi Coast Travel Guide for First-Time Visitors - Travel Clearly"
-  og_description: "Italy's Amalfi Coast enchants travelers with its stunning scenery and vibrant culture. From Positano's colorful cliffside houses to Ravello's cultural heritage and Capri's natural wonders, this iconic destination offers unforgettable experiences amid breathtaking beauty and rich history."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/06/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/ultimate-amalfi-coast-travel-guide-for-first-time-visitors/
+  og_title: Ultimate Amalfi Coast Travel Guide for First-Time Visitors - Travel Clearly
+  og_description: >-
+    Italy's Amalfi Coast enchants travelers with its stunning scenery and
+    vibrant culture. From Positano's colorful cliffside houses to Ravello's
+    cultural heritage and Capri's natural wonders, this iconic destination
+    offers unforgettable experiences amid breathtaking beauty and rich history.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2025/06/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel guide with excellent topic coverage and tone, but significantly under target word count at 470 words versus the 800-1200 range."
+quality_note: >-
+  Well-written travel guide with excellent topic coverage and tone, but
+  significantly under target word count at 470 words versus the 800-1200 range.
+image_alt: >-
+  Sunlit Mediterranean cliffside village above turquoise sea with lemon groves
+  and a travel journal
 ---
 
 Italy's Amalfi Coast, a jewel of the Mediterranean, continues to enchant travelers with its breathtaking scenery and vibrant culture. This iconic stretch of coastline offers a perfect blend of natural beauty and rich history, making it a must-visit destination for anyone seeking an unforgettable experience.
