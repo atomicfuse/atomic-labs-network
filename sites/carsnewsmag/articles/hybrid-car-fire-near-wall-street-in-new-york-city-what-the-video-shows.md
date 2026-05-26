@@ -1,29 +1,42 @@
 ---
-title: "Hybrid Car Fire Near Wall Street in New York City: What the Video Shows"
-description: "A hybrid car near Wall Street in New York City burst into flames on Tuesday night, prompting a local news update from lower Manhattan. The report highlights a dramatic vehicle fire in one of the city's busiest financial districts."
-type: "standard"
-status: "review"
-publishDate: "2026-05-21T08:21:49+00:00"
-author: "Taylor Winters"
+title: 'Hybrid Car Fire Near Wall Street in New York City: What the Video Shows'
+description: >-
+  A hybrid car near Wall Street in New York City burst into flames on Tuesday
+  night, prompting a local news update from lower Manhattan. The report
+  highlights a dramatic vehicle fire in one of the city's busiest financial
+  districts.
+type: standard
+status: review
+publishDate: '2026-05-21T08:21:49+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "News"
-  - "Videos"
-slug: "hybrid-car-fire-near-wall-street-in-new-york-city-what-the-video-shows"
+  - Electric Cars
+  - News
+  - Videos
+slug: hybrid-car-fire-near-wall-street-in-new-york-city-what-the-video-shows
 reading_time: 4
-source_url: "https://carsnewsmag.com/hybrid-car-fire-near-wall-street-in-new-york-city-what-the-video-shows/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/hybrid-car-fire-near-wall-street-in-new-york-city-what-the-video-shows/
+imported_from: wordpress
 wp_original_id: 38619
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/hybrid-car-fire-near-wall-street-in-new-york-city-what-the-video-shows.webp
 seo:
-  canonical: "https://carsnewsmag.com/hybrid-car-fire-near-wall-street-in-new-york-city-what-the-video-shows/"
-  og_title: "Hybrid Car Fire Near Wall Street in New York City: What the Video Shows - Cars News Magazine"
-  og_description: "A hybrid car near Wall Street in New York City burst into flames on Tuesday night, prompting a local news update from lower Manhattan. The report highlights a dramatic vehicle fire in one of the city’s busiest financial districts."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/hybrid-car-fire-near-wall-street-in-new-york-city-what-the-video-shows/
+  og_title: >-
+    Hybrid Car Fire Near Wall Street in New York City: What the Video Shows -
+    Cars News Magazine
+  og_description: >-
+    A hybrid car near Wall Street in New York City burst into flames on Tuesday
+    night, prompting a local news update from lower Manhattan. The report
+    highlights a dramatic vehicle fire in one of the city’s busiest financial
+    districts.
+  twitter_card: summary_large_image
 videos:
-  - id: "accc7fe2"
-    url: "https://www.youtube.com/watch?v=y_aQqRolj-Q"
-    position: "after-paragraph-2"
+  - id: accc7fe2
+    url: 'https://www.youtube.com/watch?v=y_aQqRolj-Q'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 45
@@ -31,7 +44,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "The article covers relevant automotive news but lacks compelling SEO optimization, relies heavily on limited source material without verification, and could benefit from stronger headlines and meta descriptions."
+quality_note: >-
+  The article covers relevant automotive news but lacks compelling SEO
+  optimization, relies heavily on limited source material without verification,
+  and could benefit from stronger headlines and meta descriptions.
+image_alt: >-
+  Nighttime vehicle fire on a lower Manhattan street with emergency responders
+  nearby
 ---
 
 A hybrid car near Wall Street in New York City burst into flames on Tuesday night, according to a video report from CBS Evening News. The incident took place in lower Manhattan, an area known for heavy foot traffic, busy streets, and its connection to the city's financial center.
