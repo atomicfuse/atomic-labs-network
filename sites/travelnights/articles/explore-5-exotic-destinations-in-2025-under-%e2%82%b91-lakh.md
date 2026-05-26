@@ -1,25 +1,36 @@
 ---
-title: "Explore 5 Exotic Destinations in 2025 Under ₹1 Lakh"
-description: "Traveling internationally on a budget is possible with strategic planning. Discover how to explore five exotic destinations in 2025 for under ₹1 lakh by leveraging smart booking tactics, affordable accommodations, and local experiences."
-type: "standard"
-status: "review"
-publishDate: "2025-11-30T15:08:36+00:00"
-author: "Malcolm Anderson"
+title: Explore 5 Exotic Destinations in 2025 Under ₹1 Lakh
+description: >-
+  Traveling internationally on a budget is possible with strategic planning.
+  Discover how to explore five exotic destinations in 2025 for under ₹1 lakh by
+  leveraging smart booking tactics, affordable accommodations, and local
+  experiences.
+type: standard
+status: review
+publishDate: '2025-11-30T15:08:36+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "explore-5-exotic-destinations-in-2025-under-%e2%82%b91-lakh"
+  - Destinations
+  - Guides &amp; Tips
+slug: explore-5-exotic-destinations-in-2025-under-%e2%82%b91-lakh
 reading_time: 3
-source_url: "https://travelnights.com/explore-5-exotic-destinations-in-2025-under-%e2%82%b91-lakh/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/explore-5-exotic-destinations-in-2025-under-%e2%82%b91-lakh/
+imported_from: wordpress
 wp_original_id: 36616
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/explore-5-exotic-destinations-in-2025-under-%e2%82%b91-lakh.webp
 seo:
-  canonical: "https://travelnights.com/explore-5-exotic-destinations-in-2025-under-₹1-lakh/"
-  og_title: "Explore 5 Exotic Destinations in 2025 Under ₹1 Lakh - Travel Nights"
-  og_description: "Traveling internationally on a budget is possible with strategic planning. Discover how to explore five exotic destinations in 2025 for under ₹1 lakh by leveraging smart booking tactics, affordable accommodations, and local experiences."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/11/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/explore-5-exotic-destinations-in-2025-under-₹1-lakh/
+  og_title: Explore 5 Exotic Destinations in 2025 Under ₹1 Lakh - Travel Nights
+  og_description: >-
+    Traveling internationally on a budget is possible with strategic planning.
+    Discover how to explore five exotic destinations in 2025 for under ₹1 lakh
+    by leveraging smart booking tactics, affordable accommodations, and local
+    experiences.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/11/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly underperforms on length (497 vs 800-1200 target) and lacks the specific exotic destinations promised in the title."
+quality_note: >-
+  Strong topic relevance and tone but significantly underperforms on length (497
+  vs 800-1200 target) and lacks the specific exotic destinations promised in the
+  title.
+image_alt: >-
+  Budget traveler planning an international trip with exotic destinations
+  reflected in a sunlit window
 ---
 
 Traveling to international destinations is a dream for many, but costs often deter potential adventurers. However, with strategic planning and smart booking tactics, you can explore stunning global locations without breaking the bank. Discover how to visit five exotic places in 2025 for under ₹1 lakh, including tips for securing the best deals on flights and accommodations.
