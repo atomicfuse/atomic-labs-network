@@ -1,28 +1,38 @@
 ---
-title: "How to Make SVG Files with Kittl for Your Cricut Machine"
-description: "Learn how to make SVG files with Kittl, import them into Cricut Design Space, and use HTV to create a custom t-shirt, including tips on customizing designs, cutting, weeding, and pressing layers."
-type: "standard"
-status: "review"
-publishDate: "2025-02-01T14:46:46+00:00"
-author: "admin"
+title: How to Make SVG Files with Kittl for Your Cricut Machine
+description: >-
+  Learn how to make SVG files with Kittl, import them into Cricut Design Space,
+  and use HTV to create a custom t-shirt, including tips on customizing designs,
+  cutting, weeding, and pressing layers.
+type: standard
+status: review
+publishDate: '2025-02-01T14:46:46+00:00'
+author: admin
 tags:
-  - "How To"
-  - "Design"
-slug: "how-to-make-svg-files-with-kittl-for-your-cricut-machine"
+  - How To
+  - Design
+slug: how-to-make-svg-files-with-kittl-for-your-cricut-machine
 reading_time: 12
-source_url: "https://decoratingtricks.com/how-to-make-svg-files-with-kittl-for-your-cricut-machine/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/how-to-make-svg-files-with-kittl-for-your-cricut-machine/
+imported_from: wordpress
 wp_original_id: 21192
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/how-to-make-svg-files-with-kittl-for-your-cricut-machine.webp
 seo:
-  canonical: "https://decoratingtricks.com/how-to-make-svg-files-with-kittl-for-your-cricut-machine/"
-  og_title: "How to Make SVG Files with Kittl for Your Cricut Machine - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. Are you ready to learn how [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/how-to-make-svg-files-with-kittl-for-your-cricut-machine/
+  og_title: How to Make SVG Files with Kittl for Your Cricut Machine - Decorating Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. Are you ready to learn how
+    [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "0c5ffea2"
-    url: "https://www.youtube.com/watch?v=UdfHh_eBORQ"
-    position: "after-paragraph-7"
+  - id: 0c5ffea2
+    url: 'https://www.youtube.com/watch?v=UdfHh_eBORQ'
+    position: after-paragraph-7
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -30,7 +40,13 @@ score_breakdown:
   content_length: 0
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written tutorial with good tone and accuracy, but severely over the target word count at 2361 words and focuses more on Cricut/SVG creation than core home decorating topics."
+quality_note: >-
+  Well-written tutorial with good tone and accuracy, but severely over the
+  target word count at 2361 words and focuses more on Cricut/SVG creation than
+  core home decorating topics.
+image_alt: >-
+  Bright craft workspace with a cutting machine, vinyl sheets, tools, and a
+  custom geometric t-shirt.
 ---
 
 Are you ready to learn how to make SVG files with Kittl? I'm going to create a simple SVG and show you how to import the design into [Cricut Design Space](https://www.thecountrychiccottage.net/cricut-design-space/), cut it out with HTV, and make a custom shirt.
