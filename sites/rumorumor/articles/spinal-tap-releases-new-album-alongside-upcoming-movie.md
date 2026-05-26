@@ -1,24 +1,31 @@
 ---
-title: "Spinal Tap Releases New Album Alongside Upcoming Movie"
-description: "Spinal Tap is returning with a new album, blending their classic sound with fresh elements. Known for their satirical rock music, the band aims to captivate both old and new fans with this highly anticipated release."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T12:33:55+00:00"
-author: "Priscilla Cruz"
+title: Spinal Tap Releases New Album Alongside Upcoming Movie
+description: >-
+  Spinal Tap is returning with a new album, blending their classic sound with
+  fresh elements. Known for their satirical rock music, the band aims to
+  captivate both old and new fans with this highly anticipated release.
+type: standard
+status: review
+publishDate: '2025-07-31T12:33:55+00:00'
+author: Priscilla Cruz
 tags:
-  - "Music"
-slug: "spinal-tap-releases-new-album-alongside-upcoming-movie"
+  - Music
+slug: spinal-tap-releases-new-album-alongside-upcoming-movie
 reading_time: 3
-source_url: "https://rumorumor.com/spinal-tap-releases-new-album-alongside-upcoming-movie/"
-imported_from: "wordpress"
+source_url: 'https://rumorumor.com/spinal-tap-releases-new-album-alongside-upcoming-movie/'
+imported_from: wordpress
 wp_original_id: 506
-featuredImage: "/assets/images/rumorumor-general-article.webp"
+featuredImage: /assets/images/spinal-tap-releases-new-album-alongside-upcoming-movie.webp
 seo:
-  canonical: "https://rumorumor.com/spinal-tap-releases-new-album-alongside-upcoming-movie/"
-  og_title: "Spinal Tap Releases New Album Alongside Upcoming Movie - Rumor Rumor"
-  og_description: "Spinal Tap is returning with a new album, blending their classic sound with fresh elements. Known for their satirical rock music, the band aims to captivate both old and new fans with this highly anticipated release."
-  og_image: "https://rumorumor.com/wp-content/uploads/2025/07/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://rumorumor.com/spinal-tap-releases-new-album-alongside-upcoming-movie/
+  og_title: Spinal Tap Releases New Album Alongside Upcoming Movie - Rumor Rumor
+  og_description: >-
+    Spinal Tap is returning with a new album, blending their classic sound with
+    fresh elements. Known for their satirical rock music, the band aims to
+    captivate both old and new fans with this highly anticipated release.
+  og_image: 'https://rumorumor.com/wp-content/uploads/2025/07/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: "Article has good music coverage and tone but suffers from poor SEO structure, inaccurate claims about Spinal Tap's real status, and falls short of target word count."
+quality_note: >-
+  Article has good music coverage and tone but suffers from poor SEO structure,
+  inaccurate claims about Spinal Tap's real status, and falls short of target
+  word count.
+image_alt: >-
+  Vintage guitars and amplifiers wait backstage in a moody rock venue before a
+  comeback performance.
 ---
 
 The legendary rock band Spinal Tap is set to make a remarkable return with a brand-new album, their first in several years. Known for their satirical take on the rock music industry, Spinal Tap has garnered a cult following since their inception. This latest project is poised to captivate both new listeners and devoted fans alike.
