@@ -1,24 +1,32 @@
 ---
-title: "Agatha Christie’s Seven Dials Premiere: Complete Recap"
-description: "Agatha Christie's \"The Seven Dials Mystery\" captivates with its suspenseful plot and intriguing characters, set amidst English aristocracy. The narrative explores themes of deception and justice, as a secretive group entangles characters in a web of intrigue."
-type: "standard"
-status: "review"
-publishDate: "2026-01-15T10:43:25+00:00"
-author: "Becca Roberts"
+title: 'Agatha Christie’s Seven Dials Premiere: Complete Recap'
+description: >-
+  Agatha Christie's "The Seven Dials Mystery" captivates with its suspenseful
+  plot and intriguing characters, set amidst English aristocracy. The narrative
+  explores themes of deception and justice, as a secretive group entangles
+  characters in a web of intrigue.
+type: standard
+status: review
+publishDate: '2026-01-15T10:43:25+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "agatha-christies-seven-dials-premiere-complete-recap"
+  - Culture Buzz
+slug: agatha-christies-seven-dials-premiere-complete-recap
 reading_time: 3
-source_url: "https://buzzsoaps.com/agatha-christies-seven-dials-premiere-complete-recap/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/agatha-christies-seven-dials-premiere-complete-recap/'
+imported_from: wordpress
 wp_original_id: 527
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/agatha-christies-seven-dials-premiere-complete-recap.webp
 seo:
-  canonical: "https://buzzsoaps.com/agatha-christies-seven-dials-premiere-complete-recap/"
-  og_title: "Agatha Christie's Seven Dials Premiere: Complete Recap - BuzzSoaps!"
-  og_description: "Agatha Christie's \"The Seven Dials Mystery\" captivates with its suspenseful plot and intriguing characters, set amidst English aristocracy. The narrative explores themes of deception and justice, as a secretive group entangles characters in a web of intrigue."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/agatha-christies-seven-dials-premiere-complete-recap/'
+  og_title: 'Agatha Christie''s Seven Dials Premiere: Complete Recap - BuzzSoaps!'
+  og_description: >-
+    Agatha Christie's "The Seven Dials Mystery" captivates with its suspenseful
+    plot and intriguing characters, set amidst English aristocracy. The
+    narrative explores themes of deception and justice, as a secretive group
+    entangles characters in a web of intrigue.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 44
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written literary analysis but significantly under target length at 439 words, limiting overall effectiveness for the entertainment site's content goals."
+quality_note: >-
+  Well-written literary analysis but significantly under target length at 439
+  words, limiting overall effectiveness for the entertainment site's content
+  goals.
+image_alt: >-
+  Moody 1920s drawing room with seven clocks, an open doorway, and mysterious
+  aristocratic clues.
 ---
 
 Agatha Christie's detective stories continue to captivate audiences with their complex plots and intriguing characters. Her work, "The Seven Dials Mystery," is no exception, weaving a tale of suspense and mystery set against a backdrop of English aristocracy. This thrilling narrative combines the charm of the 1920s with the timeless appeal of a classic whodunit.
