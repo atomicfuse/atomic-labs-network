@@ -1,25 +1,36 @@
 ---
-title: "Embrace Grid-Free Decorating for a Cozy Hobbit House"
-description: "Tales of the Shire offers a life simulation experience inspired by Middle-earth, allowing players to decorate hobbit homes without grid constraints. The game embraces a clutter-core aesthetic, enhancing creativity and offering a cozy, immersive environment for players to explore."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T04:11:24+00:00"
-author: "Taylor Winters"
+title: Embrace Grid-Free Decorating for a Cozy Hobbit House
+description: >-
+  Tales of the Shire offers a life simulation experience inspired by
+  Middle-earth, allowing players to decorate hobbit homes without grid
+  constraints. The game embraces a clutter-core aesthetic, enhancing creativity
+  and offering a cozy, immersive environment for players to explore.
+type: standard
+status: review
+publishDate: '2025-05-05T04:11:24+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "embrace-grid-free-decorating-for-a-cozy-hobbit-house"
+  - Decor Ideas
+  - Design
+slug: embrace-grid-free-decorating-for-a-cozy-hobbit-house
 reading_time: 3
-source_url: "https://decoratingtricks.com/embrace-grid-free-decorating-for-a-cozy-hobbit-house/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/embrace-grid-free-decorating-for-a-cozy-hobbit-house/
+imported_from: wordpress
 wp_original_id: 21360
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/embrace-grid-free-decorating-for-a-cozy-hobbit-house.webp
 seo:
-  canonical: "https://decoratingtricks.com/embrace-grid-free-decorating-for-a-cozy-hobbit-house/"
-  og_title: "Embrace Grid-Free Decorating for a Cozy Hobbit House - Decorating Tricks"
-  og_description: "Tales of the Shire offers a life simulation experience inspired by Middle-earth, allowing players to decorate hobbit homes without grid constraints. The game embraces a clutter-core aesthetic, enhancing creativity and offering a cozy, immersive environment for players to explore."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2025/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/embrace-grid-free-decorating-for-a-cozy-hobbit-house/
+  og_title: Embrace Grid-Free Decorating for a Cozy Hobbit House - Decorating Tricks
+  og_description: >-
+    Tales of the Shire offers a life simulation experience inspired by
+    Middle-earth, allowing players to decorate hobbit homes without grid
+    constraints. The game embraces a clutter-core aesthetic, enhancing
+    creativity and offering a cozy, immersive environment for players to
+    explore.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2025/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "While well-written about a gaming topic, this article doesn't align with the home decor/garden focus and lacks practical decorating advice for real homes."
+quality_note: >-
+  While well-written about a gaming topic, this article doesn't align with the
+  home decor/garden focus and lacks practical decorating advice for real homes.
+image_alt: >-
+  Cozy round-door cottage interior with eclectic decor, plants, rugs, books, and
+  warm hearthlight
 ---
 
 In the world of gaming, *Tales of the Shire* offers a delightful dive into a realm inspired by the beloved Middle-earth. This life simulation game brings the enchanting world of hobbits to your digital doorstep, allowing players to immerse themselves in a cluttered yet cozy environment.
