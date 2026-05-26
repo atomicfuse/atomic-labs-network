@@ -1,23 +1,28 @@
 ---
-title: "Skyscraper Tsunami Shakes Earth for Nine Days: A Must-See"
-description: "Scientists observed a massive tsunami triggered by the Hunga Tonga-Hunga Ha'apai volcano eruption that lasted nine days, offering valuable insights into natural disasters and leading to advancements in monitoring technology."
-type: "standard"
-status: "published"
-publishDate: "2025-06-05T10:43:30"
-author: "Taylor Winters"
+title: 'Skyscraper Tsunami Shakes Earth for Nine Days: A Must-See'
+description: >-
+  Scientists observed a massive tsunami triggered by the Hunga Tonga-Hunga
+  Ha'apai volcano eruption that lasted nine days, offering valuable insights
+  into natural disasters and leading to advancements in monitoring technology.
+type: standard
+status: published
+publishDate: '2025-06-05T10:43:30'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Nature"
-  - "Tech"
-slug: "skyscraper-tsunami-shakes-earth-for-nine-days-a-must-see"
+  - Environment
+  - Nature
+  - Tech
+slug: skyscraper-tsunami-shakes-earth-for-nine-days-a-must-see
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/skyscraper-tsunami-shakes-earth-for-nine-days-a-must-see/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/skyscraper-tsunami-shakes-earth-for-nine-days-a-must-see/
+imported_from: wordpress
 wp_original_id: 14973
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/skyscraper-tsunami-shakes-earth-for-nine-days-a-must-see.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/skyscraper-tsunami-shakes-earth-for-nine-days-a-must-see/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/skyscraper-tsunami-shakes-earth-for-nine-days-a-must-see/
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 65
@@ -25,7 +30,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-structured article on relevant science topic with good tone and accuracy, but falls short on word count and has a clickbait-style title that could be more professional."
+quality_note: >-
+  Well-structured article on relevant science topic with good tone and accuracy,
+  but falls short on word count and has a clickbait-style title that could be
+  more professional.
+image_alt: >-
+  Towering ocean swell from a distant volcanic eruption with research buoys
+  under stormy skies
 ---
 
 In an unprecedented observation, scientists have captured the movement of a colossal tsunami triggered by the eruption of the Hunga Tonga-Hunga Ha'apai volcano. This massive underwater explosion sent shockwaves around the globe, creating a tsunami so powerful that its effects were recorded for nine continuous days. The event has provided researchers with a valuable opportunity to study such phenomena in detail, shedding light on the dynamics of these devastating natural events.
