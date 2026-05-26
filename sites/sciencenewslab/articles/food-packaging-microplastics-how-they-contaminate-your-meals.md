@@ -1,22 +1,29 @@
 ---
-title: "Food Packaging Microplastics: How They Contaminate Your Meals"
-description: "Recent studies reveal that everyday food packaging releases microplastics into meals, posing environmental and health risks. These tiny particles, often invisible, can enter our bodies through food, potentially causing inflammation and disrupting hormones."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T07:41:32"
-author: "Taylor Winters"
+title: 'Food Packaging Microplastics: How They Contaminate Your Meals'
+description: >-
+  Recent studies reveal that everyday food packaging releases microplastics into
+  meals, posing environmental and health risks. These tiny particles, often
+  invisible, can enter our bodies through food, potentially causing inflammation
+  and disrupting hormones.
+type: standard
+status: published
+publishDate: '2025-07-03T07:41:32'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Humans"
-slug: "food-packaging-microplastics-how-they-contaminate-your-meals"
+  - Environment
+  - Humans
+slug: food-packaging-microplastics-how-they-contaminate-your-meals
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/food-packaging-microplastics-how-they-contaminate-your-meals/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/food-packaging-microplastics-how-they-contaminate-your-meals/
+imported_from: wordpress
 wp_original_id: 14979
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/food-packaging-microplastics-how-they-contaminate-your-meals.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/food-packaging-microplastics-how-they-contaminate-your-meals/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/food-packaging-microplastics-how-they-contaminate-your-meals/
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -24,7 +31,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 500 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 500 words versus the 800-1200 range.
+image_alt: >-
+  A meal beside clear plastic packaging with tiny particles floating in soft
+  light.
 ---
 
 Recent studies have uncovered a concerning issue with everyday food packaging: it releases microplastics into our meals. These tiny plastic particles, often invisible to the naked eye, are not just a problem for the environment but are also finding their way into our bodies through the food we consume.
