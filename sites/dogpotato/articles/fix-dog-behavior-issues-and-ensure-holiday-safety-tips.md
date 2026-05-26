@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-fix-dog-behavior-issues-and-ensure-holiday-safety-tips
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/fix-dog-behavior-issues-and-ensure-holiday-safety-tips.webp
 reading_time: 3
 quality_score: 69
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Good topic relevance and keyword coverage, but the article is too short,
   overly vague with repetitive phrasing like 'according to reports,' and lacks
   specific actionable advice that pet owners would expect.
+image_alt: >-
+  Calm dog sitting beside its owner in a cozy holiday room with safe festive
+  decorations
 ---
 ## Understanding Common Dog Behavior Challenges
 
