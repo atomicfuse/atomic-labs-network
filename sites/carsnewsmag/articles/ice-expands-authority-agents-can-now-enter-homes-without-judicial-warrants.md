@@ -1,28 +1,39 @@
 ---
-title: "ICE Expands Authority: Agents Can Now Enter Homes Without Judicial Warrants"
-description: "A recent ICE memo reveals that federal immigration officers can now enter homes without a judicial warrant, marking a significant shift in policy that raises serious concerns about Fourth Amendment protections and civil liberties."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T09:21:19+00:00"
-author: "Taylor Winters"
+title: 'ICE Expands Authority: Agents Can Now Enter Homes Without Judicial Warrants'
+description: >-
+  A recent ICE memo reveals that federal immigration officers can now enter
+  homes without a judicial warrant, marking a significant shift in policy that
+  raises serious concerns about Fourth Amendment protections and civil
+  liberties.
+type: standard
+status: review
+publishDate: '2026-01-22T09:21:19+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Opinion"
-slug: "ice-expands-authority-agents-can-now-enter-homes-without-judicial-warrants"
+  - News
+  - Opinion
+slug: ice-expands-authority-agents-can-now-enter-homes-without-judicial-warrants
 reading_time: 2
-source_url: "https://carsnewsmag.com/ice-expands-authority-agents-can-now-enter-homes-without-judicial-warrants/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/ice-expands-authority-agents-can-now-enter-homes-without-judicial-warrants/
+imported_from: wordpress
 wp_original_id: 38552
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/ice-expands-authority-agents-can-now-enter-homes-without-judicial-warrants.webp
 seo:
-  canonical: "https://carsnewsmag.com/ice-expands-authority-agents-can-now-enter-homes-without-judicial-warrants/"
-  og_title: "ICE Expands Authority: Agents Can Now Enter Homes Without Judicial Warrants - Cars News Magazine"
-  og_description: "A recent ICE memo reveals that federal immigration officers can now enter homes without a judicial warrant, marking a significant shift in policy."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/ice-expands-authority-agents-can-now-enter-homes-without-judicial-warrants/
+  og_title: >-
+    ICE Expands Authority: Agents Can Now Enter Homes Without Judicial Warrants
+    - Cars News Magazine
+  og_description: >-
+    A recent ICE memo reveals that federal immigration officers can now enter
+    homes without a judicial warrant, marking a significant shift in policy.
+  twitter_card: summary_large_image
 videos:
-  - id: "ed64ad4c"
-    url: "https://www.youtube.com/watch?v=1FcRWztkWj4"
-    position: "after-paragraph-2"
+  - id: ed64ad4c
+    url: 'https://www.youtube.com/watch?v=1FcRWztkWj4'
+    position: after-paragraph-2
 quality_score: 39
 score_breakdown:
   seo_quality: 25
@@ -30,7 +41,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This immigration policy article is completely off-topic for an automotive enthusiast site, has poor SEO optimization, and falls well short of the target word count despite being well-written on its actual subject matter."
+quality_note: >-
+  This immigration policy article is completely off-topic for an automotive
+  enthusiast site, has poor SEO optimization, and falls well short of the target
+  word count despite being well-written on its actual subject matter.
+image_alt: >-
+  Tense apartment doorway with silhouettes outside and anxious hands near the
+  frame
 ---
 
 In a dramatic policy shift, federal immigration officers are now empowered to enter private residences without a judge's warrant. This change, outlined in an internal Immigration and Customs Enforcement (ICE) memo obtained by The Associated Press, represents a significant departure from previous guidelines that respected constitutional limits on government searches.
