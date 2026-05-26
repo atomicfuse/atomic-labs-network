@@ -20,7 +20,8 @@ source_url: ''
 source_item_id: >-
   synthetic-velotric-valentines-sale-offers-800-in-e-bike-savings-from-999-ecoflow-delta-2-max-and-river-3-plus-flash-sales-more
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/velotric-valentines-sale-offers-800-in-e-bike-savings-from-999-ecoflow-delta-2-max-and-river-3-plus-flash-sales-more.webp
 reading_time: 3
 quality_score: 75
 score_breakdown:
@@ -32,6 +33,9 @@ score_breakdown:
 quality_note: >-
   Solid automotive news article with good keyword coverage but falls short on
   length and could use more engaging tone for enthusiast audience.
+image_alt: >-
+  Modern electric bike on a warm city street with subtle Valentine-inspired red
+  accents
 ---
 ## Valentine's Day E-Bike Deals Arrive
 
