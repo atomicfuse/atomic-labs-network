@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-suzuki-stops-swift-production-amid-chinas-rare-earth-restrictions
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/suzuki-stops-swift-production-amid-chinas-rare-earth-restrictions.webp
 reading_time: 3
 quality_score: 66
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   Article covers relevant automotive news with good keyword integration but
   falls short on length and relies heavily on vague 'according to reports'
   without specific sources or verification.
+image_alt: >-
+  Unfinished compact car on a paused factory line with mineral samples in the
+  foreground
 ---
 ## Production Halt Impacts Popular Model
 
