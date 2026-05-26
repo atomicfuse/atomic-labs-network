@@ -1,29 +1,38 @@
 ---
-title: "Delicious Protein-Packed Breakfast with Green Chilli Tomato Chutney"
-description: "Discover a quick and healthy protein-rich breakfast recipe paired with a zesty green chilli tomato chutney, perfect for busy mornings."
-type: "standard"
-status: "review"
-publishDate: "2025-10-27T11:03:06+00:00"
-author: "Taylor Winters"
+title: Delicious Protein-Packed Breakfast with Green Chilli Tomato Chutney
+description: >-
+  Discover a quick and healthy protein-rich breakfast recipe paired with a zesty
+  green chilli tomato chutney, perfect for busy mornings.
+type: standard
+status: review
+publishDate: '2025-10-27T11:03:06+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Special Diets"
-slug: "delicious-protein-packed-breakfast-with-green-chilli-tomato-chutney"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Special Diets
+slug: delicious-protein-packed-breakfast-with-green-chilli-tomato-chutney
 reading_time: 2
-source_url: "https://eznutritiontips.com/delicious-protein-packed-breakfast-with-green-chilli-tomato-chutney/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/delicious-protein-packed-breakfast-with-green-chilli-tomato-chutney/
+imported_from: wordpress
 wp_original_id: 18939
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/delicious-protein-packed-breakfast-with-green-chilli-tomato-chutney.webp
 seo:
-  canonical: "https://eznutritiontips.com/delicious-protein-packed-breakfast-with-green-chilli-tomato-chutney/"
-  og_title: "Delicious Protein-Packed Breakfast with Green Chilli Tomato Chutney - Easy Nutrition Tips"
-  og_description: "Discover a quick and healthy protein-rich breakfast recipe paired with a zesty green chilli tomato chutney, perfect for busy mornings."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/delicious-protein-packed-breakfast-with-green-chilli-tomato-chutney/
+  og_title: >-
+    Delicious Protein-Packed Breakfast with Green Chilli Tomato Chutney - Easy
+    Nutrition Tips
+  og_description: >-
+    Discover a quick and healthy protein-rich breakfast recipe paired with a
+    zesty green chilli tomato chutney, perfect for busy mornings.
+  twitter_card: summary_large_image
 videos:
-  - id: "5829b301"
-    url: "https://www.youtube.com/watch?v=WcGkLmprD0I"
-    position: "after-paragraph-2"
+  - id: 5829b301
+    url: 'https://www.youtube.com/watch?v=WcGkLmprD0I'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -31,7 +40,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "The article has good tone and keyword relevance but is significantly too short at 336 words compared to the 800-1200 word target."
+quality_note: >-
+  The article has good tone and keyword relevance but is significantly too short
+  at 336 words compared to the 800-1200 word target.
+image_alt: >-
+  Protein-rich breakfast plate with green chilli tomato chutney in bright
+  morning light
 ---
 
 Starting your day with a nutritious breakfast sets the tone for a productive day ahead. If you're looking for a quick, protein-rich option, this steamed breakfast recipe paired with a flavorful green chilli tomato chutney is perfect for you.
