@@ -1,22 +1,29 @@
 ---
-title: "Study Reveals Common Viruses Activate Dormant Breast Cancer Cells"
-description: "Recent research reveals a link between common viral infections and the reactivation of dormant breast cancer cells, suggesting that viruses may trigger cancer recurrence. This highlights the importance of further investigation into virus-cancer interactions for better prevention strategies."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T07:57:21"
-author: "Taylor Winters"
+title: Study Reveals Common Viruses Activate Dormant Breast Cancer Cells
+description: >-
+  Recent research reveals a link between common viral infections and the
+  reactivation of dormant breast cancer cells, suggesting that viruses may
+  trigger cancer recurrence. This highlights the importance of further
+  investigation into virus-cancer interactions for better prevention strategies.
+type: standard
+status: review
+publishDate: '2025-07-31T07:57:21'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "study-reveals-common-viruses-activate-dormant-breast-cancer-cells"
+  - Space
+  - Humans
+slug: study-reveals-common-viruses-activate-dormant-breast-cancer-cells
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/study-reveals-common-viruses-activate-dormant-breast-cancer-cells/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/study-reveals-common-viruses-activate-dormant-breast-cancer-cells/
+imported_from: wordpress
 wp_original_id: 14988
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/study-reveals-common-viruses-activate-dormant-breast-cancer-cells.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/study-reveals-common-viruses-activate-dormant-breast-cancer-cells/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/study-reveals-common-viruses-activate-dormant-breast-cancer-cells/
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 35
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 20
-quality_note: "The article has good tone and structure but falls short on length, lacks proper SEO optimization, and doesn't align with the site's focus on Space, Nature, Physics, Technology, and Environment topics."
+quality_note: >-
+  The article has good tone and structure but falls short on length, lacks
+  proper SEO optimization, and doesn't align with the site's focus on Space,
+  Nature, Physics, Technology, and Environment topics.
+image_alt: >-
+  Glowing dormant cancer cells surrounded by translucent virus particles in a
+  blue microscopic scene.
 ---
 
 Recent research has uncovered a concerning link between common viral infections and the reactivation of dormant breast cancer cells. This discovery offers new insights into how breast cancer might resurface years after initial treatment, highlighting the need for further investigation into the relationship between viruses and cancer.
