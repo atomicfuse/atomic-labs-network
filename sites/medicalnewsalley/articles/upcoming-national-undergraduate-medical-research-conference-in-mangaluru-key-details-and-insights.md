@@ -1,26 +1,44 @@
 ---
-title: "Upcoming National Undergraduate Medical Research Conference in Mangaluru: Key Details and Insights"
-description: "Kasturba Medical College in Mangaluru is set to host the national undergraduate medical research conference, 'Medicine: A Voyage of Discovery', providing a platform for medical students to share research findings and engage with renowned medical experts, fostering a culture of learning and innovation."
-type: "standard"
-status: "published"
-publishDate: "2025-04-21T06:01:46+00:00"
-author: "Taylor Winters"
+title: >-
+  Upcoming National Undergraduate Medical Research Conference in Mangaluru: Key
+  Details and Insights
+description: >-
+  Kasturba Medical College in Mangaluru is set to host the national
+  undergraduate medical research conference, 'Medicine: A Voyage of Discovery',
+  providing a platform for medical students to share research findings and
+  engage with renowned medical experts, fostering a culture of learning and
+  innovation.
+type: standard
+status: published
+publishDate: '2025-04-21T06:01:46+00:00'
+author: Taylor Winters
 tags:
-  - "Medical Research"
-  - "Clinical Trials &amp; Research"
-  - "News"
-slug: "upcoming-national-undergraduate-medical-research-conference-in-mangaluru-key-details-and-insights"
+  - Medical Research
+  - Clinical Trials &amp; Research
+  - News
+slug: >-
+  upcoming-national-undergraduate-medical-research-conference-in-mangaluru-key-details-and-insights
 reading_time: 2
-source_url: "https://medicalnewsalley.com/upcoming-national-undergraduate-medical-research-conference-in-mangaluru-key-details-and-insights/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/upcoming-national-undergraduate-medical-research-conference-in-mangaluru-key-details-and-insights/
+imported_from: wordpress
 wp_original_id: 32418
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/upcoming-national-undergraduate-medical-research-conference-in-mangaluru-key-details-and-insights.webp
 seo:
-  canonical: "https://medicalnewsalley.com/upcoming-national-undergraduate-medical-research-conference-in-mangaluru-key-details-and-insights/"
-  og_title: "Upcoming National Undergraduate Medical Research Conference in Mangaluru: Key Details and Insights - Medical News Alley"
-  og_description: "Kasturba Medical College in Mangaluru is set to host the national undergraduate medical research conference, 'Medicine: A Voyage of Discovery'. The event will create a platform for medical students to share research findings and engage with renowned medical experts, fostering a culture of learning and innovation."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/upcoming-national-undergraduate-medical-research-conference-in-mangaluru-key-details-and-insights/
+  og_title: >-
+    Upcoming National Undergraduate Medical Research Conference in Mangaluru:
+    Key Details and Insights - Medical News Alley
+  og_description: >-
+    Kasturba Medical College in Mangaluru is set to host the national
+    undergraduate medical research conference, 'Medicine: A Voyage of
+    Discovery'. The event will create a platform for medical students to share
+    research findings and engage with renowned medical experts, fostering a
+    culture of learning and innovation.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +46,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong relevance and tone for medical audience, but significantly under target word count at 389 words versus 800-1200 ideal range."
+quality_note: >-
+  Strong relevance and tone for medical audience, but significantly under target
+  word count at 389 words versus 800-1200 ideal range.
+image_alt: >-
+  Medical students collaborate around research materials in a sunlit academic
+  atrium.
 ---
 
 The esteemed Kasturba Medical College (KMC) in Mangaluru is preparing to host the national undergraduate medical research conference. This significant event, titled 'Medicine: A Voyage of Discovery,' will commence tomorrow, drawing students and medical enthusiasts from across India.
