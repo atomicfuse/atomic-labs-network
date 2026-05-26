@@ -1,29 +1,40 @@
 ---
-title: "CES 2026 Highlights: SDVerse’s Vision for the Future and Industry Shifts"
-description: "At CES 2026, SDVerse CEO Prashant Gulati outlines the future of software-defined vehicles, alongside major industry changes including Nissan's leadership shift."
-type: "standard"
-status: "review"
-publishDate: "2026-01-08T09:21:21+00:00"
-author: "Taylor Winters"
+title: 'CES 2026 Highlights: SDVerse’s Vision for the Future and Industry Shifts'
+description: >-
+  At CES 2026, SDVerse CEO Prashant Gulati outlines the future of
+  software-defined vehicles, alongside major industry changes including Nissan's
+  leadership shift.
+type: standard
+status: review
+publishDate: '2026-01-08T09:21:21+00:00'
+author: Taylor Winters
 tags:
-  - "Concept Cars"
-  - "Industry"
-  - "News"
-slug: "ces-2026-highlights-sdverses-vision-for-the-future-and-industry-shifts"
+  - Concept Cars
+  - Industry
+  - News
+slug: ces-2026-highlights-sdverses-vision-for-the-future-and-industry-shifts
 reading_time: 2
-source_url: "https://carsnewsmag.com/ces-2026-highlights-sdverses-vision-for-the-future-and-industry-shifts/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/ces-2026-highlights-sdverses-vision-for-the-future-and-industry-shifts/
+imported_from: wordpress
 wp_original_id: 38544
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/ces-2026-highlights-sdverses-vision-for-the-future-and-industry-shifts.webp
 seo:
-  canonical: "https://carsnewsmag.com/ces-2026-highlights-sdverses-vision-for-the-future-and-industry-shifts/"
-  og_title: "CES 2026 Highlights: SDVerse's Vision for the Future and Industry Shifts - Cars News Magazine"
-  og_description: "At CES 2026, SDVerse CEO Prashant Gulati outlines the future of software-defined vehicles, alongside major industry changes including Nissan's leadership shift."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/ces-2026-highlights-sdverses-vision-for-the-future-and-industry-shifts/
+  og_title: >-
+    CES 2026 Highlights: SDVerse's Vision for the Future and Industry Shifts -
+    Cars News Magazine
+  og_description: >-
+    At CES 2026, SDVerse CEO Prashant Gulati outlines the future of
+    software-defined vehicles, alongside major industry changes including
+    Nissan's leadership shift.
+  twitter_card: summary_large_image
 videos:
-  - id: "4ac8a9ae"
-    url: "https://www.youtube.com/watch?v=3b56MkSLUPE"
-    position: "after-paragraph-2"
+  - id: 4ac8a9ae
+    url: 'https://www.youtube.com/watch?v=3b56MkSLUPE'
+    position: after-paragraph-2
 quality_score: 61
 score_breakdown:
   seo_quality: 75
@@ -31,7 +42,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "The article has good tone and covers relevant automotive topics, but is severely under length at 230 words and contains potential factual inaccuracies about future CES 2026 events and unverified personnel changes."
+quality_note: >-
+  The article has good tone and covers relevant automotive topics, but is
+  severely under length at 230 words and contains potential factual inaccuracies
+  about future CES 2026 events and unverified personnel changes.
+image_alt: >-
+  Futuristic connected vehicle on a trade-show floor with abstract data streams
+  and executive silhouettes
 ---
 
 The CES 2026 event in Las Vegas has once again set the stage for groundbreaking technology announcements and industry insights. Among the key highlights is an interview with Prashant Gulati, CEO of SDVerse, who shared the company's ambitious plans to accelerate the development timelines of software-defined vehicles. This marks a significant step in the automotive industry as companies aim to integrate advanced software solutions to enhance vehicle capabilities and user experiences.
