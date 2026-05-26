@@ -1,24 +1,32 @@
 ---
-title: "Discover Audio-Technica’s Transparent AT-LPA2 Turntable"
-description: "The resurgence of vinyl records has led to renewed interest in turntables. Audio-Technica's AT-LP60X is designed for both new and seasoned collectors, offering simplicity, performance, and affordability with a sleek design and versatile connectivity options."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:08:42+00:00"
-author: "Lena Ashwood"
+title: Discover Audio-Technica’s Transparent AT-LPA2 Turntable
+description: >-
+  The resurgence of vinyl records has led to renewed interest in turntables.
+  Audio-Technica's AT-LP60X is designed for both new and seasoned collectors,
+  offering simplicity, performance, and affordability with a sleek design and
+  versatile connectivity options.
+type: standard
+status: review
+publishDate: '2025-05-18T11:08:42+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "discover-audio-technicas-transparent-at-lpa2-turntable"
+  - Tech
+slug: discover-audio-technicas-transparent-at-lpa2-turntable
 reading_time: 3
-source_url: "https://mindsbit.com/discover-audio-technicas-transparent-at-lpa2-turntable/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/discover-audio-technicas-transparent-at-lpa2-turntable/'
+imported_from: wordpress
 wp_original_id: 345
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/discover-audio-technicas-transparent-at-lpa2-turntable.webp
 seo:
-  canonical: "https://mindsbit.com/discover-audio-technicas-transparent-at-lpa2-turntable/"
-  og_title: "Discover Audio-Technica's Transparent AT-LPA2 Turntable - Minds bit"
-  og_description: "The resurgence of vinyl records has led to renewed interest in turntables. Audio-Technica's AT-LP60X is designed for both new and seasoned collectors, offering simplicity, performance, and affordability. Its sleek design and versatile connectivity make it appealing for various setups."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-42.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/discover-audio-technicas-transparent-at-lpa2-turntable/'
+  og_title: Discover Audio-Technica's Transparent AT-LPA2 Turntable - Minds bit
+  og_description: >-
+    The resurgence of vinyl records has led to renewed interest in turntables.
+    Audio-Technica's AT-LP60X is designed for both new and seasoned collectors,
+    offering simplicity, performance, and affordability. Its sleek design and
+    versatile connectivity make it appealing for various setups.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-42.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 75
   keyword_relevance: 70
-quality_note: "Well-written tech review with good tone but suffers from title/description mismatch (mentions AT-LPA2 vs AT-LP60X), below-target word count, and moderate keyword integration."
+quality_note: >-
+  Well-written tech review with good tone but suffers from title/description
+  mismatch (mentions AT-LPA2 vs AT-LP60X), below-target word count, and moderate
+  keyword integration.
+image_alt: >-
+  Transparent turntable spinning a vinyl record on a modern listening-room
+  console
 ---
 
 In recent years, the resurgence of vinyl records has captivated music enthusiasts worldwide, leading to a renewed interest in turntables. Audio-Technica, a brand recognized for its high-quality audio equipment, has launched a new addition to its lineup, the AT-LP60X, a turntable designed for both new and seasoned vinyl collectors. Emphasizing simplicity and performance, this turntable is set to draw attention from those seeking an affordable yet reliable option.
