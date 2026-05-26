@@ -1,25 +1,38 @@
 ---
-title: "Top Destinations for Americans in 2026: Abu Dhabi, Crete, Santa Barbara"
-description: "Americans are eyeing Abu Dhabi, Crete, and Santa Barbara for future travels by 2026. These destinations offer unique cultural experiences, stunning landscapes, and diverse activities, making them ideal choices for travelers seeking both relaxation and adventure."
-type: "standard"
-status: "published"
-publishDate: "2026-01-12T09:51:37+00:00"
-author: "Taylor Winters"
+title: 'Top Destinations for Americans in 2026: Abu Dhabi, Crete, Santa Barbara'
+description: >-
+  Americans are eyeing Abu Dhabi, Crete, and Santa Barbara for future travels by
+  2026. These destinations offer unique cultural experiences, stunning
+  landscapes, and diverse activities, making them ideal choices for travelers
+  seeking both relaxation and adventure.
+type: standard
+status: published
+publishDate: '2026-01-12T09:51:37+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-destinations-for-americans-in-2026-abu-dhabi-crete-santa-barbara"
+  - Destinations
+  - Travel
+slug: top-destinations-for-americans-in-2026-abu-dhabi-crete-santa-barbara
 reading_time: 4
-source_url: "https://journeypeaks.com/top-destinations-for-americans-in-2026-abu-dhabi-crete-santa-barbara/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-destinations-for-americans-in-2026-abu-dhabi-crete-santa-barbara/
+imported_from: wordpress
 wp_original_id: 38784
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/top-destinations-for-americans-in-2026-abu-dhabi-crete-santa-barbara.webp
 seo:
-  canonical: "https://journeypeaks.com/top-destinations-for-americans-in-2026-abu-dhabi-crete-santa-barbara/"
-  og_title: "Top Destinations for Americans in 2026: Abu Dhabi, Crete, Santa Barbara - Journey Peaks"
-  og_description: "Americans are eyeing Abu Dhabi, Crete, and Santa Barbara for future travels by 2026. These destinations offer unique cultural experiences, stunning landscapes, and diverse activities, making them ideal choices for travelers seeking both relaxation and adventure."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-destinations-for-americans-in-2026-abu-dhabi-crete-santa-barbara/
+  og_title: >-
+    Top Destinations for Americans in 2026: Abu Dhabi, Crete, Santa Barbara -
+    Journey Peaks
+  og_description: >-
+    Americans are eyeing Abu Dhabi, Crete, and Santa Barbara for future travels
+    by 2026. These destinations offer unique cultural experiences, stunning
+    landscapes, and diverse activities, making them ideal choices for travelers
+    seeking both relaxation and adventure.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel article with excellent keyword relevance and engaging tone, but falls short on content length at 620 words and has a somewhat generic title structure."
+quality_note: >-
+  Well-written travel article with excellent keyword relevance and engaging
+  tone, but falls short on content length at 620 words and has a somewhat
+  generic title structure.
+image_alt: >-
+  Sunlit panoramic travel scene blending desert skyline, Mediterranean cliffs,
+  and California coast.
 ---
 
 As travel trends evolve, Americans are increasingly setting their sights on new and exciting destinations for future adventures. By 2026, several locations are emerging as top choices for U.S. travelers, including Abu Dhabi, Crete, and Santa Barbara. Each of these destinations offers unique cultural experiences, breathtaking landscapes, and diverse activities that cater to all types of travelers.
