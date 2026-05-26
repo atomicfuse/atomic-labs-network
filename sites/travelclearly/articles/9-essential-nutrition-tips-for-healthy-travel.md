@@ -1,26 +1,34 @@
 ---
-title: "9 Essential Nutrition Tips for Healthy Travel"
-description: "Traveling during summer can be exciting, but maintaining a healthy diet is challenging. With planning and mindful choices, you can enjoy your trip while keeping nutrition in check by packing nutrient-dense snacks, staying hydrated, and choosing healthy meals to stay energized."
-type: "standard"
-status: "published"
-publishDate: "2025-05-08T04:09:30+00:00"
-author: "Taylor Winters"
+title: 9 Essential Nutrition Tips for Healthy Travel
+description: >-
+  Traveling during summer can be exciting, but maintaining a healthy diet is
+  challenging. With planning and mindful choices, you can enjoy your trip while
+  keeping nutrition in check by packing nutrient-dense snacks, staying hydrated,
+  and choosing healthy meals to stay energized.
+type: standard
+status: published
+publishDate: '2025-05-08T04:09:30+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-  - "Tips"
-  - "Travel"
-slug: "9-essential-nutrition-tips-for-healthy-travel"
+  - Lifestyle
+  - Tips
+  - Travel
+slug: 9-essential-nutrition-tips-for-healthy-travel
 reading_time: 3
-source_url: "https://travelclearly.com/9-essential-nutrition-tips-for-healthy-travel/"
-imported_from: "wordpress"
+source_url: 'https://travelclearly.com/9-essential-nutrition-tips-for-healthy-travel/'
+imported_from: wordpress
 wp_original_id: 36488
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/9-essential-nutrition-tips-for-healthy-travel.webp
 seo:
-  canonical: "https://travelclearly.com/9-essential-nutrition-tips-for-healthy-travel/"
-  og_title: "9 Essential Nutrition Tips for Healthy Travel - Travel Clearly"
-  og_description: "Traveling during summer can be exciting, but maintaining a healthy diet is challenging. With planning and mindful choices, you can enjoy your trip while keeping nutrition in check. Pack nutrient-dense snacks, stay hydrated, and choose healthy meals to stay energized."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelclearly.com/9-essential-nutrition-tips-for-healthy-travel/'
+  og_title: 9 Essential Nutrition Tips for Healthy Travel - Travel Clearly
+  og_description: >-
+    Traveling during summer can be exciting, but maintaining a healthy diet is
+    challenging. With planning and mindful choices, you can enjoy your trip
+    while keeping nutrition in check. Pack nutrient-dense snacks, stay hydrated,
+    and choose healthy meals to stay energized.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2025/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and keyword relevance, but significantly under the target word count at only 417 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with excellent tone and keyword relevance, but
+  significantly under the target word count at only 417 words versus the
+  800-1200 range.
+image_alt: >-
+  Healthy travel snacks and water arranged beside summer travel essentials in a
+  bright airport lounge.
 ---
 
 Traveling during the summer months can be an exciting adventure, but maintaining a healthy diet while on the go presents its own challenges. With a little planning and mindful choices, you can enjoy your trip while keeping your nutrition in check. Here are some effective strategies to ensure you stay healthy and energized during your travels.
