@@ -1,26 +1,33 @@
 ---
-title: "Discover the Benefits of Tonic Drinks"
-description: "A popular radio program offers engaging health and wellness discussions, featuring expert guests on topics like nutrition, fitness, mental health, and holistic practices to help listeners improve their overall well-being."
-type: "standard"
-status: "review"
-publishDate: "2025-05-08T06:51:38+00:00"
-author: "Elena Hartwell"
+title: Discover the Benefits of Tonic Drinks
+description: >-
+  A popular radio program offers engaging health and wellness discussions,
+  featuring expert guests on topics like nutrition, fitness, mental health, and
+  holistic practices to help listeners improve their overall well-being.
+type: standard
+status: review
+publishDate: '2025-05-08T06:51:38+00:00'
+author: Elena Hartwell
 tags:
-  - "Healthy Living Tips"
-  - "Mind &amp; Body Wellness"
-  - "Nutrition &amp; Diet"
-slug: "discover-the-benefits-of-tonic-drinks"
+  - Healthy Living Tips
+  - Mind &amp; Body Wellness
+  - Nutrition &amp; Diet
+slug: discover-the-benefits-of-tonic-drinks
 reading_time: 3
-source_url: "https://foreverhealty.com/discover-the-benefits-of-tonic-drinks/"
-imported_from: "wordpress"
+source_url: 'https://foreverhealty.com/discover-the-benefits-of-tonic-drinks/'
+imported_from: wordpress
 wp_original_id: 19050
-featuredImage: "/assets/images/foreverhealty-general-article.webp"
+featuredImage: /assets/images/discover-the-benefits-of-tonic-drinks.webp
 seo:
-  canonical: "https://foreverhealty.com/discover-the-benefits-of-tonic-drinks/"
-  og_title: "Discover the Benefits of Tonic Drinks - Forever Healthy"
-  og_description: "In a fast-paced world, maintaining a healthy lifestyle is crucial. A popular radio program offers engaging health discussions, featuring experts on topics like nutrition, fitness, and mental well-being. It inspires listeners to integrate practical advice into daily life for improved wellness."
-  og_image: "https://foreverhealty.com/wp-content/uploads/2025/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://foreverhealty.com/discover-the-benefits-of-tonic-drinks/'
+  og_title: Discover the Benefits of Tonic Drinks - Forever Healthy
+  og_description: >-
+    In a fast-paced world, maintaining a healthy lifestyle is crucial. A popular
+    radio program offers engaging health discussions, featuring experts on
+    topics like nutrition, fitness, and mental well-being. It inspires listeners
+    to integrate practical advice into daily life for improved wellness.
+  og_image: 'https://foreverhealty.com/wp-content/uploads/2025/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 45
@@ -28,7 +35,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has good tone and covers relevant health topics, but the title-description mismatch about tonic drinks vs radio programs creates confusion and poor SEO alignment."
+quality_note: >-
+  The article has good tone and covers relevant health topics, but the
+  title-description mismatch about tonic drinks vs radio programs creates
+  confusion and poor SEO alignment.
+image_alt: >-
+  Sparkling tonic drink with citrus and herbs beside a softly blurred radio
+  microphone in warm morning light.
 ---
 
 In today's fast-paced world, maintaining a healthy lifestyle is more important than ever. With an increasing number of people seeking ways to improve their physical and mental well-being, numerous resources are available to guide them on their journey. One of these resources is a popular radio program that offers insightful discussions on health and wellness. This article explores the various aspects of the show, highlighting its impact on listeners and the key topics it covers.
