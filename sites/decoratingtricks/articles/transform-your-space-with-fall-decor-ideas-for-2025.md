@@ -1,30 +1,36 @@
 ---
-title: "Transform Your Space with Fall Decor Ideas for 2025"
-description: "Discover modern and neutral autumn accents to bring the beauty of the season into your home."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T04:05:23+00:00"
-author: "Taylor Winters"
+title: Transform Your Space with Fall Decor Ideas for 2025
+description: >-
+  Discover modern and neutral autumn accents to bring the beauty of the season
+  into your home.
+type: standard
+status: review
+publishDate: '2025-08-07T04:05:23+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "DIY"
-  - "Home"
-slug: "transform-your-space-with-fall-decor-ideas-for-2025"
+  - Decor Ideas
+  - Design
+  - DIY
+  - Home
+slug: transform-your-space-with-fall-decor-ideas-for-2025
 reading_time: 2
-source_url: "https://decoratingtricks.com/transform-your-space-with-fall-decor-ideas-for-2025/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/transform-your-space-with-fall-decor-ideas-for-2025/
+imported_from: wordpress
 wp_original_id: 21448
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/transform-your-space-with-fall-decor-ideas-for-2025.webp
 seo:
-  canonical: "https://decoratingtricks.com/transform-your-space-with-fall-decor-ideas-for-2025/"
-  og_title: "Transform Your Space with Fall Decor Ideas for 2025 - Decorating Tricks"
-  og_description: "Discover modern and neutral autumn accents to bring the beauty of the season into your home."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/transform-your-space-with-fall-decor-ideas-for-2025/
+  og_title: Transform Your Space with Fall Decor Ideas for 2025 - Decorating Tricks
+  og_description: >-
+    Discover modern and neutral autumn accents to bring the beauty of the season
+    into your home.
+  twitter_card: summary_large_image
 videos:
-  - id: "da06aa65"
-    url: "https://www.youtube.com/watch?v=v69Ny_yC0h4"
-    position: "after-paragraph-2"
+  - id: da06aa65
+    url: 'https://www.youtube.com/watch?v=v69Ny_yC0h4'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -32,7 +38,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "The article has good tone and keyword relevance but is severely underweight at only 308 words when the target is 800-1200 words."
+quality_note: >-
+  The article has good tone and keyword relevance but is severely underweight at
+  only 308 words when the target is 800-1200 words.
+image_alt: >-
+  Modern neutral living room styled with warm autumn decor and soft natural
+  light
 ---
 
 As the leaves begin to change and the air turns crisp, it's time to embrace the cozy vibes of fall. In this year's edition of *Fall Decorate with Me 2025*, we explore a range of early fall decor ideas that will inspire you to transform your living space. From modern and neutral accents to fresh design twists, you'll find plenty of inspiration to create a warm and inviting atmosphere.
