@@ -1,25 +1,36 @@
 ---
-title: "Top 6 Must-Visit Travel Destinations for 2025 Global Tourism"
-description: "In 2025, India, New Zealand, Japan, France, Italy, and Spain are top travel destinations, offering cultural richness, natural beauty, and historical significance. These countries promise unforgettable experiences for globetrotters seeking adventure and cultural immersion."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T04:59:30+00:00"
-author: "Taylor Winters"
+title: Top 6 Must-Visit Travel Destinations for 2025 Global Tourism
+description: >-
+  In 2025, India, New Zealand, Japan, France, Italy, and Spain are top travel
+  destinations, offering cultural richness, natural beauty, and historical
+  significance. These countries promise unforgettable experiences for
+  globetrotters seeking adventure and cultural immersion.
+type: standard
+status: published
+publishDate: '2025-07-31T04:59:30+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-6-must-visit-travel-destinations-for-2025-global-tourism"
+  - Destinations
+  - Travel
+slug: top-6-must-visit-travel-destinations-for-2025-global-tourism
 reading_time: 3
-source_url: "https://journeypeaks.com/top-6-must-visit-travel-destinations-for-2025-global-tourism/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-6-must-visit-travel-destinations-for-2025-global-tourism/
+imported_from: wordpress
 wp_original_id: 38672
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/top-6-must-visit-travel-destinations-for-2025-global-tourism.webp
 seo:
-  canonical: "https://journeypeaks.com/top-6-must-visit-travel-destinations-for-2025-global-tourism/"
-  og_title: "Top 6 Must-Visit Travel Destinations for 2025 Global Tourism - Journey Peaks"
-  og_description: "In 2025, India, New Zealand, Japan, France, Italy, and Spain are top travel destinations, offering cultural richness, natural beauty, and historical significance. These countries promise unforgettable experiences for globetrotters seeking adventure and cultural immersion."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/07/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-6-must-visit-travel-destinations-for-2025-global-tourism/
+  og_title: Top 6 Must-Visit Travel Destinations for 2025 Global Tourism - Journey Peaks
+  og_description: >-
+    In 2025, India, New Zealand, Japan, France, Italy, and Spain are top travel
+    destinations, offering cultural richness, natural beauty, and historical
+    significance. These countries promise unforgettable experiences for
+    globetrotters seeking adventure and cultural immersion.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/07/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong destination content with engaging tone and excellent keyword relevance, but falls short of target word count and could benefit from improved SEO optimization."
+quality_note: >-
+  Strong destination content with engaging tone and excellent keyword relevance,
+  but falls short of target word count and could benefit from improved SEO
+  optimization.
+image_alt: >-
+  Sunlit travel still life with passport, camera, and dreamy global landscapes
+  in the background
 ---
 
 As the world continues to open up for travel, certain destinations are capturing the imagination of travelers more than others. For 2025, countries like India, New Zealand, Japan, France, Italy, and Spain are emerging as the most sought-after destinations. These countries offer a unique blend of cultural richness, natural beauty, and historical significance, making them irresistible to globetrotters.
