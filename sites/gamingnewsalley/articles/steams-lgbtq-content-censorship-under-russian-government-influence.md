@@ -1,24 +1,37 @@
 ---
-title: "Steam’s LGBTQ+ Content Censorship Under Russian Government Influence"
-description: "In digital gaming, platforms like Steam face scrutiny over managing LGBTQ+ content, raising questions about censorship and diversity. Steam's content policies, influenced by international laws, impact creators and highlight the need for inclusive, transparent regulation in gaming."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T09:37:28+00:00"
-author: "Taylor Winters"
+title: Steam’s LGBTQ+ Content Censorship Under Russian Government Influence
+description: >-
+  In digital gaming, platforms like Steam face scrutiny over managing LGBTQ+
+  content, raising questions about censorship and diversity. Steam's content
+  policies, influenced by international laws, impact creators and highlight the
+  need for inclusive, transparent regulation in gaming.
+type: standard
+status: review
+publishDate: '2025-11-27T09:37:28+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "steams-lgbtq-content-censorship-under-russian-government-influence"
+  - Gaming News
+  - Community
+slug: steams-lgbtq-content-censorship-under-russian-government-influence
 reading_time: 3
-source_url: "https://gamingnewsalley.com/steams-lgbtq-content-censorship-under-russian-government-influence/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/steams-lgbtq-content-censorship-under-russian-government-influence/
+imported_from: wordpress
 wp_original_id: 42556
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/steams-lgbtq-content-censorship-under-russian-government-influence.webp
 seo:
-  canonical: "https://gamingnewsalley.com/steams-lgbtq-content-censorship-under-russian-government-influence/"
-  og_title: "Steam's LGBTQ+ Content Censorship Under Russian Government Influence - Gaming News Alley"
-  og_description: "In digital gaming, platforms like Steam face scrutiny over managing LGBTQ+ content, raising questions about censorship and diversity. Steam's content policies, influenced by international laws, impact creators and highlight the need for inclusive, transparent regulation in gaming."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/steams-lgbtq-content-censorship-under-russian-government-influence/
+  og_title: >-
+    Steam's LGBTQ+ Content Censorship Under Russian Government Influence -
+    Gaming News Alley
+  og_description: >-
+    In digital gaming, platforms like Steam face scrutiny over managing LGBTQ+
+    content, raising questions about censorship and diversity. Steam's content
+    policies, influenced by international laws, impact creators and highlight
+    the need for inclusive, transparent regulation in gaming.
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under target length at 460 words and lacks specific evidence for some claims about Steam's policies."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  under target length at 460 words and lacks specific evidence for some claims
+  about Steam's policies.
+image_alt: >-
+  Gaming monitor with censored digital tiles and a muted rainbow glow blocked by
+  an imposing shadow.
 ---
 
 In the world of digital gaming, platforms like Steam serve as pivotal gateways for content creators and consumers. However, there have been ongoing discussions about how Steam manages and sometimes restricts LGBTQ+ content. This issue raises significant questions about censorship, content regulation, and the impact on diverse voices in the gaming community.
