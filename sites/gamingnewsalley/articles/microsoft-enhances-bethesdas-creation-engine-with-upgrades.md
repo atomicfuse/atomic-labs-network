@@ -1,25 +1,37 @@
 ---
-title: "Microsoft Enhances Bethesda’s Creation Engine with Upgrades"
-description: "Bethesda Game Studios, with Microsoft's support, is enhancing its Creation Engine by integrating Unreal Engine-inspired elements. This collaboration aims to improve graphics, physics, and performance, promising more immersive experiences for gamers and setting new standards in the gaming industry."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T09:37:32+00:00"
-author: "Taylor Winters"
+title: Microsoft Enhances Bethesda’s Creation Engine with Upgrades
+description: >-
+  Bethesda Game Studios, with Microsoft's support, is enhancing its Creation
+  Engine by integrating Unreal Engine-inspired elements. This collaboration aims
+  to improve graphics, physics, and performance, promising more immersive
+  experiences for gamers and setting new standards in the gaming industry.
+type: standard
+status: published
+publishDate: '2025-12-22T09:37:32+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "microsoft-enhances-bethesdas-creation-engine-with-upgrades"
+  - Gaming News
+  - Community
+slug: microsoft-enhances-bethesdas-creation-engine-with-upgrades
 reading_time: 3
-source_url: "https://gamingnewsalley.com/microsoft-enhances-bethesdas-creation-engine-with-upgrades/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/microsoft-enhances-bethesdas-creation-engine-with-upgrades/
+imported_from: wordpress
 wp_original_id: 42572
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/microsoft-enhances-bethesdas-creation-engine-with-upgrades.webp
 seo:
-  canonical: "https://gamingnewsalley.com/microsoft-enhances-bethesdas-creation-engine-with-upgrades/"
-  og_title: "Microsoft Enhances Bethesda's Creation Engine with Upgrades - Gaming News Alley"
-  og_description: "Bethesda Game Studios, with Microsoft's support, is enhancing its Creation Engine by integrating Unreal Engine-inspired elements. This collaboration aims to improve graphics, physics, and performance, promising more immersive experiences for gamers and setting new standards in the gaming industry."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/12/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/microsoft-enhances-bethesdas-creation-engine-with-upgrades/
+  og_title: >-
+    Microsoft Enhances Bethesda's Creation Engine with Upgrades - Gaming News
+    Alley
+  og_description: >-
+    Bethesda Game Studios, with Microsoft's support, is enhancing its Creation
+    Engine by integrating Unreal Engine-inspired elements. This collaboration
+    aims to improve graphics, physics, and performance, promising more immersive
+    experiences for gamers and setting new standards in the gaming industry.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/12/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written gaming news piece with good tone and keyword coverage, but lacks specific factual backing and falls short of optimal length."
+quality_note: >-
+  Well-written gaming news piece with good tone and keyword coverage, but lacks
+  specific factual backing and falls short of optimal length.
+image_alt: >-
+  Futuristic game engine core generating a realistic digital world with flowing
+  blue and amber energy
 ---
 
 In the rapidly evolving world of video game development, innovation and cutting-edge technology play crucial roles in delivering immersive experiences. Bethesda Game Studios, renowned for its groundbreaking titles, is reportedly receiving significant support from Microsoft to enhance its Creation Engine. This collaboration aims to integrate elements reminiscent of Unreal Engine technology, promising to elevate the quality and performance of future game releases.
