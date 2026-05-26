@@ -1,27 +1,43 @@
 ---
-title: "Kristin Chenoweth’s Top Beauty Tips for Broadway Stars & Her Journey in ‘Wicked: For Good’"
-description: "Broadway star Kristin Chenoweth reveals her beauty routine, focusing on hydration and the importance of sunscreen, while sharing her favorite products and beauty inspirations including Audrey Hepburn, Dolly Parton, and her mother."
-type: "standard"
-status: "review"
-publishDate: "2025-04-10T07:01:33+00:00"
-author: "Taylor Winters"
+title: >-
+  Kristin Chenoweth’s Top Beauty Tips for Broadway Stars & Her Journey in
+  ‘Wicked: For Good’
+description: >-
+  Broadway star Kristin Chenoweth reveals her beauty routine, focusing on
+  hydration and the importance of sunscreen, while sharing her favorite products
+  and beauty inspirations including Audrey Hepburn, Dolly Parton, and her
+  mother.
+type: standard
+status: review
+publishDate: '2025-04-10T07:01:33+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty Tips"
-  - "Beauty"
-  - "Hair"
-  - "Makeup Hacks"
-slug: "kristin-chenoweths-top-beauty-tips-for-broadway-stars-her-journey-in-wicked-for-good"
+  - Beauty Tips
+  - Beauty
+  - Hair
+  - Makeup Hacks
+slug: >-
+  kristin-chenoweths-top-beauty-tips-for-broadway-stars-her-journey-in-wicked-for-good
 reading_time: 2
-source_url: "https://travelbeautytips.com/kristin-chenoweths-top-beauty-tips-for-broadway-stars-her-journey-in-wicked-for-good/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/kristin-chenoweths-top-beauty-tips-for-broadway-stars-her-journey-in-wicked-for-good/
+imported_from: wordpress
 wp_original_id: 35864
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/kristin-chenoweths-top-beauty-tips-for-broadway-stars-her-journey-in-wicked-for-good.webp
 seo:
-  canonical: "https://travelbeautytips.com/kristin-chenoweths-top-beauty-tips-for-broadway-stars-her-journey-in-wicked-for-good/"
-  og_title: "Kristin Chenoweth's Top Beauty Tips for Broadway Stars & Her Journey in 'Wicked: For Good' - Travel Beauty Tips"
-  og_description: "Broadway star Kristin Chenoweth reveals her beauty routine, focusing on hydration and the importance of sunscreen. She prefers natural hues for makeup and uses products like La Mer and EltaMD. Her beauty inspiration includes Audrey Hepburn, Dolly Parton, and her mother's natural beauty."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/kristin-chenoweths-top-beauty-tips-for-broadway-stars-her-journey-in-wicked-for-good/
+  og_title: >-
+    Kristin Chenoweth's Top Beauty Tips for Broadway Stars & Her Journey in
+    'Wicked: For Good' - Travel Beauty Tips
+  og_description: >-
+    Broadway star Kristin Chenoweth reveals her beauty routine, focusing on
+    hydration and the importance of sunscreen. She prefers natural hues for
+    makeup and uses products like La Mer and EltaMD. Her beauty inspiration
+    includes Audrey Hepburn, Dolly Parton, and her mother's natural beauty.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -29,7 +45,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article covers relevant beauty content with good tone but falls significantly short of the target word count at only 344 words, limiting its SEO potential and depth."
+quality_note: >-
+  The article covers relevant beauty content with good tone but falls
+  significantly short of the target word count at only 344 words, limiting its
+  SEO potential and depth.
+image_alt: >-
+  Glamorous Broadway vanity with skincare, sunscreen, water, and emerald-gold
+  stage lighting
 ---
 
 Renowned for her dazzling performances and timeless beauty, Kristin Chenoweth opens up about her beauty routine, secrets, and inspiration. A Broadway sensation and Emmy and Tony award winner, Kristin shares her beauty mantras and the products she can't live without.
