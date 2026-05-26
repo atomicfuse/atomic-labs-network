@@ -1,24 +1,40 @@
 ---
-title: "Bollywood Celebrities Elevate Athleisure to Luxury Fashion Trend"
-description: "Bollywood stars have embraced the athleisure trend, blending athletic and leisurewear to create a chic, comfortable style. Icons like Tiger Shroff and Sara Ali Khan have popularized this versatile fashion statement, showcasing its appeal across various occasions and settings."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T09:51:33+00:00"
-author: "Taylor Winters"
+title: Bollywood Celebrities Elevate Athleisure to Luxury Fashion Trend
+description: >-
+  Bollywood stars have embraced the athleisure trend, blending athletic and
+  leisurewear to create a chic, comfortable style. Icons like Tiger Shroff and
+  Sara Ali Khan have popularized this versatile fashion statement, showcasing
+  its appeal across various occasions and settings.
+type: standard
+status: published
+publishDate: '2025-12-04T09:51:33+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "bollywood-celebrities-elevate-athleisure-to-luxury-fashion-trend"
+  - Fashion
+slug: bollywood-celebrities-elevate-athleisure-to-luxury-fashion-trend
 reading_time: 3
-source_url: "https://fashionnewsbee.com/bollywood-celebrities-elevate-athleisure-to-luxury-fashion-trend/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/bollywood-celebrities-elevate-athleisure-to-luxury-fashion-trend/
+imported_from: wordpress
 wp_original_id: 31598
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/bollywood-celebrities-elevate-athleisure-to-luxury-fashion-trend.webp
 seo:
-  canonical: "https://fashionnewsbee.com/bollywood-celebrities-elevate-athleisure-to-luxury-fashion-trend/"
-  og_title: "Bollywood Celebrities Elevate Athleisure to Luxury Fashion Trend - Fashion News Bee"
-  og_description: "Bollywood stars have embraced the athleisure trend, blending athletic and leisurewear to create a chic, comfortable style. Icons like Tiger Shroff and Sara Ali Khan have popularized this versatile fashion statement, showcasing its appeal across various occasions and settings."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/bollywood-celebrities-elevate-athleisure-to-luxury-fashion-trend/
+  og_title: >-
+    Bollywood Celebrities Elevate Athleisure to Luxury Fashion Trend - Fashion
+    News Bee
+  og_description: >-
+    Bollywood stars have embraced the athleisure trend, blending athletic and
+    leisurewear to create a chic, comfortable style. Icons like Tiger Shroff and
+    Sara Ali Khan have popularized this versatile fashion statement, showcasing
+    its appeal across various occasions and settings.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish South Asian models in luxury athleisure on a golden-hour Mumbai
+  rooftop
 ---
 
 Bollywood is no stranger to setting trends, and the latest fashion phenomenon sweeping through the industry is athleisure. This versatile style blends athletic and leisurewear, offering both comfort and a chic appearance. Bollywood stars have embraced this trend, transforming it into a luxurious fashion statement that resonates with fans and fashion enthusiasts alike.
