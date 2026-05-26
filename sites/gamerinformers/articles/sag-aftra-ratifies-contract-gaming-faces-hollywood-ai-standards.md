@@ -1,25 +1,38 @@
 ---
-title: "SAG-AFTRA Ratifies Contract: Gaming Faces Hollywood AI Standards"
-description: "SAG-AFTRA members have ratified a new contract improving conditions and compensation for video game actors, marking a significant milestone in the industry by enhancing wages and safety while setting a precedent for future negotiations."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T04:25:30+00:00"
-author: "Taylor Winters"
+title: 'SAG-AFTRA Ratifies Contract: Gaming Faces Hollywood AI Standards'
+description: >-
+  SAG-AFTRA members have ratified a new contract improving conditions and
+  compensation for video game actors, marking a significant milestone in the
+  industry by enhancing wages and safety while setting a precedent for future
+  negotiations.
+type: standard
+status: review
+publishDate: '2025-07-10T04:25:30+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "sag-aftra-ratifies-contract-gaming-faces-hollywood-ai-standards"
+  - Gaming News
+  - Community
+slug: sag-aftra-ratifies-contract-gaming-faces-hollywood-ai-standards
 reading_time: 3
-source_url: "https://gamerinformers.com/sag-aftra-ratifies-contract-gaming-faces-hollywood-ai-standards/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/sag-aftra-ratifies-contract-gaming-faces-hollywood-ai-standards/
+imported_from: wordpress
 wp_original_id: 34037
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: >-
+  /assets/images/sag-aftra-ratifies-contract-gaming-faces-hollywood-ai-standards.webp
 seo:
-  canonical: "https://gamerinformers.com/sag-aftra-ratifies-contract-gaming-faces-hollywood-ai-standards/"
-  og_title: "SAG-AFTRA Ratifies Contract: Gaming Faces Hollywood AI Standards - Gamer Informers"
-  og_description: "In a groundbreaking move, SAG-AFTRA members have ratified a new contract improving conditions and compensation for video game actors, marking a significant milestone in the industry. This agreement enhances wages and safety, setting a precedent for future negotiations."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/07/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/sag-aftra-ratifies-contract-gaming-faces-hollywood-ai-standards/
+  og_title: >-
+    SAG-AFTRA Ratifies Contract: Gaming Faces Hollywood AI Standards - Gamer
+    Informers
+  og_description: >-
+    In a groundbreaking move, SAG-AFTRA members have ratified a new contract
+    improving conditions and compensation for video game actors, marking a
+    significant milestone in the industry. This agreement enhances wages and
+    safety, setting a precedent for future negotiations.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/07/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Well-written gaming news piece with good tone and keyword coverage, but falls short on length (547 words vs 800-1200 target) and lacks specific details that would strengthen factual credibility."
+quality_note: >-
+  Well-written gaming news piece with good tone and keyword coverage, but falls
+  short on length (547 words vs 800-1200 target) and lacks specific details that
+  would strengthen factual credibility.
+image_alt: >-
+  Motion-capture studio with a glowing digital figure facing an actor's
+  spotlight
 ---
 
 In a groundbreaking development for the video game industry, members of SAG-AFTRA have voted to ratify a new contract that promises to enhance the working conditions and compensation for video game actors. This agreement marks a significant milestone, reflecting the union's commitment to securing better terms for its members in a rapidly evolving industry.
