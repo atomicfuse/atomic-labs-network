@@ -1,21 +1,27 @@
 ---
-title: "Catch the Eta Aquariid Meteor Shower at Its Peak"
-description: "As Earth passes through debris from Halley's Comet, the Eta Aquariid meteor shower promises a celestial spectacle. Known for its bright, swift meteors, it peaks in early May, offering stargazers a breathtaking display, particularly visible in the Southern Hemisphere."
-type: "standard"
-status: "published"
-publishDate: "2025-05-05T08:51:29"
-author: "Taylor Winters"
+title: Catch the Eta Aquariid Meteor Shower at Its Peak
+description: >-
+  As Earth passes through debris from Halley's Comet, the Eta Aquariid meteor
+  shower promises a celestial spectacle. Known for its bright, swift meteors, it
+  peaks in early May, offering stargazers a breathtaking display, particularly
+  visible in the Southern Hemisphere.
+type: standard
+status: published
+publishDate: '2025-05-05T08:51:29'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "catch-the-eta-aquariid-meteor-shower-at-its-peak"
+  - Space
+slug: catch-the-eta-aquariid-meteor-shower-at-its-peak
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/catch-the-eta-aquariid-meteor-shower-at-its-peak/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/catch-the-eta-aquariid-meteor-shower-at-its-peak/
+imported_from: wordpress
 wp_original_id: 14954
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/catch-the-eta-aquariid-meteor-shower-at-its-peak.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/catch-the-eta-aquariid-meteor-shower-at-its-peak/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/catch-the-eta-aquariid-meteor-shower-at-its-peak/
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -23,7 +29,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written space article with engaging tone and accurate information, but falls short of ideal length and could benefit from stronger SEO optimization in the title."
+quality_note: >-
+  Well-written space article with engaging tone and accurate information, but
+  falls short of ideal length and could benefit from stronger SEO optimization
+  in the title.
+image_alt: >-
+  A silhouetted stargazer watches meteors streak across a dark predawn sky over
+  a remote coastline.
 ---
 
 As the Earth journeys through the cosmic debris left by Halley's Comet, stargazers are in for a celestial treat. The Eta Aquariid meteor shower, known for its swift and bright meteors, is set to dazzle the night sky soon.
