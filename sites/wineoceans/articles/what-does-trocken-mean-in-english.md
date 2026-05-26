@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-what-does-trocken-mean-in-english
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/what-does-trocken-mean-in-english.webp
 reading_time: 2
 quality_score: 69
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Strong keyword relevance and decent tone for beginners, but significantly too
   short at 306 words and lacks specific technical details about residual sugar
   levels.
+image_alt: >-
+  A glass of pale German white wine on slate with grapes and mineral stones in
+  soft vineyard light.
 ---
 ## What Does Trocken Mean?
 
