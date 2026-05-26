@@ -1,24 +1,32 @@
 ---
-title: "TLOU Season 3 Release Date: Why the Wait is Long"
-description: "The anticipation for \"The Last of Us\" season three is building, with no official release date yet. The series' blend of emotional storytelling and high-stakes drama has captivated a broad audience, setting high expectations for the upcoming season."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T08:55:26+00:00"
-author: "Becca Roberts"
+title: 'TLOU Season 3 Release Date: Why the Wait is Long'
+description: >-
+  The anticipation for "The Last of Us" season three is building, with no
+  official release date yet. The series' blend of emotional storytelling and
+  high-stakes drama has captivated a broad audience, setting high expectations
+  for the upcoming season.
+type: standard
+status: published
+publishDate: '2025-07-03T08:55:26+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "tlou-season-3-release-date-why-the-wait-is-long"
+  - Watch
+slug: tlou-season-3-release-date-why-the-wait-is-long
 reading_time: 3
-source_url: "https://buzzsoaps.com/tlou-season-3-release-date-why-the-wait-is-long/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/tlou-season-3-release-date-why-the-wait-is-long/'
+imported_from: wordpress
 wp_original_id: 444
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/tlou-season-3-release-date-why-the-wait-is-long.webp
 seo:
-  canonical: "https://buzzsoaps.com/tlou-season-3-release-date-why-the-wait-is-long/"
-  og_title: "TLOU Season 3 Release Date: Why the Wait is Long - BuzzSoaps!"
-  og_description: "The anticipation for \"The Last of Us\" season three is building, with no official release date yet. The series' blend of emotional storytelling and high-stakes drama has captivated a broad audience, setting high expectations for the upcoming season."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/07/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/tlou-season-3-release-date-why-the-wait-is-long/'
+  og_title: 'TLOU Season 3 Release Date: Why the Wait is Long - BuzzSoaps!'
+  og_description: >-
+    The anticipation for "The Last of Us" season three is building, with no
+    official release date yet. The series' blend of emotional storytelling and
+    high-stakes drama has captivated a broad audience, setting high expectations
+    for the upcoming season.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/07/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written entertainment article with good tone and keyword relevance, but falls short on length and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written entertainment article with good tone and keyword relevance, but
+  falls short on length and could benefit from stronger SEO optimization.
+image_alt: >-
+  Two silhouettes wait on an overgrown abandoned platform beneath a cracked
+  clock at dusk.
 ---
 
 The anticipation surrounding the continuation of the critically acclaimed series "The Last of Us" is reaching new heights. The show's gripping narrative and complex characters have kept audiences hooked, and fans are eagerly awaiting more. Although the official release date for season three has not been announced, there are several hints and developments to explore.
