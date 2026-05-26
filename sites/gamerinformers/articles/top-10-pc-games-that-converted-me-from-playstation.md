@@ -1,24 +1,35 @@
 ---
-title: "Top 10 PC Games That Converted Me from PlayStation"
-description: "Transitioning from console to PC gaming offers enhanced graphics, extensive modding opportunities, and access to exclusive titles, redefining gaming experiences. PC gaming's flexibility allows for hardware upgrades and personalized gameplay, attracting many console gamers to explore this expansive realm."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T04:19:31+00:00"
-author: "Taylor Winters"
+title: Top 10 PC Games That Converted Me from PlayStation
+description: >-
+  Transitioning from console to PC gaming offers enhanced graphics, extensive
+  modding opportunities, and access to exclusive titles, redefining gaming
+  experiences. PC gaming's flexibility allows for hardware upgrades and
+  personalized gameplay, attracting many console gamers to explore this
+  expansive realm.
+type: standard
+status: published
+publishDate: '2025-07-03T04:19:31+00:00'
+author: Taylor Winters
 tags:
-  - "PC Games"
-  - "Community"
-slug: "top-10-pc-games-that-converted-me-from-playstation"
+  - PC Games
+  - Community
+slug: top-10-pc-games-that-converted-me-from-playstation
 reading_time: 3
-source_url: "https://gamerinformers.com/top-10-pc-games-that-converted-me-from-playstation/"
-imported_from: "wordpress"
+source_url: 'https://gamerinformers.com/top-10-pc-games-that-converted-me-from-playstation/'
+imported_from: wordpress
 wp_original_id: 34035
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: /assets/images/top-10-pc-games-that-converted-me-from-playstation.webp
 seo:
-  canonical: "https://gamerinformers.com/top-10-pc-games-that-converted-me-from-playstation/"
-  og_title: "Top 10 PC Games That Converted Me from PlayStation - Gamer Informers"
-  og_description: "Transitioning from console to PC gaming offers enhanced graphics, extensive modding opportunities, and access to exclusive titles, redefining gaming experiences. PC gaming's flexibility allows for hardware upgrades and personalized gameplay, attracting many console gamers to explore this expansive realm."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/top-10-pc-games-that-converted-me-from-playstation/
+  og_title: Top 10 PC Games That Converted Me from PlayStation - Gamer Informers
+  og_description: >-
+    Transitioning from console to PC gaming offers enhanced graphics, extensive
+    modding opportunities, and access to exclusive titles, redefining gaming
+    experiences. PC gaming's flexibility allows for hardware upgrades and
+    personalized gameplay, attracting many console gamers to explore this
+    expansive realm.
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate information, but significantly under target word count at 527 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written article with good tone and accurate information, but
+  significantly under target word count at 527 words versus the 800-1200 target
+  range.
+image_alt: >-
+  A glowing PC gaming setup with a controller set aside, suggesting a move from
+  console to PC.
 ---
 
 Transitioning from console gaming to PC offers an expansive world of opportunities, with games that showcase superior graphics, extensive modding options, and a diverse range of genres. Many gamers find the shift rewarding as it opens up access to exclusive titles that redefine gaming experiences. For those who have been loyal to consoles like the PlayStation, certain PC-exclusive games may serve as the key motivators to explore the realm of PC gaming.
