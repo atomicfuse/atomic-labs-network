@@ -1,25 +1,38 @@
 ---
-title: "Premier League Legend Urges Manchester City Star to Join MLS"
-description: "In recent times, Major League Soccer's allure has grown, attracting top talents globally. Discussions around Premier League stars like Jack Grealish considering MLS highlight the league's expanding popularity and competitive nature, offering new horizons and experiences outside Europe's top leagues."
-type: "standard"
-status: "published"
-publishDate: "2025-05-22T04:21:22+00:00"
-author: "Taylor Winters"
+title: Premier League Legend Urges Manchester City Star to Join MLS
+description: >-
+  In recent times, Major League Soccer's allure has grown, attracting top
+  talents globally. Discussions around Premier League stars like Jack Grealish
+  considering MLS highlight the league's expanding popularity and competitive
+  nature, offering new horizons and experiences outside Europe's top leagues.
+type: standard
+status: published
+publishDate: '2025-05-22T04:21:22+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Adama Traoré"
-slug: "premier-league-legend-urges-manchester-city-star-to-join-mls"
+  - Latest News
+  - Adama Traoré
+slug: premier-league-legend-urges-manchester-city-star-to-join-mls
 reading_time: 4
-source_url: "https://soccernewsreports.com/premier-league-legend-urges-manchester-city-star-to-join-mls/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/premier-league-legend-urges-manchester-city-star-to-join-mls/
+imported_from: wordpress
 wp_original_id: 37857
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/premier-league-legend-urges-manchester-city-star-to-join-mls.webp
 seo:
-  canonical: "https://soccernewsreports.com/premier-league-legend-urges-manchester-city-star-to-join-mls/"
-  og_title: "Premier League Legend Urges Manchester City Star to Join MLS - Soccer News Reports"
-  og_description: "In recent times, Major League Soccer's allure has grown, attracting top talents globally. Discussions around Premier League stars like Jack Grealish considering MLS highlight the league's expanding popularity and competitive nature, offering new horizons and experiences outside Europe's top leagues."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/05/make_file-12.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/premier-league-legend-urges-manchester-city-star-to-join-mls/
+  og_title: >-
+    Premier League Legend Urges Manchester City Star to Join MLS - Soccer News
+    Reports
+  og_description: >-
+    In recent times, Major League Soccer's allure has grown, attracting top
+    talents globally. Discussions around Premier League stars like Jack Grealish
+    considering MLS highlight the league's expanding popularity and competitive
+    nature, offering new horizons and experiences outside Europe's top leagues.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/05/make_file-12.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 60
-quality_note: "Well-written article with engaging tone and good structure, but falls short of target word count and has limited relevance to the site's core soccer focus areas."
+quality_note: >-
+  Well-written article with engaging tone and good structure, but falls short of
+  target word count and has limited relevance to the site's core soccer focus
+  areas.
+image_alt: >-
+  Soccer player facing a transition from a European stadium to a bright American
+  soccer scene.
 ---
 
 In recent times, the allure of Major League Soccer (MLS) has grown significantly, attracting some of the best soccer talents from around the world. This trend is fueled by the league's expanding popularity and competitive nature. Among the latest discussions in the soccer community is whether Premier League stars, such as Jack Grealish, might consider MLS as a future destination.
