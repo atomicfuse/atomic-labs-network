@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.cgmagonline.com/articles/previews/hands-on-outward-2s/'
 source_item_id: 6a14214f16f23264031d7dce
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/outward-2-closed-beta-preview-anti-power-fantasy-rpg.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong gaming content and tone but severely penalized for apparent fabrication
   of release date and beta details, plus being too short at 626 words.
 reading_time: 3
+image_alt: >-
+  Two weary travelers with heavy packs face a misty wilderness and distant
+  fortress at dawn.
 ---
 ## Outward 2 Doubles Down on Vulnerability Over Power Fantasy
 
