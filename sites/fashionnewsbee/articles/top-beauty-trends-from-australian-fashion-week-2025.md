@@ -1,24 +1,38 @@
 ---
-title: "Top Beauty Trends from Australian Fashion Week 2025"
-description: "As beauty trends evolve towards 2025, the industry is prioritizing sustainability, inclusivity, and technology. Eco-friendly practices, ethical sourcing, and personalized solutions are reshaping the landscape, ensuring products are both effective and environmentally conscious."
-type: "standard"
-status: "published"
-publishDate: "2025-05-22T04:33:23+00:00"
-author: "Taylor Winters"
+title: Top Beauty Trends from Australian Fashion Week 2025
+description: >-
+  As beauty trends evolve towards 2025, the industry is prioritizing
+  sustainability, inclusivity, and technology. Eco-friendly practices, ethical
+  sourcing, and personalized solutions are reshaping the landscape, ensuring
+  products are both effective and environmentally conscious.
+type: standard
+status: published
+publishDate: '2025-05-22T04:33:23+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-slug: "top-beauty-trends-from-australian-fashion-week-2025"
+  - Beauty
+slug: top-beauty-trends-from-australian-fashion-week-2025
 reading_time: 3
-source_url: "https://fashionnewsbee.com/top-beauty-trends-from-australian-fashion-week-2025/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/top-beauty-trends-from-australian-fashion-week-2025/
+imported_from: wordpress
 wp_original_id: 31522
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-beauty-trends-from-australian-fashion-week-2025.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-beauty-trends-from-australian-fashion-week-2025/"
-  og_title: "Top Beauty Trends from Australian Fashion Week 2025 - Fashion News Bee"
-  og_description: "As beauty trends evolve towards 2025, the industry is prioritizing sustainability, inclusivity, and technology. Eco-friendly practices, ethical sourcing, and personalized solutions are reshaping the landscape, ensuring products are both effective and environmentally conscious. This transformation reflects broader ethical values."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/top-beauty-trends-from-australian-fashion-week-2025/
+  og_title: Top Beauty Trends from Australian Fashion Week 2025 - Fashion News Bee
+  og_description: >-
+    As beauty trends evolve towards 2025, the industry is prioritizing
+    sustainability, inclusivity, and technology. Eco-friendly practices, ethical
+    sourcing, and personalized solutions are reshaping the landscape, ensuring
+    products are both effective and environmentally conscious. This
+    transformation reflects broader ethical values.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Diverse models backstage with sustainable beauty products and futuristic
+  styling accents
 ---
 
 In the ever-evolving world of beauty and wellness, trends are shifting as we approach 2025. As consumers become more discerning, the industry is responding with innovations that prioritize sustainability, inclusivity, and technology. These changes are not just about looking good but also about feeling good and making environmentally conscious choices.
