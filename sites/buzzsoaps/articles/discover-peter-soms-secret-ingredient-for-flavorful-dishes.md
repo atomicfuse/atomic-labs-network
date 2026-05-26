@@ -1,24 +1,34 @@
 ---
-title: "Discover Peter Som’s Secret Ingredient for Flavorful Dishes"
-description: "Renowned fashion designer Peter Som transitions from runway to kitchen, blending food and family in his debut cookbook. Celebrating multicultural traditions, Som's recipes reflect his artistic journey, combining Chinese roots and American upbringing with vibrant flavors and personal anecdotes."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T10:05:41+00:00"
-author: "Becca Roberts"
+title: Discover Peter Som’s Secret Ingredient for Flavorful Dishes
+description: >-
+  Renowned fashion designer Peter Som transitions from runway to kitchen,
+  blending food and family in his debut cookbook. Celebrating multicultural
+  traditions, Som's recipes reflect his artistic journey, combining Chinese
+  roots and American upbringing with vibrant flavors and personal anecdotes.
+type: standard
+status: review
+publishDate: '2025-05-22T10:05:41+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-slug: "discover-peter-soms-secret-ingredient-for-flavorful-dishes"
+  - Culture Buzz
+slug: discover-peter-soms-secret-ingredient-for-flavorful-dishes
 reading_time: 4
-source_url: "https://buzzsoaps.com/discover-peter-soms-secret-ingredient-for-flavorful-dishes/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/discover-peter-soms-secret-ingredient-for-flavorful-dishes/
+imported_from: wordpress
 wp_original_id: 426
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/discover-peter-soms-secret-ingredient-for-flavorful-dishes.webp
 seo:
-  canonical: "https://buzzsoaps.com/discover-peter-soms-secret-ingredient-for-flavorful-dishes/"
-  og_title: "Discover Peter Som's Secret Ingredient for Flavorful Dishes - BuzzSoaps!"
-  og_description: "Renowned fashion designer Peter Som transitions from runway to kitchen, blending food and family in his debut cookbook. Celebrating multicultural traditions, Som's recipes reflect his artistic journey, combining Chinese roots and American upbringing with vibrant flavors and personal anecdotes."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-106.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/discover-peter-soms-secret-ingredient-for-flavorful-dishes/
+  og_title: Discover Peter Som's Secret Ingredient for Flavorful Dishes - BuzzSoaps!
+  og_description: >-
+    Renowned fashion designer Peter Som transitions from runway to kitchen,
+    blending food and family in his debut cookbook. Celebrating multicultural
+    traditions, Som's recipes reflect his artistic journey, combining Chinese
+    roots and American upbringing with vibrant flavors and personal anecdotes.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-106.jpeg'
+  twitter_card: summary_large_image
 quality_score: 61
 score_breakdown:
   seo_quality: 45
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "The article has good tone and appears factually sound, but lacks SEO optimization, is too short for target length, and doesn't align well with entertainment-focused keyword strategy."
+quality_note: >-
+  The article has good tone and appears factually sound, but lacks SEO
+  optimization, is too short for target length, and doesn't align well with
+  entertainment-focused keyword strategy.
+image_alt: >-
+  Couture-inspired plated dish on a warm kitchen table with herbs, silk fabric,
+  and family-style bowls.
 ---
 
 Renowned fashion designer Peter Som has shifted his creative focus from the runway to the kitchen, blending his love for food and family in his debut cookbook. Known for his vibrant and distinct fashion collections, Som now invites readers into his culinary world through a collection of recipes that celebrate his family's multicultural traditions.
