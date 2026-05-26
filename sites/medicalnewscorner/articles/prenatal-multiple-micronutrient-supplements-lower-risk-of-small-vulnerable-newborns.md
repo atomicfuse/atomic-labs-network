@@ -1,24 +1,44 @@
 ---
-title: "Prenatal multiple micronutrient supplements lower risk of small, vulnerable newborns"
-description: "A new meta-analysis published in The Lancet Global Health found that prenatal multiple micronutrient supplementation (MMS) significantly reduces the risk of small, vulnerable newborns, supporting a potential shift in antenatal care guidelines from iron and folic acid to MMS in low- and middle-income countries."
-type: "standard"
-status: "published"
-publishDate: "2025-02-01T06:06:23+00:00"
-author: "admin"
+title: >-
+  Prenatal multiple micronutrient supplements lower risk of small, vulnerable
+  newborns
+description: >-
+  A new meta-analysis published in The Lancet Global Health found that prenatal
+  multiple micronutrient supplementation (MMS) significantly reduces the risk of
+  small, vulnerable newborns, supporting a potential shift in antenatal care
+  guidelines from iron and folic acid to MMS in low- and middle-income
+  countries.
+type: standard
+status: published
+publishDate: '2025-02-01T06:06:23+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Children"
-slug: "prenatal-multiple-micronutrient-supplements-lower-risk-of-small-vulnerable-newborns"
+  - Health News
+  - Children
+slug: >-
+  prenatal-multiple-micronutrient-supplements-lower-risk-of-small-vulnerable-newborns
 reading_time: 4
-source_url: "https://medicalnewscorner.com/prenatal-multiple-micronutrient-supplements-lower-risk-of-small-vulnerable-newborns/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/prenatal-multiple-micronutrient-supplements-lower-risk-of-small-vulnerable-newborns/
+imported_from: wordpress
 wp_original_id: 24447
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/prenatal-multiple-micronutrient-supplements-lower-risk-of-small-vulnerable-newborns.webp
 seo:
-  canonical: "https://medicalnewscorner.com/prenatal-multiple-micronutrient-supplements-lower-risk-of-small-vulnerable-newborns/"
-  og_title: "Prenatal multiple micronutrient supplements lower risk of small, vulnerable newborns - Medical News Corner"
-  og_description: "New research highlights a 27% reduction in adverse birth outcomes with prenatal MMS, supporting a shift in antenatal care guidelines Study: The effects of prenatal multiple micronutrient supplementation and small-quantity lipid-based nutrient supplementation on small vulnerable newborn types in low-income and middle-income countries: a meta-analysis of individual participant data. Image Credit: Auttapol Tatiyarat/Shutterstock.com A new [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/prenatal-multiple-micronutrient-supplements-lower-risk-of-small-vulnerable-newborns/
+  og_title: >-
+    Prenatal multiple micronutrient supplements lower risk of small, vulnerable
+    newborns - Medical News Corner
+  og_description: >-
+    New research highlights a 27% reduction in adverse birth outcomes with
+    prenatal MMS, supporting a shift in antenatal care guidelines Study: The
+    effects of prenatal multiple micronutrient supplementation and
+    small-quantity lipid-based nutrient supplementation on small vulnerable
+    newborn types in low-income and middle-income countries: a meta-analysis of
+    individual participant data. Image Credit: Auttapol
+    Tatiyarat/Shutterstock.com A new [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 88
 score_breakdown:
   seo_quality: 78
@@ -26,7 +46,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 92
   keyword_relevance: 88
-quality_note: "Well-researched health news article with good scientific depth and proper citations, though the title could be more compelling and some sections are quite technical for the target audience."
+quality_note: >-
+  Well-researched health news article with good scientific depth and proper
+  citations, though the title could be more compelling and some sections are
+  quite technical for the target audience.
+image_alt: >-
+  Expectant mother receives prenatal nutrition support in a warm sunlit clinic
+  setting.
 ---
 
 _**New research highlights a 27% reduction in adverse birth outcomes with prenatal MMS, supporting a shift in antenatal care guidelines**_
