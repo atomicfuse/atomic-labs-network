@@ -1,26 +1,40 @@
 ---
-title: "Exploring the Link: Antidepressant Use and the Risk of Sudden Cardiac Death"
-description: "The potential link between antidepressants and sudden cardiac death is a complex issue under investigation. Factors like overall health, medication type, and duration of use can influence the relationship, with studies showing mixed results on the associated risks."
-type: "standard"
-status: "published"
-publishDate: "2025-04-07T04:16:30+00:00"
-author: "Taylor Winters"
+title: 'Exploring the Link: Antidepressant Use and the Risk of Sudden Cardiac Death'
+description: >-
+  The potential link between antidepressants and sudden cardiac death is a
+  complex issue under investigation. Factors like overall health, medication
+  type, and duration of use can influence the relationship, with studies showing
+  mixed results on the associated risks.
+type: standard
+status: published
+publishDate: '2025-04-07T04:16:30+00:00'
+author: Taylor Winters
 tags:
-  - "Clinical Trials &amp; Research"
-  - "Drugs"
-  - "Mental Health"
-slug: "exploring-the-link-antidepressant-use-and-the-risk-of-sudden-cardiac-death"
+  - Clinical Trials &amp; Research
+  - Drugs
+  - Mental Health
+slug: exploring-the-link-antidepressant-use-and-the-risk-of-sudden-cardiac-death
 reading_time: 2
-source_url: "https://medicalnewscorner.com/exploring-the-link-antidepressant-use-and-the-risk-of-sudden-cardiac-death/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/exploring-the-link-antidepressant-use-and-the-risk-of-sudden-cardiac-death/
+imported_from: wordpress
 wp_original_id: 24604
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-the-link-antidepressant-use-and-the-risk-of-sudden-cardiac-death.webp
 seo:
-  canonical: "https://medicalnewscorner.com/exploring-the-link-antidepressant-use-and-the-risk-of-sudden-cardiac-death/"
-  og_title: "Exploring the Link: Antidepressant Use and the Risk of Sudden Cardiac Death - Medical News Corner"
-  og_description: "The potential link between antidepressants and sudden cardiac death is a complex issue under investigation. Factors like overall health, medication type, and duration of use can influence the relationship. While some studies show increased risk, others report no significant increase, underlining the topic's complexity."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/exploring-the-link-antidepressant-use-and-the-risk-of-sudden-cardiac-death/
+  og_title: >-
+    Exploring the Link: Antidepressant Use and the Risk of Sudden Cardiac Death
+    - Medical News Corner
+  og_description: >-
+    The potential link between antidepressants and sudden cardiac death is a
+    complex issue under investigation. Factors like overall health, medication
+    type, and duration of use can influence the relationship. While some studies
+    show increased risk, others report no significant increase, underlining the
+    topic's complexity.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -28,7 +42,10 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 88
   keyword_relevance: 92
-quality_note: "Well-written article with good tone and keyword relevance, but significantly under target word count at 393 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  under target word count at 393 words versus the 800-1200 target range.
+image_alt: Stethoscope and unbranded medicine bottle on a softly lit clinical desk
 ---
 
 The world of pharmacology is a complex one, and antidepressants are no exception. One question under investigation is whether these medications, designed to improve mental health, could pose a risk to heart health. Specifically, the concern centers on the potential of antidepressants to increase the likelihood of sudden cardiac death.
