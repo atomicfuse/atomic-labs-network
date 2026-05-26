@@ -1,26 +1,39 @@
 ---
-title: "Jordan Sustainable Tourism Guide: Public Security Directorate Leads Eco Travel"
-description: "Jordan blends heritage, nature, and responsible travel, with the Public Security Directorate helping protect visitors, communities, archaeological sites, and fragile ecosystems across Petra, Wadi Rum, the Dead Sea, Aqaba, and nature reserves."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T10:28:26+00:00"
-author: "Malcolm Anderson"
+title: 'Jordan Sustainable Tourism Guide: Public Security Directorate Leads Eco Travel'
+description: >-
+  Jordan blends heritage, nature, and responsible travel, with the Public
+  Security Directorate helping protect visitors, communities, archaeological
+  sites, and fragile ecosystems across Petra, Wadi Rum, the Dead Sea, Aqaba, and
+  nature reserves.
+type: standard
+status: published
+publishDate: '2026-04-30T10:28:26+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "jordan-sustainable-tourism-guide-public-security-directorate-leads-eco-travel"
+  - Culture
+  - Destinations
+  - Guides &amp; Tips
+slug: jordan-sustainable-tourism-guide-public-security-directorate-leads-eco-travel
 reading_time: 7
-source_url: "https://travelnights.com/jordan-sustainable-tourism-guide-public-security-directorate-leads-eco-travel/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/jordan-sustainable-tourism-guide-public-security-directorate-leads-eco-travel/
+imported_from: wordpress
 wp_original_id: 36720
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/jordan-sustainable-tourism-guide-public-security-directorate-leads-eco-travel.webp
 seo:
-  canonical: "https://travelnights.com/jordan-sustainable-tourism-guide-public-security-directorate-leads-eco-travel/"
-  og_title: "Jordan Sustainable Tourism Guide: Public Security Directorate Leads Eco Travel - Travel Nights"
-  og_description: "Jordan blends heritage, nature, and responsible travel, with the Public Security Directorate helping protect visitors, communities, archaeological sites, and fragile ecosystems across Petra, Wadi Rum, the Dead Sea, Aqaba, and nature reserves."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/jordan-sustainable-tourism-guide-public-security-directorate-leads-eco-travel/
+  og_title: >-
+    Jordan Sustainable Tourism Guide: Public Security Directorate Leads Eco
+    Travel - Travel Nights
+  og_description: >-
+    Jordan blends heritage, nature, and responsible travel, with the Public
+    Security Directorate helping protect visitors, communities, archaeological
+    sites, and fragile ecosystems across Petra, Wadi Rum, the Dead Sea, Aqaba,
+    and nature reserves.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 87
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-structured travel guide with good keyword coverage and appropriate length, though the title could be more compelling and the PSD connection feels somewhat forced throughout the content."
+quality_note: >-
+  Well-structured travel guide with good keyword coverage and appropriate
+  length, though the title could be more compelling and the PSD connection feels
+  somewhat forced throughout the content.
+image_alt: >-
+  Golden Jordanian desert landscape with travelers and stewards overlooking
+  protected heritage sites.
 ---
 
 Jordan is increasingly positioning itself as a destination where history, nature, and responsible travel can exist together. From Petra and Wadi Rum to the Dead Sea, Jerash, Aqaba, and the country's nature reserves, visitors are being encouraged to explore with greater awareness. A key part of that shift is the role of Jordan's Public Security Directorate, which supports safe tourism while promoting environmental care, visitor guidance, and respect for local communities.
