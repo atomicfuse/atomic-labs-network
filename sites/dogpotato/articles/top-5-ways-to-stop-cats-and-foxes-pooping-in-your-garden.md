@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-top-5-ways-to-stop-cats-and-foxes-pooping-in-your-garden
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/top-5-ways-to-stop-cats-and-foxes-pooping-in-your-garden.webp
 reading_time: 3
 quality_score: 74
 score_breakdown:
@@ -34,6 +34,7 @@ quality_note: >-
   The article has good structure and tone but falls short on word count (511 vs
   target 800-1200) and could benefit from stronger SEO optimization and more
   specific pet-focused content.
+image_alt: A tidy garden with humane deterrents as a cat and fox linger near the edge
 ---
 ## Understanding the Problem
 
