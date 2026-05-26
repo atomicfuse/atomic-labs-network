@@ -1,28 +1,37 @@
 ---
-title: "Shipping and Packaging Tips for Craft Businesses"
-description: "Practical shipping and packaging tips for craft and small business owners, covering how to find the best rates, protect items, create standout packages, overcome common challenges, and speed up the shipping process."
-type: "standard"
-status: "published"
-publishDate: "2025-01-14T09:28:03+00:00"
-author: "admin"
+title: Shipping and Packaging Tips for Craft Businesses
+description: >-
+  Practical shipping and packaging tips for craft and small business owners,
+  covering how to find the best rates, protect items, create standout packages,
+  overcome common challenges, and speed up the shipping process.
+type: standard
+status: published
+publishDate: '2025-01-14T09:28:03+00:00'
+author: admin
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "shipping-and-packaging-tips-for-craft-businesses"
+  - Decor Ideas
+  - Design
+slug: shipping-and-packaging-tips-for-craft-businesses
 reading_time: 6
-source_url: "https://decoratingtricks.com/shipping-and-packaging-tips-for-craft-businesses/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/shipping-and-packaging-tips-for-craft-businesses/'
+imported_from: wordpress
 wp_original_id: 21185
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/shipping-and-packaging-tips-for-craft-businesses.webp
 seo:
-  canonical: "https://decoratingtricks.com/shipping-and-packaging-tips-for-craft-businesses/"
-  og_title: "Shipping and Packaging Tips for Craft Businesses - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. If you&#x2019;re a small business owner [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/shipping-and-packaging-tips-for-craft-businesses/
+  og_title: Shipping and Packaging Tips for Craft Businesses - Decorating Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. If you&#x2019;re a small
+    business owner [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "01d63c63"
-    url: "https://www.youtube.com/watch?v=_xh-KfhRRAA"
-    position: "after-paragraph-6"
+  - id: 01d63c63
+    url: 'https://www.youtube.com/watch?v=_xh-KfhRRAA'
+    position: after-paragraph-6
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -30,7 +39,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 30
-quality_note: "While well-written and informative, this article focuses on business shipping rather than home decor/garden topics, making it poorly aligned with the site's core audience and SEO keywords."
+quality_note: >-
+  While well-written and informative, this article focuses on business shipping
+  rather than home decor/garden topics, making it poorly aligned with the site's
+  core audience and SEO keywords.
+image_alt: >-
+  Organized craft shipping station with handmade goods, packing materials,
+  boxes, twine, and a scale
 ---
 
 If you're a small [business](https://www.thecountrychiccottage.net/craft-business-myths/) owner who sells physical items, you have probably struggled with shipping and packaging. Let's chat about shipping and packaging tips that are helpful for craft and small business owners.
