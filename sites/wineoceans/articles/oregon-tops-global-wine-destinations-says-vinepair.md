@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-oregon-tops-global-wine-destinations-says-vinepair
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/oregon-tops-global-wine-destinations-says-vinepair.webp
 reading_time: 2
 quality_score: 58
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   While the article covers relevant wine news topics well, it falls
   significantly short on length and appears to make unsupported claims about
   VinePair's designation without proper verification or sources.
+image_alt: >-
+  Golden-hour Oregon vineyard with wine glasses overlooking misty evergreen
+  hills
 ---
 ## Oregon Earns Top Recognition in Wine Tourism
 
