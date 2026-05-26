@@ -1,25 +1,38 @@
 ---
-title: "Sunderland vs Everton: Live Stream, TV Channel, Start Time"
-description: "The Premier League clash between Sunderland and Everton promises excitement with both teams gearing up for an intense match. Fans can catch the action live via major sports networks or online streaming platforms, ensuring they don't miss a moment."
-type: "standard"
-status: "review"
-publishDate: "2025-11-03T09:35:29+00:00"
-author: "Taylor Winters"
+title: 'Sunderland vs Everton: Live Stream, TV Channel, Start Time'
+description: >-
+  The Premier League clash between Sunderland and Everton promises excitement
+  with both teams gearing up for an intense match. Fans can catch the action
+  live via major sports networks or online streaming platforms, ensuring they
+  don't miss a moment.
+type: standard
+status: review
+publishDate: '2025-11-03T09:35:29+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alex Iwobi"
-slug: "sunderland-vs-everton-live-stream-tv-channel-start-time"
+  - Latest News
+  - Alex Iwobi
+slug: sunderland-vs-everton-live-stream-tv-channel-start-time
 reading_time: 4
-source_url: "https://soccernewsreports.com/sunderland-vs-everton-live-stream-tv-channel-start-time/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/sunderland-vs-everton-live-stream-tv-channel-start-time/
+imported_from: wordpress
 wp_original_id: 37916
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/sunderland-vs-everton-live-stream-tv-channel-start-time.webp
 seo:
-  canonical: "https://soccernewsreports.com/sunderland-vs-everton-live-stream-tv-channel-start-time/"
-  og_title: "Sunderland vs Everton: Live Stream, TV Channel, Start Time - Soccer News Reports"
-  og_description: "The Premier League clash between Sunderland and Everton promises excitement with both teams gearing up for an intense match. Fans can catch the action live via major sports networks or online streaming platforms, ensuring they don't miss a moment."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/11/make_GettyImages-2243272159.jpg.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/sunderland-vs-everton-live-stream-tv-channel-start-time/
+  og_title: >-
+    Sunderland vs Everton: Live Stream, TV Channel, Start Time - Soccer News
+    Reports
+  og_description: >-
+    The Premier League clash between Sunderland and Everton promises excitement
+    with both teams gearing up for an intense match. Fans can catch the action
+    live via major sports networks or online streaming platforms, ensuring they
+    don't miss a moment.
+  og_image: >-
+    https://soccernewsreports.com/wp-content/uploads/2025/11/make_GettyImages-2243272159.jpg.jpg
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "Article has good tone and keyword coverage but contains a major factual error as Sunderland is not currently in the Premier League, significantly undermining credibility."
+quality_note: >-
+  Article has good tone and keyword coverage but contains a major factual error
+  as Sunderland is not currently in the Premier League, significantly
+  undermining credibility.
+image_alt: >-
+  Two footballers sprint for the ball under stadium lights as a broadcast camera
+  captures the match
 ---
 
 The Premier League, known for its electrifying matches and passionate fan base, always promises thrilling encounters. One such exciting game is the clash between Sunderland and Everton. Both teams have rich histories and loyal supporters who eagerly anticipate every meeting between these two clubs. As they prepare to face off again, fans are keen to know how to catch all the action live.
