@@ -21,7 +21,7 @@ source_url: >-
   https://www.autoevolution.com/news/ice-mercedes-amg-gt-4-door-makes-a-final-stand-with-new-carbon-tuning-kit-270423.html
 source_item_id: 6a13fcc816f23264031d7bab
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: /assets/images/final-ice-mercedes-amg-gt-4-door-carbon-sendoff-kit.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written article with good tone and relevance but falls short on length
   and contains vague claims without specific sourcing.
 reading_time: 2
+image_alt: >-
+  Carbon-trimmed performance sedan at dusk with warm exhaust haze and cool blue
+  light in the distance.
 ---
 ## A Final Farewell to Combustion Power
 
