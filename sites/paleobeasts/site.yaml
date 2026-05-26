@@ -1,0 +1,112 @@
+domain: paleobeasts.com
+site_name: paleobeasts
+site_tagline: null
+author: Elena Gray
+groups:
+  - ncg
+active: true
+bundle_id: 6a12d72816f23264031d7a4c
+brief:
+  audiences:
+    - Food & Drink enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Paleo Diet
+    - Recipes
+    - Meal Plans
+    - Nutrition
+    - Healthy Snacks
+  seo_keywords_focus:
+    - Paleo Diet
+    - Recipes
+    - Meal Plans
+    - Nutrition
+    - Healthy Snacks
+  content_guidelines:
+    - Focus on Food & Drink content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  category_ids:
+    - 6a00793d1104bbff809b7c3e
+    - 6a00793e1104bbff809b7d13
+    - 6a00793e1104bbff809b7d15
+    - 6a00793e1104bbff809b7d1d
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: modern
+  colors:
+    primary: "#E50914"
+    accent: "#B81D24"
+    background: "#141414"
+    secondary: "#1a1a2e"
+    text: "#ffffff"
+    muted: "#8C8C8C"
+    surface: "#2a2a2a"
+    border: "#333333"
+    heading: "#ffffff"
+    link: "#E50914"
+    link_hover: "#B81D24"
+    nav_link: "#ffffff"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#1a1a2e"
+    must_reads_bg: "#1a1a2e"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#8C8C8C"
+    feed_title: "#ffffff"
+    feed_desc: "#e0e0e0"
+    feed_date: "#8C8C8C"
+    prose_heading: "#ffffff"
+    prose_body: "#e0e0e0"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 52
+  logo_height_footer: 82
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-FBQR5DMFK1
+  gtm: GT-KDTWTN6N
