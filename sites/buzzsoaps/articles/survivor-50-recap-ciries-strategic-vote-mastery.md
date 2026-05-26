@@ -1,24 +1,32 @@
 ---
-title: "Survivor 50 Recap: Cirie’s Strategic Vote Mastery"
-description: "The latest episode of Survivor Season 50 captivates with intense challenges and strategic gameplay as alliances shift and rivalries deepen, culminating in a game-changing tribal council."
-type: "standard"
-status: "review"
-publishDate: "2026-03-05T10:35:28+00:00"
-author: "Becca Roberts"
+title: 'Survivor 50 Recap: Cirie’s Strategic Vote Mastery'
+description: >-
+  The latest episode of Survivor Season 50 captivates with intense challenges
+  and strategic gameplay as alliances shift and rivalries deepen, culminating in
+  a game-changing tribal council.
+type: standard
+status: review
+publishDate: '2026-03-05T10:35:28+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "survivor-50-recap-ciries-strategic-vote-mastery"
+  - Watch
+slug: survivor-50-recap-ciries-strategic-vote-mastery
 reading_time: 3
-source_url: "https://buzzsoaps.com/survivor-50-recap-ciries-strategic-vote-mastery/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/survivor-50-recap-ciries-strategic-vote-mastery/'
+imported_from: wordpress
 wp_original_id: 563
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/survivor-50-recap-ciries-strategic-vote-mastery.webp
 seo:
-  canonical: "https://buzzsoaps.com/survivor-50-recap-ciries-strategic-vote-mastery/"
-  og_title: "Survivor 50 Recap: Cirie's Strategic Vote Mastery - BuzzSoaps!"
-  og_description: "The latest \"Survivor\" episode captivates with intense challenges and strategic gameplay as alliances shift and rivalries deepen. Contestants adapt strategies for survival, facing grueling tests of strength and mental agility. Tribal council reveals game-changing decisions, adding emotional depth and anticipation for what's next."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/survivor-50-recap-ciries-strategic-vote-mastery/'
+  og_title: 'Survivor 50 Recap: Cirie''s Strategic Vote Mastery - BuzzSoaps!'
+  og_description: >-
+    The latest "Survivor" episode captivates with intense challenges and
+    strategic gameplay as alliances shift and rivalries deepen. Contestants
+    adapt strategies for survival, facing grueling tests of strength and mental
+    agility. Tribal council reveals game-changing decisions, adding emotional
+    depth and anticipation for what's next.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Good entertainment tone and keyword relevance, but severely penalized for being too short at 426 words and potential accuracy issues with fabricated episode details."
+quality_note: >-
+  Good entertainment tone and keyword relevance, but severely penalized for
+  being too short at 426 words and potential accuracy issues with fabricated
+  episode details.
+image_alt: >-
+  Torchlit jungle council scene with a voting urn and game tokens on a strategic
+  board
 ---
 
 The latest episode of "Survivor" season 50 continues to captivate audiences with its intense challenges and strategic gameplay. This episode, titled "The Tribe Has Spoken," delves deeper into the alliances and rivalries forming within the competing tribes. As contestants vie for immunity and rewards, the dynamics of the game shift dramatically, leaving viewers on the edge of their seats.
