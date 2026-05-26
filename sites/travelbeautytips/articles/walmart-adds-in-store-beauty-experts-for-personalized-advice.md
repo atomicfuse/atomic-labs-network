@@ -1,25 +1,36 @@
 ---
-title: "Walmart Adds In-Store Beauty Experts for Personalized Advice"
-description: "Walmart is testing beauty experts, upgraded displays and personalized service in select stores, signaling a broader push to blend its value reputation with a more curated, experience-driven shopping model."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:22:42+00:00"
-author: "Taylor Winters"
+title: Walmart Adds In-Store Beauty Experts for Personalized Advice
+description: >-
+  Walmart is testing beauty experts, upgraded displays and personalized service
+  in select stores, signaling a broader push to blend its value reputation with
+  a more curated, experience-driven shopping model.
+type: standard
+status: published
+publishDate: '2026-04-30T08:22:42+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "walmart-adds-in-store-beauty-experts-for-personalized-advice"
+  - Travel Tips
+  - Beauty
+slug: walmart-adds-in-store-beauty-experts-for-personalized-advice
 reading_time: 7
-source_url: "https://travelbeautytips.com/walmart-adds-in-store-beauty-experts-for-personalized-advice/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/walmart-adds-in-store-beauty-experts-for-personalized-advice/
+imported_from: wordpress
 wp_original_id: 36171
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/walmart-adds-in-store-beauty-experts-for-personalized-advice.webp
 seo:
-  canonical: "https://travelbeautytips.com/walmart-adds-in-store-beauty-experts-for-personalized-advice/"
-  og_title: "Walmart Adds In-Store Beauty Experts for Personalized Advice - Travel Beauty Tips"
-  og_description: "Walmart is testing beauty experts, upgraded displays and personalized service in select stores, signaling a broader push to blend its value reputation with a more curated, experience-driven shopping model."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/walmart-adds-in-store-beauty-experts-for-personalized-advice/
+  og_title: >-
+    Walmart Adds In-Store Beauty Experts for Personalized Advice - Travel Beauty
+    Tips
+  og_description: >-
+    Walmart is testing beauty experts, upgraded displays and personalized
+    service in select stores, signaling a broader push to blend its value
+    reputation with a more curated, experience-driven shopping model.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 60
-quality_note: "Well-written retail analysis with good length and accuracy, but the business/retail focus doesn't strongly align with the style and fashion audience's beauty and travel interests."
+quality_note: >-
+  Well-written retail analysis with good length and accuracy, but the
+  business/retail focus doesn't strongly align with the style and fashion
+  audience's beauty and travel interests.
+image_alt: Beauty advisor helps a shopper at a modern retail cosmetics display
 ---
 
 Walmart is testing a more service-driven shopping experience, and beauty is becoming one of its most visible proving grounds. The retailer known for low prices, wide aisles and quick stock-up trips is adding trained beauty experts, more polished displays and personalized help in select stores. The shift shows how Walmart wants to protect its value reputation while giving shoppers more reasons to browse, discover and spend time in its aisles.
