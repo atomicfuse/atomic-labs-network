@@ -1,26 +1,39 @@
 ---
-title: "Canadian Farmhouse Blends Tradition with Modern Glass Staircase"
-description: "In Canada, a unique farmhouse blends historical charm with modern innovation, integrating traditional design with contemporary elements. The architects preserved its historical essence while adding modern features like a glass staircase, maximizing natural light and sustainability."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T09:19:27+00:00"
-author: "Taylor Winters"
+title: Canadian Farmhouse Blends Tradition with Modern Glass Staircase
+description: >-
+  In Canada, a unique farmhouse blends historical charm with modern innovation,
+  integrating traditional design with contemporary elements. The architects
+  preserved its historical essence while adding modern features like a glass
+  staircase, maximizing natural light and sustainability.
+type: standard
+status: review
+publishDate: '2026-02-09T09:19:27+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "Home Improvement"
-slug: "canadian-farmhouse-blends-tradition-with-modern-glass-staircase"
+  - Design
+  - Home
+  - Home Improvement
+slug: canadian-farmhouse-blends-tradition-with-modern-glass-staircase
 reading_time: 3
-source_url: "https://decoratingtricks.com/canadian-farmhouse-blends-tradition-with-modern-glass-staircase/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/canadian-farmhouse-blends-tradition-with-modern-glass-staircase/
+imported_from: wordpress
 wp_original_id: 21564
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/canadian-farmhouse-blends-tradition-with-modern-glass-staircase.webp
 seo:
-  canonical: "https://decoratingtricks.com/canadian-farmhouse-blends-tradition-with-modern-glass-staircase/"
-  og_title: "Canadian Farmhouse Blends Tradition with Modern Glass Staircase - Decorating Tricks"
-  og_description: "In Canada, a unique farmhouse blends historical charm with modern innovation, integrating traditional design with contemporary elements. The architects preserved its historical essence while adding modern features like a glass staircase, maximizing natural light and sustainability."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/02/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/canadian-farmhouse-blends-tradition-with-modern-glass-staircase/
+  og_title: >-
+    Canadian Farmhouse Blends Tradition with Modern Glass Staircase - Decorating
+    Tricks
+  og_description: >-
+    In Canada, a unique farmhouse blends historical charm with modern
+    innovation, integrating traditional design with contemporary elements. The
+    architects preserved its historical essence while adding modern features
+    like a glass staircase, maximizing natural light and sustainability.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/02/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count and could better integrate SEO keywords and DIY/how-to elements."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count and could better integrate SEO keywords and DIY/how-to
+  elements.
+image_alt: >-
+  Restored farmhouse interior with timber beams, bright windows, and a modern
+  glass staircase
 ---
 
 In the picturesque landscape of Canada, a unique farmhouse stands as a testament to the harmonious blend of historical charm and modern innovation. This architectural marvel seamlessly integrates traditional design with contemporary elements, creating a space that is both timeless and forward-thinking.
