@@ -1,24 +1,32 @@
 ---
-title: "Japanese Woman Helps New Mothers Enjoy Meals in Peace"
-description: "In Japan, a woman's thoughtful gesture of holding babies for mothers in restaurants is gaining attention, allowing mothers to enjoy meals in peace and highlighting the importance of community support and empathy."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:17:53+00:00"
-author: "Nico Harper"
+title: Japanese Woman Helps New Mothers Enjoy Meals in Peace
+description: >-
+  In Japan, a woman's thoughtful gesture of holding babies for mothers in
+  restaurants is gaining attention, allowing mothers to enjoy meals in peace and
+  highlighting the importance of community support and empathy.
+type: standard
+status: review
+publishDate: '2025-05-05T16:17:53+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "japanese-woman-helps-new-mothers-enjoy-meals-in-peace"
+  - Good Vibes
+slug: japanese-woman-helps-new-mothers-enjoy-meals-in-peace
 reading_time: 3
-source_url: "https://gigsfreaks.com/japanese-woman-helps-new-mothers-enjoy-meals-in-peace/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/japanese-woman-helps-new-mothers-enjoy-meals-in-peace/'
+imported_from: wordpress
 wp_original_id: 897
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/japanese-woman-helps-new-mothers-enjoy-meals-in-peace.webp
 seo:
-  canonical: "https://gigsfreaks.com/japanese-woman-helps-new-mothers-enjoy-meals-in-peace/"
-  og_title: "Japanese Woman Helps New Mothers Enjoy Meals in Peace - GigsFreaks"
-  og_description: "In Japan, a woman's thoughtful gesture of holding babies for mothers in restaurants is gaining attention. This simple act allows mothers to enjoy meals in peace, highlighting the importance of community support and fostering a sense of empathy and understanding."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-105.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/japanese-woman-helps-new-mothers-enjoy-meals-in-peace/
+  og_title: Japanese Woman Helps New Mothers Enjoy Meals in Peace - GigsFreaks
+  og_description: >-
+    In Japan, a woman's thoughtful gesture of holding babies for mothers in
+    restaurants is gaining attention. This simple act allows mothers to enjoy
+    meals in peace, highlighting the importance of community support and
+    fostering a sense of empathy and understanding.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-105.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and factual content, but lacks SEO optimization elements like proper headings structure and compelling title, while being slightly under target word count."
+quality_note: >-
+  Well-written article with good tone and factual content, but lacks SEO
+  optimization elements like proper headings structure and compelling title,
+  while being slightly under target word count.
+image_alt: >-
+  A mother enjoys a quiet restaurant meal while another woman gently holds her
+  baby nearby.
 ---
 
 In a bustling world where time is often scarce, small acts of kindness can make a significant impact. In Japan, one woman's thoughtful gesture is making waves across social media, capturing hearts with its simplicity and generosity. Her initiative to assist new mothers in a busy restaurant setting has become an inspiring story of empathy and community spirit.
