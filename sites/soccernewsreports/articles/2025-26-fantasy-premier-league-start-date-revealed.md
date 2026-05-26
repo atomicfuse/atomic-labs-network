@@ -1,25 +1,35 @@
 ---
-title: "2025-26 Fantasy Premier League Start Date Revealed"
-description: "Fantasy soccer captivates millions worldwide, offering an engaging way to join the Premier League excitement. As the 2025-26 Fantasy Premier League season approaches, fans prepare to create competitive teams, strategize for top rankings, and enjoy the game's thrill."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T04:29:29+00:00"
-author: "Taylor Winters"
+title: 2025-26 Fantasy Premier League Start Date Revealed
+description: >-
+  Fantasy soccer captivates millions worldwide, offering an engaging way to join
+  the Premier League excitement. As the 2025-26 Fantasy Premier League season
+  approaches, fans prepare to create competitive teams, strategize for top
+  rankings, and enjoy the game's thrill.
+type: standard
+status: review
+publishDate: '2025-07-10T04:29:29+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alisson"
-slug: "2025-26-fantasy-premier-league-start-date-revealed"
+  - Latest News
+  - Alisson
+slug: 2025-26-fantasy-premier-league-start-date-revealed
 reading_time: 3
-source_url: "https://soccernewsreports.com/2025-26-fantasy-premier-league-start-date-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/2025-26-fantasy-premier-league-start-date-revealed/
+imported_from: wordpress
 wp_original_id: 37874
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/2025-26-fantasy-premier-league-start-date-revealed.webp
 seo:
-  canonical: "https://soccernewsreports.com/2025-26-fantasy-premier-league-start-date-revealed/"
-  og_title: "2025-26 Fantasy Premier League Start Date Revealed - Soccer News Reports"
-  og_description: "Fantasy soccer captivates millions worldwide, offering an engaging way to join the Premier League excitement. As the 2025-26 Fantasy Premier League season approaches, fans prepare to create competitive teams, strategize for top rankings, and enjoy the game's thrill."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/07/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/2025-26-fantasy-premier-league-start-date-revealed/
+  og_title: 2025-26 Fantasy Premier League Start Date Revealed - Soccer News Reports
+  og_description: >-
+    Fantasy soccer captivates millions worldwide, offering an engaging way to
+    join the Premier League excitement. As the 2025-26 Fantasy Premier League
+    season approaches, fans prepare to create competitive teams, strategize for
+    top rankings, and enjoy the game's thrill.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/07/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 75
-quality_note: "The article maintains good tone and covers relevant fantasy football content, but lacks specific factual details about the actual start date and falls short of target word count."
+quality_note: >-
+  The article maintains good tone and covers relevant fantasy football content,
+  but lacks specific factual details about the actual start date and falls short
+  of target word count.
+image_alt: >-
+  Fan plans a fantasy soccer squad on a tablet with a floodlit stadium in the
+  background.
 ---
 
 The world of fantasy soccer captivates millions worldwide, offering an engaging way to participate in the excitement of the Premier League. As the current season unfolds, many fans are already looking ahead to the 2025-26 Fantasy Premier League. Anticipation is building as enthusiasts prepare to create competitive teams, strategize for top rankings, and enjoy the thrill of the game.
