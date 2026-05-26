@@ -1,26 +1,34 @@
 ---
-title: "Top 2026 Travel Spots: Costa Rica, Brazil, USA, Canada"
-description: "Costa Rica is emerging as a top travel destination for 2026, known for its lush landscapes and vibrant culture, joining popular destinations like Brazil, the United States, and Canada, each offering unique experiences for all types of travelers."
-type: "standard"
-status: "published"
-publishDate: "2025-11-24T10:21:27+00:00"
-author: "Taylor Winters"
+title: 'Top 2026 Travel Spots: Costa Rica, Brazil, USA, Canada'
+description: >-
+  Costa Rica is emerging as a top travel destination for 2026, known for its
+  lush landscapes and vibrant culture, joining popular destinations like Brazil,
+  the United States, and Canada, each offering unique experiences for all types
+  of travelers.
+type: standard
+status: published
+publishDate: '2025-11-24T10:21:27+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Features"
-  - "Travel"
-slug: "top-2026-travel-spots-costa-rica-brazil-usa-canada"
+  - Destinations
+  - Features
+  - Travel
+slug: top-2026-travel-spots-costa-rica-brazil-usa-canada
 reading_time: 3
-source_url: "https://journeypeaks.com/top-2026-travel-spots-costa-rica-brazil-usa-canada/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-2026-travel-spots-costa-rica-brazil-usa-canada/'
+imported_from: wordpress
 wp_original_id: 38755
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-2026-travel-spots-costa-rica-brazil-usa-canada.webp
 seo:
-  canonical: "https://journeypeaks.com/top-2026-travel-spots-costa-rica-brazil-usa-canada/"
-  og_title: "Top 2026 Travel Spots: Costa Rica, Brazil, USA, Canada - Journey Peaks"
-  og_description: "Costa Rica is emerging as a top travel destination for 2026, known for its lush landscapes and vibrant culture. Adventurous travelers can enjoy activities like zip-lining and surfing, while exploring the nation's rich biodiversity and commitment to conservation."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/11/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/top-2026-travel-spots-costa-rica-brazil-usa-canada/'
+  og_title: 'Top 2026 Travel Spots: Costa Rica, Brazil, USA, Canada - Journey Peaks'
+  og_description: >-
+    Costa Rica is emerging as a top travel destination for 2026, known for its
+    lush landscapes and vibrant culture. Adventurous travelers can enjoy
+    activities like zip-lining and surfing, while exploring the nation's rich
+    biodiversity and commitment to conservation.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/11/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 65
@@ -28,7 +36,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel content with good tone and keyword coverage, but significantly under target length at 532 words when 800-1200 is preferred."
+quality_note: >-
+  Well-written travel content with good tone and keyword coverage, but
+  significantly under target length at 532 words when 800-1200 is preferred.
+image_alt: >-
+  Seamless travel panorama with rainforest, coast, open road, and mountains at
+  golden hour
 ---
 
 Costa Rica is rapidly emerging as one of the top travel destinations for 2026, joining the ranks of popular locales such as Brazil, the United States, and Canada. Known for its lush landscapes and vibrant culture, Costa Rica offers an unparalleled experience for travelers looking to explore nature's beauty and diverse ecosystems.
