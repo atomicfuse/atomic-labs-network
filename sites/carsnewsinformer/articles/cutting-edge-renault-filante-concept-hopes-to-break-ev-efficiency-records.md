@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-cutting-edge-renault-filante-concept-hopes-to-break-ev-efficiency-records
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/cutting-edge-renault-filante-concept-hopes-to-break-ev-efficiency-records.webp
 reading_time: 3
 quality_score: 67
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Strong keyword relevance and decent SEO structure, but significantly too short
   at 410 words and contains vague, potentially fabricated claims about the
   concept vehicle.
+image_alt: >-
+  Futuristic electric concept car in a wind tunnel with illuminated airflow
+  trails
 ---
 ## Revolutionary Design Aims for Maximum Efficiency
 
