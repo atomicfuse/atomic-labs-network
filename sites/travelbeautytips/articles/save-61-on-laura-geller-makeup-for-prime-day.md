@@ -1,25 +1,33 @@
 ---
-title: "Save 61% on Laura Geller Makeup for Prime Day"
-description: "Laura Geller's makeup line is celebrated for its quality and versatility, offering a wide range of products that cater to diverse skin tones and types. From primers to foundations, the brand enhances natural beauty with innovative and inclusive offerings."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T04:37:20+00:00"
-author: "Taylor Winters"
+title: Save 61% on Laura Geller Makeup for Prime Day
+description: >-
+  Laura Geller's makeup line is celebrated for its quality and versatility,
+  offering a wide range of products that cater to diverse skin tones and types.
+  From primers to foundations, the brand enhances natural beauty with innovative
+  and inclusive offerings.
+type: standard
+status: review
+publishDate: '2025-07-10T04:37:20+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "save-61-on-laura-geller-makeup-for-prime-day"
+  - Travel Tips
+  - Beauty
+slug: save-61-on-laura-geller-makeup-for-prime-day
 reading_time: 2
-source_url: "https://travelbeautytips.com/save-61-on-laura-geller-makeup-for-prime-day/"
-imported_from: "wordpress"
+source_url: 'https://travelbeautytips.com/save-61-on-laura-geller-makeup-for-prime-day/'
+imported_from: wordpress
 wp_original_id: 35922
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/save-61-on-laura-geller-makeup-for-prime-day.webp
 seo:
-  canonical: "https://travelbeautytips.com/save-61-on-laura-geller-makeup-for-prime-day/"
-  og_title: "Save 61% on Laura Geller Makeup for Prime Day - Travel Beauty Tips"
-  og_description: "Laura Geller's makeup line is celebrated for its quality and versatility, offering a wide range of products that cater to diverse skin tones and types. From primers to foundations, the brand enhances natural beauty with innovative and inclusive offerings."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/07/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelbeautytips.com/save-61-on-laura-geller-makeup-for-prime-day/'
+  og_title: Save 61% on Laura Geller Makeup for Prime Day - Travel Beauty Tips
+  og_description: >-
+    Laura Geller's makeup line is celebrated for its quality and versatility,
+    offering a wide range of products that cater to diverse skin tones and
+    types. From primers to foundations, the brand enhances natural beauty with
+    innovative and inclusive offerings.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/07/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "While the tone is engaging and product information seems accurate, the article severely lacks in length, SEO optimization, and fails to connect makeup tips to travel/lifestyle contexts relevant to the site."
+quality_note: >-
+  While the tone is engaging and product information seems accurate, the article
+  severely lacks in length, SEO optimization, and fails to connect makeup tips
+  to travel/lifestyle contexts relevant to the site.
+image_alt: >-
+  Premium makeup products arranged on a soft vanity with brushes, swatches, and
+  elegant shopping packaging.
 ---
 
 Laura Geller's makeup line has become a favorite among beauty enthusiasts, known for its quality and ability to enhance one's natural beauty. With a wide range of products that cater to different skin tones and types, Laura Geller has cemented its place in the beauty industry. From foundation to highlighters, the brand offers something for everyone looking to achieve a flawless look.
