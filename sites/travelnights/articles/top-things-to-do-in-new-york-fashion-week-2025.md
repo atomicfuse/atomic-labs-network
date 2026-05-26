@@ -1,25 +1,32 @@
 ---
-title: "Top Things to Do in New York Fashion Week 2025"
-description: "New York City Fashion Week transforms the city into a fashion epicenter, offering a unique blend of style, culture, and entertainment for fashion enthusiasts and casual visitors alike."
-type: "standard"
-status: "published"
-publishDate: "2025-09-11T04:09:27+00:00"
-author: "Malcolm Anderson"
+title: Top Things to Do in New York Fashion Week 2025
+description: >-
+  New York City Fashion Week transforms the city into a fashion epicenter,
+  offering a unique blend of style, culture, and entertainment for fashion
+  enthusiasts and casual visitors alike.
+type: standard
+status: published
+publishDate: '2025-09-11T04:09:27+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Destinations"
-slug: "top-things-to-do-in-new-york-fashion-week-2025"
+  - Culture
+  - Destinations
+slug: top-things-to-do-in-new-york-fashion-week-2025
 reading_time: 3
-source_url: "https://travelnights.com/top-things-to-do-in-new-york-fashion-week-2025/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/top-things-to-do-in-new-york-fashion-week-2025/'
+imported_from: wordpress
 wp_original_id: 36541
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-things-to-do-in-new-york-fashion-week-2025.webp
 seo:
-  canonical: "https://travelnights.com/top-things-to-do-in-new-york-fashion-week-2025/"
-  og_title: "Top Things to Do in New York Fashion Week 2025 - Travel Nights"
-  og_description: "New York City Fashion Week transforms the city into a fashion epicenter, offering a unique blend of style, culture, and entertainment. Visitors flock for runway shows, vibrant atmosphere, and diverse activities, ensuring an unforgettable experience for fashion enthusiasts and casual visitors alike."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/09/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/top-things-to-do-in-new-york-fashion-week-2025/'
+  og_title: Top Things to Do in New York Fashion Week 2025 - Travel Nights
+  og_description: >-
+    New York City Fashion Week transforms the city into a fashion epicenter,
+    offering a unique blend of style, culture, and entertainment. Visitors flock
+    for runway shows, vibrant atmosphere, and diverse activities, ensuring an
+    unforgettable experience for fashion enthusiasts and casual visitors alike.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/09/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 65
@@ -27,7 +34,13 @@ score_breakdown:
   content_length: 58
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate information, but falls significantly short of target word count and lacks SEO optimization elements like meta description length and proper heading structure."
+quality_note: >-
+  Well-written article with good tone and accurate information, but falls
+  significantly short of target word count and lacks SEO optimization elements
+  like meta description length and proper heading structure.
+image_alt: >-
+  Stylish fashion week attendees crossing a glowing Manhattan street at golden
+  hour
 ---
 
 New York City transforms into a fashion epicenter during Fashion Week, offering a unique blend of style, culture, and entertainment. Visitors flock to the city not only for the runway shows but also for the vibrant atmosphere and diverse activities that take place during this exciting time. Whether you're a fashion enthusiast or simply looking to experience the city's dynamic pulse, there's something for everyone.
