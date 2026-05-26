@@ -1,24 +1,32 @@
 ---
-title: "FCC Mandates Equal TV Time for Political Candidates"
-description: "The FCC's \"equal time\" rule mandates broadcasters to provide equivalent airtime to political candidates, ensuring fair media exposure during elections. This regulation is under scrutiny as modern media platforms influence political discourse and public perception significantly."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:41:28+00:00"
-author: "Jennifer Clarkson"
+title: FCC Mandates Equal TV Time for Political Candidates
+description: >-
+  The FCC's "equal time" rule mandates broadcasters to provide equivalent
+  airtime to political candidates, ensuring fair media exposure during
+  elections. This regulation is under scrutiny as modern media platforms
+  influence political discourse and public perception significantly.
+type: standard
+status: review
+publishDate: '2026-01-22T10:41:28+00:00'
+author: Jennifer Clarkson
 tags:
-  - "TV Shows"
-slug: "fcc-mandates-equal-tv-time-for-political-candidates"
+  - TV Shows
+slug: fcc-mandates-equal-tv-time-for-political-candidates
 reading_time: 3
-source_url: "https://muvizz.com/fcc-mandates-equal-tv-time-for-political-candidates/"
-imported_from: "wordpress"
+source_url: 'https://muvizz.com/fcc-mandates-equal-tv-time-for-political-candidates/'
+imported_from: wordpress
 wp_original_id: 28228
-featuredImage: "/assets/images/muvizz-general-article.webp"
+featuredImage: /assets/images/fcc-mandates-equal-tv-time-for-political-candidates.webp
 seo:
-  canonical: "https://muvizz.com/fcc-mandates-equal-tv-time-for-political-candidates/"
-  og_title: "FCC Mandates Equal TV Time for Political Candidates - Muvizz"
-  og_description: "The FCC's \"equal time\" rule mandates broadcasters to provide equivalent airtime to political candidates, ensuring fair media exposure during elections. This regulation is under scrutiny as modern media platforms influence political discourse and public perception significantly."
-  og_image: "https://muvizz.com/wp-content/uploads/2026/01/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://muvizz.com/fcc-mandates-equal-tv-time-for-political-candidates/'
+  og_title: FCC Mandates Equal TV Time for Political Candidates - Muvizz
+  og_description: >-
+    The FCC's "equal time" rule mandates broadcasters to provide equivalent
+    airtime to political candidates, ensuring fair media exposure during
+    elections. This regulation is under scrutiny as modern media platforms
+    influence political discourse and public perception significantly.
+  og_image: 'https://muvizz.com/wp-content/uploads/2026/01/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 41
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "This article is off-topic for an entertainment site, lacks engaging tone, is too short, and doesn't cover the site's core entertainment topics despite being tagged as TV Shows."
+quality_note: >-
+  This article is off-topic for an entertainment site, lacks engaging tone, is
+  too short, and doesn't cover the site's core entertainment topics despite
+  being tagged as TV Shows.
+image_alt: >-
+  Two equal podiums in a moody TV studio under balanced spotlights with cameras
+  in silhouette.
 ---
 
 The Federal Communications Commission (FCC) has recently been in the spotlight due to discussions around the "equal time" provision, a rule that mandates broadcasting networks to provide equal opportunities to political candidates. This subject has gained renewed attention as some television talk shows are being scrutinized for their potential impact on political discourse during the election season.
