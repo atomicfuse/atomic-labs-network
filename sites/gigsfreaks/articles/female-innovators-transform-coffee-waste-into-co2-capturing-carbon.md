@@ -1,24 +1,37 @@
 ---
-title: "Female Innovators Transform Coffee Waste into CO2-Capturing Carbon"
-description: "A female-led team in the Arab world is converting coffee grounds and plastic waste into activated carbon that captures carbon dioxide, addressing pollution, reducing emissions, and empowering women in science."
-type: "standard"
-status: "review"
-publishDate: "2025-10-16T09:09:25+00:00"
-author: "Nico Harper"
+title: Female Innovators Transform Coffee Waste into CO2-Capturing Carbon
+description: >-
+  A female-led team in the Arab world is converting coffee grounds and plastic
+  waste into activated carbon that captures carbon dioxide, addressing
+  pollution, reducing emissions, and empowering women in science.
+type: standard
+status: review
+publishDate: '2025-10-16T09:09:25+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "female-innovators-transform-coffee-waste-into-co2-capturing-carbon"
+  - Good Vibes
+slug: female-innovators-transform-coffee-waste-into-co2-capturing-carbon
 reading_time: 3
-source_url: "https://gigsfreaks.com/female-innovators-transform-coffee-waste-into-co2-capturing-carbon/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/female-innovators-transform-coffee-waste-into-co2-capturing-carbon/
+imported_from: wordpress
 wp_original_id: 959
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/female-innovators-transform-coffee-waste-into-co2-capturing-carbon.webp
 seo:
-  canonical: "https://gigsfreaks.com/female-innovators-transform-coffee-waste-into-co2-capturing-carbon/"
-  og_title: "Female Innovators Transform Coffee Waste into CO2-Capturing Carbon - GigsFreaks"
-  og_description: "A female-led team in the Arab world is converting coffee grounds and plastic waste into activated carbon, effectively capturing carbon dioxide. Their approach addresses pollution, reduces emissions, and empowers women in science, showcasing innovation in waste management and climate change mitigation."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/10/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/female-innovators-transform-coffee-waste-into-co2-capturing-carbon/
+  og_title: >-
+    Female Innovators Transform Coffee Waste into CO2-Capturing Carbon -
+    GigsFreaks
+  og_description: >-
+    A female-led team in the Arab world is converting coffee grounds and plastic
+    waste into activated carbon, effectively capturing carbon dioxide. Their
+    approach addresses pollution, reduces emissions, and empowers women in
+    science, showcasing innovation in waste management and climate change
+    mitigation.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/10/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 65
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 80
   keyword_relevance: 20
-quality_note: "While well-written and factually sound, this environmental science article doesn't align with gigsfreaks' entertainment-focused audience and lacks the required engaging, conversational tone and relevant keywords."
+quality_note: >-
+  While well-written and factually sound, this environmental science article
+  doesn't align with gigsfreaks' entertainment-focused audience and lacks the
+  required engaging, conversational tone and relevant keywords.
+image_alt: >-
+  Female scientists examine carbon granules in a sustainability lab with coffee
+  grounds and recycled plastic nearby.
 ---
 
 A groundbreaking initiative is taking shape in the Arab world, where an innovative team is transforming waste into a powerful tool against climate change. This female-led team is utilizing coffee grounds and plastic waste to create activated carbon, a substance that can effectively capture carbon dioxide from the atmosphere. Their pioneering approach not only addresses environmental pollution but also contributes to reducing global carbon emissions.
