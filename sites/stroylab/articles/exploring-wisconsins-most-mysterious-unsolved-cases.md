@@ -1,29 +1,33 @@
 ---
-title: "Exploring Wisconsin’s Most Mysterious Unsolved Cases"
-description: "Delve into Wisconsin's enigmatic past with five chilling unsolved cases that continue to baffle investigators."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:42:13+00:00"
-author: "Blake Anderson"
+title: Exploring Wisconsin’s Most Mysterious Unsolved Cases
+description: >-
+  Delve into Wisconsin's enigmatic past with five chilling unsolved cases that
+  continue to baffle investigators.
+type: standard
+status: review
+publishDate: '2025-12-22T11:42:13+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "exploring-wisconsins-most-mysterious-unsolved-cases"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: exploring-wisconsins-most-mysterious-unsolved-cases
 reading_time: 3
-source_url: "https://stroylab.com/exploring-wisconsins-most-mysterious-unsolved-cases/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/exploring-wisconsins-most-mysterious-unsolved-cases/'
+imported_from: wordpress
 wp_original_id: 750
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/exploring-wisconsins-most-mysterious-unsolved-cases.webp
 seo:
-  canonical: "https://stroylab.com/exploring-wisconsins-most-mysterious-unsolved-cases/"
-  og_title: "Exploring Wisconsin's Most Mysterious Unsolved Cases - StroyLab"
-  og_description: "Delve into Wisconsin's enigmatic past with five chilling unsolved cases that continue to baffle investigators."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/exploring-wisconsins-most-mysterious-unsolved-cases/'
+  og_title: Exploring Wisconsin's Most Mysterious Unsolved Cases - StroyLab
+  og_description: >-
+    Delve into Wisconsin's enigmatic past with five chilling unsolved cases that
+    continue to baffle investigators.
+  twitter_card: summary_large_image
 videos:
-  - id: "953f9c79"
-    url: "https://www.youtube.com/watch?v=f7i43EaeNtc"
-    position: "after-paragraph-2"
+  - id: 953f9c79
+    url: 'https://www.youtube.com/watch?v=f7i43EaeNtc'
+    position: after-paragraph-2
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -31,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: "Article has strong keyword relevance and decent SEO structure but is significantly under the target word count and lacks specific case details, relying on vague generalizations rather than concrete examples."
+quality_note: >-
+  Article has strong keyword relevance and decent SEO structure but is
+  significantly under the target word count and lacks specific case details,
+  relying on vague generalizations rather than concrete examples.
+image_alt: >-
+  Misty Wisconsin backroad at dusk with investigative objects and distant police
+  lights
 ---
 
 Wisconsin, a state renowned for its vast flatlands, dense forests, and serene lakes, often presents an idyllic picture of daily life. However, beneath this calm exterior lies a series of dark and mysterious cases that have left even the most seasoned investigators puzzled. In this article, we delve into five of the most enigmatic unsolved cases from Wisconsin that continue to haunt the collective memory of the state.
