@@ -1,26 +1,36 @@
 ---
-title: "Idaho Potatoes: Debunking Nutrition Myths with the ADA"
-description: "Idaho potatoes are a nutritious staple, rich in vitamins and minerals, and the Idaho Potato Commission has teamed up with the American Diabetes Association to dispel common myths about their impact on blood sugar and weight management."
-type: "standard"
-status: "published"
-publishDate: "2025-11-13T10:36:47+00:00"
-author: "Taylor Winters"
+title: 'Idaho Potatoes: Debunking Nutrition Myths with the ADA'
+description: >-
+  Idaho potatoes are a nutritious staple, rich in vitamins and minerals, and the
+  Idaho Potato Commission has teamed up with the American Diabetes Association
+  to dispel common myths about their impact on blood sugar and weight
+  management.
+type: standard
+status: published
+publishDate: '2025-11-13T10:36:47+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "idaho-potatoes-debunking-nutrition-myths-with-the-ada"
+  - Nutrition Myths
+  - Special Diets
+  - Weight &amp; Wellness
+slug: idaho-potatoes-debunking-nutrition-myths-with-the-ada
 reading_time: 3
-source_url: "https://eznutritiontips.com/idaho-potatoes-debunking-nutrition-myths-with-the-ada/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/idaho-potatoes-debunking-nutrition-myths-with-the-ada/
+imported_from: wordpress
 wp_original_id: 18947
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/idaho-potatoes-debunking-nutrition-myths-with-the-ada.webp
 seo:
-  canonical: "https://eznutritiontips.com/idaho-potatoes-debunking-nutrition-myths-with-the-ada/"
-  og_title: "Idaho Potatoes: Debunking Nutrition Myths with the ADA - Easy Nutrition Tips"
-  og_description: "Idaho potatoes are a nutritious staple, rich in vitamins and minerals, and have been shown to support a healthy diet. The Idaho Potato Commission and the American Diabetes Association work to dispel myths about their impact on blood sugar and weight."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/11/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/idaho-potatoes-debunking-nutrition-myths-with-the-ada/
+  og_title: 'Idaho Potatoes: Debunking Nutrition Myths with the ADA - Easy Nutrition Tips'
+  og_description: >-
+    Idaho potatoes are a nutritious staple, rich in vitamins and minerals, and
+    have been shown to support a healthy diet. The Idaho Potato Commission and
+    the American Diabetes Association work to dispel myths about their impact on
+    blood sugar and weight.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/11/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong keyword relevance and tone but significantly under target word count at 536 words, which severely impacts overall quality despite good nutritional content and myth-busting approach."
+quality_note: >-
+  Strong keyword relevance and tone but significantly under target word count at
+  536 words, which severely impacts overall quality despite good nutritional
+  content and myth-busting approach.
+image_alt: >-
+  Fresh russet potatoes beside a balanced, colorful meal on a sunlit kitchen
+  counter.
 ---
 
 Idaho potatoes have long been a staple in American kitchens, known for their versatility and delicious flavor. However, misconceptions about their nutritional value have persisted over the years. Recently, the Idaho Potato Commission teamed up with the American Diabetes Association to dispel myths surrounding potatoes and their impact on health, particularly for individuals managing diabetes.
