@@ -1,26 +1,34 @@
 ---
-title: "2026 Renault Scenic E-Tech: Quick Drive Review"
-description: "The 2026 Renault Scenic E-Tech combines innovative technology with sleek design, redefining the compact SUV segment. This hybrid model emphasizes sustainability and performance, offering a spacious interior, advanced safety features, and a seamless blend of petrol and electric power."
-type: "standard"
-status: "review"
-publishDate: "2026-03-26T09:23:20+00:00"
-author: "Taylor Winters"
+title: '2026 Renault Scenic E-Tech: Quick Drive Review'
+description: >-
+  The 2026 Renault Scenic E-Tech combines innovative technology with sleek
+  design, redefining the compact SUV segment. This hybrid model emphasizes
+  sustainability and performance, offering a spacious interior, advanced safety
+  features, and a seamless blend of petrol and electric power.
+type: standard
+status: review
+publishDate: '2026-03-26T09:23:20+00:00'
+author: Taylor Winters
 tags:
-  - "Concept Cars"
-  - "Electric Cars"
-  - "Reviews"
-slug: "2026-renault-scenic-e-tech-quick-drive-review"
+  - Concept Cars
+  - Electric Cars
+  - Reviews
+slug: 2026-renault-scenic-e-tech-quick-drive-review
 reading_time: 3
-source_url: "https://carsnewsmag.com/2026-renault-scenic-e-tech-quick-drive-review/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/2026-renault-scenic-e-tech-quick-drive-review/'
+imported_from: wordpress
 wp_original_id: 38592
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-renault-scenic-e-tech-quick-drive-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-renault-scenic-e-tech-quick-drive-review/"
-  og_title: "2026 Renault Scenic E-Tech: Quick Drive Review - Cars News Magazine"
-  og_description: "The 2026 Renault Scenic E-Tech combines innovative technology with sleek design, redefining the compact SUV segment. This hybrid model emphasizes sustainability and performance, offering a spacious interior, advanced safety features, and a seamless blend of petrol and electric power."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/03/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/2026-renault-scenic-e-tech-quick-drive-review/'
+  og_title: '2026 Renault Scenic E-Tech: Quick Drive Review - Cars News Magazine'
+  og_description: >-
+    The 2026 Renault Scenic E-Tech combines innovative technology with sleek
+    design, redefining the compact SUV segment. This hybrid model emphasizes
+    sustainability and performance, offering a spacious interior, advanced
+    safety features, and a seamless blend of petrol and electric power.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/03/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written review with excellent keyword relevance and appropriate tone, but significantly under target word count and contains potential factual issues regarding a 2026 model year vehicle."
+quality_note: >-
+  Well-written review with excellent keyword relevance and appropriate tone, but
+  significantly under target word count and contains potential factual issues
+  regarding a 2026 model year vehicle.
+image_alt: Sleek compact hybrid SUV driving on a coastal road at golden hour
 ---
 
 The automotive world has been abuzz with the unveiling of the 2026 Renault Scenic E-Tech, a vehicle that promises to redefine the compact SUV segment. Combining innovative technology with sleek design, this hybrid model is a testament to Renault's commitment to sustainability and cutting-edge performance.
