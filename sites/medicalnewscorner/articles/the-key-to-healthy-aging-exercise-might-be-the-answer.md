@@ -1,24 +1,37 @@
 ---
-title: "The key to healthy aging? Exercise might be the answer"
-description: "A recent study published in the Canadian Medical Association Journal explores the wide-ranging health benefits of physical activity for older adults, highlighting how exercise reduces mortality, improves cognitive function, and enhances quality of life — yet remains widely underprescribed in clinical care."
-type: "standard"
-status: "published"
-publishDate: "2025-01-30T05:45:55+00:00"
-author: "admin"
+title: The key to healthy aging? Exercise might be the answer
+description: >-
+  A recent study published in the Canadian Medical Association Journal explores
+  the wide-ranging health benefits of physical activity for older adults,
+  highlighting how exercise reduces mortality, improves cognitive function, and
+  enhances quality of life — yet remains widely underprescribed in clinical
+  care.
+type: standard
+status: published
+publishDate: '2025-01-30T05:45:55+00:00'
+author: admin
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "the-key-to-healthy-aging-exercise-might-be-the-answer"
+  - Research
+  - Clinical Trials &amp; Research
+slug: the-key-to-healthy-aging-exercise-might-be-the-answer
 reading_time: 6
-source_url: "https://medicalnewscorner.com/the-key-to-healthy-aging-exercise-might-be-the-answer/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/the-key-to-healthy-aging-exercise-might-be-the-answer/
+imported_from: wordpress
 wp_original_id: 24442
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/the-key-to-healthy-aging-exercise-might-be-the-answer.webp
 seo:
-  canonical: "https://medicalnewscorner.com/the-key-to-healthy-aging-exercise-might-be-the-answer/"
-  og_title: "The key to healthy aging? Exercise might be the answer - Medical News Corner"
-  og_description: "Despite overwhelming benefits, physical activity remains underutilized in clinical care for older adults. Study:&#xA0;Move more, age well: prescribing physical activity for older adults.&#xA0;Image Credit: NDAB Creativity / Shutterstock.com A recent study published in the Canadian Medical Association Journal explores the health benefits of physical activity in the elderly. How does physical activity reduce mortality? In [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/the-key-to-healthy-aging-exercise-might-be-the-answer/
+  og_title: The key to healthy aging? Exercise might be the answer - Medical News Corner
+  og_description: >-
+    Despite overwhelming benefits, physical activity remains underutilized in
+    clinical care for older adults. Study:&#xA0;Move more, age well: prescribing
+    physical activity for older adults.&#xA0;Image Credit: NDAB Creativity /
+    Shutterstock.com A recent study published in the Canadian Medical
+    Association Journal explores the health benefits of physical activity in the
+    elderly. How does physical activity reduce mortality? In [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-structured article with strong keyword relevance and appropriate length, though the title could be more compelling and specific for better SEO optimization."
+quality_note: >-
+  Well-structured article with strong keyword relevance and appropriate length,
+  though the title could be more compelling and specific for better SEO
+  optimization.
+image_alt: >-
+  Older adult walking on a sunlit park path, conveying vitality and healthy
+  aging.
 ---
 
 _**Despite overwhelming benefits, physical activity remains underutilized in clinical care for older adults.**_
