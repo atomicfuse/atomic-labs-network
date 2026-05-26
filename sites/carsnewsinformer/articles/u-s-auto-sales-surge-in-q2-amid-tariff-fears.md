@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-u-s-auto-sales-surge-in-q2-amid-tariff-fears
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/u-s-auto-sales-surge-in-q2-amid-tariff-fears.webp
 reading_time: 2
 quality_score: 63
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   While the article covers relevant automotive news topics well, it's
   significantly too short at 306 words and contains questionable future-dated
   claims about 2026 that appear fabricated.
+image_alt: >-
+  Busy dealership lot with new cars and distant shipping containers suggesting
+  tariff pressure.
 ---
 ## Sales Momentum Builds in Second Quarter
 
