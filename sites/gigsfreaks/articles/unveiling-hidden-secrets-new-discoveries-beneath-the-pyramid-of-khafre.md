@@ -1,28 +1,39 @@
 ---
-title: "Unveiling Hidden Secrets: New Discoveries Beneath the Pyramid of Khafre"
-description: "Recent satellite images reveal hidden subterranean structures beneath the Pyramid of Khafre, intriguing archaeologists worldwide and prompting a reevaluation of our understanding of ancient Egyptian architecture and engineering."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T05:03:21+00:00"
-author: "Nico Harper"
+title: 'Unveiling Hidden Secrets: New Discoveries Beneath the Pyramid of Khafre'
+description: >-
+  Recent satellite images reveal hidden subterranean structures beneath the
+  Pyramid of Khafre, intriguing archaeologists worldwide and prompting a
+  reevaluation of our understanding of ancient Egyptian architecture and
+  engineering.
+type: standard
+status: review
+publishDate: '2025-05-22T05:03:21+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-  - "Internet Mysteries"
-slug: "unveiling-hidden-secrets-new-discoveries-beneath-the-pyramid-of-khafre"
+  - Hot Trends
+  - Internet Mysteries
+slug: unveiling-hidden-secrets-new-discoveries-beneath-the-pyramid-of-khafre
 reading_time: 2
-source_url: "https://gigsfreaks.com/unveiling-hidden-secrets-new-discoveries-beneath-the-pyramid-of-khafre/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/unveiling-hidden-secrets-new-discoveries-beneath-the-pyramid-of-khafre/
+imported_from: wordpress
 wp_original_id: 930
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/unveiling-hidden-secrets-new-discoveries-beneath-the-pyramid-of-khafre.webp
 seo:
-  canonical: "https://gigsfreaks.com/unveiling-hidden-secrets-new-discoveries-beneath-the-pyramid-of-khafre/"
-  og_title: "Unveiling Hidden Secrets: New Discoveries Beneath the Pyramid of Khafre - GigsFreaks"
-  og_description: "Recent satellite images reveal hidden subterranean structures beneath the Pyramid of Khafre, intriguing archaeologists worldwide."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/unveiling-hidden-secrets-new-discoveries-beneath-the-pyramid-of-khafre/
+  og_title: >-
+    Unveiling Hidden Secrets: New Discoveries Beneath the Pyramid of Khafre -
+    GigsFreaks
+  og_description: >-
+    Recent satellite images reveal hidden subterranean structures beneath the
+    Pyramid of Khafre, intriguing archaeologists worldwide.
+  twitter_card: summary_large_image
 videos:
-  - id: "f66cb847"
-    url: "https://www.youtube.com/watch?v=XYj_yctbYN0"
-    position: "after-paragraph-2"
+  - id: f66cb847
+    url: 'https://www.youtube.com/watch?v=XYj_yctbYN0'
+    position: after-paragraph-2
 quality_score: 46
 score_breakdown:
   seo_quality: 65
@@ -30,7 +41,14 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 20
   keyword_relevance: 75
-quality_note: "The article covers trending mysteries but is too short, uses overly formal academic tone instead of conversational entertainment style, and makes vague unsupported claims about 'recent satellite discoveries' without credible sources."
+quality_note: >-
+  The article covers trending mysteries but is too short, uses overly formal
+  academic tone instead of conversational entertainment style, and makes vague
+  unsupported claims about 'recent satellite discoveries' without credible
+  sources.
+image_alt: >-
+  Pyramid of Khafre at dusk with subtle glowing underground chamber outlines
+  beneath the desert sand
 ---
 
 The recent unveiling of new images showcasing massive hidden structures beneath the Pyramid of Khafre has sent ripples throughout the archaeological community. This groundbreaking discovery has been made possible through advanced satellite imaging technology, providing a fresh perspective on one of Egypt's most iconic landmarks.
