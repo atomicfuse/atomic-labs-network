@@ -1,26 +1,34 @@
 ---
-title: "Nissan Z Road Trip: 700-Mile Performance Review"
-description: "The 2026 Nissan Z Heritage Edition blends vintage charm with modern technology, offering a unique driving experience that pays homage to iconic predecessors while delivering exhilarating performance and cutting-edge connectivity."
-type: "standard"
-status: "review"
-publishDate: "2025-12-25T12:37:18+00:00"
-author: "Taylor Winters"
+title: 'Nissan Z Road Trip: 700-Mile Performance Review'
+description: >-
+  The 2026 Nissan Z Heritage Edition blends vintage charm with modern
+  technology, offering a unique driving experience that pays homage to iconic
+  predecessors while delivering exhilarating performance and cutting-edge
+  connectivity.
+type: standard
+status: review
+publishDate: '2025-12-25T12:37:18+00:00'
+author: Taylor Winters
 tags:
-  - "Industry"
-  - "News"
-  - "Reviews"
-slug: "nissan-z-road-trip-700-mile-performance-review"
+  - Industry
+  - News
+  - Reviews
+slug: nissan-z-road-trip-700-mile-performance-review
 reading_time: 3
-source_url: "https://carsnewsmag.com/nissan-z-road-trip-700-mile-performance-review/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/nissan-z-road-trip-700-mile-performance-review/'
+imported_from: wordpress
 wp_original_id: 38538
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/nissan-z-road-trip-700-mile-performance-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/nissan-z-road-trip-700-mile-performance-review/"
-  og_title: "Nissan Z Road Trip: 700-Mile Performance Review - Cars News Magazine"
-  og_description: "The 2026 Nissan Z Heritage Edition blends vintage charm with modern technology, offering a unique driving experience. With its nostalgic design and advanced features, this sports car pays homage to iconic predecessors while delivering exhilarating performance and cutting-edge connectivity."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/12/make_file-1.html"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/nissan-z-road-trip-700-mile-performance-review/'
+  og_title: 'Nissan Z Road Trip: 700-Mile Performance Review - Cars News Magazine'
+  og_description: >-
+    The 2026 Nissan Z Heritage Edition blends vintage charm with modern
+    technology, offering a unique driving experience. With its nostalgic design
+    and advanced features, this sports car pays homage to iconic predecessors
+    while delivering exhilarating performance and cutting-edge connectivity.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/12/make_file-1.html'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "Article has good tone and keyword coverage but is significantly too short and contains fabricated information about a non-existent 2026 Nissan Z Heritage Edition model."
+quality_note: >-
+  Article has good tone and keyword coverage but is significantly too short and
+  contains fabricated information about a non-existent 2026 Nissan Z Heritage
+  Edition model.
+image_alt: Orange heritage-style sports coupe cruising a desert highway at golden hour
 ---
 
 The automotive world is buzzing with the arrival of the 2026 Nissan Z Heritage Edition. This modern sports car, adorned with nostalgic elements, is turning heads and reigniting passions among car enthusiasts. With a perfect blend of vintage charm and cutting-edge technology, it offers a unique driving experience that pays homage to its iconic predecessors.
