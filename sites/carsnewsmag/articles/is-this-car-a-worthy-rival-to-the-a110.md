@@ -1,24 +1,32 @@
 ---
-title: "Is This Car a Worthy Rival to the A110?"
-description: "Alpine's entry into the SUV market with the A390 marks a strategic shift, blending sportiness with SUV versatility. The A390 features innovative design, high-performance capabilities, and luxury elements, aiming to redefine expectations and attract a new customer demographic."
-type: "standard"
-status: "review"
-publishDate: "2025-12-04T09:21:28+00:00"
-author: "Taylor Winters"
+title: Is This Car a Worthy Rival to the A110?
+description: >-
+  Alpine's entry into the SUV market with the A390 marks a strategic shift,
+  blending sportiness with SUV versatility. The A390 features innovative design,
+  high-performance capabilities, and luxury elements, aiming to redefine
+  expectations and attract a new customer demographic.
+type: standard
+status: review
+publishDate: '2025-12-04T09:21:28+00:00'
+author: Taylor Winters
 tags:
-  - "Industry"
-slug: "is-this-car-a-worthy-rival-to-the-a110"
+  - Industry
+slug: is-this-car-a-worthy-rival-to-the-a110
 reading_time: 3
-source_url: "https://carsnewsmag.com/is-this-car-a-worthy-rival-to-the-a110/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/is-this-car-a-worthy-rival-to-the-a110/'
+imported_from: wordpress
 wp_original_id: 38526
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/is-this-car-a-worthy-rival-to-the-a110.webp
 seo:
-  canonical: "https://carsnewsmag.com/is-this-car-a-worthy-rival-to-the-a110/"
-  og_title: "Is This Car a Worthy Rival to the A110? - Cars News Magazine"
-  og_description: "Alpine's entry into the SUV market with the A390 marks a strategic shift, blending sportiness with SUV versatility. The A390 features innovative design, high-performance capabilities, and luxury elements, aiming to redefine expectations and attract a new customer demographic."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/12/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/is-this-car-a-worthy-rival-to-the-a110/'
+  og_title: Is This Car a Worthy Rival to the A110? - Cars News Magazine
+  og_description: >-
+    Alpine's entry into the SUV market with the A390 marks a strategic shift,
+    blending sportiness with SUV versatility. The A390 features innovative
+    design, high-performance capabilities, and luxury elements, aiming to
+    redefine expectations and attract a new customer demographic.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/12/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 61
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 60
   keyword_relevance: 70
-quality_note: "The article has good tone and industry relevance but suffers from a confusing title that doesn't match the content about Alpine's A390 SUV, short length, and lacks specific factual details."
+quality_note: >-
+  The article has good tone and industry relevance but suffers from a confusing
+  title that doesn't match the content about Alpine's A390 SUV, short length,
+  and lacks specific factual details.
+image_alt: >-
+  Futuristic performance SUV on a misty mountain road with a sports coupe
+  reflection in wet pavement.
 ---
 
 Alpine, renowned for its commitment to crafting performance-oriented vehicles, is now venturing into the SUV market. This bold move marks a significant shift in the brand's strategy, aiming to blend sportiness with the versatility of an SUV. As the automotive industry evolves, Alpine's forthcoming model, the A390, promises to redefine expectations with its innovative design and performance capabilities.
