@@ -1,24 +1,34 @@
 ---
-title: "$40K Worth of Pokémon Cards Stolen from Everett Store"
-description: "A gaming store in Everett, Washington, suffered a theft of Pokémon cards valued at $40,000, highlighting the popularity and value of trading card games. The incident has sparked discussions on security measures for businesses dealing in collectibles."
-type: "standard"
-status: "published"
-publishDate: "2026-01-12T09:31:31+00:00"
-author: "Taylor Winters"
+title: $40K Worth of Pokémon Cards Stolen from Everett Store
+description: >-
+  A gaming store in Everett, Washington, suffered a theft of Pokémon cards
+  valued at $40,000, highlighting the popularity and value of trading card
+  games. The incident has sparked discussions on security measures for
+  businesses dealing in collectibles.
+type: standard
+status: published
+publishDate: '2026-01-12T09:31:31+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "40k-worth-of-pokemon-cards-stolen-from-everett-store"
+  - Gaming News
+  - Community
+slug: 40k-worth-of-pokemon-cards-stolen-from-everett-store
 reading_time: 3
-source_url: "https://gamerinformers.com/40k-worth-of-pokemon-cards-stolen-from-everett-store/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/40k-worth-of-pokemon-cards-stolen-from-everett-store/
+imported_from: wordpress
 wp_original_id: 34121
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: /assets/images/40k-worth-of-pokemon-cards-stolen-from-everett-store.webp
 seo:
-  canonical: "https://gamerinformers.com/40k-worth-of-pokemon-cards-stolen-from-everett-store/"
-  og_title: "$40K Worth of Pokémon Cards Stolen from Everett Store - Gamer Informers"
-  og_description: "A gaming store in Everett, Washington, suffered a theft of Pokémon cards valued at $40,000, highlighting the popularity and value of trading card games. The incident has sparked discussions on security measures for businesses dealing in collectibles."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/40k-worth-of-pokemon-cards-stolen-from-everett-store/
+  og_title: $40K Worth of Pokémon Cards Stolen from Everett Store - Gamer Informers
+  og_description: >-
+    A gaming store in Everett, Washington, suffered a theft of Pokémon cards
+    valued at $40,000, highlighting the popularity and value of trading card
+    games. The incident has sparked discussions on security measures for
+    businesses dealing in collectibles.
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Solid gaming news coverage with appropriate tone, but lacks specific SEO optimization and could benefit from more detailed information about the incident."
+quality_note: >-
+  Solid gaming news coverage with appropriate tone, but lacks specific SEO
+  optimization and could benefit from more detailed information about the
+  incident.
+image_alt: >-
+  Empty gaming store display case with scattered trading card sleeves under
+  security lighting
 ---
 
 In a bold and unexpected move, a gaming store in Everett, Washington, recently fell victim to a large-scale theft involving a significant collection of Pokémon cards valued at approximately $40,000. This daring burglary has attracted widespread attention, as it highlights both the growing popularity and value of trading card games. The incident has sparked discussions about security measures for businesses dealing in collectibles.
