@@ -1,27 +1,31 @@
 ---
-title: "Exploring 5 Unresolved Mysteries that Still Intrigue"
-description: "Dive into the chilling unsolved case of Kenneka Jenkins, a mystery that continues to perplex investigators and captivate the public."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T05:37:23+00:00"
-author: "Nico Harper"
+title: Exploring 5 Unresolved Mysteries that Still Intrigue
+description: >-
+  Dive into the chilling unsolved case of Kenneka Jenkins, a mystery that
+  continues to perplex investigators and captivate the public.
+type: standard
+status: review
+publishDate: '2025-07-10T05:37:23+00:00'
+author: Nico Harper
 tags:
-  - "Internet Mysteries"
-slug: "exploring-5-unresolved-mysteries-that-still-intrigue"
+  - Internet Mysteries
+slug: exploring-5-unresolved-mysteries-that-still-intrigue
 reading_time: 2
-source_url: "https://gigsfreaks.com/exploring-5-unresolved-mysteries-that-still-intrigue/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/exploring-5-unresolved-mysteries-that-still-intrigue/'
+imported_from: wordpress
 wp_original_id: 941
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/exploring-5-unresolved-mysteries-that-still-intrigue.webp
 seo:
-  canonical: "https://gigsfreaks.com/exploring-5-unresolved-mysteries-that-still-intrigue/"
-  og_title: "Exploring 5 Unresolved Mysteries that Still Intrigue - GigsFreaks"
-  og_description: "Dive into the chilling unsolved case of Kenneka Jenkins, a mystery that continues to perplex investigators and captivate the public."
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/exploring-5-unresolved-mysteries-that-still-intrigue/'
+  og_title: Exploring 5 Unresolved Mysteries that Still Intrigue - GigsFreaks
+  og_description: >-
+    Dive into the chilling unsolved case of Kenneka Jenkins, a mystery that
+    continues to perplex investigators and captivate the public.
+  twitter_card: summary_large_image
 videos:
-  - id: "fbe77065"
-    url: "https://www.youtube.com/watch?v=jYCQ8tzxAs0"
-    position: "after-paragraph-2"
+  - id: fbe77065
+    url: 'https://www.youtube.com/watch?v=jYCQ8tzxAs0'
+    position: after-paragraph-2
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -29,7 +33,12 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Article has good tone and keyword relevance but is significantly under target word count at 323 words versus the 800-1200 target range."
+quality_note: >-
+  Article has good tone and keyword relevance but is significantly under target
+  word count at 323 words versus the 800-1200 target range.
+image_alt: >-
+  Dim hotel corridor with an open door and investigative mood suggesting an
+  unresolved mystery
 ---
 
 Unsolved mysteries have long captivated the human imagination, offering a blend of intrigue and suspense that few can resist. Among the myriad of unanswered questions, the case of Kenneka Jenkins stands out. This tragic story not only puzzles investigators but also grips the hearts of those who hear it.
