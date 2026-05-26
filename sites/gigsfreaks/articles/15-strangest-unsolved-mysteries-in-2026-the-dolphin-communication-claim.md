@@ -1,28 +1,39 @@
 ---
-title: "15 Strangest Unsolved Mysteries in 2026: The Dolphin Communication Claim"
-description: "Explore the unsettling mystery video centered on unexplained phenomena, ocean secrets, and an anonymous claim about military breakthroughs in dolphin communication."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:13:59+00:00"
-author: "Nico Harper"
+title: '15 Strangest Unsolved Mysteries in 2026: The Dolphin Communication Claim'
+description: >-
+  Explore the unsettling mystery video centered on unexplained phenomena, ocean
+  secrets, and an anonymous claim about military breakthroughs in dolphin
+  communication.
+type: standard
+status: published
+publishDate: '2026-05-07T09:13:59+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-  - "Internet Mysteries"
-slug: "15-strangest-unsolved-mysteries-in-2026-the-dolphin-communication-claim"
+  - Hot Trends
+  - Internet Mysteries
+slug: 15-strangest-unsolved-mysteries-in-2026-the-dolphin-communication-claim
 reading_time: 5
-source_url: "https://gigsfreaks.com/15-strangest-unsolved-mysteries-in-2026-the-dolphin-communication-claim/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/15-strangest-unsolved-mysteries-in-2026-the-dolphin-communication-claim/
+imported_from: wordpress
 wp_original_id: 1049
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/15-strangest-unsolved-mysteries-in-2026-the-dolphin-communication-claim.webp
 seo:
-  canonical: "https://gigsfreaks.com/15-strangest-unsolved-mysteries-in-2026-the-dolphin-communication-claim/"
-  og_title: "15 Strangest Unsolved Mysteries in 2026: The Dolphin Communication Claim - GigsFreaks"
-  og_description: "Explore the unsettling mystery video centered on unexplained phenomena, ocean secrets, and an anonymous claim about military breakthroughs in dolphin communication."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/15-strangest-unsolved-mysteries-in-2026-the-dolphin-communication-claim/
+  og_title: >-
+    15 Strangest Unsolved Mysteries in 2026: The Dolphin Communication Claim -
+    GigsFreaks
+  og_description: >-
+    Explore the unsettling mystery video centered on unexplained phenomena,
+    ocean secrets, and an anonymous claim about military breakthroughs in
+    dolphin communication.
+  twitter_card: summary_large_image
 videos:
-  - id: "e7c52dde"
-    url: "https://www.youtube.com/watch?v=CFRKL_OS2KQ"
-    position: "after-paragraph-2"
+  - id: e7c52dde
+    url: 'https://www.youtube.com/watch?v=CFRKL_OS2KQ'
+    position: after-paragraph-2
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -30,7 +41,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Strong mystery content with engaging tone and good keyword alignment, though SEO could be enhanced with better heading structure and meta description optimization."
+quality_note: >-
+  Strong mystery content with engaging tone and good keyword alignment, though
+  SEO could be enhanced with better heading structure and meta description
+  optimization.
+image_alt: >-
+  Misty night ocean with a research vessel, underwater ripples, and searchlights
+  suggesting a hidden mystery
 ---
 
 Unsolved mystery videos continue to capture attention because they sit at the edge of what people know, what they suspect, and what they cannot yet prove. The title of this video, *15 Strangest Unsolved Mysteries That Cannot Be Explained In 2026*, sets the tone for a collection built around unanswered questions, strange claims, and the enduring appeal of stories that remain outside ordinary explanation.
