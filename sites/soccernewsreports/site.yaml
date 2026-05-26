@@ -2,7 +2,8 @@ domain: soccernewsreports
 site_name: soccernewsreports
 site_tagline: null
 author: Ben Reed
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d6f516f23264031d7a44
 brief:
