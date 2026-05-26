@@ -1,23 +1,31 @@
 ---
-title: "Discover the Most Eco-Friendly Burial Options"
-description: "As environmental awareness grows, traditional burial and cremation face scrutiny for their ecological impact. This article explores alternatives like alkaline hydrolysis, green burial, and human composting, offering more sustainable options for post-life care."
-type: "standard"
-status: "review"
-publishDate: "2026-01-01T10:43:17+00:00"
-author: "Nico Ashwood"
+title: Discover the Most Eco-Friendly Burial Options
+description: >-
+  As environmental awareness grows, traditional burial and cremation face
+  scrutiny for their ecological impact. This article explores alternatives like
+  alkaline hydrolysis, green burial, and human composting, offering more
+  sustainable options for post-life care.
+type: standard
+status: review
+publishDate: '2026-01-01T10:43:17+00:00'
+author: Nico Ashwood
 tags:
-  - "Human Curiosity"
-slug: "discover-the-most-eco-friendly-burial-options"
+  - Human Curiosity
+slug: discover-the-most-eco-friendly-burial-options
 reading_time: 3
-source_url: "https://useminds.com/discover-the-most-eco-friendly-burial-options/"
-imported_from: "wordpress"
+source_url: 'https://useminds.com/discover-the-most-eco-friendly-burial-options/'
+imported_from: wordpress
 wp_original_id: 465
-featuredImage: "/assets/images/useminds-general-article.webp"
+featuredImage: /assets/images/discover-the-most-eco-friendly-burial-options.webp
 seo:
-  canonical: "https://useminds.com/discover-the-most-eco-friendly-burial-options/"
-  og_title: "Discover the Most Eco-Friendly Burial Options - UseMinds"
-  og_description: "As environmental awareness grows, traditional burial and cremation face scrutiny for their ecological impact. This article explores alternatives like alkaline hydrolysis, green burial, and human composting, offering more sustainable options for post-life care."
-  twitter_card: "summary_large_image"
+  canonical: 'https://useminds.com/discover-the-most-eco-friendly-burial-options/'
+  og_title: Discover the Most Eco-Friendly Burial Options - UseMinds
+  og_description: >-
+    As environmental awareness grows, traditional burial and cremation face
+    scrutiny for their ecological impact. This article explores alternatives
+    like alkaline hydrolysis, green burial, and human composting, offering more
+    sustainable options for post-life care.
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 25
@@ -25,7 +33,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 15
-quality_note: "While well-written and factually sound, this article completely misses the site's focus on conspiracy theories, hidden history, and mind-blowing science, instead covering environmental burial practices which don't align with the target audience or SEO keywords."
+quality_note: >-
+  While well-written and factually sound, this article completely misses the
+  site's focus on conspiracy theories, hidden history, and mind-blowing science,
+  instead covering environmental burial practices which don't align with the
+  target audience or SEO keywords.
+image_alt: A sapling grows from forest soil among wildflowers in soft morning light.
 ---
 
 As environmental awareness rises, the methods we choose for managing our remains after death are increasingly under scrutiny. With traditional burial and cremation being common practices, many are questioning their ecological impacts and searching for more sustainable alternatives. This article explores the environmental implications of these practices and examines emerging eco-friendly options.
