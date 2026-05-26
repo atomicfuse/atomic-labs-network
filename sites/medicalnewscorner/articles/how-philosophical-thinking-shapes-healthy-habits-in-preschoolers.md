@@ -1,24 +1,40 @@
 ---
-title: "How philosophical thinking shapes healthy habits in preschoolers"
-description: "Integrating philosophical thinking (PT) into early childhood education can empower preschoolers to develop healthy lifestyle habits, critical thinking skills, and informed decision-making abilities, according to a randomized controlled trial published in BMC Public Health."
-type: "standard"
-status: "published"
-publishDate: "2025-02-03T06:07:38+00:00"
-author: "admin"
+title: How philosophical thinking shapes healthy habits in preschoolers
+description: >-
+  Integrating philosophical thinking (PT) into early childhood education can
+  empower preschoolers to develop healthy lifestyle habits, critical thinking
+  skills, and informed decision-making abilities, according to a randomized
+  controlled trial published in BMC Public Health.
+type: standard
+status: published
+publishDate: '2025-02-03T06:07:38+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Children"
-slug: "how-philosophical-thinking-shapes-healthy-habits-in-preschoolers"
+  - Health News
+  - Children
+slug: how-philosophical-thinking-shapes-healthy-habits-in-preschoolers
 reading_time: 4
-source_url: "https://medicalnewscorner.com/how-philosophical-thinking-shapes-healthy-habits-in-preschoolers/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/how-philosophical-thinking-shapes-healthy-habits-in-preschoolers/
+imported_from: wordpress
 wp_original_id: 24453
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/how-philosophical-thinking-shapes-healthy-habits-in-preschoolers.webp
 seo:
-  canonical: "https://medicalnewscorner.com/how-philosophical-thinking-shapes-healthy-habits-in-preschoolers/"
-  og_title: "How philosophical thinking shapes healthy habits in preschoolers - Medical News Corner"
-  og_description: "Integrating philosophical thinking into early childhood education can empower preschoolers to develop healthy lifestyle habits, critical thinking skills, and informed decision-making abilities. Study:&#xA0;Teaching healthy lifestyle behaviors based on philosophical thinking to preschool children: a randomized controlled trial. Image Credit: Lordn / Shutterstock.com Teaching healthy lifestyle behaviors to very young children is foundational to their future [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/how-philosophical-thinking-shapes-healthy-habits-in-preschoolers/
+  og_title: >-
+    How philosophical thinking shapes healthy habits in preschoolers - Medical
+    News Corner
+  og_description: >-
+    Integrating philosophical thinking into early childhood education can
+    empower preschoolers to develop healthy lifestyle habits, critical thinking
+    skills, and informed decision-making abilities. Study:&#xA0;Teaching healthy
+    lifestyle behaviors based on philosophical thinking to preschool children: a
+    randomized controlled trial. Image Credit: Lordn / Shutterstock.com Teaching
+    healthy lifestyle behaviors to very young children is foundational to their
+    future [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +42,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written health research article with good tone and accuracy, but falls short on length and could improve SEO optimization with better keyword integration."
+quality_note: >-
+  Well-written health research article with good tone and accuracy, but falls
+  short on length and could improve SEO optimization with better keyword
+  integration.
+image_alt: >-
+  Preschoolers thoughtfully explore healthy foods and play materials in a warm
+  classroom setting.
 ---
 
 **Integrating philosophical thinking into early childhood education can empower preschoolers to develop healthy lifestyle habits, critical thinking skills, and informed decision-making abilities.**
