@@ -1,25 +1,38 @@
 ---
-title: "Why William Saliba Chose Arsenal Over Real Madrid Transfer"
-description: "Arsenal's William Saliba faces a pivotal career decision as Real Madrid reportedly expresses interest, with his choice to extend his contract at Arsenal set to significantly impact both his career trajectory and the club's defensive strategy."
-type: "standard"
-status: "review"
-publishDate: "2025-10-09T08:47:55+00:00"
-author: "Taylor Winters"
+title: Why William Saliba Chose Arsenal Over Real Madrid Transfer
+description: >-
+  Arsenal's William Saliba faces a pivotal career decision as Real Madrid
+  reportedly expresses interest, with his choice to extend his contract at
+  Arsenal set to significantly impact both his career trajectory and the club's
+  defensive strategy.
+type: standard
+status: review
+publishDate: '2025-10-09T08:47:55+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alexandre Lacazette"
-slug: "why-william-saliba-chose-arsenal-over-real-madrid-transfer"
+  - Latest News
+  - Alexandre Lacazette
+slug: why-william-saliba-chose-arsenal-over-real-madrid-transfer
 reading_time: 3
-source_url: "https://soccernewsreports.com/why-william-saliba-chose-arsenal-over-real-madrid-transfer/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/why-william-saliba-chose-arsenal-over-real-madrid-transfer/
+imported_from: wordpress
 wp_original_id: 37906
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/why-william-saliba-chose-arsenal-over-real-madrid-transfer.webp
 seo:
-  canonical: "https://soccernewsreports.com/why-william-saliba-chose-arsenal-over-real-madrid-transfer/"
-  og_title: "Why William Saliba Chose Arsenal Over Real Madrid Transfer - Soccer News Reports"
-  og_description: "Arsenal's William Saliba is at a career crossroads with Real Madrid reportedly interested. His decision on whether to extend his contract with Arsenal could impact his career trajectory and the club's defensive strategy significantly."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/10/make_GettyImages-2239196814.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/why-william-saliba-chose-arsenal-over-real-madrid-transfer/
+  og_title: >-
+    Why William Saliba Chose Arsenal Over Real Madrid Transfer - Soccer News
+    Reports
+  og_description: >-
+    Arsenal's William Saliba is at a career crossroads with Real Madrid
+    reportedly interested. His decision on whether to extend his contract with
+    Arsenal could impact his career trajectory and the club's defensive strategy
+    significantly.
+  og_image: >-
+    https://soccernewsreports.com/wp-content/uploads/2025/10/make_GettyImages-2239196814.jpg
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 60
-quality_note: "The article has a misleading title suggesting Saliba chose Arsenal over Madrid when the content only discusses potential interest, and falls significantly short of the target word count at 574 words."
+quality_note: >-
+  The article has a misleading title suggesting Saliba chose Arsenal over Madrid
+  when the content only discusses potential interest, and falls significantly
+  short of the target word count at 574 words.
+image_alt: >-
+  Football defender in a red-and-white kit pauses in a stadium tunnel, facing a
+  decisive career crossroads.
 ---
 
 Arsenal's promising defender, William Saliba, finds himself at a pivotal point in his career as speculation swirls around his contractual future with the club. With Real Madrid reportedly expressing interest, the young star's next move could significantly impact both his career trajectory and Arsenal's defensive lineup.
