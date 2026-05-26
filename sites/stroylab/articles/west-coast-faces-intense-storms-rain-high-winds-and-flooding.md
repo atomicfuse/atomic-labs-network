@@ -1,24 +1,37 @@
 ---
-title: "West Coast Faces Intense Storms: Rain, High Winds, and Flooding"
-description: "Global vaccination programs have significantly controlled infectious diseases and increased life expectancy, but face ongoing challenges including equitable access, vaccine hesitancy, and public misinformation. Addressing these issues through transparent communication, innovation, and international cooperation is essential for effective public health strategies."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:26:25+00:00"
-author: "Blake Anderson"
+title: 'West Coast Faces Intense Storms: Rain, High Winds, and Flooding'
+description: >-
+  Global vaccination programs have significantly controlled infectious diseases
+  and increased life expectancy, but face ongoing challenges including equitable
+  access, vaccine hesitancy, and public misinformation. Addressing these issues
+  through transparent communication, innovation, and international cooperation
+  is essential for effective public health strategies.
+type: standard
+status: review
+publishDate: '2025-12-22T11:26:25+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "west-coast-faces-intense-storms-rain-high-winds-and-flooding"
+  - Deep Dives
+slug: west-coast-faces-intense-storms-rain-high-winds-and-flooding
 reading_time: 3
-source_url: "https://stroylab.com/west-coast-faces-intense-storms-rain-high-winds-and-flooding/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/west-coast-faces-intense-storms-rain-high-winds-and-flooding/
+imported_from: wordpress
 wp_original_id: 664
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/west-coast-faces-intense-storms-rain-high-winds-and-flooding.webp
 seo:
-  canonical: "https://stroylab.com/west-coast-faces-intense-storms-rain-high-winds-and-flooding/"
-  og_title: "West Coast Faces Intense Storms: Rain, High Winds, and Flooding - StroyLab"
-  og_description: "Global vaccination programs have significantly controlled diseases, increasing life expectancy and reducing mortality rates. However, they face challenges such as equitable access and vaccine hesitancy. Addressing these issues through communication and innovation is crucial for successful public health strategies."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-182.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/west-coast-faces-intense-storms-rain-high-winds-and-flooding/
+  og_title: 'West Coast Faces Intense Storms: Rain, High Winds, and Flooding - StroyLab'
+  og_description: >-
+    Global vaccination programs have significantly controlled diseases,
+    increasing life expectancy and reducing mortality rates. However, they face
+    challenges such as equitable access and vaccine hesitancy. Addressing these
+    issues through communication and innovation is crucial for successful public
+    health strategies.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-182.jpeg'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article completely mismatches the site's focus on sensitive topics like conspiracies and mysteries, instead covering mainstream vaccine information with poor SEO optimization."
+quality_note: >-
+  The article completely mismatches the site's focus on sensitive topics like
+  conspiracies and mysteries, instead covering mainstream vaccine information
+  with poor SEO optimization.
+image_alt: >-
+  Healthcare workers and community members stand around a glowing world map at
+  sunrise.
 ---
 
 In recent years, the global discourse on health and medicine has increasingly focused on the potential impacts of widespread vaccination programs. As these initiatives have rolled out worldwide, various reports have emerged highlighting both the successes and the challenges they entail. With different perspectives and data, it's crucial to examine the multifaceted aspects of vaccine distribution and its implications on public health.
