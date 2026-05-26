@@ -1,23 +1,30 @@
 ---
-title: "Why Microbe Habitats in Moon Shadows Could Pose a Serious Threat"
-description: "Moon shadows in deep lunar craters are thought to be cold traps potentially harboring simple life forms like microbes, sparking concerns about contamination risks during space exploration missions and the need to update planetary protection protocols."
-type: "standard"
-status: "review"
-publishDate: "2025-04-03T11:01:45"
-author: "Taylor Winters"
+title: Why Microbe Habitats in Moon Shadows Could Pose a Serious Threat
+description: >-
+  Moon shadows in deep lunar craters are thought to be cold traps potentially
+  harboring simple life forms like microbes, sparking concerns about
+  contamination risks during space exploration missions and the need to update
+  planetary protection protocols.
+type: standard
+status: review
+publishDate: '2025-04-03T11:01:45'
+author: Taylor Winters
 tags:
-  - "Physics"
-  - "Space"
-  - "Tech"
-slug: "why-microbe-habitats-in-moon-shadows-could-pose-a-serious-threat"
+  - Physics
+  - Space
+  - Tech
+slug: why-microbe-habitats-in-moon-shadows-could-pose-a-serious-threat
 reading_time: 2
-source_url: "https://www.sciencenewslab.com/why-microbe-habitats-in-moon-shadows-could-pose-a-serious-threat/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/why-microbe-habitats-in-moon-shadows-could-pose-a-serious-threat/
+imported_from: wordpress
 wp_original_id: 14907
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/why-microbe-habitats-in-moon-shadows-could-pose-a-serious-threat.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/why-microbe-habitats-in-moon-shadows-could-pose-a-serious-threat/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/why-microbe-habitats-in-moon-shadows-could-pose-a-serious-threat/
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -25,7 +32,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "The article has good tone and keyword relevance but is significantly too short at 349 words and contains some outdated/inaccurate information about the VIPER mission timeline."
+quality_note: >-
+  The article has good tone and keyword relevance but is significantly too short
+  at 349 words and contains some outdated/inaccurate information about the VIPER
+  mission timeline.
+image_alt: >-
+  Lunar rover pauses at the edge of a dark icy crater where faint microbial
+  traces glow in shadow.
 ---
 
 The possibility of moon shadows acting as a safe haven for microbes has sparked a fresh discussion in the scientific community. These lunar shadows, found in deep craters, are thought to be cold traps and could potentially harbor simple life forms, leading to concerns for space exploration missions.
