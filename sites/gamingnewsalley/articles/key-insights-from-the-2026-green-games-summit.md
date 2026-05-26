@@ -1,25 +1,35 @@
 ---
-title: "Key Insights from the 2026 Green Games Summit"
-description: "The gaming industry is transforming towards sustainability, with developers integrating eco-friendly practices in game design. This shift aligns with global environmental goals and resonates with eco-conscious gamers, emphasizing reduced waste, environmental responsibility, and collaboration across the industry."
-type: "standard"
-status: "review"
-publishDate: "2025-11-13T09:35:30+00:00"
-author: "Taylor Winters"
+title: Key Insights from the 2026 Green Games Summit
+description: >-
+  The gaming industry is transforming towards sustainability, with developers
+  integrating eco-friendly practices in game design. This shift aligns with
+  global environmental goals and resonates with eco-conscious gamers,
+  emphasizing reduced waste, environmental responsibility, and collaboration
+  across the industry.
+type: standard
+status: review
+publishDate: '2025-11-13T09:35:30+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "key-insights-from-the-2026-green-games-summit"
+  - Gaming News
+  - Community
+slug: key-insights-from-the-2026-green-games-summit
 reading_time: 3
-source_url: "https://gamingnewsalley.com/key-insights-from-the-2026-green-games-summit/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/key-insights-from-the-2026-green-games-summit/'
+imported_from: wordpress
 wp_original_id: 42547
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/key-insights-from-the-2026-green-games-summit.webp
 seo:
-  canonical: "https://gamingnewsalley.com/key-insights-from-the-2026-green-games-summit/"
-  og_title: "Key Insights from the 2026 Green Games Summit - Gaming News Alley"
-  og_description: "The gaming industry is transforming towards sustainability, with developers integrating eco-friendly practices in game design. This shift aligns with global environmental goals and resonates with eco-conscious gamers, emphasizing reduced waste, environmental responsibility, and collaboration across the industry."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/11/make_twitter-2.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/key-insights-from-the-2026-green-games-summit/'
+  og_title: Key Insights from the 2026 Green Games Summit - Gaming News Alley
+  og_description: >-
+    The gaming industry is transforming towards sustainability, with developers
+    integrating eco-friendly practices in game design. This shift aligns with
+    global environmental goals and resonates with eco-conscious gamers,
+    emphasizing reduced waste, environmental responsibility, and collaboration
+    across the industry.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/11/make_twitter-2.jpg'
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 40
-quality_note: "The article has poor SEO optimization with a vague title and lacks proper headings, is too short at 516 words, and appears to fabricate a '2026 Green Games Summit' event while only tangentially relating to core gaming topics."
+quality_note: >-
+  The article has poor SEO optimization with a vague title and lacks proper
+  headings, is too short at 516 words, and appears to fabricate a '2026 Green
+  Games Summit' event while only tangentially relating to core gaming topics.
+image_alt: >-
+  Futuristic gaming workspace blended with plants and recycled materials to
+  suggest sustainable game development.
 ---
 
 The gaming industry is undergoing a significant transformation, focusing more on sustainability and eco-friendly practices. As the world becomes increasingly aware of environmental issues, game developers are stepping up to integrate green initiatives in game design and production. This shift not only aligns with global environmental goals but also resonates with a growing segment of eco-conscious gamers.
