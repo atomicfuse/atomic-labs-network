@@ -1,25 +1,33 @@
 ---
-title: "Microsoft Fires Employees After Office Protest"
-description: "Microsoft recently terminated two employees following a protest at its Redmond office, raising issues about corporate policies and employee rights. The incident highlights the complex balance between maintaining order and addressing grievances in large corporations."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T05:25:20+00:00"
-author: "Arthur Daly"
+title: Microsoft Fires Employees After Office Protest
+description: >-
+  Microsoft recently terminated two employees following a protest at its Redmond
+  office, raising issues about corporate policies and employee rights. The
+  incident highlights the complex balance between maintaining order and
+  addressing grievances in large corporations.
+type: standard
+status: review
+publishDate: '2025-08-28T05:25:20+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-  - "Trends"
-slug: "microsoft-fires-employees-after-office-protest"
+  - Tech
+  - Trends
+slug: microsoft-fires-employees-after-office-protest
 reading_time: 3
-source_url: "https://geekystudios.com/microsoft-fires-employees-after-office-protest/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/microsoft-fires-employees-after-office-protest/'
+imported_from: wordpress
 wp_original_id: 637
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/microsoft-fires-employees-after-office-protest.webp
 seo:
-  canonical: "https://geekystudios.com/microsoft-fires-employees-after-office-protest/"
-  og_title: "Microsoft Fires Employees After Office Protest - Geeky Studios"
-  og_description: "Microsoft recently terminated two employees following a protest at its Redmond office, raising issues about corporate policies and employee rights. The incident highlights the complex balance between maintaining order and addressing grievances in large corporations."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/08/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://geekystudios.com/microsoft-fires-employees-after-office-protest/'
+  og_title: Microsoft Fires Employees After Office Protest - Geeky Studios
+  og_description: >-
+    Microsoft recently terminated two employees following a protest at its
+    Redmond office, raising issues about corporate policies and employee rights.
+    The incident highlights the complex balance between maintaining order and
+    addressing grievances in large corporations.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/08/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with appropriate tone and good keyword alignment, but significantly under target word count and lacks specific details that could verify factual accuracy."
+quality_note: >-
+  Well-written article with appropriate tone and good keyword alignment, but
+  significantly under target word count and lacks specific details that could
+  verify factual accuracy.
+image_alt: >-
+  Employees gather outside a modern corporate office divided by subtle security
+  barriers.
 ---
 
 In recent developments, Microsoft has taken decisive action against two employees following a protest at the company's Redmond, Washington office. The protest, which took place outside Building 34, highlighted internal tensions and raised questions about corporate policies and employee rights. Microsoft's swift response underscores the delicate balance between maintaining workplace order and addressing employee grievances.
