@@ -1,25 +1,32 @@
 ---
-title: "Prepare for Thanksgiving Travel: Tips from Officials"
-description: "Thanksgiving is one of the busiest travel periods of the year, with millions traveling by road or air. Planning ahead and staying informed can help minimize stress, ensuring a smooth journey amid the holiday rush."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T09:27:29+00:00"
-author: "Malcolm Anderson"
+title: 'Prepare for Thanksgiving Travel: Tips from Officials'
+description: >-
+  Thanksgiving is one of the busiest travel periods of the year, with millions
+  traveling by road or air. Planning ahead and staying informed can help
+  minimize stress, ensuring a smooth journey amid the holiday rush.
+type: standard
+status: published
+publishDate: '2025-11-27T09:27:29+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Guides &amp; Tips"
-slug: "prepare-for-thanksgiving-travel-tips-from-officials"
+  - Culture
+  - Guides &amp; Tips
+slug: prepare-for-thanksgiving-travel-tips-from-officials
 reading_time: 3
-source_url: "https://travelnights.com/prepare-for-thanksgiving-travel-tips-from-officials/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/prepare-for-thanksgiving-travel-tips-from-officials/'
+imported_from: wordpress
 wp_original_id: 36581
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/prepare-for-thanksgiving-travel-tips-from-officials.webp
 seo:
-  canonical: "https://travelnights.com/prepare-for-thanksgiving-travel-tips-from-officials/"
-  og_title: "Prepare for Thanksgiving Travel: Tips from Officials - Travel Nights"
-  og_description: "Thanksgiving is one of the busiest travel periods of the year, with millions traveling by road or air. Planning ahead and staying informed can help minimize stress, ensuring a smooth journey amid the holiday rush."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/11/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/prepare-for-thanksgiving-travel-tips-from-officials/
+  og_title: 'Prepare for Thanksgiving Travel: Tips from Officials - Travel Nights'
+  og_description: >-
+    Thanksgiving is one of the busiest travel periods of the year, with millions
+    traveling by road or air. Planning ahead and staying informed can help
+    minimize stress, ensuring a smooth journey amid the holiday rush.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/11/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +34,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written travel guide with good tone and accuracy, but falls significantly short of the 800-1200 word target at only 468 words."
+quality_note: >-
+  Well-written travel guide with good tone and accuracy, but falls significantly
+  short of the 800-1200 word target at only 468 words.
+image_alt: >-
+  Travelers move through a busy airport terminal during the Thanksgiving holiday
+  rush.
 ---
 
 Thanksgiving is a time for family gatherings and festive meals, but it's also one of the busiest travel periods of the year. With millions hitting the road or taking to the skies, travelers must plan ahead to avoid stress and ensure a smooth journey. Whether you're traveling by car or plane, a little preparation can make all the difference during this hectic season.
