@@ -1,24 +1,41 @@
 ---
-title: "Crash investigators looking at altitude, communication and staffing before helicopter collision with plane"
-description: "Investigators are examining altitude, communication, and staffing factors after a deadly collision between an Army Black Hawk helicopter and American Airlines Flight 5342 over the Potomac River, which killed all 67 people aboard both aircraft."
-type: "standard"
-status: "review"
-publishDate: "2025-02-03T10:10:37+00:00"
-author: "admin"
+title: >-
+  Crash investigators looking at altitude, communication and staffing before
+  helicopter collision with plane
+description: >-
+  Investigators are examining altitude, communication, and staffing factors
+  after a deadly collision between an Army Black Hawk helicopter and American
+  Airlines Flight 5342 over the Potomac River, which killed all 67 people aboard
+  both aircraft.
+type: standard
+status: review
+publishDate: '2025-02-03T10:10:37+00:00'
+author: admin
 tags:
-  - "Travel"
-  - "News"
-slug: "crash-investigators-looking-at-altitude-communication-and-staffing-before-helicopter-collision-with-plane"
+  - Travel
+  - News
+slug: >-
+  crash-investigators-looking-at-altitude-communication-and-staffing-before-helicopter-collision-with-plane
 reading_time: 3
-source_url: "https://journeypeaks.com/crash-investigators-looking-at-altitude-communication-and-staffing-before-helicopter-collision-with-plane/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/crash-investigators-looking-at-altitude-communication-and-staffing-before-helicopter-collision-with-plane/
+imported_from: wordpress
 wp_original_id: 38517
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/crash-investigators-looking-at-altitude-communication-and-staffing-before-helicopter-collision-with-plane.webp
 seo:
-  canonical: "https://journeypeaks.com/crash-investigators-looking-at-altitude-communication-and-staffing-before-helicopter-collision-with-plane/"
-  og_title: "Crash investigators looking at altitude, communication and staffing before helicopter collision with plane - Journey Peaks"
-  og_description: "(EDITORS NOTE: Image contains graphic content) In this U.S. Coast Guard handout, the Coast Guard investigates aircraft wreckage on the Potomac River on Jan. 30, 2025 in Washington, DC.&nbsp; Petty Officer 1st Class Brandon Giles | U.S. Coast Guard | Handout | Getty Images How an Army Black Hawk helicopter collided into an American Airlines [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/crash-investigators-looking-at-altitude-communication-and-staffing-before-helicopter-collision-with-plane/
+  og_title: >-
+    Crash investigators looking at altitude, communication and staffing before
+    helicopter collision with plane - Journey Peaks
+  og_description: >-
+    (EDITORS NOTE: Image contains graphic content) In this U.S. Coast Guard
+    handout, the Coast Guard investigates aircraft wreckage on the Potomac River
+    on Jan. 30, 2025 in Washington, DC.&nbsp; Petty Officer 1st Class Brandon
+    Giles | U.S. Coast Guard | Handout | Getty Images How an Army Black Hawk
+    helicopter collided into an American Airlines [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 37
 score_breakdown:
   seo_quality: 25
@@ -26,7 +43,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "This is a breaking news article about an aviation disaster that doesn't align with the travel site's content focus, tone, or target audience expectations."
+quality_note: >-
+  This is a breaking news article about an aviation disaster that doesn't align
+  with the travel site's content focus, tone, or target audience expectations.
+image_alt: >-
+  Dusk over a river airport approach with distant aircraft silhouettes and
+  runway lights
 ---
 
 How an Army Black Hawk helicopter collided into an American Airlines jetliner in a [deadly crash](https://www.cnbc.com/2025/01/30/american-airlines-helicopter-collision-worst-air-disaster-in-years.html) over the Potomac River Wednesday night is still unknown, but questions are emerging, including the altitude of the military helicopter.
