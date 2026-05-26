@@ -1,25 +1,31 @@
 ---
-title: "2026 Zeekr 7X Long Range RWD Review and Range Test"
-description: "The Zeekr 7X Long Range RWD blends big-battery range, fast-charging potential, premium cabin space and rear-drive efficiency, positioning it as a serious electric family SUV contender for Australia."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:22:33+00:00"
-author: "Taylor Winters"
+title: 2026 Zeekr 7X Long Range RWD Review and Range Test
+description: >-
+  The Zeekr 7X Long Range RWD blends big-battery range, fast-charging potential,
+  premium cabin space and rear-drive efficiency, positioning it as a serious
+  electric family SUV contender for Australia.
+type: standard
+status: published
+publishDate: '2026-05-11T08:22:33+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Reviews"
-slug: "2026-zeekr-7x-long-range-rwd-review-and-range-test"
+  - Electric Cars
+  - Reviews
+slug: 2026-zeekr-7x-long-range-rwd-review-and-range-test
 reading_time: 8
-source_url: "https://carsnewsmag.com/2026-zeekr-7x-long-range-rwd-review-and-range-test/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/2026-zeekr-7x-long-range-rwd-review-and-range-test/'
+imported_from: wordpress
 wp_original_id: 38612
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-zeekr-7x-long-range-rwd-review-and-range-test.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-zeekr-7x-long-range-rwd-review-and-range-test/"
-  og_title: "2026 Zeekr 7X Long Range RWD Review and Range Test - Cars News Magazine"
-  og_description: "The Zeekr 7X Long Range RWD blends big-battery range, fast-charging potential, premium cabin space and rear-drive efficiency, positioning it as a serious electric family SUV contender for Australia."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/2026-zeekr-7x-long-range-rwd-review-and-range-test/'
+  og_title: 2026 Zeekr 7X Long Range RWD Review and Range Test - Cars News Magazine
+  og_description: >-
+    The Zeekr 7X Long Range RWD blends big-battery range, fast-charging
+    potential, premium cabin space and rear-drive efficiency, positioning it as
+    a serious electric family SUV contender for Australia.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/05/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 92
 score_breakdown:
   seo_quality: 85
@@ -27,7 +33,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 88
   keyword_relevance: 95
-quality_note: "Excellent automotive review that hits the target length perfectly with engaging, expert tone and strong keyword coverage, though some battery specifications could be more precise."
+quality_note: >-
+  Excellent automotive review that hits the target length perfectly with
+  engaging, expert tone and strong keyword coverage, though some battery
+  specifications could be more precise.
+image_alt: >-
+  Sleek electric family SUV driving along an open Australian coastal highway at
+  golden hour
 ---
 
 The Zeekr 7X Long Range RWD shapes up as one of the most interesting electric midsize SUVs heading toward Australia, combining a big battery, generous cabin space and luxury-leaning presentation with the backing of Geely's fast-growing premium EV brand. As buyers compare the Tesla Model Y, Kia EV5, Hyundai Ioniq 5, Polestar 4 and Xpeng G6, this Chinese-built SUV arrives with the sort of hardware that could make it a serious contender.
