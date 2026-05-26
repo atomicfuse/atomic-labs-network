@@ -1,28 +1,36 @@
 ---
-title: "How to Make Custom Sublimation 40 oz Tumblers"
-description: "Learn how to customize 40 oz sublimation tumblers with this step-by-step tutorial covering two different tumbler styles, design creation, and tips for getting the best results."
-type: "standard"
-status: "review"
-publishDate: "2025-02-20T16:27:11+00:00"
-author: "admin"
+title: How to Make Custom Sublimation 40 oz Tumblers
+description: >-
+  Learn how to customize 40 oz sublimation tumblers with this step-by-step
+  tutorial covering two different tumbler styles, design creation, and tips for
+  getting the best results.
+type: standard
+status: review
+publishDate: '2025-02-20T16:27:11+00:00'
+author: admin
 tags:
-  - "How To"
-  - "Design"
-slug: "how-to-make-custom-sublimation-40-oz-tumblers"
+  - How To
+  - Design
+slug: how-to-make-custom-sublimation-40-oz-tumblers
 reading_time: 12
-source_url: "https://decoratingtricks.com/how-to-make-custom-sublimation-40-oz-tumblers/"
-imported_from: "wordpress"
+source_url: 'https://decoratingtricks.com/how-to-make-custom-sublimation-40-oz-tumblers/'
+imported_from: wordpress
 wp_original_id: 21258
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/how-to-make-custom-sublimation-40-oz-tumblers.webp
 seo:
-  canonical: "https://decoratingtricks.com/how-to-make-custom-sublimation-40-oz-tumblers/"
-  og_title: "How to Make Custom Sublimation 40 oz Tumblers - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. You see 40 oz tumblers are [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingtricks.com/how-to-make-custom-sublimation-40-oz-tumblers/'
+  og_title: How to Make Custom Sublimation 40 oz Tumblers - Decorating Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. You see 40 oz tumblers are
+    [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "88551886"
-    url: "https://www.youtube.com/watch?v=PCCvGXBsGdQ"
-    position: "after-paragraph-8"
+  - id: '88551886'
+    url: 'https://www.youtube.com/watch?v=PCCvGXBsGdQ'
+    position: after-paragraph-8
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -30,7 +38,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 60
-quality_note: "Well-written tutorial with good tone and accuracy, but significantly exceeds target length and has limited relevance to core home decor topics."
+quality_note: >-
+  Well-written tutorial with good tone and accuracy, but significantly exceeds
+  target length and has limited relevance to core home decor topics.
+image_alt: >-
+  Colorful custom tumblers on a bright DIY craft table with sublimation supplies
+  nearby
 ---
 
 You see 40 oz tumblers are everywhere, but finding one that is perfectly made for you may be harder than you think. With all the different colors and varieties, it's fun to create something uniquely you. So I am going to show you how to customize two different types of 40 oz sublimation tumblers in this post.
