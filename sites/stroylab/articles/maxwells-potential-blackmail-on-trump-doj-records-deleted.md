@@ -1,23 +1,35 @@
 ---
-title: "Maxwell’s Potential Blackmail on Trump: DOJ Records Deleted"
-description: "The global financial landscape is changing significantly with nations reassessing monetary policies, impacting international trade and investment. Geopolitical tensions and market demands drive this shift, leading to protectionist policies and renegotiation of trade agreements in a fragmented market."
-type: "standard"
-status: "review"
-publishDate: "2026-02-23T11:13:20+00:00"
-author: "Blake Anderson"
+title: 'Maxwell’s Potential Blackmail on Trump: DOJ Records Deleted'
+description: >-
+  The global financial landscape is changing significantly with nations
+  reassessing monetary policies, impacting international trade and investment.
+  Geopolitical tensions and market demands drive this shift, leading to
+  protectionist policies and renegotiation of trade agreements in a fragmented
+  market.
+type: standard
+status: review
+publishDate: '2026-02-23T11:13:20+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "maxwells-potential-blackmail-on-trump-doj-records-deleted"
+  - Deep Dives
+slug: maxwells-potential-blackmail-on-trump-doj-records-deleted
 reading_time: 3
-source_url: "https://stroylab.com/maxwells-potential-blackmail-on-trump-doj-records-deleted/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/maxwells-potential-blackmail-on-trump-doj-records-deleted/
+imported_from: wordpress
 wp_original_id: 789
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/maxwells-potential-blackmail-on-trump-doj-records-deleted.webp
 seo:
-  canonical: "https://stroylab.com/maxwells-potential-blackmail-on-trump-doj-records-deleted/"
-  og_title: "Maxwell's Potential Blackmail on Trump: DOJ Records Deleted - StroyLab"
-  og_description: "The global financial landscape is changing significantly with nations reassessing monetary policies, impacting international trade and investment. Geopolitical tensions and market demands drive this shift, leading to protectionist policies and renegotiation of trade agreements in a fragmented market."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/maxwells-potential-blackmail-on-trump-doj-records-deleted/
+  og_title: 'Maxwell''s Potential Blackmail on Trump: DOJ Records Deleted - StroyLab'
+  og_description: >-
+    The global financial landscape is changing significantly with nations
+    reassessing monetary policies, impacting international trade and investment.
+    Geopolitical tensions and market demands drive this shift, leading to
+    protectionist policies and renegotiation of trade agreements in a fragmented
+    market.
+  twitter_card: summary_large_image
 quality_score: 31
 score_breakdown:
   seo_quality: 15
@@ -25,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 5
-quality_note: "Complete disconnect between title about Maxwell/Trump conspiracy and generic economic content, with poor length and no relevance to site's focus on sensitive topics."
+quality_note: >-
+  Complete disconnect between title about Maxwell/Trump conspiracy and generic
+  economic content, with poor length and no relevance to site's focus on
+  sensitive topics.
+image_alt: >-
+  Dim government archive with sealed files and a computer suggesting deleted
+  records
 ---
 
 The global financial landscape is undergoing significant changes, and recent developments suggest a shift in economic dynamics. As nations reassess their monetary policies, the implications for international trade and investment are profound. This transformation is driven by various factors, including geopolitical tensions and evolving market demands.
