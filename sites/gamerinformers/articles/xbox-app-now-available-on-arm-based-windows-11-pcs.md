@@ -1,25 +1,34 @@
 ---
-title: "Xbox App Now Available on ARM-Based Windows 11 PCs"
-description: "Microsoft has launched the Xbox app for Windows 11 on ARM-based devices, expanding its gaming ecosystem and offering a seamless experience. This move allows ARM-powered device users access to a vast game library, enhancing inclusivity and gaming technology."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:31:33+00:00"
-author: "Taylor Winters"
+title: Xbox App Now Available on ARM-Based Windows 11 PCs
+description: >-
+  Microsoft has launched the Xbox app for Windows 11 on ARM-based devices,
+  expanding its gaming ecosystem and offering a seamless experience. This move
+  allows ARM-powered device users access to a vast game library, enhancing
+  inclusivity and gaming technology.
+type: standard
+status: published
+publishDate: '2026-01-26T09:31:33+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "xbox-app-now-available-on-arm-based-windows-11-pcs"
+  - Gaming News
+  - Community
+slug: xbox-app-now-available-on-arm-based-windows-11-pcs
 reading_time: 3
-source_url: "https://gamerinformers.com/xbox-app-now-available-on-arm-based-windows-11-pcs/"
-imported_from: "wordpress"
+source_url: 'https://gamerinformers.com/xbox-app-now-available-on-arm-based-windows-11-pcs/'
+imported_from: wordpress
 wp_original_id: 34129
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: /assets/images/xbox-app-now-available-on-arm-based-windows-11-pcs.webp
 seo:
-  canonical: "https://gamerinformers.com/xbox-app-now-available-on-arm-based-windows-11-pcs/"
-  og_title: "Xbox App Now Available on ARM-Based Windows 11 PCs - Gamer Informers"
-  og_description: "Microsoft has launched the Xbox app for Windows 11 on ARM-based devices, expanding its gaming ecosystem and offering a seamless experience. This move allows ARM-powered device users access to a vast game library, enhancing inclusivity and gaming technology."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2026/01/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/xbox-app-now-available-on-arm-based-windows-11-pcs/
+  og_title: Xbox App Now Available on ARM-Based Windows 11 PCs - Gamer Informers
+  og_description: >-
+    Microsoft has launched the Xbox app for Windows 11 on ARM-based devices,
+    expanding its gaming ecosystem and offering a seamless experience. This move
+    allows ARM-powered device users access to a vast game library, enhancing
+    inclusivity and gaming technology.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2026/01/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written gaming news article with good tone and keyword coverage, but falls short on word count (531 vs 800-1200 target) which significantly impacts the overall score."
+quality_note: >-
+  Well-written gaming news article with good tone and keyword coverage, but
+  falls short on word count (531 vs 800-1200 target) which significantly impacts
+  the overall score.
+image_alt: >-
+  Thin laptop, controller, and glowing abstract game tiles suggesting ARM-based
+  PC gaming access
 ---
 
 Microsoft has made a significant leap in the gaming world by officially launching the Xbox app for Windows 11 on ARM-based devices. This development marks a new era for gamers using these devices, ensuring they can enjoy a seamless gaming experience. The Xbox app's arrival on ARM-based Windows 11 PCs is a testament to Microsoft's dedication to expanding its gaming ecosystem.
