@@ -1,26 +1,39 @@
 ---
-title: "Discover Oregon’s Enchanting Cottage Transformation from 2010 Home"
-description: "Molly Kidd, a renowned designer, transforms homes by blending modern functionality with whimsy, emphasizing personal expression, balanced boldness, and meaningful living spaces."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T09:19:26+00:00"
-author: "Taylor Winters"
+title: Discover Oregon’s Enchanting Cottage Transformation from 2010 Home
+description: >-
+  Molly Kidd, a renowned designer, transforms homes by blending modern
+  functionality with whimsy, emphasizing personal expression, balanced boldness,
+  and meaningful living spaces.
+type: standard
+status: review
+publishDate: '2026-01-29T09:19:26+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "Home Improvement"
-slug: "discover-oregons-enchanting-cottage-transformation-from-2010-home"
+  - Design
+  - Home
+  - Home Improvement
+slug: discover-oregons-enchanting-cottage-transformation-from-2010-home
 reading_time: 3
-source_url: "https://decoratingtricks.com/discover-oregons-enchanting-cottage-transformation-from-2010-home/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/discover-oregons-enchanting-cottage-transformation-from-2010-home/
+imported_from: wordpress
 wp_original_id: 21554
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-oregons-enchanting-cottage-transformation-from-2010-home.webp
 seo:
-  canonical: "https://decoratingtricks.com/discover-oregons-enchanting-cottage-transformation-from-2010-home/"
-  og_title: "Discover Oregon's Enchanting Cottage Transformation from 2010 Home - Decorating Tricks"
-  og_description: "Molly Kidd, a renowned designer, transforms homes by blending modern functionality with whimsy. Her designs emphasize personal expression, balance boldness with elegance, and maximize space. Emphasizing natural light and personal elements, she crafts inviting, aesthetically pleasing, and meaningful living spaces."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/discover-oregons-enchanting-cottage-transformation-from-2010-home/
+  og_title: >-
+    Discover Oregon's Enchanting Cottage Transformation from 2010 Home -
+    Decorating Tricks
+  og_description: >-
+    Molly Kidd, a renowned designer, transforms homes by blending modern
+    functionality with whimsy. Her designs emphasize personal expression,
+    balance boldness with elegance, and maximize space. Emphasizing natural
+    light and personal elements, she crafts inviting, aesthetically pleasing,
+    and meaningful living spaces.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 53
 score_breakdown:
   seo_quality: 25
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 65
-quality_note: "Article has poor SEO optimization with vague title and description, falls significantly short of target word count, but maintains appropriate tone and covers relevant design topics."
+quality_note: >-
+  Article has poor SEO optimization with vague title and description, falls
+  significantly short of target word count, but maintains appropriate tone and
+  covers relevant design topics.
+image_alt: >-
+  Sunlit whimsical cottage living room blending modern design, vintage textures,
+  and Oregon forest warmth.
 ---
 
 Molly Kidd, a renowned designer, has transformed a once ordinary residence into a lively and eclectic home. Her distinct approach to remodeling blends modern functionality with a touch of whimsy, creating spaces that are both practical and visually captivating.
