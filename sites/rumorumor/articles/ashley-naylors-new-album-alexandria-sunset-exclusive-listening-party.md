@@ -1,24 +1,37 @@
 ---
-title: "Ashley Naylor’s New Album ‘Alexandria Sunset’ Exclusive Listening Party"
-description: "Renowned musician Ashley Naylor will host an exclusive listening event in Melbourne for his new album, \"Alexandria Sunset,\" offering fans a unique, immersive musical experience and insights into the creative process behind his anticipated release."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T06:26:24+00:00"
-author: "Priscilla Cruz"
+title: Ashley Naylor’s New Album ‘Alexandria Sunset’ Exclusive Listening Party
+description: >-
+  Renowned musician Ashley Naylor will host an exclusive listening event in
+  Melbourne for his new album, "Alexandria Sunset," offering fans a unique,
+  immersive musical experience and insights into the creative process behind his
+  anticipated release.
+type: standard
+status: review
+publishDate: '2025-08-07T06:26:24+00:00'
+author: Priscilla Cruz
 tags:
-  - "Music"
-slug: "ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party"
+  - Music
+slug: ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party
 reading_time: 3
-source_url: "https://rumorumor.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/"
-imported_from: "wordpress"
+source_url: >-
+  https://rumorumor.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/
+imported_from: wordpress
 wp_original_id: 522
-featuredImage: "/assets/images/rumorumor-general-article.webp"
+featuredImage: >-
+  /assets/images/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party.webp
 seo:
-  canonical: "https://rumorumor.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/"
-  og_title: "Ashley Naylor's New Album 'Alexandria Sunset' Exclusive Listening Party - Rumor Rumor"
-  og_description: "Renowned musician Ashley Naylor will host an exclusive listening event in Melbourne for his new album, \"Alexandria Sunset,\" offering fans a unique, immersive musical experience and insights into the creative process behind his anticipated release."
-  og_image: "https://rumorumor.com/wp-content/uploads/2025/08/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://rumorumor.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/
+  og_title: >-
+    Ashley Naylor's New Album 'Alexandria Sunset' Exclusive Listening Party -
+    Rumor Rumor
+  og_description: >-
+    Renowned musician Ashley Naylor will host an exclusive listening event in
+    Melbourne for his new album, "Alexandria Sunset," offering fans a unique,
+    immersive musical experience and insights into the creative process behind
+    his anticipated release.
+  og_image: 'https://rumorumor.com/wp-content/uploads/2025/08/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written music article with good keyword relevance but falls short on length (523 words vs 800-1200 target) and could improve SEO optimization with better title length and meta description."
+quality_note: >-
+  Well-written music article with good keyword relevance but falls short on
+  length (523 words vs 800-1200 target) and could improve SEO optimization with
+  better title length and meta description.
+image_alt: >-
+  Intimate twilight listening party with turntable, guitar, and guests in a
+  moody Melbourne loft
 ---
 
 Renowned musician Ashley Naylor is set to captivate fans with an exclusive listening event for his much-anticipated album, "Alexandria Sunset." Scheduled to take place in Melbourne, this event promises a unique and immersive musical journey.
