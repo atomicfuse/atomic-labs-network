@@ -1,27 +1,41 @@
 ---
-title: "Exploring the Impact of Heavy Alcohol Consumption on Dementia Risk"
-description: "Recent research suggests a potential link between alcohol consumption and dementia, indicating that even moderate drinking may contribute to brain damage and cognitive decline. The findings challenge widely accepted notions about safe alcohol use and could have significant implications for public health guidelines."
-type: "standard"
-status: "review"
-publishDate: "2025-04-21T04:16:34+00:00"
-author: "Taylor Winters"
+title: Exploring the Impact of Heavy Alcohol Consumption on Dementia Risk
+description: >-
+  Recent research suggests a potential link between alcohol consumption and
+  dementia, indicating that even moderate drinking may contribute to brain
+  damage and cognitive decline. The findings challenge widely accepted notions
+  about safe alcohol use and could have significant implications for public
+  health guidelines.
+type: standard
+status: review
+publishDate: '2025-04-21T04:16:34+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Aging"
-  - "Clinical Trials &amp; Research"
-  - "Mental Health"
-slug: "exploring-the-impact-of-heavy-alcohol-consumption-on-dementia-risk"
+  - Research
+  - Aging
+  - Clinical Trials &amp; Research
+  - Mental Health
+slug: exploring-the-impact-of-heavy-alcohol-consumption-on-dementia-risk
 reading_time: 2
-source_url: "https://medicalnewscorner.com/exploring-the-impact-of-heavy-alcohol-consumption-on-dementia-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/exploring-the-impact-of-heavy-alcohol-consumption-on-dementia-risk/
+imported_from: wordpress
 wp_original_id: 24618
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-the-impact-of-heavy-alcohol-consumption-on-dementia-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/exploring-the-impact-of-heavy-alcohol-consumption-on-dementia-risk/"
-  og_title: "Exploring the Impact of Heavy Alcohol Consumption on Dementia Risk - Medical News Corner"
-  og_description: "Recent research suggests a potential link between alcohol consumption and dementia. Even moderate drinking could contribute to dementia by causing harm to the brain. The findings challenge the notion that moderate alcohol use is harmless and may influence public health guidelines."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/exploring-the-impact-of-heavy-alcohol-consumption-on-dementia-risk/
+  og_title: >-
+    Exploring the Impact of Heavy Alcohol Consumption on Dementia Risk - Medical
+    News Corner
+  og_description: >-
+    Recent research suggests a potential link between alcohol consumption and
+    dementia. Even moderate drinking could contribute to dementia by causing
+    harm to the brain. The findings challenge the notion that moderate alcohol
+    use is harmless and may influence public health guidelines.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -29,7 +43,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 88
-quality_note: "The article is well-written and relevant to medical health topics, but falls significantly short of the target word count at only 396 words, which severely impacts its overall value."
+quality_note: >-
+  The article is well-written and relevant to medical health topics, but falls
+  significantly short of the target word count at only 396 words, which severely
+  impacts its overall value.
+image_alt: >-
+  A wine glass set aside beside hands holding a keepsake, with soft neural-like
+  light in the background.
 ---
 
 Recent research brings to light the potential link between alcohol consumption and dementia, a cognitive condition characterized by memory loss and impaired thinking abilities. The study suggests that alcohol use might be a contributing factor to dementia by causing harm to the brain.
