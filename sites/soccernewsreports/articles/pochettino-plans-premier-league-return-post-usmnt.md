@@ -1,25 +1,35 @@
 ---
-title: "Pochettino Plans Premier League Return Post-USMNT"
-description: "Mauricio Pochettino, former PSG manager, is eager to return to the Premier League, seeking a project that aligns with his vision. Known for developing young talent and strategic prowess, his potential return could significantly influence the league's competitive landscape."
-type: "standard"
-status: "published"
-publishDate: "2025-11-06T09:39:33+00:00"
-author: "Taylor Winters"
+title: Pochettino Plans Premier League Return Post-USMNT
+description: >-
+  Mauricio Pochettino, former PSG manager, is eager to return to the Premier
+  League, seeking a project that aligns with his vision. Known for developing
+  young talent and strategic prowess, his potential return could significantly
+  influence the league's competitive landscape.
+type: standard
+status: published
+publishDate: '2025-11-06T09:39:33+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Neil Kilkenny"
-slug: "pochettino-plans-premier-league-return-post-usmnt"
+  - Latest News
+  - Neil Kilkenny
+slug: pochettino-plans-premier-league-return-post-usmnt
 reading_time: 3
-source_url: "https://soccernewsreports.com/pochettino-plans-premier-league-return-post-usmnt/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/pochettino-plans-premier-league-return-post-usmnt/
+imported_from: wordpress
 wp_original_id: 37919
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/pochettino-plans-premier-league-return-post-usmnt.webp
 seo:
-  canonical: "https://soccernewsreports.com/pochettino-plans-premier-league-return-post-usmnt/"
-  og_title: "Pochettino Plans Premier League Return Post-USMNT - Soccer News Reports"
-  og_description: "Mauricio Pochettino, former PSG manager, is eager to return to the Premier League, seeking a project that aligns with his vision. Known for developing young talent and strategic prowess, his potential return could significantly influence the league's competitive landscape."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/11/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/pochettino-plans-premier-league-return-post-usmnt/
+  og_title: Pochettino Plans Premier League Return Post-USMNT - Soccer News Reports
+  og_description: >-
+    Mauricio Pochettino, former PSG manager, is eager to return to the Premier
+    League, seeking a project that aligns with his vision. Known for developing
+    young talent and strategic prowess, his potential return could significantly
+    influence the league's competitive landscape.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/11/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written article with engaging tone and accurate content, but falls short on length and could improve SEO optimization with better meta description and heading structure."
+quality_note: >-
+  Well-written article with engaging tone and accurate content, but falls short
+  on length and could improve SEO optimization with better meta description and
+  heading structure.
+image_alt: >-
+  Football manager stands on a floodlit stadium touchline beside a tactics
+  notebook and travel bag.
 ---
 
 Mauricio Pochettino, a renowned name in football management, is eager to return to the Premier League. Known for his strategic prowess and ability to develop young talent, Pochettino has left an indelible mark on the clubs he has managed. His deep understanding of the game, combined with his leadership skills, has made him a sought-after figure in the world of football management.
