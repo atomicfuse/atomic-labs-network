@@ -1,30 +1,40 @@
 ---
-title: "Helena Christensen’s Tropical Beach Night Beauty Routine Revealed"
-description: "Discover Helena Christensen's essential skincare and makeup tips for a perfect tropical beach night look, combining luxurious skincare essentials with expert makeup techniques."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:33:21+00:00"
-author: "Taylor Winters"
+title: Helena Christensen’s Tropical Beach Night Beauty Routine Revealed
+description: >-
+  Discover Helena Christensen's essential skincare and makeup tips for a perfect
+  tropical beach night look, combining luxurious skincare essentials with expert
+  makeup techniques.
+type: standard
+status: review
+publishDate: '2025-06-19T04:33:21+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-  - "Makeup Tutorial"
-slug: "helena-christensens-tropical-beach-night-beauty-routine-revealed"
+  - Travel Tips
+  - Beauty
+  - Makeup Hacks
+  - Makeup Tutorial
+slug: helena-christensens-tropical-beach-night-beauty-routine-revealed
 reading_time: 2
-source_url: "https://travelbeautytips.com/helena-christensens-tropical-beach-night-beauty-routine-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/helena-christensens-tropical-beach-night-beauty-routine-revealed/
+imported_from: wordpress
 wp_original_id: 35914
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: >-
+  /assets/images/helena-christensens-tropical-beach-night-beauty-routine-revealed.webp
 seo:
-  canonical: "https://travelbeautytips.com/helena-christensens-tropical-beach-night-beauty-routine-revealed/"
-  og_title: "Helena Christensen's Tropical Beach Night Beauty Routine Revealed - Travel Beauty Tips"
-  og_description: "Discover Helena Christensen's essential skincare and makeup tips for a perfect tropical beach night look."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/helena-christensens-tropical-beach-night-beauty-routine-revealed/
+  og_title: >-
+    Helena Christensen's Tropical Beach Night Beauty Routine Revealed - Travel
+    Beauty Tips
+  og_description: >-
+    Discover Helena Christensen's essential skincare and makeup tips for a
+    perfect tropical beach night look.
+  twitter_card: summary_large_image
 videos:
-  - id: "d75f70ec"
-    url: "https://www.youtube.com/watch?v=v2O4U_MANG4"
-    position: "after-paragraph-2"
+  - id: d75f70ec
+    url: 'https://www.youtube.com/watch?v=v2O4U_MANG4'
+    position: after-paragraph-2
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -32,7 +42,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written beauty content with engaging tone and relevant products, but significantly too short at 365 words and contains some potentially fabricated product names and career details."
+quality_note: >-
+  Well-written beauty content with engaging tone and relevant products, but
+  significantly too short at 365 words and contains some potentially fabricated
+  product names and career details.
+image_alt: >-
+  Luxury skincare and makeup arranged on a moonlit tropical beach with warm
+  lantern glow
 ---
 
 Helena Christensen, the renowned Danish supermodel, shares her go-to beauty routine for a flawless look on an exotic tropical beach night. Her approach combines skincare essentials with expert makeup techniques, offering insights that are both practical and luxurious.
