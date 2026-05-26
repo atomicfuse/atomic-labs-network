@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-renewables-to-continue-driving-us-power-generation-growth-eia
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/renewables-to-continue-driving-us-power-generation-growth-eia.webp
 reading_time: 3
 quality_score: 71
 score_breakdown:
@@ -35,6 +36,7 @@ quality_note: >-
   The article maintains good tone and accuracy but falls significantly short of
   the target word count and lacks strong SEO optimization elements like
   compelling headlines and meta description.
+image_alt: Electric vehicle silhouette near solar panels and wind turbines at sunrise
 ---
 ## Renewable Energy Maintains Growth Trajectory
 
