@@ -1,26 +1,39 @@
 ---
-title: "Eco-Friendly Travel: Top Green Destinations and Sustainable Practices"
-description: "As travelers become more eco-conscious, embracing sustainable travel helps preserve the planet and enriches experiences by connecting with nature and cultures. This guide highlights practices and destinations committed to environmental stewardship, like New Zealand, Costa Rica, and Sweden."
-type: "standard"
-status: "published"
-publishDate: "2025-05-22T04:37:52+00:00"
-author: "Taylor Winters"
+title: 'Eco-Friendly Travel: Top Green Destinations and Sustainable Practices'
+description: >-
+  As travelers become more eco-conscious, embracing sustainable travel helps
+  preserve the planet and enriches experiences by connecting with nature and
+  cultures. This guide highlights practices and destinations committed to
+  environmental stewardship, like New Zealand, Costa Rica, and Sweden.
+type: standard
+status: published
+publishDate: '2025-05-22T04:37:52+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "eco-friendly-travel-top-green-destinations-and-sustainable-practices"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: eco-friendly-travel-top-green-destinations-and-sustainable-practices
 reading_time: 4
-source_url: "https://journeypeaks.com/eco-friendly-travel-top-green-destinations-and-sustainable-practices/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/eco-friendly-travel-top-green-destinations-and-sustainable-practices/
+imported_from: wordpress
 wp_original_id: 38649
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/eco-friendly-travel-top-green-destinations-and-sustainable-practices.webp
 seo:
-  canonical: "https://journeypeaks.com/eco-friendly-travel-top-green-destinations-and-sustainable-practices/"
-  og_title: "Eco-Friendly Travel: Top Green Destinations and Sustainable Practices - Journey Peaks"
-  og_description: "As travelers become more eco-conscious, embracing sustainable travel helps preserve the planet and enriches experiences by connecting with nature and cultures. This guide highlights practices and destinations committed to environmental stewardship, like New Zealand, Costa Rica, and Sweden."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/05/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/eco-friendly-travel-top-green-destinations-and-sustainable-practices/
+  og_title: >-
+    Eco-Friendly Travel: Top Green Destinations and Sustainable Practices -
+    Journey Peaks
+  og_description: >-
+    As travelers become more eco-conscious, embracing sustainable travel helps
+    preserve the planet and enriches experiences by connecting with nature and
+    cultures. This guide highlights practices and destinations committed to
+    environmental stewardship, like New Zealand, Costa Rica, and Sweden.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/05/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and strong keyword relevance, but falls short of the optimal word count range and could benefit from stronger SEO optimization in the title length."
+quality_note: >-
+  Well-written article with good tone and strong keyword relevance, but falls
+  short of the optimal word count range and could benefit from stronger SEO
+  optimization in the title length.
+image_alt: >-
+  Traveler on a wooden boardwalk overlooking lush mountains, rainforest, and
+  coastline at sunrise
 ---
 
 As the world becomes increasingly aware of environmental issues, more travelers are seeking to minimize their ecological footprint when exploring new destinations. Embracing eco-friendly travel not only helps preserve the planet but also enriches the travel experience by fostering a deeper connection with nature and local cultures. This guide explores some of the best practices for sustainable travel and highlights destinations known for their commitment to environmental stewardship.
