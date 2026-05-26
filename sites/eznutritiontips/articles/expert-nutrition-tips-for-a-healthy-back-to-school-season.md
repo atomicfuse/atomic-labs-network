@@ -1,23 +1,35 @@
 ---
-title: "Expert Nutrition Tips for a Healthy Back-to-School Season"
-description: "As the school year approaches, parents seek guidance on providing nutritious meals to support children's learning and well-being. Proper nutrition is crucial for academic performance, making it essential to focus on balanced meals and healthy eating habits."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T05:23:25+00:00"
-author: "Taylor Winters"
+title: Expert Nutrition Tips for a Healthy Back-to-School Season
+description: >-
+  As the school year approaches, parents seek guidance on providing nutritious
+  meals to support children's learning and well-being. Proper nutrition is
+  crucial for academic performance, making it essential to focus on balanced
+  meals and healthy eating habits.
+type: standard
+status: published
+publishDate: '2025-07-31T05:23:25+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-slug: "expert-nutrition-tips-for-a-healthy-back-to-school-season"
+  - Healthy Recipes
+slug: expert-nutrition-tips-for-a-healthy-back-to-school-season
 reading_time: 3
-source_url: "https://eznutritiontips.com/expert-nutrition-tips-for-a-healthy-back-to-school-season/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/expert-nutrition-tips-for-a-healthy-back-to-school-season/
+imported_from: wordpress
 wp_original_id: 18929
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/expert-nutrition-tips-for-a-healthy-back-to-school-season.webp
 seo:
-  canonical: "https://eznutritiontips.com/expert-nutrition-tips-for-a-healthy-back-to-school-season/"
-  og_title: "Expert Nutrition Tips for a Healthy Back-to-School Season - Easy Nutrition Tips"
-  og_description: "As the school year approaches, parents seek guidance on providing nutritious meals to support children's learning and well-being. Proper nutrition is crucial for academic performance, making it essential to focus on balanced meals and healthy eating habits."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/expert-nutrition-tips-for-a-healthy-back-to-school-season/
+  og_title: >-
+    Expert Nutrition Tips for a Healthy Back-to-School Season - Easy Nutrition
+    Tips
+  og_description: >-
+    As the school year approaches, parents seek guidance on providing nutritious
+    meals to support children's learning and well-being. Proper nutrition is
+    crucial for academic performance, making it essential to focus on balanced
+    meals and healthy eating habits.
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -25,7 +37,12 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count and could better incorporate site's keyword focus areas."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count and could better incorporate site's keyword focus areas.
+image_alt: >-
+  Balanced school lunch and backpack arranged on a sunny kitchen counter for
+  back-to-school preparation.
 ---
 
 As the school year approaches, parents often seek guidance on providing their children with nutritious meals to support their learning and overall well-being. Proper nutrition plays a vital role in a child's academic performance and development, making it essential to focus on balanced meals and healthy eating habits.
