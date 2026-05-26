@@ -1,24 +1,31 @@
 ---
-title: "What will I study on a master of nursing?"
-description: "A guide to master's of nursing programs, covering what the degree involves, potential career paths, and the core units students can expect to study."
-type: "standard"
-status: "review"
-publishDate: "2025-01-28T19:04:09+00:00"
-author: "admin"
+title: What will I study on a master of nursing?
+description: >-
+  A guide to master's of nursing programs, covering what the degree involves,
+  potential career paths, and the core units students can expect to study.
+type: standard
+status: review
+publishDate: '2025-01-28T19:04:09+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Drugs"
-slug: "what-will-i-study-on-a-master-of-nursing"
+  - Health News
+  - Drugs
+slug: what-will-i-study-on-a-master-of-nursing
 reading_time: 5
-source_url: "https://medicalnewsalley.com/what-will-i-study-on-a-master-of-nursing/"
-imported_from: "wordpress"
+source_url: 'https://medicalnewsalley.com/what-will-i-study-on-a-master-of-nursing/'
+imported_from: wordpress
 wp_original_id: 32222
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/what-will-i-study-on-a-master-of-nursing.webp
 seo:
-  canonical: "https://medicalnewsalley.com/what-will-i-study-on-a-master-of-nursing/"
-  og_title: "What will I study on a master of nursing?  - Medical News Alley"
-  og_description: "Do you plan to study a postgraduate in nursing but aren&#x2019;t sure what you will learn? Let us help you! Today, we will closely examine a master&#x2019;s of nursing, its career prospects, and what you will study so you can see if it&#x2019;s the right choice for you.&#xA0; What is a master of nursing? A [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://medicalnewsalley.com/what-will-i-study-on-a-master-of-nursing/'
+  og_title: "What will I study on a master of nursing?\_ - Medical News Alley"
+  og_description: >-
+    Do you plan to study a postgraduate in nursing but aren&#x2019;t sure what
+    you will learn? Let us help you! Today, we will closely examine a
+    master&#x2019;s of nursing, its career prospects, and what you will study so
+    you can see if it&#x2019;s the right choice for you.&#xA0; What is a master
+    of nursing? A [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "The article provides comprehensive information about nursing master's programs with good structure and length, but lacks relevance to the site's medical health focus and has weak SEO optimization."
+quality_note: >-
+  The article provides comprehensive information about nursing master's programs
+  with good structure and length, but lacks relevance to the site's medical
+  health focus and has weak SEO optimization.
+image_alt: >-
+  Nursing students learning clinical skills with an educator in a modern
+  simulation lab
 ---
 
 Do you plan to study a postgraduate in nursing but aren't sure what you will learn? Let us help you! Today, we will closely examine a master's of nursing, its career prospects, and what you will study so you can see if it's the right choice for you.
