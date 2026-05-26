@@ -1,26 +1,37 @@
 ---
-title: "MaNdlovu Explores Travel Inspiration Versus Influencer Trends"
-description: "Explore how social media shapes travel choices, the difference between genuine inspiration and online influence, and how mindful planning can lead to more authentic, responsible, and rewarding journeys."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:48:08+00:00"
-author: "Taylor Winters"
+title: MaNdlovu Explores Travel Inspiration Versus Influencer Trends
+description: >-
+  Explore how social media shapes travel choices, the difference between genuine
+  inspiration and online influence, and how mindful planning can lead to more
+  authentic, responsible, and rewarding journeys.
+type: standard
+status: published
+publishDate: '2026-05-04T08:48:08+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Tips"
-  - "Travel"
-slug: "mandlovu-explores-travel-inspiration-versus-influencer-trends"
+  - Advice
+  - Tips
+  - Travel
+slug: mandlovu-explores-travel-inspiration-versus-influencer-trends
 reading_time: 7
-source_url: "https://journeypeaks.com/mandlovu-explores-travel-inspiration-versus-influencer-trends/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/mandlovu-explores-travel-inspiration-versus-influencer-trends/
+imported_from: wordpress
 wp_original_id: 38835
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/mandlovu-explores-travel-inspiration-versus-influencer-trends.webp
 seo:
-  canonical: "https://journeypeaks.com/mandlovu-explores-travel-inspiration-versus-influencer-trends/"
-  og_title: "MaNdlovu Explores Travel Inspiration Versus Influencer Trends - Journey Peaks"
-  og_description: "Explore how social media shapes travel choices, the difference between genuine inspiration and online influence, and how mindful planning can lead to more authentic, responsible, and rewarding journeys."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/mandlovu-explores-travel-inspiration-versus-influencer-trends/
+  og_title: >-
+    MaNdlovu Explores Travel Inspiration Versus Influencer Trends - Journey
+    Peaks
+  og_description: >-
+    Explore how social media shapes travel choices, the difference between
+    genuine inspiration and online influence, and how mindful planning can lead
+    to more authentic, responsible, and rewarding journeys.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -28,7 +39,10 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written article with excellent tone and length, though the title could be more compelling and clearer for SEO purposes."
+quality_note: >-
+  Well-written article with excellent tone and length, though the title could be
+  more compelling and clearer for SEO purposes.
+image_alt: Traveler at sunrise with a paper map overlooking a quiet village path
 ---
 
 Travel dreams rarely begin with a brochure anymore. They often start with a reel, a friend's post, a celebrity getaway, or a perfectly framed sunrise that appears while you scroll. The question is no longer whether travel images affect us. They do. The bigger question is whether your next trip is genuinely inspired by what you love, or quietly shaped by what the internet tells you to want.
