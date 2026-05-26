@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-taylor-swift-discusses-new-album-and-eras-tour-on-podcast-debut
 generated_by: claude
-featuredImage: /assets/images/rumorumor-general-article.webp
+featuredImage: >-
+  /assets/images/taylor-swift-discusses-new-album-and-eras-tour-on-podcast-debut.webp
 reading_time: 3
 quality_score: 69
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   Well-written article with strong keyword relevance and appropriate tone, but
   significantly penalized for appearing to fabricate Taylor Swift's podcast
   debut without verification.
+image_alt: >-
+  Moody podcast studio with microphone, headphones, vinyl record, and concert
+  lights in the background
 ---
 ## Taylor Swift Breaks New Ground with First Podcast Appearance
 
