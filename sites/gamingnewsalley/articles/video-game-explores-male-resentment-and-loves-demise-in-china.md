@@ -1,25 +1,38 @@
 ---
-title: "Video Game Explores Male Resentment and Love’s Demise in China"
-description: "China's video game industry is transforming as more women take prominent roles in gaming and development, reshaping the landscape with diverse audiences and inclusive content, while navigating stringent government regulations on playtime and content."
-type: "standard"
-status: "review"
-publishDate: "2025-07-17T04:25:36+00:00"
-author: "Taylor Winters"
+title: Video Game Explores Male Resentment and Love’s Demise in China
+description: >-
+  China's video game industry is transforming as more women take prominent roles
+  in gaming and development, reshaping the landscape with diverse audiences and
+  inclusive content, while navigating stringent government regulations on
+  playtime and content.
+type: standard
+status: review
+publishDate: '2025-07-17T04:25:36+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "China"
-slug: "video-game-explores-male-resentment-and-loves-demise-in-china"
+  - Gaming News
+  - China
+slug: video-game-explores-male-resentment-and-loves-demise-in-china
 reading_time: 3
-source_url: "https://gamingnewsalley.com/video-game-explores-male-resentment-and-loves-demise-in-china/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/video-game-explores-male-resentment-and-loves-demise-in-china/
+imported_from: wordpress
 wp_original_id: 42497
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/video-game-explores-male-resentment-and-loves-demise-in-china.webp
 seo:
-  canonical: "https://gamingnewsalley.com/video-game-explores-male-resentment-and-loves-demise-in-china/"
-  og_title: "Video Game Explores Male Resentment and Love's Demise in China - Gaming News Alley"
-  og_description: "China's video game industry is transforming as more women take prominent roles in gaming and development, reshaping the landscape with diverse audiences and inclusive content, while navigating stringent government regulations on playtime and content."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/07/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/video-game-explores-male-resentment-and-loves-demise-in-china/
+  og_title: >-
+    Video Game Explores Male Resentment and Love's Demise in China - Gaming News
+    Alley
+  og_description: >-
+    China's video game industry is transforming as more women take prominent
+    roles in gaming and development, reshaping the landscape with diverse
+    audiences and inclusive content, while navigating stringent government
+    regulations on playtime and content.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/07/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 40
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 65
-quality_note: "The article has a misleading title that doesn't match the content about women in Chinese gaming, is too short for target length, but maintains good tone and factual accuracy."
+quality_note: >-
+  The article has a misleading title that doesn't match the content about women
+  in Chinese gaming, is too short for target length, but maintains good tone and
+  factual accuracy.
+image_alt: >-
+  Woman game developer in neon-lit studio with shadowed player silhouettes and
+  abstract digital reflections
 ---
 
 China's video game industry is witnessing a significant transformation, with an increasing number of women assuming prominent roles in both playing and developing games. This shift is redefining the landscape of gaming in China, a country known for its stringent regulations on video game content and playtime.
