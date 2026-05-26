@@ -1,25 +1,38 @@
 ---
-title: "Mohamed Salah’s Future: Brand Impact and Career Prospects Explored"
-description: "Mohamed Salah's potential transfer is a hot topic, with his contract at Liverpool nearing its end. Interest from clubs like Real Madrid and PSG highlights his significant impact on the football world, making his next move highly anticipated."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T09:41:37+00:00"
-author: "Taylor Winters"
+title: 'Mohamed Salah’s Future: Brand Impact and Career Prospects Explored'
+description: >-
+  Mohamed Salah's potential transfer is a hot topic, with his contract at
+  Liverpool nearing its end. Interest from clubs like Real Madrid and PSG
+  highlights his significant impact on the football world, making his next move
+  highly anticipated.
+type: standard
+status: published
+publishDate: '2025-12-11T09:41:37+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Alisson"
-slug: "mohamed-salahs-future-brand-impact-and-career-prospects-explored"
+  - Latest News
+  - Alisson
+slug: mohamed-salahs-future-brand-impact-and-career-prospects-explored
 reading_time: 3
-source_url: "https://soccernewsreports.com/mohamed-salahs-future-brand-impact-and-career-prospects-explored/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/mohamed-salahs-future-brand-impact-and-career-prospects-explored/
+imported_from: wordpress
 wp_original_id: 37938
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/mohamed-salahs-future-brand-impact-and-career-prospects-explored.webp
 seo:
-  canonical: "https://soccernewsreports.com/mohamed-salahs-future-brand-impact-and-career-prospects-explored/"
-  og_title: "Mohamed Salah's Future: Brand Impact and Career Prospects Explored - Soccer News Reports"
-  og_description: "Mohamed Salah's potential transfer is a hot topic, with his contract at Liverpool nearing its end. Interest from clubs like Real Madrid and PSG highlights his significant impact on the football world, making his next move highly anticipated."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/mohamed-salahs-future-brand-impact-and-career-prospects-explored/
+  og_title: >-
+    Mohamed Salah's Future: Brand Impact and Career Prospects Explored - Soccer
+    News Reports
+  og_description: >-
+    Mohamed Salah's potential transfer is a hot topic, with his contract at
+    Liverpool nearing its end. Interest from clubs like Real Madrid and PSG
+    highlights his significant impact on the football world, making his next
+    move highly anticipated.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 75
-quality_note: "Well-written article with good tone and structure, but falls short on length (527 words vs 800-1200 target) and has some vague speculation without concrete facts."
+quality_note: >-
+  Well-written article with good tone and structure, but falls short on length
+  (527 words vs 800-1200 target) and has some vague speculation without concrete
+  facts.
+image_alt: >-
+  Footballer faces multiple stadium paths as cameras flash around a pivotal
+  transfer decision.
 ---
 
 Mohamed Salah, the Egyptian football sensation, is once again at the center of transfer discussions as speculation about his future swirls within the football community. Known for his electrifying pace and remarkable goal-scoring ability, Salah has captivated fans worldwide, making any potential transfer a significant event in the sport's landscape.
