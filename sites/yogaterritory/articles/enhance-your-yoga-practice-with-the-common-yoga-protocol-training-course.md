@@ -1,30 +1,41 @@
 ---
-title: "Enhance Your Yoga Practice with the Common Yoga Protocol Training Course"
-description: "Discover the benefits of the Common Yoga Protocol Training Course, organized by Shree H.V.P. Mandal's Degree College, to celebrate International Day of Yoga 2025."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:37:22+00:00"
-author: "Taylor Winters"
+title: Enhance Your Yoga Practice with the Common Yoga Protocol Training Course
+description: >-
+  Discover the benefits of the Common Yoga Protocol Training Course, organized
+  by Shree H.V.P. Mandal's Degree College, to celebrate International Day of
+  Yoga 2025.
+type: standard
+status: review
+publishDate: '2025-06-19T04:37:22+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga For Beginners"
-slug: "enhance-your-yoga-practice-with-the-common-yoga-protocol-training-course"
+  - Yoga Poses
+  - Lifestyle
+  - Mindfullness
+  - Yoga For Beginners
+slug: enhance-your-yoga-practice-with-the-common-yoga-protocol-training-course
 reading_time: 2
-source_url: "https://yogaterritory.com/enhance-your-yoga-practice-with-the-common-yoga-protocol-training-course/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/enhance-your-yoga-practice-with-the-common-yoga-protocol-training-course/
+imported_from: wordpress
 wp_original_id: 20628
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/enhance-your-yoga-practice-with-the-common-yoga-protocol-training-course.webp
 seo:
-  canonical: "https://yogaterritory.com/enhance-your-yoga-practice-with-the-common-yoga-protocol-training-course/"
-  og_title: "Enhance Your Yoga Practice with the Common Yoga Protocol Training Course - Yoga Territory"
-  og_description: "Discover the benefits of the Common Yoga Protocol Training Course, organized by Shree H.V.P. Mandal’s Degree College, to celebrate International Day of Yoga 2025."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/enhance-your-yoga-practice-with-the-common-yoga-protocol-training-course/
+  og_title: >-
+    Enhance Your Yoga Practice with the Common Yoga Protocol Training Course -
+    Yoga Territory
+  og_description: >-
+    Discover the benefits of the Common Yoga Protocol Training Course, organized
+    by Shree H.V.P. Mandal’s Degree College, to celebrate International Day of
+    Yoga 2025.
+  twitter_card: summary_large_image
 videos:
-  - id: "01f69477"
-    url: "https://www.youtube.com/watch?v=LUsXRXQoEXk"
-    position: "after-paragraph-2"
+  - id: 01f69477
+    url: 'https://www.youtube.com/watch?v=LUsXRXQoEXk'
+    position: after-paragraph-2
 quality_score: 62
 score_breakdown:
   seo_quality: 45
@@ -32,7 +43,11 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has appropriate tone and covers relevant yoga topics, but falls significantly short of the target word count and lacks strong SEO optimization with weak title and missing meta description."
+quality_note: >-
+  The article has appropriate tone and covers relevant yoga topics, but falls
+  significantly short of the target word count and lacks strong SEO optimization
+  with weak title and missing meta description.
+image_alt: Diverse group practicing yoga at sunrise in a peaceful courtyard
 ---
 
 The Common Yoga Protocol Training Course is a unique opportunity for yoga enthusiasts to deepen their practice and understanding of yoga. Held on the occasion of the International Day of Yoga 2025, this course is organized by Shree H.V.P. Mandal's Degree College of Physical Education in Amravati, Maharashtra, India. As a multi-faculty autonomous college, Shree H.V.P. Mandal's Degree College offers a comprehensive program that is both educational and enriching for participants.
