@@ -1,22 +1,29 @@
 ---
-title: "Uncovering the Moon’s Water Imbalance: Indications of a Past Collision"
-description: "A surprising water imbalance on the moon's surface suggests evidence of a past collision, potentially reshaping our understanding of the Moon's origins and geological history. This finding could also aid in planning future lunar missions, opening new avenues for exploration."
-type: "standard"
-status: "review"
-publishDate: "2025-04-14T11:01:39"
-author: "Taylor Winters"
+title: 'Uncovering the Moon’s Water Imbalance: Indications of a Past Collision'
+description: >-
+  A surprising water imbalance on the moon's surface suggests evidence of a past
+  collision, potentially reshaping our understanding of the Moon's origins and
+  geological history. This finding could also aid in planning future lunar
+  missions, opening new avenues for exploration.
+type: standard
+status: review
+publishDate: '2025-04-14T11:01:39'
+author: Taylor Winters
 tags:
-  - "Physics"
-  - "Space"
-slug: "uncovering-the-moons-water-imbalance-indications-of-a-past-collision"
+  - Physics
+  - Space
+slug: uncovering-the-moons-water-imbalance-indications-of-a-past-collision
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/uncovering-the-moons-water-imbalance-indications-of-a-past-collision/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/uncovering-the-moons-water-imbalance-indications-of-a-past-collision/
+imported_from: wordpress
 wp_original_id: 14940
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/uncovering-the-moons-water-imbalance-indications-of-a-past-collision.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/uncovering-the-moons-water-imbalance-indications-of-a-past-collision/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/uncovering-the-moons-water-imbalance-indications-of-a-past-collision/
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with strong topic relevance and appropriate tone, but significantly under word count target and contains some unsupported claims about specific research details."
+quality_note: >-
+  Well-written article with strong topic relevance and appropriate tone, but
+  significantly under word count target and contains some unsupported claims
+  about specific research details.
+image_alt: >-
+  Moon surface with contrasting blue and gray regions suggesting uneven water
+  distribution and ancient impact debris
 ---
 
 There's a captivating enigma unfolding on the moon's surface. It appears that a surprising water imbalance exists on our closest celestial neighbor, suggesting evidence of a past collision. The implications of this discovery are vast, as it could provide critical insight into the Moon's origins and its geological history.
