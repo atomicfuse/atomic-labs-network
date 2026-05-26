@@ -17,7 +17,7 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-master-the-art-of-blind-wine-tasting-with-expert-tips
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/master-the-art-of-blind-wine-tasting-with-expert-tips.webp
 reading_time: 4
 quality_score: 76
 score_breakdown:
@@ -30,6 +30,9 @@ quality_note: >-
   Well-structured article covering blind wine tasting comprehensively with good
   keyword relevance, but falls short on word count and could benefit from more
   engaging tone and stronger SEO optimization.
+image_alt: >-
+  Elegant blind wine tasting setup with unlabeled glasses, a blindfold, and
+  aroma ingredients on a table.
 ---
 ## Understanding Blind Wine Tasting
 
