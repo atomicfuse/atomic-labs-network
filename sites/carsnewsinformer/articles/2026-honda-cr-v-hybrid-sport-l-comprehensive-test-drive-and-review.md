@@ -23,7 +23,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-2026-honda-cr-v-hybrid-sport-l-comprehensive-test-drive-and-review
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/2026-honda-cr-v-hybrid-sport-l-comprehensive-test-drive-and-review.webp
 reading_time: 3
 quality_score: 59
 score_breakdown:
@@ -37,6 +38,7 @@ quality_note: >-
   suffers from extremely vague content with no actual test drive details,
   questionable claims about a future vehicle, and falls well short of target
   word count.
+image_alt: Modern compact hybrid SUV driving on a scenic mountain road at golden hour
 ---
 ## Honda's Latest Hybrid SUV Innovation
 
