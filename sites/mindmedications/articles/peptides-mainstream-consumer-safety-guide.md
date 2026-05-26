@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/meggenharris/2026/05/18/as-peptides-go-mainstream-experts-say-oversight-matters/
 source_item_id: 6a0bc42316f23264031d770d
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/peptides-mainstream-consumer-safety-guide.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with excellent keyword relevance and tone, but falls
   short on length requirements and contains some vague, unsupported claims.
 reading_time: 3
+image_alt: >-
+  Person researches an unbranded wellness vial at a bright table with a laptop
+  and notes nearby.
 ---
 ## The Peptide Revolution: From Niche to Mainstream
 
