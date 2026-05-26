@@ -1,25 +1,34 @@
 ---
-title: "Inside Daiyan Trisha’s Beauty Routine and Secrets"
-description: "Daiyan Trisha's beauty approach blends personal expression with a disciplined routine, focusing on skincare and makeup as self-expression. She emphasizes simplicity, effectiveness, and individuality, offering practical tips for maintaining beauty while supporting a busy lifestyle."
-type: "standard"
-status: "review"
-publishDate: "2025-11-13T09:49:28+00:00"
-author: "Taylor Winters"
+title: Inside Daiyan Trisha’s Beauty Routine and Secrets
+description: >-
+  Daiyan Trisha's beauty approach blends personal expression with a disciplined
+  routine, focusing on skincare and makeup as self-expression. She emphasizes
+  simplicity, effectiveness, and individuality, offering practical tips for
+  maintaining beauty while supporting a busy lifestyle.
+type: standard
+status: review
+publishDate: '2025-11-13T09:49:28+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "inside-daiyan-trishas-beauty-routine-and-secrets"
+  - Travel Tips
+  - Beauty
+slug: inside-daiyan-trishas-beauty-routine-and-secrets
 reading_time: 3
-source_url: "https://travelbeautytips.com/inside-daiyan-trishas-beauty-routine-and-secrets/"
-imported_from: "wordpress"
+source_url: 'https://travelbeautytips.com/inside-daiyan-trishas-beauty-routine-and-secrets/'
+imported_from: wordpress
 wp_original_id: 36051
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/inside-daiyan-trishas-beauty-routine-and-secrets.webp
 seo:
-  canonical: "https://travelbeautytips.com/inside-daiyan-trishas-beauty-routine-and-secrets/"
-  og_title: "Inside Daiyan Trisha's Beauty Routine and Secrets - Travel Beauty Tips"
-  og_description: "Daiyan Trisha's beauty approach blends personal expression with a disciplined routine, focusing on skincare and makeup as self-expression. She emphasizes simplicity, effectiveness, and individuality, offering practical tips for maintaining beauty while supporting a busy lifestyle."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/11/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/inside-daiyan-trishas-beauty-routine-and-secrets/
+  og_title: Inside Daiyan Trisha's Beauty Routine and Secrets - Travel Beauty Tips
+  og_description: >-
+    Daiyan Trisha's beauty approach blends personal expression with a
+    disciplined routine, focusing on skincare and makeup as self-expression. She
+    emphasizes simplicity, effectiveness, and individuality, offering practical
+    tips for maintaining beauty while supporting a busy lifestyle.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/11/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -27,7 +36,14 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 75
   keyword_relevance: 70
-quality_note: "The article has good tone and covers relevant beauty topics, but falls significantly short on word count (443 vs target 800-1200) and lacks specific SEO optimization elements like meta description within range and clear keyword integration."
+quality_note: >-
+  The article has good tone and covers relevant beauty topics, but falls
+  significantly short on word count (443 vs target 800-1200) and lacks specific
+  SEO optimization elements like meta description within range and clear keyword
+  integration.
+image_alt: >-
+  Young woman at a sunlit vanity applying skincare with minimal beauty products
+  nearby
 ---
 
 Daiyan Trisha's approach to beauty is a blend of personal expression and disciplined routine. As a prominent figure in the entertainment industry, she has crafted a beauty regimen that not only enhances her natural features but also supports her busy lifestyle. Her insights offer valuable tips for those looking to refine their own beauty routines.
