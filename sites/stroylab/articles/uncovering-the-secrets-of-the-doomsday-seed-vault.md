@@ -1,24 +1,32 @@
 ---
-title: "Uncovering the Secrets of the Doomsday Seed Vault"
-description: "Hidden within the Arctic Circle, the Svalbard Global Seed Vault safeguards agricultural diversity by storing duplicates of seed samples. As a vital facility, it offers a safety net against threats to biodiversity, ensuring global food security for future generations."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:33:58+00:00"
-author: "Blake Anderson"
+title: Uncovering the Secrets of the Doomsday Seed Vault
+description: >-
+  Hidden within the Arctic Circle, the Svalbard Global Seed Vault safeguards
+  agricultural diversity by storing duplicates of seed samples. As a vital
+  facility, it offers a safety net against threats to biodiversity, ensuring
+  global food security for future generations.
+type: standard
+status: review
+publishDate: '2025-12-22T11:33:58+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "uncovering-the-secrets-of-the-doomsday-seed-vault"
+  - Deep Dives
+slug: uncovering-the-secrets-of-the-doomsday-seed-vault
 reading_time: 4
-source_url: "https://stroylab.com/uncovering-the-secrets-of-the-doomsday-seed-vault/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/uncovering-the-secrets-of-the-doomsday-seed-vault/'
+imported_from: wordpress
 wp_original_id: 704
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/uncovering-the-secrets-of-the-doomsday-seed-vault.webp
 seo:
-  canonical: "https://stroylab.com/uncovering-the-secrets-of-the-doomsday-seed-vault/"
-  og_title: "Uncovering the Secrets of the Doomsday Seed Vault - StroyLab"
-  og_description: "Hidden within the Arctic Circle, the Svalbard Global Seed Vault safeguards agricultural diversity by storing duplicates of seed samples. As a vital facility, it offers a safety net against threats to biodiversity, ensuring global food security for future generations."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-202.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/uncovering-the-secrets-of-the-doomsday-seed-vault/'
+  og_title: Uncovering the Secrets of the Doomsday Seed Vault - StroyLab
+  og_description: >-
+    Hidden within the Arctic Circle, the Svalbard Global Seed Vault safeguards
+    agricultural diversity by storing duplicates of seed samples. As a vital
+    facility, it offers a safety net against threats to biodiversity, ensuring
+    global food security for future generations.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-202.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 40
-quality_note: "Well-researched factual content but lacks the mysterious, conspiracy-focused angle expected for the site's audience and falls short of target word count."
+quality_note: >-
+  Well-researched factual content but lacks the mysterious, conspiracy-focused
+  angle expected for the site's audience and falls short of target word count.
+image_alt: >-
+  Arctic seed vault entrance glowing warmly as frost-covered seeds rest in the
+  snow nearby
 ---
 
 Hidden deep within the Arctic Circle lies a crucial facility that plays a vital role in preserving global agricultural diversity: the Svalbard Global Seed Vault. This remarkable structure, sometimes referred to as the "Doomsday Vault," is designed to safeguard the genetic material of the world's crops, ensuring food security for future generations in case of a global catastrophe.
