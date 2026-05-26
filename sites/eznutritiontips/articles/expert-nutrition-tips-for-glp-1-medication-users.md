@@ -1,24 +1,33 @@
 ---
-title: "Expert Nutrition Tips for GLP-1 Medication Users"
-description: "GLP-1 receptor agonists, originally developed for diabetes management, are now widely used for weight loss. This article explains how these medications work and outlines key dietary strategies—including balanced meals, portion control, and hydration—to optimize their benefits while minimizing side effects."
-type: "standard"
-status: "published"
-publishDate: "2026-01-22T10:21:27+00:00"
-author: "Taylor Winters"
+title: Expert Nutrition Tips for GLP-1 Medication Users
+description: >-
+  GLP-1 receptor agonists, originally developed for diabetes management, are now
+  widely used for weight loss. This article explains how these medications work
+  and outlines key dietary strategies—including balanced meals, portion control,
+  and hydration—to optimize their benefits while minimizing side effects.
+type: standard
+status: published
+publishDate: '2026-01-22T10:21:27+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Tips"
-  - "Weight &amp; Wellness"
-slug: "expert-nutrition-tips-for-glp-1-medication-users"
+  - Nutrition Tips
+  - Weight &amp; Wellness
+slug: expert-nutrition-tips-for-glp-1-medication-users
 reading_time: 3
-source_url: "https://eznutritiontips.com/expert-nutrition-tips-for-glp-1-medication-users/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/expert-nutrition-tips-for-glp-1-medication-users/'
+imported_from: wordpress
 wp_original_id: 18979
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/expert-nutrition-tips-for-glp-1-medication-users.webp
 seo:
-  canonical: "https://eznutritiontips.com/expert-nutrition-tips-for-glp-1-medication-users/"
-  og_title: "Expert Nutrition Tips for GLP-1 Medication Users - Easy Nutrition Tips"
-  og_description: "GLP-1 receptor agonists, originally for diabetes, are now used for weight loss. While taking them, specific dietary adjustments can enhance effects and maintain health. Balanced meals, portion control, and hydration are key to optimizing these medications' benefits."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/expert-nutrition-tips-for-glp-1-medication-users/
+  og_title: Expert Nutrition Tips for GLP-1 Medication Users - Easy Nutrition Tips
+  og_description: >-
+    GLP-1 receptor agonists, originally for diabetes, are now used for weight
+    loss. While taking them, specific dietary adjustments can enhance effects
+    and maintain health. Balanced meals, portion control, and hydration are key
+    to optimizing these medications' benefits.
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with accurate information and good keyword alignment, but significantly under the target word count at only 526 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with accurate information and good keyword alignment, but
+  significantly under the target word count at only 526 words versus the
+  800-1200 range.
+image_alt: >-
+  Balanced meal, water, and unbranded medication pen on a bright modern kitchen
+  counter
 ---
 
 # GLP-1 Medications and Nutrition
