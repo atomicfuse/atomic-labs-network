@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-deployed-soldier-seeks-help-to-find-missing-dog
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/deployed-soldier-seeks-help-to-find-missing-dog.webp
 reading_time: 3
 quality_score: 69
 score_breakdown:
@@ -32,6 +32,9 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and relevance to dogs/pets topics, but
   significantly below target word count at 506 words versus the 800-1200 range.
+image_alt: >-
+  Military boots beside an empty dog collar and leash on a quiet porch at
+  sunset.
 ---
 ## Soldier Reaches Out for Assistance
 
