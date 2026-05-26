@@ -1,25 +1,33 @@
 ---
-title: "Boost Memory with Just 20 Minutes of Exercise"
-description: "Recent research suggests that just 20 minutes of physical activity can enhance memory capabilities, providing a simple tool to boost brain health. Regular exercise stimulates brain areas associated with memory, potentially serving as a preventive measure against memory-related issues."
-type: "standard"
-status: "review"
-publishDate: "2026-03-16T09:17:24+00:00"
-author: "Taylor Winters"
+title: Boost Memory with Just 20 Minutes of Exercise
+description: >-
+  Recent research suggests that just 20 minutes of physical activity can enhance
+  memory capabilities, providing a simple tool to boost brain health. Regular
+  exercise stimulates brain areas associated with memory, potentially serving as
+  a preventive measure against memory-related issues.
+type: standard
+status: review
+publishDate: '2026-03-16T09:17:24+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Health, Fitness &amp; Food"
-slug: "boost-memory-with-just-20-minutes-of-exercise"
+  - Health News
+  - 'Health, Fitness &amp; Food'
+slug: boost-memory-with-just-20-minutes-of-exercise
 reading_time: 4
-source_url: "https://medicalnewscorner.com/boost-memory-with-just-20-minutes-of-exercise/"
-imported_from: "wordpress"
+source_url: 'https://medicalnewscorner.com/boost-memory-with-just-20-minutes-of-exercise/'
+imported_from: wordpress
 wp_original_id: 24800
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/boost-memory-with-just-20-minutes-of-exercise.webp
 seo:
-  canonical: "https://medicalnewscorner.com/boost-memory-with-just-20-minutes-of-exercise/"
-  og_title: "Boost Memory with Just 20 Minutes of Exercise - Medical News Corner"
-  og_description: "Recent research suggests that just 20 minutes of physical activity can enhance memory capabilities, providing a simple tool to boost brain health. Regular exercise stimulates brain areas associated with memory, potentially serving as a preventive measure against memory-related issues."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://medicalnewscorner.com/boost-memory-with-just-20-minutes-of-exercise/'
+  og_title: Boost Memory with Just 20 Minutes of Exercise - Medical News Corner
+  og_description: >-
+    Recent research suggests that just 20 minutes of physical activity can
+    enhance memory capabilities, providing a simple tool to boost brain health.
+    Regular exercise stimulates brain areas associated with memory, potentially
+    serving as a preventive measure against memory-related issues.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and health relevance, but falls short on word count and lacks specific research citations for credibility."
+quality_note: >-
+  Well-written article with good tone and health relevance, but falls short on
+  word count and lacks specific research citations for credibility.
+image_alt: >-
+  A person jogging in a sunlit park with subtle glowing neural trails suggesting
+  improved memory
 ---
 
 Engaging in physical activity has long been associated with numerous health benefits, but recent research highlights a compelling link between brief exercise sessions and improved cognitive function. A study suggests that just 20 minutes of physical activity could enhance memory capabilities, offering a simple yet powerful tool to boost brain health.
