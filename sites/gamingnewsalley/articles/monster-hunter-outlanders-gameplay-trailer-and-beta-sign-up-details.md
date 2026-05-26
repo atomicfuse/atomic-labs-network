@@ -1,26 +1,39 @@
 ---
-title: "Monster Hunter Outlanders Gameplay Trailer and Beta Sign-Up Details"
-description: "Monster Hunter Outlanders is set to bring the celebrated series to mobile devices with intense combat and strategic gameplay. Players will journey through vast landscapes, encountering diverse monsters requiring skillful hunting techniques, all while participating in an exclusive closed beta."
-type: "standard"
-status: "published"
-publishDate: "2025-09-25T07:33:39+00:00"
-author: "Taylor Winters"
+title: Monster Hunter Outlanders Gameplay Trailer and Beta Sign-Up Details
+description: >-
+  Monster Hunter Outlanders is set to bring the celebrated series to mobile
+  devices with intense combat and strategic gameplay. Players will journey
+  through vast landscapes, encountering diverse monsters requiring skillful
+  hunting techniques, all while participating in an exclusive closed beta.
+type: standard
+status: published
+publishDate: '2025-09-25T07:33:39+00:00'
+author: Taylor Winters
 tags:
-  - "Gameplay"
-  - "Capcom"
-  - "Capcom Mobile"
-slug: "monster-hunter-outlanders-gameplay-trailer-and-beta-sign-up-details"
+  - Gameplay
+  - Capcom
+  - Capcom Mobile
+slug: monster-hunter-outlanders-gameplay-trailer-and-beta-sign-up-details
 reading_time: 4
-source_url: "https://gamingnewsalley.com/monster-hunter-outlanders-gameplay-trailer-and-beta-sign-up-details/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/monster-hunter-outlanders-gameplay-trailer-and-beta-sign-up-details/
+imported_from: wordpress
 wp_original_id: 42525
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/monster-hunter-outlanders-gameplay-trailer-and-beta-sign-up-details.webp
 seo:
-  canonical: "https://gamingnewsalley.com/monster-hunter-outlanders-gameplay-trailer-and-beta-sign-up-details/"
-  og_title: "Monster Hunter Outlanders Gameplay Trailer and Beta Sign-Up Details - Gaming News Alley"
-  og_description: "Monster Hunter Outlanders is set to bring the celebrated series to mobile devices with intense combat and strategic gameplay. Players will journey through vast landscapes, encountering diverse monsters requiring skillful hunting techniques, all while participating in an exclusive closed beta."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/09/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/monster-hunter-outlanders-gameplay-trailer-and-beta-sign-up-details/
+  og_title: >-
+    Monster Hunter Outlanders Gameplay Trailer and Beta Sign-Up Details - Gaming
+    News Alley
+  og_description: >-
+    Monster Hunter Outlanders is set to bring the celebrated series to mobile
+    devices with intense combat and strategic gameplay. Players will journey
+    through vast landscapes, encountering diverse monsters requiring skillful
+    hunting techniques, all while participating in an exclusive closed beta.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/09/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong gaming content with excellent keyword relevance and appropriate tone, but falls short on length (612 words vs 800-1200 target) and could benefit from better SEO optimization in title and meta description."
+quality_note: >-
+  Strong gaming content with excellent keyword relevance and appropriate tone,
+  but falls short on length (612 words vs 800-1200 target) and could benefit
+  from better SEO optimization in title and meta description.
+image_alt: Armored hunter faces a giant creature across misty jungle cliffs at dusk.
 ---
 
 The highly anticipated mobile gaming experience, "Monster Hunter Outlanders," is generating excitement with the release of its latest gameplay trailer. As Capcom unveils this thrilling new chapter, players are invited to participate in an exclusive closed beta, offering a sneak peek into its immersive world. This mobile adaptation promises to deliver the franchise's renowned action-packed adventures directly to gamers' fingertips.
