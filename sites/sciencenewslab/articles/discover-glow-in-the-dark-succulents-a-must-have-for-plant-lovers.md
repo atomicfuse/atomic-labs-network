@@ -1,22 +1,30 @@
 ---
-title: "Discover Glow-in-The-Dark Succulents: A Must-Have for Plant Lovers"
-description: "Scientists have developed glow-in-the-dark succulents using genetic engineering, offering a magical twist on houseplants. This innovation highlights genetic modification's potential for creating stunning plant varieties while raising ethical and ecological questions about modifying plant genomes for decorative purposes."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T07:47:35"
-author: "Taylor Winters"
+title: 'Discover Glow-in-The-Dark Succulents: A Must-Have for Plant Lovers'
+description: >-
+  Scientists have developed glow-in-the-dark succulents using genetic
+  engineering, offering a magical twist on houseplants. This innovation
+  highlights genetic modification's potential for creating stunning plant
+  varieties while raising ethical and ecological questions about modifying plant
+  genomes for decorative purposes.
+type: standard
+status: review
+publishDate: '2025-08-28T07:47:35'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Tech"
-slug: "discover-glow-in-the-dark-succulents-a-must-have-for-plant-lovers"
+  - Space
+  - Tech
+slug: discover-glow-in-the-dark-succulents-a-must-have-for-plant-lovers
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/discover-glow-in-the-dark-succulents-a-must-have-for-plant-lovers/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/discover-glow-in-the-dark-succulents-a-must-have-for-plant-lovers/
+imported_from: wordpress
 wp_original_id: 14996
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-glow-in-the-dark-succulents-a-must-have-for-plant-lovers.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/discover-glow-in-the-dark-succulents-a-must-have-for-plant-lovers/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/discover-glow-in-the-dark-succulents-a-must-have-for-plant-lovers/
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -24,7 +32,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 40
   keyword_relevance: 70
-quality_note: "Well-written article with engaging tone, but significantly compromised by factual inaccuracies about commercially available glow-in-the-dark succulents and below-target word count."
+quality_note: >-
+  Well-written article with engaging tone, but significantly compromised by
+  factual inaccuracies about commercially available glow-in-the-dark succulents
+  and below-target word count.
+image_alt: >-
+  Glowing succulents on a modern tabletop in a twilight interior with subtle
+  scientific accents
 ---
 
 In the ever-evolving world of botanical innovation, scientists have made a remarkable breakthrough by developing glow-in-the-dark succulents. These luminous plants offer a mesmerizing twist on traditional houseplants, captivating plant enthusiasts and scientists alike. This innovative achievement not only adds a magical touch to home decor but also sheds light on the potential for genetic modification in creating visually stunning plant varieties.
