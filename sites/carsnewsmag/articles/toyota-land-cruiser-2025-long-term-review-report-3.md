@@ -1,24 +1,32 @@
 ---
-title: "Toyota Land Cruiser 2025: Long-Term Review Report 3"
-description: "Toyota's Land Cruiser 2.8 D-4D 204 First Edition blends rugged performance with modern amenities, offering robust off-road capabilities and advanced safety features. Its spacious interior and versatile design make it an ideal choice for adventurers and families alike."
-type: "standard"
-status: "published"
-publishDate: "2025-11-17T09:21:23+00:00"
-author: "Taylor Winters"
+title: 'Toyota Land Cruiser 2025: Long-Term Review Report 3'
+description: >-
+  Toyota's Land Cruiser 2.8 D-4D 204 First Edition blends rugged performance
+  with modern amenities, offering robust off-road capabilities and advanced
+  safety features. Its spacious interior and versatile design make it an ideal
+  choice for adventurers and families alike.
+type: standard
+status: published
+publishDate: '2025-11-17T09:21:23+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "toyota-land-cruiser-2025-long-term-review-report-3"
+  - Reviews
+slug: toyota-land-cruiser-2025-long-term-review-report-3
 reading_time: 3
-source_url: "https://carsnewsmag.com/toyota-land-cruiser-2025-long-term-review-report-3/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/toyota-land-cruiser-2025-long-term-review-report-3/'
+imported_from: wordpress
 wp_original_id: 38518
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/toyota-land-cruiser-2025-long-term-review-report-3.webp
 seo:
-  canonical: "https://carsnewsmag.com/toyota-land-cruiser-2025-long-term-review-report-3/"
-  og_title: "Toyota Land Cruiser 2025: Long-Term Review Report 3 - Cars News Magazine"
-  og_description: "Toyota's Land Cruiser 2.8 D-4D 204 First Edition blends rugged performance with modern amenities, offering robust off-road capabilities and advanced safety features. Its spacious interior and versatile design make it an ideal choice for adventurers and families alike."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/11/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/toyota-land-cruiser-2025-long-term-review-report-3/'
+  og_title: 'Toyota Land Cruiser 2025: Long-Term Review Report 3 - Cars News Magazine'
+  og_description: >-
+    Toyota's Land Cruiser 2.8 D-4D 204 First Edition blends rugged performance
+    with modern amenities, offering robust off-road capabilities and advanced
+    safety features. Its spacious interior and versatile design make it an ideal
+    choice for adventurers and families alike.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/11/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Strong review content with good tone and relevance, but significantly under target word count at 449 words versus 800-1200 target range."
+quality_note: >-
+  Strong review content with good tone and relevance, but significantly under
+  target word count at 449 words versus 800-1200 target range.
+image_alt: >-
+  Modern off-road SUV on a mountain trail at golden hour, suggesting rugged
+  comfort and adventure.
 ---
 
 Toyota's Land Cruiser has long been synonymous with durability and off-road prowess. The latest edition continues this legacy, offering both modern amenities and the rugged performance enthusiasts expect. In this article, we delve into the features and capabilities that make the Toyota Land Cruiser 2.8 D-4D 204 First Edition a standout choice for adventure seekers.
