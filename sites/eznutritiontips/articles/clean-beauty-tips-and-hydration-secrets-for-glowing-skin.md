@@ -1,25 +1,37 @@
 ---
-title: "Clean Beauty Tips and Hydration Secrets for Glowing Skin"
-description: "The quest for radiant skin is ongoing, with clean beauty and hydration playing key roles. Proper hydration maintains elasticity, while clean beauty products avoid harmful chemicals, supporting both skin health and environmental sustainability."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T10:17:27+00:00"
-author: "Taylor Winters"
+title: Clean Beauty Tips and Hydration Secrets for Glowing Skin
+description: >-
+  The quest for radiant skin is ongoing, with clean beauty and hydration playing
+  key roles. Proper hydration maintains elasticity, while clean beauty products
+  avoid harmful chemicals, supporting both skin health and environmental
+  sustainability.
+type: standard
+status: review
+publishDate: '2026-01-29T10:17:27+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Weight &amp; Wellness"
-slug: "clean-beauty-tips-and-hydration-secrets-for-glowing-skin"
+  - Healthy Recipes
+  - Weight &amp; Wellness
+slug: clean-beauty-tips-and-hydration-secrets-for-glowing-skin
 reading_time: 3
-source_url: "https://eznutritiontips.com/clean-beauty-tips-and-hydration-secrets-for-glowing-skin/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/clean-beauty-tips-and-hydration-secrets-for-glowing-skin/
+imported_from: wordpress
 wp_original_id: 18984
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/clean-beauty-tips-and-hydration-secrets-for-glowing-skin.webp
 seo:
-  canonical: "https://eznutritiontips.com/clean-beauty-tips-and-hydration-secrets-for-glowing-skin/"
-  og_title: "Clean Beauty Tips and Hydration Secrets for Glowing Skin - Easy Nutrition Tips"
-  og_description: "The quest for radiant skin is ongoing, with clean beauty and hydration playing key roles. Proper hydration maintains elasticity, while clean beauty products avoid harmful chemicals, supporting both skin health and environmental sustainability."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/01/make_file.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/clean-beauty-tips-and-hydration-secrets-for-glowing-skin/
+  og_title: >-
+    Clean Beauty Tips and Hydration Secrets for Glowing Skin - Easy Nutrition
+    Tips
+  og_description: >-
+    The quest for radiant skin is ongoing, with clean beauty and hydration
+    playing key roles. Proper hydration maintains elasticity, while clean beauty
+    products avoid harmful chemicals, supporting both skin health and
+    environmental sustainability.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/01/make_file.jpg'
+  twitter_card: summary_large_image
 quality_score: 52
 score_breakdown:
   seo_quality: 25
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "This article is off-topic for a food and nutrition site, covering beauty/skincare instead of the required nutrition and food content, with insufficient length and poor SEO optimization."
+quality_note: >-
+  This article is off-topic for a food and nutrition site, covering
+  beauty/skincare instead of the required nutrition and food content, with
+  insufficient length and poor SEO optimization.
+image_alt: >-
+  Dewy-skinned woman in soft sunlight with water reflections and fresh
+  botanicals nearby
 ---
 
 The quest for radiant, healthy skin is unending, and understanding how to achieve it can be transformative. Many people are now turning to clean beauty and hydration practices to enhance their skincare routines. These approaches not only promise external beauty but also promote overall wellness.
