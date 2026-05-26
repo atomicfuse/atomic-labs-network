@@ -23,7 +23,7 @@ source_url: >-
   https://news.bitcoin.com/crypto-backed-super-pacs-in-focus-as-lawmakers-push-5000-donation-cap/
 source_item_id: 6a13fcf016f23264031d7be2
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: /assets/images/crypto-super-pacs-donation-cap-bill.webp
 quality_score: 35
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   saving tips and budgeting, covering political legislation instead of practical
   financial advice.
 reading_time: 3
+image_alt: >-
+  Balance scale with donation envelopes and abstract crypto tokens near a
+  blurred government building.
 ---
 ## Lawmakers Target Growing Crypto Political Influence
 
