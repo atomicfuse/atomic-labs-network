@@ -1,25 +1,33 @@
 ---
-title: "Atari Buys Rights to First Five Wizardry RPGs"
-description: "Atari has acquired the rights to the first five Wizardry role-playing games, strengthening its retro portfolio and opening the door to preservation, re-releases, remasters, or new projects based on the influential dungeon crawler series."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:32:39+00:00"
-author: "Taylor Winters"
+title: Atari Buys Rights to First Five Wizardry RPGs
+description: >-
+  Atari has acquired the rights to the first five Wizardry role-playing games,
+  strengthening its retro portfolio and opening the door to preservation,
+  re-releases, remasters, or new projects based on the influential dungeon
+  crawler series.
+type: standard
+status: published
+publishDate: '2026-05-11T08:32:39+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Chrono Trigger"
-slug: "atari-buys-rights-to-first-five-wizardry-rpgs"
+  - Gaming News
+  - Chrono Trigger
+slug: atari-buys-rights-to-first-five-wizardry-rpgs
 reading_time: 6
-source_url: "https://gamingnewsalley.com/atari-buys-rights-to-first-five-wizardry-rpgs/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/atari-buys-rights-to-first-five-wizardry-rpgs/'
+imported_from: wordpress
 wp_original_id: 42642
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/atari-buys-rights-to-first-five-wizardry-rpgs.webp
 seo:
-  canonical: "https://gamingnewsalley.com/atari-buys-rights-to-first-five-wizardry-rpgs/"
-  og_title: "Atari Buys Rights to First Five Wizardry RPGs - Gaming News Alley"
-  og_description: "Atari has acquired the rights to the first five Wizardry games, strengthening its retro portfolio and opening the door to preservation, re-releases, remasters, or new projects based on the influential dungeon crawler series."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/05/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/atari-buys-rights-to-first-five-wizardry-rpgs/'
+  og_title: Atari Buys Rights to First Five Wizardry RPGs - Gaming News Alley
+  og_description: >-
+    Atari has acquired the rights to the first five Wizardry games,
+    strengthening its retro portfolio and opening the door to preservation,
+    re-releases, remasters, or new projects based on the influential dungeon
+    crawler series.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/05/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written gaming news article with excellent length and tone, though the irrelevant Chrono Trigger tag and limited SEO optimization hold back the overall score."
+quality_note: >-
+  Well-written gaming news article with excellent length and tone, though the
+  irrelevant Chrono Trigger tag and limited SEO optimization hold back the
+  overall score.
+image_alt: >-
+  Vintage game media and fantasy dice glow on an archive table inside a moody
+  dungeon corridor.
 ---
 
 Atari has strengthened its position in classic game publishing by acquiring the rights to the first five Wizardry role-playing games, a move that brings one of the most influential dungeon crawler series deeper into the company's growing retro portfolio.
