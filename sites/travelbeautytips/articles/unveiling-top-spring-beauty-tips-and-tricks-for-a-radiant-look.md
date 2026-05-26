@@ -20,7 +20,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-unveiling-top-spring-beauty-tips-and-tricks-for-a-radiant-look
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: >-
+  /assets/images/unveiling-top-spring-beauty-tips-and-tricks-for-a-radiant-look.webp
 reading_time: 3
 quality_score: 74
 score_breakdown:
@@ -32,6 +33,7 @@ score_breakdown:
 quality_note: >-
   Article has strong keyword integration and relevant content but falls short on
   length and lacks specific actionable advice, making it feel vague and generic.
+image_alt: 'Radiant spring beauty scene with dewy makeup, soft florals, and warm sunlight'
 ---
 ## Transitioning Your Beauty Routine for Spring
 
