@@ -1,25 +1,35 @@
 ---
-title: "South Park Season Premiere Sets New Record Since 1999"
-description: "South Park has become a cultural cornerstone with its irreverent humor and sharp social commentary, maintaining popularity for over two decades. Its fearless approach to controversial topics attracts a loyal fanbase and sparks debates, ensuring its continued relevance."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T05:19:32+00:00"
-author: "Taylor Winters"
+title: South Park Season Premiere Sets New Record Since 1999
+description: >-
+  South Park has become a cultural cornerstone with its irreverent humor and
+  sharp social commentary, maintaining popularity for over two decades. Its
+  fearless approach to controversial topics attracts a loyal fanbase and sparks
+  debates, ensuring its continued relevance.
+type: standard
+status: review
+publishDate: '2025-07-31T05:19:32+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "south-park-season-premiere-sets-new-record-since-1999"
+  - TV News
+  - TV Shows
+slug: south-park-season-premiere-sets-new-record-since-1999
 reading_time: 4
-source_url: "https://www.tvshowsmag.com/south-park-season-premiere-sets-new-record-since-1999/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/south-park-season-premiere-sets-new-record-since-1999/
+imported_from: wordpress
 wp_original_id: 28077
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/south-park-season-premiere-sets-new-record-since-1999.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/south-park-season-premiere-sets-new-record-since-1999/"
-  og_title: "South Park Season Premiere Sets New Record Since 1999 - TV Shows Magazine"
-  og_description: "South Park has become a cultural cornerstone with its irreverent humor and sharp social commentary, maintaining popularity for over two decades. Its fearless approach to controversial topics attracts a loyal fanbase and sparks debates, ensuring its continued relevance."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/07/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/south-park-season-premiere-sets-new-record-since-1999/
+  og_title: South Park Season Premiere Sets New Record Since 1999 - TV Shows Magazine
+  og_description: >-
+    South Park has become a cultural cornerstone with its irreverent humor and
+    sharp social commentary, maintaining popularity for over two decades. Its
+    fearless approach to controversial topics attracts a loyal fanbase and
+    sparks debates, ensuring its continued relevance.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/07/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 25
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "The article has a major factual accuracy issue as the title claims a specific record but provides no supporting data, while the content is well-written and appropriately toned for the audience."
+quality_note: >-
+  The article has a major factual accuracy issue as the title claims a specific
+  record but provides no supporting data, while the content is well-written and
+  appropriately toned for the audience.
+image_alt: >-
+  Glowing televisions in a dark room overlook a snowy mountain town, suggesting
+  a long-running animated cultural phenomenon.
 ---
 
 "South Park" has become a cultural cornerstone, entertaining audiences with its irreverent humor and sharp social commentary. Since its debut over two decades ago, this animated series has managed to maintain an impressive level of popularity, demonstrating resilience in the ever-evolving landscape of television entertainment. The show's unique ability to tackle contemporary issues with wit has been a significant factor in its enduring success.
