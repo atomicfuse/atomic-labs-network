@@ -1,25 +1,34 @@
 ---
-title: "Top 10 Iconic 2000s Video Games You Must Play"
-description: "The 2000s were a transformative era for video games, marked by the rise of open-world adventures, first-person shooters, and innovative indie games. Technological advancements and immersive storylines captivated players, shaping the future of gaming."
-type: "standard"
-status: "published"
-publishDate: "2025-08-07T04:19:27+00:00"
-author: "Taylor Winters"
+title: Top 10 Iconic 2000s Video Games You Must Play
+description: >-
+  The 2000s were a transformative era for video games, marked by the rise of
+  open-world adventures, first-person shooters, and innovative indie games.
+  Technological advancements and immersive storylines captivated players,
+  shaping the future of gaming.
+type: standard
+status: published
+publishDate: '2025-08-07T04:19:27+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "top-10-iconic-2000s-video-games-you-must-play"
+  - Gaming News
+  - Community
+slug: top-10-iconic-2000s-video-games-you-must-play
 reading_time: 3
-source_url: "https://gamingnewsalley.com/top-10-iconic-2000s-video-games-you-must-play/"
-imported_from: "wordpress"
+source_url: 'https://gamingnewsalley.com/top-10-iconic-2000s-video-games-you-must-play/'
+imported_from: wordpress
 wp_original_id: 42510
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/top-10-iconic-2000s-video-games-you-must-play.webp
 seo:
-  canonical: "https://gamingnewsalley.com/top-10-iconic-2000s-video-games-you-must-play/"
-  og_title: "Top 10 Iconic 2000s Video Games You Must Play - Gaming News Alley"
-  og_description: "The 2000s were a transformative era for video games, marked by the rise of open-world adventures, first-person shooters, and innovative indie games. Technological advancements and immersive storylines captivated players, shaping the future of gaming."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/08/make_10-iconic-video-games-that-perfectly-capture-gaming-in-the-2000s.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamingnewsalley.com/top-10-iconic-2000s-video-games-you-must-play/'
+  og_title: Top 10 Iconic 2000s Video Games You Must Play - Gaming News Alley
+  og_description: >-
+    The 2000s were a transformative era for video games, marked by the rise of
+    open-world adventures, first-person shooters, and innovative indie games.
+    Technological advancements and immersive storylines captivated players,
+    shaping the future of gaming.
+  og_image: >-
+    https://gamingnewsalley.com/wp-content/uploads/2025/08/make_10-iconic-video-games-that-perfectly-capture-gaming-in-the-2000s.jpg
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy but falls significantly short of target word count at only 414 words instead of the required 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accuracy but falls significantly short
+  of target word count at only 414 words instead of the required 800-1200 range.
+image_alt: >-
+  Nostalgic 2000s gaming room lit by a glowing CRT television and scattered
+  controllers.
 ---
 
 The 2000s were a transformative era for video games, bringing technological advancements and unforgettable experiences. This decade saw the launch of iconic game series, innovative gameplay mechanics, and immersive storylines that captivated players worldwide. Let's explore some of the most influential video games from this remarkable period.
