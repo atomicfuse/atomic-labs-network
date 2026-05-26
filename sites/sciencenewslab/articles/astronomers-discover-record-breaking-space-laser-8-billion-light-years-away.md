@@ -1,21 +1,28 @@
 ---
-title: "Astronomers Discover Record-Breaking Space Laser 8 Billion Light-Years Away"
-description: "Astronomers have detected a powerful space laser, a megamaser, 8 billion light-years from Earth, marking a milestone in cosmic research and showcasing advanced astronomical technology. This discovery offers insights into early universe conditions and galaxy formation."
-type: "standard"
-status: "published"
-publishDate: "2026-03-05T12:53:37"
-author: "Taylor Winters"
+title: Astronomers Discover Record-Breaking Space Laser 8 Billion Light-Years Away
+description: >-
+  Astronomers have detected a powerful space laser, a megamaser, 8 billion
+  light-years from Earth, marking a milestone in cosmic research and showcasing
+  advanced astronomical technology. This discovery offers insights into early
+  universe conditions and galaxy formation.
+type: standard
+status: published
+publishDate: '2026-03-05T12:53:37'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "astronomers-discover-record-breaking-space-laser-8-billion-light-years-away"
+  - Space
+slug: astronomers-discover-record-breaking-space-laser-8-billion-light-years-away
 reading_time: 2
-source_url: "https://www.sciencenewslab.com/astronomers-discover-record-breaking-space-laser-8-billion-light-years-away/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/astronomers-discover-record-breaking-space-laser-8-billion-light-years-away/
+imported_from: wordpress
 wp_original_id: 15082
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/astronomers-discover-record-breaking-space-laser-8-billion-light-years-away.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/astronomers-discover-record-breaking-space-laser-8-billion-light-years-away/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/astronomers-discover-record-breaking-space-laser-8-billion-light-years-away/
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -23,7 +30,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written space science article with good tone and accuracy, but significantly under target word count at 355 words versus 800-1200 target range."
+quality_note: >-
+  Well-written space science article with good tone and accuracy, but
+  significantly under target word count at 355 words versus 800-1200 target
+  range.
+image_alt: >-
+  Distant glowing galaxy emits a subtle cosmic beam across deep space with
+  telescope silhouettes in the foreground.
 ---
 
 In an extraordinary breakthrough, astronomers have detected a powerful space laser, known as a megamaser, located a staggering 8 billion light-years from Earth. This discovery marks a significant milestone in our understanding of cosmic phenomena, showcasing the capabilities of modern astronomical technology.
