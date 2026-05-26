@@ -1,24 +1,36 @@
 ---
-title: "Top 5 Dreamcast Classics Honoring SEGA Legend Hideki Sato"
-description: "The Sega Dreamcast revolutionized gaming in the late 1990s, driven by visionary Hideki Sato. It pioneered online gaming and boasted impressive graphics, leaving a lasting impact on the industry despite its short commercial life."
-type: "standard"
-status: "review"
-publishDate: "2026-02-16T09:35:40+00:00"
-author: "Taylor Winters"
+title: Top 5 Dreamcast Classics Honoring SEGA Legend Hideki Sato
+description: >-
+  The Sega Dreamcast revolutionized gaming in the late 1990s, driven by
+  visionary Hideki Sato. It pioneered online gaming and boasted impressive
+  graphics, leaving a lasting impact on the industry despite its short
+  commercial life.
+type: standard
+status: review
+publishDate: '2026-02-16T09:35:40+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "China"
-slug: "top-5-dreamcast-classics-honoring-sega-legend-hideki-sato"
+  - Gaming News
+  - China
+slug: top-5-dreamcast-classics-honoring-sega-legend-hideki-sato
 reading_time: 3
-source_url: "https://gamingnewsalley.com/top-5-dreamcast-classics-honoring-sega-legend-hideki-sato/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/top-5-dreamcast-classics-honoring-sega-legend-hideki-sato/
+imported_from: wordpress
 wp_original_id: 42611
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/top-5-dreamcast-classics-honoring-sega-legend-hideki-sato.webp
 seo:
-  canonical: "https://gamingnewsalley.com/top-5-dreamcast-classics-honoring-sega-legend-hideki-sato/"
-  og_title: "Top 5 Dreamcast Classics Honoring SEGA Legend Hideki Sato - Gaming News Alley"
-  og_description: "The Sega Dreamcast revolutionized gaming in the late 1990s, driven by visionary Hideki Sato. It pioneered online gaming and boasted impressive graphics, leaving a lasting impact on the industry despite its short commercial life."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/top-5-dreamcast-classics-honoring-sega-legend-hideki-sato/
+  og_title: >-
+    Top 5 Dreamcast Classics Honoring SEGA Legend Hideki Sato - Gaming News
+    Alley
+  og_description: >-
+    The Sega Dreamcast revolutionized gaming in the late 1990s, driven by
+    visionary Hideki Sato. It pioneered online gaming and boasted impressive
+    graphics, leaving a lasting impact on the industry despite its short
+    commercial life.
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 40
   keyword_relevance: 75
-quality_note: "The article has good tone and covers gaming topics well, but suffers from being too short, lacking proper SEO optimization, and containing factual inaccuracies about Hideki Sato's death."
+quality_note: >-
+  The article has good tone and covers gaming topics well, but suffers from
+  being too short, lacking proper SEO optimization, and containing factual
+  inaccuracies about Hideki Sato's death.
+image_alt: >-
+  Retro-futurist game console and controller glowing beside abstract online
+  network lights
 ---
 
 The world of gaming has been significantly shaped by numerous consoles, but few have left as profound an impact as the Sega Dreamcast. Released in the late 1990s, this console was revolutionary, offering a glimpse into the future of gaming. As we reflect on its legacy, it's essential to remember the creative minds behind it, including the notable pioneer, Hideki Sato. His recent passing invites us to celebrate the innovations and unforgettable experiences that the Dreamcast provided through its iconic games.
