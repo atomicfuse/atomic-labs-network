@@ -1,26 +1,39 @@
 ---
-title: "Idaho Health Research Program Connects Universities and Veterans Affairs"
-description: "The Healthy Idaho Center is a collaborative research initiative connecting Idaho universities and the Veterans Affairs department to address critical health challenges, including chronic disease management, mental health, and rural healthcare access."
-type: "standard"
-status: "review"
-publishDate: "2026-01-19T09:29:28+00:00"
-author: "Taylor Winters"
+title: Idaho Health Research Program Connects Universities and Veterans Affairs
+description: >-
+  The Healthy Idaho Center is a collaborative research initiative connecting
+  Idaho universities and the Veterans Affairs department to address critical
+  health challenges, including chronic disease management, mental health, and
+  rural healthcare access.
+type: standard
+status: review
+publishDate: '2026-01-19T09:29:28+00:00'
+author: Taylor Winters
 tags:
-  - "Clinical Trials &amp; Research"
-  - "Mental Health"
-  - "News"
-slug: "idaho-health-research-program-connects-universities-and-veterans-affairs"
+  - Clinical Trials &amp; Research
+  - Mental Health
+  - News
+slug: idaho-health-research-program-connects-universities-and-veterans-affairs
 reading_time: 3
-source_url: "https://medicalnewsalley.com/idaho-health-research-program-connects-universities-and-veterans-affairs/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/idaho-health-research-program-connects-universities-and-veterans-affairs/
+imported_from: wordpress
 wp_original_id: 32553
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/idaho-health-research-program-connects-universities-and-veterans-affairs.webp
 seo:
-  canonical: "https://medicalnewsalley.com/idaho-health-research-program-connects-universities-and-veterans-affairs/"
-  og_title: "Idaho Health Research Program Connects Universities and Veterans Affairs - Medical News Alley"
-  og_description: "The Healthy Idaho Center is a collaborative research initiative involving universities and the Veterans Affairs department, aiming to address critical health challenges in Idaho. It focuses on chronic disease management, mental health, and rural healthcare access to improve public health outcomes."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/idaho-health-research-program-connects-universities-and-veterans-affairs/
+  og_title: >-
+    Idaho Health Research Program Connects Universities and Veterans Affairs -
+    Medical News Alley
+  og_description: >-
+    The Healthy Idaho Center is a collaborative research initiative involving
+    universities and the Veterans Affairs department, aiming to address critical
+    health challenges in Idaho. It focuses on chronic disease management, mental
+    health, and rural healthcare access to improve public health outcomes.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-structured article with strong keyword relevance and appropriate tone, but falls short on length and lacks specific data verification for accuracy."
+quality_note: >-
+  Well-structured article with strong keyword relevance and appropriate tone,
+  but falls short on length and lacks specific data verification for accuracy.
+image_alt: >-
+  Researchers, clinicians, and veterans collaborate in a healthcare meeting
+  overlooking rural Idaho.
 ---
 
 # Healthy Idaho Center Drives Collaborative Health Research Across Institutions
