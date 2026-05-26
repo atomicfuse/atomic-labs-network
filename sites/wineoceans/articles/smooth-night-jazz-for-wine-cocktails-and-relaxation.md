@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-smooth-night-jazz-for-wine-cocktails-and-relaxation
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/smooth-night-jazz-for-wine-cocktails-and-relaxation.webp
 reading_time: 3
 quality_score: 50
 score_breakdown:
@@ -32,6 +32,9 @@ score_breakdown:
 quality_note: >-
   The article is too short at 411 words and lacks focus on core wine topics,
   reading more like generic lifestyle content than wine-specific guidance.
+image_alt: >-
+  Wine cocktail on a dim lounge table with soft jazz ambiance and warm evening
+  lighting
 ---
 ## The Art of Evening Relaxation
 
