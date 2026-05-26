@@ -1,25 +1,38 @@
 ---
-title: "Hidden Gems: Discover Vietnam’s Off-the-Beaten-Path Destinations"
-description: "Vietnam offers travelers unforgettable adventures, from its rich cultural heritage to stunning natural landscapes. Explore ancient towns like Hoi An, discover Halong Bay's wonders, experience Hanoi's vibrant energy, and unwind on Phu Quoc's beaches. Each destination promises unique experiences."
-type: "standard"
-status: "published"
-publishDate: "2025-05-12T05:43:27+00:00"
-author: "Taylor Winters"
+title: 'Hidden Gems: Discover Vietnam’s Off-the-Beaten-Path Destinations'
+description: >-
+  Vietnam offers travelers unforgettable adventures, from its rich cultural
+  heritage to stunning natural landscapes. Explore ancient towns like Hoi An,
+  discover Halong Bay's wonders, experience Hanoi's vibrant energy, and unwind
+  on Phu Quoc's beaches. Each destination promises unique experiences.
+type: standard
+status: published
+publishDate: '2025-05-12T05:43:27+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "hidden-gems-discover-vietnams-off-the-beaten-path-destinations"
+  - Destinations
+  - Travel
+slug: hidden-gems-discover-vietnams-off-the-beaten-path-destinations
 reading_time: 3
-source_url: "https://journeypeaks.com/hidden-gems-discover-vietnams-off-the-beaten-path-destinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/hidden-gems-discover-vietnams-off-the-beaten-path-destinations/
+imported_from: wordpress
 wp_original_id: 38641
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/hidden-gems-discover-vietnams-off-the-beaten-path-destinations.webp
 seo:
-  canonical: "https://journeypeaks.com/hidden-gems-discover-vietnams-off-the-beaten-path-destinations/"
-  og_title: "Hidden Gems: Discover Vietnam's Off-the-Beaten-Path Destinations - Journey Peaks"
-  og_description: "Vietnam offers travelers unforgettable adventures, from its rich cultural heritage to stunning natural landscapes. Explore ancient towns like Hoi An, discover Halong Bay's wonders, experience Hanoi's vibrant energy, and unwind on Phu Quoc's beaches. Each destination promises unique experiences."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/hidden-gems-discover-vietnams-off-the-beaten-path-destinations/
+  og_title: >-
+    Hidden Gems: Discover Vietnam's Off-the-Beaten-Path Destinations - Journey
+    Peaks
+  og_description: >-
+    Vietnam offers travelers unforgettable adventures, from its rich cultural
+    heritage to stunning natural landscapes. Explore ancient towns like Hoi An,
+    discover Halong Bay's wonders, experience Hanoi's vibrant energy, and unwind
+    on Phu Quoc's beaches. Each destination promises unique experiences.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel content with good destination coverage and engaging tone, but falls short on length and SEO optimization with a misleading title about 'hidden gems' when covering popular destinations."
+quality_note: >-
+  Well-written travel content with good destination coverage and engaging tone,
+  but falls short on length and SEO optimization with a misleading title about
+  'hidden gems' when covering popular destinations.
+image_alt: >-
+  A lone traveler overlooks misty Vietnamese rice terraces, limestone cliffs,
+  and a quiet village at sunrise.
 ---
 
 Vietnam, a captivating Southeast Asian gem, offers travelers an array of breathtaking experiences. From its rich cultural heritage to its stunning natural landscapes, Vietnam promises unforgettable adventures. Whether you're drawn to the charm of ancient towns, the allure of bustling cities, or the tranquility of natural wonders, this country has something exceptional for every explorer.
