@@ -1,25 +1,36 @@
 ---
-title: "7 Must-Visit Bali Destinations for Your 2025 Vacation"
-description: "Bali offers captivating destinations for every traveler, from Ubud's artistic soul and the Tegallalang Rice Terraces to Seminyak's vibrant nightlife, Uluwatu Temple's spiritual aura, Mount Batur's adventure, and Nusa Penida's underwater wonders."
-type: "standard"
-status: "published"
-publishDate: "2025-05-05T05:56:33+00:00"
-author: "Taylor Winters"
+title: 7 Must-Visit Bali Destinations for Your 2025 Vacation
+description: >-
+  Bali offers captivating destinations for every traveler, from Ubud's artistic
+  soul and the Tegallalang Rice Terraces to Seminyak's vibrant nightlife,
+  Uluwatu Temple's spiritual aura, Mount Batur's adventure, and Nusa Penida's
+  underwater wonders.
+type: standard
+status: published
+publishDate: '2025-05-05T05:56:33+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "7-must-visit-bali-destinations-for-your-2025-vacation"
+  - Destinations
+  - Travel
+slug: 7-must-visit-bali-destinations-for-your-2025-vacation
 reading_time: 3
-source_url: "https://journeypeaks.com/7-must-visit-bali-destinations-for-your-2025-vacation/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/7-must-visit-bali-destinations-for-your-2025-vacation/
+imported_from: wordpress
 wp_original_id: 38637
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/7-must-visit-bali-destinations-for-your-2025-vacation.webp
 seo:
-  canonical: "https://journeypeaks.com/7-must-visit-bali-destinations-for-your-2025-vacation/"
-  og_title: "7 Must-Visit Bali Destinations for Your 2025 Vacation - Journey Peaks"
-  og_description: "Bali, known for its stunning landscapes and vibrant culture, offers captivating destinations for every traveler. Explore Ubud's artistic soul, the Tegallalang Rice Terraces, Seminyak's vibrant nightlife, Uluwatu Temple's spiritual aura, Mount Batur's adventure, and Nusa Penida's underwater wonders."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/7-must-visit-bali-destinations-for-your-2025-vacation/
+  og_title: 7 Must-Visit Bali Destinations for Your 2025 Vacation - Journey Peaks
+  og_description: >-
+    Bali, known for its stunning landscapes and vibrant culture, offers
+    captivating destinations for every traveler. Explore Ubud's artistic soul,
+    the Tegallalang Rice Terraces, Seminyak's vibrant nightlife, Uluwatu
+    Temple's spiritual aura, Mount Batur's adventure, and Nusa Penida's
+    underwater wonders.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel content with good keyword coverage and engaging tone, but significantly under target word count at 599 words instead of 800-1200."
+quality_note: >-
+  Well-written travel content with good keyword coverage and engaging tone, but
+  significantly under target word count at 599 words instead of 800-1200.
+image_alt: >-
+  Golden sunrise over Bali rice terraces, cliffs, ocean, and distant volcano
+  with a lone traveler.
 ---
 
 I'm thrilled to share with you some of the most captivating destinations in Bali that should be on your travel bucket list for 2025. Known for its stunning landscapes and vibrant culture, Bali offers an array of experiences that entice every traveler. Whether you're an adventure enthusiast or someone seeking tranquility, Bali has something for everyone.
