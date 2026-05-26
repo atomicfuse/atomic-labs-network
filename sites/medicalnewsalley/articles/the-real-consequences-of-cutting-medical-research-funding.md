@@ -1,25 +1,37 @@
 ---
-title: "The Real Consequences of Cutting Medical Research Funding"
-description: "Medical research funding is vital for advancing healthcare, supporting innovation, and boosting the economy. Cutting these funds could slow medical progress, hinder global collaborations, and negatively impact public health, emphasizing the need for sustained investment in research."
-type: "standard"
-status: "published"
-publishDate: "2025-06-26T04:15:21+00:00"
-author: "Taylor Winters"
+title: The Real Consequences of Cutting Medical Research Funding
+description: >-
+  Medical research funding is vital for advancing healthcare, supporting
+  innovation, and boosting the economy. Cutting these funds could slow medical
+  progress, hinder global collaborations, and negatively impact public health,
+  emphasizing the need for sustained investment in research.
+type: standard
+status: published
+publishDate: '2025-06-26T04:15:21+00:00'
+author: Taylor Winters
 tags:
-  - "Medical Research"
-  - "Clinical Trials &amp; Research"
-slug: "the-real-consequences-of-cutting-medical-research-funding"
+  - Medical Research
+  - Clinical Trials &amp; Research
+slug: the-real-consequences-of-cutting-medical-research-funding
 reading_time: 2
-source_url: "https://medicalnewsalley.com/the-real-consequences-of-cutting-medical-research-funding/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/the-real-consequences-of-cutting-medical-research-funding/
+imported_from: wordpress
 wp_original_id: 32459
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/the-real-consequences-of-cutting-medical-research-funding.webp
 seo:
-  canonical: "https://medicalnewsalley.com/the-real-consequences-of-cutting-medical-research-funding/"
-  og_title: "The Real Consequences of Cutting Medical Research Funding - Medical News Alley"
-  og_description: "Medical research funding is vital for advancing healthcare, supporting innovation, and boosting the economy. Cutting these funds could slow medical progress, hinder global collaborations, and negatively impact public health, emphasizing the need for sustained investment in research."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/the-real-consequences-of-cutting-medical-research-funding/
+  og_title: >-
+    The Real Consequences of Cutting Medical Research Funding - Medical News
+    Alley
+  og_description: >-
+    Medical research funding is vital for advancing healthcare, supporting
+    innovation, and boosting the economy. Cutting these funds could slow medical
+    progress, hinder global collaborations, and negatively impact public health,
+    emphasizing the need for sustained investment in research.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,10 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong topic relevance and tone but significantly under target word count at 382 words versus the 800-1200 target range."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target word count at
+  382 words versus the 800-1200 target range.
+image_alt: Scientist holding a petri dish in a softly lit medical research lab at dawn
 ---
 
 Medical research funding plays a critical role in advancing healthcare and improving patient outcomes. However, recent discussions around cutting these funds have sparked widespread concern among healthcare professionals and researchers. Understanding the profound implications of reducing investment in medical research is crucial for stakeholders and the general public.
