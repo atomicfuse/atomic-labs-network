@@ -1,24 +1,33 @@
 ---
-title: "How to Verify Nutrition Advice on Social Media"
-description: "Social media amplifies nutrition misinformation, leading to confusion. Influencers, often uncredentialed, impact dietary habits with misleading advice, making critical evaluation of sources and evidence-based information crucial for informed health decisions."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T10:13:37+00:00"
-author: "Taylor Winters"
+title: How to Verify Nutrition Advice on Social Media
+description: >-
+  Social media amplifies nutrition misinformation, leading to confusion.
+  Influencers, often uncredentialed, impact dietary habits with misleading
+  advice, making critical evaluation of sources and evidence-based information
+  crucial for informed health decisions.
+type: standard
+status: published
+publishDate: '2026-01-19T10:13:37+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-slug: "how-to-verify-nutrition-advice-on-social-media"
+  - Nutrition Myths
+slug: how-to-verify-nutrition-advice-on-social-media
 reading_time: 4
-source_url: "https://eznutritiontips.com/how-to-verify-nutrition-advice-on-social-media/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/how-to-verify-nutrition-advice-on-social-media/'
+imported_from: wordpress
 wp_original_id: 18977
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/how-to-verify-nutrition-advice-on-social-media.webp
 seo:
-  canonical: "https://eznutritiontips.com/how-to-verify-nutrition-advice-on-social-media/"
-  og_title: "How to Verify Nutrition Advice on Social Media - Easy Nutrition Tips"
-  og_description: "Social media amplifies nutrition misinformation, leading to confusion. Influencers, often uncredentialed, impact dietary habits with misleading advice. Critical evaluation of sources and evidence-based information is crucial for informed health decisions and combating misinformation's harmful effects on public perception."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/how-to-verify-nutrition-advice-on-social-media/'
+  og_title: How to Verify Nutrition Advice on Social Media - Easy Nutrition Tips
+  og_description: >-
+    Social media amplifies nutrition misinformation, leading to confusion.
+    Influencers, often uncredentialed, impact dietary habits with misleading
+    advice. Critical evaluation of sources and evidence-based information is
+    crucial for informed health decisions and combating misinformation's harmful
+    effects on public perception.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 85
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-structured article with strong relevance to nutrition myths and misinformation, though the title could be more action-oriented and the content slightly longer to meet ideal word count targets."
+quality_note: >-
+  Well-structured article with strong relevance to nutrition myths and
+  misinformation, though the title could be more action-oriented and the content
+  slightly longer to meet ideal word count targets.
+image_alt: >-
+  Person reviewing nutrition information beside a phone, fresh produce, and
+  notes on a bright kitchen table
 ---
 
 Social media has become a powerful tool in shaping public perception, especially in the realm of nutrition. While these platforms offer a wealth of information, the challenge lies in distinguishing credible insights from misinformation. The proliferation of nutrition advice on social media often leads to confusion, making it crucial for individuals to develop a critical eye when evaluating such content.
