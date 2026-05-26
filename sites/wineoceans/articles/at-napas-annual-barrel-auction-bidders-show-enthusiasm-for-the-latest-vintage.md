@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-at-napas-annual-barrel-auction-bidders-show-enthusiasm-for-the-latest-vintage
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/at-napas-annual-barrel-auction-bidders-show-enthusiasm-for-the-latest-vintage.webp
 reading_time: 2
 quality_score: 68
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Well-structured article on relevant wine news topic with good keyword
   coverage, but severely penalized for being too short at only 245 words when
   target is 800-1200 words.
+image_alt: >-
+  Oak wine barrels and red wine glasses glow under warm cellar light as bidders
+  gather in the background.
 ---
 ## Strong Interest in Latest Vintage
 
