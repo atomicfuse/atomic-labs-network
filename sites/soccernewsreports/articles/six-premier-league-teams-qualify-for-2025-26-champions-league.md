@@ -1,25 +1,38 @@
 ---
-title: "Six Premier League Teams Qualify for 2025-26 Champions League"
-description: "The UEFA Champions League will undergo a major transformation in the 2025-26 season, with six Premier League teams participating due to a new format, reflecting the league's global prominence and enhancing competition in Europe's prestigious club tournament."
-type: "standard"
-status: "published"
-publishDate: "2025-08-28T04:29:27+00:00"
-author: "Taylor Winters"
+title: Six Premier League Teams Qualify for 2025-26 Champions League
+description: >-
+  The UEFA Champions League will undergo a major transformation in the 2025-26
+  season, with six Premier League teams participating due to a new format,
+  reflecting the league's global prominence and enhancing competition in
+  Europe's prestigious club tournament.
+type: standard
+status: published
+publishDate: '2025-08-28T04:29:27+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AC Milan"
-slug: "six-premier-league-teams-qualify-for-2025-26-champions-league"
+  - Latest News
+  - AC Milan
+slug: six-premier-league-teams-qualify-for-2025-26-champions-league
 reading_time: 4
-source_url: "https://soccernewsreports.com/six-premier-league-teams-qualify-for-2025-26-champions-league/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/six-premier-league-teams-qualify-for-2025-26-champions-league/
+imported_from: wordpress
 wp_original_id: 37892
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/six-premier-league-teams-qualify-for-2025-26-champions-league.webp
 seo:
-  canonical: "https://soccernewsreports.com/six-premier-league-teams-qualify-for-2025-26-champions-league/"
-  og_title: "Six Premier League Teams Qualify for 2025-26 Champions League - Soccer News Reports"
-  og_description: "The UEFA Champions League will undergo a major transformation in the 2025-26 season, with six Premier League teams participating due to a new format, reflecting the league's global prominence and enhancing competition in Europe's prestigious club tournament."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/08/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/six-premier-league-teams-qualify-for-2025-26-champions-league/
+  og_title: >-
+    Six Premier League Teams Qualify for 2025-26 Champions League - Soccer News
+    Reports
+  og_description: >-
+    The UEFA Champions League will undergo a major transformation in the 2025-26
+    season, with six Premier League teams participating due to a new format,
+    reflecting the league's global prominence and enhancing competition in
+    Europe's prestigious club tournament.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/08/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and structure, but concerns about factual accuracy regarding the 2025-26 format details and below-target word count impact the overall score."
+quality_note: >-
+  Well-written article with good tone and structure, but concerns about factual
+  accuracy regarding the 2025-26 format details and below-target word count
+  impact the overall score.
+image_alt: >-
+  Six footballers walk toward a floodlit stadium, symbolizing expanded European
+  competition.
 ---
 
 The UEFA Champions League is set for a significant transformation in the 2025-26 season, with six Premier League teams poised to compete. This shift arises from changes to the tournament's format, enhancing its allure and competition level. As European football evolves, the Premier League's global prominence is increasingly reflected in its representation in the continent's most prestigious club competition.
