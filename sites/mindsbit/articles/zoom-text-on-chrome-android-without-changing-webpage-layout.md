@@ -1,24 +1,35 @@
 ---
-title: "Zoom Text on Chrome Android Without Changing Webpage Layout"
-description: "Google has updated its Chrome browser on Android to improve digital accessibility with a new page zoom feature. This allows users to adjust webpage magnification, enhancing readability for those with visual impairments and offering a more tailored browsing experience."
-type: "standard"
-status: "published"
-publishDate: "2025-05-18T11:09:15+00:00"
-author: "Lena Ashwood"
+title: Zoom Text on Chrome Android Without Changing Webpage Layout
+description: >-
+  Google has updated its Chrome browser on Android to improve digital
+  accessibility with a new page zoom feature. This allows users to adjust
+  webpage magnification, enhancing readability for those with visual impairments
+  and offering a more tailored browsing experience.
+type: standard
+status: published
+publishDate: '2025-05-18T11:09:15+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "zoom-text-on-chrome-android-without-changing-webpage-layout"
+  - Tech
+slug: zoom-text-on-chrome-android-without-changing-webpage-layout
 reading_time: 4
-source_url: "https://mindsbit.com/zoom-text-on-chrome-android-without-changing-webpage-layout/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/zoom-text-on-chrome-android-without-changing-webpage-layout/
+imported_from: wordpress
 wp_original_id: 349
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: >-
+  /assets/images/zoom-text-on-chrome-android-without-changing-webpage-layout.webp
 seo:
-  canonical: "https://mindsbit.com/zoom-text-on-chrome-android-without-changing-webpage-layout/"
-  og_title: "Zoom Text on Chrome Android Without Changing Webpage Layout - Minds bit"
-  og_description: "Google has updated its Chrome browser on Android to improve digital accessibility with a new page zoom feature. This allows users to adjust webpage magnification, enhancing readability for those with visual impairments and offering a more tailored browsing experience."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-4.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/zoom-text-on-chrome-android-without-changing-webpage-layout/
+  og_title: Zoom Text on Chrome Android Without Changing Webpage Layout - Minds bit
+  og_description: >-
+    Google has updated its Chrome browser on Android to improve digital
+    accessibility with a new page zoom feature. This allows users to adjust
+    webpage magnification, enhancing readability for those with visual
+    impairments and offering a more tailored browsing experience.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-4.png'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written tech article with good accessibility focus, but slightly short of target length and could benefit from stronger SEO optimization in title and headings."
+quality_note: >-
+  Well-written tech article with good accessibility focus, but slightly short of
+  target length and could benefit from stronger SEO optimization in title and
+  headings.
+image_alt: >-
+  Smartphone browser layout with magnified content highlighting improved
+  readability and accessibility.
 ---
 
 In a significant stride towards enhancing digital accessibility, Google has introduced a notable update to its Chrome browser on Android. This update brings a new feature that allows users to zoom in on any web page, regardless of the site's settings. This enhancement is particularly beneficial for those with visual impairments, offering them greater control over webpage readability.
