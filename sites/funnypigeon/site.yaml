@@ -2,7 +2,8 @@ domain: funnypigeon.com
 site_name: funnypigeon
 site_tagline: null
 author: Andrew Gray
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d79716f23264031d7a5f
 brief:
