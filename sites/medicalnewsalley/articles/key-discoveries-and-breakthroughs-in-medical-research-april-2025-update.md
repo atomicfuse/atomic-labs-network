@@ -1,27 +1,41 @@
 ---
-title: "Key Discoveries and Breakthroughs in Medical Research: April 2025 Update"
-description: "April 2025 marked an exciting period in medical research with numerous significant findings, as the University of Nebraska Medical Center led breakthroughs in cancer research, immunology, neurology, cardiology, and microbiology, potentially reshaping the future of medical treatment."
-type: "standard"
-status: "review"
-publishDate: "2025-04-10T05:46:41+00:00"
-author: "Taylor Winters"
+title: 'Key Discoveries and Breakthroughs in Medical Research: April 2025 Update'
+description: >-
+  April 2025 marked an exciting period in medical research with numerous
+  significant findings, as the University of Nebraska Medical Center led
+  breakthroughs in cancer research, immunology, neurology, cardiology, and
+  microbiology, potentially reshaping the future of medical treatment.
+type: standard
+status: review
+publishDate: '2025-04-10T05:46:41+00:00'
+author: Taylor Winters
 tags:
-  - "Medical Research"
-  - "Cancer"
-  - "Clinical Trials &amp; Research"
-  - "Drugs"
-slug: "key-discoveries-and-breakthroughs-in-medical-research-april-2025-update"
+  - Medical Research
+  - Cancer
+  - Clinical Trials &amp; Research
+  - Drugs
+slug: key-discoveries-and-breakthroughs-in-medical-research-april-2025-update
 reading_time: 2
-source_url: "https://medicalnewsalley.com/key-discoveries-and-breakthroughs-in-medical-research-april-2025-update/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/key-discoveries-and-breakthroughs-in-medical-research-april-2025-update/
+imported_from: wordpress
 wp_original_id: 32410
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/key-discoveries-and-breakthroughs-in-medical-research-april-2025-update.webp
 seo:
-  canonical: "https://medicalnewsalley.com/key-discoveries-and-breakthroughs-in-medical-research-april-2025-update/"
-  og_title: "Key Discoveries and Breakthroughs in Medical Research: April 2025 Update - Medical News Alley"
-  og_description: "April 2025 marked an exciting period in medical research with numerous significant findings. The University of Nebraska Medical Center led these advancements, making breakthroughs in cancer research, immunology, neurology, cardiology, and microbiology, potential reshaping the future of medical treatment."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/key-discoveries-and-breakthroughs-in-medical-research-april-2025-update/
+  og_title: >-
+    Key Discoveries and Breakthroughs in Medical Research: April 2025 Update -
+    Medical News Alley
+  og_description: >-
+    April 2025 marked an exciting period in medical research with numerous
+    significant findings. The University of Nebraska Medical Center led these
+    advancements, making breakthroughs in cancer research, immunology,
+    neurology, cardiology, and microbiology, potential reshaping the future of
+    medical treatment.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/04/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 59
 score_breakdown:
   seo_quality: 75
@@ -29,7 +43,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "Strong keyword relevance and appropriate tone, but severely penalized for extremely short length (356 words vs 800-1200 target) and major factual accuracy issues with fabricated future research claims from April 2025."
+quality_note: >-
+  Strong keyword relevance and appropriate tone, but severely penalized for
+  extremely short length (356 words vs 800-1200 target) and major factual
+  accuracy issues with fabricated future research claims from April 2025.
+image_alt: >-
+  Softly lit medical research lab with abstract biological forms glowing in
+  hopeful blue and gold tones.
 ---
 
 April 2025 has been an exhilarating month in the field of medical research, with several groundbreaking studies and findings. The University of Nebraska Medical Center (UNMC) has been at the forefront of these advancements. Let's delve into the most significant discoveries and developments from the month.
