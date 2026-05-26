@@ -1,23 +1,29 @@
 ---
-title: "Discover the Optical Illusion of the Blue Marble Fruit"
-description: "The Pollia condensata, or African marble berry, exhibits a vibrant blue hue not from pigments but due to structural coloration, an optical illusion created by microscopic structures reflecting light, attracting animals for seed dispersal and inspiring technological innovations."
-type: "standard"
-status: "published"
-publishDate: "2026-01-01T12:51:19"
-author: "Taylor Winters"
+title: Discover the Optical Illusion of the Blue Marble Fruit
+description: >-
+  The Pollia condensata, or African marble berry, exhibits a vibrant blue hue
+  not from pigments but due to structural coloration, an optical illusion
+  created by microscopic structures reflecting light, attracting animals for
+  seed dispersal and inspiring technological innovations.
+type: standard
+status: published
+publishDate: '2026-01-01T12:51:19'
+author: Taylor Winters
 tags:
-  - "Nature"
-  - "Physics"
-  - "Tech"
-slug: "discover-the-optical-illusion-of-the-blue-marble-fruit"
+  - Nature
+  - Physics
+  - Tech
+slug: discover-the-optical-illusion-of-the-blue-marble-fruit
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/discover-the-optical-illusion-of-the-blue-marble-fruit/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/discover-the-optical-illusion-of-the-blue-marble-fruit/
+imported_from: wordpress
 wp_original_id: 15048
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/discover-the-optical-illusion-of-the-blue-marble-fruit.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/discover-the-optical-illusion-of-the-blue-marble-fruit/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/discover-the-optical-illusion-of-the-blue-marble-fruit/
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -25,7 +31,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and accuracy, but falls short on word count (553 vs 800-1200 target) and could benefit from stronger SEO optimization in title and headings."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on word
+  count (553 vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and headings.
+image_alt: >-
+  Iridescent blue marble berries gleam on a rainforest branch with abstract
+  light patterns.
 ---
 
 Nature continuously astonishes us with its extraordinary phenomena, and among these wonders is a vibrant fruit that appears to defy color expectations. The Pollia condensata, also known as the African marble berry, showcases a striking blue appearance. However, this fruit's vivid hue is not due to pigments but is a result of a remarkable optical illusion created by its unique structural properties.
