@@ -1,28 +1,33 @@
 ---
-title: "Chilling Prophecy Video Sparks End Times Speculation"
-description: "A recent video claims that an ancient prophecy signaling the end times has begun, sparking widespread interest, debate, and speculation across online communities."
-type: "standard"
-status: "review"
-publishDate: "2026-02-16T10:13:21+00:00"
-author: "Nico Harper"
+title: Chilling Prophecy Video Sparks End Times Speculation
+description: >-
+  A recent video claims that an ancient prophecy signaling the end times has
+  begun, sparking widespread interest, debate, and speculation across online
+  communities.
+type: standard
+status: review
+publishDate: '2026-02-16T10:13:21+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-  - "Internet Mysteries"
-slug: "chilling-prophecy-video-sparks-end-times-speculation"
+  - Hot Trends
+  - Internet Mysteries
+slug: chilling-prophecy-video-sparks-end-times-speculation
 reading_time: 2
-source_url: "https://gigsfreaks.com/chilling-prophecy-video-sparks-end-times-speculation/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/chilling-prophecy-video-sparks-end-times-speculation/'
+imported_from: wordpress
 wp_original_id: 1021
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/chilling-prophecy-video-sparks-end-times-speculation.webp
 seo:
-  canonical: "https://gigsfreaks.com/chilling-prophecy-video-sparks-end-times-speculation/"
-  og_title: "Chilling Prophecy Video Sparks End Times Speculation - GigsFreaks"
-  og_description: "A recent video claims the prophecy signaling the end times has begun, sparking widespread interest and debate."
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/chilling-prophecy-video-sparks-end-times-speculation/'
+  og_title: Chilling Prophecy Video Sparks End Times Speculation - GigsFreaks
+  og_description: >-
+    A recent video claims the prophecy signaling the end times has begun,
+    sparking widespread interest and debate.
+  twitter_card: summary_large_image
 videos:
-  - id: "795d2cf0"
-    url: "https://www.youtube.com/watch?v=IXAu_O1IxOY"
-    position: "after-paragraph-2"
+  - id: 795d2cf0
+    url: 'https://www.youtube.com/watch?v=IXAu_O1IxOY'
+    position: after-paragraph-2
 quality_score: 55
 score_breakdown:
   seo_quality: 45
@@ -30,7 +35,12 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 60
   keyword_relevance: 75
-quality_note: "Article is significantly too short at 298 words and lacks specific details, but maintains appropriate tone and covers relevant mystery/trending topics."
+quality_note: >-
+  Article is significantly too short at 298 words and lacks specific details,
+  but maintains appropriate tone and covers relevant mystery/trending topics.
+image_alt: >-
+  Silhouetted viewer watching a mysterious video as storm clouds gather over a
+  city skyline
 ---
 
 In a video that has captured the attention of many online communities, a man claims that an ancient prophecy heralding the end times has begun. This video, initially shared in niche groups focused on celestial anomalies, quickly gained traction, drawing interest from researchers and enthusiasts alike.
