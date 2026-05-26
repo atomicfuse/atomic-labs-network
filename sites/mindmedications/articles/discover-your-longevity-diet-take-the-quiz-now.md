@@ -1,25 +1,33 @@
 ---
-title: "Discover Your Longevity Diet: Take the Quiz Now"
-description: "Healthy eating is linked to longevity, improving life quality and duration. A balanced diet with fruits, vegetables, whole grains, lean proteins, and healthy fats supports health, while hydration and mindful eating also play crucial roles in enhancing lifespan and wellbeing."
-type: "standard"
-status: "published"
-publishDate: "2026-01-01T10:27:21+00:00"
-author: "Lena Ashwood"
+title: 'Discover Your Longevity Diet: Take the Quiz Now'
+description: >-
+  Healthy eating is linked to longevity, improving life quality and duration. A
+  balanced diet with fruits, vegetables, whole grains, lean proteins, and
+  healthy fats supports health, while hydration and mindful eating also play
+  crucial roles in enhancing lifespan and wellbeing.
+type: standard
+status: published
+publishDate: '2026-01-01T10:27:21+00:00'
+author: Lena Ashwood
 tags:
-  - "Nutrition"
-  - "Wellness"
-slug: "discover-your-longevity-diet-take-the-quiz-now"
+  - Nutrition
+  - Wellness
+slug: discover-your-longevity-diet-take-the-quiz-now
 reading_time: 3
-source_url: "https://mindmedications.com/discover-your-longevity-diet-take-the-quiz-now/"
-imported_from: "wordpress"
+source_url: 'https://mindmedications.com/discover-your-longevity-diet-take-the-quiz-now/'
+imported_from: wordpress
 wp_original_id: 603
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: /assets/images/discover-your-longevity-diet-take-the-quiz-now.webp
 seo:
-  canonical: "https://mindmedications.com/discover-your-longevity-diet-take-the-quiz-now/"
-  og_title: "Discover Your Longevity Diet: Take the Quiz Now - Mind Medications"
-  og_description: "Healthy eating is linked to longevity, improving life quality and duration. A balanced diet with fruits, vegetables, whole grains, lean proteins, and healthy fats supports health. Hydration and mindful eating also play crucial roles in enhancing lifespan and wellbeing."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindmedications.com/discover-your-longevity-diet-take-the-quiz-now/'
+  og_title: 'Discover Your Longevity Diet: Take the Quiz Now - Mind Medications'
+  og_description: >-
+    Healthy eating is linked to longevity, improving life quality and duration.
+    A balanced diet with fruits, vegetables, whole grains, lean proteins, and
+    healthy fats supports health. Hydration and mindful eating also play crucial
+    roles in enhancing lifespan and wellbeing.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article on nutrition and wellness with good tone and accuracy, but significantly under target word count and title doesn't match the quiz-focused content promised."
+quality_note: >-
+  Well-written article on nutrition and wellness with good tone and accuracy,
+  but significantly under target word count and title doesn't match the
+  quiz-focused content promised.
+image_alt: >-
+  Sunlit table with colorful whole foods arranged like a path toward healthy
+  living
 ---
 
 Healthy eating is profoundly linked to longevity, enhancing both the quality and duration of life. As people seek to improve their wellbeing, understanding the connection between diet and lifespan becomes crucial. This article explores the multifaceted relationship between nutrition and a longer, healthier life.
