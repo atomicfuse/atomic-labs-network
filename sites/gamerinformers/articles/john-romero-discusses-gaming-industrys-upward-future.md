@@ -1,25 +1,36 @@
 ---
-title: "John Romero Discusses Gaming Industry’s Upward Future"
-description: "John Romero reflects on gaming's evolution from pixelated graphics to virtual reality, emphasizing technology's role in growth. Cloud gaming expands accessibility, while emerging markets and indie developers drive innovation. Despite challenges, the future promises creativity and broader engagement."
-type: "standard"
-status: "published"
-publishDate: "2025-07-24T04:23:35+00:00"
-author: "Taylor Winters"
+title: John Romero Discusses Gaming Industry’s Upward Future
+description: >-
+  John Romero reflects on gaming's evolution from pixelated graphics to virtual
+  reality, emphasizing technology's role in growth. Cloud gaming expands
+  accessibility, while emerging markets and indie developers drive innovation.
+  Despite challenges, the future promises creativity and broader engagement.
+type: standard
+status: published
+publishDate: '2025-07-24T04:23:35+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "john-romero-discusses-gaming-industrys-upward-future"
+  - Gaming News
+  - Community
+slug: john-romero-discusses-gaming-industrys-upward-future
 reading_time: 4
-source_url: "https://gamerinformers.com/john-romero-discusses-gaming-industrys-upward-future/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/john-romero-discusses-gaming-industrys-upward-future/
+imported_from: wordpress
 wp_original_id: 34042
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: /assets/images/john-romero-discusses-gaming-industrys-upward-future.webp
 seo:
-  canonical: "https://gamerinformers.com/john-romero-discusses-gaming-industrys-upward-future/"
-  og_title: "John Romero Discusses Gaming Industry's Upward Future - Gamer Informers"
-  og_description: "John Romero reflects on gaming's evolution from pixelated graphics to virtual reality, emphasizing technology's role in growth. Cloud gaming expands accessibility, while emerging markets and indie developers drive innovation. Despite challenges, the future promises creativity and broader engagement."
-  og_image: "https://gamerinformers.com/wp-content/uploads/2025/07/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/john-romero-discusses-gaming-industrys-upward-future/
+  og_title: John Romero Discusses Gaming Industry's Upward Future - Gamer Informers
+  og_description: >-
+    John Romero reflects on gaming's evolution from pixelated graphics to
+    virtual reality, emphasizing technology's role in growth. Cloud gaming
+    expands accessibility, while emerging markets and indie developers drive
+    innovation. Despite challenges, the future promises creativity and broader
+    engagement.
+  og_image: 'https://gamerinformers.com/wp-content/uploads/2025/07/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-structured article with good gaming industry focus and engaging tone, though slightly under target word count and could benefit from more specific SEO optimization."
+quality_note: >-
+  Well-structured article with good gaming industry focus and engaging tone,
+  though slightly under target word count and could benefit from more specific
+  SEO optimization.
+image_alt: >-
+  Developer silhouette faces an evolving arc of pixels, VR worlds, and cloud
+  gaming light
 ---
 
 In the rapidly evolving landscape of gaming, industry veterans like John Romero offer unique insights into its trajectory. With decades of experience, Romero, the co-founder of id Software and a pivotal figure in the development of legendary games like "Doom," reflects on gaming's past, present, and future. His perspective is not only informed by a rich history in game development but also by a keen eye on industry trends and technological advancement.
