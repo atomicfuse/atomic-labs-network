@@ -1,22 +1,29 @@
 ---
-title: "How Surgeons Sustained Life Without Lungs for 48 Hours"
-description: "Surgeons sustained 33-year-old Melissa Benoit without lungs for 48 hours using ECMO and mechanical ventilators, keeping her alive until a successful double lung transplant could be performed. This unprecedented achievement highlights ECMO's potential as a life-saving bridge to transplantation in critical respiratory cases."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T13:58:55"
-author: "Taylor Winters"
+title: How Surgeons Sustained Life Without Lungs for 48 Hours
+description: >-
+  Surgeons sustained 33-year-old Melissa Benoit without lungs for 48 hours using
+  ECMO and mechanical ventilators, keeping her alive until a successful double
+  lung transplant could be performed. This unprecedented achievement highlights
+  ECMO's potential as a life-saving bridge to transplantation in critical
+  respiratory cases.
+type: standard
+status: review
+publishDate: '2026-02-02T13:58:55'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "how-surgeons-sustained-life-without-lungs-for-48-hours"
+  - Space
+  - Humans
+slug: how-surgeons-sustained-life-without-lungs-for-48-hours
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/how-surgeons-sustained-life-without-lungs-for-48-hours/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/how-surgeons-sustained-life-without-lungs-for-48-hours/
+imported_from: wordpress
 wp_original_id: 15063
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/how-surgeons-sustained-life-without-lungs-for-48-hours.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/how-surgeons-sustained-life-without-lungs-for-48-hours/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/how-surgeons-sustained-life-without-lungs-for-48-hours/
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 25
-quality_note: "Well-written medical article with good tone and accuracy, but significantly too short at 454 words and poorly aligned with the site's science focus areas of Space, Nature, Physics, Technology, and Environment."
+quality_note: >-
+  Well-written medical article with good tone and accuracy, but significantly
+  too short at 454 words and poorly aligned with the site's science focus areas
+  of Space, Nature, Physics, Technology, and Environment.
+image_alt: >-
+  ECMO equipment in a softly lit ICU with medical staff silhouettes suggesting a
+  lifesaving transplant bridge.
 ---
 
 In an unprecedented medical achievement, surgeons successfully sustained a patient without lungs for 48 hours, marking a milestone in medical science. This extraordinary feat demonstrates the potential of advanced medical interventions in critical situations, offering hope for future treatments.
