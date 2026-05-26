@@ -1,22 +1,29 @@
 ---
-title: "Boost Immunity Naturally with Ancient Indian Health Practices"
-description: "Ancient health practice Jala Neti, using a neti pot for nasal rinsing, effectively combats colds and allergies. This Ayurvedic technique clears nasal passages, improves breathing, and reduces congestion, offering a natural remedy for respiratory issues and enhancing overall wellness."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T12:54:44"
-author: "Taylor Winters"
+title: Boost Immunity Naturally with Ancient Indian Health Practices
+description: >-
+  Ancient health practice Jala Neti, using a neti pot for nasal rinsing,
+  effectively combats colds and allergies. This Ayurvedic technique clears nasal
+  passages, improves breathing, and reduces congestion, offering a natural
+  remedy for respiratory issues and enhancing overall wellness.
+type: standard
+status: review
+publishDate: '2025-11-17T12:54:44'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "boost-immunity-naturally-with-ancient-indian-health-practices"
+  - Space
+  - Humans
+slug: boost-immunity-naturally-with-ancient-indian-health-practices
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/boost-immunity-naturally-with-ancient-indian-health-practices/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/boost-immunity-naturally-with-ancient-indian-health-practices/
+imported_from: wordpress
 wp_original_id: 15026
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/boost-immunity-naturally-with-ancient-indian-health-practices.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/boost-immunity-naturally-with-ancient-indian-health-practices/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/boost-immunity-naturally-with-ancient-indian-health-practices/
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "While the content is well-written and factually sound, it falls short on SEO optimization and completely misses the site's science focus areas, covering health/wellness instead of Space, Nature, Physics, Technology, or Environment."
+quality_note: >-
+  While the content is well-written and factually sound, it falls short on SEO
+  optimization and completely misses the site's science focus areas, covering
+  health/wellness instead of Space, Nature, Physics, Technology, or Environment.
+image_alt: >-
+  Ceramic neti pot with tulsi leaves in warm morning light, suggesting natural
+  Ayurvedic respiratory wellness.
 ---
 
 Ancient health practices offer fascinating insights into natural remedies that continue to benefit modern wellness. One such practice originating from India is the use of nasal rinsing, which has been shown to effectively combat colds and allergies. This ancient technique, known as Jala Neti, involves the use of a neti pot to cleanse the nasal passages, providing both relief and prevention of respiratory issues.
