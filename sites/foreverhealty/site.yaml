@@ -8,6 +8,7 @@ bundle_id: 6a158d0f16f23264031d8229
 brief:
   audiences:
     - Healthy Living enthusiasts
+    - Health-conscious consumers
   tone: Engaging, informative, conversational
   article_types:
     listicle: 40
@@ -48,6 +49,8 @@ brief:
       - thursday
       - friday
     preferred_time: 10:00
+  audience_type_ids:
+    - 6a0079411104bbff809b80bb
 theme:
   base: modern
   colors:
@@ -86,6 +89,8 @@ theme:
     body: Inter
   logo_height: 52
   logo_height_footer: 82
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
 layout:
   hero:
     enabled: true
