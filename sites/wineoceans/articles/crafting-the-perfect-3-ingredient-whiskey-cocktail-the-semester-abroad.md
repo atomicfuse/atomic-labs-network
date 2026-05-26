@@ -20,7 +20,8 @@ source_url: ''
 source_item_id: >-
   synthetic-crafting-the-perfect-3-ingredient-whiskey-cocktail-the-semester-abroad
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/crafting-the-perfect-3-ingredient-whiskey-cocktail-the-semester-abroad.webp
 reading_time: 3
 quality_score: 48
 score_breakdown:
@@ -32,6 +33,7 @@ score_breakdown:
 quality_note: >-
   Article focuses on whiskey cocktails rather than wine content, poorly matches
   site's wine-focused topics and audience despite decent writing quality.
+image_alt: Minimalist whiskey cocktail with three simple ingredients on a warmly lit bar
 ---
 ## The Rise of Minimalist Cocktail Culture
 
