@@ -1,29 +1,42 @@
 ---
-title: "The Star People: Alleged Extraterrestrial Encounters in 1970s Rural Wyoming"
-description: "A look at the eerie mid-1970s Wyoming accounts in which multiple witnesses claimed to encounter mysterious beings known as The Star People, exploring why shared reports of alleged extraterrestrial contact remain so compelling in mystery and paranormal storytelling."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T13:52:26+00:00"
-author: "Blake Anderson"
+title: 'The Star People: Alleged Extraterrestrial Encounters in 1970s Rural Wyoming'
+description: >-
+  A look at the eerie mid-1970s Wyoming accounts in which multiple witnesses
+  claimed to encounter mysterious beings known as The Star People, exploring why
+  shared reports of alleged extraterrestrial contact remain so compelling in
+  mystery and paranormal storytelling.
+type: standard
+status: published
+publishDate: '2026-05-04T13:52:26+00:00'
+author: Blake Anderson
 tags:
-  - "Conspiracies"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "the-star-people-alleged-extraterrestrial-encounters-in-1970s-rural-wyoming"
+  - Conspiracies
+  - Mysteries
+  - Unsolved Cases
+slug: the-star-people-alleged-extraterrestrial-encounters-in-1970s-rural-wyoming
 reading_time: 5
-source_url: "https://stroylab.com/the-star-people-alleged-extraterrestrial-encounters-in-1970s-rural-wyoming/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/the-star-people-alleged-extraterrestrial-encounters-in-1970s-rural-wyoming/
+imported_from: wordpress
 wp_original_id: 806
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/the-star-people-alleged-extraterrestrial-encounters-in-1970s-rural-wyoming.webp
 seo:
-  canonical: "https://stroylab.com/the-star-people-alleged-extraterrestrial-encounters-in-1970s-rural-wyoming/"
-  og_title: "The Star People: Alleged Extraterrestrial Encounters in 1970s Rural Wyoming - StroyLab"
-  og_description: "A look at the eerie mid-1970s Wyoming accounts in which multiple witnesses claimed to encounter mysterious beings known as The Star People. This article explores why shared reports of alleged extraterrestrial contact remain so compelling in mystery and paranormal storytelling."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/the-star-people-alleged-extraterrestrial-encounters-in-1970s-rural-wyoming/
+  og_title: >-
+    The Star People: Alleged Extraterrestrial Encounters in 1970s Rural Wyoming
+    - StroyLab
+  og_description: >-
+    A look at the eerie mid-1970s Wyoming accounts in which multiple witnesses
+    claimed to encounter mysterious beings known as The Star People. This
+    article explores why shared reports of alleged extraterrestrial contact
+    remain so compelling in mystery and paranormal storytelling.
+  twitter_card: summary_large_image
 videos:
-  - id: "56444942"
-    url: "https://www.youtube.com/watch?v=6TjH_IevI4I"
-    position: "after-paragraph-2"
+  - id: '56444942'
+    url: 'https://www.youtube.com/watch?v=6TjH_IevI4I'
+    position: after-paragraph-2
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -31,7 +44,11 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong mystery content with excellent keyword alignment and appropriate tone, though the title could be more compelling and the article lacks specific heading structure for better SEO."
+quality_note: >-
+  Strong mystery content with excellent keyword alignment and appropriate tone,
+  though the title could be more compelling and the article lacks specific
+  heading structure for better SEO.
+image_alt: Silhouetted witnesses watch strange lights over a lonely Wyoming road at dusk.
 ---
 
 Alleged encounters with extraterrestrial beings have been reported for many years, often appearing as brief, unsettling moments witnessed by a single person. These accounts usually describe a strange sighting, an unexplained presence, or a phenomenon that vanishes almost as quickly as it appears. Because many such reports rely on one observer and one fleeting experience, they can be difficult to examine beyond the witness account itself.
