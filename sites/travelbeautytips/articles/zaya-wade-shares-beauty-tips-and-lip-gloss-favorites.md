@@ -1,25 +1,35 @@
 ---
-title: "Zaya Wade Shares Beauty Tips and Lip Gloss Favorites"
-description: "Zaya Wade emerges as a vibrant personality in the beauty industry, partnering with MAC Cosmetics to launch a new Lipglass product. Her collaboration emphasizes representation and inclusivity, challenging traditional beauty standards and advocating for a more diverse and empowered industry."
-type: "standard"
-status: "review"
-publishDate: "2025-05-08T04:33:40+00:00"
-author: "Taylor Winters"
+title: Zaya Wade Shares Beauty Tips and Lip Gloss Favorites
+description: >-
+  Zaya Wade emerges as a vibrant personality in the beauty industry, partnering
+  with MAC Cosmetics to launch a new Lipglass product. Her collaboration
+  emphasizes representation and inclusivity, challenging traditional beauty
+  standards and advocating for a more diverse and empowered industry.
+type: standard
+status: review
+publishDate: '2025-05-08T04:33:40+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty Tips"
-  - "Beauty"
-slug: "zaya-wade-shares-beauty-tips-and-lip-gloss-favorites"
+  - Beauty Tips
+  - Beauty
+slug: zaya-wade-shares-beauty-tips-and-lip-gloss-favorites
 reading_time: 3
-source_url: "https://travelbeautytips.com/zaya-wade-shares-beauty-tips-and-lip-gloss-favorites/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/zaya-wade-shares-beauty-tips-and-lip-gloss-favorites/
+imported_from: wordpress
 wp_original_id: 35891
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/zaya-wade-shares-beauty-tips-and-lip-gloss-favorites.webp
 seo:
-  canonical: "https://travelbeautytips.com/zaya-wade-shares-beauty-tips-and-lip-gloss-favorites/"
-  og_title: "Zaya Wade Shares Beauty Tips and Lip Gloss Favorites - Travel Beauty Tips"
-  og_description: "Zaya Wade emerges as a vibrant personality in the beauty industry, partnering with MAC Cosmetics to launch a new product. Her collaboration emphasizes representation and inclusivity, challenging traditional beauty standards and advocating for a more diverse and empowered industry."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/zaya-wade-shares-beauty-tips-and-lip-gloss-favorites/
+  og_title: Zaya Wade Shares Beauty Tips and Lip Gloss Favorites - Travel Beauty Tips
+  og_description: >-
+    Zaya Wade emerges as a vibrant personality in the beauty industry,
+    partnering with MAC Cosmetics to launch a new product. Her collaboration
+    emphasizes representation and inclusivity, challenging traditional beauty
+    standards and advocating for a more diverse and empowered industry.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article covers beauty tips and industry insights well with good tone, but falls short on word count and could benefit from stronger SEO optimization including meta description length and more specific beauty tips."
+quality_note: >-
+  The article covers beauty tips and industry insights well with good tone, but
+  falls short on word count and could benefit from stronger SEO optimization
+  including meta description length and more specific beauty tips.
+image_alt: >-
+  Glossy lip products and diverse skin-tone swatches arranged in a vibrant
+  editorial beauty still life.
 ---
 
 In the ever-evolving world of cosmetics, new faces and voices continuously emerge, capturing the spirit of innovation and inclusivity. One such vibrant personality stepping into the limelight is Zaya Wade. Recently, Zaya has become a prominent figure in the beauty industry, partnering with MAC Cosmetics to launch a new product that promises to make waves. As a young trailblazer, Zaya is using her platform to redefine beauty standards and inspire a new generation.
