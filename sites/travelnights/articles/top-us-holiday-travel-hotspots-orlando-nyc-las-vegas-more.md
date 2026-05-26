@@ -1,24 +1,36 @@
 ---
-title: "Top US Holiday Travel Hotspots: Orlando, NYC, Las Vegas, More"
-description: "Orlando, a top holiday destination, offers enchanting theme parks and vibrant nightlife, promising an unforgettable Christmas and New Year experience alongside other top US cities like New York City, Las Vegas, Miami, Tampa, and Honolulu."
-type: "standard"
-status: "published"
-publishDate: "2025-12-15T11:29:04+00:00"
-author: "Malcolm Anderson"
+title: 'Top US Holiday Travel Hotspots: Orlando, NYC, Las Vegas, More'
+description: >-
+  Orlando, a top holiday destination, offers enchanting theme parks and vibrant
+  nightlife, promising an unforgettable Christmas and New Year experience
+  alongside other top US cities like New York City, Las Vegas, Miami, Tampa, and
+  Honolulu.
+type: standard
+status: published
+publishDate: '2025-12-15T11:29:04+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "top-us-holiday-travel-hotspots-orlando-nyc-las-vegas-more"
+  - Destinations
+slug: top-us-holiday-travel-hotspots-orlando-nyc-las-vegas-more
 reading_time: 3
-source_url: "https://travelnights.com/top-us-holiday-travel-hotspots-orlando-nyc-las-vegas-more/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/top-us-holiday-travel-hotspots-orlando-nyc-las-vegas-more/
+imported_from: wordpress
 wp_original_id: 36656
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-us-holiday-travel-hotspots-orlando-nyc-las-vegas-more.webp
 seo:
-  canonical: "https://travelnights.com/top-us-holiday-travel-hotspots-orlando-nyc-las-vegas-more/"
-  og_title: "Top US Holiday Travel Hotspots: Orlando, NYC, Las Vegas, More - Travel Nights"
-  og_description: "Orlando, a top holiday destination, offers enchanting theme parks and vibrant nightlife, promising an unforgettable Christmas and New Year experience. Visitors can enjoy festive events, decorations, and pleasant weather, making it ideal for both entertainment and outdoor activities."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-10.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/top-us-holiday-travel-hotspots-orlando-nyc-las-vegas-more/
+  og_title: >-
+    Top US Holiday Travel Hotspots: Orlando, NYC, Las Vegas, More - Travel
+    Nights
+  og_description: >-
+    Orlando, a top holiday destination, offers enchanting theme parks and
+    vibrant nightlife, promising an unforgettable Christmas and New Year
+    experience. Visitors can enjoy festive events, decorations, and pleasant
+    weather, making it ideal for both entertainment and outdoor activities.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-10.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel guide with engaging tone and accurate information, but significantly under target word count at 486 words when 800-1200 is preferred."
+quality_note: >-
+  Well-written travel guide with engaging tone and accurate information, but
+  significantly under target word count at 486 words when 800-1200 is preferred.
+image_alt: >-
+  Festive travelers in an airport lounge overlooking stylized US holiday
+  destination skylines.
 ---
 
 Orlando, often renowned for its enchanting theme parks and vibrant nightlife, has secured its place among America's top holiday travel destinations. Alongside bustling cities like New York City, Las Vegas, Miami, Tampa, and Honolulu, Orlando offers a unique blend of attractions that promise an unforgettable Christmas and New Year experience. Whether you're drawn to the magic of theme parks or the allure of sunny beaches, these cities provide the perfect backdrop for holiday celebrations.
