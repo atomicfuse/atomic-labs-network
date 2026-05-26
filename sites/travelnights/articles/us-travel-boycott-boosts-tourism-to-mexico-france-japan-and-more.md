@@ -1,23 +1,36 @@
 ---
-title: "US Travel Boycott Boosts Tourism to Mexico, France, Japan, and More"
-description: "U.S. travelers increasingly favor international destinations such as Mexico, France, Japan, Spain, and the UK, driven by a desire for diverse cultural experiences. Canada plans to expand its travel options by 2025, enhancing its global tourism appeal."
-type: "standard"
-status: "review"
-publishDate: "2025-12-08T12:59:54+00:00"
-author: "Malcolm Anderson"
+title: 'US Travel Boycott Boosts Tourism to Mexico, France, Japan, and More'
+description: >-
+  U.S. travelers increasingly favor international destinations such as Mexico,
+  France, Japan, Spain, and the UK, driven by a desire for diverse cultural
+  experiences. Canada plans to expand its travel options by 2025, enhancing its
+  global tourism appeal.
+type: standard
+status: review
+publishDate: '2025-12-08T12:59:54+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "us-travel-boycott-boosts-tourism-to-mexico-france-japan-and-more"
+  - Destinations
+slug: us-travel-boycott-boosts-tourism-to-mexico-france-japan-and-more
 reading_time: 3
-source_url: "https://travelnights.com/us-travel-boycott-boosts-tourism-to-mexico-france-japan-and-more/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/us-travel-boycott-boosts-tourism-to-mexico-france-japan-and-more/
+imported_from: wordpress
 wp_original_id: 36637
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/us-travel-boycott-boosts-tourism-to-mexico-france-japan-and-more.webp
 seo:
-  canonical: "https://travelnights.com/us-travel-boycott-boosts-tourism-to-mexico-france-japan-and-more/"
-  og_title: "US Travel Boycott Boosts Tourism to Mexico, France, Japan, and More - Travel Nights"
-  og_description: "U.S. travelers increasingly favor international destinations such as Mexico, France, Japan, Spain, and the UK, driven by a desire for diverse cultural experiences. Canada plans to expand its travel options by 2025, enhancing its global tourism appeal."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/us-travel-boycott-boosts-tourism-to-mexico-france-japan-and-more/
+  og_title: >-
+    US Travel Boycott Boosts Tourism to Mexico, France, Japan, and More - Travel
+    Nights
+  og_description: >-
+    U.S. travelers increasingly favor international destinations such as Mexico,
+    France, Japan, Spain, and the UK, driven by a desire for diverse cultural
+    experiences. Canada plans to expand its travel options by 2025, enhancing
+    its global tourism appeal.
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -25,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Article covers relevant destinations with engaging tone but lacks SEO optimization, falls short on length, and makes unsupported claims about travel boycotts and specific tourism data."
+quality_note: >-
+  Article covers relevant destinations with engaging tone but lacks SEO
+  optimization, falls short on length, and makes unsupported claims about travel
+  boycotts and specific tourism data.
+image_alt: >-
+  Travelers in an airport look toward layered reflections of global
+  destinations.
 ---
 
 As global travel patterns evolve, recent trends indicate an increasing preference for international destinations among U.S. travelers. Countries such as Mexico, France, Japan, Spain, and the UK have seen a notable surge in tourism, driven by shifting travel dynamics and a desire for diverse cultural experiences. Meanwhile, Canada is also setting its sights on new overseas horizons, with plans to expand its travel options by 2025.
