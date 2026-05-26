@@ -1,25 +1,40 @@
 ---
-title: "AR Rahman, J-Hope’s Yaara Collab Trends After Fashion Show"
-description: "Renowned artists AR Rahman and Pharrell Williams electrified Paris Fashion Week with a dynamic performance during the Louis Vuitton showcase, blending cultural and musical elements to captivate audiences and elevate the fashion event's allure."
-type: "standard"
-status: "published"
-publishDate: "2025-06-26T04:49:27+00:00"
-author: "Taylor Winters"
+title: 'AR Rahman, J-Hope’s Yaara Collab Trends After Fashion Show'
+description: >-
+  Renowned artists AR Rahman and Pharrell Williams electrified Paris Fashion
+  Week with a dynamic performance during the Louis Vuitton showcase, blending
+  cultural and musical elements to captivate audiences and elevate the fashion
+  event's allure.
+type: standard
+status: published
+publishDate: '2025-06-26T04:49:27+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-  - "Fashion"
-slug: "ar-rahman-j-hopes-yaara-collab-trends-after-fashion-show"
+  - Culture
+  - Fashion
+slug: ar-rahman-j-hopes-yaara-collab-trends-after-fashion-show
 reading_time: 3
-source_url: "https://fashionnewsbee.com/ar-rahman-j-hopes-yaara-collab-trends-after-fashion-show/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/ar-rahman-j-hopes-yaara-collab-trends-after-fashion-show/
+imported_from: wordpress
 wp_original_id: 31532
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/ar-rahman-j-hopes-yaara-collab-trends-after-fashion-show.webp
 seo:
-  canonical: "https://fashionnewsbee.com/ar-rahman-j-hopes-yaara-collab-trends-after-fashion-show/"
-  og_title: "AR Rahman, J-Hope's Yaara Collab Trends After Fashion Show - Fashion News Bee"
-  og_description: "Renowned artists AR Rahman and Pharrell Williams electrified Paris Fashion Week with a dynamic performance during the Louis Vuitton showcase, blending cultural and musical elements to captivate audiences and elevate the fashion event's allure."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/06/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/ar-rahman-j-hopes-yaara-collab-trends-after-fashion-show/
+  og_title: >-
+    AR Rahman, J-Hope's Yaara Collab Trends After Fashion Show - Fashion News
+    Bee
+  og_description: >-
+    Renowned artists AR Rahman and Pharrell Williams electrified Paris Fashion
+    Week with a dynamic performance during the Louis Vuitton showcase, blending
+    cultural and musical elements to captivate audiences and elevate the fashion
+    event's allure.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/06/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Stylish Paris runway concert with silhouetted performers under dramatic blue
+  and gold lights
 ---
 
 In a spectacular convergence of music and fashion, renowned artists AR Rahman and Pharrell Williams recently partnered to create a memorable performance at Paris Fashion Week. This remarkable event took place during the highly anticipated Louis Vuitton showcase, where the duo's collaboration added an electrifying dimension to the already vibrant atmosphere.
