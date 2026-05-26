@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-beginners-guide-to-wine-making-an-introductory-course
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/beginners-guide-to-wine-making-an-introductory-course.webp
 reading_time: 4
 quality_score: 76
 score_breakdown:
@@ -32,6 +32,9 @@ quality_note: >-
   Good beginner-focused content with strong keyword relevance, but falls short
   on length and could benefit from more specific details and improved SEO
   optimization.
+image_alt: >-
+  Beginner home winemaking tools and grapes arranged on a warm rustic kitchen
+  table
 ---
 ## Getting Started with Home Wine Making
 
