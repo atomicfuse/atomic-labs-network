@@ -1,24 +1,39 @@
 ---
-title: "New tool improves TB isolation decisions and streamlines workflows"
-description: "Researchers at Massachusetts General Hospital developed and validated a TB risk scoring tool called \"TB or Not TB,\" integrated into the electronic health record, to help clinicians safely and efficiently decide when to discontinue isolation precautions for patients with suspected tuberculosis."
-type: "standard"
-status: "published"
-publishDate: "2025-02-03T06:07:42+00:00"
-author: "admin"
+title: New tool improves TB isolation decisions and streamlines workflows
+description: >-
+  Researchers at Massachusetts General Hospital developed and validated a TB
+  risk scoring tool called "TB or Not TB," integrated into the electronic health
+  record, to help clinicians safely and efficiently decide when to discontinue
+  isolation precautions for patients with suspected tuberculosis.
+type: standard
+status: published
+publishDate: '2025-02-03T06:07:42+00:00'
+author: admin
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "new-tool-improves-tb-isolation-decisions-and-streamlines-workflows"
+  - Research
+  - Clinical Trials &amp; Research
+slug: new-tool-improves-tb-isolation-decisions-and-streamlines-workflows
 reading_time: 3
-source_url: "https://medicalnewscorner.com/new-tool-improves-tb-isolation-decisions-and-streamlines-workflows/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/new-tool-improves-tb-isolation-decisions-and-streamlines-workflows/
+imported_from: wordpress
 wp_original_id: 24454
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/new-tool-improves-tb-isolation-decisions-and-streamlines-workflows.webp
 seo:
-  canonical: "https://medicalnewscorner.com/new-tool-improves-tb-isolation-decisions-and-streamlines-workflows/"
-  og_title: "New tool improves TB isolation decisions and streamlines workflows - Medical News Corner"
-  og_description: "Patients with suspected tuberculosis (TB) require special precautions in healthcare facilities, and cases of TB have been rising in the US over the past several years. These precautions include isolating persons with suspected TB in patient rooms with specialized air handling known as airborne infection isolation rooms. To improve our ability to assess patients for [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/new-tool-improves-tb-isolation-decisions-and-streamlines-workflows/
+  og_title: >-
+    New tool improves TB isolation decisions and streamlines workflows - Medical
+    News Corner
+  og_description: >-
+    Patients with suspected tuberculosis (TB) require special precautions in
+    healthcare facilities, and cases of TB have been rising in the US over the
+    past several years. These precautions include isolating persons with
+    suspected TB in patient rooms with specialized air handling known as
+    airborne infection isolation rooms. To improve our ability to assess
+    patients for [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,10 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written research article with good tone and accuracy, but falls short on length and could benefit from a more compelling title for SEO."
+quality_note: >-
+  Well-written research article with good tone and accuracy, but falls short on
+  length and could benefit from a more compelling title for SEO.
+image_alt: Clinician reviews a hospital risk dashboard near a softly lit isolation room.
 ---
 
 Patients with suspected tuberculosis (TB) require special precautions in healthcare facilities, and cases of TB have been rising in the US over the past several years. These precautions include isolating persons with suspected TB in patient rooms with specialized air handling known as airborne infection isolation rooms.
