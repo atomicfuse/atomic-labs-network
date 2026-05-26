@@ -1,29 +1,34 @@
 ---
-title: "Embrace Wellness: Easy Recipes and Self-Care Tips"
-description: "Discover simple healthy recipes and self-care tips for a week of wellness, including a Valentine's surprise from CVS."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T11:22:54+00:00"
-author: "Taylor Winters"
+title: 'Embrace Wellness: Easy Recipes and Self-Care Tips'
+description: >-
+  Discover simple healthy recipes and self-care tips for a week of wellness,
+  including a Valentine's surprise from CVS.
+type: standard
+status: review
+publishDate: '2026-02-02T11:22:54+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "embrace-wellness-easy-recipes-and-self-care-tips"
+  - Healthy Recipes
+  - Special Diets
+  - Weight &amp; Wellness
+slug: embrace-wellness-easy-recipes-and-self-care-tips
 reading_time: 2
-source_url: "https://eznutritiontips.com/embrace-wellness-easy-recipes-and-self-care-tips/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/embrace-wellness-easy-recipes-and-self-care-tips/'
+imported_from: wordpress
 wp_original_id: 18986
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/embrace-wellness-easy-recipes-and-self-care-tips.webp
 seo:
-  canonical: "https://eznutritiontips.com/embrace-wellness-easy-recipes-and-self-care-tips/"
-  og_title: "Embrace Wellness: Easy Recipes and Self-Care Tips - Easy Nutrition Tips"
-  og_description: "Discover simple healthy recipes and self-care tips for a week of wellness, including a Valentine's surprise from CVS."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/embrace-wellness-easy-recipes-and-self-care-tips/
+  og_title: 'Embrace Wellness: Easy Recipes and Self-Care Tips - Easy Nutrition Tips'
+  og_description: >-
+    Discover simple healthy recipes and self-care tips for a week of wellness,
+    including a Valentine's surprise from CVS.
+  twitter_card: summary_large_image
 videos:
-  - id: "4e61e9e7"
-    url: "https://www.youtube.com/watch?v=4ppbmepK5LI"
-    position: "after-paragraph-2"
+  - id: 4e61e9e7
+    url: 'https://www.youtube.com/watch?v=4ppbmepK5LI'
+    position: after-paragraph-2
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -31,7 +36,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Article has good tone and relevant topics but is severely under the target word count at only 373 words, significantly impacting overall quality."
+quality_note: >-
+  Article has good tone and relevant topics but is severely under the target
+  word count at only 373 words, significantly impacting overall quality.
+image_alt: >-
+  Sunlit wellness table with healthy food, herbal tea, flowers, and heart-shaped
+  strawberries.
 ---
 
 Valentine's Day is a perfect time to focus on wellness and add happiness to your daily routine. This week, we explore some simple self-care practices and healthy recipes that can easily fit into your lifestyle. Whether you're looking for a delicious pistachio latte, hearty turkey meatballs, or a quick trip to CVS for a Valentine's surprise, these tips and recipes are sure to bring joy and well-being to your days.
