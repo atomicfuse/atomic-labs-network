@@ -1,21 +1,29 @@
 ---
-title: "This New Quantum Tech Could Revolutionize How We Navigate The World"
-description: "Quantum navigation technology is emerging as a revolutionary alternative to GPS, using ultra-sensitive quantum sensors to detect magnetic fields, gravity, and movement with unprecedented precision. This article explores how it works, why it matters, and the challenges that remain before it can be widely adopted."
-type: "standard"
-status: "published"
-publishDate: "2025-03-01T10:00:00"
-author: "admin"
+title: This New Quantum Tech Could Revolutionize How We Navigate The World
+description: >-
+  Quantum navigation technology is emerging as a revolutionary alternative to
+  GPS, using ultra-sensitive quantum sensors to detect magnetic fields, gravity,
+  and movement with unprecedented precision. This article explores how it works,
+  why it matters, and the challenges that remain before it can be widely
+  adopted.
+type: standard
+status: published
+publishDate: '2025-03-01T10:00:00'
+author: admin
 tags:
-  - "Physics"
-slug: "this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world"
+  - Physics
+slug: this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world
 reading_time: 5
-source_url: "https://www.sciencenewslab.com/this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world/
+imported_from: wordpress
 wp_original_id: 14895
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/this-new-quantum-tech-could-revolutionize-how-we-navigate-the-world/
+  twitter_card: summary_large_image
 quality_score: 88
 score_breakdown:
   seo_quality: 78
@@ -23,7 +31,12 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 88
   keyword_relevance: 85
-quality_note: "Strong article with engaging tone and good length, though the title could be more SEO-optimized and some technical claims need verification."
+quality_note: >-
+  Strong article with engaging tone and good length, though the title could be
+  more SEO-optimized and some technical claims need verification.
+image_alt: >-
+  Futuristic vehicle navigating through glowing quantum field lines in a dark
+  blue environment
 ---
 
 Quantum technology is no longer confined to the lab – it's making its way into our everyday lives. Now, it's about to transform something even more fundamental: how we navigate the world.
