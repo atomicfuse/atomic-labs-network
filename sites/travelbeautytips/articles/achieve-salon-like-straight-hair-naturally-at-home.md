@@ -1,29 +1,37 @@
 ---
-title: "Achieve Salon-Like Straight Hair Naturally at Home"
-description: "Discover how to get smooth, straight hair with a 100% natural DIY hair mask using simple kitchen ingredients, without heat styling tools or harsh chemicals."
-type: "standard"
-status: "review"
-publishDate: "2025-05-12T05:33:20+00:00"
-author: "Taylor Winters"
+title: Achieve Salon-Like Straight Hair Naturally at Home
+description: >-
+  Discover how to get smooth, straight hair with a 100% natural DIY hair mask
+  using simple kitchen ingredients, without heat styling tools or harsh
+  chemicals.
+type: standard
+status: review
+publishDate: '2025-05-12T05:33:20+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Hair"
-slug: "achieve-salon-like-straight-hair-naturally-at-home"
+  - Travel Tips
+  - Beauty
+  - Hair
+slug: achieve-salon-like-straight-hair-naturally-at-home
 reading_time: 2
-source_url: "https://travelbeautytips.com/achieve-salon-like-straight-hair-naturally-at-home/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/achieve-salon-like-straight-hair-naturally-at-home/
+imported_from: wordpress
 wp_original_id: 35893
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/achieve-salon-like-straight-hair-naturally-at-home.webp
 seo:
-  canonical: "https://travelbeautytips.com/achieve-salon-like-straight-hair-naturally-at-home/"
-  og_title: "Achieve Salon-Like Straight Hair Naturally at Home - Travel Beauty Tips"
-  og_description: "Discover how to get smooth, straight hair with a 100% natural DIY hair mask. Learn step-by-step instructions for long-lasting results without heat or chemicals."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/achieve-salon-like-straight-hair-naturally-at-home/
+  og_title: Achieve Salon-Like Straight Hair Naturally at Home - Travel Beauty Tips
+  og_description: >-
+    Discover how to get smooth, straight hair with a 100% natural DIY hair mask.
+    Learn step-by-step instructions for long-lasting results without heat or
+    chemicals.
+  twitter_card: summary_large_image
 videos:
-  - id: "f0025deb"
-    url: "https://www.youtube.com/watch?v=Lk67AE9KcNw"
-    position: "after-paragraph-2"
+  - id: f0025deb
+    url: 'https://www.youtube.com/watch?v=Lk67AE9KcNw'
+    position: after-paragraph-2
 quality_score: 55
 score_breakdown:
   seo_quality: 65
@@ -31,7 +39,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 40
   keyword_relevance: 60
-quality_note: "The article has an engaging tone and good structure but is severely lacking in content length and fails to provide the actual recipe/ingredients promised, making it incomplete and potentially misleading."
+quality_note: >-
+  The article has an engaging tone and good structure but is severely lacking in
+  content length and fails to provide the actual recipe/ingredients promised,
+  making it incomplete and potentially misleading.
+image_alt: >-
+  Woman with smooth straight hair beside natural hair mask ingredients in a
+  bright home vanity setting
 ---
 
 Are you tired of dealing with frizzy and unmanageable hair? If you dream of achieving salon-like straight hair without the hefty price tag or exposure to harsh chemicals, you're in the right place. In this guide, we unveil a 100% natural hair straightening mask that you can easily make at home using simple kitchen ingredients. This mask not only promises a smooth and shiny finish but also eliminates the need for heat styling tools.
