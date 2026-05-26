@@ -1,27 +1,33 @@
 ---
-title: "Exploring 50 Unsolved Mysteries That Defy Explanation"
-description: "Dive into an intriguing compilation of 50 unsolved mysteries that continue to baffle experts and enthusiasts alike, spanning historical enigmas, scientific puzzles, and unexplained phenomena."
-type: "standard"
-status: "review"
-publishDate: "2025-11-06T10:19:29+00:00"
-author: "Nico Harper"
+title: Exploring 50 Unsolved Mysteries That Defy Explanation
+description: >-
+  Dive into an intriguing compilation of 50 unsolved mysteries that continue to
+  baffle experts and enthusiasts alike, spanning historical enigmas, scientific
+  puzzles, and unexplained phenomena.
+type: standard
+status: review
+publishDate: '2025-11-06T10:19:29+00:00'
+author: Nico Harper
 tags:
-  - "Internet Mysteries"
-slug: "exploring-50-unsolved-mysteries-that-defy-explanation"
+  - Internet Mysteries
+slug: exploring-50-unsolved-mysteries-that-defy-explanation
 reading_time: 2
-source_url: "https://gigsfreaks.com/exploring-50-unsolved-mysteries-that-defy-explanation/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/exploring-50-unsolved-mysteries-that-defy-explanation/'
+imported_from: wordpress
 wp_original_id: 970
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/exploring-50-unsolved-mysteries-that-defy-explanation.webp
 seo:
-  canonical: "https://gigsfreaks.com/exploring-50-unsolved-mysteries-that-defy-explanation/"
-  og_title: "Exploring 50 Unsolved Mysteries That Defy Explanation - GigsFreaks"
-  og_description: "Dive into an intriguing compilation of 50 unsolved mysteries that continue to baffle experts and enthusiasts alike."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/exploring-50-unsolved-mysteries-that-defy-explanation/
+  og_title: Exploring 50 Unsolved Mysteries That Defy Explanation - GigsFreaks
+  og_description: >-
+    Dive into an intriguing compilation of 50 unsolved mysteries that continue
+    to baffle experts and enthusiasts alike.
+  twitter_card: summary_large_image
 videos:
-  - id: "8c6fa17d"
-    url: "https://www.youtube.com/watch?v=bFJMBn6lyPY"
-    position: "after-paragraph-2"
+  - id: 8c6fa17d
+    url: 'https://www.youtube.com/watch?v=bFJMBn6lyPY'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -29,7 +35,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong topic relevance and tone but severely under-length at only 305 words versus the 800-1200 target range."
+quality_note: >-
+  Strong topic relevance and tone but severely under-length at only 305 words
+  versus the 800-1200 target range.
+image_alt: >-
+  Mysterious archive room with maps, artifacts, and glowing clues leading into a
+  misty doorway
 ---
 
 Mysteries have always captivated the human imagination, from thrilling novels to suspenseful movies. Yet, the most compelling mysteries are those that happen in real life, often eluding explanation despite thorough investigation. This article delves into 50 such unsolved mysteries that continue to baffle experts and enthusiasts alike.
