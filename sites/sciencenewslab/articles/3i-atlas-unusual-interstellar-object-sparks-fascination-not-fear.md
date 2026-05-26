@@ -1,21 +1,28 @@
 ---
-title: "3I/ATLAS: Unusual Interstellar Object Sparks Fascination, Not Fear"
-description: "In recent observations, the interstellar object 3I/ATLAS has intrigued scientists with its unique characteristics and potential insights into other star systems. Its study is crucial for understanding celestial diversity and the evolution of planetary systems."
-type: "standard"
-status: "review"
-publishDate: "2025-11-13T13:13:30"
-author: "Taylor Winters"
+title: '3I/ATLAS: Unusual Interstellar Object Sparks Fascination, Not Fear'
+description: >-
+  In recent observations, the interstellar object 3I/ATLAS has intrigued
+  scientists with its unique characteristics and potential insights into other
+  star systems. Its study is crucial for understanding celestial diversity and
+  the evolution of planetary systems.
+type: standard
+status: review
+publishDate: '2025-11-13T13:13:30'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "3i-atlas-unusual-interstellar-object-sparks-fascination-not-fear"
+  - Space
+slug: 3i-atlas-unusual-interstellar-object-sparks-fascination-not-fear
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/3i-atlas-unusual-interstellar-object-sparks-fascination-not-fear/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/3i-atlas-unusual-interstellar-object-sparks-fascination-not-fear/
+imported_from: wordpress
 wp_original_id: 15024
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/3i-atlas-unusual-interstellar-object-sparks-fascination-not-fear.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/3i-atlas-unusual-interstellar-object-sparks-fascination-not-fear/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/3i-atlas-unusual-interstellar-object-sparks-fascination-not-fear/
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -23,7 +30,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "While the article demonstrates good tone and strong space keyword relevance, it's significantly hindered by its short length and apparent factual inaccuracies regarding the fictional '3I/ATLAS' object."
+quality_note: >-
+  While the article demonstrates good tone and strong space keyword relevance,
+  it's significantly hindered by its short length and apparent factual
+  inaccuracies regarding the fictional '3I/ATLAS' object.
+image_alt: >-
+  Mysterious interstellar object crossing a star field above a silhouetted
+  observatory.
 ---
 
 In recent astronomical observations, a peculiar object identified as 3I/ATLAS has sparked the curiosity of scientists and space enthusiasts alike. While some might speculate about extraterrestrial origins, this interstellar visitor is more intriguing for its natural rarity and the insights it could provide into the cosmos.
