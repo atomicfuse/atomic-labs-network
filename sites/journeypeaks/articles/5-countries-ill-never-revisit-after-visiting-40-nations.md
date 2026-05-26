@@ -1,26 +1,37 @@
 ---
-title: "5 Countries I’ll Never Revisit After Visiting 40+ Nations"
-description: "The article explores why some travelers choose not to revisit certain destinations after extensive global travel, highlighting the challenges in India, Morocco, Egypt, Vietnam, and Jamaica that may influence these decisions."
-type: "standard"
-status: "published"
-publishDate: "2026-01-01T09:53:21+00:00"
-author: "Taylor Winters"
+title: 5 Countries I’ll Never Revisit After Visiting 40+ Nations
+description: >-
+  The article explores why some travelers choose not to revisit certain
+  destinations after extensive global travel, highlighting the challenges in
+  India, Morocco, Egypt, Vietnam, and Jamaica that may influence these
+  decisions.
+type: standard
+status: published
+publishDate: '2026-01-01T09:53:21+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "5-countries-ill-never-revisit-after-visiting-40-nations"
+  - Destinations
+  - Tips
+  - Travel
+slug: 5-countries-ill-never-revisit-after-visiting-40-nations
 reading_time: 3
-source_url: "https://journeypeaks.com/5-countries-ill-never-revisit-after-visiting-40-nations/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/5-countries-ill-never-revisit-after-visiting-40-nations/
+imported_from: wordpress
 wp_original_id: 38777
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/5-countries-ill-never-revisit-after-visiting-40-nations.webp
 seo:
-  canonical: "https://journeypeaks.com/5-countries-ill-never-revisit-after-visiting-40-nations/"
-  og_title: "5 Countries I'll Never Revisit After Visiting 40+ Nations - Journey Peaks"
-  og_description: "The article explores why some travelers choose not to revisit certain destinations, highlighting the challenges and personal preferences that influence these decisions. It discusses experiences in India, Morocco, Egypt, Vietnam, and Jamaica, emphasizing the importance of aligning travel choices with personal values."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/5-countries-ill-never-revisit-after-visiting-40-nations/
+  og_title: 5 Countries I'll Never Revisit After Visiting 40+ Nations - Journey Peaks
+  og_description: >-
+    The article explores why some travelers choose not to revisit certain
+    destinations, highlighting the challenges and personal preferences that
+    influence these decisions. It discusses experiences in India, Morocco,
+    Egypt, Vietnam, and Jamaica, emphasizing the importance of aligning travel
+    choices with personal values.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +39,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel content with good tone and keyword relevance, but significantly below target word count at 557 words instead of 800-1200."
+quality_note: >-
+  Well-written travel content with good tone and keyword relevance, but
+  significantly below target word count at 557 words instead of 800-1200.
+image_alt: >-
+  Contemplative traveler pauses with a passport and map in a quiet airport
+  corridor at dawn.
 ---
 
 Travel offers incredible experiences and memories, yet not every destination leaves a lasting positive impression. Even seasoned travelers with extensive experience across the globe find some places less appealing than others. While personal preferences and experiences vary, certain destinations consistently make the list of places that some travelers choose not to revisit.
