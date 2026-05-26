@@ -1,26 +1,36 @@
 ---
-title: "Top Nutrition Tip from Mia Syn for Staying Healthy"
-description: "Maintaining a healthy lifestyle starts with simple changes in daily habits. Nutrition plays a crucial role, impacting well-being by ensuring essential nutrients through balanced meals with carbohydrates, proteins, and healthy fats to significantly improve physical and mental health."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T10:39:24+00:00"
-author: "Lena Ashwood"
+title: Top Nutrition Tip from Mia Syn for Staying Healthy
+description: >-
+  Maintaining a healthy lifestyle starts with simple changes in daily habits.
+  Nutrition plays a crucial role, impacting well-being by ensuring essential
+  nutrients through balanced meals with carbohydrates, proteins, and healthy
+  fats to significantly improve physical and mental health.
+type: standard
+status: published
+publishDate: '2026-01-15T10:39:24+00:00'
+author: Lena Ashwood
 tags:
-  - "Lifestyle"
-  - "Nutrition"
-  - "Wellness"
-slug: "top-nutrition-tip-from-mia-syn-for-staying-healthy"
+  - Lifestyle
+  - Nutrition
+  - Wellness
+slug: top-nutrition-tip-from-mia-syn-for-staying-healthy
 reading_time: 3
-source_url: "https://mindmedications.com/top-nutrition-tip-from-mia-syn-for-staying-healthy/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/top-nutrition-tip-from-mia-syn-for-staying-healthy/
+imported_from: wordpress
 wp_original_id: 607
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: /assets/images/top-nutrition-tip-from-mia-syn-for-staying-healthy.webp
 seo:
-  canonical: "https://mindmedications.com/top-nutrition-tip-from-mia-syn-for-staying-healthy/"
-  og_title: "Top Nutrition Tip from Mia Syn for Staying Healthy - Mind Medications"
-  og_description: "Maintaining a healthy lifestyle starts with simple changes in daily habits. Nutrition plays a crucial role, impacting well-being by ensuring essential nutrients. Incorporating balanced meals with carbohydrates, proteins, and healthy fats can significantly improve physical and mental health."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/01/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/top-nutrition-tip-from-mia-syn-for-staying-healthy/
+  og_title: Top Nutrition Tip from Mia Syn for Staying Healthy - Mind Medications
+  og_description: >-
+    Maintaining a healthy lifestyle starts with simple changes in daily habits.
+    Nutrition plays a crucial role, impacting well-being by ensuring essential
+    nutrients. Incorporating balanced meals with carbohydrates, proteins, and
+    healthy fats can significantly improve physical and mental health.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/01/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good keyword coverage and accurate information, but the title's reference to 'Mia Syn' isn't supported in the content, and the word count is significantly below the target range."
+quality_note: >-
+  Well-written article with good keyword coverage and accurate information, but
+  the title's reference to 'Mia Syn' isn't supported in the content, and the
+  word count is significantly below the target range.
+image_alt: >-
+  Sunlit kitchen counter with a colorful balanced grain bowl and fresh
+  ingredients for healthy eating.
 ---
 
 Maintaining a healthy lifestyle often begins with simple yet effective changes in our daily habits. One crucial aspect of this journey is nutrition, a fundamental component that significantly impacts our overall well-being. In today's fast-paced world, prioritizing a balanced diet might seem challenging, but integrating practical tips can make a substantial difference in achieving health goals.
