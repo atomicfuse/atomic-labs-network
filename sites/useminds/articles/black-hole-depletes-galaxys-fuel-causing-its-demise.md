@@ -1,24 +1,32 @@
 ---
-title: "Black Hole Depletes Galaxy’s Fuel, Causing Its Demise"
-description: "The mysterious disappearance of the galaxy Pablo has intrigued astronomers, prompting investigations into its fading. Theories suggest a massive black hole or intergalactic forces may be responsible, offering insights into cosmic dynamics and the universe's evolution."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T10:35:25+00:00"
-author: "Nico Ashwood"
+title: 'Black Hole Depletes Galaxy’s Fuel, Causing Its Demise'
+description: >-
+  The mysterious disappearance of the galaxy Pablo has intrigued astronomers,
+  prompting investigations into its fading. Theories suggest a massive black
+  hole or intergalactic forces may be responsible, offering insights into cosmic
+  dynamics and the universe's evolution.
+type: standard
+status: review
+publishDate: '2026-01-12T10:35:25+00:00'
+author: Nico Ashwood
 tags:
-  - "Mind-Blowing Science"
-  - "Space &amp; The Unknown"
-slug: "black-hole-depletes-galaxys-fuel-causing-its-demise"
+  - Mind-Blowing Science
+  - Space &amp; The Unknown
+slug: black-hole-depletes-galaxys-fuel-causing-its-demise
 reading_time: 3
-source_url: "https://useminds.com/black-hole-depletes-galaxys-fuel-causing-its-demise/"
-imported_from: "wordpress"
+source_url: 'https://useminds.com/black-hole-depletes-galaxys-fuel-causing-its-demise/'
+imported_from: wordpress
 wp_original_id: 467
-featuredImage: "/assets/images/useminds-general-article.webp"
+featuredImage: /assets/images/black-hole-depletes-galaxys-fuel-causing-its-demise.webp
 seo:
-  canonical: "https://useminds.com/black-hole-depletes-galaxys-fuel-causing-its-demise/"
-  og_title: "Black Hole Depletes Galaxy's Fuel, Causing Its Demise - UseMinds"
-  og_description: "The mysterious disappearance of the galaxy Pablo has intrigued astronomers, prompting investigations into its fading. Theories suggest a massive black hole or intergalactic forces may be responsible, offering insights into cosmic dynamics and the universe's evolution."
-  twitter_card: "summary_large_image"
+  canonical: 'https://useminds.com/black-hole-depletes-galaxys-fuel-causing-its-demise/'
+  og_title: 'Black Hole Depletes Galaxy''s Fuel, Causing Its Demise - UseMinds'
+  og_description: >-
+    The mysterious disappearance of the galaxy Pablo has intrigued astronomers,
+    prompting investigations into its fading. Theories suggest a massive black
+    hole or intergalactic forces may be responsible, offering insights into
+    cosmic dynamics and the universe's evolution.
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but severely penalized for fabricated galaxy 'Pablo' and extremely short length at 465 words versus 800-1200 target."
+quality_note: >-
+  Strong tone and keyword relevance but severely penalized for fabricated galaxy
+  'Pablo' and extremely short length at 465 words versus 800-1200 target.
+image_alt: >-
+  A fading spiral galaxy appears drained by a dark central void amid sparse blue
+  stars and amber dust.
 ---
 
 The mysterious disappearance of a galaxy, known as Pablo, has captured the attention of astronomers and space enthusiasts alike. Situated in a distant part of the universe, Pablo was once a vibrant spiral galaxy, but recent observations have shown it to be fading, raising intriguing questions about its fate and the forces at play in the cosmos.
