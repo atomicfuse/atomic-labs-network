@@ -1,24 +1,35 @@
 ---
-title: "Ayaneo Launches Android Phone Inspired by Xperia Play"
-description: "The Ayaneo Pocket Play is redefining mobile gaming with its innovative design, combining a high-performance gaming console with smartphone convenience, offering seamless transitions between gaming and everyday tasks, ergonomic controls, powerful performance, and access to the Android ecosystem."
-type: "standard"
-status: "review"
-publishDate: "2025-12-11T10:25:29+00:00"
-author: "Arthur Daly"
+title: Ayaneo Launches Android Phone Inspired by Xperia Play
+description: >-
+  The Ayaneo Pocket Play is redefining mobile gaming with its innovative design,
+  combining a high-performance gaming console with smartphone convenience,
+  offering seamless transitions between gaming and everyday tasks, ergonomic
+  controls, powerful performance, and access to the Android ecosystem.
+type: standard
+status: review
+publishDate: '2025-12-11T10:25:29+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "ayaneo-launches-android-phone-inspired-by-xperia-play"
+  - Tech
+slug: ayaneo-launches-android-phone-inspired-by-xperia-play
 reading_time: 3
-source_url: "https://geekystudios.com/ayaneo-launches-android-phone-inspired-by-xperia-play/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/ayaneo-launches-android-phone-inspired-by-xperia-play/
+imported_from: wordpress
 wp_original_id: 673
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/ayaneo-launches-android-phone-inspired-by-xperia-play.webp
 seo:
-  canonical: "https://geekystudios.com/ayaneo-launches-android-phone-inspired-by-xperia-play/"
-  og_title: "Ayaneo Launches Android Phone Inspired by Xperia Play - Geeky Studios"
-  og_description: "The Ayaneo Pocket Play is redefining mobile gaming with its innovative design, combining a high-performance gaming console with smartphone convenience. It offers seamless transitions between gaming and everyday tasks, boasting ergonomic controls, powerful performance, and access to the Android ecosystem."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/12/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/ayaneo-launches-android-phone-inspired-by-xperia-play/
+  og_title: Ayaneo Launches Android Phone Inspired by Xperia Play - Geeky Studios
+  og_description: >-
+    The Ayaneo Pocket Play is redefining mobile gaming with its innovative
+    design, combining a high-performance gaming console with smartphone
+    convenience. It offers seamless transitions between gaming and everyday
+    tasks, boasting ergonomic controls, powerful performance, and access to the
+    Android ecosystem.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/12/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong tech focus and engaging tone, but significantly under target word count and lacks specific technical details that could raise accuracy concerns."
+quality_note: >-
+  Strong tech focus and engaging tone, but significantly under target word count
+  and lacks specific technical details that could raise accuracy concerns.
+image_alt: >-
+  Sleek gaming smartphone with slide-out controls under cool neon studio
+  lighting
 ---
 
 In an exciting development for mobile gaming enthusiasts, a new contender is emerging to redefine how we experience gaming on the go. The Ayaneo Pocket Play, a gaming smartphone, is generating buzz with its innovative design and impressive capabilities. This device promises to blend the functionalities of a high-performance gaming console with the convenience of a smartphone, offering an all-in-one solution for gamers who demand more from their mobile devices.
