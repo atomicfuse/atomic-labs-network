@@ -1,22 +1,29 @@
 ---
-title: "Chronic Back Pain Treatment Linked to Increased Dementia Risk"
-description: "Chronic lower back pain affects millions globally, and recent research suggests a link between its treatments and an increased risk of dementia, emphasizing the need for understanding long-term effects and exploring alternative pain management strategies to enhance patients' well-being."
-type: "standard"
-status: "review"
-publishDate: "2025-07-17T07:39:27"
-author: "Taylor Winters"
+title: Chronic Back Pain Treatment Linked to Increased Dementia Risk
+description: >-
+  Chronic lower back pain affects millions globally, and recent research
+  suggests a link between its treatments and an increased risk of dementia,
+  emphasizing the need for understanding long-term effects and exploring
+  alternative pain management strategies to enhance patients' well-being.
+type: standard
+status: review
+publishDate: '2025-07-17T07:39:27'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "chronic-back-pain-treatment-linked-to-increased-dementia-risk"
+  - Space
+  - Humans
+slug: chronic-back-pain-treatment-linked-to-increased-dementia-risk
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/chronic-back-pain-treatment-linked-to-increased-dementia-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/chronic-back-pain-treatment-linked-to-increased-dementia-risk/
+imported_from: wordpress
 wp_original_id: 14984
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/chronic-back-pain-treatment-linked-to-increased-dementia-risk.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/chronic-back-pain-treatment-linked-to-increased-dementia-risk/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/chronic-back-pain-treatment-linked-to-increased-dementia-risk/
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -24,7 +31,14 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 15
-quality_note: "The article has poor SEO optimization with a medical title that doesn't match the site's science focus, lacks proper heading structure, is too short at 496 words, and doesn't align with the required Space/Nature/Physics/Technology/Environment topics."
+quality_note: >-
+  The article has poor SEO optimization with a medical title that doesn't match
+  the site's science focus, lacks proper heading structure, is too short at 496
+  words, and doesn't align with the required
+  Space/Nature/Physics/Technology/Environment topics.
+image_alt: >-
+  Older adult in a softly lit clinic, suggesting links between chronic back pain
+  care and brain health
 ---
 
 Chronic lower back pain is a common ailment affecting millions worldwide. Recent research has uncovered a potential connection between the treatments for this condition and an increased risk of developing dementia. This finding has significant implications for both patients and healthcare providers, highlighting the need for a deeper understanding of the long-term effects of pain management strategies.
