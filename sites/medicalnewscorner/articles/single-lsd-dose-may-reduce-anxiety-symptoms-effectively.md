@@ -1,26 +1,38 @@
 ---
-title: "Single LSD Dose May Reduce Anxiety Symptoms Effectively"
-description: "Recent studies reveal that LSD, a powerful psychedelic, may alleviate anxiety symptoms, offering an alternative for those not finding relief through traditional methods. The drug's interaction with serotonin receptors could play a crucial role in reducing anxiety."
-type: "standard"
-status: "review"
-publishDate: "2025-09-11T04:03:27+00:00"
-author: "Taylor Winters"
+title: Single LSD Dose May Reduce Anxiety Symptoms Effectively
+description: >-
+  Recent studies reveal that LSD, a powerful psychedelic, may alleviate anxiety
+  symptoms, offering an alternative for those not finding relief through
+  traditional methods. The drug's interaction with serotonin receptors could
+  play a crucial role in reducing anxiety.
+type: standard
+status: review
+publishDate: '2025-09-11T04:03:27+00:00'
+author: Taylor Winters
 tags:
-  - "Clinical Trials &amp; Research"
-  - "Drugs"
-  - "Mental Health"
-slug: "single-lsd-dose-may-reduce-anxiety-symptoms-effectively"
+  - Clinical Trials &amp; Research
+  - Drugs
+  - Mental Health
+slug: single-lsd-dose-may-reduce-anxiety-symptoms-effectively
 reading_time: 3
-source_url: "https://medicalnewscorner.com/single-lsd-dose-may-reduce-anxiety-symptoms-effectively/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/single-lsd-dose-may-reduce-anxiety-symptoms-effectively/
+imported_from: wordpress
 wp_original_id: 24704
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/single-lsd-dose-may-reduce-anxiety-symptoms-effectively.webp
 seo:
-  canonical: "https://medicalnewscorner.com/single-lsd-dose-may-reduce-anxiety-symptoms-effectively/"
-  og_title: "Single LSD Dose May Reduce Anxiety Symptoms Effectively - Medical News Corner"
-  og_description: "Recent studies reveal that LSD, a powerful psychedelic, may alleviate anxiety symptoms, offering an alternative for those not finding relief through traditional methods. The drug's interaction with serotonin receptors could play a crucial role in reducing anxiety."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/09/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/single-lsd-dose-may-reduce-anxiety-symptoms-effectively/
+  og_title: >-
+    Single LSD Dose May Reduce Anxiety Symptoms Effectively - Medical News
+    Corner
+  og_description: >-
+    Recent studies reveal that LSD, a powerful psychedelic, may alleviate
+    anxiety symptoms, offering an alternative for those not finding relief
+    through traditional methods. The drug's interaction with serotonin receptors
+    could play a crucial role in reducing anxiety.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/09/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Article demonstrates good topic relevance and tone but falls significantly short of target length at only 435 words and lacks specific research citations to support its claims."
+quality_note: >-
+  Article demonstrates good topic relevance and tone but falls significantly
+  short of target length at only 435 words and lacks specific research citations
+  to support its claims.
+image_alt: Calm person in a softly lit room surrounded by gentle abstract neural patterns
 ---
 
 Recent scientific studies have highlighted the potential benefits of LSD, a powerful psychedelic, in alleviating anxiety symptoms. As mental health challenges continue to rise globally, researchers are exploring unconventional therapies, finding that even a single dose of LSD may offer significant relief.
