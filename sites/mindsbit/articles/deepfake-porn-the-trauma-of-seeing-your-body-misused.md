@@ -1,25 +1,32 @@
 ---
-title: "Deepfake Porn: The Trauma of Seeing Your Body Misused"
-description: "Nonconsensual AI porn is spreading faster than victims can remove it, exposing gaps in platform moderation, copyright law, and online safety protections as synthetic sexual abuse becomes easier to create and harder to erase."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:18:13+00:00"
-author: "Lena Ashwood"
+title: 'Deepfake Porn: The Trauma of Seeing Your Body Misused'
+description: >-
+  Nonconsensual AI porn is spreading faster than victims can remove it, exposing
+  gaps in platform moderation, copyright law, and online safety protections as
+  synthetic sexual abuse becomes easier to create and harder to erase.
+type: standard
+status: published
+publishDate: '2026-05-14T09:18:13+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "deepfake-porn-the-trauma-of-seeing-your-body-misused"
+  - Innovation
+  - Tech
+slug: deepfake-porn-the-trauma-of-seeing-your-body-misused
 reading_time: 7
-source_url: "https://mindsbit.com/deepfake-porn-the-trauma-of-seeing-your-body-misused/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/deepfake-porn-the-trauma-of-seeing-your-body-misused/'
+imported_from: wordpress
 wp_original_id: 520
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/deepfake-porn-the-trauma-of-seeing-your-body-misused.webp
 seo:
-  canonical: "https://mindsbit.com/deepfake-porn-the-trauma-of-seeing-your-body-misused/"
-  og_title: "Deepfake Porn: The Trauma of Seeing Your Body Misused - Minds bit"
-  og_description: "Nonconsensual AI porn is spreading faster than victims can remove it, exposing gaps in platform moderation, copyright law, and online safety protections as synthetic sexual abuse becomes easier to create and harder to erase."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/deepfake-porn-the-trauma-of-seeing-your-body-misused/'
+  og_title: 'Deepfake Porn: The Trauma of Seeing Your Body Misused - Minds bit'
+  og_description: >-
+    Nonconsensual AI porn is spreading faster than victims can remove it,
+    exposing gaps in platform moderation, copyright law, and online safety
+    protections as synthetic sexual abuse becomes easier to create and harder to
+    erase.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with excellent length and tone, but the sensitive topic of deepfake porn may not align well with mindsbit's technology-focused audience and brand positioning."
+quality_note: >-
+  Well-written article with excellent length and tone, but the sensitive topic
+  of deepfake porn may not align well with mindsbit's technology-focused
+  audience and brand positioning.
+image_alt: >-
+  A lone figure faces blurred glowing screens and fractured reflections in a
+  dark digital space.
 ---
 
 AI-generated pornography has moved from a fringe internet problem into a mainstream digital safety crisis. Nonconsensual deepfakes now affect celebrities, influencers, students, teachers, adult performers, and private individuals whose images are scraped, altered, and reposted without permission. As the tools become cheaper and easier to use, victims are discovering a harsh reality: removing synthetic sexual content can be far harder than creating it.
