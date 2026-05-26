@@ -1,23 +1,36 @@
 ---
-title: "SAG Awards 2026 Highlights: Winners, Surprises, and Memorable Moments"
-description: "The 2026 Screen Actors Guild Awards celebrated outstanding film and television performances, highlighting diversity and inclusion. The event featured memorable wins, speeches on social issues, and tributes to industry legends, setting new standards for future entertainment celebrations."
-type: "standard"
-status: "review"
-publishDate: "2026-03-02T10:25:31+00:00"
-author: "Becca Roberts"
+title: 'SAG Awards 2026 Highlights: Winners, Surprises, and Memorable Moments'
+description: >-
+  The 2026 Screen Actors Guild Awards celebrated outstanding film and television
+  performances, highlighting diversity and inclusion. The event featured
+  memorable wins, speeches on social issues, and tributes to industry legends,
+  setting new standards for future entertainment celebrations.
+type: standard
+status: review
+publishDate: '2026-03-02T10:25:31+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "sag-awards-2026-highlights-winners-surprises-and-memorable-moments"
+  - Watch
+slug: sag-awards-2026-highlights-winners-surprises-and-memorable-moments
 reading_time: 3
-source_url: "https://buzzsoaps.com/sag-awards-2026-highlights-winners-surprises-and-memorable-moments/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/sag-awards-2026-highlights-winners-surprises-and-memorable-moments/
+imported_from: wordpress
 wp_original_id: 559
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: >-
+  /assets/images/sag-awards-2026-highlights-winners-surprises-and-memorable-moments.webp
 seo:
-  canonical: "https://buzzsoaps.com/sag-awards-2026-highlights-winners-surprises-and-memorable-moments/"
-  og_title: "SAG Awards 2026 Highlights: Winners, Surprises, and Memorable Moments - BuzzSoaps!"
-  og_description: "The 2026 Screen Actors Guild Awards celebrated outstanding film and television performances, highlighting diversity and inclusion. The event featured memorable wins, speeches on social issues, and tributes to industry legends, setting new standards for future entertainment celebrations."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/sag-awards-2026-highlights-winners-surprises-and-memorable-moments/
+  og_title: >-
+    SAG Awards 2026 Highlights: Winners, Surprises, and Memorable Moments -
+    BuzzSoaps!
+  og_description: >-
+    The 2026 Screen Actors Guild Awards celebrated outstanding film and
+    television performances, highlighting diversity and inclusion. The event
+    featured memorable wins, speeches on social issues, and tributes to industry
+    legends, setting new standards for future entertainment celebrations.
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 75
@@ -25,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "The article has good tone and structure but suffers from major factual issues (reporting on 2026 awards as if they already happened) and falls short of the target word count."
+quality_note: >-
+  The article has good tone and structure but suffers from major factual issues
+  (reporting on 2026 awards as if they already happened) and falls short of the
+  target word count.
+image_alt: >-
+  Diverse performers celebrate together under golden stage lights at an elegant
+  awards ceremony.
 ---
 
 The 2026 Screen Actors Guild Awards delivered an evening full of memorable moments and notable achievements, celebrating outstanding performances in film and television. This year's ceremony not only highlighted the incredible talent within the industry but also set new standards for the future of entertainment.
