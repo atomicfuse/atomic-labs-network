@@ -1,29 +1,38 @@
 ---
-title: "Transform Your Living Room and Kitchen with Cozy Fall Decor"
-description: "Discover how to transform your living room and kitchen into a cozy fall haven with OmabelleTV's decorating tips and product recommendations."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T04:05:26+00:00"
-author: "Taylor Winters"
+title: Transform Your Living Room and Kitchen with Cozy Fall Decor
+description: >-
+  Discover how to transform your living room and kitchen into a cozy fall haven
+  with OmabelleTV's decorating tips and product recommendations.
+type: standard
+status: review
+publishDate: '2025-05-22T04:05:26+00:00'
+author: Taylor Winters
 tags:
-  - "Design"
-  - "Home"
-  - "How To"
-slug: "transform-your-living-room-and-kitchen-with-cozy-fall-decor"
+  - Design
+  - Home
+  - How To
+slug: transform-your-living-room-and-kitchen-with-cozy-fall-decor
 reading_time: 2
-source_url: "https://decoratingtricks.com/transform-your-living-room-and-kitchen-with-cozy-fall-decor/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/transform-your-living-room-and-kitchen-with-cozy-fall-decor/
+imported_from: wordpress
 wp_original_id: 21371
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/transform-your-living-room-and-kitchen-with-cozy-fall-decor.webp
 seo:
-  canonical: "https://decoratingtricks.com/transform-your-living-room-and-kitchen-with-cozy-fall-decor/"
-  og_title: "Transform Your Living Room and Kitchen with Cozy Fall Decor - Decorating Tricks"
-  og_description: "Discover how to transform your living room and kitchen into a cozy fall haven with OmabelleTV's decorating tips and product recommendations."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/transform-your-living-room-and-kitchen-with-cozy-fall-decor/
+  og_title: >-
+    Transform Your Living Room and Kitchen with Cozy Fall Decor - Decorating
+    Tricks
+  og_description: >-
+    Discover how to transform your living room and kitchen into a cozy fall
+    haven with OmabelleTV's decorating tips and product recommendations.
+  twitter_card: summary_large_image
 videos:
-  - id: "d6d29418"
-    url: "https://www.youtube.com/watch?v=884voXTaHGs"
-    position: "after-paragraph-2"
+  - id: d6d29418
+    url: 'https://www.youtube.com/watch?v=884voXTaHGs'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -31,7 +40,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written fall decorating content with good tone and relevance, but significantly under target word count at only 329 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written fall decorating content with good tone and relevance, but
+  significantly under target word count at only 329 words instead of the
+  800-1200 range.
+image_alt: >-
+  Cozy autumn living room and kitchen with pumpkins, candles, throws, and warm
+  seasonal decor
 ---
 
 As the leaves turn and the temperatures drop, creating a warm and inviting atmosphere in your home becomes a top priority. In this guide, we'll explore how to transform your living room and kitchen with cozy fall decor, inspired by OmabelleTV's latest video.
