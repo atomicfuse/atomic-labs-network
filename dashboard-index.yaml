@@ -673,22 +673,23 @@ sites:
   - domain: geekystudios
     company: ATL
     vertical: Science
-    status: Staging
+    status: Live
     site_id: "9619803022369"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-24T10:50:03.022Z
+    last_updated: 2026-05-26T08:24:41.467Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 94c2242ad28f6db741238d042366a8b8
     staging_branch: staging/geekystudios
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=geekystudios
     saved_previews: null
-    custom_domain: null
+    custom_domain: geekystudios.com
+    worker_pending_dns: false
   - domain: buzzsoaps
     company: ATL
     vertical: Entertainment
