@@ -1,22 +1,26 @@
 ---
-title: "Contraception Extends Mammal Lifespan by 10%"
-description: "Recent research reveals that contraception use may increase lifespan in certain mammals by up to 10%, with findings that could impact wildlife management and deepen our understanding of the biological trade-offs between reproduction and longevity."
-type: "standard"
-status: "review"
-publishDate: "2026-01-19T12:49:46"
-author: "Taylor Winters"
+title: Contraception Extends Mammal Lifespan by 10%
+description: >-
+  Recent research reveals that contraception use may increase lifespan in
+  certain mammals by up to 10%, with findings that could impact wildlife
+  management and deepen our understanding of the biological trade-offs between
+  reproduction and longevity.
+type: standard
+status: review
+publishDate: '2026-01-19T12:49:46'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Nature"
-slug: "contraception-extends-mammal-lifespan-by-10"
+  - Environment
+  - Nature
+slug: contraception-extends-mammal-lifespan-by-10
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/contraception-extends-mammal-lifespan-by-10/"
-imported_from: "wordpress"
+source_url: 'https://www.sciencenewslab.com/contraception-extends-mammal-lifespan-by-10/'
+imported_from: wordpress
 wp_original_id: 15054
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/contraception-extends-mammal-lifespan-by-10.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/contraception-extends-mammal-lifespan-by-10/"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.sciencenewslab.com/contraception-extends-mammal-lifespan-by-10/'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -24,7 +28,14 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "While well-written with good tone and keyword coverage, the article is significantly short at 583 words and makes unsupported claims about contraception extending mammal lifespans without citing specific studies or evidence."
+quality_note: >-
+  While well-written with good tone and keyword coverage, the article is
+  significantly short at 583 words and makes unsupported claims about
+  contraception extending mammal lifespans without citing specific studies or
+  evidence.
+image_alt: >-
+  Wild mammal in soft natural light with subtle biology-inspired patterns
+  suggesting longevity research.
 ---
 
 Recent research has uncovered a fascinating link between contraception use and increased lifespans in certain mammalian species. This discovery could have profound implications for both wildlife management and our understanding of reproductive biology. Scientists have found that by controlling birth rates, some mammals experience a significant boost in longevity, offering new insights into the biological trade-offs between reproduction and lifespan.
