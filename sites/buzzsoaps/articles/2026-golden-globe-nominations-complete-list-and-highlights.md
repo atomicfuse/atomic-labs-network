@@ -1,24 +1,36 @@
 ---
-title: "2026 Golden Globe Nominations: Complete List and Highlights"
-description: "Golden Globe nominations for 2026 celebrate cinematic and television excellence, highlighting a diverse array of talent and storytelling. The nominations feature established artists and fresh faces, reflecting the evolving entertainment landscape with innovative narratives and transformative performances."
-type: "standard"
-status: "review"
-publishDate: "2025-12-08T12:37:29+00:00"
-author: "Becca Roberts"
+title: '2026 Golden Globe Nominations: Complete List and Highlights'
+description: >-
+  Golden Globe nominations for 2026 celebrate cinematic and television
+  excellence, highlighting a diverse array of talent and storytelling. The
+  nominations feature established artists and fresh faces, reflecting the
+  evolving entertainment landscape with innovative narratives and transformative
+  performances.
+type: standard
+status: review
+publishDate: '2025-12-08T12:37:29+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "2026-golden-globe-nominations-complete-list-and-highlights"
+  - Watch
+slug: 2026-golden-globe-nominations-complete-list-and-highlights
 reading_time: 3
-source_url: "https://buzzsoaps.com/2026-golden-globe-nominations-complete-list-and-highlights/"
-imported_from: "wordpress"
+source_url: >-
+  https://buzzsoaps.com/2026-golden-globe-nominations-complete-list-and-highlights/
+imported_from: wordpress
 wp_original_id: 508
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/2026-golden-globe-nominations-complete-list-and-highlights.webp
 seo:
-  canonical: "https://buzzsoaps.com/2026-golden-globe-nominations-complete-list-and-highlights/"
-  og_title: "2026 Golden Globe Nominations: Complete List and Highlights - BuzzSoaps!"
-  og_description: "Golden Globe nominations for 2026 celebrate cinematic and television excellence, highlighting a diverse array of talent and storytelling. The nominations feature established artists and fresh faces, reflecting the evolving entertainment landscape with innovative narratives and transformative performances."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/12/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/2026-golden-globe-nominations-complete-list-and-highlights/
+  og_title: '2026 Golden Globe Nominations: Complete List and Highlights - BuzzSoaps!'
+  og_description: >-
+    Golden Globe nominations for 2026 celebrate cinematic and television
+    excellence, highlighting a diverse array of talent and storytelling. The
+    nominations feature established artists and fresh faces, reflecting the
+    evolving entertainment landscape with innovative narratives and
+    transformative performances.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/12/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -26,7 +38,14 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 15
   keyword_relevance: 60
-quality_note: "The article contains major factual issues by discussing 2026 Golden Globe nominations as if they've been announced when they haven't, creating misleading content that undermines credibility despite reasonable tone and keyword alignment."
+quality_note: >-
+  The article contains major factual issues by discussing 2026 Golden Globe
+  nominations as if they've been announced when they haven't, creating
+  misleading content that undermines credibility despite reasonable tone and
+  keyword alignment.
+image_alt: >-
+  Golden awards-night scene with spotlights, envelopes, and silhouetted
+  performers on a red carpet.
 ---
 
 Golden Globe nominations for 2026 have been announced, highlighting a rich tapestry of cinematic and television excellence. This year, a diverse array of talent and storytelling has captured the industry's attention, setting the stage for a thrilling awards season. The nominations reflect both established artists and fresh faces, offering a glimpse into the evolving landscape of entertainment.
