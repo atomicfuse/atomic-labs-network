@@ -1,27 +1,37 @@
 ---
-title: "Exploring 100 Unsolved Mysteries: A Journey into the Unexplained"
-description: "Dive into the enthralling world of unsolved mysteries where questions abound and the unknown beckons curiosity, spanning ancient artifacts, modern phenomena, and everything in between."
-type: "standard"
-status: "review"
-publishDate: "2025-11-10T10:19:21+00:00"
-author: "Nico Harper"
+title: 'Exploring 100 Unsolved Mysteries: A Journey into the Unexplained'
+description: >-
+  Dive into the enthralling world of unsolved mysteries where questions abound
+  and the unknown beckons curiosity, spanning ancient artifacts, modern
+  phenomena, and everything in between.
+type: standard
+status: review
+publishDate: '2025-11-10T10:19:21+00:00'
+author: Nico Harper
 tags:
-  - "Internet Mysteries"
-slug: "exploring-100-unsolved-mysteries-a-journey-into-the-unexplained"
+  - Internet Mysteries
+slug: exploring-100-unsolved-mysteries-a-journey-into-the-unexplained
 reading_time: 2
-source_url: "https://gigsfreaks.com/exploring-100-unsolved-mysteries-a-journey-into-the-unexplained/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/exploring-100-unsolved-mysteries-a-journey-into-the-unexplained/
+imported_from: wordpress
 wp_original_id: 972
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-100-unsolved-mysteries-a-journey-into-the-unexplained.webp
 seo:
-  canonical: "https://gigsfreaks.com/exploring-100-unsolved-mysteries-a-journey-into-the-unexplained/"
-  og_title: "Exploring 100 Unsolved Mysteries: A Journey into the Unexplained - GigsFreaks"
-  og_description: "Dive into the enthralling world of unsolved mysteries where questions abound and the unknown beckons curiosity."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/exploring-100-unsolved-mysteries-a-journey-into-the-unexplained/
+  og_title: >-
+    Exploring 100 Unsolved Mysteries: A Journey into the Unexplained -
+    GigsFreaks
+  og_description: >-
+    Dive into the enthralling world of unsolved mysteries where questions abound
+    and the unknown beckons curiosity.
+  twitter_card: summary_large_image
 videos:
-  - id: "02824364"
-    url: "https://www.youtube.com/watch?v=_zKIOcgsVE0"
-    position: "after-paragraph-2"
+  - id: 02824364
+    url: 'https://www.youtube.com/watch?v=_zKIOcgsVE0'
+    position: after-paragraph-2
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and relevance to Internet Mysteries but falls significantly short of the target word count at only 283 words, which severely impacts its content quality."
+quality_note: >-
+  The article has good tone and relevance to Internet Mysteries but falls
+  significantly short of the target word count at only 283 words, which severely
+  impacts its content quality.
+image_alt: >-
+  A moonlit archive table opens toward a misty world of ruins, stars, and
+  unexplained lights.
 ---
 
 The world is full of enigmas that challenge our understanding and ignite our curiosity. Unsolved mysteries captivate us, drawing us into a realm where questions outnumber answers, and possibilities seem endless. This compilation of 100 unsolved mysteries offers an exhilarating journey into the unknown, where the thrill of discovery is ever-present.
