@@ -1,24 +1,37 @@
 ---
-title: "Prehistoric Argentina: Discover Organized Craft in Ancient Arrow Points"
-description: "Recent discoveries at Sibudu Cave in South Africa have revealed bone arrow tips dating back 61,000 years, showcasing the advanced craftsmanship and technological innovation of Stone Age humans and providing insights into their social and cultural dynamics."
-type: "standard"
-status: "review"
-publishDate: "2025-12-29T11:01:32+00:00"
-author: "Nico Ashwood"
+title: 'Prehistoric Argentina: Discover Organized Craft in Ancient Arrow Points'
+description: >-
+  Recent discoveries at Sibudu Cave in South Africa have revealed bone arrow
+  tips dating back 61,000 years, showcasing the advanced craftsmanship and
+  technological innovation of Stone Age humans and providing insights into their
+  social and cultural dynamics.
+type: standard
+status: review
+publishDate: '2025-12-29T11:01:32+00:00'
+author: Nico Ashwood
 tags:
-  - "Hidden History"
-slug: "prehistoric-argentina-discover-organized-craft-in-ancient-arrow-points"
+  - Hidden History
+slug: prehistoric-argentina-discover-organized-craft-in-ancient-arrow-points
 reading_time: 3
-source_url: "https://useminds.com/prehistoric-argentina-discover-organized-craft-in-ancient-arrow-points/"
-imported_from: "wordpress"
+source_url: >-
+  https://useminds.com/prehistoric-argentina-discover-organized-craft-in-ancient-arrow-points/
+imported_from: wordpress
 wp_original_id: 463
-featuredImage: "/assets/images/useminds-general-article.webp"
+featuredImage: >-
+  /assets/images/prehistoric-argentina-discover-organized-craft-in-ancient-arrow-points.webp
 seo:
-  canonical: "https://useminds.com/prehistoric-argentina-discover-organized-craft-in-ancient-arrow-points/"
-  og_title: "Prehistoric Argentina: Discover Organized Craft in Ancient Arrow Points - UseMinds"
-  og_description: "Recent discoveries at Sibudu Cave in South Africa have revealed bone arrow tips dating back 61,000 years. These artifacts showcase the advanced craftsmanship and technological innovation of Stone Age humans, providing insights into their social and cultural dynamics."
-  og_image: "https://useminds.com/wp-content/uploads/2025/12/make_file-57.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://useminds.com/prehistoric-argentina-discover-organized-craft-in-ancient-arrow-points/
+  og_title: >-
+    Prehistoric Argentina: Discover Organized Craft in Ancient Arrow Points -
+    UseMinds
+  og_description: >-
+    Recent discoveries at Sibudu Cave in South Africa have revealed bone arrow
+    tips dating back 61,000 years. These artifacts showcase the advanced
+    craftsmanship and technological innovation of Stone Age humans, providing
+    insights into their social and cultural dynamics.
+  og_image: 'https://useminds.com/wp-content/uploads/2025/12/make_file-57.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 45
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has a major title/content mismatch (Argentina vs South Africa) and weak SEO optimization, but maintains good tone and factual accuracy about the Sibudu Cave discoveries."
+quality_note: >-
+  The article has a major title/content mismatch (Argentina vs South Africa) and
+  weak SEO optimization, but maintains good tone and factual accuracy about the
+  Sibudu Cave discoveries.
+image_alt: >-
+  Prehistoric bone arrow tips arranged on stone beside a gloved archaeologist's
+  hand
 ---
 
 Recent archaeological discoveries have unveiled a remarkable glimpse into ancient craftsmanship, shedding light on the resourcefulness and skills of prehistoric communities. The unearthing of bone arrow tips from a site in South Africa has provided researchers with new insights into the technological advancements achieved by humans during the Stone Age.
