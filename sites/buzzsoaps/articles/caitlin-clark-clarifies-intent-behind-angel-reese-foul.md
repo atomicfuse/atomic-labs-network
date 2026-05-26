@@ -1,24 +1,33 @@
 ---
-title: "Caitlin Clark Clarifies Intent Behind Angel Reese Foul"
-description: "The basketball incident involving Caitlin Clark and Angel Reese sparked debates on sportsmanship and competition intensity, drawing fans' and analysts' attention. Both players have shared their perspectives, emphasizing respect and rivalry in women's sports."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T09:23:18+00:00"
-author: "Becca Roberts"
+title: Caitlin Clark Clarifies Intent Behind Angel Reese Foul
+description: >-
+  The basketball incident involving Caitlin Clark and Angel Reese sparked
+  debates on sportsmanship and competition intensity, drawing fans' and
+  analysts' attention. Both players have shared their perspectives, emphasizing
+  respect and rivalry in women's sports.
+type: standard
+status: review
+publishDate: '2025-05-22T09:23:18+00:00'
+author: Becca Roberts
 tags:
-  - "Hot Takes"
-slug: "caitlin-clark-clarifies-intent-behind-angel-reese-foul"
+  - Hot Takes
+slug: caitlin-clark-clarifies-intent-behind-angel-reese-foul
 reading_time: 3
-source_url: "https://buzzsoaps.com/caitlin-clark-clarifies-intent-behind-angel-reese-foul/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/caitlin-clark-clarifies-intent-behind-angel-reese-foul/'
+imported_from: wordpress
 wp_original_id: 398
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/caitlin-clark-clarifies-intent-behind-angel-reese-foul.webp
 seo:
-  canonical: "https://buzzsoaps.com/caitlin-clark-clarifies-intent-behind-angel-reese-foul/"
-  og_title: "Caitlin Clark Clarifies Intent Behind Angel Reese Foul - BuzzSoaps!"
-  og_description: "The basketball incident involving Caitlin Clark and Angel Reese sparked debates on sportsmanship and competition intensity, drawing fans' and analysts' attention. Both players have shared their perspectives, emphasizing respect and rivalry in women's sports."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-92.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://buzzsoaps.com/caitlin-clark-clarifies-intent-behind-angel-reese-foul/
+  og_title: Caitlin Clark Clarifies Intent Behind Angel Reese Foul - BuzzSoaps!
+  og_description: >-
+    The basketball incident involving Caitlin Clark and Angel Reese sparked
+    debates on sportsmanship and competition intensity, drawing fans' and
+    analysts' attention. Both players have shared their perspectives,
+    emphasizing respect and rivalry in women's sports.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/05/make_file-92.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +35,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Article has good tone and keyword alignment but falls significantly short of target word count and lacks specific details about the actual incident."
+quality_note: >-
+  Article has good tone and keyword alignment but falls significantly short of
+  target word count and lacks specific details about the actual incident.
+image_alt: >-
+  Two female basketball players collide during an intense professional game in a
+  crowded arena.
 ---
 
 The sports world is abuzz with discussions surrounding a recent incident involving Caitlin Clark and Angel Reese during a basketball game. An on-court play led to debates about sportsmanship and competition intensity, capturing the attention of fans and analysts alike. As the narrative unfolds, both players have shared their perspectives, shedding light on the dynamics of the game.
