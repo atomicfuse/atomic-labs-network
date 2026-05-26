@@ -1,24 +1,39 @@
 ---
-title: "Lizzy Savetsky’s Viral Headscarf Trend: Settler Chic Style"
-description: "Thousands gathered at Jerusalem's Western Wall for the annual Priestly Blessing, a significant Jewish ritual where Kohanim offer blessings. This event symbolizes peace and divine favor, attracting local and international worshippers, reinforcing Jewish identity and community bonds."
-type: "standard"
-status: "published"
-publishDate: "2025-11-03T09:51:23+00:00"
-author: "Taylor Winters"
+title: 'Lizzy Savetsky’s Viral Headscarf Trend: Settler Chic Style'
+description: >-
+  Thousands gathered at Jerusalem's Western Wall for the annual Priestly
+  Blessing, a significant Jewish ritual where Kohanim offer blessings. This
+  event symbolizes peace and divine favor, attracting local and international
+  worshippers, reinforcing Jewish identity and community bonds.
+type: standard
+status: published
+publishDate: '2025-11-03T09:51:23+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-slug: "lizzy-savetskys-viral-headscarf-trend-settler-chic-style"
+  - Culture
+slug: lizzy-savetskys-viral-headscarf-trend-settler-chic-style
 reading_time: 3
-source_url: "https://fashionnewsbee.com/lizzy-savetskys-viral-headscarf-trend-settler-chic-style/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/lizzy-savetskys-viral-headscarf-trend-settler-chic-style/
+imported_from: wordpress
 wp_original_id: 31578
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/lizzy-savetskys-viral-headscarf-trend-settler-chic-style.webp
 seo:
-  canonical: "https://fashionnewsbee.com/lizzy-savetskys-viral-headscarf-trend-settler-chic-style/"
-  og_title: "Lizzy Savetsky's Viral Headscarf Trend: Settler Chic Style - Fashion News Bee"
-  og_description: "Thousands gathered at Jerusalem's Western Wall for the annual Priestly Blessing, a significant Jewish ritual where Kohanim offer blessings. This event symbolizes peace and divine favor, attracting local and international worshippers, reinforcing Jewish identity and community bonds."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/11/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/lizzy-savetskys-viral-headscarf-trend-settler-chic-style/
+  og_title: >-
+    Lizzy Savetsky's Viral Headscarf Trend: Settler Chic Style - Fashion News
+    Bee
+  og_description: >-
+    Thousands gathered at Jerusalem's Western Wall for the annual Priestly
+    Blessing, a significant Jewish ritual where Kohanim offer blessings. This
+    event symbolizes peace and divine favor, attracting local and international
+    worshippers, reinforcing Jewish identity and community bonds.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/11/make_file.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Patterned headscarves rest near Jerusalem stone as worshippers gather softly
+  in the background.
 ---
 
 In a remarkable display of unity and reverence, thousands gathered in Jerusalem to participate in the annual Priestly Blessing. This significant event, held at the Western Wall, draws Jewish worshippers from around the world, all seeking to partake in the spiritual aura of this ancient tradition.
