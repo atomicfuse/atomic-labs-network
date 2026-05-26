@@ -1,0 +1,111 @@
+domain: tvshowsmag.com
+site_name: tvshowsmag
+site_tagline: null
+author: Zoe Hayes
+groups:
+  - atl
+active: true
+bundle_id: 6a12d73e16f23264031d7a51
+brief:
+  audiences:
+    - Entertainment enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - TV News
+    - Reviews
+    - Streaming
+    - Recommendations
+    - Celebrity News
+  seo_keywords_focus:
+    - TV News
+    - Reviews
+    - Streaming
+    - Recommendations
+    - Celebrity News
+  content_guidelines:
+    - Focus on Entertainment content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  category_ids:
+    - 6a00793d1104bbff809b7c32
+    - 6a0079401104bbff809b7fdb
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: modern
+  colors:
+    primary: "#C89B3C"
+    accent: "#8A641D"
+    background: "#0B0A07"
+    secondary: "#151007"
+    text: "#F6EEDC"
+    muted: "#B8A983"
+    surface: "#211806"
+    border: "#4A3714"
+    heading: "#FFB238"
+    link: "#E6C46A"
+    link_hover: "#E6C46A"
+    nav_link: "#F6EEDC"
+    nav_link_hover: "#E6C46A"
+    footer_bg: "#0B0A07"
+    must_reads_bg: "#1e1038"
+    hero_title: "#FFB238"
+    must_reads_title: "#FFB238"
+    article_hero_title: "#F6EEDC"
+    article_hero_meta: "#F6EEDC"
+    feed_title: "#FFB238"
+    feed_desc: "#B8A983"
+    feed_date: "#F6EEDC"
+    prose_heading: "#FFB238"
+    prose_body: "#F6EEDC"
+    category_header_text: "#F6EEDC"
+    subscribe_heading: "#F6EEDC"
+    footer_text: "#F6EEDC"
+    footer_heading: "#F6EEDC"
+    footer_link: "#F6EEDC"
+    footer_link_hover: "#E6C46A"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 52
+  footer_logo: /assets/logo-footer.png
+  logo_height_footer: 84
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-HHQM49XZKG
+  gtm: GT-5NRXC58K
