@@ -1,26 +1,34 @@
 ---
-title: "Top 6 Family-Friendly Trips on the East Coast"
-description: "Exploring the East Coast with your family offers diverse experiences from New York City to the Outer Banks, featuring historical sites, scenic wonders, and relaxing retreats. This guide highlights top destinations for a memorable family vacation."
-type: "standard"
-status: "published"
-publishDate: "2026-02-05T09:53:33+00:00"
-author: "Taylor Winters"
+title: Top 6 Family-Friendly Trips on the East Coast
+description: >-
+  Exploring the East Coast with your family offers diverse experiences from New
+  York City to the Outer Banks, featuring historical sites, scenic wonders, and
+  relaxing retreats. This guide highlights top destinations for a memorable
+  family vacation.
+type: standard
+status: published
+publishDate: '2026-02-05T09:53:33+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "top-6-family-friendly-trips-on-the-east-coast"
+  - Destinations
+  - Tips
+  - Travel
+slug: top-6-family-friendly-trips-on-the-east-coast
 reading_time: 3
-source_url: "https://journeypeaks.com/top-6-family-friendly-trips-on-the-east-coast/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-6-family-friendly-trips-on-the-east-coast/'
+imported_from: wordpress
 wp_original_id: 38800
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-6-family-friendly-trips-on-the-east-coast.webp
 seo:
-  canonical: "https://journeypeaks.com/top-6-family-friendly-trips-on-the-east-coast/"
-  og_title: "Top 6 Family-Friendly Trips on the East Coast - Journey Peaks"
-  og_description: "Exploring the East Coast with your family offers diverse experiences from New York City to the Outer Banks, featuring historical sites, scenic wonders, and relaxing retreats. This guide highlights top destinations for a memorable family vacation."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/top-6-family-friendly-trips-on-the-east-coast/'
+  og_title: Top 6 Family-Friendly Trips on the East Coast - Journey Peaks
+  og_description: >-
+    Exploring the East Coast with your family offers diverse experiences from
+    New York City to the Outer Banks, featuring historical sites, scenic
+    wonders, and relaxing retreats. This guide highlights top destinations for a
+    memorable family vacation.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel guide with engaging tone and accurate information, but falls short of optimal length and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written travel guide with engaging tone and accurate information, but
+  falls short of optimal length and could benefit from stronger SEO optimization
+  in title and meta description.
+image_alt: >-
+  Family overlooking a sunlit East Coast landscape with coast, city, and
+  historic travel cues.
 ---
 
 Exploring the East Coast with your family offers a diverse range of experiences, from historical adventures to scenic wonders. From the bustling streets of New York City to the tranquil beaches of the Outer Banks, families can find something to delight everyone. This guide highlights some of the top destinations that ensure a memorable family vacation.
