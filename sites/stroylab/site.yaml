@@ -2,7 +2,8 @@ domain: stroylab.com
 site_name: stroylab
 site_tagline: null
 author: Sarah Bennett
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a12d76316f23264031d7a57
 brief:
