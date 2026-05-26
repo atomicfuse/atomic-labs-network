@@ -20,7 +20,8 @@ source_url: ''
 source_item_id: >-
   synthetic-top-european-and-chinese-automakers-eye-porsche-nio-supplier-for-innovative-chassis-system
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/top-european-and-chinese-automakers-eye-porsche-nio-supplier-for-innovative-chassis-system.webp
 reading_time: 3
 quality_score: 77
 score_breakdown:
@@ -33,6 +34,9 @@ quality_note: >-
   Well-structured article with good keyword integration and appropriate tone,
   but falls short on length and relies heavily on vague reporting without
   specific details or sources.
+image_alt: >-
+  High-tech EV chassis on a studio floor with unbranded car silhouettes
+  converging in the background.
 ---
 ## Major Automakers Show Interest in Porsche-Nio Supplier
 
