@@ -1,24 +1,33 @@
 ---
-title: "MCU Ironheart Series: Key Details and Latest Updates"
-description: "The Marvel Cinematic Universe is expanding with 'Ironheart,' a new Disney+ series exploring Riri Williams, a genius inventor who follows in the footsteps of Tony Stark. The series highlights themes of representation, identity, and futuristic technology while diversifying Marvel's lineup."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T10:51:12+00:00"
-author: "Arthur Daly"
+title: 'MCU Ironheart Series: Key Details and Latest Updates'
+description: >-
+  The Marvel Cinematic Universe is expanding with 'Ironheart,' a new Disney+
+  series exploring Riri Williams, a genius inventor who follows in the footsteps
+  of Tony Stark. The series highlights themes of representation, identity, and
+  futuristic technology while diversifying Marvel's lineup.
+type: standard
+status: published
+publishDate: '2025-05-15T10:51:12+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "mcu-ironheart-series-key-details-and-latest-updates"
+  - Pop Culture
+slug: mcu-ironheart-series-key-details-and-latest-updates
 reading_time: 3
-source_url: "https://geekystudios.com/mcu-ironheart-series-key-details-and-latest-updates/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/mcu-ironheart-series-key-details-and-latest-updates/'
+imported_from: wordpress
 wp_original_id: 572
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/mcu-ironheart-series-key-details-and-latest-updates.webp
 seo:
-  canonical: "https://geekystudios.com/mcu-ironheart-series-key-details-and-latest-updates/"
-  og_title: "MCU Ironheart Series: Key Details and Latest Updates - Geeky Studios"
-  og_description: "The Marvel Cinematic Universe is expanding with 'Ironheart,' a new series exploring Riri Williams, a genius inventor who becomes Ironheart. As Marvel diversifies its lineup, the series highlights representation and futuristic themes, continuing the legacy of Tony Stark."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-31.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/mcu-ironheart-series-key-details-and-latest-updates/
+  og_title: 'MCU Ironheart Series: Key Details and Latest Updates - Geeky Studios'
+  og_description: >-
+    The Marvel Cinematic Universe is expanding with 'Ironheart,' a new series
+    exploring Riri Williams, a genius inventor who becomes Ironheart. As Marvel
+    diversifies its lineup, the series highlights representation and futuristic
+    themes, continuing the legacy of Tony Stark.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-31.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong pop culture content with appropriate tone and accurate information, but significantly under target word count at only 503 words versus the 800-1200 target range."
+quality_note: >-
+  Strong pop culture content with appropriate tone and accurate information, but
+  significantly under target word count at only 503 words versus the 800-1200
+  target range.
+image_alt: >-
+  Young inventor in a futuristic workshop illuminated by glowing advanced armor
+  technology
 ---
 
 The Marvel Cinematic Universe is expanding its horizons with the introduction of 'Ironheart,' a new series that promises to captivate audiences with its innovative storytelling and fresh characters. This highly anticipated show will explore the life of Riri Williams, a genius inventor who dons the mantle of Ironheart following the footsteps of Tony Stark. As Marvel continues to diversify its lineup, 'Ironheart' stands as a beacon of representation and futuristic themes.
