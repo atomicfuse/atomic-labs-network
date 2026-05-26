@@ -1,24 +1,37 @@
 ---
-title: "Xabi Alonso Eyed by Premier League Amid Real Madrid Uncertainty"
-description: "Xabi Alonso is making waves in the coaching world with potential moves to the English Premier League. Known for his tactical skills and leadership, his career shift is closely watched by football fans and analysts, sparking excitement and speculation."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T09:39:26+00:00"
-author: "Taylor Winters"
+title: Xabi Alonso Eyed by Premier League Amid Real Madrid Uncertainty
+description: >-
+  Xabi Alonso is making waves in the coaching world with potential moves to the
+  English Premier League. Known for his tactical skills and leadership, his
+  career shift is closely watched by football fans and analysts, sparking
+  excitement and speculation.
+type: standard
+status: published
+publishDate: '2025-11-27T09:39:26+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andrés Iniesta"
-slug: "xabi-alonso-eyed-by-premier-league-amid-real-madrid-uncertainty"
+  - Latest News
+  - Andrés Iniesta
+slug: xabi-alonso-eyed-by-premier-league-amid-real-madrid-uncertainty
 reading_time: 3
-source_url: "https://soccernewsreports.com/xabi-alonso-eyed-by-premier-league-amid-real-madrid-uncertainty/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/xabi-alonso-eyed-by-premier-league-amid-real-madrid-uncertainty/
+imported_from: wordpress
 wp_original_id: 37932
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/xabi-alonso-eyed-by-premier-league-amid-real-madrid-uncertainty.webp
 seo:
-  canonical: "https://soccernewsreports.com/xabi-alonso-eyed-by-premier-league-amid-real-madrid-uncertainty/"
-  og_title: "Xabi Alonso Eyed by Premier League Amid Real Madrid Uncertainty - Soccer News Reports"
-  og_description: "Xabi Alonso is making waves in the coaching world with potential moves to the English Premier League. Known for his tactical skills and leadership, his career shift is closely watched by football fans and analysts, sparking excitement and speculation."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/xabi-alonso-eyed-by-premier-league-amid-real-madrid-uncertainty/
+  og_title: >-
+    Xabi Alonso Eyed by Premier League Amid Real Madrid Uncertainty - Soccer
+    News Reports
+  og_description: >-
+    Xabi Alonso is making waves in the coaching world with potential moves to
+    the English Premier League. Known for his tactical skills and leadership,
+    his career shift is closely watched by football fans and analysts, sparking
+    excitement and speculation.
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with engaging tone but falls short on length and contains some factual inaccuracies regarding Alonso's current position."
+quality_note: >-
+  Well-written article with engaging tone but falls short on length and contains
+  some factual inaccuracies regarding Alonso's current position.
+image_alt: >-
+  Football manager facing a floodlit stadium with a blurred tactics board in the
+  foreground
 ---
 
 Xabi Alonso, a name synonymous with football excellence, is gaining attention in the coaching world. Known for his tactical acumen and leadership on the field, Alonso's potential transition to the English Premier League is creating a buzz. As rumors circulate about his future, especially concerning the possibility of joining a Premier League club, football enthusiasts are keenly observing these developments.
