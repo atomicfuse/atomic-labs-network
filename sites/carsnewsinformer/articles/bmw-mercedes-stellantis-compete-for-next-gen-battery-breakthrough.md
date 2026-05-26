@@ -18,7 +18,8 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-bmw-mercedes-stellantis-compete-for-next-gen-battery-breakthrough
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/bmw-mercedes-stellantis-compete-for-next-gen-battery-breakthrough.webp
 reading_time: 3
 quality_score: 76
 score_breakdown:
@@ -31,6 +32,9 @@ quality_note: >-
   Well-structured article with good tone and keyword coverage, but falls short
   on length and relies heavily on vague reporting without specific details or
   sources.
+image_alt: >-
+  Three futuristic electric cars race around a glowing battery core in a sleek
+  test lab.
 ---
 ## Major Automakers Enter Battery Technology Race
 
