@@ -1,26 +1,36 @@
 ---
-title: "Top Haircare Products for Shiny Valentine’s Day Hair"
-description: "Valentine's Day is the perfect occasion to enhance your hair's natural beauty. Discover essential haircare products and tips to achieve healthy, shiny hair that boosts confidence, whether you're on a romantic date or having fun with friends."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T09:45:30+00:00"
-author: "Taylor Winters"
+title: Top Haircare Products for Shiny Valentine’s Day Hair
+description: >-
+  Valentine's Day is the perfect occasion to enhance your hair's natural beauty.
+  Discover essential haircare products and tips to achieve healthy, shiny hair
+  that boosts confidence, whether you're on a romantic date or having fun with
+  friends.
+type: standard
+status: published
+publishDate: '2026-02-12T09:45:30+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Hair"
-slug: "top-haircare-products-for-shiny-valentines-day-hair"
+  - Travel Tips
+  - Beauty
+  - Hair
+slug: top-haircare-products-for-shiny-valentines-day-hair
 reading_time: 3
-source_url: "https://travelbeautytips.com/top-haircare-products-for-shiny-valentines-day-hair/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/top-haircare-products-for-shiny-valentines-day-hair/
+imported_from: wordpress
 wp_original_id: 36146
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/top-haircare-products-for-shiny-valentines-day-hair.webp
 seo:
-  canonical: "https://travelbeautytips.com/top-haircare-products-for-shiny-valentines-day-hair/"
-  og_title: "Top Haircare Products for Shiny Valentine's Day Hair - Travel Beauty Tips"
-  og_description: "Valentine's Day is the perfect occasion to enhance your hair's natural beauty. Discover essential haircare products and tips to achieve healthy, shiny hair that boosts confidence, whether you're on a romantic date or having fun with friends."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/top-haircare-products-for-shiny-valentines-day-hair/
+  og_title: Top Haircare Products for Shiny Valentine's Day Hair - Travel Beauty Tips
+  og_description: >-
+    Valentine's Day is the perfect occasion to enhance your hair's natural
+    beauty. Discover essential haircare products and tips to achieve healthy,
+    shiny hair that boosts confidence, whether you're on a romantic date or
+    having fun with friends.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 56
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written beauty article with good tone and accuracy, but significantly under target word count and needs stronger SEO optimization for the site's travel-beauty focus."
+quality_note: >-
+  Well-written beauty article with good tone and accuracy, but significantly
+  under target word count and needs stronger SEO optimization for the site's
+  travel-beauty focus.
+image_alt: >-
+  Person with shiny styled hair at an elegant vanity with soft pink Valentine’s
+  Day accents
 ---
 
 Valentine's Day is just around the corner, and it's the perfect time to get your hair looking its best for the celebrations. Whether you're planning a romantic date or a fun night out with friends, having healthy, shiny hair can make all the difference in boosting your confidence.
