@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-overcoming-barriers-to-strategic-foresight-essential-steps-forward
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: >-
+  /assets/images/overcoming-barriers-to-strategic-foresight-essential-steps-forward.webp
 reading_time: 3
 quality_score: 65
 score_breakdown:
@@ -34,6 +35,9 @@ quality_note: >-
   The article covers relevant technology management topics with appropriate tone
   but falls significantly short of the target word count at only 488 words,
   which severely impacts its overall quality score.
+image_alt: >-
+  Abstract tech command room with translucent barriers and glowing data pathways
+  toward a distant horizon.
 ---
 ## Understanding Strategic Foresight Challenges
 
