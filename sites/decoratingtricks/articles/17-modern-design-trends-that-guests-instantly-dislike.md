@@ -1,26 +1,36 @@
 ---
-title: "17 Modern Design Trends That Guests Instantly Dislike"
-description: "As modern home design trends evolve, they evoke mixed reactions from homeowners and guests alike. Open floor plans, minimalism, and industrial elements face criticism for lacking privacy, warmth, and comfort, while personalization remains the key to balancing style and functionality."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T09:19:30+00:00"
-author: "Taylor Winters"
+title: 17 Modern Design Trends That Guests Instantly Dislike
+description: >-
+  As modern home design trends evolve, they evoke mixed reactions from
+  homeowners and guests alike. Open floor plans, minimalism, and industrial
+  elements face criticism for lacking privacy, warmth, and comfort, while
+  personalization remains the key to balancing style and functionality.
+type: standard
+status: published
+publishDate: '2026-01-19T09:19:30+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "Home"
-slug: "17-modern-design-trends-that-guests-instantly-dislike"
+  - Decor Ideas
+  - Design
+  - Home
+slug: 17-modern-design-trends-that-guests-instantly-dislike
 reading_time: 3
-source_url: "https://decoratingtricks.com/17-modern-design-trends-that-guests-instantly-dislike/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/17-modern-design-trends-that-guests-instantly-dislike/
+imported_from: wordpress
 wp_original_id: 21547
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/17-modern-design-trends-that-guests-instantly-dislike.webp
 seo:
-  canonical: "https://decoratingtricks.com/17-modern-design-trends-that-guests-instantly-dislike/"
-  og_title: "17 Modern Design Trends That Guests Instantly Dislike - Decorating Tricks"
-  og_description: "As modern home design trends evolve, they evoke mixed reactions. Open floor plans, minimalism, and industrial elements face criticism for lacking privacy, warmth, and comfort. Personalization is key to balancing style and functionality, ensuring homes remain inviting and expressive."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/17-modern-design-trends-that-guests-instantly-dislike/
+  og_title: 17 Modern Design Trends That Guests Instantly Dislike - Decorating Tricks
+  og_description: >-
+    As modern home design trends evolve, they evoke mixed reactions. Open floor
+    plans, minimalism, and industrial elements face criticism for lacking
+    privacy, warmth, and comfort. Personalization is key to balancing style and
+    functionality, ensuring homes remain inviting and expressive.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate content, but significantly under the target word count at 452 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accurate content, but significantly
+  under the target word count at 452 words versus the 800-1200 range.
+image_alt: >-
+  Minimal modern living room with cold finishes softened by one warm personal
+  accent
 ---
 
 As the world of interior design continuously evolves, certain modern home design trends have sparked a mix of admiration and aversion among homeowners and designers alike. While some styles capture the essence of contemporary elegance, others leave much to be desired, prompting a reevaluation of their place in our living spaces.
