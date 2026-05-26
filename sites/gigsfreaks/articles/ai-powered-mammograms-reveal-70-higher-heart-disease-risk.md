@@ -1,24 +1,34 @@
 ---
-title: "AI-Powered Mammograms Reveal 70% Higher Heart Disease Risk"
-description: "Researchers have discovered that AI-powered analysis of routine mammogram images can detect arterial calcifications that indicate heart disease risk, offering a 70% greater detection rate compared to traditional methods and enabling dual screening for both breast cancer and heart conditions."
-type: "standard"
-status: "review"
-publishDate: "2026-03-12T10:17:35+00:00"
-author: "Nico Harper"
+title: AI-Powered Mammograms Reveal 70% Higher Heart Disease Risk
+description: >-
+  Researchers have discovered that AI-powered analysis of routine mammogram
+  images can detect arterial calcifications that indicate heart disease risk,
+  offering a 70% greater detection rate compared to traditional methods and
+  enabling dual screening for both breast cancer and heart conditions.
+type: standard
+status: review
+publishDate: '2026-03-12T10:17:35+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "ai-powered-mammograms-reveal-70-higher-heart-disease-risk"
+  - Hot Trends
+slug: ai-powered-mammograms-reveal-70-higher-heart-disease-risk
 reading_time: 3
-source_url: "https://gigsfreaks.com/ai-powered-mammograms-reveal-70-higher-heart-disease-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/ai-powered-mammograms-reveal-70-higher-heart-disease-risk/
+imported_from: wordpress
 wp_original_id: 1035
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/ai-powered-mammograms-reveal-70-higher-heart-disease-risk.webp
 seo:
-  canonical: "https://gigsfreaks.com/ai-powered-mammograms-reveal-70-higher-heart-disease-risk/"
-  og_title: "AI-Powered Mammograms Reveal 70% Higher Heart Disease Risk - GigsFreaks"
-  og_description: "Researchers have discovered that routine mammograms can provide insights into heart disease risk by using artificial intelligence, allowing for dual screening of breast cancer and heart conditions, potentially saving lives and improving women's health outcomes."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/ai-powered-mammograms-reveal-70-higher-heart-disease-risk/
+  og_title: AI-Powered Mammograms Reveal 70% Higher Heart Disease Risk - GigsFreaks
+  og_description: >-
+    Researchers have discovered that routine mammograms can provide insights
+    into heart disease risk by using artificial intelligence, allowing for dual
+    screening of breast cancer and heart conditions, potentially saving lives
+    and improving women's health outcomes.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 34
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: "This medical research article doesn't match gigsfreaks' entertainment focus and lacks the engaging, conversational tone expected for the target audience of entertainment enthusiasts."
+quality_note: >-
+  This medical research article doesn't match gigsfreaks' entertainment focus
+  and lacks the engaging, conversational tone expected for the target audience
+  of entertainment enthusiasts.
+image_alt: >-
+  Modern mammography workstation with abstract AI and heart-health analysis
+  overlays
 ---
 
 In a groundbreaking advancement, researchers have discovered that routine mammograms, often used for breast cancer screening, can also provide critical insights into heart disease risk. By leveraging artificial intelligence (AI), these screenings can identify signs of heart conditions, offering a dual benefit and potentially saving countless lives.
