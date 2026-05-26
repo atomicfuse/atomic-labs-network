@@ -1,26 +1,36 @@
 ---
-title: "The Fascination with Patina: What It Reveals About Us"
-description: "The allure of patina captivates the design world by blending history and aesthetics, transforming perceptions of new versus old. This trend celebrates age and imperfection, offering a tangible connection to the past across furniture, architecture, and fashion."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T09:21:30+00:00"
-author: "Taylor Winters"
+title: 'The Fascination with Patina: What It Reveals About Us'
+description: >-
+  The allure of patina captivates the design world by blending history and
+  aesthetics, transforming perceptions of new versus old. This trend celebrates
+  age and imperfection, offering a tangible connection to the past across
+  furniture, architecture, and fashion.
+type: standard
+status: published
+publishDate: '2026-02-16T09:21:30+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "Home"
-slug: "the-fascination-with-patina-what-it-reveals-about-us"
+  - Decor Ideas
+  - Design
+  - Home
+slug: the-fascination-with-patina-what-it-reveals-about-us
 reading_time: 4
-source_url: "https://decoratingtricks.com/the-fascination-with-patina-what-it-reveals-about-us/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/the-fascination-with-patina-what-it-reveals-about-us/
+imported_from: wordpress
 wp_original_id: 21569
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/the-fascination-with-patina-what-it-reveals-about-us.webp
 seo:
-  canonical: "https://decoratingtricks.com/the-fascination-with-patina-what-it-reveals-about-us/"
-  og_title: "The Fascination with Patina: What It Reveals About Us - Decorating Tricks"
-  og_description: "The allure of patina captivates the design world by blending history and aesthetics, transforming perceptions of new versus old. This trend celebrates age and imperfection, offering a tangible connection to the past across furniture, architecture, and fashion."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2026/02/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/the-fascination-with-patina-what-it-reveals-about-us/
+  og_title: 'The Fascination with Patina: What It Reveals About Us - Decorating Tricks'
+  og_description: >-
+    The allure of patina captivates the design world by blending history and
+    aesthetics, transforming perceptions of new versus old. This trend
+    celebrates age and imperfection, offering a tangible connection to the past
+    across furniture, architecture, and fashion.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2026/02/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with engaging tone and good design focus, but falls short on length and could benefit from stronger SEO optimization including meta description length and more actionable DIY elements."
+quality_note: >-
+  Well-written article with engaging tone and good design focus, but falls short
+  on length and could benefit from stronger SEO optimization including meta
+  description length and more actionable DIY elements.
+image_alt: >-
+  Sunlit interior with aged brass, worn leather, weathered wood, and textured
+  plaster in a refined design setting.
 ---
 
 In recent years, the allure of patina has captivated the design world, blending history and aesthetics in a unique way. This fascination with surfaces that tell stories is transforming how we perceive new versus old, giving rise to a trend that celebrates the beauty of age and imperfection. From furniture and architecture to fashion and accessories, patina provides a tangible connection to the past while enhancing the character and depth of objects in our present.
