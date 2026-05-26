@@ -1,23 +1,31 @@
 ---
-title: "PBS Kids Perseveres with ‘Phoebe & Jay’ Despite Funding Cuts"
-description: "PBS is shifting its children's programming by reducing funding for some shows to focus on new projects, aiming to address current educational needs while maintaining quality, though the changes have sparked mixed reactions from communities accustomed to familiar content."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T11:48:46+00:00"
-author: "Jennifer Clarkson"
+title: PBS Kids Perseveres with ‘Phoebe & Jay’ Despite Funding Cuts
+description: >-
+  PBS is shifting its children's programming by reducing funding for some shows
+  to focus on new projects, aiming to address current educational needs while
+  maintaining quality, though the changes have sparked mixed reactions from
+  communities accustomed to familiar content.
+type: standard
+status: review
+publishDate: '2026-02-02T11:48:46+00:00'
+author: Jennifer Clarkson
 tags:
-  - "TV Shows"
-slug: "pbs-kids-perseveres-with-phoebe-jay-despite-funding-cuts"
+  - TV Shows
+slug: pbs-kids-perseveres-with-phoebe-jay-despite-funding-cuts
 reading_time: 3
-source_url: "https://muvizz.com/pbs-kids-perseveres-with-phoebe-jay-despite-funding-cuts/"
-imported_from: "wordpress"
+source_url: 'https://muvizz.com/pbs-kids-perseveres-with-phoebe-jay-despite-funding-cuts/'
+imported_from: wordpress
 wp_original_id: 28238
-featuredImage: "/assets/images/muvizz-general-article.webp"
+featuredImage: /assets/images/pbs-kids-perseveres-with-phoebe-jay-despite-funding-cuts.webp
 seo:
-  canonical: "https://muvizz.com/pbs-kids-perseveres-with-phoebe-jay-despite-funding-cuts/"
-  og_title: "PBS Kids Perseveres with 'Phoebe & Jay' Despite Funding Cuts - Muvizz"
-  og_description: "PBS is shifting its children's programming by reducing funding for some shows to focus on new projects. This strategic change aims to address current educational needs while maintaining quality, though it has sparked mixed reactions from communities accustomed to familiar content."
-  twitter_card: "summary_large_image"
+  canonical: 'https://muvizz.com/pbs-kids-perseveres-with-phoebe-jay-despite-funding-cuts/'
+  og_title: PBS Kids Perseveres with 'Phoebe & Jay' Despite Funding Cuts - Muvizz
+  og_description: >-
+    PBS is shifting its children's programming by reducing funding for some
+    shows to focus on new projects. This strategic change aims to address
+    current educational needs while maintaining quality, though it has sparked
+    mixed reactions from communities accustomed to familiar content.
+  twitter_card: summary_large_image
 quality_score: 54
 score_breakdown:
   seo_quality: 45
@@ -25,7 +33,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 30
   keyword_relevance: 75
-quality_note: "The article suffers from vague, unsubstantiated claims about PBS programming changes without specific details or sources, significantly impacting factual accuracy and SEO effectiveness."
+quality_note: >-
+  The article suffers from vague, unsubstantiated claims about PBS programming
+  changes without specific details or sources, significantly impacting factual
+  accuracy and SEO effectiveness.
+image_alt: >-
+  A glowing children’s puppet stage in a quiet studio surrounded by boxes and
+  dimmed lights.
 ---
 
 PBS has long been a cornerstone of educational children's programming, offering quality content that entertains and enlightens young minds. Recently, however, the network announced significant changes to its lineup, impacting beloved shows and the communities they serve.
