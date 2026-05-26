@@ -1,27 +1,37 @@
 ---
-title: "Expert Makeup Tips for Stunning New Year’s Eve Looks"
-description: "With New Year's Eve approaching, enhance your beauty routine with expert makeup tips for a memorable night. From prepping skin to choosing the perfect foundation, these steps ensure confidence and a stunning look for any celebration."
-type: "standard"
-status: "published"
-publishDate: "2025-12-29T09:37:28+00:00"
-author: "Taylor Winters"
+title: Expert Makeup Tips for Stunning New Year’s Eve Looks
+description: >-
+  With New Year's Eve approaching, enhance your beauty routine with expert
+  makeup tips for a memorable night. From prepping skin to choosing the perfect
+  foundation, these steps ensure confidence and a stunning look for any
+  celebration.
+type: standard
+status: published
+publishDate: '2025-12-29T09:37:28+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-  - "Makeup Tutorial"
-slug: "expert-makeup-tips-for-stunning-new-years-eve-looks"
+  - Travel Tips
+  - Beauty
+  - Makeup Hacks
+  - Makeup Tutorial
+slug: expert-makeup-tips-for-stunning-new-years-eve-looks
 reading_time: 4
-source_url: "https://travelbeautytips.com/expert-makeup-tips-for-stunning-new-years-eve-looks/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/expert-makeup-tips-for-stunning-new-years-eve-looks/
+imported_from: wordpress
 wp_original_id: 36103
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/expert-makeup-tips-for-stunning-new-years-eve-looks.webp
 seo:
-  canonical: "https://travelbeautytips.com/expert-makeup-tips-for-stunning-new-years-eve-looks/"
-  og_title: "Expert Makeup Tips for Stunning New Year's Eve Looks - Travel Beauty Tips"
-  og_description: "With New Year’s Eve approaching, enhance your beauty routine with expert makeup tips for a memorable night. From prepping skin to choosing the perfect foundation, these steps ensure confidence and a stunning look for any celebration."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/12/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/expert-makeup-tips-for-stunning-new-years-eve-looks/
+  og_title: Expert Makeup Tips for Stunning New Year's Eve Looks - Travel Beauty Tips
+  og_description: >-
+    With New Year’s Eve approaching, enhance your beauty routine with expert
+    makeup tips for a memorable night. From prepping skin to choosing the
+    perfect foundation, these steps ensure confidence and a stunning look for
+    any celebration.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/12/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written beauty guide with engaging tone and accurate advice, but falls short on word count (620 vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written beauty guide with engaging tone and accurate advice, but falls
+  short on word count (620 vs 800-1200 target) and could benefit from stronger
+  SEO optimization.
+image_alt: >-
+  Confident person applying shimmering New Year’s Eve makeup at a softly lit
+  vanity
 ---
 
 With New Year's Eve just around the corner, many are looking to step up their beauty game for the ultimate party look. Whether you're attending a glamorous event or a cozy gathering, achieving a stunning makeup look can set the tone for a memorable night. Let's explore expert makeup tips that can elevate your look and ensure you start the new year with confidence.
