@@ -1,24 +1,30 @@
 ---
-title: "Euphoria Season 3 Episode 6 Recap Rue Finds God"
-description: "Euphoria episode 6 turns aftermath into tension as Rue faces withdrawal, Nate reclaims control through fear, Cassie spirals, and Lexi's play threatens to expose East Highland's deepest wounds."
-type: "standard"
-status: "review"
-publishDate: "2026-05-18T09:20:46+00:00"
-author: "Becca Roberts"
+title: Euphoria Season 3 Episode 6 Recap Rue Finds God
+description: >-
+  Euphoria episode 6 turns aftermath into tension as Rue faces withdrawal, Nate
+  reclaims control through fear, Cassie spirals, and Lexi's play threatens to
+  expose East Highland's deepest wounds.
+type: standard
+status: review
+publishDate: '2026-05-18T09:20:46+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "euphoria-season-3-episode-6-recap-rue-finds-god"
+  - Watch
+slug: euphoria-season-3-episode-6-recap-rue-finds-god
 reading_time: 8
-source_url: "https://buzzsoaps.com/euphoria-season-3-episode-6-recap-rue-finds-god/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/euphoria-season-3-episode-6-recap-rue-finds-god/'
+imported_from: wordpress
 wp_original_id: 600
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/euphoria-season-3-episode-6-recap-rue-finds-god.webp
 seo:
-  canonical: "https://buzzsoaps.com/euphoria-season-3-episode-6-recap-rue-finds-god/"
-  og_title: "Euphoria Season 3 Episode 6 Recap Rue Finds God - BuzzSoaps!"
-  og_description: "Euphoria episode 6 turns aftermath into tension as Rue faces withdrawal, Nate reclaims control through fear, Cassie spirals, and Lexi’s play threatens to expose East Highland’s deepest wounds."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/euphoria-season-3-episode-6-recap-rue-finds-god/'
+  og_title: Euphoria Season 3 Episode 6 Recap Rue Finds God - BuzzSoaps!
+  og_description: >-
+    Euphoria episode 6 turns aftermath into tension as Rue faces withdrawal,
+    Nate reclaims control through fear, Cassie spirals, and Lexi’s play
+    threatens to expose East Highland’s deepest wounds.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 45
@@ -26,7 +32,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 30
   keyword_relevance: 75
-quality_note: "Well-written recap with engaging tone and appropriate length, but contains major factual inaccuracies about Euphoria Season 3 and episode details that don't exist."
+quality_note: >-
+  Well-written recap with engaging tone and appropriate length, but contains
+  major factual inaccuracies about Euphoria Season 3 and episode details that
+  don't exist.
+image_alt: >-
+  Empty school theater under a lone spotlight with a crumpled hoodie and shadowy
+  hallway beyond.
 ---
 
 HBO's _Euphoria_ turns episode 6 into a pressure chamber, where every secret feels closer to exploding. After Rue's terrifying relapse and public unraveling, the story shifts into emotional aftermath. The episode studies withdrawal, guilt, power, and denial with sharp focus. It also sets several relationships on irreversible paths before the season's final stretch.
