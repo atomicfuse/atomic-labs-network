@@ -1,24 +1,34 @@
 ---
-title: "Top 6 Plus-Size Fashion Trends to Wear Now"
-description: "Summer 2023 plus-size fashion highlights comfort, bold patterns, and versatile styles, offering inclusive options like vibrant prints, breathable fabrics, and stylish swimwear. Accessorizing with purpose enhances outfits, empowering individuals to express their unique style confidently throughout the season."
-type: "standard"
-status: "published"
-publishDate: "2026-02-09T09:51:28+00:00"
-author: "Taylor Winters"
+title: Top 6 Plus-Size Fashion Trends to Wear Now
+description: >-
+  Summer 2023 plus-size fashion highlights comfort, bold patterns, and versatile
+  styles, offering inclusive options like vibrant prints, breathable fabrics,
+  and stylish swimwear. Accessorizing with purpose enhances outfits, empowering
+  individuals to express their unique style confidently throughout the season.
+type: standard
+status: published
+publishDate: '2026-02-09T09:51:28+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "top-6-plus-size-fashion-trends-to-wear-now"
+  - Fashion
+slug: top-6-plus-size-fashion-trends-to-wear-now
 reading_time: 3
-source_url: "https://fashionnewsbee.com/top-6-plus-size-fashion-trends-to-wear-now/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/top-6-plus-size-fashion-trends-to-wear-now/'
+imported_from: wordpress
 wp_original_id: 31634
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-6-plus-size-fashion-trends-to-wear-now.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-6-plus-size-fashion-trends-to-wear-now/"
-  og_title: "Top 6 Plus-Size Fashion Trends to Wear Now - Fashion News Bee"
-  og_description: "Summer 2023 plus-size fashion highlights comfort, bold patterns, and versatile styles, offering inclusive options like vibrant prints, breathable fabrics, and stylish swimwear. Accessorizing with purpose enhances outfits, empowering individuals to express their unique style confidently throughout the season."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/top-6-plus-size-fashion-trends-to-wear-now/'
+  og_title: Top 6 Plus-Size Fashion Trends to Wear Now - Fashion News Bee
+  og_description: >-
+    Summer 2023 plus-size fashion highlights comfort, bold patterns, and
+    versatile styles, offering inclusive options like vibrant prints, breathable
+    fabrics, and stylish swimwear. Accessorizing with purpose enhances outfits,
+    empowering individuals to express their unique style confidently throughout
+    the season.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: Diverse plus-size models in colorful summer fashion pose on a sunny terrace.
 ---
 
 As the summer season approaches, fashion enthusiasts are eagerly exploring the latest trends to refresh their wardrobes. For those embracing plus-size fashion, the summer of 2023 offers an exciting array of styles designed to celebrate every shape and size. This year, the focus is on comfort, bold patterns, and innovative designs that empower individuals to express their unique style.
