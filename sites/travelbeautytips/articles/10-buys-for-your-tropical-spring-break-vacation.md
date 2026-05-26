@@ -1,25 +1,35 @@
 ---
-title: "10 Buys for Your Tropical Spring Break Vacation"
-description: "A curated guide to 10 stylish fashion picks for a tropical spring break vacation, featuring breezy dresses, swimwear, accessories, and footwear from top designers."
-type: "standard"
-status: "review"
-publishDate: "2025-03-01T19:01:36+00:00"
-author: "Taylor Winters"
+title: 10 Buys for Your Tropical Spring Break Vacation
+description: >-
+  A curated guide to 10 stylish fashion picks for a tropical spring break
+  vacation, featuring breezy dresses, swimwear, accessories, and footwear from
+  top designers.
+type: standard
+status: review
+publishDate: '2025-03-01T19:01:36+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Fashion"
-slug: "10-buys-for-your-tropical-spring-break-vacation"
+  - Travel Tips
+  - Fashion
+slug: 10-buys-for-your-tropical-spring-break-vacation
 reading_time: 2
-source_url: "https://travelbeautytips.com/10-buys-for-your-tropical-spring-break-vacation/"
-imported_from: "wordpress"
+source_url: 'https://travelbeautytips.com/10-buys-for-your-tropical-spring-break-vacation/'
+imported_from: wordpress
 wp_original_id: 35849
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/10-buys-for-your-tropical-spring-break-vacation.webp
 seo:
-  canonical: "https://travelbeautytips.com/10-buys-for-your-tropical-spring-break-vacation/"
-  og_title: "10 Buys for Your Tropical Spring Break Vacation - Travel Beauty Tips"
-  og_description: "1 Adriana Degreas Vintage Lily Long Dress With Straps When humidity and temperatures are soaring, an airy silhouette in earthy tones will always hit. Pull a denim jacket over your shoulders if that tropical breeze picks up. 2 PatBO Candy Linen Short Never overlook the versatility of linen. This high-waisted short is eternally flattering, and [&hellip;]"
-  og_image: "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1739977622-61JMIZNhFlL.jpg?crop=0.902xw:0.753xh;0.0433xw,0.121xh&amp;resize=980:*"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/10-buys-for-your-tropical-spring-break-vacation/
+  og_title: 10 Buys for Your Tropical Spring Break Vacation - Travel Beauty Tips
+  og_description: >-
+    1 Adriana Degreas Vintage Lily Long Dress With Straps When humidity and
+    temperatures are soaring, an airy silhouette in earthy tones will always
+    hit. Pull a denim jacket over your shoulders if that tropical breeze picks
+    up. 2 PatBO Candy Linen Short Never overlook the versatility of linen. This
+    high-waisted short is eternally flattering, and [&hellip;]
+  og_image: >-
+    https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1739977622-61JMIZNhFlL.jpg?crop=0.902xw:0.753xh;0.0433xw,0.121xh&amp;resize=980:*
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 45
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 32
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "While the tone and fashion focus are appropriate, the article is significantly too short at 319 words and lacks proper SEO optimization with missing meta description and weak heading structure."
+quality_note: >-
+  While the tone and fashion focus are appropriate, the article is significantly
+  too short at 319 words and lacks proper SEO optimization with missing meta
+  description and weak heading structure.
+image_alt: >-
+  Stylish tropical vacation fashion essentials arranged on a sunny resort
+  terrace by the ocean
 ---
 
 ## 1. Adriana Degreas Vintage Lily Long Dress With Straps
