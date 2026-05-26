@@ -1,24 +1,32 @@
 ---
-title: "Microsoft Dismisses Two Employees After Office Protest"
-description: "Microsoft's dismissal of two employees following a protest at its Redmond campus highlights the challenges of managing employee activism and corporate culture, raising questions about balancing employee expression with company policies and operational stability."
-type: "standard"
-status: "published"
-publishDate: "2025-09-28T05:29:27+00:00"
-author: "Lena Ashwood"
+title: Microsoft Dismisses Two Employees After Office Protest
+description: >-
+  Microsoft's dismissal of two employees following a protest at its Redmond
+  campus highlights the challenges of managing employee activism and corporate
+  culture, raising questions about balancing employee expression with company
+  policies and operational stability.
+type: standard
+status: published
+publishDate: '2025-09-28T05:29:27+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "microsoft-dismisses-two-employees-after-office-protest"
+  - Tech
+slug: microsoft-dismisses-two-employees-after-office-protest
 reading_time: 3
-source_url: "https://mindsbit.com/microsoft-dismisses-two-employees-after-office-protest/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/microsoft-dismisses-two-employees-after-office-protest/'
+imported_from: wordpress
 wp_original_id: 394
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/microsoft-dismisses-two-employees-after-office-protest.webp
 seo:
-  canonical: "https://mindsbit.com/microsoft-dismisses-two-employees-after-office-protest/"
-  og_title: "Microsoft Dismisses Two Employees After Office Protest - Minds bit"
-  og_description: "Microsoft's dismissal of two employees following a protest at its Redmond campus highlights the challenges of managing employee activism and corporate culture. This incident raises questions about balancing employee expression with company policies and operational stability."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/microsoft-dismisses-two-employees-after-office-protest/'
+  og_title: Microsoft Dismisses Two Employees After Office Protest - Minds bit
+  og_description: >-
+    Microsoft's dismissal of two employees following a protest at its Redmond
+    campus highlights the challenges of managing employee activism and corporate
+    culture. This incident raises questions about balancing employee expression
+    with company policies and operational stability.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with appropriate tone and good tech relevance, but falls short on length requirements and lacks specific details that could impact factual accuracy assessment."
+quality_note: >-
+  Well-written article with appropriate tone and good tech relevance, but falls
+  short on length requirements and lacks specific details that could impact
+  factual accuracy assessment.
+image_alt: >-
+  Employees with blank protest signs stand outside a modern corporate office on
+  an overcast day.
 ---
 
 In a significant development, Microsoft recently dismissed two employees related to a protest incident at its Redmond campus. This action highlights the company's response to internal disagreements and the larger implications for corporate culture and employee activism. The incident has drawn attention to how major tech companies navigate internal dissent and manage their public image.
