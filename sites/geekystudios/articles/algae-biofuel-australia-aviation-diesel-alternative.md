@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://techxplore.com/news/2026-05-biofuels-havent-panned-algae-diesel.html'
 source_item_id: 6a152d8216f23264031d81b4
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/algae-biofuel-australia-aviation-diesel-alternative.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   conversational tone, though slightly under target word count and relies
   heavily on vague sourcing.
 reading_time: 3
+image_alt: >-
+  Green algae bioreactors lead toward a distant truck and plane in an Australian
+  outback landscape.
 ---
 ## The Fuel Security Challenge Australia Faces
 
