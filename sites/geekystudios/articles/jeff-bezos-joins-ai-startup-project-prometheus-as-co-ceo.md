@@ -1,24 +1,34 @@
 ---
-title: "Jeff Bezos Joins AI Startup Project Prometheus as Co-CEO"
-description: "Jeff Bezos channels his expertise into Project Prometheus, a bold initiative aiming to revolutionize AI by solving complex problems with cutting-edge technology. The project, backed by industry veterans and substantial funding, seeks to transform sectors like healthcare and finance."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T10:22:45+00:00"
-author: "Arthur Daly"
+title: Jeff Bezos Joins AI Startup Project Prometheus as Co-CEO
+description: >-
+  Jeff Bezos channels his expertise into Project Prometheus, a bold initiative
+  aiming to revolutionize AI by solving complex problems with cutting-edge
+  technology. The project, backed by industry veterans and substantial funding,
+  seeks to transform sectors like healthcare and finance.
+type: standard
+status: review
+publishDate: '2025-11-17T10:22:45+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "jeff-bezos-joins-ai-startup-project-prometheus-as-co-ceo"
+  - Tech
+slug: jeff-bezos-joins-ai-startup-project-prometheus-as-co-ceo
 reading_time: 3
-source_url: "https://geekystudios.com/jeff-bezos-joins-ai-startup-project-prometheus-as-co-ceo/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/jeff-bezos-joins-ai-startup-project-prometheus-as-co-ceo/
+imported_from: wordpress
 wp_original_id: 660
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/jeff-bezos-joins-ai-startup-project-prometheus-as-co-ceo.webp
 seo:
-  canonical: "https://geekystudios.com/jeff-bezos-joins-ai-startup-project-prometheus-as-co-ceo/"
-  og_title: "Jeff Bezos Joins AI Startup Project Prometheus as Co-CEO - Geeky Studios"
-  og_description: "Jeff Bezos channels his expertise into Project Prometheus, a bold initiative aiming to revolutionize AI by solving complex problems with cutting-edge technology. The project, backed by industry veterans and substantial funding, seeks to transform sectors like healthcare and finance."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/jeff-bezos-joins-ai-startup-project-prometheus-as-co-ceo/
+  og_title: Jeff Bezos Joins AI Startup Project Prometheus as Co-CEO - Geeky Studios
+  og_description: >-
+    Jeff Bezos channels his expertise into Project Prometheus, a bold initiative
+    aiming to revolutionize AI by solving complex problems with cutting-edge
+    technology. The project, backed by industry veterans and substantial
+    funding, seeks to transform sectors like healthcare and finance.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 49
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 10
   keyword_relevance: 80
-quality_note: "The article appears to contain fabricated information about Jeff Bezos and a fictional 'Project Prometheus' venture, which severely undermines its credibility despite decent tech coverage and appropriate tone."
+quality_note: >-
+  The article appears to contain fabricated information about Jeff Bezos and a
+  fictional 'Project Prometheus' venture, which severely undermines its
+  credibility despite decent tech coverage and appropriate tone.
+image_alt: >-
+  Silhouetted executive facing a glowing abstract AI network in a futuristic
+  command room
 ---
 
 In the ever-evolving landscape of technology, innovation continues to drive significant breakthroughs. This is particularly evident in the realm of artificial intelligence (AI), where industry giants and visionary entrepreneurs are making strides to shape the future. Jeff Bezos, renowned for his transformative role at Amazon, is now channeling his expertise and resources into a promising new venture. Through a strategic collaboration with Project Prometheus, Bezos is poised to further revolutionize the AI sector.
