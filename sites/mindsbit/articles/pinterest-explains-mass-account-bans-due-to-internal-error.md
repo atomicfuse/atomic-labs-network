@@ -1,24 +1,33 @@
 ---
-title: "Pinterest Explains Mass Account Bans Due to Internal Error"
-description: "Pinterest users faced mass account suspensions due to an internal technical glitch, prompting the platform to address user frustrations, restore affected accounts, and implement measures to prevent similar issues in the future."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:08:12+00:00"
-author: "Lena Ashwood"
+title: Pinterest Explains Mass Account Bans Due to Internal Error
+description: >-
+  Pinterest users faced mass account suspensions due to an internal technical
+  glitch, prompting the platform to address user frustrations, restore affected
+  accounts, and implement measures to prevent similar issues in the future.
+type: standard
+status: review
+publishDate: '2025-05-18T11:08:12+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "pinterest-explains-mass-account-bans-due-to-internal-error"
+  - Tech
+slug: pinterest-explains-mass-account-bans-due-to-internal-error
 reading_time: 3
-source_url: "https://mindsbit.com/pinterest-explains-mass-account-bans-due-to-internal-error/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindsbit.com/pinterest-explains-mass-account-bans-due-to-internal-error/
+imported_from: wordpress
 wp_original_id: 341
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/pinterest-explains-mass-account-bans-due-to-internal-error.webp
 seo:
-  canonical: "https://mindsbit.com/pinterest-explains-mass-account-bans-due-to-internal-error/"
-  og_title: "Pinterest Explains Mass Account Bans Due to Internal Error - Minds bit"
-  og_description: "Pinterest users faced account suspensions causing frustration across social media. The platform attributed the issue to a technical glitch and has been working to restore affected accounts. Efforts are underway to enhance system reliability and user trust."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-40.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindsbit.com/pinterest-explains-mass-account-bans-due-to-internal-error/
+  og_title: Pinterest Explains Mass Account Bans Due to Internal Error - Minds bit
+  og_description: >-
+    Pinterest users faced account suspensions causing frustration across social
+    media. The platform attributed the issue to a technical glitch and has been
+    working to restore affected accounts. Efforts are underway to enhance system
+    reliability and user trust.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-40.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and tech focus, but significantly under target word count and lacks specific details or sources to verify the technical incident described."
+quality_note: >-
+  Well-written article with good tone and tech focus, but significantly under
+  target word count and lacks specific details or sources to verify the
+  technical incident described.
+image_alt: >-
+  Abstract profile cards and server screens suggest a social platform error and
+  account restoration.
 ---
 
 In recent times, Pinterest users have experienced a wave of account suspensions that sparked widespread dissatisfaction among its community. The platform's unexpected actions have led to numerous users expressing their frustrations on various social media channels. As a result, Pinterest has been prompted to address these concerns and provide clarity regarding the situation.
