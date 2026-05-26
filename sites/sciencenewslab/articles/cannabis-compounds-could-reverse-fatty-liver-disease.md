@@ -1,22 +1,28 @@
 ---
-title: "Cannabis Compounds Could Reverse Fatty Liver Disease"
-description: "Research suggests that cannabinoids in cannabis may help reverse fatty liver disease by reducing fat accumulation and inflammation, offering potential for new treatments. Further studies are needed to confirm these findings and establish safe, effective therapies."
-type: "standard"
-status: "review"
-publishDate: "2026-03-19T14:03:26"
-author: "Taylor Winters"
+title: Cannabis Compounds Could Reverse Fatty Liver Disease
+description: >-
+  Research suggests that cannabinoids in cannabis may help reverse fatty liver
+  disease by reducing fat accumulation and inflammation, offering potential for
+  new treatments. Further studies are needed to confirm these findings and
+  establish safe, effective therapies.
+type: standard
+status: review
+publishDate: '2026-03-19T14:03:26'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "cannabis-compounds-could-reverse-fatty-liver-disease"
+  - Space
+  - Humans
+slug: cannabis-compounds-could-reverse-fatty-liver-disease
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/cannabis-compounds-could-reverse-fatty-liver-disease/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/cannabis-compounds-could-reverse-fatty-liver-disease/
+imported_from: wordpress
 wp_original_id: 15092
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/cannabis-compounds-could-reverse-fatty-liver-disease.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/cannabis-compounds-could-reverse-fatty-liver-disease/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/cannabis-compounds-could-reverse-fatty-liver-disease/
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 25
-quality_note: "Well-written medical content with good tone and structure, but significantly too short and poorly aligned with the site's science focus areas of Space, Nature, Physics, Technology, and Environment."
+quality_note: >-
+  Well-written medical content with good tone and structure, but significantly
+  too short and poorly aligned with the site's science focus areas of Space,
+  Nature, Physics, Technology, and Environment.
+image_alt: >-
+  Glowing liver silhouette with fading fat droplets and subtle botanical
+  molecular forms
 ---
 
 The potential of cannabis compounds in treating health issues has been a subject of research for years. Recently, a study has shed light on the possibility that certain compounds found in cannabis might offer a therapeutic approach to combat fatty liver disease, a condition affecting millions globally.
