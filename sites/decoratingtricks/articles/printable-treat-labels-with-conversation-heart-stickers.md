@@ -1,24 +1,34 @@
 ---
-title: "Printable Treat Labels with Conversation Heart Stickers"
-description: "Learn how to make fun conversation heart stickers using printable treat labels in just minutes, perfect for personalizing Valentine's Day gift bags and treat containers."
-type: "standard"
-status: "published"
-publishDate: "2025-01-21T13:37:26+00:00"
-author: "admin"
+title: Printable Treat Labels with Conversation Heart Stickers
+description: >-
+  Learn how to make fun conversation heart stickers using printable treat labels
+  in just minutes, perfect for personalizing Valentine's Day gift bags and treat
+  containers.
+type: standard
+status: published
+publishDate: '2025-01-21T13:37:26+00:00'
+author: admin
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "printable-treat-labels-with-conversation-heart-stickers"
+  - Decor Ideas
+  - Design
+slug: printable-treat-labels-with-conversation-heart-stickers
 reading_time: 4
-source_url: "https://decoratingtricks.com/printable-treat-labels-with-conversation-heart-stickers/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/printable-treat-labels-with-conversation-heart-stickers/
+imported_from: wordpress
 wp_original_id: 21189
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/printable-treat-labels-with-conversation-heart-stickers.webp
 seo:
-  canonical: "https://decoratingtricks.com/printable-treat-labels-with-conversation-heart-stickers/"
-  og_title: "Printable Treat Labels with Conversation Heart Stickers - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. Grab some heart labels and make [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/printable-treat-labels-with-conversation-heart-stickers/
+  og_title: Printable Treat Labels with Conversation Heart Stickers - Decorating Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. Grab some heart labels and
+    make [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "Well-written DIY craft article with engaging tone and clear instructions, but falls short on word count and could better integrate broader home decor keywords beyond Valentine's crafts."
+quality_note: >-
+  Well-written DIY craft article with engaging tone and clear instructions, but
+  falls short on word count and could better integrate broader home decor
+  keywords beyond Valentine's crafts.
+image_alt: >-
+  Pastel heart stickers, treat bags, and craft supplies arranged on a bright
+  Valentine's Day table
 ---
 
 Grab some heart labels and make your own conversation heart stickers in just a few minutes. You can then use these printable treat labels for all things Valentine's Day. Want more quick and easy Valentine's Day crafts? Be sure to check out even [more Valentine's Day ideas here](https://www.thecountrychiccottage.net/easy-valentines-day-crafts/).
