@@ -1,24 +1,32 @@
 ---
-title: "The Real Housewives of Miami: Dramatic Episode Recap"
-description: "The latest season of \"Real Housewives of Miami\" offers a captivating mix of rekindled friendships, new personalities, and personal growth, set against the glamorous backdrop of Miami. Viewers can expect drama, emotion, and compelling stories of resilience."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T06:40:18+00:00"
-author: "Becca Roberts"
+title: 'The Real Housewives of Miami: Dramatic Episode Recap'
+description: >-
+  The latest season of "Real Housewives of Miami" offers a captivating mix of
+  rekindled friendships, new personalities, and personal growth, set against the
+  glamorous backdrop of Miami. Viewers can expect drama, emotion, and compelling
+  stories of resilience.
+type: standard
+status: review
+publishDate: '2025-08-07T06:40:18+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "the-real-housewives-of-miami-dramatic-episode-recap"
+  - Watch
+slug: the-real-housewives-of-miami-dramatic-episode-recap
 reading_time: 3
-source_url: "https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-episode-recap/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-episode-recap/'
+imported_from: wordpress
 wp_original_id: 461
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/the-real-housewives-of-miami-dramatic-episode-recap.webp
 seo:
-  canonical: "https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-episode-recap/"
-  og_title: "The Real Housewives of Miami: Dramatic Episode Recap - BuzzSoaps!"
-  og_description: "The latest season of \"Real Housewives of Miami\" offers a captivating mix of rekindled friendships, new personalities, and personal growth, set against the glamorous backdrop of Miami. Viewers can expect drama, emotion, and compelling stories of resilience."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/08/make_file-3.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/the-real-housewives-of-miami-dramatic-episode-recap/'
+  og_title: 'The Real Housewives of Miami: Dramatic Episode Recap - BuzzSoaps!'
+  og_description: >-
+    The latest season of "Real Housewives of Miami" offers a captivating mix of
+    rekindled friendships, new personalities, and personal growth, set against
+    the glamorous backdrop of Miami. Viewers can expect drama, emotion, and
+    compelling stories of resilience.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/08/make_file-3.png'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 65
-quality_note: "The article maintains good tone and avoids fabrications but falls significantly short on length (420 words vs 800-1200 target) and lacks strong SEO optimization with a generic title and missing meta description."
+quality_note: >-
+  The article maintains good tone and avoids fabrications but falls
+  significantly short on length (420 words vs 800-1200 target) and lacks strong
+  SEO optimization with a generic title and missing meta description.
+image_alt: >-
+  Glamorous Miami rooftop gathering with silhouetted women and a dramatic dusk
+  skyline
 ---
 
 The glitzy and vibrant world of Miami never ceases to provide drama and excitement, especially when it comes to the lives of the "Real Housewives of Miami." As the latest season unfolds, viewers are treated to a whirlwind of emotions, friendships, and rivalries, making it a must-watch for fans of reality television.
