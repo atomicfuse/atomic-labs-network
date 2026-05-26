@@ -1,24 +1,32 @@
 ---
-title: "Fortnite iOS Unavailability: Global Impact Explained"
-description: "Fortnite has been removed from the Apple App Store due to a legal dispute between Epic Games and Apple over app store policies, affecting millions of iOS users and sparking debates about app store dominance, developer rights, and digital marketplace regulation."
-type: "standard"
-status: "published"
-publishDate: "2025-05-18T11:06:05+00:00"
-author: "Lena Ashwood"
+title: 'Fortnite iOS Unavailability: Global Impact Explained'
+description: >-
+  Fortnite has been removed from the Apple App Store due to a legal dispute
+  between Epic Games and Apple over app store policies, affecting millions of
+  iOS users and sparking debates about app store dominance, developer rights,
+  and digital marketplace regulation.
+type: standard
+status: published
+publishDate: '2025-05-18T11:06:05+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "fortnite-ios-unavailability-global-impact-explained"
+  - Tech
+slug: fortnite-ios-unavailability-global-impact-explained
 reading_time: 4
-source_url: "https://mindsbit.com/fortnite-ios-unavailability-global-impact-explained/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/fortnite-ios-unavailability-global-impact-explained/'
+imported_from: wordpress
 wp_original_id: 324
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/fortnite-ios-unavailability-global-impact-explained.webp
 seo:
-  canonical: "https://mindsbit.com/fortnite-ios-unavailability-global-impact-explained/"
-  og_title: "Fortnite iOS Unavailability: Global Impact Explained - Minds bit"
-  og_description: "Fortnite has been removed from the Apple App Store due to a legal dispute between Epic Games and Apple over app store policies, affecting millions of iOS users and sparking debates about app store dominance, developer rights, and digital marketplace regulation."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-32.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/fortnite-ios-unavailability-global-impact-explained/'
+  og_title: 'Fortnite iOS Unavailability: Global Impact Explained - Minds bit'
+  og_description: >-
+    Fortnite has been removed from the Apple App Store due to a legal dispute
+    between Epic Games and Apple over app store policies, affecting millions of
+    iOS users and sparking debates about app store dominance, developer rights,
+    and digital marketplace regulation.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-32.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 645 words, which heavily impacts the overall quality score."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 645 words, which heavily impacts the overall quality
+  score.
+image_alt: >-
+  A smartphone with an empty app slot amid abstract global user silhouettes and
+  legal architecture shadows
 ---
 
 The landscape of mobile gaming has recently faced a significant shift as Fortnite, one of the most popular games globally, became inaccessible on iOS devices. This development stems from a legal clash between Epic Games and Apple, which has resulted in the removal of Fortnite from the Apple App Store. This situation has left millions of users wondering about the future of their beloved game on Apple platforms.
