@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-tesla-shows-600m-bitcoin-profit-realization-because-of-accounting-rule-change
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/tesla-shows-600m-bitcoin-profit-realization-because-of-accounting-rule-change.webp
 reading_time: 2
 quality_score: 56
 score_breakdown:
@@ -36,6 +37,9 @@ quality_note: >-
   The article has decent SEO structure and tone but is severely under length at
   374 words, and presents potentially fabricated financial claims without proper
   sourcing, which raises significant factual accuracy concerns.
+image_alt: >-
+  Unbranded electric car silhouette with gold digital finance motifs in a
+  polished studio setting
 ---
 ## Tesla Recognizes Substantial Bitcoin Gains
 
