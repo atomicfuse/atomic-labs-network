@@ -1,24 +1,32 @@
 ---
-title: "Love Island USA: Which Cast Members Remain Friends?"
-description: "Reality TV show \"Love Island USA\" Season 7 highlights the significance of friendships, showcasing how bonds formed in the villa offer emotional support and resilience, often outshining romantic relationships and enriching the overall experience for contestants and viewers alike."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T05:31:32+00:00"
-author: "Becca Roberts"
+title: 'Love Island USA: Which Cast Members Remain Friends?'
+description: >-
+  Reality TV show "Love Island USA" Season 7 highlights the significance of
+  friendships, showcasing how bonds formed in the villa offer emotional support
+  and resilience, often outshining romantic relationships and enriching the
+  overall experience for contestants and viewers alike.
+type: standard
+status: review
+publishDate: '2025-08-28T05:31:32+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "love-island-usa-which-cast-members-remain-friends"
+  - Watch
+slug: love-island-usa-which-cast-members-remain-friends
 reading_time: 4
-source_url: "https://buzzsoaps.com/love-island-usa-which-cast-members-remain-friends/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/love-island-usa-which-cast-members-remain-friends/'
+imported_from: wordpress
 wp_original_id: 467
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/love-island-usa-which-cast-members-remain-friends.webp
 seo:
-  canonical: "https://buzzsoaps.com/love-island-usa-which-cast-members-remain-friends/"
-  og_title: "Love Island USA: Which Cast Members Remain Friends? - BuzzSoaps!"
-  og_description: "Reality TV show \"Love Island USA\" Season 7 highlights the significance of friendships, showcasing how bonds formed in the villa offer emotional support and resilience, often outshining romantic relationships and enriching the overall experience for contestants and viewers alike."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/love-island-usa-which-cast-members-remain-friends/'
+  og_title: 'Love Island USA: Which Cast Members Remain Friends? - BuzzSoaps!'
+  og_description: >-
+    Reality TV show "Love Island USA" Season 7 highlights the significance of
+    friendships, showcasing how bonds formed in the villa offer emotional
+    support and resilience, often outshining romantic relationships and
+    enriching the overall experience for contestants and viewers alike.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "The article has good keyword relevance and tone but fails to deliver on its title promise, lacks specific details about actual cast friendships, and falls significantly short of the target word count."
+quality_note: >-
+  The article has good keyword relevance and tone but fails to deliver on its
+  title promise, lacks specific details about actual cast friendships, and falls
+  significantly short of the target word count.
+image_alt: >-
+  Friends share a warm laugh beside a glowing pool at a tropical villa after
+  sunset.
 ---
 
 Reality TV shows have become a cornerstone of modern entertainment, captivating audiences with their unique blend of drama, romance, and competition. Among these, "Love Island USA" stands out not just for its romantic escapades but also for the genuine friendships that form amidst the romantic chaos. The show's seventh season was particularly notable for how these friendships developed, creating bonds that sometimes outshone the romantic relationships themselves.
