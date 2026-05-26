@@ -601,22 +601,23 @@ sites:
   - domain: coffeeactually
     company: null
     vertical: Food & Drink
-    status: Staging
+    status: Live
     site_id: "9619803022920"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-25T10:33:42.025Z
+    last_updated: 2026-05-26T08:54:07.273Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: a1759edd477839bb7a752e0ecb61f570
     staging_branch: staging/coffeeactually
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=coffeeactually
     saved_previews: null
-    custom_domain: null
+    custom_domain: coffeeactually.com
+    worker_pending_dns: false
   - domain: fashionnewsbee
     company: ATL
     vertical: Style & Fashion
