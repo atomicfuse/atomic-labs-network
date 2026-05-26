@@ -1,25 +1,34 @@
 ---
-title: "Casting Opportunities in San Francisco: Movies and TV Shows"
-description: "San Francisco's iconic landmarks and vibrant culture make it a favored backdrop for filmmakers. Its diverse architecture and film-friendly policies attract numerous projects, enriching the local economy and arts community while offering authentic representation of various communities."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T10:45:32+00:00"
-author: "Jennifer Clarkson"
+title: 'Casting Opportunities in San Francisco: Movies and TV Shows'
+description: >-
+  San Francisco's iconic landmarks and vibrant culture make it a favored
+  backdrop for filmmakers. Its diverse architecture and film-friendly policies
+  attract numerous projects, enriching the local economy and arts community
+  while offering authentic representation of various communities.
+type: standard
+status: review
+publishDate: '2026-01-29T10:45:32+00:00'
+author: Jennifer Clarkson
 tags:
-  - "Movies"
-  - "TV Shows"
-slug: "casting-opportunities-in-san-francisco-movies-and-tv-shows"
+  - Movies
+  - TV Shows
+slug: casting-opportunities-in-san-francisco-movies-and-tv-shows
 reading_time: 3
-source_url: "https://muvizz.com/casting-opportunities-in-san-francisco-movies-and-tv-shows/"
-imported_from: "wordpress"
+source_url: 'https://muvizz.com/casting-opportunities-in-san-francisco-movies-and-tv-shows/'
+imported_from: wordpress
 wp_original_id: 28232
-featuredImage: "/assets/images/muvizz-general-article.webp"
+featuredImage: /assets/images/casting-opportunities-in-san-francisco-movies-and-tv-shows.webp
 seo:
-  canonical: "https://muvizz.com/casting-opportunities-in-san-francisco-movies-and-tv-shows/"
-  og_title: "Casting Opportunities in San Francisco: Movies and TV Shows - Muvizz"
-  og_description: "San Francisco's iconic landmarks and vibrant culture make it a favored backdrop for filmmakers. Its diverse architecture and film-friendly policies attract numerous projects, enriching the local economy and arts community while offering authentic representation of various communities."
-  og_image: "https://muvizz.com/wp-content/uploads/2026/01/make_file-10.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://muvizz.com/casting-opportunities-in-san-francisco-movies-and-tv-shows/
+  og_title: 'Casting Opportunities in San Francisco: Movies and TV Shows - Muvizz'
+  og_description: >-
+    San Francisco's iconic landmarks and vibrant culture make it a favored
+    backdrop for filmmakers. Its diverse architecture and film-friendly policies
+    attract numerous projects, enriching the local economy and arts community
+    while offering authentic representation of various communities.
+  og_image: 'https://muvizz.com/wp-content/uploads/2026/01/make_file-10.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -27,7 +36,11 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article is well-written and engaging but falls significantly short of the target word count at only 520 words, which heavily impacts the overall quality score."
+quality_note: >-
+  The article is well-written and engaging but falls significantly short of the
+  target word count at only 520 words, which heavily impacts the overall quality
+  score.
+image_alt: Aspiring actors wait near a foggy San Francisco film set at dusk.
 ---
 
 San Francisco, known for its iconic landmarks and vibrant culture, has long been a favored backdrop for filmmakers and television producers. With its unique blend of urban charm and scenic beauty, the city continues to attract a wide array of filming projects that capture the essence of its diverse neighborhoods and historical sites.
