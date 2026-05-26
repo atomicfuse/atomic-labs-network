@@ -1,27 +1,31 @@
 ---
-title: "Exploring the World’s Top 100 Unsolved Mysteries"
-description: "Dive into 100 baffling mysteries that remain unexplained, including the intriguing Rock Ship of Masuda."
-type: "standard"
-status: "review"
-publishDate: "2026-02-26T10:17:21+00:00"
-author: "Nico Harper"
+title: Exploring the World’s Top 100 Unsolved Mysteries
+description: >-
+  Dive into 100 baffling mysteries that remain unexplained, including the
+  intriguing Rock Ship of Masuda.
+type: standard
+status: review
+publishDate: '2026-02-26T10:17:21+00:00'
+author: Nico Harper
 tags:
-  - "Internet Mysteries"
-slug: "exploring-the-worlds-top-100-unsolved-mysteries"
+  - Internet Mysteries
+slug: exploring-the-worlds-top-100-unsolved-mysteries
 reading_time: 2
-source_url: "https://gigsfreaks.com/exploring-the-worlds-top-100-unsolved-mysteries/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/exploring-the-worlds-top-100-unsolved-mysteries/'
+imported_from: wordpress
 wp_original_id: 1025
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/exploring-the-worlds-top-100-unsolved-mysteries.webp
 seo:
-  canonical: "https://gigsfreaks.com/exploring-the-worlds-top-100-unsolved-mysteries/"
-  og_title: "Exploring the World's Top 100 Unsolved Mysteries - GigsFreaks"
-  og_description: "Dive into 100 baffling mysteries that remain unexplained, including the intriguing Rock Ship of Masuda."
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/exploring-the-worlds-top-100-unsolved-mysteries/'
+  og_title: Exploring the World's Top 100 Unsolved Mysteries - GigsFreaks
+  og_description: >-
+    Dive into 100 baffling mysteries that remain unexplained, including the
+    intriguing Rock Ship of Masuda.
+  twitter_card: summary_large_image
 videos:
-  - id: "14fe1017"
-    url: "https://www.youtube.com/watch?v=1_OzWp-IvTI"
-    position: "after-paragraph-2"
+  - id: 14fe1017
+    url: 'https://www.youtube.com/watch?v=1_OzWp-IvTI'
+    position: after-paragraph-2
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -29,7 +33,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article has good tone and covers relevant mystery content, but is severely under the target word count at only 289 words versus the 800-1200 target range."
+quality_note: >-
+  The article has good tone and covers relevant mystery content, but is severely
+  under the target word count at only 289 words versus the 800-1200 target
+  range.
+image_alt: >-
+  A researcher studies a mysterious ship-shaped stone structure in a misty
+  archaeological landscape.
 ---
 
 In a world filled with wonders, some mysteries have resisted explanation for centuries, captivating both the curious minds of researchers and the imaginations of the public. This article explores 100 such unsolved mysteries that continue to baffle experts and enthusiasts alike.
