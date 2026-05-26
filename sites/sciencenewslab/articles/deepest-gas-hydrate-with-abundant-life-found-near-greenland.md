@@ -1,22 +1,29 @@
 ---
-title: "Deepest Gas Hydrate With Abundant Life Found Near Greenland"
-description: "Scientists discovered a vast gas hydrate deposit off Greenland's coast, the world's deepest known, supporting a thriving ecosystem. This find offers insights into biodiversity and geological processes, emphasizing gas hydrates' importance as an energy source and climate factor."
-type: "standard"
-status: "published"
-publishDate: "2025-12-29T12:45:25"
-author: "Taylor Winters"
+title: Deepest Gas Hydrate With Abundant Life Found Near Greenland
+description: >-
+  Scientists discovered a vast gas hydrate deposit off Greenland's coast, the
+  world's deepest known, supporting a thriving ecosystem. This find offers
+  insights into biodiversity and geological processes, emphasizing gas hydrates'
+  importance as an energy source and climate factor.
+type: standard
+status: published
+publishDate: '2025-12-29T12:45:25'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Nature"
-slug: "deepest-gas-hydrate-with-abundant-life-found-near-greenland"
+  - Environment
+  - Nature
+slug: deepest-gas-hydrate-with-abundant-life-found-near-greenland
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/deepest-gas-hydrate-with-abundant-life-found-near-greenland/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/deepest-gas-hydrate-with-abundant-life-found-near-greenland/
+imported_from: wordpress
 wp_original_id: 15046
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/deepest-gas-hydrate-with-abundant-life-found-near-greenland.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/deepest-gas-hydrate-with-abundant-life-found-near-greenland/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/deepest-gas-hydrate-with-abundant-life-found-near-greenland/
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written article with strong scientific content and tone, but significantly under target word count at 460 words versus the 800-1200 word range."
+quality_note: >-
+  Well-written article with strong scientific content and tone, but
+  significantly under target word count at 460 words versus the 800-1200 word
+  range.
+image_alt: >-
+  Deep Arctic seafloor with glowing gas hydrate formations and small marine life
+  in cold blue light
 ---
 
 In a remarkable discovery beneath the depths of the Arctic Ocean, scientists have uncovered a vast deposit of gas hydrates off the coast of Greenland. This find, considered the world's deepest known gas hydrate, is not only significant for its size but also for the thriving ecosystem it supports. Located more than 1,200 meters below sea level, this extraordinary underwater landscape offers new insights into the biodiversity and geological processes of our planet.
