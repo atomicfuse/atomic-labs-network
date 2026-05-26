@@ -1,25 +1,38 @@
 ---
-title: "Griffith University Begins Innovative Spinal Cord Injury Treatment Trial"
-description: "Griffith University has launched a pioneering clinical trial aimed at treating spinal cord injuries, exploring novel therapeutic strategies focused on healing and regeneration to potentially transform patient outcomes."
-type: "standard"
-status: "published"
-publishDate: "2025-08-14T04:15:36+00:00"
-author: "Taylor Winters"
+title: Griffith University Begins Innovative Spinal Cord Injury Treatment Trial
+description: >-
+  Griffith University has launched a pioneering clinical trial aimed at treating
+  spinal cord injuries, exploring novel therapeutic strategies focused on
+  healing and regeneration to potentially transform patient outcomes.
+type: standard
+status: published
+publishDate: '2025-08-14T04:15:36+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Clinical Trials &amp; Research"
-slug: "griffith-university-begins-innovative-spinal-cord-injury-treatment-trial"
+  - Health News
+  - Clinical Trials &amp; Research
+slug: griffith-university-begins-innovative-spinal-cord-injury-treatment-trial
 reading_time: 4
-source_url: "https://medicalnewsalley.com/griffith-university-begins-innovative-spinal-cord-injury-treatment-trial/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/griffith-university-begins-innovative-spinal-cord-injury-treatment-trial/
+imported_from: wordpress
 wp_original_id: 32475
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/griffith-university-begins-innovative-spinal-cord-injury-treatment-trial.webp
 seo:
-  canonical: "https://medicalnewsalley.com/griffith-university-begins-innovative-spinal-cord-injury-treatment-trial/"
-  og_title: "Griffith University Begins Innovative Spinal Cord Injury Treatment Trial - Medical News Alley"
-  og_description: "Griffith University has launched a clinical trial aimed at treating spinal cord injuries, potentially transforming lives by exploring novel therapeutic strategies. This initiative seeks to improve patient outcomes through innovative research, focusing on healing and regeneration of the spinal cord."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/08/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/griffith-university-begins-innovative-spinal-cord-injury-treatment-trial/
+  og_title: >-
+    Griffith University Begins Innovative Spinal Cord Injury Treatment Trial -
+    Medical News Alley
+  og_description: >-
+    Griffith University has launched a clinical trial aimed at treating spinal
+    cord injuries, potentially transforming lives by exploring novel therapeutic
+    strategies. This initiative seeks to improve patient outcomes through
+    innovative research, focusing on healing and regeneration of the spinal
+    cord.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/08/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with strong keyword relevance and appropriate tone, but lacks specific details about the trial methodology and falls short of optimal word count."
+quality_note: >-
+  Well-written article with strong keyword relevance and appropriate tone, but
+  lacks specific details about the trial methodology and falls short of optimal
+  word count.
+image_alt: >-
+  Clinician and patient in a softly lit rehabilitation room suggesting spinal
+  cord recovery research
 ---
 
 In a significant advancement for medical research, Griffith University has initiated a pioneering clinical trial aimed at treating spinal cord injuries. This groundbreaking initiative holds promise for transforming the lives of individuals who have suffered from such debilitating conditions. By focusing on innovative therapeutic strategies, the trial could potentially alter the current landscape of spinal cord injury treatment.
