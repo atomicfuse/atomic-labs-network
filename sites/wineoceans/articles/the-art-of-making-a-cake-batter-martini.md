@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-the-art-of-making-a-cake-batter-martini
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/the-art-of-making-a-cake-batter-martini.webp
 reading_time: 3
 quality_score: 58
 score_breakdown:
@@ -34,6 +34,7 @@ quality_note: >-
   Well-structured article with good SEO elements but completely misses wine
   focus, is too short at 547 words, and relies heavily on vague reporting
   language without concrete details.
+image_alt: Creamy cake batter martini in a coupe glass with sprinkles on a marble bar
 ---
 ## The Sweet Revolution in Cocktail Culture
 
