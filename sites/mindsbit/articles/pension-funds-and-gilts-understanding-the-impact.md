@@ -1,24 +1,33 @@
 ---
-title: "Pension Funds and Gilts: Understanding the Impact"
-description: "The global financial landscape is shifting as central banks raise interest rates to combat inflation, impacting international markets. Economists monitor these changes closely, evaluating effects on trade dynamics and investment flows, while governments implement fiscal policies to support recovery."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T05:43:32+00:00"
-author: "Lena Ashwood"
+title: 'Pension Funds and Gilts: Understanding the Impact'
+description: >-
+  The global financial landscape is shifting as central banks raise interest
+  rates to combat inflation, impacting international markets. Economists monitor
+  these changes closely, evaluating effects on trade dynamics and investment
+  flows, while governments implement fiscal policies to support recovery.
+type: standard
+status: review
+publishDate: '2025-07-10T05:43:32+00:00'
+author: Lena Ashwood
 tags:
-  - "Finance"
-slug: "pension-funds-and-gilts-understanding-the-impact"
+  - Finance
+slug: pension-funds-and-gilts-understanding-the-impact
 reading_time: 3
-source_url: "https://mindsbit.com/pension-funds-and-gilts-understanding-the-impact/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/pension-funds-and-gilts-understanding-the-impact/'
+imported_from: wordpress
 wp_original_id: 384
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/pension-funds-and-gilts-understanding-the-impact.webp
 seo:
-  canonical: "https://mindsbit.com/pension-funds-and-gilts-understanding-the-impact/"
-  og_title: "Pension Funds and Gilts: Understanding the Impact - Minds bit"
-  og_description: "The global financial landscape is shifting as central banks raise interest rates to combat inflation, impacting international markets. Economists monitor these changes closely, evaluating effects on trade dynamics and investment flows, while governments implement fiscal policies to support recovery."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/07/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/pension-funds-and-gilts-understanding-the-impact/'
+  og_title: 'Pension Funds and Gilts: Understanding the Impact - Minds bit'
+  og_description: >-
+    The global financial landscape is shifting as central banks raise interest
+    rates to combat inflation, impacting international markets. Economists
+    monitor these changes closely, evaluating effects on trade dynamics and
+    investment flows, while governments implement fiscal policies to support
+    recovery.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/07/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 45
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "Article has poor title-description mismatch, weak SEO optimization, and minimal coverage of site's core tech/innovation topics despite solid writing quality."
+quality_note: >-
+  Article has poor title-description mismatch, weak SEO optimization, and
+  minimal coverage of site's core tech/innovation topics despite solid writing
+  quality.
+image_alt: >-
+  Abstract pension portfolio and bond documents on a financial desk with city
+  markets in the background
 ---
 
 The global financial landscape is undergoing significant changes as central banks across the world adopt new strategies to combat inflation and stabilize economies. This shift is marked by a series of interest rate hikes and strategic fiscal policies. Economists are closely monitoring these developments as they unfold, evaluating their potential impacts on both local and international markets.
