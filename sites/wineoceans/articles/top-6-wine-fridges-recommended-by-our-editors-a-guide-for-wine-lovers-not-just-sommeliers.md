@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-top-6-wine-fridges-recommended-by-our-editors-a-guide-for-wine-lovers-not-just-sommeliers
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/top-6-wine-fridges-recommended-by-our-editors-a-guide-for-wine-lovers-not-just-sommeliers.webp
 reading_time: 2
 quality_score: 61
 score_breakdown:
@@ -36,6 +37,9 @@ quality_note: >-
   Article covers relevant wine storage topics but is severely under-length at
   340 words and lacks the promised specific wine fridge recommendations in the
   title.
+image_alt: >-
+  Sleek wine fridge glowing in a modern kitchen with wine glasses on a marble
+  counter.
 ---
 ## Professional Wine Storage Made Accessible
 
