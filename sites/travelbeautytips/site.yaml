@@ -4,6 +4,7 @@ site_tagline: null
 author: Max Ward
 groups:
   - outbrain-ads
+  - atl
 active: true
 bundle_id: 6a12d6f516f23264031d7a43
 brief:
