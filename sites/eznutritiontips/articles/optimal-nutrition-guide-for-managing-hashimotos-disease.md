@@ -1,25 +1,40 @@
 ---
-title: "Optimal Nutrition Guide for Managing Hashimoto’s Disease"
-description: "Dietary choices can significantly impact the management of Hashimoto's disease, an autoimmune disorder affecting thyroid function. A balanced diet rich in fruits, vegetables, lean proteins, and whole grains, with moderate intake of selenium and iodine, can aid in controlling symptoms. However, it's not a one-size-fits-all approach, and individual dietary needs may vary."
-type: "standard"
-status: "published"
-publishDate: "2025-04-23T16:10:33+00:00"
-author: "Taylor Winters"
+title: Optimal Nutrition Guide for Managing Hashimoto’s Disease
+description: >-
+  Dietary choices can significantly impact the management of Hashimoto's
+  disease, an autoimmune disorder affecting thyroid function. A balanced diet
+  rich in fruits, vegetables, lean proteins, and whole grains, with moderate
+  intake of selenium and iodine, can aid in controlling symptoms. However, it's
+  not a one-size-fits-all approach, and individual dietary needs may vary.
+type: standard
+status: published
+publishDate: '2025-04-23T16:10:33+00:00'
+author: Taylor Winters
 tags:
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "optimal-nutrition-guide-for-managing-hashimotos-disease"
+  - Special Diets
+  - Weight &amp; Wellness
+slug: optimal-nutrition-guide-for-managing-hashimotos-disease
 reading_time: 3
-source_url: "https://eznutritiontips.com/optimal-nutrition-guide-for-managing-hashimotos-disease/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/optimal-nutrition-guide-for-managing-hashimotos-disease/
+imported_from: wordpress
 wp_original_id: 18752
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/optimal-nutrition-guide-for-managing-hashimotos-disease.webp
 seo:
-  canonical: "https://eznutritiontips.com/optimal-nutrition-guide-for-managing-hashimotos-disease/"
-  og_title: "Optimal Nutrition Guide for Managing Hashimoto's Disease - Easy Nutrition Tips"
-  og_description: "Dietary choices can significantly impact the management of Hashimoto's disease, an autoimmune disorder affecting thyroid function. A balanced diet rich in fruits, vegetables, lean proteins, and whole grains, with moderate intake of selenium and iodine, can aid in controlling symptoms. However, it's not a one-size-fits-all approach, and individual dietary needs may vary."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-46.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/optimal-nutrition-guide-for-managing-hashimotos-disease/
+  og_title: >-
+    Optimal Nutrition Guide for Managing Hashimoto's Disease - Easy Nutrition
+    Tips
+  og_description: >-
+    Dietary choices can significantly impact the management of Hashimoto's
+    disease, an autoimmune disorder affecting thyroid function. A balanced diet
+    rich in fruits, vegetables, lean proteins, and whole grains, with moderate
+    intake of selenium and iodine, can aid in controlling symptoms. However,
+    it's not a one-size-fits-all approach, and individual dietary needs may
+    vary.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-46.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +42,12 @@ score_breakdown:
   content_length: 47
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with accurate medical information and good keyword alignment, but significantly under the target word count at only 471 words."
+quality_note: >-
+  Well-written article with accurate medical information and good keyword
+  alignment, but significantly under the target word count at only 471 words.
+image_alt: >-
+  Balanced thyroid-supportive foods on a softly lit kitchen table with a person
+  preparing a healthy meal.
 ---
 
 When it comes to managing Hashimoto's disease, a condition that affects thyroid function, your dietary choices can play a pivotal role. A well-chosen diet can help in controlling the symptoms, potentially reducing inflammation and encouraging overall health. However, it's not a one-size-fits-all approach, and it's essential to understand that what works for one person might not necessarily work for another.
