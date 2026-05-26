@@ -1,24 +1,35 @@
 ---
-title: "Luxury Hotel in France Denies Bedbug Bite Allegations"
-description: "Travelers to France face rising bedbug infestations in hotels, prompting increased prevention efforts. The hospitality industry responds with enhanced cleaning protocols and pest control to ensure guest safety and maintain tourism appeal."
-type: "standard"
-status: "published"
-publishDate: "2026-01-01T10:45:26+00:00"
-author: "Malcolm Anderson"
+title: Luxury Hotel in France Denies Bedbug Bite Allegations
+description: >-
+  Travelers to France face rising bedbug infestations in hotels, prompting
+  increased prevention efforts. The hospitality industry responds with enhanced
+  cleaning protocols and pest control to ensure guest safety and maintain
+  tourism appeal.
+type: standard
+status: published
+publishDate: '2026-01-01T10:45:26+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "News"
-slug: "luxury-hotel-in-france-denies-bedbug-bite-allegations"
+  - Destinations
+  - News
+slug: luxury-hotel-in-france-denies-bedbug-bite-allegations
 reading_time: 3
-source_url: "https://travelnights.com/luxury-hotel-in-france-denies-bedbug-bite-allegations/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/luxury-hotel-in-france-denies-bedbug-bite-allegations/
+imported_from: wordpress
 wp_original_id: 36684
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/luxury-hotel-in-france-denies-bedbug-bite-allegations.webp
 seo:
-  canonical: "https://travelnights.com/luxury-hotel-in-france-denies-bedbug-bite-allegations/"
-  og_title: "Luxury Hotel in France Denies Bedbug Bite Allegations - Travel Nights"
-  og_description: "Travelers to France face rising bedbug infestations in hotels, prompting increased prevention efforts. Bedbugs thrive in tourist areas, hitching rides on luggage. The hospitality industry responds with enhanced cleaning protocols and pest control to ensure guest safety and maintain tourism appeal."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/luxury-hotel-in-france-denies-bedbug-bite-allegations/
+  og_title: Luxury Hotel in France Denies Bedbug Bite Allegations - Travel Nights
+  og_description: >-
+    Travelers to France face rising bedbug infestations in hotels, prompting
+    increased prevention efforts. Bedbugs thrive in tourist areas, hitching
+    rides on luggage. The hospitality industry responds with enhanced cleaning
+    protocols and pest control to ensure guest safety and maintain tourism
+    appeal.
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 88
-quality_note: "Well-written travel news article with good keyword coverage and appropriate tone, but falls short of target word count and has a generic title that could be more SEO-optimized."
+quality_note: >-
+  Well-written travel news article with good keyword coverage and appropriate
+  tone, but falls short of target word count and has a generic title that could
+  be more SEO-optimized.
+image_alt: >-
+  Pristine luxury hotel suite in France with housekeeping tools suggesting
+  enhanced room inspection.
 ---
 
 Travelers to France have recently been on high alert due to an unexpected rise in bedbug infestations affecting hotels and accommodations. This surge in bedbug cases has sparked concerns among tourists and locals alike, prompting increased efforts for prevention and management.
