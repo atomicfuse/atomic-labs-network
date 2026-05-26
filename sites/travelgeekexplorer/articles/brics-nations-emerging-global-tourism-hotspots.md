@@ -1,25 +1,36 @@
 ---
-title: "BRICS Nations: Emerging Global Tourism Hotspots"
-description: "The BRICS nations—Brazil, Russia, India, China, and South Africa—are key players in global tourism, offering rich cultural experiences and diverse landscapes. Their growing tourism infrastructure is making these countries increasingly popular among travelers worldwide."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T09:53:37+00:00"
-author: "Taylor Winters"
+title: 'BRICS Nations: Emerging Global Tourism Hotspots'
+description: >-
+  The BRICS nations—Brazil, Russia, India, China, and South Africa—are key
+  players in global tourism, offering rich cultural experiences and diverse
+  landscapes. Their growing tourism infrastructure is making these countries
+  increasingly popular among travelers worldwide.
+type: standard
+status: published
+publishDate: '2025-11-27T09:53:37+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "brics-nations-emerging-global-tourism-hotspots"
+  - Destinations
+  - Travel
+slug: brics-nations-emerging-global-tourism-hotspots
 reading_time: 3
-source_url: "https://www.travelgeekexplorer.com/brics-nations-emerging-global-tourism-hotspots/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.travelgeekexplorer.com/brics-nations-emerging-global-tourism-hotspots/
+imported_from: wordpress
 wp_original_id: 44538
-featuredImage: "/assets/images/travelgeekexplorer-general-article.webp"
+featuredImage: /assets/images/brics-nations-emerging-global-tourism-hotspots.webp
 seo:
-  canonical: "https://www.travelgeekexplorer.com/brics-nations-emerging-global-tourism-hotspots/"
-  og_title: "BRICS Nations: Emerging Global Tourism Hotspots - Travel Geek Explorer"
-  og_description: "The BRICS nations—Brazil, Russia, India, China, and South Africa—are key players in global tourism, offering rich cultural experiences and diverse landscapes. Their growing tourism infrastructure is making these countries increasingly popular among travelers worldwide."
-  og_image: "https://www.travelgeekexplorer.com/wp-content/uploads/2025/11/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.travelgeekexplorer.com/brics-nations-emerging-global-tourism-hotspots/
+  og_title: 'BRICS Nations: Emerging Global Tourism Hotspots - Travel Geek Explorer'
+  og_description: >-
+    The BRICS nations—Brazil, Russia, India, China, and South Africa—are key
+    players in global tourism, offering rich cultural experiences and diverse
+    landscapes. Their growing tourism infrastructure is making these countries
+    increasingly popular among travelers worldwide.
+  og_image: >-
+    https://www.travelgeekexplorer.com/wp-content/uploads/2025/11/make_file-8.jpeg
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel content with excellent keyword relevance and tone, but significantly under target word count at 504 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written travel content with excellent keyword relevance and tone, but
+  significantly under target word count at 504 words versus the 800-1200 target
+  range.
+image_alt: Traveler overlooking a blended panorama of diverse BRICS-inspired destinations
 ---
 
 In recent years, the BRICS nations—comprising Brazil, Russia, India, China, and South Africa—have emerged as key players in the global tourism landscape. These countries not only offer rich cultural experiences and diverse landscapes but also have significantly contributed to the growth of international tourism. With their unique attractions and growing tourism infrastructure, these nations are becoming increasingly popular among travelers worldwide.
