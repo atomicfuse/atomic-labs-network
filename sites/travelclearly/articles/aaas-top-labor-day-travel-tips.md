@@ -1,26 +1,35 @@
 ---
-title: "AAA’s Top Labor Day Travel Tips"
-description: "As Labor Day approaches, many Americans plan road trips or visits. Careful planning, such as route management, vehicle maintenance, smart packing, and staying informed about safety protocols, ensures a smooth journey. Enjoy a stress-free holiday with these essential travel tips."
-type: "standard"
-status: "published"
-publishDate: "2025-08-28T04:15:21+00:00"
-author: "Taylor Winters"
+title: AAA’s Top Labor Day Travel Tips
+description: >-
+  As Labor Day approaches, many Americans plan road trips or visits. Careful
+  planning, such as route management, vehicle maintenance, smart packing, and
+  staying informed about safety protocols, ensures a smooth journey. Enjoy a
+  stress-free holiday with these essential travel tips.
+type: standard
+status: published
+publishDate: '2025-08-28T04:15:21+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Tips"
-  - "Travel"
-slug: "aaas-top-labor-day-travel-tips"
+  - Advice
+  - Tips
+  - Travel
+slug: aaas-top-labor-day-travel-tips
 reading_time: 3
-source_url: "https://travelclearly.com/aaas-top-labor-day-travel-tips/"
-imported_from: "wordpress"
+source_url: 'https://travelclearly.com/aaas-top-labor-day-travel-tips/'
+imported_from: wordpress
 wp_original_id: 36537
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/aaas-top-labor-day-travel-tips.webp
 seo:
-  canonical: "https://travelclearly.com/aaas-top-labor-day-travel-tips/"
-  og_title: "AAA's Top Labor Day Travel Tips - Travel Clearly"
-  og_description: "As Labor Day approaches, many Americans plan road trips or visits. Careful planning, such as route management, vehicle maintenance, smart packing, and staying informed about safety protocols, ensures a smooth journey. Enjoy a stress-free holiday with these essential travel tips."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/08/make_BB727CAC2939CC0C5506B22D80C3633D_160x90.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelclearly.com/aaas-top-labor-day-travel-tips/'
+  og_title: AAA's Top Labor Day Travel Tips - Travel Clearly
+  og_description: >-
+    As Labor Day approaches, many Americans plan road trips or visits. Careful
+    planning, such as route management, vehicle maintenance, smart packing, and
+    staying informed about safety protocols, ensures a smooth journey. Enjoy a
+    stress-free holiday with these essential travel tips.
+  og_image: >-
+    https://travelclearly.com/wp-content/uploads/2025/08/make_BB727CAC2939CC0C5506B22D80C3633D_160x90.jpg
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +37,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel advice article with good tone and keyword relevance, but falls short on content length at 516 words when targeting 800-1200 words."
+quality_note: >-
+  Well-written travel advice article with good tone and keyword relevance, but
+  falls short on content length at 516 words when targeting 800-1200 words.
+image_alt: >-
+  Packed car at a sunny scenic overlook with an open highway ahead for a holiday
+  road trip.
 ---
 
 As Labor Day approaches, many Americans eagerly anticipate the long weekend to embark on a road trip or visit loved ones. However, with an increase in travel comes the need for careful planning to ensure a smooth and enjoyable journey. Here are essential tips to help you prepare for Labor Day travel, whether you're hitting the road or flying to your destination.
