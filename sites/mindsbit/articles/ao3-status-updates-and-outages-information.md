@@ -1,24 +1,33 @@
 ---
-title: "AO3 Status Updates and Outages Information"
-description: "Archive of Our Own (AO3), a non-commercial, open-source platform, enables fans to publish and explore fanfiction with a focus on privacy. It features a unique tagging system for personalized searches, fostering a vibrant, inclusive community and preserving fan culture."
-type: "standard"
-status: "review"
-publishDate: "2026-03-02T10:23:22+00:00"
-author: "Lena Ashwood"
+title: AO3 Status Updates and Outages Information
+description: >-
+  Archive of Our Own (AO3), a non-commercial, open-source platform, enables fans
+  to publish and explore fanfiction with a focus on privacy. It features a
+  unique tagging system for personalized searches, fostering a vibrant,
+  inclusive community and preserving fan culture.
+type: standard
+status: review
+publishDate: '2026-03-02T10:23:22+00:00'
+author: Lena Ashwood
 tags:
-  - "Tech"
-slug: "ao3-status-updates-and-outages-information"
+  - Tech
+slug: ao3-status-updates-and-outages-information
 reading_time: 3
-source_url: "https://mindsbit.com/ao3-status-updates-and-outages-information/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/ao3-status-updates-and-outages-information/'
+imported_from: wordpress
 wp_original_id: 472
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/ao3-status-updates-and-outages-information.webp
 seo:
-  canonical: "https://mindsbit.com/ao3-status-updates-and-outages-information/"
-  og_title: "AO3 Status Updates and Outages Information - Minds bit"
-  og_description: "Archive of Our Own (AO3), a non-commercial, open-source platform, enables fans to publish and explore fanfiction with a focus on privacy. It features a unique tagging system for personalized searches, fostering a vibrant, inclusive community and preserving fan culture."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/03/make_bafkreiep5hc3ixwexrpuejc4zdezpnpjn7xv3l5g4dqr577ijaghyrep6m.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/ao3-status-updates-and-outages-information/'
+  og_title: AO3 Status Updates and Outages Information - Minds bit
+  og_description: >-
+    Archive of Our Own (AO3), a non-commercial, open-source platform, enables
+    fans to publish and explore fanfiction with a focus on privacy. It features
+    a unique tagging system for personalized searches, fostering a vibrant,
+    inclusive community and preserving fan culture.
+  og_image: >-
+    https://mindsbit.com/wp-content/uploads/2026/03/make_bafkreiep5hc3ixwexrpuejc4zdezpnpjn7xv3l5g4dqr577ijaghyrep6m.jpg
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 45
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 95
   keyword_relevance: 25
-quality_note: "Well-written article about AO3 with good factual accuracy and appropriate tone, but poorly aligned with site's tech focus and lacks relevant keywords like Finance, Ideas, Innovation, and Mind."
+quality_note: >-
+  Well-written article about AO3 with good factual accuracy and appropriate
+  tone, but poorly aligned with site's tech focus and lacks relevant keywords
+  like Finance, Ideas, Innovation, and Mind.
+image_alt: >-
+  Glowing digital library shelves connected by tags with subtle server status
+  lights in the background.
 ---
 
 In the dynamic realm of online platforms, Archive of Our Own (AO3) stands out for its role in housing a diverse collection of fan-created content. Celebrated for its user-friendly structure and commitment to user privacy, AO3 continues to be a pivotal space for fanfiction enthusiasts around the globe.
