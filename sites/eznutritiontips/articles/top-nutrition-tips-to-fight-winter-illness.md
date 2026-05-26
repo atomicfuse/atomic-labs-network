@@ -1,26 +1,32 @@
 ---
-title: "Top Nutrition Tips to Fight Winter Illness"
-description: "Simple winter nutrition habits like colourful plants, steady protein, gut-friendly foods, vitamin D, zinc and hydration can help support immune function, energy and recovery during cold and flu season."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T09:08:25+00:00"
-author: "Taylor Winters"
+title: Top Nutrition Tips to Fight Winter Illness
+description: >-
+  Simple winter nutrition habits like colourful plants, steady protein,
+  gut-friendly foods, vitamin D, zinc and hydration can help support immune
+  function, energy and recovery during cold and flu season.
+type: standard
+status: published
+publishDate: '2026-05-11T09:08:25+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Tips"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "top-nutrition-tips-to-fight-winter-illness"
+  - Nutrition Tips
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: top-nutrition-tips-to-fight-winter-illness
 reading_time: 7
-source_url: "https://eznutritiontips.com/top-nutrition-tips-to-fight-winter-illness/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/top-nutrition-tips-to-fight-winter-illness/'
+imported_from: wordpress
 wp_original_id: 19021
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-nutrition-tips-to-fight-winter-illness.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-nutrition-tips-to-fight-winter-illness/"
-  og_title: "Top Nutrition Tips to Fight Winter Illness - Easy Nutrition Tips"
-  og_description: "Simple winter nutrition habits like colourful plants, steady protein, gut-friendly foods, vitamin D, zinc and hydration can help support immune function, energy and recovery during cold and flu season."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/05/make_file.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/top-nutrition-tips-to-fight-winter-illness/'
+  og_title: Top Nutrition Tips to Fight Winter Illness - Easy Nutrition Tips
+  og_description: >-
+    Simple winter nutrition habits like colourful plants, steady protein,
+    gut-friendly foods, vitamin D, zinc and hydration can help support immune
+    function, energy and recovery during cold and flu season.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/05/make_file.jpg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -28,7 +34,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Well-structured, engaging article with excellent nutrition guidance that perfectly matches the site's tone and covers key topics comprehensively."
+quality_note: >-
+  Well-structured, engaging article with excellent nutrition guidance that
+  perfectly matches the site's tone and covers key topics comprehensively.
+image_alt: >-
+  Colorful winter foods and warm soup on a sunlit kitchen table suggesting
+  seasonal wellness.
 ---
 
 Cold mornings, crowded indoor spaces and busy schedules can make winter feel like prime time for sniffles, sore throats and stomach bugs. While no single food can guarantee immunity, the right nutrition habits can help your body respond better when seasonal germs circulate. A winter wellness plan should focus on colourful whole foods, enough protein, gut-friendly meals, steady hydration and simple daily routines that support energy and recovery.
