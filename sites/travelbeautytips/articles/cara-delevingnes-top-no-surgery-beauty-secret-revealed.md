@@ -1,27 +1,36 @@
 ---
-title: "Cara Delevingne’s Top No-Surgery Beauty Secret Revealed"
-description: "Cara Delevingne's embrace of the 'indie sleaze' aesthetic combines early 2000s nostalgia with modern flair, highlighting bold makeup and fashion choices that encourage creativity, individuality, and imperfection in the beauty world."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T09:51:33+00:00"
-author: "Taylor Winters"
+title: Cara Delevingne’s Top No-Surgery Beauty Secret Revealed
+description: >-
+  Cara Delevingne's embrace of the 'indie sleaze' aesthetic combines early 2000s
+  nostalgia with modern flair, highlighting bold makeup and fashion choices that
+  encourage creativity, individuality, and imperfection in the beauty world.
+type: standard
+status: published
+publishDate: '2025-11-27T09:51:33+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Fashion"
-  - "Makeup Hacks"
-slug: "cara-delevingnes-top-no-surgery-beauty-secret-revealed"
+  - Travel Tips
+  - Beauty
+  - Fashion
+  - Makeup Hacks
+slug: cara-delevingnes-top-no-surgery-beauty-secret-revealed
 reading_time: 4
-source_url: "https://travelbeautytips.com/cara-delevingnes-top-no-surgery-beauty-secret-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/cara-delevingnes-top-no-surgery-beauty-secret-revealed/
+imported_from: wordpress
 wp_original_id: 36084
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/cara-delevingnes-top-no-surgery-beauty-secret-revealed.webp
 seo:
-  canonical: "https://travelbeautytips.com/cara-delevingnes-top-no-surgery-beauty-secret-revealed/"
-  og_title: "Cara Delevingne's Top No-Surgery Beauty Secret Revealed - Travel Beauty Tips"
-  og_description: "Cara Delevingne's embrace of the 'indie sleaze' aesthetic combines early 2000s nostalgia with modern flair, highlighting bold makeup and fashion choices. Her style encourages creativity, celebrating individuality and imperfection in the beauty world."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/11/make_file-9.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/cara-delevingnes-top-no-surgery-beauty-secret-revealed/
+  og_title: Cara Delevingne's Top No-Surgery Beauty Secret Revealed - Travel Beauty Tips
+  og_description: >-
+    Cara Delevingne's embrace of the 'indie sleaze' aesthetic combines early
+    2000s nostalgia with modern flair, highlighting bold makeup and fashion
+    choices. Her style encourages creativity, celebrating individuality and
+    imperfection in the beauty world.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/11/make_file-9.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -29,7 +38,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written beauty content with engaging tone but falls short on word count and has a misleading title that doesn't deliver the promised 'no-surgery secret.'"
+quality_note: >-
+  Well-written beauty content with engaging tone but falls short on word count
+  and has a misleading title that doesn't deliver the promised 'no-surgery
+  secret.'
+image_alt: Confident model with smoky makeup in a neon-lit backstage dressing room
 ---
 
 In the ever-evolving world of beauty, Cara Delevingne stands out not only for her modeling prowess but also for her distinct approach to skincare and beauty trends. Known for her bold and adventurous style, Cara has embraced the 'indie sleaze' aesthetic, a look that blends nostalgia with modern flair. This style, reminiscent of the early 2000s, is making a comeback, and Cara's fresh take offers inspiration for those keen on experimenting with their beauty routines.
