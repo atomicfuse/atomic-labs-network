@@ -1,25 +1,40 @@
 ---
-title: "Game Design Lessons from Doom: The Dark Ages’ Flight Mechanics"
-description: "Doom: The Dark Ages introduces a unique health drop system that rewards players for an aggressive playstyle while maintaining strategic balance, encouraging dynamic player engagement and enhancing replayability through varied strategies and difficulty settings."
-type: "standard"
-status: "published"
-publishDate: "2025-05-19T04:19:23+00:00"
-author: "Taylor Winters"
+title: 'Game Design Lessons from Doom: The Dark Ages’ Flight Mechanics'
+description: >-
+  Doom: The Dark Ages introduces a unique health drop system that rewards
+  players for an aggressive playstyle while maintaining strategic balance,
+  encouraging dynamic player engagement and enhancing replayability through
+  varied strategies and difficulty settings.
+type: standard
+status: published
+publishDate: '2025-05-19T04:19:23+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "game-design-lessons-from-doom-the-dark-ages-flight-mechanics"
+  - Gaming News
+  - Community
+slug: game-design-lessons-from-doom-the-dark-ages-flight-mechanics
 reading_time: 4
-source_url: "https://gamingnewsalley.com/game-design-lessons-from-doom-the-dark-ages-flight-mechanics/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/game-design-lessons-from-doom-the-dark-ages-flight-mechanics/
+imported_from: wordpress
 wp_original_id: 42472
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/game-design-lessons-from-doom-the-dark-ages-flight-mechanics.webp
 seo:
-  canonical: "https://gamingnewsalley.com/game-design-lessons-from-doom-the-dark-ages-flight-mechanics/"
-  og_title: "Game Design Lessons from Doom: The Dark Ages' Flight Mechanics - Gaming News Alley"
-  og_description: "Doom: Dark Ages introduces a unique health drop system that rewards players for an aggressive playstyle while maintaining strategic balance. This innovation encourages dynamic player engagement, reshaping interaction with virtual environments and enhancing replayability through varied strategies and difficulty settings."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/05/make_doom-the-dark-ages-slayer-fighting-hell0knight.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/game-design-lessons-from-doom-the-dark-ages-flight-mechanics/
+  og_title: >-
+    Game Design Lessons from Doom: The Dark Ages' Flight Mechanics - Gaming News
+    Alley
+  og_description: >-
+    Doom: Dark Ages introduces a unique health drop system that rewards players
+    for an aggressive playstyle while maintaining strategic balance. This
+    innovation encourages dynamic player engagement, reshaping interaction with
+    virtual environments and enhancing replayability through varied strategies
+    and difficulty settings.
+  og_image: >-
+    https://gamingnewsalley.com/wp-content/uploads/2025/05/make_doom-the-dark-ages-slayer-fighting-hell0knight.jpg
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword coverage, but falls short on length and may contain speculative details about an unreleased game that could affect accuracy."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but falls short on
+  length and may contain speculative details about an unreleased game that could
+  affect accuracy.
+image_alt: >-
+  Armored warrior diving through a stormy sky above a glowing battlefield of
+  scattered energy shards
 ---
 
 The realm of video gaming has always thrived on innovation, with developers constantly seeking new ways to enhance player engagement and experience. *Doom: The Dark Ages* has taken this challenge to heart, introducing a unique system that rewards players for their aggressive playstyle while maintaining a strategic balance. This fresh approach seeks to reshape how players interact with their virtual environments, offering a dynamic that both challenges and rewards strategic decision-making.
