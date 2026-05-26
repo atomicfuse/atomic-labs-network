@@ -1,26 +1,36 @@
 ---
-title: "Researchers React to New NIH Priorities Announcement"
-description: "The National Institutes of Health's new research priorities emphasize interdisciplinary approaches, focusing on mental health, substance abuse, and health equity. While applauded for addressing critical issues, some researchers worry about potential impacts on funding for basic research."
-type: "standard"
-status: "published"
-publishDate: "2025-08-28T04:21:21+00:00"
-author: "Taylor Winters"
+title: Researchers React to New NIH Priorities Announcement
+description: >-
+  The National Institutes of Health's new research priorities emphasize
+  interdisciplinary approaches, focusing on mental health, substance abuse, and
+  health equity. While applauded for addressing critical issues, some
+  researchers worry about potential impacts on funding for basic research.
+type: standard
+status: published
+publishDate: '2025-08-28T04:21:21+00:00'
+author: Taylor Winters
 tags:
-  - "Clinical Trials &amp; Research"
-  - "Mental Health"
-  - "News"
-slug: "researchers-react-to-new-nih-priorities-announcement"
+  - Clinical Trials &amp; Research
+  - Mental Health
+  - News
+slug: researchers-react-to-new-nih-priorities-announcement
 reading_time: 3
-source_url: "https://medicalnewsalley.com/researchers-react-to-new-nih-priorities-announcement/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/researchers-react-to-new-nih-priorities-announcement/
+imported_from: wordpress
 wp_original_id: 32478
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/researchers-react-to-new-nih-priorities-announcement.webp
 seo:
-  canonical: "https://medicalnewsalley.com/researchers-react-to-new-nih-priorities-announcement/"
-  og_title: "Researchers React to New NIH Priorities Announcement - Medical News Alley"
-  og_description: "The National Institutes of Health's new research priorities emphasize interdisciplinary approaches, focusing on mental health, substance abuse, and health equity. While applauded for addressing critical issues, some researchers worry about potential impacts on funding for basic research."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/08/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/researchers-react-to-new-nih-priorities-announcement/
+  og_title: Researchers React to New NIH Priorities Announcement - Medical News Alley
+  og_description: >-
+    The National Institutes of Health's new research priorities emphasize
+    interdisciplinary approaches, focusing on mental health, substance abuse,
+    and health equity. While applauded for addressing critical issues, some
+    researchers worry about potential impacts on funding for basic research.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/08/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 48
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong relevance and tone but significantly under target word count at 484 words, which severely impacts the content length score."
+quality_note: >-
+  Strong relevance and tone but significantly under target word count at 484
+  words, which severely impacts the content length score.
+image_alt: >-
+  Diverse medical researchers discuss abstract health research visuals in a
+  softly lit conference room.
 ---
 
 The National Institutes of Health (NIH) recently unveiled its research priorities, sparking diverse reactions from the scientific community. As a leading institution in health research funding, NIH's strategic choices significantly impact the direction of scientific inquiry and innovation. Researchers and stakeholders are closely evaluating the implications of these priorities for various fields of study.
