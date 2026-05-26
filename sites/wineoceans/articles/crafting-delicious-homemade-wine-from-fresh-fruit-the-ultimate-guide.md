@@ -18,7 +18,8 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-crafting-delicious-homemade-wine-from-fresh-fruit-the-ultimate-guide
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/crafting-delicious-homemade-wine-from-fresh-fruit-the-ultimate-guide.webp
 reading_time: 3
 quality_score: 77
 score_breakdown:
@@ -30,6 +31,7 @@ score_breakdown:
 quality_note: >-
   Article covers relevant wine topics well but falls short on length and lacks
   engaging tone for beginner audience.
+image_alt: Fresh fruit and a glass fermentation jar on a sunlit rustic kitchen worktop
 ---
 ## New Resource Emerges for Home Winemakers
 
