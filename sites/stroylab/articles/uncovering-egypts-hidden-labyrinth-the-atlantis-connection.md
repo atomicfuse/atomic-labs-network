@@ -1,29 +1,37 @@
 ---
-title: "Uncovering Egypt’s Hidden Labyrinth: The Atlantis Connection"
-description: "Explore the fascinating story of the Lost Labyrinth of Hawara, an ancient Egyptian structure linked to Atlantis, recently rediscovered after thousands of years."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:31:22+00:00"
-author: "Blake Anderson"
+title: 'Uncovering Egypt’s Hidden Labyrinth: The Atlantis Connection'
+description: >-
+  Explore the fascinating story of the Lost Labyrinth of Hawara, an ancient
+  Egyptian structure linked to Atlantis, recently rediscovered after thousands
+  of years.
+type: standard
+status: review
+publishDate: '2025-12-22T11:31:22+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Deep Dives"
-  - "Mysteries"
-slug: "uncovering-egypts-hidden-labyrinth-the-atlantis-connection"
+  - Dark History
+  - Deep Dives
+  - Mysteries
+slug: uncovering-egypts-hidden-labyrinth-the-atlantis-connection
 reading_time: 2
-source_url: "https://stroylab.com/uncovering-egypts-hidden-labyrinth-the-atlantis-connection/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/uncovering-egypts-hidden-labyrinth-the-atlantis-connection/
+imported_from: wordpress
 wp_original_id: 690
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/uncovering-egypts-hidden-labyrinth-the-atlantis-connection.webp
 seo:
-  canonical: "https://stroylab.com/uncovering-egypts-hidden-labyrinth-the-atlantis-connection/"
-  og_title: "Uncovering Egypt's Hidden Labyrinth: The Atlantis Connection - StroyLab"
-  og_description: "Explore the fascinating story of the Lost Labyrinth of Hawara, an ancient Egyptian structure linked to Atlantis, recently rediscovered after thousands of years."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/uncovering-egypts-hidden-labyrinth-the-atlantis-connection/
+  og_title: 'Uncovering Egypt''s Hidden Labyrinth: The Atlantis Connection - StroyLab'
+  og_description: >-
+    Explore the fascinating story of the Lost Labyrinth of Hawara, an ancient
+    Egyptian structure linked to Atlantis, recently rediscovered after thousands
+    of years.
+  twitter_card: summary_large_image
 videos:
-  - id: "e7ede97c"
-    url: "https://www.youtube.com/watch?v=NVLrQ0twtDA"
-    position: "after-paragraph-2"
+  - id: e7ede97c
+    url: 'https://www.youtube.com/watch?v=NVLrQ0twtDA'
+    position: after-paragraph-2
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -31,7 +39,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong mystery content with excellent keyword alignment, but severely penalized by extremely short length at only 276 words versus the 800-1200 target range."
+quality_note: >-
+  Strong mystery content with excellent keyword alignment, but severely
+  penalized by extremely short length at only 276 words versus the 800-1200
+  target range.
+image_alt: >-
+  Archaeologist at a desert ruin entrance with mysterious blue light beneath
+  ancient Egyptian sands
 ---
 
 The Lost Labyrinth of Hawara is an enigma that has intrigued historians and archaeologists alike. Described by the Greek historian Herodotus in 450 BC, this labyrinth was said to be so grand that it dwarfed even the mighty pyramids of Egypt. For millennia, the labyrinth remained a mere legend, hidden beneath the sands of the Egyptian desert.
