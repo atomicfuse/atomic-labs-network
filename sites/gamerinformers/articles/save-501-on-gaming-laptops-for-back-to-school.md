@@ -1,24 +1,32 @@
 ---
-title: "Save $501 on Gaming Laptops for Back-to-School"
-description: "As students prepare for the school year, the demand for high-performance laptops rises. Gaming laptops offer the perfect blend of power and portability, with discounts up to $501, making it an ideal time to invest for academic and gaming needs."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T04:17:28+00:00"
-author: "Taylor Winters"
+title: Save $501 on Gaming Laptops for Back-to-School
+description: >-
+  As students prepare for the school year, the demand for high-performance
+  laptops rises. Gaming laptops offer the perfect blend of power and
+  portability, with discounts up to $501, making it an ideal time to invest for
+  academic and gaming needs.
+type: standard
+status: review
+publishDate: '2025-07-31T04:17:28+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "save-501-on-gaming-laptops-for-back-to-school"
+  - Gaming News
+  - Community
+slug: save-501-on-gaming-laptops-for-back-to-school
 reading_time: 3
-source_url: "https://gamerinformers.com/save-501-on-gaming-laptops-for-back-to-school/"
-imported_from: "wordpress"
+source_url: 'https://gamerinformers.com/save-501-on-gaming-laptops-for-back-to-school/'
+imported_from: wordpress
 wp_original_id: 34044
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: /assets/images/save-501-on-gaming-laptops-for-back-to-school.webp
 seo:
-  canonical: "https://gamerinformers.com/save-501-on-gaming-laptops-for-back-to-school/"
-  og_title: "Save $501 on Gaming Laptops for Back-to-School - Gamer Informers"
-  og_description: "As students prepare for the school year, the demand for high-performance laptops rises. Gaming laptops offer the perfect blend of power and portability, with discounts up to $501, making it an ideal time to invest for academic and gaming needs."
-  twitter_card: "summary_large_image"
+  canonical: 'https://gamerinformers.com/save-501-on-gaming-laptops-for-back-to-school/'
+  og_title: Save $501 on Gaming Laptops for Back-to-School - Gamer Informers
+  og_description: >-
+    As students prepare for the school year, the demand for high-performance
+    laptops rises. Gaming laptops offer the perfect blend of power and
+    portability, with discounts up to $501, making it an ideal time to invest
+    for academic and gaming needs.
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Article is well-written but significantly under target length at 511 words, lacks specific product details and prices that gaming enthusiasts expect, though maintains good tone and structure."
+quality_note: >-
+  Article is well-written but significantly under target length at 511 words,
+  lacks specific product details and prices that gaming enthusiasts expect,
+  though maintains good tone and structure.
+image_alt: >-
+  Unbranded gaming laptop on a student desk with school supplies and colorful
+  gaming lights
 ---
 
 As students prepare for the upcoming school year, the demand for versatile and high-performance laptops is on the rise. Whether you're heading to college or starting a new course, a gaming laptop can offer the perfect blend of power and portability. With discounts reaching up to $501, this is an opportune moment to invest in a device that meets both academic and gaming needs.
