@@ -1,24 +1,31 @@
 ---
-title: "Sonos Price Hike Expected Due to New Tariffs"
-description: "Sonos announces a price increase due to escalating tariffs affecting manufacturing costs, with popular products like the Sonos One speaker and Sonos Arc soundbar among those seeing price adjustments."
-type: "standard"
-status: "published"
-publishDate: "2025-08-07T06:28:22+00:00"
-author: "Arthur Daly"
+title: Sonos Price Hike Expected Due to New Tariffs
+description: >-
+  Sonos announces a price increase due to escalating tariffs affecting
+  manufacturing costs, with popular products like the Sonos One speaker and
+  Sonos Arc soundbar among those seeing price adjustments.
+type: standard
+status: published
+publishDate: '2025-08-07T06:28:22+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "sonos-price-hike-expected-due-to-new-tariffs"
+  - Tech
+slug: sonos-price-hike-expected-due-to-new-tariffs
 reading_time: 4
-source_url: "https://geekystudios.com/sonos-price-hike-expected-due-to-new-tariffs/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/sonos-price-hike-expected-due-to-new-tariffs/'
+imported_from: wordpress
 wp_original_id: 631
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/sonos-price-hike-expected-due-to-new-tariffs.webp
 seo:
-  canonical: "https://geekystudios.com/sonos-price-hike-expected-due-to-new-tariffs/"
-  og_title: "Sonos Price Hike Expected Due to New Tariffs - Geeky Studios"
-  og_description: "Sonos announces a price increase due to escalating tariffs affecting manufacturing costs. Popular products like the Sonos One speaker and Sonos Arc soundbar will see price adjustments, reflecting challenges from international trade policies and efforts to maintain profitability."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/08/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://geekystudios.com/sonos-price-hike-expected-due-to-new-tariffs/'
+  og_title: Sonos Price Hike Expected Due to New Tariffs - Geeky Studios
+  og_description: >-
+    Sonos announces a price increase due to escalating tariffs affecting
+    manufacturing costs. Popular products like the Sonos One speaker and Sonos
+    Arc soundbar will see price adjustments, reflecting challenges from
+    international trade policies and efforts to maintain profitability.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/08/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +33,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written tech article with good tone and keyword coverage, but falls short on length and lacks specific data to support tariff claims."
+quality_note: >-
+  Well-written tech article with good tone and keyword coverage, but falls short
+  on length and lacks specific data to support tariff claims.
+image_alt: >-
+  Unbranded smart speaker and soundbar surrounded by abstract tariff and rising
+  cost visuals
 ---
 
 In recent developments, Sonos, a leading name in the audio technology industry, has announced a price increase for its products. This decision comes in response to escalating tariffs impacting manufacturing costs. The move is set to affect consumers who have been loyal to the brand for its high-quality sound systems, known for their seamless integration and user-friendly features.
