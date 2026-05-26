@@ -1,22 +1,28 @@
 ---
-title: "Forever Chemicals Accelerate Aging in Middle-Aged Men: Study"
-description: "Recent research highlights the impact of \"forever chemicals\" (PFAS) on aging in men, linking higher exposure levels to accelerated biological aging and prompting significant public health concerns."
-type: "standard"
-status: "published"
-publishDate: "2026-02-26T12:53:37"
-author: "Taylor Winters"
+title: 'Forever Chemicals Accelerate Aging in Middle-Aged Men: Study'
+description: >-
+  Recent research highlights the impact of "forever chemicals" (PFAS) on aging
+  in men, linking higher exposure levels to accelerated biological aging and
+  prompting significant public health concerns.
+type: standard
+status: published
+publishDate: '2026-02-26T12:53:37'
+author: Taylor Winters
 tags:
-  - "Environment"
-  - "Humans"
-slug: "forever-chemicals-accelerate-aging-in-middle-aged-men-study"
+  - Environment
+  - Humans
+slug: forever-chemicals-accelerate-aging-in-middle-aged-men-study
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/forever-chemicals-accelerate-aging-in-middle-aged-men-study/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/forever-chemicals-accelerate-aging-in-middle-aged-men-study/
+imported_from: wordpress
 wp_original_id: 15077
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/forever-chemicals-accelerate-aging-in-middle-aged-men-study.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/forever-chemicals-accelerate-aging-in-middle-aged-men-study/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/forever-chemicals-accelerate-aging-in-middle-aged-men-study/
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword relevance but significantly under target word count at 443 words, which severely impacts the content length score."
+quality_note: >-
+  Well-written article with good tone and keyword relevance but significantly
+  under target word count at 443 words, which severely impacts the content
+  length score.
+image_alt: >-
+  Middle-aged man reflected in a glass of water, suggesting unseen chemical
+  exposure and aging concerns.
 ---
 
 Recent research has brought to light the concerning impact of certain synthetic chemicals on the aging process in men. These chemicals, often referred to as "forever chemicals," are linked to accelerated biological aging in middle-aged men, raising significant public health concerns.
