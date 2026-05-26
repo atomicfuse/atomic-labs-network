@@ -1,25 +1,40 @@
 ---
-title: "Top Beauty Trends from Paris Fashion Week Fall/Winter 2026"
-description: "Paris Fashion Week Fall/Winter 2026 highlights bold color use, glossy finishes, and natural hair textures, while minimalist makeup and flawless skin emphasize natural beauty and encourage experimentation and self-expression."
-type: "standard"
-status: "published"
-publishDate: "2026-03-16T09:47:29+00:00"
-author: "Taylor Winters"
+title: Top Beauty Trends from Paris Fashion Week Fall/Winter 2026
+description: >-
+  Paris Fashion Week Fall/Winter 2026 highlights bold color use, glossy
+  finishes, and natural hair textures, while minimalist makeup and flawless skin
+  emphasize natural beauty and encourage experimentation and self-expression.
+type: standard
+status: published
+publishDate: '2026-03-16T09:47:29+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty"
-  - "Fashion"
-slug: "top-beauty-trends-from-paris-fashion-week-fall-winter-2026"
+  - Beauty
+  - Fashion
+slug: top-beauty-trends-from-paris-fashion-week-fall-winter-2026
 reading_time: 3
-source_url: "https://fashionnewsbee.com/top-beauty-trends-from-paris-fashion-week-fall-winter-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/top-beauty-trends-from-paris-fashion-week-fall-winter-2026/
+imported_from: wordpress
 wp_original_id: 31653
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-beauty-trends-from-paris-fashion-week-fall-winter-2026.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-beauty-trends-from-paris-fashion-week-fall-winter-2026/"
-  og_title: "Top Beauty Trends from Paris Fashion Week Fall/Winter 2026 - Fashion News Bee"
-  og_description: "Paris Fashion Week Fall/Winter 2026 highlights bold color use, glossy finishes, and natural hair textures. Vibrant hues and glitter dominate, while minimalist makeup and flawless skin emphasize natural beauty. The event encourages experimentation and self-expression in fashion and beauty trends."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/03/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/top-beauty-trends-from-paris-fashion-week-fall-winter-2026/
+  og_title: >-
+    Top Beauty Trends from Paris Fashion Week Fall/Winter 2026 - Fashion News
+    Bee
+  og_description: >-
+    Paris Fashion Week Fall/Winter 2026 highlights bold color use, glossy
+    finishes, and natural hair textures. Vibrant hues and glitter dominate,
+    while minimalist makeup and flawless skin emphasize natural beauty. The
+    event encourages experimentation and self-expression in fashion and beauty
+    trends.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/03/make_file-1.png'
+  twitter_card: summary_large_image
+image_alt: >-
+  Editorial beauty portrait with glossy skin, bold eye color, and natural
+  textured hair in soft Parisian light.
 ---
 
 Paris Fashion Week is a pivotal event in the fashion calendar, consistently setting the stage for upcoming beauty trends. As the Fall/Winter 2026 season unfolded, the runways became a canvas for innovative makeup and hair trends that push the boundaries of creativity.
