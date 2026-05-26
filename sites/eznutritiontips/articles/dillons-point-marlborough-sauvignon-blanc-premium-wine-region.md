@@ -21,7 +21,8 @@ source_url: >-
   https://www.forbes.com/sites/jeanettehurt/2026/05/25/what-was-once-a-backwater-has-become-prime-sauvignon-blanc-real-estate/
 source_item_id: 6a14fea216f23264031d8042
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: >-
+  /assets/images/dillons-point-marlborough-sauvignon-blanc-premium-wine-region.webp
 quality_score: 48
 score_breakdown:
   seo_quality: 25
@@ -33,6 +34,9 @@ quality_note: >-
   While well-written about wine, this article completely misses the site's focus
   on nutrition, healthy eating, and food content for eznutritiontips audience.
 reading_time: 3
+image_alt: >-
+  Coastal vineyard rows stretch toward low hills and sea mist under warm
+  golden-hour light.
 ---
 ## The Rise of an Unlikely Wine Star
 
