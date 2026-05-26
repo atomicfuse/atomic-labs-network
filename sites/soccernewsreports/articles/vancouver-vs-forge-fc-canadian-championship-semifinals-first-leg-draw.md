@@ -1,24 +1,35 @@
 ---
-title: "Vancouver vs Forge FC: Canadian Championship Semifinals First Leg Draw"
-description: "The Canadian Championship semifinal between Vancouver Whitecaps and Forge FC ended in a thrilling 0-0 draw, with both teams showcasing their skills and strategies while leaving the outcome wide open for the decisive second leg."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T04:29:26+00:00"
-author: "Taylor Winters"
+title: 'Vancouver vs Forge FC: Canadian Championship Semifinals First Leg Draw'
+description: >-
+  The Canadian Championship semifinal between Vancouver Whitecaps and Forge FC
+  ended in a thrilling 0-0 draw, with both teams showcasing their skills and
+  strategies while leaving the outcome wide open for the decisive second leg.
+type: standard
+status: review
+publishDate: '2025-08-14T04:29:26+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Ajax Amsterdam"
-slug: "vancouver-vs-forge-fc-canadian-championship-semifinals-first-leg-draw"
+  - Latest News
+  - Ajax Amsterdam
+slug: vancouver-vs-forge-fc-canadian-championship-semifinals-first-leg-draw
 reading_time: 3
-source_url: "https://soccernewsreports.com/vancouver-vs-forge-fc-canadian-championship-semifinals-first-leg-draw/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/vancouver-vs-forge-fc-canadian-championship-semifinals-first-leg-draw/
+imported_from: wordpress
 wp_original_id: 37889
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/vancouver-vs-forge-fc-canadian-championship-semifinals-first-leg-draw.webp
 seo:
-  canonical: "https://soccernewsreports.com/vancouver-vs-forge-fc-canadian-championship-semifinals-first-leg-draw/"
-  og_title: "Vancouver vs Forge FC: Canadian Championship Semifinals First Leg Draw - Soccer News Reports"
-  og_description: "The Canadian Championship semifinal between Vancouver Whitecaps and Forge FC ended in a thrilling 0-0 draw. Both teams showcased their skills and strategies, leaving the outcome wide open for the decisive second leg."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/vancouver-vs-forge-fc-canadian-championship-semifinals-first-leg-draw/
+  og_title: >-
+    Vancouver vs Forge FC: Canadian Championship Semifinals First Leg Draw -
+    Soccer News Reports
+  og_description: >-
+    The Canadian Championship semifinal between Vancouver Whitecaps and Forge FC
+    ended in a thrilling 0-0 draw. Both teams showcased their skills and
+    strategies, leaving the outcome wide open for the decisive second leg.
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -26,7 +37,10 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 75
   keyword_relevance: 45
-quality_note: "The article has good tone and structure but falls short on length, has mismatched tags, and lacks specific factual details about the actual match."
+quality_note: >-
+  The article has good tone and structure but falls short on length, has
+  mismatched tags, and lacks specific factual details about the actual match.
+image_alt: Two soccer players contest a ball under stadium lights on a rain-slick pitch.
 ---
 
 The highly anticipated semifinal clash of the Canadian Championship witnessed an intense face-off between Vancouver Whitecaps and Forge FC, resulting in a thrilling stalemate. Fans experienced a match filled with gripping moments and strategic plays, leaving the outcome wide open for the decisive second leg.
