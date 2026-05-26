@@ -1,22 +1,29 @@
 ---
-title: "12 Scientifically Proven Self-Gifting Ideas for the Holidays"
-description: "The holiday season is a time of joy but can also bring stress. Self-care is crucial, with activities like nature walks, mindfulness, and quality sleep improving mental health and well-being — prioritize these to fully enjoy the festive period."
-type: "standard"
-status: "review"
-publishDate: "2025-11-24T13:19:28"
-author: "Taylor Winters"
+title: 12 Scientifically Proven Self-Gifting Ideas for the Holidays
+description: >-
+  The holiday season is a time of joy but can also bring stress. Self-care is
+  crucial, with activities like nature walks, mindfulness, and quality sleep
+  improving mental health and well-being — prioritize these to fully enjoy the
+  festive period.
+type: standard
+status: review
+publishDate: '2025-11-24T13:19:28'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "12-scientifically-proven-self-gifting-ideas-for-the-holidays"
+  - Space
+  - Humans
+slug: 12-scientifically-proven-self-gifting-ideas-for-the-holidays
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/12-scientifically-proven-self-gifting-ideas-for-the-holidays/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/12-scientifically-proven-self-gifting-ideas-for-the-holidays/
+imported_from: wordpress
 wp_original_id: 15030
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/12-scientifically-proven-self-gifting-ideas-for-the-holidays.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/12-scientifically-proven-self-gifting-ideas-for-the-holidays/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/12-scientifically-proven-self-gifting-ideas-for-the-holidays/
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -24,7 +31,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: "While well-written for general wellness content, this article poorly matches the science-focused site targeting space/nature/physics/technology topics and falls short of the target word count."
+quality_note: >-
+  While well-written for general wellness content, this article poorly matches
+  the science-focused site targeting space/nature/physics/technology topics and
+  falls short of the target word count.
+image_alt: >-
+  Cozy holiday self-care scene with tea, journal, wrapped gift, evergreens, and
+  warm morning light
 ---
 
 The holiday season is a time of joy and giving, but it can also bring stress and exhaustion. While we often focus on gifting others, it's equally important to take care of ourselves. Research suggests that self-care during the holidays can improve mental health, boost energy, and enhance overall well-being. Here are some scientifically supported ways to gift yourself this holiday season that will benefit both your mind and body.
