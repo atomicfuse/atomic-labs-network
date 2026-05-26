@@ -1,24 +1,32 @@
 ---
-title: "Mercedes-Benz G 580: Ultimate Electric SUV Review"
-description: "The Mercedes-Benz G 580 combines the iconic design and off-road capabilities of the G-Class with modern electric vehicle technology, delivering impressive performance, luxurious comfort, and a commitment to sustainability while setting new standards for electric off-road vehicles."
-type: "standard"
-status: "published"
-publishDate: "2025-06-26T04:07:24+00:00"
-author: "Taylor Winters"
+title: 'Mercedes-Benz G 580: Ultimate Electric SUV Review'
+description: >-
+  The Mercedes-Benz G 580 combines the iconic design and off-road capabilities
+  of the G-Class with modern electric vehicle technology, delivering impressive
+  performance, luxurious comfort, and a commitment to sustainability while
+  setting new standards for electric off-road vehicles.
+type: standard
+status: published
+publishDate: '2025-06-26T04:07:24+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-slug: "mercedes-benz-g-580-ultimate-electric-suv-review"
+  - Electric Cars
+slug: mercedes-benz-g-580-ultimate-electric-suv-review
 reading_time: 3
-source_url: "https://carsnewsmag.com/mercedes-benz-g-580-ultimate-electric-suv-review/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/mercedes-benz-g-580-ultimate-electric-suv-review/'
+imported_from: wordpress
 wp_original_id: 38464
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/mercedes-benz-g-580-ultimate-electric-suv-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/mercedes-benz-g-580-ultimate-electric-suv-review/"
-  og_title: "Mercedes-Benz G 580: Ultimate Electric SUV Review - Cars News Magazine"
-  og_description: "The Mercedes-Benz G 580 combines the iconic design and off-road capabilities of the G-Class with modern electric vehicle technology, delivering impressive performance, luxurious comfort, and a commitment to sustainability while setting new standards for electric off-road vehicles."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/06/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/mercedes-benz-g-580-ultimate-electric-suv-review/'
+  og_title: 'Mercedes-Benz G 580: Ultimate Electric SUV Review - Cars News Magazine'
+  og_description: >-
+    The Mercedes-Benz G 580 combines the iconic design and off-road capabilities
+    of the G-Class with modern electric vehicle technology, delivering
+    impressive performance, luxurious comfort, and a commitment to
+    sustainability while setting new standards for electric off-road vehicles.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/06/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong automotive review content with excellent keyword relevance and tone, but falls short on word count at 584 words versus the 800-1200 target range."
+quality_note: >-
+  Strong automotive review content with excellent keyword relevance and tone,
+  but falls short on word count at 584 words versus the 800-1200 target range.
+image_alt: >-
+  Luxury electric off-road SUV on a rocky ridge at sunrise with subtle blue
+  lighting.
 ---
 
 The Mercedes-Benz G-Class has long been a symbol of rugged elegance and high performance. Now, with the introduction of the Mercedes-Benz G 580, the brand takes a bold step into the electric vehicle (EV) market while maintaining the G-Class's iconic design and off-road capabilities. This article explores the features, performance, and design of the Mercedes-Benz G 580, highlighting how it blends tradition with innovation.
