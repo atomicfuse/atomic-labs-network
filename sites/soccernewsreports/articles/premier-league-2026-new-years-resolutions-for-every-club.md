@@ -1,25 +1,37 @@
 ---
-title: "Premier League 2026: New Year’s Resolutions for Every Club"
-description: "Premier League clubs are setting ambitious New Year's resolutions for 2026, focusing on youth development, strategic transfers, financial management, fan engagement, sustainability, and diversity to strengthen their operations and competitiveness."
-type: "standard"
-status: "published"
-publishDate: "2026-01-01T09:37:17+00:00"
-author: "Taylor Winters"
+title: 'Premier League 2026: New Year’s Resolutions for Every Club'
+description: >-
+  Premier League clubs are setting ambitious New Year's resolutions for 2026,
+  focusing on youth development, strategic transfers, financial management, fan
+  engagement, sustainability, and diversity to strengthen their operations and
+  competitiveness.
+type: standard
+status: published
+publishDate: '2026-01-01T09:37:17+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "premier-league-2026-new-years-resolutions-for-every-club"
+  - Latest News
+  - AFC Bournemouth
+slug: premier-league-2026-new-years-resolutions-for-every-club
 reading_time: 3
-source_url: "https://soccernewsreports.com/premier-league-2026-new-years-resolutions-for-every-club/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/premier-league-2026-new-years-resolutions-for-every-club/
+imported_from: wordpress
 wp_original_id: 37954
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/premier-league-2026-new-years-resolutions-for-every-club.webp
 seo:
-  canonical: "https://soccernewsreports.com/premier-league-2026-new-years-resolutions-for-every-club/"
-  og_title: "Premier League 2026: New Year's Resolutions for Every Club - Soccer News Reports"
-  og_description: "The Premier League clubs are focusing on youth development, strategic transfers, financial management, fan engagement, sustainability, and diversity to enhance their operations and competitiveness by 2026, setting the stage for a successful future."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/premier-league-2026-new-years-resolutions-for-every-club/
+  og_title: >-
+    Premier League 2026: New Year's Resolutions for Every Club - Soccer News
+    Reports
+  og_description: >-
+    The Premier League clubs are focusing on youth development, strategic
+    transfers, financial management, fan engagement, sustainability, and
+    diversity to enhance their operations and competitiveness by 2026, setting
+    the stage for a successful future.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and structure but falls short on length (526 words vs 800-1200 target) and could better align with core sports content focus."
+quality_note: >-
+  Well-written article with good tone and structure but falls short on length
+  (526 words vs 800-1200 target) and could better align with core sports content
+  focus.
+image_alt: >-
+  Dawn-lit football stadium with tactical gear and players preparing for a new
+  season of ambition.
 ---
 
 The Premier League is a dynamic and ever-evolving competition, where each club faces unique challenges and opportunities. As we look ahead to 2026, clubs across the league are setting ambitious goals to enhance their performance and maintain their competitive edge. These resolutions vary from boosting player development to improving financial stability, reflecting the diverse priorities across the league.
