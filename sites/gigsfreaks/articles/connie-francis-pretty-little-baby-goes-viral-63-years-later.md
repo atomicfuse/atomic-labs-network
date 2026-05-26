@@ -1,24 +1,35 @@
 ---
-title: "Connie Francis’ ‘Pretty Little Baby’ Goes Viral 63 Years Later"
-description: "Connie Francis's 1960s track \"Pretty Little Baby\" has gone viral on TikTok 63 years later, resonating with millions of new listeners and highlighting how digital platforms can bridge generational gaps by introducing classic music to fresh audiences."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T06:02:19+00:00"
-author: "Nico Harper"
+title: Connie Francis’ ‘Pretty Little Baby’ Goes Viral 63 Years Later
+description: >-
+  Connie Francis's 1960s track "Pretty Little Baby" has gone viral on TikTok 63
+  years later, resonating with millions of new listeners and highlighting how
+  digital platforms can bridge generational gaps by introducing classic music to
+  fresh audiences.
+type: standard
+status: review
+publishDate: '2025-05-15T06:02:19+00:00'
+author: Nico Harper
 tags:
-  - "Hot Trends"
-slug: "connie-francis-pretty-little-baby-goes-viral-63-years-later"
+  - Hot Trends
+slug: connie-francis-pretty-little-baby-goes-viral-63-years-later
 reading_time: 4
-source_url: "https://gigsfreaks.com/connie-francis-pretty-little-baby-goes-viral-63-years-later/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/connie-francis-pretty-little-baby-goes-viral-63-years-later/
+imported_from: wordpress
 wp_original_id: 916
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/connie-francis-pretty-little-baby-goes-viral-63-years-later.webp
 seo:
-  canonical: "https://gigsfreaks.com/connie-francis-pretty-little-baby-goes-viral-63-years-later/"
-  og_title: "Connie Francis' 'Pretty Little Baby' Goes Viral 63 Years Later - GigsFreaks"
-  og_description: "Connie Francis's 1960s track, Pretty Little Baby, has found a fresh audience on TikTok, where its nostalgic charm is resonating with millions, highlighting how digital platforms can bridge generational gaps and introduce classic tunes to new listeners."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-111.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/connie-francis-pretty-little-baby-goes-viral-63-years-later/
+  og_title: Connie Francis' 'Pretty Little Baby' Goes Viral 63 Years Later - GigsFreaks
+  og_description: >-
+    Connie Francis's 1960s track, Pretty Little Baby, has found a fresh audience
+    on TikTok, where its nostalgic charm is resonating with millions,
+    highlighting how digital platforms can bridge generational gaps and
+    introduce classic tunes to new listeners.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-111.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,10 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "Strong tone and relevance to Hot Trends topic, but significantly undermined by factual inaccuracies about the song's release date and length issues."
+quality_note: >-
+  Strong tone and relevance to Hot Trends topic, but significantly undermined by
+  factual inaccuracies about the song's release date and length issues.
+image_alt: Vintage record and glowing smartphone connect two generations through music.
 ---
 
 In the ever-evolving world of music, where the newest hits often gain the spotlight, an unexpected resurgence of a classic song has captured the attention of a new generation. Connie Francis's 1960s track, "Pretty Little Baby," has found a fresh audience on TikTok, where its nostalgic charm is resonating with millions of users and catapulting it into viral fame.
