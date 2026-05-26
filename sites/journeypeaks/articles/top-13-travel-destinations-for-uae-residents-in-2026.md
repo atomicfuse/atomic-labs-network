@@ -1,25 +1,33 @@
 ---
-title: "Top 13 Travel Destinations for UAE Residents in 2026"
-description: "A guide to the top 13 travel destinations for UAE residents in 2026, covering diverse locations worldwide that offer unique cultural, adventurous, and relaxing experiences."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T09:55:41+00:00"
-author: "Taylor Winters"
+title: Top 13 Travel Destinations for UAE Residents in 2026
+description: >-
+  A guide to the top 13 travel destinations for UAE residents in 2026, covering
+  diverse locations worldwide that offer unique cultural, adventurous, and
+  relaxing experiences.
+type: standard
+status: published
+publishDate: '2025-12-04T09:55:41+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-13-travel-destinations-for-uae-residents-in-2026"
+  - Destinations
+  - Travel
+slug: top-13-travel-destinations-for-uae-residents-in-2026
 reading_time: 4
-source_url: "https://journeypeaks.com/top-13-travel-destinations-for-uae-residents-in-2026/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-13-travel-destinations-for-uae-residents-in-2026/'
+imported_from: wordpress
 wp_original_id: 38759
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-13-travel-destinations-for-uae-residents-in-2026.webp
 seo:
-  canonical: "https://journeypeaks.com/top-13-travel-destinations-for-uae-residents-in-2026/"
-  og_title: "Top 13 Travel Destinations for UAE Residents in 2026 - Journey Peaks"
-  og_description: "As 2026 approaches, travelers from the UAE are planning adventures to diverse destinations offering captivating cultures, stunning landscapes, and vibrant cities. From Egypt's historical treasures to Iceland's natural beauty, each location promises unique experiences for globetrotters."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/12/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-13-travel-destinations-for-uae-residents-in-2026/
+  og_title: Top 13 Travel Destinations for UAE Residents in 2026 - Journey Peaks
+  og_description: >-
+    As 2026 approaches, travelers from the UAE are planning adventures to
+    diverse destinations offering captivating cultures, stunning landscapes, and
+    vibrant cities. From Egypt's historical treasures to Iceland's natural
+    beauty, each location promises unique experiences for globetrotters.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/12/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,11 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-structured travel guide with good keyword relevance and engaging tone, but falls short of target word count and lacks some SEO optimization elements like meta description within range."
+quality_note: >-
+  Well-structured travel guide with good keyword relevance and engaging tone,
+  but falls short of target word count and lacks some SEO optimization elements
+  like meta description within range.
+image_alt: Open suitcase in a sunlit airport lounge suggesting global travel from the UAE
 ---
 
 As 2026 approaches, travelers from the UAE are planning adventures to diverse destinations offering captivating cultures, stunning landscapes, and vibrant cities. From Egypt's historical treasures to Iceland's natural beauty, each location promises unique experiences for globetrotters.
