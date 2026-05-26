@@ -1,26 +1,37 @@
 ---
-title: "Discover Your Perfect Travel Destination with Nth Round Trip"
-description: "South Korea's vibrant cultural festivals celebrate its rich heritage and contemporary arts, drawing locals and tourists to experience traditional and modern interpretations through art, music, and food, enhancing national identity and boosting tourism and the local economy."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T04:35:30+00:00"
-author: "Taylor Winters"
+title: Discover Your Perfect Travel Destination with Nth Round Trip
+description: >-
+  South Korea's vibrant cultural festivals celebrate its rich heritage and
+  contemporary arts, drawing locals and tourists to experience traditional and
+  modern interpretations through art, music, and food, enhancing national
+  identity and boosting tourism and the local economy.
+type: standard
+status: review
+publishDate: '2025-08-07T04:35:30+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "discover-your-perfect-travel-destination-with-nth-round-trip"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: discover-your-perfect-travel-destination-with-nth-round-trip
 reading_time: 4
-source_url: "https://journeypeaks.com/discover-your-perfect-travel-destination-with-nth-round-trip/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/discover-your-perfect-travel-destination-with-nth-round-trip/
+imported_from: wordpress
 wp_original_id: 38674
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-your-perfect-travel-destination-with-nth-round-trip.webp
 seo:
-  canonical: "https://journeypeaks.com/discover-your-perfect-travel-destination-with-nth-round-trip/"
-  og_title: "Discover Your Perfect Travel Destination with Nth Round Trip - Journey Peaks"
-  og_description: "South Korea's vibrant cultural festivals celebrate its rich heritage and contemporary arts, drawing locals and tourists to experience traditional and modern interpretations through art, music, and food, enhancing national identity and boosting tourism and the local economy."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/08/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/discover-your-perfect-travel-destination-with-nth-round-trip/
+  og_title: Discover Your Perfect Travel Destination with Nth Round Trip - Journey Peaks
+  og_description: >-
+    South Korea's vibrant cultural festivals celebrate its rich heritage and
+    contemporary arts, drawing locals and tourists to experience traditional and
+    modern interpretations through art, music, and food, enhancing national
+    identity and boosting tourism and the local economy.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/08/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 45
@@ -28,7 +39,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good content about Korean cultural festivals but suffers from a misleading title that doesn't match the content and weak SEO optimization with poor heading structure."
+quality_note: >-
+  The article has good content about Korean cultural festivals but suffers from
+  a misleading title that doesn't match the content and weak SEO optimization
+  with poor heading structure.
+image_alt: >-
+  Festivalgoers enjoy lanterns, food, and music in a vibrant South Korean
+  cultural street scene.
 ---
 
 South Korea is renowned for its vibrant cultural festivals that celebrate the country's rich heritage and contemporary arts. These festivals not only showcase traditional Korean culture but also modern interpretations through various forms of art, music, and food. Every year, locals and tourists alike flock to these events to immerse themselves in the unique experiences offered by Korea's diverse cultural landscape.
