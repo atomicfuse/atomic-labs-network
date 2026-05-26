@@ -1,26 +1,37 @@
 ---
-title: "Teen Solo Travel: My First Flight Alone to Bali"
-description: "Flying solo for the first time can be exhilarating for teenagers. A trip to Bali combines adventure and personal growth. Proper preparation, understanding airline policies, and staying informed ensure a safe and enjoyable journey for young travelers."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T09:47:30+00:00"
-author: "Taylor Winters"
+title: 'Teen Solo Travel: My First Flight Alone to Bali'
+description: >-
+  Flying solo for the first time can be exhilarating for teenagers. A trip to
+  Bali combines adventure and personal growth. Proper preparation, understanding
+  airline policies, and staying informed ensure a safe and enjoyable journey for
+  young travelers.
+type: standard
+status: published
+publishDate: '2025-12-08T09:47:30+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Tips"
-  - "Travel"
-slug: "teen-solo-travel-my-first-flight-alone-to-bali"
+  - Destinations
+  - Tips
+  - Travel
+slug: teen-solo-travel-my-first-flight-alone-to-bali
 reading_time: 3
-source_url: "https://www.travelgeekexplorer.com/teen-solo-travel-my-first-flight-alone-to-bali/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.travelgeekexplorer.com/teen-solo-travel-my-first-flight-alone-to-bali/
+imported_from: wordpress
 wp_original_id: 44545
-featuredImage: "/assets/images/travelgeekexplorer-general-article.webp"
+featuredImage: /assets/images/teen-solo-travel-my-first-flight-alone-to-bali.webp
 seo:
-  canonical: "https://www.travelgeekexplorer.com/teen-solo-travel-my-first-flight-alone-to-bali/"
-  og_title: "Teen Solo Travel: My First Flight Alone to Bali - Travel Geek Explorer"
-  og_description: "Flying solo for the first time can be exhilarating for teenagers. A trip to Bali combines adventure and personal growth. Proper preparation, understanding airline policies, and staying informed ensure a safe and enjoyable journey for young travelers."
-  og_image: "https://www.travelgeekexplorer.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.travelgeekexplorer.com/teen-solo-travel-my-first-flight-alone-to-bali/
+  og_title: 'Teen Solo Travel: My First Flight Alone to Bali - Travel Geek Explorer'
+  og_description: >-
+    Flying solo for the first time can be exhilarating for teenagers. A trip to
+    Bali combines adventure and personal growth. Proper preparation,
+    understanding airline policies, and staying informed ensure a safe and
+    enjoyable journey for young travelers.
+  og_image: >-
+    https://www.travelgeekexplorer.com/wp-content/uploads/2025/12/make_file-1.jpeg
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +39,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short of target length at 552 words versus the 800-1200 word target range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short of target
+  length at 552 words versus the 800-1200 word target range.
+image_alt: >-
+  Teen traveler at an airport window facing a plane and warm tropical sunrise
+  reflections.
 ---
 
 Flying alone for the first time can be both an exhilarating and daunting experience, especially for teenagers. The journey to Bali offers a perfect blend of adventure, discovery, and personal growth. Understanding the essentials of solo air travel can make the experience smooth and enjoyable.
