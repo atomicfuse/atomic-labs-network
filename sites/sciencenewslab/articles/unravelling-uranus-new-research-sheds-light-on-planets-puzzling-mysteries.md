@@ -1,22 +1,29 @@
 ---
-title: "Unravelling Uranus: New Research Sheds Light on Planet’s Puzzling Mysteries"
-description: "The latest study on Uranus has debunked previous assumptions and provided new explanations for its unique characteristics such as its odd tilt, peculiar weather patterns, and unique magnetic field. This breakthrough expands our understanding of the solar system and opens up new avenues for research."
-type: "standard"
-status: "review"
-publishDate: "2025-04-10T11:01:52"
-author: "Taylor Winters"
+title: 'Unravelling Uranus: New Research Sheds Light on Planet’s Puzzling Mysteries'
+description: >-
+  The latest study on Uranus has debunked previous assumptions and provided new
+  explanations for its unique characteristics such as its odd tilt, peculiar
+  weather patterns, and unique magnetic field. This breakthrough expands our
+  understanding of the solar system and opens up new avenues for research.
+type: standard
+status: review
+publishDate: '2025-04-10T11:01:52'
+author: Taylor Winters
 tags:
-  - "Physics"
-  - "Space"
-slug: "unravelling-uranus-new-research-sheds-light-on-planets-puzzling-mysteries"
+  - Physics
+  - Space
+slug: unravelling-uranus-new-research-sheds-light-on-planets-puzzling-mysteries
 reading_time: 2
-source_url: "https://www.sciencenewslab.com/unravelling-uranus-new-research-sheds-light-on-planets-puzzling-mysteries/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/unravelling-uranus-new-research-sheds-light-on-planets-puzzling-mysteries/
+imported_from: wordpress
 wp_original_id: 14937
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/unravelling-uranus-new-research-sheds-light-on-planets-puzzling-mysteries.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/unravelling-uranus-new-research-sheds-light-on-planets-puzzling-mysteries/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/unravelling-uranus-new-research-sheds-light-on-planets-puzzling-mysteries/
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -24,7 +31,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 65
   keyword_relevance: 90
-quality_note: "While the article demonstrates good tone and strong keyword relevance, it falls significantly short on content length (368 words vs 800-1200 target) and contains some questionable scientific claims that may be inaccurate or oversimplified."
+quality_note: >-
+  While the article demonstrates good tone and strong keyword relevance, it
+  falls significantly short on content length (368 words vs 800-1200 target) and
+  contains some questionable scientific claims that may be inaccurate or
+  oversimplified.
+image_alt: Tilted Uranus glowing in space with subtle magnetic arcs and atmospheric bands
 ---
 
 Uranus, the seventh planet from the sun, has been the subject of many studies and speculations. Its odd tilt, peculiar weather patterns, and unique magnetic field have long puzzled astronomers. However, a recent study shatters previous assumptions and sheds new light on this mysterious celestial body.
