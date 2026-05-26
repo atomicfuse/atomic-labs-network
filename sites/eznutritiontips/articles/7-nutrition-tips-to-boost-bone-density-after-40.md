@@ -1,26 +1,32 @@
 ---
-title: "7 Nutrition Tips to Boost Bone Density After 40"
-description: "Support bone density after 40 with consistent nutrition: calcium, vitamin D, protein, magnesium, vitamin K, and plenty of produce, while limiting habits that may weaken bones."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:08:06+00:00"
-author: "Taylor Winters"
+title: 7 Nutrition Tips to Boost Bone Density After 40
+description: >-
+  Support bone density after 40 with consistent nutrition: calcium, vitamin D,
+  protein, magnesium, vitamin K, and plenty of produce, while limiting habits
+  that may weaken bones.
+type: standard
+status: published
+publishDate: '2026-05-14T09:08:06+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Tips"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "7-nutrition-tips-to-boost-bone-density-after-40"
+  - Nutrition Tips
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: 7-nutrition-tips-to-boost-bone-density-after-40
 reading_time: 7
-source_url: "https://eznutritiontips.com/7-nutrition-tips-to-boost-bone-density-after-40/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/7-nutrition-tips-to-boost-bone-density-after-40/'
+imported_from: wordpress
 wp_original_id: 19023
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/7-nutrition-tips-to-boost-bone-density-after-40.webp
 seo:
-  canonical: "https://eznutritiontips.com/7-nutrition-tips-to-boost-bone-density-after-40/"
-  og_title: "7 Nutrition Tips to Boost Bone Density After 40 - Easy Nutrition Tips"
-  og_description: "Support bone density after 40 with consistent nutrition: calcium, vitamin D, protein, magnesium, vitamin K, and plenty of produce, while limiting habits that may weaken bones."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/7-nutrition-tips-to-boost-bone-density-after-40/'
+  og_title: 7 Nutrition Tips to Boost Bone Density After 40 - Easy Nutrition Tips
+  og_description: >-
+    Support bone density after 40 with consistent nutrition: calcium, vitamin D,
+    protein, magnesium, vitamin K, and plenty of produce, while limiting habits
+    that may weaken bones.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 92
 score_breakdown:
   seo_quality: 85
@@ -28,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 92
   keyword_relevance: 95
-quality_note: "Strong article that effectively combines nutrition tips with health information in an engaging, conversational tone perfectly suited for the target audience."
+quality_note: >-
+  Strong article that effectively combines nutrition tips with health
+  information in an engaging, conversational tone perfectly suited for the
+  target audience.
+image_alt: >-
+  Woman preparing a healthy meal with greens, yogurt, salmon, nuts, and
+  vegetables in a sunlit kitchen.
 ---
 
 Bone health often feels invisible until a scan, fracture, or nagging ache brings it into focus. After 40, the body can begin losing bone tissue faster than it rebuilds it, especially when hormones shift, activity drops, or key nutrients fall short. The good news is that food choices can help support bone density, muscle strength, and long-term mobility when they become part of a consistent routine.
