@@ -1,23 +1,31 @@
 ---
-title: "Top 11 Must-Watch Movies and Shows This Weekend"
-description: "As the weekend approaches, explore compelling TV dramas, lighthearted comedies, and must-watch movies. From crime thrillers to heartwarming animated features, the diverse streaming options ensure there's something for every taste to enhance your leisure time."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T09:24:13+00:00"
-author: "Becca Roberts"
+title: Top 11 Must-Watch Movies and Shows This Weekend
+description: >-
+  As the weekend approaches, explore compelling TV dramas, lighthearted
+  comedies, and must-watch movies. From crime thrillers to heartwarming animated
+  features, the diverse streaming options ensure there's something for every
+  taste to enhance your leisure time.
+type: standard
+status: review
+publishDate: '2025-05-22T09:24:13+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "top-11-must-watch-movies-and-shows-this-weekend"
+  - Watch
+slug: top-11-must-watch-movies-and-shows-this-weekend
 reading_time: 3
-source_url: "https://buzzsoaps.com/top-11-must-watch-movies-and-shows-this-weekend/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/top-11-must-watch-movies-and-shows-this-weekend/'
+imported_from: wordpress
 wp_original_id: 404
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/top-11-must-watch-movies-and-shows-this-weekend.webp
 seo:
-  canonical: "https://buzzsoaps.com/top-11-must-watch-movies-and-shows-this-weekend/"
-  og_title: "Top 11 Must-Watch Movies and Shows This Weekend - BuzzSoaps!"
-  og_description: "As the weekend approaches, explore compelling TV dramas, lighthearted comedies, and must-watch movies. From crime thrillers to heartwarming animated features, the diverse streaming options ensure there's something for every taste to enhance your leisure time."
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/top-11-must-watch-movies-and-shows-this-weekend/'
+  og_title: Top 11 Must-Watch Movies and Shows This Weekend - BuzzSoaps!
+  og_description: >-
+    As the weekend approaches, explore compelling TV dramas, lighthearted
+    comedies, and must-watch movies. From crime thrillers to heartwarming
+    animated features, the diverse streaming options ensure there's something
+    for every taste to enhance your leisure time.
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -25,7 +33,14 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 75
-quality_note: "While the tone is engaging and appropriate for the audience, the article suffers from extremely vague content with no specific movie or show titles mentioned, making it essentially uninformative, and falls short of the target word count."
+quality_note: >-
+  While the tone is engaging and appropriate for the audience, the article
+  suffers from extremely vague content with no specific movie or show titles
+  mentioned, making it essentially uninformative, and falls short of the target
+  word count.
+image_alt: >-
+  Cozy living room with a glowing blank screen, popcorn, and remotes suggesting
+  weekend streaming choices.
 ---
 
 As the weekend approaches, many of us find ourselves seeking the perfect way to unwind and entertain ourselves. Whether it's a gripping movie or a binge-worthy TV series, there's always something new to indulge in. With an ever-growing array of streaming options, selecting the right content can be a daunting task. Fear not, this guide highlights some of the most exciting offerings available this weekend to help you make the most of your leisure time.
