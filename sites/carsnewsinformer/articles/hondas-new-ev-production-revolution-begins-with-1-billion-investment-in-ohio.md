@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-hondas-new-ev-production-revolution-begins-with-1-billion-investment-in-ohio
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/hondas-new-ev-production-revolution-begins-with-1-billion-investment-in-ohio.webp
 reading_time: 2
 quality_score: 63
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   The article covers relevant EV topics well but is significantly too short at
   364 words and lacks specific details that would enhance credibility and reader
   engagement.
+image_alt: >-
+  Robotic arms assemble an electric vehicle chassis in a modern American
+  factory.
 ---
 ## Honda's Major EV Manufacturing Commitment
 
