@@ -1,22 +1,28 @@
 ---
-title: "Scientists Uncover 1,700 Hidden Dark Proteins in Human Cells"
-description: "Scientists identified more than 1,700 previously overlooked dark proteins in human cells, expanding the known proteome and opening new possibilities for disease research, cancer biomarkers, immunotherapy, and drug discovery."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T11:46:13"
-author: "Taylor Winters"
+title: 'Scientists Uncover 1,700 Hidden Dark Proteins in Human Cells'
+description: >-
+  Scientists identified more than 1,700 previously overlooked dark proteins in
+  human cells, expanding the known proteome and opening new possibilities for
+  disease research, cancer biomarkers, immunotherapy, and drug discovery.
+type: standard
+status: published
+publishDate: '2026-05-18T11:46:13'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "scientists-uncover-1700-hidden-dark-proteins-in-human-cells"
+  - Space
+  - Humans
+slug: scientists-uncover-1700-hidden-dark-proteins-in-human-cells
 reading_time: 7
-source_url: "https://www.sciencenewslab.com/scientists-uncover-1700-hidden-dark-proteins-in-human-cells/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/scientists-uncover-1700-hidden-dark-proteins-in-human-cells/
+imported_from: wordpress
 wp_original_id: 15109
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/scientists-uncover-1700-hidden-dark-proteins-in-human-cells.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/scientists-uncover-1700-hidden-dark-proteins-in-human-cells/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/scientists-uncover-1700-hidden-dark-proteins-in-human-cells/
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 85
@@ -24,7 +30,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written scientific article with excellent tone and length, but keyword relevance is limited since it focuses primarily on biology/genetics rather than the site's core topics of Space, Nature, Physics, Technology, and Environment."
+quality_note: >-
+  Well-written scientific article with excellent tone and length, but keyword
+  relevance is limited since it focuses primarily on biology/genetics rather
+  than the site's core topics of Space, Nature, Physics, Technology, and
+  Environment.
+image_alt: Glowing protein-like forms emerge from a dark abstract human cell interior.
 ---
 
 Scientists have uncovered a surprisingly large hidden layer of human biology: more than 1,700 previously overlooked proteins produced inside human cells. These elusive molecules, often described as dark proteins, come from genetic regions once thought to be silent or unimportant. The discovery expands the known human proteome and could reshape how researchers study disease, immunity, cancer, and drug development.
