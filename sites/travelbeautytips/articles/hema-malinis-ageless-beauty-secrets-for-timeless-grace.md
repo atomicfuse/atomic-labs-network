@@ -1,25 +1,35 @@
 ---
-title: "Hema Malini’s Ageless Beauty Secrets for Timeless Grace"
-description: "Hema Malini exemplifies timeless beauty through holistic living, embracing natural skincare, a balanced diet, yoga, and mental wellness. Her disciplined approach to lifestyle choices offers insights into achieving lasting beauty and vitality, admired by fans and beauty enthusiasts alike."
-type: "standard"
-status: "published"
-publishDate: "2025-10-16T08:39:22+00:00"
-author: "Taylor Winters"
+title: Hema Malini’s Ageless Beauty Secrets for Timeless Grace
+description: >-
+  Hema Malini exemplifies timeless beauty through holistic living, embracing
+  natural skincare, a balanced diet, yoga, and mental wellness. Her disciplined
+  approach to lifestyle choices offers insights into achieving lasting beauty
+  and vitality, admired by fans and beauty enthusiasts alike.
+type: standard
+status: published
+publishDate: '2025-10-16T08:39:22+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-slug: "hema-malinis-ageless-beauty-secrets-for-timeless-grace"
+  - Travel Tips
+  - Beauty
+slug: hema-malinis-ageless-beauty-secrets-for-timeless-grace
 reading_time: 3
-source_url: "https://travelbeautytips.com/hema-malinis-ageless-beauty-secrets-for-timeless-grace/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/hema-malinis-ageless-beauty-secrets-for-timeless-grace/
+imported_from: wordpress
 wp_original_id: 35955
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/hema-malinis-ageless-beauty-secrets-for-timeless-grace.webp
 seo:
-  canonical: "https://travelbeautytips.com/hema-malinis-ageless-beauty-secrets-for-timeless-grace/"
-  og_title: "Hema Malini's Ageless Beauty Secrets for Timeless Grace - Travel Beauty Tips"
-  og_description: "Hema Malini exemplifies timeless beauty through holistic living, embracing natural skincare, a balanced diet, yoga, and mental wellness. Her disciplined approach to lifestyle choices offers insights into achieving lasting beauty and vitality, admired by fans and beauty enthusiasts alike."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/10/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/hema-malinis-ageless-beauty-secrets-for-timeless-grace/
+  og_title: Hema Malini's Ageless Beauty Secrets for Timeless Grace - Travel Beauty Tips
+  og_description: >-
+    Hema Malini exemplifies timeless beauty through holistic living, embracing
+    natural skincare, a balanced diet, yoga, and mental wellness. Her
+    disciplined approach to lifestyle choices offers insights into achieving
+    lasting beauty and vitality, admired by fans and beauty enthusiasts alike.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/10/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written beauty content with good tone and accuracy, but falls short on length (494 words vs 800-1200 target) and could better integrate travel/lifestyle elements for stronger keyword relevance."
+quality_note: >-
+  Well-written beauty content with good tone and accuracy, but falls short on
+  length (494 words vs 800-1200 target) and could better integrate
+  travel/lifestyle elements for stronger keyword relevance.
+image_alt: >-
+  Elegant mature woman practicing yoga in soft morning light with natural
+  wellness elements nearby
 ---
 
 Hema Malini, the quintessential icon of Indian cinema, continues to dazzle with her enduring beauty and elegance. Known for her radiant skin and vibrant energy, she exemplifies the perfect blend of inner tranquility and external grace. Many wonder about the secrets behind her timeless allure, and her lifestyle choices provide insightful answers.
