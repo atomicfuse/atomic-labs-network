@@ -1,22 +1,28 @@
 ---
-title: "Did Edison Invent a Wonder Material 125 Years Early?"
-description: "The discovery that Thomas Edison may have created a graphene-like material over a century ago challenges the timeline of material science innovations, highlighting his potential role as a pioneer in the field and encouraging a re-examination of historical scientific artifacts."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T12:53:35"
-author: "Taylor Winters"
+title: Did Edison Invent a Wonder Material 125 Years Early?
+description: >-
+  The discovery that Thomas Edison may have created a graphene-like material
+  over a century ago challenges the timeline of material science innovations,
+  highlighting his potential role as a pioneer in the field and encouraging a
+  re-examination of historical scientific artifacts.
+type: standard
+status: review
+publishDate: '2026-01-29T12:53:35'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Tech"
-slug: "did-edison-invent-a-wonder-material-125-years-early"
+  - Space
+  - Tech
+slug: did-edison-invent-a-wonder-material-125-years-early
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/did-edison-invent-a-wonder-material-125-years-early/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/did-edison-invent-a-wonder-material-125-years-early/
+imported_from: wordpress
 wp_original_id: 15061
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/did-edison-invent-a-wonder-material-125-years-early.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/did-edison-invent-a-wonder-material-125-years-early/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/did-edison-invent-a-wonder-material-125-years-early/
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 70
-quality_note: "The article has good tone and structure but falls short on length and raises significant concerns about factual accuracy regarding Edison's supposed graphene discovery."
+quality_note: >-
+  The article has good tone and structure but falls short on length and raises
+  significant concerns about factual accuracy regarding Edison's supposed
+  graphene discovery.
+image_alt: >-
+  Antique laboratory bench with a carbon sample beneath a glowing modern
+  molecular lattice.
 ---
 
 In the world of scientific advancements, the discovery of new materials often leads to revolutionary changes. Interestingly, a material believed to be invented in recent years may have roots dating back to the ingenuity of Thomas Edison. This revelation has sparked curiosity and debate among historians and scientists alike, challenging the conventional timeline of material science innovations.
