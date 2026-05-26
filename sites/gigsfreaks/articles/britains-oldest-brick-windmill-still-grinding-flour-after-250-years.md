@@ -1,24 +1,37 @@
 ---
-title: "Britain’s Oldest Brick Windmill Still Grinding Flour After 250 Years"
-description: "The oldest working brick windmill in the UK, built in 1765 in Lacey Green, Buckinghamshire, continues to grind grain into flour, symbolizing traditional craftsmanship, community spirit, and sustainable practices."
-type: "standard"
-status: "review"
-publishDate: "2025-10-03T06:09:28+00:00"
-author: "Nico Harper"
+title: Britain’s Oldest Brick Windmill Still Grinding Flour After 250 Years
+description: >-
+  The oldest working brick windmill in the UK, built in 1765 in Lacey Green,
+  Buckinghamshire, continues to grind grain into flour, symbolizing traditional
+  craftsmanship, community spirit, and sustainable practices.
+type: standard
+status: review
+publishDate: '2025-10-03T06:09:28+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "britains-oldest-brick-windmill-still-grinding-flour-after-250-years"
+  - Good Vibes
+slug: britains-oldest-brick-windmill-still-grinding-flour-after-250-years
 reading_time: 3
-source_url: "https://gigsfreaks.com/britains-oldest-brick-windmill-still-grinding-flour-after-250-years/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/britains-oldest-brick-windmill-still-grinding-flour-after-250-years/
+imported_from: wordpress
 wp_original_id: 957
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/britains-oldest-brick-windmill-still-grinding-flour-after-250-years.webp
 seo:
-  canonical: "https://gigsfreaks.com/britains-oldest-brick-windmill-still-grinding-flour-after-250-years/"
-  og_title: "Britain's Oldest Brick Windmill Still Grinding Flour After 250 Years - GigsFreaks"
-  og_description: "The oldest working brick windmill in the UK, built in 1765, continues to grind grain into flour, symbolizing traditional craftsmanship and sustainability. Nestled in Buckinghamshire, it serves as a historical and educational resource, promoting community engagement and eco-friendly practices."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/britains-oldest-brick-windmill-still-grinding-flour-after-250-years/
+  og_title: >-
+    Britain's Oldest Brick Windmill Still Grinding Flour After 250 Years -
+    GigsFreaks
+  og_description: >-
+    The oldest working brick windmill in the UK, built in 1765, continues to
+    grind grain into flour, symbolizing traditional craftsmanship and
+    sustainability. Nestled in Buckinghamshire, it serves as a historical and
+    educational resource, promoting community engagement and eco-friendly
+    practices.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "While well-written and factually sound, this historical piece doesn't align with gigsfreaks' entertainment focus and lacks the engaging, conversational tone expected for their audience."
+quality_note: >-
+  While well-written and factually sound, this historical piece doesn't align
+  with gigsfreaks' entertainment focus and lacks the engaging, conversational
+  tone expected for their audience.
+image_alt: >-
+  Historic brick windmill turning at sunset above wheat fields in rural
+  Buckinghamshire.
 ---
 
 Britain is home to many historical marvels, and among them is a remarkable structure that has withstood the test of time and innovation. The oldest working brick windmill in the UK continues to operate after 250 years, showcasing the enduring legacy of traditional craftsmanship and sustainability.
