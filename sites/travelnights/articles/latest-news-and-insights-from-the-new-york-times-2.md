@@ -1,24 +1,32 @@
 ---
-title: "Latest News and Insights from The New York Times"
-description: "Marie Kondo explores how travel experiences can transform lives in her latest book, highlighting travel's impact on personal growth and well-being. She suggests that travel can declutter the mind and soul, offering new perspectives and emotional healing."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T09:23:25+00:00"
-author: "Malcolm Anderson"
+title: Latest News and Insights from The New York Times
+description: >-
+  Marie Kondo explores how travel experiences can transform lives in her latest
+  book, highlighting travel's impact on personal growth and well-being. She
+  suggests that travel can declutter the mind and soul, offering new
+  perspectives and emotional healing.
+type: standard
+status: review
+publishDate: '2025-11-17T09:23:25+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-slug: "latest-news-and-insights-from-the-new-york-times-2"
+  - Culture
+slug: latest-news-and-insights-from-the-new-york-times-2
 reading_time: 3
-source_url: "https://travelnights.com/latest-news-and-insights-from-the-new-york-times-2/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/latest-news-and-insights-from-the-new-york-times-2/'
+imported_from: wordpress
 wp_original_id: 36574
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/latest-news-and-insights-from-the-new-york-times-2.webp
 seo:
-  canonical: "https://travelnights.com/latest-news-and-insights-from-the-new-york-times-2/"
-  og_title: "Latest News and Insights from The New York Times - Travel Nights"
-  og_description: "Marie Kondo explores how travel experiences can transform lives in her latest book, highlighting travel's impact on personal growth and well-being. She suggests that travel can declutter the mind and soul, offering new perspectives and emotional healing."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/11/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/latest-news-and-insights-from-the-new-york-times-2/'
+  og_title: Latest News and Insights from The New York Times - Travel Nights
+  og_description: >-
+    Marie Kondo explores how travel experiences can transform lives in her
+    latest book, highlighting travel's impact on personal growth and well-being.
+    She suggests that travel can declutter the mind and soul, offering new
+    perspectives and emotional healing.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/11/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 52
 score_breakdown:
   seo_quality: 35
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "The article has a major factual accuracy issue as Marie Kondo has not published a travel book, making this largely fabricated content, despite good tone and travel relevance."
+quality_note: >-
+  The article has a major factual accuracy issue as Marie Kondo has not
+  published a travel book, making this largely fabricated content, despite good
+  tone and travel relevance.
+image_alt: >-
+  A neatly packed suitcase in a calm sunlit room overlooking a peaceful distant
+  landscape.
 ---
 
 Marie Kondo, a renowned tidying expert, has shifted her focus from organizing homes to exploring how travel experiences can transform one's life. Her latest book delves into the profound impact of travel on personal growth and emotional well-being, offering readers a unique perspective on the joys of exploration.
