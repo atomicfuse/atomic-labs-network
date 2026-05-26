@@ -1,24 +1,32 @@
 ---
-title: "Bess Wohl’s Secrets to Playwriting Success"
-description: "Bess Wohl, a celebrated playwright and screenwriter, captivates audiences with her unique storytelling. Balancing family life and a thriving career, she emphasizes authenticity and humor in her work, drawing inspiration from literature, personal experiences, and everyday life."
-type: "standard"
-status: "review"
-publishDate: "2025-10-27T11:21:07+00:00"
-author: "Becca Roberts"
+title: Bess Wohl’s Secrets to Playwriting Success
+description: >-
+  Bess Wohl, a celebrated playwright and screenwriter, captivates audiences with
+  her unique storytelling. Balancing family life and a thriving career, she
+  emphasizes authenticity and humor in her work, drawing inspiration from
+  literature, personal experiences, and everyday life.
+type: standard
+status: review
+publishDate: '2025-10-27T11:21:07+00:00'
+author: Becca Roberts
 tags:
-  - "Off Script"
-slug: "bess-wohls-secrets-to-playwriting-success"
+  - Off Script
+slug: bess-wohls-secrets-to-playwriting-success
 reading_time: 3
-source_url: "https://buzzsoaps.com/bess-wohls-secrets-to-playwriting-success/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/bess-wohls-secrets-to-playwriting-success/'
+imported_from: wordpress
 wp_original_id: 487
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/bess-wohls-secrets-to-playwriting-success.webp
 seo:
-  canonical: "https://buzzsoaps.com/bess-wohls-secrets-to-playwriting-success/"
-  og_title: "Bess Wohl's Secrets to Playwriting Success - BuzzSoaps!"
-  og_description: "Bess Wohl, a celebrated playwright and screenwriter, captivates audiences with her unique storytelling. Balancing family life and a thriving career, she emphasizes authenticity and humor in her work, drawing inspiration from literature, personal experiences, and everyday life."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/10/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/bess-wohls-secrets-to-playwriting-success/'
+  og_title: Bess Wohl's Secrets to Playwriting Success - BuzzSoaps!
+  og_description: >-
+    Bess Wohl, a celebrated playwright and screenwriter, captivates audiences
+    with her unique storytelling. Balancing family life and a thriving career,
+    she emphasizes authenticity and humor in her work, drawing inspiration from
+    literature, personal experiences, and everyday life.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/10/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has decent tone and covers relevant entertainment content but lacks strong SEO elements like compelling title optimization and proper meta description length, while being slightly under the target word count."
+quality_note: >-
+  The article has decent tone and covers relevant entertainment content but
+  lacks strong SEO elements like compelling title optimization and proper meta
+  description length, while being slightly under the target word count.
+image_alt: >-
+  Warm backstage writing desk with script pages, books, and theater seats in
+  soft focus.
 ---
 
 Bess Wohl, a renowned playwright and screenwriter, has carved a niche for herself in the theatre and film industries with her unique storytelling approach. Her works, celebrated for their depth and wit, have captivated audiences and critics alike. This article explores how Bess Wohl maintains her creative momentum and balances the demands of her professional and personal life.
