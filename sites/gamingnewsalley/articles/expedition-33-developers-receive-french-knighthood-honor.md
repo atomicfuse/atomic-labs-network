@@ -1,25 +1,35 @@
 ---
-title: "Expedition 33 Developers Receive French Knighthood Honor"
-description: "France has honored the developers of Clair Obscur: Expedition 33 with knighthood, highlighting the game's cultural impact and innovative storytelling. This recognition underscores the evolving role of video games as significant contributors to cultural dialogue and creative expression."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T09:37:26+00:00"
-author: "Taylor Winters"
+title: Expedition 33 Developers Receive French Knighthood Honor
+description: >-
+  France has honored the developers of Clair Obscur: Expedition 33 with
+  knighthood, highlighting the game's cultural impact and innovative
+  storytelling. This recognition underscores the evolving role of video games as
+  significant contributors to cultural dialogue and creative expression.
+type: standard
+status: review
+publishDate: '2026-02-09T09:37:26+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "expedition-33-developers-receive-french-knighthood-honor"
+  - Gaming News
+  - Community
+slug: expedition-33-developers-receive-french-knighthood-honor
 reading_time: 3
-source_url: "https://gamingnewsalley.com/expedition-33-developers-receive-french-knighthood-honor/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/expedition-33-developers-receive-french-knighthood-honor/
+imported_from: wordpress
 wp_original_id: 42607
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/expedition-33-developers-receive-french-knighthood-honor.webp
 seo:
-  canonical: "https://gamingnewsalley.com/expedition-33-developers-receive-french-knighthood-honor/"
-  og_title: "Expedition 33 Developers Receive French Knighthood Honor - Gaming News Alley"
-  og_description: "France has honored the developers of Clair Obscur: Expedition 33 with knighthood, highlighting the game's cultural impact and innovative storytelling. This recognition underscores the evolving role of video games as significant contributors to cultural dialogue and creative expression."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/expedition-33-developers-receive-french-knighthood-honor/
+  og_title: Expedition 33 Developers Receive French Knighthood Honor - Gaming News Alley
+  og_description: >-
+    France has honored the developers of Clair Obscur: Expedition 33 with
+    knighthood, highlighting the game's cultural impact and innovative
+    storytelling. This recognition underscores the evolving role of video games
+    as significant contributors to cultural dialogue and creative expression.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "While the article maintains good tone and covers gaming topics well, it appears to fabricate the entire story about French knighthood for game developers, which is a major factual accuracy issue."
+quality_note: >-
+  While the article maintains good tone and covers gaming topics well, it
+  appears to fabricate the entire story about French knighthood for game
+  developers, which is a major factual accuracy issue.
+image_alt: >-
+  A medal and ceremonial sword beside a glowing tablet in an ornate modern
+  creative studio
 ---
 
 France has recently recognized the exceptional contributions of the video game industry by awarding the developers of Clair Obscur: Expedition 33 with knighthood honors. This prestigious accolade reflects the cultural significance and innovative spirit present within the gaming community, underscoring the game's impact on both national and international levels.
