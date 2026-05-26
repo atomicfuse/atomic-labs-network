@@ -1,25 +1,43 @@
 ---
-title: "Easter Sunday Style: Princess Beatrice Revives Beloved 90s Shoe Trend"
-description: "Princess Beatrice's recent appearance in Mary Janes at the Easter Sunday Service has reignited interest in the classic footwear. Her ensemble, featuring a vibrant blue coat, underscores the importance of personal style and comfort, inspiring many to blend classic and modern elements in their wardrobes."
-type: "standard"
-status: "published"
-publishDate: "2025-04-21T08:16:44+00:00"
-author: "Taylor Winters"
+title: 'Easter Sunday Style: Princess Beatrice Revives Beloved 90s Shoe Trend'
+description: >-
+  Princess Beatrice's recent appearance in Mary Janes at the Easter Sunday
+  Service has reignited interest in the classic footwear. Her ensemble,
+  featuring a vibrant blue coat, underscores the importance of personal style
+  and comfort, inspiring many to blend classic and modern elements in their
+  wardrobes.
+type: standard
+status: published
+publishDate: '2025-04-21T08:16:44+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-  - "Fashion"
-slug: "easter-sunday-style-princess-beatrice-revives-beloved-90s-shoe-trend"
+  - Culture
+  - Fashion
+slug: easter-sunday-style-princess-beatrice-revives-beloved-90s-shoe-trend
 reading_time: 2
-source_url: "https://fashionnewsbee.com/easter-sunday-style-princess-beatrice-revives-beloved-90s-shoe-trend/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/easter-sunday-style-princess-beatrice-revives-beloved-90s-shoe-trend/
+imported_from: wordpress
 wp_original_id: 31500
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/easter-sunday-style-princess-beatrice-revives-beloved-90s-shoe-trend.webp
 seo:
-  canonical: "https://fashionnewsbee.com/easter-sunday-style-princess-beatrice-revives-beloved-90s-shoe-trend/"
-  og_title: "Easter Sunday Style: Princess Beatrice Revives Beloved 90s Shoe Trend - Fashion News Bee"
-  og_description: "Princess Beatrice's recent appearance in Mary Janes at the Easter Sunday Service has reignited interest in the classic footwear. Her ensemble, featuring a vibrant blue coat, underscores the importance of personal style and comfort, inspiring many to blend classic and modern elements in their wardrobes."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/easter-sunday-style-princess-beatrice-revives-beloved-90s-shoe-trend/
+  og_title: >-
+    Easter Sunday Style: Princess Beatrice Revives Beloved 90s Shoe Trend -
+    Fashion News Bee
+  og_description: >-
+    Princess Beatrice's recent appearance in Mary Janes at the Easter Sunday
+    Service has reignited interest in the classic footwear. Her ensemble,
+    featuring a vibrant blue coat, underscores the importance of personal style
+    and comfort, inspiring many to blend classic and modern elements in their
+    wardrobes.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-5.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Elegant spring outfit with cobalt coat and black Mary Janes on sunlit stone
+  steps
 ---
 
 Princess Beatrice, known for her exceptional style, was recently seen gracing the Easter Sunday Service in a pair of Mary Janes. Her striking fashion choice has sparked a trend, with many fashion enthusiasts following suit.
