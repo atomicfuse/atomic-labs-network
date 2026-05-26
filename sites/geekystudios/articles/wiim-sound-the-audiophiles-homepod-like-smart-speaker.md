@@ -1,24 +1,34 @@
 ---
-title: "WiiM Sound: The Audiophile’s HomePod-Like Smart Speaker"
-description: "Wiim has unveiled a range of smart audio products designed to enhance the listening experience, including the Wiim Sound Sub, Wiim Pro, and Wiim Amp, all offering superior audio performance that integrates seamlessly with home audio systems."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T10:51:38+00:00"
-author: "Arthur Daly"
+title: 'WiiM Sound: The Audiophile’s HomePod-Like Smart Speaker'
+description: >-
+  Wiim has unveiled a range of smart audio products designed to enhance the
+  listening experience, including the Wiim Sound Sub, Wiim Pro, and Wiim Amp,
+  all offering superior audio performance that integrates seamlessly with home
+  audio systems.
+type: standard
+status: published
+publishDate: '2025-05-15T10:51:38+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "wiim-sound-the-audiophiles-homepod-like-smart-speaker"
+  - Tech
+slug: wiim-sound-the-audiophiles-homepod-like-smart-speaker
 reading_time: 4
-source_url: "https://geekystudios.com/wiim-sound-the-audiophiles-homepod-like-smart-speaker/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/wiim-sound-the-audiophiles-homepod-like-smart-speaker/
+imported_from: wordpress
 wp_original_id: 574
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/wiim-sound-the-audiophiles-homepod-like-smart-speaker.webp
 seo:
-  canonical: "https://geekystudios.com/wiim-sound-the-audiophiles-homepod-like-smart-speaker/"
-  og_title: "WiiM Sound: The Audiophile's HomePod-Like Smart Speaker - Geeky Studios"
-  og_description: "Wiim has unveiled a range of smart audio products designed to enhance the listening experience, including the Wiim Sound Sub, Wiim Pro, and Wiim Amp. These devices offer superior audio performance and integrate seamlessly with home audio systems."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-32.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/wiim-sound-the-audiophiles-homepod-like-smart-speaker/
+  og_title: 'WiiM Sound: The Audiophile''s HomePod-Like Smart Speaker - Geeky Studios'
+  og_description: >-
+    Wiim has unveiled a range of smart audio products designed to enhance the
+    listening experience, including the Wiim Sound Sub, Wiim Pro, and Wiim Amp.
+    These devices offer superior audio performance and integrate seamlessly with
+    home audio systems.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-32.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written tech article with good tone and keyword coverage, but falls short on length and appears to contain some inaccuracies about WiiM's actual product lineup."
+quality_note: >-
+  Well-written tech article with good tone and keyword coverage, but falls short
+  on length and appears to contain some inaccuracies about WiiM's actual product
+  lineup.
+image_alt: >-
+  Sleek smart speaker and audio gear in a modern living room with subtle glowing
+  sound waves
 ---
 
 The world of audio streaming has seen significant advancements with the introduction of new devices catering to audiophiles. Among these recent innovations, Wiim has unveiled a range of smart audio products designed to enhance the listening experience. Each device in their lineup promises to deliver high-quality sound, making it an appealing choice for music enthusiasts.
