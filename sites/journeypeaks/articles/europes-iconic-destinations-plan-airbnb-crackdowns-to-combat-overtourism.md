@@ -1,26 +1,39 @@
 ---
-title: "Europe’s Iconic Destinations Plan Airbnb Crackdowns to Combat Overtourism"
-description: "European countries like Italy, France, Spain, and Portugal are implementing regulations on short-term rentals to address overtourism and housing shortages, aiming to balance tourism with local community needs and ensure sustainable development and affordable housing for residents."
-type: "standard"
-status: "published"
-publishDate: "2025-07-10T04:51:29+00:00"
-author: "Taylor Winters"
+title: Europe’s Iconic Destinations Plan Airbnb Crackdowns to Combat Overtourism
+description: >-
+  European countries like Italy, France, Spain, and Portugal are implementing
+  regulations on short-term rentals to address overtourism and housing
+  shortages, aiming to balance tourism with local community needs and ensure
+  sustainable development and affordable housing for residents.
+type: standard
+status: published
+publishDate: '2025-07-10T04:51:29+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "News"
-  - "Travel"
-slug: "europes-iconic-destinations-plan-airbnb-crackdowns-to-combat-overtourism"
+  - Destinations
+  - News
+  - Travel
+slug: europes-iconic-destinations-plan-airbnb-crackdowns-to-combat-overtourism
 reading_time: 3
-source_url: "https://journeypeaks.com/europes-iconic-destinations-plan-airbnb-crackdowns-to-combat-overtourism/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/europes-iconic-destinations-plan-airbnb-crackdowns-to-combat-overtourism/
+imported_from: wordpress
 wp_original_id: 38666
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/europes-iconic-destinations-plan-airbnb-crackdowns-to-combat-overtourism.webp
 seo:
-  canonical: "https://journeypeaks.com/europes-iconic-destinations-plan-airbnb-crackdowns-to-combat-overtourism/"
-  og_title: "Europe's Iconic Destinations Plan Airbnb Crackdowns to Combat Overtourism - Journey Peaks"
-  og_description: "European countries like Italy, France, Spain, and Portugal are implementing regulations on short-term rentals to address overtourism and housing shortages, aiming to balance tourism with local community needs and ensure sustainable development and affordable housing for residents."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/07/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/europes-iconic-destinations-plan-airbnb-crackdowns-to-combat-overtourism/
+  og_title: >-
+    Europe's Iconic Destinations Plan Airbnb Crackdowns to Combat Overtourism -
+    Journey Peaks
+  og_description: >-
+    European countries like Italy, France, Spain, and Portugal are implementing
+    regulations on short-term rentals to address overtourism and housing
+    shortages, aiming to balance tourism with local community needs and ensure
+    sustainable development and affordable housing for residents.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/07/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel news article with strong keyword relevance and appropriate tone, but falls short of optimal length and could benefit from more specific SEO optimization in title and meta description."
+quality_note: >-
+  Well-written travel news article with strong keyword relevance and appropriate
+  tone, but falls short of optimal length and could benefit from more specific
+  SEO optimization in title and meta description.
+image_alt: >-
+  Tourists with suitcases crowd a historic European street as a local resident
+  stands in a doorway.
 ---
 
 Across Europe, iconic travel destinations are taking decisive steps to address the challenges posed by overtourism and housing shortages. Countries like Italy, France, Spain, and Portugal are leading efforts to implement stringent regulations on short-term rental platforms such as Airbnb. These measures aim to balance the thriving tourist industry with the needs of local communities, ensuring sustainable development and affordable housing for residents.
