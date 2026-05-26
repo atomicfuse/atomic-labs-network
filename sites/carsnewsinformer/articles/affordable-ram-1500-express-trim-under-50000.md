@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-affordable-ram-1500-express-trim-under-50000
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/affordable-ram-1500-express-trim-under-50000.webp
 reading_time: 2
 quality_score: 67
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   The article has good SEO structure and relevant content but falls
   significantly short of the target word count at only 226 words, which severely
   impacts its overall value.
+image_alt: >-
+  Modern full-size pickup truck on a clean forecourt at sunrise, emphasizing
+  practical value and capability.
 ---
 ## Ram 1500 Express Targets Budget-Conscious Buyers
 
