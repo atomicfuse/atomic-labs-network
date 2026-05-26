@@ -1,25 +1,35 @@
 ---
-title: "Tottenham Beat Everton to Secure Premier League Survival"
-description: "Tottenham beat Everton to secure Premier League survival, bringing relief after a tense campaign while raising major questions about rebuilding, consistency, recruitment, and the club's long-term direction."
-type: "standard"
-status: "review"
-publishDate: "2026-05-25T08:34:15+00:00"
-author: "Taylor Winters"
+title: Tottenham Beat Everton to Secure Premier League Survival
+description: >-
+  Tottenham beat Everton to secure Premier League survival, bringing relief
+  after a tense campaign while raising major questions about rebuilding,
+  consistency, recruitment, and the club's long-term direction.
+type: standard
+status: review
+publishDate: '2026-05-25T08:34:15+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Abdoulaye Doucouré"
-slug: "tottenham-beat-everton-to-secure-premier-league-survival"
+  - Latest News
+  - Abdoulaye Doucouré
+slug: tottenham-beat-everton-to-secure-premier-league-survival
 reading_time: 7
-source_url: "https://soccernewsreports.com/tottenham-beat-everton-to-secure-premier-league-survival/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/tottenham-beat-everton-to-secure-premier-league-survival/
+imported_from: wordpress
 wp_original_id: 38018
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/tottenham-beat-everton-to-secure-premier-league-survival.webp
 seo:
-  canonical: "https://soccernewsreports.com/tottenham-beat-everton-to-secure-premier-league-survival/"
-  og_title: "Tottenham Beat Everton to Secure Premier League Survival - Soccer News Reports"
-  og_description: "Tottenham beat Everton to secure Premier League survival, bringing relief after a tense campaign while raising major questions about rebuilding, consistency, recruitment, and the club’s long-term direction."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/tottenham-beat-everton-to-secure-premier-league-survival/
+  og_title: >-
+    Tottenham Beat Everton to Secure Premier League Survival - Soccer News
+    Reports
+  og_description: >-
+    Tottenham beat Everton to secure Premier League survival, bringing relief
+    after a tense campaign while raising major questions about rebuilding,
+    consistency, recruitment, and the club’s long-term direction.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "Well-written analysis with appropriate tone and length, but contains a major factual error as Tottenham has never been in a Premier League relegation battle, making this appear to be fabricated content."
+quality_note: >-
+  Well-written analysis with appropriate tone and length, but contains a major
+  factual error as Tottenham has never been in a Premier League relegation
+  battle, making this appear to be fabricated content.
+image_alt: >-
+  Footballer in a white kit shows relief on a misty stadium pitch after a tense
+  match.
 ---
 
 Tottenham secured the result they needed against Everton to remain in the Premier League, ending a tense survival battle with a vital victory. In a match loaded with pressure, Spurs found a way to protect their top-flight status and avoid one of the most damaging outcomes in the club's modern history.
