@@ -1,25 +1,36 @@
 ---
-title: "Liverpool News Arne Slot Eyes Reunion as Dressing Room Responds"
-description: "Liverpool's next phase under Arne Slot depends on smart recruitment, squad depth, contract clarity, and tactical precision to turn a promising transition into a sustainable era of trophy contention."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:34:57+00:00"
-author: "Taylor Winters"
+title: Liverpool News Arne Slot Eyes Reunion as Dressing Room Responds
+description: >-
+  Liverpool's next phase under Arne Slot depends on smart recruitment, squad
+  depth, contract clarity, and tactical precision to turn a promising transition
+  into a sustainable era of trophy contention.
+type: standard
+status: published
+publishDate: '2026-05-18T08:34:57+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andrew Robertson"
-slug: "liverpool-news-arne-slot-eyes-reunion-as-dressing-room-responds"
+  - Latest News
+  - Andrew Robertson
+slug: liverpool-news-arne-slot-eyes-reunion-as-dressing-room-responds
 reading_time: 7
-source_url: "https://soccernewsreports.com/liverpool-news-arne-slot-eyes-reunion-as-dressing-room-responds/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/liverpool-news-arne-slot-eyes-reunion-as-dressing-room-responds/
+imported_from: wordpress
 wp_original_id: 38014
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/liverpool-news-arne-slot-eyes-reunion-as-dressing-room-responds.webp
 seo:
-  canonical: "https://soccernewsreports.com/liverpool-news-arne-slot-eyes-reunion-as-dressing-room-responds/"
-  og_title: "Liverpool News Arne Slot Eyes Reunion as Dressing Room Responds - Soccer News Reports"
-  og_description: "Liverpool's next phase under Arne Slot depends on smart recruitment, squad depth, contract clarity, and tactical precision to turn a promising transition into a sustainable era of trophy contention."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/liverpool-news-arne-slot-eyes-reunion-as-dressing-room-responds/
+  og_title: >-
+    Liverpool News Arne Slot Eyes Reunion as Dressing Room Responds - Soccer
+    News Reports
+  og_description: >-
+    Liverpool's next phase under Arne Slot depends on smart recruitment, squad
+    depth, contract clarity, and tactical precision to turn a promising
+    transition into a sustainable era of trophy contention.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-structured analysis piece that hits the target word count and maintains an engaging tone, though the title could be more compelling and specific."
+quality_note: >-
+  Well-structured analysis piece that hits the target word count and maintains
+  an engaging tone, though the title could be more compelling and specific.
+image_alt: >-
+  Dramatic football dressing room with red kits, tactics board, and coach
+  silhouette suggesting a new era
 ---
 
 Liverpool's next phase under Arne Slot is no longer about proving the transition can work. It is about ensuring success becomes repeatable, sustainable, and ruthless across every competition.
