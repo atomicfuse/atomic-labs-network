@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-elon-cant-get-it-up-past-325-kw-bp-can-and-gm-hopes-to-keep-it-up-in-2025
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/elon-cant-get-it-up-past-325-kw-bp-can-and-gm-hopes-to-keep-it-up-in-2025.webp
 reading_time: 2
 quality_score: 65
 score_breakdown:
@@ -35,6 +36,7 @@ quality_note: >-
   Article covers relevant EV charging topics with good keyword integration, but
   is significantly too short at 359 words and contains vague claims without
   specific sources or data.
+image_alt: Unbranded electric cars charging at a futuristic highway hub at dusk
 ---
 ## Tesla Hits 325kW Charging Ceiling
 
