@@ -1,25 +1,39 @@
 ---
-title: "TSA Delays Expected for Milwaukee Travelers Amid Government Shutdown"
-description: "Travelers flying through Milwaukee may face TSA delays due to a federal government shutdown, impacting security operations and causing longer wait times. Preparing in advance by arriving early and following guidelines can help mitigate inconvenience during this period."
-type: "standard"
-status: "review"
-publishDate: "2026-03-19T12:21:24+00:00"
-author: "Malcolm Anderson"
+title: TSA Delays Expected for Milwaukee Travelers Amid Government Shutdown
+description: >-
+  Travelers flying through Milwaukee may face TSA delays due to a federal
+  government shutdown, impacting security operations and causing longer wait
+  times. Preparing in advance by arriving early and following guidelines can
+  help mitigate inconvenience during this period.
+type: standard
+status: review
+publishDate: '2026-03-19T12:21:24+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "News"
-slug: "tsa-delays-expected-for-milwaukee-travelers-amid-government-shutdown"
+  - Destinations
+  - News
+slug: tsa-delays-expected-for-milwaukee-travelers-amid-government-shutdown
 reading_time: 3
-source_url: "https://travelnights.com/tsa-delays-expected-for-milwaukee-travelers-amid-government-shutdown/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/tsa-delays-expected-for-milwaukee-travelers-amid-government-shutdown/
+imported_from: wordpress
 wp_original_id: 36718
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/tsa-delays-expected-for-milwaukee-travelers-amid-government-shutdown.webp
 seo:
-  canonical: "https://travelnights.com/tsa-delays-expected-for-milwaukee-travelers-amid-government-shutdown/"
-  og_title: "TSA Delays Expected for Milwaukee Travelers Amid Government Shutdown - Travel Nights"
-  og_description: "Travelers flying through Milwaukee may face TSA delays due to a federal government shutdown, impacting security operations and causing longer wait times. Preparing in advance by arriving early and following guidelines can help mitigate inconvenience during this period."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/03/Leading-TSA_021816_AP_LM-Otero.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/tsa-delays-expected-for-milwaukee-travelers-amid-government-shutdown/
+  og_title: >-
+    TSA Delays Expected for Milwaukee Travelers Amid Government Shutdown -
+    Travel Nights
+  og_description: >-
+    Travelers flying through Milwaukee may face TSA delays due to a federal
+    government shutdown, impacting security operations and causing longer wait
+    times. Preparing in advance by arriving early and following guidelines can
+    help mitigate inconvenience during this period.
+  og_image: >-
+    https://travelnights.com/wp-content/uploads/2026/03/Leading-TSA_021816_AP_LM-Otero.webp
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written travel news article with appropriate tone, but falls short on length (467 words vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written travel news article with appropriate tone, but falls short on
+  length (467 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization.
+image_alt: >-
+  Travelers wait in a long airport security line with carry-on luggage during a
+  busy morning rush.
 ---
 
 Travelers flying through Milwaukee might need to prepare for potential delays at TSA checkpoints due to a looming federal government shutdown. This situation could impact transportation security operations, leading to extended wait times and increased stress for passengers. Understanding the implications and preparing in advance can help mitigate some of the inconvenience.
