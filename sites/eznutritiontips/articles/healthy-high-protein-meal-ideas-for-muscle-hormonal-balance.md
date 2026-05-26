@@ -1,29 +1,38 @@
 ---
-title: "Healthy High-Protein Meal Ideas for Muscle & Hormonal Balance"
-description: "Discover how to rebuild your body with nourishing, high-protein meals that support muscle and hormonal balance."
-type: "standard"
-status: "review"
-publishDate: "2026-02-23T10:25:21+00:00"
-author: "Taylor Winters"
+title: Healthy High-Protein Meal Ideas for Muscle & Hormonal Balance
+description: >-
+  Discover how to rebuild your body with nourishing, high-protein meals that
+  support muscle and hormonal balance.
+type: standard
+status: review
+publishDate: '2026-02-23T10:25:21+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "healthy-high-protein-meal-ideas-for-muscle-hormonal-balance"
+  - Healthy Recipes
+  - Special Diets
+  - Weight &amp; Wellness
+slug: healthy-high-protein-meal-ideas-for-muscle-hormonal-balance
 reading_time: 2
-source_url: "https://eznutritiontips.com/healthy-high-protein-meal-ideas-for-muscle-hormonal-balance/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/healthy-high-protein-meal-ideas-for-muscle-hormonal-balance/
+imported_from: wordpress
 wp_original_id: 18996
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/healthy-high-protein-meal-ideas-for-muscle-hormonal-balance.webp
 seo:
-  canonical: "https://eznutritiontips.com/healthy-high-protein-meal-ideas-for-muscle-hormonal-balance/"
-  og_title: "Healthy High-Protein Meal Ideas for Muscle & Hormonal Balance - Easy Nutrition Tips"
-  og_description: "Discover how to rebuild your body with nourishing, high-protein meals that support muscle and hormonal balance."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/healthy-high-protein-meal-ideas-for-muscle-hormonal-balance/
+  og_title: >-
+    Healthy High-Protein Meal Ideas for Muscle & Hormonal Balance - Easy
+    Nutrition Tips
+  og_description: >-
+    Discover how to rebuild your body with nourishing, high-protein meals that
+    support muscle and hormonal balance.
+  twitter_card: summary_large_image
 videos:
-  - id: "d487497e"
-    url: "https://www.youtube.com/watch?v=v9tqW_Uc_-U"
-    position: "after-paragraph-2"
+  - id: d487497e
+    url: 'https://www.youtube.com/watch?v=v9tqW_Uc_-U'
+    position: after-paragraph-2
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -31,7 +40,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "While the article matches the site's tone and covers relevant topics well, it falls significantly short of the target word count and makes unsupported claims about providing 100g+ protein recipes without actual nutritional data."
+quality_note: >-
+  While the article matches the site's tone and covers relevant topics well, it
+  falls significantly short of the target word count and makes unsupported
+  claims about providing 100g+ protein recipes without actual nutritional data.
+image_alt: >-
+  Balanced high-protein meal with greens, grains, healthy fats, and soft morning
+  light
 ---
 
 Rebuilding your muscle and achieving hormonal balance requires a mindful approach to nutrition. In this blog post, we'll explore delicious and healthy recipes that are easy to prepare and packed with over 100g of protein. These meals are designed to support your body's recovery journey and enhance your overall well-being.
