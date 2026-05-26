@@ -2,7 +2,8 @@ domain: eznutritiontips
 site_name: eznutritiontips
 site_tagline: null
 author: Ben Rivera
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d76216f23264031d7a56
 brief:
