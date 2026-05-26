@@ -20,7 +20,7 @@ source_url: >-
   https://economictimes.indiatimes.com/news/international/us/at-15-a-teenager-building-video-games-from-his-bedroom-accidentally-helped-create-one-of-the-internets-earliest-coding-communities/articleshow/131291535.cms
 source_item_id: 6a14215016f23264031d7de3
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/teen-bedroom-coders-foundation-modern-gaming.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   tone, but falls short on length and contains some vague, potentially
   unsupported claims about early programming communities.
 reading_time: 3
+image_alt: >-
+  Retro bedroom computer desk glowing as pixel blocks and network lines form a
+  modern game world.
 ---
 ## The Forgotten Pioneers of Gaming Culture
 
