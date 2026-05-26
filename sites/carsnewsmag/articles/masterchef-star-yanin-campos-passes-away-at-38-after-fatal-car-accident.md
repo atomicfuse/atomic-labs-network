@@ -1,28 +1,39 @@
 ---
-title: "MasterChef Star Yanin Campos Passes Away at 38 After Fatal Car Accident"
-description: "Yanin Campos, a beloved contestant from season four of MasterChef, tragically passed away at the age of 38 following a car accident in her hometown of Chihuahua, Mexico."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T04:07:21+00:00"
-author: "Taylor Winters"
+title: MasterChef Star Yanin Campos Passes Away at 38 After Fatal Car Accident
+description: >-
+  Yanin Campos, a beloved contestant from season four of MasterChef, tragically
+  passed away at the age of 38 following a car accident in her hometown of
+  Chihuahua, Mexico.
+type: standard
+status: review
+publishDate: '2025-08-07T04:07:21+00:00'
+author: Taylor Winters
 tags:
-  - "Celebrities"
-  - "News"
-slug: "masterchef-star-yanin-campos-passes-away-at-38-after-fatal-car-accident"
+  - Celebrities
+  - News
+slug: masterchef-star-yanin-campos-passes-away-at-38-after-fatal-car-accident
 reading_time: 2
-source_url: "https://carsnewsmag.com/masterchef-star-yanin-campos-passes-away-at-38-after-fatal-car-accident/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/masterchef-star-yanin-campos-passes-away-at-38-after-fatal-car-accident/
+imported_from: wordpress
 wp_original_id: 38478
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/masterchef-star-yanin-campos-passes-away-at-38-after-fatal-car-accident.webp
 seo:
-  canonical: "https://carsnewsmag.com/masterchef-star-yanin-campos-passes-away-at-38-after-fatal-car-accident/"
-  og_title: "MasterChef Star Yanin Campos Passes Away at 38 After Fatal Car Accident - Cars News Magazine"
-  og_description: "Yanin Campos, known for her participation in MasterChef season four, tragically passed away at the age of 38 following a car accident in Chihuahua, Mexico."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/masterchef-star-yanin-campos-passes-away-at-38-after-fatal-car-accident/
+  og_title: >-
+    MasterChef Star Yanin Campos Passes Away at 38 After Fatal Car Accident -
+    Cars News Magazine
+  og_description: >-
+    Yanin Campos, known for her participation in MasterChef season four,
+    tragically passed away at the age of 38 following a car accident in
+    Chihuahua, Mexico.
+  twitter_card: summary_large_image
 videos:
-  - id: "240bc1ad"
-    url: "https://www.youtube.com/watch?v=Pl--Syggb9I"
-    position: "after-paragraph-2"
+  - id: 240bc1ad
+    url: 'https://www.youtube.com/watch?v=Pl--Syggb9I'
+    position: after-paragraph-2
 quality_score: 31
 score_breakdown:
   seo_quality: 15
@@ -30,7 +41,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for an automotive website, covering a celebrity death rather than cars, with poor SEO optimization and insufficient length for the target audience."
+quality_note: >-
+  This article is completely off-topic for an automotive website, covering a
+  celebrity death rather than cars, with poor SEO optimization and insufficient
+  length for the target audience.
+image_alt: >-
+  A chef’s apron, white flower, and candle rest on a quiet kitchen counter in
+  soft dusk light.
 ---
 
 The culinary world was struck with sorrow as news broke of the untimely death of Yanin Campos, a beloved contestant from season four of the popular cooking show *MasterChef*. Campos, who was only 38 years old, tragically passed away on August 4th following a car accident in her hometown of Chihuahua, Mexico.
