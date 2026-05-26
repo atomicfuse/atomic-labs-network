@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/lucid-ceo-thanks-tesla-team-for-gravity-suv-supercharger-access.webp
 reading_time: 3
 quality_score: 73
 score_breakdown:
@@ -33,6 +34,9 @@ score_breakdown:
 quality_note: >-
   Strong keyword relevance and appropriate tone, but significantly too short at
   467 words and lacks specific verifiable details about the partnership.
+image_alt: >-
+  Unbranded luxury electric SUV charging at a modern fast-charging station at
+  dawn
 ---
 ## Lucid CEO Expresses Gratitude to Tesla
 
