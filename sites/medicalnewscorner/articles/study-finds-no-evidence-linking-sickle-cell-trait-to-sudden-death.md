@@ -1,24 +1,39 @@
 ---
-title: "Study finds no evidence linking sickle cell trait to sudden death"
-description: "A systematic literature review published in *Blood* found no medical evidence linking sickle cell trait (SCT) to sudden death from physical exertion or acute pain crises, prompting the American Society of Hematology to update its position statement on SCT."
-type: "standard"
-status: "published"
-publishDate: "2025-01-31T05:55:11+00:00"
-author: "admin"
+title: Study finds no evidence linking sickle cell trait to sudden death
+description: >-
+  A systematic literature review published in *Blood* found no medical evidence
+  linking sickle cell trait (SCT) to sudden death from physical exertion or
+  acute pain crises, prompting the American Society of Hematology to update its
+  position statement on SCT.
+type: standard
+status: published
+publishDate: '2025-01-31T05:55:11+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Children"
-slug: "study-finds-no-evidence-linking-sickle-cell-trait-to-sudden-death"
+  - Health News
+  - Children
+slug: study-finds-no-evidence-linking-sickle-cell-trait-to-sudden-death
 reading_time: 5
-source_url: "https://medicalnewscorner.com/study-finds-no-evidence-linking-sickle-cell-trait-to-sudden-death/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/study-finds-no-evidence-linking-sickle-cell-trait-to-sudden-death/
+imported_from: wordpress
 wp_original_id: 24444
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/study-finds-no-evidence-linking-sickle-cell-trait-to-sudden-death.webp
 seo:
-  canonical: "https://medicalnewscorner.com/study-finds-no-evidence-linking-sickle-cell-trait-to-sudden-death/"
-  og_title: "Study finds no evidence linking sickle cell trait to sudden death - Medical News Corner"
-  og_description: "A systematic literature review found no evidence to support that physical exertion without rhabdomyolysis (muscle breakdown) or heat injury can cause sudden death for individuals with sickle cell trait (SCT), nor is there any high-level evidence that SCT causes acute pain crises. These results were published today in the American Society of Hematology&#8217;s flagship journal, [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/study-finds-no-evidence-linking-sickle-cell-trait-to-sudden-death/
+  og_title: >-
+    Study finds no evidence linking sickle cell trait to sudden death - Medical
+    News Corner
+  og_description: >-
+    A systematic literature review found no evidence to support that physical
+    exertion without rhabdomyolysis (muscle breakdown) or heat injury can cause
+    sudden death for individuals with sickle cell trait (SCT), nor is there any
+    high-level evidence that SCT causes acute pain crises. These results were
+    published today in the American Society of Hematology&#8217;s flagship
+    journal, [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 85
 score_breakdown:
   seo_quality: 72
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 95
   keyword_relevance: 88
-quality_note: "Well-written health news article with strong medical sourcing and appropriate tone, though the title could be more compelling and SEO-optimized for better search visibility."
+quality_note: >-
+  Well-written health news article with strong medical sourcing and appropriate
+  tone, though the title could be more compelling and SEO-optimized for better
+  search visibility.
+image_alt: >-
+  Researcher reviews medical data with abstract blood cells and a softly blurred
+  athletic track behind them.
 ---
 
 A systematic literature review found no evidence to support that physical exertion without rhabdomyolysis (muscle breakdown) or heat injury can cause sudden death for individuals with sickle cell trait (SCT), nor is there any high-level evidence that SCT causes acute pain crises. These results were published in the American Society of Hematology's flagship journal, *Blood*, and informed the Society's updated position statement on SCT.
