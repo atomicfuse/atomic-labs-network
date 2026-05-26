@@ -1,24 +1,32 @@
 ---
-title: "US to Resume Nuclear Weapons Testing, Trump Announces"
-description: "The discussion of resuming nuclear weapons tests in the U.S. raises significant concerns about international security, diplomatic relations, and environmental impact. The potential restart could undermine global non-proliferation efforts and provoke other nations to conduct tests."
-type: "standard"
-status: "review"
-publishDate: "2025-10-30T11:36:07+00:00"
-author: "Lena Ashwood"
+title: 'US to Resume Nuclear Weapons Testing, Trump Announces'
+description: >-
+  The discussion of resuming nuclear weapons tests in the U.S. raises
+  significant concerns about international security, diplomatic relations, and
+  environmental impact. The potential restart could undermine global
+  non-proliferation efforts and provoke other nations to conduct tests.
+type: standard
+status: review
+publishDate: '2025-10-30T11:36:07+00:00'
+author: Lena Ashwood
 tags:
-  - "Ideas"
-slug: "us-to-resume-nuclear-weapons-testing-trump-announces"
+  - Ideas
+slug: us-to-resume-nuclear-weapons-testing-trump-announces
 reading_time: 4
-source_url: "https://mindsbit.com/us-to-resume-nuclear-weapons-testing-trump-announces/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/us-to-resume-nuclear-weapons-testing-trump-announces/'
+imported_from: wordpress
 wp_original_id: 411
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/us-to-resume-nuclear-weapons-testing-trump-announces.webp
 seo:
-  canonical: "https://mindsbit.com/us-to-resume-nuclear-weapons-testing-trump-announces/"
-  og_title: "US to Resume Nuclear Weapons Testing, Trump Announces - Minds bit"
-  og_description: "The discussion of resuming nuclear weapons tests in the U.S. raises significant concerns about international security, diplomatic relations, and environmental impact. The potential restart could undermine global non-proliferation efforts and provoke other nations to conduct tests."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/10/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/us-to-resume-nuclear-weapons-testing-trump-announces/'
+  og_title: 'US to Resume Nuclear Weapons Testing, Trump Announces - Minds bit'
+  og_description: >-
+    The discussion of resuming nuclear weapons tests in the U.S. raises
+    significant concerns about international security, diplomatic relations, and
+    environmental impact. The potential restart could undermine global
+    non-proliferation efforts and provoke other nations to conduct tests.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/10/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 70
   keyword_relevance: 40
-quality_note: "The article is well-written and informative but suffers from a misleading title that suggests a false announcement, poor alignment with the site's tech focus, and limited coverage of the site's core topics."
+quality_note: >-
+  The article is well-written and informative but suffers from a misleading
+  title that suggests a false announcement, poor alignment with the site's tech
+  focus, and limited coverage of the site's core topics.
+image_alt: >-
+  Remote desert test site at dawn with monitoring equipment beneath an ominous
+  sky.
 ---
 
 In recent years, the topic of nuclear weapons testing has re-entered the global conversation, raising concerns over international security and environmental impact. This renewed focus stems from discussions within the United States about potentially resuming such tests. The implications of restarting nuclear tests could be significant, affecting both diplomatic relations and the global non-proliferation agenda.
