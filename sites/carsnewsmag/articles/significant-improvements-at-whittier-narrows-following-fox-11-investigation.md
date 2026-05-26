@@ -1,28 +1,39 @@
 ---
-title: "Significant Improvements at Whittier Narrows Following FOX 11 Investigation"
-description: "The Whittier Narrows area in Los Angeles has seen remarkable improvements after a large-scale cleanup was initiated, spurred by FOX 11's investigative report on local crime, homeless encampments, and unsafe tunnel conditions."
-type: "standard"
-status: "review"
-publishDate: "2026-01-15T09:21:20+00:00"
-author: "Taylor Winters"
+title: Significant Improvements at Whittier Narrows Following FOX 11 Investigation
+description: >-
+  The Whittier Narrows area in Los Angeles has seen remarkable improvements
+  after a large-scale cleanup was initiated, spurred by FOX 11's investigative
+  report on local crime, homeless encampments, and unsafe tunnel conditions.
+type: standard
+status: review
+publishDate: '2026-01-15T09:21:20+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Videos"
-slug: "significant-improvements-at-whittier-narrows-following-fox-11-investigation"
+  - News
+  - Videos
+slug: significant-improvements-at-whittier-narrows-following-fox-11-investigation
 reading_time: 2
-source_url: "https://carsnewsmag.com/significant-improvements-at-whittier-narrows-following-fox-11-investigation/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/significant-improvements-at-whittier-narrows-following-fox-11-investigation/
+imported_from: wordpress
 wp_original_id: 38548
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/significant-improvements-at-whittier-narrows-following-fox-11-investigation.webp
 seo:
-  canonical: "https://carsnewsmag.com/significant-improvements-at-whittier-narrows-following-fox-11-investigation/"
-  og_title: "Significant Improvements at Whittier Narrows Following FOX 11 Investigation - Cars News Magazine"
-  og_description: "The Whittier Narrows area has seen remarkable improvements after a large-scale cleanup was initiated, spurred by FOX 11's investigative report on local issues."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/significant-improvements-at-whittier-narrows-following-fox-11-investigation/
+  og_title: >-
+    Significant Improvements at Whittier Narrows Following FOX 11 Investigation
+    - Cars News Magazine
+  og_description: >-
+    The Whittier Narrows area has seen remarkable improvements after a
+    large-scale cleanup was initiated, spurred by FOX 11's investigative report
+    on local issues.
+  twitter_card: summary_large_image
 videos:
-  - id: "252bd005"
-    url: "https://www.youtube.com/watch?v=6Z0tm5WC1qU"
-    position: "after-paragraph-2"
+  - id: 252bd005
+    url: 'https://www.youtube.com/watch?v=6Z0tm5WC1qU'
+    position: after-paragraph-2
 quality_score: 32
 score_breakdown:
   seo_quality: 15
@@ -30,7 +41,11 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for an automotive website, covering local news about area cleanup rather than cars, and is far too short at only 268 words."
+quality_note: >-
+  This article is completely off-topic for an automotive website, covering local
+  news about area cleanup rather than cars, and is far too short at only 268
+  words.
+image_alt: Cleaned urban tunnel and park path in Los Angeles after a major cleanup effort
 ---
 
 The Whittier Narrows area in Los Angeles has witnessed a transformative change, thanks to a comprehensive cleanup operation instigated by an exclusive FOX 11 investigation. This move came in response to pressing concerns about crime, homeless encampments, and activities within the tunnels that had been adversely affecting the region.
