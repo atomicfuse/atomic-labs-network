@@ -1,28 +1,40 @@
 ---
-title: "Proworld Semi Auto Heat Press with Pressure Display Review"
-description: "A detailed review of the ProWorld Semi Auto Heat Press with Pressure Display, covering its features, setup, pros and cons, and real-world testing across multiple projects including HTV, DTF, and sublimation blanks."
-type: "standard"
-status: "review"
-publishDate: "2025-01-17T13:16:46+00:00"
-author: "admin"
+title: Proworld Semi Auto Heat Press with Pressure Display Review
+description: >-
+  A detailed review of the ProWorld Semi Auto Heat Press with Pressure Display,
+  covering its features, setup, pros and cons, and real-world testing across
+  multiple projects including HTV, DTF, and sublimation blanks.
+type: standard
+status: review
+publishDate: '2025-01-17T13:16:46+00:00'
+author: admin
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "proworld-semi-auto-heat-press-with-pressure-display-review"
+  - Decor Ideas
+  - Design
+slug: proworld-semi-auto-heat-press-with-pressure-display-review
 reading_time: 12
-source_url: "https://decoratingtricks.com/proworld-semi-auto-heat-press-with-pressure-display-review/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/proworld-semi-auto-heat-press-with-pressure-display-review/
+imported_from: wordpress
 wp_original_id: 21188
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/proworld-semi-auto-heat-press-with-pressure-display-review.webp
 seo:
-  canonical: "https://decoratingtricks.com/proworld-semi-auto-heat-press-with-pressure-display-review/"
-  og_title: "Proworld Semi Auto Heat Press with Pressure Display Review - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. If you&#x2019;re in the market for [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/proworld-semi-auto-heat-press-with-pressure-display-review/
+  og_title: >-
+    Proworld Semi Auto Heat Press with Pressure Display Review - Decorating
+    Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. If you&#x2019;re in the
+    market for [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "896b924c"
-    url: "https://www.youtube.com/watch?v=rwfd2lBlM4M"
-    position: "after-paragraph-6"
+  - id: 896b924c
+    url: 'https://www.youtube.com/watch?v=rwfd2lBlM4M'
+    position: after-paragraph-6
 quality_score: 61
 score_breakdown:
   seo_quality: 65
@@ -30,7 +42,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 35
-quality_note: "While the article is well-written and informative about heat presses, it's too long at 2321 words and doesn't align well with the site's Home & Garden focus, reading more like a product review than decorating/design content."
+quality_note: >-
+  While the article is well-written and informative about heat presses, it's too
+  long at 2321 words and doesn't align well with the site's Home & Garden focus,
+  reading more like a product review than decorating/design content.
+image_alt: >-
+  Home craft workbench with heat press, shirts, tote bags, mugs, and transfer
+  supplies neatly arranged
 ---
 
 If you're in the market for a new [heat press](https://www.thecountrychiccottage.net/proworld-semi-auto-heat-press-review/), I may have just what you're looking for. The Proworld Semi Auto heat press with a pressure display is one you should look into.
