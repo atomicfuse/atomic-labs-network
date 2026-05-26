@@ -1,24 +1,35 @@
 ---
-title: "Will COVID Scammers Face Justice or Evade Accountability?"
-description: "The ongoing global discourse on pandemic management continues to evolve, raising questions about the effectiveness of strategies like lockdowns and vaccination campaigns. Evaluating these measures is crucial for understanding their broader societal and economic impacts and preparing for future health crises."
-type: "standard"
-status: "review"
-publishDate: "2025-12-18T11:15:17+00:00"
-author: "Blake Anderson"
+title: Will COVID Scammers Face Justice or Evade Accountability?
+description: >-
+  The ongoing global discourse on pandemic management continues to evolve,
+  raising questions about the effectiveness of strategies like lockdowns and
+  vaccination campaigns. Evaluating these measures is crucial for understanding
+  their broader societal and economic impacts and preparing for future health
+  crises.
+type: standard
+status: review
+publishDate: '2025-12-18T11:15:17+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "will-covid-scammers-face-justice-or-evade-accountability"
+  - Deep Dives
+slug: will-covid-scammers-face-justice-or-evade-accountability
 reading_time: 3
-source_url: "https://stroylab.com/will-covid-scammers-face-justice-or-evade-accountability/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/will-covid-scammers-face-justice-or-evade-accountability/'
+imported_from: wordpress
 wp_original_id: 660
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/will-covid-scammers-face-justice-or-evade-accountability.webp
 seo:
-  canonical: "https://stroylab.com/will-covid-scammers-face-justice-or-evade-accountability/"
-  og_title: "Will COVID Scammers Face Justice or Evade Accountability? - StroyLab"
-  og_description: "The ongoing global discourse on pandemic management continues to evolve, raising questions about the effectiveness of strategies like lockdowns and vaccination campaigns. Evaluating these measures is crucial for understanding their broader societal and economic impacts and preparing for future health crises."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-180.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/will-covid-scammers-face-justice-or-evade-accountability/
+  og_title: Will COVID Scammers Face Justice or Evade Accountability? - StroyLab
+  og_description: >-
+    The ongoing global discourse on pandemic management continues to evolve,
+    raising questions about the effectiveness of strategies like lockdowns and
+    vaccination campaigns. Evaluating these measures is crucial for
+    understanding their broader societal and economic impacts and preparing for
+    future health crises.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-180.jpeg'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article fails to deliver on its provocative title about COVID scammers, instead providing a generic pandemic response analysis that doesn't match the site's focus on conspiracies, mysteries, and dark history."
+quality_note: >-
+  The article fails to deliver on its provocative title about COVID scammers,
+  instead providing a generic pandemic response analysis that doesn't match the
+  site's focus on conspiracies, mysteries, and dark history.
+image_alt: >-
+  Courthouse corridor with scales, a medical mask, documents, and a blurred
+  figure walking away
 ---
 
 The ongoing global discourse around pandemic management continues to evolve, with new perspectives and insights emerging regularly. As we navigate through the aftermath of unprecedented public health measures, questions arise regarding the effectiveness and implications of these strategies. This discourse is crucial in understanding the broader impacts on society and the economy.
