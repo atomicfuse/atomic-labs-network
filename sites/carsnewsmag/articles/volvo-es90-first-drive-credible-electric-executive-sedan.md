@@ -1,25 +1,35 @@
 ---
-title: "Volvo ES90 First Drive Credible Electric Executive Sedan"
-description: "Volvo's ES90 blends executive comfort, long electric range, rapid charging and practical fastback versatility, making it a compelling premium EV option for fleets and company car drivers."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:22:29+00:00"
-author: "Taylor Winters"
+title: Volvo ES90 First Drive Credible Electric Executive Sedan
+description: >-
+  Volvo's ES90 blends executive comfort, long electric range, rapid charging and
+  practical fastback versatility, making it a compelling premium EV option for
+  fleets and company car drivers.
+type: standard
+status: published
+publishDate: '2026-05-14T08:22:29+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Reviews"
-slug: "volvo-es90-first-drive-credible-electric-executive-sedan"
+  - Electric Cars
+  - Reviews
+slug: volvo-es90-first-drive-credible-electric-executive-sedan
 reading_time: 8
-source_url: "https://carsnewsmag.com/volvo-es90-first-drive-credible-electric-executive-sedan/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/volvo-es90-first-drive-credible-electric-executive-sedan/
+imported_from: wordpress
 wp_original_id: 38615
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/volvo-es90-first-drive-credible-electric-executive-sedan.webp
 seo:
-  canonical: "https://carsnewsmag.com/volvo-es90-first-drive-credible-electric-executive-sedan/"
-  og_title: "Volvo ES90 First Drive Credible Electric Executive Sedan - Cars News Magazine"
-  og_description: "Volvo’s ES90 blends executive comfort, long electric range, rapid charging and practical fastback versatility, making it a compelling premium EV option for fleets and company car drivers."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/volvo-es90-first-drive-credible-electric-executive-sedan/
+  og_title: >-
+    Volvo ES90 First Drive Credible Electric Executive Sedan - Cars News
+    Magazine
+  og_description: >-
+    Volvo’s ES90 blends executive comfort, long electric range, rapid charging
+    and practical fastback versatility, making it a compelling premium EV option
+    for fleets and company car drivers.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 87
 score_breakdown:
   seo_quality: 78
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 75
   keyword_relevance: 95
-quality_note: "Well-written electric vehicle review with excellent tone and keyword alignment, though some specific technical claims lack verification and the title could be more compelling for SEO."
+quality_note: >-
+  Well-written electric vehicle review with excellent tone and keyword
+  alignment, though some specific technical claims lack verification and the
+  title could be more compelling for SEO.
+image_alt: >-
+  Premium electric fastback sedan driving through a modern business district at
+  golden hour
 ---
 
 The Volvo ES90 arrives as a fresh alternative for drivers who want the comfort of an executive saloon with the low running costs of a premium electric car. It blends long-distance range, rapid charging, advanced safety technology and a practical hatchback body, making it a serious option for fleets and company car users.
