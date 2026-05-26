@@ -24,7 +24,8 @@ source_url: ''
 source_item_id: >-
   synthetic-tesla-investors-want-elon-musk-to-answer-questions-about-salute-role-in-trump-white-house
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/tesla-investors-want-elon-musk-to-answer-questions-about-salute-role-in-trump-white-house.webp
 reading_time: 2
 quality_score: 69
 score_breakdown:
@@ -37,6 +38,9 @@ quality_note: >-
   Strong relevance and tone but severely penalized by very short length (305
   words vs 800-1200 target) and vague sourcing that raises factual accuracy
   concerns.
+image_alt: >-
+  Unbranded electric car reflecting investors with a government building blurred
+  behind it
 ---
 ## Investor Concerns Mount Over CEO's Political Involvement
 
