@@ -2,7 +2,8 @@ domain: journeypeaks.com
 site_name: journeypeaks
 site_tagline: null
 author: Ryan Rivera
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d74d16f23264031d7a52
 brief:
