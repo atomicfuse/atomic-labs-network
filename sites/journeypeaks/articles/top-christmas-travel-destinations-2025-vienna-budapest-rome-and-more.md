@@ -1,25 +1,38 @@
 ---
-title: "Top Christmas Travel Destinations 2025: Vienna, Budapest, Rome, and More"
-description: "Explore Europe's enchanting Christmas cities like Vienna, Budapest, Rome, Prague, and Paris, where unique traditions, stunning decorations, and festive markets offering handcrafted gifts and seasonal treats transform iconic landmarks into winter wonderlands."
-type: "standard"
-status: "published"
-publishDate: "2025-11-20T10:09:31+00:00"
-author: "Taylor Winters"
+title: 'Top Christmas Travel Destinations 2025: Vienna, Budapest, Rome, and More'
+description: >-
+  Explore Europe's enchanting Christmas cities like Vienna, Budapest, Rome,
+  Prague, and Paris, where unique traditions, stunning decorations, and festive
+  markets offering handcrafted gifts and seasonal treats transform iconic
+  landmarks into winter wonderlands.
+type: standard
+status: published
+publishDate: '2025-11-20T10:09:31+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-christmas-travel-destinations-2025-vienna-budapest-rome-and-more"
+  - Destinations
+  - Travel
+slug: top-christmas-travel-destinations-2025-vienna-budapest-rome-and-more
 reading_time: 3
-source_url: "https://journeypeaks.com/top-christmas-travel-destinations-2025-vienna-budapest-rome-and-more/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-christmas-travel-destinations-2025-vienna-budapest-rome-and-more/
+imported_from: wordpress
 wp_original_id: 38743
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/top-christmas-travel-destinations-2025-vienna-budapest-rome-and-more.webp
 seo:
-  canonical: "https://journeypeaks.com/top-christmas-travel-destinations-2025-vienna-budapest-rome-and-more/"
-  og_title: "Top Christmas Travel Destinations 2025: Vienna, Budapest, Rome, and More - Journey Peaks"
-  og_description: "Explore Europe's enchanting Christmas cities like Vienna, Budapest, Rome, Prague, and Paris. Enjoy unique traditions, stunning decorations, and festive markets offering handcrafted gifts and seasonal treats. Experience cultural events and iconic landmarks transformed into winter wonderlands."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/11/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-christmas-travel-destinations-2025-vienna-budapest-rome-and-more/
+  og_title: >-
+    Top Christmas Travel Destinations 2025: Vienna, Budapest, Rome, and More -
+    Journey Peaks
+  og_description: >-
+    Explore Europe's enchanting Christmas cities like Vienna, Budapest, Rome,
+    Prague, and Paris. Enjoy unique traditions, stunning decorations, and
+    festive markets offering handcrafted gifts and seasonal treats. Experience
+    cultural events and iconic landmarks transformed into winter wonderlands.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/11/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel content with excellent keyword relevance and tone, but significantly under the target word count at 520 words when 800-1200 is preferred."
+quality_note: >-
+  Well-written travel content with excellent keyword relevance and tone, but
+  significantly under the target word count at 520 words when 800-1200 is
+  preferred.
+image_alt: >-
+  Traveler at a glowing European Christmas market with festive lights, snow, and
+  historic architecture
 ---
 
 Embrace the enchanting spirit of Christmas by exploring some of Europe's most captivating cities. As the holiday season approaches, destinations such as Vienna, Budapest, Rome, Prague, and Paris transform into winter wonderlands filled with festive charm. Each city offers unique traditions, stunning decorations, and a magical atmosphere that awaits every traveler seeking the perfect holiday getaway.
