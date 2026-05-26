@@ -1,21 +1,29 @@
 ---
-title: "Titan’s Lakes Crystals Challenge Chemistry’s Fundamental Rules"
-description: "Titan, Saturn's largest moon, has lakes of liquid hydrocarbons like methane and ethane, and recent research suggests these frigid lakes may contain peculiar co-crystals that challenge conventional chemistry. Future missions like NASA's Dragonfly aim to explore Titan's surface and potentially confirm these unusual formations."
-type: "standard"
-status: "published"
-publishDate: "2025-10-23T11:53:30"
-author: "Taylor Winters"
+title: Titan’s Lakes Crystals Challenge Chemistry’s Fundamental Rules
+description: >-
+  Titan, Saturn's largest moon, has lakes of liquid hydrocarbons like methane
+  and ethane, and recent research suggests these frigid lakes may contain
+  peculiar co-crystals that challenge conventional chemistry. Future missions
+  like NASA's Dragonfly aim to explore Titan's surface and potentially confirm
+  these unusual formations.
+type: standard
+status: published
+publishDate: '2025-10-23T11:53:30'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "titans-lakes-crystals-challenge-chemistrys-fundamental-rules"
+  - Space
+slug: titans-lakes-crystals-challenge-chemistrys-fundamental-rules
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/titans-lakes-crystals-challenge-chemistrys-fundamental-rules/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/titans-lakes-crystals-challenge-chemistrys-fundamental-rules/
+imported_from: wordpress
 wp_original_id: 15014
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/titans-lakes-crystals-challenge-chemistrys-fundamental-rules.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/titans-lakes-crystals-challenge-chemistrys-fundamental-rules/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/titans-lakes-crystals-challenge-chemistrys-fundamental-rules/
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -23,7 +31,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong space content with engaging tone and good accuracy, but significantly under target word count at 463 words versus the 800-1200 target range."
+quality_note: >-
+  Strong space content with engaging tone and good accuracy, but significantly
+  under target word count at 463 words versus the 800-1200 target range.
+image_alt: >-
+  Amber alien lake on Titan with crystalline formations and a small explorer
+  craft under hazy Saturn light.
 ---
 
 Titan, Saturn's largest moon, presents a mysterious landscape that captivates scientists. Unlike Earth, Titan's surface is dotted with lakes and seas filled not with water, but with liquid hydrocarbons like methane and ethane. Recent research reveals that these frigid lakes might host peculiar crystals, potentially defying established chemical principles.
