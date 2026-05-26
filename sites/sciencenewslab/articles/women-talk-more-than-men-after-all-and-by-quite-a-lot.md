@@ -1,22 +1,28 @@
 ---
-title: "Women Talk More Than Men After All, And By Quite a Lot"
-description: "A comprehensive new study finds that women speak significantly more words per day than men during early to middle adulthood (ages 25–64), while also revealing that overall talking has declined over time, likely due to increased screen use."
-type: "standard"
-status: "review"
-publishDate: "2025-03-01T11:00:00"
-author: "Taylor Winters"
+title: 'Women Talk More Than Men After All, And By Quite a Lot'
+description: >-
+  A comprehensive new study finds that women speak significantly more words per
+  day than men during early to middle adulthood (ages 25–64), while also
+  revealing that overall talking has declined over time, likely due to increased
+  screen use.
+type: standard
+status: review
+publishDate: '2025-03-01T11:00:00'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "women-talk-more-than-men-after-all-and-by-quite-a-lot"
+  - Space
+  - Humans
+slug: women-talk-more-than-men-after-all-and-by-quite-a-lot
 reading_time: 3
-source_url: "https://www.sciencenewslab.com/women-talk-more-than-men-after-all-and-by-quite-a-lot/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/women-talk-more-than-men-after-all-and-by-quite-a-lot/
+imported_from: wordpress
 wp_original_id: 14894
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/women-talk-more-than-men-after-all-and-by-quite-a-lot.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/women-talk-more-than-men-after-all-and-by-quite-a-lot/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/women-talk-more-than-men-after-all-and-by-quite-a-lot/
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 40
-quality_note: "Well-written article with good tone and credible research, but falls short on length and keyword relevance to the site's core science topics."
+quality_note: >-
+  Well-written article with good tone and credible research, but falls short on
+  length and keyword relevance to the site's core science topics.
+image_alt: >-
+  Adults in conversation as abstract sound waves fade toward smartphone screens
+  on a table.
 ---
 
 There are certain stereotypes about [how relatively chatty](https://www.sciencealert.com/feel-like-you-talk-too-much-a-new-study-shows-people-may-like-it) men and women are, but what does the science say? A comprehensive new study shows that women tend to do more talking for much of the middle period of their life.
