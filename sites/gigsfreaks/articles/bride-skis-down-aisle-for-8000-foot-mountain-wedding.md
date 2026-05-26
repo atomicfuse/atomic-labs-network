@@ -1,24 +1,32 @@
 ---
-title: "Bride Skis Down Aisle for 8,000-Foot Mountain Wedding"
-description: "A daring couple exchanged vows 8,000 feet above sea level in the Rocky Mountains, blending love and adventure. The bride skied down the aisle, showcasing her passion, while guests experienced a breathtaking journey and an unforgettable mountaintop celebration."
-type: "standard"
-status: "published"
-publishDate: "2025-05-05T16:12:29+00:00"
-author: "Nico Harper"
+title: 'Bride Skis Down Aisle for 8,000-Foot Mountain Wedding'
+description: >-
+  A daring couple exchanged vows 8,000 feet above sea level in the Rocky
+  Mountains, blending love and adventure. The bride skied down the aisle,
+  showcasing her passion, while guests experienced a breathtaking journey and an
+  unforgettable mountaintop celebration.
+type: standard
+status: published
+publishDate: '2025-05-05T16:12:29+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "bride-skis-down-aisle-for-8000-foot-mountain-wedding"
+  - Good Vibes
+slug: bride-skis-down-aisle-for-8000-foot-mountain-wedding
 reading_time: 4
-source_url: "https://gigsfreaks.com/bride-skis-down-aisle-for-8000-foot-mountain-wedding/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/bride-skis-down-aisle-for-8000-foot-mountain-wedding/'
+imported_from: wordpress
 wp_original_id: 871
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/bride-skis-down-aisle-for-8000-foot-mountain-wedding.webp
 seo:
-  canonical: "https://gigsfreaks.com/bride-skis-down-aisle-for-8000-foot-mountain-wedding/"
-  og_title: "Bride Skis Down Aisle for 8,000-Foot Mountain Wedding - GigsFreaks"
-  og_description: "A daring couple exchanged vows 8,000 feet above sea level in the Rocky Mountains, blending love and adventure. The bride skied down the aisle, showcasing her passion, while guests experienced a breathtaking journey and an unforgettable mountaintop celebration."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-92.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/bride-skis-down-aisle-for-8000-foot-mountain-wedding/'
+  og_title: 'Bride Skis Down Aisle for 8,000-Foot Mountain Wedding - GigsFreaks'
+  og_description: >-
+    A daring couple exchanged vows 8,000 feet above sea level in the Rocky
+    Mountains, blending love and adventure. The bride skied down the aisle,
+    showcasing her passion, while guests experienced a breathtaking journey and
+    an unforgettable mountaintop celebration.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-92.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 90
   keyword_relevance: 65
-quality_note: "Well-written article with engaging tone and good structure, but falls short on word count and could better integrate site-specific keywords like Hot Trends or LOL."
+quality_note: >-
+  Well-written article with engaging tone and good structure, but falls short on
+  word count and could better integrate site-specific keywords like Hot Trends
+  or LOL.
+image_alt: >-
+  Ski tracks and a flowing bridal veil lead toward a snowy mountaintop wedding
+  in the Rockies.
 ---
 
 Imagine exchanging vows with a breathtaking mountain range as your backdrop, where the crisp air fills your lungs and adventure is woven into every moment. For one daring couple, their wedding day was not just a celebration of love but also a testament to their adventurous spirits. They chose to tie the knot at a staggering 8,000 feet above sea level, adding an exhilarating twist to their nuptials.
