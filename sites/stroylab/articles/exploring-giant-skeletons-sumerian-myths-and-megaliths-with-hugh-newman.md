@@ -1,29 +1,39 @@
 ---
-title: "Exploring Giant Skeletons, Sumerian Myths, and Megaliths with Hugh Newman"
-description: "Delve into the ancient mysteries with Hugh Newman as he explores giant skeletons, Sumerian myths, and megalithic sites worldwide, drawing on over two decades of research and fieldwork."
-type: "standard"
-status: "review"
-publishDate: "2026-03-16T12:21:22+00:00"
-author: "Blake Anderson"
+title: 'Exploring Giant Skeletons, Sumerian Myths, and Megaliths with Hugh Newman'
+description: >-
+  Delve into the ancient mysteries with Hugh Newman as he explores giant
+  skeletons, Sumerian myths, and megalithic sites worldwide, drawing on over two
+  decades of research and fieldwork.
+type: standard
+status: review
+publishDate: '2026-03-16T12:21:22+00:00'
+author: Blake Anderson
 tags:
-  - "Conspiracies"
-  - "Dark History"
-  - "Mysteries"
-slug: "exploring-giant-skeletons-sumerian-myths-and-megaliths-with-hugh-newman"
+  - Conspiracies
+  - Dark History
+  - Mysteries
+slug: exploring-giant-skeletons-sumerian-myths-and-megaliths-with-hugh-newman
 reading_time: 2
-source_url: "https://stroylab.com/exploring-giant-skeletons-sumerian-myths-and-megaliths-with-hugh-newman/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/exploring-giant-skeletons-sumerian-myths-and-megaliths-with-hugh-newman/
+imported_from: wordpress
 wp_original_id: 792
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-giant-skeletons-sumerian-myths-and-megaliths-with-hugh-newman.webp
 seo:
-  canonical: "https://stroylab.com/exploring-giant-skeletons-sumerian-myths-and-megaliths-with-hugh-newman/"
-  og_title: "Exploring Giant Skeletons, Sumerian Myths, and Megaliths with Hugh Newman - StroyLab"
-  og_description: "Delve into the ancient mysteries with Hugh Newman as he explores giant skeletons, Sumerian myths, and megalithic sites."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/exploring-giant-skeletons-sumerian-myths-and-megaliths-with-hugh-newman/
+  og_title: >-
+    Exploring Giant Skeletons, Sumerian Myths, and Megaliths with Hugh Newman -
+    StroyLab
+  og_description: >-
+    Delve into the ancient mysteries with Hugh Newman as he explores giant
+    skeletons, Sumerian myths, and megalithic sites.
+  twitter_card: summary_large_image
 videos:
-  - id: "59826c54"
-    url: "https://www.youtube.com/watch?v=yU_adnZ1L14"
-    position: "after-paragraph-2"
+  - id: 59826c54
+    url: 'https://www.youtube.com/watch?v=yU_adnZ1L14'
+    position: after-paragraph-2
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -31,7 +41,10 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and factual content, but severely penalized for being only 308 words when 800-1200 is the target range."
+quality_note: >-
+  Well-written article with good tone and factual content, but severely
+  penalized for being only 308 words when 800-1200 is the target range.
+image_alt: Archaeologist silhouette near misty megaliths and ancient ruins at dawn
 ---
 
 Hugh Newman is a renowned author, explorer, and researcher who has dedicated over two decades to unraveling the secrets of megalithic sites worldwide. His passion for ancient mysteries has led him to investigate enigmatic structures and historical narratives that challenge conventional theories about human history.
