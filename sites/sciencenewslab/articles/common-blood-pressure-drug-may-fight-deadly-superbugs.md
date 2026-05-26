@@ -1,22 +1,28 @@
 ---
-title: "Common Blood Pressure Drug May Fight Deadly Superbugs"
-description: "Amlodipine, a common blood pressure drug, may weaken the hospital superbug Acinetobacter baumannii, offering researchers a promising drug-repurposing lead against antibiotic-resistant infections while remaining far from approved infection treatment."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T11:47:01"
-author: "Taylor Winters"
+title: Common Blood Pressure Drug May Fight Deadly Superbugs
+description: >-
+  Amlodipine, a common blood pressure drug, may weaken the hospital superbug
+  Acinetobacter baumannii, offering researchers a promising drug-repurposing
+  lead against antibiotic-resistant infections while remaining far from approved
+  infection treatment.
+type: standard
+status: published
+publishDate: '2026-05-07T11:47:01'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "common-blood-pressure-drug-may-fight-deadly-superbugs"
+  - Space
+  - Humans
+slug: common-blood-pressure-drug-may-fight-deadly-superbugs
 reading_time: 6
-source_url: "https://www.sciencenewslab.com/common-blood-pressure-drug-may-fight-deadly-superbugs/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/common-blood-pressure-drug-may-fight-deadly-superbugs/
+imported_from: wordpress
 wp_original_id: 15101
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/common-blood-pressure-drug-may-fight-deadly-superbugs.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/common-blood-pressure-drug-may-fight-deadly-superbugs/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/common-blood-pressure-drug-may-fight-deadly-superbugs/
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -24,7 +30,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 25
-quality_note: "Well-written medical article with appropriate tone and length, but poorly aligned with site's focus on Space/Nature/Physics/Technology/Environment topics."
+quality_note: >-
+  Well-written medical article with appropriate tone and length, but poorly
+  aligned with site's focus on Space/Nature/Physics/Technology/Environment
+  topics.
+image_alt: >-
+  Prescription vial and petri dish on a clinical lab bench suggesting drug
+  repurposing against superbugs
 ---
 
 A widely used blood pressure medicine may offer an unexpected advantage in the fight against antibiotic-resistant infection. Researchers have found that amlodipine, a common calcium channel blocker, can weaken Acinetobacter baumannii, a dangerous hospital superbug that has become increasingly hard to treat.
