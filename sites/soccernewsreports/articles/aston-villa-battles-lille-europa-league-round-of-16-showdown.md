@@ -1,25 +1,38 @@
 ---
-title: "Aston Villa Battles Lille: Europa League Round of 16 Showdown"
-description: "The Europa League captivates soccer fans globally as historic clubs and emerging talents vie for glory. Aston Villa, Nottingham Forest, AS Roma, and Lazio are making headlines with strategic plays and tactical innovations in this highly competitive tournament."
-type: "standard"
-status: "review"
-publishDate: "2026-03-19T10:39:26+00:00"
-author: "Taylor Winters"
+title: 'Aston Villa Battles Lille: Europa League Round of 16 Showdown'
+description: >-
+  The Europa League captivates soccer fans globally as historic clubs and
+  emerging talents vie for glory. Aston Villa, Nottingham Forest, AS Roma, and
+  Lazio are making headlines with strategic plays and tactical innovations in
+  this highly competitive tournament.
+type: standard
+status: review
+publishDate: '2026-03-19T10:39:26+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AC Milan"
-slug: "aston-villa-battles-lille-europa-league-round-of-16-showdown"
+  - Latest News
+  - AC Milan
+slug: aston-villa-battles-lille-europa-league-round-of-16-showdown
 reading_time: 3
-source_url: "https://soccernewsreports.com/aston-villa-battles-lille-europa-league-round-of-16-showdown/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/aston-villa-battles-lille-europa-league-round-of-16-showdown/
+imported_from: wordpress
 wp_original_id: 37998
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/aston-villa-battles-lille-europa-league-round-of-16-showdown.webp
 seo:
-  canonical: "https://soccernewsreports.com/aston-villa-battles-lille-europa-league-round-of-16-showdown/"
-  og_title: "Aston Villa Battles Lille: Europa League Round of 16 Showdown - Soccer News Reports"
-  og_description: "The Europa League captivates soccer fans globally as historic clubs and emerging talents vie for glory. Aston Villa, Nottingham Forest, AS Roma, and Lazio are making headlines with strategic plays and tactical innovations in this highly competitive tournament."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/aston-villa-battles-lille-europa-league-round-of-16-showdown/
+  og_title: >-
+    Aston Villa Battles Lille: Europa League Round of 16 Showdown - Soccer News
+    Reports
+  og_description: >-
+    The Europa League captivates soccer fans globally as historic clubs and
+    emerging talents vie for glory. Aston Villa, Nottingham Forest, AS Roma, and
+    Lazio are making headlines with strategic plays and tactical innovations in
+    this highly competitive tournament.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 25
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "The article has good tone and appears factually sound but suffers from poor SEO optimization, below-target word count, and weak keyword alignment with the site's focus areas."
+quality_note: >-
+  The article has good tone and appears factually sound but suffers from poor
+  SEO optimization, below-target word count, and weak keyword alignment with the
+  site's focus areas.
+image_alt: >-
+  Two footballers battle for the ball under floodlights during a tense European
+  night match.
 ---
 
 The Europa League has once again captured the attention of soccer enthusiasts around the globe, as teams vie for glory in this highly competitive tournament. With a mixture of experienced clubs and ambitious newcomers, the stage is set for an unforgettable series of matches.
