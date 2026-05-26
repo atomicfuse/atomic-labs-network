@@ -1,24 +1,32 @@
 ---
-title: "Nick Fuentes Advocates America First Movement"
-description: "Discussions on digital privacy and freedom of speech have intensified, focusing on online censorship and social media's influence. Balancing free expression with user safety is complex, requiring global cooperation and nuanced regulation to maintain an open and secure digital environment."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:39:54+00:00"
-author: "Blake Anderson"
+title: Nick Fuentes Advocates America First Movement
+description: >-
+  Discussions on digital privacy and freedom of speech have intensified,
+  focusing on online censorship and social media's influence. Balancing free
+  expression with user safety is complex, requiring global cooperation and
+  nuanced regulation to maintain an open and secure digital environment.
+type: standard
+status: review
+publishDate: '2025-12-22T11:39:54+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "nick-fuentes-advocates-america-first-movement"
+  - Deep Dives
+slug: nick-fuentes-advocates-america-first-movement
 reading_time: 4
-source_url: "https://stroylab.com/nick-fuentes-advocates-america-first-movement/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/nick-fuentes-advocates-america-first-movement/'
+imported_from: wordpress
 wp_original_id: 738
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/nick-fuentes-advocates-america-first-movement.webp
 seo:
-  canonical: "https://stroylab.com/nick-fuentes-advocates-america-first-movement/"
-  og_title: "Nick Fuentes Advocates America First Movement - StroyLab"
-  og_description: "Discussions on digital privacy and freedom of speech have intensified, focusing on online censorship and social media's influence. Balancing free expression with user safety is complex, requiring global cooperation and nuanced regulation to maintain an open and secure digital environment."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-218.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/nick-fuentes-advocates-america-first-movement/'
+  og_title: Nick Fuentes Advocates America First Movement - StroyLab
+  og_description: >-
+    Discussions on digital privacy and freedom of speech have intensified,
+    focusing on online censorship and social media's influence. Balancing free
+    expression with user safety is complex, requiring global cooperation and
+    nuanced regulation to maintain an open and secure digital environment.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-218.jpeg'
+  twitter_card: summary_large_image
 quality_score: 48
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article has a misleading title about Nick Fuentes but covers generic digital privacy topics, missing the site's focus on conspiracies, mysteries, and dark history entirely."
+quality_note: >-
+  The article has a misleading title about Nick Fuentes but covers generic
+  digital privacy topics, missing the site's focus on conspiracies, mysteries,
+  and dark history entirely.
+image_alt: >-
+  Laptop user surrounded by abstract digital privacy and speech moderation
+  symbols
 ---
 
 In recent years, discussions around digital privacy and freedom of speech have intensified, driven by concerns over online censorship and the role of technology companies in controlling information flow. This debate has been particularly heated in the context of social media platforms and their influence on public discourse. With the rapid evolution of the internet, addressing these issues has become crucial for maintaining a balanced and open society.
