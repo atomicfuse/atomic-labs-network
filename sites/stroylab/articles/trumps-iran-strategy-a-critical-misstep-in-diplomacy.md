@@ -1,24 +1,33 @@
 ---
-title: "Trump’s Iran Strategy: A Critical Misstep in Diplomacy"
-description: "The rapid advancement of AI in military operations presents both opportunities and challenges, enhancing capabilities while raising ethical concerns. Nations are racing for technological supremacy, prompting calls for international regulations to ensure responsible AI deployment in defense strategies."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T10:59:31+00:00"
-author: "Blake Anderson"
+title: 'Trump’s Iran Strategy: A Critical Misstep in Diplomacy'
+description: >-
+  The rapid advancement of AI in military operations presents both opportunities
+  and challenges, enhancing capabilities while raising ethical concerns. Nations
+  are racing for technological supremacy, prompting calls for international
+  regulations to ensure responsible AI deployment in defense strategies.
+type: standard
+status: review
+publishDate: '2026-02-05T10:59:31+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "trumps-iran-strategy-a-critical-misstep-in-diplomacy"
+  - Deep Dives
+slug: trumps-iran-strategy-a-critical-misstep-in-diplomacy
 reading_time: 3
-source_url: "https://stroylab.com/trumps-iran-strategy-a-critical-misstep-in-diplomacy/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/trumps-iran-strategy-a-critical-misstep-in-diplomacy/'
+imported_from: wordpress
 wp_original_id: 781
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/trumps-iran-strategy-a-critical-misstep-in-diplomacy.webp
 seo:
-  canonical: "https://stroylab.com/trumps-iran-strategy-a-critical-misstep-in-diplomacy/"
-  og_title: "Trump's Iran Strategy: A Critical Misstep in Diplomacy - StroyLab"
-  og_description: "The rapid advancement of AI in military operations presents both opportunities and challenges, enhancing capabilities while raising ethical concerns. Nations are racing for technological supremacy, prompting calls for international regulations to ensure responsible AI deployment in defense strategies."
-  og_image: "https://stroylab.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/trumps-iran-strategy-a-critical-misstep-in-diplomacy/'
+  og_title: 'Trump''s Iran Strategy: A Critical Misstep in Diplomacy - StroyLab'
+  og_description: >-
+    The rapid advancement of AI in military operations presents both
+    opportunities and challenges, enhancing capabilities while raising ethical
+    concerns. Nations are racing for technological supremacy, prompting calls
+    for international regulations to ensure responsible AI deployment in defense
+    strategies.
+  og_image: 'https://stroylab.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 41
 score_breakdown:
   seo_quality: 15
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 10
-quality_note: "The article completely mismatches its title about Trump's Iran strategy, instead discussing AI in military operations, making it irrelevant to the site's conspiracy and mystery focus."
+quality_note: >-
+  The article completely mismatches its title about Trump's Iran strategy,
+  instead discussing AI in military operations, making it irrelevant to the
+  site's conspiracy and mystery focus.
+image_alt: >-
+  Empty diplomatic table with digital military overlays and a fallen chess piece
+  suggesting geopolitical risk.
 ---
 
 In recent years, the rapid advances in artificial intelligence have sparked intense discussions across various sectors. One of the most notable areas of debate is the integration of AI into military operations. As nations vie for technological supremacy, the implications of AI's role in defense strategies are both profound and far-reaching.
