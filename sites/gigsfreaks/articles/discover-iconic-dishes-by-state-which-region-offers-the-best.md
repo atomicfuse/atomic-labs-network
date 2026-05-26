@@ -1,24 +1,35 @@
 ---
-title: "Discover Iconic Dishes by State: Which Region Offers the Best?"
-description: "American cuisine reflects its diverse landscape, with each state offering unique dishes that showcase cultural and historical influences. A recent survey highlights the Southern states' comfort foods as some of the most celebrated, emphasizing their impact on American food culture."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T10:21:32+00:00"
-author: "Nico Harper"
+title: 'Discover Iconic Dishes by State: Which Region Offers the Best?'
+description: >-
+  American cuisine reflects its diverse landscape, with each state offering
+  unique dishes that showcase cultural and historical influences. A recent
+  survey highlights the Southern states' comfort foods as some of the most
+  celebrated, emphasizing their impact on American food culture.
+type: standard
+status: review
+publishDate: '2026-01-26T10:21:32+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "discover-iconic-dishes-by-state-which-region-offers-the-best"
+  - Good Vibes
+slug: discover-iconic-dishes-by-state-which-region-offers-the-best
 reading_time: 3
-source_url: "https://gigsfreaks.com/discover-iconic-dishes-by-state-which-region-offers-the-best/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/discover-iconic-dishes-by-state-which-region-offers-the-best/
+imported_from: wordpress
 wp_original_id: 1008
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-iconic-dishes-by-state-which-region-offers-the-best.webp
 seo:
-  canonical: "https://gigsfreaks.com/discover-iconic-dishes-by-state-which-region-offers-the-best/"
-  og_title: "Discover Iconic Dishes by State: Which Region Offers the Best? - GigsFreaks"
-  og_description: "American cuisine reflects its diverse landscape, with each state offering unique dishes that showcase cultural and historical influences. A recent survey highlights the Southern states' comfort foods as some of the most celebrated, emphasizing their impact on American food culture."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/discover-iconic-dishes-by-state-which-region-offers-the-best/
+  og_title: 'Discover Iconic Dishes by State: Which Region Offers the Best? - GigsFreaks'
+  og_description: >-
+    American cuisine reflects its diverse landscape, with each state offering
+    unique dishes that showcase cultural and historical influences. A recent
+    survey highlights the Southern states' comfort foods as some of the most
+    celebrated, emphasizing their impact on American food culture.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 35
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 20
-quality_note: "The article has a professional tone but falls short on word count, lacks entertainment focus for the target audience, and doesn't align with the site's specific topic categories like LOL, Funny Animals, or Internet Mysteries."
+quality_note: >-
+  The article has a professional tone but falls short on word count, lacks
+  entertainment focus for the target audience, and doesn't align with the site's
+  specific topic categories like LOL, Funny Animals, or Internet Mysteries.
+image_alt: >-
+  Regional American dishes arranged on a warm editorial banquet table with
+  Southern comfort food at the center.
 ---
 
 American cuisine is as diverse as its landscape, with each region offering a distinct culinary identity. A recent survey sought to uncover which dishes best represent each U.S. state and to identify the region with the most celebrated food culture. From iconic Southern comfort food to the unique flavors of the Pacific Northwest, this exploration reveals a rich tapestry of tastes that define the American culinary experience.
