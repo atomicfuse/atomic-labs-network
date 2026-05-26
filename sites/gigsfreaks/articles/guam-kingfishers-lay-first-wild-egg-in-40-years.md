@@ -1,24 +1,31 @@
 ---
-title: "Guam Kingfishers Lay First Wild Egg in 40 Years"
-description: "The Guam kingfisher, once nearly extinct due to invasive brown tree snakes, has laid its first egg in the wild in over 40 years, marking a hopeful milestone in dedicated conservation and reintroduction efforts."
-type: "standard"
-status: "published"
-publishDate: "2025-05-05T16:17:06+00:00"
-author: "Nico Harper"
+title: Guam Kingfishers Lay First Wild Egg in 40 Years
+description: >-
+  The Guam kingfisher, once nearly extinct due to invasive brown tree snakes,
+  has laid its first egg in the wild in over 40 years, marking a hopeful
+  milestone in dedicated conservation and reintroduction efforts.
+type: standard
+status: published
+publishDate: '2025-05-05T16:17:06+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "guam-kingfishers-lay-first-wild-egg-in-40-years"
+  - Good Vibes
+slug: guam-kingfishers-lay-first-wild-egg-in-40-years
 reading_time: 3
-source_url: "https://gigsfreaks.com/guam-kingfishers-lay-first-wild-egg-in-40-years/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/guam-kingfishers-lay-first-wild-egg-in-40-years/'
+imported_from: wordpress
 wp_original_id: 893
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/guam-kingfishers-lay-first-wild-egg-in-40-years.webp
 seo:
-  canonical: "https://gigsfreaks.com/guam-kingfishers-lay-first-wild-egg-in-40-years/"
-  og_title: "Guam Kingfishers Lay First Wild Egg in 40 Years - GigsFreaks"
-  og_description: "The Guam kingfisher, once nearly extinct, has laid its first egg in the wild in over 40 years. This milestone marks a hopeful step in recovery efforts, achieved through dedicated conservation programs aimed at reintroducing the species into its natural habitat."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-103.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/guam-kingfishers-lay-first-wild-egg-in-40-years/'
+  og_title: Guam Kingfishers Lay First Wild Egg in 40 Years - GigsFreaks
+  og_description: >-
+    The Guam kingfisher, once nearly extinct, has laid its first egg in the wild
+    in over 40 years. This milestone marks a hopeful step in recovery efforts,
+    achieved through dedicated conservation programs aimed at reintroducing the
+    species into its natural habitat.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-103.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +33,11 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written conservation article with good structure and factual content, but lacks the entertaining tone and viral appeal expected for gigsfreaks' entertainment-focused audience."
+quality_note: >-
+  Well-written conservation article with good structure and factual content, but
+  lacks the entertaining tone and viral appeal expected for gigsfreaks'
+  entertainment-focused audience.
+image_alt: A Guam kingfisher perches near a forest nest cavity in warm morning light.
 ---
 
 The resurgence of the Guam kingfisher, a bird species once on the brink of extinction, has captured the attention of conservationists worldwide. This critically endangered bird, known for its vibrant plumage, has laid its first egg in the wild in over four decades. This significant event took place thousands of miles from its native habitat, marking a hopeful milestone in the species' recovery efforts.
