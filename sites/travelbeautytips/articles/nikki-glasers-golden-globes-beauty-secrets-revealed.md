@@ -1,30 +1,36 @@
 ---
-title: "Nikki Glaser’s Golden Globes Beauty Secrets Revealed"
-description: "Discover Nikki Glaser's beauty routine as she prepares to host the Golden Globes, featuring skincare favorites and makeup tips."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T09:39:26+00:00"
-author: "Taylor Winters"
+title: Nikki Glaser’s Golden Globes Beauty Secrets Revealed
+description: >-
+  Discover Nikki Glaser's beauty routine as she prepares to host the Golden
+  Globes, featuring skincare favorites and makeup tips.
+type: standard
+status: review
+publishDate: '2026-01-12T09:39:26+00:00'
+author: Taylor Winters
 tags:
-  - "Travel Tips"
-  - "Beauty"
-  - "Makeup Hacks"
-  - "Makeup Tutorial"
-slug: "nikki-glasers-golden-globes-beauty-secrets-revealed"
+  - Travel Tips
+  - Beauty
+  - Makeup Hacks
+  - Makeup Tutorial
+slug: nikki-glasers-golden-globes-beauty-secrets-revealed
 reading_time: 2
-source_url: "https://travelbeautytips.com/nikki-glasers-golden-globes-beauty-secrets-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/nikki-glasers-golden-globes-beauty-secrets-revealed/
+imported_from: wordpress
 wp_original_id: 36109
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/nikki-glasers-golden-globes-beauty-secrets-revealed.webp
 seo:
-  canonical: "https://travelbeautytips.com/nikki-glasers-golden-globes-beauty-secrets-revealed/"
-  og_title: "Nikki Glaser's Golden Globes Beauty Secrets Revealed - Travel Beauty Tips"
-  og_description: "Discover Nikki Glaser's beauty routine as she prepares to host the Golden Globes, featuring skincare favorites and makeup tips."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/nikki-glasers-golden-globes-beauty-secrets-revealed/
+  og_title: Nikki Glaser's Golden Globes Beauty Secrets Revealed - Travel Beauty Tips
+  og_description: >-
+    Discover Nikki Glaser's beauty routine as she prepares to host the Golden
+    Globes, featuring skincare favorites and makeup tips.
+  twitter_card: summary_large_image
 videos:
-  - id: "76eba084"
-    url: "https://www.youtube.com/watch?v=7v9Aa2okB9o"
-    position: "after-paragraph-2"
+  - id: 76eba084
+    url: 'https://www.youtube.com/watch?v=7v9Aa2okB9o'
+    position: after-paragraph-2
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -32,7 +38,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Article has good tone and product details but falls significantly short of the 800-1200 word target at only 400 words, limiting its SEO potential and depth."
+quality_note: >-
+  Article has good tone and product details but falls significantly short of the
+  800-1200 word target at only 400 words, limiting its SEO potential and depth.
+image_alt: >-
+  Glamorous awards-night vanity with skincare, makeup brushes, and warm golden
+  lights
 ---
 
 Comedian and Golden Globes host Nikki Glaser shares her beauty secrets in a detailed pre-show routine. Known for her wit and charm, Nikki takes us through her everyday skincare and makeup regimen, focusing on how she prepares for the prestigious Golden Globe Awards.
