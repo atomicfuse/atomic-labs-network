@@ -1,25 +1,36 @@
 ---
-title: "Everton vs Manchester City Live Stream TV Channel Start Time"
-description: "Everton host Manchester City at Goodison Park in a Premier League clash shaped by European ambitions, tactical questions, team news, and the emotion of Everton's final season at their historic home."
-type: "standard"
-status: "review"
-publishDate: "2026-05-04T08:34:37+00:00"
-author: "Taylor Winters"
+title: Everton vs Manchester City Live Stream TV Channel Start Time
+description: >-
+  Everton host Manchester City at Goodison Park in a Premier League clash shaped
+  by European ambitions, tactical questions, team news, and the emotion of
+  Everton's final season at their historic home.
+type: standard
+status: review
+publishDate: '2026-05-04T08:34:37+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Abdoulaye Doucouré"
-slug: "everton-vs-manchester-city-live-stream-tv-channel-start-time"
+  - Latest News
+  - Abdoulaye Doucouré
+slug: everton-vs-manchester-city-live-stream-tv-channel-start-time
 reading_time: 8
-source_url: "https://soccernewsreports.com/everton-vs-manchester-city-live-stream-tv-channel-start-time/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/everton-vs-manchester-city-live-stream-tv-channel-start-time/
+imported_from: wordpress
 wp_original_id: 38005
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/everton-vs-manchester-city-live-stream-tv-channel-start-time.webp
 seo:
-  canonical: "https://soccernewsreports.com/everton-vs-manchester-city-live-stream-tv-channel-start-time/"
-  og_title: "Everton vs Manchester City Live Stream TV Channel Start Time - Soccer News Reports"
-  og_description: "Everton host Manchester City at Goodison Park in a Premier League clash shaped by European ambitions, tactical questions, team news, and the emotion of Everton’s final season at their historic home."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/05/make_image.jpg.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/everton-vs-manchester-city-live-stream-tv-channel-start-time/
+  og_title: >-
+    Everton vs Manchester City Live Stream TV Channel Start Time - Soccer News
+    Reports
+  og_description: >-
+    Everton host Manchester City at Goodison Park in a Premier League clash
+    shaped by European ambitions, tactical questions, team news, and the emotion
+    of Everton’s final season at their historic home.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/05/make_image.jpg.jpg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 20
   keyword_relevance: 75
-quality_note: "Well-written article with appropriate tone and length, but contains significant factual errors including impossible future dates and incorrect managerial information that severely undermines credibility."
+quality_note: >-
+  Well-written article with appropriate tone and length, but contains
+  significant factual errors including impossible future dates and incorrect
+  managerial information that severely undermines credibility.
+image_alt: >-
+  Floodlit football stadium at dusk with blue-clad fans and players emerging
+  onto the pitch
 ---
 
 Everton welcome Manchester City to Goodison Park for a Premier League fixture loaded with storylines, from the hosts chasing a strong finish in their final season at the historic ground to City trying to protect their place in the race for European qualification. For viewers in the United States, the match offers another high-profile chance to watch Pep Guardiola's side against a disciplined Everton team that has become harder to beat under David Moyes.
