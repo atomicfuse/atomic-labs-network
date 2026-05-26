@@ -1,29 +1,41 @@
 ---
-title: "BBC Faces Criticism Over Glastonbury Controversy on This Morning"
-description: "A lively discussion unfolds on This Morning as Gyles Brandreth and Camilla Tominey tackle the BBC's response to controversial remarks at Glastonbury and new obesity strategies."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T04:39:25+00:00"
-author: "Taylor Winters"
+title: BBC Faces Criticism Over Glastonbury Controversy on This Morning
+description: >-
+  A lively discussion unfolds on This Morning as Gyles Brandreth and Camilla
+  Tominey tackle the BBC's response to controversial remarks at Glastonbury and
+  new obesity strategies.
+type: standard
+status: published
+publishDate: '2025-07-03T04:39:25+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-  - "Life &amp; Love"
-  - "Video"
-slug: "bbc-faces-criticism-over-glastonbury-controversy-on-this-morning"
+  - Culture
+  - Life &amp; Love
+  - Video
+slug: bbc-faces-criticism-over-glastonbury-controversy-on-this-morning
 reading_time: 2
-source_url: "https://fashionnewsbee.com/bbc-faces-criticism-over-glastonbury-controversy-on-this-morning/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/bbc-faces-criticism-over-glastonbury-controversy-on-this-morning/
+imported_from: wordpress
 wp_original_id: 31534
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/bbc-faces-criticism-over-glastonbury-controversy-on-this-morning.webp
 seo:
-  canonical: "https://fashionnewsbee.com/bbc-faces-criticism-over-glastonbury-controversy-on-this-morning/"
-  og_title: "BBC Faces Criticism Over Glastonbury Controversy on This Morning - Fashion News Bee"
-  og_description: "A lively discussion unfolds on This Morning as Gyles Brandreth and Camilla Tominey tackle the BBC's response to controversial remarks at Glastonbury and new obesity strategies."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/bbc-faces-criticism-over-glastonbury-controversy-on-this-morning/
+  og_title: >-
+    BBC Faces Criticism Over Glastonbury Controversy on This Morning - Fashion
+    News Bee
+  og_description: >-
+    A lively discussion unfolds on This Morning as Gyles Brandreth and Camilla
+    Tominey tackle the BBC's response to controversial remarks at Glastonbury
+    and new obesity strategies.
+  twitter_card: summary_large_image
 videos:
-  - id: "c1ec82db"
-    url: "https://www.youtube.com/watch?v=QQYE9AngHuc"
-    position: "after-paragraph-2"
+  - id: c1ec82db
+    url: 'https://www.youtube.com/watch?v=QQYE9AngHuc'
+    position: after-paragraph-2
+image_alt: Two presenters discuss a controversy on a modern television studio set
 ---
 
 The BBC has recently found itself at the center of a public controversy following a Glastonbury performance that sparked discussions across the nation. Appearing on This Morning, commentators Gyles Brandreth and Camilla Tominey dive into the issues that have Britain talking, focusing on the backlash faced by the BBC and political reactions to the event.
