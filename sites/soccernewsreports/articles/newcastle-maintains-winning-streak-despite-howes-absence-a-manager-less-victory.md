@@ -1,25 +1,43 @@
 ---
-title: "Newcastle Maintains Winning Streak Despite Howe’s Absence: A Manager-less Victory"
-description: "Despite the absence of their manager Eddie Howe, Newcastle United maintains their winning streak in football. The team's resilience, determination, and the significant role of the assistant coaches contribute to their success. The unity, dedication, and discipline displayed speak volumes about their character."
-type: "standard"
-status: "review"
-publishDate: "2025-04-17T06:31:45+00:00"
-author: "Taylor Winters"
+title: >-
+  Newcastle Maintains Winning Streak Despite Howe’s Absence: A Manager-less
+  Victory
+description: >-
+  Despite the absence of their manager Eddie Howe, Newcastle United maintains
+  their winning streak in football. The team's resilience, determination, and
+  the significant role of the assistant coaches contribute to their success. The
+  unity, dedication, and discipline displayed speak volumes about their
+  character.
+type: standard
+status: review
+publishDate: '2025-04-17T06:31:45+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "newcastle-maintains-winning-streak-despite-howes-absence-a-manager-less-victory"
+  - Latest News
+  - AFC Bournemouth
+slug: >-
+  newcastle-maintains-winning-streak-despite-howes-absence-a-manager-less-victory
 reading_time: 3
-source_url: "https://soccernewsreports.com/newcastle-maintains-winning-streak-despite-howes-absence-a-manager-less-victory/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/newcastle-maintains-winning-streak-despite-howes-absence-a-manager-less-victory/
+imported_from: wordpress
 wp_original_id: 37827
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/newcastle-maintains-winning-streak-despite-howes-absence-a-manager-less-victory.webp
 seo:
-  canonical: "https://soccernewsreports.com/newcastle-maintains-winning-streak-despite-howes-absence-a-manager-less-victory/"
-  og_title: "Newcastle Maintains Winning Streak Despite Howe's Absence: A Manager-less Victory - Soccer News Reports"
-  og_description: "Despite the absence of their manager Eddie Howe, Newcastle United maintains their winning streak in football. The team's resilience, determination, and the significant role of the assistant coaches contribute to their success. The unity, dedication, and discipline displayed speak volumes about their character."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/newcastle-maintains-winning-streak-despite-howes-absence-a-manager-less-victory/
+  og_title: >-
+    Newcastle Maintains Winning Streak Despite Howe's Absence: A Manager-less
+    Victory - Soccer News Reports
+  og_description: >-
+    Despite the absence of their manager Eddie Howe, Newcastle United maintains
+    their winning streak in football. The team's resilience, determination, and
+    the significant role of the assistant coaches contribute to their success.
+    The unity, dedication, and discipline displayed speak volumes about their
+    character.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 65
@@ -27,7 +45,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "The article maintains good tone and covers relevant topics but is significantly too short and contains vague, potentially fabricated claims without specific match details or verification."
+quality_note: >-
+  The article maintains good tone and covers relevant topics but is
+  significantly too short and contains vague, potentially fabricated claims
+  without specific match details or verification.
+image_alt: Football team celebrates near an empty manager’s seat under stadium lights
 ---
 
 In the realm of football, Newcastle United is maintaining their winning streak, undeterred by the absence of their manager, Eddie Howe. The team's resilience and determination are evident in their recent performance on the pitch.
