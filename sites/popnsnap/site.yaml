@@ -4,6 +4,7 @@ site_tagline: null
 author: Sam Gray
 groups:
   - outbrain-ads
+  - atl
 active: true
 bundle_id: 6a12d71616f23264031d7a49
 brief:
