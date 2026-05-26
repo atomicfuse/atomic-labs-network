@@ -1,24 +1,34 @@
 ---
-title: "John Dolmayan Reveals System Of A Down’s New Album Strategy"
-description: "System of a Down's drummer John Dolmayan hints at a potential breakthrough for a new album, sparking excitement among fans awaiting new material since 2005. Overcoming creative differences through collaboration may be the key to their return."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T12:34:55+00:00"
-author: "Priscilla Cruz"
+title: John Dolmayan Reveals System Of A Down’s New Album Strategy
+description: >-
+  System of a Down's drummer John Dolmayan hints at a potential breakthrough for
+  a new album, sparking excitement among fans awaiting new material since 2005.
+  Overcoming creative differences through collaboration may be the key to their
+  return.
+type: standard
+status: published
+publishDate: '2025-07-31T12:34:55+00:00'
+author: Priscilla Cruz
 tags:
-  - "Music"
-slug: "john-dolmayan-reveals-system-of-a-downs-new-album-strategy"
+  - Music
+slug: john-dolmayan-reveals-system-of-a-downs-new-album-strategy
 reading_time: 3
-source_url: "https://rumorumor.com/john-dolmayan-reveals-system-of-a-downs-new-album-strategy/"
-imported_from: "wordpress"
+source_url: >-
+  https://rumorumor.com/john-dolmayan-reveals-system-of-a-downs-new-album-strategy/
+imported_from: wordpress
 wp_original_id: 514
-featuredImage: "/assets/images/rumorumor-general-article.webp"
+featuredImage: /assets/images/john-dolmayan-reveals-system-of-a-downs-new-album-strategy.webp
 seo:
-  canonical: "https://rumorumor.com/john-dolmayan-reveals-system-of-a-downs-new-album-strategy/"
-  og_title: "John Dolmayan Reveals System Of A Down's New Album Strategy - Rumor Rumor"
-  og_description: "System of a Down's drummer John Dolmayan hints at a potential breakthrough for a new album, sparking excitement among fans awaiting new material since 2005. Overcoming creative differences through collaboration may be the key to their return."
-  og_image: "https://rumorumor.com/wp-content/uploads/2025/07/make_file-11.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://rumorumor.com/john-dolmayan-reveals-system-of-a-downs-new-album-strategy/
+  og_title: John Dolmayan Reveals System Of A Down's New Album Strategy - Rumor Rumor
+  og_description: >-
+    System of a Down's drummer John Dolmayan hints at a potential breakthrough
+    for a new album, sparking excitement among fans awaiting new material since
+    2005. Overcoming creative differences through collaboration may be the key
+    to their return.
+  og_image: 'https://rumorumor.com/wp-content/uploads/2025/07/make_file-11.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Good music content with engaging tone, but significantly under target word count at 528 words versus 800-1200 range."
+quality_note: >-
+  Good music content with engaging tone, but significantly under target word
+  count at 528 words versus 800-1200 range.
+image_alt: >-
+  Moody recording studio with a drum kit and musicians collaborating around a
+  glowing mixing console.
 ---
 
 System of a Down, the iconic band known for its unique blend of metal and alternative rock, has kept fans eagerly awaiting new material for years. Recently, drummer John Dolmayan hinted at a potential breakthrough for a new album, sparking excitement within the fanbase. The band's last full-length album was released in 2005, and since then, fans have been yearning for a new project that captures the band's dynamic sound and political edge.
