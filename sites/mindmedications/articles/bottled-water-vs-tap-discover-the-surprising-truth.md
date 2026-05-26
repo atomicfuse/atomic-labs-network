@@ -1,24 +1,36 @@
 ---
-title: "Bottled Water vs Tap: Discover the Surprising Truth"
-description: "Plastic water bottles offer convenience but pose health and environmental risks due to microplastics and pollution. Research highlights microplastics in bottled water, raising concerns about potential health effects. Sustainable alternatives like reusable bottles and filtration systems can help reduce plastic waste."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T10:29:25+00:00"
-author: "Lena Ashwood"
+title: 'Bottled Water vs Tap: Discover the Surprising Truth'
+description: >-
+  Plastic water bottles offer convenience but pose health and environmental
+  risks due to microplastics and pollution. Research highlights microplastics in
+  bottled water, raising concerns about potential health effects. Sustainable
+  alternatives like reusable bottles and filtration systems can help reduce
+  plastic waste.
+type: standard
+status: published
+publishDate: '2026-01-26T10:29:25+00:00'
+author: Lena Ashwood
 tags:
-  - "Wellness"
-slug: "bottled-water-vs-tap-discover-the-surprising-truth"
+  - Wellness
+slug: bottled-water-vs-tap-discover-the-surprising-truth
 reading_time: 3
-source_url: "https://mindmedications.com/bottled-water-vs-tap-discover-the-surprising-truth/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/bottled-water-vs-tap-discover-the-surprising-truth/
+imported_from: wordpress
 wp_original_id: 613
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: /assets/images/bottled-water-vs-tap-discover-the-surprising-truth.webp
 seo:
-  canonical: "https://mindmedications.com/bottled-water-vs-tap-discover-the-surprising-truth/"
-  og_title: "Bottled Water vs Tap: Discover the Surprising Truth - Mind Medications"
-  og_description: "Plastic water bottles offer convenience but pose health and environmental risks due to microplastics and pollution. Research highlights microplastics in bottled water, raising concerns about potential health effects. Sustainable alternatives like reusable bottles and filtration systems can help reduce plastic waste."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/bottled-water-vs-tap-discover-the-surprising-truth/
+  og_title: 'Bottled Water vs Tap: Discover the Surprising Truth - Mind Medications'
+  og_description: >-
+    Plastic water bottles offer convenience but pose health and environmental
+    risks due to microplastics and pollution. Research highlights microplastics
+    in bottled water, raising concerns about potential health effects.
+    Sustainable alternatives like reusable bottles and filtration systems can
+    help reduce plastic waste.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written wellness article with good tone and accuracy, but falls short on length (494 words vs 800-1200 target) which significantly impacts overall value."
+quality_note: >-
+  Well-written wellness article with good tone and accuracy, but falls short on
+  length (494 words vs 800-1200 target) which significantly impacts overall
+  value.
+image_alt: >-
+  Reusable glass bottle filled at a sunlit kitchen faucet beside a discarded
+  plastic bottle.
 ---
 
 Plastic water bottles have become a staple in modern life, offering convenience and portability for our hydration needs. However, recent studies have raised concerns about the presence of microplastics in these bottles and their potential impact on human health. As the world becomes more aware of environmental issues, it's important to understand the implications of our reliance on plastic water bottles and explore sustainable alternatives.
