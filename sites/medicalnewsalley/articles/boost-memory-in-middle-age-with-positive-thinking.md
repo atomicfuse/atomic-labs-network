@@ -1,26 +1,36 @@
 ---
-title: "Boost Memory in Middle Age with Positive Thinking"
-description: "Staying positive can significantly impact cognitive health as you age, potentially reducing memory decline and fostering brain health. A study shows that optimism and positive affirmations correlate with better memory performance, highlighting the importance of a positive mindset."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:15:30+00:00"
-author: "Taylor Winters"
+title: Boost Memory in Middle Age with Positive Thinking
+description: >-
+  Staying positive can significantly impact cognitive health as you age,
+  potentially reducing memory decline and fostering brain health. A study shows
+  that optimism and positive affirmations correlate with better memory
+  performance, highlighting the importance of a positive mindset.
+type: standard
+status: review
+publishDate: '2025-06-19T04:15:30+00:00'
+author: Taylor Winters
 tags:
-  - "Aging"
-  - "Clinical Trials &amp; Research"
-  - "Mental Health"
-slug: "boost-memory-in-middle-age-with-positive-thinking"
+  - Aging
+  - Clinical Trials &amp; Research
+  - Mental Health
+slug: boost-memory-in-middle-age-with-positive-thinking
 reading_time: 3
-source_url: "https://medicalnewsalley.com/boost-memory-in-middle-age-with-positive-thinking/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewsalley.com/boost-memory-in-middle-age-with-positive-thinking/
+imported_from: wordpress
 wp_original_id: 32457
-featuredImage: "/assets/images/medicalnewsalley-general-article.webp"
+featuredImage: /assets/images/boost-memory-in-middle-age-with-positive-thinking.webp
 seo:
-  canonical: "https://medicalnewsalley.com/boost-memory-in-middle-age-with-positive-thinking/"
-  og_title: "Boost Memory in Middle Age with Positive Thinking - Medical News Alley"
-  og_description: "Staying positive can significantly impact cognitive health as you age, potentially reducing memory decline and fostering brain health. A study shows that optimism and positive affirmations correlate with better memory performance, highlighting the importance of a positive mindset."
-  og_image: "https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewsalley.com/boost-memory-in-middle-age-with-positive-thinking/
+  og_title: Boost Memory in Middle Age with Positive Thinking - Medical News Alley
+  og_description: >-
+    Staying positive can significantly impact cognitive health as you age,
+    potentially reducing memory decline and fostering brain health. A study
+    shows that optimism and positive affirmations correlate with better memory
+    performance, highlighting the importance of a positive mindset.
+  og_image: 'https://medicalnewsalley.com/wp-content/uploads/2025/06/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and keyword relevance, but significantly under target word count and lacks specific study details that would strengthen credibility."
+quality_note: >-
+  Well-written article with excellent tone and keyword relevance, but
+  significantly under target word count and lacks specific study details that
+  would strengthen credibility.
+image_alt: >-
+  Middle-aged adult in warm sunlight arranging keepsakes with a calm, optimistic
+  expression.
 ---
 
 Staying positive can have a significant impact on your cognitive health as you age. A recent study highlights how maintaining an optimistic outlook can potentially reduce the risk of memory decline and foster overall brain health.
