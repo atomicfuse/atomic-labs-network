@@ -1,29 +1,38 @@
 ---
-title: "Increasing Car Thefts at LAX: How Thieves Are Targeting High-End Trucks"
-description: "Car thieves are exploiting vulnerabilities in new vehicles at LAX parking lots. Learn how to protect your vehicle."
-type: "standard"
-status: "review"
-publishDate: "2025-11-24T09:21:33+00:00"
-author: "Taylor Winters"
+title: 'Increasing Car Thefts at LAX: How Thieves Are Targeting High-End Trucks'
+description: >-
+  Car thieves are exploiting vulnerabilities in new vehicles at LAX parking
+  lots. Learn how to protect your vehicle.
+type: standard
+status: review
+publishDate: '2025-11-24T09:21:33+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Industry"
-  - "News"
-slug: "increasing-car-thefts-at-lax-how-thieves-are-targeting-high-end-trucks"
+  - Advice
+  - Industry
+  - News
+slug: increasing-car-thefts-at-lax-how-thieves-are-targeting-high-end-trucks
 reading_time: 2
-source_url: "https://carsnewsmag.com/increasing-car-thefts-at-lax-how-thieves-are-targeting-high-end-trucks/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/increasing-car-thefts-at-lax-how-thieves-are-targeting-high-end-trucks/
+imported_from: wordpress
 wp_original_id: 38522
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/increasing-car-thefts-at-lax-how-thieves-are-targeting-high-end-trucks.webp
 seo:
-  canonical: "https://carsnewsmag.com/increasing-car-thefts-at-lax-how-thieves-are-targeting-high-end-trucks/"
-  og_title: "Increasing Car Thefts at LAX: How Thieves Are Targeting High-End Trucks - Cars News Magazine"
-  og_description: "Car thieves are exploiting vulnerabilities in new vehicles at LAX parking lots. Learn how to protect your vehicle."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/increasing-car-thefts-at-lax-how-thieves-are-targeting-high-end-trucks/
+  og_title: >-
+    Increasing Car Thefts at LAX: How Thieves Are Targeting High-End Trucks -
+    Cars News Magazine
+  og_description: >-
+    Car thieves are exploiting vulnerabilities in new vehicles at LAX parking
+    lots. Learn how to protect your vehicle.
+  twitter_card: summary_large_image
 videos:
-  - id: "91aded0a"
-    url: "https://www.youtube.com/watch?v=hph6jbNzVyc"
-    position: "after-paragraph-2"
+  - id: 91aded0a
+    url: 'https://www.youtube.com/watch?v=hph6jbNzVyc'
+    position: after-paragraph-2
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -31,7 +40,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article addresses a relevant automotive security issue with appropriate tone, but falls significantly short of the target word count and lacks specific automotive industry depth."
+quality_note: >-
+  The article addresses a relevant automotive security issue with appropriate
+  tone, but falls significantly short of the target word count and lacks
+  specific automotive industry depth.
+image_alt: High-end pickup truck parked in a shadowy airport garage at dusk
 ---
 
 With rising incidents of car theft at Los Angeles International Airport (LAX), vehicle owners are becoming increasingly concerned about the security of their high-end trucks. The trend has shown a particular focus on new, high-end trucks being left unattended in the airport's parking lots. Understanding how these thefts occur and what can be done to prevent them is crucial for anyone planning to leave their vehicle at LAX.
