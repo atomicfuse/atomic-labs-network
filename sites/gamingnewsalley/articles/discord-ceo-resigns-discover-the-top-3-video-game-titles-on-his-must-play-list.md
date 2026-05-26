@@ -1,25 +1,40 @@
 ---
-title: "Discord CEO Resigns: Discover the Top 3 Video Game Titles on His Must-Play List"
-description: "Discord's founder and CEO Jason Citron is stepping down from his executive role as the company enters a new growth phase, though he will remain on the board to contribute his insights and experience to the company's future direction."
-type: "standard"
-status: "review"
-publishDate: "2025-04-24T06:16:43+00:00"
-author: "Taylor Winters"
+title: >-
+  Discord CEO Resigns: Discover the Top 3 Video Game Titles on His Must-Play
+  List
+description: >-
+  Discord's founder and CEO Jason Citron is stepping down from his executive
+  role as the company enters a new growth phase, though he will remain on the
+  board to contribute his insights and experience to the company's future
+  direction.
+type: standard
+status: review
+publishDate: '2025-04-24T06:16:43+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community Playdate"
-slug: "discord-ceo-resigns-discover-the-top-3-video-game-titles-on-his-must-play-list"
+  - Gaming News
+  - Community Playdate
+slug: discord-ceo-resigns-discover-the-top-3-video-game-titles-on-his-must-play-list
 reading_time: 3
-source_url: "https://gamingnewsalley.com/discord-ceo-resigns-discover-the-top-3-video-game-titles-on-his-must-play-list/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/discord-ceo-resigns-discover-the-top-3-video-game-titles-on-his-must-play-list/
+imported_from: wordpress
 wp_original_id: 42456
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/discord-ceo-resigns-discover-the-top-3-video-game-titles-on-his-must-play-list.webp
 seo:
-  canonical: "https://gamingnewsalley.com/discord-ceo-resigns-discover-the-top-3-video-game-titles-on-his-must-play-list/"
-  og_title: "Discord CEO Resigns: Discover the Top 3 Video Game Titles on His Must-Play List - Gaming News Alley"
-  og_description: "Discord's founder and CEO, Jason Citron, is stepping down from his executive role as the company enters a new growth phase. Despite the shift, Citron will remain on Discord's board, contributing his insights and experience to the company's future direction."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/discord-ceo-resigns-discover-the-top-3-video-game-titles-on-his-must-play-list/
+  og_title: >-
+    Discord CEO Resigns: Discover the Top 3 Video Game Titles on His Must-Play
+    List - Gaming News Alley
+  og_description: >-
+    Discord's founder and CEO, Jason Citron, is stepping down from his executive
+    role as the company enters a new growth phase. Despite the shift, Citron
+    will remain on Discord's board, contributing his insights and experience to
+    the company's future direction.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 36
 score_breakdown:
   seo_quality: 25
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 15
   keyword_relevance: 30
-quality_note: "The article contains significant factual inaccuracies (Jason Citron never resigned as CEO), lacks gaming focus despite the clickbait title, and is too short for the target length."
+quality_note: >-
+  The article contains significant factual inaccuracies (Jason Citron never
+  resigned as CEO), lacks gaming focus despite the clickbait title, and is too
+  short for the target length.
+image_alt: >-
+  Empty gaming desk with headset, controller, and three glowing game worlds on
+  unbranded monitors
 ---
 
 In a surprising turn of events, Jason Citron, the founder and CEO of Discord, has decided to step away from his chief executive position. This major shift in the tech world comes as the company enters a new phase of growth and development.
