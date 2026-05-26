@@ -1,25 +1,41 @@
 ---
-title: "Discover the Top 8 Trending Tank Tops on Myntra: Elevate Your Summer Style Now!"
-description: "Revamp your summer wardrobe with trendy tank tops from Myntra, a fashion staple that blends effortlessly with any outfit. This article provides a curated list of eight stylish tank tops, ranging from high neck to ribbed styles, to enhance your summer style quotient."
-type: "standard"
-status: "published"
-publishDate: "2025-04-28T12:03:16+00:00"
-author: "Taylor Winters"
+title: >-
+  Discover the Top 8 Trending Tank Tops on Myntra: Elevate Your Summer Style
+  Now!
+description: >-
+  Revamp your summer wardrobe with trendy tank tops from Myntra, a fashion
+  staple that blends effortlessly with any outfit. This article provides a
+  curated list of eight stylish tank tops, ranging from high neck to ribbed
+  styles, to enhance your summer style quotient.
+type: standard
+status: published
+publishDate: '2025-04-28T12:03:16+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-  - "Fitness"
-slug: "discover-the-top-8-trending-tank-tops-on-myntra-elevate-your-summer-style-now"
+  - Fashion
+  - Fitness
+slug: discover-the-top-8-trending-tank-tops-on-myntra-elevate-your-summer-style-now
 reading_time: 2
-source_url: "https://fashionnewsbee.com/discover-the-top-8-trending-tank-tops-on-myntra-elevate-your-summer-style-now/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/discover-the-top-8-trending-tank-tops-on-myntra-elevate-your-summer-style-now/
+imported_from: wordpress
 wp_original_id: 31504
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-top-8-trending-tank-tops-on-myntra-elevate-your-summer-style-now.webp
 seo:
-  canonical: "https://fashionnewsbee.com/discover-the-top-8-trending-tank-tops-on-myntra-elevate-your-summer-style-now/"
-  og_title: "Discover the Top 8 Trending Tank Tops on Myntra: Elevate Your Summer Style Now! - Fashion News Bee"
-  og_description: "Revamp your summer wardrobe with trendy tank tops from Myntra, a fashion staple that blends effortlessly with any outfit. This article provides a curated list of eight stylish tank tops, ranging from high neck to ribbed styles, to enhance your summer style quotient."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/discover-the-top-8-trending-tank-tops-on-myntra-elevate-your-summer-style-now/
+  og_title: >-
+    Discover the Top 8 Trending Tank Tops on Myntra: Elevate Your Summer Style
+    Now! - Fashion News Bee
+  og_description: >-
+    Revamp your summer wardrobe with trendy tank tops from Myntra, a fashion
+    staple that blends effortlessly with any outfit. This article provides a
+    curated list of eight stylish tank tops, ranging from high neck to ribbed
+    styles, to enhance your summer style quotient.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-7.jpeg'
+  twitter_card: summary_large_image
+image_alt: Stylish summer outfit with a ribbed tank top on a sunlit terrace
 ---
 
 As the mercury rises, it's time to revamp your wardrobe with the trendiest summer essentials. Tank tops, an undisputed summer staple, are making a splash in the fashion world, especially on Myntra. Here's a curated list of the eight most stylish tank tops you can shop for on Myntra to dazzle this summer.
