@@ -1,25 +1,37 @@
 ---
-title: "Oncologist Reveals Science Behind Cancer and Supplements"
-description: "Exploring proactive health measures is crucial, with dietary supplements often promising benefits like reduced cancer risk. However, understanding their effectiveness requires scientific research, and while some studies suggest benefits, evidence remains inconsistent, with experts recommending a balanced diet for optimal health."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T11:31:00+00:00"
-author: "Lena Ashwood"
+title: Oncologist Reveals Science Behind Cancer and Supplements
+description: >-
+  Exploring proactive health measures is crucial, with dietary supplements often
+  promising benefits like reduced cancer risk. However, understanding their
+  effectiveness requires scientific research, and while some studies suggest
+  benefits, evidence remains inconsistent, with experts recommending a balanced
+  diet for optimal health.
+type: standard
+status: review
+publishDate: '2026-02-02T11:31:00+00:00'
+author: Lena Ashwood
 tags:
-  - "Nutrition"
-  - "Wellness"
-slug: "oncologist-reveals-science-behind-cancer-and-supplements"
+  - Nutrition
+  - Wellness
+slug: oncologist-reveals-science-behind-cancer-and-supplements
 reading_time: 3
-source_url: "https://mindmedications.com/oncologist-reveals-science-behind-cancer-and-supplements/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/oncologist-reveals-science-behind-cancer-and-supplements/
+imported_from: wordpress
 wp_original_id: 617
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: /assets/images/oncologist-reveals-science-behind-cancer-and-supplements.webp
 seo:
-  canonical: "https://mindmedications.com/oncologist-reveals-science-behind-cancer-and-supplements/"
-  og_title: "Oncologist Reveals Science Behind Cancer and Supplements - Mind Medications"
-  og_description: "Exploring proactive health measures is crucial, with dietary supplements often promising benefits like reduced cancer risk. However, understanding their effectiveness requires scientific research. While some studies suggest benefits, evidence is inconsistent, and experts recommend a balanced diet for optimal health."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/oncologist-reveals-science-behind-cancer-and-supplements/
+  og_title: Oncologist Reveals Science Behind Cancer and Supplements - Mind Medications
+  og_description: >-
+    Exploring proactive health measures is crucial, with dietary supplements
+    often promising benefits like reduced cancer risk. However, understanding
+    their effectiveness requires scientific research. While some studies suggest
+    benefits, evidence is inconsistent, and experts recommend a balanced diet
+    for optimal health.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under the target word count at 411 words when 800-1200 is expected."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under the
+  target word count at 411 words when 800-1200 is expected.
+image_alt: >-
+  Whole foods, supplements, and lab tools arranged on a softly lit health
+  consultation table.
 ---
 
 Exploring proactive health measures is crucial in today's wellness-focused society. Among these measures, dietary supplements often promise various health benefits, including the potential to reduce cancer risk. However, understanding their actual effectiveness requires a deep dive into scientific research and expert opinions.
