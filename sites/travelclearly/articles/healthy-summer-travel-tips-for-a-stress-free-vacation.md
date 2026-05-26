@@ -1,26 +1,35 @@
 ---
-title: "Healthy Summer Travel Tips for a Stress-Free Vacation"
-description: "Summer travel can be delightful with proper planning. Stay hydrated, protect your skin, stay active, practice safe eating, manage stress, and stay informed about local health guidelines to ensure a healthy and memorable trip."
-type: "standard"
-status: "published"
-publishDate: "2025-06-26T04:09:24+00:00"
-author: "Taylor Winters"
+title: Healthy Summer Travel Tips for a Stress-Free Vacation
+description: >-
+  Summer travel can be delightful with proper planning. Stay hydrated, protect
+  your skin, stay active, practice safe eating, manage stress, and stay informed
+  about local health guidelines to ensure a healthy and memorable trip.
+type: standard
+status: published
+publishDate: '2025-06-26T04:09:24+00:00'
+author: Taylor Winters
 tags:
-  - "Lifestyle"
-  - "Tips"
-  - "Travel"
-slug: "healthy-summer-travel-tips-for-a-stress-free-vacation"
+  - Lifestyle
+  - Tips
+  - Travel
+slug: healthy-summer-travel-tips-for-a-stress-free-vacation
 reading_time: 3
-source_url: "https://travelclearly.com/healthy-summer-travel-tips-for-a-stress-free-vacation/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/healthy-summer-travel-tips-for-a-stress-free-vacation/
+imported_from: wordpress
 wp_original_id: 36515
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/healthy-summer-travel-tips-for-a-stress-free-vacation.webp
 seo:
-  canonical: "https://travelclearly.com/healthy-summer-travel-tips-for-a-stress-free-vacation/"
-  og_title: "Healthy Summer Travel Tips for a Stress-Free Vacation - Travel Clearly"
-  og_description: "Summer travel can be delightful with proper planning. Stay hydrated, protect your skin, stay active, practice safe eating, manage stress, and stay informed about local health guidelines to ensure a healthy and memorable trip."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/06/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/healthy-summer-travel-tips-for-a-stress-free-vacation/
+  og_title: Healthy Summer Travel Tips for a Stress-Free Vacation - Travel Clearly
+  og_description: >-
+    Summer travel can be delightful with proper planning. Stay hydrated, protect
+    your skin, stay active, practice safe eating, manage stress, and stay
+    informed about local health guidelines to ensure a healthy and memorable
+    trip.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2025/06/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -28,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel health advice with good tone and accuracy, but significantly under the target word count which limits its SEO potential and comprehensive coverage."
+quality_note: >-
+  Well-written travel health advice with good tone and accuracy, but
+  significantly under the target word count which limits its SEO potential and
+  comprehensive coverage.
+image_alt: >-
+  Sunlit travel wellness essentials on a balcony overlooking a calm summer
+  coastline
 ---
 
 Summer is the perfect time to explore new destinations and create lasting memories. However, maintaining your health while traveling during the warmer months requires some planning. By following a few simple guidelines, you can ensure a safe and enjoyable summer getaway.
