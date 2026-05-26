@@ -1,26 +1,39 @@
 ---
-title: "Discover the Best Global Destinations for Eco-Friendly Travel"
-description: "The article discusses the importance of eco-friendly travel and highlights top green travel spots globally, including Costa Rica, Palm Island in the Grenadines, Kenya, the Galapagos Islands, and Amsterdam, all of which emphasize environmental conservation and sustainable tourism practices."
-type: "standard"
-status: "published"
-publishDate: "2025-04-01T08:46:45+00:00"
-author: "Taylor Winters"
+title: Discover the Best Global Destinations for Eco-Friendly Travel
+description: >-
+  The article discusses the importance of eco-friendly travel and highlights top
+  green travel spots globally, including Costa Rica, Palm Island in the
+  Grenadines, Kenya, the Galapagos Islands, and Amsterdam, all of which
+  emphasize environmental conservation and sustainable tourism practices.
+type: standard
+status: published
+publishDate: '2025-04-01T08:46:45+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Features"
-  - "Travel"
-slug: "discover-the-best-global-destinations-for-eco-friendly-travel"
+  - Destinations
+  - Features
+  - Travel
+slug: discover-the-best-global-destinations-for-eco-friendly-travel
 reading_time: 2
-source_url: "https://journeypeaks.com/discover-the-best-global-destinations-for-eco-friendly-travel/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/discover-the-best-global-destinations-for-eco-friendly-travel/
+imported_from: wordpress
 wp_original_id: 38612
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-best-global-destinations-for-eco-friendly-travel.webp
 seo:
-  canonical: "https://journeypeaks.com/discover-the-best-global-destinations-for-eco-friendly-travel/"
-  og_title: "Discover the Best Global Destinations for Eco-Friendly Travel - Journey Peaks"
-  og_description: "The article discusses the importance of eco-friendly travel and highlights top green travel spots globally, including Costa Rica, Palm Island in the Grenadines, Kenya, the Galapagos Islands, and Amsterdam. These destinations emphasize environmental conservation and sustainable tourism practices."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/discover-the-best-global-destinations-for-eco-friendly-travel/
+  og_title: >-
+    Discover the Best Global Destinations for Eco-Friendly Travel - Journey
+    Peaks
+  og_description: >-
+    The article discusses the importance of eco-friendly travel and highlights
+    top green travel spots globally, including Costa Rica, Palm Island in the
+    Grenadines, Kenya, the Galapagos Islands, and Amsterdam. These destinations
+    emphasize environmental conservation and sustainable tourism practices.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,10 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent topic relevance and tone, but significantly too short at 389 words when 800-1200 words are expected."
+quality_note: >-
+  Well-written article with excellent topic relevance and tone, but
+  significantly too short at 389 words when 800-1200 words are expected.
+image_alt: Travelers overlook a lush eco-friendly coastal landscape at sunrise.
 ---
 
 Traveling in an eco-friendly way has never been more vital. As the planet grapples with climate change and environmental degradation, a growing number of adventurers are turning to sustainable travel destinations. Let's explore some of the world's top green travel spots that are doing their part to protect our precious planet.
