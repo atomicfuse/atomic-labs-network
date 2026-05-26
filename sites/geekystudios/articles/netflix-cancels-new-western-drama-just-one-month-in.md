@@ -1,47 +1,32 @@
 ---
-title: Netflix Cancels New Western Drama Just One Month In
-description: >-
-  Netflix frequently cancels shows based on viewership and costs, sparking fan
-  reactions. Its strategy includes diversifying genres and investing in
-  international productions to cater to a global audience and maintain its
-  competitive edge.
-type: standard
-status: review
-publishDate: '2026-01-22T10:27:27+00:00'
-author: Arthur Daly
+title: "Netflix Cancels New Western Drama Just One Month In"
+description: "Netflix frequently cancels shows based on viewership and costs, sparking fan reactions. Its strategy includes diversifying genres and investing in international productions to cater to a global audience and maintain its competitive edge."
+type: "standard"
+status: "review"
+publishDate: "2026-01-22T10:27:27+00:00"
+author: "Arthur Daly"
 tags:
-  - Pop Culture
-slug: netflix-cancels-new-western-drama-just-one-month-in
+  - "Pop Culture"
+slug: "netflix-cancels-new-western-drama-just-one-month-in"
 reading_time: 3
-source_url: 'https://geekystudios.com/netflix-cancels-new-western-drama-just-one-month-in/'
-imported_from: wordpress
+source_url: "https://geekystudios.com/netflix-cancels-new-western-drama-just-one-month-in/"
+imported_from: "wordpress"
 wp_original_id: 692
-featuredImage: /assets/images/netflix-cancels-new-western-drama-just-one-month-in.webp
+featuredImage: "/assets/images/geekystudios-general-article.webp"
 seo:
-  canonical: >-
-    https://geekystudios.com/netflix-cancels-new-western-drama-just-one-month-in/
-  og_title: Netflix Cancels New Western Drama Just One Month In - Geeky Studios
-  og_description: >-
-    Netflix frequently cancels shows based on viewership and costs, sparking fan
-    reactions. Its strategy includes diversifying genres and investing in
-    international productions to cater to a global audience and maintain its
-    competitive edge.
-  og_image: 'https://geekystudios.com/wp-content/uploads/2026/01/make_file-3.jpeg'
-  twitter_card: summary_large_image
-quality_score: 70
+  canonical: "https://geekystudios.com/netflix-cancels-new-western-drama-just-one-month-in/"
+  og_title: "Netflix Cancels New Western Drama Just One Month In - Geeky Studios"
+  og_description: "Netflix frequently cancels shows based on viewership and costs, sparking fan reactions. Its strategy includes diversifying genres and investing in international productions to cater to a global audience and maintain its competitive edge."
+  og_image: "https://geekystudios.com/wp-content/uploads/2026/01/make_file-3.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 69
 score_breakdown:
   seo_quality: 65
   tone_match: 75
-  content_length: 45
+  content_length: 40
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: >-
-  The article matches the pop culture focus and tone well, but falls
-  significantly short of the 800-1200 word target at only 499 words, and the
-  title doesn't match the generic content about Netflix cancellations.
-image_alt: >-
-  Empty Western film set at dusk with a director’s chair and red monitor glow in
-  dusty air.
+quality_note: "The article is well-written and engaging but falls significantly short of the target word count at only 499 words, which heavily impacts its overall quality score."
 ---
 
 Netflix has been a powerhouse in the streaming world, known for its vast library of content and original series that captivate global audiences. However, not every show finds its forever home on the platform. In recent times, Netflix has made headlines by canceling several of its original series, sparking discussions about its strategy and the future of streaming content.

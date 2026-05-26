@@ -1,37 +1,24 @@
 ---
-title: Game of Thrones Easter Eggs in A Knight of the Seven Kingdoms
-description: >-
-  Exploring the rich tapestry of the "Game of Thrones" universe, "A Knight of
-  the Seven Kingdoms" introduces new storylines while weaving in Easter eggs
-  that honor its predecessor, offering both continuity and fresh narratives for
-  fans and newcomers alike.
-type: standard
-status: published
-publishDate: '2026-01-19T10:19:32+00:00'
-author: Arthur Daly
+title: "Game of Thrones Easter Eggs in A Knight of the Seven Kingdoms"
+description: "Exploring the rich tapestry of the \"Game of Thrones\" universe, \"A Knight of the Seven Kingdoms\" introduces new storylines while weaving in Easter eggs that honor its predecessor, offering both continuity and fresh narratives for fans and newcomers alike."
+type: "standard"
+status: "published"
+publishDate: "2026-01-19T10:19:32+00:00"
+author: "Arthur Daly"
 tags:
-  - Pop Culture
-slug: game-of-thrones-easter-eggs-in-a-knight-of-the-seven-kingdoms
+  - "Pop Culture"
+slug: "game-of-thrones-easter-eggs-in-a-knight-of-the-seven-kingdoms"
 reading_time: 4
-source_url: >-
-  https://geekystudios.com/game-of-thrones-easter-eggs-in-a-knight-of-the-seven-kingdoms/
-imported_from: wordpress
+source_url: "https://geekystudios.com/game-of-thrones-easter-eggs-in-a-knight-of-the-seven-kingdoms/"
+imported_from: "wordpress"
 wp_original_id: 690
-featuredImage: >-
-  /assets/images/game-of-thrones-easter-eggs-in-a-knight-of-the-seven-kingdoms.webp
+featuredImage: "/assets/images/geekystudios-general-article.webp"
 seo:
-  canonical: >-
-    https://geekystudios.com/game-of-thrones-easter-eggs-in-a-knight-of-the-seven-kingdoms/
-  og_title: >-
-    Game of Thrones Easter Eggs in A Knight of the Seven Kingdoms - Geeky
-    Studios
-  og_description: >-
-    Exploring the rich tapestry of the "Game of Thrones" universe, "A Knight of
-    the Seven Kingdoms" introduces new storylines while weaving in Easter eggs
-    that honor its predecessor, offering both continuity and fresh narratives
-    for fans and newcomers alike.
-  og_image: 'https://geekystudios.com/wp-content/uploads/2026/01/make_file-2.jpeg'
-  twitter_card: summary_large_image
+  canonical: "https://geekystudios.com/game-of-thrones-easter-eggs-in-a-knight-of-the-seven-kingdoms/"
+  og_title: "Game of Thrones Easter Eggs in A Knight of the Seven Kingdoms - Geeky Studios"
+  og_description: "Exploring the rich tapestry of the \"Game of Thrones\" universe, \"A Knight of the Seven Kingdoms\" introduces new storylines while weaving in Easter eggs that honor its predecessor, offering both continuity and fresh narratives for fans and newcomers alike."
+  og_image: "https://geekystudios.com/wp-content/uploads/2026/01/make_file-2.jpeg"
+  twitter_card: "summary_large_image"
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -39,13 +26,7 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: >-
-  Well-written pop culture content with good tone and keyword relevance, but
-  falls short on length and has some accuracy concerns about the show's actual
-  details.
-image_alt: >-
-  Candlelit medieval archive with a knight helm, tapestry, and hidden fantasy
-  clues.
+quality_note: "Strong pop culture focus with engaging tone, but the article appears to discuss a fictional show that doesn't exist, and falls short of the target word count."
 ---
 
 Exploring the rich tapestry of the "Game of Thrones" universe is always a thrilling experience for fans, especially when new series expand on the intricate lore. "A Knight of the Seven Kingdoms," the first episode of the latest show, is no exception. This episode not only introduces fresh storylines but also weaves in delightful Easter eggs that pay homage to its predecessor. Let's dive into these fascinating nods and references that enrich the viewing experience.

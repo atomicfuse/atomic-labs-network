@@ -1,46 +1,32 @@
 ---
-title: Top 15 Stephen King Adaptations to Stream Now
-description: >-
-  Stephen King's stories have inspired countless film adaptations, with classics
-  like "The Shawshank Redemption," "Misery," and "The Shining" standing out for
-  their faithful representation and exceptional storytelling. Recent hits like
-  "It" and "Gerald's Game" continue to captivate audiences.
-type: standard
-status: published
-publishDate: '2025-12-29T10:43:27+00:00'
-author: Arthur Daly
+title: "Top 15 Stephen King Adaptations to Stream Now"
+description: "Stephen King's stories have inspired countless film adaptations, with classics like \"The Shawshank Redemption,\" \"Misery,\" and \"The Shining\" standing out for their faithful representation and exceptional storytelling. Recent hits like \"It\" and \"Gerald's Game\" continue to captivate audiences."
+type: "standard"
+status: "published"
+publishDate: "2025-12-29T10:43:27+00:00"
+author: "Arthur Daly"
 tags:
-  - Pop Culture
-slug: top-15-stephen-king-adaptations-to-stream-now
+  - "Pop Culture"
+slug: "top-15-stephen-king-adaptations-to-stream-now"
 reading_time: 4
-source_url: 'https://geekystudios.com/top-15-stephen-king-adaptations-to-stream-now/'
-imported_from: wordpress
+source_url: "https://geekystudios.com/top-15-stephen-king-adaptations-to-stream-now/"
+imported_from: "wordpress"
 wp_original_id: 682
-featuredImage: /assets/images/top-15-stephen-king-adaptations-to-stream-now.webp
+featuredImage: "/assets/images/geekystudios-general-article.webp"
 seo:
-  canonical: 'https://geekystudios.com/top-15-stephen-king-adaptations-to-stream-now/'
-  og_title: Top 15 Stephen King Adaptations to Stream Now - Geeky Studios
-  og_description: >-
-    Stephen King's stories have inspired countless film adaptations, with
-    classics like "The Shawshank Redemption," "Misery," and "The Shining"
-    standing out for their faithful representation and exceptional storytelling.
-    Recent hits like "It" and "Gerald's Game" continue to captivate audiences.
-  og_image: 'https://geekystudios.com/wp-content/uploads/2025/12/make_casr_1600x520-0.jpg'
-  twitter_card: summary_large_image
-quality_score: 76
+  canonical: "https://geekystudios.com/top-15-stephen-king-adaptations-to-stream-now/"
+  og_title: "Top 15 Stephen King Adaptations to Stream Now - Geeky Studios"
+  og_description: "Stephen King's stories have inspired countless film adaptations, with classics like \"The Shawshank Redemption,\" \"Misery,\" and \"The Shining\" standing out for their faithful representation and exceptional storytelling. Recent hits like \"It\" and \"Gerald's Game\" continue to captivate audiences."
+  og_image: "https://geekystudios.com/wp-content/uploads/2025/12/make_casr_1600x520-0.jpg"
+  twitter_card: "summary_large_image"
+quality_score: 80
 score_breakdown:
-  seo_quality: 65
-  tone_match: 75
+  seo_quality: 72
+  tone_match: 85
   content_length: 60
-  factual_accuracy: 85
-  keyword_relevance: 95
-quality_note: >-
-  Strong pop culture focus with accurate Stephen King film information, but
-  falls short on length and could improve SEO optimization with better keyword
-  integration and meta description length.
-image_alt: >-
-  Moody living room scene with a glowing TV, typewriter, film reels, and ominous
-  horror-inspired details.
+  factual_accuracy: 95
+  keyword_relevance: 88
+quality_note: "Well-written article with strong pop culture focus and accurate information, but falls short on word count and could improve SEO optimization with better keyword integration and meta description length."
 ---
 
 Stephen King, renowned for his mastery in horror and suspense, has had many of his works transformed into films and TV series. While not every adaptation captures the essence of his novels, several stand out as exceptional representations of his storytelling genius. Whether you're a long-time fan or new to King's universe, streaming these top adaptations offers an unforgettable experience.

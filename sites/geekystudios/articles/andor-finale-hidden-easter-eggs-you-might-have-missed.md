@@ -1,49 +1,36 @@
 ---
-title: 'Andor Finale: Hidden Easter Eggs You Might Have Missed'
-description: >-
-  The Andor series finale delivers rich storytelling and hidden Easter eggs that
-  deepen the Star Wars universe, tracing Cassian Andor's transformation from
-  reluctant participant to dedicated Rebel leader.
-type: standard
-status: published
-publishDate: '2025-05-15T10:54:14+00:00'
-author: Arthur Daly
+title: "Andor Finale: Hidden Easter Eggs You Might Have Missed"
+description: "The Andor series finale delivers a rich conclusion filled with Easter eggs, character development, and Star Wars lore references that deepen the story of Cassian Andor's transformation from reluctant participant to dedicated Rebel leader."
+type: "standard"
+status: "published"
+publishDate: "2025-05-15T10:54:14+00:00"
+author: "Arthur Daly"
 tags:
-  - Lifestyle
-  - Pop Culture
-slug: andor-finale-hidden-easter-eggs-you-might-have-missed
+  - "Lifestyle"
+  - "Pop Culture"
+slug: "andor-finale-hidden-easter-eggs-you-might-have-missed"
 reading_time: 3
-source_url: >-
-  https://geekystudios.com/andor-finale-hidden-easter-eggs-you-might-have-missed/
-imported_from: wordpress
+source_url: "https://geekystudios.com/andor-finale-hidden-easter-eggs-you-might-have-missed/"
+imported_from: "wordpress"
 wp_original_id: 586
-featuredImage: /assets/images/andor-finale-hidden-easter-eggs-you-might-have-missed.webp
+featuredImage: "/assets/images/geekystudios-general-article.webp"
 seo:
-  canonical: >-
-    https://geekystudios.com/andor-finale-hidden-easter-eggs-you-might-have-missed/
-  og_title: 'Andor Finale: Hidden Easter Eggs You Might Have Missed - Geeky Studios'
-  og_description: >-
-    The Star Wars universe expands with Andor's finale, offering intricate
-    details that enrich the storyline. The series delves into the Rebellion's
-    early days, focusing on Cassian Andor's journey from reluctant participant
-    to leader, highlighting personal stakes against the Empire.
-  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-38.jpeg'
-  twitter_card: summary_large_image
-quality_score: 77
+  canonical: "https://geekystudios.com/andor-finale-hidden-easter-eggs-you-might-have-missed/"
+  og_title: "Andor Finale: Hidden Easter Eggs You Might Have Missed - Geeky Studios"
+  og_description: "The Star Wars universe expands with Andor's finale, offering intricate details that enrich the storyline. The series delves into the Rebellion's early days, focusing on Cassian Andor's journey from reluctant participant to leader, highlighting personal stakes against the Empire."
+  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-38.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 79
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 57
-  factual_accuracy: 90
-  keyword_relevance: 80
-quality_note: >-
-  Well-written article with good tone and accuracy, but significantly under
-  target word count and could benefit from more specific Easter egg examples as
-  promised in the title.
-image_alt: >-
-  A lone rebel figure stands in a shadowed sci-fi corridor filled with subtle
-  hidden clues.
+  content_length: 60
+  factual_accuracy: 85
+  keyword_relevance: 90
+quality_note: "Well-written article with good tone and strong pop culture relevance, but falls short on content length (583 words vs 800-1200 target) and lacks specific Easter egg details promised in the title."
 ---
+
+# Andor Finale: Hidden Easter Eggs You Might Have Missed
 
 The Star Wars universe continues to expand with the thrilling conclusion of the Andor series. As the finale unfolds, viewers are treated to a myriad of intricate details that enrich the storyline. These elements not only tie back to the broader Star Wars saga but also offer keen insights into the characters and narratives.
 
