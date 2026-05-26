@@ -2,7 +2,8 @@ domain: buzzsoaps
 site_name: buzzsoaps
 site_tagline: null
 author: Julia Bennett
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d78716f23264031d7a5d
 brief:
