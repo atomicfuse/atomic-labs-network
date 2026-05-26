@@ -1,24 +1,38 @@
 ---
-title: "Elon Musk clarifies the holdup with Tesla Full Self-Driving launch in Europe"
-description: "Elon Musk has clarified that Tesla's Full Self-Driving feature is awaiting regulatory approval before it can launch in Europe, mirroring the hurdles Tesla previously faced in China."
-type: "standard"
-status: "review"
-publishDate: "2025-03-01T11:48:50+00:00"
-author: "Taylor Winters"
+title: Elon Musk clarifies the holdup with Tesla Full Self-Driving launch in Europe
+description: >-
+  Elon Musk has clarified that Tesla's Full Self-Driving feature is awaiting
+  regulatory approval before it can launch in Europe, mirroring the hurdles
+  Tesla previously faced in China.
+type: standard
+status: review
+publishDate: '2025-03-01T11:48:50+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-slug: "elon-musk-clarifies-the-holdup-with-tesla-full-self-driving-launch-in-europe"
+  - Electric Cars
+slug: elon-musk-clarifies-the-holdup-with-tesla-full-self-driving-launch-in-europe
 reading_time: 2
-source_url: "https://carsnewsmag.com/elon-musk-clarifies-the-holdup-with-tesla-full-self-driving-launch-in-europe/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/elon-musk-clarifies-the-holdup-with-tesla-full-self-driving-launch-in-europe/
+imported_from: wordpress
 wp_original_id: 38369
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/elon-musk-clarifies-the-holdup-with-tesla-full-self-driving-launch-in-europe.webp
 seo:
-  canonical: "https://carsnewsmag.com/elon-musk-clarifies-the-holdup-with-tesla-full-self-driving-launch-in-europe/"
-  og_title: "Elon Musk clarifies the holdup with Tesla Full Self-Driving launch in Europe - Cars News Magazine"
-  og_description: "By Joey Klender Posted on February 28, 2025 As Tesla&#x2019;s Full Self-Driving is enabled in the United States, and a variant of it launched in China earlier this week, many European owners are still awaiting the launch of what is one of the most robust driver assistance programs in the world. But CEO Elon Musk [&hellip;]"
-  og_image: "https://secure.gravatar.com/avatar/ffc6e144b62444bbcd0ba1b71be05ade?s=50&amp;r=pg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/elon-musk-clarifies-the-holdup-with-tesla-full-self-driving-launch-in-europe/
+  og_title: >-
+    Elon Musk clarifies the holdup with Tesla Full Self-Driving launch in Europe
+    - Cars News Magazine
+  og_description: >-
+    By Joey Klender Posted on February 28, 2025 As Tesla&#x2019;s Full
+    Self-Driving is enabled in the United States, and a variant of it launched
+    in China earlier this week, many European owners are still awaiting the
+    launch of what is one of the most robust driver assistance programs in the
+    world. But CEO Elon Musk [&hellip;]
+  og_image: >-
+    https://secure.gravatar.com/avatar/ffc6e144b62444bbcd0ba1b71be05ade?s=50&amp;r=pg
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -26,7 +40,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly too short at 371 words, and contains a suspicious future-dated tweet that raises factual accuracy concerns."
+quality_note: >-
+  Strong topic relevance and tone but significantly too short at 371 words, and
+  contains a suspicious future-dated tweet that raises factual accuracy
+  concerns.
+image_alt: >-
+  Unbranded electric car paused at a futuristic checkpoint in a European city at
+  dusk
 ---
 
 As Tesla's Full Self-Driving is enabled in the United States, and a variant of it launched in China earlier this week, many European owners are still awaiting the launch of what is one of the most robust driver assistance programs in the world.
