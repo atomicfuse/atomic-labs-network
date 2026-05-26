@@ -2,7 +2,8 @@ domain: mindmedications
 site_name: mindmedications
 site_tagline: null
 author: Nora Sanders
-groups: []
+groups:
+  - atl
 active: true
 bundle_id: 6a12d77516f23264031d7a5a
 brief:
