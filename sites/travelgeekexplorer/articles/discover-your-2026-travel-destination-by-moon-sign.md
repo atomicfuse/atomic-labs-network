@@ -1,25 +1,35 @@
 ---
-title: "Discover Your 2026 Travel Destination by Moon Sign"
-description: "Explore travel destinations aligned with your moon sign for a personalized journey in 2026. From the adventurous landscapes of New Zealand for Aries moons to the tranquil beauty of Bali for Pisces, discover places that resonate on a deeper, emotional level."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:43:38+00:00"
-author: "Taylor Winters"
+title: Discover Your 2026 Travel Destination by Moon Sign
+description: >-
+  Explore travel destinations aligned with your moon sign for a personalized
+  journey in 2026. From the adventurous landscapes of New Zealand for Aries
+  moons to the tranquil beauty of Bali for Pisces, discover places that resonate
+  on a deeper, emotional level.
+type: standard
+status: published
+publishDate: '2026-01-26T09:43:38+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "discover-your-2026-travel-destination-by-moon-sign"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: discover-your-2026-travel-destination-by-moon-sign
 reading_time: 5
-source_url: "https://www.travelgeekexplorer.com/discover-your-2026-travel-destination-by-moon-sign/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.travelgeekexplorer.com/discover-your-2026-travel-destination-by-moon-sign/
+imported_from: wordpress
 wp_original_id: 44647
-featuredImage: "/assets/images/travelgeekexplorer-general-article.webp"
+featuredImage: /assets/images/discover-your-2026-travel-destination-by-moon-sign.webp
 seo:
-  canonical: "https://www.travelgeekexplorer.com/discover-your-2026-travel-destination-by-moon-sign/"
-  og_title: "Discover Your 2026 Travel Destination by Moon Sign - Travel Geek Explorer"
-  og_description: "Explore travel destinations aligned with your moon sign for a personalized journey in 2026. From the adventurous landscapes of New Zealand for Aries moons to the tranquil beauty of Bali for Pisces, discover places that resonate on a deeper, emotional level."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.travelgeekexplorer.com/discover-your-2026-travel-destination-by-moon-sign/
+  og_title: Discover Your 2026 Travel Destination by Moon Sign - Travel Geek Explorer
+  og_description: >-
+    Explore travel destinations aligned with your moon sign for a personalized
+    journey in 2026. From the adventurous landscapes of New Zealand for Aries
+    moons to the tranquil beauty of Bali for Pisces, discover places that
+    resonate on a deeper, emotional level.
+  twitter_card: summary_large_image
 quality_score: 88
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel piece with excellent keyword relevance and engaging tone, though could benefit from stronger SEO optimization in title length and heading structure."
+quality_note: >-
+  Well-written travel piece with excellent keyword relevance and engaging tone,
+  though could benefit from stronger SEO optimization in title length and
+  heading structure.
+image_alt: >-
+  Open suitcase on a balcony facing moonlit landscapes that blend sea,
+  mountains, dunes, and cliffs.
 ---
 
 Travel choices can be a reflection of our inner selves, and for those seeking a unique and personalized experience, aligning your travel plans with your moon sign might just be the perfect approach. The moon sign in astrology symbolizes the emotional core and the hidden self, guiding us to places that resonate on a deeper level. If you're looking to plan an unforgettable journey in 2026, consider these intriguing destinations based on the insights of your moon sign.
