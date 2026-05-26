@@ -1,24 +1,36 @@
 ---
-title: "Assisted Living Rents Surge: Understanding the 10% Increase"
-description: "Assisted living costs have surged, outpacing Social Security's COLA, due to pandemic disruptions, staffing shortages, and inflation. Seniors and families face financial strain, highlighting the need for strategic planning and exploring alternative living arrangements to manage rising expenses effectively."
-type: "standard"
-status: "review"
-publishDate: "2026-01-19T10:29:29+00:00"
-author: "Tony Anderson"
+title: 'Assisted Living Rents Surge: Understanding the 10% Increase'
+description: >-
+  Assisted living costs have surged, outpacing Social Security's COLA, due to
+  pandemic disruptions, staffing shortages, and inflation. Seniors and families
+  face financial strain, highlighting the need for strategic planning and
+  exploring alternative living arrangements to manage rising expenses
+  effectively.
+type: standard
+status: review
+publishDate: '2026-01-19T10:29:29+00:00'
+author: Tony Anderson
 tags:
-  - "Saving Tips"
-  - "Personal Finance"
-slug: "assisted-living-rents-surge-understanding-the-10-increase"
+  - Saving Tips
+  - Personal Finance
+slug: assisted-living-rents-surge-understanding-the-10-increase
 reading_time: 3
-source_url: "https://giant-savings.co/assisted-living-rents-surge-understanding-the-10-increase/"
-imported_from: "wordpress"
+source_url: >-
+  https://giant-savings.co/assisted-living-rents-surge-understanding-the-10-increase/
+imported_from: wordpress
 wp_original_id: 403
-featuredImage: "/assets/images/giantsavings-general-article.webp"
+featuredImage: /assets/images/assisted-living-rents-surge-understanding-the-10-increase.webp
 seo:
-  canonical: "https://giant-savings.co/assisted-living-rents-surge-understanding-the-10-increase/"
-  og_title: "Assisted Living Rents Surge: Understanding the 10% Increase - Giant Savings"
-  og_description: "Assisted living costs have surged, outpacing Social Security's COLA, due to pandemic disruptions, staffing shortages, and inflation. Seniors and families face financial strain, highlighting the need for strategic planning and exploring alternative living arrangements to manage rising expenses effectively."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://giant-savings.co/assisted-living-rents-surge-understanding-the-10-increase/
+  og_title: 'Assisted Living Rents Surge: Understanding the 10% Increase - Giant Savings'
+  og_description: >-
+    Assisted living costs have surged, outpacing Social Security's COLA, due to
+    pandemic disruptions, staffing shortages, and inflation. Seniors and
+    families face financial strain, highlighting the need for strategic planning
+    and exploring alternative living arrangements to manage rising expenses
+    effectively.
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "While well-written on senior care costs, the article lacks alignment with the site's core personal finance topics and falls short of the target word count for optimal content performance."
+quality_note: >-
+  While well-written on senior care costs, the article lacks alignment with the
+  site's core personal finance topics and falls short of the target word count
+  for optimal content performance.
+image_alt: >-
+  Elderly couple reviewing bills and a calculator at a kitchen table in a calm
+  apartment setting
 ---
 
 In recent times, the cost of assisted living has witnessed a significant surge, leaving many seniors and their families grappling with financial strain. This unexpected increase comes despite a minimal rise in the Social Security Cost of Living Adjustment (COLA), which has not kept pace with the mounting expenses of senior care. Understanding the factors behind this rise is crucial for those planning for long-term care.
