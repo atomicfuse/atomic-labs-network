@@ -1,26 +1,36 @@
 ---
-title: "Travel Alert: Methanol Risks in Eight Popular Destinations"
-description: "As global travel rebounds, tourists should be cautious of tainted alcohol risks. Methanol-adulterated drinks can cause severe health issues, including blindness. Travelers are advised to purchase alcohol from reputable sources and be aware of regional regulatory oversight."
-type: "standard"
-status: "review"
-publishDate: "2025-10-23T08:57:24+00:00"
-author: "Taylor Winters"
+title: 'Travel Alert: Methanol Risks in Eight Popular Destinations'
+description: >-
+  As global travel rebounds, tourists should be cautious of tainted alcohol
+  risks. Methanol-adulterated drinks can cause severe health issues, including
+  blindness. Travelers are advised to purchase alcohol from reputable sources
+  and be aware of regional regulatory oversight.
+type: standard
+status: review
+publishDate: '2025-10-23T08:57:24+00:00'
+author: Taylor Winters
 tags:
-  - "Food &amp; Drink"
-  - "Tips"
-  - "Travel"
-slug: "travel-alert-methanol-risks-in-eight-popular-destinations"
+  - Food &amp; Drink
+  - Tips
+  - Travel
+slug: travel-alert-methanol-risks-in-eight-popular-destinations
 reading_time: 3
-source_url: "https://journeypeaks.com/travel-alert-methanol-risks-in-eight-popular-destinations/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/travel-alert-methanol-risks-in-eight-popular-destinations/
+imported_from: wordpress
 wp_original_id: 38727
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/travel-alert-methanol-risks-in-eight-popular-destinations.webp
 seo:
-  canonical: "https://journeypeaks.com/travel-alert-methanol-risks-in-eight-popular-destinations/"
-  og_title: "Travel Alert: Methanol Risks in Eight Popular Destinations - Journey Peaks"
-  og_description: "As global travel rebounds, tourists should be cautious of tainted alcohol risks. Methanol-adulterated drinks can cause severe health issues, including blindness. Travelers are advised to purchase alcohol from reputable sources and be aware of regional regulatory oversight."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/10/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/travel-alert-methanol-risks-in-eight-popular-destinations/
+  og_title: 'Travel Alert: Methanol Risks in Eight Popular Destinations - Journey Peaks'
+  og_description: >-
+    As global travel rebounds, tourists should be cautious of tainted alcohol
+    risks. Methanol-adulterated drinks can cause severe health issues, including
+    blindness. Travelers are advised to purchase alcohol from reputable sources
+    and be aware of regional regulatory oversight.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/10/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written travel safety article with good tone and keyword relevance, but significantly under the target word count and lacks specific destination details mentioned in the title."
+quality_note: >-
+  Well-written travel safety article with good tone and keyword relevance, but
+  significantly under the target word count and lacks specific destination
+  details mentioned in the title.
+image_alt: >-
+  Cocktail on a travel bar counter with luggage blurred in the background,
+  suggesting alcohol safety concerns.
 ---
 
 As global travel continues to rebound, tourists are advised to remain cautious about potential risks, particularly concerning tainted alcohol in some popular destinations. While travel offers exciting opportunities for exploration and relaxation, it is crucial to be informed about possible hazards to ensure a safe and enjoyable experience.
