@@ -1,28 +1,41 @@
 ---
-title: "Discovering the Hidden Charm of Rockaway Beach, Missouri: A Perfect Side Trip from Branson"
-description: "Explore the tranquil town of Rockaway Beach, Missouri, as a delightful side trip from Branson. Enjoy local eateries, scenic views, and lakefront serenity."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T04:09:21+00:00"
-author: "Malcolm Anderson"
+title: >-
+  Discovering the Hidden Charm of Rockaway Beach, Missouri: A Perfect Side Trip
+  from Branson
+description: >-
+  Explore the tranquil town of Rockaway Beach, Missouri, as a delightful side
+  trip from Branson. Enjoy local eateries, scenic views, and lakefront serenity.
+type: standard
+status: review
+publishDate: '2025-08-14T04:09:21+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "Food"
-slug: "discovering-the-hidden-charm-of-rockaway-beach-missouri-a-perfect-side-trip-from-branson"
+  - Destinations
+  - Food
+slug: >-
+  discovering-the-hidden-charm-of-rockaway-beach-missouri-a-perfect-side-trip-from-branson
 reading_time: 2
-source_url: "https://travelnights.com/discovering-the-hidden-charm-of-rockaway-beach-missouri-a-perfect-side-trip-from-branson/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/discovering-the-hidden-charm-of-rockaway-beach-missouri-a-perfect-side-trip-from-branson/
+imported_from: wordpress
 wp_original_id: 36534
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/discovering-the-hidden-charm-of-rockaway-beach-missouri-a-perfect-side-trip-from-branson.webp
 seo:
-  canonical: "https://travelnights.com/discovering-the-hidden-charm-of-rockaway-beach-missouri-a-perfect-side-trip-from-branson/"
-  og_title: "Discovering the Hidden Charm of Rockaway Beach, Missouri: A Perfect Side Trip from Branson - Travel Nights"
-  og_description: "Explore the tranquil town of Rockaway Beach, Missouri, as a delightful side trip from Branson. Enjoy local eateries, scenic views, and lakefront serenity."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/discovering-the-hidden-charm-of-rockaway-beach-missouri-a-perfect-side-trip-from-branson/
+  og_title: >-
+    Discovering the Hidden Charm of Rockaway Beach, Missouri: A Perfect Side
+    Trip from Branson - Travel Nights
+  og_description: >-
+    Explore the tranquil town of Rockaway Beach, Missouri, as a delightful side
+    trip from Branson. Enjoy local eateries, scenic views, and lakefront
+    serenity.
+  twitter_card: summary_large_image
 videos:
-  - id: "9d8b9a8f"
-    url: "https://www.youtube.com/watch?v=jNoRjnVgO3s"
-    position: "after-paragraph-2"
+  - id: 9d8b9a8f
+    url: 'https://www.youtube.com/watch?v=jNoRjnVgO3s'
+    position: after-paragraph-2
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -30,7 +43,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with engaging tone and relevant travel content, but significantly under the target word count at only 336 words when 800-1200 is expected."
+quality_note: >-
+  Well-written article with engaging tone and relevant travel content, but
+  significantly under the target word count at only 336 words when 800-1200 is
+  expected.
+image_alt: >-
+  Golden-hour lakefront in a quiet Ozark town with docks, trees, and small-town
+  charm.
 ---
 
 Branson, Missouri, is widely known for its vibrant entertainment scene and bustling attractions. However, if you're yearning for a more laid-back experience, just a short drive away lies the charming town of Rockaway Beach. This peaceful retreat offers a refreshing escape with its serene lakefront views and welcoming community.
