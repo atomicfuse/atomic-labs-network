@@ -1,25 +1,38 @@
 ---
-title: "Game of Thrones Prequel Delayed to 2026, No Release This Year"
-description: "Fans eagerly await the release of A Knight of the Seven Kingdoms, a Game of Thrones spinoff exploring events before the original series. Based on George R.R. Martin's novellas, the series promises rich storytelling and complex characters set in Westeros."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T10:48:31+00:00"
-author: "Arthur Daly"
+title: 'Game of Thrones Prequel Delayed to 2026, No Release This Year'
+description: >-
+  Fans eagerly await the release of A Knight of the Seven Kingdoms, a Game of
+  Thrones spinoff exploring events before the original series. Based on George
+  R.R. Martin's novellas, the series promises rich storytelling and complex
+  characters set in Westeros.
+type: standard
+status: review
+publishDate: '2025-05-15T10:48:31+00:00'
+author: Arthur Daly
 tags:
-  - "Lifestyle"
-  - "Pop Culture"
-slug: "game-of-thrones-prequel-delayed-to-2026-no-release-this-year"
+  - Lifestyle
+  - Pop Culture
+slug: game-of-thrones-prequel-delayed-to-2026-no-release-this-year
 reading_time: 3
-source_url: "https://geekystudios.com/game-of-thrones-prequel-delayed-to-2026-no-release-this-year/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/game-of-thrones-prequel-delayed-to-2026-no-release-this-year/
+imported_from: wordpress
 wp_original_id: 560
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/game-of-thrones-prequel-delayed-to-2026-no-release-this-year.webp
 seo:
-  canonical: "https://geekystudios.com/game-of-thrones-prequel-delayed-to-2026-no-release-this-year/"
-  og_title: "Game of Thrones Prequel Delayed to 2026, No Release This Year - Geeky Studios"
-  og_description: "Fans eagerly await the release of A Knight of the Seven Kingdoms, a Game of Thrones spinoff exploring events before the original series. Based on George R.R. Martin's novellas, the series promises rich storytelling and complex characters set in Westeros."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-27.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/game-of-thrones-prequel-delayed-to-2026-no-release-this-year/
+  og_title: >-
+    Game of Thrones Prequel Delayed to 2026, No Release This Year - Geeky
+    Studios
+  og_description: >-
+    Fans eagerly await the release of A Knight of the Seven Kingdoms, a Game of
+    Thrones spinoff exploring events before the original series. Based on George
+    R.R. Martin's novellas, the series promises rich storytelling and complex
+    characters set in Westeros.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-27.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Article has good tone and covers pop culture well, but falls significantly short of target word count and lacks strong SEO optimization in title and meta description."
+quality_note: >-
+  Article has good tone and covers pop culture well, but falls significantly
+  short of target word count and lacks strong SEO optimization in title and meta
+  description.
+image_alt: >-
+  Empty medieval hall with an hourglass and candlelight evoking anticipation for
+  a delayed fantasy series.
 ---
 
 Fans of the epic fantasy world of Westeros have something new to look forward to with the upcoming release of a fresh series set in the Game of Thrones universe. The latest spinoff, titled A Knight of the Seven Kingdoms, is expected to captivate audiences with its rich storytelling and intricate characters. This series promises to delve deeper into the lore and history that fans have come to love.
