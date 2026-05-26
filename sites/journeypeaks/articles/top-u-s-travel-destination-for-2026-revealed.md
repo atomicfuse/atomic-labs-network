@@ -1,25 +1,33 @@
 ---
-title: "Top U.S. Travel Destination for 2026 Revealed"
-description: "Explore captivating destinations for 2026, from Kyoto's cultural heritage and New Zealand's natural beauty to Barcelona's vibrant atmosphere and Alaska's wilderness. Experience the Renaissance charm of Florence and create unforgettable memories worldwide."
-type: "standard"
-status: "review"
-publishDate: "2025-12-18T09:49:26+00:00"
-author: "Taylor Winters"
+title: Top U.S. Travel Destination for 2026 Revealed
+description: >-
+  Explore captivating destinations for 2026, from Kyoto's cultural heritage and
+  New Zealand's natural beauty to Barcelona's vibrant atmosphere and Alaska's
+  wilderness. Experience the Renaissance charm of Florence and create
+  unforgettable memories worldwide.
+type: standard
+status: review
+publishDate: '2025-12-18T09:49:26+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-u-s-travel-destination-for-2026-revealed"
+  - Destinations
+  - Travel
+slug: top-u-s-travel-destination-for-2026-revealed
 reading_time: 3
-source_url: "https://journeypeaks.com/top-u-s-travel-destination-for-2026-revealed/"
-imported_from: "wordpress"
+source_url: 'https://journeypeaks.com/top-u-s-travel-destination-for-2026-revealed/'
+imported_from: wordpress
 wp_original_id: 38771
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-u-s-travel-destination-for-2026-revealed.webp
 seo:
-  canonical: "https://journeypeaks.com/top-u-s-travel-destination-for-2026-revealed/"
-  og_title: "Top U.S. Travel Destination for 2026 Revealed - Journey Peaks"
-  og_description: "Explore captivating destinations for 2026, from Kyoto's cultural heritage and New Zealand's natural beauty to Barcelona's vibrant atmosphere and Alaska's wilderness. Experience the Renaissance charm of Florence and create unforgettable memories worldwide. Start planning your next adventure today."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://journeypeaks.com/top-u-s-travel-destination-for-2026-revealed/'
+  og_title: Top U.S. Travel Destination for 2026 Revealed - Journey Peaks
+  og_description: >-
+    Explore captivating destinations for 2026, from Kyoto's cultural heritage
+    and New Zealand's natural beauty to Barcelona's vibrant atmosphere and
+    Alaska's wilderness. Experience the Renaissance charm of Florence and create
+    unforgettable memories worldwide. Start planning your next adventure today.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/12/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 49
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and accurate content but falls significantly short of target word count and has misleading title/description that don't match the content focus."
+quality_note: >-
+  The article has good tone and accurate content but falls significantly short
+  of target word count and has misleading title/description that don't match the
+  content focus.
+image_alt: >-
+  Traveler overlooks a sunrise panorama blending iconic cultural cities and wild
+  natural landscapes.
 ---
 
 The world is full of remarkable destinations, each offering unique experiences and unforgettable memories. As you plan your future travels, consider some of the most exciting places to visit in 2026. From cultural hubs to natural wonders, these destinations promise to captivate every type of traveler.
