@@ -1,26 +1,39 @@
 ---
-title: "Optimal Summer Nutrition: The Key to Staying Cool and Energized"
-description: "Summertime increases the risk of dehydration and exhaustion, but a well-balanced diet can counter these problems. By incorporating hydrating foods, complex carbohydrates, lean proteins, and cooling foods into your daily routine, you can stay energized and cool throughout the summer season."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:09:42+00:00"
-author: "Taylor Winters"
+title: 'Optimal Summer Nutrition: The Key to Staying Cool and Energized'
+description: >-
+  Summertime increases the risk of dehydration and exhaustion, but a
+  well-balanced diet can counter these problems. By incorporating hydrating
+  foods, complex carbohydrates, lean proteins, and cooling foods into your daily
+  routine, you can stay energized and cool throughout the summer season.
+type: standard
+status: review
+publishDate: '2025-04-23T16:09:42+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "optimal-summer-nutrition-the-key-to-staying-cool-and-energized"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: optimal-summer-nutrition-the-key-to-staying-cool-and-energized
 reading_time: 2
-source_url: "https://eznutritiontips.com/optimal-summer-nutrition-the-key-to-staying-cool-and-energized/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/optimal-summer-nutrition-the-key-to-staying-cool-and-energized/
+imported_from: wordpress
 wp_original_id: 18750
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/optimal-summer-nutrition-the-key-to-staying-cool-and-energized.webp
 seo:
-  canonical: "https://eznutritiontips.com/optimal-summer-nutrition-the-key-to-staying-cool-and-energized/"
-  og_title: "Optimal Summer Nutrition: The Key to Staying Cool and Energized - Easy Nutrition Tips"
-  og_description: "Summertime increases the risk of dehydration and exhaustion, but a well-balanced diet can counter these problems. By incorporating hydrating foods, complex carbohydrates, lean proteins, and cooling foods into your daily routine, you can stay energized and cool throughout the summer season."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-45.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/optimal-summer-nutrition-the-key-to-staying-cool-and-energized/
+  og_title: >-
+    Optimal Summer Nutrition: The Key to Staying Cool and Energized - Easy
+    Nutrition Tips
+  og_description: >-
+    Summertime increases the risk of dehydration and exhaustion, but a
+    well-balanced diet can counter these problems. By incorporating hydrating
+    foods, complex carbohydrates, lean proteins, and cooling foods into your
+    daily routine, you can stay energized and cool throughout the summer season.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-45.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate content, but significantly too short at 365 words versus the 800-1200 word target, limiting its SEO potential and depth."
+quality_note: >-
+  Well-written article with good tone and accurate content, but significantly
+  too short at 365 words versus the 800-1200 word target, limiting its SEO
+  potential and depth.
+image_alt: >-
+  Fresh hydrating summer foods and chilled water arranged on a sunlit outdoor
+  table.
 ---
 
 Summertime brings with it an increased potential for dehydration and exhaustion, but a well-balanced diet can help you combat these issues. By incorporating the right foods and drinks into your daily routine, you can stay energized and cool, even in the heat of summer.
