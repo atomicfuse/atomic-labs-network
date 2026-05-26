@@ -1,29 +1,34 @@
 ---
-title: "Chilling Encounter: Capturing the Unseen on a Bus Ride"
-description: "A bus rider on a routine journey home captures eerie and unsettling footage on camera, revealing what appears to be a sinister presence lurking in the shadows of an otherwise ordinary setting."
-type: "standard"
-status: "review"
-publishDate: "2025-12-18T11:15:39+00:00"
-author: "Blake Anderson"
+title: 'Chilling Encounter: Capturing the Unseen on a Bus Ride'
+description: >-
+  A bus rider on a routine journey home captures eerie and unsettling footage on
+  camera, revealing what appears to be a sinister presence lurking in the
+  shadows of an otherwise ordinary setting.
+type: standard
+status: review
+publishDate: '2025-12-18T11:15:39+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "chilling-encounter-capturing-the-unseen-on-a-bus-ride"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: chilling-encounter-capturing-the-unseen-on-a-bus-ride
 reading_time: 2
-source_url: "https://stroylab.com/chilling-encounter-capturing-the-unseen-on-a-bus-ride/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/chilling-encounter-capturing-the-unseen-on-a-bus-ride/'
+imported_from: wordpress
 wp_original_id: 662
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/chilling-encounter-capturing-the-unseen-on-a-bus-ride.webp
 seo:
-  canonical: "https://stroylab.com/chilling-encounter-capturing-the-unseen-on-a-bus-ride/"
-  og_title: "Chilling Encounter: Capturing the Unseen on a Bus Ride - StroyLab"
-  og_description: "Experience a bone-chilling moment as a bus rider captures something evil on camera."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/chilling-encounter-capturing-the-unseen-on-a-bus-ride/'
+  og_title: 'Chilling Encounter: Capturing the Unseen on a Bus Ride - StroyLab'
+  og_description: >-
+    Experience a bone-chilling moment as a bus rider captures something evil on
+    camera.
+  twitter_card: summary_large_image
 videos:
-  - id: "c382afaa"
-    url: "https://www.youtube.com/watch?v=6WNwPIvXaj0"
-    position: "after-paragraph-2"
+  - id: c382afaa
+    url: 'https://www.youtube.com/watch?v=6WNwPIvXaj0'
+    position: after-paragraph-2
 quality_score: 49
 score_breakdown:
   seo_quality: 45
@@ -31,7 +36,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "Article has good tone and mystery theme alignment but suffers from very short length, vague content that appears fabricated, and weak SEO optimization with a too-long title."
+quality_note: >-
+  Article has good tone and mystery theme alignment but suffers from very short
+  length, vague content that appears fabricated, and weak SEO optimization with
+  a too-long title.
+image_alt: >-
+  A dimly lit night bus interior with a phone in the foreground and a shadowy
+  figure near the back.
 ---
 
 In a world where the ordinary can quickly spiral into the extraordinary, one bus rider found himself facing an unexpected and eerie encounter. While on a seemingly routine journey home, a man heard something unsettling, sparking a series of events that led to a chilling discovery. Armed with only his camera, he managed to capture something truly disturbing, leaving him—and now us—questioning the reality of what lies beyond our perception.
