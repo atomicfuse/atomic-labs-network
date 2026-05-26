@@ -1,24 +1,35 @@
 ---
-title: "Why I Switched Back to Google Tasks from Microsoft To Do"
-description: "In the digital age, staying organized is essential. Task management apps like Microsoft To Do and Google Tasks offer unique features that boost productivity. Understanding their strengths and differences helps in choosing the right app for personal or professional needs."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T10:48:58+00:00"
-author: "Arthur Daly"
+title: Why I Switched Back to Google Tasks from Microsoft To Do
+description: >-
+  In the digital age, staying organized is essential. Task management apps like
+  Microsoft To Do and Google Tasks offer unique features that boost
+  productivity. Understanding their strengths and differences helps in choosing
+  the right app for personal or professional needs.
+type: standard
+status: published
+publishDate: '2025-05-15T10:48:58+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "why-i-switched-back-to-google-tasks-from-microsoft-to-do"
+  - Tech
+slug: why-i-switched-back-to-google-tasks-from-microsoft-to-do
 reading_time: 3
-source_url: "https://geekystudios.com/why-i-switched-back-to-google-tasks-from-microsoft-to-do/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/why-i-switched-back-to-google-tasks-from-microsoft-to-do/
+imported_from: wordpress
 wp_original_id: 562
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/why-i-switched-back-to-google-tasks-from-microsoft-to-do.webp
 seo:
-  canonical: "https://geekystudios.com/why-i-switched-back-to-google-tasks-from-microsoft-to-do/"
-  og_title: "Why I Switched Back to Google Tasks from Microsoft To Do - Geeky Studios"
-  og_description: "In the digital age, staying organized is essential. Task management apps like Microsoft To Do and Google Tasks offer unique features that boost productivity. Understanding their strengths and differences helps in choosing the right app for personal or professional needs."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_a-phone-with-a-to-do-list-and-the-google-tasks-logo.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/why-i-switched-back-to-google-tasks-from-microsoft-to-do/
+  og_title: Why I Switched Back to Google Tasks from Microsoft To Do - Geeky Studios
+  og_description: >-
+    In the digital age, staying organized is essential. Task management apps
+    like Microsoft To Do and Google Tasks offer unique features that boost
+    productivity. Understanding their strengths and differences helps in
+    choosing the right app for personal or professional needs.
+  og_image: >-
+    https://geekystudios.com/wp-content/uploads/2025/05/make_a-phone-with-a-to-do-list-and-the-google-tasks-logo.jpg
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written tech comparison with good tone and accuracy, but falls short of target word count and lacks the promised personal perspective from the title."
+quality_note: >-
+  Well-written tech comparison with good tone and accuracy, but falls short of
+  target word count and lacks the promised personal perspective from the title.
+image_alt: >-
+  Minimal desk setup with abstract task cards suggesting a return to simpler
+  productivity tools
 ---
 
 In the digital age, staying organized is paramount. Task management apps like Microsoft To Do and Google Tasks have become essential tools for individuals striving to boost productivity. Both applications offer unique features and functionalities, making it crucial to understand their strengths and differences to choose the right one for your needs.
