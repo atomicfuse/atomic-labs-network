@@ -1,24 +1,39 @@
 ---
-title: "Breakthrough model simulates human bone marrow function in the lab"
-description: "Researchers at the University of Pennsylvania, Penn Medicine, and CHOP have developed a bone marrow-on-a-chip platform that emulates human marrow's native environment, enabling the study of blood cell production, immune response, and the effects of cancer treatments or space travel on the human immune system."
-type: "standard"
-status: "published"
-publishDate: "2025-02-02T06:07:05+00:00"
-author: "admin"
+title: Breakthrough model simulates human bone marrow function in the lab
+description: >-
+  Researchers at the University of Pennsylvania, Penn Medicine, and CHOP have
+  developed a bone marrow-on-a-chip platform that emulates human marrow's native
+  environment, enabling the study of blood cell production, immune response, and
+  the effects of cancer treatments or space travel on the human immune system.
+type: standard
+status: published
+publishDate: '2025-02-02T06:07:05+00:00'
+author: admin
 tags:
-  - "Health News"
-  - "Children"
-slug: "breakthrough-model-simulates-human-bone-marrow-function-in-the-lab"
+  - Health News
+  - Children
+slug: breakthrough-model-simulates-human-bone-marrow-function-in-the-lab
 reading_time: 6
-source_url: "https://medicalnewscorner.com/breakthrough-model-simulates-human-bone-marrow-function-in-the-lab/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/breakthrough-model-simulates-human-bone-marrow-function-in-the-lab/
+imported_from: wordpress
 wp_original_id: 24450
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/breakthrough-model-simulates-human-bone-marrow-function-in-the-lab.webp
 seo:
-  canonical: "https://medicalnewscorner.com/breakthrough-model-simulates-human-bone-marrow-function-in-the-lab/"
-  og_title: "Breakthrough model simulates human bone marrow function in the lab - Medical News Corner"
-  og_description: "Hidden within our bones, marrow sustains life by producing billions of blood cells daily, from oxygen-carrying red cells to immune-boosting white cells. This vital function is often disrupted in cancer patients undergoing chemotherapy or radiation, which can damage the marrow and lead to dangerously low white cell counts, leaving patients vulnerable to infection. Now, researchers [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/breakthrough-model-simulates-human-bone-marrow-function-in-the-lab/
+  og_title: >-
+    Breakthrough model simulates human bone marrow function in the lab - Medical
+    News Corner
+  og_description: >-
+    Hidden within our bones, marrow sustains life by producing billions of blood
+    cells daily, from oxygen-carrying red cells to immune-boosting white cells.
+    This vital function is often disrupted in cancer patients undergoing
+    chemotherapy or radiation, which can damage the marrow and lead to
+    dangerously low white cell counts, leaving patients vulnerable to infection.
+    Now, researchers [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written health research article with excellent length and strong scientific content, though the title could be more compelling and keyword-optimized for better SEO performance."
+quality_note: >-
+  Well-written health research article with excellent length and strong
+  scientific content, though the title could be more compelling and
+  keyword-optimized for better SEO performance.
+image_alt: >-
+  Glowing microfluidic lab chip with red and gold cellular channels on a
+  clinical research bench
 ---
 
 Hidden within our bones, marrow sustains life by producing billions of blood cells daily, from oxygen-carrying red cells to immune-boosting white cells. This vital function is often disrupted in cancer patients undergoing chemotherapy or radiation, which can damage the marrow and lead to dangerously low white cell counts, leaving patients vulnerable to infection.
