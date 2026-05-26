@@ -1,24 +1,32 @@
 ---
-title: "Safely Delete These Preinstalled iPhone Apps"
-description: "Apple iPhones come with preloaded apps that enhance user experience, but not all are necessary. Removing unused apps can streamline your device, free up storage, and improve performance, while allowing you to tailor your phone to your needs."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T10:46:04+00:00"
-author: "Arthur Daly"
+title: Safely Delete These Preinstalled iPhone Apps
+description: >-
+  Apple iPhones come with preloaded apps that enhance user experience, but not
+  all are necessary. Removing unused apps can streamline your device, free up
+  storage, and improve performance, while allowing you to tailor your phone to
+  your needs.
+type: standard
+status: published
+publishDate: '2025-05-15T10:46:04+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "safely-delete-these-preinstalled-iphone-apps"
+  - Tech
+slug: safely-delete-these-preinstalled-iphone-apps
 reading_time: 3
-source_url: "https://geekystudios.com/safely-delete-these-preinstalled-iphone-apps/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/safely-delete-these-preinstalled-iphone-apps/'
+imported_from: wordpress
 wp_original_id: 550
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/safely-delete-these-preinstalled-iphone-apps.webp
 seo:
-  canonical: "https://geekystudios.com/safely-delete-these-preinstalled-iphone-apps/"
-  og_title: "Safely Delete These Preinstalled iPhone Apps - Geeky Studios"
-  og_description: "Apple iPhones come with preloaded apps that enhance user experience, but not all are necessary. Removing unused apps can streamline your device, free up storage, and improve performance, while allowing you to tailor your phone to your needs."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_file-23.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://geekystudios.com/safely-delete-these-preinstalled-iphone-apps/'
+  og_title: Safely Delete These Preinstalled iPhone Apps - Geeky Studios
+  og_description: >-
+    Apple iPhones come with preloaded apps that enhance user experience, but not
+    all are necessary. Removing unused apps can streamline your device, free up
+    storage, and improve performance, while allowing you to tailor your phone to
+    your needs.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/05/make_file-23.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong tech content with good tone and accuracy, but significantly under target word count at 463 words versus the 800-1200 range."
+quality_note: >-
+  Strong tech content with good tone and accuracy, but significantly under
+  target word count at 463 words versus the 800-1200 range.
+image_alt: >-
+  Unbranded smartphone with generic app icons floating away in a clean
+  minimalist tech scene
 ---
 
 Apple iPhones come preloaded with a range of apps designed to enhance user experience. However, not every built-in app is necessary for every user. Learning which pre-installed apps you can safely remove can help streamline your device, free up storage, and improve performance.
