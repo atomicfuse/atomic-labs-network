@@ -1,26 +1,35 @@
 ---
-title: "Feeling Loved: The Secret to True Happiness Revealed"
-description: "Feeling loved is key to genuine happiness, surpassing material possessions. Strong relationships and self-love contribute to lasting contentment and improved well-being, while also enhancing physical health."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T10:35:30+00:00"
-author: "Lena Ashwood"
+title: 'Feeling Loved: The Secret to True Happiness Revealed'
+description: >-
+  Feeling loved is key to genuine happiness, surpassing material possessions.
+  Strong relationships and self-love contribute to lasting contentment and
+  improved well-being, while also enhancing physical health.
+type: standard
+status: published
+publishDate: '2026-02-12T10:35:30+00:00'
+author: Lena Ashwood
 tags:
-  - "Lifestyle"
-  - "Personal Growth"
-  - "Wellness"
-slug: "feeling-loved-the-secret-to-true-happiness-revealed"
+  - Lifestyle
+  - Personal Growth
+  - Wellness
+slug: feeling-loved-the-secret-to-true-happiness-revealed
 reading_time: 4
-source_url: "https://mindmedications.com/feeling-loved-the-secret-to-true-happiness-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/feeling-loved-the-secret-to-true-happiness-revealed/
+imported_from: wordpress
 wp_original_id: 623
-featuredImage: "/assets/images/mindmedications-general-article.webp"
+featuredImage: /assets/images/feeling-loved-the-secret-to-true-happiness-revealed.webp
 seo:
-  canonical: "https://mindmedications.com/feeling-loved-the-secret-to-true-happiness-revealed/"
-  og_title: "Feeling Loved: The Secret to True Happiness Revealed - Mind Medications"
-  og_description: "Feeling loved is key to genuine happiness, surpassing material possessions. Strong relationships and self-love contribute to lasting contentment and improved well-being. Embracing love enhances emotional and physical health, making it essential for a fulfilling life."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/02/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/feeling-loved-the-secret-to-true-happiness-revealed/
+  og_title: 'Feeling Loved: The Secret to True Happiness Revealed - Mind Medications'
+  og_description: >-
+    Feeling loved is key to genuine happiness, surpassing material possessions.
+    Strong relationships and self-love contribute to lasting contentment and
+    improved well-being. Embracing love enhances emotional and physical health,
+    making it essential for a fulfilling life.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/02/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +37,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent keyword relevance and tone, but significantly under target word count which limits its SEO potential and depth of coverage."
+quality_note: >-
+  Well-written article with excellent keyword relevance and tone, but
+  significantly under target word count which limits its SEO potential and depth
+  of coverage.
+image_alt: Loved ones share a warm morning moment together in soft natural light.
 ---
 
 In a world where happiness often seems elusive, the key to finding it might be simpler than we think. Recent research suggests that feeling loved is a crucial factor in experiencing genuine happiness. While material possessions and achievements can bring temporary joy, the warmth of feeling valued by others tends to foster a deeper, more lasting contentment.
