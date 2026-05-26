@@ -1,24 +1,32 @@
 ---
-title: "Latest News and Insights from The New York Times"
-description: "Many travelers face a choice between checking bags and carrying them on. Checking bags offers freedom, reduces stress, and streamlines the airport experience, allowing you to travel with ease and enjoy the journey from start to finish."
-type: "standard"
-status: "review"
-publishDate: "2025-11-03T09:23:25+00:00"
-author: "Malcolm Anderson"
+title: Latest News and Insights from The New York Times
+description: >-
+  Many travelers face a choice between checking bags and carrying them on.
+  Checking bags offers freedom, reduces stress, and streamlines the airport
+  experience, allowing you to travel with ease and enjoy the journey from start
+  to finish.
+type: standard
+status: review
+publishDate: '2025-11-03T09:23:25+00:00'
+author: Malcolm Anderson
 tags:
-  - "News"
-slug: "latest-news-and-insights-from-the-new-york-times"
+  - News
+slug: latest-news-and-insights-from-the-new-york-times
 reading_time: 3
-source_url: "https://travelnights.com/latest-news-and-insights-from-the-new-york-times/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/latest-news-and-insights-from-the-new-york-times/'
+imported_from: wordpress
 wp_original_id: 36566
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/latest-news-and-insights-from-the-new-york-times.webp
 seo:
-  canonical: "https://travelnights.com/latest-news-and-insights-from-the-new-york-times/"
-  og_title: "Latest News and Insights from The New York Times - Travel Nights"
-  og_description: "Many travelers face a choice between checking bags and carrying them on. Checking bags offers freedom, reduces stress, and streamlines the airport experience, allowing you to travel with ease and enjoy the journey from start to finish."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/11/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/latest-news-and-insights-from-the-new-york-times/'
+  og_title: Latest News and Insights from The New York Times - Travel Nights
+  og_description: >-
+    Many travelers face a choice between checking bags and carrying them on.
+    Checking bags offers freedom, reduces stress, and streamlines the airport
+    experience, allowing you to travel with ease and enjoy the journey from
+    start to finish.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/11/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 52
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article has poor SEO optimization with a misleading title about NY Times, weak keyword relevance to travel site topics, and falls short of target word count, though the tone and accuracy are reasonable."
+quality_note: >-
+  The article has poor SEO optimization with a misleading title about NY Times,
+  weak keyword relevance to travel site topics, and falls short of target word
+  count, though the tone and accuracy are reasonable.
+image_alt: Relaxed traveler walking hands-free through a bright airport terminal
 ---
 
 Many travelers find themselves at a crossroads when deciding whether to check their bags or carry them on. While the convenience of having your luggage close at hand is tempting, there are compelling reasons why checking your bags might be the better option for your next trip.
