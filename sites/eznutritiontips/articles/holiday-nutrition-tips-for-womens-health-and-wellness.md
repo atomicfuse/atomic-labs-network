@@ -1,25 +1,35 @@
 ---
-title: "Holiday Nutrition Tips for Women’s Health and Wellness"
-description: "The holiday season can challenge dietary habits, especially for women. This article offers tips to maintain nutrition during festivities, emphasizing planning, healthy snacking, moderation, hydration, and physical activity to balance indulgence and well-being."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T10:19:35+00:00"
-author: "Taylor Winters"
+title: Holiday Nutrition Tips for Women’s Health and Wellness
+description: >-
+  The holiday season can challenge dietary habits, especially for women. This
+  article offers tips to maintain nutrition during festivities, emphasizing
+  planning, healthy snacking, moderation, hydration, and physical activity to
+  balance indulgence and well-being.
+type: standard
+status: published
+publishDate: '2025-12-11T10:19:35+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Tips"
-  - "Weight &amp; Wellness"
-slug: "holiday-nutrition-tips-for-womens-health-and-wellness"
+  - Nutrition Tips
+  - Weight &amp; Wellness
+slug: holiday-nutrition-tips-for-womens-health-and-wellness
 reading_time: 3
-source_url: "https://eznutritiontips.com/holiday-nutrition-tips-for-womens-health-and-wellness/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/holiday-nutrition-tips-for-womens-health-and-wellness/
+imported_from: wordpress
 wp_original_id: 18961
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/holiday-nutrition-tips-for-womens-health-and-wellness.webp
 seo:
-  canonical: "https://eznutritiontips.com/holiday-nutrition-tips-for-womens-health-and-wellness/"
-  og_title: "Holiday Nutrition Tips for Women's Health and Wellness - Easy Nutrition Tips"
-  og_description: "The holiday season can challenge dietary habits, especially for women. This article offers tips to maintain nutrition during festivities, emphasizing planning, healthy snacking, moderation, hydration, and physical activity to balance indulgence and well-being."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/12/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/holiday-nutrition-tips-for-womens-health-and-wellness/
+  og_title: Holiday Nutrition Tips for Women's Health and Wellness - Easy Nutrition Tips
+  og_description: >-
+    The holiday season can challenge dietary habits, especially for women. This
+    article offers tips to maintain nutrition during festivities, emphasizing
+    planning, healthy snacking, moderation, hydration, and physical activity to
+    balance indulgence and well-being.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/12/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but falls short on length (557 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but falls short on
+  length (557 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and meta description.
+image_alt: Woman choosing a balanced holiday meal with water at a cozy festive table
 ---
 
 The holiday season often brings joy and celebration, but it can also lead to dietary challenges, particularly for women who strive to maintain balanced nutrition. During this festive period, it is crucial to incorporate healthy eating habits without missing out on the fun of the season. This article provides insightful tips to help women navigate holiday meals while keeping their nutritional goals in check.
