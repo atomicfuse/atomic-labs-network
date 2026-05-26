@@ -1,27 +1,39 @@
 ---
-title: "Cira Centre Skyscraper Games Celebrate Semiquincentennial and Philly Tech Week"
-description: "Drexel professor Frank Lee transformed Philadelphia's Cira Centre into a giant playable display, showing how game design, architecture and public technology can turn a city skyline into a shared interactive experience."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T08:32:38+00:00"
-author: "Taylor Winters"
+title: Cira Centre Skyscraper Games Celebrate Semiquincentennial and Philly Tech Week
+description: >-
+  Drexel professor Frank Lee transformed Philadelphia's Cira Centre into a giant
+  playable display, showing how game design, architecture and public technology
+  can turn a city skyline into a shared interactive experience.
+type: standard
+status: published
+publishDate: '2026-05-07T08:32:38+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-  - "Community Event"
-  - "community game"
-slug: "cira-centre-skyscraper-games-celebrate-semiquincentennial-and-philly-tech-week"
+  - Gaming News
+  - Community
+  - Community Event
+  - community game
+slug: cira-centre-skyscraper-games-celebrate-semiquincentennial-and-philly-tech-week
 reading_time: 6
-source_url: "https://gamingnewsalley.com/cira-centre-skyscraper-games-celebrate-semiquincentennial-and-philly-tech-week/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/cira-centre-skyscraper-games-celebrate-semiquincentennial-and-philly-tech-week/
+imported_from: wordpress
 wp_original_id: 42640
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/cira-centre-skyscraper-games-celebrate-semiquincentennial-and-philly-tech-week.webp
 seo:
-  canonical: "https://gamingnewsalley.com/cira-centre-skyscraper-games-celebrate-semiquincentennial-and-philly-tech-week/"
-  og_title: "Cira Centre Skyscraper Games Celebrate Semiquincentennial and Philly Tech Week - Gaming News Alley"
-  og_description: "Drexel professor Frank Lee transformed Philadelphia’s Cira Centre into a giant playable display, showing how game design, architecture and public technology can turn a city skyline into a shared interactive experience."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/05/make_new-cira-1_16x9.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/cira-centre-skyscraper-games-celebrate-semiquincentennial-and-philly-tech-week/
+  og_title: >-
+    Cira Centre Skyscraper Games Celebrate Semiquincentennial and Philly Tech
+    Week - Gaming News Alley
+  og_description: >-
+    Drexel professor Frank Lee transformed Philadelphia’s Cira Centre into a
+    giant playable display, showing how game design, architecture and public
+    technology can turn a city skyline into a shared interactive experience.
+  og_image: >-
+    https://gamingnewsalley.com/wp-content/uploads/2026/05/make_new-cira-1_16x9.jpg
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -29,7 +41,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 70
   keyword_relevance: 60
-quality_note: "Well-written article with good length and engaging tone, but lacks gaming-focused SEO optimization and contains some unverifiable claims about specific projects."
+quality_note: >-
+  Well-written article with good length and engaging tone, but lacks
+  gaming-focused SEO optimization and contains some unverifiable claims about
+  specific projects.
+image_alt: >-
+  Philadelphia skyline at night with a glowing skyscraper display and people
+  gathered below
 ---
 
 Philadelphia has long treated architecture as part of its public identity, but few projects have blurred the line between skyline and screen like Drexel University professor Frank Lee's work with the Cira Centre. By turning a glass office tower near 30th Street Station into a playable display, Lee helped show how game design, urban technology and civic imagination can meet in full public view.
