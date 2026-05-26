@@ -1,24 +1,36 @@
 ---
-title: "Inside Trump’s Hubris-Fueled Empire of Power and Influence"
-description: "Global population growth raises pressing questions about sustainability and societal impacts. As population rises, the demand for resources intensifies, affecting the environment and economy. Strategies for sustainable development and international cooperation are crucial for managing these challenges and opportunities."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:34:36+00:00"
-author: "Blake Anderson"
+title: Inside Trump’s Hubris-Fueled Empire of Power and Influence
+description: >-
+  Global population growth raises pressing questions about sustainability and
+  societal impacts. As population rises, the demand for resources intensifies,
+  affecting the environment and economy. Strategies for sustainable development
+  and international cooperation are crucial for managing these challenges and
+  opportunities.
+type: standard
+status: review
+publishDate: '2025-12-22T11:34:36+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "inside-trumps-hubris-fueled-empire-of-power-and-influence"
+  - Deep Dives
+slug: inside-trumps-hubris-fueled-empire-of-power-and-influence
 reading_time: 3
-source_url: "https://stroylab.com/inside-trumps-hubris-fueled-empire-of-power-and-influence/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/inside-trumps-hubris-fueled-empire-of-power-and-influence/
+imported_from: wordpress
 wp_original_id: 708
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/inside-trumps-hubris-fueled-empire-of-power-and-influence.webp
 seo:
-  canonical: "https://stroylab.com/inside-trumps-hubris-fueled-empire-of-power-and-influence/"
-  og_title: "Inside Trump's Hubris-Fueled Empire of Power and Influence - StroyLab"
-  og_description: "Global population growth raises pressing questions about sustainability and societal impacts. As population rises, the demand for resources intensifies, affecting the environment and economy. Strategies for sustainable development and international cooperation are crucial for managing these challenges and opportunities."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-204.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/inside-trumps-hubris-fueled-empire-of-power-and-influence/
+  og_title: Inside Trump's Hubris-Fueled Empire of Power and Influence - StroyLab
+  og_description: >-
+    Global population growth raises pressing questions about sustainability and
+    societal impacts. As population rises, the demand for resources intensifies,
+    affecting the environment and economy. Strategies for sustainable
+    development and international cooperation are crucial for managing these
+    challenges and opportunities.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-204.jpeg'
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 15
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "Article completely mismatches its title about Trump's empire and instead covers generic population growth content, with zero relevance to the site's conspiracy/mystery focus."
+quality_note: >-
+  Article completely mismatches its title about Trump's empire and instead
+  covers generic population growth content, with zero relevance to the site's
+  conspiracy/mystery focus.
+image_alt: >-
+  A gilded tower casts a long shadow over a crowded modern city and public
+  square.
 ---
 
 The topic of global population growth and its implications on resources and society has been a subject of intense debate. As the world population continues to rise, questions about sustainability, economic challenges, and social dynamics become increasingly pressing. Understanding these aspects is crucial for shaping policies and strategies that can ensure a balanced future.
