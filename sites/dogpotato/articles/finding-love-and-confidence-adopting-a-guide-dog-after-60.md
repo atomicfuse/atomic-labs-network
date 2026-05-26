@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-finding-love-and-confidence-adopting-a-guide-dog-after-60
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/finding-love-and-confidence-adopting-a-guide-dog-after-60.webp
 reading_time: 3
 quality_score: 71
 score_breakdown:
@@ -34,6 +34,7 @@ quality_note: >-
   Well-written and engaging article with good tone match, but falls short on
   length (537 words vs 800-1200 target) and relies heavily on vague 'according
   to reports' statements without specific sources.
+image_alt: Older adult walking confidently with a guide dog in a sunny park
 ---
 ## A New Chapter of Companionship
 
