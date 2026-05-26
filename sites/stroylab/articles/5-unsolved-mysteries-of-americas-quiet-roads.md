@@ -1,29 +1,33 @@
 ---
-title: "5 Unsolved Mysteries of America’s Quiet Roads"
-description: "Discover five chilling cold cases that remain unsolved, haunting the backroads of America."
-type: "standard"
-status: "review"
-publishDate: "2025-12-18T11:14:33+00:00"
-author: "Blake Anderson"
+title: 5 Unsolved Mysteries of America’s Quiet Roads
+description: >-
+  Discover five chilling cold cases that remain unsolved, haunting the backroads
+  of America.
+type: standard
+status: review
+publishDate: '2025-12-18T11:14:33+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-  - "Unsolved Cases"
-slug: "5-unsolved-mysteries-of-americas-quiet-roads"
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
+slug: 5-unsolved-mysteries-of-americas-quiet-roads
 reading_time: 2
-source_url: "https://stroylab.com/5-unsolved-mysteries-of-americas-quiet-roads/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/5-unsolved-mysteries-of-americas-quiet-roads/'
+imported_from: wordpress
 wp_original_id: 656
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/5-unsolved-mysteries-of-americas-quiet-roads.webp
 seo:
-  canonical: "https://stroylab.com/5-unsolved-mysteries-of-americas-quiet-roads/"
-  og_title: "5 Unsolved Mysteries of America's Quiet Roads - StroyLab"
-  og_description: "Discover five chilling cold cases that remain unsolved, haunting the backroads of America."
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/5-unsolved-mysteries-of-americas-quiet-roads/'
+  og_title: 5 Unsolved Mysteries of America's Quiet Roads - StroyLab
+  og_description: >-
+    Discover five chilling cold cases that remain unsolved, haunting the
+    backroads of America.
+  twitter_card: summary_large_image
 videos:
-  - id: "452d4a2c"
-    url: "https://www.youtube.com/watch?v=R05DY898eL0"
-    position: "after-paragraph-2"
+  - id: 452d4a2c
+    url: 'https://www.youtube.com/watch?v=R05DY898eL0'
+    position: after-paragraph-2
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -31,7 +35,10 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 60
   keyword_relevance: 95
-quality_note: "Strong tone and keyword relevance but severely penalized for short length (377 words vs 800-1200 target) and vague content lacking specific factual details."
+quality_note: >-
+  Strong tone and keyword relevance but severely penalized for short length (377
+  words vs 800-1200 target) and vague content lacking specific factual details.
+image_alt: A foggy rural road at dusk with fading tire tracks and a distant light
 ---
 
 Every corner of America holds its own secrets, but some stories are especially chilling. Among them are cold cases that have never been solved, leaving behind a trail of mystery and haunting those who dare to uncover the truth. These unsolved mysteries continue to linger in the quiet, seemingly peaceful backroads of America.
