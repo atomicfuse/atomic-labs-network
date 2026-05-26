@@ -1,24 +1,31 @@
 ---
-title: "Love Is Blind Reunion Recap: Episode 13 Highlights"
-description: "The \"Love Is Blind\" Season 10 reunion captivates fans with drama, resolution, and surprises as couples reflect on their journeys, with some relationships flourishing and others facing challenges, all guided by the show's hosts."
-type: "standard"
-status: "published"
-publishDate: "2026-03-12T10:27:23+00:00"
-author: "Becca Roberts"
+title: 'Love Is Blind Reunion Recap: Episode 13 Highlights'
+description: >-
+  The "Love Is Blind" Season 10 reunion captivates fans with drama, resolution,
+  and surprises as couples reflect on their journeys, with some relationships
+  flourishing and others facing challenges, all guided by the show's hosts.
+type: standard
+status: published
+publishDate: '2026-03-12T10:27:23+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "love-is-blind-reunion-recap-episode-13-highlights"
+  - Watch
+slug: love-is-blind-reunion-recap-episode-13-highlights
 reading_time: 4
-source_url: "https://buzzsoaps.com/love-is-blind-reunion-recap-episode-13-highlights/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/love-is-blind-reunion-recap-episode-13-highlights/'
+imported_from: wordpress
 wp_original_id: 569
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/love-is-blind-reunion-recap-episode-13-highlights.webp
 seo:
-  canonical: "https://buzzsoaps.com/love-is-blind-reunion-recap-episode-13-highlights/"
-  og_title: "Love Is Blind Reunion Recap: Episode 13 Highlights - BuzzSoaps!"
-  og_description: "The \"Love Is Blind\" Season 10 reunion captivates fans with drama, resolution, and surprises as couples reflect on their journeys. Some have flourished, while others face challenges. The hosts facilitate honest conversations, highlighting the show's enduring appeal and emotional depth."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/03/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/love-is-blind-reunion-recap-episode-13-highlights/'
+  og_title: 'Love Is Blind Reunion Recap: Episode 13 Highlights - BuzzSoaps!'
+  og_description: >-
+    The "Love Is Blind" Season 10 reunion captivates fans with drama,
+    resolution, and surprises as couples reflect on their journeys. Some have
+    flourished, while others face challenges. The hosts facilitate honest
+    conversations, highlighting the show's enduring appeal and emotional depth.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/03/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written entertainment recap with strong keyword relevance and appropriate tone, but falls short on length and lacks specific factual details that would enhance credibility."
+quality_note: >-
+  Well-written entertainment recap with strong keyword relevance and appropriate
+  tone, but falls short on length and lacks specific factual details that would
+  enhance credibility.
+image_alt: >-
+  Empty reunion-style studio set with sofas, champagne glasses, and dramatic
+  lighting
 ---
 
 The much-anticipated reunion of "Love Is Blind" Season 10 has finally arrived, offering fans a chance to catch up with their favorite couples and revisit some of the most memorable moments from the series. As tensions simmer and emotions run high, the reunion special promises to deliver drama, resolution, and perhaps a few surprises.
