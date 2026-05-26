@@ -1,21 +1,27 @@
 ---
-title: "Are Alien Probes Hiding in Our Solar System? Study Reveals"
-description: "The possibility of extraterrestrial probes in our solar system has sparked curiosity, suggesting advanced civilizations might be observing us. Scientists are exploring new methods to detect these potential alien artifacts, which could have significant implications for our understanding of the universe."
-type: "standard"
-status: "published"
-publishDate: "2025-11-06T12:55:40"
-author: "Taylor Winters"
+title: Are Alien Probes Hiding in Our Solar System? Study Reveals
+description: >-
+  The possibility of extraterrestrial probes in our solar system has sparked
+  curiosity, suggesting advanced civilizations might be observing us. Scientists
+  are exploring new methods to detect these potential alien artifacts, which
+  could have significant implications for our understanding of the universe.
+type: standard
+status: published
+publishDate: '2025-11-06T12:55:40'
+author: Taylor Winters
 tags:
-  - "Space"
-slug: "are-alien-probes-hiding-in-our-solar-system-study-reveals"
+  - Space
+slug: are-alien-probes-hiding-in-our-solar-system-study-reveals
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/are-alien-probes-hiding-in-our-solar-system-study-reveals/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/are-alien-probes-hiding-in-our-solar-system-study-reveals/
+imported_from: wordpress
 wp_original_id: 15020
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: /assets/images/are-alien-probes-hiding-in-our-solar-system-study-reveals.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/are-alien-probes-hiding-in-our-solar-system-study-reveals/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/are-alien-probes-hiding-in-our-solar-system-study-reveals/
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -23,7 +29,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 70
   keyword_relevance: 95
-quality_note: "Well-written space article with engaging tone and good keyword coverage, but lacks specific scientific citations and makes some unsupported claims about detection methods."
+quality_note: >-
+  Well-written space article with engaging tone and good keyword coverage, but
+  lacks specific scientific citations and makes some unsupported claims about
+  detection methods.
+image_alt: >-
+  Mysterious metallic object drifting in shadow near an icy asteroid in deep
+  space
 ---
 
 In recent years, the possibility of extraterrestrial intelligence visiting our solar system has sparked intense interest among scientists and the public alike. Recent studies suggest that alien probes could already be lurking in our cosmic neighborhood, waiting to be discovered. These probes, potentially designed by advanced civilizations, might be observing our planet or gathering valuable data from the solar system.
