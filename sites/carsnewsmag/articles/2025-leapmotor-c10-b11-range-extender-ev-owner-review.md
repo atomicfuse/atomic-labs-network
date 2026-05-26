@@ -1,23 +1,32 @@
 ---
-title: "2025 Leapmotor C10 B11 Range-Extender EV Owner Review"
-description: "The 2025 Leapmotor C10 is a groundbreaking electric vehicle that merges innovative technology, sleek design, and sustainability, offering an extended range, efficient charging, and advanced safety features for eco-conscious drivers."
-type: "standard"
-status: "review"
-publishDate: "2026-02-23T09:29:21+00:00"
-author: "Taylor Winters"
+title: 2025 Leapmotor C10 B11 Range-Extender EV Owner Review
+description: >-
+  The 2025 Leapmotor C10 is a groundbreaking electric vehicle that merges
+  innovative technology, sleek design, and sustainability, offering an extended
+  range, efficient charging, and advanced safety features for eco-conscious
+  drivers.
+type: standard
+status: review
+publishDate: '2026-02-23T09:29:21+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-slug: "2025-leapmotor-c10-b11-range-extender-ev-owner-review"
+  - Electric Cars
+slug: 2025-leapmotor-c10-b11-range-extender-ev-owner-review
 reading_time: 3
-source_url: "https://carsnewsmag.com/2025-leapmotor-c10-b11-range-extender-ev-owner-review/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/2025-leapmotor-c10-b11-range-extender-ev-owner-review/'
+imported_from: wordpress
 wp_original_id: 38571
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2025-leapmotor-c10-b11-range-extender-ev-owner-review.webp
 seo:
-  canonical: "https://carsnewsmag.com/2025-leapmotor-c10-b11-range-extender-ev-owner-review/"
-  og_title: "2025 Leapmotor C10 B11 Range-Extender EV Owner Review - Cars News Magazine"
-  og_description: "The 2025 Leapmotor C10 is a groundbreaking electric vehicle that merges innovative technology, sleek design, and sustainability. It offers an extended range, efficient charging, and advanced safety features, making it ideal for eco-conscious drivers seeking performance without compromise."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/2025-leapmotor-c10-b11-range-extender-ev-owner-review/
+  og_title: 2025 Leapmotor C10 B11 Range-Extender EV Owner Review - Cars News Magazine
+  og_description: >-
+    The 2025 Leapmotor C10 is a groundbreaking electric vehicle that merges
+    innovative technology, sleek design, and sustainability. It offers an
+    extended range, efficient charging, and advanced safety features, making it
+    ideal for eco-conscious drivers seeking performance without compromise.
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -25,7 +34,11 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "The article covers electric vehicles well with good tone and keyword relevance, but falls significantly short on length (436 vs 800-1200 target) and lacks specific technical details that would improve SEO and factual depth."
+quality_note: >-
+  The article covers electric vehicles well with good tone and keyword
+  relevance, but falls significantly short on length (436 vs 800-1200 target)
+  and lacks specific technical details that would improve SEO and factual depth.
+image_alt: Sleek electric SUV at a modern charging rest stop during golden hour
 ---
 
 The automotive world is buzzing with excitement over the 2025 Leapmotor C10, a cutting-edge electric vehicle that promises to redefine the driving experience. Combining innovative technology with sleek design, this vehicle is designed for those who prioritize sustainability without compromising on performance.
