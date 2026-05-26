@@ -1,24 +1,34 @@
 ---
-title: "Liverpool and Spurs Eye West Ham Star Bowen Transfer"
-description: "Premier League clubs Liverpool and Tottenham Hotspur are reportedly interested in signing West Ham's Jarrod Bowen, with his potential transfer set to significantly impact both teams' attacking strategies in domestic and European competitions."
-type: "standard"
-status: "published"
-publishDate: "2025-11-13T09:37:31+00:00"
-author: "Taylor Winters"
+title: Liverpool and Spurs Eye West Ham Star Bowen Transfer
+description: >-
+  Premier League clubs Liverpool and Tottenham Hotspur are reportedly interested
+  in signing West Ham's Jarrod Bowen, with his potential transfer set to
+  significantly impact both teams' attacking strategies in domestic and European
+  competitions.
+type: standard
+status: published
+publishDate: '2025-11-13T09:37:31+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "Andrew Robertson"
-slug: "liverpool-and-spurs-eye-west-ham-star-bowen-transfer"
+  - Latest News
+  - Andrew Robertson
+slug: liverpool-and-spurs-eye-west-ham-star-bowen-transfer
 reading_time: 3
-source_url: "https://soccernewsreports.com/liverpool-and-spurs-eye-west-ham-star-bowen-transfer/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/liverpool-and-spurs-eye-west-ham-star-bowen-transfer/
+imported_from: wordpress
 wp_original_id: 37923
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/liverpool-and-spurs-eye-west-ham-star-bowen-transfer.webp
 seo:
-  canonical: "https://soccernewsreports.com/liverpool-and-spurs-eye-west-ham-star-bowen-transfer/"
-  og_title: "Liverpool and Spurs Eye West Ham Star Bowen Transfer - Soccer News Reports"
-  og_description: "Premier League clubs are eyeing West Ham's Jarrod Bowen, with Liverpool and Tottenham interested in strengthening their attack. Bowen's potential transfer could significantly impact both teams' strategies as they compete for domestic and international success."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/liverpool-and-spurs-eye-west-ham-star-bowen-transfer/
+  og_title: Liverpool and Spurs Eye West Ham Star Bowen Transfer - Soccer News Reports
+  og_description: >-
+    Premier League clubs are eyeing West Ham's Jarrod Bowen, with Liverpool and
+    Tottenham interested in strengthening their attack. Bowen's potential
+    transfer could significantly impact both teams' strategies as they compete
+    for domestic and international success.
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Strong transfer coverage with good tone and keyword relevance, but falls short on length and could improve SEO optimization with better meta description and heading structure."
+quality_note: >-
+  Strong transfer coverage with good tone and keyword relevance, but falls short
+  on length and could improve SEO optimization with better meta description and
+  heading structure.
+image_alt: >-
+  Footballer facing split stadium lights, symbolizing rival clubs competing for
+  a transfer signing.
 ---
 
 In the dynamic world of football transfers, Premier League clubs are constantly on the lookout for talent that can enhance their squad's capabilities. As the transfer window looms, several clubs have set their sights on West Ham's prolific winger, Jarrod Bowen. Both Liverpool and Tottenham Hotspur are reportedly interested in securing Bowen's services, aiming to bolster their attacking options. This potential move could significantly impact the strategies of these top-flight clubs as they compete for domestic and international success.
