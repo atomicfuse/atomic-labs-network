@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-why-shawn-fains-advocacy-for-trump-tariffs-might-lead-to-unexpected-consequences
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/why-shawn-fains-advocacy-for-trump-tariffs-might-lead-to-unexpected-consequences.webp
 reading_time: 3
 quality_score: 67
 score_breakdown:
@@ -36,6 +37,9 @@ quality_note: >-
   The article covers relevant automotive industry topics with appropriate tone
   but falls significantly short of the target word count and lacks specific
   details that would enhance SEO value.
+image_alt: >-
+  Unfinished car on an assembly line framed by steel parts and anonymous workers
+  in a modern auto plant.
 ---
 ## UAW Leadership Takes Controversial Stance on Trade Policy
 
