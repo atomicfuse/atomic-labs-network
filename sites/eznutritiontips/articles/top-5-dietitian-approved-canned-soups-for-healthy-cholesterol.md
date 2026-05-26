@@ -1,25 +1,38 @@
 ---
-title: "Top 5 Dietitian-Approved Canned Soups for Healthy Cholesterol"
-description: "For maintaining healthy cholesterol levels, choose canned soups low in saturated fats and sodium, and high in fiber. Opt for vegetable-based, legume, or whole grain soups to support heart health while enjoying a nutritious and delicious meal."
-type: "standard"
-status: "review"
-publishDate: "2025-10-16T09:07:40+00:00"
-author: "Taylor Winters"
+title: Top 5 Dietitian-Approved Canned Soups for Healthy Cholesterol
+description: >-
+  For maintaining healthy cholesterol levels, choose canned soups low in
+  saturated fats and sodium, and high in fiber. Opt for vegetable-based, legume,
+  or whole grain soups to support heart health while enjoying a nutritious and
+  delicious meal.
+type: standard
+status: review
+publishDate: '2025-10-16T09:07:40+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Special Diets"
-slug: "top-5-dietitian-approved-canned-soups-for-healthy-cholesterol"
+  - Healthy Recipes
+  - Special Diets
+slug: top-5-dietitian-approved-canned-soups-for-healthy-cholesterol
 reading_time: 3
-source_url: "https://eznutritiontips.com/top-5-dietitian-approved-canned-soups-for-healthy-cholesterol/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/top-5-dietitian-approved-canned-soups-for-healthy-cholesterol/
+imported_from: wordpress
 wp_original_id: 18937
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/top-5-dietitian-approved-canned-soups-for-healthy-cholesterol.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-5-dietitian-approved-canned-soups-for-healthy-cholesterol/"
-  og_title: "Top 5 Dietitian-Approved Canned Soups for Healthy Cholesterol - Easy Nutrition Tips"
-  og_description: "For maintaining healthy cholesterol levels, choose canned soups low in saturated fats and sodium, and high in fiber. Opt for vegetable-based, legume, or whole grain soups to support heart health while enjoying a nutritious and delicious meal."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/top-5-dietitian-approved-canned-soups-for-healthy-cholesterol/
+  og_title: >-
+    Top 5 Dietitian-Approved Canned Soups for Healthy Cholesterol - Easy
+    Nutrition Tips
+  og_description: >-
+    For maintaining healthy cholesterol levels, choose canned soups low in
+    saturated fats and sodium, and high in fiber. Opt for vegetable-based,
+    legume, or whole grain soups to support heart health while enjoying a
+    nutritious and delicious meal.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 595 words versus the 800-1200 word target range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 595 words versus the 800-1200 word target range.
+image_alt: >-
+  Unlabeled canned soups with vegetables, beans, grains, and a steaming bowl on
+  a bright kitchen counter.
 ---
 
 For those aiming to maintain healthy cholesterol levels, understanding which canned soups are best suited for this goal is essential. With a myriad of options available, selecting a soup that is both nutritious and low in cholesterol can be challenging. Fortunately, many brands today offer delicious choices that cater to heart-healthy diets.
