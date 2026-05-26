@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-latest-updates-in-connected-car-technology-featuring-mercedes-benz-hyundai-mobis-sibros-honda-nvidia-and-iihs
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/latest-updates-in-connected-car-technology-featuring-mercedes-benz-hyundai-mobis-sibros-honda-nvidia-and-iihs.webp
 reading_time: 4
 quality_score: 67
 score_breakdown:
@@ -36,6 +37,7 @@ quality_note: >-
   Article covers relevant automotive technology topics with good keyword
   integration but falls short on length and contains vague, potentially
   unsupported claims about company developments.
+image_alt: Sleek connected car on a city road with subtle glowing data lines around it
 ---
 ## Major Players Drive Connected Car Innovation
 
