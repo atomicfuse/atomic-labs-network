@@ -1,24 +1,36 @@
 ---
-title: "2026 Hyundai i20 Review: Features, Performance, and Pricing"
-description: "The Hyundai i20 blends style, practicality, and technology, making it a top choice for urban drivers. With its modern design, efficient engines, and advanced tech features, the i20 offers a dynamic and comfortable driving experience in a compact package."
-type: "standard"
-status: "published"
-publishDate: "2026-04-13T08:27:18+00:00"
-author: "Taylor Winters"
+title: '2026 Hyundai i20 Review: Features, Performance, and Pricing'
+description: >-
+  The Hyundai i20 blends style, practicality, and technology, making it a top
+  choice for urban drivers. With its modern design, efficient engines, and
+  advanced tech features, the i20 offers a dynamic and comfortable driving
+  experience in a compact package.
+type: standard
+status: published
+publishDate: '2026-04-13T08:27:18+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "2026-hyundai-i20-review-features-performance-and-pricing"
+  - Reviews
+slug: 2026-hyundai-i20-review-features-performance-and-pricing
 reading_time: 3
-source_url: "https://carsnewsmag.com/2026-hyundai-i20-review-features-performance-and-pricing/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/2026-hyundai-i20-review-features-performance-and-pricing/
+imported_from: wordpress
 wp_original_id: 38602
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2026-hyundai-i20-review-features-performance-and-pricing.webp
 seo:
-  canonical: "https://carsnewsmag.com/2026-hyundai-i20-review-features-performance-and-pricing/"
-  og_title: "2026 Hyundai i20 Review: Features, Performance, and Pricing - Cars News Magazine"
-  og_description: "The Hyundai i20 blends style, practicality, and technology, making it a top choice for urban drivers. With its modern design, efficient engines, and advanced tech features, the i20 offers a dynamic and comfortable driving experience in a compact package."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/04/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/2026-hyundai-i20-review-features-performance-and-pricing/
+  og_title: >-
+    2026 Hyundai i20 Review: Features, Performance, and Pricing - Cars News
+    Magazine
+  og_description: >-
+    The Hyundai i20 blends style, practicality, and technology, making it a top
+    choice for urban drivers. With its modern design, efficient engines, and
+    advanced tech features, the i20 offers a dynamic and comfortable driving
+    experience in a compact package.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/04/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,11 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written review with excellent keyword relevance and tone, but significantly under target word count at 494 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written review with excellent keyword relevance and tone, but
+  significantly under target word count at 494 words versus the 800-1200 target
+  range.
+image_alt: Modern compact hatchback on a clean urban street at golden hour
 ---
 
 The Hyundai i20 stands out in the competitive world of small hatchbacks, offering a blend of style, practicality, and technology. This compact car has been a favorite for those seeking an efficient yet dynamic driving experience. Let's explore what makes the Hyundai i20 a compelling choice for urban drivers and enthusiasts alike.
