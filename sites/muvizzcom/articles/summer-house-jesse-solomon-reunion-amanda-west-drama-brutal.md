@@ -19,7 +19,8 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/summer-houses-jesse-teases-reunion-drama-for-amanda-west/
 source_item_id: 6a151f7216f23264031d8103
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: >-
+  /assets/images/summer-house-jesse-solomon-reunion-amanda-west-drama-brutal.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,9 @@ quality_note: >-
   Strong entertainment focus with engaging tone but falls short on length and
   has some vague sourcing that could indicate factual uncertainty.
 reading_time: 3
+image_alt: >-
+  Empty reunion set with separated couches and dramatic studio lighting
+  suggesting reality TV conflict.
 ---
 ## Jesse Solomon Previews Explosive Summer House Reunion
 
