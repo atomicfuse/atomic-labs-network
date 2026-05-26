@@ -1,24 +1,35 @@
 ---
-title: "Top 5 Paris Fashion Trends from Recent Runways"
-description: "Paris Fashion Week Autumn/Winter 2026 celebrated creativity and innovation with bold colors, vintage revivals, and textured layers. Designers showcased vibrant hues, nostalgic styles, and experimental silhouettes, promising to influence fashion trends and everyday wardrobes in the coming seasons."
-type: "standard"
-status: "published"
-publishDate: "2026-03-12T09:51:22+00:00"
-author: "Taylor Winters"
+title: Top 5 Paris Fashion Trends from Recent Runways
+description: >-
+  Paris Fashion Week Autumn/Winter 2026 celebrated creativity and innovation
+  with bold colors, vintage revivals, and textured layers. Designers showcased
+  vibrant hues, nostalgic styles, and experimental silhouettes, promising to
+  influence fashion trends and everyday wardrobes in the coming seasons.
+type: standard
+status: published
+publishDate: '2026-03-12T09:51:22+00:00'
+author: Taylor Winters
 tags:
-  - "Fashion"
-slug: "top-5-paris-fashion-trends-from-recent-runways"
+  - Fashion
+slug: top-5-paris-fashion-trends-from-recent-runways
 reading_time: 3
-source_url: "https://fashionnewsbee.com/top-5-paris-fashion-trends-from-recent-runways/"
-imported_from: "wordpress"
+source_url: 'https://fashionnewsbee.com/top-5-paris-fashion-trends-from-recent-runways/'
+imported_from: wordpress
 wp_original_id: 31651
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: /assets/images/top-5-paris-fashion-trends-from-recent-runways.webp
 seo:
-  canonical: "https://fashionnewsbee.com/top-5-paris-fashion-trends-from-recent-runways/"
-  og_title: "Top 5 Paris Fashion Trends from Recent Runways - Fashion News Bee"
-  og_description: "Paris Fashion Week Autumn/Winter 2026 celebrated creativity and innovation with bold colors, vintage revivals, and textured layers. Designers showcased vibrant hues, nostalgic styles, and experimental silhouettes, promising to influence fashion trends and everyday wardrobes in the coming seasons."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://fashionnewsbee.com/top-5-paris-fashion-trends-from-recent-runways/'
+  og_title: Top 5 Paris Fashion Trends from Recent Runways - Fashion News Bee
+  og_description: >-
+    Paris Fashion Week Autumn/Winter 2026 celebrated creativity and innovation
+    with bold colors, vintage revivals, and textured layers. Designers showcased
+    vibrant hues, nostalgic styles, and experimental silhouettes, promising to
+    influence fashion trends and everyday wardrobes in the coming seasons.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Fashion model in bold layered winter styling inside a softly lit Parisian
+  atelier
 ---
 
 The excitement of Paris Fashion Week never fails to captivate the global audience, and the Autumn/Winter 2026 showcase was no exception. This year's runway brought a fresh perspective on timeless styles, with designers pushing the boundaries of creativity and innovation. As we dive into the exhilarating world of haute couture, let's explore the standout trends that defined this iconic event.
