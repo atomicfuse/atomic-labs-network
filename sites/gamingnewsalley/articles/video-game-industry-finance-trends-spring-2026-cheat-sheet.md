@@ -1,25 +1,35 @@
 ---
-title: "Video Game Industry Finance Trends Spring 2026 Cheat Sheet"
-description: "A practical guide to video game industry finance covering revenue models, development costs, marketing, cash flow, publishing deals, key metrics, valuation, and financial planning for studios seeking sustainable growth."
-type: "standard"
-status: "review"
-publishDate: "2026-05-14T08:32:26+00:00"
-author: "Taylor Winters"
+title: Video Game Industry Finance Trends Spring 2026 Cheat Sheet
+description: >-
+  A practical guide to video game industry finance covering revenue models,
+  development costs, marketing, cash flow, publishing deals, key metrics,
+  valuation, and financial planning for studios seeking sustainable growth.
+type: standard
+status: review
+publishDate: '2026-05-14T08:32:26+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "video-game-industry-finance-trends-spring-2026-cheat-sheet"
+  - Gaming News
+  - Community
+slug: video-game-industry-finance-trends-spring-2026-cheat-sheet
 reading_time: 8
-source_url: "https://gamingnewsalley.com/video-game-industry-finance-trends-spring-2026-cheat-sheet/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/video-game-industry-finance-trends-spring-2026-cheat-sheet/
+imported_from: wordpress
 wp_original_id: 42644
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/video-game-industry-finance-trends-spring-2026-cheat-sheet.webp
 seo:
-  canonical: "https://gamingnewsalley.com/video-game-industry-finance-trends-spring-2026-cheat-sheet/"
-  og_title: "Video Game Industry Finance Trends Spring 2026 Cheat Sheet - Gaming News Alley"
-  og_description: "A practical guide to video game finance, covering revenue models, development costs, marketing, cash flow, publishing deals, metrics, valuation, and financial planning for studios seeking sustainable growth."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/05/make_twitter.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/video-game-industry-finance-trends-spring-2026-cheat-sheet/
+  og_title: >-
+    Video Game Industry Finance Trends Spring 2026 Cheat Sheet - Gaming News
+    Alley
+  og_description: >-
+    A practical guide to video game finance, covering revenue models,
+    development costs, marketing, cash flow, publishing deals, metrics,
+    valuation, and financial planning for studios seeking sustainable growth.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/05/make_twitter.jpg'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 25
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 35
-quality_note: "While well-written and factually sound, this finance-focused article lacks gaming industry specificity and doesn't match the engaging tone expected for gaming enthusiasts."
+quality_note: >-
+  While well-written and factually sound, this finance-focused article lacks
+  gaming industry specificity and doesn't match the engaging tone expected for
+  gaming enthusiasts.
+image_alt: >-
+  Game controller beside abstract financial charts and planning tools in a
+  modern studio setting.
 ---
 
 Understanding video game finance is essential for anyone building, funding, publishing, or analyzing games. The business can look creative on the surface, but every successful studio depends on clear numbers, disciplined spending, and realistic revenue planning.
