@@ -1,29 +1,38 @@
 ---
-title: "10 Delicious and Nutritious Recipes for Effective Weight Loss"
-description: "Discover 10 quick and easy recipes designed to support your weight loss journey with low WeightWatchers points and satisfying ingredients."
-type: "standard"
-status: "published"
-publishDate: "2025-12-15T10:57:32+00:00"
-author: "Taylor Winters"
+title: 10 Delicious and Nutritious Recipes for Effective Weight Loss
+description: >-
+  Discover 10 quick and easy recipes designed to support your weight loss
+  journey with low WeightWatchers points and satisfying ingredients.
+type: standard
+status: published
+publishDate: '2025-12-15T10:57:32+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "10-delicious-and-nutritious-recipes-for-effective-weight-loss"
+  - Healthy Recipes
+  - Special Diets
+  - Weight &amp; Wellness
+slug: 10-delicious-and-nutritious-recipes-for-effective-weight-loss
 reading_time: 3
-source_url: "https://eznutritiontips.com/10-delicious-and-nutritious-recipes-for-effective-weight-loss/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/10-delicious-and-nutritious-recipes-for-effective-weight-loss/
+imported_from: wordpress
 wp_original_id: 18963
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/10-delicious-and-nutritious-recipes-for-effective-weight-loss.webp
 seo:
-  canonical: "https://eznutritiontips.com/10-delicious-and-nutritious-recipes-for-effective-weight-loss/"
-  og_title: "10 Delicious and Nutritious Recipes for Effective Weight Loss - Easy Nutrition Tips"
-  og_description: "Discover 10 quick and easy recipes designed to support your weight loss journey with low WeightWatchers points and satisfying ingredients."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/10-delicious-and-nutritious-recipes-for-effective-weight-loss/
+  og_title: >-
+    10 Delicious and Nutritious Recipes for Effective Weight Loss - Easy
+    Nutrition Tips
+  og_description: >-
+    Discover 10 quick and easy recipes designed to support your weight loss
+    journey with low WeightWatchers points and satisfying ingredients.
+  twitter_card: summary_large_image
 videos:
-  - id: "e7776459"
-    url: "https://www.youtube.com/watch?v=qXaje1BI8_w"
-    position: "after-paragraph-2"
+  - id: e7776459
+    url: 'https://www.youtube.com/watch?v=qXaje1BI8_w'
+    position: after-paragraph-2
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,7 +40,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Good keyword coverage and engaging tone, but significantly too short at 517 words when target is 800-1200 words."
+quality_note: >-
+  Good keyword coverage and engaging tone, but significantly too short at 517
+  words when target is 800-1200 words.
+image_alt: >-
+  Colorful healthy meals arranged on a bright kitchen counter with fresh
+  ingredients
 ---
 
 Are you on a quest to lose weight without sacrificing flavor and satisfaction? Look no further! We've curated a list of 10 simple and healthy recipes that are low in WeightWatchers points and high in taste and nutrition. These recipes are perfect for anyone seeking quick meal ideas that align with their weight loss goals.
