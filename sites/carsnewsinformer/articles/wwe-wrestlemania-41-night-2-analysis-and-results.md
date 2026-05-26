@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-wwe-wrestlemania-41-night-2-analysis-and-results
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/wwe-wrestlemania-41-night-2-analysis-and-results.webp
 reading_time: 1
 quality_score: 40
 score_breakdown:
@@ -33,6 +33,9 @@ quality_note: >-
   This is an editorial notice about misclassified content rather than actual
   automotive content, resulting in poor relevance and length scores despite
   accurate information.
+image_alt: >-
+  A wrestling belt and ring rope appear out of place in a sleek modern car
+  showroom.
 ---
 ## Editorial Classification Notice
 
