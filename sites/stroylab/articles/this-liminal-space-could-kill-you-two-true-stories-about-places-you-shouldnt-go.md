@@ -1,28 +1,42 @@
 ---
-title: "This Liminal Space Could Kill You: Two True Stories About Places You Shouldn’t Go"
-description: "Explore two unsettling true-event stories about ordinary places and routines that turn dangerous: a highly anticipated art installation where something feels deeply wrong, and an early morning routine derailed by one small change."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:39:53+00:00"
-author: "Blake Anderson"
+title: >-
+  This Liminal Space Could Kill You: Two True Stories About Places You Shouldn’t
+  Go
+description: >-
+  Explore two unsettling true-event stories about ordinary places and routines
+  that turn dangerous: a highly anticipated art installation where something
+  feels deeply wrong, and an early morning routine derailed by one small change.
+type: standard
+status: published
+publishDate: '2026-05-07T09:39:53+00:00'
+author: Blake Anderson
 tags:
-  - "Dark History"
-  - "Mysteries"
-slug: "this-liminal-space-could-kill-you-two-true-stories-about-places-you-shouldnt-go"
+  - Dark History
+  - Mysteries
+slug: >-
+  this-liminal-space-could-kill-you-two-true-stories-about-places-you-shouldnt-go
 reading_time: 5
-source_url: "https://stroylab.com/this-liminal-space-could-kill-you-two-true-stories-about-places-you-shouldnt-go/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/this-liminal-space-could-kill-you-two-true-stories-about-places-you-shouldnt-go/
+imported_from: wordpress
 wp_original_id: 813
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/this-liminal-space-could-kill-you-two-true-stories-about-places-you-shouldnt-go.webp
 seo:
-  canonical: "https://stroylab.com/this-liminal-space-could-kill-you-two-true-stories-about-places-you-shouldnt-go/"
-  og_title: "This Liminal Space Could Kill You: Two True Stories About Places You Shouldn’t Go - StroyLab"
-  og_description: "Explore two unsettling true-event stories from MrBallen: a highly anticipated art installation where something feels wrong, and an early morning routine that turns dangerous after one small change."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/this-liminal-space-could-kill-you-two-true-stories-about-places-you-shouldnt-go/
+  og_title: >-
+    This Liminal Space Could Kill You: Two True Stories About Places You
+    Shouldn’t Go - StroyLab
+  og_description: >-
+    Explore two unsettling true-event stories from MrBallen: a highly
+    anticipated art installation where something feels wrong, and an early
+    morning routine that turns dangerous after one small change.
+  twitter_card: summary_large_image
 videos:
-  - id: "4d7cfa1e"
-    url: "https://www.youtube.com/watch?v=uQd_oMlLaYs"
-    position: "after-paragraph-2"
+  - id: 4d7cfa1e
+    url: 'https://www.youtube.com/watch?v=uQd_oMlLaYs'
+    position: after-paragraph-2
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -30,7 +44,12 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong mysterious tone and keyword coverage with good length, but lacks meta description and has unclear references to a video that may not exist."
+quality_note: >-
+  Strong mysterious tone and keyword coverage with good length, but lacks meta
+  description and has unclear references to a video that may not exist.
+image_alt: >-
+  Empty gallery corridor with eerie light, dropped keys, coffee cup, and a lone
+  footprint
 ---
 
 Some places feel harmless because they are familiar, quiet, or even beautiful. Others feel dangerous because something about them seems unfinished, empty, or out of place. This video, titled *This liminal space could KILL YOU*, brings together two true-event stories about locations and routines that appear ordinary at first, but gradually reveal why certain spaces are best avoided.
