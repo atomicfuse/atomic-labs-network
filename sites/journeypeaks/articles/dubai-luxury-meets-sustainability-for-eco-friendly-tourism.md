@@ -1,26 +1,38 @@
 ---
-title: "Dubai: Luxury Meets Sustainability for Eco-Friendly Tourism"
-description: "Dubai is redefining luxury tourism by integrating sustainability, attracting eco-conscious travelers with energy-efficient hotels and eco-friendly attractions. The city is setting new benchmarks in the industry, harmonizing opulence with environmental responsibility and inspiring global destinations to follow suit."
-type: "standard"
-status: "published"
-publishDate: "2025-11-06T09:57:29+00:00"
-author: "Taylor Winters"
+title: 'Dubai: Luxury Meets Sustainability for Eco-Friendly Tourism'
+description: >-
+  Dubai is redefining luxury tourism by integrating sustainability, attracting
+  eco-conscious travelers with energy-efficient hotels and eco-friendly
+  attractions. The city is setting new benchmarks in the industry, harmonizing
+  opulence with environmental responsibility and inspiring global destinations
+  to follow suit.
+type: standard
+status: published
+publishDate: '2025-11-06T09:57:29+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Lifestyle"
-  - "Travel"
-slug: "dubai-luxury-meets-sustainability-for-eco-friendly-tourism"
+  - Destinations
+  - Lifestyle
+  - Travel
+slug: dubai-luxury-meets-sustainability-for-eco-friendly-tourism
 reading_time: 3
-source_url: "https://journeypeaks.com/dubai-luxury-meets-sustainability-for-eco-friendly-tourism/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/dubai-luxury-meets-sustainability-for-eco-friendly-tourism/
+imported_from: wordpress
 wp_original_id: 38734
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/dubai-luxury-meets-sustainability-for-eco-friendly-tourism.webp
 seo:
-  canonical: "https://journeypeaks.com/dubai-luxury-meets-sustainability-for-eco-friendly-tourism/"
-  og_title: "Dubai: Luxury Meets Sustainability for Eco-Friendly Tourism - Journey Peaks"
-  og_description: "Dubai is redefining luxury tourism by integrating sustainability, attracting eco-conscious travelers with energy-efficient hotels and eco-friendly attractions. The city is setting new benchmarks in the industry, harmonizing opulence with environmental responsibility and inspiring global destinations to follow suit."
-  og_image: "https://journeypeaks.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/dubai-luxury-meets-sustainability-for-eco-friendly-tourism/
+  og_title: 'Dubai: Luxury Meets Sustainability for Eco-Friendly Tourism - Journey Peaks'
+  og_description: >-
+    Dubai is redefining luxury tourism by integrating sustainability, attracting
+    eco-conscious travelers with energy-efficient hotels and eco-friendly
+    attractions. The city is setting new benchmarks in the industry, harmonizing
+    opulence with environmental responsibility and inspiring global destinations
+    to follow suit.
+  og_image: 'https://journeypeaks.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and keyword relevance, but significantly under the target word count at 427 words versus the 800-1200 word target."
+quality_note: >-
+  Well-written article with excellent tone and keyword relevance, but
+  significantly under the target word count at 427 words versus the 800-1200
+  word target.
+image_alt: >-
+  Sustainable luxury resort in Dubai with greenery, solar canopies, water, and
+  skyline at sunset
 ---
 
 Dubai, renowned for its opulent lifestyle and towering skyscrapers, is emerging as a frontrunner in sustainable tourism. By integrating luxury with sustainability, this Middle Eastern city is attracting eco-conscious travelers from around the globe. This forward-thinking approach is setting new benchmarks in the tourism industry, blending environmental responsibility with the high-end experiences that Dubai is famous for.
