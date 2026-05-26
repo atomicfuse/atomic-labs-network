@@ -1,24 +1,36 @@
 ---
-title: "Top Pregnancy Nutrition Myths Doctors Want Women to Ignore"
-description: "During pregnancy, a balanced diet is crucial for both mother and baby. It's important to distinguish between myths and facts about nutrition to ensure optimal health, focusing on essential nutrients and consulting healthcare professionals for personalized advice."
-type: "standard"
-status: "published"
-publishDate: "2025-11-27T10:25:25+00:00"
-author: "Taylor Winters"
+title: Top Pregnancy Nutrition Myths Doctors Want Women to Ignore
+description: >-
+  During pregnancy, a balanced diet is crucial for both mother and baby. It's
+  important to distinguish between myths and facts about nutrition to ensure
+  optimal health, focusing on essential nutrients and consulting healthcare
+  professionals for personalized advice.
+type: standard
+status: published
+publishDate: '2025-11-27T10:25:25+00:00'
+author: Taylor Winters
 tags:
-  - "Nutrition Myths"
-slug: "top-pregnancy-nutrition-myths-doctors-want-women-to-ignore"
+  - Nutrition Myths
+slug: top-pregnancy-nutrition-myths-doctors-want-women-to-ignore
 reading_time: 2
-source_url: "https://eznutritiontips.com/top-pregnancy-nutrition-myths-doctors-want-women-to-ignore/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/top-pregnancy-nutrition-myths-doctors-want-women-to-ignore/
+imported_from: wordpress
 wp_original_id: 18954
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/top-pregnancy-nutrition-myths-doctors-want-women-to-ignore.webp
 seo:
-  canonical: "https://eznutritiontips.com/top-pregnancy-nutrition-myths-doctors-want-women-to-ignore/"
-  og_title: "Top Pregnancy Nutrition Myths Doctors Want Women to Ignore - Easy Nutrition Tips"
-  og_description: "During pregnancy, a balanced diet is crucial for both mother and baby. It's important to distinguish between myths and facts about nutrition to ensure optimal health, focusing on essential nutrients and consulting healthcare professionals for personalized advice."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/11/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/top-pregnancy-nutrition-myths-doctors-want-women-to-ignore/
+  og_title: >-
+    Top Pregnancy Nutrition Myths Doctors Want Women to Ignore - Easy Nutrition
+    Tips
+  og_description: >-
+    During pregnancy, a balanced diet is crucial for both mother and baby. It's
+    important to distinguish between myths and facts about nutrition to ensure
+    optimal health, focusing on essential nutrients and consulting healthcare
+    professionals for personalized advice.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/11/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "The article has good tone and accuracy but falls significantly short of the target word count at only 361 words, which severely impacts its content depth and SEO value."
+quality_note: >-
+  The article has good tone and accuracy but falls significantly short of the
+  target word count at only 361 words, which severely impacts its content depth
+  and SEO value.
+image_alt: >-
+  Pregnant woman discussing balanced nutrition with a healthcare professional in
+  a bright kitchen
 ---
 
 During pregnancy, a balanced diet is crucial for the health of both mother and baby. However, many myths about pregnancy nutrition continue to circulate, causing confusion. It's essential to distinguish between fact and fiction to ensure optimal health.
