@@ -1,25 +1,31 @@
 ---
-title: "Spain Green Tourism: Madrid and Coastal Cities Lead"
-description: "Spain is redefining tourism through greener transport, smarter destination management, protected coastlines, and sustainable city experiences in Madrid, Barcelona, Valencia, Málaga, and beyond."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T10:08:25+00:00"
-author: "Malcolm Anderson"
+title: 'Spain Green Tourism: Madrid and Coastal Cities Lead'
+description: >-
+  Spain is redefining tourism through greener transport, smarter destination
+  management, protected coastlines, and sustainable city experiences in Madrid,
+  Barcelona, Valencia, Málaga, and beyond.
+type: standard
+status: published
+publishDate: '2026-05-18T10:08:25+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "spain-green-tourism-madrid-and-coastal-cities-lead"
+  - Destinations
+  - Guides &amp; Tips
+slug: spain-green-tourism-madrid-and-coastal-cities-lead
 reading_time: 8
-source_url: "https://travelnights.com/spain-green-tourism-madrid-and-coastal-cities-lead/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/spain-green-tourism-madrid-and-coastal-cities-lead/'
+imported_from: wordpress
 wp_original_id: 36738
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/spain-green-tourism-madrid-and-coastal-cities-lead.webp
 seo:
-  canonical: "https://travelnights.com/spain-green-tourism-madrid-and-coastal-cities-lead/"
-  og_title: "Spain Green Tourism: Madrid and Coastal Cities Lead - Travel Nights"
-  og_description: "Spain is redefining tourism through greener transport, smarter destination management, protected coastlines, and sustainable city experiences in Madrid, Barcelona, Valencia, Málaga, and beyond."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/spain-green-tourism-madrid-and-coastal-cities-lead/'
+  og_title: 'Spain Green Tourism: Madrid and Coastal Cities Lead - Travel Nights'
+  og_description: >-
+    Spain is redefining tourism through greener transport, smarter destination
+    management, protected coastlines, and sustainable city experiences in
+    Madrid, Barcelona, Valencia, Málaga, and beyond.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 88
 score_breakdown:
   seo_quality: 75
@@ -27,7 +33,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent topic coverage and appropriate length, though the title could be more compelling and the meta description slightly longer for optimal SEO."
+quality_note: >-
+  Well-written article with excellent topic coverage and appropriate length,
+  though the title could be more compelling and the meta description slightly
+  longer for optimal SEO.
+image_alt: >-
+  Sunlit Spanish city boulevard with cyclists, greenery, transit tracks, and a
+  Mediterranean coastline beyond.
 ---
 
 Spain is reshaping its tourism identity with a stronger focus on sustainability, cleaner mobility, and better destination management. Long known for its cultural landmarks, lively cities, and sunny coastlines, the country is now placing greener travel at the center of its visitor experience. Madrid and several coastal destinations are leading this shift by improving public transport, protecting natural spaces, reducing emissions, and encouraging travelers to explore with a lighter footprint.
