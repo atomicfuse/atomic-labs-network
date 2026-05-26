@@ -1,24 +1,35 @@
 ---
-title: "1992 Interview: Parents Guide Kids to Challenge Unjust Laws"
-description: "The intersection of geopolitics and technology is reshaping global dynamics, as nations leverage advancements in digital infrastructure and AI to enhance strategic positions, forge alliances, and address challenges like economic interdependence, cybersecurity, and international trade."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:39:03+00:00"
-author: "Blake Anderson"
+title: '1992 Interview: Parents Guide Kids to Challenge Unjust Laws'
+description: >-
+  The intersection of geopolitics and technology is reshaping global dynamics,
+  as nations leverage advancements in digital infrastructure and AI to enhance
+  strategic positions, forge alliances, and address challenges like economic
+  interdependence, cybersecurity, and international trade.
+type: standard
+status: review
+publishDate: '2025-12-22T11:39:03+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "1992-interview-parents-guide-kids-to-challenge-unjust-laws-3"
+  - Deep Dives
+slug: 1992-interview-parents-guide-kids-to-challenge-unjust-laws-3
 reading_time: 3
-source_url: "https://stroylab.com/1992-interview-parents-guide-kids-to-challenge-unjust-laws-3/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/1992-interview-parents-guide-kids-to-challenge-unjust-laws-3/
+imported_from: wordpress
 wp_original_id: 734
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/1992-interview-parents-guide-kids-to-challenge-unjust-laws-3.webp
 seo:
-  canonical: "https://stroylab.com/1992-interview-parents-guide-kids-to-challenge-unjust-laws-3/"
-  og_title: "1992 Interview: Parents Guide Kids to Challenge Unjust Laws - StroyLab"
-  og_description: "The intersection of geopolitics and technology is reshaping global dynamics, as nations leverage advancements in digital infrastructure and AI to enhance strategic positions, forge alliances, and address challenges like economic interdependence, cybersecurity, and international trade."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-216.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/1992-interview-parents-guide-kids-to-challenge-unjust-laws-3/
+  og_title: '1992 Interview: Parents Guide Kids to Challenge Unjust Laws - StroyLab'
+  og_description: >-
+    The intersection of geopolitics and technology is reshaping global dynamics,
+    as nations leverage advancements in digital infrastructure and AI to enhance
+    strategic positions, forge alliances, and address challenges like economic
+    interdependence, cybersecurity, and international trade.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-216.jpeg'
+  twitter_card: summary_large_image
 quality_score: .nan
 score_breakdown:
   seo_quality: 25
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: .nan
   factual_accuracy: 80
   keyword_relevance: 10
-quality_note: "The article completely mismatches its title about a 1992 interview and parent guidance, instead covering geopolitics and technology with poor SEO optimization and no relevance to the site's sensitive topics focus."
+quality_note: >-
+  The article completely mismatches its title about a 1992 interview and parent
+  guidance, instead covering geopolitics and technology with poor SEO
+  optimization and no relevance to the site's sensitive topics focus.
+image_alt: >-
+  Parent and child study a map with subtle digital network lights at a sunlit
+  table.
 ---
 
 The world of geopolitics and technology is fraught with complex developments that can significantly impact global dynamics. Recent events have highlighted crucial changes, particularly in the realms of international relations and technological advancements. Understanding these shifts is essential for comprehending the broader implications they hold for the global community.
