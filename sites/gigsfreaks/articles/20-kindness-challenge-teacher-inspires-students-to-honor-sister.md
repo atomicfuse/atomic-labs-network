@@ -1,24 +1,36 @@
 ---
-title: "$20 Kindness Challenge: Teacher Inspires Students to Honor Sister"
-description: "A teacher honors her late sister's memory by challenging each student to use $20 to perform good deeds, fostering empathy, creativity, and a culture of giving in the classroom."
-type: "standard"
-status: "published"
-publishDate: "2025-05-05T16:16:03+00:00"
-author: "Nico Harper"
+title: '$20 Kindness Challenge: Teacher Inspires Students to Honor Sister'
+description: >-
+  A teacher honors her late sister's memory by challenging each student to use
+  $20 to perform good deeds, fostering empathy, creativity, and a culture of
+  giving in the classroom.
+type: standard
+status: published
+publishDate: '2025-05-05T16:16:03+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "20-kindness-challenge-teacher-inspires-students-to-honor-sister"
+  - Good Vibes
+slug: 20-kindness-challenge-teacher-inspires-students-to-honor-sister
 reading_time: 4
-source_url: "https://gigsfreaks.com/20-kindness-challenge-teacher-inspires-students-to-honor-sister/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/20-kindness-challenge-teacher-inspires-students-to-honor-sister/
+imported_from: wordpress
 wp_original_id: 887
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/20-kindness-challenge-teacher-inspires-students-to-honor-sister.webp
 seo:
-  canonical: "https://gigsfreaks.com/20-kindness-challenge-teacher-inspires-students-to-honor-sister/"
-  og_title: "$20 Kindness Challenge: Teacher Inspires Students to Honor Sister - GigsFreaks"
-  og_description: "A teacher inspires students with a kindness challenge, honoring her sister's memory. Each student uses $20 for good deeds, learning empathy and community impact. This initiative fosters financial responsibility, creativity, and a culture of giving in the classroom."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-100.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/20-kindness-challenge-teacher-inspires-students-to-honor-sister/
+  og_title: >-
+    $20 Kindness Challenge: Teacher Inspires Students to Honor Sister -
+    GigsFreaks
+  og_description: >-
+    A teacher inspires students with a kindness challenge, honoring her sister's
+    memory. Each student uses $20 for good deeds, learning empathy and community
+    impact. This initiative fosters financial responsibility, creativity, and a
+    culture of giving in the classroom.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-100.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written article with engaging tone and strong keyword relevance to 'Good Vibes,' but falls short of target word count at 604 words."
+quality_note: >-
+  Well-written article with engaging tone and strong keyword relevance to 'Good
+  Vibes,' but falls short of target word count at 604 words.
+image_alt: >-
+  Sunlit classroom scene with a teacher’s hands, an envelope, and students
+  collaborating in the background.
 ---
 
 In a world where small acts of kindness can create ripples of positive change, one teacher has found an innovative way to teach her students the power of generosity. By integrating a unique challenge into her classroom, she not only honors a personal memory but also inspires a new generation to contribute to their community. This engaging initiative demonstrates the profound impact that a simple act can have when guided by compassion and thoughtfulness.
