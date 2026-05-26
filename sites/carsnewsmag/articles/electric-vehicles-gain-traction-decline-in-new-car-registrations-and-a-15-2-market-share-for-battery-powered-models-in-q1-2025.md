@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-electric-vehicles-gain-traction-decline-in-new-car-registrations-and-a-15-2-market-share-for-battery-powered-models-in-q1-2025
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/electric-vehicles-gain-traction-decline-in-new-car-registrations-and-a-15-2-market-share-for-battery-powered-models-in-q1-2025.webp
 reading_time: 2
 quality_score: 74
 score_breakdown:
@@ -34,6 +35,7 @@ score_breakdown:
 quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   393 words versus the 800-1200 target range.
+image_alt: Sleek electric car charging in a quiet dealership lot at dusk
 ---
 ## Electric Vehicle Market Shows Resilience in Q1 2025
 
