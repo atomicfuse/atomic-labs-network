@@ -1,27 +1,36 @@
 ---
-title: "Home Editor Shares Top Free Hobby for Design Inspiration"
-description: "Decorating a home on a budget is possible with creativity and resourcefulness. Simple changes like rearranging furniture, using paint, and incorporating thrifted decor can transform your space while reflecting your unique style."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:05:35+00:00"
-author: "Taylor Winters"
+title: Home Editor Shares Top Free Hobby for Design Inspiration
+description: >-
+  Decorating a home on a budget is possible with creativity and resourcefulness.
+  Simple changes like rearranging furniture, using paint, and incorporating
+  thrifted decor can transform your space while reflecting your unique style.
+type: standard
+status: review
+publishDate: '2025-06-19T04:05:35+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "DIY"
-  - "Home"
-slug: "home-editor-shares-top-free-hobby-for-design-inspiration"
+  - Decor Ideas
+  - Design
+  - DIY
+  - Home
+slug: home-editor-shares-top-free-hobby-for-design-inspiration
 reading_time: 3
-source_url: "https://decoratingtricks.com/home-editor-shares-top-free-hobby-for-design-inspiration/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/home-editor-shares-top-free-hobby-for-design-inspiration/
+imported_from: wordpress
 wp_original_id: 21428
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/home-editor-shares-top-free-hobby-for-design-inspiration.webp
 seo:
-  canonical: "https://decoratingtricks.com/home-editor-shares-top-free-hobby-for-design-inspiration/"
-  og_title: "Home Editor Shares Top Free Hobby for Design Inspiration - Decorating Tricks"
-  og_description: "Decorating a home on a budget is possible with creativity and resourcefulness. Simple changes like rearranging furniture, using paint, and incorporating thrifted decor can transform your space. Embrace minimalism and personalize your home to reflect your unique style."
-  og_image: "https://decoratingtricks.com/wp-content/uploads/2025/06/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/home-editor-shares-top-free-hobby-for-design-inspiration/
+  og_title: Home Editor Shares Top Free Hobby for Design Inspiration - Decorating Tricks
+  og_description: >-
+    Decorating a home on a budget is possible with creativity and
+    resourcefulness. Simple changes like rearranging furniture, using paint, and
+    incorporating thrifted decor can transform your space. Embrace minimalism
+    and personalize your home to reflect your unique style.
+  og_image: 'https://decoratingtricks.com/wp-content/uploads/2025/06/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 45
@@ -29,7 +38,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant content, but significantly hindered by poor SEO optimization and being too short at only 430 words."
+quality_note: >-
+  Well-written article with good tone and relevant content, but significantly
+  hindered by poor SEO optimization and being too short at only 430 words.
+image_alt: >-
+  Sunlit budget-friendly living room with thrifted decor, plants, and a person
+  rearranging a vintage chair
 ---
 
 Decorating a home can often feel like a daunting task, especially when faced with budget constraints. However, there are numerous creative and cost-effective ways to transform your living space without breaking the bank. Leveraging one's creativity and resourcefulness can lead to unique and personalized designs that reflect your style.
