@@ -1,26 +1,38 @@
 ---
-title: "Philadelphia Tops 2026 Travel List for Food and Drink"
-description: "Philadelphia offers a unique blend of history, culture, and modern attractions, drawing global travelers with its iconic landmarks, diverse culinary scene, vibrant arts, and outdoor adventures. The city ensures memorable experiences for history buffs, foodies, art lovers, and families alike."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T10:58:47+00:00"
-author: "Malcolm Anderson"
+title: Philadelphia Tops 2026 Travel List for Food and Drink
+description: >-
+  Philadelphia offers a unique blend of history, culture, and modern
+  attractions, drawing global travelers with its iconic landmarks, diverse
+  culinary scene, vibrant arts, and outdoor adventures. The city ensures
+  memorable experiences for history buffs, foodies, art lovers, and families
+  alike.
+type: standard
+status: published
+publishDate: '2025-12-11T10:58:47+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Destinations"
-  - "Food"
-slug: "philadelphia-tops-2026-travel-list-for-food-and-drink"
+  - Culture
+  - Destinations
+  - Food
+slug: philadelphia-tops-2026-travel-list-for-food-and-drink
 reading_time: 3
-source_url: "https://travelnights.com/philadelphia-tops-2026-travel-list-for-food-and-drink/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/philadelphia-tops-2026-travel-list-for-food-and-drink/
+imported_from: wordpress
 wp_original_id: 36650
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/philadelphia-tops-2026-travel-list-for-food-and-drink.webp
 seo:
-  canonical: "https://travelnights.com/philadelphia-tops-2026-travel-list-for-food-and-drink/"
-  og_title: "Philadelphia Tops 2026 Travel List for Food and Drink - Travel Nights"
-  og_description: "Philadelphia offers a unique blend of history, culture, and modern attractions, drawing global travelers with its iconic landmarks, diverse culinary scene, vibrant arts, and outdoor adventures. The city ensures memorable experiences for history buffs, foodies, art lovers, and families alike."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/philadelphia-tops-2026-travel-list-for-food-and-drink/
+  og_title: Philadelphia Tops 2026 Travel List for Food and Drink - Travel Nights
+  og_description: >-
+    Philadelphia offers a unique blend of history, culture, and modern
+    attractions, drawing global travelers with its iconic landmarks, diverse
+    culinary scene, vibrant arts, and outdoor adventures. The city ensures
+    memorable experiences for history buffs, foodies, art lovers, and families
+    alike.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 65
@@ -28,7 +40,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with strong tone and keyword relevance, but significantly too short at 457 words compared to the 800-1200 target range."
+quality_note: >-
+  Well-written article with strong tone and keyword relevance, but significantly
+  too short at 457 words compared to the 800-1200 target range.
+image_alt: >-
+  Golden-hour Philadelphia rooftop dining scene with cocktails, small plates,
+  and historic city architecture
 ---
 
 Philadelphia has emerged as a standout destination for travelers seeking a blend of history, culture, and modern attractions. Recognized as one of the top 50 places to visit, the city's unique appeal draws visitors from around the globe, offering an abundance of experiences for all types of travelers.
