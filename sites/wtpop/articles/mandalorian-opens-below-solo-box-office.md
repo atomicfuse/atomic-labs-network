@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://screencrush.com/mandalorian-vs-solo-box-office/'
 source_item_id: 6a151f7216f23264031d8104
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/mandalorian-opens-below-solo-box-office.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   contains major factual errors as The Mandalorian is a streaming series, not a
   theatrical film.
 reading_time: 3
+image_alt: >-
+  A worn sci-fi helmet sits in a nearly empty theater under moody projector
+  light.
 ---
 ## Star Wars Faces Another Box Office Challenge
 
