@@ -1,24 +1,32 @@
 ---
-title: "Real Housewives of Miami: Dramatic Plane Recap"
-description: "\"The Real Housewives of Miami\" captivates with high drama and personal revelations. In the latest episode, tensions rise amid the glamour, showcasing friendship, rivalry, and significant confrontations that lead to unexpected alliances and new tensions among the cast."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T05:29:30+00:00"
-author: "Becca Roberts"
+title: 'Real Housewives of Miami: Dramatic Plane Recap'
+description: >-
+  "The Real Housewives of Miami" captivates with high drama and personal
+  revelations. In the latest episode, tensions rise amid the glamour, showcasing
+  friendship, rivalry, and significant confrontations that lead to unexpected
+  alliances and new tensions among the cast.
+type: standard
+status: review
+publishDate: '2025-08-14T05:29:30+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "real-housewives-of-miami-dramatic-plane-recap"
+  - Watch
+slug: real-housewives-of-miami-dramatic-plane-recap
 reading_time: 3
-source_url: "https://buzzsoaps.com/real-housewives-of-miami-dramatic-plane-recap/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/real-housewives-of-miami-dramatic-plane-recap/'
+imported_from: wordpress
 wp_original_id: 465
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/real-housewives-of-miami-dramatic-plane-recap.webp
 seo:
-  canonical: "https://buzzsoaps.com/real-housewives-of-miami-dramatic-plane-recap/"
-  og_title: "Real Housewives of Miami: Dramatic Plane Recap - BuzzSoaps!"
-  og_description: "\"The Real Housewives of Miami\" captivates with high drama and personal revelations. In the latest episode, tensions rise amid the glamour, showcasing friendship, rivalry, and significant confrontations that lead to unexpected alliances and new tensions among the cast."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/08/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/real-housewives-of-miami-dramatic-plane-recap/'
+  og_title: 'Real Housewives of Miami: Dramatic Plane Recap - BuzzSoaps!'
+  og_description: >-
+    "The Real Housewives of Miami" captivates with high drama and personal
+    revelations. In the latest episode, tensions rise amid the glamour,
+    showcasing friendship, rivalry, and significant confrontations that lead to
+    unexpected alliances and new tensions among the cast.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/08/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 75
-quality_note: "Well-written entertainment content with engaging tone but falls short on length requirements and lacks specific episode details for optimal SEO impact."
+quality_note: >-
+  Well-written entertainment content with engaging tone but falls short on
+  length requirements and lacks specific episode details for optimal SEO impact.
+image_alt: >-
+  Luxurious private jet cabin with champagne and stormy Miami skyline suggesting
+  glamorous tension.
 ---
 
 The vibrant city of Miami once again becomes the stage for high drama, emotional confrontations, and personal revelations as "The Real Housewives of Miami" continues to captivate audiences. In the latest episode of this addictive series, tensions rise amid the glamour and sun-drenched backdrop, providing fans with their much-anticipated dose of excitement and intrigue.
