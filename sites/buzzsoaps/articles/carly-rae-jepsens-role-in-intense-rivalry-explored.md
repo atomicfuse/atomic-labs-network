@@ -1,25 +1,32 @@
 ---
-title: "Carly Rae Jepsen’s Role in Intense Rivalry Explored"
-description: "Carly Rae Jepsen, known for her infectious pop hits, is venturing into acting with a significant role in a popular TV series, showcasing her versatility beyond music and marking an exciting new phase in her entertainment career."
-type: "standard"
-status: "review"
-publishDate: "2026-01-01T10:33:17+00:00"
-author: "Becca Roberts"
+title: Carly Rae Jepsen’s Role in Intense Rivalry Explored
+description: >-
+  Carly Rae Jepsen, known for her infectious pop hits, is venturing into acting
+  with a significant role in a popular TV series, showcasing her versatility
+  beyond music and marking an exciting new phase in her entertainment career.
+type: standard
+status: review
+publishDate: '2026-01-01T10:33:17+00:00'
+author: Becca Roberts
 tags:
-  - "Culture Buzz"
-  - "Watch"
-slug: "carly-rae-jepsens-role-in-intense-rivalry-explored"
+  - Culture Buzz
+  - Watch
+slug: carly-rae-jepsens-role-in-intense-rivalry-explored
 reading_time: 3
-source_url: "https://buzzsoaps.com/carly-rae-jepsens-role-in-intense-rivalry-explored/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/carly-rae-jepsens-role-in-intense-rivalry-explored/'
+imported_from: wordpress
 wp_original_id: 523
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/carly-rae-jepsens-role-in-intense-rivalry-explored.webp
 seo:
-  canonical: "https://buzzsoaps.com/carly-rae-jepsens-role-in-intense-rivalry-explored/"
-  og_title: "Carly Rae Jepsen's Role in Intense Rivalry Explored - BuzzSoaps!"
-  og_description: "Carly Rae Jepsen, known for her infectious pop hits, is venturing into acting with a significant role in a popular TV series, showcasing her versatility beyond music and marking an exciting new phase in her entertainment career."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/carly-rae-jepsens-role-in-intense-rivalry-explored/'
+  og_title: Carly Rae Jepsen's Role in Intense Rivalry Explored - BuzzSoaps!
+  og_description: >-
+    Carly Rae Jepsen, known for her infectious pop hits, is venturing into
+    acting with a significant role in a popular TV series, showcasing her
+    versatility beyond music and marking an exciting new phase in her
+    entertainment career.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -27,7 +34,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "The article maintains an engaging tone and covers relevant topics, but suffers from vague, unsubstantiated claims about Jepsen's acting career and lacks specific SEO optimization elements."
+quality_note: >-
+  The article maintains an engaging tone and covers relevant topics, but suffers
+  from vague, unsubstantiated claims about Jepsen's acting career and lacks
+  specific SEO optimization elements.
+image_alt: >-
+  Pop performer steps from a concert stage into a dramatic TV set under rival
+  spotlights.
 ---
 
 Carly Rae Jepsen, the pop sensation known for her infectious hits, is making headlines once again. This time, she is stepping into the world of acting with a unique role that promises to showcase her versatility beyond music. As she joins the cast of a popular TV series, fans are eager to see how she will bring her character to life and what this means for her burgeoning career as an entertainer.
