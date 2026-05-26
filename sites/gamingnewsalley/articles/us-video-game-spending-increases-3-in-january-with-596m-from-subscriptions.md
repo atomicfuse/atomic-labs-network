@@ -1,25 +1,38 @@
 ---
-title: "US Video Game Spending Increases 3% in January with $596M from Subscriptions"
-description: "In January, the U.S. video game industry saw a rise in consumer spending, driven by the success of subscription services. This shift highlights the dominance of digital consumption, with platforms like Xbox Game Pass and PlayStation Plus leading the change."
-type: "standard"
-status: "review"
-publishDate: "2026-02-23T09:43:22+00:00"
-author: "Taylor Winters"
+title: US Video Game Spending Increases 3% in January with $596M from Subscriptions
+description: >-
+  In January, the U.S. video game industry saw a rise in consumer spending,
+  driven by the success of subscription services. This shift highlights the
+  dominance of digital consumption, with platforms like Xbox Game Pass and
+  PlayStation Plus leading the change.
+type: standard
+status: review
+publishDate: '2026-02-23T09:43:22+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "us-video-game-spending-increases-3-in-january-with-596m-from-subscriptions"
+  - Gaming News
+  - Community
+slug: us-video-game-spending-increases-3-in-january-with-596m-from-subscriptions
 reading_time: 3
-source_url: "https://gamingnewsalley.com/us-video-game-spending-increases-3-in-january-with-596m-from-subscriptions/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/us-video-game-spending-increases-3-in-january-with-596m-from-subscriptions/
+imported_from: wordpress
 wp_original_id: 42613
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/us-video-game-spending-increases-3-in-january-with-596m-from-subscriptions.webp
 seo:
-  canonical: "https://gamingnewsalley.com/us-video-game-spending-increases-3-in-january-with-596m-from-subscriptions/"
-  og_title: "US Video Game Spending Increases 3% in January with $596M from Subscriptions - Gaming News Alley"
-  og_description: "In January, the U.S. video game industry saw a rise in consumer spending, driven by the success of subscription services. This shift highlights the dominance of digital consumption, with platforms like Xbox Game Pass and PlayStation Plus leading the change."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/us-video-game-spending-increases-3-in-january-with-596m-from-subscriptions/
+  og_title: >-
+    US Video Game Spending Increases 3% in January with $596M from Subscriptions
+    - Gaming News Alley
+  og_description: >-
+    In January, the U.S. video game industry saw a rise in consumer spending,
+    driven by the success of subscription services. This shift highlights the
+    dominance of digital consumption, with platforms like Xbox Game Pass and
+    PlayStation Plus leading the change.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/02/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly under target length at 453 words, and the specific $596M subscription figure lacks context or sourcing verification."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target length at 453
+  words, and the specific $596M subscription figure lacks context or sourcing
+  verification.
+image_alt: >-
+  Gaming controller with glowing digital subscription tiles and rising abstract
+  data arcs
 ---
 
 In January, the video game industry in the United States experienced a notable increase in consumer spending. This growth was largely fueled by the popularity of subscription services, surpassing previous expectations. The uptick in spending highlights the evolving landscape of the gaming market, where digital experiences are becoming increasingly dominant.
