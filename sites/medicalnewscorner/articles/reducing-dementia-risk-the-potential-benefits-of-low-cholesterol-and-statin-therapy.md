@@ -1,27 +1,43 @@
 ---
-title: "Reducing Dementia Risk: The Potential Benefits of Low Cholesterol and Statin Therapy"
-description: "Recent medical research suggests that managing cholesterol levels could be a key step towards reducing the risk of dementia, revealing a strong correlation between low LDL cholesterol and a decreased risk of cognitive decline, and emphasizing the intertwined nature of heart and brain health."
-type: "standard"
-status: "published"
-publishDate: "2025-04-03T04:16:30+00:00"
-author: "Taylor Winters"
+title: >-
+  Reducing Dementia Risk: The Potential Benefits of Low Cholesterol and Statin
+  Therapy
+description: >-
+  Recent medical research suggests that managing cholesterol levels could be a
+  key step towards reducing the risk of dementia, revealing a strong correlation
+  between low LDL cholesterol and a decreased risk of cognitive decline, and
+  emphasizing the intertwined nature of heart and brain health.
+type: standard
+status: published
+publishDate: '2025-04-03T04:16:30+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Aging"
-  - "Clinical Trials &amp; Research"
-  - "Health, Fitness &amp; Food"
-slug: "reducing-dementia-risk-the-potential-benefits-of-low-cholesterol-and-statin-therapy"
+  - Research
+  - Aging
+  - Clinical Trials &amp; Research
+  - 'Health, Fitness &amp; Food'
+slug: >-
+  reducing-dementia-risk-the-potential-benefits-of-low-cholesterol-and-statin-therapy
 reading_time: 2
-source_url: "https://medicalnewscorner.com/reducing-dementia-risk-the-potential-benefits-of-low-cholesterol-and-statin-therapy/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/reducing-dementia-risk-the-potential-benefits-of-low-cholesterol-and-statin-therapy/
+imported_from: wordpress
 wp_original_id: 24598
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/reducing-dementia-risk-the-potential-benefits-of-low-cholesterol-and-statin-therapy.webp
 seo:
-  canonical: "https://medicalnewscorner.com/reducing-dementia-risk-the-potential-benefits-of-low-cholesterol-and-statin-therapy/"
-  og_title: "Reducing Dementia Risk: The Potential Benefits of Low Cholesterol and Statin Therapy - Medical News Corner"
-  og_description: "Recent medical research suggests that managing cholesterol levels could be a key step towards reducing the risk of dementia. The study reveals a strong correlation between low cholesterol and a decreased risk of developing dementia, emphasizing the intertwined nature of heart and brain health."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/reducing-dementia-risk-the-potential-benefits-of-low-cholesterol-and-statin-therapy/
+  og_title: >-
+    Reducing Dementia Risk: The Potential Benefits of Low Cholesterol and Statin
+    Therapy - Medical News Corner
+  og_description: >-
+    Recent medical research suggests that managing cholesterol levels could be a
+    key step towards reducing the risk of dementia. The study reveals a strong
+    correlation between low cholesterol and a decreased risk of developing
+    dementia, emphasizing the intertwined nature of heart and brain health.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -29,7 +45,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong topic relevance and tone but significantly under target word count at 389 words, which severely impacts content depth and SEO value."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target word count at
+  389 words, which severely impacts content depth and SEO value.
+image_alt: >-
+  Heart and brain forms connected by a soft ribbon beside wellness items in warm
+  morning light.
 ---
 
 Looking after your cholesterol levels may be a significant step towards reducing your risk of dementia, according to recent medical research. This is a critical health insight, as dementia is a growing concern globally.
