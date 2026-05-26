@@ -1,24 +1,32 @@
 ---
-title: "Debunking 6 Diet Myths You Shouldn’t Believe"
-description: "Pizza, a global culinary favorite, evolved from humble flatbread origins in Naples to worldwide fame. Its versatility and adaptability allow it to continuously reinvent itself, bringing people together through diverse flavors and shared meals in the modern digital age."
-type: "standard"
-status: "review"
-publishDate: "2026-03-23T10:29:28+00:00"
-author: "Taylor Winters"
+title: Debunking 6 Diet Myths You Shouldn’t Believe
+description: >-
+  Pizza, a global culinary favorite, evolved from humble flatbread origins in
+  Naples to worldwide fame. Its versatility and adaptability allow it to
+  continuously reinvent itself, bringing people together through diverse flavors
+  and shared meals in the modern digital age.
+type: standard
+status: review
+publishDate: '2026-03-23T10:29:28+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-slug: "debunking-6-diet-myths-you-shouldnt-believe"
+  - Healthy Recipes
+slug: debunking-6-diet-myths-you-shouldnt-believe
 reading_time: 3
-source_url: "https://eznutritiontips.com/debunking-6-diet-myths-you-shouldnt-believe/"
-imported_from: "wordpress"
+source_url: 'https://eznutritiontips.com/debunking-6-diet-myths-you-shouldnt-believe/'
+imported_from: wordpress
 wp_original_id: 19013
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/debunking-6-diet-myths-you-shouldnt-believe.webp
 seo:
-  canonical: "https://eznutritiontips.com/debunking-6-diet-myths-you-shouldnt-believe/"
-  og_title: "Debunking 6 Diet Myths You Shouldn't Believe - Easy Nutrition Tips"
-  og_description: "Pizza, a global culinary favorite, evolved from humble flatbread origins in Naples to worldwide fame. Its versatility and adaptability allow it to continuously reinvent itself, bringing people together through diverse flavors and shared meals in the modern digital age."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://eznutritiontips.com/debunking-6-diet-myths-you-shouldnt-believe/'
+  og_title: Debunking 6 Diet Myths You Shouldn't Believe - Easy Nutrition Tips
+  og_description: >-
+    Pizza, a global culinary favorite, evolved from humble flatbread origins in
+    Naples to worldwide fame. Its versatility and adaptability allow it to
+    continuously reinvent itself, bringing people together through diverse
+    flavors and shared meals in the modern digital age.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/03/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article has a major mismatch between the title about diet myths and content about pizza history, with poor SEO optimization and minimal relevance to nutrition topics."
+quality_note: >-
+  The article has a major mismatch between the title about diet myths and
+  content about pizza history, with poor SEO optimization and minimal relevance
+  to nutrition topics.
+image_alt: >-
+  Balanced meal scene with pizza, fresh produce, and symbolic torn paper shapes
+  on a bright dining table
 ---
 
 Pizza has become a beloved staple in cuisines worldwide, celebrated for its versatility and deliciousness. Whether you prefer a classic Margherita or an adventurous gourmet topping, pizza offers something for everyone. The journey of this dish from its humble origins to its global fame is a fascinating tale of culinary evolution.
