@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-exploring-unique-winemaking-techniques-in-argentinas-patagonia
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/exploring-unique-winemaking-techniques-in-argentinas-patagonia.webp
 reading_time: 3
 quality_score: 67
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Well-structured wine news article with good keyword coverage but significantly
   under target word count and lacks specific details about the winemaking
   techniques mentioned.
+image_alt: >-
+  Patagonian vineyard with wine glasses, grapes, and fermentation vessels
+  beneath distant snowy mountains
 ---
 ## A New Frontier in Argentine Winemaking
 
