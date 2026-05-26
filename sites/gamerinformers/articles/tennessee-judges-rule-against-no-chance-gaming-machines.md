@@ -1,24 +1,34 @@
 ---
-title: "Tennessee Judges Rule Against ‘No Chance’ Gaming Machines"
-description: "Tennessee judges ruled that \"no chance\" gaming machines do not violate state gambling laws, sparking debate about gaming regulations. These machines, which offer non-monetary rewards, have been controversial under Tennessee's strict gambling statutes, prompting discussions on future legal adjustments."
-type: "standard"
-status: "review"
-publishDate: "2025-07-17T04:23:26+00:00"
-author: "Taylor Winters"
+title: Tennessee Judges Rule Against ‘No Chance’ Gaming Machines
+description: >-
+  Tennessee judges ruled that "no chance" gaming machines do not violate state
+  gambling laws, sparking debate about gaming regulations. These machines, which
+  offer non-monetary rewards, have been controversial under Tennessee's strict
+  gambling statutes, prompting discussions on future legal adjustments.
+type: standard
+status: review
+publishDate: '2025-07-17T04:23:26+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "tennessee-judges-rule-against-no-chance-gaming-machines"
+  - Gaming News
+  - Community
+slug: tennessee-judges-rule-against-no-chance-gaming-machines
 reading_time: 3
-source_url: "https://gamerinformers.com/tennessee-judges-rule-against-no-chance-gaming-machines/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamerinformers.com/tennessee-judges-rule-against-no-chance-gaming-machines/
+imported_from: wordpress
 wp_original_id: 34040
-featuredImage: "/assets/images/gamerinformers-general-article.webp"
+featuredImage: /assets/images/tennessee-judges-rule-against-no-chance-gaming-machines.webp
 seo:
-  canonical: "https://gamerinformers.com/tennessee-judges-rule-against-no-chance-gaming-machines/"
-  og_title: "Tennessee Judges Rule Against 'No Chance' Gaming Machines - Gamer Informers"
-  og_description: "Tennessee judges ruled that \"no chance\" gaming machines do not violate state gambling laws, sparking debate about gaming regulations. These machines, which offer non-monetary rewards, have been controversial under Tennessee's strict gambling statutes, prompting discussions on future legal adjustments."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamerinformers.com/tennessee-judges-rule-against-no-chance-gaming-machines/
+  og_title: Tennessee Judges Rule Against 'No Chance' Gaming Machines - Gamer Informers
+  og_description: >-
+    Tennessee judges ruled that "no chance" gaming machines do not violate state
+    gambling laws, sparking debate about gaming regulations. These machines,
+    which offer non-monetary rewards, have been controversial under Tennessee's
+    strict gambling statutes, prompting discussions on future legal adjustments.
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 40
-quality_note: "The article has decent SEO structure and tone but falls significantly short on content length (507 words vs 800-1200 target) and lacks focus on core gaming topics, reading more like legal news than gaming content."
+quality_note: >-
+  The article has decent SEO structure and tone but falls significantly short on
+  content length (507 words vs 800-1200 target) and lacks focus on core gaming
+  topics, reading more like legal news than gaming content.
+image_alt: >-
+  Unbranded gaming machines near courthouse columns with scales of justice and
+  blank tokens.
 ---
 
 In a significant legal development, Tennessee judges have ruled that certain gaming devices, specifically those marketed as "no chance" machines, do not breach state gambling laws. This ruling has sparked discussion and debate about the implications for the state's gambling landscape, reflecting broader national conversations about gaming regulations.
