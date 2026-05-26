@@ -1,24 +1,37 @@
 ---
-title: "Trump Fundraisers Sought Microsoft’s White House Ballroom Donation"
-description: "The White House ballroom's renovation, funded by Microsoft and Amazon, highlights the growing collaboration between technology and government, demonstrating the potential of public-private efforts to enhance public infrastructure and modernize iconic venues for future events."
-type: "standard"
-status: "review"
-publishDate: "2026-01-12T10:17:27+00:00"
-author: "Arthur Daly"
+title: Trump Fundraisers Sought Microsoft’s White House Ballroom Donation
+description: >-
+  The White House ballroom's renovation, funded by Microsoft and Amazon,
+  highlights the growing collaboration between technology and government,
+  demonstrating the potential of public-private efforts to enhance public
+  infrastructure and modernize iconic venues for future events.
+type: standard
+status: review
+publishDate: '2026-01-12T10:17:27+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "trump-fundraisers-sought-microsofts-white-house-ballroom-donation"
+  - Tech
+slug: trump-fundraisers-sought-microsofts-white-house-ballroom-donation
 reading_time: 3
-source_url: "https://geekystudios.com/trump-fundraisers-sought-microsofts-white-house-ballroom-donation/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/trump-fundraisers-sought-microsofts-white-house-ballroom-donation/
+imported_from: wordpress
 wp_original_id: 686
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/trump-fundraisers-sought-microsofts-white-house-ballroom-donation.webp
 seo:
-  canonical: "https://geekystudios.com/trump-fundraisers-sought-microsofts-white-house-ballroom-donation/"
-  og_title: "Trump Fundraisers Sought Microsoft's White House Ballroom Donation - Geeky Studios"
-  og_description: "The White House ballroom's renovation, funded by Microsoft and Amazon, highlights the growing collaboration between technology and government. This partnership demonstrates the potential of public-private efforts to enhance public infrastructure and modernize iconic venues for future events."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/trump-fundraisers-sought-microsofts-white-house-ballroom-donation/
+  og_title: >-
+    Trump Fundraisers Sought Microsoft's White House Ballroom Donation - Geeky
+    Studios
+  og_description: >-
+    The White House ballroom's renovation, funded by Microsoft and Amazon,
+    highlights the growing collaboration between technology and government. This
+    partnership demonstrates the potential of public-private efforts to enhance
+    public infrastructure and modernize iconic venues for future events.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 55
 score_breakdown:
   seo_quality: 65
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "The article has major factual accuracy issues with unverifiable claims about Microsoft and Amazon funding White House renovations, and falls well short of the target word count."
+quality_note: >-
+  The article has major factual accuracy issues with unverifiable claims about
+  Microsoft and Amazon funding White House renovations, and falls well short of
+  the target word count.
+image_alt: >-
+  Historic government ballroom under renovation with subtle digital overlays
+  suggesting tech collaboration
 ---
 
 The prestigious White House ballroom, a venue known for hosting significant events, recently received a major upgrade. This renovation was made possible through the generous contributions of leading tech giants, Microsoft and Amazon. Their involvement underscores the growing intersection between technology and government infrastructure.
