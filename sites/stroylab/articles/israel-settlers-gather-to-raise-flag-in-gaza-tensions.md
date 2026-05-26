@@ -1,24 +1,34 @@
 ---
-title: "Israel Settlers Gather to Raise Flag in Gaza Tensions"
-description: "International organizations like the WHO play a crucial role in global health, guiding national responses and setting standards. Balancing global collaboration with national sovereignty is essential, as countries navigate health emergencies with tailored strategies that respect local needs and international goals."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:27:28+00:00"
-author: "Blake Anderson"
+title: Israel Settlers Gather to Raise Flag in Gaza Tensions
+description: >-
+  International organizations like the WHO play a crucial role in global health,
+  guiding national responses and setting standards. Balancing global
+  collaboration with national sovereignty is essential, as countries navigate
+  health emergencies with tailored strategies that respect local needs and
+  international goals.
+type: standard
+status: review
+publishDate: '2025-12-22T11:27:28+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "israel-settlers-gather-to-raise-flag-in-gaza-tensions"
+  - Deep Dives
+slug: israel-settlers-gather-to-raise-flag-in-gaza-tensions
 reading_time: 3
-source_url: "https://stroylab.com/israel-settlers-gather-to-raise-flag-in-gaza-tensions/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/israel-settlers-gather-to-raise-flag-in-gaza-tensions/'
+imported_from: wordpress
 wp_original_id: 669
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/israel-settlers-gather-to-raise-flag-in-gaza-tensions.webp
 seo:
-  canonical: "https://stroylab.com/israel-settlers-gather-to-raise-flag-in-gaza-tensions/"
-  og_title: "Israel Settlers Gather to Raise Flag in Gaza Tensions - StroyLab"
-  og_description: "International organizations like the WHO play a crucial role in global health, guiding national responses and setting standards. Balancing global collaboration with national sovereignty is essential, as countries navigate health emergencies with tailored strategies that respect local needs and international goals."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-184.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/israel-settlers-gather-to-raise-flag-in-gaza-tensions/'
+  og_title: Israel Settlers Gather to Raise Flag in Gaza Tensions - StroyLab
+  og_description: >-
+    International organizations like the WHO play a crucial role in global
+    health, guiding national responses and setting standards. Balancing global
+    collaboration with national sovereignty is essential, as countries navigate
+    health emergencies with tailored strategies that respect local needs and
+    international goals.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-184.jpeg'
+  twitter_card: summary_large_image
 quality_score: 48
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,11 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article completely mismatches the site's focus on sensitive topics like conspiracies and mysteries, instead covering generic WHO health policy content with poor SEO optimization."
+quality_note: >-
+  The article completely mismatches the site's focus on sensitive topics like
+  conspiracies and mysteries, instead covering generic WHO health policy content
+  with poor SEO optimization.
+image_alt: Crowd gathered on a dusty hilltop near a distant border fence at dusk
 ---
 
 International organizations like the World Health Organization (WHO) are pivotal in setting health standards and coordinating responses to global health threats. Their guidelines are designed to protect populations and prevent the spread of diseases across borders. However, the influence of these organizations can sometimes spark debates over national sovereignty, especially when it comes to implementing health policies.
