@@ -1,24 +1,32 @@
 ---
-title: "Survivor Season 50 Episode 4 Recap: Zac’s Dramatic Move"
-description: "Survivor Season 50 Episode 4 delivers dramatic twists and strategic gameplay as contestants forge new alliances, face grueling challenges, and navigate the emotional and psychological toll of the game."
-type: "standard"
-status: "review"
-publishDate: "2026-03-19T11:47:25+00:00"
-author: "Becca Roberts"
+title: 'Survivor Season 50 Episode 4 Recap: Zac’s Dramatic Move'
+description: >-
+  Survivor Season 50 Episode 4 delivers dramatic twists and strategic gameplay
+  as contestants forge new alliances, face grueling challenges, and navigate the
+  emotional and psychological toll of the game.
+type: standard
+status: review
+publishDate: '2026-03-19T11:47:25+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "survivor-season-50-episode-4-recap-zacs-dramatic-move"
+  - Watch
+slug: survivor-season-50-episode-4-recap-zacs-dramatic-move
 reading_time: 2
-source_url: "https://buzzsoaps.com/survivor-season-50-episode-4-recap-zacs-dramatic-move/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/survivor-season-50-episode-4-recap-zacs-dramatic-move/'
+imported_from: wordpress
 wp_original_id: 577
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/survivor-season-50-episode-4-recap-zacs-dramatic-move.webp
 seo:
-  canonical: "https://buzzsoaps.com/survivor-season-50-episode-4-recap-zacs-dramatic-move/"
-  og_title: "Survivor Season 50 Episode 4 Recap: Zac's Dramatic Move - BuzzSoaps!"
-  og_description: "Survivor's latest season captivates with intense challenges and strategic gameplay. Contestants navigate alliances and rivalries, battling the elements. Dramatic twists and emotional hurdles add depth, making it more than just a game. Unpredictability keeps viewers eagerly anticipating the next twist."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/03/make_file-11.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/survivor-season-50-episode-4-recap-zacs-dramatic-move/'
+  og_title: 'Survivor Season 50 Episode 4 Recap: Zac''s Dramatic Move - BuzzSoaps!'
+  og_description: >-
+    Survivor's latest season captivates with intense challenges and strategic
+    gameplay. Contestants navigate alliances and rivalries, battling the
+    elements. Dramatic twists and emotional hurdles add depth, making it more
+    than just a game. Unpredictability keeps viewers eagerly anticipating the
+    next twist.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/03/make_file-11.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: "Article has good tone and keyword alignment but is significantly too short, lacks specific episode details promised in title, and has weak SEO optimization with generic headings."
+quality_note: >-
+  Article has good tone and keyword alignment but is significantly too short,
+  lacks specific episode details promised in title, and has weak SEO
+  optimization with generic headings.
+image_alt: >-
+  Tense silhouettes gather around a beach fire as a hand reaches toward a wooden
+  game token.
 ---
 
 Survivor, the long-running reality competition, continues to captivate audiences with its intense challenges and strategic gameplay. As the latest season unfolds, contestants navigate the complexities of alliances and rivalries, all while battling the elements. The recent episode offered a dramatic blend of strategy and surprise, setting the stage for future developments.
