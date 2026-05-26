@@ -1,25 +1,35 @@
 ---
-title: "From Canvas to Console: Apex Legends Artist’s Journey"
-description: "Transitioning from traditional art to digital art in video game design showcases personal growth and highlights the evolving landscape of art. An artist's journey from physical paints to digital tools emphasizes adaptability and innovation in the creative process."
-type: "standard"
-status: "review"
-publishDate: "2026-03-23T09:45:33+00:00"
-author: "Taylor Winters"
+title: 'From Canvas to Console: Apex Legends Artist’s Journey'
+description: >-
+  Transitioning from traditional art to digital art in video game design
+  showcases personal growth and highlights the evolving landscape of art. An
+  artist's journey from physical paints to digital tools emphasizes adaptability
+  and innovation in the creative process.
+type: standard
+status: review
+publishDate: '2026-03-23T09:45:33+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "concept-art"
-slug: "from-canvas-to-console-apex-legends-artists-journey"
+  - Gaming News
+  - concept-art
+slug: from-canvas-to-console-apex-legends-artists-journey
 reading_time: 4
-source_url: "https://gamingnewsalley.com/from-canvas-to-console-apex-legends-artists-journey/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/from-canvas-to-console-apex-legends-artists-journey/
+imported_from: wordpress
 wp_original_id: 42632
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/from-canvas-to-console-apex-legends-artists-journey.webp
 seo:
-  canonical: "https://gamingnewsalley.com/from-canvas-to-console-apex-legends-artists-journey/"
-  og_title: "From Canvas to Console: Apex Legends Artist's Journey - Gaming News Alley"
-  og_description: "Transitioning from traditional art to digital art in video game design showcases personal growth and highlights the evolving landscape of art. An artist's journey from physical paints to digital tools emphasizes adaptability and innovation in the creative process."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2026/03/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/from-canvas-to-console-apex-legends-artists-journey/
+  og_title: 'From Canvas to Console: Apex Legends Artist''s Journey - Gaming News Alley'
+  og_description: >-
+    Transitioning from traditional art to digital art in video game design
+    showcases personal growth and highlights the evolving landscape of art. An
+    artist's journey from physical paints to digital tools emphasizes
+    adaptability and innovation in the creative process.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2026/03/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has a good tone and covers relevant gaming topics, but falls short on word count (607 vs target 800-1200) and lacks specific details that would strengthen SEO and engagement."
+quality_note: >-
+  The article has a good tone and covers relevant gaming topics, but falls short
+  on word count (607 vs target 800-1200) and lacks specific details that would
+  strengthen SEO and engagement.
+image_alt: >-
+  Artist studio where paint, canvas, and digital tools blend into glowing
+  game-inspired forms.
 ---
 
 Transitioning from traditional art to the digital realm can be a transformative journey, especially in the dynamic world of video game design. One artist made this leap with great success, going from working with physical paints to creating stunning visuals for popular video games. This journey not only highlights personal growth but also sheds light on the evolving landscape of art in the digital era.
