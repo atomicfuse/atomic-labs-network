@@ -1,24 +1,34 @@
 ---
-title: "Top 26 Expert-Recommended Travel Destinations for 2026"
-description: "In 2026, travelers can explore captivating destinations offering cultural richness, natural beauty, and urban excitement. From the vibrant cities of Kyoto and New York to the serene retreats of the Maldives, unforgettable experiences await every type of traveler."
-type: "standard"
-status: "published"
-publishDate: "2026-01-29T09:55:27+00:00"
-author: "Taylor Winters"
+title: Top 26 Expert-Recommended Travel Destinations for 2026
+description: >-
+  In 2026, travelers can explore captivating destinations offering cultural
+  richness, natural beauty, and urban excitement. From the vibrant cities of
+  Kyoto and New York to the serene retreats of the Maldives, unforgettable
+  experiences await every type of traveler.
+type: standard
+status: published
+publishDate: '2026-01-29T09:55:27+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "top-26-expert-recommended-travel-destinations-for-2026"
+  - Destinations
+  - Travel
+slug: top-26-expert-recommended-travel-destinations-for-2026
 reading_time: 3
-source_url: "https://journeypeaks.com/top-26-expert-recommended-travel-destinations-for-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://journeypeaks.com/top-26-expert-recommended-travel-destinations-for-2026/
+imported_from: wordpress
 wp_original_id: 38796
-featuredImage: "/assets/images/journeypeaks-general-article.webp"
+featuredImage: /assets/images/top-26-expert-recommended-travel-destinations-for-2026.webp
 seo:
-  canonical: "https://journeypeaks.com/top-26-expert-recommended-travel-destinations-for-2026/"
-  og_title: "Top 26 Expert-Recommended Travel Destinations for 2026 - Journey Peaks"
-  og_description: "In 2026, travelers can explore captivating destinations offering cultural richness, natural beauty, and urban excitement. From the vibrant cities of Kyoto and New York to the serene retreats of the Maldives, unforgettable experiences await every type of traveler."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://journeypeaks.com/top-26-expert-recommended-travel-destinations-for-2026/
+  og_title: Top 26 Expert-Recommended Travel Destinations for 2026 - Journey Peaks
+  og_description: >-
+    In 2026, travelers can explore captivating destinations offering cultural
+    richness, natural beauty, and urban excitement. From the vibrant cities of
+    Kyoto and New York to the serene retreats of the Maldives, unforgettable
+    experiences await every type of traveler.
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Strong tone and keyword relevance but significantly under target word count at only 424 words when 800-1200 is expected."
+quality_note: >-
+  Strong tone and keyword relevance but significantly under target word count at
+  only 424 words when 800-1200 is expected.
+image_alt: >-
+  Traveler overlooks a sunrise horizon blending city, coast, mountains, and
+  cultural architecture.
 ---
 
 As the world continues to open up for exploration, 2026 promises a wealth of destinations that captivate travelers with their unique offerings. From vibrant cities to tranquil retreats, experts have identified the top places to visit. These locations not only provide cultural richness but also offer diverse experiences for every type of traveler.
