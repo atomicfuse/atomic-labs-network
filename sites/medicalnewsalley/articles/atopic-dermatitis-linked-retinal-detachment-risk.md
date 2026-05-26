@@ -20,7 +20,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-atopic-dermatitis-linked-retinal-detachment.html
 source_item_id: 6a152d8216f23264031d81b2
 generated_by: claude
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: /assets/images/atopic-dermatitis-linked-retinal-detachment-risk.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 85
@@ -33,6 +33,9 @@ quality_note: >-
   but significantly under target word count at 550 words versus the 800-1200
   range.
 reading_time: 3
+image_alt: >-
+  Close-up of a calm eye with subtle skin texture and an abstract retinal
+  pattern reflected in the iris.
 ---
 ## Breaking Down the Eczema-Eye Connection
 
