@@ -1,27 +1,31 @@
 ---
-title: "Unveiling the Swarm: New Discoveries Behind 3I/ATLAS"
-description: "Recent studies reveal a fascinating swarm of objects accompanying the interstellar 3I/ATLAS, shedding light on its unusual teardrop glow."
-type: "standard"
-status: "review"
-publishDate: "2025-12-04T10:35:25+00:00"
-author: "Nico Harper"
+title: 'Unveiling the Swarm: New Discoveries Behind 3I/ATLAS'
+description: >-
+  Recent studies reveal a fascinating swarm of objects accompanying the
+  interstellar 3I/ATLAS, shedding light on its unusual teardrop glow.
+type: standard
+status: review
+publishDate: '2025-12-04T10:35:25+00:00'
+author: Nico Harper
 tags:
-  - "Internet Mysteries"
-slug: "unveiling-the-swarm-new-discoveries-behind-3i-atlas"
+  - Internet Mysteries
+slug: unveiling-the-swarm-new-discoveries-behind-3i-atlas
 reading_time: 2
-source_url: "https://gigsfreaks.com/unveiling-the-swarm-new-discoveries-behind-3i-atlas/"
-imported_from: "wordpress"
+source_url: 'https://gigsfreaks.com/unveiling-the-swarm-new-discoveries-behind-3i-atlas/'
+imported_from: wordpress
 wp_original_id: 984
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/unveiling-the-swarm-new-discoveries-behind-3i-atlas.webp
 seo:
-  canonical: "https://gigsfreaks.com/unveiling-the-swarm-new-discoveries-behind-3i-atlas/"
-  og_title: "Unveiling the Swarm: New Discoveries Behind 3I/ATLAS - GigsFreaks"
-  og_description: "Recent studies reveal a fascinating swarm of objects accompanying the interstellar 3I/ATLAS, shedding light on its unusual teardrop glow."
-  twitter_card: "summary_large_image"
+  canonical: 'https://gigsfreaks.com/unveiling-the-swarm-new-discoveries-behind-3i-atlas/'
+  og_title: 'Unveiling the Swarm: New Discoveries Behind 3I/ATLAS - GigsFreaks'
+  og_description: >-
+    Recent studies reveal a fascinating swarm of objects accompanying the
+    interstellar 3I/ATLAS, shedding light on its unusual teardrop glow.
+  twitter_card: summary_large_image
 videos:
-  - id: "51084e52"
-    url: "https://www.youtube.com/watch?v=piHTDswQUV0"
-    position: "after-paragraph-2"
+  - id: '51084e52'
+    url: 'https://www.youtube.com/watch?v=piHTDswQUV0'
+    position: after-paragraph-2
 quality_score: 44
 score_breakdown:
   seo_quality: 45
@@ -29,7 +33,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 20
   keyword_relevance: 70
-quality_note: "Article contains significant factual inaccuracies about a fictional interstellar object and is far too short at 260 words for the 800-1200 word target range."
+quality_note: >-
+  Article contains significant factual inaccuracies about a fictional
+  interstellar object and is far too short at 260 words for the 800-1200 word
+  target range.
+image_alt: >-
+  Interstellar object surrounded by glowing fragments forming a teardrop trail
+  in deep space
 ---
 
 The interstellar object 3I/ATLAS has captivated astronomers and space enthusiasts alike with its mysterious journey through our solar system. Recent observations have added an intriguing layer to this celestial puzzle: a swarm of objects trailing behind 3I/ATLAS.
