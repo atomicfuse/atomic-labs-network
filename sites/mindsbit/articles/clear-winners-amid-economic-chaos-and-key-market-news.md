@@ -1,26 +1,32 @@
 ---
-title: "Clear Winners Amid Economic Chaos and Key Market News"
-description: "Iran oil risks highlight the link between energy security, inflation and decarbonization, as sanctions, Gulf tensions and price volatility push governments and businesses to accelerate cleaner fuel alternatives."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T10:14:25+00:00"
-author: "Lena Ashwood"
+title: Clear Winners Amid Economic Chaos and Key Market News
+description: >-
+  Iran oil risks highlight the link between energy security, inflation and
+  decarbonization, as sanctions, Gulf tensions and price volatility push
+  governments and businesses to accelerate cleaner fuel alternatives.
+type: standard
+status: published
+publishDate: '2026-04-30T10:14:25+00:00'
+author: Lena Ashwood
 tags:
-  - "Finance"
-  - "Innovation"
-  - "Tech"
-slug: "clear-winners-amid-economic-chaos-and-key-market-news"
+  - Finance
+  - Innovation
+  - Tech
+slug: clear-winners-amid-economic-chaos-and-key-market-news
 reading_time: 7
-source_url: "https://mindsbit.com/clear-winners-amid-economic-chaos-and-key-market-news/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/clear-winners-amid-economic-chaos-and-key-market-news/'
+imported_from: wordpress
 wp_original_id: 506
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/clear-winners-amid-economic-chaos-and-key-market-news.webp
 seo:
-  canonical: "https://mindsbit.com/clear-winners-amid-economic-chaos-and-key-market-news/"
-  og_title: "Clear Winners Amid Economic Chaos and Key Market News - Minds bit"
-  og_description: "Iran oil risks highlight the link between energy security, inflation and decarbonization, as sanctions, Gulf tensions and price volatility push governments and businesses to accelerate cleaner fuel alternatives."
-  og_image: "https://mindsbit.com/wp-content/uploads/2026/04/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/clear-winners-amid-economic-chaos-and-key-market-news/'
+  og_title: Clear Winners Amid Economic Chaos and Key Market News - Minds bit
+  og_description: >-
+    Iran oil risks highlight the link between energy security, inflation and
+    decarbonization, as sanctions, Gulf tensions and price volatility push
+    governments and businesses to accelerate cleaner fuel alternatives.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2026/04/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -28,7 +34,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-structured article with good length and informative tone, though the title could be more specific and compelling for better SEO impact."
+quality_note: >-
+  Well-structured article with good length and informative tone, though the
+  title could be more specific and compelling for better SEO impact.
+image_alt: >-
+  Abstract oil and clean energy forms divided by a glowing market volatility
+  line on a global backdrop
 ---
 
 Iran oil supply risks are back in focus as energy markets weigh geopolitical tension, sanctions pressure and the search for cleaner fuels. The debate now reaches far beyond crude prices. It connects inflation, shipping costs, industrial competitiveness and the pace of global decarbonization.
