@@ -20,7 +20,8 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/summer-houses-jesse-teases-reunion-drama-for-amanda-west/
 source_item_id: 6a151f7216f23264031d8103
 generated_by: claude
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: >-
+  /assets/images/summer-house-reunion-drama-jesse-teases-brutal-amanda-west-fallout.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   Engaging reality TV content with good entertainment tone but relies heavily on
   vague 'according to reports' sourcing that raises factual accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Tense reunion set with empty chairs, dramatic lavender lighting, and scattered
+  cue cards after a confrontation.
 ---
 ## Reality TV Drama Reaches Boiling Point
 
