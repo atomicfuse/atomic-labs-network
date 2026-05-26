@@ -1,23 +1,31 @@
 ---
-title: "Joe Pantoliano’s Onscreen Deaths Ranked by Impact"
-description: "Joe Pantoliano is celebrated for his ability to portray complex characters who often meet dramatic ends, leaving a lasting impact on audiences across film and television. His roles in \"The Matrix\" and \"The Sopranos\" exemplify his unique talent."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T09:25:30+00:00"
-author: "Becca Roberts"
+title: Joe Pantoliano’s Onscreen Deaths Ranked by Impact
+description: >-
+  Joe Pantoliano is celebrated for his ability to portray complex characters who
+  often meet dramatic ends, leaving a lasting impact on audiences across film
+  and television. His roles in "The Matrix" and "The Sopranos" exemplify his
+  unique talent.
+type: standard
+status: review
+publishDate: '2025-05-22T09:25:30+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "joe-pantolianos-onscreen-deaths-ranked-by-impact"
+  - Watch
+slug: joe-pantolianos-onscreen-deaths-ranked-by-impact
 reading_time: 3
-source_url: "https://buzzsoaps.com/joe-pantolianos-onscreen-deaths-ranked-by-impact/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/joe-pantolianos-onscreen-deaths-ranked-by-impact/'
+imported_from: wordpress
 wp_original_id: 413
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/joe-pantolianos-onscreen-deaths-ranked-by-impact.webp
 seo:
-  canonical: "https://buzzsoaps.com/joe-pantolianos-onscreen-deaths-ranked-by-impact/"
-  og_title: "Joe Pantoliano's Onscreen Deaths Ranked by Impact - BuzzSoaps!"
-  og_description: "Joe Pantoliano is celebrated for his ability to portray complex characters who often meet dramatic ends, leaving a lasting impact on audiences across film and television. His roles in \"The Matrix\" and \"The Sopranos\" exemplify his unique talent."
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/joe-pantolianos-onscreen-deaths-ranked-by-impact/'
+  og_title: Joe Pantoliano's Onscreen Deaths Ranked by Impact - BuzzSoaps!
+  og_description: >-
+    Joe Pantoliano is celebrated for his ability to portray complex characters
+    who often meet dramatic ends, leaving a lasting impact on audiences across
+    film and television. His roles in "The Matrix" and "The Sopranos" exemplify
+    his unique talent.
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -25,7 +33,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article is well-written and engaging but falls short on content length and could better integrate site-specific keywords while the title promises a ranking that isn't delivered."
+quality_note: >-
+  The article is well-written and engaging but falls short on content length and
+  could better integrate site-specific keywords while the title promises a
+  ranking that isn't delivered.
+image_alt: >-
+  A moody empty film set with cracked glasses, a toppled chair, and dramatic
+  cinematic lighting.
 ---
 
 Joe Pantoliano is renowned for his dynamic roles across film and television, often portraying characters who meet dramatic ends. Known for his versatility, Pantoliano has made a significant impact on audiences with his memorable performances in various genres.
