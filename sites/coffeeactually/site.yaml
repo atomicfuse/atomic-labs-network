@@ -1,0 +1,109 @@
+domain: coffeeactually.com
+site_name: coffeeactually
+site_tagline: null
+author: Ryan Powell
+groups: []
+active: true
+bundle_id: 6a12d77016f23264031d7a58
+brief:
+  audiences:
+    - Food & Drink enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Coffee News
+    - Coffee Beans
+    - Coffee Drinks
+    - Brewing Guides
+    - Coffee Gear
+  seo_keywords_focus:
+    - Coffee News
+    - Coffee Beans
+    - Coffee Drinks
+    - Brewing Guides
+    - Coffee Gear
+  content_guidelines:
+    - Focus on Food & Drink content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  category_ids:
+    - 6a00793d1104bbff809b7c3e
+    - 6a00793e1104bbff809b7d1f
+    - 6a00793e1104bbff809b7d15
+    - 6a00793e1104bbff809b7d13
+  tag_ids: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: modern
+  colors:
+    primary: "#C87137"
+    accent: "#9B1A29"
+    background: "#FFFFFF"
+    secondary: "#552200"
+    text: "#000000"
+    muted: "#808080"
+    surface: "#f7f7f7"
+    border: "#e6e6e6"
+    heading: "#000000"
+    link: "#C87137"
+    link_hover: "#9B1A29"
+    nav_link_hover: "#9B1A29"
+    footer_bg: "#C87137"
+    must_reads_bg: "#552200"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#808080"
+    feed_title: "#000000"
+    feed_desc: "#333333"
+    feed_date: "#808080"
+    prose_heading: "#000000"
+    prose_body: "#262626"
+    category_header_text: "#1a1a1a"
+    footer_text: "#ffffff"
+    footer_heading: "#ffffff"
+    footer_link: "#ffffff"
+    footer_link_hover: "#333333"
+  fonts:
+    heading: Poppins
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height: 52
+  logo_height_footer: 68
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-CE5J4FSMSX
+  gtm: GT-5DG2W39H
