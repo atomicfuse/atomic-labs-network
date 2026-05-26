@@ -22,7 +22,7 @@ source_url: >-
   https://www.elle.com/culture/celebrities/a71243453/hbo-harry-potter-season-2-news-date-cast/
 source_item_id: 6a0bc42316f23264031d7716
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/hbo-harry-potter-season-2-planning-before-premiere.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   including fabricated Christmas Day premiere date and questionable HBO renewal
   claims.
 reading_time: 3
+image_alt: >-
+  Young students face a glowing ancient door beside a table of blank production
+  plans.
 ---
 ## HBO Fast-Tracks Season 2 Development
 
