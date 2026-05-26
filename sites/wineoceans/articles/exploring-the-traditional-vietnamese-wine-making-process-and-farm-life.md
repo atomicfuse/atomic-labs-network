@@ -22,7 +22,8 @@ source_url: ''
 source_item_id: >-
   synthetic-exploring-the-traditional-vietnamese-wine-making-process-and-farm-life
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/exploring-the-traditional-vietnamese-wine-making-process-and-farm-life.webp
 reading_time: 2
 quality_score: 58
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   Article is severely under target length at 278 words and relies heavily on
   vague reporting language without specific facts or sources, though it covers
   relevant wine topics well.
+image_alt: >-
+  Traditional Vietnamese rice wine jars and rice baskets in a sunlit rural
+  farmhouse
 ---
 ## Vietnamese Wine Heritage Draws Interest
 
