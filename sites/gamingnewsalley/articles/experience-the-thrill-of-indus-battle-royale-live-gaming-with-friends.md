@@ -1,30 +1,39 @@
 ---
-title: "Experience the Thrill of Indus Battle Royale: Live Gaming with Friends"
-description: "Dive into the exciting world of Indus Battle Royale with live gameplay alongside friends, offering an immersive gaming experience."
-type: "standard"
-status: "review"
-publishDate: "2025-09-04T04:19:21+00:00"
-author: "Taylor Winters"
+title: 'Experience the Thrill of Indus Battle Royale: Live Gaming with Friends'
+description: >-
+  Dive into the exciting world of Indus Battle Royale with live gameplay
+  alongside friends, offering an immersive gaming experience.
+type: standard
+status: review
+publishDate: '2025-09-04T04:19:21+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Bluehole inc"
-  - "Bluehole Studio"
-  - "Bohemia Interactive"
-slug: "experience-the-thrill-of-indus-battle-royale-live-gaming-with-friends"
+  - Gaming News
+  - Bluehole inc
+  - Bluehole Studio
+  - Bohemia Interactive
+slug: experience-the-thrill-of-indus-battle-royale-live-gaming-with-friends
 reading_time: 2
-source_url: "https://gamingnewsalley.com/experience-the-thrill-of-indus-battle-royale-live-gaming-with-friends/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/experience-the-thrill-of-indus-battle-royale-live-gaming-with-friends/
+imported_from: wordpress
 wp_original_id: 42519
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/experience-the-thrill-of-indus-battle-royale-live-gaming-with-friends.webp
 seo:
-  canonical: "https://gamingnewsalley.com/experience-the-thrill-of-indus-battle-royale-live-gaming-with-friends/"
-  og_title: "Experience the Thrill of Indus Battle Royale: Live Gaming with Friends - Gaming News Alley"
-  og_description: "Dive into the exciting world of Indus Battle Royale with live gameplay alongside friends, offering an immersive gaming experience."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/experience-the-thrill-of-indus-battle-royale-live-gaming-with-friends/
+  og_title: >-
+    Experience the Thrill of Indus Battle Royale: Live Gaming with Friends -
+    Gaming News Alley
+  og_description: >-
+    Dive into the exciting world of Indus Battle Royale with live gameplay
+    alongside friends, offering an immersive gaming experience.
+  twitter_card: summary_large_image
 videos:
-  - id: "86ddbb5f"
-    url: "https://www.youtube.com/watch?v=RoGtWD7su90"
-    position: "after-paragraph-2"
+  - id: 86ddbb5f
+    url: 'https://www.youtube.com/watch?v=RoGtWD7su90'
+    position: after-paragraph-2
 quality_score: 47
 score_breakdown:
   seo_quality: 45
@@ -32,7 +41,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 20
   keyword_relevance: 65
-quality_note: "The article has significant issues with content length (304 words vs 800-1200 target) and appears to describe a potentially fabricated game called 'Indus Battle Royale' which raises factual accuracy concerns."
+quality_note: >-
+  The article has significant issues with content length (304 words vs 800-1200
+  target) and appears to describe a potentially fabricated game called 'Indus
+  Battle Royale' which raises factual accuracy concerns.
+image_alt: >-
+  Friends gaming together in neon light, reacting to an intense live multiplayer
+  battle
 ---
 
 Indus Battle Royale is taking the gaming community by storm, offering an exhilarating experience for players who enjoy the thrill of live gaming. In this session, join us as we dive into the action-packed world of Indus Battle Royale, teaming up with friends to conquer opponents and achieve victory.
