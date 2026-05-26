@@ -1,30 +1,41 @@
 ---
-title: "Revamp Your Guest Bathroom: Smart Decor and Organization Tips for Small Spaces"
-description: "Transform your small guest bathroom with these stylish decor and organization ideas. Discover smart storage solutions and creative styling tips to make a cozy and inviting space."
-type: "standard"
-status: "published"
-publishDate: "2025-07-24T04:07:27+00:00"
-author: "Taylor Winters"
+title: 'Revamp Your Guest Bathroom: Smart Decor and Organization Tips for Small Spaces'
+description: >-
+  Transform your small guest bathroom with these stylish decor and organization
+  ideas. Discover smart storage solutions and creative styling tips to make a
+  cozy and inviting space.
+type: standard
+status: published
+publishDate: '2025-07-24T04:07:27+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Design"
-  - "DIY"
-  - "Home"
-slug: "revamp-your-guest-bathroom-smart-decor-and-organization-tips-for-small-spaces"
+  - Decor Ideas
+  - Design
+  - DIY
+  - Home
+slug: revamp-your-guest-bathroom-smart-decor-and-organization-tips-for-small-spaces
 reading_time: 2
-source_url: "https://decoratingtricks.com/revamp-your-guest-bathroom-smart-decor-and-organization-tips-for-small-spaces/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/revamp-your-guest-bathroom-smart-decor-and-organization-tips-for-small-spaces/
+imported_from: wordpress
 wp_original_id: 21440
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: >-
+  /assets/images/revamp-your-guest-bathroom-smart-decor-and-organization-tips-for-small-spaces.webp
 seo:
-  canonical: "https://decoratingtricks.com/revamp-your-guest-bathroom-smart-decor-and-organization-tips-for-small-spaces/"
-  og_title: "Revamp Your Guest Bathroom: Smart Decor and Organization Tips for Small Spaces - Decorating Tricks"
-  og_description: "Transform your small guest bathroom with these stylish decor and organization ideas. Discover smart storage solutions and creative styling tips to make a cozy and inviting space."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/revamp-your-guest-bathroom-smart-decor-and-organization-tips-for-small-spaces/
+  og_title: >-
+    Revamp Your Guest Bathroom: Smart Decor and Organization Tips for Small
+    Spaces - Decorating Tricks
+  og_description: >-
+    Transform your small guest bathroom with these stylish decor and
+    organization ideas. Discover smart storage solutions and creative styling
+    tips to make a cozy and inviting space.
+  twitter_card: summary_large_image
 videos:
-  - id: "65089058"
-    url: "https://www.youtube.com/watch?v=KGZc_Ts3Sfw"
-    position: "after-paragraph-2"
+  - id: '65089058'
+    url: 'https://www.youtube.com/watch?v=KGZc_Ts3Sfw'
+    position: after-paragraph-2
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,7 +43,12 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 100
   keyword_relevance: 90
-quality_note: "Good content quality and relevance but significantly under target word count at only 315 words versus the 800-1200 target range."
+quality_note: >-
+  Good content quality and relevance but significantly under target word count
+  at only 315 words versus the 800-1200 target range.
+image_alt: >-
+  Stylish small guest bathroom with smart storage, warm decor, and neatly
+  organized towels
 ---
 
 Creating a welcoming guest bathroom in a small space can be a challenging yet rewarding task. Whether you're dealing with limited square footage or simply want to refresh your existing setup, this guide will provide you with innovative ideas to transform your bathroom into a stylish and functional haven.
