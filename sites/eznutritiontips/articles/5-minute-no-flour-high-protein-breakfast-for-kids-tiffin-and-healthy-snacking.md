@@ -1,29 +1,38 @@
 ---
-title: "5-Minute No-Flour High-Protein Breakfast for Kids Tiffin and Healthy Snacking"
-description: "A quick, vegetarian, no-maida breakfast and tiffin idea designed for busy mornings, kids lunch boxes, evening snacks, and protein-rich healthy eating."
-type: "standard"
-status: "review"
-publishDate: "2026-05-04T09:07:40+00:00"
-author: "Taylor Winters"
+title: 5-Minute No-Flour High-Protein Breakfast for Kids Tiffin and Healthy Snacking
+description: >-
+  A quick, vegetarian, no-maida breakfast and tiffin idea designed for busy
+  mornings, kids lunch boxes, evening snacks, and protein-rich healthy eating.
+type: standard
+status: review
+publishDate: '2026-05-04T09:07:40+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "5-minute-no-flour-high-protein-breakfast-for-kids-tiffin-and-healthy-snacking"
+  - Healthy Recipes
+  - Special Diets
+  - Weight &amp; Wellness
+slug: 5-minute-no-flour-high-protein-breakfast-for-kids-tiffin-and-healthy-snacking
 reading_time: 5
-source_url: "https://eznutritiontips.com/5-minute-no-flour-high-protein-breakfast-for-kids-tiffin-and-healthy-snacking/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/5-minute-no-flour-high-protein-breakfast-for-kids-tiffin-and-healthy-snacking/
+imported_from: wordpress
 wp_original_id: 19017
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/5-minute-no-flour-high-protein-breakfast-for-kids-tiffin-and-healthy-snacking.webp
 seo:
-  canonical: "https://eznutritiontips.com/5-minute-no-flour-high-protein-breakfast-for-kids-tiffin-and-healthy-snacking/"
-  og_title: "5-Minute No-Flour High-Protein Breakfast for Kids Tiffin and Healthy Snacking - Easy Nutrition Tips"
-  og_description: "A quick, vegetarian, no-maida breakfast and tiffin idea designed for busy mornings, kids lunch boxes, evening snacks, and protein-rich healthy eating."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/5-minute-no-flour-high-protein-breakfast-for-kids-tiffin-and-healthy-snacking/
+  og_title: >-
+    5-Minute No-Flour High-Protein Breakfast for Kids Tiffin and Healthy
+    Snacking - Easy Nutrition Tips
+  og_description: >-
+    A quick, vegetarian, no-maida breakfast and tiffin idea designed for busy
+    mornings, kids lunch boxes, evening snacks, and protein-rich healthy eating.
+  twitter_card: summary_large_image
 videos:
-  - id: "297b1d3f"
-    url: "https://www.youtube.com/watch?v=f3HDQ71xPCE"
-    position: "after-paragraph-2"
+  - id: 297b1d3f
+    url: 'https://www.youtube.com/watch?v=f3HDQ71xPCE'
+    position: after-paragraph-2
 quality_score: 72
 score_breakdown:
   seo_quality: 45
@@ -31,7 +40,13 @@ score_breakdown:
   content_length: 90
   factual_accuracy: 75
   keyword_relevance: 85
-quality_note: "The article covers relevant topics well but lacks the actual recipe, making it more of a teaser than a complete, actionable guide for readers seeking healthy breakfast solutions."
+quality_note: >-
+  The article covers relevant topics well but lacks the actual recipe, making it
+  more of a teaser than a complete, actionable guide for readers seeking healthy
+  breakfast solutions.
+image_alt: >-
+  Colorful kids tiffin with protein-rich vegetarian snacks on a bright kitchen
+  counter
 ---
 
 Busy mornings often call for breakfast ideas that are quick, filling, and still healthy enough for the whole family. This 5-minute healthy breakfast idea is designed for anyone looking for a simple vegetarian option that works for kids' school tiffin, lunch boxes, evening snacks, and everyday nashta without relying on maida, junk food, bread sandwiches, or unhealthy ingredients.
