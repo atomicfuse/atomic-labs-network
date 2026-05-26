@@ -1,25 +1,35 @@
 ---
-title: "Premier League 2025-26 Points Table: Man City Chase Arsenal"
-description: "Manchester City's win over Crystal Palace tightened the Premier League top-four race, boosting their points and goal difference as Liverpool lead and several clubs battle for Champions League qualification."
-type: "standard"
-status: "review"
-publishDate: "2026-05-14T08:35:25+00:00"
-author: "Taylor Winters"
+title: 'Premier League 2025-26 Points Table: Man City Chase Arsenal'
+description: >-
+  Manchester City's win over Crystal Palace tightened the Premier League
+  top-four race, boosting their points and goal difference as Liverpool lead and
+  several clubs battle for Champions League qualification.
+type: standard
+status: review
+publishDate: '2026-05-14T08:35:25+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "premier-league-2025-26-points-table-man-city-chase-arsenal"
+  - Latest News
+  - AFC Bournemouth
+slug: premier-league-2025-26-points-table-man-city-chase-arsenal
 reading_time: 6
-source_url: "https://soccernewsreports.com/premier-league-2025-26-points-table-man-city-chase-arsenal/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/premier-league-2025-26-points-table-man-city-chase-arsenal/
+imported_from: wordpress
 wp_original_id: 38012
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: /assets/images/premier-league-2025-26-points-table-man-city-chase-arsenal.webp
 seo:
-  canonical: "https://soccernewsreports.com/premier-league-2025-26-points-table-man-city-chase-arsenal/"
-  og_title: "Premier League 2025-26 Points Table: Man City Chase Arsenal - Soccer News Reports"
-  og_description: "Manchester City’s win over Crystal Palace tightened the Premier League top-four race, boosting their points and goal difference as Liverpool lead and several clubs battle for Champions League qualification."
-  og_image: "https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/premier-league-2025-26-points-table-man-city-chase-arsenal/
+  og_title: >-
+    Premier League 2025-26 Points Table: Man City Chase Arsenal - Soccer News
+    Reports
+  og_description: >-
+    Manchester City’s win over Crystal Palace tightened the Premier League
+    top-four race, boosting their points and goal difference as Liverpool lead
+    and several clubs battle for Champions League qualification.
+  og_image: 'https://soccernewsreports.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and structure, but contains fabricated 2025-26 season data and fictional league standings that severely impact factual accuracy."
+quality_note: >-
+  Well-written article with good tone and structure, but contains fabricated
+  2025-26 season data and fictional league standings that severely impact
+  factual accuracy.
+image_alt: Footballers sprint under stadium lights in a tense race for league position.
 ---
 
 The Premier League 2025-26 points table gained fresh intrigue after Matchday 31, with Manchester City strengthening their position in the European race following a high-scoring win over Crystal Palace. The result added pressure on nearby rivals and kept the battle for Champions League qualification tightly packed behind runaway leaders Liverpool.
