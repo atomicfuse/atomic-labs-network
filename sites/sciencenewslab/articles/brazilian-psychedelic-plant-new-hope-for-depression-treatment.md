@@ -1,22 +1,30 @@
 ---
-title: "Brazilian Psychedelic Plant: New Hope for Depression Treatment"
-description: "Exploration of natural substances for mental health support has highlighted a Brazilian psychedelic plant as a promising candidate for depression treatment. Psychotria viridis, containing DMT, offers a novel approach with rapid effects, complementing traditional therapies and promoting psychological insights."
-type: "standard"
-status: "review"
-publishDate: "2025-05-08T09:27:43"
-author: "Taylor Winters"
+title: 'Brazilian Psychedelic Plant: New Hope for Depression Treatment'
+description: >-
+  Exploration of natural substances for mental health support has highlighted a
+  Brazilian psychedelic plant as a promising candidate for depression treatment.
+  Psychotria viridis, containing DMT, offers a novel approach with rapid
+  effects, complementing traditional therapies and promoting psychological
+  insights.
+type: standard
+status: review
+publishDate: '2025-05-08T09:27:43'
+author: Taylor Winters
 tags:
-  - "Space"
-  - "Humans"
-slug: "brazilian-psychedelic-plant-new-hope-for-depression-treatment"
+  - Space
+  - Humans
+slug: brazilian-psychedelic-plant-new-hope-for-depression-treatment
 reading_time: 4
-source_url: "https://www.sciencenewslab.com/brazilian-psychedelic-plant-new-hope-for-depression-treatment/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.sciencenewslab.com/brazilian-psychedelic-plant-new-hope-for-depression-treatment/
+imported_from: wordpress
 wp_original_id: 14956
-featuredImage: "/assets/images/sciencenewslab-general-article.webp"
+featuredImage: >-
+  /assets/images/brazilian-psychedelic-plant-new-hope-for-depression-treatment.webp
 seo:
-  canonical: "https://www.sciencenewslab.com/brazilian-psychedelic-plant-new-hope-for-depression-treatment/"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.sciencenewslab.com/brazilian-psychedelic-plant-new-hope-for-depression-treatment/
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -24,7 +32,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 90
   keyword_relevance: 25
-quality_note: "Well-written article with good factual content and appropriate tone, but severely misaligned with the site's science focus (Space, Nature, Physics, Technology, Environment) as it primarily covers medical/psychological topics."
+quality_note: >-
+  Well-written article with good factual content and appropriate tone, but
+  severely misaligned with the site's science focus (Space, Nature, Physics,
+  Technology, Environment) as it primarily covers medical/psychological topics.
+image_alt: >-
+  Tropical green leaves with soft glowing neural patterns suggesting plant-based
+  mental health research
 ---
 
 In recent years, the exploration of natural substances for mental health support has gained significant attention. Among them, a lesser-known Brazilian psychedelic plant has emerged as a promising candidate for depression treatment. While traditional medications remain crucial, this plant offers a novel approach that could complement existing therapies.
