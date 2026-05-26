@@ -1,24 +1,37 @@
 ---
-title: "70 New Windows Boost Student Wellbeing and Performance in Illinois School"
-description: "In Illinois, an initiative installing 70 new windows in schools has transformed classrooms by harnessing natural light to boost student well-being, academic performance, and support broader environmental goals."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T16:13:26+00:00"
-author: "Nico Harper"
+title: 70 New Windows Boost Student Wellbeing and Performance in Illinois School
+description: >-
+  In Illinois, an initiative installing 70 new windows in schools has
+  transformed classrooms by harnessing natural light to boost student
+  well-being, academic performance, and support broader environmental goals.
+type: standard
+status: review
+publishDate: '2025-05-05T16:13:26+00:00'
+author: Nico Harper
 tags:
-  - "Good Vibes"
-slug: "70-new-windows-boost-student-wellbeing-and-performance-in-illinois-school"
+  - Good Vibes
+slug: 70-new-windows-boost-student-wellbeing-and-performance-in-illinois-school
 reading_time: 3
-source_url: "https://gigsfreaks.com/70-new-windows-boost-student-wellbeing-and-performance-in-illinois-school/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/70-new-windows-boost-student-wellbeing-and-performance-in-illinois-school/
+imported_from: wordpress
 wp_original_id: 875
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: >-
+  /assets/images/70-new-windows-boost-student-wellbeing-and-performance-in-illinois-school.webp
 seo:
-  canonical: "https://gigsfreaks.com/70-new-windows-boost-student-wellbeing-and-performance-in-illinois-school/"
-  og_title: "70 New Windows Boost Student Wellbeing and Performance in Illinois School - GigsFreaks"
-  og_description: "In Illinois, an initiative installing windows in schools has transformed classrooms, boosting student well-being and academic performance. Natural light improves mood, energy, and cognitive function, leading to better engagement and achievement. This sustainable approach also supports community and environmental goals."
-  og_image: "https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-94.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/70-new-windows-boost-student-wellbeing-and-performance-in-illinois-school/
+  og_title: >-
+    70 New Windows Boost Student Wellbeing and Performance in Illinois School -
+    GigsFreaks
+  og_description: >-
+    In Illinois, an initiative installing windows in schools has transformed
+    classrooms, boosting student well-being and academic performance. Natural
+    light improves mood, energy, and cognitive function, leading to better
+    engagement and achievement. This sustainable approach also supports
+    community and environmental goals.
+  og_image: 'https://gigsfreaks.com/wp-content/uploads/2025/05/make_file-94.jpeg'
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 20
-quality_note: "While the article maintains a professional tone and appears factually sound, it completely misses the entertainment focus and is too short for the target audience."
+quality_note: >-
+  While the article maintains a professional tone and appears factually sound,
+  it completely misses the entertainment focus and is too short for the target
+  audience.
+image_alt: >-
+  Sunlit classroom with new large windows, students studying, and a calm hopeful
+  learning atmosphere.
 ---
 
 In the vibrant community of Illinois, a groundbreaking initiative has transformed educational environments, demonstrating the powerful impact of natural light on student well-being and academic performance. This innovative project involved the strategic installation of windows in schools, turning classrooms into brighter, more inviting spaces that nurture both learning and mental health.
