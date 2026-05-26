@@ -1,24 +1,32 @@
 ---
-title: "Unseen White Lotus Scenes You Missed"
-description: "As \"The White Lotus\" gears up for its third season, fans eagerly await the blend of humor, drama, and social commentary that has captivated audiences. Deleted scenes hint at potential storylines, adding to the anticipation and excitement."
-type: "standard"
-status: "review"
-publishDate: "2025-06-05T08:41:18+00:00"
-author: "Becca Roberts"
+title: Unseen White Lotus Scenes You Missed
+description: >-
+  As "The White Lotus" gears up for its third season, fans eagerly await the
+  blend of humor, drama, and social commentary that has captivated audiences.
+  Deleted scenes hint at potential storylines, adding to the anticipation and
+  excitement.
+type: standard
+status: review
+publishDate: '2025-06-05T08:41:18+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "unseen-white-lotus-scenes-you-missed"
+  - Watch
+slug: unseen-white-lotus-scenes-you-missed
 reading_time: 3
-source_url: "https://buzzsoaps.com/unseen-white-lotus-scenes-you-missed/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/unseen-white-lotus-scenes-you-missed/'
+imported_from: wordpress
 wp_original_id: 441
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/unseen-white-lotus-scenes-you-missed.webp
 seo:
-  canonical: "https://buzzsoaps.com/unseen-white-lotus-scenes-you-missed/"
-  og_title: "Unseen White Lotus Scenes You Missed - BuzzSoaps!"
-  og_description: "As \"The White Lotus\" gears up for its third season, fans eagerly await the blend of humor, drama, and social commentary that has captivated audiences. Deleted scenes hint at potential storylines, adding to the anticipation and excitement."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2025/06/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/unseen-white-lotus-scenes-you-missed/'
+  og_title: Unseen White Lotus Scenes You Missed - BuzzSoaps!
+  og_description: >-
+    As "The White Lotus" gears up for its third season, fans eagerly await the
+    blend of humor, drama, and social commentary that has captivated audiences.
+    Deleted scenes hint at potential storylines, adding to the anticipation and
+    excitement.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2025/06/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "Well-written article with engaging tone but falls short on length requirements and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with engaging tone but falls short on length requirements
+  and could benefit from stronger SEO optimization in title and meta
+  description.
+image_alt: >-
+  Luxury resort hallway at dusk with a half-open suite door and subtle signs of
+  hidden drama
 ---
 
 As "The White Lotus" continues to captivate audiences with its gripping portrayal of luxury and its discontents, fans eagerly anticipate the upcoming third season. Known for its sharp social commentary and dark humor, the series has successfully kept viewers on the edge of their seats. With deleted scenes from previous seasons hinting at potential storylines, the anticipation is palpable. Let's delve into what might be expected from the next installment of this acclaimed series.
