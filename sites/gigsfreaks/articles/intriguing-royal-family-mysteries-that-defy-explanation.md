@@ -1,27 +1,34 @@
 ---
-title: "Intriguing Royal Family Mysteries That Defy Explanation"
-description: "Explore the fascinating unsolved mysteries surrounding the Royal Family, including the enigmatic discovery of King Richard III's remains and the unexpected revelations about royal ancestry that followed."
-type: "standard"
-status: "review"
-publishDate: "2025-07-17T05:11:25+00:00"
-author: "Nico Harper"
+title: Intriguing Royal Family Mysteries That Defy Explanation
+description: >-
+  Explore the fascinating unsolved mysteries surrounding the Royal Family,
+  including the enigmatic discovery of King Richard III's remains and the
+  unexpected revelations about royal ancestry that followed.
+type: standard
+status: review
+publishDate: '2025-07-17T05:11:25+00:00'
+author: Nico Harper
 tags:
-  - "Internet Mysteries"
-slug: "intriguing-royal-family-mysteries-that-defy-explanation"
+  - Internet Mysteries
+slug: intriguing-royal-family-mysteries-that-defy-explanation
 reading_time: 2
-source_url: "https://gigsfreaks.com/intriguing-royal-family-mysteries-that-defy-explanation/"
-imported_from: "wordpress"
+source_url: >-
+  https://gigsfreaks.com/intriguing-royal-family-mysteries-that-defy-explanation/
+imported_from: wordpress
 wp_original_id: 943
-featuredImage: "/assets/images/gigsfreaks-general-article.webp"
+featuredImage: /assets/images/intriguing-royal-family-mysteries-that-defy-explanation.webp
 seo:
-  canonical: "https://gigsfreaks.com/intriguing-royal-family-mysteries-that-defy-explanation/"
-  og_title: "Intriguing Royal Family Mysteries That Defy Explanation - GigsFreaks"
-  og_description: "Explore the fascinating unsolved mysteries surrounding the Royal Family, including the enigmatic discovery of King Richard III's remains."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gigsfreaks.com/intriguing-royal-family-mysteries-that-defy-explanation/
+  og_title: Intriguing Royal Family Mysteries That Defy Explanation - GigsFreaks
+  og_description: >-
+    Explore the fascinating unsolved mysteries surrounding the Royal Family,
+    including the enigmatic discovery of King Richard III's remains.
+  twitter_card: summary_large_image
 videos:
-  - id: "bfbf792c"
-    url: "https://www.youtube.com/watch?v=XnbLwjb6Bf4"
-    position: "after-paragraph-2"
+  - id: bfbf792c
+    url: 'https://www.youtube.com/watch?v=XnbLwjb6Bf4'
+    position: after-paragraph-2
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -29,7 +36,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 75
-quality_note: "While the content is well-written and factually sound, it falls significantly short of the target word count at only 292 words, which severely impacts its overall quality for the site's content guidelines."
+quality_note: >-
+  While the content is well-written and factually sound, it falls significantly
+  short of the target word count at only 292 words, which severely impacts its
+  overall quality for the site's content guidelines.
+image_alt: >-
+  Ancient crown in a shadowed stone chamber suggesting royal secrets and buried
+  history.
 ---
 
 The Royal Family has long been a subject of intrigue and speculation, with numerous unsolved mysteries that continue to captivate historians and the public alike. Among these mysteries is the remarkable discovery of King Richard III's remains, which has sparked both fascination and questions about royal ancestry.
