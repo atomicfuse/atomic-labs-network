@@ -1,24 +1,37 @@
 ---
-title: "Efficient Villa and City Pursue Arsenal Amid Own Goals Galore"
-description: "The Premier League title race intensifies as Aston Villa, Manchester City, and Arsenal compete fiercely, with Aston Villa's unexpected rise, Manchester City's dominance, and Arsenal's resurgence making this season one of the most thrilling in recent memory."
-type: "standard"
-status: "review"
-publishDate: "2025-12-15T09:35:23+00:00"
-author: "Taylor Winters"
+title: Efficient Villa and City Pursue Arsenal Amid Own Goals Galore
+description: >-
+  The Premier League title race intensifies as Aston Villa, Manchester City, and
+  Arsenal compete fiercely, with Aston Villa's unexpected rise, Manchester
+  City's dominance, and Arsenal's resurgence making this season one of the most
+  thrilling in recent memory.
+type: standard
+status: review
+publishDate: '2025-12-15T09:35:23+00:00'
+author: Taylor Winters
 tags:
-  - "Latest News"
-  - "AFC Bournemouth"
-slug: "efficient-villa-and-city-pursue-arsenal-amid-own-goals-galore"
+  - Latest News
+  - AFC Bournemouth
+slug: efficient-villa-and-city-pursue-arsenal-amid-own-goals-galore
 reading_time: 3
-source_url: "https://soccernewsreports.com/efficient-villa-and-city-pursue-arsenal-amid-own-goals-galore/"
-imported_from: "wordpress"
+source_url: >-
+  https://soccernewsreports.com/efficient-villa-and-city-pursue-arsenal-amid-own-goals-galore/
+imported_from: wordpress
 wp_original_id: 37940
-featuredImage: "/assets/images/soccernewsreports-general-article.webp"
+featuredImage: >-
+  /assets/images/efficient-villa-and-city-pursue-arsenal-amid-own-goals-galore.webp
 seo:
-  canonical: "https://soccernewsreports.com/efficient-villa-and-city-pursue-arsenal-amid-own-goals-galore/"
-  og_title: "Efficient Villa and City Pursue Arsenal Amid Own Goals Galore - Soccer News Reports"
-  og_description: "The Premier League title race intensifies as Aston Villa, Manchester City, and Arsenal compete fiercely. Aston Villa's unexpected rise, Manchester City's dominance, and Arsenal's resurgence make this season thrilling, with key players playing pivotal roles in their teams' performances."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://soccernewsreports.com/efficient-villa-and-city-pursue-arsenal-amid-own-goals-galore/
+  og_title: >-
+    Efficient Villa and City Pursue Arsenal Amid Own Goals Galore - Soccer News
+    Reports
+  og_description: >-
+    The Premier League title race intensifies as Aston Villa, Manchester City,
+    and Arsenal compete fiercely. Aston Villa's unexpected rise, Manchester
+    City's dominance, and Arsenal's resurgence make this season thrilling, with
+    key players playing pivotal roles in their teams' performances.
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 35
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 70
-quality_note: "The article has engaging tone and decent relevance but suffers from poor SEO optimization, insufficient length, and vague content lacking specific details or recent developments."
+quality_note: >-
+  The article has engaging tone and decent relevance but suffers from poor SEO
+  optimization, insufficient length, and vague content lacking specific details
+  or recent developments.
+image_alt: >-
+  Three footballers race toward a loose ball near a floodlit goal in a tense
+  stadium scene.
 ---
 
 The Premier League title race has taken an exhilarating turn as Aston Villa, Manchester City, and Arsenal fiercely compete for the top position. Each team is showcasing exceptional skill and determination, making this season one of the most thrilling in recent memory.
