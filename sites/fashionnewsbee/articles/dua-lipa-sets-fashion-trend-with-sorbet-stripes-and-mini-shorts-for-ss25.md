@@ -1,25 +1,38 @@
 ---
-title: "Dua Lipa Sets Fashion Trend with Sorbet Stripes and Mini Shorts for SS25"
-description: "Pop sensation Dua Lipa has been spotted embracing the upcoming fashion trend of sorbet-striped shorts from the SS25 collection. Known for her bold, experimental style, Dua Lipa's choice is expected to inspire many fashion enthusiasts to try this vibrant, daring trend."
-type: "standard"
-status: "published"
-publishDate: "2025-04-01T10:31:05+00:00"
-author: "Taylor Winters"
+title: Dua Lipa Sets Fashion Trend with Sorbet Stripes and Mini Shorts for SS25
+description: >-
+  Pop sensation Dua Lipa has been spotted embracing the upcoming fashion trend
+  of sorbet-striped shorts from the SS25 collection. Known for her bold,
+  experimental style, Dua Lipa's choice is expected to inspire many fashion
+  enthusiasts to try this vibrant, daring trend.
+type: standard
+status: published
+publishDate: '2025-04-01T10:31:05+00:00'
+author: Taylor Winters
 tags:
-  - "Culture"
-  - "Fashion"
-slug: "dua-lipa-sets-fashion-trend-with-sorbet-stripes-and-mini-shorts-for-ss25"
+  - Culture
+  - Fashion
+slug: dua-lipa-sets-fashion-trend-with-sorbet-stripes-and-mini-shorts-for-ss25
 reading_time: 3
-source_url: "https://fashionnewsbee.com/dua-lipa-sets-fashion-trend-with-sorbet-stripes-and-mini-shorts-for-ss25/"
-imported_from: "wordpress"
+source_url: >-
+  https://fashionnewsbee.com/dua-lipa-sets-fashion-trend-with-sorbet-stripes-and-mini-shorts-for-ss25/
+imported_from: wordpress
 wp_original_id: 31480
-featuredImage: "/assets/images/fashionnewsbee-general-article.webp"
+featuredImage: >-
+  /assets/images/dua-lipa-sets-fashion-trend-with-sorbet-stripes-and-mini-shorts-for-ss25.webp
 seo:
-  canonical: "https://fashionnewsbee.com/dua-lipa-sets-fashion-trend-with-sorbet-stripes-and-mini-shorts-for-ss25/"
-  og_title: "Dua Lipa Sets Fashion Trend with Sorbet Stripes and Mini Shorts for SS25 - Fashion News Bee"
-  og_description: "Pop sensation Dua Lipa has been spotted embracing the upcoming fashion trend of sorbet-striped shorts from the SS25 collection. Known for her bold, experimental style, Dua Lipa's choice is expected to inspire many fashion enthusiasts to try this vibrant, daring trend."
-  og_image: "https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://fashionnewsbee.com/dua-lipa-sets-fashion-trend-with-sorbet-stripes-and-mini-shorts-for-ss25/
+  og_title: >-
+    Dua Lipa Sets Fashion Trend with Sorbet Stripes and Mini Shorts for SS25 -
+    Fashion News Bee
+  og_description: >-
+    Pop sensation Dua Lipa has been spotted embracing the upcoming fashion trend
+    of sorbet-striped shorts from the SS25 collection. Known for her bold,
+    experimental style, Dua Lipa's choice is expected to inspire many fashion
+    enthusiasts to try this vibrant, daring trend.
+  og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written fashion article with good tone and keyword coverage, but lacks specific details and falls short of optimal length at 451 words."
+quality_note: >-
+  Well-written fashion article with good tone and keyword coverage, but lacks
+  specific details and falls short of optimal length at 451 words.
+image_alt: >-
+  Fashion model in sorbet-striped mini shorts walking through a sunny pastel
+  street
 ---
 
 Renowned pop sensation Dua Lipa has once again showcased her flair for fashion with her latest ensemble choice. The starlet, known for her experimental style, was recently spotted sporting a daring pair of SS25 sorbet-striped shorts, further cementing her status as a trendsetter.
