@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-exploring-the-influence-of-different-soils-on-garnacha-wine
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/exploring-the-influence-of-different-soils-on-garnacha-wine.webp
 reading_time: 3
 quality_score: 68
 score_breakdown:
@@ -35,6 +36,9 @@ quality_note: >-
   The article covers relevant wine topics with accurate information but falls
   significantly short of the target word count at only 411 words, limiting its
   SEO potential and depth of coverage.
+image_alt: >-
+  Garnacha grapes, varied vineyard soils, and a glass of red wine glowing in
+  golden hour light.
 ---
 ## Understanding Terroir's Role in Garnacha Production
 
