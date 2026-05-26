@@ -1,25 +1,33 @@
 ---
-title: "First Personalized Gene-Editing Drug Saves Baby Boy"
-description: "Imagine a world where a single, tailored treatment can alter a child's life by targeting a genetic disorder. This groundbreaking approach, using personalized gene-editing drugs, marks a significant milestone in genetic medicine, offering hope for rare genetic conditions."
-type: "standard"
-status: "review"
-publishDate: "2025-05-18T11:08:28+00:00"
-author: "Lena Ashwood"
+title: First Personalized Gene-Editing Drug Saves Baby Boy
+description: >-
+  Imagine a world where a single, tailored treatment can alter a child's life by
+  targeting a genetic disorder. This groundbreaking approach, using personalized
+  gene-editing drugs, marks a significant milestone in genetic medicine,
+  offering hope for rare genetic conditions.
+type: standard
+status: review
+publishDate: '2025-05-18T11:08:28+00:00'
+author: Lena Ashwood
 tags:
-  - "Innovation"
-  - "Tech"
-slug: "first-personalized-gene-editing-drug-saves-baby-boy"
+  - Innovation
+  - Tech
+slug: first-personalized-gene-editing-drug-saves-baby-boy
 reading_time: 4
-source_url: "https://mindsbit.com/first-personalized-gene-editing-drug-saves-baby-boy/"
-imported_from: "wordpress"
+source_url: 'https://mindsbit.com/first-personalized-gene-editing-drug-saves-baby-boy/'
+imported_from: wordpress
 wp_original_id: 343
-featuredImage: "/assets/images/mindsbit-general-article.webp"
+featuredImage: /assets/images/first-personalized-gene-editing-drug-saves-baby-boy.webp
 seo:
-  canonical: "https://mindsbit.com/first-personalized-gene-editing-drug-saves-baby-boy/"
-  og_title: "First Personalized Gene-Editing Drug Saves Baby Boy - Minds bit"
-  og_description: "Imagine a world where a single, tailored treatment can alter a child's life by targeting a genetic disorder. This groundbreaking approach, using personalized gene-editing drugs, marks a significant milestone in genetic medicine, offering hope for rare genetic conditions."
-  og_image: "https://mindsbit.com/wp-content/uploads/2025/05/make_file-41.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://mindsbit.com/first-personalized-gene-editing-drug-saves-baby-boy/'
+  og_title: First Personalized Gene-Editing Drug Saves Baby Boy - Minds bit
+  og_description: >-
+    Imagine a world where a single, tailored treatment can alter a child's life
+    by targeting a genetic disorder. This groundbreaking approach, using
+    personalized gene-editing drugs, marks a significant milestone in genetic
+    medicine, offering hope for rare genetic conditions.
+  og_image: 'https://mindsbit.com/wp-content/uploads/2025/05/make_file-41.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong relevance to tech/innovation topics with appropriate tone, but falls short on length (623 vs 800-1200 target) and lacks specific factual details about the actual case."
+quality_note: >-
+  Strong relevance to tech/innovation topics with appropriate tone, but falls
+  short on length (623 vs 800-1200 target) and lacks specific factual details
+  about the actual case.
+image_alt: >-
+  A parent gently holds a newborn’s hand in a softly lit hospital room with
+  subtle DNA-like light behind them.
 ---
 
 Imagine a world where a single, tailored treatment can alter the course of a genetic disorder, changing a child's life forever. This innovative approach to medicine has become a reality with the groundbreaking use of a personalized gene-editing drug for a young boy. This treatment marks a significant milestone in the field of genetic medicine, opening new possibilities for treating rare genetic conditions.
