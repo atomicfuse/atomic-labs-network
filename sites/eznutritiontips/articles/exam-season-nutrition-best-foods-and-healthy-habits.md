@@ -1,26 +1,33 @@
 ---
-title: "Exam Season Nutrition: Best Foods and Healthy Habits"
-description: "Balanced meals, smart snacks, hydration, sleep and movement can help students stay focused, manage stress and maintain steady energy throughout exam season."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:12:22+00:00"
-author: "Taylor Winters"
+title: 'Exam Season Nutrition: Best Foods and Healthy Habits'
+description: >-
+  Balanced meals, smart snacks, hydration, sleep and movement can help students
+  stay focused, manage stress and maintain steady energy throughout exam season.
+type: standard
+status: published
+publishDate: '2026-05-07T09:12:22+00:00'
+author: Taylor Winters
 tags:
-  - "Healthy Recipes"
-  - "Nutrition Quick Tips"
-  - "Weight &amp; Wellness"
-slug: "exam-season-nutrition-best-foods-and-healthy-habits"
+  - Healthy Recipes
+  - Nutrition Quick Tips
+  - Weight &amp; Wellness
+slug: exam-season-nutrition-best-foods-and-healthy-habits
 reading_time: 8
-source_url: "https://eznutritiontips.com/exam-season-nutrition-best-foods-and-healthy-habits/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/exam-season-nutrition-best-foods-and-healthy-habits/
+imported_from: wordpress
 wp_original_id: 19019
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: /assets/images/exam-season-nutrition-best-foods-and-healthy-habits.webp
 seo:
-  canonical: "https://eznutritiontips.com/exam-season-nutrition-best-foods-and-healthy-habits/"
-  og_title: "Exam Season Nutrition: Best Foods and Healthy Habits - Easy Nutrition Tips"
-  og_description: "Balanced meals, smart snacks, hydration, sleep and movement can help students stay focused, manage stress and maintain steady energy throughout exam season."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/exam-season-nutrition-best-foods-and-healthy-habits/
+  og_title: 'Exam Season Nutrition: Best Foods and Healthy Habits - Easy Nutrition Tips'
+  og_description: >-
+    Balanced meals, smart snacks, hydration, sleep and movement can help
+    students stay focused, manage stress and maintain steady energy throughout
+    exam season.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 85
@@ -28,7 +35,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 75
-quality_note: "Well-written, comprehensive article with excellent tone and length, but could better align with site's core food enthusiast focus by incorporating more specific recipes and cooking techniques."
+quality_note: >-
+  Well-written, comprehensive article with excellent tone and length, but could
+  better align with site's core food enthusiast focus by incorporating more
+  specific recipes and cooking techniques.
+image_alt: >-
+  Healthy study desk with water, fruit, snacks, and wellness cues in soft
+  morning light.
 ---
 
 Exam season can stretch concentration, energy and mood to their limits, so the right food choices matter. A steady routine built around balanced meals, smart snacks, hydration, sleep and movement can help students feel calmer, think more clearly and avoid the mid-study slump.
