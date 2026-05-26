@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-discover-the-semester-abroad-a-3-ingredient-whiskey-cocktail-delight
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: >-
+  /assets/images/discover-the-semester-abroad-a-3-ingredient-whiskey-cocktail-delight.webp
 reading_time: 3
 quality_score: 43
 score_breakdown:
@@ -34,6 +35,7 @@ quality_note: >-
   The article lacks specific recipe details, contains vague sourcing, and
   doesn't align with wine-focused content guidelines despite being on a wine
   site.
+image_alt: Amber whiskey cocktail on a wooden bar with warm travel-inspired café styling
 ---
 ## A New Addition to the Cocktail Scene
 
