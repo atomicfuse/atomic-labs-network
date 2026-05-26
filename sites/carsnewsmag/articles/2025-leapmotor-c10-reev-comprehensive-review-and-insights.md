@@ -1,25 +1,37 @@
 ---
-title: "2025 Leapmotor C10 REEV: Comprehensive Review and Insights"
-description: "The 2025 Leapmotor C10 REEV represents a breakthrough in electric vehicles with its range-extending system, blending electric and petrol power for efficiency and performance. It offers a sleek design, advanced technology, and reduced emissions for eco-conscious drivers."
-type: "standard"
-status: "review"
-publishDate: "2025-06-19T04:07:25+00:00"
-author: "Taylor Winters"
+title: '2025 Leapmotor C10 REEV: Comprehensive Review and Insights'
+description: >-
+  The 2025 Leapmotor C10 REEV represents a breakthrough in electric vehicles
+  with its range-extending system, blending electric and petrol power for
+  efficiency and performance. It offers a sleek design, advanced technology, and
+  reduced emissions for eco-conscious drivers.
+type: standard
+status: review
+publishDate: '2025-06-19T04:07:25+00:00'
+author: Taylor Winters
 tags:
-  - "Concept Cars"
-  - "Electric Cars"
-  - "Reviews"
-slug: "2025-leapmotor-c10-reev-comprehensive-review-and-insights"
+  - Concept Cars
+  - Electric Cars
+  - Reviews
+slug: 2025-leapmotor-c10-reev-comprehensive-review-and-insights
 reading_time: 3
-source_url: "https://carsnewsmag.com/2025-leapmotor-c10-reev-comprehensive-review-and-insights/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/2025-leapmotor-c10-reev-comprehensive-review-and-insights/
+imported_from: wordpress
 wp_original_id: 38462
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/2025-leapmotor-c10-reev-comprehensive-review-and-insights.webp
 seo:
-  canonical: "https://carsnewsmag.com/2025-leapmotor-c10-reev-comprehensive-review-and-insights/"
-  og_title: "2025 Leapmotor C10 REEV: Comprehensive Review and Insights - Cars News Magazine"
-  og_description: "The 2025 Leapmotor C10 REEV represents a breakthrough in electric vehicles with its range-extending system, blending electric and petrol power for efficiency and performance. It offers a sleek design, advanced technology, and reduced emissions for eco-conscious drivers."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/2025-leapmotor-c10-reev-comprehensive-review-and-insights/
+  og_title: >-
+    2025 Leapmotor C10 REEV: Comprehensive Review and Insights - Cars News
+    Magazine
+  og_description: >-
+    The 2025 Leapmotor C10 REEV represents a breakthrough in electric vehicles
+    with its range-extending system, blending electric and petrol power for
+    efficiency and performance. It offers a sleek design, advanced technology,
+    and reduced emissions for eco-conscious drivers.
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance, but significantly under target word count and contains some potentially unverified technical claims about the vehicle's specifications."
+quality_note: >-
+  Strong tone and keyword relevance, but significantly under target word count
+  and contains some potentially unverified technical claims about the vehicle's
+  specifications.
+image_alt: >-
+  Sleek unbranded electric SUV on a dawn coastal road with blue and amber energy
+  tones
 ---
 
 As the automotive industry continues to evolve, the 2025 Leapmotor C10 REEV marks a significant step forward in the realm of electric vehicles. Combining innovative technology with user-friendly design, this new model represents a breakthrough for environmentally conscious drivers seeking both efficiency and performance.
