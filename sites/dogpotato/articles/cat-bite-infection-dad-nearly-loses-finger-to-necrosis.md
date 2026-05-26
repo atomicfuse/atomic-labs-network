@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: ''
 source_item_id: synthetic-cat-bite-infection-dad-nearly-loses-finger-to-necrosis
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/cat-bite-infection-dad-nearly-loses-finger-to-necrosis.webp
 reading_time: 4
 quality_score: 79
 score_breakdown:
@@ -30,6 +30,7 @@ score_breakdown:
 quality_note: >-
   Well-written informative article with good tone and accuracy, but title lacks
   SEO optimization and content is slightly below target length.
+image_alt: Calm cat near a father’s bandaged hand in a softly lit home setting
 ---
 ## When Pet Bites Turn Dangerous
 
