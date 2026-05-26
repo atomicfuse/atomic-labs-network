@@ -1,25 +1,40 @@
 ---
-title: "Managing Duchenne Muscular Dystrophy: The Vital Role of Proper Nutrition"
-description: "Duchenne Muscular Dystrophy (DMD) is a genetic disorder primarily affecting young boys. Managing its effects requires a comprehensive approach, including a balanced, nutrient-rich diet with high protein intake, low sodium, healthy weight management, and appropriate supplementation."
-type: "standard"
-status: "review"
-publishDate: "2025-04-23T16:22:46+00:00"
-author: "Taylor Winters"
+title: 'Managing Duchenne Muscular Dystrophy: The Vital Role of Proper Nutrition'
+description: >-
+  Duchenne Muscular Dystrophy (DMD) is a genetic disorder primarily affecting
+  young boys. Managing its effects requires a comprehensive approach, including
+  a balanced, nutrient-rich diet with high protein intake, low sodium, healthy
+  weight management, and appropriate supplementation.
+type: standard
+status: review
+publishDate: '2025-04-23T16:22:46+00:00'
+author: Taylor Winters
 tags:
-  - "Special Diets"
-  - "Weight &amp; Wellness"
-slug: "managing-duchenne-muscular-dystrophy-the-vital-role-of-proper-nutrition"
+  - Special Diets
+  - Weight &amp; Wellness
+slug: managing-duchenne-muscular-dystrophy-the-vital-role-of-proper-nutrition
 reading_time: 2
-source_url: "https://eznutritiontips.com/managing-duchenne-muscular-dystrophy-the-vital-role-of-proper-nutrition/"
-imported_from: "wordpress"
+source_url: >-
+  https://eznutritiontips.com/managing-duchenne-muscular-dystrophy-the-vital-role-of-proper-nutrition/
+imported_from: wordpress
 wp_original_id: 18784
-featuredImage: "/assets/images/eznutritiontips-general-article.webp"
+featuredImage: >-
+  /assets/images/managing-duchenne-muscular-dystrophy-the-vital-role-of-proper-nutrition.webp
 seo:
-  canonical: "https://eznutritiontips.com/managing-duchenne-muscular-dystrophy-the-vital-role-of-proper-nutrition/"
-  og_title: "Managing Duchenne Muscular Dystrophy: The Vital Role of Proper Nutrition - Easy Nutrition Tips"
-  og_description: "Duchenne Muscular Dystrophy (DMD) is a genetic disorder primarily affecting young boys. Managing its effects requires a comprehensive approach, including a balanced, nutrient-rich diet. High protein intake supports muscle repair, while low-sodium foods help prevent fluid retention. Maintaining a healthy weight and supplementing as needed also contribute to managing DMD."
-  og_image: "https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-60.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://eznutritiontips.com/managing-duchenne-muscular-dystrophy-the-vital-role-of-proper-nutrition/
+  og_title: >-
+    Managing Duchenne Muscular Dystrophy: The Vital Role of Proper Nutrition -
+    Easy Nutrition Tips
+  og_description: >-
+    Duchenne Muscular Dystrophy (DMD) is a genetic disorder primarily affecting
+    young boys. Managing its effects requires a comprehensive approach,
+    including a balanced, nutrient-rich diet. High protein intake supports
+    muscle repair, while low-sodium foods help prevent fluid retention.
+    Maintaining a healthy weight and supplementing as needed also contribute to
+    managing DMD.
+  og_image: 'https://eznutritiontips.com/wp-content/uploads/2025/04/make_file-60.jpeg'
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 75
-quality_note: "The article covers relevant nutrition topics but is significantly too short at 390 words (target 800-1200), which severely impacts its overall quality despite decent factual content and appropriate tone."
+quality_note: >-
+  The article covers relevant nutrition topics but is significantly too short at
+  390 words (target 800-1200), which severely impacts its overall quality
+  despite decent factual content and appropriate tone.
+image_alt: >-
+  Sunlit nutritious meal on a kitchen table with a caregiver and child softly
+  blurred in the background
 ---
 
 Duchenne Muscular Dystrophy (DMD) is a daunting genetic disorder, primarily affecting young boys. Mitigating its impact requires a comprehensive approach, which includes nutrition at its core. Dietary adjustments can play a fundamental role in managing DMD's debilitating effects. Let's delve into the nutritional aspects relevant to managing Duchenne Muscular Dystrophy.
