@@ -1,25 +1,31 @@
 ---
-title: "Jaecoo 8 SUV Features Price and Release Date"
-description: "The Jaecoo 8 is a seven-seat plug-in hybrid SUV targeting families with premium equipment, practical space and lower running costs, aiming to challenge established rivals without luxury-brand pricing."
-type: "standard"
-status: "published"
-publishDate: "2026-04-29T11:54:13+00:00"
-author: "Taylor Winters"
+title: Jaecoo 8 SUV Features Price and Release Date
+description: >-
+  The Jaecoo 8 is a seven-seat plug-in hybrid SUV targeting families with
+  premium equipment, practical space and lower running costs, aiming to
+  challenge established rivals without luxury-brand pricing.
+type: standard
+status: published
+publishDate: '2026-04-29T11:54:13+00:00'
+author: Taylor Winters
 tags:
-  - "Electric Cars"
-  - "Reviews"
-slug: "jaecoo-8-suv-features-price-and-release-date"
+  - Electric Cars
+  - Reviews
+slug: jaecoo-8-suv-features-price-and-release-date
 reading_time: 8
-source_url: "https://carsnewsmag.com/jaecoo-8-suv-features-price-and-release-date/"
-imported_from: "wordpress"
+source_url: 'https://carsnewsmag.com/jaecoo-8-suv-features-price-and-release-date/'
+imported_from: wordpress
 wp_original_id: 38606
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: /assets/images/jaecoo-8-suv-features-price-and-release-date.webp
 seo:
-  canonical: "https://carsnewsmag.com/jaecoo-8-suv-features-price-and-release-date/"
-  og_title: "Jaecoo 8 SUV Features Price and Release Date - Cars News Magazine"
-  og_description: "The Jaecoo 8 is a seven-seat plug-in hybrid SUV targeting families with premium equipment, practical space and lower running costs, aiming to challenge established rivals without luxury-brand pricing."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2026/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://carsnewsmag.com/jaecoo-8-suv-features-price-and-release-date/'
+  og_title: Jaecoo 8 SUV Features Price and Release Date - Cars News Magazine
+  og_description: >-
+    The Jaecoo 8 is a seven-seat plug-in hybrid SUV targeting families with
+    premium equipment, practical space and lower running costs, aiming to
+    challenge established rivals without luxury-brand pricing.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2026/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 85
 score_breakdown:
   seo_quality: 75
@@ -27,7 +33,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written automotive review with good length and engaging tone, though title could be more compelling and some claims need verification."
+quality_note: >-
+  Well-written automotive review with good length and engaging tone, though
+  title could be more compelling and some claims need verification.
+image_alt: >-
+  Unbranded plug-in hybrid family SUV charging in a modern suburban driveway at
+  golden hour
 ---
 
 The Jaecoo 8 is aimed squarely at families who want a large SUV with premium equipment, seven-seat practicality and plug-in hybrid efficiency without moving into luxury-brand pricing. As the flagship model from Chery's Jaecoo brand, it sits above the Jaecoo 7 and targets established rivals such as the Kia Sorento, Hyundai Santa Fe, Skoda Kodiaq and Peugeot 5008.
