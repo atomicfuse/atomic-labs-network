@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-ais-impact-on-jobs-understanding-the-economic-realities
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: /assets/images/ais-impact-on-jobs-understanding-the-economic-realities.webp
 reading_time: 3
 quality_score: 70
 score_breakdown:
@@ -32,6 +32,9 @@ score_breakdown:
 quality_note: >-
   The article covers relevant topics well but is too short at 552 words and
   lacks the engaging, conversational tone expected for the tech-savvy audience.
+image_alt: >-
+  Abstract AI network reshapes a modern office workspace with human silhouettes
+  and geometric forms.
 ---
 ## The Growing Influence of AI on Employment
 
