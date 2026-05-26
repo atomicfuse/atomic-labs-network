@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: ''
 source_item_id: synthetic-creating-homemade-watermelon-wine-a-step-by-step-guide
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/creating-homemade-watermelon-wine-a-step-by-step-guide.webp
 reading_time: 3
 quality_score: 71
 score_breakdown:
@@ -34,6 +34,9 @@ quality_note: >-
   Good keyword coverage and wine recipe focus, but the content is too short,
   lacks specific details, and overuses vague phrases like 'according to reports'
   which hurt credibility.
+image_alt: >-
+  Sunlit kitchen counter with watermelon wedges and a glass jug of pink homemade
+  wine fermenting.
 ---
 ## Getting Started with Watermelon Wine
 
