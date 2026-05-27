@@ -1,25 +1,37 @@
 ---
-title: "6 Must-Watch TV Shows This Week, Including Mormon Wives Secrets"
-description: "This week's TV lineup features a new series exploring the complex lives of Mormon wives, alongside thrilling crime dramas, heartwarming family shows, and riveting documentaries to suit a wide range of viewers."
-type: "standard"
-status: "review"
-publishDate: "2025-05-12T06:01:32+00:00"
-author: "Taylor Winters"
+title: '6 Must-Watch TV Shows This Week, Including Mormon Wives Secrets'
+description: >-
+  This week's TV lineup features a new series exploring the complex lives of
+  Mormon wives, alongside thrilling crime dramas, heartwarming family shows, and
+  riveting documentaries to suit a wide range of viewers.
+type: standard
+status: review
+publishDate: '2025-05-12T06:01:32+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "6-must-watch-tv-shows-this-week-including-mormon-wives-secrets"
+  - TV News
+  - TV Shows
+slug: 6-must-watch-tv-shows-this-week-including-mormon-wives-secrets
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/6-must-watch-tv-shows-this-week-including-mormon-wives-secrets/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/6-must-watch-tv-shows-this-week-including-mormon-wives-secrets/
+imported_from: wordpress
 wp_original_id: 28025
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/6-must-watch-tv-shows-this-week-including-mormon-wives-secrets.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/6-must-watch-tv-shows-this-week-including-mormon-wives-secrets/"
-  og_title: "6 Must-Watch TV Shows This Week, Including Mormon Wives Secrets - TV Shows Magazine"
-  og_description: "This week, television offers captivating content with a new series exploring the complex lives of Mormon wives. Viewers can also enjoy thrilling crime dramas, heartwarming family shows, and riveting documentaries, providing a diverse array of storytelling experiences."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/05/make_file-19.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/6-must-watch-tv-shows-this-week-including-mormon-wives-secrets/
+  og_title: >-
+    6 Must-Watch TV Shows This Week, Including Mormon Wives Secrets - TV Shows
+    Magazine
+  og_description: >-
+    This week, television offers captivating content with a new series exploring
+    the complex lives of Mormon wives. Viewers can also enjoy thrilling crime
+    dramas, heartwarming family shows, and riveting documentaries, providing a
+    diverse array of storytelling experiences.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/05/make_file-19.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "The article has good tone and keyword coverage but suffers from being too short, lacking specific show details, and containing vague claims that could be fabricated."
+quality_note: >-
+  The article has good tone and keyword coverage but suffers from being too
+  short, lacking specific show details, and containing vague claims that could
+  be fabricated.
+image_alt: >-
+  Six glowing TV screens in a moody living room suggest a varied week of
+  must-watch shows.
 ---
 
 This week, television offers a diverse array of intriguing content that promises to captivate audiences with unique stories and engaging characters. Among the highlights is a new series that delves into the personal and complex lives of Mormon wives, offering a fresh perspective on a community often shrouded in mystery.
