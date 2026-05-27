@@ -1,27 +1,40 @@
 ---
-title: "Boost Your Upper Body Blood Flow with These 5 Essential Yoga Poses"
-description: "Yoga can be a powerful tool in enhancing circulation, especially in the upper body that houses critical organs. Five yoga poses — Downward Facing Dog, Upward Facing Dog, Mountain Pose, Cobra Pose, and Bridge Pose — can help stimulate and improve upper body circulation."
-type: "standard"
-status: "review"
-publishDate: "2025-04-14T07:31:42+00:00"
-author: "Taylor Winters"
+title: Boost Your Upper Body Blood Flow with These 5 Essential Yoga Poses
+description: >-
+  Yoga can be a powerful tool in enhancing circulation, especially in the upper
+  body that houses critical organs. Five yoga poses — Downward Facing Dog,
+  Upward Facing Dog, Mountain Pose, Cobra Pose, and Bridge Pose — can help
+  stimulate and improve upper body circulation.
+type: standard
+status: review
+publishDate: '2025-04-14T07:31:42+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga Postures"
-slug: "boost-your-upper-body-blood-flow-with-these-5-essential-yoga-poses"
+  - Yoga Poses
+  - Lifestyle
+  - Mindfullness
+  - Yoga Postures
+slug: boost-your-upper-body-blood-flow-with-these-5-essential-yoga-poses
 reading_time: 2
-source_url: "https://yogaterritory.com/boost-your-upper-body-blood-flow-with-these-5-essential-yoga-poses/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/boost-your-upper-body-blood-flow-with-these-5-essential-yoga-poses/
+imported_from: wordpress
 wp_original_id: 20589
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/boost-your-upper-body-blood-flow-with-these-5-essential-yoga-poses.webp
 seo:
-  canonical: "https://yogaterritory.com/boost-your-upper-body-blood-flow-with-these-5-essential-yoga-poses/"
-  og_title: "Boost Your Upper Body Blood Flow with These 5 Essential Yoga Poses - Yoga Territory"
-  og_description: "Yoga can be a powerful tool in enhancing circulation, especially in the upper body that houses critical organs. Five yoga poses namely Downward Facing Dog, Upward Facing Dog, Mountain Pose, Cobra Pose, and Bridge Pose can help stimulate and improve upper body circulation."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/04/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/boost-your-upper-body-blood-flow-with-these-5-essential-yoga-poses/
+  og_title: >-
+    Boost Your Upper Body Blood Flow with These 5 Essential Yoga Poses - Yoga
+    Territory
+  og_description: >-
+    Yoga can be a powerful tool in enhancing circulation, especially in the
+    upper body that houses critical organs. Five yoga poses namely Downward
+    Facing Dog, Upward Facing Dog, Mountain Pose, Cobra Pose, and Bridge Pose
+    can help stimulate and improve upper body circulation.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/04/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -29,7 +42,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant content, but significantly too short at 370 words compared to the 800-1200 word target."
+quality_note: >-
+  Well-written article with good tone and relevant content, but significantly
+  too short at 370 words compared to the 800-1200 word target.
+image_alt: >-
+  Person practicing yoga in warm sunlight with a subtle glow around the upper
+  body
 ---
 
 Boosting circulation throughout the body is integral to maintaining your health and well-being. It's especially important to ensure that your upper body, which encompasses critical organs like the heart and lungs, remains well-circulated. Yoga, a practice that brings together physical and mental disciplines, can be a powerful tool in enhancing circulation. Here are five yoga poses that can help stimulate and improve upper body circulation.
