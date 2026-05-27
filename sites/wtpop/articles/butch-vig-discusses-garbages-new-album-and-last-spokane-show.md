@@ -2,7 +2,7 @@
 title: "Butch Vig Discusses Garbage’s New Album and Last Spokane Show"
 description: "Garbage, known for their innovative blend of alternative rock and electronic music, continues to evolve with their latest album. Drummer and producer Butch Vig shares insights into their creative process, highlighting the band's collaborative spirit and musical versatility."
 type: "standard"
-status: "published"
+status: "review"
 publishDate: "2025-10-16T09:13:31+00:00"
 author: "Lena Harper"
 tags:
@@ -19,14 +19,14 @@ seo:
   og_description: "Garbage, known for their innovative blend of alternative rock and electronic music, continues to evolve with their latest album. Drummer and producer Butch Vig shares insights into their creative process, highlighting the band's collaborative spirit and musical versatility."
   og_image: "https://wtpop.com/wp-content/uploads/2025/10/make_file-1-1.jpeg"
   twitter_card: "summary_large_image"
-quality_score: 82
+quality_score: 70
 score_breakdown:
   seo_quality: 65
-  tone_match: 85
-  content_length: 75
-  factual_accuracy: 95
+  tone_match: 75
+  content_length: 35
+  factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written music article with good keyword relevance and tone, but needs better SEO optimization and slightly more content to reach ideal length."
+quality_note: "Strong music coverage with good tone but significantly under target word count at 539 words, limiting overall effectiveness."
 ---
 
 Garbage, an iconic band known for its unique blend of alternative rock and electronic music, continues to captivate audiences with their dynamic sound. In a recent interview, Butch Vig, the band's drummer and a celebrated producer, shared insights into their latest album and the creative journey behind it. Vig, renowned for his work with Nirvana and Smashing Pumpkins, brings a wealth of experience to Garbage, contributing to their ever-evolving musical style.

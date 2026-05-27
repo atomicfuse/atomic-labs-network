@@ -1,49 +1,31 @@
 ---
-title: Trump Unveils New Health Care Records System for Consumers
-description: >-
-  The U.S. is modernizing health records to streamline storage and access,
-  enhancing care quality by providing quick access to comprehensive patient
-  data. The new system uses cloud computing and encryption, reducing
-  administrative burdens and improving communication between healthcare
-  facilities.
-type: standard
-status: review
-publishDate: '2025-07-31T12:35:50+00:00'
-author: Lena Harper
+title: "Trump Unveils New Health Care Records System for Consumers"
+description: "The U.S. is modernizing health records to streamline storage and access, enhancing care quality by providing quick access to comprehensive patient data. The new system uses cloud computing and encryption, reducing administrative burdens and improving communication between healthcare facilities."
+type: "standard"
+status: "review"
+publishDate: "2025-07-31T12:35:50+00:00"
+author: "Lena Harper"
 tags:
-  - Celebrities
-  - TV &amp; Movies
-slug: trump-unveils-new-health-care-records-system-for-consumers
+  - "TV &amp; Movies"
+slug: "trump-unveils-new-health-care-records-system-for-consumers"
 reading_time: 3
-source_url: 'https://wtpop.com/trump-unveils-new-health-care-records-system-for-consumers/'
-imported_from: wordpress
+source_url: "https://wtpop.com/trump-unveils-new-health-care-records-system-for-consumers/"
+imported_from: "wordpress"
 wp_original_id: 519
-featuredImage: /assets/images/trump-unveils-new-health-care-records-system-for-consumers.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: >-
-    https://wtpop.com/trump-unveils-new-health-care-records-system-for-consumers/
-  og_title: Trump Unveils New Health Care Records System for Consumers - WTPOP
-  og_description: >-
-    The U.S. is modernizing health records to streamline storage and access,
-    enhancing care quality by providing quick access to comprehensive patient
-    data. The new system uses cloud computing and encryption, reducing
-    administrative burdens and improving communication between healthcare
-    facilities.
-  twitter_card: summary_large_image
-quality_score: 28
+  canonical: "https://wtpop.com/trump-unveils-new-health-care-records-system-for-consumers/"
+  og_title: "Trump Unveils New Health Care Records System for Consumers - WTPOP"
+  og_description: "The U.S. is modernizing health records to streamline storage and access, enhancing care quality by providing quick access to comprehensive patient data. The new system uses cloud computing and encryption, reducing administrative burdens and improving communication between healthcare facilities."
+  twitter_card: "summary_large_image"
+quality_score: 38
 score_breakdown:
-  seo_quality: 15
-  tone_match: 20
-  content_length: 70
-  factual_accuracy: 30
-  keyword_relevance: 5
-quality_note: >-
-  This article is completely off-topic for an entertainment site, focusing on
-  healthcare policy instead of celebrities, fashion, music, or TV/movies
-  content.
-image_alt: >-
-  Clinician using a tablet as secure digital health data connects across a
-  modern hospital setting
+  seo_quality: 25
+  tone_match: 60
+  content_length: 55
+  factual_accuracy: 40
+  keyword_relevance: 10
+quality_note: "This healthcare policy article completely mismatches the entertainment site's focus on celebrities, fashion, and pop culture, with poor SEO optimization and questionable accuracy claims."
 ---
 
 The landscape of healthcare information technology is undergoing significant changes with the introduction of a new policy aimed at modernizing health records management in the United States. This initiative is designed to streamline the way medical records are stored and accessed, offering both healthcare providers and patients a more efficient system.

@@ -20,14 +20,14 @@ seo:
   og_description: "The world of men's fashion is evolving with celebrities pushing traditional boundaries, blending classic elegance with modern flair on the red carpet. Vibrant colors, unique textures, and gender-neutral styles highlight a dynamic shift, inspiring fashion enthusiasts worldwide."
   og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-7.jpeg"
   twitter_card: "summary_large_image"
-quality_score: 73
+quality_score: 74
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 45
+  content_length: 50
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong fashion content with good tone but significantly under target word count and lacks specific celebrity examples or event details."
+quality_note: "Strong fashion content with engaging tone but significantly under target word count and lacks specific examples or celebrity names to support claims."
 ---
 
 The world of men's fashion is ever-evolving, with style icons consistently pushing the boundaries of traditional wear. Recently, several celebrities have made headlines with their bold choices on the red carpet, showcasing a blend of classic elegance and modern flair. From award ceremonies to exclusive premieres, these events have become a stage for sartorial innovation, drawing attention from fashion enthusiasts worldwide.

@@ -25,9 +25,9 @@ score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 60
-  factual_accuracy: 90
-  keyword_relevance: 95
-quality_note: "Strong celebrity fashion coverage with excellent keyword relevance and appropriate tone, but significantly under target word count at 478 words versus the 800-1200 target range."
+  factual_accuracy: 95
+  keyword_relevance: 90
+quality_note: "Well-written fashion piece with excellent tone and keyword relevance, but significantly under target word count at 478 words versus the 800-1200 target range."
 ---
 
 In the world of fashion, red carpet events often serve as the ultimate stage where high-profile personalities showcase their sartorial elegance. Recently, Anya Taylor-Joy, a rising star in Hollywood, graced Tiffany & Co.'s holiday celebration, captivating attendees with her striking ensemble. Her choice of attire, crafted by the innovative designer Dilara Findikoglu, was nothing short of a fashion spectacle.

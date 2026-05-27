@@ -20,14 +20,14 @@ seo:
   og_description: "James Gunn, co-head of DC Studios, has confirmed that actor Dave Bautista will not be playing Brainiac in future DC projects, dispelling recent rumors. Gunn's proactive communication aims to manage fan expectations and maintain transparency in the entertainment industry."
   og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-1.png"
   twitter_card: "summary_large_image"
-quality_score: 81
+quality_score: 83
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 65
+  content_length: 70
   factual_accuracy: 90
-  keyword_relevance: 90
-quality_note: "Well-written entertainment piece with good tone and keyword coverage, but falls short on word count and could benefit from stronger SEO optimization in title length and meta description."
+  keyword_relevance: 95
+quality_note: "Well-written entertainment piece with strong keyword relevance and engaging tone, but falls short of optimal length at 540 words instead of the target 800-1200 range."
 ---
 
 In recent weeks, the entertainment industry has been buzzing with speculation about casting choices for the upcoming DC Universe projects. One of the most talked-about rumors involved actor Dave Bautista potentially taking on the role of Brainiac in a future DC film. However, director James Gunn, now co-head of DC Studios, has put these rumors to rest, affirming that there is no truth to the speculation.

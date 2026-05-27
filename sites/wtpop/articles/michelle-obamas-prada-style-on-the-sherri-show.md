@@ -20,14 +20,14 @@ seo:
   og_description: "Michelle Obama appeared on a talk show wearing a stunning Prada outfit, showcasing her elegant and modern fashion sense. Her choice highlighted her influence on fashion trends and her continued impact as a stylish and respected public figure."
   og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-9-1.jpeg"
   twitter_card: "summary_large_image"
-quality_score: 68
+quality_score: 67
 score_breakdown:
   seo_quality: 65
-  tone_match: 80
-  content_length: 42
+  tone_match: 75
+  content_length: 40
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under target word count and lacks specific details about the actual appearance."
+quality_note: "Article covers relevant celebrity fashion content with appropriate tone but falls significantly short of target word count and lacks specific details about the actual appearance."
 ---
 
 Michelle Obama, renowned for her sophisticated style and powerful presence, recently graced a popular television program, showcasing her fashion-forward approach. Her choice of attire on this occasion was both contemporary and elegant, drawing significant attention and admiration from fashion enthusiasts and critics alike.
@@ -38,7 +38,7 @@ During her appearance on the talk show, Michelle Obama wore a stunning creation 
 
 ### Details of the Outfit
 
-The ensemble featured a sleek design that highlighted Michelle Obama's penchant for classic silhouettes combined with contemporary touches. The choice of color was both bold and sophisticated, enhancing her commanding presence. Accessories complemented the outfit perfectly, maintaining a balance between elegance and simplicity.
+The ensemble featured a sleek design that highlighted Michelle Obama's penchant for classic silhouettes combined with contemporary touches. The choice of color was both bold and sophisticated, enhancing her commanding presence. Accessories complimented the outfit perfectly, maintaining a balance between elegance and simplicity.
 
 ## Prada: A Symbol of Luxury
 

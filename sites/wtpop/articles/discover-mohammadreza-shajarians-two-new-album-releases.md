@@ -19,14 +19,14 @@ seo:
   og_description: "Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music lovers posthumously with two new albums, \"Monajat\" and \"Sarv-e-Chaman,\" showcasing his mastery of Persian classical music and offering a fresh glimpse into his artistic journey."
   og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-20.jpeg"
   twitter_card: "summary_large_image"
-quality_score: 69
+quality_score: 72
 score_breakdown:
   seo_quality: 65
   tone_match: 75
-  content_length: 40
+  content_length: 45
   factual_accuracy: 85
-  keyword_relevance: 80
-quality_note: "Well-written music article with appropriate tone but significantly under target word count at 515 words versus the 800-1200 range required."
+  keyword_relevance: 90
+quality_note: "Well-written article about music with good keyword relevance, but significantly under target word count at 515 words versus the 800-1200 target range."
 ---
 
 Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music lovers posthumously with the release of two new albums. These collections, titled "Monajat" and "Sarv-e-Chaman," showcase the iconic musician's mastery and dedication to Persian classical music. As the world remembers his significant contributions, these albums offer a fresh glimpse into his artistic journey.

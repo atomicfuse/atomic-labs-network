@@ -1,51 +1,35 @@
 ---
-title: 'Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story'
-description: >-
-  Discover the journey of finding hidden debt in a relationship and the
-  complications that arise when personal life intersects with friendships, as
-  told through a viral Reddit story.
-type: standard
-status: review
-publishDate: '2025-05-13T12:25:02+00:00'
-author: Lena Harper
+title: "Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story"
+description: "Discover the journey of finding hidden debt in a relationship and the complications that arise when personal life intersects with friendships."
+type: "standard"
+status: "review"
+publishDate: "2025-05-13T12:25:02+00:00"
+author: "Lena Harper"
 tags:
-  - Influencers
-slug: dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story
+  - "Influencers"
+slug: "dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story"
 reading_time: 2
-source_url: >-
-  https://wtpop.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/
-imported_from: wordpress
+source_url: "https://wtpop.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/"
+imported_from: "wordpress"
 wp_original_id: 461
-featuredImage: >-
-  /assets/images/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: >-
-    https://wtpop.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/
-  og_title: >-
-    Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story -
-    WTPOP
-  og_description: >-
-    Discover the journey of finding hidden debt in a relationship and the
-    complications that arise when personal life intersects with friendships.
-  twitter_card: summary_large_image
+  canonical: "https://wtpop.com/dealing-with-hidden-debt-and-awkward-wedding-situations-a-reddit-story/"
+  og_title: "Dealing with Hidden Debt and Awkward Wedding Situations: A Reddit Story - WTPOP"
+  og_description: "Discover the journey of finding hidden debt in a relationship and the complications that arise when personal life intersects with friendships."
+  twitter_card: "summary_large_image"
 videos:
-  - id: c856b279
-    url: 'https://www.youtube.com/watch?v=nbn8aUet5AU'
-    position: after-paragraph-2
-quality_score: 42
+  - id: "6b63094d"
+    url: "https://www.youtube.com/watch?v=nbn8aUet5AU"
+    position: "after-paragraph-2"
+quality_score: 41
 score_breakdown:
   seo_quality: 25
-  tone_match: 60
-  content_length: 25
+  tone_match: 45
+  content_length: 35
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: >-
-  While the content is well-written and engaging, it falls short on length, SEO
-  optimization, and relevance to the site's entertainment focus, being more
-  suited to relationship/advice content.
-image_alt: >-
-  Wedding table with hidden bills and rings, with two tense blurred figures in
-  the background.
+quality_note: "This article fails to meet wtpop's entertainment focus, being about Reddit relationship drama rather than celebrities, fashion, music, or TV/movies, and is significantly too short at 356 words."
 ---
 
 ## Introduction: The Hidden Debt Dilemma

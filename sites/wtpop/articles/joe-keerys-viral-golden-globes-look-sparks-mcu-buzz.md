@@ -28,7 +28,7 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written entertainment content with good keyword coverage and engaging tone, but falls short on length and contains some speculative claims about MCU involvement that lack verification."
+quality_note: "Engaging entertainment content with strong keyword coverage, but falls short on length and contains speculative claims about MCU involvement that lack substantiation."
 ---
 
 Joe Keery, best known for his role in the popular series "Stranger Things," recently captured widespread attention at the Golden Globes. His appearance sparked a flurry of reactions, thanks to his striking new look that set social media abuzz.

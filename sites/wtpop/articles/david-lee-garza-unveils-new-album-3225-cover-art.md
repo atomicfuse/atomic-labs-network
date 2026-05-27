@@ -1,46 +1,32 @@
 ---
-title: David Lee Garza Unveils New Album ‘3225’ Cover Art
-description: >-
-  Renowned Tejano band David Lee Garza y Los Musicales is set to release their
-  new album, "3225," promising a blend of traditional rhythms with modern
-  influences. Fans eagerly anticipate this fresh artistic direction, showcasing
-  innovation while staying true to their roots.
-type: standard
-status: published
-publishDate: '2025-12-15T11:31:13+00:00'
-author: Lena Harper
+title: "David Lee Garza Unveils New Album ‘3225’ Cover Art"
+description: "Renowned Tejano band David Lee Garza y Los Musicales is set to release their new album, \"3225,\" promising a blend of traditional rhythms with modern influences. Fans eagerly anticipate this fresh artistic direction, showcasing innovation while staying true to their roots."
+type: "standard"
+status: "published"
+publishDate: "2025-12-15T11:31:13+00:00"
+author: "Lena Harper"
 tags:
-  - Music
-slug: david-lee-garza-unveils-new-album-3225-cover-art
+  - "Music"
+slug: "david-lee-garza-unveils-new-album-3225-cover-art"
 reading_time: 3
-source_url: 'https://wtpop.com/david-lee-garza-unveils-new-album-3225-cover-art/'
-imported_from: wordpress
+source_url: "https://wtpop.com/david-lee-garza-unveils-new-album-3225-cover-art/"
+imported_from: "wordpress"
 wp_original_id: 729
-featuredImage: /assets/images/david-lee-garza-unveils-new-album-3225-cover-art.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: 'https://wtpop.com/david-lee-garza-unveils-new-album-3225-cover-art/'
-  og_title: David Lee Garza Unveils New Album '3225' Cover Art - WTPOP
-  og_description: >-
-    Renowned Tejano band David Lee Garza y Los Musicales is set to release their
-    new album, "3225," promising a blend of traditional rhythms with modern
-    influences. Fans eagerly anticipate this fresh artistic direction,
-    showcasing innovation while staying true to their roots.
-  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-12.jpeg'
-  twitter_card: summary_large_image
+  canonical: "https://wtpop.com/david-lee-garza-unveils-new-album-3225-cover-art/"
+  og_title: "David Lee Garza Unveils New Album '3225' Cover Art - WTPOP"
+  og_description: "Renowned Tejano band David Lee Garza y Los Musicales is set to release their new album, \"3225,\" promising a blend of traditional rhythms with modern influences. Fans eagerly anticipate this fresh artistic direction, showcasing innovation while staying true to their roots."
+  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-12.jpeg"
+  twitter_card: "summary_large_image"
 quality_score: 76
 score_breakdown:
-  seo_quality: 75
-  tone_match: 85
+  seo_quality: 65
+  tone_match: 75
   content_length: 60
-  factual_accuracy: 70
-  keyword_relevance: 90
-quality_note: >-
-  Well-written music article with strong keyword relevance and engaging tone,
-  but falls short on length requirements and contains some unverifiable claims
-  about album details.
-image_alt: >-
-  Accordion and bajo sexto under warm stage lights with modern neon accents in a
-  Tejano music setting.
+  factual_accuracy: 85
+  keyword_relevance: 95
+quality_note: "Strong music coverage with engaging tone but needs better SEO optimization and more content to reach target length."
 ---
 
 Renowned Tejano band David Lee Garza y Los Musicales is gearing up for the release of their highly anticipated new album, "3225." Fans and music enthusiasts alike are eager to experience the fresh sounds and artistic direction the band has taken with this latest project. The album promises a blend of traditional Tejano rhythms with modern influences, ensuring it appeals to both longtime followers and new listeners.

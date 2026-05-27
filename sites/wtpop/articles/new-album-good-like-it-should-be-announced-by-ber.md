@@ -1,45 +1,32 @@
 ---
-title: 'New Album ‘Good, Like It Should Be’ Announced by Ber'
-description: >-
-  Ber has announced her upcoming album "Good, Like It Should Be," a collection
-  of introspective songs exploring themes of self-discovery, relationships, and
-  modern life, marking a significant milestone in her evolving music career.
-type: standard
-status: published
-publishDate: '2025-12-08T13:02:11+00:00'
-author: Lena Harper
+title: "New Album ‘Good, Like It Should Be’ Announced by Ber"
+description: "Ber has announced her upcoming album \"Good, Like It Should Be,\" a collection of introspective songs exploring themes of self-discovery, relationships, and modern life, marking a significant milestone in her evolving music career."
+type: "standard"
+status: "published"
+publishDate: "2025-12-08T13:02:11+00:00"
+author: "Lena Harper"
 tags:
-  - Music
-slug: new-album-good-like-it-should-be-announced-by-ber
+  - "Music"
+slug: "new-album-good-like-it-should-be-announced-by-ber"
 reading_time: 3
-source_url: 'https://wtpop.com/new-album-good-like-it-should-be-announced-by-ber/'
-imported_from: wordpress
+source_url: "https://wtpop.com/new-album-good-like-it-should-be-announced-by-ber/"
+imported_from: "wordpress"
 wp_original_id: 712
-featuredImage: /assets/images/new-album-good-like-it-should-be-announced-by-ber.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: 'https://wtpop.com/new-album-good-like-it-should-be-announced-by-ber/'
-  og_title: 'New Album ''Good, Like It Should Be'' Announced by Ber - WTPOP'
-  og_description: >-
-    Ber's upcoming album "Good Like It Should Be" promises a blend of
-    introspective lyrics and innovative melodies, exploring themes of
-    self-discovery, relationships, and modern life complexities, marking a
-    significant milestone in her evolving music career.
-  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-4.jpeg'
-  twitter_card: summary_large_image
-quality_score: 75
+  canonical: "https://wtpop.com/new-album-good-like-it-should-be-announced-by-ber/"
+  og_title: "New Album 'Good, Like It Should Be' Announced by Ber - WTPOP"
+  og_description: "Ber's upcoming album \"Good Like It Should Be\" promises a blend of introspective lyrics and innovative melodies, exploring themes of self-discovery, relationships, and modern life complexities, marking a significant milestone in her evolving music career."
+  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-4.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 78
 score_breakdown:
   seo_quality: 65
   tone_match: 85
-  content_length: 60
-  factual_accuracy: 70
+  content_length: 55
+  factual_accuracy: 90
   keyword_relevance: 95
-quality_note: >-
-  Well-written music article with engaging tone and strong keyword relevance,
-  but falls short on length and lacks specific verifiable details about the
-  album announcement.
-image_alt: >-
-  Warm dusk recording room with guitar, notebook, and soft studio lights
-  suggesting a new album era.
+quality_note: "Strong music focus with engaging tone, but content is too short at 549 words and lacks SEO optimization like meta description and proper heading structure."
 ---
 
 In the vibrant world of music, fresh talent continues to emerge, captivating audiences with unique sounds and heartfelt lyrics. One such artist making waves is Ber, an inspiring musician who has announced her upcoming album titled *Good, Like It Should Be*. This announcement marks a significant milestone in her career, promising a collection of songs that resonate with authenticity and emotion.

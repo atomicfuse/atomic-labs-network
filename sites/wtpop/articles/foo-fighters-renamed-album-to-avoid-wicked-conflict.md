@@ -19,14 +19,14 @@ seo:
   og_description: "Dave Grohl jokingly suggested Wicked: For Good as a Foo Fighters album title, sparking fan speculation while underscoring the band’s enduring appeal and anticipation for their next chapter."
   og_image: "https://wtpop.com/wp-content/uploads/2026/05/make_file.jpeg"
   twitter_card: "summary_large_image"
-quality_score: 83
+quality_score: 82
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 100
-  factual_accuracy: 65
+  factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written entertainment piece with engaging tone and good length, but lacks specific sourcing for the central Dave Grohl quote, raising factual accuracy concerns."
+quality_note: "Well-written piece with excellent tone and length, but contains unverifiable claims about Grohl's specific comments that appear fabricated, significantly impacting factual accuracy despite strong entertainment focus."
 ---
 
 Dave Grohl knows how quickly a casual joke can become a rock headline. The Foo Fighters leader recently stirred fresh conversation around the band's future when he playfully floated *Wicked: For Good* as a possible name for a new Foo Fighters album. The comment was clearly delivered with a wink, but it still gave fans something exciting to debate: what comes next for one of modern rock's most enduring bands?

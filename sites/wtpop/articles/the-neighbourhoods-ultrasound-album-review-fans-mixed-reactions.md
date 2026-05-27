@@ -1,49 +1,32 @@
 ---
-title: 'The Neighbourhood’s UltraSOUND Album Review: Fans’ Mixed Reactions'
-description: >-
-  The Neighbourhood's "Ultrasound" album explores new sonic territories,
-  blending alternative rock, indie pop, electronic, and ambient elements. Fans
-  and critics are divided on its experimental nature, with some praising the
-  band's versatility and others missing their signature style.
-type: standard
-status: review
-publishDate: '2025-11-27T13:08:42+00:00'
-author: Lena Harper
+title: "The Neighbourhood’s UltraSOUND Album Review: Fans’ Mixed Reactions"
+description: "The Neighbourhood's \"Ultrasound\" album explores new sonic territories, blending alternative rock, indie pop, electronic, and ambient elements. Fans and critics are divided on its experimental nature, with some praising the band's versatility and others missing their signature style."
+type: "standard"
+status: "review"
+publishDate: "2025-11-27T13:08:42+00:00"
+author: "Lena Harper"
 tags:
-  - Music
-slug: the-neighbourhoods-ultrasound-album-review-fans-mixed-reactions
+  - "Music"
+slug: "the-neighbourhoods-ultrasound-album-review-fans-mixed-reactions"
 reading_time: 3
-source_url: >-
-  https://wtpop.com/the-neighbourhoods-ultrasound-album-review-fans-mixed-reactions/
-imported_from: wordpress
+source_url: "https://wtpop.com/the-neighbourhoods-ultrasound-album-review-fans-mixed-reactions/"
+imported_from: "wordpress"
 wp_original_id: 675
-featuredImage: >-
-  /assets/images/the-neighbourhoods-ultrasound-album-review-fans-mixed-reactions.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: >-
-    https://wtpop.com/the-neighbourhoods-ultrasound-album-review-fans-mixed-reactions/
-  og_title: 'The Neighbourhood''s UltraSOUND Album Review: Fans'' Mixed Reactions - WTPOP'
-  og_description: >-
-    The Neighbourhood's "Ultrasound" album explores new sonic territories,
-    blending alternative rock, indie pop, electronic, and ambient elements. Fans
-    and critics are divided on its experimental nature, with some praising the
-    band's versatility and others missing their signature style.
-  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file-8.jpeg'
-  twitter_card: summary_large_image
-quality_score: 65
+  canonical: "https://wtpop.com/the-neighbourhoods-ultrasound-album-review-fans-mixed-reactions/"
+  og_title: "The Neighbourhood's UltraSOUND Album Review: Fans' Mixed Reactions - WTPOP"
+  og_description: "The Neighbourhood's \"Ultrasound\" album explores new sonic territories, blending alternative rock, indie pop, electronic, and ambient elements. Fans and critics are divided on its experimental nature, with some praising the band's versatility and others missing their signature style."
+  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-8.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 70
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 45
-  factual_accuracy: 30
+  content_length: 40
+  factual_accuracy: 60
   keyword_relevance: 90
-quality_note: >-
-  Well-written music review with engaging tone and strong keyword relevance, but
-  severely penalized for likely fabricated album details and being too short at
-  only 442 words.
-image_alt: >-
-  Moody listening room with split-color sound waves suggesting mixed reactions
-  to experimental music
+quality_note: "Well-written music review with engaging tone and strong keyword relevance, but significantly under target word count and contains potential factual inaccuracies about album details."
 ---
 
 The Neighbourhood's latest release, "Ultrasound," has stirred a spectrum of reactions among listeners. Known for their unique blend of alternative rock and indie pop, the band has ventured into new sonic territories with this album. As fans dive into its tracks, the mixed reviews highlight its experimental nature.

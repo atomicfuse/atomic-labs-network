@@ -23,10 +23,10 @@ quality_score: 76
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 60
-  factual_accuracy: 70
+  content_length: 70
+  factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong music coverage with engaging tone but falls short on length and lacks verification of the album announcement which may be fabricated."
+quality_note: "Strong music content with engaging tone, but lacks verification of the album announcement and falls short of optimal word count."
 ---
 
 WayV, a prominent subunit of the South Korean boy band NCT, has announced their much-anticipated return to the music scene with a new winter album titled "Eternal White." This news has thrilled fans worldwide who have been eagerly waiting for fresh music from the talented group. The upcoming album promises to deliver the group's signature style, blending captivating melodies with powerful performances, and is poised to be a significant addition to their impressive discography.

@@ -19,14 +19,14 @@ seo:
   og_description: "Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie rock band known for their innovative sound and captivating performances. Formed by high school friends, Geese's unique blend of rock and experimental flair sets them apart, garnering industry attention."
   og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-13.jpeg"
   twitter_card: "summary_large_image"
-quality_score: 72
+quality_score: 68
 score_breakdown:
   seo_quality: 45
   tone_match: 75
-  content_length: 70
-  factual_accuracy: 85
+  content_length: 65
+  factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "The article covers music content well with appropriate tone, but the title doesn't match the content (no mention of Brooklyn Paramount or tour finale), and it's too short at 527 words."
+quality_note: "Article covers relevant music content well but lacks compelling SEO elements, has moderate length issues, and makes generic claims without specific verification."
 ---
 
 Brooklyn has long been recognized as a vibrant hub for the music industry, continuously nurturing a diverse array of artists and bands. Among these emerging talents, Geese, an indie rock band, has captured the attention of both fans and industry professionals with their innovative sound and engaging performances. This dynamic group represents the essence of the Brooklyn music scene, which thrives on creativity and experimentation.

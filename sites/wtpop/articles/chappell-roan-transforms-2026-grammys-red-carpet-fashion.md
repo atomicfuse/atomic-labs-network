@@ -21,12 +21,12 @@ seo:
   twitter_card: "summary_large_image"
 quality_score: 66
 score_breakdown:
-  seo_quality: 75
+  seo_quality: 72
   tone_match: 85
-  content_length: 60
+  content_length: 65
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance, but severely compromised by fictional 2026 Grammy content and below-target word count."
+quality_note: "Strong entertainment focus and engaging tone, but severely compromised by fabricated future events (2026 Grammys) and short length."
 ---
 
 The 2026 Grammy Awards are set to be a groundbreaking event, not just for the music industry but also in the realm of fashion. As artists prepare to make their mark on the red carpet, one name stands out for its innovative approach to style: Chappell Roan. Known for her bold choices and unique flair, Roan is poised to redefine what it means to dress for the Grammys.

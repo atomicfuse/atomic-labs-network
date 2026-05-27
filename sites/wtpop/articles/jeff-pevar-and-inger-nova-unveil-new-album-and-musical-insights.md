@@ -19,14 +19,14 @@ seo:
   og_description: "Jeff Pevar and Inger Nova's new album blends rock, blues, and jazz, showcasing Pevar's guitar mastery and Nova's soulful voice. Their collaboration highlights individual strengths, creating a sound that resonates with a diverse audience and garners positive reviews."
   og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-1.webp"
   twitter_card: "summary_large_image"
-quality_score: 70
+quality_score: 71
 score_breakdown:
   seo_quality: 65
-  tone_match: 80
-  content_length: 52
-  factual_accuracy: 70
-  keyword_relevance: 85
-quality_note: "Article has good tone and music relevance but falls short on length (525 words vs 800+ target) and lacks specific SEO optimization with generic headings and no meta description optimization."
+  tone_match: 75
+  content_length: 40
+  factual_accuracy: 85
+  keyword_relevance: 90
+quality_note: "Well-written music article with good tone and keyword relevance, but significantly under the target word count at only 525 words versus the 800-1200 range."
 ---
 
 Jeff Pevar and Inger Nova have teamed up to create a captivating new album that beautifully blends their musical talents. Their collaboration, marked by rich melodies and heartfelt lyrics, brings a fresh sound to the music scene. Pevar, a seasoned guitarist known for his work with Crosby, Stills & Nash and David Crosby's band CPR, joins forces with Nova, whose vocal prowess adds a unique layer to their music.

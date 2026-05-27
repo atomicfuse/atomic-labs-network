@@ -1,47 +1,35 @@
 ---
-title: Unveiling the Alleged FBI Cover-Up of Trump’s Past
-description: >-
-  Explore the claims surrounding Donald Trump's alleged secrets and the FBI's
-  purported involvement in covering them up, as discussed by MeidasTouch host
-  Ben Meiselas.
-type: standard
-status: review
-publishDate: '2025-05-19T13:26:50+00:00'
-author: Lena Harper
+title: "Unveiling the Alleged FBI Cover-Up of Trump’s Past"
+description: "Explore the claims surrounding Donald Trump's alleged secrets and the FBI's purported involvement in covering them up, as discussed by MeidasTouch host Ben Meiselas."
+type: "standard"
+status: "review"
+publishDate: "2025-05-19T13:26:50+00:00"
+author: "Lena Harper"
 tags:
-  - Celebrities
-slug: unveiling-the-alleged-fbi-cover-up-of-trumps-past
+  - "Celebrities"
+slug: "unveiling-the-alleged-fbi-cover-up-of-trumps-past"
 reading_time: 2
-source_url: 'https://wtpop.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/'
-imported_from: wordpress
+source_url: "https://wtpop.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/"
+imported_from: "wordpress"
 wp_original_id: 482
-featuredImage: /assets/images/unveiling-the-alleged-fbi-cover-up-of-trumps-past.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: 'https://wtpop.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/'
-  og_title: Unveiling the Alleged FBI Cover-Up of Trump's Past - WTPOP
-  og_description: >-
-    Explore the claims surrounding Donald Trump's alleged secrets and the FBI's
-    purported involvement in covering them up, as discussed by MeidasTouch host
-    Ben Meiselas.
-  twitter_card: summary_large_image
+  canonical: "https://wtpop.com/unveiling-the-alleged-fbi-cover-up-of-trumps-past/"
+  og_title: "Unveiling the Alleged FBI Cover-Up of Trump's Past - WTPOP"
+  og_description: "Explore the claims surrounding Donald Trump's alleged secrets and the FBI's purported involvement in covering them up, as discussed by MeidasTouch host Ben Meiselas."
+  twitter_card: "summary_large_image"
 videos:
-  - id: 07fcc2be
-    url: 'https://www.youtube.com/watch?v=fdmZ6TyEyds'
-    position: after-paragraph-2
-quality_score: 27
+  - id: "84abf436"
+    url: "https://www.youtube.com/watch?v=fdmZ6TyEyds"
+    position: "after-paragraph-2"
+quality_score: 46
 score_breakdown:
-  seo_quality: 25
+  seo_quality: 65
   tone_match: 40
   content_length: 25
-  factual_accuracy: 30
-  keyword_relevance: 15
-quality_note: >-
-  This political conspiracy article is completely misaligned with wtpop's
-  entertainment focus, severely under-length at 309 words, and lacks the
-  engaging conversational tone needed for entertainment audiences.
-image_alt: >-
-  Dim government corridor with sealed folders and blurred officials suggesting
-  political secrecy
+  factual_accuracy: 70
+  keyword_relevance: 30
+quality_note: "Article falls short with very low word count (309 vs 800-1200 target), weak entertainment focus for the site's audience, and overly formal tone that doesn't match the engaging conversational style expected."
 ---
 
 In recent discussions, the MeidasTouch Network has brought to light some intriguing claims regarding former President Donald Trump. Hosted by Ben Meiselas, the broadcast delved into the alleged connections between Trump and certain FBI affiliates, focusing on individuals like Kash Patel and Dan Bongino. These figures have been linked to a narrative suggesting discomfort when addressing some of Trump's past actions, said to be his biggest nightmare.

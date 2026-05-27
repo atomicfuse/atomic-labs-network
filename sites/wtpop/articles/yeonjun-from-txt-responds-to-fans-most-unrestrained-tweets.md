@@ -21,22 +21,22 @@ seo:
   og_description: "YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid reactions and humor."
   twitter_card: "summary_large_image"
 videos:
-  - id: "3adb2f33"
+  - id: "2a994021"
     url: "https://www.youtube.com/watch?v=-nJ1UstzIj4"
     position: "after-paragraph-2"
-quality_score: 69
+quality_score: 71
 score_breakdown:
   seo_quality: 65
   tone_match: 85
-  content_length: 35
-  factual_accuracy: 70
+  content_length: 25
+  factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Strong tone and keyword coverage but significantly under target length and lacks specific details about the actual event."
+quality_note: "Strong tone and keyword relevance but severely penalized for being too short at only 314 words when 800-1200 is expected."
 ---
 
 In an exciting interaction with fans, YEONJUN from the popular K-pop group TXT took on the internet's infamous challenge of reading 'thirst tweets.' These tweets, often filled with humor and admiration, offer a glimpse into the playful relationship between celebrities and their fans.
 
-During this engaging session, YEONJUN demonstrated his charm and wit, as he responded to some of the most audacious and entertaining messages from fans. His reactions, ranging from laughter to surprise, revealed his personable nature and ability to connect with his audience on a light-hearted level.
+During this engaging session, YEONJUN demonstrated his charm and wit as he responded to some of the most audacious and entertaining messages from fans. His reactions, ranging from laughter to surprise, revealed his personable nature and ability to connect with his audience on a light-hearted level.
 
 ## Why Thirst Tweets Are a Trend
 

@@ -6,7 +6,6 @@ status: "published"
 publishDate: "2025-12-04T11:17:52+00:00"
 author: "Lena Harper"
 tags:
-  - "Celebrities"
   - "TV &amp; Movies"
 slug: "cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz"
 reading_time: 3
@@ -27,7 +26,7 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong entertainment focus with engaging tone, but falls short on length and may contain unverified casting rumors presented as fact."
+quality_note: "Well-written entertainment piece with strong keyword relevance and good tone, but significantly under target length and relies heavily on unconfirmed rumors without clear sourcing."
 ---
 
 In the ever-evolving world of entertainment, casting rumors often ignite passionate discussions among fans. The latest buzz surrounds the potential reboot of the beloved Harry Potter series, with whispers of Cynthia Erivo possibly stepping into the iconic role of Lord Voldemort. This speculation has captivated audiences, fueling debates about the future of the franchise and the intriguing casting choices being considered.

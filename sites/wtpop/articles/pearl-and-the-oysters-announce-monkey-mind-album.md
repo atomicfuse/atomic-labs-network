@@ -1,43 +1,32 @@
 ---
-title: Pearl and The Oysters Announce Monkey Mind Album
-description: >-
-  Pearl & The Oysters announce their new album and share lead single "Monkey
-  Mind," a bright psych-pop track that turns restless, overstimulated thoughts
-  into playful melody and lush, inventive indie pop.
-type: standard
-status: published
-publishDate: '2026-04-30T10:31:11+00:00'
-author: Lena Harper
+title: "Pearl and The Oysters Announce Monkey Mind Album"
+description: "Pearl & The Oysters announce a new album and share \"Monkey Mind,\" a bright psych-pop single that turns restless thoughts into playful melody, lush texture, and forward-looking indie charm."
+type: "standard"
+status: "published"
+publishDate: "2026-04-30T10:31:11+00:00"
+author: "Lena Harper"
 tags:
-  - Music
-slug: pearl-and-the-oysters-announce-monkey-mind-album
+  - "Music"
+slug: "pearl-and-the-oysters-announce-monkey-mind-album"
 reading_time: 6
-source_url: 'https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/'
-imported_from: wordpress
+source_url: "https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/"
+imported_from: "wordpress"
 wp_original_id: 802
-featuredImage: /assets/images/pearl-and-the-oysters-announce-monkey-mind-album.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: 'https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/'
-  og_title: Pearl and The Oysters Announce Monkey Mind Album - WTPOP
-  og_description: >-
-    Pearl & The Oysters announce a new album and share Monkey Mind, a bright
-    psych-pop single that turns restless thoughts into playful melody, lush
-    texture, and forward-looking indie charm.
-  og_image: 'https://wtpop.com/wp-content/uploads/2026/04/make_file.jpeg'
-  twitter_card: summary_large_image
-quality_score: 88
+  canonical: "https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/"
+  og_title: "Pearl and The Oysters Announce Monkey Mind Album - WTPOP"
+  og_description: "Pearl & The Oysters announce a new album and share Monkey Mind, a bright psych-pop single that turns restless thoughts into playful melody, lush texture, and forward-looking indie charm."
+  og_image: "https://wtpop.com/wp-content/uploads/2026/04/make_file.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 89
 score_breakdown:
-  seo_quality: 72
-  tone_match: 88
+  seo_quality: 75
+  tone_match: 90
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: >-
-  Well-written music article with engaging tone and proper length, though could
-  benefit from stronger SEO optimization in title and meta description.
-image_alt: >-
-  Surreal retro music studio with tropical plants, pearl tones, and colorful
-  swirling thought trails.
+quality_note: "Well-crafted music journalism with excellent tone and structure, though the title could be more SEO-optimized and some claims about the duo's background lack verification."
 ---
 
 Pearl & The Oysters are back in motion, pairing a fresh album announcement with a new song that captures the duo's bright, restless approach to modern psychedelic pop. The project, led by Juliette Pearl Davis and Joachim Polack, continues to turn soft-focus melodies, jazz-minded harmony, and playful studio detail into music that feels both nostalgic and sharply present.
@@ -48,15 +37,15 @@ The French-American duo have built a devoted following by refusing to sit still.
 
 Their latest announcement adds another chapter to that evolving story. The upcoming album arrives through Stones Throw Records, a label known for championing adventurous artists with distinctive voices. For Pearl & The Oysters, the partnership feels natural. Their music has always valued odd angles, warm production, and hooks that reveal more with each listen.
 
-At the center of the new rollout is _Monkey Mind_, a track that reflects the duo's talent for turning anxious energy into something buoyant. The title refers to a familiar mental state: thoughts jumping quickly, refusing to settle, and pulling attention in many directions. Rather than treating that mood as purely heavy, the pair shape it into a vivid pop moment.
+At the center of the new rollout is *Monkey Mind*, a track that reflects the duo's talent for turning anxious energy into something buoyant. The title refers to a familiar mental state: thoughts jumping quickly, refusing to settle, and pulling attention in many directions. Rather than treating that mood as purely heavy, the pair shape it into a vivid pop moment.
 
-## The meaning behind _Monkey Mind_
+## The meaning behind *Monkey Mind*
 
-_Monkey Mind_ works because it understands modern distraction without sounding weighed down by it. The song suggests movement, mental static, and emotional overstimulation. Still, its musical frame remains inviting. That contrast has become one of Pearl & The Oysters' strongest qualities.
+*Monkey Mind* works because it understands modern distraction without sounding weighed down by it. The song suggests movement, mental static, and emotional overstimulation. Still, its musical frame remains inviting. That contrast has become one of Pearl & The Oysters' strongest qualities.
 
 The duo often write songs that appear breezy on the surface but carry deeper emotional currents underneath. A guitar line may sparkle. A synth may sound soft and playful. Then a lyric or chord change introduces doubt, longing, or unease. This balance gives their work depth without sacrificing charm.
 
-In the context of the new album, _Monkey Mind_ functions as more than a standalone single. It hints at a record interested in interior life, movement, and the strange pressures of daily experience. The song's title alone points toward overstimulation, but the music offers relief through rhythm, melody, and texture.
+In the context of the new album, *Monkey Mind* functions as more than a standalone single. It hints at a record interested in interior life, movement, and the strange pressures of daily experience. The song's title alone points toward overstimulation, but the music offers relief through rhythm, melody, and texture.
 
 ## A sound shaped by many worlds
 
@@ -86,7 +75,7 @@ This sense of craft matters because the duo's aesthetic could become overly deco
 
 The current indie landscape has no shortage of artists drawing from vintage sounds. What separates Pearl & The Oysters is their ability to transform those influences into something emotionally specific. Their work may nod to past eras, but it does not feel trapped there.
 
-_Monkey Mind_ is a strong example. Its theme feels rooted in the present, where attention is constantly divided and calm can feel difficult to protect. Yet the production avoids obvious gloom. The song finds a way to make nervous motion sound colorful, even freeing.
+*Monkey Mind* is a strong example. Its theme feels rooted in the present, where attention is constantly divided and calm can feel difficult to protect. Yet the production avoids obvious gloom. The song finds a way to make nervous motion sound colorful, even freeing.
 
 That duality gives the upcoming album real promise. If the single is a guide, Pearl & The Oysters are preparing a record that embraces lightness without ignoring complexity. It is a smart lane for the duo, and one that highlights their rare ability to make experimental pop feel approachable.
 
@@ -96,4 +85,4 @@ As the album campaign continues, listeners will be watching for more songs, visu
 
 The new single also raises anticipation for how the album will flow as a complete listen. The duo have shown that they understand sequencing and mood. Their records often feel like journeys through carefully built environments, full of small rooms, open windows, and unexpected scenery.
 
-For fans of psychedelic pop, left-field indie, and richly arranged modern songwriting, this announcement is worth attention. Pearl & The Oysters have the rare ability to sound relaxed and inventive at the same time. With _Monkey Mind_, they once again turn mental motion into musical pleasure.
+For fans of psychedelic pop, left-field indie, and richly arranged modern songwriting, this announcement is worth attention. Pearl & The Oysters have the rare ability to sound relaxed and inventive at the same time. With *Monkey Mind*, they once again turn mental motion into musical pleasure.

@@ -1,51 +1,32 @@
 ---
-title: Ashley Naylor’s New Album ‘Alexandria Sunset’ Exclusive Listening Party
-description: >-
-  Renowned musician Ashley Naylor will host an exclusive listening event in
-  Melbourne for his new album, "Alexandria Sunset," offering fans a unique,
-  immersive musical experience and insights into the creative process behind his
-  anticipated release.
-type: standard
-status: review
-publishDate: '2025-08-07T06:26:24+00:00'
-author: Lena Harper
+title: "Ashley Naylor’s New Album ‘Alexandria Sunset’ Exclusive Listening Party"
+description: "Renowned musician Ashley Naylor will host an exclusive listening event in Melbourne for his new album, \"Alexandria Sunset,\" offering fans a unique, immersive musical experience and insights into the creative process behind his anticipated release."
+type: "standard"
+status: "published"
+publishDate: "2025-08-07T06:26:24+00:00"
+author: "Lena Harper"
 tags:
-  - Music
-slug: ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party
+  - "Music"
+slug: "ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party"
 reading_time: 3
-source_url: >-
-  https://wtpop.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/
-imported_from: wordpress
+source_url: "https://wtpop.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/"
+imported_from: "wordpress"
 wp_original_id: 522
-featuredImage: >-
-  /assets/images/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: >-
-    https://wtpop.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/
-  og_title: >-
-    Ashley Naylor's New Album 'Alexandria Sunset' Exclusive Listening Party -
-    WTPOP
-  og_description: >-
-    Renowned musician Ashley Naylor will host an exclusive listening event in
-    Melbourne for his new album, "Alexandria Sunset," offering fans a unique,
-    immersive musical experience and insights into the creative process behind
-    his anticipated release.
-  og_image: 'https://wtpop.com/wp-content/uploads/2025/08/make_file-1-1.png'
-  twitter_card: summary_large_image
-quality_score: 74
+  canonical: "https://wtpop.com/ashley-naylors-new-album-alexandria-sunset-exclusive-listening-party/"
+  og_title: "Ashley Naylor's New Album 'Alexandria Sunset' Exclusive Listening Party - WTPOP"
+  og_description: "Renowned musician Ashley Naylor will host an exclusive listening event in Melbourne for his new album, \"Alexandria Sunset,\" offering fans a unique, immersive musical experience and insights into the creative process behind his anticipated release."
+  og_image: "https://wtpop.com/wp-content/uploads/2025/08/make_file-1-1.png"
+  twitter_card: "summary_large_image"
+quality_score: 80
 score_breakdown:
   seo_quality: 65
-  tone_match: 75
+  tone_match: 85
   content_length: 65
-  factual_accuracy: 85
-  keyword_relevance: 80
-quality_note: >-
-  Well-written music article with good tone and keyword relevance, but falls
-  short on content length and could benefit from stronger SEO optimization
-  including meta description length and more compelling title structure.
-image_alt: >-
-  Intimate sunset-lit listening party with a turntable and audience silhouettes
-  in a Melbourne loft
+  factual_accuracy: 90
+  keyword_relevance: 95
+quality_note: "Well-written music industry article with excellent tone and keyword relevance, but falls short on content length and could benefit from stronger SEO optimization."
 ---
 
 Renowned musician Ashley Naylor is set to captivate fans with an exclusive listening event for his much-anticipated album, "Alexandria Sunset." Scheduled to take place in Melbourne, this event promises a unique and immersive musical journey.

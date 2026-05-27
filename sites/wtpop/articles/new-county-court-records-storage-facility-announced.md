@@ -6,7 +6,6 @@ status: "review"
 publishDate: "2025-11-30T15:11:42+00:00"
 author: "Lena Harper"
 tags:
-  - "Celebrities"
   - "TV &amp; Movies"
 slug: "new-county-court-records-storage-facility-announced"
 reading_time: 3
@@ -19,14 +18,14 @@ seo:
   og_title: "New County Court Records Storage Facility Announced - WTPOP"
   og_description: "A new facility is being constructed to address storage needs for county court records, aiming to modernize and expand capacity. This initiative will enhance access and security, featuring state-of-the-art climate control and digital technologies for efficient records management."
   twitter_card: "summary_large_image"
-quality_score: 38
+quality_score: 43
 score_breakdown:
-  seo_quality: 15
-  tone_match: 25
-  content_length: 60
+  seo_quality: 20
+  tone_match: 30
+  content_length: 70
   factual_accuracy: 85
-  keyword_relevance: 5
-quality_note: "This article is completely off-topic for an entertainment site, covering government infrastructure instead of celebrities, fashion, music, or TV/movies despite having entertainment tags."
+  keyword_relevance: 10
+quality_note: "This article about county court records storage is completely misaligned with wtpop's entertainment focus, lacks proper SEO optimization, and uses an overly formal tone inappropriate for the target audience."
 ---
 
 A significant development is underway as a new facility is being constructed to address storage needs for county court records. This initiative aims to modernize and expand the capacity for storing crucial legal documents, enhancing both access and security.

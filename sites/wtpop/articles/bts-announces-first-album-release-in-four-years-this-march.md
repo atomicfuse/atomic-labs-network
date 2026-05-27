@@ -1,48 +1,33 @@
 ---
-title: BTS Announces First Album Release in Four Years This March
-description: >-
-  BTS is set to release a new album in March, marking a significant milestone in
-  their career. Known for innovative sounds and poignant themes, the album is
-  eagerly anticipated by fans worldwide, promising to redefine the global music
-  landscape.
-type: standard
-status: review
-publishDate: '2026-01-01T10:47:16+00:00'
-author: Lena Harper
+title: "BTS Announces First Album Release in Four Years This March"
+description: "BTS is set to release a new album in March, marking a significant milestone in their career. Known for innovative sounds and poignant themes, the album is eagerly anticipated by fans worldwide, promising to redefine the global music landscape."
+type: "standard"
+status: "review"
+publishDate: "2026-01-01T10:47:16+00:00"
+author: "Lena Harper"
 tags:
-  - Celebrities
-  - Music
-slug: bts-announces-first-album-release-in-four-years-this-march
+  - "Celebrities"
+  - "Music"
+slug: "bts-announces-first-album-release-in-four-years-this-march"
 reading_time: 3
-source_url: 'https://wtpop.com/bts-announces-first-album-release-in-four-years-this-march/'
-imported_from: wordpress
+source_url: "https://wtpop.com/bts-announces-first-album-release-in-four-years-this-march/"
+imported_from: "wordpress"
 wp_original_id: 754
-featuredImage: /assets/images/bts-announces-first-album-release-in-four-years-this-march.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: >-
-    https://wtpop.com/bts-announces-first-album-release-in-four-years-this-march/
-  og_title: BTS Announces First Album Release in Four Years This March - WTPOP
-  og_description: >-
-    BTS is set to release a new album in March, marking a significant milestone
-    in their career. Known for innovative sounds and poignant themes, the album
-    is eagerly anticipated by fans worldwide, promising to redefine the global
-    music landscape.
-  og_image: 'https://wtpop.com/wp-content/uploads/2026/01/make_file.jpeg'
-  twitter_card: summary_large_image
-quality_score: 64
+  canonical: "https://wtpop.com/bts-announces-first-album-release-in-four-years-this-march/"
+  og_title: "BTS Announces First Album Release in Four Years This March - WTPOP"
+  og_description: "BTS is set to release a new album in March, marking a significant milestone in their career. Known for innovative sounds and poignant themes, the album is eagerly anticipated by fans worldwide, promising to redefine the global music landscape."
+  og_image: "https://wtpop.com/wp-content/uploads/2026/01/make_file.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 68
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
-  factual_accuracy: 20
+  content_length: 60
+  factual_accuracy: 30
   keyword_relevance: 90
-quality_note: >-
-  Strong tone and keyword relevance but severely penalized for factual
-  inaccuracy regarding BTS's album timeline and content length below target
-  range.
-image_alt: >-
-  Seven performers face a glowing stage as concert lights suggest an anticipated
-  global music comeback.
+quality_note: "Strong entertainment focus and engaging tone, but significantly damaged by factual inaccuracy claiming a new BTS album release when the group is on hiatus, plus article falls short of target word count."
 ---
 
 In an exciting development for music enthusiasts worldwide, the globally acclaimed South Korean band BTS is preparing to release their much-anticipated new album. Fans are eagerly awaiting this new chapter in BTS's illustrious career, which promises to deliver both innovative sounds and poignant themes. Scheduled for release in March, this album marks a significant milestone for the group as they continue to redefine the global music landscape.
