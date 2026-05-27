@@ -1,25 +1,38 @@
 ---
-title: "Warren Buffett’s Top Tips on Debt, Parenting, and Career Choices"
-description: "Warren Buffett offers life insights beyond finance, emphasizing prudent financial management, career passion, and parenting values. He advocates for living within means, investing in oneself, and learning from mistakes, providing a roadmap to personal and professional success."
-type: "standard"
-status: "review"
-publishDate: "2026-01-26T09:59:27+00:00"
-author: "Taylor Winters"
+title: 'Warren Buffett’s Top Tips on Debt, Parenting, and Career Choices'
+description: >-
+  Warren Buffett offers life insights beyond finance, emphasizing prudent
+  financial management, career passion, and parenting values. He advocates for
+  living within means, investing in oneself, and learning from mistakes,
+  providing a roadmap to personal and professional success.
+type: standard
+status: review
+publishDate: '2026-01-26T09:59:27+00:00'
+author: Taylor Winters
 tags:
-  - "Parenting"
-  - "Parents"
-slug: "warren-buffetts-top-tips-on-debt-parenting-and-career-choices"
+  - Parenting
+  - Parents
+slug: warren-buffetts-top-tips-on-debt-parenting-and-career-choices
 reading_time: 3
-source_url: "https://babyparenttrends.com/warren-buffetts-top-tips-on-debt-parenting-and-career-choices/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/warren-buffetts-top-tips-on-debt-parenting-and-career-choices/
+imported_from: wordpress
 wp_original_id: 17770
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/warren-buffetts-top-tips-on-debt-parenting-and-career-choices.webp
 seo:
-  canonical: "https://babyparenttrends.com/warren-buffetts-top-tips-on-debt-parenting-and-career-choices/"
-  og_title: "Warren Buffett's Top Tips on Debt, Parenting, and Career Choices - Baby Parent Trends"
-  og_description: "Warren Buffett offers life insights beyond finance, emphasizing prudent financial management, career passion, and parenting values. He advocates for living within means, investing in oneself, and learning from mistakes, providing a roadmap to personal and professional success."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/warren-buffetts-top-tips-on-debt-parenting-and-career-choices/
+  og_title: >-
+    Warren Buffett's Top Tips on Debt, Parenting, and Career Choices - Baby
+    Parent Trends
+  og_description: >-
+    Warren Buffett offers life insights beyond finance, emphasizing prudent
+    financial management, career passion, and parenting values. He advocates for
+    living within means, investing in oneself, and learning from mistakes,
+    providing a roadmap to personal and professional success.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good structure and accuracy, but significantly under target word count and only partially aligned with the site's core family/baby content focus."
+quality_note: >-
+  Well-written article with good structure and accuracy, but significantly under
+  target word count and only partially aligned with the site's core family/baby
+  content focus.
+image_alt: >-
+  Warm study table with a wallet, book, pen, and family keepsake symbolizing
+  practical life advice.
 ---
 
 Warren Buffett, renowned for his investment acumen and leadership of Berkshire Hathaway, offers insights that extend beyond finance. His advice touches on various aspects of life, including personal finance, career choices, and parenting. Buffett's wisdom, accumulated over decades, provides a roadmap for achieving both personal and professional success.
