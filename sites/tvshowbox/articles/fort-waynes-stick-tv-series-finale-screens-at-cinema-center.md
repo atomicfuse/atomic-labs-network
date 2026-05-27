@@ -1,25 +1,35 @@
 ---
-title: "Fort Wayne’s ‘Stick’ TV Series Finale Screens at Cinema Center"
-description: "The final episode of \"Stick,\" a Fort Wayne-based TV series, was celebrated at the Cinema Center, highlighting its impact on local culture, community support, and the future of homegrown productions in the region."
-type: "standard"
-status: "published"
-publishDate: "2025-08-07T04:23:30+00:00"
-author: "Taylor Winters"
+title: Fort Wayne’s ‘Stick’ TV Series Finale Screens at Cinema Center
+description: >-
+  The final episode of "Stick," a Fort Wayne-based TV series, was celebrated at
+  the Cinema Center, highlighting its impact on local culture, community
+  support, and the future of homegrown productions in the region.
+type: standard
+status: published
+publishDate: '2025-08-07T04:23:30+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "fort-waynes-stick-tv-series-finale-screens-at-cinema-center"
+  - TV News
+  - TV
+slug: fort-waynes-stick-tv-series-finale-screens-at-cinema-center
 reading_time: 3
-source_url: "https://tvshowbox.com/fort-waynes-stick-tv-series-finale-screens-at-cinema-center/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/fort-waynes-stick-tv-series-finale-screens-at-cinema-center/
+imported_from: wordpress
 wp_original_id: 23922
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/fort-waynes-stick-tv-series-finale-screens-at-cinema-center.webp
 seo:
-  canonical: "https://tvshowbox.com/fort-waynes-stick-tv-series-finale-screens-at-cinema-center/"
-  og_title: "Fort Wayne's 'Stick' TV Series Finale Screens at Cinema Center - TV Show Box"
-  og_description: "The final episode of \"Stick,\" a Fort Wayne-based series, was celebrated at the Cinema Center, highlighting its impact on local culture and the arts community. The show fostered appreciation for Fort Wayne's cultural tapestry and inspired future local productions."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/08/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/fort-waynes-stick-tv-series-finale-screens-at-cinema-center/
+  og_title: Fort Wayne's 'Stick' TV Series Finale Screens at Cinema Center - TV Show Box
+  og_description: >-
+    The final episode of "Stick," a Fort Wayne-based series, was celebrated at
+    the Cinema Center, highlighting its impact on local culture and the arts
+    community. The show fostered appreciation for Fort Wayne's cultural tapestry
+    and inspired future local productions.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/08/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written local TV news piece with engaging tone and good keyword coverage, but raises factual concerns about the existence of the 'Stick' series and is slightly short of target length."
+quality_note: >-
+  Well-written local TV news piece with engaging tone and good keyword coverage,
+  but raises factual concerns about the existence of the 'Stick' series and is
+  slightly short of target length.
+image_alt: >-
+  Community members gather in a warmly lit independent cinema lobby after a
+  local screening.
 ---
 
 In a vibrant display of local talent, the Cinema Center in Fort Wayne recently hosted a significant event marking the culmination of a locally cherished television series. The final episode of "Stick," a production deeply rooted in Fort Wayne, was showcased to a captivated audience, highlighting the unique cultural narratives of the region.
