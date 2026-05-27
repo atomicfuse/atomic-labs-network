@@ -22,7 +22,7 @@ source_url: >-
   https://parade.com/health/how-many-times-a-week-to-do-pilates-for-toned-physique
 source_item_id: 6a07fc2a4bdae0614e7aae7a
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/how-often-pilates-for-visible-toning-results.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   of specific guidance, and repeated references to unspecified 'reports' without
   providing the actual frequency recommendations promised in the title.
 reading_time: 3
+image_alt: >-
+  Woman practicing a controlled Pilates pose in a bright modern studio with
+  reformers in the background.
 ---
 ## The Pilates Toning Question Everyone's Asking
 
