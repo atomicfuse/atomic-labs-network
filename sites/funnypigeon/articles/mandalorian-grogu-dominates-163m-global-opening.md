@@ -22,7 +22,7 @@ source_url: >-
   https://deadline.com/2026/05/box-office-global-mandalorian-and-grogu-michael-1236920504/
 source_item_id: 6a151f7316f23264031d8112
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/mandalorian-grogu-dominates-163m-global-opening.webp
 quality_score: 22
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   films and fails to match the site's entertainment/viral content focus, making
   it unsuitable for funnypigeon's audience.
 reading_time: 2
+image_alt: >-
+  Small cloaked alien silhouette before a glowing futuristic cinema with blurred
+  crowds behind
 ---
 ## Disney+ Franchise Makes Theatrical Splash
 
