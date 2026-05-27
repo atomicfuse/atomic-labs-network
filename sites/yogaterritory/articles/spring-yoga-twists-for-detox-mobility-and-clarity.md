@@ -1,27 +1,33 @@
 ---
-title: "Spring Yoga Twists for Detox, Mobility, and Clarity"
-description: "Refresh your spring fitness routine with gentle twisting yoga poses, clearing breaths, and mindful movement designed to improve mobility, posture, balance, and energy without intense equipment or long workouts."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:42:12+00:00"
-author: "Taylor Winters"
+title: 'Spring Yoga Twists for Detox, Mobility, and Clarity'
+description: >-
+  Refresh your spring fitness routine with gentle twisting yoga poses, clearing
+  breaths, and mindful movement designed to improve mobility, posture, balance,
+  and energy without intense equipment or long workouts.
+type: standard
+status: published
+publishDate: '2026-05-18T08:42:12+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Beginners"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "spring-yoga-twists-for-detox-mobility-and-clarity"
+  - Yoga Poses
+  - Yoga For Beginners
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: spring-yoga-twists-for-detox-mobility-and-clarity
 reading_time: 7
-source_url: "https://yogaterritory.com/spring-yoga-twists-for-detox-mobility-and-clarity/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/spring-yoga-twists-for-detox-mobility-and-clarity/'
+imported_from: wordpress
 wp_original_id: 20763
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/spring-yoga-twists-for-detox-mobility-and-clarity.webp
 seo:
-  canonical: "https://yogaterritory.com/spring-yoga-twists-for-detox-mobility-and-clarity/"
-  og_title: "Spring Yoga Twists for Detox, Mobility, and Clarity - Yoga Territory"
-  og_description: "Refresh your spring fitness routine with gentle twisting yoga poses, clearing breaths, and mindful movement designed to improve mobility, posture, balance, and energy without intense equipment or long workouts."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/spring-yoga-twists-for-detox-mobility-and-clarity/'
+  og_title: 'Spring Yoga Twists for Detox, Mobility, and Clarity - Yoga Territory'
+  og_description: >-
+    Refresh your spring fitness routine with gentle twisting yoga poses,
+    clearing breaths, and mindful movement designed to improve mobility,
+    posture, balance, and energy without intense equipment or long workouts.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 92
 score_breakdown:
   seo_quality: 85
@@ -29,7 +35,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-crafted article with excellent tone and comprehensive coverage of yoga poses, though the title could be slightly shorter for optimal SEO impact."
+quality_note: >-
+  Well-crafted article with excellent tone and comprehensive coverage of yoga
+  poses, though the title could be slightly shorter for optimal SEO impact.
+image_alt: >-
+  Person practicing a gentle seated yoga twist in a bright, peaceful spring
+  setting
 ---
 
 Spring is an ideal season to refresh your movement routine, and a yoga practice built around clearing breaths and gentle twists can help the body feel lighter, looser, and more focused. A spring-inspired Fitness Friday routine can support mobility, posture, balance, and mindful energy without requiring intense equipment or a long workout window.
