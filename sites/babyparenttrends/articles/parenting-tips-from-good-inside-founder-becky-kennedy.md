@@ -1,26 +1,38 @@
 ---
-title: "Parenting Tips from ‘Good Inside’ Founder Becky Kennedy"
-description: "Dr. Becky Kennedy's Good Inside initiative emphasizes empathy, understanding, and connection in parenting. By focusing on children's inherent goodness, her approach provides tools for fostering healthy relationships, empowering parents to navigate modern parenting challenges while building stronger family bonds."
-type: "standard"
-status: "published"
-publishDate: "2025-05-08T06:33:29+00:00"
-author: "Taylor Winters"
+title: Parenting Tips from ‘Good Inside’ Founder Becky Kennedy
+description: >-
+  Dr. Becky Kennedy's Good Inside initiative emphasizes empathy, understanding,
+  and connection in parenting. By focusing on children's inherent goodness, her
+  approach provides tools for fostering healthy relationships, empowering
+  parents to navigate modern parenting challenges while building stronger family
+  bonds.
+type: standard
+status: published
+publishDate: '2025-05-08T06:33:29+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "Nurture"
-  - "Parents"
-slug: "parenting-tips-from-good-inside-founder-becky-kennedy"
+  - Kids
+  - Nurture
+  - Parents
+slug: parenting-tips-from-good-inside-founder-becky-kennedy
 reading_time: 4
-source_url: "https://babyparenttrends.com/parenting-tips-from-good-inside-founder-becky-kennedy/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/parenting-tips-from-good-inside-founder-becky-kennedy/
+imported_from: wordpress
 wp_original_id: 17668
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/parenting-tips-from-good-inside-founder-becky-kennedy.webp
 seo:
-  canonical: "https://babyparenttrends.com/parenting-tips-from-good-inside-founder-becky-kennedy/"
-  og_title: "Parenting Tips from 'Good Inside' Founder Becky Kennedy - Baby Parent Trends"
-  og_description: "Dr. Becky Kennedy's Good Inside initiative emphasizes empathy, understanding, and connection in parenting. By focusing on children's inherent goodness, her approach provides tools for fostering healthy relationships, empowering parents to navigate modern parenting challenges while building stronger family bonds."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/parenting-tips-from-good-inside-founder-becky-kennedy/
+  og_title: Parenting Tips from 'Good Inside' Founder Becky Kennedy - Baby Parent Trends
+  og_description: >-
+    Dr. Becky Kennedy's Good Inside initiative emphasizes empathy,
+    understanding, and connection in parenting. By focusing on children's
+    inherent goodness, her approach provides tools for fostering healthy
+    relationships, empowering parents to navigate modern parenting challenges
+    while building stronger family bonds.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,14 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong parenting content with excellent keyword relevance and appropriate tone, but falls short on length (614 words vs 800-1200 target) and could benefit from better SEO optimization with more structured headings and meta description length."
+quality_note: >-
+  Strong parenting content with excellent keyword relevance and appropriate
+  tone, but falls short on length (614 words vs 800-1200 target) and could
+  benefit from better SEO optimization with more structured headings and meta
+  description length.
+image_alt: >-
+  Parent and child sharing a quiet, reassuring moment in a warm sunlit living
+  room.
 ---
 
 In today's fast-paced world, parenting can be both rewarding and challenging. Navigating the complexities of raising children often leaves parents seeking guidance and support. Dr. Becky Kennedy, renowned for her innovative approach to parenting, has become a beacon of hope for many. Her initiative, Good Inside, offers invaluable insights and practical tools to help parents foster strong, healthy relationships with their children.
