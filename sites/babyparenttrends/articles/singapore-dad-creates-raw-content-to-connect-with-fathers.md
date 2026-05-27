@@ -1,26 +1,40 @@
 ---
-title: "Singapore Dad Creates Raw Content to Connect with Fathers"
-description: "In the digital age, TikTok's MyDadEra community highlights fatherhood experiences, challenging stereotypes and fostering discussions on parenting. This vibrant platform showcases diverse father roles, offering insights and support to both creators and audiences, impacting societal views on modern fatherhood."
-type: "standard"
-status: "review"
-publishDate: "2025-09-18T04:43:29+00:00"
-author: "Taylor Winters"
+title: Singapore Dad Creates Raw Content to Connect with Fathers
+description: >-
+  In the digital age, TikTok's MyDadEra community highlights fatherhood
+  experiences, challenging stereotypes and fostering discussions on parenting.
+  This vibrant platform showcases diverse father roles, offering insights and
+  support to both creators and audiences, impacting societal views on modern
+  fatherhood.
+type: standard
+status: review
+publishDate: '2025-09-18T04:43:29+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "Nurture"
-  - "Parents"
-slug: "singapore-dad-creates-raw-content-to-connect-with-fathers"
+  - Kids
+  - Nurture
+  - Parents
+slug: singapore-dad-creates-raw-content-to-connect-with-fathers
 reading_time: 3
-source_url: "https://babyparenttrends.com/singapore-dad-creates-raw-content-to-connect-with-fathers/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/singapore-dad-creates-raw-content-to-connect-with-fathers/
+imported_from: wordpress
 wp_original_id: 17717
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/singapore-dad-creates-raw-content-to-connect-with-fathers.webp
 seo:
-  canonical: "https://babyparenttrends.com/singapore-dad-creates-raw-content-to-connect-with-fathers/"
-  og_title: "Singapore Dad Creates Raw Content to Connect with Fathers - Baby Parent Trends"
-  og_description: "In the digital age, TikTok's MyDadEra community highlights fatherhood experiences, challenging stereotypes and fostering discussions on parenting. This vibrant platform showcases diverse father roles, offering insights and support to both creators and audiences, impacting societal views on modern fatherhood."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/09/make_file.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/singapore-dad-creates-raw-content-to-connect-with-fathers/
+  og_title: >-
+    Singapore Dad Creates Raw Content to Connect with Fathers - Baby Parent
+    Trends
+  og_description: >-
+    In the digital age, TikTok's MyDadEra community highlights fatherhood
+    experiences, challenging stereotypes and fostering discussions on parenting.
+    This vibrant platform showcases diverse father roles, offering insights and
+    support to both creators and audiences, impacting societal views on modern
+    fatherhood.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/09/make_file.jpg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -28,7 +42,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 75
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly under target word count and lacks specific SEO optimization elements like meta description length and clear heading structure."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target word count and
+  lacks specific SEO optimization elements like meta description length and
+  clear heading structure.
+image_alt: >-
+  Singaporean father and child share a candid home moment with a phone recording
+  nearby.
 ---
 
 In the evolving digital landscape, TikTok has emerged as a platform bridging the gap between creators and audiences in unexpected ways. Among these creators, a unique community known as MyDadEra is gaining traction, focusing on the experiences and narratives of fatherhood. This vibrant collective showcases the multifaceted roles of fathers in Singapore, offering a fresh perspective on parenting and family life.
