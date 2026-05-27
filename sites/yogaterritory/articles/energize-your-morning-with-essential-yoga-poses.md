@@ -1,25 +1,33 @@
 ---
-title: "Energize Your Morning with Essential Yoga Poses"
-description: "Starting your day with energy can create a positive tone. Integrating yoga into your morning routine revitalizes the body and calms the mind, boosting energy and focus. Embrace poses like Mountain Pose and Warrior I for improved well-being."
-type: "standard"
-status: "published"
-publishDate: "2025-05-19T04:29:15+00:00"
-author: "Taylor Winters"
+title: Energize Your Morning with Essential Yoga Poses
+description: >-
+  Starting your day with energy can create a positive tone. Integrating yoga
+  into your morning routine revitalizes the body and calms the mind, boosting
+  energy and focus. Embrace poses like Mountain Pose and Warrior I for improved
+  well-being.
+type: standard
+status: published
+publishDate: '2025-05-19T04:29:15+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga Postures"
-slug: "energize-your-morning-with-essential-yoga-poses"
+  - Yoga Poses
+  - Yoga Postures
+slug: energize-your-morning-with-essential-yoga-poses
 reading_time: 3
-source_url: "https://yogaterritory.com/energize-your-morning-with-essential-yoga-poses/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/energize-your-morning-with-essential-yoga-poses/'
+imported_from: wordpress
 wp_original_id: 20616
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/energize-your-morning-with-essential-yoga-poses.webp
 seo:
-  canonical: "https://yogaterritory.com/energize-your-morning-with-essential-yoga-poses/"
-  og_title: "Energize Your Morning with Essential Yoga Poses - Yoga Territory"
-  og_description: "Starting your day with energy can create a positive tone. Integrating yoga into your morning routine revitalizes the body and calms the mind, boosting energy and focus. Embrace poses like Mountain Pose and Warrior I for improved well-being."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/energize-your-morning-with-essential-yoga-poses/'
+  og_title: Energize Your Morning with Essential Yoga Poses - Yoga Territory
+  og_description: >-
+    Starting your day with energy can create a positive tone. Integrating yoga
+    into your morning routine revitalizes the body and calms the mind, boosting
+    energy and focus. Embrace poses like Mountain Pose and Warrior I for
+    improved well-being.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,10 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword relevance, but significantly under the target word count of 800-1200 words at only 504 words."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  under the target word count of 800-1200 words at only 504 words.
+image_alt: Person practicing morning yoga in a sunlit minimalist room
 ---
 
 Starting your day with a burst of energy can set a positive tone for the hours ahead. Integrating yoga into your morning routine not only revitalizes your body but also calms your mind. Discover essential yoga poses that can boost your morning energy and help you embrace the day with enthusiasm.
