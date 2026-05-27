@@ -1,26 +1,35 @@
 ---
-title: "Age-Adapted Yoga: Modify 5 Poses Including Frog Pose"
-description: "Yoga's Frog Pose enhances hip flexibility and overall well-being. Modifications using props like blocks and bolsters make it accessible for all, allowing practitioners to gradually deepen the stretch while maintaining comfort and preventing injury."
-type: "standard"
-status: "published"
-publishDate: "2026-03-12T09:49:23+00:00"
-author: "Taylor Winters"
+title: 'Age-Adapted Yoga: Modify 5 Poses Including Frog Pose'
+description: >-
+  Yoga's Frog Pose enhances hip flexibility and overall well-being.
+  Modifications using props like blocks and bolsters make it accessible for all,
+  allowing practitioners to gradually deepen the stretch while maintaining
+  comfort and preventing injury.
+type: standard
+status: published
+publishDate: '2026-03-12T09:49:23+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Beginners"
-  - "Yoga Postures"
-slug: "age-adapted-yoga-modify-5-poses-including-frog-pose"
+  - Yoga Poses
+  - Yoga For Beginners
+  - Yoga Postures
+slug: age-adapted-yoga-modify-5-poses-including-frog-pose
 reading_time: 4
-source_url: "https://yogaterritory.com/age-adapted-yoga-modify-5-poses-including-frog-pose/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/age-adapted-yoga-modify-5-poses-including-frog-pose/'
+imported_from: wordpress
 wp_original_id: 20743
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/age-adapted-yoga-modify-5-poses-including-frog-pose.webp
 seo:
-  canonical: "https://yogaterritory.com/age-adapted-yoga-modify-5-poses-including-frog-pose/"
-  og_title: "Age-Adapted Yoga: Modify 5 Poses Including Frog Pose - Yoga Territory"
-  og_description: "Yoga's Frog Pose enhances hip flexibility and overall well-being. Modifications using props like blocks and bolsters make it accessible for all, allowing practitioners to gradually deepen the stretch while maintaining comfort and preventing injury."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/age-adapted-yoga-modify-5-poses-including-frog-pose/
+  og_title: 'Age-Adapted Yoga: Modify 5 Poses Including Frog Pose - Yoga Territory'
+  og_description: >-
+    Yoga's Frog Pose enhances hip flexibility and overall well-being.
+    Modifications using props like blocks and bolsters make it accessible for
+    all, allowing practitioners to gradually deepen the stretch while
+    maintaining comfort and preventing injury.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate information, but falls short on length and could benefit from stronger SEO optimization and broader pose coverage as promised in the title."
+quality_note: >-
+  Well-written article with good tone and accurate information, but falls short
+  on length and could benefit from stronger SEO optimization and broader pose
+  coverage as promised in the title.
+image_alt: >-
+  Multigenerational yoga class using props for supported hip-opening poses in a
+  calm sunlit studio.
 ---
 
 Yoga has been celebrated for its numerous health benefits, including improving flexibility, building strength, and enhancing mental clarity. Among the many poses practiced, the Frog Pose is notable for its ability to open the hips and stretch the inner thighs. However, like many yoga poses, it can be challenging for beginners or those with certain physical limitations. Fortunately, there are various ways to modify the Frog Pose to make it accessible for everyone.
