@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/meggenharris/2026/05/18/as-peptides-go-mainstream-experts-say-oversight-matters/
 source_item_id: 6a0bc42316f23264031d770d
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/peptides-mainstream-consumer-safety-guide.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong topic relevance and tone but falls short on length and relies heavily
   on vague 'reports indicate' statements without concrete sources.
 reading_time: 3
+image_alt: >-
+  Woman researching wellness options at a sunlit table with plain bottles and a
+  laptop.
 ---
 ## The Peptide Revolution: From Biohacking to Mainstream Wellness
 
