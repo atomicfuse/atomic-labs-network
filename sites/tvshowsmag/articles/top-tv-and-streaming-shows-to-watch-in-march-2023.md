@@ -1,26 +1,36 @@
 ---
-title: "Top TV and Streaming Shows to Watch in March 2023"
-description: "March 2026 promises an electrifying lineup for TV enthusiasts, with thrilling dramas, captivating comedies, and intriguing sci-fi series premiering. New seasons of beloved shows and exciting debuts ensure diverse entertainment options that cater to all tastes, sparking conversation worldwide."
-type: "standard"
-status: "review"
-publishDate: "2026-02-26T10:09:32+00:00"
-author: "Taylor Winters"
+title: Top TV and Streaming Shows to Watch in March 2023
+description: >-
+  March 2026 promises an electrifying lineup for TV enthusiasts, with thrilling
+  dramas, captivating comedies, and intriguing sci-fi series premiering. New
+  seasons of beloved shows and exciting debuts ensure diverse entertainment
+  options that cater to all tastes, sparking conversation worldwide.
+type: standard
+status: review
+publishDate: '2026-02-26T10:09:32+00:00'
+author: Taylor Winters
 tags:
-  - "Streaming"
-  - "TV Shows"
-  - "Upcoming"
-slug: "top-tv-and-streaming-shows-to-watch-in-march-2023"
+  - Streaming
+  - TV Shows
+  - Upcoming
+slug: top-tv-and-streaming-shows-to-watch-in-march-2023
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-tv-and-streaming-shows-to-watch-in-march-2023/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/top-tv-and-streaming-shows-to-watch-in-march-2023/'
+imported_from: wordpress
 wp_original_id: 28188
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/top-tv-and-streaming-shows-to-watch-in-march-2023.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-tv-and-streaming-shows-to-watch-in-march-2023/"
-  og_title: "Top TV and Streaming Shows to Watch in March 2023 - TV Shows Magazine"
-  og_description: "March 2026 promises an electrifying lineup for TV enthusiasts, with thrilling dramas, captivating comedies, and intriguing sci-fi series premiering. New seasons of beloved shows and exciting debuts ensure diverse entertainment options that cater to all tastes, sparking conversation worldwide."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/02/make_file-10.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/top-tv-and-streaming-shows-to-watch-in-march-2023/
+  og_title: Top TV and Streaming Shows to Watch in March 2023 - TV Shows Magazine
+  og_description: >-
+    March 2026 promises an electrifying lineup for TV enthusiasts, with
+    thrilling dramas, captivating comedies, and intriguing sci-fi series
+    premiering. New seasons of beloved shows and exciting debuts ensure diverse
+    entertainment options that cater to all tastes, sparking conversation
+    worldwide.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/02/make_file-10.jpeg'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 10
   keyword_relevance: 85
-quality_note: "Major factual inconsistency between title (March 2023) and content (March 2026) severely undermines credibility, though tone and topic relevance are good."
+quality_note: >-
+  Major factual inconsistency between title (March 2023) and content (March
+  2026) severely undermines credibility, though tone and topic relevance are
+  good.
+image_alt: >-
+  A glowing television fills a dark living room with colorful cinematic light
+  ribbons.
 ---
 
 March 2026 is set to be an electrifying month for television enthusiasts as several highly anticipated shows are premiering. From thrilling dramas to captivating comedies, this month promises diverse entertainment options that cater to all tastes. With streaming platforms and networks unveiling fresh content, viewers are in for a treat.
