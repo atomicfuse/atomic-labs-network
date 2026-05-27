@@ -22,7 +22,7 @@ source_url: >-
   https://www.usatoday.com/story/entertainment/tv/2026/05/25/summer-house-reunion-time-where-to-watch/90194161007/
 source_item_id: 6a151ac216f23264031d80f6
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/summer-house-reunion-amanda-west-romance-scandal.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   fabricated details about specific Summer House reunion content and falls short
   of target word count.
 reading_time: 3
+image_alt: >-
+  Tense luxury reunion set with empty chair, spotlights, and cast members seated
+  in silence
 ---
 ## Major Scandal Takes Center Stage
 
