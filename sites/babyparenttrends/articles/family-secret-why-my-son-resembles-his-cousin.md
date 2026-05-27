@@ -1,26 +1,35 @@
 ---
-title: "Family Secret: Why My Son Resembles His Cousin"
-description: "Modern families formed through sperm donation often involve complex genetic connections, where children may share biological ties with half-siblings or cousins from different households, presenting unique challenges and opportunities for parents and children alike."
-type: "standard"
-status: "published"
-publishDate: "2025-06-19T04:47:30+00:00"
-author: "Taylor Winters"
+title: 'Family Secret: Why My Son Resembles His Cousin'
+description: >-
+  Modern families formed through sperm donation often involve complex genetic
+  connections, where children may share biological ties with half-siblings or
+  cousins from different households, presenting unique challenges and
+  opportunities for parents and children alike.
+type: standard
+status: published
+publishDate: '2025-06-19T04:47:30+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "Nurture"
-  - "Parents"
-slug: "family-secret-why-my-son-resembles-his-cousin"
+  - Kids
+  - Nurture
+  - Parents
+slug: family-secret-why-my-son-resembles-his-cousin
 reading_time: 4
-source_url: "https://babyparenttrends.com/family-secret-why-my-son-resembles-his-cousin/"
-imported_from: "wordpress"
+source_url: 'https://babyparenttrends.com/family-secret-why-my-son-resembles-his-cousin/'
+imported_from: wordpress
 wp_original_id: 17687
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/family-secret-why-my-son-resembles-his-cousin.webp
 seo:
-  canonical: "https://babyparenttrends.com/family-secret-why-my-son-resembles-his-cousin/"
-  og_title: "Family Secret: Why My Son Resembles His Cousin - Baby Parent Trends"
-  og_description: "Modern families often transcend traditional boundaries, embracing diverse structures. This evolution is evident in families formed through sperm donation, where children may share genetic ties beyond their immediate family, presenting unique challenges and opportunities for parents and children."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/06/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://babyparenttrends.com/family-secret-why-my-son-resembles-his-cousin/'
+  og_title: 'Family Secret: Why My Son Resembles His Cousin - Baby Parent Trends'
+  og_description: >-
+    Modern families often transcend traditional boundaries, embracing diverse
+    structures. This evolution is evident in families formed through sperm
+    donation, where children may share genetic ties beyond their immediate
+    family, presenting unique challenges and opportunities for parents and
+    children.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/06/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with appropriate tone and good factual accuracy, but falls short of target length at 609 words and has a vague title that doesn't clearly convey the sperm donation topic."
+quality_note: >-
+  Well-written article with appropriate tone and good factual accuracy, but
+  falls short of target length at 609 words and has a vague title that doesn't
+  clearly convey the sperm donation topic.
+image_alt: >-
+  Sunlit family photo frames on a kitchen table connected by branching window
+  shadows
 ---
 
 In today's complex world of family dynamics, the definition of "family" continues to evolve. Modern families often transcend traditional boundaries, embracing diverse structures and connections. This evolution is particularly evident in families formed through sperm donation, where children may share genetic ties with individuals outside their immediate family circle. As these unique familial relationships grow, they pose intriguing questions and challenges for parents and children alike.
