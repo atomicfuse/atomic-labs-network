@@ -1,29 +1,38 @@
 ---
-title: "Easy No-Bake Coffee Delight: A Simple Dessert for Coffee Lovers"
-description: "Discover a quick and easy no-bake coffee dessert recipe that's perfect for satisfying your sweet cravings without needing an oven."
-type: "standard"
-status: "review"
-publishDate: "2025-12-25T09:15:19+00:00"
-author: "Taylor Winters"
+title: 'Easy No-Bake Coffee Delight: A Simple Dessert for Coffee Lovers'
+description: >-
+  Discover a quick and easy no-bake coffee dessert recipe that's perfect for
+  satisfying your sweet cravings without needing an oven.
+type: standard
+status: review
+publishDate: '2025-12-25T09:15:19+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beginner"
-  - "Coffee Desserts"
-slug: "easy-no-bake-coffee-delight-a-simple-dessert-for-coffee-lovers"
+  - Coffee News
+  - Beginner
+  - Coffee Desserts
+slug: easy-no-bake-coffee-delight-a-simple-dessert-for-coffee-lovers
 reading_time: 2
-source_url: "https://coffeeactually.com/easy-no-bake-coffee-delight-a-simple-dessert-for-coffee-lovers/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/easy-no-bake-coffee-delight-a-simple-dessert-for-coffee-lovers/
+imported_from: wordpress
 wp_original_id: 51371
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/easy-no-bake-coffee-delight-a-simple-dessert-for-coffee-lovers.webp
 seo:
-  canonical: "https://coffeeactually.com/easy-no-bake-coffee-delight-a-simple-dessert-for-coffee-lovers/"
-  og_title: "Easy No-Bake Coffee Delight: A Simple Dessert for Coffee Lovers - Coffee Actually"
-  og_description: "Discover a quick and easy no-bake coffee dessert recipe that's perfect for satisfying your sweet cravings without needing an oven."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/easy-no-bake-coffee-delight-a-simple-dessert-for-coffee-lovers/
+  og_title: >-
+    Easy No-Bake Coffee Delight: A Simple Dessert for Coffee Lovers - Coffee
+    Actually
+  og_description: >-
+    Discover a quick and easy no-bake coffee dessert recipe that's perfect for
+    satisfying your sweet cravings without needing an oven.
+  twitter_card: summary_large_image
 videos:
-  - id: "e3e0fec4"
-    url: "https://www.youtube.com/watch?v=ojMytIjA3_o"
-    position: "after-paragraph-2"
+  - id: e3e0fec4
+    url: 'https://www.youtube.com/watch?v=ojMytIjA3_o'
+    position: after-paragraph-2
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -31,7 +40,11 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written and engaging article with appropriate tone, but significantly too short at 314 words and lacks detailed recipe instructions that would make it more valuable for readers."
+quality_note: >-
+  Well-written and engaging article with appropriate tone, but significantly too
+  short at 314 words and lacks detailed recipe instructions that would make it
+  more valuable for readers.
+image_alt: Layered coffee dessert with cocoa topping on a warm kitchen counter
 ---
 
 Are you on the hunt for a delightful dessert that requires minimal effort and no baking? Look no further than this No-Bake Coffee Delight. Perfectly crafted for coffee enthusiasts, this dessert combines the rich flavors of coffee with creamy textures to create a satisfying treat that can be enjoyed on any occasion.
