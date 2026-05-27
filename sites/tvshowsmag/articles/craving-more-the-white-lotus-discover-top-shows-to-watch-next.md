@@ -1,25 +1,38 @@
 ---
-title: "Craving More ‘The White Lotus?’ Discover Top Shows to Watch Next"
-description: "If you're a fan of the captivating drama 'White Lotus', there are similar shows to enjoy, including 'Succession', 'Big Little Lies', 'Cruel Summer', 'The Undoing', 'Dead to Me', and 'The Morning Show' – all offering unique blends of drama, suspense, and social commentary."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T10:46:40+00:00"
-author: "Taylor Winters"
+title: Craving More ‘The White Lotus?’ Discover Top Shows to Watch Next
+description: >-
+  If you're a fan of the captivating drama 'White Lotus', there are similar
+  shows to enjoy, including 'Succession', 'Big Little Lies', 'Cruel Summer',
+  'The Undoing', 'Dead to Me', and 'The Morning Show' – all offering unique
+  blends of drama, suspense, and social commentary.
+type: standard
+status: review
+publishDate: '2025-04-07T10:46:40+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-  - "TV Shows"
-slug: "craving-more-the-white-lotus-discover-top-shows-to-watch-next"
+  - Reviews
+  - TV Shows
+slug: craving-more-the-white-lotus-discover-top-shows-to-watch-next
 reading_time: 2
-source_url: "https://www.tvshowsmag.com/craving-more-the-white-lotus-discover-top-shows-to-watch-next/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/craving-more-the-white-lotus-discover-top-shows-to-watch-next/
+imported_from: wordpress
 wp_original_id: 27990
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/craving-more-the-white-lotus-discover-top-shows-to-watch-next.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/craving-more-the-white-lotus-discover-top-shows-to-watch-next/"
-  og_title: "Craving More 'The White Lotus?' Discover Top Shows to Watch Next - TV Shows Magazine"
-  og_description: "If you're a fan of the captivating drama 'White Lotus', there are similar shows to enjoy. These include 'Succession', 'Big Little Lies', 'Cruel Summer', 'The Undoing', 'Dead to Me', and 'The Morning Show' - all offering unique blends of drama, suspense, and social commentary."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/craving-more-the-white-lotus-discover-top-shows-to-watch-next/
+  og_title: >-
+    Craving More 'The White Lotus?' Discover Top Shows to Watch Next - TV Shows
+    Magazine
+  og_description: >-
+    If you're a fan of the captivating drama 'White Lotus', there are similar
+    shows to enjoy. These include 'Succession', 'Big Little Lies', 'Cruel
+    Summer', 'The Undoing', 'Dead to Me', and 'The Morning Show' - all offering
+    unique blends of drama, suspense, and social commentary.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and accuracy but falls significantly short of the 800-1200 word target at only 337 words, which severely impacts its content depth and SEO value."
+quality_note: >-
+  The article has good tone and accuracy but falls significantly short of the
+  800-1200 word target at only 337 words, which severely impacts its content
+  depth and SEO value.
+image_alt: >-
+  Luxurious resort lounge at dusk with tense, distant guests and a moody
+  cinematic atmosphere
 ---
 
 If you can't get enough of the spellbinding drama 'White Lotus', you're certainly not alone. The series has captivated audiences worldwide, leaving viewers hungry for more. Luckily, there's a wealth of comparable shows out there to sink your teeth into. Let's dive into some series that share similar themes and narratives with 'White Lotus'.
