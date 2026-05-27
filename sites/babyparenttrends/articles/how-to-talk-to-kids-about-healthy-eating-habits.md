@@ -1,27 +1,34 @@
 ---
-title: "How to Talk to Kids About Healthy Eating Habits"
-description: "Help kids build a healthy relationship with food through calm conversations, neutral language, body respect, hunger cues, low-pressure meals, and age-appropriate involvement in choosing and preparing foods."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:52:09+00:00"
-author: "Taylor Winters"
+title: How to Talk to Kids About Healthy Eating Habits
+description: >-
+  Help kids build a healthy relationship with food through calm conversations,
+  neutral language, body respect, hunger cues, low-pressure meals, and
+  age-appropriate involvement in choosing and preparing foods.
+type: standard
+status: published
+publishDate: '2026-05-21T08:52:09+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "Children's Health"
-  - "Nurture"
-  - "Parents"
-slug: "how-to-talk-to-kids-about-healthy-eating-habits"
+  - Kids
+  - Children's Health
+  - Nurture
+  - Parents
+slug: how-to-talk-to-kids-about-healthy-eating-habits
 reading_time: 8
-source_url: "https://babyparenttrends.com/how-to-talk-to-kids-about-healthy-eating-habits/"
-imported_from: "wordpress"
+source_url: 'https://babyparenttrends.com/how-to-talk-to-kids-about-healthy-eating-habits/'
+imported_from: wordpress
 wp_original_id: 17820
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/how-to-talk-to-kids-about-healthy-eating-habits.webp
 seo:
-  canonical: "https://babyparenttrends.com/how-to-talk-to-kids-about-healthy-eating-habits/"
-  og_title: "How to Talk to Kids About Healthy Eating Habits - Baby Parent Trends"
-  og_description: "Help kids build a healthy relationship with food through calm conversations, neutral language, body respect, hunger cues, low-pressure meals, and age-appropriate involvement in choosing and preparing foods."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/how-to-talk-to-kids-about-healthy-eating-habits/
+  og_title: How to Talk to Kids About Healthy Eating Habits - Baby Parent Trends
+  og_description: >-
+    Help kids build a healthy relationship with food through calm conversations,
+    neutral language, body respect, hunger cues, low-pressure meals, and
+    age-appropriate involvement in choosing and preparing foods.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 90
 score_breakdown:
   seo_quality: 85
@@ -29,7 +36,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Excellent article with perfect tone for parent audience, solid SEO structure with clear headings, accurate nutritional advice, though slightly exceeds ideal word count at 1537 words."
+quality_note: >-
+  Excellent article with perfect tone for parent audience, solid SEO structure
+  with clear headings, accurate nutritional advice, though slightly exceeds
+  ideal word count at 1537 words.
+image_alt: >-
+  Caregiver and child calmly preparing colorful foods together in a sunlit
+  kitchen
 ---
 
 Talking with children about food can shape how they eat, how they feel about their bodies, and how they make choices for years to come. The goal is not to create perfect eaters. It is to build confidence, curiosity, and a healthy relationship with meals, snacks, hunger, fullness, and enjoyment.
