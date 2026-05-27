@@ -23,7 +23,7 @@ source_url: >-
   https://oysterbaytown.com/saladino-announces-registration-for-pilates-in-the-park/
 source_item_id: 6a13fc9f16f23264031d7b89
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/oyster-bay-launches-10-week-pilates-park-program.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,9 @@ quality_note: >-
   length (548 words vs 800-1200 target) and has weak SEO optimization with a
   long, non-compelling title.
 reading_time: 3
+image_alt: >-
+  Outdoor Pilates class on mats in a sunny waterfront park with trees and calm
+  morning light
 ---
 ## Free Outdoor Pilates Classes Coming to Theodore Roosevelt Park
 
