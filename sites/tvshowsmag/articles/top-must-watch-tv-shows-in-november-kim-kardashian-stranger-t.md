@@ -1,25 +1,38 @@
 ---
-title: "Top Must-Watch TV Shows in November: Kim Kardashian, Stranger T"
-description: "\"Shtisel,\" the acclaimed Israeli drama, returns to captivate global audiences with its authentic portrayal of an ultra-Orthodox Jewish family. Fans eagerly await the new season's deeper exploration of the Shtisel family's lives, promising fresh, engaging storytelling."
-type: "standard"
-status: "review"
-publishDate: "2025-11-03T10:09:17+00:00"
-author: "Taylor Winters"
+title: 'Top Must-Watch TV Shows in November: Kim Kardashian, Stranger T'
+description: >-
+  "Shtisel," the acclaimed Israeli drama, returns to captivate global audiences
+  with its authentic portrayal of an ultra-Orthodox Jewish family. Fans eagerly
+  await the new season's deeper exploration of the Shtisel family's lives,
+  promising fresh, engaging storytelling.
+type: standard
+status: review
+publishDate: '2025-11-03T10:09:17+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "top-must-watch-tv-shows-in-november-kim-kardashian-stranger-t"
+  - TV News
+  - TV Shows
+slug: top-must-watch-tv-shows-in-november-kim-kardashian-stranger-t
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-must-watch-tv-shows-in-november-kim-kardashian-stranger-t/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/top-must-watch-tv-shows-in-november-kim-kardashian-stranger-t/
+imported_from: wordpress
 wp_original_id: 28107
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/top-must-watch-tv-shows-in-november-kim-kardashian-stranger-t.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-must-watch-tv-shows-in-november-kim-kardashian-stranger-t/"
-  og_title: "Top Must-Watch TV Shows in November: Kim Kardashian, Stranger T - TV Shows Magazine"
-  og_description: "\"Shtisel,\" the acclaimed Israeli drama, returns to captivate global audiences with its authentic portrayal of an ultra-Orthodox Jewish family. Fans eagerly await the new season's deeper exploration of the Shtisel family's lives, promising fresh, engaging storytelling."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/11/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/top-must-watch-tv-shows-in-november-kim-kardashian-stranger-t/
+  og_title: >-
+    Top Must-Watch TV Shows in November: Kim Kardashian, Stranger T - TV Shows
+    Magazine
+  og_description: >-
+    "Shtisel," the acclaimed Israeli drama, returns to captivate global
+    audiences with its authentic portrayal of an ultra-Orthodox Jewish family.
+    Fans eagerly await the new season's deeper exploration of the Shtisel
+    family's lives, promising fresh, engaging storytelling.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/11/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 35
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 45
-quality_note: "The article has good tone but suffers from a misleading title that mentions Kim Kardashian and Stranger Things while only covering Shtisel, poor SEO structure, and limited coverage of the site's core topics."
+quality_note: >-
+  The article has good tone but suffers from a misleading title that mentions
+  Kim Kardashian and Stranger Things while only covering Shtisel, poor SEO
+  structure, and limited coverage of the site's core topics.
+image_alt: >-
+  Warm lamplight over a modest family dining table with Jerusalem city lights
+  beyond the window.
 ---
 
 In the ever-evolving world of entertainment, few announcements create as much buzz as the return of a beloved TV series. Such is the case with the Israeli drama "Shtisel," which has captivated audiences around the globe with its unique portrayal of an ultra-Orthodox Jewish family. The show's return has sparked excitement among its dedicated fans and promises to deliver more of the compelling storytelling that made it a cultural phenomenon.
