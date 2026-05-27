@@ -1,24 +1,34 @@
 ---
-title: "Vinnie Vincent’s $2 Million Album: A Rock Masterpiece Unveiled"
-description: "Vinnie Vincent, renowned for his guitar skills with KISS, is returning with \"Guitarmageddon,\" a two-million-dollar project blending high-quality production and artistry. This ambitious endeavor aims to redefine rock music with unique compositions and top-tier collaborations."
-type: "standard"
-status: "review"
-publishDate: "2026-03-16T12:19:27+00:00"
-author: "Lena Harper"
+title: 'Vinnie Vincent’s $2 Million Album: A Rock Masterpiece Unveiled'
+description: >-
+  Vinnie Vincent, renowned for his guitar skills with KISS, is returning with
+  "Guitarmageddon," a two-million-dollar project blending high-quality
+  production and artistry. This ambitious endeavor aims to redefine rock music
+  with unique compositions and top-tier collaborations.
+type: standard
+status: review
+publishDate: '2026-03-16T12:19:27+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "vinnie-vincents-2-million-album-a-rock-masterpiece-unveiled"
+  - Music
+slug: vinnie-vincents-2-million-album-a-rock-masterpiece-unveiled
 reading_time: 3
-source_url: "https://wtpop.com/vinnie-vincents-2-million-album-a-rock-masterpiece-unveiled/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/vinnie-vincents-2-million-album-a-rock-masterpiece-unveiled/'
+imported_from: wordpress
 wp_original_id: 797
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/vinnie-vincents-2-million-album-a-rock-masterpiece-unveiled.webp
 seo:
-  canonical: "https://wtpop.com/vinnie-vincents-2-million-album-a-rock-masterpiece-unveiled/"
-  og_title: "Vinnie Vincent's $2 Million Album: A Rock Masterpiece Unveiled - WTPOP"
-  og_description: "Vinnie Vincent, renowned for his guitar skills with KISS, is returning with \"Guitarmageddon,\" a two-million-dollar project blending high-quality production and artistry. This ambitious endeavor aims to redefine rock music with unique compositions and top-tier collaborations."
-  og_image: "https://wtpop.com/wp-content/uploads/2026/03/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/vinnie-vincents-2-million-album-a-rock-masterpiece-unveiled/
+  og_title: 'Vinnie Vincent''s $2 Million Album: A Rock Masterpiece Unveiled - WTPOP'
+  og_description: >-
+    Vinnie Vincent, renowned for his guitar skills with KISS, is returning with
+    "Guitarmageddon," a two-million-dollar project blending high-quality
+    production and artistry. This ambitious endeavor aims to redefine rock music
+    with unique compositions and top-tier collaborations.
+  og_image: 'https://wtpop.com/wp-content/uploads/2026/03/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong music industry coverage with engaging tone, but severely penalized for apparent fabrication of the 'Guitarmageddon' album project and being significantly under target word count."
+quality_note: >-
+  Strong music industry coverage with engaging tone, but severely penalized for
+  apparent fabrication of the 'Guitarmageddon' album project and being
+  significantly under target word count.
+image_alt: >-
+  Ornate electric guitar in a dramatic recording studio with gold lighting and
+  stage haze
 ---
 
 In the dynamic world of rock music, few names evoke as much intrigue and admiration as Vinnie Vincent. Known for his electrifying guitar skills and a storied career with the iconic band KISS, Vincent is once again making waves with his latest project. Entitled "Guitarmageddon," this ambitious endeavor promises to capture the very essence of rock and roll for an eye-popping two million dollars. Let's delve into the details of this extraordinary musical venture and explore what makes it worth such a substantial investment.
