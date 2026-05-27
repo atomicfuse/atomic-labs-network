@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://deadline.com/video/jury-duty-directors-video-interview/'
 source_item_id: 6a151f7416f23264031d811f
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/jury-duty-creators-interview-hidden-camera-comedy-secrets.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written article with good tone and factual accuracy, but significantly
   under the target word count and could benefit from stronger SEO optimization.
 reading_time: 3
+image_alt: >-
+  Secret control room overlooks a staged courtroom and corporate retreat set
+  with hidden cameras.
 ---
 ## The Masterminds Behind TV's Most Daring Comedy Experiment
 
