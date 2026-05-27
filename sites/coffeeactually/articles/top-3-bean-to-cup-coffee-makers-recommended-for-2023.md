@@ -1,24 +1,34 @@
 ---
-title: "Top 3 Bean-to-Cup Coffee Makers Recommended for 2023"
-description: "Explore top bean-to-cup coffee machines like the De'Longhi Magnifica, Philips 3200 Series, and Gaggia Brera, each offering unique benefits for coffee lovers. These machines enhance flavor, provide ease of use, and cater to different needs and budgets."
-type: "standard"
-status: "published"
-publishDate: "2025-11-03T09:15:27+00:00"
-author: "Taylor Winters"
+title: Top 3 Bean-to-Cup Coffee Makers Recommended for 2023
+description: >-
+  Explore top bean-to-cup coffee machines like the De'Longhi Magnifica, Philips
+  3200 Series, and Gaggia Brera, each offering unique benefits for coffee
+  lovers. These machines enhance flavor, provide ease of use, and cater to
+  different needs and budgets.
+type: standard
+status: published
+publishDate: '2025-11-03T09:15:27+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Gear"
-slug: "top-3-bean-to-cup-coffee-makers-recommended-for-2023"
+  - Coffee Gear
+slug: top-3-bean-to-cup-coffee-makers-recommended-for-2023
 reading_time: 3
-source_url: "https://coffeeactually.com/top-3-bean-to-cup-coffee-makers-recommended-for-2023/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/top-3-bean-to-cup-coffee-makers-recommended-for-2023/
+imported_from: wordpress
 wp_original_id: 51342
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/top-3-bean-to-cup-coffee-makers-recommended-for-2023.webp
 seo:
-  canonical: "https://coffeeactually.com/top-3-bean-to-cup-coffee-makers-recommended-for-2023/"
-  og_title: "Top 3 Bean-to-Cup Coffee Makers Recommended for 2023 - Coffee Actually"
-  og_description: "Explore top bean-to-cup coffee machines like the De'Longhi Magnifica, Philips 3200 Series, and Gaggia Brera, each offering unique benefits for coffee lovers. These machines enhance flavor, provide ease of use, and cater to different needs and budgets."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/11/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/top-3-bean-to-cup-coffee-makers-recommended-for-2023/
+  og_title: Top 3 Bean-to-Cup Coffee Makers Recommended for 2023 - Coffee Actually
+  og_description: >-
+    Explore top bean-to-cup coffee machines like the De'Longhi Magnifica,
+    Philips 3200 Series, and Gaggia Brera, each offering unique benefits for
+    coffee lovers. These machines enhance flavor, provide ease of use, and cater
+    to different needs and budgets.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/11/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong coffee gear content with good tone and accuracy, but falls short on length and could improve SEO optimization with better meta description and keyword integration."
+quality_note: >-
+  Strong coffee gear content with good tone and accuracy, but falls short on
+  length and could improve SEO optimization with better meta description and
+  keyword integration.
+image_alt: >-
+  Sleek coffee machine brewing espresso on a bright modern kitchen counter with
+  coffee beans nearby
 ---
 
 For coffee enthusiasts, having the perfect bean-to-cup coffee machine is a game-changer in creating that ideal cup of coffee right at home. With a plethora of options available, choosing the best machine can be daunting. After testing several models this year, here are three standout bean-to-cup coffee machines that offer exceptional quality and ease of use, making them top recommendations for coffee lovers.
