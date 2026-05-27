@@ -22,7 +22,8 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/pussycat-dolls-perform-with-busta-rhymes-at-amas-2026/
 source_item_id: 6a151f7316f23264031d810b
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: >-
+  /assets/images/pussycat-dolls-2026-amas-performance-busta-rhymes-tour-cancellations.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -34,6 +35,9 @@ quality_note: >-
   Strong entertainment focus and engaging tone, but severely damaged by
   fabricated 2026 AMAs event and tour details that don't exist.
 reading_time: 3
+image_alt: >-
+  Fictional pop group returns to a dramatic awards-stage spotlight before a
+  cheering crowd.
 ---
 ## Comeback Performance Marks Pivotal Moment
 
