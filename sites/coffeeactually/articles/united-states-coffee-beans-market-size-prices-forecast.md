@@ -1,26 +1,36 @@
 ---
-title: "United States Coffee Beans Market Size, Prices, Forecast"
-description: "The U.S. coffee bean market is driven by imports, specialty coffee demand, price volatility, sustainability concerns, and evolving retail channels, with growth opportunities in premium products, e-commerce, and convenient brewing formats."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:16:12+00:00"
-author: "Taylor Winters"
+title: 'United States Coffee Beans Market Size, Prices, Forecast'
+description: >-
+  The U.S. coffee bean market is driven by imports, specialty coffee demand,
+  price volatility, sustainability concerns, and evolving retail channels, with
+  growth opportunities in premium products, e-commerce, and convenient brewing
+  formats.
+type: standard
+status: published
+publishDate: '2026-05-14T08:16:12+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Beans"
-  - "Beans"
-  - "News"
-slug: "united-states-coffee-beans-market-size-prices-forecast"
+  - Coffee Beans
+  - Beans
+  - News
+slug: united-states-coffee-beans-market-size-prices-forecast
 reading_time: 7
-source_url: "https://coffeeactually.com/united-states-coffee-beans-market-size-prices-forecast/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/united-states-coffee-beans-market-size-prices-forecast/
+imported_from: wordpress
 wp_original_id: 51454
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/united-states-coffee-beans-market-size-prices-forecast.webp
 seo:
-  canonical: "https://coffeeactually.com/united-states-coffee-beans-market-size-prices-forecast/"
-  og_title: "United States Coffee Beans Market Size, Prices, Forecast - Coffee Actually"
-  og_description: "The U.S. coffee bean market is driven by imports, specialty coffee demand, price volatility, sustainability concerns, and evolving retail channels, with growth opportunities in premium products, e-commerce, and convenient brewing formats."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/05/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/united-states-coffee-beans-market-size-prices-forecast/
+  og_title: 'United States Coffee Beans Market Size, Prices, Forecast - Coffee Actually'
+  og_description: >-
+    The U.S. coffee bean market is driven by imports, specialty coffee demand,
+    price volatility, sustainability concerns, and evolving retail channels,
+    with growth opportunities in premium products, e-commerce, and convenient
+    brewing formats.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/05/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 85
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong market analysis with excellent keyword coverage and appropriate length, though the tone is somewhat formal for the target audience and could benefit from more engaging, conversational elements."
+quality_note: >-
+  Strong market analysis with excellent keyword coverage and appropriate length,
+  though the tone is somewhat formal for the target audience and could benefit
+  from more engaging, conversational elements.
+image_alt: >-
+  Roasted coffee beans beside abstract market chart elements and blurred global
+  trade cues
 ---
 
 The United States coffee bean market remains one of the world's most important demand centers, driven by daily consumption habits, specialty coffee culture, and a deep reliance on global supply chains. From supermarket shelves to independent roasters, green coffee beans and roasted products move through a complex market shaped by imports, pricing, consumer preferences, and changing retail channels.
