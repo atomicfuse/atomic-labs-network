@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://deadline.com/2026/05/owen-wilson-stick-podcast-interview-1236920491/'
 source_item_id: 6a151f7416f23264031d8128
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/owen-wilson-apple-tv-stick-golf-comedy-season-2.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   concerning factual uncertainty and slightly short length hurt the overall
   score.
 reading_time: 3
+image_alt: >-
+  Mentor and young golfer stand on a quiet course as parents watch from the
+  background.
 ---
 ## Owen Wilson Returns to Comedy in Apple TV+'s 'Stick'
 
