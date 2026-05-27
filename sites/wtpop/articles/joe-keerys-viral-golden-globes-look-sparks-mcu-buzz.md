@@ -1,26 +1,34 @@
 ---
-title: "Joe Keery’s Viral Golden Globes Look Sparks MCU Buzz"
-description: "Joe Keery's striking new look at the Golden Globes sparked viral discussions, highlighting his potential to take on new challenges and roles beyond \"Stranger Things.\" His daring style change captured public attention, positioning him as a fashion-forward trendsetter."
-type: "standard"
-status: "published"
-publishDate: "2026-01-12T10:39:29+00:00"
-author: "Lena Harper"
+title: Joe Keery’s Viral Golden Globes Look Sparks MCU Buzz
+description: >-
+  Joe Keery's striking new look at the Golden Globes sparked viral discussions,
+  highlighting his potential to take on new challenges and roles beyond
+  "Stranger Things." His daring style change captured public attention,
+  positioning him as a fashion-forward trendsetter.
+type: standard
+status: published
+publishDate: '2026-01-12T10:39:29+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Fashion"
-  - "TV &amp; Movies"
-slug: "joe-keerys-viral-golden-globes-look-sparks-mcu-buzz"
+  - Celebrities
+  - Fashion
+  - TV &amp; Movies
+slug: joe-keerys-viral-golden-globes-look-sparks-mcu-buzz
 reading_time: 3
-source_url: "https://wtpop.com/joe-keerys-viral-golden-globes-look-sparks-mcu-buzz/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/joe-keerys-viral-golden-globes-look-sparks-mcu-buzz/'
+imported_from: wordpress
 wp_original_id: 756
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/joe-keerys-viral-golden-globes-look-sparks-mcu-buzz.webp
 seo:
-  canonical: "https://wtpop.com/joe-keerys-viral-golden-globes-look-sparks-mcu-buzz/"
-  og_title: "Joe Keery's Viral Golden Globes Look Sparks MCU Buzz - WTPOP"
-  og_description: "Joe Keery's striking new look at the Golden Globes sparked viral discussions, highlighting his potential to take on new challenges and roles beyond \"Stranger Things.\" His daring style change captured public attention, positioning him as a fashion-forward trendsetter."
-  og_image: "https://wtpop.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/joe-keerys-viral-golden-globes-look-sparks-mcu-buzz/'
+  og_title: Joe Keery's Viral Golden Globes Look Sparks MCU Buzz - WTPOP
+  og_description: >-
+    Joe Keery's striking new look at the Golden Globes sparked viral
+    discussions, highlighting his potential to take on new challenges and roles
+    beyond "Stranger Things." His daring style change captured public attention,
+    positioning him as a fashion-forward trendsetter.
+  og_image: 'https://wtpop.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Engaging entertainment content with strong keyword coverage, but falls short on length and contains speculative claims about MCU involvement that lack substantiation."
+quality_note: >-
+  Engaging entertainment content with strong keyword coverage, but falls short
+  on length and contains speculative claims about MCU involvement that lack
+  substantiation.
+image_alt: >-
+  Stylish actor on a golden red carpet surrounded by cinematic flashes and
+  abstract superhero-inspired light shapes.
 ---
 
 Joe Keery, best known for his role in the popular series "Stranger Things," recently captured widespread attention at the Golden Globes. His appearance sparked a flurry of reactions, thanks to his striking new look that set social media abuzz.
