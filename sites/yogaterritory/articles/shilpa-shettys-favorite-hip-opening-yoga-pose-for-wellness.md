@@ -1,26 +1,36 @@
 ---
-title: "Shilpa Shetty’s Favorite Hip-Opening Yoga Pose for Wellness"
-description: "Incorporating hip-opening yoga poses into your routine enhances flexibility, relieves tension, and improves both physical health and mental well-being. These poses target tight hip muscles, promoting emotional release and contributing to a balanced, holistic lifestyle."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T10:04:42+00:00"
-author: "Taylor Winters"
+title: Shilpa Shetty’s Favorite Hip-Opening Yoga Pose for Wellness
+description: >-
+  Incorporating hip-opening yoga poses into your routine enhances flexibility,
+  relieves tension, and improves both physical health and mental well-being.
+  These poses target tight hip muscles, promoting emotional release and
+  contributing to a balanced, holistic lifestyle.
+type: standard
+status: review
+publishDate: '2025-11-17T10:04:42+00:00'
+author: Taylor Winters
 tags:
-  - "Wellness"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "shilpa-shettys-favorite-hip-opening-yoga-pose-for-wellness"
+  - Wellness
+  - Mindfullness
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: shilpa-shettys-favorite-hip-opening-yoga-pose-for-wellness
 reading_time: 3
-source_url: "https://yogaterritory.com/shilpa-shettys-favorite-hip-opening-yoga-pose-for-wellness/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/shilpa-shettys-favorite-hip-opening-yoga-pose-for-wellness/
+imported_from: wordpress
 wp_original_id: 20683
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/shilpa-shettys-favorite-hip-opening-yoga-pose-for-wellness.webp
 seo:
-  canonical: "https://yogaterritory.com/shilpa-shettys-favorite-hip-opening-yoga-pose-for-wellness/"
-  og_title: "Shilpa Shetty's Favorite Hip-Opening Yoga Pose for Wellness - Yoga Territory"
-  og_description: "Incorporating hip-opening yoga poses into your routine enhances flexibility, relieves tension, and improves both physical health and mental well-being. These poses target tight hip muscles, promoting emotional release and contributing to a balanced, holistic lifestyle."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/shilpa-shettys-favorite-hip-opening-yoga-pose-for-wellness/
+  og_title: Shilpa Shetty's Favorite Hip-Opening Yoga Pose for Wellness - Yoga Territory
+  og_description: >-
+    Incorporating hip-opening yoga poses into your routine enhances flexibility,
+    relieves tension, and improves both physical health and mental well-being.
+    These poses target tight hip muscles, promoting emotional release and
+    contributing to a balanced, holistic lifestyle.
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,10 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate content, but significantly under the target word count at only 410 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accurate content, but significantly
+  under the target word count at only 410 words versus the 800-1200 range.
+image_alt: Woman practicing a hip-opening yoga pose in a calm sunlit studio
 ---
 
 In the realm of holistic health and fitness, yoga continues to be a revered practice for achieving physical and mental balance. One pose that has garnered attention for its comprehensive benefits is the hip-opening yoga pose, often endorsed by fitness enthusiasts for its transformative effects on the body and mind.
