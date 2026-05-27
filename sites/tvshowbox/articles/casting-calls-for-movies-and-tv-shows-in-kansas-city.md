@@ -1,25 +1,33 @@
 ---
-title: "Casting Calls for Movies and TV Shows in Kansas City"
-description: "Kansas City is emerging as a prime filming location, attracting filmmakers and TV producers with its cultural heritage, diverse landscapes, and supportive local government. This growth boosts the local economy and enhances its reputation in the entertainment industry."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T09:41:31+00:00"
-author: "Taylor Winters"
+title: Casting Calls for Movies and TV Shows in Kansas City
+description: >-
+  Kansas City is emerging as a prime filming location, attracting filmmakers and
+  TV producers with its cultural heritage, diverse landscapes, and supportive
+  local government. This growth boosts the local economy and enhances its
+  reputation in the entertainment industry.
+type: standard
+status: review
+publishDate: '2026-01-29T09:41:31+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "casting-calls-for-movies-and-tv-shows-in-kansas-city"
+  - TV News
+  - TV
+slug: casting-calls-for-movies-and-tv-shows-in-kansas-city
 reading_time: 3
-source_url: "https://tvshowbox.com/casting-calls-for-movies-and-tv-shows-in-kansas-city/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/casting-calls-for-movies-and-tv-shows-in-kansas-city/'
+imported_from: wordpress
 wp_original_id: 24060
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/casting-calls-for-movies-and-tv-shows-in-kansas-city.webp
 seo:
-  canonical: "https://tvshowbox.com/casting-calls-for-movies-and-tv-shows-in-kansas-city/"
-  og_title: "Casting Calls for Movies and TV Shows in Kansas City - TV Show Box"
-  og_description: "Kansas City is emerging as a prime filming location, attracting filmmakers and TV producers with its cultural heritage, diverse landscapes, and supportive local government. This growth boosts the local economy and enhances its reputation in the entertainment industry."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/casting-calls-for-movies-and-tv-shows-in-kansas-city/'
+  og_title: Casting Calls for Movies and TV Shows in Kansas City - TV Show Box
+  og_description: >-
+    Kansas City is emerging as a prime filming location, attracting filmmakers
+    and TV producers with its cultural heritage, diverse landscapes, and
+    supportive local government. This growth boosts the local economy and
+    enhances its reputation in the entertainment industry.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 75
-quality_note: "The article has good tone and covers relevant topics but is significantly under the target word count and lacks specific details about actual casting calls as promised in the title."
+quality_note: >-
+  The article has good tone and covers relevant topics but is significantly
+  under the target word count and lacks specific details about actual casting
+  calls as promised in the title.
+image_alt: >-
+  Cinematic film crew setup at golden hour with the Kansas City skyline in the
+  background
 ---
 
 Kansas City is increasingly becoming a hotspot for film and television productions. This bustling city, rich in cultural heritage and varied landscapes, offers the perfect backdrop for a diverse range of productions. With its growing reputation in the entertainment industry, Kansas City is attracting numerous filmmakers and TV producers eager to utilize its unique settings.
