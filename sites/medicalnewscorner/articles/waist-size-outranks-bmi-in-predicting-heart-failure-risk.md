@@ -1,26 +1,38 @@
 ---
-title: "Waist Size Outranks BMI in Predicting Heart Failure Risk"
-description: "Recent research highlights waist size as a better predictor of heart failure risk than BMI, as waist circumference more directly assesses harmful visceral fat linked to cardiovascular conditions, offering insights for improved health assessments and personalized interventions."
-type: "standard"
-status: "published"
-publishDate: "2026-03-23T09:17:27+00:00"
-author: "Taylor Winters"
+title: Waist Size Outranks BMI in Predicting Heart Failure Risk
+description: >-
+  Recent research highlights waist size as a better predictor of heart failure
+  risk than BMI, as waist circumference more directly assesses harmful visceral
+  fat linked to cardiovascular conditions, offering insights for improved health
+  assessments and personalized interventions.
+type: standard
+status: published
+publishDate: '2026-03-23T09:17:27+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-  - "Health, Fitness &amp; Food"
-slug: "waist-size-outranks-bmi-in-predicting-heart-failure-risk"
+  - Research
+  - Clinical Trials &amp; Research
+  - 'Health, Fitness &amp; Food'
+slug: waist-size-outranks-bmi-in-predicting-heart-failure-risk
 reading_time: 3
-source_url: "https://medicalnewscorner.com/waist-size-outranks-bmi-in-predicting-heart-failure-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/waist-size-outranks-bmi-in-predicting-heart-failure-risk/
+imported_from: wordpress
 wp_original_id: 24804
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/waist-size-outranks-bmi-in-predicting-heart-failure-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/waist-size-outranks-bmi-in-predicting-heart-failure-risk/"
-  og_title: "Waist Size Outranks BMI in Predicting Heart Failure Risk - Medical News Corner"
-  og_description: "Recent research highlights waist size as a better predictor of heart failure risk than BMI. Waist circumference assesses harmful visceral fat linked to cardiovascular conditions, offering insights for improved health assessments and personalized interventions."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/waist-size-outranks-bmi-in-predicting-heart-failure-risk/
+  og_title: >-
+    Waist Size Outranks BMI in Predicting Heart Failure Risk - Medical News
+    Corner
+  og_description: >-
+    Recent research highlights waist size as a better predictor of heart failure
+    risk than BMI. Waist circumference assesses harmful visceral fat linked to
+    cardiovascular conditions, offering insights for improved health assessments
+    and personalized interventions.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written health research article with good keyword relevance and tone, but falls short on word count (574 vs 800-1200 target) and lacks specific study details that could improve credibility."
+quality_note: >-
+  Well-written health research article with good keyword relevance and tone, but
+  falls short on word count (574 vs 800-1200 target) and lacks specific study
+  details that could improve credibility.
+image_alt: >-
+  Person measuring their waist in a calm clinical setting with a stethoscope
+  nearby.
 ---
 
 Recent research suggests that waist size could serve as a more accurate indicator of heart failure risk than body mass index (BMI). As health experts continue to explore the factors contributing to heart disease, this finding offers new insights into the significance of waist circumference as a predictive tool.
