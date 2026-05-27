@@ -1,25 +1,33 @@
 ---
-title: "Kenya News Agency Latest News and Updates"
-description: "Kenyan coffee farmers earned about Sh1.75 billion from March direct sales, highlighting how transparent marketing, faster payments, and stronger cooperative systems can improve returns and strengthen the country's coffee value chain."
-type: "standard"
-status: "review"
-publishDate: "2026-05-11T08:16:36+00:00"
-author: "Taylor Winters"
+title: Kenya News Agency Latest News and Updates
+description: >-
+  Kenyan coffee farmers earned about Sh1.75 billion from March direct sales,
+  highlighting how transparent marketing, faster payments, and stronger
+  cooperative systems can improve returns and strengthen the country's coffee
+  value chain.
+type: standard
+status: review
+publishDate: '2026-05-11T08:16:36+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "kenya-news-agency-latest-news-and-updates"
+  - Coffee News
+  - News
+slug: kenya-news-agency-latest-news-and-updates
 reading_time: 7
-source_url: "https://coffeeactually.com/kenya-news-agency-latest-news-and-updates/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/kenya-news-agency-latest-news-and-updates/'
+imported_from: wordpress
 wp_original_id: 51449
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/kenya-news-agency-latest-news-and-updates.webp
 seo:
-  canonical: "https://coffeeactually.com/kenya-news-agency-latest-news-and-updates/"
-  og_title: "Kenya News Agency Latest News and Updates - Coffee Actually"
-  og_description: "Kenyan coffee farmers earned about Sh1.75 billion from March direct sales, highlighting how transparent marketing, faster payments, and stronger cooperative systems can improve returns and strengthen the country’s coffee value chain."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/kenya-news-agency-latest-news-and-updates/'
+  og_title: Kenya News Agency Latest News and Updates - Coffee Actually
+  og_description: >-
+    Kenyan coffee farmers earned about Sh1.75 billion from March direct sales,
+    highlighting how transparent marketing, faster payments, and stronger
+    cooperative systems can improve returns and strengthen the country’s coffee
+    value chain.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 45
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has good length and informative tone but poor SEO optimization with an irrelevant title and limited focus on coffee-specific topics for the target audience."
+quality_note: >-
+  The article has good length and informative tone but poor SEO optimization
+  with an irrelevant title and limited focus on coffee-specific topics for the
+  target audience.
+image_alt: >-
+  Kenyan coffee cherries being sorted by farmers with drying beds in warm
+  morning light
 ---
 
 Kenyan coffee farmers and cooperative societies are seeing stronger returns from direct coffee sales, after March transactions generated about Sh1.75 billion for producers through a more transparent marketing route.
