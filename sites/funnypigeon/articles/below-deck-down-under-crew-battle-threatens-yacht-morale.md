@@ -23,7 +23,7 @@ source_url: >-
   https://www.vulture.com/article/below-deck-down-under-recap-season-4-episode-17-bravo.html
 source_item_id: 6a152fda16f23264031d81fc
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/below-deck-down-under-crew-battle-threatens-yacht-morale.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,7 @@ quality_note: >-
   (592 vs 800-1200 target) and lacks strong entertainment focus for the
   funnypigeon audience.
 reading_time: 3
+image_alt: Tense yacht crew members stand apart in a polished service area at dusk.
 ---
 ## Power Struggle Erupts on Below Deck Down Under
 
