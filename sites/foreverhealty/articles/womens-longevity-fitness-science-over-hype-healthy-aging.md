@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.tatlerasia.com/lifestyle/wellbeing/women-longevity-fitness'
 source_item_id: 6a14209016f23264031d7da9
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/womens-longevity-fitness-science-over-hype-healthy-aging.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 78
@@ -31,6 +31,7 @@ quality_note: >-
   Strong topic relevance and tone but falls short on word count and relies too
   heavily on vague 'according to reports' citations without specific sources.
 reading_time: 3
+image_alt: Midlife woman training with simple fitness equipment in a calm sunlit studio.
 ---
 ## The Longevity Fitness Boom: Separating Science from Sales
 
