@@ -1,26 +1,34 @@
 ---
-title: "Coffee Bean Prices Set to Drop Slightly"
-description: "Coffee prices may decrease as improved weather and increased production boost supply, offering relief to consumers facing rising costs. This trend is driven by favorable conditions in regions like Brazil and Colombia, potentially leading to lower prices and market growth."
-type: "standard"
-status: "published"
-publishDate: "2026-03-02T09:15:36+00:00"
-author: "Taylor Winters"
+title: Coffee Bean Prices Set to Drop Slightly
+description: >-
+  Coffee prices may decrease as improved weather and increased production boost
+  supply, offering relief to consumers facing rising costs. This trend is driven
+  by favorable conditions in regions like Brazil and Colombia, potentially
+  leading to lower prices and market growth.
+type: standard
+status: published
+publishDate: '2026-03-02T09:15:36+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beans"
-  - "News"
-slug: "coffee-bean-prices-set-to-drop-slightly"
+  - Coffee News
+  - Beans
+  - News
+slug: coffee-bean-prices-set-to-drop-slightly
 reading_time: 3
-source_url: "https://coffeeactually.com/coffee-bean-prices-set-to-drop-slightly/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/coffee-bean-prices-set-to-drop-slightly/'
+imported_from: wordpress
 wp_original_id: 51412
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffee-bean-prices-set-to-drop-slightly.webp
 seo:
-  canonical: "https://coffeeactually.com/coffee-bean-prices-set-to-drop-slightly/"
-  og_title: "Coffee Bean Prices Set to Drop Slightly - Coffee Actually"
-  og_description: "Coffee prices may decrease as improved weather and increased production boost supply, offering relief to consumers facing rising costs. This trend is driven by favorable conditions in regions like Brazil and Colombia, potentially leading to lower prices and market growth."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/03/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/coffee-bean-prices-set-to-drop-slightly/'
+  og_title: Coffee Bean Prices Set to Drop Slightly - Coffee Actually
+  og_description: >-
+    Coffee prices may decrease as improved weather and increased production
+    boost supply, offering relief to consumers facing rising costs. This trend
+    is driven by favorable conditions in regions like Brazil and Colombia,
+    potentially leading to lower prices and market growth.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/03/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written coffee news article with strong keyword relevance and appropriate tone, though slightly below optimal word count for the site's guidelines."
+quality_note: >-
+  Well-written coffee news article with strong keyword relevance and appropriate
+  tone, though slightly below optimal word count for the site's guidelines.
+image_alt: >-
+  Coffee beans arranged in a subtle downward curve with sunlit coffee plants in
+  the background
 ---
 
 Coffee lovers can look forward to a slight reprieve in prices as the cost of coffee beans is anticipated to decrease in the coming months. This forecast is a welcome sign for consumers who have been grappling with rising costs in recent years. The shift in pricing trends is attributed to several factors affecting the global coffee market, including improved weather conditions and increased production in major coffee-producing regions.
