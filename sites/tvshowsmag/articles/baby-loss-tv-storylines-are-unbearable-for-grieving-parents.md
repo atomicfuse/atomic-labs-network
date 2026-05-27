@@ -1,25 +1,36 @@
 ---
-title: "Baby Loss TV Storylines Are Unbearable for Grieving Parents"
-description: "Television portrayals of baby loss can break silence, validate grief and encourage compassion when miscarriage, stillbirth and neonatal death are shown with honesty, sensitivity and lasting emotional impact."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:46:46+00:00"
-author: "Taylor Winters"
+title: Baby Loss TV Storylines Are Unbearable for Grieving Parents
+description: >-
+  Television portrayals of baby loss can break silence, validate grief and
+  encourage compassion when miscarriage, stillbirth and neonatal death are shown
+  with honesty, sensitivity and lasting emotional impact.
+type: standard
+status: published
+publishDate: '2026-04-30T08:46:46+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "baby-loss-tv-storylines-are-unbearable-for-grieving-parents"
+  - TV News
+  - TV Shows
+slug: baby-loss-tv-storylines-are-unbearable-for-grieving-parents
 reading_time: 7
-source_url: "https://www.tvshowsmag.com/baby-loss-tv-storylines-are-unbearable-for-grieving-parents/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/baby-loss-tv-storylines-are-unbearable-for-grieving-parents/
+imported_from: wordpress
 wp_original_id: 28206
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/baby-loss-tv-storylines-are-unbearable-for-grieving-parents.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/baby-loss-tv-storylines-are-unbearable-for-grieving-parents/"
-  og_title: "Baby Loss TV Storylines Are Unbearable for Grieving Parents - TV Shows Magazine"
-  og_description: "Television portrayals of baby loss can break silence, validate grief and encourage compassion when miscarriage, stillbirth and neonatal death are shown with honesty, sensitivity and lasting emotional impact."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/baby-loss-tv-storylines-are-unbearable-for-grieving-parents/
+  og_title: >-
+    Baby Loss TV Storylines Are Unbearable for Grieving Parents - TV Shows
+    Magazine
+  og_description: >-
+    Television portrayals of baby loss can break silence, validate grief and
+    encourage compassion when miscarriage, stillbirth and neonatal death are
+    shown with honesty, sensitivity and lasting emotional impact.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 87
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written, sensitive article with excellent length and tone, though could benefit from stronger SEO optimization and more direct entertainment industry focus."
+quality_note: >-
+  Well-written, sensitive article with excellent length and tone, though could
+  benefit from stronger SEO optimization and more direct entertainment industry
+  focus.
+image_alt: >-
+  A couple sits quietly in a dim living room, lit by the glow of an unseen
+  television.
 ---
 
 Television has long shaped how audiences understand family life, illness and grief. Now, more dramas and soaps are giving space to baby loss, including miscarriage, stillbirth, ectopic pregnancy and neonatal death. When these stories are written with care, they can help bereaved parents feel seen and encourage others to speak with more compassion.
