@@ -1,47 +1,33 @@
 ---
-title: Kansas City Casting Calls for Movies and TV Shows
-description: >-
-  Kansas City is emerging as a prominent hub for film and TV productions,
-  offering diverse landscapes and local talent. The influx of projects boosts
-  the local economy and provides opportunities for creatives, enhancing the
-  city's appeal in the industry.
-type: standard
-status: review
-publishDate: '2025-08-07T06:14:51+00:00'
-author: Taylor Winters
+title: "Kansas City Casting Calls for Movies and TV Shows"
+description: "Kansas City is emerging as a prominent hub for film and TV productions, offering diverse landscapes and local talent. The influx of projects boosts the local economy and provides opportunities for creatives, enhancing the city's appeal in the industry."
+type: "standard"
+status: "review"
+publishDate: "2025-08-07T06:14:51+00:00"
+author: "Taylor Winters"
 tags:
-  - TV News
-  - News
-slug: kansas-city-casting-calls-for-movies-and-tv-shows
+  - "TV News"
+  - "News"
+slug: "kansas-city-casting-calls-for-movies-and-tv-shows"
 reading_time: 3
-source_url: 'https://www.tvshowsmag.com/kansas-city-casting-calls-for-movies-and-tv-shows/'
-imported_from: wordpress
+source_url: "https://www.tvshowsmag.com/kansas-city-casting-calls-for-movies-and-tv-shows/"
+imported_from: "wordpress"
 wp_original_id: 28079
-featuredImage: /assets/images/kansas-city-casting-calls-for-movies-and-tv-shows.webp
+featuredImage: "/assets/images/tvshowsmag-general-article.webp"
 seo:
-  canonical: >-
-    https://www.tvshowsmag.com/kansas-city-casting-calls-for-movies-and-tv-shows/
-  og_title: Kansas City Casting Calls for Movies and TV Shows - TV Shows Magazine
-  og_description: >-
-    Kansas City is emerging as a prominent hub for film and TV productions,
-    offering diverse landscapes and local talent. The influx of projects boosts
-    the local economy and provides opportunities for creatives, enhancing the
-    city's appeal in the industry.
-  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/08/make_file.jpeg'
-  twitter_card: summary_large_image
-quality_score: 67
+  canonical: "https://www.tvshowsmag.com/kansas-city-casting-calls-for-movies-and-tv-shows/"
+  og_title: "Kansas City Casting Calls for Movies and TV Shows - TV Shows Magazine"
+  og_description: "Kansas City is emerging as a prominent hub for film and TV productions, offering diverse landscapes and local talent. The influx of projects boosts the local economy and provides opportunities for creatives, enhancing the city's appeal in the industry."
+  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/08/make_file.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 51
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 35
   tone_match: 75
   content_length: 40
-  factual_accuracy: 85
-  keyword_relevance: 70
-quality_note: >-
-  The article has decent tone and accuracy but falls significantly short of the
-  800-1200 word target at only 436 words, limiting its overall effectiveness.
-image_alt: >-
-  Aspiring actors wait in a film studio with Kansas City skyline glowing at
-  dusk.
+  factual_accuracy: 60
+  keyword_relevance: 45
+quality_note: "Article is too short and lacks specific details about actual casting calls or productions, making it more of a general overview than actionable entertainment news."
 ---
 
 The bustling city of Kansas City is increasingly becoming a hub for film and television productions, attracting a variety of projects seeking the unique backdrop and talent the region offers. With major productions scouting the area, Kansas City is solidifying its position as a go-to location for filmmakers.
