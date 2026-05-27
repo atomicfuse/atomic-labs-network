@@ -1,30 +1,39 @@
 ---
-title: "Elevate Your Practice: Advanced Yoga Asanas at Patanjali Yoga Rishikesh"
-description: "Explore advanced yoga asanas for seasoned practitioners at Patanjali Yoga Rishikesh, and learn what it takes to become an advanced yogi and teacher."
-type: "standard"
-status: "review"
-publishDate: "2025-07-03T04:37:25+00:00"
-author: "Taylor Winters"
+title: 'Elevate Your Practice: Advanced Yoga Asanas at Patanjali Yoga Rishikesh'
+description: >-
+  Explore advanced yoga asanas for seasoned practitioners at Patanjali Yoga
+  Rishikesh, and learn what it takes to become an advanced yogi and teacher.
+type: standard
+status: review
+publishDate: '2025-07-03T04:37:25+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga Postures"
-slug: "elevate-your-practice-advanced-yoga-asanas-at-patanjali-yoga-rishikesh"
+  - Yoga Poses
+  - Lifestyle
+  - Mindfullness
+  - Yoga Postures
+slug: elevate-your-practice-advanced-yoga-asanas-at-patanjali-yoga-rishikesh
 reading_time: 3
-source_url: "https://yogaterritory.com/elevate-your-practice-advanced-yoga-asanas-at-patanjali-yoga-rishikesh/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/elevate-your-practice-advanced-yoga-asanas-at-patanjali-yoga-rishikesh/
+imported_from: wordpress
 wp_original_id: 20632
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/elevate-your-practice-advanced-yoga-asanas-at-patanjali-yoga-rishikesh.webp
 seo:
-  canonical: "https://yogaterritory.com/elevate-your-practice-advanced-yoga-asanas-at-patanjali-yoga-rishikesh/"
-  og_title: "Elevate Your Practice: Advanced Yoga Asanas at Patanjali Yoga Rishikesh - Yoga Territory"
-  og_description: "Explore advanced yoga asanas for seasoned practitioners at Patanjali Yoga Rishikesh, and learn what it takes to become an advanced yogi and teacher."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/elevate-your-practice-advanced-yoga-asanas-at-patanjali-yoga-rishikesh/
+  og_title: >-
+    Elevate Your Practice: Advanced Yoga Asanas at Patanjali Yoga Rishikesh -
+    Yoga Territory
+  og_description: >-
+    Explore advanced yoga asanas for seasoned practitioners at Patanjali Yoga
+    Rishikesh, and learn what it takes to become an advanced yogi and teacher.
+  twitter_card: summary_large_image
 videos:
-  - id: "3c02827e"
-    url: "https://www.youtube.com/watch?v=jMBha0gSuyE"
-    position: "after-paragraph-2"
+  - id: 3c02827e
+    url: 'https://www.youtube.com/watch?v=jMBha0gSuyE'
+    position: after-paragraph-2
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -32,7 +41,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article has good tone and keyword coverage but is significantly under the target word count at 437 words, which severely impacts its SEO value and depth of coverage."
+quality_note: >-
+  The article has good tone and keyword coverage but is significantly under the
+  target word count at 437 words, which severely impacts its SEO value and depth
+  of coverage.
+image_alt: >-
+  Advanced yogi practicing at sunrise on a quiet terrace overlooking misty
+  Rishikesh foothills
 ---
 
 Yoga is a journey that deepens with practice, and for those who have moved beyond the basics, Patanjali Yoga Rishikesh offers a transformative experience through advanced yoga asanas. These postures not only improve physical strength and flexibility but also enhance mental focus and inner peace. Located in the serene surroundings of Rishikesh, India, Patanjali Yoga provides an ideal setting for intermediate to advanced practitioners to refine their skills.
