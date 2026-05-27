@@ -1,25 +1,35 @@
 ---
-title: "Free Pantry Item to Boost Soil and Grow Healthier Plants"
-description: "Coffee grounds are a sustainable way to enhance garden health by enriching soil with nutrients like nitrogen, potassium, and phosphorus. They improve soil structure, act as mulch, and boost composting, benefiting plant growth when used properly."
-type: "standard"
-status: "review"
-publishDate: "2025-07-10T04:01:28+00:00"
-author: "Taylor Winters"
+title: Free Pantry Item to Boost Soil and Grow Healthier Plants
+description: >-
+  Coffee grounds are a sustainable way to enhance garden health by enriching
+  soil with nutrients like nitrogen, potassium, and phosphorus. They improve
+  soil structure, act as mulch, and boost composting, benefiting plant growth
+  when used properly.
+type: standard
+status: review
+publishDate: '2025-07-10T04:01:28+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beans"
-slug: "free-pantry-item-to-boost-soil-and-grow-healthier-plants"
+  - Coffee News
+  - Beans
+slug: free-pantry-item-to-boost-soil-and-grow-healthier-plants
 reading_time: 3
-source_url: "https://coffeeactually.com/free-pantry-item-to-boost-soil-and-grow-healthier-plants/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/free-pantry-item-to-boost-soil-and-grow-healthier-plants/
+imported_from: wordpress
 wp_original_id: 51295
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/free-pantry-item-to-boost-soil-and-grow-healthier-plants.webp
 seo:
-  canonical: "https://coffeeactually.com/free-pantry-item-to-boost-soil-and-grow-healthier-plants/"
-  og_title: "Free Pantry Item to Boost Soil and Grow Healthier Plants - Coffee Actually"
-  og_description: "Coffee grounds are a sustainable way to enhance garden health by enriching soil with nutrients like nitrogen, potassium, and phosphorus. They improve soil structure, act as mulch, and boost composting, benefiting plant growth when used properly."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/07/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/free-pantry-item-to-boost-soil-and-grow-healthier-plants/
+  og_title: Free Pantry Item to Boost Soil and Grow Healthier Plants - Coffee Actually
+  og_description: >-
+    Coffee grounds are a sustainable way to enhance garden health by enriching
+    soil with nutrients like nitrogen, potassium, and phosphorus. They improve
+    soil structure, act as mulch, and boost composting, benefiting plant growth
+    when used properly.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/07/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 50
 score_breakdown:
   seo_quality: 25
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "While factually sound and well-written, this gardening article doesn't align with the coffee site's focus on coffee news, beans, drinks, brewing guides, and gear, and falls significantly short of the target word count."
+quality_note: >-
+  While factually sound and well-written, this gardening article doesn't align
+  with the coffee site's focus on coffee news, beans, drinks, brewing guides,
+  and gear, and falls significantly short of the target word count.
+image_alt: >-
+  Coffee grounds mixed into garden soil around healthy green seedlings in warm
+  morning light
 ---
 
 Coffee grounds are more than just the byproduct of your morning brew. They offer a sustainable and beneficial way to enhance your garden's health. Rich in nutrients, these grounds can significantly contribute to plant growth and soil improvement when used properly.
