@@ -1,25 +1,38 @@
 ---
-title: "Orlando Real Estate Lifestyle Featured in Central Florida TV Series"
-description: "Central Florida television remains relevant for investors as population growth, tourism, local news trust, political advertising, and digital adaptation support durable value despite cord-cutting and shifting media habits."
-type: "standard"
-status: "review"
-publishDate: "2026-05-04T08:36:54+00:00"
-author: "Taylor Winters"
+title: Orlando Real Estate Lifestyle Featured in Central Florida TV Series
+description: >-
+  Central Florida television remains relevant for investors as population
+  growth, tourism, local news trust, political advertising, and digital
+  adaptation support durable value despite cord-cutting and shifting media
+  habits.
+type: standard
+status: review
+publishDate: '2026-05-04T08:36:54+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "orlando-real-estate-lifestyle-featured-in-central-florida-tv-series"
+  - TV News
+  - TV
+slug: orlando-real-estate-lifestyle-featured-in-central-florida-tv-series
 reading_time: 7
-source_url: "https://tvshowbox.com/orlando-real-estate-lifestyle-featured-in-central-florida-tv-series/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/orlando-real-estate-lifestyle-featured-in-central-florida-tv-series/
+imported_from: wordpress
 wp_original_id: 24104
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/orlando-real-estate-lifestyle-featured-in-central-florida-tv-series.webp
 seo:
-  canonical: "https://tvshowbox.com/orlando-real-estate-lifestyle-featured-in-central-florida-tv-series/"
-  og_title: "Orlando Real Estate Lifestyle Featured in Central Florida TV Series - TV Show Box"
-  og_description: "Central Florida television remains relevant for investors as population growth, tourism, local news trust, political advertising, and digital adaptation support durable value despite cord-cutting and shifting media habits."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/orlando-real-estate-lifestyle-featured-in-central-florida-tv-series/
+  og_title: >-
+    Orlando Real Estate Lifestyle Featured in Central Florida TV Series - TV
+    Show Box
+  og_description: >-
+    Central Florida television remains relevant for investors as population
+    growth, tourism, local news trust, political advertising, and digital
+    adaptation support durable value despite cord-cutting and shifting media
+    habits.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 25
@@ -27,7 +40,15 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "While the article meets word count requirements and appears factually sound, it focuses heavily on television industry investment analysis rather than entertainment content, uses overly formal business language instead of the engaging conversational tone expected, and lacks proper SEO optimization with a misleading title that doesn't match the content focus."
+quality_note: >-
+  While the article meets word count requirements and appears factually sound,
+  it focuses heavily on television industry investment analysis rather than
+  entertainment content, uses overly formal business language instead of the
+  engaging conversational tone expected, and lacks proper SEO optimization with
+  a misleading title that doesn't match the content focus.
+image_alt: >-
+  Modern Central Florida home interior with a glowing TV, tablet charts, palm
+  reflections, and warm evening light.
 ---
 
 Central Florida television remains a valuable media niche, even as streaming reshapes viewing habits across the United States. The Orlando region offers broadcasters a rare mix of population growth, tourism demand, political advertising potential, and trusted local news consumption.
