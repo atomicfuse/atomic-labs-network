@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.vulture.com/article/interview-with-the-vampire-lestat-jesus.html'
 source_item_id: 6a152fda16f23264031d8204
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/amc-interview-vampire-anne-rice-jesus-blood-memnoch-devil.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   count, relies heavily on unverified reports, and doesn't align well with the
   site's core focus areas of funny videos, memes, and viral content.
 reading_time: 3
+image_alt: >-
+  Glam-rock vampire before a shadowy cathedral stage with crimson light, stained
+  glass, and an ancient statue.
 ---
 ## AMC Vampire Series Prepares for Its Weirdest Turn Yet
 
