@@ -21,7 +21,7 @@ source_url: >-
   https://www.msn.com/en-us/health/strength/bikini-pilates-club-miami-swim-week-miami/ar-AA23KWed
 source_item_id: 6a13fc9f16f23264031d7b87
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/luxury-wellness-event-merges-pilates-miami-swim-week.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written article covering fitness trends but falls short on word count and
   could benefit from more actionable wellness content for the target audience.
 reading_time: 3
+image_alt: >-
+  Luxury poolside Pilates gathering at sunset with swimwear fashion and beauty
+  displays in Miami
 ---
 ## Wellness Meets Fashion on Miami's Runway Scene
 
