@@ -1,26 +1,34 @@
 ---
-title: "Essential Guide to a Healthy Pregnancy Journey"
-description: "Embarking on the journey of pregnancy is transformative, filled with anticipation. Understanding the stages and nutritional needs, managing physical changes, and seeking emotional support are vital to ensuring a smooth transition into parenthood."
-type: "standard"
-status: "published"
-publishDate: "2025-11-06T10:01:30+00:00"
-author: "Taylor Winters"
+title: Essential Guide to a Healthy Pregnancy Journey
+description: >-
+  Embarking on the journey of pregnancy is transformative, filled with
+  anticipation. Understanding the stages and nutritional needs, managing
+  physical changes, and seeking emotional support are vital to ensuring a smooth
+  transition into parenthood.
+type: standard
+status: published
+publishDate: '2025-11-06T10:01:30+00:00'
+author: Taylor Winters
 tags:
-  - "Moms"
-  - "Parents"
-  - "Pregnancy"
-slug: "essential-guide-to-a-healthy-pregnancy-journey"
+  - Moms
+  - Parents
+  - Pregnancy
+slug: essential-guide-to-a-healthy-pregnancy-journey
 reading_time: 4
-source_url: "https://babyparenttrends.com/essential-guide-to-a-healthy-pregnancy-journey/"
-imported_from: "wordpress"
+source_url: 'https://babyparenttrends.com/essential-guide-to-a-healthy-pregnancy-journey/'
+imported_from: wordpress
 wp_original_id: 17732
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/essential-guide-to-a-healthy-pregnancy-journey.webp
 seo:
-  canonical: "https://babyparenttrends.com/essential-guide-to-a-healthy-pregnancy-journey/"
-  og_title: "Essential Guide to a Healthy Pregnancy Journey - Baby Parent Trends"
-  og_description: "Embarking on the journey of pregnancy is transformative, filled with anticipation. Understanding the stages and nutritional needs, managing physical changes, and seeking emotional support are vital. Preparing for the baby's arrival ensures a smooth transition into parenthood."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/11/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://babyparenttrends.com/essential-guide-to-a-healthy-pregnancy-journey/'
+  og_title: Essential Guide to a Healthy Pregnancy Journey - Baby Parent Trends
+  og_description: >-
+    Embarking on the journey of pregnancy is transformative, filled with
+    anticipation. Understanding the stages and nutritional needs, managing
+    physical changes, and seeking emotional support are vital. Preparing for the
+    baby's arrival ensures a smooth transition into parenthood.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/11/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -28,7 +36,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written pregnancy guide with accurate information and appropriate tone, but falls short on length requirements and could benefit from stronger SEO optimization in the title and meta description."
+quality_note: >-
+  Well-written pregnancy guide with accurate information and appropriate tone,
+  but falls short on length requirements and could benefit from stronger SEO
+  optimization in the title and meta description.
+image_alt: Pregnant person resting by a sunny window with fruit and a journal nearby
 ---
 
 Embarking on the journey of pregnancy is a unique and transformative experience filled with anticipation and excitement. Every stage of pregnancy brings new developments and considerations, offering prospective parents a chance to learn and prepare for the arrival of their child. Understanding what to expect and how to navigate these changes can help ensure a healthy and fulfilling pregnancy.
