@@ -1,26 +1,36 @@
 ---
-title: "Improve Posture and Relieve Back Pain with Top Yoga Routine"
-description: "Poor posture and upper back pain are prevalent issues today. A yoga instructor has developed a routine to alleviate discomfort and improve posture through targeted exercises, offering a refreshing approach to enhance quality of life."
-type: "standard"
-status: "published"
-publishDate: "2026-03-16T09:45:21+00:00"
-author: "Taylor Winters"
+title: Improve Posture and Relieve Back Pain with Top Yoga Routine
+description: >-
+  Poor posture and upper back pain are prevalent issues today. A yoga instructor
+  has developed a routine to alleviate discomfort and improve posture through
+  targeted exercises, offering a refreshing approach to enhance quality of life.
+type: standard
+status: published
+publishDate: '2026-03-16T09:45:21+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Back Pain"
-  - "Yoga Postures"
-slug: "improve-posture-and-relieve-back-pain-with-top-yoga-routine"
+  - Yoga Poses
+  - Yoga For Back Pain
+  - Yoga Postures
+slug: improve-posture-and-relieve-back-pain-with-top-yoga-routine
 reading_time: 3
-source_url: "https://yogaterritory.com/improve-posture-and-relieve-back-pain-with-top-yoga-routine/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/improve-posture-and-relieve-back-pain-with-top-yoga-routine/
+imported_from: wordpress
 wp_original_id: 20746
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/improve-posture-and-relieve-back-pain-with-top-yoga-routine.webp
 seo:
-  canonical: "https://yogaterritory.com/improve-posture-and-relieve-back-pain-with-top-yoga-routine/"
-  og_title: "Improve Posture and Relieve Back Pain with Top Yoga Routine - Yoga Territory"
-  og_description: "Poor posture and upper back pain are prevalent issues today. A yoga instructor has developed a routine to alleviate discomfort and improve posture through targeted exercises, offering a refreshing approach to enhance quality of life."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/improve-posture-and-relieve-back-pain-with-top-yoga-routine/
+  og_title: Improve Posture and Relieve Back Pain with Top Yoga Routine - Yoga Territory
+  og_description: >-
+    Poor posture and upper back pain are prevalent issues today. A yoga
+    instructor has developed a routine to alleviate discomfort and improve
+    posture through targeted exercises, offering a refreshing approach to
+    enhance quality of life.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "The article has strong tone and keyword relevance but is significantly under the target word count at only 506 words, which severely impacts its overall quality score."
+quality_note: >-
+  The article has strong tone and keyword relevance but is significantly under
+  the target word count at only 506 words, which severely impacts its overall
+  quality score.
+image_alt: 'Person practicing gentle yoga in a sunlit room with calm, upright posture.'
 ---
 
 Poor posture and upper back pain are common issues in today's digital age, where many spend hours hunched over devices. Addressing these problems can significantly enhance one's quality of life. A popular yoga instructor has developed a routine specifically targeting these concerns, offering a refreshing approach to alleviate discomfort and improve posture.
