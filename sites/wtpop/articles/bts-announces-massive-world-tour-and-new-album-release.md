@@ -1,25 +1,33 @@
 ---
-title: "BTS Announces Massive World Tour and New Album Release"
-description: "BTS is set to make a significant return in 2026 with a new album and potential world tour, exciting fans worldwide. Known for breaking records and influencing global culture, their comeback is expected to further cement their legacy as icons."
-type: "standard"
-status: "review"
-publishDate: "2025-10-27T11:07:11+00:00"
-author: "Lena Harper"
+title: BTS Announces Massive World Tour and New Album Release
+description: >-
+  BTS is set to make a significant return in 2026 with a new album and potential
+  world tour, exciting fans worldwide. Known for breaking records and
+  influencing global culture, their comeback is expected to further cement their
+  legacy as icons.
+type: standard
+status: review
+publishDate: '2025-10-27T11:07:11+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Music"
-slug: "bts-announces-massive-world-tour-and-new-album-release"
+  - Celebrities
+  - Music
+slug: bts-announces-massive-world-tour-and-new-album-release
 reading_time: 3
-source_url: "https://wtpop.com/bts-announces-massive-world-tour-and-new-album-release/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/bts-announces-massive-world-tour-and-new-album-release/'
+imported_from: wordpress
 wp_original_id: 545
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/bts-announces-massive-world-tour-and-new-album-release.webp
 seo:
-  canonical: "https://wtpop.com/bts-announces-massive-world-tour-and-new-album-release/"
-  og_title: "BTS Announces Massive World Tour and New Album Release - WTPOP"
-  og_description: "BTS is set to make a significant return in 2026 with a new album and potential world tour, exciting fans worldwide. Known for breaking records and influencing global culture, their comeback is expected to further cement their legacy as icons."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/10/make_file-2-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/bts-announces-massive-world-tour-and-new-album-release/'
+  og_title: BTS Announces Massive World Tour and New Album Release - WTPOP
+  og_description: >-
+    BTS is set to make a significant return in 2026 with a new album and
+    potential world tour, exciting fans worldwide. Known for breaking records
+    and influencing global culture, their comeback is expected to further cement
+    their legacy as icons.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/10/make_file-2-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong tone and keyword coverage but severely lacking in length and contains unverified claims about specific 2026 plans that appear fabricated."
+quality_note: >-
+  Strong tone and keyword coverage but severely lacking in length and contains
+  unverified claims about specific 2026 plans that appear fabricated.
+image_alt: >-
+  Seven silhouettes on a glowing stadium stage as a massive crowd holds lights
+  in anticipation.
 ---
 
 The global music scene is abuzz with anticipation as BTS, the renowned South Korean boy band, is set to make a significant return. With a new album and potential tour on the horizon, fans worldwide are eagerly awaiting what the group has in store for 2026. Known for their record-breaking achievements and influential music, BTS continues to captivate audiences across the globe.
