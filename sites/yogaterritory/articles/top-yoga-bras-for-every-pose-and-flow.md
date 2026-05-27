@@ -1,46 +1,33 @@
 ---
-title: Top Yoga Bras for Every Pose and Flow
-description: >-
-  Yoga requires the right gear for optimal performance and comfort. A
-  well-designed yoga bra is essential, providing support without restricting
-  movement, with key features including wide straps, moisture-wicking fabrics,
-  and adjustable fit for both functionality and style.
-type: standard
-status: published
-publishDate: '2026-01-01T09:47:18+00:00'
-author: Taylor Winters
+title: "Top Yoga Bras for Every Pose and Flow"
+description: "Yoga requires the right gear for optimal performance and comfort. A well-designed yoga bra is essential, providing support without restricting movement. Key features include wide straps, moisture-wicking fabrics, and adjustable fit, ensuring both functionality and style during practice."
+type: "standard"
+status: "review"
+publishDate: "2026-01-01T09:47:18+00:00"
+author: "Taylor Winters"
 tags:
-  - Yoga Poses
-  - Yoga For Women
-slug: top-yoga-bras-for-every-pose-and-flow
+  - "Yoga Poses"
+  - "Yoga For Women"
+slug: "top-yoga-bras-for-every-pose-and-flow"
 reading_time: 3
-source_url: 'https://yogaterritory.com/top-yoga-bras-for-every-pose-and-flow/'
-imported_from: wordpress
+source_url: "https://yogaterritory.com/top-yoga-bras-for-every-pose-and-flow/"
+imported_from: "wordpress"
 wp_original_id: 20705
-featuredImage: /assets/images/top-yoga-bras-for-every-pose-and-flow.webp
+featuredImage: "/assets/images/yogaterritory-general-article.webp"
 seo:
-  canonical: 'https://yogaterritory.com/top-yoga-bras-for-every-pose-and-flow/'
-  og_title: Top Yoga Bras for Every Pose and Flow - Yoga Territory
-  og_description: >-
-    Yoga requires the right gear for optimal performance and comfort. A
-    well-designed yoga bra is essential, providing support without restricting
-    movement. Key features include wide straps, moisture-wicking fabrics, and
-    adjustable fit, ensuring both functionality and style during practice.
-  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file.jpeg'
-  twitter_card: summary_large_image
-quality_score: 70
+  canonical: "https://yogaterritory.com/top-yoga-bras-for-every-pose-and-flow/"
+  og_title: "Top Yoga Bras for Every Pose and Flow - Yoga Territory"
+  og_description: "Yoga requires the right gear for optimal performance and comfort. A well-designed yoga bra is essential, providing support without restricting movement. Key features include wide straps, moisture-wicking fabrics, and adjustable fit, ensuring both functionality and style during practice."
+  og_image: "http://yogaterritory.com/wp-content/uploads/2026/01/make_file.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 67
 score_breakdown:
-  seo_quality: 75
+  seo_quality: 65
   tone_match: 85
-  content_length: 35
+  content_length: 50
   factual_accuracy: 95
-  keyword_relevance: 60
-quality_note: >-
-  Well-written article with good tone and accuracy, but significantly under
-  target word count and focused on gear rather than core yoga topics.
-image_alt: >-
-  Women practicing yoga in a bright studio wearing supportive, unbranded
-  activewear.
+  keyword_relevance: 40
+quality_note: "Well-written article with good tone and accuracy, but significantly under target word count and focuses on yoga gear rather than core yoga practice topics."
 ---
 
 Yoga has become an integral part of many people's wellness routines, offering both mental and physical benefits. A key component to enhancing your yoga practice is wearing the right gear, especially a well-designed yoga bra. Choosing the perfect yoga bra can significantly impact your comfort and performance during sessions.

@@ -1,48 +1,33 @@
 ---
-title: Teen Sets Record for Most Yoga Poses in One Minute
-description: >-
-  A talented teenager set a benchmark by performing numerous yoga poses in one
-  minute, highlighting the growing interest among youth in yoga for its physical
-  and mental benefits, and inspiring the community to explore their potential
-  through disciplined practice.
-type: standard
-status: published
-publishDate: '2026-01-29T09:47:33+00:00'
-author: Taylor Winters
+title: "Teen Sets Record for Most Yoga Poses in One Minute"
+description: "A talented teenager set a benchmark by performing numerous yoga poses in one minute, highlighting the growing interest among youth in yoga for its physical and mental benefits, and inspiring the community to explore their potential through disciplined practice."
+type: "standard"
+status: "review"
+publishDate: "2026-01-29T09:47:33+00:00"
+author: "Taylor Winters"
 tags:
-  - Yoga Poses
-  - Uncategorized
-slug: teen-sets-record-for-most-yoga-poses-in-one-minute
+  - "Yoga Poses"
+  - "Uncategorized"
+slug: "teen-sets-record-for-most-yoga-poses-in-one-minute"
 reading_time: 3
-source_url: 'https://yogaterritory.com/teen-sets-record-for-most-yoga-poses-in-one-minute/'
-imported_from: wordpress
+source_url: "https://yogaterritory.com/teen-sets-record-for-most-yoga-poses-in-one-minute/"
+imported_from: "wordpress"
 wp_original_id: 20719
-featuredImage: /assets/images/teen-sets-record-for-most-yoga-poses-in-one-minute.webp
+featuredImage: "/assets/images/yogaterritory-general-article.webp"
 seo:
-  canonical: >-
-    https://yogaterritory.com/teen-sets-record-for-most-yoga-poses-in-one-minute/
-  og_title: Teen Sets Record for Most Yoga Poses in One Minute - Yoga Territory
-  og_description: >-
-    A talented teenager set a benchmark by performing numerous yoga poses in one
-    minute, highlighting the growing interest among youth in yoga for its
-    physical and mental benefits, and inspiring the community to explore their
-    potential through disciplined practice.
-  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file.html'
-  twitter_card: summary_large_image
-quality_score: 75
+  canonical: "https://yogaterritory.com/teen-sets-record-for-most-yoga-poses-in-one-minute/"
+  og_title: "Teen Sets Record for Most Yoga Poses in One Minute - Yoga Territory"
+  og_description: "A talented teenager set a benchmark by performing numerous yoga poses in one minute, highlighting the growing interest among youth in yoga for its physical and mental benefits, and inspiring the community to explore their potential through disciplined practice."
+  og_image: "http://yogaterritory.com/wp-content/uploads/2026/01/make_file.html"
+  twitter_card: "summary_large_image"
+quality_score: 60
 score_breakdown:
-  seo_quality: 75
-  tone_match: 85
+  seo_quality: 45
+  tone_match: 75
   content_length: 65
-  factual_accuracy: 60
-  keyword_relevance: 90
-quality_note: >-
-  Well-written article with good keyword integration and appropriate tone, but
-  lacks factual specifics about the record and falls short of optimal word
-  count.
-image_alt: >-
-  Teen practicing yoga in a sunlit studio with soft motion trails suggesting
-  focused movement.
+  factual_accuracy: 30
+  keyword_relevance: 85
+quality_note: "The article covers relevant yoga topics with appropriate tone but lacks factual specificity about the actual record and contains vague claims without supporting evidence."
 ---
 
 Yoga is a practice that embodies balance, flexibility, and strength, and it continues to captivate individuals worldwide. Recently, a remarkable achievement in the realm of yoga was recorded by a talented teenager who demonstrated an extraordinary performance by executing numerous yoga poses in just one minute. This feat not only showcases human potential but also highlights the growing interest and dedication among younger generations towards health and wellness.

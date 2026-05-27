@@ -1,48 +1,38 @@
 ---
-title: Effective Yoga Workout for Fat Loss with Dr. Sandhya Arya
-description: >-
-  Discover a comprehensive yoga workout session designed for fat loss with Dr.
-  Sandhya Arya, a seasoned yoga expert with over two decades of experience.
-type: standard
-status: published
-publishDate: '2025-07-24T04:35:23+00:00'
-author: Taylor Winters
+title: "Effective Yoga Workout for Fat Loss with Dr. Sandhya Arya"
+description: "Discover a comprehensive yoga workout session designed for fat loss with Dr. Sandhya Arya, a seasoned yoga expert with over two decades of experience."
+type: "standard"
+status: "review"
+publishDate: "2025-07-24T04:35:23+00:00"
+author: "Taylor Winters"
 tags:
-  - Yoga Poses
-  - Lifestyle
-  - Yoga For Women
-  - Yoga Postures
-slug: effective-yoga-workout-for-fat-loss-with-dr-sandhya-arya
+  - "Yoga Poses"
+  - "Lifestyle"
+  - "Yoga For Women"
+  - "Yoga Postures"
+slug: "effective-yoga-workout-for-fat-loss-with-dr-sandhya-arya"
 reading_time: 2
-source_url: >-
-  https://yogaterritory.com/effective-yoga-workout-for-fat-loss-with-dr-sandhya-arya/
-imported_from: wordpress
+source_url: "https://yogaterritory.com/effective-yoga-workout-for-fat-loss-with-dr-sandhya-arya/"
+imported_from: "wordpress"
 wp_original_id: 20638
-featuredImage: /assets/images/effective-yoga-workout-for-fat-loss-with-dr-sandhya-arya.webp
+featuredImage: "/assets/images/yogaterritory-general-article.webp"
 seo:
-  canonical: >-
-    https://yogaterritory.com/effective-yoga-workout-for-fat-loss-with-dr-sandhya-arya/
-  og_title: Effective Yoga Workout for Fat Loss with Dr. Sandhya Arya - Yoga Territory
-  og_description: >-
-    Discover a comprehensive yoga workout session designed for fat loss with Dr.
-    Sandhya Arya, a seasoned yoga expert with over two decades of experience.
-  twitter_card: summary_large_image
+  canonical: "https://yogaterritory.com/effective-yoga-workout-for-fat-loss-with-dr-sandhya-arya/"
+  og_title: "Effective Yoga Workout for Fat Loss with Dr. Sandhya Arya - Yoga Territory"
+  og_description: "Discover a comprehensive yoga workout session designed for fat loss with Dr. Sandhya Arya, a seasoned yoga expert with over two decades of experience."
+  twitter_card: "summary_large_image"
 videos:
-  - id: c1e51d00
-    url: 'https://www.youtube.com/watch?v=lxw53zQzcCg'
-    position: after-paragraph-2
-quality_score: 69
+  - id: "4daa612b"
+    url: "https://www.youtube.com/watch?v=lxw53zQzcCg"
+    position: "after-paragraph-2"
+quality_score: 68
 score_breakdown:
   seo_quality: 65
-  tone_match: 75
-  content_length: 40
+  tone_match: 80
+  content_length: 35
   factual_accuracy: 85
-  keyword_relevance: 80
-quality_note: >-
-  The article has good tone and keyword coverage but is significantly too short
-  at 389 words (well below the 800-1200 target), which severely impacts its
-  overall quality score.
-image_alt: Sunlit yoga studio with a woman practicing a flowing pose on a mat
+  keyword_relevance: 75
+quality_note: "The article has good tone and covers relevant yoga topics, but is significantly too short at 389 words (target 800-1200) which severely impacts its value."
 ---
 
 Yoga has long been celebrated for its myriad health benefits, including flexibility, mental clarity, and weight management. In this blog post, we delve into a specialized yoga workout session crafted by Dr. Sandhya Arya, an esteemed Naturopath Doctor with over 20 years of experience in the field of yoga. This session is specifically designed to aid in fat loss while promoting overall well-being.

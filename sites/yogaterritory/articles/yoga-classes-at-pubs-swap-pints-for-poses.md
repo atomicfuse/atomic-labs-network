@@ -1,47 +1,35 @@
 ---
-title: 'Yoga Classes at Pubs: Swap Pints for Poses'
-description: >-
-  In Trowse, The White Horse pub is hosting yoga classes exclusively for men,
-  aiming to challenge stereotypes and promote well-being by integrating wellness
-  into pub culture in a supportive community setting.
-type: standard
-status: published
-publishDate: '2026-01-19T09:43:29+00:00'
-author: Taylor Winters
+title: "Yoga Classes at Pubs: Swap Pints for Poses"
+description: "In Trowse, The White Horse pub is hosting yoga classes exclusively for men, aiming to challenge stereotypes and promote well-being. This initiative integrates wellness into pub culture, encouraging men to explore yoga in a supportive community setting."
+type: "standard"
+status: "review"
+publishDate: "2026-01-19T09:43:29+00:00"
+author: "Taylor Winters"
 tags:
-  - Yoga Poses
-  - Lifestyle
-  - Mindfullness
-  - Yoga For Men
-slug: yoga-classes-at-pubs-swap-pints-for-poses
+  - "Yoga Poses"
+  - "Lifestyle"
+  - "Mindfullness"
+  - "Yoga For Men"
+slug: "yoga-classes-at-pubs-swap-pints-for-poses"
 reading_time: 3
-source_url: 'https://yogaterritory.com/yoga-classes-at-pubs-swap-pints-for-poses/'
-imported_from: wordpress
+source_url: "https://yogaterritory.com/yoga-classes-at-pubs-swap-pints-for-poses/"
+imported_from: "wordpress"
 wp_original_id: 20713
-featuredImage: /assets/images/yoga-classes-at-pubs-swap-pints-for-poses.webp
+featuredImage: "/assets/images/yogaterritory-general-article.webp"
 seo:
-  canonical: 'https://yogaterritory.com/yoga-classes-at-pubs-swap-pints-for-poses/'
-  og_title: 'Yoga Classes at Pubs: Swap Pints for Poses - Yoga Territory'
-  og_description: >-
-    In Trowse, The White Horse pub is hosting yoga classes exclusively for men,
-    aiming to challenge stereotypes and promote well-being. This initiative
-    integrates wellness into pub culture, encouraging men to explore yoga in a
-    supportive community setting.
-  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file-5.jpeg'
-  twitter_card: summary_large_image
-quality_score: 77
+  canonical: "https://yogaterritory.com/yoga-classes-at-pubs-swap-pints-for-poses/"
+  og_title: "Yoga Classes at Pubs: Swap Pints for Poses - Yoga Territory"
+  og_description: "In Trowse, The White Horse pub is hosting yoga classes exclusively for men, aiming to challenge stereotypes and promote well-being. This initiative integrates wellness into pub culture, encouraging men to explore yoga in a supportive community setting."
+  og_image: "http://yogaterritory.com/wp-content/uploads/2026/01/make_file-5.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 71
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 45
   tone_match: 85
-  content_length: 70
-  factual_accuracy: 90
-  keyword_relevance: 75
-quality_note: >-
-  Well-written article with engaging tone but falls short on word count and
-  could benefit from stronger SEO optimization and more yoga-specific content.
-image_alt: >-
-  Men practice yoga on mats in a warmly lit pub, blending community wellness
-  with familiar social space.
+  content_length: 60
+  factual_accuracy: 95
+  keyword_relevance: 70
+quality_note: "Well-written article with engaging tone and solid content, but falls short on SEO optimization with weak title/description and limited yoga-specific keyword integration."
 ---
 
 In the charming village of Trowse, a unique initiative is bringing a new dimension to local pub culture. The White Horse, a beloved local establishment, is now hosting yoga classes exclusively for men. This novel approach aims to break the stereotype that yoga is predominantly for women while also promoting mental and physical well-being among men in the community.
