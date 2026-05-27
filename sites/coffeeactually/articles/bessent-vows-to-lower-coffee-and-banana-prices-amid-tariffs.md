@@ -1,25 +1,38 @@
 ---
-title: "Bessent Vows to Lower Coffee and Banana Prices Amid Tariffs"
-description: "Global consumers may soon see relief from fluctuating prices in coffee and bananas as tariff adjustments are discussed, potentially stabilizing or reducing prices. These changes could benefit consumers and stimulate economic activity by increasing trade volumes."
-type: "standard"
-status: "review"
-publishDate: "2025-11-13T09:15:38+00:00"
-author: "Taylor Winters"
+title: Bessent Vows to Lower Coffee and Banana Prices Amid Tariffs
+description: >-
+  Global consumers may soon see relief from fluctuating prices in coffee and
+  bananas as tariff adjustments are discussed, potentially stabilizing or
+  reducing prices. These changes could benefit consumers and stimulate economic
+  activity by increasing trade volumes.
+type: standard
+status: review
+publishDate: '2025-11-13T09:15:38+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "bessent-vows-to-lower-coffee-and-banana-prices-amid-tariffs"
+  - Coffee News
+  - News
+slug: bessent-vows-to-lower-coffee-and-banana-prices-amid-tariffs
 reading_time: 3
-source_url: "https://coffeeactually.com/bessent-vows-to-lower-coffee-and-banana-prices-amid-tariffs/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/bessent-vows-to-lower-coffee-and-banana-prices-amid-tariffs/
+imported_from: wordpress
 wp_original_id: 51348
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/bessent-vows-to-lower-coffee-and-banana-prices-amid-tariffs.webp
 seo:
-  canonical: "https://coffeeactually.com/bessent-vows-to-lower-coffee-and-banana-prices-amid-tariffs/"
-  og_title: "Bessent Vows to Lower Coffee and Banana Prices Amid Tariffs - Coffee Actually"
-  og_description: "Global consumers may soon see relief from fluctuating prices in coffee and bananas as tariff adjustments are discussed, potentially stabilizing or reducing prices. These changes could benefit consumers and stimulate economic activity by increasing trade volumes."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/11/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/bessent-vows-to-lower-coffee-and-banana-prices-amid-tariffs/
+  og_title: >-
+    Bessent Vows to Lower Coffee and Banana Prices Amid Tariffs - Coffee
+    Actually
+  og_description: >-
+    Global consumers may soon see relief from fluctuating prices in coffee and
+    bananas as tariff adjustments are discussed, potentially stabilizing or
+    reducing prices. These changes could benefit consumers and stimulate
+    economic activity by increasing trade volumes.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/11/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 44
 score_breakdown:
   seo_quality: 35
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 40
-quality_note: "The article lacks specific details about who Bessent is and makes vague claims about policy changes without proper attribution, while only tangentially relating to coffee content."
+quality_note: >-
+  The article lacks specific details about who Bessent is and makes vague claims
+  about policy changes without proper attribution, while only tangentially
+  relating to coffee content.
+image_alt: >-
+  Coffee beans and bananas arranged with subtle global trade lines suggesting
+  easing food prices.
 ---
 
 As global consumers continue to grapple with fluctuating prices in everyday goods, recent developments suggest potential relief could be on the horizon. In particular, attention has turned to the costs of coffee and bananas, two staples for many households worldwide. Recent policy changes, including discussions on tariff adjustments, are expected to play a pivotal role in stabilizing or even reducing these prices.
