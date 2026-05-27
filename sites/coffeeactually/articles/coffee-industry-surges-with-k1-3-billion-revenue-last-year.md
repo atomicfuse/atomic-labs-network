@@ -1,25 +1,35 @@
 ---
-title: "Coffee Industry Surges with K1.3 Billion Revenue Last Year"
-description: "Coffee is a vital economic pillar in Papua New Guinea, generating K1.3 billion in 2022. It supports smallholder farmers and faces challenges like climate change and infrastructure issues, while efforts focus on sustainability and improving logistics for future growth."
-type: "standard"
-status: "review"
-publishDate: "2026-02-09T09:15:37+00:00"
-author: "Taylor Winters"
+title: Coffee Industry Surges with K1.3 Billion Revenue Last Year
+description: >-
+  Coffee is a vital economic pillar in Papua New Guinea, generating K1.3 billion
+  in 2022. It supports smallholder farmers and faces challenges like climate
+  change and infrastructure issues, while efforts focus on sustainability and
+  improving logistics for future growth.
+type: standard
+status: review
+publishDate: '2026-02-09T09:15:37+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "coffee-industry-surges-with-k1-3-billion-revenue-last-year"
+  - Coffee News
+  - News
+slug: coffee-industry-surges-with-k1-3-billion-revenue-last-year
 reading_time: 3
-source_url: "https://coffeeactually.com/coffee-industry-surges-with-k1-3-billion-revenue-last-year/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/coffee-industry-surges-with-k1-3-billion-revenue-last-year/
+imported_from: wordpress
 wp_original_id: 51397
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffee-industry-surges-with-k1-3-billion-revenue-last-year.webp
 seo:
-  canonical: "https://coffeeactually.com/coffee-industry-surges-with-k1-3-billion-revenue-last-year/"
-  og_title: "Coffee Industry Surges with K1.3 Billion Revenue Last Year - Coffee Actually"
-  og_description: "Coffee is a vital economic pillar in Papua New Guinea, generating K1.3 billion in 2022. It supports smallholder farmers and faces challenges like climate change and infrastructure issues. Efforts focus on sustainability and improving logistics for future growth."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/02/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/coffee-industry-surges-with-k1-3-billion-revenue-last-year/
+  og_title: Coffee Industry Surges with K1.3 Billion Revenue Last Year - Coffee Actually
+  og_description: >-
+    Coffee is a vital economic pillar in Papua New Guinea, generating K1.3
+    billion in 2022. It supports smallholder farmers and faces challenges like
+    climate change and infrastructure issues. Efforts focus on sustainability
+    and improving logistics for future growth.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/02/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong relevance to coffee topics and good tone, but the article is too short at 499 words and contains specific financial claims about Papua New Guinea that cannot be verified."
+quality_note: >-
+  Strong relevance to coffee topics and good tone, but the article is too short
+  at 499 words and contains specific financial claims about Papua New Guinea
+  that cannot be verified.
+image_alt: >-
+  Smallholder farmer holding ripe coffee cherries with sacks and misty highland
+  farms behind
 ---
 
 In the vibrant agricultural landscape of Papua New Guinea, coffee stands as a significant economic pillar. In 2022, the coffee industry remarkably bolstered the national economy by generating K1.3 billion in revenue. This substantial contribution highlights the sector's crucial role and the potential for future growth.
