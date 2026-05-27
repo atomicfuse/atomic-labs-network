@@ -42,8 +42,8 @@ quality_note: >-
   but falls short on word count (565 vs 800-1200 target) and could improve SEO
   structure with more H2/H3 headings.
 image_alt: >-
-  Sunlit Greek mountain village with snowy peaks, ski tracks, and an ancient
-  stone fragment nearby
+  Arachova village beneath snowy Mount Parnassus with ski gear and ancient Greek
+  columns nearby.
 ---
 
 Arachova, a charming mountain town in Greece, offers an exceptional blend of natural beauty, rich history, and vibrant culture. Located on the slopes of Mount Parnassus, this picturesque village is a popular destination for travelers seeking both adventure and relaxation. With its proximity to Delphi and a renowned ski resort, Arachova has something for everyone, from outdoor enthusiasts to history buffs.
