@@ -1,26 +1,38 @@
 ---
-title: "Banijay Series Mania Highlights: A Woman of Substance, Peaky Blinders"
-description: "Banijay is adapting Barbara Taylor Bradford's classic novel \"A Woman of Substance\" for modern audiences, drawing on the success of series like \"Peaky Blinders\" to deliver a story centered on empowerment and perseverance."
-type: "standard"
-status: "published"
-publishDate: "2026-03-23T09:51:28+00:00"
-author: "Taylor Winters"
+title: 'Banijay Series Mania Highlights: A Woman of Substance, Peaky Blinders'
+description: >-
+  Banijay is adapting Barbara Taylor Bradford's classic novel "A Woman of
+  Substance" for modern audiences, drawing on the success of series like "Peaky
+  Blinders" to deliver a story centered on empowerment and perseverance.
+type: standard
+status: published
+publishDate: '2026-03-23T09:51:28+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-  - "Upcoming"
-slug: "banijay-series-mania-highlights-a-woman-of-substance-peaky-blinders"
+  - TV News
+  - TV
+  - Upcoming
+slug: banijay-series-mania-highlights-a-woman-of-substance-peaky-blinders
 reading_time: 3
-source_url: "https://tvshowbox.com/banijay-series-mania-highlights-a-woman-of-substance-peaky-blinders/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/banijay-series-mania-highlights-a-woman-of-substance-peaky-blinders/
+imported_from: wordpress
 wp_original_id: 24099
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/banijay-series-mania-highlights-a-woman-of-substance-peaky-blinders.webp
 seo:
-  canonical: "https://tvshowbox.com/banijay-series-mania-highlights-a-woman-of-substance-peaky-blinders/"
-  og_title: "Banijay Series Mania Highlights: A Woman of Substance, Peaky Blinders - TV Show Box"
-  og_description: "Banijay is adapting \"A Woman of Substance,\" aiming to revitalize Barbara Taylor Bradford's classic tale for modern audiences with a focus on empowerment and perseverance, reflecting contemporary values while honoring the original story's essence."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/03/make_file-13.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/banijay-series-mania-highlights-a-woman-of-substance-peaky-blinders/
+  og_title: >-
+    Banijay Series Mania Highlights: A Woman of Substance, Peaky Blinders - TV
+    Show Box
+  og_description: >-
+    Banijay is adapting "A Woman of Substance," aiming to revitalize Barbara
+    Taylor Bradford's classic tale for modern audiences with a focus on
+    empowerment and perseverance, reflecting contemporary values while honoring
+    the original story's essence.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/03/make_file-13.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -28,7 +40,10 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written TV news piece with good tone and relevant content, but lacks compelling SEO optimization and falls short of ideal word count."
+quality_note: >-
+  Well-written TV news piece with good tone and relevant content, but lacks
+  compelling SEO optimization and falls short of ideal word count.
+image_alt: Determined woman in a dark coat stands on a misty industrial street at dawn.
 ---
 
 Banijay, a prominent name in global content production, has announced a strategic move to expand its portfolio with the adaptation of "A Woman of Substance". This decision aligns with their goal to bring classic stories to new audiences. The adaptation aims to revive the gripping narrative for modern viewers, showcasing Banijay's dedication to storytelling excellence.
