@@ -1,25 +1,32 @@
 ---
-title: "Michelle Obama’s Prada Style on The Sherri Show"
-description: "Michelle Obama appeared on The Sherri Show wearing a stunning Prada outfit, showcasing her elegant and modern fashion sense and reinforcing her influence on global fashion trends."
-type: "standard"
-status: "review"
-publishDate: "2025-11-20T10:37:31+00:00"
-author: "Lena Harper"
+title: Michelle Obama’s Prada Style on The Sherri Show
+description: >-
+  Michelle Obama appeared on The Sherri Show wearing a stunning Prada outfit,
+  showcasing her elegant and modern fashion sense and reinforcing her influence
+  on global fashion trends.
+type: standard
+status: review
+publishDate: '2025-11-20T10:37:31+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "michelle-obamas-prada-style-on-the-sherri-show"
+  - Celebrities
+  - Fashion
+slug: michelle-obamas-prada-style-on-the-sherri-show
 reading_time: 3
-source_url: "https://wtpop.com/michelle-obamas-prada-style-on-the-sherri-show/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/michelle-obamas-prada-style-on-the-sherri-show/'
+imported_from: wordpress
 wp_original_id: 562
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/michelle-obamas-prada-style-on-the-sherri-show.webp
 seo:
-  canonical: "https://wtpop.com/michelle-obamas-prada-style-on-the-sherri-show/"
-  og_title: "Michelle Obama's Prada Style on The Sherri Show - WTPOP"
-  og_description: "Michelle Obama appeared on a talk show wearing a stunning Prada outfit, showcasing her elegant and modern fashion sense. Her choice highlighted her influence on fashion trends and her continued impact as a stylish and respected public figure."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-9-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/michelle-obamas-prada-style-on-the-sherri-show/'
+  og_title: Michelle Obama's Prada Style on The Sherri Show - WTPOP
+  og_description: >-
+    Michelle Obama appeared on a talk show wearing a stunning Prada outfit,
+    showcasing her elegant and modern fashion sense. Her choice highlighted her
+    influence on fashion trends and her continued impact as a stylish and
+    respected public figure.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file-9-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -27,7 +34,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Article covers relevant celebrity fashion content with appropriate tone but falls significantly short of target word count and lacks specific details about the actual appearance."
+quality_note: >-
+  Article covers relevant celebrity fashion content with appropriate tone but
+  falls significantly short of target word count and lacks specific details
+  about the actual appearance.
+image_alt: Elegant woman in a modern tailored outfit under warm talk-show studio lighting
 ---
 
 Michelle Obama, renowned for her sophisticated style and powerful presence, recently graced a popular television program, showcasing her fashion-forward approach. Her choice of attire on this occasion was both contemporary and elegant, drawing significant attention and admiration from fashion enthusiasts and critics alike.
