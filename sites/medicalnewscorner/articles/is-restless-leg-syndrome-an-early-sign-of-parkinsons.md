@@ -1,26 +1,36 @@
 ---
-title: "Is Restless Leg Syndrome an Early Sign of Parkinson’s?"
-description: "Restless leg syndrome is a neurological disorder causing an urge to move the legs, linked to a higher risk of Parkinson's disease. Understanding genetic and environmental influences can help manage symptoms and potentially reduce Parkinson's risk."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T09:19:31+00:00"
-author: "Taylor Winters"
+title: Is Restless Leg Syndrome an Early Sign of Parkinson’s?
+description: >-
+  Restless leg syndrome is a neurological disorder causing an urge to move the
+  legs, linked to a higher risk of Parkinson's disease. Understanding genetic
+  and environmental influences can help manage symptoms and potentially reduce
+  Parkinson's risk.
+type: standard
+status: published
+publishDate: '2025-12-11T09:19:31+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-  - "Health, Fitness &amp; Food"
-slug: "is-restless-leg-syndrome-an-early-sign-of-parkinsons"
+  - Research
+  - Clinical Trials &amp; Research
+  - 'Health, Fitness &amp; Food'
+slug: is-restless-leg-syndrome-an-early-sign-of-parkinsons
 reading_time: 3
-source_url: "https://medicalnewscorner.com/is-restless-leg-syndrome-an-early-sign-of-parkinsons/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/is-restless-leg-syndrome-an-early-sign-of-parkinsons/
+imported_from: wordpress
 wp_original_id: 24742
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/is-restless-leg-syndrome-an-early-sign-of-parkinsons.webp
 seo:
-  canonical: "https://medicalnewscorner.com/is-restless-leg-syndrome-an-early-sign-of-parkinsons/"
-  og_title: "Is Restless Leg Syndrome an Early Sign of Parkinson's? - Medical News Corner"
-  og_description: "Restless leg syndrome is a neurological disorder causing an urge to move the legs, linked to a higher risk of Parkinson's disease. Understanding genetic and environmental influences can help manage symptoms and potentially reduce Parkinson's risk."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/12/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/is-restless-leg-syndrome-an-early-sign-of-parkinsons/
+  og_title: Is Restless Leg Syndrome an Early Sign of Parkinson's? - Medical News Corner
+  og_description: >-
+    Restless leg syndrome is a neurological disorder causing an urge to move the
+    legs, linked to a higher risk of Parkinson's disease. Understanding genetic
+    and environmental influences can help manage symptoms and potentially reduce
+    Parkinson's risk.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/12/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written article with strong keyword relevance and appropriate tone, but significantly under target word count and lacks specific research citations to support claims."
+quality_note: >-
+  Well-written article with strong keyword relevance and appropriate tone, but
+  significantly under target word count and lacks specific research citations to
+  support claims.
+image_alt: >-
+  Person sitting on a bed at dawn with one restless leg and a subtle neural
+  light pattern
 ---
 
 Restless leg syndrome (RLS) is a neurological disorder that causes an irresistible urge to move the legs, often accompanied by uncomfortable sensations. Recent research suggests that individuals with RLS may face a heightened risk of developing Parkinson's disease, a progressive neurological condition characterized by tremors, stiffness, and difficulty with movement and balance.
