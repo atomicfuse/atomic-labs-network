@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.looper.com/2177880/peter-krause-best-tv-shows-according-imdb/'
 source_item_id: 6a151ac216f23264031d80f3
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/peter-krause-best-tv-shows-imdb-ranking.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong entertainment focus with engaging tone but falls short on length and
   lacks specific IMDb ratings to support the ranking claims.
 reading_time: 3
+image_alt: >-
+  Five cinematic TV genre vignettes suggest a veteran actor’s varied career
+  across drama, comedy, and mystery.
 ---
 ## Peter Krause's Television Legacy Gets Fresh Attention
 
