@@ -20,7 +20,7 @@ source_url: >-
   https://patch.com/new-jersey/westfield/free-outdoor-fitness-series-continues-westfield-saturday
 source_item_id: 6a07fc294bdae0614e7aae77
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/free-outdoor-fitness-series-westfield-pilates-yoga.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with good tone and keyword coverage, but significantly
   under target word count at 496 words versus the 800-1200 target range.
 reading_time: 2
+image_alt: >-
+  Community members exercise on mats in a downtown park during a sunny outdoor
+  fitness class.
 ---
 ## Community Wellness Comes Outdoors This Spring
 
