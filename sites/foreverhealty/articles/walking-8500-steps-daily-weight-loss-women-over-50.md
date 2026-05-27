@@ -20,7 +20,7 @@ source_url: >-
   https://www.lokmattimes.com/lifestyle/womens-weight-loss-tips-how-many-steps-should-women-over-50-walk-daily-a510/
 source_item_id: 6a14209016f23264031d7d95
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/walking-8500-steps-daily-weight-loss-women-over-50.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,7 @@ quality_note: >-
   and relies too heavily on vague 'reports' rather than specific research
   citations.
 reading_time: 3
+image_alt: Woman over 50 walking confidently on a sunny park path in athletic clothes.
 ---
 ## The Challenge of Weight Management After 50
 
