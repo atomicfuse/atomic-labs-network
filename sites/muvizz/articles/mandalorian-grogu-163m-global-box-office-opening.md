@@ -22,7 +22,7 @@ source_url: >-
   https://deadline.com/2026/05/box-office-global-mandalorian-and-grogu-michael-1236920504/
 source_item_id: 6a151f7316f23264031d8112
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/mandalorian-grogu-163m-global-box-office-opening.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Strong entertainment focus and engaging tone, but severely undermined by
   fabricated box office data and falls short of target word count.
 reading_time: 3
+image_alt: >-
+  Space-western silhouettes face glowing global box office lights inside a
+  cinematic theater lobby.
 ---
 ## Star Wars Returns to Theaters in Force
 
