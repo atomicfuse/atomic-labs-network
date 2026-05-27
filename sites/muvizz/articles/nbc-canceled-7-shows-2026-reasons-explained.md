@@ -21,7 +21,7 @@ source_url: >-
   https://www.justjared.com/2026/05/25/why-nbc-canceled-7-tv-shows-in-2026-see-the-explanations/
 source_item_id: 6a151ac216f23264031d80f4
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/nbc-canceled-7-shows-2026-reasons-explained.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong topic relevance and tone, but severely undermined by fabricated 2026
   events and below-target word count.
 reading_time: 3
+image_alt: >-
+  Seven dark TV screens glow faintly in a modern network control room as an
+  executive reaches for a switch.
 ---
 ## The Wave of NBC Cancellations in 2026
 
