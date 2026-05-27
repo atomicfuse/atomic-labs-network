@@ -23,7 +23,7 @@ source_url: >-
   https://deadline.com/2026/05/films-star-actors-named-chris-talking-animal-older-women-1236920528/
 source_item_id: 6a151f7416f23264031d811c
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/uk-films-more-likely-star-chris-than-woman-over-60.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   short at 511 words and contains vague sourcing that raises factual accuracy
   concerns.
 reading_time: 3
+image_alt: >-
+  Older woman in a spotlight on a dim film set surrounded by empty chairs and
+  shadowy figures.
 ---
 ## Startling Gender and Age Representation Gap in UK Cinema
 
