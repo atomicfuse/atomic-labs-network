@@ -1,27 +1,35 @@
 ---
-title: "Shilpa Shetty Shares Yoga Poses To Avoid During Periods"
-description: "Shilpa Shetty highlights why women should adapt their yoga practice during menstruation, avoiding intense poses and choosing gentler movement, breathwork, and rest based on their comfort and flow."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:42:30+00:00"
-author: "Taylor Winters"
+title: Shilpa Shetty Shares Yoga Poses To Avoid During Periods
+description: >-
+  Shilpa Shetty highlights why women should adapt their yoga practice during
+  menstruation, avoiding intense poses and choosing gentler movement,
+  breathwork, and rest based on their comfort and flow.
+type: standard
+status: published
+publishDate: '2026-05-11T08:42:30+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Tips"
-  - "Yoga For Women"
-  - "Yoga Postures"
-slug: "shilpa-shetty-shares-yoga-poses-to-avoid-during-periods"
+  - Yoga Poses
+  - Tips
+  - Yoga For Women
+  - Yoga Postures
+slug: shilpa-shetty-shares-yoga-poses-to-avoid-during-periods
 reading_time: 7
-source_url: "https://yogaterritory.com/shilpa-shetty-shares-yoga-poses-to-avoid-during-periods/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/shilpa-shetty-shares-yoga-poses-to-avoid-during-periods/
+imported_from: wordpress
 wp_original_id: 20759
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/shilpa-shetty-shares-yoga-poses-to-avoid-during-periods.webp
 seo:
-  canonical: "https://yogaterritory.com/shilpa-shetty-shares-yoga-poses-to-avoid-during-periods/"
-  og_title: "Shilpa Shetty Shares Yoga Poses To Avoid During Periods - Yoga Territory"
-  og_description: "Shilpa Shetty highlights why women should adapt yoga during menstruation, avoiding intense poses and choosing gentler movement, breathwork, and rest based on comfort."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/shilpa-shetty-shares-yoga-poses-to-avoid-during-periods/
+  og_title: Shilpa Shetty Shares Yoga Poses To Avoid During Periods - Yoga Territory
+  og_description: >-
+    Shilpa Shetty highlights why women should adapt yoga during menstruation,
+    avoiding intense poses and choosing gentler movement, breathwork, and rest
+    based on comfort.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/05/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent keyword coverage and appropriate length, though the title could be more compelling and the content could benefit from better heading structure for SEO optimization."
+quality_note: >-
+  Well-written article with excellent keyword coverage and appropriate length,
+  though the title could be more compelling and the content could benefit from
+  better heading structure for SEO optimization.
+image_alt: Woman resting in a gentle supported yoga pose in a calm sunlit studio
 ---
 
 Shilpa Shetty Kundra has long connected her screen popularity with a strong public focus on fitness, yoga, and mindful living. In a recent wellness-focused update, the actor and fitness advocate highlighted an important but often ignored point: women may need to change their yoga routine during menstruation, especially when the body asks for rest, warmth, and gentler movement.
