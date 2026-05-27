@@ -1,26 +1,35 @@
 ---
-title: "Tulsa TV Show The Lowdown Announces Fall Premiere Date"
-description: "The Tulsa-based television show, The Lowdown, will captivate audiences with its fall premiere, offering unique portrayals of Tulsa's rich culture. It highlights local stories, providing a platform for community voices and fostering a deeper understanding of the city."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T05:20:04+00:00"
-author: "Taylor Winters"
+title: Tulsa TV Show The Lowdown Announces Fall Premiere Date
+description: >-
+  The Tulsa-based television show, The Lowdown, will captivate audiences with
+  its fall premiere, offering unique portrayals of Tulsa's rich culture. It
+  highlights local stories, providing a platform for community voices and
+  fostering a deeper understanding of the city.
+type: standard
+status: review
+publishDate: '2025-05-15T05:20:04+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-  - "Upcoming"
-slug: "tulsa-tv-show-the-lowdown-announces-fall-premiere-date"
+  - TV News
+  - TV
+  - Upcoming
+slug: tulsa-tv-show-the-lowdown-announces-fall-premiere-date
 reading_time: 3
-source_url: "https://tvshowbox.com/tulsa-tv-show-the-lowdown-announces-fall-premiere-date/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/tulsa-tv-show-the-lowdown-announces-fall-premiere-date/'
+imported_from: wordpress
 wp_original_id: 23882
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tulsa-tv-show-the-lowdown-announces-fall-premiere-date.webp
 seo:
-  canonical: "https://tvshowbox.com/tulsa-tv-show-the-lowdown-announces-fall-premiere-date/"
-  og_title: "Tulsa TV Show The Lowdown Announces Fall Premiere Date - TV Show Box"
-  og_description: "The Tulsa-based television show, The Lowdown, will captivate audiences with its fall premiere, offering unique portrayals of Tulsa's rich culture. It highlights local stories, providing a platform for community voices and fostering a deeper understanding of the city."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/05/make_file-1.avif"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/tulsa-tv-show-the-lowdown-announces-fall-premiere-date/
+  og_title: Tulsa TV Show The Lowdown Announces Fall Premiere Date - TV Show Box
+  og_description: >-
+    The Tulsa-based television show, The Lowdown, will captivate audiences with
+    its fall premiere, offering unique portrayals of Tulsa's rich culture. It
+    highlights local stories, providing a platform for community voices and
+    fostering a deeper understanding of the city.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/05/make_file-1.avif'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -28,7 +37,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 40
   keyword_relevance: 80
-quality_note: "The article has good tone and keyword relevance but lacks specific factual details like exact premiere date, network, or cast information, making it appear potentially fabricated."
+quality_note: >-
+  The article has good tone and keyword relevance but lacks specific factual
+  details like exact premiere date, network, or cast information, making it
+  appear potentially fabricated.
+image_alt: >-
+  Cinematic Tulsa street scene at dusk with residents and a film camera under
+  warm autumn light
 ---
 
 The Tulsa-based television show, "The Lowdown," is set to captivate audiences with its anticipated fall premiere. This engaging program, rooted in the vibrant culture of Tulsa, promises to deliver insightful stories that resonate with viewers. As the air date approaches, excitement builds around this new addition to local entertainment, offering a fresh perspective on life in Oklahoma.
