@@ -1,24 +1,32 @@
 ---
-title: "Gogol Bordello New Year’s Eve Concert at Higher Ground"
-description: "Gogol Bordello's New Year's Eve concert at Higher Ground in Vermont coincides with the release of their latest album, offering fans a chance to experience new tracks live. The band blends punk rock with Eastern European music for high-energy performances."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:24:07+00:00"
-author: "Lena Harper"
+title: Gogol Bordello New Year’s Eve Concert at Higher Ground
+description: >-
+  Gogol Bordello's New Year's Eve concert at Higher Ground in Vermont coincides
+  with the release of their latest album, offering fans a chance to experience
+  new tracks live. The band blends punk rock with Eastern European music for
+  high-energy performances.
+type: standard
+status: review
+publishDate: '2025-12-22T11:24:07+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "gogol-bordello-new-years-eve-concert-at-higher-ground"
+  - Music
+slug: gogol-bordello-new-years-eve-concert-at-higher-ground
 reading_time: 3
-source_url: "https://wtpop.com/gogol-bordello-new-years-eve-concert-at-higher-ground/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/gogol-bordello-new-years-eve-concert-at-higher-ground/'
+imported_from: wordpress
 wp_original_id: 743
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/gogol-bordello-new-years-eve-concert-at-higher-ground.webp
 seo:
-  canonical: "https://wtpop.com/gogol-bordello-new-years-eve-concert-at-higher-ground/"
-  og_title: "Gogol Bordello New Year's Eve Concert at Higher Ground - WTPOP"
-  og_description: "Gogol Bordello's New Year’s Eve concert at Higher Ground in Vermont coincides with the release of their latest album, offering fans a chance to experience new tracks live. The band blends punk rock with Eastern European music for high-energy performances."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-19.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/gogol-bordello-new-years-eve-concert-at-higher-ground/'
+  og_title: Gogol Bordello New Year's Eve Concert at Higher Ground - WTPOP
+  og_description: >-
+    Gogol Bordello's New Year’s Eve concert at Higher Ground in Vermont
+    coincides with the release of their latest album, offering fans a chance to
+    experience new tracks live. The band blends punk rock with Eastern European
+    music for high-energy performances.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-19.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 45
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and content length but lacks SEO optimization with a weak title, missing meta description, and poor heading structure for search visibility."
+quality_note: >-
+  The article has good tone and content length but lacks SEO optimization with a
+  weak title, missing meta description, and poor heading structure for search
+  visibility.
+image_alt: >-
+  High-energy punk-folk concert with confetti, stage lights, and a cheering New
+  Year’s Eve crowd.
 ---
 
 Gogol Bordello, the renowned gypsy punk band, is set to energize fans with their upcoming New Year's Eve concert in Vermont. Known for their vibrant performances and eclectic sound, the band will be performing at Higher Ground, a popular venue in the region. This event is particularly special as it coincides with the release of their latest album, showcasing new material along with the beloved hits that have defined their career.
