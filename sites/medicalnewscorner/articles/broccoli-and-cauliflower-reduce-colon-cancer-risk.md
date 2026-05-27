@@ -1,27 +1,37 @@
 ---
-title: "Broccoli and Cauliflower Reduce Colon Cancer Risk"
-description: "Emerging evidence suggests that consuming broccoli, a cruciferous vegetable rich in sulforaphane, may help reduce colon cancer risk by detoxifying carcinogens and reducing oxidative stress, highlighting the significant role of diet in cancer prevention."
-type: "standard"
-status: "published"
-publishDate: "2025-08-28T04:03:31+00:00"
-author: "Taylor Winters"
+title: Broccoli and Cauliflower Reduce Colon Cancer Risk
+description: >-
+  Emerging evidence suggests that consuming broccoli, a cruciferous vegetable
+  rich in sulforaphane, may help reduce colon cancer risk by detoxifying
+  carcinogens and reducing oxidative stress, highlighting the significant role
+  of diet in cancer prevention.
+type: standard
+status: published
+publishDate: '2025-08-28T04:03:31+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Cancer"
-  - "Fitness &amp; Food"
-  - "Health, Fitness &amp; Food"
-slug: "broccoli-and-cauliflower-reduce-colon-cancer-risk"
+  - Health News
+  - Cancer
+  - Fitness &amp; Food
+  - 'Health, Fitness &amp; Food'
+slug: broccoli-and-cauliflower-reduce-colon-cancer-risk
 reading_time: 3
-source_url: "https://medicalnewscorner.com/broccoli-and-cauliflower-reduce-colon-cancer-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/broccoli-and-cauliflower-reduce-colon-cancer-risk/
+imported_from: wordpress
 wp_original_id: 24700
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/broccoli-and-cauliflower-reduce-colon-cancer-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/broccoli-and-cauliflower-reduce-colon-cancer-risk/"
-  og_title: "Broccoli and Cauliflower Reduce Colon Cancer Risk - Medical News Corner"
-  og_description: "Emerging evidence suggests that consuming broccoli, a cruciferous vegetable rich in sulforaphane, may help reduce colon cancer risk by detoxifying carcinogens and reducing oxidative stress, highlighting the significant role of diet in cancer prevention."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/broccoli-and-cauliflower-reduce-colon-cancer-risk/
+  og_title: Broccoli and Cauliflower Reduce Colon Cancer Risk - Medical News Corner
+  og_description: >-
+    Emerging evidence suggests that consuming broccoli, a cruciferous vegetable
+    rich in sulforaphane, may help reduce colon cancer risk by detoxifying
+    carcinogens and reducing oxidative stress, highlighting the significant role
+    of diet in cancer prevention.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written health article with strong keyword alignment and accurate content, but falls short of target word count at 558 words instead of the preferred 800-1200 range."
+quality_note: >-
+  Well-written health article with strong keyword alignment and accurate
+  content, but falls short of target word count at 558 words instead of the
+  preferred 800-1200 range.
+image_alt: >-
+  Fresh broccoli and cauliflower in soft kitchen light suggesting digestive
+  health and prevention
 ---
 
 Colon cancer remains a significant health challenge worldwide, prompting researchers to examine the role diet plays in its prevention. Emerging evidence suggests that consuming cruciferous vegetables, like broccoli, could offer protective benefits against this type of cancer. This article delves into the potential link between broccoli intake and reduced colon cancer risk, drawing on current research findings and nutritional insights.
