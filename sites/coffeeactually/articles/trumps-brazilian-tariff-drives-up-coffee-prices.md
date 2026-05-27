@@ -1,25 +1,33 @@
 ---
-title: "Trump’s Brazilian Tariff Drives Up Coffee Prices"
-description: "The aroma of freshly brewed coffee faces challenges as global economic shifts, including tariffs and climate change, impact prices and supply. Consumers may see higher costs and need to explore alternative brands or home-brewing for value."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T04:01:38+00:00"
-author: "Taylor Winters"
+title: Trump’s Brazilian Tariff Drives Up Coffee Prices
+description: >-
+  The aroma of freshly brewed coffee faces challenges as global economic shifts,
+  including tariffs and climate change, impact prices and supply. Consumers may
+  see higher costs and need to explore alternative brands or home-brewing for
+  value.
+type: standard
+status: review
+publishDate: '2025-08-28T04:01:38+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "trumps-brazilian-tariff-drives-up-coffee-prices"
+  - Coffee News
+  - News
+slug: trumps-brazilian-tariff-drives-up-coffee-prices
 reading_time: 3
-source_url: "https://coffeeactually.com/trumps-brazilian-tariff-drives-up-coffee-prices/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/trumps-brazilian-tariff-drives-up-coffee-prices/'
+imported_from: wordpress
 wp_original_id: 51314
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/trumps-brazilian-tariff-drives-up-coffee-prices.webp
 seo:
-  canonical: "https://coffeeactually.com/trumps-brazilian-tariff-drives-up-coffee-prices/"
-  og_title: "Trump's Brazilian Tariff Drives Up Coffee Prices - Coffee Actually"
-  og_description: "The aroma of freshly brewed coffee faces challenges as global economic shifts, including tariffs and climate change, impact prices and supply. Consumers may see higher costs and need to explore alternative brands or home-brewing for value."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/08/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/trumps-brazilian-tariff-drives-up-coffee-prices/'
+  og_title: Trump's Brazilian Tariff Drives Up Coffee Prices - Coffee Actually
+  og_description: >-
+    The aroma of freshly brewed coffee faces challenges as global economic
+    shifts, including tariffs and climate change, impact prices and supply.
+    Consumers may see higher costs and need to explore alternative brands or
+    home-brewing for value.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/08/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly under target word count and contains unverified tariff claims that may be inaccurate."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target word count and
+  contains unverified tariff claims that may be inaccurate.
+image_alt: >-
+  Steaming coffee cup beside beans, coins, and a blank receipt suggesting rising
+  coffee costs.
 ---
 
 The aroma of freshly brewed coffee is a daily ritual for many, yet recent global economic shifts are causing coffee lovers to reconsider their morning routines. Coffee prices have seen a notable increase, influenced heavily by international trade policies and climate changes affecting coffee-producing regions. Understanding these dynamics can help consumers and businesses prepare for the evolving market.
