@@ -1,24 +1,30 @@
 ---
-title: "Pearl and The Oysters Announce Monkey Mind Album"
-description: "Pearl & The Oysters announce their new album and share lead single \"Monkey Mind,\" a bright psych-pop track that turns restless, overstimulated thoughts into playful melody and lush, inventive indie pop."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T10:31:11+00:00"
-author: "Lena Harper"
+title: Pearl and The Oysters Announce Monkey Mind Album
+description: >-
+  Pearl & The Oysters announce their new album and share lead single "Monkey
+  Mind," a bright psych-pop track that turns restless, overstimulated thoughts
+  into playful melody and lush, inventive indie pop.
+type: standard
+status: published
+publishDate: '2026-04-30T10:31:11+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "pearl-and-the-oysters-announce-monkey-mind-album"
+  - Music
+slug: pearl-and-the-oysters-announce-monkey-mind-album
 reading_time: 6
-source_url: "https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/'
+imported_from: wordpress
 wp_original_id: 802
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/pearl-and-the-oysters-announce-monkey-mind-album.webp
 seo:
-  canonical: "https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/"
-  og_title: "Pearl and The Oysters Announce Monkey Mind Album - WTPOP"
-  og_description: "Pearl & The Oysters announce a new album and share Monkey Mind, a bright psych-pop single that turns restless thoughts into playful melody, lush texture, and forward-looking indie charm."
-  og_image: "https://wtpop.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/pearl-and-the-oysters-announce-monkey-mind-album/'
+  og_title: Pearl and The Oysters Announce Monkey Mind Album - WTPOP
+  og_description: >-
+    Pearl & The Oysters announce a new album and share Monkey Mind, a bright
+    psych-pop single that turns restless thoughts into playful melody, lush
+    texture, and forward-looking indie charm.
+  og_image: 'https://wtpop.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 88
 score_breakdown:
   seo_quality: 72
@@ -26,7 +32,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written music article with engaging tone and proper length, though could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written music article with engaging tone and proper length, though could
+  benefit from stronger SEO optimization in title and meta description.
+image_alt: >-
+  Surreal retro music studio with tropical plants, pearl tones, and colorful
+  swirling thought trails.
 ---
 
 Pearl & The Oysters are back in motion, pairing a fresh album announcement with a new song that captures the duo's bright, restless approach to modern psychedelic pop. The project, led by Juliette Pearl Davis and Joachim Polack, continues to turn soft-focus melodies, jazz-minded harmony, and playful studio detail into music that feels both nostalgic and sharply present.
