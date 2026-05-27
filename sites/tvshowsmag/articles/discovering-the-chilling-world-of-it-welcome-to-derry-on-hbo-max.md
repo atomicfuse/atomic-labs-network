@@ -1,30 +1,39 @@
 ---
-title: "Discovering the Chilling World of ‘IT: Welcome to Derry’ on HBO Max"
-description: "Explore the haunting midseason developments of 'IT: Welcome to Derry' and catch up on the latest episodes streaming on HBO Max."
-type: "standard"
-status: "review"
-publishDate: "2025-11-17T10:10:32+00:00"
-author: "Taylor Winters"
+title: 'Discovering the Chilling World of ‘IT: Welcome to Derry’ on HBO Max'
+description: >-
+  Explore the haunting midseason developments of 'IT: Welcome to Derry' and
+  catch up on the latest episodes streaming on HBO Max.
+type: standard
+status: review
+publishDate: '2025-11-17T10:10:32+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Trailers"
-  - "TV Shows"
-  - "Upcoming"
-slug: "discovering-the-chilling-world-of-it-welcome-to-derry-on-hbo-max"
+  - TV News
+  - Trailers
+  - TV Shows
+  - Upcoming
+slug: discovering-the-chilling-world-of-it-welcome-to-derry-on-hbo-max
 reading_time: 2
-source_url: "https://www.tvshowsmag.com/discovering-the-chilling-world-of-it-welcome-to-derry-on-hbo-max/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/discovering-the-chilling-world-of-it-welcome-to-derry-on-hbo-max/
+imported_from: wordpress
 wp_original_id: 28116
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/discovering-the-chilling-world-of-it-welcome-to-derry-on-hbo-max.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/discovering-the-chilling-world-of-it-welcome-to-derry-on-hbo-max/"
-  og_title: "Discovering the Chilling World of 'IT: Welcome to Derry' on HBO Max - TV Shows Magazine"
-  og_description: "Explore the haunting midseason developments of 'IT: Welcome to Derry' and catch up on the latest episodes streaming on HBO Max."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/discovering-the-chilling-world-of-it-welcome-to-derry-on-hbo-max/
+  og_title: >-
+    Discovering the Chilling World of 'IT: Welcome to Derry' on HBO Max - TV
+    Shows Magazine
+  og_description: >-
+    Explore the haunting midseason developments of 'IT: Welcome to Derry' and
+    catch up on the latest episodes streaming on HBO Max.
+  twitter_card: summary_large_image
 videos:
-  - id: "4b8fcb95"
-    url: "https://www.youtube.com/watch?v=UI3AvYrIooQ"
-    position: "after-paragraph-2"
+  - id: 4b8fcb95
+    url: 'https://www.youtube.com/watch?v=UI3AvYrIooQ'
+    position: after-paragraph-2
 quality_score: 58
 score_breakdown:
   seo_quality: 75
@@ -32,7 +41,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "While the tone and keywords are appropriate, the article is far too short and appears to contain fabricated information about a non-existent Stephen King TV series."
+quality_note: >-
+  While the tone and keywords are appropriate, the article is far too short and
+  appears to contain fabricated information about a non-existent Stephen King TV
+  series.
+image_alt: >-
+  Foggy small-town street at dusk with a storm drain and a lone red balloon
+  creating an eerie mood.
 ---
 
 The midseason trailer for 'IT: Welcome to Derry' has arrived, offering a glimpse into the eerie events unfolding in this chilling adaptation of Stephen King's universe. As fans dive deeper into the mysterious happenings in Derry, Maine, this series promises to captivate viewers with its blend of horror and suspense.
