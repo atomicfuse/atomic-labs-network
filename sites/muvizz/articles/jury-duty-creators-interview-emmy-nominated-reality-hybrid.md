@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://deadline.com/video/jury-duty-directors-video-interview/'
 source_item_id: 6a151f7416f23264031d811f
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/jury-duty-creators-interview-emmy-nominated-reality-hybrid.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,9 @@ quality_note: >-
   Well-written article with engaging tone and strong keyword relevance, but
   falls short on length at 539 words versus the 800-1200 target range.
 reading_time: 3
+image_alt: >-
+  A staged jury room and retreat set with hidden cameras and a shadowy
+  production control room.
 ---
 ## Breaking New Ground in Television Comedy
 
