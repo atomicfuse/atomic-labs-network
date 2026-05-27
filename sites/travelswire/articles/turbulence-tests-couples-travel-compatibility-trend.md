@@ -1,12 +1,9 @@
 ---
 title: Why Couples Are Using Travel as a Relationship Compatibility Test
-description: >-
-  New dating trend sees couples using vacations to quickly assess relationship
-  compatibility under stress and close quarters, with hotels now offering
-  romance...
+description: New dating trend sees couples using vacations to quickly assess relationship compatibility under stress and close quarters, with hotels now offering romance...
 type: standard
 status: published
-publishDate: '2026-05-19'
+publishDate: 2026-05-19
 author: Sarah Rivera
 tags:
   - Travel Tips
@@ -15,9 +12,8 @@ tags:
   - relationship-compatibility
   - romance-travel
 slug: turbulence-tests-couples-travel-compatibility-trend
-reviewer_notes: ''
-source_url: >-
-  https://www.vogue.com/article/how-turbulence-tests-became-a-romantic-travel-trend
+reviewer_notes: ""
+source_url: https://www.vogue.com/article/how-turbulence-tests-became-a-romantic-travel-trend
 source_item_id: 6a0bc42316f23264031d770f
 generated_by: claude
 featuredImage: /assets/images/travelswire-general-article.webp
@@ -28,10 +24,15 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: >-
-  Well-written travel advice with good keyword coverage but falls short on
-  length and relies heavily on vague trend claims without concrete sources.
+quality_note: Well-written travel advice with good keyword coverage but falls short on length and relies heavily on vague trend claims without concrete sources.
 reading_time: 3
+scripts:
+  - id: 87bc58d2-8e5e-4311-84a4-b03fb61fb19e
+    name: test
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+      <div data-cg-ad="ad_4"></div>
 ---
 ## The Rise of 'Turbulence Tests' in Modern Dating
 
