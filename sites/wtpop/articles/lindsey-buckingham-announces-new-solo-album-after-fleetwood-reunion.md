@@ -1,24 +1,35 @@
 ---
-title: "Lindsey Buckingham Announces New Solo Album After Fleetwood Reunion"
-description: "Lindsey Buckingham, former Fleetwood Mac member, announces a new solo album, generating excitement for his signature rock-pop blend. Known for intricate guitar and vocals, the album promises introspective tracks and anthems, continuing his legacy of creativity and passion for music."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T13:09:02+00:00"
-author: "Lena Harper"
+title: Lindsey Buckingham Announces New Solo Album After Fleetwood Reunion
+description: >-
+  Lindsey Buckingham, former Fleetwood Mac member, announces a new solo album,
+  generating excitement for his signature rock-pop blend. Known for intricate
+  guitar and vocals, the album promises introspective tracks and anthems,
+  continuing his legacy of creativity and passion for music.
+type: standard
+status: review
+publishDate: '2025-11-27T13:09:02+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "lindsey-buckingham-announces-new-solo-album-after-fleetwood-reunion"
+  - Music
+slug: lindsey-buckingham-announces-new-solo-album-after-fleetwood-reunion
 reading_time: 3
-source_url: "https://wtpop.com/lindsey-buckingham-announces-new-solo-album-after-fleetwood-reunion/"
-imported_from: "wordpress"
+source_url: >-
+  https://wtpop.com/lindsey-buckingham-announces-new-solo-album-after-fleetwood-reunion/
+imported_from: wordpress
 wp_original_id: 677
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/lindsey-buckingham-announces-new-solo-album-after-fleetwood-reunion.webp
 seo:
-  canonical: "https://wtpop.com/lindsey-buckingham-announces-new-solo-album-after-fleetwood-reunion/"
-  og_title: "Lindsey Buckingham Announces New Solo Album After Fleetwood Reunion - WTPOP"
-  og_description: "Lindsey Buckingham, former Fleetwood Mac member, announces a new solo album, generating excitement for his signature rock-pop blend. Known for intricate guitar and vocals, the album promises introspective tracks and anthems, continuing his legacy of creativity and passion for music."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-10.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/lindsey-buckingham-announces-new-solo-album-after-fleetwood-reunion/
+  og_title: Lindsey Buckingham Announces New Solo Album After Fleetwood Reunion - WTPOP
+  og_description: >-
+    Lindsey Buckingham, former Fleetwood Mac member, announces a new solo album,
+    generating excitement for his signature rock-pop blend. Known for intricate
+    guitar and vocals, the album promises introspective tracks and anthems,
+    continuing his legacy of creativity and passion for music.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file-10.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written music article with engaging tone and strong keyword relevance, but falls short on length (585 words vs 800-1200 target) and has some vague claims that could be better substantiated."
+quality_note: >-
+  Well-written music article with engaging tone and strong keyword relevance,
+  but falls short on length (585 words vs 800-1200 target) and has some vague
+  claims that could be better substantiated.
+image_alt: >-
+  Vintage guitar in a moody recording studio with empty microphones and warm
+  stage light.
 ---
 
 Lindsey Buckingham, renowned for his time with Fleetwood Mac, is set to captivate fans once more with the announcement of a new solo album. Known for his intricate guitar work and distinctive vocals, Buckingham's upcoming release is generating excitement among music enthusiasts and industry insiders alike. This new work promises to showcase his signature blend of rock and pop, offering listeners a fresh perspective on his evolving sound.
