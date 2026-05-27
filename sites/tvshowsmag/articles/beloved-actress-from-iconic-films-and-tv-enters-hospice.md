@@ -1,26 +1,37 @@
 ---
-title: "Beloved Actress from Iconic Films and TV Enters Hospice"
-description: "An actress renowned for her roles in iconic movies and TV series has captivated audiences with her talent and versatility, leaving an enduring impact on the entertainment industry and inspiring future generations through her acclaimed performances and philanthropic efforts."
-type: "standard"
-status: "review"
-publishDate: "2025-11-10T10:11:25+00:00"
-author: "Taylor Winters"
+title: Beloved Actress from Iconic Films and TV Enters Hospice
+description: >-
+  An actress renowned for her roles in iconic movies and TV series has
+  captivated audiences with her talent and versatility, leaving an enduring
+  impact on the entertainment industry and inspiring future generations through
+  her acclaimed performances and philanthropic efforts.
+type: standard
+status: review
+publishDate: '2025-11-10T10:11:25+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Featured"
-  - "TV Shows"
-slug: "beloved-actress-from-iconic-films-and-tv-enters-hospice"
+  - TV News
+  - Featured
+  - TV Shows
+slug: beloved-actress-from-iconic-films-and-tv-enters-hospice
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/beloved-actress-from-iconic-films-and-tv-enters-hospice/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/beloved-actress-from-iconic-films-and-tv-enters-hospice/
+imported_from: wordpress
 wp_original_id: 28112
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/beloved-actress-from-iconic-films-and-tv-enters-hospice.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/beloved-actress-from-iconic-films-and-tv-enters-hospice/"
-  og_title: "Beloved Actress from Iconic Films and TV Enters Hospice - TV Shows Magazine"
-  og_description: "An actress renowned for her roles in iconic movies and TV series has captivated audiences with her talent and versatility, leaving an enduring impact on the entertainment industry and inspiring future generations through her acclaimed performances and philanthropic efforts."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/11/make_97092c527c0c834e7548007db9beab56.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/beloved-actress-from-iconic-films-and-tv-enters-hospice/
+  og_title: Beloved Actress from Iconic Films and TV Enters Hospice - TV Shows Magazine
+  og_description: >-
+    An actress renowned for her roles in iconic movies and TV series has
+    captivated audiences with her talent and versatility, leaving an enduring
+    impact on the entertainment industry and inspiring future generations
+    through her acclaimed performances and philanthropic efforts.
+  og_image: >-
+    https://www.tvshowsmag.com/wp-content/uploads/2025/11/make_97092c527c0c834e7548007db9beab56.jpg
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -28,7 +39,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 60
-quality_note: "The article lacks specificity and factual content, reading more like a generic template than actual entertainment news about a real person entering hospice care."
+quality_note: >-
+  The article lacks specificity and factual content, reading more like a generic
+  template than actual entertainment news about a real person entering hospice
+  care.
+image_alt: >-
+  Softly lit theater dressing room with a vintage camera, flowers, and an empty
+  chair.
 ---
 
 In the world of entertainment, few individuals leave an indelible mark across generations. An actress, renowned for her roles in iconic movies and television series, has captivated audiences worldwide with her talent and versatility. Her journey through the realms of film and TV is a testament to her enduring appeal and ability to adapt to changing times.
