@@ -19,7 +19,7 @@ source_url: >-
   https://insider.fitt.co/press-release/strong-pilates-expands-to-chicago-with-lakeview-studio-opening-on-june-6-2026/
 source_item_id: 6a13fc9f16f23264031d7b8c
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/strong-pilates-chicago-lakeview-studio-opening.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   tone, but falls short on word count and includes a future date that may impact
   credibility.
 reading_time: 3
+image_alt: >-
+  Group performs hybrid Pilates workouts on sleek machines in a moody boutique
+  fitness studio.
 ---
 ## New Fitness Concept Arrives in Chicago
 
