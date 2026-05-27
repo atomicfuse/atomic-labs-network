@@ -1,24 +1,30 @@
 ---
-title: "Boards of Canada Share First Music From Inferno Album"
-description: "Boards of Canada unveil the first music from Inferno, reigniting anticipation after more than a decade of silence and signaling a mysterious new chapter for ambient, IDM, and experimental electronic music fans."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T09:42:19+00:00"
-author: "Lena Harper"
+title: Boards of Canada Share First Music From Inferno Album
+description: >-
+  Boards of Canada unveil the first music from Inferno, reigniting anticipation
+  after more than a decade of silence and signaling a mysterious new chapter for
+  ambient, IDM, and experimental electronic music fans.
+type: standard
+status: published
+publishDate: '2026-05-11T09:42:19+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "boards-of-canada-share-first-music-from-inferno-album"
+  - Music
+slug: boards-of-canada-share-first-music-from-inferno-album
 reading_time: 6
-source_url: "https://wtpop.com/boards-of-canada-share-first-music-from-inferno-album/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/boards-of-canada-share-first-music-from-inferno-album/'
+imported_from: wordpress
 wp_original_id: 808
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/boards-of-canada-share-first-music-from-inferno-album.webp
 seo:
-  canonical: "https://wtpop.com/boards-of-canada-share-first-music-from-inferno-album/"
-  og_title: "Boards of Canada Share First Music From Inferno Album - WTPOP"
-  og_description: "Boards of Canada unveil the first music from Inferno, reigniting anticipation after more than a decade of silence and signaling a mysterious new chapter for ambient, IDM, and experimental electronic music fans."
-  og_image: "https://wtpop.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/boards-of-canada-share-first-music-from-inferno-album/'
+  og_title: Boards of Canada Share First Music From Inferno Album - WTPOP
+  og_description: >-
+    Boards of Canada unveil the first music from Inferno, reigniting
+    anticipation after more than a decade of silence and signaling a mysterious
+    new chapter for ambient, IDM, and experimental electronic music fans.
+  og_image: 'https://wtpop.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +32,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 40
   keyword_relevance: 95
-quality_note: "Strong music coverage with excellent tone and length, but contains fabricated information about a non-existent Boards of Canada album called 'Inferno'."
+quality_note: >-
+  Strong music coverage with excellent tone and length, but contains fabricated
+  information about a non-existent Boards of Canada album called 'Inferno'.
+image_alt: >-
+  A dim vintage synth studio glows red with tape reels, cables, haze, and
+  abstract waveform reflections.
 ---
 
 Boards of Canada have returned to the spotlight with the first music from their forthcoming album _Inferno_, giving electronic music fans a long-awaited glimpse of the duo's next chapter. The announcement has sparked immediate interest across ambient, IDM, and experimental music communities, especially because new material from the Scottish brothers has remained rare for more than a decade.
