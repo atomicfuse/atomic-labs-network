@@ -1,25 +1,40 @@
 ---
-title: "Foodservice Coffee Market Trends: Global Drivers and Rapid Evolution"
-description: "The global foodservice industry is undergoing significant transformation driven by technology, evolving consumer preferences, and sustainability concerns. Businesses are integrating digital solutions, expanding menus with healthier options, and adopting eco-friendly practices to meet new demands and achieve dynamic growth."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T09:15:33+00:00"
-author: "Taylor Winters"
+title: 'Foodservice Coffee Market Trends: Global Drivers and Rapid Evolution'
+description: >-
+  The global foodservice industry is undergoing significant transformation
+  driven by technology, evolving consumer preferences, and sustainability
+  concerns. Businesses are integrating digital solutions, expanding menus with
+  healthier options, and adopting eco-friendly practices to meet new demands and
+  achieve dynamic growth.
+type: standard
+status: review
+publishDate: '2025-12-22T09:15:33+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "foodservice-coffee-market-trends-global-drivers-and-rapid-evolution"
+  - Coffee News
+  - News
+slug: foodservice-coffee-market-trends-global-drivers-and-rapid-evolution
 reading_time: 3
-source_url: "https://coffeeactually.com/foodservice-coffee-market-trends-global-drivers-and-rapid-evolution/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/foodservice-coffee-market-trends-global-drivers-and-rapid-evolution/
+imported_from: wordpress
 wp_original_id: 51369
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/foodservice-coffee-market-trends-global-drivers-and-rapid-evolution.webp
 seo:
-  canonical: "https://coffeeactually.com/foodservice-coffee-market-trends-global-drivers-and-rapid-evolution/"
-  og_title: "Foodservice Coffee Market Trends: Global Drivers and Rapid Evolution - Coffee Actually"
-  og_description: "The global foodservice industry is undergoing significant transformation driven by technology, evolving consumer preferences, and sustainability concerns. Businesses are integrating digital solutions, expanding menus with healthier options, and adopting eco-friendly practices to meet new demands and achieve dynamic growth."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/12/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/foodservice-coffee-market-trends-global-drivers-and-rapid-evolution/
+  og_title: >-
+    Foodservice Coffee Market Trends: Global Drivers and Rapid Evolution -
+    Coffee Actually
+  og_description: >-
+    The global foodservice industry is undergoing significant transformation
+    driven by technology, evolving consumer preferences, and sustainability
+    concerns. Businesses are integrating digital solutions, expanding menus with
+    healthier options, and adopting eco-friendly practices to meet new demands
+    and achieve dynamic growth.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/12/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 20
-quality_note: "Article lacks coffee-specific focus despite having coffee in title and tags, falls short on length requirements, and has weak SEO optimization for the target audience."
+quality_note: >-
+  Article lacks coffee-specific focus despite having coffee in title and tags,
+  falls short on length requirements, and has weak SEO optimization for the
+  target audience.
+image_alt: >-
+  Modern café counter with coffee, digital ordering tools, reusable cups, and
+  sustainable ingredients
 ---
 
 The global foodservice industry is currently experiencing significant transformation, driven by a variety of factors. These changes are reshaping how businesses operate and interact with consumers. With technological advancements, evolving consumer preferences, and sustainability concerns at the forefront, the foodservice sector is poised for dynamic growth and innovation.
