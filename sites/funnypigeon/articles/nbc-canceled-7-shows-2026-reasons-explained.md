@@ -22,7 +22,7 @@ source_url: >-
   https://www.justjared.com/2026/05/25/why-nbc-canceled-7-tv-shows-in-2026-see-the-explanations/
 source_item_id: 6a151ac216f23264031d80f4
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/nbc-canceled-7-shows-2026-reasons-explained.webp
 quality_score: 53
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
   already happened, is too short at 538 words, and doesn't align well with the
   site's entertainment/viral content focus.
 reading_time: 3
+image_alt: >-
+  Seven dark TV monitors in a moody control room with colorful broadcast lights
+  fading into digital haze.
 ---
 ## The 2026 NBC Cancellation Wave
 
