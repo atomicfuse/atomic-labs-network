@@ -1,24 +1,33 @@
 ---
-title: "Can adults identify pain in babies’ cries?"
-description: "A recent study in Current Biology found that adults with caregiving experience can identify pain in babies' cries, with the ability to distinguish pain from discomfort improving based on the level of prior experience with infants."
-type: "standard"
-status: "published"
-publishDate: "2022-08-14T01:29:44+00:00"
-author: "Taylor Winters"
+title: Can adults identify pain in babies’ cries?
+description: >-
+  A recent study in Current Biology found that adults with caregiving experience
+  can identify pain in babies' cries, with the ability to distinguish pain from
+  discomfort improving based on the level of prior experience with infants.
+type: standard
+status: published
+publishDate: '2022-08-14T01:29:44+00:00'
+author: Taylor Winters
 tags:
-  - "Parenting"
-  - "Children's Health"
-slug: "can-adults-identify-pain-in-babies-cries"
+  - Parenting
+  - Children's Health
+slug: can-adults-identify-pain-in-babies-cries
 reading_time: 3
-source_url: "https://babyparenttrends.com/can-adults-identify-pain-in-babies-cries/"
-imported_from: "wordpress"
+source_url: 'https://babyparenttrends.com/can-adults-identify-pain-in-babies-cries/'
+imported_from: wordpress
 wp_original_id: 17248
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/can-adults-identify-pain-in-babies-cries.webp
 seo:
-  canonical: "https://babyparenttrends.com/can-adults-identify-pain-in-babies-cries/"
-  og_title: "Can adults identify pain in babies’ cries? - Baby Parent Trends"
-  og_description: "Infants generally cry with more variable pitch and duration than adults. Longer, harsher, rougher, and louder cries mean they are experiencing pain or mild discomfort. Hence, a baby&#x2019;s cry with universal acoustic properties is innately decoded by caregivers. In a recent&#xA0;Current Biology&#xA0;study, researchers detected that a baby&#x2019;s cry expresses the pain that can be actually [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: 'https://babyparenttrends.com/can-adults-identify-pain-in-babies-cries/'
+  og_title: Can adults identify pain in babies’ cries? - Baby Parent Trends
+  og_description: >-
+    Infants generally cry with more variable pitch and duration than adults.
+    Longer, harsher, rougher, and louder cries mean they are experiencing pain
+    or mild discomfort. Hence, a baby&#x2019;s cry with universal acoustic
+    properties is innately decoded by caregivers. In a recent&#xA0;Current
+    Biology&#xA0;study, researchers detected that a baby&#x2019;s cry expresses
+    the pain that can be actually [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent keyword relevance and tone, but significantly too short at 487 words for the target 800-1200 range."
+quality_note: >-
+  Well-written article with excellent keyword relevance and tone, but
+  significantly too short at 487 words for the target 800-1200 range.
+image_alt: >-
+  Caregiver listens attentively beside a softly lit crib with subtle sound-wave
+  shapes in the air.
 ---
 
 Infants generally cry with more variable pitch and duration than adults. Longer, harsher, rougher, and louder cries mean they are experiencing pain or mild discomfort. Hence, a baby's cry with universal acoustic properties is innately decoded by caregivers. In a recent [*Current Biology*](https://www.cell.com/current-biology/fulltext/S0960-9822\(22\)01081-8) study, researchers detected that a baby's cry expresses pain that can be recognized through experience.
