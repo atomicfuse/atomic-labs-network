@@ -1,24 +1,37 @@
 ---
-title: "Discover Toronto’s Stunning New Cafe in This Trendy Neighborhood"
-description: "Craves & Bites Cafe enriches Toronto's culinary scene with a cozy ambiance and diverse menu, offering a unique experience for food lovers. Located in a bustling neighborhood, it serves as a community hub with artisanal dishes and specialty coffees."
-type: "standard"
-status: "review"
-publishDate: "2025-09-18T04:01:34+00:00"
-author: "Taylor Winters"
+title: Discover Toronto’s Stunning New Cafe in This Trendy Neighborhood
+description: >-
+  Craves & Bites Cafe enriches Toronto's culinary scene with a cozy ambiance and
+  diverse menu, offering a unique experience for food lovers. Located in a
+  bustling neighborhood, it serves as a community hub with artisanal dishes and
+  specialty coffees.
+type: standard
+status: review
+publishDate: '2025-09-18T04:01:34+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Drinks"
-slug: "discover-torontos-stunning-new-cafe-in-this-trendy-neighborhood"
+  - Coffee Drinks
+slug: discover-torontos-stunning-new-cafe-in-this-trendy-neighborhood
 reading_time: 3
-source_url: "https://coffeeactually.com/discover-torontos-stunning-new-cafe-in-this-trendy-neighborhood/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/discover-torontos-stunning-new-cafe-in-this-trendy-neighborhood/
+imported_from: wordpress
 wp_original_id: 51320
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-torontos-stunning-new-cafe-in-this-trendy-neighborhood.webp
 seo:
-  canonical: "https://coffeeactually.com/discover-torontos-stunning-new-cafe-in-this-trendy-neighborhood/"
-  og_title: "Discover Toronto's Stunning New Cafe in This Trendy Neighborhood - Coffee Actually"
-  og_description: "Craves & Bites Cafe enriches Toronto's culinary scene with a cozy ambiance and diverse menu, offering a unique experience for food lovers. Located in a bustling neighborhood, it serves as a community hub with artisanal dishes and specialty coffees."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/09/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/discover-torontos-stunning-new-cafe-in-this-trendy-neighborhood/
+  og_title: >-
+    Discover Toronto's Stunning New Cafe in This Trendy Neighborhood - Coffee
+    Actually
+  og_description: >-
+    Craves & Bites Cafe enriches Toronto's culinary scene with a cozy ambiance
+    and diverse menu, offering a unique experience for food lovers. Located in a
+    bustling neighborhood, it serves as a community hub with artisanal dishes
+    and specialty coffees.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/09/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "The article has good conversational tone but lacks proper SEO optimization with generic title/description, falls short on word count, and doesn't adequately focus on core coffee topics despite having Coffee Drinks tag."
+quality_note: >-
+  The article has good conversational tone but lacks proper SEO optimization
+  with generic title/description, falls short on word count, and doesn't
+  adequately focus on core coffee topics despite having Coffee Drinks tag.
+image_alt: >-
+  Cozy modern Toronto cafe with coffee, pastries, and patrons in a sunlit
+  neighborhood setting
 ---
 
 Toronto's vibrant food scene continues to evolve with the introduction of Craves & Bites Cafe, a new gem nestled in the heart of the city. This recently opened cafe offers more than just a place to grab coffee; it provides a unique culinary experience that combines delectable treats with a cozy ambiance. Whether you're a local or a visitor, this cafe is set to become a must-visit destination for those who appreciate quality food and a welcoming atmosphere.
