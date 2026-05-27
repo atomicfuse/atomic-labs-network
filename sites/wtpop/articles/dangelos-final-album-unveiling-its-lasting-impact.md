@@ -1,24 +1,32 @@
 ---
-title: "D’Angelo’s Final Album: Unveiling Its Lasting Impact"
-description: "D'Angelo's innovative blend of soul, jazz, and funk in the late 1990s and early 2000s redefined R&B. His albums \"Brown Sugar\" and \"Voodoo\" were critically acclaimed, influencing a new generation of musicians with their timeless sound and artistic depth."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T11:17:23+00:00"
-author: "Lena Harper"
+title: 'D’Angelo’s Final Album: Unveiling Its Lasting Impact'
+description: >-
+  D'Angelo's innovative blend of soul, jazz, and funk in the late 1990s and
+  early 2000s redefined R&B. His albums "Brown Sugar" and "Voodoo" were
+  critically acclaimed, influencing a new generation of musicians with their
+  timeless sound and artistic depth.
+type: standard
+status: published
+publishDate: '2025-12-04T11:17:23+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "dangelos-final-album-unveiling-its-lasting-impact"
+  - Music
+slug: dangelos-final-album-unveiling-its-lasting-impact
 reading_time: 3
-source_url: "https://wtpop.com/dangelos-final-album-unveiling-its-lasting-impact/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/dangelos-final-album-unveiling-its-lasting-impact/'
+imported_from: wordpress
 wp_original_id: 701
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/dangelos-final-album-unveiling-its-lasting-impact.webp
 seo:
-  canonical: "https://wtpop.com/dangelos-final-album-unveiling-its-lasting-impact/"
-  og_title: "D'Angelo's Final Album: Unveiling Its Lasting Impact - WTPOP"
-  og_description: "D'Angelo's innovative blend of soul, jazz, and funk in the late 1990s and early 2000s redefined R&B. His albums \"Brown Sugar\" and \"Voodoo\" were critically acclaimed, influencing a new generation of musicians with their timeless sound and artistic depth."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/dangelos-final-album-unveiling-its-lasting-impact/'
+  og_title: 'D''Angelo''s Final Album: Unveiling Its Lasting Impact - WTPOP'
+  og_description: >-
+    D'Angelo's innovative blend of soul, jazz, and funk in the late 1990s and
+    early 2000s redefined R&B. His albums "Brown Sugar" and "Voodoo" were
+    critically acclaimed, influencing a new generation of musicians with their
+    timeless sound and artistic depth.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Strong music content with good tone but falls short on length and has misleading title suggesting D'Angelo has a 'final album' when he's still active."
+quality_note: >-
+  Strong music content with good tone but falls short on length and has
+  misleading title suggesting D'Angelo has a 'final album' when he's still
+  active.
+image_alt: Empty vintage recording studio with instruments glowing in warm soulful light.
 ---
 
 During the late 1990s and early 2000s, a wave of transformative R&B music emerged, marked by its rich blend of soul, jazz, and funk. Among the pioneers of this era was D'Angelo, an artist whose influence and musical prowess left an indelible mark on the genre. His work not only redefined R&B but also opened the door for future generations of musicians.
