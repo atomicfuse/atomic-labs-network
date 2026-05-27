@@ -1,28 +1,40 @@
 ---
-title: "Highlights from ABC World News Tonight with David Muir: Key Updates from May 21, 2025"
-description: "Explore the major headlines from ABC World News Tonight, including a $400 million Air Force One, Oval Office tensions, and a jailbreak in New Orleans."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T05:05:20+00:00"
-author: "Lena Harper"
+title: >-
+  Highlights from ABC World News Tonight with David Muir: Key Updates from May
+  21, 2025
+description: >-
+  Explore the major headlines from ABC World News Tonight, including a $400
+  million Air Force One, Oval Office tensions, and a jailbreak in New Orleans.
+type: standard
+status: review
+publishDate: '2025-05-22T05:05:20+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025"
+  - Celebrities
+  - TV &amp; Movies
+slug: >-
+  highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025
 reading_time: 2
-source_url: "https://wtpop.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/"
-imported_from: "wordpress"
+source_url: >-
+  https://wtpop.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/
+imported_from: wordpress
 wp_original_id: 484
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025.webp
 seo:
-  canonical: "https://wtpop.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/"
-  og_title: "Highlights from ABC World News Tonight with David Muir: Key Updates from May 21, 2025 - WTPOP"
-  og_description: "Explore the major headlines from ABC World News Tonight, including a $400 million Air Force One, Oval Office tensions, and a jailbreak in New Orleans."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/highlights-from-abc-world-news-tonight-with-david-muir-key-updates-from-may-21-2025/
+  og_title: >-
+    Highlights from ABC World News Tonight with David Muir: Key Updates from May
+    21, 2025 - WTPOP
+  og_description: >-
+    Explore the major headlines from ABC World News Tonight, including a $400
+    million Air Force One, Oval Office tensions, and a jailbreak in New Orleans.
+  twitter_card: summary_large_image
 videos:
-  - id: "55e6222e"
-    url: "https://www.youtube.com/watch?v=ekSdSa36kHk"
-    position: "after-paragraph-2"
+  - id: 55e6222e
+    url: 'https://www.youtube.com/watch?v=ekSdSa36kHk'
+    position: after-paragraph-2
 quality_score: 27
 score_breakdown:
   seo_quality: 25
@@ -30,7 +42,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 15
   keyword_relevance: 20
-quality_note: "This article fails on multiple fronts with fabricated future events from 2025, extremely short length, poor SEO optimization, and minimal relevance to the entertainment-focused site content."
+quality_note: >-
+  This article fails on multiple fronts with fabricated future events from 2025,
+  extremely short length, poor SEO optimization, and minimal relevance to the
+  entertainment-focused site content.
+image_alt: >-
+  Newsroom desk with symbolic objects suggesting aviation, politics, and a
+  jailbreak
 ---
 
 ABC World News Tonight with David Muir aired a comprehensive broadcast on May 21, 2025, covering a range of impactful news stories from around the globe.
