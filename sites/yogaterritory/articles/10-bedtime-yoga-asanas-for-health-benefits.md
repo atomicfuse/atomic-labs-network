@@ -1,27 +1,35 @@
 ---
-title: "10 Bedtime Yoga Asanas for Health Benefits"
-description: "Yoga offers an enriching way to enhance physical and mental well-being, even from your bed. This ancient practice provides stress reduction, improved flexibility, and better sleep through simple asanas that can rejuvenate your day or help you unwind before bedtime."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T04:31:21+00:00"
-author: "Taylor Winters"
+title: 10 Bedtime Yoga Asanas for Health Benefits
+description: >-
+  Yoga offers an enriching way to enhance physical and mental well-being, even
+  from your bed. This ancient practice provides stress reduction, improved
+  flexibility, and better sleep through simple asanas that can rejuvenate your
+  day or help you unwind before bedtime.
+type: standard
+status: review
+publishDate: '2025-05-22T04:31:21+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "10-bedtime-yoga-asanas-for-health-benefits"
+  - Yoga Poses
+  - Lifestyle
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: 10-bedtime-yoga-asanas-for-health-benefits
 reading_time: 3
-source_url: "https://yogaterritory.com/10-bedtime-yoga-asanas-for-health-benefits/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/10-bedtime-yoga-asanas-for-health-benefits/'
+imported_from: wordpress
 wp_original_id: 20618
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/10-bedtime-yoga-asanas-for-health-benefits.webp
 seo:
-  canonical: "https://yogaterritory.com/10-bedtime-yoga-asanas-for-health-benefits/"
-  og_title: "10 Bedtime Yoga Asanas for Health Benefits - Yoga Territory"
-  og_description: "Yoga offers an enriching way to enhance physical and mental well-being, even from your bed. This ancient practice provides stress reduction, improved flexibility, and better sleep. Simple asanas can rejuvenate your day or help unwind before bedtime."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/10-bedtime-yoga-asanas-for-health-benefits/'
+  og_title: 10 Bedtime Yoga Asanas for Health Benefits - Yoga Territory
+  og_description: >-
+    Yoga offers an enriching way to enhance physical and mental well-being, even
+    from your bed. This ancient practice provides stress reduction, improved
+    flexibility, and better sleep. Simple asanas can rejuvenate your day or help
+    unwind before bedtime.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -29,7 +37,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "Well-written article with good tone and accurate information, but significantly under target word count and missing the promised 10 specific bedtime asanas from the title."
+quality_note: >-
+  Well-written article with good tone and accurate information, but
+  significantly under target word count and missing the promised 10 specific
+  bedtime asanas from the title.
+image_alt: 'Person practicing gentle bedtime yoga in a softly lit, peaceful bedroom'
 ---
 
 Yoga offers an enriching way to enhance physical and mental well-being, even from the comfort of your bed. This ancient practice provides numerous health benefits, including stress reduction, improved flexibility, and better sleep. With just a few simple asanas, you can start your day feeling rejuvenated or wind down before bedtime.
