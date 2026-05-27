@@ -19,7 +19,7 @@ source_url: >-
   https://weartv.com/news/entertainment/happy-agt-anniversary-simon-cowell-its-his-10th-year-judging-the-nbc-competition-show-americas-got-talent
 source_item_id: 6a151ac216f23264031d80f7
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/simon-cowell-celebrates-10-year-agt-milestone-anniversary.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   appropriate tone, but falls short on length at 600 words versus the target
   800-1200 range.
 reading_time: 3
+image_alt: Empty talent show judge chair with a golden buzzer under dramatic stage lights
 ---
 ## Simon Cowell's Decade-Long Journey on 'America's Got Talent'
 
