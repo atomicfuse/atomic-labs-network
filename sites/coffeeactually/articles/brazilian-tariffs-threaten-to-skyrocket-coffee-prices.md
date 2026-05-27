@@ -1,25 +1,35 @@
 ---
-title: "Brazilian Tariffs Threaten to Skyrocket Coffee Prices"
-description: "Brazil's new tariff policy on coffee exports is causing a shake-up in global markets, potentially raising prices worldwide. This move aims to support local industries but may lead to higher costs and increased volatility in international coffee markets."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T04:02:01+00:00"
-author: "Taylor Winters"
+title: Brazilian Tariffs Threaten to Skyrocket Coffee Prices
+description: >-
+  Brazil's new tariff policy on coffee exports is causing a shake-up in global
+  markets, potentially raising prices worldwide. This move aims to support local
+  industries but may lead to higher costs and increased volatility in
+  international coffee markets.
+type: standard
+status: review
+publishDate: '2025-07-31T04:02:01+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "brazilian-tariffs-threaten-to-skyrocket-coffee-prices"
+  - Coffee News
+  - News
+slug: brazilian-tariffs-threaten-to-skyrocket-coffee-prices
 reading_time: 3
-source_url: "https://coffeeactually.com/brazilian-tariffs-threaten-to-skyrocket-coffee-prices/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/brazilian-tariffs-threaten-to-skyrocket-coffee-prices/
+imported_from: wordpress
 wp_original_id: 51303
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/brazilian-tariffs-threaten-to-skyrocket-coffee-prices.webp
 seo:
-  canonical: "https://coffeeactually.com/brazilian-tariffs-threaten-to-skyrocket-coffee-prices/"
-  og_title: "Brazilian Tariffs Threaten to Skyrocket Coffee Prices - Coffee Actually"
-  og_description: "Brazil's new tariff policy on coffee exports is causing a shake-up in global markets, potentially raising prices worldwide. This move aims to support local industries but may lead to higher costs and increased volatility in international coffee markets."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/07/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/brazilian-tariffs-threaten-to-skyrocket-coffee-prices/
+  og_title: Brazilian Tariffs Threaten to Skyrocket Coffee Prices - Coffee Actually
+  og_description: >-
+    Brazil's new tariff policy on coffee exports is causing a shake-up in global
+    markets, potentially raising prices worldwide. This move aims to support
+    local industries but may lead to higher costs and increased volatility in
+    international coffee markets.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/07/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly under target word count and lacks specific verifiable details about the tariff policy."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target word count and
+  lacks specific verifiable details about the tariff policy.
+image_alt: >-
+  Coffee beans spill across a trading desk, suggesting rising global prices and
+  market volatility.
 ---
 
 Global coffee markets are experiencing a significant shake-up as Brazil, one of the world's largest coffee producers, implements a new tariff policy. This change is set to impact coffee prices globally, sparking concerns among traders, retailers, and consumers alike. The tariff aims to protect local industries but may inadvertently drive up costs for importing countries.
