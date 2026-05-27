@@ -1,25 +1,33 @@
 ---
-title: "Effective Yoga Poses for Combating Osteoporosis"
-description: "Yoga enhances flexibility, balance, and mental well-being while promoting bone health. As we age, maintaining strong bones prevents osteoporosis and fractures. Incorporating yoga strengthens bones through weight-bearing poses, improving overall skeletal health and reducing fall risk."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T05:26:08+00:00"
-author: "Taylor Winters"
+title: Effective Yoga Poses for Combating Osteoporosis
+description: >-
+  Yoga enhances flexibility, balance, and mental well-being while promoting bone
+  health. As we age, maintaining strong bones prevents osteoporosis and
+  fractures. Incorporating yoga strengthens bones through weight-bearing poses,
+  improving overall skeletal health and reducing fall risk.
+type: standard
+status: review
+publishDate: '2025-05-15T05:26:08+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga Postures"
-slug: "effective-yoga-poses-for-combating-osteoporosis"
+  - Yoga Poses
+  - Yoga Postures
+slug: effective-yoga-poses-for-combating-osteoporosis
 reading_time: 4
-source_url: "https://yogaterritory.com/effective-yoga-poses-for-combating-osteoporosis/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/effective-yoga-poses-for-combating-osteoporosis/'
+imported_from: wordpress
 wp_original_id: 20614
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/effective-yoga-poses-for-combating-osteoporosis.webp
 seo:
-  canonical: "https://yogaterritory.com/effective-yoga-poses-for-combating-osteoporosis/"
-  og_title: "Effective Yoga Poses for Combating Osteoporosis - Yoga Territory"
-  og_description: "Yoga enhances flexibility, balance, and mental well-being while promoting bone health. As we age, maintaining strong bones prevents osteoporosis and fractures. Incorporating yoga strengthens bones through weight-bearing poses, improving overall skeletal health and reducing fall risk."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/05/make_Exercise_2.gif"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/effective-yoga-poses-for-combating-osteoporosis/'
+  og_title: Effective Yoga Poses for Combating Osteoporosis - Yoga Territory
+  og_description: >-
+    Yoga enhances flexibility, balance, and mental well-being while promoting
+    bone health. As we age, maintaining strong bones prevents osteoporosis and
+    fractures. Incorporating yoga strengthens bones through weight-bearing
+    poses, improving overall skeletal health and reducing fall risk.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/05/make_Exercise_2.gif'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under the target word count at 643 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under the
+  target word count at 643 words versus the 800-1200 range.
+image_alt: >-
+  Older adults practicing gentle yoga in a sunlit studio with calm, supportive
+  energy
 ---
 
 Yoga has long been celebrated for its numerous health benefits, including improving flexibility, balance, and mental well-being. However, its role in promoting bone health is gaining significant attention. As we age, maintaining strong bones becomes crucial to prevent conditions like osteoporosis and fractures. Incorporating yoga into your routine can be an effective way to strengthen bones and enhance overall skeletal health.
