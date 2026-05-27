@@ -23,7 +23,7 @@ source_url: >-
   https://www.vulture.com/article/top-chef-recap-season-23-episode-12-appalachian-celebration.html
 source_item_id: 6a152fda16f23264031d81fa
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/top-chef-sieger-meltdown-viral-asheville-episode.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   under target word count and contains some unverifiable specifics about the Top
   Chef episode.
 reading_time: 3
+image_alt: >-
+  Tense chef in a professional kitchen beside Appalachian ingredients during a
+  dramatic cooking competition moment.
 ---
 ## Reality TV Drama Meets Appalachian Cuisine
 
