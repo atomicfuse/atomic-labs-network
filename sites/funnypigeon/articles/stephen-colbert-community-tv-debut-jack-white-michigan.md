@@ -23,7 +23,7 @@ source_url: >-
   https://www.boston.com/culture/entertainment/2026/05/25/stephen-colbert-is-back-on-tv-on-community-access-in-michigan-along-with-rocker-jack-white/
 source_item_id: 6a151ac216f23264031d80f1
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/stephen-colbert-community-tv-debut-jack-white-michigan.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,9 @@ quality_note: >-
   significant factual issues with unsupported claims about Colbert's post-Late
   Show activities that appear fabricated.
 reading_time: 3
+image_alt: >-
+  A suited TV host steps from a polished late-night set into a quirky local
+  studio with a guitarist nearby.
 ---
 ## From Network TV to Community Access
 
