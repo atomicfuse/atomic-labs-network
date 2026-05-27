@@ -1,23 +1,30 @@
 ---
-title: "Wasted Wine Explores World-Music Fusion on New Album"
-description: "Wasted Wine, an innovative band from the Upstate region, blends diverse global sounds in their latest album, creating a unique auditory experience that pushes genre boundaries and showcases their musical versatility."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T13:08:22+00:00"
-author: "Lena Harper"
+title: Wasted Wine Explores World-Music Fusion on New Album
+description: >-
+  Wasted Wine, an innovative band from the Upstate region, blends diverse global
+  sounds in their latest album, creating a unique auditory experience that
+  pushes genre boundaries and showcases their musical versatility.
+type: standard
+status: review
+publishDate: '2025-11-27T13:08:22+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "wasted-wine-explores-world-music-fusion-on-new-album"
+  - Music
+slug: wasted-wine-explores-world-music-fusion-on-new-album
 reading_time: 2
-source_url: "https://wtpop.com/wasted-wine-explores-world-music-fusion-on-new-album/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/wasted-wine-explores-world-music-fusion-on-new-album/'
+imported_from: wordpress
 wp_original_id: 673
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/wasted-wine-explores-world-music-fusion-on-new-album.webp
 seo:
-  canonical: "https://wtpop.com/wasted-wine-explores-world-music-fusion-on-new-album/"
-  og_title: "Wasted Wine Explores World-Music Fusion on New Album - WTPOP"
-  og_description: "Wasted Wine, an innovative band from the Upstate, blends diverse global sounds in their latest album, creating a unique auditory experience. Their music pushes genre boundaries, showcasing their versatility and captivating audiences with rich, textured compositions and engaging live performances."
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/wasted-wine-explores-world-music-fusion-on-new-album/'
+  og_title: Wasted Wine Explores World-Music Fusion on New Album - WTPOP
+  og_description: >-
+    Wasted Wine, an innovative band from the Upstate, blends diverse global
+    sounds in their latest album, creating a unique auditory experience. Their
+    music pushes genre boundaries, showcasing their versatility and captivating
+    audiences with rich, textured compositions and engaging live performances.
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -25,7 +32,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written music article with good tone and keyword relevance, but significantly under the target word count at only 366 words."
+quality_note: >-
+  Well-written music article with good tone and keyword relevance, but
+  significantly under the target word count at only 366 words.
+image_alt: >-
+  Eclectic instruments arranged in a moody rehearsal room under warm blue and
+  amber stage light.
 ---
 
 Wasted Wine, an innovative band from the Upstate region, is making waves in the music scene with their latest album, which delves into the rich tapestry of world music. Known for their eclectic sound, Wasted Wine seamlessly blends various musical influences to create a unique auditory experience that captivates audiences. Their new album promises to be a sonic journey unlike any other, pushing the boundaries of genre and style.
