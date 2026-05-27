@@ -1,25 +1,38 @@
 ---
-title: "Nestlé Trademark Battle with Seattle Strong Over Brand Confusion"
-description: "In Seattle's coffee scene, a small company founded in 1989 overcame challenges to protect its brand from a global giant, Nestlé. This victory highlights the resilience and determination of small businesses to uphold their identity and values."
-type: "standard"
-status: "review"
-publishDate: "2025-07-17T04:01:35+00:00"
-author: "Taylor Winters"
+title: Nestlé Trademark Battle with Seattle Strong Over Brand Confusion
+description: >-
+  In Seattle's coffee scene, a small company founded in 1989 overcame challenges
+  to protect its brand from a global giant, Nestlé. This victory highlights the
+  resilience and determination of small businesses to uphold their identity and
+  values.
+type: standard
+status: review
+publishDate: '2025-07-17T04:01:35+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "nestle-trademark-battle-with-seattle-strong-over-brand-confusion"
+  - Coffee News
+  - News
+slug: nestle-trademark-battle-with-seattle-strong-over-brand-confusion
 reading_time: 4
-source_url: "https://coffeeactually.com/nestle-trademark-battle-with-seattle-strong-over-brand-confusion/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/nestle-trademark-battle-with-seattle-strong-over-brand-confusion/
+imported_from: wordpress
 wp_original_id: 51297
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/nestle-trademark-battle-with-seattle-strong-over-brand-confusion.webp
 seo:
-  canonical: "https://coffeeactually.com/nestle-trademark-battle-with-seattle-strong-over-brand-confusion/"
-  og_title: "Nestlé Trademark Battle with Seattle Strong Over Brand Confusion - Coffee Actually"
-  og_description: "In Seattle's coffee scene, a small company founded in 1989 overcame challenges to protect its brand from a global giant, Nestlé. This victory highlights the resilience and determination of small businesses to uphold their identity and values."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/07/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/nestle-trademark-battle-with-seattle-strong-over-brand-confusion/
+  og_title: >-
+    Nestlé Trademark Battle with Seattle Strong Over Brand Confusion - Coffee
+    Actually
+  og_description: >-
+    In Seattle's coffee scene, a small company founded in 1989 overcame
+    challenges to protect its brand from a global giant, Nestlé. This victory
+    highlights the resilience and determination of small businesses to uphold
+    their identity and values.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/07/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 15
   keyword_relevance: 70
-quality_note: "The article has major issues with vague storytelling that lacks specific facts, an unclear title that doesn't match the content, and falls short of target word count, despite maintaining an appropriate tone for the audience."
+quality_note: >-
+  The article has major issues with vague storytelling that lacks specific
+  facts, an unclear title that doesn't match the content, and falls short of
+  target word count, despite maintaining an appropriate tone for the audience.
+image_alt: >-
+  Unbranded coffee cup in a Seattle café window reflecting a corporate tower at
+  dawn
 ---
 
 In the bustling landscape of Seattle's coffee industry, where giants dominate, small businesses often face daunting challenges. Imagine a passionate entrepreneur, fueled by dreams and determination, stepping into this competitive arena. This story explores the journey of such a small coffee company, born in 1989, which not only carved its niche but also faced a formidable legal battle.
