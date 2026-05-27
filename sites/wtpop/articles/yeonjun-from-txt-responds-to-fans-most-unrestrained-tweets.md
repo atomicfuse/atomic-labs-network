@@ -1,29 +1,34 @@
 ---
-title: "YEONJUN from TXT Responds to Fans’ Most Unrestrained Tweets"
-description: "YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid reactions and humor."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T13:07:34+00:00"
-author: "Lena Harper"
+title: YEONJUN from TXT Responds to Fans’ Most Unrestrained Tweets
+description: >-
+  YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid
+  reactions and humor.
+type: standard
+status: review
+publishDate: '2025-11-27T13:07:34+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Influencers"
-  - "Music"
-slug: "yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets"
+  - Celebrities
+  - Influencers
+  - Music
+slug: yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets
 reading_time: 2
-source_url: "https://wtpop.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/'
+imported_from: wordpress
 wp_original_id: 671
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets.webp
 seo:
-  canonical: "https://wtpop.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/"
-  og_title: "YEONJUN from TXT Responds to Fans' Most Unrestrained Tweets - WTPOP"
-  og_description: "YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid reactions and humor."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/yeonjun-from-txt-responds-to-fans-most-unrestrained-tweets/
+  og_title: YEONJUN from TXT Responds to Fans' Most Unrestrained Tweets - WTPOP
+  og_description: >-
+    YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid
+    reactions and humor.
+  twitter_card: summary_large_image
 videos:
-  - id: "2a994021"
-    url: "https://www.youtube.com/watch?v=-nJ1UstzIj4"
-    position: "after-paragraph-2"
+  - id: 2a994021
+    url: 'https://www.youtube.com/watch?v=-nJ1UstzIj4'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -31,7 +36,10 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but severely penalized for being too short at only 314 words when 800-1200 is expected."
+quality_note: >-
+  Strong tone and keyword relevance but severely penalized for being too short
+  at only 314 words when 800-1200 is expected.
+image_alt: Stylish K-pop performer in a studio reacting playfully to a glowing phone
 ---
 
 In an exciting interaction with fans, YEONJUN from the popular K-pop group TXT took on the internet's infamous challenge of reading 'thirst tweets.' These tweets, often filled with humor and admiration, offer a glimpse into the playful relationship between celebrities and their fans.
