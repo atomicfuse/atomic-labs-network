@@ -22,7 +22,7 @@ source_url: >-
   https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount
 source_item_id: 6a151ac216f23264031d80f5
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/cbs-backs-down-copyright-action-colbert-viral-parody.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   short and contains factual inaccuracies about Colbert leaving The Late Show
   when he's still the current host.
 reading_time: 2
+image_alt: >-
+  Empty late-night studio with a vintage TV monitor and red tape being peeled
+  away.
 ---
 ## CBS Reverses Course on Viral Colbert Content
 
