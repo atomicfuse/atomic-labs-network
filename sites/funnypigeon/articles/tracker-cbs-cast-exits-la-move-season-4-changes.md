@@ -24,7 +24,7 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/trackers-biggest-changes-from-cast-exits-to-relocation/
 source_item_id: 6a151f7316f23264031d810e
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/tracker-cbs-cast-exits-la-move-season-4-changes.webp
 quality_score: 49
 score_breakdown:
   seo_quality: 75
@@ -38,6 +38,9 @@ quality_note: >-
   television news rather than the site's core topics of funny videos, memes,
   viral content, and animals.
 reading_time: 3
+image_alt: >-
+  Lone investigator between a misty forest and warm city lights, with empty
+  chairs suggesting change.
 ---
 ## CBS Hit 'Tracker' Undergoes Major Behind-the-Scenes Transformation
 
