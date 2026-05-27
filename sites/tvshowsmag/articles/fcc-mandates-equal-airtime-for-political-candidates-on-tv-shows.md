@@ -1,25 +1,38 @@
 ---
-title: "FCC Mandates Equal Airtime for Political Candidates on TV Shows"
-description: "The FCC's \"equal time\" rule faces scrutiny as political candidates, including Donald Trump, increasingly appear on talk shows. This regulation requires broadcasters to provide equal airtime to all candidates, prompting discussions about its relevance in today's media landscape."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:15:33+00:00"
-author: "Taylor Winters"
+title: FCC Mandates Equal Airtime for Political Candidates on TV Shows
+description: >-
+  The FCC's "equal time" rule faces scrutiny as political candidates, including
+  Donald Trump, increasingly appear on talk shows. This regulation requires
+  broadcasters to provide equal airtime to all candidates, prompting discussions
+  about its relevance in today's media landscape.
+type: standard
+status: review
+publishDate: '2026-01-22T10:15:33+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-slug: "fcc-mandates-equal-airtime-for-political-candidates-on-tv-shows"
+  - TV News
+  - News
+slug: fcc-mandates-equal-airtime-for-political-candidates-on-tv-shows
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/fcc-mandates-equal-airtime-for-political-candidates-on-tv-shows/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/fcc-mandates-equal-airtime-for-political-candidates-on-tv-shows/
+imported_from: wordpress
 wp_original_id: 28163
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/fcc-mandates-equal-airtime-for-political-candidates-on-tv-shows.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/fcc-mandates-equal-airtime-for-political-candidates-on-tv-shows/"
-  og_title: "FCC Mandates Equal Airtime for Political Candidates on TV Shows - TV Shows Magazine"
-  og_description: "The FCC's \"equal time\" rule faces scrutiny as political candidates, including Donald Trump, increasingly appear on talk shows. This regulation requires broadcasters to provide equal airtime to all candidates, prompting discussions about its relevance in today's media landscape."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/01/make_file-9.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/fcc-mandates-equal-airtime-for-political-candidates-on-tv-shows/
+  og_title: >-
+    FCC Mandates Equal Airtime for Political Candidates on TV Shows - TV Shows
+    Magazine
+  og_description: >-
+    The FCC's "equal time" rule faces scrutiny as political candidates,
+    including Donald Trump, increasingly appear on talk shows. This regulation
+    requires broadcasters to provide equal airtime to all candidates, prompting
+    discussions about its relevance in today's media landscape.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/01/make_file-9.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under the target word count at 526 words when 800-1200 is expected."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under the
+  target word count at 526 words when 800-1200 is expected.
+image_alt: >-
+  Empty TV studio chairs and camera suggest balanced political airtime under
+  media scrutiny.
 ---
 
 The Federal Communications Commission (FCC) is at the center of a debate regarding its "equal time" rule, as political candidates increasingly seek opportunities to appear on popular television talk shows. This regulation stipulates that broadcasters must provide equal airtime to all qualified political candidates if they allow any candidate to use their station. Recent discussions have intensified as former President Donald Trump continues to feature prominently on various shows, raising questions about how the rule is applied in the evolving media landscape.
