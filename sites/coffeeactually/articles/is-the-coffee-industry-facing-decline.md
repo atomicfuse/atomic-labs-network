@@ -1,25 +1,33 @@
 ---
-title: "Is the Coffee Industry Facing Decline?"
-description: "The coffee industry in Papua New Guinea is struggling due to aging trees, inadequate infrastructure, and climate change, impacting both the economy and the livelihoods of smallholder farmers. Efforts focus on sustainable practices, innovation, and revitalizing plantations."
-type: "standard"
-status: "review"
-publishDate: "2025-07-24T04:03:45+00:00"
-author: "Taylor Winters"
+title: Is the Coffee Industry Facing Decline?
+description: >-
+  The coffee industry in Papua New Guinea is struggling due to aging trees,
+  inadequate infrastructure, and climate change, impacting both the economy and
+  the livelihoods of smallholder farmers. Efforts focus on sustainable
+  practices, innovation, and revitalizing plantations.
+type: standard
+status: review
+publishDate: '2025-07-24T04:03:45+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "is-the-coffee-industry-facing-decline"
+  - Coffee News
+  - News
+slug: is-the-coffee-industry-facing-decline
 reading_time: 3
-source_url: "https://coffeeactually.com/is-the-coffee-industry-facing-decline/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/is-the-coffee-industry-facing-decline/'
+imported_from: wordpress
 wp_original_id: 51301
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/is-the-coffee-industry-facing-decline.webp
 seo:
-  canonical: "https://coffeeactually.com/is-the-coffee-industry-facing-decline/"
-  og_title: "Is the Coffee Industry Facing Decline? - Coffee Actually"
-  og_description: "The coffee industry in Papua New Guinea is struggling due to aging trees, inadequate infrastructure, and climate change, impacting both the economy and the livelihoods of smallholder farmers. Efforts focus on sustainable practices, innovation, and revitalizing plantations."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/07/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/is-the-coffee-industry-facing-decline/'
+  og_title: Is the Coffee Industry Facing Decline? - Coffee Actually
+  og_description: >-
+    The coffee industry in Papua New Guinea is struggling due to aging trees,
+    inadequate infrastructure, and climate change, impacting both the economy
+    and the livelihoods of smallholder farmers. Efforts focus on sustainable
+    practices, innovation, and revitalizing plantations.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/07/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written coffee news article with good tone and factual content, but significantly under target word count and needs stronger SEO optimization."
+quality_note: >-
+  Well-written coffee news article with good tone and factual content, but
+  significantly under target word count and needs stronger SEO optimization.
+image_alt: >-
+  Smallholder farmer examines aging coffee plants in a misty Papua New Guinea
+  highland plantation.
 ---
 
 The coffee industry in Papua New Guinea faces significant challenges that threaten its sustainability and economic contribution. Once a thriving sector, various factors have led to a decline in production and profitability. This change not only affects the economy but also the livelihoods of thousands of smallholder farmers who depend on coffee as their primary source of income.
