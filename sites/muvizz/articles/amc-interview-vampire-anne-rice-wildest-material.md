@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vulture.com/article/interview-with-the-vampire-lestat-jesus.html'
 source_item_id: 6a152fda16f23264031d8204
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/amc-interview-vampire-anne-rice-wildest-material.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   short on length requirements and relies heavily on vague sourcing that raises
   accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Glam-rock vampire in a ruined cathedral with a crimson chalice and shadowy
+  ancient queen figure
 ---
 ## AMC's Vampire Series Sets Sights on Anne Rice's Most Controversial Material
 
