@@ -1,25 +1,38 @@
 ---
-title: "Michelle Obama Reveals Parenting Tips on Call Her Daddy Podcast"
-description: "Turkish television drama \"Kalp Yarasi\" captivates with its intertwining romance and drama, set against Turkey's stunning landscapes. The series explores themes of love and conflict through the evolving relationship of Ferit and Ayse, resonating with global audiences."
-type: "standard"
+title: Michelle Obama Reveals Parenting Tips on Call Her Daddy Podcast
+description: >-
+  Turkish television drama "Kalp Yarasi" captivates with its intertwining
+  romance and drama, set against Turkey's stunning landscapes. The series
+  explores themes of love and conflict through the evolving relationship of
+  Ferit and Ayse, resonating with global audiences.
+type: standard
 status: published
-publishDate: "2026-01-22T10:03:30+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-22T10:03:30+00:00'
+author: Taylor Winters
 tags:
-  - "Parenting"
-  - "Fun"
-slug: "michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast"
+  - Parenting
+  - Fun
+slug: michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast
 reading_time: 3
-source_url: "https://babyparenttrends.com/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast/
+imported_from: wordpress
 wp_original_id: 17768
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast.webp
 seo:
-  canonical: "https://babyparenttrends.com/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast/"
-  og_title: "Michelle Obama Reveals Parenting Tips on Call Her Daddy Podcast - Baby Parent Trends"
-  og_description: "Turkish television drama \"Kalp Yarasi\" captivates with its intertwining romance and drama, set against Turkey's stunning landscapes. The series explores themes of love and conflict through the evolving relationship of Ferit and Ayse, resonating with global audiences."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast/
+  og_title: >-
+    Michelle Obama Reveals Parenting Tips on Call Her Daddy Podcast - Baby
+    Parent Trends
+  og_description: >-
+    Turkish television drama "Kalp Yarasi" captivates with its intertwining
+    romance and drama, set against Turkey's stunning landscapes. The series
+    explores themes of love and conflict through the evolving relationship of
+    Ferit and Ayse, resonating with global audiences.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 37
 score_breakdown:
   seo_quality: 15
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article is completely off-topic, discussing a Turkish TV drama instead of Michelle Obama's parenting tips, with zero relevance to the site's family and parenting focus."
+quality_note: >-
+  The article is completely off-topic, discussing a Turkish TV drama instead of
+  Michelle Obama's parenting tips, with zero relevance to the site's family and
+  parenting focus.
+image_alt: >-
+  Two women discuss parenting in a warm podcast studio with subtle family
+  keepsakes nearby.
 ---
 
 In recent years, Turkish television dramas have captured global audiences with their compelling storytelling and vibrant characters. One such show that has garnered attention is "Kalp Yarasi," a gripping series that intertwines romance and drama in a way that keeps viewers on the edge of their seats. The narrative unfolds in the picturesque Turkish landscapes, adding an extra layer of allure to the already captivating plot.
