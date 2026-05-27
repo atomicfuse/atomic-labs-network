@@ -1,25 +1,33 @@
 ---
-title: "James Gunn Debunks Dave Bautista Brainiac Casting Rumor"
-description: "James Gunn, co-head of DC Studios, has confirmed that actor Dave Bautista will not be playing Brainiac in future DC projects, dispelling recent rumors. Gunn's proactive communication aims to manage fan expectations and maintain transparency in the entertainment industry."
-type: "standard"
-status: "published"
-publishDate: "2025-12-15T11:31:59+00:00"
-author: "Lena Harper"
+title: James Gunn Debunks Dave Bautista Brainiac Casting Rumor
+description: >-
+  James Gunn, co-head of DC Studios, has confirmed that actor Dave Bautista will
+  not be playing Brainiac in future DC projects, dispelling recent rumors.
+  Gunn's proactive communication aims to manage fan expectations and maintain
+  transparency in the entertainment industry.
+type: standard
+status: published
+publishDate: '2025-12-15T11:31:59+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "james-gunn-debunks-dave-bautista-brainiac-casting-rumor"
+  - Celebrities
+  - TV &amp; Movies
+slug: james-gunn-debunks-dave-bautista-brainiac-casting-rumor
 reading_time: 3
-source_url: "https://wtpop.com/james-gunn-debunks-dave-bautista-brainiac-casting-rumor/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/james-gunn-debunks-dave-bautista-brainiac-casting-rumor/'
+imported_from: wordpress
 wp_original_id: 732
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/james-gunn-debunks-dave-bautista-brainiac-casting-rumor.webp
 seo:
-  canonical: "https://wtpop.com/james-gunn-debunks-dave-bautista-brainiac-casting-rumor/"
-  og_title: "James Gunn Debunks Dave Bautista Brainiac Casting Rumor - WTPOP"
-  og_description: "James Gunn, co-head of DC Studios, has confirmed that actor Dave Bautista will not be playing Brainiac in future DC projects, dispelling recent rumors. Gunn's proactive communication aims to manage fan expectations and maintain transparency in the entertainment industry."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/james-gunn-debunks-dave-bautista-brainiac-casting-rumor/'
+  og_title: James Gunn Debunks Dave Bautista Brainiac Casting Rumor - WTPOP
+  og_description: >-
+    James Gunn, co-head of DC Studios, has confirmed that actor Dave Bautista
+    will not be playing Brainiac in future DC projects, dispelling recent
+    rumors. Gunn's proactive communication aims to manage fan expectations and
+    maintain transparency in the entertainment industry.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written entertainment piece with strong keyword relevance and engaging tone, but falls short of optimal length at 540 words instead of the target 800-1200 range."
+quality_note: >-
+  Well-written entertainment piece with strong keyword relevance and engaging
+  tone, but falls short of optimal length at 540 words instead of the target
+  800-1200 range.
+image_alt: >-
+  A moody film studio desk suggests a superhero casting rumor being decisively
+  dismissed.
 ---
 
 In recent weeks, the entertainment industry has been buzzing with speculation about casting choices for the upcoming DC Universe projects. One of the most talked-about rumors involved actor Dave Bautista potentially taking on the role of Brainiac in a future DC film. However, director James Gunn, now co-head of DC Studios, has put these rumors to rest, affirming that there is no truth to the speculation.
