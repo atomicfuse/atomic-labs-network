@@ -1,27 +1,40 @@
 ---
-title: "Affordable Holiday Hosting and Decorating Tips from Wyse Guide"
-description: "Transform your home into a festive retreat by blending creativity and tradition. Explore decorating techniques, embrace natural elements, and utilize unexpected spaces to create a warm, inviting atmosphere that reflects the holiday spirit and showcases your personal style."
-type: "standard"
-status: "published"
-publishDate: "2025-11-20T10:19:33+00:00"
-author: "Taylor Winters"
+title: Affordable Holiday Hosting and Decorating Tips from Wyse Guide
+description: >-
+  Transform your home into a festive retreat by blending creativity and
+  tradition. Explore decorating techniques, embrace natural elements, and
+  utilize unexpected spaces to create a warm, inviting atmosphere that reflects
+  the holiday spirit and showcases your personal style.
+type: standard
+status: published
+publishDate: '2025-11-20T10:19:33+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "affordable-holiday-hosting-and-decorating-tips-from-wyse-guide"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: affordable-holiday-hosting-and-decorating-tips-from-wyse-guide
 reading_time: 3
-source_url: "https://decoratingmom.com/affordable-holiday-hosting-and-decorating-tips-from-wyse-guide/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/affordable-holiday-hosting-and-decorating-tips-from-wyse-guide/
+imported_from: wordpress
 wp_original_id: 35087
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/affordable-holiday-hosting-and-decorating-tips-from-wyse-guide.webp
 seo:
-  canonical: "https://decoratingmom.com/affordable-holiday-hosting-and-decorating-tips-from-wyse-guide/"
-  og_title: "Affordable Holiday Hosting and Decorating Tips from Wyse Guide - Decorating Mom"
-  og_description: "Transform your home into a festive retreat by blending creativity and tradition. Explore decorating techniques, embrace natural elements, and utilize unexpected spaces to create a warm, inviting atmosphere that reflects the holiday spirit and showcases your personal style."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2025/11/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/affordable-holiday-hosting-and-decorating-tips-from-wyse-guide/
+  og_title: >-
+    Affordable Holiday Hosting and Decorating Tips from Wyse Guide - Decorating
+    Mom
+  og_description: >-
+    Transform your home into a festive retreat by blending creativity and
+    tradition. Explore decorating techniques, embrace natural elements, and
+    utilize unexpected spaces to create a warm, inviting atmosphere that
+    reflects the holiday spirit and showcases your personal style.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2025/11/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -29,7 +42,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant content, but falls short on length (591 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with good tone and relevant content, but falls short on
+  length (591 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and meta description.
+image_alt: >-
+  Cozy holiday table with natural garland, candles, dried oranges, and simple
+  festive decor
 ---
 
 Transforming your home into a festive haven for the holidays is an exciting endeavor. With a blend of creativity and tradition, you can create a warm and inviting atmosphere that reflects the spirit of the season. Whether you are a seasoned decorator or a first-time holiday host, exploring various decorating techniques can inspire you to craft a magical environment that friends and family will cherish.
