@@ -1,26 +1,40 @@
 ---
-title: "Discover the Latest Casting Calls for Movies and TV Shows Across the US"
-description: "Casting for movies and TV shows is a dynamic, nationwide process providing opportunities for talents across the US, creating a platform for both seasoned actors and newcomers to showcase their abilities and potentially secure career-defining roles."
-type: "standard"
-status: "review"
-publishDate: "2025-04-24T10:02:25+00:00"
-author: "Taylor Winters"
+title: Discover the Latest Casting Calls for Movies and TV Shows Across the US
+description: >-
+  Casting for movies and TV shows is a dynamic, nationwide process providing
+  opportunities for talents across the US, creating a platform for both seasoned
+  actors and newcomers to showcase their abilities and potentially secure
+  career-defining roles.
+type: standard
+status: review
+publishDate: '2025-04-24T10:02:25+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-  - "Upcoming"
-slug: "discover-the-latest-casting-calls-for-movies-and-tv-shows-across-the-us"
+  - TV News
+  - TV Shows
+  - Upcoming
+slug: discover-the-latest-casting-calls-for-movies-and-tv-shows-across-the-us
 reading_time: 2
-source_url: "https://www.tvshowsmag.com/discover-the-latest-casting-calls-for-movies-and-tv-shows-across-the-us/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/discover-the-latest-casting-calls-for-movies-and-tv-shows-across-the-us/
+imported_from: wordpress
 wp_original_id: 28002
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-latest-casting-calls-for-movies-and-tv-shows-across-the-us.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/discover-the-latest-casting-calls-for-movies-and-tv-shows-across-the-us/"
-  og_title: "Discover the Latest Casting Calls for Movies and TV Shows Across the US - TV Shows Magazine"
-  og_description: "Casting for movies and TV shows is a dynamic, nationwide process providing opportunities for talents across the US. This essential part of the entertainment industry creates a platform for both seasoned actors and newcomers to showcase their abilities and potentially secure career-defining roles."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/discover-the-latest-casting-calls-for-movies-and-tv-shows-across-the-us/
+  og_title: >-
+    Discover the Latest Casting Calls for Movies and TV Shows Across the US - TV
+    Shows Magazine
+  og_description: >-
+    Casting for movies and TV shows is a dynamic, nationwide process providing
+    opportunities for talents across the US. This essential part of the
+    entertainment industry creates a platform for both seasoned actors and
+    newcomers to showcase their abilities and potentially secure career-defining
+    roles.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -28,7 +42,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "Article is too short and lacks specific TV show/entertainment focus, reading more like generic casting advice than entertainment news."
+quality_note: >-
+  Article is too short and lacks specific TV show/entertainment focus, reading
+  more like generic casting advice than entertainment news.
+image_alt: >-
+  Spotlit audition chair in a cinematic casting room with a softly blurred US
+  map behind it
 ---
 
 The casting process for movies and TV shows is a flurry of activity happening across the United States, with producers and directors scouring the country for the perfect actors to bring their scripts to life. This dynamic process sees auditions taking place in every corner of the nation, providing promising opportunities for both established actors and fresh faces.
