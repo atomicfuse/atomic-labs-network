@@ -1,25 +1,33 @@
 ---
-title: "San Francisco Casting Calls: Movies and TV Shows"
-description: "San Francisco's iconic landmarks and diverse settings make it a popular filming destination. The city's charm and supportive environment attract filmmakers, enhancing the local economy and ensuring its role in the film industry continues to grow."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T10:11:26+00:00"
-author: "Taylor Winters"
+title: 'San Francisco Casting Calls: Movies and TV Shows'
+description: >-
+  San Francisco's iconic landmarks and diverse settings make it a popular
+  filming destination. The city's charm and supportive environment attract
+  filmmakers, enhancing the local economy and ensuring its role in the film
+  industry continues to grow.
+type: standard
+status: review
+publishDate: '2026-01-29T10:11:26+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "san-francisco-casting-calls-movies-and-tv-shows"
+  - TV News
+  - TV Shows
+slug: san-francisco-casting-calls-movies-and-tv-shows
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/san-francisco-casting-calls-movies-and-tv-shows/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/san-francisco-casting-calls-movies-and-tv-shows/'
+imported_from: wordpress
 wp_original_id: 28169
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/san-francisco-casting-calls-movies-and-tv-shows.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/san-francisco-casting-calls-movies-and-tv-shows/"
-  og_title: "San Francisco Casting Calls: Movies and TV Shows - TV Shows Magazine"
-  og_description: "San Francisco's iconic landmarks and diverse settings make it a popular filming destination. The city's charm and supportive environment attract filmmakers, enhancing the local economy and ensuring its role in the film industry continues to grow."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/01/make_file-11.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/san-francisco-casting-calls-movies-and-tv-shows/'
+  og_title: 'San Francisco Casting Calls: Movies and TV Shows - TV Shows Magazine'
+  og_description: >-
+    San Francisco's iconic landmarks and diverse settings make it a popular
+    filming destination. The city's charm and supportive environment attract
+    filmmakers, enhancing the local economy and ensuring its role in the film
+    industry continues to grow.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/01/make_file-11.jpeg'
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 45
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "The article has decent tone and accuracy but falls short on SEO optimization, content length (518 words vs 800-1200 target), and lacks focus on the site's core TV/streaming content themes."
+quality_note: >-
+  The article has decent tone and accuracy but falls short on SEO optimization,
+  content length (518 words vs 800-1200 target), and lacks focus on the site's
+  core TV/streaming content themes.
+image_alt: >-
+  Actors and film crew gather on a San Francisco street at golden hour with the
+  bay in the distance.
 ---
 
 San Francisco, with its iconic landmarks and vibrant cultural backdrop, continues to be a popular filming destination for movies and TV shows. The city's unique charm and diverse settings offer filmmakers a dynamic palette to bring their stories to life. From bustling cityscapes to serene waterfronts, San Francisco is a treasure trove for directors and producers seeking that quintessential urban vibe.
