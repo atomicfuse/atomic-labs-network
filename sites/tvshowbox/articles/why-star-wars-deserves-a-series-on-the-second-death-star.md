@@ -1,25 +1,35 @@
 ---
-title: "Why Star Wars Deserves a Series on the Second Death Star"
-description: "The Star Wars universe continues to expand with the TV series Andor, a prequel to Rogue One, exploring Cassian Andor's early life, the complexities of rebellion, and moral dilemmas under the Galactic Empire, with fans eagerly anticipating the sequel."
-type: "standard"
-status: "review"
-publishDate: "2025-05-22T04:25:28+00:00"
-author: "Taylor Winters"
+title: Why Star Wars Deserves a Series on the Second Death Star
+description: >-
+  The Star Wars universe continues to expand with the TV series Andor, a prequel
+  to Rogue One, exploring Cassian Andor's early life, the complexities of
+  rebellion, and moral dilemmas under the Galactic Empire, with fans eagerly
+  anticipating the sequel.
+type: standard
+status: review
+publishDate: '2025-05-22T04:25:28+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "why-star-wars-deserves-a-series-on-the-second-death-star"
+  - TV News
+  - TV
+slug: why-star-wars-deserves-a-series-on-the-second-death-star
 reading_time: 4
-source_url: "https://tvshowbox.com/why-star-wars-deserves-a-series-on-the-second-death-star/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/why-star-wars-deserves-a-series-on-the-second-death-star/
+imported_from: wordpress
 wp_original_id: 23887
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/why-star-wars-deserves-a-series-on-the-second-death-star.webp
 seo:
-  canonical: "https://tvshowbox.com/why-star-wars-deserves-a-series-on-the-second-death-star/"
-  og_title: "Why Star Wars Deserves a Series on the Second Death Star - TV Show Box"
-  og_description: "The Star Wars universe continues to expand with the TV series Andor, a prequel to Rogue One. Set during the Galactic Empire, it explores Cassian Andor's early life, focusing on rebellion's complexities and moral dilemmas. Fans eagerly anticipate the sequel."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/why-star-wars-deserves-a-series-on-the-second-death-star/
+  og_title: Why Star Wars Deserves a Series on the Second Death Star - TV Show Box
+  og_description: >-
+    The Star Wars universe continues to expand with the TV series Andor, a
+    prequel to Rogue One. Set during the Galactic Empire, it explores Cassian
+    Andor's early life, focusing on rebellion's complexities and moral dilemmas.
+    Fans eagerly anticipate the sequel.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 45
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "The article has decent tone and factual accuracy but suffers from a misleading title that doesn't match the content about Andor, poor SEO optimization, and limited keyword coverage."
+quality_note: >-
+  The article has decent tone and factual accuracy but suffers from a misleading
+  title that doesn't match the content about Andor, poor SEO optimization, and
+  limited keyword coverage.
+image_alt: >-
+  Silhouetted rebels watch an unfinished battle station loom above a misty
+  forest moon.
 ---
 
 The Star Wars universe continues to expand, enchanting fans with its rich storytelling and iconic characters. The TV series Andor, a prequel to Rogue One: A Star Wars Story, has captivated audiences with its intricate plotlines and character development. As anticipation builds for the series' sequel, fans are eager to learn more about what lies ahead in this galaxy far, far away.
