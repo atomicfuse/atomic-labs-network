@@ -1,30 +1,39 @@
 ---
-title: "Energize Your Morning with a 15-Minute Yoga Flow for Beginners"
-description: "Start your day with a refreshing 15-minute yoga routine designed for beginners, featuring gentle stretches and calming breathwork."
-type: "standard"
-status: "review"
-publishDate: "2025-10-23T08:49:27+00:00"
-author: "Taylor Winters"
+title: Energize Your Morning with a 15-Minute Yoga Flow for Beginners
+description: >-
+  Start your day with a refreshing 15-minute yoga routine designed for
+  beginners, featuring gentle stretches and calming breathwork.
+type: standard
+status: review
+publishDate: '2025-10-23T08:49:27+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga For Beginners"
-slug: "energize-your-morning-with-a-15-minute-yoga-flow-for-beginners"
+  - Yoga Poses
+  - Lifestyle
+  - Mindfullness
+  - Yoga For Beginners
+slug: energize-your-morning-with-a-15-minute-yoga-flow-for-beginners
 reading_time: 2
-source_url: "https://yogaterritory.com/energize-your-morning-with-a-15-minute-yoga-flow-for-beginners/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/energize-your-morning-with-a-15-minute-yoga-flow-for-beginners/
+imported_from: wordpress
 wp_original_id: 20664
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/energize-your-morning-with-a-15-minute-yoga-flow-for-beginners.webp
 seo:
-  canonical: "https://yogaterritory.com/energize-your-morning-with-a-15-minute-yoga-flow-for-beginners/"
-  og_title: "Energize Your Morning with a 15-Minute Yoga Flow for Beginners - Yoga Territory"
-  og_description: "Start your day with a refreshing 15-minute yoga routine designed for beginners, featuring gentle stretches and calming breathwork."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/energize-your-morning-with-a-15-minute-yoga-flow-for-beginners/
+  og_title: >-
+    Energize Your Morning with a 15-Minute Yoga Flow for Beginners - Yoga
+    Territory
+  og_description: >-
+    Start your day with a refreshing 15-minute yoga routine designed for
+    beginners, featuring gentle stretches and calming breathwork.
+  twitter_card: summary_large_image
 videos:
-  - id: "e22f1b2d"
-    url: "https://www.youtube.com/watch?v=O2EY79Ys_qg"
-    position: "after-paragraph-2"
+  - id: e22f1b2d
+    url: 'https://www.youtube.com/watch?v=O2EY79Ys_qg'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -32,7 +41,11 @@ score_breakdown:
   content_length: 29
   factual_accuracy: 95
   keyword_relevance: 88
-quality_note: "While the tone and keyword relevance are strong, the article is significantly too short at 290 words compared to the 800-1200 word target, severely impacting its overall value."
+quality_note: >-
+  While the tone and keyword relevance are strong, the article is significantly
+  too short at 290 words compared to the 800-1200 word target, severely
+  impacting its overall value.
+image_alt: 'Person doing gentle morning yoga in a sunlit room with calm, airy decor'
 ---
 
 Starting your day with a structured routine can set a positive tone for the rest of it. One excellent way to kickstart your morning is with a 15-minute yoga flow. This beginner-friendly session is designed to awaken your body and mind, providing a fresh burst of energy to carry you through your daily tasks.
