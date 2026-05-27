@@ -20,7 +20,8 @@ source_url: >-
   https://www.vulture.com/article/top-chef-recap-season-23-episode-12-appalachian-celebration.html
 source_item_id: 6a152fda16f23264031d81fa
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: >-
+  /assets/images/top-chef-season-23-episode-12-appalachian-celebration-sieger-meltdown.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
   but significantly under target word count at 572 words instead of the 800-1200
   range.
 reading_time: 3
+image_alt: >-
+  Tense competition kitchen with Appalachian ingredients and chefs under
+  cinematic lighting.
 ---
 ## Top Chef Takes on Asheville's Culinary Heritage
 
