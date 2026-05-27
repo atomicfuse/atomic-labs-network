@@ -20,7 +20,7 @@ source_url: >-
   https://www.americanspa.com/awards-rankings/pure-barre-reintroduces-its-reform-class
 source_item_id: 6a13fc9f16f23264031d7b8b
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/pure-barre-reform-class-national-return.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   content length (509 words vs 800-1200 target) and could benefit from a more
   compelling title for SEO optimization.
 reading_time: 3
+image_alt: >-
+  Diverse fitness class practicing controlled resistance movements at a barre in
+  a bright studio
 ---
 ## Pure Barre Reform Returns to Studios Nationwide
 
