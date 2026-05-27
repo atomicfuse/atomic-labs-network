@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.thecut.com/article/lisa-rinna-not-voting-spencer-pratt.html'
 source_item_id: 6a152fda16f23264031d8200
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/lisa-rinna-spencer-pratt-mayor-campaign.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   contains questionable claims about endorsements and campaign details that
   appear fabricated.
 reading_time: 3
+image_alt: >-
+  Hollywood glamour props face a blank political podium, suggesting celebrity
+  tension in Los Angeles politics.
 ---
 ## Reality TV Star Takes Stand Against Celebrity Politics
 
