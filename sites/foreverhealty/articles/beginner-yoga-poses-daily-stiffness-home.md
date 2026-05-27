@@ -19,7 +19,7 @@ source_url: >-
   https://www.vogue.in/content/yoga-for-beginners-that-you-can-try-at-home-to-improve-flexibility
 source_item_id: 6a13fc9f16f23264031d7b8a
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/beginner-yoga-poses-daily-stiffness-home.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   550 words versus the 800-1200 range.
 reading_time: 3
+image_alt: >-
+  Person doing gentle yoga on a mat in a sunlit living room with a closed laptop
+  nearby.
 ---
 ## The Modern Flexibility Challenge
 
