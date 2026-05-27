@@ -1,26 +1,39 @@
 ---
-title: "Craving More of ‘The White Lotus?’ Discover Your Next Must-Watch Show Here"
-description: "If you enjoy the narrative and characters of 'White Lotus', this article suggests similar series including 'Big Little Lies', 'Succession', 'The Undoing', 'Dead to Me', and 'Sharp Objects', each offering captivating storytelling, social commentary, and intriguing drama."
-type: "standard"
-status: "review"
-publishDate: "2025-04-07T07:31:40+00:00"
-author: "Taylor Winters"
+title: Craving More of ‘The White Lotus?’ Discover Your Next Must-Watch Show Here
+description: >-
+  If you enjoy the narrative and characters of 'White Lotus', this article
+  suggests similar series including 'Big Little Lies', 'Succession', 'The
+  Undoing', 'Dead to Me', and 'Sharp Objects', each offering captivating
+  storytelling, social commentary, and intriguing drama.
+type: standard
+status: review
+publishDate: '2025-04-07T07:31:40+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-  - "TV"
-  - "Upcoming"
-slug: "craving-more-of-the-white-lotus-discover-your-next-must-watch-show-here"
+  - Reviews
+  - TV
+  - Upcoming
+slug: craving-more-of-the-white-lotus-discover-your-next-must-watch-show-here
 reading_time: 2
-source_url: "https://tvshowbox.com/craving-more-of-the-white-lotus-discover-your-next-must-watch-show-here/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/craving-more-of-the-white-lotus-discover-your-next-must-watch-show-here/
+imported_from: wordpress
 wp_original_id: 23819
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/craving-more-of-the-white-lotus-discover-your-next-must-watch-show-here.webp
 seo:
-  canonical: "https://tvshowbox.com/craving-more-of-the-white-lotus-discover-your-next-must-watch-show-here/"
-  og_title: "Craving More of 'The White Lotus?' Discover Your Next Must-Watch Show Here - TV Show Box"
-  og_description: "If you enjoy the narrative and characters of 'White Lotus', this article suggests similar series. These include 'Big Little Lies', 'Succession', 'The Undoing', 'Dead to Me', and 'Sharp Objects'. Each offers captivating storytelling, social commentary, and intriguing drama."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/04/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/craving-more-of-the-white-lotus-discover-your-next-must-watch-show-here/
+  og_title: >-
+    Craving More of 'The White Lotus?' Discover Your Next Must-Watch Show Here -
+    TV Show Box
+  og_description: >-
+    If you enjoy the narrative and characters of 'White Lotus', this article
+    suggests similar series. These include 'Big Little Lies', 'Succession', 'The
+    Undoing', 'Dead to Me', and 'Sharp Objects'. Each offers captivating
+    storytelling, social commentary, and intriguing drama.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/04/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "While the tone and recommendations are solid, the article falls significantly short of the target word count at only 354 words, which severely impacts its overall quality and SEO potential."
+quality_note: >-
+  While the tone and recommendations are solid, the article falls significantly
+  short of the target word count at only 354 words, which severely impacts its
+  overall quality and SEO potential.
+image_alt: >-
+  Luxurious twilight resort lounge with mysterious glowing doorways hinting at
+  prestige drama series
 ---
 
 If you've been captivated by the engaging narrative and complex characters of *White Lotus* and you're on the hunt for shows with a similar vibe, this article will guide you through some compelling alternatives. We have compiled a list of series that share the same mix of satire, social commentary, and captivating storytelling as *White Lotus*.
