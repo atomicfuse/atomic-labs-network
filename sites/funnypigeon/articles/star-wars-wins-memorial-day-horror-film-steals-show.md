@@ -21,7 +21,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/weekend-box-office-the-mandalorian-and-grogu/
 source_item_id: 6a151ac216f23264031d80f0
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/star-wars-wins-memorial-day-horror-film-steals-show.webp
 quality_score: 44
 score_breakdown:
   seo_quality: 25
@@ -33,6 +33,9 @@ quality_note: >-
   The article fabricates specific films and box office data that don't exist,
   severely compromising factual accuracy despite decent tone and structure.
 reading_time: 3
+image_alt: >-
+  A moody theater scene where a small horror setup outshines a distant sci-fi
+  spectacle.
 ---
 ## Star Wars Takes the Top Spot but Shows Concerning Signs
 
