@@ -1,25 +1,39 @@
 ---
-title: "Philippines Establishes Office to Boost Coffee Industry Growth"
-description: "The Philippines is enhancing its coffee industry with a new dedicated office, aiming to boost production, improve market access, and empower local farmers. This initiative reflects the government's commitment to revitalizing a crucial sector for rural communities and the national economy."
-type: "standard"
-status: "published"
-publishDate: "2026-02-23T09:15:31+00:00"
-author: "Taylor Winters"
+title: Philippines Establishes Office to Boost Coffee Industry Growth
+description: >-
+  The Philippines is enhancing its coffee industry with a new dedicated office,
+  aiming to boost production, improve market access, and empower local farmers.
+  This initiative reflects the government's commitment to revitalizing a crucial
+  sector for rural communities and the national economy.
+type: standard
+status: published
+publishDate: '2026-02-23T09:15:31+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "philippines-establishes-office-to-boost-coffee-industry-growth"
+  - Coffee News
+  - News
+slug: philippines-establishes-office-to-boost-coffee-industry-growth
 reading_time: 3
-source_url: "https://coffeeactually.com/philippines-establishes-office-to-boost-coffee-industry-growth/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/philippines-establishes-office-to-boost-coffee-industry-growth/
+imported_from: wordpress
 wp_original_id: 51406
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/philippines-establishes-office-to-boost-coffee-industry-growth.webp
 seo:
-  canonical: "https://coffeeactually.com/philippines-establishes-office-to-boost-coffee-industry-growth/"
-  og_title: "Philippines Establishes Office to Boost Coffee Industry Growth - Coffee Actually"
-  og_description: "The Philippines is enhancing its coffee industry with a new dedicated office, aiming to boost production, improve market access, and empower local farmers. This initiative reflects the government's commitment to revitalizing a crucial sector for rural communities and the national economy."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/02/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/philippines-establishes-office-to-boost-coffee-industry-growth/
+  og_title: >-
+    Philippines Establishes Office to Boost Coffee Industry Growth - Coffee
+    Actually
+  og_description: >-
+    The Philippines is enhancing its coffee industry with a new dedicated
+    office, aiming to boost production, improve market access, and empower local
+    farmers. This initiative reflects the government's commitment to
+    revitalizing a crucial sector for rural communities and the national
+    economy.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/02/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written coffee news article with good tone and relevance, but falls short of target word count at 526 words and could benefit from stronger SEO optimization in title length and meta description."
+quality_note: >-
+  Well-written coffee news article with good tone and relevance, but falls short
+  of target word count at 526 words and could benefit from stronger SEO
+  optimization in title length and meta description.
+image_alt: >-
+  Filipino coffee farmer holding coffee cherries with a plantation and modern
+  office backdrop
 ---
 
 The Philippines is making significant strides to boost its coffee industry, propelled by the government's plans to establish a dedicated office for the sector. This initiative aims to bolster the nation's coffee production capabilities and enhance international competitiveness, reflecting the growing importance of coffee in the country's agricultural landscape.
