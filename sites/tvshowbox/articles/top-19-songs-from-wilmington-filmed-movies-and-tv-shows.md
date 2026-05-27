@@ -1,25 +1,36 @@
 ---
-title: "Top 19 Songs from Wilmington-Filmed Movies and TV Shows"
-description: "Wilmington, North Carolina, is a renowned filming location known for its stunning landscapes and vibrant culture, inspiring iconic soundtracks that enhance films and TV shows. Its scenic beauty and unique atmosphere create an immersive experience, influencing music trends and fostering creative collaborations."
-type: "standard"
-status: "review"
-publishDate: "2026-03-12T09:41:21+00:00"
-author: "Taylor Winters"
+title: Top 19 Songs from Wilmington-Filmed Movies and TV Shows
+description: >-
+  Wilmington, North Carolina, is a renowned filming location known for its
+  stunning landscapes and vibrant culture, inspiring iconic soundtracks that
+  enhance films and TV shows. Its scenic beauty and unique atmosphere create an
+  immersive experience, influencing music trends and fostering creative
+  collaborations.
+type: standard
+status: review
+publishDate: '2026-03-12T09:41:21+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "top-19-songs-from-wilmington-filmed-movies-and-tv-shows"
+  - TV News
+  - TV
+slug: top-19-songs-from-wilmington-filmed-movies-and-tv-shows
 reading_time: 3
-source_url: "https://tvshowbox.com/top-19-songs-from-wilmington-filmed-movies-and-tv-shows/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/top-19-songs-from-wilmington-filmed-movies-and-tv-shows/'
+imported_from: wordpress
 wp_original_id: 24086
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/top-19-songs-from-wilmington-filmed-movies-and-tv-shows.webp
 seo:
-  canonical: "https://tvshowbox.com/top-19-songs-from-wilmington-filmed-movies-and-tv-shows/"
-  og_title: "Top 19 Songs from Wilmington-Filmed Movies and TV Shows - TV Show Box"
-  og_description: "Wilmington, North Carolina, is a renowned filming location known for its stunning landscapes and vibrant culture, inspiring iconic soundtracks that enhance films and TV shows. Its scenic beauty and unique atmosphere create an immersive experience, influencing music trends and fostering creative collaborations."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/03/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/top-19-songs-from-wilmington-filmed-movies-and-tv-shows/
+  og_title: Top 19 Songs from Wilmington-Filmed Movies and TV Shows - TV Show Box
+  og_description: >-
+    Wilmington, North Carolina, is a renowned filming location known for its
+    stunning landscapes and vibrant culture, inspiring iconic soundtracks that
+    enhance films and TV shows. Its scenic beauty and unique atmosphere create
+    an immersive experience, influencing music trends and fostering creative
+    collaborations.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/03/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 61
 score_breakdown:
   seo_quality: 65
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 40
   keyword_relevance: 70
-quality_note: "The article has good tone and structure but falls short on content length, lacks the promised 19 songs list, and makes vague claims without specific evidence."
+quality_note: >-
+  The article has good tone and structure but falls short on content length,
+  lacks the promised 19 songs list, and makes vague claims without specific
+  evidence.
+image_alt: >-
+  Cinematic Wilmington riverfront scene blending coastal atmosphere with film
+  and music motifs
 ---
 
 Wilmington, North Carolina, has long been a captivating backdrop for the film and television industry, known for its picturesque landscapes and vibrant cultural scene. This charming coastal city has not only provided stunning visuals but also served as an inspiration for numerous iconic soundtracks that have become synonymous with the entertainment projects filmed here. From classic hits to contemporary tunes, Wilmington's influence on music in visual media is both significant and enduring.
