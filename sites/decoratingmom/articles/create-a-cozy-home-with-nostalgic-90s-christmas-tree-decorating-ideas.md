@@ -2,7 +2,7 @@
 title: "Create a Cozy Home with Nostalgic 90s Christmas Tree Decorating Ideas"
 description: "Discover nostalgic 90s Christmas tree decorating ideas to create a cozy and inviting holiday atmosphere in your home."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-11-10T10:07:20+00:00"
 author: "Taylor Winters"
 tags:

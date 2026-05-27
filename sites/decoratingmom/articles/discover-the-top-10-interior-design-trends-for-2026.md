@@ -2,7 +2,7 @@
 title: "Discover the Top 10 Interior Design Trends for 2026"
 description: "Explore the latest interior design and home decor trends for 2026 with expert insights from renowned interior designer Kristen McGowan, covering everything from kitchens and bathrooms to color, furniture, and decor."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-19T10:01:26+00:00"
 author: "Taylor Winters"
 tags:

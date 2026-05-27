@@ -2,7 +2,7 @@
 title: "Top 7 British Decor Trends Designers Adore"
 description: "Transform your living room into a cozy retreat by following expert tips from British designers. Combine textures, colors, lighting, and personal touches to create a harmonious and inviting environment that reflects your unique personality and ensures functionality."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-11-27T10:09:35+00:00"
 author: "Taylor Winters"
 tags:

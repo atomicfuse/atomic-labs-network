@@ -5,7 +5,7 @@ description: >-
   episode than a must-see theatrical experience, raising questions about
   franchise...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

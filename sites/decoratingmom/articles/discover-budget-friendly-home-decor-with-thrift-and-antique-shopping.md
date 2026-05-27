@@ -2,7 +2,7 @@
 title: "Discover Budget-Friendly Home Decor with Thrift and Antique Shopping"
 description: "Explore Nashville's consignment and antique stores for unique, budget-friendly home decor pieces with interior designer Kristen McGowan."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-05T10:03:23+00:00"
 author: "Taylor Winters"
 tags:

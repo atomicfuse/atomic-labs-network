@@ -2,7 +2,7 @@
 title: "Transform Your Coffee Station: Minimalist Kitchen Decor Ideas for 2026"
 description: "Discover how to clean and redecorate your coffee station with minimal, neutral touches to welcome the new year."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-22T10:09:21+00:00"
 author: "Taylor Winters"
 tags:

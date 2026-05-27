@@ -2,7 +2,7 @@
 title: "Expert Tips for Adding 1970s Decor to Your 2026 Home"
 description: "The 1970s' bold colors, eclectic patterns, and unique textures are making a comeback by 2026, driven by renewed appreciation for individuality and vibrancy. This era's rich colors, natural materials, and functional furniture continue to influence modern home design trends."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-16T09:59:34+00:00"
 author: "Taylor Winters"
 tags:

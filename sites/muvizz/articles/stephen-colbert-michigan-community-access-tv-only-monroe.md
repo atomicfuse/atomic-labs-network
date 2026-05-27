@@ -4,7 +4,7 @@ description: >-
   Just 24 hours after his final Late Show episode, Stephen Colbert resurfaced on
   Michigan's 'Only in Monroe' with Jack White, Jeff Daniels, and other stars.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Julia Parker
 tags:

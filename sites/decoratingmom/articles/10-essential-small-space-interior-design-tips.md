@@ -2,7 +2,7 @@
 title: "10 Essential Small Space Interior Design Tips"
 description: "Discover ten expert interior design secrets from designer Kristen McGowan to make your small space feel larger and more inviting."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-02T11:08:41+00:00"
 author: "Taylor Winters"
 tags:

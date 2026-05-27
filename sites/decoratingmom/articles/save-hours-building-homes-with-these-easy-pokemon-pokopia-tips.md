@@ -2,7 +2,7 @@
 title: "Save Hours Building Homes with These Easy Pokemon Pokopia Tips"
 description: "Pokopia, the latest Pokémon game, introduces user-friendly gameplay and home-building features, appealing to both veteran and new players. With a focus on creativity and community interaction, it offers an engaging and dynamic experience for Pokémon enthusiasts worldwide."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-12T10:03:23+00:00"
 author: "Taylor Winters"
 tags:

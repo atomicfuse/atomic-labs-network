@@ -2,7 +2,7 @@
 title: "Budget-Friendly Spring Front Porch Decor Ideas for 2026"
 description: "Transform your porch this spring with budget-friendly and stylish decor ideas. Discover easy ways to refresh your outdoor space using neutral tones and cozy textures."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-23T10:15:30+00:00"
 author: "Taylor Winters"
 tags:

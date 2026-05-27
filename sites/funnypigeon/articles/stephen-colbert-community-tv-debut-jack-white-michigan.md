@@ -5,7 +5,7 @@ description: >-
   Michigan community access show 'Only in Monroe' alongside Jack White and
   other...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:
