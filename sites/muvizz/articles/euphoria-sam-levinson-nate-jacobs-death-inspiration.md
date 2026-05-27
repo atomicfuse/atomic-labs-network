@@ -21,7 +21,7 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/sam-levinson-reveals-inspiration-for-shocking-euphoria-death/
 source_item_id: 6a151f7416f23264031d811e
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/euphoria-sam-levinson-nate-jacobs-death-inspiration.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong tone and keyword relevance but severely undermined by apparent
   fabrication of major plot events and inadequate length for target audience.
 reading_time: 3
+image_alt: >-
+  A shadowy coffin-like chamber with an air pipe and a rattlesnake silhouette
+  under neon light.
 ---
 ## The Shocking Death That Has Everyone Talking
 
