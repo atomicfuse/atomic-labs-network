@@ -1,30 +1,41 @@
 ---
-title: "What Not to Buy at Hobby Lobby for an Expensive-Looking Home"
-description: "Learn how to shop Hobby Lobby with a more elevated eye by avoiding clutter traps, dated decor trends, and budget finds that can keep your home from feeling calm, timeless, and designer inspired."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:55:41+00:00"
-author: "Taylor Winters"
+title: What Not to Buy at Hobby Lobby for an Expensive-Looking Home
+description: >-
+  Learn how to shop Hobby Lobby with a more elevated eye by avoiding clutter
+  traps, dated decor trends, and budget finds that can keep your home from
+  feeling calm, timeless, and designer inspired.
+type: standard
+status: published
+publishDate: '2026-05-18T08:55:41+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Budget"
-  - "Ideas"
-  - "Tips"
-slug: "what-not-to-buy-at-hobby-lobby-for-an-expensive-looking-home"
+  - Decor Ideas
+  - Budget
+  - Ideas
+  - Tips
+slug: what-not-to-buy-at-hobby-lobby-for-an-expensive-looking-home
 reading_time: 5
-source_url: "https://decoratingmom.com/what-not-to-buy-at-hobby-lobby-for-an-expensive-looking-home/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/what-not-to-buy-at-hobby-lobby-for-an-expensive-looking-home/
+imported_from: wordpress
 wp_original_id: 35166
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/what-not-to-buy-at-hobby-lobby-for-an-expensive-looking-home.webp
 seo:
-  canonical: "https://decoratingmom.com/what-not-to-buy-at-hobby-lobby-for-an-expensive-looking-home/"
-  og_title: "What Not to Buy at Hobby Lobby for an Expensive-Looking Home - Decorating Mom"
-  og_description: "Learn how to shop Hobby Lobby with a more elevated eye by avoiding clutter traps, dated decor trends, and budget finds that can keep your home from feeling calm, timeless, and designer inspired."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/what-not-to-buy-at-hobby-lobby-for-an-expensive-looking-home/
+  og_title: >-
+    What Not to Buy at Hobby Lobby for an Expensive-Looking Home - Decorating
+    Mom
+  og_description: >-
+    Learn how to shop Hobby Lobby with a more elevated eye by avoiding clutter
+    traps, dated decor trends, and budget finds that can keep your home from
+    feeling calm, timeless, and designer inspired.
+  twitter_card: summary_large_image
 videos:
-  - id: "9be8becf"
-    url: "https://www.youtube.com/watch?v=RCiPhcwGYrI"
-    position: "after-paragraph-2"
+  - id: 9be8becf
+    url: 'https://www.youtube.com/watch?v=RCiPhcwGYrI'
+    position: after-paragraph-2
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -32,7 +43,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, though the title could be more specific about what items to avoid and the SEO structure needs improvement."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, though the title
+  could be more specific about what items to avoid and the SEO structure needs
+  improvement.
+image_alt: >-
+  Calm neutral living room vignette with blurred cluttered decor in the
+  foreground
 ---
 
 Shopping at Hobby Lobby can be exciting when you love home decorating, neutral decor, cozy spaces, and budget-friendly finds. The challenge is not finding enough options; it is knowing what to leave behind so your home feels more high-end, calm, timeless, and expensive without overspending.
