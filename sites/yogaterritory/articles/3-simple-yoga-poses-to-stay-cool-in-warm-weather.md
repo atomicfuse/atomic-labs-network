@@ -1,27 +1,35 @@
 ---
-title: "3 Simple Yoga Poses to Stay Cool in Warm Weather"
-description: "Practicing yoga can help manage stress and enhance physical well-being. Explore simple poses like Mountain Pose, Forward Bend, and Cat-Cow Stretch to feel refreshed and incorporate them into your routine for improved flexibility, balance, and mental clarity."
-type: "standard"
-status: "published"
-publishDate: "2025-05-05T05:41:28+00:00"
-author: "Taylor Winters"
+title: 3 Simple Yoga Poses to Stay Cool in Warm Weather
+description: >-
+  Practicing yoga can help manage stress and enhance physical well-being.
+  Explore simple poses like Mountain Pose, Forward Bend, and Cat-Cow Stretch to
+  feel refreshed and incorporate them into your routine for improved
+  flexibility, balance, and mental clarity.
+type: standard
+status: published
+publishDate: '2025-05-05T05:41:28+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Beginners"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "3-simple-yoga-poses-to-stay-cool-in-warm-weather"
+  - Yoga Poses
+  - Yoga For Beginners
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: 3-simple-yoga-poses-to-stay-cool-in-warm-weather
 reading_time: 3
-source_url: "https://yogaterritory.com/3-simple-yoga-poses-to-stay-cool-in-warm-weather/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/3-simple-yoga-poses-to-stay-cool-in-warm-weather/'
+imported_from: wordpress
 wp_original_id: 20608
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/3-simple-yoga-poses-to-stay-cool-in-warm-weather.webp
 seo:
-  canonical: "https://yogaterritory.com/3-simple-yoga-poses-to-stay-cool-in-warm-weather/"
-  og_title: "3 Simple Yoga Poses to Stay Cool in Warm Weather - Yoga Territory"
-  og_description: "Practicing yoga can help manage stress and enhance physical well-being. Explore simple poses like Mountain Pose, Forward Bend, and Cat-Cow Stretch to feel refreshed. Incorporating these into your routine offers flexibility, balance, and mental clarity, fostering personal growth."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/3-simple-yoga-poses-to-stay-cool-in-warm-weather/'
+  og_title: 3 Simple Yoga Poses to Stay Cool in Warm Weather - Yoga Territory
+  og_description: >-
+    Practicing yoga can help manage stress and enhance physical well-being.
+    Explore simple poses like Mountain Pose, Forward Bend, and Cat-Cow Stretch
+    to feel refreshed. Incorporating these into your routine offers flexibility,
+    balance, and mental clarity, fostering personal growth.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,13 @@ score_breakdown:
   content_length: 47
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and accuracy but falls significantly short of the target word count at only 474 words, which heavily impacts the overall quality score."
+quality_note: >-
+  The article has good tone and accuracy but falls significantly short of the
+  target word count at only 474 words, which heavily impacts the overall quality
+  score.
+image_alt: >-
+  Person practicing yoga in a bright airy room with soft sunlight and calming
+  summer tones.
 ---
 
 Practicing yoga not only helps manage stress but also enhances physical well-being. Let's explore three simple yoga poses that can help you feel refreshed and revitalized.
