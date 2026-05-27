@@ -1,27 +1,39 @@
 ---
-title: "Healthy Habits Reduce Risk of Stroke, Dementia, Depression"
-description: "Understanding how lifestyle choices impact telomere length can promote healthy aging. Regular exercise, a balanced diet, and stress management contribute to longer telomeres, reducing the risk of age-related diseases like dementia and depression, enhancing overall well-being."
-type: "standard"
-status: "published"
-publishDate: "2025-06-12T04:03:57+00:00"
-author: "Taylor Winters"
+title: 'Healthy Habits Reduce Risk of Stroke, Dementia, Depression'
+description: >-
+  Understanding how lifestyle choices impact telomere length can promote healthy
+  aging. Regular exercise, a balanced diet, and stress management contribute to
+  longer telomeres, reducing the risk of age-related diseases like dementia and
+  depression, enhancing overall well-being.
+type: standard
+status: published
+publishDate: '2025-06-12T04:03:57+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Aging"
-  - "Health, Fitness &amp; Food"
-  - "Mental Health"
-slug: "healthy-habits-reduce-risk-of-stroke-dementia-depression"
+  - Health News
+  - Aging
+  - 'Health, Fitness &amp; Food'
+  - Mental Health
+slug: healthy-habits-reduce-risk-of-stroke-dementia-depression
 reading_time: 3
-source_url: "https://medicalnewscorner.com/healthy-habits-reduce-risk-of-stroke-dementia-depression/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/healthy-habits-reduce-risk-of-stroke-dementia-depression/
+imported_from: wordpress
 wp_original_id: 24675
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/healthy-habits-reduce-risk-of-stroke-dementia-depression.webp
 seo:
-  canonical: "https://medicalnewscorner.com/healthy-habits-reduce-risk-of-stroke-dementia-depression/"
-  og_title: "Healthy Habits Reduce Risk of Stroke, Dementia, Depression - Medical News Corner"
-  og_description: "Understanding how lifestyle choices impact telomere length can promote healthy aging. Regular exercise, a balanced diet, and stress management contribute to longer telomeres, reducing the risk of age-related diseases like dementia and depression, enhancing overall well-being."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/06/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/healthy-habits-reduce-risk-of-stroke-dementia-depression/
+  og_title: >-
+    Healthy Habits Reduce Risk of Stroke, Dementia, Depression - Medical News
+    Corner
+  og_description: >-
+    Understanding how lifestyle choices impact telomere length can promote
+    healthy aging. Regular exercise, a balanced diet, and stress management
+    contribute to longer telomeres, reducing the risk of age-related diseases
+    like dementia and depression, enhancing overall well-being.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/06/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -29,7 +41,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and relevant health content, but significantly under the target word count which limits its SEO potential and depth of coverage."
+quality_note: >-
+  Well-written article with good tone and relevant health content, but
+  significantly under the target word count which limits its SEO potential and
+  depth of coverage.
+image_alt: >-
+  Older adult walking in a sunny park with a subtle glowing DNA strand
+  suggesting healthy aging.
 ---
 
 Understanding the factors that influence our health as we age is critical in today's world. Recent research highlights how adopting a healthy lifestyle can mitigate the risks associated with conditions like dementia, stroke, and depression. These findings offer fresh insights into how telomere length—often a marker of biological aging—interacts with lifestyle choices to impact overall health.
