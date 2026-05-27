@@ -23,7 +23,8 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/sam-levinson-reveals-inspiration-for-shocking-euphoria-death/
 source_item_id: 6a151f7416f23264031d811e
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: >-
+  /assets/images/euphoria-creator-reveals-disturbing-inspiration-nates-death.webp
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -36,6 +37,9 @@ quality_note: >-
   completely fabricated information about Euphoria season 3 and Nate's death,
   which severely damages credibility.
 reading_time: 3
+image_alt: >-
+  A shadow of a rattlesnake falls across a dim chamber with a sealed air pipe
+  and coffin-like box.
 ---
 ## The Shocking Scene That Has Everyone Talking
 
