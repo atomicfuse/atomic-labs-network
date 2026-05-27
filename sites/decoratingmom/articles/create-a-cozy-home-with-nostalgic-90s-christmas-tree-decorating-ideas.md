@@ -1,30 +1,39 @@
 ---
-title: "Create a Cozy Home with Nostalgic 90s Christmas Tree Decorating Ideas"
-description: "Discover nostalgic 90s Christmas tree decorating ideas to create a cozy and inviting holiday atmosphere in your home."
-type: "standard"
-status: "review"
-publishDate: "2025-11-10T10:07:20+00:00"
-author: "Taylor Winters"
+title: Create a Cozy Home with Nostalgic 90s Christmas Tree Decorating Ideas
+description: >-
+  Discover nostalgic 90s Christmas tree decorating ideas to create a cozy and
+  inviting holiday atmosphere in your home.
+type: standard
+status: review
+publishDate: '2025-11-10T10:07:20+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "create-a-cozy-home-with-nostalgic-90s-christmas-tree-decorating-ideas"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: create-a-cozy-home-with-nostalgic-90s-christmas-tree-decorating-ideas
 reading_time: 2
-source_url: "https://decoratingmom.com/create-a-cozy-home-with-nostalgic-90s-christmas-tree-decorating-ideas/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/create-a-cozy-home-with-nostalgic-90s-christmas-tree-decorating-ideas/
+imported_from: wordpress
 wp_original_id: 35081
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/create-a-cozy-home-with-nostalgic-90s-christmas-tree-decorating-ideas.webp
 seo:
-  canonical: "https://decoratingmom.com/create-a-cozy-home-with-nostalgic-90s-christmas-tree-decorating-ideas/"
-  og_title: "Create a Cozy Home with Nostalgic 90s Christmas Tree Decorating Ideas - Decorating Mom"
-  og_description: "Discover nostalgic 90s Christmas tree decorating ideas to create a cozy and inviting holiday atmosphere in your home."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/create-a-cozy-home-with-nostalgic-90s-christmas-tree-decorating-ideas/
+  og_title: >-
+    Create a Cozy Home with Nostalgic 90s Christmas Tree Decorating Ideas -
+    Decorating Mom
+  og_description: >-
+    Discover nostalgic 90s Christmas tree decorating ideas to create a cozy and
+    inviting holiday atmosphere in your home.
+  twitter_card: summary_large_image
 videos:
-  - id: "91b04e05"
-    url: "https://www.youtube.com/watch?v=b676u_oFhy8"
-    position: "after-paragraph-2"
+  - id: 91b04e05
+    url: 'https://www.youtube.com/watch?v=b676u_oFhy8'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -32,7 +41,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and relevance but is severely penalized for being only 330 words, well below the 800-1200 word target range."
+quality_note: >-
+  The article has good tone and relevance but is severely penalized for being
+  only 330 words, well below the 800-1200 word target range.
+image_alt: >-
+  Cozy living room with a nostalgic 90s-style Christmas tree glowing with
+  colorful lights and vintage ornaments.
 ---
 
 The holiday season is upon us, and what better way to welcome it than by decorating a Christmas tree that brings back the warmth and charm of the 90s? Join me as I transform my living space into a festive wonderland with nostalgic 90s Christmas decorations. This year, it's all about creating a cozy and sentimental atmosphere that captures the magic of Christmas.
