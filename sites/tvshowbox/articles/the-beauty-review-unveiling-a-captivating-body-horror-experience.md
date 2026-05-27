@@ -1,25 +1,38 @@
 ---
-title: "The Beauty Review: Unveiling a Captivating Body Horror Experience"
-description: "Ryan Murphy's \"The Beauty\" on Disney+ explores societal beauty standards through body horror, blending dramatic storytelling with thought-provoking themes. The series captivates with stunning visuals and a talented cast, challenging perceptions of identity and self-worth in modern society."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T09:39:34+00:00"
-author: "Taylor Winters"
+title: 'The Beauty Review: Unveiling a Captivating Body Horror Experience'
+description: >-
+  Ryan Murphy's "The Beauty" on Disney+ explores societal beauty standards
+  through body horror, blending dramatic storytelling with thought-provoking
+  themes. The series captivates with stunning visuals and a talented cast,
+  challenging perceptions of identity and self-worth in modern society.
+type: standard
+status: review
+publishDate: '2026-01-22T09:39:34+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "the-beauty-review-unveiling-a-captivating-body-horror-experience"
+  - TV News
+  - TV
+slug: the-beauty-review-unveiling-a-captivating-body-horror-experience
 reading_time: 3
-source_url: "https://tvshowbox.com/the-beauty-review-unveiling-a-captivating-body-horror-experience/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/the-beauty-review-unveiling-a-captivating-body-horror-experience/
+imported_from: wordpress
 wp_original_id: 24056
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/the-beauty-review-unveiling-a-captivating-body-horror-experience.webp
 seo:
-  canonical: "https://tvshowbox.com/the-beauty-review-unveiling-a-captivating-body-horror-experience/"
-  og_title: "The Beauty Review: Unveiling a Captivating Body Horror Experience - TV Show Box"
-  og_description: "Ryan Murphy's \"The Beauty\" on Disney+ explores societal beauty standards through body horror, blending dramatic storytelling with thought-provoking themes. The series captivates with stunning visuals and a talented cast, challenging perceptions of identity and self-worth in modern society."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/01/make_file-2.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/the-beauty-review-unveiling-a-captivating-body-horror-experience/
+  og_title: >-
+    The Beauty Review: Unveiling a Captivating Body Horror Experience - TV Show
+    Box
+  og_description: >-
+    Ryan Murphy's "The Beauty" on Disney+ explores societal beauty standards
+    through body horror, blending dramatic storytelling with thought-provoking
+    themes. The series captivates with stunning visuals and a talented cast,
+    challenging perceptions of identity and self-worth in modern society.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/01/make_file-2.html'
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,14 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "While the article demonstrates good tone and covers relevant TV topics, it appears to be entirely fabricated as there is no actual Ryan Murphy series called 'The Beauty' on Disney+, and the short word count significantly impacts its value."
+quality_note: >-
+  While the article demonstrates good tone and covers relevant TV topics, it
+  appears to be entirely fabricated as there is no actual Ryan Murphy series
+  called 'The Beauty' on Disney+, and the short word count significantly impacts
+  its value.
+image_alt: >-
+  A glamorous vanity mirror cracks as beauty objects take on an unsettling body
+  horror atmosphere.
 ---
 
 In a groundbreaking move, Ryan Murphy delves into the realm of body horror with his latest creation, "The Beauty." This daring series premiered on Disney+, showcasing Murphy's signature flair for the dramatic and the macabre. Known for pushing boundaries, Murphy's new show explores the depths of societal beauty standards through a lens that is both chilling and thought-provoking.
