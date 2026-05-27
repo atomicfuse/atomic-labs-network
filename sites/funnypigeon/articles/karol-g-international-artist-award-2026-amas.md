@@ -22,7 +22,7 @@ source_url: >-
   https://people.com/amas-2026-karol-g-honored-international-artist-award-of-excellence-11977891
 source_item_id: 6a151f7316f23264031d8107
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/karol-g-international-artist-award-2026-amas.webp
 quality_score: 32
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   date), is too short for target length, lacks entertainment focus, and has poor
   SEO optimization with a generic title and missing meta description.
 reading_time: 2
+image_alt: >-
+  Latin pop performer holds a crystal award under warm stage lights before a
+  blurred audience.
 ---
 ## Karol G Honored with Prestigious International Award
 
