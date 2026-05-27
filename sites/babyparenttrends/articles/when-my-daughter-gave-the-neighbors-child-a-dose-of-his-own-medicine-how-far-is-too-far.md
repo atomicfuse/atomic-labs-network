@@ -1,26 +1,42 @@
 ---
-title: "When My Daughter Gave the Neighbor’s Child a Dose of His Own Medicine: How Far is Too Far?"
-description: "Parents often feel helpless when their child's friendship with a neighbor turns sour. This article offers guidance on navigating the situation delicately, teaching valuable life lessons, and respecting everyone's boundaries."
-type: "standard"
-status: "published"
-publishDate: "2025-04-14T08:46:46+00:00"
-author: "Taylor Winters"
+title: >-
+  When My Daughter Gave the Neighbor’s Child a Dose of His Own Medicine: How Far
+  is Too Far?
+description: >-
+  Parents often feel helpless when their child's friendship with a neighbor
+  turns sour. This article offers guidance on navigating the situation
+  delicately, teaching valuable life lessons, and respecting everyone's
+  boundaries.
+type: standard
+status: published
+publishDate: '2025-04-14T08:46:46+00:00'
+author: Taylor Winters
 tags:
-  - "Children's Health"
-  - "Kids"
-  - "Parents"
-slug: "when-my-daughter-gave-the-neighbors-child-a-dose-of-his-own-medicine-how-far-is-too-far"
+  - Children's Health
+  - Kids
+  - Parents
+slug: >-
+  when-my-daughter-gave-the-neighbors-child-a-dose-of-his-own-medicine-how-far-is-too-far
 reading_time: 3
-source_url: "https://babyparenttrends.com/when-my-daughter-gave-the-neighbors-child-a-dose-of-his-own-medicine-how-far-is-too-far/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/when-my-daughter-gave-the-neighbors-child-a-dose-of-his-own-medicine-how-far-is-too-far/
+imported_from: wordpress
 wp_original_id: 17652
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/when-my-daughter-gave-the-neighbors-child-a-dose-of-his-own-medicine-how-far-is-too-far.webp
 seo:
-  canonical: "https://babyparenttrends.com/when-my-daughter-gave-the-neighbors-child-a-dose-of-his-own-medicine-how-far-is-too-far/"
-  og_title: "When My Daughter Gave the Neighbor's Child a Dose of His Own Medicine: How Far is Too Far? - Baby Parent Trends"
-  og_description: "Parents often feel helpless when their child's friendship with a neighbor turns sour. It's essential to navigate this delicately, understanding both sides. Use this as a chance to teach your child important life lessons and coping mechanisms, while respecting your neighbor's parenting boundaries."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/when-my-daughter-gave-the-neighbors-child-a-dose-of-his-own-medicine-how-far-is-too-far/
+  og_title: >-
+    When My Daughter Gave the Neighbor's Child a Dose of His Own Medicine: How
+    Far is Too Far? - Baby Parent Trends
+  og_description: >-
+    Parents often feel helpless when their child's friendship with a neighbor
+    turns sour. It's essential to navigate this delicately, understanding both
+    sides. Use this as a chance to teach your child important life lessons and
+    coping mechanisms, while respecting your neighbor's parenting boundaries.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +44,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "While the tone and content quality are good, the article is significantly shorter than the target length and the clickbait title doesn't match the actual content about general friendship conflicts."
+quality_note: >-
+  While the tone and content quality are good, the article is significantly
+  shorter than the target length and the clickbait title doesn't match the
+  actual content about general friendship conflicts.
+image_alt: >-
+  Two children stand apart near a fence as a parent watches thoughtfully from a
+  porch.
 ---
 
 It's not unusual for parents to feel helpless when their children face challenging social situations. One such situation is when their child's friendship with a neighbor turns sour. The situation can seem more complex when the neighbor in question is also a friend.
