@@ -1,24 +1,30 @@
 ---
-title: "Spinal Tap Releases New Album Alongside Upcoming Movie"
-description: "Spinal Tap is returning with a new album, blending their classic sound with fresh elements. Known for their satirical rock music, the band aims to captivate both old and new fans with this highly anticipated release."
-type: "standard"
-status: "review"
-publishDate: "2025-07-31T12:33:55+00:00"
-author: "Lena Harper"
+title: Spinal Tap Releases New Album Alongside Upcoming Movie
+description: >-
+  Spinal Tap is returning with a new album, blending their classic sound with
+  fresh elements. Known for their satirical rock music, the band aims to
+  captivate both old and new fans with this highly anticipated release.
+type: standard
+status: review
+publishDate: '2025-07-31T12:33:55+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "spinal-tap-releases-new-album-alongside-upcoming-movie"
+  - Music
+slug: spinal-tap-releases-new-album-alongside-upcoming-movie
 reading_time: 3
-source_url: "https://wtpop.com/spinal-tap-releases-new-album-alongside-upcoming-movie/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/spinal-tap-releases-new-album-alongside-upcoming-movie/'
+imported_from: wordpress
 wp_original_id: 506
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/spinal-tap-releases-new-album-alongside-upcoming-movie.webp
 seo:
-  canonical: "https://wtpop.com/spinal-tap-releases-new-album-alongside-upcoming-movie/"
-  og_title: "Spinal Tap Releases New Album Alongside Upcoming Movie - WTPOP"
-  og_description: "Spinal Tap is returning with a new album, blending their classic sound with fresh elements. Known for their satirical rock music, the band aims to captivate both old and new fans with this highly anticipated release."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/07/make_file-8-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/spinal-tap-releases-new-album-alongside-upcoming-movie/'
+  og_title: Spinal Tap Releases New Album Alongside Upcoming Movie - WTPOP
+  og_description: >-
+    Spinal Tap is returning with a new album, blending their classic sound with
+    fresh elements. Known for their satirical rock music, the band aims to
+    captivate both old and new fans with this highly anticipated release.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/07/make_file-8-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +32,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 82
-quality_note: "The article has good tone and covers relevant music topics well, but falls significantly short of the target word count at only 528 words, which heavily impacts the overall quality score."
+quality_note: >-
+  The article has good tone and covers relevant music topics well, but falls
+  significantly short of the target word count at only 528 words, which heavily
+  impacts the overall quality score.
+image_alt: >-
+  Vintage rock rehearsal room with guitar, amplifiers, drumsticks, haze, and
+  dramatic stage lighting
 ---
 
 The legendary rock band Spinal Tap is set to make a remarkable return with a brand-new album, their first in several years. Known for their satirical take on the rock music industry, Spinal Tap has garnered a cult following since their inception. This latest project is poised to captivate both new listeners and devoted fans alike.
