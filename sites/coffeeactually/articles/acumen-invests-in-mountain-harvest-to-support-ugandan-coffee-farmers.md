@@ -1,25 +1,39 @@
 ---
-title: "Acumen Invests in Mountain Harvest to Support Ugandan Coffee Farmers"
-description: "In Uganda, Mountain Harvest is transforming the coffee industry by supporting smallholder farmers with sustainable practices and fair compensation, backed by investment from Acumen. This initiative aims to boost farmers' incomes and foster community development through education and resource access."
-type: "standard"
-status: "published"
-publishDate: "2026-04-09T08:17:18+00:00"
-author: "Taylor Winters"
+title: Acumen Invests in Mountain Harvest to Support Ugandan Coffee Farmers
+description: >-
+  In Uganda, Mountain Harvest is transforming the coffee industry by supporting
+  smallholder farmers with sustainable practices and fair compensation, backed
+  by investment from Acumen. This initiative aims to boost farmers' incomes and
+  foster community development through education and resource access.
+type: standard
+status: published
+publishDate: '2026-04-09T08:17:18+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "acumen-invests-in-mountain-harvest-to-support-ugandan-coffee-farmers"
+  - Coffee News
+  - News
+slug: acumen-invests-in-mountain-harvest-to-support-ugandan-coffee-farmers
 reading_time: 4
-source_url: "https://coffeeactually.com/acumen-invests-in-mountain-harvest-to-support-ugandan-coffee-farmers/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/acumen-invests-in-mountain-harvest-to-support-ugandan-coffee-farmers/
+imported_from: wordpress
 wp_original_id: 51436
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/acumen-invests-in-mountain-harvest-to-support-ugandan-coffee-farmers.webp
 seo:
-  canonical: "https://coffeeactually.com/acumen-invests-in-mountain-harvest-to-support-ugandan-coffee-farmers/"
-  og_title: "Acumen Invests in Mountain Harvest to Support Ugandan Coffee Farmers - Coffee Actually"
-  og_description: "In Uganda, Mountain Harvest is transforming the coffee industry by supporting smallholder farmers with sustainable practices and fair compensation, backed by investment from Acumen. This initiative aims to boost farmers' incomes and foster community development through education and resource access."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/04/make_file-1.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/acumen-invests-in-mountain-harvest-to-support-ugandan-coffee-farmers/
+  og_title: >-
+    Acumen Invests in Mountain Harvest to Support Ugandan Coffee Farmers -
+    Coffee Actually
+  og_description: >-
+    In Uganda, Mountain Harvest is transforming the coffee industry by
+    supporting smallholder farmers with sustainable practices and fair
+    compensation, backed by investment from Acumen. This initiative aims to
+    boost farmers' incomes and foster community development through education
+    and resource access.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/04/make_file-1.html'
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,11 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong coffee news content with good tone and keyword alignment, though the title could be more compelling and SEO-optimized for better search performance."
+quality_note: >-
+  Strong coffee news content with good tone and keyword alignment, though the
+  title could be more compelling and SEO-optimized for better search
+  performance.
+image_alt: Ugandan coffee farmer holding ripe coffee cherries in sunlit highland fields
 ---
 
 In Uganda, a promising initiative is underway to enhance the livelihoods of coffee farmers. A significant investment has been made in Mountain Harvest, a company dedicated to supporting these farmers. This move aims to transform the coffee industry in the region by improving agricultural practices and ensuring better financial outcomes for those involved.
