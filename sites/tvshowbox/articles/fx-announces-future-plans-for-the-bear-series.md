@@ -1,26 +1,33 @@
 ---
-title: "FX Announces Future Plans for ‘The Bear’ Series"
-description: "The beloved Chicago-set culinary drama \"The Bear\" has been confirmed for a third season, promising continued exploration of the restaurant industry's pressures, dynamic character development, and unexpected twists."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T04:29:23+00:00"
-author: "Taylor Winters"
+title: FX Announces Future Plans for ‘The Bear’ Series
+description: >-
+  The beloved Chicago-set culinary drama "The Bear" has been confirmed for a
+  third season, promising continued exploration of the restaurant industry's
+  pressures, dynamic character development, and unexpected twists.
+type: standard
+status: published
+publishDate: '2025-07-03T04:29:23+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-  - "Upcoming"
-slug: "fx-announces-future-plans-for-the-bear-series"
+  - TV News
+  - TV
+  - Upcoming
+slug: fx-announces-future-plans-for-the-bear-series
 reading_time: 3
-source_url: "https://tvshowbox.com/fx-announces-future-plans-for-the-bear-series/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/fx-announces-future-plans-for-the-bear-series/'
+imported_from: wordpress
 wp_original_id: 23911
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/fx-announces-future-plans-for-the-bear-series.webp
 seo:
-  canonical: "https://tvshowbox.com/fx-announces-future-plans-for-the-bear-series/"
-  og_title: "FX Announces Future Plans for 'The Bear' Series - TV Show Box"
-  og_description: "The beloved series set in Chicago returns for a third season, exploring the vibrant restaurant scene with engaging storylines and dynamic characters, capturing personal and professional challenges in the culinary world. Fans anticipate intense moments and unexpected twists."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/07/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/fx-announces-future-plans-for-the-bear-series/'
+  og_title: FX Announces Future Plans for 'The Bear' Series - TV Show Box
+  og_description: >-
+    The beloved series set in Chicago returns for a third season, exploring the
+    vibrant restaurant scene with engaging storylines and dynamic characters,
+    capturing personal and professional challenges in the culinary world. Fans
+    anticipate intense moments and unexpected twists.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/07/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +35,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but falls short on length and lacks specific factual details about the actual announcement."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but falls short on
+  length and lacks specific factual details about the actual announcement.
+image_alt: >-
+  Moody restaurant kitchen with steam and an open doorway suggesting tension and
+  new beginnings
 ---
 
 The beloved television series set in the bustling city of Chicago, known for its culinary delights, has been confirmed to return for a third season. Fans eagerly await more drama and excitement from the show that has captured the essence of the Windy City's vibrant restaurant scene. With its engaging storyline and dynamic characters, viewers are in for another thrilling ride.
