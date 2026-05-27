@@ -27,12 +27,12 @@ score_breakdown:
 quality_note: Well-written travel advice with good keyword coverage but falls short on length and relies heavily on vague trend claims without concrete sources.
 reading_time: 3
 scripts:
-  - id: 87bc58d2-8e5e-4311-84a4-b03fb61fb19e
-    name: test
-    position: after-paragraph-1
+  - id: 8dc8d8ec-cef6-4f2e-9987-aca3a8332ace
+    name: journey_peaks_1_fb
+    position: head
     content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
-      <div data-cg-ad="ad_4"></div>
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="journey_peaks_1"></div>
 ---
 ## The Rise of 'Turbulence Tests' in Modern Dating
 
