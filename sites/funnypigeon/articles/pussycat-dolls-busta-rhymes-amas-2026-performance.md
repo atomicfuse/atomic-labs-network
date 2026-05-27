@@ -23,7 +23,7 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/pussycat-dolls-perform-with-busta-rhymes-at-amas-2026/
 source_item_id: 6a151f7316f23264031d810b
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/pussycat-dolls-busta-rhymes-amas-2026-performance.webp
 quality_score: 30
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   engaging entertainment tone expected for the site's audience while missing
   relevant keywords.
 reading_time: 3
+image_alt: >-
+  Pop performers command a red-and-blue lit arena stage as fans raise phones in
+  the foreground.
 ---
 ## Major Stage Return After Tour Cancellations
 
