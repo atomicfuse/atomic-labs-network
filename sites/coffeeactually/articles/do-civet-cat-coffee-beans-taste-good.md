@@ -1,25 +1,33 @@
 ---
-title: "Do Civet Cat Coffee Beans Taste Good?"
-description: "Civet coffee (Kopi Luwak) is a unique gourmet coffee from Southeast Asia produced through a civet cat's digestive process, celebrated for its distinct flavor profile but raising important ethical concerns about animal welfare and sustainable sourcing."
-type: "standard"
-status: "published"
-publishDate: "2025-10-30T09:19:21+00:00"
-author: "Taylor Winters"
+title: Do Civet Cat Coffee Beans Taste Good?
+description: >-
+  Civet coffee (Kopi Luwak) is a unique gourmet coffee from Southeast Asia
+  produced through a civet cat's digestive process, celebrated for its distinct
+  flavor profile but raising important ethical concerns about animal welfare and
+  sustainable sourcing.
+type: standard
+status: published
+publishDate: '2025-10-30T09:19:21+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Beans"
-  - "Beans"
-slug: "do-civet-cat-coffee-beans-taste-good"
+  - Coffee Beans
+  - Beans
+slug: do-civet-cat-coffee-beans-taste-good
 reading_time: 3
-source_url: "https://coffeeactually.com/do-civet-cat-coffee-beans-taste-good/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/do-civet-cat-coffee-beans-taste-good/'
+imported_from: wordpress
 wp_original_id: 51340
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/do-civet-cat-coffee-beans-taste-good.webp
 seo:
-  canonical: "https://coffeeactually.com/do-civet-cat-coffee-beans-taste-good/"
-  og_title: "Do Civet Cat Coffee Beans Taste Good? - Coffee Actually"
-  og_description: "Civet coffee, known as Kopi Luwak, is a unique gourmet coffee from Southeast Asia, produced through a civet cat's digestive process. While celebrated for its distinct taste, ethical concerns about civet treatment prompt consumers to seek humane, sustainable sources."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/10/make_file-3.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/do-civet-cat-coffee-beans-taste-good/'
+  og_title: Do Civet Cat Coffee Beans Taste Good? - Coffee Actually
+  og_description: >-
+    Civet coffee, known as Kopi Luwak, is a unique gourmet coffee from Southeast
+    Asia, produced through a civet cat's digestive process. While celebrated for
+    its distinct taste, ethical concerns about civet treatment prompt consumers
+    to seek humane, sustainable sources.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/10/make_file-3.png'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent topic relevance and tone, but significantly below target word count which limits its SEO potential and depth of coverage."
+quality_note: >-
+  Well-written article with excellent topic relevance and tone, but
+  significantly below target word count which limits its SEO potential and depth
+  of coverage.
+image_alt: >-
+  Coffee cup with beans and cherries beside a subtle civet silhouette in a
+  tropical forest setting
 ---
 
 In the world of gourmet coffee, there exists a unique and fascinating variety known as civet coffee, often referred to by its Indonesian name, Kopi Luwak. This exclusive coffee has intrigued connoisseurs and coffee enthusiasts alike due to the unusual method of production, which involves a small mammal known as the civet cat. But what exactly makes this coffee special, and is it truly as delightful as its reputation suggests?
