@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.thecut.com/article/lisa-rinna-not-voting-spencer-pratt.html'
 source_item_id: 6a152fda16f23264031d8200
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/lisa-rinna-spencer-pratt-mayoral-campaign-reality-tv.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   too short for target length and contains vague sourcing that raises accuracy
   concerns.
 reading_time: 3
+image_alt: >-
+  Glamorous celebrity figure turns away from a spotlighted podium near a blurred
+  Los Angeles skyline.
 ---
 ## Reality TV Stars Clash Over Political Ambitions
 
