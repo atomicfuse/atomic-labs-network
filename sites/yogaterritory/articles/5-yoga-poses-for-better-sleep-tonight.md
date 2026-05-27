@@ -1,26 +1,34 @@
 ---
-title: "5 Yoga Poses for Better Sleep Tonight"
-description: "Incorporating bedtime yoga into your nightly routine promotes relaxation and sleep by calming the mind and easing tension. Practicing specific poses can enhance your nightly ritual, improve well-being, reduce stress, and help transition to a peaceful state conducive to sleep."
-type: "standard"
-status: "published"
-publishDate: "2025-05-12T05:37:21+00:00"
-author: "Taylor Winters"
+title: 5 Yoga Poses for Better Sleep Tonight
+description: >-
+  Incorporating bedtime yoga into your nightly routine promotes relaxation and
+  sleep by calming the mind and easing tension. Practicing specific poses can
+  enhance your nightly ritual, improve well-being, reduce stress, and help
+  transition to a peaceful state conducive to sleep.
+type: standard
+status: published
+publishDate: '2025-05-12T05:37:21+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "5-yoga-poses-for-better-sleep-tonight"
+  - Yoga Poses
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: 5-yoga-poses-for-better-sleep-tonight
 reading_time: 3
-source_url: "https://yogaterritory.com/5-yoga-poses-for-better-sleep-tonight/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/5-yoga-poses-for-better-sleep-tonight/'
+imported_from: wordpress
 wp_original_id: 20612
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/5-yoga-poses-for-better-sleep-tonight.webp
 seo:
-  canonical: "https://yogaterritory.com/5-yoga-poses-for-better-sleep-tonight/"
-  og_title: "5 Yoga Poses for Better Sleep Tonight - Yoga Territory"
-  og_description: "Incorporating bedtime yoga into your nightly routine promotes relaxation and sleep by calming the mind and easing tension. Practicing specific poses can enhance your nightly ritual, improve well-being, reduce stress, and help transition to a peaceful state conducive to sleep."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/5-yoga-poses-for-better-sleep-tonight/'
+  og_title: 5 Yoga Poses for Better Sleep Tonight - Yoga Territory
+  og_description: >-
+    Incorporating bedtime yoga into your nightly routine promotes relaxation and
+    sleep by calming the mind and easing tension. Practicing specific poses can
+    enhance your nightly ritual, improve well-being, reduce stress, and help
+    transition to a peaceful state conducive to sleep.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,11 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but significantly under target word count at 498 words, which severely impacts overall quality despite good content structure."
+quality_note: >-
+  Strong tone and keyword relevance but significantly under target word count at
+  498 words, which severely impacts overall quality despite good content
+  structure.
+image_alt: Person doing gentle bedtime yoga in a softly lit bedroom at dusk
 ---
 
 Incorporating bedtime yoga into your nightly routine can be a transformative experience, promoting relaxation and sleep. This gentle practice helps to calm the mind, ease tension in the body, and prepare you for a restful night's sleep. Discover how specific yoga poses can significantly enhance your nightly ritual and improve your overall well-being.
