@@ -22,7 +22,7 @@ source_url: >-
   https://deadline.com/2026/05/leo-woodall-lord-of-the-rings-casting-boyhood-dream-1236920543/
 source_item_id: 6a151f7316f23264031d8115
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/leo-woodall-lord-of-the-rings-casting-boyhood-dream.webp
 quality_score: 45
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   entertainment focus on funny/viral content, appears to contain fabricated
   casting information, and doesn't align with the target audience or keywords.
 reading_time: 3
+image_alt: >-
+  Young ranger figure stands in a misty forest at dawn, suggesting a new fantasy
+  saga role.
 ---
 ## From The White Lotus to Middle-earth
 
