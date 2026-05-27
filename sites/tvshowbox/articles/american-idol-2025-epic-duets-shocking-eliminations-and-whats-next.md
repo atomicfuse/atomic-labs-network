@@ -1,27 +1,39 @@
 ---
-title: "American Idol 2025: Epic Duets, Shocking Eliminations, and What’s Next"
-description: "American Idol 2025 is delivering electrifying performances and shocking eliminations, with standout contestants Olivia Sparks, Jake Harmon, and Ella Blue heating up the competition this week."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T12:39:01+00:00"
-author: "Taylor Winters"
+title: 'American Idol 2025: Epic Duets, Shocking Eliminations, and What’s Next'
+description: >-
+  American Idol 2025 is delivering electrifying performances and shocking
+  eliminations, with standout contestants Olivia Sparks, Jake Harmon, and Ella
+  Blue heating up the competition this week.
+type: standard
+status: review
+publishDate: '2025-05-05T12:39:01+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Recap"
-  - "TV"
-  - "Upcoming"
-slug: "american-idol-2025-epic-duets-shocking-eliminations-and-whats-next"
+  - TV News
+  - Recap
+  - TV
+  - Upcoming
+slug: american-idol-2025-epic-duets-shocking-eliminations-and-whats-next
 reading_time: 2
-source_url: "https://tvshowbox.com/american-idol-2025-epic-duets-shocking-eliminations-and-whats-next/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/american-idol-2025-epic-duets-shocking-eliminations-and-whats-next/
+imported_from: wordpress
 wp_original_id: 23852
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/american-idol-2025-epic-duets-shocking-eliminations-and-whats-next.webp
 seo:
-  canonical: "https://tvshowbox.com/american-idol-2025-epic-duets-shocking-eliminations-and-whats-next/"
-  og_title: "American Idol 2025: Epic Duets, Shocking Eliminations, and What's Next - TV Show Box"
-  og_description: "American Idol 2025 is offering electrifying performances and exciting eliminations. This week's episode saw standout contestants Olivia Sparks, Jake Harmon, and Ella Blue stirring up the competition. Highlights included a duet battle, a touching tribute, and a shocking near-elimination."
-  og_image: "https://ngc-cn.b-cdn.net/uploads/C39_1.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/american-idol-2025-epic-duets-shocking-eliminations-and-whats-next/
+  og_title: >-
+    American Idol 2025: Epic Duets, Shocking Eliminations, and What's Next - TV
+    Show Box
+  og_description: >-
+    American Idol 2025 is offering electrifying performances and exciting
+    eliminations. This week's episode saw standout contestants Olivia Sparks,
+    Jake Harmon, and Ella Blue stirring up the competition. Highlights included
+    a duet battle, a touching tribute, and a shocking near-elimination.
+  og_image: 'https://ngc-cn.b-cdn.net/uploads/C39_1.jpg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -29,7 +41,14 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance for entertainment content, but severely penalized by extremely short length (269 words vs 800-1200 target) and potential factual issues with specific contestant names and episode details that appear fabricated."
+quality_note: >-
+  Strong tone and keyword relevance for entertainment content, but severely
+  penalized by extremely short length (269 words vs 800-1200 target) and
+  potential factual issues with specific contestant names and episode details
+  that appear fabricated.
+image_alt: >-
+  Three singers on a dramatic stage with spotlights and an empty microphone
+  stand suggesting elimination
 ---
 
 **Introduction**
