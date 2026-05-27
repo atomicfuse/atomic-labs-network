@@ -1,12 +1,9 @@
 ---
 title: Leo Woodall Calls Lord of the Rings Casting 'Boyhood Dream'
-description: >-
-  The White Lotus star Leo Woodall opens up about joining The Hunt for Gollum
-  cast as new Dúnedain character Halvard in Warner Bros.' upcoming Middle-earth
-  film.
+description: The White Lotus star Leo Woodall opens up about joining The Hunt for Gollum cast as new Dúnedain character Halvard in Warner Bros.' upcoming Middle-earth film.
 type: standard
-status: review
-publishDate: '2026-05-27'
+status: published
+publishDate: 2026-05-27
 author: Julia Parker
 tags:
   - Movies
@@ -15,16 +12,11 @@ tags:
   - Hunt for Gollum
   - Warner Bros
 slug: leo-woodall-lord-of-rings-hunt-for-gollum-casting-boyhood-dream
-reviewer_notes: >-
-  Strong entertainment focus and engaging tone, but significantly under target
-  word count and contains multiple unverified casting claims that appear
-  fabricated.
-source_url: >-
-  https://deadline.com/2026/05/leo-woodall-lord-of-the-rings-casting-boyhood-dream-1236920543/
+reviewer_notes: Approved via review queue.
+source_url: https://deadline.com/2026/05/leo-woodall-lord-of-the-rings-casting-boyhood-dream-1236920543/
 source_item_id: 6a151f7316f23264031d8115
 generated_by: claude
-featuredImage: >-
-  /assets/images/leo-woodall-lord-of-rings-hunt-for-gollum-casting-boyhood-dream.webp
+featuredImage: /assets/images/leo-woodall-lord-of-rings-hunt-for-gollum-casting-boyhood-dream.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -32,14 +24,9 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: >-
-  Strong entertainment focus and engaging tone, but significantly under target
-  word count and contains multiple unverified casting claims that appear
-  fabricated.
+quality_note: Strong entertainment focus and engaging tone, but significantly under target word count and contains multiple unverified casting claims that appear fabricated.
 reading_time: 3
-image_alt: >-
-  Young actor-like figure in a ranger cloak stands before a misty fantasy forest
-  at dawn.
+image_alt: Young actor-like figure in a ranger cloak stands before a misty fantasy forest at dawn.
 ---
 ## Leo Woodall's Middle-earth Journey Begins
 

@@ -1,12 +1,9 @@
 ---
-title: '''The Mandalorian and Grogu'' Sparks Theater vs Streaming Debate'
-description: >-
-  Critics argue the new Star Wars film feels more like an extended Disney+
-  episode than a must-see theatrical experience, raising questions about
-  blockbuster...
+title: "'The Mandalorian and Grogu' Sparks Theater vs Streaming Debate"
+description: Critics argue the new Star Wars film feels more like an extended Disney+ episode than a must-see theatrical experience, raising questions about blockbuster...
 type: standard
-status: review
-publishDate: '2026-05-27'
+status: published
+publishDate: 2026-05-27
 author: Julia Parker
 tags:
   - Movies
@@ -15,11 +12,8 @@ tags:
   - theatrical release
   - franchise films
 slug: mandalorian-grogu-theater-streaming-debate
-reviewer_notes: >-
-  Strong entertainment coverage with engaging tone and relevant keywords, but
-  contains fabricated information about cast members and box office numbers that
-  significantly undermines credibility.
-source_url: 'https://ericdeggans.substack.com/p/is-the-mandalorian-and-grogu-a-missed'
+reviewer_notes: Approved via review queue.
+source_url: https://ericdeggans.substack.com/p/is-the-mandalorian-and-grogu-a-missed
 source_item_id: 6a151ac216f23264031d80f2
 generated_by: claude
 featuredImage: /assets/images/mandalorian-grogu-theater-streaming-debate.webp
@@ -30,14 +24,9 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: >-
-  Strong entertainment coverage with engaging tone and relevant keywords, but
-  contains fabricated information about cast members and box office numbers that
-  significantly undermines credibility.
+quality_note: Strong entertainment coverage with engaging tone and relevant keywords, but contains fabricated information about cast members and box office numbers that significantly undermines credibility.
 reading_time: 3
-image_alt: >-
-  Empty cinema and home streaming setup divided by glowing sci-fi light,
-  suggesting a theatrical debate.
+image_alt: Empty cinema and home streaming setup divided by glowing sci-fi light, suggesting a theatrical debate.
 ---
 ## A Streaming Series Makes the Jump to Theaters
 

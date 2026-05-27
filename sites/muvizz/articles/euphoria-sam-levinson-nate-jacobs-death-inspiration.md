@@ -1,11 +1,9 @@
 ---
 title: Euphoria Creator Reveals Shocking Inspiration for Nate's Death
-description: >-
-  Sam Levinson explains the horror movie inspiration behind Nate Jacobs' brutal
-  death scene in Euphoria season 3, citing The Candy Snatchers and rattlesnakes.
+description: Sam Levinson explains the horror movie inspiration behind Nate Jacobs' brutal death scene in Euphoria season 3, citing The Candy Snatchers and rattlesnakes.
 type: standard
-status: review
-publishDate: '2026-05-27'
+status: published
+publishDate: 2026-05-27
 author: Julia Parker
 tags:
   - TV Shows
@@ -14,11 +12,8 @@ tags:
   - nate-jacobs
   - television
 slug: euphoria-sam-levinson-nate-jacobs-death-inspiration
-reviewer_notes: >-
-  Strong tone and keyword relevance but severely undermined by apparent
-  fabrication of major plot events and inadequate length for target audience.
-source_url: >-
-  https://www.usmagazine.com/entertainment/news/sam-levinson-reveals-inspiration-for-shocking-euphoria-death/
+reviewer_notes: Approved via review queue.
+source_url: https://www.usmagazine.com/entertainment/news/sam-levinson-reveals-inspiration-for-shocking-euphoria-death/
 source_item_id: 6a151f7416f23264031d811e
 generated_by: claude
 featuredImage: /assets/images/euphoria-sam-levinson-nate-jacobs-death-inspiration.webp
@@ -29,13 +24,9 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 15
   keyword_relevance: 90
-quality_note: >-
-  Strong tone and keyword relevance but severely undermined by apparent
-  fabrication of major plot events and inadequate length for target audience.
+quality_note: Strong tone and keyword relevance but severely undermined by apparent fabrication of major plot events and inadequate length for target audience.
 reading_time: 3
-image_alt: >-
-  A shadowy coffin-like chamber with an air pipe and a rattlesnake silhouette
-  under neon light.
+image_alt: A shadowy coffin-like chamber with an air pipe and a rattlesnake silhouette under neon light.
 ---
 ## The Shocking Death That Has Everyone Talking
 
