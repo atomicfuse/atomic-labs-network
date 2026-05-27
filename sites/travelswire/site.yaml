@@ -116,7 +116,7 @@ tracking:
 ads_config:
   layout: standard
   ad_placements:
-    - id: ""
+    - id: feed-test
       position: below-content
       device: all
       sizes: {}
