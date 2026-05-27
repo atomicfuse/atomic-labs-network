@@ -19,7 +19,7 @@ source_url: >-
   https://www.fitandwell.com/exercise/pilates/if-you-have-stiffness-in-your-back-and-shoulders-a-pilates-instructor-recommends-these-two-beginner-friendly-exercises
 source_item_id: 6a13fc9f16f23264031d7b81
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/pilates-instructor-back-shoulder-relief-exercises.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Good keyword integration and tone but falls short on length and lacks specific
   exercise instructions that readers would expect from a how-to article.
 reading_time: 3
+image_alt: >-
+  Person practicing a gentle Pilates mobility pose on a mat in a bright, calm
+  home studio.
 ---
 ## The Growing Problem of Desk-Related Stiffness
 
