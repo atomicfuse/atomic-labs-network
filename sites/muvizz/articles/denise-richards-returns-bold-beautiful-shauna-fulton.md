@@ -20,7 +20,7 @@ source_url: >-
   https://people.com/denise-richards-opens-up-bold-and-the-beautiful-return-exclusive-11983322
 source_item_id: 6a151f7316f23264031d8118
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/denise-richards-returns-bold-beautiful-shauna-fulton.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   tone, though slightly under target word count and title could be more
   SEO-optimized.
 reading_time: 3
+image_alt: >-
+  Glamorous actress reenters a warmly lit television set with a nostalgic,
+  poised expression.
 ---
 ## A Familiar Return to Daytime Drama
 
