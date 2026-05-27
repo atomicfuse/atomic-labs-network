@@ -20,7 +20,7 @@ source_url: >-
   https://www.elle.com/beauty/health-fitness/a71284608/hot-workout-studios-bacteria-sanitary-interview-2026/
 source_item_id: 6a13fc9f16f23264031d7b8d
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/hot-workout-classes-hygiene-expert-advice.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 78
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on word count and lacks specific expert citations or data to
   support claims.
 reading_time: 3
+image_alt: >-
+  Clean heated fitness studio with a yoga mat, towel, and disinfectant in warm
+  diffused light.
 ---
 ## The Rise of Hot Fitness Classes
 
