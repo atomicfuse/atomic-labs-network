@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://ericdeggans.substack.com/p/is-the-mandalorian-and-grogu-a-missed'
 source_item_id: 6a151ac216f23264031d80f2
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/mandalorian-grogu-theater-worthy-debate.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   fabricated details about a film that doesn't exist, significantly undermining
   its credibility.
 reading_time: 3
+image_alt: >-
+  Lone viewer in a dim cinema facing an abstract sci-fi spectacle on a glowing
+  screen
 ---
 ## A Star Wars Film That Questions Its Own Existence
 
