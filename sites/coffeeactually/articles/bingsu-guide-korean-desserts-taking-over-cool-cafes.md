@@ -1,25 +1,33 @@
 ---
-title: "Bingsu Guide: Korean Desserts Taking Over Cool Cafés"
-description: "Explore Korean desserts from bingsu and dalgona to hotteok, yakgwa, tteok, and sweet traditional drinks, highlighting their textures, flavors, cultural roots, and modern café appeal."
-type: "standard"
-status: "review"
-publishDate: "2026-05-07T08:16:23+00:00"
-author: "Taylor Winters"
+title: 'Bingsu Guide: Korean Desserts Taking Over Cool Cafés'
+description: >-
+  Explore Korean desserts from bingsu and dalgona to hotteok, yakgwa, tteok, and
+  sweet traditional drinks, highlighting their textures, flavors, cultural
+  roots, and modern café appeal.
+type: standard
+status: review
+publishDate: '2026-05-07T08:16:23+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Coffee Desserts"
-slug: "bingsu-guide-korean-desserts-taking-over-cool-cafes"
+  - Coffee News
+  - Coffee Desserts
+slug: bingsu-guide-korean-desserts-taking-over-cool-cafes
 reading_time: 7
-source_url: "https://coffeeactually.com/bingsu-guide-korean-desserts-taking-over-cool-cafes/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/bingsu-guide-korean-desserts-taking-over-cool-cafes/
+imported_from: wordpress
 wp_original_id: 51447
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/bingsu-guide-korean-desserts-taking-over-cool-cafes.webp
 seo:
-  canonical: "https://coffeeactually.com/bingsu-guide-korean-desserts-taking-over-cool-cafes/"
-  og_title: "Bingsu Guide: Korean Desserts Taking Over Cool Cafés - Coffee Actually"
-  og_description: "Explore Korean desserts from bingsu and dalgona to hotteok, yakgwa, tteok, and sweet traditional drinks, highlighting their textures, flavors, cultural roots, and modern café appeal."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/bingsu-guide-korean-desserts-taking-over-cool-cafes/
+  og_title: 'Bingsu Guide: Korean Desserts Taking Over Cool Cafés - Coffee Actually'
+  og_description: >-
+    Explore Korean desserts from bingsu and dalgona to hotteok, yakgwa, tteok,
+    and sweet traditional drinks, highlighting their textures, flavors, cultural
+    roots, and modern café appeal.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 45
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 35
-quality_note: "Well-written article about Korean desserts with good tone and length, but lacks coffee focus and proper SEO optimization for the target coffee audience."
+quality_note: >-
+  Well-written article about Korean desserts with good tone and length, but
+  lacks coffee focus and proper SEO optimization for the target coffee audience.
+image_alt: >-
+  Stylish Korean café table with bingsu and assorted traditional desserts in
+  soft natural light.
 ---
 
 Korean desserts have become global comfort food, thanks to their playful textures, elegant flavors, and café-ready presentation. From icy bowls of bingsu to nostalgic dalgona candy, these sweets offer more than sugar. They tell stories of street markets, family celebrations, seasonal ingredients, and modern Korean food culture.
