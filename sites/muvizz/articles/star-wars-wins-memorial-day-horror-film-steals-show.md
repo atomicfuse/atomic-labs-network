@@ -22,7 +22,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/weekend-box-office-the-mandalorian-and-grogu/
 source_item_id: 6a151ac216f23264031d80f0
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/star-wars-wins-memorial-day-horror-film-steals-show.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   apparent fabrications about specific films and lacks proper length for target
   guidelines.
 reading_time: 3
+image_alt: >-
+  Sci-fi props are overshadowed by a small horror mask casting a huge shadow in
+  a moody theater lobby.
 ---
 ## Star Wars Takes the Crown But Shows Cracks
 
