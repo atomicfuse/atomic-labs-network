@@ -1,27 +1,37 @@
 ---
-title: "5 Best Yoga Poses for Enhanced Focus and Concentration"
-description: "Yoga enhances mental clarity and concentration through specific postures, benefiting both physical and cognitive health. Regular practice reduces stress, improves focus, and fosters a balanced lifestyle, making it essential for handling complex tasks with ease."
-type: "standard"
-status: "published"
-publishDate: "2025-10-03T05:43:23+00:00"
-author: "Taylor Winters"
+title: 5 Best Yoga Poses for Enhanced Focus and Concentration
+description: >-
+  Yoga enhances mental clarity and concentration through specific postures,
+  benefiting both physical and cognitive health. Regular practice reduces
+  stress, improves focus, and fosters a balanced lifestyle, making it essential
+  for handling complex tasks with ease.
+type: standard
+status: published
+publishDate: '2025-10-03T05:43:23+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "5-best-yoga-poses-for-enhanced-focus-and-concentration"
+  - Yoga Poses
+  - Mindfullness
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: 5-best-yoga-poses-for-enhanced-focus-and-concentration
 reading_time: 3
-source_url: "https://yogaterritory.com/5-best-yoga-poses-for-enhanced-focus-and-concentration/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/5-best-yoga-poses-for-enhanced-focus-and-concentration/
+imported_from: wordpress
 wp_original_id: 20656
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/5-best-yoga-poses-for-enhanced-focus-and-concentration.webp
 seo:
-  canonical: "https://yogaterritory.com/5-best-yoga-poses-for-enhanced-focus-and-concentration/"
-  og_title: "5 Best Yoga Poses for Enhanced Focus and Concentration - Yoga Territory"
-  og_description: "Yoga enhances mental clarity and concentration through specific postures, benefiting both physical and cognitive health. Regular practice reduces stress, improves focus, and fosters a balanced lifestyle, making it essential for handling complex tasks with ease."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/5-best-yoga-poses-for-enhanced-focus-and-concentration/
+  og_title: 5 Best Yoga Poses for Enhanced Focus and Concentration - Yoga Territory
+  og_description: >-
+    Yoga enhances mental clarity and concentration through specific postures,
+    benefiting both physical and cognitive health. Regular practice reduces
+    stress, improves focus, and fosters a balanced lifestyle, making it
+    essential for handling complex tasks with ease.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and accurate content, but significantly below target word count which severely impacts its comprehensiveness and SEO value."
+quality_note: >-
+  Well-written article with good tone and accurate content, but significantly
+  below target word count which severely impacts its comprehensiveness and SEO
+  value.
+image_alt: >-
+  Yoga practitioner balances in a serene sunlit studio, suggesting calm focus
+  and mental clarity.
 ---
 
 Yoga offers a transformative journey for both the body and mind. By incorporating specific postures into your routine, you can enhance mental clarity and concentration. This practice not only benefits your physical health but also sharpens your cognitive abilities, making it an essential tool for achieving a balanced lifestyle.
