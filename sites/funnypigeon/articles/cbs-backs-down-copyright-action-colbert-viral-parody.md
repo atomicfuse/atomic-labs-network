@@ -21,7 +21,7 @@ source_url: >-
   https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount
 source_item_id: 6a151ac216f23264031d80f5
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/cbs-backs-down-copyright-action-colbert-viral-parody.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Article has good tone and keyword coverage but contains significant factual
   inaccuracies about Colbert's career status and is below optimal length.
 reading_time: 3
+image_alt: >-
+  Empty late-night desk with a vintage TV camera, microphone, legal papers, and
+  loosened chain under studio lights.
 ---
 ## Corporate Giants Reverse Course on Viral Content
 
