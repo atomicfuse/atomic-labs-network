@@ -20,7 +20,7 @@ source_url: >-
   https://www.fitandwell.com/exercise/running/these-three-pilates-inspired-moves-will-correct-a-common-postural-imbalance-holding-back-most-runners-says-an-experienced-instructor
 source_item_id: 6a07fc294bdae0614e7aae76
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/pilates-moves-fix-anterior-pelvic-tilt-runners.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short of the target word count at 710 words instead of the preferred
   800-1200 range.
 reading_time: 3
+image_alt: >-
+  Runner doing a core stability Pilates move on a mat in a bright home workout
+  space
 ---
 ## The Hidden Saboteur of Running Performance
 
