@@ -24,7 +24,8 @@ source_url: >-
   https://www.elle.com/culture/celebrities/a71392950/why-taylor-swift-missed-american-music-awards-2026/
 source_item_id: 6a14fea216f23264031d803e
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: >-
+  /assets/images/taylor-swift-skips-amas-despite-8-nominations-personal-time.webp
 quality_score: 42
 score_breakdown:
   seo_quality: 45
@@ -38,6 +39,9 @@ quality_note: >-
   heavily on vague 'reports' without sources, making it largely unreliable
   despite decent length.
 reading_time: 3
+image_alt: >-
+  Empty spotlighted awards-show seat with purple stage lights and a travel bag
+  nearby.
 ---
 ## Swift's Notable Absence from Las Vegas Ceremony
 
