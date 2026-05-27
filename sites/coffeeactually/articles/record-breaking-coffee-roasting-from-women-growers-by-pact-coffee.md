@@ -1,24 +1,39 @@
 ---
-title: "Record-Breaking Coffee Roasting from Women Growers by Pact Coffee"
-description: "Pact Coffee is championing gender equality by sourcing coffee directly from women-led farms, ensuring fair compensation and promoting sustainable practices. This initiative empowers female growers economically and socially, contributing to community well-being and fostering sustainable growth in the coffee industry."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T09:17:31+00:00"
-author: "Taylor Winters"
+title: Record-Breaking Coffee Roasting from Women Growers by Pact Coffee
+description: >-
+  Pact Coffee is championing gender equality by sourcing coffee directly from
+  women-led farms, ensuring fair compensation and promoting sustainable
+  practices. This initiative empowers female growers economically and socially,
+  contributing to community well-being and fostering sustainable growth in the
+  coffee industry.
+type: standard
+status: published
+publishDate: '2026-02-16T09:17:31+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "record-breaking-coffee-roasting-from-women-growers-by-pact-coffee"
+  - Coffee News
+  - News
+slug: record-breaking-coffee-roasting-from-women-growers-by-pact-coffee
 reading_time: 4
-source_url: "https://coffeeactually.com/record-breaking-coffee-roasting-from-women-growers-by-pact-coffee/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/record-breaking-coffee-roasting-from-women-growers-by-pact-coffee/
+imported_from: wordpress
 wp_original_id: 51402
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/record-breaking-coffee-roasting-from-women-growers-by-pact-coffee.webp
 seo:
-  canonical: "https://coffeeactually.com/record-breaking-coffee-roasting-from-women-growers-by-pact-coffee/"
-  og_title: "Record-Breaking Coffee Roasting from Women Growers by Pact Coffee - Coffee Actually"
-  og_description: "Pact Coffee is championing gender equality by sourcing coffee directly from women-led farms, ensuring fair compensation and promoting sustainable practices. This initiative empowers female growers economically and socially, contributing to community well-being and fostering sustainable growth in the coffee industry."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/record-breaking-coffee-roasting-from-women-growers-by-pact-coffee/
+  og_title: >-
+    Record-Breaking Coffee Roasting from Women Growers by Pact Coffee - Coffee
+    Actually
+  og_description: >-
+    Pact Coffee is championing gender equality by sourcing coffee directly from
+    women-led farms, ensuring fair compensation and promoting sustainable
+    practices. This initiative empowers female growers economically and
+    socially, contributing to community well-being and fostering sustainable
+    growth in the coffee industry.
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -26,7 +41,11 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Strong coffee industry focus with good tone and keyword relevance, but lacks specific details and concrete data to support claims about Pact Coffee's record-breaking initiative."
+quality_note: >-
+  Strong coffee industry focus with good tone and keyword relevance, but lacks
+  specific details and concrete data to support claims about Pact Coffee's
+  record-breaking initiative.
+image_alt: Woman coffee grower holding ripe coffee cherries in a lush sunlit farm
 ---
 
 Pact Coffee, a trailblazer in the specialty coffee industry, is making significant strides in supporting female coffee producers. This year, the company is set to roast an unprecedented volume of coffee sourced directly from women growers, underscoring its commitment to gender equality and sustainable practices in the coffee supply chain.
