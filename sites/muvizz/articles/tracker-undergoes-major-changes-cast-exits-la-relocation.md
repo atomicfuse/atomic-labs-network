@@ -23,7 +23,7 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/trackers-biggest-changes-from-cast-exits-to-relocation/
 source_item_id: 6a151f7316f23264031d810e
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/tracker-undergoes-major-changes-cast-exits-la-relocation.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   significantly hampered by vague sourcing and potential accuracy issues with
   repeated 'according to reports' without citations.
 reading_time: 3
+image_alt: >-
+  Lone investigator between a misty forest and a sunlit Los Angeles studio
+  backdrop
 ---
 ## Major Shakeups Hit CBS Hit Series
 
