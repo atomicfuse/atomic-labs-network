@@ -1,24 +1,30 @@
 ---
-title: "Foo Fighters Renamed Album to Avoid Wicked Conflict"
-description: "Dave Grohl jokingly suggested *Wicked: For Good* as a Foo Fighters album title, sparking fan speculation while underscoring the band's enduring appeal and anticipation for their next chapter."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T09:34:33+00:00"
-author: "Lena Harper"
+title: Foo Fighters Renamed Album to Avoid Wicked Conflict
+description: >-
+  Dave Grohl jokingly suggested *Wicked: For Good* as a Foo Fighters album
+  title, sparking fan speculation while underscoring the band's enduring appeal
+  and anticipation for their next chapter.
+type: standard
+status: published
+publishDate: '2026-05-04T09:34:33+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "foo-fighters-renamed-album-to-avoid-wicked-conflict"
+  - Music
+slug: foo-fighters-renamed-album-to-avoid-wicked-conflict
 reading_time: 7
-source_url: "https://wtpop.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/'
+imported_from: wordpress
 wp_original_id: 804
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/foo-fighters-renamed-album-to-avoid-wicked-conflict.webp
 seo:
-  canonical: "https://wtpop.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/"
-  og_title: "Foo Fighters Renamed Album to Avoid Wicked Conflict - WTPOP"
-  og_description: "Dave Grohl jokingly suggested Wicked: For Good as a Foo Fighters album title, sparking fan speculation while underscoring the band’s enduring appeal and anticipation for their next chapter."
-  og_image: "https://wtpop.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/foo-fighters-renamed-album-to-avoid-wicked-conflict/'
+  og_title: Foo Fighters Renamed Album to Avoid Wicked Conflict - WTPOP
+  og_description: >-
+    Dave Grohl jokingly suggested Wicked: For Good as a Foo Fighters album
+    title, sparking fan speculation while underscoring the band’s enduring
+    appeal and anticipation for their next chapter.
+  og_image: 'https://wtpop.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -26,7 +32,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written piece with excellent tone and length, but contains unverifiable claims about Grohl's specific comments that appear fabricated, significantly impacting factual accuracy despite strong entertainment focus."
+quality_note: >-
+  Well-written piece with excellent tone and length, but contains unverifiable
+  claims about Grohl's specific comments that appear fabricated, significantly
+  impacting factual accuracy despite strong entertainment focus.
+image_alt: >-
+  Backstage rock instruments lit by amber stage lights and an emerald theatrical
+  glow.
 ---
 
 Dave Grohl knows how quickly a casual joke can become a rock headline. The Foo Fighters leader recently stirred fresh conversation around the band's future when he playfully floated *Wicked: For Good* as a possible name for a new Foo Fighters album. The comment was clearly delivered with a wink, but it still gave fans something exciting to debate: what comes next for one of modern rock's most enduring bands?
