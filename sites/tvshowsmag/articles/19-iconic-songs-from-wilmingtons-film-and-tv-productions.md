@@ -1,25 +1,37 @@
 ---
-title: "19 Iconic Songs from Wilmington’s Film and TV Productions"
-description: "Wilmington, North Carolina, renowned for its scenic beauty, has long been a popular filming location, featuring music that enhances storytelling. Productions filmed here often reflect the area's vibrant spirit, creating memorable cinematic experiences with lasting cultural impact."
-type: "standard"
-status: "review"
-publishDate: "2026-03-12T10:09:27+00:00"
-author: "Taylor Winters"
+title: 19 Iconic Songs from Wilmington’s Film and TV Productions
+description: >-
+  Wilmington, North Carolina, renowned for its scenic beauty, has long been a
+  popular filming location, featuring music that enhances storytelling.
+  Productions filmed here often reflect the area's vibrant spirit, creating
+  memorable cinematic experiences with lasting cultural impact.
+type: standard
+status: review
+publishDate: '2026-03-12T10:09:27+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "19-iconic-songs-from-wilmingtons-film-and-tv-productions"
+  - TV News
+  - TV Shows
+slug: 19-iconic-songs-from-wilmingtons-film-and-tv-productions
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/19-iconic-songs-from-wilmingtons-film-and-tv-productions/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/19-iconic-songs-from-wilmingtons-film-and-tv-productions/
+imported_from: wordpress
 wp_original_id: 28197
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/19-iconic-songs-from-wilmingtons-film-and-tv-productions.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/19-iconic-songs-from-wilmingtons-film-and-tv-productions/"
-  og_title: "19 Iconic Songs from Wilmington's Film and TV Productions - TV Shows Magazine"
-  og_description: "Wilmington, North Carolina, renowned for its scenic beauty, has long been a popular filming location, featuring music that enhances storytelling. Productions filmed here often reflect the area's vibrant spirit, creating memorable cinematic experiences with lasting cultural impact."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/03/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/19-iconic-songs-from-wilmingtons-film-and-tv-productions/
+  og_title: >-
+    19 Iconic Songs from Wilmington's Film and TV Productions - TV Shows
+    Magazine
+  og_description: >-
+    Wilmington, North Carolina, renowned for its scenic beauty, has long been a
+    popular filming location, featuring music that enhances storytelling.
+    Productions filmed here often reflect the area's vibrant spirit, creating
+    memorable cinematic experiences with lasting cultural impact.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/03/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 53
 score_breakdown:
   seo_quality: 45
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 30
   keyword_relevance: 60
-quality_note: "The article has a misleading title promising 19 specific songs but delivers vague discussion about only 2, with poor SEO optimization and concerning factual accuracy issues."
+quality_note: >-
+  The article has a misleading title promising 19 specific songs but delivers
+  vague discussion about only 2, with poor SEO optimization and concerning
+  factual accuracy issues.
+image_alt: >-
+  Golden-hour Wilmington waterfront with film gear and music cues evoking
+  coastal screen productions.
 ---
 
 Wilmington, North Carolina, known for its charming coastal scenery, has long been a favorite location for filmmakers. Over the years, this picturesque city has provided the backdrop for numerous movies and TV shows, showcasing not only its visual beauty but also a rich tapestry of music that enhances storytelling. This article explores some of the notable productions filmed in Wilmington and the iconic songs featured in them.
