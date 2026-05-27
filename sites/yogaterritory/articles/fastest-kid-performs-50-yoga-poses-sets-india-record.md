@@ -1,27 +1,35 @@
 ---
-title: "Fastest Kid Performs 50 Yoga Poses Sets India Record"
-description: "A young yoga achiever earns India Book of Records recognition for completing 50 poses at record speed, showcasing discipline, flexibility, focus, and the growing impact of children's yoga in India."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T08:42:14+00:00"
-author: "Taylor Winters"
+title: Fastest Kid Performs 50 Yoga Poses Sets India Record
+description: >-
+  A young yoga achiever earns India Book of Records recognition for completing
+  50 poses at record speed, showcasing discipline, flexibility, focus, and the
+  growing impact of children's yoga in India.
+type: standard
+status: published
+publishDate: '2026-05-07T08:42:14+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Mindfullness"
-  - "Yoga For Beginners"
-  - "Yoga Postures"
-slug: "fastest-kid-performs-50-yoga-poses-sets-india-record"
+  - Yoga Poses
+  - Mindfullness
+  - Yoga For Beginners
+  - Yoga Postures
+slug: fastest-kid-performs-50-yoga-poses-sets-india-record
 reading_time: 7
-source_url: "https://yogaterritory.com/fastest-kid-performs-50-yoga-poses-sets-india-record/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/fastest-kid-performs-50-yoga-poses-sets-india-record/
+imported_from: wordpress
 wp_original_id: 20757
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/fastest-kid-performs-50-yoga-poses-sets-india-record.webp
 seo:
-  canonical: "https://yogaterritory.com/fastest-kid-performs-50-yoga-poses-sets-india-record/"
-  og_title: "Fastest Kid Performs 50 Yoga Poses Sets India Record - Yoga Territory"
-  og_description: "A young yoga achiever earns India Book of Records recognition for completing 50 poses at record speed, showcasing discipline, flexibility, focus, and the growing impact of children’s yoga in India."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/05/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/fastest-kid-performs-50-yoga-poses-sets-india-record/
+  og_title: Fastest Kid Performs 50 Yoga Poses Sets India Record - Yoga Territory
+  og_description: >-
+    A young yoga achiever earns India Book of Records recognition for completing
+    50 poses at record speed, showcasing discipline, flexibility, focus, and the
+    growing impact of children’s yoga in India.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/05/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and perfect length, but lacks specific verifiable details about the record and contains some unsubstantiated claims about yoga benefits."
+quality_note: >-
+  Well-written article with good tone and perfect length, but lacks specific
+  verifiable details about the record and contains some unsubstantiated claims
+  about yoga benefits.
+image_alt: Young child practicing yoga with graceful motion in a bright studio
 ---
 
 A young yoga achiever has earned national attention by setting a remarkable India Book of Records milestone for speed, flexibility, and focus. The record recognizes the fastest kid to perform 50 yoga poses, a feat that combines physical control, breath awareness, memory, and disciplined practice. Completing such a demanding sequence at a young age shows more than agility. It reflects preparation, confidence, and the growing influence of yoga among children in India.
