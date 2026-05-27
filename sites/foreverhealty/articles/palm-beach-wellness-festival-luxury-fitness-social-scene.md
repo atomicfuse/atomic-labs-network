@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.floridaweekly.com/events/porsche-and-pilates-at-xcel-padel/'
 source_item_id: 6a13fc9f16f23264031d7b88
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/palm-beach-wellness-festival-luxury-fitness-social-scene.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -32,6 +32,9 @@ quality_note: >-
   meta description and could benefit from more actionable health content for the
   target audience.
 reading_time: 3
+image_alt: >-
+  Stylish Palm Beach wellness festival with padel, Pilates, cold plunges, and
+  luxury resort energy
 ---
 ## Luxury Wellness Meets Social Fitness in Palm Beach
 
