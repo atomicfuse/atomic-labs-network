@@ -1,25 +1,38 @@
 ---
-title: "Discover the Innovative Air Coffee Revolutionizing Iced Americano"
-description: "South Korea is advancing its renewable energy agenda by investing in solar and wind power, aiming to reduce carbon emissions and enhance energy security. The government supports this transition with policies and incentives to boost the renewable energy sector."
-type: "standard"
-status: "review"
-publishDate: "2026-03-19T09:15:36+00:00"
-author: "Taylor Winters"
+title: Discover the Innovative Air Coffee Revolutionizing Iced Americano
+description: >-
+  South Korea is advancing its renewable energy agenda by investing in solar and
+  wind power, aiming to reduce carbon emissions and enhance energy security. The
+  government supports this transition with policies and incentives to boost the
+  renewable energy sector.
+type: standard
+status: review
+publishDate: '2026-03-19T09:15:36+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "discover-the-innovative-air-coffee-revolutionizing-iced-americano"
+  - Coffee News
+  - News
+slug: discover-the-innovative-air-coffee-revolutionizing-iced-americano
 reading_time: 3
-source_url: "https://coffeeactually.com/discover-the-innovative-air-coffee-revolutionizing-iced-americano/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/discover-the-innovative-air-coffee-revolutionizing-iced-americano/
+imported_from: wordpress
 wp_original_id: 51423
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-innovative-air-coffee-revolutionizing-iced-americano.webp
 seo:
-  canonical: "https://coffeeactually.com/discover-the-innovative-air-coffee-revolutionizing-iced-americano/"
-  og_title: "Discover the Innovative Air Coffee Revolutionizing Iced Americano - Coffee Actually"
-  og_description: "South Korea is advancing its renewable energy agenda by investing in solar and wind power, aiming to reduce carbon emissions and enhance energy security. The government supports this transition with policies and incentives to boost the renewable energy sector."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/discover-the-innovative-air-coffee-revolutionizing-iced-americano/
+  og_title: >-
+    Discover the Innovative Air Coffee Revolutionizing Iced Americano - Coffee
+    Actually
+  og_description: >-
+    South Korea is advancing its renewable energy agenda by investing in solar
+    and wind power, aiming to reduce carbon emissions and enhance energy
+    security. The government supports this transition with policies and
+    incentives to boost the renewable energy sector.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 39
 score_breakdown:
   seo_quality: 15
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article is completely off-topic, discussing South Korean renewable energy instead of coffee, with a misleading title about 'Air Coffee' and 'Iced Americano' that has no relation to the content."
+quality_note: >-
+  The article is completely off-topic, discussing South Korean renewable energy
+  instead of coffee, with a misleading title about 'Air Coffee' and 'Iced
+  Americano' that has no relation to the content.
+image_alt: >-
+  Iced Americano in a Seoul café with solar panels and wind turbines reflected
+  in the window
 ---
 
 South Korea is making significant strides in the realm of environmental sustainability by aiming to significantly reduce carbon emissions. The nation has laid out an ambitious plan to enhance its use of renewable energy sources, which is expected to play a crucial role in achieving these environmental goals.
