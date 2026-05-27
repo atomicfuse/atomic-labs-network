@@ -1,24 +1,30 @@
 ---
-title: "WayV Unveils New Winter Album ‘Eternal White’ Release"
-description: "WayV, a subunit of NCT, is set to return with a new winter album, \"Eternal White,\" thrilling fans worldwide. Known for their dynamic sound, the group aims to reconnect with their audience and showcase their evolving artistry."
-type: "standard"
-status: "published"
-publishDate: "2025-11-17T10:20:50+00:00"
-author: "Lena Harper"
+title: WayV Unveils New Winter Album ‘Eternal White’ Release
+description: >-
+  WayV, a subunit of NCT, is set to return with a new winter album, "Eternal
+  White," thrilling fans worldwide. Known for their dynamic sound, the group
+  aims to reconnect with their audience and showcase their evolving artistry.
+type: standard
+status: published
+publishDate: '2025-11-17T10:20:50+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "wayv-unveils-new-winter-album-eternal-white-release"
+  - Music
+slug: wayv-unveils-new-winter-album-eternal-white-release
 reading_time: 3
-source_url: "https://wtpop.com/wayv-unveils-new-winter-album-eternal-white-release/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/wayv-unveils-new-winter-album-eternal-white-release/'
+imported_from: wordpress
 wp_original_id: 558
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/wayv-unveils-new-winter-album-eternal-white-release.webp
 seo:
-  canonical: "https://wtpop.com/wayv-unveils-new-winter-album-eternal-white-release/"
-  og_title: "WayV Unveils New Winter Album 'Eternal White' Release - WTPOP"
-  og_description: "WayV, a subunit of NCT, is set to return with a new winter album, \"Eternal White,\" thrilling fans worldwide. Known for their dynamic sound, the group aims to reconnect with their audience and showcase their evolving artistry."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-6-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/wayv-unveils-new-winter-album-eternal-white-release/'
+  og_title: WayV Unveils New Winter Album 'Eternal White' Release - WTPOP
+  og_description: >-
+    WayV, a subunit of NCT, is set to return with a new winter album, "Eternal
+    White," thrilling fans worldwide. Known for their dynamic sound, the group
+    aims to reconnect with their audience and showcase their evolving artistry.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file-6-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +32,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong music content with engaging tone, but lacks verification of the album announcement and falls short of optimal word count."
+quality_note: >-
+  Strong music content with engaging tone, but lacks verification of the album
+  announcement and falls short of optimal word count.
+image_alt: >-
+  Anonymous performers stand in icy white stage light amid drifting snow and
+  silver reflections.
 ---
 
 WayV, a prominent subunit of the South Korean boy band NCT, has announced their much-anticipated return to the music scene with a new winter album titled "Eternal White." This news has thrilled fans worldwide who have been eagerly waiting for fresh music from the talented group. The upcoming album promises to deliver the group's signature style, blending captivating melodies with powerful performances, and is poised to be a significant addition to their impressive discography.
