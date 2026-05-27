@@ -1,24 +1,41 @@
 ---
-title: "Vaccines and monoclonal antibodies being developed for respiratory syncytial virus"
-description: "A review of recent advancements in RSV immunoprophylactic measures, covering the landscape of vaccines and monoclonal antibodies in development to prevent respiratory syncytial virus infections in infants, pregnant women, and older adults."
-type: "standard"
-status: "review"
-publishDate: "2022-08-14T01:29:40+00:00"
-author: "admin"
+title: >-
+  Vaccines and monoclonal antibodies being developed for respiratory syncytial
+  virus
+description: >-
+  A review of recent advancements in RSV immunoprophylactic measures, covering
+  the landscape of vaccines and monoclonal antibodies in development to prevent
+  respiratory syncytial virus infections in infants, pregnant women, and older
+  adults.
+type: standard
+status: review
+publishDate: '2022-08-14T01:29:40+00:00'
+author: admin
 tags:
-  - "Parenting"
-  - "Children's Health"
-slug: "vaccines-and-monoclonal-antibodies-being-developed-for-respiratory-syncytial-virus"
+  - Parenting
+  - Children's Health
+slug: >-
+  vaccines-and-monoclonal-antibodies-being-developed-for-respiratory-syncytial-virus
 reading_time: 9
-source_url: "https://babyparenttrends.com/vaccines-and-monoclonal-antibodies-being-developed-for-respiratory-syncytial-virus/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/vaccines-and-monoclonal-antibodies-being-developed-for-respiratory-syncytial-virus/
+imported_from: wordpress
 wp_original_id: 17247
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/vaccines-and-monoclonal-antibodies-being-developed-for-respiratory-syncytial-virus.webp
 seo:
-  canonical: "https://babyparenttrends.com/vaccines-and-monoclonal-antibodies-being-developed-for-respiratory-syncytial-virus/"
-  og_title: "Vaccines and monoclonal antibodies being developed for respiratory syncytial virus - Baby Parent Trends"
-  og_description: "The respiratory syncytial virus (RSV) is responsible for a third of pneumonia cases around the world and is the second leading cause of infant deaths. RSV also affects older people above the age of 60 years, causing both illness and death on a scale similar to that of influenza in this patient population. Over 99% [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/vaccines-and-monoclonal-antibodies-being-developed-for-respiratory-syncytial-virus/
+  og_title: >-
+    Vaccines and monoclonal antibodies being developed for respiratory syncytial
+    virus - Baby Parent Trends
+  og_description: >-
+    The respiratory syncytial virus (RSV) is responsible for a third of
+    pneumonia cases around the world and is the second leading cause of infant
+    deaths. RSV also affects older people above the age of 60 years, causing
+    both illness and death on a scale similar to that of influenza in this
+    patient population. Over 99% [&hellip;]
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -26,7 +43,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 75
-quality_note: "The article is scientifically accurate and relevant to children's health but uses overly technical medical language inappropriate for the target parent audience, making it difficult for families to understand and engage with."
+quality_note: >-
+  The article is scientifically accurate and relevant to children's health but
+  uses overly technical medical language inappropriate for the target parent
+  audience, making it difficult for families to understand and engage with.
+image_alt: >-
+  Softly lit clinical research scene symbolizing RSV protection across
+  vulnerable age groups.
 ---
 
 The respiratory syncytial virus (RSV) is responsible for a third of pneumonia cases around the world and is the second leading cause of infant deaths. RSV also affects older people above the age of 60 years, causing both illness and death on a scale similar to that of influenza in this patient population.
