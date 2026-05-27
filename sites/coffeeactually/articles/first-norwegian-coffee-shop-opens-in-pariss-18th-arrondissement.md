@@ -1,24 +1,37 @@
 ---
-title: "First Norwegian Coffee Shop Opens in Paris’s 18th Arrondissement"
-description: "In the heart of Montmartre, Bonne Montmartre introduces a Scandinavian twist to the Parisian café scene, offering quality Norwegian coffee, traditional pastries, and a welcoming community space in the vibrant 18th arrondissement of Paris."
-type: "standard"
-status: "review"
-publishDate: "2026-02-02T09:15:36+00:00"
-author: "Taylor Winters"
+title: First Norwegian Coffee Shop Opens in Paris’s 18th Arrondissement
+description: >-
+  In the heart of Montmartre, Bonne Montmartre introduces a Scandinavian twist
+  to the Parisian café scene, offering quality Norwegian coffee, traditional
+  pastries, and a welcoming community space in the vibrant 18th arrondissement
+  of Paris.
+type: standard
+status: review
+publishDate: '2026-02-02T09:15:36+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Drinks"
-slug: "first-norwegian-coffee-shop-opens-in-pariss-18th-arrondissement"
+  - Coffee Drinks
+slug: first-norwegian-coffee-shop-opens-in-pariss-18th-arrondissement
 reading_time: 3
-source_url: "https://coffeeactually.com/first-norwegian-coffee-shop-opens-in-pariss-18th-arrondissement/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/first-norwegian-coffee-shop-opens-in-pariss-18th-arrondissement/
+imported_from: wordpress
 wp_original_id: 51393
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/first-norwegian-coffee-shop-opens-in-pariss-18th-arrondissement.webp
 seo:
-  canonical: "https://coffeeactually.com/first-norwegian-coffee-shop-opens-in-pariss-18th-arrondissement/"
-  og_title: "First Norwegian Coffee Shop Opens in Paris's 18th Arrondissement - Coffee Actually"
-  og_description: "In the heart of Montmartre, Bonne Montmartre introduces a Scandinavian twist to the Parisian café scene, offering quality Norwegian coffee, traditional pastries, and a welcoming community space in the vibrant 18th arrondissement of Paris."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/first-norwegian-coffee-shop-opens-in-pariss-18th-arrondissement/
+  og_title: >-
+    First Norwegian Coffee Shop Opens in Paris's 18th Arrondissement - Coffee
+    Actually
+  og_description: >-
+    In the heart of Montmartre, Bonne Montmartre introduces a Scandinavian twist
+    to the Parisian café scene, offering quality Norwegian coffee, traditional
+    pastries, and a welcoming community space in the vibrant 18th arrondissement
+    of Paris.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and factual content, but significantly under target word count and could better integrate coffee-specific keywords for SEO optimization."
+quality_note: >-
+  Well-written article with good tone and factual content, but significantly
+  under target word count and could better integrate coffee-specific keywords
+  for SEO optimization.
+image_alt: >-
+  Warm Montmartre café interior with Nordic pastries, coffee cups, and people
+  gathered in soft window light.
 ---
 
 In the charming district of Montmartre, a new coffee haven has emerged, offering a unique Scandinavian twist on the traditional Parisian café experience. Bonne Montmartre, proudly standing as the first Norwegian coffee shop in Paris, invites both locals and tourists to savor its exquisite offerings in the vibrant 18th arrondissement.
