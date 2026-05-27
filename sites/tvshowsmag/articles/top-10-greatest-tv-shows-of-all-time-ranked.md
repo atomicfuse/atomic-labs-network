@@ -1,25 +1,33 @@
 ---
-title: "Top 10 Greatest TV Shows of All Time Ranked"
-description: "Television's golden age features groundbreaking shows like \"The Sopranos,\" \"Breaking Bad,\" and \"Game of Thrones,\" each redefining storytelling with complex narratives and cultural impact, inspiring new generations of creators on streaming platforms and beyond."
-type: "standard"
-status: "published"
-publishDate: "2025-08-28T05:05:26+00:00"
-author: "Taylor Winters"
+title: Top 10 Greatest TV Shows of All Time Ranked
+description: >-
+  Television's golden age features groundbreaking shows like "The Sopranos,"
+  "Breaking Bad," and "Game of Thrones," each redefining storytelling with
+  complex narratives and cultural impact, inspiring new generations of creators
+  on streaming platforms and beyond.
+type: standard
+status: published
+publishDate: '2025-08-28T05:05:26+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "top-10-greatest-tv-shows-of-all-time-ranked"
+  - TV News
+  - TV Shows
+slug: top-10-greatest-tv-shows-of-all-time-ranked
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-10-greatest-tv-shows-of-all-time-ranked/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/top-10-greatest-tv-shows-of-all-time-ranked/'
+imported_from: wordpress
 wp_original_id: 28088
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/top-10-greatest-tv-shows-of-all-time-ranked.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-10-greatest-tv-shows-of-all-time-ranked/"
-  og_title: "Top 10 Greatest TV Shows of All Time Ranked - TV Shows Magazine"
-  og_description: "Television's golden age features groundbreaking shows like \"The Sopranos,\" \"Breaking Bad,\" and \"Game of Thrones,\" each redefining storytelling with complex narratives and cultural impact, inspiring new generations of creators on platforms like streaming services."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/08/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/top-10-greatest-tv-shows-of-all-time-ranked/'
+  og_title: Top 10 Greatest TV Shows of All Time Ranked - TV Shows Magazine
+  og_description: >-
+    Television's golden age features groundbreaking shows like "The Sopranos,"
+    "Breaking Bad," and "Game of Thrones," each redefining storytelling with
+    complex narratives and cultural impact, inspiring new generations of
+    creators on platforms like streaming services.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/08/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and factual content, but significantly under target word count at 495 words versus 800-1200 target range."
+quality_note: >-
+  Well-written article with good tone and factual content, but significantly
+  under target word count at 495 words versus 800-1200 target range.
+image_alt: >-
+  A glowing vintage television in a moody screening room with abstract
+  reflections of iconic TV genres.
 ---
 
 Television has become an integral part of our daily lives, offering stories that captivate, entertain, and challenge us. As we reflect on the golden age of TV, certain shows stand out for their groundbreaking narratives and cultural impact. This exploration delves into some of the most acclaimed TV series of all time, celebrating their contributions to the world of entertainment.
