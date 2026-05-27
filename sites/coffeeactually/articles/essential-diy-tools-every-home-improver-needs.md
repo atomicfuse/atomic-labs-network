@@ -1,28 +1,32 @@
 ---
-title: "Essential DIY Tools Every Home Improver Needs"
-description: "Discover three must-have tools for any DIY enthusiast that even the pros might not want you to know about."
-type: "standard"
-status: "review"
-publishDate: "2025-08-07T04:01:41+00:00"
-author: "Taylor Winters"
+title: Essential DIY Tools Every Home Improver Needs
+description: >-
+  Discover three must-have tools for any DIY enthusiast that even the pros might
+  not want you to know about.
+type: standard
+status: review
+publishDate: '2025-08-07T04:01:41+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beginner"
-slug: "essential-diy-tools-every-home-improver-needs"
+  - Coffee News
+  - Beginner
+slug: essential-diy-tools-every-home-improver-needs
 reading_time: 2
-source_url: "https://coffeeactually.com/essential-diy-tools-every-home-improver-needs/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/essential-diy-tools-every-home-improver-needs/'
+imported_from: wordpress
 wp_original_id: 51307
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/essential-diy-tools-every-home-improver-needs.webp
 seo:
-  canonical: "https://coffeeactually.com/essential-diy-tools-every-home-improver-needs/"
-  og_title: "Essential DIY Tools Every Home Improver Needs - Coffee Actually"
-  og_description: "Discover three must-have tools for any DIY enthusiast that even the pros might not want you to know about."
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/essential-diy-tools-every-home-improver-needs/'
+  og_title: Essential DIY Tools Every Home Improver Needs - Coffee Actually
+  og_description: >-
+    Discover three must-have tools for any DIY enthusiast that even the pros
+    might not want you to know about.
+  twitter_card: summary_large_image
 videos:
-  - id: "f54fb520"
-    url: "https://www.youtube.com/watch?v=e71ACLgcGdc"
-    position: "after-paragraph-2"
+  - id: f54fb520
+    url: 'https://www.youtube.com/watch?v=e71ACLgcGdc'
+    position: after-paragraph-2
 quality_score: 30
 score_breakdown:
   seo_quality: 15
@@ -30,7 +34,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for a coffee site, covering DIY tools instead of coffee-related content, and is far too short at only 266 words."
+quality_note: >-
+  This article is completely off-topic for a coffee site, covering DIY tools
+  instead of coffee-related content, and is far too short at only 266 words.
+image_alt: >-
+  Three essential DIY tools arranged on a warm wooden workbench in a tidy home
+  workshop
 ---
 
 For those who love to tackle home projects themselves, having the right tools can make all the difference. Here are three essential tools that every DIYer should consider adding to their arsenal. These tools are not just handy; they are game-changers that professionals might not want you to discover.
