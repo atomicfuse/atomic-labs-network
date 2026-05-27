@@ -39,12 +39,12 @@ score_breakdown:
   factual_accuracy: 80
   keyword_relevance: 90
 quality_note: >-
-  Well-written article with good tone and keyword coverage, but falls short on
-  length (476 words vs 800-1200 target) and could benefit from stronger SEO
-  optimization.
+  Well-written article with strong keyword relevance and appropriate tone, but
+  significantly under target word count and lacks specific research citations to
+  support claims.
 image_alt: >-
-  Older adult seated on a bed at dawn with subtle neural light patterns near
-  their legs
+  Person sitting on a bed at dawn with one restless leg and a subtle neural
+  light pattern
 ---
 
 Restless leg syndrome (RLS) is a neurological disorder that causes an irresistible urge to move the legs, often accompanied by uncomfortable sensations. Recent research suggests that individuals with RLS may face a heightened risk of developing Parkinson's disease, a progressive neurological condition characterized by tremors, stiffness, and difficulty with movement and balance.

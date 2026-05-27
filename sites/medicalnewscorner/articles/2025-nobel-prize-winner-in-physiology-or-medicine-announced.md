@@ -36,21 +36,21 @@ seo:
     medical implications.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/04/make_file-1.jpeg'
   twitter_card: summary_large_image
-quality_score: 64
+quality_score: 66
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
+  content_length: 60
   factual_accuracy: 20
   keyword_relevance: 90
 quality_note: >-
-  While the article demonstrates strong tone and keyword alignment with medical
-  health topics, it contains fabricated information about a 2025 Nobel Prize
-  (which hasn't been awarded yet) and falls significantly short of the target
-  word count.
+  While the article demonstrates excellent tone and keyword relevance for
+  medical health enthusiasts, it contains a major factual inaccuracy by
+  announcing a 2025 Nobel Prize that hasn't occurred yet, and falls short of the
+  target word count.
 image_alt: >-
-  Luminous immune-cell forms over a modern lab bench under a warm golden
-  spotlight
+  Golden light surrounds immune cells in a modern lab, symbolizing a major
+  medical breakthrough.
 ---
 
 In a groundbreaking achievement, the 2025 Nobel Prize in Physiology or Medicine has been awarded for pioneering research that has revolutionized our understanding of the human immune system. This prestigious honor underscores the impact of innovative discoveries that have far-reaching implications for modern medicine.

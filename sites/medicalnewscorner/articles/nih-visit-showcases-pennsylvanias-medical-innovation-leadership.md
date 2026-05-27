@@ -36,20 +36,20 @@ seo:
     medical breakthroughs.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/04/make_file.jpeg'
   twitter_card: summary_large_image
-quality_score: 76
+quality_score: 75
 score_breakdown:
-  seo_quality: 75
+  seo_quality: 65
   tone_match: 85
   content_length: 60
-  factual_accuracy: 70
+  factual_accuracy: 75
   keyword_relevance: 90
 quality_note: >-
-  The article effectively covers relevant medical research topics with good tone
-  and keyword integration, but suffers from being too short at 600 words and
-  lacks specific details that could enhance credibility.
+  The article effectively covers medical research topics with good tone and
+  keyword relevance, but is too short at 600 words and lacks specific details
+  that could raise accuracy concerns.
 image_alt: >-
-  Researchers work in a modern biomedical lab with glowing gene-sequencing
-  visuals and hopeful clinical lighting.
+  Scientists in a modern lab study glowing biomedical data symbolizing
+  Pennsylvania medical innovation.
 ---
 
 Pennsylvania has long been a cornerstone of medical innovation, playing a crucial role in advancing healthcare through groundbreaking research and technology. Recently, a significant visit by leaders from the National Institutes of Health (NIH) to institutions in Pennsylvania underscored the state's contributions and collaborations in the medical field. This visit highlighted the ongoing efforts and future potential for medical breakthroughs that can improve lives globally.

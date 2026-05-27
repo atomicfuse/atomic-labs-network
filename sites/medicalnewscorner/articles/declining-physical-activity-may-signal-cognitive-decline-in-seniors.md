@@ -2,8 +2,8 @@
 title: Declining Physical Activity May Signal Cognitive Decline in Seniors
 description: >-
   A gradual drop in physical activity among older adults may signal more than
-  aging, sometimes reflecting early cognitive changes, mood issues, or health
-  problems that deserve timely attention.
+  normal aging, sometimes reflecting early cognitive changes, mood issues, or
+  health problems that deserve timely attention.
 type: standard
 status: published
 publishDate: '2026-05-25T08:18:19+00:00'
@@ -33,20 +33,19 @@ seo:
     problems that deserve timely attention.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file-5.jpeg'
   twitter_card: summary_large_image
-quality_score: 91
+quality_score: 92
 score_breakdown:
   seo_quality: 85
   tone_match: 90
   content_length: 100
   factual_accuracy: 95
-  keyword_relevance: 85
+  keyword_relevance: 88
 quality_note: >-
-  Well-written, medically sound article with excellent tone and length, though
-  it could benefit from stronger SEO optimization in the title and better
-  keyword integration.
+  Well-structured article with excellent tone and comprehensive coverage of the
+  topic, though the title could be slightly more compelling for SEO purposes.
 image_alt: >-
-  Older adult pauses beside a quiet park path at sunset, suggesting changes in
-  daily activity.
+  Older adult pausing on a sunlit park path, suggesting changing activity and
+  wellbeing.
 ---
 
 A noticeable drop in daily movement may be more than a normal part of aging. Emerging research suggests that declining physical activity in older adults can sometimes appear alongside early cognitive changes, including shifts in memory, attention, planning, and processing speed.

@@ -35,20 +35,20 @@ seo:
     progression.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/05/make_file-6.jpeg'
   twitter_card: summary_large_image
-quality_score: 80
+quality_score: 82
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 75
   tone_match: 85
-  content_length: 75
+  content_length: 65
   factual_accuracy: 90
-  keyword_relevance: 85
+  keyword_relevance: 95
 quality_note: >-
-  Well-written health article with good tone and accurate information, but the
-  title doesn't match the content focus and could benefit from better SEO
-  optimization and length.
+  Well-written, informative article with excellent keyword relevance and tone,
+  but falls short of optimal length and could benefit from stronger SEO elements
+  like meta description optimization.
 image_alt: >-
-  Midlife adult in a softly lit home office with abstract neural particles
-  suggesting cognitive change
+  Middle-aged adult in a home office with subtle neural and molecular patterns
+  suggesting dementia research.
 ---
 
 Dementia, often associated with older adults, can also affect individuals in their middle years. Understanding the underlying causes and risk factors is crucial for early diagnosis and management. Middle-age dementia, although less common, presents unique challenges and requires targeted research to improve outcomes for those affected.

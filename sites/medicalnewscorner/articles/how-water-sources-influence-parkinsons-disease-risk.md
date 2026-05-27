@@ -31,20 +31,18 @@ seo:
     developing Parkinson's.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-3.jpeg'
   twitter_card: summary_large_image
-quality_score: 78
+quality_score: 75
 score_breakdown:
-  seo_quality: 78
+  seo_quality: 75
   tone_match: 85
-  content_length: 51
-  factual_accuracy: 90
-  keyword_relevance: 88
+  content_length: 40
+  factual_accuracy: 85
+  keyword_relevance: 90
 quality_note: >-
-  Well-written article with good tone and accuracy, but falls significantly
-  short of the target word count at only 514 words compared to the 800-1200 word
-  target range.
-image_alt: >-
-  Glass of water and lab sample in soft light suggesting environmental health
-  concerns
+  Strong content quality with excellent topic relevance and tone, but
+  significantly below target word count at 514 words versus the 800-1200 target
+  range.
+image_alt: Glass of water on a sunlit counter with a blurred elderly hand nearby
 ---
 
 Parkinson's disease, a progressive neurological disorder, affects millions worldwide. Recent studies suggest that environmental factors, including water sources, may influence the risk of developing this condition. As researchers delve deeper into these connections, understanding the role of water contaminants becomes crucial in the broader context of Parkinson's disease prevention.

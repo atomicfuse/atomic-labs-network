@@ -31,19 +31,21 @@ seo:
     outcomes worldwide.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/12/make_file-8.jpeg'
   twitter_card: summary_large_image
-quality_score: 67
+quality_score: 65
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 55
-  factual_accuracy: 30
+  factual_accuracy: 20
   keyword_relevance: 90
 quality_note: >-
-  Strong topic relevance and tone but severely hampered by speculative 2025
-  content presented as fact and insufficient word count for target audience.
+  While the article has good tone and keyword relevance, it's significantly
+  undermined by presenting 2025 medical breakthroughs as accomplished facts when
+  2025 hasn't occurred yet, creating major factual accuracy issues, and the
+  content is too short at 548 words.
 image_alt: >-
-  Clinicians study glowing medical holograms in a modern research hospital,
-  symbolizing healthcare breakthroughs.
+  Clinicians gather around a glowing abstract human form symbolizing medical
+  breakthroughs.
 ---
 
 The year 2025 marked a significant era in the realm of medical advancements, ushering in groundbreaking technologies and therapies that have profoundly impacted patient care. From innovative treatments in oncology to revolutionary developments in organ transplantation, the medical community witnessed remarkable achievements that have set new standards in healthcare.

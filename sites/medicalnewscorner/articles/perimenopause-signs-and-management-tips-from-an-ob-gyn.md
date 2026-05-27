@@ -32,17 +32,19 @@ seo:
     protect long-term health.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file-1.jpeg'
   twitter_card: summary_large_image
-quality_score: 92
+quality_score: 93
 score_breakdown:
   seo_quality: 85
-  tone_match: 92
+  tone_match: 95
   content_length: 100
   factual_accuracy: 95
-  keyword_relevance: 88
+  keyword_relevance: 90
 quality_note: >-
-  Well-structured, medically accurate article with excellent tone and optimal
-  length, though the title could be slightly more compelling for SEO.
-image_alt: Calm midlife woman by a sunlit window with wellness items nearby
+  Excellent medical content with perfect tone and length, strong SEO structure,
+  accurate information, and comprehensive coverage of perimenopause management.
+image_alt: >-
+  Woman in morning light with tea, yoga mat, and fruit suggesting balanced
+  midlife self-care.
 ---
 
 Perimenopause can feel confusing because it rarely starts with one clear signal. Periods may shift, sleep may become lighter, and hot flashes can appear without warning. This transition is a normal stage before menopause, but that does not mean people have to simply endure it. With the right perimenopause management plan, diet, exercise, sleep habits, and medical care can reduce symptoms and protect long-term health.

@@ -41,12 +41,12 @@ score_breakdown:
   factual_accuracy: 95
   keyword_relevance: 95
 quality_note: >-
-  Well-written medical article with excellent tone and comprehensive coverage of
-  colorectal cancer research, though the title could be slightly more compelling
-  for SEO.
+  Well-structured, engaging article that effectively covers stem cell cancer
+  research with appropriate medical tone and excellent keyword integration for
+  the target audience.
 image_alt: >-
-  Glowing hidden cancer-like cells in an abstract tissue environment under a
-  diagnostic light.
+  Abstract lab scene with hidden glowing cells suggesting dormant colorectal
+  cancer recurrence risk
 ---
 
 Colorectal cancer can return even after successful treatment, and scientists are increasingly focused on why. New research points to a small group of stem-like cancer cells that may survive therapy, hide in the body, and later help tumors grow again.

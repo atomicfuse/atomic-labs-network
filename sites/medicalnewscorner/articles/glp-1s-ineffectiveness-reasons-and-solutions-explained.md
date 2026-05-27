@@ -33,19 +33,20 @@ seo:
     those who find these medications less effective.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/04/make_file-3.jpeg'
   twitter_card: summary_large_image
-quality_score: 81
+quality_score: 80
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 60
   factual_accuracy: 90
-  keyword_relevance: 95
+  keyword_relevance: 90
 quality_note: >-
-  Well-written article with excellent topic relevance and accuracy, but falls
-  short of optimal length at 605 words when 800-1200 is preferred.
+  Well-written article with strong medical accuracy and keyword relevance, but
+  falls short of target word count at 605 words versus the preferred 800-1200
+  range.
 image_alt: >-
-  Clinician and patient discuss personalized metabolic care in a bright modern
-  clinic.
+  Patient and clinician discuss personalized treatment options in a calm, softly
+  lit medical consultation.
 ---
 
 GLP-1 receptor agonists are increasingly popular medications used for managing type 2 diabetes and obesity. These drugs, which include well-known names like semaglutide, have transformed how these conditions are treated. However, it's important to recognize that they may not deliver the desired results for every individual.

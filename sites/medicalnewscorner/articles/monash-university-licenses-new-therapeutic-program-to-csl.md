@@ -32,20 +32,18 @@ seo:
     outcomes and advancing innovation in medical research.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-1.jpeg'
   twitter_card: summary_large_image
-quality_score: 72
+quality_score: 67
 score_breakdown:
-  seo_quality: 75
-  tone_match: 85
+  seo_quality: 65
+  tone_match: 75
   content_length: 40
   factual_accuracy: 70
-  keyword_relevance: 90
+  keyword_relevance: 85
 quality_note: >-
-  Strong tone and keyword relevance but significantly under target word count at
-  470 words, and lacks specific details about the therapeutic program which
-  raises accuracy concerns.
-image_alt: >-
-  Researchers collaborate around a glowing molecular model in a modern
-  biotechnology lab.
+  Article covers relevant research topics well but falls short on length (470
+  words vs 800-1200 target) and lacks specific details about the therapeutic
+  program, making content somewhat generic.
+image_alt: Scientists study a glowing molecular model in a modern biotechnology lab.
 ---
 
 Monash University has taken a significant step forward in the field of medical therapeutics by licensing a groundbreaking program to CSL, a leader in global biotechnology. This partnership is poised to advance the development of innovative treatments that may transform patient outcomes worldwide. The collaboration underscores Monash's commitment to leveraging cutting-edge research to address critical health challenges.

@@ -32,19 +32,19 @@ seo:
     the aging process and promoting healthier longevity.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/05/make_file-7.jpeg'
   twitter_card: summary_large_image
-quality_score: 77
+quality_score: 76
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 65
+  content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
 quality_note: >-
-  Well-written article with good keyword relevance and tone, but falls short on
-  length and makes unsupported claims about vitamin D slowing aging by 3 years
-  without citing specific research.
+  Strong topic relevance and tone but falls short on word count (640 vs 800-1200
+  target) and makes some unsupported claims about vitamin D's anti-aging effects
+  that need more evidence backing.
 image_alt: >-
-  Mature adult in soft sunlight with abstract golden particles suggesting
+  Older adult in warm sunlight with subtle abstract cellular strands suggesting
   healthy aging
 ---
 

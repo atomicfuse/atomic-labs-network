@@ -30,18 +30,18 @@ seo:
     significant cognitive benefits.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/07/make_file-3.jpeg'
   twitter_card: summary_large_image
-quality_score: 77
+quality_score: 76
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 65
+  content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
 quality_note: >-
-  Well-written article with good keyword relevance and tone, but falls short on
-  word count and lacks specific study citations to support the claimed 24%
-  reduction figure.
-image_alt: Woman preparing a colorful heart-healthy meal in a sunlit kitchen
+  Well-written article with strong keyword relevance and appropriate tone, but
+  falls short on length (525 words vs 800-1200 target) and lacks specific
+  statistics to support the claimed 24% reduction figure.
+image_alt: Brain-inspired arrangement of healthy foods on a bright kitchen surface
 ---
 
 Recent studies suggest that adopting certain dietary patterns can significantly reduce the risk of dementia, with a pronounced effect observed in women. As the global population ages, the search for effective preventive measures against cognitive decline becomes increasingly critical. Among various lifestyle choices, the foods we consume play a vital role in brain health. Research identifies the Mediterranean diet, alongside three other dietary approaches, as particularly beneficial in lowering dementia risk.

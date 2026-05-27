@@ -34,19 +34,19 @@ seo:
     detection and personalized care, while innovative therapies and
     collaboration drive progress in managing the disease.
   twitter_card: summary_large_image
-quality_score: 73
+quality_score: 75
 score_breakdown:
-  seo_quality: 72
+  seo_quality: 75
   tone_match: 85
-  content_length: 25
+  content_length: 30
   factual_accuracy: 90
   keyword_relevance: 95
 quality_note: >-
-  Well-written article with excellent keyword relevance and tone, but
-  significantly below target word count which severely impacts overall quality.
+  Strong research-focused content with good tone and accuracy, but significantly
+  under target word count at 505 words versus 800-1200 range.
 image_alt: >-
-  Older adult in soft light beside abstract glowing neural pathways and clinical
-  research elements.
+  Translucent brain form linking a research lab and clinical care space with
+  flowing light strands
 ---
 
 Alzheimer's disease continues to pose significant challenges in the realm of healthcare, affecting millions globally. The integration of recent scientific discoveries with translational science holds promise for transforming Alzheimer's care. By bridging the gap between research and clinical practice, new strategies for diagnosis and treatment can be developed, potentially altering the disease trajectory.

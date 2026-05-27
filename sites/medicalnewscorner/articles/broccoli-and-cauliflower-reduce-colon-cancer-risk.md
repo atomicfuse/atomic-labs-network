@@ -32,20 +32,20 @@ seo:
     of diet in cancer prevention.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file-3.jpeg'
   twitter_card: summary_large_image
-quality_score: 81
+quality_score: 82
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 60
+  content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
 quality_note: >-
-  Well-written health article with strong keyword relevance and accurate
-  information, but falls short of optimal length at 558 words when targeting
-  800-1200 words.
+  Well-written health article with strong keyword alignment and accurate
+  content, but falls short of target word count at 558 words instead of the
+  preferred 800-1200 range.
 image_alt: >-
-  Fresh broccoli and cauliflower on a bright kitchen surface with a soft
-  protective green glow.
+  Fresh broccoli and cauliflower in soft kitchen light suggesting digestive
+  health and prevention
 ---
 
 Colon cancer remains a significant health challenge worldwide, prompting researchers to examine the role diet plays in its prevention. Emerging evidence suggests that consuming cruciferous vegetables, like broccoli, could offer protective benefits against this type of cancer. This article delves into the potential link between broccoli intake and reduced colon cancer risk, drawing on current research findings and nutritional insights.

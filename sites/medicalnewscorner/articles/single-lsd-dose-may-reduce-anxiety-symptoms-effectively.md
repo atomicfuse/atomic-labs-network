@@ -33,18 +33,20 @@ seo:
     could play a crucial role in reducing anxiety.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/09/make_file-1.jpeg'
   twitter_card: summary_large_image
-quality_score: 71
+quality_score: 72
 score_breakdown:
   seo_quality: 75
-  tone_match: 80
-  content_length: 45
+  tone_match: 85
+  content_length: 40
   factual_accuracy: 70
-  keyword_relevance: 85
+  keyword_relevance: 90
 quality_note: >-
-  Article demonstrates good topic relevance and tone but falls significantly
-  short of target length at only 435 words and lacks specific research citations
-  to support its claims.
-image_alt: Calm person in a softly lit room surrounded by gentle abstract neural patterns
+  Well-structured article with good tone and keyword relevance, but
+  significantly under target length and lacks specific study citations which
+  raises factual accuracy concerns.
+image_alt: >-
+  Calm silhouette surrounded by soft colorful neural patterns in a serene
+  wellness setting
 ---
 
 Recent scientific studies have highlighted the potential benefits of LSD, a powerful psychedelic, in alleviating anxiety symptoms. As mental health challenges continue to rise globally, researchers are exploring unconventional therapies, finding that even a single dose of LSD may offer significant relief.

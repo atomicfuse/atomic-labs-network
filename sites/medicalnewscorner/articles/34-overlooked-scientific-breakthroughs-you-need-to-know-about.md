@@ -35,20 +35,20 @@ seo:
     awareness and appreciation.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/06/make_file-3.jpeg'
   twitter_card: summary_large_image
-quality_score: 53
+quality_score: 57
 score_breakdown:
   seo_quality: 25
   tone_match: 70
-  content_length: 40
-  factual_accuracy: 60
-  keyword_relevance: 70
+  content_length: 45
+  factual_accuracy: 85
+  keyword_relevance: 60
 quality_note: >-
-  Article has poor SEO optimization with a clickbait title that doesn't deliver
-  on its promise, insufficient word count for target audience, but maintains
-  appropriate tone and covers relevant research topics.
+  Article has poor SEO optimization with clickbait title that doesn't match
+  content, is too short at 441 words, but maintains good tone and covers
+  relevant research topics without major factual issues.
 image_alt: >-
-  Glowing scientific objects on a dark lab table suggest overlooked discoveries
-  waiting to be noticed.
+  Glowing scientific symbols emerge from shadow in a futuristic lab-library
+  space.
 ---
 
 Scientific discoveries often reshape our understanding of the world, yet many groundbreaking findings barely receive the attention they deserve. As society moves rapidly through technological advancements, some scientific milestones are overshadowed or simply go unnoticed by the general public. This article explores fascinating discoveries that, despite their significance, have been largely shrugged off by the masses.

@@ -29,19 +29,19 @@ seo:
     method, may increase diabetes risk by causing insulin resistance,
     highlighting the need for awareness and preventive strategies.
   twitter_card: summary_large_image
-quality_score: 78
+quality_score: 77
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
+  content_length: 40
   factual_accuracy: 90
-  keyword_relevance: 90
+  keyword_relevance: 95
 quality_note: >-
-  Well-written article with good tone and keyword relevance, but significantly
-  under target word count at 555 words versus the 800-1200 target range.
+  Strong content relevance and tone but significantly under target word count at
+  555 words versus the 800-1200 range.
 image_alt: >-
-  Nicotine products linked visually to a glucose meter in a clinical editorial
-  still life
+  Cigarette, vape pen, and nicotine pouch beside abstract glucose-risk visuals
+  on a clinical table.
 ---
 
 The connection between smoking, vaping, and the use of nicotine pouches with increased risk of type 2 diabetes has become a significant concern for public health experts. As these nicotine delivery methods grow in popularity, understanding their potential impact on metabolic health is crucial for informing both users and healthcare providers.

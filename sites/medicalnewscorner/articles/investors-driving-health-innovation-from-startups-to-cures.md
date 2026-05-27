@@ -40,12 +40,12 @@ score_breakdown:
   factual_accuracy: 90
   keyword_relevance: 70
 quality_note: >-
-  Well-written article with good tone and accuracy, but falls short on word
-  count (602 vs 800-1200 target) and could better integrate core health topics
-  like specific conditions or wellness advice.
+  Well-written article with good tone and accuracy, but falls short on length
+  (602 words vs 800-1200 target) and could better integrate core health topics
+  like specific conditions or wellness.
 image_alt: >-
-  Abstract healthcare innovation network connecting investment, research, and
-  patient care
+  Golden data pathways connect a modern healthcare lab, digital tools, and
+  molecular research.
 ---
 
 Investors are playing a pivotal role in advancing health innovation, transforming the landscape of medical research and healthcare delivery. By directing funds into promising startups and technologies, they are not only seeking financial returns but also aiming to bring about groundbreaking medical solutions. This dynamic interaction between capital and innovation is reshaping the future of health care.

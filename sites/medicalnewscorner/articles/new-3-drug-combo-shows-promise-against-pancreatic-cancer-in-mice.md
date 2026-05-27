@@ -41,11 +41,10 @@ score_breakdown:
   factual_accuracy: 75
   keyword_relevance: 90
 quality_note: >-
-  Well-written article with good tone and strong keyword relevance, but falls
-  short on length and lacks specific study details for credibility.
-image_alt: >-
-  Three glowing lab vials on a research bench suggesting hopeful advances in
-  pancreatic cancer treatment
+  Well-written article with good tone and keyword coverage, but falls short on
+  length (493 words vs 800-1200 target) and lacks specific research details that
+  could strengthen credibility.
+image_alt: Three medicine vials on a modern lab bench lit by hopeful morning light
 ---
 
 Pancreatic cancer is notorious for its aggressive nature and poor prognosis, posing significant challenges to medical professionals worldwide. Recent research has highlighted a promising three-drug combination that could potentially improve treatment outcomes for this formidable disease. This innovative approach has generated significant interest, as it may offer new hope for patients battling advanced stages of pancreatic cancer.

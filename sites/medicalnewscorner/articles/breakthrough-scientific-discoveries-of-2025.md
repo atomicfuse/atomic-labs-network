@@ -34,17 +34,17 @@ seo:
 quality_score: 61
 score_breakdown:
   seo_quality: 65
-  tone_match: 80
+  tone_match: 75
   content_length: 65
   factual_accuracy: 20
-  keyword_relevance: 75
+  keyword_relevance: 80
 quality_note: >-
-  The article maintains good tone and covers relevant health topics, but
-  contains major factual issues by presenting 2025 discoveries as completed
-  achievements when written before 2025, and falls short of optimal word count.
+  While the article has good tone and keyword coverage, it contains significant
+  factual inaccuracies by presenting speculative 2025 developments as
+  established facts, and falls short of the target word count.
 image_alt: >-
-  Scientist facing a glowing holographic sphere with DNA, quantum, climate, and
-  space motifs
+  Abstract futuristic horizon combining DNA, quantum patterns, carbon capture,
+  and space exploration motifs.
 ---
 
 The year 2025 marked significant advancements in scientific research, paving the way for groundbreaking discoveries that will shape the future. From medical breakthroughs to technological innovations, scientists across the globe have made remarkable progress in various fields, impacting our understanding of the world and enhancing our quality of life.

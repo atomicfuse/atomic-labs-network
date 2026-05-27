@@ -32,20 +32,19 @@ seo:
     promising benefits for cognitive health and resilience.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/06/make_file-2.jpeg'
   twitter_card: summary_large_image
-quality_score: 83
+quality_score: 79
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 70
+  content_length: 55
   factual_accuracy: 90
-  keyword_relevance: 95
+  keyword_relevance: 90
 quality_note: >-
-  Strong article on brain health with excellent keyword relevance and accurate
-  information, though slightly below optimal length and could benefit from a
-  more compelling title.
+  Well-written article with strong tone and factual accuracy but significantly
+  short at 562 words compared to the 800-1200 word target range.
 image_alt: >-
-  Older adult walking in a sunlit park with subtle neural-like light patterns
-  suggesting brain health.
+  Older adult jogging in a sunlit park with subtle neural glow suggesting brain
+  health
 ---
 
 Regular physical activity has long been hailed for its myriad benefits, from improving cardiovascular health to enhancing mood. Recent research has uncovered another remarkable advantage: exercise may play a crucial role in protecting the brain from the effects of aging and Alzheimer's disease. As we delve into this fascinating finding, we explore how exercise contributes to brain health and the possible mechanisms at play.

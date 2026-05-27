@@ -34,20 +34,20 @@ seo:
     like dementia and depression, enhancing overall well-being.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/06/make_file-1.jpeg'
   twitter_card: summary_large_image
-quality_score: 79
+quality_score: 80
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
+  content_length: 60
   factual_accuracy: 90
-  keyword_relevance: 95
+  keyword_relevance: 90
 quality_note: >-
-  Strong content relevance and tone but significantly below target word count at
-  506 words, which severely impacts overall quality despite good medical
-  information.
+  Well-written article with good tone and relevant health content, but
+  significantly under the target word count which limits its SEO potential and
+  depth of coverage.
 image_alt: >-
-  Older adult walking in a sunlit park with subtle glowing DNA-inspired light in
-  the background
+  Older adult walking in a sunny park with a subtle glowing DNA strand
+  suggesting healthy aging.
 ---
 
 Understanding the factors that influence our health as we age is critical in today's world. Recent research highlights how adopting a healthy lifestyle can mitigate the risks associated with conditions like dementia, stroke, and depression. These findings offer fresh insights into how telomere length—often a marker of biological aging—interacts with lifestyle choices to impact overall health.

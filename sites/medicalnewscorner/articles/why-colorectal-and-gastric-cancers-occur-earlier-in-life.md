@@ -34,20 +34,19 @@ seo:
     factors, highlighting the need for increased awareness and early detection.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/07/make_file-1.jpeg'
   twitter_card: summary_large_image
-quality_score: 82
+quality_score: 81
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 65
+  content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
 quality_note: >-
-  Strong content relevance and tone but falls short on length (493 words vs
-  800-1200 target) and could benefit from stronger SEO optimization in title and
-  meta description.
+  Well-written article with excellent topic relevance and tone, but
+  significantly under target length at 493 words when 800-1200 is expected.
 image_alt: >-
-  Young adult in a modern clinic as medical professionals review abstract health
-  scans nearby.
+  Young adult in a modern clinic with subtle abstract health overlays suggesting
+  early cancer awareness.
 ---
 
 Colorectal and other gastrointestinal cancers are increasingly being diagnosed in younger populations, a trend that has sparked significant concern among medical professionals. Traditionally, these cancers were more common in individuals over 50, but recent studies indicate a shift that requires urgent attention and understanding. Let's explore why this is happening and what factors might be contributing to this unsettling development.

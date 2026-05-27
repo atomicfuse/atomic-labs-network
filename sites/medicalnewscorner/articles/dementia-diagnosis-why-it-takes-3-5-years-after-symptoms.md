@@ -40,11 +40,9 @@ score_breakdown:
   keyword_relevance: 80
 quality_note: >-
   Well-written article with good tone and accuracy, but falls short on length
-  (613 words vs 800+ target) and could benefit from stronger SEO optimization in
-  headings and meta elements.
-image_alt: >-
-  Older adult and caregiver at a sunlit kitchen table, suggesting support during
-  a long diagnostic journey.
+  (613 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in headings and keyword integration.
+image_alt: Older adult and clinician in quiet conversation beside a softly lit window
 ---
 
 Dementia, a progressive neurological disorder, often eludes timely diagnosis. Despite its profound impact on individuals and their families, the time from the onset of symptoms to diagnosis can extend to an average of 3.5 years. This significant delay raises concerns about the factors contributing to prolonged diagnosis times and the potential implications for patient care and quality of life.

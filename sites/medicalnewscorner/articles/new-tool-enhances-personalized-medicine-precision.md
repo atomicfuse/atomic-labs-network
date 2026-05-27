@@ -30,19 +30,19 @@ seo:
     advanced algorithms and machine learning techniques.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/07/make_file-4.jpeg'
   twitter_card: summary_large_image
-quality_score: 71
+quality_score: 75
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 75
   tone_match: 85
   content_length: 40
-  factual_accuracy: 75
+  factual_accuracy: 85
   keyword_relevance: 90
 quality_note: >-
-  Strong topic relevance and appropriate tone, but significantly under target
-  word count and lacks specific data or citations to support claims.
+  Well-written article with strong relevance to research and medical topics, but
+  significantly under target word count at 414 words versus the 800-1200 range.
 image_alt: >-
-  Clinician reviews abstract patient data with DNA and AI patterns in a modern
-  medical research setting.
+  Abstract clinical scene with data points forming a human profile, suggesting
+  precision personalized medicine.
 ---
 
 In the rapidly evolving field of personalized medicine, researchers at the Medical College of Georgia are making significant strides. They have developed a novel tool aimed at enhancing the precision of treatment plans tailored to individual patients. This advancement holds the promise of transforming patient care by ensuring more accurate and effective therapeutic interventions.

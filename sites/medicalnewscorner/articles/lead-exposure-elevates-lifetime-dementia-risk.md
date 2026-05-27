@@ -34,15 +34,16 @@ quality_score: 74
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 42
+  content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
 quality_note: >-
-  Well-written article with good tone and accuracy, but significantly under
-  target word count at 425 words versus the 800-1200 range.
+  Well-written article with good tone and accurate information, but
+  significantly under the target word count at only 425 words compared to the
+  800-1200 word target.
 image_alt: >-
-  Older adult by a worn apartment window with subtle neural reflections
-  suggesting environmental health risk
+  Older resident by a window in an aging urban apartment with subtle neural
+  patterns in the light
 ---
 
 Emerging research suggests that lifelong exposure to lead may have detrimental effects on brain health. This concern is particularly relevant given the pervasive presence of lead in the environment and its historical use in various industries. Understanding the full impact of lead exposure is crucial for public health and safety.

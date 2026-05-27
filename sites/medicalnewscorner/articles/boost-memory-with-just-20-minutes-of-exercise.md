@@ -28,19 +28,20 @@ seo:
     serving as a preventive measure against memory-related issues.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-4.jpeg'
   twitter_card: summary_large_image
-quality_score: 72
+quality_score: 80
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 75
   tone_match: 85
-  content_length: 60
-  factual_accuracy: 70
-  keyword_relevance: 80
+  content_length: 70
+  factual_accuracy: 80
+  keyword_relevance: 90
 quality_note: >-
-  Well-written article with good tone and health relevance, but falls short on
-  word count and lacks specific research citations for credibility.
+  Well-written health article with good keyword integration and appropriate
+  tone, but slightly short of target length and lacks specific study citations
+  for stronger factual support.
 image_alt: >-
-  A person jogging in a sunlit park with subtle glowing neural trails suggesting
-  improved memory
+  A jogger in a sunny park with subtle glowing neural light trails suggesting
+  memory and brain health.
 ---
 
 Engaging in physical activity has long been associated with numerous health benefits, but recent research highlights a compelling link between brief exercise sessions and improved cognitive function. A study suggests that just 20 minutes of physical activity could enhance memory capabilities, offering a simple yet powerful tool to boost brain health.

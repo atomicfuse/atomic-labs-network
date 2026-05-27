@@ -34,19 +34,19 @@ seo:
     management.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file.jpeg'
   twitter_card: summary_large_image
-quality_score: 75
+quality_score: 77
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 40
-  factual_accuracy: 85
-  keyword_relevance: 90
+  factual_accuracy: 90
+  keyword_relevance: 95
 quality_note: >-
-  Well-written article with good tone and keyword coverage, but significantly
-  too short at 395 words for the 800-1200 word target range.
+  Strong topic relevance and tone but significantly under target word count at
+  395 words versus 800-1200 target range.
 image_alt: >-
-  Person preparing for a healthy morning routine with medication, water, food,
-  and exercise bands nearby.
+  Unbranded injection pen beside dumbbells and healthy food on a sunlit kitchen
+  counter
 ---
 
 In recent years, GLP-1 receptor agonists like Ozempic have gained popularity for their effectiveness in weight management. These medications, originally developed for diabetes, have been noted for their ability to help users shed pounds effectively. However, concerns have emerged regarding the potential for muscle mass loss during their use. New findings suggest that the extent of muscle loss may not be as significant as previously thought, offering a more balanced perspective on these medications.

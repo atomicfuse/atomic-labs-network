@@ -1,54 +1,35 @@
 ---
-title: 'Keto Diet’s Impact on Depression: Improving Symptoms Naturally'
-description: >-
-  The ketogenic diet, popular for weight loss, may also benefit mental health by
-  alleviating depression symptoms through its influence on neurotransmitters and
-  inflammation reduction. Professional guidance is advised for those considering
-  keto as a complementary approach to managing depression.
-type: standard
-status: published
-publishDate: '2025-11-27T09:17:24+00:00'
-author: Taylor Winters
+title: "Keto Diet’s Impact on Depression: Improving Symptoms Naturally"
+description: "The ketogenic diet, popular for weight loss, may also benefit mental health by alleviating depression symptoms. Research highlights its influence on neurotransmitters and inflammation reduction, suggesting potential mood improvements, though professional guidance is advised for those considering keto as a complementary approach."
+type: "standard"
+status: "published"
+publishDate: "2025-11-27T09:17:24+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Clinical Trials &amp; Research
-  - Fitness &amp; Food
-  - Mental Health
-slug: keto-diets-impact-on-depression-improving-symptoms-naturally
+  - "Research"
+  - "Clinical Trials &amp; Research"
+  - "Fitness &amp; Food"
+  - "Mental Health"
+slug: "keto-diets-impact-on-depression-improving-symptoms-naturally"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/keto-diets-impact-on-depression-improving-symptoms-naturally/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/keto-diets-impact-on-depression-improving-symptoms-naturally/"
+imported_from: "wordpress"
 wp_original_id: 24735
-featuredImage: >-
-  /assets/images/keto-diets-impact-on-depression-improving-symptoms-naturally.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/keto-diets-impact-on-depression-improving-symptoms-naturally/
-  og_title: >-
-    Keto Diet's Impact on Depression: Improving Symptoms Naturally - Medical
-    News Corner
-  og_description: >-
-    The ketogenic diet, popular for weight loss, may also benefit mental health
-    by alleviating depression symptoms. Research highlights its influence on
-    neurotransmitters and inflammation reduction, suggesting potential mood
-    improvements. Professional guidance is advised for those considering keto as
-    a complementary approach.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/11/make_file-7.jpeg'
-  twitter_card: summary_large_image
-quality_score: 77
+  canonical: "https://medicalnewscorner.com/keto-diets-impact-on-depression-improving-symptoms-naturally/"
+  og_title: "Keto Diet's Impact on Depression: Improving Symptoms Naturally - Medical News Corner"
+  og_description: "The ketogenic diet, popular for weight loss, may also benefit mental health by alleviating depression symptoms. Research highlights its influence on neurotransmitters and inflammation reduction, suggesting potential mood improvements. Professional guidance is advised for those considering keto as a complementary approach."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/11/make_file-7.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 75
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 40
-  factual_accuracy: 90
-  keyword_relevance: 95
-quality_note: >-
-  Strong keyword relevance and tone but significantly under target word count at
-  414 words versus 800-1200 range.
-image_alt: >-
-  Sunlit keto-friendly breakfast on a calm table symbolizing improved mood and
-  mental clarity.
+  content_length: 45
+  factual_accuracy: 80
+  keyword_relevance: 90
+quality_note: "Well-written article with strong keyword relevance and appropriate tone, but significantly below target word count which limits its SEO potential and depth of coverage."
 ---
 
 In recent years, the ketogenic diet has gained popularity not only for weight loss but also for its potential mental health benefits. Emerging research suggests that this high-fat, low-carbohydrate dietary regimen might play a role in alleviating symptoms of depression.

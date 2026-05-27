@@ -31,19 +31,19 @@ seo:
     well-being, making exercise a crucial part of osteoarthritis management.
   og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/10/make_file-3.jpeg'
   twitter_card: summary_large_image
-quality_score: 77
+quality_score: 78
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 55
+  content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
 quality_note: >-
-  Well-written article with good tone and accurate health information, but
-  significantly under the target word count at 557 words when 800-1200 is
-  expected.
+  Well-written, informative article with good tone and accuracy, but falls short
+  of target length and could benefit from stronger SEO optimization including
+  meta description and more specific keyword integration.
 image_alt: >-
-  Older adult walking confidently in a sunny park, suggesting gentle exercise
+  Older adult cycling gently in a sunny park, suggesting joint-friendly exercise
   for knee pain relief
 ---
 
