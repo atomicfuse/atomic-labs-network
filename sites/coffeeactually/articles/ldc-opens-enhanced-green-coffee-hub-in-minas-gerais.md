@@ -1,26 +1,36 @@
 ---
-title: "LDC Opens Enhanced Green Coffee Hub in Minas Gerais"
-description: "The expansion of Louis Dreyfus Company's green coffee facility in Minas Gerais enhances processing capabilities, supports local farmers, and promotes sustainability, ensuring a steady supply of high-quality coffee beans amid rising global demand."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T04:01:36+00:00"
-author: "Taylor Winters"
+title: LDC Opens Enhanced Green Coffee Hub in Minas Gerais
+description: >-
+  The expansion of Louis Dreyfus Company's green coffee facility in Minas Gerais
+  enhances processing capabilities, supports local farmers, and promotes
+  sustainability, ensuring a steady supply of high-quality coffee beans amid
+  rising global demand.
+type: standard
+status: published
+publishDate: '2025-07-03T04:01:36+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beans"
-  - "News"
-slug: "ldc-opens-enhanced-green-coffee-hub-in-minas-gerais"
+  - Coffee News
+  - Beans
+  - News
+slug: ldc-opens-enhanced-green-coffee-hub-in-minas-gerais
 reading_time: 3
-source_url: "https://coffeeactually.com/ldc-opens-enhanced-green-coffee-hub-in-minas-gerais/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/ldc-opens-enhanced-green-coffee-hub-in-minas-gerais/
+imported_from: wordpress
 wp_original_id: 51293
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/ldc-opens-enhanced-green-coffee-hub-in-minas-gerais.webp
 seo:
-  canonical: "https://coffeeactually.com/ldc-opens-enhanced-green-coffee-hub-in-minas-gerais/"
-  og_title: "LDC Opens Enhanced Green Coffee Hub in Minas Gerais - Coffee Actually"
-  og_description: "The expansion of Louis Dreyfus Company's green coffee facility in Minas Gerais enhances processing capabilities, supports local farmers, and promotes sustainability, ensuring a steady supply of high-quality coffee beans amid rising global demand."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/07/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/ldc-opens-enhanced-green-coffee-hub-in-minas-gerais/
+  og_title: LDC Opens Enhanced Green Coffee Hub in Minas Gerais - Coffee Actually
+  og_description: >-
+    The expansion of Louis Dreyfus Company's green coffee facility in Minas
+    Gerais enhances processing capabilities, supports local farmers, and
+    promotes sustainability, ensuring a steady supply of high-quality coffee
+    beans amid rising global demand.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/07/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written coffee industry news piece with good tone and relevance, but falls short on word count (584 vs 800-1200 target) and could benefit from stronger SEO optimization in title and headings."
+quality_note: >-
+  Well-written coffee industry news piece with good tone and relevance, but
+  falls short on word count (584 vs 800-1200 target) and could benefit from
+  stronger SEO optimization in title and headings.
+image_alt: >-
+  Modern coffee processing hub in Minas Gerais with workers inspecting green
+  coffee beans
 ---
 
 The recent expansion of a green coffee facility in Minas Gerais marks a significant step forward for Louis Dreyfus Company (LDC), enhancing the company's capabilities in one of Brazil's prime coffee regions. This development is set to improve the efficiency and sustainability of coffee processing, catering to the increasing global demand for high-quality coffee beans.
