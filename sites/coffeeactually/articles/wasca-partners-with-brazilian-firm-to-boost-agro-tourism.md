@@ -1,25 +1,34 @@
 ---
-title: "WASCA Partners with Brazilian Firm to Boost Agro-Tourism"
-description: "The West African Tourism Union (WASCA) is partnering with a leading Brazilian agricultural company to boost agro-tourism, integrating farming and tourism to enhance economic growth and cultural exchange across the region."
-type: "standard"
-status: "review"
-publishDate: "2025-08-21T04:01:44+00:00"
-author: "Taylor Winters"
+title: WASCA Partners with Brazilian Firm to Boost Agro-Tourism
+description: >-
+  The West African Tourism Union (WASCA) is partnering with a leading Brazilian
+  agricultural company to boost agro-tourism, integrating farming and tourism to
+  enhance economic growth and cultural exchange across the region.
+type: standard
+status: review
+publishDate: '2025-08-21T04:01:44+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "wasca-partners-with-brazilian-firm-to-boost-agro-tourism"
+  - Coffee News
+  - News
+slug: wasca-partners-with-brazilian-firm-to-boost-agro-tourism
 reading_time: 3
-source_url: "https://coffeeactually.com/wasca-partners-with-brazilian-firm-to-boost-agro-tourism/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/wasca-partners-with-brazilian-firm-to-boost-agro-tourism/
+imported_from: wordpress
 wp_original_id: 51312
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/wasca-partners-with-brazilian-firm-to-boost-agro-tourism.webp
 seo:
-  canonical: "https://coffeeactually.com/wasca-partners-with-brazilian-firm-to-boost-agro-tourism/"
-  og_title: "WASCA Partners with Brazilian Firm to Boost Agro-Tourism - Coffee Actually"
-  og_description: "The West African Tourism Union is partnering with a Brazilian agricultural company to boost agro-tourism, integrating farming and tourism to enhance economic growth and cultural exchange. This collaboration aims to transform agriculture in West Africa using Brazilian expertise."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/wasca-partners-with-brazilian-firm-to-boost-agro-tourism/
+  og_title: WASCA Partners with Brazilian Firm to Boost Agro-Tourism - Coffee Actually
+  og_description: >-
+    The West African Tourism Union is partnering with a Brazilian agricultural
+    company to boost agro-tourism, integrating farming and tourism to enhance
+    economic growth and cultural exchange. This collaboration aims to transform
+    agriculture in West Africa using Brazilian expertise.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 44
 score_breakdown:
   seo_quality: 25
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 40
   keyword_relevance: 15
-quality_note: "Article is well-written but completely misaligned with coffeeactually's focus on coffee content, lacks proper SEO optimization, and contains vague claims without specific details or sources."
+quality_note: >-
+  Article is well-written but completely misaligned with coffeeactually's focus
+  on coffee content, lacks proper SEO optimization, and contains vague claims
+  without specific details or sources.
+image_alt: >-
+  Visitors and a local farmer walk through a vibrant West African agro-tourism
+  farm at golden hour.
 ---
 
 The West African Tourism Union (WASCA) is taking significant strides to boost agro-tourism in the region through an innovative partnership with a leading Brazilian agricultural company. This collaboration aims to transform the agricultural landscape by integrating tourism, thus enhancing economic growth and cultural exchange.
