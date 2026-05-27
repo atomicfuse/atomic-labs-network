@@ -23,7 +23,7 @@ source_url: >-
   https://www.elle.com/culture/celebrities/a71392950/why-taylor-swift-missed-american-music-awards-2026/
 source_item_id: 6a14fea216f23264031d803e
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/taylor-swift-skips-amas-8-nominations-wedding-plans.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   word count and contains unverified claims about wedding plans that may be
   speculative.
 reading_time: 2
+image_alt: >-
+  Empty spotlighted awards-show seat with a microphone, bridal veil, and bouquet
+  under magenta stage lights.
 ---
 ## Swift's Surprising AMA Absence
 
