@@ -1,25 +1,33 @@
 ---
-title: "Coffee Exports Surge 61% in 2025"
-description: "Vietnam's coffee industry is experiencing significant growth, driven by increased export volumes and improved quality. Favorable weather, advanced farming techniques, and supportive government policies have contributed to a 61% rise in exports, boosting the nation's global market presence."
-type: "standard"
-status: "review"
-publishDate: "2025-10-03T05:15:39+00:00"
-author: "Taylor Winters"
+title: Coffee Exports Surge 61% in 2025
+description: >-
+  Vietnam's coffee industry is experiencing significant growth, driven by
+  increased export volumes and improved quality. Favorable weather, advanced
+  farming techniques, and supportive government policies have contributed to a
+  61% rise in exports, boosting the nation's global market presence.
+type: standard
+status: review
+publishDate: '2025-10-03T05:15:39+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "coffee-exports-surge-61-in-2025"
+  - Coffee News
+  - News
+slug: coffee-exports-surge-61-in-2025
 reading_time: 3
-source_url: "https://coffeeactually.com/coffee-exports-surge-61-in-2025/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/coffee-exports-surge-61-in-2025/'
+imported_from: wordpress
 wp_original_id: 51324
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffee-exports-surge-61-in-2025.webp
 seo:
-  canonical: "https://coffeeactually.com/coffee-exports-surge-61-in-2025/"
-  og_title: "Coffee Exports Surge 61% in 2025 - Coffee Actually"
-  og_description: "Vietnam's coffee industry is experiencing significant growth, driven by increased export volumes and improved quality. Favorable weather, advanced farming techniques, and supportive government policies have contributed to a 61% rise in exports, boosting the nation's global market presence."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/10/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/coffee-exports-surge-61-in-2025/'
+  og_title: Coffee Exports Surge 61% in 2025 - Coffee Actually
+  og_description: >-
+    Vietnam's coffee industry is experiencing significant growth, driven by
+    increased export volumes and improved quality. Favorable weather, advanced
+    farming techniques, and supportive government policies have contributed to a
+    61% rise in exports, boosting the nation's global market presence.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/10/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: "The article covers relevant coffee news topics with good tone but is significantly too short and contains a major factual accuracy issue with the unsupported 61% export growth claim for 2025."
+quality_note: >-
+  The article covers relevant coffee news topics with good tone but is
+  significantly too short and contains a major factual accuracy issue with the
+  unsupported 61% export growth claim for 2025.
+image_alt: >-
+  Vietnamese coffee harvest and export port scene symbolizing rapid industry
+  growth
 ---
 
 Vietnam's coffee industry has been witnessing remarkable growth, positioning itself as a key player in the global market. This upward trend is largely driven by increased export volumes, which have provided a significant boost to the country's economy. As the world continues to appreciate the rich flavors and quality of Vietnamese coffee, the nation aims to further strengthen its presence in the international arena.
