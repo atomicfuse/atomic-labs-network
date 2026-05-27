@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://www.looper.com/2177880/peter-krause-best-tv-shows-according-imdb/'
 source_item_id: 6a151ac216f23264031d80f3
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/peter-krause-best-tv-shows-imdb-ranking.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written entertainment piece with good tone but significantly under target
   word count and weak keyword alignment with site's focus areas.
 reading_time: 3
+image_alt: >-
+  A silhouetted TV actor stands before five glowing doorways suggesting
+  different genres and eras.
 ---
 ## A Television Career Spanning Decades
 
