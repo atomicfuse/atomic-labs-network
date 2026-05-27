@@ -1,24 +1,32 @@
 ---
-title: "THE HARA Unveils New Album ‘The Fallout’"
-description: "The Hara's album \"The Fallout\" promises an innovative sound and meaningful lyrics, showcasing their artistic evolution. Known for their energetic performances, the band captivates with a unique fusion of rock, pop, and alternative music, offering fans a fresh experience."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T05:23:23+00:00"
-author: "Lena Harper"
+title: THE HARA Unveils New Album ‘The Fallout’
+description: >-
+  The Hara's album "The Fallout" promises an innovative sound and meaningful
+  lyrics, showcasing their artistic evolution. Known for their energetic
+  performances, the band captivates with a unique fusion of rock, pop, and
+  alternative music, offering fans a fresh experience.
+type: standard
+status: review
+publishDate: '2025-08-28T05:23:23+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "the-hara-unveils-new-album-the-fallout"
+  - Music
+slug: the-hara-unveils-new-album-the-fallout
 reading_time: 3
-source_url: "https://wtpop.com/the-hara-unveils-new-album-the-fallout/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/the-hara-unveils-new-album-the-fallout/'
+imported_from: wordpress
 wp_original_id: 530
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/the-hara-unveils-new-album-the-fallout.webp
 seo:
-  canonical: "https://wtpop.com/the-hara-unveils-new-album-the-fallout/"
-  og_title: "THE HARA Unveils New Album 'The Fallout' - WTPOP"
-  og_description: "The Hara's album \"The Fallout\" promises an innovative sound and meaningful lyrics, showcasing their artistic evolution. Known for their energetic performances, the band captivates with a unique fusion of rock, pop, and alternative music, offering fans a fresh experience."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/08/make_file-4-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/the-hara-unveils-new-album-the-fallout/'
+  og_title: THE HARA Unveils New Album 'The Fallout' - WTPOP
+  og_description: >-
+    The Hara's album "The Fallout" promises an innovative sound and meaningful
+    lyrics, showcasing their artistic evolution. Known for their energetic
+    performances, the band captivates with a unique fusion of rock, pop, and
+    alternative music, offering fans a fresh experience.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/08/make_file-4-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong music content with engaging tone but falls short on length and lacks specific SEO optimization elements like structured headings and meta description within target range."
+quality_note: >-
+  Strong music content with engaging tone but falls short on length and lacks
+  specific SEO optimization elements like structured headings and meta
+  description within target range.
+image_alt: >-
+  Moody empty rock venue with glowing stage lights and instruments in silhouette
+  after a performance.
 ---
 
 The Hara, an energetic and dynamic band, are set to captivate audiences with their upcoming album, "The Fallout." Known for their electrifying performances and unique sound, The Hara has been making waves in the music industry. This latest project promises to elevate their musical journey to new heights and offers fans a fresh listening experience. With the anticipation building, the album's release marks a significant milestone for the band, showcasing their growth and artistic evolution.
