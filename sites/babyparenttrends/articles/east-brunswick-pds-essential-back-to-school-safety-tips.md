@@ -1,26 +1,38 @@
 ---
-title: "East Brunswick PD’s Essential Back-to-School Safety Tips"
-description: "As East Brunswick students return to school, safety on roads is crucial. The police department promotes guidelines for students, parents, and drivers, aiming to create a secure environment during commutes. Cooperation and vigilance are key to protecting children."
-type: "standard"
-status: "review"
-publishDate: "2025-09-04T04:39:22+00:00"
-author: "Taylor Winters"
+title: East Brunswick PD’s Essential Back-to-School Safety Tips
+description: >-
+  As East Brunswick students return to school, safety on roads is crucial. The
+  police department promotes guidelines for students, parents, and drivers,
+  aiming to create a secure environment during commutes. Cooperation and
+  vigilance are key to protecting children.
+type: standard
+status: review
+publishDate: '2025-09-04T04:39:22+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "News"
-  - "Parents"
-slug: "east-brunswick-pds-essential-back-to-school-safety-tips"
+  - Kids
+  - News
+  - Parents
+slug: east-brunswick-pds-essential-back-to-school-safety-tips
 reading_time: 3
-source_url: "https://babyparenttrends.com/east-brunswick-pds-essential-back-to-school-safety-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/east-brunswick-pds-essential-back-to-school-safety-tips/
+imported_from: wordpress
 wp_original_id: 17713
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/east-brunswick-pds-essential-back-to-school-safety-tips.webp
 seo:
-  canonical: "https://babyparenttrends.com/east-brunswick-pds-essential-back-to-school-safety-tips/"
-  og_title: "East Brunswick PD's Essential Back-to-School Safety Tips - Baby Parent Trends"
-  og_description: "As East Brunswick students return to school, safety on roads is crucial. The police department promotes guidelines for students, parents, and drivers, aiming to create a secure environment during commutes. Cooperation and vigilance are key to protecting children."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/09/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/east-brunswick-pds-essential-back-to-school-safety-tips/
+  og_title: >-
+    East Brunswick PD's Essential Back-to-School Safety Tips - Baby Parent
+    Trends
+  og_description: >-
+    As East Brunswick students return to school, safety on roads is crucial. The
+    police department promotes guidelines for students, parents, and drivers,
+    aiming to create a secure environment during commutes. Cooperation and
+    vigilance are key to protecting children.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/09/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 45
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article is well-written and informative but falls short on length (410 words vs 800-1200 target) and lacks strong SEO optimization for the parenting niche."
+quality_note: >-
+  The article is well-written and informative but falls short on length (410
+  words vs 800-1200 target) and lacks strong SEO optimization for the parenting
+  niche.
+image_alt: >-
+  Children with backpacks cross a suburban street safely with adults nearby on a
+  school morning.
 ---
 
 As students in East Brunswick prepare to head back to school, ensuring their safety on the roads is paramount. The East Brunswick Police Department is actively promoting safety guidelines for students, parents, and drivers. These measures aim to create a secure environment for everyone involved in the daily commute to and from school.
