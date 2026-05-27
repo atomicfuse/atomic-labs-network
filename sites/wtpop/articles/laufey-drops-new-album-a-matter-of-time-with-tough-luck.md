@@ -1,24 +1,32 @@
 ---
-title: "Laufey Drops New Album ‘A Matter Of Time’ with ‘Tough Luck’"
-description: "Laufey's newest album, A Matter of Time, blends jazz and pop with sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck, features dynamic rhythms and introspective themes, showcasing her growth and cementing her place in the music industry."
-type: "standard"
-status: "review"
-publishDate: "2025-05-15T06:12:06+00:00"
-author: "Lena Harper"
+title: Laufey Drops New Album ‘A Matter Of Time’ with ‘Tough Luck’
+description: >-
+  Laufey's newest album, A Matter of Time, blends jazz and pop with
+  sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck,
+  features dynamic rhythms and introspective themes, showcasing her growth and
+  cementing her place in the music industry.
+type: standard
+status: review
+publishDate: '2025-05-15T06:12:06+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "laufey-drops-new-album-a-matter-of-time-with-tough-luck"
+  - Music
+slug: laufey-drops-new-album-a-matter-of-time-with-tough-luck
 reading_time: 3
-source_url: "https://wtpop.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/'
+imported_from: wordpress
 wp_original_id: 469
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/laufey-drops-new-album-a-matter-of-time-with-tough-luck.webp
 seo:
-  canonical: "https://wtpop.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/"
-  og_title: "Laufey Drops New Album 'A Matter Of Time' with 'Tough Luck' - WTPOP"
-  og_description: "Laufey's newest album, A Matter of Time, blends jazz and pop with sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck, features dynamic rhythms and introspective themes, showcasing her growth and cementing her place in the music industry."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/05/make_file-53-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/laufey-drops-new-album-a-matter-of-time-with-tough-luck/'
+  og_title: Laufey Drops New Album 'A Matter Of Time' with 'Tough Luck' - WTPOP
+  og_description: >-
+    Laufey's newest album, A Matter of Time, blends jazz and pop with
+    sophisticated melodies and heartfelt lyrics. The lead single, Tough Luck,
+    features dynamic rhythms and introspective themes, showcasing her growth and
+    cementing her place in the music industry.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/05/make_file-53-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong music focus and engaging tone, but falls short on length (502 words vs 800-1200 target) and appears to discuss a potentially fictional album release without clear verification."
+quality_note: >-
+  Strong music focus and engaging tone, but falls short on length (502 words vs
+  800-1200 target) and appears to discuss a potentially fictional album release
+  without clear verification.
+image_alt: >-
+  Moody jazz club stage with piano, microphone, metronome, pocket watch, and
+  playing cards in warm spotlight.
 ---
 
 Laufey, an emerging artist known for her unique blend of jazz and pop, is set to enchant audiences once again with her newest album. Titled *A Matter of Time*, this release promises to captivate listeners with its sophisticated melodies and heartfelt lyrics. As anticipation builds, Laufey has given fans a taste of what's to come with her latest single, "Tough Luck."
