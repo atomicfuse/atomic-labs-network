@@ -1,24 +1,34 @@
 ---
-title: "Do Smoking and Vaping Increase Type 2 Diabetes Risk?"
-description: "The connection between smoking, vaping, and nicotine pouches with type 2 diabetes risk is a public health concern. Nicotine, regardless of delivery method, may increase diabetes risk by causing insulin resistance, highlighting the need for awareness and preventive strategies."
-type: "standard"
-status: "published"
-publishDate: "2025-09-18T04:03:44+00:00"
-author: "Taylor Winters"
+title: Do Smoking and Vaping Increase Type 2 Diabetes Risk?
+description: >-
+  The connection between smoking, vaping, and nicotine pouches with type 2
+  diabetes risk is a public health concern. Nicotine, regardless of delivery
+  method, may increase diabetes risk by causing insulin resistance, highlighting
+  the need for awareness and preventive strategies.
+type: standard
+status: published
+publishDate: '2025-09-18T04:03:44+00:00'
+author: Taylor Winters
 tags:
-  - "Diabetes"
-  - "Drugs"
-slug: "do-smoking-and-vaping-increase-type-2-diabetes-risk"
+  - Diabetes
+  - Drugs
+slug: do-smoking-and-vaping-increase-type-2-diabetes-risk
 reading_time: 3
-source_url: "https://medicalnewscorner.com/do-smoking-and-vaping-increase-type-2-diabetes-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/do-smoking-and-vaping-increase-type-2-diabetes-risk/
+imported_from: wordpress
 wp_original_id: 24707
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/do-smoking-and-vaping-increase-type-2-diabetes-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/do-smoking-and-vaping-increase-type-2-diabetes-risk/"
-  og_title: "Do Smoking and Vaping Increase Type 2 Diabetes Risk? - Medical News Corner"
-  og_description: "The connection between smoking, vaping, and nicotine pouches with type 2 diabetes risk is a public health concern. Nicotine, regardless of delivery method, may increase diabetes risk by causing insulin resistance, highlighting the need for awareness and preventive strategies."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/do-smoking-and-vaping-increase-type-2-diabetes-risk/
+  og_title: Do Smoking and Vaping Increase Type 2 Diabetes Risk? - Medical News Corner
+  og_description: >-
+    The connection between smoking, vaping, and nicotine pouches with type 2
+    diabetes risk is a public health concern. Nicotine, regardless of delivery
+    method, may increase diabetes risk by causing insulin resistance,
+    highlighting the need for awareness and preventive strategies.
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong content relevance and tone but significantly under target word count at 555 words versus the 800-1200 range."
+quality_note: >-
+  Strong content relevance and tone but significantly under target word count at
+  555 words versus the 800-1200 range.
+image_alt: >-
+  Cigarette, vape pen, and nicotine pouch beside abstract glucose-risk visuals
+  on a clinical table.
 ---
 
 The connection between smoking, vaping, and the use of nicotine pouches with increased risk of type 2 diabetes has become a significant concern for public health experts. As these nicotine delivery methods grow in popularity, understanding their potential impact on metabolic health is crucial for informing both users and healthcare providers.
