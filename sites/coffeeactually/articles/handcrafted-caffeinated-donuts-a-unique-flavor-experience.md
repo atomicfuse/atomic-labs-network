@@ -1,24 +1,34 @@
 ---
-title: "Handcrafted Caffeinated Donuts: A Unique Flavor Experience"
-description: "The fusion of coffee and dessert reaches new heights with the cold brew donut, blending robust coffee flavors with the comforting texture of a donut, appealing to both coffee enthusiasts and dessert lovers seeking a unique culinary experience."
-type: "standard"
-status: "review"
-publishDate: "2025-09-11T04:01:40+00:00"
-author: "Taylor Winters"
+title: 'Handcrafted Caffeinated Donuts: A Unique Flavor Experience'
+description: >-
+  The fusion of coffee and dessert reaches new heights with the cold brew donut,
+  blending robust coffee flavors with the comforting texture of a donut,
+  appealing to both coffee enthusiasts and dessert lovers seeking a unique
+  culinary experience.
+type: standard
+status: review
+publishDate: '2025-09-11T04:01:40+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Coffee Desserts"
-slug: "handcrafted-caffeinated-donuts-a-unique-flavor-experience"
+  - Coffee News
+  - Coffee Desserts
+slug: handcrafted-caffeinated-donuts-a-unique-flavor-experience
 reading_time: 3
-source_url: "https://coffeeactually.com/handcrafted-caffeinated-donuts-a-unique-flavor-experience/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/handcrafted-caffeinated-donuts-a-unique-flavor-experience/
+imported_from: wordpress
 wp_original_id: 51318
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/handcrafted-caffeinated-donuts-a-unique-flavor-experience.webp
 seo:
-  canonical: "https://coffeeactually.com/handcrafted-caffeinated-donuts-a-unique-flavor-experience/"
-  og_title: "Handcrafted Caffeinated Donuts: A Unique Flavor Experience - Coffee Actually"
-  og_description: "The fusion of coffee and dessert reaches new heights with the cold brew donut, blending robust coffee flavors with the comforting texture of a donut, appealing to both coffee enthusiasts and dessert lovers seeking a unique culinary experience."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/handcrafted-caffeinated-donuts-a-unique-flavor-experience/
+  og_title: 'Handcrafted Caffeinated Donuts: A Unique Flavor Experience - Coffee Actually'
+  og_description: >-
+    The fusion of coffee and dessert reaches new heights with the cold brew
+    donut, blending robust coffee flavors with the comforting texture of a
+    donut, appealing to both coffee enthusiasts and dessert lovers seeking a
+    unique culinary experience.
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and factual content but falls significantly short of the target word count and lacks strong SEO optimization with weak heading structure and keyword integration."
+quality_note: >-
+  The article has good tone and factual content but falls significantly short of
+  the target word count and lacks strong SEO optimization with weak heading
+  structure and keyword integration.
+image_alt: >-
+  Artisanal coffee-glazed donut beside a chilled glass of cold brew on a warm
+  café table.
 ---
 
 The fusion of coffee and dessert has taken a delightful turn with the introduction of a unique cold brew donut. As coffee culture continues to expand and innovate, this sweet creation offers a fresh twist on traditional pastries, appealing to both coffee enthusiasts and dessert lovers alike.
