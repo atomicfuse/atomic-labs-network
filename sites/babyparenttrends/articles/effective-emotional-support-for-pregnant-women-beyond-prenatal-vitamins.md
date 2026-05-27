@@ -1,26 +1,39 @@
 ---
-title: "Effective Emotional Support for Pregnant Women: Beyond Prenatal Vitamins"
-description: "Pregnancy is a transformative journey with significant physical and emotional changes. Emotional support from family and friends is vital for the well-being of both mother and child, and understanding how to provide that support can promote a healthier pregnancy experience."
-type: "standard"
-status: "published"
-publishDate: "2025-05-19T04:39:22+00:00"
-author: "Taylor Winters"
+title: 'Effective Emotional Support for Pregnant Women: Beyond Prenatal Vitamins'
+description: >-
+  Pregnancy is a transformative journey with significant physical and emotional
+  changes. Emotional support from family and friends is vital for the well-being
+  of both mother and child, and understanding how to provide that support can
+  promote a healthier pregnancy experience.
+type: standard
+status: published
+publishDate: '2025-05-19T04:39:22+00:00'
+author: Taylor Winters
 tags:
-  - "Moms"
-  - "Nurture"
-  - "Pregnancy"
-slug: "effective-emotional-support-for-pregnant-women-beyond-prenatal-vitamins"
+  - Moms
+  - Nurture
+  - Pregnancy
+slug: effective-emotional-support-for-pregnant-women-beyond-prenatal-vitamins
 reading_time: 3
-source_url: "https://babyparenttrends.com/effective-emotional-support-for-pregnant-women-beyond-prenatal-vitamins/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/effective-emotional-support-for-pregnant-women-beyond-prenatal-vitamins/
+imported_from: wordpress
 wp_original_id: 17674
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/effective-emotional-support-for-pregnant-women-beyond-prenatal-vitamins.webp
 seo:
-  canonical: "https://babyparenttrends.com/effective-emotional-support-for-pregnant-women-beyond-prenatal-vitamins/"
-  og_title: "Effective Emotional Support for Pregnant Women: Beyond Prenatal Vitamins - Baby Parent Trends"
-  og_description: "Pregnancy is a transformative journey with significant physical and emotional changes. Emotional support from family and friends is vital for the well-being of both mother and child. Understanding and responding to emotional needs can promote a healthier pregnancy experience."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/effective-emotional-support-for-pregnant-women-beyond-prenatal-vitamins/
+  og_title: >-
+    Effective Emotional Support for Pregnant Women: Beyond Prenatal Vitamins -
+    Baby Parent Trends
+  og_description: >-
+    Pregnancy is a transformative journey with significant physical and
+    emotional changes. Emotional support from family and friends is vital for
+    the well-being of both mother and child. Understanding and responding to
+    emotional needs can promote a healthier pregnancy experience.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong topic relevance and tone but significantly too short at 431 words compared to the 800-1200 word target, limiting its SEO potential and depth of coverage."
+quality_note: >-
+  Strong topic relevance and tone but significantly too short at 431 words
+  compared to the 800-1200 word target, limiting its SEO potential and depth of
+  coverage.
+image_alt: >-
+  Pregnant woman receiving gentle emotional support from loved ones in a warm
+  sunlit room.
 ---
 
 Pregnancy is a transformative journey, filled with significant physical and emotional changes. During this time, the emotional support of family and friends can be as vital as prenatal vitamins. Understanding how to provide this support is key to ensuring the well-being of both the mother and the unborn child.
