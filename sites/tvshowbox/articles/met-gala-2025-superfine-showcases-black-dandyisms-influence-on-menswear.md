@@ -1,56 +1,33 @@
 ---
-title: >-
-  Met Gala 2025: Black Dandyism, Bespoke Glamour & the Night Fashion Broke the
-  Internet
-description: >-
-  The 2025 Met Gala celebrated Black dandyism and bespoke tailoring under the
-  theme "Superfine: Tailoring Black Style," delivering standout fashion moments
-  from Zendaya, Colman Domingo, and Rihanna while sparking a global cultural
-  conversation about identity, resistance, and style.
-type: standard
-status: review
-publishDate: '2025-05-06T11:11:31+00:00'
-author: Taylor Winters
+title: "Met Gala 2025: Black Dandyism, Bespoke Glamour & the Night Fashion Broke the Internet"
+description: "The 2025 Met Gala celebrated Black dandyism and bespoke tailoring under the theme \"Superfine: Tailoring Black Style,\" delivering standout fashion moments from Zendaya, Colman Domingo, and Rihanna while sparking a global cultural conversation about Black identity, pride, and resistance through fashion."
+type: "standard"
+status: "review"
+publishDate: "2025-05-06T11:11:31+00:00"
+author: "Taylor Winters"
 tags:
-  - TV News
-  - Breaking News
-slug: met-gala-2025-superfine-showcases-black-dandyisms-influence-on-menswear
+  - "TV News"
+  - "Breaking News"
+slug: "met-gala-2025-superfine-showcases-black-dandyisms-influence-on-menswear"
 reading_time: 3
-source_url: >-
-  https://tvshowbox.com/met-gala-2025-superfine-showcases-black-dandyisms-influence-on-menswear/
-imported_from: wordpress
+source_url: "https://tvshowbox.com/met-gala-2025-superfine-showcases-black-dandyisms-influence-on-menswear/"
+imported_from: "wordpress"
 wp_original_id: 23860
-featuredImage: >-
-  /assets/images/met-gala-2025-superfine-showcases-black-dandyisms-influence-on-menswear.webp
+featuredImage: "/assets/images/tvshowbox-general-article.webp"
 seo:
-  canonical: >-
-    https://tvshowbox.com/met-gala-2025-superfine-showcases-black-dandyisms-influence-on-menswear/
-  og_title: >-
-    Met Gala 2025: Black Dandyism, Bespoke Glamour & the Night Fashion Broke the
-    Internet - TV Show Box
-  og_description: >-
-    It was more than just a red carpet—it was a runway for resistance,
-    refinement, and reinvention. The 2025 Met Gala delivered a jaw-dropping
-    fusion of culture, couture, and charisma under the theme &#8220;Sleeping
-    Beauties: Reawakening Fashion&#8221; with a sub-focus on &#8220;Superfine:
-    Tailoring Black Style.&#8221; This year’s gala didn’t just raise eyebrows—it
-    raised awareness, drawing from [&hellip;]
-  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/05/make_C41_feature-6.webp'
-  twitter_card: summary_large_image
-quality_score: 50
+  canonical: "https://tvshowbox.com/met-gala-2025-superfine-showcases-black-dandyisms-influence-on-menswear/"
+  og_title: "Met Gala 2025: Black Dandyism, Bespoke Glamour & the Night Fashion Broke the Internet - TV Show Box"
+  og_description: "It was more than just a red carpet—it was a runway for resistance, refinement, and reinvention. The 2025 Met Gala delivered a jaw-dropping fusion of culture, couture, and charisma under the theme &#8220;Sleeping Beauties: Reawakening Fashion&#8221; with a sub-focus on &#8220;Superfine: Tailoring Black Style.&#8221; This year’s gala didn’t just raise eyebrows—it raised awareness, drawing from [&hellip;]"
+  og_image: "https://tvshowbox.com/wp-content/uploads/2025/05/make_C41_feature-6.webp"
+  twitter_card: "summary_large_image"
+quality_score: 47
 score_breakdown:
   seo_quality: 75
-  tone_match: 85
-  content_length: 40
+  tone_match: 65
+  content_length: 45
   factual_accuracy: 20
   keyword_relevance: 30
-quality_note: >-
-  Engaging fashion writing with strong tone, but contains fabricated 2025 Met
-  Gala event details, falls well short of target word count, and lacks relevance
-  to TV/entertainment content focus.
-image_alt: >-
-  Black model in bespoke dandy-inspired eveningwear on a grand staircase amid
-  paparazzi flashes.
+quality_note: "While engaging and well-written, this article contains fabricated future events and quotes, doesn't match the site's TV/entertainment focus, and falls significantly short of the target word count."
 ---
 
 It was more than just a red carpet—it was a runway for resistance, refinement, and reinvention.

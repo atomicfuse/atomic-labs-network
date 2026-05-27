@@ -1,45 +1,32 @@
 ---
-title: 'Top Jung Eun Woo Roles: Bride of the Sun to Waikiki 2'
-description: >-
-  Jung Eun-woo captivates audiences with his versatile acting, from heartwarming
-  dramas to comedies. His early roles laid the foundation for success, leading
-  to breakthrough performances and rising fame, with fans eagerly anticipating
-  his future projects.
-type: standard
-status: review
-publishDate: '2026-02-12T09:43:32+00:00'
-author: Taylor Winters
+title: "Top Jung Eun Woo Roles: Bride of the Sun to Waikiki 2"
+description: "Jung Eun-woo captivates audiences with his versatile acting, from heartwarming dramas to comedies. His early roles laid the foundation for success, leading to breakthrough performances and rising fame, with fans eagerly anticipating his future projects."
+type: "standard"
+status: "review"
+publishDate: "2026-02-12T09:43:32+00:00"
+author: "Taylor Winters"
 tags:
-  - TV News
-  - TV
-slug: top-jung-eun-woo-roles-bride-of-the-sun-to-waikiki-2
+  - "TV News"
+  - "TV"
+slug: "top-jung-eun-woo-roles-bride-of-the-sun-to-waikiki-2"
 reading_time: 3
-source_url: 'https://tvshowbox.com/top-jung-eun-woo-roles-bride-of-the-sun-to-waikiki-2/'
-imported_from: wordpress
+source_url: "https://tvshowbox.com/top-jung-eun-woo-roles-bride-of-the-sun-to-waikiki-2/"
+imported_from: "wordpress"
 wp_original_id: 24070
-featuredImage: /assets/images/top-jung-eun-woo-roles-bride-of-the-sun-to-waikiki-2.webp
+featuredImage: "/assets/images/tvshowbox-general-article.webp"
 seo:
-  canonical: 'https://tvshowbox.com/top-jung-eun-woo-roles-bride-of-the-sun-to-waikiki-2/'
-  og_title: 'Top Jung Eun Woo Roles: Bride of the Sun to Waikiki 2 - TV Show Box'
-  og_description: >-
-    Jung Eun-woo captivates audiences with his versatile acting, from
-    heartwarming dramas to comedies. His early roles laid the foundation for
-    success, leading to breakthrough performances and rising fame. Fans eagerly
-    anticipate his diverse and engaging future projects.
-  twitter_card: summary_large_image
-quality_score: 48
+  canonical: "https://tvshowbox.com/top-jung-eun-woo-roles-bride-of-the-sun-to-waikiki-2/"
+  og_title: "Top Jung Eun Woo Roles: Bride of the Sun to Waikiki 2 - TV Show Box"
+  og_description: "Jung Eun-woo captivates audiences with his versatile acting, from heartwarming dramas to comedies. His early roles laid the foundation for success, leading to breakthrough performances and rising fame. Fans eagerly anticipate his diverse and engaging future projects."
+  twitter_card: "summary_large_image"
+quality_score: 57
 score_breakdown:
-  seo_quality: 45
+  seo_quality: 65
   tone_match: 75
-  content_length: 30
-  factual_accuracy: 20
+  content_length: 45
+  factual_accuracy: 30
   keyword_relevance: 70
-quality_note: >-
-  The article has major factual accuracy issues with fabricated show titles and
-  extremely short length, despite good tone and keyword coverage.
-image_alt: >-
-  Korean actor backstage between dramatic and comedic studio sets, suggesting a
-  versatile screen career.
+quality_note: "The article has good tone and covers relevant TV topics, but it's too short at 426 words and contains questionable factual claims about Jung Eun-woo's filmography that may be fabricated."
 ---
 
 Jung Eun-woo has captivated audiences worldwide with his versatile acting skills and charismatic presence. Known for his dynamic performances in both movies and television, Jung has crafted a career that showcases his range as an actor. From heartwarming dramas to light-hearted comedies, his work continues to resonate with viewers across different genres.

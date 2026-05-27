@@ -1,48 +1,34 @@
 ---
-title: 'August 2025 Netflix Canada: New Releases and Removals'
-description: >-
-  Netflix Canada offers an exciting August 2025 lineup with new TV shows,
-  movies, and documentaries, including a fantasy series, a sci-fi thriller, and
-  comedy specials, while some beloved classics prepare to depart the platform.
-type: standard
-status: review
-publishDate: '2025-07-31T04:47:20+00:00'
-author: Taylor Winters
+title: "August 2025 Netflix Canada: New Releases and Removals"
+description: "Netflix Canada offers an exciting August 2025 lineup with new TV shows, movies, and documentaries, including a fantasy series, a sci-fi thriller, and comedy specials, while some beloved classics prepare to depart the platform."
+type: "standard"
+status: "review"
+publishDate: "2025-07-31T04:47:20+00:00"
+author: "Taylor Winters"
 tags:
-  - TV News
-  - TV
-  - Upcoming
-slug: august-2025-netflix-canada-new-releases-and-removals
+  - "TV News"
+  - "TV"
+  - "Upcoming"
+slug: "august-2025-netflix-canada-new-releases-and-removals"
 reading_time: 3
-source_url: 'https://tvshowbox.com/august-2025-netflix-canada-new-releases-and-removals/'
-imported_from: wordpress
+source_url: "https://tvshowbox.com/august-2025-netflix-canada-new-releases-and-removals/"
+imported_from: "wordpress"
 wp_original_id: 23920
-featuredImage: /assets/images/august-2025-netflix-canada-new-releases-and-removals.webp
+featuredImage: "/assets/images/tvshowbox-general-article.webp"
 seo:
-  canonical: 'https://tvshowbox.com/august-2025-netflix-canada-new-releases-and-removals/'
-  og_title: 'August 2025 Netflix Canada: New Releases and Removals - TV Show Box'
-  og_description: >-
-    Netflix Canada offers an exciting August lineup with new TV shows, movies,
-    and documentaries. Highlights include a fantasy series, a sci-fi thriller,
-    and comedy specials. Fans should catch departing classics before they're
-    gone. August promises diverse entertainment for all.
-  og_image: >-
-    https://tvshowbox.com/wp-content/uploads/2025/07/make_7b5f3f70-6dc5-11f0-bff1-bb7edd6dc511.jpg
-  twitter_card: summary_large_image
-quality_score: 48
+  canonical: "https://tvshowbox.com/august-2025-netflix-canada-new-releases-and-removals/"
+  og_title: "August 2025 Netflix Canada: New Releases and Removals - TV Show Box"
+  og_description: "Netflix Canada offers an exciting August lineup with new TV shows, movies, and documentaries. Highlights include a fantasy series, a sci-fi thriller, and comedy specials. Fans should catch departing classics before they're gone. August promises diverse entertainment for all."
+  og_image: "https://tvshowbox.com/wp-content/uploads/2025/07/make_7b5f3f70-6dc5-11f0-bff1-bb7edd6dc511.jpg"
+  twitter_card: "summary_large_image"
+quality_score: 49
 score_breakdown:
   seo_quality: 25
-  tone_match: 70
+  tone_match: 75
   content_length: 45
-  factual_accuracy: 15
-  keyword_relevance: 85
-quality_note: >-
-  The article has strong keyword relevance and decent tone, but suffers from
-  major factual accuracy issues (predicting August 2025 content), poor SEO
-  structure (no H2/H3 tags), and insufficient length at 461 words.
-image_alt: >-
-  A glowing streaming screen releases fantasy, sci-fi, and comedy scenes while
-  old film frames fade away.
+  factual_accuracy: 20
+  keyword_relevance: 80
+quality_note: "The article has good tone and keyword relevance but suffers from major factual accuracy issues (predicting August 2025 content), poor SEO optimization, and insufficient length for the target audience."
 ---
 
 Netflix Canada is set to offer an exciting lineup of new TV shows and movies this August. With a diverse range of genres, viewers will have plenty to choose from, whether they're looking for thrilling adventures, heartwarming dramas, or laugh-out-loud comedies.

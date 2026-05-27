@@ -1,57 +1,36 @@
 ---
-title: >-
-  Brace Yourself. Days of Our Lives Spoilers For The Week Of 3-03-25 Promise The
-  Beginning Of The End For John Black
-description: >-
-  Days of Our Lives spoilers for the week of 3-03-25 promise the beginning of
-  the end for John Black, as Marlena and Steve set out to search for him, while
-  chaos unfolds around EJ, Rafe's amnesia, and Gabi's dangerous confrontation.
-type: standard
-status: published
-publishDate: '2025-03-01T16:40:32+00:00'
-author: Taylor Winters
+title: "Brace Yourself. Days of Our Lives Spoilers For The Week Of 3-03-25 Promise The Beginning Of The End For John Black"
+description: "Days of Our Lives spoilers for the week of 3-03-25 promise the beginning of the end for John Black, as Marlena and Steve set out to search for him, while EJ faces mounting pressure from all sides and chaos erupts at Johnny and Chanel's adoption luncheon."
+type: "standard"
+status: "published"
+publishDate: "2025-03-01T16:40:32+00:00"
+author: "Taylor Winters"
 tags:
-  - TV News
-  - Spoilers
-slug: >-
-  brace-yourself-days-of-our-lives-spoilers-for-the-week-of-3-03-25-promise-the-beginning-of-the-end-for-john-black
+  - "TV News"
+  - "Spoilers"
+slug: "brace-yourself-days-of-our-lives-spoilers-for-the-week-of-3-03-25-promise-the-beginning-of-the-end-for-john-black"
 reading_time: 7
-source_url: >-
-  https://tvshowbox.com/brace-yourself-days-of-our-lives-spoilers-for-the-week-of-3-03-25-promise-the-beginning-of-the-end-for-john-black/
-imported_from: wordpress
+source_url: "https://tvshowbox.com/brace-yourself-days-of-our-lives-spoilers-for-the-week-of-3-03-25-promise-the-beginning-of-the-end-for-john-black/"
+imported_from: "wordpress"
 wp_original_id: 23805
-featuredImage: >-
-  /assets/images/brace-yourself-days-of-our-lives-spoilers-for-the-week-of-3-03-25-promise-the-beginning-of-the-end-for-john-black.webp
+featuredImage: "/assets/images/tvshowbox-general-article.webp"
 seo:
-  canonical: >-
-    https://tvshowbox.com/brace-yourself-days-of-our-lives-spoilers-for-the-week-of-3-03-25-promise-the-beginning-of-the-end-for-john-black/
-  og_title: >-
-    Brace Yourself. Days of Our Lives Spoilers For The Week Of 3-03-25 Promise
-    The Beginning Of The End For John Black - TV Show Box
-  og_description: >-
-    This day was always going to come, but that doesn&#x2019;t make it any less
-    sad. Days of Our Lives spoilers for the week of 3-03-25 promise the
-    beginning of the end for a beloved character. Yep, Marlena and Steve are
-    going to set out in search of John &#x2014; who we all know is not
-    [&hellip;]
-  twitter_card: summary_large_image
+  canonical: "https://tvshowbox.com/brace-yourself-days-of-our-lives-spoilers-for-the-week-of-3-03-25-promise-the-beginning-of-the-end-for-john-black/"
+  og_title: "Brace Yourself. Days of Our Lives Spoilers For The Week Of 3-03-25 Promise The Beginning Of The End For John Black - TV Show Box"
+  og_description: "This day was always going to come, but that doesn&#x2019;t make it any less sad. Days of Our Lives spoilers for the week of 3-03-25 promise the beginning of the end for a beloved character. Yep, Marlena and Steve are going to set out in search of John &#x2014; who we all know is not [&hellip;]"
+  twitter_card: "summary_large_image"
 videos:
-  - id: 7c5f2c8c
-    url: 'https://www.youtube.com/watch?v=itWpI8lEFP8'
-    position: after-paragraph-25
-quality_score: 93
+  - id: "878a321f"
+    url: "https://www.youtube.com/watch?v=itWpI8lEFP8"
+    position: "after-paragraph-25"
+quality_score: 89
 score_breakdown:
   seo_quality: 85
-  tone_match: 90
+  tone_match: 88
   content_length: 100
-  factual_accuracy: 95
+  factual_accuracy: 75
   keyword_relevance: 95
-quality_note: >-
-  Strong entertainment content with engaging tone and excellent keyword
-  coverage, though the title could be slightly shorter for optimal SEO.
-image_alt: >-
-  Two figures search near a glowing hospital entrance as abandoned belongings
-  suggest a looming farewell.
+quality_note: "Strong spoiler article with excellent keyword coverage and engaging tone, though some speculative claims about actor's death timing lack verification."
 ---
 
 This day was always going to come, but that doesn't make it any less sad.

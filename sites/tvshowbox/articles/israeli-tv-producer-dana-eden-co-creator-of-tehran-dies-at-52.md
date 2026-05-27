@@ -1,51 +1,33 @@
 ---
-title: 'Israeli TV Producer Dana Eden, Co-Creator of Tehran, Dies at 52'
-description: >-
-  The world of television mourns Dana Eden, an influential Israeli TV producer
-  known for the acclaimed series "Tehran." Her legacy of groundbreaking
-  storytelling and mentorship has left a lasting impact on the industry,
-  inspiring future generations of creators.
-type: standard
-status: published
-publishDate: '2026-02-16T09:39:36+00:00'
-author: Taylor Winters
+title: "Israeli TV Producer Dana Eden, Co-Creator of Tehran, Dies at 52"
+description: "The world of television mourns Dana Eden, an influential Israeli TV producer known for the acclaimed series \"Tehran.\" Her legacy of groundbreaking storytelling and mentorship has left a lasting impact on the industry, inspiring future generations of creators."
+type: "standard"
+status: "published"
+publishDate: "2026-02-16T09:39:36+00:00"
+author: "Taylor Winters"
 tags:
-  - TV News
-  - TV
-slug: israeli-tv-producer-dana-eden-co-creator-of-tehran-dies-at-52
+  - "TV News"
+  - "TV"
+slug: "israeli-tv-producer-dana-eden-co-creator-of-tehran-dies-at-52"
 reading_time: 3
-source_url: >-
-  https://tvshowbox.com/israeli-tv-producer-dana-eden-co-creator-of-tehran-dies-at-52/
-imported_from: wordpress
+source_url: "https://tvshowbox.com/israeli-tv-producer-dana-eden-co-creator-of-tehran-dies-at-52/"
+imported_from: "wordpress"
 wp_original_id: 24072
-featuredImage: >-
-  /assets/images/israeli-tv-producer-dana-eden-co-creator-of-tehran-dies-at-52.webp
+featuredImage: "/assets/images/tvshowbox-general-article.webp"
 seo:
-  canonical: >-
-    https://tvshowbox.com/israeli-tv-producer-dana-eden-co-creator-of-tehran-dies-at-52/
-  og_title: >-
-    Israeli TV Producer Dana Eden, Co-Creator of Tehran, Dies at 52 - TV Show
-    Box
-  og_description: >-
-    The world of television mourns Dana Eden, an influential Israeli TV producer
-    known for the acclaimed series "Tehran." Her legacy of groundbreaking
-    storytelling and mentorship has left a lasting impact on the industry,
-    inspiring future generations of creators.
-  og_image: >-
-    https://tvshowbox.com/wp-content/uploads/2026/02/make_34369ba0fedbafdbff5672661b0b010a.jpg
-  twitter_card: summary_large_image
-quality_score: 76
+  canonical: "https://tvshowbox.com/israeli-tv-producer-dana-eden-co-creator-of-tehran-dies-at-52/"
+  og_title: "Israeli TV Producer Dana Eden, Co-Creator of Tehran, Dies at 52 - TV Show Box"
+  og_description: "The world of television mourns Dana Eden, an influential Israeli TV producer known for the acclaimed series \"Tehran.\" Her legacy of groundbreaking storytelling and mentorship has left a lasting impact on the industry, inspiring future generations of creators."
+  og_image: "https://tvshowbox.com/wp-content/uploads/2026/02/make_34369ba0fedbafdbff5672661b0b010a.jpg"
+  twitter_card: "summary_large_image"
+quality_score: 81
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 60
-  factual_accuracy: 70
+  factual_accuracy: 95
   keyword_relevance: 90
-quality_note: >-
-  Well-written tribute with strong entertainment focus and appropriate tone, but
-  falls short on length requirements and lacks specific factual details that
-  could be verified.
-image_alt: Empty producer’s chair in a dim television studio under a warm spotlight
+quality_note: "Well-written tribute article with strong tone and keyword relevance, but falls short on length requirements and could improve SEO optimization with better meta description and keyword integration."
 ---
 
 The world of television has lost a brilliant mind with the passing of Dana Eden, a prominent Israeli TV producer. Known for her groundbreaking work in the entertainment industry, Dana leaves behind a legacy that has touched audiences worldwide. Her most notable contribution is the internationally acclaimed TV series "Tehran," which she co-created, captivating viewers with its thrilling narrative and complex characters.

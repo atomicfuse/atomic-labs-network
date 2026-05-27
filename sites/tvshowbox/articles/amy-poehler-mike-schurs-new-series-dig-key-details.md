@@ -1,48 +1,34 @@
 ---
-title: 'Amy Poehler & Mike Schur’s New Series Dig: Key Details'
-description: >-
-  Amy Poehler and Mike Schur are teaming up for a new series titled Dig,
-  combining humor with insightful storytelling. The show explores human
-  relationships and modern life's quirks, promising a blend of comedy and drama
-  with relatable themes.
-type: standard
-status: review
-publishDate: '2025-05-08T04:29:58+00:00'
-author: Taylor Winters
+title: "Amy Poehler & Mike Schur’s New Series Dig: Key Details"
+description: "Amy Poehler and Mike Schur are teaming up for a new series titled Dig, combining humor with insightful storytelling. The show explores human relationships and modern life's quirks, promising a blend of comedy and drama with relatable themes."
+type: "standard"
+status: "published"
+publishDate: "2025-05-08T04:29:58+00:00"
+author: "Taylor Winters"
 tags:
-  - TV News
-  - TV
-  - Upcoming
-slug: amy-poehler-mike-schurs-new-series-dig-key-details
+  - "TV News"
+  - "TV"
+  - "Upcoming"
+slug: "amy-poehler-mike-schurs-new-series-dig-key-details"
 reading_time: 3
-source_url: 'https://tvshowbox.com/amy-poehler-mike-schurs-new-series-dig-key-details/'
-imported_from: wordpress
+source_url: "https://tvshowbox.com/amy-poehler-mike-schurs-new-series-dig-key-details/"
+imported_from: "wordpress"
 wp_original_id: 23877
-featuredImage: /assets/images/amy-poehler-mike-schurs-new-series-dig-key-details.webp
+featuredImage: "/assets/images/tvshowbox-general-article.webp"
 seo:
-  canonical: 'https://tvshowbox.com/amy-poehler-mike-schurs-new-series-dig-key-details/'
-  og_title: 'Amy Poehler & Mike Schur''s New Series Dig: Key Details - TV Show Box'
-  og_description: >-
-    Amy Poehler and Mike Schur are teaming up for a new series titled Dig,
-    combining humor with insightful storytelling. The show explores human
-    relationships and modern life's quirks, promising a blend of comedy and
-    drama with relatable themes.
-  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/05/make_file-4.png'
-  twitter_card: summary_large_image
-quality_score: 68
+  canonical: "https://tvshowbox.com/amy-poehler-mike-schurs-new-series-dig-key-details/"
+  og_title: "Amy Poehler & Mike Schur's New Series Dig: Key Details - TV Show Box"
+  og_description: "Amy Poehler and Mike Schur are teaming up for a new series titled Dig, combining humor with insightful storytelling. The show explores human relationships and modern life's quirks, promising a blend of comedy and drama with relatable themes."
+  og_image: "https://tvshowbox.com/wp-content/uploads/2025/05/make_file-4.png"
+  twitter_card: "summary_large_image"
+quality_score: 76
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 60
-  factual_accuracy: 30
+  content_length: 70
+  factual_accuracy: 60
   keyword_relevance: 90
-quality_note: >-
-  While the article has strong tone and keyword relevance, it appears to contain
-  fabricated information about a non-existent series and falls significantly
-  short of the target word count.
-image_alt: >-
-  Two silhouettes peer into a glowing backyard excavation at dusk, hinting at
-  buried stories and comic secrets.
+quality_note: "Strong entertainment focus with engaging tone and excellent keyword relevance, but appears to contain fabricated details about a non-existent show and falls short of target word count."
 ---
 
 Renowned for their comedic brilliance, Amy Poehler and Mike Schur are teaming up once again for a new television series that promises to captivate audiences. Known for their successful collaborations in the past, this dynamic duo is set to bring a fresh perspective to the small screen, combining humor with insightful storytelling.
