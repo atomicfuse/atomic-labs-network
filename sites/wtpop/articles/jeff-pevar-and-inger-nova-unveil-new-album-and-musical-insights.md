@@ -1,24 +1,35 @@
 ---
-title: "Jeff Pevar and Inger Nova Unveil New Album and Musical Insights"
-description: "Jeff Pevar and Inger Nova's new album blends rock, blues, and jazz, showcasing Pevar's guitar mastery and Nova's soulful voice. Their collaboration highlights individual strengths, creating a sound that resonates with a diverse audience and garners positive reviews."
-type: "standard"
-status: "review"
-publishDate: "2025-12-08T13:02:34+00:00"
-author: "Lena Harper"
+title: Jeff Pevar and Inger Nova Unveil New Album and Musical Insights
+description: >-
+  Jeff Pevar and Inger Nova's new album blends rock, blues, and jazz, showcasing
+  Pevar's guitar mastery and Nova's soulful voice. Their collaboration
+  highlights individual strengths, creating a sound that resonates with a
+  diverse audience and garners positive reviews.
+type: standard
+status: review
+publishDate: '2025-12-08T13:02:34+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "jeff-pevar-and-inger-nova-unveil-new-album-and-musical-insights"
+  - Music
+slug: jeff-pevar-and-inger-nova-unveil-new-album-and-musical-insights
 reading_time: 3
-source_url: "https://wtpop.com/jeff-pevar-and-inger-nova-unveil-new-album-and-musical-insights/"
-imported_from: "wordpress"
+source_url: >-
+  https://wtpop.com/jeff-pevar-and-inger-nova-unveil-new-album-and-musical-insights/
+imported_from: wordpress
 wp_original_id: 714
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/jeff-pevar-and-inger-nova-unveil-new-album-and-musical-insights.webp
 seo:
-  canonical: "https://wtpop.com/jeff-pevar-and-inger-nova-unveil-new-album-and-musical-insights/"
-  og_title: "Jeff Pevar and Inger Nova Unveil New Album and Musical Insights - WTPOP"
-  og_description: "Jeff Pevar and Inger Nova's new album blends rock, blues, and jazz, showcasing Pevar's guitar mastery and Nova's soulful voice. Their collaboration highlights individual strengths, creating a sound that resonates with a diverse audience and garners positive reviews."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-1.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/jeff-pevar-and-inger-nova-unveil-new-album-and-musical-insights/
+  og_title: Jeff Pevar and Inger Nova Unveil New Album and Musical Insights - WTPOP
+  og_description: >-
+    Jeff Pevar and Inger Nova's new album blends rock, blues, and jazz,
+    showcasing Pevar's guitar mastery and Nova's soulful voice. Their
+    collaboration highlights individual strengths, creating a sound that
+    resonates with a diverse audience and garners positive reviews.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-1.webp'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -26,7 +37,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written music article with good tone and keyword relevance, but significantly under the target word count at only 525 words versus the 800-1200 range."
+quality_note: >-
+  Well-written music article with good tone and keyword relevance, but
+  significantly under the target word count at only 525 words versus the
+  800-1200 range.
+image_alt: >-
+  Moody recording studio with guitar, microphone, and two blurred musician
+  silhouettes under warm blue lights.
 ---
 
 Jeff Pevar and Inger Nova have teamed up to create a captivating new album that beautifully blends their musical talents. Their collaboration, marked by rich melodies and heartfelt lyrics, brings a fresh sound to the music scene. Pevar, a seasoned guitarist known for his work with Crosby, Stills & Nash and David Crosby's band CPR, joins forces with Nova, whose vocal prowess adds a unique layer to their music.
