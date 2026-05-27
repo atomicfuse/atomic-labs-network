@@ -1,24 +1,37 @@
 ---
-title: "Transform Unripe Coffee Beans into Specialty Drinks with Fermentation"
-description: "Recent advancements in coffee processing have led to an innovative method that transforms unripe coffee beans into a flavorful brew using fermentation. This breakthrough offers a sustainable option, reduces waste, and presents new flavor profiles for coffee enthusiasts."
-type: "standard"
-status: "review"
-publishDate: "2025-08-14T04:01:48+00:00"
-author: "Taylor Winters"
+title: Transform Unripe Coffee Beans into Specialty Drinks with Fermentation
+description: >-
+  Recent advancements in coffee processing have led to an innovative method that
+  transforms unripe coffee beans into a flavorful brew using fermentation. This
+  breakthrough offers a sustainable option, reduces waste, and presents new
+  flavor profiles for coffee enthusiasts.
+type: standard
+status: review
+publishDate: '2025-08-14T04:01:48+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Beans"
-  - "Beans"
-slug: "transform-unripe-coffee-beans-into-specialty-drinks-with-fermentation"
+  - Coffee Beans
+  - Beans
+slug: transform-unripe-coffee-beans-into-specialty-drinks-with-fermentation
 reading_time: 3
-source_url: "https://coffeeactually.com/transform-unripe-coffee-beans-into-specialty-drinks-with-fermentation/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/transform-unripe-coffee-beans-into-specialty-drinks-with-fermentation/
+imported_from: wordpress
 wp_original_id: 51309
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/transform-unripe-coffee-beans-into-specialty-drinks-with-fermentation.webp
 seo:
-  canonical: "https://coffeeactually.com/transform-unripe-coffee-beans-into-specialty-drinks-with-fermentation/"
-  og_title: "Transform Unripe Coffee Beans into Specialty Drinks with Fermentation - Coffee Actually"
-  og_description: "Recent advancements in coffee processing have led to an innovative method that transforms unripe coffee beans into a flavorful brew using fermentation. This breakthrough offers a sustainable option, reduces waste, and presents new flavor profiles for coffee enthusiasts."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/transform-unripe-coffee-beans-into-specialty-drinks-with-fermentation/
+  og_title: >-
+    Transform Unripe Coffee Beans into Specialty Drinks with Fermentation -
+    Coffee Actually
+  og_description: >-
+    Recent advancements in coffee processing have led to an innovative method
+    that transforms unripe coffee beans into a flavorful brew using
+    fermentation. This breakthrough offers a sustainable option, reduces waste,
+    and presents new flavor profiles for coffee enthusiasts.
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and keyword relevance, but significantly under target word count at 485 words and contains some unsupported claims about recent advancements."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  under target word count at 485 words and contains some unsupported claims
+  about recent advancements.
+image_alt: Green coffee beans beside a bubbling fermentation vessel in warm natural light
 ---
 
 Recent advancements in coffee processing have revealed an innovative method that transforms unripe coffee beans into a flavorful, high-quality brew. This breakthrough technique harnesses the power of fermentation to enhance flavor profiles, offering a new dimension to the coffee industry.
