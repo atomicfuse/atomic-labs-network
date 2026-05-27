@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://ericdeggans.substack.com/p/is-the-mandalorian-and-grogu-a-missed'
 source_item_id: 6a151ac216f23264031d80f2
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/mandalorian-grogu-theater-streaming-debate.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   contains fabricated information about cast members and box office numbers that
   significantly undermines credibility.
 reading_time: 3
+image_alt: >-
+  Empty cinema and home streaming setup divided by glowing sci-fi light,
+  suggesting a theatrical debate.
 ---
 ## A Streaming Series Makes the Jump to Theaters
 
