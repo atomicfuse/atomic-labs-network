@@ -20,7 +20,7 @@ source_url: >-
   https://www.thestar.com.my/lifestyle/health/two-fit/2026/05/22/performing-pilates-with-heat-from-japanese-hinoki-wood
 source_item_id: 6a13fc9f16f23264031d7b85
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/japanese-hinoki-wood-heated-pilates-recovery-trend.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -32,6 +32,7 @@ quality_note: >-
   Well-written article with strong tone and keyword relevance, but falls short
   on length and contains some vague claims that could be better substantiated.
 reading_time: 3
+image_alt: 'Woman resting on a wooden Pilates reformer in a warm, serene wellness studio'
 ---
 ## The Rise of Premium Heated Fitness
 
