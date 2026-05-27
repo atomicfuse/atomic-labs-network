@@ -22,7 +22,7 @@ source_url: >-
   https://www.usatoday.com/story/entertainment/tv/2026/05/25/summer-house-reunion-time-where-to-watch/90194161007/
 source_item_id: 6a151ac216f23264031d80f6
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/summer-house-reunion-amanda-west-scandal-how-to-watch.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   tone, but significantly hurt by apparent factual inaccuracies and below-target
   word count.
 reading_time: 3
+image_alt: >-
+  Moody reunion-style studio set with empty sofas, dramatic lighting, and tense
+  silhouetted figures.
 ---
 ## Three-Part Reunion Tackles Season's Biggest Scandal
 
