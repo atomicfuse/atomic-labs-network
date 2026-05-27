@@ -1,25 +1,37 @@
 ---
-title: "Noubar Afeyan Discusses US Shift from Medical Innovations"
-description: "The US healthcare landscape is transforming with telemedicine, personalized care, and AI integration. These advancements enhance patient access, treatment effectiveness, and diagnostic accuracy while policy changes support innovation and improved healthcare delivery nationwide."
-type: "standard"
-status: "review"
-publishDate: "2025-08-21T04:04:12+00:00"
-author: "Taylor Winters"
+title: Noubar Afeyan Discusses US Shift from Medical Innovations
+description: >-
+  The US healthcare landscape is transforming with telemedicine, personalized
+  care, and AI integration. These advancements enhance patient access, treatment
+  effectiveness, and diagnostic accuracy while policy changes support innovation
+  and improved healthcare delivery nationwide.
+type: standard
+status: review
+publishDate: '2025-08-21T04:04:12+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "noubar-afeyan-discusses-us-shift-from-medical-innovations"
+  - Research
+  - Clinical Trials &amp; Research
+slug: noubar-afeyan-discusses-us-shift-from-medical-innovations
 reading_time: 3
-source_url: "https://medicalnewscorner.com/noubar-afeyan-discusses-us-shift-from-medical-innovations/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/noubar-afeyan-discusses-us-shift-from-medical-innovations/
+imported_from: wordpress
 wp_original_id: 24698
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/noubar-afeyan-discusses-us-shift-from-medical-innovations.webp
 seo:
-  canonical: "https://medicalnewscorner.com/noubar-afeyan-discusses-us-shift-from-medical-innovations/"
-  og_title: "Noubar Afeyan Discusses US Shift from Medical Innovations - Medical News Corner"
-  og_description: "The US healthcare landscape is transforming with telemedicine, personalized care, and AI integration. These advancements enhance patient access, treatment effectiveness, and diagnostic accuracy while policy changes support innovation and improved healthcare delivery nationwide."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/noubar-afeyan-discusses-us-shift-from-medical-innovations/
+  og_title: >-
+    Noubar Afeyan Discusses US Shift from Medical Innovations - Medical News
+    Corner
+  og_description: >-
+    The US healthcare landscape is transforming with telemedicine, personalized
+    care, and AI integration. These advancements enhance patient access,
+    treatment effectiveness, and diagnostic accuracy while policy changes
+    support innovation and improved healthcare delivery nationwide.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,14 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article covers relevant healthcare topics but falls short on length (574 words vs 800-1200 target) and has a misleading title that doesn't match the content about general healthcare transformation rather than Noubar Afeyan's specific insights."
+quality_note: >-
+  The article covers relevant healthcare topics but falls short on length (574
+  words vs 800-1200 target) and has a misleading title that doesn't match the
+  content about general healthcare transformation rather than Noubar Afeyan's
+  specific insights.
+image_alt: >-
+  Doctor and patient in a modern clinic with subtle digital healthcare
+  technology overlays
 ---
 
 The landscape of healthcare in the United States is undergoing a significant transformation. With advancements in technology and shifts in policy, the traditional model of healthcare is evolving to better meet the needs of patients and providers alike. This evolution is driven by several factors, including the rise of telemedicine, increased focus on personalized care, and the integration of artificial intelligence in medical practices.
