@@ -1,26 +1,38 @@
 ---
-title: "Stream The Office Spinoff The Paper Online: Viewing Guide"
-description: "The beloved series \"The Office\" is expanding its universe with a spinoff titled \"The Paper,\" offering a fresh perspective and capturing fans with its familiar humor and new character dynamics, set within another branch of the Dunder Mifflin paper company."
-type: "standard"
-status: "review"
-publishDate: "2025-09-04T04:49:25+00:00"
-author: "Taylor Winters"
+title: 'Stream The Office Spinoff The Paper Online: Viewing Guide'
+description: >-
+  The beloved series "The Office" is expanding its universe with a spinoff
+  titled "The Paper," offering a fresh perspective and capturing fans with its
+  familiar humor and new character dynamics, set within another branch of the
+  Dunder Mifflin paper company.
+type: standard
+status: review
+publishDate: '2025-09-04T04:49:25+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-  - "Upcoming"
-slug: "stream-the-office-spinoff-the-paper-online-viewing-guide"
+  - TV News
+  - TV Shows
+  - Upcoming
+slug: stream-the-office-spinoff-the-paper-online-viewing-guide
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/stream-the-office-spinoff-the-paper-online-viewing-guide/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/stream-the-office-spinoff-the-paper-online-viewing-guide/
+imported_from: wordpress
 wp_original_id: 28090
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/stream-the-office-spinoff-the-paper-online-viewing-guide.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/stream-the-office-spinoff-the-paper-online-viewing-guide/"
-  og_title: "Stream The Office Spinoff The Paper Online: Viewing Guide - TV Shows Magazine"
-  og_description: "The beloved series \"The Office\" is expanding its universe with a spinoff titled \"The Paper,\" offering a fresh perspective and capturing fans with its familiar humor and new character dynamics, set within another branch of the Dunder Mifflin paper company."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/09/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/stream-the-office-spinoff-the-paper-online-viewing-guide/
+  og_title: >-
+    Stream The Office Spinoff The Paper Online: Viewing Guide - TV Shows
+    Magazine
+  og_description: >-
+    The beloved series "The Office" is expanding its universe with a spinoff
+    titled "The Paper," offering a fresh perspective and capturing fans with its
+    familiar humor and new character dynamics, set within another branch of the
+    Dunder Mifflin paper company.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/09/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "Well-written and engaging article with appropriate tone, but appears to be entirely fictional as no official Office spinoff called 'The Paper' exists, severely impacting factual accuracy despite good coverage of TV news topics."
+quality_note: >-
+  Well-written and engaging article with appropriate tone, but appears to be
+  entirely fictional as no official Office spinoff called 'The Paper' exists,
+  severely impacting factual accuracy despite good coverage of TV news topics.
+image_alt: >-
+  TV glow lights a remote, stacked paper, and office supplies in a cozy
+  streaming setup.
 ---
 
 The world of television continues to evolve, bringing fan-favorite characters back to the screen in exciting new ways. "The Office," a beloved series known for its quirky humor and memorable cast, is set to expand its universe with a highly anticipated spinoff series titled "The Paper." This new show aims to capture the hearts of fans both old and new by offering a fresh perspective on the beloved workplace comedy.
