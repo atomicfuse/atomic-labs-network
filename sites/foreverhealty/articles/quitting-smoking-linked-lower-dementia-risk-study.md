@@ -19,7 +19,7 @@ source_url: >-
   https://www.medicalnewstoday.com/articles/giving-up-smoking-linked-to-16-lower-dementia-risk
 source_item_id: 6a13fcb016f23264031d7b95
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/quitting-smoking-linked-lower-dementia-risk-study.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under target length at 536 words versus the 800-1200 word target.
 reading_time: 3
+image_alt: >-
+  Older adult breathing calmly on a sunlit park path with an unlit cigarette
+  left behind on a bench.
 ---
 ## New Research Links Smoking Cessation to Brain Health
 
