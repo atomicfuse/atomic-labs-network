@@ -22,7 +22,7 @@ source_url: >-
   https://people.com/denise-richards-opens-up-bold-and-the-beautiful-return-exclusive-11983322
 source_item_id: 6a151f7316f23264031d8118
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/denise-richards-bold-beautiful-return-shauna-fulton.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   site's entertainment focus, lacking the engaging tone and viral/funny content
   keywords that funnypigeon targets.
 reading_time: 3
+image_alt: >-
+  A glamorous woman returns to a warmly lit soap opera studio set with a co-star
+  in the background.
 ---
 ## Denise Richards Makes Her Highly Anticipated Return
 
