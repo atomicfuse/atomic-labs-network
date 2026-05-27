@@ -1,25 +1,38 @@
 ---
-title: "Wilmington TV Show Becomes Cult Classic 30 Years After Cancellation"
-description: "In the mid-1990s, Wilmington, North Carolina, became a filming hub with \"American Gothic,\" a suspenseful drama created by Sam Raimi. The series showcased the city's charm and boosted its profile, contributing to tourism and economic growth."
-type: "standard"
-status: "published"
-publishDate: "2026-03-19T10:53:26+00:00"
-author: "Taylor Winters"
+title: Wilmington TV Show Becomes Cult Classic 30 Years After Cancellation
+description: >-
+  In the mid-1990s, Wilmington, North Carolina, became a filming hub with
+  "American Gothic," a suspenseful drama created by Sam Raimi. The series
+  showcased the city's charm and boosted its profile, contributing to tourism
+  and economic growth.
+type: standard
+status: published
+publishDate: '2026-03-19T10:53:26+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "wilmington-tv-show-becomes-cult-classic-30-years-after-cancellation"
+  - TV News
+  - TV
+slug: wilmington-tv-show-becomes-cult-classic-30-years-after-cancellation
 reading_time: 3
-source_url: "https://tvshowbox.com/wilmington-tv-show-becomes-cult-classic-30-years-after-cancellation/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/wilmington-tv-show-becomes-cult-classic-30-years-after-cancellation/
+imported_from: wordpress
 wp_original_id: 24096
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/wilmington-tv-show-becomes-cult-classic-30-years-after-cancellation.webp
 seo:
-  canonical: "https://tvshowbox.com/wilmington-tv-show-becomes-cult-classic-30-years-after-cancellation/"
-  og_title: "Wilmington TV Show Becomes Cult Classic 30 Years After Cancellation - TV Show Box"
-  og_description: "In the mid-1990s, Wilmington, North Carolina, became a filming hub with \"American Gothic,\" a suspenseful drama created by Sam Raimi. The series showcased the city's charm and boosted its profile, contributing to tourism and economic growth."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/03/make_file-11.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/wilmington-tv-show-becomes-cult-classic-30-years-after-cancellation/
+  og_title: >-
+    Wilmington TV Show Becomes Cult Classic 30 Years After Cancellation - TV
+    Show Box
+  og_description: >-
+    In the mid-1990s, Wilmington, North Carolina, became a filming hub with
+    "American Gothic," a suspenseful drama created by Sam Raimi. The series
+    showcased the city's charm and boosted its profile, contributing to tourism
+    and economic growth.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/03/make_file-11.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article with strong TV news focus and engaging tone, but falls short on length (542 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with strong TV news focus and engaging tone, but falls
+  short on length (542 words vs 800-1200 target) and could benefit from stronger
+  SEO optimization in title and meta description.
+image_alt: Moody Southern coastal street at dusk with film lights and rain-slick pavement
 ---
 
 In the mid-1990s, Wilmington, North Carolina, was abuzz with the excitement of a major television production. The series "American Gothic," a suspenseful drama that delved into the mysterious and supernatural, was filmed in this coastal city, drawing attention to its unique charm and picturesque locales. This series became a notable part of Wilmington's cinematic history.
