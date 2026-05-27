@@ -1,26 +1,39 @@
 ---
-title: "Top 8 Unmissable Time Travel TV Shows to Add to Your Watchlist"
-description: "A curated guide to the best time travel TV shows, exploring series like Outlander, Doctor Who, Quantum Leap, Timeless, and 12 Monkeys, each offering unique takes on the concept of jumping through time."
-type: "standard"
-status: "published"
-publishDate: "2025-04-14T10:46:46+00:00"
-author: "Taylor Winters"
+title: Top 8 Unmissable Time Travel TV Shows to Add to Your Watchlist
+description: >-
+  A curated guide to the best time travel TV shows, exploring series like
+  Outlander, Doctor Who, Quantum Leap, Timeless, and 12 Monkeys, each offering
+  unique takes on the concept of jumping through time.
+type: standard
+status: published
+publishDate: '2025-04-14T10:46:46+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Reviews"
-  - "TV Shows"
-slug: "top-8-unmissable-time-travel-tv-shows-to-add-to-your-watchlist"
+  - News
+  - Reviews
+  - TV Shows
+slug: top-8-unmissable-time-travel-tv-shows-to-add-to-your-watchlist
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-8-unmissable-time-travel-tv-shows-to-add-to-your-watchlist/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/top-8-unmissable-time-travel-tv-shows-to-add-to-your-watchlist/
+imported_from: wordpress
 wp_original_id: 27995
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/top-8-unmissable-time-travel-tv-shows-to-add-to-your-watchlist.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-8-unmissable-time-travel-tv-shows-to-add-to-your-watchlist/"
-  og_title: "Top 8 Unmissable Time Travel TV Shows to Add to Your Watchlist - TV Shows Magazine"
-  og_description: "The article discusses top-rated TV shows that utilize the concept of time travel, including Outlander, Doctor Who, Quantum Leap, Timeless, and 12 Monkeys. These shows explore various aspects of time travel, from correcting historical mistakes to saving humanity from a devastating future."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_mixcollage-10-apr-2025-02-51-pm-6177.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/top-8-unmissable-time-travel-tv-shows-to-add-to-your-watchlist/
+  og_title: >-
+    Top 8 Unmissable Time Travel TV Shows to Add to Your Watchlist - TV Shows
+    Magazine
+  og_description: >-
+    The article discusses top-rated TV shows that utilize the concept of time
+    travel, including Outlander, Doctor Who, Quantum Leap, Timeless, and 12
+    Monkeys. These shows explore various aspects of time travel, from correcting
+    historical mistakes to saving humanity from a devastating future.
+  og_image: >-
+    https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_mixcollage-10-apr-2025-02-51-pm-6177.jpg
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 95
   keyword_relevance: 88
-quality_note: "Well-written and engaging article with accurate information, but significantly under the target word count at only 443 words instead of the recommended 800-1200 range."
+quality_note: >-
+  Well-written and engaging article with accurate information, but significantly
+  under the target word count at only 443 words instead of the recommended
+  800-1200 range.
+image_alt: >-
+  Silhouetted viewer facing a glowing TV as time portals and clock fragments
+  spill into the room
 ---
 
 Time travel has always been a fascinating concept, sparking countless debates and discussions. It's no surprise that this captivating concept has found its way into the heart of popular culture, with numerous TV shows exploring the intriguing mysteries and paradoxes of jumping through time. From drama to comedy, and even sci-fi, here are some of the top-rated television shows that have delved into the realm of time travel.
