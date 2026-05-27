@@ -21,7 +21,7 @@ source_url: >-
   https://www.aol.com/articles/pilates-instructor-shares-daily-pelvic-190641000.html
 source_item_id: 6a07fc2a4bdae0614e7aae79
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/pilates-pelvic-curl-hip-mobility-back-pain-relief.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,7 @@ quality_note: >-
   Strong topic relevance and engaging tone, but significantly under target word
   count and contains vague, unsupported claims throughout.
 reading_time: 3
+image_alt: Desk worker practicing a gentle Pilates pelvic curl in a calm home studio
 ---
 ## The Overlooked Pilates Move That's Not a Glute Bridge
 
