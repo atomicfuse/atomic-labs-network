@@ -1,29 +1,33 @@
 ---
-title: "Exploring the Best Coffee Cups for Your Brew"
-description: "Discover the top coffee cups that enhance your coffee experience, featuring brands like Kruve, notNeutral, and Fellow."
-type: "standard"
-status: "review"
-publishDate: "2025-09-25T07:15:34+00:00"
-author: "Taylor Winters"
+title: Exploring the Best Coffee Cups for Your Brew
+description: >-
+  Discover the top coffee cups that enhance your coffee experience, featuring
+  brands like Kruve, notNeutral, and Fellow.
+type: standard
+status: review
+publishDate: '2025-09-25T07:15:34+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Art"
-  - "Coffee Drinks"
-  - "Coffee Gear"
-slug: "exploring-the-best-coffee-cups-for-your-brew"
+  - Coffee Art
+  - Coffee Drinks
+  - Coffee Gear
+slug: exploring-the-best-coffee-cups-for-your-brew
 reading_time: 2
-source_url: "https://coffeeactually.com/exploring-the-best-coffee-cups-for-your-brew/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/exploring-the-best-coffee-cups-for-your-brew/'
+imported_from: wordpress
 wp_original_id: 51322
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/exploring-the-best-coffee-cups-for-your-brew.webp
 seo:
-  canonical: "https://coffeeactually.com/exploring-the-best-coffee-cups-for-your-brew/"
-  og_title: "Exploring the Best Coffee Cups for Your Brew - Coffee Actually"
-  og_description: "Discover the top coffee cups that enhance your coffee experience, featuring brands like Kruve, notNeutral, and Fellow."
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/exploring-the-best-coffee-cups-for-your-brew/'
+  og_title: Exploring the Best Coffee Cups for Your Brew - Coffee Actually
+  og_description: >-
+    Discover the top coffee cups that enhance your coffee experience, featuring
+    brands like Kruve, notNeutral, and Fellow.
+  twitter_card: summary_large_image
 videos:
-  - id: "de0a5b9b"
-    url: "https://www.youtube.com/watch?v=GyRyorBhCUo"
-    position: "after-paragraph-2"
+  - id: de0a5b9b
+    url: 'https://www.youtube.com/watch?v=GyRyorBhCUo'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -31,7 +35,13 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with appropriate tone and good brand coverage, but significantly too short at 274 words versus the 800-1200 word target, which severely impacts its value."
+quality_note: >-
+  Well-written article with appropriate tone and good brand coverage, but
+  significantly too short at 274 words versus the 800-1200 word target, which
+  severely impacts its value.
+image_alt: >-
+  Elegant coffee cups with fresh coffee arranged in soft morning light on a
+  kitchen counter
 ---
 
 The perfect coffee experience is not just about the brew; it's also about the vessel you choose to drink from. Coffee enthusiasts know that a great coffee cup can enhance the flavor and aroma of their favorite brew. In this article, we explore some of the most popular coffee cups that are making waves among coffee lovers.
