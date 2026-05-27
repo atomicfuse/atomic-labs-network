@@ -1,29 +1,38 @@
 ---
-title: "Indulge Your Sweet Tooth with These Coffee-Infused Desserts"
-description: "Discover four delectable desserts that will satisfy any coffee lover's cravings, from espresso brownies to affogato."
-type: "standard"
-status: "review"
-publishDate: "2025-12-11T09:15:43+00:00"
-author: "Taylor Winters"
+title: Indulge Your Sweet Tooth with These Coffee-Infused Desserts
+description: >-
+  Discover four delectable desserts that will satisfy any coffee lover's
+  cravings, from espresso brownies to affogato.
+type: standard
+status: review
+publishDate: '2025-12-11T09:15:43+00:00'
+author: Taylor Winters
 tags:
-  - "Barista"
-  - "Coffee Desserts"
-  - "Coffee Drinks"
-slug: "indulge-your-sweet-tooth-with-these-coffee-infused-desserts"
+  - Barista
+  - Coffee Desserts
+  - Coffee Drinks
+slug: indulge-your-sweet-tooth-with-these-coffee-infused-desserts
 reading_time: 2
-source_url: "https://coffeeactually.com/indulge-your-sweet-tooth-with-these-coffee-infused-desserts/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/indulge-your-sweet-tooth-with-these-coffee-infused-desserts/
+imported_from: wordpress
 wp_original_id: 51363
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/indulge-your-sweet-tooth-with-these-coffee-infused-desserts.webp
 seo:
-  canonical: "https://coffeeactually.com/indulge-your-sweet-tooth-with-these-coffee-infused-desserts/"
-  og_title: "Indulge Your Sweet Tooth with These Coffee-Infused Desserts - Coffee Actually"
-  og_description: "Discover four delectable desserts that will satisfy any coffee lover's cravings."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/indulge-your-sweet-tooth-with-these-coffee-infused-desserts/
+  og_title: >-
+    Indulge Your Sweet Tooth with These Coffee-Infused Desserts - Coffee
+    Actually
+  og_description: >-
+    Discover four delectable desserts that will satisfy any coffee lover's
+    cravings.
+  twitter_card: summary_large_image
 videos:
-  - id: "a5d49c53"
-    url: "https://www.youtube.com/watch?v=mEUB0lAbNOM"
-    position: "after-paragraph-2"
+  - id: a5d49c53
+    url: 'https://www.youtube.com/watch?v=mEUB0lAbNOM'
+    position: after-paragraph-2
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -31,7 +40,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "Well-written article with engaging tone and accurate content, but significantly too short at 366 words versus the target 800-1200 range."
+quality_note: >-
+  Well-written article with engaging tone and accurate content, but
+  significantly too short at 366 words versus the target 800-1200 range.
+image_alt: >-
+  Coffee-infused desserts arranged on a marble café table with warm natural
+  light
 ---
 
 If you are a coffee enthusiast who simply cannot live without the rich aroma and taste of coffee, then these four delectable desserts are perfect for you. Infused with the bold flavors of coffee, these sweets are a delightful way to enjoy your favorite beverage in a whole new form.
