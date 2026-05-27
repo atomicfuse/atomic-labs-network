@@ -20,7 +20,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-supplements-nmn-nad-resveratrol-aging.html
 source_item_id: 6a0e960216f23264031d796f
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/nad-nmn-resveratrol-aging-supplements-evidence.webp
 quality_score: 88
 score_breakdown:
   seo_quality: 85
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with excellent tone and keyword alignment, though
   slightly under target word count at 737 words versus the 800-1200 range.
 reading_time: 3
+image_alt: >-
+  Translucent capsules on a clean lab surface with a magnifying lens and soft
+  green background.
 ---
 ## The Longevity Supplement Boom
 
