@@ -1,25 +1,39 @@
 ---
-title: "Discover the Top 5 Unmissable Pedro Pascal Movies and TV Series"
-description: "Pedro Pascal's versatile filmography spans various genres, showcasing his talent in diverse roles. From 'Game of Thrones' to 'The Mandalorian', his performances have consistently been memorable, offering something for fans of fantasy, crime dramas, and sci-fi alike."
-type: "standard"
-status: "review"
-publishDate: "2025-04-17T10:02:03+00:00"
-author: "Taylor Winters"
+title: Discover the Top 5 Unmissable Pedro Pascal Movies and TV Series
+description: >-
+  Pedro Pascal's versatile filmography spans various genres, showcasing his
+  talent in diverse roles. From 'Game of Thrones' to 'The Mandalorian', his
+  performances have consistently been memorable, offering something for fans of
+  fantasy, crime dramas, and sci-fi alike.
+type: standard
+status: review
+publishDate: '2025-04-17T10:02:03+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-  - "TV Shows"
-slug: "discover-the-top-5-unmissable-pedro-pascal-movies-and-tv-series"
+  - Reviews
+  - TV Shows
+slug: discover-the-top-5-unmissable-pedro-pascal-movies-and-tv-series
 reading_time: 2
-source_url: "https://www.tvshowsmag.com/discover-the-top-5-unmissable-pedro-pascal-movies-and-tv-series/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/discover-the-top-5-unmissable-pedro-pascal-movies-and-tv-series/
+imported_from: wordpress
 wp_original_id: 27997
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-the-top-5-unmissable-pedro-pascal-movies-and-tv-series.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/discover-the-top-5-unmissable-pedro-pascal-movies-and-tv-series/"
-  og_title: "Discover the Top 5 Unmissable Pedro Pascal Movies and TV Series - TV Shows Magazine"
-  og_description: "Pedro Pascal's versatile filmography spans various genres, showcasing his talent in diverse roles. From 'Game of Thrones' to 'The Mandalorian', Pascal's performances have consistently been memorable. His work offers something for everyone, whether you're a fan of fantasy, crime dramas, or sci-fi."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/discover-the-top-5-unmissable-pedro-pascal-movies-and-tv-series/
+  og_title: >-
+    Discover the Top 5 Unmissable Pedro Pascal Movies and TV Series - TV Shows
+    Magazine
+  og_description: >-
+    Pedro Pascal's versatile filmography spans various genres, showcasing his
+    talent in diverse roles. From 'Game of Thrones' to 'The Mandalorian',
+    Pascal's performances have consistently been memorable. His work offers
+    something for everyone, whether you're a fan of fantasy, crime dramas, or
+    sci-fi.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/04/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate content, but significantly under target word count at 354 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accurate content, but significantly
+  under target word count at 354 words instead of the 800-1200 range.
+image_alt: >-
+  Empty director's chair surrounded by cinematic genre scenes from fantasy,
+  western, crime, and sci-fi.
 ---
 
 If you're a fan of engaging storytelling and powerful performances, Pedro Pascal's filmography is a treasure trove awaiting your discovery. This versatile actor's body of work spans various genres, showcasing his ability to immerse himself in diverse characters. From his breakout role in 'Game of Thrones' to his latest exploits in 'The Mandalorian,' Pedro Pascal has consistently delivered memorable performances. Here are five of his must-stream movies and TV shows that you absolutely cannot miss.
