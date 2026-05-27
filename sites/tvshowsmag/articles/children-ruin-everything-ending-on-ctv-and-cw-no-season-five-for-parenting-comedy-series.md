@@ -1,25 +1,42 @@
 ---
-title: "Children Ruin Everything: Ending on CTV and CW, No Season Five for Parenting Comedy Series"
-description: "The Canadian parenting comedy series *Children Ruin Everything* is ending after four seasons and 50 episodes on CTV and The CW, with no fifth season planned."
-type: "standard"
-status: "published"
-publishDate: "2025-02-28T10:00:05+00:00"
-author: "admin"
+title: >-
+  Children Ruin Everything: Ending on CTV and CW, No Season Five for Parenting
+  Comedy Series
+description: >-
+  The Canadian parenting comedy series *Children Ruin Everything* is ending
+  after four seasons and 50 episodes on CTV and The CW, with no fifth season
+  planned.
+type: standard
+status: published
+publishDate: '2025-02-28T10:00:05+00:00'
+author: admin
 tags:
-  - "TV News"
-  - "Cancelled"
-slug: "children-ruin-everything-ending-on-ctv-and-cw-no-season-five-for-parenting-comedy-series"
+  - TV News
+  - Cancelled
+slug: >-
+  children-ruin-everything-ending-on-ctv-and-cw-no-season-five-for-parenting-comedy-series
 reading_time: 2
-source_url: "https://www.tvshowsmag.com/children-ruin-everything-ending-on-ctv-and-cw-no-season-five-for-parenting-comedy-series/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/children-ruin-everything-ending-on-ctv-and-cw-no-season-five-for-parenting-comedy-series/
+imported_from: wordpress
 wp_original_id: 27751
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/children-ruin-everything-ending-on-ctv-and-cw-no-season-five-for-parenting-comedy-series.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/children-ruin-everything-ending-on-ctv-and-cw-no-season-five-for-parenting-comedy-series/"
-  og_title: "Children Ruin Everything: Ending on CTV and CW, No Season Five for Parenting Comedy Series - TV Shows Magazine"
-  og_description: "by Trevor Kimball, February 24, 2025 (Photo: Jackie Brown/New Metric Media) The story of a certain family is coming to an end. The Children Ruin Everything TV show is ending with the current fourth season.&nbsp; The series originates in Canada on CTV and episodes air in the United States on The CW. A parenting comedy [&hellip;]"
-  og_image: "https://tvseriesfinale.com/wp-content/uploads/2024/12/childrenruineverything21-590x392.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/children-ruin-everything-ending-on-ctv-and-cw-no-season-five-for-parenting-comedy-series/
+  og_title: >-
+    Children Ruin Everything: Ending on CTV and CW, No Season Five for Parenting
+    Comedy Series - TV Shows Magazine
+  og_description: >-
+    by Trevor Kimball, February 24, 2025 (Photo: Jackie Brown/New Metric Media)
+    The story of a certain family is coming to an end. The Children Ruin
+    Everything TV show is ending with the current fourth season.&nbsp; The
+    series originates in Canada on CTV and episodes air in the United States on
+    The CW. A parenting comedy [&hellip;]
+  og_image: >-
+    https://tvseriesfinale.com/wp-content/uploads/2024/12/childrenruineverything21-590x392.jpg
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -27,7 +44,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written TV news article with appropriate tone and strong keyword relevance, but significantly under target word count at 383 words versus the 800-1200 range."
+quality_note: >-
+  Well-written TV news article with appropriate tone and strong keyword
+  relevance, but significantly under target word count at 383 words versus the
+  800-1200 range.
+image_alt: >-
+  Empty sitcom-style living room set with scattered toys and warm nostalgic
+  lighting.
 ---
 
 *by Trevor Kimball, February 24, 2025*
