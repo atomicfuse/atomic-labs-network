@@ -1,25 +1,34 @@
 ---
-title: "Slash’s Blues Ball Unveils Legendary Live Album Performance"
-description: "Legendary musician Slash captivates audiences with his new live album \"Blues Ball,\" showcasing his passion for blues music. The album captures the essence of live performance and features classic tracks that highlight his unique guitar skills and musical collaborations."
-type: "standard"
-status: "published"
-publishDate: "2025-09-18T07:17:30+00:00"
-author: "Lena Harper"
+title: Slash’s Blues Ball Unveils Legendary Live Album Performance
+description: >-
+  Legendary musician Slash captivates audiences with his new live album "Blues
+  Ball," showcasing his passion for blues music. The album captures the essence
+  of live performance and features classic tracks that highlight his unique
+  guitar skills and musical collaborations.
+type: standard
+status: published
+publishDate: '2025-09-18T07:17:30+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Music"
-slug: "slashs-blues-ball-unveils-legendary-live-album-performance"
+  - Celebrities
+  - Music
+slug: slashs-blues-ball-unveils-legendary-live-album-performance
 reading_time: 3
-source_url: "https://wtpop.com/slashs-blues-ball-unveils-legendary-live-album-performance/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/slashs-blues-ball-unveils-legendary-live-album-performance/'
+imported_from: wordpress
 wp_original_id: 536
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/slashs-blues-ball-unveils-legendary-live-album-performance.webp
 seo:
-  canonical: "https://wtpop.com/slashs-blues-ball-unveils-legendary-live-album-performance/"
-  og_title: "Slash's Blues Ball Unveils Legendary Live Album Performance - WTPOP"
-  og_description: "Legendary musician Slash captivates audiences with his new live album \"Blues Ball,\" showcasing his passion for blues music. The album captures the essence of live performance and features classic tracks that highlight his unique guitar skills and musical collaborations."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/09/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/slashs-blues-ball-unveils-legendary-live-album-performance/
+  og_title: Slash's Blues Ball Unveils Legendary Live Album Performance - WTPOP
+  og_description: >-
+    Legendary musician Slash captivates audiences with his new live album "Blues
+    Ball," showcasing his passion for blues music. The album captures the
+    essence of live performance and features classic tracks that highlight his
+    unique guitar skills and musical collaborations.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/09/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +36,10 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword relevance, but falls short on length and raises some factual concerns about the specific album details."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but falls short on
+  length and raises some factual concerns about the specific album details.
+image_alt: Silhouetted blues guitarist performs under amber lights on a smoky club stage
 ---
 
 Legendary musician Slash has once again captivated audiences with the release of his new live album that celebrates the dynamic energy of Blues Ball, a project that showcases the guitarist's unparalleled skill and passion for blues music. This latest release captures the essence of live performance, offering fans an experience that is both electrifying and authentic.
