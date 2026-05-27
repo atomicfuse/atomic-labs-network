@@ -1,25 +1,32 @@
 ---
-title: "Top 7 Must-Watch TV Shows This Week"
-description: "TV enthusiasts have a wealth of captivating shows to explore this week, offering a mix of genres to satisfy diverse tastes. From innovative dramas to compelling documentaries, there's something for everyone."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T08:01:44+00:00"
-author: "Taylor Winters"
+title: Top 7 Must-Watch TV Shows This Week
+description: >-
+  TV enthusiasts have a wealth of captivating shows to explore this week,
+  offering a mix of genres to satisfy diverse tastes. From innovative dramas to
+  compelling documentaries, there's something for everyone.
+type: standard
+status: review
+publishDate: '2025-05-05T08:01:44+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "top-7-must-watch-tv-shows-this-week"
+  - TV News
+  - TV Shows
+slug: top-7-must-watch-tv-shows-this-week
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-7-must-watch-tv-shows-this-week/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/top-7-must-watch-tv-shows-this-week/'
+imported_from: wordpress
 wp_original_id: 28019
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/top-7-must-watch-tv-shows-this-week.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-7-must-watch-tv-shows-this-week/"
-  og_title: "Top 7 Must-Watch TV Shows This Week - TV Shows Magazine"
-  og_description: "TV enthusiasts have a wealth of captivating shows to explore this week, offering a mix of genres to satisfy diverse tastes. From innovative dramas to compelling documentaries, there's something for everyone. Let's dive into what's worth watching and why these shows deserve attention."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/05/make_file-15.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/top-7-must-watch-tv-shows-this-week/'
+  og_title: Top 7 Must-Watch TV Shows This Week - TV Shows Magazine
+  og_description: >-
+    TV enthusiasts have a wealth of captivating shows to explore this week,
+    offering a mix of genres to satisfy diverse tastes. From innovative dramas
+    to compelling documentaries, there's something for everyone. Let's dive into
+    what's worth watching and why these shows deserve attention.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/05/make_file-15.jpeg'
+  twitter_card: summary_large_image
 quality_score: 65
 score_breakdown:
   seo_quality: 65
@@ -27,7 +34,13 @@ score_breakdown:
   content_length: 58
   factual_accuracy: 40
   keyword_relevance: 75
-quality_note: "While the tone is engaging and conversational, the article is too short and contains vague, potentially fabricated show descriptions without naming actual programs or providing specific details."
+quality_note: >-
+  While the tone is engaging and conversational, the article is too short and
+  contains vague, potentially fabricated show descriptions without naming actual
+  programs or providing specific details.
+image_alt: >-
+  Silhouetted viewer facing seven glowing genre-inspired screens in a cinematic
+  living room
 ---
 
 TV enthusiasts have a wealth of captivating shows to explore this week, offering a mix of genres to satisfy diverse tastes. From innovative dramas to compelling documentaries, there's something for everyone. Let's dive into what's worth watching and why these shows deserve your attention.
