@@ -1,25 +1,35 @@
 ---
-title: "Master This Simple Transition to a Challenging Yoga Pose"
-description: "Exploring deeper layers of yoga practice leads to discovering unique poses that challenge both body and mind. One such pose is the 'Cat Pulling Its Tail' transition, which offers an opportunity to deepen flexibility, balance, and concentration."
-type: "standard"
-status: "review"
-publishDate: "2025-05-01T07:01:36+00:00"
-author: "Taylor Winters"
+title: Master This Simple Transition to a Challenging Yoga Pose
+description: >-
+  Exploring deeper layers of yoga practice leads to discovering unique poses
+  that challenge both body and mind. One such pose is the 'Cat Pulling Its Tail'
+  transition, which offers an opportunity to deepen flexibility, balance, and
+  concentration.
+type: standard
+status: review
+publishDate: '2025-05-01T07:01:36+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga Postures"
-slug: "master-this-simple-transition-to-a-challenging-yoga-pose"
+  - Yoga Poses
+  - Yoga Postures
+slug: master-this-simple-transition-to-a-challenging-yoga-pose
 reading_time: 4
-source_url: "https://yogaterritory.com/master-this-simple-transition-to-a-challenging-yoga-pose/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/master-this-simple-transition-to-a-challenging-yoga-pose/
+imported_from: wordpress
 wp_original_id: 20606
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/master-this-simple-transition-to-a-challenging-yoga-pose.webp
 seo:
-  canonical: "https://yogaterritory.com/master-this-simple-transition-to-a-challenging-yoga-pose/"
-  og_title: "Master This Simple Transition to a Challenging Yoga Pose - Yoga Territory"
-  og_description: "Exploring deeper layers of yoga practice leads to discovering unique poses that challenge both body and mind. One such pose is the 'Cat Pulling Its Tail' transition, which offers an opportunity to deepen flexibility, balance, and concentration."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/master-this-simple-transition-to-a-challenging-yoga-pose/
+  og_title: Master This Simple Transition to a Challenging Yoga Pose - Yoga Territory
+  og_description: >-
+    Exploring deeper layers of yoga practice leads to discovering unique poses
+    that challenge both body and mind. One such pose is the 'Cat Pulling Its
+    Tail' transition, which offers an opportunity to deepen flexibility,
+    balance, and concentration.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: "While the tone and keyword usage are strong, the article appears to describe a fabricated yoga pose ('Cat Pulling Its Tail' transition) and falls short of the target word count."
+quality_note: >-
+  While the tone and keyword usage are strong, the article appears to describe a
+  fabricated yoga pose ('Cat Pulling Its Tail' transition) and falls short of
+  the target word count.
+image_alt: >-
+  Yoga practitioner in a graceful floor transition in a softly lit minimalist
+  studio
 ---
 
 Exploring the deeper layers of yoga practice often leads to discovering unique poses that challenge both body and mind. One such pose is the 'Cat Pulling Its Tail' transition, which offers an opportunity to deepen flexibility, balance, and concentration.
