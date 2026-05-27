@@ -1,25 +1,33 @@
 ---
-title: "Discover Ecotact’s New Penta Pak 12.5 Coffee Bag"
-description: "Ecotact introduces the Penta Pak, a sustainable coffee packaging solution that maintains coffee freshness while reducing environmental impact. This innovative bag features a multi-layered barrier for protection and is made from eco-friendly, recyclable materials, supporting the circular economy."
-type: "standard"
-status: "review"
-publishDate: "2025-12-15T09:15:42+00:00"
-author: "Taylor Winters"
+title: Discover Ecotact’s New Penta Pak 12.5 Coffee Bag
+description: >-
+  Ecotact introduces the Penta Pak, a sustainable coffee packaging solution that
+  maintains coffee freshness while reducing environmental impact. This
+  innovative bag features a multi-layered barrier for protection and is made
+  from eco-friendly, recyclable materials, supporting the circular economy.
+type: standard
+status: review
+publishDate: '2025-12-15T09:15:42+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "discover-ecotacts-new-penta-pak-12-5-coffee-bag"
+  - Coffee News
+  - News
+slug: discover-ecotacts-new-penta-pak-12-5-coffee-bag
 reading_time: 4
-source_url: "https://coffeeactually.com/discover-ecotacts-new-penta-pak-12-5-coffee-bag/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/discover-ecotacts-new-penta-pak-12-5-coffee-bag/'
+imported_from: wordpress
 wp_original_id: 51365
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/discover-ecotacts-new-penta-pak-12-5-coffee-bag.webp
 seo:
-  canonical: "https://coffeeactually.com/discover-ecotacts-new-penta-pak-12-5-coffee-bag/"
-  og_title: "Discover Ecotact's New Penta Pak 12.5 Coffee Bag - Coffee Actually"
-  og_description: "Ecotact introduces the Penta Pak, a sustainable coffee packaging solution that maintains coffee freshness while reducing environmental impact. This innovative bag features a multi-layered barrier for protection and is made from eco-friendly, recyclable materials, supporting the circular economy."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/12/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/discover-ecotacts-new-penta-pak-12-5-coffee-bag/'
+  og_title: Discover Ecotact's New Penta Pak 12.5 Coffee Bag - Coffee Actually
+  og_description: >-
+    Ecotact introduces the Penta Pak, a sustainable coffee packaging solution
+    that maintains coffee freshness while reducing environmental impact. This
+    innovative bag features a multi-layered barrier for protection and is made
+    from eco-friendly, recyclable materials, supporting the circular economy.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/12/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written coffee news piece with good tone and keyword relevance, but falls short on length and lacks specific technical details that could raise accuracy concerns."
+quality_note: >-
+  Well-written coffee news piece with good tone and keyword relevance, but falls
+  short on length and lacks specific technical details that could raise accuracy
+  concerns.
+image_alt: >-
+  Unbranded sustainable coffee pouch with beans and green leaves in warm natural
+  light
 ---
 
 In a significant stride towards sustainable coffee packaging, Ecotact has unveiled the innovative Penta Pak coffee bag. Designed specifically to meet the increasing demand for eco-friendly solutions in the coffee industry, this packaging offers a blend of functionality and environmental responsibility. The Penta Pak not only preserves the freshness of coffee but also aligns with global sustainability goals, making it a noteworthy development in packaging technology.
