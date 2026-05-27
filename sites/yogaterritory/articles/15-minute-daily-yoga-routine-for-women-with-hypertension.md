@@ -1,27 +1,37 @@
 ---
-title: "15-Minute Daily Yoga Routine for Women With Hypertension"
-description: "A gentle 15-minute yoga routine can help women manage hypertension by combining calming breathwork, supported poses, relaxation, and consistency alongside medical care, healthy eating, regular activity, and blood pressure monitoring."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:42:01+00:00"
-author: "Taylor Winters"
+title: 15-Minute Daily Yoga Routine for Women With Hypertension
+description: >-
+  A gentle 15-minute yoga routine can help women manage hypertension by
+  combining calming breathwork, supported poses, relaxation, and consistency
+  alongside medical care, healthy eating, regular activity, and blood pressure
+  monitoring.
+type: standard
+status: published
+publishDate: '2026-05-14T08:42:01+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Beginners"
-  - "Yoga For Relaxation"
-  - "Yoga For Women"
-slug: "15-minute-daily-yoga-routine-for-women-with-hypertension"
+  - Yoga Poses
+  - Yoga For Beginners
+  - Yoga For Relaxation
+  - Yoga For Women
+slug: 15-minute-daily-yoga-routine-for-women-with-hypertension
 reading_time: 7
-source_url: "https://yogaterritory.com/15-minute-daily-yoga-routine-for-women-with-hypertension/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/15-minute-daily-yoga-routine-for-women-with-hypertension/
+imported_from: wordpress
 wp_original_id: 20761
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/15-minute-daily-yoga-routine-for-women-with-hypertension.webp
 seo:
-  canonical: "https://yogaterritory.com/15-minute-daily-yoga-routine-for-women-with-hypertension/"
-  og_title: "15-Minute Daily Yoga Routine for Women With Hypertension - Yoga Territory"
-  og_description: "A gentle 15-minute yoga routine can help women manage hypertension by combining calming breathwork, supported poses, relaxation, and consistency alongside medical care, healthy eating, regular activity, and blood pressure monitoring."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/15-minute-daily-yoga-routine-for-women-with-hypertension/
+  og_title: 15-Minute Daily Yoga Routine for Women With Hypertension - Yoga Territory
+  og_description: >-
+    A gentle 15-minute yoga routine can help women manage hypertension by
+    combining calming breathwork, supported poses, relaxation, and consistency
+    alongside medical care, healthy eating, regular activity, and blood pressure
+    monitoring.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 91
 score_breakdown:
   seo_quality: 85
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-crafted article with excellent tone and comprehensive content, though the title could be slightly shorter and keyword integration could be more prominent in headings."
+quality_note: >-
+  Well-crafted article with excellent tone and comprehensive content, though the
+  title could be slightly shorter and keyword integration could be more
+  prominent in headings.
+image_alt: >-
+  Woman practices gentle yoga in a calm sunlit room with a blood pressure
+  monitor nearby.
 ---
 
 High blood pressure can feel silent until it begins shaping daily choices, energy levels, and long-term heart health. For many women, a short yoga routine offers a practical way to support hypertension management alongside medical care, better nutrition, regular movement, and stress control.
