@@ -1,24 +1,36 @@
 ---
-title: "Cynthia Erivo Voldemort Casting Rumors Ignite Harry Potter Reboot Buzz"
-description: "Casting rumors about a potential Harry Potter reboot suggest Cynthia Erivo might play Lord Voldemort, sparking fan debates about diverse casting choices and the future of the beloved franchise."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T11:17:52+00:00"
-author: "Lena Harper"
+title: Cynthia Erivo Voldemort Casting Rumors Ignite Harry Potter Reboot Buzz
+description: >-
+  Casting rumors about a potential Harry Potter reboot suggest Cynthia Erivo
+  might play Lord Voldemort, sparking fan debates about diverse casting choices
+  and the future of the beloved franchise.
+type: standard
+status: published
+publishDate: '2025-12-04T11:17:52+00:00'
+author: Lena Harper
 tags:
-  - "TV &amp; Movies"
-slug: "cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz"
+  - TV &amp; Movies
+slug: cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz
 reading_time: 3
-source_url: "https://wtpop.com/cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz/"
-imported_from: "wordpress"
+source_url: >-
+  https://wtpop.com/cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz/
+imported_from: wordpress
 wp_original_id: 703
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz.webp
 seo:
-  canonical: "https://wtpop.com/cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz/"
-  og_title: "Cynthia Erivo Voldemort Casting Rumors Ignite Harry Potter Reboot Buzz - WTPOP"
-  og_description: "Casting rumors about a potential Harry Potter reboot suggest Cynthia Erivo might play Lord Voldemort. This speculation has sparked debates among fans, highlighting the series' impact and the industry's shift towards diverse casting choices."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/cynthia-erivo-voldemort-casting-rumors-ignite-harry-potter-reboot-buzz/
+  og_title: >-
+    Cynthia Erivo Voldemort Casting Rumors Ignite Harry Potter Reboot Buzz -
+    WTPOP
+  og_description: >-
+    Casting rumors about a potential Harry Potter reboot suggest Cynthia Erivo
+    might play Lord Voldemort. This speculation has sparked debates among fans,
+    highlighting the series' impact and the industry's shift towards diverse
+    casting choices.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written entertainment piece with strong keyword relevance and good tone, but significantly under target length and relies heavily on unconfirmed rumors without clear sourcing."
+quality_note: >-
+  Well-written entertainment piece with strong keyword relevance and good tone,
+  but significantly under target length and relies heavily on unconfirmed rumors
+  without clear sourcing.
+image_alt: >-
+  A cloaked performer stands in dramatic green-violet light amid mist and
+  rumor-like floating papers.
 ---
 
 In the ever-evolving world of entertainment, casting rumors often ignite passionate discussions among fans. The latest buzz surrounds the potential reboot of the beloved Harry Potter series, with whispers of Cynthia Erivo possibly stepping into the iconic role of Lord Voldemort. This speculation has captivated audiences, fueling debates about the future of the franchise and the intriguing casting choices being considered.
