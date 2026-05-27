@@ -1,24 +1,36 @@
 ---
-title: "Comprehensive Guide to a Healthy Pregnancy Journey"
-description: "Pregnancy is a transformative journey requiring careful attention. Understanding stages, maintaining a healthy lifestyle, and ensuring regular prenatal care help expectant parents navigate with confidence, preparing emotionally and practically for a positive parenting experience and the arrival of a new baby."
-type: "standard"
-status: "published"
-publishDate: "2026-02-02T11:04:51+00:00"
-author: "Taylor Winters"
+title: Comprehensive Guide to a Healthy Pregnancy Journey
+description: >-
+  Pregnancy is a transformative journey requiring careful attention.
+  Understanding stages, maintaining a healthy lifestyle, and ensuring regular
+  prenatal care help expectant parents navigate with confidence, preparing
+  emotionally and practically for a positive parenting experience and the
+  arrival of a new baby.
+type: standard
+status: published
+publishDate: '2026-02-02T11:04:51+00:00'
+author: Taylor Winters
 tags:
-  - "Pregnancy"
-slug: "comprehensive-guide-to-a-healthy-pregnancy-journey"
+  - Pregnancy
+slug: comprehensive-guide-to-a-healthy-pregnancy-journey
 reading_time: 3
-source_url: "https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey/
+imported_from: wordpress
 wp_original_id: 17774
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/comprehensive-guide-to-a-healthy-pregnancy-journey.webp
 seo:
-  canonical: "https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey/"
-  og_title: "Comprehensive Guide to a Healthy Pregnancy Journey - Baby Parent Trends"
-  og_description: "Pregnancy is a transformative journey requiring careful attention. Understanding stages, maintaining a healthy lifestyle, and ensuring regular prenatal care help expectant parents navigate with confidence, preparing emotionally and practically for a positive parenting experience and the arrival of a new baby."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/02/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey/
+  og_title: Comprehensive Guide to a Healthy Pregnancy Journey - Baby Parent Trends
+  og_description: >-
+    Pregnancy is a transformative journey requiring careful attention.
+    Understanding stages, maintaining a healthy lifestyle, and ensuring regular
+    prenatal care help expectant parents navigate with confidence, preparing
+    emotionally and practically for a positive parenting experience and the
+    arrival of a new baby.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/02/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written pregnancy guide with accurate information and appropriate tone, but falls short on content length (598 words vs 800-1200 target) which significantly impacts overall value."
+quality_note: >-
+  Well-written pregnancy guide with accurate information and appropriate tone,
+  but falls short on content length (598 words vs 800-1200 target) which
+  significantly impacts overall value.
+image_alt: >-
+  Expectant parent resting by a sunlit window with gentle prenatal wellness
+  items nearby
 ---
 
 Pregnancy is a life-changing journey filled with excitement, anticipation, and numerous questions. As expectant parents navigate this incredible phase, understanding the various stages, health tips, and significant milestones can greatly enhance the experience. This guide aims to provide comprehensive insights into pregnancy, helping parents-to-be make informed decisions.
