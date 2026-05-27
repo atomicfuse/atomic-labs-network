@@ -23,7 +23,7 @@ source_url: >-
   https://deadline.com/2026/05/hannah-einbinder-hacks-creator-bid-farewell-1236920542/
 source_item_id: 6a151f7316f23264031d8116
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/hannah-einbinder-hacks-creators-bid-farewell-hbo-series.webp
 quality_score: 41
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   seasons and Golden Globe wins), poor SEO structure, and weak relevance to
   funnypigeon's entertainment focus areas.
 reading_time: 3
+image_alt: >-
+  Two comedy collaborators share a quiet farewell backstage beside a lone
+  microphone in warm theater light.
 ---
 ## The End of an Era for HBO's Comedy-Drama Hit
 
