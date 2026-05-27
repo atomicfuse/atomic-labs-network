@@ -20,7 +20,7 @@ source_url: >-
   https://www.fitandwell.com/exercise/pilates/i-asked-a-certified-instructor-if-it-was-possible-to-do-a-reformer-pilates-workout-without-a-reformer-heres-what-she-suggests
 source_item_id: 6a13fc9e16f23264031d7b7b
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/diy-reformer-pilates-workout-at-home-certified-instructor.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Good fitness content with strong keyword alignment and appropriate tone, but
   falls short of target length at 623 words instead of the ideal 800-1200 range.
 reading_time: 3
+image_alt: >-
+  Woman doing a controlled Pilates lunge at home with towel sliders and
+  resistance bands nearby.
 ---
 ## The Rise of Reformer Pilates and the Accessibility Challenge
 
