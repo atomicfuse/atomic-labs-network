@@ -22,7 +22,7 @@ source_url: >-
   https://www.vulture.com/article/below-deck-down-under-recap-season-4-episode-17-bravo.html
 source_item_id: 6a152fda16f23264031d81fc
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/below-deck-down-under-daisy-ben-ego-battle-threatens-crew.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   501 words, which severely impacts overall quality despite good entertainment
   coverage.
 reading_time: 3
+image_alt: >-
+  Tense yacht crew standoff at dusk with a junior crew member caught between
+  competing leaders.
 ---
 ## Power Struggle Reaches Breaking Point
 
