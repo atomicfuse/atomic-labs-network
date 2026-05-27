@@ -1,25 +1,36 @@
 ---
-title: "Orlando Real Estate Lifestyle Series Debuts on REAL Shows Network"
-description: "Graham Holdings' WKMG-TV offers investors exposure to Central Florida's growing media market, supported by local news, political ads, weather coverage, retransmission fees, and steady broadcasting cash flow."
-type: "standard"
-status: "review"
-publishDate: "2026-05-04T09:02:29+00:00"
-author: "Taylor Winters"
+title: Orlando Real Estate Lifestyle Series Debuts on REAL Shows Network
+description: >-
+  Graham Holdings' WKMG-TV offers investors exposure to Central Florida's
+  growing media market, supported by local news, political ads, weather
+  coverage, retransmission fees, and steady broadcasting cash flow.
+type: standard
+status: review
+publishDate: '2026-05-04T09:02:29+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-slug: "orlando-real-estate-lifestyle-series-debuts-on-real-shows-network"
+  - TV News
+  - News
+slug: orlando-real-estate-lifestyle-series-debuts-on-real-shows-network
 reading_time: 7
-source_url: "https://www.tvshowsmag.com/orlando-real-estate-lifestyle-series-debuts-on-real-shows-network/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/orlando-real-estate-lifestyle-series-debuts-on-real-shows-network/
+imported_from: wordpress
 wp_original_id: 28208
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/orlando-real-estate-lifestyle-series-debuts-on-real-shows-network.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/orlando-real-estate-lifestyle-series-debuts-on-real-shows-network/"
-  og_title: "Orlando Real Estate Lifestyle Series Debuts on REAL Shows Network - TV Shows Magazine"
-  og_description: "Graham Holdings’ WKMG-TV offers investors exposure to Central Florida’s growing media market, supported by local news, political ads, weather coverage, retransmission fees, and steady broadcasting cash flow."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/orlando-real-estate-lifestyle-series-debuts-on-real-shows-network/
+  og_title: >-
+    Orlando Real Estate Lifestyle Series Debuts on REAL Shows Network - TV Shows
+    Magazine
+  og_description: >-
+    Graham Holdings’ WKMG-TV offers investors exposure to Central Florida’s
+    growing media market, supported by local news, political ads, weather
+    coverage, retransmission fees, and steady broadcasting cash flow.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 34
 score_breakdown:
   seo_quality: 25
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 20
   keyword_relevance: 10
-quality_note: "This article completely misses the target audience and topic, focusing on investment analysis of Graham Holdings rather than entertainment content about a TV show debut as promised in the title."
+quality_note: >-
+  This article completely misses the target audience and topic, focusing on
+  investment analysis of Graham Holdings rather than entertainment content about
+  a TV show debut as promised in the title.
+image_alt: >-
+  Central Florida skyline with upscale residences and subtle broadcast signal
+  arcs at golden hour
 ---
 
 Central Florida is usually viewed through the lens of tourism, housing growth, and theme parks. For investors, however, the region also offers a quieter opportunity inside the local broadcasting business. Graham Holdings, traded on the NYSE under GHC, owns WKMG-TV in Orlando through Graham Media Group. That station gives the company exposure to one of the most active media and advertising markets in the Southeast.
