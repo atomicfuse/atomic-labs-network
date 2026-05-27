@@ -1,26 +1,39 @@
 ---
-title: "Ozempic: GLP-1 Impact on Muscle Loss Lower Than Expected"
-description: "GLP-1 receptor agonists like Ozempic are popular for weight management, originally developed for diabetes. Concerns about muscle loss exist, but recent findings suggest it's less significant, highlighting the importance of combining medication with lifestyle changes for effective weight management."
-type: "standard"
-status: "published"
-publishDate: "2025-08-07T04:03:48+00:00"
-author: "Taylor Winters"
+title: 'Ozempic: GLP-1 Impact on Muscle Loss Lower Than Expected'
+description: >-
+  GLP-1 receptor agonists like Ozempic are popular for weight management,
+  originally developed for diabetes. Concerns about muscle loss exist, but
+  recent findings suggest it's less significant, highlighting the importance of
+  combining medication with lifestyle changes for effective weight management.
+type: standard
+status: published
+publishDate: '2025-08-07T04:03:48+00:00'
+author: Taylor Winters
 tags:
-  - "Diabetes"
-  - "Drugs"
-  - "Health, Fitness &amp; Food"
-slug: "ozempic-glp-1-impact-on-muscle-loss-lower-than-expected"
+  - Diabetes
+  - Drugs
+  - 'Health, Fitness &amp; Food'
+slug: ozempic-glp-1-impact-on-muscle-loss-lower-than-expected
 reading_time: 2
-source_url: "https://medicalnewscorner.com/ozempic-glp-1-impact-on-muscle-loss-lower-than-expected/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/ozempic-glp-1-impact-on-muscle-loss-lower-than-expected/
+imported_from: wordpress
 wp_original_id: 24693
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/ozempic-glp-1-impact-on-muscle-loss-lower-than-expected.webp
 seo:
-  canonical: "https://medicalnewscorner.com/ozempic-glp-1-impact-on-muscle-loss-lower-than-expected/"
-  og_title: "Ozempic: GLP-1 Impact on Muscle Loss Lower Than Expected - Medical News Corner"
-  og_description: "GLP-1 receptor agonists like Ozempic are popular for weight management, originally developed for diabetes. Concerns about muscle loss exist, but recent findings suggest it's less significant, highlighting the importance of combining medication with lifestyle changes for effective weight management."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/ozempic-glp-1-impact-on-muscle-loss-lower-than-expected/
+  og_title: >-
+    Ozempic: GLP-1 Impact on Muscle Loss Lower Than Expected - Medical News
+    Corner
+  og_description: >-
+    GLP-1 receptor agonists like Ozempic are popular for weight management,
+    originally developed for diabetes. Concerns about muscle loss exist, but
+    recent findings suggest it's less significant, highlighting the importance
+    of combining medication with lifestyle changes for effective weight
+    management.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong topic relevance and tone but significantly under target word count at 395 words versus 800-1200 target range."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target word count at
+  395 words versus 800-1200 target range.
+image_alt: >-
+  Unbranded injection pen beside dumbbells and healthy food on a sunlit kitchen
+  counter
 ---
 
 In recent years, GLP-1 receptor agonists like Ozempic have gained popularity for their effectiveness in weight management. These medications, originally developed for diabetes, have been noted for their ability to help users shed pounds effectively. However, concerns have emerged regarding the potential for muscle mass loss during their use. New findings suggest that the extent of muscle loss may not be as significant as previously thought, offering a more balanced perspective on these medications.
