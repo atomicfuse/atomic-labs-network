@@ -21,7 +21,7 @@ source_url: >-
   https://www.usmagazine.com/celebrity-news/news/fergie-reunites-with-black-eyed-peas-at-the-2026-amas/
 source_item_id: 6a151f7316f23264031d8108
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/fergie-reunites-black-eyed-peas-2026-american-music-awards.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,7 @@ quality_note: >-
   Strong entertainment coverage with engaging tone, but severely undermined by
   fabricated 2026 event details and below-target word count.
 reading_time: 3
+image_alt: Four pop performers reunite on a blue-lit awards stage as one holds a trophy.
 ---
 ## Emotional Reunion Marks New AMAs Category Win
 
