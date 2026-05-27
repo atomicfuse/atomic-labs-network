@@ -19,7 +19,7 @@ source_url: >-
   https://athletechnews.com/new-york-pilates-opens-sag-harbor-studio-ahead-of-memorial-day-weekend/
 source_item_id: 6a13fc9f16f23264031d7b7f
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/new-york-pilates-sag-harbor-studio-memorial-day.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -32,6 +32,9 @@ quality_note: >-
   engaging, conversational tone and actionable health content typical for the
   target audience.
 reading_time: 3
+image_alt: >-
+  Sunlit coastal Pilates studio with reformers, pale wood floors, and airy
+  Hamptons-inspired decor.
 ---
 ## Boutique Pilates Arrives in the Hamptons
 
