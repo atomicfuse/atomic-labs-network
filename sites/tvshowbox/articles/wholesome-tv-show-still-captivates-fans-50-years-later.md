@@ -1,25 +1,33 @@
 ---
-title: "Wholesome TV Show Still Captivates Fans 50 Years Later"
-description: "A look at why The Mary Tyler Moore Show still feels modern, from Mary Richards' groundbreaking independence to the sitcom's lasting influence on workplace comedy, female leads, and television history."
-type: "standard"
-status: "published"
-publishDate: "2026-05-25T08:36:30+00:00"
-author: "Taylor Winters"
+title: Wholesome TV Show Still Captivates Fans 50 Years Later
+description: >-
+  A look at why The Mary Tyler Moore Show still feels modern, from Mary
+  Richards' groundbreaking independence to the sitcom's lasting influence on
+  workplace comedy, female leads, and television history.
+type: standard
+status: published
+publishDate: '2026-05-25T08:36:30+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "wholesome-tv-show-still-captivates-fans-50-years-later"
+  - TV News
+  - TV
+slug: wholesome-tv-show-still-captivates-fans-50-years-later
 reading_time: 6
-source_url: "https://tvshowbox.com/wholesome-tv-show-still-captivates-fans-50-years-later/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/wholesome-tv-show-still-captivates-fans-50-years-later/'
+imported_from: wordpress
 wp_original_id: 24117
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/wholesome-tv-show-still-captivates-fans-50-years-later.webp
 seo:
-  canonical: "https://tvshowbox.com/wholesome-tv-show-still-captivates-fans-50-years-later/"
-  og_title: "Wholesome TV Show Still Captivates Fans 50 Years Later - TV Show Box"
-  og_description: "A look at why The Mary Tyler Moore Show still feels modern, from Mary Richards’ groundbreaking independence to the sitcom’s lasting influence on workplace comedy, female leads, and television history."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/05/make_124f9d12531af0093520b99d8907ea22.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/wholesome-tv-show-still-captivates-fans-50-years-later/
+  og_title: Wholesome TV Show Still Captivates Fans 50 Years Later - TV Show Box
+  og_description: >-
+    A look at why The Mary Tyler Moore Show still feels modern, from Mary
+    Richards’ groundbreaking independence to the sitcom’s lasting influence on
+    workplace comedy, female leads, and television history.
+  og_image: >-
+    https://tvshowbox.com/wp-content/uploads/2026/05/make_124f9d12531af0093520b99d8907ea22.jpg
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written retrospective with excellent tone and length, though the title could be more SEO-optimized and specific."
+quality_note: >-
+  Well-written retrospective with excellent tone and length, though the title
+  could be more SEO-optimized and specific.
+image_alt: >-
+  Confident woman in a vintage newsroom office evoking the lasting appeal of
+  classic workplace comedy
 ---
 
 Nearly half a century after its final episode, "The Mary Tyler Moore Show" continues to feel surprisingly modern. The landmark sitcom reshaped television comedy, helped redefine how working women appeared on screen, and built a fan base that still returns to its characters, setting, and cultural message with affection.
