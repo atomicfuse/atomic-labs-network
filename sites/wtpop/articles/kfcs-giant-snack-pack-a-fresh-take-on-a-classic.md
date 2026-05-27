@@ -1,27 +1,32 @@
 ---
-title: "KFC’s Giant Snack Pack: A Fresh Take on a Classic"
-description: "Rediscover the KFC Giant Snack Pack as we explore its return at $6.95, comparing it to its previous version and breaking down what makes it worth the hype."
-type: "standard"
-status: "review"
-publishDate: "2025-06-05T08:11:18+00:00"
-author: "Lena Harper"
+title: 'KFC’s Giant Snack Pack: A Fresh Take on a Classic'
+description: >-
+  Rediscover the KFC Giant Snack Pack as we explore its return at $6.95,
+  comparing it to its previous version and breaking down what makes it worth the
+  hype.
+type: standard
+status: review
+publishDate: '2025-06-05T08:11:18+00:00'
+author: Lena Harper
 tags:
-  - "Influencers"
-slug: "kfcs-giant-snack-pack-a-fresh-take-on-a-classic"
+  - Influencers
+slug: kfcs-giant-snack-pack-a-fresh-take-on-a-classic
 reading_time: 2
-source_url: "https://wtpop.com/kfcs-giant-snack-pack-a-fresh-take-on-a-classic/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/kfcs-giant-snack-pack-a-fresh-take-on-a-classic/'
+imported_from: wordpress
 wp_original_id: 487
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/kfcs-giant-snack-pack-a-fresh-take-on-a-classic.webp
 seo:
-  canonical: "https://wtpop.com/kfcs-giant-snack-pack-a-fresh-take-on-a-classic/"
-  og_title: "KFC's Giant Snack Pack: A Fresh Take on a Classic - WTPOP"
-  og_description: "Rediscover the KFC Giant Snack Pack as we explore its return and compare it to past versions."
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/kfcs-giant-snack-pack-a-fresh-take-on-a-classic/'
+  og_title: 'KFC''s Giant Snack Pack: A Fresh Take on a Classic - WTPOP'
+  og_description: >-
+    Rediscover the KFC Giant Snack Pack as we explore its return and compare it
+    to past versions.
+  twitter_card: summary_large_image
 videos:
-  - id: "24986bd7"
-    url: "https://www.youtube.com/watch?v=a_jZmNmi0lw"
-    position: "after-paragraph-2"
+  - id: 24986bd7
+    url: 'https://www.youtube.com/watch?v=a_jZmNmi0lw'
+    position: after-paragraph-2
 quality_score: 41
 score_breakdown:
   seo_quality: 25
@@ -29,7 +34,13 @@ score_breakdown:
   content_length: 15
   factual_accuracy: 85
   keyword_relevance: 10
-quality_note: "This article about KFC food items is completely off-topic for an entertainment site focused on celebrities, fashion, influencers, music, and TV/movies, and is far too short at only 283 words."
+quality_note: >-
+  This article about KFC food items is completely off-topic for an entertainment
+  site focused on celebrities, fashion, influencers, music, and TV/movies, and
+  is far too short at only 283 words.
+image_alt: >-
+  Crispy fried chicken, fries, and gravy in an unbranded snack tray on a bright
+  diner table
 ---
 
 KFC enthusiasts, rejoice! The beloved $6.95 Giant Snack Pack has made a comeback. Known for its generous portions and mouth-watering flavors, this snack pack has been a favorite for many. Today, we're diving into what makes this returning item worth the hype and how it compares to its previous version from two years ago.
