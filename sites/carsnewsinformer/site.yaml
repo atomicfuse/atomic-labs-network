@@ -1,4 +1,4 @@
-domain: carsnewsinformer
+domain: carsnewsinformer.com
 site_name: carnewsinformer
 site_tagline: null
 author: Max Scott
@@ -46,39 +46,47 @@ brief:
       - thursday
       - friday
     preferred_time: 10:00
+  audience_type_ids: []
 theme:
   base: modern
   colors:
-    primary: "#FF2D00"
-    secondary: "#090A0F"
-    accent: "#00E5FF"
-    background: "#151515"
-    text: "#F7F7F7"
-    muted: "#868686"
-    surface: "#2c2c2c"
-    border: "#444444"
-    heading: "#F7F7F7"
-    link: "#FF2D00"
-    link_hover: "#00E5FF"
-    footer_bg: "#FF2D00"
+    primary: "#1c1f87"
+    accent: "#5570f7"
+    background: "#080721"
+    secondary: "#101438"
+    text: "#e5e7ff"
+    muted: "#898dfb"
+    surface: "#101038"
+    border: "#1a1e51"
+    heading: "#e5e6ff"
+    link: "#5570f7"
+    link_hover: "#8391fb"
+    nav_link: "#e5e8ff"
+    nav_link_hover: "#838bfb"
+    footer_bg: "#121038"
+    must_reads_bg: "#101138"
     hero_title: "#ffffff"
-    must_reads_title: "#ffffff"
-    must_reads_bg: "#FF2D00"
+    must_reads_title: "#e5e6ff"
     article_hero_title: "#ffffff"
-    article_hero_meta: "#868686"
-    feed_title: "#F7F7F7"
-    feed_desc: "#cacaca"
-    feed_date: "#868686"
+    article_hero_meta: "#899cfb"
+    feed_title: "#e5e8ff"
+    feed_desc: "#cac7f0"
+    feed_date: "#8996fb"
+    prose_heading: "#e6e5ff"
+    prose_body: "#c8c7f0"
     category_header_text: "#ffffff"
-    prose_heading: "#F7F7F7"
-    prose_body: "#d5d5d5"
-    footer_text: "#9ca3af"
+    subscribe_heading: "#ffffff"
+    footer_text: "#8990fb"
     footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
+    footer_link: "#8990fb"
     footer_link_hover: "#ffffff"
   fonts:
     heading: Poppins
     body: Inter
+  logo_height: 52
+  logo_height_footer: 88
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
 layout:
   hero:
     enabled: true
@@ -86,6 +94,12 @@ layout:
   must_reads:
     enabled: true
     count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
   sidebar_topics:
     auto: true
     explicit: []
