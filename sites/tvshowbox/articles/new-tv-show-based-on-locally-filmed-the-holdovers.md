@@ -1,25 +1,33 @@
 ---
-title: "New TV Show Based on Locally Filmed ‘The Holdovers’"
-description: "New Bedford and Fairhaven, Massachusetts, serve as the backdrop for a much-anticipated TV adaptation, highlighting the region's history and culture. The series, set in the 1970s, explores themes of resilience and connection, energizing the local community."
-type: "standard"
-status: "review"
-publishDate: "2025-12-15T10:05:32+00:00"
-author: "Taylor Winters"
+title: New TV Show Based on Locally Filmed ‘The Holdovers’
+description: >-
+  New Bedford and Fairhaven, Massachusetts, serve as the backdrop for a
+  much-anticipated TV adaptation, highlighting the region's history and culture.
+  The series, set in the 1970s, explores themes of resilience and connection,
+  energizing the local community.
+type: standard
+status: review
+publishDate: '2025-12-15T10:05:32+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-  - "Upcoming"
-slug: "new-tv-show-based-on-locally-filmed-the-holdovers"
+  - TV News
+  - TV
+  - Upcoming
+slug: new-tv-show-based-on-locally-filmed-the-holdovers
 reading_time: 3
-source_url: "https://tvshowbox.com/new-tv-show-based-on-locally-filmed-the-holdovers/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/new-tv-show-based-on-locally-filmed-the-holdovers/'
+imported_from: wordpress
 wp_original_id: 24028
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/new-tv-show-based-on-locally-filmed-the-holdovers.webp
 seo:
-  canonical: "https://tvshowbox.com/new-tv-show-based-on-locally-filmed-the-holdovers/"
-  og_title: "New TV Show Based on Locally Filmed 'The Holdovers' - TV Show Box"
-  og_description: "New Bedford and Fairhaven, Massachusetts, serve as the backdrop for a much-anticipated TV adaptation, highlighting the region's history and culture. The series, set in the 1970s, explores themes of resilience and connection, energizing the local community."
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/new-tv-show-based-on-locally-filmed-the-holdovers/'
+  og_title: New TV Show Based on Locally Filmed 'The Holdovers' - TV Show Box
+  og_description: >-
+    New Bedford and Fairhaven, Massachusetts, serve as the backdrop for a
+    much-anticipated TV adaptation, highlighting the region's history and
+    culture. The series, set in the 1970s, explores themes of resilience and
+    connection, energizing the local community.
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 70
-quality_note: "The article has good tone and covers relevant TV topics, but is too short at 450 words and lacks crucial details like the actual show name, making it appear vague and potentially inaccurate."
+quality_note: >-
+  The article has good tone and covers relevant TV topics, but is too short at
+  450 words and lacks crucial details like the actual show name, making it
+  appear vague and potentially inaccurate.
+image_alt: >-
+  1970s New England coastal town street with residents gathered in warm winter
+  light
 ---
 
 New Bedford and Fairhaven, Massachusetts, recently gained attention as the setting for a highly anticipated TV show adaptation. This region, rich in history and culture, provides an authentic backdrop for the series, which is set to captivate audiences with its narrative and scenic visuals. The production not only highlights local landmarks but also energizes the community with its presence.
