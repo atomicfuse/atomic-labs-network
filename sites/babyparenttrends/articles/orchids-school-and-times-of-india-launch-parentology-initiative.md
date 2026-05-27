@@ -1,26 +1,39 @@
 ---
-title: "Orchids School and Times of India Launch Parentology Initiative"
-description: "Orchids The International School has partnered with Times of India Parenting to launch Parentology, an initiative designed to provide modern parents with expert advice, practical solutions, and community support for navigating the challenges of raising children today."
-type: "standard"
-status: "published"
-publishDate: "2026-02-09T09:59:34+00:00"
-author: "Taylor Winters"
+title: Orchids School and Times of India Launch Parentology Initiative
+description: >-
+  Orchids The International School has partnered with Times of India Parenting
+  to launch Parentology, an initiative designed to provide modern parents with
+  expert advice, practical solutions, and community support for navigating the
+  challenges of raising children today.
+type: standard
+status: published
+publishDate: '2026-02-09T09:59:34+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "Nurture"
-  - "Parents"
-slug: "orchids-school-and-times-of-india-launch-parentology-initiative"
+  - Kids
+  - Nurture
+  - Parents
+slug: orchids-school-and-times-of-india-launch-parentology-initiative
 reading_time: 3
-source_url: "https://babyparenttrends.com/orchids-school-and-times-of-india-launch-parentology-initiative/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/orchids-school-and-times-of-india-launch-parentology-initiative/
+imported_from: wordpress
 wp_original_id: 17778
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/orchids-school-and-times-of-india-launch-parentology-initiative.webp
 seo:
-  canonical: "https://babyparenttrends.com/orchids-school-and-times-of-india-launch-parentology-initiative/"
-  og_title: "Orchids School and Times of India Launch Parentology Initiative - Baby Parent Trends"
-  og_description: "Orchids The International School's Parentology initiative, in collaboration with Times of India Parenting, offers innovative support for modern parents by providing expert advice, practical solutions, and community engagement to navigate the complexities of raising children in today's fast-paced world."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/orchids-school-and-times-of-india-launch-parentology-initiative/
+  og_title: >-
+    Orchids School and Times of India Launch Parentology Initiative - Baby
+    Parent Trends
+  og_description: >-
+    Orchids The International School's Parentology initiative, in collaboration
+    with Times of India Parenting, offers innovative support for modern parents
+    by providing expert advice, practical solutions, and community engagement to
+    navigate the complexities of raising children in today's fast-paced world.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong topic relevance and appropriate tone for parenting audience, but falls short of optimal word count and could benefit from more compelling SEO elements."
+quality_note: >-
+  Strong topic relevance and appropriate tone for parenting audience, but falls
+  short of optimal word count and could benefit from more compelling SEO
+  elements.
+image_alt: >-
+  Parents and an educator gather in a warm school space for supportive parenting
+  guidance.
 ---
 
 Orchids The International School has embarked on an innovative journey by collaborating with Times of India Parenting. This initiative, aptly named Parentology, is designed to provide essential support and guidance to modern parents navigating the complexities of raising children in today's fast-paced world.
