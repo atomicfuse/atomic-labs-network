@@ -1,25 +1,41 @@
 ---
-title: "Survey Reveals: The Most Desired ’90s TV Home Among Americans – Do You Share the Same Dream?"
-description: "Television has a knack for crafting visually appealing houses that capture viewers' imaginations. This article takes you on a virtual tour of the five most desirable homes in TV history, including the Brady Bunch's mid-century modern home and the Fresh Prince of Bel Air's mansion."
-type: "standard"
-status: "review"
-publishDate: "2025-04-10T06:46:38+00:00"
-author: "Taylor Winters"
+title: >-
+  Survey Reveals: The Most Desired ’90s TV Home Among Americans – Do You Share
+  the Same Dream?
+description: >-
+  Television has a knack for crafting visually appealing houses that capture
+  viewers' imaginations. This article takes you on a virtual tour of the five
+  most desirable homes in TV history, including the Brady Bunch's mid-century
+  modern home and the Fresh Prince of Bel Air's mansion.
+type: standard
+status: review
+publishDate: '2025-04-10T06:46:38+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "survey-reveals-the-most-desired-90s-tv-home-among-americans-do-you-share-the-same-dream"
+  - TV News
+  - TV
+slug: >-
+  survey-reveals-the-most-desired-90s-tv-home-among-americans-do-you-share-the-same-dream
 reading_time: 2
-source_url: "https://tvshowbox.com/survey-reveals-the-most-desired-90s-tv-home-among-americans-do-you-share-the-same-dream/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/survey-reveals-the-most-desired-90s-tv-home-among-americans-do-you-share-the-same-dream/
+imported_from: wordpress
 wp_original_id: 23821
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/survey-reveals-the-most-desired-90s-tv-home-among-americans-do-you-share-the-same-dream.webp
 seo:
-  canonical: "https://tvshowbox.com/survey-reveals-the-most-desired-90s-tv-home-among-americans-do-you-share-the-same-dream/"
-  og_title: "Survey Reveals: The Most Desired '90s TV Home Among Americans - Do You Share the Same Dream? - TV Show Box"
-  og_description: "Television has a knack for crafting visually appealing houses that capture viewers' imaginations. This article takes you on a virtual tour of the five most desirable homes in tv history, including the Brady Bunch's mid-century modern home and the Fresh Prince of Bel Air's mansion."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/04/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/survey-reveals-the-most-desired-90s-tv-home-among-americans-do-you-share-the-same-dream/
+  og_title: >-
+    Survey Reveals: The Most Desired '90s TV Home Among Americans - Do You Share
+    the Same Dream? - TV Show Box
+  og_description: >-
+    Television has a knack for crafting visually appealing houses that capture
+    viewers' imaginations. This article takes you on a virtual tour of the five
+    most desirable homes in tv history, including the Brady Bunch's mid-century
+    modern home and the Fresh Prince of Bel Air's mansion.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/04/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -27,7 +43,12 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written and engaging article with good tone match, but significantly below target word count at 386 words versus the 800-1200 range required."
+quality_note: >-
+  Well-written and engaging article with good tone match, but significantly
+  below target word count at 386 words versus the 800-1200 range required.
+image_alt: >-
+  A vintage TV glows in a nostalgic living room with dreamy silhouettes of
+  classic homes beyond the window.
 ---
 
 Television has a knack for crafting visually appealing and intriguing houses that capture viewers' imaginations. These lavish houses, whether they're in sitcoms, dramas, or reality shows, are often as iconic as the characters who inhabit them. This article takes you on a virtual tour of the five most desirable homes in TV history.
