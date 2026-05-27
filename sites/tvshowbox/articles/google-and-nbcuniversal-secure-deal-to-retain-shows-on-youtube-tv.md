@@ -1,26 +1,39 @@
 ---
-title: "Google and NBCUniversal Secure Deal to Retain Shows on YouTube TV"
-description: "Google and NBCUniversal have reached an agreement to keep NBCUniversal's shows on YouTube TV, ensuring viewers have uninterrupted access to popular channels like NBC, Bravo, CNBC, and USA Network, enhancing the overall streaming experience for millions of subscribers."
-type: "standard"
-status: "review"
-publishDate: "2025-10-03T05:37:25+00:00"
-author: "Taylor Winters"
+title: Google and NBCUniversal Secure Deal to Retain Shows on YouTube TV
+description: >-
+  Google and NBCUniversal have reached an agreement to keep NBCUniversal's shows
+  on YouTube TV, ensuring viewers have uninterrupted access to popular channels
+  like NBC, Bravo, CNBC, and USA Network, enhancing the overall streaming
+  experience for millions of subscribers.
+type: standard
+status: review
+publishDate: '2025-10-03T05:37:25+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-  - "TV"
-slug: "google-and-nbcuniversal-secure-deal-to-retain-shows-on-youtube-tv"
+  - TV News
+  - News
+  - TV
+slug: google-and-nbcuniversal-secure-deal-to-retain-shows-on-youtube-tv
 reading_time: 3
-source_url: "https://tvshowbox.com/google-and-nbcuniversal-secure-deal-to-retain-shows-on-youtube-tv/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/google-and-nbcuniversal-secure-deal-to-retain-shows-on-youtube-tv/
+imported_from: wordpress
 wp_original_id: 23949
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/google-and-nbcuniversal-secure-deal-to-retain-shows-on-youtube-tv.webp
 seo:
-  canonical: "https://tvshowbox.com/google-and-nbcuniversal-secure-deal-to-retain-shows-on-youtube-tv/"
-  og_title: "Google and NBCUniversal Secure Deal to Retain Shows on YouTube TV - TV Show Box"
-  og_description: "Google and NBCUniversal have reached an agreement to keep NBCUniversal's shows on YouTube TV, ensuring viewers have uninterrupted access to popular channels like NBC, Bravo, CNBC, and USA Network, enhancing the overall streaming experience for millions of subscribers."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/google-and-nbcuniversal-secure-deal-to-retain-shows-on-youtube-tv/
+  og_title: >-
+    Google and NBCUniversal Secure Deal to Retain Shows on YouTube TV - TV Show
+    Box
+  og_description: >-
+    Google and NBCUniversal have reached an agreement to keep NBCUniversal's
+    shows on YouTube TV, ensuring viewers have uninterrupted access to popular
+    channels like NBC, Bravo, CNBC, and USA Network, enhancing the overall
+    streaming experience for millions of subscribers.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Strong TV news coverage with good tone and keyword relevance, but significantly under target word count at 463 words versus the 800-1200 range."
+quality_note: >-
+  Strong TV news coverage with good tone and keyword relevance, but
+  significantly under target word count at 463 words versus the 800-1200 range.
+image_alt: >-
+  Modern living room TV with abstract streaming tiles symbolizing uninterrupted
+  access to shows
 ---
 
 In a significant development for streaming enthusiasts, Google and NBCUniversal have successfully negotiated a new agreement to ensure NBCUniversal's popular shows remain available on YouTube TV. This deal, reached after intense discussions, is set to impact millions of subscribers who rely on YouTube TV for their entertainment needs.
