@@ -19,7 +19,7 @@ source_url: >-
   https://deadline.com/2026/05/films-star-actors-named-chris-talking-animal-older-women-1236920528/
 source_item_id: 6a151f7416f23264031d811c
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/uk-films-more-chris-actors-than-older-women.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong odd news content with engaging tone but significantly under target word
   count at 591 words versus 800-1200 range.
 reading_time: 3
+image_alt: >-
+  Older woman in a cinema spotlight as shadowy figures and a small animal sit in
+  the audience.
 ---
 ## Strange Statistics Reveal Cinema's Representation Problem
 
