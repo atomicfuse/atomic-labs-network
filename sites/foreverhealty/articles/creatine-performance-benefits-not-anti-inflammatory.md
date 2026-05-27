@@ -19,7 +19,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-creatine-physical-necessarily-inflammation.html
 source_item_id: 6a0bf30216f23264031d78d4
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/creatine-performance-benefits-not-anti-inflammatory.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   length (603 vs 800+ target) and lacks specific study details for full
   credibility.
 reading_time: 3
+image_alt: >-
+  Creatine shaker and powder on a gym bench with soft scientific lighting in the
+  background
 ---
 ## Performance Benefits Confirmed, Anti-Inflammatory Claims Questioned
 
