@@ -1,24 +1,34 @@
 ---
-title: "The Rise of Coffee: From Condemnation to Global Domination"
-description: "Coffee, once met with skepticism, evolved from its Ethiopian origins to a global staple. Its journey involved overcoming bans and criticism, eventually becoming a cultural icon and a crucial part of global trade, influencing societies worldwide."
-type: "standard"
-status: "published"
-publishDate: "2025-12-29T09:15:31+00:00"
-author: "Taylor Winters"
+title: 'The Rise of Coffee: From Condemnation to Global Domination'
+description: >-
+  Coffee, once met with skepticism, evolved from its Ethiopian origins to a
+  global staple. Its journey involved overcoming bans and criticism, eventually
+  becoming a cultural icon and a crucial part of global trade, influencing
+  societies worldwide.
+type: standard
+status: published
+publishDate: '2025-12-29T09:15:31+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Drinks"
-slug: "the-rise-of-coffee-from-condemnation-to-global-domination"
+  - Coffee Drinks
+slug: the-rise-of-coffee-from-condemnation-to-global-domination
 reading_time: 3
-source_url: "https://coffeeactually.com/the-rise-of-coffee-from-condemnation-to-global-domination/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/the-rise-of-coffee-from-condemnation-to-global-domination/
+imported_from: wordpress
 wp_original_id: 51373
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/the-rise-of-coffee-from-condemnation-to-global-domination.webp
 seo:
-  canonical: "https://coffeeactually.com/the-rise-of-coffee-from-condemnation-to-global-domination/"
-  og_title: "The Rise of Coffee: From Condemnation to Global Domination - Coffee Actually"
-  og_description: "Coffee, once met with skepticism, evolved from its Ethiopian origins to a global staple. Its journey involved overcoming bans and criticism, eventually becoming a cultural icon and a crucial part of global trade, influencing societies worldwide."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/12/make_file.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/the-rise-of-coffee-from-condemnation-to-global-domination/
+  og_title: 'The Rise of Coffee: From Condemnation to Global Domination - Coffee Actually'
+  og_description: >-
+    Coffee, once met with skepticism, evolved from its Ethiopian origins to a
+    global staple. Its journey involved overcoming bans and criticism,
+    eventually becoming a cultural icon and a crucial part of global trade,
+    influencing societies worldwide.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/12/make_file.jpg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written historical piece with good tone but falls short on length (510 words vs 800-1200 target) and could better integrate coffee-specific keywords from the site's focus areas."
+quality_note: >-
+  Well-written historical piece with good tone but falls short on length (510
+  words vs 800-1200 target) and could better integrate coffee-specific keywords
+  from the site's focus areas.
+image_alt: >-
+  Coffee beans flow from a rustic clay vessel toward a modern cup under warm
+  cinematic light.
 ---
 
 Coffee is one of the world's most beloved beverages, enjoyed by millions each day for its rich flavor and energizing effects. However, its journey to global popularity was not straightforward. Historically, coffee faced significant skepticism and opposition, which it had to overcome to become the staple it is today.
