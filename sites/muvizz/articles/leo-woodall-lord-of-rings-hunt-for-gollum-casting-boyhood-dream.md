@@ -23,7 +23,8 @@ source_url: >-
   https://deadline.com/2026/05/leo-woodall-lord-of-the-rings-casting-boyhood-dream-1236920543/
 source_item_id: 6a151f7316f23264031d8115
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: >-
+  /assets/images/leo-woodall-lord-of-rings-hunt-for-gollum-casting-boyhood-dream.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -36,6 +37,9 @@ quality_note: >-
   word count and contains multiple unverified casting claims that appear
   fabricated.
 reading_time: 3
+image_alt: >-
+  Young actor-like figure in a ranger cloak stands before a misty fantasy forest
+  at dawn.
 ---
 ## Leo Woodall's Middle-earth Journey Begins
 
