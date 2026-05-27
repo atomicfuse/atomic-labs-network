@@ -1,25 +1,38 @@
 ---
-title: "Discover WHITETREE’s Cafe Pop-Up: Tokyo Canelés, Sake Coffee, Matcha"
-description: "In the heart of Orchard Road, a pop-up cafe offers a fresh take on classic dishes, blending creativity with sustainability. With chic decor and a commitment to local produce, it provides a memorable dining experience for food enthusiasts."
-type: "standard"
-status: "review"
-publishDate: "2025-06-30T11:53:38+00:00"
-author: "Taylor Winters"
+title: 'Discover WHITETREE’s Cafe Pop-Up: Tokyo Canelés, Sake Coffee, Matcha'
+description: >-
+  In the heart of Orchard Road, a pop-up cafe offers a fresh take on classic
+  dishes, blending creativity with sustainability. With chic decor and a
+  commitment to local produce, it provides a memorable dining experience for
+  food enthusiasts.
+type: standard
+status: review
+publishDate: '2025-06-30T11:53:38+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "discover-whitetrees-cafe-pop-up-tokyo-caneles-sake-coffee-matcha"
+  - Coffee News
+  - News
+slug: discover-whitetrees-cafe-pop-up-tokyo-caneles-sake-coffee-matcha
 reading_time: 3
-source_url: "https://coffeeactually.com/discover-whitetrees-cafe-pop-up-tokyo-caneles-sake-coffee-matcha/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/discover-whitetrees-cafe-pop-up-tokyo-caneles-sake-coffee-matcha/
+imported_from: wordpress
 wp_original_id: 51291
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-whitetrees-cafe-pop-up-tokyo-caneles-sake-coffee-matcha.webp
 seo:
-  canonical: "https://coffeeactually.com/discover-whitetrees-cafe-pop-up-tokyo-caneles-sake-coffee-matcha/"
-  og_title: "Discover WHITETREE's Cafe Pop-Up: Tokyo Canelés, Sake Coffee, Matcha - Coffee Actually"
-  og_description: "In the heart of Orchard Road, a pop-up cafe offers a fresh take on classic dishes, blending creativity with sustainability. With chic decor and a commitment to local produce, it provides a memorable dining experience for food enthusiasts."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/06/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/discover-whitetrees-cafe-pop-up-tokyo-caneles-sake-coffee-matcha/
+  og_title: >-
+    Discover WHITETREE's Cafe Pop-Up: Tokyo Canelés, Sake Coffee, Matcha -
+    Coffee Actually
+  og_description: >-
+    In the heart of Orchard Road, a pop-up cafe offers a fresh take on classic
+    dishes, blending creativity with sustainability. With chic decor and a
+    commitment to local produce, it provides a memorable dining experience for
+    food enthusiasts.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/06/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 20
-quality_note: "The article has good conversational tone but completely lacks coffee focus despite the title mentioning Tokyo Canelés, Sake Coffee, and Matcha, creating a severe mismatch between title and content."
+quality_note: >-
+  The article has good conversational tone but completely lacks coffee focus
+  despite the title mentioning Tokyo Canelés, Sake Coffee, and Matcha, creating
+  a severe mismatch between title and content.
+image_alt: >-
+  Chic cafe table with canelés, matcha, coffee, greenery, and warm minimalist
+  decor
 ---
 
 In the bustling heart of Orchard Road, a unique dining experience awaits visitors who are eager to explore innovative culinary delights. Nestled within the vibrant cityscape, this pop-up cafe offers a fresh take on classic dishes, making it a must-visit destination for food enthusiasts looking to indulge their taste buds.
