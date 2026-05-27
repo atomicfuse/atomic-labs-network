@@ -1,24 +1,32 @@
 ---
-title: "Sotheby’s Achieves Record Sales After Madison Avenue Move"
-description: "Sotheby's new Madison Avenue location underscores its vision for the future, aligning with New York's art scene and embracing technology to enhance auctions. Record-breaking sales and innovations like virtual reality tours position Sotheby's as a leader in the art world."
-type: "standard"
-status: "review"
-publishDate: "2025-11-30T15:10:55+00:00"
-author: "Lena Harper"
+title: Sotheby’s Achieves Record Sales After Madison Avenue Move
+description: >-
+  Sotheby's new Madison Avenue location underscores its vision for the future,
+  aligning with New York's art scene and embracing technology to enhance
+  auctions. Record-breaking sales and innovations like virtual reality tours
+  position Sotheby's as a leader in the art world.
+type: standard
+status: review
+publishDate: '2025-11-30T15:10:55+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-slug: "sothebys-achieves-record-sales-after-madison-avenue-move"
+  - Celebrities
+slug: sothebys-achieves-record-sales-after-madison-avenue-move
 reading_time: 3
-source_url: "https://wtpop.com/sothebys-achieves-record-sales-after-madison-avenue-move/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/sothebys-achieves-record-sales-after-madison-avenue-move/'
+imported_from: wordpress
 wp_original_id: 694
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/sothebys-achieves-record-sales-after-madison-avenue-move.webp
 seo:
-  canonical: "https://wtpop.com/sothebys-achieves-record-sales-after-madison-avenue-move/"
-  og_title: "Sotheby’s Achieves Record Sales After Madison Avenue Move - WTPOP"
-  og_description: "Sotheby's new Madison Avenue location underscores its vision for the future, aligning with New York's art scene and embracing technology to enhance auctions. Record-breaking sales and innovations like virtual reality tours position Sotheby's as a leader in the art world."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/sothebys-achieves-record-sales-after-madison-avenue-move/'
+  og_title: Sotheby’s Achieves Record Sales After Madison Avenue Move - WTPOP
+  og_description: >-
+    Sotheby's new Madison Avenue location underscores its vision for the future,
+    aligning with New York's art scene and embracing technology to enhance
+    auctions. Record-breaking sales and innovations like virtual reality tours
+    position Sotheby's as a leader in the art world.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 41
 score_breakdown:
   seo_quality: 25
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 15
-quality_note: "Article lacks entertainment focus, has poor SEO optimization with generic title/description, and doesn't align with the site's celebrity/entertainment keywords despite being tagged as 'Celebrities'."
+quality_note: >-
+  Article lacks entertainment focus, has poor SEO optimization with generic
+  title/description, and doesn't align with the site's celebrity/entertainment
+  keywords despite being tagged as 'Celebrities'.
+image_alt: >-
+  Elegant modern art gallery blending luxury auction culture with subtle digital
+  technology.
 ---
 
 Sotheby's, a renowned name in the world of art auctions, continues to set unprecedented records as it transitions to a new location on Madison Avenue. Known for its iconic auctions and prestigious art dealings, Sotheby's recent move marks a new chapter in its storied history. The relocation is not just about changing addresses but also about embracing future opportunities in a dynamic environment.
