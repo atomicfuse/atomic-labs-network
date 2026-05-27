@@ -1,25 +1,35 @@
 ---
-title: "Scientist Joins Prestigious Medical Sciences Fellowship"
-description: "A leading medical scientist has been elected to an elite academy, recognising a distinguished career in biomedical research, evidence-based healthcare, collaboration, and discoveries with real-world impact."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:18:16+00:00"
-author: "Taylor Winters"
+title: Scientist Joins Prestigious Medical Sciences Fellowship
+description: >-
+  A leading medical scientist has been elected to an elite academy, recognising
+  a distinguished career in biomedical research, evidence-based healthcare,
+  collaboration, and discoveries with real-world impact.
+type: standard
+status: published
+publishDate: '2026-05-21T08:18:16+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "scientist-joins-prestigious-medical-sciences-fellowship"
+  - Research
+  - Clinical Trials &amp; Research
+slug: scientist-joins-prestigious-medical-sciences-fellowship
 reading_time: 5
-source_url: "https://medicalnewscorner.com/scientist-joins-prestigious-medical-sciences-fellowship/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/scientist-joins-prestigious-medical-sciences-fellowship/
+imported_from: wordpress
 wp_original_id: 24840
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/scientist-joins-prestigious-medical-sciences-fellowship.webp
 seo:
-  canonical: "https://medicalnewscorner.com/scientist-joins-prestigious-medical-sciences-fellowship/"
-  og_title: "Scientist Joins Prestigious Medical Sciences Fellowship - Medical News Corner"
-  og_description: "A leading medical scientist has been elected to an elite academy, recognising a distinguished career in biomedical research, evidence-based healthcare, collaboration, and discoveries with real-world impact."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/scientist-joins-prestigious-medical-sciences-fellowship/
+  og_title: >-
+    Scientist Joins Prestigious Medical Sciences Fellowship - Medical News
+    Corner
+  og_description: >-
+    A leading medical scientist has been elected to an elite academy,
+    recognising a distinguished career in biomedical research, evidence-based
+    healthcare, collaboration, and discoveries with real-world impact.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 72
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 98
   factual_accuracy: 75
   keyword_relevance: 88
-quality_note: "Strong, well-written article with good tone and keyword coverage, though it lacks specific details about the scientist or academy and uses somewhat generic descriptions throughout."
+quality_note: >-
+  Strong, well-written article with good tone and keyword coverage, though it
+  lacks specific details about the scientist or academy and uses somewhat
+  generic descriptions throughout.
+image_alt: >-
+  Medical researcher in a modern lab facing colleagues and abstract molecular
+  patterns
 ---
 
 A leading medical scientist has gained a place among the most respected figures in biomedical research after being elected to an elite medical sciences academy. The recognition highlights a career dedicated to discovery, evidence-based healthcare, and research that can improve lives beyond the laboratory.
