@@ -1,24 +1,32 @@
 ---
-title: "Lady A’s New Christmas Album: Return After 13 Years"
-description: "Country music fans can enjoy Lady A's new Christmas album this holiday season, featuring classic carols and original tracks. The band will also embark on a nationwide tour, bringing their festive tunes and live performances to audiences across the United States."
-type: "standard"
-status: "review"
-publishDate: "2025-11-30T15:10:41+00:00"
-author: "Lena Harper"
+title: 'Lady A’s New Christmas Album: Return After 13 Years'
+description: >-
+  Country music fans can enjoy Lady A's new Christmas album this holiday season,
+  featuring classic carols and original tracks. The band will also embark on a
+  nationwide tour, bringing their festive tunes and live performances to
+  audiences across the United States.
+type: standard
+status: review
+publishDate: '2025-11-30T15:10:41+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "lady-as-new-christmas-album-return-after-13-years"
+  - Music
+slug: lady-as-new-christmas-album-return-after-13-years
 reading_time: 3
-source_url: "https://wtpop.com/lady-as-new-christmas-album-return-after-13-years/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/lady-as-new-christmas-album-return-after-13-years/'
+imported_from: wordpress
 wp_original_id: 692
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/lady-as-new-christmas-album-return-after-13-years.webp
 seo:
-  canonical: "https://wtpop.com/lady-as-new-christmas-album-return-after-13-years/"
-  og_title: "Lady A's New Christmas Album: Return After 13 Years - WTPOP"
-  og_description: "Country music fans can enjoy Lady A's new Christmas album this holiday season, featuring classic carols and original tracks. The band will also embark on a nationwide tour, bringing their festive tunes and live performances to audiences across the United States."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/lady-as-new-christmas-album-return-after-13-years/'
+  og_title: 'Lady A''s New Christmas Album: Return After 13 Years - WTPOP'
+  og_description: >-
+    Country music fans can enjoy Lady A's new Christmas album this holiday
+    season, featuring classic carols and original tracks. The band will also
+    embark on a nationwide tour, bringing their festive tunes and live
+    performances to audiences across the United States.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "The article has strong tone and keyword relevance but is significantly short of target length and contains potentially fabricated information about a Christmas album and tour that may not exist."
+quality_note: >-
+  The article has strong tone and keyword relevance but is significantly short
+  of target length and contains potentially fabricated information about a
+  Christmas album and tour that may not exist.
+image_alt: >-
+  Warm holiday country stage with guitars, microphones, garlands, and soft
+  festive lighting.
 ---
 
 Country music enthusiasts have a delightful treat this holiday season as the renowned band Lady A unveils their latest Christmas album. Known for their harmonious melodies and soulful rhythms, Lady A is set to infuse the festive spirit with their unique musical touch. As part of their seasonal celebration, the band is also embarking on a nationwide tour, bringing live performances of their new holiday tunes to fans across the country.
