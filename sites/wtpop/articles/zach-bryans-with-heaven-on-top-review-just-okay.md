@@ -1,23 +1,31 @@
 ---
-title: "Zach Bryan’s ‘With Heaven On Top’ Review: Just Okay"
-description: "Zach Bryan's new album showcases his evolution as an artist, blending folk, country, and Americana with heartfelt lyrics and emotional storytelling. Critics offer mixed reviews, but his authentic voice and dedication to roots resonate with fans and music enthusiasts."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:49:34+00:00"
-author: "Lena Harper"
+title: 'Zach Bryan’s ‘With Heaven On Top’ Review: Just Okay'
+description: >-
+  Zach Bryan's new album showcases his evolution as an artist, blending folk,
+  country, and Americana with heartfelt lyrics and emotional storytelling.
+  Critics offer mixed reviews, but his authentic voice and dedication to roots
+  resonate with fans and music enthusiasts.
+type: standard
+status: review
+publishDate: '2026-01-22T10:49:34+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "zach-bryans-with-heaven-on-top-review-just-okay"
+  - Music
+slug: zach-bryans-with-heaven-on-top-review-just-okay
 reading_time: 2
-source_url: "https://wtpop.com/zach-bryans-with-heaven-on-top-review-just-okay/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/zach-bryans-with-heaven-on-top-review-just-okay/'
+imported_from: wordpress
 wp_original_id: 767
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/zach-bryans-with-heaven-on-top-review-just-okay.webp
 seo:
-  canonical: "https://wtpop.com/zach-bryans-with-heaven-on-top-review-just-okay/"
-  og_title: "Zach Bryan's 'With Heaven On Top' Review: Just Okay - WTPOP"
-  og_description: "Zach Bryan's new album showcases his evolution as an artist, blending folk, country, and Americana with heartfelt lyrics and emotional storytelling. Critics offer mixed reviews, but his authentic voice and dedication to roots resonate with fans and music enthusiasts."
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/zach-bryans-with-heaven-on-top-review-just-okay/'
+  og_title: 'Zach Bryan''s ''With Heaven On Top'' Review: Just Okay - WTPOP'
+  og_description: >-
+    Zach Bryan's new album showcases his evolution as an artist, blending folk,
+    country, and Americana with heartfelt lyrics and emotional storytelling.
+    Critics offer mixed reviews, but his authentic voice and dedication to roots
+    resonate with fans and music enthusiasts.
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 45
@@ -25,7 +33,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Article has good music content relevance and appropriate tone, but suffers from poor SEO optimization, very short length at 399 words, and potential inaccuracy regarding the album title which doesn't appear to exist."
+quality_note: >-
+  Article has good music content relevance and appropriate tone, but suffers
+  from poor SEO optimization, very short length at 399 words, and potential
+  inaccuracy regarding the album title which doesn't appear to exist.
+image_alt: Weathered acoustic guitar on an empty dusky stage under a lone warm spotlight
 ---
 
 ## An Overview of Zach Bryan's Musical Style
