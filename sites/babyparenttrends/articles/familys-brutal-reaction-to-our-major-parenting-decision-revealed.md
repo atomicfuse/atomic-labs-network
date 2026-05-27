@@ -1,25 +1,38 @@
 ---
-title: "Family’s Brutal Reaction to Our Major Parenting Decision Revealed"
-description: "Balancing family expectations with personal desires is challenging. Understanding family dynamics, setting boundaries, and embracing independence can help create a path that honors individuality and familial ties."
-type: "standard"
-status: "review"
-publishDate: "2025-05-05T06:11:22+00:00"
-author: "Taylor Winters"
+title: Family’s Brutal Reaction to Our Major Parenting Decision Revealed
+description: >-
+  Balancing family expectations with personal desires is challenging.
+  Understanding family dynamics, setting boundaries, and embracing independence
+  can help create a path that honors individuality and familial ties.
+type: standard
+status: review
+publishDate: '2025-05-05T06:11:22+00:00'
+author: Taylor Winters
 tags:
-  - "Parenting"
-  - "Parents"
-slug: "familys-brutal-reaction-to-our-major-parenting-decision-revealed"
+  - Parenting
+  - Parents
+slug: familys-brutal-reaction-to-our-major-parenting-decision-revealed
 reading_time: 3
-source_url: "https://babyparenttrends.com/familys-brutal-reaction-to-our-major-parenting-decision-revealed/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/familys-brutal-reaction-to-our-major-parenting-decision-revealed/
+imported_from: wordpress
 wp_original_id: 17665
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/familys-brutal-reaction-to-our-major-parenting-decision-revealed.webp
 seo:
-  canonical: "https://babyparenttrends.com/familys-brutal-reaction-to-our-major-parenting-decision-revealed/"
-  og_title: "Family's Brutal Reaction to Our Major Parenting Decision Revealed - Baby Parent Trends"
-  og_description: "Balancing family expectations with personal desires is challenging. Understanding family dynamics, setting boundaries, and embracing independence can help create a path that honors individuality and familial ties. Open communication and seeking support are key to achieving this balance."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/familys-brutal-reaction-to-our-major-parenting-decision-revealed/
+  og_title: >-
+    Family's Brutal Reaction to Our Major Parenting Decision Revealed - Baby
+    Parent Trends
+  og_description: >-
+    Balancing family expectations with personal desires is challenging.
+    Understanding family dynamics, setting boundaries, and embracing
+    independence can help create a path that honors individuality and familial
+    ties. Open communication and seeking support are key to achieving this
+    balance.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 45
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article has good tone and covers relevant family topics, but suffers from a clickbait title that doesn't match the generic content, short length, and weak SEO optimization."
+quality_note: >-
+  The article has good tone and covers relevant family topics, but suffers from
+  a clickbait title that doesn't match the generic content, short length, and
+  weak SEO optimization.
+image_alt: >-
+  Couple stands in a doorway apart from blurred family members at a dining
+  table.
 ---
 
 I'm here to offer some guidance on the delicate topic of family expectations and personal choices. We often find ourselves caught between what we truly desire and the need for others' approval. This dilemma can create a challenging environment, especially when family opinions weigh heavily on our decision-making process.
