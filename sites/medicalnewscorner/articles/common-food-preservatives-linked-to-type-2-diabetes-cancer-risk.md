@@ -1,27 +1,40 @@
 ---
-title: "Common Food Preservatives Linked to Type 2 Diabetes, Cancer Risk"
-description: "Food preservatives extend shelf life but may pose health risks, including links to type 2 diabetes and cancer. Research suggests these additives can disrupt metabolic processes and alter gut microbiota, with nitrates potentially transforming into carcinogenic compounds."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T09:17:28+00:00"
-author: "Taylor Winters"
+title: 'Common Food Preservatives Linked to Type 2 Diabetes, Cancer Risk'
+description: >-
+  Food preservatives extend shelf life but may pose health risks, including
+  links to type 2 diabetes and cancer. Research suggests these additives can
+  disrupt metabolic processes and alter gut microbiota, with nitrates
+  potentially transforming into carcinogenic compounds.
+type: standard
+status: published
+publishDate: '2026-01-15T09:17:28+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Cancer"
-  - "Diabetes"
-  - "Fitness &amp; Food"
-slug: "common-food-preservatives-linked-to-type-2-diabetes-cancer-risk"
+  - Health News
+  - Cancer
+  - Diabetes
+  - Fitness &amp; Food
+slug: common-food-preservatives-linked-to-type-2-diabetes-cancer-risk
 reading_time: 3
-source_url: "https://medicalnewscorner.com/common-food-preservatives-linked-to-type-2-diabetes-cancer-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/common-food-preservatives-linked-to-type-2-diabetes-cancer-risk/
+imported_from: wordpress
 wp_original_id: 24760
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/common-food-preservatives-linked-to-type-2-diabetes-cancer-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/common-food-preservatives-linked-to-type-2-diabetes-cancer-risk/"
-  og_title: "Common Food Preservatives Linked to Type 2 Diabetes, Cancer Risk - Medical News Corner"
-  og_description: "Food preservatives extend shelf life but may pose health risks, including links to type 2 diabetes and cancer. Research suggests these additives can disrupt metabolic processes and alter gut microbiota, with nitrates potentially transforming into carcinogenic compounds."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/common-food-preservatives-linked-to-type-2-diabetes-cancer-risk/
+  og_title: >-
+    Common Food Preservatives Linked to Type 2 Diabetes, Cancer Risk - Medical
+    News Corner
+  og_description: >-
+    Food preservatives extend shelf life but may pose health risks, including
+    links to type 2 diabetes and cancer. Research suggests these additives can
+    disrupt metabolic processes and alter gut microbiota, with nitrates
+    potentially transforming into carcinogenic compounds.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -29,7 +42,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but falls short on length requirements and lacks specific research citations to support health claims."
+quality_note: >-
+  Strong topic relevance and tone but falls short on length requirements and
+  lacks specific research citations to support health claims.
+image_alt: >-
+  Packaged foods in shadow beside fresh vegetables, suggesting health concerns
+  about preservatives
 ---
 
 Food preservatives have long been a staple in extending the shelf life of products, ensuring that food remains safe and palatable over time. However, recent research indicates that these additives may carry significant health risks, including links to chronic conditions such as type 2 diabetes and cancer.
