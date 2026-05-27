@@ -19,7 +19,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71386675/exercise-best-blood-pressure-study/
 source_item_id: 6a13fcb016f23264031d7b92
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/best-exercise-combo-blood-pressure-study.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written article matching the site's tone and topics, but falls short on
   length and lacks specific research details that would strengthen credibility.
 reading_time: 3
+image_alt: >-
+  Woman in a bright studio moves between cardio and strength equipment for a
+  heart-healthy workout.
 ---
 ## The Winning Combination for Heart Health
 
