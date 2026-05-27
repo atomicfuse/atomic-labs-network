@@ -1,25 +1,35 @@
 ---
-title: "Jamaican Coffee: Exciting New Culinary Uses Explored"
-description: "Jamaican coffee is gaining popularity in the culinary world, being used in both savory and sweet dishes. Its unique flavor profile enhances diverse recipes, expanding its market appeal and showcasing its versatility beyond traditional beverages."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T09:15:35+00:00"
-author: "Taylor Winters"
+title: 'Jamaican Coffee: Exciting New Culinary Uses Explored'
+description: >-
+  Jamaican coffee is gaining popularity in the culinary world, being used in
+  both savory and sweet dishes. Its unique flavor profile enhances diverse
+  recipes, expanding its market appeal and showcasing its versatility beyond
+  traditional beverages.
+type: standard
+status: published
+publishDate: '2026-01-15T09:15:35+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Coffee Desserts"
-slug: "jamaican-coffee-exciting-new-culinary-uses-explored"
+  - Coffee News
+  - Coffee Desserts
+slug: jamaican-coffee-exciting-new-culinary-uses-explored
 reading_time: 3
-source_url: "https://coffeeactually.com/jamaican-coffee-exciting-new-culinary-uses-explored/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/jamaican-coffee-exciting-new-culinary-uses-explored/
+imported_from: wordpress
 wp_original_id: 51383
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/jamaican-coffee-exciting-new-culinary-uses-explored.webp
 seo:
-  canonical: "https://coffeeactually.com/jamaican-coffee-exciting-new-culinary-uses-explored/"
-  og_title: "Jamaican Coffee: Exciting New Culinary Uses Explored - Coffee Actually"
-  og_description: "Jamaican coffee is gaining popularity in the culinary world, being used in both savory and sweet dishes. Its unique flavor profile enhances diverse recipes, expanding its market appeal and showcasing its versatility beyond traditional beverages."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/jamaican-coffee-exciting-new-culinary-uses-explored/
+  og_title: 'Jamaican Coffee: Exciting New Culinary Uses Explored - Coffee Actually'
+  og_description: >-
+    Jamaican coffee is gaining popularity in the culinary world, being used in
+    both savory and sweet dishes. Its unique flavor profile enhances diverse
+    recipes, expanding its market appeal and showcasing its versatility beyond
+    traditional beverages.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (518 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (518 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and meta description.
+image_alt: >-
+  Styled Jamaican coffee ingredients with savory bites, dessert, beans, spices,
+  and coffee glaze.
 ---
 
 Jamaican coffee, renowned for its rich flavor and premium quality, is experiencing a renaissance as it finds new and creative uses in the culinary world. Known globally for its unique taste, Jamaican coffee is increasingly becoming a key ingredient in diverse culinary creations, thus broadening its appeal and market reach.
