@@ -1,26 +1,32 @@
 ---
-title: "Cannes 2026 Day 2 Red Carpet Best Fashion Moments"
-description: "Cannes Film Festival 2026 Day 2 delivered a polished red carpet mix of classic gowns, sharp tailoring, statement colors, refined beauty, and standout accessories on the French Riviera."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:34:23+00:00"
-author: "Lena Harper"
+title: Cannes 2026 Day 2 Red Carpet Best Fashion Moments
+description: >-
+  Cannes Film Festival 2026 Day 2 delivered a polished red carpet mix of classic
+  gowns, sharp tailoring, statement colors, refined beauty, and standout
+  accessories on the French Riviera.
+type: standard
+status: published
+publishDate: '2026-05-14T09:34:23+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Fashion"
-  - "TV &amp; Movies"
-slug: "cannes-2026-day-2-red-carpet-best-fashion-moments"
+  - Celebrities
+  - Fashion
+  - TV &amp; Movies
+slug: cannes-2026-day-2-red-carpet-best-fashion-moments
 reading_time: 6
-source_url: "https://wtpop.com/cannes-2026-day-2-red-carpet-best-fashion-moments/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/cannes-2026-day-2-red-carpet-best-fashion-moments/'
+imported_from: wordpress
 wp_original_id: 810
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/cannes-2026-day-2-red-carpet-best-fashion-moments.webp
 seo:
-  canonical: "https://wtpop.com/cannes-2026-day-2-red-carpet-best-fashion-moments/"
-  og_title: "Cannes 2026 Day 2 Red Carpet Best Fashion Moments - WTPOP"
-  og_description: "Cannes Film Festival 2026 Day 2 delivered a polished red carpet mix of classic gowns, sharp tailoring, statement colors, refined beauty, and standout accessories on the French Riviera."
-  og_image: "https://wtpop.com/wp-content/uploads/2026/05/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/cannes-2026-day-2-red-carpet-best-fashion-moments/'
+  og_title: Cannes 2026 Day 2 Red Carpet Best Fashion Moments - WTPOP
+  og_description: >-
+    Cannes Film Festival 2026 Day 2 delivered a polished red carpet mix of
+    classic gowns, sharp tailoring, statement colors, refined beauty, and
+    standout accessories on the French Riviera.
+  og_image: 'https://wtpop.com/wp-content/uploads/2026/05/make_file.webp'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -28,7 +34,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 25
   keyword_relevance: 95
-quality_note: "Strong entertainment content with excellent tone and keyword coverage, but severely compromised by fabricated future event (Cannes 2026) that hasn't occurred yet."
+quality_note: >-
+  Strong entertainment content with excellent tone and keyword coverage, but
+  severely compromised by fabricated future event (Cannes 2026) that hasn't
+  occurred yet.
+image_alt: >-
+  Elegant fictional guests pose on a Riviera red carpet in polished gowns and
+  sharp tailoring.
 ---
 
 The Cannes Film Festival 2026 moved into Day 2 with the kind of red carpet spectacle that keeps global fashion watchers glued to the French Riviera. Outside the Palais des Festivals, cinema and couture met in a polished parade of gowns, tailoring, jewels, and beauty statements. The second day of Cannes red carpet fashion delivered glamour with range, from classic eveningwear to sharper modern silhouettes.
