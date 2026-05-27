@@ -1,26 +1,36 @@
 ---
-title: "Brew Your Own Coffee with This Magazine Street Roaster"
-description: "In New Orleans, a unique coffee roaster on Magazine Street empowers coffee lovers by teaching brewing techniques for home. Through workshops and community events, it inspires a hands-on approach, enhancing local coffee culture and fostering appreciation for diverse beans and methods."
-type: "standard"
-status: "published"
-publishDate: "2026-03-05T09:15:41+00:00"
-author: "Taylor Winters"
+title: Brew Your Own Coffee with This Magazine Street Roaster
+description: >-
+  In New Orleans, a unique coffee roaster on Magazine Street empowers coffee
+  lovers by teaching brewing techniques for home. Through workshops and
+  community events, it inspires a hands-on approach, enhancing local coffee
+  culture and fostering appreciation for diverse beans and methods.
+type: standard
+status: published
+publishDate: '2026-03-05T09:15:41+00:00'
+author: Taylor Winters
 tags:
-  - "Barista"
-  - "Beans"
-  - "Coffee Gear"
-slug: "brew-your-own-coffee-with-this-magazine-street-roaster"
+  - Barista
+  - Beans
+  - Coffee Gear
+slug: brew-your-own-coffee-with-this-magazine-street-roaster
 reading_time: 4
-source_url: "https://coffeeactually.com/brew-your-own-coffee-with-this-magazine-street-roaster/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/brew-your-own-coffee-with-this-magazine-street-roaster/
+imported_from: wordpress
 wp_original_id: 51415
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/brew-your-own-coffee-with-this-magazine-street-roaster.webp
 seo:
-  canonical: "https://coffeeactually.com/brew-your-own-coffee-with-this-magazine-street-roaster/"
-  og_title: "Brew Your Own Coffee with This Magazine Street Roaster - Coffee Actually"
-  og_description: "In New Orleans, a unique coffee roaster on Magazine Street empowers coffee lovers by teaching brewing techniques for home. Through workshops and community events, it inspires a hands-on approach, enhancing local coffee culture and fostering appreciation for diverse beans and methods."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/brew-your-own-coffee-with-this-magazine-street-roaster/
+  og_title: Brew Your Own Coffee with This Magazine Street Roaster - Coffee Actually
+  og_description: >-
+    In New Orleans, a unique coffee roaster on Magazine Street empowers coffee
+    lovers by teaching brewing techniques for home. Through workshops and
+    community events, it inspires a hands-on approach, enhancing local coffee
+    culture and fostering appreciation for diverse beans and methods.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/03/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 65
@@ -28,7 +38,11 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevant coffee content, but lacks specific SEO optimization and could benefit from more concrete details about the roaster."
+quality_note: >-
+  Well-written article with good tone and relevant coffee content, but lacks
+  specific SEO optimization and could benefit from more concrete details about
+  the roaster.
+image_alt: Hands brewing pour-over coffee at a warm New Orleans roastery workshop table
 ---
 
 In the heart of New Orleans, along the vibrant Magazine Street, a unique coffee experience awaits those eager to explore the art of brewing. Nestled among eclectic shops and eateries, a local coffee roaster offers enthusiasts a chance to delve into the rich world of coffee from a different perspective. This establishment doesn't just serve coffee; it encourages customers to become their own baristas by providing them with the knowledge and tools to brew quality coffee at home.
