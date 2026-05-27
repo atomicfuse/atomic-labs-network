@@ -1,30 +1,39 @@
 ---
-title: "Transform Your Coffee Station: Minimalist Kitchen Decor Ideas for 2026"
-description: "Discover how to clean and redecorate your coffee station with minimal, neutral touches to welcome the new year."
-type: "standard"
-status: "review"
-publishDate: "2026-01-22T10:09:21+00:00"
-author: "Taylor Winters"
+title: 'Transform Your Coffee Station: Minimalist Kitchen Decor Ideas for 2026'
+description: >-
+  Discover how to clean and redecorate your coffee station with minimal, neutral
+  touches to welcome the new year.
+type: standard
+status: review
+publishDate: '2026-01-22T10:09:21+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Kitchen"
-  - "Tips"
-slug: "transform-your-coffee-station-minimalist-kitchen-decor-ideas-for-2026"
+  - Decor Ideas
+  - Ideas
+  - Kitchen
+  - Tips
+slug: transform-your-coffee-station-minimalist-kitchen-decor-ideas-for-2026
 reading_time: 2
-source_url: "https://decoratingmom.com/transform-your-coffee-station-minimalist-kitchen-decor-ideas-for-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/transform-your-coffee-station-minimalist-kitchen-decor-ideas-for-2026/
+imported_from: wordpress
 wp_original_id: 35114
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/transform-your-coffee-station-minimalist-kitchen-decor-ideas-for-2026.webp
 seo:
-  canonical: "https://decoratingmom.com/transform-your-coffee-station-minimalist-kitchen-decor-ideas-for-2026/"
-  og_title: "Transform Your Coffee Station: Minimalist Kitchen Decor Ideas for 2026 - Decorating Mom"
-  og_description: "Discover how to clean and redecorate your coffee station with minimal, neutral touches to welcome the new year."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/transform-your-coffee-station-minimalist-kitchen-decor-ideas-for-2026/
+  og_title: >-
+    Transform Your Coffee Station: Minimalist Kitchen Decor Ideas for 2026 -
+    Decorating Mom
+  og_description: >-
+    Discover how to clean and redecorate your coffee station with minimal,
+    neutral touches to welcome the new year.
+  twitter_card: summary_large_image
 videos:
-  - id: "326a2885"
-    url: "https://www.youtube.com/watch?v=b2C2n6DSVa8"
-    position: "after-paragraph-2"
+  - id: 326a2885
+    url: 'https://www.youtube.com/watch?v=b2C2n6DSVa8'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -32,7 +41,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword integration, but significantly under the target word count at only 344 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and keyword integration, but significantly
+  under the target word count at only 344 words instead of the 800-1200 range.
+image_alt: >-
+  Minimal neutral kitchen coffee station with ceramic mugs, wood shelves, and
+  soft morning light
 ---
 
 The art of decorating a coffee station is a delightful way to refresh your kitchen space as you welcome the new year. In this post, we'll explore minimalist and neutral decorating ideas that make a stunning impact on your coffee bar setup.
