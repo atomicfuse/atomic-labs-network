@@ -1,26 +1,34 @@
 ---
-title: "Moderate Alcohol Use Damages Brain Health, Study Finds"
-description: "New research suggests even light or moderate alcohol use may affect brain structure over time, raising concerns about memory, cognitive aging, and long-term brain health."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:18:09+00:00"
-author: "Taylor Winters"
+title: 'Moderate Alcohol Use Damages Brain Health, Study Finds'
+description: >-
+  New research suggests even light or moderate alcohol use may affect brain
+  structure over time, raising concerns about memory, cognitive aging, and
+  long-term brain health.
+type: standard
+status: published
+publishDate: '2026-05-04T08:18:09+00:00'
+author: Taylor Winters
 tags:
-  - "Aging"
-  - "Clinical Trials &amp; Research"
-  - "Drugs"
-slug: "moderate-alcohol-use-damages-brain-health-study-finds"
+  - Aging
+  - Clinical Trials &amp; Research
+  - Drugs
+slug: moderate-alcohol-use-damages-brain-health-study-finds
 reading_time: 8
-source_url: "https://medicalnewscorner.com/moderate-alcohol-use-damages-brain-health-study-finds/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/moderate-alcohol-use-damages-brain-health-study-finds/
+imported_from: wordpress
 wp_original_id: 24827
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/moderate-alcohol-use-damages-brain-health-study-finds.webp
 seo:
-  canonical: "https://medicalnewscorner.com/moderate-alcohol-use-damages-brain-health-study-finds/"
-  og_title: "Moderate Alcohol Use Damages Brain Health, Study Finds - Medical News Corner"
-  og_description: "New research suggests even light or moderate alcohol use may affect brain structure over time, raising concerns about memory, cognitive aging, and long-term brain health."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/moderate-alcohol-use-damages-brain-health-study-finds/
+  og_title: 'Moderate Alcohol Use Damages Brain Health, Study Finds - Medical News Corner'
+  og_description: >-
+    New research suggests even light or moderate alcohol use may affect brain
+    structure over time, raising concerns about memory, cognitive aging, and
+    long-term brain health.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -28,7 +36,10 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written, informative article with good length and tone, but could benefit from stronger SEO optimization in title and meta description length."
+quality_note: >-
+  Well-written, informative article with good length and tone, but could benefit
+  from stronger SEO optimization in title and meta description length.
+image_alt: Translucent brain shape near a blurred wine glass in soft editorial lighting
 ---
 
 A growing body of research is challenging the idea that occasional or moderate drinking is harmless for the brain. Large brain-imaging studies suggest that alcohol may affect brain structure even at levels many people consider light, including a drink here and there. While the risks rise with heavier drinking, the latest evidence points to a clear message: when it comes to brain health, less alcohol is likely better.
