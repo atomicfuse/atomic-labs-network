@@ -22,7 +22,7 @@ source_url: >-
   https://deadline.com/2026/05/hannah-einbinder-hacks-creator-bid-farewell-1236920542/
 source_item_id: 6a151f7316f23264031d8116
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/hannah-einbinder-hacks-creators-farewell-hbo-comedy.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   length and major factual inaccuracies including incorrect finale date and
   wrong season count.
 reading_time: 3
+image_alt: >-
+  Two comedy collaborators embrace backstage beside a spotlighted microphone in
+  an empty theater.
 ---
 ## The End of an Era for HBO's 'Hacks'
 
