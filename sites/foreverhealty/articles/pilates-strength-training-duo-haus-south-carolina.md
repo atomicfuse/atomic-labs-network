@@ -20,7 +20,7 @@ source_url: >-
   https://www.picketfencemedia.com/sanclementetimes/eye-on-sc/duo-haus-blends-pilates-strength-training-in-sc/article_e0278b62-0c2c-45c8-b7cc-75adc10cc217.html
 source_item_id: 6a13fc9f16f23264031d7b8f
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/pilates-strength-training-duo-haus-south-carolina.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short on length (625 words vs 800-1200 target) and relies heavily on vague
   'according to reports' without specific sources.
 reading_time: 3
+image_alt: >-
+  Modern boutique fitness studio blending Pilates reformers with
+  strength-training equipment
 ---
 ## The Rise of Hybrid Fitness Studios
 
