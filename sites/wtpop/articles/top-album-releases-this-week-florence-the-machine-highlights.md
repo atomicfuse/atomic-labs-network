@@ -1,24 +1,34 @@
 ---
-title: "Top Album Releases This Week: Florence + The Machine Highlights"
-description: "The UK's vibrant music scene sees new album releases this week, featuring diverse genres like indie rock, pop, electronic, jazz, and country, showcasing unique styles and offering something for every music fan."
-type: "standard"
-status: "review"
-publishDate: "2025-10-30T10:17:19+00:00"
-author: "Lena Harper"
+title: 'Top Album Releases This Week: Florence + The Machine Highlights'
+description: >-
+  The UK's vibrant music scene sees new album releases this week, featuring
+  diverse genres like indie rock, pop, electronic, jazz, and country, showcasing
+  unique styles and offering something for every music fan.
+type: standard
+status: review
+publishDate: '2025-10-30T10:17:19+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "top-album-releases-this-week-florence-the-machine-highlights"
+  - Music
+slug: top-album-releases-this-week-florence-the-machine-highlights
 reading_time: 3
-source_url: "https://wtpop.com/top-album-releases-this-week-florence-the-machine-highlights/"
-imported_from: "wordpress"
+source_url: >-
+  https://wtpop.com/top-album-releases-this-week-florence-the-machine-highlights/
+imported_from: wordpress
 wp_original_id: 547
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/top-album-releases-this-week-florence-the-machine-highlights.webp
 seo:
-  canonical: "https://wtpop.com/top-album-releases-this-week-florence-the-machine-highlights/"
-  og_title: "Top Album Releases This Week: Florence + The Machine Highlights - WTPOP"
-  og_description: "The UK's vibrant music scene sees new album releases this week, featuring diverse genres like indie rock, pop, electronic, jazz, and country. These albums showcase unique styles and promise to impact the charts, offering something for every music fan."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/10/make_file-3-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/top-album-releases-this-week-florence-the-machine-highlights/
+  og_title: 'Top Album Releases This Week: Florence + The Machine Highlights - WTPOP'
+  og_description: >-
+    The UK's vibrant music scene sees new album releases this week, featuring
+    diverse genres like indie rock, pop, electronic, jazz, and country. These
+    albums showcase unique styles and promise to impact the charts, offering
+    something for every music fan.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/10/make_file-3-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 25
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "The article covers relevant music content with appropriate tone but lacks SEO optimization, specific details, and contains vague claims without substantiation."
+quality_note: >-
+  The article covers relevant music content with appropriate tone but lacks SEO
+  optimization, specific details, and contains vague claims without
+  substantiation.
+image_alt: >-
+  Moody rehearsal room with instruments and blank vinyl sleeves under colorful
+  stage lighting
 ---
 
 The music scene in the UK is vibrant and ever-evolving, with artists consistently pushing creative boundaries. This week, several new albums are hitting the shelves, showcasing diverse genres and unique styles from both emerging and established musicians. Fans of various music genres are in for a treat as they explore these fresh releases that promise to make an impact on the charts.
