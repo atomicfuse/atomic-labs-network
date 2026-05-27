@@ -1,25 +1,35 @@
 ---
-title: "Uncover Mormon Wives’ Secrets and Top 6 TV Shows This Week"
-description: "The world of television offers captivating new series like The Secret Lives of Mormon Wives, exploring complex relationships within a unique cultural context. This show highlights the nuanced choices women make in balancing familial expectations and personal desires."
-type: "standard"
-status: "published"
-publishDate: "2025-05-12T05:31:29+00:00"
-author: "Taylor Winters"
+title: Uncover Mormon Wives’ Secrets and Top 6 TV Shows This Week
+description: >-
+  The world of television offers captivating new series like The Secret Lives of
+  Mormon Wives, exploring complex relationships within a unique cultural
+  context. This show highlights the nuanced choices women make in balancing
+  familial expectations and personal desires.
+type: standard
+status: published
+publishDate: '2025-05-12T05:31:29+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "uncover-mormon-wives-secrets-and-top-6-tv-shows-this-week"
+  - TV News
+  - TV
+slug: uncover-mormon-wives-secrets-and-top-6-tv-shows-this-week
 reading_time: 4
-source_url: "https://tvshowbox.com/uncover-mormon-wives-secrets-and-top-6-tv-shows-this-week/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/uncover-mormon-wives-secrets-and-top-6-tv-shows-this-week/
+imported_from: wordpress
 wp_original_id: 23879
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/uncover-mormon-wives-secrets-and-top-6-tv-shows-this-week.webp
 seo:
-  canonical: "https://tvshowbox.com/uncover-mormon-wives-secrets-and-top-6-tv-shows-this-week/"
-  og_title: "Uncover Mormon Wives' Secrets and Top 6 TV Shows This Week - TV Show Box"
-  og_description: "The world of television offers captivating new series like The Secret Lives of Mormon Wives, exploring complex relationships within a unique cultural context. This show highlights the nuanced choices women make in balancing familial expectations and personal desires."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/uncover-mormon-wives-secrets-and-top-6-tv-shows-this-week/
+  og_title: Uncover Mormon Wives' Secrets and Top 6 TV Shows This Week - TV Show Box
+  og_description: >-
+    The world of television offers captivating new series like The Secret Lives
+    of Mormon Wives, exploring complex relationships within a unique cultural
+    context. This show highlights the nuanced choices women make in balancing
+    familial expectations and personal desires.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "The article maintains an engaging tone and covers relevant TV content, but lacks specific show details and has a vague title that doesn't fully deliver on the promised '6 TV shows.'"
+quality_note: >-
+  The article maintains an engaging tone and covers relevant TV content, but
+  lacks specific show details and has a vague title that doesn't fully deliver
+  on the promised '6 TV shows.'
+image_alt: >-
+  Women in a dim living room watch a glowing TV, surrounded by quiet tension and
+  domestic warmth.
 ---
 
 The world of television is ever-evolving, with new series captivating audiences and offering fresh perspectives. One such intriguing show is "The Secret Lives of Mormon Wives," which delves into the complexities of relationships within a unique cultural context. As viewers seek engaging content, this series stands out for its exploration of themes that resonate with many.
