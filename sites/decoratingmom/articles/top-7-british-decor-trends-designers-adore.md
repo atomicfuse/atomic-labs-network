@@ -1,25 +1,33 @@
 ---
-title: "Top 7 British Decor Trends Designers Adore"
-description: "Transform your living room into a cozy retreat by following expert tips from British designers. Combine textures, colors, lighting, and personal touches to create a harmonious and inviting environment that reflects your unique personality and ensures functionality."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T10:09:35+00:00"
-author: "Taylor Winters"
+title: Top 7 British Decor Trends Designers Adore
+description: >-
+  Transform your living room into a cozy retreat by following expert tips from
+  British designers. Combine textures, colors, lighting, and personal touches to
+  create a harmonious and inviting environment that reflects your unique
+  personality and ensures functionality.
+type: standard
+status: review
+publishDate: '2025-11-27T10:09:35+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Living Room"
-slug: "top-7-british-decor-trends-designers-adore"
+  - Decor Ideas
+  - Living Room
+slug: top-7-british-decor-trends-designers-adore
 reading_time: 3
-source_url: "https://decoratingmom.com/top-7-british-decor-trends-designers-adore/"
-imported_from: "wordpress"
+source_url: 'https://decoratingmom.com/top-7-british-decor-trends-designers-adore/'
+imported_from: wordpress
 wp_original_id: 35089
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/top-7-british-decor-trends-designers-adore.webp
 seo:
-  canonical: "https://decoratingmom.com/top-7-british-decor-trends-designers-adore/"
-  og_title: "Top 7 British Decor Trends Designers Adore - Decorating Mom"
-  og_description: "Transform your living room into a cozy retreat by following expert tips from British designers. Combine textures, colors, lighting, and personal touches to create a harmonious and inviting environment that reflects your unique personality and ensures functionality."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2025/11/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingmom.com/top-7-british-decor-trends-designers-adore/'
+  og_title: Top 7 British Decor Trends Designers Adore - Decorating Mom
+  og_description: >-
+    Transform your living room into a cozy retreat by following expert tips from
+    British designers. Combine textures, colors, lighting, and personal touches
+    to create a harmonious and inviting environment that reflects your unique
+    personality and ensures functionality.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2025/11/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 45
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and practical advice, but lacks proper heading structure, specific British trends mentioned in title, and falls short of target word count."
+quality_note: >-
+  Well-written article with good tone and practical advice, but lacks proper
+  heading structure, specific British trends mentioned in title, and falls short
+  of target word count.
+image_alt: >-
+  Cozy British-inspired living room with layered textures, warm lighting, and
+  elegant heritage decor
 ---
 
 Transforming your living room into a haven of comfort and style can be a rewarding endeavor. British designers, known for their impeccable taste and innovative ideas, provide valuable insights into achieving the perfect balance of coziness and chic in your living space. By incorporating their expert advice, you can create a welcoming atmosphere that reflects your unique personality while ensuring functionality.
