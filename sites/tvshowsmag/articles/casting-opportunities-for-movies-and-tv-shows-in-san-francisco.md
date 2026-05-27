@@ -1,26 +1,39 @@
 ---
-title: "Casting Opportunities for Movies and TV Shows in San Francisco"
-description: "San Francisco attracts filmmakers with its iconic landmarks and diverse settings, offering picturesque landscapes and eclectic architecture. The city's cinematic legacy boosts tourism and the economy, while upcoming projects reflect its versatility as a premier filming location."
-type: "standard"
-status: "review"
-publishDate: "2026-02-05T10:07:30+00:00"
-author: "Taylor Winters"
+title: Casting Opportunities for Movies and TV Shows in San Francisco
+description: >-
+  San Francisco attracts filmmakers with its iconic landmarks and diverse
+  settings, offering picturesque landscapes and eclectic architecture. The
+  city's cinematic legacy boosts tourism and the economy, while upcoming
+  projects reflect its versatility as a premier filming location.
+type: standard
+status: review
+publishDate: '2026-02-05T10:07:30+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Featured"
-  - "TV Shows"
-  - "Upcoming"
-slug: "casting-opportunities-for-movies-and-tv-shows-in-san-francisco"
+  - TV News
+  - Featured
+  - TV Shows
+  - Upcoming
+slug: casting-opportunities-for-movies-and-tv-shows-in-san-francisco
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/casting-opportunities-for-movies-and-tv-shows-in-san-francisco/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/casting-opportunities-for-movies-and-tv-shows-in-san-francisco/
+imported_from: wordpress
 wp_original_id: 28174
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/casting-opportunities-for-movies-and-tv-shows-in-san-francisco.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/casting-opportunities-for-movies-and-tv-shows-in-san-francisco/"
-  og_title: "Casting Opportunities for Movies and TV Shows in San Francisco - TV Shows Magazine"
-  og_description: "San Francisco attracts filmmakers with its iconic landmarks and diverse settings, offering picturesque landscapes and eclectic architecture. The city's cinematic legacy boosts tourism and the economy, while upcoming projects reflect its versatility as a premier filming location."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/casting-opportunities-for-movies-and-tv-shows-in-san-francisco/
+  og_title: >-
+    Casting Opportunities for Movies and TV Shows in San Francisco - TV Shows
+    Magazine
+  og_description: >-
+    San Francisco attracts filmmakers with its iconic landmarks and diverse
+    settings, offering picturesque landscapes and eclectic architecture. The
+    city's cinematic legacy boosts tourism and the economy, while upcoming
+    projects reflect its versatility as a premier filming location.
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -28,7 +41,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "The article is well-written with good tone but lacks specific TV/entertainment focus and falls short of optimal length for the target audience."
+quality_note: >-
+  The article is well-written with good tone but lacks specific TV/entertainment
+  focus and falls short of optimal length for the target audience.
+image_alt: >-
+  Film crew and actors prepare on a golden-hour San Francisco street with city
+  hills in the background.
 ---
 
 San Francisco, a city renowned for its iconic landmarks and vibrant cultural scene, continues to attract the film and television industry. With its unique blend of historic architecture, scenic beauty, and diverse neighborhoods, the city offers an ideal backdrop for a variety of productions. As new and exciting projects are continually being planned, San Francisco remains a top choice for filmmakers and TV producers.
