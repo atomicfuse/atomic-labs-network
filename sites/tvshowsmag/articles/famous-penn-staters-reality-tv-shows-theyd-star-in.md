@@ -1,25 +1,34 @@
 ---
-title: "Famous Penn Staters: Reality TV Shows They’d Star In"
-description: "Imagine Penn State University as the setting for reality TV, featuring alumni from sports, politics, and the arts. These figures could bring unique insights and inspiration, showcasing their journeys and contributions while entertaining and educating audiences globally."
-type: "standard"
-status: "review"
-publishDate: "2025-11-06T10:11:28+00:00"
-author: "Taylor Winters"
+title: 'Famous Penn Staters: Reality TV Shows They’d Star In'
+description: >-
+  Imagine Penn State University as the setting for reality TV, featuring alumni
+  from sports, politics, and the arts. These figures could bring unique insights
+  and inspiration, showcasing their journeys and contributions while
+  entertaining and educating audiences globally.
+type: standard
+status: review
+publishDate: '2025-11-06T10:11:28+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "famous-penn-staters-reality-tv-shows-theyd-star-in"
+  - TV News
+  - TV Shows
+slug: famous-penn-staters-reality-tv-shows-theyd-star-in
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/famous-penn-staters-reality-tv-shows-theyd-star-in/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/famous-penn-staters-reality-tv-shows-theyd-star-in/'
+imported_from: wordpress
 wp_original_id: 28110
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/famous-penn-staters-reality-tv-shows-theyd-star-in.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/famous-penn-staters-reality-tv-shows-theyd-star-in/"
-  og_title: "Famous Penn Staters: Reality TV Shows They'd Star In - TV Shows Magazine"
-  og_description: "Imagine Penn State University as the setting for reality TV, featuring alumni from sports, politics, and the arts. These figures could bring unique insights and inspiration, showcasing their journeys and contributions while entertaining and educating audiences globally."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/famous-penn-staters-reality-tv-shows-theyd-star-in/
+  og_title: 'Famous Penn Staters: Reality TV Shows They''d Star In - TV Shows Magazine'
+  og_description: >-
+    Imagine Penn State University as the setting for reality TV, featuring
+    alumni from sports, politics, and the arts. These figures could bring unique
+    insights and inspiration, showcasing their journeys and contributions while
+    entertaining and educating audiences globally.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 62
 score_breakdown:
   seo_quality: 45
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: "The article has good tone and structure but lacks proper SEO optimization, falls short on word count, and doesn't align well with the site's entertainment focus on actual TV shows and streaming content."
+quality_note: >-
+  The article has good tone and structure but lacks proper SEO optimization,
+  falls short on word count, and doesn't align well with the site's
+  entertainment focus on actual TV shows and streaming content.
+image_alt: >-
+  University quad staged like a reality TV set with spotlights and
+  alumni-inspired figures
 ---
 
 Imagine if the corridors of Penn State University were the backdrop for the next wave of reality TV shows. With a rich tapestry of alumni who have made significant contributions across various fields, it's intriguing to envision these famous Penn Staters stepping into the limelight of reality television. From the sports arena to the world of politics, these figures could bring their unique perspectives and charisma to entertain and inspire audiences worldwide.
