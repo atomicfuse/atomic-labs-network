@@ -22,7 +22,7 @@ source_url: >-
   https://www.usmagazine.com/celebrity-news/news/fergie-reunites-with-black-eyed-peas-at-the-2026-amas/
 source_item_id: 6a151f7316f23264031d8108
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/fergie-reunites-black-eyed-peas-2026-amas.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   doesn't align well with the site's entertainment focus on funny/viral content,
   despite decent SEO structure and tone.
 reading_time: 3
+image_alt: >-
+  Four pop performers reunite under blue stage lights during an emotional
+  awards-show celebration.
 ---
 ## Emotional Reunion Takes Center Stage
 
