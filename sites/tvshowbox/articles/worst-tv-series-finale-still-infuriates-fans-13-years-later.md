@@ -1,26 +1,35 @@
 ---
-title: "Worst TV Series Finale Still Infuriates Fans 13 Years Later"
-description: "Thirteen years later, Dexter's original finale remains infamous for Debra's divisive fate, Dexter's lumberjack exile, and a lack of public reckoning that left many fans frustrated."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:37:04+00:00"
-author: "Taylor Winters"
+title: Worst TV Series Finale Still Infuriates Fans 13 Years Later
+description: >-
+  Thirteen years later, Dexter's original finale remains infamous for Debra's
+  divisive fate, Dexter's lumberjack exile, and a lack of public reckoning that
+  left many fans frustrated.
+type: standard
+status: published
+publishDate: '2026-05-18T08:37:04+00:00'
+author: Taylor Winters
 tags:
-  - "Recap"
-  - "Reviews"
-  - "TV"
-slug: "worst-tv-series-finale-still-infuriates-fans-13-years-later"
+  - Recap
+  - Reviews
+  - TV
+slug: worst-tv-series-finale-still-infuriates-fans-13-years-later
 reading_time: 8
-source_url: "https://tvshowbox.com/worst-tv-series-finale-still-infuriates-fans-13-years-later/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/worst-tv-series-finale-still-infuriates-fans-13-years-later/
+imported_from: wordpress
 wp_original_id: 24112
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/worst-tv-series-finale-still-infuriates-fans-13-years-later.webp
 seo:
-  canonical: "https://tvshowbox.com/worst-tv-series-finale-still-infuriates-fans-13-years-later/"
-  og_title: "Worst TV Series Finale Still Infuriates Fans 13 Years Later - TV Show Box"
-  og_description: "Thirteen years later, Dexter’s original finale remains infamous for Debra’s divisive fate, Dexter’s lumberjack exile, and a lack of public reckoning that left many fans frustrated."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/worst-tv-series-finale-still-infuriates-fans-13-years-later/
+  og_title: Worst TV Series Finale Still Infuriates Fans 13 Years Later - TV Show Box
+  og_description: >-
+    Thirteen years later, Dexter’s original finale remains infamous for Debra’s
+    divisive fate, Dexter’s lumberjack exile, and a lack of public reckoning
+    that left many fans frustrated.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -28,7 +37,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Strong entertainment content with engaging tone and comprehensive coverage, though the title could be more specific and compelling for better SEO impact."
+quality_note: >-
+  Strong entertainment content with engaging tone and comprehensive coverage,
+  though the title could be more specific and compelling for better SEO impact.
+image_alt: >-
+  A dark cabin with a glowing television, flannel shirt, and axe evoking an
+  infamous unresolved TV finale.
 ---
 
 Thirteen years after *Dexter* ended its original Showtime run, the finale still sparks frustration, debate, and disbelief. The crime drama built one of television's most compelling antiheroes, then closed his story with choices many viewers found rushed, emotionally hollow, and strangely evasive.
