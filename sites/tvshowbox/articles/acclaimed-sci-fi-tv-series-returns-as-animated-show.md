@@ -1,26 +1,34 @@
 ---
-title: "Acclaimed Sci-Fi TV Series Returns as Animated Show"
-description: "An iconic science fiction series is returning in an animated format, promising to captivate both loyal fans and new audiences with visually stunning and intellectually engaging storytelling that honors its legacy while embracing modern animation techniques."
-type: "standard"
-status: "review"
-publishDate: "2026-03-16T09:37:20+00:00"
-author: "Taylor Winters"
+title: Acclaimed Sci-Fi TV Series Returns as Animated Show
+description: >-
+  An iconic science fiction series is returning in an animated format, promising
+  to captivate both loyal fans and new audiences with visually stunning and
+  intellectually engaging storytelling that honors its legacy while embracing
+  modern animation techniques.
+type: standard
+status: review
+publishDate: '2026-03-16T09:37:20+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-  - "Upcoming"
-slug: "acclaimed-sci-fi-tv-series-returns-as-animated-show"
+  - TV News
+  - TV
+  - Upcoming
+slug: acclaimed-sci-fi-tv-series-returns-as-animated-show
 reading_time: 3
-source_url: "https://tvshowbox.com/acclaimed-sci-fi-tv-series-returns-as-animated-show/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/acclaimed-sci-fi-tv-series-returns-as-animated-show/'
+imported_from: wordpress
 wp_original_id: 24088
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/acclaimed-sci-fi-tv-series-returns-as-animated-show.webp
 seo:
-  canonical: "https://tvshowbox.com/acclaimed-sci-fi-tv-series-returns-as-animated-show/"
-  og_title: "Acclaimed Sci-Fi TV Series Returns as Animated Show - TV Show Box"
-  og_description: "An iconic science fiction series is returning in an animated format, promising to captivate both loyal fans and new audiences with visually stunning and intellectually engaging storytelling that honors its legacy while embracing modern animation techniques."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/acclaimed-sci-fi-tv-series-returns-as-animated-show/'
+  og_title: Acclaimed Sci-Fi TV Series Returns as Animated Show - TV Show Box
+  og_description: >-
+    An iconic science fiction series is returning in an animated format,
+    promising to captivate both loyal fans and new audiences with visually
+    stunning and intellectually engaging storytelling that honors its legacy
+    while embracing modern animation techniques.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 59
 score_breakdown:
   seo_quality: 45
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: "While the article matches the site's tone and covers relevant TV news topics well, it suffers from being too vague about which series is being discussed and lacks concrete details that would verify its factual accuracy."
+quality_note: >-
+  While the article matches the site's tone and covers relevant TV news topics
+  well, it suffers from being too vague about which series is being discussed
+  and lacks concrete details that would verify its factual accuracy.
+image_alt: >-
+  Silhouetted figure facing a glowing animated starship form in a colorful
+  sci-fi nebula
 ---
 
 The landscape of science fiction television is evolving once again as an iconic series prepares for a grand return in a fresh, animated format. This exciting development has been confirmed by the lead actor and producer, and it promises to bring the beloved story to life in a new way, reaching both loyal fans and new audiences.
