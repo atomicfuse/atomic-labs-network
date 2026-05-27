@@ -1,25 +1,37 @@
 ---
-title: "Kylie Minogue Shines in Stella McCartney at Earthshot Prize"
-description: "Kylie Minogue dazzled at the Earthshot Prize Awards 2025, wearing a sustainable Stella McCartney gown. Her appearance underscored the role of celebrities in promoting eco-friendly fashion and environmental initiatives, highlighting the influence of public figures in advocating for a greener future."
-type: "standard"
-status: "review"
-publishDate: "2025-11-06T10:23:32+00:00"
-author: "Lena Harper"
+title: Kylie Minogue Shines in Stella McCartney at Earthshot Prize
+description: >-
+  Kylie Minogue dazzled at the Earthshot Prize Awards 2025, wearing a
+  sustainable Stella McCartney gown. Her appearance underscored the role of
+  celebrities in promoting eco-friendly fashion and environmental initiatives,
+  highlighting the influence of public figures in advocating for a greener
+  future.
+type: standard
+status: review
+publishDate: '2025-11-06T10:23:32+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "kylie-minogue-shines-in-stella-mccartney-at-earthshot-prize"
+  - Celebrities
+  - Fashion
+slug: kylie-minogue-shines-in-stella-mccartney-at-earthshot-prize
 reading_time: 3
-source_url: "https://wtpop.com/kylie-minogue-shines-in-stella-mccartney-at-earthshot-prize/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/kylie-minogue-shines-in-stella-mccartney-at-earthshot-prize/'
+imported_from: wordpress
 wp_original_id: 550
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/kylie-minogue-shines-in-stella-mccartney-at-earthshot-prize.webp
 seo:
-  canonical: "https://wtpop.com/kylie-minogue-shines-in-stella-mccartney-at-earthshot-prize/"
-  og_title: "Kylie Minogue Shines in Stella McCartney at Earthshot Prize - WTPOP"
-  og_description: "Kylie Minogue dazzled at the Earthshot Prize Awards 2025, wearing a sustainable Stella McCartney gown. Her appearance underscored the role of celebrities in promoting eco-friendly fashion and environmental initiatives, highlighting the influence of public figures in advocating for a greener future."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-1-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/kylie-minogue-shines-in-stella-mccartney-at-earthshot-prize/
+  og_title: Kylie Minogue Shines in Stella McCartney at Earthshot Prize - WTPOP
+  og_description: >-
+    Kylie Minogue dazzled at the Earthshot Prize Awards 2025, wearing a
+    sustainable Stella McCartney gown. Her appearance underscored the role of
+    celebrities in promoting eco-friendly fashion and environmental initiatives,
+    highlighting the influence of public figures in advocating for a greener
+    future.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file-1-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Strong celebrity fashion coverage with good tone and keyword relevance, but significantly too short at 442 words and contains fabricated 2025 event details that undermine credibility."
+quality_note: >-
+  Strong celebrity fashion coverage with good tone and keyword relevance, but
+  significantly too short at 442 words and contains fabricated 2025 event
+  details that undermine credibility.
+image_alt: >-
+  Glamorous performer in a shimmering eco-inspired gown on an elegant green
+  carpet
 ---
 
 Kylie Minogue captivated audiences with her stunning appearance at the Earthshot Prize Awards 2025, a prestigious event dedicated to recognizing groundbreaking environmental solutions. The pop icon's choice of attire was a topic of admiration, showcasing her commitment to both style and sustainability.
