@@ -1,27 +1,35 @@
 ---
-title: "Jimmy Kimmel Show Update: Fired or Still on ABC?"
-description: "Jimmy Kimmel has reportedly been dismissed from \"Jimmy Kimmel Live!\", leaving fans and media analysts speculating about the reasons. His departure sparks questions about the show's future and his next career moves in the entertainment industry."
-type: "standard"
-status: "review"
-publishDate: "2025-09-18T04:59:38+00:00"
-author: "Taylor Winters"
+title: 'Jimmy Kimmel Show Update: Fired or Still on ABC?'
+description: >-
+  Jimmy Kimmel has reportedly been dismissed from "Jimmy Kimmel Live!", leaving
+  fans and media analysts speculating about the reasons. His departure sparks
+  questions about the show's future and his next career moves in the
+  entertainment industry.
+type: standard
+status: review
+publishDate: '2025-09-18T04:59:38+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-  - "Rumors"
-  - "TV Shows"
-slug: "jimmy-kimmel-show-update-fired-or-still-on-abc"
+  - TV News
+  - News
+  - Rumors
+  - TV Shows
+slug: jimmy-kimmel-show-update-fired-or-still-on-abc
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/jimmy-kimmel-show-update-fired-or-still-on-abc/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/jimmy-kimmel-show-update-fired-or-still-on-abc/'
+imported_from: wordpress
 wp_original_id: 28095
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/jimmy-kimmel-show-update-fired-or-still-on-abc.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/jimmy-kimmel-show-update-fired-or-still-on-abc/"
-  og_title: "Jimmy Kimmel Show Update: Fired or Still on ABC? - TV Shows Magazine"
-  og_description: "Jimmy Kimmel has reportedly been dismissed from \"Jimmy Kimmel Live!\", leaving fans and media analysts speculating about the reasons. His departure sparks questions about the show's future and his next career moves in the entertainment industry."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/09/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/jimmy-kimmel-show-update-fired-or-still-on-abc/'
+  og_title: 'Jimmy Kimmel Show Update: Fired or Still on ABC? - TV Shows Magazine'
+  og_description: >-
+    Jimmy Kimmel has reportedly been dismissed from "Jimmy Kimmel Live!",
+    leaving fans and media analysts speculating about the reasons. His departure
+    sparks questions about the show's future and his next career moves in the
+    entertainment industry.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/09/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 44
 score_breakdown:
   seo_quality: 25
@@ -29,7 +37,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 0
   keyword_relevance: 85
-quality_note: "The article is well-written and engaging but is completely based on false information as Jimmy Kimmel has not been fired from his show, making it highly problematic despite good tone and keyword coverage."
+quality_note: >-
+  The article is well-written and engaging but is completely based on false
+  information as Jimmy Kimmel has not been fired from his show, making it highly
+  problematic despite good tone and keyword coverage.
+image_alt: Empty late-night talk show desk under a spotlight in a dark studio
 ---
 
 In a surprising development within the entertainment industry, Jimmy Kimmel, the well-known host of "Jimmy Kimmel Live!", has reportedly been dismissed from his long-time role. This unexpected turn of events has left fans and media analysts speculating about the reasons behind this decision and what it means for the future of the show.
