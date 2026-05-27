@@ -1,45 +1,32 @@
 ---
-title: Erin Harkes Rediscovers Her Voice with New Album Blue
-description: >-
-  Erin Harkes' new album showcases her evolution as a musician and storyteller,
-  blending heartfelt lyrics with diverse musical influences. Her powerful voice
-  and engaging stage presence captivate audiences, offering a narrative journey
-  of personal growth and emotional resilience.
-type: standard
-status: published
-publishDate: '2026-01-19T12:49:27+00:00'
-author: Lena Harper
+title: "Erin Harkes Rediscovers Her Voice with New Album Blue"
+description: "Erin Harkes' new album *Blue* showcases her evolution as a musician and storyteller, blending heartfelt lyrics with diverse musical influences. Her powerful voice and engaging stage presence captivate audiences, offering a narrative journey of personal growth and emotional resilience."
+type: "standard"
+status: "review"
+publishDate: "2026-01-19T12:49:27+00:00"
+author: "Lena Harper"
 tags:
-  - Music
-slug: erin-harkes-rediscovers-her-voice-with-new-album-blue
+  - "Music"
+slug: "erin-harkes-rediscovers-her-voice-with-new-album-blue"
 reading_time: 3
-source_url: 'https://wtpop.com/erin-harkes-rediscovers-her-voice-with-new-album-blue/'
-imported_from: wordpress
+source_url: "https://wtpop.com/erin-harkes-rediscovers-her-voice-with-new-album-blue/"
+imported_from: "wordpress"
 wp_original_id: 765
-featuredImage: /assets/images/erin-harkes-rediscovers-her-voice-with-new-album-blue.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: 'https://wtpop.com/erin-harkes-rediscovers-her-voice-with-new-album-blue/'
-  og_title: Erin Harkes Rediscovers Her Voice with New Album Blue - WTPOP
-  og_description: >-
-    Erin Harkes' new album showcases her evolution as a musician and
-    storyteller, blending heartfelt lyrics with diverse musical influences. Her
-    powerful voice and engaging stage presence captivate audiences, offering a
-    narrative journey of personal growth and emotional resilience.
-  og_image: 'https://wtpop.com/wp-content/uploads/2026/01/make_file-8.jpeg'
-  twitter_card: summary_large_image
-quality_score: 63
+  canonical: "https://wtpop.com/erin-harkes-rediscovers-her-voice-with-new-album-blue/"
+  og_title: "Erin Harkes Rediscovers Her Voice with New Album Blue - WTPOP"
+  og_description: "Erin Harkes' new album showcases her evolution as a musician and storyteller, blending heartfelt lyrics with diverse musical influences. Her powerful voice and engaging stage presence captivate audiences, offering a narrative journey of personal growth and emotional resilience."
+  og_image: "https://wtpop.com/wp-content/uploads/2026/01/make_file-8.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 73
 score_breakdown:
-  seo_quality: 45
-  tone_match: 75
-  content_length: 40
+  seo_quality: 65
+  tone_match: 85
+  content_length: 60
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: >-
-  The article has good music coverage and tone but suffers from being too short
-  at 491 words, lacks SEO optimization with no meta description or proper
-  heading structure, and contains vague claims without specific details about
-  the album.
-image_alt: 'Singer-songwriter in blue stage light performing on an intimate, moody stage'
+quality_note: "Well-written music article with engaging tone but falls short on length (491 words vs 800-1200 target) and lacks specific album details that could raise factual concerns."
 ---
 
 Erin Harkes, a dynamic presence in the Albany music scene, is making waves with her latest release, an album that delves into themes of personal growth and emotional resilience. Known for her powerful voice and engaging stage presence, Harkes brings a fresh perspective to her music, captivating audiences with every performance.

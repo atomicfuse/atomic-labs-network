@@ -1,46 +1,32 @@
 ---
-title: Paul Marinaro’s New Jazz Album Debuts in Evanston
-description: >-
-  Paul Marinaro's album release in Evanston promises an unforgettable evening
-  for jazz lovers, showcasing his rich voice and innovative approach. The event
-  celebrates his musical journey, offering soulful melodies and a deep
-  connection with the audience.
-type: standard
-status: published
-publishDate: '2026-01-26T10:55:33+00:00'
-author: Lena Harper
+title: "Paul Marinaro’s New Jazz Album Debuts in Evanston"
+description: "Paul Marinaro's album release in Evanston promises an unforgettable evening for jazz lovers, showcasing his rich voice and innovative approach. The event celebrates his musical journey, offering soulful melodies and a deep connection with the audience."
+type: "standard"
+status: "review"
+publishDate: "2026-01-26T10:55:33+00:00"
+author: "Lena Harper"
 tags:
-  - Music
-slug: paul-marinaros-new-jazz-album-debuts-in-evanston
+  - "Music"
+slug: "paul-marinaros-new-jazz-album-debuts-in-evanston"
 reading_time: 3
-source_url: 'https://wtpop.com/paul-marinaros-new-jazz-album-debuts-in-evanston/'
-imported_from: wordpress
+source_url: "https://wtpop.com/paul-marinaros-new-jazz-album-debuts-in-evanston/"
+imported_from: "wordpress"
 wp_original_id: 769
-featuredImage: /assets/images/paul-marinaros-new-jazz-album-debuts-in-evanston.webp
+featuredImage: "/assets/images/wtpop-general-article.webp"
 seo:
-  canonical: 'https://wtpop.com/paul-marinaros-new-jazz-album-debuts-in-evanston/'
-  og_title: Paul Marinaro's New Jazz Album Debuts in Evanston - WTPOP
-  og_description: >-
-    Paul Marinaro's album release in Evanston promises an unforgettable evening
-    for jazz lovers, showcasing his rich voice and innovative approach. The
-    event celebrates his musical journey, offering soulful melodies and a deep
-    connection with the audience.
-  og_image: 'https://wtpop.com/wp-content/uploads/2026/01/make_file-9.jpeg'
-  twitter_card: summary_large_image
-quality_score: 77
+  canonical: "https://wtpop.com/paul-marinaros-new-jazz-album-debuts-in-evanston/"
+  og_title: "Paul Marinaro's New Jazz Album Debuts in Evanston - WTPOP"
+  og_description: "Paul Marinaro's album release in Evanston promises an unforgettable evening for jazz lovers, showcasing his rich voice and innovative approach. The event celebrates his musical journey, offering soulful melodies and a deep connection with the audience."
+  og_image: "https://wtpop.com/wp-content/uploads/2026/01/make_file-9.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 56
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 25
   tone_match: 75
-  content_length: 75
-  factual_accuracy: 85
-  keyword_relevance: 85
-quality_note: >-
-  Well-written music article with good tone and keyword relevance, but lacks
-  compelling SEO optimization and could benefit from more specific details about
-  the artist and album.
-image_alt: >-
-  Warm spotlight on a vintage jazz microphone in an intimate club with
-  instruments and audience silhouettes.
+  content_length: 50
+  factual_accuracy: 60
+  keyword_relevance: 70
+quality_note: "While the article maintains good tone and covers music content, it suffers from poor SEO optimization, short length, and lacks specific details that could verify factual accuracy."
 ---
 
 Jazz enthusiasts in Evanston are in for a treat as acclaimed jazz vocalist Paul Marinaro celebrates the release of his latest album. Known for his rich voice and captivating performances, Marinaro is set to showcase his new music in a venue that promises an unforgettable evening for jazz lovers.
