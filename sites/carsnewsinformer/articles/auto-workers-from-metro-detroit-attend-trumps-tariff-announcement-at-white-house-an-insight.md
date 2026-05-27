@@ -5,7 +5,7 @@ description: >-
   announcement at the White House, highlighting automotive industry involvement
   in trade policy discussions.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

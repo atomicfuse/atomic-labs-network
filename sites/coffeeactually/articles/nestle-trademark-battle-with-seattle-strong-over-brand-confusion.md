@@ -6,7 +6,7 @@ description: >-
   resilience and determination of small businesses to uphold their identity and
   values.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-17T04:01:35+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Bidders demonstrated strong enthusiasm for the latest vintage at Napa's Annual
   Barrel Auction, according to recent reports from the wine industry event.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

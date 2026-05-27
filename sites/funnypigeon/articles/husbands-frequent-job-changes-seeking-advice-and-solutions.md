@@ -7,7 +7,7 @@ description: >-
   and respecting boundaries being essential strategies for building strong,
   lasting relationships.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:39:24+00:00'
 author: Gabe Hernandez
 tags:

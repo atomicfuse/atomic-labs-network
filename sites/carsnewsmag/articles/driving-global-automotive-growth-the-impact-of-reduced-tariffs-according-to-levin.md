@@ -8,7 +8,7 @@ description: >-
   significant reduction in tariffs to foster competition, innovation, and a more
   prosperous and sustainable automotive industry worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T04:46:31+00:00'
 author: Taylor Winters
 tags:

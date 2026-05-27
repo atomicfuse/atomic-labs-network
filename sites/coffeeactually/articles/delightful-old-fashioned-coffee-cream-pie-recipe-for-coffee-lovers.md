@@ -4,7 +4,7 @@ description: >-
   Discover how to make a delicious old-fashioned coffee cream pie with a creamy
   coffee filling and a flaky crust.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-04T04:01:28+00:00'
 author: Taylor Winters
 tags:

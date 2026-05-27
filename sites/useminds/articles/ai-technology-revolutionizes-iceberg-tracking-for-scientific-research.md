@@ -6,7 +6,7 @@ description: >-
   analyzes vast data, predicting iceberg paths, which aids in avoiding hazards
   and provides insights into environmental changes affecting polar regions.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:45:34+00:00'
 author: Nico Ashwood
 tags:

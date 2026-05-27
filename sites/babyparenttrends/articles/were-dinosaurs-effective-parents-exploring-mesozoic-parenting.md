@@ -7,7 +7,7 @@ description: >-
   evidence varies across different species, reflecting diverse approaches to
   raising young.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T09:53:37+00:00'
 author: Taylor Winters
 tags:

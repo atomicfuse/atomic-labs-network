@@ -6,7 +6,7 @@ description: >-
   bioengineered skin substitutes, aiming to enhance recovery, reduce scarring,
   and improve patient outcomes, despite facing regulatory and cost challenges.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T09:31:40+00:00'
 author: Taylor Winters
 tags:

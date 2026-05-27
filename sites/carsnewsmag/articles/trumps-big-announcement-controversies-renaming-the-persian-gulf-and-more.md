@@ -5,7 +5,7 @@ description: >-
   significant controversy, including issues surrounding the renaming of the
   Persian Gulf.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

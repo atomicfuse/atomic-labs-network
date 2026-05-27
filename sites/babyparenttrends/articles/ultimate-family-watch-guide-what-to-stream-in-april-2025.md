@@ -6,7 +6,7 @@ description: >-
   Disney+'s 'The Proud Family: Louder and Prouder' and 'Secrets of the Whales',
   and a live-action adaptation of 'Artemis Fowl'.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T08:46:41+00:00'
 author: Taylor Winters
 tags:

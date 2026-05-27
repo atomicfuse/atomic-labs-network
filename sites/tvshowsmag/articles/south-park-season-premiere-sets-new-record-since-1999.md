@@ -2,7 +2,7 @@
 title: "South Park Season Premiere Sets New Record Since 1999"
 description: "South Park has become a cultural cornerstone with its irreverent humor and sharp social commentary, maintaining popularity for over two decades. Its fearless approach to controversial topics attracts a loyal fanbase and sparks debates, ensuring its continued relevance."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-07-31T05:19:32+00:00"
 author: "Taylor Winters"
 tags:

@@ -6,7 +6,7 @@ description: >-
   technological innovation of Stone Age humans and providing insights into their
   social and cultural dynamics.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T11:01:32+00:00'
 author: Nico Ashwood
 tags:

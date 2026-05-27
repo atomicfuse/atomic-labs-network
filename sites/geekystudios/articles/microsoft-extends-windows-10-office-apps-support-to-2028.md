@@ -6,7 +6,7 @@ description: >-
   decision ensures access to regular updates and security patches, benefiting
   both individuals and businesses.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T10:51:56+00:00'
 author: Arthur Daly
 tags:

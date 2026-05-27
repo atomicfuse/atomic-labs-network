@@ -6,7 +6,7 @@ description: >-
   penthouse, her properties showcase her discerning taste and commitment to
   creating captivating, sophisticated spaces.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-08T04:05:30+00:00'
 author: Taylor Winters
 tags:

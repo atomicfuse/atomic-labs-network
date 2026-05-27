@@ -4,7 +4,7 @@ description: >-
   Discover the new agenda and speakers for the 2025 Medical Innovation Olympics,
   and why this event is a must-attend for healthcare innovators.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:15:30+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   attracting industry professionals and aspiring actors with its diverse filming
   environment, supportive community, and local government incentives.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T06:46:37+00:00'
 author: Taylor Winters
 tags:

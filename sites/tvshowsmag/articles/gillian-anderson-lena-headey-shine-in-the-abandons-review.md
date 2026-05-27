@@ -2,7 +2,7 @@
 title: "Gillian Anderson, Lena Headey Shine in ‘The Abandons’ Review"
 description: "Netflix's \"The Abandons\" captivates with its gripping storytelling, exploring complex themes of survival, community, and justice against the American frontier. The series combines action, introspection, and stunning visuals, offering a rich narrative that engages and entertains viewers."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-04T10:25:31+00:00"
 author: "Taylor Winters"
 tags:

@@ -5,7 +5,7 @@ description: >-
   bicycle featuring the Aventon Control Unit (ACU) with advanced security, GPS
   tracking, geofencing, and up to 70 miles of range, priced at $1,899.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-27T11:08:55+00:00'
 author: admin
 tags:

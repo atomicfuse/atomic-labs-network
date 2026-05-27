@@ -5,7 +5,7 @@ description: >-
   Office" set in a small-town newspaper office, promising quirky charm, new
   characters, and fresh storylines while capturing the humor of its predecessor.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-04T04:23:24+00:00'
 author: Taylor Winters
 tags:

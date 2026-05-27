@@ -8,7 +8,7 @@ description: >-
   the anti-aging effects of calorie restriction and potentially slowing down the
   aging process.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-31T11:27:49+00:00'
 author: Taylor Winters
 tags:

@@ -8,7 +8,7 @@ description: >-
   and beauty inspirations including Audrey Hepburn, Dolly Parton, and her
   mother.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T07:01:33+00:00'
 author: Taylor Winters
 tags:

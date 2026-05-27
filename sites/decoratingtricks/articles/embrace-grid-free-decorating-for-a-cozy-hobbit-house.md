@@ -6,7 +6,7 @@ description: >-
   constraints. The game embraces a clutter-core aesthetic, enhancing creativity
   and offering a cozy, immersive environment for players to explore.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T04:11:24+00:00'
 author: Taylor Winters
 tags:

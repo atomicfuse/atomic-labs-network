@@ -2,7 +2,7 @@
 title: "Top 40 Must-Watch Christmas TV Shows for 2025"
 description: "As the holiday season approaches, families eagerly anticipate a delightful TV lineup featuring new releases, beloved classics, and family-friendly options. From heartwarming tales to thrilling dramas, there's something for everyone to enjoy this festive season."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-22T09:43:26+00:00"
 author: "Taylor Winters"
 tags:

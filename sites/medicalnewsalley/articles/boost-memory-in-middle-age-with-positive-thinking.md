@@ -6,7 +6,7 @@ description: >-
   that optimism and positive affirmations correlate with better memory
   performance, highlighting the importance of a positive mindset.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-19T04:15:30+00:00'
 author: Taylor Winters
 tags:

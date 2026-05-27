@@ -4,7 +4,7 @@ description: >-
   Explore three delicious sessionable cocktails including the Charlie Chaplin,
   Chrysanthemum, and Bitter Giuseppe for your next drinking occasion.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

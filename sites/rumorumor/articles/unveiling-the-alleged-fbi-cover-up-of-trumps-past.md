@@ -5,7 +5,7 @@ description: >-
   purported involvement in covering them up, as discussed by MeidasTouch host
   Ben Meiselas.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-19T13:26:50+00:00'
 author: Priscilla Cruz
 tags:

@@ -5,7 +5,7 @@ description: >-
   savings and unique experiences. Targeting shoulder seasons and aligning trips
   with cultural events can help avoid crowds and ensure a rewarding travel year.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:23:40+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   popularity through strategic marketing, natural ingredients, and unique
   flavors, making it a favorite among consumers and food critics alike.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T09:15:29+00:00'
 author: Taylor Winters
 tags:

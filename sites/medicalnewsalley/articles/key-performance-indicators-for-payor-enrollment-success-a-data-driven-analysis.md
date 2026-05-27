@@ -8,7 +8,7 @@ description: >-
   tips to help healthcare organizations reduce delays and improve enrollment
   efficiency.
 type: standard
-status: review
+status: published
 publishDate: '2025-01-23T18:10:57+00:00'
 author: admin
 tags:

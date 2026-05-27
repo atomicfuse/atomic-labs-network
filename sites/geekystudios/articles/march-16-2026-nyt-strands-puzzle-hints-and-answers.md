@@ -2,7 +2,7 @@
 title: "March 16, 2026: NYT Strands Puzzle Hints and Answers"
 description: "The Big Dance is a daily NYT word puzzle inspired by March Madness that blends strategy and wordplay, offering fresh clues each day while providing cognitive benefits such as improved vocabulary, memory, and concentration."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-16T10:21:29+00:00"
 author: "Arthur Daly"
 tags:

@@ -8,7 +8,7 @@ description: >-
   sophisticated, and warm oasis. Their home reflects their love for aesthetics,
   balancing the old with the new, and serves as a personal gallery.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T04:31:41+00:00'
 author: Taylor Winters
 tags:

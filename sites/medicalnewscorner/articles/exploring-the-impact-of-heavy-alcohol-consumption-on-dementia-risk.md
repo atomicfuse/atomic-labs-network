@@ -7,7 +7,7 @@ description: >-
   about safe alcohol use and could have significant implications for public
   health guidelines.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T04:16:34+00:00'
 author: Taylor Winters
 tags:

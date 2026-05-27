@@ -7,7 +7,7 @@ description: >-
   including probiotics and dietary adjustments to enhance outcomes and reduce
   side effects.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:43:24+00:00'
 author: Nico Ashwood
 tags:

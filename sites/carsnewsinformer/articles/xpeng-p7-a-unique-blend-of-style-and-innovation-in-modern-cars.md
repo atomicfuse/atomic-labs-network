@@ -4,7 +4,7 @@ description: >-
   The Xpeng P7 represents a distinctive approach to modern automotive design,
   combining style with innovation in the competitive electric vehicle market.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

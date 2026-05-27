@@ -4,7 +4,7 @@ description: >-
   A new exploration examines American wine terroir, highlighting regional
   characteristics and grape varietals across the United States.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

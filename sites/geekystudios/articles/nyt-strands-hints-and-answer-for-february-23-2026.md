@@ -2,7 +2,7 @@
 title: "NYT Strands Hints and Answer for February 23, 2026"
 description: "Solving the New York Times' \"Hint\" puzzle offers an engaging challenge that enhances cognitive skills and vocabulary. Accessible via the website or app, it fosters mental agility, creativity, and community participation through clever clues, wordplay, and friendly competition."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-23T10:33:30+00:00"
 author: "Arthur Daly"
 tags:

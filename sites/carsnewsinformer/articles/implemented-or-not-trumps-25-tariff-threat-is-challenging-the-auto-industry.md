@@ -4,7 +4,7 @@ description: >-
   The automotive industry faces uncertainty as Trump's proposed 25% tariff
   threat creates challenges for manufacturers and suppliers across the sector.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

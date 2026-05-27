@@ -6,7 +6,7 @@ description: >-
   period interiors, symbolism, and close collaboration with directors and
   cinematographers.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T09:21:44+00:00'
 author: Taylor Winters
 tags:

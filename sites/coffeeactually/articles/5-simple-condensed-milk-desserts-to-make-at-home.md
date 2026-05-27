@@ -2,7 +2,7 @@
 title: "5 Simple Condensed Milk Desserts to Make at Home"
 description: "Condensed milk enhances simple recipes into delightful desserts with its creamy texture, perfect for both novice and seasoned bakers. From fudge and cheesecake to lemon bars and macaroons, it offers quick, satisfying sweet treats for any occasion."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-04-29T11:10:21+00:00"
 author: "Taylor Winters"
 tags:

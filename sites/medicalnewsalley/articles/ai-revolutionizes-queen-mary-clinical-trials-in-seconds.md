@@ -6,7 +6,7 @@ description: >-
   adoption of Research Grid's AI tool setting new standards for efficiency in
   medical research.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T07:17:28+00:00'
 author: Taylor Winters
 tags:

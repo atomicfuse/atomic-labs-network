@@ -5,7 +5,7 @@ description: >-
   covering its features, setup, pros and cons, and real-world testing across
   multiple projects including HTV, DTF, and sublimation blanks.
 type: standard
-status: review
+status: published
 publishDate: '2025-01-17T13:16:46+00:00'
 author: admin
 tags:

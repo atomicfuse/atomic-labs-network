@@ -6,7 +6,7 @@ description: >-
   Practicing at home is convenient and can profoundly impact health and quality
   of life for all levels.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T09:49:32+00:00'
 author: Taylor Winters
 tags:

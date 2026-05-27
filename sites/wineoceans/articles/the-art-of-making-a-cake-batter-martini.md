@@ -4,7 +4,7 @@ description: >-
   Explore the trending cake batter martini cocktail technique that's capturing
   attention in the beverage world with its dessert-inspired flavors.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

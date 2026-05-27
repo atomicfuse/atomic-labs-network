@@ -6,7 +6,7 @@ description: >-
   the event celebrates the show's legacy while introducing its magic to a new
   generation.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:41:25+00:00'
 author: Taylor Winters
 tags:

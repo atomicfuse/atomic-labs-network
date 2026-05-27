@@ -6,7 +6,7 @@ description: >-
   to "Jimmy Kimmel Live!" with renewed enthusiasm and support from fans and
   colleagues.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-09T08:49:54+00:00'
 author: Taylor Winters
 tags:

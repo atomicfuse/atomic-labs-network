@@ -7,7 +7,7 @@ description: >-
   21, 2025 broadcast, including a $400 million Air Force One donation, Oval
   Office tensions with South Africa's president, and a jailbreak in New Orleans.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T05:05:20+00:00'
 author: Priscilla Cruz
 tags:

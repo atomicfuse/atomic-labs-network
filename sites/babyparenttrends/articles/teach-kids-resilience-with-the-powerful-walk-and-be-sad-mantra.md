@@ -5,7 +5,7 @@ description: >-
   with mindful walking can help individuals process emotions, build resilience,
   and achieve a harmonious state of mental health.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T09:55:31+00:00'
 author: Taylor Winters
 tags:

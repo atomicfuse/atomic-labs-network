@@ -2,7 +2,7 @@
 title: "Hollywood Star’s Unexpected Departure From Popular TV Show"
 description: "The exit of a key actor from Apple TV's \"The Morning Show\" has sparked fan and insider discussions, potentially leading to narrative shifts and new themes as the series adapts to the change and explores fresh dynamics."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-10-23T08:43:29+00:00"
 author: "Taylor Winters"
 tags:

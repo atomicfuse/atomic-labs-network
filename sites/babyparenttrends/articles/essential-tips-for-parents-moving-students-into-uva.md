@@ -6,7 +6,7 @@ description: >-
   Engaging in community activities and maintaining parental support are key to a
   successful college experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:43:25+00:00'
 author: Taylor Winters
 tags:

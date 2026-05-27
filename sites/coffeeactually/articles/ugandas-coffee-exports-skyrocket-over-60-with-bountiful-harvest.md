@@ -2,7 +2,7 @@
 title: "Uganda’s Coffee Exports Skyrocket Over 60% with Bountiful Harvest"
 description: "Uganda has become a major force in the global coffee market, with shipments rising over 60% due to favorable weather and expanded cultivation, highlighting the country's agricultural strength and critical role in the coffee industry."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-12T09:15:35+00:00"
 author: "Taylor Winters"
 tags:

@@ -4,7 +4,7 @@ description: >-
   Exploring the unconventional world of tomato wine making, where traditional
   fruit wines meet innovative techniques for a distinctive beverage experience.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

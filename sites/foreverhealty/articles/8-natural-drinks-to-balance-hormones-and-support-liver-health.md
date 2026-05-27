@@ -5,7 +5,7 @@ description: >-
   support liver health, and promote overall wellness through anti-inflammatory
   properties.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T15:30:39+00:00'
 author: Elena Hartwell
 tags:

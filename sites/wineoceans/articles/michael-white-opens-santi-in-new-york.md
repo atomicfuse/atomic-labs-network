@@ -4,7 +4,7 @@ description: >-
   Renowned chef Michael White has opened a new restaurant called Santi in New
   York, marking his latest culinary venture in the city.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

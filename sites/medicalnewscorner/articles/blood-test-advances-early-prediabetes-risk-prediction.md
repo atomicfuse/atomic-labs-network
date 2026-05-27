@@ -2,7 +2,7 @@
 title: "Blood Test Advances Early Prediabetes Risk Prediction"
 description: "Recent advancements in AI are revolutionizing healthcare by predicting prediabetes risk through biomarker identification, enabling early intervention and personalized treatment plans. This technology offers a significant step forward in preventive healthcare, addressing a major global health challenge."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-16T09:19:27+00:00"
 author: "Taylor Winters"
 tags:

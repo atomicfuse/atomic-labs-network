@@ -2,7 +2,7 @@
 title: "Best Foods to Prevent Dizziness After Your Flu Shot"
 description: "Understanding how diet influences flu vaccine efficacy is crucial. Consuming nutrients like vitamins C and D, zinc, and antioxidants before and after vaccination can optimize immune response, while staying hydrated and well-rested further supports building immunity effectively."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-10-03T05:17:32+00:00"
 author: "Taylor Winters"
 tags:

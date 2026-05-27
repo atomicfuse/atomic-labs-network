@@ -4,7 +4,7 @@ description: >-
   Explore high fiber foods that help achieve a daily goal of 25g, supporting gut
   and colon health.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T08:21:14+00:00'
 author: Elena Hartwell
 tags:

@@ -6,7 +6,7 @@ description: >-
   Discover the inspiring stories of individuals embarking on their
   transformative journey in the February 2026 Yoga Teacher Training Class.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:47:20+00:00'
 author: Taylor Winters
 tags:

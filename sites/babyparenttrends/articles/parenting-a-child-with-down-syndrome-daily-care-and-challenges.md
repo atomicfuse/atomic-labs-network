@@ -6,7 +6,7 @@ description: >-
   leads a fulfilling life. Early intervention and therapies play crucial roles
   in enhancing development and fostering independence.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-23T10:11:22+00:00'
 author: Taylor Winters
 tags:

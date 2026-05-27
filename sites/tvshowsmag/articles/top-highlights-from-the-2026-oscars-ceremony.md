@@ -2,7 +2,7 @@
 title: "Top Highlights from the 2026 Oscars Ceremony"
 description: "The 2026 Oscars celebrated diversity and innovation in film, honoring boundary-pushing movies and standout performances. Highlights included unexpected wins, groundbreaking achievements in filmmaking, and a focus on inclusivity, making it a memorable night in Hollywood."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-16T10:07:26+00:00"
 author: "Taylor Winters"
 tags:

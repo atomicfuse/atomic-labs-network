@@ -6,7 +6,7 @@ description: >-
   industry by enhancing wages and safety while setting a precedent for future
   negotiations.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T04:25:30+00:00'
 author: Taylor Winters
 tags:

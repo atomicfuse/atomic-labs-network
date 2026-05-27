@@ -6,7 +6,7 @@ description: >-
   cardiovascular and glucose regulation benefits, supporting overall well-being
   and potentially reducing the risk of type 2 diabetes.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:55:32+00:00'
 author: Nico Ashwood
 tags:

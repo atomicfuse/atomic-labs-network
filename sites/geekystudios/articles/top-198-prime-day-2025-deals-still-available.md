@@ -6,7 +6,7 @@ description: >-
   enjoy discounts on the latest models from top brands and enhance their tech
   collections with carefully planned purchases.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T05:39:22+00:00'
 author: Arthur Daly
 tags:

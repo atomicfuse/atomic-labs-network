@@ -5,7 +5,7 @@ description: >-
   trade deal, potentially impacting automotive imports and manufacturing
   partnerships.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

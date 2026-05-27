@@ -6,7 +6,7 @@ description: >-
   player experiences with features like verifiable scarcity and secure
   transactions.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T04:25:23+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   A reassuring reminder that big dreams take time, and that growth, perspective,
   and flexibility are all part of the journey toward success.
 type: standard
-status: review
+status: published
 publishDate: '2024-08-29T22:58:16+00:00'
 author: Taylor Winters
 tags:

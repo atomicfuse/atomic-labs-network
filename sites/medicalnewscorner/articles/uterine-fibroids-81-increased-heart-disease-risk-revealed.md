@@ -2,7 +2,7 @@
 title: "Uterine Fibroids: 81% Increased Heart Disease Risk Revealed"
 description: "Fibroids, non-cancerous uterine growths, may increase heart disease risk by up to 81%. Studies suggest shared factors like hormonal imbalances and inflammation could link fibroids to cardiovascular issues, highlighting the importance of comprehensive women's health management and preventive strategies."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-18T09:17:44+00:00"
 author: "Taylor Winters"
 tags:

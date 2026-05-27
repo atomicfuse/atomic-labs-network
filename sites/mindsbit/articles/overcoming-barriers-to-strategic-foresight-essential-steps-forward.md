@@ -4,7 +4,7 @@ description: >-
   Technology organizations are working to identify and overcome barriers that
   prevent effective strategic foresight implementation.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

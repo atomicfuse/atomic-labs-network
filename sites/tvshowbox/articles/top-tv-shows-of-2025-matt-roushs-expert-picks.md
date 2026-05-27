@@ -2,7 +2,7 @@
 title: "Top TV Shows of 2025: Matt Roush’s Expert Picks"
 description: "In 2025, TV shows redefine entertainment with groundbreaking storytelling across drama, science fiction, comedy, and crime genres, sparking conversations and reflecting societal values. Each series offers unique narratives that captivate audiences and inspire creativity worldwide."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-28T14:05:11+00:00"
 author: "Taylor Winters"
 tags:

@@ -2,7 +2,7 @@
 title: "Canadian Travel Advisory: Alcohol Laws and Safety Risks Abroad"
 description: "Travelers face evolving regulations and advisories worldwide, from Thailand's alcohol policies to Colombia's volcanic activity and Lebanon's security climate. Staying informed enhances safety and preparedness, ensuring enjoyable travel experiences by respecting local customs and adapting to changing conditions."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-08T13:00:39+00:00"
 author: "Malcolm Anderson"
 tags:

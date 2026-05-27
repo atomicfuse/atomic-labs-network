@@ -4,7 +4,7 @@ description: >-
   Musician Bud Rokesky has officially revealed plans for his upcoming album
   'Dusk' along with accompanying tour dates for fans.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

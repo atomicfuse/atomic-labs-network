@@ -2,7 +2,7 @@
 title: "Rising Coffee Bean Prices Challenge Belton Coffee Shop Owner"
 description: "Coffee lovers in Belton face rising coffee bean prices, impacting local businesses as shop owners must find innovative solutions to maintain profitability and customer satisfaction amid global supply chain disruptions and adverse weather in coffee-producing regions like Brazil."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-04-06T08:15:26+00:00"
 author: "Taylor Winters"
 tags:

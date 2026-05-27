@@ -4,7 +4,7 @@ description: >-
   Discover a nutritious smoothie that alleviates pregnancy symptoms and boosts
   overall health.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T15:30:23+00:00'
 author: Elena Hartwell
 tags:

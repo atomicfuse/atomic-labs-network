@@ -6,7 +6,7 @@ description: >-
   immersive musical experience and insights into the creative process behind his
   anticipated release.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T06:26:24+00:00'
 author: Priscilla Cruz
 tags:

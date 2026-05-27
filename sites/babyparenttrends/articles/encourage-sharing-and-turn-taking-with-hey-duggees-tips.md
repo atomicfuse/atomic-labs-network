@@ -2,7 +2,7 @@
 title: "Encourage Sharing and Turn-Taking with Hey Duggee’s Tips"
 description: "Reading to children enhances language and cognitive development, strengthens parent-child bonds, and fosters a love for learning. Early exposure to books boosts vocabulary, concentration, and empathy, creating lasting memories and a foundation for future academic success."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-08-28T04:53:22+00:00"
 author: "Taylor Winters"
 tags:

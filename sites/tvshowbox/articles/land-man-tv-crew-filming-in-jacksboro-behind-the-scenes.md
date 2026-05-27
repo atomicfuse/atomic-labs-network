@@ -6,7 +6,7 @@ description: >-
   Jacksboro's scenic charm and offers locals a chance to engage with the film
   industry, boosting community spirit and business.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T04:33:28+00:00'
 author: Taylor Winters
 tags:

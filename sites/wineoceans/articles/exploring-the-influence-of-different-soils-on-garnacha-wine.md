@@ -5,7 +5,7 @@ description: >-
   characteristics and quality of Garnacha wines, affecting flavor profiles and
   grape development.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -8,7 +8,7 @@ description: >-
   distinctive for its bold prints, vibrant colors, statement pieces, and a blend
   of comfort and style.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T07:46:33+00:00'
 author: Taylor Winters
 tags:

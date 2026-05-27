@@ -5,7 +5,7 @@ description: >-
   gaming, reviving the excitement and camaraderie that video games offer and
   providing a platform for gamers of all ages to explore, compete, and bond.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T06:01:43+00:00'
 author: Taylor Winters
 tags:

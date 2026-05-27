@@ -6,7 +6,7 @@ description: >-
   commitment to local produce, it provides a memorable dining experience for
   food enthusiasts.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-30T11:53:38+00:00'
 author: Taylor Winters
 tags:

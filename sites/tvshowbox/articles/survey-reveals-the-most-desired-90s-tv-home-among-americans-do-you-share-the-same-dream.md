@@ -8,7 +8,7 @@ description: >-
   most desirable homes in TV history, including the Brady Bunch's mid-century
   modern home and the Fresh Prince of Bel Air's mansion.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T06:46:38+00:00'
 author: Taylor Winters
 tags:

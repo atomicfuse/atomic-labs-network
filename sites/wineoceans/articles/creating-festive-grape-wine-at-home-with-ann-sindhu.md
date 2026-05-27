@@ -4,7 +4,7 @@ description: >-
   Learn about home winemaking with Ann Sindhu as she shares insights on creating
   festive grape wine in your own kitchen.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

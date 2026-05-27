@@ -5,7 +5,7 @@ description: >-
   Simple changes like rearranging furniture, using paint, and incorporating
   thrifted decor can transform your space while reflecting your unique style.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-19T04:05:35+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   Chaplin, Chrysanthemum, and Bitter Giuseppe for sophisticated drinking
   experiences.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

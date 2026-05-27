@@ -5,7 +5,7 @@ description: >-
   injured dog in Boardman. Community members are urged to come forward with
   information.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

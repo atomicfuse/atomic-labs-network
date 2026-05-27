@@ -2,7 +2,7 @@
 title: "Boost Exploration Travel Sales with These 6 Proven Tips"
 description: "Exploration travel appeals to adventurous individuals seeking unique experiences. This article discusses strategies to boost sales in this niche, including targeting millennials and Gen Z, crafting unique packages, leveraging digital marketing, engaging influencers, and emphasizing sustainability for environmentally-conscious travelers."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-15T11:29:46+00:00"
 author: "Malcolm Anderson"
 tags:

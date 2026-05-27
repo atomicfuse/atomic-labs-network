@@ -6,7 +6,7 @@ description: >-
   symptoms and improve quality of life. This proactive approach targets early
   intervention before symptoms appear.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:17:36+00:00'
 author: Taylor Winters
 tags:

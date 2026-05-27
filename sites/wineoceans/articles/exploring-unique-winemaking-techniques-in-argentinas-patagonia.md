@@ -5,7 +5,7 @@ description: >-
   innovative winemaking methods, expanding the country's wine production
   horizons.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

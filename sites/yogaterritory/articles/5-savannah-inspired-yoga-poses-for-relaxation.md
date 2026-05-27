@@ -6,7 +6,7 @@ description: >-
   wildlife, enhance mental focus, emotional balance, and provide a refreshing
   approach to mindfulness and well-being.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T07:39:27+00:00'
 author: Taylor Winters
 tags:

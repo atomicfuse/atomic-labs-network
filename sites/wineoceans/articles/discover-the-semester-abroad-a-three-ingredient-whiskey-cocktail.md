@@ -4,7 +4,7 @@ description: >-
   Learn about The Semester Abroad, a new three-ingredient whiskey cocktail
   that's gaining attention in the bartending world.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

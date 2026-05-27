@@ -4,7 +4,7 @@ description: >-
   Learn what 'trocken' means in German wine terminology and how this
   classification indicates dryness levels in German wines.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

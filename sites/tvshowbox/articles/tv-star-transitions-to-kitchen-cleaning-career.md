@@ -2,7 +2,7 @@
 title: "TV Star Transitions to Kitchen Cleaning Career"
 description: "Actor Javon \"Wanna\" Walton, known for his role in \"Euphoria,\" is shifting from acting to entrepreneurship, showcasing his versatility and inspiring fans with his commitment to personal growth and exploration beyond traditional media roles."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-07-24T04:29:29+00:00"
 author: "Taylor Winters"
 tags:

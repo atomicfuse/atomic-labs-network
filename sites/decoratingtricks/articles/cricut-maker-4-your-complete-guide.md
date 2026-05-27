@@ -5,7 +5,7 @@ description: >-
   setup process, and a side-by-side speed comparison with the Cricut Maker 3
   across multiple materials to help you decide if it's worth the upgrade.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-28T17:08:30+00:00'
 author: Taylor Winters
 tags:

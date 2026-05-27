@@ -2,7 +2,7 @@
 title: "World’s Most Expensive Coffee Costs Rs 18 Lakh per Bag"
 description: "Eugenioides coffee, originating from the highlands of East Africa, is gaining popularity among coffee enthusiasts for its naturally sweet flavor and low caffeine content. This rare and luxurious variety commands a premium price due to its limited cultivation and the meticulous processes involved in bringing it to market."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-26T09:15:31+00:00"
 author: "Taylor Winters"
 tags:

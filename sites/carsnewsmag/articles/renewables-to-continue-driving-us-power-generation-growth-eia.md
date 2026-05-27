@@ -6,7 +6,7 @@ description: >-
   Short-Term Energy Outlook, which forecasts significant solar and wind
   expansion alongside accelerating coal retirements.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-01T02:28:53+00:00'
 author: admin
 tags:

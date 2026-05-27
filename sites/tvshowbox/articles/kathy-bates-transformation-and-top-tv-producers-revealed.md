@@ -2,7 +2,7 @@
 title: "Kathy Bates’ Transformation and Top TV Producers Revealed"
 description: "Kathy Bates has transitioned from acclaimed actress to influential producer, impacting television with her commitment to authenticity, inclusivity, and innovation. Her work challenges norms, fosters emerging talent, and embraces new technologies, ensuring diverse narratives and immersive experiences resonate with audiences."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-09-11T04:23:26+00:00"
 author: "Taylor Winters"
 tags:

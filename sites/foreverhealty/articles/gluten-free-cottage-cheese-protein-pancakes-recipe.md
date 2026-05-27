@@ -4,7 +4,7 @@ description: >-
   Discover a high-protein pancake recipe that's both delicious and gluten-free,
   perfect for meal prep.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T15:30:14+00:00'
 author: Elena Hartwell
 tags:

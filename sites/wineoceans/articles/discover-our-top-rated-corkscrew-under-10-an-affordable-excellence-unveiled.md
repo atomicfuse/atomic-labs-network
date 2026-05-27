@@ -5,7 +5,7 @@ description: >-
   performance without breaking the bank. Find affordable wine opening
   excellence.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

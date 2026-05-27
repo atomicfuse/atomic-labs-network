@@ -6,7 +6,7 @@ description: >-
   reducing prices. These changes could benefit consumers and stimulate economic
   activity by increasing trade volumes.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-13T09:15:38+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   storytelling, and a strong fan base, solidifying its place in cinematic
   history.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T10:33:24+00:00'
 author: Jennifer Clarkson
 tags:

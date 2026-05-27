@@ -6,7 +6,7 @@ description: >-
   embodying the duality of life and death and offering a fresh perspective on
   immortality and human fears.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T10:27:31+00:00'
 author: Arthur Daly
 tags:

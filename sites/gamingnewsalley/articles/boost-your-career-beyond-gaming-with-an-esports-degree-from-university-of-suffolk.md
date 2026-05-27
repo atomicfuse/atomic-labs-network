@@ -9,7 +9,7 @@ description: >-
   its smart contracts, which provide a high level of security and reduce
   reliance on intermediaries.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T06:16:37+00:00'
 author: Taylor Winters
 tags:

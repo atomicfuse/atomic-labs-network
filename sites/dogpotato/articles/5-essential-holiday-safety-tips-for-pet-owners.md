@@ -4,7 +4,7 @@ description: >-
   Keep your furry friends safe during the holidays with these essential safety
   tips every pet owner needs to know for a worry-free celebration.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

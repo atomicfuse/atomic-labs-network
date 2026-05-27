@@ -4,7 +4,7 @@ description: >-
   Norway is reportedly positioning itself to become the first nation in the
   world to achieve a complete transition to electric vehicles.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

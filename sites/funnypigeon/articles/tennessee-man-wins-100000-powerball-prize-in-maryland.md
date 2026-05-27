@@ -5,7 +5,7 @@ description: >-
   substantial prize from the Maryland Lottery during a casual lunch,
   demonstrating how a simple decision can lead to life-changing outcomes.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:43:31+00:00'
 author: Gabe Hernandez
 tags:

@@ -5,7 +5,7 @@ description: >-
   and use HTV to create a custom t-shirt, including tips on customizing designs,
   cutting, weeding, and pressing layers.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-01T14:46:46+00:00'
 author: admin
 tags:

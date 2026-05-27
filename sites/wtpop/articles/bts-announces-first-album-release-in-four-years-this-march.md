@@ -6,7 +6,7 @@ description: >-
   eagerly anticipated by fans worldwide, promising to redefine the global music
   landscape.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:47:16+00:00'
 author: Lena Harper
 tags:

@@ -2,7 +2,7 @@
 title: "Ultimate 2025 Halloween Programming Guide"
 description: "TV networks and streaming platforms are ready to thrill viewers with a spooky lineup of Halloween shows and movies. Expect a mix of classic horror films, new releases, original series, and family-friendly options to enjoy this Halloween season."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-10-03T06:03:27+00:00"
 author: "Taylor Winters"
 tags:

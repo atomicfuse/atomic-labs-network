@@ -2,7 +2,7 @@
 title: "Microsoft Fires Employees After Office Protest"
 description: "Microsoft recently terminated two employees following a protest at its Redmond office, raising issues about corporate policies and employee rights. The incident highlights the complex balance between maintaining order and addressing grievances in large corporations."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-08-28T05:25:20+00:00"
 author: "Arthur Daly"
 tags:

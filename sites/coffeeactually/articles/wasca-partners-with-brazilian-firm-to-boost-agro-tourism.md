@@ -5,7 +5,7 @@ description: >-
   agricultural company to boost agro-tourism, integrating farming and tourism to
   enhance economic growth and cultural exchange across the region.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-21T04:01:44+00:00'
 author: Taylor Winters
 tags:

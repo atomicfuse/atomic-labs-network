@@ -7,7 +7,7 @@ description: >-
   topological properties, promising advancements in stable and efficient
   electronic devices.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T12:43:48+00:00'
 author: Nico Ashwood
 tags:

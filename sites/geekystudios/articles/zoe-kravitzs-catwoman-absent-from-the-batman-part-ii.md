@@ -2,7 +2,7 @@
 title: "Zoe Kravitz’s Catwoman Absent from The Batman Part II?"
 description: "Fans of Gotham City can anticipate \"The Batman Part II\" as it promises to expand on the gripping narrative, bringing back Zoë Kravitz's acclaimed portrayal of Catwoman and exploring her complex relationship with Batman in the sequel."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-04T10:47:32+00:00"
 author: "Arthur Daly"
 tags:

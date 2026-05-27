@@ -4,7 +4,7 @@ description: >-
   Examining the key features and specifications of the 2015 Chevrolet Impala LT
   Limited model, a noteworthy entry in Chevrolet's full-size sedan lineup.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

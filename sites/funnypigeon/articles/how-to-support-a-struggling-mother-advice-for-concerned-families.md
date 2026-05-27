@@ -6,7 +6,7 @@ description: >-
   common challenges parents face and offers strategies like open communication
   and time management to improve family engagement.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T10:27:28+00:00'
 author: Gabe Hernandez
 tags:

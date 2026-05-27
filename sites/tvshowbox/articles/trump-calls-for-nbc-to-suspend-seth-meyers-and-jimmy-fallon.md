@@ -2,7 +2,7 @@
 title: "Trump Calls for NBC to Suspend Seth Meyers and Jimmy Fallon"
 description: "The suspension of late-night host Jimmy Kimmel over controversial remarks has sparked a debate about free speech and comedic boundaries, drawing reactions from high-profile figures and highlighting the influence of late-night television on public discourse."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-09-18T04:23:55+00:00"
 author: "Taylor Winters"
 tags:

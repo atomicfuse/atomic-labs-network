@@ -5,7 +5,7 @@ description: >-
   Autopilot system, raising questions about driver monitoring and system
   oversight.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

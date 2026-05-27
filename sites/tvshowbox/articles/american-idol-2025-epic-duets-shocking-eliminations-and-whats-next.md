@@ -5,7 +5,7 @@ description: >-
   eliminations, with standout contestants Olivia Sparks, Jake Harmon, and Ella
   Blue heating up the competition this week.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T12:39:01+00:00'
 author: Taylor Winters
 tags:

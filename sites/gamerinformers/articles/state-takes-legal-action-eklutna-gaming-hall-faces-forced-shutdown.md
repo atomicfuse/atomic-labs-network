@@ -7,7 +7,7 @@ description: >-
   its applicability in Alaska, and could have significant implications for
   tribal gaming operations across the state.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T06:01:45+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Renault and Geely showcase innovative hybrid conversion technology at the 2025
   Shanghai Auto Show, offering new possibilities for EV transformation.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

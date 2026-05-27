@@ -6,7 +6,7 @@ description: >-
   anticipation grows for a show that could redefine genre conventions and become
   a cultural touchstone.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T09:43:27+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   functionality with whimsy, emphasizing personal expression, balanced boldness,
   and meaningful living spaces.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:19:26+00:00'
 author: Taylor Winters
 tags:

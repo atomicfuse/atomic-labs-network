@@ -6,7 +6,7 @@ description: >-
   companies must stay informed, adapt strategies, embrace digital
   transformation, and foster innovation to remain competitive and efficient.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T09:41:34+00:00'
 author: Taylor Winters
 tags:

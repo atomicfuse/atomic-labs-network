@@ -4,7 +4,7 @@ description: >-
   Discover effective methods to prevent cats and foxes from using your garden as
   their bathroom with these proven deterrent strategies.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

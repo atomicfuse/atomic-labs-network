@@ -5,7 +5,7 @@ description: >-
   vacation, featuring breezy dresses, swimwear, accessories, and footwear from
   top designers.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T19:01:36+00:00'
 author: Taylor Winters
 tags:

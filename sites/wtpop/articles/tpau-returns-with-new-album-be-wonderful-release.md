@@ -4,7 +4,7 @@ description: >-
   British rock band T'Pau announces their comeback with new album 'Be
   Wonderful', marking their return to the music scene for entertainment fans.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

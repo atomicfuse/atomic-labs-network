@@ -2,7 +2,7 @@
 title: "Daylight Saving Time Tips for Parents: A Helpful Guide"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-05T09:59:24+00:00"
 author: "Taylor Winters"
 tags:

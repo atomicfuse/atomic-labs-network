@@ -9,7 +9,7 @@ description: >-
   popularity is transforming home renovations, making them a valuable addition
   to modern living spaces.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T04:31:34+00:00'
 author: Taylor Winters
 tags:

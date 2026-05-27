@@ -2,7 +2,7 @@
 title: "Max’s Fate in Stranger Things 5, Volume 1 Revealed"
 description: "The hit series \"Stranger Things\" returns with fans eager to see Max Mayfield's journey. After the previous season's dramatic events, her struggle with grief and trauma will be central, showcasing her resilience and growth amidst new challenges and threats."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-11-27T10:31:30+00:00"
 author: "Arthur Daly"
 tags:

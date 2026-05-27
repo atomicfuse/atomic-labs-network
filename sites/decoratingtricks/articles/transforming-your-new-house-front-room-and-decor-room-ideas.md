@@ -4,7 +4,7 @@ description: >-
   Explore creative decorating ideas for your new house as we focus on
   transforming the front room and decor room into stylish, inviting spaces.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T04:05:32+00:00'
 author: Taylor Winters
 tags:

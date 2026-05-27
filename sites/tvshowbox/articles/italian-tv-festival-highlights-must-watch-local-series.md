@@ -2,7 +2,7 @@
 title: "Italian TV Festival Highlights Must-Watch Local Series"
 description: "The Italian Global Series Festival debuts in Italy, celebrating international television series. It aims to bridge cultural gaps, showcase diverse storytelling, and provide networking opportunities, influencing global programming trends and supporting emerging talents in the creative industry."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-06-12T11:59:24+00:00"
 author: "Taylor Winters"
 tags:

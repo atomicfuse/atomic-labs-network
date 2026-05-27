@@ -6,7 +6,7 @@ description: >-
   times. Preparing in advance by arriving early and following guidelines can
   help mitigate inconvenience during this period.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T12:21:24+00:00'
 author: Malcolm Anderson
 tags:

@@ -5,7 +5,7 @@ description: >-
   growing media market, supported by local news, political ads, weather
   coverage, retransmission fees, and steady broadcasting cash flow.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04T09:02:29+00:00'
 author: Taylor Winters
 tags:

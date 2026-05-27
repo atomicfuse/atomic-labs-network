@@ -6,7 +6,7 @@ description: >-
   devices offer advanced ray tracing, AI-driven features, and NVIDIA's DLSS
   technology for improved visual fidelity and performance.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-05T05:06:22+00:00'
 author: Taylor Winters
 tags:

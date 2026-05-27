@@ -8,7 +8,7 @@ description: >-
   combines modern technology with gaming culture, underscoring Hyundai's
   commitment to innovation and revolutionizing the automotive experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T08:43:40+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   days of work covers essential bills, reducing stress and freeing up additional
   income for savings or discretionary spending.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T10:53:26+00:00'
 author: Tony Anderson
 tags:

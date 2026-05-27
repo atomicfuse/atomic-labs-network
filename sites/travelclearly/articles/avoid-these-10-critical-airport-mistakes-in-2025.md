@@ -4,7 +4,7 @@ description: >-
   Discover the top 10 airport mistakes travelers make and how to avoid them in
   2025.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-01T04:26:12+00:00'
 author: Taylor Winters
 tags:

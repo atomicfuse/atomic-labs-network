@@ -6,7 +6,7 @@ description: >-
   her appearance at Wanderlust Palmaïa in Playa del Carmen, MX, December 4–8,
   2024.
 type: standard
-status: review
+status: published
 publishDate: '2024-08-14T11:40:52+00:00'
 author: admin
 tags:

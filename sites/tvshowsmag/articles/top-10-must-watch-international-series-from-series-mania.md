@@ -2,7 +2,7 @@
 title: "Top 10 Must-Watch International Series from Series Mania"
 description: "Series Mania festival showcases innovative international TV series, celebrating diverse storytelling and emerging talent. These shows resonate globally by combining universal themes with local flavors, offering a glimpse into diverse cultures and predicting future television trends."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-23T10:23:25+00:00"
 author: "Taylor Winters"
 tags:

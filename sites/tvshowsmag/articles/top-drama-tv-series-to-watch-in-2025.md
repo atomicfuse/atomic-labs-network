@@ -2,7 +2,7 @@
 title: "Top Drama TV Series to Watch in 2025"
 description: "In 2025, drama series have captivated global audiences with innovative storytelling and diverse narratives, focusing on gritty realism and deep human emotions. Streaming platforms and technological innovations have elevated the quality, making it a landmark year for television drama."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-29T10:31:30+00:00"
 author: "Taylor Winters"
 tags:

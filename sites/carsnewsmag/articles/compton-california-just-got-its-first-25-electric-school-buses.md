@@ -5,7 +5,7 @@ description: >-
   buses along with 25 Tellus 180 kW DC fast chargers, marking a significant step
   toward zero-emission student transportation in southern Los Angeles County.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-28T23:29:30+00:00'
 author: admin
 tags:

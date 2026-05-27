@@ -2,7 +2,7 @@
 title: "Top 2026 TV Shows You Can’t Miss"
 description: "In 2026, a diverse lineup of TV shows promises to captivate audiences with thrilling dramas, innovative comedies, and imaginative science fiction. Viewers can anticipate engaging storytelling with complex characters, emotional depth, and stunning visuals across various genres."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-01T10:13:23+00:00"
 author: "Taylor Winters"
 tags:

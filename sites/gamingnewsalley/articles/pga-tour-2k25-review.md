@@ -5,7 +5,7 @@ description: >-
   its visuals and swing mechanics that make it feel like a significantly
   improved and more realistic experience compared to its predecessor.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-17T22:32:52+00:00'
 author: admin
 tags:

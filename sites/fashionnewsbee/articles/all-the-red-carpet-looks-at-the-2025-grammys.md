@@ -4,7 +4,7 @@ description: >-
   A roundup of the standout red carpet fashion looks from the 2025 Grammy
   Awards, including celebrity outfits and designer credits.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T09:48:36+00:00'
 author: admin
 tags:

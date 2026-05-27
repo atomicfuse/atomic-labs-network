@@ -6,7 +6,7 @@ description: >-
   eclectic styles, and eco-friendly choices that create more personalized and
   inviting spaces reflecting individuality and sustainability.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T09:19:39+00:00'
 author: Taylor Winters
 tags:

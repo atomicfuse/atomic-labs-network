@@ -6,7 +6,7 @@ description: >-
   the livelihoods of smallholder farmers. Efforts focus on sustainable
   practices, innovation, and revitalizing plantations.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-24T04:03:45+00:00'
 author: Taylor Winters
 tags:

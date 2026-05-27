@@ -2,7 +2,7 @@
 title: "AI-Driven Database Revolutionizes Collaborative Cancer Research"
 description: "In cancer treatment, a new open-access database aims to enhance immunotherapy research by providing comprehensive data for scientists. This AI-ready resource promises to accelerate discovery, facilitate global collaboration, and improve treatment strategies worldwide."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-22T09:17:35+00:00"
 author: "Taylor Winters"
 tags:

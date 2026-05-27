@@ -7,7 +7,7 @@ description: >-
   effects of prolonged viewing. The future promises more personalized
   experiences.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T10:33:30+00:00'
 author: Taylor Winters
 tags:

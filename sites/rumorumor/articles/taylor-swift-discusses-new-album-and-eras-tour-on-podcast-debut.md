@@ -4,7 +4,7 @@ description: >-
   Taylor Swift recently made her podcast debut, opening up about her upcoming
   new album and sharing insights from her record-breaking Eras Tour experience.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

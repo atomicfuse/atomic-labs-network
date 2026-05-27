@@ -2,7 +2,7 @@
 title: "Apple Removes ICEBlock App from App Store"
 description: "Apple's removal of the IceBlock app from the App Store has sparked debate about app review policies, highlighting the tension between innovation and regulation. This incident stresses the importance of adhering to guidelines for privacy and security."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-10-03T06:13:22+00:00"
 author: "Arthur Daly"
 tags:

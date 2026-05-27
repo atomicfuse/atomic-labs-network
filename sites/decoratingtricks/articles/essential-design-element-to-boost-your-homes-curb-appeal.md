@@ -6,7 +6,7 @@ description: >-
   thoughtful landscaping. These improvements can transform your home's exterior,
   boost property value, and provide personal enjoyment.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-29T04:05:25+00:00'
 author: Taylor Winters
 tags:

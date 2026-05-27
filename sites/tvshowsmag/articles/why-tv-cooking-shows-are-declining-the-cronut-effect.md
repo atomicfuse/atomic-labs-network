@@ -2,7 +2,7 @@
 title: "Why TV Cooking Shows Are Declining: The Cronut Effect"
 description: "The UK is experiencing a shift in workplace culture as employees return to offices post-pandemic, with hybrid models blending remote and in-office environments becoming increasingly common."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-09-11T04:55:29+00:00"
 author: "Taylor Winters"
 tags:

@@ -6,7 +6,7 @@ description: >-
   questions about the show's future and his next career moves in the
   entertainment industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T04:59:38+00:00'
 author: Taylor Winters
 tags:

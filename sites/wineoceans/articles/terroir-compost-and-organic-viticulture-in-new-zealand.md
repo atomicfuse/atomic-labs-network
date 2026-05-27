@@ -4,7 +4,7 @@ description: >-
   New Zealand's wine industry explores terroir compost applications and organic
   viticulture methods according to recent reports.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -8,7 +8,7 @@ description: >-
   tips on getting children to eat more vegetables, with the NFL community
   rallying to offer support and strategies.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T08:46:41+00:00'
 author: Taylor Winters
 tags:

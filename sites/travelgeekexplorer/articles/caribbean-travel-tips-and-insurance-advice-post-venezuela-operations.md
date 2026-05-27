@@ -6,7 +6,7 @@ description: >-
   Improved diplomatic relations and a stable safety environment are driving this
   resurgence in tourism opportunities.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-08T10:29:54+00:00'
 author: Taylor Winters
 tags:

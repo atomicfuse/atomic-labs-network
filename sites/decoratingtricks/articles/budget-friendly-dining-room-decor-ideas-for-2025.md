@@ -4,7 +4,7 @@ description: >-
   Discover inspiring and budget-friendly ideas for your dining room makeover,
   without breaking the bank.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T04:31:15+00:00'
 author: Taylor Winters
 tags:

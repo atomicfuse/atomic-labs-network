@@ -4,7 +4,7 @@ description: >-
   An examination of how artificial intelligence is reshaping the job market and
   the economic implications for workers and businesses alike.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

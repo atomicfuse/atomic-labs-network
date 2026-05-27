@@ -8,7 +8,7 @@ description: >-
   response time, NVIDIA G-Sync compatibility, and accurate color display.
   Despite its steep price, it provides undeniable value to avid gamers.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T06:16:29+00:00'
 author: Taylor Winters
 tags:

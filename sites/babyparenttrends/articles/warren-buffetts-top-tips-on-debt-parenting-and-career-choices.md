@@ -6,7 +6,7 @@ description: >-
   living within means, investing in oneself, and learning from mistakes,
   providing a roadmap to personal and professional success.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T09:59:27+00:00'
 author: Taylor Winters
 tags:

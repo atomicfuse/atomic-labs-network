@@ -5,7 +5,7 @@ description: >-
   reinvigorates Road To The Show with a new upgrade system and amateur journey,
   while making meaningful improvements across multiple modes.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-21T23:12:51+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Discover a tender and juicy slow cooker pot roast, perfect for healthy dinners
   during cooler months.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T15:30:32+00:00'
 author: Elena Hartwell
 tags:

@@ -8,7 +8,7 @@ description: >-
   Despite the seismic activity, Bangkok's primary airport continued operations
   normally due to stringent building codes and robust safety measures.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-31T12:12:04+00:00'
 author: Taylor Winters
 tags:

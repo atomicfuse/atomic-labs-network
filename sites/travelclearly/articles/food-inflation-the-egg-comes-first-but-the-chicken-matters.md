@@ -6,7 +6,7 @@ description: >-
   36.8% increase in egg prices, with further increases expected throughout the
   year.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-02T12:53:23+00:00'
 author: admin
 tags:

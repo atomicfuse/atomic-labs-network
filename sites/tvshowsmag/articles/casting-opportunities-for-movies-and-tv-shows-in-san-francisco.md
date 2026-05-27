@@ -6,7 +6,7 @@ description: >-
   city's cinematic legacy boosts tourism and the economy, while upcoming
   projects reflect its versatility as a premier filming location.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:07:30+00:00'
 author: Taylor Winters
 tags:

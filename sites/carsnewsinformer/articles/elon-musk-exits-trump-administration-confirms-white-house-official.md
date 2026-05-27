@@ -4,7 +4,7 @@ description: >-
   A White House official has confirmed that Elon Musk has departed from his role
   within the Trump administration, marking a significant development.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -6,7 +6,7 @@ description: >-
   life and business. This initiative aims to position South Korea as a global
   leader in the digital economy.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T09:39:25+00:00'
 author: Taylor Winters
 tags:

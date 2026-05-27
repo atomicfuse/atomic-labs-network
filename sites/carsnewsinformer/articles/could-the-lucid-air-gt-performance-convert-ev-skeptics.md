@@ -4,7 +4,7 @@ description: >-
   Examining whether the Lucid Air GT Performance has the potential to change
   minds among electric vehicle skeptics in the automotive industry.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -6,7 +6,7 @@ description: >-
   substance, resulting in a disconnect with audiences and impacting box office
   performance. Prioritizing storytelling is crucial.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T10:46:39+00:00'
 author: Arthur Daly
 tags:

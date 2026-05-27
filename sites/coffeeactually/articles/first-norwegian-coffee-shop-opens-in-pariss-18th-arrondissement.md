@@ -6,7 +6,7 @@ description: >-
   pastries, and a welcoming community space in the vibrant 18th arrondissement
   of Paris.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T09:15:36+00:00'
 author: Taylor Winters
 tags:

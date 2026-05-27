@@ -5,7 +5,7 @@ description: >-
   highlighting standout fashion moments from artists including Olivia Rodrigo,
   Charli XCX, Doechii, and more.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T01:47:09+00:00'
 author: admin
 tags:

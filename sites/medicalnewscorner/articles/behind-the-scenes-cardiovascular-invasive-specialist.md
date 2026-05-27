@@ -6,7 +6,7 @@ description: >-
   diagnostic labs, applying their technical training to patient care, medical
   sales, training, and teaching roles.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T04:36:08+00:00'
 author: admin
 tags:

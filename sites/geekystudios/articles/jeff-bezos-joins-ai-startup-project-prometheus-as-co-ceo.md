@@ -6,7 +6,7 @@ description: >-
   technology. The project, backed by industry veterans and substantial funding,
   seeks to transform sectors like healthcare and finance.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T10:22:45+00:00'
 author: Arthur Daly
 tags:

@@ -6,7 +6,7 @@ description: >-
   innovative solutions while presenting challenges like ensuring equal access
   and addressing the ethical considerations of AI and data privacy.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T09:39:26+00:00'
 author: Taylor Winters
 tags:

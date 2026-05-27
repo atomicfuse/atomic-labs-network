@@ -5,7 +5,7 @@ description: >-
   nutrients while providing economic savings and environmental benefits, making
   them a smart choice for sustainable and nutritious eating.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T10:23:33+00:00'
 author: Lena Ashwood
 tags:

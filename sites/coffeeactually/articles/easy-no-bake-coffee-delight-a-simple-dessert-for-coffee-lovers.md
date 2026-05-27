@@ -4,7 +4,7 @@ description: >-
   Discover a quick and easy no-bake coffee dessert recipe that's perfect for
   satisfying your sweet cravings without needing an oven.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-25T09:15:19+00:00'
 author: Taylor Winters
 tags:

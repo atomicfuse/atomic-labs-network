@@ -5,7 +5,7 @@ description: >-
   tutorial covering two different tumbler styles, design creation, and tips for
   getting the best results.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-20T16:27:11+00:00'
 author: admin
 tags:

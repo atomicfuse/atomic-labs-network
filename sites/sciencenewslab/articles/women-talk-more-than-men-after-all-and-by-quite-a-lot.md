@@ -6,7 +6,7 @@ description: >-
   revealing that overall talking has declined over time, likely due to increased
   screen use.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T11:00:00'
 author: Taylor Winters
 tags:

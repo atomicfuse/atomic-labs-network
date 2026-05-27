@@ -6,7 +6,7 @@ description: >-
   cooperative systems can improve returns and strengthen the country's coffee
   value chain.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11T08:16:36+00:00'
 author: Taylor Winters
 tags:

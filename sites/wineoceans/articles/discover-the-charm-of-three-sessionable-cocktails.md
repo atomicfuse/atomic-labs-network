@@ -5,7 +5,7 @@ description: >-
   the beverage industry, offering lighter alternatives for extended social
   drinking.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

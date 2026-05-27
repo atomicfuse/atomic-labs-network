@@ -5,7 +5,7 @@ description: >-
   past versions, examining its value, flavors, and how it holds up against its
   previous incarnation.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T08:11:18+00:00'
 author: Priscilla Cruz
 tags:

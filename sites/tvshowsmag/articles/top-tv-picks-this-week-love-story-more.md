@@ -2,7 +2,7 @@
 title: "Top TV Picks This Week: Love Story & More"
 description: "This week's television lineup features romantic dramas, thrilling crime mysteries, inspiring documentaries, and family-friendly entertainment, offering diverse stories and themes that promise to engage audiences and cater to a wide array of tastes and preferences."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-09T10:09:23+00:00"
 author: "Taylor Winters"
 tags:

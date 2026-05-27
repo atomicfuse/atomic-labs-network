@@ -8,7 +8,7 @@ description: >-
   peripherals and PC components designed to enhance immersion and performance
   for gamers.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T06:01:49+00:00'
 author: Taylor Winters
 tags:

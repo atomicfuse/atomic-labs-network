@@ -9,7 +9,7 @@ description: >-
   neglect — making a balance between freedom and supervision crucial for child
   development.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T08:46:45+00:00'
 author: Taylor Winters
 tags:

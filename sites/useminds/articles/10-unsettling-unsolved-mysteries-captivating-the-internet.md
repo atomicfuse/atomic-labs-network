@@ -5,7 +5,7 @@ description: >-
   haunting McDonald's playground image that has sparked widespread discussion
   and speculation.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T10:37:27+00:00'
 author: Nico Ashwood
 tags:

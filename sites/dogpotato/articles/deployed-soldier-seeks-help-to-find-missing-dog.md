@@ -4,7 +4,7 @@ description: >-
   A deployed military service member is reaching out for assistance in locating
   their missing canine companion, according to reports.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

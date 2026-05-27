@@ -4,7 +4,7 @@ description: >-
   Experience a house transformation inspired by a Pinterest moodboard, involving
   a full house tour, thrifting for unique pieces, and fun DIY projects.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T04:31:14+00:00'
 author: Taylor Winters
 tags:

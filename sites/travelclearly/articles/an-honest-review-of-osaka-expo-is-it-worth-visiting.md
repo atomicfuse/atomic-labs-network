@@ -5,7 +5,7 @@ description: >-
   local resident's perspective, covering must-see pavilions and practical advice
   for making the most of your visit.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T05:01:26+00:00'
 author: Taylor Winters
 tags:

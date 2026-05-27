@@ -9,7 +9,7 @@ description: >-
   maintain the gaming economy's health, fostering player interest without
   oversaturating the in-game economy.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T06:31:39+00:00'
 author: Taylor Winters
 tags:

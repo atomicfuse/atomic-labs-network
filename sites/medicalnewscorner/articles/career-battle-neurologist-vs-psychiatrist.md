@@ -5,7 +5,7 @@ description: >-
   compensation, lifestyle, length of training, and the pros and cons of each
   medical specialty to help you decide which is the best fit for you.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T04:36:07+00:00'
 author: admin
 tags:

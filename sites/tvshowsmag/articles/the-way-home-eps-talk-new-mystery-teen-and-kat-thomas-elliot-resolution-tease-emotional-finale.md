@@ -7,7 +7,7 @@ description: >-
   introduced in Season 3, Episode 9, tease the resolution of the
   Kat/Thomas/Elliot storyline, and hint at an emotional season finale.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T10:06:49+00:00'
 author: admin
 tags:

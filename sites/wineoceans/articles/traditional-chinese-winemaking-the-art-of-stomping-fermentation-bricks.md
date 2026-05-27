@@ -4,7 +4,7 @@ description: >-
   Exploring the ancient Chinese winemaking tradition of stomping fermentation
   bricks, a unique method that has been passed down through generations.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

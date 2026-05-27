@@ -6,7 +6,7 @@ description: >-
   section, leading to the loss of the upper stage during its seventh test
   flight.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-27T23:28:45+00:00'
 author: admin
 tags:

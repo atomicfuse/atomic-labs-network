@@ -2,7 +2,7 @@
 title: "Netflix to Remove Critically Underrated Title Soon"
 description: "Netflix is set to remove several popular films and series, urging viewers to catch up before they disappear. This rotation refreshes the platform's offerings but means saying goodbye to some favorites as new content arrives."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-02T10:46:47+00:00"
 author: "Taylor Winters"
 tags:

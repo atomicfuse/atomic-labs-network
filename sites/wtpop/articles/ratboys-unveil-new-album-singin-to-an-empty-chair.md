@@ -4,7 +4,7 @@ description: >-
   The indie rock band Ratboys has announced their new album titled 'Singin To An
   Empty Chair,' marking their latest musical release.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -2,7 +2,7 @@
 title: "Essential Gear for Your Dream Cafe: A Comprehensive Guide"
 description: "Discover the ideal equipment setup for your dream cafe, tailored to various coffee volumes and budgets. From entry-level to high-volume setups, learn how to choose the right gear for your business."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-26T09:15:23+00:00"
 author: "Taylor Winters"
 tags:

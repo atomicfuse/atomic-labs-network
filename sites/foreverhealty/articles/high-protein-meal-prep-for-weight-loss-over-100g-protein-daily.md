@@ -5,7 +5,7 @@ description: >-
   designed to support weight loss, with each day providing over 100 grams of
   protein.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T15:29:17+00:00'
 author: Elena Hartwell
 tags:

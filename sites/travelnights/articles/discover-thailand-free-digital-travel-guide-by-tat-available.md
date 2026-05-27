@@ -5,7 +5,7 @@ description: >-
   available to help travelers discover Thailand's destinations, attractions, and
   travel tips.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T08:21:24+00:00'
 author: Malcolm Anderson
 tags:

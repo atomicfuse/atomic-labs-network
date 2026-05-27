@@ -4,7 +4,7 @@ description: >-
   Reports indicate China is positioned to outpace Europe and the US in adopting
   advanced brake-by-wire technology for automotive applications.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

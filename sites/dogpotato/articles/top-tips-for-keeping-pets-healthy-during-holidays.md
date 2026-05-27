@@ -4,7 +4,7 @@ description: >-
   Essential guidance for pet owners on keeping their furry companions healthy
   and safe throughout the busy holiday period with proven strategies.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

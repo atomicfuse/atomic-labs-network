@@ -6,7 +6,7 @@ description: >-
   leveraging smart booking tactics, affordable accommodations, and local
   experiences.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-30T15:08:36+00:00'
 author: Malcolm Anderson
 tags:

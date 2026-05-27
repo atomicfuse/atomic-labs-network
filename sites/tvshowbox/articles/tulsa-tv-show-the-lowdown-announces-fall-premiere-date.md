@@ -6,7 +6,7 @@ description: >-
   highlights local stories, providing a platform for community voices and
   fostering a deeper understanding of the city.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T05:20:04+00:00'
 author: Taylor Winters
 tags:

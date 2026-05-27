@@ -6,7 +6,7 @@ description: >-
   highlighting the challenges streaming platforms face in managing high traffic
   during major releases.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T10:17:31+00:00'
 author: Taylor Winters
 tags:

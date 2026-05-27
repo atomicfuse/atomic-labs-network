@@ -4,7 +4,7 @@ description: >-
   Wine industry expert Todd Cirella shares insights on maximizing barrel
   efficiency in winemaking operations and production methods.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

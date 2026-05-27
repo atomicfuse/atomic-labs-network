@@ -6,7 +6,7 @@ description: >-
   to breakthrough performances and rising fame, with fans eagerly anticipating
   his future projects.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T09:43:32+00:00'
 author: Taylor Winters
 tags:

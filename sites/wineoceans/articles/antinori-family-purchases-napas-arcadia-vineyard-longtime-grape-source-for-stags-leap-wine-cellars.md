@@ -4,7 +4,7 @@ description: >-
   The renowned Italian Antinori family has purchased Arcadia Vineyard in Napa
   Valley, a longtime grape supplier to prestigious Stags Leap Wine Cellars.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

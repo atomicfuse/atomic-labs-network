@@ -2,7 +2,7 @@
 title: "Denver Casting Calls for Movies and TV Shows"
 description: "Denver has become a vibrant hub for film and television productions, offering scenic beauty and cultural richness. The city's supportive infrastructure and incentives have attracted numerous projects, providing exciting opportunities for local talent and boosting the local economy."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-07-24T04:55:35+00:00"
 author: "Taylor Winters"
 tags:

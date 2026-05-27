@@ -6,7 +6,7 @@ description: >-
   focusing on the immune system, aiming to improve patient outcomes through
   innovative therapies, early diagnosis, and personalized medicine.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T11:01:36+00:00'
 author: Nico Ashwood
 tags:

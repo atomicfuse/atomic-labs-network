@@ -2,7 +2,7 @@
 title: "Meet Picea Robotics, Roomba’s Innovative New Owner"
 description: "Picea Robotics' acquisition of iRobot marks a transformative moment in the home robotics industry, combining technological expertise to accelerate innovation. This strategic move expands market reach and sets a new benchmark for collaboration, driving faster advancements and enhancing smart home solutions."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-15T11:05:31+00:00"
 author: "Arthur Daly"
 tags:

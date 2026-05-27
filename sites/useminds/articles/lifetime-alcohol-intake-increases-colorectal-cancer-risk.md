@@ -6,7 +6,7 @@ description: >-
   cardiovascular conditions. Understanding these findings is essential for
   making informed lifestyle choices and guiding public health initiatives.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:51:36+00:00'
 author: Nico Ashwood
 tags:

@@ -6,7 +6,7 @@ description: >-
   architecture with eco-friendly design, aiming to transform Noida into a
   vibrant destination for locals and tourists.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-13T09:23:35+00:00'
 author: Malcolm Anderson
 tags:

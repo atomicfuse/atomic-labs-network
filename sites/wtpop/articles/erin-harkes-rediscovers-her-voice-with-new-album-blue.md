@@ -6,7 +6,7 @@ description: >-
   and engaging stage presence captivate audiences, offering a narrative journey
   of personal growth and emotional resilience.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T12:49:27+00:00'
 author: Lena Harper
 tags:

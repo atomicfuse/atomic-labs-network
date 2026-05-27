@@ -2,7 +2,7 @@
 title: "IColor 560 All in One Printer: Your Craft Printer Solution"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-01-30T14:33:35+00:00"
 author: "admin"
 tags:

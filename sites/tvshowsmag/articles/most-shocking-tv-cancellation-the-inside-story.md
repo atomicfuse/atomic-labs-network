@@ -2,7 +2,7 @@
 title: "Most Shocking TV Cancellation: The Inside Story"
 description: "Fans of \"Blue Bloods\" were surprised by its cancellation after captivating audiences for over a decade. Despite its popularity, the show ends, leaving viewers to reflect on its legacy and impact in television history."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-12T10:19:34+00:00"
 author: "Taylor Winters"
 tags:

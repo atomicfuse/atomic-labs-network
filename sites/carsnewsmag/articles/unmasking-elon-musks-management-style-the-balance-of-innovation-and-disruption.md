@@ -4,7 +4,7 @@ description: >-
   A look at Elon Musk's leadership style and its impact on innovation and
   disruption in the automotive industry.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -6,7 +6,7 @@ description: >-
   themes. The series captivates with stunning visuals and a talented cast,
   challenging perceptions of identity and self-worth in modern society.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T09:39:34+00:00'
 author: Taylor Winters
 tags:

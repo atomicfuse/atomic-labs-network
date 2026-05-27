@@ -2,7 +2,7 @@
 title: "15 Must-Watch TV Shows Premiering This Summer"
 description: "This article does not contain any usable content — the body consists only of a system/tool message rather than an actual article about summer TV show premieres."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-05-21T09:01:21+00:00"
 author: "Taylor Winters"
 tags:

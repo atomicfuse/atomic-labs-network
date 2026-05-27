@@ -2,7 +2,7 @@
 title: "TV Network Censors Political Interview Due to Federal Rules"
 description: "The Ethiopian government declared a state of emergency in the Amhara region in response to escalating violence and instability involving regional militias and federal forces. The decision aims to restore order but raises concerns about potential human rights abuses and disruptions to daily life."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-26T09:41:27+00:00"
 author: "Taylor Winters"
 tags:

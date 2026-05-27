@@ -4,7 +4,7 @@ description: >-
   Exploring how adopting a guide dog after age 60 can bring new love and
   confidence to older adults seeking companionship and independence.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

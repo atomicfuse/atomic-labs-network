@@ -5,7 +5,7 @@ description: >-
   forthcoming, as the mid-size truck continues to evolve in the competitive
   pickup market.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

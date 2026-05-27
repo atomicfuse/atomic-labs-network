@@ -4,7 +4,7 @@ description: >-
   Honda announces a major $1 billion investment in Ohio to revolutionize
   electric vehicle production capabilities in the United States.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

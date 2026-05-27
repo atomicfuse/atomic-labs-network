@@ -8,7 +8,7 @@ description: >-
   and history, Spanish cuisine, and Flamenco dancing as an excellent guide for a
   Spanish holiday.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T05:31:38+00:00'
 author: Taylor Winters
 tags:

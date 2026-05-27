@@ -4,7 +4,7 @@ description: >-
   Discover a comprehensive yoga workout session designed for fat loss with Dr.
   Sandhya Arya, a seasoned yoga expert with over two decades of experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-24T04:35:23+00:00'
 author: Taylor Winters
 tags:

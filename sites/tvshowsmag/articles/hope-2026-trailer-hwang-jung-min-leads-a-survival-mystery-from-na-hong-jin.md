@@ -2,7 +2,7 @@
 title: "Hope (2026) Trailer: Hwang Jung-min Leads a Survival Mystery from Na Hong-jin"
 description: "The official trailer for Hope introduces a remote harbor town shaken by a mysterious discovery and forced into a desperate fight for survival. Starring Hwang Jung-min, Jo In-sung, and Jung Ho-yeon, the film is directed by Na Hong-jin and set for a Fall 2026 U.S. release."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-05-18T09:01:48+00:00"
 author: "Taylor Winters"
 tags:

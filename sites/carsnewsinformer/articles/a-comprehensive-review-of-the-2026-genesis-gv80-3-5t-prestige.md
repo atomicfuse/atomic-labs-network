@@ -4,7 +4,7 @@ description: >-
   An in-depth look at the 2026 Genesis GV80 3.5T Prestige, exploring the latest
   updates and features of Genesis's flagship luxury SUV offering.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

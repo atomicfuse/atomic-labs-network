@@ -4,7 +4,7 @@ description: >-
   Archaeologists have made a remarkable discovery in Peru, uncovering the
   5000-year-old remains of what appears to be an elite woman from ancient times.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

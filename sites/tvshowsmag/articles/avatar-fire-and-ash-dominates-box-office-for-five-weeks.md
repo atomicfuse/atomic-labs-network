@@ -2,7 +2,7 @@
 title: "Avatar Fire and Ash Dominates Box Office for Five Weeks"
 description: "\"Avatar: The Way of Water\" continues to dominate the box office, achieving record-breaking success and captivating global audiences with its blend of groundbreaking visuals and storytelling. The film's sustained popularity highlights the enduring appeal of James Cameron's cinematic vision."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-19T10:07:33+00:00"
 author: "Taylor Winters"
 tags:

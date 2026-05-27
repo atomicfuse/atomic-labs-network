@@ -4,7 +4,7 @@ description: >-
   Tesla's fourth quarter financial results failed to meet analyst expectations,
   with automotive revenue declining 8% according to recent reports.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

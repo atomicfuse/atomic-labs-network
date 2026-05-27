@@ -5,7 +5,7 @@ description: >-
   with tips on furniture selection, space optimization, and textiles to achieve
   a stylish yet practical living space.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:05:26+00:00'
 author: Taylor Winters
 tags:

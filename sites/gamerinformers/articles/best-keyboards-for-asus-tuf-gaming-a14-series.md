@@ -6,7 +6,7 @@ description: >-
   responsiveness, and construction to withstand intense gaming demands,
   enhancing the overall gaming experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:17:28+00:00'
 author: Taylor Winters
 tags:

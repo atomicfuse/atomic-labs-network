@@ -6,7 +6,7 @@ description: >-
   opportunity to strategically target their advertising efforts by understanding
   the nuances of different game genres and player preferences.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T06:16:41+00:00'
 author: Taylor Winters
 tags:

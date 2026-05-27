@@ -2,7 +2,7 @@
 title: "Top 9 Must-Watch TV Shows This Week"
 description: "Television offers a diverse lineup this week, featuring thrilling dramas, light-hearted comedies, and thought-provoking documentaries. With new releases and continuing series, there's plenty of captivating content for every viewer to explore and enjoy on their screens."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-12T09:37:25+00:00"
 author: "Taylor Winters"
 tags:

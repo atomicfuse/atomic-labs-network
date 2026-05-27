@@ -7,7 +7,7 @@ description: >-
   personalized, beautiful, and functional spaces that reflect individual
   lifestyles.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T09:19:30+00:00'
 author: Taylor Winters
 tags:

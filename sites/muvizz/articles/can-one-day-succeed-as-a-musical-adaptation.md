@@ -5,7 +5,7 @@ description: >-
   considered, sparking discussion about its potential success in the
   entertainment industry.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -5,7 +5,7 @@ description: >-
   collection of Bentleys ever assembled at the Concours, featuring six unique
   classes, historic models, and a glimpse into the brand's future.
 type: standard
-status: review
+status: published
 publishDate: '2025-01-31T05:00:27+00:00'
 author: admin
 tags:

@@ -2,7 +2,7 @@
 title: "Can One Day Succeed as a Musical Adaptation?"
 description: "A new musical production by David Greig and David Nicholls promises to captivate audiences at the Edinburgh Lyceum Theatre, blending innovative storytelling and compelling music to set a new standard in musical theater."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-16T10:05:28+00:00"
 author: "Taylor Winters"
 tags:

@@ -6,7 +6,7 @@ description: >-
   alkaline hydrolysis, green burial, and human composting, offering more
   sustainable options for post-life care.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:43:17+00:00'
 author: Nico Ashwood
 tags:

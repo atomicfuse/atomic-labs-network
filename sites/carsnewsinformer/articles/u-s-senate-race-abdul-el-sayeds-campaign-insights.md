@@ -4,7 +4,7 @@ description: >-
   Latest developments from Abdul El-Sayed's U.S. Senate campaign as reported in
   recent political coverage.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

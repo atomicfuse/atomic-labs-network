@@ -4,7 +4,7 @@ description: >-
   Reports highlight the traditional wine making methods and farm life practices
   in Vietnam, showcasing cultural heritage and agricultural traditions.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

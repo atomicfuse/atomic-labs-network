@@ -6,7 +6,7 @@ description: >-
   offers a unique blend of style, power, and advanced technology, leaving an
   indelible mark on the gaming landscape.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T06:16:33+00:00'
 author: Taylor Winters
 tags:

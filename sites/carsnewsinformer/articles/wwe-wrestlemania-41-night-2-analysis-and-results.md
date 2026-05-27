@@ -4,7 +4,7 @@ description: >-
   WWE WrestleMania 41 Night 2 content appears to have been incorrectly
   categorized under automotive news coverage.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

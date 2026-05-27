@@ -7,7 +7,7 @@ description: >-
   insights from Jeremy Lefebvre, including strategies for navigating market
   downturns and resources for financial education.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:33:19+00:00'
 author: Tony Anderson
 tags:

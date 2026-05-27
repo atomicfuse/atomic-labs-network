@@ -6,7 +6,7 @@ description: >-
   with emotional depth, offering a refreshing take on reality TV that resonates
   with audiences through character development and engaging storytelling.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T04:35:25+00:00'
 author: Taylor Winters
 tags:

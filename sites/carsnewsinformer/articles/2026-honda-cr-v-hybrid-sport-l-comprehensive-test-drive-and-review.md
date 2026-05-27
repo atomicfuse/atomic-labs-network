@@ -5,7 +5,7 @@ description: >-
   performance, features, and overall capabilities in this comprehensive test
   drive review.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

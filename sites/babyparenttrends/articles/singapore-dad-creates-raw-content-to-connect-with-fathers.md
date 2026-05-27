@@ -7,7 +7,7 @@ description: >-
   support to both creators and audiences, impacting societal views on modern
   fatherhood.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T04:43:29+00:00'
 author: Taylor Winters
 tags:

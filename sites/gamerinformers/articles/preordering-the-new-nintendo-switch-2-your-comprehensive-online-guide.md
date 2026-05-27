@@ -6,7 +6,7 @@ description: >-
   pre-loaded for quick checkout, join online gaming communities for updates, and
   persevere through restocks.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T06:01:45+00:00'
 author: Taylor Winters
 tags:

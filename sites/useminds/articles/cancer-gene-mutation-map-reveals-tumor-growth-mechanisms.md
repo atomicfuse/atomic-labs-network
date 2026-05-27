@@ -6,7 +6,7 @@ description: >-
   enabling the creation of novel therapeutic strategies focused on genetic
   alterations, leading to more effective and less harmful cancer therapies.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:50:50+00:00'
 author: Nico Ashwood
 tags:

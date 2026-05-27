@@ -2,7 +2,7 @@
 title: "NYT Crossword Clues and Answers for March 5, 2026"
 description: "Puzzle games like Wordle have surged in popularity due to their accessibility and engaging challenges. These games not only entertain but also enhance cognitive skills, fostering a vibrant community where players share strategies and experiences."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-05T10:27:29+00:00"
 author: "Arthur Daly"
 tags:

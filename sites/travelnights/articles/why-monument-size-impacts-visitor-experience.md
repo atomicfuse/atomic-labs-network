@@ -6,7 +6,7 @@ description: >-
   Falls often leave visitors underwhelmed due to size, commercialization, or
   chaotic environments.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T10:57:24+00:00'
 author: Malcolm Anderson
 tags:

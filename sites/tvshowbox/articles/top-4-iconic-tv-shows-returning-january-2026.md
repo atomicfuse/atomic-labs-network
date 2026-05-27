@@ -2,7 +2,7 @@
 title: "Top 4 Iconic TV Shows Returning January 2026"
 description: "Television fans can look forward to January 2026, when iconic shows like \"Friends,\" \"Gilmore Girls,\" and \"The X-Files\" return with fresh content and modern twists, promising nostalgia and excitement for both loyal fans and new audiences."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-08T09:43:27+00:00"
 author: "Taylor Winters"
 tags:

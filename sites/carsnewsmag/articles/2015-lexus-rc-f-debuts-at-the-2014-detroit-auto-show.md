@@ -5,7 +5,7 @@ description: >-
   coupe powered by a 480-hp naturally aspirated V-8 and featuring what many
   consider the best execution of the brand's signature spindle grille to date.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T05:29:39+00:00'
 author: admin
 tags:

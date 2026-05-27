@@ -6,7 +6,7 @@ description: >-
   attract numerous projects, enriching the local economy and arts community
   while offering authentic representation of various communities.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:45:32+00:00'
 author: Jennifer Clarkson
 tags:

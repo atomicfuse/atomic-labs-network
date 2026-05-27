@@ -6,7 +6,7 @@ description: >-
   private about his condition, emphasizing the importance of respecting personal
   boundaries in the public eye.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-24T09:17:32+00:00'
 author: Taylor Winters
 tags:

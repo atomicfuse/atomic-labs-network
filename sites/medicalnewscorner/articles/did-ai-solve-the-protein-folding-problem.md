@@ -6,7 +6,7 @@ description: >-
   of biology's greatest challenges. This article explores whether AI has finally
   solved the notorious protein-folding problem.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-31T04:35:14+00:00'
 author: admin
 tags:

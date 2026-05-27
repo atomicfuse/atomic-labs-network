@@ -6,7 +6,7 @@ description: >-
   elections. This regulation is under scrutiny as modern media platforms
   influence political discourse and public perception significantly.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:41:28+00:00'
 author: Jennifer Clarkson
 tags:

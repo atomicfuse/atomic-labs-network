@@ -6,7 +6,7 @@ description: >-
   in inquiries from concerned travelers, providing guidance on respectful
   interaction and political neutrality.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T05:01:43+00:00'
 author: Taylor Winters
 tags:

@@ -2,7 +2,7 @@
 title: "Michelle Obama Reveals Parenting Tips on Call Her Daddy Podcast"
 description: "Turkish television drama \"Kalp Yarasi\" captivates with its intertwining romance and drama, set against Turkey's stunning landscapes. The series explores themes of love and conflict through the evolving relationship of Ferit and Ayse, resonating with global audiences."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-22T10:03:30+00:00"
 author: "Taylor Winters"
 tags:

@@ -2,7 +2,7 @@
 title: "Online Youth Safety Tips for Parents: Essential Presentation Guide"
 description: "In the digital age, protecting children online is crucial. Parents need tools and knowledge to safeguard against evolving risks. Educational initiatives empower parents with strategies and practical tips to create a safer internet environment for young users."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-23T10:03:23+00:00"
 author: "Taylor Winters"
 tags:

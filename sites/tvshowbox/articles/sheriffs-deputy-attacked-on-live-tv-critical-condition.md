@@ -6,7 +6,7 @@ description: >-
   operations. The incident underscores the need for improved safety measures and
   careful consideration of broadcasting risks.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:23:24+00:00'
 author: Taylor Winters
 tags:

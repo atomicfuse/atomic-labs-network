@@ -5,7 +5,7 @@ description: >-
   accounting regulations, marking a significant development for the electric
   vehicle manufacturer.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -7,7 +7,7 @@ description: >-
   future TV narratives with its unique perspective on the entertainment
   industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T10:15:30+00:00'
 author: Taylor Winters
 tags:

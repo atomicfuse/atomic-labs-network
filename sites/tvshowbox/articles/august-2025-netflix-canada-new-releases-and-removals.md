@@ -5,7 +5,7 @@ description: >-
   movies, and documentaries, including a fantasy series, a sci-fi thriller, and
   comedy specials, while some beloved classics prepare to depart the platform.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T04:47:20+00:00'
 author: Taylor Winters
 tags:

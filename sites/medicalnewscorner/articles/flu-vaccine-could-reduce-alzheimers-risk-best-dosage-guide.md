@@ -6,7 +6,7 @@ description: >-
   reducing inflammation and stimulating immunity, flu shots may indirectly
   protect against cognitive decline in older adults.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-13T08:19:19+00:00'
 author: Taylor Winters
 tags:

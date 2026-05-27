@@ -6,7 +6,7 @@ description: >-
   authentic narratives and influencer collaborations to engage audiences, while
   stressing the importance of measuring success and adapting to market changes.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-06T09:25:40+00:00'
 author: Malcolm Anderson
 tags:

@@ -4,7 +4,7 @@ description: >-
   Explore the haunting midseason developments of 'IT: Welcome to Derry' and
   catch up on the latest episodes streaming on HBO Max.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T10:10:32+00:00'
 author: Taylor Winters
 tags:

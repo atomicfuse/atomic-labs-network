@@ -2,7 +2,7 @@
 title: "Uganda’s Export Earnings Surge in October from Coffee and Gold"
 description: "Uganda's export earnings have surged, driven by coffee and gold sectors, highlighting its potential in the global market. Enhanced farming techniques and increased mining activities have bolstered production, contributing significantly to economic growth and foreign exchange reserves."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-18T09:15:42+00:00"
 author: "Taylor Winters"
 tags:

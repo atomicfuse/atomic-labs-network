@@ -4,7 +4,7 @@ description: >-
   Explore the unique world of tomato wine making, an unconventional fermentation
   adventure that challenges traditional winemaking boundaries.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

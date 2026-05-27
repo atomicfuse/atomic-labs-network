@@ -2,7 +2,7 @@
 title: "Best New TV Shows Premiering This Summer"
 description: "Request the full source article text to create a rewritten SEO-ready article about the best new TV shows premiering this summer."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-05-07T08:35:29+00:00"
 author: "Taylor Winters"
 tags:

@@ -2,7 +2,7 @@
 title: "New Netflix UK Movies and Shows in May 2026"
 description: "Netflix UK's May 2026 lineup includes The Four Seasons with Tina Fey and Steve Carell, Kylie Minogue programming, major documentaries, returning animation, international drama, thrillers, horror, and family films for a packed month of streaming."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-05-21T08:36:49+00:00"
 author: "Taylor Winters"
 tags:

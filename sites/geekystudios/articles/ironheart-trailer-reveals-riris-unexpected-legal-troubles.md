@@ -5,7 +5,7 @@ description: >-
   a brilliant inventor who creates her own advanced armor, blending intelligence
   and innovation as a new hero in the Marvel universe.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T10:53:18+00:00'
 author: Arthur Daly
 tags:

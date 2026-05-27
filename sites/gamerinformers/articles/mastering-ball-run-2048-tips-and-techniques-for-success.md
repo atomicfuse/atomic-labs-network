@@ -5,7 +5,7 @@ description: >-
   Run 2048, which combines the classic 2048 merging mechanic with dynamic
   ball-rolling gameplay.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:17:24+00:00'
 author: Taylor Winters
 tags:

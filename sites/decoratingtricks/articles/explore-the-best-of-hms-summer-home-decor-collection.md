@@ -4,7 +4,7 @@ description: >-
   Discover the exquisite pieces from H&M's Summer Collection and learn top
   decorating tips to enhance your home.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-12T04:05:24+00:00'
 author: Taylor Winters
 tags:

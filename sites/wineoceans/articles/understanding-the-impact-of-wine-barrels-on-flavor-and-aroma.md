@@ -4,7 +4,7 @@ description: >-
   Exploring how different types of wine barrels influence the taste and aroma
   characteristics of wines during the aging process.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

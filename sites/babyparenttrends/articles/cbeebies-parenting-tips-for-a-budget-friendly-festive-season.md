@@ -6,7 +6,7 @@ description: >-
   focus on teamwork and empathy, encouraging participation and meaningful
   interactions to strengthen family relationships in the digital age.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T10:05:34+00:00'
 author: Taylor Winters
 tags:

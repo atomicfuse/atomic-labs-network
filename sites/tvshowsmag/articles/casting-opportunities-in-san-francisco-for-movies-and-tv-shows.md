@@ -6,7 +6,7 @@ description: >-
   neighborhoods and stunning architecture offer a dynamic backdrop for
   storytelling in both movies and television.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T10:23:47+00:00'
 author: Taylor Winters
 tags:

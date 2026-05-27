@@ -2,7 +2,7 @@
 title: "Georgia DOT Holiday Travel: Lane Closures Suspended, Safety Tips Shared"
 description: "As the holiday season approaches, the Georgia Department of Transportation is suspending lane closures on major highways to reduce congestion and improve travel conditions. Travelers are encouraged to plan trips during less congested times and follow safety guidelines."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-18T10:52:20+00:00"
 author: "Malcolm Anderson"
 tags:

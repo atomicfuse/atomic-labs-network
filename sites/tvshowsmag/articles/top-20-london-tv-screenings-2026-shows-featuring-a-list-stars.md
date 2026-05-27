@@ -2,7 +2,7 @@
 title: "Top 20+ London TV Screenings 2026 Shows Featuring A-List Stars"
 description: "The London TV Screenings showcase diverse television series from around the world, offering a platform for new titles and highlighting trends that shape the global TV landscape. The event emphasizes innovation, quality, and diversity in storytelling, connecting creators with international audiences."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-23T10:19:20+00:00"
 author: "Taylor Winters"
 tags:

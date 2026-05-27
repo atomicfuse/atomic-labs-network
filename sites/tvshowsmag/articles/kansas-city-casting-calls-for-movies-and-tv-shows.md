@@ -6,7 +6,7 @@ description: >-
   the local economy and provides opportunities for creatives, enhancing the
   city's appeal in the industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T06:14:51+00:00'
 author: Taylor Winters
 tags:

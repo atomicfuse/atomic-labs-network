@@ -7,7 +7,7 @@ description: >-
   benefits, evidence remains inconsistent, with experts recommending a balanced
   diet for optimal health.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:31:00+00:00'
 author: Lena Ashwood
 tags:

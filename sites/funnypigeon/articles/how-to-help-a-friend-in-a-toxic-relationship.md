@@ -5,7 +5,7 @@ description: >-
   communication and empathy are key to fostering strong bonds, whether dealing
   with family dynamics, friendship hiccups, or romantic entanglements.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:43:30+00:00'
 author: Gabe Hernandez
 tags:

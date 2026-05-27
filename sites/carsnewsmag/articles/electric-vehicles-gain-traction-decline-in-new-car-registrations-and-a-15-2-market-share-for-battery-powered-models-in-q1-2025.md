@@ -4,7 +4,7 @@ description: >-
   Electric vehicles achieved a 15.2% market share in Q1 2025 even as overall new
   car registrations declined during the period.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

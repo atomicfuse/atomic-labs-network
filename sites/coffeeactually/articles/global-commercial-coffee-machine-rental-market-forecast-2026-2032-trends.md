@@ -6,7 +6,7 @@ description: >-
   businesses flexibility, cost savings, and access to the latest technology from
   2026 to 2032.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:15:36+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   adaptation support durable value despite cord-cutting and shifting media
   habits.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04T08:36:54+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   breakthroughs in cancer research, immunology, neurology, cardiology, and
   microbiology, potentially reshaping the future of medical treatment.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T05:46:41+00:00'
 author: Taylor Winters
 tags:

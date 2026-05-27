@@ -6,7 +6,7 @@ description: >-
   await the new season's deeper exploration of the Shtisel family's lives,
   promising fresh, engaging storytelling.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-03T10:09:17+00:00'
 author: Taylor Winters
 tags:

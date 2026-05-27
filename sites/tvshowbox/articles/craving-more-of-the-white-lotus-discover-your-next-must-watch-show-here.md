@@ -6,7 +6,7 @@ description: >-
   Undoing', 'Dead to Me', and 'Sharp Objects', each offering captivating
   storytelling, social commentary, and intriguing drama.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T07:31:40+00:00'
 author: Taylor Winters
 tags:

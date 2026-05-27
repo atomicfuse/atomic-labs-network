@@ -7,7 +7,7 @@ description: >-
   the importance of fit, experimentation, accessories, quality investments,
   personal style, and confidence to help men elevate their fashion game.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T08:45:30+00:00'
 author: Taylor Winters
 tags:

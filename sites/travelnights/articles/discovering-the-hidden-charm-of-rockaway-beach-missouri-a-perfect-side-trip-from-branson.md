@@ -6,7 +6,7 @@ description: >-
   Explore the tranquil town of Rockaway Beach, Missouri, as a delightful side
   trip from Branson. Enjoy local eateries, scenic views, and lakefront serenity.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:09:21+00:00'
 author: Malcolm Anderson
 tags:

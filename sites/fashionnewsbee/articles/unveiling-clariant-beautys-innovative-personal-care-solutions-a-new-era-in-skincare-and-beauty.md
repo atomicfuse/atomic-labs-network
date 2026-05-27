@@ -7,7 +7,7 @@ description: >-
   care solutions, including Eosidin for indoor pollution protection, Plantasens
   Biogum Tara for improved texture, and Vitipure for skin brightening.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T08:31:32+00:00'
 author: Taylor Winters
 tags:

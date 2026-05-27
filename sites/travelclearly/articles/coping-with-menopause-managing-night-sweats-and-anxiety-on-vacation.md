@@ -2,7 +2,7 @@
 title: "Coping with Menopause: Managing Night Sweats and Anxiety on Vacation"
 description: "Traveling during menopause can be challenging due to symptoms like hot flashes and anxiety. With thoughtful preparation and mindfulness, women can manage these symptoms effectively, ensuring a more comfortable and enjoyable travel experience."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-08-07T04:09:29+00:00"
 author: "Taylor Winters"
 tags:

@@ -4,7 +4,7 @@ description: >-
   Join interior designer Garrow Kedigian as he discovers unique finds at the
   Paris flea market for his new apartment.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:05:18+00:00'
 author: Taylor Winters
 tags:

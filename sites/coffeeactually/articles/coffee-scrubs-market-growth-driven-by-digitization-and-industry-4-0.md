@@ -2,7 +2,7 @@
 title: "Coffee Scrubs Market Growth Driven by Digitization and Industry 4.0"
 description: "The coffee scrubs market is growing as consumers seek natural skincare solutions. Coffee scrubs offer exfoliation and rejuvenation, appealing to eco-conscious buyers, with market expansion driven by innovative formulations and increased accessibility through e-commerce."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-08T09:15:38+00:00"
 author: "Taylor Winters"
 tags:

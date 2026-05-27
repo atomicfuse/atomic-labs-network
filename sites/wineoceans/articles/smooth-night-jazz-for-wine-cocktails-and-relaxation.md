@@ -4,7 +4,7 @@ description: >-
   Jazz music and wine cocktails create an ideal combination for evening
   relaxation, according to recent reports highlighting this classic pairing.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

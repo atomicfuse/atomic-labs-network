@@ -7,7 +7,7 @@ description: >-
   technologies, exemplifying community-driven innovation for sustainability and
   health improvement.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-12T11:51:23+00:00'
 author: Taylor Winters
 tags:

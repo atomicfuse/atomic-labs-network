@@ -6,7 +6,7 @@ description: >-
   suggests that travel can declutter the mind and soul, offering new
   perspectives and emotional healing.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T09:23:25+00:00'
 author: Malcolm Anderson
 tags:

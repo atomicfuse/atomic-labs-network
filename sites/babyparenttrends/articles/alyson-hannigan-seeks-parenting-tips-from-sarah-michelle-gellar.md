@@ -6,7 +6,7 @@ description: >-
   serenity, inspiring fans to find personal outlets for well-being and
   happiness.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T04:45:26+00:00'
 author: Taylor Winters
 tags:

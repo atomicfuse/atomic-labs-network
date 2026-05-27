@@ -2,7 +2,7 @@
 title: "Glossy Thriller Review: Perfect New Year TV Choice"
 description: "Netflix captivates audiences with \"His & Hers,\" a thrilling series starring Jon Bernthal and Tessa Thompson. Blending intrigue, drama, and suspense, the show explores themes of trust and betrayal, offering a riveting experience with compelling performances and an engaging plotline."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-08T09:39:31+00:00"
 author: "Taylor Winters"
 tags:

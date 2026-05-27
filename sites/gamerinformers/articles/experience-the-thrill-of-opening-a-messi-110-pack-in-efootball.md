@@ -4,7 +4,7 @@ description: >-
   Dive into the excitement of opening the highest-rated player pack in
   eFootball, featuring Messi 110, and enjoy thrilling gameplay.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T09:33:21+00:00'
 author: Taylor Winters
 tags:

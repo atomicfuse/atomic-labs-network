@@ -4,7 +4,7 @@ description: >-
   Experts are raising concerns about Canada's electric vehicle charging
   infrastructure falling behind industry needs and development targets.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

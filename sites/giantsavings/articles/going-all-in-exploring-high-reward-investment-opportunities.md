@@ -4,7 +4,7 @@ description: >-
   Discover the potential of high-reward stocks and how to navigate the
   investment landscape with Jeremy Lefebvre's insights and resources.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T10:47:25+00:00'
 author: Tony Anderson
 tags:

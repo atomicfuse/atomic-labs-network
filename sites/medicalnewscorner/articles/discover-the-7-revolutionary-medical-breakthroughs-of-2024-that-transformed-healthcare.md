@@ -8,7 +8,7 @@ description: >-
   advancements in HIV treatment, a surge in telemedicine, and the integration of
   AI in healthcare.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T04:16:33+00:00'
 author: Taylor Winters
 tags:

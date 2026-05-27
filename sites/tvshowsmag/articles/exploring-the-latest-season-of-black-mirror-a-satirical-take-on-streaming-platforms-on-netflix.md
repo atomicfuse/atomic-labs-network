@@ -8,7 +8,7 @@ description: >-
   compelling narrative, offering an unsettling view of a technology-driven
   future.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T10:02:01+00:00'
 author: Taylor Winters
 tags:

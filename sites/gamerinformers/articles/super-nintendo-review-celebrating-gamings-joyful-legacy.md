@@ -5,7 +5,7 @@ description: >-
   groundbreaking achievements and cultural influence, celebrating the console's
   lasting impact on gaming history for enthusiasts and newcomers alike.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T09:35:26+00:00'
 author: Taylor Winters
 tags:

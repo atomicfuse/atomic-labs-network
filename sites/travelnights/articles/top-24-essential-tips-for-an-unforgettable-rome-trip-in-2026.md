@@ -4,7 +4,7 @@ description: >-
   Discover insider tips to make your 2026 Rome trip seamless with advice on
   dining, transportation, and sightseeing.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T04:09:49+00:00'
 author: Malcolm Anderson
 tags:

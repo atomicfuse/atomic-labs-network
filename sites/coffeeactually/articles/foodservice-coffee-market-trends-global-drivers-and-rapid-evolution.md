@@ -7,7 +7,7 @@ description: >-
   healthier options, and adopting eco-friendly practices to meet new demands and
   achieve dynamic growth.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T09:15:33+00:00'
 author: Taylor Winters
 tags:

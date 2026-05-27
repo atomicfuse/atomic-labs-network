@@ -2,7 +2,7 @@
 title: "Top 7 Fantasy and Sci-Fi Series Needing TV Adaptations"
 description: "In a world where TV adaptations of novels thrive, many remarkable fantasy and sci-fi series remain untouched, despite their captivating storytelling and imaginative worlds. These literary treasures offer rich opportunities for new and engaging television narratives."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-11-20T10:41:35+00:00"
 author: "Arthur Daly"
 tags:

@@ -4,7 +4,7 @@ description: >-
   A short-form video review highlighting the handling performance of the Rivian
   Electric R1T's four-motor setup, as featured by MotorTrend.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-02T05:20:03+00:00'
 author: admin
 tags:

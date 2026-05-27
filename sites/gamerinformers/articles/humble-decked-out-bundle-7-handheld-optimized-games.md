@@ -7,7 +7,7 @@ description: >-
   dedicated players, while supporting charitable causes with a portion of its
   proceeds.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-08T09:33:35+00:00'
 author: Taylor Winters
 tags:

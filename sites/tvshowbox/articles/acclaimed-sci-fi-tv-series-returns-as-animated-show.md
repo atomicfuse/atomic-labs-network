@@ -6,7 +6,7 @@ description: >-
   intellectually engaging storytelling that honors its legacy while embracing
   modern animation techniques.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T09:37:20+00:00'
 author: Taylor Winters
 tags:

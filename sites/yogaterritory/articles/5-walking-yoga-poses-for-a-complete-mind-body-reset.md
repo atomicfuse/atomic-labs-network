@@ -6,7 +6,7 @@ description: >-
   flexibility, and balance while promoting mental clarity and reducing stress
   through mindfulness and breathing focus.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-17T04:35:34+00:00'
 author: Taylor Winters
 tags:

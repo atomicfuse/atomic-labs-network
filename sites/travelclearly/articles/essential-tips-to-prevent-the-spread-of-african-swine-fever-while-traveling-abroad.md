@@ -8,7 +8,7 @@ description: >-
   Travelers can help prevent its spread by avoiding pork products during
   international travel and adhering to biosecurity protocols.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T05:01:30+00:00'
 author: Taylor Winters
 tags:

@@ -2,7 +2,7 @@
 title: "The Astronaut (2025) Official Trailer: A First Look at Kate Mara’s New Sci-Fi Film"
 description: "Explore the first trailer of 'The Astronaut', starring Kate Mara and Laurence Fishburne, as it sets the stage for an exciting sci-fi adventure."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-18T09:37:21+00:00"
 author: "Taylor Winters"
 tags:

@@ -6,7 +6,7 @@ description: >-
   familiar humor and new character dynamics, set within another branch of the
   Dunder Mifflin paper company.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-04T04:49:25+00:00'
 author: Taylor Winters
 tags:

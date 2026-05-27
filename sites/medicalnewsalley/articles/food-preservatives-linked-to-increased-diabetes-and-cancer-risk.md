@@ -6,7 +6,7 @@ description: >-
   health-conscious, understanding these potential health impacts is crucial for
   making informed dietary choices and reducing exposure to harmful additives.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-08T09:31:38+00:00'
 author: Taylor Winters
 tags:

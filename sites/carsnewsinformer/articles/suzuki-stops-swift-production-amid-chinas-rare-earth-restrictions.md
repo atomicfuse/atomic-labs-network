@@ -4,7 +4,7 @@ description: >-
   Suzuki has reportedly stopped production of its Swift model amid restrictions
   on rare earth materials from China, highlighting supply chain vulnerabilities.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

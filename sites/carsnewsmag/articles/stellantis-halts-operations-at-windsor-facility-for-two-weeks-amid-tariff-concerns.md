@@ -7,7 +7,7 @@ description: >-
   weeks due to tariff-induced supply chain issues, impacting minivan production
   while the company commits to continuing employee pay during the shutdown.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T04:46:29+00:00'
 author: Taylor Winters
 tags:

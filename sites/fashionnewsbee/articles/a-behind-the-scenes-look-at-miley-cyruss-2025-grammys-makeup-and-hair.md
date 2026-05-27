@@ -5,7 +5,7 @@ description: >-
   carpet beauty look, including the exact makeup products used by celebrity
   artist James Kaliardos and hair techniques by stylist Bob Recine.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T01:47:12+00:00'
 author: admin
 tags:

@@ -6,7 +6,7 @@ description: >-
   James Kaliardos and hairstylist Bob Recine to achieve her sultry cat eye and
   sleek, straight hair.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T11:01:36+00:00'
 author: admin
 tags:

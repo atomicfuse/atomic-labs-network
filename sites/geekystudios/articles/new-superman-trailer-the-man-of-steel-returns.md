@@ -6,7 +6,7 @@ description: >-
   Stunning visual effects and a nuanced portrayal of the hero's dual identity
   promise an engaging cinematic experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T10:47:06+00:00'
 author: Arthur Daly
 tags:

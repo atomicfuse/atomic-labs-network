@@ -5,7 +5,7 @@ description: >-
   lessons learned from this investment decision, including portfolio
   realignment, performance outlook, and the importance of staying informed.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:45:25+00:00'
 author: Tony Anderson
 tags:

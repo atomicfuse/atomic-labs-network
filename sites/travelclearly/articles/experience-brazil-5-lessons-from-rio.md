@@ -4,7 +4,7 @@ description: >-
   A first-hand account of the lessons learned while traveling in Rio, Brazil,
   offering a glimpse into the local culture and vibrant streets.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T05:01:20+00:00'
 author: Taylor Winters
 tags:

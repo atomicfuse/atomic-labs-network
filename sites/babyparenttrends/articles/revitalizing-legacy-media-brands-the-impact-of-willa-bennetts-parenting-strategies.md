@@ -8,7 +8,7 @@ description: >-
   adaptability to help media veterans stay relevant in an ever-evolving
   industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T08:46:37+00:00'
 author: Taylor Winters
 tags:

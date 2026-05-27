@@ -6,7 +6,7 @@ description: >-
   This trend enhances soil quality, reduces landfill waste, and supports
   industries like agriculture, beauty, and construction.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T08:15:29+00:00'
 author: Taylor Winters
 tags:

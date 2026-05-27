@@ -6,7 +6,7 @@ description: >-
   An in-depth exploration of the global effort to capture Osama bin Laden after
   the September 11th attacks, presented in a three-part Netflix docuseries.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T08:44:43+00:00'
 author: Taylor Winters
 tags:

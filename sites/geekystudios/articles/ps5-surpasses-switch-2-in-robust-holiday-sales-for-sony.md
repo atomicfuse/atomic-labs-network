@@ -2,7 +2,7 @@
 title: "PS5 Surpasses Switch 2 in Robust Holiday Sales for Sony"
 description: "The PlayStation 5 surpassed the Nintendo Switch in sales during the holiday season, reflecting Sony's successful strategy and rising demand for next-gen consoles. This shift highlights the evolving gaming landscape and its implications for consumers and industry analysts."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-05T10:21:30+00:00"
 author: "Arthur Daly"
 tags:

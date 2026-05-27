@@ -4,7 +4,7 @@ description: >-
   VinePair names Oregon as the leading global wine destination, highlighting the
   state's growing reputation in the international wine community.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

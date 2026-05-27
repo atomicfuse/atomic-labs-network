@@ -5,7 +5,7 @@ description: >-
   regulatory approval before it can launch in Europe, mirroring the hurdles
   Tesla previously faced in China.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T11:48:50+00:00'
 author: Taylor Winters
 tags:

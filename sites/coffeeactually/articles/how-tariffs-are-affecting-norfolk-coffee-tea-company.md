@@ -2,7 +2,7 @@
 title: "How Tariffs Are Affecting Norfolk Coffee & Tea Company"
 description: "The global trade landscape is shifting, with tariffs affecting business dynamics. Norfolk Coffee & Tea Company is adapting by diversifying suppliers and improving efficiency to manage costs, while engaging consumers to maintain demand despite price changes."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-12T09:15:28+00:00"
 author: "Taylor Winters"
 tags:

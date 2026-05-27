@@ -5,7 +5,7 @@ description: >-
   live watch party, featuring fan-submitted videos that will keep you
   entertained.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T10:51:21+00:00'
 author: Gabe Hernandez
 tags:

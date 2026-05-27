@@ -4,7 +4,7 @@ description: >-
   Latest developments in connected car technology featuring major automakers
   Mercedes-Benz, Hyundai, Honda, and tech partners Nvidia and IIHS.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

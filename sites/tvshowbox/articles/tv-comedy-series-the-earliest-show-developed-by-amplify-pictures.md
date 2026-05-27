@@ -6,7 +6,7 @@ description: >-
   transitioning to mainstream television. The adaptation promises to deliver the
   same humor and relatable narratives that made the original a digital success.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T09:57:27+00:00'
 author: Taylor Winters
 tags:

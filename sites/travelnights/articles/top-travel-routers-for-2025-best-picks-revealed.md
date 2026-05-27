@@ -6,7 +6,7 @@ description: >-
   security and convenience, and converts wired connections into secure hotspots,
   enhancing connectivity and protecting data from cyber threats.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-04T04:09:32+00:00'
 author: Malcolm Anderson
 tags:

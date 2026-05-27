@@ -8,7 +8,7 @@ description: >-
   board to contribute his insights and experience to the company's future
   direction.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T06:16:43+00:00'
 author: Taylor Winters
 tags:

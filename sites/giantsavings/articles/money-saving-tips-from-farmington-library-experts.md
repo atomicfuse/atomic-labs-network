@@ -6,7 +6,7 @@ description: >-
   entrepreneurship through workshops, tools, and networking events to help
   individuals achieve financial stability.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:29:28+00:00'
 author: Tony Anderson
 tags:

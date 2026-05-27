@@ -5,7 +5,7 @@ description: >-
   that challenges traditional winemaking practices and offers creative
   possibilities.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

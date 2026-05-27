@@ -6,7 +6,7 @@ description: >-
   price raises questions about value. Ideal for tech-savvy users, it may not
   appeal to those prioritizing simplicity.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:17:33+00:00'
 author: Taylor Winters
 tags:

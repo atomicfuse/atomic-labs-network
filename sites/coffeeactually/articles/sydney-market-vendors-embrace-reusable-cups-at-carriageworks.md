@@ -2,7 +2,7 @@
 title: "Sydney Market Vendors Embrace Reusable Cups at Carriageworks"
 description: "Sydney's Carriageworks Farmers Market eliminates single-use coffee cups, encouraging sustainable practices by promoting reusable mugs. This initiative reduces waste and sets a precedent for other markets, highlighting the power of community-driven efforts in environmental responsibility."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-23T09:15:30+00:00"
 author: "Taylor Winters"
 tags:

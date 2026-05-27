@@ -6,7 +6,7 @@ description: >-
   Preparation and awareness will ensure a smooth journey, allowing fans to focus
   on cheering their team to victory.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:45:33+00:00'
 author: Taylor Winters
 tags:

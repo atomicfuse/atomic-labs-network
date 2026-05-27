@@ -4,7 +4,7 @@ description: >-
   Learn effective strategies to address common dog behavior issues and keep your
   canine companion safe during holiday celebrations with expert guidance.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -8,7 +8,7 @@ description: >-
   can significantly reduce the risks of fractures and heart complications in
   people approaching their 60s.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T04:16:34+00:00'
 author: Taylor Winters
 tags:

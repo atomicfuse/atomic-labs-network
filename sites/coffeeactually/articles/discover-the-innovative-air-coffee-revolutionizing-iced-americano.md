@@ -6,7 +6,7 @@ description: >-
   government supports this transition with policies and incentives to boost the
   renewable energy sector.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T09:15:36+00:00'
 author: Taylor Winters
 tags:

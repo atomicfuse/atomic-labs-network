@@ -4,7 +4,7 @@ description: >-
   Discover how to transform your living room and kitchen into a cozy fall haven
   with OmabelleTV's decorating tips and product recommendations.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T04:05:26+00:00'
 author: Taylor Winters
 tags:

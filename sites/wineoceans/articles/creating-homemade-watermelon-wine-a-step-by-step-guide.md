@@ -4,7 +4,7 @@ description: >-
   Learn how to make watermelon wine at home with this comprehensive guide
   covering the winemaking process from fruit selection to fermentation.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

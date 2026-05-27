@@ -6,7 +6,7 @@ description: >-
   rebellion, and moral dilemmas under the Galactic Empire, with fans eagerly
   anticipating the sequel.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T04:25:28+00:00'
 author: Taylor Winters
 tags:

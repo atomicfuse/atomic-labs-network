@@ -2,7 +2,7 @@
 title: "2025 Film and TV Productions Boost North Carolina Economy"
 description: "North Carolina's film and TV industry is projected to inject $185.5 million into the local economy in 2023, driven by diverse landscapes and supportive infrastructure. This growth supports thousands of jobs and boosts local businesses, solidifying the state's reputation as a premier filming destination."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-23T09:47:23+00:00"
 author: "Taylor Winters"
 tags:

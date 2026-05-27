@@ -7,7 +7,7 @@ description: >-
   immersive experience, influencing music trends and fostering creative
   collaborations.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T09:41:21+00:00'
 author: Taylor Winters
 tags:

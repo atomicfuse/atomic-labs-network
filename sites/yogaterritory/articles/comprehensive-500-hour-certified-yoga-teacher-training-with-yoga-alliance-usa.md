@@ -5,7 +5,7 @@ description: >-
   certified training course, accredited by Yoga Alliance USA, offering a
   multi-style curriculum.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-26T04:47:23+00:00'
 author: Taylor Winters
 tags:

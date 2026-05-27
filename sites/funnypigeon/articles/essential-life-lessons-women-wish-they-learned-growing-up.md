@@ -6,7 +6,7 @@ description: >-
   setting boundaries, and prioritizing health awareness. These insights offer
   guidance and empowerment for living a fulfilling and confident life.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T10:29:28+00:00'
 author: Gabe Hernandez
 tags:

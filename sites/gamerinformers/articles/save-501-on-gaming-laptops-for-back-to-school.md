@@ -6,7 +6,7 @@ description: >-
   portability, with discounts up to $501, making it an ideal time to invest for
   academic and gaming needs.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T04:17:28+00:00'
 author: Taylor Winters
 tags:

@@ -6,7 +6,7 @@ description: >-
   promises unparalleled smoothness and responsiveness, enhancing the gaming
   experience with fluidity and clarity in fast-paced genres.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T10:36:46+00:00'
 author: Taylor Winters
 tags:

@@ -2,7 +2,7 @@
 title: "Golden Globes 2023: Nikki Glaser Hosts Amidst World Events"
 description: "The 2026 Golden Globes featured unexpected wins, breakthrough performances, and memorable hosts, while addressing social issues and facing some controversies. The event highlighted the evolving entertainment landscape with calls for inclusivity and representation in future ceremonies."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-12T10:05:29+00:00"
 author: "Taylor Winters"
 tags:

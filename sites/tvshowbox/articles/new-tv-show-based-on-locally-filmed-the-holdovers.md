@@ -6,7 +6,7 @@ description: >-
   The series, set in the 1970s, explores themes of resilience and connection,
   energizing the local community.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T10:05:32+00:00'
 author: Taylor Winters
 tags:

@@ -2,7 +2,7 @@
 title: "March 2026 Netflix: New Movies and TV Shows Released"
 description: "Netflix's March 2026 lineup includes blockbuster releases, returning favorites, and hidden gems, offering diverse entertainment options. With family-friendly selections and thought-provoking documentaries, the platform caters to varied tastes, ensuring engaging content for viewers worldwide."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-02T10:07:27+00:00"
 author: "Taylor Winters"
 tags:

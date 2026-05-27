@@ -4,7 +4,7 @@ description: >-
   A fashion guide covering the dress code and style recommendations for Megeve,
   the renowned French Alpine resort.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T09:48:32+00:00'
 author: admin
 tags:

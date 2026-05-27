@@ -2,7 +2,7 @@
 title: "Top Tourist Destinations Heating Up Year-Round"
 description: "China plans to establish a manned lunar research station by 2030, highlighting its commitment to space exploration. The project aims to foster international collaboration, advance scientific research, and utilize lunar resources, marking a significant step in China's technological and diplomatic efforts."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-15T11:29:24+00:00"
 author: "Malcolm Anderson"
 tags:

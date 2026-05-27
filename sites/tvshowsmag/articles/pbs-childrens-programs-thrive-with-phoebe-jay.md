@@ -2,7 +2,7 @@
 title: "PBS Children’s Programs Thrive with ‘Phoebe & Jay’"
 description: "PBS is reshaping its children's programming by canceling some shows to focus on digital engagement, reflecting broader industry trends. This shift aims to adapt to tech-savvy audiences and maintain educational quality through innovative digital platforms and collaborations."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-02T11:16:49+00:00"
 author: "Taylor Winters"
 tags:

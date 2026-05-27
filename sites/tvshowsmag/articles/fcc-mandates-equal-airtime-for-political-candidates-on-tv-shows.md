@@ -6,7 +6,7 @@ description: >-
   broadcasters to provide equal airtime to all candidates, prompting discussions
   about its relevance in today's media landscape.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:15:33+00:00'
 author: Taylor Winters
 tags:

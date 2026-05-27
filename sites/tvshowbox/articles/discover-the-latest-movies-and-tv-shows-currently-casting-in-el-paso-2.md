@@ -6,7 +6,7 @@ description: >-
   attract a variety of productions, with local casting calls spanning genres and
   active government support making El Paso a major industry hub.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T06:46:42+00:00'
 author: Taylor Winters
 tags:

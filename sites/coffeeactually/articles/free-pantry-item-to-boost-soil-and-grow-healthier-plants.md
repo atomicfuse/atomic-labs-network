@@ -6,7 +6,7 @@ description: >-
   soil structure, act as mulch, and boost composting, benefiting plant growth
   when used properly.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T04:01:28+00:00'
 author: Taylor Winters
 tags:

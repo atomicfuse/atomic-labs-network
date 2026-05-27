@@ -4,7 +4,7 @@ description: >-
   Historic Newton Vineyard in Napa Valley announces permanent closure, marking
   the end of an era for the renowned winery according to reports.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

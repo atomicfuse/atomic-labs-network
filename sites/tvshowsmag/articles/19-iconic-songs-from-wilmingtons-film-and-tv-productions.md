@@ -6,7 +6,7 @@ description: >-
   Productions filmed here often reflect the area's vibrant spirit, creating
   memorable cinematic experiences with lasting cultural impact.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-12T10:09:27+00:00'
 author: Taylor Winters
 tags:

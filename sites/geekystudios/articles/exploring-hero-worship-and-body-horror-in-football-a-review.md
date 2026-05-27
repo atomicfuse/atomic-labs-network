@@ -2,7 +2,7 @@
 title: "Exploring Hero Worship and Body Horror in Football: A Review"
 description: "Horror and comedy collide in \"Him,\" a film directed by Derrick Hayes. Starring Marlon Wayans and Tyriq Withers, it explores the dark side of high school football, blending thrills and humor for a unique cinematic experience."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-09-18T07:23:29+00:00"
 author: "Arthur Daly"
 tags:

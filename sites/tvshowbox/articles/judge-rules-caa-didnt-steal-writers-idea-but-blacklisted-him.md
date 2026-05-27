@@ -2,7 +2,7 @@
 title: "Judge Rules CAA Didn’t Steal Writer’s Idea but Blacklisted Him"
 description: "A judge ruled that Creative Artists Agency (CAA) did not steal writer John Musero's ideas or engage in any wrongdoing, highlighting the importance of clear contracts and legal agreements in protecting intellectual property within the entertainment industry."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-06-19T04:31:24+00:00"
 author: "Taylor Winters"
 tags:

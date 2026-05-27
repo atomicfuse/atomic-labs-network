@@ -9,7 +9,7 @@ description: >-
   outlook while preserving the home's essence, demonstrating a delicate balance
   between respecting the past and embracing the future.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T11:36:07+00:00'
 author: Taylor Winters
 tags:

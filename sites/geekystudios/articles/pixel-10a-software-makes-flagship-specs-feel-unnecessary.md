@@ -2,7 +2,7 @@
 title: "Pixel 10a Software Makes Flagship Specs Feel Unnecessary"
 description: "The Pixel 10a shows that clean software, reliable cameras, practical battery life, and long-term updates can make a midrange Android phone feel smarter than paying flagship prices."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-05-04T14:19:59+00:00"
 author: "Arthur Daly"
 tags:

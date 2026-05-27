@@ -2,7 +2,7 @@
 title: "Nirvana Announces Exciting Plans for 2026"
 description: "Nirvana Brewery aims for carbon neutrality by 2026, focusing on sustainability through innovative brewing with coffee beans, partnerships with eco-friendly suppliers, renewable energy investments, and recyclable packaging, while educating consumers about environmentally conscious choices."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-22T09:15:34+00:00"
 author: "Taylor Winters"
 tags:

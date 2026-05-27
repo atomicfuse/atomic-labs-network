@@ -4,7 +4,7 @@ description: >-
   Renault unveils the cutting-edge Filante concept car designed to break
   electric vehicle efficiency records in the automotive industry.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

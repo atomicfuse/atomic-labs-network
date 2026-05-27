@@ -6,7 +6,7 @@ description: >-
   offering seamless transitions between gaming and everyday tasks, ergonomic
   controls, powerful performance, and access to the Android ecosystem.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T10:25:29+00:00'
 author: Arthur Daly
 tags:

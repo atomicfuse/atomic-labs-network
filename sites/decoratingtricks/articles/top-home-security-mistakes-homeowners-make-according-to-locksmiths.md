@@ -5,7 +5,7 @@ description: >-
   Addressing issues like inadequate deadbolts, window security, and outdated
   locks enhances safety and provides peace of mind.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T09:19:31+00:00'
 author: Taylor Winters
 tags:

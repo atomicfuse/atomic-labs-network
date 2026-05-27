@@ -4,7 +4,7 @@ description: >-
   Discover a 20-minute yoga routine designed to alleviate bloating and promote
   natural burping through gentle movements.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T04:43:19+00:00'
 author: Taylor Winters
 tags:

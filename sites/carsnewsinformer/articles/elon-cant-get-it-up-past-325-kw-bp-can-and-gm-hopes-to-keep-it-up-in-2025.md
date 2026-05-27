@@ -4,7 +4,7 @@ description: >-
   Tesla faces 325kW charging limitations while BP achieves higher power output
   and GM sets charging infrastructure goals for 2025.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

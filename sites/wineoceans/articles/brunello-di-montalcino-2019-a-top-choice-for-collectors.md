@@ -4,7 +4,7 @@ description: >-
   The 2019 vintage of Brunello Di Montalcino has gained recognition among wine
   collectors as a standout choice for investment and cellaring.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -6,7 +6,7 @@ description: >-
   and emphasizing her enduring impact both on and off the screen as an actress
   and humanitarian.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:27:25+00:00'
 author: Gabe Hernandez
 tags:

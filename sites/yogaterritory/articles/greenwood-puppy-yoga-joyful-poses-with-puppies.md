@@ -6,7 +6,7 @@ description: >-
   connection, and supports local animal shelters by increasing adoption chances
   for puppies involved in the sessions.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T09:53:32+00:00'
 author: Taylor Winters
 tags:

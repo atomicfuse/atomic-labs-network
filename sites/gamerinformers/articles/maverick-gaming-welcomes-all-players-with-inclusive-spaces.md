@@ -6,7 +6,7 @@ description: >-
   honing. Their commitment to diversity and technology enhances the gaming
   experience and sets a new industry standard.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:33:22+00:00'
 author: Taylor Winters
 tags:

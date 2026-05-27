@@ -6,7 +6,7 @@ description: >-
   Embracing personal preferences over popular opinion can enhance the viewing
   experience, leading to more satisfying entertainment choices.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T05:46:06+00:00'
 author: Taylor Winters
 tags:

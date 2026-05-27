@@ -2,7 +2,7 @@
 title: "30 Unique Travel Gift Ideas for Globetrotters and Adventure Lovers"
 description: "A curated list of top-notch gift ideas for avid travelers, covering everything from tech gadgets like compact cameras and portable power banks to comfort essentials and luxury travel bags."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-04-21T05:01:41+00:00"
 author: "Taylor Winters"
 tags:

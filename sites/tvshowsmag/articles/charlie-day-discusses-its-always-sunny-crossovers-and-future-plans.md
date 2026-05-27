@@ -2,7 +2,7 @@
 title: "Charlie Day Discusses ‘It’s Always Sunny’ Crossovers and Future Plans"
 description: "\"It's Always Sunny in Philadelphia\" continues to captivate audiences with its fearless humor and irreverence. As the show approaches its 17th season, fans anticipate new antics from the gang, whose enduring chemistry remains central to the series' appeal."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-07-10T05:15:30+00:00"
 author: "Taylor Winters"
 tags:

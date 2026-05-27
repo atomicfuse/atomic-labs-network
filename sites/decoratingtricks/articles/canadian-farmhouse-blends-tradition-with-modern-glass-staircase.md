@@ -6,7 +6,7 @@ description: >-
   preserved its historical essence while adding modern features like a glass
   staircase, maximizing natural light and sustainability.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T09:19:27+00:00'
 author: Taylor Winters
 tags:

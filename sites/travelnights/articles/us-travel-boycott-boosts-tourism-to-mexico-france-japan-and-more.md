@@ -6,7 +6,7 @@ description: >-
   experiences. Canada plans to expand its travel options by 2025, enhancing its
   global tourism appeal.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-08T12:59:54+00:00'
 author: Malcolm Anderson
 tags:

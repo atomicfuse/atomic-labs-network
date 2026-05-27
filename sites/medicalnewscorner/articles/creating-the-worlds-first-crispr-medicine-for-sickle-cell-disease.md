@@ -7,7 +7,7 @@ description: >-
   Pharmaceuticals, became an FDA-approved gene therapy making a monumental
   impact on patients with sickle cell disease.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-01T04:36:08+00:00'
 author: admin
 tags:

@@ -4,7 +4,7 @@ description: >-
   Discover three must-have tools for any DIY enthusiast that even the pros might
   not want you to know about.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:01:41+00:00'
 author: Taylor Winters
 tags:

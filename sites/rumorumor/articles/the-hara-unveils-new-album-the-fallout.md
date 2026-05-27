@@ -6,7 +6,7 @@ description: >-
   performances, the band captivates with a unique fusion of rock, pop, and
   alternative music, offering fans a fresh experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-28T05:23:23+00:00'
 author: Priscilla Cruz
 tags:

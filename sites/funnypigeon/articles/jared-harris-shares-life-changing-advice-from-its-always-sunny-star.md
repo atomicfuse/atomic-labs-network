@@ -6,7 +6,7 @@ description: >-
   series "Foundation," highlighting the importance of adapting to new
   storytelling styles and understanding character nuances.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T10:29:28+00:00'
 author: Gabe Hernandez
 tags:

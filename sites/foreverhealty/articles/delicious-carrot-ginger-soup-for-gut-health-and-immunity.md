@@ -4,7 +4,7 @@ description: >-
   Discover a comforting carrot ginger soup recipe perfect for boosting gut
   health and immunity.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T15:30:06+00:00'
 author: Elena Hartwell
 tags:

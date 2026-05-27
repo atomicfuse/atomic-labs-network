@@ -4,7 +4,7 @@ description: >-
   A new collection of funny animal videos promises to deliver more entertaining
   moments for pets enthusiasts and animal lovers everywhere.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

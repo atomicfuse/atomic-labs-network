@@ -4,7 +4,7 @@ description: >-
   U.S. automotive sales experienced a notable surge during the second quarter as
   concerns over potential tariffs influence consumer purchasing decisions.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

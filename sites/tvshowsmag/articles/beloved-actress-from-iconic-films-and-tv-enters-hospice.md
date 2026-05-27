@@ -6,7 +6,7 @@ description: >-
   impact on the entertainment industry and inspiring future generations through
   her acclaimed performances and philanthropic efforts.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-10T10:11:25+00:00'
 author: Taylor Winters
 tags:

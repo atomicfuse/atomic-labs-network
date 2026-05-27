@@ -4,7 +4,7 @@ description: >-
   BMW's X3 xDrive M Sport Pro receives a significant redesign, marking a major
   update to the popular luxury SUV model according to recent reports.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

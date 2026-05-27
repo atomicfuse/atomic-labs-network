@@ -4,7 +4,7 @@ description: >-
   The beloved Star Trek series returns for its third season, promising infinite
   adventures and thrilling exploits exclusively on Paramount+.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T06:46:21+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   destruction of 17 vehicles, marking a major incident for the electric vehicle
   retailer.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

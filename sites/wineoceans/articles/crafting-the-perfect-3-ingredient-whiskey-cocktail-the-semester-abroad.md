@@ -4,7 +4,7 @@ description: >-
   A minimalist approach to cocktail making features a three-ingredient whiskey
   drink called 'The Semester Abroad' gaining attention in beverage circles.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

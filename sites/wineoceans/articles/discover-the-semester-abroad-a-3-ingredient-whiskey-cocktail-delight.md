@@ -4,7 +4,7 @@ description: >-
   Discover The Semester Abroad, a straightforward whiskey cocktail that requires
   just three ingredients for a delightful drinking experience.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

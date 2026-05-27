@@ -5,7 +5,7 @@ description: >-
   his role in the Trump administration, raising questions about potential
   conflicts.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

@@ -4,7 +4,7 @@ description: >-
   Explore the latest spring beauty trends that will help you refresh and revamp
   your look for the new season ahead.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

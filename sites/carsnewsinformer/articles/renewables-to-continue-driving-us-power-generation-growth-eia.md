@@ -5,7 +5,7 @@ description: >-
   will continue to be the primary driver of US power generation growth according
   to recent forecasts.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

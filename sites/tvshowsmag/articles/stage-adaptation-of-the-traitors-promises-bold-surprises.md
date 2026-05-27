@@ -6,7 +6,7 @@ description: >-
   the show's signature suspense and drama with the intimacy and immediacy of
   live theater.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:11:30+00:00'
 author: Taylor Winters
 tags:

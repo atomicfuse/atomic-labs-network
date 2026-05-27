@@ -5,7 +5,7 @@ description: >-
   must-watch shows for the week, though the original article content was
   unavailable for processing.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-11T09:01:54+00:00'
 author: Taylor Winters
 tags:

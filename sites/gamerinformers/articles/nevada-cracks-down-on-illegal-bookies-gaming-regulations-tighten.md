@@ -7,7 +7,7 @@ description: >-
   prompting intensified crackdowns and technological advancements to preserve
   the state's gaming standards.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T09:31:29+00:00'
 author: Taylor Winters
 tags:

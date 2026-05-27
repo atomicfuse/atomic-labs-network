@@ -2,7 +2,7 @@
 title: NBC 6 News — Latest Updates and Breaking Stories
 description: A roundup of recent NBC 6 news coverage and trending stories.
 type: standard
-status: review
+status: published
 publishDate: "2026-05-26"
 author: Editorial Team
 tags:

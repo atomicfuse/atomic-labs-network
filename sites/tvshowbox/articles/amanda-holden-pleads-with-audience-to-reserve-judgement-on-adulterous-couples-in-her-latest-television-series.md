@@ -8,7 +8,7 @@ description: >-
   challenge couples to compete against each other on a deserted island for
   exciting prizes.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T07:01:36+00:00'
 author: Taylor Winters
 tags:

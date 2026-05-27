@@ -2,7 +2,7 @@
 title: "Wikipedia Celebrates 25 Years: Insights from Volunteer Editors"
 description: "Wikipedia, nearing its 25th anniversary, exemplifies the power of collaboration and innovation in information sharing. From a small project, it has grown into a global knowledge hub with over 55 million articles in more than 300 languages."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-15T10:37:25+00:00"
 author: "Arthur Daly"
 tags:

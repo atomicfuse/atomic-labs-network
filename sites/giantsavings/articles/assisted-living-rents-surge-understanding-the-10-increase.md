@@ -7,7 +7,7 @@ description: >-
   exploring alternative living arrangements to manage rising expenses
   effectively.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T10:29:29+00:00'
 author: Tony Anderson
 tags:

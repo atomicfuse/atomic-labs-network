@@ -2,7 +2,7 @@
 title: "Best New TV Shows Coming This Summer"
 description: "A brief note requesting the full source article text to create an original, JSON-safe, SEO-formatted HTML rewrite."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-05-07T09:05:23+00:00"
 author: "Taylor Winters"
 tags:

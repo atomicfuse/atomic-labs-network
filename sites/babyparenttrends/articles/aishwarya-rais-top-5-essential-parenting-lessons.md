@@ -6,7 +6,7 @@ description: >-
   insights offer valuable lessons for nurturing well-rounded children equipped
   to navigate today's complex world.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T10:15:32+00:00'
 author: Taylor Winters
 tags:

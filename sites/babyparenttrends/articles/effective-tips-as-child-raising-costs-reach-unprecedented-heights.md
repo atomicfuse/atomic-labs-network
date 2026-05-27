@@ -7,7 +7,7 @@ description: >-
   preloved items, meal planning, saving on utilities, and opting for free
   activities can help.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T09:31:42+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Join Afshin and Shokoofe as they tackle a joint venture in redecorating their
   space, discuss their travel plans, and express gratitude to their helpers.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-10T04:31:20+00:00'
 author: Taylor Winters
 tags:

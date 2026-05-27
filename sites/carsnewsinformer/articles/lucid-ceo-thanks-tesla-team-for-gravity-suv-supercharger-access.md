@@ -5,7 +5,7 @@ description: >-
   for the company's Gravity SUV, marking a significant development in EV
   charging collaboration.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

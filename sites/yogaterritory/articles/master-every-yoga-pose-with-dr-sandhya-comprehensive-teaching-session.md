@@ -4,7 +4,7 @@ description: >-
   Discover essential yoga poses with Dr. Sandhya Arya, a seasoned yoga expert
   with over 20 years of experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-10T04:41:18+00:00'
 author: Taylor Winters
 tags:

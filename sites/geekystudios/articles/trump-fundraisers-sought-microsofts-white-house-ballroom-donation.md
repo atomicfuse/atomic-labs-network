@@ -6,7 +6,7 @@ description: >-
   demonstrating the potential of public-private efforts to enhance public
   infrastructure and modernize iconic venues for future events.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:17:27+00:00'
 author: Arthur Daly
 tags:

@@ -2,7 +2,7 @@
 title: "New Starfleet Academy Aliens Revive ’90s Star Trek Lore"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-12T10:33:24+00:00"
 author: "Arthur Daly"
 tags:

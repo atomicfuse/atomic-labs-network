@@ -6,7 +6,7 @@ description: >-
   health challenges, including chronic disease management, mental health, and
   rural healthcare access.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T09:29:28+00:00'
 author: Taylor Winters
 tags:

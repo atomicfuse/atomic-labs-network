@@ -6,7 +6,7 @@ description: >-
   intriguing personal revelations from shows like '90 Day Fiancé', 'Jersey
   Shore', and more.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T06:46:31+00:00'
 author: Taylor Winters
 tags:

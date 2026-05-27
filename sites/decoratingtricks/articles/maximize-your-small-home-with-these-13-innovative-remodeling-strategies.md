@@ -7,7 +7,7 @@ description: >-
   connectivity, and eco-friendliness, making homes a source of comfort, joy, and
   inspiration.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T15:37:21+00:00'
 author: Taylor Winters
 tags:

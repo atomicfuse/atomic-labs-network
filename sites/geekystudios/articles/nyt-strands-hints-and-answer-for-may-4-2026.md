@@ -5,7 +5,7 @@ description: >-
   TYPES as the spangram and theme answers including ASPEN, BIRCH, CEDAR, MAPLE,
   REDWOOD, SPRUCE, and WILLOW.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04T09:14:42+00:00'
 author: Arthur Daly
 tags:

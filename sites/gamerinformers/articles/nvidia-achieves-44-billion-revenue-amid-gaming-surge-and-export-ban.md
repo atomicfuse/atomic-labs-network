@@ -6,7 +6,7 @@ description: >-
   demands. The company's strategic prowess and innovation in gaming technology
   have driven its robust financial performance.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-29T04:21:32+00:00'
 author: Taylor Winters
 tags:

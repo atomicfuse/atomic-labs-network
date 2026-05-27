@@ -4,7 +4,7 @@ description: >-
   The Ram 1500 Express trim is reportedly being positioned as an affordable
   option under $50,000, according to recent reports.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

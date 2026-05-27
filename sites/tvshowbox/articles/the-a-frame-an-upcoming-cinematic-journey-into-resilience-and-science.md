@@ -4,7 +4,7 @@ description: >-
   Explore 'The A-Frame,' a gripping tale about a pianist confronting
   life-altering challenges and the mysterious scientist offering hope.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-17T04:29:24+00:00'
 author: Taylor Winters
 tags:

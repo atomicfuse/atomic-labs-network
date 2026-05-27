@@ -6,7 +6,7 @@ description: >-
   hole or intergalactic forces may be responsible, offering insights into cosmic
   dynamics and the universe's evolution.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-12T10:35:25+00:00'
 author: Nico Ashwood
 tags:

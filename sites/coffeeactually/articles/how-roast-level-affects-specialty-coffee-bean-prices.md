@@ -2,7 +2,7 @@
 title: "How Roast Level Affects Specialty Coffee Bean Prices"
 description: "Specialty coffee pricing involves balancing roast level, sensory quality, and market dynamics. Each factor influences value perception and price. As demand for high-quality, ethically produced coffee rises, the market for specialty beans continues to grow, offering new opportunities."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-19T09:15:37+00:00"
 author: "Taylor Winters"
 tags:

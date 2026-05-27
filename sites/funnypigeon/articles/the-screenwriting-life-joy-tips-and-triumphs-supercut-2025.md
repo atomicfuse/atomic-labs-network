@@ -5,7 +5,7 @@ description: >-
   used to decline tasks or requests that cannot be fulfilled due to constraints
   or limitations.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:35:14+00:00'
 author: Gabe Hernandez
 tags:

@@ -4,7 +4,7 @@ description: >-
   Explore advanced yoga asanas for seasoned practitioners at Patanjali Yoga
   Rishikesh, and learn what it takes to become an advanced yogi and teacher.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T04:37:25+00:00'
 author: Taylor Winters
 tags:

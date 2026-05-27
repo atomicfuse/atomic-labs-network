@@ -4,7 +4,7 @@ description: >-
   Explore the action-packed world of Doom: The Dark Ages in the latest trailer,
   showcasing medieval battles, massive mechs, and relentless demon foes.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T07:16:11+00:00'
 author: Taylor Winters
 tags:

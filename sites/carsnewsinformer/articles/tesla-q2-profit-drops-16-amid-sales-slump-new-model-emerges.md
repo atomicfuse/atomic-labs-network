@@ -4,7 +4,7 @@ description: >-
   Tesla reports a 16% decline in Q2 profits amid ongoing sales challenges, while
   the company unveils a new model to reinvigorate market performance.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

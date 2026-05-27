@@ -5,7 +5,7 @@ description: >-
   back at the show's evolution and brings you all the bloopers and
   behind-the-scenes moments you haven't yet seen.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-01T05:09:52+00:00'
 author: admin
 tags:

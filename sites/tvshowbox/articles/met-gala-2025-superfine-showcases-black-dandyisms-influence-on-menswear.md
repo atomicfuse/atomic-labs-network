@@ -8,7 +8,7 @@ description: >-
   from Zendaya, Colman Domingo, and Rihanna while sparking a global cultural
   conversation about Black identity, pride, and resistance through fashion.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-06T11:11:31+00:00'
 author: Taylor Winters
 tags:

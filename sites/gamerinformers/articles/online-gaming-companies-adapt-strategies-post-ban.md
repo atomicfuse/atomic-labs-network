@@ -6,7 +6,7 @@ description: >-
   strategies. Businesses are pivoting to skill-based models and investing in
   technology to ensure sustainability and growth.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T09:33:29+00:00'
 author: Taylor Winters
 tags:

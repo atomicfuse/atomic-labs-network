@@ -6,7 +6,7 @@ description: >-
   public safety and relocating the crabs to their natural habitat, highlighting
   community spirit and marine protection efforts.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-15T10:45:27+00:00'
 author: Gabe Hernandez
 tags:

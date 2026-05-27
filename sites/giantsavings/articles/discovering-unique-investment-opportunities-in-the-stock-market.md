@@ -5,7 +5,7 @@ description: >-
   Lefebvre, who offers strategies, workshops, and resources to help investors
   identify high-potential investment opportunities.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:41:21+00:00'
 author: Tony Anderson
 tags:

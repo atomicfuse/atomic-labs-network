@@ -4,7 +4,7 @@ description: >-
   An exceptional 3D medical animation revealing the groundbreaking OncoMAGNETx
   technology, a revolution in non-invasive brain tumor treatments.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-03T05:46:20+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Analysis of potential impacts from Trump administration policies on the
   American automotive industry and manufacturing sector.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

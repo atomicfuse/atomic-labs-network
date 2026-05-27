@@ -5,7 +5,7 @@ description: >-
   versatile wine offering saline, bright acidity, and muted yellow fruit —
   closer in style to a Chablis than a Loire Valley expression.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T18:00:56+00:00'
 author: Taylor Winters
 tags:

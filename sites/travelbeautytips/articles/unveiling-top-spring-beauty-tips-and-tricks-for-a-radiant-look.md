@@ -4,7 +4,7 @@ description: >-
   Discover the top spring beauty tips and tricks to achieve a radiant, glowing
   look as you transition into the warmer season ahead.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

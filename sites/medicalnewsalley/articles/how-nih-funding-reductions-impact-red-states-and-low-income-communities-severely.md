@@ -8,7 +8,7 @@ description: >-
   reducing research resources, exacerbating health disparities, and threatening
   the US economy through job losses in the scientific sector.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-07T06:16:29+00:00'
 author: Taylor Winters
 tags:

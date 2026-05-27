@@ -6,7 +6,7 @@ description: >-
   build on strengths, maintain authentic connections, and set personal
   boundaries, ensuring meaningful growth and confidence.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:35:31+00:00'
 author: Gabe Hernandez
 tags:

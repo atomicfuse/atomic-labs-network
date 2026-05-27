@@ -4,7 +4,7 @@ description: >-
   A guide to master's of nursing programs, covering what the degree involves,
   potential career paths, and the core units students can expect to study.
 type: standard
-status: review
+status: published
 publishDate: '2025-01-28T19:04:09+00:00'
 author: admin
 tags:

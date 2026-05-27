@@ -7,7 +7,7 @@ description: >-
   administrative burdens and improving communication between healthcare
   facilities.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T12:35:50+00:00'
 author: Priscilla Cruz
 tags:

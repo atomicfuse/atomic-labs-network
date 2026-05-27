@@ -4,7 +4,7 @@ description: >-
   UAW leader Shawn Fain's support for Trump's tariff policies could lead to
   unexpected outcomes for the automotive industry and workers.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

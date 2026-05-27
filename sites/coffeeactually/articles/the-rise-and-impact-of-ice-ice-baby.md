@@ -2,7 +2,7 @@
 title: "The Rise and Impact of Ice Ice Baby"
 description: "Planning a day off in Southport offers a perfect mix of relaxation and adventure with stunning parks, culinary delights, and shopping experiences, catering to every mood and interest on the vibrant Gold Coast."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-03-09T09:15:38+00:00"
 author: "Taylor Winters"
 tags:

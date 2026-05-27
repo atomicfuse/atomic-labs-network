@@ -6,7 +6,7 @@ description: >-
   innovative bag features a multi-layered barrier for protection and is made
   from eco-friendly, recyclable materials, supporting the circular economy.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T09:15:42+00:00'
 author: Taylor Winters
 tags:

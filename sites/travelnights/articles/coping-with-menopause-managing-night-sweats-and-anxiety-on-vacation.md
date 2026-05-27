@@ -6,7 +6,7 @@ description: >-
   these symptoms effectively, ensuring a more comfortable and enjoyable travel
   experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:09:29+00:00'
 author: Malcolm Anderson
 tags:

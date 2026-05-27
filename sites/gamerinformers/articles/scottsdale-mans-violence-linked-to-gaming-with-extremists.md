@@ -2,7 +2,7 @@
 title: "Scottsdale Man’s Violence Linked to Gaming with Extremists"
 description: ""
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-16T09:33:39+00:00"
 author: "Taylor Winters"
 tags:

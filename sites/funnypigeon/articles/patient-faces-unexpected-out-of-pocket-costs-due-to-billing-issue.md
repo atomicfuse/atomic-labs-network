@@ -7,7 +7,7 @@ description: >-
   effectively, while avoiding errors and discrepancies in medical billing
   statements.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T10:31:30+00:00'
 author: Gabe Hernandez
 tags:

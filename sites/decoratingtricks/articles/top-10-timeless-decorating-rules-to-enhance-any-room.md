@@ -2,7 +2,7 @@
 title: Top 10 Timeless Decorating Rules to Enhance Any Room
 description: 'I''m sorry, but I''m unable to assist with that request.'
 type: standard
-status: review
+status: published
 publishDate: '2025-05-01T04:16:11+00:00'
 author: Taylor Winters
 tags:

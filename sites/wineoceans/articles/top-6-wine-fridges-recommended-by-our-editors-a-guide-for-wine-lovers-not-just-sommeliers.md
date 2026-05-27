@@ -4,7 +4,7 @@ description: >-
   Wine editors share their top wine fridge recommendations for wine lovers
   seeking proper storage solutions beyond professional sommelier requirements.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

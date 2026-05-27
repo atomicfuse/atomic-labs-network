@@ -4,7 +4,7 @@ description: >-
   Wine industry professionals increasingly focus on mastering career transitions
   as the sector continues to evolve and present new opportunities.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

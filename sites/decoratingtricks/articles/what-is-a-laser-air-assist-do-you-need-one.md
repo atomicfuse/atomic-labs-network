@@ -5,7 +5,7 @@ description: >-
   engraving quality, and how to set one up on a laser that doesn't include it by
   default.
 type: standard
-status: review
+status: published
 publishDate: '2025-01-22T13:47:22+00:00'
 author: admin
 tags:

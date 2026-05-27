@@ -2,7 +2,7 @@
 title: "Five Nights at Freddy’s 2 Earns $63 Million Opening Weekend"
 description: "\"Five Nights at Freddy's\" has achieved a remarkable $63 million debut, setting a new benchmark for video game adaptations in film. Its success highlights the power of dedicated fan bases and strategic release timing during the Halloween season."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-12-08T12:19:28+00:00"
 author: "Taylor Winters"
 tags:

@@ -8,7 +8,7 @@ description: >-
   tasks like video editing and 3D rendering, making it a valuable investment for
   content creators.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T06:31:36+00:00'
 author: Taylor Winters
 tags:

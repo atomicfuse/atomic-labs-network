@@ -5,7 +5,7 @@ description: >-
   Experts advise travelers to plan ahead, avoid peak traffic, ensure vehicle
   safety, and practice safe driving habits for a smooth and enjoyable journey.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-03T04:09:23+00:00'
 author: Taylor Winters
 tags:

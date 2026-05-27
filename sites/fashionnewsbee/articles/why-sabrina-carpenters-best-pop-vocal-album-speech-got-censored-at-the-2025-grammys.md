@@ -7,7 +7,7 @@ description: >-
   home Best Pop Vocal Album and Best Pop Solo Performance, but her acceptance
   speech was partially censored on broadcast for colorful language.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T09:48:40+00:00'
 author: admin
 tags:

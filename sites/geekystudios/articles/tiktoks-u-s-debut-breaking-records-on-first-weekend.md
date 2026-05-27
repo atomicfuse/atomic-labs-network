@@ -2,7 +2,7 @@
 title: "TikTok’s U.S. Debut: Breaking Records on First Weekend"
 description: "Over the weekend, TikTok users faced significant disruptions, impacting access to the \"For You\" page and video uploads, leading to widespread confusion and frustration across social media platforms."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-26T10:27:30+00:00"
 author: "Arthur Daly"
 tags:

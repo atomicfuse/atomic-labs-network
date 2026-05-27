@@ -2,7 +2,7 @@
 title: "Don Julio X Popeyes And Food Collaborations We’re Talking About In 2025"
 description: "From tequila-infused fast food to pop culture-driven menu drops, food collaborations in 2025 are more than just marketing stunts—they're shaping the way we eat, drink, and experience food. These partnerships reveal a lot about what matters in food culture today."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-02-03T01:03:25+00:00"
 author: "admin"
 tags:

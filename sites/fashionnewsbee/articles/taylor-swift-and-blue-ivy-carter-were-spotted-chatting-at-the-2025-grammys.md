@@ -6,7 +6,7 @@ description: >-
   night Swift presented Beyoncé with the Best Country Album award for *Cowboy
   Carter*.
 type: standard
-status: review
+status: published
 publishDate: '2025-02-03T01:47:14+00:00'
 author: admin
 tags:

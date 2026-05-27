@@ -2,7 +2,7 @@
 title: "NYT Strands Puzzle Hints and Answers for February 16, 2026"
 description: "Strands NYT captivates word puzzle enthusiasts with its engaging format, fostering a vibrant community and offering cognitive benefits. This daily challenge combines creativity with mental stimulation, appealing to both casual players and dedicated fans seeking to enhance their wordplay skills."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-16T10:19:31+00:00"
 author: "Arthur Daly"
 tags:

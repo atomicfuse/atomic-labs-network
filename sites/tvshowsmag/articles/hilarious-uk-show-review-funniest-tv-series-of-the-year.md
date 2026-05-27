@@ -6,7 +6,7 @@ description: >-
   to maintain a straight face while making others laugh, showcasing diverse
   comedic styles under pressure.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-19T11:21:36+00:00'
 author: Taylor Winters
 tags:

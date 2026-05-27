@@ -9,7 +9,7 @@ description: >-
   elements while introducing contemporary touches, creating a timeless and
   modern space.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T04:31:37+00:00'
 author: Taylor Winters
 tags:

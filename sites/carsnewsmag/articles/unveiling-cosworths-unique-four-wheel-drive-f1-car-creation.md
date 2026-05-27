@@ -6,7 +6,7 @@ description: >-
   about its performance potential and what it could mean for the future of F1
   racing.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T04:46:24+00:00'
 author: Taylor Winters
 tags:

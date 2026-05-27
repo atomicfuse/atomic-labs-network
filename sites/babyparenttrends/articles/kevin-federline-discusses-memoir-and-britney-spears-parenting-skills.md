@@ -2,7 +2,7 @@
 title: "Kevin Federline Discusses Memoir and Britney Spears’ Parenting Skills"
 description: "Kevin Federline shares insights on his life post-divorce from Britney Spears, highlighting his journey from backup dancer to fatherhood, as public interest surges with Spears' upcoming memoir detailing her personal struggles and their relationship."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-10-16T08:53:21+00:00"
 author: "Taylor Winters"
 tags:

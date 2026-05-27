@@ -7,7 +7,7 @@ description: >-
   abilities, citing her Emmy nomination for Outstanding Supporting Actress in
   HBO's *The White Lotus* as proof of her talent.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T16:11:36+00:00'
 author: admin
 tags:

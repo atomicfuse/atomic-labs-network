@@ -4,7 +4,7 @@ description: >-
   Explore the unusual world of homemade tomato wine with this comprehensive
   guide to creating a unique fermented beverage from fresh tomatoes.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

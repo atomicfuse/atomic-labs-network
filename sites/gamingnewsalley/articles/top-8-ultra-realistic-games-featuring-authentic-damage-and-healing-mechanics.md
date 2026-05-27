@@ -6,7 +6,7 @@ description: >-
   Redemption 2, Metal Gear Solid 3, and DayZ capture the essence of real-world
   consequences and recovery, offering a thrilling gaming experience.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-21T06:31:34+00:00'
 author: Taylor Winters
 tags:

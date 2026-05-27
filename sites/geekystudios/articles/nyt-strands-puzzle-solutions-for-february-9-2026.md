@@ -6,7 +6,7 @@ description: >-
   experiences and competition. Its simplicity and strategic gameplay make it a
   popular choice for players of all ages.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-09T10:21:27+00:00'
 author: Arthur Daly
 tags:

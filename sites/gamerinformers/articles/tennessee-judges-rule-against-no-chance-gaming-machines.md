@@ -6,7 +6,7 @@ description: >-
   offer non-monetary rewards, have been controversial under Tennessee's strict
   gambling statutes, prompting discussions on future legal adjustments.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-17T04:23:26+00:00'
 author: Taylor Winters
 tags:

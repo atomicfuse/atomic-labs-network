@@ -7,7 +7,7 @@ description: >-
   helping participants understand and improve their financial habits and
   decisions.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T10:45:27+00:00'
 author: Lena Ashwood
 tags:

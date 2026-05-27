@@ -2,7 +2,7 @@
 title: "Netflix Cancels New Western Drama Just One Month In"
 description: "Netflix frequently cancels shows based on viewership and costs, sparking fan reactions. Its strategy includes diversifying genres and investing in international productions to cater to a global audience and maintain its competitive edge."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-01-22T10:27:27+00:00"
 author: "Arthur Daly"
 tags:

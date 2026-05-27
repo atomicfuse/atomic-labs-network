@@ -6,7 +6,7 @@ description: >-
   refined combat system, new weapon types, and optimized graphics, generating
   excitement for the full release.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:35:25+00:00'
 author: Taylor Winters
 tags:

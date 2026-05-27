@@ -7,7 +7,7 @@ description: >-
   considering key factors like size, design, material, and compartments to keep
   your travel essentials organized and accessible.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T05:01:32+00:00'
 author: Taylor Winters
 tags:

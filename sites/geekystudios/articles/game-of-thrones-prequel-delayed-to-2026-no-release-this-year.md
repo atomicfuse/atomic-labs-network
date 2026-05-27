@@ -6,7 +6,7 @@ description: >-
   R.R. Martin's novellas, the series promises rich storytelling and complex
   characters set in Westeros.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T10:48:31+00:00'
 author: Arthur Daly
 tags:

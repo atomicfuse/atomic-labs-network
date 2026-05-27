@@ -5,7 +5,7 @@ description: >-
   gym-goer—has gone viral on TikTok, and a psychotherapist weighs in on when
   that kind of social comparison is motivating versus when it becomes unhealthy.
 type: standard
-status: review
+status: published
 publishDate: '2025-03-01T19:01:31+00:00'
 author: admin
 tags:

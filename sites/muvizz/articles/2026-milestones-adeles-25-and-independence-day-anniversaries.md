@@ -6,7 +6,7 @@ description: >-
   significant anniversaries, offering a chance to revisit classic favorites and
   appreciate their lasting impact on our lives.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T10:41:20+00:00'
 author: Jennifer Clarkson
 tags:

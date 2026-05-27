@@ -4,7 +4,7 @@ description: >-
   Explore the art of crafting banana rum cocktails using Old Monk Rum, a popular
   choice for tropical drink enthusiasts seeking authentic flavor combinations.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

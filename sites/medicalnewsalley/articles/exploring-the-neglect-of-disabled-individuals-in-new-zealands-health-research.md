@@ -6,7 +6,7 @@ description: >-
   of understanding about their health needs, perpetuating health inequalities,
   and resulting in inadequate health services and policies.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-17T05:46:38+00:00'
 author: Taylor Winters
 tags:

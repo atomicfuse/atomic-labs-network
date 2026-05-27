@@ -6,7 +6,7 @@ description: >-
   Critics offer mixed reviews, but his authentic voice and dedication to roots
   resonate with fans and music enthusiasts.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-22T10:49:34+00:00'
 author: Lena Harper
 tags:

@@ -6,7 +6,7 @@ description: >-
   maintaining quality, though the changes have sparked mixed reactions from
   communities accustomed to familiar content.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:48:46+00:00'
 author: Jennifer Clarkson
 tags:

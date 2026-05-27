@@ -2,7 +2,7 @@
 title: "July 2025 Apple TV Plus: Must-Watch Shows and Movies"
 description: "Apple TV Plus expands its library this July 2025 with a diverse lineup, including captivating dramas, comedies, and documentaries, ensuring entertainment for all tastes. From gripping new series to star-studded films, audiences will find engaging and varied content."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-06-26T05:07:29+00:00"
 author: "Taylor Winters"
 tags:

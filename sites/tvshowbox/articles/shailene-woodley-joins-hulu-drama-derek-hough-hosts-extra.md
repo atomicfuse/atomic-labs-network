@@ -2,7 +2,7 @@
 title: "Shailene Woodley Joins Hulu Drama; Derek Hough Hosts Extra"
 description: "Hollywood's new Hulu drama series \"Count Me In\" is generating buzz with its star-studded cast featuring Shailene Woodley and Lindsay Lohan, promising a thrilling narrative filled with suspense, mystery, and unexpected twists."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2025-08-14T04:33:32+00:00"
 author: "Taylor Winters"
 tags:

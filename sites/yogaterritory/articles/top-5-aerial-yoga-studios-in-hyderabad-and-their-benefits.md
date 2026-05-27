@@ -6,7 +6,7 @@ description: >-
   urban areas like Hyderabad, it offers a low-impact workout ideal for all skill
   levels and fitness goals.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T10:54:51+00:00'
 author: Taylor Winters
 tags:

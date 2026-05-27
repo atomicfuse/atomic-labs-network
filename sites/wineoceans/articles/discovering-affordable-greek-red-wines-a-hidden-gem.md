@@ -4,7 +4,7 @@ description: >-
   Explore the emerging world of affordable Greek red wines, an overlooked
   treasure in the wine market offering exceptional value and unique flavors.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-26'
 author: Editorial Team
 tags:

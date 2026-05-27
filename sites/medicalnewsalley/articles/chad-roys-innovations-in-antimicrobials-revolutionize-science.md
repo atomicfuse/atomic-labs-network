@@ -2,7 +2,7 @@
 title: "Chad Roy’s Innovations in Antimicrobials Revolutionize Science"
 description: "Chad Roy's groundbreaking research in antimicrobial technology focuses on creating solutions that prevent bacterial infections and reduce reliance on traditional antibiotics, with applications across healthcare, agriculture, food safety, and water treatment, addressing global health challenges posed by resistant bacteria."
 type: "standard"
-status: "review"
+status: published
 publishDate: "2026-02-09T09:31:31+00:00"
 author: "Taylor Winters"
 tags:

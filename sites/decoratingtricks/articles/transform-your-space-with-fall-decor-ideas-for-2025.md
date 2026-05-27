@@ -4,7 +4,7 @@ description: >-
   Discover modern and neutral autumn accents to bring the beauty of the season
   into your home.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-07T04:05:23+00:00'
 author: Taylor Winters
 tags:
