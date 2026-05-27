@@ -1,27 +1,37 @@
 ---
-title: "Revitalize with These 6 Energizing Winter Yoga Poses"
-description: "Yoga revitalizes body and mind, enhancing energy levels and combating winter fatigue. By improving flexibility and promoting warmth, specific poses help maintain an active, vibrant lifestyle throughout colder months, boosting circulation and reducing lethargy effectively."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T09:59:32+00:00"
-author: "Taylor Winters"
+title: Revitalize with These 6 Energizing Winter Yoga Poses
+description: >-
+  Yoga revitalizes body and mind, enhancing energy levels and combating winter
+  fatigue. By improving flexibility and promoting warmth, specific poses help
+  maintain an active, vibrant lifestyle throughout colder months, boosting
+  circulation and reducing lethargy effectively.
+type: standard
+status: published
+publishDate: '2025-12-08T09:59:32+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "revitalize-with-these-6-energizing-winter-yoga-poses"
+  - Yoga Poses
+  - Lifestyle
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: revitalize-with-these-6-energizing-winter-yoga-poses
 reading_time: 3
-source_url: "https://yogaterritory.com/revitalize-with-these-6-energizing-winter-yoga-poses/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/revitalize-with-these-6-energizing-winter-yoga-poses/
+imported_from: wordpress
 wp_original_id: 20693
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/revitalize-with-these-6-energizing-winter-yoga-poses.webp
 seo:
-  canonical: "https://yogaterritory.com/revitalize-with-these-6-energizing-winter-yoga-poses/"
-  og_title: "Revitalize with These 6 Energizing Winter Yoga Poses - Yoga Territory"
-  og_description: "Yoga revitalizes body and mind, enhancing energy levels and combating winter fatigue. By improving flexibility and promoting warmth, specific poses help maintain an active, vibrant lifestyle throughout colder months, boosting circulation and reducing lethargy effectively."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/revitalize-with-these-6-energizing-winter-yoga-poses/
+  og_title: Revitalize with These 6 Energizing Winter Yoga Poses - Yoga Territory
+  og_description: >-
+    Yoga revitalizes body and mind, enhancing energy levels and combating winter
+    fatigue. By improving flexibility and promoting warmth, specific poses help
+    maintain an active, vibrant lifestyle throughout colder months, boosting
+    circulation and reducing lethargy effectively.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,10 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under target word count at 541 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  under target word count at 541 words versus the 800-1200 range.
+image_alt: Person practicing yoga in a warm room beside a frosted winter window
 ---
 
 Yoga is a powerful tool to rejuvenate the body and mind, especially during the colder months when sluggishness can take hold. Embracing specific yoga poses can enhance energy levels and combat winter fatigue effectively. These poses not only improve flexibility but also promote warmth and vitality, helping you stay active and vibrant throughout the season.
