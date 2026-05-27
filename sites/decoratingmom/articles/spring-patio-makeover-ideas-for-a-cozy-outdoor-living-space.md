@@ -1,30 +1,37 @@
 ---
-title: "Spring Patio Makeover Ideas for a Cozy Outdoor Living Space"
-description: "Refresh your patio for spring and summer with cozy outdoor decor, blue accents, plants, a simple tablescape, and small-space styling inspiration."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:55:41+00:00"
-author: "Taylor Winters"
+title: Spring Patio Makeover Ideas for a Cozy Outdoor Living Space
+description: >-
+  Refresh your patio for spring and summer with cozy outdoor decor, blue
+  accents, plants, a simple tablescape, and small-space styling inspiration.
+type: standard
+status: published
+publishDate: '2026-05-04T08:55:41+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "spring-patio-makeover-ideas-for-a-cozy-outdoor-living-space"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: spring-patio-makeover-ideas-for-a-cozy-outdoor-living-space
 reading_time: 5
-source_url: "https://decoratingmom.com/spring-patio-makeover-ideas-for-a-cozy-outdoor-living-space/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/spring-patio-makeover-ideas-for-a-cozy-outdoor-living-space/
+imported_from: wordpress
 wp_original_id: 35156
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/spring-patio-makeover-ideas-for-a-cozy-outdoor-living-space.webp
 seo:
-  canonical: "https://decoratingmom.com/spring-patio-makeover-ideas-for-a-cozy-outdoor-living-space/"
-  og_title: "Spring Patio Makeover Ideas for a Cozy Outdoor Living Space - Decorating Mom"
-  og_description: "Refresh your patio for spring and summer with cozy outdoor decor, blue accents, plants, a simple tablescape, and small-space styling inspiration."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/spring-patio-makeover-ideas-for-a-cozy-outdoor-living-space/
+  og_title: Spring Patio Makeover Ideas for a Cozy Outdoor Living Space - Decorating Mom
+  og_description: >-
+    Refresh your patio for spring and summer with cozy outdoor decor, blue
+    accents, plants, a simple tablescape, and small-space styling inspiration.
+  twitter_card: summary_large_image
 videos:
-  - id: "a9978165"
-    url: "https://www.youtube.com/watch?v=SJzZcZn1HL0"
-    position: "after-paragraph-2"
+  - id: a9978165
+    url: 'https://www.youtube.com/watch?v=SJzZcZn1HL0'
+    position: after-paragraph-2
 quality_score: 88
 score_breakdown:
   seo_quality: 75
@@ -32,7 +39,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written article with excellent tone and appropriate length, though it could benefit from stronger SEO optimization and more specific DIY/budget elements."
+quality_note: >-
+  Well-written article with excellent tone and appropriate length, though it
+  could benefit from stronger SEO optimization and more specific DIY/budget
+  elements.
+image_alt: >-
+  Cozy spring patio with neutral seating, blue accents, potted plants, and a
+  styled outdoor coffee table.
 ---
 
 A spring patio makeover is one of the simplest ways to make an outdoor living space feel fresh, welcoming, and ready for warmer days. In part 2 of this patio decorating series, the focus is on refreshing the patio with seasonal outdoor decor, pretty plants, comfortable seating, and thoughtful details that make the space feel like an extension of the home.
