@@ -23,7 +23,8 @@ source_url: >-
   https://www.dakotanewsnow.com/video/2026/05/19/lifestyle-changes-help-woman-lose-weight-manage-chronic-conditions/
 source_item_id: 6a14209016f23264031d7d98
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: >-
+  /assets/images/simple-lifestyle-changes-help-woman-manage-weight-chronic-conditions.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -36,6 +37,9 @@ quality_note: >-
   substance due to vague 'according to reports' statements without specifics and
   falls short of optimal word count.
 reading_time: 3
+image_alt: >-
+  Woman preparing for a morning walk beside healthy food in a softly lit home
+  setting
 ---
 ## Real-World Success Through Simple Changes
 
