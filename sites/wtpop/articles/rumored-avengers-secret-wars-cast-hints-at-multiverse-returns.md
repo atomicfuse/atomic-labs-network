@@ -1,25 +1,36 @@
 ---
-title: "Rumored ‘Avengers: Secret Wars’ Cast Hints at Multiverse Returns"
-description: "The Marvel Cinematic Universe's \"Avengers: Secret Wars\" film promises to explore the multiverse, potentially reintroducing beloved characters. Rumors suggest an ensemble cast including actors from earlier films, offering fresh dynamics that could redefine the franchise's future."
-type: "standard"
-status: "published"
-publishDate: "2025-12-29T11:05:28+00:00"
-author: "Lena Harper"
+title: 'Rumored ‘Avengers: Secret Wars’ Cast Hints at Multiverse Returns'
+description: >-
+  The Marvel Cinematic Universe's "Avengers: Secret Wars" film promises to
+  explore the multiverse, potentially reintroducing beloved characters. Rumors
+  suggest an ensemble cast including actors from earlier films, offering fresh
+  dynamics that could redefine the franchise's future.
+type: standard
+status: published
+publishDate: '2025-12-29T11:05:28+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "rumored-avengers-secret-wars-cast-hints-at-multiverse-returns"
+  - Celebrities
+  - TV &amp; Movies
+slug: rumored-avengers-secret-wars-cast-hints-at-multiverse-returns
 reading_time: 3
-source_url: "https://wtpop.com/rumored-avengers-secret-wars-cast-hints-at-multiverse-returns/"
-imported_from: "wordpress"
+source_url: >-
+  https://wtpop.com/rumored-avengers-secret-wars-cast-hints-at-multiverse-returns/
+imported_from: wordpress
 wp_original_id: 752
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/rumored-avengers-secret-wars-cast-hints-at-multiverse-returns.webp
 seo:
-  canonical: "https://wtpop.com/rumored-avengers-secret-wars-cast-hints-at-multiverse-returns/"
-  og_title: "Rumored 'Avengers: Secret Wars' Cast Hints at Multiverse Returns - WTPOP"
-  og_description: "The Marvel Cinematic Universe's \"Avengers: Secret Wars\" film promises to explore the multiverse, potentially reintroducing beloved characters. Rumors suggest an ensemble cast including actors from earlier films, offering fresh dynamics that could redefine the franchise's future."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-21.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/rumored-avengers-secret-wars-cast-hints-at-multiverse-returns/
+  og_title: 'Rumored ''Avengers: Secret Wars'' Cast Hints at Multiverse Returns - WTPOP'
+  og_description: >-
+    The Marvel Cinematic Universe's "Avengers: Secret Wars" film promises to
+    explore the multiverse, potentially reintroducing beloved characters. Rumors
+    suggest an ensemble cast including actors from earlier films, offering fresh
+    dynamics that could redefine the franchise's future.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-21.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written entertainment content with strong keyword relevance and appropriate tone, but falls short on length at only 489 words when 800-1200 is optimal."
+quality_note: >-
+  Well-written entertainment content with strong keyword relevance and
+  appropriate tone, but falls short on length at only 489 words when 800-1200 is
+  optimal.
+image_alt: >-
+  Silhouetted heroes face glowing multiverse portals under a dramatic cosmic
+  sky.
 ---
 
 The Marvel Cinematic Universe (MCU) continues to captivate fans with its intricate storytelling and ever-expanding roster of characters. As anticipation builds for the upcoming "Avengers: Secret Wars" film, there is increasing speculation about the cast and the potential return of beloved characters from across the multiverse.
