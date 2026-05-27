@@ -1,25 +1,36 @@
 ---
-title: "Eighth Grader Grows Mushrooms Using Recycled Coffee Grounds"
-description: "An eighth grader turns used coffee grounds into a mushroom-growing experiment, showing how simple STEM projects can reduce waste, teach sustainability, and uncover new value in everyday leftovers."
-type: "standard"
-status: "published"
-publishDate: "2026-05-21T08:16:04+00:00"
-author: "Taylor Winters"
+title: Eighth Grader Grows Mushrooms Using Recycled Coffee Grounds
+description: >-
+  An eighth grader turns used coffee grounds into a mushroom-growing experiment,
+  showing how simple STEM projects can reduce waste, teach sustainability, and
+  uncover new value in everyday leftovers.
+type: standard
+status: published
+publishDate: '2026-05-21T08:16:04+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "eighth-grader-grows-mushrooms-using-recycled-coffee-grounds"
+  - Coffee News
+  - News
+slug: eighth-grader-grows-mushrooms-using-recycled-coffee-grounds
 reading_time: 7
-source_url: "https://coffeeactually.com/eighth-grader-grows-mushrooms-using-recycled-coffee-grounds/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/eighth-grader-grows-mushrooms-using-recycled-coffee-grounds/
+imported_from: wordpress
 wp_original_id: 51460
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/eighth-grader-grows-mushrooms-using-recycled-coffee-grounds.webp
 seo:
-  canonical: "https://coffeeactually.com/eighth-grader-grows-mushrooms-using-recycled-coffee-grounds/"
-  og_title: "Eighth Grader Grows Mushrooms Using Recycled Coffee Grounds - Coffee Actually"
-  og_description: "An eighth grader turns used coffee grounds into a mushroom-growing experiment, showing how simple STEM projects can reduce waste, teach sustainability, and uncover new value in everyday leftovers."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/eighth-grader-grows-mushrooms-using-recycled-coffee-grounds/
+  og_title: >-
+    Eighth Grader Grows Mushrooms Using Recycled Coffee Grounds - Coffee
+    Actually
+  og_description: >-
+    An eighth grader turns used coffee grounds into a mushroom-growing
+    experiment, showing how simple STEM projects can reduce waste, teach
+    sustainability, and uncover new value in everyday leftovers.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with engaging tone and appropriate length, though it focuses more on sustainability education than core coffee topics."
+quality_note: >-
+  Well-written article with engaging tone and appropriate length, though it
+  focuses more on sustainability education than core coffee topics.
+image_alt: >-
+  Mushrooms sprouting from recycled coffee grounds on a bright student science
+  workspace
 ---
 
 A middle school science project can start with something as ordinary as a cup of coffee. For one eighth grader, used coffee grounds became the foundation for an experiment in growing mushrooms, reducing waste, and showing how young innovators can turn everyday leftovers into something useful.
