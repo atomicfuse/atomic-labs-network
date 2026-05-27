@@ -1,24 +1,34 @@
 ---
-title: "Baltic Specialty Coffee Market Grows More Competitive"
-description: "The Baltic region, including Estonia, Latvia, and Lithuania, is seeing increased interest in specialty coffee, with local roasters and coffee shops driving the trend by focusing on quality, sustainability, and consumer education about coffee origins and brewing methods."
-type: "standard"
-status: "published"
-publishDate: "2026-04-13T08:17:17+00:00"
-author: "Taylor Winters"
+title: Baltic Specialty Coffee Market Grows More Competitive
+description: >-
+  The Baltic region, including Estonia, Latvia, and Lithuania, is seeing
+  increased interest in specialty coffee, with local roasters and coffee shops
+  driving the trend by focusing on quality, sustainability, and consumer
+  education about coffee origins and brewing methods.
+type: standard
+status: published
+publishDate: '2026-04-13T08:17:17+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "baltic-specialty-coffee-market-grows-more-competitive"
+  - Coffee News
+  - News
+slug: baltic-specialty-coffee-market-grows-more-competitive
 reading_time: 3
-source_url: "https://coffeeactually.com/baltic-specialty-coffee-market-grows-more-competitive/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/baltic-specialty-coffee-market-grows-more-competitive/
+imported_from: wordpress
 wp_original_id: 51439
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/baltic-specialty-coffee-market-grows-more-competitive.webp
 seo:
-  canonical: "https://coffeeactually.com/baltic-specialty-coffee-market-grows-more-competitive/"
-  og_title: "Baltic Specialty Coffee Market Grows More Competitive - Coffee Actually"
-  og_description: "The Baltic region, including Estonia, Latvia, and Lithuania, is seeing increased interest in specialty coffee. Local roasters and coffee shops are driving this trend, focusing on quality, sustainability, and consumer education about coffee origins and brewing methods."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/baltic-specialty-coffee-market-grows-more-competitive/
+  og_title: Baltic Specialty Coffee Market Grows More Competitive - Coffee Actually
+  og_description: >-
+    The Baltic region, including Estonia, Latvia, and Lithuania, is seeing
+    increased interest in specialty coffee. Local roasters and coffee shops are
+    driving this trend, focusing on quality, sustainability, and consumer
+    education about coffee origins and brewing methods.
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent topic relevance and tone, but falls short on length (558 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written article with excellent topic relevance and tone, but falls short
+  on length (558 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and meta description.
+image_alt: >-
+  Barista prepares specialty coffee in a modern Baltic roastery cafe with beans
+  and brewing tools on the counter.
 ---
 
 The Baltic region, comprising Estonia, Latvia, and Lithuania, is experiencing a growing interest in specialty coffee. With a strong cultural appreciation for coffee, these countries are showing an increasing demand for unique and high-quality coffee experiences. This trend is driven by a combination of local roasters, coffee shops, and consumer curiosity about the origins and flavors of coffee.
