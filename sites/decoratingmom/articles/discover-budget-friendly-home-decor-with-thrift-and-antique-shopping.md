@@ -1,30 +1,39 @@
 ---
-title: "Discover Budget-Friendly Home Decor with Thrift and Antique Shopping"
-description: "Explore Nashville's consignment and antique stores for unique, budget-friendly home decor pieces with interior designer Kristen McGowan."
-type: "standard"
-status: "review"
-publishDate: "2026-03-05T10:03:23+00:00"
-author: "Taylor Winters"
+title: Discover Budget-Friendly Home Decor with Thrift and Antique Shopping
+description: >-
+  Explore Nashville's consignment and antique stores for unique, budget-friendly
+  home decor pieces with interior designer Kristen McGowan.
+type: standard
+status: review
+publishDate: '2026-03-05T10:03:23+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Budget"
-  - "Inspirations"
-  - "Tips"
-slug: "discover-budget-friendly-home-decor-with-thrift-and-antique-shopping"
+  - Decor Ideas
+  - Budget
+  - Inspirations
+  - Tips
+slug: discover-budget-friendly-home-decor-with-thrift-and-antique-shopping
 reading_time: 2
-source_url: "https://decoratingmom.com/discover-budget-friendly-home-decor-with-thrift-and-antique-shopping/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/discover-budget-friendly-home-decor-with-thrift-and-antique-shopping/
+imported_from: wordpress
 wp_original_id: 35141
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-budget-friendly-home-decor-with-thrift-and-antique-shopping.webp
 seo:
-  canonical: "https://decoratingmom.com/discover-budget-friendly-home-decor-with-thrift-and-antique-shopping/"
-  og_title: "Discover Budget-Friendly Home Decor with Thrift and Antique Shopping - Decorating Mom"
-  og_description: "Explore Nashville's consignment and antique stores for unique, budget-friendly home decor pieces with interior designer Kristen McGowan."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/discover-budget-friendly-home-decor-with-thrift-and-antique-shopping/
+  og_title: >-
+    Discover Budget-Friendly Home Decor with Thrift and Antique Shopping -
+    Decorating Mom
+  og_description: >-
+    Explore Nashville's consignment and antique stores for unique,
+    budget-friendly home decor pieces with interior designer Kristen McGowan.
+  twitter_card: summary_large_image
 videos:
-  - id: "7b2af844"
-    url: "https://www.youtube.com/watch?v=Zb34oH6tbgU"
-    position: "after-paragraph-2"
+  - id: 7b2af844
+    url: 'https://www.youtube.com/watch?v=Zb34oH6tbgU'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -32,7 +41,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword relevance, but significantly under target word count at 361 words, limiting its SEO potential and content depth."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  under target word count at 361 words, limiting its SEO potential and content
+  depth.
+image_alt: >-
+  Stylish living room corner decorated with vintage furniture, ceramics, art,
+  and warm natural light
 ---
 
 Embark on a journey through Nashville's vibrant thrift and antique stores with interior designer Kristen McGowan. Kristen shares her expert insights on how to find designer-inspired home decor pieces without breaking the bank. By visiting some of her favorite consignment and antique shops, Kristen reveals the secrets to transforming your home into a stylish sanctuary using budget-friendly finds.
