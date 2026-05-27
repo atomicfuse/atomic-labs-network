@@ -1,25 +1,35 @@
 ---
-title: "Arachova Greece Travel Guide 2026: Skiing, Delphi, and More"
-description: "Arachova, a charming Greek mountain town nestled on Mount Parnassus, offers stunning natural beauty, rich history, and vibrant culture, making it perfect for both adventure and relaxation with skiing, ancient ruins, and local festivals."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T09:23:29+00:00"
-author: "Taylor Winters"
+title: 'Arachova Greece Travel Guide 2026: Skiing, Delphi, and More'
+description: >-
+  Arachova, a charming Greek mountain town nestled on Mount Parnassus, offers
+  stunning natural beauty, rich history, and vibrant culture, making it perfect
+  for both adventure and relaxation with skiing, ancient ruins, and local
+  festivals.
+type: standard
+status: published
+publishDate: '2026-01-19T09:23:29+00:00'
+author: Taylor Winters
 tags:
-  - "Destinations"
-  - "Travel"
-slug: "arachova-greece-travel-guide-2026-skiing-delphi-and-more"
+  - Destinations
+  - Travel
+slug: arachova-greece-travel-guide-2026-skiing-delphi-and-more
 reading_time: 3
-source_url: "https://travelclearly.com/arachova-greece-travel-guide-2026-skiing-delphi-and-more/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/arachova-greece-travel-guide-2026-skiing-delphi-and-more/
+imported_from: wordpress
 wp_original_id: 36608
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/arachova-greece-travel-guide-2026-skiing-delphi-and-more.webp
 seo:
-  canonical: "https://travelclearly.com/arachova-greece-travel-guide-2026-skiing-delphi-and-more/"
-  og_title: "Arachova Greece Travel Guide 2026: Skiing, Delphi, and More - Travel Clearly"
-  og_description: "Arachova, a charming Greek mountain town, offers stunning natural beauty, rich history, and vibrant culture. Nestled on Mount Parnassus, it's perfect for both adventure and relaxation, with skiing, ancient ruins, and local festivals providing a memorable travel experience."
-  og_image: "https://travelclearly.com/wp-content/uploads/2026/01/make_file.txt"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/arachova-greece-travel-guide-2026-skiing-delphi-and-more/
+  og_title: 'Arachova Greece Travel Guide 2026: Skiing, Delphi, and More - Travel Clearly'
+  og_description: >-
+    Arachova, a charming Greek mountain town, offers stunning natural beauty,
+    rich history, and vibrant culture. Nestled on Mount Parnassus, it's perfect
+    for both adventure and relaxation, with skiing, ancient ruins, and local
+    festivals providing a memorable travel experience.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2026/01/make_file.txt'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel guide with excellent keyword relevance and engaging tone, but falls short on word count (565 vs 800-1200 target) and could improve SEO structure with more H2/H3 headings."
+quality_note: >-
+  Well-written travel guide with excellent keyword relevance and engaging tone,
+  but falls short on word count (565 vs 800-1200 target) and could improve SEO
+  structure with more H2/H3 headings.
+image_alt: >-
+  Sunlit Greek mountain village with snowy peaks, ski tracks, and an ancient
+  stone fragment nearby
 ---
 
 Arachova, a charming mountain town in Greece, offers an exceptional blend of natural beauty, rich history, and vibrant culture. Located on the slopes of Mount Parnassus, this picturesque village is a popular destination for travelers seeking both adventure and relaxation. With its proximity to Delphi and a renowned ski resort, Arachova has something for everyone, from outdoor enthusiasts to history buffs.
