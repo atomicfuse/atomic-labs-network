@@ -1,38 +1,26 @@
 ---
-title: New 3-Drug Combo Shows Promise Against Pancreatic Cancer in Mice
-description: >-
-  Pancreatic cancer is highly aggressive with poor prognosis. Recent research
-  shows promise with a three-drug combination that could improve treatment
-  outcomes, offering hope for patients with advanced stages of the disease.
-type: standard
-status: published
-publishDate: '2026-02-05T09:17:35+00:00'
-author: Taylor Winters
+title: "New 3-Drug Combo Shows Promise Against Pancreatic Cancer in Mice"
+description: "Pancreatic cancer is highly aggressive with poor prognosis. Recent research shows promise with a three-drug combination that could improve treatment outcomes, offering hope for patients with advanced stages of the disease."
+type: "standard"
+status: "published"
+publishDate: "2026-02-05T09:17:35+00:00"
+author: "Taylor Winters"
 tags:
-  - Cancer
-  - Clinical Trials &amp; Research
-  - Drugs
-slug: new-3-drug-combo-shows-promise-against-pancreatic-cancer-in-mice
+  - "Cancer"
+  - "Clinical Trials &amp; Research"
+  - "Drugs"
+slug: "new-3-drug-combo-shows-promise-against-pancreatic-cancer-in-mice"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/new-3-drug-combo-shows-promise-against-pancreatic-cancer-in-mice/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/new-3-drug-combo-shows-promise-against-pancreatic-cancer-in-mice/"
+imported_from: "wordpress"
 wp_original_id: 24772
-featuredImage: >-
-  /assets/images/new-3-drug-combo-shows-promise-against-pancreatic-cancer-in-mice.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/new-3-drug-combo-shows-promise-against-pancreatic-cancer-in-mice/
-  og_title: >-
-    New 3-Drug Combo Shows Promise Against Pancreatic Cancer in Mice - Medical
-    News Corner
-  og_description: >-
-    Pancreatic cancer is highly aggressive with poor prognosis. Recent research
-    shows promise with a three-drug combination that could improve treatment
-    outcomes, offering hope for patients with advanced stages. This approach
-    targets cancer cells' growth and survival mechanisms.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/02/make_file-1.jpeg'
-  twitter_card: summary_large_image
+  canonical: "https://medicalnewscorner.com/new-3-drug-combo-shows-promise-against-pancreatic-cancer-in-mice/"
+  og_title: "New 3-Drug Combo Shows Promise Against Pancreatic Cancer in Mice - Medical News Corner"
+  og_description: "Pancreatic cancer is highly aggressive with poor prognosis. Recent research shows promise with a three-drug combination that could improve treatment outcomes, offering hope for patients with advanced stages. This approach targets cancer cells' growth and survival mechanisms."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/02/make_file-1.jpeg"
+  twitter_card: "summary_large_image"
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -40,12 +28,7 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 75
   keyword_relevance: 90
-quality_note: >-
-  Well-written article with good tone and strong keyword relevance, but falls
-  short on length and lacks specific study details for credibility.
-image_alt: >-
-  Three glowing lab vials on a research bench suggesting hopeful advances in
-  pancreatic cancer treatment
+quality_note: "Well-written article with good tone and keyword coverage, but falls short on length (493 words vs 800-1200 target) and lacks specific research details that could strengthen credibility."
 ---
 
 Pancreatic cancer is notorious for its aggressive nature and poor prognosis, posing significant challenges to medical professionals worldwide. Recent research has highlighted a promising three-drug combination that could potentially improve treatment outcomes for this formidable disease. This innovative approach has generated significant interest, as it may offer new hope for patients battling advanced stages of pancreatic cancer.

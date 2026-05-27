@@ -1,37 +1,24 @@
 ---
-title: 'Pancreatitis Risk from Weight Loss Injections: What You Need to Know'
-description: >-
-  Weight loss medications offer benefits like reduced appetite but pose risks,
-  including potential pancreatitis. Understanding these risks and consulting
-  healthcare providers is essential for informed use, alongside lifestyle
-  changes to enhance effectiveness and minimize side effects.
-type: standard
-status: published
-publishDate: '2026-02-12T09:17:37+00:00'
-author: Taylor Winters
+title: "Pancreatitis Risk from Weight Loss Injections: What You Need to Know"
+description: "Weight loss medications offer benefits like reduced appetite but pose risks, including potential pancreatitis. Understanding these risks and consulting healthcare providers is essential for informed use, alongside lifestyle changes to enhance effectiveness and minimize side effects."
+type: "standard"
+status: "published"
+publishDate: "2026-02-12T09:17:37+00:00"
+author: "Taylor Winters"
 tags:
-  - Drugs
-slug: pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know
+  - "Drugs"
+slug: "pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know/"
+imported_from: "wordpress"
 wp_original_id: 24776
-featuredImage: >-
-  /assets/images/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know/
-  og_title: >-
-    Pancreatitis Risk from Weight Loss Injections: What You Need to Know -
-    Medical News Corner
-  og_description: >-
-    Weight loss medications offer benefits like reduced appetite but pose risks,
-    including potential pancreatitis. Understanding these risks and consulting
-    healthcare providers is essential for informed use, alongside lifestyle
-    changes to enhance effectiveness and minimize side effects.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/02/make_file-3.jpeg'
-  twitter_card: summary_large_image
+  canonical: "https://medicalnewscorner.com/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know/"
+  og_title: "Pancreatitis Risk from Weight Loss Injections: What You Need to Know - Medical News Corner"
+  og_description: "Weight loss medications offer benefits like reduced appetite but pose risks, including potential pancreatitis. Understanding these risks and consulting healthcare providers is essential for informed use, alongside lifestyle changes to enhance effectiveness and minimize side effects."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/02/make_file-3.jpeg"
+  twitter_card: "summary_large_image"
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -39,12 +26,7 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: >-
-  Well-written article on weight loss drugs and pancreatitis risk with good tone
-  and keyword coverage, but falls short of target word count at 528 words.
-image_alt: >-
-  Doctor and patient discuss weight loss medication risks beside an injection
-  pen and pancreas model.
+quality_note: "Well-written article with strong keyword relevance and appropriate tone, but falls short on word count and could benefit from stronger SEO optimization in title length and meta description."
 ---
 
 Weight loss medications have become increasingly popular as people seek effective methods to manage their weight. These drugs promise significant benefits, including reduced appetite and increased metabolic rates. However, like all medications, they come with potential risks and side effects. One of the primary concerns associated with weight loss drugs is their potential link to pancreatitis, a condition characterized by inflammation of the pancreas.

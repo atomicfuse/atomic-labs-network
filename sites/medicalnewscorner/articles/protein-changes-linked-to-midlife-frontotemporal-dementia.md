@@ -1,54 +1,35 @@
 ---
-title: Protein Changes Linked to Midlife Frontotemporal Dementia
-description: >-
-  Dementia can affect individuals in their middle years, presenting unique
-  challenges. Early-onset dementia, occurring between ages 40 and 65, progresses
-  rapidly and impacts work and family life, with genetic predispositions and
-  lifestyle factors significantly influencing its development and progression.
-type: standard
-status: published
-publishDate: '2025-05-22T04:03:31+00:00'
-author: Taylor Winters
+title: "Protein Changes Linked to Midlife Frontotemporal Dementia"
+description: "Dementia can affect individuals in their middle years, presenting unique challenges. Early-onset dementia, occurring between ages 40 and 65, progresses rapidly and impacts work and family life, with genetic predispositions and lifestyle factors significantly influencing its development and progression."
+type: "standard"
+status: "published"
+publishDate: "2025-05-22T04:03:31+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Aging
-  - Clinical Trials &amp; Research
-  - Mental Health
-slug: protein-changes-linked-to-midlife-frontotemporal-dementia
+  - "Research"
+  - "Aging"
+  - "Clinical Trials &amp; Research"
+  - "Mental Health"
+slug: "protein-changes-linked-to-midlife-frontotemporal-dementia"
 reading_time: 4
-source_url: >-
-  https://medicalnewscorner.com/protein-changes-linked-to-midlife-frontotemporal-dementia/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/protein-changes-linked-to-midlife-frontotemporal-dementia/"
+imported_from: "wordpress"
 wp_original_id: 24664
-featuredImage: /assets/images/protein-changes-linked-to-midlife-frontotemporal-dementia.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/protein-changes-linked-to-midlife-frontotemporal-dementia/
-  og_title: >-
-    Protein Changes Linked to Midlife Frontotemporal Dementia - Medical News
-    Corner
-  og_description: >-
-    Dementia can affect individuals in their middle years, presenting unique
-    challenges. Early-onset dementia, occurring between ages 40 and 65,
-    progresses rapidly and impacts work and family life. Genetic predispositions
-    and lifestyle factors significantly influence its development and
-    progression.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/05/make_file-6.jpeg'
-  twitter_card: summary_large_image
-quality_score: 80
+  canonical: "https://medicalnewscorner.com/protein-changes-linked-to-midlife-frontotemporal-dementia/"
+  og_title: "Protein Changes Linked to Midlife Frontotemporal Dementia - Medical News Corner"
+  og_description: "Dementia can affect individuals in their middle years, presenting unique challenges. Early-onset dementia, occurring between ages 40 and 65, progresses rapidly and impacts work and family life. Genetic predispositions and lifestyle factors significantly influence its development and progression."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/05/make_file-6.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 82
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 75
   tone_match: 85
-  content_length: 75
+  content_length: 65
   factual_accuracy: 90
-  keyword_relevance: 85
-quality_note: >-
-  Well-written health article with good tone and accurate information, but the
-  title doesn't match the content focus and could benefit from better SEO
-  optimization and length.
-image_alt: >-
-  Midlife adult in a softly lit home office with abstract neural particles
-  suggesting cognitive change
+  keyword_relevance: 95
+quality_note: "Well-written, informative article with excellent keyword relevance and tone, but falls short of optimal length and could benefit from stronger SEO elements like meta description optimization."
 ---
 
 Dementia, often associated with older adults, can also affect individuals in their middle years. Understanding the underlying causes and risk factors is crucial for early diagnosis and management. Middle-age dementia, although less common, presents unique challenges and requires targeted research to improve outcomes for those affected.

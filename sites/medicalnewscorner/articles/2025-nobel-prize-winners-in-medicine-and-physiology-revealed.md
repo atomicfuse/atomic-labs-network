@@ -1,52 +1,33 @@
 ---
-title: 2025 Nobel Prize Winners in Medicine and Physiology Revealed
-description: >-
-  The 2025 Nobel Prize in Medicine was awarded for a groundbreaking discovery in
-  genetics, unveiling a novel mechanism that enhances our understanding of
-  genetic regulation, with significant implications for medical therapies and
-  biotechnology, offering hope for treating genetic disorders and improving
-  global health.
-type: standard
-status: review
-publishDate: '2026-02-02T09:17:40+00:00'
-author: Taylor Winters
+title: "2025 Nobel Prize Winners in Medicine and Physiology Revealed"
+description: "The 2025 Nobel Prize in Medicine was awarded for a groundbreaking discovery in genetics, unveiling a novel mechanism that enhances our understanding of genetic regulation, with significant implications for medical therapies and biotechnology, offering hope for treating genetic disorders and improving global health."
+type: "standard"
+status: "review"
+publishDate: "2026-02-02T09:17:40+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Clinical Trials &amp; Research
-slug: 2025-nobel-prize-winners-in-medicine-and-physiology-revealed
+  - "Research"
+  - "Clinical Trials &amp; Research"
+slug: "2025-nobel-prize-winners-in-medicine-and-physiology-revealed"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/2025-nobel-prize-winners-in-medicine-and-physiology-revealed/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/2025-nobel-prize-winners-in-medicine-and-physiology-revealed/"
+imported_from: "wordpress"
 wp_original_id: 24770
-featuredImage: >-
-  /assets/images/2025-nobel-prize-winners-in-medicine-and-physiology-revealed.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/2025-nobel-prize-winners-in-medicine-and-physiology-revealed/
-  og_title: >-
-    2025 Nobel Prize Winners in Medicine and Physiology Revealed - Medical News
-    Corner
-  og_description: >-
-    The 2025 Nobel Prize in Medicine was awarded for a groundbreaking discovery
-    in genetics, unveiling a novel mechanism that enhances our understanding of
-    genetic regulation, with significant implications for medical therapies and
-    biotechnology, offering hope for treating genetic disorders and improving
-    global health.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/02/make_file.jpeg'
-  twitter_card: summary_large_image
-quality_score: 64
+  canonical: "https://medicalnewscorner.com/2025-nobel-prize-winners-in-medicine-and-physiology-revealed/"
+  og_title: "2025 Nobel Prize Winners in Medicine and Physiology Revealed - Medical News Corner"
+  og_description: "The 2025 Nobel Prize in Medicine was awarded for a groundbreaking discovery in genetics, unveiling a novel mechanism that enhances our understanding of genetic regulation, with significant implications for medical therapies and biotechnology, offering hope for treating genetic disorders and improving global health."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/02/make_file.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 62
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
+  content_length: 40
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: >-
-  The article matches tone and keywords well but contains major factual
-  inaccuracies about a fictional 2025 Nobel Prize and is significantly under the
-  target word count.
-image_alt: Luminous DNA helix in a modern lab with scientists blurred in the background
+quality_note: "Article has strong tone and keyword relevance but is significantly undermined by fabricated information about a 2025 Nobel Prize and falls well short of target word count."
 ---
 
 The Nobel Prize in Physiology or Medicine continues to highlight groundbreaking achievements in the medical field, recognizing individuals whose work has had a profound impact on human health and understanding. This prestigious award draws attention to discoveries that not only advance scientific knowledge but also improve lives worldwide.

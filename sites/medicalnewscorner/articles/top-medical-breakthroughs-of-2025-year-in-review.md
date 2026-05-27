@@ -1,49 +1,34 @@
 ---
-title: 'Top Medical Breakthroughs of 2025: Year in Review'
-description: >-
-  The year 2025 marked a significant era in medical advancements, with
-  breakthroughs in cancer therapies, organ transplantation, and neurological
-  treatments, setting new standards in healthcare and improving patient outcomes
-  worldwide.
-type: standard
-status: review
-publishDate: '2025-12-29T09:17:30+00:00'
-author: Taylor Winters
+title: "Top Medical Breakthroughs of 2025: Year in Review"
+description: "The year 2025 marked a significant era in medical advancements, with breakthroughs in cancer therapies, organ transplantation, and neurological treatments, setting new standards in healthcare and improving patient outcomes worldwide."
+type: "standard"
+status: "review"
+publishDate: "2025-12-29T09:17:30+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Cancer
-  - Clinical Trials &amp; Research
-slug: top-medical-breakthroughs-of-2025-year-in-review
+  - "Research"
+  - "Cancer"
+  - "Clinical Trials &amp; Research"
+slug: "top-medical-breakthroughs-of-2025-year-in-review"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/top-medical-breakthroughs-of-2025-year-in-review/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/top-medical-breakthroughs-of-2025-year-in-review/"
+imported_from: "wordpress"
 wp_original_id: 24752
-featuredImage: /assets/images/top-medical-breakthroughs-of-2025-year-in-review.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/top-medical-breakthroughs-of-2025-year-in-review/
-  og_title: 'Top Medical Breakthroughs of 2025: Year in Review - Medical News Corner'
-  og_description: >-
-    The year 2025 marked a significant era in medical advancements, with
-    breakthroughs in cancer therapies, organ transplantation, and neurological
-    treatments, setting new standards in healthcare and improving patient
-    outcomes worldwide.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/12/make_file-8.jpeg'
-  twitter_card: summary_large_image
-quality_score: 67
+  canonical: "https://medicalnewscorner.com/top-medical-breakthroughs-of-2025-year-in-review/"
+  og_title: "Top Medical Breakthroughs of 2025: Year in Review - Medical News Corner"
+  og_description: "The year 2025 marked a significant era in medical advancements, with breakthroughs in cancer therapies, organ transplantation, and neurological treatments, setting new standards in healthcare and improving patient outcomes worldwide."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/12/make_file-8.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 65
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 55
-  factual_accuracy: 30
+  factual_accuracy: 20
   keyword_relevance: 90
-quality_note: >-
-  Strong topic relevance and tone but severely hampered by speculative 2025
-  content presented as fact and insufficient word count for target audience.
-image_alt: >-
-  Clinicians study glowing medical holograms in a modern research hospital,
-  symbolizing healthcare breakthroughs.
+quality_note: "While the article has good tone and keyword relevance, it's significantly undermined by presenting 2025 medical breakthroughs as accomplished facts when 2025 hasn't occurred yet, creating major factual accuracy issues, and the content is too short at 548 words."
 ---
 
 The year 2025 marked a significant era in the realm of medical advancements, ushering in groundbreaking technologies and therapies that have profoundly impacted patient care. From innovative treatments in oncology to revolutionary developments in organ transplantation, the medical community witnessed remarkable achievements that have set new standards in healthcare.

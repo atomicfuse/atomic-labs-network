@@ -1,47 +1,35 @@
 ---
-title: 4 Diets Proven to Reduce Dementia Risk by 24%
-description: >-
-  Recent studies highlight the role of dietary patterns in reducing dementia
-  risk, especially in women. The Mediterranean diet, rich in plant-based foods
-  and healthy fats, along with the MIND, DASH, and Nordic diets, shows
-  significant cognitive benefits.
-type: standard
-status: published
-publishDate: '2025-07-17T04:05:26+00:00'
-author: Taylor Winters
+title: "4 Diets Proven to Reduce Dementia Risk by 24%"
+description: "Recent studies highlight the role of dietary patterns in reducing dementia risk, especially in women. The Mediterranean diet, rich in plant-based foods and healthy fats, along with the MIND, DASH, and Nordic diets, shows significant cognitive benefits."
+type: "standard"
+status: "published"
+publishDate: "2025-07-17T04:05:26+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Aging
-  - Clinical Trials &amp; Research
-  - 'Health, Fitness &amp; Food'
-slug: 4-diets-proven-to-reduce-dementia-risk-by-24
+  - "Research"
+  - "Aging"
+  - "Clinical Trials &amp; Research"
+  - "Health, Fitness &amp; Food"
+slug: "4-diets-proven-to-reduce-dementia-risk-by-24"
 reading_time: 3
-source_url: 'https://medicalnewscorner.com/4-diets-proven-to-reduce-dementia-risk-by-24/'
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/4-diets-proven-to-reduce-dementia-risk-by-24/"
+imported_from: "wordpress"
 wp_original_id: 24686
-featuredImage: /assets/images/4-diets-proven-to-reduce-dementia-risk-by-24.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: 'https://medicalnewscorner.com/4-diets-proven-to-reduce-dementia-risk-by-24/'
-  og_title: 4 Diets Proven to Reduce Dementia Risk by 24% - Medical News Corner
-  og_description: >-
-    Recent studies highlight the role of dietary patterns in reducing dementia
-    risk, especially in women. The Mediterranean diet, rich in plant-based foods
-    and healthy fats, along with the MIND, DASH, and Nordic diets, shows
-    significant cognitive benefits.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/07/make_file-3.jpeg'
-  twitter_card: summary_large_image
-quality_score: 77
+  canonical: "https://medicalnewscorner.com/4-diets-proven-to-reduce-dementia-risk-by-24/"
+  og_title: "4 Diets Proven to Reduce Dementia Risk by 24% - Medical News Corner"
+  og_description: "Recent studies highlight the role of dietary patterns in reducing dementia risk, especially in women. The Mediterranean diet, rich in plant-based foods and healthy fats, along with the MIND, DASH, and Nordic diets, shows significant cognitive benefits."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/07/make_file-3.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 76
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 65
+  content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: >-
-  Well-written article with good keyword relevance and tone, but falls short on
-  word count and lacks specific study citations to support the claimed 24%
-  reduction figure.
-image_alt: Woman preparing a colorful heart-healthy meal in a sunlit kitchen
+quality_note: "Well-written article with strong keyword relevance and appropriate tone, but falls short on length (525 words vs 800-1200 target) and lacks specific statistics to support the claimed 24% reduction figure."
 ---
 
 Recent studies suggest that adopting certain dietary patterns can significantly reduce the risk of dementia, with a pronounced effect observed in women. As the global population ages, the search for effective preventive measures against cognitive decline becomes increasingly critical. Among various lifestyle choices, the foods we consume play a vital role in brain health. Research identifies the Mediterranean diet, alongside three other dietary approaches, as particularly beneficial in lowering dementia risk.

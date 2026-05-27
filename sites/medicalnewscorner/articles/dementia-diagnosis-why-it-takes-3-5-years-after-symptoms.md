@@ -1,36 +1,24 @@
 ---
-title: 'Dementia Diagnosis: Why It Takes 3.5 Years After Symptoms'
-description: >-
-  Dementia diagnosis often takes an average of 3.5 years from symptom onset due
-  to subtle early signs and various healthcare challenges. Early detection is
-  crucial for patient care, requiring improved awareness, resources, and access
-  to diagnostic tools.
-type: standard
-status: published
-publishDate: '2025-07-31T04:04:03+00:00'
-author: Taylor Winters
+title: "Dementia Diagnosis: Why It Takes 3.5 Years After Symptoms"
+description: "Dementia diagnosis often takes an average of 3.5 years from symptom onset due to subtle early signs and various healthcare challenges. Early detection is crucial for patient care, requiring improved awareness, resources, and access to diagnostic tools."
+type: "standard"
+status: "published"
+publishDate: "2025-07-31T04:04:03+00:00"
+author: "Taylor Winters"
 tags:
-  - Health News
-  - Mental Health
-slug: dementia-diagnosis-why-it-takes-3-5-years-after-symptoms
+  - "Health News"
+  - "Mental Health"
+slug: "dementia-diagnosis-why-it-takes-3-5-years-after-symptoms"
 reading_time: 4
-source_url: >-
-  https://medicalnewscorner.com/dementia-diagnosis-why-it-takes-3-5-years-after-symptoms/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/dementia-diagnosis-why-it-takes-3-5-years-after-symptoms/"
+imported_from: "wordpress"
 wp_original_id: 24690
-featuredImage: /assets/images/dementia-diagnosis-why-it-takes-3-5-years-after-symptoms.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/dementia-diagnosis-why-it-takes-3-5-years-after-symptoms/
-  og_title: >-
-    Dementia Diagnosis: Why It Takes 3.5 Years After Symptoms - Medical News
-    Corner
-  og_description: >-
-    Dementia diagnosis often takes an average of 3.5 years from symptom onset
-    due to subtle early signs and various healthcare challenges. Early detection
-    is crucial for patient care, requiring improved awareness, resources, and
-    access to diagnostic tools.
-  twitter_card: summary_large_image
+  canonical: "https://medicalnewscorner.com/dementia-diagnosis-why-it-takes-3-5-years-after-symptoms/"
+  og_title: "Dementia Diagnosis: Why It Takes 3.5 Years After Symptoms - Medical News Corner"
+  og_description: "Dementia diagnosis often takes an average of 3.5 years from symptom onset due to subtle early signs and various healthcare challenges. Early detection is crucial for patient care, requiring improved awareness, resources, and access to diagnostic tools."
+  twitter_card: "summary_large_image"
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -38,13 +26,7 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: >-
-  Well-written article with good tone and accuracy, but falls short on length
-  (613 words vs 800+ target) and could benefit from stronger SEO optimization in
-  headings and meta elements.
-image_alt: >-
-  Older adult and caregiver at a sunlit kitchen table, suggesting support during
-  a long diagnostic journey.
+quality_note: "Well-written article with good tone and accuracy, but falls short on length (613 words vs 800-1200 target) and could benefit from stronger SEO optimization in headings and keyword integration."
 ---
 
 Dementia, a progressive neurological disorder, often eludes timely diagnosis. Despite its profound impact on individuals and their families, the time from the onset of symptoms to diagnosis can extend to an average of 3.5 years. This significant delay raises concerns about the factors contributing to prolonged diagnosis times and the potential implications for patient care and quality of life.

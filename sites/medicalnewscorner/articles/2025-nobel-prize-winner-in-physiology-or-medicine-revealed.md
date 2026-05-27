@@ -1,36 +1,24 @@
 ---
-title: 2025 Nobel Prize Winner in Physiology or Medicine Revealed
-description: >-
-  The Nobel Prize in Physiology or Medicine for 2025 honors pioneering genetic
-  research achievements, highlighting their profound impact on medical science.
-  The laureates' innovative gene editing work opens new avenues for treating
-  genetic disorders and personalizing medical therapies.
-type: standard
-status: review
-publishDate: '2026-03-09T09:17:25+00:00'
-author: Taylor Winters
+title: "2025 Nobel Prize Winner in Physiology or Medicine Revealed"
+description: "The Nobel Prize in Physiology or Medicine for 2025 honors pioneering genetic research achievements, highlighting their profound impact on medical science. The laureates' innovative gene editing work opens new avenues for treating genetic disorders and personalizing medical therapies."
+type: "standard"
+status: "review"
+publishDate: "2026-03-09T09:17:25+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Clinical Trials &amp; Research
-slug: 2025-nobel-prize-winner-in-physiology-or-medicine-revealed
+  - "Research"
+  - "Clinical Trials &amp; Research"
+slug: "2025-nobel-prize-winner-in-physiology-or-medicine-revealed"
 reading_time: 2
-source_url: >-
-  https://medicalnewscorner.com/2025-nobel-prize-winner-in-physiology-or-medicine-revealed/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/2025-nobel-prize-winner-in-physiology-or-medicine-revealed/"
+imported_from: "wordpress"
 wp_original_id: 24796
-featuredImage: /assets/images/2025-nobel-prize-winner-in-physiology-or-medicine-revealed.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/2025-nobel-prize-winner-in-physiology-or-medicine-revealed/
-  og_title: >-
-    2025 Nobel Prize Winner in Physiology or Medicine Revealed - Medical News
-    Corner
-  og_description: >-
-    The Nobel Prize in Physiology or Medicine for 2025 honors pioneering genetic
-    research achievements, highlighting their profound impact on medical
-    science. The laureates' innovative gene editing work opens new avenues for
-    treating genetic disorders and personalizing medical therapies.
-  twitter_card: summary_large_image
+  canonical: "https://medicalnewscorner.com/2025-nobel-prize-winner-in-physiology-or-medicine-revealed/"
+  og_title: "2025 Nobel Prize Winner in Physiology or Medicine Revealed - Medical News Corner"
+  og_description: "The Nobel Prize in Physiology or Medicine for 2025 honors pioneering genetic research achievements, highlighting their profound impact on medical science. The laureates' innovative gene editing work opens new avenues for treating genetic disorders and personalizing medical therapies."
+  twitter_card: "summary_large_image"
 quality_score: 62
 score_breakdown:
   seo_quality: 75
@@ -38,13 +26,7 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: >-
-  Strong topic relevance and tone but severely penalized for fabricating 2025
-  Nobel Prize information and falling well below minimum word count
-  requirements.
-image_alt: >-
-  Glowing DNA helix above a modern lab bench with researchers blurred in the
-  background
+quality_note: "Strong topic relevance and tone, but critically short content and contains fabricated information about a 2025 Nobel Prize that hasn't been awarded yet."
 ---
 
 The Nobel Prize in Physiology or Medicine for 2025 has recognized groundbreaking achievements in the field of genetic research, underscoring the profound impact these discoveries have on medical science and human health.

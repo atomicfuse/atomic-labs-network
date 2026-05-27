@@ -1,52 +1,34 @@
 ---
-title: Can the Keto Diet Effectively Manage Depression Symptoms?
-description: >-
-  Recent research indicates that a ketogenic diet may benefit individuals with
-  treatment-resistant depression, showing potential improvements in depressive
-  symptoms through a high-fat, low-carbohydrate approach, suggesting it could
-  complement traditional mental health treatments.
-type: standard
-status: published
-publishDate: '2026-02-09T09:17:32+00:00'
-author: Taylor Winters
+title: "Can the Keto Diet Effectively Manage Depression Symptoms?"
+description: "Recent research indicates that a ketogenic diet may benefit individuals with treatment-resistant depression, showing potential improvements in depressive symptoms through a high-fat, low-carbohydrate approach, suggesting it could complement traditional mental health treatments."
+type: "standard"
+status: "published"
+publishDate: "2026-02-09T09:17:32+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Clinical Trials &amp; Research
-  - Fitness &amp; Food
-  - Mental Health
-slug: can-the-keto-diet-effectively-manage-depression-symptoms
+  - "Research"
+  - "Clinical Trials &amp; Research"
+  - "Fitness &amp; Food"
+  - "Mental Health"
+slug: "can-the-keto-diet-effectively-manage-depression-symptoms"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/can-the-keto-diet-effectively-manage-depression-symptoms/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/can-the-keto-diet-effectively-manage-depression-symptoms/"
+imported_from: "wordpress"
 wp_original_id: 24774
-featuredImage: /assets/images/can-the-keto-diet-effectively-manage-depression-symptoms.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/can-the-keto-diet-effectively-manage-depression-symptoms/
-  og_title: >-
-    Can the Keto Diet Effectively Manage Depression Symptoms? - Medical News
-    Corner
-  og_description: >-
-    Recent research indicates that a ketogenic diet may benefit individuals with
-    treatment-resistant depression, showing potential improvements in depressive
-    symptoms through a high-fat, low-carbohydrate approach, suggesting it could
-    complement traditional mental health treatments.
-  twitter_card: summary_large_image
-quality_score: 80
+  canonical: "https://medicalnewscorner.com/can-the-keto-diet-effectively-manage-depression-symptoms/"
+  og_title: "Can the Keto Diet Effectively Manage Depression Symptoms? - Medical News Corner"
+  og_description: "Recent research indicates that a ketogenic diet may benefit individuals with treatment-resistant depression, showing potential improvements in depressive symptoms through a high-fat, low-carbohydrate approach, suggesting it could complement traditional mental health treatments."
+  twitter_card: "summary_large_image"
+quality_score: 78
 score_breakdown:
-  seo_quality: 75
+  seo_quality: 78
   tone_match: 85
-  content_length: 55
-  factual_accuracy: 90
-  keyword_relevance: 95
-quality_note: >-
-  Well-written article with excellent keyword relevance and tone, but
-  significantly below target word count at 537 words instead of the 800-1200
-  range.
-image_alt: >-
-  Keto-friendly foods on a sunlit table with a calm person softly blurred in the
-  background
+  content_length: 54
+  factual_accuracy: 85
+  keyword_relevance: 90
+quality_note: "Strong topic relevance and tone but significantly under target word count at 537 words, which severely impacts overall quality despite good research coverage and engaging writing."
 ---
 
 Recent research suggests that a ketogenic diet might offer benefits for individuals struggling with treatment-resistant depression. This dietary approach, typically associated with weight loss and metabolic health, could play a promising role in mental health treatment strategies. The study, conducted over six weeks, reveals potential improvements in depressive symptoms among those adhering to this high-fat, low-carbohydrate diet.

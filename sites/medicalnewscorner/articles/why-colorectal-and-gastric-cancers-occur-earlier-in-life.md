@@ -1,53 +1,35 @@
 ---
-title: Why Colorectal and Gastric Cancers Occur Earlier in Life
-description: >-
-  Colorectal and gastrointestinal cancers are rising among younger people,
-  causing concern among medical professionals. This trend prompts research into
-  potential causes such as lifestyle, genetics, and environmental factors,
-  highlighting the need for increased awareness and early detection.
-type: standard
-status: published
-publishDate: '2025-07-10T04:03:28+00:00'
-author: Taylor Winters
+title: "Why Colorectal and Gastric Cancers Occur Earlier in Life"
+description: "Colorectal and gastrointestinal cancers are rising among younger people, causing concern among medical professionals. This trend prompts research into potential causes such as lifestyle, genetics, and environmental factors, highlighting the need for increased awareness and early detection."
+type: "standard"
+status: "published"
+publishDate: "2025-07-10T04:03:28+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Cancer
-  - Clinical Trials &amp; Research
-  - 'Health, Fitness &amp; Food'
-slug: why-colorectal-and-gastric-cancers-occur-earlier-in-life
+  - "Research"
+  - "Cancer"
+  - "Clinical Trials &amp; Research"
+  - "Health, Fitness &amp; Food"
+slug: "why-colorectal-and-gastric-cancers-occur-earlier-in-life"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/why-colorectal-and-gastric-cancers-occur-earlier-in-life/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/why-colorectal-and-gastric-cancers-occur-earlier-in-life/"
+imported_from: "wordpress"
 wp_original_id: 24683
-featuredImage: /assets/images/why-colorectal-and-gastric-cancers-occur-earlier-in-life.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/why-colorectal-and-gastric-cancers-occur-earlier-in-life/
-  og_title: >-
-    Why Colorectal and Gastric Cancers Occur Earlier in Life - Medical News
-    Corner
-  og_description: >-
-    Colorectal and gastrointestinal cancers are rising among younger people,
-    causing concern among medical professionals. This trend prompts research
-    into potential causes such as lifestyle, genetics, and environmental
-    factors, highlighting the need for increased awareness and early detection.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/07/make_file-1.jpeg'
-  twitter_card: summary_large_image
-quality_score: 82
+  canonical: "https://medicalnewscorner.com/why-colorectal-and-gastric-cancers-occur-earlier-in-life/"
+  og_title: "Why Colorectal and Gastric Cancers Occur Earlier in Life - Medical News Corner"
+  og_description: "Colorectal and gastrointestinal cancers are rising among younger people, causing concern among medical professionals. This trend prompts research into potential causes such as lifestyle, genetics, and environmental factors, highlighting the need for increased awareness and early detection."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/07/make_file-1.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 81
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 65
+  content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: >-
-  Strong content relevance and tone but falls short on length (493 words vs
-  800-1200 target) and could benefit from stronger SEO optimization in title and
-  meta description.
-image_alt: >-
-  Young adult in a modern clinic as medical professionals review abstract health
-  scans nearby.
+quality_note: "Well-written article with excellent topic relevance and tone, but significantly under target length at 493 words when 800-1200 is expected."
 ---
 
 Colorectal and other gastrointestinal cancers are increasingly being diagnosed in younger populations, a trend that has sparked significant concern among medical professionals. Traditionally, these cancers were more common in individuals over 50, but recent studies indicate a shift that requires urgent attention and understanding. Let's explore why this is happening and what factors might be contributing to this unsettling development.

@@ -1,37 +1,26 @@
 ---
-title: FDA Proposes Ban on Bulk Semaglutide and Tirzepatide Compounding
-description: >-
-  The FDA is considering tighter limits on compounded semaglutide and
-  tirzepatide, raising questions about safety, access, cost, and the future of
-  copycat GLP-1 weight loss and diabetes medications.
-type: standard
-status: published
-publishDate: '2026-05-11T08:18:36+00:00'
-author: Taylor Winters
+title: "FDA Proposes Ban on Bulk Semaglutide and Tirzepatide Compounding"
+description: "The FDA is considering tighter limits on compounded semaglutide and tirzepatide, raising questions about safety, access, cost, and the future of copycat GLP-1 weight loss and diabetes medications."
+type: "standard"
+status: "published"
+publishDate: "2026-05-11T08:18:36+00:00"
+author: "Taylor Winters"
 tags:
-  - Diabetes
-  - Drugs
-  - 'Health, Fitness &amp; Food'
-slug: fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding
+  - "Diabetes"
+  - "Drugs"
+  - "Health, Fitness &amp; Food"
+slug: "fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding"
 reading_time: 7
-source_url: >-
-  https://medicalnewscorner.com/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding/"
+imported_from: "wordpress"
 wp_original_id: 24831
-featuredImage: >-
-  /assets/images/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding/
-  og_title: >-
-    FDA Proposes Ban on Bulk Semaglutide and Tirzepatide Compounding - Medical
-    News Corner
-  og_description: >-
-    The FDA is considering tighter limits on compounded semaglutide and
-    tirzepatide, raising questions about safety, access, cost, and the future of
-    copycat GLP-1 weight loss and diabetes medications.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file-2.jpeg'
-  twitter_card: summary_large_image
+  canonical: "https://medicalnewscorner.com/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding/"
+  og_title: "FDA Proposes Ban on Bulk Semaglutide and Tirzepatide Compounding - Medical News Corner"
+  og_description: "The FDA is considering tighter limits on compounded semaglutide and tirzepatide, raising questions about safety, access, cost, and the future of copycat GLP-1 weight loss and diabetes medications."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file-2.jpeg"
+  twitter_card: "summary_large_image"
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -39,10 +28,7 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: >-
-  Well-written, comprehensive article with excellent tone and structure, though
-  the title could be more compelling for better SEO impact.
-image_alt: Unbranded injection pen and vials on a clinical counter under careful review
+quality_note: "Well-written, comprehensive article that expertly balances technical accuracy with accessible language for medical health enthusiasts, covering a highly relevant drug policy topic with excellent structure and keyword integration."
 ---
 
 The U.S. Food and Drug Administration is moving toward tighter oversight of compounded weight loss and diabetes medications, with a proposal that could sharply limit bulk compounding of semaglutide and tirzepatide. The action targets copycat versions of popular GLP-1 drugs, not the FDA-approved brand-name products prescribed for type 2 diabetes and chronic weight management.

@@ -1,51 +1,35 @@
 ---
-title: 'GLP-1s Impact on Breast and Cancer Risk: New Findings'
-description: >-
-  Recent research indicates that GLP-1 receptor agonists, used for type 2
-  diabetes and obesity, pose minimal risk for breast and thyroid cancer,
-  reassuring healthcare providers and patients about their safety in long-term
-  treatments.
-type: standard
-status: review
-publishDate: '2025-12-15T09:17:26+00:00'
-author: Taylor Winters
+title: "GLP-1s Impact on Breast and Cancer Risk: New Findings"
+description: "Recent research indicates that GLP-1 receptor agonists, used for type 2 diabetes and obesity, pose minimal risk for breast and thyroid cancer, reassuring healthcare providers and patients about their safety in long-term treatments."
+type: "standard"
+status: "published"
+publishDate: "2025-12-15T09:17:26+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Cancer
-  - Clinical Trials &amp; Research
-  - Diabetes
-slug: glp-1s-impact-on-breast-and-cancer-risk-new-findings
+  - "Research"
+  - "Cancer"
+  - "Clinical Trials &amp; Research"
+  - "Diabetes"
+slug: "glp-1s-impact-on-breast-and-cancer-risk-new-findings"
 reading_time: 3
-source_url: >-
-  https://medicalnewscorner.com/glp-1s-impact-on-breast-and-cancer-risk-new-findings/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/glp-1s-impact-on-breast-and-cancer-risk-new-findings/"
+imported_from: "wordpress"
 wp_original_id: 24744
-featuredImage: /assets/images/glp-1s-impact-on-breast-and-cancer-risk-new-findings.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/glp-1s-impact-on-breast-and-cancer-risk-new-findings/
-  og_title: 'GLP-1s Impact on Breast and Cancer Risk: New Findings - Medical News Corner'
-  og_description: >-
-    Recent research indicates that GLP-1 receptor agonists, used for type 2
-    diabetes and obesity, pose minimal risk for breast and thyroid cancer,
-    reassuring healthcare providers and patients about their safety in long-term
-    treatments.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/12/make_file-4.jpeg'
-  twitter_card: summary_large_image
-quality_score: 74
+  canonical: "https://medicalnewscorner.com/glp-1s-impact-on-breast-and-cancer-risk-new-findings/"
+  og_title: "GLP-1s Impact on Breast and Cancer Risk: New Findings - Medical News Corner"
+  og_description: "Recent research indicates that GLP-1 receptor agonists, used for type 2 diabetes and obesity, pose minimal risk for breast and thyroid cancer, reassuring healthcare providers and patients about their safety in long-term treatments."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/12/make_file-4.jpeg"
+  twitter_card: "summary_large_image"
+quality_score: 76
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
+  content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: >-
-  Well-written article with good tone and keyword relevance, but significantly
-  under target word count and lacks specific study details that would strengthen
-  credibility.
-image_alt: >-
-  Doctor and patient review health information with soft molecular overlays
-  suggesting reassuring medical research.
+quality_note: "Well-written article with strong keyword relevance and appropriate tone, but falls short on content length and lacks specific study details that would enhance credibility."
 ---
 
 Recent research offers reassurance to those using GLP-1 receptor agonists, as these medications appear to have minimal influence on breast and thyroid cancer risk. GLP-1 receptor agonists are commonly prescribed for managing type 2 diabetes and obesity, making their safety profile a topic of significant interest among healthcare providers and patients alike.

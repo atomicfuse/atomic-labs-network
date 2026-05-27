@@ -1,38 +1,26 @@
 ---
-title: Targeting Stem-Like Cells May Prevent Colorectal Cancer Recurrence
-description: >-
-  New research suggests stem-like colorectal cancer cells may survive treatment,
-  remain dormant, and later drive recurrence, highlighting the need for better
-  biomarkers, follow-up, and therapies targeting hidden residual disease.
-type: standard
-status: published
-publishDate: '2026-04-29T11:48:08+00:00'
-author: Taylor Winters
+title: "Targeting Stem-Like Cells May Prevent Colorectal Cancer Recurrence"
+description: "New research suggests stem-like colorectal cancer cells may survive treatment, remain dormant, and later drive recurrence, highlighting the need for better biomarkers, follow-up, and therapies targeting hidden residual disease."
+type: "standard"
+status: "published"
+publishDate: "2026-04-29T11:48:08+00:00"
+author: "Taylor Winters"
 tags:
-  - Research
-  - Cancer
-  - Clinical Trials &amp; Research
-slug: targeting-stem-like-cells-may-prevent-colorectal-cancer-recurrence
+  - "Research"
+  - "Cancer"
+  - "Clinical Trials &amp; Research"
+slug: "targeting-stem-like-cells-may-prevent-colorectal-cancer-recurrence"
 reading_time: 7
-source_url: >-
-  https://medicalnewscorner.com/targeting-stem-like-cells-may-prevent-colorectal-cancer-recurrence/
-imported_from: wordpress
+source_url: "https://medicalnewscorner.com/targeting-stem-like-cells-may-prevent-colorectal-cancer-recurrence/"
+imported_from: "wordpress"
 wp_original_id: 24825
-featuredImage: >-
-  /assets/images/targeting-stem-like-cells-may-prevent-colorectal-cancer-recurrence.webp
+featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
 seo:
-  canonical: >-
-    https://medicalnewscorner.com/targeting-stem-like-cells-may-prevent-colorectal-cancer-recurrence/
-  og_title: >-
-    Targeting Stem-Like Cells May Prevent Colorectal Cancer Recurrence - Medical
-    News Corner
-  og_description: >-
-    New research suggests stem-like colorectal cancer cells may survive
-    treatment, remain dormant, and later drive recurrence, highlighting the need
-    for better biomarkers, follow-up, and therapies targeting hidden residual
-    disease.
-  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/04/make_file-6.jpeg'
-  twitter_card: summary_large_image
+  canonical: "https://medicalnewscorner.com/targeting-stem-like-cells-may-prevent-colorectal-cancer-recurrence/"
+  og_title: "Targeting Stem-Like Cells May Prevent Colorectal Cancer Recurrence - Medical News Corner"
+  og_description: "New research suggests stem-like colorectal cancer cells may survive treatment, remain dormant, and later drive recurrence, highlighting the need for better biomarkers, follow-up, and therapies targeting hidden residual disease."
+  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/04/make_file-6.jpeg"
+  twitter_card: "summary_large_image"
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -40,13 +28,7 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: >-
-  Well-written medical article with excellent tone and comprehensive coverage of
-  colorectal cancer research, though the title could be slightly more compelling
-  for SEO.
-image_alt: >-
-  Glowing hidden cancer-like cells in an abstract tissue environment under a
-  diagnostic light.
+quality_note: "Well-structured, engaging article that effectively covers stem cell cancer research with appropriate medical tone and excellent keyword integration for the target audience."
 ---
 
 Colorectal cancer can return even after successful treatment, and scientists are increasingly focused on why. New research points to a small group of stem-like cancer cells that may survive therapy, hide in the body, and later help tumors grow again.
