@@ -42,8 +42,8 @@ quality_note: >-
   but lacks specific technical details and may contain generalized claims about
   the Snapdragon Wear platform.
 image_alt: >-
-  Smart wearable devices hovering over an abstract AI chip with glowing sensor
-  connections
+  Futuristic smartwatch with a glowing AI chip core and connected sensor
+  particles
 ---
 
 Qualcomm continues to innovate in the realm of wearable technology, introducing its latest processor aimed at enhancing the functionality and performance of smart wearables. With the launch of the Snapdragon Wear platform, Qualcomm is set to redefine how we interact with wearable devices, promising improved efficiency and user experience.
