@@ -1,27 +1,36 @@
 ---
-title: "5 Bedtime Yoga Poses for Better Sleep and Stress Relief"
-description: "In today's fast-paced world, many individuals turn to bedtime yoga to enhance sleep quality. Yoga asanas help reduce stress and screen fatigue, promoting relaxation and better sleep."
-type: "standard"
-status: "published"
-publishDate: "2026-02-23T09:53:25+00:00"
-author: "Taylor Winters"
+title: 5 Bedtime Yoga Poses for Better Sleep and Stress Relief
+description: >-
+  In today's fast-paced world, many individuals turn to bedtime yoga to enhance
+  sleep quality. Yoga asanas help reduce stress and screen fatigue, promoting
+  relaxation and better sleep.
+type: standard
+status: published
+publishDate: '2026-02-23T09:53:25+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "5-bedtime-yoga-poses-for-better-sleep-and-stress-relief"
+  - Yoga Poses
+  - Mindfullness
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: 5-bedtime-yoga-poses-for-better-sleep-and-stress-relief
 reading_time: 4
-source_url: "https://yogaterritory.com/5-bedtime-yoga-poses-for-better-sleep-and-stress-relief/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/5-bedtime-yoga-poses-for-better-sleep-and-stress-relief/
+imported_from: wordpress
 wp_original_id: 20732
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/5-bedtime-yoga-poses-for-better-sleep-and-stress-relief.webp
 seo:
-  canonical: "https://yogaterritory.com/5-bedtime-yoga-poses-for-better-sleep-and-stress-relief/"
-  og_title: "5 Bedtime Yoga Poses for Better Sleep and Stress Relief - Yoga Territory"
-  og_description: "In today's fast-paced world, many individuals turn to bedtime yoga to enhance sleep quality. Yoga asanas help reduce stress and screen fatigue, promoting relaxation and better sleep. Integrating these practices into a nightly routine can improve overall well-being."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/02/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/5-bedtime-yoga-poses-for-better-sleep-and-stress-relief/
+  og_title: 5 Bedtime Yoga Poses for Better Sleep and Stress Relief - Yoga Territory
+  og_description: >-
+    In today's fast-paced world, many individuals turn to bedtime yoga to
+    enhance sleep quality. Yoga asanas help reduce stress and screen fatigue,
+    promoting relaxation and better sleep. Integrating these practices into a
+    nightly routine can improve overall well-being.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/02/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -29,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword relevance, but significantly under target word count at 609 words versus 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and keyword relevance, but significantly
+  under target word count at 609 words versus 800-1200 range.
+image_alt: >-
+  Person doing gentle bedtime yoga in a softly lit bedroom with a phone turned
+  face down nearby
 ---
 
 In today's fast-paced world, the quest for a restful night's sleep can often feel elusive. As we navigate the challenges of stress and technology-induced fatigue, many individuals are turning to holistic practices like yoga to enhance their sleep quality. Bedtime yoga asanas offer a natural remedy to unwind after a hectic day, promoting relaxation and reducing the impact of screen fatigue.
