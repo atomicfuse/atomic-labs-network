@@ -39,8 +39,8 @@ quality_note: >-
   specific details about tariff percentages, exact price increases, and official
   sources, making some claims appear potentially fabricated.
 image_alt: >-
-  Unbranded smart speaker and soundbar framed by abstract trade and rising cost
-  visuals.
+  Unbranded smart audio gear beside abstract shipping and cost symbols in a
+  modern living room
 ---
 
 In recent developments, Sonos, a leading name in the audio technology industry, has announced a price increase for its products. This decision comes in response to escalating tariffs impacting manufacturing costs. The move is set to affect consumers who have been loyal to the brand for its high-quality sound systems, known for their seamless integration and user-friendly features.
