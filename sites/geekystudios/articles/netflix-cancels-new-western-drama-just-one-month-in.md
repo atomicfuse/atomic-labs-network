@@ -40,8 +40,8 @@ quality_note: >-
   target word count at only 499 words, which heavily impacts its overall quality
   score.
 image_alt: >-
-  Deserted Western film set with a tablet showing abstract streaming analytics
-  at dusk.
+  Empty Western film set at dusk with a cowboy hat on a director’s chair and a
+  faint red screen glow.
 ---
 
 Netflix has been a powerhouse in the streaming world, known for its vast library of content and original series that captivate global audiences. However, not every show finds its forever home on the platform. In recent times, Netflix has made headlines by canceling several of its original series, sparking discussions about its strategy and the future of streaming content.
