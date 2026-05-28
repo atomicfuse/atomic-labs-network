@@ -20,7 +20,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-scars-life-impact-atopic-dermatitis.html
 source_item_id: 6a17d0828c60bc3c84eb2db0
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/eczema-hidden-impact-atopic-dermatitis-shapes-life-paths.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong health topic coverage with engaging tone, but falls short on word count
   and lacks specific data sources for research claims.
 reading_time: 3
+image_alt: >-
+  Young adult at branching life paths with subtle skin-texture motif suggesting
+  eczema’s long-term impact.
 ---
 ## Beyond the Skin: Eczema's Lasting Life Impact
 
