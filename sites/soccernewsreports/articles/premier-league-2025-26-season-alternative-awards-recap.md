@@ -23,7 +23,7 @@ source_url: >-
   https://www.espn.com/soccer/story/_/id/48881937/premier-league-awards-2025-26-bill-connelly-best-game-best-worst-transfers-best-xi
 source_item_id: 6a16d5d58c60bc3c84eb2cfb
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/premier-league-2025-26-season-alternative-awards-recap.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   severely undermined by referencing the fictional 2025-26 season as completed
   when we're currently in 2024.
 reading_time: 3
+image_alt: >-
+  Anonymous footballers in a dramatic stadium scene symbolizing season awards
+  and debate
 ---
 ## Season-End Analysis Captures Premier League Highs and Lows
 
