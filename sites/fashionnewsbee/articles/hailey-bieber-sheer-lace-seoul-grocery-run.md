@@ -19,7 +19,7 @@ source_url: >-
   https://www.elle.com/culture/celebrities/a71401637/hailey-bieber-wears-a-sheer-lace-shirt-and-black-pants-for-a-grocery-run/
 source_item_id: 6a14fea216f23264031d8047
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/hailey-bieber-sheer-lace-seoul-grocery-run.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   tone, though slightly short of target length and some claims lack specific
   sourcing.
 reading_time: 3
+image_alt: >-
+  Stylish brunette in sheer black lace and trousers walking through a Seoul
+  convenience store aisle
 ---
 ## Vacation Style Goals from Seoul
 
