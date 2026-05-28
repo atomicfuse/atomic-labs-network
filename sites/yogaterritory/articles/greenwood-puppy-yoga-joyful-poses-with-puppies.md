@@ -1,27 +1,35 @@
 ---
-title: "Greenwood Puppy Yoga: Joyful Poses with Puppies"
-description: "Greenwood's puppy yoga combines the calming practice of yoga with playful puppies, creating a unique experience that promotes relaxation, emotional connection, and supports local animal shelters by increasing adoption chances for puppies involved in the sessions."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T09:53:32+00:00"
-author: "Taylor Winters"
+title: 'Greenwood Puppy Yoga: Joyful Poses with Puppies'
+description: >-
+  Greenwood's puppy yoga combines the calming practice of yoga with playful
+  puppies, creating a unique experience that promotes relaxation, emotional
+  connection, and supports local animal shelters by increasing adoption chances
+  for puppies involved in the sessions.
+type: standard
+status: published
+publishDate: '2026-01-15T09:53:32+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-slug: "greenwood-puppy-yoga-joyful-poses-with-puppies"
+  - Yoga Poses
+  - Lifestyle
+  - Mindfullness
+  - Yoga For Relaxation
+slug: greenwood-puppy-yoga-joyful-poses-with-puppies
 reading_time: 4
-source_url: "https://yogaterritory.com/greenwood-puppy-yoga-joyful-poses-with-puppies/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/greenwood-puppy-yoga-joyful-poses-with-puppies/'
+imported_from: wordpress
 wp_original_id: 20711
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/greenwood-puppy-yoga-joyful-poses-with-puppies.webp
 seo:
-  canonical: "https://yogaterritory.com/greenwood-puppy-yoga-joyful-poses-with-puppies/"
-  og_title: "Greenwood Puppy Yoga: Joyful Poses with Puppies - Yoga Territory"
-  og_description: "Greenwood's puppy yoga combines the calming practice of yoga with playful puppies, creating a unique experience that promotes relaxation, emotional connection, and supports local animal shelters by increasing adoption chances for puppies involved in the sessions."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/greenwood-puppy-yoga-joyful-poses-with-puppies/'
+  og_title: 'Greenwood Puppy Yoga: Joyful Poses with Puppies - Yoga Territory'
+  og_description: >-
+    Greenwood's puppy yoga combines the calming practice of yoga with playful
+    puppies, creating a unique experience that promotes relaxation, emotional
+    connection, and supports local animal shelters by increasing adoption
+    chances for puppies involved in the sessions.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate content, but falls short on length (625 words vs 800-1200 target) and could benefit from stronger SEO optimization including meta description length and more targeted keyword integration."
+quality_note: >-
+  Well-written article with good tone and accurate content, but falls short on
+  length (625 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization including meta description length and more targeted keyword
+  integration.
+image_alt: >-
+  People practicing gentle yoga in a sunlit studio while playful puppies wander
+  among the mats.
 ---
 
 In a delightful fusion of wellness and companionship, Greenwood has introduced an innovative trend that is capturing hearts and bringing smiles to many faces: puppy yoga. This unique activity combines the calming practice of yoga with the playful energy of puppies, offering participants a refreshing way to relax and unwind.
