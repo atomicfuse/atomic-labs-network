@@ -38,8 +38,8 @@ quality_note: >-
   Strong pop culture relevance and accurate content, but severely penalized by
   length being well below the 800-word minimum target.
 image_alt: >-
-  A red-haired teenager faces an eerie red-lit void from a shadowy hospital
-  room.
+  An empty hospital room with a skateboard and eerie red light suggesting danger
+  and uncertainty.
 ---
 
 The hit series "Stranger Things" returns, and fans are eager to see what happens next. One character whose fate remains uncertain is Max Mayfield. After the dramatic events of the previous season, viewers are left questioning how she will cope with the emotional and physical challenges that lie ahead.
