@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_US'
 source_item_id: 6a13f84f16f23264031d7ac2
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: /assets/images/medium-app-distraction-free-expert-content-hub.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,9 @@ quality_note: >-
   Well-written tech content with good tone but falls short on length and could
   better integrate site keywords beyond just tech focus.
 reading_time: 3
+image_alt: >-
+  Minimal smartphone reading scene contrasting focused long-form content with
+  blurred social feed distractions.
 ---
 ## A Platform Built for Depth Over Distraction
 
