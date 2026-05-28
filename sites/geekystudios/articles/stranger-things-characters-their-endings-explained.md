@@ -38,7 +38,9 @@ quality_note: >-
   Well-written pop culture content with good structure and tone, but contains
   vague statements about character endings without specific details from actual
   series finale.
-image_alt: Bicycles on a foggy suburban street face a glowing supernatural rift at dusk.
+image_alt: >-
+  Teen silhouettes with bicycles face a closing supernatural glow over a misty
+  small-town road.
 ---
 
 The beloved series Stranger Things has captivated audiences worldwide with its thrilling mix of supernatural elements, '80s nostalgia, and compelling character arcs. As the show concluded its recent season, fans were eager to see how each main character's journey was wrapped up. This article explores the endings of key characters from the show, providing an insightful look into their narrative resolutions and development.
