@@ -1,25 +1,43 @@
 ---
-title: "Starbucks Tokyo Roastery: Elevating Coffee Experience and Global Barista Champions"
-description: "Investors are increasingly focusing on emerging markets, driven by the potential for higher returns and diversification amidst volatility in traditional markets. Key factors include economic reforms, geopolitical stability, and technological advancements, though challenges like currency fluctuations and political instability remain."
-type: "standard"
+title: >-
+  Starbucks Tokyo Roastery: Elevating Coffee Experience and Global Barista
+  Champions
+description: >-
+  Investors are increasingly focusing on emerging markets, driven by the
+  potential for higher returns and diversification amidst volatility in
+  traditional markets. Key factors include economic reforms, geopolitical
+  stability, and technological advancements, though challenges like currency
+  fluctuations and political instability remain.
+type: standard
 status: published
-publishDate: "2025-11-27T09:15:36+00:00"
-author: "Taylor Winters"
+publishDate: '2025-11-27T09:15:36+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions"
+  - Coffee News
+  - News
+slug: >-
+  starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions
 reading_time: 3
-source_url: "https://coffeeactually.com/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions/
+imported_from: wordpress
 wp_original_id: 51357
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions.webp
 seo:
-  canonical: "https://coffeeactually.com/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions/"
-  og_title: "Starbucks Tokyo Roastery: Elevating Coffee Experience and Global Barista Champions - Coffee Actually"
-  og_description: "Investors are increasingly focusing on emerging markets, driven by the potential for higher returns and diversification amidst volatility in traditional markets. Key factors include economic reforms, geopolitical stability, and technological advancements, though challenges like currency fluctuations and political instability remain."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/11/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions/
+  og_title: >-
+    Starbucks Tokyo Roastery: Elevating Coffee Experience and Global Barista
+    Champions - Coffee Actually
+  og_description: >-
+    Investors are increasingly focusing on emerging markets, driven by the
+    potential for higher returns and diversification amidst volatility in
+    traditional markets. Key factors include economic reforms, geopolitical
+    stability, and technological advancements, though challenges like currency
+    fluctuations and political instability remain.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/11/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 40
 score_breakdown:
   seo_quality: 15
@@ -27,7 +45,11 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "The article is completely off-topic, discussing financial markets and emerging economies instead of coffee content despite having a coffee-related title and tags."
+quality_note: >-
+  The article is completely off-topic, discussing financial markets and emerging
+  economies instead of coffee content despite having a coffee-related title and
+  tags.
+image_alt: Barista crafting espresso in a polished Tokyo-inspired coffee roastery
 ---
 
 The global financial landscape is witnessing significant shifts as investors and market analysts closely monitor the evolving dynamics between key economic players. Recent developments indicate a growing interest in exploring new investment opportunities in emerging markets, driven by the potential for higher returns amidst fluctuating economic conditions.
