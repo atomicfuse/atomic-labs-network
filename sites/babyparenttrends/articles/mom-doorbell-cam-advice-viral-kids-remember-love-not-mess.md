@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.upworthy.com/doorbell-cam-mom-parenting-advice-ex1/'
 source_item_id: 6a167f028c60bc3c84eb2ce5
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/mom-doorbell-cam-advice-viral-kids-remember-love-not-mess.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   on length and raises concerns about vague sourcing and potential fabricated
   details.
 reading_time: 3
+image_alt: >-
+  A grandmother comforts a tired mother holding her sleeping baby at a softly
+  lit doorway.
 ---
 ## When Technology Captures Unexpected Wisdom
 
