@@ -28,6 +28,7 @@ scripts:
   head: []
   body_start: []
   body_end: []
+  before_footer: []
 
 scripts_vars: {}
 
