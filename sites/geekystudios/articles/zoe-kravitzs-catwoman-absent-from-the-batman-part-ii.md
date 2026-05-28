@@ -40,8 +40,8 @@ quality_note: >-
   between the title suggesting Catwoman's absence and the body content
   confirming her return, significantly undermining credibility.
 image_alt: >-
-  Rainy noir rooftop with a black cat and empty mask overlooking a foggy gothic
-  city.
+  Rainy noir rooftop with a lone vigilante and a catlike shadow over a glowing
+  city skylight.
 ---
 
 Fans of Gotham City can rejoice as exciting developments unfold for the eagerly awaited sequel, "The Batman Part II." This film promises to continue the gripping narrative as it brings back beloved characters and introduces fresh storylines. One of the captivating returns to look forward to is that of Zoë Kravitz as Catwoman, a role she masterfully portrayed in the previous installment.
