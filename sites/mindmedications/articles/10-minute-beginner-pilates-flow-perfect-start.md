@@ -19,7 +19,7 @@ source_url: >-
   https://www.yahoo.com/lifestyle/articles/10-minute-beginner-friendly-pilates-163126935.html
 source_item_id: 6a043feb86fcaaeb5bc83715
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/10-minute-beginner-pilates-flow-perfect-start.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   short on word count and lacks specific SEO optimization in title length and
   meta description.
 reading_time: 3
+image_alt: >-
+  Beginners practice a gentle Pilates pose in a bright, calm studio with warm
+  natural light.
 ---
 ## Pilates Is Having Its Moment
 
