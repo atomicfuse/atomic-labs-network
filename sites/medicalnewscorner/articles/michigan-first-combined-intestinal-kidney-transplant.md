@@ -20,7 +20,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-combined-intestinal-kidney-transplant.html
 source_item_id: 6a17d0828c60bc3c84eb2db4
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/michigan-first-combined-intestinal-kidney-transplant.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written health news article with excellent keyword relevance and tone,
   but falls short on content length at 574 words when 800-1200 is optimal.
 reading_time: 3
+image_alt: >-
+  Recovering patient and transplant surgeons in a softly lit modern hospital
+  corridor
 ---
 ## A Medical Milestone in Michigan
 
