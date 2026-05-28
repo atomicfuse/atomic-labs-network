@@ -22,7 +22,7 @@ source_url: >-
   https://www.hindustantimes.com/lifestyle/health/from-post-workout-hygiene-to-better-sleep-habits-these-5-wellness-rituals-are-shaping-women-s-self-care-in-2026-101779690636954.html
 source_item_id: 6a14208f16f23264031d7d7b
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/5-wellness-rituals-transforming-womens-self-care-2026.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   contains vague, unsupported claims with repeated references to unnamed
   'reports' that appear fabricated.
 reading_time: 3
+image_alt: >-
+  Indian woman in a calm modern bathroom preparing for a practical morning
+  wellness routine
 ---
 ## The Evolution of Women's Wellness
 
