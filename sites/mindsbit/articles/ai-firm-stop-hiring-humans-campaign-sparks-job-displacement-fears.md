@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: 'https://corbettreport.com/nwnw631/'
 source_item_id: 6a13fd0516f23264031d7bf3
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: >-
+  /assets/images/ai-firm-stop-hiring-humans-campaign-sparks-job-displacement-fears.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -34,6 +35,7 @@ quality_note: >-
   and could benefit from more engaging, conversational tone for tech
   enthusiasts.
 reading_time: 3
+image_alt: Commuters pass a glowing AI-themed ad kiosk on a rainy city street at night.
 ---
 ## Controversial AI Marketing Campaign Draws Public Backlash
 
