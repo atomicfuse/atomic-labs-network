@@ -1,25 +1,33 @@
 ---
-title: "Shop Affordable Medicines Online at Netmeds"
-description: "Yoga supports breast health by enhancing circulation, improving lymphatic drainage, and reducing stress. Incorporating specific poses like Cobra, Triangle, and Bow into your routine can promote wellness, flexibility, and strength, contributing to overall physical and mental well-being."
-type: "standard"
-status: "review"
-publishDate: "2025-09-11T04:33:30+00:00"
-author: "Taylor Winters"
+title: Shop Affordable Medicines Online at Netmeds
+description: >-
+  Yoga supports breast health by enhancing circulation, improving lymphatic
+  drainage, and reducing stress. Incorporating specific poses like Cobra,
+  Triangle, and Bow into your routine can promote wellness, flexibility, and
+  strength, contributing to overall physical and mental well-being.
+type: standard
+status: review
+publishDate: '2025-09-11T04:33:30+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Women"
-  - "Yoga Postures"
-slug: "shop-affordable-medicines-online-at-netmeds"
+  - Yoga Poses
+  - Yoga For Women
+  - Yoga Postures
+slug: shop-affordable-medicines-online-at-netmeds
 reading_time: 4
-source_url: "https://yogaterritory.com/shop-affordable-medicines-online-at-netmeds/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/shop-affordable-medicines-online-at-netmeds/'
+imported_from: wordpress
 wp_original_id: 20652
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/shop-affordable-medicines-online-at-netmeds.webp
 seo:
-  canonical: "https://yogaterritory.com/shop-affordable-medicines-online-at-netmeds/"
-  og_title: "Shop Affordable Medicines Online at Netmeds - Yoga Territory"
-  og_description: "Yoga supports breast health by enhancing circulation, improving lymphatic drainage, and reducing stress. Incorporating specific poses like Cobra, Triangle, and Bow into your routine can promote wellness, flexibility, and strength, contributing to overall physical and mental well-being."
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/shop-affordable-medicines-online-at-netmeds/'
+  og_title: Shop Affordable Medicines Online at Netmeds - Yoga Territory
+  og_description: >-
+    Yoga supports breast health by enhancing circulation, improving lymphatic
+    drainage, and reducing stress. Incorporating specific poses like Cobra,
+    Triangle, and Bow into your routine can promote wellness, flexibility, and
+    strength, contributing to overall physical and mental well-being.
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 25
@@ -27,7 +35,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article has strong content and tone but is severely undermined by a misleading title about online medicine shopping that doesn't match the yoga content at all."
+quality_note: >-
+  The article has strong content and tone but is severely undermined by a
+  misleading title about online medicine shopping that doesn't match the yoga
+  content at all.
+image_alt: Woman practicing a heart-opening yoga pose in a calm sunlit wellness studio
 ---
 
 Yoga is renowned for its numerous health benefits, including its positive impact on breast health. By integrating specific yoga poses into your routine, you can support breast wellness, promote circulation, and improve lymphatic drainage. These exercises not only enhance physical health but also contribute to mental well-being, reducing stress and fostering a balanced lifestyle.
