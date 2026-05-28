@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.theaureview.com/games/starfield-ps5-review/'
 source_item_id: 6a14214f16f23264031d7dd0
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: /assets/images/starfield-ps5-launch-dualsense-features-review.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   claims about Starfield's PS5 release and critically short length at only 574
   words versus the 800-1200 target.
 reading_time: 3
+image_alt: >-
+  Astronaut holding a futuristic controller as a spacecraft launches into a deep
+  blue starfield.
 ---
 ## A Long-Awaited PlayStation Debut
 
