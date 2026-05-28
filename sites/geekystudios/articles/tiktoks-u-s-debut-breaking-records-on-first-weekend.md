@@ -1,26 +1,34 @@
 ---
-title: "TikTok’s U.S. Debut: Breaking Records on First Weekend"
-description: "Over the weekend, TikTok users faced significant disruptions, impacting access to the \"For You\" page and video uploads, leading to widespread confusion and frustration across social media platforms."
-type: "standard"
+title: 'TikTok’s U.S. Debut: Breaking Records on First Weekend'
+description: >-
+  Over the weekend, TikTok users faced significant disruptions, impacting access
+  to the "For You" page and video uploads, leading to widespread confusion and
+  frustration across social media platforms.
+type: standard
 status: published
-publishDate: "2026-01-26T10:27:30+00:00"
-author: "Arthur Daly"
+publishDate: '2026-01-26T10:27:30+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-  - "Tech"
-  - "Trends"
-slug: "tiktoks-u-s-debut-breaking-records-on-first-weekend"
+  - Pop Culture
+  - Tech
+  - Trends
+slug: tiktoks-u-s-debut-breaking-records-on-first-weekend
 reading_time: 3
-source_url: "https://geekystudios.com/tiktoks-u-s-debut-breaking-records-on-first-weekend/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/tiktoks-u-s-debut-breaking-records-on-first-weekend/'
+imported_from: wordpress
 wp_original_id: 695
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/tiktoks-u-s-debut-breaking-records-on-first-weekend.webp
 seo:
-  canonical: "https://geekystudios.com/tiktoks-u-s-debut-breaking-records-on-first-weekend/"
-  og_title: "TikTok's U.S. Debut: Breaking Records on First Weekend - Geeky Studios"
-  og_description: "Over the weekend, TikTok users faced significant disruptions, impacting access to the \"For You\" page and video uploads. This outage led to widespread confusion, with users seeking answers and expressing frustration across social media platforms due to the unexpected interruptions."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/tiktoks-u-s-debut-breaking-records-on-first-weekend/
+  og_title: 'TikTok''s U.S. Debut: Breaking Records on First Weekend - Geeky Studios'
+  og_description: >-
+    Over the weekend, TikTok users faced significant disruptions, impacting
+    access to the "For You" page and video uploads. This outage led to
+    widespread confusion, with users seeking answers and expressing frustration
+    across social media platforms due to the unexpected interruptions.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 45
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "The article has major factual accuracy issues with a misleading title about TikTok's 'U.S. Debut' when discussing an outage, and lacks proper SEO optimization despite good topic coverage."
+quality_note: >-
+  The article has major factual accuracy issues with a misleading title about
+  TikTok's 'U.S. Debut' when discussing an outage, and lacks proper SEO
+  optimization despite good topic coverage.
+image_alt: >-
+  Glitching smartphone with fragmented media tiles suggesting a social platform
+  outage
 ---
 
 Over the weekend, TikTok users experienced significant disruptions, leaving many unable to access their favorite content on the platform. This outage sparked widespread confusion and frustration as essential features like the "For You" page and video uploads became inaccessible. Reports of these glitches quickly spread across social media, as users sought answers to the unexpected interruptions.
