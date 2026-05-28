@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.rimonthly.com/pilates/'
 source_item_id: 6a07fc2a4bdae0614e7aae9a
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/cannabis-pilates-thc-mindful-fitness.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   but falls short on length and could benefit from more specific SEO
   optimization.
 reading_time: 3
+image_alt: >-
+  Pilates class in a warm studio with two instructors guiding a mindful group
+  stretch.
 ---
 ## A New Approach to Mind-Body Connection
 
