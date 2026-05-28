@@ -22,7 +22,8 @@ source_url: >-
   https://www.screenhub.com.au/news/games/best-new-video-games-this-week-31-2700409/
 source_item_id: 6a14214f16f23264031d7dd1
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: >-
+  /assets/images/7-major-new-video-games-launch-this-week-across-all-platforms.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -35,6 +36,9 @@ quality_note: >-
   too short at 499 words and for discussing future releases from 2026 without
   naming any actual games, which appears fabricated.
 reading_time: 2
+image_alt: >-
+  Cinematic gamer silhouette facing seven glowing abstract game worlds in a
+  smoky dark scene
 ---
 ## This Week's Gaming Lineup: May 25-31, 2026
 
