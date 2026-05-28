@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-sun-reveals-previously-hidden-solar.html'
 source_item_id: 6a17d0828c60bc3c84eb2db7
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: >-
+  /assets/images/scientists-listen-to-sun-discover-hidden-solar-cycle-changes.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   target word count and could benefit from stronger SEO optimization in title
   length and heading structure.
 reading_time: 3
+image_alt: >-
+  Glowing sun with hidden wave patterns and magnetic arcs above a distant
+  satellite in space
 ---
 ## The Sun's Hidden Symphony
 
