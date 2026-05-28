@@ -20,7 +20,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
-featuredImage: /assets/images/buzzsoaps-general-article.webp
+featuredImage: /assets/images/amc-vampire-lestat-season-3-rock-opera-transformation.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   Strong entertainment coverage with engaging tone and excellent keyword
   relevance, but falls short of ideal length at 663 words.
 reading_time: 3
+image_alt: A vampire rock star stands under golden stage lights in a gothic concert hall.
 ---
 ## A Major Reinvention for the Vampire Chronicles
 
