@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vogue.com/article/var-coast-french-riviera-guide'
 source_item_id: 6a14fea216f23264031d8049
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/var-coast-french-riviera-alternative.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   but falls short on length and relies heavily on vague 'reports' without
   specific sources.
 reading_time: 3
+image_alt: >-
+  Quiet turquoise Var coast cove framed by pine trees, sailboats, rocks, and
+  sunlit Mediterranean water
 ---
 ## A Quieter Alternative to Crowded Riviera Classics
 
