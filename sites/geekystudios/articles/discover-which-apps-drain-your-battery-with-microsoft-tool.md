@@ -39,8 +39,8 @@ quality_note: >-
   Well-written tutorial with good tone and accuracy, but falls significantly
   short of the target word count at only 505 words versus the 800-1200 range.
 image_alt: >-
-  Laptop with abstract app tiles and energy trails visualizing battery drain and
-  optimization.
+  A laptop with abstract glowing app panels drawing energy from a floating
+  battery symbol.
 ---
 
 Managing your laptop's battery life efficiently is crucial for ensuring productivity, especially when you're on the go. Windows laptops offer various built-in tools to help you identify and manage power-hungry applications. Understanding how to use these tools can significantly enhance your device's performance and longevity.
