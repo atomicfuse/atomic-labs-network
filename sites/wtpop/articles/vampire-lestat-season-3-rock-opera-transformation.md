@@ -20,7 +20,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/vampire-lestat-season-3-rock-opera-transformation.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 78
@@ -32,6 +32,9 @@ quality_note: >-
   Strong entertainment focus with engaging tone, but significantly under target
   word count which limits SEO potential and content depth.
 reading_time: 3
+image_alt: >-
+  Blond vampire-like rock performer silhouetted on a gothic concert stage under
+  amber and violet lights.
 ---
 ## A Bold Musical Pivot
 
