@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html'
 source_item_id: 6a17d0828c60bc3c84eb2db3
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/solitary-sun-cosmic-oddball-star-census.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 78
@@ -30,6 +30,9 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under target word count at 646 words versus the 800-1200 range.
 reading_time: 3
+image_alt: >-
+  A lone sun-like star separated from paired stars and a shadowed exoplanet in
+  deep space.
 ---
 ## The Sun's Lonely Status in Our Cosmic Neighborhood
 
