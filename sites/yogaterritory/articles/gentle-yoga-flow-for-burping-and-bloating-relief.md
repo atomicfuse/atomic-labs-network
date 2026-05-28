@@ -1,30 +1,34 @@
 ---
-title: "Gentle Yoga Flow for Burping and Bloating Relief"
-description: "Discover a 20-minute yoga routine designed to alleviate bloating and promote natural burping through gentle movements."
-type: "standard"
-status: "review"
-publishDate: "2025-08-28T04:43:19+00:00"
-author: "Taylor Winters"
+title: Gentle Yoga Flow for Burping and Bloating Relief
+description: >-
+  Discover a 20-minute yoga routine designed to alleviate bloating and promote
+  natural burping through gentle movements.
+type: standard
+status: review
+publishDate: '2025-08-28T04:43:19+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "gentle-yoga-flow-for-burping-and-bloating-relief"
+  - Yoga Poses
+  - Lifestyle
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: gentle-yoga-flow-for-burping-and-bloating-relief
 reading_time: 2
-source_url: "https://yogaterritory.com/gentle-yoga-flow-for-burping-and-bloating-relief/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/gentle-yoga-flow-for-burping-and-bloating-relief/'
+imported_from: wordpress
 wp_original_id: 20648
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/gentle-yoga-flow-for-burping-and-bloating-relief.webp
 seo:
-  canonical: "https://yogaterritory.com/gentle-yoga-flow-for-burping-and-bloating-relief/"
-  og_title: "Gentle Yoga Flow for Burping and Bloating Relief - Yoga Territory"
-  og_description: "Discover a 20-minute yoga routine designed to alleviate bloating and promote natural burping through gentle movements."
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/gentle-yoga-flow-for-burping-and-bloating-relief/'
+  og_title: Gentle Yoga Flow for Burping and Bloating Relief - Yoga Territory
+  og_description: >-
+    Discover a 20-minute yoga routine designed to alleviate bloating and promote
+    natural burping through gentle movements.
+  twitter_card: summary_large_image
 videos:
-  - id: "d2ee4772"
-    url: "https://www.youtube.com/watch?v=ZNgnOywkP9c"
-    position: "after-paragraph-2"
+  - id: d2ee4772
+    url: 'https://www.youtube.com/watch?v=ZNgnOywkP9c'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -32,7 +36,10 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with appropriate tone and accurate content, but significantly under target word count at 318 words versus the 800-1200 range."
+quality_note: >-
+  Well-written article with appropriate tone and accurate content, but
+  significantly under target word count at 318 words versus the 800-1200 range.
+image_alt: 'Person practicing a gentle seated yoga twist in a softly lit, calming room.'
 ---
 
 Feeling bloated or struggling with trapped air in your chest or belly can be uncomfortable. Luckily, yoga offers a natural way to support digestion and encourage the release of trapped air. This 20-minute gentle yoga flow is perfect for those seeking relief from gas and bloating through mindful movement.
