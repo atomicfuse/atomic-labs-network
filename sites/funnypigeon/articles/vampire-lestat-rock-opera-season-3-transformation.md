@@ -22,7 +22,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/vampire-lestat-rock-opera-season-3-transformation.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   the site's entertainment focus on funny videos, memes, viral content, and
   animals - it's too serious for the target audience.
 reading_time: 3
+image_alt: >-
+  Blond vampire rock singer stands in smoky amber stage light with gothic
+  architecture behind him.
 ---
 ## From Gothic Drama to Rock Star Mythology
 
