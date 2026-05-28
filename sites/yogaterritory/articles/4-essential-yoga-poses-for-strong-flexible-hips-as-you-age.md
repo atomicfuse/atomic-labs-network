@@ -1,25 +1,35 @@
 ---
-title: "4 Essential Yoga Poses for Strong, Flexible Hips as You Age"
-description: "Maintaining hip flexibility and strength is crucial for mobility and health as we age. Yoga poses like Pigeon, Garland, Warrior II, and Butterfly can enhance hip flexibility, reduce tension, and improve posture and balance, supporting an active lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2025-08-07T04:29:29+00:00"
-author: "Taylor Winters"
+title: '4 Essential Yoga Poses for Strong, Flexible Hips as You Age'
+description: >-
+  Maintaining hip flexibility and strength is crucial for mobility and health as
+  we age. Yoga poses like Pigeon, Garland, Warrior II, and Butterfly can enhance
+  hip flexibility, reduce tension, and improve posture and balance, supporting
+  an active lifestyle.
+type: standard
+status: published
+publishDate: '2025-08-07T04:29:29+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga Postures"
-slug: "4-essential-yoga-poses-for-strong-flexible-hips-as-you-age"
+  - Yoga Poses
+  - Yoga Postures
+slug: 4-essential-yoga-poses-for-strong-flexible-hips-as-you-age
 reading_time: 3
-source_url: "https://yogaterritory.com/4-essential-yoga-poses-for-strong-flexible-hips-as-you-age/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/4-essential-yoga-poses-for-strong-flexible-hips-as-you-age/
+imported_from: wordpress
 wp_original_id: 20642
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/4-essential-yoga-poses-for-strong-flexible-hips-as-you-age.webp
 seo:
-  canonical: "https://yogaterritory.com/4-essential-yoga-poses-for-strong-flexible-hips-as-you-age/"
-  og_title: "4 Essential Yoga Poses for Strong, Flexible Hips as You Age - Yoga Territory"
-  og_description: "Maintaining hip flexibility and strength is crucial for mobility and health as we age. Yoga poses like Pigeon, Garland, Warrior II, and Butterfly can enhance hip flexibility, reduce tension, and improve posture and balance, supporting an active lifestyle."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/08/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/4-essential-yoga-poses-for-strong-flexible-hips-as-you-age/
+  og_title: '4 Essential Yoga Poses for Strong, Flexible Hips as You Age - Yoga Territory'
+  og_description: >-
+    Maintaining hip flexibility and strength is crucial for mobility and health
+    as we age. Yoga poses like Pigeon, Garland, Warrior II, and Butterfly can
+    enhance hip flexibility, reduce tension, and improve posture and balance,
+    supporting an active lifestyle.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/08/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and keyword relevance, but falls short on length at 568 words (target is 800-1200) and could benefit from better heading structure for SEO."
+quality_note: >-
+  Well-written article with excellent tone and keyword relevance, but falls
+  short on length at 568 words (target is 800-1200) and could benefit from
+  better heading structure for SEO.
+image_alt: 'Older adult practicing a hip-opening yoga pose in a bright, peaceful room'
 ---
 
 As we age, maintaining flexibility and strength in our hips becomes increasingly important for overall mobility and health. Many people experience tight hips due to prolonged sitting or lack of movement, which can lead to discomfort and reduced range of motion. Incorporating specific yoga poses into your routine can help improve hip flexibility and strength, enhancing your daily life and physical activities.
