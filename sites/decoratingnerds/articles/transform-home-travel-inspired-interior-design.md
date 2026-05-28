@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://richmondmagazine.com/api/content/ee080292-5559-11f1-a08a-1248ae80e59d/'
 source_item_id: 6a152fda16f23264031d81fd
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: /assets/images/transform-home-travel-inspired-interior-design.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong content relevance and tone but significantly under target word count
   and contains vague, unsupported claims about 'recent reports' throughout.
 reading_time: 3
+image_alt: >-
+  Elegant travel-inspired dining room with layered textures, warm wood, burgundy
+  accents, and sculptural lighting.
 ---
 ## Creating Collected Spaces That Tell Your Story
 
