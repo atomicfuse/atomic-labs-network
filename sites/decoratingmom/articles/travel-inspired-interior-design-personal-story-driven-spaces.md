@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: 'https://richmondmagazine.com/api/content/ee080292-5559-11f1-a08a-1248ae80e59d/'
 source_item_id: 6a152fda16f23264031d81fd
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: >-
+  /assets/images/travel-inspired-interior-design-personal-story-driven-spaces.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -33,6 +34,9 @@ quality_note: >-
   Good keyword relevance for interior design but lacks DIY/budget elements, has
   vague sourcing, and falls short of target word count.
 reading_time: 3
+image_alt: >-
+  A curated dining-living room with velvet chairs, warm lighting, art, ceramics,
+  and travel-inspired textures.
 ---
 ## The Rise of Travel-Inspired Interior Design
 
