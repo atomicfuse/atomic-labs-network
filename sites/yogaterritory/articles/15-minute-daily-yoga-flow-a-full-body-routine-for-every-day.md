@@ -1,30 +1,41 @@
 ---
-title: "15-Minute Daily Yoga Flow: A Full-Body Routine for Every Day"
-description: "Discover a 15-minute daily yoga flow that offers a full-body practice suitable for all levels, perfect as a daily routine to enhance flexibility and strength."
-type: "standard"
-status: "review"
-publishDate: "2025-11-24T10:15:29+00:00"
-author: "Taylor Winters"
+title: '15-Minute Daily Yoga Flow: A Full-Body Routine for Every Day'
+description: >-
+  Discover a 15-minute daily yoga flow that offers a full-body practice suitable
+  for all levels, perfect as a daily routine to enhance flexibility and
+  strength.
+type: standard
+status: review
+publishDate: '2025-11-24T10:15:29+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga For Beginners"
-slug: "15-minute-daily-yoga-flow-a-full-body-routine-for-every-day"
+  - Yoga Poses
+  - Lifestyle
+  - Mindfullness
+  - Yoga For Beginners
+slug: 15-minute-daily-yoga-flow-a-full-body-routine-for-every-day
 reading_time: 2
-source_url: "https://yogaterritory.com/15-minute-daily-yoga-flow-a-full-body-routine-for-every-day/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/15-minute-daily-yoga-flow-a-full-body-routine-for-every-day/
+imported_from: wordpress
 wp_original_id: 20687
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/15-minute-daily-yoga-flow-a-full-body-routine-for-every-day.webp
 seo:
-  canonical: "https://yogaterritory.com/15-minute-daily-yoga-flow-a-full-body-routine-for-every-day/"
-  og_title: "15-Minute Daily Yoga Flow: A Full-Body Routine for Every Day - Yoga Territory"
-  og_description: "Discover a 15-minute daily yoga flow that offers a full-body practice suitable for all levels. Perfect as a daily routine to enhance flexibility and strength."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/15-minute-daily-yoga-flow-a-full-body-routine-for-every-day/
+  og_title: >-
+    15-Minute Daily Yoga Flow: A Full-Body Routine for Every Day - Yoga
+    Territory
+  og_description: >-
+    Discover a 15-minute daily yoga flow that offers a full-body practice
+    suitable for all levels. Perfect as a daily routine to enhance flexibility
+    and strength.
+  twitter_card: summary_large_image
 videos:
-  - id: "5622a01d"
-    url: "https://www.youtube.com/watch?v=YAOTrvu5Lq8"
-    position: "after-paragraph-2"
+  - id: 5622a01d
+    url: 'https://www.youtube.com/watch?v=YAOTrvu5Lq8'
+    position: after-paragraph-2
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -32,7 +43,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and keyword alignment but falls significantly short of the target word count at only 372 words, which severely impacts its overall quality score."
+quality_note: >-
+  The article has good tone and keyword alignment but falls significantly short
+  of the target word count at only 372 words, which severely impacts its overall
+  quality score.
+image_alt: >-
+  Person practicing yoga in a bright, calm living room with morning light and
+  greenery.
 ---
 
 In our fast-paced lives, finding time for a comprehensive workout can be challenging. However, incorporating a quick yet effective yoga routine into your daily schedule can significantly enhance your physical and mental well-being. This 15-minute daily yoga flow is designed to be a full-body practice that you can do every day, regardless of your experience level.
