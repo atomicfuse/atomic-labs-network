@@ -20,7 +20,7 @@ source_url: >-
   https://www.thestar.com.my/lifestyle/health/two-fit/2026/05/22/performing-pilates-with-heat-from-japanese-hinoki-wood
 source_item_id: 6a13fc9f16f23264031d7b85
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/japanese-hinoki-wood-heat-pilates-workout.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 65
@@ -33,6 +33,9 @@ quality_note: >-
   but falls short on length and could benefit from stronger SEO optimization in
   title and meta description.
 reading_time: 3
+image_alt: >-
+  Women practicing heated reformer Pilates in a warm Hinoki wood wellness
+  studio.
 ---
 ## A New Approach to Heated Fitness
 
