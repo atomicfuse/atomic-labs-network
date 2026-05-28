@@ -22,7 +22,7 @@ source_url: >-
   https://blockclubchicago.org/2026/05/13/pilates-instructor-behind-popular-lakefront-classes-opens-edison-park-studio/
 source_item_id: 6a07fc2a4bdae0614e7aae9b
 generated_by: claude
-featuredImage: /assets/images/yogaterritory-general-article.webp
+featuredImage: /assets/images/viral-beach-pilates-instructor-opens-studio.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -35,6 +35,9 @@ quality_note: >-
   business story rather than yoga content, poorly matching the site's
   yoga-focused keywords and SEO requirements.
 reading_time: 3
+image_alt: >-
+  Pilates instructor in a warm studio with mats arranged around her in soft
+  morning light
 ---
 ## From Beach to Brick-and-Mortar: A Wellness Success Story
 
