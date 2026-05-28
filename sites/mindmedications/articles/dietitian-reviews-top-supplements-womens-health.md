@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.womenshealthmag.com/health/g64703629/best-supplements-for-women/'
 source_item_id: 6a03382786fcaaeb5bc832cf
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/dietitian-reviews-top-supplements-womens-health.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -34,6 +34,9 @@ quality_note: >-
   integration, but falls short on length requirements and lacks specific details
   that would enhance credibility and SEO value.
 reading_time: 3
+image_alt: >-
+  Sunlit wellness still life with unbranded supplements, capsules, and fresh
+  nutrition ingredients
 ---
 ## Expert-Backed Supplement Guidance for Women
 
