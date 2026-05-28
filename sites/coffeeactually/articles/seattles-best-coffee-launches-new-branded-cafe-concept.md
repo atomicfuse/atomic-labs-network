@@ -1,26 +1,35 @@
 ---
-title: "Seattle’s Best Coffee Launches New Branded Café Concept"
-description: "Seattle's Best Coffee has launched a new flexible branded café concept aimed at foodservice operators, providing recognisable branding, menu support, and operational guidance for venues looking to elevate their coffee proposition without building one from scratch."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:16:22+00:00"
-author: "Taylor Winters"
+title: Seattle’s Best Coffee Launches New Branded Café Concept
+description: >-
+  Seattle's Best Coffee has launched a new flexible branded café concept aimed
+  at foodservice operators, providing recognisable branding, menu support, and
+  operational guidance for venues looking to elevate their coffee proposition
+  without building one from scratch.
+type: standard
+status: published
+publishDate: '2026-05-18T08:16:22+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee Drinks"
-  - "Coffee Gear"
-  - "News"
-slug: "seattles-best-coffee-launches-new-branded-cafe-concept"
+  - Coffee Drinks
+  - Coffee Gear
+  - News
+slug: seattles-best-coffee-launches-new-branded-cafe-concept
 reading_time: 7
-source_url: "https://coffeeactually.com/seattles-best-coffee-launches-new-branded-cafe-concept/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/seattles-best-coffee-launches-new-branded-cafe-concept/
+imported_from: wordpress
 wp_original_id: 51456
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/seattles-best-coffee-launches-new-branded-cafe-concept.webp
 seo:
-  canonical: "https://coffeeactually.com/seattles-best-coffee-launches-new-branded-cafe-concept/"
-  og_title: "Seattle’s Best Coffee Launches New Branded Café Concept - Coffee Actually"
-  og_description: "Seattle’s Best Coffee launches a flexible branded café concept for foodservice operators, offering recognisable branding, menu support and operational guidance for venues seeking a stronger coffee proposition."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/seattles-best-coffee-launches-new-branded-cafe-concept/
+  og_title: Seattle’s Best Coffee Launches New Branded Café Concept - Coffee Actually
+  og_description: >-
+    Seattle’s Best Coffee launches a flexible branded café concept for
+    foodservice operators, offering recognisable branding, menu support and
+    operational guidance for venues seeking a stronger coffee proposition.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 86
 score_breakdown:
   seo_quality: 75
@@ -28,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-structured article with good length and engaging tone, though the title could be more compelling and some claims about the concept lack specific supporting details."
+quality_note: >-
+  Well-structured article with good length and engaging tone, though the title
+  could be more compelling and some claims about the concept lack specific
+  supporting details.
+image_alt: >-
+  Modern café counter with espresso drinks, pastries, and warm wood finishes in
+  a bright hospitality space
 ---
 
 Seattle's Best Coffee is moving deeper into foodservice with a new branded café concept designed for operators seeking a recognisable coffee offer without building one from scratch. The concept gives venues a ready-made way to serve espresso drinks, cold beverages and café-style products under an established name.
