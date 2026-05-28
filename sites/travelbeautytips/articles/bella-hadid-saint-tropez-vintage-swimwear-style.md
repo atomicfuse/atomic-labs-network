@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.elle.com/culture/celebrities/a71401920/bella-hadid-one-piece-suit/'
 source_item_id: 6a14fea216f23264031d8041
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/bella-hadid-saint-tropez-vintage-swimwear-style.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   length requirements and contains some unverifiable claims about specific
   trends and timing.
 reading_time: 3
+image_alt: Stylish woman in retro swimwear on a Riviera yacht in warm summer light.
 ---
 ## Bella Hadid's Latest French Riviera Fashion Moment
 
