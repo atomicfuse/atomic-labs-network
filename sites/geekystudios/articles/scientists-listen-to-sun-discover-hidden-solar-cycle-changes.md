@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-sun-reveals-previously-hidden-solar.html'
 source_item_id: 6a17d0828c60bc3c84eb2db7
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: >-
+  /assets/images/scientists-listen-to-sun-discover-hidden-solar-cycle-changes.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 85
@@ -32,6 +33,9 @@ quality_note: >-
   of target word count and could better integrate the site's broader topic areas
   beyond tech.
 reading_time: 3
+image_alt: >-
+  Glowing Sun with subtle wave ripples and magnetic arcs above Earth and
+  satellites in deep space.
 ---
 ## Revolutionary Solar Listening Technique Uncovers Hidden Changes
 
