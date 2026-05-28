@@ -42,8 +42,8 @@ quality_note: >-
   Strong tone and keyword relevance, but significantly damaged by factual
   inaccuracies (Switch 2 doesn't exist) and below-target word count.
 image_alt: >-
-  Abstract gaming hardware scene with holiday lights and rising market graph
-  shapes
+  Sleek game console silhouette leading a handheld device amid cool holiday
+  market-style lighting.
 ---
 
 The gaming industry witnessed a remarkable shift during the recent holiday season, with the PlayStation 5 (PS5) overtaking the Nintendo Switch in sales. This unexpected development highlights Sony's successful strategy and the growing demand for next-generation consoles. As the gaming landscape evolves, understanding these market dynamics becomes crucial for consumers and industry analysts alike.
