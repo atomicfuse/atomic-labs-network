@@ -1,26 +1,39 @@
 ---
-title: "Meghan Markle’s Fitness Routine: Yoga, Strength Training, Mental Wellness"
-description: "Meghan Markle's fitness routine integrates yoga, strength training, and mindfulness, promoting both physical and mental well-being. Her balanced approach enhances her health, offering inspiration for those seeking a holistic lifestyle that fosters both physical fitness and mental resilience."
-type: "standard"
-status: "review"
-publishDate: "2025-12-04T09:47:26+00:00"
-author: "Taylor Winters"
+title: 'Meghan Markle’s Fitness Routine: Yoga, Strength Training, Mental Wellness'
+description: >-
+  Meghan Markle's fitness routine integrates yoga, strength training, and
+  mindfulness, promoting both physical and mental well-being. Her balanced
+  approach enhances her health, offering inspiration for those seeking a
+  holistic lifestyle that fosters both physical fitness and mental resilience.
+type: standard
+status: review
+publishDate: '2025-12-04T09:47:26+00:00'
+author: Taylor Winters
 tags:
-  - "Wellness"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-slug: "meghan-markles-fitness-routine-yoga-strength-training-mental-wellness"
+  - Wellness
+  - Lifestyle
+  - Mindfullness
+  - Yoga For Relaxation
+slug: meghan-markles-fitness-routine-yoga-strength-training-mental-wellness
 reading_time: 3
-source_url: "https://yogaterritory.com/meghan-markles-fitness-routine-yoga-strength-training-mental-wellness/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/meghan-markles-fitness-routine-yoga-strength-training-mental-wellness/
+imported_from: wordpress
 wp_original_id: 20691
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/meghan-markles-fitness-routine-yoga-strength-training-mental-wellness.webp
 seo:
-  canonical: "https://yogaterritory.com/meghan-markles-fitness-routine-yoga-strength-training-mental-wellness/"
-  og_title: "Meghan Markle's Fitness Routine: Yoga, Strength Training, Mental Wellness - Yoga Territory"
-  og_description: "Meghan Markle's fitness routine integrates yoga, strength training, and mindfulness, promoting both physical and mental well-being. Her balanced approach enhances her health, offering inspiration for those seeking a holistic lifestyle that fosters both physical fitness and mental resilience."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/meghan-markles-fitness-routine-yoga-strength-training-mental-wellness/
+  og_title: >-
+    Meghan Markle's Fitness Routine: Yoga, Strength Training, Mental Wellness -
+    Yoga Territory
+  og_description: >-
+    Meghan Markle's fitness routine integrates yoga, strength training, and
+    mindfulness, promoting both physical and mental well-being. Her balanced
+    approach enhances her health, offering inspiration for those seeking a
+    holistic lifestyle that fosters both physical fitness and mental resilience.
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword integration, but significantly under target length at 490 words and makes some unverifiable claims about Meghan Markle's specific practices."
+quality_note: >-
+  Well-written article with good tone and keyword integration, but significantly
+  under target length at 490 words and makes some unverifiable claims about
+  Meghan Markle's specific practices.
+image_alt: >-
+  Serene wellness studio with yoga mat, weights, meditation cushion, and soft
+  morning light
 ---
 
 Meghan Markle, renowned for her elegant style and poise, also maintains an impressive commitment to fitness and wellness. Her routine combines elements of yoga, strength training, and mindfulness, offering a holistic approach that many aspire to replicate. This article delves into the core aspects of Meghan's workout regimen and how it contributes to her overall well-being.
