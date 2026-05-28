@@ -44,8 +44,8 @@ quality_note: >-
   significantly too short at 499 words for the site's 800-1200 word target
   range.
 image_alt: >-
-  Moody stack of logo-free comic books with abstract superhero panels under
-  cinematic lighting
+  Unbranded comic books open under a spotlight with abstract hero silhouettes
+  and cosmic city imagery
 ---
 
 Exploring the immersive world of DC Comics can be an exhilarating journey, especially for those who are new to the universe of superheroes, villains, and intricate storylines. With an expansive library of compelling narratives, DC Comics offers something for every type of reader. To help newcomers find their footing, renowned filmmaker James Gunn has shared his top picks for DC Comics collections that are perfect for those just starting their adventure.
