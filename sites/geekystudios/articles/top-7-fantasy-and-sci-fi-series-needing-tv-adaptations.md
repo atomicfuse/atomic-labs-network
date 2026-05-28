@@ -41,8 +41,8 @@ quality_note: >-
   that doesn't actually name any specific book series, making it feel incomplete
   and potentially misleading to readers.
 image_alt: >-
-  Unmarked books release glowing fantasy and sci-fi worlds above a moody library
-  table.
+  Seven glowing books suggest fantasy and sci-fi worlds waiting to become
+  television stories.
 ---
 
 In a world where TV adaptations of fantasy and sci-fi novels are increasingly popular, several remarkable series remain untouched by producers. These literary treasures captivate with their imaginative worlds and compelling narratives, yet they have yet to find their way onto the screen. This exploration delves into some of the most deserving series that have not yet been adapted for television, offering new opportunities for captivating storytelling.
