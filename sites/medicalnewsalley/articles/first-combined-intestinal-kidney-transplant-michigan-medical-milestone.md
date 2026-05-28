@@ -22,7 +22,8 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-combined-intestinal-kidney-transplant.html
 source_item_id: 6a17d0828c60bc3c84eb2db4
 generated_by: claude
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: >-
+  /assets/images/first-combined-intestinal-kidney-transplant-michigan-medical-milestone.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -35,6 +36,9 @@ quality_note: >-
   falls short of optimal length and could benefit from better SEO optimization
   in title and meta description.
 reading_time: 3
+image_alt: >-
+  Hopeful hospital scene with a patient silhouette and transplant team near a
+  softly lit operating room.
 ---
 ## Breaking New Ground in Transplant Medicine
 
