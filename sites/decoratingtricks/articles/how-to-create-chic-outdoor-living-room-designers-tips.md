@@ -19,7 +19,7 @@ source_url: >-
   https://shopping.yahoo.com/home-garden/outdoor/articles/designers-reveal-create-chic-outdoor-131500787.html
 source_item_id: 6a152fda16f23264031d81ff
 generated_by: claude
-featuredImage: /assets/images/decoratingtricks-general-article.webp
+featuredImage: /assets/images/how-to-create-chic-outdoor-living-room-designers-tips.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong topic alignment and tone but significantly under target word count at
   622 words, which limits its SEO potential and comprehensive coverage.
 reading_time: 3
+image_alt: >-
+  Chic patio living room with cushioned seating, plants, warm lighting, and open
+  doors to the home.
 ---
 ## Transform Your Patio Into an Extension of Your Home
 
