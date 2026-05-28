@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html'
 source_item_id: 6a17d0828c60bc3c84eb2db3
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/solitary-sun-weird-star-census-reveals.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 78
@@ -30,6 +30,9 @@ quality_note: >-
   Strong space content with engaging tone but falls short on word count and
   lacks specific citations for the arXiv study claims.
 reading_time: 3
+image_alt: >-
+  A solitary yellow star contrasts with distant paired stars connected by faint
+  orbital arcs.
 ---
 ## Most Stars Travel in Packs
 
