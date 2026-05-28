@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/kaitlynmcinnis/2026/05/25/the-travel-destinations-where-couples-are-least-likely-to-break-up-per-new-analysis/
 source_item_id: 6a14fea216f23264031d8046
 generated_by: claude
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/stress-free-destinations-couples-least-likely-break-up.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 85
@@ -33,6 +33,9 @@ quality_note: >-
   under target word count and contains unsupported claims about the 'Pour Moi
   analysis' without proper verification.
 reading_time: 3
+image_alt: >-
+  A couple strolls beside a calm lake at golden hour with mountains and rooftops
+  in the distance.
 ---
 ## The Science Behind Relationship-Friendly Travel
 
