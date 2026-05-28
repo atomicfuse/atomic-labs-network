@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html'
 source_item_id: 6a17d0828c60bc3c84eb2db3
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/sun-cosmic-loner-new-star-census-reveals-rarity.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written astronomy article with engaging tone but falls short of target
   length and could better integrate primary site keywords beyond just 'Tech'.
 reading_time: 3
+image_alt: >-
+  A lone yellow star glows apart from distant paired stars in a dark cosmic
+  field.
 ---
 ## Our Sun Is Actually the Odd One Out
 
