@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.womenshealthmag.com/health/g45125367/multivitamins-for-women/'
 source_item_id: 6a03382786fcaaeb5bc832b7
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/expert-dietitian-reviews-top-6-womens-multivitamins.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   significantly under target word count and contains vague sourcing that impacts
   credibility.
 reading_time: 3
+image_alt: >-
+  Unbranded vitamins, gummies, water, and notes arranged in a warm wellness
+  still life
 ---
 ## Expert Analysis of Women's Multivitamin Market
 
