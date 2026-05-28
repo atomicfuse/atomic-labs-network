@@ -21,7 +21,7 @@ source_url: >-
   https://www.slashgear.com/2180077/how-kitt-knight-rider-pontiac-trans-am-got-nyc-speeding-ticket/
 source_item_id: 6a165bda8c60bc3c84eb2cd1
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/kitt-replica-speeding-ticket-museum-knight-rider.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written and engaging piece with good tone, but lacks automotive focus and
   has questionable factual basis for the central claim.
 reading_time: 3
+image_alt: >-
+  Black retro sports car in a museum with traffic camera imagery suggesting a
+  mistaken speeding ticket.
 ---
 ## When Nostalgia Meets Modern Bureaucracy
 
