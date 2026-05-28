@@ -41,8 +41,8 @@ quality_note: >-
   Well-written tech article with good tone and accuracy, but significantly under
   the target word count at 602 words versus the 800-1200 range.
 image_alt: >-
-  Unbranded tablet on a workbench with abstract supply chain routes branching to
-  global manufacturing nodes
+  Unbranded tablet beside abstract global factory connections on a cool blue
+  editorial background.
 ---
 
 Microsoft is reportedly considering a significant change in its manufacturing strategy for Surface devices, aiming to relocate some production from China to alternative locations. This strategic shift underscores the company's response to the evolving geopolitical landscape and supply chain challenges. Such a move could have far-reaching implications for the tech giant's operations and the broader global manufacturing sector.
