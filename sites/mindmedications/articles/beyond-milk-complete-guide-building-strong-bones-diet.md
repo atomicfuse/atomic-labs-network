@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.womenshealthmag.com/health/a71180176/best-foods-for-bone-health/'
 source_item_id: 6a03382786fcaaeb5bc832c8
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/beyond-milk-complete-guide-building-strong-bones-diet.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   short on length (584 words vs 800-1200 target) and contains vague sourcing
   that undermines credibility.
 reading_time: 3
+image_alt: Colorful whole foods arranged in a clean mosaic on pale green tiles
 ---
 ## The Calcium Myth That's Keeping Your Bones Weak
 
