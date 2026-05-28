@@ -19,7 +19,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/vampire-lestat-amc-interview-season-3-rock-opera.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   relevance, but falls short on length and relies heavily on unverified
   'reports' without clear sourcing.
 reading_time: 3
+image_alt: >-
+  Blond vampire rock frontman on a smoky amber-lit stage with gothic theatrical
+  details
 ---
 ## A Bold New Direction for the Vampire Chronicles
 
