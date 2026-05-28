@@ -1,30 +1,39 @@
 ---
-title: "Enhance Your Practice with a 30-Minute Intermediate Yoga Flow"
-description: "Discover a full-body yoga routine designed for intermediate practitioners. Elevate your practice with this creative and effective daily flow."
-type: "standard"
-status: "review"
-publishDate: "2025-11-03T09:49:18+00:00"
-author: "Taylor Winters"
+title: Enhance Your Practice with a 30-Minute Intermediate Yoga Flow
+description: >-
+  Discover a full-body yoga routine designed for intermediate practitioners.
+  Elevate your practice with this creative and effective daily flow.
+type: standard
+status: review
+publishDate: '2025-11-03T09:49:18+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Mindfullness"
-  - "Yoga Postures"
-slug: "enhance-your-practice-with-a-30-minute-intermediate-yoga-flow"
+  - Yoga Poses
+  - Lifestyle
+  - Mindfullness
+  - Yoga Postures
+slug: enhance-your-practice-with-a-30-minute-intermediate-yoga-flow
 reading_time: 2
-source_url: "https://yogaterritory.com/enhance-your-practice-with-a-30-minute-intermediate-yoga-flow/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/enhance-your-practice-with-a-30-minute-intermediate-yoga-flow/
+imported_from: wordpress
 wp_original_id: 20677
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: >-
+  /assets/images/enhance-your-practice-with-a-30-minute-intermediate-yoga-flow.webp
 seo:
-  canonical: "https://yogaterritory.com/enhance-your-practice-with-a-30-minute-intermediate-yoga-flow/"
-  og_title: "Enhance Your Practice with a 30-Minute Intermediate Yoga Flow - Yoga Territory"
-  og_description: "Discover a full-body yoga routine designed for intermediate practitioners. Elevate your practice with this creative and effective daily flow."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/enhance-your-practice-with-a-30-minute-intermediate-yoga-flow/
+  og_title: >-
+    Enhance Your Practice with a 30-Minute Intermediate Yoga Flow - Yoga
+    Territory
+  og_description: >-
+    Discover a full-body yoga routine designed for intermediate practitioners.
+    Elevate your practice with this creative and effective daily flow.
+  twitter_card: summary_large_image
 videos:
-  - id: "cc5cddd3"
-    url: "https://www.youtube.com/watch?v=z5hyJ_1bYGY"
-    position: "after-paragraph-2"
+  - id: cc5cddd3
+    url: 'https://www.youtube.com/watch?v=z5hyJ_1bYGY'
+    position: after-paragraph-2
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -32,7 +41,10 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "The article has good tone and keyword relevance but is significantly too short at only 339 words when the target is 800-1200 words."
+quality_note: >-
+  The article has good tone and keyword relevance but is significantly too short
+  at only 339 words when the target is 800-1200 words.
+image_alt: Yoga practitioner flowing through a calm vinyasa pose in a sunlit studio
 ---
 
 Welcome to an invigorating 30-minute daily yoga flow designed to enhance your practice and engage your entire body. This routine is ideal for intermediate yogis looking to deepen their practice with a well-rounded sequence that balances strength, flexibility, and mindfulness.
