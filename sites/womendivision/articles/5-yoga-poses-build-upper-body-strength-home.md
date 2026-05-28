@@ -19,7 +19,7 @@ source_url: >-
   https://www.thehealthsite.com/photo-gallery/5-powerful-yoga-poses-to-build-upper-body-strength-naturally-1325933/
 source_item_id: 6a13fc9f16f23264031d7b82
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/5-yoga-poses-build-upper-body-strength-home.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 78
@@ -32,6 +32,7 @@ quality_note: >-
   short on length (611 words vs 800-1200 target) and could improve SEO with
   better meta description length.
 reading_time: 3
+image_alt: Woman holds a side plank on a yoga mat in a bright home fitness space
 ---
 ## Natural Strength Building Through Yoga
 
