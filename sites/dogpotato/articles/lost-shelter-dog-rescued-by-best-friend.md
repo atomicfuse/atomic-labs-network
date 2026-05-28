@@ -20,7 +20,7 @@ source_url: >-
   https://www.thedodo.com/daily-dodo/shelter-pup-gets-lost-while-on-a-walk-so-staff-bring-his-best-dog-friend-to-find-him
 source_item_id: 6a0fdbc916f23264031d799e
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/lost-shelter-dog-rescued-by-best-friend.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,7 @@ quality_note: >-
   and tone, though could benefit from more specific SEO optimization and
   slightly more content depth.
 reading_time: 3
+image_alt: Two shelter dogs share a gentle nose-to-nose moment in a sunny grassy yard.
 ---
 ## When Friendship Becomes a Lifeline
 
