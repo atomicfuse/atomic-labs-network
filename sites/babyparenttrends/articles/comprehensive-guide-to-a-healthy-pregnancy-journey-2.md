@@ -1,26 +1,36 @@
 ---
-title: "Comprehensive Guide to a Healthy Pregnancy Journey"
-description: "Embarking on the journey of pregnancy involves understanding early signs, the importance of prenatal care, and preparing for childbirth. This guide provides insights and tips for expecting parents, ensuring a smoother journey through each stage of pregnancy."
-type: "standard"
-status: "published"
-publishDate: "2026-02-26T09:59:26+00:00"
-author: "Taylor Winters"
+title: Comprehensive Guide to a Healthy Pregnancy Journey
+description: >-
+  Embarking on the journey of pregnancy involves understanding early signs, the
+  importance of prenatal care, and preparing for childbirth. This guide provides
+  insights and tips for expecting parents, ensuring a smoother journey through
+  each stage of pregnancy.
+type: standard
+status: published
+publishDate: '2026-02-26T09:59:26+00:00'
+author: Taylor Winters
 tags:
-  - "Moms"
-  - "Parents"
-  - "Pregnancy"
-slug: "comprehensive-guide-to-a-healthy-pregnancy-journey-2"
+  - Moms
+  - Parents
+  - Pregnancy
+slug: comprehensive-guide-to-a-healthy-pregnancy-journey-2
 reading_time: 3
-source_url: "https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey-2/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey-2/
+imported_from: wordpress
 wp_original_id: 17786
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/comprehensive-guide-to-a-healthy-pregnancy-journey-2.webp
 seo:
-  canonical: "https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey-2/"
-  og_title: "Comprehensive Guide to a Healthy Pregnancy Journey - Baby Parent Trends"
-  og_description: "Embarking on the journey of pregnancy involves understanding early signs, the importance of prenatal care, and preparing for childbirth. This guide provides insights and tips for expecting parents, ensuring a smoother journey through each stage of pregnancy."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/02/make_file-3.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey-2/
+  og_title: Comprehensive Guide to a Healthy Pregnancy Journey - Baby Parent Trends
+  og_description: >-
+    Embarking on the journey of pregnancy involves understanding early signs,
+    the importance of prenatal care, and preparing for childbirth. This guide
+    provides insights and tips for expecting parents, ensuring a smoother
+    journey through each stage of pregnancy.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/02/make_file-3.png'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written pregnancy guide with excellent tone and accuracy, but significantly below target word count at 498 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written pregnancy guide with excellent tone and accuracy, but
+  significantly below target word count at 498 words versus the 800-1200 target
+  range.
+image_alt: >-
+  Expecting couple in a sunlit nursery preparing calmly for their pregnancy
+  journey
 ---
 
 Embarking on the journey of pregnancy is a transformative experience that brings a blend of excitement and anticipation. From understanding the early signs to preparing for the arrival of a newborn, each stage of pregnancy offers unique challenges and joys. This guide aims to provide valuable insights and tips for expecting parents, ensuring a smoother and more informed journey.

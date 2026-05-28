@@ -1,27 +1,41 @@
 ---
-title: "Manitoba Unveils Website for Parenting Guidance and Trusted Answers"
-description: "A new online resource in Manitoba offers parents reliable parenting information, expert-backed advice, and community support, providing guidance on topics like swaddling and solid foods to help families navigate the challenges of raising children."
-type: "standard"
-status: "published"
-publishDate: "2025-10-23T09:01:32+00:00"
-author: "Taylor Winters"
+title: Manitoba Unveils Website for Parenting Guidance and Trusted Answers
+description: >-
+  A new online resource in Manitoba offers parents reliable parenting
+  information, expert-backed advice, and community support, providing guidance
+  on topics like swaddling and solid foods to help families navigate the
+  challenges of raising children.
+type: standard
+status: published
+publishDate: '2025-10-23T09:01:32+00:00'
+author: Taylor Winters
 tags:
-  - "Parenting"
-  - "Moms"
-  - "Nurture"
-  - "Parents"
-slug: "manitoba-unveils-website-for-parenting-guidance-and-trusted-answers"
+  - Parenting
+  - Moms
+  - Nurture
+  - Parents
+slug: manitoba-unveils-website-for-parenting-guidance-and-trusted-answers
 reading_time: 4
-source_url: "https://babyparenttrends.com/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers/
+imported_from: wordpress
 wp_original_id: 17726
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: >-
+  /assets/images/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers.webp
 seo:
-  canonical: "https://babyparenttrends.com/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers/"
-  og_title: "Manitoba Unveils Website for Parenting Guidance and Trusted Answers - Baby Parent Trends"
-  og_description: "A new online resource in Manitoba offers parents reliable parenting information, expert-backed advice, and community support. This comprehensive website provides guidance on topics like swaddling and solid foods, ensuring accessible, accurate support for families navigating the challenges of raising children."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/10/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers/
+  og_title: >-
+    Manitoba Unveils Website for Parenting Guidance and Trusted Answers - Baby
+    Parent Trends
+  og_description: >-
+    A new online resource in Manitoba offers parents reliable parenting
+    information, expert-backed advice, and community support. This comprehensive
+    website provides guidance on topics like swaddling and solid foods, ensuring
+    accessible, accurate support for families navigating the challenges of
+    raising children.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/10/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 65
@@ -29,7 +43,11 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent keyword relevance and appropriate tone, but lacks specific SEO optimization elements like proper heading structure and could benefit from a more compelling title."
+quality_note: >-
+  Well-written article with excellent keyword relevance and appropriate tone,
+  but lacks specific SEO optimization elements like proper heading structure and
+  could benefit from a more compelling title.
+image_alt: 'Parent holding a baby beside a laptop in a warm, sunlit home setting'
 ---
 
 Raising a child is a journey filled with questions and challenges, especially for new parents navigating the early stages of their child's life. To support Manitoba families on this journey, a new online resource has been launched that provides reliable and trusted parenting information.
