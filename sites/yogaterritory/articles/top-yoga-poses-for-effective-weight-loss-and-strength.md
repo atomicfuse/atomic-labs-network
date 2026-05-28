@@ -1,24 +1,34 @@
 ---
-title: "Top Yoga Poses for Effective Weight Loss and Strength"
-description: "Yoga is an effective and holistic method for weight loss, improving well-being through mindful movements and breathing. It reduces stress, controls cravings, and enhances flexibility, strength, and metabolism, supporting sustained weight management and a healthier lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2025-10-30T09:49:20+00:00"
-author: "Taylor Winters"
+title: Top Yoga Poses for Effective Weight Loss and Strength
+description: >-
+  Yoga is an effective and holistic method for weight loss, improving well-being
+  through mindful movements and breathing. It reduces stress, controls cravings,
+  and enhances flexibility, strength, and metabolism, supporting sustained
+  weight management and a healthier lifestyle.
+type: standard
+status: published
+publishDate: '2025-10-30T09:49:20+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga Postures"
-slug: "top-yoga-poses-for-effective-weight-loss-and-strength"
+  - Yoga Poses
+  - Yoga Postures
+slug: top-yoga-poses-for-effective-weight-loss-and-strength
 reading_time: 3
-source_url: "https://yogaterritory.com/top-yoga-poses-for-effective-weight-loss-and-strength/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/top-yoga-poses-for-effective-weight-loss-and-strength/
+imported_from: wordpress
 wp_original_id: 20667
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/top-yoga-poses-for-effective-weight-loss-and-strength.webp
 seo:
-  canonical: "https://yogaterritory.com/top-yoga-poses-for-effective-weight-loss-and-strength/"
-  og_title: "Top Yoga Poses for Effective Weight Loss and Strength - Yoga Territory"
-  og_description: "Yoga is an effective and holistic method for weight loss, improving well-being through mindful movements and breathing. It reduces stress, controls cravings, and enhances flexibility, strength, and metabolism, supporting sustained weight management and a healthier lifestyle."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/top-yoga-poses-for-effective-weight-loss-and-strength/
+  og_title: Top Yoga Poses for Effective Weight Loss and Strength - Yoga Territory
+  og_description: >-
+    Yoga is an effective and holistic method for weight loss, improving
+    well-being through mindful movements and breathing. It reduces stress,
+    controls cravings, and enhances flexibility, strength, and metabolism,
+    supporting sustained weight management and a healthier lifestyle.
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under the target word count at 492 words versus the 800-1200 word range."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  under the target word count at 492 words versus the 800-1200 word range.
+image_alt: >-
+  Person practicing a strong yoga pose in a bright, calming studio with soft
+  morning light
 ---
 
 Yoga has become a popular method for those seeking effective and holistic weight loss solutions. This ancient practice not only aids in shedding extra pounds but also enhances overall well-being through mindful movements and focused breathing. By integrating yoga into your fitness routine, you can maintain a healthy body while combating obesity.
