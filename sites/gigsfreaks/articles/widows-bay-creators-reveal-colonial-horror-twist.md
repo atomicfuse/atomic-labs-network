@@ -23,7 +23,7 @@ source_url: >-
   https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: /assets/images/widows-bay-creators-reveal-colonial-horror-twist.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   short and contains fabricated show details that appear to be completely
   fictional.
 reading_time: 3
+image_alt: >-
+  Colonial figure faces a foggy island forest with glowing mushrooms in a tense
+  folk-horror scene.
 ---
 ## From Comedy Mystery to Colonial Nightmare
 
