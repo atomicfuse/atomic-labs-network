@@ -1,24 +1,33 @@
 ---
-title: "BTS Finishes Recording Their New Album"
-description: "South Korea enhances its naval capabilities with the launch of a new advanced submarine, featuring state-of-the-art technology to improve stealth, endurance, and firepower. This initiative strengthens regional security and aligns with strategic defense priorities amid geopolitical tensions."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:24:57+00:00"
-author: "Lena Harper"
+title: BTS Finishes Recording Their New Album
+description: >-
+  South Korea enhances its naval capabilities with the launch of a new advanced
+  submarine, featuring state-of-the-art technology to improve stealth,
+  endurance, and firepower. This initiative strengthens regional security and
+  aligns with strategic defense priorities amid geopolitical tensions.
+type: standard
+status: review
+publishDate: '2025-12-22T11:24:57+00:00'
+author: Lena Harper
 tags:
-  - "TV &amp; Movies"
-slug: "bts-finishes-recording-their-new-album"
+  - TV &amp; Movies
+slug: bts-finishes-recording-their-new-album
 reading_time: 3
-source_url: "https://wtpop.com/bts-finishes-recording-their-new-album/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/bts-finishes-recording-their-new-album/'
+imported_from: wordpress
 wp_original_id: 746
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/bts-finishes-recording-their-new-album.webp
 seo:
-  canonical: "https://wtpop.com/bts-finishes-recording-their-new-album/"
-  og_title: "BTS Finishes Recording Their New Album - WTPOP"
-  og_description: "South Korea enhances its naval capabilities with the launch of a new advanced submarine, featuring state-of-the-art technology to improve stealth, endurance, and firepower. This initiative strengthens regional security and aligns with strategic defense priorities amid geopolitical tensions."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-2.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/bts-finishes-recording-their-new-album/'
+  og_title: BTS Finishes Recording Their New Album - WTPOP
+  og_description: >-
+    South Korea enhances its naval capabilities with the launch of a new
+    advanced submarine, featuring state-of-the-art technology to improve
+    stealth, endurance, and firepower. This initiative strengthens regional
+    security and aligns with strategic defense priorities amid geopolitical
+    tensions.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-2.png'
+  twitter_card: summary_large_image
 quality_score: 40
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 5
-quality_note: "Article completely mismatches the title about BTS and entertainment content, instead covering South Korean submarine defense which is entirely off-topic for the site's entertainment focus."
+quality_note: >-
+  Article completely mismatches the title about BTS and entertainment content,
+  instead covering South Korean submarine defense which is entirely off-topic
+  for the site's entertainment focus.
+image_alt: >-
+  Empty recording studio with microphones and glowing console lights after a
+  late-night album session.
 ---
 
 South Korea is making strides in the defense sector by enhancing its naval capabilities. Recently, the country launched a new advanced submarine, which showcases cutting-edge technology and reflects strategic defense priorities. This development is part of a broader initiative to bolster maritime security and cement South Korea's position as a formidable naval force in the region.
