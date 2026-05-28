@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: 'https://richmondmagazine.com/api/content/ee080292-5559-11f1-a08a-1248ae80e59d/'
 source_item_id: 6a152fda16f23264031d81fd
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: >-
+  /assets/images/travel-inspired-home-design-creates-adventure-filled-interiors.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +36,9 @@ quality_note: >-
   length requirements and contains vague unsupported claims about 'recent
   reports' and statistics.
 reading_time: 3
+image_alt: >-
+  Sophisticated travel-inspired interior with layered textures, warm light, and
+  collected decorative details.
 ---
 ## Travel Memories Take Center Stage in Home Design
 
