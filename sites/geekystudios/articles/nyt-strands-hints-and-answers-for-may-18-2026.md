@@ -35,7 +35,9 @@ quality_note: >-
   Well-written article with excellent tone and structure, but contains
   fabricated future content (May 18, 2026 puzzle) which severely impacts factual
   accuracy despite good coverage of gaming tutorials and pop culture.
-image_alt: Citrus slices arranged with blank puzzle tiles on a bright modern tabletop
+image_alt: >-
+  Blank puzzle tiles surrounded by citrus slices and a small press on a bright
+  tabletop
 ---
 
 Need help with the NYT Strands puzzle for May 18, 2026? Today's theme, **The Daily Rind**, points solvers toward a bright, tangy category with wordplay built into the clue. If the grid feels slippery, use the hints below to narrow your search before checking the answers.
