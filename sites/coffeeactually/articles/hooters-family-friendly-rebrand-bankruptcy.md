@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.thecut.com/article/would-you-bring-your-kids-to-hooters.html'
 source_item_id: 6a13f84f16f23264031d7acc
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/hooters-family-friendly-rebrand-bankruptcy.webp
 quality_score: 30
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   optimization, is too short, and contains vague unsupported claims about
   Hooters' rebrand.
 reading_time: 2
+image_alt: >-
+  Kids’ crayons and wings on a restaurant table with retro orange decor blurred
+  in the background.
 ---
 ## The Great Hooters Transformation
 
