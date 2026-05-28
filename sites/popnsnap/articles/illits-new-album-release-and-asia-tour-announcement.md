@@ -1,5 +1,5 @@
 ---
-title: ILLIT&#8217;s New Album Release and Asia Tour Announcement
+title: ILLIT's New Album Release and Asia Tour Announcement
 description: >-
   K-pop group ILLIT is set to release their new album on April 30, marking an
   exciting chapter with fresh sounds and captivating performances. The band also
