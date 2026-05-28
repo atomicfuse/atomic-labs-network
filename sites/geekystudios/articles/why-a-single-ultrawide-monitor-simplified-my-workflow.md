@@ -41,7 +41,9 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and accuracy, but significantly under
   the target word count at only 431 words versus the 800-1200 range.
-image_alt: Minimal home office with one curved ultrawide monitor and an uncluttered desk.
+image_alt: >-
+  Clean desk with a glowing ultrawide monitor and abstract organized workflow
+  panels.
 ---
 
 In the evolving world of technology, the way we interact with our computers is constantly changing. One of the most notable trends in recent years is the shift from multiple monitor setups to a single ultrawide display. This transition is transforming how users approach tasks, boosting productivity, and simplifying window management.
