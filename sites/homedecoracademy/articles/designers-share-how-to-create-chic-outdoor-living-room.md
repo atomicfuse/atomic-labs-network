@@ -20,7 +20,7 @@ source_url: >-
   https://shopping.yahoo.com/home-garden/outdoor/articles/designers-reveal-create-chic-outdoor-131500787.html
 source_item_id: 6a152fda16f23264031d81ff
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/designers-share-how-to-create-chic-outdoor-living-room.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with good tone and relevant keywords, but significantly
   under target word count at 599 words versus 800-1200 ideal range.
 reading_time: 3
+image_alt: >-
+  Stylish covered patio with outdoor seating, plants, layered rugs, and warm
+  lighting.
 ---
 ## The Rise of Outdoor Living Spaces
 
