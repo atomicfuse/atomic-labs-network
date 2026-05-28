@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.slashgear.com/2180271/what-does-4l-mean-4wd-truck-or-suv/'
 source_item_id: 6a165bda8c60bc3c84eb2cd2
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/4l-vs-4h-understanding-truck-four-wheel-drive-settings.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   length (616 words vs 800-1200 target) and could better optimize SEO elements
   like meta description length.
 reading_time: 3
+image_alt: 'Unbranded off-road SUV on a rugged trail with rocks, mud, and mountain terrain'
 ---
 ## What Does 4L Mean?
 
