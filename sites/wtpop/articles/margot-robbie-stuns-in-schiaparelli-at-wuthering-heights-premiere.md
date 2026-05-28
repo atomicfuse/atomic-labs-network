@@ -1,25 +1,36 @@
 ---
-title: "Margot Robbie Stuns in Schiaparelli at Wuthering Heights Premiere"
-description: "Margot Robbie captivated audiences at the \"Wuthering Heights\" premiere with a Schiaparelli Haute Couture gown, showcasing her flair for distinctive fashion. Her ensemble, paired with minimalistic accessories, highlighted her status as a fashion icon and trendsetter."
-type: "standard"
-status: "review"
-publishDate: "2026-01-29T10:51:34+00:00"
-author: "Lena Harper"
+title: Margot Robbie Stuns in Schiaparelli at Wuthering Heights Premiere
+description: >-
+  Margot Robbie captivated audiences at the "Wuthering Heights" premiere with a
+  Schiaparelli Haute Couture gown, showcasing her flair for distinctive fashion.
+  Her ensemble, paired with minimalistic accessories, highlighted her status as
+  a fashion icon and trendsetter.
+type: standard
+status: review
+publishDate: '2026-01-29T10:51:34+00:00'
+author: Lena Harper
 tags:
-  - "Celebrities"
-  - "Fashion"
-slug: "margot-robbie-stuns-in-schiaparelli-at-wuthering-heights-premiere"
+  - Celebrities
+  - Fashion
+slug: margot-robbie-stuns-in-schiaparelli-at-wuthering-heights-premiere
 reading_time: 3
-source_url: "https://wtpop.com/margot-robbie-stuns-in-schiaparelli-at-wuthering-heights-premiere/"
-imported_from: "wordpress"
+source_url: >-
+  https://wtpop.com/margot-robbie-stuns-in-schiaparelli-at-wuthering-heights-premiere/
+imported_from: wordpress
 wp_original_id: 771
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: >-
+  /assets/images/margot-robbie-stuns-in-schiaparelli-at-wuthering-heights-premiere.webp
 seo:
-  canonical: "https://wtpop.com/margot-robbie-stuns-in-schiaparelli-at-wuthering-heights-premiere/"
-  og_title: "Margot Robbie Stuns in Schiaparelli at Wuthering Heights Premiere - WTPOP"
-  og_description: "Margot Robbie captivated audiences at the \"Wuthering Heights\" premiere with a Schiaparelli Haute Couture gown, showcasing her flair for distinctive fashion. Her ensemble, paired with minimalistic accessories, highlighted her status as a fashion icon and trendsetter."
-  og_image: "https://wtpop.com/wp-content/uploads/2026/01/make_file-10.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/margot-robbie-stuns-in-schiaparelli-at-wuthering-heights-premiere/
+  og_title: Margot Robbie Stuns in Schiaparelli at Wuthering Heights Premiere - WTPOP
+  og_description: >-
+    Margot Robbie captivated audiences at the "Wuthering Heights" premiere with
+    a Schiaparelli Haute Couture gown, showcasing her flair for distinctive
+    fashion. Her ensemble, paired with minimalistic accessories, highlighted her
+    status as a fashion icon and trendsetter.
+  og_image: 'https://wtpop.com/wp-content/uploads/2026/01/make_file-10.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -27,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong fashion coverage and engaging tone, but significantly damaged by likely fabricated premiere event and too short for content guidelines."
+quality_note: >-
+  Strong fashion coverage and engaging tone, but significantly damaged by likely
+  fabricated premiere event and too short for content guidelines.
+image_alt: >-
+  Glamorous blonde actress in sculptural couture under premiere spotlights on a
+  red carpet
 ---
 
 Margot Robbie once again captivated audiences at the Los Angeles premiere of "Wuthering Heights," showcasing her impeccable sense of style. The Australian actress, known for her versatile roles and red carpet elegance, chose an exquisite ensemble that perfectly matched the event's grandeur.
