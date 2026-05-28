@@ -22,7 +22,7 @@ source_url: >-
   https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/widows-bay-creators-colonial-origin-story-flashback.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   'according to reports' suggests potential fabrication and the article falls
   short of target length.
 reading_time: 3
+image_alt: >-
+  Colonial-era man stands in fog near glowing mushrooms on a haunted island at
+  night.
 ---
 ## The Flashback That Changed Everything
 
