@@ -21,7 +21,7 @@ source_url: >-
   https://www.espn.com/soccer/story/_/id/48785161/if-premier-league-transfer-trend-continues-move
 source_item_id: 6a16d5d58c60bc3c84eb2cfe
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/premier-league-domestic-transfer-boom-who-could-move-next.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong keyword coverage and decent SEO structure, but severely undermined by
   vague sourcing and lack of specific examples or data to support claims.
 reading_time: 3
+image_alt: >-
+  Two anonymous footballers sprint across a rainy stadium pitch under dramatic
+  floodlights.
 ---
 ## The Rise of the Premier League Transfer Premium
 
