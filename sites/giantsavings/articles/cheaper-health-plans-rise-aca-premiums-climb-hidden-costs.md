@@ -22,7 +22,7 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-cheaper-alternative-health-moment-critics.html
 source_item_id: 6a17d0828c60bc3c84eb2db1
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: /assets/images/cheaper-health-plans-rise-aca-premiums-climb-hidden-costs.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Well-written article on health insurance costs but falls short of target word
   count and could better integrate personal finance savings strategies.
 reading_time: 3
+image_alt: >-
+  Medical bills, calculator, and insurance papers on a table as a person weighs
+  coverage choices in the background.
 ---
 ## The Rise of Alternative Health Coverage
 
