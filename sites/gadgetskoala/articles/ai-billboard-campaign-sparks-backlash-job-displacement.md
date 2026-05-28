@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://corbettreport.com/nwnw631/'
 source_item_id: 6a13fd0516f23264031d7bf3
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/ai-billboard-campaign-sparks-backlash-job-displacement.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   short of target word count and only marginally covers core site topics like
   gadgets and gaming.
 reading_time: 2
+image_alt: >-
+  Pedestrians look up at a glowing AI-themed billboard on a tense city street at
+  night.
 ---
 ## AI Marketing Campaign Triggers Public Outcry
 
