@@ -42,9 +42,7 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and accuracy, but significantly under
   target word count at 472 words, limiting its overall effectiveness.
-image_alt: >-
-  Hands and laptops surround a glowing network of knowledge fragments forming a
-  collaborative digital globe.
+image_alt: Global network of pages and editors symbolizing collaborative online knowledge
 ---
 
 Wikipedia has become an integral part of the digital landscape, offering a vast repository of knowledge accessible to anyone with an internet connection. As this remarkable platform approaches its 25th anniversary, it is worth reflecting on its evolution and impact on the world of information sharing. Wikipedia's journey from a simple online encyclopedia to a global knowledge hub is a testament to the power of collaboration and innovation.
