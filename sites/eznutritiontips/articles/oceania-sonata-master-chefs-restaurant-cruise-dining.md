@@ -22,7 +22,7 @@ source_url: >-
   https://www.travelpulse.com/news/cruise/the-future-of-fine-dining-on-oceania-sonata
 source_item_id: 6a13fcb916f23264031d7ba0
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/oceania-sonata-master-chefs-restaurant-cruise-dining.webp
 quality_score: 56
 score_breakdown:
   seo_quality: 45
@@ -34,6 +34,9 @@ quality_note: >-
   The article is well-written but focuses on cruise industry news rather than
   nutrition/food content relevant to the site's audience and keywords.
 reading_time: 3
+image_alt: >-
+  Elegant cruise ship dining room with ocean views and a plated gourmet dish at
+  golden hour
 ---
 ## Revolutionary Dining Concept Sets Sail
 
