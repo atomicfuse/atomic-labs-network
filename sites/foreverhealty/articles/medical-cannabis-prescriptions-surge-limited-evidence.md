@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://medicalxpress.com/news/2026-05-medical-marijuana-high-good-health.html'
 source_item_id: 6a17d0828c60bc3c84eb2db2
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/medical-cannabis-prescriptions-surge-limited-evidence.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   target word count and contains questionable future-dated claims that raise
   factual accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Clinical desk with cannabis leaf shadow, prescription bottle, and blank
+  evidence charts
 ---
 ## The Cannabis Prescription Boom
 
