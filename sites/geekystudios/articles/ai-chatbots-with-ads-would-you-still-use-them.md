@@ -1,24 +1,33 @@
 ---
-title: "AI Chatbots with Ads: Would You Still Use Them?"
-description: "As AI chatbots become more common, integrating ads into these interactions raises questions about user experience. While ads offer new revenue streams, they could disrupt seamless interactions and raise privacy concerns, necessitating careful consideration to maintain user trust and satisfaction."
-type: "standard"
-status: "published"
-publishDate: "2025-05-15T10:54:40+00:00"
-author: "Arthur Daly"
+title: 'AI Chatbots with Ads: Would You Still Use Them?'
+description: >-
+  As AI chatbots become more common, integrating ads into these interactions
+  raises questions about user experience. While ads offer new revenue streams,
+  they could disrupt seamless interactions and raise privacy concerns,
+  necessitating careful consideration to maintain user trust and satisfaction.
+type: standard
+status: published
+publishDate: '2025-05-15T10:54:40+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "ai-chatbots-with-ads-would-you-still-use-them"
+  - Tech
+slug: ai-chatbots-with-ads-would-you-still-use-them
 reading_time: 3
-source_url: "https://geekystudios.com/ai-chatbots-with-ads-would-you-still-use-them/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/ai-chatbots-with-ads-would-you-still-use-them/'
+imported_from: wordpress
 wp_original_id: 588
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/ai-chatbots-with-ads-would-you-still-use-them.webp
 seo:
-  canonical: "https://geekystudios.com/ai-chatbots-with-ads-would-you-still-use-them/"
-  og_title: "AI Chatbots with Ads: Would You Still Use Them? - Geeky Studios"
-  og_description: "As AI chatbots become more common, integrating ads into these interactions raises questions about user experience. While ads offer new revenue streams, they could disrupt seamless interactions and raise privacy concerns, necessitating careful consideration to maintain user trust and satisfaction."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/05/make_ai-chatbot-icons-on-smartphone-screen.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://geekystudios.com/ai-chatbots-with-ads-would-you-still-use-them/'
+  og_title: 'AI Chatbots with Ads: Would You Still Use Them? - Geeky Studios'
+  og_description: >-
+    As AI chatbots become more common, integrating ads into these interactions
+    raises questions about user experience. While ads offer new revenue streams,
+    they could disrupt seamless interactions and raise privacy concerns,
+    necessitating careful consideration to maintain user trust and satisfaction.
+  og_image: >-
+    https://geekystudios.com/wp-content/uploads/2025/05/make_ai-chatbot-icons-on-smartphone-screen.jpg
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -26,7 +35,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written tech article with good tone and accuracy, but falls short of target word count at 527 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written tech article with good tone and accuracy, but falls short of
+  target word count at 527 words instead of the 800-1200 range.
+image_alt: >-
+  Glowing AI chatbot orb surrounded by intrusive abstract ad-like panels in a
+  dark digital space
 ---
 
 As artificial intelligence chatbots become increasingly prevalent in our digital interactions, the potential for including advertisements within these AI interfaces is a topic of growing interest. The integration of ads into chatbot interactions raises significant questions about user experience and acceptance. This shift could redefine how users engage with AI and influence their willingness to continue using these digital assistants.
