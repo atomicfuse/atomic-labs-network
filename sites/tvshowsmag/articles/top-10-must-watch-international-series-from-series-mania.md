@@ -1,26 +1,36 @@
 ---
-title: "Top 10 Must-Watch International Series from Series Mania"
-description: "Series Mania festival showcases innovative international TV series, celebrating diverse storytelling and emerging talent. These shows resonate globally by combining universal themes with local flavors, offering a glimpse into diverse cultures and predicting future television trends."
-type: "standard"
+title: Top 10 Must-Watch International Series from Series Mania
+description: >-
+  Series Mania festival showcases innovative international TV series,
+  celebrating diverse storytelling and emerging talent. These shows resonate
+  globally by combining universal themes with local flavors, offering a glimpse
+  into diverse cultures and predicting future television trends.
+type: standard
 status: published
-publishDate: "2026-03-23T10:23:25+00:00"
-author: "Taylor Winters"
+publishDate: '2026-03-23T10:23:25+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Featured"
-  - "TV Shows"
-  - "Upcoming"
-slug: "top-10-must-watch-international-series-from-series-mania"
+  - TV News
+  - Featured
+  - TV Shows
+  - Upcoming
+slug: top-10-must-watch-international-series-from-series-mania
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-10-must-watch-international-series-from-series-mania/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/top-10-must-watch-international-series-from-series-mania/
+imported_from: wordpress
 wp_original_id: 28203
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/top-10-must-watch-international-series-from-series-mania.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-10-must-watch-international-series-from-series-mania/"
-  og_title: "Top 10 Must-Watch International Series from Series Mania - TV Shows Magazine"
-  og_description: "Series Mania festival showcases innovative international TV series, celebrating diverse storytelling and emerging talent. These shows resonate globally by combining universal themes with local flavors, offering a glimpse into diverse cultures and predicting future television trends."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/top-10-must-watch-international-series-from-series-mania/
+  og_title: Top 10 Must-Watch International Series from Series Mania - TV Shows Magazine
+  og_description: >-
+    Series Mania festival showcases innovative international TV series,
+    celebrating diverse storytelling and emerging talent. These shows resonate
+    globally by combining universal themes with local flavors, offering a
+    glimpse into diverse cultures and predicting future television trends.
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article about Series Mania with good tone and keyword relevance, but significantly underperforms on length (477 words vs 800-1200 target) and lacks specific show details despite promising 'Top 10' in title."
+quality_note: >-
+  Well-written article about Series Mania with good tone and keyword relevance,
+  but significantly underperforms on length (477 words vs 800-1200 target) and
+  lacks specific show details despite promising 'Top 10' in title.
+image_alt: >-
+  Diverse audience silhouettes watch glowing cinematic scenes in a dark festival
+  screening hall.
 ---
 
 In the vibrant world of television, international series are capturing global audiences with unique storytelling and diverse cultural perspectives. At the forefront of this movement is Series Mania, a festival that highlights exceptional international TV shows poised to become the next big hits. These series bring fresh narratives to the screen, each offering a distinctive take on compelling themes and complex characters.
