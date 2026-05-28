@@ -1,24 +1,32 @@
 ---
-title: "Discover Mohammadreza Shajarian’s Two New Album Releases"
-description: "Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music lovers posthumously with two new albums, \"Monajat\" and \"Sarv-e-Chaman,\" showcasing his mastery of Persian classical music and offering a fresh glimpse into his artistic journey."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:25:44+00:00"
-author: "Lena Harper"
+title: Discover Mohammadreza Shajarian’s Two New Album Releases
+description: >-
+  Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music
+  lovers posthumously with two new albums, "Monajat" and "Sarv-e-Chaman,"
+  showcasing his mastery of Persian classical music and offering a fresh glimpse
+  into his artistic journey.
+type: standard
+status: review
+publishDate: '2025-12-22T11:25:44+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "discover-mohammadreza-shajarians-two-new-album-releases"
+  - Music
+slug: discover-mohammadreza-shajarians-two-new-album-releases
 reading_time: 3
-source_url: "https://wtpop.com/discover-mohammadreza-shajarians-two-new-album-releases/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/discover-mohammadreza-shajarians-two-new-album-releases/'
+imported_from: wordpress
 wp_original_id: 750
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/discover-mohammadreza-shajarians-two-new-album-releases.webp
 seo:
-  canonical: "https://wtpop.com/discover-mohammadreza-shajarians-two-new-album-releases/"
-  og_title: "Discover Mohammadreza Shajarian's Two New Album Releases - WTPOP"
-  og_description: "Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music lovers posthumously with two new albums, \"Monajat\" and \"Sarv-e-Chaman,\" showcasing his mastery of Persian classical music and offering a fresh glimpse into his artistic journey."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-20.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/discover-mohammadreza-shajarians-two-new-album-releases/'
+  og_title: Discover Mohammadreza Shajarian's Two New Album Releases - WTPOP
+  og_description: >-
+    Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music
+    lovers posthumously with two new albums, "Monajat" and "Sarv-e-Chaman,"
+    showcasing his mastery of Persian classical music and offering a fresh
+    glimpse into his artistic journey.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-20.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article about music with good keyword relevance, but significantly under target word count at 515 words versus the 800-1200 target range."
+quality_note: >-
+  Well-written article about music with good keyword relevance, but
+  significantly under target word count at 515 words versus the 800-1200 target
+  range.
+image_alt: >-
+  Empty Persian classical music stage with instruments and two unmarked albums
+  in warm spotlight
 ---
 
 Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music lovers posthumously with the release of two new albums. These collections, titled "Monajat" and "Sarv-e-Chaman," showcase the iconic musician's mastery and dedication to Persian classical music. As the world remembers his significant contributions, these albums offer a fresh glimpse into his artistic journey.
