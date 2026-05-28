@@ -1,29 +1,37 @@
 ---
-title: "Essential Gear for Your Dream Cafe: A Comprehensive Guide"
-description: "Discover the ideal equipment setup for your dream cafe, tailored to various coffee volumes and budgets. From entry-level to high-volume setups, learn how to choose the right gear for your business."
-type: "standard"
+title: 'Essential Gear for Your Dream Cafe: A Comprehensive Guide'
+description: >-
+  Discover the ideal equipment setup for your dream cafe, tailored to various
+  coffee volumes and budgets. From entry-level to high-volume setups, learn how
+  to choose the right gear for your business.
+type: standard
 status: published
-publishDate: "2026-02-26T09:15:23+00:00"
-author: "Taylor Winters"
+publishDate: '2026-02-26T09:15:23+00:00'
+author: Taylor Winters
 tags:
-  - "Barista"
-  - "Coffee Drinks"
-  - "Coffee Gear"
-slug: "essential-gear-for-your-dream-cafe-a-comprehensive-guide"
+  - Barista
+  - Coffee Drinks
+  - Coffee Gear
+slug: essential-gear-for-your-dream-cafe-a-comprehensive-guide
 reading_time: 2
-source_url: "https://coffeeactually.com/essential-gear-for-your-dream-cafe-a-comprehensive-guide/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/essential-gear-for-your-dream-cafe-a-comprehensive-guide/
+imported_from: wordpress
 wp_original_id: 51410
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/essential-gear-for-your-dream-cafe-a-comprehensive-guide.webp
 seo:
-  canonical: "https://coffeeactually.com/essential-gear-for-your-dream-cafe-a-comprehensive-guide/"
-  og_title: "Essential Gear for Your Dream Cafe: A Comprehensive Guide - Coffee Actually"
-  og_description: "Discover the ideal equipment setup for your dream cafe, tailored to various coffee volumes and budgets. From entry-level to high-volume setups, learn how to choose the right gear for your business."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/essential-gear-for-your-dream-cafe-a-comprehensive-guide/
+  og_title: 'Essential Gear for Your Dream Cafe: A Comprehensive Guide - Coffee Actually'
+  og_description: >-
+    Discover the ideal equipment setup for your dream cafe, tailored to various
+    coffee volumes and budgets. From entry-level to high-volume setups, learn
+    how to choose the right gear for your business.
+  twitter_card: summary_large_image
 videos:
-  - id: "a4d5bc9e"
-    url: "https://www.youtube.com/watch?v=pMdO7nLeC4g"
-    position: "after-paragraph-2"
+  - id: a4d5bc9e
+    url: 'https://www.youtube.com/watch?v=pMdO7nLeC4g'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -31,7 +39,10 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong tone and relevance but severely penalized by very short length (343 words vs 800-1200 target), limiting its SEO potential and comprehensiveness."
+quality_note: >-
+  Strong tone and relevance but severely penalized by very short length (343
+  words vs 800-1200 target), limiting its SEO potential and comprehensiveness.
+image_alt: 'Warm cafe counter with espresso gear, grinder, cups, and soft morning light'
 ---
 
 Opening a cafe is a dream for many coffee enthusiasts and entrepreneurs alike. The right equipment can make or break your business, so choosing wisely is essential. This guide explores the ideal gear for setting up your dream cafe, catering to different volumes and budgets.
