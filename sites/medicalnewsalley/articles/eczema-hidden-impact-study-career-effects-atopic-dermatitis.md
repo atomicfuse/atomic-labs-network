@@ -20,7 +20,8 @@ source_url: >-
   https://medicalxpress.com/news/2026-05-scars-life-impact-atopic-dermatitis.html
 source_item_id: 6a17d0828c60bc3c84eb2db0
 generated_by: claude
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: >-
+  /assets/images/eczema-hidden-impact-study-career-effects-atopic-dermatitis.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
   of target word count, and has vague research citations that raise factual
   concerns.
 reading_time: 3
+image_alt: >-
+  Young professional with eczema stands between school and workplace paths,
+  suggesting long-term life impact.
 ---
 ## Beyond the Skin: Eczema's Lifelong Journey
 
