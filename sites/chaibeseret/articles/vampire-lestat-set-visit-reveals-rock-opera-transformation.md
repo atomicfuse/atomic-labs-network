@@ -22,7 +22,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/vampire-lestat-set-visit-reveals-rock-opera-transformation.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Good topic coverage and keyword relevance, but falls short on length and
   relies heavily on vague sourcing which raises accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Blond vampire-like rock performer on a smoky stage under amber and violet
+  lights.
 ---
 ## Behind the Scenes of The Vampire Lestat's Musical Revolution
 
