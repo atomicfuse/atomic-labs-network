@@ -1,24 +1,30 @@
 ---
-title: "Noah Kahan Announces New Album Release Date"
-description: "Indie-folk artist Noah Kahan, known for his emotive lyrics, hints at a new album soon. Fans eagerly await his evolving musical journey, anticipating introspective themes and his signature blend of folk and indie-pop elements."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T11:18:40+00:00"
-author: "Lena Harper"
+title: Noah Kahan Announces New Album Release Date
+description: >-
+  Indie-folk artist Noah Kahan, known for his emotive lyrics, hints at a new
+  album soon. Fans eagerly await his evolving musical journey, anticipating
+  introspective themes and his signature blend of folk and indie-pop elements.
+type: standard
+status: published
+publishDate: '2025-12-04T11:18:40+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "noah-kahan-announces-new-album-release-date"
+  - Music
+slug: noah-kahan-announces-new-album-release-date
 reading_time: 3
-source_url: "https://wtpop.com/noah-kahan-announces-new-album-release-date/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/noah-kahan-announces-new-album-release-date/'
+imported_from: wordpress
 wp_original_id: 706
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/noah-kahan-announces-new-album-release-date.webp
 seo:
-  canonical: "https://wtpop.com/noah-kahan-announces-new-album-release-date/"
-  og_title: "Noah Kahan Announces New Album Release Date - WTPOP"
-  og_description: "Indie-folk artist Noah Kahan, known for his emotive lyrics, hints at a new album soon. Fans eagerly await his evolving musical journey, anticipating introspective themes and his signature blend of folk and indie-pop elements."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/noah-kahan-announces-new-album-release-date/'
+  og_title: Noah Kahan Announces New Album Release Date - WTPOP
+  og_description: >-
+    Indie-folk artist Noah Kahan, known for his emotive lyrics, hints at a new
+    album soon. Fans eagerly await his evolving musical journey, anticipating
+    introspective themes and his signature blend of folk and indie-pop elements.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 65
@@ -26,7 +32,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written music article with engaging tone and strong keyword relevance, but falls short on SEO optimization and content length requirements."
+quality_note: >-
+  Well-written music article with engaging tone and strong keyword relevance,
+  but falls short on SEO optimization and content length requirements.
+image_alt: >-
+  Acoustic guitar and microphone in a moody studio lit by warm string lights at
+  dusk
 ---
 
 Indie-folk sensation Noah Kahan has been captivating audiences with his heartfelt music and genuine storytelling. Known for his raw and emotive lyrics, Kahan has built a loyal fan base eagerly anticipating his next musical endeavor. In a recent update, Kahan hinted at his upcoming album, promising that fans won't have to wait too long for new music.
