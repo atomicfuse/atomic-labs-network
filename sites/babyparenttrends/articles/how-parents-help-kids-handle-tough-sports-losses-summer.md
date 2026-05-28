@@ -19,7 +19,7 @@ source_url: >-
   https://wjla.com/news/local/youth-sports-parenting-advice-emotional-response-resilience-childhood-development-competition-pressure-athletic-setbacks-sportsmanship-lessons-mental-health-summer-coping-tips
 source_item_id: 6a167f018c60bc3c84eb2ce4
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/how-parents-help-kids-handle-tough-sports-losses-summer.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   target word count and could benefit from stronger SEO optimization in headings
   and meta description length.
 reading_time: 3
+image_alt: >-
+  Parent sits supportively beside a disappointed young athlete after a summer
+  game.
 ---
 ## The Summer Sports Challenge for Parents
 
