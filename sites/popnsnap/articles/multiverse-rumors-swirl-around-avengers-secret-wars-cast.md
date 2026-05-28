@@ -1,5 +1,5 @@
 ---
-title: 'Multiverse Rumors Swirl Around 'Avengers: Secret Wars' Cast'
+title: "Multiverse Rumors Swirl Around 'Avengers: Secret Wars' Cast"
 description: >-
   Anticipation for Marvel's "Avengers: Secret Wars" is high as rumors swirl
   about its cast. The film promises to bring back beloved characters, introduce
