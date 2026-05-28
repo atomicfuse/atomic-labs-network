@@ -22,7 +22,7 @@ source_url: >-
   https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
-featuredImage: /assets/images/buzzsoaps-general-article.webp
+featuredImage: /assets/images/widows-bay-colonial-horror-flashback-transforms-series.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Strong keyword relevance and engaging tone, but significantly short content
   and heavy reliance on unverified reports undermines credibility.
 reading_time: 3
+image_alt: >-
+  Colonial figure in a shadowy wooden room as glowing mushrooms creep across the
+  floor.
 ---
 ## A Midseason Genre Shift That Changes Everything
 
