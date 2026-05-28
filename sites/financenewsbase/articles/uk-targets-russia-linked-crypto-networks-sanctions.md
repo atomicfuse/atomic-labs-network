@@ -22,7 +22,7 @@ source_url: >-
   https://news.bitcoin.com/uk-sanctions-strike-russia-linked-crypto-networks-in-sweeping-crackdown/
 source_item_id: 6a17bdc28c60bc3c84eb2d8a
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: /assets/images/uk-targets-russia-linked-crypto-networks-sanctions.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,7 @@ quality_note: >-
   Professional tone and relevant content but falls short on length and contains
   vague sourcing that could indicate potential factual issues.
 reading_time: 3
+image_alt: Metal chain constraining glowing crypto network nodes on a dark financial desk
 ---
 ## Britain Escalates Crypto Enforcement with New Sanctions Package
 
