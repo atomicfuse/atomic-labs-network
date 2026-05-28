@@ -1,27 +1,37 @@
 ---
-title: "Saif Ali Khan’s Fitness: 3 Asanas by Trainer Rupal Sidhpura"
-description: "Bollywood star Saif Ali Khan maintains his fitness through yoga, guided by celebrity trainer Rupal Sidhpura Faria, who shares three key asanas — Trikonasana, Vrikshasana, and Dhanurasana — that support his physical strength and mental well-being."
-type: "standard"
-status: "published"
-publishDate: "2025-10-09T08:55:50+00:00"
-author: "Taylor Winters"
+title: 'Saif Ali Khan’s Fitness: 3 Asanas by Trainer Rupal Sidhpura'
+description: >-
+  Bollywood star Saif Ali Khan maintains his fitness through yoga, guided by
+  celebrity trainer Rupal Sidhpura Faria, who shares three key asanas —
+  Trikonasana, Vrikshasana, and Dhanurasana — that support his physical strength
+  and mental well-being.
+type: standard
+status: published
+publishDate: '2025-10-09T08:55:50+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Lifestyle"
-  - "Yoga For Men"
-  - "Yoga Postures"
-slug: "saif-ali-khans-fitness-3-asanas-by-trainer-rupal-sidhpura"
+  - Yoga Poses
+  - Lifestyle
+  - Yoga For Men
+  - Yoga Postures
+slug: saif-ali-khans-fitness-3-asanas-by-trainer-rupal-sidhpura
 reading_time: 3
-source_url: "https://yogaterritory.com/saif-ali-khans-fitness-3-asanas-by-trainer-rupal-sidhpura/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/saif-ali-khans-fitness-3-asanas-by-trainer-rupal-sidhpura/
+imported_from: wordpress
 wp_original_id: 20658
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/saif-ali-khans-fitness-3-asanas-by-trainer-rupal-sidhpura.webp
 seo:
-  canonical: "https://yogaterritory.com/saif-ali-khans-fitness-3-asanas-by-trainer-rupal-sidhpura/"
-  og_title: "Saif Ali Khan's Fitness: 3 Asanas by Trainer Rupal Sidhpura - Yoga Territory"
-  og_description: "Bollywood star Saif Ali Khan maintains his fitness through yoga, guided by celebrity trainer Rupal Sidhpura Faria. Yoga enhances his physical strength and mental well-being, offering a balanced lifestyle amid a busy schedule with asanas like Trikonasana and Vrikshasana."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/10/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/saif-ali-khans-fitness-3-asanas-by-trainer-rupal-sidhpura/
+  og_title: 'Saif Ali Khan''s Fitness: 3 Asanas by Trainer Rupal Sidhpura - Yoga Territory'
+  og_description: >-
+    Bollywood star Saif Ali Khan maintains his fitness through yoga, guided by
+    celebrity trainer Rupal Sidhpura Faria. Yoga enhances his physical strength
+    and mental well-being, offering a balanced lifestyle amid a busy schedule
+    with asanas like Trikonasana and Vrikshasana.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/10/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written article with good tone and keyword coverage, but falls short on length (598 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and description."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but falls short on
+  length (598 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in title and description.
+image_alt: >-
+  Fit male yoga practitioner in a sunlit studio moving through a calm,
+  strength-focused yoga flow.
 ---
 
 Staying fit and maintaining a healthy lifestyle is a priority for many celebrities, and Bollywood star Saif Ali Khan is no exception. Known for his versatile acting skills and charming persona, Saif Ali Khan also dedicates time to his fitness regime. Celebrity trainer Rupal Sidhpura Faria, who works closely with him, shares insights into the yoga practices that help Saif stay in top shape.
