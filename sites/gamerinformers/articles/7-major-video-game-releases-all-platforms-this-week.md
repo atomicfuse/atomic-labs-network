@@ -21,7 +21,7 @@ source_url: >-
   https://www.screenhub.com.au/news/games/best-new-video-games-this-week-31-2700409/
 source_item_id: 6a14214f16f23264031d7dd1
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: /assets/images/7-major-video-game-releases-all-platforms-this-week.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong keyword relevance and tone but severely penalized for being too short
   at 492 words and containing fabricated future release dates from 2026.
 reading_time: 2
+image_alt: >-
+  Cinematic gaming setup with seven glowing portals suggesting new releases
+  across platforms
 ---
 ## Cross-Platform Gaming Week Brings Major Releases
 
