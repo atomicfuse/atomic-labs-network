@@ -1,27 +1,36 @@
 ---
-title: "5 Walking Yoga Poses for a Complete Mind-Body Reset"
-description: "Walking yoga combines walking's cardiovascular benefits with yoga's mindful poses, offering a holistic fitness experience that enhances physical fitness, flexibility, and balance while promoting mental clarity and reducing stress through mindfulness and breathing focus."
-type: "standard"
-status: "published"
-publishDate: "2025-07-17T04:35:34+00:00"
-author: "Taylor Winters"
+title: 5 Walking Yoga Poses for a Complete Mind-Body Reset
+description: >-
+  Walking yoga combines walking's cardiovascular benefits with yoga's mindful
+  poses, offering a holistic fitness experience that enhances physical fitness,
+  flexibility, and balance while promoting mental clarity and reducing stress
+  through mindfulness and breathing focus.
+type: standard
+status: published
+publishDate: '2025-07-17T04:35:34+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Mindfullness"
-  - "Yoga For Beginners"
-  - "Yoga Postures"
-slug: "5-walking-yoga-poses-for-a-complete-mind-body-reset"
+  - Yoga Poses
+  - Mindfullness
+  - Yoga For Beginners
+  - Yoga Postures
+slug: 5-walking-yoga-poses-for-a-complete-mind-body-reset
 reading_time: 3
-source_url: "https://yogaterritory.com/5-walking-yoga-poses-for-a-complete-mind-body-reset/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/5-walking-yoga-poses-for-a-complete-mind-body-reset/'
+imported_from: wordpress
 wp_original_id: 20636
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/5-walking-yoga-poses-for-a-complete-mind-body-reset.webp
 seo:
-  canonical: "https://yogaterritory.com/5-walking-yoga-poses-for-a-complete-mind-body-reset/"
-  og_title: "5 Walking Yoga Poses for a Complete Mind-Body Reset - Yoga Territory"
-  og_description: "Walking yoga combines walking's cardiovascular benefits with yoga's mindful poses, offering a holistic fitness experience. It enhances physical fitness, flexibility, and balance while promoting mental clarity and reducing stress through mindfulness and breathing focus."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/07/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/5-walking-yoga-poses-for-a-complete-mind-body-reset/
+  og_title: 5 Walking Yoga Poses for a Complete Mind-Body Reset - Yoga Territory
+  og_description: >-
+    Walking yoga combines walking's cardiovascular benefits with yoga's mindful
+    poses, offering a holistic fitness experience. It enhances physical fitness,
+    flexibility, and balance while promoting mental clarity and reducing stress
+    through mindfulness and breathing focus.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/07/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -29,7 +38,11 @@ score_breakdown:
   content_length: 57
   factual_accuracy: 95
   keyword_relevance: 75
-quality_note: "The article has good tone and accuracy but falls short on length (569 words vs 800-1200 target) and lacks the specific '5 Walking Yoga Poses' promised in the title, affecting both SEO quality and content delivery."
+quality_note: >-
+  The article has good tone and accuracy but falls short on length (569 words vs
+  800-1200 target) and lacks the specific '5 Walking Yoga Poses' promised in the
+  title, affecting both SEO quality and content delivery.
+image_alt: Person practicing mindful walking yoga on a sunlit path at sunrise.
 ---
 
 Discover a new way to enhance your physical and mental well-being by combining the benefits of walking and yoga into a harmonious practice. Walking yoga is an innovative approach that merges the rhythmic movement of walking with the mindful poses of yoga, offering a holistic fitness experience that nurtures both the body and the mind.
