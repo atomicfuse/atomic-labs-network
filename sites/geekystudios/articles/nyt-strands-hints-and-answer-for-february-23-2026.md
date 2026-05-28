@@ -37,7 +37,7 @@ score_breakdown:
 quality_note: >-
   The article has poor SEO optimization and contains factual inaccuracies about
   NYT puzzles, but maintains an appropriate tone for the audience.
-image_alt: Abstract brain made of puzzle tiles and glowing neural pathways
+image_alt: Blank puzzle tiles connected by glowing neural pathways on a modern tabletop
 ---
 
 Solving word puzzles can be an exciting and rewarding pastime that challenges the brain while providing entertainment. Among these, the New York Times' puzzle, known as the "Hint," offers a daily opportunity for enthusiasts to test their linguistic prowess. These puzzles are crafted to engage users with clever clues and a mix of difficulty levels, ensuring that both casual and seasoned players find satisfaction in their solutions.
