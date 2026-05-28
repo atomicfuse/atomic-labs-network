@@ -154,4 +154,38 @@ scripts:
         <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
         <div data-cg-feed="journey_peaks_1"></div>
     - id: test
-      src: "<div id=\"demo-scroll-container\" style=\"max-width: 700px; margin: 40px auto; padding: 0 20px; font-family: system-ui, sans-serif;\">     <h2 style=\"text-align: center; color: #333; margin-bottom: 30px;\">✨ Live Infinite Scroll Test Feed</h2>          <div id=\"demo-items-holder\">         <div class=\"demo-card\" style=\"background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;\">             📦 Loaded Item 1         </div>         <div class=\"demo-card\" style=\"background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;\">             📦 Loaded Item 2         </div>         <div class=\"demo-card\" style=\"background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;\">             📦 Loaded Item 3         </div>     </div>      <div id=\"demo-sentinel\" style=\"text-align: center; padding: 30px; color: #0066cc; font-weight: 600; font-size: 1rem;\">         🔄 Loading more items automatically...     </div> </div>  <script>     (function() {         const holder = document.getElementById('demo-items-holder');         const sentinel = document.getElementById('demo-sentinel');         let count = 3; // Starting item count          if (!holder || !sentinel) return;          // Intersection Observer looks out for the sentinel element         const observer = new IntersectionObserver((entries) => {             entries.forEach(entry => {                 // When the sentinel enters the screen viewport                 if (entry.isIntersecting) {                                          // Simulate a tiny 400ms delay to look like a real server request                     setTimeout(() => {                         for (let i = 0; i < 3; i++) {                             count++;                                                          // Create a new card item dynamically                             const card = document.createElement('div');                             card.className = 'demo-card';                             card.style.cssText = \"background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;\";                             card.innerHTML = `📦 Loaded Item ${count}`;                                                          holder.appendChild(card);                         }                     }, 400);                 }             });         }, {              rootMargin: '0px 0px 400px 0px' // Starts loading 400px before the user hits the exact bottom         });          observer.observe(sentinel);     })(); </script>"
+      inline: |-
+        <div id="demo-scroll-container" style="max-width: 700px; margin: 40px auto; padding: 0 20px; font-family: system-ui, sans-serif;">
+          <h2 style="text-align: center; color: #333; margin-bottom: 30px;">Live Infinite Scroll Test Feed</h2>
+          <div id="demo-items-holder">
+            <div class="demo-card" style="background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;">Loaded Item 1</div>
+            <div class="demo-card" style="background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;">Loaded Item 2</div>
+            <div class="demo-card" style="background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;">Loaded Item 3</div>
+          </div>
+          <div id="demo-sentinel" style="text-align: center; padding: 30px; color: #0066cc; font-weight: 600; font-size: 1rem;">Loading more items automatically...</div>
+        </div>
+        <script>
+        (function() {
+          const holder = document.getElementById('demo-items-holder');
+          const sentinel = document.getElementById('demo-sentinel');
+          let count = 3;
+          if (!holder || !sentinel) return;
+          const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                setTimeout(() => {
+                  for (let i = 0; i < 3; i++) {
+                    count++;
+                    const card = document.createElement('div');
+                    card.className = 'demo-card';
+                    card.style.cssText = "background: #f9f9fb; border: 1px solid #e1e1e8; padding: 50px 20px; margin-bottom: 20px; border-radius: 12px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.02); color: #444; font-size: 1.1rem;";
+                    card.innerHTML = 'Loaded Item ' + count;
+                    holder.appendChild(card);
+                  }
+                }, 400);
+              }
+            });
+          }, { rootMargin: '0px 0px 400px 0px' });
+          observer.observe(sentinel);
+        })();
+        </script>
