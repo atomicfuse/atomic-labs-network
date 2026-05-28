@@ -40,8 +40,8 @@ quality_note: >-
   appears to discuss a potentially fabricated or unverified Microsoft incident
   without proper sourcing.
 image_alt: >-
-  Employees gather outside a modern corporate office under gray skies, framed by
-  glass walls and security barriers.
+  Employees gather outside a modern corporate tech office under a tense overcast
+  sky.
 ---
 
 In recent developments, Microsoft has taken decisive action against two employees following a protest at the company's Redmond, Washington office. The protest, which took place outside Building 34, highlighted internal tensions and raised questions about corporate policies and employee rights. Microsoft's swift response underscores the delicate balance between maintaining workplace order and addressing employee grievances.
