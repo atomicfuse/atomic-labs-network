@@ -1,27 +1,35 @@
 ---
-title: "Instant Calm: Discover This Quick Yoga Pose"
-description: "Viparita Karani, or Legs-Up-the-Wall Pose, is a restorative yoga posture that promotes relaxation and reduces stress. This gentle inversion aids circulation, relieves tension, and enhances mental tranquility, making it a valuable addition to any routine."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T09:43:33+00:00"
-author: "Taylor Winters"
+title: 'Instant Calm: Discover This Quick Yoga Pose'
+description: >-
+  Viparita Karani, or Legs-Up-the-Wall Pose, is a restorative yoga posture that
+  promotes relaxation and reduces stress. This gentle inversion aids
+  circulation, relieves tension, and enhances mental tranquility, making it a
+  valuable addition to any routine.
+type: standard
+status: published
+publishDate: '2025-12-18T09:43:33+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Beginners"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "instant-calm-discover-this-quick-yoga-pose"
+  - Yoga Poses
+  - Yoga For Beginners
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: instant-calm-discover-this-quick-yoga-pose
 reading_time: 4
-source_url: "https://yogaterritory.com/instant-calm-discover-this-quick-yoga-pose/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/instant-calm-discover-this-quick-yoga-pose/'
+imported_from: wordpress
 wp_original_id: 20699
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/instant-calm-discover-this-quick-yoga-pose.webp
 seo:
-  canonical: "https://yogaterritory.com/instant-calm-discover-this-quick-yoga-pose/"
-  og_title: "Instant Calm: Discover This Quick Yoga Pose - Yoga Territory"
-  og_description: "Viparita Karani, or Legs-Up-the-Wall Pose, is a restorative yoga posture that promotes relaxation and reduces stress. This gentle inversion aids circulation, relieves tension, and enhances mental tranquility, making it a valuable addition to any routine."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/12/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/instant-calm-discover-this-quick-yoga-pose/'
+  og_title: 'Instant Calm: Discover This Quick Yoga Pose - Yoga Territory'
+  og_description: >-
+    Viparita Karani, or Legs-Up-the-Wall Pose, is a restorative yoga posture
+    that promotes relaxation and reduces stress. This gentle inversion aids
+    circulation, relieves tension, and enhances mental tranquility, making it a
+    valuable addition to any routine.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/12/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,11 @@ score_breakdown:
   content_length: 68
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and keyword relevance, but falls short on word count (679 vs target 800-1200) and could benefit from stronger SEO optimization in headings structure."
+quality_note: >-
+  Well-written article with excellent tone and keyword relevance, but falls
+  short on word count (679 vs target 800-1200) and could benefit from stronger
+  SEO optimization in headings structure.
+image_alt: Person resting in legs-up-the-wall pose in a calm sunlit yoga space
 ---
 
 Imagine a pose that offers a sanctuary of calm while delivering numerous physical benefits. Viparita Karani, or Legs-Up-the-Wall Pose, provides just that. This restorative yoga posture is beloved for its simplicity and profound effects on the body and mind. Whether you're an experienced yogi or new to the practice, incorporating this pose into your routine can be a game-changer.
