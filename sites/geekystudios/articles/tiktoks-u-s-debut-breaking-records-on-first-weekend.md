@@ -41,8 +41,8 @@ quality_note: >-
   TikTok's 'U.S. Debut' when discussing an outage, and lacks proper SEO
   optimization despite good topic coverage.
 image_alt: >-
-  Glitching smartphone with fragmented media tiles suggesting a social platform
-  outage
+  Glitching smartphone screen with abstract video tiles and broken network
+  signals
 ---
 
 Over the weekend, TikTok users experienced significant disruptions, leaving many unable to access their favorite content on the platform. This outage sparked widespread confusion and frustration as essential features like the "For You" page and video uploads became inaccessible. Reports of these glitches quickly spread across social media, as users sought answers to the unexpected interruptions.
