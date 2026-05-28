@@ -19,7 +19,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/vampire-lestat-season-3-rock-opera-transformation.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   tone, but article length falls short of target range and relies heavily on
   vague 'reports indicate' sourcing that raises accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Vampire rock frontman on a gothic stage blending chateau grandeur with concert
+  lighting
 ---
 ## AMC's Bold Musical Pivot
 
