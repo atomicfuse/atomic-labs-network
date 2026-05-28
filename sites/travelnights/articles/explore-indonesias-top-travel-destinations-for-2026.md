@@ -1,24 +1,35 @@
 ---
-title: "Explore Indonesia’s Top Travel Destinations for 2026"
-description: "Indonesia's 2026 travel destinations offer diverse experiences, blending adventure, relaxation, and cultural enrichment. From Bali's beaches to Raja Ampat's marine life, Yogyakarta's cultural sites, and Komodo National Park's dragons, Indonesia is set to captivate travelers with its rich heritage and beauty."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T11:16:20+00:00"
-author: "Malcolm Anderson"
+title: Explore Indonesia’s Top Travel Destinations for 2026
+description: >-
+  Indonesia's 2026 travel destinations offer diverse experiences, blending
+  adventure, relaxation, and cultural enrichment. From Bali's beaches to Raja
+  Ampat's marine life, Yogyakarta's cultural sites, and Komodo National Park's
+  dragons, Indonesia is set to captivate travelers with its rich heritage and
+  beauty.
+type: standard
+status: published
+publishDate: '2025-12-04T11:16:20+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "explore-indonesias-top-travel-destinations-for-2026"
+  - Destinations
+slug: explore-indonesias-top-travel-destinations-for-2026
 reading_time: 3
-source_url: "https://travelnights.com/explore-indonesias-top-travel-destinations-for-2026/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/explore-indonesias-top-travel-destinations-for-2026/'
+imported_from: wordpress
 wp_original_id: 36631
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/explore-indonesias-top-travel-destinations-for-2026.webp
 seo:
-  canonical: "https://travelnights.com/explore-indonesias-top-travel-destinations-for-2026/"
-  og_title: "Explore Indonesia's Top Travel Destinations for 2026 - Travel Nights"
-  og_description: "Indonesia's 2026 travel destinations offer diverse experiences, blending adventure, relaxation, and cultural enrichment. From Bali's beaches to Raja Ampat's marine life, Yogyakarta's cultural sites, and Komodo National Park's dragons, Indonesia is set to captivate travelers with its rich heritage and beauty."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/explore-indonesias-top-travel-destinations-for-2026/
+  og_title: Explore Indonesia's Top Travel Destinations for 2026 - Travel Nights
+  og_description: >-
+    Indonesia's 2026 travel destinations offer diverse experiences, blending
+    adventure, relaxation, and cultural enrichment. From Bali's beaches to Raja
+    Ampat's marine life, Yogyakarta's cultural sites, and Komodo National Park's
+    dragons, Indonesia is set to captivate travelers with its rich heritage and
+    beauty.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel guide with good tone and keyword coverage, but falls significantly short of target word count at only 468 words."
+quality_note: >-
+  Well-written travel guide with good tone and keyword coverage, but falls
+  significantly short of target word count at only 468 words.
+image_alt: >-
+  Traveler overlooking Indonesian islands, jungle, temples, volcanoes, and
+  turquoise sea at golden hour
 ---
 
 Indonesia, a land rich in cultural diversity and natural beauty, is set to captivate travelers with its stunning arrays of destinations by 2026. The Ministry of Tourism has unveiled a list of top destinations that promise to offer unique experiences blending adventure, relaxation, and cultural enrichment. From pristine beaches to vibrant cities and lush jungles, Indonesia's travel spots are poised to become even more alluring.

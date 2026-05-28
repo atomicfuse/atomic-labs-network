@@ -1,30 +1,43 @@
 ---
-title: "10 Interior Design Rules for a Cohesive, Expensive-Looking Home"
-description: "Learn the essential decorating basics that help your home feel polished, cohesive, and professionally styled, covering furniture choices, color, pattern mixing, coffee table decor, bookshelf styling, and common mistakes to avoid."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:55:49+00:00"
-author: "Taylor Winters"
+title: '10 Interior Design Rules for a Cohesive, Expensive-Looking Home'
+description: >-
+  Learn the essential decorating basics that help your home feel polished,
+  cohesive, and professionally styled, covering furniture choices, color,
+  pattern mixing, coffee table decor, bookshelf styling, and common mistakes to
+  avoid.
+type: standard
+status: published
+publishDate: '2026-05-14T08:55:49+00:00'
+author: Taylor Winters
 tags:
-  - "Interior Design"
-  - "Hacks"
-  - "Ideas"
-  - "Tips"
-slug: "10-interior-design-rules-for-a-cohesive-expensive-looking-home"
+  - Interior Design
+  - Hacks
+  - Ideas
+  - Tips
+slug: 10-interior-design-rules-for-a-cohesive-expensive-looking-home
 reading_time: 6
-source_url: "https://decoratingmom.com/10-interior-design-rules-for-a-cohesive-expensive-looking-home/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/10-interior-design-rules-for-a-cohesive-expensive-looking-home/
+imported_from: wordpress
 wp_original_id: 35164
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/10-interior-design-rules-for-a-cohesive-expensive-looking-home.webp
 seo:
-  canonical: "https://decoratingmom.com/10-interior-design-rules-for-a-cohesive-expensive-looking-home/"
-  og_title: "10 Interior Design Rules for a Cohesive, Expensive-Looking Home - Decorating Mom"
-  og_description: "Learn the essential decorating basics that help your home feel polished, cohesive, and professionally styled. These interior design tips cover furniture choices, color, pattern mixing, coffee table decor, bookshelf styling, and common mistakes to avoid."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/10-interior-design-rules-for-a-cohesive-expensive-looking-home/
+  og_title: >-
+    10 Interior Design Rules for a Cohesive, Expensive-Looking Home - Decorating
+    Mom
+  og_description: >-
+    Learn the essential decorating basics that help your home feel polished,
+    cohesive, and professionally styled. These interior design tips cover
+    furniture choices, color, pattern mixing, coffee table decor, bookshelf
+    styling, and common mistakes to avoid.
+  twitter_card: summary_large_image
 videos:
-  - id: "c7ab7b93"
-    url: "https://www.youtube.com/watch?v=Pz1yUUH_974"
-    position: "after-paragraph-2"
+  - id: c7ab7b93
+    url: 'https://www.youtube.com/watch?v=Pz1yUUH_974'
+    position: after-paragraph-2
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -32,7 +45,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Strong article with excellent tone, perfect length, and comprehensive coverage of interior design topics, though the title could be slightly shorter for optimal SEO."
+quality_note: >-
+  Strong article with excellent tone, perfect length, and comprehensive coverage
+  of interior design topics, though the title could be slightly shorter for
+  optimal SEO.
+image_alt: >-
+  Polished neutral living room with curated shelves, layered textures, and
+  elegant coffee table decor
 ---
 
 Decorating your home like a pro starts with understanding the interior design basics that make a space feel intentional. In the video "10 Decorating Rules You Should Never Break," interior designer Kristen McGowan shares home decor styling tips focused on creating a beautiful, cohesive, and expensive-looking home without relying on guesswork.

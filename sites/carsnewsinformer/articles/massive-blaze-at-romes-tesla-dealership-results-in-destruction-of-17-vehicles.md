@@ -23,7 +23,8 @@ source_url: ''
 source_item_id: >-
   synthetic-massive-blaze-at-romes-tesla-dealership-results-in-destruction-of-17-vehicles
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/massive-blaze-at-romes-tesla-dealership-results-in-destruction-of-17-vehicles.webp
 reading_time: 3
 quality_score: 68
 score_breakdown:
@@ -36,6 +37,9 @@ quality_note: >-
   Article has good tone and keyword relevance but falls short on length (403
   words vs 800-1200 target) and lacks specific factual details about the
   incident.
+image_alt: >-
+  Charred cars sit in a smoky dealership lot as firefighters work in the
+  background.
 ---
 ## Major Fire Strikes Tesla Dealership
 

@@ -1,27 +1,37 @@
 ---
-title: "Expert Tips for Adding 1970s Decor to Your 2026 Home"
-description: "The 1970s' bold colors, eclectic patterns, and unique textures are making a comeback by 2026, driven by renewed appreciation for individuality and vibrancy. This era's rich colors, natural materials, and functional furniture continue to influence modern home design trends."
-type: "standard"
-status: published
-publishDate: "2026-02-16T09:59:34+00:00"
-author: "Taylor Winters"
+title: Expert Tips for Adding 1970s Decor to Your 2026 Home
+description: >-
+  The 1970s' bold colors, eclectic patterns, and unique textures are making a
+  comeback by 2026, driven by renewed appreciation for individuality and
+  vibrancy. This era's rich colors, natural materials, and functional furniture
+  continue to influence modern home design trends.
+type: standard
+status: review
+publishDate: '2026-02-16T09:59:34+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "expert-tips-for-adding-1970s-decor-to-your-2026-home"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: expert-tips-for-adding-1970s-decor-to-your-2026-home
 reading_time: 3
-source_url: "https://decoratingmom.com/expert-tips-for-adding-1970s-decor-to-your-2026-home/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/expert-tips-for-adding-1970s-decor-to-your-2026-home/
+imported_from: wordpress
 wp_original_id: 35132
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/expert-tips-for-adding-1970s-decor-to-your-2026-home.webp
 seo:
-  canonical: "https://decoratingmom.com/expert-tips-for-adding-1970s-decor-to-your-2026-home/"
-  og_title: "Expert Tips for Adding 1970s Decor to Your 2026 Home - Decorating Mom"
-  og_description: "The 1970s' bold colors, eclectic patterns, and unique textures are making a comeback by 2026, driven by renewed appreciation for individuality and vibrancy. This era's rich colors, natural materials, and functional furniture continue to influence modern home design trends."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2026/02/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/expert-tips-for-adding-1970s-decor-to-your-2026-home/
+  og_title: Expert Tips for Adding 1970s Decor to Your 2026 Home - Decorating Mom
+  og_description: >-
+    The 1970s' bold colors, eclectic patterns, and unique textures are making a
+    comeback by 2026, driven by renewed appreciation for individuality and
+    vibrancy. This era's rich colors, natural materials, and functional
+    furniture continue to influence modern home design trends.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2026/02/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -29,7 +39,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong topic relevance and tone but significantly under target word count and makes unsupported predictions about 2026 trends."
+quality_note: >-
+  Strong topic relevance and tone but significantly under target word count and
+  makes unsupported predictions about 2026 trends.
+image_alt: >-
+  Modern living room with warm 1970s-inspired colors, textures, and curved
+  furniture
 ---
 
 The 1970s were a decade of bold colors, eclectic patterns, and unique textures that left an indelible mark on interior design. As trends tend to cycle, the distinctive style of the 1970s is reemerging, promising to make a strong comeback by 2026. This resurgence is driven by a renewed appreciation for the individuality and vibrancy that characterized the era's aesthetic.

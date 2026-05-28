@@ -23,7 +23,7 @@ source_url: >-
   https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-may-15-17.html
 source_item_id: 6a0800da4bdae0614e7aaf48
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/weekend-watch-guide-may-15-17-streaming-picks.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   word count and contains vague, potentially fabricated details about shows and
   their release timing.
 reading_time: 3
+image_alt: >-
+  Moody living room lit by a glowing TV, with streaming-night objects arranged
+  on a coffee table.
 ---
 ## The Weekend's Streaming Obsessions
 

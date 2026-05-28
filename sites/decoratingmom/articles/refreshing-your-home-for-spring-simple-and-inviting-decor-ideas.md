@@ -1,30 +1,39 @@
 ---
-title: "Refreshing Your Home for Spring: Simple and Inviting Décor Ideas"
-description: "Explore simple and fresh spring decorating ideas to create a light and welcoming atmosphere in your home."
-type: "standard"
-status: published
-publishDate: "2026-03-09T10:05:21+00:00"
-author: "Taylor Winters"
+title: 'Refreshing Your Home for Spring: Simple and Inviting Décor Ideas'
+description: >-
+  Explore simple and fresh spring decorating ideas to create a light and
+  welcoming atmosphere in your home.
+type: standard
+status: review
+publishDate: '2026-03-09T10:05:21+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "refreshing-your-home-for-spring-simple-and-inviting-decor-ideas"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: refreshing-your-home-for-spring-simple-and-inviting-decor-ideas
 reading_time: 2
-source_url: "https://decoratingmom.com/refreshing-your-home-for-spring-simple-and-inviting-decor-ideas/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/refreshing-your-home-for-spring-simple-and-inviting-decor-ideas/
+imported_from: wordpress
 wp_original_id: 35143
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/refreshing-your-home-for-spring-simple-and-inviting-decor-ideas.webp
 seo:
-  canonical: "https://decoratingmom.com/refreshing-your-home-for-spring-simple-and-inviting-decor-ideas/"
-  og_title: "Refreshing Your Home for Spring: Simple and Inviting Décor Ideas - Decorating Mom"
-  og_description: "Explore simple and fresh spring decorating ideas to create a light and welcoming atmosphere in your home."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/refreshing-your-home-for-spring-simple-and-inviting-decor-ideas/
+  og_title: >-
+    Refreshing Your Home for Spring: Simple and Inviting Décor Ideas -
+    Decorating Mom
+  og_description: >-
+    Explore simple and fresh spring decorating ideas to create a light and
+    welcoming atmosphere in your home.
+  twitter_card: summary_large_image
 videos:
-  - id: "bacfe4c4"
-    url: "https://www.youtube.com/watch?v=UVGeQFx8eHQ"
-    position: "after-paragraph-2"
+  - id: bacfe4c4
+    url: 'https://www.youtube.com/watch?v=UVGeQFx8eHQ'
+    position: after-paragraph-2
 quality_score: 68
 score_breakdown:
   seo_quality: 45
@@ -32,7 +41,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 100
   keyword_relevance: 85
-quality_note: "While the content is well-written and on-topic, it falls significantly short of the target length and lacks proper SEO structure with no H2/H3 headings."
+quality_note: >-
+  While the content is well-written and on-topic, it falls significantly short
+  of the target length and lacks proper SEO structure with no H2/H3 headings.
+image_alt: >-
+  Sunlit spring living room with neutral decor, natural textures, and fresh
+  branches on a coffee table.
 ---
 
 Spring is a wonderful time to breathe new life into your home. As the season of renewal, it offers an opportunity to refresh your space with simple and effective decorating ideas that bring a sense of lightness and brightness. This article will guide you through effortless styling tips that make every corner of your house feel inviting and cozy.

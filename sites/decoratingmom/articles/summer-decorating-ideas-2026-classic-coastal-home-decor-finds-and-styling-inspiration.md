@@ -1,30 +1,44 @@
 ---
-title: "Summer Decorating Ideas 2026: Classic, Coastal Home Decor Finds and Styling Inspiration"
-description: "Get inspired by classic summer decorating ideas with a HomeGoods and Homesense shop-with-me, seasonal decor haul, and simple styling inspiration for a fresh summer home."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T08:57:53+00:00"
-author: "Taylor Winters"
+title: >-
+  Summer Decorating Ideas 2026: Classic, Coastal Home Decor Finds and Styling
+  Inspiration
+description: >-
+  Get inspired by classic summer decorating ideas with a HomeGoods and Homesense
+  shop-with-me, seasonal decor haul, and simple styling inspiration for a fresh
+  summer home.
+type: standard
+status: published
+publishDate: '2026-05-07T08:57:53+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Living Room"
-slug: "summer-decorating-ideas-2026-classic-coastal-home-decor-finds-and-styling-inspiration"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Living Room
+slug: >-
+  summer-decorating-ideas-2026-classic-coastal-home-decor-finds-and-styling-inspiration
 reading_time: 6
-source_url: "https://decoratingmom.com/summer-decorating-ideas-2026-classic-coastal-home-decor-finds-and-styling-inspiration/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/summer-decorating-ideas-2026-classic-coastal-home-decor-finds-and-styling-inspiration/
+imported_from: wordpress
 wp_original_id: 35158
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/summer-decorating-ideas-2026-classic-coastal-home-decor-finds-and-styling-inspiration.webp
 seo:
-  canonical: "https://decoratingmom.com/summer-decorating-ideas-2026-classic-coastal-home-decor-finds-and-styling-inspiration/"
-  og_title: "Summer Decorating Ideas 2026: Classic, Coastal Home Decor Finds and Styling Inspiration - Decorating Mom"
-  og_description: "Get inspired by classic summer decorating ideas with a HomeGoods and Homesense shop-with-me, seasonal decor haul, and simple styling inspiration for a fresh summer home."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/summer-decorating-ideas-2026-classic-coastal-home-decor-finds-and-styling-inspiration/
+  og_title: >-
+    Summer Decorating Ideas 2026: Classic, Coastal Home Decor Finds and Styling
+    Inspiration - Decorating Mom
+  og_description: >-
+    Get inspired by classic summer decorating ideas with a HomeGoods and
+    Homesense shop-with-me, seasonal decor haul, and simple styling inspiration
+    for a fresh summer home.
+  twitter_card: summary_large_image
 videos:
-  - id: "b5a25826"
-    url: "https://www.youtube.com/watch?v=21lOjAPLBYo"
-    position: "after-paragraph-2"
+  - id: b5a25826
+    url: 'https://www.youtube.com/watch?v=21lOjAPLBYo'
+    position: after-paragraph-2
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -32,7 +46,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong content with good length and keyword coverage, but references to specific 2026 trends and a particular video creator raise factual accuracy concerns."
+quality_note: >-
+  Strong content with good length and keyword coverage, but references to
+  specific 2026 trends and a particular video creator raise factual accuracy
+  concerns.
+image_alt: >-
+  Airy coastal living room with white slipcovers, blue accents, woven textures,
+  and fresh summer flowers.
 ---
 
 Summer decorating in 2026 is all about creating a home that feels fresh, welcoming, and easy to live in. Based on Lauren Midgley's summer decorating video, this seasonal refresh brings together traditional and classic home design with Nancy Meyers-inspired charm, cottage softness, and coastal accents. The result is a summer look that feels timeless rather than trendy, with pieces that can be styled throughout the season in a natural and relaxed way.

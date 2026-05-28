@@ -4,7 +4,7 @@ description: >-
   Explore advanced yoga asanas for seasoned practitioners at Patanjali Yoga
   Rishikesh, and learn what it takes to become an advanced yogi and teacher.
 type: standard
-status: published
+status: review
 publishDate: '2025-07-03T04:37:25+00:00'
 author: Taylor Winters
 tags:
@@ -31,21 +31,23 @@ seo:
     Rishikesh, and learn what it takes to become an advanced yogi and teacher.
   twitter_card: summary_large_image
 videos:
-  - id: b274d36c
+  - id: 3c02827e
     url: 'https://www.youtube.com/watch?v=jMBha0gSuyE'
     position: after-paragraph-2
-quality_score: 66
+quality_score: 70
 score_breakdown:
   seo_quality: 65
   tone_match: 75
-  content_length: 35
+  content_length: 45
   factual_accuracy: 85
-  keyword_relevance: 70
+  keyword_relevance: 80
 quality_note: >-
-  The article has good tone and accuracy but is significantly under the target
-  word count (437 vs 800-1200), which severely impacts its value for the site's
-  content guidelines.
-image_alt: Advanced yoga practitioner at sunrise in a serene Rishikesh ashram courtyard
+  The article has good tone and keyword coverage but is significantly under the
+  target word count at 437 words, which severely impacts its SEO value and depth
+  of coverage.
+image_alt: >-
+  Advanced yogi practicing at sunrise on a quiet terrace overlooking misty
+  Rishikesh foothills
 ---
 
 Yoga is a journey that deepens with practice, and for those who have moved beyond the basics, Patanjali Yoga Rishikesh offers a transformative experience through advanced yoga asanas. These postures not only improve physical strength and flexibility but also enhance mental focus and inner peace. Located in the serene surroundings of Rishikesh, India, Patanjali Yoga provides an ideal setting for intermediate to advanced practitioners to refine their skills.

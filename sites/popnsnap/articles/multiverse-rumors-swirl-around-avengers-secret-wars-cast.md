@@ -1,25 +1,39 @@
 ---
-title: "Multiverse Rumors Swirl Around &#8216;Avengers: Secret Wars&#8217; Cast"
-description: "Anticipation for Marvel's \"Avengers: Secret Wars\" is high as rumors swirl about its cast. The film promises to bring back beloved characters, introduce new storylines involving the multiverse, and have a profound impact on the Marvel Cinematic Universe."
-type: "standard"
-status: "published"
-publishDate: "2025-12-29T10:57:31+00:00"
-author: "Taylor Anderson"
+title: 'Multiverse Rumors Swirl Around 'Avengers: Secret Wars' Cast'
+description: >-
+  Anticipation for Marvel's "Avengers: Secret Wars" is high as rumors swirl
+  about its cast. The film promises to bring back beloved characters, introduce
+  new storylines involving the multiverse, and have a profound impact on the
+  Marvel Cinematic Universe.
+type: standard
+status: published
+publishDate: '2025-12-29T10:57:31+00:00'
+author: Taylor Anderson
 tags:
-  - "Celebrities"
-  - "TV &amp; Movies"
-slug: "multiverse-rumors-swirl-around-avengers-secret-wars-cast"
+  - Celebrities
+  - TV &amp; Movies
+slug: multiverse-rumors-swirl-around-avengers-secret-wars-cast
 reading_time: 3
-source_url: "https://popnsnap.com/multiverse-rumors-swirl-around-avengers-secret-wars-cast/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/multiverse-rumors-swirl-around-avengers-secret-wars-cast/'
+imported_from: wordpress
 wp_original_id: 708
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/multiverse-rumors-swirl-around-avengers-secret-wars-cast.webp
 seo:
-  canonical: "https://popnsnap.com/multiverse-rumors-swirl-around-avengers-secret-wars-cast/"
-  og_title: "Multiverse Rumors Swirl Around 'Avengers: Secret Wars' Cast - Pop N&#039; Snap"
-  og_description: "Anticipation for Marvel's \"Avengers: Secret Wars\" is high as rumors swirl about its cast. The film promises to bring back beloved characters, introduce new storylines involving the multiverse, and have a profound impact on the Marvel Cinematic Universe."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/12/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/multiverse-rumors-swirl-around-avengers-secret-wars-cast/
+  og_title: >-
+    Multiverse Rumors Swirl Around 'Avengers: Secret Wars' Cast - Pop N&#039;
+    Snap
+  og_description: >-
+    Anticipation for Marvel's "Avengers: Secret Wars" is high as rumors swirl
+    about its cast. The film promises to bring back beloved characters,
+    introduce new storylines involving the multiverse, and have a profound
+    impact on the Marvel Cinematic Universe.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/12/make_file-5.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Anonymous heroic silhouettes stand amid glowing multiverse portals on a smoky
+  cinematic stage.
 ---
 
 The anticipation surrounding Marvel's upcoming film "Avengers: Secret Wars" is reaching fever pitch as rumors about its cast continue to circulate. This eagerly awaited addition to the Marvel Cinematic Universe (MCU) promises to bring back beloved characters while introducing intriguing new storylines involving the multiverse.

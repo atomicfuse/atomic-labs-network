@@ -1,30 +1,41 @@
 ---
-title: "Explore the Latest 2026 Target Home Decor and Interior Design Tips"
-description: "Join interior designer Kristen McGowan as she explores the newest home decor collections at Target for 2026, discovering stylish pieces and design inspirations for your living space."
-type: "standard"
-status: published
-publishDate: "2026-01-29T10:03:22+00:00"
-author: "Taylor Winters"
+title: Explore the Latest 2026 Target Home Decor and Interior Design Tips
+description: >-
+  Join interior designer Kristen McGowan as she explores the newest home decor
+  collections at Target for 2026, discovering stylish pieces and design
+  inspirations for your living space.
+type: standard
+status: review
+publishDate: '2026-01-29T10:03:22+00:00'
+author: Taylor Winters
 tags:
-  - "Interior Design"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "explore-the-latest-2026-target-home-decor-and-interior-design-tips"
+  - Interior Design
+  - Ideas
+  - Inspirations
+  - Tips
+slug: explore-the-latest-2026-target-home-decor-and-interior-design-tips
 reading_time: 2
-source_url: "https://decoratingmom.com/explore-the-latest-2026-target-home-decor-and-interior-design-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/explore-the-latest-2026-target-home-decor-and-interior-design-tips/
+imported_from: wordpress
 wp_original_id: 35118
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/explore-the-latest-2026-target-home-decor-and-interior-design-tips.webp
 seo:
-  canonical: "https://decoratingmom.com/explore-the-latest-2026-target-home-decor-and-interior-design-tips/"
-  og_title: "Explore the Latest 2026 Target Home Decor and Interior Design Tips - Decorating Mom"
-  og_description: "Join interior designer Kristen McGowan as she explores the newest home decor collections at Target for 2026. Discover stylish pieces and design inspirations for your living space."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/explore-the-latest-2026-target-home-decor-and-interior-design-tips/
+  og_title: >-
+    Explore the Latest 2026 Target Home Decor and Interior Design Tips -
+    Decorating Mom
+  og_description: >-
+    Join interior designer Kristen McGowan as she explores the newest home decor
+    collections at Target for 2026. Discover stylish pieces and design
+    inspirations for your living space.
+  twitter_card: summary_large_image
 videos:
-  - id: "890f9eff"
-    url: "https://www.youtube.com/watch?v=ORmoUoL_dm4"
-    position: "after-paragraph-2"
+  - id: 890f9eff
+    url: 'https://www.youtube.com/watch?v=ORmoUoL_dm4'
+    position: after-paragraph-2
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -32,7 +43,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and keyword coverage, but significantly under target word count and contains questionable future claims about 2026 collections."
+quality_note: >-
+  Well-written article with good tone and keyword coverage, but significantly
+  under target word count and contains questionable future claims about 2026
+  collections.
+image_alt: >-
+  Modern living room styled with neutral decor, greenery, woven textures, and
+  warm natural light.
 ---
 
 Shopping for home decor can be both exciting and overwhelming, especially with the plethora of options available in 2026. Renowned interior designer Kristen McGowan guides us through the latest offerings at Target, highlighting the must-see pieces from popular collections such as The Spring Threshold by Studio McGee and Chip and Joanna Gaines' Hearth & Hand.

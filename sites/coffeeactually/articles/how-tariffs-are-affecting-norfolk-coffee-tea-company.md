@@ -1,24 +1,34 @@
 ---
-title: "How Tariffs Are Affecting Norfolk Coffee & Tea Company"
-description: "The global trade landscape is shifting, with tariffs affecting business dynamics. Norfolk Coffee & Tea Company is adapting by diversifying suppliers and improving efficiency to manage costs, while engaging consumers to maintain demand despite price changes."
-type: "standard"
+title: How Tariffs Are Affecting Norfolk Coffee & Tea Company
+description: >-
+  The global trade landscape is shifting, with tariffs affecting business
+  dynamics. Norfolk Coffee & Tea Company is adapting by diversifying suppliers
+  and improving efficiency to manage costs, while engaging consumers to maintain
+  demand despite price changes.
+type: standard
 status: published
-publishDate: "2026-02-12T09:15:28+00:00"
-author: "Taylor Winters"
+publishDate: '2026-02-12T09:15:28+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "how-tariffs-are-affecting-norfolk-coffee-tea-company"
+  - Coffee News
+  - News
+slug: how-tariffs-are-affecting-norfolk-coffee-tea-company
 reading_time: 3
-source_url: "https://coffeeactually.com/how-tariffs-are-affecting-norfolk-coffee-tea-company/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/how-tariffs-are-affecting-norfolk-coffee-tea-company/
+imported_from: wordpress
 wp_original_id: 51399
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/how-tariffs-are-affecting-norfolk-coffee-tea-company.webp
 seo:
-  canonical: "https://coffeeactually.com/how-tariffs-are-affecting-norfolk-coffee-tea-company/"
-  og_title: "How Tariffs Are Affecting Norfolk Coffee & Tea Company - Coffee Actually"
-  og_description: "The global trade landscape is shifting, with tariffs affecting business dynamics. Norfolk Coffee & Tea Company is adapting by diversifying suppliers and improving efficiency to manage costs, while engaging consumers to maintain demand despite price changes."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/how-tariffs-are-affecting-norfolk-coffee-tea-company/
+  og_title: How Tariffs Are Affecting Norfolk Coffee & Tea Company - Coffee Actually
+  og_description: >-
+    The global trade landscape is shifting, with tariffs affecting business
+    dynamics. Norfolk Coffee & Tea Company is adapting by diversifying suppliers
+    and improving efficiency to manage costs, while engaging consumers to
+    maintain demand despite price changes.
+  twitter_card: summary_large_image
 quality_score: 54
 score_breakdown:
   seo_quality: 45
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: "The article is well-written but too short at 455 words, lacks coffee-specific focus, and doesn't align well with the site's coffee enthusiast audience or primary topics."
+quality_note: >-
+  The article is well-written but too short at 455 words, lacks coffee-specific
+  focus, and doesn't align well with the site's coffee enthusiast audience or
+  primary topics.
+image_alt: >-
+  Coffee beans, a cup, and shipping materials on a roastery table suggesting
+  global trade pressures.
 ---
 
 The global trade landscape is undergoing significant changes, with tariffs playing a pivotal role in shaping business dynamics across various sectors. As international trade policies evolve, local businesses, such as Norfolk Coffee & Tea Company, are feeling the effects. These changes are influencing everything from sourcing materials to final product costs, impacting both businesses and consumers.

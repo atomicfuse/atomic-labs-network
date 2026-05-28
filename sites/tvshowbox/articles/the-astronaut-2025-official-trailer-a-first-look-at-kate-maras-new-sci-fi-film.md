@@ -1,29 +1,40 @@
 ---
-title: "The Astronaut (2025) Official Trailer: A First Look at Kate Mara’s New Sci-Fi Film"
-description: "Explore the first trailer of 'The Astronaut', starring Kate Mara and Laurence Fishburne, as it sets the stage for an exciting sci-fi adventure."
-type: "standard"
+title: >-
+  The Astronaut (2025) Official Trailer: A First Look at Kate Mara’s New Sci-Fi
+  Film
+description: >-
+  Explore the first trailer of 'The Astronaut', starring Kate Mara and Laurence
+  Fishburne, as it sets the stage for an exciting sci-fi adventure.
+type: standard
 status: published
-publishDate: "2025-12-18T09:37:21+00:00"
-author: "Taylor Winters"
+publishDate: '2025-12-18T09:37:21+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Trailers"
-  - "Upcoming"
-slug: "the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film"
+  - TV News
+  - Trailers
+  - Upcoming
+slug: the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film
 reading_time: 2
-source_url: "https://tvshowbox.com/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film/
+imported_from: wordpress
 wp_original_id: 24030
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film.webp
 seo:
-  canonical: "https://tvshowbox.com/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film/"
-  og_title: "The Astronaut (2025) Official Trailer: A First Look at Kate Mara's New Sci-Fi Film - TV Show Box"
-  og_description: "Explore the first trailer of 'The Astronaut', starring Kate Mara and Laurence Fishburne, as it sets the stage for an exciting sci-fi adventure."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film/
+  og_title: >-
+    The Astronaut (2025) Official Trailer: A First Look at Kate Mara's New
+    Sci-Fi Film - TV Show Box
+  og_description: >-
+    Explore the first trailer of 'The Astronaut', starring Kate Mara and
+    Laurence Fishburne, as it sets the stage for an exciting sci-fi adventure.
+  twitter_card: summary_large_image
 videos:
-  - id: "07247831"
-    url: "https://www.youtube.com/watch?v=BimafvfspqA"
-    position: "after-paragraph-2"
+  - id: 07247831
+    url: 'https://www.youtube.com/watch?v=BimafvfspqA'
+    position: after-paragraph-2
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -31,7 +42,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: "Well-written entertainment content with good tone and keyword coverage, but significantly too short at 315 words and lacks verification of the film's existence."
+quality_note: >-
+  Well-written entertainment content with good tone and keyword coverage, but
+  significantly too short at 315 words and lacks verification of the film's
+  existence.
+image_alt: >-
+  A lone astronaut in a dim spacecraft airlock faces a vast planet through a
+  reflective visor.
 ---
 
 The highly anticipated trailer for *The Astronaut*, a new sci-fi film starring Kate Mara and Laurence Fishburne, has just been released, offering audiences a thrilling glimpse into this interstellar adventure. The film promises to blend elements of suspense, drama, and exploration, captivating viewers with its intriguing storyline and star-studded cast.

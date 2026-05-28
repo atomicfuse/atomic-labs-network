@@ -1,27 +1,37 @@
 ---
-title: "Transform Your Home: 28 Fresh Spring Decor Ideas 2026"
-description: "Spring is a season of renewal, perfect for refreshing home decor with vibrant colors, natural elements, and fresh themes. Consider bold hues like coral, teal, and mustard, and incorporate eco-friendly materials and plants to create a welcoming atmosphere."
-type: "standard"
-status: "published"
-publishDate: "2026-02-26T10:03:31+00:00"
-author: "Taylor Winters"
+title: 'Transform Your Home: 28 Fresh Spring Decor Ideas 2026'
+description: >-
+  Spring is a season of renewal, perfect for refreshing home decor with vibrant
+  colors, natural elements, and fresh themes. Consider bold hues like coral,
+  teal, and mustard, and incorporate eco-friendly materials and plants to create
+  a welcoming atmosphere.
+type: standard
+status: published
+publishDate: '2026-02-26T10:03:31+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "transform-your-home-28-fresh-spring-decor-ideas-2026"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: transform-your-home-28-fresh-spring-decor-ideas-2026
 reading_time: 3
-source_url: "https://decoratingmom.com/transform-your-home-28-fresh-spring-decor-ideas-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/transform-your-home-28-fresh-spring-decor-ideas-2026/
+imported_from: wordpress
 wp_original_id: 35136
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/transform-your-home-28-fresh-spring-decor-ideas-2026.webp
 seo:
-  canonical: "https://decoratingmom.com/transform-your-home-28-fresh-spring-decor-ideas-2026/"
-  og_title: "Transform Your Home: 28 Fresh Spring Decor Ideas 2026 - Decorating Mom"
-  og_description: "Spring is a season of renewal, perfect for refreshing home decor with vibrant colors, natural elements, and fresh themes. Consider bold hues like coral, teal, and mustard, and incorporate eco-friendly materials and plants to create a welcoming atmosphere."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2026/02/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/transform-your-home-28-fresh-spring-decor-ideas-2026/
+  og_title: 'Transform Your Home: 28 Fresh Spring Decor Ideas 2026 - Decorating Mom'
+  og_description: >-
+    Spring is a season of renewal, perfect for refreshing home decor with
+    vibrant colors, natural elements, and fresh themes. Consider bold hues like
+    coral, teal, and mustard, and incorporate eco-friendly materials and plants
+    to create a welcoming atmosphere.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2026/02/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article with good keyword coverage and appropriate tone, but significantly under target word count at 564 words versus the 800-1200 word goal."
+quality_note: >-
+  Well-written article with good keyword coverage and appropriate tone, but
+  significantly under target word count at 564 words versus the 800-1200 word
+  goal.
+image_alt: >-
+  Spring living room with bold accents, natural textures, plants, and warm
+  morning light
 ---
 
 Spring is a season of renewal, making it the perfect time to refresh your home decor. As the days grow longer and warmer, consider incorporating vibrant colors, natural elements, and fresh themes into your living spaces. These updates can invigorate your home and create a welcoming atmosphere.

@@ -1,27 +1,38 @@
 ---
-title: "Creative Apartment Decor Ideas for Stylish Living Spaces"
-description: "Creating a comfortable home involves balancing aesthetics and functionality. Transform any space into a personal sanctuary with creative design tips, maximizing small spaces, creating cozy nooks, adjusting lighting, and incorporating personal style to achieve a practical and inviting environment."
-type: "standard"
-status: "published"
-publishDate: "2026-01-12T09:59:32+00:00"
-author: "Taylor Winters"
+title: Creative Apartment Decor Ideas for Stylish Living Spaces
+description: >-
+  Creating a comfortable home involves balancing aesthetics and functionality.
+  Transform any space into a personal sanctuary with creative design tips,
+  maximizing small spaces, creating cozy nooks, adjusting lighting, and
+  incorporating personal style to achieve a practical and inviting environment.
+type: standard
+status: published
+publishDate: '2026-01-12T09:59:32+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Kitchen"
-  - "Living Room"
-slug: "creative-apartment-decor-ideas-for-stylish-living-spaces"
+  - Decor Ideas
+  - Ideas
+  - Kitchen
+  - Living Room
+slug: creative-apartment-decor-ideas-for-stylish-living-spaces
 reading_time: 3
-source_url: "https://decoratingmom.com/creative-apartment-decor-ideas-for-stylish-living-spaces/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/creative-apartment-decor-ideas-for-stylish-living-spaces/
+imported_from: wordpress
 wp_original_id: 35108
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/creative-apartment-decor-ideas-for-stylish-living-spaces.webp
 seo:
-  canonical: "https://decoratingmom.com/creative-apartment-decor-ideas-for-stylish-living-spaces/"
-  og_title: "Creative Apartment Decor Ideas for Stylish Living Spaces - Decorating Mom"
-  og_description: "Creating a comfortable home involves balancing aesthetics and functionality. Transform any space into a personal sanctuary with creative design tips, maximizing small spaces, creating cozy nooks, adjusting lighting, and incorporating personal style to achieve a practical and inviting environment."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/creative-apartment-decor-ideas-for-stylish-living-spaces/
+  og_title: Creative Apartment Decor Ideas for Stylish Living Spaces - Decorating Mom
+  og_description: >-
+    Creating a comfortable home involves balancing aesthetics and functionality.
+    Transform any space into a personal sanctuary with creative design tips,
+    maximizing small spaces, creating cozy nooks, adjusting lighting, and
+    incorporating personal style to achieve a practical and inviting
+    environment.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -29,7 +40,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with strong tone and keyword relevance, but significantly under target word count at 574 words versus the 800-1200 word range."
+quality_note: >-
+  Well-written article with strong tone and keyword relevance, but significantly
+  under target word count at 574 words versus the 800-1200 word range.
+image_alt: >-
+  Stylish small apartment living room with cozy decor, plants, warm lighting,
+  and smart storage
 ---
 
 Creating a comfortable and stylish home environment often involves a balance of aesthetics and functionality. Every space, regardless of its size, can be transformed into a personal sanctuary that reflects individual tastes and priorities. This article explores creative strategies and design tips to enhance your living space, making it both practical and inviting.

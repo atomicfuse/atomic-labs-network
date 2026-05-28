@@ -1,30 +1,36 @@
 ---
-title: "Elevate Your Home with Budget-Friendly Thrifted Decor"
-description: "Discover how to find and style high-end home decor from thrift stores, transforming your space without overspending."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T10:03:28+00:00"
-author: "Taylor Winters"
+title: Elevate Your Home with Budget-Friendly Thrifted Decor
+description: >-
+  Discover how to find and style high-end home decor from thrift stores,
+  transforming your space without overspending.
+type: standard
+status: published
+publishDate: '2026-01-26T10:03:28+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Budget"
-  - "Ideas"
-  - "Tips"
-slug: "elevate-your-home-with-budget-friendly-thrifted-decor"
+  - Decor Ideas
+  - Budget
+  - Ideas
+  - Tips
+slug: elevate-your-home-with-budget-friendly-thrifted-decor
 reading_time: 3
-source_url: "https://decoratingmom.com/elevate-your-home-with-budget-friendly-thrifted-decor/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/elevate-your-home-with-budget-friendly-thrifted-decor/
+imported_from: wordpress
 wp_original_id: 35116
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/elevate-your-home-with-budget-friendly-thrifted-decor.webp
 seo:
-  canonical: "https://decoratingmom.com/elevate-your-home-with-budget-friendly-thrifted-decor/"
-  og_title: "Elevate Your Home with Budget-Friendly Thrifted Decor - Decorating Mom"
-  og_description: "Discover how to find and style high-end home decor from thrift stores, transforming your space without overspending."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/elevate-your-home-with-budget-friendly-thrifted-decor/
+  og_title: Elevate Your Home with Budget-Friendly Thrifted Decor - Decorating Mom
+  og_description: >-
+    Discover how to find and style high-end home decor from thrift stores,
+    transforming your space without overspending.
+  twitter_card: summary_large_image
 videos:
-  - id: "d415da26"
-    url: "https://www.youtube.com/watch?v=2C-1zdksHwo"
-    position: "after-paragraph-2"
+  - id: d415da26
+    url: 'https://www.youtube.com/watch?v=2C-1zdksHwo'
+    position: after-paragraph-2
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,7 +38,12 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Strong tone and keyword alignment but significantly below target word count at 426 words versus the 800-1200 range."
+quality_note: >-
+  Strong tone and keyword alignment but significantly below target word count at
+  426 words versus the 800-1200 range.
+image_alt: >-
+  Stylish living room with curated vintage decor, warm light, and layered
+  textures
 ---
 
 Transforming your home into a stylish haven doesn't have to break the bank. With a keen eye and a bit of creativity, thrift stores can become treasure troves for exquisite home decor. In this guide, we'll delve into the art of thrifting high-end home decor and share practical tips for integrating these finds into your living space. Join us on this journey as we uncover unique pieces and explore the endless possibilities of budget-friendly decorating.

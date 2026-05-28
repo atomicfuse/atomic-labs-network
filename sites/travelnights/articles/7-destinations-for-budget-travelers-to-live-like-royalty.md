@@ -1,25 +1,35 @@
 ---
-title: "7 Destinations for Budget Travelers to Live Like Royalty"
-description: "Discover destinations where you can enjoy luxury and comfort without breaking the bank. From Egypt's ancient wonders to Greece's sun-kissed beaches, explore captivating places offering rich cultural experiences and stunning landscapes at affordable prices."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T11:15:52+00:00"
-author: "Malcolm Anderson"
+title: 7 Destinations for Budget Travelers to Live Like Royalty
+description: >-
+  Discover destinations where you can enjoy luxury and comfort without breaking
+  the bank. From Egypt's ancient wonders to Greece's sun-kissed beaches, explore
+  captivating places offering rich cultural experiences and stunning landscapes
+  at affordable prices.
+type: standard
+status: published
+publishDate: '2025-12-04T11:15:52+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "7-destinations-for-budget-travelers-to-live-like-royalty"
+  - Destinations
+  - Guides &amp; Tips
+slug: 7-destinations-for-budget-travelers-to-live-like-royalty
 reading_time: 3
-source_url: "https://travelnights.com/7-destinations-for-budget-travelers-to-live-like-royalty/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/7-destinations-for-budget-travelers-to-live-like-royalty/
+imported_from: wordpress
 wp_original_id: 36629
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/7-destinations-for-budget-travelers-to-live-like-royalty.webp
 seo:
-  canonical: "https://travelnights.com/7-destinations-for-budget-travelers-to-live-like-royalty/"
-  og_title: "7 Destinations for Budget Travelers to Live Like Royalty - Travel Nights"
-  og_description: "Discover destinations where you can enjoy luxury and comfort without breaking the bank. From Egypt's ancient wonders to Greece's sun-kissed beaches, explore captivating places offering rich cultural experiences and stunning landscapes at affordable prices."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/7-destinations-for-budget-travelers-to-live-like-royalty/
+  og_title: 7 Destinations for Budget Travelers to Live Like Royalty - Travel Nights
+  og_description: >-
+    Discover destinations where you can enjoy luxury and comfort without
+    breaking the bank. From Egypt's ancient wonders to Greece's sun-kissed
+    beaches, explore captivating places offering rich cultural experiences and
+    stunning landscapes at affordable prices.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written travel guide with good tone and relevant keywords, but falls short on length requirements and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written travel guide with good tone and relevant keywords, but falls
+  short on length requirements and could benefit from stronger SEO optimization.
+image_alt: >-
+  Traveler on a luxurious terrace overlooking pyramids, coastal cliffs, and
+  turquoise sea at golden hour
 ---
 
 Traveling on a budget does not mean compromising on luxury and comfort. Across the globe, several destinations offer travelers the opportunity to enjoy royal experiences without breaking the bank. Whether you dream of exploring historical sites, lounging on pristine beaches, or indulging in culinary delights, these locations provide the perfect mix of affordability and extravagance.

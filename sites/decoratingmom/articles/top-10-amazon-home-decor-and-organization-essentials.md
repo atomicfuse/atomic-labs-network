@@ -1,30 +1,36 @@
 ---
-title: "Top 10 Amazon Home Decor and Organization Essentials"
-description: "Discover 10 affordable yet essential Amazon products that will transform your home into a clean, stylish, and functional space."
-type: "standard"
-status: published
-publishDate: "2026-03-16T10:01:24+00:00"
-author: "Taylor Winters"
+title: Top 10 Amazon Home Decor and Organization Essentials
+description: >-
+  Discover 10 affordable yet essential Amazon products that will transform your
+  home into a clean, stylish, and functional space.
+type: standard
+status: review
+publishDate: '2026-03-16T10:01:24+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "top-10-amazon-home-decor-and-organization-essentials"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: top-10-amazon-home-decor-and-organization-essentials
 reading_time: 3
-source_url: "https://decoratingmom.com/top-10-amazon-home-decor-and-organization-essentials/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/top-10-amazon-home-decor-and-organization-essentials/
+imported_from: wordpress
 wp_original_id: 35147
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/top-10-amazon-home-decor-and-organization-essentials.webp
 seo:
-  canonical: "https://decoratingmom.com/top-10-amazon-home-decor-and-organization-essentials/"
-  og_title: "Top 10 Amazon Home Decor and Organization Essentials - Decorating Mom"
-  og_description: "Discover 10 affordable yet essential Amazon products that will transform your home into a clean, stylish, and functional space."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/top-10-amazon-home-decor-and-organization-essentials/
+  og_title: Top 10 Amazon Home Decor and Organization Essentials - Decorating Mom
+  og_description: >-
+    Discover 10 affordable yet essential Amazon products that will transform
+    your home into a clean, stylish, and functional space.
+  twitter_card: summary_large_image
 videos:
-  - id: "0512b384"
-    url: "https://www.youtube.com/watch?v=W7l8dAJ2C3k"
-    position: "after-paragraph-2"
+  - id: 0512b384
+    url: 'https://www.youtube.com/watch?v=W7l8dAJ2C3k'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -32,7 +38,13 @@ score_breakdown:
   content_length: 41
   factual_accuracy: 85
   keyword_relevance: 88
-quality_note: "Well-written article with good tone and relevance to home decor topics, but significantly underperforms on length (409 words vs 800-1200 target) which severely impacts overall quality."
+quality_note: >-
+  Well-written article with good tone and relevance to home decor topics, but
+  significantly underperforms on length (409 words vs 800-1200 target) which
+  severely impacts overall quality.
+image_alt: >-
+  Stylish organized living room with neutral decor, ceramic vases, framed art,
+  baskets, and soft natural light.
 ---
 
 If you're looking to elevate your home decor and organization, you've come to the right place. Interior designer Kristen McGowan shares her top 10 Amazon home decor and household products that are not only affordable but also essential for creating a stylish and functional living space. These carefully selected items are designed to help you maintain a clean, organized, and beautifully styled home.

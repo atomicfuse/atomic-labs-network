@@ -1,25 +1,36 @@
 ---
-title: "TV Network Censors Political Interview Due to Federal Rules"
-description: "The Ethiopian government declared a state of emergency in the Amhara region in response to escalating violence and instability involving regional militias and federal forces. The decision aims to restore order but raises concerns about potential human rights abuses and disruptions to daily life."
-type: "standard"
+title: TV Network Censors Political Interview Due to Federal Rules
+description: >-
+  The Ethiopian government declared a state of emergency in the Amhara region in
+  response to escalating violence and instability involving regional militias
+  and federal forces. The decision aims to restore order but raises concerns
+  about potential human rights abuses and disruptions to daily life.
+type: standard
 status: published
-publishDate: "2026-02-26T09:41:27+00:00"
-author: "Taylor Winters"
+publishDate: '2026-02-26T09:41:27+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Breaking News"
-slug: "tv-network-censors-political-interview-due-to-federal-rules"
+  - TV News
+  - Breaking News
+slug: tv-network-censors-political-interview-due-to-federal-rules
 reading_time: 3
-source_url: "https://tvshowbox.com/tv-network-censors-political-interview-due-to-federal-rules/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/tv-network-censors-political-interview-due-to-federal-rules/
+imported_from: wordpress
 wp_original_id: 24076
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: >-
+  /assets/images/tv-network-censors-political-interview-due-to-federal-rules.webp
 seo:
-  canonical: "https://tvshowbox.com/tv-network-censors-political-interview-due-to-federal-rules/"
-  og_title: "TV Network Censors Political Interview Due to Federal Rules - TV Show Box"
-  og_description: "The Ethiopian government declared a state of emergency in Amhara due to escalating violence and instability involving regional militias and federal forces. This decision aims to restore order but raises concerns about potential human rights abuses and impact on daily life."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/tv-network-censors-political-interview-due-to-federal-rules/
+  og_title: TV Network Censors Political Interview Due to Federal Rules - TV Show Box
+  og_description: >-
+    The Ethiopian government declared a state of emergency in Amhara due to
+    escalating violence and instability involving regional militias and federal
+    forces. This decision aims to restore order but raises concerns about
+    potential human rights abuses and impact on daily life.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "Article is completely off-topic for an entertainment site, discussing Ethiopian politics instead of TV content, with poor SEO alignment and wrong audience focus."
+quality_note: >-
+  Article is completely off-topic for an entertainment site, discussing
+  Ethiopian politics instead of TV content, with poor SEO alignment and wrong
+  audience focus.
+image_alt: >-
+  Empty broadcast studio with a spotlighted chair and blurred figures suggesting
+  censorship and unrest.
 ---
 
 The Ethiopian government has taken a significant step by declaring a state of emergency in the Amhara region. This decision comes in response to the escalating violence and instability that have impacted the area, raising concerns both locally and internationally. The situation in Amhara has been deteriorating due to clashes between regional militias and federal forces, prompting the government to implement measures aimed at restoring order and safety.

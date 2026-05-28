@@ -4,7 +4,7 @@ description: >-
   The White Lotus star Leo Woodall reveals his excitement about joining The Hunt
   for Gollum as new Dúnedain character Halvard in Warner Bros.' Middle-earth...
 type: standard
-status: published
+status: review
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

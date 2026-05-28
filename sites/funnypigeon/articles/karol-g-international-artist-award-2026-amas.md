@@ -4,7 +4,7 @@ description: >-
   Karol G was honored with the International Artist Award of Excellence at the
   2026 American Music Awards, reflecting on finding purpose through her music.
 type: standard
-status: published
+status: review
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

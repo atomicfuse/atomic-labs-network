@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://medicalxpress.com/news/2026-05-refugees-reveal-hidden-trauma-life.html'
 source_item_id: 6a055b82febc8d8d1c2ca3fa
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/uk-refugees-mental-health-crisis-study.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Well-structured serious news article but completely mismatches the site's
   friendly streaming audience and entertainment focus.
 reading_time: 3
+image_alt: >-
+  Solitary figure by a rainy window with an empty chair and suitcase in a dim
+  room.
 ---
 ## Groundbreaking Research Exposes Mental Health Struggles
 

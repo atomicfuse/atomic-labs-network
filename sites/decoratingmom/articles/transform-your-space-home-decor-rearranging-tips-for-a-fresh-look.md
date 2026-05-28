@@ -1,30 +1,39 @@
 ---
-title: "Transform Your Space: Home Decor Rearranging Tips for a Fresh Look"
-description: "Discover how to refresh your home decor by rearranging and making intentional changes using items you already own."
-type: "standard"
-status: "published"
-publishDate: "2026-02-23T10:07:18+00:00"
-author: "Taylor Winters"
+title: 'Transform Your Space: Home Decor Rearranging Tips for a Fresh Look'
+description: >-
+  Discover how to refresh your home decor by rearranging and making intentional
+  changes using items you already own.
+type: standard
+status: published
+publishDate: '2026-02-23T10:07:18+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Living Room"
-slug: "transform-your-space-home-decor-rearranging-tips-for-a-fresh-look"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Living Room
+slug: transform-your-space-home-decor-rearranging-tips-for-a-fresh-look
 reading_time: 2
-source_url: "https://decoratingmom.com/transform-your-space-home-decor-rearranging-tips-for-a-fresh-look/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/transform-your-space-home-decor-rearranging-tips-for-a-fresh-look/
+imported_from: wordpress
 wp_original_id: 35134
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/transform-your-space-home-decor-rearranging-tips-for-a-fresh-look.webp
 seo:
-  canonical: "https://decoratingmom.com/transform-your-space-home-decor-rearranging-tips-for-a-fresh-look/"
-  og_title: "Transform Your Space: Home Decor Rearranging Tips for a Fresh Look - Decorating Mom"
-  og_description: "Discover how to refresh your home decor by rearranging and making intentional changes using items you already own."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/transform-your-space-home-decor-rearranging-tips-for-a-fresh-look/
+  og_title: >-
+    Transform Your Space: Home Decor Rearranging Tips for a Fresh Look -
+    Decorating Mom
+  og_description: >-
+    Discover how to refresh your home decor by rearranging and making
+    intentional changes using items you already own.
+  twitter_card: summary_large_image
 videos:
-  - id: "67e179a4"
-    url: "https://www.youtube.com/watch?v=efuK3a91qqA"
-    position: "after-paragraph-2"
+  - id: 67e179a4
+    url: 'https://www.youtube.com/watch?v=efuK3a91qqA'
+    position: after-paragraph-2
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,7 +41,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 100
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and keyword coverage, but significantly too short at 350 words when targeting 1000 words."
+quality_note: >-
+  Well-written article with excellent tone and keyword coverage, but
+  significantly too short at 350 words when targeting 1000 words.
+image_alt: >-
+  Sunlit living room styled with rearranged decor, plants, books, and cozy
+  neutral furnishings.
 ---
 
 Are you looking to breathe new life into your living space without breaking the bank? In this home decor update, we'll explore how simple rearrangements and intentional changes can transform your home into a cozy, elevated sanctuary. By shopping within your own home, you can achieve a fresh look that aligns with the current season and your personal style.

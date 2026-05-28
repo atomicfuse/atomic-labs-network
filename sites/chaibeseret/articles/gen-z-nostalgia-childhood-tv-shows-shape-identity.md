@@ -22,7 +22,7 @@ source_url: >-
   https://elestoque.org/2026/05/16/uncategorized/mvhs-students-and-staff-share-their-favorite-childhood-tv-shows/
 source_item_id: 6a093d427000f3df3234f996
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/gen-z-nostalgia-childhood-tv-shows-shape-identity.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   word count and lacks the casual, streaming-focused tone expected for heavy
   streamers.
 reading_time: 2
+image_alt: >-
+  Young adult watching a glowing old television in a nostalgic dorm room at
+  night.
 ---
 ## The Power of Childhood Television
 

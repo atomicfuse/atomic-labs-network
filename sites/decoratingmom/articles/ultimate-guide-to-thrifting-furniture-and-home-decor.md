@@ -1,27 +1,36 @@
 ---
-title: "Ultimate Guide to Thrifting Furniture and Home Decor"
-description: "Thrifting for home decor allows you to personalize your space affordably. With patience and creativity, you can find unique pieces that add character, from antiques to modern styles."
-type: "standard"
-status: "published"
-publishDate: "2026-03-19T11:15:34+00:00"
-author: "Taylor Winters"
+title: Ultimate Guide to Thrifting Furniture and Home Decor
+description: >-
+  Thrifting for home decor allows you to personalize your space affordably. With
+  patience and creativity, you can find unique pieces that add character, from
+  antiques to modern styles.
+type: standard
+status: published
+publishDate: '2026-03-19T11:15:34+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Budget"
-  - "Ideas"
-  - "Inspirations"
-slug: "ultimate-guide-to-thrifting-furniture-and-home-decor"
+  - Decor Ideas
+  - Budget
+  - Ideas
+  - Inspirations
+slug: ultimate-guide-to-thrifting-furniture-and-home-decor
 reading_time: 4
-source_url: "https://decoratingmom.com/ultimate-guide-to-thrifting-furniture-and-home-decor/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/ultimate-guide-to-thrifting-furniture-and-home-decor/
+imported_from: wordpress
 wp_original_id: 35149
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/ultimate-guide-to-thrifting-furniture-and-home-decor.webp
 seo:
-  canonical: "https://decoratingmom.com/ultimate-guide-to-thrifting-furniture-and-home-decor/"
-  og_title: "Ultimate Guide to Thrifting Furniture and Home Decor - Decorating Mom"
-  og_description: "Thrifting for home decor allows you to personalize your space affordably. With patience and creativity, you can find unique pieces that add character. Each visit to a thrift store is an adventure, offering a range of items from antiques to modern styles."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2026/03/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/ultimate-guide-to-thrifting-furniture-and-home-decor/
+  og_title: Ultimate Guide to Thrifting Furniture and Home Decor - Decorating Mom
+  og_description: >-
+    Thrifting for home decor allows you to personalize your space affordably.
+    With patience and creativity, you can find unique pieces that add character.
+    Each visit to a thrift store is an adventure, offering a range of items from
+    antiques to modern styles.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2026/03/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -29,7 +38,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Good tone and keyword relevance for budget decor and DIY, but the content is too short at 629 words when targeting 800-1200 words."
+quality_note: >-
+  Good tone and keyword relevance for budget decor and DIY, but the content is
+  too short at 629 words when targeting 800-1200 words.
+image_alt: >-
+  Stylish living room corner decorated with curated vintage furniture, ceramics,
+  baskets, and warm natural light.
 ---
 
 Thrifting for home decor offers a unique opportunity to create a personalized space without breaking the bank. Whether you are furnishing a new home or looking to refresh your current decor, thrift stores provide a treasure trove of possibilities. With a little patience and creativity, you can find unique pieces that add character and charm to your living space.

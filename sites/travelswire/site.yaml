@@ -114,36 +114,9 @@ tracking:
   facebook_pixel: null
   facebook_domain_verification: null
   custom: []
-ads_config:
-  layout: standard
-  ad_placements:
-    - id: feed-test
-      position: below-content
-      device: all
-      sizes: {}
-      desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
-        customSizes: []
-      mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
-        customSizes: []
-      page_types:
-        - all
-      exclude_pages: []
-      code: |-
+scripts:
+  before_footer:
+    - id: tamir
+      inline: |-
         <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
         <div data-cg-feed="journey_peaks_1"></div>

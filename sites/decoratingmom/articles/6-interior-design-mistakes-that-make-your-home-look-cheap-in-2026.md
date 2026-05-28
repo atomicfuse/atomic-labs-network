@@ -1,30 +1,41 @@
 ---
-title: "6 Interior Design Mistakes That Make Your Home Look Cheap in 2026"
-description: "Learn how to avoid common decorating traps that can make your home feel less elegant in 2026. These practical interior design tips help you create a stylish, timeless, and budget-friendly space."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:55:59+00:00"
-author: "Taylor Winters"
+title: 6 Interior Design Mistakes That Make Your Home Look Cheap in 2026
+description: >-
+  Learn how to avoid common decorating traps that can make your home feel less
+  elegant in 2026. These practical interior design tips help you create a
+  stylish, timeless, and budget-friendly space.
+type: standard
+status: published
+publishDate: '2026-05-11T08:55:59+00:00'
+author: Taylor Winters
 tags:
-  - "Interior Design"
-  - "Budget"
-  - "Ideas"
-  - "Tips"
-slug: "6-interior-design-mistakes-that-make-your-home-look-cheap-in-2026"
+  - Interior Design
+  - Budget
+  - Ideas
+  - Tips
+slug: 6-interior-design-mistakes-that-make-your-home-look-cheap-in-2026
 reading_time: 6
-source_url: "https://decoratingmom.com/6-interior-design-mistakes-that-make-your-home-look-cheap-in-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/6-interior-design-mistakes-that-make-your-home-look-cheap-in-2026/
+imported_from: wordpress
 wp_original_id: 35160
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/6-interior-design-mistakes-that-make-your-home-look-cheap-in-2026.webp
 seo:
-  canonical: "https://decoratingmom.com/6-interior-design-mistakes-that-make-your-home-look-cheap-in-2026/"
-  og_title: "6 Interior Design Mistakes That Make Your Home Look Cheap in 2026 - Decorating Mom"
-  og_description: "Learn how to avoid common decorating traps that can make your home feel less elegant in 2026. These practical interior design tips help you create a stylish, timeless, and budget-friendly space."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/6-interior-design-mistakes-that-make-your-home-look-cheap-in-2026/
+  og_title: >-
+    6 Interior Design Mistakes That Make Your Home Look Cheap in 2026 -
+    Decorating Mom
+  og_description: >-
+    Learn how to avoid common decorating traps that can make your home feel less
+    elegant in 2026. These practical interior design tips help you create a
+    stylish, timeless, and budget-friendly space.
+  twitter_card: summary_large_image
 videos:
-  - id: "a7e3d26c"
-    url: "https://www.youtube.com/watch?v=a7It88r4mpw"
-    position: "after-paragraph-2"
+  - id: a7e3d26c
+    url: 'https://www.youtube.com/watch?v=a7It88r4mpw'
+    position: after-paragraph-2
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -32,7 +43,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "High-quality article with excellent tone and comprehensive coverage of interior design topics, though the title could be slightly shorter for optimal SEO."
+quality_note: >-
+  High-quality article with excellent tone and comprehensive coverage of
+  interior design topics, though the title could be slightly shorter for optimal
+  SEO.
+image_alt: >-
+  Sunlit living room showing cluttered decor beside a refined, timeless interior
+  style
 ---
 
 Creating a beautiful home does not have to mean spending endlessly on luxury furniture or hiring a full design team for every decision. The real key is knowing which decorating choices quietly make a room feel less polished, less intentional, or less timeless than it could be.

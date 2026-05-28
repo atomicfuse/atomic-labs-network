@@ -1,30 +1,38 @@
 ---
-title: "Budget-Friendly Spring Front Porch Decor Ideas for 2026"
-description: "Transform your porch this spring with budget-friendly and stylish decor ideas. Discover easy ways to refresh your outdoor space using neutral tones and cozy textures."
-type: "standard"
-status: published
-publishDate: "2026-03-23T10:15:30+00:00"
-author: "Taylor Winters"
+title: Budget-Friendly Spring Front Porch Decor Ideas for 2026
+description: >-
+  Transform your porch this spring with budget-friendly and stylish decor ideas.
+  Discover easy ways to refresh your outdoor space using neutral tones and cozy
+  textures.
+type: standard
+status: review
+publishDate: '2026-03-23T10:15:30+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Budget"
-  - "Ideas"
-  - "Inspirations"
-slug: "budget-friendly-spring-front-porch-decor-ideas-for-2026"
+  - Decor Ideas
+  - Budget
+  - Ideas
+  - Inspirations
+slug: budget-friendly-spring-front-porch-decor-ideas-for-2026
 reading_time: 2
-source_url: "https://decoratingmom.com/budget-friendly-spring-front-porch-decor-ideas-for-2026/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/budget-friendly-spring-front-porch-decor-ideas-for-2026/
+imported_from: wordpress
 wp_original_id: 35151
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/budget-friendly-spring-front-porch-decor-ideas-for-2026.webp
 seo:
-  canonical: "https://decoratingmom.com/budget-friendly-spring-front-porch-decor-ideas-for-2026/"
-  og_title: "Budget-Friendly Spring Front Porch Decor Ideas for 2026 - Decorating Mom"
-  og_description: "Transform your porch this spring with budget-friendly and stylish decor ideas. Discover easy ways to refresh your outdoor space using neutral tones and cozy textures."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/budget-friendly-spring-front-porch-decor-ideas-for-2026/
+  og_title: Budget-Friendly Spring Front Porch Decor Ideas for 2026 - Decorating Mom
+  og_description: >-
+    Transform your porch this spring with budget-friendly and stylish decor
+    ideas. Discover easy ways to refresh your outdoor space using neutral tones
+    and cozy textures.
+  twitter_card: summary_large_image
 videos:
-  - id: "d632cf4c"
-    url: "https://www.youtube.com/watch?v=eM8goGffms8"
-    position: "after-paragraph-2"
+  - id: d632cf4c
+    url: 'https://www.youtube.com/watch?v=eM8goGffms8'
+    position: after-paragraph-2
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -32,7 +40,13 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "While the article has good tone and keyword relevance, it falls significantly short of the target word count at only 374 words, which severely impacts its content depth and SEO potential."
+quality_note: >-
+  While the article has good tone and keyword relevance, it falls significantly
+  short of the target word count at only 374 words, which severely impacts its
+  content depth and SEO potential.
+image_alt: >-
+  Neutral spring front porch with planters, woven mats, pillows, and fresh
+  greenery in warm light.
 ---
 
 As spring 2026 blossoms, it's time to transform your front porch into a welcoming oasis. With a few budget-friendly decor ideas, you can create an inviting atmosphere that embodies the freshness of the season. From neutral hues to cozy textures, this guide offers easy and affordable ways to refresh your outdoor space.

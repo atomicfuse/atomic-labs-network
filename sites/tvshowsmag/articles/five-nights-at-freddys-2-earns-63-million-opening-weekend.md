@@ -1,25 +1,37 @@
 ---
-title: "Five Nights at Freddy’s 2 Earns $63 Million Opening Weekend"
-description: "\"Five Nights at Freddy's\" has achieved a remarkable $63 million debut, setting a new benchmark for video game adaptations in film. Its success highlights the power of dedicated fan bases and strategic release timing during the Halloween season."
-type: "standard"
+title: Five Nights at Freddy’s 2 Earns $63 Million Opening Weekend
+description: >-
+  "Five Nights at Freddy's" has achieved a remarkable $63 million debut, setting
+  a new benchmark for video game adaptations in film. Its success highlights the
+  power of dedicated fan bases and strategic release timing during the Halloween
+  season.
+type: standard
 status: published
-publishDate: "2025-12-08T12:19:28+00:00"
-author: "Taylor Winters"
+publishDate: '2025-12-08T12:19:28+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-slug: "five-nights-at-freddys-2-earns-63-million-opening-weekend"
+  - TV News
+  - News
+slug: five-nights-at-freddys-2-earns-63-million-opening-weekend
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/five-nights-at-freddys-2-earns-63-million-opening-weekend/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/five-nights-at-freddys-2-earns-63-million-opening-weekend/
+imported_from: wordpress
 wp_original_id: 28138
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/five-nights-at-freddys-2-earns-63-million-opening-weekend.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/five-nights-at-freddys-2-earns-63-million-opening-weekend/"
-  og_title: "Five Nights at Freddy's 2 Earns $63 Million Opening Weekend - TV Shows Magazine"
-  og_description: "\"Five Nights at Freddy's\" has achieved a remarkable $63 million debut, setting a new benchmark for video game adaptations in film. Its success highlights the power of dedicated fan bases and strategic release timing during the Halloween season."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/12/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/five-nights-at-freddys-2-earns-63-million-opening-weekend/
+  og_title: >-
+    Five Nights at Freddy's 2 Earns $63 Million Opening Weekend - TV Shows
+    Magazine
+  og_description: >-
+    "Five Nights at Freddy's" has achieved a remarkable $63 million debut,
+    setting a new benchmark for video game adaptations in film. Its success
+    highlights the power of dedicated fan bases and strategic release timing
+    during the Halloween season.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/12/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 49
 score_breakdown:
   seo_quality: 65
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 40
-quality_note: "The article has major factual inaccuracies (claiming FNAF 2 made $63M when the first film made $80M+), is too short at 520 words, and lacks proper TV/streaming focus for the site's entertainment audience."
+quality_note: >-
+  The article has major factual inaccuracies (claiming FNAF 2 made $63M when the
+  first film made $80M+), is too short at 520 words, and lacks proper
+  TV/streaming focus for the site's entertainment audience.
+image_alt: >-
+  Crowded neon theater lobby with a shadowy animatronic figure suggesting a
+  horror blockbuster debut
 ---
 
 In a remarkable achievement for the horror genre, "Five Nights at Freddy's" has shattered box office expectations with a stunning $63 million debut. This impressive opening weekend has not only captivated audiences but also set a new benchmark for video game adaptations in film. As the Halloween season heightens interest in the horror genre, this film has benefited from both timing and a dedicated fan base.

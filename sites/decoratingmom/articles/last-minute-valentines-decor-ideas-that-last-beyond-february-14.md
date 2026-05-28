@@ -1,27 +1,40 @@
 ---
-title: "Last-Minute Valentine’s Decor Ideas That Last Beyond February 14"
-description: "Valentine's Day is a chance to transform your home into a romantic haven with simple touches like red, pink, and white accents, fresh flowers, and cozy lighting. Blend these with spring elements for decor that stays fresh and welcoming."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T10:07:34+00:00"
-author: "Taylor Winters"
+title: Last-Minute Valentine’s Decor Ideas That Last Beyond February 14
+description: >-
+  Valentine's Day is a chance to transform your home into a romantic haven with
+  simple touches like red, pink, and white accents, fresh flowers, and cozy
+  lighting. Blend these with spring elements for decor that stays fresh and
+  welcoming.
+type: standard
+status: published
+publishDate: '2026-02-12T10:07:34+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "last-minute-valentines-decor-ideas-that-last-beyond-february-14"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: last-minute-valentines-decor-ideas-that-last-beyond-february-14
 reading_time: 3
-source_url: "https://decoratingmom.com/last-minute-valentines-decor-ideas-that-last-beyond-february-14/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/last-minute-valentines-decor-ideas-that-last-beyond-february-14/
+imported_from: wordpress
 wp_original_id: 35126
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/last-minute-valentines-decor-ideas-that-last-beyond-february-14.webp
 seo:
-  canonical: "https://decoratingmom.com/last-minute-valentines-decor-ideas-that-last-beyond-february-14/"
-  og_title: "Last-Minute Valentine's Decor Ideas That Last Beyond February 14 - Decorating Mom"
-  og_description: "Valentine's Day is a chance to transform your home into a romantic haven with simple touches like red, pink, and white accents, fresh flowers, and cozy lighting. Blend these with spring elements for decor that stays fresh and welcoming."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/last-minute-valentines-decor-ideas-that-last-beyond-february-14/
+  og_title: >-
+    Last-Minute Valentine's Decor Ideas That Last Beyond February 14 -
+    Decorating Mom
+  og_description: >-
+    Valentine's Day is a chance to transform your home into a romantic haven
+    with simple touches like red, pink, and white accents, fresh flowers, and
+    cozy lighting. Blend these with spring elements for decor that stays fresh
+    and welcoming.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -29,7 +42,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with excellent tone and keyword relevance, but falls short on length at 542 words when target is 800-1200 words."
+quality_note: >-
+  Well-written article with excellent tone and keyword relevance, but falls
+  short on length at 542 words when target is 800-1200 words.
+image_alt: >-
+  Cozy living room with blush accents, fresh flowers, candles, and soft
+  spring-inspired decor.
 ---
 
 Valentine's Day is a wonderful opportunity to infuse your home with warmth and charm, celebrating love in all its forms. Even if you find yourself short on time, there are plenty of creative and simple ways to transform your space into a romantic haven. With just a few thoughtful touches, you can create an ambiance that captures the spirit of the holiday while seamlessly transitioning into spring decor.
