@@ -111,7 +111,7 @@ tracking:
   ga4: G-S6QEGTVET1
   gtm: null
   google_ads: null
-  facebook_pixel: null
+  facebook_pixel: "995281758635356"
   facebook_domain_verification: null
   custom: []
 scripts:
