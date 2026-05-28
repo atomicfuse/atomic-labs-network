@@ -20,7 +20,7 @@ source_url: >-
   https://www.msn.com/en-us/health/strength/bikini-pilates-club-miami-swim-week-miami/ar-AA23KWed
 source_item_id: 6a13fc9f16f23264031d7b87
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/miami-swim-week-wellness-luxury-pilates-event.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with strong tone and keyword relevance, but falls short
   of target word count at 478 words when 800-1200 is preferred.
 reading_time: 2
+image_alt: >-
+  Luxury poolside Pilates scene at a Miami hotel with palms, pastel mats, and
+  golden-hour resort atmosphere.
 ---
 ## Fashion Week Meets Fitness Revolution
 
