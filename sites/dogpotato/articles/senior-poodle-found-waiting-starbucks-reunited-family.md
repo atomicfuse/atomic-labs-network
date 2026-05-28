@@ -20,7 +20,7 @@ source_url: >-
   https://www.thedodo.com/daily-dodo/little-poodle-waits-all-night-on-starbucks-patio-for-someone-to-notice-him
 source_item_id: 6a0fdbca16f23264031d799f
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/senior-poodle-found-waiting-starbucks-reunited-family.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written heartwarming pet rescue story with good tone and structure,
   though title could be more compelling and some sections feel repetitive.
 reading_time: 3
+image_alt: >-
+  Senior gray poodle waits on a quiet café patio as an animal care officer
+  approaches at dawn.
 ---
 ## A Night of Waiting Ends in Reunion
 
