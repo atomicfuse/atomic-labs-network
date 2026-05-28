@@ -1,26 +1,38 @@
 ---
-title: "30 Unique Travel Gift Ideas for Globetrotters and Adventure Lovers"
-description: "A curated list of top-notch gift ideas for avid travelers, covering everything from tech gadgets like compact cameras and portable power banks to comfort essentials and luxury travel bags."
-type: "standard"
+title: 30 Unique Travel Gift Ideas for Globetrotters and Adventure Lovers
+description: >-
+  A curated list of top-notch gift ideas for avid travelers, covering everything
+  from tech gadgets like compact cameras and portable power banks to comfort
+  essentials and luxury travel bags.
+type: standard
 status: published
-publishDate: "2025-04-21T05:01:41+00:00"
-author: "Taylor Winters"
+publishDate: '2025-04-21T05:01:41+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Lifestyle"
-  - "Travel"
-slug: "30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers"
+  - Advice
+  - Lifestyle
+  - Travel
+slug: 30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers
 reading_time: 2
-source_url: "https://travelclearly.com/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers/
+imported_from: wordpress
 wp_original_id: 36478
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: >-
+  /assets/images/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers.webp
 seo:
-  canonical: "https://travelclearly.com/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers/"
-  og_title: "30 Unique Travel Gift Ideas for Globetrotters and Adventure Lovers - Travel Clearly"
-  og_description: "This article provides a curated list of top-notch gifts for avid travelers. It includes suggestions such as a premium compact camera, a portable power bank, a compact Bluetooth speaker, a travel pillow, a reusable water bottle, a luxury travel bag, and a language learning software subscription."
-  og_image: "https://travelclearly.com/wp-content/uploads/2025/04/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers/
+  og_title: >-
+    30 Unique Travel Gift Ideas for Globetrotters and Adventure Lovers - Travel
+    Clearly
+  og_description: >-
+    This article provides a curated list of top-notch gifts for avid travelers.
+    It includes suggestions such as a premium compact camera, a portable power
+    bank, a compact Bluetooth speaker, a travel pillow, a reusable water bottle,
+    a luxury travel bag, and a language learning software subscription.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2025/04/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -28,7 +40,12 @@ score_breakdown:
   content_length: 35
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written travel gift guide with engaging tone and relevant content, but significantly under the 800-1200 word target at only 375 words."
+quality_note: >-
+  Well-written travel gift guide with engaging tone and relevant content, but
+  significantly under the 800-1200 word target at only 375 words.
+image_alt: >-
+  Sunlit luxury carry-on with curated travel essentials arranged for an upcoming
+  adventure
 ---
 
 The joy of exploration is a quintessential human quality. But what presents should you buy for those with an insatiable wanderlust? We've curated a list of top-notch gifts for avid travelers that are sure to satiate their never-ending love for globetrotting.
