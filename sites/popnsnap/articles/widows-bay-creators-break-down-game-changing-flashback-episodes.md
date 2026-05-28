@@ -23,7 +23,8 @@ source_url: >-
   https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: >-
+  /assets/images/widows-bay-creators-break-down-game-changing-flashback-episodes.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -36,6 +37,9 @@ quality_note: >-
   target and contains numerous fabricated details about a seemingly fictional
   show.
 reading_time: 3
+image_alt: >-
+  Colonial-era man in candlelit shadows with foggy island and eerie fungal
+  shapes behind him
 ---
 ## Colonial Horror Takes Center Stage
 
