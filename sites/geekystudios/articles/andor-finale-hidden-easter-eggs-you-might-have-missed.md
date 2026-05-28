@@ -41,7 +41,9 @@ quality_note: >-
   Well-written article with good tone and strong pop culture relevance, but
   falls short on content length (583 words vs 800-1200 target) and lacks
   specific Easter egg details promised in the title.
-image_alt: Lone rebel figure examines hidden artifacts in a moody sci-fi corridor
+image_alt: >-
+  Lone rebel spy silhouette in a shadowy sci-fi corridor with hidden clues in
+  the background
 ---
 
 # Andor Finale: Hidden Easter Eggs You Might Have Missed
