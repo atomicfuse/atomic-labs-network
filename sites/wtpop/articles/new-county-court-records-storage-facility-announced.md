@@ -1,23 +1,31 @@
 ---
-title: "New County Court Records Storage Facility Announced"
-description: "A new facility is being constructed to address storage needs for county court records, aiming to modernize and expand capacity. This initiative will enhance access and security, featuring state-of-the-art climate control and digital technologies for efficient records management."
-type: "standard"
-status: "review"
-publishDate: "2025-11-30T15:11:42+00:00"
-author: "Lena Harper"
+title: New County Court Records Storage Facility Announced
+description: >-
+  A new facility is being constructed to address storage needs for county court
+  records, aiming to modernize and expand capacity. This initiative will enhance
+  access and security, featuring state-of-the-art climate control and digital
+  technologies for efficient records management.
+type: standard
+status: review
+publishDate: '2025-11-30T15:11:42+00:00'
+author: Lena Harper
 tags:
-  - "TV &amp; Movies"
-slug: "new-county-court-records-storage-facility-announced"
+  - TV &amp; Movies
+slug: new-county-court-records-storage-facility-announced
 reading_time: 3
-source_url: "https://wtpop.com/new-county-court-records-storage-facility-announced/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/new-county-court-records-storage-facility-announced/'
+imported_from: wordpress
 wp_original_id: 699
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/new-county-court-records-storage-facility-announced.webp
 seo:
-  canonical: "https://wtpop.com/new-county-court-records-storage-facility-announced/"
-  og_title: "New County Court Records Storage Facility Announced - WTPOP"
-  og_description: "A new facility is being constructed to address storage needs for county court records, aiming to modernize and expand capacity. This initiative will enhance access and security, featuring state-of-the-art climate control and digital technologies for efficient records management."
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/new-county-court-records-storage-facility-announced/'
+  og_title: New County Court Records Storage Facility Announced - WTPOP
+  og_description: >-
+    A new facility is being constructed to address storage needs for county
+    court records, aiming to modernize and expand capacity. This initiative will
+    enhance access and security, featuring state-of-the-art climate control and
+    digital technologies for efficient records management.
+  twitter_card: summary_large_image
 quality_score: 43
 score_breakdown:
   seo_quality: 20
@@ -25,7 +33,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 10
-quality_note: "This article about county court records storage is completely misaligned with wtpop's entertainment focus, lacks proper SEO optimization, and uses an overly formal tone inappropriate for the target audience."
+quality_note: >-
+  This article about county court records storage is completely misaligned with
+  wtpop's entertainment focus, lacks proper SEO optimization, and uses an overly
+  formal tone inappropriate for the target audience.
+image_alt: >-
+  Modern secure archive with rows of records storage and cool blue lighting in a
+  cinematic setting.
 ---
 
 A significant development is underway as a new facility is being constructed to address storage needs for county court records. This initiative aims to modernize and expand the capacity for storing crucial legal documents, enhancing both access and security.

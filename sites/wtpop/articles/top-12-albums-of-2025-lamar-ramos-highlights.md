@@ -1,24 +1,32 @@
 ---
-title: "Top 12 Albums of 2025: Lamar Ramos Highlights"
-description: "Discover the most anticipated albums of 2025, featuring groundbreaking releases from both established artists and rising talent, along with innovative collaborations and technology-driven creativity shaping the music landscape."
-type: "standard"
-status: "review"
-publishDate: "2025-12-11T10:59:50+00:00"
-author: "Lena Harper"
+title: 'Top 12 Albums of 2025: Lamar Ramos Highlights'
+description: >-
+  Discover the most anticipated albums of 2025, featuring groundbreaking
+  releases from both established artists and rising talent, along with
+  innovative collaborations and technology-driven creativity shaping the music
+  landscape.
+type: standard
+status: review
+publishDate: '2025-12-11T10:59:50+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "top-12-albums-of-2025-lamar-ramos-highlights"
+  - Music
+slug: top-12-albums-of-2025-lamar-ramos-highlights
 reading_time: 4
-source_url: "https://wtpop.com/top-12-albums-of-2025-lamar-ramos-highlights/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/top-12-albums-of-2025-lamar-ramos-highlights/'
+imported_from: wordpress
 wp_original_id: 718
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/top-12-albums-of-2025-lamar-ramos-highlights.webp
 seo:
-  canonical: "https://wtpop.com/top-12-albums-of-2025-lamar-ramos-highlights/"
-  og_title: "Top 12 Albums of 2025: Lamar Ramos Highlights - WTPOP"
-  og_description: "Discover the captivating world of music with 2025's most anticipated albums, featuring new talent, groundbreaking releases, and innovative collaborations. From Kendrick Lamar's profound commentary to fresh voices like Aria Blake, the music landscape promises a rich tapestry of sounds."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/top-12-albums-of-2025-lamar-ramos-highlights/'
+  og_title: 'Top 12 Albums of 2025: Lamar Ramos Highlights - WTPOP'
+  og_description: >-
+    Discover the captivating world of music with 2025's most anticipated albums,
+    featuring new talent, groundbreaking releases, and innovative
+    collaborations. From Kendrick Lamar's profound commentary to fresh voices
+    like Aria Blake, the music landscape promises a rich tapestry of sounds.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 45
   keyword_relevance: 90
-quality_note: "Well-written music content with engaging tone but contains fabricated artist names and falls short of target word count, significantly impacting credibility."
+quality_note: >-
+  Well-written music content with engaging tone but contains fabricated artist
+  names and falls short of target word count, significantly impacting
+  credibility.
+image_alt: >-
+  Anonymous curator faces glowing vinyl sleeves and sound waves in a moody
+  futuristic listening room.
 ---
 
 Discover the captivating world of music with the most anticipated albums of 2025. This year promises an eclectic mix of sounds and styles that are sure to resonate with diverse audiences. From revolutionary debut albums to groundbreaking releases from established artists, the music landscape is set to evolve once again, offering listeners a rich tapestry of melodies and rhythms.
