@@ -40,8 +40,8 @@ quality_note: >-
   Strong pop culture content with engaging tone but significantly under target
   word count at 587 words versus 800-1200 range.
 image_alt: >-
-  Futuristic hero silhouette in a high-tech lab with glowing holographic spheres
-  and team shadows
+  Futuristic inventor superhero in a high-tech lab with hovering spheres and
+  team silhouettes
 ---
 
 The world of superheroes is vast and ever-expanding, with each character bringing their own unique abilities and stories to the forefront. Among these, Mister Terrific stands out as a remarkable figure, known for his intelligence and leadership skills. There's a growing conversation about how Mister Terrific deserves his own spotlight, possibly as a spinoff series from Superman. This idea not only promises to delve deeper into his character but also introduces opportunities for an engaging new team dynamic with The Terrifics.
