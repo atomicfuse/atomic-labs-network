@@ -1,24 +1,33 @@
 ---
-title: "Geese Rocks Brooklyn Paramount for Tour Finale Celebration"
-description: "Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie rock band known for their innovative sound and captivating performances. Formed by high school friends, Geese's unique blend of rock and experimental flair sets them apart, garnering industry attention."
-type: "standard"
-status: "review"
-publishDate: "2025-11-27T13:10:35+00:00"
-author: "Lena Harper"
+title: Geese Rocks Brooklyn Paramount for Tour Finale Celebration
+description: >-
+  Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie
+  rock band known for their innovative sound and captivating performances.
+  Formed by high school friends, Geese's unique blend of rock and experimental
+  flair sets them apart, garnering industry attention.
+type: standard
+status: review
+publishDate: '2025-11-27T13:10:35+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "geese-rocks-brooklyn-paramount-for-tour-finale-celebration"
+  - Music
+slug: geese-rocks-brooklyn-paramount-for-tour-finale-celebration
 reading_time: 3
-source_url: "https://wtpop.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/'
+imported_from: wordpress
 wp_original_id: 684
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/geese-rocks-brooklyn-paramount-for-tour-finale-celebration.webp
 seo:
-  canonical: "https://wtpop.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/"
-  og_title: "Geese Rocks Brooklyn Paramount for Tour Finale Celebration - WTPOP"
-  og_description: "Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie rock band known for their innovative sound and captivating performances. Formed by high school friends, Geese's unique blend of rock and experimental flair sets them apart, garnering industry attention."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/11/make_file-13.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wtpop.com/geese-rocks-brooklyn-paramount-for-tour-finale-celebration/
+  og_title: Geese Rocks Brooklyn Paramount for Tour Finale Celebration - WTPOP
+  og_description: >-
+    Brooklyn's vibrant music scene nurtures diverse artists like Geese, an indie
+    rock band known for their innovative sound and captivating performances.
+    Formed by high school friends, Geese's unique blend of rock and experimental
+    flair sets them apart, garnering industry attention.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/11/make_file-13.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 45
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Article covers relevant music content well but lacks compelling SEO elements, has moderate length issues, and makes generic claims without specific verification."
+quality_note: >-
+  Article covers relevant music content well but lacks compelling SEO elements,
+  has moderate length issues, and makes generic claims without specific
+  verification.
+image_alt: >-
+  Silhouetted indie rock band performing to a cheering crowd in an ornate
+  Brooklyn theater
 ---
 
 Brooklyn has long been recognized as a vibrant hub for the music industry, continuously nurturing a diverse array of artists and bands. Among these emerging talents, Geese, an indie rock band, has captured the attention of both fans and industry professionals with their innovative sound and engaging performances. This dynamic group represents the essence of the Brooklyn music scene, which thrives on creativity and experimentation.
