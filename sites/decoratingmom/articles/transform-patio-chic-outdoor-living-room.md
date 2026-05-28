@@ -20,7 +20,7 @@ source_url: >-
   https://shopping.yahoo.com/home-garden/outdoor/articles/designers-reveal-create-chic-outdoor-131500787.html
 source_item_id: 6a152fda16f23264031d81ff
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: /assets/images/transform-patio-chic-outdoor-living-room.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on length and could be more engaging in tone with specific
   actionable advice.
 reading_time: 3
+image_alt: >-
+  Chic patio styled as an outdoor living room with cozy seating, plants, rugs,
+  and warm lighting.
 ---
 ## Creating Your Perfect Outdoor Living Space
 
