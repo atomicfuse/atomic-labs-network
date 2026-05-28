@@ -23,7 +23,8 @@ source_url: >-
   https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
-featuredImage: /assets/images/rumorumor-general-article.webp
+featuredImage: >-
+  /assets/images/widows-bay-creator-unpacks-colonial-horror-flashback-episodes-6-7.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -36,6 +37,9 @@ quality_note: >-
   word count and raises concerns about factual accuracy with repeated 'according
   to reports' phrases suggesting potentially fabricated content.
 reading_time: 3
+image_alt: >-
+  A candlelit colonial hall overtaken by eerie mushrooms and fog, with a
+  shadowed figure standing inside.
 ---
 ## The Flashback That Changed Everything
 
