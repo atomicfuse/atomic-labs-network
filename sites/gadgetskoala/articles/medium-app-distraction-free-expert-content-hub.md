@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_US'
 source_item_id: 6a13f84f16f23264031d7ac2
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/medium-app-distraction-free-expert-content-hub.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -34,6 +34,9 @@ quality_note: >-
   topics, is too short at 528 words, and needs better SEO optimization with a
   stronger title and meta description.
 reading_time: 3
+image_alt: >-
+  Minimal smartphone scene suggesting focused reading and audio learning beyond
+  social media noise
 ---
 ## A Platform Built for Deep Reading
 
