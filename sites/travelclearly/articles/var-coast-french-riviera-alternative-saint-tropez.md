@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vogue.com/article/var-coast-french-riviera-guide'
 source_item_id: 6a14fea216f23264031d8049
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/var-coast-french-riviera-alternative-saint-tropez.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,7 @@ quality_note: >-
   Strong travel content with engaging tone and excellent keyword relevance, but
   lacks specific details and falls short of optimal word count.
 reading_time: 3
+image_alt: Quiet turquoise Riviera cove framed by pine trees and a sunlit coastal path
 ---
 ## Why the Var Coast is the French Riviera's Best-Kept Secret
 
