@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.elle.com/culture/celebrities/a71401920/bella-hadid-one-piece-suit/'
 source_item_id: 6a14fea216f23264031d8041
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/bella-hadid-vintage-one-piece-saint-tropez-summer-trend.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   tone, but falls short of optimal length and could benefit from stronger SEO
   optimization in title and structure.
 reading_time: 3
+image_alt: >-
+  Stylish model in retro tropical swimwear on a sunlit yacht along the French
+  Riviera.
 ---
 ## Bella Hadid Brings Vintage Glamour to the French Riviera
 
