@@ -23,7 +23,7 @@ source_url: >-
   https://www.bet.com/video-clips/ci8rpw/the-scoreboard-from-d1-athlete-to-pilates-powerhouse-camai-is-redefining-wellness-for-black-women
 source_item_id: 6a043feb86fcaaeb5bc83713
 generated_by: claude
-featuredImage: /assets/images/yogaterritory-general-article.webp
+featuredImage: /assets/images/d1-athlete-pilates-entrepreneur-wellness-accessibility.webp
 quality_score: 50
 score_breakdown:
   seo_quality: 45
@@ -36,6 +36,9 @@ quality_note: >-
   site, though it maintains good tone and discusses wellness topics
   appropriately.
 reading_time: 3
+image_alt: >-
+  Black wellness founder leads an inclusive Pilates studio with calm strength
+  and community focus.
 ---
 ## Breaking Barriers in the Wellness Space
 
