@@ -22,7 +22,7 @@ source_url: >-
   https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/widows-bay-creator-unpacks-colonial-horror-flashback.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Well-written TV analysis with strong keyword relevance and engaging tone, but
   likely contains fabricated show details and falls short of target word count.
 reading_time: 3
+image_alt: >-
+  Colonial meeting room glowing with eerie mushrooms as a shadowed patriarch
+  stands in candlelight.
 ---
 ## From Comedy to Colonial Horror: How 'Widow's Bay' Reinvented Itself
 
