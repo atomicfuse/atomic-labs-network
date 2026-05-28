@@ -1,24 +1,32 @@
 ---
-title: "Bay Allen Prepares for New Album and Blues Challenge"
-description: "Bay Allen is making waves in the blues genre with a new album on the horizon and a notable appearance at the International Blues Challenge, showcasing his dedication, creativity, and unique blend of traditional blues with modern flair."
-type: "standard"
-status: "review"
-publishDate: "2025-12-22T11:25:18+00:00"
-author: "Lena Harper"
+title: Bay Allen Prepares for New Album and Blues Challenge
+description: >-
+  Bay Allen is making waves in the blues genre with a new album on the horizon
+  and a notable appearance at the International Blues Challenge, showcasing his
+  dedication, creativity, and unique blend of traditional blues with modern
+  flair.
+type: standard
+status: review
+publishDate: '2025-12-22T11:25:18+00:00'
+author: Lena Harper
 tags:
-  - "Music"
-slug: "bay-allen-prepares-for-new-album-and-blues-challenge"
+  - Music
+slug: bay-allen-prepares-for-new-album-and-blues-challenge
 reading_time: 3
-source_url: "https://wtpop.com/bay-allen-prepares-for-new-album-and-blues-challenge/"
-imported_from: "wordpress"
+source_url: 'https://wtpop.com/bay-allen-prepares-for-new-album-and-blues-challenge/'
+imported_from: wordpress
 wp_original_id: 748
-featuredImage: "/assets/images/wtpop-general-article.webp"
+featuredImage: /assets/images/bay-allen-prepares-for-new-album-and-blues-challenge.webp
 seo:
-  canonical: "https://wtpop.com/bay-allen-prepares-for-new-album-and-blues-challenge/"
-  og_title: "Bay Allen Prepares for New Album and Blues Challenge - WTPOP"
-  og_description: "Bay Allen is making waves in the blues genre with a new album and a notable appearance at the International Blues Challenge, showcasing his dedication and creativity. His journey reflects a blend of traditional blues with modern flair."
-  og_image: "https://wtpop.com/wp-content/uploads/2025/12/make_file-3.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://wtpop.com/bay-allen-prepares-for-new-album-and-blues-challenge/'
+  og_title: Bay Allen Prepares for New Album and Blues Challenge - WTPOP
+  og_description: >-
+    Bay Allen is making waves in the blues genre with a new album and a notable
+    appearance at the International Blues Challenge, showcasing his dedication
+    and creativity. His journey reflects a blend of traditional blues with
+    modern flair.
+  og_image: 'https://wtpop.com/wp-content/uploads/2025/12/make_file-3.png'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "The article has good tone and music relevance but falls significantly short of the 800-1200 word target at only 445 words, limiting its SEO potential and depth."
+quality_note: >-
+  The article has good tone and music relevance but falls significantly short of
+  the 800-1200 word target at only 445 words, limiting its SEO potential and
+  depth.
+image_alt: >-
+  Blues guitarist on a smoky stage under blue and amber lights before a major
+  performance.
 ---
 
 Burdened with a lifelong passion for music and a talent that captivates audiences, Bay Allen is set to make waves in the blues genre. With a new album on the horizon and a notable appearance at the International Blues Challenge, Allen's journey is one marked by dedication and creativity.
