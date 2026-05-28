@@ -1,27 +1,36 @@
 ---
-title: "6 Simple Yoga Poses to Relieve Stress and Boost Focus"
-description: "Stress and lack of concentration are common issues, but yoga offers a natural, holistic solution. Discover six simple yoga poses that can enhance mental clarity, reduce stress, and cultivate peace and focus in your daily life."
-type: "standard"
-status: "published"
-publishDate: "2026-03-05T09:47:29+00:00"
-author: "Taylor Winters"
+title: 6 Simple Yoga Poses to Relieve Stress and Boost Focus
+description: >-
+  Stress and lack of concentration are common issues, but yoga offers a natural,
+  holistic solution. Discover six simple yoga poses that can enhance mental
+  clarity, reduce stress, and cultivate peace and focus in your daily life.
+type: standard
+status: published
+publishDate: '2026-03-05T09:47:29+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Mindfullness"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "6-simple-yoga-poses-to-relieve-stress-and-boost-focus"
+  - Yoga Poses
+  - Mindfullness
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: 6-simple-yoga-poses-to-relieve-stress-and-boost-focus
 reading_time: 3
-source_url: "https://yogaterritory.com/6-simple-yoga-poses-to-relieve-stress-and-boost-focus/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/6-simple-yoga-poses-to-relieve-stress-and-boost-focus/
+imported_from: wordpress
 wp_original_id: 20739
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/6-simple-yoga-poses-to-relieve-stress-and-boost-focus.webp
 seo:
-  canonical: "https://yogaterritory.com/6-simple-yoga-poses-to-relieve-stress-and-boost-focus/"
-  og_title: "6 Simple Yoga Poses to Relieve Stress and Boost Focus - Yoga Territory"
-  og_description: "Stress and lack of concentration are common issues. Many turn to yoga for a natural solution. Yoga offers a holistic approach to enhancing mental clarity and reducing stress, helping cultivate peace and focus for overall well-being."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/03/make_file.html"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/6-simple-yoga-poses-to-relieve-stress-and-boost-focus/
+  og_title: 6 Simple Yoga Poses to Relieve Stress and Boost Focus - Yoga Territory
+  og_description: >-
+    Stress and lack of concentration are common issues. Many turn to yoga for a
+    natural solution. Yoga offers a holistic approach to enhancing mental
+    clarity and reducing stress, helping cultivate peace and focus for overall
+    well-being.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/03/make_file.html'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -29,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written article with accurate yoga pose descriptions and good keyword coverage, but falls significantly short of target word count at only 563 words."
+quality_note: >-
+  Well-written article with accurate yoga pose descriptions and good keyword
+  coverage, but falls significantly short of target word count at only 563
+  words.
+image_alt: >-
+  A serene person practices yoga in warm morning light, surrounded by plants and
+  soft calming textures.
 ---
 
 Stress and lack of concentration are common challenges in our fast-paced world. Many people are turning to yoga to address these issues naturally. Yoga, with its ancient roots, offers a holistic approach to enhancing mental clarity and reducing stress. By integrating certain yoga poses into your daily routine, you can cultivate a sense of peace and focus that benefits your overall well-being.
