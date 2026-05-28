@@ -147,3 +147,9 @@ ads_config:
       code: |-
         <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
         <div data-cg-feed="journey_peaks_1"></div>
+scripts:
+  before_footer:
+    - id: tamir
+      inline: |-
+        <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+        <div data-cg-feed="journey_peaks_1"></div>
