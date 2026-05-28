@@ -23,7 +23,7 @@ source_url: >-
   https://www.travelpulse.com/news/cruise/the-future-of-fine-dining-on-oceania-sonata
 source_item_id: 6a13fcb916f23264031d7ba0
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/oceania-sonata-master-chefs-restaurant-cruise-dining.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   coffee-focused audience and keywords, making it irrelevant to coffeeactually's
   content strategy despite good general quality.
 reading_time: 3
+image_alt: >-
+  Elegant fine-dining table aboard a luxury cruise ship with chefs and an ocean
+  horizon at dusk.
 ---
 ## Cruise Dining Reaches New Heights with Master Chefs Partnership
 
