@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.thecut.com/article/would-you-bring-your-kids-to-hooters.html'
 source_item_id: 6a13f84f16f23264031d7acc
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/hooters-family-friendly-rebrand-cultural-shift.webp
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -34,6 +34,9 @@ quality_note: >-
   lacks proper SEO optimization, falls short on word count, and doesn't align
   with the site's focus on healthy recipes and nutrition tips.
 reading_time: 3
+image_alt: >-
+  A family approaches a generic orange restaurant with crayons on a table and a
+  dim neon interior beyond.
 ---
 ## From Breastaurant to Family Spot: A Controversial Evolution
 
