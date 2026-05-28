@@ -22,7 +22,7 @@ source_url: >-
   https://www.bet.com/video-clips/ci8rpw/the-scoreboard-from-d1-athlete-to-pilates-powerhouse-camai-is-redefining-wellness-for-black-women
 source_item_id: 6a043feb86fcaaeb5bc83713
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/camai-d1-athlete-pilates-entrepreneur-black-women-wellness.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   falls short on length, relies heavily on vague sourcing, and lacks the
   engaging conversational tone expected for the target audience.
 reading_time: 3
+image_alt: >-
+  Black wellness founder in a sunlit Pilates studio with subtle track-inspired
+  shadows
 ---
 ## The Athletic Foundation
 
