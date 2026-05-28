@@ -1,24 +1,33 @@
 ---
-title: "Zoe Kravitz’s Catwoman Absent from The Batman Part II?"
-description: "Fans of Gotham City can anticipate \"The Batman Part II\" as it promises to expand on the gripping narrative, bringing back Zoë Kravitz's acclaimed portrayal of Catwoman and exploring her complex relationship with Batman in the sequel."
-type: "standard"
+title: Zoe Kravitz’s Catwoman Absent from The Batman Part II?
+description: >-
+  Fans of Gotham City can anticipate "The Batman Part II" as it promises to
+  expand on the gripping narrative, bringing back Zoë Kravitz's acclaimed
+  portrayal of Catwoman and exploring her complex relationship with Batman in
+  the sequel.
+type: standard
 status: published
-publishDate: "2025-12-04T10:47:32+00:00"
-author: "Arthur Daly"
+publishDate: '2025-12-04T10:47:32+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "zoe-kravitzs-catwoman-absent-from-the-batman-part-ii"
+  - Pop Culture
+slug: zoe-kravitzs-catwoman-absent-from-the-batman-part-ii
 reading_time: 4
-source_url: "https://geekystudios.com/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii/'
+imported_from: wordpress
 wp_original_id: 669
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii.webp
 seo:
-  canonical: "https://geekystudios.com/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii/"
-  og_title: "Zoe Kravitz's Catwoman Absent from The Batman Part II? - Geeky Studios"
-  og_description: "Fans of Gotham City can anticipate \"The Batman Part II\" as it promises to expand on the gripping narrative, bringing back Zoë Kravitz's acclaimed portrayal of Catwoman and exploring her complex relationship with Batman in the sequel."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii/
+  og_title: Zoe Kravitz's Catwoman Absent from The Batman Part II? - Geeky Studios
+  og_description: >-
+    Fans of Gotham City can anticipate "The Batman Part II" as it promises to
+    expand on the gripping narrative, bringing back Zoë Kravitz's acclaimed
+    portrayal of Catwoman and exploring her complex relationship with Batman in
+    the sequel.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Strong pop culture relevance but contains a major factual contradiction between the title suggesting Catwoman's absence and the body content confirming her return, significantly undermining credibility."
+quality_note: >-
+  Strong pop culture relevance but contains a major factual contradiction
+  between the title suggesting Catwoman's absence and the body content
+  confirming her return, significantly undermining credibility.
+image_alt: >-
+  Rainy noir rooftop with a black cat and empty mask overlooking a foggy gothic
+  city.
 ---
 
 Fans of Gotham City can rejoice as exciting developments unfold for the eagerly awaited sequel, "The Batman Part II." This film promises to continue the gripping narrative as it brings back beloved characters and introduces fresh storylines. One of the captivating returns to look forward to is that of Zoë Kravitz as Catwoman, a role she masterfully portrayed in the previous installment.
