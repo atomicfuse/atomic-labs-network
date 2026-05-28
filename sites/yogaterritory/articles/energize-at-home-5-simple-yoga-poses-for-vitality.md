@@ -1,27 +1,37 @@
 ---
-title: "Energize at Home: 5 Simple Yoga Poses for Vitality"
-description: "Yoga is a holistic practice that enhances well-being, balances energy, and rejuvenates the spirit. Practicing at home is accessible to everyone, requiring minimal equipment while reducing stress, improving flexibility, and increasing strength with simple poses like Mountain, Warrior, and Child's Pose."
-type: "standard"
-status: "published"
-publishDate: "2025-11-06T09:51:35+00:00"
-author: "Taylor Winters"
+title: 'Energize at Home: 5 Simple Yoga Poses for Vitality'
+description: >-
+  Yoga is a holistic practice that enhances well-being, balances energy, and
+  rejuvenates the spirit. Practicing at home is accessible to everyone,
+  requiring minimal equipment while reducing stress, improving flexibility, and
+  increasing strength with simple poses like Mountain, Warrior, and Child's
+  Pose.
+type: standard
+status: published
+publishDate: '2025-11-06T09:51:35+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Yoga For Beginners"
-  - "Yoga For Relaxation"
-  - "Yoga Postures"
-slug: "energize-at-home-5-simple-yoga-poses-for-vitality"
+  - Yoga Poses
+  - Yoga For Beginners
+  - Yoga For Relaxation
+  - Yoga Postures
+slug: energize-at-home-5-simple-yoga-poses-for-vitality
 reading_time: 3
-source_url: "https://yogaterritory.com/energize-at-home-5-simple-yoga-poses-for-vitality/"
-imported_from: "wordpress"
+source_url: 'https://yogaterritory.com/energize-at-home-5-simple-yoga-poses-for-vitality/'
+imported_from: wordpress
 wp_original_id: 20679
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/energize-at-home-5-simple-yoga-poses-for-vitality.webp
 seo:
-  canonical: "https://yogaterritory.com/energize-at-home-5-simple-yoga-poses-for-vitality/"
-  og_title: "Energize at Home: 5 Simple Yoga Poses for Vitality - Yoga Territory"
-  og_description: "Yoga is a holistic practice that enhances well-being, balances energy, and rejuvenates the spirit. Practicing at home is accessible to everyone, requiring minimal equipment while reducing stress, improving flexibility, and increasing strength with simple poses like Mountain, Warrior, and Child's Pose."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2025/11/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://yogaterritory.com/energize-at-home-5-simple-yoga-poses-for-vitality/'
+  og_title: 'Energize at Home: 5 Simple Yoga Poses for Vitality - Yoga Territory'
+  og_description: >-
+    Yoga is a holistic practice that enhances well-being, balances energy, and
+    rejuvenates the spirit. Practicing at home is accessible to everyone,
+    requiring minimal equipment while reducing stress, improving flexibility,
+    and increasing strength with simple poses like Mountain, Warrior, and
+    Child's Pose.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2025/11/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written beginner-friendly yoga content with good keyword coverage, but falls short on length and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written beginner-friendly yoga content with good keyword coverage, but
+  falls short on length and could benefit from stronger SEO optimization in
+  title and meta description.
+image_alt: >-
+  Person practicing yoga in a calm sunlit living room with plants and warm
+  morning light.
 ---
 
 Yoga is a timeless practice that offers numerous benefits for both the mind and body. Incorporating yoga into your daily routine can enhance your overall well-being, balance your energy levels, and rejuvenate your spirit. The best part is that you can perform many effective yoga poses right in the comfort of your home, making it accessible for everyone, regardless of experience level.
