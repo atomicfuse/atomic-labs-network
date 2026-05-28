@@ -1,27 +1,35 @@
 ---
-title: "Easy Yoga Poses for Faster Post-Malaria Fatigue Recovery"
-description: "Gentle yoga, breathing exercises, nourishing food, hydration, and proper sleep can help ease post-malaria fatigue and support a safe, gradual return to strength."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:26:33+00:00"
-author: "Taylor Winters"
+title: Easy Yoga Poses for Faster Post-Malaria Fatigue Recovery
+description: >-
+  Gentle yoga, breathing exercises, nourishing food, hydration, and proper sleep
+  can help ease post-malaria fatigue and support a safe, gradual return to
+  strength.
+type: standard
+status: published
+publishDate: '2026-04-30T08:26:33+00:00'
+author: Taylor Winters
 tags:
-  - "Yoga Poses"
-  - "Tips"
-  - "Yoga For Beginners"
-  - "Yoga For Relaxation"
-slug: "easy-yoga-poses-for-faster-post-malaria-fatigue-recovery"
+  - Yoga Poses
+  - Tips
+  - Yoga For Beginners
+  - Yoga For Relaxation
+slug: easy-yoga-poses-for-faster-post-malaria-fatigue-recovery
 reading_time: 8
-source_url: "https://yogaterritory.com/easy-yoga-poses-for-faster-post-malaria-fatigue-recovery/"
-imported_from: "wordpress"
+source_url: >-
+  https://yogaterritory.com/easy-yoga-poses-for-faster-post-malaria-fatigue-recovery/
+imported_from: wordpress
 wp_original_id: 20753
-featuredImage: "/assets/images/yogaterritory-general-article.webp"
+featuredImage: /assets/images/easy-yoga-poses-for-faster-post-malaria-fatigue-recovery.webp
 seo:
-  canonical: "https://yogaterritory.com/easy-yoga-poses-for-faster-post-malaria-fatigue-recovery/"
-  og_title: "Easy Yoga Poses for Faster Post-Malaria Fatigue Recovery - Yoga Territory"
-  og_description: "Gentle yoga, breathing exercises, nourishing food, hydration, and proper sleep can help ease post-malaria fatigue and support a safe, gradual return to strength."
-  og_image: "http://yogaterritory.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://yogaterritory.com/easy-yoga-poses-for-faster-post-malaria-fatigue-recovery/
+  og_title: Easy Yoga Poses for Faster Post-Malaria Fatigue Recovery - Yoga Territory
+  og_description: >-
+    Gentle yoga, breathing exercises, nourishing food, hydration, and proper
+    sleep can help ease post-malaria fatigue and support a safe, gradual return
+    to strength.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 85
@@ -29,7 +37,11 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 75
   keyword_relevance: 95
-quality_note: "Strong yoga content with excellent keyword integration and appropriate tone, but the medical specificity of malaria recovery may not align perfectly with the general healthy living audience focus."
+quality_note: >-
+  Strong yoga content with excellent keyword integration and appropriate tone,
+  but the medical specificity of malaria recovery may not align perfectly with
+  the general healthy living audience focus.
+image_alt: Person doing gentle yoga in soft morning light with water and fruit nearby
 ---
 
 Recovering from malaria often takes longer than the fever itself. Even after treatment ends, many people feel drained, weak, dizzy, and mentally foggy. This post-malaria fatigue can make everyday tasks feel demanding. Gentle yoga, breathing exercises, better sleep, and nourishing food can support recovery when practiced safely and consistently.
