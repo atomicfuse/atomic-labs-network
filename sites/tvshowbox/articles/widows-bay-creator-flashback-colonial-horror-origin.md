@@ -23,7 +23,7 @@ source_url: >-
   https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/widows-bay-creator-flashback-colonial-horror-origin.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   show's existence and excessive use of 'according to reports' undermine
   credibility and engagement.
 reading_time: 3
+image_alt: >-
+  Colonial figure in a candlelit room as eerie mushrooms spread across the
+  floorboards.
 ---
 ## A Genre-Bending Flashback That Changes Everything
 
