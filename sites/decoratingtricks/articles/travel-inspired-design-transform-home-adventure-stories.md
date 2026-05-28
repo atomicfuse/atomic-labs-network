@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://richmondmagazine.com/api/content/ee080292-5559-11f1-a08a-1248ae80e59d/'
 source_item_id: 6a152fda16f23264031d81fd
 generated_by: claude
-featuredImage: /assets/images/decoratingtricks-general-article.webp
+featuredImage: /assets/images/travel-inspired-design-transform-home-adventure-stories.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   on word count (636 vs target 800-1200) and could benefit from stronger SEO
   optimization in title length and heading structure.
 reading_time: 3
+image_alt: >-
+  Elegant travel-inspired dining nook with burgundy chairs, brass lighting, art,
+  and collected decor.
 ---
 ## The Rise of Travel-Inspired Interior Design
 
