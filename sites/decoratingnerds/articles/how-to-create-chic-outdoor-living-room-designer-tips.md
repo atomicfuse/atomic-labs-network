@@ -20,7 +20,7 @@ source_url: >-
   https://shopping.yahoo.com/home-garden/outdoor/articles/designers-reveal-create-chic-outdoor-131500787.html
 source_item_id: 6a152fda16f23264031d81ff
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: /assets/images/how-to-create-chic-outdoor-living-room-designer-tips.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   count (604 vs 800-1200 target) and could benefit from stronger SEO
   optimization with specific keyword integration.
 reading_time: 3
+image_alt: >-
+  Chic covered patio with outdoor sofas, lounge chairs, plants, layered rugs,
+  and soft lantern lighting.
 ---
 ## Transform Your Outdoor Space Into a Stylish Living Room
 
