@@ -20,7 +20,7 @@ source_url: >-
   https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: /assets/images/vampire-lestat-season-3-musical-reinvention-amc.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short on length and relies heavily on vague 'according to reports' sourcing
   without specific citations.
 reading_time: 3
+image_alt: >-
+  Blond vampire rock performer on a gothic concert stage under amber and violet
+  lights
 ---
 ## From Gothic Drama to Rock Opera
 
