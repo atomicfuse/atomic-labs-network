@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vogue.com/article/var-coast-french-riviera-guide'
 source_item_id: 6a14fea216f23264031d8049
 generated_by: claude
-featuredImage: /assets/images/travelgeekexplorer-general-article.webp
+featuredImage: /assets/images/skip-saint-tropez-var-coast-hidden-riviera-gems.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -32,6 +32,7 @@ quality_note: >-
   but falls short on length and contains some vague claims that could be better
   supported.
 reading_time: 3
+image_alt: Quiet turquoise Var coast cove framed by umbrella pines and limestone rocks
 ---
 ## A Quieter Alternative to the Classic Riviera
 
