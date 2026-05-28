@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vogue.com/article/var-coast-french-riviera-guide'
 source_item_id: 6a14fea216f23264031d8049
 generated_by: claude
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/var-coast-french-riviera-alternative-saint-tropez.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length (584 words vs 800-1200 target) and contains vague
   sourcing that raises factual accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Quiet turquoise Mediterranean cove framed by pine trees and a coastal path on
+  the Var Coast.
 ---
 ## A Hidden Gem on the Mediterranean
 
