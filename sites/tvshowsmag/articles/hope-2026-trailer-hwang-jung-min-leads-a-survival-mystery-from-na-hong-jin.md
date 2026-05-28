@@ -1,30 +1,43 @@
 ---
-title: "Hope (2026) Trailer: Hwang Jung-min Leads a Survival Mystery from Na Hong-jin"
-description: "The official trailer for Hope introduces a remote harbor town shaken by a mysterious discovery and forced into a desperate fight for survival. Starring Hwang Jung-min, Jo In-sung, and Jung Ho-yeon, the film is directed by Na Hong-jin and set for a Fall 2026 U.S. release."
-type: "standard"
+title: 'Hope (2026) Trailer: Hwang Jung-min Leads a Survival Mystery from Na Hong-jin'
+description: >-
+  The official trailer for Hope introduces a remote harbor town shaken by a
+  mysterious discovery and forced into a desperate fight for survival. Starring
+  Hwang Jung-min, Jo In-sung, and Jung Ho-yeon, the film is directed by Na
+  Hong-jin and set for a Fall 2026 U.S. release.
+type: standard
 status: published
-publishDate: "2026-05-18T09:01:48+00:00"
-author: "Taylor Winters"
+publishDate: '2026-05-18T09:01:48+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Featured"
-  - "Trailers"
-  - "Upcoming"
-slug: "hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin"
+  - TV News
+  - Featured
+  - Trailers
+  - Upcoming
+slug: hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin
 reading_time: 5
-source_url: "https://www.tvshowsmag.com/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin/
+imported_from: wordpress
 wp_original_id: 28225
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin/"
-  og_title: "Hope (2026) Trailer: Hwang Jung-min Leads a Survival Mystery from Na Hong-jin - TV Shows Magazine"
-  og_description: "The official trailer for Hope introduces a remote harbor town shaken by a mysterious discovery and forced into a desperate fight for survival. Starring Hwang Jung-min, Jo In-sung, and Jung Ho-yeon, the film is set for a Fall 2026 U.S. release."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin/
+  og_title: >-
+    Hope (2026) Trailer: Hwang Jung-min Leads a Survival Mystery from Na
+    Hong-jin - TV Shows Magazine
+  og_description: >-
+    The official trailer for Hope introduces a remote harbor town shaken by a
+    mysterious discovery and forced into a desperate fight for survival.
+    Starring Hwang Jung-min, Jo In-sung, and Jung Ho-yeon, the film is set for a
+    Fall 2026 U.S. release.
+  twitter_card: summary_large_image
 videos:
-  - id: "f2e887c9"
-    url: "https://www.youtube.com/watch?v=P00bN5TAOCs"
-    position: "after-paragraph-2"
+  - id: f2e887c9
+    url: 'https://www.youtube.com/watch?v=P00bN5TAOCs'
+    position: after-paragraph-2
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -32,7 +45,13 @@ score_breakdown:
   content_length: 90
   factual_accuracy: 40
   keyword_relevance: 60
-quality_note: "Well-written article with good tone and length, but appears to contain fabricated information about an unverified 2026 film release, and lacks strong TV/streaming focus for the target site."
+quality_note: >-
+  Well-written article with good tone and length, but appears to contain
+  fabricated information about an unverified 2026 film release, and lacks strong
+  TV/streaming focus for the target site.
+image_alt: >-
+  Tense harbor town at night as residents face a mysterious discovery in the
+  rain
 ---
 
 The official trailer for _Hope_ offers a first look at one of the notable upcoming movie releases scheduled for Fall 2026 in the United States. Led by Hwang Jung-min and directed by Na Hong-jin, the film centers on a mysterious discovery made on the outskirts of a remote harbor town, where local residents are suddenly pushed into a fight for survival against something they have never encountered before.
