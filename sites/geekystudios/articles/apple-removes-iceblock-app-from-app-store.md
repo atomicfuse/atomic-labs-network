@@ -37,7 +37,9 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and keyword relevance, but appears to
   discuss a fictional app incident and falls short of target word count.
-image_alt: Frozen app symbol hovering above a smartphone amid abstract security gates
+image_alt: >-
+  Generic smartphone beside a frozen app cube with abstract security motifs in a
+  cool tech setting.
 ---
 
 In recent developments, Apple has made headlines by removing a popular app from its App Store, sparking discussions about its app review policies. The app in question, known as IceBlock, was reportedly pulled due to violations of Apple's guidelines. This event has stirred the tech community, raising questions about the balance between security measures and innovation.
