@@ -1,23 +1,33 @@
 ---
-title: "Meet Picea Robotics, Roomba’s Innovative New Owner"
-description: "Picea Robotics' acquisition of iRobot marks a transformative moment in the home robotics industry, combining technological expertise to accelerate innovation. This strategic move expands market reach and sets a new benchmark for collaboration, driving faster advancements and enhancing smart home solutions."
-type: "standard"
+title: 'Meet Picea Robotics, Roomba’s Innovative New Owner'
+description: >-
+  Picea Robotics' acquisition of iRobot marks a transformative moment in the
+  home robotics industry, combining technological expertise to accelerate
+  innovation. This strategic move expands market reach and sets a new benchmark
+  for collaboration, driving faster advancements and enhancing smart home
+  solutions.
+type: standard
 status: published
-publishDate: "2025-12-15T11:05:31+00:00"
-author: "Arthur Daly"
+publishDate: '2025-12-15T11:05:31+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "meet-picea-robotics-roombas-innovative-new-owner"
+  - Tech
+slug: meet-picea-robotics-roombas-innovative-new-owner
 reading_time: 3
-source_url: "https://geekystudios.com/meet-picea-robotics-roombas-innovative-new-owner/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/meet-picea-robotics-roombas-innovative-new-owner/'
+imported_from: wordpress
 wp_original_id: 675
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/meet-picea-robotics-roombas-innovative-new-owner.webp
 seo:
-  canonical: "https://geekystudios.com/meet-picea-robotics-roombas-innovative-new-owner/"
-  og_title: "Meet Picea Robotics, Roomba's Innovative New Owner - Geeky Studios"
-  og_description: "Picea Robotics' acquisition of iRobot marks a transformative moment in the home robotics industry, combining technological expertise to accelerate innovation. This strategic move expands market reach and sets a new benchmark for collaboration, driving faster advancements and enhancing smart home solutions."
-  twitter_card: "summary_large_image"
+  canonical: 'https://geekystudios.com/meet-picea-robotics-roombas-innovative-new-owner/'
+  og_title: 'Meet Picea Robotics, Roomba''s Innovative New Owner - Geeky Studios'
+  og_description: >-
+    Picea Robotics' acquisition of iRobot marks a transformative moment in the
+    home robotics industry, combining technological expertise to accelerate
+    innovation. This strategic move expands market reach and sets a new
+    benchmark for collaboration, driving faster advancements and enhancing smart
+    home solutions.
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -25,7 +35,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "Well-written tech article with good structure and tone, but contains major factual inaccuracies about a fictional robotics acquisition and falls short of target word count."
+quality_note: >-
+  Well-written tech article with good structure and tone, but contains major
+  factual inaccuracies about a fictional robotics acquisition and falls short of
+  target word count.
+image_alt: >-
+  Futuristic robot vacuum in a smart living room with abstract network light
+  patterns
 ---
 
 The robotics industry is witnessing a significant transformation, marked by strategic acquisitions and technological advancements. Among the companies making waves in this field is Picea Robotics, a name that has recently garnered attention due to its acquisition of iRobot. This move not only highlights Picea Robotics' ambitions but also signifies a shift in the landscape of home robotics.
