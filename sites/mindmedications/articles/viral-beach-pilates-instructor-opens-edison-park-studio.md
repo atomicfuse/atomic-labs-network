@@ -22,7 +22,7 @@ source_url: >-
   https://blockclubchicago.org/2026/05/13/pilates-instructor-behind-popular-lakefront-classes-opens-edison-park-studio/
 source_item_id: 6a07fc2a4bdae0614e7aae9b
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/viral-beach-pilates-instructor-opens-edison-park-studio.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   falls short on length and could benefit from stronger SEO optimization and
   more engaging conversational elements.
 reading_time: 3
+image_alt: >-
+  Young Pilates founder in a sunlit boutique studio with clients gathering
+  around mats.
 ---
 ## From Beach Classes to Boutique Studio
 
