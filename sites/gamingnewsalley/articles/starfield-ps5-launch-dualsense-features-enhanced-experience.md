@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: 'https://www.theaureview.com/games/starfield-ps5-review/'
 source_item_id: 6a14214f16f23264031d7dd0
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: >-
+  /assets/images/starfield-ps5-launch-dualsense-features-enhanced-experience.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -35,6 +36,9 @@ quality_note: >-
   Starfield being available on PS5, which is false, and the article is too short
   for optimal content length.
 reading_time: 3
+image_alt: >-
+  Astronaut facing a glowing controller hologram beneath a dramatic star-filled
+  sky
 ---
 ## Starfield Makes Its PlayStation Debut
 
