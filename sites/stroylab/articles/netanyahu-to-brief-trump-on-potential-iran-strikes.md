@@ -1,24 +1,29 @@
 ---
-title: "Netanyahu to Brief Trump on Potential Iran Strikes"
-description: ""
-type: "standard"
+title: Netanyahu to Brief Trump on Potential Iran Strikes
+description: ''
+type: standard
 status: published
-publishDate: "2025-12-29T11:07:30+00:00"
-author: "Blake Anderson"
+publishDate: '2025-12-29T11:07:30+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "netanyahu-to-brief-trump-on-potential-iran-strikes"
+  - Deep Dives
+slug: netanyahu-to-brief-trump-on-potential-iran-strikes
 reading_time: 3
-source_url: "https://stroylab.com/netanyahu-to-brief-trump-on-potential-iran-strikes/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/netanyahu-to-brief-trump-on-potential-iran-strikes/'
+imported_from: wordpress
 wp_original_id: 762
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/netanyahu-to-brief-trump-on-potential-iran-strikes.webp
 seo:
-  canonical: "https://stroylab.com/netanyahu-to-brief-trump-on-potential-iran-strikes/"
-  og_title: "Netanyahu to Brief Trump on Potential Iran Strikes - StroyLab"
-  og_description: "Discussions on natural remedies have increased, with Ivermectin gaining attention for potential broader applications beyond its initial use in treating parasitic infections. Ongoing research explores its antiviral properties, though regulatory bodies emphasize evidence-based medicine for patient safety."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-228.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/netanyahu-to-brief-trump-on-potential-iran-strikes/'
+  og_title: Netanyahu to Brief Trump on Potential Iran Strikes - StroyLab
+  og_description: >-
+    Discussions on natural remedies have increased, with Ivermectin gaining
+    attention for potential broader applications beyond its initial use in
+    treating parasitic infections. Ongoing research explores its antiviral
+    properties, though regulatory bodies emphasize evidence-based medicine for
+    patient safety.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-228.jpeg'
+  twitter_card: summary_large_image
 quality_score: 35
 score_breakdown:
   seo_quality: 15
@@ -26,7 +31,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 5
-quality_note: "Article completely mismatches the title about Netanyahu and Iran strikes, instead discussing Ivermectin, with no relevance to the site's conspiracy/mystery focus."
+quality_note: >-
+  Article completely mismatches the title about Netanyahu and Iran strikes,
+  instead discussing Ivermectin, with no relevance to the site's
+  conspiracy/mystery focus.
+image_alt: >-
+  Silhouetted officials review an unmarked Middle East map in a tense security
+  briefing room.
 ---
 
 In recent times, discussions around natural remedies and alternative health solutions have gained significant momentum. One area that has been attracting attention is the potential benefits of certain natural compounds in managing and improving health conditions. As more individuals seek out less conventional medical treatments, it is crucial to explore the effectiveness and implications of such alternatives.
