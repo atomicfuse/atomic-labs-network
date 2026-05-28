@@ -1,24 +1,40 @@
 ---
-title: "Canadian Travel Advisory: Alcohol Laws and Safety Risks Abroad"
-description: "Travelers face evolving regulations and advisories worldwide, from Thailand's alcohol policies to Colombia's volcanic activity and Lebanon's security climate. Staying informed enhances safety and preparedness, ensuring enjoyable travel experiences by respecting local customs and adapting to changing conditions."
-type: "standard"
+title: 'Canadian Travel Advisory: Alcohol Laws and Safety Risks Abroad'
+description: >-
+  Travelers face evolving regulations and advisories worldwide, from Thailand's
+  alcohol policies to Colombia's volcanic activity and Lebanon's security
+  climate. Staying informed enhances safety and preparedness, ensuring enjoyable
+  travel experiences by respecting local customs and adapting to changing
+  conditions.
+type: standard
 status: published
-publishDate: "2025-12-08T13:00:39+00:00"
-author: "Malcolm Anderson"
+publishDate: '2025-12-08T13:00:39+00:00'
+author: Malcolm Anderson
 tags:
-  - "News"
-slug: "canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad"
+  - News
+slug: canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad
 reading_time: 3
-source_url: "https://travelnights.com/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad/
+imported_from: wordpress
 wp_original_id: 36640
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad.webp
 seo:
-  canonical: "https://travelnights.com/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad/"
-  og_title: "Canadian Travel Advisory: Alcohol Laws and Safety Risks Abroad - Travel Nights"
-  og_description: "Travelers face evolving regulations and advisories worldwide, from Thailand's alcohol policies to Colombia's volcanic activity and Lebanon's security climate. Staying informed enhances safety and preparedness, ensuring enjoyable travel experiences by respecting local customs and adapting to changing conditions."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_shutterstock_766790557.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad/
+  og_title: >-
+    Canadian Travel Advisory: Alcohol Laws and Safety Risks Abroad - Travel
+    Nights
+  og_description: >-
+    Travelers face evolving regulations and advisories worldwide, from
+    Thailand's alcohol policies to Colombia's volcanic activity and Lebanon's
+    security climate. Staying informed enhances safety and preparedness,
+    ensuring enjoyable travel experiences by respecting local customs and
+    adapting to changing conditions.
+  og_image: >-
+    https://travelnights.com/wp-content/uploads/2025/12/make_shutterstock_766790557.jpg
+  twitter_card: summary_large_image
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -26,7 +42,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Well-written travel news article with good tone and keyword coverage, but significantly under target word count and contains vague claims without specific details or sources."
+quality_note: >-
+  Well-written travel news article with good tone and keyword coverage, but
+  significantly under target word count and contains vague claims without
+  specific details or sources.
+image_alt: >-
+  Traveler reviewing safety alerts at an airport table with passport, cocktail
+  glass, and global risk reflections
 ---
 
 Travelers around the globe are constantly met with evolving regulations and advisories, impacting their journey plans. From Thailand's revised alcohol policies to Colombia's volcanic activity and Lebanon's security climate, these updates are crucial for ensuring safe and enjoyable travel experiences. Staying informed about such changes can significantly enhance your travel safety and preparedness.

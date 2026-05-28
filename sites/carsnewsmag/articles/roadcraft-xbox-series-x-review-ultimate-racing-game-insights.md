@@ -1,24 +1,37 @@
 ---
-title: "RoadCraft Xbox Series X Review: Ultimate Racing Game Insights"
-description: "RoadCraft for Xbox Series X captivates racing enthusiasts with its blend of high-speed action and strategy, offering immersive gameplay, detailed vehicle customization, and realistic physics. With challenging AI and multiplayer modes, it ensures endless competitive fun and replayability."
-type: "standard"
+title: 'RoadCraft Xbox Series X Review: Ultimate Racing Game Insights'
+description: >-
+  RoadCraft for Xbox Series X captivates racing enthusiasts with its blend of
+  high-speed action and strategy, offering immersive gameplay, detailed vehicle
+  customization, and realistic physics. With challenging AI and multiplayer
+  modes, it ensures endless competitive fun and replayability.
+type: standard
 status: published
-publishDate: "2025-08-28T04:13:21+00:00"
-author: "Taylor Winters"
+publishDate: '2025-08-28T04:13:21+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-slug: "roadcraft-xbox-series-x-review-ultimate-racing-game-insights"
+  - Reviews
+slug: roadcraft-xbox-series-x-review-ultimate-racing-game-insights
 reading_time: 3
-source_url: "https://carsnewsmag.com/roadcraft-xbox-series-x-review-ultimate-racing-game-insights/"
-imported_from: "wordpress"
+source_url: >-
+  https://carsnewsmag.com/roadcraft-xbox-series-x-review-ultimate-racing-game-insights/
+imported_from: wordpress
 wp_original_id: 38486
-featuredImage: "/assets/images/carsnewsmag-general-article.webp"
+featuredImage: >-
+  /assets/images/roadcraft-xbox-series-x-review-ultimate-racing-game-insights.webp
 seo:
-  canonical: "https://carsnewsmag.com/roadcraft-xbox-series-x-review-ultimate-racing-game-insights/"
-  og_title: "RoadCraft Xbox Series X Review: Ultimate Racing Game Insights - Cars News Magazine"
-  og_description: "RoadCraft for Xbox Series X captivates racing enthusiasts with its blend of high-speed action and strategy, offering immersive gameplay, detailed vehicle customization, and realistic physics. With challenging AI and multiplayer modes, it ensures endless competitive fun and replayability."
-  og_image: "https://carsnewsmag.com/wp-content/uploads/2025/08/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://carsnewsmag.com/roadcraft-xbox-series-x-review-ultimate-racing-game-insights/
+  og_title: >-
+    RoadCraft Xbox Series X Review: Ultimate Racing Game Insights - Cars News
+    Magazine
+  og_description: >-
+    RoadCraft for Xbox Series X captivates racing enthusiasts with its blend of
+    high-speed action and strategy, offering immersive gameplay, detailed
+    vehicle customization, and realistic physics. With challenging AI and
+    multiplayer modes, it ensures endless competitive fun and replayability.
+  og_image: 'https://carsnewsmag.com/wp-content/uploads/2025/08/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 44
 score_breakdown:
   seo_quality: 45
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 25
-quality_note: "The article is well-written but completely misaligned with carsnewsmag's automotive focus, reviewing a video game instead of cars, and appears to contain fabricated information about a non-existent racing game."
+quality_note: >-
+  The article is well-written but completely misaligned with carsnewsmag's
+  automotive focus, reviewing a video game instead of cars, and appears to
+  contain fabricated information about a non-existent racing game.
+image_alt: >-
+  Unbranded racing car drifting on a wet futuristic track with holographic
+  racing lines
 ---
 
 "RoadCraft" for Xbox Series X has captured the attention of racing enthusiasts worldwide. This game combines high-speed action with intricate strategy, offering players a unique experience that challenges both reflexes and tactical thinking. Whether you're a seasoned gamer or new to the racing genre, "RoadCraft" provides a captivating journey through its richly designed environments and realistic mechanics.

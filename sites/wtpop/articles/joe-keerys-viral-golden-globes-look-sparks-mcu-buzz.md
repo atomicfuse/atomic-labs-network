@@ -37,12 +37,12 @@ score_breakdown:
   factual_accuracy: 70
   keyword_relevance: 90
 quality_note: >-
-  Well-written entertainment piece with strong keyword coverage and engaging
-  tone, but falls short on length and contains speculative claims about MCU
-  involvement without sources.
+  Engaging entertainment content with strong keyword coverage, but falls short
+  on length and contains speculative claims about MCU involvement that lack
+  substantiation.
 image_alt: >-
-  Stylish young actor on a golden red carpet under dramatic lights and paparazzi
-  flashes.
+  Stylish actor on a golden red carpet surrounded by cinematic flashes and
+  abstract superhero-inspired light shapes.
 ---
 
 Joe Keery, best known for his role in the popular series "Stranger Things," recently captured widespread attention at the Golden Globes. His appearance sparked a flurry of reactions, thanks to his striking new look that set social media abuzz.

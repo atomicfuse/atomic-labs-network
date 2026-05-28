@@ -79,7 +79,7 @@ sites:
     custom_domain: wtpop.com
     worker_pending_dns: false
   - domain: travelswire
-    company: null
+    company: NGC
     vertical: Travel
     status: Live
     site_id: "9021912446684"
@@ -88,7 +88,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-25T10:26:06.731Z
+    last_updated: 2026-05-27T15:17:30.481Z
     created_at: 2026-05-17T12:45:12.446Z
     pages_project: null
     pages_subdomain: null
@@ -99,7 +99,7 @@ sites:
     custom_domain: travelswire.com
     worker_pending_dns: false
   - domain: wineoceans
-    company: null
+    company: ATL
     vertical: Food & Drink
     status: Live
     site_id: "9185817424590"
@@ -108,7 +108,7 @@ sites:
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-25T10:26:30.437Z
+    last_updated: 2026-05-27T15:04:18.580Z
     created_at: 2026-05-19T10:16:57.424Z
     pages_project: null
     pages_subdomain: null

@@ -1,25 +1,38 @@
 ---
-title: "Georgia DOT Holiday Travel: Lane Closures Suspended, Safety Tips Shared"
-description: "As the holiday season approaches, the Georgia Department of Transportation is suspending lane closures on major highways to reduce congestion and improve travel conditions. Travelers are encouraged to plan trips during less congested times and follow safety guidelines."
-type: "standard"
+title: 'Georgia DOT Holiday Travel: Lane Closures Suspended, Safety Tips Shared'
+description: >-
+  As the holiday season approaches, the Georgia Department of Transportation is
+  suspending lane closures on major highways to reduce congestion and improve
+  travel conditions. Travelers are encouraged to plan trips during less
+  congested times and follow safety guidelines.
+type: standard
 status: published
-publishDate: "2025-12-18T10:52:20+00:00"
-author: "Malcolm Anderson"
+publishDate: '2025-12-18T10:52:20+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Guides &amp; Tips"
-slug: "georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared"
+  - Culture
+  - Guides &amp; Tips
+slug: georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared
 reading_time: 3
-source_url: "https://travelnights.com/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared/
+imported_from: wordpress
 wp_original_id: 36667
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared.webp
 seo:
-  canonical: "https://travelnights.com/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared/"
-  og_title: "Georgia DOT Holiday Travel: Lane Closures Suspended, Safety Tips Shared - Travel Nights"
-  og_description: "As the holiday season approaches, the Georgia Department of Transportation is suspending lane closures on major highways to reduce congestion and improve travel conditions. Travelers are encouraged to plan trips during less congested times and follow safety guidelines."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-15.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared/
+  og_title: >-
+    Georgia DOT Holiday Travel: Lane Closures Suspended, Safety Tips Shared -
+    Travel Nights
+  og_description: >-
+    As the holiday season approaches, the Georgia Department of Transportation
+    is suspending lane closures on major highways to reduce congestion and
+    improve travel conditions. Travelers are encouraged to plan trips during
+    less congested times and follow safety guidelines.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-15.jpeg'
+  twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: "Well-structured article with good safety information, but focuses narrowly on Georgia DOT news rather than broader travel guidance that would better serve a travel enthusiast audience."
+quality_note: >-
+  Well-structured article with good safety information, but focuses narrowly on
+  Georgia DOT news rather than broader travel guidance that would better serve a
+  travel enthusiast audience.
+image_alt: >-
+  Holiday travelers move smoothly along a wide Georgia interstate at golden
+  hour.
 ---
 
 As the holiday season approaches, many travelers are preparing to hit the roads for festive gatherings and celebrations. Understanding the best times to travel and ensuring safety on the highways become paramount during these busy periods. To ease the journey, the Georgia Department of Transportation (GDOT) has implemented measures to facilitate smoother traffic flow and enhance safety for all road users.

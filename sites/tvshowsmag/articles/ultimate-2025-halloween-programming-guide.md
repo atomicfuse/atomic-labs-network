@@ -1,26 +1,34 @@
 ---
-title: "Ultimate 2025 Halloween Programming Guide"
-description: "TV networks and streaming platforms are ready to thrill viewers with a spooky lineup of Halloween shows and movies. Expect a mix of classic horror films, new releases, original series, and family-friendly options to enjoy this Halloween season."
-type: "standard"
+title: Ultimate 2025 Halloween Programming Guide
+description: >-
+  TV networks and streaming platforms are ready to thrill viewers with a spooky
+  lineup of Halloween shows and movies. Expect a mix of classic horror films,
+  new releases, original series, and family-friendly options to enjoy this
+  Halloween season.
+type: standard
 status: published
-publishDate: "2025-10-03T06:03:27+00:00"
-author: "Taylor Winters"
+publishDate: '2025-10-03T06:03:27+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-  - "Upcoming"
-slug: "ultimate-2025-halloween-programming-guide"
+  - TV News
+  - TV Shows
+  - Upcoming
+slug: ultimate-2025-halloween-programming-guide
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/ultimate-2025-halloween-programming-guide/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/ultimate-2025-halloween-programming-guide/'
+imported_from: wordpress
 wp_original_id: 28098
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/ultimate-2025-halloween-programming-guide.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/ultimate-2025-halloween-programming-guide/"
-  og_title: "Ultimate 2025 Halloween Programming Guide - TV Shows Magazine"
-  og_description: "TV networks and streaming platforms are ready to thrill viewers with a spooky lineup of Halloween shows and movies. Expect a mix of classic horror films, new releases, original series, and family-friendly options to enjoy this Halloween season."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/ultimate-2025-halloween-programming-guide/'
+  og_title: Ultimate 2025 Halloween Programming Guide - TV Shows Magazine
+  og_description: >-
+    TV networks and streaming platforms are ready to thrill viewers with a
+    spooky lineup of Halloween shows and movies. Expect a mix of classic horror
+    films, new releases, original series, and family-friendly options to enjoy
+    this Halloween season.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
   seo_quality: 65
@@ -28,7 +36,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: "While the article covers relevant TV programming topics with good keyword integration, it's significantly under the target word count and lacks specific details that would enhance both SEO value and factual credibility."
+quality_note: >-
+  While the article covers relevant TV programming topics with good keyword
+  integration, it's significantly under the target word count and lacks specific
+  details that would enhance both SEO value and factual credibility.
+image_alt: 'A dark living room lit by a blank TV, pumpkins, fog, and Halloween shadows.'
 ---
 
 With Halloween just around the corner, TV networks and streaming platforms are gearing up to offer a spooky lineup of shows and movies to delight horror enthusiasts and casual viewers alike. This year's Halloween programming promises a mix of old favorites and new surprises, ensuring that everyone finds something to send shivers down their spine.

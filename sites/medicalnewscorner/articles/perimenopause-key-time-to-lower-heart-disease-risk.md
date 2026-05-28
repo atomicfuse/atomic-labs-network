@@ -1,27 +1,35 @@
 ---
-title: "Perimenopause: Key Time to Lower Heart Disease Risk"
-description: "Perimenopause is a key window to protect heart health by tracking blood pressure, cholesterol, glucose, sleep, and lifestyle habits before cardiovascular risks become harder to reverse."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:18:32+00:00"
-author: "Taylor Winters"
+title: 'Perimenopause: Key Time to Lower Heart Disease Risk'
+description: >-
+  Perimenopause is a key window to protect heart health by tracking blood
+  pressure, cholesterol, glucose, sleep, and lifestyle habits before
+  cardiovascular risks become harder to reverse.
+type: standard
+status: published
+publishDate: '2026-05-18T08:18:32+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Aging"
-  - "Fitness &amp; Food"
-  - "Health, Fitness &amp; Food"
-slug: "perimenopause-key-time-to-lower-heart-disease-risk"
+  - Health News
+  - Aging
+  - Fitness &amp; Food
+  - 'Health, Fitness &amp; Food'
+slug: perimenopause-key-time-to-lower-heart-disease-risk
 reading_time: 7
-source_url: "https://medicalnewscorner.com/perimenopause-key-time-to-lower-heart-disease-risk/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/perimenopause-key-time-to-lower-heart-disease-risk/
+imported_from: wordpress
 wp_original_id: 24837
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/perimenopause-key-time-to-lower-heart-disease-risk.webp
 seo:
-  canonical: "https://medicalnewscorner.com/perimenopause-key-time-to-lower-heart-disease-risk/"
-  og_title: "Perimenopause: Key Time to Lower Heart Disease Risk - Medical News Corner"
-  og_description: "Perimenopause is a key window to protect heart health by tracking blood pressure, cholesterol, glucose, sleep, and lifestyle habits before cardiovascular risks become harder to reverse."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/perimenopause-key-time-to-lower-heart-disease-risk/
+  og_title: 'Perimenopause: Key Time to Lower Heart Disease Risk - Medical News Corner'
+  og_description: >-
+    Perimenopause is a key window to protect heart health by tracking blood
+    pressure, cholesterol, glucose, sleep, and lifestyle habits before
+    cardiovascular risks become harder to reverse.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 91
 score_breakdown:
   seo_quality: 85
@@ -29,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-structured, engaging health article that effectively balances medical accuracy with conversational tone, though the title could be more compelling for SEO purposes."
+quality_note: >-
+  Well-structured, engaging health article that effectively balances medical
+  accuracy with conversational tone, though the title could be more compelling
+  for SEO purposes.
+image_alt: >-
+  Midlife woman in soft sunlight with heart-health tools nearby, suggesting
+  preventive wellness.
 ---
 
 Perimenopause is often discussed as a time of hot flashes, irregular periods, and restless nights. Yet this transition also offers a powerful chance to protect long-term heart health. As estrogen levels shift, blood pressure, cholesterol, body composition, and blood sugar control can change quickly. Acting during these years may help lower cardiovascular disease risk before problems become harder to reverse.

@@ -1,25 +1,39 @@
 ---
-title: "Sydney Market Vendors Embrace Reusable Cups at Carriageworks"
-description: "Sydney's Carriageworks Farmers Market eliminates single-use coffee cups, encouraging sustainable practices by promoting reusable mugs. This initiative reduces waste and sets a precedent for other markets, highlighting the power of community-driven efforts in environmental responsibility."
-type: "standard"
+title: Sydney Market Vendors Embrace Reusable Cups at Carriageworks
+description: >-
+  Sydney's Carriageworks Farmers Market eliminates single-use coffee cups,
+  encouraging sustainable practices by promoting reusable mugs. This initiative
+  reduces waste and sets a precedent for other markets, highlighting the power
+  of community-driven efforts in environmental responsibility.
+type: standard
 status: published
-publishDate: "2026-03-23T09:15:30+00:00"
-author: "Taylor Winters"
+publishDate: '2026-03-23T09:15:30+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "sydney-market-vendors-embrace-reusable-cups-at-carriageworks"
+  - Coffee News
+  - News
+slug: sydney-market-vendors-embrace-reusable-cups-at-carriageworks
 reading_time: 3
-source_url: "https://coffeeactually.com/sydney-market-vendors-embrace-reusable-cups-at-carriageworks/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/sydney-market-vendors-embrace-reusable-cups-at-carriageworks/
+imported_from: wordpress
 wp_original_id: 51425
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/sydney-market-vendors-embrace-reusable-cups-at-carriageworks.webp
 seo:
-  canonical: "https://coffeeactually.com/sydney-market-vendors-embrace-reusable-cups-at-carriageworks/"
-  og_title: "Sydney Market Vendors Embrace Reusable Cups at Carriageworks - Coffee Actually"
-  og_description: "Sydney's Carriageworks Farmers Market eliminates single-use coffee cups, encouraging sustainable practices by promoting reusable mugs. This initiative reduces waste and sets a precedent for other markets, highlighting the power of community-driven efforts in environmental responsibility."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/03/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/sydney-market-vendors-embrace-reusable-cups-at-carriageworks/
+  og_title: >-
+    Sydney Market Vendors Embrace Reusable Cups at Carriageworks - Coffee
+    Actually
+  og_description: >-
+    Sydney's Carriageworks Farmers Market eliminates single-use coffee cups,
+    encouraging sustainable practices by promoting reusable mugs. This
+    initiative reduces waste and sets a precedent for other markets,
+    highlighting the power of community-driven efforts in environmental
+    responsibility.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/03/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +41,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and relevance to coffee news, but significantly under target word count at 504 words which heavily impacts the overall score."
+quality_note: >-
+  Well-written article with good tone and relevance to coffee news, but
+  significantly under target word count at 504 words which heavily impacts the
+  overall score.
+image_alt: >-
+  Reusable coffee cup exchanged at a lively farmers market stall in warm morning
+  light.
 ---
 
 Sydney's coffee culture is taking a significant step towards sustainability as coffee vendors at the Carriageworks Farmers Market eliminate single-use coffee cups. This bold move not only emphasizes environmental responsibility but also sets a precedent for other markets and vendors to follow. As the world continues to grapple with environmental challenges, initiatives like this highlight the importance of community-driven efforts in fostering sustainable practices.

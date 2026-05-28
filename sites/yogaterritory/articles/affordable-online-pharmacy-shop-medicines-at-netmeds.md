@@ -6,7 +6,7 @@ description: >-
   Sun Salutation and Warrior II to maintain warmth and energy, promoting overall
   well-being during the colder months.
 type: standard
-status: published
+status: review
 publishDate: '2025-12-29T09:41:24+00:00'
 author: Taylor Winters
 tags:
@@ -30,18 +30,18 @@ seo:
     overall well-being during the colder months.
   og_image: 'http://yogaterritory.com/wp-content/uploads/2025/12/make_file-3.png'
   twitter_card: summary_large_image
-quality_score: 64
+quality_score: 70
 score_breakdown:
-  seo_quality: 15
+  seo_quality: 25
   tone_match: 85
-  content_length: 60
-  factual_accuracy: 90
-  keyword_relevance: 70
+  content_length: 55
+  factual_accuracy: 95
+  keyword_relevance: 90
 quality_note: >-
-  Major SEO issues with title completely mismatched to content about online
-  pharmacy instead of yoga, though the body content is well-written and relevant
-  to yoga topics.
-image_alt: Person practicing yoga in a warm room on a snowy winter morning
+  Despite good yoga content and tone, the article is severely undermined by a
+  completely unrelated title about pharmacy services, creating major SEO and
+  coherence issues.
+image_alt: Person practicing yoga by a frosted window on a calm winter morning
 ---
 
 As the winter season envelops us with its chilly embrace, many people find their energy levels dwindling. The cold weather often brings a sense of lethargy, making it difficult to stay active. However, incorporating yoga into your daily routine can dramatically enhance your vitality and flexibility during these colder months. Here are five invigorating yoga poses that can help you maintain warmth and energy throughout winter.

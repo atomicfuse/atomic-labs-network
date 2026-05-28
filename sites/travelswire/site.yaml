@@ -2,7 +2,8 @@ domain: travelswire.com
 site_name: TravelSwire
 site_tagline: null
 author: Sarah Rivera
-groups: []
+groups:
+  - ncg
 active: true
 bundle_id: 6a09b84d099fd899f75e8254
 iab_vertical_code: "653"
@@ -113,3 +114,9 @@ tracking:
   facebook_pixel: null
   facebook_domain_verification: null
   custom: []
+scripts:
+  before_footer:
+    - id: tamir
+      inline: |-
+        <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+        <div data-cg-feed="journey_peaks_1"></div>

@@ -5,7 +5,7 @@ description: >-
   by Shree H.V.P. Mandal's Degree College, to celebrate International Day of
   Yoga 2025.
 type: standard
-status: published
+status: review
 publishDate: '2025-06-19T04:37:22+00:00'
 author: Taylor Winters
 tags:
@@ -33,7 +33,7 @@ seo:
     Yoga 2025.
   twitter_card: summary_large_image
 videos:
-  - id: 01f69477
+  - id: 8b1c39a3
     url: 'https://www.youtube.com/watch?v=LUsXRXQoEXk'
     position: after-paragraph-2
 quality_score: 62
@@ -44,10 +44,12 @@ score_breakdown:
   factual_accuracy: 85
   keyword_relevance: 70
 quality_note: >-
-  The article has appropriate tone and covers relevant yoga topics, but falls
-  significantly short of the target word count and lacks strong SEO optimization
-  with weak title and missing meta description.
-image_alt: Diverse group practicing yoga at sunrise in a peaceful courtyard
+  The article has good tone and covers relevant topics but is significantly too
+  short at 346 words and lacks SEO optimization with poor heading structure and
+  keyword integration.
+image_alt: >-
+  Students practice yoga together in a bright campus hall with a calm instructor
+  leading the session.
 ---
 
 The Common Yoga Protocol Training Course is a unique opportunity for yoga enthusiasts to deepen their practice and understanding of yoga. Held on the occasion of the International Day of Yoga 2025, this course is organized by Shree H.V.P. Mandal's Degree College of Physical Education in Amravati, Maharashtra, India. As a multi-faculty autonomous college, Shree H.V.P. Mandal's Degree College offers a comprehensive program that is both educational and enriching for participants.

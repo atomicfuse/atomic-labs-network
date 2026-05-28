@@ -1,25 +1,31 @@
 ---
-title: "Man on Fire Review Brutal Action Thriller Hits Hard"
-description: "Netflix's Man on Fire reimagines John Creasy as a darker, slower-burn streaming thriller, anchored by Yahya Abdul-Mateen II and focused on guilt, violence, revenge, and the cost of protection."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:20:21+00:00"
-author: "Taylor Winters"
+title: Man on Fire Review Brutal Action Thriller Hits Hard
+description: >-
+  Netflix's Man on Fire reimagines John Creasy as a darker, slower-burn
+  streaming thriller, anchored by Yahya Abdul-Mateen II and focused on guilt,
+  violence, revenge, and the cost of protection.
+type: standard
+status: published
+publishDate: '2026-04-30T08:20:21+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-  - "TV"
-slug: "man-on-fire-review-brutal-action-thriller-hits-hard"
+  - Reviews
+  - TV
+slug: man-on-fire-review-brutal-action-thriller-hits-hard
 reading_time: 7
-source_url: "https://tvshowbox.com/man-on-fire-review-brutal-action-thriller-hits-hard/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/man-on-fire-review-brutal-action-thriller-hits-hard/'
+imported_from: wordpress
 wp_original_id: 24102
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/man-on-fire-review-brutal-action-thriller-hits-hard.webp
 seo:
-  canonical: "https://tvshowbox.com/man-on-fire-review-brutal-action-thriller-hits-hard/"
-  og_title: "Man on Fire Review Brutal Action Thriller Hits Hard - TV Show Box"
-  og_description: "Netflix’s Man on Fire reimagines John Creasy as a darker, slower-burn streaming thriller, anchored by Yahya Abdul-Mateen II and focused on guilt, violence, revenge, and the cost of protection."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/04/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/man-on-fire-review-brutal-action-thriller-hits-hard/'
+  og_title: Man on Fire Review Brutal Action Thriller Hits Hard - TV Show Box
+  og_description: >-
+    Netflix’s Man on Fire reimagines John Creasy as a darker, slower-burn
+    streaming thriller, anchored by Yahya Abdul-Mateen II and focused on guilt,
+    violence, revenge, and the cost of protection.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/04/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 85
@@ -27,7 +33,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 75
   keyword_relevance: 95
-quality_note: "Strong entertainment review with excellent tone and keyword coverage, though some claims about the Netflix series appear potentially fabricated or speculative."
+quality_note: >-
+  Strong entertainment review with excellent tone and keyword coverage, though
+  some claims about the Netflix series appear potentially fabricated or
+  speculative.
+image_alt: >-
+  A wounded protector stands in a rain-soaked alley lit by distant fire and cold
+  blue shadows.
 ---
 
 Netflix's Man on Fire arrives with familiar ingredients: a damaged protector, a dangerous mission, and a story built around guilt, violence, and redemption. The new series revisits John Creasy, the bruised antihero from A.J. Quinnell's novels, while stepping out from the long shadow of the 2004 film starring Denzel Washington. Instead of retelling that movie beat for beat, the show expands the character's world across a broader international thriller.

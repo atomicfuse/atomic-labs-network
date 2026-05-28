@@ -1,24 +1,30 @@
 ---
-title: "Bigfoot DNA Evidence: David Paulides Reveals New Insights"
-description: ""
-type: "standard"
+title: 'Bigfoot DNA Evidence: David Paulides Reveals New Insights'
+description: ''
+type: standard
 status: published
-publishDate: "2025-12-22T11:42:40+00:00"
-author: "Blake Anderson"
+publishDate: '2025-12-22T11:42:40+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "bigfoot-dna-evidence-david-paulides-reveals-new-insights-2"
+  - Deep Dives
+slug: bigfoot-dna-evidence-david-paulides-reveals-new-insights-2
 reading_time: 4
-source_url: "https://stroylab.com/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2/
+imported_from: wordpress
 wp_original_id: 752
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2.webp
 seo:
-  canonical: "https://stroylab.com/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2/"
-  og_title: "Bigfoot DNA Evidence: David Paulides Reveals New Insights - StroyLab"
-  og_description: "The global economic landscape is shifting due to geopolitical factors, affecting market dynamics. Trade policy changes, technological advancements, and geopolitical tensions impact businesses and investors, emphasizing the need for strategic decision-making in a volatile environment."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-223.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2/
+  og_title: 'Bigfoot DNA Evidence: David Paulides Reveals New Insights - StroyLab'
+  og_description: >-
+    The global economic landscape is shifting due to geopolitical factors,
+    affecting market dynamics. Trade policy changes, technological advancements,
+    and geopolitical tensions impact businesses and investors, emphasizing the
+    need for strategic decision-making in a volatile environment.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-223.jpeg'
+  twitter_card: summary_large_image
 quality_score: 40
 score_breakdown:
   seo_quality: 15
@@ -26,7 +32,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "Article completely mismatches the promised title and site focus - discusses global economics instead of Bigfoot/paranormal content, making it irrelevant despite decent length and factual accuracy."
+quality_note: >-
+  Article completely mismatches the promised title and site focus - discusses
+  global economics instead of Bigfoot/paranormal content, making it irrelevant
+  despite decent length and factual accuracy.
+image_alt: >-
+  Gloved hand holding a sample vial in a misty forest near faint tracks in damp
+  soil
 ---
 
 ​

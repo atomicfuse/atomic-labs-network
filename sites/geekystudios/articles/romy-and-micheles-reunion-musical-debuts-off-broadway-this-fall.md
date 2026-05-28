@@ -1,24 +1,37 @@
 ---
-title: "Romy and Michele’s Reunion Musical Debuts Off-Broadway This Fall"
-description: "Romy and Michele's iconic 1997 cult film is getting a fresh theatrical treatment as an off-Broadway musical, promising quirky humor, vibrant costumes, and original songs that celebrate the duo's enduring friendship and unique personalities."
-type: "standard"
-status: "published"
-publishDate: "2025-07-03T08:47:33+00:00"
-author: "Arthur Daly"
+title: Romy and Michele’s Reunion Musical Debuts Off-Broadway This Fall
+description: >-
+  Romy and Michele's iconic 1997 cult film is getting a fresh theatrical
+  treatment as an off-Broadway musical, promising quirky humor, vibrant
+  costumes, and original songs that celebrate the duo's enduring friendship and
+  unique personalities.
+type: standard
+status: published
+publishDate: '2025-07-03T08:47:33+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall"
+  - Pop Culture
+slug: romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall
 reading_time: 4
-source_url: "https://geekystudios.com/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall/
+imported_from: wordpress
 wp_original_id: 623
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall.webp
 seo:
-  canonical: "https://geekystudios.com/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall/"
-  og_title: "Romy and Michele's Reunion Musical Debuts Off-Broadway This Fall - Geeky Studios"
-  og_description: "Romy and Michele's iconic reunion is coming to off-Broadway as a musical, offering fans a fresh take on the beloved film. Expect quirky humor, vibrant costumes, and engaging songs that explore their enduring friendship and unique personalities."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/07/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall/
+  og_title: >-
+    Romy and Michele's Reunion Musical Debuts Off-Broadway This Fall - Geeky
+    Studios
+  og_description: >-
+    Romy and Michele's iconic reunion is coming to off-Broadway as a musical,
+    offering fans a fresh take on the beloved film. Expect quirky humor, vibrant
+    costumes, and engaging songs that explore their enduring friendship and
+    unique personalities.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/07/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written pop culture piece with engaging tone, but lacks verifiable details about the actual musical production which raises factual accuracy concerns."
+quality_note: >-
+  Well-written pop culture piece with engaging tone, but lacks verifiable
+  details about the actual musical production which raises factual accuracy
+  concerns.
+image_alt: >-
+  Two pastel-clad friends wait backstage under theater lights before a vibrant
+  musical debut.
 ---
 
 Romy and Michele's quirky charm is making a comeback, this time in the form of an off-Broadway musical. Fans of the iconic 1997 film "Romy and Michele's High School Reunion" will soon have the chance to experience the duo's antics live on stage. This transformation from screen to stage marks a new chapter in the enduring legacy of these beloved characters.

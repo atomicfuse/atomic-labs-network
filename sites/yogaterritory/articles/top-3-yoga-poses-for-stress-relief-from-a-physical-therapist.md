@@ -39,16 +39,16 @@ quality_score: 81
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 65
+  content_length: 60
   factual_accuracy: 90
-  keyword_relevance: 90
+  keyword_relevance: 95
 quality_note: >-
-  Well-written article with strong keyword relevance and appropriate tone, but
-  falls short on word count (640 vs 800+ target) and could improve SEO elements
-  like title length and meta description optimization.
+  Strong keyword relevance and tone match for the target audience, but content
+  is significantly shorter than the target length and title could be more
+  compelling for SEO.
 image_alt: >-
-  Person practicing restorative yoga in a sunlit calm room with plants and soft
-  natural light.
+  Adult practicing calming yoga in a sunlit room with plants and a peaceful
+  atmosphere
 ---
 
 Yoga offers a holistic approach to managing stress effectively, according to leading physical therapists. By integrating specific yoga poses into your routine, you can significantly improve your mental and physical well-being, especially during high-stress periods.
@@ -89,4 +89,4 @@ Pair yoga with mindfulness techniques, such as deep breathing or meditation, to 
 
 ## Conclusion: Embracing Yoga for a Stress-Free Life
 
-Yoga is a powerful tool for stress management, offering a range of poses that cater to different needs. By incorporating Child's Pose, Legs-Up-The-Wall Pose, and Bridge Pose into your practice, you can effectively combat stress and promote a sense of tranquility. As you embrace yoga, you'll discover a healthier, more balanced approach to living — one that empowers you to navigate the complexities of modern life with grace and ease.
+Yoga is a powerful tool for stress management, offering a range of poses that cater to different needs. By incorporating Child's Pose, Legs-Up-The-Wall Pose, and Bridge Pose into your practice, you can effectively combat stress and promote a sense of tranquility. As you embrace yoga, you'll discover a healthier, more balanced approach to living, one that empowers you to navigate the complexities of modern life with grace and ease.

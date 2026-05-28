@@ -1,4 +1,4 @@
 enabled: true
 run_at_hours:
-  - 9
+  - 7
 timezone: EST

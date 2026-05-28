@@ -1,26 +1,38 @@
 ---
-title: "Essential Travel Tips for Patriots Fans Flying to Super Bowl LX"
-description: "As New England Patriots fans prepare for Super Bowl LX, early flight booking and knowing TSA guidelines are crucial. Arriving early at the airport and staying informed about your flight ensure a smooth journey to Levi's Stadium."
-type: "standard"
+title: Essential Travel Tips for Patriots Fans Flying to Super Bowl LX
+description: >-
+  As New England Patriots fans prepare for Super Bowl LX, early flight booking
+  and knowing TSA guidelines are crucial. Arriving early at the airport and
+  staying informed about your flight ensure a smooth journey to Levi's Stadium.
+type: standard
 status: published
-publishDate: "2026-02-05T09:23:31+00:00"
-author: "Taylor Winters"
+publishDate: '2026-02-05T09:23:31+00:00'
+author: Taylor Winters
 tags:
-  - "Advice"
-  - "Tips"
-  - "Travel"
-slug: "essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx"
+  - Advice
+  - Tips
+  - Travel
+slug: essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx
 reading_time: 4
-source_url: "https://travelclearly.com/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx/
+imported_from: wordpress
 wp_original_id: 36618
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: >-
+  /assets/images/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx.webp
 seo:
-  canonical: "https://travelclearly.com/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx/"
-  og_title: "Essential Travel Tips for Patriots Fans Flying to Super Bowl LX - Travel Clearly"
-  og_description: "As New England Patriots fans prepare for Super Bowl LX, early flight booking and knowing TSA guidelines are crucial. Arriving early at the airport and staying informed about your flight ensure a smooth journey to Levi's Stadium."
-  og_image: "https://travelclearly.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx/
+  og_title: >-
+    Essential Travel Tips for Patriots Fans Flying to Super Bowl LX - Travel
+    Clearly
+  og_description: >-
+    As New England Patriots fans prepare for Super Bowl LX, early flight booking
+    and knowing TSA guidelines are crucial. Arriving early at the airport and
+    staying informed about your flight ensure a smooth journey to Levi's
+    Stadium.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "Strong travel advice content with good tone and keyword relevance, but severely undermined by major factual errors including incorrect Super Bowl numbering and venue location."
+quality_note: >-
+  Strong travel advice content with good tone and keyword relevance, but
+  severely undermined by major factual errors including incorrect Super Bowl
+  numbering and venue location.
+image_alt: >-
+  Football fans with luggage head through a sunlit airport terminal before a
+  championship trip.
 ---
 
 As New England Patriots fans eagerly anticipate their journey to Super Bowl LX at Levi's Stadium, planning ahead is essential to ensure a smooth and enjoyable travel experience. Whether you're a seasoned traveler or heading to the game for the first time, understanding the nuances of air travel can make your trip memorable for all the right reasons.

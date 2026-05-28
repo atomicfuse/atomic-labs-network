@@ -1,25 +1,38 @@
 ---
-title: "Uganda’s Export Earnings Surge in October from Coffee and Gold"
-description: "Uganda's export earnings have surged, driven by coffee and gold sectors, highlighting its potential in the global market. Enhanced farming techniques and increased mining activities have bolstered production, contributing significantly to economic growth and foreign exchange reserves."
-type: "standard"
+title: Uganda’s Export Earnings Surge in October from Coffee and Gold
+description: >-
+  Uganda's export earnings have surged, driven by coffee and gold sectors,
+  highlighting its potential in the global market. Enhanced farming techniques
+  and increased mining activities have bolstered production, contributing
+  significantly to economic growth and foreign exchange reserves.
+type: standard
 status: published
-publishDate: "2025-12-18T09:15:42+00:00"
-author: "Taylor Winters"
+publishDate: '2025-12-18T09:15:42+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "ugandas-export-earnings-surge-in-october-from-coffee-and-gold"
+  - Coffee News
+  - News
+slug: ugandas-export-earnings-surge-in-october-from-coffee-and-gold
 reading_time: 3
-source_url: "https://coffeeactually.com/ugandas-export-earnings-surge-in-october-from-coffee-and-gold/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/ugandas-export-earnings-surge-in-october-from-coffee-and-gold/
+imported_from: wordpress
 wp_original_id: 51367
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: >-
+  /assets/images/ugandas-export-earnings-surge-in-october-from-coffee-and-gold.webp
 seo:
-  canonical: "https://coffeeactually.com/ugandas-export-earnings-surge-in-october-from-coffee-and-gold/"
-  og_title: "Uganda's Export Earnings Surge in October from Coffee and Gold - Coffee Actually"
-  og_description: "Uganda's export earnings have surged, driven by coffee and gold sectors, highlighting its potential in the global market. Enhanced farming techniques and increased mining activities have bolstered production, contributing significantly to economic growth and foreign exchange reserves."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/12/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/ugandas-export-earnings-surge-in-october-from-coffee-and-gold/
+  og_title: >-
+    Uganda's Export Earnings Surge in October from Coffee and Gold - Coffee
+    Actually
+  og_description: >-
+    Uganda's export earnings have surged, driven by coffee and gold sectors,
+    highlighting its potential in the global market. Enhanced farming techniques
+    and increased mining activities have bolstered production, contributing
+    significantly to economic growth and foreign exchange reserves.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/12/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: "Well-written coffee news article with good tone and keyword relevance, but falls short on length (535 words vs 800-1200 target) and lacks specific data to support claims."
+quality_note: >-
+  Well-written coffee news article with good tone and keyword relevance, but
+  falls short on length (535 words vs 800-1200 target) and lacks specific data
+  to support claims.
+image_alt: >-
+  Coffee beans and gold-toned minerals arranged in a refined editorial still
+  life
 ---
 
 Uganda has experienced a substantial increase in its export earnings, demonstrating impressive growth particularly in the sectors of coffee and gold. This surge in revenue highlights the country's potential as a key player in the global market, driven by strategic investments and favorable trade conditions.
