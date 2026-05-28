@@ -1,24 +1,37 @@
 ---
-title: "Wikipedia Celebrates 25 Years: Insights from Volunteer Editors"
-description: "Wikipedia, nearing its 25th anniversary, exemplifies the power of collaboration and innovation in information sharing. From a small project, it has grown into a global knowledge hub with over 55 million articles in more than 300 languages."
-type: "standard"
+title: 'Wikipedia Celebrates 25 Years: Insights from Volunteer Editors'
+description: >-
+  Wikipedia, nearing its 25th anniversary, exemplifies the power of
+  collaboration and innovation in information sharing. From a small project, it
+  has grown into a global knowledge hub with over 55 million articles in more
+  than 300 languages.
+type: standard
 status: published
-publishDate: "2026-01-15T10:37:25+00:00"
-author: "Arthur Daly"
+publishDate: '2026-01-15T10:37:25+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "wikipedia-celebrates-25-years-insights-from-volunteer-editors"
+  - Tech
+slug: wikipedia-celebrates-25-years-insights-from-volunteer-editors
 reading_time: 3
-source_url: "https://geekystudios.com/wikipedia-celebrates-25-years-insights-from-volunteer-editors/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/wikipedia-celebrates-25-years-insights-from-volunteer-editors/
+imported_from: wordpress
 wp_original_id: 688
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/wikipedia-celebrates-25-years-insights-from-volunteer-editors.webp
 seo:
-  canonical: "https://geekystudios.com/wikipedia-celebrates-25-years-insights-from-volunteer-editors/"
-  og_title: "Wikipedia Celebrates 25 Years: Insights from Volunteer Editors - Geeky Studios"
-  og_description: "Wikipedia, nearing its 25th anniversary, exemplifies the power of collaboration and innovation in information sharing. From a small project, it has grown into a global knowledge hub with over 55 million articles in more than 300 languages."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/01/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/wikipedia-celebrates-25-years-insights-from-volunteer-editors/
+  og_title: >-
+    Wikipedia Celebrates 25 Years: Insights from Volunteer Editors - Geeky
+    Studios
+  og_description: >-
+    Wikipedia, nearing its 25th anniversary, exemplifies the power of
+    collaboration and innovation in information sharing. From a small project,
+    it has grown into a global knowledge hub with over 55 million articles in
+    more than 300 languages.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/01/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +39,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: "Well-written tech article with good tone and accuracy, but significantly under target word count at 472 words, limiting its overall effectiveness."
+quality_note: >-
+  Well-written tech article with good tone and accuracy, but significantly under
+  target word count at 472 words, limiting its overall effectiveness.
+image_alt: >-
+  Hands and laptops surround a glowing network of knowledge fragments forming a
+  collaborative digital globe.
 ---
 
 Wikipedia has become an integral part of the digital landscape, offering a vast repository of knowledge accessible to anyone with an internet connection. As this remarkable platform approaches its 25th anniversary, it is worth reflecting on its evolution and impact on the world of information sharing. Wikipedia's journey from a simple online encyclopedia to a global knowledge hub is a testament to the power of collaboration and innovation.
