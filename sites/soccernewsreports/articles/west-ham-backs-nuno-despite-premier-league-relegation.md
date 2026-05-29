@@ -23,7 +23,7 @@ source_url: >-
   https://kdhnews.com/sports/soccer/nuno-to-remain-west-ham-manager-despite-premier-league-relegation/article_2450c368-1172-5b83-98c0-742bc16654fd.html
 source_item_id: 6a16d5d48c60bc3c84eb2cf3
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/west-ham-backs-nuno-despite-premier-league-relegation.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   factual error as West Ham was not relegated from the Premier League, and the
   content is too short at 511 words.
 reading_time: 3
+image_alt: >-
+  Football manager stands on a rainy touchline facing an empty stadium after a
+  difficult season.
 ---
 ## West Ham Stands by Nuno After Relegation
 
