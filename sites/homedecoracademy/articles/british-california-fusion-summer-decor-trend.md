@@ -22,7 +22,7 @@ source_url: >-
   https://www.homesandgardens.com/interior-design/the-very-british-edit-summer-styling
 source_item_id: 6a152fda16f23264031d81f9
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/british-california-fusion-summer-decor-trend.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   800-1200 target) and lacks specific SEO optimization elements like meta
   description within range and clear keyword integration.
 reading_time: 3
+image_alt: >-
+  Airy summer kitchen blending British refinement with coastal textures and
+  California indoor-outdoor ease.
 ---
 ## The Rise of Travel-Inspired Summer Decorating
 
