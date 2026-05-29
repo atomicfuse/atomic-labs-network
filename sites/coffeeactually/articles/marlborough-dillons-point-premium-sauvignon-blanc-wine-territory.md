@@ -23,7 +23,8 @@ source_url: >-
   https://www.forbes.com/sites/jeanettehurt/2026/05/25/what-was-once-a-backwater-has-become-prime-sauvignon-blanc-real-estate/
 source_item_id: 6a14fea216f23264031d8042
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/marlborough-dillons-point-premium-sauvignon-blanc-wine-territory.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 25
@@ -36,6 +37,9 @@ quality_note: >-
   misaligned with coffee site's focus and SEO strategy despite forced coffee
   mentions.
 reading_time: 3
+image_alt: >-
+  Coastal vineyard rows transition from rough farmland toward distant hills and
+  sea haze at golden hour.
 ---
 ## From Backwater to Wine Haven
 
