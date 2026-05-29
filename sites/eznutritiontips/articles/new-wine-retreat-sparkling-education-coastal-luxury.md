@@ -22,7 +22,7 @@ source_url: >-
   https://jameslanepost.com/new-york-champagne-week-x-the-fizz-is-female-present-sip-sea-a-wine-lifestyle-trip/05/27/2026/Hamptons-News-Happenings
 source_item_id: 6a182f750fc9210eaf31ab1b
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/new-wine-retreat-sparkling-education-coastal-luxury.webp
 quality_score: 56
 score_breakdown:
   seo_quality: 35
@@ -35,6 +35,9 @@ quality_note: >-
   nutrition/health topics core to the site, with weak SEO optimization and poor
   keyword alignment.
 reading_time: 3
+image_alt: >-
+  Sparkling wine, oysters, and caviar on a sunlit coastal terrace near vineyards
+  and sailboats.
 ---
 ## A New Era of Wine Tourism
 
