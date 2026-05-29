@@ -19,7 +19,7 @@ source_url: >-
   https://www.soglos.com/interview/family/enrichment-throughout-the-day-can-make-a-big-difference-to-their-wellbeing--how-to-stop-your-dog-from-getting-bored/25596/
 source_item_id: 6a19164a1e60b3e9a22085d1
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/prevent-dog-boredom-expert-enrichment-tips.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   short on length and lacks specific actionable details despite being a how-to
   piece.
 reading_time: 3
+image_alt: 'Happy dog playing with enrichment toys in a warm, sunlit home setting'
 ---
 ## Why Dog Enrichment Matters More Than Ever
 
