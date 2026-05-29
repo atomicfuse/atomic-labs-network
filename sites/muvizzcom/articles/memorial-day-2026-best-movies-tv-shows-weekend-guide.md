@@ -21,7 +21,7 @@ source_url: >-
   https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-memorial-day-2026.html
 source_item_id: 6a13f84e16f23264031d7abb
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: /assets/images/memorial-day-2026-best-movies-tv-shows-weekend-guide.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong topic relevance and decent tone, but significantly undermined by
   fabricated future content claims and below-target word count.
 reading_time: 3
+image_alt: >-
+  Three viewers sit in a golden room surrounded by abstract screens suggesting a
+  weekend watchlist.
 ---
 ## Your Complete Memorial Day Weekend Entertainment Guide
 
