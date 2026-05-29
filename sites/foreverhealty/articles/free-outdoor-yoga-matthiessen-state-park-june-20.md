@@ -20,7 +20,7 @@ source_url: >-
   https://www.shawlocal.com/illinois-valley/2026/05/24/master-naturalists-offer-outdoor-yoga-at-matthiessen-state-park/
 source_item_id: 6a13fc9e16f23264031d7b79
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/free-outdoor-yoga-matthiessen-state-park-june-20.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,7 @@ quality_note: >-
   length (540 words vs 800-1200 target) and could benefit from stronger SEO
   optimization in title and meta description.
 reading_time: 3
+image_alt: Adults practice gentle outdoor yoga in a sunny green state park clearing.
 ---
 ## Nature Meets Wellness This Summer
 
