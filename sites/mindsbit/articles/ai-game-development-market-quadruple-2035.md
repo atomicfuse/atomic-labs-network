@@ -19,7 +19,7 @@ source_url: >-
   https://www.sphericalinsights.com/blogs/ai-powered-game-development-and-procedural-content-creation
 source_item_id: 6a19245a1e60b3e9a220867e
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: /assets/images/ai-game-development-market-quadruple-2035.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong tech content with good keyword coverage but falls short on length at
   526 words versus the 800-1200 word target range.
 reading_time: 3
+image_alt: >-
+  AI-generated game world forming from glowing terrain grids and neural network
+  patterns
 ---
 ## AI Transforms Game Development Into Multi-Billion Dollar Market
 
