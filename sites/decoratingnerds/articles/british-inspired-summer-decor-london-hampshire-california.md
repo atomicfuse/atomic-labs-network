@@ -20,7 +20,7 @@ source_url: >-
   https://www.homesandgardens.com/interior-design/the-very-british-edit-summer-styling
 source_item_id: 6a152fda16f23264031d81f9
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: /assets/images/british-inspired-summer-decor-london-hampshire-california.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on length (638 words vs 800+ target) and has a slightly generic
   title that could be more compelling.
 reading_time: 3
+image_alt: >-
+  Sunlit summer kitchen blending British polish, coastal textures, and
+  California indoor-outdoor ease.
 ---
 ## A Fresh Take on Summer Decorating
 
