@@ -19,7 +19,7 @@ source_url: >-
   https://www.portlandmercury.com/gaming/pigcon-indie-gaming-convention-portland/
 source_item_id: 6a19245a1e60b3e9a2208675
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/pigcon-highlights-portland-indie-game-community.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   on length (506 words vs 800+ target) and could benefit from more specific
   details about PIGCON.
 reading_time: 3
+image_alt: >-
+  Indie game creators and players gather around glowing DIY arcade stations in
+  purple convention light.
 ---
 ## Portland's Indie Scene Takes Center Stage
 
