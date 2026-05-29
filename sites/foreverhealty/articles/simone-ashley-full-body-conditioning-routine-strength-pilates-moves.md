@@ -19,7 +19,8 @@ source_url: >-
   https://www.womenshealthmag.com/uk/fitness/strength-training/a71360368/simone-ashley-strength-conditioning-routine/
 source_item_id: 6a13fc9e16f23264031d7b77
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: >-
+  /assets/images/simone-ashley-full-body-conditioning-routine-strength-pilates-moves.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -32,6 +33,9 @@ quality_note: >-
   length (501 words vs 800-1200 target) and contains some vague claims without
   specific sources.
 reading_time: 3
+image_alt: >-
+  Athletic woman training in a polished studio with strength and Pilates
+  equipment around her.
 ---
 ## Celebrity Fitness Trends Drive Performance-Focused Training
 
