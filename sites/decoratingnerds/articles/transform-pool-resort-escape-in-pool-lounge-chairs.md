@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.travelandtourworld.com/news/article/3cv4xj85q2v6/'
 source_item_id: 6a182f750fc9210eaf31ab18
 generated_by: claude
-featuredImage: /assets/images/decoratingnerds-general-article.webp
+featuredImage: /assets/images/transform-pool-resort-escape-in-pool-lounge-chairs.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   length (593 words vs 800-1200 target) and could benefit from stronger SEO
   optimization including meta description length and more structured headings.
 reading_time: 3
+image_alt: >-
+  Resort-style in-pool lounge chairs on a shallow sun shelf in a modern backyard
+  pool
 ---
 ## Bringing Resort Luxury Home for Less
 
