@@ -19,7 +19,7 @@ source_url: >-
   https://www.thesun.co.uk/money/39216572/sun-savers-pets-heatwave-cool-money-tips-heatwave/
 source_item_id: 6a19164a1e60b3e9a22085e6
 generated_by: claude
-featuredImage: /assets/images/dogpotato-general-article.webp
+featuredImage: /assets/images/budget-friendly-ways-keep-dog-cool-heatwaves.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   short on length and lacks specific implementation details for the cooling
   methods mentioned.
 reading_time: 3
+image_alt: 'Happy dog cooling off indoors with ice, frozen treats, and summer light nearby'
 ---
 ## When the Heat Becomes Unbearable for Pets
 
