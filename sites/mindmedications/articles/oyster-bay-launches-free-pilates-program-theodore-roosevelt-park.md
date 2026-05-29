@@ -20,7 +20,8 @@ source_url: >-
   https://oysterbaytown.com/saladino-announces-registration-for-pilates-in-the-park/
 source_item_id: 6a13fc9f16f23264031d7b89
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: >-
+  /assets/images/oyster-bay-launches-free-pilates-program-theodore-roosevelt-park.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,7 @@ quality_note: >-
   short of ideal length and could benefit from stronger SEO optimization in
   title and meta description.
 reading_time: 3
+image_alt: Community Pilates class stretches on mats in a sunny waterfront park
 ---
 ## Free Saturday Morning Pilates Coming to Theodore Roosevelt Park
 
