@@ -19,7 +19,7 @@ source_url: >-
   https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
 source_item_id: 6a19245a1e60b3e9a220867d
 generated_by: claude
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: /assets/images/best-books-movies-call-the-midwife-fans-season-15.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length requirements and could improve SEO optimization with
   better heading structure.
 reading_time: 3
+image_alt: >-
+  Vintage books, film reel, and women in warm conversation evoke period stories
+  of care and community.
 ---
 ## Finding Your Next Comfort Watch After Call the Midwife
 
