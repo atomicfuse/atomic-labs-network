@@ -19,7 +19,7 @@ source_url: >-
   https://www.forbes.com/sites/kaitlynmcinnis/2026/05/25/the-top-luxury-destinations-for-multigenerational-travel-per-new-analysis/
 source_item_id: 6a14fea216f23264031d8044
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/best-luxury-destinations-multigenerational-family-travel.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   499 words versus the 800-1200 target range.
 reading_time: 2
+image_alt: >-
+  Multigenerational family relaxing on a luxury terrace overlooking a serene
+  coastal landscape
 ---
 ## Growing Trend in Luxury Family Travel
 
