@@ -21,7 +21,7 @@ source_url: >-
   https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
 source_item_id: 6a19245a1e60b3e9a220867d
 generated_by: claude
-featuredImage: /assets/images/buzzsoaps-general-article.webp
+featuredImage: /assets/images/best-books-movies-call-the-midwife-fans.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Solid entertainment content with good keyword usage but falls short on length
   and contains some questionable claims about specific reports and guides.
 reading_time: 2
+image_alt: >-
+  Vintage books, film reel, and care-work details evoke warm period stories and
+  women’s community.
 ---
 ## Finding Your Next Period Drama Fix
 
