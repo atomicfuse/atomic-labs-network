@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-temporary-carbon-climate-goals.html'
 source_item_id: 6a17d0828c60bc3c84eb2dba
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/temporary-carbon-removal-climate-goals-study.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   appropriate tone, but falls short of optimal length and could benefit from
   more specific SEO optimization in the title.
 reading_time: 3
+image_alt: >-
+  Abstract climate accounting scene with methane haze, carbon storage forms, and
+  scientific contour lines.
 ---
 ## The Right Tool for the Right Emission
 
