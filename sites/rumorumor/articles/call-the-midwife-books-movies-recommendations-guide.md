@@ -20,7 +20,7 @@ source_url: >-
   https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
 source_item_id: 6a19245a1e60b3e9a220867d
 generated_by: claude
-featuredImage: /assets/images/rumorumor-general-article.webp
+featuredImage: /assets/images/call-the-midwife-books-movies-recommendations-guide.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong relevance and tone but significantly under target length at 563 words
   versus the 800-1200 word guideline.
 reading_time: 3
+image_alt: >-
+  Vintage books, film reel, and tea on a table as women gather warmly in a
+  period community room.
 ---
 ## Finding Your Next Comfort Watch After 'Call the Midwife'
 
