@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.afar.com/magazine/ssss-on-your-boarding-pass-step-this-way'
 source_item_id: 6a182f740fc9210eaf31aafb
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/ssss-boarding-pass-meaning-how-to-handle.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   significantly below target word count at 562 words versus the 800-1200 target
   range.
 reading_time: 3
+image_alt: >-
+  Calm traveler waiting near airport security as other passengers move through
+  screening lanes
 ---
 ## What Does SSSS Mean on Your Boarding Pass?
 
