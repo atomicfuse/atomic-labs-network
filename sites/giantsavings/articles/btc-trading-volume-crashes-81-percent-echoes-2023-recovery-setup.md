@@ -23,7 +23,8 @@ source_url: >-
   https://news.bitcoin.com/btc-volume-collapse-echoes-setup-before-2023-bullish-recovery/
 source_item_id: 6a17bdc28c60bc3c84eb2d8c
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: >-
+  /assets/images/btc-trading-volume-crashes-81-percent-echoes-2023-recovery-setup.webp
 quality_score: 32
 score_breakdown:
   seo_quality: 25
@@ -36,6 +37,9 @@ quality_note: >-
   finance site focused on saving tips and budgeting, with poor SEO optimization
   and questionable accuracy.
 reading_time: 3
+image_alt: >-
+  Calm bull on a dark trading floor with faint market chart shapes suggesting
+  quiet tension
 ---
 ## Massive Volume Decline Raises Recovery Questions
 
