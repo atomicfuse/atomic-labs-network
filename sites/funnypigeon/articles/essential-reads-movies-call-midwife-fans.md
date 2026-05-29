@@ -24,7 +24,7 @@ source_url: >-
   https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
 source_item_id: 6a19245a1e60b3e9a220867d
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/essential-reads-movies-call-midwife-fans.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 25
@@ -37,6 +37,9 @@ quality_note: >-
   with the site's entertainment focus on funny videos, memes, and viral content
   - this is serious TV/book content for the wrong audience.
 reading_time: 3
+image_alt: >-
+  Vintage books, film reel, teacup, and nurse cardigan in a warm mid-century
+  room
 ---
 ## Finding Your Next Emotional Journey
 
