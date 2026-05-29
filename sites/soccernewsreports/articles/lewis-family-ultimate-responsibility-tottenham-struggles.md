@@ -22,7 +22,7 @@ source_url: >-
   https://www.nytimes.com/athletic/7311705/2026/05/27/tottenham-owners-lewis-family-statement/
 source_item_id: 6a16d5d48c60bc3c84eb2cf1
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/lewis-family-ultimate-responsibility-tottenham-struggles.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   inaccuracies including fabricated 17th-place finishes and false managerial
   information.
 reading_time: 3
+image_alt: >-
+  Solitary suited figure overlooking an empty floodlit football stadium before a
+  rebuild
 ---
 ## Lewis Family Breaks Silence on Tottenham Crisis
 
