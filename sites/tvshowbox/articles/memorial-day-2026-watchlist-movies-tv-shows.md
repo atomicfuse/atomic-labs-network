@@ -22,7 +22,7 @@ source_url: >-
   https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-memorial-day-2026.html
 source_item_id: 6a13f84e16f23264031d7abb
 generated_by: claude
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/memorial-day-2026-watchlist-movies-tv-shows.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Strong tone and keyword relevance but severely undermined by short length and
   highly questionable claims about 2026 content that appears fabricated.
 reading_time: 3
+image_alt: >-
+  A moody living room transformed into a glowing mini-theater for a holiday
+  weekend watchlist.
 ---
 ## A Packed Weekend for Entertainment Lovers
 
