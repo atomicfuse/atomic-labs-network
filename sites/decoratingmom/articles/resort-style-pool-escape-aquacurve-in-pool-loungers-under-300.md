@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: 'https://www.travelandtourworld.com/news/article/3cv4xj85q2v6/'
 source_item_id: 6a182f750fc9210eaf31ab18
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: >-
+  /assets/images/resort-style-pool-escape-aquacurve-in-pool-loungers-under-300.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +36,9 @@ quality_note: >-
   (645 words vs 800-1200 target) and relies heavily on vague sourcing that
   raises credibility concerns.
 reading_time: 3
+image_alt: >-
+  White in-pool loungers on a sun shelf in a stylish backyard pool with
+  resort-inspired decor
 ---
 ## Bringing Resort Luxury Home for Less
 
