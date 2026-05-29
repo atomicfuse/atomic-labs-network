@@ -20,7 +20,7 @@ source_url: >-
   https://www.straitstimes.com/singapore/parenting-education/tiktok-launches-safety-guide-for-singapore-families-encourages-open-conversations-on-screen-use
 source_item_id: 6a167f028c60bc3c84eb2ce6
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/tiktok-launches-family-safety-guide-singapore-parents.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   (465 words vs 800-1200 target) and could benefit from stronger SEO
   optimization.
 reading_time: 2
+image_alt: >-
+  Parent and teen discuss phone use at a kitchen table with a safety checklist
+  nearby.
 ---
 ## New Resource Aims to Bridge Parent-Teen Digital Divide
 
