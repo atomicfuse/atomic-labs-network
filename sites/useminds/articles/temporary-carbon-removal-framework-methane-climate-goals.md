@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://phys.org/news/2026-05-temporary-carbon-climate-goals.html'
 source_item_id: 6a17d0828c60bc3c84eb2dba
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/temporary-carbon-removal-framework-methane-climate-goals.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   (667 words vs 800-1200 target) and has a moderate SEO title that could be more
   compelling for the target audience.
 reading_time: 3
+image_alt: >-
+  Glass hourglass holding carbon particles as methane-like bubbles drift above
+  distant farmland.
 ---
 ## Revolutionary Approach to Carbon Accounting
 
