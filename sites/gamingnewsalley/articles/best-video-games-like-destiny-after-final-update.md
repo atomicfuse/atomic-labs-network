@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.svg.com/2181538/best-video-games-like-destiny/'
 source_item_id: 6a19245a1e60b3e9a2208674
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/best-video-games-like-destiny-after-final-update.webp
 quality_score: 49
 score_breakdown:
   seo_quality: 45
@@ -35,6 +35,9 @@ quality_note: >-
   short, poor SEO structure, and major factual inaccuracies about Destiny's
   status.
 reading_time: 3
+image_alt: >-
+  Armored sci-fi players face five glowing paths to alien worlds in a neon-lit
+  hangar.
 ---
 ## Destiny's Sunset Creates New Opportunities for Similar Games
 
