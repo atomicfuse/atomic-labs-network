@@ -20,7 +20,7 @@ source_url: >-
   https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
 source_item_id: 6a19245a1e60b3e9a220867d
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/call-the-midwife-fans-books-movies-recommendations.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   on length and contains some questionable factual claims about the show's
   season count.
 reading_time: 3
+image_alt: >-
+  Women gather in a warm vintage room with books, tea, a film projector, and
+  mid-century care details.
 ---
 ## Finding Your Next Comfort Watch and Read
 
