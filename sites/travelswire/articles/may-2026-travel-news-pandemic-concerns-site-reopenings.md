@@ -23,7 +23,7 @@ source_url: >-
   https://www.travelpulse.com/news/destinations/pandemic-fears-reopening-tourist-sites-and-more-top-destination-news-from-may
 source_item_id: 6a182f740fc9210eaf31aaf6
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/may-2026-travel-news-pandemic-concerns-site-reopenings.webp
 quality_score: 57
 score_breakdown:
   seo_quality: 45
@@ -36,6 +36,9 @@ quality_note: >-
   events when it's a future date, lacks specific actionable travel information,
   and has weak SEO optimization despite covering relevant travel topics.
 reading_time: 3
+image_alt: >-
+  Travelers enter a reopened city park destination with luggage and subtle
+  health precautions.
 ---
 ## May's Major Travel Headlines Shape Summer Planning
 
