@@ -22,7 +22,7 @@ source_url: >-
   https://www.forbes.com/sites/poojashah/2026/05/25/the-high-school-graduates-guide-for-skin-and-overall-wellness/
 source_item_id: 6a14fea216f23264031d803f
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/college-bound-students-essential-wellness-skincare-prep.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   short of target word count and relies heavily on vague 'according to reports'
   claims without specific sources.
 reading_time: 3
+image_alt: >-
+  Sunlit college prep scene with skincare, wellness items, graduation cap, and
+  open suitcase
 ---
 ## Building Wellness Habits Before Campus Life Begins
 
