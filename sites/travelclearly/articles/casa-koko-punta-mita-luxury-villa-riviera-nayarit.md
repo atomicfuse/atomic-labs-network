@@ -23,7 +23,7 @@ source_url: >-
   https://www.forbes.com/sites/coreincarter/2026/05/25/inside-casa-koko-the-luxury-rivieria-nayarit-escape-of-the-summer/
 source_item_id: 6a14fea216f23264031d803b
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/casa-koko-punta-mita-luxury-villa-riviera-nayarit.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   content, but falls short on word count and relies heavily on vague 'reports'
   without specific sources, which undermines credibility.
 reading_time: 3
+image_alt: >-
+  Secluded tropical villa at twilight with an infinity pool, palms, and warm
+  interior lights near the ocean
 ---
 ## The Rise of Private Villa Luxury
 
