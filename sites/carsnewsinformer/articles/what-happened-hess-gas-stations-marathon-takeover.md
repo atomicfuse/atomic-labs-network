@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://www.slashgear.com/2180355/what-happened-to-hess-gas-stations/'
 source_item_id: 6a165bda8c60bc3c84eb2cd3
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: /assets/images/what-happened-hess-gas-stations-marathon-takeover.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 25
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article about gas station industry but completely off-topic for
   an automotive site focused on cars, electric vehicles, and automotive reviews.
 reading_time: 3
+image_alt: >-
+  Blank roadside gas station sign at dusk with a small toy tanker truck in the
+  foreground
 ---
 ## The Disappearance of a Gas Station Giant
 
