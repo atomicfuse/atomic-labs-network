@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://abcnews.com/lifestyle'
 source_item_id: 6a182f740fc9210eaf31ab00
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/daily-lifestyle-news-roundup-parenting-family-trends.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   reliance on vague 'according to reports' citations without sources and
   below-target word count.
 reading_time: 3
+image_alt: >-
+  Modern family table with devices, coffee, kids supplies, food, and lifestyle
+  objects arranged like a daily news hub.
 ---
 ## The New Reality of Lifestyle News Consumption
 
