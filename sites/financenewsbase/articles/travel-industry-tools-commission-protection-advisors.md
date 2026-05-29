@@ -24,7 +24,7 @@ source_url: >-
   https://www.travelpulse.com/news/agents/asta-2026-conference-highlights-new-measures-for-travel-advisor-protection-business-growth
 source_item_id: 6a182f730fc9210eaf31aaee
 generated_by: claude
-featuredImage: /assets/images/financenewsbase-general-article.webp
+featuredImage: /assets/images/travel-industry-tools-commission-protection-advisors.webp
 quality_score: 58
 score_breakdown:
   seo_quality: 75
@@ -38,6 +38,9 @@ quality_note: >-
   conference) and focuses on travel industry specifics rather than the site's
   core finance topics.
 reading_time: 3
+image_alt: >-
+  Travel advisor reviews digital booking tools with subtle protection graphics
+  at a professional conference.
 ---
 ## New Industry Initiatives Address Advisor Revenue Challenges
 
