@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: 'https://www.slashgear.com/2180355/what-happened-to-hess-gas-stations/'
 source_item_id: 6a165bda8c60bc3c84eb2cd3
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/what-happened-hess-gas-stations-marathon-speedway-conversion.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -34,6 +35,7 @@ quality_note: >-
   length and doesn't align well with the automotive site's focus areas of
   electric cars, reviews, and concept cars.
 reading_time: 3
+image_alt: Blank roadside gas station sign with a collectible toy truck on sunlit asphalt
 ---
 ## The Disappearance of a Gas Station Giant
 
