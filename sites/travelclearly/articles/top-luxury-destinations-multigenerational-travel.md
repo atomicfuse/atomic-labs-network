@@ -21,7 +21,7 @@ source_url: >-
   https://www.forbes.com/sites/kaitlynmcinnis/2026/05/25/the-top-luxury-destinations-for-multigenerational-travel-per-new-analysis/
 source_item_id: 6a14fea216f23264031d8044
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/top-luxury-destinations-multigenerational-travel.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong keyword relevance and tone, but significantly under target word count
   and contains questionable claims about Kuoda analysis without verification.
 reading_time: 3
+image_alt: >-
+  Extended family relaxing on a luxury terrace overlooking turquoise water and
+  lush travel scenery.
 ---
 ## The Rise of Multigenerational Luxury Travel
 
