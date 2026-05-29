@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-temporary-carbon-climate-goals.html'
 source_item_id: 6a17d0828c60bc3c84eb2dba
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/temporary-carbon-removal-climate-goals-study.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   short on length and could better incorporate the site's broader tech/pop
   culture focus.
 reading_time: 3
+image_alt: >-
+  Abstract climate accounting scene balancing methane plumes with temporary
+  carbon storage layers
 ---
 ## The Right Tool for the Right Emission
 
