@@ -19,7 +19,7 @@ source_url: >-
   https://ftnnews.com/travel-news/technology/tiktok-launches-lifestyle-platform-in-indonesia-japan-and-the-u-s/
 source_item_id: 6a182f740fc9210eaf31ab0c
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/tiktok-go-travel-booking-us-japan-expansion.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written article with good tone and accuracy, but falls short on length
   and could better integrate target keywords for gadgets/gaming audience.
 reading_time: 3
+image_alt: >-
+  Smartphone interface blending social video cards with hotel, dining, and city
+  travel scenes
 ---
 ## TikTok Transforms Travel Discovery into Direct Bookings
 
