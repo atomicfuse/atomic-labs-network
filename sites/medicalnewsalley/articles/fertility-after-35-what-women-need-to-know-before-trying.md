@@ -19,7 +19,7 @@ source_url: >-
   https://www.hindustantimes.com/lifestyle/health/thinking-of-having-a-baby-between-35-and-40-fertility-specialist-shares-what-women-need-to-know-101780026557207.html
 source_item_id: 6a1922011e60b3e9a2208658
 generated_by: claude
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: /assets/images/fertility-after-35-what-women-need-to-know-before-trying.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   800-1200 target) and relies heavily on vague 'reports' without specific
   citations.
 reading_time: 3
+image_alt: >-
+  Woman in her late 30s planning quietly at a sunlit table with tea, flowers,
+  and a calm hopeful atmosphere.
 ---
 ## The New Normal: Motherhood After 35
 
