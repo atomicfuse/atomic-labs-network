@@ -22,7 +22,8 @@ source_url: >-
   https://www.tennessean.com/story/entertainment/music/2026/05/28/cma-fest-parking-travel-transit-tips/90147703007/
 source_item_id: 6a182f740fc9210eaf31aafa
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: >-
+  /assets/images/cma-fest-2026-transportation-guide-parking-trains-nashville.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 75
@@ -35,6 +36,9 @@ quality_note: >-
   too short (645 words vs 800-1200 target) and contains vague, unsupported
   claims about festival details without credible sources.
 reading_time: 3
+image_alt: >-
+  Festivalgoers navigate downtown Nashville by train, parking garage, and
+  pedestrian bridge at golden hour.
 ---
 ## Getting Ready for CMA Fest 2026
 
