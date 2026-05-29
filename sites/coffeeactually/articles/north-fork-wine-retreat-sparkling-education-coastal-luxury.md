@@ -23,7 +23,7 @@ source_url: >-
   https://jameslanepost.com/new-york-champagne-week-x-the-fizz-is-female-present-sip-sea-a-wine-lifestyle-trip/05/27/2026/Hamptons-News-Happenings
 source_item_id: 6a182f750fc9210eaf31ab1b
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/north-fork-wine-retreat-sparkling-education-coastal-luxury.webp
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   lacks proper SEO optimization with a too-long title and missing meta
   description.
 reading_time: 3
+image_alt: >-
+  Sparkling wine, oysters, and caviar on a coastal vineyard terrace near a
+  marina
 ---
 ## New Wine Lifestyle Experience Debuts on Long Island
 
