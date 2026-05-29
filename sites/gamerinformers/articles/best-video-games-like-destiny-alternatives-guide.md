@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.svg.com/2181538/best-video-games-like-destiny/'
 source_item_id: 6a19245a1e60b3e9a2208674
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: /assets/images/best-video-games-like-destiny-alternatives-guide.webp
 quality_score: 53
 score_breakdown:
   seo_quality: 45
@@ -34,6 +34,7 @@ quality_note: >-
   inaccuracies about Destiny ending, poor content length, and weak SEO
   optimization.
 reading_time: 3
+image_alt: Three futuristic armored explorers face glowing portals to new alien worlds.
 ---
 ## Destiny's Final Chapter Opens Door for New Adventures
 
