@@ -23,7 +23,7 @@ source_url: >-
   https://www.tennessean.com/story/entertainment/music/2026/05/28/cma-fest-parking-travel-transit-tips/90147703007/
 source_item_id: 6a182f740fc9210eaf31aafa
 generated_by: claude
-featuredImage: /assets/images/buzzsoaps-general-article.webp
+featuredImage: /assets/images/cma-fest-2026-transportation-guide-parking-trains-tips.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,9 @@ quality_note: >-
   of specific details, and limited alignment with entertainment-focused content
   guidelines.
 reading_time: 3
+image_alt: >-
+  Festivalgoers navigate downtown Nashville transit routes toward a stadium at
+  sunset.
 ---
 ## Getting Ready for CMA Fest 2026
 
