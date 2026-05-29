@@ -23,7 +23,8 @@ source_url: >-
   https://news.bitcoin.com/trump-vows-crypto-market-structure-law-that-cannot-be-undone/
 source_item_id: 6a17bdc28c60bc3c84eb2d8e
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: >-
+  /assets/images/trump-promises-future-proof-crypto-law-shield-digital-assets.webp
 quality_score: 43
 score_breakdown:
   seo_quality: 25
@@ -36,6 +37,7 @@ quality_note: >-
   regulation rather than practical money-saving tips, with poor SEO optimization
   and mismatched audience targeting.
 reading_time: 3
+image_alt: Abstract digital assets protected in a glass vault before government columns
 ---
 ## Trump Vows Permanent Crypto Framework
 
