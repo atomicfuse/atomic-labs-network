@@ -20,7 +20,7 @@ source_url: >-
   https://www.aol.com/news/jewell-jems-introduction-benefits-pilates-163726771.html
 source_item_id: 6a13fc9e16f23264031d7b7a
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/pilates-low-impact-workout-full-body-results.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   tone, but falls short on word count and could benefit from more specific SEO
   optimization.
 reading_time: 3
+image_alt: >-
+  Pilates class in a bright boutique studio practicing controlled poses on muted
+  mats
 ---
 ## The Rise of Gentle Yet Effective Exercise
 
