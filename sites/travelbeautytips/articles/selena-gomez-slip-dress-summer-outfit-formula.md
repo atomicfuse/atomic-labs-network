@@ -20,7 +20,7 @@ reviewer_notes: >-
 source_url: 'https://www.glamour.com/story/selena-gomez-slip-dress-outfit-formula'
 source_item_id: 6a14fea216f23264031d8040
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/selena-gomez-slip-dress-summer-outfit-formula.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-written style content with good tone but falls short on length and
   contains some questionable claims about 'summer 2026' and unverified reports.
 reading_time: 2
+image_alt: >-
+  Woman in an ivory slip dress, cropped cardigan, and woven flats on a sunny
+  city street.
 ---
 ## The Celebrity-Approved Summer Styling Solution
 
