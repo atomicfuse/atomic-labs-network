@@ -23,7 +23,7 @@ source_url: >-
   https://www.portlandmercury.com/gaming/pigcon-indie-gaming-convention-portland/
 source_item_id: 6a19245a1e60b3e9a2208675
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: /assets/images/pigcon-showcases-portland-indie-game-community.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   content, but lacks specific factual details and falls short of target word
   count.
 reading_time: 3
+image_alt: >-
+  Indie game creators gather around glowing retro monitors in a colorful
+  convention setting.
 ---
 ## Portland's Indie Scene Takes the Spotlight
 
