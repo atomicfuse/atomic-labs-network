@@ -18,7 +18,8 @@ source_url: >-
   https://www.fitandwell.com/exercise/pilates/i-asked-a-certified-instructor-if-it-was-possible-to-do-a-reformer-pilates-workout-without-a-reformer-heres-what-she-suggests
 source_item_id: 6a13fc9e16f23264031d7b7b
 generated_by: claude
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: >-
+  /assets/images/reformer-pilates-at-home-expert-shows-budget-friendly-workout.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,9 @@ quality_note: >-
   falls short on length and could benefit from stronger SEO optimization in
   headings and meta description.
 reading_time: 3
+image_alt: >-
+  Woman doing a slider Pilates lunge in a sunlit living room with resistance
+  bands nearby
 ---
 ## The Rise of Reformer Pilates and Its Accessibility Challenge
 
