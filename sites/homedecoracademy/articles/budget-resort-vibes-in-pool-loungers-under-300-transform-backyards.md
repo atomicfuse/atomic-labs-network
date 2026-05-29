@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: 'https://www.travelandtourworld.com/news/article/3cv4xj85q2v6/'
 source_item_id: 6a182f750fc9210eaf31ab18
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: >-
+  /assets/images/budget-resort-vibes-in-pool-loungers-under-300-transform-backyards.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -34,6 +35,9 @@ quality_note: >-
   short length, repetitive 'according to reports' phrasing that feels
   inauthentic, and vague sourcing that raises factual concerns.
 reading_time: 3
+image_alt: >-
+  White in-pool loungers on a turquoise sun shelf create a resort-style backyard
+  staycation scene.
 ---
 ## Bringing Resort Luxury Home on a Budget
 
