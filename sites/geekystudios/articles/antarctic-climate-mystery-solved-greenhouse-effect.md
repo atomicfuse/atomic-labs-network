@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://phys.org/news/2026-05-greenhouse-effect-temperature-antarctica.html'
 source_item_id: 6a17d0828c60bc3c84eb2db9
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/antarctic-climate-mystery-solved-greenhouse-effect.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Well-written article with good tone but falls short on word count and lacks
   strong keyword alignment with the site's focus areas.
 reading_time: 3
+image_alt: >-
+  Polar researcher studies an ice core on an Antarctic ice shelf beneath a moody
+  glowing sky.
 ---
 ## A Decade-Long Climate Puzzle
 
