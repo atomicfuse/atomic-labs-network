@@ -22,7 +22,7 @@ source_url: >-
   https://www.forbes.com/sites/poojashah/2026/05/25/the-high-school-graduates-guide-for-skin-and-overall-wellness/
 source_item_id: 6a14fea216f23264031d803f
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/essential-wellness-guide-high-school-graduate-needs.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   length (605 words vs 800-1200 target) and relies heavily on vague expert
   references without specific citations.
 reading_time: 3
+image_alt: >-
+  Graduate with wellness essentials beside a suitcase, looking toward a bright
+  college path.
 ---
 ## Building Wellness Habits Before College Begins
 
