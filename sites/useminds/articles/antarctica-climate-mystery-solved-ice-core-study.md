@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-greenhouse-effect-temperature-antarctica.html'
 source_item_id: 6a17d0828c60bc3c84eb2db9
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/antarctica-climate-mystery-solved-ice-core-study.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 85
@@ -32,6 +32,9 @@ quality_note: >-
   on length and contains some potentially unsupported claims about specific
   research details.
 reading_time: 3
+image_alt: >-
+  Layered Antarctic ice core on a field table beneath a glowing polar sky over
+  uneven ice terrain.
 ---
 ## A Decade-Long Climate Puzzle Finally Solved
 
