@@ -23,7 +23,8 @@ source_url: >-
   https://markets.financialcontent.com/stocks/article/abnewswire-2026-5-27-burnett-law-office-shares-safety-awareness-tips-for-arizona-drivers-during-busy-late-spring-and-early-summer-travel-season
 source_item_id: 6a182f750fc9210eaf31ab14
 generated_by: claude
-featuredImage: /assets/images/carsnewsinformer-general-article.webp
+featuredImage: >-
+  /assets/images/arizona-law-firm-issues-critical-safety-tips-summer-travel-season.webp
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -36,6 +37,9 @@ quality_note: >-
   optimization, making it poorly suited for an automotive enthusiast website
   despite adequate length and general factual accuracy.
 reading_time: 3
+image_alt: >-
+  Busy Arizona highway with cars, an RV, motorcycles, and a semi-truck under
+  bright desert sun
 ---
 ## Arizona Roads Face Increased Risks During Peak Travel Season
 
