@@ -20,7 +20,7 @@ source_url: >-
   https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
 source_item_id: 6a19245a1e60b3e9a220867d
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/what-to-watch-read-after-call-the-midwife-season-15.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Good topic relevance and tone but significantly under target word count at 591
   words, which limits comprehensive coverage despite solid entertainment focus.
 reading_time: 3
+image_alt: >-
+  Vintage books, film reel, and tea in a warm mid-century room with women
+  gathered softly in the background.
 ---
 ## Finding Your Next Comfort Watch After 'Call the Midwife'
 
