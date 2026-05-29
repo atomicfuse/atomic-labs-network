@@ -19,7 +19,7 @@ source_url: >-
   https://www.sphericalinsights.com/blogs/ai-powered-game-development-and-procedural-content-creation
 source_item_id: 6a19245a1e60b3e9a220867e
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/ai-game-development-market-quadruple-2035.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong coverage of gaming and AI development topics with good tone, but falls
   short on content length at 527 words versus the 800-1200 word target range.
 reading_time: 3
+image_alt: >-
+  Futuristic studio with an AI core generating holographic game worlds and
+  characters
 ---
 ## AI Revolution in Game Development Takes Center Stage
 
