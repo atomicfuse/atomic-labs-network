@@ -20,7 +20,7 @@ source_url: >-
   https://indianexpress.com/article/health-wellness/breast-cancer-risk-working-women-pankaj-bhadouria-diagnosis-10713313/
 source_item_id: 6a1922011e60b3e9a2208659
 generated_by: claude
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: /assets/images/breast-cancer-risk-younger-working-women-india.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Strong topic relevance and tone but lacks specific medical citations and falls
   short of optimal word count for comprehensive coverage.
 reading_time: 3
+image_alt: >-
+  Young Indian professional balancing work and preventive health awareness in a
+  calm office setting.
 ---
 ## Celebrity Diagnosis Shines Light on Growing Health Concern
 
