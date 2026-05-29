@@ -18,7 +18,8 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-greenhouse-effect-temperature-antarctica.html'
 source_item_id: 6a17d0828c60bc3c84eb2db9
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: >-
+  /assets/images/antarctica-warmest-regions-climate-sensitivity-greenhouse-effect.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 85
@@ -31,6 +32,9 @@ quality_note: >-
   on word count and contains some vague sourcing that reduces factual
   confidence.
 reading_time: 3
+image_alt: >-
+  Antarctic ice shelf with a glowing horizon, vapor layers, and an ice core on
+  the snow.
 ---
 ## A Decade-Old Climate Mystery Finally Solved
 
