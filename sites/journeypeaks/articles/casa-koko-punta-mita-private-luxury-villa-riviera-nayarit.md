@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/coreincarter/2026/05/25/inside-casa-koko-the-luxury-rivieria-nayarit-escape-of-the-summer/
 source_item_id: 6a14fea216f23264031d803b
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/casa-koko-punta-mita-private-luxury-villa-riviera-nayarit.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short on length requirements and contains vague claims that may not be fully
   verifiable.
 reading_time: 3
+image_alt: >-
+  Private tropical villa at dusk with an illuminated pool, open terrace, and
+  ocean horizon
 ---
 ## The Rise of Private Villa Luxury in Riviera Nayarit
 
