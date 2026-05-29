@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.travelandtourworld.com/news/article/3cv4xj85q2v6/'
 source_item_id: 6a182f750fc9210eaf31ab18
 generated_by: claude
-featuredImage: /assets/images/decoratingtricks-general-article.webp
+featuredImage: /assets/images/resort-style-pool-upgrade-in-pool-lounge-chairs-under-300.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,7 @@ quality_note: >-
   but falls short on length (596 vs 800+ target) and relies heavily on vague
   'according to reports' claims without verification.
 reading_time: 3
+image_alt: White in-pool loungers on a sun shelf in a bright resort-style backyard pool
 ---
 ## Bringing Resort Luxury Home on a Budget
 
