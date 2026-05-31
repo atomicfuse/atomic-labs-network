@@ -22,7 +22,7 @@ source_url: >-
   https://www.travelpulse.com/news/destinations/what-s-happening-from-key-largo-to-key-west-in-summer-2026
 source_item_id: 6a1bda1a9bf3ecf115d9815c
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/florida-keys-summer-events-guide-key-largo-key-west.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   Strong topic relevance and keyword coverage, but significantly below target
   word count at 388 words, which severely impacts overall value.
 reading_time: 2
+image_alt: >-
+  Festive Florida Keys summer scene with travelers, turquoise water, reef boat,
+  and tropical celebration details.
 ---
 ## Summer Planning Heats Up in the Florida Keys
 
