@@ -20,7 +20,7 @@ source_url: >-
   https://news.google.com/atom/articles/CBMiWkFVX3lxTE1aSHNVTE5HcERfa0dLQlJGUFg4bUJ2enBfeC1wQ203NTVXckNXdU1lZlNoeDdHSm9iNlVIdVRoZXVoUWxIZnphbDVEOTIwNFNZenl6a2tpQTlVdw?oc=5
 source_item_id: 6a184523454e8b9490eacaeb
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/8-paleo-friendly-travel-food-strategies-healthy-eating.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75

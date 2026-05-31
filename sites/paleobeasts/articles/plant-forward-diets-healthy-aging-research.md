@@ -23,7 +23,7 @@ source_url: >-
   https://www.medicalnewstoday.com/articles/lower-fat-plant-forward-diets-may-help-slow-aging-study-suggests
 source_item_id: 6a09bbd2099fd899f75e825c
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/plant-forward-diets-healthy-aging-research.webp
 quality_score: 48
 score_breakdown:
   seo_quality: 25
