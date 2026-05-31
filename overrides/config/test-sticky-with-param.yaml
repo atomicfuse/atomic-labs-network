@@ -4,14 +4,68 @@ priority: 1
 targets:
   groups: []
   sites: []
-tracking: {}
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
 scripts:
   head: []
   body_start: []
   body_end: []
+  before_footer: []
 scripts_vars: {}
-ads_config: {}
+ads_config:
+  interstitial: false
+  interstitial_config:
+    script_url: ""
+    script_inline: ""
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: once_per_session
+      max_per_session: 1
+    page_types:
+      - all
+    close_delay_seconds: 3
+    device: both
+    exclude_pages: []
+  layout: standard
+  ad_placements:
+    - id: sticky-hey
+      position: sticky-bottom
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
 ads_txt: []
 activation:
   query_param: stickytest
   query_value: "true"
+theme: {}
+legal: {}
