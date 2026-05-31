@@ -5,7 +5,7 @@ description: >-
   resulting from military strikes on Iranian infrastructure, creating an
   environmental...
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:

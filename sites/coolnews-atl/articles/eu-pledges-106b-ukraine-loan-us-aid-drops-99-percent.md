@@ -4,7 +4,7 @@ description: >-
   The European Union commits to a massive $106 billion loan package for Ukraine
   as American aid dramatically decreases, signaling a major geopolitical shift.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:

@@ -5,7 +5,7 @@ description: >-
   guaranteed, securing the Pro Bowl receiver through 2027 after his breakout
   2025 season.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:
