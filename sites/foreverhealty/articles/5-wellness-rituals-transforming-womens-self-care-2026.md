@@ -4,7 +4,7 @@ description: >-
   Evidence-informed wellness habits are replacing trend-based self-care as women
   embrace practical routines for hygiene, fitness, and health tracking.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Lily Reed
 tags:

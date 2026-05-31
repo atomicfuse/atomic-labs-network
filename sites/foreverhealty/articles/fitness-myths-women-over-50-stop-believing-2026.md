@@ -5,7 +5,7 @@ description: >-
   exercise after 40, helping women over 50 train smarter for strength and
   longevity.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Lily Reed
 tags:

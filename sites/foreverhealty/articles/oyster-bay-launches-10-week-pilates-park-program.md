@@ -5,7 +5,7 @@ description: >-
   classes at Theodore Roosevelt Park starting July 11, offering 10 weeks of
   outdoor...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Lily Reed
 tags:

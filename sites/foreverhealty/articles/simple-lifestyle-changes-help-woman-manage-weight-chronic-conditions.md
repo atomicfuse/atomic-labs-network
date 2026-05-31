@@ -5,7 +5,7 @@ description: >-
   exercise can effectively manage chronic conditions while supporting
   sustainable...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Lily Reed
 tags:

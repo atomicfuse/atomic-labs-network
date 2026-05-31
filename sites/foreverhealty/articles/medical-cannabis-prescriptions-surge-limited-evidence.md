@@ -5,7 +5,7 @@ description: >-
   regulators scrutinize high-volume prescribing as research shows limited
   proven...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Lily Reed
 tags:
