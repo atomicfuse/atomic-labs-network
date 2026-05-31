@@ -5,7 +5,7 @@ description: >-
   family-friendly rebrand amid financial pressures, sparking debate about where
   parents draw...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Ryan Powell
 tags:
