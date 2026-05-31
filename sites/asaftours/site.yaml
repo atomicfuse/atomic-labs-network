@@ -1,0 +1,103 @@
+domain: asaftours
+site_name: Asaf Tours
+site_tagline: null
+author: Emma Torres
+groups: []
+active: true
+iab_vertical_code: "653"
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Destination Guides
+    - Travel Tips
+    - Adventure Activities
+    - food & beer
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  category_ids:
+    - 6a00793f1104bbff809b7f89
+    - 6a00793f1104bbff809b7f9d
+    - 6a00793f1104bbff809b7f8f
+  bundle_ids:
+    - 6a12d7ab16f23264031d7a63
+    - 6a158d0f16f23264031d8229
+    - 6a12d77016f23264031d7a58
+    - 6a12d76216f23264031d7a56
+    - 6a12d72816f23264031d7a4c
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Thursday
+    preferred_time: 10:00
+  image_guidelines: []
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  tag_ids: []
+theme:
+  base: midnight
+  colors:
+    primary: "#581c87"
+    accent: "#a855f7"
+    background: "#0f0720"
+    secondary: "#1e1038"
+    text: "#f0e6ff"
+    muted: "#a78bfa"
+    surface: "#1e1038"
+    border: "#2e1a50"
+    heading: "#f0e6ff"
+    link: "#a855f7"
+    link_hover: "#c084fc"
+    footer_bg: "#1e1038"
+    must_reads_bg: "#1e1038"
+    hero_title: "#ffffff"
+    must_reads_title: "#f0e6ff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#a78bfa"
+    feed_title: "#f0e6ff"
+    feed_desc: "#d8c8f0"
+    feed_date: "#a78bfa"
+    prose_heading: "#f0e6ff"
+    prose_body: "#d8c8f0"
+    category_header_text: "#ffffff"
+    footer_text: "#a78bfa"
+    footer_heading: "#ffffff"
+    footer_link: "#a78bfa"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
