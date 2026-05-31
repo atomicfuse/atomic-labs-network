@@ -5,7 +5,7 @@ description: >-
   experts emphasize the critical need for medical oversight and consumer
   education.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Nora Sanders
 tags:
