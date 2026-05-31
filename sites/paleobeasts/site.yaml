@@ -33,7 +33,6 @@ brief:
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
   category_ids:
-    - 6a00793d1104bbff809b7c3e
     - 6a00793e1104bbff809b7d13
     - 6a00793e1104bbff809b7d15
     - 6a00793e1104bbff809b7d1d
@@ -49,6 +48,14 @@ brief:
       - friday
     preferred_time: 10:00
   audience_type_ids: []
+  image_guidelines: []
+  quality_threshold: 26
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
 theme:
   base: modern
   colors:
