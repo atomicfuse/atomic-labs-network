@@ -4,7 +4,7 @@ description: >-
   AquaCurve's resort-style in-pool lounge chairs offer sun shelf compatibility
   and luxury hotel pool experiences for under $300, perfect for staycations.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Zoe Adams
 tags:

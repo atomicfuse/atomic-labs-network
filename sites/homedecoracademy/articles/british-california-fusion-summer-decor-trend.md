@@ -4,7 +4,7 @@ description: >-
   A new approach to summer decorating blends London polish, Hampshire coastal
   ease, and California indoor-outdoor living for relaxed seasonal style.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Zoe Adams
 tags:
