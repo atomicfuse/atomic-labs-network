@@ -21,7 +21,8 @@ reviewer_notes: >-
 source_url: 'https://www.ynetnews.com/travel/article/b1xmws11ggx'
 source_item_id: 6a1bda1a9bf3ecf115d9815d
 generated_by: claude
-featuredImage: /assets/images/asaftours-general-article.webp
+featuredImage: >-
+  /assets/images/four-winter-hiking-getaways-israel-carmel-caves-desert-craters.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
   Good destination coverage and keyword relevance, but content is too short at
   561 words and lacks the engaging, specific detail expected for travel content.
 reading_time: 3
+image_alt: >-
+  Family hikers pause on a winter trail overlooking green hills, coastline, and
+  desert terrain in Israel.
 ---
 ## Why Winter is Prime Time for Israeli Adventures
 
