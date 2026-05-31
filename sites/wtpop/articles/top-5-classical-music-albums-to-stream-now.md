@@ -6,7 +6,7 @@ description: >-
   interpretations and technical prowess. Highlights include new renditions of
   Beethoven and Bach, along with innovative contemporary compositions.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-12T10:59:21+00:00'
 author: Lena Harper
 tags:

@@ -4,7 +4,7 @@ description: >-
   Essential transportation tips for CMA Fest 2026 attendees, including parking
   options, WeGo train service, and getting to Nissan Stadium in Nashville.
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Rachel Long
 tags:

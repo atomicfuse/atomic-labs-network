@@ -6,7 +6,7 @@ description: >-
   fashion choices highlight her status as a rising style icon, influencing
   trends and inspiring fans worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T11:01:36+00:00'
 author: Lena Harper
 tags:

@@ -6,7 +6,7 @@ description: >-
   have captivated audiences with innovative sounds, blending genres and
   addressing contemporary themes, setting a high bar for future releases.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T10:54:29+00:00'
 author: Lena Harper
 tags:

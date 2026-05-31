@@ -6,7 +6,7 @@ description: >-
   talents, these releases promise innovation, blending traditional and modern
   sounds, and pushing genre boundaries.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-08T13:01:44+00:00'
 author: Lena Harper
 tags:
