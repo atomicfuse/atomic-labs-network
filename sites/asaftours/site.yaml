@@ -15,9 +15,9 @@ brief:
     review: 10
   topics:
     - Destination Guides
-    - Travel Tips
-    - Adventure Activities
-    - food & beer
+    - Local food
+    - Healthy tips for travelers
+    - Wine & Coffee
   seo_keywords_focus: []
   content_guidelines: []
   vertical: Travel
@@ -34,7 +34,7 @@ brief:
     - 6a12d72816f23264031d7a4c
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 5
     preferred_days:
       - Thursday
     preferred_time: 10:00
