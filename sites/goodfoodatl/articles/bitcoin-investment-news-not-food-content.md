@@ -6,7 +6,7 @@ description: >-
   This article about Bitcoin investments doesn't align with our food and cooking
   website focus.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

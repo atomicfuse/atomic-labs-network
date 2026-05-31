@@ -5,7 +5,7 @@ description: >-
   the 2026 World Whiskies Awards for just $40, proving exceptional whiskey
   doesn't have to break the bank.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

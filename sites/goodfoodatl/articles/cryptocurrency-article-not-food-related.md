@@ -5,7 +5,7 @@ description: >-
   and NYSE listing, which doesn't match Good Food's content focus on recipes,
   cooking, and food culture.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

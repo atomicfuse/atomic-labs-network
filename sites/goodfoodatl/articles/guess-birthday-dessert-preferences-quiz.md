@@ -6,7 +6,7 @@ description: >-
   Take our fun dessert quiz and see if we can predict your birth date based on
   your sweet treat choices from A to Z!
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

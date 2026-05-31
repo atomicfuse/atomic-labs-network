@@ -4,7 +4,7 @@ description: >-
   Travel the globe through food and discover which vegetable truly represents
   your culinary personality in this fun interactive quiz.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

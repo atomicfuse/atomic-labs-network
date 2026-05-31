@@ -4,7 +4,7 @@ description: >-
   The provided article about Bitcoin trading and derivatives doesn't align with
   Good Food's content about recipes, cooking, restaurant reviews, and nutrition.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

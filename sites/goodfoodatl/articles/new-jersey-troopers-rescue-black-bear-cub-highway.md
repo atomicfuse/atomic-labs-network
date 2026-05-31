@@ -5,7 +5,7 @@ description: >-
   ditch along Interstate 78, safely transporting the animal to wildlife
   authorities for proper care.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

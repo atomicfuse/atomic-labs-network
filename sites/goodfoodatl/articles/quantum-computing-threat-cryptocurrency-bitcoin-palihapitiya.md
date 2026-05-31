@@ -7,7 +7,7 @@ description: >-
   could crash Bitcoin and cryptocurrency markets within 5-7 years as hackers
   target crypto 'honeypots' first.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

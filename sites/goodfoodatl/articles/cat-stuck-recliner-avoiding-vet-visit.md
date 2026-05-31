@@ -5,7 +5,7 @@ description: >-
   unexpected rescue mission when it became trapped inside a mechanical reclining
   chair in Kansas.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:

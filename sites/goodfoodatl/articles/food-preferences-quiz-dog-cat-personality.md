@@ -5,7 +5,7 @@ description: >-
   discover whether your culinary preferences align more with dog or cat
   personality traits.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-06'
 author: Editorial Team
 tags:
