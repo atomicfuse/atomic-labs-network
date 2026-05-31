@@ -23,7 +23,7 @@ source_url: >-
   https://www.travelpulse.com/news/airlines-airports/united-airlines-flight-diverted-to-madison-due-to-passenger-trying-to-breach-cockpit
 source_item_id: 6a1bda1a9bf3ecf115d98160
 generated_by: claude
-featuredImage: /assets/images/asaftours-general-article.webp
+featuredImage: /assets/images/united-flight-diverted-madison-cockpit-breach-attempt.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,9 @@ quality_note: >-
   length and doesn't align well with Asaf Tours' travel-focused content topics
   like destination guides and adventure activities.
 reading_time: 3
+image_alt: >-
+  Passenger jet on a dim tarmac with emergency lights and security silhouettes
+  nearby
 ---
 ## Incident Forces Emergency Diversion
 
