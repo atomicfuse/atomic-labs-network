@@ -1,24 +1,31 @@
 ---
-title: "US Military Strengthening for Potential China Conflict: NY Times"
-description: ""
-type: "standard"
+title: 'US Military Strengthening for Potential China Conflict: NY Times'
+description: ''
+type: standard
 status: published
-publishDate: "2025-12-22T11:38:14+00:00"
-author: "Blake Anderson"
+publishDate: '2025-12-22T11:38:14+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "us-military-strengthening-for-potential-china-conflict-ny-times"
+  - Deep Dives
+slug: us-military-strengthening-for-potential-china-conflict-ny-times
 reading_time: 4
-source_url: "https://stroylab.com/us-military-strengthening-for-potential-china-conflict-ny-times/"
-imported_from: "wordpress"
+source_url: >-
+  https://stroylab.com/us-military-strengthening-for-potential-china-conflict-ny-times/
+imported_from: wordpress
 wp_original_id: 730
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: >-
+  /assets/images/us-military-strengthening-for-potential-china-conflict-ny-times.webp
 seo:
-  canonical: "https://stroylab.com/us-military-strengthening-for-potential-china-conflict-ny-times/"
-  og_title: "US Military Strengthening for Potential China Conflict: NY Times - StroyLab"
-  og_description: "The global financial landscape is shifting as central banks explore digital currencies, particularly CBDCs, to enhance monetary systems. This move aims to improve financial inclusion, reduce transaction costs, and offer secure digital alternatives amidst cryptocurrency influence."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-214.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://stroylab.com/us-military-strengthening-for-potential-china-conflict-ny-times/
+  og_title: 'US Military Strengthening for Potential China Conflict: NY Times - StroyLab'
+  og_description: >-
+    The global financial landscape is shifting as central banks explore digital
+    currencies, particularly CBDCs, to enhance monetary systems. This move aims
+    to improve financial inclusion, reduce transaction costs, and offer secure
+    digital alternatives amidst cryptocurrency influence.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-214.jpeg'
+  twitter_card: summary_large_image
 quality_score: .nan
 score_breakdown:
   seo_quality: 25
@@ -26,7 +33,13 @@ score_breakdown:
   content_length: .nan
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: "The article completely mismatches the title about US military and China conflict, instead covering digital currencies, and fails to address the site's focus on conspiracies, mysteries, and dark history topics."
+quality_note: >-
+  The article completely mismatches the title about US military and China
+  conflict, instead covering digital currencies, and fails to address the site's
+  focus on conspiracies, mysteries, and dark history topics.
+image_alt: >-
+  Dimly lit strategy room with silhouetted personnel studying an abstract
+  Pacific map.
 ---
 
 The global financial landscape is undergoing significant changes, with central banks across the world increasingly exploring the potential of digital currencies. This shift is poised to transform monetary systems and alter the way individuals and businesses conduct transactions. Digital currencies, particularly central bank digital currencies (CBDCs), are gaining traction as governments seek more control and efficiency in financial systems.

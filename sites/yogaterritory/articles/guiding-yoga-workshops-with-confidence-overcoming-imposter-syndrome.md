@@ -4,7 +4,7 @@ description: >-
   Learn how to plan and conduct yoga workshops with confidence by overcoming
   imposter syndrome and fear of inadequacy.
 type: standard
-status: published
+status: review
 publishDate: '2025-07-31T04:53:25+00:00'
 author: Taylor Winters
 tags:
@@ -31,23 +31,20 @@ seo:
     imposter syndrome and fear of inadequacy.
   twitter_card: summary_large_image
 videos:
-  - id: d0ff86ab
+  - id: 7e4bce20
     url: 'https://www.youtube.com/watch?v=Uf6A2Nz0sa8'
     position: after-paragraph-2
-quality_score: 65
+quality_score: 69
 score_breakdown:
-  seo_quality: 65
-  tone_match: 75
+  seo_quality: 75
+  tone_match: 85
   content_length: 25
   factual_accuracy: 90
   keyword_relevance: 70
 quality_note: >-
-  The article has good tone and accuracy but is severely under length at only
-  329 words compared to the 800-1200 word target, significantly impacting its
-  overall value.
-image_alt: >-
-  Confident yoga instructor in a sunlit studio with mats prepared for a calming
-  workshop
+  Well-written article with good tone and accuracy, but severely penalized for
+  being too short at only 329 words when target is 800-1200 words.
+image_alt: Confident yoga instructor in a sunlit studio preparing to guide a workshop
 ---
 
 Feeling ready to take the leap into hosting your own yoga workshop but held back by self-doubt? You're not alone. Many yoga teachers face similar challenges, often grappling with feelings of inadequacy known as imposter syndrome. In this insightful discussion, Brea Johnson and Ula unpack the psychological barriers that prevent many aspiring instructors from sharing their gifts with the world.

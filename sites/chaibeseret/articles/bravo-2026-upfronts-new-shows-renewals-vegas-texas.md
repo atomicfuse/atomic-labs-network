@@ -23,7 +23,7 @@ source_url: >-
   https://www.vulture.com/article/bravo-upfront-announcements-2026-premieres-renewals.html
 source_item_id: 6a0800da4bdae0614e7aaf49
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/bravo-2026-upfronts-new-shows-renewals-vegas-texas.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,7 @@ quality_note: >-
   requirements and contains multiple unverified claims presented as facts
   without proper sourcing.
 reading_time: 3
+image_alt: Spotlit reality TV set blending neon Vegas glamour with a Texas ranch horizon.
 ---
 ## Bravo Doubles Down on Reality Empire with Vegas and Texas Expansions
 

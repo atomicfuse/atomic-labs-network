@@ -1,25 +1,33 @@
 ---
-title: "3FE Secures New Rugby Partnership in Ireland"
-description: "Ireland's specialty coffee company 3fe has partnered with the Irish Rugby Football Union (IRFU), becoming the official coffee partner for the organization and bringing premium coffee experiences to rugby fans across Ireland."
-type: "standard"
-status: "published"
-publishDate: "2025-11-24T09:15:37+00:00"
-author: "Taylor Winters"
+title: 3FE Secures New Rugby Partnership in Ireland
+description: >-
+  Ireland's specialty coffee company 3fe has partnered with the Irish Rugby
+  Football Union (IRFU), becoming the official coffee partner for the
+  organization and bringing premium coffee experiences to rugby fans across
+  Ireland.
+type: standard
+status: published
+publishDate: '2025-11-24T09:15:37+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "3fe-secures-new-rugby-partnership-in-ireland"
+  - Coffee News
+  - News
+slug: 3fe-secures-new-rugby-partnership-in-ireland
 reading_time: 4
-source_url: "https://coffeeactually.com/3fe-secures-new-rugby-partnership-in-ireland/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/3fe-secures-new-rugby-partnership-in-ireland/'
+imported_from: wordpress
 wp_original_id: 51355
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/3fe-secures-new-rugby-partnership-in-ireland.webp
 seo:
-  canonical: "https://coffeeactually.com/3fe-secures-new-rugby-partnership-in-ireland/"
-  og_title: "3FE Secures New Rugby Partnership in Ireland - Coffee Actually"
-  og_description: "Ireland's coffee company 3fe partners with the Irish Rugby Football Union, boosting its presence in the sports community. This collaboration enhances 3fe's visibility, offering high-quality coffee to rugby fans and fostering community engagement through premium coffee experiences at sporting events."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/11/make_file-7.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/3fe-secures-new-rugby-partnership-in-ireland/'
+  og_title: 3FE Secures New Rugby Partnership in Ireland - Coffee Actually
+  og_description: >-
+    Ireland's coffee company 3fe partners with the Irish Rugby Football Union,
+    boosting its presence in the sports community. This collaboration enhances
+    3fe's visibility, offering high-quality coffee to rugby fans and fostering
+    community engagement through premium coffee experiences at sporting events.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/11/make_file-7.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written coffee news article with engaging tone and good structure, though slightly under optimal word count and title could be more compelling for SEO."
+quality_note: >-
+  Well-written coffee news article with engaging tone and good structure, though
+  slightly under optimal word count and title could be more compelling for SEO.
+image_alt: >-
+  Flat white beside a green rugby ball with blurred stadium lights in the
+  background
 ---
 
 In an exciting development for both coffee enthusiasts and sports fans, Ireland's renowned coffee company, 3fe, has entered a strategic partnership with the Irish Rugby Football Union (IRFU). This collaboration marks a significant milestone for 3fe, enhancing its visibility and influence within the sports community while providing rugby fans with high-quality coffee experiences.

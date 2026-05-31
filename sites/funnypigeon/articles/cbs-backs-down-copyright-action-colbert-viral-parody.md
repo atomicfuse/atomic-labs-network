@@ -4,7 +4,7 @@ description: >-
   CBS and Paramount reversed copyright challenges against Stephen Colbert's
   viral cable access show appearance as he exits The Late Show.
 type: standard
-status: published
+status: review
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

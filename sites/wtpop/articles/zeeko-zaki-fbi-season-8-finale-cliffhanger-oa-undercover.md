@@ -22,7 +22,7 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/fbis-zeeko-zaki-breaks-silence-on-oas-fate-season-8-finale/
 source_item_id: 6a0be4f116f23264031d77fd
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/zeeko-zaki-fbi-season-8-finale-cliffhanger-oa-undercover.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   errors about FBI's season count and timeline, plus the content is too short
   for target length.
 reading_time: 3
+image_alt: >-
+  A conflicted agent stands between a government office and a dark rainy city
+  street.
 ---
 ## OA's Shocking Exit Sets Up Major Season 9 Storyline
 

@@ -1,27 +1,37 @@
 ---
-title: "Stylish New Year Table Decor Ideas for 2026 Celebrations"
-description: "As the New Year approaches, create a memorable dining experience with innovative table decor ideas. Themes, natural elements, and lighting set the mood, while personal touches and sophisticated simplicity enhance the ambiance for joyful celebrations."
-type: "standard"
-status: "published"
-publishDate: "2025-12-29T09:57:24+00:00"
-author: "Taylor Winters"
+title: Stylish New Year Table Decor Ideas for 2026 Celebrations
+description: >-
+  As the New Year approaches, create a memorable dining experience with
+  innovative table decor ideas. Themes, natural elements, and lighting set the
+  mood, while personal touches and sophisticated simplicity enhance the ambiance
+  for joyful celebrations.
+type: standard
+status: published
+publishDate: '2025-12-29T09:57:24+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Dining Room"
-  - "Ideas"
-  - "Inspirations"
-slug: "stylish-new-year-table-decor-ideas-for-2026-celebrations"
+  - Decor Ideas
+  - Dining Room
+  - Ideas
+  - Inspirations
+slug: stylish-new-year-table-decor-ideas-for-2026-celebrations
 reading_time: 3
-source_url: "https://decoratingmom.com/stylish-new-year-table-decor-ideas-for-2026-celebrations/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/stylish-new-year-table-decor-ideas-for-2026-celebrations/
+imported_from: wordpress
 wp_original_id: 35104
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/stylish-new-year-table-decor-ideas-for-2026-celebrations.webp
 seo:
-  canonical: "https://decoratingmom.com/stylish-new-year-table-decor-ideas-for-2026-celebrations/"
-  og_title: "Stylish New Year Table Decor Ideas for 2026 Celebrations - Decorating Mom"
-  og_description: "As the New Year approaches, create a memorable dining experience with innovative table decor ideas. Themes, natural elements, and lighting set the mood, while personal touches and sophisticated simplicity enhance the ambiance for joyful celebrations."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2025/12/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/stylish-new-year-table-decor-ideas-for-2026-celebrations/
+  og_title: Stylish New Year Table Decor Ideas for 2026 Celebrations - Decorating Mom
+  og_description: >-
+    As the New Year approaches, create a memorable dining experience with
+    innovative table decor ideas. Themes, natural elements, and lighting set the
+    mood, while personal touches and sophisticated simplicity enhance the
+    ambiance for joyful celebrations.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2025/12/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with appropriate tone and good decor advice, but falls short on content length at 597 words when targeting 800-1200 words."
+quality_note: >-
+  Well-written article with appropriate tone and good decor advice, but falls
+  short on content length at 597 words when targeting 800-1200 words.
+image_alt: >-
+  Elegant candlelit New Year table setting with gold accents, winter greenery,
+  and crystal glassware.
 ---
 
 As the New Year approaches, the thought of gathering around a beautifully set table becomes irresistible. Whether hosting a grand dinner party or a cozy family meal, the right table decor can set the mood and create a memorable ambience. This guide will explore innovative table decor ideas to inspire your celebrations and ensure your dining space reflects joy and warmth.

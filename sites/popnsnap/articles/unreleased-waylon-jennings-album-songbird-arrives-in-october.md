@@ -1,24 +1,40 @@
 ---
-title: "Unreleased Waylon Jennings Album Songbird Arrives in October"
-description: "Fans of Waylon Jennings can look forward to the release of \"Songbird,\" an album featuring previously unheard tracks, offering a new glimpse into his legendary artistry and appealing to both longtime admirers and new listeners this October."
-type: "standard"
-status: "published"
-publishDate: "2025-07-31T12:34:25+00:00"
-author: "Taylor Anderson"
+title: Unreleased Waylon Jennings Album Songbird Arrives in October
+description: >-
+  Fans of Waylon Jennings can look forward to the release of "Songbird," an
+  album featuring previously unheard tracks, offering a new glimpse into his
+  legendary artistry and appealing to both longtime admirers and new listeners
+  this October.
+type: standard
+status: published
+publishDate: '2025-07-31T12:34:25+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "unreleased-waylon-jennings-album-songbird-arrives-in-october"
+  - Music
+slug: unreleased-waylon-jennings-album-songbird-arrives-in-october
 reading_time: 3
-source_url: "https://popnsnap.com/unreleased-waylon-jennings-album-songbird-arrives-in-october/"
-imported_from: "wordpress"
+source_url: >-
+  https://popnsnap.com/unreleased-waylon-jennings-album-songbird-arrives-in-october/
+imported_from: wordpress
 wp_original_id: 510
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: >-
+  /assets/images/unreleased-waylon-jennings-album-songbird-arrives-in-october.webp
 seo:
-  canonical: "https://popnsnap.com/unreleased-waylon-jennings-album-songbird-arrives-in-october/"
-  og_title: "Unreleased Waylon Jennings Album Songbird Arrives in October - Pop N&#039; Snap"
-  og_description: "Fans of Waylon Jennings can look forward to the release of \"Songbird,\" an album featuring previously unheard tracks, offering a new glimpse into his legendary artistry and appealing to both longtime admirers and new listeners this October."
-  og_image: "https://popnsnap.com/wp-content/uploads/2025/07/make_file-10-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://popnsnap.com/unreleased-waylon-jennings-album-songbird-arrives-in-october/
+  og_title: >-
+    Unreleased Waylon Jennings Album Songbird Arrives in October - Pop N&#039;
+    Snap
+  og_description: >-
+    Fans of Waylon Jennings can look forward to the release of "Songbird," an
+    album featuring previously unheard tracks, offering a new glimpse into his
+    legendary artistry and appealing to both longtime admirers and new listeners
+    this October.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2025/07/make_file-10-1.jpeg'
+  twitter_card: summary_large_image
+image_alt: >-
+  Vintage country studio with guitar, reel tapes, and a songbird in warm
+  spotlight
 ---
 
 Music enthusiasts and fans of legendary country artist Waylon Jennings are in for a treat this October. A previously unheard collection of Jennings' work, titled "Songbird," is set to be released, offering a fresh glimpse into the artistry of one of country music's most iconic figures. This album, featuring a variety of tracks that have never been made public before, promises to captivate both longtime fans and new listeners alike.

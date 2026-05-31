@@ -4,7 +4,7 @@ description: >-
   NBC and NBCUniversal made major cuts in 2026, canceling seven TV shows as
   network television faces streaming pressure and budget constraints.
 type: standard
-status: published
+status: review
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

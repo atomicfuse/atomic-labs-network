@@ -1,30 +1,39 @@
 ---
-title: "Creative Budget-Friendly Home Decor Ideas: Thrift with Me and Style Tips"
-description: "Discover how to decorate your home stylishly on a budget with thrifted finds and creative styling ideas."
-type: "standard"
-status: "published"
-publishDate: "2025-11-17T10:06:36+00:00"
-author: "Taylor Winters"
+title: 'Creative Budget-Friendly Home Decor Ideas: Thrift with Me and Style Tips'
+description: >-
+  Discover how to decorate your home stylishly on a budget with thrifted finds
+  and creative styling ideas.
+type: standard
+status: published
+publishDate: '2025-11-17T10:06:36+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Budget"
-  - "Ideas"
-  - "Inspirations"
-slug: "creative-budget-friendly-home-decor-ideas-thrift-with-me-and-style-tips"
+  - Decor Ideas
+  - Budget
+  - Ideas
+  - Inspirations
+slug: creative-budget-friendly-home-decor-ideas-thrift-with-me-and-style-tips
 reading_time: 2
-source_url: "https://decoratingmom.com/creative-budget-friendly-home-decor-ideas-thrift-with-me-and-style-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/creative-budget-friendly-home-decor-ideas-thrift-with-me-and-style-tips/
+imported_from: wordpress
 wp_original_id: 35085
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/creative-budget-friendly-home-decor-ideas-thrift-with-me-and-style-tips.webp
 seo:
-  canonical: "https://decoratingmom.com/creative-budget-friendly-home-decor-ideas-thrift-with-me-and-style-tips/"
-  og_title: "Creative Budget-Friendly Home Decor Ideas: Thrift with Me and Style Tips - Decorating Mom"
-  og_description: "Discover how to decorate your home stylishly on a budget with thrifted finds and creative styling ideas."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/creative-budget-friendly-home-decor-ideas-thrift-with-me-and-style-tips/
+  og_title: >-
+    Creative Budget-Friendly Home Decor Ideas: Thrift with Me and Style Tips -
+    Decorating Mom
+  og_description: >-
+    Discover how to decorate your home stylishly on a budget with thrifted finds
+    and creative styling ideas.
+  twitter_card: summary_large_image
 videos:
-  - id: "4c19c3e9"
-    url: "https://www.youtube.com/watch?v=IpmJjygZ7aI"
-    position: "after-paragraph-2"
+  - id: 4c19c3e9
+    url: 'https://www.youtube.com/watch?v=IpmJjygZ7aI'
+    position: after-paragraph-2
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -32,7 +41,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance but significantly under target word count at 392 words, which severely impacts content depth and SEO value."
+quality_note: >-
+  Strong tone and keyword relevance but significantly under target word count at
+  392 words, which severely impacts content depth and SEO value.
+image_alt: >-
+  Sunlit living room styled with vintage thrifted decor, books, baskets,
+  greenery, and cozy neutral accents.
 ---
 
 Decorating your home can often seem like an expensive endeavor, but it doesn't have to be. With a little creativity and a love for thrift shopping, you can transform your living space into a stylish haven without breaking the bank. Join me on a thrifting adventure as we explore budget-friendly home decor ideas that will inspire you to give your home a unique and personal touch.

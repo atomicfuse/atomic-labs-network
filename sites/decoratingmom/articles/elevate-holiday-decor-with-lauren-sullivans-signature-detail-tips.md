@@ -1,27 +1,40 @@
 ---
-title: "Elevate Holiday Decor with Lauren Sullivan’s Signature Detail Tips"
-description: "Transform your home into a festive wonderland with classic Christmas decor by incorporating evergreen garlands, traditional ornaments, and twinkling lights to create a warm and inviting atmosphere that captures the spirit of the holidays for memorable moments."
-type: "standard"
-status: "published"
-publishDate: "2025-12-15T10:27:26+00:00"
-author: "Taylor Winters"
+title: Elevate Holiday Decor with Lauren Sullivan’s Signature Detail Tips
+description: >-
+  Transform your home into a festive wonderland with classic Christmas decor by
+  incorporating evergreen garlands, traditional ornaments, and twinkling lights
+  to create a warm and inviting atmosphere that captures the spirit of the
+  holidays for memorable moments.
+type: standard
+status: published
+publishDate: '2025-12-15T10:27:26+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Living Room"
-slug: "elevate-holiday-decor-with-lauren-sullivans-signature-detail-tips"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Living Room
+slug: elevate-holiday-decor-with-lauren-sullivans-signature-detail-tips
 reading_time: 4
-source_url: "https://decoratingmom.com/elevate-holiday-decor-with-lauren-sullivans-signature-detail-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/elevate-holiday-decor-with-lauren-sullivans-signature-detail-tips/
+imported_from: wordpress
 wp_original_id: 35097
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/elevate-holiday-decor-with-lauren-sullivans-signature-detail-tips.webp
 seo:
-  canonical: "https://decoratingmom.com/elevate-holiday-decor-with-lauren-sullivans-signature-detail-tips/"
-  og_title: "Elevate Holiday Decor with Lauren Sullivan's Signature Detail Tips - Decorating Mom"
-  og_description: "Transform your home into a festive wonderland with classic Christmas decor. Incorporate evergreen garlands, traditional ornaments, and twinkling lights to create a warm and inviting atmosphere that captures the spirit of the holidays for memorable moments."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/elevate-holiday-decor-with-lauren-sullivans-signature-detail-tips/
+  og_title: >-
+    Elevate Holiday Decor with Lauren Sullivan's Signature Detail Tips -
+    Decorating Mom
+  og_description: >-
+    Transform your home into a festive wonderland with classic Christmas decor.
+    Incorporate evergreen garlands, traditional ornaments, and twinkling lights
+    to create a warm and inviting atmosphere that captures the spirit of the
+    holidays for memorable moments.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 65
@@ -29,7 +42,13 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written holiday decor article with engaging tone and good practical advice, but title mentions Lauren Sullivan without any content follow-through and could benefit from more length and stronger SEO optimization."
+quality_note: >-
+  Well-written holiday decor article with engaging tone and good practical
+  advice, but title mentions Lauren Sullivan without any content follow-through
+  and could benefit from more length and stronger SEO optimization.
+image_alt: >-
+  Elegant living room with classic Christmas garlands, ornaments, lights, and
+  warm holiday styling
 ---
 
 Transforming your home into a festive wonderland during the holiday season can be both enjoyable and inspiring. With a focus on classic Christmas decor, you can create a warm and inviting atmosphere that captures the spirit of the holidays. Whether you are hosting family gatherings or simply enjoying a cozy evening by the fire, embracing timeless decorations can set the perfect scene for memorable moments.

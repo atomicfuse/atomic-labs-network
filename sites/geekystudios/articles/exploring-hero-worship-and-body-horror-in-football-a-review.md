@@ -1,24 +1,34 @@
 ---
-title: "Exploring Hero Worship and Body Horror in Football: A Review"
-description: "Horror and comedy collide in \"Him,\" a film directed by Derrick Hayes. Starring Marlon Wayans and Tyriq Withers, it explores the dark side of high school football, blending thrills and humor for a unique cinematic experience."
-type: "standard"
+title: 'Exploring Hero Worship and Body Horror in Football: A Review'
+description: >-
+  Horror and comedy collide in "Him," a film directed by Derrick Hayes. Starring
+  Marlon Wayans and Tyriq Withers, it explores the dark side of high school
+  football, blending thrills and humor for a unique cinematic experience.
+type: standard
 status: published
-publishDate: "2025-09-18T07:23:29+00:00"
-author: "Arthur Daly"
+publishDate: '2025-09-18T07:23:29+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "exploring-hero-worship-and-body-horror-in-football-a-review"
+  - Pop Culture
+slug: exploring-hero-worship-and-body-horror-in-football-a-review
 reading_time: 3
-source_url: "https://geekystudios.com/exploring-hero-worship-and-body-horror-in-football-a-review/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/exploring-hero-worship-and-body-horror-in-football-a-review/
+imported_from: wordpress
 wp_original_id: 641
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: >-
+  /assets/images/exploring-hero-worship-and-body-horror-in-football-a-review.webp
 seo:
-  canonical: "https://geekystudios.com/exploring-hero-worship-and-body-horror-in-football-a-review/"
-  og_title: "Exploring Hero Worship and Body Horror in Football: A Review - Geeky Studios"
-  og_description: "Horror and comedy collide in \"Him,\" a film directed by Derrick Hayes. Starring Marlon Wayans and Tyriq Withers, it explores the dark side of high school football, blending thrills and humor for a unique cinematic experience."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/09/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/exploring-hero-worship-and-body-horror-in-football-a-review/
+  og_title: 'Exploring Hero Worship and Body Horror in Football: A Review - Geeky Studios'
+  og_description: >-
+    Horror and comedy collide in "Him," a film directed by Derrick Hayes.
+    Starring Marlon Wayans and Tyriq Withers, it explores the dark side of high
+    school football, blending thrills and humor for a unique cinematic
+    experience.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/09/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 67
 score_breakdown:
   seo_quality: 65
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "Well-written review with good pop culture relevance and engaging tone, but appears to be reviewing a fictional or misidentified film, significantly impacting factual accuracy."
+quality_note: >-
+  Well-written review with good pop culture relevance and engaging tone, but
+  appears to be reviewing a fictional or misidentified film, significantly
+  impacting factual accuracy.
+image_alt: >-
+  Faceless football player under stadium lights casting an ominous shrine-like
+  shadow
 ---
 
 Horror and comedy have long been a compelling mix for audiences, and a new film, "Him," is poised to take this blend to the next level. Directed by Derrick Hayes and featuring performances by Marlon Wayans and Tyriq Withers, "Him" is a unique cinematic experience that combines the thrill of horror with the light-heartedness of comedy. This film explores the dark side of football culture through a fresh and entertaining lens.

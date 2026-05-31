@@ -1,25 +1,34 @@
 ---
-title: "Nirvana Announces Exciting Plans for 2026"
-description: "Nirvana Brewery aims for carbon neutrality by 2026, focusing on sustainability through innovative brewing with coffee beans, partnerships with eco-friendly suppliers, renewable energy investments, and recyclable packaging, while educating consumers about environmentally conscious choices."
-type: "standard"
+title: Nirvana Announces Exciting Plans for 2026
+description: >-
+  Nirvana Brewery aims for carbon neutrality by 2026, focusing on sustainability
+  through innovative brewing with coffee beans, partnerships with eco-friendly
+  suppliers, renewable energy investments, and recyclable packaging, while
+  educating consumers about environmentally conscious choices.
+type: standard
 status: published
-publishDate: "2026-01-22T09:15:34+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-22T09:15:34+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "nirvana-announces-exciting-plans-for-2026"
+  - Coffee News
+  - News
+slug: nirvana-announces-exciting-plans-for-2026
 reading_time: 3
-source_url: "https://coffeeactually.com/nirvana-announces-exciting-plans-for-2026/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/nirvana-announces-exciting-plans-for-2026/'
+imported_from: wordpress
 wp_original_id: 51387
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/nirvana-announces-exciting-plans-for-2026.webp
 seo:
-  canonical: "https://coffeeactually.com/nirvana-announces-exciting-plans-for-2026/"
-  og_title: "Nirvana Announces Exciting Plans for 2026 - Coffee Actually"
-  og_description: "Nirvana Brewery aims for carbon neutrality by 2026, focusing on sustainability through innovative brewing with coffee beans, partnerships with eco-friendly suppliers, renewable energy investments, and recyclable packaging, while educating consumers about environmentally conscious choices."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/01/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/nirvana-announces-exciting-plans-for-2026/'
+  og_title: Nirvana Announces Exciting Plans for 2026 - Coffee Actually
+  og_description: >-
+    Nirvana Brewery aims for carbon neutrality by 2026, focusing on
+    sustainability through innovative brewing with coffee beans, partnerships
+    with eco-friendly suppliers, renewable energy investments, and recyclable
+    packaging, while educating consumers about environmentally conscious
+    choices.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/01/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 45
 score_breakdown:
   seo_quality: 25
@@ -27,7 +36,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 60
   keyword_relevance: 30
-quality_note: "While the tone is engaging and the content mentions coffee beans, the article is too short, lacks proper SEO optimization, and doesn't align well with coffee-focused audience expectations for a coffee website."
+quality_note: >-
+  While the tone is engaging and the content mentions coffee beans, the article
+  is too short, lacks proper SEO optimization, and doesn't align well with
+  coffee-focused audience expectations for a coffee website.
+image_alt: >-
+  Craft beer glass with coffee beans, hops, plants, and a softly lit sustainable
+  brewery backdrop
 ---
 
 Nirvana Brewery is taking significant strides towards achieving complete carbon neutrality by 2026. This ambitious goal is part of their ongoing commitment to sustainability and environmental responsibility. As a leading producer of non-alcoholic craft beers, Nirvana is determined to minimize its carbon footprint through innovative practices and collaboration with eco-friendly partners.

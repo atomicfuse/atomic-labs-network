@@ -1,27 +1,35 @@
 ---
-title: "Upgrade Your Christmas Decor: Simple Tips for 2023"
-description: "Refresh your home decor this festive season with creative tips for a cohesive look. Embrace themes, coordinate colors, and use innovative lighting to transform your space. Add personal touches and engage the senses for a joyful, welcoming atmosphere."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T10:41:32+00:00"
-author: "Taylor Winters"
+title: 'Upgrade Your Christmas Decor: Simple Tips for 2023'
+description: >-
+  Refresh your home decor this festive season with creative tips for a cohesive
+  look. Embrace themes, coordinate colors, and use innovative lighting to
+  transform your space. Add personal touches and engage the senses for a joyful,
+  welcoming atmosphere.
+type: standard
+status: published
+publishDate: '2025-12-08T10:41:32+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "upgrade-your-christmas-decor-simple-tips-for-2023"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: upgrade-your-christmas-decor-simple-tips-for-2023
 reading_time: 4
-source_url: "https://decoratingmom.com/upgrade-your-christmas-decor-simple-tips-for-2023/"
-imported_from: "wordpress"
+source_url: 'https://decoratingmom.com/upgrade-your-christmas-decor-simple-tips-for-2023/'
+imported_from: wordpress
 wp_original_id: 35093
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/upgrade-your-christmas-decor-simple-tips-for-2023.webp
 seo:
-  canonical: "https://decoratingmom.com/upgrade-your-christmas-decor-simple-tips-for-2023/"
-  og_title: "Upgrade Your Christmas Decor: Simple Tips for 2023 - Decorating Mom"
-  og_description: "Refresh your home decor this festive season with creative tips for a cohesive look. Embrace themes, coordinate colors, and use innovative lighting to transform your space. Add personal touches and engage the senses for a joyful, welcoming atmosphere."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2025/12/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingmom.com/upgrade-your-christmas-decor-simple-tips-for-2023/'
+  og_title: 'Upgrade Your Christmas Decor: Simple Tips for 2023 - Decorating Mom'
+  og_description: >-
+    Refresh your home decor this festive season with creative tips for a
+    cohesive look. Embrace themes, coordinate colors, and use innovative
+    lighting to transform your space. Add personal touches and engage the senses
+    for a joyful, welcoming atmosphere.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2025/12/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written holiday decor guide with excellent keyword relevance and tone, but falls short on content length at 658 words versus the 800-1200 word target."
+quality_note: >-
+  Well-written holiday decor guide with excellent keyword relevance and tone,
+  but falls short on content length at 658 words versus the 800-1200 word
+  target.
+image_alt: >-
+  Stylish Christmas living room with coordinated decor, warm lights, garlands,
+  and a decorated tree
 ---
 
 The festive season is the perfect time to refresh your home decor with new and exciting ideas. Whether you're hosting a holiday party or simply want to surround yourself with the spirit of Christmas, upgrading your decorations can create a warm and inviting atmosphere. Let's explore some creative tips to revamp your Christmas decor this year.

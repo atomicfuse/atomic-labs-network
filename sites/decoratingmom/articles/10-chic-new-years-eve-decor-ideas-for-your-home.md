@@ -1,27 +1,35 @@
 ---
-title: "10 Chic New Year’s Eve Decor Ideas for Your Home"
-description: "As the New Year nears, refresh your home with bold color schemes, sustainable materials, and smart technology. Transform your space into a stylish, functional sanctuary, reflecting personal taste and embracing innovative trends for a cozy and inviting environment."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T10:41:34+00:00"
-author: "Taylor Winters"
+title: 10 Chic New Year’s Eve Decor Ideas for Your Home
+description: >-
+  As the New Year nears, refresh your home with bold color schemes, sustainable
+  materials, and smart technology. Transform your space into a stylish,
+  functional sanctuary, reflecting personal taste and embracing innovative
+  trends for a cozy and inviting environment.
+type: standard
+status: published
+publishDate: '2025-12-22T10:41:34+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "10-chic-new-years-eve-decor-ideas-for-your-home"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: 10-chic-new-years-eve-decor-ideas-for-your-home
 reading_time: 3
-source_url: "https://decoratingmom.com/10-chic-new-years-eve-decor-ideas-for-your-home/"
-imported_from: "wordpress"
+source_url: 'https://decoratingmom.com/10-chic-new-years-eve-decor-ideas-for-your-home/'
+imported_from: wordpress
 wp_original_id: 35101
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/10-chic-new-years-eve-decor-ideas-for-your-home.webp
 seo:
-  canonical: "https://decoratingmom.com/10-chic-new-years-eve-decor-ideas-for-your-home/"
-  og_title: "10 Chic New Year's Eve Decor Ideas for Your Home - Decorating Mom"
-  og_description: "As the New Year nears, refresh your home with bold color schemes, sustainable materials, and smart technology. Transform your space into a stylish, functional sanctuary, reflecting personal taste and embracing innovative trends for a cozy and inviting environment."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2025/12/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingmom.com/10-chic-new-years-eve-decor-ideas-for-your-home/'
+  og_title: 10 Chic New Year's Eve Decor Ideas for Your Home - Decorating Mom
+  og_description: >-
+    As the New Year nears, refresh your home with bold color schemes,
+    sustainable materials, and smart technology. Transform your space into a
+    stylish, functional sanctuary, reflecting personal taste and embracing
+    innovative trends for a cozy and inviting environment.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2025/12/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 85
-quality_note: "Well-written article with excellent tone and relevant content, but significantly under target word count at 580 words versus the 800-1200 goal."
+quality_note: >-
+  Well-written article with excellent tone and relevant content, but
+  significantly under target word count at 580 words versus the 800-1200 goal.
+image_alt: >-
+  Chic New Year’s Eve living room with jewel tones, warm lighting, greenery, and
+  elegant festive decor.
 ---
 
 As the New Year approaches, it's the perfect opportunity to refresh your living space with inspiring and innovative decorating ideas. A new year often signifies a new beginning, making it an ideal time to breathe fresh life into your home. From embracing bold color palettes to incorporating sustainable materials, this guide will help you transform your interiors into a haven of style and comfort.

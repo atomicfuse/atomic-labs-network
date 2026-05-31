@@ -1,25 +1,38 @@
 ---
-title: "Discover Medical Innovations at Msheireb Museums’ Science Café Event"
-description: "A collaboration between Msheireb Museums and Sidra Medicine brings science to the public through the Science Café, an initiative that demystifies medical topics and fosters community engagement by making complex discoveries accessible and inspiring interest in science and medicine."
-type: "standard"
-status: "published"
-publishDate: "2025-11-06T09:17:26+00:00"
-author: "Taylor Winters"
+title: Discover Medical Innovations at Msheireb Museums’ Science Café Event
+description: >-
+  A collaboration between Msheireb Museums and Sidra Medicine brings science to
+  the public through the Science Café, an initiative that demystifies medical
+  topics and fosters community engagement by making complex discoveries
+  accessible and inspiring interest in science and medicine.
+type: standard
+status: published
+publishDate: '2025-11-06T09:17:26+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "discover-medical-innovations-at-msheireb-museums-science-cafe-event"
+  - Research
+  - Clinical Trials &amp; Research
+slug: discover-medical-innovations-at-msheireb-museums-science-cafe-event
 reading_time: 3
-source_url: "https://medicalnewscorner.com/discover-medical-innovations-at-msheireb-museums-science-cafe-event/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/discover-medical-innovations-at-msheireb-museums-science-cafe-event/
+imported_from: wordpress
 wp_original_id: 24723
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/discover-medical-innovations-at-msheireb-museums-science-cafe-event.webp
 seo:
-  canonical: "https://medicalnewscorner.com/discover-medical-innovations-at-msheireb-museums-science-cafe-event/"
-  og_title: "Discover Medical Innovations at Msheireb Museums' Science Café Event - Medical News Corner"
-  og_description: "A collaboration between Msheireb Museums and Sidra Medicine brings science to the public through the Science Café, an initiative that demystifies medical topics and fosters community engagement by making complex discoveries accessible and inspiring interest in science and medicine."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/11/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/discover-medical-innovations-at-msheireb-museums-science-cafe-event/
+  og_title: >-
+    Discover Medical Innovations at Msheireb Museums' Science Café Event -
+    Medical News Corner
+  og_description: >-
+    A collaboration between Msheireb Museums and Sidra Medicine brings science
+    to the public through the Science Café, an initiative that demystifies
+    medical topics and fosters community engagement by making complex
+    discoveries accessible and inspiring interest in science and medicine.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/11/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and factual content, but falls short on length (519 words vs 800-1200 target) and could benefit from stronger SEO optimization with more targeted keywords."
+quality_note: >-
+  Well-written article with good tone and factual content, but falls short on
+  length (519 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization with more targeted keywords.
+image_alt: >-
+  Community members discuss medical innovation in a warm modern museum café
+  setting.
 ---
 
 A fascinating collaboration between Msheireb Museums and Sidra Medicine is bringing science and medicine to the forefront of public engagement. This unique partnership is showcasing the powerful intersection of history, culture, and scientific advancement through an innovative program known as the Science Café. This initiative not only educates but also inspires the community by making complex medical discoveries accessible to all.

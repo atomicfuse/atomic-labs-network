@@ -1,30 +1,41 @@
 ---
-title: "How to Thrift Magnolia Style Home Decor for a High-End Look on a Budget"
-description: "Create the warm, collected feel of Magnolia-inspired home decor without paying designer prices. Learn how to shop secondhand by focusing on materials, shapes, textures, and timeless details."
-type: "standard"
-status: "published"
-publishDate: "2026-04-30T08:39:48+00:00"
-author: "Taylor Winters"
+title: How to Thrift Magnolia Style Home Decor for a High-End Look on a Budget
+description: >-
+  Create the warm, collected feel of Magnolia-inspired home decor without paying
+  designer prices. Learn how to shop secondhand by focusing on materials,
+  shapes, textures, and timeless details.
+type: standard
+status: published
+publishDate: '2026-04-30T08:39:48+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Budget"
-  - "Inspirations"
-  - "Tips"
-slug: "how-to-thrift-magnolia-style-home-decor-for-a-high-end-look-on-a-budget"
+  - Decor Ideas
+  - Budget
+  - Inspirations
+  - Tips
+slug: how-to-thrift-magnolia-style-home-decor-for-a-high-end-look-on-a-budget
 reading_time: 5
-source_url: "https://decoratingmom.com/how-to-thrift-magnolia-style-home-decor-for-a-high-end-look-on-a-budget/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingmom.com/how-to-thrift-magnolia-style-home-decor-for-a-high-end-look-on-a-budget/
+imported_from: wordpress
 wp_original_id: 35154
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: >-
+  /assets/images/how-to-thrift-magnolia-style-home-decor-for-a-high-end-look-on-a-budget.webp
 seo:
-  canonical: "https://decoratingmom.com/how-to-thrift-magnolia-style-home-decor-for-a-high-end-look-on-a-budget/"
-  og_title: "How to Thrift Magnolia Style Home Decor for a High-End Look on a Budget - Decorating Mom"
-  og_description: "Create the warm, collected feel of Magnolia-inspired home decor without paying designer prices. Learn how to shop secondhand by focusing on materials, shapes, textures, and timeless details."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingmom.com/how-to-thrift-magnolia-style-home-decor-for-a-high-end-look-on-a-budget/
+  og_title: >-
+    How to Thrift Magnolia Style Home Decor for a High-End Look on a Budget -
+    Decorating Mom
+  og_description: >-
+    Create the warm, collected feel of Magnolia-inspired home decor without
+    paying designer prices. Learn how to shop secondhand by focusing on
+    materials, shapes, textures, and timeless details.
+  twitter_card: summary_large_image
 videos:
-  - id: "74978a4e"
-    url: "https://www.youtube.com/watch?v=wheSss1JQBE"
-    position: "after-paragraph-2"
+  - id: 74978a4e
+    url: 'https://www.youtube.com/watch?v=wheSss1JQBE'
+    position: after-paragraph-2
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -32,7 +43,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 100
   keyword_relevance: 85
-quality_note: "Well-written article with excellent tone and practical advice, though the title could be more concise and some heading structure could be improved for better SEO."
+quality_note: >-
+  Well-written article with excellent tone and practical advice, though the
+  title could be more concise and some heading structure could be improved for
+  better SEO.
+image_alt: >-
+  Warm farmhouse living room vignette with thrifted wood, ceramics, brass, woven
+  texture, and vintage art.
 ---
 
 Magnolia style is loved for its warm, collected, elevated feeling, but achieving that look does not have to mean paying Magnolia prices. The key is to stop shopping only for exact dupes and start looking for the ingredients that create the same overall mood: warm wood, charming ceramics, aged brass, moody vintage art, woven texture, and cozy old-world details.

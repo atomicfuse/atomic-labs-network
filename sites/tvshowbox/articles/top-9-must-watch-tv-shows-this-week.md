@@ -1,25 +1,33 @@
 ---
-title: "Top 9 Must-Watch TV Shows This Week"
-description: "Television offers a diverse lineup this week, featuring thrilling dramas, light-hearted comedies, and thought-provoking documentaries. With new releases and continuing series, there's plenty of captivating content for every viewer to explore and enjoy on their screens."
-type: "standard"
+title: Top 9 Must-Watch TV Shows This Week
+description: >-
+  Television offers a diverse lineup this week, featuring thrilling dramas,
+  light-hearted comedies, and thought-provoking documentaries. With new releases
+  and continuing series, there's plenty of captivating content for every viewer
+  to explore and enjoy on their screens.
+type: standard
 status: published
-publishDate: "2026-01-12T09:37:25+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-12T09:37:25+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "top-9-must-watch-tv-shows-this-week"
+  - TV News
+  - TV
+slug: top-9-must-watch-tv-shows-this-week
 reading_time: 3
-source_url: "https://tvshowbox.com/top-9-must-watch-tv-shows-this-week/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/top-9-must-watch-tv-shows-this-week/'
+imported_from: wordpress
 wp_original_id: 24048
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/top-9-must-watch-tv-shows-this-week.webp
 seo:
-  canonical: "https://tvshowbox.com/top-9-must-watch-tv-shows-this-week/"
-  og_title: "Top 9 Must-Watch TV Shows This Week - TV Show Box"
-  og_description: "Television offers a diverse lineup this week, featuring thrilling dramas, light-hearted comedies, and thought-provoking documentaries. With new releases and continuing series, there's plenty of captivating content for every viewer to explore and enjoy on their screens."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/top-9-must-watch-tv-shows-this-week/'
+  og_title: Top 9 Must-Watch TV Shows This Week - TV Show Box
+  og_description: >-
+    Television offers a diverse lineup this week, featuring thrilling dramas,
+    light-hearted comedies, and thought-provoking documentaries. With new
+    releases and continuing series, there's plenty of captivating content for
+    every viewer to explore and enjoy on their screens.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 58
 score_breakdown:
   seo_quality: 45
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 42
   factual_accuracy: 60
   keyword_relevance: 70
-quality_note: "The article has a good conversational tone but suffers from being too short, lacking specific show details, and having weak SEO optimization with generic content."
+quality_note: >-
+  The article has a good conversational tone but suffers from being too short,
+  lacking specific show details, and having weak SEO optimization with generic
+  content.
+image_alt: >-
+  Moody living room lit by colorful TV screens, suggesting a diverse week of
+  must-watch shows.
 ---
 
 Television offers a wide range of entertainment options to satisfy diverse tastes. Whether you enjoy thrilling dramas, light-hearted comedies, or intriguing documentaries, this week promises to deliver captivating content for every viewer. With new releases and continuing series, there's no shortage of options to explore on your screen.

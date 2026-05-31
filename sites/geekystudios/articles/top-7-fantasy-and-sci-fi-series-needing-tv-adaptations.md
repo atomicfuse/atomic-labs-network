@@ -1,24 +1,34 @@
 ---
-title: "Top 7 Fantasy and Sci-Fi Series Needing TV Adaptations"
-description: "In a world where TV adaptations of novels thrive, many remarkable fantasy and sci-fi series remain untouched, despite their captivating storytelling and imaginative worlds. These literary treasures offer rich opportunities for new and engaging television narratives."
-type: "standard"
+title: Top 7 Fantasy and Sci-Fi Series Needing TV Adaptations
+description: >-
+  In a world where TV adaptations of novels thrive, many remarkable fantasy and
+  sci-fi series remain untouched, despite their captivating storytelling and
+  imaginative worlds. These literary treasures offer rich opportunities for new
+  and engaging television narratives.
+type: standard
 status: published
-publishDate: "2025-11-20T10:41:35+00:00"
-author: "Arthur Daly"
+publishDate: '2025-11-20T10:41:35+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "top-7-fantasy-and-sci-fi-series-needing-tv-adaptations"
+  - Pop Culture
+slug: top-7-fantasy-and-sci-fi-series-needing-tv-adaptations
 reading_time: 3
-source_url: "https://geekystudios.com/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations/
+imported_from: wordpress
 wp_original_id: 663
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations.webp
 seo:
-  canonical: "https://geekystudios.com/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations/"
-  og_title: "Top 7 Fantasy and Sci-Fi Series Needing TV Adaptations - Geeky Studios"
-  og_description: "In a world where TV adaptations of novels thrive, many remarkable fantasy and sci-fi series remain untouched, despite their captivating storytelling and imaginative worlds. These literary treasures offer rich opportunities for new and engaging television narratives."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/11/make_books-1-1.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations/
+  og_title: Top 7 Fantasy and Sci-Fi Series Needing TV Adaptations - Geeky Studios
+  og_description: >-
+    In a world where TV adaptations of novels thrive, many remarkable fantasy
+    and sci-fi series remain untouched, despite their captivating storytelling
+    and imaginative worlds. These literary treasures offer rich opportunities
+    for new and engaging television narratives.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/11/make_books-1-1.jpg'
+  twitter_card: summary_large_image
 quality_score: 60
 score_breakdown:
   seo_quality: 45
@@ -26,7 +36,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: "The article has good tone and keyword relevance but suffers from vague content that doesn't actually name any specific book series, making it feel incomplete and potentially misleading to readers."
+quality_note: >-
+  The article has good tone and keyword relevance but suffers from vague content
+  that doesn't actually name any specific book series, making it feel incomplete
+  and potentially misleading to readers.
+image_alt: >-
+  Seven glowing books suggest fantasy and sci-fi worlds waiting to become
+  television stories.
 ---
 
 In a world where TV adaptations of fantasy and sci-fi novels are increasingly popular, several remarkable series remain untouched by producers. These literary treasures captivate with their imaginative worlds and compelling narratives, yet they have yet to find their way onto the screen. This exploration delves into some of the most deserving series that have not yet been adapted for television, offering new opportunities for captivating storytelling.

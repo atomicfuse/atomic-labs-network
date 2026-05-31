@@ -5,7 +5,7 @@ description: >-
   mayoral run, questioning if reality TV fame qualifies for political
   leadership.
 type: standard
-status: published
+status: review
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

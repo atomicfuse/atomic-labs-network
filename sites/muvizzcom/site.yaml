@@ -1,7 +1,6 @@
 domain: muvizzcom
 active: true
 groups:
-  - mock-ads
   - outbrain-ads
 brief:
   siteName: Muvizz.com

@@ -22,7 +22,7 @@ source_url: >-
   https://www.vulture.com/article/everything-that-happened-on-outlander-series-recap-chronological-timeline.html
 source_item_id: 6a0800da4bdae0614e7aaf45
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/outlander-time-travel-timeline-chronological-guide.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   count and contains questionable claims about show details that may be
   inaccurate.
 reading_time: 3
+image_alt: >-
+  Misty Scottish standing stones with a glowing time spiral and antique objects
+  on moss.
 ---
 ## Making Sense of Outlander's Time-Hopping Saga
 

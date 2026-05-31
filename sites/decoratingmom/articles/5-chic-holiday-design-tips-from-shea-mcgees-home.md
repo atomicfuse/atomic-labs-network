@@ -1,26 +1,34 @@
 ---
-title: "5 Chic Holiday Design Tips from Shea McGee’s Home"
-description: "Shea McGee's holiday home perfectly blends style and comfort, using neutral tones and natural textures to create a calm atmosphere. Her emphasis on space and functionality ensures a beautiful yet practical living space, offering inspiration for transforming your own home."
-type: "standard"
-status: "published"
-publishDate: "2025-12-04T10:11:42+00:00"
-author: "Taylor Winters"
+title: 5 Chic Holiday Design Tips from Shea McGee’s Home
+description: >-
+  Shea McGee's holiday home perfectly blends style and comfort, using neutral
+  tones and natural textures to create a calm atmosphere. Her emphasis on space
+  and functionality ensures a beautiful yet practical living space, offering
+  inspiration for transforming your own home.
+type: standard
+status: published
+publishDate: '2025-12-04T10:11:42+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Living Room"
-slug: "5-chic-holiday-design-tips-from-shea-mcgees-home"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Living Room
+slug: 5-chic-holiday-design-tips-from-shea-mcgees-home
 reading_time: 3
-source_url: "https://decoratingmom.com/5-chic-holiday-design-tips-from-shea-mcgees-home/"
-imported_from: "wordpress"
+source_url: 'https://decoratingmom.com/5-chic-holiday-design-tips-from-shea-mcgees-home/'
+imported_from: wordpress
 wp_original_id: 35091
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/5-chic-holiday-design-tips-from-shea-mcgees-home.webp
 seo:
-  canonical: "https://decoratingmom.com/5-chic-holiday-design-tips-from-shea-mcgees-home/"
-  og_title: "5 Chic Holiday Design Tips from Shea McGee's Home - Decorating Mom"
-  og_description: "Shea McGee's holiday home perfectly blends style and comfort, using neutral tones and natural textures to create a calm atmosphere. Her emphasis on space and functionality ensures a beautiful yet practical living space, offering inspiration for transforming your own home."
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingmom.com/5-chic-holiday-design-tips-from-shea-mcgees-home/'
+  og_title: 5 Chic Holiday Design Tips from Shea McGee's Home - Decorating Mom
+  og_description: >-
+    Shea McGee's holiday home perfectly blends style and comfort, using neutral
+    tones and natural textures to create a calm atmosphere. Her emphasis on
+    space and functionality ensures a beautiful yet practical living space,
+    offering inspiration for transforming your own home.
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 65
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 80
   keyword_relevance: 75
-quality_note: "Well-written article with good tone and relevant content, but falls short on word count and could benefit from stronger SEO optimization and more specific details."
+quality_note: >-
+  Well-written article with good tone and relevant content, but falls short on
+  word count and could benefit from stronger SEO optimization and more specific
+  details.
+image_alt: >-
+  Neutral holiday living room with natural textures, greenery, soft light, and
+  elegant cozy decor
 ---
 
 When it comes to home design, few names stand out as prominently as Shea McGee. Known for her impeccable taste and signature aesthetic, Shea has once again amazed the world with the design of her holiday home. This home is not just a retreat but a true reflection of her unique style and design philosophy, offering inspiration for those looking to elevate their own living spaces.

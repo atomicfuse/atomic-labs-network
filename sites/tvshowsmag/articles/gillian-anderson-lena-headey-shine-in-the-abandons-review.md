@@ -1,25 +1,37 @@
 ---
-title: "Gillian Anderson, Lena Headey Shine in ‘The Abandons’ Review"
-description: "Netflix's \"The Abandons\" captivates with its gripping storytelling, exploring complex themes of survival, community, and justice against the American frontier. The series combines action, introspection, and stunning visuals, offering a rich narrative that engages and entertains viewers."
-type: "standard"
+title: 'Gillian Anderson, Lena Headey Shine in ‘The Abandons’ Review'
+description: >-
+  Netflix's "The Abandons" captivates with its gripping storytelling, exploring
+  complex themes of survival, community, and justice against the American
+  frontier. The series combines action, introspection, and stunning visuals,
+  offering a rich narrative that engages and entertains viewers.
+type: standard
 status: published
-publishDate: "2025-12-04T10:25:31+00:00"
-author: "Taylor Winters"
+publishDate: '2025-12-04T10:25:31+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "gillian-anderson-lena-headey-shine-in-the-abandons-review"
+  - TV News
+  - TV Shows
+slug: gillian-anderson-lena-headey-shine-in-the-abandons-review
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/gillian-anderson-lena-headey-shine-in-the-abandons-review/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/gillian-anderson-lena-headey-shine-in-the-abandons-review/
+imported_from: wordpress
 wp_original_id: 28129
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/gillian-anderson-lena-headey-shine-in-the-abandons-review.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/gillian-anderson-lena-headey-shine-in-the-abandons-review/"
-  og_title: "Gillian Anderson, Lena Headey Shine in 'The Abandons' Review - TV Shows Magazine"
-  og_description: "Netflix's \"The Abandons\" captivates with its gripping storytelling, exploring complex themes of survival, community, and justice against the American frontier. The series combines action, introspection, and stunning visuals, offering a rich narrative that engages and entertains viewers."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/12/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/gillian-anderson-lena-headey-shine-in-the-abandons-review/
+  og_title: >-
+    Gillian Anderson, Lena Headey Shine in 'The Abandons' Review - TV Shows
+    Magazine
+  og_description: >-
+    Netflix's "The Abandons" captivates with its gripping storytelling,
+    exploring complex themes of survival, community, and justice against the
+    American frontier. The series combines action, introspection, and stunning
+    visuals, offering a rich narrative that engages and entertains viewers.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/12/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "Well-written review with engaging tone and good keyword coverage, but severely hampered by apparent factual inaccuracies about the show's existence and cast, plus below-target word count."
+quality_note: >-
+  Well-written review with engaging tone and good keyword coverage, but severely
+  hampered by apparent factual inaccuracies about the show's existence and cast,
+  plus below-target word count.
+image_alt: >-
+  Two frontier women overlook a stormy western settlement at dusk with a lantern
+  between them.
 ---
 
 The streaming landscape continues to evolve as Netflix introduces a new series that captivates audiences with its gripping storytelling and rich character development. "The Abandons," a western drama, sets itself apart by exploring complex themes against the backdrop of the American frontier. This series promises not only high-stakes adventure but also a deep dive into the human spirit and the pursuit of justice in a lawless land.

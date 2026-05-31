@@ -1,25 +1,31 @@
 ---
-title: "The Rise and Impact of Ice Ice Baby"
-description: "Planning a day off in Southport offers a perfect mix of relaxation and adventure with stunning parks, culinary delights, and shopping experiences, catering to every mood and interest on the vibrant Gold Coast."
-type: "standard"
+title: The Rise and Impact of Ice Ice Baby
+description: >-
+  Planning a day off in Southport offers a perfect mix of relaxation and
+  adventure with stunning parks, culinary delights, and shopping experiences,
+  catering to every mood and interest on the vibrant Gold Coast.
+type: standard
 status: published
-publishDate: "2026-03-09T09:15:38+00:00"
-author: "Taylor Winters"
+publishDate: '2026-03-09T09:15:38+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "the-rise-and-impact-of-ice-ice-baby"
+  - Coffee News
+  - News
+slug: the-rise-and-impact-of-ice-ice-baby
 reading_time: 3
-source_url: "https://coffeeactually.com/the-rise-and-impact-of-ice-ice-baby/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/the-rise-and-impact-of-ice-ice-baby/'
+imported_from: wordpress
 wp_original_id: 51417
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/the-rise-and-impact-of-ice-ice-baby.webp
 seo:
-  canonical: "https://coffeeactually.com/the-rise-and-impact-of-ice-ice-baby/"
-  og_title: "The Rise and Impact of Ice Ice Baby - Coffee Actually"
-  og_description: "Planning a day off in Southport offers a perfect mix of relaxation and adventure with stunning parks, culinary delights, and shopping experiences, catering to every mood and interest on the vibrant Gold Coast."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/03/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/the-rise-and-impact-of-ice-ice-baby/'
+  og_title: The Rise and Impact of Ice Ice Baby - Coffee Actually
+  og_description: >-
+    Planning a day off in Southport offers a perfect mix of relaxation and
+    adventure with stunning parks, culinary delights, and shopping experiences,
+    catering to every mood and interest on the vibrant Gold Coast.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/03/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 49
 score_breakdown:
   seo_quality: 15
@@ -27,7 +33,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for a coffee website, discussing travel/tourism in Southport rather than coffee-related content, despite having coffee tags."
+quality_note: >-
+  This article is completely off-topic for a coffee website, discussing
+  travel/tourism in Southport rather than coffee-related content, despite having
+  coffee tags.
+image_alt: >-
+  Sunlit outdoor café table with iced drinks and brunch near a relaxed
+  waterfront park
 ---
 
 Planning a day off in Southport promises an exciting mix of relaxation and adventure. Nestled on the Gold Coast, this vibrant area offers everything from stunning parks to culinary delights. Whether you're looking to unwind or explore, Southport caters to every mood and interest.

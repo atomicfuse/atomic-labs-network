@@ -1,30 +1,34 @@
 ---
-title: "10 Essential Small Space Interior Design Tips"
-description: "Discover ten expert interior design secrets from designer Kristen McGowan to make your small space feel larger and more inviting."
-type: "standard"
-status: published
-publishDate: "2026-02-02T11:08:41+00:00"
-author: "Taylor Winters"
+title: 10 Essential Small Space Interior Design Tips
+description: >-
+  Discover ten expert interior design secrets from designer Kristen McGowan to
+  make your small space feel larger and more inviting.
+type: standard
+status: review
+publishDate: '2026-02-02T11:08:41+00:00'
+author: Taylor Winters
 tags:
-  - "Interior Design"
-  - "Hacks"
-  - "Ideas"
-  - "Tips"
-slug: "10-essential-small-space-interior-design-tips"
+  - Interior Design
+  - Hacks
+  - Ideas
+  - Tips
+slug: 10-essential-small-space-interior-design-tips
 reading_time: 2
-source_url: "https://decoratingmom.com/10-essential-small-space-interior-design-tips/"
-imported_from: "wordpress"
+source_url: 'https://decoratingmom.com/10-essential-small-space-interior-design-tips/'
+imported_from: wordpress
 wp_original_id: 35120
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/10-essential-small-space-interior-design-tips.webp
 seo:
-  canonical: "https://decoratingmom.com/10-essential-small-space-interior-design-tips/"
-  og_title: "10 Essential Small Space Interior Design Tips - Decorating Mom"
-  og_description: "Discover ten expert interior design secrets to make your small space feel larger and more inviting."
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingmom.com/10-essential-small-space-interior-design-tips/'
+  og_title: 10 Essential Small Space Interior Design Tips - Decorating Mom
+  og_description: >-
+    Discover ten expert interior design secrets to make your small space feel
+    larger and more inviting.
+  twitter_card: summary_large_image
 videos:
-  - id: "aab8074e"
-    url: "https://www.youtube.com/watch?v=kMn686yLBP8"
-    position: "after-paragraph-2"
+  - id: aab8074e
+    url: 'https://www.youtube.com/watch?v=kMn686yLBP8'
+    position: after-paragraph-2
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -32,7 +36,12 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance, but significantly too short at 335 words versus the 800-1200 word target, which severely impacts overall quality."
+quality_note: >-
+  Strong tone and keyword relevance, but significantly too short at 335 words
+  versus the 800-1200 word target, which severely impacts overall quality.
+image_alt: >-
+  Airy small living room with neutral decor, smart storage, natural light, and
+  space-saving furniture
 ---
 
 Living in a small space can present unique challenges, but with the right interior design strategies, you can transform any compact area into a cozy and functional haven. In this article, we'll explore ten essential decorating secrets from interior designer Kristen McGowan that will help your small space feel larger and more inviting.

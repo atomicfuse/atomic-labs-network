@@ -1,9 +1,12 @@
 ---
 title: Why Couples Are Using Travel as a Relationship Compatibility Test
-description: New dating trend sees couples using vacations to quickly assess relationship compatibility under stress and close quarters, with hotels now offering romance...
+description: >-
+  New dating trend sees couples using vacations to quickly assess relationship
+  compatibility under stress and close quarters, with hotels now offering
+  romance...
 type: standard
 status: published
-publishDate: 2026-05-19
+publishDate: 2026-05-19T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Travel Tips
@@ -12,11 +15,12 @@ tags:
   - relationship-compatibility
   - romance-travel
 slug: turbulence-tests-couples-travel-compatibility-trend
-reviewer_notes: ""
-source_url: https://www.vogue.com/article/how-turbulence-tests-became-a-romantic-travel-trend
+reviewer_notes: ''
+source_url: >-
+  https://www.vogue.com/article/how-turbulence-tests-became-a-romantic-travel-trend
 source_item_id: 6a0bc42316f23264031d770f
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/turbulence-tests-couples-travel-compatibility-trend.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -24,15 +28,23 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: Well-written travel advice with good keyword coverage but falls short on length and relies heavily on vague trend claims without concrete sources.
+quality_note: >-
+  Well-written travel advice with good keyword coverage but falls short on
+  length and relies heavily on vague trend claims without concrete sources.
 reading_time: 3
 scripts:
   - id: 8dc8d8ec-cef6-4f2e-9987-aca3a8332ace
     name: journey_peaks_1_fb
     position: head
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="journey_peaks_1"></div>
+image_alt: >-
+  Couple in a sunlit hotel room sits apart beside an open suitcase, suggesting
+  travel-related relationship tension.
 ---
 ## The Rise of 'Turbulence Tests' in Modern Dating
 

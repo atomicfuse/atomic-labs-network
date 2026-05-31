@@ -1,25 +1,33 @@
 ---
-title: "Best Coffee and Desserts in SLO CAL to Try"
-description: "San Luis Obispo County offers a vibrant coffee and dessert scene with artisanal cafes, charming bakeries, and unique dessert spots. It's a haven for coffee enthusiasts and dessert lovers, offering a memorable experience for both locals and tourists."
-type: "standard"
-status: "published"
-publishDate: "2025-11-10T09:15:35+00:00"
-author: "Taylor Winters"
+title: Best Coffee and Desserts in SLO CAL to Try
+description: >-
+  San Luis Obispo County offers a vibrant coffee and dessert scene with
+  artisanal cafes, charming bakeries, and unique dessert spots. It's a haven for
+  coffee enthusiasts and dessert lovers, offering a memorable experience for
+  both locals and tourists.
+type: standard
+status: published
+publishDate: '2025-11-10T09:15:35+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Coffee Desserts"
-slug: "best-coffee-and-desserts-in-slo-cal-to-try"
+  - Coffee News
+  - Coffee Desserts
+slug: best-coffee-and-desserts-in-slo-cal-to-try
 reading_time: 4
-source_url: "https://coffeeactually.com/best-coffee-and-desserts-in-slo-cal-to-try/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/best-coffee-and-desserts-in-slo-cal-to-try/'
+imported_from: wordpress
 wp_original_id: 51346
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/best-coffee-and-desserts-in-slo-cal-to-try.webp
 seo:
-  canonical: "https://coffeeactually.com/best-coffee-and-desserts-in-slo-cal-to-try/"
-  og_title: "Best Coffee and Desserts in SLO CAL to Try - Coffee Actually"
-  og_description: "San Luis Obispo County offers a vibrant coffee and dessert scene with artisanal cafes, charming bakeries, and unique dessert spots. It's a haven for coffee enthusiasts and dessert lovers, offering a memorable experience for both locals and tourists."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/11/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/best-coffee-and-desserts-in-slo-cal-to-try/'
+  og_title: Best Coffee and Desserts in SLO CAL to Try - Coffee Actually
+  og_description: >-
+    San Luis Obispo County offers a vibrant coffee and dessert scene with
+    artisanal cafes, charming bakeries, and unique dessert spots. It's a haven
+    for coffee enthusiasts and dessert lovers, offering a memorable experience
+    for both locals and tourists.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/11/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "The article has good tone and accuracy but falls short on length (602 words vs 800-1200 target) and lacks specific coffee brewing details or gear recommendations that would better match the site's core focus areas."
+quality_note: >-
+  The article has good tone and accuracy but falls short on length (602 words vs
+  800-1200 target) and lacks specific coffee brewing details or gear
+  recommendations that would better match the site's core focus areas.
+image_alt: >-
+  Sunlit cafe table with artisan coffee and desserts against a soft Central
+  Coast backdrop
 ---
 
 San Luis Obispo County, located on California's Central Coast, is a haven for coffee enthusiasts and dessert lovers alike. This picturesque region offers a delightful array of cafes and dessert spots that cater to both locals and tourists. From artisanal coffee roasters to charming bakeries, the area promises a unique experience for every palate.

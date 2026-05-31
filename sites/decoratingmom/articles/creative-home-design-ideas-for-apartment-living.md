@@ -1,27 +1,35 @@
 ---
-title: "Creative Home Design Ideas for Apartment Living"
-description: "Transform your living space into a stylish sanctuary by embracing minimalism, incorporating sustainable elements, and personalizing with unique accents. Create functional spaces and utilize color psychology and lighting to enhance ambiance and support your lifestyle."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T10:09:31+00:00"
-author: "Taylor Winters"
+title: Creative Home Design Ideas for Apartment Living
+description: >-
+  Transform your living space into a stylish sanctuary by embracing minimalism,
+  incorporating sustainable elements, and personalizing with unique accents.
+  Create functional spaces and utilize color psychology and lighting to enhance
+  ambiance and support your lifestyle.
+type: standard
+status: published
+publishDate: '2026-01-15T10:09:31+00:00'
+author: Taylor Winters
 tags:
-  - "Decor Ideas"
-  - "Ideas"
-  - "Inspirations"
-  - "Tips"
-slug: "creative-home-design-ideas-for-apartment-living"
+  - Decor Ideas
+  - Ideas
+  - Inspirations
+  - Tips
+slug: creative-home-design-ideas-for-apartment-living
 reading_time: 3
-source_url: "https://decoratingmom.com/creative-home-design-ideas-for-apartment-living/"
-imported_from: "wordpress"
+source_url: 'https://decoratingmom.com/creative-home-design-ideas-for-apartment-living/'
+imported_from: wordpress
 wp_original_id: 35110
-featuredImage: "/assets/images/decoratingmom-general-article.webp"
+featuredImage: /assets/images/creative-home-design-ideas-for-apartment-living.webp
 seo:
-  canonical: "https://decoratingmom.com/creative-home-design-ideas-for-apartment-living/"
-  og_title: "Creative Home Design Ideas for Apartment Living - Decorating Mom"
-  og_description: "Transform your living space into a stylish sanctuary by embracing minimalism, incorporating sustainable elements, and personalizing with unique accents. Create functional spaces and utilize color psychology and lighting to enhance ambiance and support your lifestyle."
-  og_image: "https://decoratingmom.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://decoratingmom.com/creative-home-design-ideas-for-apartment-living/'
+  og_title: Creative Home Design Ideas for Apartment Living - Decorating Mom
+  og_description: >-
+    Transform your living space into a stylish sanctuary by embracing
+    minimalism, incorporating sustainable elements, and personalizing with
+    unique accents. Create functional spaces and utilize color psychology and
+    lighting to enhance ambiance and support your lifestyle.
+  og_image: 'https://decoratingmom.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,13 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (524 words vs 800-1200 target) and could better incorporate specific site keywords like 'small spaces' and 'budget decor'."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (524 words vs 800-1200 target) and could better incorporate specific site
+  keywords like 'small spaces' and 'budget decor'.
+image_alt: >-
+  Stylish minimalist apartment living room with plants, warm light, and
+  multifunctional furniture
 ---
 
 Transforming your living space into a sanctuary of style and comfort is an exciting journey. Whether you're revamping a room or starting from scratch, understanding the latest trends and timeless design principles can significantly enhance your home environment. From choosing the right colors to arranging furniture for optimal functionality, every decision influences the overall ambiance.

@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.aol.com/articles/netflix-orders-tv-shows-margot-223951000.html'
 source_item_id: 6a0548c4febc8d8d1c2ca3e4
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/netflix-orders-margot-robbie-kim-kardashian-shows.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   Strong tone and topic relevance but significantly too short at 461 words and
   contains potentially fabricated project details that can't be verified.
 reading_time: 2
+image_alt: >-
+  Red-lit studio table with scripts, stethoscope, sunglasses, and a phone
+  evoking celebrity streaming dramas.
 ---
 ## Netflix's Celebrity Power Play
 
