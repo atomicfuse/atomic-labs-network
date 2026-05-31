@@ -20,7 +20,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71285749/precommitment-eating-strategy/
 source_item_id: 6a09bbd1099fd899f75e8257
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/precommitment-strategy-beat-stress-eating-dietitians.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75

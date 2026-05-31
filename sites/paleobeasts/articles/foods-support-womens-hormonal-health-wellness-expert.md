@@ -23,7 +23,7 @@ source_url: >-
   https://www.hindustantimes.com/lifestyle/health/wellness-coach-shares-6-foods-that-support-hormonal-health-in-women-from-seeds-to-leafy-greens-101778930981217.html
 source_item_id: 6a14209016f23264031d7da8
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/foods-support-womens-hormonal-health-wellness-expert.webp
 quality_score: 46
 score_breakdown:
   seo_quality: 35

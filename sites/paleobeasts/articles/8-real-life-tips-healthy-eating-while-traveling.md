@@ -22,7 +22,7 @@ source_url: >-
   https://news.google.com/atom/articles/CBMipwFBVV95cUxPcVpFVVZIY0RmMURNa291djRUN1ZIVDUxQzhpczRCaEJZUXFBVlczLVRtSzBuTU82RkM4Y0ctVl9Rams2NEFpZ3hteS0tYVFqeENjOW9HelFFc3M2TEJnekppbVhJbld5dkNnN29LTkVZMmFxdnJvWG5MRnJ3bjBWODZQU2lnaUtYbVMtcTl5M1pYRklJczRrM05HOUY0UmR5eHNReDY5dw?oc=5
 source_item_id: 6a184523454e8b9490eacafa
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/8-real-life-tips-healthy-eating-while-traveling.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 75
