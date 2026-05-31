@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://thepointsguy.com/news/boston-logan-remote-terminal-tour/'
 source_item_id: 6a1bda1a9bf3ecf115d9815f
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie-general-article.webp
+featuredImage: /assets/images/boston-logan-remote-terminal-framingham-pilot.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   tone, but falls short on word count and contains some vague sourcing that
   raises minor accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Travelers with suitcases move through a quiet remote terminal as an unbranded
+  shuttle waits outside.
 ---
 ## Revolutionary Airport Experience Launches in Massachusetts
 
