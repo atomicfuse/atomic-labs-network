@@ -22,7 +22,7 @@ source_url: >-
   https://www.travelpulse.com/gallery/agents/don-t-miss-the-may-quiz2win-test-your-norwegian-cruise-line-knowledge-for-the-chance-to-win-a-cruise
 source_item_id: 6a182f740fc9210eaf31ab01
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/norwegian-cruise-line-may-quiz2win-contest.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ quality_note: >-
   requirements and lacks specific factual details about the contest, making it
   feel somewhat generic and promotional.
 reading_time: 2
+image_alt: >-
+  Cruise ship at dusk with abstract quiz-themed light trails over calm harbor
+  water
 ---
 ## Quiz Your Way to a Cruise Vacation
 
