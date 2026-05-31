@@ -5,7 +5,7 @@ description: >-
   design elements that reflect personal adventures while maintaining
   sophisticated...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Zoe Adams
 tags:
