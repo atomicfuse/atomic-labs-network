@@ -938,25 +938,6 @@ sites:
     saved_previews: null
     custom_domain: carsnewsinformer.com
     worker_pending_dns: false
-  - domain: travelingfoodie
-    company: null
-    vertical: ""
-    status: Staging
-    site_id: "0235416493877"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-31T13:50:16.493Z
-    created_at: 2026-05-31T13:50:16.493Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/travelingfoodie
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelingfoodie
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: asaftest
     company: null
@@ -1018,3 +999,23 @@ deleted:
     saved_previews: null
     custom_domain: null
     deleted_at: 2026-05-31T15:20:09.059Z
+  - domain: travelingfoodie
+    company: null
+    vertical: ""
+    status: Staging
+    site_id: "0235416493877"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-05-31T13:50:16.493Z
+    created_at: 2026-05-31T13:50:16.493Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/travelingfoodie
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelingfoodie
+    saved_previews: null
+    custom_domain: null
+    deleted_at: 2026-05-31T15:20:29.573Z
