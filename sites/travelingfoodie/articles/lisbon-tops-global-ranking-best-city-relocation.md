@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.ynetnews.com/travel/article/bkpbezdxfe'
 source_item_id: 6a1bda1a9bf3ecf115d98162
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie-general-article.webp
+featuredImage: /assets/images/lisbon-tops-global-ranking-best-city-relocation.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
   significantly under target word count at 457 words versus the 800-1200 word
   target.
 reading_time: 2
+image_alt: >-
+  Sunlit Lisbon hillside with a suitcase and blank travel map suggesting
+  international relocation.
 ---
 ## Lisbon Claims Top Spot in New Relocation Index
 
