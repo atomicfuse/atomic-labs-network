@@ -5,7 +5,7 @@ description: >-
   traffic from graduations, vacations, and holiday trips during late spring
   and...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: James Reed
 tags:

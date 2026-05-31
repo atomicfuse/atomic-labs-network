@@ -4,7 +4,7 @@ description: >-
   Hess gas stations vanished after Marathon Petroleum acquired retail operations
   in 2014, converting all locations to Speedway by 2016. The brand survives...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: James Reed
 tags:
