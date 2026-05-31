@@ -1,12 +1,9 @@
 ---
 title: New Framework Shows How Temporary Carbon Removal Can Target Methane
-description: >-
-  A Nature study reveals how temporary carbon storage can effectively offset
-  methane emissions but not CO2, offering policymakers a physics-based
-  accounting...
+description: A Nature study reveals how temporary carbon storage can effectively offset methane emissions but not CO2, offering policymakers a physics-based accounting...
 type: standard
-status: review
-publishDate: '2026-05-29'
+status: published
+publishDate: 2026-05-29
 author: Daniel Rivera
 tags:
   - Mind-Blowing Science
@@ -15,11 +12,8 @@ tags:
   - methane-emissions
   - environmental-policy
 slug: temporary-carbon-removal-framework-methane-climate-goals
-reviewer_notes: >-
-  The article is well-written and scientifically sound but falls short on length
-  (667 words vs 800-1200 target) and has a moderate SEO title that could be more
-  compelling for the target audience.
-source_url: 'https://phys.org/news/2026-05-temporary-carbon-climate-goals.html'
+reviewer_notes: Approved via review queue.
+source_url: https://phys.org/news/2026-05-temporary-carbon-climate-goals.html
 source_item_id: 6a17d0828c60bc3c84eb2dba
 generated_by: claude
 featuredImage: /assets/images/temporary-carbon-removal-framework-methane-climate-goals.webp
@@ -30,14 +24,9 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: >-
-  The article is well-written and scientifically sound but falls short on length
-  (667 words vs 800-1200 target) and has a moderate SEO title that could be more
-  compelling for the target audience.
+quality_note: The article is well-written and scientifically sound but falls short on length (667 words vs 800-1200 target) and has a moderate SEO title that could be more compelling for the target audience.
 reading_time: 3
-image_alt: >-
-  Glass hourglass holding carbon particles as methane-like bubbles drift above
-  distant farmland.
+image_alt: Glass hourglass holding carbon particles as methane-like bubbles drift above distant farmland.
 ---
 ## Revolutionary Approach to Carbon Accounting
 
