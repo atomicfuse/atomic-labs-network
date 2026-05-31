@@ -938,6 +938,7 @@ sites:
     saved_previews: null
     custom_domain: carsnewsinformer.com
     worker_pending_dns: false
+deleted:
   - domain: asaftest
     company: null
     vertical: Automotive
@@ -957,4 +958,4 @@ sites:
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=asaftest
     saved_previews: null
     custom_domain: null
-deleted: []
+    deleted_at: 2026-05-31T12:44:40.916Z
