@@ -6,7 +6,7 @@ description: >-
   circulation and glucose metabolism, contributing to better health management
   and overall cardiovascular health.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T09:49:32+00:00'
 author: Taylor Winters
 tags:

@@ -4,7 +4,7 @@ description: >-
   Cutting through conflicting fitness advice, experts reveal the optimal weekly
   Pilates schedule needed to see real muscle definition and toning results.
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Lily Reed
 tags:

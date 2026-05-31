@@ -6,7 +6,7 @@ description: >-
   Her ensemble, paired with minimalistic accessories, highlighted her status as
   a fashion icon and trendsetter.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:51:34+00:00'
 author: Lena Harper
 tags:

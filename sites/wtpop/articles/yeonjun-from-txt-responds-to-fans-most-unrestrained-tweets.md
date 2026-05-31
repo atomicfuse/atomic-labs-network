@@ -4,7 +4,7 @@ description: >-
   YEONJUN of TXT dives into fans' thirstiest tweets, sharing his candid
   reactions and humor.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:07:34+00:00'
 author: Lena Harper
 tags:

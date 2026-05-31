@@ -6,7 +6,7 @@ description: >-
   incorporate textures and patterns to create a harmonious living environment
   that evolves with you over time.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T09:59:24+00:00'
 author: Taylor Winters
 tags:

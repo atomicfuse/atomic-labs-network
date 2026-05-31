@@ -4,7 +4,7 @@ description: >-
   25-year-old Olivia Santelli, who drew 1,000+ attendees to her viral Oak Street
   Beach Pilates classes, opens her first boutique studio in Edison Park.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Nora Sanders
 tags:

@@ -4,7 +4,7 @@ description: >-
   Following his recent exit from 9-1-1, Peter Krause's impressive TV career
   spans comedy, drama, and everything in between. Here are his top-rated shows.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

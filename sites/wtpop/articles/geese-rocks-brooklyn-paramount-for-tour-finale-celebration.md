@@ -6,7 +6,7 @@ description: >-
   Formed by high school friends, Geese's unique blend of rock and experimental
   flair sets them apart, garnering industry attention.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:10:35+00:00'
 author: Lena Harper
 tags:

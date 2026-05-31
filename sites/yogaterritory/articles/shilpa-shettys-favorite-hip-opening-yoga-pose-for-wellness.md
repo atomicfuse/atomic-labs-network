@@ -6,7 +6,7 @@ description: >-
   These poses target tight hip muscles, promoting emotional release and
   contributing to a balanced, holistic lifestyle.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-17T10:04:42+00:00'
 author: Taylor Winters
 tags:

@@ -5,7 +5,7 @@ description: >-
   insights into effective teaching techniques and how to enhance both personal
   practice and teaching capabilities.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-18T04:31:34+00:00'
 author: Taylor Winters
 tags:

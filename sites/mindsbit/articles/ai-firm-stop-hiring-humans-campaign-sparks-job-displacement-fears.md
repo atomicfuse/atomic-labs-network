@@ -4,7 +4,7 @@ description: >-
   Artisan's controversial billboard campaign triggers backlash as concerns mount
   over AI-driven job displacement and corporate power consolidation.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Maya Gray
 tags:

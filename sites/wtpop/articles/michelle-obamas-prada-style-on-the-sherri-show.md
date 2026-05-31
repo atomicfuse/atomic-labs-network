@@ -5,7 +5,7 @@ description: >-
   showcasing her elegant and modern fashion sense and reinforcing her influence
   on global fashion trends.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T10:37:31+00:00'
 author: Lena Harper
 tags:

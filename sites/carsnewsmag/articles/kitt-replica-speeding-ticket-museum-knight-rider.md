@@ -5,7 +5,7 @@ description: >-
   ticket despite being stationary for years, highlighting automated
   enforcement...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: James Reed
 tags:

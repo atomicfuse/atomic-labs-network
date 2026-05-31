@@ -6,7 +6,7 @@ description: >-
   auctions. Record-breaking sales and innovations like virtual reality tours
   position Sotheby's as a leader in the art world.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-30T15:10:55+00:00'
 author: Lena Harper
 tags:

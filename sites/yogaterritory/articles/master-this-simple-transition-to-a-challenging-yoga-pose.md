@@ -6,7 +6,7 @@ description: >-
   transition, which offers an opportunity to deepen flexibility, balance, and
   concentration.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-01T07:01:36+00:00'
 author: Taylor Winters
 tags:

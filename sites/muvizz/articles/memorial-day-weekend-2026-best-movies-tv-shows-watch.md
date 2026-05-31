@@ -4,7 +4,7 @@ description: >-
   From Spider-Noir to The Boys finale, here's your guide to the best new movies
   and TV shows hitting theaters and streaming this Memorial Day weekend.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Julia Parker
 tags:

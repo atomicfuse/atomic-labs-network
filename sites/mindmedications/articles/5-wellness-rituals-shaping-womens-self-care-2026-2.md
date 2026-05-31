@@ -4,7 +4,7 @@ description: >-
   From pH-aware intimate hygiene to sleep-time routines, these evidence-informed
   wellness rituals are transforming women's daily self-care practices in 2026.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Nora Sanders
 tags:

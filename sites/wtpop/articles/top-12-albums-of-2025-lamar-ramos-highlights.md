@@ -6,7 +6,7 @@ description: >-
   innovative collaborations and technology-driven creativity shaping the music
   landscape.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T10:59:50+00:00'
 author: Lena Harper
 tags:

@@ -4,7 +4,7 @@ description: >-
   Discover 10 affordable yet essential Amazon products that will transform your
   home into a clean, stylish, and functional space.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T10:01:24+00:00'
 author: Taylor Winters
 tags:

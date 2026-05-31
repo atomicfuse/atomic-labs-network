@@ -4,7 +4,7 @@ description: >-
   Discover a full-body yoga routine designed for intermediate practitioners.
   Elevate your practice with this creative and effective daily flow.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-03T09:49:18+00:00'
 author: Taylor Winters
 tags:

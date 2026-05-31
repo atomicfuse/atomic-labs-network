@@ -5,7 +5,7 @@ description: >-
   inspired Nate Jacobs' brutal season 3 death scene in Euphoria's penultimate
   episode.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

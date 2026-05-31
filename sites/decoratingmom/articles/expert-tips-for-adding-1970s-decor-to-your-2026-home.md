@@ -6,7 +6,7 @@ description: >-
   vibrancy. This era's rich colors, natural materials, and functional furniture
   continue to influence modern home design trends.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T09:59:34+00:00'
 author: Taylor Winters
 tags:

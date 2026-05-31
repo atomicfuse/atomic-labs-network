@@ -5,7 +5,7 @@ description: >-
   pandemic-related travel concerns and tourist site reopenings affecting summer
   travel plans.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Sarah Rivera
 tags:

@@ -6,7 +6,7 @@ description: >-
   create a harmonious and inviting environment that reflects your unique
   personality and ensures functionality.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T10:09:35+00:00'
 author: Taylor Winters
 tags:

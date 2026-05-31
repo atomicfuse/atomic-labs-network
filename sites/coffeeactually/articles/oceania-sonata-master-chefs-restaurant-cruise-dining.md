@@ -5,7 +5,7 @@ description: >-
   the first dedicated Master Chefs restaurant at sea and setting new standards
   for...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Ryan Powell
 tags:

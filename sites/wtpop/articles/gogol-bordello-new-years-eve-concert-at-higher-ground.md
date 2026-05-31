@@ -6,7 +6,7 @@ description: >-
   new tracks live. The band blends punk rock with Eastern European music for
   high-energy performances.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:24:07+00:00'
 author: Lena Harper
 tags:

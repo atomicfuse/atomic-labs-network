@@ -4,7 +4,7 @@ description: >-
   Fergie joined will.i.am, APL.DE.AP and Taboo on stage at the 2026 American
   Music Awards to accept Best Throwback Song for 'Rock That Body.'
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

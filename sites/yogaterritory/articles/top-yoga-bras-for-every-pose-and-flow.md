@@ -6,7 +6,7 @@ description: >-
   movement. Key features include wide straps, moisture-wicking fabrics, and
   adjustable fit, ensuring both functionality and style during practice.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-01T09:47:18+00:00'
 author: Taylor Winters
 tags:

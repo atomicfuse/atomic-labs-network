@@ -6,7 +6,7 @@ description: >-
   influencing global culture, their comeback is expected to further cement their
   legacy as icons.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-27T11:07:11+00:00'
 author: Lena Harper
 tags:

@@ -6,7 +6,7 @@ description: >-
   and critics are divided on its experimental nature, with some praising the
   band's versatility and others missing their signature style.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:08:42+00:00'
 author: Lena Harper
 tags:

@@ -5,7 +5,7 @@ description: >-
   story reinvented Widow's Bay as folk-horror mythology with supernatural
   mushroom...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Andrew Gray
 tags:
