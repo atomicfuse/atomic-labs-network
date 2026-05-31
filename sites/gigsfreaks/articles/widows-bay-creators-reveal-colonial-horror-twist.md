@@ -5,7 +5,7 @@ description: >-
   transforms from comedy mystery to folk horror through its pivotal flashback
   episodes.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Max Kim
 tags:
