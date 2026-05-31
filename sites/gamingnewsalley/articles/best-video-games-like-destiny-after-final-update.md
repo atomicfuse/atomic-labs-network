@@ -5,7 +5,7 @@ description: >-
   alternatives. Here are five games offering similar loot, co-op, and sci-fi
   experiences for...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Elena Long
 tags:
