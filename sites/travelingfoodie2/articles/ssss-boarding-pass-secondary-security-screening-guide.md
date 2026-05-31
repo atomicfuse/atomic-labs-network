@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.afar.com/magazine/ssss-on-your-boarding-pass-step-this-way'
 source_item_id: 6a182f740fc9210eaf31aafb
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/ssss-boarding-pass-secondary-security-screening-guide.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 85
@@ -32,6 +32,9 @@ quality_note: >-
   but falls short of optimal length at 588 words versus the 800-1200 target
   range.
 reading_time: 3
+image_alt: >-
+  Traveler holds a blank boarding pass near an orderly airport security
+  checkpoint.
 ---
 ## What SSSS Actually Means
 
