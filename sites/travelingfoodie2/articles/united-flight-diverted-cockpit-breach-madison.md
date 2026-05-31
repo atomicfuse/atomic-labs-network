@@ -23,7 +23,7 @@ source_url: >-
   https://www.travelpulse.com/news/airlines-airports/united-airlines-flight-diverted-to-madison-due-to-passenger-trying-to-breach-cockpit
 source_item_id: 6a1bda1a9bf3ecf115d98160
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/united-flight-diverted-cockpit-breach-madison.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   perspective and food/destination content typical for TravelingFoodieGuy's
   audience.
 reading_time: 3
+image_alt: >-
+  Tense airplane cabin aisle with a closed cockpit door and crew silhouette near
+  the front
 ---
 ## Flight Diverted Due to Security Threat
 

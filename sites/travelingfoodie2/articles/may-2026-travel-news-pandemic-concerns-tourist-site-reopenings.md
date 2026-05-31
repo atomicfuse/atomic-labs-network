@@ -24,7 +24,8 @@ source_url: >-
   https://www.travelpulse.com/news/destinations/pandemic-fears-reopening-tourist-sites-and-more-top-destination-news-from-may
 source_item_id: 6a182f740fc9210eaf31aaf6
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: >-
+  /assets/images/may-2026-travel-news-pandemic-concerns-tourist-site-reopenings.webp
 quality_score: 53
 score_breakdown:
   seo_quality: 65
@@ -38,6 +39,9 @@ quality_note: >-
   major factual accuracy issues, plus it's significantly under the target word
   count.
 reading_time: 2
+image_alt: >-
+  Sunlit city park and skyline suggesting cautious optimism around summer travel
+  reopenings.
 ---
 ## Major Travel Developments Shape May 2026
 
