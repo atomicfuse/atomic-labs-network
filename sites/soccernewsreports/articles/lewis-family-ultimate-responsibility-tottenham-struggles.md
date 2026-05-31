@@ -4,7 +4,7 @@ description: >-
   Tottenham's Lewis family issued their first direct public statement, promising
   investment and taking responsibility for Spurs' second straight 17th-place...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ben Reed
 tags:

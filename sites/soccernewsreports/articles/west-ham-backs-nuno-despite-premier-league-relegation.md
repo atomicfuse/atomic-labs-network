@@ -5,7 +5,7 @@ description: >-
   relegation from the Premier League, signaling continuity as the club prepares
   for the...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ben Reed
 tags:
