@@ -1,24 +1,33 @@
 ---
-title: "Top Tourist Destinations Heating Up Year-Round"
-description: "China plans to establish a manned lunar research station by 2030, highlighting its commitment to space exploration. The project aims to foster international collaboration, advance scientific research, and utilize lunar resources, marking a significant step in China's technological and diplomatic efforts."
-type: "standard"
+title: Top Tourist Destinations Heating Up Year-Round
+description: >-
+  China plans to establish a manned lunar research station by 2030, highlighting
+  its commitment to space exploration. The project aims to foster international
+  collaboration, advance scientific research, and utilize lunar resources,
+  marking a significant step in China's technological and diplomatic efforts.
+type: standard
 status: published
-publishDate: "2025-12-15T11:29:24+00:00"
-author: "Malcolm Anderson"
+publishDate: '2025-12-15T11:29:24+00:00'
+author: Malcolm Anderson
 tags:
-  - "News"
-slug: "top-tourist-destinations-heating-up-year-round"
+  - News
+slug: top-tourist-destinations-heating-up-year-round
 reading_time: 3
-source_url: "https://travelnights.com/top-tourist-destinations-heating-up-year-round/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/top-tourist-destinations-heating-up-year-round/'
+imported_from: wordpress
 wp_original_id: 36658
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-tourist-destinations-heating-up-year-round.webp
 seo:
-  canonical: "https://travelnights.com/top-tourist-destinations-heating-up-year-round/"
-  og_title: "Top Tourist Destinations Heating Up Year-Round - Travel Nights"
-  og_description: "China plans to establish a manned lunar research station by 2030, highlighting its commitment to space exploration. The project aims to foster international collaboration, advance scientific research, and utilize lunar resources, marking a significant step in China's technological and diplomatic efforts."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-11.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/top-tourist-destinations-heating-up-year-round/'
+  og_title: Top Tourist Destinations Heating Up Year-Round - Travel Nights
+  og_description: >-
+    China plans to establish a manned lunar research station by 2030,
+    highlighting its commitment to space exploration. The project aims to foster
+    international collaboration, advance scientific research, and utilize lunar
+    resources, marking a significant step in China's technological and
+    diplomatic efforts.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-11.jpeg'
+  twitter_card: summary_large_image
 quality_score: 38
 score_breakdown:
   seo_quality: 15
@@ -26,7 +35,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for a travel website, discussing China's space program instead of tourist destinations as suggested by the title, with zero travel-related content or keywords."
+quality_note: >-
+  This article is completely off-topic for a travel website, discussing China's
+  space program instead of tourist destinations as suggested by the title, with
+  zero travel-related content or keywords.
+image_alt: >-
+  Astronauts approach a futuristic lunar outpost with Earth rising over the moon
+  horizon.
 ---
 
 China's ambitious space exploration agenda is taking another significant leap forward with the recent unveiling of its plans to establish a manned lunar research station by 2030. This monumental project underscores China's commitment to becoming a dominant force in space exploration, showcasing technological prowess and fostering international collaboration.

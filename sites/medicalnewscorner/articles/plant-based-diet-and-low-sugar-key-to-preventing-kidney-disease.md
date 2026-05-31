@@ -1,25 +1,38 @@
 ---
-title: "Plant-Based Diet and Low Sugar: Key to Preventing Kidney Disease"
-description: "Recent research indicates that adopting a plant-based diet while reducing meat intake may significantly lower the risk of kidney disease, providing essential nutrients and contributing to overall health by reducing chronic disease risks and supporting renal function."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:17:31+00:00"
-author: "Taylor Winters"
+title: 'Plant-Based Diet and Low Sugar: Key to Preventing Kidney Disease'
+description: >-
+  Recent research indicates that adopting a plant-based diet while reducing meat
+  intake may significantly lower the risk of kidney disease, providing essential
+  nutrients and contributing to overall health by reducing chronic disease risks
+  and supporting renal function.
+type: standard
+status: published
+publishDate: '2026-01-26T09:17:31+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Health, Fitness &amp; Food"
-slug: "plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease"
+  - Health News
+  - 'Health, Fitness &amp; Food'
+slug: plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease
 reading_time: 3
-source_url: "https://medicalnewscorner.com/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease/
+imported_from: wordpress
 wp_original_id: 24766
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: >-
+  /assets/images/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease.webp
 seo:
-  canonical: "https://medicalnewscorner.com/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease/"
-  og_title: "Plant-Based Diet and Low Sugar: Key to Preventing Kidney Disease - Medical News Corner"
-  og_description: "Recent research indicates that adopting a plant-based diet while reducing meat intake may significantly lower the risk of kidney disease, providing essential nutrients and contributing to overall health by reducing chronic disease risks and supporting renal function."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/01/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease/
+  og_title: >-
+    Plant-Based Diet and Low Sugar: Key to Preventing Kidney Disease - Medical
+    News Corner
+  og_description: >-
+    Recent research indicates that adopting a plant-based diet while reducing
+    meat intake may significantly lower the risk of kidney disease, providing
+    essential nutrients and contributing to overall health by reducing chronic
+    disease risks and supporting renal function.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/01/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: "Well-written health content with good keyword coverage and appropriate tone, but falls short on length (538 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written health content with good keyword coverage and appropriate tone,
+  but falls short on length (538 words vs 800-1200 target) and could benefit
+  from stronger SEO optimization in title and meta description.
+image_alt: >-
+  Plant-based meal in soft light suggesting kidney-friendly nutrition and lower
+  sugar choices.
 ---
 
 Recent research suggests that incorporating more plant-based foods into your diet while reducing meat consumption could significantly lower the risk of developing kidney disease. This dietary approach not only supports renal health but also contributes to overall well-being by providing essential nutrients that meat-heavy diets might lack.

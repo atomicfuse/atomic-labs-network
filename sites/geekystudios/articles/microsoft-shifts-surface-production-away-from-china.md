@@ -1,24 +1,35 @@
 ---
-title: "Microsoft Shifts Surface Production Away from China"
-description: "Microsoft is considering relocating some Surface device production from China to alternative locations, responding to geopolitical and supply chain challenges. This move could diversify manufacturing locations and reduce dependencies, potentially impacting global tech industry trends toward resilient strategies."
-type: "standard"
-status: "published"
-publishDate: "2025-10-16T09:15:29+00:00"
-author: "Arthur Daly"
+title: Microsoft Shifts Surface Production Away from China
+description: >-
+  Microsoft is considering relocating some Surface device production from China
+  to alternative locations, responding to geopolitical and supply chain
+  challenges. This move could diversify manufacturing locations and reduce
+  dependencies, potentially impacting global tech industry trends toward
+  resilient strategies.
+type: standard
+status: published
+publishDate: '2025-10-16T09:15:29+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "microsoft-shifts-surface-production-away-from-china"
+  - Tech
+slug: microsoft-shifts-surface-production-away-from-china
 reading_time: 4
-source_url: "https://geekystudios.com/microsoft-shifts-surface-production-away-from-china/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/microsoft-shifts-surface-production-away-from-china/'
+imported_from: wordpress
 wp_original_id: 647
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/microsoft-shifts-surface-production-away-from-china.webp
 seo:
-  canonical: "https://geekystudios.com/microsoft-shifts-surface-production-away-from-china/"
-  og_title: "Microsoft Shifts Surface Production Away from China - Geeky Studios"
-  og_description: "Microsoft is considering relocating some Surface device production from China to alternative locations, responding to geopolitical and supply chain challenges. This move could diversify manufacturing locations and reduce dependencies, potentially impacting global tech industry trends toward resilient strategies."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/10/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/microsoft-shifts-surface-production-away-from-china/
+  og_title: Microsoft Shifts Surface Production Away from China - Geeky Studios
+  og_description: >-
+    Microsoft is considering relocating some Surface device production from
+    China to alternative locations, responding to geopolitical and supply chain
+    challenges. This move could diversify manufacturing locations and reduce
+    dependencies, potentially impacting global tech industry trends toward
+    resilient strategies.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/10/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +37,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written tech article with good tone and accuracy, but significantly under the target word count at 602 words versus the 800-1200 range."
+quality_note: >-
+  Well-written tech article with good tone and accuracy, but significantly under
+  the target word count at 602 words versus the 800-1200 range.
+image_alt: >-
+  Unbranded tablet beside abstract global factory connections on a cool blue
+  editorial background.
 ---
 
 Microsoft is reportedly considering a significant change in its manufacturing strategy for Surface devices, aiming to relocate some production from China to alternative locations. This strategic shift underscores the company's response to the evolving geopolitical landscape and supply chain challenges. Such a move could have far-reaching implications for the tech giant's operations and the broader global manufacturing sector.

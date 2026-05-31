@@ -1,26 +1,34 @@
 ---
-title: "PBS Children’s Programs Thrive with ‘Phoebe & Jay’"
-description: "PBS is reshaping its children's programming by canceling some shows to focus on digital engagement, reflecting broader industry trends. This shift aims to adapt to tech-savvy audiences and maintain educational quality through innovative digital platforms and collaborations."
-type: "standard"
+title: PBS Children’s Programs Thrive with ‘Phoebe & Jay’
+description: >-
+  PBS is reshaping its children's programming by canceling some shows to focus
+  on digital engagement, reflecting broader industry trends. This shift aims to
+  adapt to tech-savvy audiences and maintain educational quality through
+  innovative digital platforms and collaborations.
+type: standard
 status: published
-publishDate: "2026-02-02T11:16:49+00:00"
-author: "Taylor Winters"
+publishDate: '2026-02-02T11:16:49+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Cancelled"
-  - "TV Shows"
-slug: "pbs-childrens-programs-thrive-with-phoebe-jay"
+  - TV News
+  - Cancelled
+  - TV Shows
+slug: pbs-childrens-programs-thrive-with-phoebe-jay
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/pbs-childrens-programs-thrive-with-phoebe-jay/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/pbs-childrens-programs-thrive-with-phoebe-jay/'
+imported_from: wordpress
 wp_original_id: 28172
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/pbs-childrens-programs-thrive-with-phoebe-jay.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/pbs-childrens-programs-thrive-with-phoebe-jay/"
-  og_title: "PBS Children's Programs Thrive with 'Phoebe & Jay' - TV Shows Magazine"
-  og_description: "PBS is reshaping its children's programming by canceling some shows to focus on digital engagement, reflecting broader industry trends. This shift aims to adapt to tech-savvy audiences and maintain educational quality through innovative digital platforms and collaborations."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/02/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/pbs-childrens-programs-thrive-with-phoebe-jay/'
+  og_title: PBS Children's Programs Thrive with 'Phoebe & Jay' - TV Shows Magazine
+  og_description: >-
+    PBS is reshaping its children's programming by canceling some shows to focus
+    on digital engagement, reflecting broader industry trends. This shift aims
+    to adapt to tech-savvy audiences and maintain educational quality through
+    innovative digital platforms and collaborations.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/02/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 45
@@ -28,7 +36,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 65
-quality_note: "The article has significant issues with factual accuracy (vague claims without sources) and falls well short of target length, though it maintains appropriate tone and covers relevant TV industry topics."
+quality_note: >-
+  The article has significant issues with factual accuracy (vague claims without
+  sources) and falls well short of target length, though it maintains
+  appropriate tone and covers relevant TV industry topics.
+image_alt: >-
+  A children's media studio shifts from a dim old television to glowing digital
+  screens.
 ---
 
 PBS is facing significant changes in its children's programming division, reflecting broader trends in the industry. These shifts are impacting beloved shows, with implications for audiences and content creators alike.

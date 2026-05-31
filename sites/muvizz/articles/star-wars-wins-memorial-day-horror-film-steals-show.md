@@ -4,7 +4,7 @@ description: >-
   The Mandalorian and Grogu tops Memorial Day weekend box office, but
   microbudget horror film Obsession becomes the real surprise story of the year.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Julia Parker
 tags:

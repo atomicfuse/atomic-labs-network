@@ -19,7 +19,7 @@ source_url: >-
   https://variety.com/2026/tv/news/margos-got-money-troubles-the-pitt-baby-casting-1236747586/
 source_item_id: 6a0548c4febc8d8d1c2ca3e2
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/the-pitt-tv-shows-cast-pay-infant-actors.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   length and makes vague claims without specific sources that could be
   problematic.
 reading_time: 3
+image_alt: >-
+  A moody TV studio nursery with baby booties on a director’s chair and crew
+  silhouettes beyond.
 ---
 ## The Hidden World of Infant Casting
 

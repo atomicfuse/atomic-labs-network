@@ -1,24 +1,34 @@
 ---
-title: "Top 3 Alabama Holiday Destinations on USA Today’s Best List"
-description: "Alabama transforms into a festive wonderland during the holiday season, offering attractions like the Enchanted Garden of Lights, Magic Christmas in Lights, and Galaxy of Lights, each providing unique experiences that captivate both locals and visitors."
-type: "standard"
-status: "published"
-publishDate: "2025-12-11T10:59:10+00:00"
-author: "Malcolm Anderson"
+title: Top 3 Alabama Holiday Destinations on USA Today’s Best List
+description: >-
+  Alabama transforms into a festive wonderland during the holiday season,
+  offering attractions like the Enchanted Garden of Lights, Magic Christmas in
+  Lights, and Galaxy of Lights, each providing unique experiences that captivate
+  both locals and visitors.
+type: standard
+status: published
+publishDate: '2025-12-11T10:59:10+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "top-3-alabama-holiday-destinations-on-usa-todays-best-list"
+  - Destinations
+slug: top-3-alabama-holiday-destinations-on-usa-todays-best-list
 reading_time: 2
-source_url: "https://travelnights.com/top-3-alabama-holiday-destinations-on-usa-todays-best-list/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/top-3-alabama-holiday-destinations-on-usa-todays-best-list/
+imported_from: wordpress
 wp_original_id: 36652
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/top-3-alabama-holiday-destinations-on-usa-todays-best-list.webp
 seo:
-  canonical: "https://travelnights.com/top-3-alabama-holiday-destinations-on-usa-todays-best-list/"
-  og_title: "Top 3 Alabama Holiday Destinations on USA Today's Best List - Travel Nights"
-  og_description: "Alabama transforms into a festive wonderland during the holiday season, offering attractions like the Enchanted Garden of Lights, Magic Christmas in Lights, and Galaxy of Lights, each providing unique experiences that captivate both locals and visitors."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-8.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/top-3-alabama-holiday-destinations-on-usa-todays-best-list/
+  og_title: Top 3 Alabama Holiday Destinations on USA Today's Best List - Travel Nights
+  og_description: >-
+    Alabama transforms into a festive wonderland during the holiday season,
+    offering attractions like the Enchanted Garden of Lights, Magic Christmas in
+    Lights, and Galaxy of Lights, each providing unique experiences that
+    captivate both locals and visitors.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-8.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,10 @@ score_breakdown:
   content_length: 38
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written destination guide with excellent keyword relevance and engaging tone, but significantly under the target word count at 383 words."
+quality_note: >-
+  Well-written destination guide with excellent keyword relevance and engaging
+  tone, but significantly under the target word count at 383 words.
+image_alt: Festive Alabama garden path glowing with holiday lights at twilight
 ---
 
 Alabama, known for its vibrant culture and rich history, becomes a magical wonderland during the holiday season. The state offers a variety of attractions that captivate both locals and visitors alike. Recently, USA Today recognized three exceptional holiday destinations in Alabama that promise unforgettable experiences.

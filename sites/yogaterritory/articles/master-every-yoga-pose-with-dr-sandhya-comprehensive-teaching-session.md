@@ -2,9 +2,10 @@
 title: 'Master Every Yoga Pose with Dr. Sandhya: Comprehensive Teaching Session'
 description: >-
   Discover essential yoga poses with Dr. Sandhya Arya, a seasoned yoga expert
-  with over 20 years of experience.
+  with over 20 years of experience offering guidance for practitioners of all
+  levels.
 type: standard
-status: published
+status: review
 publishDate: '2025-07-10T04:41:18+00:00'
 author: Taylor Winters
 tags:
@@ -31,20 +32,21 @@ seo:
     with over 20 years of experience.
   twitter_card: summary_large_image
 videos:
-  - id: 3cd2c480
+  - id: 3cb94907
     url: 'https://www.youtube.com/watch?v=Db1SyKyoRjU'
     position: after-paragraph-2
-quality_score: 72
+quality_score: 66
 score_breakdown:
-  seo_quality: 75
-  tone_match: 85
-  content_length: 35
+  seo_quality: 65
+  tone_match: 75
+  content_length: 25
   factual_accuracy: 85
   keyword_relevance: 80
 quality_note: >-
-  The article has good tone and relevance but falls significantly short of the
-  target word count at only 293 words instead of the recommended 800-1200 words.
-image_alt: Yoga instructor guiding a calm group through poses in a warm sunlit studio
+  The article has good tone and keyword relevance but is significantly too short
+  at only 293 words, which severely impacts its value for readers seeking
+  comprehensive yoga guidance.
+image_alt: Yoga instructor guides a small group through a pose in a calm sunlit studio
 ---
 
 Embark on a transformative journey into the world of yoga with Dr. Sandhya Arya, a renowned naturopath and yoga expert with over two decades of experience. In this session, Dr. Arya shares her extensive knowledge and expertise to help you master various yoga poses, enhancing both your physical and mental well-being.

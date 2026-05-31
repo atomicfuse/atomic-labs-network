@@ -30,18 +30,21 @@ seo:
     chances for puppies involved in the sessions.
   og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file-4.jpeg'
   twitter_card: summary_large_image
-quality_score: 73
+quality_score: 79
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 75
   tone_match: 85
-  content_length: 50
+  content_length: 65
   factual_accuracy: 90
-  keyword_relevance: 75
+  keyword_relevance: 80
 quality_note: >-
-  Well-written article with engaging tone but falls short on length (625 words
-  vs 800-1200 target) and could benefit from stronger SEO optimization including
-  meta description length and more strategic keyword placement.
-image_alt: People practice gentle yoga as playful puppies wander through a sunlit studio.
+  Well-written article with good tone and accurate content, but falls short on
+  length (625 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization including meta description length and more targeted keyword
+  integration.
+image_alt: >-
+  People practicing gentle yoga in a sunlit studio while playful puppies wander
+  among the mats.
 ---
 
 In a delightful fusion of wellness and companionship, Greenwood has introduced an innovative trend that is capturing hearts and bringing smiles to many faces: puppy yoga. This unique activity combines the calming practice of yoga with the playful energy of puppies, offering participants a refreshing way to relax and unwind.

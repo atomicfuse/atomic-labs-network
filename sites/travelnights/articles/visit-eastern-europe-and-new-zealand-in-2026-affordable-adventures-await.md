@@ -1,24 +1,37 @@
 ---
-title: "Visit Eastern Europe and New Zealand in 2026: Affordable Adventures Await"
-description: "As we look towards 2026, travel enthusiasts are increasingly setting their sights on Eastern Europe and New Zealand. These regions promise a blend of affordability and breathtaking experiences, offering unforgettable journeys from cultural richness to natural wonders for travelers worldwide."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T13:01:01+00:00"
-author: "Malcolm Anderson"
+title: 'Visit Eastern Europe and New Zealand in 2026: Affordable Adventures Await'
+description: >-
+  As we look towards 2026, travel enthusiasts are increasingly setting their
+  sights on Eastern Europe and New Zealand. These regions promise a blend of
+  affordability and breathtaking experiences, offering unforgettable journeys
+  from cultural richness to natural wonders for travelers worldwide.
+type: standard
+status: published
+publishDate: '2025-12-08T13:01:01+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await"
+  - Destinations
+slug: visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await
 reading_time: 3
-source_url: "https://travelnights.com/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await/
+imported_from: wordpress
 wp_original_id: 36642
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await.webp
 seo:
-  canonical: "https://travelnights.com/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await/"
-  og_title: "Visit Eastern Europe and New Zealand in 2026: Affordable Adventures Await - Travel Nights"
-  og_description: "As we look towards 2026, travel enthusiasts are increasingly setting their sights on Eastern Europe and New Zealand. These regions promise a blend of affordability and breathtaking experiences, offering unforgettable journeys from cultural richness to natural wonders for travelers worldwide."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await/
+  og_title: >-
+    Visit Eastern Europe and New Zealand in 2026: Affordable Adventures Await -
+    Travel Nights
+  og_description: >-
+    As we look towards 2026, travel enthusiasts are increasingly setting their
+    sights on Eastern Europe and New Zealand. These regions promise a blend of
+    affordability and breathtaking experiences, offering unforgettable journeys
+    from cultural richness to natural wonders for travelers worldwide.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: "Well-written travel article with engaging tone and good destination coverage, but significantly under target word count at 534 words versus the 800-1200 range."
+quality_note: >-
+  Well-written travel article with engaging tone and good destination coverage,
+  but significantly under target word count at 534 words versus the 800-1200
+  range.
+image_alt: >-
+  Traveler overlooking a dreamlike horizon blending European rooftops with New
+  Zealand mountains
 ---
 
 As we look towards 2026, travel enthusiasts are increasingly setting their sights on Eastern Europe and New Zealand. These regions promise a blend of affordability and breathtaking experiences. From the cultural richness of Eastern Europe to the natural wonders of New Zealand, these destinations are poised to offer unforgettable journeys for travelers worldwide.

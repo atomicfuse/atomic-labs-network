@@ -1,25 +1,35 @@
 ---
-title: "How Roast Level Affects Specialty Coffee Bean Prices"
-description: "Specialty coffee pricing involves balancing roast level, sensory quality, and market dynamics. Each factor influences value perception and price. As demand for high-quality, ethically produced coffee rises, the market for specialty beans continues to grow, offering new opportunities."
-type: "standard"
+title: How Roast Level Affects Specialty Coffee Bean Prices
+description: >-
+  Specialty coffee pricing involves balancing roast level, sensory quality, and
+  market dynamics. Each factor influences value perception and price. As demand
+  for high-quality, ethically produced coffee rises, the market for specialty
+  beans continues to grow, offering new opportunities.
+type: standard
 status: published
-publishDate: "2026-01-19T09:15:37+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-19T09:15:37+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beans"
-slug: "how-roast-level-affects-specialty-coffee-bean-prices"
+  - Coffee News
+  - Beans
+slug: how-roast-level-affects-specialty-coffee-bean-prices
 reading_time: 3
-source_url: "https://coffeeactually.com/how-roast-level-affects-specialty-coffee-bean-prices/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/how-roast-level-affects-specialty-coffee-bean-prices/
+imported_from: wordpress
 wp_original_id: 51385
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/how-roast-level-affects-specialty-coffee-bean-prices.webp
 seo:
-  canonical: "https://coffeeactually.com/how-roast-level-affects-specialty-coffee-bean-prices/"
-  og_title: "How Roast Level Affects Specialty Coffee Bean Prices - Coffee Actually"
-  og_description: "Specialty coffee pricing involves balancing roast level, sensory quality, and market dynamics. Each factor influences value perception and price. As demand for high-quality, ethically produced coffee rises, the market for specialty beans continues to grow, offering new opportunities."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/01/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/how-roast-level-affects-specialty-coffee-bean-prices/
+  og_title: How Roast Level Affects Specialty Coffee Bean Prices - Coffee Actually
+  og_description: >-
+    Specialty coffee pricing involves balancing roast level, sensory quality,
+    and market dynamics. Each factor influences value perception and price. As
+    demand for high-quality, ethically produced coffee rises, the market for
+    specialty beans continues to grow, offering new opportunities.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/01/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written informative piece with good tone and accuracy, but significantly under target word count at 478 words when 800-1200 is expected."
+quality_note: >-
+  Well-written informative piece with good tone and accuracy, but significantly
+  under target word count at 478 words when 800-1200 is expected.
+image_alt: >-
+  Specialty coffee beans in varied roast levels beside a cupping spoon and
+  ceramic tasting cup.
 ---
 
 Specialty coffee, cherished by enthusiasts for its distinct flavors and aromas, often comes with a premium price tag. The cost of these beans is influenced by a variety of factors, including the roast level and sensory qualities that define their uniqueness. This article explores how these elements contribute to the valuation of specialty coffee, revealing the intricate balance between bean quality and market demand.

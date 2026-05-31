@@ -5,7 +5,7 @@ description: >-
   named Chris and talking animals over women over 60, highlighting cinema's
   ageism...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Julia Parker
 tags:

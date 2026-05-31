@@ -19,7 +19,7 @@ source_url: >-
   https://deadline.com/2026/05/death-whisperer-mim-rattanawadee-wongthong-fearfolks-cher-1236900503/
 source_item_id: 6a04305486fcaaeb5bc83602
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/mim-rattanawadee-cher-supernatural-horror-film-cast.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   tone, but falls short on length and contains some potentially unverifiable
   claims about box office figures and industry trends.
 reading_time: 2
+image_alt: >-
+  A lone woman stands in a misty Thai rainforest as an eerie supernatural glow
+  rises between the trees.
 ---
 ## Rising Thai Horror Star Takes Center Stage
 

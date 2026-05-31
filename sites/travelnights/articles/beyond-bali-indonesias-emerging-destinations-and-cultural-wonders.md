@@ -1,26 +1,37 @@
 ---
-title: "Beyond Bali Indonesia’s Emerging Destinations and Cultural Wonders"
-description: "Explore Indonesia beyond Bali, from Komodo and Raja Ampat to Yogyakarta, Sumba, Lake Toba, and Wakatobi, with culture, wildlife, reefs, volcanoes, and responsible island journeys."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:36:24+00:00"
-author: "Malcolm Anderson"
+title: Beyond Bali Indonesia’s Emerging Destinations and Cultural Wonders
+description: >-
+  Explore Indonesia beyond Bali, from Komodo and Raja Ampat to Yogyakarta,
+  Sumba, Lake Toba, and Wakatobi, with culture, wildlife, reefs, volcanoes, and
+  responsible island journeys.
+type: standard
+status: published
+publishDate: '2026-05-07T09:36:24+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Destinations"
-  - "Guides &amp; Tips"
-slug: "beyond-bali-indonesias-emerging-destinations-and-cultural-wonders"
+  - Culture
+  - Destinations
+  - Guides &amp; Tips
+slug: beyond-bali-indonesias-emerging-destinations-and-cultural-wonders
 reading_time: 7
-source_url: "https://travelnights.com/beyond-bali-indonesias-emerging-destinations-and-cultural-wonders/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/beyond-bali-indonesias-emerging-destinations-and-cultural-wonders/
+imported_from: wordpress
 wp_original_id: 36729
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: >-
+  /assets/images/beyond-bali-indonesias-emerging-destinations-and-cultural-wonders.webp
 seo:
-  canonical: "https://travelnights.com/beyond-bali-indonesias-emerging-destinations-and-cultural-wonders/"
-  og_title: "Beyond Bali Indonesia’s Emerging Destinations and Cultural Wonders - Travel Nights"
-  og_description: "Explore Indonesia beyond Bali, from Komodo and Raja Ampat to Yogyakarta, Sumba, Lake Toba, and Wakatobi, with culture, wildlife, reefs, volcanoes, and responsible island journeys."
-  og_image: "https://travelnights.com/wp-content/uploads/2026/05/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/beyond-bali-indonesias-emerging-destinations-and-cultural-wonders/
+  og_title: >-
+    Beyond Bali Indonesia’s Emerging Destinations and Cultural Wonders - Travel
+    Nights
+  og_description: >-
+    Explore Indonesia beyond Bali, from Komodo and Raja Ampat to Yogyakarta,
+    Sumba, Lake Toba, and Wakatobi, with culture, wildlife, reefs, volcanoes,
+    and responsible island journeys.
+  og_image: 'https://travelnights.com/wp-content/uploads/2026/05/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -28,7 +39,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Well-crafted travel guide with excellent tone and comprehensive coverage of Indonesia's emerging destinations, though the title could be slightly more compelling for SEO."
+quality_note: >-
+  Well-crafted travel guide with excellent tone and comprehensive coverage of
+  Indonesia's emerging destinations, though the title could be slightly more
+  compelling for SEO.
+image_alt: >-
+  Traditional boat crossing turquoise Indonesian waters near volcanic islands at
+  sunrise
 ---
 
 Indonesia rewards travelers who look beyond its most famous island. Across the archipelago, volcanic highlands, coral-rich seas, ancient temples, and living traditions create a journey that feels both adventurous and deeply cultural. From Komodo dragons and Papuan reefs to Sumatran lakes and Sulawesi rituals, the country offers remarkable alternatives for travelers seeking authentic Indonesia travel experiences.
