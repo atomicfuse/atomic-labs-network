@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://vinepair.com/wine-101/'
 source_item_id: 6a03376786fcaaeb5bc832a5
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie-general-article.webp
+featuredImage: /assets/images/wine-education-mainstream-new-generation-culture.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   word count and relies heavily on vague sourcing like 'according to reports'
   without specific citations.
 reading_time: 2
+image_alt: >-
+  Young adults learn wine tasting together around a sunlit table with glasses,
+  grapes, and notes.
 ---
 ## Wine Knowledge Becomes More Accessible
 
