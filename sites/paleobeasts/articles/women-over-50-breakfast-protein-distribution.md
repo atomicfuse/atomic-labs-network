@@ -4,7 +4,7 @@ description: >-
   Dietitian review reveals why women over 50 need more evenly distributed
   protein, especially at breakfast, for muscle and bone health support.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Elena Gray
 tags:

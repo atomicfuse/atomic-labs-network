@@ -4,7 +4,7 @@ description: >-
   Discover the Jonas Brothers' favorite moments from their Christmas movie and
   their dream musical collaborations as they play with puppies.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-04T11:19:00+00:00'
 author: Lena Harper
 tags:

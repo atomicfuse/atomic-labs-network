@@ -6,7 +6,7 @@ description: >-
   takes on holiday classics, ensuring there's something for everyone to enjoy
   and enhance festive celebrations.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T10:53:33+00:00'
 author: Lena Harper
 tags:

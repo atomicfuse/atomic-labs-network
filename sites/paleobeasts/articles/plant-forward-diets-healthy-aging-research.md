@@ -5,7 +5,7 @@ description: >-
   short-term reductions in biological age markers among older adults, though
   experts urge...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-31'
 author: Elena Gray
 tags:

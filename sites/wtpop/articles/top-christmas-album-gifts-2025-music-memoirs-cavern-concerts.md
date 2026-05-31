@@ -5,7 +5,7 @@ description: >-
   albums and memoirs, ideal for gift-giving. Whether for a vinyl lover or a
   digital aficionado, there's something for everyone to enjoy.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-18T10:54:03+00:00'
 author: Lena Harper
 tags:

@@ -5,7 +5,7 @@ description: >-
   finance, using new Regulation 17A powers against crypto exchanges and
   stablecoin...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Hannah Murphy
 tags:

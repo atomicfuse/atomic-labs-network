@@ -6,7 +6,7 @@ description: >-
   approach enhances her health, offering inspiration for those seeking a
   holistic lifestyle that fosters both physical fitness and mental resilience.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-04T09:47:26+00:00'
 author: Taylor Winters
 tags:

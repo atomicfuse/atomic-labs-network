@@ -6,7 +6,7 @@ description: >-
   Tadasana, Shavasana, Anulom Vilom Pranayama, and Kapalbhati Pranayama can
   stimulate auditory nerves, balance the brain, and enhance hearing abilities.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-28T11:46:52+00:00'
 author: Taylor Winters
 tags:

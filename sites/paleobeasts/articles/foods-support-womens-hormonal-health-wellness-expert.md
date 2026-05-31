@@ -5,7 +5,7 @@ description: >-
   women, with emphasis on seeds and leafy greens as nutrition-based approaches
   to...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-31'
 author: Elena Gray
 tags:

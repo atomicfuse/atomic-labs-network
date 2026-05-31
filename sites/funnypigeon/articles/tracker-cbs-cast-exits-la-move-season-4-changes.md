@@ -5,7 +5,7 @@ description: >-
   departures and production relocation from Vancouver to Los Angeles ahead of
   Season 4.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

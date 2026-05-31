@@ -4,7 +4,7 @@ description: >-
   Olivia Santelli transformed from anxiety sufferer to viral Pilates instructor,
   opening Within the Studio in Edison Park after drawing 1,000+ to Oak Street...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Lucas Price
 tags:

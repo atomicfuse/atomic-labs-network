@@ -5,7 +5,7 @@ description: >-
   for all levels, perfect as a daily routine to enhance flexibility and
   strength.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-24T10:15:29+00:00'
 author: Taylor Winters
 tags:

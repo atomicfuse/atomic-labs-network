@@ -5,7 +5,7 @@ description: >-
   6-7, revealing the island's supernatural origin story and mushroom covenant
   curse.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Maya Torres
 tags:

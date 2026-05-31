@@ -6,7 +6,7 @@ description: >-
   bold choices, unique flair, and commitment to sustainability and inclusivity
   in fashion.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-02T11:54:49+00:00'
 author: Lena Harper
 tags:

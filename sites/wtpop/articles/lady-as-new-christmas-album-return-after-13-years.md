@@ -6,7 +6,7 @@ description: >-
   nationwide tour, bringing their festive tunes and live performances to
   audiences across the United States.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-30T15:10:41+00:00'
 author: Lena Harper
 tags:

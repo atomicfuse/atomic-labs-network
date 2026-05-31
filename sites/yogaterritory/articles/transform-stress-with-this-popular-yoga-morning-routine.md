@@ -5,7 +5,7 @@ description: >-
   stress and improve overall well-being, offering physical and emotional
   benefits as a calming alternative to high-intensity workouts.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-20T10:03:29+00:00'
 author: Taylor Winters
 tags:

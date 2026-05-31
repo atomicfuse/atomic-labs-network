@@ -5,7 +5,7 @@ description: >-
   the psychological insights from Dr. G on Prince Harry's public demeanor and
   emotional state following his royal exit.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-13T12:25:26+00:00'
 author: Lena Harper
 tags:

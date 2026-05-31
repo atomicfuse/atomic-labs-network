@@ -4,7 +4,7 @@ description: >-
   Bikini Pilates Club blends fitness, fashion, and beauty during Miami Swim Week
   at The Gale Miami Hotel, showcasing the intersection of wellness and luxury...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Lily Reed
 tags:

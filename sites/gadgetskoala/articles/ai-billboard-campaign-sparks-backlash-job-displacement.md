@@ -5,7 +5,7 @@ description: >-
   significant public backlash amid growing concerns over AI-driven job
   displacement.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Hannah Adams
 tags:

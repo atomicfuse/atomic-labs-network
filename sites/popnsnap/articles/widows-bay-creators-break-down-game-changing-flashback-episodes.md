@@ -5,7 +5,7 @@ description: >-
   'Widow's Bay' transform the series into colonial horror while revealing the
   island's...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Sam Gray
 tags:

@@ -6,7 +6,7 @@ description: >-
   endurance, and firepower. This initiative strengthens regional security and
   aligns with strategic defense priorities amid geopolitical tensions.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:24:57+00:00'
 author: Lena Harper
 tags:

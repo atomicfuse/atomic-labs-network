@@ -9,7 +9,7 @@ description: >-
   strengthening the back to boosting respiratory function and promoting
   cardiovascular health.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-24T07:32:06+00:00'
 author: Taylor Winters
 tags:

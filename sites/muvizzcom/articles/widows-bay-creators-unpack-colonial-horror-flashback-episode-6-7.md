@@ -4,7 +4,7 @@ description: >-
   Creator Katie Dippold and Hamish Linklater break down 'Widow's Bay's' pivotal
   Episodes 6 and 7, revealing the island's supernatural origins and mushroom...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Daniel Parker
 tags:

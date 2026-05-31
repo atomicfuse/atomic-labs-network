@@ -4,7 +4,7 @@ description: >-
   Explore simple and fresh spring decorating ideas to create a light and
   welcoming atmosphere in your home.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-09T10:05:21+00:00'
 author: Taylor Winters
 tags:

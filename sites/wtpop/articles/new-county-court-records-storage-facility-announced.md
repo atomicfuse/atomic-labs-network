@@ -6,7 +6,7 @@ description: >-
   access and security, featuring state-of-the-art climate control and digital
   technologies for efficient records management.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-30T15:11:42+00:00'
 author: Lena Harper
 tags:

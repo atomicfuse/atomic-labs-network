@@ -6,7 +6,7 @@ description: >-
   Sun Salutation and Warrior II to maintain warmth and energy, promoting overall
   well-being during the colder months.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-29T09:41:24+00:00'
 author: Taylor Winters
 tags:

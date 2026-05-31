@@ -4,7 +4,7 @@ description: >-
   Embody Pilates founder Camai transforms from Ohio State track star to wellness
   entrepreneur, making luxury Pilates accessible for Black women.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Nora Sanders
 tags:

@@ -5,7 +5,7 @@ description: >-
   sounds in their latest album, creating a unique auditory experience that
   pushes genre boundaries and showcases their musical versatility.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:08:22+00:00'
 author: Lena Harper
 tags:

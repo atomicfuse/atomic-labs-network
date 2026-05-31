@@ -6,7 +6,7 @@ description: >-
   and mental benefits, and inspiring the community to explore their potential
   through disciplined practice.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T09:47:33+00:00'
 author: Taylor Winters
 tags:

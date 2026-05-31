@@ -6,7 +6,7 @@ description: >-
   flexibility, strength, and balance, demonstrating how yoga can enhance muscle
   tone, improve posture, and boost mental health.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-16T09:45:33+00:00'
 author: Taylor Winters
 tags:

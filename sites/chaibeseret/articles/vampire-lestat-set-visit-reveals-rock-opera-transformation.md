@@ -5,7 +5,7 @@ description: >-
   with a theatrical, music-driven approach that reimagines the vampire
   mythology.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Chloe Carter
 tags:

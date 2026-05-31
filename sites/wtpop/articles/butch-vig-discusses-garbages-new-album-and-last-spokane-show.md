@@ -6,7 +6,7 @@ description: >-
   Vig shares insights into their creative process, highlighting the band's
   collaborative spirit and musical versatility.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T09:13:31+00:00'
 author: Lena Harper
 tags:

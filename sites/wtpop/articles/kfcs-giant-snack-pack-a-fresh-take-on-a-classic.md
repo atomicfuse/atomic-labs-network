@@ -4,7 +4,7 @@ description: >-
   Rediscover the KFC Giant Snack Pack as we explore its return, comparing it to
   past versions while evaluating its value, flavor, and quality.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-05T08:11:18+00:00'
 author: Lena Harper
 tags:

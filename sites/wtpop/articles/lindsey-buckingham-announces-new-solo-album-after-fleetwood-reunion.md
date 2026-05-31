@@ -6,7 +6,7 @@ description: >-
   guitar and vocals, the album promises introspective tracks and anthems,
   continuing his legacy of creativity and passion for music.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:09:02+00:00'
 author: Lena Harper
 tags:

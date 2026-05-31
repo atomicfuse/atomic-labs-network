@@ -5,7 +5,7 @@ description: >-
   reduce biological age markers in older adults, though experts urge caution
   about...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Elena Gray
 tags:

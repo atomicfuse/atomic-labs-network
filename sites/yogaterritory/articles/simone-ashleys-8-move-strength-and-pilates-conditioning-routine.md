@@ -5,7 +5,7 @@ description: >-
   stability, and recovery, offering a performance-first blueprint for building
   power, stamina, confidence, and long-term wellbeing.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-25T08:42:16+00:00'
 author: Taylor Winters
 tags:
