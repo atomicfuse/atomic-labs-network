@@ -1,0 +1,14 @@
+override_id: test-sticky-with-param
+name: Test Sticky With Param
+priority: 1
+targets:
+  groups: []
+  sites: []
+tracking: {}
+scripts:
+  head: []
+  body_start: []
+  body_end: []
+scripts_vars: {}
+ads_config: {}
+ads_txt: []
