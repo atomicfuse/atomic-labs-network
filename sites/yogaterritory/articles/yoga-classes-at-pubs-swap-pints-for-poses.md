@@ -6,7 +6,7 @@ description: >-
   integrates wellness into pub culture, encouraging men to explore yoga in a
   supportive community setting.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-19T09:43:29+00:00'
 author: Taylor Winters
 tags:

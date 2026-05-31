@@ -4,7 +4,7 @@ description: >-
   Start your day with a refreshing 15-minute yoga routine designed for
   beginners, featuring gentle stretches and calming breathwork.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-23T08:49:27+00:00'
 author: Taylor Winters
 tags:

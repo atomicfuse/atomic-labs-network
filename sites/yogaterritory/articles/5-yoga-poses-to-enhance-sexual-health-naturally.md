@@ -6,7 +6,7 @@ description: >-
   crucial for satisfaction, while specific poses can enhance flexibility,
   stamina, and body confidence for more fulfilling intimate experiences.
 type: standard
-status: review
+status: published
 publishDate: '2025-08-14T04:39:30+00:00'
 author: Taylor Winters
 tags:

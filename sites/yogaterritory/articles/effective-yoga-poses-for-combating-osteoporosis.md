@@ -6,7 +6,7 @@ description: >-
   fractures. Incorporating yoga strengthens bones through weight-bearing poses,
   improving overall skeletal health and reducing fall risk.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T05:26:08+00:00'
 author: Taylor Winters
 tags:

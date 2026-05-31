@@ -6,7 +6,7 @@ description: >-
   Triangle, and Bow into your routine can promote wellness, flexibility, and
   strength, contributing to overall physical and mental well-being.
 type: standard
-status: review
+status: published
 publishDate: '2025-09-11T04:33:30+00:00'
 author: Taylor Winters
 tags:

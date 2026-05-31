@@ -6,7 +6,7 @@ description: >-
   Incorporating specific poses enhanced his mobility and well-being, showcasing
   yoga's potential to improve joint health and emotional resilience.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-16T08:43:22+00:00'
 author: Taylor Winters
 tags:
