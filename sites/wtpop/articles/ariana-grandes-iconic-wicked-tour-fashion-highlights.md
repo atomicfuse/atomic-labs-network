@@ -6,7 +6,7 @@ description: >-
   and breathtaking vocals highlight her talent, creating an unforgettable
   experience and solidifying her status as a music icon.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:10:08+00:00'
 author: Lena Harper
 tags:

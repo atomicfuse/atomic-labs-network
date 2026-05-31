@@ -6,7 +6,7 @@ description: >-
   Vibrant colors, unique textures, and gender-neutral styles highlight a dynamic
   shift, inspiring fashion enthusiasts worldwide.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-11T11:00:15+00:00'
 author: Lena Harper
 tags:

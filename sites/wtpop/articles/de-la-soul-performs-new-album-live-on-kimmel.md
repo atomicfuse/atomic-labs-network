@@ -6,7 +6,7 @@ description: >-
   trio's vibrant set captivated audiences, blending new material with classic
   hits, demonstrating their enduring appeal and influence in the music industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:07:19+00:00'
 author: Lena Harper
 tags:

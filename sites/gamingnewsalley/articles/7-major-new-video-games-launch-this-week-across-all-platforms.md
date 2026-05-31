@@ -4,7 +4,7 @@ description: >-
   Discover the best new video games launching on PlayStation, Xbox, PC, and
   Nintendo Switch from May 25-31, 2026 in this comprehensive weekly guide.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Elena Long
 tags:

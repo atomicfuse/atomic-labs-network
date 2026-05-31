@@ -4,7 +4,7 @@ description: >-
   A comprehensive dietitian-reviewed guide examines multivitamins, vitamin D3,
   magnesium, and omega-3s for women, focusing on ingredient transparency and...
 type: review
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Nora Sanders
 tags:

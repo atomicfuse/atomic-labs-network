@@ -5,7 +5,7 @@ description: >-
   DualSense haptics, adaptive triggers, and new content updates for console
   gaming...
 type: review
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Elena Long
 tags:

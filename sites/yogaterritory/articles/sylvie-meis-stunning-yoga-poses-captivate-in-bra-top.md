@@ -6,7 +6,7 @@ description: >-
   balanced lifestyle, promoting fitness and self-care while fostering a
   supportive community.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T09:55:24+00:00'
 author: Taylor Winters
 tags:

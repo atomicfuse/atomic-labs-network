@@ -4,7 +4,7 @@ description: >-
   With Premier League clubs increasingly buying from rivals, we analyze which
   proven stars could make big-money domestic moves while staying in England.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Ben Reed
 tags:

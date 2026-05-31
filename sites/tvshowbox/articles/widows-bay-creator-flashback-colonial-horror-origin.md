@@ -5,7 +5,7 @@ description: >-
   6 and 7 transformed the series with colonial horror mythology and
   supernatural...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Julia Sanders
 tags:

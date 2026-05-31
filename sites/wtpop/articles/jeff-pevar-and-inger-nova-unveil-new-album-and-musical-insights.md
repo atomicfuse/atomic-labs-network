@@ -6,7 +6,7 @@ description: >-
   highlights individual strengths, creating a sound that resonates with a
   diverse audience and garners positive reviews.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-08T13:02:34+00:00'
 author: Lena Harper
 tags:

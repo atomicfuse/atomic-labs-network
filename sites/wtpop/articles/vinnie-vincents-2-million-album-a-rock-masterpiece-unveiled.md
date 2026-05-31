@@ -6,7 +6,7 @@ description: >-
   production and artistry. This ambitious endeavor aims to redefine rock music
   with unique compositions and top-tier collaborations.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-16T12:19:27+00:00'
 author: Lena Harper
 tags:

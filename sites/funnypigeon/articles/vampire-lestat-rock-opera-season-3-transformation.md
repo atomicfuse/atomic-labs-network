@@ -4,7 +4,7 @@ description: >-
   AMC's Interview with the Vampire season 3 shifts into Lestat's perspective
   with rock-music-driven storytelling and theatrical character spectacle.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Andrew Gray
 tags:

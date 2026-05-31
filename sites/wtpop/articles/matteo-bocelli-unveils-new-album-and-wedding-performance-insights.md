@@ -5,7 +5,7 @@ description: >-
   debut album, blending classical, pop, and contemporary music while showcasing
   his own unique vocal style and notable collaborations.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-27T13:09:47+00:00'
 author: Lena Harper
 tags:

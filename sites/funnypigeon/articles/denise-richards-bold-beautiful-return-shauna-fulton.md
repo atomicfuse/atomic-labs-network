@@ -4,7 +4,7 @@ description: >-
   Denise Richards is making her comeback to The Bold and the Beautiful as Shauna
   Fulton after a four-year absence from the CBS soap opera.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

@@ -5,7 +5,7 @@ description: >-
   diverse genres like indie rock, pop, electronic, jazz, and country, showcasing
   unique styles and offering something for every music fan.
 type: standard
-status: review
+status: published
 publishDate: '2025-10-30T10:17:19+00:00'
 author: Lena Harper
 tags:

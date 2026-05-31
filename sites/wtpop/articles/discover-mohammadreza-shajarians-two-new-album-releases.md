@@ -6,7 +6,7 @@ description: >-
   showcasing his mastery of Persian classical music and offering a fresh glimpse
   into his artistic journey.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:25:44+00:00'
 author: Lena Harper
 tags:

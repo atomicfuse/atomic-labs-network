@@ -6,7 +6,7 @@ description: >-
   Superman's story, offering fresh narratives and exploring his strengths and
   vulnerabilities.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-30T15:11:10+00:00'
 author: Lena Harper
 tags:

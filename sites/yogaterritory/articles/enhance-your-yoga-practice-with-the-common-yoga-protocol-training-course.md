@@ -5,7 +5,7 @@ description: >-
   by Shree H.V.P. Mandal's Degree College, to celebrate International Day of
   Yoga 2025.
 type: standard
-status: review
+status: published
 publishDate: '2025-06-19T04:37:22+00:00'
 author: Taylor Winters
 tags:

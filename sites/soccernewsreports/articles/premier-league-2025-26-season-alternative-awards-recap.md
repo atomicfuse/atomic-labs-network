@@ -5,7 +5,7 @@ description: >-
   season, covering best games, worst transfers, and standout XIs from the
   campaign.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Ben Reed
 tags:

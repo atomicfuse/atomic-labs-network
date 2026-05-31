@@ -6,7 +6,7 @@ description: >-
   Upward Facing Dog, Mountain Pose, Cobra Pose, and Bridge Pose — can help
   stimulate and improve upper body circulation.
 type: standard
-status: review
+status: published
 publishDate: '2025-04-14T07:31:42+00:00'
 author: Taylor Winters
 tags:

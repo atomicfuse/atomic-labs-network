@@ -6,7 +6,7 @@ description: >-
   artist is evident, reflecting a range of influences while maintaining
   emotional sincerity and depth through compelling songs.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T12:35:07+00:00'
 author: Lena Harper
 tags:

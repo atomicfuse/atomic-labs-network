@@ -5,7 +5,7 @@ description: >-
   owner, breaking barriers in wellness entrepreneurship and making luxury
   fitness...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Lucas Price
 tags:
