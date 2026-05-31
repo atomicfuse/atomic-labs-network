@@ -120,12 +120,6 @@ scripts:
       inline: |-
         <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
         <div data-cg-feed="journey_peaks_1"></div>
-scripts:
-  before_footer:
-    - id: tamir
-      inline: |-
-        <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
-        <div data-cg-feed="journey_peaks_1"></div>
     - id: test
       inline: |-
         <div id="demo-scroll-container" style="max-width: 700px; margin: 40px auto; padding: 0 20px; font-family: system-ui, sans-serif;">
