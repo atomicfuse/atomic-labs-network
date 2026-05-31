@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.ynetnews.com/travel/article/bkpbezdxfe'
 source_item_id: 6a1bda1a9bf3ecf115d98162
 generated_by: claude
-featuredImage: /assets/images/asaftours-general-article.webp
+featuredImage: /assets/images/lisbon-best-relocation-city-tel-aviv-ranks-17th.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   (507 words vs 800-1200 target) and lacks verification of the Global Citizen
   Solutions ranking claims.
 reading_time: 3
+image_alt: >-
+  Sunlit Lisbon-style rooftops by a harbor with a suitcase and travel items on a
+  terrace
 ---
 ## Lisbon Tops Global Relocation Rankings
 
