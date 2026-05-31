@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://thepointsguy.com/news/boston-logan-remote-terminal-tour/'
 source_item_id: 6a1bda1a9bf3ecf115d9815f
 generated_by: claude
-featuredImage: /assets/images/asaftours-general-article.webp
+featuredImage: /assets/images/boston-logan-remote-terminal-framingham-pilot.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   fabricated information about a non-existent remote terminal program and falls
   short of target word count.
 reading_time: 3
+image_alt: >-
+  Travelers with suitcases move through a modern off-site airport check-in hall
+  near a waiting bus.
 ---
 ## Revolutionary Airport Experience Launches in Massachusetts
 
