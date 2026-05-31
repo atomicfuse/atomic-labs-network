@@ -4,7 +4,7 @@ description: >-
   US military action against Iranian oil shipments escalates as Iran implements
   new transit tolls in the critical Strait of Hormuz chokepoint.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:

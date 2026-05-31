@@ -5,7 +5,7 @@ description: >-
   forced President Trump and other high-profile attendees to take cover as
   Secret...
 type: standard
-status: review
+status: published
 publishDate: '2026-04-26'
 author: Editorial Team
 tags:

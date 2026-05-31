@@ -5,7 +5,7 @@ description: >-
   climate-driven food scarcity and vessel strikes create an 'unusual mortality
   event' in...
 type: standard
-status: review
+status: published
 publishDate: '2026-04-19'
 author: Editorial Team
 tags:

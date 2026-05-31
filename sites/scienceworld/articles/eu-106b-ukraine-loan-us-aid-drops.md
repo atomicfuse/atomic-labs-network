@@ -4,7 +4,7 @@ description: >-
   European Union commits massive $106 billion loan to Ukraine as U.S. aid
   dramatically decreases, marking a shift toward military-focused spending.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:

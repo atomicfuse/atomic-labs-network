@@ -4,7 +4,7 @@ description: >-
   British counterterrorism units investigate coordinated arson attacks on Jewish
   sites, focusing on Islamic extremist group with alleged Iran connections.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-20'
 author: Editorial Team
 tags:

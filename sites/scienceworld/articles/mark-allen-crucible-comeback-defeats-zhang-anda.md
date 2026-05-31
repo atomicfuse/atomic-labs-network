@@ -5,7 +5,7 @@ description: >-
   Anda 10-6 in the 2026 World Snooker Championship first round with a
   masterful...
 type: standard
-status: review
+status: published
 publishDate: '2026-04-19'
 author: Editorial Team
 tags:

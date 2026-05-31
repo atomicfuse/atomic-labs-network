@@ -4,7 +4,7 @@ description: >-
   Baltimore Ravens secure breakout receiver Zay Flowers through 2027 with
   guaranteed $27.3M fifth-year option after back-to-back Pro Bowl seasons.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:
