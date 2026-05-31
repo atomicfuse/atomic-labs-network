@@ -5,7 +5,7 @@ description: >-
   completing an advanced constellation with improved accuracy and jam resistance
   for...
 type: standard
-status: review
+status: published
 publishDate: '2026-04-20'
 author: Editorial Team
 tags:

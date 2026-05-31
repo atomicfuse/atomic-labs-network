@@ -5,7 +5,7 @@ description: >-
   comprehensive digital toolkits with flight trackers and eSIMs to navigate
   expected...
 type: standard
-status: review
+status: published
 publishDate: '2026-04-25'
 author: Editorial Team
 tags:

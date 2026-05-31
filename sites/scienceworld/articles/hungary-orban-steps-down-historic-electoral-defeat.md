@@ -4,7 +4,7 @@ description: >-
   Viktor Orbán resigned from parliament following a landslide loss to centrist
   Péter Magyar, ending 16 years of nationalist-populist rule in Hungary.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-26'
 author: Editorial Team
 tags:

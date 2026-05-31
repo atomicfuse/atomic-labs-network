@@ -4,7 +4,7 @@ description: >-
   Iran's decision to maintain closure of the Strait of Hormuz creates
   significant disruptions for international travel and shipping routes.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-19'
 author: Editorial Team
 tags:

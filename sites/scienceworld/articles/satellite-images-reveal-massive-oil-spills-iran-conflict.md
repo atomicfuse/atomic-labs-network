@@ -5,7 +5,7 @@ description: >-
   strikes on oil infrastructure during escalating Iranian and US-Israeli
   tensions.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:

@@ -4,7 +4,7 @@ description: >-
   U.S. delegation led by Steve Witkoff and Jared Kushner travels to Pakistan as
   Iran denies direct meeting plans amid escalating tensions and new sanctions.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-25'
 author: Editorial Team
 tags:

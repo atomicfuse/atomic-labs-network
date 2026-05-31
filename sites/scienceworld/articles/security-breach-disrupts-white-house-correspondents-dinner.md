@@ -4,7 +4,7 @@ description: >-
   A shooting incident at the White House Correspondents' dinner forced President
   Trump and other VIPs to take cover as gunfire erupted in the ballroom.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-26'
 author: Editorial Team
 tags:

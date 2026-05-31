@@ -5,7 +5,7 @@ description: >-
   a record £6.2 million, drawing 90,000 attendees and over 2 million online
   viewers.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-19'
 author: Editorial Team
 tags:

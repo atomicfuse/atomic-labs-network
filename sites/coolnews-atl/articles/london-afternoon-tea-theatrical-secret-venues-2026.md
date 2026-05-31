@@ -4,7 +4,7 @@ description: >-
   From West End showstoppers to former MI9 briefing rooms, London's afternoon
   tea experiences are embracing unique venues and experiential dining trends.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-25'
 author: Editorial Team
 tags:

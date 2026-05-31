@@ -5,7 +5,7 @@ description: >-
   Trump threatens force against mine-laying boats in the critical Strait of
   Hormuz.
 type: standard
-status: review
+status: published
 publishDate: '2026-04-23'
 author: Editorial Team
 tags:
