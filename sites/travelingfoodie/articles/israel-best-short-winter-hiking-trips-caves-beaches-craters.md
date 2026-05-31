@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://www.ynetnews.com/travel/article/b1xmws11ggx'
 source_item_id: 6a1bda1a9bf3ecf115d9815d
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie-general-article.webp
+featuredImage: >-
+  /assets/images/israel-best-short-winter-hiking-trips-caves-beaches-craters.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   on length and could improve SEO optimization with better meta description and
   heading structure.
 reading_time: 3
+image_alt: >-
+  Family hikers on a winter trail blending green hills, coastal dunes, and
+  desert landscape in Israel
 ---
 ## Perfect Timing for Israeli Adventures
 
