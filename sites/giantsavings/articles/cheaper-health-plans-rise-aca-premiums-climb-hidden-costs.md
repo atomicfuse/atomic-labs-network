@@ -5,7 +5,7 @@ description: >-
   marketplace premiums increase, but experts warn of coverage gaps and financial
   risks.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Olivia Morgan
 tags:

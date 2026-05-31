@@ -5,7 +5,7 @@ description: >-
   compliance rules ahead. Learn how this affects exchanges, users, and digital
   asset...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Olivia Morgan
 tags:

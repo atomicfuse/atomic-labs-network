@@ -5,7 +5,7 @@ description: >-
   Binance falling from $198.6B to $36.4B, mirroring conditions before the 2023
   bullish...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Olivia Morgan
 tags:

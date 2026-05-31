@@ -5,7 +5,7 @@ description: >-
   protects digital assets from future regulatory reversals through clearer
   federal rules.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Olivia Morgan
 tags:
