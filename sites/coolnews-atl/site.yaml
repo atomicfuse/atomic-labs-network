@@ -1,0 +1,63 @@
+domain: coolnews-atl
+site_name: Cool News ATL
+site_tagline: null
+pages_project: coolnews-atl
+groups:
+  - entertainment
+  - taboola
+active: true
+tracking:
+  ga4: G-COOLNEWS-XXX
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  custom: []
+scripts_vars:
+  alpha_site_id: coolnews-atl-001
+  alpha_zone: news
+  interstitial_enabled: "false"
+brief:
+  audience: News readers 25-55
+  tone: professional, dramatic
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Current Events
+    - In-Depth Analysis
+    - Policy & Politics
+    - Local Stories
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: News
+  review_percentage: 5
+  schedule:
+    preferred_days:
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Saturday
+    preferred_time: 10:00
+    articles_per_day: 3
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+theme:
+  base: modern
+  layout_v2: true
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
+legal:
+  site_description: news and current events
+categories:
+  enabled: true
+  per_page: 12
+ads_config:
+  interstitial: false
+  layout: standard
