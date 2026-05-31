@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.ynetnews.com/travel/article/b1xmws11ggx'
 source_item_id: 6a1bda1a9bf3ecf115d9815d
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/four-short-winter-getaways-israel-caves-beaches-desert.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   is too short and relies heavily on vague 'reports' without specific details or
   actionable information.
 reading_time: 3
+image_alt: >-
+  Hikers follow a scenic winter trail blending Israeli coast, green hills, cave,
+  and desert views.
 ---
 ## Winter: The Perfect Season for Israeli Adventures
 
