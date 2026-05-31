@@ -5,7 +5,7 @@ description: >-
   Einbinder and co-creator Paul W. Downs reflect on five seasons of comedy-drama
   gold.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

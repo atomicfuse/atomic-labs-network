@@ -5,7 +5,7 @@ description: >-
   Discover easy ways to refresh your outdoor space using neutral tones and cozy
   textures.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-23T10:15:30+00:00'
 author: Taylor Winters
 tags:

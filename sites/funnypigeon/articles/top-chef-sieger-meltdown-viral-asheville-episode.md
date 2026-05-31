@@ -5,7 +5,7 @@ description: >-
   explosive when contestant Sieger has a dramatic rules-challenging breakdown
   during...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

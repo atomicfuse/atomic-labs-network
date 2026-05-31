@@ -5,7 +5,7 @@ description: >-
   collections at Target for 2026, discovering stylish pieces and design
   inspirations for your living space.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-29T10:03:22+00:00'
 author: Taylor Winters
 tags:
