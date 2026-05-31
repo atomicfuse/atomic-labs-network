@@ -1,0 +1,170 @@
+domain: financerooms
+site_name: FinanceRooms
+site_tagline: null
+groups:
+  - mock-minimal
+active: true
+iab_vertical_code: "52"
+iab_category_codes:
+  - "54"
+  - "63"
+  - "83"
+  - "95"
+  - "84"
+  - "85"
+brief:
+  audiences:
+    - Older adults (55-64)
+    - Seniors (65+)
+    - Parents
+    - Retirees
+  audience_type_ids:
+    - 69dfca78bcd6b4dd1ba62682
+    - 69dfca78bcd6b4dd1ba62683
+    - 69dfca7abcd6b4dd1ba6268e
+    - 69dfca7abcd6b4dd1ba62691
+  tone: professional, dramatic
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Market Analysis
+    - Personal Finance
+    - Investment Tips
+    - Economic Trends
+  seo_keywords_focus: []
+  content_guidelines:
+    - "generate only realistic images for articles no matter what. "
+  vertical: Business and Finance
+  vertical_id: 69e61d39bcd6b4dd1ba92a81
+  category_ids:
+    - 69e61d39bcd6b4dd1ba92a81
+    - 69e61d76bcd6b4dd1ba92be3
+    - 69e61d77bcd6b4dd1ba92bed
+    - 69e61d79bcd6b4dd1ba92bf9
+    - 69e61d7bbcd6b4dd1ba92c04
+    - 69e61d79bcd6b4dd1ba92bfa
+    - 69e61d79bcd6b4dd1ba92bfb
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  tag_ids: []
+theme:
+  base: custom
+  colors:
+    primary: "#e1ae9d"
+    accent: "#49362d"
+    background: "#fffbeb"
+    secondary: "#1c1917"
+    text: "#1c1917"
+    muted: "#78716c"
+    surface: "#fef3c7"
+    border: "#d6d3d1"
+    footer_bg: "#1c1917"
+    must_reads_bg: "#1c1917"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    feed_title: "#1c1917"
+    feed_desc: "#1c1917"
+    feed_date: "#78716c"
+    prose_heading: "#1c1917"
+    prose_body: "#292524"
+    category_header_text: "#ffffff"
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+tracking:
+  ga4: G-19L2E4YFRV
+  gtm: null
+  google_ads: null
+  facebook_pixel: null
+  custom: []
+scripts_vars: {}
+ads_config:
+  interstitial: true
+  interstitial_config:
+    script_url: ""
+    script_inline: |
+      (function() {
+        var cfg = window.__ATL_INTERSTITIAL_CONFIG__ || {};
+        var CLOSE_DELAY = (cfg.close_delay_seconds != null) ? cfg.close_delay_seconds : 3;
+        var overlay = document.createElement("div");
+        overlay.style.cssText = "position:fixed;inset:0;z-index:99999;background:rgba(0,0,0,0.75);backdrop-filter:blur(4px);display:flex;align-items:center;justify-content:center;font-family:-apple-system,BlinkMacSystemFont,sans-serif";
+        var card = document.createElement("div");
+        card.style.cssText = "background:#fff;border-radius:16px;padding:28px;max-width:680px;width:92%;max-height:85vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.3);position:relative";
+        var title = document.createElement("div");
+        title.textContent = "You may like:";
+        title.style.cssText = "font-size:18px;font-weight:700;color:#222;margin-bottom:16px";
+        card.appendChild(title);
+        var grid = document.createElement("div");
+        grid.style.cssText = "display:grid;grid-template-columns:repeat(3,1fr);gap:12px";
+        var ads = [["Sale for Doll","#ff6b6b"],["Sale for Teddy Bear","#4ecdc4"],["Sale for Tennis","#45b7d1"],["Sale for Toys","#f7b731"],["Sale for Games","#a55eea"],["Sale for Kids","#26de81"]];
+        ads.forEach(function(ad) {
+          var item = document.createElement("div");
+          item.textContent = ad[0];
+          item.style.cssText = "background:" + ad[1] + ";min-height:130px;border-radius:14px;color:#fff;font-size:20px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;padding:12px;cursor:pointer";
+          grid.appendChild(item);
+        });
+        card.appendChild(grid);
+        var closeBtn = document.createElement("button");
+        function activateClose() {
+          closeBtn.textContent = "\u2715";
+          closeBtn.disabled = false;
+          closeBtn.style.cssText = "position:absolute;top:12px;right:16px;background:none;border:none;font-size:22px;color:#666;cursor:pointer;padding:4px";
+        }
+        function doClose() { if (closeBtn.disabled) return; overlay.style.opacity = "0"; setTimeout(function(){ overlay.remove(); }, 300); }
+        if (CLOSE_DELAY <= 0) { activateClose(); } else {
+          closeBtn.disabled = true;
+          closeBtn.textContent = String(CLOSE_DELAY);
+          closeBtn.style.cssText = "position:absolute;top:12px;right:16px;background:rgba(0,0,0,0.08);border:none;font-size:13px;color:#999;cursor:default;padding:4px 8px;border-radius:4px;font-weight:600;min-width:28px;text-align:center";
+          var rem = CLOSE_DELAY;
+          var iv = setInterval(function() { rem--; if (rem > 0) { closeBtn.textContent = String(rem); } else { clearInterval(iv); activateClose(); } }, 1000);
+        }
+        closeBtn.onclick = doClose;
+        card.appendChild(closeBtn);
+        overlay.appendChild(card);
+        overlay.addEventListener("click", function(e) { if (e.target === overlay) doClose(); });
+        document.body.appendChild(overlay);
+      })();
+    trigger:
+      type: delay
+      delay_seconds: 1
+      scroll_percent: 50
+    frequency:
+      type: custom
+      max_per_session: 30
+    page_types:
+      - homepage
+    close_delay_seconds: 1
+  layout: standard
