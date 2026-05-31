@@ -5,7 +5,7 @@ description: >-
   engagement with familiar places, choosing belonging over consuming new
   experiences.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04'
 author: Editorial Team
 tags:

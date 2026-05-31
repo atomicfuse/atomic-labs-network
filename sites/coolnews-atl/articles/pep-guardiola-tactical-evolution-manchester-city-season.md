@@ -4,7 +4,7 @@ description: >-
   Manchester City went from early-season chaos with losses to Spurs and Brighton
   to title contention through Guardiola's systematic tactical experiments.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04'
 author: Editorial Team
 tags:

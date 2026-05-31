@@ -5,7 +5,7 @@ description: >-
   leaders' influence on public services, with the company holding £540M+ in
   UK...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-04'
 author: Editorial Team
 tags:
