@@ -5,7 +5,7 @@ description: >-
   valuable wine territory, producing distinctive coastal Sauvignon Blanc that
   rivals...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ben Rivera
 tags:

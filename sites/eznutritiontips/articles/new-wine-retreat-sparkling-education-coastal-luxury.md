@@ -4,7 +4,7 @@ description: >-
   New York Champagne Week and The FIZZ Is Female launch 'Sip & Sea,' a three-day
   North Fork retreat blending wine education with luxury coastal dining...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ben Rivera
 tags:
