@@ -4,7 +4,7 @@ description: >-
   From Spider-Noir to The Boys finale, Vulture rounds up the 11 best new movies
   and TV shows to stream and watch in theaters this Memorial Day weekend 2026.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Zoe Hayes
 tags:

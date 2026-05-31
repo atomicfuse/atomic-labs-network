@@ -4,7 +4,7 @@ description: >-
   Creator Katie Dippold and Hamish Linklater unpack how 'Widow's Bay' Episodes 6
   and 7 transform the series from comedy-mystery to colonial horror through...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Zoe Hayes
 tags:
