@@ -4,7 +4,7 @@ description: >-
   Selena Gomez showcased the perfect summer slip dress formula in London with
   just three key pieces. Here's how to recreate her effortlessly chic look.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ethan Ward
 tags:

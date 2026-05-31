@@ -4,7 +4,7 @@ description: >-
   From skincare basics to stress management, discover the practical wellness
   habits that can help college-bound students navigate their transition with...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ethan Ward
 tags:
