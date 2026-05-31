@@ -938,4 +938,23 @@ sites:
     saved_previews: null
     custom_domain: carsnewsinformer.com
     worker_pending_dns: false
+  - domain: asaftest
+    company: null
+    vertical: Automotive
+    status: Staging
+    site_id: "0229437534407"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-05-31T12:10:37.534Z
+    created_at: 2026-05-31T12:10:37.534Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/asaftest
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=asaftest
+    saved_previews: null
+    custom_domain: null
 deleted: []
