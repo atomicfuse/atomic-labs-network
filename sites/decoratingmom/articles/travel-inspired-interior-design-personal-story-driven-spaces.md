@@ -5,7 +5,7 @@ description: >-
   adventure, creating collected interiors that feel personal rather than generic
   or themed.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: David Scott
 tags:

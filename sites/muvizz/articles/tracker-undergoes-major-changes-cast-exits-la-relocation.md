@@ -5,7 +5,7 @@ description: >-
   including cast departures and a production move from Vancouver to Los Angeles
   ahead of...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Julia Parker
 tags:

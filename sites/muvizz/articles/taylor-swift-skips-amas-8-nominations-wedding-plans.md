@@ -5,7 +5,7 @@ description: >-
   despite earning eight nominations, as reports suggest she's focusing on
   wedding...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Julia Parker
 tags:

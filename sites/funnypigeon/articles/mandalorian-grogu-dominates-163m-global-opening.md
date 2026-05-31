@@ -4,7 +4,7 @@ description: >-
   Disney's 'Star Wars: The Mandalorian and Grogu' leads global box office with
   $163M opening while 'Michael' approaches $800M worldwide milestone.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

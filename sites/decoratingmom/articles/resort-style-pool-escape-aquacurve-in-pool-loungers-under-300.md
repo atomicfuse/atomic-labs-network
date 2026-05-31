@@ -5,7 +5,7 @@ description: >-
   compatibility and practical features starting under $300 for budget-friendly
   backyard...
 type: review
-status: review
+status: published
 publishDate: '2026-05-29'
 author: David Scott
 tags:

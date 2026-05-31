@@ -5,7 +5,7 @@ description: >-
   Daisy and Ben over service standards and crew promotions as the season nears
   its...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Andrew Gray
 tags:

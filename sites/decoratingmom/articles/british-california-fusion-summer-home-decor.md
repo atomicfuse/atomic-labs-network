@@ -4,7 +4,7 @@ description: >-
   Learn how blending London polish, Hampshire coastal ease, and California
   indoor-outdoor living creates the perfect relaxed summer home aesthetic.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: David Scott
 tags:

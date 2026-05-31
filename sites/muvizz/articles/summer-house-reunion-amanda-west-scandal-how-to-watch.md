@@ -4,7 +4,7 @@ description: >-
   The three-part Summer House Season 10 reunion tackles Amanda Batula and West
   Wilson's romance scandal. Here's when each episode airs and how to watch.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Julia Parker
 tags:

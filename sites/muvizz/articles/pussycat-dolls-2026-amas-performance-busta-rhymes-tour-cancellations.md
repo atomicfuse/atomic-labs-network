@@ -5,7 +5,7 @@ description: >-
   Awards, marking their major stage return after canceling most North American
   tour...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Julia Parker
 tags:
