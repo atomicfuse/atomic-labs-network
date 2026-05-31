@@ -4,7 +4,7 @@ description: >-
   A Knight Rider KITT replica at Volo Museum received a NYC speeding ticket
   despite being stationary for years, due to a license plate database mix-up.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Max Scott
 tags:
