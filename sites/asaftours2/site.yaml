@@ -1,0 +1,102 @@
+domain: asaftours2
+site_name: asaftours2
+site_tagline: null
+author: Olivia Bell
+groups: []
+active: true
+iab_vertical_code: "653"
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Destination Guides
+    - Travel Tips
+    - Adventure Activities
+    - wine & coffee
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  category_ids:
+    - 6a00793e1104bbff809b7d17
+    - 6a00793e1104bbff809b7d0f
+    - 6a00793e1104bbff809b7d09
+    - 6a00793e1104bbff809b7d15
+  bundle_ids:
+    - 6a12d7ab16f23264031d7a63
+    - 6a12d7aa16f23264031d7a62
+    - 6a12d72b16f23264031d7a4d
+    - 6a12d77016f23264031d7a58
+    - 6a0c339f16f23264031d7942
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+  image_guidelines: []
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  tag_ids: []
+theme:
+  base: ocean
+  colors:
+    primary: "#0f4c81"
+    accent: "#10b981"
+    background: "#f8fafc"
+    secondary: "#0f172a"
+    text: "#0f172a"
+    muted: "#64748b"
+    surface: "#e2e8f0"
+    border: "#cbd5e1"
+    heading: "#0f172a"
+    link: "#0f4c81"
+    link_hover: "#10b981"
+    footer_bg: "#0f172a"
+    must_reads_bg: "#0f172a"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#64748b"
+    feed_title: "#0f172a"
+    feed_desc: "#0f172a"
+    feed_date: "#64748b"
+    prose_heading: "#0f172a"
+    prose_body: "#1e293b"
+    category_header_text: "#ffffff"
+    footer_text: "#94a3b8"
+    footer_heading: "#ffffff"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  fonts:
+    heading: Inter
+    body: Inter
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
