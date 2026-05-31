@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://vinepair.com/wine-101/'
 source_item_id: 6a03376786fcaaeb5bc832a5
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie-general-article.webp
+featuredImage: /assets/images/wine-101-breaking-down-barriers-new-generation-drinkers.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   551 words, which hurts overall content value despite good wine education
   coverage.
 reading_time: 3
+image_alt: >-
+  Young adults share a casual wine tasting at a bright table with glasses,
+  grapes, cheese, and warm light.
 ---
 ## New Wave of Wine Interest Emerges Among Younger Generations
 
