@@ -3,7 +3,8 @@ name: Test Sticky With Param
 priority: 1
 targets:
   groups: []
-  sites: []
+  sites:
+    - travelswire
 tracking:
   ga4: null
   gtm: null
