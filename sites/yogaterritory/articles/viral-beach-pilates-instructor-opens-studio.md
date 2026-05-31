@@ -1,11 +1,9 @@
 ---
-title: 'From Viral Beach Classes to Studio: Pilates Instructor''s Journey'
-description: >-
-  Olivia Santelli transformed from anxiety sufferer to viral Pilates instructor,
-  opening Within the Studio in Edison Park after drawing 1,000+ to Oak Street...
+title: "From Viral Beach Classes to Studio: Pilates Instructor's Journey"
+description: Olivia Santelli transformed from anxiety sufferer to viral Pilates instructor, opening Within the Studio in Edison Park after drawing 1,000+ to Oak Street...
 type: standard
-status: review
-publishDate: '2026-05-28'
+status: published
+publishDate: 2026-05-28
 author: Lucas Price
 tags:
   - Wellness
@@ -14,12 +12,8 @@ tags:
   - mental health
   - entrepreneur
 slug: viral-beach-pilates-instructor-opens-studio
-reviewer_notes: >-
-  While well-written and factually sound, this article focuses on Pilates
-  business story rather than yoga content, poorly matching the site's
-  yoga-focused keywords and SEO requirements.
-source_url: >-
-  https://blockclubchicago.org/2026/05/13/pilates-instructor-behind-popular-lakefront-classes-opens-edison-park-studio/
+reviewer_notes: Approved via review queue.
+source_url: https://blockclubchicago.org/2026/05/13/pilates-instructor-behind-popular-lakefront-classes-opens-edison-park-studio/
 source_item_id: 6a07fc2a4bdae0614e7aae9b
 generated_by: claude
 featuredImage: /assets/images/viral-beach-pilates-instructor-opens-studio.webp
@@ -30,14 +24,9 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: >-
-  While well-written and factually sound, this article focuses on Pilates
-  business story rather than yoga content, poorly matching the site's
-  yoga-focused keywords and SEO requirements.
+quality_note: While well-written and factually sound, this article focuses on Pilates business story rather than yoga content, poorly matching the site's yoga-focused keywords and SEO requirements.
 reading_time: 3
-image_alt: >-
-  Pilates instructor in a warm studio with mats arranged around her in soft
-  morning light
+image_alt: Pilates instructor in a warm studio with mats arranged around her in soft morning light
 ---
 ## From Beach to Brick-and-Mortar: A Wellness Success Story
 

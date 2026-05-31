@@ -1,12 +1,9 @@
 ---
-title: 'From D1 Track Star to Pilates Pioneer: Making Wellness Accessible'
-description: >-
-  Embody Pilates founder Camai transformed from Ohio State track star to studio
-  owner, breaking barriers in wellness entrepreneurship and making luxury
-  fitness...
+title: "From D1 Track Star to Pilates Pioneer: Making Wellness Accessible"
+description: Embody Pilates founder Camai transformed from Ohio State track star to studio owner, breaking barriers in wellness entrepreneurship and making luxury fitness...
 type: standard
-status: review
-publishDate: '2026-05-28'
+status: published
+publishDate: 2026-05-28
 author: Lucas Price
 tags:
   - Wellness
@@ -15,12 +12,8 @@ tags:
   - luxury wellness
   - inclusive fitness
 slug: d1-athlete-pilates-entrepreneur-wellness-accessibility
-reviewer_notes: >-
-  Article has weak SEO optimization and poor keyword alignment with yoga-focused
-  site, though it maintains good tone and discusses wellness topics
-  appropriately.
-source_url: >-
-  https://www.bet.com/video-clips/ci8rpw/the-scoreboard-from-d1-athlete-to-pilates-powerhouse-camai-is-redefining-wellness-for-black-women
+reviewer_notes: Approved via review queue.
+source_url: https://www.bet.com/video-clips/ci8rpw/the-scoreboard-from-d1-athlete-to-pilates-powerhouse-camai-is-redefining-wellness-for-black-women
 source_item_id: 6a043feb86fcaaeb5bc83713
 generated_by: claude
 featuredImage: /assets/images/d1-athlete-pilates-entrepreneur-wellness-accessibility.webp
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 30
-quality_note: >-
-  Article has weak SEO optimization and poor keyword alignment with yoga-focused
-  site, though it maintains good tone and discusses wellness topics
-  appropriately.
+quality_note: Article has weak SEO optimization and poor keyword alignment with yoga-focused site, though it maintains good tone and discusses wellness topics appropriately.
 reading_time: 3
-image_alt: >-
-  Black wellness founder leads an inclusive Pilates studio with calm strength
-  and community focus.
+image_alt: Black wellness founder leads an inclusive Pilates studio with calm strength and community focus.
 ---
 ## Breaking Barriers in the Wellness Space
 

@@ -1,11 +1,9 @@
 ---
-title: 'Enhance Your Practice: 30-Minute Yoga Flow for Strength and Flexibility'
-description: >-
-  Discover a transformative 30-minute yoga routine designed to boost strength
-  and flexibility, suitable for practitioners at any level.
+title: "Enhance Your Practice: 30-Minute Yoga Flow for Strength and Flexibility"
+description: Discover a transformative 30-minute yoga routine designed to boost strength and flexibility, suitable for practitioners at any level.
 type: standard
-status: review
-publishDate: '2026-03-02T09:45:20+00:00'
+status: published
+publishDate: 2026-03-02T09:45:20+00:00
 author: Taylor Winters
 tags:
   - Yoga Poses
@@ -14,25 +12,18 @@ tags:
   - Yoga Postures
 slug: enhance-your-practice-30-minute-yoga-flow-for-strength-and-flexibility
 reading_time: 2
-source_url: >-
-  https://yogaterritory.com/enhance-your-practice-30-minute-yoga-flow-for-strength-and-flexibility/
+source_url: https://yogaterritory.com/enhance-your-practice-30-minute-yoga-flow-for-strength-and-flexibility/
 imported_from: wordpress
 wp_original_id: 20736
-featuredImage: >-
-  /assets/images/enhance-your-practice-30-minute-yoga-flow-for-strength-and-flexibility.webp
+featuredImage: /assets/images/enhance-your-practice-30-minute-yoga-flow-for-strength-and-flexibility.webp
 seo:
-  canonical: >-
-    https://yogaterritory.com/enhance-your-practice-30-minute-yoga-flow-for-strength-and-flexibility/
-  og_title: >-
-    Enhance Your Practice: 30-Minute Yoga Flow for Strength and Flexibility -
-    Yoga Territory
-  og_description: >-
-    Discover a transformative 30-minute yoga routine designed to boost strength
-    and flexibility, suitable for practitioners at any level.
+  canonical: https://yogaterritory.com/enhance-your-practice-30-minute-yoga-flow-for-strength-and-flexibility/
+  og_title: "Enhance Your Practice: 30-Minute Yoga Flow for Strength and Flexibility - Yoga Territory"
+  og_description: Discover a transformative 30-minute yoga routine designed to boost strength and flexibility, suitable for practitioners at any level.
   twitter_card: summary_large_image
 videos:
   - id: 7c5b115c
-    url: 'https://www.youtube.com/watch?v=W3LS7J68bic'
+    url: https://www.youtube.com/watch?v=W3LS7J68bic
     position: after-paragraph-2
 quality_score: 72
 score_breakdown:
@@ -41,13 +32,9 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: >-
-  The article has good tone and keyword relevance but is severely under the
-  target word count at only 299 words, which significantly impacts its value for
-  readers and SEO.
-image_alt: >-
-  Yoga practitioner in a sunlit studio holding a graceful strength and
-  flexibility pose
+quality_note: The article has good tone and keyword relevance but is severely under the target word count at only 299 words, which significantly impacts its value for readers and SEO.
+image_alt: Yoga practitioner in a sunlit studio holding a graceful strength and flexibility pose
+reviewer_notes: Approved via review queue.
 ---
 
 Welcome to your transformative 30-minute yoga routine. This full-body flow is crafted to enhance both strength and flexibility, perfect for practitioners seeking a deeper connection with their practice. Whether you're a seasoned yogi or a newcomer, this sequence is designed to challenge and inspire.
