@@ -5,7 +5,7 @@ description: >-
   watch list and VeriVacation platform upgrades to help travel advisors
   protect...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Hannah Murphy
 tags:
