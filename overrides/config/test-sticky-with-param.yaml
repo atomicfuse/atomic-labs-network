@@ -12,3 +12,6 @@ scripts:
 scripts_vars: {}
 ads_config: {}
 ads_txt: []
+activation:
+  query_param: stickytest
+  query_value: "true"
