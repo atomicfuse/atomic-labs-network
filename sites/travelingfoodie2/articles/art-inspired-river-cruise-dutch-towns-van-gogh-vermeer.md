@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.afar.com/magazine/review-of-uniworlds-netherlands-river-cruise'
 source_item_id: 6a1bda1a9bf3ecf115d98164
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/art-inspired-river-cruise-dutch-towns-van-gogh-vermeer.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   (605 words vs 800-1200 target) and lacks the engaging, personal tone typical
   of travel content.
 reading_time: 3
+image_alt: >-
+  Quiet Dutch canal town with a river cruise boat passing historic gabled houses
+  in golden light
 ---
 ## Discovering the Netherlands Through the Eyes of Dutch Masters
 
