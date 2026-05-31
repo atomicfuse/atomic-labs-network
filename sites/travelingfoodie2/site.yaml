@@ -36,6 +36,7 @@ brief:
     - 6a184b93454e8b9490eacb28
   bundle_ids:
     - 6a1c591b9bf3ecf115d981ab
+    - 6a12d7ab16f23264031d7a63
   review_percentage: 5
   schedule:
     articles_per_day: 1
