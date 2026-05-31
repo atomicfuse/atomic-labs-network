@@ -5,7 +5,7 @@ description: >-
   featuring sun shelf compatibility and practical design for budget-conscious
   pool...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Leo Bennett
 tags:
