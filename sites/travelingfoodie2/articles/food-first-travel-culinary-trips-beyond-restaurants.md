@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.wendyperrin.com/food-focused-trips-reviews-from-our-travelers/'
 source_item_id: 6a182f730fc9210eaf31aaef
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/food-first-travel-culinary-trips-beyond-restaurants.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,9 @@ quality_note: >-
   Strong topic relevance and good tone, but falls short on word count and relies
   heavily on vague 'according to reports' citations without specific sources.
 reading_time: 3
+image_alt: >-
+  Travelers and local hosts share market produce at a rustic table near
+  vineyards in warm afternoon light.
 ---
 ## The Rise of Immersive Food Travel
 

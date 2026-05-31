@@ -23,7 +23,7 @@ reviewer_notes: >-
 source_url: 'https://www.travelandtourworld.com/news/article/mfo2y5w8md0p/'
 source_item_id: 6a182f730fc9210eaf31aaf0
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/americas-top-food-cities-2026-culinary-tourism.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   relies heavily on vague 'reports indicate' phrasing, and falls short of
   optimal word count target.
 reading_time: 3
+image_alt: >-
+  Travelers share regional dishes at a warm outdoor city dining table under a
+  blended American skyline.
 ---
 ## Food Tourism Shapes Modern Travel Decisions
 
