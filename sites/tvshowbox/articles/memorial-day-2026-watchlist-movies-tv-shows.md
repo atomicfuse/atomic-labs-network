@@ -5,7 +5,7 @@ description: >-
   to the best new movies and TV shows hitting theaters and streaming this
   Memorial...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Julia Sanders
 tags:
