@@ -4,7 +4,7 @@ description: >-
   With Call the Midwife in its 15th season, fans need their next fix. These
   books, films, and comfort reads capture the show's warmth and social themes.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Max Kim
 tags:

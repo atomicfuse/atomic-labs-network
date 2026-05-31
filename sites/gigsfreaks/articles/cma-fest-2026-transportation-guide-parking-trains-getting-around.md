@@ -5,7 +5,7 @@ description: >-
   options, WeGo train service, and shuttle routes to make your festival
   experience...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Max Kim
 tags:
