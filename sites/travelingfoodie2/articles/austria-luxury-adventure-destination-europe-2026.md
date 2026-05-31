@@ -23,7 +23,7 @@ source_url: >-
   https://www.luxurylifestylemag.co.uk/travel/how-austria-became-europes-leading-destination-for-adventure-travel/
 source_item_id: 6a182f740fc9210eaf31ab0b
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/austria-luxury-adventure-destination-europe-2026.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   short and relies heavily on vague 'reports indicate' claims without specific
   sources, reducing credibility.
 reading_time: 3
+image_alt: >-
+  Luxury Alpine resort overlooking an Austrian lake with mountains, hikers, and
+  a distant paraglider
 ---
 ## Austria's Rise as Europe's Adventure Capital
 
