@@ -20,13 +20,13 @@ brief:
     - wine & coffee
   seo_keywords_focus: []
   content_guidelines: []
-  vertical: Travel
-  vertical_id: 6a00793d1104bbff809b7c7a
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
   category_ids:
-    - 6a00793f1104bbff809b7f89
-    - 6a00793f1104bbff809b7f9d
-    - 6a00793f1104bbff809b7f8f
-    - 6a00793f1104bbff809b7f97
+    - 6a00793e1104bbff809b7d17
+    - 6a00793e1104bbff809b7d0f
+    - 6a00793e1104bbff809b7d09
+    - 6a00793e1104bbff809b7d15
   bundle_ids:
     - 6a12d7ab16f23264031d7a63
     - 6a12d7aa16f23264031d7a62
