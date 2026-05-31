@@ -5,7 +5,7 @@ description: >-
   into some of the world's most valuable Sauvignon Blanc territory, rivaling
   Sancerre...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ryan Powell
 tags:

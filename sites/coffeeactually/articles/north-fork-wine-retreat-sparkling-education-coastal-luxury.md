@@ -5,7 +5,7 @@ description: >-
   North Fork retreat combining sparkling wine education with seafood and
   coastal...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ryan Powell
 tags:
