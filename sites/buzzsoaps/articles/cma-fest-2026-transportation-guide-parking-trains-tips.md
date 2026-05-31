@@ -5,7 +5,7 @@ description: >-
   parking options, WeGo train service, shuttle routes, and pedestrian access to
   Nissan...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Julia Bennett
 tags:

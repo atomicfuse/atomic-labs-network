@@ -5,7 +5,7 @@ description: >-
   Widow's Bay reinvented the show through colonial horror and supernatural
   mythology.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Julia Bennett
 tags:

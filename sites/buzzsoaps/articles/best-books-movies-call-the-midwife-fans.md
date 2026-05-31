@@ -4,7 +4,7 @@ description: >-
   With Call the Midwife in its 15th season, fans seeking similar warmth and
   period drama can explore these curated book and film recommendations.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Julia Bennett
 tags:
