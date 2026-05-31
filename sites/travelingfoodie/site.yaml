@@ -39,13 +39,21 @@ brief:
     - 6a12d72816f23264031d7a4c
     - 6a12d77016f23264031d7a58
     - 6a12d76216f23264031d7a56
-    - 6a0c339f16f23264031d7942
   review_percentage: 5
   schedule:
     articles_per_day: 1
     preferred_days:
       - Friday
     preferred_time: 10:00
+  image_guidelines: []
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  vertical_id: ""
 theme:
   base: warm
   colors:
