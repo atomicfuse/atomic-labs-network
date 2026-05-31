@@ -1,12 +1,9 @@
 ---
 title: Essential Reads and Movies for Call the Midwife Fans
-description: >-
-  With Call the Midwife in its 15th season, fans are seeking similar comfort
-  content. Here are the best books and films that capture the show's warmth and
-  social...
+description: With Call the Midwife in its 15th season, fans are seeking similar comfort content. Here are the best books and films that capture the show's warmth and social...
 type: listicle
-status: review
-publishDate: '2026-05-29'
+status: published
+publishDate: 2026-05-29
 author: Andrew Gray
 tags:
   - Funny Videos
@@ -16,12 +13,8 @@ tags:
   - books
   - movies
 slug: essential-reads-movies-call-midwife-fans
-reviewer_notes: >-
-  Well-written article with good tone and accuracy, but completely misaligned
-  with the site's entertainment focus on funny videos, memes, and viral content
-  - this is serious TV/book content for the wrong audience.
-source_url: >-
-  https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
+reviewer_notes: Approved via review queue.
+source_url: https://lifehacker.com/entertainment/call-the-midwife-streamalikes-books-movies-video-games-podcasts
 source_item_id: 6a19245a1e60b3e9a220867d
 generated_by: claude
 featuredImage: /assets/images/essential-reads-movies-call-midwife-fans.webp
@@ -32,14 +25,9 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: >-
-  Well-written article with good tone and accuracy, but completely misaligned
-  with the site's entertainment focus on funny videos, memes, and viral content
-  - this is serious TV/book content for the wrong audience.
+quality_note: Well-written article with good tone and accuracy, but completely misaligned with the site's entertainment focus on funny videos, memes, and viral content - this is serious TV/book content for the wrong audience.
 reading_time: 3
-image_alt: >-
-  Vintage books, film reel, teacup, and nurse cardigan in a warm mid-century
-  room
+image_alt: Vintage books, film reel, teacup, and nurse cardigan in a warm mid-century room
 ---
 ## Finding Your Next Emotional Journey
 

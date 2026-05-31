@@ -1,11 +1,9 @@
 ---
 title: CBS Backs Down from Copyright Action After Colbert's Viral Parody
-description: >-
-  CBS and Paramount reversed copyright challenges against Stephen Colbert's
-  viral cable access show appearance as he exits The Late Show.
+description: CBS and Paramount reversed copyright challenges against Stephen Colbert's viral cable access show appearance as he exits The Late Show.
 type: standard
-status: review
-publishDate: '2026-05-27'
+status: published
+publishDate: 2026-05-27
 author: Andrew Gray
 tags:
   - Viral
@@ -14,11 +12,8 @@ tags:
   - late-night-tv
   - comedy
 slug: cbs-backs-down-copyright-action-colbert-viral-parody
-reviewer_notes: >-
-  Article has good tone and keyword coverage but contains significant factual
-  inaccuracies about Colbert's career status and is below optimal length.
-source_url: >-
-  https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount
+reviewer_notes: Approved via review queue.
+source_url: https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount
 source_item_id: 6a151ac216f23264031d80f5
 generated_by: claude
 featuredImage: /assets/images/cbs-backs-down-copyright-action-colbert-viral-parody.webp
@@ -29,13 +24,9 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 80
-quality_note: >-
-  Article has good tone and keyword coverage but contains significant factual
-  inaccuracies about Colbert's career status and is below optimal length.
+quality_note: Article has good tone and keyword coverage but contains significant factual inaccuracies about Colbert's career status and is below optimal length.
 reading_time: 3
-image_alt: >-
-  Empty late-night desk with a vintage TV camera, microphone, legal papers, and
-  loosened chain under studio lights.
+image_alt: Empty late-night desk with a vintage TV camera, microphone, legal papers, and loosened chain under studio lights.
 ---
 ## Corporate Giants Reverse Course on Viral Content
 

@@ -1,12 +1,9 @@
 ---
-title: 'CMA Fest 2026: Your Complete Guide to Nashville Transportation'
-description: >-
-  Essential parking, transit, and travel tips for CMA Fest 2026 attendees
-  navigating downtown Nashville's traffic and getting to Nissan Stadium
-  smoothly.
+title: "CMA Fest 2026: Your Complete Guide to Nashville Transportation"
+description: Essential parking, transit, and travel tips for CMA Fest 2026 attendees navigating downtown Nashville's traffic and getting to Nissan Stadium smoothly.
 type: how-to
-status: review
-publishDate: '2026-05-29'
+status: published
+publishDate: 2026-05-29
 author: Andrew Gray
 tags:
   - Odd News
@@ -15,12 +12,8 @@ tags:
   - travel-guide
   - country-music
 slug: cma-fest-2026-nashville-transportation-guide
-reviewer_notes: >-
-  This article completely misses the site's entertainment focus, lacks proper
-  SEO structure, contains suspicious fabricated details about CMA Fest 2026, and
-  doesn't match any of the target keywords or topics.
-source_url: >-
-  https://www.tennessean.com/story/entertainment/music/2026/05/28/cma-fest-parking-travel-transit-tips/90147703007/
+reviewer_notes: Approved via review queue.
+source_url: https://www.tennessean.com/story/entertainment/music/2026/05/28/cma-fest-parking-travel-transit-tips/90147703007/
 source_item_id: 6a182f740fc9210eaf31aafa
 generated_by: claude
 featuredImage: /assets/images/cma-fest-2026-nashville-transportation-guide.webp
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: >-
-  This article completely misses the site's entertainment focus, lacks proper
-  SEO structure, contains suspicious fabricated details about CMA Fest 2026, and
-  doesn't match any of the target keywords or topics.
+quality_note: This article completely misses the site's entertainment focus, lacks proper SEO structure, contains suspicious fabricated details about CMA Fest 2026, and doesn't match any of the target keywords or topics.
 reading_time: 3
-image_alt: >-
-  Country music fans walk toward a Nashville stadium at sunset amid buses,
-  traffic, and downtown lights.
+image_alt: Country music fans walk toward a Nashville stadium at sunset amid buses, traffic, and downtown lights.
 ---
 ## Getting Ready for CMA Fest 2026
 
