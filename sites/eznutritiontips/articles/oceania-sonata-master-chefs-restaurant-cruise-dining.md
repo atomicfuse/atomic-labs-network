@@ -5,7 +5,7 @@ description: >-
   dedicated Master Chefs restaurant at sea, marking a new era for luxury cruise
   dining.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Ben Rivera
 tags:

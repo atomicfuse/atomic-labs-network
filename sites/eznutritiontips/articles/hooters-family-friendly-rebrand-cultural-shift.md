@@ -4,7 +4,7 @@ description: >-
   The restaurant chain known for its adult-coded branding is courting families
   as it faces bankruptcy pressure, raising questions about brand identity...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Ben Rivera
 tags:
