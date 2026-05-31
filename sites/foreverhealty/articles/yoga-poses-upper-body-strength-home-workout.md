@@ -4,7 +4,7 @@ description: >-
   Learn five effective yoga poses that naturally build arm, shoulder, chest, and
   core strength at home without gym equipment.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Lily Reed
 tags:

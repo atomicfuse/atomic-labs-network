@@ -4,7 +4,7 @@ description: >-
   Discover why Pilates instructors recommend daily pelvic curls over glute
   bridges for loosening tight hips and reducing back pain in desk workers.
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-27'
 author: Lily Reed
 tags:
