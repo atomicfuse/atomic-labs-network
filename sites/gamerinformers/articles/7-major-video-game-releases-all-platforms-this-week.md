@@ -4,7 +4,7 @@ description: >-
   Discover seven major video game launches across PlayStation, Xbox, PC, and
   Nintendo Switch from May 25-31, 2026 in this comprehensive weekly guide.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Mia Brooks
 tags:
