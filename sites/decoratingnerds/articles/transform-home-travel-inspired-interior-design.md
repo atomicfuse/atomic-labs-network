@@ -5,7 +5,7 @@ description: >-
   creating cluttered, themed spaces. Turn personal adventure stories into
   sophisticated...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Julia Bell
 tags:
