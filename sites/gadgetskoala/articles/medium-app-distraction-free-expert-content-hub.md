@@ -4,7 +4,7 @@ description: >-
   Medium's mobile app positions itself as an alternative to short-form feeds,
   offering long-form expertise, audio stories, and creator monetization tools.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Hannah Adams
 tags:
