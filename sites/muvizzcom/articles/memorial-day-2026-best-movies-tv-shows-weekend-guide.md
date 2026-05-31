@@ -4,7 +4,7 @@ description: >-
   From Spider-Noir to The Boys finale, discover the top theatrical releases and
   streaming premieres for Memorial Day weekend 2026.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Daniel Parker
 tags:
