@@ -23,7 +23,7 @@ source_url: >-
   https://www.travelpulse.com/news/destinations/soothe-your-soul-in-seoul-health-and-wellness-self-care-guide
 source_item_id: 6a1bda1a9bf3ecf115d98161
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/seoul-wellness-travel-destination-self-care-guide.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -37,6 +37,9 @@ quality_note: >-
   relies too heavily on vague 'according to reports' citations without specific
   sources.
 reading_time: 3
+image_alt: >-
+  Serene Seoul wellness lounge with greenery, spa details, and a relaxed
+  traveler overlooking the city.
 ---
 ## Seoul's Rise as a Wellness Tourism Hub
 
