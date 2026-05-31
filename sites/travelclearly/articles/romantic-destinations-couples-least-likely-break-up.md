@@ -4,7 +4,7 @@ description: >-
   New analysis reveals travel destinations that promote relationship harmony
   through relaxation, safety, and low-stress experiences for couples.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Ben Chen
 tags:

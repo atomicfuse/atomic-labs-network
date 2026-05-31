@@ -5,7 +5,7 @@ description: >-
   wellness, fine dining, and nature excursions, representing a shift toward
   intimate...
 type: review
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ben Chen
 tags:

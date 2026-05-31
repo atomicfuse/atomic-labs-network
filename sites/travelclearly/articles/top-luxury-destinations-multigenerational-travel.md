@@ -4,7 +4,7 @@ description: >-
   New analysis reveals the best high-end destinations for family trips spanning
   generations, from Bali to Portugal's Algarve, balancing comfort and culture.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Ben Chen
 tags:
