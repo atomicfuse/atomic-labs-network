@@ -4,7 +4,7 @@ description: >-
   Selena Gomez proves it takes just three pieces to create the perfect summer
   slip dress look. Her monochrome styling formula is travel-ready and...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Max Ward
 tags:

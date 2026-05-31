@@ -4,7 +4,7 @@ description: >-
   Recent graduates need practical wellness and skincare habits for college
   success. Expert guidance on simple routines, stress management, and...
 type: how-to
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Max Ward
 tags:
