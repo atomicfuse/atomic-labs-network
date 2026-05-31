@@ -6,7 +6,7 @@ description: >-
   dedication, creativity, and unique blend of traditional blues with modern
   flair.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-22T11:25:18+00:00'
 author: Lena Harper
 tags:

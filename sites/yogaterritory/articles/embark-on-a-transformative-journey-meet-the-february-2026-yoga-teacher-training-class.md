@@ -7,7 +7,7 @@ description: >-
   transformative journey in the February 2026 Yoga Teacher Training Class,
   united by personal and spiritual growth within the Sivananda Yoga community.
 type: standard
-status: review
+status: published
 publishDate: '2026-02-05T09:47:20+00:00'
 author: Taylor Winters
 tags:

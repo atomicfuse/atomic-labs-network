@@ -5,7 +5,7 @@ description: >-
   fresh elements. Known for their satirical rock music, the band aims to
   captivate both old and new fans with this highly anticipated release.
 type: standard
-status: review
+status: published
 publishDate: '2025-07-31T12:33:55+00:00'
 author: Lena Harper
 tags:

@@ -6,7 +6,7 @@ description: >-
   materials, highlighting inclusivity and diversity while redefining style as a
   reflection of society's evolving values.
 type: standard
-status: review
+status: published
 publishDate: '2025-12-15T11:30:54+00:00'
 author: Lena Harper
 tags:

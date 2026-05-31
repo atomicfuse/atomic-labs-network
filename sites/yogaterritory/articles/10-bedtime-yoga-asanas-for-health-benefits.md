@@ -6,7 +6,7 @@ description: >-
   flexibility, and better sleep through simple asanas that can rejuvenate your
   day or help you unwind before bedtime.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-22T04:31:21+00:00'
 author: Taylor Winters
 tags:

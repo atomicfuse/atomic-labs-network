@@ -4,7 +4,7 @@ description: >-
   Practical guidance for maintaining healthy eating habits on the road, from
   meal planning to smart restaurant choices while traveling.
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-31'
 author: Elena Gray
 tags:

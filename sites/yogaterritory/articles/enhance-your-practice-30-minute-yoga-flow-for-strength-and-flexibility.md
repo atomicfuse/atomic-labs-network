@@ -4,7 +4,7 @@ description: >-
   Discover a transformative 30-minute yoga routine designed to boost strength
   and flexibility, suitable for practitioners at any level.
 type: standard
-status: review
+status: published
 publishDate: '2026-03-02T09:45:20+00:00'
 author: Taylor Winters
 tags:

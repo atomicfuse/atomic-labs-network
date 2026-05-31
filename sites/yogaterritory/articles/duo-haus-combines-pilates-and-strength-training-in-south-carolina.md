@@ -5,7 +5,7 @@ description: >-
   offering a boutique fitness experience focused on balance, mobility, muscle
   tone, and sustainable wellness.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-21T08:42:01+00:00'
 author: Taylor Winters
 tags:

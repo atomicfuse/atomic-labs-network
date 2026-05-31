@@ -6,7 +6,7 @@ description: >-
   celebrates his musical journey, offering soulful melodies and a deep
   connection with the audience.
 type: standard
-status: review
+status: published
 publishDate: '2026-01-26T10:55:33+00:00'
 author: Lena Harper
 tags:

@@ -1,9 +1,12 @@
 ---
 title: AMC's Interview With the Vampire Eyes Wildest Anne Rice Lore
-description: AMC's vampire series is gearing up for its strangest storylines yet, including Lestat drinking Jesus Christ's blood and ancient vampire mythology from Anne...
+description: >-
+  AMC's vampire series is gearing up for its strangest storylines yet, including
+  Lestat drinking Jesus Christ's blood and ancient vampire mythology from
+  Anne...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: '2026-05-27'
 author: Andrew Gray
 tags:
   - Odd News
@@ -12,8 +15,11 @@ tags:
   - anne-rice
   - supernatural
 slug: amc-interview-vampire-anne-rice-jesus-blood-memnoch-devil
-reviewer_notes: Approved via review queue.
-source_url: https://www.vulture.com/article/interview-with-the-vampire-lestat-jesus.html
+reviewer_notes: >-
+  Well-written entertainment piece with engaging tone, but falls short on word
+  count, relies heavily on unverified reports, and doesn't align well with the
+  site's core focus areas of funny videos, memes, and viral content.
+source_url: 'https://www.vulture.com/article/interview-with-the-vampire-lestat-jesus.html'
 source_item_id: 6a152fda16f23264031d8204
 generated_by: claude
 featuredImage: /assets/images/amc-interview-vampire-anne-rice-jesus-blood-memnoch-devil.webp
@@ -24,9 +30,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 45
-quality_note: Well-written entertainment piece with engaging tone, but falls short on word count, relies heavily on unverified reports, and doesn't align well with the site's core focus areas of funny videos, memes, and viral content.
+quality_note: >-
+  Well-written entertainment piece with engaging tone, but falls short on word
+  count, relies heavily on unverified reports, and doesn't align well with the
+  site's core focus areas of funny videos, memes, and viral content.
 reading_time: 3
-image_alt: Glam-rock vampire before a shadowy cathedral stage with crimson light, stained glass, and an ancient statue.
+image_alt: >-
+  Glam-rock vampire before a shadowy cathedral stage with crimson light, stained
+  glass, and an ancient statue.
 ---
 ## AMC Vampire Series Prepares for Its Weirdest Turn Yet
 

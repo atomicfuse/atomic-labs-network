@@ -5,7 +5,7 @@ description: >-
   sustainable Stella McCartney gown, underscoring the role of celebrities in
   promoting eco-friendly fashion and environmental initiatives.
 type: standard
-status: review
+status: published
 publishDate: '2025-11-06T10:23:32+00:00'
 author: Lena Harper
 tags:

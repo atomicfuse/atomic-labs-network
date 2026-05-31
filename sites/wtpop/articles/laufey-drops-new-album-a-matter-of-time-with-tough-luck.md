@@ -6,7 +6,7 @@ description: >-
   features dynamic rhythms and introspective themes, showcasing her growth and
   cementing her place in the music industry.
 type: standard
-status: review
+status: published
 publishDate: '2025-05-15T06:12:06+00:00'
 author: Lena Harper
 tags:

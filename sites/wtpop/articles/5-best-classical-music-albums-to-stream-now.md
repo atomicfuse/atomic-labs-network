@@ -5,7 +5,7 @@ description: >-
   SEO-optimized, WordPress-ready HTML piece with proper headings, image
   placeholders, and JSON-safe formatting.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-07T09:37:30+00:00'
 author: Lena Harper
 tags:
