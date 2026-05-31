@@ -1,11 +1,9 @@
 ---
 title: Star Wars Wins Memorial Day But Horror Film Steals the Show
-description: >-
-  The Mandalorian and Grogu tops Memorial Day weekend box office, but
-  microbudget horror film Obsession becomes the real surprise story of the year.
+description: The Mandalorian and Grogu tops Memorial Day weekend box office, but microbudget horror film Obsession becomes the real surprise story of the year.
 type: standard
-status: review
-publishDate: '2026-05-27'
+status: published
+publishDate: 2026-05-27
 author: Julia Parker
 tags:
   - Breaking News
@@ -14,12 +12,8 @@ tags:
   - Star Wars
   - Horror
 slug: star-wars-wins-memorial-day-horror-film-steals-show
-reviewer_notes: >-
-  Strong entertainment coverage with excellent keyword integration, but contains
-  apparent fabrications about specific films and lacks proper length for target
-  guidelines.
-source_url: >-
-  https://editorial.rottentomatoes.com/article/weekend-box-office-the-mandalorian-and-grogu/
+reviewer_notes: Approved via review queue.
+source_url: https://editorial.rottentomatoes.com/article/weekend-box-office-the-mandalorian-and-grogu/
 source_item_id: 6a151ac216f23264031d80f0
 generated_by: claude
 featuredImage: /assets/images/star-wars-wins-memorial-day-horror-film-steals-show.webp
@@ -30,14 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: >-
-  Strong entertainment coverage with excellent keyword integration, but contains
-  apparent fabrications about specific films and lacks proper length for target
-  guidelines.
+quality_note: Strong entertainment coverage with excellent keyword integration, but contains apparent fabrications about specific films and lacks proper length for target guidelines.
 reading_time: 3
-image_alt: >-
-  Sci-fi props are overshadowed by a small horror mask casting a huge shadow in
-  a moody theater lobby.
+image_alt: Sci-fi props are overshadowed by a small horror mask casting a huge shadow in a moody theater lobby.
 ---
 ## Star Wars Takes the Crown But Shows Cracks
 

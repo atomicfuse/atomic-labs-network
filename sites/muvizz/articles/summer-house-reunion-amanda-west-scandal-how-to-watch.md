@@ -1,11 +1,9 @@
 ---
 title: Summer House Reunion to Address Amanda & West Romance Scandal
-description: >-
-  The three-part Summer House Season 10 reunion tackles Amanda Batula and West
-  Wilson's romance scandal. Here's when each episode airs and how to watch.
+description: The three-part Summer House Season 10 reunion tackles Amanda Batula and West Wilson's romance scandal. Here's when each episode airs and how to watch.
 type: standard
-status: review
-publishDate: '2026-05-27'
+status: published
+publishDate: 2026-05-27
 author: Julia Parker
 tags:
   - TV Shows
@@ -14,12 +12,8 @@ tags:
   - Reality TV
   - Reunion
 slug: summer-house-reunion-amanda-west-scandal-how-to-watch
-reviewer_notes: >-
-  Strong entertainment content with excellent keyword relevance and engaging
-  tone, but significantly hurt by apparent factual inaccuracies and below-target
-  word count.
-source_url: >-
-  https://www.usatoday.com/story/entertainment/tv/2026/05/25/summer-house-reunion-time-where-to-watch/90194161007/
+reviewer_notes: Approved via review queue.
+source_url: https://www.usatoday.com/story/entertainment/tv/2026/05/25/summer-house-reunion-time-where-to-watch/90194161007/
 source_item_id: 6a151ac216f23264031d80f6
 generated_by: claude
 featuredImage: /assets/images/summer-house-reunion-amanda-west-scandal-how-to-watch.webp
@@ -30,14 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 45
   keyword_relevance: 95
-quality_note: >-
-  Strong entertainment content with excellent keyword relevance and engaging
-  tone, but significantly hurt by apparent factual inaccuracies and below-target
-  word count.
+quality_note: Strong entertainment content with excellent keyword relevance and engaging tone, but significantly hurt by apparent factual inaccuracies and below-target word count.
 reading_time: 3
-image_alt: >-
-  Moody reunion-style studio set with empty sofas, dramatic lighting, and tense
-  silhouetted figures.
+image_alt: Moody reunion-style studio set with empty sofas, dramatic lighting, and tense silhouetted figures.
 ---
 ## Three-Part Reunion Tackles Season's Biggest Scandal
 

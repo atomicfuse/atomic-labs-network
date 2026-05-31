@@ -1,12 +1,9 @@
 ---
-title: 'Tracker Undergoes Major Changes: Cast Exits and LA Relocation'
-description: >-
-  CBS hit procedural Tracker faces significant behind-the-scenes changes
-  including cast departures and a production move from Vancouver to Los Angeles
-  ahead of...
+title: "Tracker Undergoes Major Changes: Cast Exits and LA Relocation"
+description: CBS hit procedural Tracker faces significant behind-the-scenes changes including cast departures and a production move from Vancouver to Los Angeles ahead of...
 type: standard
-status: review
-publishDate: '2026-05-27'
+status: published
+publishDate: 2026-05-27
 author: Julia Parker
 tags:
   - TV Shows
@@ -15,12 +12,8 @@ tags:
   - cast-changes
   - television-production
 slug: tracker-undergoes-major-changes-cast-exits-la-relocation
-reviewer_notes: >-
-  Well-written entertainment content with good tone and keyword coverage, but
-  significantly hampered by vague sourcing and potential accuracy issues with
-  repeated 'according to reports' without citations.
-source_url: >-
-  https://www.usmagazine.com/entertainment/news/trackers-biggest-changes-from-cast-exits-to-relocation/
+reviewer_notes: Approved via review queue.
+source_url: https://www.usmagazine.com/entertainment/news/trackers-biggest-changes-from-cast-exits-to-relocation/
 source_item_id: 6a151f7316f23264031d810e
 generated_by: claude
 featuredImage: /assets/images/tracker-undergoes-major-changes-cast-exits-la-relocation.webp
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: >-
-  Well-written entertainment content with good tone and keyword coverage, but
-  significantly hampered by vague sourcing and potential accuracy issues with
-  repeated 'according to reports' without citations.
+quality_note: Well-written entertainment content with good tone and keyword coverage, but significantly hampered by vague sourcing and potential accuracy issues with repeated 'according to reports' without citations.
 reading_time: 3
-image_alt: >-
-  Lone investigator between a misty forest and a sunlit Los Angeles studio
-  backdrop
+image_alt: Lone investigator between a misty forest and a sunlit Los Angeles studio backdrop
 ---
 ## Major Shakeups Hit CBS Hit Series
 
