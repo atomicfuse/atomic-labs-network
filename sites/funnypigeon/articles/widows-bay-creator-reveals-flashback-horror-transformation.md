@@ -1,12 +1,9 @@
 ---
 title: Widow's Bay Creator Reveals How Flashback Transformed Comedy Into Horror
-description: >-
-  Katie Dippold and Hamish Linklater discuss how Episode 6's colonial origin
-  story reinvented Widow's Bay as folk-horror mythology with supernatural
-  mushroom...
+description: Katie Dippold and Hamish Linklater discuss how Episode 6's colonial origin story reinvented Widow's Bay as folk-horror mythology with supernatural mushroom...
 type: standard
 status: published
-publishDate: '2026-05-28'
+publishDate: 2026-05-28
 author: Andrew Gray
 tags:
   - Viral
@@ -15,12 +12,8 @@ tags:
   - Comedy
   - Supernatural
 slug: widows-bay-creator-reveals-flashback-horror-transformation
-reviewer_notes: >-
-  The article reads like entertainment journalism but appears to be entirely
-  fabricated about a non-existent TV show, severely undermining factual accuracy
-  and keyword relevance for the site's focus areas.
-source_url: >-
-  https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
+reviewer_notes: Approved via review queue.
+source_url: https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-6-7-flashback-hamish-linklater-katie-dippold-interview/
 source_item_id: 6a17bdc28c60bc3c84eb2d8d
 generated_by: claude
 featuredImage: /assets/images/widows-bay-creator-reveals-flashback-horror-transformation.webp
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 30
   keyword_relevance: 25
-quality_note: >-
-  The article reads like entertainment journalism but appears to be entirely
-  fabricated about a non-existent TV show, severely undermining factual accuracy
-  and keyword relevance for the site's focus areas.
+quality_note: The article reads like entertainment journalism but appears to be entirely fabricated about a non-existent TV show, severely undermining factual accuracy and keyword relevance for the site's focus areas.
 reading_time: 3
-image_alt: >-
-  Colonial-era man in candlelit room as eerie mushrooms spread across a misty
-  island setting.
+image_alt: Colonial-era man in candlelit room as eerie mushrooms spread across a misty island setting.
 ---
 ## From Comedy to Colonial Horror
 

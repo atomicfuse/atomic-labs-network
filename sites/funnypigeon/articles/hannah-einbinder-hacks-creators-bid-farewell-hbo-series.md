@@ -1,12 +1,9 @@
 ---
 title: Hannah Einbinder & 'Hacks' Creators Say Goodbye to HBO Hit
-description: >-
-  As HBO Max's 'Hacks' prepares for its series finale on May 28, star Hannah
-  Einbinder and co-creator Paul W. Downs reflect on five seasons of comedy-drama
-  gold.
+description: As HBO Max's 'Hacks' prepares for its series finale on May 28, star Hannah Einbinder and co-creator Paul W. Downs reflect on five seasons of comedy-drama gold.
 type: standard
 status: published
-publishDate: '2026-05-27'
+publishDate: 2026-05-27
 author: Andrew Gray
 tags:
   - Viral
@@ -15,12 +12,8 @@ tags:
   - hannah-einbinder
   - series-finale
 slug: hannah-einbinder-hacks-creators-bid-farewell-hbo-series
-reviewer_notes: >-
-  The article contains significant factual inaccuracies about Hacks (claiming 5
-  seasons and Golden Globe wins), poor SEO structure, and weak relevance to
-  funnypigeon's entertainment focus areas.
-source_url: >-
-  https://deadline.com/2026/05/hannah-einbinder-hacks-creator-bid-farewell-1236920542/
+reviewer_notes: Approved via review queue.
+source_url: https://deadline.com/2026/05/hannah-einbinder-hacks-creator-bid-farewell-1236920542/
 source_item_id: 6a151f7316f23264031d8116
 generated_by: claude
 featuredImage: /assets/images/hannah-einbinder-hacks-creators-bid-farewell-hbo-series.webp
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 20
   keyword_relevance: 30
-quality_note: >-
-  The article contains significant factual inaccuracies about Hacks (claiming 5
-  seasons and Golden Globe wins), poor SEO structure, and weak relevance to
-  funnypigeon's entertainment focus areas.
+quality_note: The article contains significant factual inaccuracies about Hacks (claiming 5 seasons and Golden Globe wins), poor SEO structure, and weak relevance to funnypigeon's entertainment focus areas.
 reading_time: 3
-image_alt: >-
-  Two comedy collaborators share a quiet farewell backstage beside a lone
-  microphone in warm theater light.
+image_alt: Two comedy collaborators share a quiet farewell backstage beside a lone microphone in warm theater light.
 ---
 ## The End of an Era for HBO's Comedy-Drama Hit
 
