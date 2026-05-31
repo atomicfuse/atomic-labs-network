@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.ynetnews.com/travel/article/bkpbezdxfe'
 source_item_id: 6a1bda1a9bf3ecf115d98162
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/lisbon-tops-global-ranking-best-city-relocation.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   falls short on length requirements and could benefit from stronger SEO
   optimization in the title and meta description.
 reading_time: 3
+image_alt: >-
+  Sunlit Lisbon rooftops and river seen from an overlook with relocation
+  essentials in the foreground
 ---
 ## Lisbon Claims Top Spot in New Relocation Index
 
