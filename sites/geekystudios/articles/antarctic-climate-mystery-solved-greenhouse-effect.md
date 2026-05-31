@@ -5,7 +5,7 @@ description: >-
   dramatic temperature changes, challenging traditional climate models and
   reshaping...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Olivia Kim
 tags:
