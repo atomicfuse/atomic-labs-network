@@ -5,7 +5,7 @@ description: >-
   experimental games that challenge mainstream conventions and inspire artistic
   awakening.
 type: standard
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Mia Brooks
 tags:

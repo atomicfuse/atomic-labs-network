@@ -4,7 +4,7 @@ description: >-
   With Destiny's final update announced, longtime players are seeking new games.
   Here are five alternatives that offer similar loot, co-op, and sci-fi...
 type: listicle
-status: review
+status: published
 publishDate: '2026-05-29'
 author: Mia Brooks
 tags:

@@ -5,7 +5,7 @@ description: >-
   content updates that may finally make the space RPG worth revisiting for
   console...
 type: standard
-status: review
+status: published
 publishDate: '2026-05-28'
 author: Mia Brooks
 tags:
