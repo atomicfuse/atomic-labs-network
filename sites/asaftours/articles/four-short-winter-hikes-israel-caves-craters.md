@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.ynetnews.com/travel/article/b1xmws11ggx'
 source_item_id: 6a1bda1a9bf3ecf115d9815d
 generated_by: claude
-featuredImage: /assets/images/asaftours-general-article.webp
+featuredImage: /assets/images/four-short-winter-hikes-israel-caves-craters.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -31,6 +31,9 @@ quality_note: >-
   with good keyword integration, but falls short of ideal length and could
   benefit from more specific practical details.
 reading_time: 3
+image_alt: >-
+  Winter hikers follow a scenic Israeli trail from green hills toward coast and
+  desert cliffs.
 ---
 ## Winter: The Perfect Season for Israeli Hiking
 
