@@ -40,8 +40,8 @@ ads_config:
   layout: standard
   ad_placements:
     - id: search-ads
-      position: above-content
-      device: mobile
+      position: after-paragraph-1
+      device: all
       sizes: {}
       desktopSizeConfig:
         ratio:
