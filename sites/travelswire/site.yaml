@@ -140,13 +140,13 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
-      page_types:
-        - article
-      exclude_pages: []
       code: |-
         <p style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; margin: 0 0 12px;">
-          Discover more content below.
+          Big Sur isn't a town — it's a dramatic stretch of coastline where cliffs tower over the Pacific and the road has no guardrails. Here's why people call it the most beautiful coast in America, and where to actually stop to see it.
         </p>
 
         <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
         <div data-cg-feed="journey_peaks_1"></div>
+      page_types:
+        - article
+      exclude_pages: []
