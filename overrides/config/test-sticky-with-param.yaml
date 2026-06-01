@@ -74,7 +74,7 @@ ads_config:
   _mode: replace
 ads_txt: []
 activation:
-  query_param: stickytest
-  query_value: "true"
+  query_param: ctype
+  query_value: "12"
 theme: {}
 legal: {}
