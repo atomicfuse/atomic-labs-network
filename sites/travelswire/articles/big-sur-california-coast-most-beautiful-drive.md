@@ -25,17 +25,6 @@ score_breakdown:
   factual_accuracy: 75
 quality_note: Evocative travel article that captures the essence of the destination. Factual accuracy score lowered due to subjective claims like 'most beautiful,' but overall content is strong and well-structured. Meets length and keyword targets.
 reading_time: 4
-scripts:
-  - id: 738e69aa-1642-48db-b7a3-53e94563e928
-    name: sample-search-ads
-    position: before-content
-    content: |-
-      <div id="atl-arrow1"></div>
-              <script>
-                  window._atl_loadWidget('atl-arrow1',
-                      { feedid: 'demo_default', auth: 'demo', qs: 'count=3' }, 'arrow1',
-                      { qs: 'g_lo=1&g_mcol=1&g_title=Highlights' });
-              </script>
 ---
 
 ## Defining America's Most Scenic Drive
