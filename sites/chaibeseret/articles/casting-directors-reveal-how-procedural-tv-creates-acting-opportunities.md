@@ -19,7 +19,8 @@ source_url: >-
   https://www.laughingplace.com/entertainment/atx-tv-procedural-casting-panel-csa/
 source_item_id: 6a1bb2429bf3ecf115d98149
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: >-
+  /assets/images/casting-directors-reveal-how-procedural-tv-creates-acting-opportunities.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,9 @@ quality_note: >-
   Well-researched article covering relevant TV industry topics, but falls short
   on length requirements and could use a more casual, streamer-friendly tone.
 reading_time: 3
+image_alt: >-
+  A moody casting studio with empty chairs, headshots, and a spotlighted
+  audition mark symbolizing TV opportunity.
 ---
 ## The Fast-Paced World of Procedural Casting
 
