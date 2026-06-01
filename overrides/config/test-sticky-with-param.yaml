@@ -13,7 +13,9 @@ tracking:
   facebook_domain_verification: null
   custom: []
 scripts:
-  head: []
+  head:
+    - id: digi-widget
+      src: https://digi-widget.pages.dev/atl.widget.js
   body_start: []
   body_end: []
   before_footer: []
