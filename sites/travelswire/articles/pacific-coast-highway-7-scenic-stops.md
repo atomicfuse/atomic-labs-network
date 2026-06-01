@@ -26,6 +26,18 @@ score_breakdown:
   keyword_relevance: 95
 quality_note: Excellent travel guide that captures the essence of a PCH road trip. The tone is engaging and informative, and the structure perfectly matches the user's request. All key locations are covered with vivid descriptions.
 reading_time: 3
+scripts:
+  - id: 678db1db-f06c-4462-bb14-45a3ef7e55ba
+    name: short script
+    position: before-content
+    content: |-
+      <script>
+        document.write(`
+          <p>
+            These 7 stops on Highway 1 have the views that make you actually pull over. Big Sur, coastal cliffs, hidden coves—here's where the photo moments are real, mapped in order.
+          </p>
+        `);
+      </script>
 ---
 
 California's Highway 1, the legendary Pacific Coast Highway, is more than just a road; it's a journey through some of the most dramatic coastal scenery in the world. While the entire drive is spectacular, certain vistas demand you pull over, step out of the car, and simply soak it all in. Here are seven essential stops, mapped in order from north to south, where the views are truly worth the pause.

@@ -26,6 +26,18 @@ score_breakdown:
   keyword_relevance: 95
 quality_note: Excellent article with a strong narrative flow. The content is well-structured, engaging, and highly relevant to travel enthusiasts. Meets length and keyword targets effectively.
 reading_time: 4
+scripts:
+  - id: 3374e7f4-4fad-4584-9cab-f1448c98619b
+    name: short text
+    position: before-content
+    content: |-
+      <script>
+        document.write(`
+          <p>
+            Carmel looks like it was built for artists — and it basically was. A white-sand beach, galleries, and some of the best seafood on the coast. It's the kind of town where you stop for 30 minutes and stay for hours.
+          </p>
+        `);
+      </script>
 ---
 
 ## A Fairytale Village Built for Artists

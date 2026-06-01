@@ -25,6 +25,18 @@ score_breakdown:
   factual_accuracy: 75
 quality_note: Evocative travel article that captures the essence of the destination. Factual accuracy score lowered due to subjective claims like 'most beautiful,' but overall content is strong and well-structured. Meets length and keyword targets.
 reading_time: 4
+scripts:
+  - id: a061f6a3-200d-4ad2-84b9-af05d99111c6
+    name: short text
+    position: before-content
+    content: |-
+      <script>
+        document.write(`
+          <p>
+            Big Sur isn't a town — it's a dramatic stretch of coastline where cliffs tower over the Pacific and the road has no guardrails. Here's why people call it the most beautiful coast in America, and where to actually stop to see it.
+          </p>
+        `);
+      </script>
 ---
 
 ## Defining America's Most Scenic Drive

@@ -26,6 +26,18 @@ score_breakdown:
   keyword_relevance: 90
 quality_note: Excellent travel article that captures the destination's atmosphere. Evocative language and good structure. Could be enhanced with specific business names or seasonal tips for visitors. Meets length and formatting requirements.
 reading_time: 3
+scripts:
+  - id: ebe1d82d-b82b-418e-bae3-6010c3d91eac
+    name: short text
+    position: before-content
+    content: |-
+      <script>
+        document.write(`
+          <p>
+            Morro Bay is the working fishing harbor that became photogenic. A 576-foot volcanic rock rises straight out of the bay, fishing boats line the waterfront, and the seafood is impossibly fresh. It's the authentic side of Highway 1.
+          </p>
+        `);
+      </script>
 ---
 
 ## The Sentinel of the Central Coast
