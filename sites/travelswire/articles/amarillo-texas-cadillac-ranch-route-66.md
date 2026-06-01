@@ -1,8 +1,6 @@
 ---
-title: 'Cadillac Ranch and Beyond: Why Amarillo Is the Weirdest, Best Stop on Route 66'
-description: >-
-  Cadillac Ranch, the 72-ounce free steak, and how to do Amarillo, Texas right
-  on your Route 66 road trip — the most photographed stop on the Mother Road.
+title: "Cadillac Ranch and Beyond: Why Amarillo Is the Weirdest, Best Stop on Route 66"
+description: Cadillac Ranch, the 72-ounce free steak, and how to do Amarillo, Texas right on your Route 66 road trip — the most photographed stop on the Mother Road.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -18,14 +16,17 @@ slug: amarillo-texas-cadillac-ranch-route-66
 reading_time: 6
 featuredImage: /assets/images/amarillo-texas-cadillac-ranch-route-66.webp
 seo:
-  og_title: 'Cadillac Ranch and Amarillo: A Route 66 Texas Panhandle Guide'
-  og_description: >-
-    Ten Cadillacs nose-down in a field, plus the famous 72-oz steak challenge —
-    Amarillo is Route 66 at its weirdest and best.
+  og_title: "Cadillac Ranch and Amarillo: A Route 66 Texas Panhandle Guide"
+  og_description: Ten Cadillacs nose-down in a field, plus the famous 72-oz steak challenge — Amarillo is Route 66 at its weirdest and best.
   twitter_card: summary_large_image
-image_alt: >-
-  Colorful vintage car fins rise from a Texas field at sunset with a
-  road-tripper nearby.
+image_alt: Colorful vintage car fins rise from a Texas field at sunset with a road-tripper nearby.
+scripts:
+  - id: f8ea0131-0c6c-46c0-bcdd-8f56191d571a
+    name: travelswire2
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="travelswire2"></div>
 ---
 
 Ten Cadillacs, nose-down in a Texas field, repainted every day by visitors with spray paint cans.

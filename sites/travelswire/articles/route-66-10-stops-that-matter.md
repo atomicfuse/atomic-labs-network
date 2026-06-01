@@ -1,9 +1,6 @@
 ---
 title: Most People Drive Route 66 Wrong. These Are the 10 Stops That Matter
-description: >-
-  America's most famous road trip, Chicago to the Pacific. The 10 Route 66 stops
-  actually worth your time, in order — from the Gateway Arch to Cadillac Ranch
-  to Santa Monica Pier.
+description: America's most famous road trip, Chicago to the Pacific. The 10 Route 66 stops actually worth your time, in order — from the Gateway Arch to Cadillac Ranch to Santa Monica Pier.
 type: listicle
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -19,11 +16,16 @@ reading_time: 8
 featuredImage: /assets/images/route-66-10-stops-that-matter.webp
 seo:
   og_title: Most People Drive Route 66 Wrong. These Are the 10 Stops That Matter
-  og_description: >-
-    Chicago to the Pacific — the 10 Route 66 stops actually worth pulling over
-    for, in order.
+  og_description: Chicago to the Pacific — the 10 Route 66 stops actually worth pulling over for, in order.
   twitter_card: summary_large_image
 image_alt: Classic car on a desert highway passing iconic Americana landmarks at sunset
+scripts:
+  - id: 8b6c5886-f7c3-4cdc-9c05-b47a1771f2e1
+    name: travelswire2
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="travelswire2"></div>
 ---
 
 Here's the thing nobody tells you about Route 66: you can drive the whole thing and still miss it.

@@ -1,10 +1,6 @@
 ---
-title: >-
-  St. Louis on Route 66: Why the Gateway Arch Is Worth a Full Night, Not a Quick
-  Photo
-description: >-
-  The Gateway Arch, The Hill's Italian food, and how to spend the perfect Route
-  66 night in St. Louis — your first real taste of the American West.
+title: "St. Louis on Route 66: Why the Gateway Arch Is Worth a Full Night, Not a Quick Photo"
+description: The Gateway Arch, The Hill's Italian food, and how to spend the perfect Route 66 night in St. Louis — your first real taste of the American West.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -19,14 +15,17 @@ slug: st-louis-missouri-gateway-arch-route-66
 reading_time: 7
 featuredImage: /assets/images/st-louis-missouri-gateway-arch-route-66.webp
 seo:
-  og_title: 'St. Louis on Route 66: A Full Guide to the Gateway to the West'
-  og_description: >-
-    The Gateway Arch, the original Route 66 alignment, and the best Italian food
-    this side of New York. Stop two on the Mother Road.
+  og_title: "St. Louis on Route 66: A Full Guide to the Gateway to the West"
+  og_description: The Gateway Arch, the original Route 66 alignment, and the best Italian food this side of New York. Stop two on the Mother Road.
   twitter_card: summary_large_image
-image_alt: >-
-  Gateway Arch at dusk with riverfront lights and a vintage road-trip car in the
-  foreground
+image_alt: Gateway Arch at dusk with riverfront lights and a vintage road-trip car in the foreground
+scripts:
+  - id: 337ea13d-d01c-46c8-9de8-e95872a54c98
+    name: travelswire2
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="travelswire2"></div>
 ---
 
 The Gateway Arch isn't just a monument.

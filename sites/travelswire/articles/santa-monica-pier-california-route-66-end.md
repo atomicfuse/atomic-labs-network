@@ -1,8 +1,6 @@
 ---
-title: 'The End of the Road: Santa Monica Pier and the True Finish of Route 66'
-description: >-
-  Santa Monica Pier is where every Route 66 traveler ends up — but the original
-  terminus was a few blocks inland. A guide to finishing the Mother Road right.
+title: "The End of the Road: Santa Monica Pier and the True Finish of Route 66"
+description: Santa Monica Pier is where every Route 66 traveler ends up — but the original terminus was a few blocks inland. A guide to finishing the Mother Road right.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -18,14 +16,17 @@ slug: santa-monica-pier-california-route-66-end
 reading_time: 6
 featuredImage: /assets/images/santa-monica-pier-california-route-66-end.webp
 seo:
-  og_title: 'Santa Monica Pier: The End of Route 66'
-  og_description: >-
-    How to finish the Mother Road properly — the famous 'End of the Trail' sign,
-    the original 1936 terminus, and what to do after you've driven America.
+  og_title: "Santa Monica Pier: The End of Route 66"
+  og_description: How to finish the Mother Road properly — the famous 'End of the Trail' sign, the original 1936 terminus, and what to do after you've driven America.
   twitter_card: summary_large_image
-image_alt: >-
-  Classic car at sunset near Santa Monica Pier, facing the Pacific after a long
-  road trip.
+image_alt: Classic car at sunset near Santa Monica Pier, facing the Pacific after a long road trip.
+scripts:
+  - id: 2d1c7b43-3a96-460c-b9bc-01daf70ab9da
+    name: travelswire2
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="travelswire2"></div>
 ---
 
 After 2,448 miles, eight states, two time zones, and somewhere between two and three weeks on the road, you'll roll into Santa Monica.

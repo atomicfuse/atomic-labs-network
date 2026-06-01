@@ -1,8 +1,6 @@
 ---
-title: 'Tulsa: The Route 66 Stop Nobody Tells You About (and Probably the Best One)'
-description: >-
-  Tulsa's Art Deco downtown, original Route 66 neon along 11th Street, and the
-  diners that make Oklahoma the soul of the Mother Road.
+title: "Tulsa: The Route 66 Stop Nobody Tells You About (and Probably the Best One)"
+description: Tulsa's Art Deco downtown, original Route 66 neon along 11th Street, and the diners that make Oklahoma the soul of the Mother Road.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -18,14 +16,17 @@ slug: tulsa-oklahoma-art-deco-neon-route-66
 reading_time: 7
 featuredImage: /assets/images/tulsa-oklahoma-art-deco-neon-route-66.webp
 seo:
-  og_title: 'Tulsa on Route 66: Art Deco, Neon, and Oklahoma''s Best-Kept Secret'
-  og_description: >-
-    Why Tulsa is the underrated jewel of Route 66 — Art Deco architecture,
-    vintage neon, and the chicken-fried steak you'll remember.
+  og_title: "Tulsa on Route 66: Art Deco, Neon, and Oklahoma's Best-Kept Secret"
+  og_description: Why Tulsa is the underrated jewel of Route 66 — Art Deco architecture, vintage neon, and the chicken-fried steak you'll remember.
   twitter_card: summary_large_image
-image_alt: >-
-  Twilight Tulsa street with Art Deco towers, vintage neon glow, diner lights,
-  and a classic car.
+image_alt: Twilight Tulsa street with Art Deco towers, vintage neon glow, diner lights, and a classic car.
+scripts:
+  - id: 98dcded1-98cf-450d-aaec-4054fad592a3
+    name: travelswire2
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="travelswire2"></div>
 ---
 
 Ask most Route 66 travelers what they remember about Oklahoma and they'll mumble something about flatness, wind, and a few hours of nothing.

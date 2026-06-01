@@ -1,8 +1,6 @@
 ---
-title: 'The Burros Will Stick Their Heads in Your Car: A Guide to Oatman, Arizona'
-description: >-
-  Wild burros, a gunfight at noon, and the honeymoon hotel of Clark Gable.
-  Oatman, Arizona is the strangest, most unforgettable stop on Route 66.
+title: "The Burros Will Stick Their Heads in Your Car: A Guide to Oatman, Arizona"
+description: Wild burros, a gunfight at noon, and the honeymoon hotel of Clark Gable. Oatman, Arizona is the strangest, most unforgettable stop on Route 66.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -18,14 +16,17 @@ slug: oatman-arizona-burro-ghost-town-route-66
 reading_time: 6
 featuredImage: /assets/images/oatman-arizona-burro-ghost-town-route-66.webp
 seo:
-  og_title: 'Oatman, Arizona: The Wild Burro Ghost Town on Route 66'
-  og_description: >-
-    Roaming wild burros, a high-noon gunfight, and the Clark Gable honeymoon
-    hotel — Oatman is Route 66 at its strangest and most authentic.
+  og_title: "Oatman, Arizona: The Wild Burro Ghost Town on Route 66"
+  og_description: Roaming wild burros, a high-noon gunfight, and the Clark Gable honeymoon hotel — Oatman is Route 66 at its strangest and most authentic.
   twitter_card: summary_large_image
-image_alt: >-
-  Curious burro approaches a vintage car on a dusty desert main street at golden
-  hour.
+image_alt: Curious burro approaches a vintage car on a dusty desert main street at golden hour.
+scripts:
+  - id: 57f44140-7c3a-48e9-a6ad-8f66352ef20e
+    name: travelswire2
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="travelswire2"></div>
 ---
 
 The first thing that happens when you drive into Oatman is that a wild burro walks up to your car window.
