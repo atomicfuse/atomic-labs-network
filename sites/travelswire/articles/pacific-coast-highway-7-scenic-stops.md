@@ -1,5 +1,5 @@
 ---
-title: "7 Pacific Coast Highway Stops With Views Worth Stopping For"
+title: 7 Pacific Coast Highway Stops With Views Worth Stopping For
 description: Discover the 7 most breathtaking stops along California's Pacific Coast Highway, from the iconic Bixby Bridge to the dramatic cliffs of Big Sur. Here are the views that make you pull over.
 type: standard
 status: published
@@ -29,15 +29,10 @@ reading_time: 3
 scripts:
   - id: 678db1db-f06c-4462-bb14-45a3ef7e55ba
     name: short script
-    position: before-content
+    position: after-paragraph-1
     content: |-
-      <script>
-        document.write(`
-          <p>
-            These 7 stops on Highway 1 have the views that make you actually pull over. Big Sur, coastal cliffs, hidden coves—here's where the photo moments are real, mapped in order.
-          </p>
-        `);
-      </script>
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="TravelSwire1"></div>
 ---
 These 7 stops on Highway 1 have the views that make you actually pull over. Big Sur, coastal cliffs, hidden coves—here's where the photo moments are real, mapped in order.
 

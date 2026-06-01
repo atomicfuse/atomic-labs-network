@@ -27,17 +27,10 @@ score_breakdown:
 quality_note: Excellent, practical guide that directly addresses the user's intent. The content is well-structured, actionable, and includes crucial safety information. Tone is appropriate for a travel/photography guide.
 reading_time: 4
 scripts:
-  - id: 56e9b450-6ac2-4d8a-b2bf-b1549ac86a36
-    name: short text
-    position: before-content
-    content: |-
-      <script>
-        document.write(`
-          <p>
-            Bixby Bridge is one iconic arch and California's most photographed moment on Highway 1. But getting the shot everyone wants requires knowing exactly where to stand and when the light hits. Here's how.
-          </p>
-        `);
-      </script>
+  - id: 439d0891-37c7-4478-b5fa-c9fed703cd22
+    name: cta
+    position: after-paragraph-1
+    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
 ---
 Bixby Bridge is one iconic arch and California's most photographed moment on Highway 1. But getting the shot everyone wants requires knowing exactly where to stand and when the light hits. Here's how.
 

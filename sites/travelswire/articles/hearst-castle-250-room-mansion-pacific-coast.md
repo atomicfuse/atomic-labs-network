@@ -27,17 +27,10 @@ score_breakdown:
 quality_note: Well-researched article on a popular historical landmark. The content is factually sound and well-structured, meeting the target length and keyword relevance. Tone is professional and informative, suitable for the topic.
 reading_time: 4
 scripts:
-  - id: 8ee86bf8-d665-4cb8-88b2-05f918114dc9
-    name: short text
-    position: before-content
-    content: |-
-      <script>
-        document.write(`
-          <p>
-            Hearst Castle is 250 rooms of opulence on a hillside overlooking the Pacific. It's absurd, extravagant, and one of the most dramatic buildings on the California coast. Here's what you actually need to know.
-          </p>
-        `);
-      </script>
+  - id: d5c2ccf2-f50d-4c4f-87cd-278699e683db
+    name: cta
+    position: after-paragraph-1
+    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
 ---
 Hearst Castle is 250 rooms of opulence on a hillside overlooking the Pacific. It's absurd, extravagant, and one of the most dramatic buildings on the California coast. Here's what you actually need to know.
 
