@@ -37,8 +37,8 @@ ads_config:
     exclude_pages: []
   layout: standard
   ad_placements:
-    - id: sticky-hey
-      position: sticky-bottom
+    - id: search-ads
+      position: after-paragraph-1
       device: all
       sizes: {}
       desktopSizeConfig:
@@ -61,9 +61,17 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      code: |
+        <div id="atl-arrow1"></div>
+                <script>
+                    window._atl_loadWidget('atl-arrow1',
+                        { feedid: 'demo_default', auth: 'demo', qs: 'count=5' }, 'arrow1',
+                        { qs: 'g_lo=1&g_mcol=1&g_title=Highlights' });
+                </script>
       page_types:
-        - all
+        - article
       exclude_pages: []
+  _mode: replace
 ads_txt: []
 activation:
   query_param: stickytest
