@@ -2,8 +2,7 @@ domain: travelswire.com
 site_name: TravelSwire
 site_tagline: null
 author: Sarah Rivera
-groups:
-  - ncg
+groups: []
 active: true
 bundle_id: 6a09b84d099fd899f75e8254
 iab_vertical_code: "653"
