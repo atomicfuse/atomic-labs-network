@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.tvline.com/2183215/best-tv-shows-like-the-morning-show/'
 source_item_id: 6a1bb2429bf3ecf115d9814a
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/best-tv-shows-like-the-morning-show.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 72
@@ -30,6 +30,9 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count and
   contains vague sourcing that raises accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Moody newsroom studio with an empty anchor desk and distant executive
+  silhouettes
 ---
 ## Media Drama Fans Have Options Beyond Apple TV+
 
