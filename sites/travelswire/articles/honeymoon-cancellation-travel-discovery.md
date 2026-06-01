@@ -30,8 +30,12 @@ image_alt: Newlyweds plan a coastal honeymoon at a sunlit café with a phone, ma
 scripts:
   - id: 5729c382-1619-4d41-a970-ee41a4b08507
     name: test_feed
-    position: after-content
+    position: before-content
     content: |-
+      <p>
+        Big Sur isn't a town — it's a dramatic stretch of coastline where cliffs tower over the Pacific and the road has no guardrails. Here's why people call it the most beautiful coast in America, and where to actually stop to see it.
+      </p>
+
       <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
       <div data-cg-feed="journey_peaks_1"></div>
 ---
