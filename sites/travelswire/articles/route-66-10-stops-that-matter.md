@@ -1,9 +1,12 @@
 ---
-title: "Most People Drive Route 66 Wrong. These Are the 10 Stops That Matter"
-description: "America's most famous road trip, Chicago to the Pacific. The 10 Route 66 stops actually worth your time, in order — from the Gateway Arch to Cadillac Ranch to Santa Monica Pier."
+title: Most People Drive Route 66 Wrong. These Are the 10 Stops That Matter
+description: >-
+  America's most famous road trip, Chicago to the Pacific. The 10 Route 66 stops
+  actually worth your time, in order — from the Gateway Arch to Cadillac Ranch
+  to Santa Monica Pier.
 type: listicle
 status: published
-publishDate: 2026-06-01
+publishDate: 2026-06-01T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Route 66
@@ -13,16 +16,19 @@ tags:
   - Americana
 slug: route-66-10-stops-that-matter
 reading_time: 8
-featuredImage: ""
+featuredImage: /assets/images/route-66-10-stops-that-matter.webp
 seo:
-  og_title: "Most People Drive Route 66 Wrong. These Are the 10 Stops That Matter"
-  og_description: "Chicago to the Pacific — the 10 Route 66 stops actually worth pulling over for, in order."
+  og_title: Most People Drive Route 66 Wrong. These Are the 10 Stops That Matter
+  og_description: >-
+    Chicago to the Pacific — the 10 Route 66 stops actually worth pulling over
+    for, in order.
   twitter_card: summary_large_image
+image_alt: Classic car on a desert highway passing iconic Americana landmarks at sunset
 ---
 
-Here's the thing nobody tells you about Route 66: you can drive the whole thing and still miss it. People rush the 2,448 miles from Chicago to Santa Monica like it's a checklist, blowing past the neon, the diners, the ghost towns, and the weird roadside Americana that made the road legendary in the first place.
+Here's the thing nobody tells you about Route 66: you can drive the whole thing and still miss it.
 
-The Mother Road isn't a route — it's a string of stops. Skip them and you've just driven a long, hot interstate. Hit the right ones in the right order and you've done one of the greatest road trips on the planet.
+People rush the 2,448 miles from Chicago to Santa Monica like it's a checklist, blowing past the neon, the diners, the ghost towns, and the weird roadside Americana that made the road legendary in the first place. The Mother Road isn't a route — it's a string of stops. Skip them and you've just driven a long, hot interstate. Hit the right ones in the right order and you've done one of the greatest road trips on the planet.
 
 Here are the 10 stops that actually matter, west from Chicago to the Pacific.
 

@@ -39,6 +39,7 @@ scripts:
         `);
       </script>
 ---
+Carmel looks like it was built for artists — and it basically was. A white-sand beach, galleries, and some of the best seafood on the coast. It's the kind of town where you stop for 30 minutes and stay for hours.
 
 ## A Fairytale Village Built for Artists
 

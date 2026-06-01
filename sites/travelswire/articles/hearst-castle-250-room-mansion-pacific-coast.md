@@ -39,6 +39,7 @@ scripts:
         `);
       </script>
 ---
+Hearst Castle is 250 rooms of opulence on a hillside overlooking the Pacific. It's absurd, extravagant, and one of the most dramatic buildings on the California coast. Here's what you actually need to know.
 
 ## The Vision on "The Enchanted Hill"
 

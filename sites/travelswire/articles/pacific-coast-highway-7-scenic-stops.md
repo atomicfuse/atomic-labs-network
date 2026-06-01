@@ -1,5 +1,5 @@
 ---
-title: 7 Pacific Coast Highway Stops With Views Worth Stopping For
+title: "7 Pacific Coast Highway Stops With Views Worth Stopping For"
 description: Discover the 7 most breathtaking stops along California's Pacific Coast Highway, from the iconic Bixby Bridge to the dramatic cliffs of Big Sur. Here are the views that make you pull over.
 type: standard
 status: published
@@ -39,8 +39,7 @@ scripts:
         `);
       </script>
 ---
-
-California's Highway 1, the legendary Pacific Coast Highway, is more than just a road; it's a journey through some of the most dramatic coastal scenery in the world. While the entire drive is spectacular, certain vistas demand you pull over, step out of the car, and simply soak it all in. Here are seven essential stops, mapped in order from north to south, where the views are truly worth the pause.
+These 7 stops on Highway 1 have the views that make you actually pull over. Big Sur, coastal cliffs, hidden coves—here's where the photo moments are real, mapped in order.
 
 ## 1. Monterey & 17-Mile Drive
 

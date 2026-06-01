@@ -26,19 +26,8 @@ score_breakdown:
   keyword_relevance: 95
 quality_note: Excellent travel piece that captures the essence of the location. Factual accuracy is good, though it relies on general descriptions rather than specific, cited data. Slightly over target word count but maintains engaging tone.
 reading_time: 3
-scripts:
-  - id: 75ed9f8e-20d9-4cbb-816c-8535fb075243
-    name: short text
-    position: before-content
-    content: |-
-      <script>
-        document.write(`
-          <p>
-            Point Lobos is what Big Sur looks like when it's quiet. Cypress trees, sea otters, and intimate coves tucked between Carmel and Big Sur. It has all the views and half the crowds.
-          </p>
-        `);
-      </script>
 ---
+Point Lobos is what Big Sur looks like when it's quiet. Cypress trees, sea otters, and intimate coves tucked between Carmel and Big Sur. It has all the views and half the crowds.
 
 ## A Slice of Big Sur's Beauty, Distilled
 

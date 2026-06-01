@@ -39,6 +39,7 @@ scripts:
         `);
       </script>
 ---
+Bixby Bridge is one iconic arch and California's most photographed moment on Highway 1. But getting the shot everyone wants requires knowing exactly where to stand and when the light hits. Here's how.
 
 ## Capturing an Icon: More Than Just a Snapshot
 
