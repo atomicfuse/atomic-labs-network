@@ -1,7 +1,6 @@
 domain: muvizzcom
 active: true
-groups:
-  - outbrain-ads
+groups: []
 brief:
   siteName: Muvizz.com
   audience: Movie and TV enthusiasts aged 18-45
