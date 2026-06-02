@@ -1,25 +1,38 @@
 ---
-title: "1930s Cartoon-Inspired Video Games Take the Gaming World by Storm"
-description: "In the evolving world of video game design, a delightful subset of games is embracing 1930s vintage animation styles, offering a refreshing contrast to photorealism and captivating players with nostalgic art reminiscent of early 20th-century cartoons."
-type: "standard"
-status: "published"
-publishDate: "2025-06-12T11:55:27+00:00"
-author: "Taylor Winters"
+title: 1930s Cartoon-Inspired Video Games Take the Gaming World by Storm
+description: >-
+  In the evolving world of video game design, a delightful subset of games is
+  embracing 1930s vintage animation styles, offering a refreshing contrast to
+  photorealism and captivating players with nostalgic art reminiscent of early
+  20th-century cartoons.
+type: standard
+status: published
+publishDate: '2025-06-12T11:55:27+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "concept-art"
-slug: "1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm"
+  - Gaming News
+  - concept-art
+slug: 1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm
 reading_time: 3
-source_url: "https://gamingnewsalley.com/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm/
+imported_from: wordpress
 wp_original_id: 42484
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: >-
+  /assets/images/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm.webp
 seo:
-  canonical: "https://gamingnewsalley.com/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm/"
-  og_title: "1930s Cartoon-Inspired Video Games Take the Gaming World by Storm - Gaming News Alley"
-  og_description: "In the evolving world of video game design, a delightful subset of games is embracing 1930s vintage animation styles, offering a refreshing contrast to photorealism and captivating players with nostalgic art reminiscent of early 20th-century cartoons."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/06/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm/
+  og_title: >-
+    1930s Cartoon-Inspired Video Games Take the Gaming World by Storm - Gaming
+    News Alley
+  og_description: >-
+    In the evolving world of video game design, a delightful subset of games is
+    embracing 1930s vintage animation styles, offering a refreshing contrast to
+    photorealism and captivating players with nostalgic art reminiscent of early
+    20th-century cartoons.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/06/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -27,7 +40,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "Well-written article with engaging tone and good factual accuracy, but falls short on length (575 words vs 800-1200 target) and could better integrate core gaming keywords like Reviews, Gameplay, PC Games, and Console Games."
+quality_note: >-
+  Well-written article with engaging tone and good factual accuracy, but falls
+  short on length (575 words vs 800-1200 target) and could better integrate core
+  gaming keywords like Reviews, Gameplay, PC Games, and Console Games.
+image_alt: >-
+  Modern gaming setup with vintage cartoon figures emerging from a glowing
+  screen
 ---
 
 In the ever-evolving world of video game design, developers are constantly exploring new ways to captivate players. While many games strive for lifelike graphics, a delightful subset of games is embracing the charm of vintage animation styles. These games draw inspiration from the 1930s, offering a refreshing contrast to the prevalent trend of photorealism.
