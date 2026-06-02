@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-sun-reveals-previously-hidden-solar.html'
 source_item_id: 6a17d0828c60bc3c84eb2db7
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/scientists-listen-sun-hidden-solar-cycle-changes.webp
 quality_score: 87
 score_breakdown:
   seo_quality: 85
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written science article with strong keyword relevance and engaging tone,
   but slightly short of optimal length at 670 words.
 reading_time: 3
+image_alt: >-
+  Glowing Sun with subtle wave rings and magnetic arcs suggesting hidden solar
+  activity near the surface
 ---
 ## Scientists Discover Hidden Solar Changes Through Sound Waves
 
