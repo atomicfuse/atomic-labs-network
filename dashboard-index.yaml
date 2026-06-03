@@ -957,6 +957,25 @@ sites:
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelingfoodie2
     saved_previews: null
     custom_domain: null
+  - domain: aliensrus
+    company: null
+    vertical: ""
+    status: Staging
+    site_id: "0486296570218"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-06-03T11:31:36.570Z
+    created_at: 2026-06-03T11:31:36.570Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/aliensrus
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=aliensrus
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: asaftest
     company: null
