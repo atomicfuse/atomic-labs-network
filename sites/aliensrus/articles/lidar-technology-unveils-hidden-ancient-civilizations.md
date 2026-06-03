@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=I7jXd0MVoUg'
 source_item_id: 6a17de928c60bc3c84eb2e01
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/lidar-technology-unveils-hidden-ancient-civilizations.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -37,6 +37,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Ancient Mysteries
+image_alt: >-
+  LIDAR scan lines reveal hidden ancient earthworks beneath a misty rainforest
+  canopy.
 ---
 ## The Archaeological Revolution Hidden in Plain Sight
 
