@@ -58,20 +58,22 @@ brief:
         preferred_days:
           - Thursday
     - name: Conspiracy Theories
+      description: conspiracy in crimes, pop culture, celebs, history, scientists dark stories
       source:
         type: filter
         category_ids:
-          - 6a0079401104bbff809b801d
+          - 6a00793d1104bbff809b7c29
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b801b
           - 6a00793d1104bbff809b7c68
         tag_ids:
           - 6a03361286fcaaeb5bc83259
           - 6a17dfc68c60bc3c84eb2e0e
-          - 6a14158a16f23264031d7d4a
-          - 6a17dfc68c60bc3c84eb2e0d
-          - 6a17dfe38c60bc3c84eb2e15
-          - 6a17dfdb8c60bc3c84eb2e12
-          - 6a152efb16f23264031d81e4
-          - 6a03361286fcaaeb5bc83258
+          - 6a008aba2a0a294c696af844
+          - 6a03467e86fcaaeb5bc83424
+          - 6a04359286fcaaeb5bc836e1
+          - 6a04334886fcaaeb5bc836a1
+          - 6a033d1786fcaaeb5bc83375
       schedule:
         articles_per_week: 1
         preferred_days:
