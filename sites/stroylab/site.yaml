@@ -5,7 +5,6 @@ author: Sarah Bennett
 groups:
   - ncg
 active: true
-bundle_id: 6a12d76316f23264031d7a57
 brief:
   audiences:
     - Sensitive Topics enthusiasts
@@ -32,11 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Sensitive Topics
   vertical_id: 6a00793d1104bbff809b7c6b
-  category_ids:
-    - 6a00793d1104bbff809b7c6b
-    - 6a0079401104bbff809b801d
-    - 6a0079401104bbff809b801b
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -47,6 +41,105 @@ brief:
       - thursday
       - friday
     preferred_time: 10:00
+  theme: a site about conspiracy, the unexplained, mystery, from the pyramids, to
+    murder stories.
+  topics_v2:
+    - name: Conspiracies
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b801b
+          - 6a0079401104bbff809b801d
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a1448e216f23264031d800c
+          - 6a1448e216f23264031d800b
+          - 6a0335fa86fcaaeb5bc8323c
+          - 6a17dfe38c60bc3c84eb2e15
+          - 6a17dfe38c60bc3c84eb2e16
+          - 6a17dfc68c60bc3c84eb2e0a
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Dark History
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+          - 6a0079401104bbff809b801b
+          - 6a00793d1104bbff809b7c2c
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a14158a16f23264031d7d4a
+          - 6a1448e216f23264031d800c
+          - 6a0335fa86fcaaeb5bc8323c
+          - 6a033d1786fcaaeb5bc83379
+          - 6a033d1786fcaaeb5bc83378
+          - 6a1417cb16f23264031d7d5a
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Deep Dives
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+          - 6a00793d1104bbff809b7c2c
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a14158a16f23264031d7d4a
+          - 6a1448e216f23264031d800c
+          - 6a1448e216f23264031d800d
+          - 6a0335fa86fcaaeb5bc8323c
+          - 6a033d1786fcaaeb5bc83379
+          - 6a17dfc68c60bc3c84eb2e0a
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Mysteries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+          - 6a00793d1104bbff809b7c2c
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a14158a16f23264031d7d4a
+          - 6a17dfc68c60bc3c84eb2e0d
+          - 6a033d1786fcaaeb5bc83375
+          - 6a1448e216f23264031d800c
+          - 6a1448e216f23264031d800d
+          - 6a0b3366ac596b621e9355f3
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Friday
+    - name: Unsolved Cases
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+          - 6a0079401104bbff809b801b
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a033d0b86fcaaeb5bc8336d
+          - 6a15230016f23264031d816e
+          - 6a1e773f9bf3ecf115d984c9
+          - 6a1448e216f23264031d800c
+          - 6a0335fa86fcaaeb5bc8323c
+          - 6a033d1786fcaaeb5bc83379
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:
