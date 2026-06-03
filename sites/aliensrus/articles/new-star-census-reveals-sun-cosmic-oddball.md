@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html'
 source_item_id: 6a17d0828c60bc3c84eb2db3
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/new-star-census-reveals-sun-cosmic-oddball.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Conspiracy Theories
+image_alt: >-
+  A solitary yellow star contrasts with distant paired stars in a dark,
+  mysterious cosmic field.
 ---
 ## Our Solitary Sun: A Cosmic Anomaly
 
