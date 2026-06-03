@@ -25,21 +25,19 @@ brief:
         category_ids:
           - 6a00793d1104bbff809b7c68
           - 6a00793e1104bbff809b7e25
-          - 6a00793d1104bbff809b7c2c
+          - 6a00793e1104bbff809b7e21
         tag_ids:
           - 6a03361286fcaaeb5bc83259
           - 6a17dfc68c60bc3c84eb2e0e
           - 6a14158a16f23264031d7d4a
           - 6a152efb16f23264031d81e4
-          - 6a03361286fcaaeb5bc83258
-          - 6a033d1786fcaaeb5bc83375
-          - 6a17dfc68c60bc3c84eb2e0a
+          - 6a17dfc68c60bc3c84eb2e0d
+          - 6a17dfe38c60bc3c84eb2e18
           - 6a0335fa86fcaaeb5bc83247
       schedule:
-        articles_per_week: 2
+        articles_per_week: 1
         preferred_days:
           - Wednesday
-          - Friday
     - name: Ancient Mysteries
       source:
         type: filter
@@ -49,14 +47,14 @@ brief:
           - 6a00793e1104bbff809b7e1f
         tag_ids:
           - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
           - 6a14158a16f23264031d7d4a
           - 6a17dfc68c60bc3c84eb2e0d
+          - 6a152efb16f23264031d81e4
           - 6a17dfe38c60bc3c84eb2e18
           - 6a17dfc68c60bc3c84eb2e0a
-          - 6a17dfc68c60bc3c84eb2e0e
-          - 6a03383f86fcaaeb5bc832d7
       schedule:
-        articles_per_week: 2
+        articles_per_week: 1
         preferred_days:
           - Thursday
     - name: Conspiracy Theories
@@ -84,18 +82,15 @@ brief:
         category_ids:
           - 6a00793d1104bbff809b7c68
           - 6a00793e1104bbff809b7e25
-          - 6a00793e1104bbff809b7e03
         tag_ids:
           - 6a03361286fcaaeb5bc83259
           - 6a17dfc68c60bc3c84eb2e0e
           - 6a14158a16f23264031d7d4a
           - 6a152efb16f23264031d81e4
-          - 6a17dfc68c60bc3c84eb2e0a
-          - 6a03383f86fcaaeb5bc832d6
-          - 6a17dfdb8c60bc3c84eb2e12
-          - 6a17dfe38c60bc3c84eb2e15
+          - 6a03361286fcaaeb5bc83258
+          - 6a0335fa86fcaaeb5bc83247
       schedule:
-        articles_per_week: 2
+        articles_per_week: 1
         preferred_days:
           - Thursday
   seo_keywords_focus: []
