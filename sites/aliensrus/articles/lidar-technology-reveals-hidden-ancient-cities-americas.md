@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=I7jXd0MVoUg'
 source_item_id: 6a17de928c60bc3c84eb2e01
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/lidar-technology-reveals-hidden-ancient-cities-americas.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -38,6 +38,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Conspiracy Theories
+image_alt: >-
+  Lidar beams reveal hidden ancient city outlines beneath a misty rainforest
+  canopy.
 ---
 ## Revolutionary Technology Transforms Archaeological Discovery
 
