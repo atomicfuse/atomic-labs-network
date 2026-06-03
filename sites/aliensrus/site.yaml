@@ -1,0 +1,166 @@
+domain: aliensrus
+site_name: aliens-r-us
+site_tagline: null
+author: Sarah Cooper
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: dramatic
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Unexplained Events
+    - Ancient Mysteries
+    - Conspiracy Theories
+    - Strange Phenomena
+  theme: a website about science and conspiracy, the unexplained from tesla to the pyramids and aliens anunnaki
+  topics_v2:
+    - name: Unexplained Events
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e25
+          - 6a00793d1104bbff809b7c2c
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a14158a16f23264031d7d4a
+          - 6a152efb16f23264031d81e4
+          - 6a03361286fcaaeb5bc83258
+          - 6a033d1786fcaaeb5bc83375
+          - 6a17dfc68c60bc3c84eb2e0a
+          - 6a0335fa86fcaaeb5bc83247
+      schedule:
+        articles_per_week: 2
+        preferred_days:
+          - Wednesday
+          - Friday
+    - name: Ancient Mysteries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e21
+          - 6a00793e1104bbff809b7e1f
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a14158a16f23264031d7d4a
+          - 6a17dfc68c60bc3c84eb2e0d
+          - 6a17dfe38c60bc3c84eb2e18
+          - 6a17dfc68c60bc3c84eb2e0a
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a03383f86fcaaeb5bc832d7
+      schedule:
+        articles_per_week: 2
+        preferred_days:
+          - Thursday
+    - name: Conspiracy Theories
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a14158a16f23264031d7d4a
+          - 6a152efb16f23264031d81e4
+          - 6a03361286fcaaeb5bc83258
+          - 6a0335fa86fcaaeb5bc83247
+          - 6a17dfc68c60bc3c84eb2e0a
+          - 6a17dfe38c60bc3c84eb2e15
+      schedule:
+        articles_per_week: 2
+        preferred_days:
+          - Tuesday
+          - Friday
+    - name: Strange Phenomena
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e03
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a14158a16f23264031d7d4a
+          - 6a152efb16f23264031d81e4
+          - 6a17dfc68c60bc3c84eb2e0a
+          - 6a03383f86fcaaeb5bc832d6
+          - 6a17dfdb8c60bc3c84eb2e12
+          - 6a17dfe38c60bc3c84eb2e15
+      schedule:
+        articles_per_week: 2
+        preferred_days:
+          - Thursday
+  seo_keywords_focus: []
+  content_guidelines: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+theme:
+  base: midnight
+  colors:
+    primary: "#581c87"
+    accent: "#a855f7"
+    background: "#0f0720"
+    secondary: "#1e1038"
+    text: "#f0e6ff"
+    muted: "#a78bfa"
+    surface: "#1e1038"
+    border: "#2e1a50"
+    heading: "#f0e6ff"
+    link: "#a855f7"
+    link_hover: "#c084fc"
+    footer_bg: "#1e1038"
+    must_reads_bg: "#1e1038"
+    hero_title: "#ffffff"
+    must_reads_title: "#f0e6ff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#a78bfa"
+    feed_title: "#f0e6ff"
+    feed_desc: "#d8c8f0"
+    feed_date: "#a78bfa"
+    prose_heading: "#f0e6ff"
+    prose_body: "#d8c8f0"
+    category_header_text: "#ffffff"
+    footer_text: "#a78bfa"
+    footer_heading: "#ffffff"
+    footer_link: "#a78bfa"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  fonts:
+    heading: Inter
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
