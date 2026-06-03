@@ -23,7 +23,8 @@ source_url: >-
   https://www.dailymail.com/tvshowbiz/article-15865993/Jennifer-Lopez-WWHL-teen-revealed-gender-change.html
 source_item_id: 6a1e59f29bf3ecf115d982a2
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: >-
+  /assets/images/celebrity-family-gender-identity-modern-spotlight-challenge.webp
 quality_score: 38
 score_breakdown:
   seo_quality: 25
@@ -39,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Conspiracy Theories
+image_alt: >-
+  Anonymous celebrity parent shields a young family member from paparazzi
+  flashes outside a dark studio.
 ---
 ## The Phenomenon of Celebrity Family Revelations
 
