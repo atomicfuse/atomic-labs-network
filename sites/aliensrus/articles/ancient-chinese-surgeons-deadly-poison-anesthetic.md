@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-ancient-anesthetic-reveals-ming-china.html'
 source_item_id: 6a152d8216f23264031d81b9
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/ancient-chinese-surgeons-deadly-poison-anesthetic.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ancient Mysteries
+image_alt: >-
+  Ancient surgical tools under a blue analysis beam with toxic flowers blurred
+  in the background.
 ---
 ## Revolutionary Discovery in Ming Dynasty Tomb
 
