@@ -18,7 +18,8 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=I7jXd0MVoUg'
 source_item_id: 6a17de928c60bc3c84eb2e01
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: >-
+  /assets/images/lidar-technology-reveals-hidden-archaeological-sites-americas.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -37,6 +38,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Strange Phenomena
+image_alt: >-
+  Lidar-like glow reveals hidden ancient earthworks beneath a misty rainforest
+  canopy.
 ---
 ## Revolutionary Technology Transforms Archaeological Discovery
 
