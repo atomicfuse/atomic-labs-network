@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.tmz.com/2026/06/01/mackenzie-shirilla-talks-boredom-in-prison/'
 source_item_id: 6a1e59f39bf3ecf115d982cf
 generated_by: claude
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/mackenzie-shirilla-prison-boredom-life-sentence-complaint.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Unsolved Cases
+image_alt: >-
+  Empty prison common area with a wall clock and phone under cold fluorescent
+  light.
 ---
 ## Life Behind Bars: A Different Kind of Time
 
