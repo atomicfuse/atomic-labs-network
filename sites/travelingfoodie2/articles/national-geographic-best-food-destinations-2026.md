@@ -23,7 +23,7 @@ source_url: >-
   https://news.google.com/atom/articles/CBMimwFBVV95cUxPWjZjMDRFaE9JZlgyTHNzN20zaU90Ync1SzdnZDRlbFA4SU9oQzJaWEYxcW5SSC1HSWNKTHdJUnlGUTZzRWVHMFh5TXRKdkhzekh6MDk0Rl85MjQtZkVKZDhocUxCZU5oNGFId0NRZnhpdEUxUU9XS0hvS055MGFWYkJzcFBuY19XelFLUnlZaGVVRlVxcERDUklvRQ?oc=5
 source_item_id: 6a184522454e8b9490eacacd
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/national-geographic-best-food-destinations-2026.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ quality_note: >-
   short of target word count and makes vague claims about National Geographic's
   list without providing specific destinations or concrete details.
 reading_time: 2
+image_alt: >-
+  Sunlit market table filled with global dishes, spices, produce, and travel
+  items
 ---
 ## Food Tourism Takes Center Stage
 

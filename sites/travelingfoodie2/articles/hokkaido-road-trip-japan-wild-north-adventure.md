@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://www.ynetnews.com/travel/article/s1ylls2yze'
 source_item_id: 6a13fcb916f23264031d7ba5
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/hokkaido-road-trip-japan-wild-north-adventure.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   but significantly under target word count and contains vague sourcing that
   impacts credibility.
 reading_time: 3
+image_alt: >-
+  Turquoise Hokkaido pond beside a quiet rural road with cherry blossoms and
+  distant forested hills
 ---
 ## Japan's Hidden Adventure Paradise
 

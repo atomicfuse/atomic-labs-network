@@ -22,7 +22,7 @@ reviewer_notes: >-
 source_url: 'https://thepointsguy.com/news/boston-logan-remote-terminal-tour/'
 source_item_id: 6a1bda1a9bf3ecf115d9815f
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/boston-logan-remote-terminal-framingham-pilot-2.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
   a potentially fabricated pilot program that doesn't exist, severely impacting
   factual accuracy.
 reading_time: 2
+image_alt: >-
+  Travelers pass through a modern off-site airport terminal toward a waiting
+  shuttle bus.
 ---
 ## A New Way to Fly: Boston's Remote Terminal Experiment
 

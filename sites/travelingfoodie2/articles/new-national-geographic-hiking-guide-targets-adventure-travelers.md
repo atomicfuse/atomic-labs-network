@@ -22,7 +22,8 @@ source_url: >-
   https://www.forbes.com/sites/wendyaltschuler/2026/05/18/wander-farther-a-new-hiking-book-doubles-as-a-travel-guide/
 source_item_id: 6a0bc42316f23264031d7729
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: >-
+  /assets/images/new-national-geographic-hiking-guide-targets-adventure-travelers.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 65
@@ -35,6 +36,9 @@ quality_note: >-
   length (569 words vs 800-1200 target) and lacks compelling SEO elements like
   meta description optimization.
 reading_time: 3
+image_alt: >-
+  Hikers pause on a mountain overlook above a lake, forest valley, and winding
+  trail at golden hour.
 ---
 ## A Timely Guide for Outdoor Enthusiasts
 

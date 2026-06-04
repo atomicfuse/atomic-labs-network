@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.ynetnews.com/travel/article/b1xmws11ggx'
 source_item_id: 6a1bda1a9bf3ecf115d9815d
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/israel-winter-short-trip-adventures.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   short on length and needs more specific SEO optimization for better
   performance.
 reading_time: 3
+image_alt: >-
+  Winter hiking trail blending Israel’s coast, green hills, forest, and desert
+  with small hikers in the distance.
 ---
 ## Why Winter is Prime Time for Israeli Adventures
 
