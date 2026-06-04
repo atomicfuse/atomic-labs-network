@@ -22,7 +22,7 @@ source_url: >-
   https://www.dailymail.com/tvshowbiz/article-15865779/ariana-grande-music-video-concern.html
 source_item_id: 6a1e59f29bf3ecf115d982a4
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/ariana-grande-music-video-body-image-controversy.webp
 quality_score: 25
 score_breakdown:
   seo_quality: 25
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Conspiracy Theories
+image_alt: Anonymous pop performer surrounded by phone screens on a shadowy stage
 ---
 ## The Latest Celebrity Body Image Storm
 
