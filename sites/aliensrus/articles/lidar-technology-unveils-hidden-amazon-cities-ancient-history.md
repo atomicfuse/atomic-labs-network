@@ -19,7 +19,8 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=WdSD3uIzB3E'
 source_item_id: 6a17de928c60bc3c84eb2e04
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: >-
+  /assets/images/lidar-technology-unveils-hidden-amazon-cities-ancient-history.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -38,6 +39,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Strange Phenomena
+image_alt: >-
+  LIDAR scan lines reveal hidden ancient city patterns beneath a misty Amazon
+  rainforest canopy.
 ---
 ## Revolutionary Technology Pierces the Amazon's Veil
 
