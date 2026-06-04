@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-definitive-census-multiple-star-ten.html'
 source_item_id: 6a17d0828c60bc3c84eb2db3
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/solitary-sun-stellar-census-reveals-hidden-companions.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ancient Mysteries
+image_alt: >-
+  A lone golden star drifts apart from distant paired stars in a dark, cinematic
+  stellar field.
 ---
 ## The Cosmic Census That Changes Everything
 
