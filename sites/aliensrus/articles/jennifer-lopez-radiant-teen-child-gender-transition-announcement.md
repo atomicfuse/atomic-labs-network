@@ -22,7 +22,8 @@ source_url: >-
   https://www.dailymail.com/tvshowbiz/article-15865993/Jennifer-Lopez-WWHL-teen-revealed-gender-change.html
 source_item_id: 6a1e59f29bf3ecf115d982a2
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: >-
+  /assets/images/jennifer-lopez-radiant-teen-child-gender-transition-announcement.webp
 quality_score: 28
 score_breakdown:
   seo_quality: 25
@@ -37,6 +38,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Conspiracy Theories
+image_alt: >-
+  Radiant celebrity parent leaving a studio amid camera flashes and subtle
+  rainbow light.
 ---
 ## Celebrity Parent in the Spotlight
 
