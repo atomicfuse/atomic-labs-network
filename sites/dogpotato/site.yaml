@@ -4,7 +4,6 @@ site_tagline: null
 author: Ava Murphy
 groups: []
 active: true
-bundle_id: 6a0d9c4716f23264031d794d
 brief:
   audiences:
     - Pets enthusiasts
@@ -20,9 +19,6 @@ brief:
     - Dogs
     - Funny Videos
     - Good To Know
-    - Other Animals
-    - Veterinary
-    - Videos
   seo_keywords_focus:
     - Animal Planet
     - Cats
@@ -38,7 +34,6 @@ brief:
   vertical: Pets
   vertical_id: 6a00793d1104bbff809b7c59
   category_ids:
-    - 6a00793d1104bbff809b7c59
     - 6a00793e1104bbff809b7dcb
     - 6a00793e1104bbff809b7dcd
     - 6a00793e1104bbff809b7dd7
@@ -54,6 +49,16 @@ brief:
       - friday
     preferred_time: 10:00
   audience_type_ids: []
+  image_guidelines: []
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  bundle_ids:
+    - 6a0d9c4716f23264031d794d
 theme:
   base: modern
   colors:
