@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=WdSD3uIzB3E'
 source_item_id: 6a17de928c60bc3c84eb2e04
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/lidar-reveals-hidden-amazon-cities-ancient-civilizations.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -36,6 +36,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Strange Phenomena
+image_alt: >-
+  LIDAR-like light reveals hidden ancient structures beneath misty Amazon
+  rainforest canopy.
 ---
 ## Revolutionary Technology Transforms Archaeological Understanding
 
