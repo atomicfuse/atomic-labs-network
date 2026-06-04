@@ -3,7 +3,6 @@ site_name: Finance News Base
 site_tagline: null
 groups: []
 active: true
-bundle_id: 6a01a4eb2f41f36e83c6086b
 iab_vertical_code: "52"
 iab_category_codes:
   - "95"
@@ -35,14 +34,6 @@ brief:
     - generate only realistic images
   vertical: Business and Finance
   vertical_id: 6a00793d1104bbff809b7c20
-  category_ids:
-    - 6a00793d1104bbff809b7c20
-    - 6a00793f1104bbff809b7f2d
-    - 6a00793f1104bbff809b7ef1
-    - 6a00793f1104bbff809b7f03
-    - 6a00793f1104bbff809b7f17
-    - 6a00793f1104bbff809b7f19
-    - 6a00793f1104bbff809b7f1b
   review_percentage: 5
   schedule:
     articles_per_day: 1
@@ -53,6 +44,88 @@ brief:
       - Thursday
       - Friday
     preferred_time: 10:00
+  theme: a site about finance, stock market and economy and everything that is
+    news on those subjects
+  topics_v2:
+    - name: Market Analysis
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c20
+          - 6a00793d1104bbff809b7c56
+          - 6a00793f1104bbff809b7f2d
+          - 6a00793e1104bbff809b7db7
+        tag_ids:
+          - 6a008e372a0a294c696af86c
+          - 6a008e372a0a294c696af86a
+          - 6a008e832a0a294c696af892
+          - 6a008e932a0a294c696af8a2
+          - 6a008ea22a0a294c696af8b2
+          - 6a0090da2a0a294c696af8f8
+          - 6a008e372a0a294c696af872
+          - 6a01a5cd2f41f36e83c6086f
+      schedule:
+        articles_per_week: 2
+        preferred_days: &a1
+          - Monday
+          - Wednesday
+          - Friday
+    - name: Personal Finance
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793e1104bbff809b7da9
+          - 6a00793e1104bbff809b7db7
+          - 6a00793e1104bbff809b7dab
+        tag_ids:
+          - 6a0b1eeaa53fcab94b36499f
+          - 6a0b1eeaa53fcab94b3649a0
+          - 6a008e932a0a294c696af8a4
+          - 6a008e932a0a294c696af8a7
+          - 6a008e562a0a294c696af87c
+          - 6a008e562a0a294c696af878
+          - 6a033f6f86fcaaeb5bc833c6
+      schedule:
+        articles_per_week: 2
+        preferred_days: *a1
+    - name: Investment Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793d1104bbff809b7c20
+          - 6a00793e1104bbff809b7db7
+          - 6a00793f1104bbff809b7f13
+        tag_ids:
+          - 6a008e372a0a294c696af86c
+          - 6a008e372a0a294c696af86a
+          - 6a008e962a0a294c696af8aa
+          - 6a008eb72a0a294c696af8ba
+          - 6a008e832a0a294c696af892
+          - 6a0090c92a0a294c696af8ec
+      schedule:
+        articles_per_week: 2
+        preferred_days: *a1
+    - name: Economic Trends
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c20
+          - 6a00793f1104bbff809b7f23
+          - 6a00793f1104bbff809b7f17
+          - 6a00793f1104bbff809b7f21
+        tag_ids:
+          - 6a01a5cd2f41f36e83c6086f
+          - 6a0090da2a0a294c696af8f8
+          - 6a008e372a0a294c696af872
+          - 6a008e562a0a294c696af87c
+          - 6a03387f86fcaaeb5bc83309
+          - 6a008e932a0a294c696af8a7
+          - 6a0090da2a0a294c696af8f3
+      schedule:
+        articles_per_week: 2
+        preferred_days: *a1
 theme:
   base: slate
   colors:
