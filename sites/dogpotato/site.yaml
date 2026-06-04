@@ -33,11 +33,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Pets
   vertical_id: 6a00793d1104bbff809b7c59
-  category_ids:
-    - 6a00793e1104bbff809b7dcb
-    - 6a00793e1104bbff809b7dcd
-    - 6a00793e1104bbff809b7dd7
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -57,8 +52,109 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  bundle_ids:
-    - 6a0d9c4716f23264031d794d
+  theme: all about pets
+  topics_v2:
+    - name: Animal Planet
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+          - 6a00793e1104bbff809b7dcb
+          - 6a00793e1104bbff809b7dcd
+          - 6a00793e1104bbff809b7dd1
+        tag_ids:
+          - 6a0b340bac596b621e93560c
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0fdf8c16f23264031d7a20
+          - 6a0fdd4616f23264031d79fe
+          - 6a044aaf86fcaaeb5bc83864
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Cats
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7dcb
+          - 6a00793d1104bbff809b7c59
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a044ccf86fcaaeb5bc8387b
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0b340bac596b621e93560c
+          - 6a044f3986fcaaeb5bc838c4
+          - 6a044aaf86fcaaeb5bc83864
+          - 6a06a293febc8d8d1c2ca465
+          - 6a0fdd4616f23264031d79fd
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Friday
+    - name: Dogs
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7dcd
+          - 6a00793e1104bbff809b7dd3
+          - 6a00793e1104bbff809b7dd9
+          - 6a00793e1104bbff809b7dd7
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a0b340bac596b621e93560c
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0fdcf916f23264031d79d0
+          - 6a044cec86fcaaeb5bc8389d
+          - 6a06a293febc8d8d1c2ca465
+          - 6a0fdd2316f23264031d79ed
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Saturday
+    - name: Funny Videos
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+          - 6a00793e1104bbff809b7de9
+        tag_ids:
+          - 6a0b340bac596b621e93560c
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0fdf8c16f23264031d7a20
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0fdd4616f23264031d79fe
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Sunday
+    - name: Good To Know
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+          - 6a00793e1104bbff809b7dd7
+          - 6a00793e1104bbff809b7dd3
+          - 6a00793e1104bbff809b7dd9
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0b340bac596b621e93560c
+          - 6a06a293febc8d8d1c2ca465
+          - 6a0fdd2316f23264031d79ed
+          - 6a044cec86fcaaeb5bc8389d
+          - 6a044aaf86fcaaeb5bc83864
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
 theme:
   base: modern
   colors:
