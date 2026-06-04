@@ -238,7 +238,24 @@ jobs:
                   break
           ")"
           echo "Hostnames for $SITE: $HOSTS"
-          pnpm seed:kv "$SITE" $HOSTS
+
+          # seed:kv is idempotent — re-running completes a partial run. Retry
+          # on transient failures (wrangler network blips, KV/R2 5xx) so a
+          # momentary glitch doesn't fail the sync and fire a false alert.
+          SEED_ATTEMPTS=3
+          for attempt in $(seq 1 $SEED_ATTEMPTS); do
+            if pnpm seed:kv "$SITE" $HOSTS; then
+              echo "seed:kv succeeded on attempt $attempt"
+              break
+            fi
+            if [ "$attempt" -lt "$SEED_ATTEMPTS" ]; then
+              echo "seed:kv failed (attempt $attempt/$SEED_ATTEMPTS) — retrying in 20s..."
+              sleep 20
+            else
+              echo "::error::seed:kv failed after $SEED_ATTEMPTS attempts for $SITE — real failure."
+              exit 1
+            fi
+          done
 
       - name: Verify article-index in KV
         working-directory: platform/packages/site-worker
@@ -266,16 +283,32 @@ jobs:
 
           # Count articles on disk (source of truth)
           DISK_COUNT=$(find "$GITHUB_WORKSPACE/sites/$SITE/articles" -name '*.md' 2>/dev/null | wc -l | tr -d ' ')
-
-          # Read back article-index from KV and count entries
-          KV_RAW=$(npx wrangler kv key get "article-index:$SITE" --namespace-id="$NS_ID" --remote 2>/dev/null || echo "[]")
-          KV_COUNT=$(echo "$KV_RAW" | python3 -c "import json,sys; print(len(json.load(sys.stdin)))" 2>/dev/null || echo "0")
-
           echo "Articles on disk: $DISK_COUNT"
-          echo "Articles in KV index: $KV_COUNT"
+
+          # KV is EVENTUALLY CONSISTENT: the article-index read-back can lag the
+          # bulk put by up to ~60s (longer under load). A one-shot read often
+          # reads short and is NOT a real failure. Retry with backoff and only
+          # treat a persistent shortfall as a failure — otherwise we fire false
+          # "site down" alerts on a normal consistency lag.
+          VERIFY_ATTEMPTS=8
+          VERIFY_DELAY=30
+          KV_COUNT=0
+          for attempt in $(seq 1 $VERIFY_ATTEMPTS); do
+            KV_RAW=$(npx wrangler kv key get "article-index:$SITE" --namespace-id="$NS_ID" --remote 2>/dev/null || echo "[]")
+            KV_COUNT=$(echo "$KV_RAW" | python3 -c "import json,sys; print(len(json.load(sys.stdin)))" 2>/dev/null || echo "0")
+            echo "Attempt $attempt/$VERIFY_ATTEMPTS — KV index: $KV_COUNT (disk: $DISK_COUNT)"
+            if [ "$KV_COUNT" -ge "$DISK_COUNT" ]; then
+              echo "Article-index consistent ($KV_COUNT >= $DISK_COUNT)"
+              break
+            fi
+            if [ "$attempt" -lt "$VERIFY_ATTEMPTS" ]; then
+              echo "KV behind disk — likely eventual-consistency lag; retrying in ${VERIFY_DELAY}s..."
+              sleep "$VERIFY_DELAY"
+            fi
+          done
 
           if [ "$KV_COUNT" -lt "$DISK_COUNT" ]; then
-            echo "::error::Article-index mismatch: KV has $KV_COUNT but disk has $DISK_COUNT articles. Possible race condition — re-run this workflow."
+            echo "::error::Article-index mismatch PERSISTED after ${VERIFY_ATTEMPTS} attempts (~$((VERIFY_ATTEMPTS * VERIFY_DELAY / 60)) min): KV has $KV_COUNT but disk has $DISK_COUNT. This is a real failure, not a consistency lag."
             exit 1
           fi
 
