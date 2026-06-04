@@ -20,7 +20,7 @@ source_url: >-
   https://phys.org/news/2026-05-supermassive-black-holes-exoplanets-uninhabitable.html
 source_item_id: 6a152d8216f23264031d81bc
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/black-holes-destroy-alien-worlds-galaxies.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ancient Mysteries
+image_alt: A black hole's galactic winds strip the atmosphere from a distant exoplanet.
 ---
 ## The Hidden Cosmic Threat to Alien Civilizations
 
