@@ -182,7 +182,17 @@ jobs:
 
       - name: Install dependencies
         working-directory: platform
-        run: pnpm install --frozen-lockfile
+        run: |
+          # Retry transient registry/network flakes before failing. A flaky
+          # install would otherwise trip the failure() alert even though nothing
+          # is wrong with the sites.
+          for attempt in 1 2 3; do
+            if pnpm install --frozen-lockfile; then exit 0; fi
+            echo "pnpm install failed (attempt $attempt/3) — retrying in 15s..."
+            sleep 15
+          done
+          echo "::error::pnpm install failed after 3 attempts."
+          exit 1
 
       - name: Build shared-types
         working-directory: platform
@@ -282,7 +292,12 @@ jobs:
           fi
 
           # Count articles on disk (source of truth)
-          DISK_COUNT=$(find "$GITHUB_WORKSPACE/sites/$SITE/articles" -name '*.md' 2>/dev/null | wc -l | tr -d ' ')
+          # -maxdepth 1 mirrors the seeder, which loads ONLY top-level
+          # sites/<site>/articles/*.md via a flat readdir (see loadArticles in
+          # seed-kv.ts). Counting recursively here would flag any .md in a
+          # subfolder as "missing from KV" forever — a false failure retries
+          # can never clear.
+          DISK_COUNT=$(find "$GITHUB_WORKSPACE/sites/$SITE/articles" -maxdepth 1 -name '*.md' 2>/dev/null | wc -l | tr -d ' ')
           echo "Articles on disk: $DISK_COUNT"
 
           # KV is EVENTUALLY CONSISTENT: the article-index read-back can lag the
@@ -290,8 +305,8 @@ jobs:
           # reads short and is NOT a real failure. Retry with backoff and only
           # treat a persistent shortfall as a failure — otherwise we fire false
           # "site down" alerts on a normal consistency lag.
-          VERIFY_ATTEMPTS=8
-          VERIFY_DELAY=30
+          VERIFY_ATTEMPTS=4
+          VERIFY_DELAY=120    # ~6 min worst case before alerting on a real shortfall
           KV_COUNT=0
           for attempt in $(seq 1 $VERIFY_ATTEMPTS); do
             KV_RAW=$(npx wrangler kv key get "article-index:$SITE" --namespace-id="$NS_ID" --remote 2>/dev/null || echo "[]")
@@ -343,10 +358,16 @@ jobs:
           npx wrangler kv key put "sync-status:${{ matrix.site }}" "$FAIL_PAYLOAD" \
             --namespace-id="$NS_ID" --remote || true
 
-          # Notify Slack (skip silently if webhook not configured)
-          if [[ -n "$SLACK_WEBHOOK_URL" ]]; then
+          # Notify Slack — PRODUCTION (main) only, and only after every in-step
+          # retry above is exhausted, so this fires solely on genuine, persistent
+          # failures. Staging-branch failures are dev-time noise: still recorded
+          # in sync-status (above) but never paged. The message is deliberately
+          # non-alarming — a failed sync does NOT take a site down; the live site
+          # keeps serving its last-synced KV content.
+          if [[ "${{ github.ref_name }}" == "main" && -n "$SLACK_WEBHOOK_URL" ]]; then
+            RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             curl -sf -X POST "$SLACK_WEBHOOK_URL" \
               -H 'Content-Type: application/json' \
-              -d "{\"text\":\"KV sync failed for site: ${{ matrix.site }} (branch: ${{ github.ref_name }}, sha: ${GITHUB_SHA:0:7})\"}" \
+              -d "{\"text\":\"⚠️ KV sync needs attention for *${{ matrix.site }}* (sha ${GITHUB_SHA:0:7}). This is not an outage — the live site keeps serving its last-synced content; the latest update just didn't apply. Retried automatically and still failed. Details: ${RUN_URL}\"}" \
               || true
           fi
