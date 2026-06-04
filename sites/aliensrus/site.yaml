@@ -110,17 +110,17 @@ brief:
 theme:
   base: midnight
   colors:
-    primary: "#be123c"
-    accent: "#f97316"
+    primary: "#7c1d2f"
+    accent: "#c2410c"
     background: "#fff7ed"
-    secondary: "#7c1d2f"
+    secondary: "#fff7ed"
     text: "#451a03"
     muted: "#9a6b4e"
     surface: "#fed7aa"
     border: "#fdba74"
     heading: "#451a03"
     link: "#be123c"
-    link_hover: "#f97316"
+    link_hover: "#c2410c"
     nav_link: "#fff7ed"
     nav_link_hover: "#fed7aa"
     footer_bg: "#7c1d2f"
@@ -135,13 +135,14 @@ theme:
     prose_heading: "#451a03"
     prose_body: "#7c2d12"
     category_header_text: "#fff7ed"
-    subscribe_heading: "#be123c"
+    subscribe_heading: "#fff7ed"
     footer_text: "#fed7aa"
     footer_heading: "#fff7ed"
     footer_link: "#fed7aa"
     footer_link_hover: "#ffffff"
-    must_reads_bg_gradient: "linear-gradient(90deg, #be123c 0%, #f97316 100%)"
-    hero_overlay_gradient: linear-gradient(135deg, rgba(249,115,22,0.5) 0%, rgba(236,72,153,0.65) 50%, rgba(139,92,246,0.6) 100%)
+    footer_bg_gradient: "linear-gradient(180deg, #be123c 0%, #831843 50%, #1f0408 100%)"
+    must_reads_bg_gradient: "linear-gradient(90deg, #c2410c 0%, #be123c 50%, #9d174d 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, transparent 25%, rgba(194,65,12,0.4) 60%, rgba(124,29,47,0.92) 100%)
   logo_height: 56
   fonts:
     heading: Inter
