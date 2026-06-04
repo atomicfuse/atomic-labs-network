@@ -6,7 +6,7 @@ groups: []
 active: true
 brief:
   audiences: []
-  tone: dramatic
+  tone: dramatic and cool
   article_types:
     listicle: 40
     standard: 30
@@ -107,6 +107,9 @@ brief:
       - Thursday
       - Friday
     preferred_time: 10:00
+  audience_type_ids: []
+  vertical_id: 6a00793d1104bbff809b7c68
+  vertical: Science
 theme:
   base: midnight
   colors:
