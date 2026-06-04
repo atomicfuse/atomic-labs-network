@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-05-ancient-anesthetic-reveals-ming-china.html'
 source_item_id: 6a152d8216f23264031d81b9
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/ancient-chinese-surgeons-deadly-poison-anesthesia.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Unexplained Events
+image_alt: >-
+  Corroded ancient surgical tools under a blue laser with toxic flowers blurred
+  in the background
 ---
 ## Deadly Plants Turned Medical Marvels
 
