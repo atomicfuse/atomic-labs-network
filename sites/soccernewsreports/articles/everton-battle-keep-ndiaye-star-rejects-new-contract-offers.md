@@ -20,7 +20,8 @@ source_url: >-
   https://www.nytimes.com/athletic/7326538/2026/06/02/everton-iliman-ndiaye-contract-offers/
 source_item_id: 6a1ef6faad9a1dd21ebb65d0
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: >-
+  /assets/images/everton-battle-keep-ndiaye-star-rejects-new-contract-offers.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
   it contains significant factual inaccuracies about Ndiaye's career and is
   below the target word count.
 reading_time: 3
+image_alt: >-
+  Footballer in a blue kit stands near a stadium tunnel with unsigned papers
+  blurred in the foreground.
 ---
 ## Everton's Contract Standoff with Star Forward
 
