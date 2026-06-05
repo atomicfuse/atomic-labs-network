@@ -20,7 +20,7 @@ source_url: >-
   https://www.housebeautiful.com/design-inspiration/a71461518/kitchen-cabinets-beyond-kitchen/
 source_item_id: 6a1e6a5a9bf3ecf115d983cf
 generated_by: claude
-featuredImage: /assets/images/decoratingtricks-general-article.webp
+featuredImage: /assets/images/kitchen-cabinets-beyond-kitchen-designers-secret-trick.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   Well-structured article with good keyword integration and engaging tone, but
   falls short on length and contains vague sourcing that impacts credibility.
 reading_time: 3
+image_alt: >-
+  Elegant dining nook with repurposed cabinetry styled as custom built-ins in
+  warm natural light.
 ---
 ## The Rise of Repurposed Kitchen Cabinetry
 
