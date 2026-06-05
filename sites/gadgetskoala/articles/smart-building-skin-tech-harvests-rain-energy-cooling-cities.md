@@ -18,7 +18,8 @@ reviewer_notes: ''
 source_url: 'https://techxplore.com/news/2026-06-smart-skins-eco-friendly-hydrogen.html'
 source_item_id: 6a1e68029bf3ecf115d98374
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: >-
+  /assets/images/smart-building-skin-tech-harvests-rain-energy-cooling-cities.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,9 @@ quality_note: >-
   target word count and only moderately relevant to core gadgets/gaming focus
   areas.
 reading_time: 3
+image_alt: >-
+  Rain falls on a futuristic coated city facade with subtle energy and cooling
+  effects.
 ---
 ## Revolutionary Building Technology Tackles Urban Energy Challenges
 
