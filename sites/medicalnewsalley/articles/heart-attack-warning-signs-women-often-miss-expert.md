@@ -19,7 +19,7 @@ source_url: >-
   https://www.hindustantimes.com/lifestyle/health/longevity-doctor-shares-5-heart-attack-signs-women-should-never-ignore-from-unusual-fatigue-to-jaw-pain-101780623618133.html
 source_item_id: 6a225c82ad9a1dd21ebb6856
 generated_by: claude
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: /assets/images/heart-attack-warning-signs-women-often-miss-expert.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 85
@@ -31,6 +31,9 @@ quality_note: >-
   Well-structured article with strong keyword relevance and engaging tone, but
   falls short on length and lacks specific medical citations for claims made.
 reading_time: 3
+image_alt: >-
+  Woman in soft morning light holds her chest and neck, suggesting subtle heart
+  attack warning signs.
 ---
 ## The Hidden Heart Attack Crisis
 
