@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-06-great-apes-cognition-cooperation-curiosity.html'
 source_item_id: 6a210b02ad9a1dd21ebb6759
 generated_by: claude
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/great-apes-mirror-human-cognition-surprising-ways.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   on word count and could better integrate the site's core keywords beyond just
   Tech.
 reading_time: 3
+image_alt: >-
+  Great ape gazes through glass toward researchers and other apes in a
+  contemplative research setting.
 ---
 ## Revolutionary Findings Challenge Assumptions About Primate Intelligence
 
