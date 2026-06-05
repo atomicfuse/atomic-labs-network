@@ -20,7 +20,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71446381/how-to-slow-aging-in-your-60s-strategies/
 source_item_id: 6a1c30d49bf3ecf115d98189
 generated_by: claude
-featuredImage: /assets/images/foreverhealty-general-article.webp
+featuredImage: /assets/images/simple-strategies-slow-aging-after-60.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   on word count and could benefit from stronger SEO optimization in title length
   and meta description.
 reading_time: 3
+image_alt: >-
+  Active older adult climbs sunlit stairs with a water bottle and fresh greens
+  nearby.
 ---
 ## The Reality of Aging After 60
 
