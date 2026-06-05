@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.usmagazine.com/shopping/news/rich-mom-shoe-deals-nordstrom-sale/'
 source_item_id: 6a1e59f39bf3ecf115d982cc
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/nordstrom-designer-shoe-sale-rich-mom-aesthetic.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   falls short on length and could improve SEO optimization with better heading
   structure.
 reading_time: 3
+image_alt: >-
+  Curated summer shoes on a marble bench in an elegant department-store dressing
+  lounge.
 ---
 ## Summer's Biggest Designer Shoe Sale Has Arrived
 
