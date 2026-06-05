@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/tonysachs/2026/06/01/one-of-the-most-fabled-nyc-restaurants-of-the-2010s-returns-briefly/
 source_item_id: 6a1e39239bf3ecf115d981f3
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/beatrice-inn-returns-limited-summer-run-le-b.webp
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -33,6 +33,7 @@ quality_note: >-
   coffee industry focus and lacks proper SEO optimization for the target
   audience.
 reading_time: 3
+image_alt: Moody NYC dining room with a chef plating a burger beside a smoky cocktail
 ---
 ## A Taste of NYC's Most Iconic 2010s Restaurant Returns
 
