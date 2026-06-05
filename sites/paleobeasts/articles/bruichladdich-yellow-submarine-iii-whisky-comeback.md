@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
 source_item_id: 6a1e39229bf3ecf115d981de
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/bruichladdich-yellow-submarine-iii-whisky-comeback.webp
 quality_score: 47
 score_breakdown:
   seo_quality: 25
@@ -33,6 +33,9 @@ quality_note: >-
   paleo diet and food-focused audience, with minimal SEO optimization and
   irrelevant content for the site's nutrition and recipe focus.
 reading_time: 3
+image_alt: >-
+  Yellow whisky bottle silhouette surfacing in amber liquid with copper
+  reflections and moody blue-gray light.
 ---
 ## The Return of a Whisky Legend
 
