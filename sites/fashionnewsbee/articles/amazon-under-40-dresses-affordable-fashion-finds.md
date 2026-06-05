@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.usmagazine.com/shopping/news/writer-loved-amazon-under-40-dresses/'
 source_item_id: 6a1e59f39bf3ecf115d982c7
 generated_by: claude
-featuredImage: /assets/images/fashionnewsbee-general-article.webp
+featuredImage: /assets/images/amazon-under-40-dresses-affordable-fashion-finds.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 85
@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length requirements and contains some vague sourcing that could
   impact credibility.
 reading_time: 3
+image_alt: >-
+  Three women model colorful summer dresses in a bright editorial studio
+  setting.
 ---
 ## The Hunt for Affordable Style Gold
 
