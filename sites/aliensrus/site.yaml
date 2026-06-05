@@ -39,7 +39,6 @@ brief:
         articles_per_week: 2
         preferred_days:
           - Wednesday
-          - Friday
     - name: Ancient Mysteries
       source:
         type: filter
@@ -77,7 +76,6 @@ brief:
         articles_per_week: 2
         preferred_days:
           - Tuesday
-          - Friday
     - name: Strange Phenomena
       source:
         type: filter
@@ -108,7 +106,6 @@ brief:
       - Tuesday
       - Wednesday
       - Thursday
-      - Friday
     preferred_time: 10:00
 theme:
   base: midnight

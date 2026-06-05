@@ -38,7 +38,6 @@ brief:
       - Tuesday
       - Wednesday
       - Thursday
-      - Saturday
     preferred_time: 10:00
     articles_per_day: 3
   quality_threshold: 75

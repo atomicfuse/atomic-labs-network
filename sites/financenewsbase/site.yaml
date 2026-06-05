@@ -42,7 +42,6 @@ brief:
       - Tuesday
       - Wednesday
       - Thursday
-      - Friday
     preferred_time: 10:00
   theme: a site about finance, stock market and economy and everything that is
     news on those subjects
@@ -69,7 +68,6 @@ brief:
         preferred_days: &a1
           - Monday
           - Wednesday
-          - Friday
     - name: Personal Finance
       source:
         type: filter

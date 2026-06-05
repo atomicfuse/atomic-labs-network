@@ -30,8 +30,6 @@ brief:
       - Tuesday
       - Thursday
       - Wednesday
-      - Saturday
-      - Sunday
     preferred_time: 10:00
   quality_threshold: 75
   quality_weights:
