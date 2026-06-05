@@ -20,7 +20,7 @@ source_url: >-
   https://www.kctv5.com/video/2026/06/04/behind-headlines-fbi-warns-parents-about-online-predators-targeting-kids-video-games/
 source_item_id: 6a225edbad9a1dd21ebb6885
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/fbi-warns-parents-predators-target-kids-gaming-platforms.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   keyword integration, but falls short on word count and contains vague sourcing
   that raises factual accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Parent watches a child gaming at night as abstract chat shapes glow on the
+  screen.
 ---
 ## Growing Threat in Gaming Spaces
 
