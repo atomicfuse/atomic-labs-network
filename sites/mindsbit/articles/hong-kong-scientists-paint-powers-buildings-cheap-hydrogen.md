@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://techxplore.com/news/2026-06-smart-skins-eco-friendly-hydrogen.html'
 source_item_id: 6a1e68029bf3ecf115d98374
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: /assets/images/hong-kong-scientists-paint-powers-buildings-cheap-hydrogen.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   benefit from more specific SEO optimization in title length and meta
   description.
 reading_time: 3
+image_alt: >-
+  Smart coated city building in rain beside copper-toned hydrogen bubbles,
+  suggesting sustainable urban energy.
 ---
 ## Revolutionary Building Coating Transforms Urban Energy
 
