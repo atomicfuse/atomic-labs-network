@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
 source_item_id: 6a211912ad9a1dd21ebb67a4
 generated_by: claude
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: /assets/images/english-farmer-terror-notes-bombs-true-crime-case.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ videos:
   - id: b456fc94-504a-4099-bbe3-129613aaeb5e
     url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
     position: after-paragraph-1
+image_alt: >-
+  A dark rural farmhouse scene with an old car and scattered notes in foggy dusk
+  light.
 ---
 ## A Quiet Farm Becomes a Crime Scene
 
