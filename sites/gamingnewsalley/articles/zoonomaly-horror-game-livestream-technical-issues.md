@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=dNAXfGd9RcQ'
 source_item_id: 6a225edaad9a1dd21ebb6879
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/zoonomaly-horror-game-livestream-technical-issues.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 65
@@ -35,6 +35,9 @@ videos:
   - id: a297558f-bc21-490a-beac-e4f0a45b499b
     url: 'https://www.youtube.com/watch?v=dNAXfGd9RcQ'
     position: after-paragraph-1
+image_alt: >-
+  Glitching horror game livestream setup with static-filled monitors and eerie
+  creature silhouettes
 ---
 ## Livestream Encounters Technical Difficulties
 
