@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-06-generation-large-array-prototype.html'
 source_item_id: 6a210b02ad9a1dd21ebb6757
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/next-generation-vla-prototype-first-light.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   short of target word count and could benefit from stronger SEO optimization in
   headings and meta description length.
 reading_time: 3
+image_alt: >-
+  Radio telescope prototype at sunrise in the New Mexico desert with distant
+  dishes on the horizon
 ---
 ## A Milestone 45 Years in the Making
 
