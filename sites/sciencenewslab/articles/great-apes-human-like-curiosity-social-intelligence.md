@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-06-great-apes-cognition-cooperation-curiosity.html'
 source_item_id: 6a210b02ad9a1dd21ebb6759
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/great-apes-human-like-curiosity-social-intelligence.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length and contains some vague sourcing that raises factual
   accuracy concerns.
 reading_time: 3
+image_alt: >-
+  A thoughtful great ape watches its social group from a naturalistic research
+  habitat.
 ---
 ## Revolutionary Findings Challenge Our Understanding of Ape Intelligence
 
