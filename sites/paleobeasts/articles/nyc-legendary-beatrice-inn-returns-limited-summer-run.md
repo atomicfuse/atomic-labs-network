@@ -19,7 +19,7 @@ source_url: >-
   https://www.forbes.com/sites/tonysachs/2026/06/01/one-of-the-most-fabled-nyc-restaurants-of-the-2010s-returns-briefly/
 source_item_id: 6a1e39239bf3ecf115d981f3
 generated_by: claude
-featuredImage: /assets/images/paleobeasts-general-article.webp
+featuredImage: /assets/images/nyc-legendary-beatrice-inn-returns-limited-summer-run.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 25
@@ -32,6 +32,9 @@ quality_note: >-
   paleo diet and healthy food focus, covering fine dining and cocktails instead
   of the target nutrition and recipe content.
 reading_time: 3
+image_alt: >-
+  Moody supper club table with a burger, smoky cocktail, and chef silhouette in
+  a nostalgic New York restaurant
 ---
 ## A Culinary Time Machine: Beatrice Inn's Greatest Hits Return
 
