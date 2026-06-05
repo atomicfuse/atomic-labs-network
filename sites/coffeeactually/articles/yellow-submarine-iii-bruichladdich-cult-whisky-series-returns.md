@@ -20,7 +20,8 @@ source_url: >-
   https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
 source_item_id: 6a1e39229bf3ecf115d981de
 generated_by: claude
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/yellow-submarine-iii-bruichladdich-cult-whisky-series-returns.webp
 quality_score: 46
 score_breakdown:
   seo_quality: 25
@@ -32,6 +33,9 @@ quality_note: >-
   This whisky-focused article is completely off-topic for a coffee website and
   lacks any coffee-related content or keywords.
 reading_time: 3
+image_alt: >-
+  Yellow whisky bottle half-submerged on a misty Scottish shoreline beside a
+  tasting glass.
 ---
 ## A Cult Series Resurfaces
 
