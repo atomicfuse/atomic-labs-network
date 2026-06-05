@@ -20,7 +20,8 @@ source_url: >-
   https://www.videogameschronicle.com/news/xbox-ceo-says-platforms-must-have-exclusive-content-as-she-weighs-exclusivity-shift/
 source_item_id: 6a225edaad9a1dd21ebb687c
 generated_by: claude
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: >-
+  /assets/images/xbox-ceo-weighs-exclusivity-strategy-shift-platform-criticism.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 75
@@ -32,6 +33,9 @@ quality_note: >-
   Well-structured article with good keyword integration, but contains fabricated
   information about a non-existent Xbox CEO and lacks proper sourcing.
 reading_time: 3
+image_alt: >-
+  Female tech executive between open gaming ecosystem and exclusive console
+  strategy paths
 ---
 ## Xbox Faces Strategic Crossroads Under New Leadership
 
