@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
 source_item_id: 6a211912ad9a1dd21ebb67a4
 generated_by: claude
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: /assets/images/english-farmer-family-terrorized-mysterious-notes-bomb.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ videos:
   - id: 69834928-7663-4c8a-9574-42b1b0e5651a
     url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
     position: after-paragraph-1
+image_alt: >-
+  Misty rural farm at dusk with blank threatening notes suggesting a true-crime
+  mystery
 ---
 ## A Quiet Farm Becomes a Crime Scene
 
