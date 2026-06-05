@@ -20,7 +20,8 @@ source_url: >-
   https://www.housebeautiful.com/design-inspiration/a71461518/kitchen-cabinets-beyond-kitchen/
 source_item_id: 6a1e6a5a9bf3ecf115d983cf
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: >-
+  /assets/images/repurposing-kitchen-cabinets-design-trick-taking-over-homes.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
   and relies heavily on vague 'according to reports' claims without specific
   sources.
 reading_time: 3
+image_alt: >-
+  Elegant hallway and dining nook with repurposed cabinetry used as built-in
+  storage and seating
 ---
 ## The Unexpected Design Revolution Happening Beyond the Kitchen
 
