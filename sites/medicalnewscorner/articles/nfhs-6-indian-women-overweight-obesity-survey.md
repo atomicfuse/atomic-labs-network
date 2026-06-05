@@ -19,7 +19,7 @@ source_url: >-
   https://www.cnbctv18.com/photos/lifestyle/healthcare/nfhs-6-survey-1-in-3-indian-women-overweight-or-obese-check-key-findings-19919769.htm
 source_item_id: 6a225c82ad9a1dd21ebb6858
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/nfhs-6-indian-women-overweight-obesity-survey.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 85
@@ -31,6 +31,9 @@ quality_note: >-
   Strong article with excellent tone and keyword relevance, but significantly
   under target word count at 584 words versus the 800-1200 word target.
 reading_time: 3
+image_alt: >-
+  Indian woman in an urban home with a measuring tape and health objects in soft
+  editorial light
 ---
 ## Alarming Rise in Obesity Rates Among Indian Women
 
