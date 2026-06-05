@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-06-great-apes-cognition-cooperation-curiosity.html'
 source_item_id: 6a210b02ad9a1dd21ebb6759
 generated_by: claude
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/great-apes-human-like-curiosity-social-intelligence.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong topic relevance and engaging tone, but significantly under target word
   count and contains some vague claims that could be better substantiated.
 reading_time: 3
+image_alt: >-
+  A great ape gazes through glass with faint human reflections in a naturalistic
+  research habitat.
 ---
 ## Apes Choose Gossip Over Food
 
