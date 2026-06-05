@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.usmagazine.com/shopping/news/rich-mom-shoe-deals-nordstrom-sale/'
 source_item_id: 6a1e59f39bf3ecf115d982cc
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/nordstrom-designer-shoes-sale-rich-mom-aesthetic.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   significantly under target word count and contains vague sourcing that raises
   accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Elegant fitting lounge with neutral designer-style shoes arranged on a marble
+  bench.
 ---
 ## Major Savings on Designer Footwear
 
