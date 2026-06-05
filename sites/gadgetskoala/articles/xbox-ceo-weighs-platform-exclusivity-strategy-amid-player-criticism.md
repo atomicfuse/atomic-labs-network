@@ -20,7 +20,8 @@ source_url: >-
   https://www.videogameschronicle.com/news/xbox-ceo-says-platforms-must-have-exclusive-content-as-she-weighs-exclusivity-shift/
 source_item_id: 6a225edaad9a1dd21ebb687c
 generated_by: claude
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: >-
+  /assets/images/xbox-ceo-weighs-platform-exclusivity-strategy-amid-player-criticism.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
   severely undermined by fabricated information about a non-existent Xbox CEO
   named Asha Sharma.
 reading_time: 3
+image_alt: >-
+  Gaming executive studies branching holographic paths between exclusive and
+  multiplatform game releases.
 ---
 ## Xbox Faces Strategic Crossroads on Exclusivity
 
