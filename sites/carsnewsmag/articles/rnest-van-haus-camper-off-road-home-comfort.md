@@ -19,7 +19,7 @@ source_url: >-
   https://www.autoevolution.com/news/rnest-is-a-van-haus-camper-van-blending-adventure-capability-with-home-like-comfort-270762.html
 source_item_id: 6a1ba1da9bf3ecf115d98137
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: /assets/images/rnest-van-haus-camper-off-road-home-comfort.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   about RNest and relies heavily on vague claims without concrete sources or
   specifications.
 reading_time: 3
+image_alt: >-
+  Rugged off-road camper van with a warm modern interior parked by a forest at
+  dusk
 ---
 ## The Rise of Dual-Purpose Adventure Vehicles
 
