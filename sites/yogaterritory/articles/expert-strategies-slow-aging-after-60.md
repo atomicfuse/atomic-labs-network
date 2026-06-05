@@ -20,7 +20,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71446381/how-to-slow-aging-in-your-60s-strategies/
 source_item_id: 6a1c30d49bf3ecf115d98189
 generated_by: claude
-featuredImage: /assets/images/yogaterritory-general-article.webp
+featuredImage: /assets/images/expert-strategies-slow-aging-after-60.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   Well-written healthy aging content with good tone, but falls short on length
   and lacks focus on yoga/meditation topics that match the site's core audience.
 reading_time: 3
+image_alt: Active older adult stepping into morning light with wellness essentials nearby
 ---
 ## Understanding Aging After 60
 
