@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.travelandtourworld.com/news/article/5jfza9z52x1e/'
 source_item_id: 6a2087c2ad9a1dd21ebb66cc
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/switzerland-lost-in-guidebook-millennial-gen-z-travelers.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Good keyword integration and tone but falls short on content length and relies
   heavily on vague 'according to reports' without specific sources or data.
 reading_time: 3
+image_alt: >-
+  Young traveler overlooks a quiet Swiss lakeside village and alpine valley at
+  golden hour.
 ---
 ## Switzerland Embraces Next-Generation Travel with New Guidebook
 
