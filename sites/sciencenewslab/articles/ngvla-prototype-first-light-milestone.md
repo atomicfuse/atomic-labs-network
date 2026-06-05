@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-06-generation-large-array-prototype.html'
 source_item_id: 6a210b02ad9a1dd21ebb6757
 generated_by: claude
-featuredImage: /assets/images/sciencenewslab-general-article.webp
+featuredImage: /assets/images/ngvla-prototype-first-light-milestone.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   falls short on content length and has some vague sourcing that could affect
   factual accuracy scoring.
 reading_time: 3
+image_alt: Radio telescope prototype in a desert at dusk beneath a star-filled sky
 ---
 ## Revolutionary Radio Telescope Takes Its First Steps
 
