@@ -19,7 +19,7 @@ source_url: >-
   https://curlytales.com/india/celebrity-interviews/main-unki-sunta-hun-woh-meri-sunte-hai-jackie-shroff-shares-his-parenting-mantra/
 source_item_id: 6a1fb981ad9a1dd21ebb65ed
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/jackie-shroff-mutual-listening-parenting-philosophy.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   but falls short on length and relies heavily on vague 'according to reports'
   citations without specific sources.
 reading_time: 3
+image_alt: >-
+  Parent and young adult child share a calm conversation on a sunny terrace with
+  greenery and city skyline.
 ---
 ## The Foundation of Mutual Respect
 
