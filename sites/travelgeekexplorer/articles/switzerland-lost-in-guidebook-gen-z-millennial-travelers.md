@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.travelandtourworld.com/news/article/5jfza9z52x1e/'
 source_item_id: 6a2087c2ad9a1dd21ebb66cc
 generated_by: claude
-featuredImage: /assets/images/travelgeekexplorer-general-article.webp
+featuredImage: /assets/images/switzerland-lost-in-guidebook-gen-z-millennial-travelers.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong topic relevance and tone but falls short on content length at 546
   words, well below the target 800-1200 word range.
 reading_time: 3
+image_alt: >-
+  Young travelers overlooking a quiet Swiss alpine village and valley at golden
+  hour
 ---
 ## Switzerland Targets Young Travelers with New Authentic Guide
 
