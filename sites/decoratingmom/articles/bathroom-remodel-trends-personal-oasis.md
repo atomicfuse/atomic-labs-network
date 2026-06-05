@@ -19,7 +19,7 @@ source_url: >-
   https://www.elledecor.com/design-decorate/trends/a71443101/bathroom-remodel-trends/
 source_item_id: 6a1e6a5a9bf3ecf115d983cd
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: /assets/images/bathroom-remodel-trends-personal-oasis.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Well-written article with excellent keyword coverage and appropriate tone, but
   falls short on length and relies too heavily on vague source attribution.
 reading_time: 3
+image_alt: >-
+  Serene spa-inspired bathroom with soaking tub, warm finishes, soft light, and
+  natural textures
 ---
 ## The Shift Toward Wellness-Focused Bathroom Design
 
