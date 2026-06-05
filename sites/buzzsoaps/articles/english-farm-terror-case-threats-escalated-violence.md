@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
 source_item_id: 6a211912ad9a1dd21ebb67a4
 generated_by: claude
-featuredImage: /assets/images/buzzsoaps-general-article.webp
+featuredImage: /assets/images/english-farm-terror-case-threats-escalated-violence.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ videos:
   - id: 421a7d88-5518-444f-8a1b-2d535127d5f6
     url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
     position: after-paragraph-1
+image_alt: >-
+  Moody rural farm at dusk with scattered blank notes and a shadowed car on a
+  wet driveway.
 ---
 ## When Threatening Notes Turn Deadly
 
