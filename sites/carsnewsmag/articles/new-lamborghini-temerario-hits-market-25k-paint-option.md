@@ -20,7 +20,7 @@ source_url: >-
   https://www.autoevolution.com/news/dealer-gets-its-hands-on-a-new-lamborghini-temerario-can-you-guess-the-asking-price-270442.html
 source_item_id: 6a1ba1da9bf3ecf115d98136
 generated_by: claude
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: /assets/images/new-lamborghini-temerario-hits-market-25k-paint-option.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short on length and relies heavily on vague 'according to reports' sourcing
   which raises factual accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Turquoise exotic supercar in a sleek white showroom with premium market
+  atmosphere
 ---
 ## Early Market Appearance Signals Strong Demand
 
