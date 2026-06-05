@@ -20,7 +20,7 @@ source_url: >-
   https://www.nintendolife.com/news/2026/06/amazon-shares-statement-about-the-future-of-james-bond-video-games
 source_item_id: 6a225edaad9a1dd21ebb6877
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/amazon-clarifies-role-future-james-bond-video-games.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   tone, but falls short on length and contains some vague claims that lack
   specific sourcing.
 reading_time: 3
+image_alt: >-
+  Cinematic spy silhouette between a game studio workspace and a polished
+  publishing boardroom
 ---
 ## Amazon Sets the Record Straight on 007 Gaming Partnership
 
