@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
 source_item_id: 6a211912ad9a1dd21ebb67a4
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/english-farmer-true-crime-horror-threatening-notes-bombing.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 65
@@ -36,6 +36,9 @@ videos:
   - id: cb343c64-8ff9-4f87-bd08-5e692b846037
     url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
     position: after-paragraph-1
+image_alt: >-
+  Misty rural farm at dusk with a damaged car and scattered notes creating a
+  tense true-crime atmosphere.
 ---
 ## When Farm Life Turned Deadly
 
