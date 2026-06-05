@@ -22,7 +22,7 @@ source_url: >-
   https://www.forbes.com/sites/tonysachs/2026/06/01/one-of-the-most-fabled-nyc-restaurants-of-the-2010s-returns-briefly/
 source_item_id: 6a1e39239bf3ecf115d981f3
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/beatrice-inn-returns-limited-summer-run-le-b.webp
 quality_score: 37
 score_breakdown:
   seo_quality: 25
@@ -35,6 +35,9 @@ quality_note: >-
   nutrition and food/drink focus, lacks proper SEO structure, and has
   questionable factual claims about a restaurant revival.
 reading_time: 3
+image_alt: >-
+  Moody New York dining room with a dry-aged burger and smoky cocktail under
+  candlelight.
 ---
 ## A Legendary NYC Restaurant Makes Its Return
 
