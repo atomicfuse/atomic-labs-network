@@ -19,7 +19,7 @@ source_url: >-
   https://www.goodhousekeeping.com/travel/travel-tips-and-planning/a71485146/kids-miss-school-for-family-travel/
 source_item_id: 6a2087c2ad9a1dd21ebb66c5
 generated_by: claude
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/taking-kids-out-school-travel-expert-advice.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong parenting content with excellent keyword relevance and tone, but falls
   short on length at 586 words versus the 800-1200 target range.
 reading_time: 3
+image_alt: >-
+  School supplies and a travel map share a sunlit table as a family packs in the
+  background.
 ---
 ## The Growing Trend of School-Time Travel
 
