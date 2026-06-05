@@ -20,7 +20,7 @@ source_url: >-
   https://www.elledecor.com/design-decorate/trends/a71443101/bathroom-remodel-trends/
 source_item_id: 6a1e6a5a9bf3ecf115d983cd
 generated_by: claude
-featuredImage: /assets/images/homedecoracademy-general-article.webp
+featuredImage: /assets/images/bathroom-remodel-trends-personal-wellness-oasis.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   The article has good tone and accuracy but falls significantly short of the
   target word count at only 583 words, which impacts its overall effectiveness.
 reading_time: 3
+image_alt: >-
+  Serene remodeled bathroom with soaking tub, warm finishes, soft light, and
+  greenery outside.
 ---
 ## The Shift Toward Wellness-Focused Bathroom Design
 
