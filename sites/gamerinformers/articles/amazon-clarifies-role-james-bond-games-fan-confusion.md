@@ -20,7 +20,7 @@ source_url: >-
   https://www.nintendolife.com/news/2026/06/amazon-shares-statement-about-the-future-of-james-bond-video-games
 source_item_id: 6a225edaad9a1dd21ebb6877
 generated_by: claude
-featuredImage: /assets/images/gamerinformers-general-article.webp
+featuredImage: /assets/images/amazon-clarifies-role-james-bond-games-fan-confusion.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,7 @@ quality_note: >-
   Strong gaming focus and tone but falls short on length and contains
   potentially fabricated details about specific games and statements.
 reading_time: 3
+image_alt: Anonymous tuxedoed spy silhouette between two futuristic gaming control rooms
 ---
 ## Amazon Addresses James Bond Gaming Concerns
 
