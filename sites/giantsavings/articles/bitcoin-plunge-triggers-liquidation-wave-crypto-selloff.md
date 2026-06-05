@@ -23,7 +23,7 @@ source_url: >-
   https://news.bitcoin.com/1-2b-liquidated-as-bitcoin-tests-62-5k-support-amid-sharp-crypto-selloff/
 source_item_id: 6a20f842ad9a1dd21ebb673f
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: /assets/images/bitcoin-plunge-triggers-liquidation-wave-crypto-selloff.webp
 quality_score: 35
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,9 @@ quality_note: >-
   savings site, contains fabricated future data claims, and lacks proper SEO
   optimization for the target audience.
 reading_time: 3
+image_alt: >-
+  Abstract crypto market crash visual with red downward trails and fractured
+  digital coin forms
 ---
 ## Massive Liquidation Event Rocks Crypto Markets
 
