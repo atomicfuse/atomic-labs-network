@@ -20,7 +20,7 @@ source_url: >-
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE44T2lzSlY1eFhzMXJHOTJYVW5send6OEtmS0xST1cxXzhqWEZvNW1pNHRzVUl4TW1GZ3ZvMkxZR3pLX280N0pza2pLQ3BMOXR6S1k5N3U1VVJ4QQ?oc=5
 source_item_id: 6a204fccad9a1dd21ebb6637
 generated_by: claude
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/lab-worker-found-dead-year-after-new-mexico-disappearance.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Mysteries
+image_alt: >-
+  Desert search scene at dusk with a subtle lab clue in the foreground and
+  distant investigators.
 ---
 ## A Year-Long Mystery Comes to an End
 
