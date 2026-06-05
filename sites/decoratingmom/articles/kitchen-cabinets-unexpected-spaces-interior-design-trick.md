@@ -20,7 +20,7 @@ source_url: >-
   https://www.housebeautiful.com/design-inspiration/a71461518/kitchen-cabinets-beyond-kitchen/
 source_item_id: 6a1e6a5a9bf3ecf115d983cf
 generated_by: claude
-featuredImage: /assets/images/decoratingmom-general-article.webp
+featuredImage: /assets/images/kitchen-cabinets-unexpected-spaces-interior-design-trick.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   falls short on word count and makes vague claims without specific sources or
   examples.
 reading_time: 3
+image_alt: >-
+  Elegant entryway with cream cabinetry repurposed as custom built-in furniture
+  in warm natural light.
 ---
 ## A Growing Design Movement
 
