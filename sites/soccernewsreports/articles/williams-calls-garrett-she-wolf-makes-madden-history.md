@@ -20,7 +20,7 @@ source_url: >-
   https://chicago.suntimes.com/bears/2026/06/04/bears-caleb-williams-madden-27-cover-myles-garrett-rams-browns-she-wolf-vince-vaughn-nfl
 source_item_id: 6a225edaad9a1dd21ebb687a
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/williams-calls-garrett-she-wolf-makes-madden-history.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   significant factual errors (Myles Garrett was never traded to the Rams) and
   doesn't align well with soccer content expectations for this site.
 reading_time: 3
+image_alt: >-
+  Young quarterback framed by Chicago skyline, neon game lights, and a looming
+  wolf-like defensive shadow.
 ---
 ## Bears QB Embraces Jordan Legacy While Addressing Garrett Trade
 
