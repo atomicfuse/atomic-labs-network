@@ -23,7 +23,7 @@ source_url: >-
   https://news.bitcoin.com/ripple-expands-rlusd-into-turkey-as-a-200b-crypto-market-signals-bigger-stablecoin-demand/
 source_item_id: 6a20f842ad9a1dd21ebb673e
 generated_by: claude
-featuredImage: /assets/images/giantsavings-general-article.webp
+featuredImage: /assets/images/ripple-launches-rlusd-stablecoin-turkey-200b-crypto-market.webp
 quality_score: 37
 score_breakdown:
   seo_quality: 25
@@ -36,6 +36,7 @@ quality_note: >-
   audience and topics, lacks proper SEO optimization, and contains potentially
   fabricated claims about specific partnerships and market data.
 reading_time: 3
+image_alt: Abstract digital dollar coin over Turkey with glowing fintech network lines
 ---
 ## Ripple Expands Digital Dollar Access in Turkey
 
