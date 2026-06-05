@@ -19,7 +19,7 @@ source_url: >-
   https://www.womenshealthmag.com/health/a71446381/how-to-slow-aging-in-your-60s-strategies/
 source_item_id: 6a1c30d49bf3ecf115d98189
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/expert-backed-strategies-slow-aging-after-60.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   Strong keyword relevance and good tone match, but content is too short at 620
   words and lacks specific evidence to support health claims.
 reading_time: 3
+image_alt: >-
+  Active older adult climbs sunlit steps with a water bottle, surrounded by
+  greenery.
 ---
 ## The Science Behind Accelerated Aging at 60
 
