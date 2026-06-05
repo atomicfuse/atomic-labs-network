@@ -22,7 +22,7 @@ source_url: >-
   https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
 source_item_id: 6a1e39229bf3ecf115d981de
 generated_by: claude
-featuredImage: /assets/images/eznutritiontips-general-article.webp
+featuredImage: /assets/images/bruichladdich-yellow-submarine-iii-scotch-whisky-comeback.webp
 quality_score: 37
 score_breakdown:
   seo_quality: 15
@@ -34,6 +34,9 @@ quality_note: >-
   This article about Scotch whisky is completely off-topic for a nutrition and
   food website, despite being well-written and factually sound.
 reading_time: 3
+image_alt: >-
+  Unbranded whisky bottle beside a yellow submarine object on a moody Scottish
+  shoreline.
 ---
 ## The Return of Scotch's Most Unconventional Series
 
