@@ -20,7 +20,7 @@ source_url: >-
   https://www.afar.com/magazine/finland-is-giving-away-free-trips-to-come-eat-local-cuisine
 source_item_id: 6a2087c3ad9a1dd21ebb66d3
 generated_by: claude
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/finland-free-culinary-tours-regional-cuisine.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   though slightly short of optimal length and could benefit from more specific
   SEO optimization in headings.
 reading_time: 3
+image_alt: >-
+  Nordic outdoor table with Finnish regional foods beside water and pine forest
+  in soft autumn light
 ---
 ## Finland Positions Itself as a Culinary Destination
 
