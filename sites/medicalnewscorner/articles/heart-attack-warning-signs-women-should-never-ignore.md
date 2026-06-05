@@ -19,7 +19,7 @@ source_url: >-
   https://www.hindustantimes.com/lifestyle/health/longevity-doctor-shares-5-heart-attack-signs-women-should-never-ignore-from-unusual-fatigue-to-jaw-pain-101780623618133.html
 source_item_id: 6a225c82ad9a1dd21ebb6856
 generated_by: claude
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/heart-attack-warning-signs-women-should-never-ignore.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   but falls short on content length and has some vague sourcing that could
   impact credibility.
 reading_time: 3
+image_alt: >-
+  Concerned woman in soft window light with subtle red cues across chest, neck,
+  jaw, shoulder, and abdomen.
 ---
 ## The Hidden Heart Attack Crisis Affecting Women
 
