@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.usmagazine.com/shopping/news/writer-loved-amazon-under-40-dresses/'
 source_item_id: 6a1e59f39bf3ecf115d982c7
 generated_by: claude
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/amazon-dresses-under-40-budget-fashion-finds.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -31,6 +31,9 @@ quality_note: >-
   requirements and could better integrate travel-specific keywords for the
   site's focus.
 reading_time: 3
+image_alt: >-
+  Sunlit fashion studio with colorful summer dresses, sandals, and a model
+  choosing an elevated budget-friendly look.
 ---
 ## Summer Shopping Just Got More Affordable
 
