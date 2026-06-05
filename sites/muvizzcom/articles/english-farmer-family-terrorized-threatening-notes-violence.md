@@ -22,7 +22,8 @@ reviewer_notes: >-
 source_url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
 source_item_id: 6a211912ad9a1dd21ebb67a4
 generated_by: claude
-featuredImage: /assets/images/muvizzcom-general-article.webp
+featuredImage: >-
+  /assets/images/english-farmer-family-terrorized-threatening-notes-violence.webp
 quality_score: 34
 score_breakdown:
   seo_quality: 25
@@ -39,6 +40,7 @@ videos:
   - id: 70a2db11-30bb-4354-8c68-783ea972e122
     url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
     position: after-paragraph-1
+image_alt: Foggy English farm at dusk with scattered notes and a car in ominous shadow
 ---
 ## A Quiet Farm Becomes a House of Horrors
 
