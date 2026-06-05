@@ -19,7 +19,7 @@ source_url: >-
   https://www.montereycountynow.com/svnow/culture/a-latina-led-pilates-dance-and-yoga-studio-is-creating-a-safe-wellness-space-in/article_09af36b6-58b2-4464-b2e3-b1ed189982de.html
 source_item_id: 6a1a712a1e60b3e9a22086b3
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/latina-led-wellness-studio-builds-community-social-media.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   integration, but relies heavily on vague 'reports indicate' language that
   undermines factual credibility and engagement.
 reading_time: 3
+image_alt: >-
+  Latina women gather in a warm wellness studio with yoga mats and soft
+  sunlight.
 ---
 ## Creating Safe Spaces in Wellness
 
