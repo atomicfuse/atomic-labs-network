@@ -55,7 +55,6 @@ brief:
       - Tuesday
       - Wednesday
       - Thursday
-      - Friday
     preferred_time: 10:00
   quality_threshold: 75
   quality_weights:

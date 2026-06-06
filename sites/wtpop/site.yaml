@@ -46,7 +46,6 @@ brief:
       - tuesday
       - wednesday
       - thursday
-      - friday
     preferred_time: 10:00
 theme:
   base: modern

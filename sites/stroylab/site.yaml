@@ -39,7 +39,6 @@ brief:
       - tuesday
       - wednesday
       - thursday
-      - friday
     preferred_time: 10:00
   theme: a site about conspiracy, the unexplained, mystery, from the pyramids, to
     murder stories.
@@ -120,7 +119,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Friday
+          - Tuesday
     - name: Unsolved Cases
       source:
         type: filter
