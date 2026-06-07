@@ -979,14 +979,14 @@ sites:
   - domain: dogslabs
     company: null
     vertical: Pets
-    status: Live
+    status: Ready
     site_id: "0825216357760"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-06-07T11:38:15.852Z
+    last_updated: 2026-06-07T11:53:45.973Z
     created_at: 2026-06-07T09:40:16.357Z
     pages_project: null
     pages_subdomain: null
