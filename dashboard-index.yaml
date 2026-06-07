@@ -979,22 +979,23 @@ sites:
   - domain: dogslabs
     company: null
     vertical: Pets
-    status: Staging
+    status: Live
     site_id: "0825216357760"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-06-07T09:40:16.357Z
+    last_updated: 2026-06-07T11:38:15.852Z
     created_at: 2026-06-07T09:40:16.357Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: ac3f68c27638aa21ff3ad768ea19fff5
     staging_branch: staging/dogslabs
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=dogslabs
     saved_previews: null
-    custom_domain: null
+    custom_domain: dogslabs.com
+    worker_pending_dns: false
 deleted:
   - domain: asaftest
     company: null
