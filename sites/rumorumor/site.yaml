@@ -4,7 +4,6 @@ site_tagline: null
 author: Maya Torres
 groups: []
 active: true
-bundle_id: 6a12d71916f23264031d7a4a
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -31,12 +30,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fd9
-    - 6a0079401104bbff809b7fdb
-    - 6a0079401104bbff809b7fed
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -46,6 +39,100 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: a celebrity gossip site, pop culture
+  topics_v2:
+    - name: Celebrities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793e1104bbff809b7ddb
+          - 6a00793e1104bbff809b7ddd
+          - 6a00793e1104bbff809b7de3
+          - 6a00793e1104bbff809b7de5
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a03467e86fcaaeb5bc83424
+          - 6a0b350eac596b621e935655
+          - 6a0b345dac596b621e935627
+          - 6a0b365aac596b621e93565d
+          - 6a0b36b7ac596b621e935675
+          - 6a042e7686fcaaeb5bc835b5
+          - 6a0807204bdae0614e7aaf91
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Fashion
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c74
+          - 6a00793e1104bbff809b7de7
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a0b350eac596b621e935655
+          - 6a042c0186fcaaeb5bc83550
+          - 6a042c2986fcaaeb5bc8356f
+          - 6a042c0186fcaaeb5bc8354c
+          - 6a008aba2a0a294c696af844
+          - 6a03467e86fcaaeb5bc83424
+          - 6a15024d16f23264031d80bc
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Influencers
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b8052
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a03467e86fcaaeb5bc83424
+          - 6a0b350eac596b621e935655
+          - 6a0b36b7ac596b621e935675
+          - 6a042c0186fcaaeb5bc83550
+          - 6a0430e186fcaaeb5bc83645
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Music
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a14ffd716f23264031d8079
+          - 6a008aba2a0a294c696af844
+          - 6a04330d86fcaaeb5bc8367c
+          - 6a03467e86fcaaeb5bc83424
+          - 6a0bc82716f23264031d77be
+          - 6a04563c86fcaaeb5bc8396a
+          - 6a14010a16f23264031d7c48
+          - 6a1520a716f23264031d8137
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: TV & Movies
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+          - 6a00793f1104bbff809b7f29
+        tag_ids:
+          - 6a04565c86fcaaeb5bc83974
+          - 6a04562f86fcaaeb5bc8395c
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a0430f786fcaaeb5bc83651
+          - 6a13fe5e16f23264031d7c1e
+          - 6a0b36b8ac596b621e93567a
+          - 6a04330d86fcaaeb5bc8367c
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
