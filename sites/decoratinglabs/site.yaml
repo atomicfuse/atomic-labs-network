@@ -1,0 +1,208 @@
+domain: decoratinglabs.com
+site_name: DecoratingLabs
+site_tagline: null
+author: Nora Rodriguez
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Latest News
+    - Tips & Advice
+    - In-Depth Reviews
+    - home hacks
+    - budget decor
+    - decor ideas
+  theme: home decorating and improvement tips, DIY, home styling tips, news in the decor and home design fields
+  topics_v2:
+    - name: Latest News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d51
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95916f23264031d7b12
+          - 6a13fbc716f23264031d7b51
+          - 6a13f9c416f23264031d7b3c
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Tips & Advice
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d51
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95216f23264031d7b0b
+          - 6a13fbc716f23264031d7b51
+          - 6a13f95916f23264031d7b12
+          - 6a13f95216f23264031d7b0f
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: In-Depth Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d53
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95916f23264031d7b12
+          - 6a13fbc716f23264031d7b51
+          - 6a13f95216f23264031d7b0f
+          - 6a0fe1bf16f23264031d7a40
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: home hacks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d53
+          - 6a00793e1104bbff809b7d55
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a1e6bd19bf3ecf115d9842b
+          - 6a13f9b216f23264031d7b35
+          - 6a13fbcb16f23264031d7b58
+          - 6a14485f16f23264031d7fe3
+          - 6a14486016f23264031d7fe5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: budget decor
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+        tag_ids:
+          - 6a14486016f23264031d7fe5
+          - 6a13f9b216f23264031d7b35
+          - 6a1448fe16f23264031d8014
+          - 6a14485f16f23264031d7fe3
+          - 6a14486016f23264031d7fe6
+          - 6a1919f41e60b3e9a2208636
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: decor ideas
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d57
+          - 6a00793e1104bbff809b7d63
+        tag_ids:
+          - 6a14485f16f23264031d7fe3
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95216f23264031d7b0b
+          - 6a13fbc716f23264031d7b51
+          - 6a13f9b216f23264031d7b35
+          - 6a15310816f23264031d8207
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+  seo_keywords_focus: []
+  content_guidelines:
+    - Focus on Home & Garden content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Home & Garden
+  vertical_id: 6a00793d1104bbff809b7c4a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Monday
+    preferred_time: 10:00
+  audience_type_ids: []
+theme:
+  base: ocean
+  colors:
+    primary: "#1a1b2e"
+    accent: "#c81e3b"
+    background: "#0f111c"
+    secondary: "#ffffff"
+    text: "#e0e6f0"
+    muted: "#9aa3b8"
+    surface: "#1f2138"
+    border: "#2d2f4a"
+    heading: "#f0f3f8"
+    link: "#7c89f0"
+    link_hover: "#e94560"
+    nav_link: "#e0e6f0"
+    nav_link_hover: "#e94560"
+    footer_bg: "#0a0c14"
+    must_reads_bg: "#1a1b2e"
+    hero_title: "#f0f3f8"
+    must_reads_title: "#f0f3f8"
+    article_hero_title: "#f0f3f8"
+    article_hero_meta: "#9aa3b8"
+    feed_title: "#f0f3f8"
+    feed_desc: "#c8cee0"
+    feed_date: "#9aa3b8"
+    prose_heading: "#f0f3f8"
+    prose_body: "#c8cee0"
+    category_header_text: "#f0f3f8"
+    subscribe_heading: "#ffffff"
+    footer_text: "#9aa3b8"
+    footer_heading: "#f0f3f8"
+    footer_link: "#9aa3b8"
+    footer_link_hover: "#e94560"
+  logo_height: 56
+  fonts:
+    heading: Manrope
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height_footer: 66
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
