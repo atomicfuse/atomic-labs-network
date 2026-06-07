@@ -1035,6 +1035,25 @@ sites:
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=decotricksworld
     saved_previews: null
     custom_domain: null
+  - domain: gamerswiredaily
+    company: null
+    vertical: Video Gaming
+    status: Staging
+    site_id: "0853128699574"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-06-07T17:25:28.699Z
+    created_at: 2026-06-07T17:25:28.699Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/gamerswiredaily
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gamerswiredaily
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: asaftest
     company: null
