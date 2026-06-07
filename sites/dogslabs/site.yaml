@@ -99,6 +99,7 @@ brief:
     articles_per_day: 1
     preferred_days: *a1
     preferred_time: 10:00
+  audience_type_ids: []
 theme:
   base: carbon_editorial
   colors:
@@ -156,3 +157,10 @@ layout:
     explicit: []
   load_more:
     page_size: 4
+tracking:
+  ga4: G-N44RK1FFEG
+  gtm: GT-K5QNVVF2
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
