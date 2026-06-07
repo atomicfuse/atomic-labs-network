@@ -1,0 +1,127 @@
+domain: gamerswiredaily
+site_name: gamerswiredaily
+site_tagline: null
+author: Leo Long
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Game Reviews
+    - Gaming News
+    - Tips & Strategies
+    - Industry Updates
+  theme: gaming news, gaming tips, gaming updates
+  topics_v2:
+    - name: Game Reviews
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Gaming News
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Tips & Strategies
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Industry Updates
+      source:
+        type: filter
+        category_ids: []
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines:
+    - Focus on Video Gaming content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Video Gaming
+  vertical_id: 6a00793d1104bbff809b7c7d
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: pink_glow
+  colors:
+    primary: "#180a25"
+    accent: "#be185d"
+    background: "#180a25"
+    secondary: "#ffffff"
+    text: "#fce7f3"
+    muted: "#d8b4d8"
+    surface: "#1f0f30"
+    border: "#3d1a4a"
+    heading: "#fce7f3"
+    link: "#f472b6"
+    link_hover: "#fbcfe8"
+    nav_link: "#fce7f3"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#0e051a"
+    must_reads_bg: "#1f0f30"
+    hero_title: "#fce7f3"
+    must_reads_title: "#fce7f3"
+    article_hero_title: "#fce7f3"
+    article_hero_meta: "#d8b4d8"
+    feed_title: "#fce7f3"
+    feed_desc: "#f9a8d4"
+    feed_date: "#d8b4d8"
+    prose_heading: "#fce7f3"
+    prose_body: "#f9a8d4"
+    category_header_text: "#fce7f3"
+    subscribe_heading: "#ffffff"
+    footer_text: "#d8b4d8"
+    footer_heading: "#fce7f3"
+    footer_link: "#d8b4d8"
+    footer_link_hover: "#f472b6"
+    header_bg_gradient: "linear-gradient(135deg, #180a25 0%, #831843 30%, #db2777 50%, #831843 70%, #180a25 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be185d 50%, #db2777 100%)"
+    footer_bg_gradient: "linear-gradient(180deg, #831843 0%, #4a0e2a 50%, #0e051a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #4a0e2a 0%, #831843 50%, #4a0e2a 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(219,39,119,0.15) 50%, rgba(24,10,37,0.92) 100%)
+  logo_height: 52
+  fonts:
+    heading: Playfair Display
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
