@@ -681,14 +681,14 @@ sites:
   - domain: decoratingnerds
     company: null
     vertical: Home & Garden
-    status: Ready
+    status: Live
     site_id: "9619803022476"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-06-07T14:01:26.231Z
+    last_updated: 2026-06-07T16:55:54.122Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
@@ -696,8 +696,8 @@ sites:
     staging_branch: staging/decoratingnerds
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=decoratingnerds
     saved_previews: null
-    custom_domain: null
-    worker_pending_dns: true
+    custom_domain: decoratingnerds.com
+    worker_pending_dns: false
   - domain: geekystudios
     company: ATL
     vertical: Science
