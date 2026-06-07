@@ -841,14 +841,14 @@ sites:
   - domain: rumorumor
     company: null
     vertical: Entertainment
-    status: Live
+    status: Ready
     site_id: "9619803022121"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-05-26T08:42:21.875Z
+    last_updated: 2026-06-07T19:44:27.198Z
     created_at: 2026-05-24T10:50:03.022Z
     pages_project: null
     pages_subdomain: null
@@ -856,8 +856,8 @@ sites:
     staging_branch: staging/rumorumor
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=rumorumor
     saved_previews: null
-    custom_domain: rumorumor.com
-    worker_pending_dns: false
+    custom_domain: null
+    worker_pending_dns: true
   - domain: travelgeekexplorer
     company: null
     vertical: Travel
