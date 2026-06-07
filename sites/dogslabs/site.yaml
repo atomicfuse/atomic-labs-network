@@ -1,0 +1,158 @@
+domain: dogslabs
+site_name: DogsLabs
+site_tagline: null
+author: Andrew Price
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Pet Care & Health
+    - Animal Behavior
+    - Breed Guides
+    - Wildlife Stories
+  theme: pets content, funny videos
+  topics_v2:
+    - name: Pet Care & Health
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+          - 6a00793e1104bbff809b7dd7
+          - 6a00793e1104bbff809b7da5
+          - 6a00793e1104bbff809b7dd9
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a06a2aefebc8d8d1c2ca478
+          - 6a06a293febc8d8d1c2ca465
+          - 6a04411786fcaaeb5bc83763
+          - 6a225467ad9a1dd21ebb6828
+          - 6a0fdd2316f23264031d79ed
+          - 6a044ce086fcaaeb5bc83895
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Animal Behavior
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+        tag_ids:
+          - 6a0b340bac596b621e93560c
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a033cfc86fcaaeb5bc8335e
+          - 6a0bf43116f23264031d78d6
+          - 6a0fdf8c16f23264031d7a20
+          - 6a225467ad9a1dd21ebb6828
+          - 6a04411786fcaaeb5bc83763
+          - 6a0fdd2f16f23264031d79f1
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Breed Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+          - 6a00793e1104bbff809b7dcd
+          - 6a00793e1104bbff809b7dcb
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a06a293febc8d8d1c2ca460
+          - 6a06a293febc8d8d1c2ca465
+          - 6a0fdd2316f23264031d79ed
+          - 6a044ce086fcaaeb5bc83895
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Wildlife Stories
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+          - 6a00793e1104bbff809b7dd1
+        tag_ids:
+          - 6a0b340bac596b621e93560c
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a044aaf86fcaaeb5bc83867
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0fdd4616f23264031d79fe
+          - 6a033cfc86fcaaeb5bc8335e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Pets
+  vertical_id: 6a00793d1104bbff809b7c59
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: carbon_editorial
+  colors:
+    primary: "#161618"
+    accent: "#d97706"
+    background: "#0b0b0c"
+    secondary: "#0b0b0c"
+    text: "#e6e6e6"
+    muted: "#a3a3a3"
+    surface: "#1c1c1f"
+    border: "#262629"
+    heading: "#fafafa"
+    link: "#fbbf24"
+    link_hover: "#fde68a"
+    nav_link: "#fafafa"
+    nav_link_hover: "#fbbf24"
+    footer_bg: "#0b0b0c"
+    must_reads_bg: "#161618"
+    hero_title: "#fafafa"
+    must_reads_title: "#fafafa"
+    article_hero_title: "#fafafa"
+    article_hero_meta: "#a3a3a3"
+    feed_title: "#fafafa"
+    feed_desc: "#d4d4d4"
+    feed_date: "#a3a3a3"
+    prose_heading: "#fafafa"
+    prose_body: "#d4d4d4"
+    category_header_text: "#fafafa"
+    subscribe_heading: "#0b0b0c"
+    footer_text: "#a3a3a3"
+    footer_heading: "#fafafa"
+    footer_link: "#a3a3a3"
+    footer_link_hover: "#fbbf24"
+  logo_height: 52
+  fonts:
+    heading: Merriweather
+    body: Source Sans 3
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
