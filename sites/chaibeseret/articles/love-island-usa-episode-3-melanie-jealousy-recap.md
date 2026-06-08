@@ -20,7 +20,7 @@ source_url: >-
   https://www.vulture.com/article/love-island-recap-season-8-episode-3-peacock.html
 source_item_id: 6a23b05b40722bf12ccf98b8
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/love-island-usa-episode-3-melanie-jealousy-recap.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
+image_alt: >-
+  Tense poolside villa scene with young adults flirting as one woman watches
+  from the foreground.
 ---
 ## Jealousy Takes Center Stage
 
