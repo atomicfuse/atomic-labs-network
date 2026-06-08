@@ -1,4 +1,4 @@
-domain: gamerswiredaily
+domain: gamerswiredaily.com
 site_name: gamerswiredaily
 site_tagline: null
 author: Leo Long
@@ -96,11 +96,13 @@ theme:
     footer_heading: "#fce7f3"
     footer_link: "#d8b4d8"
     footer_link_hover: "#f472b6"
-    header_bg_gradient: "linear-gradient(135deg, #180a25 0%, #831843 30%, #db2777 50%, #831843 70%, #180a25 100%)"
+    header_bg_gradient: "linear-gradient(135deg, #180a25 0%, #831843 30%, #db2777
+      50%, #831843 70%, #180a25 100%)"
     subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be185d 50%, #db2777 100%)"
     footer_bg_gradient: "linear-gradient(180deg, #831843 0%, #4a0e2a 50%, #0e051a 100%)"
     must_reads_bg_gradient: "linear-gradient(135deg, #4a0e2a 0%, #831843 50%, #4a0e2a 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(219,39,119,0.15) 50%, rgba(24,10,37,0.92) 100%)
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
+      rgba(219,39,119,0.15) 50%, rgba(24,10,37,0.92) 100%)
   logo_height: 52
   fonts:
     heading: Playfair Display
