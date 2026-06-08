@@ -45,7 +45,6 @@ brief:
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   category_ids:
-    - 6a00793d1104bbff809b7c7a
     - 6a00793f1104bbff809b7f87
     - 6a00793f1104bbff809b7f85
     - 6a00793f1104bbff809b7f91
@@ -68,6 +67,15 @@ brief:
     preferred_days:
       - Monday
     preferred_time: 10:00
+  image_guidelines: []
+  quality_threshold: 100
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  tag_ids: []
 theme:
   base: custom
   colors:
