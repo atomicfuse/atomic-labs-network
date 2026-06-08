@@ -1,0 +1,157 @@
+domain: diydecorschool.com
+site_name: diydecorschool
+site_tagline: null
+author: Rachel Adams
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Expert Guides
+    - Latest News
+    - Tips & Advice
+    - In-Depth Reviews
+  theme: home styling and improvment guides, tips, home decore ideas
+  topics_v2:
+    - name: Expert Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d51
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95216f23264031d7b0b
+          - 6a13fbc716f23264031d7b51
+          - 6a13f95916f23264031d7b12
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Latest News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95916f23264031d7b12
+          - 6a13f95216f23264031d7b0f
+          - 6a13f95216f23264031d7b0b
+          - 6a13f95916f23264031d7b17
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Tips & Advice
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d51
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95216f23264031d7b0f
+          - 6a13f9c416f23264031d7b3c
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: In-Depth Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d55
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95916f23264031d7b12
+          - 6a14486016f23264031d7fe5
+          - 6a14485f16f23264031d7fe3
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines:
+    - Focus on Home & Garden content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Home & Garden
+  vertical_id: 6a00793d1104bbff809b7c4a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: rose_garden
+  colors:
+    primary: "#831843"
+    accent: "#9d174d"
+    background: "#fff7f9"
+    secondary: "#fff7f9"
+    text: "#3d1029"
+    muted: "#9d6f81"
+    surface: "#fce7ef"
+    border: "#f4d4df"
+    heading: "#3d1029"
+    link: "#831843"
+    link_hover: "#9d174d"
+    nav_link: "#fff7f9"
+    nav_link_hover: "#f9a8d4"
+    footer_bg: "#581c3b"
+    must_reads_bg: "#581c3b"
+    hero_title: "#fff7f9"
+    must_reads_title: "#fff7f9"
+    article_hero_title: "#fff7f9"
+    article_hero_meta: "#d4a3b8"
+    feed_title: "#3d1029"
+    feed_desc: "#5c2240"
+    feed_date: "#9d6f81"
+    prose_heading: "#3d1029"
+    prose_body: "#5c2240"
+    category_header_text: "#fff7f9"
+    subscribe_heading: "#fff7f9"
+    footer_text: "#d4a3b8"
+    footer_heading: "#fff7f9"
+    footer_link: "#d4a3b8"
+    footer_link_hover: "#f9a8d4"
+  logo_height: 52
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
