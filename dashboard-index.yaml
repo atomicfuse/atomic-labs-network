@@ -1039,22 +1039,23 @@ sites:
   - domain: gamerswiredaily
     company: null
     vertical: Video Gaming
-    status: Staging
+    status: Live
     site_id: "0853128699574"
     exclusivity: null
     ob_epid: null
     ga_info: null
     cf_apo: false
     fixed_ad: false
-    last_updated: 2026-06-07T17:25:28.699Z
+    last_updated: 2026-06-08T07:58:49.990Z
     created_at: 2026-06-07T17:25:28.699Z
     pages_project: null
     pages_subdomain: null
-    zone_id: null
+    zone_id: 2e2c90ac0aa7d2781285c6d3df18d127
     staging_branch: staging/gamerswiredaily
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gamerswiredaily
     saved_previews: null
-    custom_domain: null
+    custom_domain: gamerswiredaily.com
+    worker_pending_dns: false
   - domain: diydecorschool
     company: null
     vertical: Home & Garden
