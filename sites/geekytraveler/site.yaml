@@ -1,4 +1,4 @@
-domain: geekytraveler
+domain: geekytraveler.com
 site_name: GeekyTraveler
 site_tagline: null
 author: Nathan Rodriguez
@@ -17,7 +17,11 @@ brief:
     - Travel Tips
     - Local Culture
     - Adventure Activities
-  theme: A travel site for the curious and detail-obsessed — destinations through the lens of history, science, architecture, and hidden knowledge. Not "best beaches" but "why this city was built here," "what this ruins actually was," and "the engineering behind this bridge." Readers are travelers who want to understand a place, not just visit it.
+  theme: A travel site for the curious and detail-obsessed — destinations through
+    the lens of history, science, architecture, and hidden knowledge. Not "best
+    beaches" but "why this city was built here," "what this ruins actually was,"
+    and "the engineering behind this bridge." Readers are travelers who want to
+    understand a place, not just visit it.
   topics_v2:
     - name: Destination Guides
       source:
@@ -88,7 +92,11 @@ brief:
   content_guidelines:
     - shortly describe site theme for GeekyTraveler.com
     - 23:09
-    - A travel site for the curious and detail-obsessed — destinations through the lens of history, science, architecture, and hidden knowledge. Not "best beaches" but "why this city was built here," "what this ruins actually was," and "the engineering behind this bridge." Readers are travelers who want to understand a place, not just visit it.
+    - A travel site for the curious and detail-obsessed — destinations through
+      the lens of history, science, architecture, and hidden knowledge. Not
+      "best beaches" but "why this city was built here," "what this ruins
+      actually was," and "the engineering behind this bridge." Readers are
+      travelers who want to understand a place, not just visit it.
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   review_percentage: 5
