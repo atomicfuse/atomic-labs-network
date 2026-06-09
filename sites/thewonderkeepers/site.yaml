@@ -28,7 +28,6 @@ brief:
   theme: Human interest stories with emotional depth - real moments of kindness, wonder, and life wisdom that remind you what matters most.
   topics_v2:
     - name: Stories
-      description: Unexpected kindness and paying it forward
       source:
         type: filter
         category_ids:
@@ -57,6 +56,24 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Monday
+    - name: Heart
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c38
+          - 6a00793e1104bbff809b7ce9
+          - 6a00793d1104bbff809b7c53
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a14135016f23264031d7d19
+          - 6a142afc16f23264031d7f46
+          - 6a1917781e60b3e9a22085f9
+          - 6a142d0716f23264031d7f64
+          - 6a142ce116f23264031d7f50
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
     - name: Wisdom
       source:
         type: filter
@@ -73,24 +90,6 @@ brief:
           - 6a07fd9d4bdae0614e7aaecd
           - 6a0bead516f23264031d78b6
           - 6a142d0716f23264031d7f64
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
-    - name: Heart
-      source:
-        type: filter
-        category_ids:
-          - 6a00793d1104bbff809b7c38
-          - 6a00793e1104bbff809b7ce9
-          - 6a00793d1104bbff809b7c53
-        tag_ids:
-          - 6a03387086fcaaeb5bc832f9
-          - 6a14135016f23264031d7d19
-          - 6a142afc16f23264031d7f46
-          - 6a1917781e60b3e9a22085f9
-          - 6a142d0716f23264031d7f64
-          - 6a142ce116f23264031d7f50
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -115,14 +114,9 @@ brief:
     - 1. Emotional arc in every story - situation to resolution
     - 2. Real people, no politics, no celebrities
     - 3. Warm tone - no sarcasm, no shock
-    - 4. 300-600 words
+    - 4. story teller style articles, engaging for social platform, building the story and capturing the reader
     - 5. End on a human truth, not a lecture
-  image_guidelines:
-    - 1. Warm, natural light - no stock-photo stiffness
-    - 2. Real people or symbolic scenes - no staged poses
-    - 3. Earthy tones - beige, warm brown, soft gold
-    - 4. No text overlays on hero images
-    - 5. Emotion-first - the image should make you feel before you read
+  image_guidelines: []
   vertical: Family and Relationships
   vertical_id: 6a00793d1104bbff809b7c38
   review_percentage: 5
@@ -131,6 +125,13 @@ brief:
     preferred_days:
       - Monday
     preferred_time: 10:00
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
 theme:
   base: classic
   colors:
@@ -170,6 +171,7 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height_footer: 78
 layout:
   hero:
     enabled: true
