@@ -1,0 +1,163 @@
+domain: decortricksworld.com
+site_name: decotricksworld
+site_tagline: null
+author: Lily Brooks
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Expert Guides
+    - Latest News
+    - Tips & Advice
+    - In-Depth Reviews
+  theme: home decor innovative tips, eco friendly, recycling
+  topics_v2:
+    - name: Expert Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d51
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95916f23264031d7b12
+          - 6a13f95216f23264031d7b0f
+          - 6a13fbc716f23264031d7b51
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Latest News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793f1104bbff809b7f0f
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95916f23264031d7b12
+          - 6a13fbc716f23264031d7b51
+          - 6a13f9b216f23264031d7b35
+          - 6a14486016f23264031d7fe5
+          - 6a14485f16f23264031d7fe3
+          - 6a13f95916f23264031d7b17
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Tips & Advice
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d51
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95916f23264031d7b12
+          - 6a14485f16f23264031d7fe3
+          - 6a14486016f23264031d7fe6
+          - 6a13f9b216f23264031d7b35
+          - 6a13fbcb16f23264031d7b58
+          - 6a15310816f23264031d8207
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: In-Depth Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d51
+        tag_ids:
+          - 6a1448fe16f23264031d8014
+          - 6a13f95216f23264031d7b11
+          - 6a13f95216f23264031d7b0b
+          - 6a13fbc716f23264031d7b51
+          - 6a13f95916f23264031d7b12
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines:
+    - Engaging, informative, conversational
+  vertical: Home & Garden
+  vertical_id: 6a00793d1104bbff809b7c4a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: botanical
+  colors:
+    primary: "#1f3d2b"
+    accent: "#3d6b4c"
+    background: "#f7f5ee"
+    secondary: "#f7f5ee"
+    text: "#1f2d24"
+    muted: "#6b7a6f"
+    surface: "#eee9dd"
+    border: "#d9d3c4"
+    heading: "#1f3d2b"
+    link: "#1f3d2b"
+    link_hover: "#3d6b4c"
+    nav_link: "#f7f5ee"
+    nav_link_hover: "#cfe0c2"
+    footer_bg: "#1f3d2b"
+    must_reads_bg: "#1f3d2b"
+    hero_title: "#f7f5ee"
+    must_reads_title: "#f7f5ee"
+    article_hero_title: "#f7f5ee"
+    article_hero_meta: "#a8b3a4"
+    feed_title: "#1f3d2b"
+    feed_desc: "#2c4a37"
+    feed_date: "#6b7a6f"
+    prose_heading: "#1f3d2b"
+    prose_body: "#2c4a37"
+    category_header_text: "#f7f5ee"
+    subscribe_heading: "#1f3d2b"
+    footer_text: "#a8b3a4"
+    footer_heading: "#f7f5ee"
+    footer_link: "#a8b3a4"
+    footer_link_hover: "#cfe0c2"
+  logo_height: 52
+  fonts:
+    heading: Lora
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
