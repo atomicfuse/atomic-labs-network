@@ -14,6 +14,7 @@ scripts:
       src: https://client.w.digikube.com/atl.widget.js
   body_start: []
   body_end: []
+  before_footer: []
 scripts_vars: {}
 ads_config:
   interstitial: true
@@ -109,6 +110,7 @@ ads_txt:
   - "# NGC Digital Websites #"
   - ownerdomain=ngcdigital.io
   - "#outbrain"
+  - sharethrough.com, 3820, RESELLER, d53b998a7bd4ecd2
   - outbrain.com, 00bd0383feaf83753aef29b9565e898a06, DIRECT
   - "openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand"
   - contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
