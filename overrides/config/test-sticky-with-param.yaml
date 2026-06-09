@@ -68,7 +68,7 @@ ads_config:
                 <script>
                     window._atl_loadWidget('atl-arrow1',
                         { feedid: 'iLHNbVQ6k', auth: 'zqZGwZB5c3Ep', qs: 'subid=fbcmp1&count=6&obj_id=0' }, 'arrow1',
-                        { qs: 'g_umk=img&g_imgrt=169&g_by=1&g_lo=1&g_mcol=1&g_title=none' });
+                        { qs: 'g_umk=img&g_imgrt=169&g_lo=1&g_mcol=1&g_title=none' });
                 </script>
       page_types:
         - article
