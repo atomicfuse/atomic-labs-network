@@ -1,0 +1,163 @@
+domain: geekytraveler.com
+site_name: GeekyTraveler
+site_tagline: null
+author: Nathan Rodriguez
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: Focus on Travel content Maintain an engaging, reader-friendly tone
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Destination Guides
+    - Travel Tips
+    - Local Culture
+    - Adventure Activities
+  theme: A travel site for the curious and detail-obsessed — destinations through
+    the lens of history, science, architecture, and hidden knowledge. Not "best
+    beaches" but "why this city was built here," "what this ruins actually was,"
+    and "the engineering behind this bridge." Readers are travelers who want to
+    understand a place, not just visit it.
+  topics_v2:
+    - name: Destination Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793e1104bbff809b7cc1
+          - 6a00793e1104bbff809b7e1f
+          - 6a00793f1104bbff809b7eeb
+        tag_ids:
+          - 6a1e3ccf9bf3ecf115d9825a
+          - 6a09c32b099fd899f75e825f
+          - 6a14158a16f23264031d7d4a
+          - 6a17dfc68c60bc3c84eb2e0d
+          - 6a17dfe38c60bc3c84eb2e18
+          - 6a0b3268ac596b621e9355e5
+          - 6a140ea316f23264031d7d05
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Travel Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a0bc7fd16f23264031d77ad
+          - 6a140c7216f23264031d7cd7
+          - 6a0b38f8ac596b621e9356b7
+          - 6a18320b0fc9210eaf31ab47
+          - 6a1834200fc9210eaf31ab5c
+          - 6a18343a0fc9210eaf31ab6e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Local Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793e1104bbff809b7cc1
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a042c6686fcaaeb5bc8359c
+          - 6a14158a16f23264031d7d4a
+          - 6a17dfc68c60bc3c84eb2e0d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Adventure Activities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f89
+          - 6a00793f1104bbff809b7e4f
+          - 6a00793e1104bbff809b7cc9
+        tag_ids:
+          - 6a0bc7fd16f23264031d77ad
+          - 6a0b1eeea53fcab94b3649a9
+          - 6a0fe1b316f23264031d7a33
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines:
+    - shortly describe site theme for GeekyTraveler.com
+    - 23:09
+    - A travel site for the curious and detail-obsessed — destinations through
+      the lens of history, science, architecture, and hidden knowledge. Not
+      "best beaches" but "why this city was built here," "what this ruins
+      actually was," and "the engineering behind this bridge." Readers are
+      travelers who want to understand a place, not just visit it.
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: tokyo_night
+  colors:
+    primary: "#1a1b2e"
+    accent: "#c81e3b"
+    background: "#0f111c"
+    secondary: "#ffffff"
+    text: "#e0e6f0"
+    muted: "#9aa3b8"
+    surface: "#1f2138"
+    border: "#2d2f4a"
+    heading: "#f0f3f8"
+    link: "#7c89f0"
+    link_hover: "#e94560"
+    nav_link: "#e0e6f0"
+    nav_link_hover: "#e94560"
+    footer_bg: "#0a0c14"
+    must_reads_bg: "#1a1b2e"
+    hero_title: "#f0f3f8"
+    must_reads_title: "#f0f3f8"
+    article_hero_title: "#f0f3f8"
+    article_hero_meta: "#9aa3b8"
+    feed_title: "#f0f3f8"
+    feed_desc: "#c8cee0"
+    feed_date: "#9aa3b8"
+    prose_heading: "#f0f3f8"
+    prose_body: "#c8cee0"
+    category_header_text: "#f0f3f8"
+    subscribe_heading: "#ffffff"
+    footer_text: "#9aa3b8"
+    footer_heading: "#f0f3f8"
+    footer_link: "#9aa3b8"
+    footer_link_hover: "#e94560"
+  logo_height: 52
+  fonts:
+    heading: Manrope
+    body: Inter
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
