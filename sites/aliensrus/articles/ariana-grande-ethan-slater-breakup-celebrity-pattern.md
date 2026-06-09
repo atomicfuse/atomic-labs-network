@@ -22,7 +22,7 @@ source_url: >-
   https://www.dailymail.com/tvshowbiz/article-15884323/Ariana-Grande-boyfriend-Ethan-Slater-SPLIT-three-years-together.html
 source_item_id: 6a279472eb470600f970536c
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/ariana-grande-ethan-slater-breakup-celebrity-pattern.webp
 quality_score: 38
 score_breakdown:
   seo_quality: 25
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Conspiracy Theories
+image_alt: >-
+  Two shadowed performers under theater lights surrounded by paparazzi flashes
+  and a symbolic spiral of fame.
 ---
 ## The Hidden Timeline of a Celebrity Split
 
