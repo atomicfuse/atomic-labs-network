@@ -1,0 +1,188 @@
+domain: dramadispatch.com
+site_name: DramaDispatch
+site_tagline: null
+author: Lily Price
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: Focus on Entertainment content Maintain an engaging, reader-friendly tone
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Movie Reviews
+    - TV & Streaming
+    - Music Spotlight
+    - Celebrity Culture
+  theme: a celebrity gossip site, pop culture
+  topics_v2:
+    - name: Movie Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fd9
+          - 6a00793f1104bbff809b7f29
+        tag_ids:
+          - 6a13fe5e16f23264031d7c1e
+          - 6a0b34dbac596b621e93564d
+          - 6a042e5886fcaaeb5bc835a3
+          - 6a0bc5e616f23264031d7780
+          - 6a04330d86fcaaeb5bc8367c
+          - 6a008aba2a0a294c696af844
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: TV & Streaming
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdb
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b800b
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a04565c86fcaaeb5bc83974
+          - 6a04562f86fcaaeb5bc8395c
+          - 6a0430f786fcaaeb5bc83651
+          - 6a008aba2a0a294c696af844
+          - 6a04330d86fcaaeb5bc8367c
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a0b36b8ac596b621e93567a
+          - 6a13fe5e16f23264031d7c1e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Music Spotlight
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fed
+          - 6a0079401104bbff809b7ff9
+          - 6a0079401104bbff809b8009
+          - 6a0079401104bbff809b7fef
+        tag_ids:
+          - 6a14ffd716f23264031d8079
+          - 6a008aba2a0a294c696af844
+          - 6a03467e86fcaaeb5bc83424
+          - 6a0bc82716f23264031d77be
+          - 6a04563c86fcaaeb5bc8396a
+          - 6a04330d86fcaaeb5bc8367c
+          - 6a0430e186fcaaeb5bc83645
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Celebrity Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793e1104bbff809b7ddb
+          - 6a00793e1104bbff809b7ddd
+          - 6a00793e1104bbff809b7de3
+          - 6a00793e1104bbff809b7de5
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a03467e86fcaaeb5bc83424
+          - 6a0b350eac596b621e935655
+          - 6a0b345dac596b621e935627
+          - 6a0b365aac596b621e93565d
+          - 6a0b36b7ac596b621e935675
+          - 6a042c0186fcaaeb5bc83550
+          - 6a04330d86fcaaeb5bc8367c
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines:
+    - Always frame unverified information as speculation, never fact. Use
+      attribution phrases like "sources say," "reports suggest," or
+      question-format headlines. Never fabricate quotes from named individuals,
+      and avoid stating a celebrity's health, legal, or relationship status as
+      confirmed unless they said it publicly themselves. Political content,
+      content about minors, and anything that could read as harassment of a
+      named individual should not be published.
+  image_guidelines:
+    - Never use celebrity photos found via Google Images, social media
+      screenshots, or other entertainment sites — assume every image online is
+      protected unless you can verify the license. Safe sources are press
+      release photos, images the celebrity posted on their own public account
+      (with attribution), or photos from an active licensed subscription like
+      Getty Editorial. Every image published must include a credit line with the
+      photographer name and agency.
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: art_deco_brass
+  colors:
+    primary: "#0a0a0a"
+    accent: "#a16207"
+    background: "#0a0a0a"
+    secondary: "#0a0a0a"
+    text: "#f5e8c7"
+    muted: "#a8997a"
+    surface: "#1a1410"
+    border: "#2d2418"
+    heading: "#f5e8c7"
+    link: "#d4a657"
+    link_hover: "#f5e8c7"
+    nav_link: "#f5e8c7"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#0a0a0a"
+    must_reads_bg: "#1a1410"
+    hero_title: "#f5e8c7"
+    must_reads_title: "#f5e8c7"
+    article_hero_title: "#f5e8c7"
+    article_hero_meta: "#a8997a"
+    feed_title: "#f5e8c7"
+    feed_desc: "#d4c79d"
+    feed_date: "#a8997a"
+    prose_heading: "#f5e8c7"
+    prose_body: "#d4c79d"
+    category_header_text: "#f5e8c7"
+    subscribe_heading: "#0a0a0a"
+    footer_text: "#d4c79d"
+    footer_heading: "#f5e8c7"
+    footer_link: "#d4c79d"
+    footer_link_hover: "#ffffff"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
+      50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7
+      50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
+      50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%,
+      #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
+  logo_height: 52
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
