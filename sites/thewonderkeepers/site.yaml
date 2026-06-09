@@ -44,7 +44,6 @@ brief:
         preferred_days:
           - Monday
     - name: Wonder
-      description: Faith, signs, and moments that can't be explained
       source:
         type: filter
         category_ids:
@@ -59,7 +58,6 @@ brief:
         preferred_days:
           - Monday
     - name: Wisdom
-      description: Life wisdom (aging, loss, second chances)
       source:
         type: filter
         category_ids:
@@ -80,7 +78,6 @@ brief:
         preferred_days:
           - Monday
     - name: Heart
-      description: Family bonds and generational stories
       source:
         type: filter
         category_ids:
@@ -99,7 +96,6 @@ brief:
         preferred_days:
           - Monday
     - name: Would You?
-      description: Moral dilemmas
       source:
         type: filter
         category_ids:
