@@ -11,7 +11,7 @@ brief:
   audience_type_ids:
     - 6a0079401104bbff809b805c
     - 6a0079401104bbff809b8060
-  tone: "12:51Claude responded: Warm, sincere, and unhurried.Warm, sincere, and unhurried. Like a story shared over coffee by someone you trust."
+  tone: Warm, sincere, and unhurried.Warm, sincere, and unhurried. Like a story shared over coffee by someone you trust.
   article_types:
     listicle: 40
     standard: 30
