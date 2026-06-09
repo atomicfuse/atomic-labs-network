@@ -18,13 +18,11 @@ brief:
     how-to: 20
     review: 10
   topics:
-    - Unexpected kindness and paying it forward
-    - Faith, signs, and moments that can't be explained
-    - Life wisdom (aging, loss, second chances)
-    - Family bonds and generational stories
-    - Moral dilemmas
-    - Everyday heroes and quiet courage
-    - Wonder and awe in ordinary life
+    - Stories
+    - Wonder
+    - Wisdom
+    - Heart
+    - Would You?
   theme: Human interest stories with emotional depth - real moments of kindness, wonder, and life wisdom that remind you what matters most.
   topics_v2:
     - name: Stories
@@ -56,24 +54,6 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Monday
-    - name: Heart
-      source:
-        type: filter
-        category_ids:
-          - 6a00793d1104bbff809b7c38
-          - 6a00793e1104bbff809b7ce9
-          - 6a00793d1104bbff809b7c53
-        tag_ids:
-          - 6a03387086fcaaeb5bc832f9
-          - 6a14135016f23264031d7d19
-          - 6a142afc16f23264031d7f46
-          - 6a1917781e60b3e9a22085f9
-          - 6a142d0716f23264031d7f64
-          - 6a142ce116f23264031d7f50
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
     - name: Wisdom
       source:
         type: filter
@@ -90,6 +70,24 @@ brief:
           - 6a07fd9d4bdae0614e7aaecd
           - 6a0bead516f23264031d78b6
           - 6a142d0716f23264031d7f64
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Heart
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c38
+          - 6a00793e1104bbff809b7ce9
+          - 6a00793d1104bbff809b7c53
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a14135016f23264031d7d19
+          - 6a142afc16f23264031d7f46
+          - 6a1917781e60b3e9a22085f9
+          - 6a142d0716f23264031d7f64
+          - 6a142ce116f23264031d7f50
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -171,7 +169,7 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height_footer: 78
+  logo_height_footer: 74
 layout:
   hero:
     enabled: true
