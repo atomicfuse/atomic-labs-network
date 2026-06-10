@@ -5,7 +5,6 @@ author: Marcus Long
 groups:
   - atl
 active: true
-bundle_id: 6a12d7ab16f23264031d7a63
 brief:
   audiences:
     - Travel enthusiasts
@@ -32,12 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
-  category_ids:
-    - 6a00793d1104bbff809b7c7a
-    - 6a00793f1104bbff809b7f89
-    - 6a00793f1104bbff809b7f9d
-    - 6a00793f1104bbff809b7f8f
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -47,6 +40,108 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: "TravelNights is a travel-news and inspiration site focused on
+    destination trends, trip ideas, seasonal demand, romantic getaways, events,
+    and practical travel context. Strong filters: destinations, travel trends,
+    couples travel, seasonal trips, city events, hotels, food/culture, and
+    travel advisories. "
+  topics_v2:
+    - name: Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3b
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c65
+          - 6a00793d1104bbff809b7c68
+        tag_ids:
+          - 6a14495416f23264031d8019
+          - 6a18448b454e8b9490eacaa7
+          - 6a1836920fc9210eaf31abaf
+          - 6a184bc4454e8b9490eacb31
+          - 6a20a767ad9a1dd21ebb672a
+          - 6a0b328dac596b621e9355e9
+          - 6a15318416f23264031d8221
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Destinations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f7b
+          - 6a00793f1104bbff809b7f7d
+          - 6a00793f1104bbff809b7f7f
+          - 6a00793f1104bbff809b7f81
+          - 6a00793f1104bbff809b7f83
+          - 6a00793f1104bbff809b7f87
+        tag_ids:
+          - 6a140ea316f23264031d7d05
+          - 6a1831fb0fc9210eaf31ab42
+          - 6a184bc4454e8b9490eacb31
+          - 6a09c32b099fd899f75e825f
+          - 6a20891bad9a1dd21ebb6702
+          - 6a1e3a539bf3ecf115d98206
+          - 6a0b3b09ac596b621e9356c7
+          - 6a0430ce86fcaaeb5bc8363f
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Food
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a184b93454e8b9490eacb28
+          - 6a20a767ad9a1dd21ebb672a
+          - 6a20a76cad9a1dd21ebb672f
+          - 6a18448b454e8b9490eacaa7
+          - 6a184bc4454e8b9490eacb31
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Guides & Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793e1104bbff809b7d59
+          - 6a00793f1104bbff809b7f97
+        tag_ids:
+          - 6a1831e80fc9210eaf31ab37
+          - 6a0430ce86fcaaeb5bc8363f
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a184b93454e8b9490eacb28
+          - 6a20891bad9a1dd21ebb6708
+          - 6a1844f8454e8b9490eacac8
+          - 6a18322c0fc9210eaf31ab57
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+          - 6a00793d1104bbff809b7c2c
+          - 6a00793d1104bbff809b7c5c
+          - 6a00793d1104bbff809b7c26
+        tag_ids:
+          - 6a0175542a0a294c696af93b
+          - 6a008aba2a0a294c696af844
+          - 6a044f2a86fcaaeb5bc838b9
+          - 6a205329ad9a1dd21ebb66a6
+          - 6a2050c9ad9a1dd21ebb6663
+          - 6a1e77409bf3ecf115d984cb
+          - 6a1e6ba89bf3ecf115d98416
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
