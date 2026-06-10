@@ -6,7 +6,6 @@ groups:
   - outbrain-ads
   - atl
 active: true
-bundle_id: 6a12d6f516f23264031d7a43
 brief:
   audiences:
     - Style & Fashion enthusiasts
@@ -33,15 +32,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Style & Fashion
   vertical_id: 6a00793d1104bbff809b7c74
-  category_ids:
-    - 6a00793d1104bbff809b7c74
-    - 6a00793f1104bbff809b7f37
-    - 6a00793f1104bbff809b7f39
-    - 6a00793f1104bbff809b7f3b
-    - 6a00793f1104bbff809b7f41
-    - 6a00793f1104bbff809b7f3d
-    - 6a00793f1104bbff809b7f45
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -52,6 +42,99 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: TravelBeautyTips.com appears to fit a lifestyle niche combining travel
+    advice with beauty, skincare, packing hacks, and “look good on the go”
+    routines. Best topic filters would emphasize travel beauty hacks, vacation
+    skincare, makeup packing, hair care, sunscreen, flight prep, and
+    destination-ready wellness.
+  topics_v2:
+    - name: Travel Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a0b38f8ac596b621e9356b1
+          - 6a0b3246ac596b621e9355e1
+          - 6a1831e80fc9210eaf31ab37
+          - 6a20891bad9a1dd21ebb6702
+          - 6a1844bf454e8b9490eacab7
+          - 6a18320b0fc9210eaf31ab45
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Beauty Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f41
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a277527eb470600f97052ea
+          - 6a27750eeb470600f97052dd
+          - 6a15029516f23264031d80cb
+          - 6a0bead516f23264031d78b4
+          - 6a27750eeb470600f97052df
+          - 6a14480e16f23264031d7fd6
+          - 6a14483316f23264031d7fd9
+          - 6a0bca0116f23264031d77cc
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Destinations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a0430ce86fcaaeb5bc83640
+          - 6a033f5686fcaaeb5bc833a8
+          - 6a2515da40722bf12ccf9911
+          - 6a20891bad9a1dd21ebb6708
+          - 6a09c32b099fd899f75e825f
+          - 6a140ea316f23264031d7d05
+          - 6a1831fb0fc9210eaf31ab42
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Packing Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f85
+          - 6a00793d1104bbff809b7c6e
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a18345d0fc9210eaf31ab83
+          - 6a18367a0fc9210eaf31ab99
+          - 6a18320b0fc9210eaf31ab47
+          - 6a20892aad9a1dd21ebb671a
+          - 6a277768eb470600f970530e
+          - 6a1832100fc9210eaf31ab4a
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a0be62416f23264031d782d
+          - 6a277768eb470600f970530e
+          - 6a20891bad9a1dd21ebb670a
+          - 6a20892aad9a1dd21ebb6718
+          - 6a0bead516f23264031d78b4
+          - 6a2777b1eb470600f9705327
+          - 6a044f3986fcaaeb5bc838c4
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
