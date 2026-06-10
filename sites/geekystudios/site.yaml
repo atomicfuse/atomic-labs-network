@@ -5,7 +5,6 @@ author: Olivia Kim
 groups:
   - atl
 active: true
-bundle_id: 6a12d7cd16f23264031d7a68
 brief:
   audiences:
     - Science enthusiasts
@@ -32,18 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
-  category_ids:
-    - 6a00793d1104bbff809b7c68
-    - 6a00793e1104bbff809b7e17
-    - 6a00793e1104bbff809b7e19
-    - 6a00793e1104bbff809b7e1b
-    - 6a00793e1104bbff809b7e1d
-    - 6a00793e1104bbff809b7e1f
-    - 6a00793e1104bbff809b7e21
-    - 6a00793e1104bbff809b7e23
-    - 6a00793e1104bbff809b7e25
-    - 6a00793e1104bbff809b7e15
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -53,6 +40,98 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: games, trends, pop culture and technology
+  topics_v2:
+    - name: Tech
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c77
+          - 6a00793f1104bbff809b7f57
+          - 6a00793f1104bbff809b7f59
+          - 6a00793f1104bbff809b7f5b
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a008e842a0a294c696af893
+          - 6a008e372a0a294c696af86c
+          - 6a008e712a0a294c696af888
+          - 6a00908f2a0a294c696af8cc
+          - 6a0155762a0a294c696af91b
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Pop Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0b350eac596b621e935655
+          - 6a0b345dac596b621e935627
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a044aaf86fcaaeb5bc83864
+          - 6a044aaf86fcaaeb5bc83867
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Trends
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c77
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a008aba2a0a294c696af844
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a008e372a0a294c696af86c
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a15022716f23264031d80ac
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793d1104bbff809b7c77
+        tag_ids:
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0b1f2ca53fcab94b3649d5
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a008aba2a0a294c696af844
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a042c0186fcaaeb5bc83550
+          - 6a14480e16f23264031d7fd6
+          - 6a0b1eeea53fcab94b3649a9
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Tutorials
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c77
+          - 6a00793d1104bbff809b7c2f
+          - 6a00793d1104bbff809b7c44
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc83468
+          - 6a1448a516f23264031d7ffc
+          - 6a07ffca4bdae0614e7aaf1d
+          - 6a04436f86fcaaeb5bc8380d
+          - 6a044ce586fcaaeb5bc83897
+          - 6a142d2e16f23264031d7f78
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
