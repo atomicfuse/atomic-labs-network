@@ -5,7 +5,6 @@ author: Ben Chen
 groups:
   - ncg
 active: true
-bundle_id: 6a12d72b16f23264031d7a4d
 brief:
   audiences:
     - Travel enthusiasts
@@ -30,10 +29,10 @@ brief:
   content_guidelines:
     - Focus on Travel content
     - Maintain an engaging, reader-friendly tone
+    - "e.g: How to travel Europe for under $50/day"
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   category_ids:
-    - 6a00793d1104bbff809b7c7a
     - 6a00793f1104bbff809b7f89
     - 6a00793f1104bbff809b7f9d
     - 6a00793f1104bbff809b7f97
@@ -47,8 +46,19 @@ brief:
       - tuesday
       - wednesday
       - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
+  image_guidelines: []
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  bundle_ids:
+    - 6a12d72b16f23264031d7a4d
 theme:
   base: modern
   colors:
