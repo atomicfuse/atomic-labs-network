@@ -5,7 +5,6 @@ author: Rachel Long
 groups:
   - ncg
 active: true
-bundle_id: 6a04589d86fcaaeb5bc8398d
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -32,12 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fd9
-    - 6a0079401104bbff809b7fdb
-    - 6a0079401104bbff809b7fed
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -47,6 +40,99 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: "a pop-culture/entertainment site, but I couldn’t verify indexed content
+    for that exact domain; search results mostly surfaced WTOP, a Washington
+    D.C. news site, which may be unrelated. Best provisional filters: celebrity
+    news, viral culture, music, TV, movies, social media trends, and
+    entertainment explainers."
+  topics_v2:
+    - name: Celebrities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0475d5febc8d8d1c2ca3d9
+          - 6a034b1f86fcaaeb5bc83479
+          - 6a04310c86fcaaeb5bc83661
+          - 6a034d7086fcaaeb5bc834b6
+          - 6a0435b086fcaaeb5bc836f9
+          - 6a0451f786fcaaeb5bc83921
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Fashion
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a042c0186fcaaeb5bc8354c
+          - 6a0bc7a916f23264031d7784
+          - 6a0bead516f23264031d78b4
+          - 6a15024d16f23264031d80b9
+          - 6a15048116f23264031d80dd
+          - 6a15029516f23264031d80cd
+          - 6a27778eeb470600f9705318
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Influencers
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0b350eac596b621e935655
+          - 6a03467e86fcaaeb5bc83424
+          - 6a0b365aac596b621e93565c
+          - 6a0b36b7ac596b621e935676
+          - 6a0b34dbac596b621e93564e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Music
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fe1
+          - 6a0079401104bbff809b7ff1
+          - 6a0079401104bbff809b7fe7
+          - 6a0079401104bbff809b7fef
+        tag_ids:
+          - 6a14ffd716f23264031d8079
+          - 6a0bc82716f23264031d77be
+          - 6a04563c86fcaaeb5bc8396a
+          - 6a1520b616f23264031d813e
+          - 6a1520cf16f23264031d8149
+          - 6a0be65716f23264031d7846
+          - 6a0be87e16f23264031d7871
+          - 6a14034416f23264031d7c72
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: TV & Movies
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a0b350eac596b621e935655
+          - 6a042e5886fcaaeb5bc835a3
+          - 6a0bc7aa16f23264031d778e
+          - 6a27799eeb470600f970534e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
