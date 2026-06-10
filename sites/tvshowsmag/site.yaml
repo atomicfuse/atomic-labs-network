@@ -5,7 +5,6 @@ author: Zoe Hayes
 groups:
   - atl
 active: true
-bundle_id: 6a12d73e16f23264031d7a51
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -32,10 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fdb
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -46,6 +41,91 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "TVShowsMag is a TV-entertainment site for series fans, focused on show
+    news, reviews, episode guides, and updates around popular television. Strong
+    filters: TV news, episode recaps, streaming releases, reviews, show
+    recommendations, cast updates, and season/renewal news."
+  topics_v2:
+    - name: TV News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a0175542a0a294c696af93b
+          - 6a008aba2a0a294c696af844
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0b350eac596b621e935655
+          - 6a0b34dbac596b621e93564d
+          - 6a0be65716f23264031d7849
+          - 6a0be66c16f23264031d7854
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdb
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a0806d44bdae0614e7aaf77
+          - 6a0be65716f23264031d7847
+          - 6a27b210eb470600f9705539
+          - 6a1520a716f23264031d813b
+          - 6a042e5886fcaaeb5bc835a5
+          - 6a0bc7aa16f23264031d778d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Streaming
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a1bdb4a9bf3ecf115d98166
+          - 6a1831e80fc9210eaf31ab37
+          - 6a0b38e9ac596b621e9356a6
+          - 6a033f4986fcaaeb5bc8339c
+          - 6a140e6916f23264031d7ce0
+          - 6a0341a186fcaaeb5bc833f1
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Recommendations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a0b3422ac596b621e93561c
+          - 6a0b3422ac596b621e93561e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Celebrity News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7ddb
+          - 6a00793e1104bbff809b7ddd
+          - 6a00793e1104bbff809b7de1
+          - 6a00793e1104bbff809b7de3
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a03467e86fcaaeb5bc83424
+          - 6a044f2a86fcaaeb5bc838b9
+          - 6a0b350eac596b621e935655
+          - 6a0b36b7ac596b621e935676
+          - 6a0b365aac596b621e93565c
+          - 6a0be8d816f23264031d78a4
+          - 6a15211816f23264031d8161
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
