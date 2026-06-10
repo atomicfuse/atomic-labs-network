@@ -5,7 +5,6 @@ author: Ryan Rivera
 groups:
   - atl
 active: true
-bundle_id: 6a12d74d16f23264031d7a52
 brief:
   audiences:
     - Travel enthusiasts
@@ -32,12 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
-  category_ids:
-    - 6a00793d1104bbff809b7c7a
-    - 6a00793f1104bbff809b7f89
-    - 6a00793f1104bbff809b7f9d
-    - 6a00793f1104bbff809b7fa5
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -48,6 +41,96 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: traveling blog with destination reviews, tips and recommendations
+  topics_v2:
+    - name: Travel
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f89
+          - 6a00793f1104bbff809b7f97
+          - 6a00793f1104bbff809b7f9b
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a1831cb0fc9210eaf31ab20
+          - 6a0b3246ac596b621e9355e1
+          - 6a033f6886fcaaeb5bc833ba
+          - 6a0b38f8ac596b621e9356b3
+          - 6a140ea316f23264031d7d05
+          - 6a033f7c86fcaaeb5bc833d5
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Destinations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a0430ce86fcaaeb5bc83641
+          - 6a140ea316f23264031d7d05
+          - 6a1834460fc9210eaf31ab75
+          - 6a09c32b099fd899f75e825f
+          - 6a033f6886fcaaeb5bc833ba
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Travel Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a033f6886fcaaeb5bc833ba
+          - 6a0b38f8ac596b621e9356b3
+          - 6a033f4986fcaaeb5bc83398
+          - 6a0b1b72a53fcab94b36498b
+          - 6a18320b0fc9210eaf31ab45
+          - 6a20891bad9a1dd21ebb670a
+          - 6a277727eb470600f97052fa
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Food & Drink
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a042c6686fcaaeb5bc8359c
+          - 6a20a767ad9a1dd21ebb672b
+          - 6a184bc4454e8b9490eacb31
+          - 6a20a767ad9a1dd21ebb6727
+          - 6a1e3f039bf3ecf115d98288
+          - 6a1e3f039bf3ecf115d9828f
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0348a886fcaaeb5bc8342f
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a03467486fcaaeb5bc83418
+          - 6a044aaf86fcaaeb5bc83864
+          - 6a044f2986fcaaeb5bc838b8
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
