@@ -5,7 +5,6 @@ author: Julia Sanders
 groups:
   - atl
 active: true
-bundle_id: 6a12d79516f23264031d7a5e
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -32,10 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fdb
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -46,6 +41,101 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "TVShowBox is an entertainment-news site focused on streaming releases
+    and TV/movie lineup updates, especially platform-specific additions like
+    Netflix UK. Strong filters: streaming premieres, Netflix updates, new
+    movies, TV shows, documentaries, returning series, genre picks, and monthly
+    watchlists."
+  topics_v2:
+    - name: TV News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a27799eeb470600f970534d
+          - 6a27b210eb470600f9705539
+          - 6a0bc7cc16f23264031d7794
+          - 6a042e6186fcaaeb5bc835b0
+          - 6a0be8d816f23264031d78a4
+          - 6a15315b16f23264031d821b
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a0475d5febc8d8d1c2ca3d9
+          - 6a008aba2a0a294c696af844
+          - 6a0430b086fcaaeb5bc83629
+          - 6a04542e86fcaaeb5bc83943
+          - 6a0be65716f23264031d7847
+          - 6a04310c86fcaaeb5bc8366d
+          - 6a277543eb470600f97052f3
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Streaming
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fdb
+          - 6a0079401104bbff809b7fd9
+        tag_ids:
+          - 6a0430e386fcaaeb5bc8364e
+          - 6a042e6186fcaaeb5bc835b2
+          - 6a0b3490ac596b621e935636
+          - 6a0430b086fcaaeb5bc83629
+          - 6a0806d44bdae0614e7aaf77
+          - 6a15315b16f23264031d821b
+          - 6a27799eeb470600f970534d
+          - 6a23b1d340722bf12ccf98d6
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Recommendations
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdb
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a044aaf86fcaaeb5bc83864
+          - 6a044aaf86fcaaeb5bc83867
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0b340bac596b621e93560c
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a044ccf86fcaaeb5bc8387c
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Celebrity News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0b350eac596b621e935655
+          - 6a0435b086fcaaeb5bc836fa
+          - 6a0be8d816f23264031d78a4
+          - 6a04542e86fcaaeb5bc83943
+          - 6a034b2286fcaaeb5bc83484
+          - 6a1e3cb79bf3ecf115d9824a
+          - 6a04355f86fcaaeb5bc836c1
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
