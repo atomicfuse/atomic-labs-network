@@ -6,7 +6,6 @@ groups:
   - outbrain-ads
   - atl
 active: true
-bundle_id: 6a12d71616f23264031d7a49
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -33,12 +32,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fd9
-    - 6a0079401104bbff809b7fdb
-    - 6a0079401104bbff809b7fed
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -48,6 +41,114 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: PopNSnap is a pop culture and entertainment outlet focusing on the
+    intersection of celebrities, fashion, influencers, music, and
+    television/movies. Its content blends trending celebrity news, red-carpet
+    style evolutions, and deep dives into current TV, movie, and music releases.
+  topics_v2:
+    - name: Celebrities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0475d5febc8d8d1c2ca3d9
+          - 6a0b350eac596b621e935655
+          - 6a0435b086fcaaeb5bc836f9
+          - 6a0b34dbac596b621e93564e
+          - 6a0b3468ac596b621e93562d
+          - 6a042e7686fcaaeb5bc835b6
+          - 6a0be66c16f23264031d7858
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Fashion
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0b350eac596b621e935655
+          - 6a042c0186fcaaeb5bc83550
+          - 6a27750beb470600f97052db
+          - 6a0be64016f23264031d783f
+          - 6a15024d16f23264031d80b9
+          - 6a27aab8eb470600f97054e6
+          - 6a2777b1eb470600f9705327
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Influencers
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0b350eac596b621e935655
+          - 6a0b36b7ac596b621e935676
+          - 6a0b34dbac596b621e93564e
+          - 6a0b3468ac596b621e93562d
+          - 6a0b365aac596b621e93565c
+          - 6a0430fa86fcaaeb5bc83653
+          - 6a277527eb470600f97052ea
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Music
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fe1
+          - 6a0079401104bbff809b7fe5
+          - 6a0079401104bbff809b7fe7
+          - 6a0079401104bbff809b7fe9
+          - 6a0079401104bbff809b7fed
+          - 6a0079401104bbff809b7fef
+          - 6a0079401104bbff809b7ff1
+          - 6a0079401104bbff809b7ff7
+          - 6a0079401104bbff809b7ff9
+          - 6a0079401104bbff809b8001
+          - 6a0079401104bbff809b8003
+          - 6a0079401104bbff809b8005
+          - 6a0079401104bbff809b8007
+          - 6a0079401104bbff809b8009
+          - 6a0079401104bbff809b800b
+          - 6a0079401104bbff809b800d
+          - 6a0079401104bbff809b800f
+        tag_ids:
+          - 6a14ffd716f23264031d8079
+          - 6a0bc82716f23264031d77be
+          - 6a04563c86fcaaeb5bc8396a
+          - 6a1520a716f23264031d8137
+          - 6a1520b616f23264031d813e
+          - 6a14010a16f23264031d7c49
+          - 6a0bc7aa16f23264031d778e
+          - 6a1e3ab69bf3ecf115d98230
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: TV & Movies
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdb
+          - 6a0079401104bbff809b7fd9
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a0806d44bdae0614e7aaf77
+          - 6a042e5886fcaaeb5bc835a5
+          - 6a0bc7aa16f23264031d778d
+          - 6a14005916f23264031d7c2b
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
