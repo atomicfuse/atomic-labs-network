@@ -32,12 +32,6 @@ brief:
     - "e.g: How to travel Europe for under $50/day"
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
-  category_ids:
-    - 6a00793f1104bbff809b7f89
-    - 6a00793f1104bbff809b7f9d
-    - 6a00793f1104bbff809b7f97
-    - 6a00793f1104bbff809b7f8f
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -57,8 +51,106 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  bundle_ids:
-    - 6a12d72b16f23264031d7a4d
+  theme: "TravelClearly is a travel-content site centered on fresh travel
+    articles, “must read” destination inspiration, and newsletter-style trip
+    discovery. Strong filters: destination guides, travel tips, itineraries,
+    seasonal getaways, travel deals, safety/advisory updates, hotels, and
+    food/culture travel."
+  topics_v2:
+    - name: Travel
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f97
+          - 6a00793f1104bbff809b7f8f
+          - 6a00793f1104bbff809b7f95
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a0bc7fd16f23264031d77ad
+          - 6a0b3246ac596b621e9355e1
+          - 6a20891bad9a1dd21ebb6708
+          - 6a208915ad9a1dd21ebb66fe
+          - 6a1831e80fc9210eaf31ab37
+          - 6a18448b454e8b9490eacaa7
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Destinations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f89
+          - 6a00793f1104bbff809b7f7b
+          - 6a00793f1104bbff809b7f7d
+          - 6a00793f1104bbff809b7f7f
+          - 6a00793f1104bbff809b7f81
+          - 6a00793f1104bbff809b7f83
+          - 6a00793f1104bbff809b7f87
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a0b3246ac596b621e9355e1
+          - 6a1831cb0fc9210eaf31ab20
+          - 6a20a767ad9a1dd21ebb672a
+          - 6a184492454e8b9490eacaac
+          - 6a20891bad9a1dd21ebb6702
+          - 6a1844bf454e8b9490eacab5
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Travel Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a0b3b09ac596b621e9356c5
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a277727eb470600f97052fc
+          - 6a1831e80fc9210eaf31ab37
+          - 6a20891bad9a1dd21ebb6708
+          - 6a1844bf454e8b9490eacab7
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Food & Drink
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a1831cb0fc9210eaf31ab20
+          - 6a20a767ad9a1dd21ebb672a
+          - 6a20a76cad9a1dd21ebb672f
+          - 6a184bc4454e8b9490eacb31
+          - 6a0348d186fcaaeb5bc83459
+          - 6a03467486fcaaeb5bc83417
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d23
+          - 6a00793e1104bbff809b7cf5
+          - 6a00793e1104bbff809b7d27
+        tag_ids:
+          - 6a14480e16f23264031d7fd5
+          - 6a14483316f23264031d7fd9
+          - 6a1409f616f23264031d7c85
+          - 6a04414686fcaaeb5bc8378f
+          - 6a1423c716f23264031d7e7a
+          - 6a27778eeb470600f9705318
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
