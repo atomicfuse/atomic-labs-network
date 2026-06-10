@@ -5,7 +5,6 @@ author: Nora Sanders
 groups:
   - atl
 active: true
-bundle_id: 6a12d77516f23264031d7a5a
 brief:
   audiences:
     - Healthy Living enthusiasts
@@ -32,10 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Healthy Living
   vertical_id: 6a00793d1104bbff809b7c41
-  category_ids:
-    - 6a00793d1104bbff809b7c41
-    - 6a00793e1104bbff809b7d25
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -46,6 +41,97 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: a site about Lifestyle, Mindfulness, Nutrition, Personal Growth and Wellness
+  topics_v2:
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c38
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a0b1f2ca53fcab94b3649d4
+          - 6a034d7286fcaaeb5bc834bb
+          - 6a07fd9a4bdae0614e7aaec4
+          - 6a14480e16f23264031d7fd6
+          - 6a1a72771e60b3e9a22086d7
+          - 6a27a8a1eb470600f97054ca
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Mindfulness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e03
+          - 6a00793e1104bbff809b7d27
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a03384b86fcaaeb5bc832de
+          - 6a06a4e6febc8d8d1c2ca488
+          - 6a1a72771e60b3e9a22086d7
+          - 6a06a2a0febc8d8d1c2ca471
+          - 6a1a727c1e60b3e9a22086dd
+          - 6a04439a86fcaaeb5bc83823
+          - 6a034b4586fcaaeb5bc834a2
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Nutrition
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a034d7286fcaaeb5bc834bb
+          - 6a034da986fcaaeb5bc834eb
+          - 6a034d9886fcaaeb5bc834d4
+          - 6a256cb040722bf12ccf9943
+          - 6a256c9b40722bf12ccf9935
+          - 6a20890cad9a1dd21ebb66ef
+          - 6a142fad16f23264031d7fb6
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Personal Growth
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c23
+          - 6a00793d1104bbff809b7c68
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a07ffe74bdae0614e7aaf36
+          - 6a210c45ad9a1dd21ebb677c
+          - 6a142d0716f23264031d7f64
+          - 6a28f5597f78668964f8b2ed
+          - 6a14319d16f23264031d7fc4
+          - 6a142fa016f23264031d7faf
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Wellness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a07fd9a4bdae0614e7aaec4
+          - 6a034d7286fcaaeb5bc834bb
+          - 6a0b1f2ca53fcab94b3649d2
+          - 6a1409f616f23264031d7c86
+          - 6a034b1586fcaaeb5bc83474
+          - 6a044aaf86fcaaeb5bc8386a
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
