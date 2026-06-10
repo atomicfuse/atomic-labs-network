@@ -5,7 +5,6 @@ author: Julia Scott
 groups:
   - atl
 active: true
-bundle_id: 6a12d74f16f23264031d7a53
 brief:
   audiences:
     - Science enthusiasts
@@ -32,13 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
-  category_ids:
-    - 6a00793d1104bbff809b7c68
-    - 6a00793e1104bbff809b7e1b
-    - 6a00793e1104bbff809b7e17
-    - 6a00793e1104bbff809b7e23
-    - 6a00793e1104bbff809b7e25
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -49,6 +41,98 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "ScienceNewsLab covers accessible, curiosity-driven science news across
+    space, nature, physics, technology, and the environment, with a focus on
+    recent discoveries and surprising research findings. Its tone is
+    broad-interest and discovery-led rather than deeply technical. "
+  topics_v2:
+    - name: Space
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e25
+        tag_ids:
+          - 6a152efb16f23264031d81e4
+          - 6a27a3d1eb470600f970542e
+          - 6a0335e886fcaaeb5bc8320f
+          - 6a055cc8febc8d8d1c2ca417
+          - 6a27a3c5eb470600f9705419
+          - 6a055cc3febc8d8d1c2ca40f
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Nature
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7ccb
+          - 6a00793e1104bbff809b7e1b
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e17
+        tag_ids:
+          - 6a152ed716f23264031d81d5
+          - 6a225205ad9a1dd21ebb67f5
+          - 6a033ad286fcaaeb5bc8334b
+          - 6a152f0216f23264031d81ee
+          - 6a03387086fcaaeb5bc832fd
+          - 6a17d1e18c60bc3c84eb2de2
+          - 6a0bf43616f23264031d78e3
+          - 6a055cc3febc8d8d1c2ca411
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Physics
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e23
+        tag_ids:
+          - 6a27a3d1eb470600f970542c
+          - 6a27a3d1eb470600f970542d
+          - 6a27a3d1eb470600f970542e
+          - 6a0e976116f23264031d799a
+          - 6a0e974e16f23264031d7991
+          - 6a27a3d1eb470600f970542a
+          - 6a27a3d1eb470600f9705430
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Technology
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f57
+          - 6a00793f1104bbff809b7f5b
+          - 6a00793f1104bbff809b7f59
+          - 6a00793f1104bbff809b7f6b
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a20555fad9a1dd21ebb66b8
+          - 6a0451a686fcaaeb5bc838fe
+          - 6a1417e016f23264031d7d62
+          - 6a15c25916f23264031d823c
+          - 6a1e695d9bf3ecf115d983b0
+          - 6a142ae016f23264031d7f3b
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Environment
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e1b
+        tag_ids:
+          - 6a0bf43616f23264031d78e3
+          - 6a0bf43116f23264031d78d6
+          - 6a152f0216f23264031d81ee
+          - 6a0e973916f23264031d7982
+          - 6a17d1e18c60bc3c84eb2de1
+          - 6a033ad286fcaaeb5bc8334b
+          - 6a1e69439bf3ecf115d98392
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
