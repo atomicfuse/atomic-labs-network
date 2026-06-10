@@ -19,7 +19,8 @@ source_url: >-
   https://phys.org/news/2026-06-great-mysteries-archaeology-ancient-amazonian.html
 source_item_id: 6a27a282eb470600f9705400
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: >-
+  /assets/images/hidden-amazon-empire-ancient-civilization-revealed-laser-tech.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Unexplained Events
+image_alt: >-
+  Misty Amazon canopy revealing faint geometric traces of an ancient
+  civilization beneath
 ---
 ## Laser Eyes Pierce the Veil of Time
 
