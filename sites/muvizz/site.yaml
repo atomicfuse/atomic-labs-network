@@ -5,7 +5,6 @@ author: Julia Parker
 groups:
   - ncg
 active: true
-bundle_id: 6a12d73c16f23264031d7a50
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -32,11 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fd9
-    - 6a0079401104bbff809b7fdb
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -46,6 +40,87 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: "Muvizz is an entertainment-news site focused on movies and TV, with
+    sections for breaking news, reviews, trailers, and TV shows. Strong filters:
+    movie news, box office, reviews, trailers, TV updates, streaming releases,
+    franchises, actors, and entertainment trends."
+  topics_v2:
+    - name: Breaking News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+        tag_ids:
+          - 6a0175542a0a294c696af93b
+          - 6a04310c86fcaaeb5bc8366c
+          - 6a04545286fcaaeb5bc8394b
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Movies
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fd9
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0b340bac596b621e93560c
+          - 6a0b34dbac596b621e93564d
+          - 6a13fe5e16f23264031d7c1e
+          - 6a0b350eac596b621e935655
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdb
+          - 6a0079401104bbff809b7fd9
+        tag_ids:
+          - 6a13fe5e16f23264031d7c1e
+          - 6a1e3a539bf3ecf115d98206
+          - 6a04334f86fcaaeb5bc836ab
+          - 6a277543eb470600f97052f7
+          - 6a0be65716f23264031d7847
+          - 6a0bca2816f23264031d77dc
+          - 6a044ccf86fcaaeb5bc83875
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Trailers
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fd9
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a0b34f3ac596b621e935650
+          - 6a0be65716f23264031d7847
+          - 6a14285116f23264031d7edd
+          - 6a1520a716f23264031d8139
+          - 6a0be8d816f23264031d789e
+          - 6a277527eb470600f97052ea
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: TV Shows
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a27b210eb470600f9705539
+          - 6a27799eeb470600f970534d
+          - 6a279825eb470600f97053d0
+          - 6a0bc7cc16f23264031d7794
+          - 6a0be8d816f23264031d789e
+          - 6a1520cf16f23264031d8149
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
