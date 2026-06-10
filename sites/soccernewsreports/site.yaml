@@ -5,7 +5,6 @@ author: Ben Reed
 groups:
   - atl
 active: true
-bundle_id: 6a12d6f516f23264031d7a44
 brief:
   audiences:
     - Sports enthusiasts
@@ -32,12 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Sports
   vertical_id: 6a00793d1104bbff809b7c71
-  category_ids:
-    - 6a00793d1104bbff809b7c71
-    - 6a00793f1104bbff809b7e7b
-    - 6a00793f1104bbff809b7e53
-    - 6a00793f1104bbff809b7e6b
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -48,6 +41,89 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: a football/soccer news site organized around fresh headlines, “must read”
+    items, and newsletter-style updates. Best topic filters would emphasize
+    match news, transfers, clubs/players, tournament coverage, results, and
+    breaking football stories.
+  topics_v2:
+    - name: Latest News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+        tag_ids:
+          - 6a16d6ee8c60bc3c84eb2d26
+          - 6a16d7148c60bc3c84eb2d40
+          - 6a16d6ee8c60bc3c84eb2d24
+          - 6a16d6e98c60bc3c84eb2d22
+          - 6a16d9708c60bc3c84eb2d6e
+          - 6a16d9988c60bc3c84eb2d7e
+          - 6a16d9708c60bc3c84eb2d6f
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Transfers
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+        tag_ids:
+          - 6a16d6ee8c60bc3c84eb2d26
+          - 6a16d7148c60bc3c84eb2d40
+          - 6a16d7148c60bc3c84eb2d41
+          - 6a16d6e98c60bc3c84eb2d22
+          - 6a1ef841ad9a1dd21ebb65e9
+          - 6a1ef828ad9a1dd21ebb65e0
+          - 6a1ef83fad9a1dd21ebb65e4
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Leagues
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c71
+        tag_ids:
+          - 6a16d6ee8c60bc3c84eb2d26
+          - 6a16d7148c60bc3c84eb2d40
+          - 6a16d6ee8c60bc3c84eb2d24
+          - 6a16d99b8c60bc3c84eb2d86
+          - 6a2832c87f78668964f8b2cc
+          - 6a16d9708c60bc3c84eb2d6e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Match Reports
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+        tag_ids:
+          - 6a16d6ee8c60bc3c84eb2d26
+          - 6a16d7148c60bc3c84eb2d40
+          - 6a16d6ee8c60bc3c84eb2d24
+          - 6a16d7118c60bc3c84eb2d3c
+          - 6a2832c87f78668964f8b2cc
+          - 6a16d9708c60bc3c84eb2d6e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Analysis
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+        tag_ids:
+          - 6a16d6ee8c60bc3c84eb2d26
+          - 6a16d7148c60bc3c84eb2d40
+          - 6a16d6ee8c60bc3c84eb2d24
+          - 6a16d7118c60bc3c84eb2d3c
+          - 6a1448c216f23264031d8005
+          - 6a1ef841ad9a1dd21ebb65e9
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
