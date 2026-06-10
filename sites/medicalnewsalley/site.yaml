@@ -5,7 +5,6 @@ author: Ava Scott
 groups:
   - ncg
 active: true
-bundle_id: 6a12d79a16f23264031d7a60
 brief:
   audiences:
     - Medical Health enthusiasts
@@ -32,13 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Medical Health
   vertical_id: 6a00793d1104bbff809b7c50
-  category_ids:
-    - 6a00793d1104bbff809b7c50
-    - 6a00793e1104bbff809b7d65
-    - 6a00793e1104bbff809b7d75
-    - 6a00793e1104bbff809b7d89
-    - 6a00793e1104bbff809b7d77
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -49,6 +41,91 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "MedicalNewsAlley is a consumer health and medical-news site covering
+    health research, conditions, mental health, drugs/treatments, cancer, and
+    prevention-focused wellness stories. Strong filters: medical research,
+    public health, conditions, women’s health, mental health, treatments,
+    prevention, nutrition, and health-risk explainers. "
+  topics_v2:
+    - name: Health News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c50
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c68
+        tag_ids:
+          - 6a033ad386fcaaeb5bc8334d
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a0b1f2ca53fcab94b3649d5
+          - 6a0b1f40a53fcab94b3649e7
+          - 6a034d7886fcaaeb5bc834c0
+          - 6a1425d916f23264031d7e90
+          - 6a1409f616f23264031d7c86
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Medical Research
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e17
+        tag_ids:
+          - 6a033ac986fcaaeb5bc83347
+          - 6a033ad286fcaaeb5bc83349
+          - 6a034b3286fcaaeb5bc83487
+          - 6a17d1fb8c60bc3c84eb2df7
+          - 6a033ad486fcaaeb5bc83353
+          - 6a1e69709bf3ecf115d983c7
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Mental Health
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d77
+        tag_ids:
+          - 6a1680328c60bc3c84eb2ce9
+          - 6a06a4e6febc8d8d1c2ca488
+          - 6a142f5c16f23264031d7f94
+          - 6a07ffe74bdae0614e7aaf36
+          - 6a1c32029bf3ecf115d98193
+          - 6a034d5886fcaaeb5bc834a7
+          - 6a210c6dad9a1dd21ebb679d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Conditions
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c50
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a0bf44b16f23264031d78e5
+          - 6a0e974a16f23264031d7985
+          - 6a1448c116f23264031d8000
+          - 6a1448c116f23264031d7fff
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Drugs & Treatments
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c50
+        tag_ids:
+          - 6a1448c116f23264031d8000
+          - 6a144a3716f23264031d802c
+          - 6a256c7f40722bf12ccf992c
+          - 6a256cb040722bf12ccf9945
+          - 6a152ee716f23264031d81d8
+          - 6a152ed716f23264031d81d4
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
