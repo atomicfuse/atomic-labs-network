@@ -5,7 +5,6 @@ author: Lucas Price
 groups:
   - ncg
 active: true
-bundle_id: 6a12d70816f23264031d7a48
 brief:
   audiences:
     - Healthy Living enthusiasts
@@ -32,12 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Healthy Living
   vertical_id: 6a00793d1104bbff809b7c41
-  category_ids:
-    - 6a00793d1104bbff809b7c41
-    - 6a00793e1104bbff809b7d21
-    - 6a00793e1104bbff809b7d27
-    - 6a00793e1104bbff809b7d25
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -48,6 +41,96 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "YogaTerritory is a yoga and wellness site focused on accessible practice
+    guides, pose routines, mindfulness, stress relief, women’s wellness, and
+    beginner-to-intermediate flows. Strong filters: yoga poses, beginner yoga,
+    mindfulness, relaxation, breathwork, flexibility, women’s yoga, lifestyle
+    wellness, and home routines."
+  topics_v2:
+    - name: Yoga Poses
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c71
+        tag_ids:
+          - 6a1409cf16f23264031d7c7c
+          - 6a1448a516f23264031d7ffc
+          - 6a04439a86fcaaeb5bc83823
+          - 6a04414286fcaaeb5bc8378b
+          - 6a04415386fcaaeb5bc83798
+          - 6a04416d86fcaaeb5bc837a5
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Beginner Yoga
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d21
+        tag_ids:
+          - 6a1409cf16f23264031d7c7c
+          - 6a1448a516f23264031d7ffc
+          - 6a07ffca4bdae0614e7aaf1d
+          - 6a04438c86fcaaeb5bc83818
+          - 6a1a72bf1e60b3e9a22086f2
+          - 6a04436f86fcaaeb5bc8380d
+          - 6a140a0716f23264031d7c8d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Yoga Routines
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d23
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a1409cf16f23264031d7c7c
+          - 6a04438c86fcaaeb5bc83818
+          - 6a140a0716f23264031d7c8d
+          - 6a1a72bf1e60b3e9a22086f2
+          - 6a04439a86fcaaeb5bc83823
+          - 6a04414286fcaaeb5bc8378b
+          - 6a1a727c1e60b3e9a22086dd
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Meditation
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a04439a86fcaaeb5bc83823
+          - 6a06a4e6febc8d8d1c2ca488
+          - 6a140c2d16f23264031d7ca8
+          - 6a1a727c1e60b3e9a22086dd
+          - 6a033ab186fcaaeb5bc8332d
+          - 6a04438c86fcaaeb5bc83818
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Wellness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d25
+          - 6a00793e1104bbff809b7d21
+        tag_ids:
+          - 6a1409cf16f23264031d7c7c
+          - 6a1a72bf1e60b3e9a22086f2
+          - 6a04439a86fcaaeb5bc83823
+          - 6a06a4e6febc8d8d1c2ca488
+          - 6a1a728c1e60b3e9a22086e3
+          - 6a1a72c81e60b3e9a22086f4
+          - 6a07ffe74bdae0614e7aaf36
+          - 6a07ffdb4bdae0614e7aaf2d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
