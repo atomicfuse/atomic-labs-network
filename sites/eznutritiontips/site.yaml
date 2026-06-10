@@ -5,7 +5,6 @@ author: Ben Rivera
 groups:
   - atl
 active: true
-bundle_id: 6a12d76216f23264031d7a56
 brief:
   audiences:
     - Food & Drink enthusiasts
@@ -32,14 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
-  category_ids:
-    - 6a00793d1104bbff809b7c3e
-    - 6a00793e1104bbff809b7d1d
-    - 6a00793e1104bbff809b7d13
-    - 6a00793e1104bbff809b7d0b
-    - 6a00793e1104bbff809b7d0d
-    - 6a00793e1104bbff809b7d19
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -49,6 +40,88 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: nutrition tips, healthy content, healthy recipes
+  topics_v2:
+    - name: Healthy Recipes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1d
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a13cf2116f23264031d7a77
+          - 6a14214316f23264031d7dc0
+          - 6a256cb040722bf12ccf9945
+          - 6a256c9f40722bf12ccf9940
+          - 6a14495416f23264031d8019
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Nutrition Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1f
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a256cb040722bf12ccf9945
+          - 6a20890cad9a1dd21ebb66ef
+          - 6a034da986fcaaeb5bc834eb
+          - 6a034d7286fcaaeb5bc834bb
+          - 6a14214316f23264031d7dc0
+          - 6a034b4586fcaaeb5bc834a4
+          - 6a256c9e40722bf12ccf9938
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Special Diets
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d0b
+          - 6a00793e1104bbff809b7d0d
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a256cb040722bf12ccf9945
+          - 6a256c9b40722bf12ccf9935
+          - 6a256cb040722bf12ccf9943
+          - 6a034da986fcaaeb5bc834eb
+          - 6a034fdb86fcaaeb5bc83505
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Weight & Wellness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c50
+          - 6a00793e1104bbff809b7d25
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a034b1586fcaaeb5bc83474
+          - 6a0bf44b16f23264031d78e5
+          - 6a033f5686fcaaeb5bc833a7
+          - 6a07ffaf4bdae0614e7aaf12
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Nutrition Myths
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d25
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a0bf45f16f23264031d78f7
+          - 6a1e77409bf3ecf115d984cb
+          - 6a205343ad9a1dd21ebb66b1
+          - 6a1fbac5ad9a1dd21ebb6605
+          - 6a205571ad9a1dd21ebb66bf
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
