@@ -5,7 +5,6 @@ author: Julia Bennett
 groups:
   - atl
 active: true
-bundle_id: 6a12d78716f23264031d7a5d
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -30,11 +29,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fdb
-    - 6a0079401104bbff809b7fd9
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -44,34 +38,109 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: pop culture, buzz and everything that is trendy
+  topics_v2:
+    - name: Culture Buzz
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+          - 6a00793d1104bbff809b7c35
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a03467e86fcaaeb5bc83424
+          - 6a044aaf86fcaaeb5bc83867
+          - 6a0b34dbac596b621e93564d
+          - 6a15022716f23264031d80ac
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a0be62416f23264031d782e
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Hot Takes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a0175542a0a294c696af93b
+          - 6a205338ad9a1dd21ebb66ac
+          - 6a20531aad9a1dd21ebb669b
+          - 6a1448e216f23264031d800c
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Off Script
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a0475d5febc8d8d1c2ca3d9
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0b3490ac596b621e935635
+          - 6a034b1f86fcaaeb5bc8347a
+          - 6a0b36b7ac596b621e935676
+          - 6a033ab186fcaaeb5bc83334
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Watch
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdb
+          - 6a00793d1104bbff809b7c77
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a042c0186fcaaeb5bc83550
+          - 6a0430f786fcaaeb5bc83651
+          - 6a044ccf86fcaaeb5bc83875
+          - 6a0b350eac596b621e935655
+          - 6a0be8d816f23264031d789f
+          - 6a0430fa86fcaaeb5bc83653
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
-    primary: "#1F1F1F"
-    accent: "#FFD54F"
-    background: "#FFFFFF"
-    secondary: "#FF6B6B"
-    text: "#1F1F1F"
-    muted: "#8f8f8f"
-    surface: "#f7f7f7"
-    border: "#e6e6e6"
-    heading: "#1F1F1F"
-    link: "#6C4AB6"
-    link_hover: "#FFD54F"
+    primary: "#1a1a2e"
+    accent: "#f4c542"
+    background: "#ffffff"
+    secondary: "#1a1a2e"
+    text: "#1a1a2e"
+    muted: "#6b7280"
+    surface: "#f8f9fa"
+    border: "#e5e7eb"
+    heading: "#1a1a2e"
+    link: "#1a1a2e"
+    link_hover: "#f4c542"
     nav_link: "#ffffff"
     nav_link_hover: "#f4c542"
-    footer_bg: "#1F1F1F"
-    must_reads_bg: "#6C4AB6"
+    footer_bg: "#1a1a2e"
+    must_reads_bg: "#1a1a2e"
     hero_title: "#ffffff"
     must_reads_title: "#ffffff"
-    article_hero_title: "#6C4AB6"
-    article_hero_meta: "#f4c542"
-    feed_title: "#1F1F1F"
-    feed_desc: "#4c4c4c"
-    feed_date: "#8f8f8f"
-    prose_heading: "#1F1F1F"
-    prose_body: "#414141"
-    category_header_text: "#1a1a1a"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#6b7280"
+    feed_title: "#1a1a2e"
+    feed_desc: "#1a1a2e"
+    feed_date: "#6b7280"
+    prose_heading: "#1a1a2e"
+    prose_body: "#1a1a2e"
+    category_header_text: "#1a1a2e"
     subscribe_heading: "#1a1a2e"
     footer_text: "#9ca3af"
     footer_heading: "#ffffff"
