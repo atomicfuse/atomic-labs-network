@@ -5,7 +5,6 @@ author: Max Kim
 groups:
   - atl
 active: true
-bundle_id: 6a12d7cb16f23264031d7a67
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -32,37 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fdf
-    - 6a0079401104bbff809b7fdd
-    - 6a0079401104bbff809b7fe1
-    - 6a0079401104bbff809b8003
-    - 6a0079401104bbff809b7fe3
-    - 6a0079401104bbff809b7fe5
-    - 6a0079401104bbff809b7fe7
-    - 6a0079401104bbff809b7fe9
-    - 6a0079401104bbff809b7feb
-    - 6a0079401104bbff809b7fed
-    - 6a0079401104bbff809b7fef
-    - 6a0079401104bbff809b7ff1
-    - 6a0079401104bbff809b7ff7
-    - 6a0079401104bbff809b7ff9
-    - 6a0079401104bbff809b7ffb
-    - 6a0079401104bbff809b7ffd
-    - 6a0079401104bbff809b7fd9
-    - 6a0079401104bbff809b7fff
-    - 6a0079401104bbff809b8007
-    - 6a0079401104bbff809b8001
-    - 6a0079401104bbff809b8005
-    - 6a0079401104bbff809b8009
-    - 6a0079401104bbff809b7ff5
-    - 6a0079401104bbff809b800b
-    - 6a0079401104bbff809b7fdb
-    - 6a0079401104bbff809b800d
-    - 6a0079401104bbff809b800f
-    - 6a0079401104bbff809b7ff3
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -72,6 +40,91 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: site about trends, pop culture and cool gadgets, technology
+  topics_v2:
+    - name: Hot Trends
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c77
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a0430f786fcaaeb5bc83651
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a008e372a0a294c696af86c
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: LOL
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7de9
+        tag_ids:
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a2256b0ad9a1dd21ebb6850
+          - 6a044d0086fcaaeb5bc838ac
+          - 6a237253ad9a1dd21ebb68d5
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Funny Animals
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7dcb
+          - 6a00793e1104bbff809b7dcf
+        tag_ids:
+          - 6a0b340bac596b621e93560c
+          - 6a0fdd4616f23264031d79fd
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0fdd2316f23264031d79ef
+          - 6a225467ad9a1dd21ebb6829
+          - 6a044d0086fcaaeb5bc838af
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Internet Mysteries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f6b
+          - 6a00793d1104bbff809b7c29
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a1448e216f23264031d800c
+          - 6a1e77589bf3ecf115d984d8
+          - 6a033d1786fcaaeb5bc83378
+          - 6a2050b4ad9a1dd21ebb665d
+          - 6a033d1786fcaaeb5bc8337a
+          - 6a1e773f9bf3ecf115d984c9
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Good Vibes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a15022716f23264031d80ac
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0b340bac596b621e93560c
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0b3401ac596b621e935606
+          - 6a0b350eac596b621e935654
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
