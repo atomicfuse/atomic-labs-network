@@ -5,7 +5,6 @@ author: Ethan Ward
 groups:
   - atl
 active: true
-bundle_id: 6a12d77416f23264031d7a59
 brief:
   audiences:
     - Style & Fashion enthusiasts
@@ -32,14 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Style & Fashion
   vertical_id: 6a00793d1104bbff809b7c74
-  category_ids:
-    - 6a00793d1104bbff809b7c74
-    - 6a00793f1104bbff809b7f39
-    - 6a00793f1104bbff809b7f41
-    - 6a00793f1104bbff809b7f37
-    - 6a00793f1104bbff809b7f45
-    - 6a00793f1104bbff809b7f43
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -50,6 +41,98 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: fashion and beauty news, pop culture and hot couture
+  topics_v2:
+    - name: Fashion
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a0b350eac596b621e935655
+          - 6a042c0186fcaaeb5bc83550
+          - 6a0be89316f23264031d787d
+          - 6a15024d16f23264031d80bb
+          - 6a15027d16f23264031d80c5
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Beauty
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f39
+          - 6a00793f1104bbff809b7f3b
+          - 6a00793f1104bbff809b7f3d
+          - 6a00793f1104bbff809b7f41
+        tag_ids:
+          - 6a14480e16f23264031d7fd6
+          - 6a14483316f23264031d7fd9
+          - 6a2777b1eb470600f9705327
+          - 6a0bead516f23264031d78b4
+          - 6a0bca0116f23264031d77cc
+          - 6a15049a16f23264031d80e9
+          - 6a277527eb470600f97052ea
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a0b350eac596b621e935655
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0b34dbac596b621e93564d
+          - 6a044ce086fcaaeb5bc83895
+          - 6a042e6186fcaaeb5bc835b1
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Fitness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c71
+          - 6a00793e1104bbff809b7d21
+        tag_ids:
+          - 6a07fd844bdae0614e7aaebb
+          - 6a04416d86fcaaeb5bc837a5
+          - 6a04439a86fcaaeb5bc83823
+          - 6a04436f86fcaaeb5bc8380d
+          - 6a0445ca86fcaaeb5bc8384a
+          - 6a04414286fcaaeb5bc8378b
+          - 6a044f3986fcaaeb5bc838c4
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c4a
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a044ced86fcaaeb5bc838a4
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a03387086fcaaeb5bc832f9
+          - 6a0430f786fcaaeb5bc83651
+          - 6a044aaf86fcaaeb5bc83864
+          - 6a142afc16f23264031d7f46
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
