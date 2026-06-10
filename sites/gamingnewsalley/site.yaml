@@ -5,7 +5,6 @@ author: Elena Long
 groups:
   - atl
 active: true
-bundle_id: 6a12d78516f23264031d7a5c
 brief:
   audiences:
     - Video Gaming enthusiasts
@@ -32,14 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Video Gaming
   vertical_id: 6a00793d1104bbff809b7c7d
-  category_ids:
-    - 6a00793d1104bbff809b7c7d
-    - 6a00793f1104bbff809b7fa7
-    - 6a00793f1104bbff809b7fad
-    - 6a00793f1104bbff809b7fab
-    - 6a0079401104bbff809b7fb9
-    - 6a00793f1104bbff809b7fb1
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -50,6 +41,85 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: video games news, reviews and fun
+  topics_v2:
+    - name: Gaming News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+        tag_ids:
+          - 6a0175542a0a294c696af93b
+          - 6a1925d61e60b3e9a22086ae
+          - 6a22602cad9a1dd21ebb68a7
+          - 6a1448e116f23264031d800a
+          - 6a14263916f23264031d7eb4
+          - 6a1925b71e60b3e9a22086a5
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a0079401104bbff809b7fdd
+          - 6a0079401104bbff809b7fd9
+        tag_ids:
+          - 6a144a3116f23264031d8027
+          - 6a1448c216f23264031d8005
+          - 6a0bf6bc16f23264031d7923
+          - 6a1520a716f23264031d813b
+          - 6a1448e116f23264031d800a
+          - 6a0b3518ac596b621e935657
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Gameplay
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+        tag_ids:
+          - 6a226008ad9a1dd21ebb6888
+          - 6a1448e116f23264031d800a
+          - 6a14265716f23264031d7ec2
+          - 6a22602cad9a1dd21ebb68a6
+          - 6a1925d61e60b3e9a22086ae
+          - 6a226046ad9a1dd21ebb68b4
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: PC Games
+      source:
+        type: filter
+        category_ids: []
+        tag_ids:
+          - 6a22602aad9a1dd21ebb689f
+          - 6a226008ad9a1dd21ebb6888
+          - 6a226046ad9a1dd21ebb68b4
+          - 6a1448e116f23264031d800a
+          - 6a14263916f23264031d7eb4
+          - 6a142aaa16f23264031d7f1e
+          - 6a142a9016f23264031d7f13
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Console Games
+      source:
+        type: filter
+        category_ids: []
+        tag_ids:
+          - 6a1448e116f23264031d800a
+          - 6a226008ad9a1dd21ebb6888
+          - 6a22602cad9a1dd21ebb68a6
+          - 6a1925d61e60b3e9a22086ae
+          - 6a226046ad9a1dd21ebb68b7
+          - 6a22602aad9a1dd21ebb689f
+          - 6a1925b71e60b3e9a22086a5
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
