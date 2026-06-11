@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-06-upcoming-telescopes-dark.html'
 source_item_id: 6a27a282eb470600f9705401
 generated_by: claude
-featuredImage: /assets/images/aliensrus-general-article.webp
+featuredImage: /assets/images/dark-matter-detection-telescopes-breakthrough.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ancient Mysteries
+image_alt: >-
+  Remote telescope studies a glowing dwarf galaxy surrounded by invisible dark
+  matter arcs
 ---
 ## The Invisible Universe Revealed
 
