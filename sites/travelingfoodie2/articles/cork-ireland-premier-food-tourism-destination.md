@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/katiebell/2026/06/08/the-food-lovers-expert-guide-to-cork-ireland/
 source_item_id: 6a2773a4eb470600f97052b5
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/cork-ireland-premier-food-tourism-destination.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short on content length and could benefit from more engaging tone and stronger
   SEO optimization.
 reading_time: 3
+image_alt: >-
+  Refined farm-to-table dish on a white plate with artisan ingredients and a
+  softly blurred Irish market backdrop.
 ---
 ## Cork Stakes Its Claim as Ireland's Rising Food Capital
 
