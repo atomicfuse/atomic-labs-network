@@ -1,5 +1,5 @@
 ---
-title: Netflix's One Piece Breaks the Live-Action Anime Curse
+title: "One Piece Anime Live-Action on Netflix"
 description: >-
   Netflix's One Piece adaptation succeeds where others failed, capturing the
   heart of Eiichiro Oda's beloved manga with stellar casting and authentic
