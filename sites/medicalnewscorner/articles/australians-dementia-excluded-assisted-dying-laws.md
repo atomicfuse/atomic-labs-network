@@ -4,7 +4,7 @@ description: >-
   New UniSQ research reveals most Australians with dementia cannot access
   voluntary assisted dying under current laws due to capacity requirements.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Lucas Ward
 tags:

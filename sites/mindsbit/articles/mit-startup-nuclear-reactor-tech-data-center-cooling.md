@@ -4,7 +4,7 @@ description: >-
   Ferveret's nuclear-inspired cooling system uses water-free liquid immersion to
   tackle AI data centers' growing energy and sustainability challenges.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Maya Gray
 tags:

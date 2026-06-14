@@ -5,7 +5,7 @@ description: >-
   ahead of its July 2026 launch, featuring Mediterranean and Caribbean
   itineraries.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-14'
 author: Ryan Rivera
 tags:

@@ -5,7 +5,7 @@ description: >-
   due to Medicaid cuts, potentially creating major financial burdens for
   families.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Olivia Morgan
 tags:

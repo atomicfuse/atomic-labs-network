@@ -5,7 +5,7 @@ description: >-
   from 2021-2025 due to electrical defects that could cause fires, advising
   outdoor...
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Max Scott
 tags:

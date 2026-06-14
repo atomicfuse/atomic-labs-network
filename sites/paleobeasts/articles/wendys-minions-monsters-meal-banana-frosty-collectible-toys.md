@@ -5,7 +5,7 @@ description: >-
   exclusive collectible toys and new Banana Frosty Swirl, tied to upcoming
   Illumination...
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Elena Gray
 tags:

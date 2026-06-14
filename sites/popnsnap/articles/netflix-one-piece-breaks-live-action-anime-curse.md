@@ -5,7 +5,7 @@ description: >-
   heart of Eiichiro Oda's beloved manga with stellar casting and authentic
   storytelling.
 type: review
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Sam Gray
 tags:

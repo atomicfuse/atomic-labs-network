@@ -5,7 +5,7 @@ description: >-
   why viral workouts can't eliminate them and how to embrace your body's
   anatomy.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Sam Cooper
 tags:

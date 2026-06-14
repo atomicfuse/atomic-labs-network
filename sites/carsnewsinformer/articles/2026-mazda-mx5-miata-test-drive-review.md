@@ -4,7 +4,7 @@ description: >-
   Test driving the 2026 Mazda MX-5 Miata reveals why this 37-year-old roadster
   formula continues to captivate sports car enthusiasts with its blend of...
 type: review
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Max Scott
 tags:

@@ -4,7 +4,7 @@ description: >-
   Summer break disrupts routines and support systems, creating anxiety for kids
   and parents. Learn how to maintain structure while preserving summer fun.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Alex Long
 tags:

@@ -5,7 +5,7 @@ description: >-
   2026 primary after finishing third behind incumbent Karen Bass and Nithya
   Raman.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Andrew Gray
 tags:

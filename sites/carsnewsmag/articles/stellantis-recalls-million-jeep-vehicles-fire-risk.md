@@ -4,7 +4,7 @@ description: >-
   Stellantis recalls over 1 million Jeep Wrangler and Gladiator vehicles due to
   electrical defects that could cause fires, advising owners to park outdoors.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: James Reed
 tags:

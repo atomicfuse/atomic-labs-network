@@ -5,7 +5,7 @@ description: >-
   how fat structure and water content affect your baked goods' texture and
   flavor.
 type: standard
-status: approved
+status: published
 publishDate: '2026-06-11'
 author: Elena Gray
 tags:
