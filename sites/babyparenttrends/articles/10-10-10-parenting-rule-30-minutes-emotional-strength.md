@@ -5,7 +5,7 @@ description: >-
   focused, distraction-free time daily to help build your child's emotional
   resilience...
 type: how-to
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Alex Long
 tags:
