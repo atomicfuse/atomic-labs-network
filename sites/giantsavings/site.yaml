@@ -5,7 +5,6 @@ author: Olivia Morgan
 groups:
   - atl
 active: true
-bundle_id: 6a12d78416f23264031d7a5b
 brief:
   audiences:
     - Personal Finance enthusiasts
@@ -32,10 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Personal Finance
   vertical_id: 6a00793d1104bbff809b7c56
-  category_ids:
-    - 6a00793d1104bbff809b7c56
-    - 6a00793e1104bbff809b7da9
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -45,6 +40,92 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: "**Smart shopping and frugal living** — budget tips, discount codes,
+    retail sales, and personal finance hacks to maximize savings."
+  topics_v2:
+    - name: Saving Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793d1104bbff809b7c6e
+        tag_ids:
+          - 6a1919f41e60b3e9a2208636
+          - 6a14486316f23264031d7feb
+          - 6a044ccf86fcaaeb5bc83879
+          - 6a1409f616f23264031d7c86
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a0348a886fcaaeb5bc8342f
+          - 6a033f4986fcaaeb5bc8339c
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Budgeting
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6a14486316f23264031d7feb
+          - 6a1919f41e60b3e9a2208636
+          - 6a140a2516f23264031d7c98
+          - 6a033f6f86fcaaeb5bc833c6
+          - 6a0348a886fcaaeb5bc8342f
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a033f4986fcaaeb5bc8339c
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Grocery Savings
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e2f
+        tag_ids:
+          - 6a0348a886fcaaeb5bc8342c
+          - 6a0348a886fcaaeb5bc8342f
+          - 6a1409f616f23264031d7c85
+          - 6a07fdae4bdae0614e7aaed8
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a1919f41e60b3e9a2208636
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Bills & Utilities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6a14486316f23264031d7feb
+          - 6a1919f41e60b3e9a2208636
+          - 6a0b1eeaa53fcab94b3649a0
+          - 6a033f4986fcaaeb5bc83399
+          - 6a033f6f86fcaaeb5bc833c6
+          - 6a14486216f23264031d7fe9
+          - 6a00908f2a0a294c696af8ce
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Smart Shopping
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e29
+          - 6a00793e1104bbff809b7e2d
+        tag_ids:
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a1409f616f23264031d7c85
+          - 6a0348a886fcaaeb5bc8342f
+          - 6a033f6f86fcaaeb5bc833c6
+          - 6a033f4986fcaaeb5bc8339c
+          - 6a033f4986fcaaeb5bc83399
+          - 6a1831cc0fc9210eaf31ab2a
+          - 6a14486216f23264031d7fe9
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
