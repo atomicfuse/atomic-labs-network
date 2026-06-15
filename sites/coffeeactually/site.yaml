@@ -4,7 +4,6 @@ site_tagline: null
 author: Ryan Powell
 groups: []
 active: true
-bundle_id: 6a12d77016f23264031d7a58
 brief:
   audiences:
     - Food & Drink enthusiasts
@@ -31,12 +30,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
-  category_ids:
-    - 6a00793d1104bbff809b7c3e
-    - 6a00793e1104bbff809b7d1f
-    - 6a00793e1104bbff809b7d15
-    - 6a00793e1104bbff809b7d13
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -47,6 +40,85 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Coffee culture and brewing guides** — bean sourcing, roasting
+    techniques, espresso equipment, and local cafe trends."
+  topics_v2:
+    - name: Coffee News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d19
+        tag_ids:
+          - 6a14495416f23264031d8018
+          - 6a14495516f23264031d801c
+          - 6a14495416f23264031d8017
+          - 6a034d7886fcaaeb5bc834be
+          - 6a14495416f23264031d801a
+          - 6a14495516f23264031d801b
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Coffee Beans
+      source:
+        type: filter
+        category_ids: []
+        tag_ids:
+          - 6a14495416f23264031d8018
+          - 6a14495516f23264031d801b
+          - 6a14495516f23264031d801c
+          - 6a034d7886fcaaeb5bc834be
+          - 6a20a767ad9a1dd21ebb672a
+          - 6a1831cb0fc9210eaf31ab24
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Coffee Drinks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+        tag_ids:
+          - 6a14495416f23264031d801a
+          - 6a034d7886fcaaeb5bc834be
+          - 6a14495416f23264031d8017
+          - 6a14495516f23264031d801c
+          - 6a14495416f23264031d8019
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Brewing Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a14495516f23264031d801b
+          - 6a14495416f23264031d8017
+          - 6a14495416f23264031d8018
+          - 6a14495416f23264031d801a
+          - 6a14495516f23264031d801c
+          - 6a034d7886fcaaeb5bc834be
+          - 6a14495416f23264031d8019
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Coffee Gear
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+        tag_ids:
+          - 6a14495516f23264031d801b
+          - 6a14495416f23264031d8018
+          - 6a14495416f23264031d8017
+          - 6a14495416f23264031d801a
+          - 6a14495516f23264031d801c
+          - 6a034d7886fcaaeb5bc834be
+          - 6a14495416f23264031d8019
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
