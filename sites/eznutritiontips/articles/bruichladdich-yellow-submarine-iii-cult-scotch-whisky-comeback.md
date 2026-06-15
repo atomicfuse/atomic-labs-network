@@ -1,12 +1,9 @@
 ---
 title: Cult Scotch Whisky Series Returns With Yellow Submarine III
-description: >-
-  Bruichladdich revives its eccentric Yellow Submarine series with a new
-  14-year-old single malt, celebrating 25 years and the absurd military
-  intelligence...
+description: Bruichladdich revives its eccentric Yellow Submarine series with a new 14-year-old single malt, celebrating 25 years and the absurd military intelligence...
 type: standard
-status: review
-publishDate: '2026-06-02'
+status: published
+publishDate: 2026-06-02
 author: Ben Rivera
 tags:
   - Nutrition Myths
@@ -15,16 +12,11 @@ tags:
   - bruichladdich
   - limited edition
 slug: bruichladdich-yellow-submarine-iii-cult-scotch-whisky-comeback
-reviewer_notes: >-
-  This article is completely off-topic for a nutrition website, focusing on
-  Scotch whisky instead of food/nutrition content, with poor SEO alignment and
-  questionable accuracy claims.
-source_url: >-
-  https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
 source_item_id: 6a1e39229bf3ecf115d981de
 generated_by: claude
-featuredImage: >-
-  /assets/images/bruichladdich-yellow-submarine-iii-cult-scotch-whisky-comeback.webp
+featuredImage: /assets/images/bruichladdich-yellow-submarine-iii-cult-scotch-whisky-comeback.webp
 quality_score: 36
 score_breakdown:
   seo_quality: 25
@@ -32,14 +24,9 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 30
   keyword_relevance: 10
-quality_note: >-
-  This article is completely off-topic for a nutrition website, focusing on
-  Scotch whisky instead of food/nutrition content, with poor SEO alignment and
-  questionable accuracy claims.
+quality_note: This article is completely off-topic for a nutrition website, focusing on Scotch whisky instead of food/nutrition content, with poor SEO alignment and questionable accuracy claims.
 reading_time: 3
-image_alt: >-
-  Yellow submarine object and whisky glass on a misty coastal distillery
-  shoreline
+image_alt: Yellow submarine object and whisky glass on a misty coastal distillery shoreline
 ---
 ## The Eccentric Series That Turned Military Confusion Into Marketing Gold
 

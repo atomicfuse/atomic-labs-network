@@ -1,12 +1,9 @@
 ---
 title: Cult Scotch Brand Revives Eccentric Yellow Submarine Series
-description: >-
-  Bruichladdich Distillery releases Yellow Submarine III, a limited-edition
-  14-year-old single malt that celebrates the brand's quirky origins and
-  25-year...
+description: Bruichladdich Distillery releases Yellow Submarine III, a limited-edition 14-year-old single malt that celebrates the brand's quirky origins and 25-year...
 type: standard
-status: review
-publishDate: '2026-06-05'
+status: published
+publishDate: 2026-06-05
 author: Ben Rivera
 tags:
   - Nutrition Myths
@@ -15,11 +12,8 @@ tags:
   - islay distillery
   - craft spirits
 slug: bruichladdich-yellow-submarine-iii-scotch-whisky-comeback
-reviewer_notes: >-
-  This article about Scotch whisky is completely off-topic for a nutrition and
-  food website, despite being well-written and factually sound.
-source_url: >-
-  https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
 source_item_id: 6a1e39229bf3ecf115d981de
 generated_by: claude
 featuredImage: /assets/images/bruichladdich-yellow-submarine-iii-scotch-whisky-comeback.webp
@@ -30,13 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: >-
-  This article about Scotch whisky is completely off-topic for a nutrition and
-  food website, despite being well-written and factually sound.
+quality_note: This article about Scotch whisky is completely off-topic for a nutrition and food website, despite being well-written and factually sound.
 reading_time: 3
-image_alt: >-
-  Unbranded whisky bottle beside a yellow submarine object on a moody Scottish
-  shoreline.
+image_alt: Unbranded whisky bottle beside a yellow submarine object on a moody Scottish shoreline.
 ---
 ## The Return of Scotch's Most Unconventional Series
 
