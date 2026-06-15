@@ -5,7 +5,6 @@ author: Elena Gray
 groups:
   - ncg
 active: true
-bundle_id: 6a12d72816f23264031d7a4c
 brief:
   audiences:
     - Food & Drink enthusiasts
@@ -32,11 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
-  category_ids:
-    - 6a00793e1104bbff809b7d13
-    - 6a00793e1104bbff809b7d15
-    - 6a00793e1104bbff809b7d1d
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -55,6 +49,91 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
+  theme: "**Prehistoric life and paleontology** — dinosaur discoveries, ancient
+    fossils, evolutionary biology, and prehistoric wildlife reconstructions."
+  topics_v2:
+    - name: Paleo Diet
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e17
+        tag_ids:
+          - 6a14158a16f23264031d7d4b
+          - 6a0335e986fcaaeb5bc83213
+          - 6a27a3c3eb470600f9705416
+          - 6a1e69509bf3ecf115d983a6
+          - 6a0e976116f23264031d799b
+          - 6a152f0216f23264031d81ee
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Recipes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+        tag_ids:
+          - 6a2a46e27da23de6325b9aac
+          - 6a0348d186fcaaeb5bc83459
+          - 6a1e3cf89bf3ecf115d98274
+          - 6a2f7ea132676a5c75e45162
+          - 6a142cff16f23264031d7f61
+          - 6a0348a886fcaaeb5bc83437
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Meal Plans
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d19
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a14214316f23264031d7dbe
+          - 6a034d7886fcaaeb5bc834be
+          - 6a2a46f67da23de6325b9abc
+          - 6a142cff16f23264031d7f61
+          - 6a152eea16f23264031d81df
+          - 6a14214316f23264031d7dc0
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Nutrition
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d19
+          - 6a00793e1104bbff809b7d1f
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c68
+        tag_ids:
+          - 6a142fad16f23264031d7fb6
+          - 6a2a46f67da23de6325b9abc
+          - 6a034da986fcaaeb5bc834eb
+          - 6a034d9586fcaaeb5bc834d3
+          - 6a034d8286fcaaeb5bc834c3
+          - 6a034d7886fcaaeb5bc834be
+          - 6a256cb040722bf12ccf9945
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Healthy Snacks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a034d7886fcaaeb5bc834be
+          - 6a142cff16f23264031d7f61
+          - 6a256cb040722bf12ccf9944
+          - 6a256c9b40722bf12ccf9935
+          - 6a2a46e27da23de6325b9aac
+          - 6a2a46e27da23de6325b9ab0
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
