@@ -1,12 +1,9 @@
 ---
 title: Copa Airlines Extends Panama Stopover Program to 15 Days
-description: >-
-  Copa Airlines has doubled its Panama Stopover program from 7 to 15 days,
-  allowing travelers to explore Panama City at no extra airfare cost while
-  connecting to...
+description: Copa Airlines has doubled its Panama Stopover program from 7 to 15 days, allowing travelers to explore Panama City at no extra airfare cost while connecting to...
 type: standard
-status: review
-publishDate: '2026-06-15'
+status: published
+publishDate: 2026-06-15
 author: Sarah Rivera
 tags:
   - Travel Tips
@@ -15,10 +12,8 @@ tags:
   - stopover-program
   - air-travel
 slug: copa-airlines-extends-panama-stopover-program-15-days
-reviewer_notes: >-
-  Well-written travel article with good tone and accuracy, but significantly
-  under target word count at 519 words instead of 800-1200.
-source_url: 'https://thepointsguy.com/news/copa-airlines-extend-stopover-panama/'
+reviewer_notes: Approved via review queue.
+source_url: https://thepointsguy.com/news/copa-airlines-extend-stopover-panama/
 source_item_id: 6a2e4f1a32676a5c75e45103
 generated_by: claude
 featuredImage: /assets/images/copa-airlines-extends-panama-stopover-program-15-days.webp
@@ -29,13 +24,9 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: >-
-  Well-written travel article with good tone and accuracy, but significantly
-  under target word count at 519 words instead of 800-1200.
+quality_note: Well-written travel article with good tone and accuracy, but significantly under target word count at 519 words instead of 800-1200.
 reading_time: 3
-image_alt: >-
-  Traveler looks from an airport toward Panama City, tropical greenery, canal
-  water, and an unbranded passenger jet.
+image_alt: Traveler looks from an airport toward Panama City, tropical greenery, canal water, and an unbranded passenger jet.
 ---
 ## Copa Airlines Doubles Panama Stopover Duration
 

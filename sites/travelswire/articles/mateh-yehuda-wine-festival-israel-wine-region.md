@@ -1,12 +1,9 @@
 ---
 title: Mateh Yehuda Wine Festival Opens Israel's Largest Wine Region
-description: >-
-  Israel's largest wine region between Jerusalem Hills and Judean plains opens
-  its 28th annual festival, featuring 40+ wineries, heritage sites, and local
-  food.
+description: Israel's largest wine region between Jerusalem Hills and Judean plains opens its 28th annual festival, featuring 40+ wineries, heritage sites, and local food.
 type: standard
-status: review
-publishDate: '2026-06-08'
+status: published
+publishDate: 2026-06-08
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -15,11 +12,8 @@ tags:
   - jerusalem hills
   - mateh yehuda
 slug: mateh-yehuda-wine-festival-israel-wine-region
-reviewer_notes: >-
-  Well-structured destination guide with good keyword integration, but weakened
-  by repetitive sourcing phrases and below-target word count that limits
-  comprehensive coverage.
-source_url: 'https://www.ynetnews.com/travel/article/hjrp58tefg'
+reviewer_notes: Approved via review queue.
+source_url: https://www.ynetnews.com/travel/article/hjrp58tefg
 source_item_id: 6a25149a40722bf12ccf98ed
 generated_by: claude
 featuredImage: /assets/images/mateh-yehuda-wine-festival-israel-wine-region.webp
@@ -30,14 +24,9 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: >-
-  Well-structured destination guide with good keyword integration, but weakened
-  by repetitive sourcing phrases and below-target word count that limits
-  comprehensive coverage.
+quality_note: Well-structured destination guide with good keyword integration, but weakened by repetitive sourcing phrases and below-target word count that limits comprehensive coverage.
 reading_time: 3
-image_alt: >-
-  Sunlit vineyard hills with a rustic wine tasting table and local produce in
-  the foreground.
+image_alt: Sunlit vineyard hills with a rustic wine tasting table and local produce in the foreground.
 ---
 ## Israel's Premier Wine Destination Opens for Summer Festival
 

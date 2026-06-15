@@ -1,12 +1,9 @@
 ---
 title: Dead Sea's Hidden 'Secret River' Reveals Otherworldly Landscape
-description: >-
-  Drone photographer captures stunning footage of Dead Sea's man-made brine
-  canyon, a forbidden military zone with colorful salt pools and alien-like
-  terrain.
+description: Drone photographer captures stunning footage of Dead Sea's man-made brine canyon, a forbidden military zone with colorful salt pools and alien-like terrain.
 type: standard
-status: review
-publishDate: '2026-06-08'
+status: published
+publishDate: 2026-06-08
 author: Sarah Rivera
 tags:
   - Adventure Activities
@@ -15,11 +12,8 @@ tags:
   - desert landscape
   - forbidden places
 slug: dead-sea-secret-river-brine-canyon-forbidden-landscape
-reviewer_notes: >-
-  Well-written adventure content with excellent topic relevance but falls short
-  on length and contains some unverifiable claims about specific restrictions
-  and photographer details.
-source_url: 'https://www.ynetnews.com/travel/article/hj9yliylze'
+reviewer_notes: Approved via review queue.
+source_url: https://www.ynetnews.com/travel/article/hj9yliylze
 source_item_id: 6a25149a40722bf12ccf98ef
 generated_by: claude
 featuredImage: /assets/images/dead-sea-secret-river-brine-canyon-forbidden-landscape.webp
@@ -30,14 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: >-
-  Well-written adventure content with excellent topic relevance but falls short
-  on length and contains some unverifiable claims about specific restrictions
-  and photographer details.
+quality_note: Well-written adventure content with excellent topic relevance but falls short on length and contains some unverifiable claims about specific restrictions and photographer details.
 reading_time: 3
-image_alt: >-
-  Aerial view of a rust-red brine channel cutting through white and pink salt
-  crust in a barren desert canyon.
+image_alt: Aerial view of a rust-red brine channel cutting through white and pink salt crust in a barren desert canyon.
 ---
 ## A Forbidden Desert Wonder
 
