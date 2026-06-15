@@ -1,12 +1,9 @@
 ---
 title: SEC Commissioner Challenges Broad Crypto Regulation Framework
-description: >-
-  SEC Commissioner Hester Peirce argues securities rules shouldn't automatically
-  apply to blockchain infrastructure, signaling potential regulatory shift
-  for...
+description: SEC Commissioner Hester Peirce argues securities rules shouldn't automatically apply to blockchain infrastructure, signaling potential regulatory shift for...
 type: standard
-status: review
-publishDate: '2026-06-04'
+status: published
+publishDate: 2026-06-04
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -15,15 +12,11 @@ tags:
   - blockchain infrastructure
   - financial compliance
 slug: sec-commissioner-challenges-broad-crypto-regulation-framework
-reviewer_notes: >-
-  This cryptocurrency regulation article is completely misaligned with the
-  personal finance site's focus on saving tips, budgeting, and grocery savings.
-source_url: >-
-  https://news.bitcoin.com/sec-commissioner-challenges-blockchain-oversight-push-that-could-shape-crypto-rules/
+reviewer_notes: Approved via review queue.
+source_url: https://news.bitcoin.com/sec-commissioner-challenges-blockchain-oversight-push-that-could-shape-crypto-rules/
 source_item_id: 6a20f842ad9a1dd21ebb673c
 generated_by: claude
-featuredImage: >-
-  /assets/images/sec-commissioner-challenges-broad-crypto-regulation-framework.webp
+featuredImage: /assets/images/sec-commissioner-challenges-broad-crypto-regulation-framework.webp
 quality_score: 35
 score_breakdown:
   seo_quality: 15
@@ -31,13 +24,9 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 10
-quality_note: >-
-  This cryptocurrency regulation article is completely misaligned with the
-  personal finance site's focus on saving tips, budgeting, and grocery savings.
+quality_note: This cryptocurrency regulation article is completely misaligned with the personal finance site's focus on saving tips, budgeting, and grocery savings.
 reading_time: 3
-image_alt: >-
-  Government facade with abstract blockchain nodes divided by a translucent
-  regulatory boundary
+image_alt: Government facade with abstract blockchain nodes divided by a translucent regulatory boundary
 ---
 ## SEC Commissioner Advocates for Nuanced Crypto Approach
 

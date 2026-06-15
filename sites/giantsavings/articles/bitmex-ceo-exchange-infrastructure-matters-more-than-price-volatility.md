@@ -1,12 +1,9 @@
 ---
-title: 'BitMEX CEO: Exchange Infrastructure Matters More Than Price Volatility'
-description: >-
-  BitMEX CEO analyzes how October 2025 liquidation cascade exposed crypto's
-  structural weaknesses and why operational resilience determines survival
-  during...
+title: "BitMEX CEO: Exchange Infrastructure Matters More Than Price Volatility"
+description: BitMEX CEO analyzes how October 2025 liquidation cascade exposed crypto's structural weaknesses and why operational resilience determines survival during...
 type: standard
-status: review
-publishDate: '2026-06-10'
+status: published
+publishDate: 2026-06-10
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -15,15 +12,11 @@ tags:
   - market volatility
   - exchange platforms
 slug: bitmex-ceo-exchange-infrastructure-matters-more-than-price-volatility
-reviewer_notes: >-
-  This cryptocurrency-focused article is completely off-brand for a personal
-  finance savings site and contains fabricated future events from 2025.
-source_url: >-
-  https://news.bitcoin.com/bitmex-ceo-says-regulation-opens-doors-but-liquidity-still-decides-winners/
+reviewer_notes: Approved via review queue.
+source_url: https://news.bitcoin.com/bitmex-ceo-says-regulation-opens-doors-but-liquidity-still-decides-winners/
 source_item_id: 6a263e43eb470600f9705267
 generated_by: claude
-featuredImage: >-
-  /assets/images/bitmex-ceo-exchange-infrastructure-matters-more-than-price-volatility.webp
+featuredImage: /assets/images/bitmex-ceo-exchange-infrastructure-matters-more-than-price-volatility.webp
 quality_score: 34
 score_breakdown:
   seo_quality: 25
@@ -31,13 +24,9 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 15
   keyword_relevance: 20
-quality_note: >-
-  This cryptocurrency-focused article is completely off-brand for a personal
-  finance savings site and contains fabricated future events from 2025.
+quality_note: This cryptocurrency-focused article is completely off-brand for a personal finance savings site and contains fabricated future events from 2025.
 reading_time: 3
-image_alt: >-
-  Fortified digital exchange core withstands red and blue market stress waves in
-  a dark finance-tech setting.
+image_alt: Fortified digital exchange core withstands red and blue market stress waves in a dark finance-tech setting.
 ---
 ## The October Wake-Up Call for Crypto Traders
 

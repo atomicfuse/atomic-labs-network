@@ -1,11 +1,9 @@
 ---
 title: Turkey's $200B Crypto Market Outpaces UAE by 4x in Regional Boom
-description: >-
-  Turkey's crypto market reaches $200 billion in annual transactions, making it
-  4x larger than UAE's market as inflation drives digital asset adoption.
+description: Turkey's crypto market reaches $200 billion in annual transactions, making it 4x larger than UAE's market as inflation drives digital asset adoption.
 type: standard
-status: review
-publishDate: '2026-06-01'
+status: published
+publishDate: 2026-06-01
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -14,11 +12,8 @@ tags:
   - international markets
   - financial planning
 slug: turkey-200b-crypto-market-outpaces-uae-regional-boom
-reviewer_notes: >-
-  Article about Turkish crypto markets is completely misaligned with personal
-  finance site's audience and topics, contains suspicious unverified statistics,
-  and lacks proper SEO optimization for the target keywords.
-source_url: 'https://news.bitcoin.com/ripple-eyes-turkeys-200b-crypto-boom-and-4x-uae-lead/'
+reviewer_notes: Approved via review queue.
+source_url: https://news.bitcoin.com/ripple-eyes-turkeys-200b-crypto-boom-and-4x-uae-lead/
 source_item_id: 6a1d03c29bf3ecf115d981af
 generated_by: claude
 featuredImage: /assets/images/turkey-200b-crypto-market-outpaces-uae-regional-boom.webp
@@ -29,14 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 20
-quality_note: >-
-  Article about Turkish crypto markets is completely misaligned with personal
-  finance site's audience and topics, contains suspicious unverified statistics,
-  and lacks proper SEO optimization for the target keywords.
+quality_note: Article about Turkish crypto markets is completely misaligned with personal finance site's audience and topics, contains suspicious unverified statistics, and lacks proper SEO optimization for the target keywords.
 reading_time: 3
-image_alt: >-
-  Istanbul skyline with abstract crypto transaction streams suggesting Turkey’s
-  regional digital asset boom.
+image_alt: Istanbul skyline with abstract crypto transaction streams suggesting Turkey’s regional digital asset boom.
 ---
 ## Turkey Emerges as MENA's Crypto Powerhouse
 
