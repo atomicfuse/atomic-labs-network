@@ -5,7 +5,6 @@ author: Andrew Gray
 groups:
   - ncg
 active: true
-bundle_id: 6a12d79716f23264031d7a5f
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -32,37 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
-  category_ids:
-    - 6a00793d1104bbff809b7c32
-    - 6a0079401104bbff809b7fdf
-    - 6a0079401104bbff809b7fdd
-    - 6a0079401104bbff809b7fe1
-    - 6a0079401104bbff809b8003
-    - 6a0079401104bbff809b7fe3
-    - 6a0079401104bbff809b7fe5
-    - 6a0079401104bbff809b7fe7
-    - 6a0079401104bbff809b7fe9
-    - 6a0079401104bbff809b7feb
-    - 6a0079401104bbff809b7fed
-    - 6a0079401104bbff809b7fef
-    - 6a0079401104bbff809b7ff1
-    - 6a0079401104bbff809b7ff7
-    - 6a0079401104bbff809b7ff9
-    - 6a0079401104bbff809b7ffb
-    - 6a0079401104bbff809b7ffd
-    - 6a0079401104bbff809b7fd9
-    - 6a0079401104bbff809b7fff
-    - 6a0079401104bbff809b8007
-    - 6a0079401104bbff809b8001
-    - 6a0079401104bbff809b8005
-    - 6a0079401104bbff809b8009
-    - 6a0079401104bbff809b7ff5
-    - 6a0079401104bbff809b800b
-    - 6a0079401104bbff809b7fdb
-    - 6a0079401104bbff809b800d
-    - 6a0079401104bbff809b800f
-    - 6a0079401104bbff809b7ff3
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -72,6 +40,90 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
+  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday
+    cards, photo uploads, personalized mugs, flowers, and seasonal celebration
+    gifts."
+  topics_v2:
+    - name: Funny Videos
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a044ccf86fcaaeb5bc83879
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0b340bac596b621e93560c
+          - 6a0fdd1516f23264031d79e5
+          - 6a0fdf8c16f23264031d7a20
+          - 6a044d0086fcaaeb5bc838ac
+          - 6a2256b0ad9a1dd21ebb6850
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Memes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a0b340bac596b621e93560c
+          - 6a044ccf86fcaaeb5bc83879
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0fdf8c16f23264031d7a20
+          - 6a2256b0ad9a1dd21ebb6850
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Viral
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a00793d1104bbff809b7c6e
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0b340bac596b621e93560c
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a0430f786fcaaeb5bc83651
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Animals
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a0b340bac596b621e93560c
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a044f3986fcaaeb5bc838c4
+          - 6a0fdd1516f23264031d79e4
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a044ccf86fcaaeb5bc8387b
+          - 6a044f4986fcaaeb5bc838d3
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Odd News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a237248ad9a1dd21ebb68d1
+          - 6a033d1786fcaaeb5bc83378
+          - 6a27b1f7eb470600f9705535
+          - 6a27a3c3eb470600f9705418
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
