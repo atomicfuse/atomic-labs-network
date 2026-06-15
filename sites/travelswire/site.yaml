@@ -5,7 +5,6 @@ author: Sarah Rivera
 groups:
   - ncg
 active: true
-bundle_id: 6a09b84d099fd899f75e8254
 iab_vertical_code: "653"
 iab_category_codes:
   - "662"
@@ -44,23 +43,6 @@ brief:
   content_guidelines: []
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
-  category_ids:
-    - 6a00793f1104bbff809b7f87
-    - 6a00793f1104bbff809b7f85
-    - 6a00793f1104bbff809b7f91
-    - 6a00793f1104bbff809b7f83
-    - 6a00793f1104bbff809b7f8b
-    - 6a00793f1104bbff809b7f81
-    - 6a00793f1104bbff809b7f9f
-    - 6a00793f1104bbff809b7f89
-    - 6a00793f1104bbff809b7f7b
-    - 6a00793f1104bbff809b7f97
-    - 6a00793f1104bbff809b7f7d
-    - 6a00793f1104bbff809b7f7f
-    - 6a00793f1104bbff809b7f99
-    - 6a00793f1104bbff809b7f9d
-    - 6a00793f1104bbff809b7f93
-    - 6a00793f1104bbff809b7f95
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -75,7 +57,82 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  tag_ids: []
+  theme: "**Global travel news and tourism industry updates** — flight routes,
+    airline updates, hospitality trends, destination guides, and travel industry
+    insights."
+  topics_v2:
+    - name: Destination Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a09c32b099fd899f75e825f
+          - 6a1e3ccd9bf3ecf115d98259
+          - 6a140ea316f23264031d7d05
+          - 6a2515da40722bf12ccf9912
+          - 6a20891bad9a1dd21ebb6708
+          - 6a1831fb0fc9210eaf31ab42
+          - 6a1844a8454e8b9490eacaaf
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Travel Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+        tag_ids:
+          - 6a20891bad9a1dd21ebb6702
+          - 6a20891bad9a1dd21ebb670a
+          - 6a20892aad9a1dd21ebb6718
+          - 6a1831e80fc9210eaf31ab37
+          - 6a18322c0fc9210eaf31ab57
+          - 6a1831e10fc9210eaf31ab32
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a1831cc0fc9210eaf31ab2a
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Local Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f7b
+          - 6a00793f1104bbff809b7f7d
+          - 6a00793f1104bbff809b7f7f
+          - 6a00793f1104bbff809b7f81
+          - 6a00793f1104bbff809b7f83
+          - 6a00793f1104bbff809b7f87
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a0430ce86fcaaeb5bc8363f
+          - 6a033f7d86fcaaeb5bc833e0
+          - 6a18345d0fc9210eaf31ab83
+          - 6a1836920fc9210eaf31abaf
+          - 6a0430ce86fcaaeb5bc83642
+          - 6a144a3116f23264031d8027
+          - 6a20a767ad9a1dd21ebb6723
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Adventure Activities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f89
+        tag_ids:
+          - 6a09c32c099fd899f75e8263
+          - 6a0bc7fd16f23264031d77ad
+          - 6a0fe1b316f23264031d7a33
+          - 6a0445e886fcaaeb5bc83859
+          - 6a0fdf7f16f23264031d7a18
+          - 6a07fd844bdae0614e7aaebb
+          - 6a1e3a889bf3ecf115d9821b
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: custom
   colors:
