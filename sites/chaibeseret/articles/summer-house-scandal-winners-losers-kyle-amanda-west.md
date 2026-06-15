@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vulture.com/article/summer-house-reunion-winners-and-losers.html'
 source_item_id: 6a2ceada32676a5c75e450d2
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/summer-house-scandal-winners-losers-kyle-amanda-west.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
+image_alt: >-
+  Empty reality reunion set with candles, couches, and scattered objects
+  suggesting scandal fallout
 ---
 ## The Scandal That Changed Everything
 
