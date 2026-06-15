@@ -1,11 +1,9 @@
 ---
 title: FBI Issues Warning About Online Predators Targeting Kids in Games
-description: >-
-  The FBI warns parents about predators using video games and gaming chats to
-  groom and radicalize children, highlighting key warning signs to watch for.
+description: The FBI warns parents about predators using video games and gaming chats to groom and radicalize children, highlighting key warning signs to watch for.
 type: standard
-status: review
-publishDate: '2026-06-05'
+status: published
+publishDate: 2026-06-05
 author: Sam Gray
 tags:
   - TV & Movies
@@ -14,12 +12,8 @@ tags:
   - parenting
   - child protection
 slug: fbi-warning-online-predators-targeting-kids-video-games
-reviewer_notes: >-
-  This article fails to match the entertainment focus of popnsnap, covering
-  serious safety topics instead of celebrities/fashion/music content, with
-  concerning vague sourcing throughout.
-source_url: >-
-  https://www.kctv5.com/video/2026/06/04/behind-headlines-fbi-warns-parents-about-online-predators-targeting-kids-video-games/
+reviewer_notes: Approved via review queue.
+source_url: https://www.kctv5.com/video/2026/06/04/behind-headlines-fbi-warns-parents-about-online-predators-targeting-kids-video-games/
 source_item_id: 6a225edbad9a1dd21ebb6885
 generated_by: claude
 featuredImage: /assets/images/fbi-warning-online-predators-targeting-kids-video-games.webp
@@ -30,10 +24,7 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: >-
-  This article fails to match the entertainment focus of popnsnap, covering
-  serious safety topics instead of celebrities/fashion/music content, with
-  concerning vague sourcing throughout.
+quality_note: This article fails to match the entertainment focus of popnsnap, covering serious safety topics instead of celebrities/fashion/music content, with concerning vague sourcing throughout.
 reading_time: 3
 image_alt: Child gaming at night as a concerned parent watches from a doorway
 ---
