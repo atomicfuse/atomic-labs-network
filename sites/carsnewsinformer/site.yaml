@@ -4,7 +4,6 @@ site_tagline: null
 author: Max Scott
 groups: []
 active: true
-bundle_id: 6a159c0e16f23264031d8231
 brief:
   audiences:
     - Automotive enthusiasts
@@ -31,11 +30,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Automotive
   vertical_id: 6a00793d1104bbff809b7c1a
-  category_ids:
-    - 6a00793d1104bbff809b7c1a
-    - 6a00793d1104bbff809b7c94
-    - 6a00793d1104bbff809b7c98
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -46,6 +40,92 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Automotive insights and industry reports** — vehicle safety recalls,
+    market shifts, consumer buying advice, and emerging automotive technology."
+  topics_v2:
+    - name: News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793d1104bbff809b7c29
+          - 6a00793d1104bbff809b7c20
+          - 6a00793d1104bbff809b7c5c
+        tag_ids:
+          - 6a0175542a0a294c696af93b
+          - 6a008aba2a0a294c696af844
+          - 6a008e372a0a294c696af86c
+          - 6a0b340bac596b621e93560c
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a044aaf86fcaaeb5bc83864
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Electric Cars
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793d1104bbff809b7c98
+        tag_ids:
+          - 6a042c0686fcaaeb5bc83555
+          - 6a14488416f23264031d7ff1
+          - 6a14216d16f23264031d7e09
+          - 6a008ea22a0a294c696af8b2
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a008aba2a0a294c696af844
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a044aaf86fcaaeb5bc83864
+          - 6a044aaf86fcaaeb5bc83867
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a044cec86fcaaeb5bc8389d
+          - 6a044f3b86fcaaeb5bc838c7
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Industry
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793f1104bbff809b7ee5
+        tag_ids:
+          - 6a14488416f23264031d7ff1
+          - 6a0155762a0a294c696af91b
+          - 6a033f7c86fcaaeb5bc833d7
+          - 6a0430b786fcaaeb5bc83630
+          - 6a0451a686fcaaeb5bc83901
+          - 6a033f7086fcaaeb5bc833cd
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Concept Cars
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+        tag_ids:
+          - 6a0348a886fcaaeb5bc83436
+          - 6a042e6186fcaaeb5bc835b2
+          - 6a0bc7fd16f23264031d77ae
+          - 6a14488416f23264031d7ff1
+          - 6a1e70509bf3ecf115d98490
+          - 6a1e6dfb9bf3ecf115d98454
+          - 6a27a3d1eb470600f970542e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
