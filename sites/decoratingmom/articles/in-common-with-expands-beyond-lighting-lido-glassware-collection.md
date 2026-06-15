@@ -1,12 +1,9 @@
 ---
 title: In Common With Expands Beyond Lighting with New Lido Glassware
-description: >-
-  Cult-favorite lighting studio In Common With launches Lido collection, marking
-  expansion into homewares through collaboration with Venice glassmaker
-  Laguna~B.
+description: Cult-favorite lighting studio In Common With launches Lido collection, marking expansion into homewares through collaboration with Venice glassmaker Laguna~B.
 type: standard
-status: review
-publishDate: '2026-06-10'
+status: published
+publishDate: 2026-06-10
 author: David Scott
 tags:
   - Interior Design
@@ -15,15 +12,11 @@ tags:
   - homewares
   - murano glass
 slug: in-common-with-expands-beyond-lighting-lido-glassware-collection
-reviewer_notes: >-
-  Article lacks proper SEO structure, is too short, focuses on industry news
-  rather than actionable home decor content, and doesn't align with the site's
-  DIY/budget-focused audience.
-source_url: 'https://www.vogue.com/article/in-common-with-lido-collection-homewares'
+reviewer_notes: Approved via review queue.
+source_url: https://www.vogue.com/article/in-common-with-lido-collection-homewares
 source_item_id: 6a2773a4eb470600f97052b3
 generated_by: claude
-featuredImage: >-
-  /assets/images/in-common-with-expands-beyond-lighting-lido-glassware-collection.webp
+featuredImage: /assets/images/in-common-with-expands-beyond-lighting-lido-glassware-collection.webp
 quality_score: 31
 score_breakdown:
   seo_quality: 25
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 20
-quality_note: >-
-  Article lacks proper SEO structure, is too short, focuses on industry news
-  rather than actionable home decor content, and doesn't align with the site's
-  DIY/budget-focused audience.
+quality_note: Article lacks proper SEO structure, is too short, focuses on industry news rather than actionable home decor content, and doesn't align with the site's DIY/budget-focused audience.
 reading_time: 3
-image_alt: >-
-  Artful glassware on a modern dining table beneath warm sculptural lighting in
-  a refined interior
+image_alt: Artful glassware on a modern dining table beneath warm sculptural lighting in a refined interior
 ---
 ## Lighting Studio Ventures Into New Territory
 
