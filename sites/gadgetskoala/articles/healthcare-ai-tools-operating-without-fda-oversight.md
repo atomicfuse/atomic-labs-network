@@ -5,7 +5,7 @@ description: >-
   while avoiding FDA review, raising concerns about transparency and patient
   safety.
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Hannah Adams
 tags:
