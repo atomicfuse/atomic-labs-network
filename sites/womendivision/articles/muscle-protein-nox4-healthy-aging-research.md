@@ -4,7 +4,7 @@ description: >-
   New Monash University research reveals how skeletal muscle protein NOX4 could
   be the secret to exercise's anti-aging benefits and healthier longevity.
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Sam Cooper
 tags:
