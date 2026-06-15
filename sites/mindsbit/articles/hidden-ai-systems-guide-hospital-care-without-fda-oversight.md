@@ -5,7 +5,7 @@ description: >-
   without regulatory review, raising urgent questions about patient safety
   and...
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Maya Gray
 tags:
