@@ -5,7 +5,7 @@ description: >-
   exercise's longevity benefits, offering new insights for healthy aging
   strategies.
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Lily Reed
 tags:

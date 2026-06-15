@@ -5,7 +5,7 @@ description: >-
   why viral workouts can't eliminate them and how to embrace body-positive
   fitness.
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Lily Reed
 tags:
