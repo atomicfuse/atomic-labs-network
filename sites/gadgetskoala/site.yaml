@@ -4,7 +4,6 @@ site_tagline: null
 author: Hannah Adams
 groups: []
 active: true
-bundle_id: 6a12d7bd16f23264031d7a66
 brief:
   audiences:
     - Technology & Computing enthusiasts
@@ -31,15 +30,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Technology & Computing
   vertical_id: 6a00793d1104bbff809b7c77
-  category_ids:
-    - 6a00793d1104bbff809b7c77
-    - 6a00793f1104bbff809b7f75
-    - 6a00793f1104bbff809b7f71
-    - 6a00793f1104bbff809b7f6d
-    - 6a00793f1104bbff809b7f77
-    - 6a00793f1104bbff809b7f69
-    - 6a00793f1104bbff809b7f79
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -50,6 +40,94 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Tech discoveries and smart lifestyle gadgets** — smartphone reviews,
+    home automation devices, wearable technology, and innovative consumer
+    electronics."
+  topics_v2:
+    - name: Gadgets
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f71
+          - 6a00793f1104bbff809b7f75
+          - 6a00793f1104bbff809b7f77
+          - 6a00793d1104bbff809b7c77
+        tag_ids:
+          - 6a007aebe9d30be04c0c6008
+          - 6a008e842a0a294c696af893
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a1a728c1e60b3e9a22086e2
+          - 6a0bf8e016f23264031d7940
+          - 6a008e372a0a294c696af86c
+          - 6a15c25a16f23264031d8240
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Gaming
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+        tag_ids:
+          - 6a044f2a86fcaaeb5bc838b9
+          - 6a226046ad9a1dd21ebb68b4
+          - 6a226008ad9a1dd21ebb6888
+          - 6a1448e116f23264031d800a
+          - 6a22602cad9a1dd21ebb68a6
+          - 6a1925d61e60b3e9a22086ae
+          - 6a14286f16f23264031d7ee5
+          - 6a0beb0516f23264031d78c7
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Mobile
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f75
+          - 6a00793f1104bbff809b7f77
+        tag_ids:
+          - 6a007aebe9d30be04c0c6008
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a15c25916f23264031d823c
+          - 6a033a9c86fcaaeb5bc8331f
+          - 6a2e738d32676a5c75e4511d
+          - 6a1a728c1e60b3e9a22086e2
+          - 6a1a72a91e60b3e9a22086ef
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Tablets
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f77
+        tag_ids:
+          - 6a15c26b16f23264031d824c
+          - 6a0bf8e016f23264031d7940
+          - 6a15c25916f23264031d823c
+          - 6a15c25a16f23264031d8240
+          - 6a15c26a16f23264031d8249
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Wearables
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f77
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a0443ce86fcaaeb5bc8383d
+          - 6a1a72a91e60b3e9a22086ed
+          - 6a23ad1d40722bf12ccf98a0
+          - 6a1a728c1e60b3e9a22086e2
+          - 6a1a728c1e60b3e9a22086e3
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
