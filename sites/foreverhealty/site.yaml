@@ -4,7 +4,6 @@ site_tagline: null
 author: Lily Reed
 groups: []
 active: true
-bundle_id: 6a158d0f16f23264031d8229
 brief:
   audiences:
     - Healthy Living enthusiasts
@@ -34,11 +33,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Healthy Living
   vertical_id: 6a00793d1104bbff809b7c41
-  category_ids:
-    - 6a00793d1104bbff809b7c41
-    - 6a00793e1104bbff809b7d25
-    - 6a00793e1104bbff809b7d27
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -50,6 +44,117 @@ brief:
     preferred_time: 10:00
   audience_type_ids:
     - 6a0079411104bbff809b80bb
+  theme: "**Integrative medicine and healthy aging** — bioidentical hormone
+    replacement therapy (BHRT), premium dietary supplements, holistic nutrition,
+    and age-management care."
+  topics_v2:
+    - name: Fitness & Movement
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d21
+          - 6a00793e1104bbff809b7d23
+        tag_ids:
+          - 6a0443ce86fcaaeb5bc8383d
+          - 6a04414286fcaaeb5bc8378b
+          - 6a1a72771e60b3e9a22086da
+          - 6a04438c86fcaaeb5bc83818
+          - 6a07ffcf4bdae0614e7aaf1e
+          - 6a1a72c81e60b3e9a22086fb
+          - 6a1a728c1e60b3e9a22086e2
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Healthy Aging
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d25
+          - 6a00793e1104bbff809b7d23
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a07fd814bdae0614e7aaeb7
+          - 6a27a8a1eb470600f97054ce
+          - 6a0b1f2ca53fcab94b3649d4
+          - 6a034b3286fcaaeb5bc83487
+          - 6a1e69439bf3ecf115d98392
+          - 6a034d7286fcaaeb5bc834bb
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Healthy Recipes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1d
+        tag_ids:
+          - 6a1e3f2a9bf3ecf115d9829b
+          - 6a2a46e27da23de6325b9aac
+          - 6a142cff16f23264031d7f61
+          - 6a0348a886fcaaeb5bc83431
+          - 6a14495416f23264031d8019
+          - 6a256cb040722bf12ccf9945
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Mind & Body Wellness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d21
+          - 6a00793e1104bbff809b7d27
+          - 6a00793e1104bbff809b7d77
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a07fd9a4bdae0614e7aaec2
+          - 6a034b1f86fcaaeb5bc83479
+          - 6a0b1f2ca53fcab94b3649d5
+          - 6a033f5a86fcaaeb5bc833ae
+          - 6a04413886fcaaeb5bc8377f
+          - 6a0445ca86fcaaeb5bc83849
+          - 6a1a72bf1e60b3e9a22086f2
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Nutrition & Diet
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d1f
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d1d
+        tag_ids:
+          - 6a034d7286fcaaeb5bc834bb
+          - 6a034da986fcaaeb5bc834eb
+          - 6a14214316f23264031d7dc0
+          - 6a034d7886fcaaeb5bc834be
+          - 6a034b4486fcaaeb5bc8349f
+          - 6a2a46f67da23de6325b9abc
+          - 6a142fad16f23264031d7fb6
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Healthy Living Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d25
+          - 6a00793e1104bbff809b7d21
+        tag_ids:
+          - 6a03387086fcaaeb5bc832f9
+          - 6a034b1586fcaaeb5bc83474
+          - 6a034da986fcaaeb5bc834ed
+          - 6a034d7286fcaaeb5bc834bb
+          - 6a034fdb86fcaaeb5bc83505
+          - 6a256cb040722bf12ccf9944
+          - 6a14218616f23264031d7e1b
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
