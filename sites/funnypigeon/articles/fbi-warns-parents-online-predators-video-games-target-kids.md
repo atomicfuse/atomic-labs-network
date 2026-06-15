@@ -1,12 +1,9 @@
 ---
-title: 'FBI Warns Parents: Online Predators Using Video Games to Target Kids'
-description: >-
-  The FBI has issued a critical warning about online predators using video games
-  and gaming chats to groom and radicalize children through nihilistic
-  violent...
+title: "FBI Warns Parents: Online Predators Using Video Games to Target Kids"
+description: The FBI has issued a critical warning about online predators using video games and gaming chats to groom and radicalize children through nihilistic violent...
 type: standard
-status: review
-publishDate: '2026-06-05'
+status: published
+publishDate: 2026-06-05
 author: Andrew Gray
 tags:
   - Odd News
@@ -15,12 +12,8 @@ tags:
   - online predators
   - parental awareness
 slug: fbi-warns-parents-online-predators-video-games-target-kids
-reviewer_notes: >-
-  This serious news article about online predators doesn't match the site's
-  entertainment focus and lacks the engaging, conversational tone expected for
-  funny/viral content.
-source_url: >-
-  https://www.kctv5.com/video/2026/06/04/behind-headlines-fbi-warns-parents-about-online-predators-targeting-kids-video-games/
+reviewer_notes: Approved via review queue.
+source_url: https://www.kctv5.com/video/2026/06/04/behind-headlines-fbi-warns-parents-about-online-predators-targeting-kids-video-games/
 source_item_id: 6a225edbad9a1dd21ebb6885
 generated_by: claude
 featuredImage: /assets/images/fbi-warns-parents-online-predators-video-games-target-kids.webp
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 25
   keyword_relevance: 20
-quality_note: >-
-  This serious news article about online predators doesn't match the site's
-  entertainment focus and lacks the engaging, conversational tone expected for
-  funny/viral content.
+quality_note: This serious news article about online predators doesn't match the site's entertainment focus and lacks the engaging, conversational tone expected for funny/viral content.
 reading_time: 3
-image_alt: >-
-  Child gaming at night as a parent watches from the doorway, suggesting hidden
-  online risks.
+image_alt: Child gaming at night as a parent watches from the doorway, suggesting hidden online risks.
 ---
 ## FBI Issues Critical Warning About Gaming Predators
 

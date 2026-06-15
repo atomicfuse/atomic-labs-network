@@ -1,11 +1,9 @@
 ---
 title: House of the Dragon Season 3 Gets Glitzy London Premiere
-description: >-
-  HBO celebrates House of the Dragon Season 3 with a star-studded London
-  premiere, featuring the full cast ahead of the June 21 debut.
+description: HBO celebrates House of the Dragon Season 3 with a star-studded London premiere, featuring the full cast ahead of the June 21 debut.
 type: standard
-status: review
-publishDate: '2026-06-09'
+status: published
+publishDate: 2026-06-09
 author: Andrew Gray
 tags:
   - Viral
@@ -14,12 +12,8 @@ tags:
   - london premiere
   - season 3
 slug: house-of-the-dragon-season-3-london-premiere
-reviewer_notes: >-
-  This article contains major factual errors (House of the Dragon Season 3
-  doesn't exist and no June 21 debut date), has poor keyword alignment with the
-  site's entertainment focus, and lacks the engaging tone expected for the
-  target audience.
-source_url: 'https://deadline.com/gallery/house-of-the-dragon-world-premiere-photos/'
+reviewer_notes: Approved via review queue.
+source_url: https://deadline.com/gallery/house-of-the-dragon-world-premiere-photos/
 source_item_id: 6a279471eb470600f970535a
 generated_by: claude
 featuredImage: /assets/images/house-of-the-dragon-season-3-london-premiere.webp
@@ -30,15 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 0
   keyword_relevance: 20
-quality_note: >-
-  This article contains major factual errors (House of the Dragon Season 3
-  doesn't exist and no June 21 debut date), has poor keyword alignment with the
-  site's entertainment focus, and lacks the engaging tone expected for the
-  target audience.
+quality_note: This article contains major factual errors (House of the Dragon Season 3 doesn't exist and no June 21 debut date), has poor keyword alignment with the site's entertainment focus, and lacks the engaging tone expected for the target audience.
 reading_time: 3
-image_alt: >-
-  Glamorous London red carpet at night with copper lights and subtle
-  dragon-inspired shadows
+image_alt: Glamorous London red carpet at night with copper lights and subtle dragon-inspired shadows
 ---
 ## Star-Studded London Event Marks Major HBO Milestone
 

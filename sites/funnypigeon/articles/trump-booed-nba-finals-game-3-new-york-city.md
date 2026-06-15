@@ -1,12 +1,9 @@
 ---
 title: Trump Booed at NBA Finals Game 3 in New York City
-description: >-
-  Donald Trump faced loud boos from the Madison Square Garden crowd when shown
-  on the Jumbotron during Game 3 of the 2026 NBA Finals between the Knicks and
-  Spurs.
+description: Donald Trump faced loud boos from the Madison Square Garden crowd when shown on the Jumbotron during Game 3 of the 2026 NBA Finals between the Knicks and Spurs.
 type: standard
-status: review
-publishDate: '2026-06-10'
+status: published
+publishDate: 2026-06-10
 author: Andrew Gray
 tags:
   - viral
@@ -15,12 +12,8 @@ tags:
   - nba
   - celebrity
 slug: trump-booed-nba-finals-game-3-new-york-city
-reviewer_notes: >-
-  Article fabricates future events (2026 NBA Finals) and contains multiple
-  factual inaccuracies, making it completely unreliable despite decent length
-  and some engaging elements.
-source_url: >-
-  https://www.hollywoodreporter.com/news/general-news/donald-trump-booed-nba-finals-new-york-city-1236616951/
+reviewer_notes: Approved via review queue.
+source_url: https://www.hollywoodreporter.com/news/general-news/donald-trump-booed-nba-finals-new-york-city-1236616951/
 source_item_id: 6a279472eb470600f9705362
 generated_by: claude
 featuredImage: /assets/images/funnypigeon-general-article.webp
@@ -31,10 +24,7 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 0
   keyword_relevance: 30
-quality_note: >-
-  Article fabricates future events (2026 NBA Finals) and contains multiple
-  factual inaccuracies, making it completely unreliable despite decent length
-  and some engaging elements.
+quality_note: Article fabricates future events (2026 NBA Finals) and contains multiple factual inaccuracies, making it completely unreliable despite decent length and some engaging elements.
 reading_time: 3
 ---
 ## Trump Draws Crowd's Ire at Historic Knicks Game
