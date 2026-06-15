@@ -5,7 +5,6 @@ author: Maya Gray
 groups:
   - atl
 active: true
-bundle_id: 6a12d73a16f23264031d7a4f
 brief:
   audiences:
     - Technology & Computing enthusiasts
@@ -32,11 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Technology & Computing
   vertical_id: 6a00793d1104bbff809b7c77
-  category_ids:
-    - 6a00793d1104bbff809b7c77
-    - 6a00793f1104bbff809b7f57
-    - 6a00793f1104bbff809b7f63
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -47,6 +41,98 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Technology, innovation, and digital trends** — insights into
+    artificial intelligence, tech culture, modern finance, and advancements in
+    science and engineering."
+  topics_v2:
+    - name: Finance
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c20
+          - 6a00793f1104bbff809b7f13
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6a008e372a0a294c696af86c
+          - 6a008e372a0a294c696af86a
+          - 6a0155762a0a294c696af91b
+          - 6a008eb82a0a294c696af8c1
+          - 6a00908f2a0a294c696af8ce
+          - 6a008e932a0a294c696af8a1
+          - 6a033f7086fcaaeb5bc833cd
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Ideas
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f57
+          - 6a00793d1104bbff809b7c68
+          - 6a00793d1104bbff809b7c20
+          - 6a00793d1104bbff809b7c44
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a007aebe9d30be04c0c6008
+          - 6a008e842a0a294c696af893
+          - 6a14319d16f23264031d7fc4
+          - 6a033a9c86fcaaeb5bc8331f
+          - 6a1e77649bf3ecf115d984e5
+          - 6a033ab186fcaaeb5bc83334
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Innovation
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f57
+          - 6a00793f1104bbff809b7f5b
+        tag_ids:
+          - 6a007aebe9d30be04c0c6008
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a033f7086fcaaeb5bc833cd
+          - 6a034b2286fcaaeb5bc83484
+          - 6a14216d16f23264031d7e0d
+          - 6a0bf45f16f23264031d78f7
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Mind
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d77
+        tag_ids:
+          - 6a140c4116f23264031d7cb1
+          - 6a0b1f2ca53fcab94b3649d4
+          - 6a210c6dad9a1dd21ebb679d
+          - 6a1c32029bf3ecf115d98193
+          - 6a205571ad9a1dd21ebb66c1
+          - 6a034d5886fcaaeb5bc834a7
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Tech
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f57
+          - 6a00793f1104bbff809b7f5b
+          - 6a00793f1104bbff809b7f59
+          - 6a00793f1104bbff809b7f6b
+        tag_ids:
+          - 6a007aebe9d30be04c0c6008
+          - 6a008e842a0a294c696af893
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a008e372a0a294c696af86c
+          - 6a008e372a0a294c696af86a
+          - 6a033a9c86fcaaeb5bc8331f
+          - 6a008e932a0a294c696af8a2
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
