@@ -5,7 +5,7 @@ description: >-
   spaces can feel warm and welcoming through thoughtful design choices and
   layered...
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: David Scott
 tags:

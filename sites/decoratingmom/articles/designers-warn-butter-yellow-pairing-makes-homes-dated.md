@@ -4,7 +4,7 @@ description: >-
   Interior designers reveal why butter yellow is trending but warn against
   pairing it with cool grays and blues that can make your space feel outdated.
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: David Scott
 tags:
