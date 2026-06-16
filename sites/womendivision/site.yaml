@@ -21,9 +21,6 @@ brief:
     - Fashion
     - Fitness
     - Lifestyle
-    - Mindfullness
-    - Workout Meals
-    - Yoga
   seo_keywords_focus:
     - Advice
     - Beauty
@@ -48,9 +45,7 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Community service and women's leadership** — neighborhood fundraising
-    events, local volunteer initiatives, community-minded networking, and
-    educational scholarships."
+  theme: "**Community service and women's leadership** — neighborhood fundraising events, local volunteer initiatives, community-minded networking, and educational scholarships."
   topics_v2:
     - name: Advice
       source:
@@ -68,7 +63,7 @@ brief:
           - 6a033ba986fcaaeb5bc83356
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Beauty
       source:
@@ -86,7 +81,8 @@ brief:
           - 6a1409f616f23264031d7c86
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Fashion
       source:
         type: filter
@@ -103,7 +99,8 @@ brief:
           - 6a1e3a8d9bf3ecf115d9821d
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Fitness
       source:
         type: filter
@@ -119,7 +116,8 @@ brief:
           - 6a04439a86fcaaeb5bc83823
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Lifestyle
       source:
         type: filter
@@ -137,54 +135,8 @@ brief:
           - 6a28f5347f78668964f8b2e0
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
-    - name: Mindfullness
-      source:
-        type: filter
-        category_ids:
-          - 6a00793e1104bbff809b7d27
-        tag_ids:
-          - 6a06a2a0febc8d8d1c2ca471
-          - 6a1a727c1e60b3e9a22086dd
-          - 6a04439a86fcaaeb5bc83823
-          - 6a140c1d16f23264031d7ca5
-          - 6a1a72bf1e60b3e9a22086f2
-          - 6a034b0f86fcaaeb5bc83468
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
-    - name: Workout Meals
-      source:
-        type: filter
-        category_ids:
-          - 6a00793e1104bbff809b7d13
-          - 6a00793e1104bbff809b7d27
-        tag_ids:
-          - 6a034d7886fcaaeb5bc834be
-          - 6a034d7286fcaaeb5bc834bb
-          - 6a14214316f23264031d7dc0
-          - 6a152eea16f23264031d81df
-          - 6a034b1f86fcaaeb5bc83479
-          - 6a1409f616f23264031d7c86
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
-    - name: Yoga
-      source:
-        type: filter
-        category_ids:
-          - 6a00793e1104bbff809b7d23
-        tag_ids:
-          - 6a1409cf16f23264031d7c7c
-          - 6a1a72bf1e60b3e9a22086f2
-          - 6a1448a516f23264031d7ffc
-          - 6a04439a86fcaaeb5bc83823
-          - 6a1a727c1e60b3e9a22086dd
-          - 6a23ad1640722bf12ccf989b
-          - 6a07fd844bdae0614e7aaeba
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
 theme:
   base: modern
   colors:
