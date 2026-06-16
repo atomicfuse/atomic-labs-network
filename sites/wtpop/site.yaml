@@ -57,8 +57,8 @@ brief:
           - 6a0451f786fcaaeb5bc83921
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Friday
     - name: Fashion
       source:
         type: filter
@@ -74,7 +74,8 @@ brief:
           - 6a27778eeb470600f9705318
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: Influencers
       source:
         type: filter
@@ -91,7 +92,8 @@ brief:
           - 6a0b34dbac596b621e93564e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: Music
       source:
         type: filter
@@ -112,7 +114,8 @@ brief:
           - 6a14034416f23264031d7c72
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: TV & Movies
       source:
         type: filter
@@ -128,7 +131,8 @@ brief:
           - 6a27799eeb470600f970534e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
 theme:
   base: modern
   colors:
