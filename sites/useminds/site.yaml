@@ -5,7 +5,6 @@ author: Daniel Rivera
 groups:
   - ncg
 active: true
-bundle_id: 6a12d72c16f23264031d7a4e
 brief:
   audiences:
     - Science enthusiasts
@@ -33,7 +32,6 @@ brief:
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
   category_ids:
-    - 6a00793d1104bbff809b7c68
     - 6a00793e1104bbff809b7e25
     - 6a00793e1104bbff809b7e23
     - 6a00793e1104bbff809b7e17
@@ -46,8 +44,19 @@ brief:
       - tuesday
       - wednesday
       - thursday
+      - Thursday
     preferred_time: 10:00
   audience_type_ids: []
+  image_guidelines: []
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  bundle_ids:
+    - 6a12d72c16f23264031d7a4e
 theme:
   base: modern
   colors:
