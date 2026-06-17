@@ -60,7 +60,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Wednesday
+          - Thursday
     - name: Dark History
       source:
         type: filter
@@ -80,7 +80,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Wednesday
+          - Thursday
     - name: Deep Dives
       source:
         type: filter
@@ -99,7 +99,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
+          - Thursday
     - name: Mysteries
       source:
         type: filter
@@ -118,7 +118,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Tuesday
+          - Thursday
     - name: Unsolved Cases
       source:
         type: filter
@@ -137,7 +137,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Wednesday
+          - Thursday
 theme:
   base: modern
   colors:
