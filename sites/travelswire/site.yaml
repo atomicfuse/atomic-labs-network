@@ -57,9 +57,7 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  theme: "**Global travel news and tourism industry updates** — flight routes,
-    airline updates, hospitality trends, destination guides, and travel industry
-    insights."
+  theme: "**Global travel news and tourism industry updates** — flight routes, airline updates, hospitality trends, destination guides, and travel industry insights."
   topics_v2:
     - name: Destination Guides
       source:
@@ -76,8 +74,8 @@ brief:
           - 6a1844a8454e8b9490eacaaf
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Thursday
     - name: Travel Tips
       source:
         type: filter
@@ -94,7 +92,8 @@ brief:
           - 6a1831cc0fc9210eaf31ab2a
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Local Culture
       source:
         type: filter
@@ -116,7 +115,8 @@ brief:
           - 6a20a767ad9a1dd21ebb6723
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Adventure Activities
       source:
         type: filter
@@ -132,7 +132,8 @@ brief:
           - 6a1e3a889bf3ecf115d9821b
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
 theme:
   base: custom
   colors:
