@@ -56,8 +56,8 @@ brief:
           - 6a14495416f23264031d8019
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Nutrition Tips
       source:
         type: filter
@@ -74,7 +74,8 @@ brief:
           - 6a256c9e40722bf12ccf9938
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Special Diets
       source:
         type: filter
@@ -90,7 +91,8 @@ brief:
           - 6a034fdb86fcaaeb5bc83505
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Weight & Wellness
       source:
         type: filter
@@ -106,7 +108,8 @@ brief:
           - 6a07ffaf4bdae0614e7aaf12
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Nutrition Myths
       source:
         type: filter
@@ -121,7 +124,8 @@ brief:
           - 6a205571ad9a1dd21ebb66bf
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
 theme:
   base: modern
   colors:
