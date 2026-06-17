@@ -51,11 +51,7 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  theme: "TravelClearly is a travel-content site centered on fresh travel
-    articles, “must read” destination inspiration, and newsletter-style trip
-    discovery. Strong filters: destination guides, travel tips, itineraries,
-    seasonal getaways, travel deals, safety/advisory updates, hotels, and
-    food/culture travel."
+  theme: "TravelClearly is a travel-content site centered on fresh travel articles, “must read” destination inspiration, and newsletter-style trip discovery. Strong filters: destination guides, travel tips, itineraries, seasonal getaways, travel deals, safety/advisory updates, hotels, and food/culture travel."
   topics_v2:
     - name: Travel
       source:
@@ -76,8 +72,8 @@ brief:
           - 6a18448b454e8b9490eacaa7
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Thursday
     - name: Destinations
       source:
         type: filter
@@ -101,7 +97,8 @@ brief:
           - 6a1844bf454e8b9490eacab5
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Travel Tips
       source:
         type: filter
@@ -116,7 +113,8 @@ brief:
           - 6a1844bf454e8b9490eacab7
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Food & Drink
       source:
         type: filter
@@ -133,7 +131,8 @@ brief:
           - 6a03467486fcaaeb5bc83417
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Lifestyle
       source:
         type: filter
@@ -150,7 +149,8 @@ brief:
           - 6a27778eeb470600f9705318
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
 theme:
   base: modern
   colors:
