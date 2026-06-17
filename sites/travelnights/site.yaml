@@ -40,11 +40,7 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
-  theme: "TravelNights is a travel-news and inspiration site focused on
-    destination trends, trip ideas, seasonal demand, romantic getaways, events,
-    and practical travel context. Strong filters: destinations, travel trends,
-    couples travel, seasonal trips, city events, hotels, food/culture, and
-    travel advisories. "
+  theme: "TravelNights is a travel-news and inspiration site focused on destination trends, trip ideas, seasonal demand, romantic getaways, events, and practical travel context. Strong filters: destinations, travel trends, couples travel, seasonal trips, city events, hotels, food/culture, and travel advisories. "
   topics_v2:
     - name: Culture
       source:
@@ -64,8 +60,8 @@ brief:
           - 6a15318416f23264031d8221
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Thursday
     - name: Destinations
       source:
         type: filter
@@ -88,7 +84,8 @@ brief:
           - 6a0430ce86fcaaeb5bc8363f
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Food
       source:
         type: filter
@@ -104,7 +101,8 @@ brief:
           - 6a184bc4454e8b9490eacb31
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Guides & Tips
       source:
         type: filter
@@ -122,7 +120,8 @@ brief:
           - 6a18322c0fc9210eaf31ab57
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: News
       source:
         type: filter
@@ -141,7 +140,8 @@ brief:
           - 6a1e6ba89bf3ecf115d98416
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
 theme:
   base: modern
   colors:
