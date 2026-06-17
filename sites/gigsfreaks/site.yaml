@@ -59,8 +59,8 @@ brief:
           - 6a008e372a0a294c696af86c
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: LOL
       source:
         type: filter
@@ -73,7 +73,8 @@ brief:
           - 6a237253ad9a1dd21ebb68d5
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Funny Animals
       source:
         type: filter
@@ -89,7 +90,8 @@ brief:
           - 6a044d0086fcaaeb5bc838af
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Internet Mysteries
       source:
         type: filter
@@ -108,7 +110,8 @@ brief:
           - 6a1e773f9bf3ecf115d984c9
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Good Vibes
       source:
         type: filter
@@ -124,7 +127,8 @@ brief:
           - 6a0b350eac596b621e935654
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:
