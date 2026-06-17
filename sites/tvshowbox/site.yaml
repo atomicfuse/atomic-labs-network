@@ -41,11 +41,7 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "TVShowBox is an entertainment-news site focused on streaming releases
-    and TV/movie lineup updates, especially platform-specific additions like
-    Netflix UK. Strong filters: streaming premieres, Netflix updates, new
-    movies, TV shows, documentaries, returning series, genre picks, and monthly
-    watchlists."
+  theme: "TVShowBox is an entertainment-news site focused on streaming releases and TV/movie lineup updates, especially platform-specific additions like Netflix UK. Strong filters: streaming premieres, Netflix updates, new movies, TV shows, documentaries, returning series, genre picks, and monthly watchlists."
   topics_v2:
     - name: TV News
       source:
@@ -62,8 +58,8 @@ brief:
           - 6a15315b16f23264031d821b
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Thursday
     - name: Reviews
       source:
         type: filter
@@ -81,7 +77,8 @@ brief:
           - 6a277543eb470600f97052f3
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Streaming
       source:
         type: filter
@@ -100,7 +97,8 @@ brief:
           - 6a23b1d340722bf12ccf98d6
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Recommendations
       source:
         type: filter
@@ -118,7 +116,8 @@ brief:
           - 6a044ccf86fcaaeb5bc8387c
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Celebrity News
       source:
         type: filter
@@ -135,7 +134,8 @@ brief:
           - 6a04355f86fcaaeb5bc836c1
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
 theme:
   base: modern
   colors:
