@@ -41,10 +41,7 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
-  theme: PopNSnap is a pop culture and entertainment outlet focusing on the
-    intersection of celebrities, fashion, influencers, music, and
-    television/movies. Its content blends trending celebrity news, red-carpet
-    style evolutions, and deep dives into current TV, movie, and music releases.
+  theme: PopNSnap is a pop culture and entertainment outlet focusing on the intersection of celebrities, fashion, influencers, music, and television/movies. Its content blends trending celebrity news, red-carpet style evolutions, and deep dives into current TV, movie, and music releases.
   topics_v2:
     - name: Celebrities
       source:
@@ -63,8 +60,8 @@ brief:
           - 6a0be66c16f23264031d7858
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: Fashion
       source:
         type: filter
@@ -81,7 +78,8 @@ brief:
           - 6a2777b1eb470600f9705327
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Influencers
       source:
         type: filter
@@ -98,7 +96,8 @@ brief:
           - 6a277527eb470600f97052ea
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Music
       source:
         type: filter
@@ -132,7 +131,8 @@ brief:
           - 6a1e3ab69bf3ecf115d98230
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: TV & Movies
       source:
         type: filter
@@ -148,7 +148,8 @@ brief:
           - 6a14005916f23264031d7c2b
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:
