@@ -61,8 +61,8 @@ brief:
           - 6a27a8a1eb470600f97054ca
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: Mindfulness
       source:
         type: filter
@@ -80,7 +80,8 @@ brief:
           - 6a034b4586fcaaeb5bc834a2
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Nutrition
       source:
         type: filter
@@ -97,7 +98,8 @@ brief:
           - 6a142fad16f23264031d7fb6
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Personal Growth
       source:
         type: filter
@@ -115,7 +117,8 @@ brief:
           - 6a142fa016f23264031d7faf
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Wellness
       source:
         type: filter
@@ -131,7 +134,8 @@ brief:
           - 6a044aaf86fcaaeb5bc8386a
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:
