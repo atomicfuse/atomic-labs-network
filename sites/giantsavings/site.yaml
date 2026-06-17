@@ -40,8 +40,7 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
-  theme: "**Smart shopping and frugal living** — budget tips, discount codes,
-    retail sales, and personal finance hacks to maximize savings."
+  theme: "**Smart shopping and frugal living** — budget tips, discount codes, retail sales, and personal finance hacks to maximize savings."
   topics_v2:
     - name: Saving Tips
       source:
@@ -59,8 +58,8 @@ brief:
           - 6a033f4986fcaaeb5bc8339c
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Budgeting
       source:
         type: filter
@@ -76,7 +75,8 @@ brief:
           - 6a033f4986fcaaeb5bc8339c
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Grocery Savings
       source:
         type: filter
@@ -91,7 +91,8 @@ brief:
           - 6a1919f41e60b3e9a2208636
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Bills & Utilities
       source:
         type: filter
@@ -107,7 +108,8 @@ brief:
           - 6a00908f2a0a294c696af8ce
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Smart Shopping
       source:
         type: filter
@@ -125,7 +127,8 @@ brief:
           - 6a14486216f23264031d7fe9
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
 theme:
   base: modern
   colors:
