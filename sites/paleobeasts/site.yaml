@@ -49,8 +49,7 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  theme: "**Prehistoric life and paleontology** — dinosaur discoveries, ancient
-    fossils, evolutionary biology, and prehistoric wildlife reconstructions."
+  theme: "**Prehistoric life and paleontology** — dinosaur discoveries, ancient fossils, evolutionary biology, and prehistoric wildlife reconstructions."
   topics_v2:
     - name: Paleo Diet
       source:
@@ -66,8 +65,8 @@ brief:
           - 6a152f0216f23264031d81ee
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: Recipes
       source:
         type: filter
@@ -82,7 +81,8 @@ brief:
           - 6a0348a886fcaaeb5bc83437
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Meal Plans
       source:
         type: filter
@@ -99,7 +99,8 @@ brief:
           - 6a14214316f23264031d7dc0
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Nutrition
       source:
         type: filter
@@ -118,7 +119,8 @@ brief:
           - 6a256cb040722bf12ccf9945
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Healthy Snacks
       source:
         type: filter
@@ -133,7 +135,8 @@ brief:
           - 6a2a46e27da23de6325b9ab0
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:
