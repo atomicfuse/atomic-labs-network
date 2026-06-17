@@ -42,11 +42,7 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: TravelBeautyTips.com appears to fit a lifestyle niche combining travel
-    advice with beauty, skincare, packing hacks, and “look good on the go”
-    routines. Best topic filters would emphasize travel beauty hacks, vacation
-    skincare, makeup packing, hair care, sunscreen, flight prep, and
-    destination-ready wellness.
+  theme: TravelBeautyTips.com appears to fit a lifestyle niche combining travel advice with beauty, skincare, packing hacks, and “look good on the go” routines. Best topic filters would emphasize travel beauty hacks, vacation skincare, makeup packing, hair care, sunscreen, flight prep, and destination-ready wellness.
   topics_v2:
     - name: Travel Tips
       source:
@@ -62,8 +58,8 @@ brief:
           - 6a18320b0fc9210eaf31ab45
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Thursday
     - name: Beauty Tips
       source:
         type: filter
@@ -81,7 +77,8 @@ brief:
           - 6a0bca0116f23264031d77cc
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Destinations
       source:
         type: filter
@@ -97,7 +94,8 @@ brief:
           - 6a1831fb0fc9210eaf31ab42
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Packing Guides
       source:
         type: filter
@@ -115,7 +113,8 @@ brief:
           - 6a1832100fc9210eaf31ab4a
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Lifestyle
       source:
         type: filter
@@ -134,7 +133,8 @@ brief:
           - 6a044f3986fcaaeb5bc838c4
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
 theme:
   base: modern
   colors:
