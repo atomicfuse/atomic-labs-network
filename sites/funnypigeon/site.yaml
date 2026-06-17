@@ -40,9 +40,7 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
-  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday
-    cards, photo uploads, personalized mugs, flowers, and seasonal celebration
-    gifts."
+  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday cards, photo uploads, personalized mugs, flowers, and seasonal celebration gifts."
   topics_v2:
     - name: Funny Videos
       source:
@@ -59,8 +57,8 @@ brief:
           - 6a2256b0ad9a1dd21ebb6850
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Memes
       source:
         type: filter
@@ -75,7 +73,8 @@ brief:
           - 6a2256b0ad9a1dd21ebb6850
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Viral
       source:
         type: filter
@@ -91,7 +90,8 @@ brief:
           - 6a0430f786fcaaeb5bc83651
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Animals
       source:
         type: filter
@@ -108,7 +108,8 @@ brief:
           - 6a044f4986fcaaeb5bc838d3
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Odd News
       source:
         type: filter
@@ -123,7 +124,8 @@ brief:
           - 6a27a3c3eb470600f9705418
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
 theme:
   base: modern
   colors:
