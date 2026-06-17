@@ -57,8 +57,8 @@ brief:
           - 6a1925b71e60b3e9a22086a5
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Reviews
       source:
         type: filter
@@ -74,7 +74,8 @@ brief:
           - 6a0b3518ac596b621e935657
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Gameplay
       source:
         type: filter
@@ -89,7 +90,8 @@ brief:
           - 6a226046ad9a1dd21ebb68b4
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: PC Games
       source:
         type: filter
@@ -104,7 +106,8 @@ brief:
           - 6a142a9016f23264031d7f13
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Console Games
       source:
         type: filter
@@ -119,7 +122,8 @@ brief:
           - 6a1925b71e60b3e9a22086a5
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
 theme:
   base: modern
   colors:
