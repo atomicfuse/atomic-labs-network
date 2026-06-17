@@ -40,10 +40,7 @@ brief:
       - wednesday
       - thursday
     preferred_time: 10:00
-  theme: "Muvizz is an entertainment-news site focused on movies and TV, with
-    sections for breaking news, reviews, trailers, and TV shows. Strong filters:
-    movie news, box office, reviews, trailers, TV updates, streaming releases,
-    franchises, actors, and entertainment trends."
+  theme: "Muvizz is an entertainment-news site focused on movies and TV, with sections for breaking news, reviews, trailers, and TV shows. Strong filters: movie news, box office, reviews, trailers, TV updates, streaming releases, franchises, actors, and entertainment trends."
   topics_v2:
     - name: Breaking News
       source:
@@ -56,8 +53,8 @@ brief:
           - 6a04545286fcaaeb5bc8394b
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: Movies
       source:
         type: filter
@@ -72,7 +69,8 @@ brief:
           - 6a0b350eac596b621e935655
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Reviews
       source:
         type: filter
@@ -89,7 +87,8 @@ brief:
           - 6a044ccf86fcaaeb5bc83875
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Trailers
       source:
         type: filter
@@ -105,7 +104,8 @@ brief:
           - 6a277527eb470600f97052ea
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: TV Shows
       source:
         type: filter
@@ -120,7 +120,8 @@ brief:
           - 6a1520cf16f23264031d8149
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:
