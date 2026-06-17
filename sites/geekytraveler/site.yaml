@@ -17,11 +17,7 @@ brief:
     - Travel Tips
     - Local Culture
     - Adventure Activities
-  theme: A travel site for the curious and detail-obsessed — destinations through
-    the lens of history, science, architecture, and hidden knowledge. Not "best
-    beaches" but "why this city was built here," "what this ruins actually was,"
-    and "the engineering behind this bridge." Readers are travelers who want to
-    understand a place, not just visit it.
+  theme: A travel site for the curious and detail-obsessed — destinations through the lens of history, science, architecture, and hidden knowledge. Not "best beaches" but "why this city was built here," "what this ruins actually was," and "the engineering behind this bridge." Readers are travelers who want to understand a place, not just visit it.
   topics_v2:
     - name: Destination Guides
       source:
@@ -41,8 +37,8 @@ brief:
           - 6a140ea316f23264031d7d05
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Travel Tips
       source:
         type: filter
@@ -57,7 +53,8 @@ brief:
           - 6a18343a0fc9210eaf31ab6e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Local Culture
       source:
         type: filter
@@ -73,7 +70,8 @@ brief:
           - 6a17dfc68c60bc3c84eb2e0d
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Adventure Activities
       source:
         type: filter
@@ -87,22 +85,20 @@ brief:
           - 6a0fe1b316f23264031d7a33
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
   seo_keywords_focus: []
   content_guidelines:
     - shortly describe site theme for GeekyTraveler.com
     - 23:09
-    - A travel site for the curious and detail-obsessed — destinations through
-      the lens of history, science, architecture, and hidden knowledge. Not
-      "best beaches" but "why this city was built here," "what this ruins
-      actually was," and "the engineering behind this bridge." Readers are
-      travelers who want to understand a place, not just visit it.
+    - A travel site for the curious and detail-obsessed — destinations through the lens of history, science, architecture, and hidden knowledge. Not "best beaches" but "why this city was built here," "what this ruins actually was," and "the engineering behind this bridge." Readers are travelers who want to understand a place, not just visit it.
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   review_percentage: 5
   schedule:
     articles_per_day: 1
-    preferred_days: *a1
+    preferred_days:
+      - Monday
     preferred_time: 10:00
 theme:
   base: tokyo_night
