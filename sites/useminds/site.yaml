@@ -31,11 +31,6 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Science
   vertical_id: 6a00793d1104bbff809b7c68
-  category_ids:
-    - 6a00793e1104bbff809b7e25
-    - 6a00793e1104bbff809b7e23
-    - 6a00793e1104bbff809b7e17
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -55,8 +50,100 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  bundle_ids:
-    - 6a12d72c16f23264031d7a4e
+  theme: Science, history, and natural phenomena — space exploration, ancient
+    civilizations, human curiosity, and groundbreaking scientific discoveries.
+  topics_v2:
+    - name: Conspiracy Theories
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793d1104bbff809b7c6b
+          - 6a00793d1104bbff809b7c5c
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a237248ad9a1dd21ebb68d1
+          - 6a205571ad9a1dd21ebb66bf
+          - 6a1448e216f23264031d800c
+          - 6a1448e216f23264031d800b
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Hidden History
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7cc1
+          - 6a00793e1104bbff809b7e1f
+        tag_ids:
+          - 6a17dfc68c60bc3c84eb2e0d
+          - 6a14158a16f23264031d7d4b
+          - 6a27a3c3eb470600f9705416
+          - 6a201961ad9a1dd21ebb6620
+          - 6a152ed716f23264031d81d4
+          - 6a1448e216f23264031d800c
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Human Curiosity
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e1d
+        tag_ids:
+          - 6a152eb116f23264031d81c1
+          - 6a27a3c3eb470600f9705416
+          - 6a17dfc68c60bc3c84eb2e0d
+          - 6a201961ad9a1dd21ebb6620
+          - 6a03384b86fcaaeb5bc832de
+          - 6a1fbae0ad9a1dd21ebb661e
+          - 6a205571ad9a1dd21ebb66c0
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Mind-Blowing Science
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e23
+        tag_ids:
+          - 6a152efb16f23264031d81e4
+          - 6a27a3d1eb470600f9705430
+          - 6a27b1dbeb470600f970552c
+          - 6a27a3c3eb470600f9705416
+          - 6a17dfc68c60bc3c84eb2e0d
+          - 6a27a3c5eb470600f970541d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Space & The Unknown
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e25
+        tag_ids:
+          - 6a152eb116f23264031d81c1
+          - 6a27a3d1eb470600f970542e
+          - 6a27b1c3eb470600f9705524
+          - 6a27a3c5eb470600f970541d
+          - 6a27a3d1eb470600f970542c
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
 theme:
   base: modern
   colors:
