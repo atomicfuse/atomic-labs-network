@@ -41,9 +41,7 @@ brief:
       - thursday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Technology, innovation, and digital trends** — insights into
-    artificial intelligence, tech culture, modern finance, and advancements in
-    science and engineering."
+  theme: "**Technology, innovation, and digital trends** — insights into artificial intelligence, tech culture, modern finance, and advancements in science and engineering."
   topics_v2:
     - name: Finance
       source:
@@ -62,8 +60,8 @@ brief:
           - 6a033f7086fcaaeb5bc833cd
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: Ideas
       source:
         type: filter
@@ -82,7 +80,8 @@ brief:
           - 6a033ab186fcaaeb5bc83334
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Innovation
       source:
         type: filter
@@ -98,7 +97,8 @@ brief:
           - 6a0bf45f16f23264031d78f7
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Mind
       source:
         type: filter
@@ -113,7 +113,8 @@ brief:
           - 6a034d5886fcaaeb5bc834a7
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Tech
       source:
         type: filter
@@ -132,7 +133,8 @@ brief:
           - 6a008e932a0a294c696af8a2
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:
