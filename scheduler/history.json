@@ -1,5 +1,312 @@
 [
   {
+    "timestamp": "2026-06-18T06:03:09.439Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "buzzsoaps",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "tvshowsmag",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "useminds",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "muvizz",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "medicalnewscorner",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "travelbeautytips",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "carsnewsmag",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "giantsavings",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "journeypeaks",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "womendivision",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "sciencenewslab",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "wtpop",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "tvshowbox",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "stroylab",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "geekystudios",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "paleobeasts",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "coffeeactually",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "mindsbit",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "funnypigeon",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "decoratingmom",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "fashionnewsbee",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "popnsnap",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "gigsfreaks",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "eznutritiontips",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "travelclearly",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "aliensrus",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 1
+      },
+      {
+        "domain": "soccernewsreports",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "babyparenttrends",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "gadgetskoala",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "travelnights",
+        "status": "partial",
+        "articlesCreated": 1,
+        "articlesRequested": 2,
+        "message": "1 article(s) failed"
+      },
+      {
+        "domain": "mindmedications",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "chaibeseret",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 1,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "foreverhealty",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "medicalnewsalley",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "gamingnewsalley",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "yogaterritory",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      },
+      {
+        "domain": "travelingfoodie2",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 1
+      },
+      {
+        "domain": "carsnewsinformer",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "Aggregator returned 0 items for this site's topics"
+      }
+    ],
+    "skipped": [
+      {
+        "domain": "travelswire",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "wineoceans",
+        "reason": "not a preferred day (Monday, Wednesday)"
+      },
+      {
+        "domain": "dogslabs",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "decoratinglabs",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "decotricksworld",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "gamerswiredaily",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "diydecorschool",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "dramadispatch",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "geekytraveler",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "thewonderkeepers",
+        "reason": "not a preferred day (Monday)"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-06-15T06:12:13.057Z",
     "timezone": "EST",
     "forced": false,
