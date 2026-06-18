@@ -175,8 +175,8 @@ theme:
     hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(22,163,74,0.15) 50%, rgba(2,6,23,0.92) 100%)
   logo_height: 58
   fonts:
-    heading: Space Grotesk
-    body: Source Sans 3
+    heading: Manrope
+    body: Manrope
   logo_height_footer: 78
   logo: /assets/logo.png
   favicon: /assets/favicon.png
