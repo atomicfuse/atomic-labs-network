@@ -19,7 +19,7 @@ source_url: >-
   https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ21GdklqUmQ3T0RvTUtzX0h3ZDFuaWI0SnA3UGdhUGJnRjY0X0F0VGVJVWVqVmQ5eHBLZUVxRVpXVlBOLXBPcGlhVEwzUUR4S2Q4ZUs3Ti1jc01ueWhwUGQyTFdEYjhQUjJGSTBSaUNibWZWM0F2b2ZvTmw5QllKOU5jWmI3Q1dvRHQ1RHkwc3ZSN20tMGtfTUpVYW1IcmZPUE5SWkFkNDFJQ3IwUFk4ZC1uY3c?oc=5
 source_item_id: 6a33b8c132676a5c75e455e8
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/fifa-fan-festival-atlanta-tips.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Latest News
+image_alt: Soccer fans arrive at a busy outdoor festival entrance in downtown Atlanta.
 ---
 ## TL;DR
 Planning to attend the FIFA Fan Festival in Atlanta? Here are five essential tips to make your experience enjoyable and hassle-free!
