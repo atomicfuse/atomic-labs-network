@@ -18,7 +18,7 @@ source_url: >-
   https://www.aljazeera.com/sports/2026/6/18/world-cup-predictions-mexico-vs-south-korea-canada-vs-qatar-and-more
 source_item_id: 6a33baff32676a5c75e45614
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/world-cup-2026-preview-mexico-canada.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Latest News
+image_alt: >-
+  Mexican and Canadian supporters watch a World Cup stadium pitch with
+  anticipation
 ---
 ## TL;DR
 Day 8 of the FIFA World Cup 2026 features Mexico facing South Korea and Canada taking on Qatar. With exciting predictions and storylines, fans are set for thrilling matchups!
