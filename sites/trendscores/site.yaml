@@ -178,6 +178,8 @@ theme:
     heading: Space Grotesk
     body: Source Sans 3
   logo_height_footer: 78
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
 layout:
   hero:
     enabled: true
