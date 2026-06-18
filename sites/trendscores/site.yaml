@@ -126,13 +126,15 @@ brief:
           - Sunday
   seo_keywords_focus: []
   content_guidelines: []
-  vertical: Funny Fails
+  vertical: Sports
   review_percentage: 5
   schedule:
     articles_per_day: 1
     preferred_days:
       - Friday
     preferred_time: 10:00
+  audience_type_ids: []
+  vertical_id: 6a00793d1104bbff809b7c71
 theme:
   base: botanical
   colors:
@@ -171,12 +173,11 @@ theme:
     footer_bg_gradient: "linear-gradient(90deg, #020617 0%, #064e3b 50%, #020617 100%)"
     must_reads_bg_gradient: "linear-gradient(135deg, #020617 0%, #14532d 50%, #020617 100%)"
     hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(22,163,74,0.15) 50%, rgba(2,6,23,0.92) 100%)
-  logo_height: 52
+  logo_height: 58
   fonts:
     heading: Space Grotesk
     body: Source Sans 3
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
+  logo_height_footer: 78
 layout:
   hero:
     enabled: true
