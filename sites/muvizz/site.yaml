@@ -86,6 +86,9 @@ brief:
           - 6a0bca2816f23264031d77dc
           - 6a044ccf86fcaaeb5bc83875
           - 6a2f979332676a5c75e4516a
+          - 6a37c8cbcbbe345bde1163c0
+          - 6a0be63d16f23264031d7835
+          - 6a37ca10cbbe345bde1163ed
       schedule:
         articles_per_week: 1
         preferred_days:
