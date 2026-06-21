@@ -95,11 +95,11 @@ brief:
         type: filter
         category_ids: []
         tag_ids:
-          - 6a0be65716f23264031d7849
           - 6a13fe5e16f23264031d7c1e
-          - 6a14285116f23264031d7edd
-          - 6a0bc7cc16f23264031d7797
           - 6a0bc5e616f23264031d7780
+          - 6a0be65716f23264031d7849
+          - 6a0bc7cc16f23264031d7797
+          - 6a14285116f23264031d7edd
           - 6a14488116f23264031d7fed
       schedule:
         articles_per_week: 1
