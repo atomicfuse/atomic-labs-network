@@ -15,7 +15,7 @@ tags:
   - Island Travel
 slug: why-santorini-is-greece-most-breathtaking-destination
 reviewer_notes: ''
-featuredImage: /assets/images/journeypeaks-general-article.webp
+featuredImage: /assets/images/why-santorini-is-greece-most-breathtaking-destination.webp
 generated_by: claude-dedicated
 quality_score: 93
 score_breakdown:
@@ -30,6 +30,9 @@ quality_note: >-
   relevant keywords and accurate details about Santorini, with only minor room
   to strengthen meta description length and deepen SEO heading structure.
 reading_time: 4
+image_alt: >-
+  Whitewashed Santorini lane overlooking the caldera and Aegean Sea at golden
+  sunset
 ---
 There are beautiful places in the world, and then there is Santorini. Perched dramatically on the edge of a volcanic caldera in the southern Aegean Sea, this crescent-shaped island has a way of stopping people mid-sentence. You've seen the photographs — the whitewashed buildings, the blue-domed churches, the impossible sunsets — but nothing truly prepares you for experiencing it in person. Greece is full of stunning islands, but Santorini holds a category all its own.
 
