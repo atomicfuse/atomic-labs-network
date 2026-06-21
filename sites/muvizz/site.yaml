@@ -85,6 +85,7 @@ brief:
           - 6a0be65716f23264031d7847
           - 6a0bca2816f23264031d77dc
           - 6a044ccf86fcaaeb5bc83875
+          - 6a2f979332676a5c75e4516a
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -92,16 +93,14 @@ brief:
     - name: Trailers
       source:
         type: filter
-        category_ids:
-          - 6a0079401104bbff809b7fd9
-          - 6a00793d1104bbff809b7c32
+        category_ids: []
         tag_ids:
-          - 6a0b34f3ac596b621e935650
-          - 6a0be65716f23264031d7847
+          - 6a0be65716f23264031d7849
+          - 6a13fe5e16f23264031d7c1e
           - 6a14285116f23264031d7edd
-          - 6a1520a716f23264031d8139
-          - 6a0be8d816f23264031d789e
-          - 6a277527eb470600f97052ea
+          - 6a0bc7cc16f23264031d7797
+          - 6a0bc5e616f23264031d7780
+          - 6a14488116f23264031d7fed
       schedule:
         articles_per_week: 1
         preferred_days:
