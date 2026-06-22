@@ -29,7 +29,7 @@ quality_note: Article provides a clear, SEO-friendly entertainment news format w
 image_alt: Olivia Rodrigo performing on stage under dramatic purple concert lights
 ---
 
-## Olivia Rodrigo's Third Album Is Already Dividing the Conversation — In the Best Way
+## Olivia Rodrigo's Third Album Is Already Dividing the Conversation In the Best Way
 
 Olivia Rodrigo has released her third studio album, you seem pretty sad for a girl so in love, and the reaction has been immediate, emotional, and intense. The album, released June 12, 2026, arrives after the massive success of SOUR in 2021 and GUTS in 2023, two records that helped define Rodrigo as one of the most important young voices in pop.
 
