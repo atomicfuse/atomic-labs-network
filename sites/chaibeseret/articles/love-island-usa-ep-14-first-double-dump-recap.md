@@ -19,7 +19,7 @@ source_url: >-
   https://www.vulture.com/article/love-island-usa-recap-season-8-episode-14-peacock.html
 source_item_id: 6a36255acbbe345bde116348
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/love-island-usa-ep-14-first-double-dump-recap.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 78
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
+image_alt: >-
+  Two suitcases sit by a glowing villa fire pit as silhouetted islanders watch
+  under stormy dusk skies.
 ---
 ## The Calm Before the Storm
 
