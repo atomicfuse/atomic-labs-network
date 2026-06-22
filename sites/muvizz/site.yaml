@@ -1,10 +1,6 @@
-domain: muvizz.com
-site_name: muvizz
-site_tagline: null
-author: Julia Parker
-groups:
-  - ncg
+domain: muvizz
 active: true
+author: Julia Parker
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -72,23 +68,15 @@ brief:
         preferred_days:
           - Wednesday
     - name: Reviews
+      description: movies and tv shows reviews
       source:
         type: filter
-        category_ids:
-          - 6a0079401104bbff809b7fdb
-          - 6a0079401104bbff809b7fd9
+        category_ids: []
         tag_ids:
-          - 6a13fe5e16f23264031d7c1e
-          - 6a1e3a539bf3ecf115d98206
-          - 6a04334f86fcaaeb5bc836ab
-          - 6a277543eb470600f97052f7
-          - 6a0be65716f23264031d7847
-          - 6a0bca2816f23264031d77dc
-          - 6a044ccf86fcaaeb5bc83875
           - 6a2f979332676a5c75e4516a
-          - 6a37c8cbcbbe345bde1163c0
           - 6a0be63d16f23264031d7835
           - 6a37ca10cbbe345bde1163ed
+          - 6a37c8cbcbbe345bde1163c0
       schedule:
         articles_per_week: 1
         preferred_days:
@@ -124,6 +112,28 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Wednesday
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: muvizz
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -164,24 +174,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 80
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-7FGH9H2QXM
   gtm: GT-5TGB9H3S
