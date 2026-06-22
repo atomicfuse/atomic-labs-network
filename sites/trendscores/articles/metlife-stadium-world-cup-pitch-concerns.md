@@ -36,8 +36,8 @@ reading_time: 3
 topics:
   - Latest News
 image_alt: >-
-  Lone footballer stands on a wide stadium pitch with visible grass seams and
-  white field markings.
+  Soccer player inspects worn stadium turf under floodlights before a major
+  tournament
 ---
 ## TL;DR
 France's coach Didier Deschamps has raised concerns about the MetLife Stadium pitch, calling it "really tough" on players' muscles. With the 2026 World Cup fast approaching, these issues highlight the need for an optimal playing surface for elite athletes.

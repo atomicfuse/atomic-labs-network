@@ -1,9 +1,6 @@
-domain: trendscores.com
-site_name: trendscores
-site_tagline: null
-author: Nathan Foster
-groups: []
+domain: trendscores
 active: true
+author: Nathan Foster
 brief:
   audiences: []
   tone: ""
@@ -36,8 +33,6 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
-          - Thursday
           - Sunday
     - name: Matches
       description: fifa world cup 2026 matches and games
@@ -54,7 +49,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Saturday
+          - Sunday
     - name: Teams
       description: world cup 2026 teams
       source:
@@ -86,8 +81,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
-          - Thursday
+          - Sunday
     - name: Host Cities
       source:
         type: filter
@@ -105,7 +99,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Saturday
+          - Sunday
     - name: Fan Zone
       source:
         type: filter
@@ -122,7 +116,6 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Wednesday
           - Sunday
   seo_keywords_focus: []
   content_guidelines: []
@@ -135,6 +128,27 @@ brief:
     preferred_time: 10:00
   audience_type_ids: []
   vertical_id: 6a00793d1104bbff809b7c71
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: trendscores
+site_tagline: null
 theme:
   base: botanical
   colors:
@@ -180,21 +194,3 @@ theme:
   logo_height_footer: 78
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
