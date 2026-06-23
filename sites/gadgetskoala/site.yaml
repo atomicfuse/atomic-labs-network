@@ -34,10 +34,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
   theme: "**Tech discoveries and smart lifestyle gadgets** — smartphone reviews, home automation devices, wearable technology, and innovative consumer electronics."
