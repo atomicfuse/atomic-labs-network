@@ -5,7 +5,6 @@ targets:
   groups: []
   sites:
     - travelswire
-    - funnypigeon
 tracking:
   ga4: null
   gtm: null
