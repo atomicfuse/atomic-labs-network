@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
   theme: "ScienceNewsLab covers accessible, curiosity-driven science news across space, nature, physics, technology, and the environment, with a focus on recent discoveries and surprising research findings. Its tone is broad-interest and discovery-led rather than deeply technical. "
