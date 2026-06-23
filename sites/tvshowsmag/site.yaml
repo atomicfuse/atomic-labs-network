@@ -35,16 +35,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "TVShowsMag is a TV-entertainment site for series fans, focused on show
-    news, reviews, episode guides, and updates around popular television. Strong
-    filters: TV news, episode recaps, streaming releases, reviews, show
-    recommendations, cast updates, and season/renewal news."
+  theme: "TVShowsMag is a TV-entertainment site for series fans, focused on show news, reviews, episode guides, and updates around popular television. Strong filters: TV news, episode recaps, streaming releases, reviews, show recommendations, cast updates, and season/renewal news."
   topics_v2:
     - name: TV News
       source:
