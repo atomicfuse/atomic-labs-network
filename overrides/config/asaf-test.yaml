@@ -1,6 +1,6 @@
 override_id: asaf-test
 name: asaf-ads-test
-priority: 1
+priority: 2
 targets:
   groups: []
   sites: []
