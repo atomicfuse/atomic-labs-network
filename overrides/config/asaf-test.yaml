@@ -12,3 +12,6 @@ scripts:
 scripts_vars: {}
 ads_config: {}
 ads_txt: []
+activation:
+  query_param: asaf
+  query_value: "22"
