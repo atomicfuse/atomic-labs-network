@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
   theme: "YogaTerritory is a yoga and wellness site focused on accessible practice guides, pose routines, mindfulness, stress relief, women’s wellness, and beginner-to-intermediate flows. Strong filters: yoga poses, beginner yoga, mindfulness, relaxation, breathwork, flexibility, women’s yoga, lifestyle wellness, and home routines."
