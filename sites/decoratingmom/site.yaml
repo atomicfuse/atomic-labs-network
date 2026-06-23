@@ -35,15 +35,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Home decor and family-friendly interior design** — interior styling,
-    DIY home improvement projects, seasonal decorating, and practical,
-    family-oriented space organization."
+  theme: "**Home decor and family-friendly interior design** — interior styling, DIY home improvement projects, seasonal decorating, and practical, family-oriented space organization."
   topics_v2:
     - name: Decor Ideas
       source:
