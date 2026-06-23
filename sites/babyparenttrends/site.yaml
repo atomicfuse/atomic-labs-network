@@ -35,14 +35,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Modern parenting and early childhood development** — baby gear
-    reviews, child psychology, parenting styles, and family lifestyle trends."
+  theme: "**Modern parenting and early childhood development** — baby gear reviews, child psychology, parenting styles, and family lifestyle trends."
   topics_v2:
     - name: Parenting
       source:
