@@ -33,10 +33,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   theme: pop culture, buzz and everything that is trendy
   topics_v2:
