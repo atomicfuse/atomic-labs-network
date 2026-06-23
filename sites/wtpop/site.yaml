@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   theme: "a pop-culture/entertainment site, but I couldn’t verify indexed content for that exact domain; search results mostly surfaced WTOP, a Washington D.C. news site, which may be unrelated. Best provisional filters: celebrity news, viral culture, music, TV, movies, social media trends, and entertainment explainers."
   topics_v2:
