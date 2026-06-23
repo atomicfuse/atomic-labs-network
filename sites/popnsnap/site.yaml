@@ -31,10 +31,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   theme: PopNSnap is a pop culture and entertainment outlet focusing on the intersection of celebrities, fashion, influencers, music, and television/movies. Its content blends trending celebrity news, red-carpet style evolutions, and deep dives into current TV, movie, and music releases.
   topics_v2:
