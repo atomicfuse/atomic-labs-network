@@ -1,5 +1,309 @@
 [
   {
+    "timestamp": "2026-06-23T06:03:37.534Z",
+    "timezone": "EST",
+    "forced": false,
+    "sites": [
+      {
+        "domain": "travelnights",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "buzzsoaps",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "funnypigeon",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "mindmedications",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "sciencenewslab",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "wtpop",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "journeypeaks",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "soccernewsreports",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "medicalnewsalley",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "gamingnewsalley",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "mindsbit",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "carsnewsmag",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "womendivision",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "coffeeactually",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "paleobeasts",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "medicalnewscorner",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "eznutritiontips",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "gigsfreaks",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "useminds",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "tvshowbox",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "babyparenttrends",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "decoratingmom",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "yogaterritory",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "stroylab",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "travelclearly",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "popnsnap",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "foreverhealty",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "tvshowsmag",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "carsnewsinformer",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "aliensrus",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 1
+      },
+      {
+        "domain": "travelbeautytips",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      },
+      {
+        "domain": "fashionnewsbee",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "gadgetskoala",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "giantsavings",
+        "status": "success",
+        "articlesCreated": 1,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "geekystudios",
+        "status": "success",
+        "articlesCreated": 2,
+        "articlesRequested": 2
+      },
+      {
+        "domain": "muvizz",
+        "status": "no_content",
+        "articlesCreated": 0,
+        "articlesRequested": 2,
+        "message": "No topics eligible to run today (check per-topic preferred_days)"
+      }
+    ],
+    "skipped": [
+      {
+        "domain": "chaibeseret",
+        "reason": "not a preferred day (Monday, Thursday)"
+      },
+      {
+        "domain": "travelswire",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "wineoceans",
+        "reason": "not a preferred day (Monday, Wednesday)"
+      },
+      {
+        "domain": "travelingfoodie2",
+        "reason": "not a preferred day (Thursday)"
+      },
+      {
+        "domain": "dogslabs",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "decoratinglabs",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "decotricksworld",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "gamerswiredaily",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "diydecorschool",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "dramadispatch",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "geekytraveler",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "thewonderkeepers",
+        "reason": "not a preferred day (Monday)"
+      },
+      {
+        "domain": "trendscores",
+        "reason": "not a preferred day (Friday)"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-06-22T06:03:50.289Z",
     "timezone": "EST",
     "forced": false,
