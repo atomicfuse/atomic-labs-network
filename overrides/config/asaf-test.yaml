@@ -3,7 +3,10 @@ name: asaf-ads-test
 priority: 2
 targets:
   groups: []
-  sites: []
+  sites:
+    - travelswire
+    - aliensrus
+    - funnypigeon
 tracking:
   ga4: null
   gtm: null
