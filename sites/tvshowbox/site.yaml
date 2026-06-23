@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
   theme: "TVShowBox is an entertainment-news site focused on streaming releases and TV/movie lineup updates, especially platform-specific additions like Netflix UK. Strong filters: streaming premieres, Netflix updates, new movies, TV shows, documentaries, returning series, genre picks, and monthly watchlists."
