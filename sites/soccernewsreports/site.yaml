@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
   theme: a football/soccer news site organized around fresh headlines, “must read” items, and newsletter-style updates. Best topic filters would emphasize match news, transfers, clubs/players, tournament coverage, results, and breaking football stories.
