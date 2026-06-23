@@ -39,10 +39,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
   theme: "**Community service and women's leadership** — neighborhood fundraising events, local volunteer initiatives, community-minded networking, and educational scholarships."
