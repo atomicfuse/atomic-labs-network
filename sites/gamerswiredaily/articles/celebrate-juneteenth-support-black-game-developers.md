@@ -18,7 +18,7 @@ source_url: >-
   https://www.pcmag.com/opinions/celebrate-juneteenth-by-supporting-these-brilliant-black-game-developers
 source_item_id: 6a34d3dacbbe345bde11628e
 generated_by: openai
-featuredImage: /assets/images/gamerswiredaily-general-article.webp
+featuredImage: /assets/images/celebrate-juneteenth-support-black-game-developers.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Gaming News
+image_alt: >-
+  Black game creators collaborate in a modern studio lit with warm
+  Juneteenth-inspired colors.
 ---
 TL;DR: This Juneteenth, take the time to recognize and support Black game developers and their incredible contributions to the gaming world. From playing their games to sharing their stories, let's uplift Black excellence in gaming.
 
