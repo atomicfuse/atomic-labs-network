@@ -20,7 +20,7 @@ source_url: >-
   https://www.rockstargames.com/newswire/article/517oa135328155/grand-theft-auto-vi-pre-orders-begin-on-june-25
 source_item_id: 6a34d3dacbbe345bde11628d
 generated_by: claude
-featuredImage: /assets/images/gamerswiredaily-general-article.webp
+featuredImage: /assets/images/gta-vi-pre-orders-june-25-playstation-microsoft-store.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Game Reviews
+image_alt: >-
+  Neon-lit game controller beside abstract digital store cards against a
+  cinematic coastal city skyline
 ---
 The wait is almost over for millions of fans worldwide. Pre-orders for **Grand Theft Auto VI** are officially set to begin on **June 25**, with digital storefronts and select retailers preparing to take orders for one of the most anticipated game releases in recent memory.
 
