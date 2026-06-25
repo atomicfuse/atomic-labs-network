@@ -1,10 +1,6 @@
-domain: funnypigeon.com
-site_name: funnypigeon
-site_tagline: null
-author: Andrew Gray
-groups:
-  - ncg
+domain: funnypigeon
 active: true
+author: Andrew Gray
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -123,6 +119,27 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Tuesday
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: funnypigeon
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -164,24 +181,6 @@ theme:
   logo_height: 52
   logo_height_footer: 80
   footer_logo: /assets/logo-footer.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-EB5B4HTGFF
   gtm: GT-KF6XKCXT
