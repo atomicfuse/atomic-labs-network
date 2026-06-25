@@ -24,7 +24,7 @@ source_url: >-
   https://www.forbes.com/sites/katiebell/2026/06/08/the-food-lovers-expert-guide-to-cork-ireland/
 source_item_id: 6a2773a4eb470600f97052b5
 generated_by: openai
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/food-lovers-guide-cork-ireland.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
   verification), and lacks defined SEO keyword integration due to unspecified
   site keywords.
 reading_time: 3
+image_alt: >-
+  Refined Irish culinary still life with a sculptural dish, artisan produce,
+  herbs, and oysters on a stone table.
 ---
 TL;DR: Cork, Ireland is a culinary treasure trove featuring Michelin-starred restaurants, artisan markets, and cooking schools. Food lovers should explore this blossoming food scene before it becomes too popular!
 
