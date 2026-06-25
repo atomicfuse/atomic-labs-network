@@ -185,3 +185,7 @@ theme:
 tracking:
   ga4: G-EB5B4HTGFF
   gtm: GT-KF6XKCXT
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []
