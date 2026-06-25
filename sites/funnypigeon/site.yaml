@@ -33,7 +33,9 @@ brief:
     preferred_days:
       - Sunday
     preferred_time: 10:00
-  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday cards, photo uploads, personalized mugs, flowers, and seasonal celebration gifts."
+  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday
+    cards, photo uploads, personalized mugs, flowers, and seasonal celebration
+    gifts."
   topics_v2:
     - name: Funny Videos
       source:
