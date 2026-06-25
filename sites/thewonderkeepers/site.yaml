@@ -39,7 +39,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
+          - Thursday
     - name: Wonder
       source:
         type: filter
@@ -53,7 +53,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
+          - Thursday
     - name: Wisdom
       source:
         type: filter
@@ -73,7 +73,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
+          - Thursday
     - name: Heart
       source:
         type: filter
@@ -91,7 +91,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
+          - Thursday
     - name: Would You?
       source:
         type: filter
@@ -106,7 +106,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
+          - Thursday
   seo_keywords_focus: []
   content_guidelines:
     - 1. Emotional arc in every story - situation to resolution
