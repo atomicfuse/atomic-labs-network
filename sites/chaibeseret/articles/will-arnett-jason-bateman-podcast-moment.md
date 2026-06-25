@@ -20,7 +20,7 @@ source_url: >-
   https://www.dailymail.com/tvshowbiz/article-15920753/Will-Arnett-Jason-Bateman-Amy-Poehler-question.html
 source_item_id: 6a3a0974cbbe345bde11655d
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/will-arnett-jason-bateman-podcast-moment.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - breaking news
+image_alt: Tense podcast studio moment with a host subtly signaling a personal boundary
 ---
 TL;DR: Will Arnett drew a line during the latest SmartLess podcast when Jason Bateman asked an awkward question about his ex-wife, Amy Poehler, highlighting the tricky balance between comedy and personal boundaries in celebrity podcasts.
 
