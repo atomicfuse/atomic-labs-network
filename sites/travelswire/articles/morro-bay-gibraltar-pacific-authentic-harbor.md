@@ -30,7 +30,9 @@ scripts:
   - id: ce93e4cf-1c57-4638-a5d7-684fb1dacbab
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="TravelSwire1"></div>
 ---
 Morro Bay is the working fishing harbor that became photogenic. A 576-foot volcanic rock rises straight out of the bay, fishing boats line the waterfront, and the seafood is impossibly fresh. It's the authentic side of Highway 1.
 

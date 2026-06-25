@@ -30,7 +30,9 @@ scripts:
   - id: 7807a06a-c811-4104-a234-5d2937b21420
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="TravelSwire1"></div>
 ---
 17-Mile Drive might be California's best scenic loop, mile for mile. Monterey Bay, white-sand beaches, granite boulders, and Lone Cypress — every turn reveals a new postcard. Here's what to see and where to stop.
 

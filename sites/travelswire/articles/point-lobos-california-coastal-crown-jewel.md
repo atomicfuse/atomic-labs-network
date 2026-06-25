@@ -30,7 +30,9 @@ scripts:
   - id: f384209d-4383-4a79-9779-81033462bd46
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="TravelSwire1"></div>
 ---
 Point Lobos is what Big Sur looks like when it's quiet. Cypress trees, sea otters, and intimate coves tucked between Carmel and Big Sur. It has all the views and half the crowds.
 

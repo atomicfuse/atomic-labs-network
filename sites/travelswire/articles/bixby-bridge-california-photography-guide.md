@@ -30,7 +30,9 @@ scripts:
   - id: 439d0891-37c7-4478-b5fa-c9fed703cd22
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="TravelSwire1"></div>
 ---
 Bixby Bridge is one iconic arch and California's most photographed moment on Highway 1. But getting the shot everyone wants requires knowing exactly where to stand and when the light hits. Here's how.
 
