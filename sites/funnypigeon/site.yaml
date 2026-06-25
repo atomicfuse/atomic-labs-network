@@ -33,9 +33,7 @@ brief:
     preferred_days:
       - Sunday
     preferred_time: 10:00
-  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday
-    cards, photo uploads, personalized mugs, flowers, and seasonal celebration
-    gifts."
+  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday cards, photo uploads, personalized mugs, flowers, and seasonal celebration gifts."
   topics_v2:
     - name: Funny Videos
       source:
@@ -121,6 +119,7 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Tuesday
+  audience_type_ids: []
 groups: []
 layout:
   hero:
@@ -140,49 +139,53 @@ layout:
     explicit: []
   load_more:
     page_size: 10
-site_name: funnypigeon
+site_name: sillycapybara
 site_tagline: null
 theme:
   base: modern
   colors:
-    primary: "#FFFFFF"
-    accent: "#7CA926"
-    background: "#FFFFFF"
-    secondary: "#1993D1"
-    text: "#1F1F1F"
-    muted: "#8f8f8f"
-    surface: "#f7f7f7"
-    border: "#e6e6e6"
-    heading: "#1F1F1F"
-    link: "#7A32CC"
-    link_hover: "#7CA926"
-    nav_link: "#7A32CC"
-    nav_link_hover: "#1993D1"
-    footer_bg: "#7A32CC"
-    must_reads_bg: "#7A32CC"
+    primary: "#0a0e27"
+    accent: "#7c3aed"
+    background: "#0a0e27"
+    secondary: "#7c3aed"
+    text: "#e9e4ff"
+    muted: "#a8aacc"
+    surface: "#1a1a3e"
+    border: "#2a2d52"
+    heading: "#f5f3ff"
+    link: "#a78bfa"
+    link_hover: "#f093fb"
+    nav_link: "#e9e4ff"
+    nav_link_hover: "#f093fb"
+    footer_bg: "#0a0e27"
+    must_reads_bg: "#1a1a3e"
     hero_title: "#ffffff"
-    must_reads_title: "#ffffff"
-    article_hero_title: "#7A32CC"
-    article_hero_meta: "#7CA926"
-    feed_title: "#1F1F1F"
-    feed_desc: "#4c4c4c"
-    feed_date: "#8f8f8f"
-    prose_heading: "#1F1F1F"
-    prose_body: "#414141"
-    category_header_text: "#1a1a1a"
-    subscribe_heading: "#FFFFFF"
-    footer_text: "#9ca3af"
-    footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
+    must_reads_title: "#f5f3ff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#a8aacc"
+    feed_title: "#f5f3ff"
+    feed_desc: "#d4d1f0"
+    feed_date: "#a8aacc"
+    prose_heading: "#f5f3ff"
+    prose_body: "#d4d1f0"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#ffffff"
+    footer_text: "#c0c5dd"
+    footer_heading: "#f5f3ff"
+    footer_link: "#c0c5dd"
+    footer_link_hover: "#f093fb"
+    header_bg_gradient: "linear-gradient(135deg, #0a0e27 0%, #1e3a8a 40%, #6d28d9 75%, #4c1d95 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #6d28d9 0%, #9333ea 50%, #c026d3 100%)"
+    footer_bg_gradient: "linear-gradient(135deg, #0a0e27 0%, #1e3a8a 35%, #6d28d9 65%, #0a0e27 100%)"
+    must_reads_bg_gradient: "linear-gradient(120deg, #1e1b4b 0%, #4c1d95 50%, #1e1b4b 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(124,58,237,0.12) 45%, rgba(124,58,237,0.4) 80%, rgba(10,14,39,0.85) 100%)
   fonts:
-    heading: Poppins
+    heading: Space Grotesk
     body: Inter
+  logo_height: 68
+  logo_height_footer: 92
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height: 52
-  logo_height_footer: 80
-  footer_logo: /assets/logo-footer.png
 tracking:
   ga4: G-EB5B4HTGFF
   gtm: GT-KF6XKCXT
