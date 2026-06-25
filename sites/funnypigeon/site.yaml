@@ -120,7 +120,8 @@ brief:
         preferred_days:
           - Tuesday
   audience_type_ids: []
-groups: []
+groups:
+  - ncg
 layout:
   hero:
     enabled: true
