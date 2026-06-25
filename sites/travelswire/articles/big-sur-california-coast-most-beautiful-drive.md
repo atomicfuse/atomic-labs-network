@@ -29,7 +29,9 @@ scripts:
   - id: f7e9d6ba-0ae5-46a9-afa1-de2ba3bc52af
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="TravelSwire1"></div>
 ---
 Big Sur isn't a town — it's a dramatic stretch of coastline where cliffs tower over the Pacific and the road has no guardrails. Here's why people call it the most beautiful coast in America, and where to actually stop to see it.
 
