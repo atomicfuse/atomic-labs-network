@@ -1,10 +1,6 @@
-domain: carsnewsmag.com
-site_name: carsnewsmag
-site_tagline: null
-author: James Reed
-groups:
-  - ncg
+domain: carsnewsmag
 active: true
+author: James Reed
 brief:
   audiences:
     - Automotive enthusiasts
@@ -55,7 +51,7 @@ brief:
           - 6a1ef828ad9a1dd21ebb65dc
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Electric Cars
       source:
@@ -73,7 +69,8 @@ brief:
           - 6a14488416f23264031d7ff1
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Reviews
       source:
         type: filter
@@ -82,7 +79,8 @@ brief:
         tag_ids: []
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Industry
       source:
         type: filter
@@ -96,7 +94,8 @@ brief:
           - 6a29c3ca7da23de6325b9a6f
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Concept Cars
       source:
         type: filter
@@ -111,7 +110,30 @@ brief:
           - 6a17dfe38c60bc3c84eb2e18
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: carsnewsmag
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -152,24 +174,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 74
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-BRNDX66YCY
   gtm: GT-KVFLJ4BF
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []
