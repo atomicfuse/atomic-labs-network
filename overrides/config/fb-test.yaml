@@ -1,6 +1,6 @@
 override_id: fb-test
-name: FB TEST
-priority: 1
+name: Test FB
+priority: 2
 targets:
   groups: []
   sites: []
