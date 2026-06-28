@@ -3,8 +3,7 @@ name: Test FB
 priority: 2
 targets:
   groups: []
-  sites:
-    - carsnewsmag
+  sites: []
 tracking:
   ga4: null
   gtm: null
