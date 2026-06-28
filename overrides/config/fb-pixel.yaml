@@ -2,8 +2,59 @@ override_id: fb-pixel
 name: Facebook Pixel
 priority: 1
 targets:
-  groups: []
-  sites: []
+  groups:
+    - atl
+    - ncg
+  sites:
+    - aliensrus
+    - babyparenttrends
+    - buzzsoaps
+    - carsnewsinformer
+    - carsnewsmag
+    - chaibeseret
+    - coffeeactually
+    - decoratinglabs
+    - decoratingmom
+    - decotricksworld
+    - diydecorschool
+    - dogslabs
+    - dramadispatch
+    - eznutritiontips
+    - fashionnewsbee
+    - foreverhealty
+    - funnypigeon
+    - gadgetskoala
+    - gamerswiredaily
+    - gamingnewsalley
+    - geekystudios
+    - geekytraveler
+    - giantsavings
+    - gigsfreaks
+    - journeypeaks
+    - medicalnewsalley
+    - medicalnewscorner
+    - mindmedications
+    - mindsbit
+    - muvizz
+    - paleobeasts
+    - popnsnap
+    - sciencenewslab
+    - soccernewsreports
+    - stroylab
+    - thewonderkeepers
+    - travelbeautytips
+    - travelclearly
+    - travelingfoodie2
+    - travelnights
+    - travelswire
+    - trendscores
+    - tvshowbox
+    - tvshowsmag
+    - useminds
+    - wineoceans
+    - womendivision
+    - wtpop
+    - yogaterritory
 tracking:
   ga4: null
   gtm: null
