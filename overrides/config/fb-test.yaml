@@ -1,0 +1,14 @@
+override_id: fb-test
+name: fb test
+priority: 10
+targets:
+  groups: []
+  sites: []
+tracking: {}
+scripts:
+  head: []
+  body_start: []
+  body_end: []
+scripts_vars: {}
+ads_config: {}
+ads_txt: []
