@@ -182,7 +182,7 @@ theme:
   logo_height_footer: 96
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  menu_item_font_size: 20
+  menu_item_font_size: 18
 tracking:
   ga4: G-EB5B4HTGFF
   gtm: GT-KF6XKCXT
