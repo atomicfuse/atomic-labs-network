@@ -55,6 +55,7 @@ targets:
     - womendivision
     - wtpop
     - yogaterritory
+    - sillycapybara
 tracking:
   ga4: null
   gtm: null
