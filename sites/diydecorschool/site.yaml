@@ -95,8 +95,9 @@ brief:
   vertical_id: 6a00793d1104bbff809b7c4a
   review_percentage: 5
   schedule:
-    articles_per_day: 1
-    preferred_days: *a1
+    articles_per_day: 2
+    preferred_days:
+      - Thursday
     preferred_time: 10:00
 theme:
   base: rose_garden

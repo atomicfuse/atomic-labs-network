@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   audience_type_ids: []
   theme: "MedicalNewsAlley is a consumer health and medical-news site covering health research, conditions, mental health, drugs/treatments, cancer, and prevention-focused wellness stories. Strong filters: medical research, public health, conditions, women’s health, mental health, treatments, prevention, nutrition, and health-risk explainers. "

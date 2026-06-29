@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   theme: "TravelNights is a travel-news and inspiration site focused on destination trends, trip ideas, seasonal demand, romantic getaways, events, and practical travel context. Strong filters: destinations, travel trends, couples travel, seasonal trips, city events, hotels, food/culture, and travel advisories. "
   topics_v2:

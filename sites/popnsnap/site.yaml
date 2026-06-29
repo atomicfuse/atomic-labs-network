@@ -1,11 +1,6 @@
-domain: popnsnap.com
-site_name: popnsnap
-site_tagline: null
-author: Sam Gray
-groups:
-  - outbrain-ads
-  - atl
+domain: popnsnap
 active: true
+author: Sam Gray
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -36,10 +31,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   theme: PopNSnap is a pop culture and entertainment outlet focusing on the intersection of celebrities, fashion, influencers, music, and television/movies. Its content blends trending celebrity news, red-carpet style evolutions, and deep dives into current TV, movie, and music releases.
   topics_v2:
@@ -150,6 +142,29 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Wednesday
+groups:
+  - outbrain-ads
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: popnsnap
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -189,25 +204,11 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height: 52
-  logo_height_footer: 86
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
+  logo_height_footer: 88
 tracking:
   ga4: G-Y4L1TV78DQ
   gtm: GT-M6JNKG9X
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

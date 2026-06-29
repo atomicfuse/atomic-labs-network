@@ -36,11 +36,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
-      - Monday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
   image_guidelines: []

@@ -36,10 +36,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
   theme: TravelBeautyTips.com appears to fit a lifestyle niche combining travel advice with beauty, skincare, packing hacks, and “look good on the go” routines. Best topic filters would emphasize travel beauty hacks, vacation skincare, makeup packing, hair care, sunscreen, flight prep, and destination-ready wellness.

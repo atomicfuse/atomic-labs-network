@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   audience_type_ids: []
   theme: "**Technology, innovation, and digital trends** — insights into artificial intelligence, tech culture, modern finance, and advancements in science and engineering."

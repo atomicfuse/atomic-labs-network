@@ -35,11 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
-      - Thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
   image_guidelines: []
@@ -50,8 +46,7 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  theme: Science, history, and natural phenomena — space exploration, ancient
-    civilizations, human curiosity, and groundbreaking scientific discoveries.
+  theme: Science, history, and natural phenomena — space exploration, ancient civilizations, human curiosity, and groundbreaking scientific discoveries.
   topics_v2:
     - name: Conspiracy Theories
       source:
