@@ -1,10 +1,6 @@
-domain: muvizz.com
-site_name: muvizz
-site_tagline: null
-author: Julia Parker
-groups:
-  - ncg
+domain: muvizz
 active: true
+author: Julia Parker
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -43,84 +39,160 @@ brief:
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c29
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+          - 6a00793f1104bbff809b7f29
+          - 6a00793e1104bbff809b7de5
         tag_ids:
-          - 6a0175542a0a294c696af93b
-          - 6a04310c86fcaaeb5bc8366c
-          - 6a04545286fcaaeb5bc8394b
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a008aba2a0a294c696af843
+          - 6a008aba2a0a294c696af844
+          - 6a0b1bfda53fcab94b364993
+          - 6a1417f816f23264031d7d70
+          - 6a37ca10cbbe345bde1163ed
+          - 6a37c7b7cbbe345bde1163b3
+          - 6a04330d86fcaaeb5bc8367c
+        category_names:
+          6a0079401104bbff809b7fd9: Movies
+          6a0079401104bbff809b7fdb: Television
+          6a00793f1104bbff809b7f29: Entertainment Industry
+          6a00793e1104bbff809b7de5: Celebrity Scandal
+        tag_names:
+          6a008aba2a0a294c696af843: streaming
+          6a008aba2a0a294c696af844: celebrity news
+          6a0b1bfda53fcab94b364993: television
+          6a1417f816f23264031d7d70: film
+          6a37ca10cbbe345bde1163ed: movie-review
+          6a37c7b7cbbe345bde1163b3: official-trailer
+          6a04330d86fcaaeb5bc8367c: entertainment
     - name: Movies
       source:
         type: filter
         category_ids:
           - 6a0079401104bbff809b7fd9
+          - 6a00793f1104bbff809b7f29
+          - 6a0079401104bbff809b7fd3
+          - 6a0079401104bbff809b800b
         tag_ids:
-          - 6a008aba2a0a294c696af844
-          - 6a044f3986fcaaeb5bc838c1
-          - 6a0b340bac596b621e93560c
-          - 6a0b34dbac596b621e93564d
-          - 6a13fe5e16f23264031d7c1e
-          - 6a0b350eac596b621e935655
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a37ca10cbbe345bde1163ed
+          - 6a37c7b7cbbe345bde1163b3
+          - 6a008aba2a0a294c696af843
+          - 6a1417f816f23264031d7d70
+          - 6a0bc5bf16f23264031d776b
+          - 6a04330d86fcaaeb5bc8367c
+        category_names:
+          6a0079401104bbff809b7fd9: Movies
+          6a00793f1104bbff809b7f29: Entertainment Industry
+          6a0079401104bbff809b7fd3: Awards Shows
+          6a0079401104bbff809b800b: Soundtracks, TV and Showtunes
+        tag_names:
+          6a37ca10cbbe345bde1163ed: movie-review
+          6a37c7b7cbbe345bde1163b3: official-trailer
+          6a008aba2a0a294c696af843: streaming
+          6a1417f816f23264031d7d70: film
+          6a0bc5bf16f23264031d776b: zendaya
+          6a04330d86fcaaeb5bc8367c: entertainment
     - name: Reviews
+      description: movies and tv shows reviews
       source:
         type: filter
         category_ids:
-          - 6a0079401104bbff809b7fdb
           - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+          - 6a00793d1104bbff809b7c32
         tag_ids:
-          - 6a13fe5e16f23264031d7c1e
-          - 6a1e3a539bf3ecf115d98206
-          - 6a04334f86fcaaeb5bc836ab
-          - 6a277543eb470600f97052f7
-          - 6a0be65716f23264031d7847
-          - 6a0bca2816f23264031d77dc
-          - 6a044ccf86fcaaeb5bc83875
-          - 6a2f979332676a5c75e4516a
-          - 6a37c8cbcbbe345bde1163c0
-          - 6a0be63d16f23264031d7835
           - 6a37ca10cbbe345bde1163ed
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a1417f816f23264031d7d70
+          - 6a0b1bfda53fcab94b364993
+          - 6a008aba2a0a294c696af844
+          - 6a04563c86fcaaeb5bc83969
+          - 6a04565c86fcaaeb5bc83974
+        category_names:
+          6a0079401104bbff809b7fd9: Movies
+          6a0079401104bbff809b7fdb: Television
+          6a00793d1104bbff809b7c32: Entertainment
+        tag_names:
+          6a37ca10cbbe345bde1163ed: movie-review
+          6a1417f816f23264031d7d70: film
+          6a0b1bfda53fcab94b364993: television
+          6a008aba2a0a294c696af844: celebrity news
+          6a04563c86fcaaeb5bc83969: recap
+          6a04565c86fcaaeb5bc83974: episode-recap
     - name: Trailers
       source:
         type: filter
-        category_ids: []
+        category_ids:
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+          - 6a00793f1104bbff809b7f29
         tag_ids:
-          - 6a13fe5e16f23264031d7c1e
-          - 6a0bc5e616f23264031d7780
-          - 6a0be65716f23264031d7849
-          - 6a0bc7cc16f23264031d7797
-          - 6a14285116f23264031d7edd
-          - 6a14488116f23264031d7fed
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a37c7b7cbbe345bde1163b3
+          - 6a1417f816f23264031d7d70
+          - 6a008aba2a0a294c696af843
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a0bc59f16f23264031d7761
+          - 6a37ca10cbbe345bde1163ed
+        category_names:
+          6a0079401104bbff809b7fd9: Movies
+          6a0079401104bbff809b7fdb: Television
+          6a00793f1104bbff809b7f29: Entertainment Industry
+        tag_names:
+          6a37c7b7cbbe345bde1163b3: official-trailer
+          6a1417f816f23264031d7d70: film
+          6a008aba2a0a294c696af843: streaming
+          6a0435ac86fcaaeb5bc836f0: netflix
+          6a0bc59f16f23264031d7761: hbo
+          6a37ca10cbbe345bde1163ed: movie-review
     - name: TV Shows
       source:
         type: filter
         category_ids:
           - 6a0079401104bbff809b7fdb
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b800b
+          - 6a0079401104bbff809b8054
         tag_ids:
-          - 6a27b210eb470600f9705539
-          - 6a27799eeb470600f970534d
-          - 6a279825eb470600f97053d0
-          - 6a0bc7cc16f23264031d7794
-          - 6a0be8d816f23264031d789e
-          - 6a1520cf16f23264031d8149
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a0b1bfda53fcab94b364993
+          - 6a04548486fcaaeb5bc83956
+          - 6a008aba2a0a294c696af843
+          - 6a04565c86fcaaeb5bc83974
+          - 6a04565486fcaaeb5bc8396d
+          - 6a0bc59f16f23264031d7761
+          - 6a0435ac86fcaaeb5bc836f0
+        category_names:
+          6a0079401104bbff809b7fdb: Television
+          6a00793d1104bbff809b7c32: Entertainment
+          6a0079401104bbff809b800b: Soundtracks, TV and Showtunes
+          6a0079401104bbff809b8054: Broadcast Media
+        tag_names:
+          6a0b1bfda53fcab94b364993: television
+          6a04548486fcaaeb5bc83956: reality-tv
+          6a008aba2a0a294c696af843: streaming
+          6a04565c86fcaaeb5bc83974: episode-recap
+          6a04565486fcaaeb5bc8396d: tv-recap
+          6a0bc59f16f23264031d7761: hbo
+          6a0435ac86fcaaeb5bc836f0: netflix
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: muvizz
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -161,24 +233,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 80
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-7FGH9H2QXM
   gtm: GT-5TGB9H3S
