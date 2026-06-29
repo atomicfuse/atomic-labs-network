@@ -24,7 +24,7 @@ scripts:
     name: travelswire2
     position: after-paragraph-1
     content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
       <div data-cg-feed="travelswire2"></div>
 ---
 
