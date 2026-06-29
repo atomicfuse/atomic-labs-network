@@ -35,14 +35,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: healthcare innovations and patient care medical breakthroughs, healthcare
-    technology, clinical research, and global health policy.
+  theme: healthcare innovations and patient care medical breakthroughs, healthcare technology, clinical research, and global health policy.
   topics_v2:
     - name: Health News
       source:

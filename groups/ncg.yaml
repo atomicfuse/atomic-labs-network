@@ -14,6 +14,7 @@ scripts:
       src: https://client.w.digikube.com/atl.widget.js
   body_start: []
   body_end: []
+  before_footer: []
 scripts_vars: {}
 ads_config:
   interstitial: true
@@ -23,7 +24,8 @@ ads_config:
           window._atl_loadWidget("widget-1", {
               feedid: "06BWXaV0P",
               auth: "Vtg4LZ44FO2l",
-              qs: "g_umk=all&subid=102201&extcid=0&bundle_url=portal&muid=[IFA]&count=6&obj_id=0"
+              url: window.location.href,
+              qs: "g_umk=all&subid=102201&extcid=0&muid=[IFA]&count=6&obj_id=0"
           }, "vsm", {
               qs: "g_umk=all&g_lo=3&g_mcol=2&g_by=1&g_imgrt=43&g_title=You may like:"
           });

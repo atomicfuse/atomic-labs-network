@@ -96,9 +96,9 @@ brief:
   vertical_id: 6a00793d1104bbff809b7c7a
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 2
     preferred_days:
-      - Monday
+      - Thursday
     preferred_time: 10:00
 theme:
   base: tokyo_night

@@ -34,14 +34,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Automotive insights and industry reports** — vehicle safety recalls,
-    market shifts, consumer buying advice, and emerging automotive technology."
+  theme: "**Automotive insights and industry reports** — vehicle safety recalls, market shifts, consumer buying advice, and emerging automotive technology."
   topics_v2:
     - name: News
       source:

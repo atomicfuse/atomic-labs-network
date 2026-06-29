@@ -1,10 +1,6 @@
-domain: wtpop.com
-site_name: wtpop
-site_tagline: null
-author: Rachel Long
-groups:
-  - ncg
+domain: wtpop
 active: true
+author: Rachel Long
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -35,10 +31,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   theme: "a pop-culture/entertainment site, but I couldn’t verify indexed content for that exact domain; search results mostly surfaced WTOP, a Washington D.C. news site, which may be unrelated. Best provisional filters: celebrity news, viral culture, music, TV, movies, social media trends, and entertainment explainers."
   topics_v2:
@@ -133,6 +126,28 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Friday
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: wtpop
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -173,28 +188,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 62
   logo_height_footer: 90
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-MKZ9K6KE2X
   gtm: GT-KFGWKCKD
   google_ads: null
-  facebook_pixel: null
+  facebook_pixel: "995281758635356"
   facebook_domain_verification: null
   custom: []

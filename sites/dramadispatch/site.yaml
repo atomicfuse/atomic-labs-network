@@ -98,27 +98,16 @@ brief:
         preferred_days: *a1
   seo_keywords_focus: []
   content_guidelines:
-    - Always frame unverified information as speculation, never fact. Use
-      attribution phrases like "sources say," "reports suggest," or
-      question-format headlines. Never fabricate quotes from named individuals,
-      and avoid stating a celebrity's health, legal, or relationship status as
-      confirmed unless they said it publicly themselves. Political content,
-      content about minors, and anything that could read as harassment of a
-      named individual should not be published.
+    - Always frame unverified information as speculation, never fact. Use attribution phrases like "sources say," "reports suggest," or question-format headlines. Never fabricate quotes from named individuals, and avoid stating a celebrity's health, legal, or relationship status as confirmed unless they said it publicly themselves. Political content, content about minors, and anything that could read as harassment of a named individual should not be published.
   image_guidelines:
-    - Never use celebrity photos found via Google Images, social media
-      screenshots, or other entertainment sites — assume every image online is
-      protected unless you can verify the license. Safe sources are press
-      release photos, images the celebrity posted on their own public account
-      (with attribution), or photos from an active licensed subscription like
-      Getty Editorial. Every image published must include a credit line with the
-      photographer name and agency.
+    - Never use celebrity photos found via Google Images, social media screenshots, or other entertainment sites — assume every image online is protected unless you can verify the license. Safe sources are press release photos, images the celebrity posted on their own public account (with attribution), or photos from an active licensed subscription like Getty Editorial. Every image published must include a credit line with the photographer name and agency.
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
   review_percentage: 5
   schedule:
-    articles_per_day: 1
-    preferred_days: *a1
+    articles_per_day: 2
+    preferred_days:
+      - Thursday
     preferred_time: 10:00
 theme:
   base: art_deco_brass
@@ -153,14 +142,10 @@ theme:
     footer_heading: "#f5e8c7"
     footer_link: "#d4c79d"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7
-      50%, #b8860b 70%, #8a6508 100%)"
-    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%,
-      #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7 50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
     hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
   logo_height: 52
   fonts:

@@ -34,14 +34,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Coffee culture and brewing guides** — bean sourcing, roasting
-    techniques, espresso equipment, and local cafe trends."
+  theme: "**Coffee culture and brewing guides** — bean sourcing, roasting techniques, espresso equipment, and local cafe trends."
   topics_v2:
     - name: Coffee News
       source:

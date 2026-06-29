@@ -1,10 +1,6 @@
-domain: babyparenttrends.com
-site_name: babyparenttrends
-site_tagline: null
-author: Alex Long
-groups:
-  - atl
+domain: babyparenttrends
 active: true
+author: Alex Long
 brief:
   audiences:
     - Family and Relationships enthusiasts
@@ -35,14 +31,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Modern parenting and early childhood development** — baby gear
-    reviews, child psychology, parenting styles, and family lifestyle trends."
+  theme: "**Modern parenting and early childhood development** — baby gear reviews, child psychology, parenting styles, and family lifestyle trends."
   topics_v2:
     - name: Parenting
       source:
@@ -62,7 +54,7 @@ brief:
           - 6a142d1916f23264031d7f6e
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Baby Care
       source:
@@ -80,7 +72,8 @@ brief:
           - 6a14319d16f23264031d7fc0
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Kids
       source:
         type: filter
@@ -97,7 +90,8 @@ brief:
           - 6a142f8a16f23264031d7fa8
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Pregnancy
       source:
         type: filter
@@ -114,7 +108,8 @@ brief:
           - 6a14319d16f23264031d7fc0
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Children’s Health
       source:
         type: filter
@@ -133,7 +128,30 @@ brief:
           - 6a14134b16f23264031d7d16
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: babyparenttrends
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -174,24 +192,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 84
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-7RPBZEPLKK
   gtm: GT-KVFVP4KP
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

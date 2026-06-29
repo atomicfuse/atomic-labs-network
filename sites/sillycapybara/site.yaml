@@ -1,10 +1,6 @@
-domain: funnypigeon.com
-site_name: funnypigeon
-site_tagline: null
-author: Andrew Gray
-groups:
-  - ncg
+domain: sillycapybara
 active: true
+author: Andrew Gray
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -35,12 +31,9 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
-  theme: "**Personalized greeting cards and custom gifts** — humor-filled birthday cards, photo uploads, personalized mugs, flowers, and seasonal celebration gifts."
+  theme: funny memes, fails, jokes and trends
   topics_v2:
     - name: Funny Videos
       source:
@@ -126,47 +119,9 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Tuesday
-theme:
-  base: modern
-  colors:
-    primary: "#FFFFFF"
-    accent: "#7CA926"
-    background: "#FFFFFF"
-    secondary: "#1993D1"
-    text: "#1F1F1F"
-    muted: "#8f8f8f"
-    surface: "#f7f7f7"
-    border: "#e6e6e6"
-    heading: "#1F1F1F"
-    link: "#7A32CC"
-    link_hover: "#7CA926"
-    nav_link: "#7A32CC"
-    nav_link_hover: "#1993D1"
-    footer_bg: "#7A32CC"
-    must_reads_bg: "#7A32CC"
-    hero_title: "#ffffff"
-    must_reads_title: "#ffffff"
-    article_hero_title: "#7A32CC"
-    article_hero_meta: "#7CA926"
-    feed_title: "#1F1F1F"
-    feed_desc: "#4c4c4c"
-    feed_date: "#8f8f8f"
-    prose_heading: "#1F1F1F"
-    prose_body: "#414141"
-    category_header_text: "#1a1a1a"
-    subscribe_heading: "#FFFFFF"
-    footer_text: "#9ca3af"
-    footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
-  fonts:
-    heading: Poppins
-    body: Inter
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
-  logo_height: 52
-  logo_height_footer: 80
-  footer_logo: /assets/logo-footer.png
+  audience_type_ids: []
+groups:
+  - ncg
 layout:
   hero:
     enabled: true
@@ -185,6 +140,53 @@ layout:
     explicit: []
   load_more:
     page_size: 10
+site_name: sillycapybara
+site_tagline: null
+theme:
+  base: modern
+  colors:
+    primary: "#1e3a5f"
+    accent: "#06b6d4"
+    background: "#f4f7f9"
+    secondary: "#0c1f33"
+    text: "#0c1f33"
+    muted: "#6b8095"
+    surface: "#e3ecf2"
+    border: "#cbd9e3"
+    heading: "#0c1f33"
+    link: "#1e3a5f"
+    link_hover: "#06b6d4"
+    nav_link: "#f4f7f9"
+    nav_link_hover: "#67e8f9"
+    footer_bg: "#0c1f33"
+    must_reads_bg: "#0c1f33"
+    hero_title: "#f4f7f9"
+    must_reads_title: "#f4f7f9"
+    article_hero_title: "#f4f7f9"
+    article_hero_meta: "#94a8bc"
+    feed_title: "#0c1f33"
+    feed_desc: "#1e3a5f"
+    feed_date: "#6b8095"
+    prose_heading: "#0c1f33"
+    prose_body: "#1e3a5f"
+    category_header_text: "#f4f7f9"
+    subscribe_heading: "#1e3a5f"
+    footer_text: "#94a8bc"
+    footer_heading: "#f4f7f9"
+    footer_link: "#94a8bc"
+    footer_link_hover: "#67e8f9"
+  fonts:
+    heading: DM Sans
+    body: DM Sans
+  logo_height: 84
+  logo_height_footer: 96
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  menu_item_font_size: 18
 tracking:
   ga4: G-EB5B4HTGFF
   gtm: GT-KF6XKCXT
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

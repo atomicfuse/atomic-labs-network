@@ -31,7 +31,7 @@ scripts:
     name: short script
     position: after-paragraph-1
     content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
       <div data-cg-feed="TravelSwire1"></div>
 ---
 These 7 stops on Highway 1 have the views that make you actually pull over. Big Sur, coastal cliffs, hidden coves—here's where the photo moments are real, mapped in order.

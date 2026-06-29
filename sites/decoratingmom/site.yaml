@@ -1,10 +1,6 @@
-domain: decoratingmom.com
-site_name: decoratingmom
-site_tagline: null
-author: David Scott
-groups:
-  - atl
+domain: decoratingmom
 active: true
+author: David Scott
 brief:
   audiences:
     - Home & Garden enthusiasts
@@ -35,15 +31,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "**Home decor and family-friendly interior design** — interior styling,
-    DIY home improvement projects, seasonal decorating, and practical,
-    family-oriented space organization."
+  theme: "**Home decor and family-friendly interior design** — interior styling, DIY home improvement projects, seasonal decorating, and practical, family-oriented space organization."
   topics_v2:
     - name: Decor Ideas
       source:
@@ -63,7 +54,7 @@ brief:
           - 6a27a62ceb470600f9705491
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Small Spaces
       source:
@@ -80,7 +71,8 @@ brief:
           - 6a1e6dfc9bf3ecf115d98458
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Budget Decor
       source:
         type: filter
@@ -96,7 +88,8 @@ brief:
           - 6a07fdae4bdae0614e7aaed8
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: DIY Projects
       source:
         type: filter
@@ -111,7 +104,8 @@ brief:
           - 6a1e6be49bf3ecf115d98437
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Interior Design
       source:
         type: filter
@@ -127,7 +121,30 @@ brief:
           - 6a1e6e2a9bf3ecf115d98472
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: decoratingmom
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -169,24 +186,10 @@ theme:
   footer_logo: /assets/logo-footer.png
   logo_height: 52
   logo_height_footer: 76
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-C5W98CQV7E
   gtm: GT-K8KWBCZQ
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

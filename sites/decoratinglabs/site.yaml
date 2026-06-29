@@ -143,9 +143,9 @@ brief:
   vertical_id: 6a00793d1104bbff809b7c4a
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 2
     preferred_days:
-      - Monday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
 theme:

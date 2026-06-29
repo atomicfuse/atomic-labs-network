@@ -117,6 +117,16 @@ brief:
           6a008aba2a0a294c696af844: celebrity news
           6a04563c86fcaaeb5bc83969: recap
           6a04565c86fcaaeb5bc83974: episode-recap
+        category_ids: []
+        tag_ids:
+          - 6a2f979332676a5c75e4516a
+          - 6a0be63d16f23264031d7835
+          - 6a37ca10cbbe345bde1163ed
+          - 6a37c8cbcbbe345bde1163c0
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
     - name: Trailers
       source:
         type: filter
@@ -171,6 +181,16 @@ brief:
           6a04565486fcaaeb5bc8396d: tv-recap
           6a0bc59f16f23264031d7761: hbo
           6a0435ac86fcaaeb5bc836f0: netflix
+          - 6a27b210eb470600f9705539
+          - 6a27799eeb470600f970534d
+          - 6a279825eb470600f97053d0
+          - 6a0bc7cc16f23264031d7794
+          - 6a0be8d816f23264031d789e
+          - 6a1520cf16f23264031d8149
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
 groups:
   - ncg
 layout:

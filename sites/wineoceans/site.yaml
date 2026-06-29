@@ -25,10 +25,9 @@ brief:
   tag_ids: []
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 2
     preferred_days:
-      - Monday
-      - Wednesday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
   image_guidelines: []

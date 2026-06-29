@@ -1,6 +1,6 @@
 override_id: test-sticky-with-param
 name: Test Sticky With Param
-priority: 1
+priority: 2
 targets:
   groups: []
   sites:
