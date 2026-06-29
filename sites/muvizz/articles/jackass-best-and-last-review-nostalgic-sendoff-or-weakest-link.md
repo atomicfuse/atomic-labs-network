@@ -18,7 +18,8 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=uQF5SwINli8'
 source_item_id: 6a40d6edcbbe345bde116a1b
 generated_by: openai
-featuredImage: /assets/images/muvizz-general-article.webp
+featuredImage: >-
+  /assets/images/jackass-best-and-last-review-nostalgic-sendoff-or-weakest-link.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -38,6 +39,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Breaking News
+image_alt: >-
+  Abandoned stunt props under fading studio lights suggest a chaotic comedy
+  farewell.
 ---
 ## TL;DR
 *Jackass: Best and Last* serves up a nostalgia-infused mix of greatest hits and new gross-out humor, but it falls short as the franchise's strongest entry. Fans might enjoy the emotional farewells, but it’s not quite what they expected from the iconic series.
