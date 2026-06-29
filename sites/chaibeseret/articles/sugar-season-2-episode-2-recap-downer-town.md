@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://www.vulture.com/article/sugar-recap-season-2-episode-2-apple-tv.html'
 source_item_id: 6a3f5fdacbbe345bde1169c1
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/sugar-season-2-episode-2-recap-downer-town.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - tv shows
+image_alt: >-
+  Noir detective figure outside a hospital at night with East L.A. lights and
+  police reflections in the distance.
 ---
 ## TL;DR
 In Episode 2 of Sugar Season 2, titled 'Downer Town', we follow John Sugar as he unravels the mystery of Ji Moon's disappearance while also tackling larger social issues. The episode effectively humanizes East L.A.'s immigrant communities but struggles with fully confronting the dark forces at play.
