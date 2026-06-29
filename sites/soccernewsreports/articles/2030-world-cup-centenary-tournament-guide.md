@@ -18,7 +18,7 @@ source_url: >-
   https://www.foxsports.com/stories/soccer/2030-world-cup-locations-hosts-dates-100-years
 source_item_id: 6a41cf49b38c8d71670c601a
 generated_by: openai
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/2030-world-cup-centenary-tournament-guide.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Latest News
+image_alt: >-
+  Football fans gather around a glowing globe with travel bags, symbolizing a
+  three-continent World Cup.
 ---
 TL;DR: The 2030 FIFA World Cup will be historic as it spans three continents, featuring matches in Morocco, Portugal, and Spain, along with centenary matches in South America. Here's everything you need to know about this exciting tournament!
 
