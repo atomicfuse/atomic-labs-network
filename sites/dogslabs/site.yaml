@@ -1,9 +1,6 @@
 domain: dogslabs
-site_name: DogsLabs
-site_tagline: null
-author: Andrew Price
-groups: []
 active: true
+author: Andrew Price
 brief:
   audiences: []
   tone: ""
@@ -38,7 +35,7 @@ brief:
           - 6a044ce086fcaaeb5bc83895
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Animal Behavior
       source:
@@ -56,7 +53,8 @@ brief:
           - 6a0fdd2f16f23264031d79f1
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Breed Guides
       source:
         type: filter
@@ -73,7 +71,8 @@ brief:
           - 6a044ce086fcaaeb5bc83895
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Wildlife Stories
       source:
         type: filter
@@ -89,7 +88,8 @@ brief:
           - 6a033cfc86fcaaeb5bc8335e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
   seo_keywords_focus: []
   content_guidelines: []
   vertical: Pets
@@ -101,6 +101,27 @@ brief:
       - Thursday
     preferred_time: 10:00
   audience_type_ids: []
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: DogsLabs
+site_tagline: null
 theme:
   base: carbon_editorial
   colors:
@@ -140,28 +161,10 @@ theme:
     body: DM Sans
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
 tracking:
   ga4: G-N44RK1FFEG
   gtm: GT-K5QNVVF2
   google_ads: null
-  facebook_pixel: null
+  facebook_pixel: "995281758635356"
   facebook_domain_verification: null
   custom: []
