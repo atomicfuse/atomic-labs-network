@@ -42,55 +42,29 @@ brief:
           - 6a0079401104bbff809b7fd9
           - 6a0079401104bbff809b7fdb
           - 6a00793f1104bbff809b7f29
-          - 6a00793e1104bbff809b7de5
+          - 6a0079401104bbff809b7fd3
         tag_ids:
-          - 6a008aba2a0a294c696af843
           - 6a008aba2a0a294c696af844
-          - 6a0b1bfda53fcab94b364993
           - 6a1417f816f23264031d7d70
-          - 6a37ca10cbbe345bde1163ed
-          - 6a37c7b7cbbe345bde1163b3
+          - 6a008aba2a0a294c696af843
+          - 6a0b1bfda53fcab94b364993
           - 6a04330d86fcaaeb5bc8367c
-        category_names:
-          6a0079401104bbff809b7fd9: Movies
-          6a0079401104bbff809b7fdb: Television
-          6a00793f1104bbff809b7f29: Entertainment Industry
-          6a00793e1104bbff809b7de5: Celebrity Scandal
-        tag_names:
-          6a008aba2a0a294c696af843: streaming
-          6a008aba2a0a294c696af844: celebrity news
-          6a0b1bfda53fcab94b364993: television
-          6a1417f816f23264031d7d70: film
-          6a37ca10cbbe345bde1163ed: movie-review
-          6a37c7b7cbbe345bde1163b3: official-trailer
-          6a04330d86fcaaeb5bc8367c: entertainment
+          - 6a0bc59f16f23264031d7761
+          - 6a0435ac86fcaaeb5bc836f0
     - name: Movies
       source:
         type: filter
         category_ids:
           - 6a0079401104bbff809b7fd9
           - 6a00793f1104bbff809b7f29
-          - 6a0079401104bbff809b7fd3
-          - 6a0079401104bbff809b800b
+          - 6a00793d1104bbff809b7c32
         tag_ids:
-          - 6a37ca10cbbe345bde1163ed
-          - 6a37c7b7cbbe345bde1163b3
-          - 6a008aba2a0a294c696af843
           - 6a1417f816f23264031d7d70
+          - 6a37c7b7cbbe345bde1163b3
+          - 6a37ca10cbbe345bde1163ed
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a008aba2a0a294c696af843
           - 6a0bc5bf16f23264031d776b
-          - 6a04330d86fcaaeb5bc8367c
-        category_names:
-          6a0079401104bbff809b7fd9: Movies
-          6a00793f1104bbff809b7f29: Entertainment Industry
-          6a0079401104bbff809b7fd3: Awards Shows
-          6a0079401104bbff809b800b: Soundtracks, TV and Showtunes
-        tag_names:
-          6a37ca10cbbe345bde1163ed: movie-review
-          6a37c7b7cbbe345bde1163b3: official-trailer
-          6a008aba2a0a294c696af843: streaming
-          6a1417f816f23264031d7d70: film
-          6a0bc5bf16f23264031d776b: zendaya
-          6a04330d86fcaaeb5bc8367c: entertainment
     - name: Reviews
       description: movies and tv shows reviews
       source:
@@ -98,35 +72,14 @@ brief:
         category_ids:
           - 6a0079401104bbff809b7fd9
           - 6a0079401104bbff809b7fdb
-          - 6a00793d1104bbff809b7c32
+          - 6a00793f1104bbff809b7f29
         tag_ids:
           - 6a37ca10cbbe345bde1163ed
           - 6a1417f816f23264031d7d70
           - 6a0b1bfda53fcab94b364993
-          - 6a008aba2a0a294c696af844
-          - 6a04563c86fcaaeb5bc83969
-          - 6a04565c86fcaaeb5bc83974
-        category_names:
-          6a0079401104bbff809b7fd9: Movies
-          6a0079401104bbff809b7fdb: Television
-          6a00793d1104bbff809b7c32: Entertainment
-        tag_names:
-          6a37ca10cbbe345bde1163ed: movie-review
-          6a1417f816f23264031d7d70: film
-          6a0b1bfda53fcab94b364993: television
-          6a008aba2a0a294c696af844: celebrity news
-          6a04563c86fcaaeb5bc83969: recap
-          6a04565c86fcaaeb5bc83974: episode-recap
-        category_ids: []
-        tag_ids:
-          - 6a2f979332676a5c75e4516a
-          - 6a0be63d16f23264031d7835
-          - 6a37ca10cbbe345bde1163ed
-          - 6a37c8cbcbbe345bde1163c0
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a008aba2a0a294c696af843
+          - 6a0b32d1ac596b621e9355ec
+          - 6a04330d86fcaaeb5bc8367c
     - name: Trailers
       source:
         type: filter
@@ -134,6 +87,7 @@ brief:
           - 6a0079401104bbff809b7fd9
           - 6a0079401104bbff809b7fdb
           - 6a00793f1104bbff809b7f29
+          - 6a0079401104bbff809b800b
         tag_ids:
           - 6a37c7b7cbbe345bde1163b3
           - 6a1417f816f23264031d7d70
@@ -141,56 +95,23 @@ brief:
           - 6a0435ac86fcaaeb5bc836f0
           - 6a0bc59f16f23264031d7761
           - 6a37ca10cbbe345bde1163ed
-        category_names:
-          6a0079401104bbff809b7fd9: Movies
-          6a0079401104bbff809b7fdb: Television
-          6a00793f1104bbff809b7f29: Entertainment Industry
-        tag_names:
-          6a37c7b7cbbe345bde1163b3: official-trailer
-          6a1417f816f23264031d7d70: film
-          6a008aba2a0a294c696af843: streaming
-          6a0435ac86fcaaeb5bc836f0: netflix
-          6a0bc59f16f23264031d7761: hbo
-          6a37ca10cbbe345bde1163ed: movie-review
     - name: TV Shows
       source:
         type: filter
         category_ids:
           - 6a0079401104bbff809b7fdb
           - 6a00793d1104bbff809b7c32
+          - 6a00793f1104bbff809b7f29
           - 6a0079401104bbff809b800b
-          - 6a0079401104bbff809b8054
         tag_ids:
           - 6a0b1bfda53fcab94b364993
           - 6a04548486fcaaeb5bc83956
-          - 6a008aba2a0a294c696af843
+          - 6a0b32d1ac596b621e9355ec
           - 6a04565c86fcaaeb5bc83974
           - 6a04565486fcaaeb5bc8396d
           - 6a0bc59f16f23264031d7761
           - 6a0435ac86fcaaeb5bc836f0
-        category_names:
-          6a0079401104bbff809b7fdb: Television
-          6a00793d1104bbff809b7c32: Entertainment
-          6a0079401104bbff809b800b: Soundtracks, TV and Showtunes
-          6a0079401104bbff809b8054: Broadcast Media
-        tag_names:
-          6a0b1bfda53fcab94b364993: television
-          6a04548486fcaaeb5bc83956: reality-tv
-          6a008aba2a0a294c696af843: streaming
-          6a04565c86fcaaeb5bc83974: episode-recap
-          6a04565486fcaaeb5bc8396d: tv-recap
-          6a0bc59f16f23264031d7761: hbo
-          6a0435ac86fcaaeb5bc836f0: netflix
-          - 6a27b210eb470600f9705539
-          - 6a27799eeb470600f970534d
-          - 6a279825eb470600f97053d0
-          - 6a0bc7cc16f23264031d7794
-          - 6a0be8d816f23264031d789e
-          - 6a1520cf16f23264031d8149
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a0430f786fcaaeb5bc83650
 groups:
   - ncg
 layout:
