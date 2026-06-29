@@ -1,10 +1,6 @@
-domain: soccernewsreports.com
-site_name: soccernewsreports
-site_tagline: null
-author: Ben Reed
-groups:
-  - atl
+domain: soccernewsreports
 active: true
+author: Ben Reed
 brief:
   audiences:
     - Sports enthusiasts
@@ -45,83 +41,160 @@ brief:
         type: filter
         category_ids:
           - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c71
+          - 6a00793f1104bbff809b7e53
         tag_ids:
-          - 6a16d6ee8c60bc3c84eb2d26
-          - 6a16d7148c60bc3c84eb2d40
-          - 6a16d6ee8c60bc3c84eb2d24
-          - 6a16d6e98c60bc3c84eb2d22
-          - 6a16d9708c60bc3c84eb2d6e
-          - 6a16d9988c60bc3c84eb2d7e
-          - 6a16d9708c60bc3c84eb2d6f
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a140e8916f23264031d7cf8
+          - 6a16d6fb8c60bc3c84eb2d31
+          - 6a226046ad9a1dd21ebb68b0
+          - 6a16d6e98c60bc3c84eb2d21
+          - 6a140e6f16f23264031d7ce7
+          - 6a16d7298c60bc3c84eb2d44
+          - 6a313fc932676a5c75e4542a
+          - 6a313fa432676a5c75e4541d
+        category_names:
+          6a00793f1104bbff809b7e7b: Soccer
+          6a00793d1104bbff809b7c71: Sports
+          6a00793f1104bbff809b7e53: Fantasy Sports
+        tag_names:
+          6a140e8916f23264031d7cf8: soccer
+          6a16d6fb8c60bc3c84eb2d31: world-cup
+          6a226046ad9a1dd21ebb68b0: fifa
+          6a16d6e98c60bc3c84eb2d21: premier-league
+          6a140e6f16f23264031d7ce7: world-cup-2026
+          6a16d7298c60bc3c84eb2d44: football
+          6a313fc932676a5c75e4542a: standings
+          6a313fa432676a5c75e4541d: lionel-messi
     - name: Transfers
       source:
         type: filter
         category_ids:
           - 6a00793f1104bbff809b7e7b
+          - 6a00793f1104bbff809b7ef3
+          - 6a00793f1104bbff809b7f23
         tag_ids:
+          - 6a140e8916f23264031d7cf8
+          - 6a16d6e98c60bc3c84eb2d21
           - 6a16d6ee8c60bc3c84eb2d26
           - 6a16d7148c60bc3c84eb2d40
-          - 6a16d7148c60bc3c84eb2d41
-          - 6a16d6e98c60bc3c84eb2d22
-          - 6a1ef841ad9a1dd21ebb65e9
-          - 6a1ef828ad9a1dd21ebb65e0
-          - 6a1ef83fad9a1dd21ebb65e4
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a16d7148c60bc3c84eb2d42
+          - 6a313fa432676a5c75e4541d
+          - 6a16d7298c60bc3c84eb2d44
+        category_names:
+          6a00793f1104bbff809b7e7b: Soccer
+          6a00793f1104bbff809b7ef3: Human Resources
+          6a00793f1104bbff809b7f23: Job Market
+        tag_names:
+          6a140e8916f23264031d7cf8: soccer
+          6a16d6e98c60bc3c84eb2d21: premier-league
+          6a16d6ee8c60bc3c84eb2d26: arsenal
+          6a16d7148c60bc3c84eb2d40: chelsea
+          6a16d7148c60bc3c84eb2d42: liverpool
+          6a313fa432676a5c75e4541d: lionel-messi
+          6a16d7298c60bc3c84eb2d44: football
     - name: Leagues
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c71
+          - 6a00793f1104bbff809b7e7b
+          - 6a00793f1104bbff809b7e53
+          - 6a00793f1104bbff809b7e41
         tag_ids:
+          - 6a140e8916f23264031d7cf8
+          - 6a16d6e98c60bc3c84eb2d21
           - 6a16d6ee8c60bc3c84eb2d26
+          - 6a16d7148c60bc3c84eb2d42
           - 6a16d7148c60bc3c84eb2d40
-          - 6a16d6ee8c60bc3c84eb2d24
-          - 6a16d99b8c60bc3c84eb2d86
-          - 6a2832c87f78668964f8b2cc
-          - 6a16d9708c60bc3c84eb2d6e
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a313fc932676a5c75e4542a
+          - 6a16d7298c60bc3c84eb2d44
+        category_names:
+          6a00793f1104bbff809b7e7b: Soccer
+          6a00793f1104bbff809b7e53: Fantasy Sports
+          6a00793f1104bbff809b7e41: College Sports
+        tag_names:
+          6a140e8916f23264031d7cf8: soccer
+          6a16d6e98c60bc3c84eb2d21: premier-league
+          6a16d6ee8c60bc3c84eb2d26: arsenal
+          6a16d7148c60bc3c84eb2d42: liverpool
+          6a16d7148c60bc3c84eb2d40: chelsea
+          6a313fc932676a5c75e4542a: standings
+          6a16d7298c60bc3c84eb2d44: football
     - name: Match Reports
       source:
         type: filter
         category_ids:
           - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c71
+          - 6a00793f1104bbff809b7e53
+          - 6a00793f1104bbff809b7e6b
         tag_ids:
-          - 6a16d6ee8c60bc3c84eb2d26
-          - 6a16d7148c60bc3c84eb2d40
-          - 6a16d6ee8c60bc3c84eb2d24
-          - 6a16d7118c60bc3c84eb2d3c
-          - 6a2832c87f78668964f8b2cc
-          - 6a16d9708c60bc3c84eb2d6e
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a140e8916f23264031d7cf8
+          - 6a16d6fb8c60bc3c84eb2d31
+          - 6a16d6e98c60bc3c84eb2d21
+          - 6a226046ad9a1dd21ebb68b0
+          - 6a313fc932676a5c75e4542a
+          - 6a16d7298c60bc3c84eb2d44
+        category_names:
+          6a00793f1104bbff809b7e7b: Soccer
+          6a00793d1104bbff809b7c71: Sports
+          6a00793f1104bbff809b7e53: Fantasy Sports
+          6a00793f1104bbff809b7e6b: Olympic Sports
+        tag_names:
+          6a140e8916f23264031d7cf8: soccer
+          6a16d6fb8c60bc3c84eb2d31: world-cup
+          6a16d6e98c60bc3c84eb2d21: premier-league
+          6a226046ad9a1dd21ebb68b0: fifa
+          6a313fc932676a5c75e4542a: standings
+          6a16d7298c60bc3c84eb2d44: football
     - name: Analysis
       source:
         type: filter
         category_ids:
           - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c71
+          - 6a00793f1104bbff809b7e53
         tag_ids:
-          - 6a16d6ee8c60bc3c84eb2d26
-          - 6a16d7148c60bc3c84eb2d40
-          - 6a16d6ee8c60bc3c84eb2d24
-          - 6a16d7118c60bc3c84eb2d3c
-          - 6a1448c216f23264031d8005
-          - 6a1ef841ad9a1dd21ebb65e9
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a140e8916f23264031d7cf8
+          - 6a16d6fb8c60bc3c84eb2d31
+          - 6a226046ad9a1dd21ebb68b0
+          - 6a16d6e98c60bc3c84eb2d21
+          - 6a16d7298c60bc3c84eb2d44
+          - 6a313fc932676a5c75e4542a
+          - 6a313fa432676a5c75e4541d
+        category_names:
+          6a00793f1104bbff809b7e7b: Soccer
+          6a00793d1104bbff809b7c71: Sports
+          6a00793f1104bbff809b7e53: Fantasy Sports
+        tag_names:
+          6a140e8916f23264031d7cf8: soccer
+          6a16d6fb8c60bc3c84eb2d31: world-cup
+          6a226046ad9a1dd21ebb68b0: fifa
+          6a16d6e98c60bc3c84eb2d21: premier-league
+          6a16d7298c60bc3c84eb2d44: football
+          6a313fc932676a5c75e4542a: standings
+          6a313fa432676a5c75e4541d: lionel-messi
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: soccernewsreports
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -162,24 +235,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 78
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-0DTT5EW34K
   gtm: GT-57Z9N393
