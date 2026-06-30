@@ -169,44 +169,44 @@ site_tagline: null
 theme:
   base: ocean
   colors:
-    primary: "#0a1410"
-    accent: "#ca8a04"
-    background: "#0f1d16"
-    secondary: "#0f1d16"
-    text: "#e4e9e2"
-    muted: "#a0afa3"
-    surface: "#162a1f"
-    border: "#1c3024"
-    heading: "#e4e9e2"
-    link: "#86b08a"
-    link_hover: "#facc15"
-    nav_link: "#e4e9e2"
-    nav_link_hover: "#facc15"
-    footer_bg: "#06100a"
-    must_reads_bg: "#162a1f"
-    hero_title: "#e4e9e2"
-    must_reads_title: "#e4e9e2"
-    article_hero_title: "#e4e9e2"
-    article_hero_meta: "#a0afa3"
-    feed_title: "#e4e9e2"
-    feed_desc: "#c8d2c5"
-    feed_date: "#a0afa3"
-    prose_heading: "#e4e9e2"
-    prose_body: "#c8d2c5"
-    category_header_text: "#e4e9e2"
-    subscribe_heading: "#0f1d16"
-    footer_text: "#a0afa3"
-    footer_heading: "#e4e9e2"
-    footer_link: "#a0afa3"
-    footer_link_hover: "#facc15"
-  logo_height: 56
+    primary: "#1a1b2e"
+    accent: "#c81e3b"
+    background: "#0f111c"
+    secondary: "#252845"
+    text: "#e0e6f0"
+    muted: "#9aa3b8"
+    surface: "#1f2138"
+    border: "#2d2f4a"
+    heading: "#f0f3f8"
+    link: "#7c89f0"
+    link_hover: "#e94560"
+    nav_link: "#e0e6f0"
+    nav_link_hover: "#e94560"
+    footer_bg: "#0a0c14"
+    must_reads_bg: "#1a1b2e"
+    hero_title: "#f0f3f8"
+    must_reads_title: "#f0f3f8"
+    article_hero_title: "#f0f3f8"
+    article_hero_meta: "#9aa3b8"
+    feed_title: "#f0f3f8"
+    feed_desc: "#c8cee0"
+    feed_date: "#9aa3b8"
+    prose_heading: "#f0f3f8"
+    prose_body: "#c8cee0"
+    category_header_text: "#f0f3f8"
+    subscribe_heading: "#ffffff"
+    footer_text: "#9aa3b8"
+    footer_heading: "#f0f3f8"
+    footer_link: "#9aa3b8"
+    footer_link_hover: "#e94560"
+  logo_height: 60
   fonts:
-    heading: Lora
-    body: Source Sans 3
+    heading: Manrope
+    body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height_footer: 66
-  menu_item_font_size: 14
+  logo_height_footer: 70
+  menu_item_font_size: 16
 tracking:
   ga4: G-SN5HPBJSES
   gtm: GT-KFHGV5NP
