@@ -163,3 +163,10 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   menu_item_font_size: 14
+tracking:
+  ga4: G-TZ245KQE9C
+  gtm: GT-TNF233LL
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
