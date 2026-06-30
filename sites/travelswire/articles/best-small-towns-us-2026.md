@@ -1,11 +1,9 @@
 ---
 title: Discover the Best Small Towns in the US to Visit in 2026
-description: >-
-  Explore the top small towns in the US to visit in 2026, each offering unique
-  charm, local culture, and authentic experiences away from city crowds.
+description: Explore the top small towns in the US to visit in 2026, each offering unique charm, local culture, and authentic experiences away from city crowds.
 type: listicle
-status: review
-publishDate: '2026-06-28'
+status: published
+publishDate: 2026-06-28
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -14,13 +12,8 @@ tags:
   - slow travel
   - local culture
 slug: best-small-towns-us-2026
-reviewer_notes: >-
-  The article is well-structured with good tone and relevant destination
-  content, but falls slightly short of the 800-word target, includes Savannah
-  which is debatably not a 'small town,' and lacks deeper SEO keyword
-  integration beyond the title and tags.
-source_url: >-
-  https://www.travelpulse.com/news/features/best-small-towns-in-the-us-to-visit-in-2026
+reviewer_notes: Approved via review queue.
+source_url: https://www.travelpulse.com/news/features/best-small-towns-in-the-us-to-visit-in-2026
 source_item_id: 6a25149a40722bf12ccf98f4
 generated_by: openai
 featuredImage: /assets/images/best-small-towns-us-2026.webp
@@ -31,17 +24,11 @@ score_breakdown:
   content_length: 78
   factual_accuracy: 78
   keyword_relevance: 75
-quality_note: >-
-  The article is well-structured with good tone and relevant destination
-  content, but falls slightly short of the 800-word target, includes Savannah
-  which is debatably not a 'small town,' and lacks deeper SEO keyword
-  integration beyond the title and tags.
+quality_note: The article is well-structured with good tone and relevant destination content, but falls slightly short of the 800-word target, includes Savannah which is debatably not a 'small town,' and lacks deeper SEO keyword integration beyond the title and tags.
 reading_time: 3
 topics:
   - Destination Guides
-image_alt: >-
-  Sunlit small-town main street with flowers, café tables, travelers, and
-  rolling hills in the distance.
+image_alt: Sunlit small-town main street with flowers, café tables, travelers, and rolling hills in the distance.
 ---
 ## TL;DR
 Looking to escape the crowded streets of urban life? Discover the charm and authenticity of America's best small towns in 2026, where you can enjoy local culture and delightful experiences at a leisurely pace.

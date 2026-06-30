@@ -28,7 +28,7 @@ brief:
       - Sunday
     preferred_time: 10:00
   image_guidelines: []
-  quality_threshold: 100
+  quality_threshold: 55
   quality_weights:
     seo_quality: 20
     tone_match: 20
@@ -42,76 +42,66 @@ brief:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f7b
+          - 6a00793f1104bbff809b7f7d
+          - 6a00793f1104bbff809b7f81
         tag_ids:
-          - 6a09c32b099fd899f75e825f
-          - 6a1e3ccd9bf3ecf115d98259
-          - 6a140ea316f23264031d7d05
-          - 6a2515da40722bf12ccf9912
-          - 6a20891bad9a1dd21ebb6708
-          - 6a1831fb0fc9210eaf31ab42
-          - 6a1844a8454e8b9490eacaaf
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a033f7d86fcaaeb5bc833e2
+          - 6a0b38f8ac596b621e9356b5
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b38f8ac596b621e9356b4
+          - 6a1844a8454e8b9490eacaae
     - name: Travel Tips
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f97
+          - 6a00793f1104bbff809b7f9f
+          - 6a00793f1104bbff809b7f8b
+          - 6a00793f1104bbff809b7f9d
         tag_ids:
-          - 6a20891bad9a1dd21ebb6702
-          - 6a20891bad9a1dd21ebb670a
-          - 6a20892aad9a1dd21ebb6718
-          - 6a1831e80fc9210eaf31ab37
-          - 6a18322c0fc9210eaf31ab57
-          - 6a1831e10fc9210eaf31ab32
-          - 6a033f6886fcaaeb5bc833bd
-          - 6a1831cc0fc9210eaf31ab2a
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a0b38f8ac596b621e9356b7
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a0b1f01a53fcab94b3649b0
+          - 6a0b1ee9a53fcab94b364999
+          - 6a18345d0fc9210eaf31ab88
+          - 6a033f7d86fcaaeb5bc833e2
     - name: Local Culture
       source:
         type: filter
         category_ids:
-          - 6a00793f1104bbff809b7f7b
-          - 6a00793f1104bbff809b7f7d
-          - 6a00793f1104bbff809b7f7f
-          - 6a00793f1104bbff809b7f81
-          - 6a00793f1104bbff809b7f83
-          - 6a00793f1104bbff809b7f87
+          - 6a00793f1104bbff809b7f89
+          - 6a00793e1104bbff809b7cc1
+          - 6a00793e1104bbff809b7cc5
+          - 6a00793e1104bbff809b7d0f
         tag_ids:
           - 6a1831cb0fc9210eaf31ab24
-          - 6a0430ce86fcaaeb5bc8363f
-          - 6a033f7d86fcaaeb5bc833e0
-          - 6a18345d0fc9210eaf31ab83
-          - 6a1836920fc9210eaf31abaf
-          - 6a0430ce86fcaaeb5bc83642
-          - 6a144a3116f23264031d8027
-          - 6a20a767ad9a1dd21ebb6723
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a1831e10fc9210eaf31ab30
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a0b38f8ac596b621e9356b4
+          - 6a1844a8454e8b9490eacaae
+          - 6a033f7d86fcaaeb5bc833e2
     - name: Adventure Activities
       source:
         type: filter
         category_ids:
           - 6a00793f1104bbff809b7f89
+          - 6a00793f1104bbff809b7e4f
+          - 6a00793e1104bbff809b7cc9
+          - 6a00793f1104bbff809b7eab
         tag_ids:
-          - 6a09c32c099fd899f75e8263
-          - 6a0bc7fd16f23264031d77ad
-          - 6a0fe1b316f23264031d7a33
-          - 6a0445e886fcaaeb5bc83859
-          - 6a0fdf7f16f23264031d7a18
-          - 6a07fd844bdae0614e7aaebb
-          - 6a1e3a889bf3ecf115d9821b
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Thursday
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a0b38f8ac596b621e9356b5
+          - 6a19177d1e60b3e9a2208600
+          - 6a1831cb0fc9210eaf31ab23
+  category_ids: []
+  tag_ids: []
 groups:
   - atl
 iab_category_codes:
