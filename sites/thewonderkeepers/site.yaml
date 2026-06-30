@@ -19,7 +19,7 @@ brief:
     - Wonder
     - Wisdom
     - Heart
-    - Would You?
+    - Mind
   theme: Human interest stories with emotional depth - real moments of kindness, wonder, and life wisdom that remind you what matters most.
   topics_v2:
     - name: Stories
@@ -28,16 +28,16 @@ brief:
         category_ids:
           - 6a00793d1104bbff809b7c38
           - 6a00793d1104bbff809b7c53
-          - 6a00793d1104bbff809b7c41
           - 6a00793d1104bbff809b7c65
+          - 6a00793d1104bbff809b7c41
         tag_ids:
-          - 6a042b0a86fcaaeb5bc83515
-          - 6a033ab186fcaaeb5bc83330
-          - 6a0bc7cc16f23264031d7798
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
+          - 6a140c7216f23264031d7cd6
+          - 6a033ab186fcaaeb5bc8332e
           - 6a142ae016f23264031d7f39
           - 6a14261f16f23264031d7ea2
           - 6a142afc16f23264031d7f46
-          - 6a034d6286fcaaeb5bc834b1
     - name: Wonder
       description: religion, miracles and spirituality. wonder stories and good feeling
       source:
@@ -48,26 +48,26 @@ brief:
           - 6a00793e1104bbff809b7e0b
           - 6a0079401104bbff809b8005
         tag_ids:
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
           - 6a03361e86fcaaeb5bc83266
-          - 6a140c7216f23264031d7cd6
           - 6a034d6286fcaaeb5bc834b1
-          - 6a17dfc98c60bc3c84eb2e0f
-          - 6a15022716f23264031d80ac
     - name: Wisdom
       description: life wisdom, spirituality, astrology
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c65
           - 6a00793e1104bbff809b7e03
           - 6a00793e1104bbff809b7e05
+          - 6a00793d1104bbff809b7c65
         tag_ids:
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
           - 6a034d6286fcaaeb5bc834b1
           - 6a15022716f23264031d80ac
           - 6a15022716f23264031d80ab
-          - 6a033ab186fcaaeb5bc83330
-          - 6a042b0a86fcaaeb5bc83515
-          - 6a205326ad9a1dd21ebb66a0
+          - 6a07fd9d4bdae0614e7aaecc
+          - 6a140c7216f23264031d7cd6
     - name: Heart
       description: heartwarming, love, feelings, wisdom
       source:
@@ -75,32 +75,31 @@ brief:
         category_ids:
           - 6a00793d1104bbff809b7c38
           - 6a00793d1104bbff809b7c65
-          - 6a00793d1104bbff809b7c41
           - 6a00793e1104bbff809b7d77
+          - 6a00793d1104bbff809b7c53
         tag_ids:
-          - 6a033ab186fcaaeb5bc83330
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
           - 6a0bc7cc16f23264031d7798
           - 6a034d6286fcaaeb5bc834b1
           - 6a033ab186fcaaeb5bc8332e
           - 6a142ae016f23264031d7f39
           - 6a14261f16f23264031d7ea2
-          - 6a142afc16f23264031d7f46
-    - name: Would You?
-      description: what would you do if... stories with a message
+    - name: Mind
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c38
-          - 6a00793e1104bbff809b7e03
-          - 6a00793e1104bbff809b7d95
-          - 6a00793d1104bbff809b7c56
+          - 6a00793e1104bbff809b7d77
+          - 6a00793e1104bbff809b7d25
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d87
         tag_ids:
-          - 6a033ab186fcaaeb5bc8332e
-          - 6a042b0a86fcaaeb5bc83515
-          - 6a0bc7cc16f23264031d7798
-          - 6a140c7216f23264031d7cd7
-          - 6a205326ad9a1dd21ebb66a0
-          - 6a142ae016f23264031d7f39
+          - 6a033ab186fcaaeb5bc83330
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a0b1f2ca53fcab94b3649d3
+          - 6a0b1f2fa53fcab94b3649d9
+          - 6a07fd9d4bdae0614e7aaecc
+          - 6a140c5b16f23264031d7cc3
   seo_keywords_focus: []
   content_guidelines:
     - 1. Emotional arc in every story - situation to resolution
@@ -124,7 +123,8 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-groups: []
+groups:
+  - atl
 layout:
   hero:
     enabled: true
@@ -186,3 +186,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height_footer: 74
   menu_item_font_size: 16
+tracking:
+  ga4: G-48C943PVBQ
+  gtm: GT-NNXMVDFM
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
