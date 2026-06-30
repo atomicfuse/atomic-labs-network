@@ -1,28 +1,6 @@
-domain: travelswire.com
-site_name: TravelSwire
-site_tagline: null
-author: Sarah Rivera
-groups:
-  - ncg
+domain: travelswire
 active: true
-iab_vertical_code: "653"
-iab_category_codes:
-  - "662"
-  - "661"
-  - "669"
-  - "660"
-  - "666"
-  - "659"
-  - "676"
-  - "665"
-  - "656"
-  - "672"
-  - "657"
-  - "658"
-  - "673"
-  - "675"
-  - "670"
-  - "671"
+author: Sarah Rivera
 brief:
   audiences:
     - Travelers
@@ -134,6 +112,40 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Thursday
+groups:
+  - atl
+iab_category_codes:
+  - "662"
+  - "661"
+  - "669"
+  - "660"
+  - "666"
+  - "659"
+  - "676"
+  - "665"
+  - "656"
+  - "672"
+  - "657"
+  - "658"
+  - "673"
+  - "675"
+  - "670"
+  - "671"
+iab_vertical_code: "653"
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: TravelSwire
+site_tagline: null
 theme:
   base: custom
   colors:
@@ -161,18 +173,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-S6QEGTVET1
   gtm: null
