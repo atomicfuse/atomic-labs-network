@@ -19,7 +19,7 @@ source_url: >-
   https://www.afar.com/magazine/visit-denali-national-parks-closed-area-with-these-3-lodges
 source_item_id: 6a3c3743cbbe345bde11677b
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/denali-national-park-last-chance-summer-2023.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Adventure Activities
+image_alt: >-
+  Remote Denali wilderness with a bush plane, quiet pond, spruce forest, cabin,
+  and snowy mountains beyond.
 ---
 TL;DR: This summer, take advantage of minimal crowds in Denali National Park before the road reopens in 2027. Discover how to experience the park's quiet beauty through fly-in lodges and backpacking.
 

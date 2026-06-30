@@ -18,7 +18,7 @@ source_url: >-
   https://www.afar.com/magazine/why-summer-is-the-best-time-to-visit-hot-destinations
 source_item_id: 6a40c41acbbe345bde116a02
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/summer-hot-weather-travel-hacks.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
+image_alt: >-
+  Quiet luxury resort terrace with pool, turquoise coast, desert hills, and
+  golden summer light
 ---
 ## TL;DR
 Visiting hot-weather destinations during summer can save you money and provide unique experiences. With fewer crowds and lower rates, embrace the heat with our expert travel hacks!

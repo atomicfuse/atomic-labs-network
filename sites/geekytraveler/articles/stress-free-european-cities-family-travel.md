@@ -18,7 +18,7 @@ source_url: >-
   https://www.forbes.com/sites/kaitlynmcinnis/2026/06/29/these-are-the-least-stressful-european-destinations-for-families-per-new-analysis/
 source_item_id: 6a432325b38c8d71670c608a
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/stress-free-european-cities-family-travel.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destination Guides
+image_alt: Family walking through a calm European city square at golden hour
 ---
 ## TL;DR
 Looking for a stress-free family vacation in Europe? Check out our list of the top five cities that make traveling with kids a breeze, focusing on safety, ease of navigation, and family-friendly attractions.
