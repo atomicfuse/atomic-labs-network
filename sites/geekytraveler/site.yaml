@@ -163,7 +163,7 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  menu_item_font_size: 14
+  menu_item_font_size: 16
 tracking:
   ga4: G-TZ245KQE9C
   gtm: GT-TNF233LL
