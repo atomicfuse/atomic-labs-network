@@ -1,11 +1,9 @@
 ---
-title: 'Your Sagittarius Survival Guide for June 2026: Love, Money & Growth'
-description: >-
-  Navigate love, money, and emotional boundaries this June, Sagittarius. Prepare
-  for a transformative month of growth and breakthroughs.
+title: "Your Sagittarius Survival Guide for June 2026: Love, Money & Growth"
+description: Navigate love, money, and emotional boundaries this June, Sagittarius. Prepare for a transformative month of growth and breakthroughs.
 type: standard
-status: review
-publishDate: '2026-06-30'
+status: published
+publishDate: 2026-06-30
 author: Max Long
 tags:
   - Would You?
@@ -14,14 +12,8 @@ tags:
   - Astrology
   - Personal Growth
 slug: sagittarius-survival-guide-june-2026
-reviewer_notes: >-
-  This astrology horoscope article is fundamentally misaligned with
-  TheWonderKeepers' editorial identity — it lacks any real human story, uses a
-  brisk listicle format instead of warm storytelling, makes unverifiable
-  astrological claims presented as fact, and targets a niche (Sagittarius
-  readers) rather than the site's emotionally-driven human interest audience.
-source_url: >-
-  https://www.cosmopolitan.com/lifestyle/a71297321/sagittarius-monthly-horoscope-june-2026/
+reviewer_notes: Approved via review queue.
+source_url: https://www.cosmopolitan.com/lifestyle/a71297321/sagittarius-monthly-horoscope-june-2026/
 source_item_id: 6a14fea316f23264031d8054
 generated_by: openai
 featuredImage: /assets/images/sagittarius-survival-guide-june-2026.webp
@@ -32,18 +24,11 @@ score_breakdown:
   content_length: 78
   factual_accuracy: 30
   keyword_relevance: 22
-quality_note: >-
-  This astrology horoscope article is fundamentally misaligned with
-  TheWonderKeepers' editorial identity — it lacks any real human story, uses a
-  brisk listicle format instead of warm storytelling, makes unverifiable
-  astrological claims presented as fact, and targets a niche (Sagittarius
-  readers) rather than the site's emotionally-driven human interest audience.
+quality_note: This astrology horoscope article is fundamentally misaligned with TheWonderKeepers' editorial identity — it lacks any real human story, uses a brisk listicle format instead of warm storytelling, makes unverifiable astrological claims presented as fact, and targets a niche (Sagittarius readers) rather than the site's emotionally-driven human interest audience.
 reading_time: 3
 topics:
   - Wonder
-image_alt: >-
-  Sagittarius-inspired figure beneath a giant planet, lifting a veil between
-  night and sunrise
+image_alt: Sagittarius-inspired figure beneath a giant planet, lifting a veil between night and sunrise
 ---
 TL;DR: June 2026 is a transformative month for Sagittarius, focusing on love, finances, and personal growth. Get ready for emotional breakthroughs and new opportunities!
 
