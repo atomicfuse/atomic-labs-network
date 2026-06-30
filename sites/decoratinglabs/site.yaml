@@ -169,43 +169,49 @@ site_tagline: null
 theme:
   base: ocean
   colors:
-    primary: "#1a1b2e"
-    accent: "#c81e3b"
-    background: "#0f111c"
-    secondary: "#ffffff"
-    text: "#e0e6f0"
-    muted: "#9aa3b8"
-    surface: "#1f2138"
-    border: "#2d2f4a"
-    heading: "#f0f3f8"
-    link: "#7c89f0"
-    link_hover: "#e94560"
-    nav_link: "#e0e6f0"
-    nav_link_hover: "#e94560"
-    footer_bg: "#0a0c14"
-    must_reads_bg: "#1a1b2e"
-    hero_title: "#f0f3f8"
-    must_reads_title: "#f0f3f8"
-    article_hero_title: "#f0f3f8"
-    article_hero_meta: "#9aa3b8"
-    feed_title: "#f0f3f8"
-    feed_desc: "#c8cee0"
-    feed_date: "#9aa3b8"
-    prose_heading: "#f0f3f8"
-    prose_body: "#c8cee0"
-    category_header_text: "#f0f3f8"
-    subscribe_heading: "#ffffff"
-    footer_text: "#9aa3b8"
-    footer_heading: "#f0f3f8"
-    footer_link: "#9aa3b8"
-    footer_link_hover: "#e94560"
+    primary: "#0f1115"
+    accent: "#cbd5e1"
+    background: "#0f1115"
+    secondary: "#0f1115"
+    text: "#e5e7eb"
+    muted: "#94a3b8"
+    surface: "#1a1d23"
+    border: "#2a2f3a"
+    heading: "#f3f4f6"
+    link: "#94a3b8"
+    link_hover: "#cbd5e1"
+    nav_link: "#e5e7eb"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#0a0a0a"
+    must_reads_bg: "#1a1d23"
+    hero_title: "#f3f4f6"
+    must_reads_title: "#f3f4f6"
+    article_hero_title: "#f3f4f6"
+    article_hero_meta: "#94a3b8"
+    feed_title: "#f3f4f6"
+    feed_desc: "#cbd5e1"
+    feed_date: "#94a3b8"
+    prose_heading: "#f3f4f6"
+    prose_body: "#cbd5e1"
+    category_header_text: "#f3f4f6"
+    subscribe_heading: "#0f1115"
+    footer_text: "#cbd5e1"
+    footer_heading: "#f3f4f6"
+    footer_link: "#cbd5e1"
+    footer_link_hover: "#ffffff"
+    header_bg_gradient: "linear-gradient(135deg, #0f1115 0%, #1a1d23 25%, #475569 50%, #1a1d23 75%, #0f1115 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #cbd5e1 0%, #e5e7eb 50%, #cbd5e1 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #1a1d23 25%, #475569 50%, #1a1d23 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #1a1d23 0%, #475569 50%, #1a1d23 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(148,163,184,0.15) 50%, rgba(15,17,21,0.92) 100%)
   logo_height: 56
   fonts:
     heading: Manrope
-    body: Inter
+    body: Manrope
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height_footer: 66
+  menu_item_font_size: 14
 tracking:
   ga4: G-SN5HPBJSES
   gtm: GT-KFHGV5NP
