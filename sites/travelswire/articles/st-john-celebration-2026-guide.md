@@ -1,11 +1,9 @@
 ---
-title: 'Experience the St. John Celebration: Your Ultimate 2026 Caribbean Guide'
-description: >-
-  Dive into the vibrant St. John Celebration from June 14 to July 4, 2026!
-  Discover culture, music, and community in the U.S. Virgin Islands.
+title: "Experience the St. John Celebration: Your Ultimate 2026 Caribbean Guide"
+description: Dive into the vibrant St. John Celebration from June 14 to July 4, 2026! Discover culture, music, and community in the U.S. Virgin Islands.
 type: how-to
-status: review
-publishDate: '2026-06-30'
+status: published
+publishDate: 2026-06-30
 author: Sarah Rivera
 tags:
   - destination guides
@@ -13,13 +11,8 @@ tags:
   - cultural-festival
   - caribbean
 slug: st-john-celebration-2026-guide
-reviewer_notes: >-
-  The article is engaging and well-structured with good tone and topic
-  relevance, but falls short of the 800-word minimum at 673 words, and some
-  festival-specific claims (e.g., theme, exact dates) lack verifiable sourcing
-  which slightly undermines factual confidence.
-source_url: >-
-  https://www.travelpulse.com/news/destinations/u-s-virgin-islands-hosting-st-john-celebration
+reviewer_notes: Approved via review queue.
+source_url: https://www.travelpulse.com/news/destinations/u-s-virgin-islands-hosting-st-john-celebration
 source_item_id: 6a182f740fc9210eaf31ab0e
 generated_by: openai
 featuredImage: /assets/images/st-john-celebration-2026-guide.webp
@@ -30,17 +23,11 @@ score_breakdown:
   content_length: 62
   factual_accuracy: 78
   keyword_relevance: 80
-quality_note: >-
-  The article is engaging and well-structured with good tone and topic
-  relevance, but falls short of the 800-word minimum at 673 words, and some
-  festival-specific claims (e.g., theme, exact dates) lack verifiable sourcing
-  which slightly undermines factual confidence.
+quality_note: The article is engaging and well-structured with good tone and topic relevance, but falls short of the 800-word minimum at 673 words, and some festival-specific claims (e.g., theme, exact dates) lack verifiable sourcing which slightly undermines factual confidence.
 reading_time: 3
 topics:
   - Local Culture
-image_alt: >-
-  Golden Caribbean waterfront festival scene with dancers, musicians, boats,
-  turquoise water, and lush St. John hills
+image_alt: Golden Caribbean waterfront festival scene with dancers, musicians, boats, turquoise water, and lush St. John hills
 ---
 TL;DR: The St. John Celebration in the U.S. Virgin Islands promises an unforgettable experience from June 14 to July 4, 2026, showcasing culture, music, and community spirit.
 

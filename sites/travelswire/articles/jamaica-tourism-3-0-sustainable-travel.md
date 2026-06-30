@@ -1,11 +1,9 @@
 ---
-title: 'Jamaica''s Tourism 3.0: A New Era for Sustainable Travel'
-description: >-
-  Discover Jamaica's Tourism 3.0 initiative, focusing on sustainable growth that
-  benefits local communities and enhances traveler experiences in the Caribbean.
+title: "Jamaica's Tourism 3.0: A New Era for Sustainable Travel"
+description: Discover Jamaica's Tourism 3.0 initiative, focusing on sustainable growth that benefits local communities and enhances traveler experiences in the Caribbean.
 type: standard
-status: review
-publishDate: '2026-06-29'
+status: published
+publishDate: 2026-06-29
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -14,14 +12,8 @@ tags:
   - caribbean-travel
   - travel-recovery
 slug: jamaica-tourism-3-0-sustainable-travel
-reviewer_notes: >-
-  The article is engaging and well-structured with good heading hierarchy and
-  aligns with destination guide topics, but falls short on word count (629 words
-  vs. 800-1200 target), the meta description is slightly under 120 characters,
-  and the 'Tourism 3.0' initiative lacks verifiable sourcing or specific data
-  points, raising mild factual credibility concerns.
-source_url: >-
-  https://www.travelpulse.com/news/destinations/jamaica-tourism-3-0-charts-industry-s-growth-path
+reviewer_notes: Approved via review queue.
+source_url: https://www.travelpulse.com/news/destinations/jamaica-tourism-3-0-charts-industry-s-growth-path
 source_item_id: 6a2087c3ad9a1dd21ebb66d4
 generated_by: openai
 featuredImage: /assets/images/jamaica-tourism-3-0-sustainable-travel.webp
@@ -32,18 +24,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 70
   keyword_relevance: 75
-quality_note: >-
-  The article is engaging and well-structured with good heading hierarchy and
-  aligns with destination guide topics, but falls short on word count (629 words
-  vs. 800-1200 target), the meta description is slightly under 120 characters,
-  and the 'Tourism 3.0' initiative lacks verifiable sourcing or specific data
-  points, raising mild factual credibility concerns.
+quality_note: The article is engaging and well-structured with good heading hierarchy and aligns with destination guide topics, but falls short on word count (629 words vs. 800-1200 target), the meta description is slightly under 120 characters, and the 'Tourism 3.0' initiative lacks verifiable sourcing or specific data points, raising mild factual credibility concerns.
 reading_time: 3
 topics:
   - Destination Guides
-image_alt: >-
-  Travelers and locals walk through a sustainable Jamaican coastal village at
-  golden hour.
+image_alt: Travelers and locals walk through a sustainable Jamaican coastal village at golden hour.
 ---
 ## TL;DR
 Jamaica is launching its "Tourism 3.0" initiative, promoting sustainable growth that benefits both travelers and local communities, setting a new standard in the Caribbean tourism landscape.

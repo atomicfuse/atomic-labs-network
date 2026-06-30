@@ -1,11 +1,9 @@
 ---
-title: 'Peru: Your Essential Guide to Experiencing the Mystical Andes'
-description: >-
-  Discover why Peru, especially Cusco and Machu Picchu, is a must-visit for
-  travel lovers seeking heritage, culture, and breathtaking adventures.
+title: "Peru: Your Essential Guide to Experiencing the Mystical Andes"
+description: Discover why Peru, especially Cusco and Machu Picchu, is a must-visit for travel lovers seeking heritage, culture, and breathtaking adventures.
 type: standard
-status: review
-publishDate: '2026-06-30'
+status: published
+publishDate: 2026-06-30
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -14,13 +12,8 @@ tags:
   - Inca Heritage
   - Adventure Travel
 slug: peru-essential-guide-mystical-andes
-reviewer_notes: >-
-  A well-structured, engaging destination guide on Peru with strong tone and
-  topic relevance, but slightly under the target word count, contains a
-  questionable reference to 'Peru Travel Mart 2026' as a past event, and the
-  title slightly exceeds optimal SEO character length.
-source_url: >-
-  https://www.travelpulse.com/news/destinations/peru-mystical-destination-of-the-andes
+reviewer_notes: Approved via review queue.
+source_url: https://www.travelpulse.com/news/destinations/peru-mystical-destination-of-the-andes
 source_item_id: 6a37899acbbe345bde116387
 generated_by: openai
 featuredImage: /assets/images/peru-essential-guide-mystical-andes.webp
@@ -31,17 +24,11 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 78
   keyword_relevance: 88
-quality_note: >-
-  A well-structured, engaging destination guide on Peru with strong tone and
-  topic relevance, but slightly under the target word count, contains a
-  questionable reference to 'Peru Travel Mart 2026' as a past event, and the
-  title slightly exceeds optimal SEO character length.
+quality_note: A well-structured, engaging destination guide on Peru with strong tone and topic relevance, but slightly under the target word count, contains a questionable reference to 'Peru Travel Mart 2026' as a past event, and the title slightly exceeds optimal SEO character length.
 reading_time: 3
 topics:
   - Local Culture
-image_alt: >-
-  Traveler in an Andean shawl overlooks misty stone terraces and green mountain
-  peaks at sunrise.
+image_alt: Traveler in an Andean shawl overlooks misty stone terraces and green mountain peaks at sunrise.
 ---
 TL;DR: Peru is back on the travel radar, with Cusco and Machu Picchu leading the charge as enchanting spots for experiencing Inca heritage and breathtaking landscapes. 
 

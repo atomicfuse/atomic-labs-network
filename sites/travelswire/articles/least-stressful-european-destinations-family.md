@@ -1,11 +1,9 @@
 ---
 title: Top 5 Least Stressful European Destinations for Family Travel
-description: >-
-  Discover the top 5 least stressful European destinations for families, perfect
-  for safe, fun, and easy travel with kids.
+description: Discover the top 5 least stressful European destinations for families, perfect for safe, fun, and easy travel with kids.
 type: listicle
-status: review
-publishDate: '2026-06-30'
+status: published
+publishDate: 2026-06-30
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -14,14 +12,8 @@ tags:
   - family-friendly
   - travel-tips
 slug: least-stressful-european-destinations-family
-reviewer_notes: >-
-  The article is well-structured with good H2/H3 usage and a friendly tone
-  suited for family travelers, but falls slightly short on word count, the title
-  exceeds ideal SEO length, the meta description is under 120 characters, and
-  the reference to an 'Eminent analysis' appears to be an unverifiable or
-  potentially fabricated source that undermines factual credibility.
-source_url: >-
-  https://www.forbes.com/sites/kaitlynmcinnis/2026/06/29/these-are-the-least-stressful-european-destinations-for-families-per-new-analysis/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/kaitlynmcinnis/2026/06/29/these-are-the-least-stressful-european-destinations-for-families-per-new-analysis/
 source_item_id: 6a432325b38c8d71670c608a
 generated_by: openai
 featuredImage: /assets/images/least-stressful-european-destinations-family.webp
@@ -32,18 +24,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 72
   keyword_relevance: 75
-quality_note: >-
-  The article is well-structured with good H2/H3 usage and a friendly tone
-  suited for family travelers, but falls slightly short on word count, the title
-  exceeds ideal SEO length, the meta description is under 120 characters, and
-  the reference to an 'Eminent analysis' appears to be an unverifiable or
-  potentially fabricated source that undermines factual credibility.
+quality_note: The article is well-structured with good H2/H3 usage and a friendly tone suited for family travelers, but falls slightly short on word count, the title exceeds ideal SEO length, the meta description is under 120 characters, and the reference to an 'Eminent analysis' appears to be an unverifiable or potentially fabricated source that undermines factual credibility.
 reading_time: 3
 topics:
   - Travel Tips
-image_alt: >-
-  Family walking through a calm European city square at golden hour with
-  bicycles and historic facades nearby.
+image_alt: Family walking through a calm European city square at golden hour with bicycles and historic facades nearby.
 ---
 TL;DR: Planning a family trip to Europe? Discover the top five least stressful destinations for families that boast ease of travel, safety, and loads of fun for kids!
 
