@@ -136,7 +136,7 @@ theme:
     primary: "#0a0a0a"
     accent: "#a16207"
     background: "#0a0a0a"
-    secondary: "#0a0a0a"
+    secondary: "#d4a657"
     text: "#f5e8c7"
     muted: "#a8997a"
     surface: "#1a1410"
@@ -168,12 +168,13 @@ theme:
     footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
     must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
     hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
-  logo_height: 52
+  logo_height: 56
   fonts:
     heading: Playfair Display
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  menu_item_font_size: 15
 tracking:
   ga4: G-7BTQ1HEQCC
   gtm: GT-TXZ4VH72
