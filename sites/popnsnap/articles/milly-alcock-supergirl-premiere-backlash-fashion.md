@@ -21,7 +21,7 @@ source_url: >-
   https://www.dailymail.com/tvshowbiz/article-15921411/supergirl-milly-alcock-david-corenswet-premiere-new-york.html
 source_item_id: 6a3a0973cbbe345bde116557
 generated_by: openai
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: /assets/images/milly-alcock-supergirl-premiere-backlash-fashion.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Celebrities
+image_alt: >-
+  Confident actress in black couture stands on a dramatic red carpet under
+  flashing cameras.
 ---
 TL;DR: Milly Alcock made a striking appearance at the *Supergirl* premiere, rocking an edgy all-black outfit that made waves amid online backlash regarding her looks. Join us as we break down her bold statement look and the fashion highlights from the night.
 
