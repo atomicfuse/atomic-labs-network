@@ -1,11 +1,9 @@
 ---
 title: Australian Tiny House Achieves Mansion-Level Comfort Through Design
-description: >-
-  An Australian tiny house demonstrates how thoughtful design and indoor-outdoor
-  connectivity can deliver mansion-level comfort in a compact footprint.
+description: An Australian tiny house demonstrates how thoughtful design and indoor-outdoor connectivity can deliver mansion-level comfort in a compact footprint.
 type: standard
-status: review
-publishDate: '2026-06-10'
+status: published
+publishDate: 2026-06-10
 author: Max Scott
 tags:
   - News
@@ -14,11 +12,8 @@ tags:
   - Design
   - Architecture
 slug: australian-tiny-house-mansion-comfort-design
-reviewer_notes: >-
-  This article fails to match the automotive focus of carnewsinformer, covering
-  architecture instead of cars, with vague sourcing and below-target word count.
-source_url: >-
-  https://www.autoevolution.com/news/pint-sized-australian-tiny-house-masters-the-art-of-comfort-with-the-ease-of-a-mansion-271069.html
+reviewer_notes: Approved via review queue.
+source_url: https://www.autoevolution.com/news/pint-sized-australian-tiny-house-masters-the-art-of-comfort-with-the-ease-of-a-mansion-271069.html
 source_item_id: 6a24d55240722bf12ccf98e3
 generated_by: claude
 featuredImage: /assets/images/australian-tiny-house-mansion-comfort-design.webp
@@ -29,13 +24,9 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 40
   keyword_relevance: 15
-quality_note: >-
-  This article fails to match the automotive focus of carnewsinformer, covering
-  architecture instead of cars, with vague sourcing and below-target word count.
+quality_note: This article fails to match the automotive focus of carnewsinformer, covering architecture instead of cars, with vague sourcing and below-target word count.
 reading_time: 3
-image_alt: >-
-  Compact modern tiny house with open glass doors connecting a stylish interior
-  to a sunny deck.
+image_alt: Compact modern tiny house with open glass doors connecting a stylish interior to a sunny deck.
 ---
 ## Compact Living Redefined
 
