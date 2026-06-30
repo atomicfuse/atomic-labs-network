@@ -145,7 +145,8 @@ brief:
       - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
-groups: []
+groups:
+  - atl
 layout:
   hero:
     enabled: true
