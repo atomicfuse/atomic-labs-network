@@ -20,7 +20,7 @@ source_url: >-
   https://www.travelpulse.com/news/destinations/key-travel-advisories-announced-in-june-2026
 source_item_id: 6a40c41acbbe345bde1169fd
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/understanding-junes-travel-advisories.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 52
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
+image_alt: >-
+  Prepared travel essentials on a desk overlooking a calm international
+  waterfront skyline
 ---
 TL;DR: The US State Department has issued updated travel advisories just in time for summer travel, urging travelers to understand risks before heading abroad. Learn what the advisories mean, how to prepare, and ensure a safe trip.
 

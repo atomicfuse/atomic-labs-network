@@ -19,7 +19,7 @@ source_url: >-
   https://www.afar.com/magazine/long-weekend-in-north-georgia-hiawassee-to-dahlonega
 source_item_id: 6a3c3743cbbe345bde11676c
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/perfect-3-day-north-georgia-itinerary.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Adventure Activities
+image_alt: >-
+  Travelers overlook a North Georgia lake, mountain road, autumn hills, and
+  distant valley town.
 ---
 ## TL;DR
 Escape Atlanta for a refreshing 3-day trip to North Georgia’s scenic mountain towns. Experience breathtaking hikes, delightful wines, and serene lakes from Hiawassee to Dahlonega.

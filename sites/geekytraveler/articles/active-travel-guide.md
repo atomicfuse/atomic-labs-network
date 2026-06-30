@@ -19,7 +19,7 @@ source_url: >-
   https://www.forbes.com/sites/larryolmsted/2026/06/29/outdoor-adventure-why-active-travel-might-be-your-perfect-vacation/
 source_item_id: 6a432324b38c8d71670c6062
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/active-travel-guide.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 58
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destination Guides
+image_alt: >-
+  Travelers pause on a scenic alpine trail with bikes, a lake, and mountains at
+  golden hour.
 ---
 TL;DR: Active travel is rising, offering immersive vacations through hiking, cycling, and multi-sport adventures. This guide helps you choose the right style based on fitness and preference.
 
