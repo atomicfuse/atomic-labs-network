@@ -109,7 +109,8 @@ brief:
     preferred_days:
       - Thursday
     preferred_time: 10:00
-groups: []
+groups:
+  - ncg
 layout:
   hero:
     enabled: true
