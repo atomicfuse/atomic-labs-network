@@ -1,10 +1,6 @@
-domain: stroylab.com
-site_name: stroylab
-site_tagline: null
-author: Sarah Bennett
-groups:
-  - ncg
+domain: stroylab
 active: true
+author: Sarah Bennett
 brief:
   audiences:
     - Sensitive Topics enthusiasts
@@ -135,6 +131,27 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Thursday
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: stroylab
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -175,24 +192,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 64
   logo_height_footer: 90
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-EGE526M2PL
   gtm: GT-WR9QPQFL
