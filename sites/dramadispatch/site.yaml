@@ -1,9 +1,6 @@
-domain: dramadispatch.com
-site_name: DramaDispatch
-site_tagline: null
-author: Lily Price
-groups: []
+domain: dramadispatch
 active: true
+author: Lily Price
 brief:
   audiences: []
   tone: Focus on Entertainment content Maintain an engaging, reader-friendly tone
@@ -34,7 +31,7 @@ brief:
           - 6a008aba2a0a294c696af844
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: TV & Streaming
       source:
@@ -55,7 +52,8 @@ brief:
           - 6a13fe5e16f23264031d7c1e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Music Spotlight
       source:
         type: filter
@@ -74,7 +72,8 @@ brief:
           - 6a0430e186fcaaeb5bc83645
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Celebrity Culture
       source:
         type: filter
@@ -95,7 +94,8 @@ brief:
           - 6a04330d86fcaaeb5bc8367c
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
   seo_keywords_focus: []
   content_guidelines:
     - Always frame unverified information as speculation, never fact. Use attribution phrases like "sources say," "reports suggest," or question-format headlines. Never fabricate quotes from named individuals, and avoid stating a celebrity's health, legal, or relationship status as confirmed unless they said it publicly themselves. Political content, content about minors, and anything that could read as harassment of a named individual should not be published.
@@ -109,6 +109,27 @@ brief:
     preferred_days:
       - Thursday
     preferred_time: 10:00
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: DramaDispatch
+site_tagline: null
 theme:
   base: art_deco_brass
   colors:
@@ -153,21 +174,10 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
+tracking:
+  ga4: G-7BTQ1HEQCC
+  gtm: GT-TXZ4VH72
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
