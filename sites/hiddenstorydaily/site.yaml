@@ -1,4 +1,4 @@
-domain: hiddenstorydaily.com
+domain: hiddenstorydaily
 active: true
 author: Sarah Cooper
 brief:
@@ -14,8 +14,7 @@ brief:
     - Ancient Mysteries
     - Conspiracy Theories
     - Strange Phenomena
-  theme: a website about science and conspiracy, the unexplained from tesla to the
-    pyramids and aliens anunnaki
+  theme: a website about science and conspiracy, the unexplained from tesla to the pyramids and aliens anunnaki
   topics_v2:
     - name: Unexplained Events
       source:
@@ -132,14 +131,21 @@ brief:
   schedule:
     articles_per_day: 1
     preferred_days:
-      - Monday
-      - Tuesday
       - Wednesday
-      - Thursday
     preferred_time: 10:00
   audience_type_ids: []
   vertical_id: ""
   vertical: ""
+  image_guidelines: []
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  category_ids: []
+  tag_ids: []
 groups: []
 layout:
   hero:
@@ -194,14 +200,10 @@ theme:
     footer_heading: "#f5e8c7"
     footer_link: "#d4c79d"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7
-      50%, #b8860b 70%, #8a6508 100%)"
-    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a
-      50%, #2d2418 75%, #0a0a0a 100%)"
-    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%,
-      #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7 50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
     hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
   logo_height: 78
   fonts:
@@ -211,3 +213,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height_footer: 88
   menu_item_font_size: 18
+tracking:
+  ga4: G-86MG80VY5N
+  gtm: GT-K8KGT27F
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
