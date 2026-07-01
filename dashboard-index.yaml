@@ -7,7 +7,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-07-01T08:46:31.174Z
+    last_updated: 2026-07-01T08:46:42.678Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -16,7 +16,7 @@ sites:
     site_id: "0486296570218"
     staging_branch: staging/hiddenstorydaily
     status: Staging
-    vertical: Science
+    vertical: ""
     zone_id: null
   - domain: babyparenttrends
     cf_apo: false
