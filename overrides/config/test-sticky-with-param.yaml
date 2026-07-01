@@ -5,13 +5,8 @@ targets:
   groups: []
   sites:
     - travelswire
-tracking:
-  ga4: null
-  gtm: null
-  google_ads: null
-  facebook_pixel: null
-  facebook_domain_verification: null
-  custom: []
+    - wtpop
+tracking: {}
 scripts:
   head:
     - id: digi-widget
