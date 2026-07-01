@@ -18,7 +18,7 @@ source_url: >-
   https://www.afar.com/magazine/long-weekend-in-north-georgia-hiawassee-to-dahlonega
 source_item_id: 6a3c3743cbbe345bde11676c
 generated_by: openai
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/3-day-north-georgia-getaway-atlanta.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Adventure Activities
+image_alt: >-
+  Travelers overlook a blue North Georgia lake surrounded by forests and layered
+  mountain ridges.
 ---
 TL;DR: Looking for a quick escape from Atlanta? This three-day itinerary highlights the best of North Georgia's scenic trails, cozy wineries, and picturesque lakes, perfect for any adventurer!
 
