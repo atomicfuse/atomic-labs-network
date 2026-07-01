@@ -2,11 +2,8 @@ override_id: fb-pixel
 name: Facebook Pixel
 priority: 1
 targets:
-  groups:
-    - atl
-    - ncg
+  groups: []
   sites:
-    - babyparenttrends
     - buzzsoaps
     - carsnewsinformer
     - carsnewsmag
