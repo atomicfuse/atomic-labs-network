@@ -17,7 +17,7 @@ reviewer_notes: ''
 source_url: 'https://www.timeout.com/usa/travel/worlds-best-cities-for-food'
 source_item_id: 6a3c3743cbbe345bde11676e
 generated_by: openai
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/best-food-cities-travel-2023.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -31,6 +31,9 @@ quality_note: >-
   target at 643 words and has moderate SEO optimization with a title slightly
   over the ideal character range.
 reading_time: 3
+image_alt: >-
+  Colorful global street foods arranged on a travel table with a softly blurred
+  market backdrop.
 ---
 TL;DR: If you’re a food lover looking for your next travel destination, check out these six cities where the culinary scene thrives on diversity, affordability, and local flavors!
 
