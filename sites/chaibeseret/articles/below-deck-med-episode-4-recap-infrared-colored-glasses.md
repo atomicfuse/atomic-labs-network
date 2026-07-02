@@ -19,7 +19,7 @@ source_url: >-
   https://www.vulture.com/article/below-deck-mediterranean-recap-season-11-episode-4-bravo.html
 source_item_id: 6a43545ab38c8d71670c6212
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/below-deck-med-episode-4-recap-infrared-colored-glasses.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 78
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - reviews
+image_alt: >-
+  Tense yacht crew scene with romantic drama, rising leadership, and a
+  mysterious candlelit dinner setup.
 ---
 If you thought *Below Deck Mediterranean* was going to ease into its drama slowly, Episode 4 — titled **"Infrared-Colored Glasses"** — had other plans. This week's installment is where the season's early chaos starts to crystallize into something more structured, with work performance finally stepping into the spotlight alongside the boatmance mayhem.
 
