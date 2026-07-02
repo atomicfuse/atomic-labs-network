@@ -18,7 +18,7 @@ source_url: >-
   https://www.wdbj7.com/2026/06/25/paws-claws-preventing-feline-lower-urinary-tract-disease/
 source_item_id: 6a3e004acbbe345bde116869
 generated_by: openai
-featuredImage: /assets/images/dogslabs-general-article.webp
+featuredImage: /assets/images/preventing-feline-lower-urinary-tract-disease.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -33,6 +33,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Breed Guides
+image_alt: >-
+  Indoor cat near a clean litter box as an owner watches attentively in a bright
+  home
 ---
 TL;DR: Feline Lower Urinary Tract Disease (FLUTD) is a serious health issue for cats that many owners mistake for behavioral problems. Learn the warning signs and prevention tips to keep your kitty happy and healthy!
 
