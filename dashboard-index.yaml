@@ -2,7 +2,7 @@ sites:
   - domain: babyparenttrends
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:49:43.000Z
     custom_domain: babyparenttrends.com
     exclusivity: null
     fixed_ad: false
@@ -22,7 +22,7 @@ sites:
   - domain: buzzsoaps
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:55.000Z
     custom_domain: buzzsoaps.com
     exclusivity: null
     fixed_ad: false
@@ -62,7 +62,7 @@ sites:
   - domain: carsnewsmag
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:46:28.000Z
     custom_domain: carsnewsmag.com
     exclusivity: null
     fixed_ad: false
@@ -101,7 +101,7 @@ sites:
   - domain: coffeeactually
     cf_apo: false
     company: null
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:32.000Z
     custom_domain: coffeeactually.com
     exclusivity: null
     fixed_ad: false
@@ -141,7 +141,7 @@ sites:
   - domain: decoratingmom
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:46:42.000Z
     custom_domain: decoratingmom.com
     exclusivity: null
     fixed_ad: false
@@ -241,7 +241,7 @@ sites:
   - domain: eznutritiontips
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:17.000Z
     custom_domain: eznutritiontips.com
     exclusivity: null
     fixed_ad: false
@@ -261,7 +261,7 @@ sites:
   - domain: fashionnewsbee
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:33.000Z
     custom_domain: fashionnewsbee.com
     exclusivity: null
     fixed_ad: false
@@ -301,7 +301,7 @@ sites:
   - domain: gadgetskoala
     cf_apo: false
     company: null
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:49:49.000Z
     custom_domain: gadgetskoala.com
     exclusivity: null
     fixed_ad: false
@@ -341,7 +341,7 @@ sites:
   - domain: gamingnewsalley
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:51.000Z
     custom_domain: gamingnewsalley.com
     exclusivity: null
     fixed_ad: false
@@ -361,7 +361,7 @@ sites:
   - domain: geekystudios
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:49:58.000Z
     custom_domain: geekystudios.com
     exclusivity: null
     fixed_ad: false
@@ -401,7 +401,7 @@ sites:
   - domain: giantsavings
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:49.000Z
     custom_domain: giant-savings.co
     exclusivity: null
     fixed_ad: false
@@ -421,7 +421,7 @@ sites:
   - domain: gigsfreaks
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:50:01.000Z
     custom_domain: gigsfreaks.com
     exclusivity: null
     fixed_ad: false
@@ -441,7 +441,7 @@ sites:
   - domain: hiddenstorydaily
     cf_apo: false
     company: null
-    created_at: 2026-06-03T11:31:36.570Z
+    created_at: 2026-07-01T09:18:26.189Z
     custom_domain: hiddenstorydaily.com
     exclusivity: null
     fixed_ad: false
@@ -461,7 +461,7 @@ sites:
   - domain: journeypeaks
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:55.000Z
     custom_domain: journeypeaks.com
     exclusivity: null
     fixed_ad: false
@@ -481,7 +481,7 @@ sites:
   - domain: medicalnewsalley
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:49:12.000Z
     custom_domain: medicalnewsalley.com
     exclusivity: null
     fixed_ad: false
@@ -501,7 +501,7 @@ sites:
   - domain: medicalnewscorner
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:46:46.000Z
     custom_domain: medicalnewscorner.com
     exclusivity: null
     fixed_ad: false
@@ -521,7 +521,7 @@ sites:
   - domain: mindmedications
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:37.000Z
     custom_domain: mindmedications.com
     exclusivity: null
     fixed_ad: false
@@ -541,7 +541,7 @@ sites:
   - domain: mindsbit
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:37.000Z
     custom_domain: mindsbit.com
     exclusivity: null
     fixed_ad: false
@@ -561,7 +561,7 @@ sites:
   - domain: muvizz
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:39.000Z
     custom_domain: muvizz.com
     exclusivity: null
     fixed_ad: false
@@ -581,7 +581,7 @@ sites:
   - domain: paleobeasts
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:18.000Z
     custom_domain: paleobeasts.com
     exclusivity: null
     fixed_ad: false
@@ -601,7 +601,7 @@ sites:
   - domain: popnsnap
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:00.000Z
     custom_domain: popnsnap.com
     exclusivity: null
     fixed_ad: false
@@ -621,7 +621,7 @@ sites:
   - domain: sciencenewslab
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:00.000Z
     custom_domain: sciencenewslab.com
     exclusivity: null
     fixed_ad: false
@@ -641,7 +641,7 @@ sites:
   - domain: sillycapybara
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-06-28T07:58:19.000Z
     custom_domain: sillycapybara.com
     exclusivity: null
     fixed_ad: false
@@ -661,7 +661,7 @@ sites:
   - domain: soccernewsreports
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:46:27.000Z
     custom_domain: soccernewsreports.com
     exclusivity: null
     fixed_ad: false
@@ -681,7 +681,7 @@ sites:
   - domain: stroylab
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:18.000Z
     custom_domain: stroylab.com
     exclusivity: null
     fixed_ad: false
@@ -721,7 +721,7 @@ sites:
   - domain: travelbeautytips
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:46:26.000Z
     custom_domain: travelbeautytips.com
     exclusivity: null
     fixed_ad: false
@@ -741,7 +741,7 @@ sites:
   - domain: travelclearly
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:20.000Z
     custom_domain: travelclearly.com
     exclusivity: null
     fixed_ad: false
@@ -780,7 +780,7 @@ sites:
   - domain: travelnights
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:49:31.000Z
     custom_domain: travelnights.com
     exclusivity: null
     fixed_ad: false
@@ -840,7 +840,7 @@ sites:
   - domain: tvshowbox
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:49:06.000Z
     custom_domain: tvshowbox.com
     exclusivity: null
     fixed_ad: false
@@ -860,7 +860,7 @@ sites:
   - domain: tvshowsmag
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:41.000Z
     custom_domain: tvshowsmag.com
     exclusivity: null
     fixed_ad: false
@@ -880,7 +880,7 @@ sites:
   - domain: useminds
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:47:24.000Z
     custom_domain: useminds.com
     exclusivity: null
     fixed_ad: false
@@ -920,7 +920,7 @@ sites:
   - domain: womendivision
     cf_apo: false
     company: ATL
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:48:12.000Z
     custom_domain: womendivision.com
     exclusivity: null
     fixed_ad: false
@@ -960,7 +960,7 @@ sites:
   - domain: yogaterritory
     cf_apo: false
     company: NGC
-    created_at: 2026-05-24T10:50:03.022Z
+    created_at: 2026-05-24T10:46:47.000Z
     custom_domain: yogaterritory.com
     exclusivity: null
     fixed_ad: false
