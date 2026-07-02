@@ -18,7 +18,7 @@ source_url: >-
   https://www.thedodo.com/videos/mama-dog-leads-rescuer-to-a-hidden-cave-to-save-her-puppies
 source_item_id: 6a3e004acbbe345bde116870
 generated_by: openai
-featuredImage: /assets/images/dogslabs-general-article.webp
+featuredImage: /assets/images/mama-dog-leads-rescuers-save-puppies.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 62
@@ -34,6 +34,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Wildlife Stories
+image_alt: Tan mother dog leads rescuers toward a hidden cave in a warm forest clearing.
 ---
 ## TL;DR
 A brave mama dog leads rescuers through a forest to save her trapped puppies from a hidden cave. This heartwarming story showcases the power of maternal instinct and the dedication of animal rescue teams.
