@@ -38,8 +38,8 @@ reading_time: 3
 topics:
   - Travel Tips
 image_alt: >-
-  Prepared travel essentials on a desk overlooking a calm international
-  waterfront skyline
+  Sunlit travel planning scene with passport, map, pins, and blurred airport
+  travelers
 ---
 TL;DR: The US State Department has issued updated travel advisories just in time for summer travel, urging travelers to understand risks before heading abroad. Learn what the advisories mean, how to prepare, and ensure a safe trip.
 

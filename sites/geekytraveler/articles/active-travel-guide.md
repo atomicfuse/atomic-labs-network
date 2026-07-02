@@ -36,8 +36,8 @@ reading_time: 3
 topics:
   - Destination Guides
 image_alt: >-
-  Travelers pause on a scenic alpine trail with bikes, a lake, and mountains at
-  golden hour.
+  Travelers with bikes and hiking packs pause on a sunny mountain ridge above a
+  winding trail.
 ---
 TL;DR: Active travel is rising, offering immersive vacations through hiking, cycling, and multi-sport adventures. This guide helps you choose the right style based on fitness and preference.
 

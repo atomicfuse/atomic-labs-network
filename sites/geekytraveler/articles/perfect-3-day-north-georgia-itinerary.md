@@ -38,8 +38,8 @@ reading_time: 3
 topics:
   - Adventure Activities
 image_alt: >-
-  Travelers overlook a North Georgia lake, mountain road, autumn hills, and
-  distant valley town.
+  Winding North Georgia mountain road overlooking a lake and Blue Ridge peaks at
+  golden hour
 ---
 ## TL;DR
 Escape Atlanta for a refreshing 3-day trip to North Georgia’s scenic mountain towns. Experience breathtaking hikes, delightful wines, and serene lakes from Hiawassee to Dahlonega.
