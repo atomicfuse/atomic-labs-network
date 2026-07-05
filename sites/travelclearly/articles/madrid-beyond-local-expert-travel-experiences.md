@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/shivanivora/2026/06/08/how-madrid--beyond-creates-the-kind-of-travel-experiences-you-cant-google/
 source_item_id: 6a2773a4eb470600f97052a0
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/madrid-beyond-local-expert-travel-experiences.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   short on length (579 words vs 800-1200 target) and could benefit from stronger
   SEO optimization in title and structure.
 reading_time: 3
+image_alt: >-
+  Travelers share a golden-hour courtyard gathering with local artisans and
+  chefs in Spain or Portugal.
 ---
 ## The New Face of Luxury Travel
 
