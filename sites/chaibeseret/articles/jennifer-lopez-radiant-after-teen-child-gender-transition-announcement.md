@@ -19,7 +19,8 @@ source_url: >-
   https://www.dailymail.com/tvshowbiz/article-15865993/Jennifer-Lopez-WWHL-teen-revealed-gender-change.html
 source_item_id: 6a1e59f29bf3ecf115d982a2
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: >-
+  /assets/images/jennifer-lopez-radiant-after-teen-child-gender-transition-announcement.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 75
@@ -33,6 +34,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - breaking news
+image_alt: >-
+  Smiling celebrity exits a studio at night amid camera flashes and blurred
+  fans.
 ---
 ## J.Lo Beams During Public Appearance
 
