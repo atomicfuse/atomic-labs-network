@@ -92,23 +92,15 @@ brief:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c32
-          - 6a0079401104bbff809b7fe1
-          - 6a0079401104bbff809b7ff1
-          - 6a0079401104bbff809b7fe7
-          - 6a0079401104bbff809b7fef
+          - 6a0079401104bbff809b7ff9
+          - 6a0079401104bbff809b8009
+          - 6a0079401104bbff809b7fed
         tag_ids:
           - 6a14ffd716f23264031d8079
-          - 6a0bc82716f23264031d77be
-          - 6a04563c86fcaaeb5bc8396a
-          - 6a1520b616f23264031d813e
-          - 6a1520cf16f23264031d8149
-          - 6a0be65716f23264031d7846
-          - 6a0be87e16f23264031d7871
-          - 6a14034416f23264031d7c72
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Friday
+          - 6a008aba2a0a294c696af843
+          - 6a008aba2a0a294c696af844
+          - 6a1e5dad9bf3ecf115d98326
+          - 6a1e5b209bf3ecf115d982d3
     - name: TV & Movies
       source:
         type: filter
