@@ -21,81 +21,65 @@ brief:
         type: filter
         category_ids:
           - 6a0079401104bbff809b7fd9
+          - 6a00793d1104bbff809b7c5f
           - 6a00793f1104bbff809b7f29
+          - 6a00793d1104bbff809b7c32
         tag_ids:
-          - 6a13fe5e16f23264031d7c1e
-          - 6a0b34dbac596b621e93564d
-          - 6a042e5886fcaaeb5bc835a3
-          - 6a0bc5e616f23264031d7780
+          - 6a37ca10cbbe345bde1163ed
+          - 6a1417f816f23264031d7d70
+          - 6a37ca31cbbe345bde1163fb
+          - 6a37c7b7cbbe345bde1163b3
+          - 6a008aba2a0a294c696af843
+          - 6a0435ac86fcaaeb5bc836f0
           - 6a04330d86fcaaeb5bc8367c
-          - 6a008aba2a0a294c696af844
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
     - name: TV & Streaming
       source:
         type: filter
         category_ids:
           - 6a0079401104bbff809b7fdb
+          - 6a00793d1104bbff809b7c5f
           - 6a0079401104bbff809b7fd9
           - 6a0079401104bbff809b800b
-          - 6a00793d1104bbff809b7c5f
         tag_ids:
+          - 6a0b1bfda53fcab94b364993
+          - 6a008aba2a0a294c696af843
+          - 6a04548486fcaaeb5bc83956
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a0bc59f16f23264031d7761
+          - 6a0b32d1ac596b621e9355ec
+          - 6a04565486fcaaeb5bc8396d
           - 6a04565c86fcaaeb5bc83974
-          - 6a04562f86fcaaeb5bc8395c
-          - 6a0430f786fcaaeb5bc83651
-          - 6a008aba2a0a294c696af844
-          - 6a04330d86fcaaeb5bc8367c
-          - 6a044ccf86fcaaeb5bc83878
-          - 6a0b36b8ac596b621e93567a
-          - 6a13fe5e16f23264031d7c1e
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
     - name: Music Spotlight
       source:
         type: filter
         category_ids:
-          - 6a0079401104bbff809b7fed
-          - 6a0079401104bbff809b7ff9
-          - 6a0079401104bbff809b8009
-          - 6a0079401104bbff809b7fef
+          - 6a00793d1104bbff809b7c32
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b7fd3
+          - 6a0079401104bbff809b7fdb
         tag_ids:
-          - 6a14ffd716f23264031d8079
           - 6a008aba2a0a294c696af844
-          - 6a03467e86fcaaeb5bc83424
-          - 6a0bc82716f23264031d77be
-          - 6a04563c86fcaaeb5bc8396a
+          - 6a0b36c2ac596b621e93567e
+          - 6a14ffd716f23264031d8079
+          - 6a0bca0116f23264031d77d0
           - 6a04330d86fcaaeb5bc8367c
-          - 6a0430e186fcaaeb5bc83645
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
+          - 6a1e5dad9bf3ecf115d98326
+          - 6a1e5b209bf3ecf115d982d3
     - name: Celebrity Culture
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c5f
-          - 6a00793e1104bbff809b7ddb
-          - 6a00793e1104bbff809b7ddd
           - 6a00793e1104bbff809b7de3
           - 6a00793e1104bbff809b7de5
+          - 6a00793e1104bbff809b7de7
         tag_ids:
           - 6a008aba2a0a294c696af844
-          - 6a03467e86fcaaeb5bc83424
-          - 6a0b350eac596b621e935655
-          - 6a0b345dac596b621e935627
-          - 6a0b365aac596b621e93565d
           - 6a0b36b7ac596b621e935675
-          - 6a042c0186fcaaeb5bc83550
-          - 6a04330d86fcaaeb5bc8367c
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
+          - 6a0b345dac596b621e935627
+          - 6a0b34dbac596b621e93564e
+          - 6a0bca0116f23264031d77d0
+          - 6a03467e86fcaaeb5bc83424
   seo_keywords_focus: []
   content_guidelines:
     - Always frame unverified information as speculation, never fact. Use attribution phrases like "sources say," "reports suggest," or question-format headlines. Never fabricate quotes from named individuals, and avoid stating a celebrity's health, legal, or relationship status as confirmed unless they said it publicly themselves. Political content, content about minors, and anything that could read as harassment of a named individual should not be published.
