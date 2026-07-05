@@ -19,7 +19,7 @@ source_url: >-
   https://www.goodhousekeeping.com/travel/travel-tips-and-planning/a71484564/hotel-mini-fridge-warning/
 source_item_id: 6a2087c2ad9a1dd21ebb66c6
 generated_by: claude
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/hotel-mini-fridges-food-safety-warning.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length (563 words vs 800-1200 target) and could benefit from
   stronger SEO optimization in the title and headings.
 reading_time: 3
+image_alt: >-
+  Open hotel mini fridge beside travel items, leftovers, and medication in a
+  dimly lit room
 ---
 ## The Hidden Hotel Room Hazard
 
