@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.ynetnews.com/travel/article/rj1gi7gqzg'
 source_item_id: 6a49fe9a14aeb4629abef421
 generated_by: openai
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/sapa-vietnam-tourist-trap.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destinations
+image_alt: >-
+  Misty Sapa rice terraces framed by stone pillars and staged tourist props in
+  the foreground.
 ---
 ## TL;DR
 An Israeli travel blogger, Yonatan Hershkowitz, visits Sapa, Vietnam, and discovers that its famed authenticity can be misleading, revealing a landscape dominated by tourist traps rather than genuine local culture.
