@@ -20,7 +20,7 @@ source_url: >-
   https://www.cosmopolitan.com/entertainment/tv/a71459302/euphoria-season-4-news-cast-details/
 source_item_id: 6a1e39239bf3ecf115d981ea
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/hbo-cancels-euphoria-season-4-tragic-finale.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - reviews
+image_alt: >-
+  Empty neon-lit school hallway with an abandoned hoodie under a flickering
+  light.
 ---
 ## HBO Makes It Official: No Season 4 for Euphoria
 
