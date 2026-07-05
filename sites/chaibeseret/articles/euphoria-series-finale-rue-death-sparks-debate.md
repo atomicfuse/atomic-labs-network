@@ -19,7 +19,7 @@ source_url: >-
   https://www.forbes.com/sites/danidiplacido/2026/06/01/the-messy-series-finale-of-euphoria-explained/
 source_item_id: 6a1e39229bf3ecf115d981cb
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/euphoria-series-finale-rue-death-sparks-debate.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 85
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - reviews
+image_alt: >-
+  Neon-lit empty bedroom with scattered belongings and red light through blinds,
+  suggesting a tragic finale.
 ---
 ## A Tragic End for Rue's Journey
 

@@ -35,8 +35,8 @@ reading_time: 2
 topics:
   - breaking news
 image_alt: >-
-  Smiling celebrity exits a studio at night amid camera flashes and blurred
-  fans.
+  Smiling entertainer leaves a studio at night amid camera flashes and soft
+  rainbow reflections.
 ---
 ## J.Lo Beams During Public Appearance
 

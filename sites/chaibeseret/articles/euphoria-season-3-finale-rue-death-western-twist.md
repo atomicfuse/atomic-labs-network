@@ -19,7 +19,7 @@ source_url: >-
   https://www.elle.com/culture/movies-tv/a71462004/euphoria-season-3-finale-recap-review/
 source_item_id: 6a1e39229bf3ecf115d981e0
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/euphoria-season-3-finale-rue-death-western-twist.webp
 quality_score: 52
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - reviews
+image_alt: >-
+  Neon bedroom merging into a dusty Western street, symbolizing a tragic finale
+  and genre shift.
 ---
 ## Rue's Tragic End Marks Series Conclusion
 

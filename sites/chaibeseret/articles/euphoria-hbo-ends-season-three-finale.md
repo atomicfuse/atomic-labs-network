@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.thecut.com/article/euphoria-is-ending-hallelujah.html'
 source_item_id: 6a1e6a5a9bf3ecf115d983de
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/euphoria-hbo-ends-season-three-finale.webp
 quality_score: 58
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - reviews
+image_alt: >-
+  Empty neon-lit school hallway with an abandoned sequined jacket, suggesting a
+  dramatic series finale.
 ---
 ## HBO's Controversial Teen Drama Comes to a Close
 

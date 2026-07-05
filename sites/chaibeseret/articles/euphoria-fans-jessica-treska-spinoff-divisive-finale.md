@@ -20,7 +20,7 @@ source_url: >-
   https://www.usmagazine.com/entertainment/news/will-jessica-treska-get-euphoria-spinoff-after-series-finale/
 source_item_id: 6a1e59f39bf3ecf115d982bf
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/euphoria-fans-jessica-treska-spinoff-divisive-finale.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - reviews
+image_alt: >-
+  A young woman stands in a neon-lit school hallway as flowers and phone screens
+  blur in the foreground.
 ---
 ## Fans Rally Behind Daisy Miller Theory
 
