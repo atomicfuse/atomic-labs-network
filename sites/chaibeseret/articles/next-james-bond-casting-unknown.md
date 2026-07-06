@@ -18,7 +18,7 @@ source_url: >-
   https://deadline.com/2026/06/james-bond-casting-director-requirements-1236970773/
 source_item_id: 6a4343f3b38c8d71670c6123
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/next-james-bond-casting-unknown.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - movie trailers
+image_alt: >-
+  Mysterious suited actors stand in shadow as one unknown figure steps into a
+  cinematic spotlight.
 ---
 ## TL;DR
 Casting the next James Bond might center on finding a lesser-known actor, as Debbie McWilliams emphasizes that 007 should remain a complete enigma. Find out why this focus on mystery is crucial for the iconic role!
