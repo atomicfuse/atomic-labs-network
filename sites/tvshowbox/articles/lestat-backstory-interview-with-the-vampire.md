@@ -19,7 +19,7 @@ source_url: >-
   https://www.cosmopolitan.com/entertainment/tv/a71459278/lestat-backstory-interview-with-the-vampire/
 source_item_id: 6a2773a5eb470600f97052bc
 generated_by: openai
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/lestat-backstory-interview-with-the-vampire.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - TV News
+image_alt: >-
+  A gothic aristocrat stands before a cracked mirror with shadowy family figures
+  in candlelight.
 ---
 ## TL;DR
 In AMC's *Interview with the Vampire*, Lestat de Lioncourt's backstory is packed with dark family secrets and complex relationships, reshaping the narrative fans thought they knew across the first two seasons. Join us as we unpack his journey and the impact of his mother's introduction!

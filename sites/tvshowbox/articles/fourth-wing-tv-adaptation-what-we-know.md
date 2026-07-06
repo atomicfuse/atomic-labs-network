@@ -19,7 +19,7 @@ source_url: >-
   https://www.elle.com/culture/movies-tv/a61666889/fourth-wing-tv-show-release-date-news-cast-plot/
 source_item_id: 6a042b2286fcaaeb5bc83540
 generated_by: openai
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/fourth-wing-tv-adaptation-what-we-know.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Reviews
+image_alt: >-
+  A lone fantasy cadet faces a dragon-shaped shadow over stormy mountains at
+  twilight.
 ---
 TL;DR: The highly anticipated *Fourth Wing* adaptation is coming to Prime Video with a stellar team behind it, though details on casting and release dates remain a mystery.
 
