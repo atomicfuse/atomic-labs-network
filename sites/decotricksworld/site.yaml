@@ -105,6 +105,9 @@ brief:
     preferred_days:
       - Wednesday
     preferred_time: 10:00
+categories:
+  enabled: true
+  per_page: 12
 theme:
   base: botanical
   colors:
