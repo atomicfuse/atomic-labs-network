@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Person practicing a strong yoga pose in a bright, calming studio with soft
   morning light
+topics:
+  - Yoga Poses
 ---
 
 Yoga has become a popular method for those seeking effective and holistic weight loss solutions. This ancient practice not only aids in shedding extra pounds but also enhances overall well-being through mindful movements and focused breathing. By integrating yoga into your fitness routine, you can maintain a healthy body while combating obesity.

@@ -32,6 +32,8 @@ quality_note: >-
   short of optimal length at 550 words when targeting 800-1200 words.
 reading_time: 3
 image_alt: Chefs face unconventional plated dishes on a warm-lit competition table.
+topics:
+  - TV News
 ---
 ## Final Four Face High-Stakes Challenges
 

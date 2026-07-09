@@ -1,6 +1,8 @@
 ---
-title: "Seligman, Arizona: The Tiny Town That Saved Route 66"
-description: A barber named Angel Delgadillo saved Route 66 from extinction in 1987 — and Seligman, Arizona is the spiritual capital of the Mother Road because of him.
+title: 'Seligman, Arizona: The Tiny Town That Saved Route 66'
+description: >-
+  A barber named Angel Delgadillo saved Route 66 from extinction in 1987 — and
+  Seligman, Arizona is the spiritual capital of the Mother Road because of him.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -16,17 +18,27 @@ slug: seligman-arizona-route-66-living-museum
 reading_time: 6
 featuredImage: /assets/images/seligman-arizona-route-66-living-museum.webp
 seo:
-  og_title: "Seligman, Arizona: The Tiny Town That Saved Route 66"
-  og_description: How a small-town barber saved the Mother Road and turned Seligman into Route 66's spiritual capital. A guide to the most important small stop on the trip.
+  og_title: 'Seligman, Arizona: The Tiny Town That Saved Route 66'
+  og_description: >-
+    How a small-town barber saved the Mother Road and turned Seligman into Route
+    66's spiritual capital. A guide to the most important small stop on the
+    trip.
   twitter_card: summary_large_image
-image_alt: Golden-hour desert main street with vintage cars, a barber pole, and a highway stretching toward mesas.
+image_alt: >-
+  Golden-hour desert main street with vintage cars, a barber pole, and a highway
+  stretching toward mesas.
 scripts:
   - id: dfe4dfec-df0a-4e73-85bb-bac94e107d81
     name: travelswire2
     position: after-paragraph-1
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="travelswire2"></div>
+topics:
+  - Destination Guides
 ---
 
 When I-40 bypassed Seligman, Arizona in **September 1978**, the town should have died.

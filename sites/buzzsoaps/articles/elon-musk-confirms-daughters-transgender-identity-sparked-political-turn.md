@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Split-lit office scene with distant silhouettes suggesting family conflict and
   political polarization
+topics:
+  - Hot Takes
 ---
 ## The Personal Origins of Political Change
 

@@ -30,6 +30,10 @@ seo:
   og_image: 'https://mindmedications.com/wp-content/uploads/2026/05/make_file-1.jpeg'
   twitter_card: summary_large_image
 image_alt: Adults using resistance bands near healthy food in a bright wellness setting.
+topics:
+  - Lifestyle
+  - Nutrition
+  - Wellness
 ---
 
 GLP-1 medicines have changed the conversation about obesity treatment, but fast weight loss raises an important question: what happens to muscle? As more people use drugs such as semaglutide and tirzepatide, physicians, dietitians and researchers are focusing on how to protect strength, mobility and long-term metabolic health during treatment.

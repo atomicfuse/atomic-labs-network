@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Older adult in a softly lit clinic, suggesting links between chronic back pain
   care and brain health
+topics:
+  - Space
 ---
 
 Chronic lower back pain is a common ailment affecting millions worldwide. Recent research has uncovered a potential connection between the treatments for this condition and an increased risk of developing dementia. This finding has significant implications for both patients and healthcare providers, highlighting the need for a deeper understanding of the long-term effects of pain management strategies.

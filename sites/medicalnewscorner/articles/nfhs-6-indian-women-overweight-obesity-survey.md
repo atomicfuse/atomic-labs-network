@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Indian woman in an urban home with a measuring tape and health objects in soft
   editorial light
+topics:
+  - Health News
 ---
 ## Alarming Rise in Obesity Rates Among Indian Women
 

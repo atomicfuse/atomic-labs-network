@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Confident woman over 50 strength training in a bright studio with fitness
   equipment nearby.
+topics:
+  - Fitness
 ---
 ## The Shift Toward Smarter Training After 50
 

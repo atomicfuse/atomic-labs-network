@@ -35,6 +35,10 @@ quality_note: >-
   target word count and contains vague, potentially fabricated details about
   shows and movies without proper sourcing.
 reading_time: 3
+topics:
+  - Movies
+  - TV Shows
+  - Streaming
 ---
 ## This Weekend's Streaming Obsessions
 

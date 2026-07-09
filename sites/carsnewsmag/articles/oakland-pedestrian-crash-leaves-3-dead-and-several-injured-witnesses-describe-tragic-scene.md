@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Emergency lights reflect on a dark Oakland street after a tragic pedestrian
   crash.
+topics:
+  - News
 ---
 
 Three people were killed and several others were injured after a driver struck a crowd of pedestrians in Oakland on Saturday night. The incident has drawn attention because of the scale of the loss, the number of people hurt, and the eyewitness accounts describing the moment the vehicle barreled into people on foot.

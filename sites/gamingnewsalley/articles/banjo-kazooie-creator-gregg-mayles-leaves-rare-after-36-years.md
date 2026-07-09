@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Empty game design studio at dusk with a vintage controller, sketches, and an
   open door casting golden light.
+topics:
+  - Gaming News
 ---
 
 In a significant shift within the gaming industry, Gregg Mayles, a pivotal figure at Rare for over three decades, has departed from the company. Recognized for his instrumental role in creating beloved titles like Donkey Kong Country and Banjo-Kazooie, Mayles' exit marks the end of an era at Rare, a studio known for its innovative contributions to gaming.

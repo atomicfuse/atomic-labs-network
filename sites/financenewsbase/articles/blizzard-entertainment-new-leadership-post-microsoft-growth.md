@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Confident gaming executive in a modern studio with abstract glowing game
   worlds behind her.
+topics:
+  - Economic Trends
 ---
 ## Leadership Transition at Gaming Giant
 

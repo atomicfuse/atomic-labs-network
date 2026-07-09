@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Black female performer stands in a dramatic spotlight, conveying autonomy,
   scrutiny, and resilience.
+topics:
+  - Culture Buzz
 ---
 
 Janet Jackson transformed the meaning of pop stardom by making autonomy sound irresistible. Her breakthrough era was more than a career reset. It became a cultural statement about family expectations, Black womanhood, creative ownership, and the right to define oneself in public.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Off-road camper van glowing warmly inside while parked near a forest and
   mountains at dusk
+topics:
+  - News
 ---
 ## Van Haus Introduces Adventure-Ready Comfort Solution
 

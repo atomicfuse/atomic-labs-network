@@ -32,6 +32,8 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and SEO structure, but contains fabricated
   2026 award information that severely undermines credibility.
+topics:
+  - Food Culture
 ---
 Sometimes the best things in life really don't have to cost a fortune. Case in point: the 2026 World Whiskies Awards just crowned a $40 bourbon as the world's finest, proving that exceptional whiskey doesn't require emptying your wallet.
 

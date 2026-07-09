@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Silver convertible roadster driving through a curving desert road at golden
   hour
+topics:
+  - Reviews
 ---
 ## The Enduring Appeal of Mazda's Roadster Icon
 

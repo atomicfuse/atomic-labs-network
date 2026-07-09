@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Aid workers and community leaders coordinate relief efforts with digital tools
   and a drone at sunrise.
+topics:
+  - Innovation
+  - Tech
 ---
 
 In today's rapidly evolving world, humanitarian efforts are undergoing a significant transformation to better address the needs of people in crisis. With natural disasters, conflicts, and pandemics on the rise, the global community is rethinking how to provide timely and effective assistance. Innovations in technology, funding strategies, and collaborative efforts are paving the way for a more resilient humanitarian response system.

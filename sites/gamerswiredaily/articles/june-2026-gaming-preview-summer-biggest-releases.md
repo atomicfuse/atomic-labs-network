@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A gamer faces glowing portals to different game worlds, suggesting a packed
   summer release calendar.
+topics:
+  - Gaming News
 ---
 ## June 2026: Gaming's Summer Spotlight
 

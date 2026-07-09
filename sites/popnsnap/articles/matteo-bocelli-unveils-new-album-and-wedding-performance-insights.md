@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Young vocalist in a cinematic studio with piano, microphone, candlelight, and
   soft wedding florals.
+topics:
+  - Music
 ---
 
 Matteo Bocelli, an emerging talent in the music industry, is captivating audiences worldwide with his powerful voice and charismatic performances. As the son of the world-renowned tenor Andrea Bocelli, Matteo is no stranger to the spotlight. However, he is carving out his own path with his debut album, which is generating significant buzz in the music community.

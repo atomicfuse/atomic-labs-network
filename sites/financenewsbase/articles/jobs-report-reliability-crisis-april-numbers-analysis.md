@@ -1,12 +1,12 @@
 ---
-title: "Jobs Report Reliability Crisis: What April's Numbers Really Tell Us"
+title: 'Jobs Report Reliability Crisis: What April''s Numbers Really Tell Us'
 description: >-
   April's jobs report shows 115,000 new positions, but rising U-6 unemployment
   and systemic data collection problems reveal deeper labor market concerns
   for...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Economic Trends
@@ -15,7 +15,7 @@ tags:
   - economic-indicators
   - recession-warning
 slug: jobs-report-reliability-crisis-april-numbers-analysis
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://www.forbes.com/sites/eriksherman/2026/05/09/another-month-another-questionable-set-of-job-numbers/
 source_item_id: 6a008dbd2a0a294c696af864
@@ -33,6 +33,8 @@ quality_note: >-
   word count and contains vague claims without specific sourcing that raise
   factual accuracy concerns.
 reading_time: 3
+topics:
+  - Economic Trends
 ---
 
 ## The Numbers Behind the Headlines

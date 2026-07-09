@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   Tense chef in a professional kitchen beside Appalachian ingredients during a
   dramatic cooking competition moment.
+topics:
+  - Viral
+  - Odd News
 ---
 ## Reality TV Drama Meets Appalachian Cuisine
 

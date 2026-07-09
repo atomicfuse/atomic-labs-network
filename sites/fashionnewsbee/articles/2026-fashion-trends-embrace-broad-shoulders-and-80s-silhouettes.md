@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Models wear bold 80s-inspired sustainable fashion in a futuristic editorial
   studio.
+topics:
+  - Fashion
 ---
 
 Fashion enthusiasts and trendsetters are already looking forward to the year 2026, as style predictions hint at a fascinating blend of nostalgic influences and modern innovation. As the fashion industry continues to evolve, insiders are forecasting a resurgence of bold styles reminiscent of past decades, combined with fresh, creative twists.

@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Multiple glowing TV screens suggest a packed week of sports, awards, and
   season finales.
+topics:
+  - Viral
 ---
 ## Peak Television Week Arrives with Major Sporting Events and Award Shows
 

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Stylish living room corner decorated with curated vintage furniture, ceramics,
   baskets, and warm natural light.
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Thrifting for home decor offers a unique opportunity to create a personalized space without breaking the bank. Whether you are furnishing a new home or looking to refresh your current decor, thrift stores provide a treasure trove of possibilities. With a little patience and creativity, you can find unique pieces that add character and charm to your living space.

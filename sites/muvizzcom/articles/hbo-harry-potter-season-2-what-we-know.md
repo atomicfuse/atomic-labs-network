@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Three young students face a glowing hidden doorway in an ancient candlelit
   castle corridor.
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## HBO Fast-Tracks Season 2 Before Season 1 Premiere
 

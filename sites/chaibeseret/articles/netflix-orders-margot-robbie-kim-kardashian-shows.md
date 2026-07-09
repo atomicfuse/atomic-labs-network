@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Red-lit studio table with scripts, stethoscope, sunglasses, and a phone
   evoking celebrity streaming dramas.
+topics:
+  - breaking news
 ---
 ## Netflix's Celebrity Power Play
 

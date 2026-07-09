@@ -30,6 +30,8 @@ quality_note: >-
   Strong keyword relevance and tone but significantly below target word count
   and contains vague sourcing that raises accuracy concerns.
 reading_time: 3
+topics:
+  - Destinations
 ---
 ## Experience Swedish Summer in Style
 

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Old-fashioned coffee cream pie with a sliced creamy filling on a vintage cake
   stand
+topics:
+  - Coffee Drinks
 ---
 
 Welcome to Collard Valley Cooks! Today, we're diving into a classic dessert that coffee lovers will adore: the Old-Fashioned Coffee Cream Pie. Inspired by Mama's cherished recipes, this pie is perfect for gatherings and sure to be a hit with family and friends.

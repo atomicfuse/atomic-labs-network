@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Elegant travel-inspired dining room with layered textures, warm light, and
   collected decor
+topics:
+  - Tips & Advice
+  - decor ideas
 ---
 ## Creating Adventure-Inspired Spaces That Tell Your Story
 

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Morning vanity with concealer, mascara, highlighter, and lip tint for a quick
   rested beauty look
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 I'm always on the lookout for tips to enhance my look with minimal effort. Paige DeSorbo recently shared an intriguing beauty trick to help achieve a more awake appearance, which caught my attention. This innovative method promises to refresh your look instantly, making it a must-try for anyone wanting to add a little sparkle to their routine.

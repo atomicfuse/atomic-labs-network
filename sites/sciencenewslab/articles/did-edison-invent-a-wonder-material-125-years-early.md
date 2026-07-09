@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   Antique laboratory bench with a carbon sample beneath a glowing modern
   molecular lattice.
+topics:
+  - Space
+  - Technology
 ---
 
 In the world of scientific advancements, the discovery of new materials often leads to revolutionary changes. Interestingly, a material believed to be invented in recent years may have roots dating back to the ingenuity of Thomas Edison. This revelation has sparked curiosity and debate among historians and scientists alike, challenging the conventional timeline of material science innovations.

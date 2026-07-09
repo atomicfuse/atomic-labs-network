@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty political meeting room with scattered papers and fractured reflections
   suggesting internal collapse.
+topics:
+  - Movie Reviews
 ---
 ## Far-Right Movement Fractures After Electoral Setback
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Golden moong dal pakode with chai and cooking tools on a warm home kitchen
   counter.
+topics:
+  - Coffee News
 ---
 ## The Quest for Perfect Pakode
 

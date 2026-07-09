@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Person holding a phone as the surrounding world fractures into realistic and
   synthetic layers
+topics:
+  - Innovation
+  - Tech
 ---
 
 Instagram continues to evolve as a platform, delving deeper into the integration of artificial intelligence (AI) in its features to enhance user experience. This strategic move aims to bolster the platform's visual offerings, with a keen focus on the potential of AI-generated images and videos.

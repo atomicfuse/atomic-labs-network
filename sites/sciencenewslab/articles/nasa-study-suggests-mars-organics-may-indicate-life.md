@@ -34,6 +34,8 @@ quality_note: >-
 image_alt: >-
   Rover tracks cross a Martian landscape toward glowing molecular forms in
   ancient red rock.
+topics:
+  - Space
 ---
 
 Mars, our intriguing cosmic neighbor, has long captivated scientists with its mysterious landscape and potential for harboring life. Recent findings from a NASA-led study bring a new perspective to the planet's potential for life, focusing on complex organic compounds found on Mars. These discoveries challenge our understanding of Martian geology and pose significant questions about the planet's history and its capacity to support life.

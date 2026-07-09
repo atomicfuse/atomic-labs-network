@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Desktop laser cutter nozzle clearing smoke from a wood sheet in a tidy home
   workshop
+topics:
+  - Expert Guides
 ---
 
 If you are confused about what a laser air assist is, this post is for you! Find out what it does and why you should always use it. If you are shopping for a laser, make sure you include air assist. Some lasers come with it and for others, you will need to purchase separately.

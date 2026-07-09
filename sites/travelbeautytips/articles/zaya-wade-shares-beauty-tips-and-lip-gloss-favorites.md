@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Glossy lip products and diverse skin-tone swatches arranged in a vibrant
   editorial beauty still life.
+topics:
+  - Beauty Tips
 ---
 
 In the ever-evolving world of cosmetics, new faces and voices continuously emerge, capturing the spirit of innovation and inclusivity. One such vibrant personality stepping into the limelight is Zaya Wade. Recently, Zaya has become a prominent figure in the beauty industry, partnering with MAC Cosmetics to launch a new product that promises to make waves. As a young trailblazer, Zaya is using her platform to redefine beauty standards and inspire a new generation.

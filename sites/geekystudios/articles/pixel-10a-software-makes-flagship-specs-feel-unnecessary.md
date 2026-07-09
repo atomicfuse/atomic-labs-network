@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Unbranded smartphone glowing amid fading premium components on a clean modern
   surface
+topics:
+  - Tech
 ---
 
 Moving from a premium smartphone to the Google Pixel 10a sounds like a downgrade on paper. After all, flagship phones promise the fastest chips, brightest displays, luxury materials, and every camera feature possible. Yet daily use often tells a different story. The Pixel 10a shows how a well-built midrange Android phone can cover the essentials so well that spending flagship money starts to feel unnecessary.

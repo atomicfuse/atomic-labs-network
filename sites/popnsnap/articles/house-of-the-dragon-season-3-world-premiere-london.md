@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Glamorous London red carpet premiere with camera flashes and subtle
   fantasy-inspired copper reflections.
+topics:
+  - TV & Movies
 ---
 ## HBO Celebrates Dragon Dynasty with Star-Studded London Event
 

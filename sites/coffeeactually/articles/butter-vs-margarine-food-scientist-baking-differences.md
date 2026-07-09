@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Side-by-side cookies show different browning and texture from butter and
   margarine baking tests.
+topics:
+  - Brewing Guides
 ---
 ## The Chemistry Behind Better Baking
 

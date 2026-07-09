@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Young woman stretching in a sunlit apartment with healthy food and a laptop
   nearby.
+topics:
+  - Lifestyle
 ---
 
 Modern lifestyles are significantly impacting young women's health, particularly in regard to pelvic floor disorders. As daily habits shift, an increasing number of women are experiencing issues related to pelvic health, a concern that demands urgent attention. Understanding the factors contributing to these disorders can empower women to make informed health choices.

@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Mars rover studies layered rocks in a crater at sunrise, suggesting a
   breakthrough discovery.
+topics:
+  - Space
 ---
 
 NASA's Perseverance rover has made a groundbreaking discovery on Mars that could significantly bolster the search for past life on the Red Planet. By investigating the Jezero Crater, Perseverance has uncovered intriguing organic molecules within rock samples. Scientists are excited as this finding could indicate ancient microbial life, highlighting Mars' potential as a habitat in its distant past.

@@ -40,6 +40,9 @@ quality_note: >-
   but falls short of ideal length and could use better SEO optimization in title
   and meta description.
 image_alt: Glamorous model in black lace couture posing at a Parisian fashion event
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Cynthia Erivo, the acclaimed actress and singer, recently made a striking appearance at the "Wicked For Good" photocall in Paris. Known for her bold fashion choices, Erivo once again captivated the audience with her unique style. Her outfit for the event was a stunning creation by the renowned fashion house, Givenchy. This event celebrated the musical "Wicked," which continues to enchant audiences worldwide with its imaginative storytelling and memorable music.

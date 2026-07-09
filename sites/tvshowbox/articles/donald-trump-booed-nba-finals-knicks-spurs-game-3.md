@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Crowd reacts in a packed basketball arena as a blurred political figure
   appears on the overhead screen.
+topics:
+  - Celebrity News
 ---
 ## Trump Faces Hostile Reception at Madison Square Garden
 

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Peanut-shaped asteroid lit against deep space with a distant research
   spacecraft silhouette
+topics:
+  - Hot Trends
 ---
 
 NASA's Lucy mission has achieved a groundbreaking milestone by capturing the first detailed images of the asteroid Dinkinesh, a discovery that reveals its unique peanut-like shape. These observations offer unprecedented insights into the physical characteristics and composition of this celestial object, contributing significantly to our understanding of asteroids.

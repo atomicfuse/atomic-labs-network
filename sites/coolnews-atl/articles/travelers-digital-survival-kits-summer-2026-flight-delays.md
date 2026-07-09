@@ -36,6 +36,8 @@ quality_note: >-
   length and contains some unsupported future claims about 2026 travel
   disruptions.
 reading_time: 3
+topics:
+  - Current Events
 ---
 ## The New Era of Survival Travel
 

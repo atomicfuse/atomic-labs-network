@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Blues guitarist on a smoky stage under blue and amber lights before a major
   performance.
+topics:
+  - Music
 ---
 
 Burdened with a lifelong passion for music and a talent that captivates audiences, Bay Allen is set to make waves in the blues genre. With a new album on the horizon and a notable appearance at the International Blues Challenge, Allen's journey is one marked by dedication and creativity.

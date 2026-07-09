@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Women fans and a footballer showcase red and white fanwear in a modern stadium
   retail setting.
+topics:
+  - Fashion
 ---
 
 Arsenal Women Football Club has launched an exciting new retail collection designed to cater to the fans of the women's team. This innovative move promises to bring supporters closer to the team through a range of stylish and fan-centric merchandise.

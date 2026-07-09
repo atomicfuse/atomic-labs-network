@@ -40,6 +40,9 @@ quality_note: >-
   Well-written coffee news article with good tone and accuracy, but
   significantly under target word count at 443 words versus the 800-1200 range.
 image_alt: Coffee cup and beans suggest rising costs amid global supply pressures.
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 Coffee enthusiasts may need to brace themselves as the anticipated drop in coffee prices might not occur as soon as hoped. Despite earlier projections suggesting a decline in the cost of coffee beans, the market dynamics are proving otherwise. Fluctuating global supply chains, adverse weather conditions, and ongoing geopolitical tensions are contributing to the complexity of the coffee market.

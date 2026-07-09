@@ -33,6 +33,9 @@ seo:
 image_alt: >-
   Freckled performer under golden red-carpet lights in a glamorous editorial
   beauty portrait.
+topics:
+  - Fashion
+  - Beauty
 ---
 
 The 2026 Grammy Awards brought a refreshing beauty trend to the forefront: freckles. A diverse array of celebrities embraced this natural or enhanced feature, showcasing that freckles are more than just a summer staple. This trend beautifully highlighted individuality on music's most glamorous night.

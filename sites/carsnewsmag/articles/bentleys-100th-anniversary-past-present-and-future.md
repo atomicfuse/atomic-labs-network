@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Three luxury cars from different eras on a coastal concours lawn at golden
   hour.
+topics:
+  - News
 ---
 
 Bentley blends luxury and performance like no other. During this year's Pebble Beach festivities, the storied brand celebrated its 100th anniversary. See the largest collection of Bentleys ever assembled at the Concours with six unique classes represented in the competition — the first Bentley sold by W.O. Bentley, and the future of the car brand.

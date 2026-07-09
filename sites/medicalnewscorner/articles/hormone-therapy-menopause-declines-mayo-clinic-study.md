@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Diverse midlife women walk through a park toward a softly blurred clinic in
   the distance.
+topics:
+  - Health News
 ---
 ## Sharp Decline in Treatment Despite Growing Awareness
 

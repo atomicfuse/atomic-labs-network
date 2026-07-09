@@ -39,6 +39,8 @@ videos:
 image_alt: >-
   Blind tasting setup with wrapped wine bottles and pale white wine glasses on a
   refined counter
+topics:
+  - Nutrition Myths
 ---
 ## The Great Chablis Challenge: Can Supermarket Wines Compete?
 

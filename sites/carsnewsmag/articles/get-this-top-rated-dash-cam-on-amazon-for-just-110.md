@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Unbranded dash cam mounted inside a car windshield overlooking a city street
   at dusk
+topics:
+  - Reviews
 ---
 
 In the world of vehicle safety and security, dash cams have become indispensable tools for drivers everywhere. Offering peace of mind, these compact devices capture footage that can be invaluable in the event of an accident or theft. Among the myriad of options available, one dash cam on Amazon stands out with an impressive 93% of its reviews being 5-star ratings, highlighting its popularity and reliability among users.

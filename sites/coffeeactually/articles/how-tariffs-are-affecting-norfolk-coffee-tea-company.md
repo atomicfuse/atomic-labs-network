@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Coffee beans, a cup, and shipping materials on a roastery table suggesting
   global trade pressures.
+topics:
+  - Coffee News
 ---
 
 The global trade landscape is undergoing significant changes, with tariffs playing a pivotal role in shaping business dynamics across various sectors. As international trade policies evolve, local businesses, such as Norfolk Coffee & Tea Company, are feeling the effects. These changes are influencing everything from sourcing materials to final product costs, impacting both businesses and consumers.

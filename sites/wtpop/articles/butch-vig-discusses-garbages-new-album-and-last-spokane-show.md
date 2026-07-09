@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Moody concert stage with drums, synth gear, cables, and blue-magenta haze
   after soundcheck.
+topics:
+  - Music
 ---
 
 Garbage, an iconic band known for its unique blend of alternative rock and electronic music, continues to captivate audiences with their dynamic sound. In a recent interview, Butch Vig, the band's drummer and a celebrated producer, shared insights into their latest album and the creative journey behind it. Vig, renowned for his work with Nirvana and Smashing Pumpkins, brings a wealth of experience to Garbage, contributing to their ever-evolving musical style.

@@ -34,6 +34,8 @@ quality_note: >-
   audience.
 reading_time: 3
 image_alt: Moody NYC dining room with a chef plating a burger beside a smoky cocktail
+topics:
+  - Coffee News
 ---
 ## A Taste of NYC's Most Iconic 2010s Restaurant Returns
 

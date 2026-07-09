@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty director’s chair beyond a red line in a moody TV studio filled with
   glowing screens.
+topics:
+  - Viral
 ---
 ## The Art of Not Caring About Your Feelings
 

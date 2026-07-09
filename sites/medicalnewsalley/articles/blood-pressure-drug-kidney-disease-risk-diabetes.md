@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Hands near blood pressure monitor and pills during a quiet diabetes medication
   review at home
+topics:
+  - Health News
 ---
 ## Common Blood Pressure Medication Under Scrutiny
 

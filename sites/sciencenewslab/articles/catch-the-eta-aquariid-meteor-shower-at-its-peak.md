@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   A silhouetted stargazer watches meteors streak across a dark predawn sky over
   a remote coastline.
+topics:
+  - Space
 ---
 
 As the Earth journeys through the cosmic debris left by Halley's Comet, stargazers are in for a celestial treat. The Eta Aquariid meteor shower, known for its swift and bright meteors, is set to dazzle the night sky soon.

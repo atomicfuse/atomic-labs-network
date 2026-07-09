@@ -41,6 +41,10 @@ quality_note: >-
   but significantly under target word count at 550 words versus the 800-1200
   range.
 image_alt: Traveler taps a blank transit card at a modern Japanese train station gate
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Traveling through Japan offers a seamless experience, thanks in part to the convenient IC cards, which greatly simplify transport across the country. These cards are indispensable for both locals and tourists, providing easy access to trains, buses, and even some shops and restaurants. Understanding how to use these cards effectively can enhance your travel experience in this fascinating country.

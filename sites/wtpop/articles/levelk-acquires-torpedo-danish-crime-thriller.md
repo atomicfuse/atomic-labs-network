@@ -37,6 +37,9 @@ quality_note: >-
   claims like 'Operation Grimm' in 2025 that appear fabricated, significantly
   impacting credibility.
 reading_time: 3
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## LevelK Secures Distribution Rights for Acclaimed Directors' Latest Project
 

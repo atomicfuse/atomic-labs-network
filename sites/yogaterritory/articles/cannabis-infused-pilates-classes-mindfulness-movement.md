@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   A calm group pilates class in warm light with subtle green botanical accents
   and journals nearby.
+topics:
+  - Wellness
 ---
 ## The Rise of Cannabis-Enhanced Wellness
 

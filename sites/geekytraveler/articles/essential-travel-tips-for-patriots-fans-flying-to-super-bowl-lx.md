@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Football fans in red, white, and navy walk through an airport with carry-on
   luggage before a big game.
+topics:
+  - Travel Tips
 ---
 
 As the excitement builds for Super Bowl LX, New England Patriots fans are gearing up for an unforgettable journey to Levi's Stadium. With the game set to be a thrilling spectacle, fans traveling by air can benefit from key tips to ensure a smooth and enjoyable trip. From packing essentials to navigating airport security, these recommendations will help Patriots supporters make the most of their Super Bowl experience.

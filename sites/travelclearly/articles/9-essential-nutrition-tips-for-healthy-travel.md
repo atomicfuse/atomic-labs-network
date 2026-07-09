@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Healthy travel snacks and water arranged beside summer travel essentials in a
   bright airport lounge.
+topics:
+  - Travel
+  - Travel Tips
+  - Lifestyle
 ---
 
 Traveling during the summer months can be an exciting adventure, but maintaining a healthy diet while on the go presents its own challenges. With a little planning and mindful choices, you can enjoy your trip while keeping your nutrition in check. Here are some effective strategies to ensure you stay healthy and energized during your travels.

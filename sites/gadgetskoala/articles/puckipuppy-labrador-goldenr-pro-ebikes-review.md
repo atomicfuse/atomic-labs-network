@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Two fat-tire e-bikes parked where a city bike lane meets a dirt trail at
   golden hour.
+topics:
+  - Gadgets
 ---
 ## Quirky Brand Names Meet Serious E-Bike Performance
 

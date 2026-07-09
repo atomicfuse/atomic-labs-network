@@ -37,6 +37,10 @@ reading_time: 3
 image_alt: >-
   Sunlit dorm room desk with wellness essentials and a student relaxing in the
   background
+topics:
+  - Beauty Tips
+  - Lifestyle
+  - Packing Guides
 ---
 ## Building Wellness Habits for College Success
 

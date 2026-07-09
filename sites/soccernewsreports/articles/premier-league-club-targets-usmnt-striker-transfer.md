@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Soccer striker under stadium lights with a silhouetted agent nearby,
   suggesting an international transfer move.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 In the world of international soccer, player transfers often become a hot topic, especially when it involves prominent athletes moving to top leagues. The English Premier League, known for its competitive nature and global reach, is reportedly eyeing a new talent from the United States Men's National Team (USMNT). This interest highlights the growing reputation of American soccer players on the global stage.

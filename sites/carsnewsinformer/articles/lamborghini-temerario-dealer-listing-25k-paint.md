@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Turquoise exotic supercar displayed in a luxury showroom with glossy floor
   reflections
+topics:
+  - News
 ---
 ## Early Market Activity for Lamborghini's Hybrid Successor
 

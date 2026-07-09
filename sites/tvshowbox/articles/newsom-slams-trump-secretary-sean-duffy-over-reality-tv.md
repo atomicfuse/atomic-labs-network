@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Camera lights and traffic cones beside a cracked highway with congestion in
   the distance
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 California Governor Gavin Newsom has sharpened his criticism of U.S. Transportation Secretary Sean Duffy, turning a federal travel-themed media project into a broader fight over priorities, infrastructure, and political image-making. Newsom took aim at Duffy's promotion of "The Great American Road Trip," framing it as an unserious use of attention at a time when transportation policy faces intense pressure across the country.

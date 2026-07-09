@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Children with backpacks cross a suburban street safely with adults nearby on a
   school morning.
+topics:
+  - Kids
 ---
 
 As students in East Brunswick prepare to head back to school, ensuring their safety on the roads is paramount. The East Brunswick Police Department is actively promoting safety guidelines for students, parents, and drivers. These measures aim to create a secure environment for everyone involved in the daily commute to and from school.

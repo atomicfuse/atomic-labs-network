@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Glitching smartphone screen with abstract video tiles and broken network
   signals
+topics:
+  - Tech
+  - Pop Culture
+  - Trends
 ---
 
 Over the weekend, TikTok users experienced significant disruptions, leaving many unable to access their favorite content on the platform. This outage sparked widespread confusion and frustration as essential features like the "For You" page and video uploads became inaccessible. Reports of these glitches quickly spread across social media, as users sought answers to the unexpected interruptions.

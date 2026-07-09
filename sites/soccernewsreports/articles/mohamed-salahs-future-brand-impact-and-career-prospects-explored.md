@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Footballer faces multiple stadium paths as cameras flash around a pivotal
   transfer decision.
+topics:
+  - Latest News
 ---
 
 Mohamed Salah, the Egyptian football sensation, is once again at the center of transfer discussions as speculation about his future swirls within the football community. Known for his electrifying pace and remarkable goal-scoring ability, Salah has captivated fans worldwide, making any potential transfer a significant event in the sport's landscape.

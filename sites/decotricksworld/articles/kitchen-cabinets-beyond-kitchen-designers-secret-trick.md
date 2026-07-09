@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant dining nook with repurposed cabinetry styled as custom built-ins in
   warm natural light.
+topics:
+  - Tips & Advice
 ---
 ## The Rise of Repurposed Kitchen Cabinetry
 

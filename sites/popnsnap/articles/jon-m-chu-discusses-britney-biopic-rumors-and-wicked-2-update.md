@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   A filmmaker silhouette faces emerald stage lights and pink concert spotlights
   on a moody soundstage.
+topics:
+  - Celebrities
 ---
 
 The much-anticipated sequel to the beloved musical film, Wicked, is stirring excitement among fans as director Jon M. Chu provides new updates. With the previous film's success, expectations are high for this next installment. Chu, known for his work on In the Heights and Crazy Rich Asians, is set to bring his unique vision to the Wicked universe, promising a fresh take on the story of Elphaba and Glinda.

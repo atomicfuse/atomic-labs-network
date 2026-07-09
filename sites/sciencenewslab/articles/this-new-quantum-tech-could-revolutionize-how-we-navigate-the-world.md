@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Futuristic vehicle navigating through glowing quantum field lines in a dark
   blue environment
+topics:
+  - Physics
 ---
 
 Quantum technology is no longer confined to the lab – it's making its way into our everyday lives. Now, it's about to transform something even more fundamental: how we navigate the world.

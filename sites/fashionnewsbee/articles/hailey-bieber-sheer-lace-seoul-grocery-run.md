@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish brunette in sheer black lace and trousers walking through a Seoul
   convenience store aisle
+topics:
+  - Fashion
 ---
 ## Vacation Style Goals from Seoul
 

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Older adult testing grip strength in warm light with a supportive clinician
   nearby
+topics:
+  - Wellness
 ---
 
 Grip strength is often overlooked as merely a measure of physical power, but recent research reveals its deeper connection to both physical and cognitive health. From predicting neurological conditions to providing insight into overall well-being, understanding grip strength can offer a window into our brain's health and function.

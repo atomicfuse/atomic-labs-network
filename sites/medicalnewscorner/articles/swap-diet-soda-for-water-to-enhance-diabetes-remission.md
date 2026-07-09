@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A glass of water on a sunlit kitchen counter with a blurred soda can in the
   background
+topics:
+  - Health News
 ---
 
 Achieving remission in type 2 diabetes is a significant health goal for many individuals, and recent research suggests that beverage choices can play a crucial role in this process. Choosing water over diet sodas may enhance efforts to manage blood sugar levels and achieve long-term health benefits.

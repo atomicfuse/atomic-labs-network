@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Diverse friends toast wine at a golden-hour vineyard table with subtle rainbow
   accents and an empty chair.
+topics:
+  - Nutrition Myths
 ---
 ## A Final Toast to Queer Wine Fest
 

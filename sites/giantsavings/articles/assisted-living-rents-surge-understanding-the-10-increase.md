@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Elderly couple reviewing bills and a calculator at a kitchen table in a calm
   apartment setting
+topics:
+  - Saving Tips
+  - Grocery Savings
 ---
 
 In recent times, the cost of assisted living has witnessed a significant surge, leaving many seniors and their families grappling with financial strain. This unexpected increase comes despite a minimal rise in the Social Security Cost of Living Adjustment (COLA), which has not kept pace with the mounting expenses of senior care. Understanding the factors behind this rise is crucial for those planning for long-term care.

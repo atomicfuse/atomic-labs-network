@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Alert pocket mouse and juvenile on sandy habitat with a faint snake-like
   shadow nearby
+topics:
+  - Mind-Blowing Science
 ---
 ## A Surprising Discovery in Endangered Species Conservation
 

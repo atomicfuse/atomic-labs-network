@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Diverse friends toast at a vineyard table during a warm, rainbow-accented wine
   gathering.
+topics:
+  - Special Diets
 ---
 ## A Pioneer Festival Reaches Its Final Pour
 

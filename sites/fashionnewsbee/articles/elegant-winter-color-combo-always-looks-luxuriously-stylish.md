@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Stylish winter outfit pairing deep navy wool with rich brown leather
   accessories
+topics:
+  - Fashion
 ---
 
 In the ever-evolving world of fashion, color combinations can make or break an ensemble. Recently, a fresh pairing has caught the attention of style enthusiasts: navy and brown. This dynamic duo offers a sophisticated twist on traditional palettes. With its rich hues, this combination is redefining elegance and versatility in fashion.

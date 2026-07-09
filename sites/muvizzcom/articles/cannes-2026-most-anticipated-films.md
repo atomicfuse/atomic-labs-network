@@ -35,6 +35,8 @@ quality_note: >-
   length and suspicious factual claims about future events that may be
   fabricated.
 reading_time: 3
+topics:
+  - Movies
 ---
 ## A Pure Cinema Celebration Awaits
 

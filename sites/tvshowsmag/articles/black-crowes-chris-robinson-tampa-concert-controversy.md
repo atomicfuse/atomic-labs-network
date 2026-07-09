@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Rock vocalist onstage faces a restless crowd under dramatic red, white, and
   blue concert lighting.
+topics:
+  - Celebrity News
 ---
 ## Concert Takes Unexpected Turn
 

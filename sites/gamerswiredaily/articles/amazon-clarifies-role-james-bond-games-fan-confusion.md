@@ -33,6 +33,8 @@ quality_note: >-
   potentially fabricated details about specific games and statements.
 reading_time: 3
 image_alt: Anonymous tuxedoed spy silhouette between two futuristic gaming control rooms
+topics:
+  - Gaming News
 ---
 ## Amazon Addresses James Bond Gaming Concerns
 

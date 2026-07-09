@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   A lone figure watches a strange glow in the sky beside blank government files
   on a car hood.
+topics:
+  - Movies
 ---
 ## A Prescient Vision of UFO Culture
 

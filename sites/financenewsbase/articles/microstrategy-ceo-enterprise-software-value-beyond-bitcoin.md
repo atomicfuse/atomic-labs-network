@@ -7,7 +7,7 @@ description: >-
   growing enterprise software operations and institutional compliance...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -16,7 +16,7 @@ tags:
   - corporate-valuation
   - bitcoin
 slug: microstrategy-ceo-enterprise-software-value-beyond-bitcoin
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/why-is-strategy-valuable-ceo-says-mstr-is-more-than-its-btc-holdings/
 source_item_id: 6a0154422a0a294c696af90a
@@ -33,6 +33,8 @@ quality_note: >-
   Well-written professional analysis of MicroStrategy's business model, but
   falls short of target word count at 556 words instead of the 800-1200 range.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Enterprise Software Fuels Bitcoin Strategy

@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   A glowing teddy bear in a toddler playroom as a parent's hand reaches toward
   it protectively.
+topics:
+  - Parenting
+  - Children’s Health
 ---
 ## The Rise of AI Toys for Young Children
 

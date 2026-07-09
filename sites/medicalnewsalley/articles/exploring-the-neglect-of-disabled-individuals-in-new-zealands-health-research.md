@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Empty accessible chair outside a research meeting circle in a sunlit New
   Zealand health clinic.
+topics:
+  - Health News
 ---
 
 Approximately one out of every six individuals in New Zealand lives with a disability, yet a substantial proportion of health research in the country continues to exclude this demographic. The exclusion ranges from not considering people with disabilities in study designs, to explicitly excluding them from participation. This exclusionary trend in health research is alarming, given that the disabled population makes up a significant part of the country's populace.

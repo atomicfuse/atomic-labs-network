@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Elegant couple in formalwear poses together on a glamorous red carpet under
   camera flashes.
+topics:
+  - Celebrities
 ---
 ## A Star-Studded Debut
 

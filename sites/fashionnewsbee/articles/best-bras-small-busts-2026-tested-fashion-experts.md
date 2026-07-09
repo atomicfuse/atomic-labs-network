@@ -33,6 +33,8 @@ reading_time: 2
 image_alt: >-
   Curated petite-fit bras arranged on soft satin and cotton fabrics in warm
   neutral tones
+topics:
+  - Fashion
 ---
 ## Expert Testing Reveals Top Picks for Small-Bust Lingerie
 

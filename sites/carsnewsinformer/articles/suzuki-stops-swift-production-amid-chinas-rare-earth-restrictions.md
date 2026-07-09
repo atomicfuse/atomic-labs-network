@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Unfinished compact car on a paused factory line with mineral samples in the
   foreground
+topics:
+  - News
 ---
 ## Production Halt Impacts Popular Model
 

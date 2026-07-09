@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Robotic arms assemble an electric vehicle chassis in a modern American
   factory.
+topics:
+  - Electric Cars
 ---
 ## Honda's Major EV Manufacturing Commitment
 

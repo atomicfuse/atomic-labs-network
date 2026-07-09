@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Stylish celebrity couple in avant-garde couture on a glamorous red carpet at
   night
+topics:
+  - Culture Buzz
 ---
 
 Rihanna and A$AP Rocky have consistently turned heads on red carpets worldwide, and their recent appearance at the Cannes Film Festival was no exception. Known for their bold fashion choices and undeniable chemistry, the couple has once again captured the attention of fashion enthusiasts and media alike. This article delves into their latest fashion statements and how they continue to define modern celebrity style.

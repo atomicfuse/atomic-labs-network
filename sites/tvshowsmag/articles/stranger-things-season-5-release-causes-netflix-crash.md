@@ -42,6 +42,9 @@ quality_note: >-
   report on a fictional event (Stranger Things Season 5 hasn't been released) as
   factual news, which severely undermines its credibility.
 image_alt: Viewers face a glitching TV in a dark room during a major streaming outage.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Netflix recently experienced a significant technical setback as its platform crashed during the highly anticipated release of "Stranger Things" Season 5. This unexpected event left viewers around the world unable to access the platform, sparking a wave of frustration and curiosity about the reasons behind the outage.

@@ -33,6 +33,9 @@ reading_time: 3
 image_alt: >-
   Elegant bras in soft neutral tones arranged on satin with natural light and
   delicate styling details.
+topics:
+  - Beauty Tips
+  - Destinations
 ---
 ## Finding the Perfect Fit for Small Busts
 

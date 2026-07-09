@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Researcher in a modern lab studies a glowing abstract DNA helix symbolizing
   gene-editing advances.
+topics:
+  - Research
 ---
 
 Australian cancer researchers are the first to establish a next-generation gene-editing tool for modeling and interrogating human disease.

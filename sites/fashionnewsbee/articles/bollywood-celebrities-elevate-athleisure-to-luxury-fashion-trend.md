@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Stylish South Asian models in luxury athleisure on a golden-hour Mumbai
   rooftop
+topics:
+  - Fashion
 ---
 
 Bollywood is no stranger to setting trends, and the latest fashion phenomenon sweeping through the industry is athleisure. This versatile style blends athletic and leisurewear, offering both comfort and a chic appearance. Bollywood stars have embraced this trend, transforming it into a luxurious fashion statement that resonates with fans and fashion enthusiasts alike.

@@ -39,6 +39,9 @@ videos:
 image_alt: >-
   Unlabeled wine bottles and glasses arranged for a blind Chablis tasting in
   soft natural light.
+topics:
+  - Nutrition
+  - Recipes
 ---
 ## Premium Pricing Doesn't Always Mean Premium Quality
 

@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Sunlit living room styled with vintage thrifted decor, books, baskets,
   greenery, and cozy neutral accents.
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Decorating your home can often seem like an expensive endeavor, but it doesn't have to be. With a little creativity and a love for thrift shopping, you can transform your living space into a stylish haven without breaking the bank. Join me on a thrifting adventure as we explore budget-friendly home decor ideas that will inspire you to give your home a unique and personal touch.

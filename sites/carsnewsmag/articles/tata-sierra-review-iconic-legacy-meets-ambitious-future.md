@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Modern rugged SUV on a scenic mountain road at sunrise, suggesting heritage
   and future-ready adventure.
+topics:
+  - Reviews
 ---
 
 Tata Motors has redefined its SUV lineup with the introduction of the modernized Tata Sierra, a vehicle that combines contemporary aesthetics with robust performance. This latest model seamlessly merges nostalgia and innovation, offering a unique blend of features tailored for today's adventurous drivers.

@@ -43,6 +43,9 @@ quality_note: >-
   falls short on length and could benefit from stronger SEO optimization in
   title and meta description.
 image_alt: Parent comforting a child at a kitchen table during a rainy afternoon
+topics:
+  - Kids
+  - Children’s Health
 ---
 
 Communicating with children about natural disasters can be a challenging task for parents. When events like the recent Texas flood occur, it's crucial to approach the conversation with sensitivity and clarity. Understanding how to explain these occurrences while addressing any fears your child may have is essential for their emotional well-being.

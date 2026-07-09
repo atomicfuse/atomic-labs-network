@@ -1,6 +1,9 @@
 ---
 title: The Unexpected Summer Destinations Everyone Will Be Talking About in 2027
-description: Travel analysts predict a major shift away from over-touristed hotspots, with destinations in Albania, Greenland, and Guyana poised to dominate 2027 travel...
+description: >-
+  Travel analysts predict a major shift away from over-touristed hotspots, with
+  destinations in Albania, Greenland, and Guyana poised to dominate 2027
+  travel...
 type: standard
 status: published
 publishDate: 2026-1-22
@@ -12,8 +15,9 @@ tags:
   - destination marketing
   - 2027 travel
 slug: unexpected-summer-destinations-2027
-reviewer_notes: ""
-source_url: https://traveltrends.example.com/analysis/future-of-travel-2027-emerging-destinations/
+reviewer_notes: ''
+source_url: >-
+  https://traveltrends.example.com/analysis/future-of-travel-2027-emerging-destinations/
 source_item_id: 8b019abc3b1b395d707bg96b
 generated_by: claude
 featuredImage: /assets/images/unexpected-summer-destinations-2027.webp
@@ -24,8 +28,14 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: Excellent tone and structure, closely matching the requested format. The content is inherently speculative ('2027 predictions'), which lowers the factual accuracy score, but it effectively captures the essence of a trend-forecasting article.
+quality_note: >-
+  Excellent tone and structure, closely matching the requested format. The
+  content is inherently speculative ('2027 predictions'), which lowers the
+  factual accuracy score, but it effectively captures the essence of a
+  trend-forecasting article.
 reading_time: 3
+topics:
+  - Destination Guides
 ---
 
 ## Post-Overtourism: The Search for Authenticity

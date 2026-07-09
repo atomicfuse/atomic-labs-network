@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Unbranded smart audio gear beside abstract shipping and cost symbols in a
   modern living room
+topics:
+  - Tech
 ---
 
 In recent developments, Sonos, a leading name in the audio technology industry, has announced a price increase for its products. This decision comes in response to escalating tariffs impacting manufacturing costs. The move is set to affect consumers who have been loyal to the brand for its high-quality sound systems, known for their seamless integration and user-friendly features.

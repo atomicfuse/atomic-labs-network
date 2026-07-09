@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Older adult’s hands near diabetes medication with a soft abstract brain-light
   pattern in the background.
+topics:
+  - Research
+  - Drugs
 ---
 
 The latest in medical research reveals that certain diabetes medications, namely Ozempic and Jardiance, may play a significant role in reducing the risk of Alzheimer's disease. This assertion is based on an extensive analysis of patient data, providing a potential breakthrough in Alzheimer's prevention strategies.

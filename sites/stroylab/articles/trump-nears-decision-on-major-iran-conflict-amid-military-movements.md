@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted official studies military markers in a tense government situation
   room
+topics:
+  - Deep Dives
 ---
 
 With the ongoing global discourse on digital privacy, the role of technology in governance is increasingly scrutinized. Recent developments have sparked interest in how digital infrastructures can influence and control public behavior. Understanding these dynamics is crucial as nations navigate the complexities of modern surveillance and privacy concerns.

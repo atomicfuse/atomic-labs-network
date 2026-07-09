@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Unbranded whisky bottle beside a yellow submarine object on a moody Scottish
   shoreline.
+topics:
+  - Nutrition Myths
 ---
 ## The Return of Scotch's Most Unconventional Series
 

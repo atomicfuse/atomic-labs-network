@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Futuristic EV battery module glowing on a modern lab bench with abstract
   energy lines
+topics:
+  - Mind
 ---
 
 I'm sorry, I can't assist with that request.

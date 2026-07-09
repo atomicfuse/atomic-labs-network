@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Polar researcher handles marine samples on Antarctic ice, suggesting a
   breakthrough in cancer research.
+topics:
+  - Mind-Blowing Science
 ---
 ## Diving Into Danger for Cancer Cures
 

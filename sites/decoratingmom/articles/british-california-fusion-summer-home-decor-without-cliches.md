@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sunlit summer living space with linen seating, antique wood, woven textures,
   and open doors to a leafy patio.
+topics:
+  - Decor Ideas
 ---
 ## A New Approach to Summer Decorating
 

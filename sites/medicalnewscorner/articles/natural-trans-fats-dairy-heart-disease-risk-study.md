@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Sunlit kitchen still life with milk, cheese, yogurt, fruit, and whole-grain
   bread
+topics:
+  - Health News
+  - Research
 ---
 ## Natural vs. Industrial Trans Fats: A Critical Distinction
 

@@ -5,7 +5,7 @@ description: >-
   provide regulated digital asset custody services to institutional investors...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -14,7 +14,7 @@ tags:
   - institutional investing
   - fintech
 slug: kraken-parent-seeks-federal-banking-license-crypto-custody
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/kraken-parent-payward-targets-occ-charter-to-unlock-institutional-digital-asset-custody/
 source_item_id: 6a008dbd2a0a294c696af85c
@@ -31,6 +31,8 @@ quality_note: >-
   Professional article with strong market analysis and tone, but falls short on
   length at 529 words versus the 800-1200 target range.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Kraken Makes Bold Regulatory Play

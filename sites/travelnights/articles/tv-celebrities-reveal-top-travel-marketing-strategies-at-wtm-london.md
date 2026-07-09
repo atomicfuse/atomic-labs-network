@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Travel industry speakers present global destination visuals to an engaged
   conference audience.
+topics:
+  - News
 ---
 
 World Travel Market (WTM) London, a prestigious event in the travel industry, recently hosted an insightful session where renowned TV personalities shared their expertise on travel marketing strategies. With a focus on leveraging storytelling and digital platforms, these experts provided valuable insights into enhancing brand visibility and engagement in the competitive travel market.

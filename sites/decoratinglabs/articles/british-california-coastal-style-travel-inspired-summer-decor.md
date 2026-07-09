@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sunlit summer interior with linen seating, natural textures, open doors,
   greenery, and refined coastal styling.
+topics:
+  - decor ideas
 ---
 ## A New Approach to Summer Home Styling
 

@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Moonlit desert scene with a snake trail, abandoned clothing, and distant
   neon-tinted car lights.
+topics:
+  - Watch
 ---
 ## Nate Jacobs Meets His End in Desert Tragedy
 

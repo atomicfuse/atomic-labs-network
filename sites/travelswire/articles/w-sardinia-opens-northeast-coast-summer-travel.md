@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Luxury Sardinian resort terrace overlooking a turquoise marina in warm summer
   light
+topics:
+  - Destination Guides
 ---
 ## New Luxury Option Debuts on Sardinia's Coast
 

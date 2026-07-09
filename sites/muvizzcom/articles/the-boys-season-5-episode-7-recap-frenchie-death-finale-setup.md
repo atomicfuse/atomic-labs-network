@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Abandoned jacket in a dim corridor as two distant figures prepare for a final
   confrontation.
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## Major Character Loss Shakes The Boys Universe
 

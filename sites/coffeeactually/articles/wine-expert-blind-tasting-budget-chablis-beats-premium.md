@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   Blind white wine tasting setup with wrapped bottles, glasses, and subtle
   value-versus-premium cues
+topics:
+  - Coffee News
 ---
 ## Budget-Conscious Wine Lovers Get Good News
 

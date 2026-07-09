@@ -37,6 +37,9 @@ quality_note: >-
   fabrication of current events that cannot be verified through reliable
   sources.
 reading_time: 3
+topics:
+  - Current Events
+  - In-Depth Analysis
 ---
 ## Crisis Unfolds in Real-Time Above Earth's Atmosphere
 

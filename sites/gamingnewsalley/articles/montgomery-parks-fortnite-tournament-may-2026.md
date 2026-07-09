@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Teens compete at gaming stations in a colorful community center esports
   tournament.
+topics:
+  - Gaming News
 ---
 ## Local Gaming Event Draws Community Interest
 

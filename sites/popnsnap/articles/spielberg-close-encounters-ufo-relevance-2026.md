@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   A silhouetted person faces mysterious lights beyond a rural highway with files
   on a car hood.
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## A 1977 Vision That Predicted Today's UFO Discourse
 

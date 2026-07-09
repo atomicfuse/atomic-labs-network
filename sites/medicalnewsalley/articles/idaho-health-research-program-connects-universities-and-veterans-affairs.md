@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Researchers, clinicians, and veterans collaborate in a healthcare meeting
   overlooking rural Idaho.
+topics:
+  - Health News
+  - Mental Health
 ---
 
 # Healthy Idaho Center Drives Collaborative Health Research Across Institutions

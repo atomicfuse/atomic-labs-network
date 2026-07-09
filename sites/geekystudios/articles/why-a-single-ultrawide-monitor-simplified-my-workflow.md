@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Clean desk with a glowing ultrawide monitor and abstract organized workflow
   panels.
+topics:
+  - Tech
+  - Trends
 ---
 
 In the evolving world of technology, the way we interact with our computers is constantly changing. One of the most notable trends in recent years is the shift from multiple monitor setups to a single ultrawide display. This transition is transforming how users approach tasks, boosting productivity, and simplifying window management.

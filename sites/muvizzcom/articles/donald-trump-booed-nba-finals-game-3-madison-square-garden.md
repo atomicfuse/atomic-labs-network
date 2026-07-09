@@ -38,6 +38,8 @@ quality_note: >-
   entertainment focus, making it unsuitable for Muvizz.com despite adequate
   length.
 reading_time: 3
+topics:
+  - Celebrity News
 ---
 ## Trump Faces Hostile Crowd at Historic NBA Finals
 

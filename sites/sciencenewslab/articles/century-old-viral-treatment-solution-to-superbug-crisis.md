@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Glowing phage-like particles targeting dark bacteria in a clean
   laboratory-inspired scene.
+topics:
+  - Space
 ---
 
 In the face of an alarming rise in antibiotic-resistant bacteria, scientists are revisiting a century-old approach that could offer a glimmer of hope. This method, known as phage therapy, utilizes viruses to combat bacterial infections, presenting a promising alternative to traditional antibiotics. With superbugs posing a significant threat to global health, the revival of this therapy could be a game-changer in modern medicine.

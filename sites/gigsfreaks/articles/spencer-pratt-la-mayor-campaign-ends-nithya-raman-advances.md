@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Mail-in ballots are sorted in a Los Angeles election office beside an empty
   spotlighted podium.
+topics:
+  - Hot Trends
 ---
 ## From Reality TV to Political Reality Check
 

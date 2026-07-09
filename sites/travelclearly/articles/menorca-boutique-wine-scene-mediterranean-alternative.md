@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Rustic wine table beside a quiet Menorcan vineyard overlooking the
   Mediterranean Sea
+topics:
+  - Travel
+  - Destinations
 ---
 ## A Hidden Gem in the Mediterranean
 

@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Homemade grape wine setup with grapes, fermenting jar, and festive kitchen
   lights
+topics:
+  - Wine for beginners
 ---
 ## Home Winemaking Takes Center Stage
 

@@ -42,6 +42,8 @@ reading_time: 2
 image_alt: >-
   Sunlit city park and skyline suggesting cautious optimism around summer travel
   reopenings.
+topics:
+  - Travel Tips
 ---
 ## Major Travel Developments Shape May 2026
 

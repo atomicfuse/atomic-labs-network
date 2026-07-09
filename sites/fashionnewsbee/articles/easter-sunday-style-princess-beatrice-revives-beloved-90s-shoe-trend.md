@@ -38,6 +38,9 @@ seo:
 image_alt: >-
   Elegant spring outfit with cobalt coat and black Mary Janes on sunlit stone
   steps
+topics:
+  - Fashion
+  - Culture
 ---
 
 Princess Beatrice, known for her exceptional style, was recently seen gracing the Easter Sunday Service in a pair of Mary Janes. Her striking fashion choice has sparked a trend, with many fashion enthusiasts following suit.

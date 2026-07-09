@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Two public servants stand together on a Nashville street at dusk, suggesting
   courage and solidarity.
+topics:
+  - Good Vibes
 ---
 
 A British police officer traveled to Nashville expecting music, food, and a memorable holiday. Instead, the off-duty visitor became part of a real-life rescue after stepping in to help a Metro Nashville police officer facing danger during an arrest.

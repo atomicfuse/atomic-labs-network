@@ -1,9 +1,11 @@
 ---
 title: 5 Evidence-Based Wellness Rituals Transforming Women's Self-Care
-description: From pH-aware intimate hygiene to sleep-time preparation, discover the five wellness rituals shaping women's health routines in 2026 with practical,...
+description: >-
+  From pH-aware intimate hygiene to sleep-time preparation, discover the five
+  wellness rituals shaping women's health routines in 2026 with practical,...
 type: listicle
 status: published
-publishDate: 2026-05-29
+publishDate: 2026-05-29T00:00:00.000Z
 author: Lucas Price
 tags:
   - Wellness
@@ -13,10 +15,12 @@ tags:
   - sleep-habits
 slug: 5-evidence-based-wellness-rituals-transforming-womens-self-care-2
 reviewer_notes: Approved via review queue.
-source_url: https://www.hindustantimes.com/lifestyle/health/from-post-workout-hygiene-to-better-sleep-habits-these-5-wellness-rituals-are-shaping-women-s-self-care-in-2026-101779690636954.html
+source_url: >-
+  https://www.hindustantimes.com/lifestyle/health/from-post-workout-hygiene-to-better-sleep-habits-these-5-wellness-rituals-are-shaping-women-s-self-care-in-2026-101779690636954.html
 source_item_id: 6a14208f16f23264031d7d7b
 generated_by: claude
-featuredImage: /assets/images/5-evidence-based-wellness-rituals-transforming-womens-self-care-2.webp
+featuredImage: >-
+  /assets/images/5-evidence-based-wellness-rituals-transforming-womens-self-care-2.webp
 quality_score: 53
 score_breakdown:
   seo_quality: 65
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 30
-quality_note: The article has a professional tone but lacks yoga/meditation focus for the target site, contains vague unsupported claims, and falls significantly short of the target word count.
+quality_note: >-
+  The article has a professional tone but lacks yoga/meditation focus for the
+  target site, contains vague unsupported claims, and falls significantly short
+  of the target word count.
 reading_time: 3
-image_alt: Indian woman preparing a calm morning self-care routine in a softly lit modern bathroom
+image_alt: >-
+  Indian woman preparing a calm morning self-care routine in a softly lit modern
+  bathroom
+topics:
+  - Wellness
 ---
 ## The Evolution of Women's Wellness
 

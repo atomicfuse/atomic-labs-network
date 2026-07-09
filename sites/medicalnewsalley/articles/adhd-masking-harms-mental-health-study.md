@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Adult at a tidy desk with a calm exterior and a strained reflection in soft
   morning light.
+topics:
+  - Mental Health
 ---
 ## The Hidden Cost of Fitting In
 

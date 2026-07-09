@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant designer interiors glimpsed through layered archways with sculptural
   lighting and rich textures.
+topics:
+  - Interior Design
 ---
 ## Global Designers Transform Chelsea Harbour Showcase
 

@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Sunlit kitchen counter with watermelon wedges and a glass jug of pink homemade
   wine fermenting.
+topics:
+  - Wine recipes
 ---
 ## Getting Started with Watermelon Wine
 

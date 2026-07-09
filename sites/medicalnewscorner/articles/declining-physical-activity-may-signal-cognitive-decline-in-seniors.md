@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Older adult pausing on a sunlit park path, suggesting changing activity and
   wellbeing.
+topics:
+  - Health News
 ---
 
 A noticeable drop in daily movement may be more than a normal part of aging. Emerging research suggests that declining physical activity in older adults can sometimes appear alongside early cognitive changes, including shifts in memory, attention, planning, and processing speed.

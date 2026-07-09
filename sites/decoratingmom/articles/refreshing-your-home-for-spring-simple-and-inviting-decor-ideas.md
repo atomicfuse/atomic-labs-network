@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Sunlit spring living room with neutral decor, natural textures, and fresh
   branches on a coffee table.
+topics:
+  - Decor Ideas
 ---
 
 Spring is a wonderful time to breathe new life into your home. As the season of renewal, it offers an opportunity to refresh your space with simple and effective decorating ideas that bring a sense of lightness and brightness. This article will guide you through effortless styling tips that make every corner of your house feel inviting and cozy.

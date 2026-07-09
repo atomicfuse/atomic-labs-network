@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Indian women in an urban setting with health screening objects suggesting
   rising lifestyle disease risks
+topics:
+  - Health News
 ---
 ## Alarming Rise in Obesity Among Indian Women
 

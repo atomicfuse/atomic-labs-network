@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Young professional with eczema stands between school and workplace paths,
   suggesting long-term life impact.
+topics:
+  - Health News
+  - Conditions
 ---
 ## Beyond the Skin: Eczema's Lifelong Journey
 

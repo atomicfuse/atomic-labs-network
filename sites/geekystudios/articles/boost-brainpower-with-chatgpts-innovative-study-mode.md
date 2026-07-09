@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Student studying with a laptop as abstract light patterns suggest guided
   learning and ideas
+topics:
+  - Tech
 ---
 
 In the ever-evolving landscape of technology, artificial intelligence continues to revolutionize the way we learn and interact with information. One of the most intriguing applications of AI in education is the use of ChatGPT in study mode. This innovative tool is transforming how individuals approach learning by focusing on engagement and active knowledge acquisition rather than simply providing answers.

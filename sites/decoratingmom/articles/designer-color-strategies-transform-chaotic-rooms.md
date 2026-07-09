@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Calm modern living room corner styled with a cohesive neutral, terracotta,
   cream, and cobalt color palette.
+topics:
+  - Decor Ideas
+  - Budget Decor
+  - Interior Design
 ---
 ## The Power of Strategic Color Choices
 

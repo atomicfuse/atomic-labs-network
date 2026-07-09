@@ -32,6 +32,8 @@ quality_note: >-
   Well-written article with excellent topic relevance and tone, but
   significantly under target word count at 436 words versus the 800-1200 range.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## A New Approach to Group Travel
 

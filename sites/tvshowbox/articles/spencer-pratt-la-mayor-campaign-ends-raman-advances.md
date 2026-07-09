@@ -33,6 +33,8 @@ quality_note: >-
   count.
 reading_time: 3
 image_alt: Mail-in ballots and campaign volunteers near Los Angeles City Hall at dusk.
+topics:
+  - Celebrity News
 ---
 ## Reality TV Star's Political Dreams Come to an End
 

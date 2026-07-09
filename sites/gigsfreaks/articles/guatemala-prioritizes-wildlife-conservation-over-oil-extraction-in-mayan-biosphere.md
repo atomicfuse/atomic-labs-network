@@ -48,6 +48,8 @@ quality_note: >-
   gigsfreaks' entertainment focus and conversational tone, lacking the engaging,
   fun content expected for this audience.
 image_alt: Misty Guatemalan rainforest with Maya ruins and tropical birds at sunrise
+topics:
+  - Good Vibes
 ---
 
 The government of Guatemala recently made a landmark decision to prioritize environmental conservation over short-term economic gains. By forgoing potential oil extraction projects, the country aims to secure and preserve the invaluable Mayan Biosphere Reserve. This move underscores a commitment to protecting biodiversity and cultural heritage, setting a precedent for sustainable development.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sunlit Hamptons inn with garden path, hydrangeas, café tables, and coastal
   luxury details
+topics:
+  - Destinations
 ---
 ## Historic Hotels Get Modern Makeovers
 

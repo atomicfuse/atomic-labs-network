@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Unbranded new cars wait at a border lot, suggesting tariff pressure on North
   American auto prices.
+topics:
+  - News
+  - Industry
 ---
 
 US President Donald Trump has fulfilled his threat of imposing extensive import levies on Canada and Mexico. With a 25% duty on most Canadian and Mexican imports, the ramifications for the automotive sector could be severe. This is an industry with supply chains that interconnect the three countries. Bloomberg's Craig Trudell provides a detailed analysis of the situation.

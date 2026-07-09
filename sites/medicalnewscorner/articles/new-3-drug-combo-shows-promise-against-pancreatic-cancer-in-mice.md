@@ -45,6 +45,9 @@ quality_note: >-
   length (493 words vs 800-1200 target) and lacks specific research details that
   could strengthen credibility.
 image_alt: Three medicine vials on a modern lab bench lit by hopeful morning light
+topics:
+  - Research
+  - Drugs
 ---
 
 Pancreatic cancer is notorious for its aggressive nature and poor prognosis, posing significant challenges to medical professionals worldwide. Recent research has highlighted a promising three-drug combination that could potentially improve treatment outcomes for this formidable disease. This innovative approach has generated significant interest, as it may offer new hope for patients battling advanced stages of pancreatic cancer.

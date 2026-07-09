@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Healthcare administrators review abstract enrollment metrics in a bright
   modern clinic office.
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 In today's complex healthcare landscape, efficient [payor enrollment](https://www.withassured.com/products/payor-enrollment) can mean the difference between a thriving practice and one struggling with cash flow. After analyzing enrollment data from hundreds of healthcare organizations, we've identified the key metrics that truly matter for success.

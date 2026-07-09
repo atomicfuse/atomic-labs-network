@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Silver convertible roadster rounding a desert curve at golden hour with
   mountains in the distance
+topics:
+  - Reviews
 ---
 ## A 37-Year Love Affair Continues
 

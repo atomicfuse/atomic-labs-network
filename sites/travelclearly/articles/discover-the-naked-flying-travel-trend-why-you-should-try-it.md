@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Sunlit private jet cabin above clouds with relaxed travelers and folded
   clothes suggesting liberated travel.
+topics:
+  - Travel
+  - Travel Tips
+  - Lifestyle
 ---
 
 Traveling has always been a way to break free from daily routines and explore new horizons. With an ever-evolving landscape of travel trends, a unique concept is taking the travel world by storm—naked flying. This trend invites travelers to embrace a more liberating experience during flights, free from the constraints of clothing. But what exactly is naked flying, and why are more people keen to try it?

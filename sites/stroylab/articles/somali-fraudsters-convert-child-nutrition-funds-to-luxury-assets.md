@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Conflicting blank documents and renewable energy visuals arranged on a
   newsroom desk
+topics:
+  - Deep Dives
 ---
 
 *No valid article content was found. The body text does not correspond to the article title and appears to be unrelated placeholder content inserted in error.*

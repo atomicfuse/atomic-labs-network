@@ -39,6 +39,8 @@ quality_note: >-
   tips) and instead discusses street juggling, making it irrelevant for the
   parenting audience despite decent writing quality.
 image_alt: Parent helps a sleepy child wake up in a softly lit bedroom at dawn
+topics:
+  - Parenting
 ---
 
 ​

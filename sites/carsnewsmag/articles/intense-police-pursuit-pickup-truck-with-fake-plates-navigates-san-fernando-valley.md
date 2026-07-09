@@ -48,6 +48,8 @@ quality_note: >-
   optimization, and doesn't align with the site's car enthusiast audience or
   core topics.
 image_alt: Police vehicles pursue a pickup truck through a lit valley boulevard at night.
+topics:
+  - News
 ---
 
 On a Wednesday night, law enforcement pursued a driver in a pickup truck bearing incorrect plates. The chase commenced in the San Fernando Valley before stretching into the foothills of the San Gabriel Valley.

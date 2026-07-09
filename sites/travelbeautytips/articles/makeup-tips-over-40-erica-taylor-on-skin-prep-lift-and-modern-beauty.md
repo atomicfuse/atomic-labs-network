@@ -48,6 +48,9 @@ quality_note: >-
   content integration and could benefit from stronger SEO optimization with
   title length and keyword placement.
 image_alt: Confident woman over 40 applying makeup at a softly lit vanity
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Makeup routines can stay familiar for years, but skin, style, and product preferences often evolve over time. In this episode of The Beauty Authority, NewBeauty's Tatiana Bido speaks with veteran makeup artist and viral content creator Erica Taylor about makeup tips for women over 40, with a focus on confidence, approachable technique, and simple updates that make a routine feel fresh again.

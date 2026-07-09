@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Glitzy London premiere scene with silhouetted guests, paparazzi lights, and
   copper reflections on a red carpet.
+topics:
+  - TV Shows
 ---
 ## HBO Rolls Out the Red Carpet for Westeros
 

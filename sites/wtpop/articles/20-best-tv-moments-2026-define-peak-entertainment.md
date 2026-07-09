@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Glowing cinematic scene fragments float in a dark screening room, suggesting
   standout TV moments.
+topics:
+  - TV & Movies
 ---
 ## The Year's Most Unforgettable Television Moments
 

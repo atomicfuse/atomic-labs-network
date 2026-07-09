@@ -40,6 +40,8 @@ quality_note: >-
   discuss a potentially non-existent Superman film, raising serious factual
   accuracy concerns.
 image_alt: Silhouetted caped figure on a dawn rooftop overlooking a glowing city skyline.
+topics:
+  - Celebrities
 ---
 
 The anticipation for the next Superman film, "Superman: Man of Tomorrow," is reaching new heights as fans speculate about the casting of a significant male character. This upcoming addition to the Superman saga promises to bring fresh narratives and intriguing developments. While the official cast list remains under wraps, rumors and discussions are buzzing around potential candidates for pivotal roles.

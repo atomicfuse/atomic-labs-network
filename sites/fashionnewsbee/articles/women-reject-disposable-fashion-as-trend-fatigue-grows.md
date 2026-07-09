@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Woman choosing timeless clothing from a curated wardrobe while discarded fast
   fashion fades behind her.
+topics:
+  - Fashion
 ---
 
 Fashion fatigue is setting in, and many women are no longer willing to chase every microtrend that appears online. After years of rapid style shifts, low-cost hauls and barely worn garments, shoppers are reassessing what they buy, how often they buy it and what happens when clothing leaves their wardrobes.

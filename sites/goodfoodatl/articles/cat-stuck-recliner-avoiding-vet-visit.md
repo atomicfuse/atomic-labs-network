@@ -34,6 +34,8 @@ quality_note: >-
   While the friendly tone is perfect and the story appears factually accurate,
   this pet rescue article is completely off-topic for a food site, far too short
   at 337 words, and lacks proper SEO optimization.
+topics:
+  - Food Culture
 ---
 Sometimes our furry family members go to extraordinary lengths to avoid what's best for them – and one clever cat in Kansas took the concept of "hiding from the vet" to a whole new level.
 

@@ -36,6 +36,9 @@ quality_note: >-
 image_alt: >-
   A cinematic summer living room setup glowing with TV light and
   entertainment-night atmosphere.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 No source article content was provided. Please paste the full source article text to generate a complete, cleaned-up article about the best new TV shows premiering this summer.

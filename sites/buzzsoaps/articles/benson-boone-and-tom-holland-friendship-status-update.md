@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Two young performers meet backstage between a concert stage and film set under
   warm cinematic lights.
+topics:
+  - Culture Buzz
 ---
 
 The world of entertainment often brings together unexpected friendships that capture the public's imagination. One such intriguing connection is between singer-songwriter Benson Boone and acclaimed actor Tom Holland. Known for their achievements in music and film respectively, these two stars have sparked interest with their budding friendship.

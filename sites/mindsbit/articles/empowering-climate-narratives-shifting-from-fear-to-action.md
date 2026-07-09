@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Community members collaborate in a sunlit green space, symbolizing hopeful
   climate action.
+topics:
+  - Ideas
 ---
 
 Climate storytelling has emerged as a powerful tool to engage the public and influence policy decisions. By shifting the narrative from fear to agency, storytellers can inspire communities and policymakers to take meaningful action against climate change. Understanding the impact of storytelling on climate action and how it can be effectively utilized is essential for creating a sustainable future.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Retro-modern sports coupe concept on a green fairway with a classic coupe
   silhouette behind it.
+topics:
+  - Concept Cars
 ---
 ## Custom Vision Challenges Official Design Direction
 

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Ripe coffee cherries on a sunlit Ugandan farm with farmers harvesting in the
   background
+topics:
+  - Coffee News
 ---
 
 Uganda's coffee industry is experiencing a significant boost this crop year, with production expected to rise by 15%. This increase reflects the country's dedication to enhancing its agricultural sector, specifically coffee, which is one of its primary export commodities. Such a surge in production is attributed to improved farming techniques and favorable weather conditions.

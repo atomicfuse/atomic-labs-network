@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman doing a controlled Pilates lunge at home with towel sliders and
   resistance bands nearby.
+topics:
+  - Fitness & Movement
 ---
 ## The Rise of Reformer Pilates and the Accessibility Challenge
 

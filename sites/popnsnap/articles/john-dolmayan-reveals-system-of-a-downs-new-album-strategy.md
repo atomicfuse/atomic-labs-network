@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Moody rehearsal studio with drums, microphones, cables, and a glowing
   recording light
+topics:
+  - Music
 ---
 
 System of a Down, the iconic band known for its unique blend of metal and alternative rock, has kept fans eagerly awaiting new material for years. Recently, drummer John Dolmayan hinted at a potential breakthrough for a new album, sparking excitement within the fanbase. The band's last full-length album was released in 2005, and since then, fans have been yearning for a new project that captures the band's dynamic sound and political edge.

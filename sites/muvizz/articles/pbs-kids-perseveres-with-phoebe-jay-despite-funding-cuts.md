@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   A glowing children’s puppet stage in a quiet studio surrounded by boxes and
   dimmed lights.
+topics:
+  - TV Shows
 ---
 
 PBS has long been a cornerstone of educational children's programming, offering quality content that entertains and enlightens young minds. Recently, however, the network announced significant changes to its lineup, impacting beloved shows and the communities they serve.

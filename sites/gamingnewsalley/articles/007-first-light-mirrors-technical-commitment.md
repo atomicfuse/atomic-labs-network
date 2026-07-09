@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   A stylish figure stands before multiple mirrors in a sunlit modern concrete
   room.
+topics:
+  - Gaming News
 ---
 ## Breaking the Mirror Taboo in Modern Gaming
 

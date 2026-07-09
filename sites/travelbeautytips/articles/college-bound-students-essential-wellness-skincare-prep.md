@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Sunlit college prep scene with skincare, wellness items, graduation cap, and
   open suitcase
+topics:
+  - Beauty Tips
+  - Packing Guides
 ---
 ## Building Wellness Habits Before Campus Life Begins
 

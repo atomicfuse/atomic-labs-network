@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   Unbranded plug-in hybrid family SUV charging in a modern suburban driveway at
   golden hour
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 The Jaecoo 8 is aimed squarely at families who want a large SUV with premium equipment, seven-seat practicality and plug-in hybrid efficiency without moving into luxury-brand pricing. As the flagship model from Chery's Jaecoo brand, it sits above the Jaecoo 7 and targets established rivals such as the Kia Sorento, Hyundai Santa Fe, Skoda Kodiaq and Peugeot 5008.

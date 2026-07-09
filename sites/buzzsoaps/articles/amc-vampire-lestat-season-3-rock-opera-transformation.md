@@ -33,6 +33,8 @@ quality_note: >-
   relevance, but falls short of ideal length at 663 words.
 reading_time: 3
 image_alt: A vampire rock star stands under golden stage lights in a gothic concert hall.
+topics:
+  - Culture Buzz
 ---
 ## A Major Reinvention for the Vampire Chronicles
 

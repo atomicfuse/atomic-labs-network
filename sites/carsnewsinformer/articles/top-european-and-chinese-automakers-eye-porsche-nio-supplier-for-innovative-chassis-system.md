@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   High-tech EV chassis on a studio floor with unbranded car silhouettes
   converging in the background.
+topics:
+  - News
+  - Industry
 ---
 ## Major Automakers Show Interest in Porsche-Nio Supplier
 

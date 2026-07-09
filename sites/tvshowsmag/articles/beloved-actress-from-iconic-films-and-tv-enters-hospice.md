@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Softly lit theater dressing room with a vintage camera, flowers, and an empty
   chair.
+topics:
+  - TV News
 ---
 
 In the world of entertainment, few individuals leave an indelible mark across generations. An actress, renowned for her roles in iconic movies and television series, has captivated audiences worldwide with her talent and versatility. Her journey through the realms of film and TV is a testament to her enduring appeal and ability to adapt to changing times.

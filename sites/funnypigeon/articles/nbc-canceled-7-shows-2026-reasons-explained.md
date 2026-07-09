@@ -1,9 +1,11 @@
 ---
-title: "NBC's Big 2026 Purge: Why the Network Canceled 7 Shows"
-description: NBC and NBCUniversal made major cuts in 2026, canceling seven TV shows as network television faces streaming pressure and budget constraints.
+title: 'NBC''s Big 2026 Purge: Why the Network Canceled 7 Shows'
+description: >-
+  NBC and NBCUniversal made major cuts in 2026, canceling seven TV shows as
+  network television faces streaming pressure and budget constraints.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Odd News
@@ -13,7 +15,8 @@ tags:
   - cancellations
 slug: nbc-canceled-7-shows-2026-reasons-explained
 reviewer_notes: Approved via review queue.
-source_url: https://www.justjared.com/2026/05/25/why-nbc-canceled-7-tv-shows-in-2026-see-the-explanations/
+source_url: >-
+  https://www.justjared.com/2026/05/25/why-nbc-canceled-7-tv-shows-in-2026-see-the-explanations/
 source_item_id: 6a151ac216f23264031d80f4
 generated_by: claude
 featuredImage: /assets/images/nbc-canceled-7-shows-2026-reasons-explained.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 54
   factual_accuracy: 25
   keyword_relevance: 45
-quality_note: Article has major factual issues discussing future 2026 events as if they already happened, is too short at 538 words, and doesn't align well with the site's entertainment/viral content focus.
+quality_note: >-
+  Article has major factual issues discussing future 2026 events as if they
+  already happened, is too short at 538 words, and doesn't align well with the
+  site's entertainment/viral content focus.
 reading_time: 3
-image_alt: Seven dark TV monitors in a moody control room with colorful broadcast lights fading into digital haze.
+image_alt: >-
+  Seven dark TV monitors in a moody control room with colorful broadcast lights
+  fading into digital haze.
+topics:
+  - Odd News
 ---
 ## The 2026 NBC Cancellation Wave
 

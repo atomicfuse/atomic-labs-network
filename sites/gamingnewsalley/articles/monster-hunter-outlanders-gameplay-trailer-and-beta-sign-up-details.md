@@ -46,6 +46,8 @@ quality_note: >-
   but falls short on length (612 words vs 800-1200 target) and could benefit
   from better SEO optimization in title and meta description.
 image_alt: Armored hunter faces a giant creature across misty jungle cliffs at dusk.
+topics:
+  - Gameplay
 ---
 
 The highly anticipated mobile gaming experience, "Monster Hunter Outlanders," is generating excitement with the release of its latest gameplay trailer. As Capcom unveils this thrilling new chapter, players are invited to participate in an exclusive closed beta, offering a sneak peek into its immersive world. This mobile adaptation promises to deliver the franchise's renowned action-packed adventures directly to gamers' fingertips.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A knight’s armor by a campfire with subtle medieval fantasy clues hidden in
   the misty forest
+topics:
+  - Pop Culture
 ---
 
 Exploring the rich tapestry of the "Game of Thrones" universe is always a thrilling experience for fans, especially when new series expand on the intricate lore. "A Knight of the Seven Kingdoms," the first episode of the latest show, is no exception. This episode not only introduces fresh storylines but also weaves in delightful Easter eggs that pay homage to its predecessor. Let's dive into these fascinating nods and references that enrich the viewing experience.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Golden crispy moong dal pakode on a plate with chai and kitchen tools in soft
   warm light.
+topics:
+  - Healthy Recipes
 ---
 ## The Quest for Perfect Pakode
 

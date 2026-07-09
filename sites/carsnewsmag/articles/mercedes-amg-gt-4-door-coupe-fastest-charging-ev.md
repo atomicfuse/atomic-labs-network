@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Luxury electric four-door coupe charging in a dramatic high-tech bay with
   glowing energy lines
+topics:
+  - Electric Cars
 ---
 ## Revolutionary Charging Speed Sets New Industry Benchmark
 

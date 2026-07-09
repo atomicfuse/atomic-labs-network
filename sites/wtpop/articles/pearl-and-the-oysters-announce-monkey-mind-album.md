@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Iridescent pearls and oyster shells float among colorful looping ribbons in a
   dreamy psych-pop scene.
+topics:
+  - Music
 ---
 
 Pearl & The Oysters are back in motion, pairing a fresh album announcement with a new song that captures the duo's bright, restless approach to modern psychedelic pop. The project, led by Juliette Pearl Davis and Joachim Polack, continues to turn soft-focus melodies, jazz-minded harmony, and playful studio detail into music that feels both nostalgic and sharply present.

@@ -33,6 +33,8 @@ quality_note: >-
   sourcing without specific citations.
 reading_time: 3
 image_alt: A glowing teddy bear in a cozy playroom watched by a parent from the doorway.
+topics:
+  - Parenting
 ---
 ## The New Generation of AI Toys
 

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Fan plans a fantasy soccer squad on a tablet with a floodlit stadium in the
   background.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 The world of fantasy soccer captivates millions worldwide, offering an engaging way to participate in the excitement of the Premier League. As the current season unfolds, many fans are already looking ahead to the 2025-26 Fantasy Premier League. Anticipation is building as enthusiasts prepare to create competitive teams, strategize for top rankings, and enjoy the thrill of the game.

@@ -45,6 +45,8 @@ quality_note: >-
   Well-written research article with good tone and accuracy, but falls short on
   length and could benefit from a more compelling title for SEO.
 image_alt: Clinician reviews a hospital risk dashboard near a softly lit isolation room.
+topics:
+  - Research
 ---
 
 Patients with suspected tuberculosis (TB) require special precautions in healthcare facilities, and cases of TB have been rising in the US over the past several years. These precautions include isolating persons with suspected TB in patient rooms with specialized air handling known as airborne infection isolation rooms.

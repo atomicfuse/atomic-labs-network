@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Compact gaming keyboard on a dark desk with colorful light trails suggesting
   speed and precision
+topics:
+  - Innovation
+  - Tech
 ---
 
 The gaming industry is constantly evolving, and with it, the demand for innovative peripherals grows. Among these, keyboards play a pivotal role in enhancing gamer performance. The latest offering from Wooting, the Wooting 60HE V2 keyboard, is set to redefine the gaming experience with its advanced features and cutting-edge technology.

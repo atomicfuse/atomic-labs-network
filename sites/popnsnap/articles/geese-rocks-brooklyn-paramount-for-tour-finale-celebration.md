@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Indie rock band silhouetted on a grand theater stage as a crowd cheers under
   colorful lights.
+topics:
+  - Music
 ---
 
 Brooklyn has long been recognized as a vibrant hub for the music industry, continuously nurturing a diverse array of artists and bands. Among these emerging talents, Geese, an indie rock band, has captured the attention of both fans and industry professionals with their innovative sound and engaging performances. This dynamic group represents the essence of the Brooklyn music scene, which thrives on creativity and experimentation.

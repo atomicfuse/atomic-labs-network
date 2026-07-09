@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Travelers move through a busy airport terminal during the Thanksgiving holiday
   rush.
+topics:
+  - Culture
+  - Guides & Tips
 ---
 
 Thanksgiving is a time for family gatherings and festive meals, but it's also one of the busiest travel periods of the year. With millions hitting the road or taking to the skies, travelers must plan ahead to avoid stress and ensure a smooth journey. Whether you're traveling by car or plane, a little preparation can make all the difference during this hectic season.

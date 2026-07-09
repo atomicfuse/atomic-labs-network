@@ -33,6 +33,8 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count and
   lacks specific data sourcing for the 37 million figure.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## The RV Revolution Takes Hold
 

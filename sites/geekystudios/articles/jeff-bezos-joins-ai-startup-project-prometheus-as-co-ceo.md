@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted executive facing a glowing abstract AI network in a futuristic
   command room
+topics:
+  - Tech
 ---
 
 In the ever-evolving landscape of technology, innovation continues to drive significant breakthroughs. This is particularly evident in the realm of artificial intelligence (AI), where industry giants and visionary entrepreneurs are making strides to shape the future. Jeff Bezos, renowned for his transformative role at Amazon, is now channeling his expertise and resources into a promising new venture. Through a strategic collaboration with Project Prometheus, Bezos is poised to further revolutionize the AI sector.

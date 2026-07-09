@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Lidar scan lines reveal ancient geometric structures beneath a misty Amazon
   rainforest canopy.
+topics:
+  - Hidden History
 ---
 Deep beneath the dense canopy of Bolivia's Amazon rainforest lies one of archaeology's most stunning revelations. Advanced lidar technology has uncovered a vast, sophisticated civilization that challenges everything we thought we knew about pre-Columbian Amazonia.
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Accessible dental care room with clinicians attentively supporting a patient
   in a calm, bright setting.
+topics:
+  - Health News
 ---
 ## Significant Barriers Persist in Dental Care Access
 

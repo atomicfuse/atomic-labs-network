@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Focused worker surrounded by subtle neural light trails suggesting trained
   multitasking and automated memory.
+topics:
+  - Personal Growth
 ---
 ## The Science Behind Skill Automation
 

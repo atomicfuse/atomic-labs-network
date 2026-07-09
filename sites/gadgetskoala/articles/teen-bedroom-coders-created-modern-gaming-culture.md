@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Retro bedroom computer glowing with abstract pixel networks and floppy disks,
   evoking early gaming culture.
+topics:
+  - Gaming
 ---
 ## From Floppy Disks to GitHub: The Forgotten Origins of Gaming Culture
 

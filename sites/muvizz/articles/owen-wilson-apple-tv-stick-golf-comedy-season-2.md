@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Mentor and young golfer stand on a quiet course as parents watch from the
   background.
+topics:
+  - TV Shows
 ---
 ## Owen Wilson Returns to Comedy in Apple TV+'s 'Stick'
 

@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   College basketball player and partner stand on a beach at sunset with a
   basketball, facing the horizon.
+topics:
+  - Latest News
+  - Transfers
 ---
 ## Major Transfer Makes Waves On and Off Court
 

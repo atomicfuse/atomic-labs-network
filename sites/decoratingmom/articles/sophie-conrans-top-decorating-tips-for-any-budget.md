@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Sunlit living room with decor samples and planning tools arranged for a
   thoughtful home refresh.
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Renovating a home can be a daunting task, but with the right guidance and a touch of creativity, it can also be an immensely rewarding experience. Whether you're updating a single room or revamping an entire house, approaching the process with a strategic mindset can make all the difference.

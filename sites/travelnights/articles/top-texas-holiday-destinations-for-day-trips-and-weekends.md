@@ -41,6 +41,8 @@ quality_note: >-
   short on length requirements and could benefit from improved SEO structure
   with more strategic heading usage.
 image_alt: Festive Texas small town street glowing with holiday lights at dusk
+topics:
+  - Destinations
 ---
 
 Texas during the holiday season transforms into a wonderland of festive lights, enchanting music, and delightful events. With the Lone Star State's vast landscape, there are countless destinations offering unique experiences for everyone. Whether you're seeking a cozy small-town celebration or an extravagant city display, Texas has it all. Discover charming holiday traditions, vibrant parades, and winter activities that create lasting memories for families and friends.

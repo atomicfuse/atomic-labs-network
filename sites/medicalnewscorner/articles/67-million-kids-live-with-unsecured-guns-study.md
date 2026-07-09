@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Teen backpack and sneakers near an ajar bedroom drawer suggesting an unsecured
   firearm at home.
+topics:
+  - Health News
 ---
 ## Alarming Rise in Unsafe Gun Storage
 

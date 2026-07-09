@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Tense empty campaign room with scattered papers and people standing apart
   after an election defeat
+topics:
+  - Celebrity News
 ---
 ## Internal Warfare Erupts in Far-Right Circles
 

@@ -1,9 +1,12 @@
 ---
-title: "'Below Deck Down Under' Crew Battle Threatens Yacht Morale"
-description: Episode 17 of Below Deck Down Under showcases an escalating ego clash between Daisy and Ben over service standards and crew promotions as the season nears its...
+title: '''Below Deck Down Under'' Crew Battle Threatens Yacht Morale'
+description: >-
+  Episode 17 of Below Deck Down Under showcases an escalating ego clash between
+  Daisy and Ben over service standards and crew promotions as the season nears
+  its...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +16,8 @@ tags:
   - yacht-crew
 slug: below-deck-down-under-crew-battle-threatens-yacht-morale
 reviewer_notes: Approved via review queue.
-source_url: https://www.vulture.com/article/below-deck-down-under-recap-season-4-episode-17-bravo.html
+source_url: >-
+  https://www.vulture.com/article/below-deck-down-under-recap-season-4-episode-17-bravo.html
 source_item_id: 6a152fda16f23264031d81fc
 generated_by: claude
 featuredImage: /assets/images/below-deck-down-under-crew-battle-threatens-yacht-morale.webp
@@ -24,9 +28,14 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 60
-quality_note: Article has good structure and tone but falls significantly short on length (592 vs 800-1200 target) and lacks strong entertainment focus for the funnypigeon audience.
+quality_note: >-
+  Article has good structure and tone but falls significantly short on length
+  (592 vs 800-1200 target) and lacks strong entertainment focus for the
+  funnypigeon audience.
 reading_time: 3
 image_alt: Tense yacht crew members stand apart in a polished service area at dusk.
+topics:
+  - Viral
 ---
 ## Power Struggle Erupts on Below Deck Down Under
 

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Abstract brain-like neural network glowing with low-power circuit pathways on
   a dark futuristic background
+topics:
+  - Tech
 ---
 ## The Energy Crisis Threatening AI's Future
 

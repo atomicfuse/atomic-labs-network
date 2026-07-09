@@ -1,9 +1,13 @@
 ---
-title: "Big Sur: The 100-Mile Stretch of California Coast Where Cliffs Tower Over the Pacific"
-description: Big Sur isn't a single town but a legendary stretch of California's Highway 1, known for its dramatic cliffs, redwood forests, and iconic coastal views...
+title: >-
+  Big Sur: The 100-Mile Stretch of California Coast Where Cliffs Tower Over the
+  Pacific
+description: >-
+  Big Sur isn't a single town but a legendary stretch of California's Highway 1,
+  known for its dramatic cliffs, redwood forests, and iconic coastal views...
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - Travel
@@ -12,8 +16,9 @@ tags:
   - Nature
   - US Tourism
 slug: big-sur-california-coast-most-beautiful-drive
-reviewer_notes: ""
-source_url: https://www.travelandleisure.com/trip-ideas/road-trips/big-sur-california-road-trip
+reviewer_notes: ''
+source_url: >-
+  https://www.travelandleisure.com/trip-ideas/road-trips/big-sur-california-road-trip
 source_item_id: 8c119efc3b1b305d707bg96b
 generated_by: claude
 featuredImage: /assets/images/big-sur-california-coast-most-beautiful-drive.webp
@@ -23,13 +28,22 @@ score_breakdown:
   tone_match: 90
   content_length: 85
   factual_accuracy: 75
-quality_note: Evocative travel article that captures the essence of the destination. Factual accuracy score lowered due to subjective claims like 'most beautiful,' but overall content is strong and well-structured. Meets length and keyword targets.
+quality_note: >-
+  Evocative travel article that captures the essence of the destination. Factual
+  accuracy score lowered due to subjective claims like 'most beautiful,' but
+  overall content is strong and well-structured. Meets length and keyword
+  targets.
 reading_time: 4
 scripts:
   - id: f7e9d6ba-0ae5-46a9-afa1-de2ba3bc52af
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script> <div data-cg-feed="TravelSwire1"></div>
+topics:
+  - Travel Tips
 ---
 Big Sur isn't a town — it's a dramatic stretch of coastline where cliffs tower over the Pacific and the road has no guardrails. Here's why people call it the most beautiful coast in America, and where to actually stop to see it.
 

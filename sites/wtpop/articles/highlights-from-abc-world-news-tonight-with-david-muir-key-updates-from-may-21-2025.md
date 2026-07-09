@@ -46,6 +46,8 @@ quality_note: >-
   claims about Trump and Air Force One) and is significantly too short for the
   target length, though it maintains a decent informational tone.
 image_alt: Dimly lit newsroom with blurred monitors suggesting major national headlines
+topics:
+  - Celebrities
 ---
 
 ABC World News Tonight with David Muir aired a comprehensive broadcast on May 21, 2025, covering a range of impactful news stories from around the globe.

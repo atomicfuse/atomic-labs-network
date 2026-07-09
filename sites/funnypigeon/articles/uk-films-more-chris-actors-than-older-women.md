@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Older woman in a cinema spotlight as shadowy figures and a small animal sit in
   the audience.
+topics:
+  - Odd News
 ---
 ## Strange Statistics Reveal Cinema's Representation Problem
 

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Elderly sanctuary caretaker standing at a barn doorway surrounded by rescued
   animals at golden hour
+topics:
+  - Good Vibes
 ---
 
 In a quiet corner of Canada, a remarkable woman has dedicated her life to rescuing thousands of animals in need. At the age of 90, she remains as committed as ever to her sanctuary, a testament to her unwavering passion for animal welfare. Her story is one of dedication, compassion, and a refusal to retire from a cause she holds dear.

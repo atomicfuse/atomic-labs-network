@@ -51,6 +51,10 @@ quality_note: >-
 image_alt: >-
   Sunlit vanity with skincare, makeup, sunscreen, fresh produce, and wellness
   items arranged neatly.
+topics:
+  - Travel Tips
+  - Beauty Tips
+  - Packing Guides
 ---
 
 Stepping into the world of Karoline Leavitt, a political figure with a passion for beauty, reveals a treasure trove of beauty secrets. Her refined beauty routine, which includes a perfect blend of makeup and skincare, is a testament to her meticulous attention to detail.

@@ -40,6 +40,8 @@ quality_note: >-
   contemporary art exhibitions instead of video games, with misleading gaming
   tags and no gaming-related content whatsoever.
 image_alt: Abstract gallery sculpture lit by a narrow beam against deep shadow
+topics:
+  - Gaming News
 ---
 
 In the world of contemporary art, few exhibitions capture the essence of human experience like "Clair-Obscur" by the artist collective Alters. This unique exhibition, showcased in the heart of a bustling city, delves into the nuanced interplay of light and shadow, inviting viewers to explore the depths of perception and reality. The exhibition is an integral part of "Expedition 33-50 Big Wheel," a series that explores the boundaries of artistic expression.

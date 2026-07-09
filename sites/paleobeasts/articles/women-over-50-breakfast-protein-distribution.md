@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Active older woman prepares a colorful protein-rich breakfast in a bright
   kitchen.
+topics:
+  - Nutrition
 ---
 ## The Breakfast Gap in Women's Nutrition
 

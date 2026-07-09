@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Dog relaxing in shaded summer patio with water, cooling mat, and paw
   protection nearby
+topics:
+  - Pet Care & Health
 ---
 As summer temperatures continue to climb, dog owners face increased challenges in keeping their beloved pets safe from seasonal hazards. From heatstroke risks to toxic lawn products, the warmer months present unique dangers that require proactive planning and awareness.
 

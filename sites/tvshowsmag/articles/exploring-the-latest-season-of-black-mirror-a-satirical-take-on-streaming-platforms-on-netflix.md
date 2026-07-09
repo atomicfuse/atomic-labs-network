@@ -49,6 +49,10 @@ quality_note: >-
   short of the target word count at only 317 words, severely limiting its SEO
   value and depth of coverage.
 image_alt: 'A viewer faces glitching streaming screens in a dark, futuristic living room.'
+topics:
+  - TV News
+  - Reviews
+  - Celebrity News
 ---
 
 Prepare for a deep dive into the mind of Charlie Brooker, the creative genius behind the critically acclaimed series, 'Black Mirror.' This Netflix original has pushed the boundaries of television, intertwining technology, society, and human behavior in a disturbing yet compelling narrative.

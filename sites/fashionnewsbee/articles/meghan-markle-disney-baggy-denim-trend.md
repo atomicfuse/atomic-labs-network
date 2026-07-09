@@ -33,6 +33,8 @@ quality_note: >-
   heavily on vague sourcing that raises accuracy concerns.
 reading_time: 3
 image_alt: Stylish woman in rolled-cuff baggy jeans walking through a sunny promenade
+topics:
+  - Fashion
 ---
 ## Celebrity Style Meets Accessible Fashion
 

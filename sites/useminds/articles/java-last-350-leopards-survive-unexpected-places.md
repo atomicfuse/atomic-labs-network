@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   A Javan leopard moves through misty regenerating forest near distant signs of
   human development.
+topics:
+  - Mind-Blowing Science
 ---
 ## Against All Odds: The Javan Leopard's Survival Story
 

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Balanced meal with potatoes and vegetables on a sunlit table beside a blurred
   glucose meter.
+topics:
+  - Special Diets
+  - Nutrition Myths
 ---
 
 Potatoes have long been a staple in diets worldwide, yet they often face scrutiny concerning their impact on health, particularly regarding diabetes. As misconceptions abound, it's crucial to uncover the truth about potatoes and their nutritional value. This article will delve into the common myths surrounding potatoes and diabetes, revealing how these versatile tubers can fit into a healthy diet.

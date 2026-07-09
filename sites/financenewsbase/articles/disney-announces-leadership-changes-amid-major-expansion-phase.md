@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Executives review a theme park expansion map with castles, cruise ships, and
   resorts at sunrise.
+topics:
+  - Economic Trends
 ---
 ## Disney Restructures Leadership During Historic Growth Period
 

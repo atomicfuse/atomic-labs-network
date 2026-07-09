@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   A silhouetted producer faces a wall of glowing TV screens, some bright and
   some fading to black.
+topics:
+  - TV & Movies
 ---
 ## The 2026 Television Landscape: What's Staying and What's Going
 

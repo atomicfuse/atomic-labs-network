@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Aerial view of a surreal salt canyon with rust brine pools and pale mineral
   crusts in a barren desert.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Hidden Wonder Created by Industrial Process
 

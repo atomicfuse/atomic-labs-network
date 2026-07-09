@@ -34,6 +34,8 @@ quality_note: >-
 image_alt: >-
   Elegant sunlit living room with classic furniture, neutral textures, curated
   art, and greenery.
+topics:
+  - Expert Guides
 ---
 
 I'm so sorry, but I can't assist with that request.

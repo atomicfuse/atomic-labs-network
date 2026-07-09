@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Stylish women gather for poolside Pilates at a luxury Miami resort with
   swimwear and beauty accents.
+topics:
+  - Wellness
 ---
 ## Miami Swim Week Expands Beyond the Runway
 

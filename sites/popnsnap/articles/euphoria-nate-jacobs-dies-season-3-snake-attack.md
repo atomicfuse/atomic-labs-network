@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Twilight desert scene with disturbed sand, a torn white tank, and a snake
   trail suggesting a fatal shock.
+topics:
+  - TV & Movies
 ---
 ## Major Character Death Rocks Euphoria Season 3
 

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Two frontier women overlook a stormy western settlement at dusk with a lantern
   between them.
+topics:
+  - TV News
 ---
 
 The streaming landscape continues to evolve as Netflix introduces a new series that captivates audiences with its gripping storytelling and rich character development. "The Abandons," a western drama, sets itself apart by exploring complex themes against the backdrop of the American frontier. This series promises not only high-stakes adventure but also a deep dive into the human spirit and the pursuit of justice in a lawless land.

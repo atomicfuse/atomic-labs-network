@@ -45,6 +45,8 @@ scripts:
 image_alt: >-
   Couple in a sunlit hotel room sits apart beside an open suitcase, suggesting
   travel-related relationship tension.
+topics:
+  - Travel Tips
 ---
 ## The Rise of 'Turbulence Tests' in Modern Dating
 

@@ -49,6 +49,8 @@ quality_note: >-
   video gaming site focused on PC/console games, reviews, and gaming news for
   enthusiasts.
 image_alt: Snowy Alaskan gaming hall entrance cordoned off at dusk under moody blue light
+topics:
+  - Gaming News
 ---
 
 The Alaskan government has initiated legal proceedings with an aim to halt the operations of Eklutna Gaming Hall. The state authorities have filed an injunction against the casino, citing that it is operating in violation of state and federal gaming laws.

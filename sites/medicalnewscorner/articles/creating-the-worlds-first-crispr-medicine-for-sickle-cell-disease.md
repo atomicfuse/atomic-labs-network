@@ -53,6 +53,8 @@ quality_note: >-
 image_alt: >-
   Abstract red blood cells and a glowing DNA helix symbolize gene therapy
   progress for sickle cell disease.
+topics:
+  - Health News
 ---
 
 People with sickle cell disease experience excruciating pain crises, tissue and organ damage, and shortened life expectancy. The lab of Stuart Orkin made crucial discoveries that, in the hands of CRISPR Therapeutics and Vertex Pharmaceuticals, became an FDA-approved gene therapy that is making a monumental impact on patients with sickle cell disease.

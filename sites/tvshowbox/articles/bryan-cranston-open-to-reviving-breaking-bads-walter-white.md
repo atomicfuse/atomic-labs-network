@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A hat and glasses on a chemistry desk beside glowing lab glassware in a moody
   classroom
+topics:
+  - TV News
 ---
 
 Renowned for his transformative performances, Bryan Cranston is a name that resonates with fans of gripping television drama. His portrayal of Walter White, a high school chemistry teacher turned methamphetamine manufacturer, in the critically acclaimed series "Breaking Bad," is a testament to his acting prowess. The role not only elevated his career but also redefined modern television narratives.

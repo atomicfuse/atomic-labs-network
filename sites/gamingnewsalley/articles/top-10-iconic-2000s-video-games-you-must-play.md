@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Nostalgic 2000s gaming room lit by a glowing CRT television and scattered
   controllers.
+topics:
+  - Gaming News
 ---
 
 The 2000s were a transformative era for video games, bringing technological advancements and unforgettable experiences. This decade saw the launch of iconic game series, innovative gameplay mechanics, and immersive storylines that captivated players worldwide. Let's explore some of the most influential video games from this remarkable period.

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Plant foods arranged under a soft translucent arc symbolizing gut barrier
   protection
+topics:
+  - Nutrition
+  - Wellness
 ---
 ## From Anti-Nutrient to Gut Protector
 

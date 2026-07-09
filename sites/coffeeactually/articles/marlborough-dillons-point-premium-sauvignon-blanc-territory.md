@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Coastal vineyard rows stretch from golden farmland toward hazy hills and sea
   under warm afternoon light.
+topics:
+  - Coffee News
 ---
 ## The Rise of a Wine Region
 

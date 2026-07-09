@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Copper distillery lab still life with botanicals, beakers, and warm light
   suggesting craft gin innovation.
+topics:
+  - Nutrition Tips
 ---
 ## From Chemistry Lab to Gin Revolution
 

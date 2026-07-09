@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Curated summer shoes on a marble bench in an elegant department-store dressing
   lounge.
+topics:
+  - Fashion
 ---
 ## Summer's Biggest Designer Shoe Sale Has Arrived
 

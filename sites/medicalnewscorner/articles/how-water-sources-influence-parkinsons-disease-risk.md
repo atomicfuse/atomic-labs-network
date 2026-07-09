@@ -43,6 +43,8 @@ quality_note: >-
   significantly below target word count at 514 words versus the 800-1200 target
   range.
 image_alt: Glass of water on a sunlit counter with a blurred elderly hand nearby
+topics:
+  - Research
 ---
 
 Parkinson's disease, a progressive neurological disorder, affects millions worldwide. Recent studies suggest that environmental factors, including water sources, may influence the risk of developing this condition. As researchers delve deeper into these connections, understanding the role of water contaminants becomes crucial in the broader context of Parkinson's disease prevention.

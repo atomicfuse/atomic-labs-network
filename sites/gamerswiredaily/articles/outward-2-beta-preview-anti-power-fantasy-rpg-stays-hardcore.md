@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Two weary fantasy travelers face a misty wilderness with heavy survival gear
   and distant ruins.
+topics:
+  - Gaming News
 ---
 ## A Return to Harsh RPG Fundamentals
 

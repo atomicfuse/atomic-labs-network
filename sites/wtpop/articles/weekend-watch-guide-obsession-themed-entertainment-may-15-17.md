@@ -33,6 +33,8 @@ quality_note: >-
   short on length and contains some vague claims that raise accuracy concerns.
 reading_time: 3
 image_alt: 'A silhouetted viewer faces glowing screens in a dark, cinematic living room.'
+topics:
+  - TV & Movies
 ---
 ## A Weekend Built Around Obsession
 

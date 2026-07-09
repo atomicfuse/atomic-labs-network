@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Yellow whisky bottle silhouette surfacing in amber liquid with copper
   reflections and moody blue-gray light.
+topics:
+  - Nutrition
+  - Recipes
 ---
 ## The Return of a Whisky Legend
 

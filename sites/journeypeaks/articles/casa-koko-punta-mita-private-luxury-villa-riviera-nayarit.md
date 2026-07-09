@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Private tropical villa at dusk with an illuminated pool, open terrace, and
   ocean horizon
+topics:
+  - Travel
+  - Destinations
 ---
 ## The Rise of Private Villa Luxury in Riviera Nayarit
 

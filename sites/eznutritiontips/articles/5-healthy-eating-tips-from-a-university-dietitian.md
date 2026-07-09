@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Sunlit desk with a balanced meal, fresh produce, water, planner, and laptop
   for healthy daily routines.
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Incorporating healthy eating habits into your daily routine can significantly improve your well-being. Whether you're a student juggling classes or a professional balancing work commitments, understanding how to maintain a nutritious diet is crucial. Here are some practical tips from a registered dietitian to bring the essence of campus dining into your kitchen.

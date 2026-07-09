@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Glamorous celebrity figure turns away from a spotlighted podium near a blurred
   Los Angeles skyline.
+topics:
+  - Breaking News
 ---
 ## Reality TV Stars Clash Over Political Ambitions
 

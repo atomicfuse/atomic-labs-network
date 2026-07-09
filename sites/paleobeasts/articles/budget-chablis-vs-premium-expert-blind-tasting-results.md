@@ -37,6 +37,9 @@ videos:
 image_alt: >-
   Unlabeled white wine bottles and tasting glasses arranged for a blind Chablis
   tasting
+topics:
+  - Nutrition
+  - Recipes
 ---
 ## The Premium Wine Pricing Myth Gets Tested
 

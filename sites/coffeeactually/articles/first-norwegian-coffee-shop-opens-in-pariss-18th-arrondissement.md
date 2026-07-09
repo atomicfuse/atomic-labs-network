@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Warm Montmartre café interior with Nordic pastries, coffee cups, and people
   gathered in soft window light.
+topics:
+  - Coffee Drinks
 ---
 
 In the charming district of Montmartre, a new coffee haven has emerged, offering a unique Scandinavian twist on the traditional Parisian café experience. Bonne Montmartre, proudly standing as the first Norwegian coffee shop in Paris, invites both locals and tourists to savor its exquisite offerings in the vibrant 18th arrondissement.

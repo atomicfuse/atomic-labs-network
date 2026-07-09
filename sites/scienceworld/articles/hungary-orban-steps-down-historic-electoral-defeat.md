@@ -35,6 +35,8 @@ quality_note: >-
   occurred, making it factually inaccurate and unsuitable for a
   travel/destination site focused on guides, tips, and cultural information.
 reading_time: 2
+topics:
+  - Local Culture
 ---
 ## Democratic Shift in Central Europe
 

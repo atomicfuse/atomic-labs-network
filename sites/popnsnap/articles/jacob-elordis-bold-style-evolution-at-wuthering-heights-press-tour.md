@@ -36,6 +36,9 @@ seo:
 image_alt: >-
   Stylish young actor on a moody red carpet in a bold tailored black-and-white
   ensemble.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Stepping into the spotlight at a prestigious event, Jacob Elordi made a striking appearance at the Los Angeles photocall premiere of "Wuthering Heights." With his impeccable fashion sense, the "Euphoria" star captivated fashion enthusiasts and critics alike. Known for his daring style choices, Elordi once again demonstrated his ability to merge classic elegance with contemporary flair.

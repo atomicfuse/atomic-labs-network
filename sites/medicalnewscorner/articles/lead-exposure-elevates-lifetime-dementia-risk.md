@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Older resident by a window in an aging urban apartment with subtle neural
   patterns in the light
+topics:
+  - Research
 ---
 
 Emerging research suggests that lifelong exposure to lead may have detrimental effects on brain health. This concern is particularly relevant given the pervasive presence of lead in the environment and its historical use in various industries. Understanding the full impact of lead exposure is crucial for public health and safety.

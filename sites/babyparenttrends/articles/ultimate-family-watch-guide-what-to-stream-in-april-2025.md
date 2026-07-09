@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Family watching a glowing screen filled with colorful adventure and
   nature-inspired shapes
+topics:
+  - Kids
 ---
 
 As we welcome April 2025, families across the globe are eager to explore a range of new and exciting entertainment options. This month promises a diverse blend of shows, movies, and events for all age groups, ensuring a wholesome family time. From animated series to interactive storytelling, the line-up is diverse and captivating.

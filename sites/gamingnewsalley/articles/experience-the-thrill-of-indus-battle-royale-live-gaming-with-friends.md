@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Friends gaming together in neon light, reacting to an intense live multiplayer
   battle
+topics:
+  - Gaming News
 ---
 
 Indus Battle Royale is taking the gaming community by storm, offering an exhilarating experience for players who enjoy the thrill of live gaming. In this session, join us as we dive into the action-packed world of Indus Battle Royale, teaming up with friends to conquer opponents and achieve victory.

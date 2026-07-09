@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Older adult walking in a sunny park with a subtle glowing DNA strand
   suggesting healthy aging.
+topics:
+  - Health News
 ---
 
 Understanding the factors that influence our health as we age is critical in today's world. Recent research highlights how adopting a healthy lifestyle can mitigate the risks associated with conditions like dementia, stroke, and depression. These findings offer fresh insights into how telomere length—often a marker of biological aging—interacts with lifestyle choices to impact overall health.

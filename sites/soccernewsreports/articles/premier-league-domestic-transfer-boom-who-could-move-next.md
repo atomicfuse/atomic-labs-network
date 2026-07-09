@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Two anonymous footballers sprint across a rainy stadium pitch under dramatic
   floodlights.
+topics:
+  - Transfers
+  - Leagues
 ---
 ## The Rise of the Premier League Transfer Premium
 

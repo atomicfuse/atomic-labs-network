@@ -6,7 +6,7 @@ description: >-
   grants.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -15,7 +15,7 @@ tags:
   - blockchain technology
   - corporate philanthropy
 slug: ripple-25m-education-grant-stablecoin-classroom-impact
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/ripples-rlusd-grant-results-show-how-25m-reached-us-classrooms/
 source_item_id: 6a008dbc2a0a294c696af851
@@ -32,6 +32,8 @@ quality_note: >-
   Professional tone and relevant content for target audience, but significantly
   under word count target and lacks comprehensive SEO optimization.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Cryptocurrency Makes Real-World Impact in Education

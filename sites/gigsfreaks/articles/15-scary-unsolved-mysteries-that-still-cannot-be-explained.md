@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Eerie lights hover over a dark red desert with a distant power plant on the
   horizon.
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 Unsolved mysteries have a way of staying with us because they leave the most important questions unanswered. When a strange event cannot be easily explained, every detail becomes more unsettling: who saw it, where it happened, how long it continued, and why no clear answer has emerged.

@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Travelers in a Canadian station look toward mountains, city skyline, lake
   cabin, and coastal harbor.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 In recent years, Canada has been successfully redirecting billions of dollars in vacation spending toward its own domestic destinations. This shift comes amid increasing political and economic tensions with the United States, affecting popular border-adjacent cities like Oregon, Seattle, Portland, and Detroit. Canadian tourists are opting to explore their own country, enjoying its diverse landscapes and vibrant cities instead of traveling south of the border.

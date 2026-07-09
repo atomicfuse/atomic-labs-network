@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Modern neutral living room styled with warm autumn decor and soft natural
   light
+topics:
+  - Expert Guides
 ---
 
 As the leaves begin to change and the air turns crisp, it's time to embrace the cozy vibes of fall. In this year's edition of *Fall Decorate with Me 2025*, we explore a range of early fall decor ideas that will inspire you to transform your living space. From modern and neutral accents to fresh design twists, you'll find plenty of inspiration to create a warm and inviting atmosphere.

@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Close-up of a man’s eye with a razor held nearby, suggesting caution around
   risky grooming trends.
+topics:
+  - Space
 ---
 
 In recent times, social media platforms have become hotbeds for unusual beauty trends. One such trend gaining traction involves men shaving their eyelashes. While influencers may claim this practice enhances lash growth, experts warn that such actions can lead to potential harm and unintended consequences.

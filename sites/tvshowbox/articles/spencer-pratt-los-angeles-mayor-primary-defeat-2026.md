@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium in Los Angeles with ballots, distant skyline, and
   fire-scarred hills at dusk.
+topics:
+  - Celebrity News
 ---
 ## Spencer Pratt's Political Journey Comes to an End
 

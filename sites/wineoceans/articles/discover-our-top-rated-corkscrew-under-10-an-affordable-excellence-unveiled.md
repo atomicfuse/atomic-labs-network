@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Elegant corkscrew beside a cork, wine glass, and unlabeled bottle on a sunlit
   wooden table.
+topics:
+  - Wine news
 ---
 ## Finding Quality on a Budget
 

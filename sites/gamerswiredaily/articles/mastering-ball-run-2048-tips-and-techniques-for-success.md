@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Glowing colored spheres race along a neon arcade track, merging into larger
   orbs.
+topics:
+  - Gaming News
+  - Tips & Strategies
 ---
 
 Welcome to the thrilling world of Ball Run 2048! This game masterfully combines the strategic challenges of the classic 2048 with the exhilarating dynamics of rolling balls through intricate mazes. Whether you're a seasoned 2048 player or new to this genre, Ball Run 2048 offers a unique blend of strategy, action, and puzzle-solving that promises endless entertainment.

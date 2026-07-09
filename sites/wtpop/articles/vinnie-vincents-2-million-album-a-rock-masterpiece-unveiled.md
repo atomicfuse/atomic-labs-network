@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Ornate electric guitar in a dramatic recording studio with gold lighting and
   stage haze
+topics:
+  - Music
 ---
 
 In the dynamic world of rock music, few names evoke as much intrigue and admiration as Vinnie Vincent. Known for his electrifying guitar skills and a storied career with the iconic band KISS, Vincent is once again making waves with his latest project. Entitled "Guitarmageddon," this ambitious endeavor promises to capture the very essence of rock and roll for an eye-popping two million dollars. Let's delve into the details of this extraordinary musical venture and explore what makes it worth such a substantial investment.

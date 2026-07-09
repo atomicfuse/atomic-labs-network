@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Nursing students learning clinical skills with an educator in a modern
   simulation lab
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 Do you plan to study a postgraduate in nursing but aren't sure what you will learn? Let us help you! Today, we will closely examine a master's of nursing, its career prospects, and what you will study so you can see if it's the right choice for you.

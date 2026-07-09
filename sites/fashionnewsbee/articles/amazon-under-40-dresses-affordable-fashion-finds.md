@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Three women model colorful summer dresses in a bright editorial studio
   setting.
+topics:
+  - Fashion
 ---
 ## The Hunt for Affordable Style Gold
 

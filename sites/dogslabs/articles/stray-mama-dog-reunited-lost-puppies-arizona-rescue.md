@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Mama dog rests with her puppies on a soft blanket in a calm shelter recovery
   space.
+topics:
+  - Animal Behavior
 ---
 ## A Mother's Worst Nightmare Becomes a Miracle
 

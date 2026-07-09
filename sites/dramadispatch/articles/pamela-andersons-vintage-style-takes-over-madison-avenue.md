@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Glamorous blonde actress in vintage fashion steps from a car on a moody
   Madison Avenue evening.
+topics:
+  - Movie Reviews
 ---
 
 Pamela Anderson, the iconic actress known for her roles in "Baywatch" and "Barb Wire," recently made headlines with her stylish appearance while promoting the upcoming film "The Naked Gun." Sporting a chic ensemble by Gucci, Anderson demonstrated her enduring influence in both the entertainment and fashion industries.

@@ -36,6 +36,8 @@ quality_note: >-
   fabricated geopolitical events, and doesn't match the site's audience or
   content guidelines at all.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 
 ## Critical Shipping Route Under Threat

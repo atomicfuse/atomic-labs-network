@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Models in minimalist sustainable fashion pose in a modern studio with greenery
   and subtle digital accents.
+topics:
+  - Fashion
 ---
 
 The ever-evolving world of fashion continuously brings fresh styles and inspirations that capture the imagination of trendsetters worldwide. Zara, a brand synonymous with cutting-edge fashion, is renowned for its ability to predict and influence future fashion trends. As we look towards 2026, Zara's latest offerings signal a fascinating shift in style paradigms, catering to diverse tastes while maintaining a keen eye on sustainability and innovation.

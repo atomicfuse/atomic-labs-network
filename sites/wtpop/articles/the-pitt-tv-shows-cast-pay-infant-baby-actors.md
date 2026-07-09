@@ -31,6 +31,8 @@ quality_note: >-
   Well-written entertainment piece with good keyword coverage and engaging tone,
   but falls short on length and contains some unsupported industry claims.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## The Hidden World of Baby Casting in Television
 

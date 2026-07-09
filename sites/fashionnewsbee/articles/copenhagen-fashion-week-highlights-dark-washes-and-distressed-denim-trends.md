@@ -37,6 +37,8 @@ seo:
 image_alt: >-
   Models in dark and distressed denim walk through a minimalist Copenhagen
   street style setting.
+topics:
+  - Fashion
 ---
 
 Denim has always been a staple in fashion, but recent runways at Copenhagen Fashion Week have showcased an intriguing evolution. Embracing both style and nostalgia, designers are experimenting with dark washes and distressed finishes, highlighting how traditional denim can be reimagined for contemporary wardrobes. This trend underscores denim's versatility, offering both classic appeal and modern edge.

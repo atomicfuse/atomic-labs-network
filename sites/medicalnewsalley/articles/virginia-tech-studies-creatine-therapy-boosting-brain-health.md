@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Older adult in a neuroscience lab during a calm brain health assessment with a
   researcher nearby
+topics:
+  - Mental Health
 ---
 
 Virginia Tech researchers are delving into the potential of creatine as a therapeutic option for enhancing brain health. Their innovative research seeks to explore how creatine can be leveraged to support cognitive function and protect against neurological decline. The study is spearheaded by a team of experts committed to uncovering alternative therapies that could offer significant benefits for mental well-being.

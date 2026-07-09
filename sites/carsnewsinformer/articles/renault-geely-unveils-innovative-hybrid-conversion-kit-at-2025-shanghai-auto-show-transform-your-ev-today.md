@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Futuristic hybrid car display with glowing drivetrain components on a sleek
   auto show floor
+topics:
+  - News
+  - Electric Cars
+  - Industry
 ---
 ## Major Automakers Collaborate on Hybrid Technology
 

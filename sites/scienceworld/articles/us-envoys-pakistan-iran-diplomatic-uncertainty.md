@@ -35,6 +35,8 @@ quality_note: >-
   travel-focused content guidelines, lacks proper SEO optimization, and doesn't
   match the site's audience or tone expectations.
 reading_time: 2
+topics:
+  - Destination Guides
 ---
 ## Diplomatic Tensions Rise in South Asia
 

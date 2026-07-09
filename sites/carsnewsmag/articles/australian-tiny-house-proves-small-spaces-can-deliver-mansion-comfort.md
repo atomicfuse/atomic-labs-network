@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Modern tiny house with open glass doors flowing onto a warm timber deck in a
   rural Australian setting.
+topics:
+  - News
 ---
 ## Strategic Design Creates Spacious Feel in Compact Home
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Thoughtful young woman in a softly lit dressing room with distant glasses
   suggesting dating scrutiny.
+topics:
+  - TV & Movies
 ---
 ## Love Island Stars Share Dating Revelations
 

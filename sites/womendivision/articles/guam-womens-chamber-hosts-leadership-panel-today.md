@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Professional women in a bright conference setting discuss leadership and
   mentorship together.
+topics:
+  - Advice
 ---
 
 The importance of leadership and mentorship took center stage at a recent meeting hosted by the Guam Women's Chamber of Commerce. This influential event brought together a panel of distinguished leaders who shared their insights on the evolving role of women in leadership positions both locally and globally.

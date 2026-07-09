@@ -39,6 +39,8 @@ videos:
 image_alt: >-
   Misty rural farm at dusk with a damaged car and scattered notes creating a
   tense true-crime atmosphere.
+topics:
+  - Odd News
 ---
 ## When Farm Life Turned Deadly
 

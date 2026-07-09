@@ -35,6 +35,9 @@ seo:
 image_alt: >-
   Stylish Paris runway concert with silhouetted performers under dramatic blue
   and gold lights
+topics:
+  - Fashion
+  - Culture
 ---
 
 In a spectacular convergence of music and fashion, renowned artists AR Rahman and Pharrell Williams recently partnered to create a memorable performance at Paris Fashion Week. This remarkable event took place during the highly anticipated Louis Vuitton showcase, where the duo's collaboration added an electrifying dimension to the already vibrant atmosphere.

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Futuristic game engine core generating a realistic digital world with flowing
   blue and amber energy
+topics:
+  - Gaming News
 ---
 
 In the rapidly evolving world of video game development, innovation and cutting-edge technology play crucial roles in delivering immersive experiences. Bethesda Game Studios, renowned for its groundbreaking titles, is reportedly receiving significant support from Microsoft to enhance its Creation Engine. This collaboration aims to integrate elements reminiscent of Unreal Engine technology, promising to elevate the quality and performance of future game releases.

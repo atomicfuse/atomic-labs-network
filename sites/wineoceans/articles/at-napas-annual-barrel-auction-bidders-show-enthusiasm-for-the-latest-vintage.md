@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Oak wine barrels and red wine glasses glow under warm cellar light as bidders
   gather in the background.
+topics:
+  - Wine news
 ---
 ## Strong Interest in Latest Vintage
 

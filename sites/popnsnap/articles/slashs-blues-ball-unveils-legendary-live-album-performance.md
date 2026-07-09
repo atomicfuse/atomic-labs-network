@@ -33,6 +33,9 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/09/make_file-1.jpeg'
   twitter_card: summary_large_image
 image_alt: Silhouetted blues-rock guitarist performing under amber and blue stage lights
+topics:
+  - Celebrities
+  - Music
 ---
 
 Legendary musician Slash has once again captivated audiences with the release of his new live album that celebrates the dynamic energy of Blues Ball, a project that showcases the guitarist's unparalleled skill and passion for blues music. This latest release captures the essence of live performance, offering fans an experience that is both electrifying and authentic.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A grandmother comforts a tired mother holding her sleeping baby at a softly
   lit doorway.
+topics:
+  - Parenting
 ---
 ## When Technology Captures Unexpected Wisdom
 

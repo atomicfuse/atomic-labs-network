@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Late-night viewer on a sofa staring at a glowing blank TV with a conflicted
   expression.
+topics:
+  - TV News
 ---
 
 As television continues to evolve, the way we consume content has seen a dramatic shift. The traditional weekly episode drop has been overtaken by the allure of binge-watching — consuming multiple episodes in one sitting. This phenomenon has changed viewer habits and impacted TV production, creating a new landscape in the entertainment industry.

@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Moody rock stage with a microphone, instruments, and dramatic lights awaiting
   a comeback performance.
+topics:
+  - Music
 ---
 ## T'Pau Announces Musical Comeback
 

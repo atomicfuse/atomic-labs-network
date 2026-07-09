@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Neatly prepared high-protein meals arranged on a bright kitchen counter with
   fresh vegetables and lean proteins
+topics:
+  - Healthy Recipes
+  - Healthy Living Tips
 ---
 
 Introducing a 5-day healthy meal prep menu designed to support weight loss with high protein meals. This plan offers gluten-free options along with grain and dairy-free alternatives. Each day is structured to provide over 100 grams of protein, ensuring you meet your nutritional goals efficiently.

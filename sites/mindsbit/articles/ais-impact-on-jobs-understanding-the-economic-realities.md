@@ -35,6 +35,9 @@ quality_note: >-
 image_alt: >-
   Abstract AI network reshapes a modern office workspace with human silhouettes
   and geometric forms.
+topics:
+  - Finance
+  - Tech
 ---
 ## The Growing Influence of AI on Employment
 

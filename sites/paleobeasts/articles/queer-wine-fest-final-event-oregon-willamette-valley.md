@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Diverse group toasts with wine in a sunlit vineyard garden with subtle rainbow
   accents.
+topics:
+  - Nutrition
 ---
 ## A Farewell to a Pioneering Wine Celebration
 

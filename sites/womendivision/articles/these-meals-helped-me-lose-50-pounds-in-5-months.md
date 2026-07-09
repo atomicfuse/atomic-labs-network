@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Healthy meal prep spread on a sunlit kitchen counter with fresh ingredients
   and wellness tools nearby.
+topics:
+  - Workout Meals
 ---
 
 These meals helped me lose 50 pounds in 5 months.

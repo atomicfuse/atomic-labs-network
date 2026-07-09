@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Sleek electric performance coupe charging at a futuristic station with glowing
   energy lines at dusk
+topics:
+  - Electric Cars
 ---
 ## Breaking New Ground in EV Charging Speed
 

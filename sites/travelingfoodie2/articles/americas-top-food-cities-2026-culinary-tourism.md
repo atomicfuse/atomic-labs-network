@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   Travelers share regional dishes at a warm outdoor city dining table under a
   blended American skyline.
+topics:
+  - Destination Guides
+  - food
 ---
 ## Food Tourism Shapes Modern Travel Decisions
 

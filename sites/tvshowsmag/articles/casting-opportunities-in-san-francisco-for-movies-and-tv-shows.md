@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Aspiring actors on a cinematic San Francisco street with film lights and foggy
   landmarks in the distance.
+topics:
+  - TV News
 ---
 
 San Francisco, known for its iconic landmarks and vibrant culture, is once again in the spotlight as a prime location for film and television productions. This bustling city by the bay continues to attract filmmakers and producers from around the world, eager to capture its unique charm and scenic beauty. From the rolling fog to the steep hills, San Francisco provides a dynamic backdrop that enhances storytelling in both movies and TV shows.

@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   A curated dining-living room with velvet chairs, warm lighting, art, ceramics,
   and travel-inspired textures.
+topics:
+  - Interior Design
 ---
 ## The Rise of Travel-Inspired Interior Design
 

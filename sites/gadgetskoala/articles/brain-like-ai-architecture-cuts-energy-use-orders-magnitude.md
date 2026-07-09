@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Abstract neural circuitry glows beside a dim data-center grid, suggesting
   efficient brain-like AI.
+topics:
+  - Gadgets
 ---
 ## Revolutionary Architecture Tackles AI's Energy Crisis
 

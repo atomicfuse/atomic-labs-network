@@ -34,6 +34,9 @@ quality_note: >-
   with vague sourcing throughout.
 reading_time: 2
 image_alt: 'Latina women gather on yoga mats in a warm, welcoming wellness studio.'
+topics:
+  - Yoga Poses
+  - Wellness
 ---
 ## Breaking Barriers in Wellness
 

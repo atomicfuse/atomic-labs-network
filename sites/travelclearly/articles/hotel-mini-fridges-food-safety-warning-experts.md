@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Open hotel mini fridge with food and medicine under warm room lighting,
   suggesting a hidden travel safety risk.
+topics:
+  - Travel
+  - Travel Tips
 ---
 ## The Hidden Hotel Room Hazard
 

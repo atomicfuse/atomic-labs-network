@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Moody living room lit by colorful TV screens, suggesting a diverse week of
   must-watch shows.
+topics:
+  - TV News
 ---
 
 Television offers a wide range of entertainment options to satisfy diverse tastes. Whether you enjoy thrilling dramas, light-hearted comedies, or intriguing documentaries, this week promises to deliver captivating content for every viewer. With new releases and continuing series, there's no shortage of options to explore on your screen.

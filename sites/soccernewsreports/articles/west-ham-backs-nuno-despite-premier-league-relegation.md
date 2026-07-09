@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   Football manager stands on a rainy touchline facing an empty stadium after a
   difficult season.
+topics:
+  - Latest News
+  - Leagues
 ---
 ## West Ham Stands by Nuno After Relegation
 

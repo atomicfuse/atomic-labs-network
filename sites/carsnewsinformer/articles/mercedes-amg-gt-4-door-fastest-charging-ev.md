@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Luxury electric coupe charging under dramatic lights with energy flowing into
   its battery pack
+topics:
+  - Electric Cars
 ---
 ## Revolutionary Charging Speed Sets New Industry Benchmark
 

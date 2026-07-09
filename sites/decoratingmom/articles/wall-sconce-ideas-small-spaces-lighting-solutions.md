@@ -33,6 +33,9 @@ reading_time: 3
 image_alt: >-
   Compact powder room with warm brass wall sconces flanking an arched mirror
   above a styled vanity.
+topics:
+  - Small Spaces
+  - Interior Design
 ---
 ## Why Wall Sconces Are Game-Changers for Small Spaces
 

@@ -33,6 +33,8 @@ quality_note: >-
   from more specific SEO optimization.
 reading_time: 3
 image_alt: Dog resting by a fan with water and cooling towel during hot summer weather
+topics:
+  - Pet Care & Health
 ---
 ## Protecting Your Dog When Temperatures Soar
 

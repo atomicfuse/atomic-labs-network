@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Weathered acoustic guitar on an empty spotlighted stage with a moody Americana
   atmosphere
+topics:
+  - Music
 ---
 
 Zach Bryan's latest album, "Heaven on Top," offers a blend of storytelling and musical authenticity that fans have come to expect from the rising country star. Known for his raw and heartfelt lyrics, Bryan continues to explore themes of love, heartache, and self-discovery in his newest release. As he navigates personal and universal experiences, his music resonates deeply with listeners, reinforcing his place in the country music landscape.

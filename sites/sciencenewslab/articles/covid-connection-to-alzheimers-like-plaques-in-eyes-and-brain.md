@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Translucent head profile highlighting the eye and brain with abstract
   plaque-like clusters in a clinical setting
+topics:
+  - Space
 ---
 
 Recent studies have unveiled a concerning link between COVID-19 infections and the potential development of neurological complications similar to those seen in Alzheimer's disease. Researchers are delving into how the virus may contribute to the formation of harmful plaques, typically associated with neurodegenerative disorders, in both the brain and eyes. This discovery could have significant implications for understanding the long-term effects of COVID-19 on cognitive health.

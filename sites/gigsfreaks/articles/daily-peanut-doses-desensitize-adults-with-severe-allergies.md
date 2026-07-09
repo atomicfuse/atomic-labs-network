@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Small measured peanut dose on a clinic table with patient and clinician hands
   softly blurred behind it
+topics:
+  - Good Vibes
 ---
 
 Peanut allergies have long been a concern for many adults, leading to severe reactions and limiting lifestyle choices. Recent advancements, however, offer a promising solution that could transform how this allergy is managed.

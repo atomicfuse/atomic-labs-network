@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant couple in formalwear pose together on a cinematic red carpet with soft
   flashbulb lights.
+topics:
+  - Celebrities
 ---
 ## A High-Profile Romance Goes Public
 

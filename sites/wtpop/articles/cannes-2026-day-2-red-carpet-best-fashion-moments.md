@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Elegant fictional guests pose on a Riviera red carpet in polished gowns and
   sharp tailoring.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The Cannes Film Festival 2026 moved into Day 2 with the kind of red carpet spectacle that keeps global fashion watchers glued to the French Riviera. Outside the Palais des Festivals, cinema and couture met in a polished parade of gowns, tailoring, jewels, and beauty statements. The second day of Cannes red carpet fashion delivered glamour with range, from classic eveningwear to sharper modern silhouettes.

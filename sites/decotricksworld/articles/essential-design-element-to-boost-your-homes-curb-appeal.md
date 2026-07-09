@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Welcoming home entry with a painted front door, warm lighting, planters, and
   manicured landscaping.
+topics:
+  - Expert Guides
 ---
 
 Enhancing your home's curb appeal is more than a visual makeover; it's about creating a welcoming atmosphere that captivates and invites. Whether you're looking to sell your home or simply want to enjoy a more beautiful environment, focusing on the exterior can make a significant difference. Let's explore effective strategies to boost your home's curb appeal.

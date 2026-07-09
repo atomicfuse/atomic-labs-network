@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Glitching retro RPG diorama in a glass case surrounded by blank notes and
   unbranded gaming objects.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## When Remaking Becomes Meta-Commentary
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium in Los Angeles with fire-scarred hills and folded chairs
   at dusk
+topics:
+  - Breaking News
 ---
 ## Spencer Pratt's Political Ambitions Come to an End
 

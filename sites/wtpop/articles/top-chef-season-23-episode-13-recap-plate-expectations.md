@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Four unconventional fine-dining plates sit under dramatic kitchen lights as
   chefs wait in silhouette.
+topics:
+  - TV & Movies
 ---
 ## Final Four Face Make-or-Break Challenges
 

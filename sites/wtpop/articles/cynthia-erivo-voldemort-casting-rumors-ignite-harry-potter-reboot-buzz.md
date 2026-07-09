@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A cloaked performer stands in dramatic green-violet light amid mist and
   rumor-like floating papers.
+topics:
+  - Celebrities
 ---
 
 In the ever-evolving world of entertainment, casting rumors often ignite passionate discussions among fans. The latest buzz surrounds the potential reboot of the beloved Harry Potter series, with whispers of Cynthia Erivo possibly stepping into the iconic role of Lord Voldemort. This speculation has captivated audiences, fueling debates about the future of the franchise and the intriguing casting choices being considered.

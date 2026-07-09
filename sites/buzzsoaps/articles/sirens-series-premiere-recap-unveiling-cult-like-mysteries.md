@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Foggy seaside estate at dusk with silhouetted figures gathered on a rocky
   shore
+topics:
+  - Watch
 ---
 
 "Sirens," the latest addition to the television landscape, offers a unique blend of supernatural elements and gripping drama. The series premiere sets the stage with a compelling narrative that introduces intriguing characters and a mysterious plotline. Viewers are quickly drawn into a world where the ordinary meets the extraordinary, creating a captivating viewing experience from the outset.

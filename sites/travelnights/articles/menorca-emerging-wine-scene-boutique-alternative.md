@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Quiet Menorcan vineyard terrace overlooking the Mediterranean with a rustic
   wine tasting table at sunset.
+topics:
+  - Destinations
 ---
 ## A Hidden Mediterranean Wine Gem
 

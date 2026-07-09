@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Retro-modern orange sports coupe concept reflecting a classic coupe silhouette
   at sunset.
+topics:
+  - Concept Cars
 ---
 ## Designer Takes Alternative Approach to Prelude Revival
 

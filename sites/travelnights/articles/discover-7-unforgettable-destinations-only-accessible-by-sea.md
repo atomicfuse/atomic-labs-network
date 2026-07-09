@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Expedition boat approaching a remote sea-only coastline under golden-hour
   light
+topics:
+  - Destinations
 ---
 
 Exploring unique destinations around the globe offers travelers the chance to experience the world in extraordinary ways. Some destinations, often tucked away from the usual tourist routes, offer breathtaking experiences that are best accessed by sea. These locations promise to provide adventurers with unforgettable memories, blending natural beauty with cultural richness.

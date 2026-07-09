@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Stylish fashion week attendees crossing a glowing Manhattan street at golden
   hour
+topics:
+  - Culture
+  - Destinations
 ---
 
 New York City transforms into a fashion epicenter during Fashion Week, offering a unique blend of style, culture, and entertainment. Visitors flock to the city not only for the runway shows but also for the vibrant atmosphere and diverse activities that take place during this exciting time. Whether you're a fashion enthusiast or simply looking to experience the city's dynamic pulse, there's something for everyone.

@@ -39,6 +39,8 @@ reading_time: 2
 image_alt: >-
   Empty campaign room with torn posters and a cracked mirror suggesting
   political infighting after defeat.
+topics:
+  - TV & Movies
 ---
 ## Far-Right Movement Faces Internal Meltdown
 

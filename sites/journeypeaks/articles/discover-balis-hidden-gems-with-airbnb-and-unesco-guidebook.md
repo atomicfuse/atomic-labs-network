@@ -43,6 +43,10 @@ quality_note: >-
   short on length and lacks verification of the Airbnb-UNESCO collaboration
   claim.
 image_alt: Quiet Balinese village path with rice terraces and artisans at golden hour
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Bali, renowned for its stunning beaches and vibrant culture, now offers travelers an opportunity to delve deeper into its rich tapestry of traditions and hidden locales. A collaborative effort between Airbnb and UNESCO has unveiled a cultural guidebook designed to showcase Bali's lesser-known treasures. This initiative aims to enrich the travel experience by spotlighting unique destinations and cultural practices often overshadowed by mainstream attractions.

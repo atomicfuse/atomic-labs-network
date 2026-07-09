@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   A calm meditator in soft morning light with subtle glowing neural waves around
   their head.
+topics:
+  - Meditation
+  - Wellness
 ---
 ## The Two-Minute Breakthrough That Changes Everything
 

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Futuristic processor cooling in clear liquid with glowing microbubbles and
   teal data-center lighting
+topics:
+  - Tech
 ---
 ## The AI Boom's Hidden Energy Crisis
 

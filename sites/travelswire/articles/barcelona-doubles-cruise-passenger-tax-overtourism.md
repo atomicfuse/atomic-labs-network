@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Barcelona waterfront at dusk with a large cruise ship beside crowded city
   streets.
+topics:
+  - Destination Guides
 ---
 ## Barcelona Takes Aim at Cruise Tourism
 

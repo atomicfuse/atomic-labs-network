@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Glowing TV and devices in a dark living room suggest a police drama becoming a
   streaming hit.
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## Record-Breaking Finale Performance
 

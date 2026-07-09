@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Layered luxury interiors with chandelier, library shelves, ornate patterns,
   and a jewel-toned bar beyond.
+topics:
+  - Decor Ideas
+  - Interior Design
 ---
 ## Global Designers Transform Chelsea Harbour Showcase
 

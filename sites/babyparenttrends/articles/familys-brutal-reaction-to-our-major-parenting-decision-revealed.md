@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Couple stands in a doorway apart from blurred family members at a dining
   table.
+topics:
+  - Parenting
 ---
 
 I'm here to offer some guidance on the delicate topic of family expectations and personal choices. We often find ourselves caught between what we truly desire and the need for others' approval. This dilemma can create a challenging environment, especially when family opinions weigh heavily on our decision-making process.

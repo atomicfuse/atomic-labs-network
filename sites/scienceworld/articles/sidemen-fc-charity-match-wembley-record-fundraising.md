@@ -35,6 +35,8 @@ quality_note: >-
   travel-related content, destination guides, or travel tips despite being
   well-written about the charity event.
 reading_time: 3
+topics:
+  - Local Culture
 ---
 
 ## Record-Breaking Fundraising Achievement

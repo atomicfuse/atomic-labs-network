@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Resources and labor symbolically flowing from Latin America toward distant
   industrial economies
+topics:
+  - Economic Trends
 ---
 ## The Scale of Resource Extraction
 

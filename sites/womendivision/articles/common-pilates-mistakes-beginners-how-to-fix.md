@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Beginner doing Pilates on a mat in a calm home studio with subtle alignment
   guides
+topics:
+  - Fitness
 ---
 ## Why Proper Form Matters in Pilates
 

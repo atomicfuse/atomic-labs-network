@@ -47,6 +47,8 @@ quality_note: >-
   significantly too short at only 306 words compared to the 800-1200 word
   target.
 image_alt: 'Person doing a gentle bedtime yoga stretch in a softly lit, peaceful bedroom'
+topics:
+  - Yoga Poses
 ---
 
 Embarking on a journey of relaxation and tension relief can be as simple as dedicating 20 minutes to a bedtime yoga routine. This practice, designed for individuals feeling stress or anxiety, offers a comprehensive full body stretch that aids in relaxation and enhances flexibility. Whether you're winding down for the night or seeking a moment of peace during the day, this yoga session can help you achieve balance both mentally and physically.

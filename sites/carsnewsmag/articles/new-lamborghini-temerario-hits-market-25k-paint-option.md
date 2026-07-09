@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Turquoise exotic supercar in a sleek white showroom with premium market
   atmosphere
+topics:
+  - News
 ---
 ## Early Market Appearance Signals Strong Demand
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Dark luxury SUV on an open road at sunrise, suggesting family practicality and
   high performance.
+topics:
+  - Reviews
 ---
 ## The Rise of High-Performance Family Haulers
 

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Confident woman in a vintage newsroom office evoking the lasting appeal of
   classic workplace comedy
+topics:
+  - TV News
 ---
 
 Nearly half a century after its final episode, "The Mary Tyler Moore Show" continues to feel surprisingly modern. The landmark sitcom reshaped television comedy, helped redefine how working women appeared on screen, and built a fan base that still returns to its characters, setting, and cultural message with affection.

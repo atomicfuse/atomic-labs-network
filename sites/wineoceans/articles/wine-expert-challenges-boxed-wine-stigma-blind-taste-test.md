@@ -37,6 +37,8 @@ videos:
   - id: 4e0e0799-a193-4d81-b821-2ffda95e062e
     url: 'https://www.youtube.com/watch?v=dQX4Kc_ytcc'
     position: after-paragraph-1
+topics:
+  - Wine reviews
 ---
 ## Boxed Wine Gets Professional Validation
 

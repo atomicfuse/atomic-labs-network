@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A bright craft workspace with an unbranded printer and colorful project
   supplies on a table.
+topics:
+  - Expert Guides
 ---
 
 This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own.

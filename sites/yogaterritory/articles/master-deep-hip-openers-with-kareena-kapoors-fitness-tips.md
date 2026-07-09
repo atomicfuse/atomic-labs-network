@@ -1,9 +1,13 @@
 ---
 title: Master Deep Hip Openers with Kareena Kapoor’s Fitness Tips
-description: Bollywood actress Kareena Kapoor Khan inspires many with her yoga practices, emphasizing physical and mental well-being. Her routine highlights flexibility, strength, and balance, demonstrating how yoga can enhance muscle tone, improve posture, and boost mental health.
+description: >-
+  Bollywood actress Kareena Kapoor Khan inspires many with her yoga practices,
+  emphasizing physical and mental well-being. Her routine highlights
+  flexibility, strength, and balance, demonstrating how yoga can enhance muscle
+  tone, improve posture, and boost mental health.
 type: standard
 status: published
-publishDate: 2026-02-16T09:45:33+00:00
+publishDate: 2026-02-16T09:45:33.000Z
 author: Taylor Winters
 tags:
   - Yoga Poses
@@ -12,15 +16,21 @@ tags:
   - Yoga Postures
 slug: master-deep-hip-openers-with-kareena-kapoors-fitness-tips
 reading_time: 4
-source_url: https://yogaterritory.com/master-deep-hip-openers-with-kareena-kapoors-fitness-tips/
+source_url: >-
+  https://yogaterritory.com/master-deep-hip-openers-with-kareena-kapoors-fitness-tips/
 imported_from: wordpress
 wp_original_id: 20730
 featuredImage: /assets/images/master-deep-hip-openers-with-kareena-kapoors-fitness-tips.webp
 seo:
-  canonical: https://yogaterritory.com/master-deep-hip-openers-with-kareena-kapoors-fitness-tips/
+  canonical: >-
+    https://yogaterritory.com/master-deep-hip-openers-with-kareena-kapoors-fitness-tips/
   og_title: Master Deep Hip Openers with Kareena Kapoor's Fitness Tips - Yoga Territory
-  og_description: Bollywood actress Kareena Kapoor Khan inspires many with her yoga practices, emphasizing physical and mental well-being. Her routine highlights flexibility, strength, and balance, demonstrating how yoga can enhance muscle tone, improve posture, and boost mental health.
-  og_image: http://yogaterritory.com/wp-content/uploads/2026/02/make_file-5.jpeg
+  og_description: >-
+    Bollywood actress Kareena Kapoor Khan inspires many with her yoga practices,
+    emphasizing physical and mental well-being. Her routine highlights
+    flexibility, strength, and balance, demonstrating how yoga can enhance
+    muscle tone, improve posture, and boost mental health.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/02/make_file-5.jpeg'
   twitter_card: summary_large_image
 quality_score: 72
 score_breakdown:
@@ -29,9 +39,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 70
-quality_note: The article has decent tone and factual content but falls short on length and doesn't deliver on the specific 'deep hip openers' promise in the title, creating a mismatch between headline and content.
+quality_note: >-
+  The article has decent tone and factual content but falls short on length and
+  doesn't deliver on the specific 'deep hip openers' promise in the title,
+  creating a mismatch between headline and content.
 image_alt: Woman practicing a deep hip-opening yoga pose in a calm sunlit studio
 reviewer_notes: Approved via review queue.
+topics:
+  - Yoga Poses
 ---
 
 Renowned for her dedication to fitness, Bollywood actress Kareena Kapoor Khan continues to inspire many with her impressive yoga practices. Her recent social media updates showcase her commitment to yoga, where she shares insights into her routine that emphasizes physical and mental well-being. By incorporating various yoga poses, she maintains her health and encourages others to follow suit.

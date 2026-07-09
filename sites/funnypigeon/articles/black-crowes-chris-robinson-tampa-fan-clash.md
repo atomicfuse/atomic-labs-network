@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Rock singer on a smoky stage faces a divided crowd under blue and magenta
   concert lights.
+topics:
+  - Viral
 ---
 ## Concert Takes Unexpected Turn
 

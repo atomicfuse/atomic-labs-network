@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A mother enjoys a quiet restaurant meal while another woman gently holds her
   baby nearby.
+topics:
+  - Good Vibes
 ---
 
 In a bustling world where time is often scarce, small acts of kindness can make a significant impact. In Japan, one woman's thoughtful gesture is making waves across social media, capturing hearts with its simplicity and generosity. Her initiative to assist new mothers in a busy restaurant setting has become an inspiring story of empathy and community spirit.

@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Middle-aged adult in a home office with subtle neural and molecular patterns
   suggesting dementia research.
+topics:
+  - Research
 ---
 
 Dementia, often associated with older adults, can also affect individuals in their middle years. Understanding the underlying causes and risk factors is crucial for early diagnosis and management. Middle-age dementia, although less common, presents unique challenges and requires targeted research to improve outcomes for those affected.

@@ -36,6 +36,10 @@ quality_note: >-
   to be entirely fabricated - Orbán has not stepped down from parliament and
   remains in power as of late 2024.
 reading_time: 3
+topics:
+  - Current Events
+  - In-Depth Analysis
+  - Policy & Politics
 ---
 ## End of an Era: Orbán's Parliamentary Exit
 

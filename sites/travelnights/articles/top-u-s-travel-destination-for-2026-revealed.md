@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Traveler overlooking a sunrise horizon blending cities, mountains, deserts,
   and wild landscapes.
+topics:
+  - Destinations
 ---
 
 As we set our sights on the exciting travel opportunities in 2026, it's an ideal time to explore unique destinations that promise unforgettable experiences. From vibrant cultural festivals to breathtaking natural wonders, these locations will captivate and inspire any traveler eager to see the world in a new light.

@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Electric pickup carving through a mountain curve with subtle blue torque
   accents at each wheel.
+topics:
+  - News
 ---
 
 #rivian #electrictruck #MotorTrend

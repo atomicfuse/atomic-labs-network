@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Moody fantasy-inspired red carpet premiere with formal guests, copper light,
   and paparazzi flashes
+topics:
+  - TV Shows
 ---
 ## HBO Celebrates Dragon Dynasty with Glitzy London Event
 

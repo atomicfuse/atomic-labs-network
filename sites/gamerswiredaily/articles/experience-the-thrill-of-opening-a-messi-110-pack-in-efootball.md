@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Glowing digital football player card emerging in a futuristic stadium with
   gold and blue energy effects.
+topics:
+  - Gaming News
 ---
 
 Are you ready for an exhilarating experience in eFootball? The latest Messi 110 pack opening is here, offering the highest-rated player available in the game. This event has captured the attention of football gaming enthusiasts, providing both thrilling gameplay and a chance to significantly enhance your team's performance.

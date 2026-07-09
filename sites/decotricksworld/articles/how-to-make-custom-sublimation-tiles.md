@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Custom ceramic tiles and pressing pads arranged on a bright home craft
   workspace
+topics:
+  - Expert Guides
 ---
 
 Are you ready to learn how to create custom sublimation tiles that you can use in your home? I'm going to test a few different ways of sublimating tiles so we can see which method works best.

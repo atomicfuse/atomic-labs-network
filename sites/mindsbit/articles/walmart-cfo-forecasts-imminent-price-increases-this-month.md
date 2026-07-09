@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Generic retail aisle with a cart, blank price tags, shipping boxes, and a
   business figure reviewing costs
+topics:
+  - Finance
 ---
 
 Walmart, America's retail giant, is facing a new challenge that could impact its pricing strategies. The company is navigating the complexities of tariffs imposed on goods imported from China, a situation that has arisen from ongoing trade tensions between the United States and China. These tariffs could potentially lead to increased prices for consumers, a concern for a company known for its cost-effective products.

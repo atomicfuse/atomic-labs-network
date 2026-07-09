@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Strategic football pitch board with player pieces and a trophy glow in the
   background
+topics:
+  - Latest News
+  - Leagues
+  - Match Reports
 ---
 
 As the Fantasy Premier League (FPL) season reaches its climax, managers face unique challenges when navigating cup final rotations. The end of the season often sees unexpected lineup changes as clubs prioritize cup competitions, affecting player availability in league matches. To maintain a competitive edge, fantasy managers must adapt and strategize carefully during this period.

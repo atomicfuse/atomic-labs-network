@@ -5,7 +5,7 @@ description: >-
   financial stability risks while Europe builds alternative central bank...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -14,7 +14,7 @@ tags:
   - European banking
   - digital currency policy
 slug: ecb-lagarde-rejects-euro-stablecoin-300b-risk
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/lagarde-blocks-euro-stablecoin-push-calls-300b-market-a-stability-risk-for-ecb-policy/
 source_item_id: 6a008dbd2a0a294c696af85a
@@ -32,6 +32,8 @@ quality_note: >-
   about unsourced claims and repeated use of 'according to reports' without
   specific attribution, plus falls short of target word count.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## ECB Takes Stand Against Private Euro Stablecoins

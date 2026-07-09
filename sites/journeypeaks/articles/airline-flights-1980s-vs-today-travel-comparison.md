@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Split-era airplane cabin contrasting spacious 1980s flying with cramped modern
   air travel.
+topics:
+  - Travel
+  - Travel Tips
 ---
 ## The Golden Age Myth vs Reality
 

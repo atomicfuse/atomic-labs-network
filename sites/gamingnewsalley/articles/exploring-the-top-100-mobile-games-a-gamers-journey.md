@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Gamer holding a glowing smartphone surrounded by colorful abstract mobile game
   worlds
+topics:
+  - Gaming News
 ---
 
 The world of mobile gaming is vast and ever-growing, with new titles constantly emerging to capture our attention. For those who find it overwhelming to sift through the multitude of options, we have taken the plunge for you by playing the top 100 mobile games. This journey sheds light on some of the most engaging, innovative, and entertaining games available on mobile platforms today.

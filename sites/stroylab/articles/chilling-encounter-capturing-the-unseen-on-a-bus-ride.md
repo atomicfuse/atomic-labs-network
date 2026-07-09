@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   A dimly lit night bus interior with a phone in the foreground and a shadowy
   figure near the back.
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 In a world where the ordinary can quickly spiral into the extraordinary, one bus rider found himself facing an unexpected and eerie encounter. While on a seemingly routine journey home, a man heard something unsettling, sparking a series of events that led to a chilling discovery. Armed with only his camera, he managed to capture something truly disturbing, leaving him—and now us—questioning the reality of what lies beyond our perception.

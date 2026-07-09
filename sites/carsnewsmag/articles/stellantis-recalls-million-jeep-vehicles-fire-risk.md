@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Rugged SUVs parked outdoors in a subdued dealership lot, suggesting a safety
   recall and fire risk.
+topics:
+  - News
 ---
 ## Major Safety Recall Affects Popular Jeep Models
 

@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Travelers pass through a modern off-site airport terminal toward a waiting
   shuttle bus.
+topics:
+  - Travel Tips
 ---
 ## A New Way to Fly: Boston's Remote Terminal Experiment
 

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   University quad staged like a reality TV set with spotlights and
   alumni-inspired figures
+topics:
+  - TV News
 ---
 
 Imagine if the corridors of Penn State University were the backdrop for the next wave of reality TV shows. With a rich tapestry of alumni who have made significant contributions across various fields, it's intriguing to envision these famous Penn Staters stepping into the limelight of reality television. From the sports arena to the world of politics, these figures could bring their unique perspectives and charisma to entertain and inspire audiences worldwide.

@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   A lone survivor faces eerie retro-futuristic ruins in a glowing
   post-apocalyptic desert.
+topics:
+  - Gaming News
 ---
 
 The highly anticipated second season of "Fallout" is set to take the franchise's signature blend of science fiction and post-apocalyptic storytelling to new heights. Known for its intricate plots and rich world-building, "Fallout" continues to captivate audiences with its unique setting and compelling characters.

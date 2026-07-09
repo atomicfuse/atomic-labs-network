@@ -33,6 +33,8 @@ quality_note: >-
   tone, but falls short on length requirements and makes some unverified claims
   about CDC cuts that could affect credibility.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## The New Reality of Travel Health
 

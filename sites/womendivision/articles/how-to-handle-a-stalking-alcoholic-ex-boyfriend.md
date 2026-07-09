@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Woman stands safely inside a warmly lit apartment beside a closed, chained
   door.
+topics:
+  - Advice
 ---
 
 A troubling situation arises when past relationships refuse to stay in the past, particularly when they involve unhealthy dynamics. Many individuals find themselves entangled in a web of emotional turmoil when an ex-partner, especially one struggling with addiction, reappears in unsettling ways. The complexities of such scenarios can be daunting, leaving one to navigate an array of emotions and decisions.

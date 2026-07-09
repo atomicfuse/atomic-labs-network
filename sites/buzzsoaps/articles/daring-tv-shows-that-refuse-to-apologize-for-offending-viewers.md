@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A glowing vintage TV on a dark studio set surrounded by scattered chairs and
   dramatic blue-pink light
+topics:
+  - Culture Buzz
 ---
 ## The Art of Unapologetic Television
 

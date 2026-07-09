@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Young quarterback framed by Chicago skyline, neon game lights, and a looming
   wolf-like defensive shadow.
+topics:
+  - Latest News
 ---
 ## Bears QB Embraces Jordan Legacy While Addressing Garrett Trade
 

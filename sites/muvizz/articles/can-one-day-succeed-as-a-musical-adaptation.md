@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Empty theater stage with two chairs, a piano, and blank sheet music under a
   single spotlight
+topics:
+  - Breaking News
+  - Trailers
 ---
 ## Musical Adaptation Under Consideration
 

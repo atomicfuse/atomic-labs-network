@@ -52,6 +52,9 @@ quality_note: >-
 image_alt: >-
   Balanced fitness meal with chicken, broccoli, complex carbs, and healthy fats
   on a bright kitchen counter.
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 When it comes to building lean muscle, the importance of a well-balanced diet can't be overstated. Coupled with a rigorous training regimen, the right food can be the missing link to achieving your fitness goals. In this article, we'll explore the ultimate muscle-building meal that provides the right balance of proteins, carbs, and fats your body needs to grow and repair muscle tissue.

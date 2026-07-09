@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Packed basketball arena crowd reacts to a suited figure on the overhead video
   board.
+topics:
+  - TV News
 ---
 ## Trump Faces Hostile Crowd at Historic Knicks Game
 

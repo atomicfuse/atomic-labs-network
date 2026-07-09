@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Travelers wait in an airport lounge with health essentials beside a carry-on
   at dawn.
+topics:
+  - Travel
+  - Travel Tips
 ---
 ## The New Reality of Global Travel Health
 

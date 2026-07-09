@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Foggy rural broadcast station glowing red at dusk, evoking a mysterious
   electronic music return
+topics:
+  - Music
 ---
 
 Boards of Canada have returned to the spotlight with the first music from their forthcoming album *Inferno*, giving electronic music fans a long-awaited glimpse of the duo's next chapter. The announcement has sparked immediate interest across ambient, IDM, and experimental music communities, especially because new material from the Scottish brothers has remained rare for more than a decade.

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Vintage guitar in a moody recording studio with empty microphones and warm
   stage light.
+topics:
+  - Music
 ---
 
 Lindsey Buckingham, renowned for his time with Fleetwood Mac, is set to captivate fans once more with the announcement of a new solo album. Known for his intricate guitar work and distinctive vocals, Buckingham's upcoming release is generating excitement among music enthusiasts and industry insiders alike. This new work promises to showcase his signature blend of rock and pop, offering listeners a fresh perspective on his evolving sound.

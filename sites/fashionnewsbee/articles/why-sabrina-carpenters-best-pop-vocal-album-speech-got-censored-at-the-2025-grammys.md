@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Glamorous pop performer at an awards podium under spotlights with a muted
   microphone motif.
+topics:
+  - Culture
 ---
 
 Sabrina Carpenter just won her first Grammys—yes, plural. The singer, who is up for several awards this evening, took home the trophy for Best Pop Album during the ceremony broadcast. This follows her earlier win ahead of the show for Best Pop Solo Performance ("Espresso").

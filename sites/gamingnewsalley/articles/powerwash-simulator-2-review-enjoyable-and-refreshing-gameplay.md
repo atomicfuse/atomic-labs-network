@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A pressure washer stream clears grime from a patio, with sunlight glowing
   through mist and clean tiles emerging.
+topics:
+  - Gameplay
 ---
 
 In the realm of simulation games, PowerWash Simulator offers a uniquely satisfying experience where players engage in the detailed task of cleaning various objects and environments. This game takes a mundane chore and transforms it into a relaxing, almost therapeutic activity, appealing to those who take pleasure in seeing dirt and grime disappear with the power of pressurized water.

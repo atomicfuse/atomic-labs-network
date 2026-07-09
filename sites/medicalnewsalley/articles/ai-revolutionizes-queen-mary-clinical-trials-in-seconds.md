@@ -43,6 +43,8 @@ quality_note: >-
   and contains potentially fabricated claims about specific AI achievements at
   Queen Mary University.
 image_alt: Researchers study glowing AI data streams in a modern clinical trial lab.
+topics:
+  - Health News
 ---
 
 In a groundbreaking development, artificial intelligence (AI) has transformed the landscape of clinical trials by significantly reducing their duration. At Queen Mary University, an innovative AI tool from Research Grid has achieved what once took years to complete in mere seconds, marking a significant leap forward in medical research efficiency.

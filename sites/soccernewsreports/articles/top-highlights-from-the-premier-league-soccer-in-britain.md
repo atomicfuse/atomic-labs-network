@@ -43,6 +43,10 @@ quality_note: >-
   news, and proper SEO optimization with a generic title and overly long meta
   description.
 image_alt: Soccer player strikes the ball in a packed stadium under dramatic floodlights.
+topics:
+  - Latest News
+  - Leagues
+  - Match Reports
 ---
 
 In the world of sports, the Premier League continues to captivate audiences with its electrifying matches and stellar performances. Fans across the globe eagerly follow each game, watching their favorite teams and players showcase their skills on the grand stage. The recent fixtures have been particularly thrilling, offering moments of incredible athleticism and strategy.

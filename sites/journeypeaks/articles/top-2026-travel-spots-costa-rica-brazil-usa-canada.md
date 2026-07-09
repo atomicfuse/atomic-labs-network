@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Seamless travel panorama with rainforest, coast, open road, and mountains at
   golden hour
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Costa Rica is rapidly emerging as one of the top travel destinations for 2026, joining the ranks of popular locales such as Brazil, the United States, and Canada. Known for its lush landscapes and vibrant culture, Costa Rica offers an unparalleled experience for travelers looking to explore nature's beauty and diverse ecosystems.

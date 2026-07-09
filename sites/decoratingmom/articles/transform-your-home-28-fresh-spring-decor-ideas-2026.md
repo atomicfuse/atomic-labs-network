@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Spring living room with bold accents, natural textures, plants, and warm
   morning light
+topics:
+  - Decor Ideas
 ---
 
 Spring is a season of renewal, making it the perfect time to refresh your home decor. As the days grow longer and warmer, consider incorporating vibrant colors, natural elements, and fresh themes into your living spaces. These updates can invigorate your home and create a welcoming atmosphere.

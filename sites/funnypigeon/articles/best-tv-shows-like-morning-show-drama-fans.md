@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Tense silhouettes in a polished TV studio office suggest media workplace drama
   and power games.
+topics:
+  - Viral
 ---
 ## The Appeal of Workplace Drama in Prestige Television
 

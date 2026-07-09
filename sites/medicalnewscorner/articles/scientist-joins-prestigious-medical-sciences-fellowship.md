@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Medical researcher in a modern lab facing colleagues and abstract molecular
   patterns
+topics:
+  - Research
 ---
 
 A leading medical scientist has gained a place among the most respected figures in biomedical research after being elected to an elite medical sciences academy. The recognition highlights a career dedicated to discovery, evidence-based healthcare, and research that can improve lives beyond the laboratory.

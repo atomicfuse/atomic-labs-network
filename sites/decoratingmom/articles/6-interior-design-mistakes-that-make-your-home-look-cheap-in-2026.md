@@ -50,6 +50,10 @@ quality_note: >-
 image_alt: >-
   Sunlit living room showing cluttered decor beside a refined, timeless interior
   style
+topics:
+  - Decor Ideas
+  - Budget Decor
+  - Interior Design
 ---
 
 Creating a beautiful home does not have to mean spending endlessly on luxury furniture or hiring a full design team for every decision. The real key is knowing which decorating choices quietly make a room feel less polished, less intentional, or less timeless than it could be.

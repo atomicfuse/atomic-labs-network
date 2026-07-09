@@ -32,6 +32,9 @@ quality_note: >-
   short on word count and lacks specific citations for claims made throughout.
 reading_time: 3
 image_alt: Glowing AI-like form hovers over lab tools while a scientist handles a sample.
+topics:
+  - Mind
+  - Tech
 ---
 ## AI Scientists Enter the Research Arena
 

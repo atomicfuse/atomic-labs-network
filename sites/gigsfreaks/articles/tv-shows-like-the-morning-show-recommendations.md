@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Tense morning-show studio with an anchor desk, control room silhouettes, and
   dramatic gold lighting.
+topics:
+  - Hot Trends
 ---
 ## The Search for Your Next Workplace Drama Obsession
 

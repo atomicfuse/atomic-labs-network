@@ -36,6 +36,8 @@ quality_note: >-
   better supported.
 reading_time: 3
 image_alt: Woman in a softly lit bathroom preparing a calm evening self-care routine.
+topics:
+  - Wellness
 ---
 ## The Evolution of Women's Self-Care
 

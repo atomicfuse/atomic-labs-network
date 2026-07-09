@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Warm timeless bathroom with wood, soft tile, and separated shower contrasting
   sterile wet-room design.
+topics:
+  - Interior Design
 ---
 ## The Generational Divide in Bathroom Design
 

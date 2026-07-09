@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Black wellness founder in a sunlit Pilates studio with subtle track-inspired
   shadows
+topics:
+  - Lifestyle
+  - Wellness
 ---
 ## The Athletic Foundation
 

@@ -53,6 +53,9 @@ quality_note: >-
 image_alt: >-
   Woman over 40 in a fresh summer bedroom with cooling linens, fan, and
   body-care essentials nearby.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Summer can be humbling after 40. The same routine that worked in cooler months, or even in past summers, may suddenly feel too basic when heat, sweating, odor, irritated skin, night sweats, and clothes that trap warmth all start showing up at once.

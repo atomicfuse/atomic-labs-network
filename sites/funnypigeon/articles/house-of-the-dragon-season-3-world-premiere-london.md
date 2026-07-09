@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Moody London red carpet premiere with paparazzi flashes and subtle
   dragon-inspired shadows.
+topics:
+  - Viral
 ---
 ## HBO's Dragon Spectacle Takes Flight in London
 

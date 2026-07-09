@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Golden awards-night scene with spotlights, envelopes, and silhouetted
   performers on a red carpet.
+topics:
+  - Watch
 ---
 
 Golden Globe nominations for 2026 have been announced, highlighting a rich tapestry of cinematic and television excellence. This year, a diverse array of talent and storytelling has captured the industry's attention, setting the stage for a thrilling awards season. The nominations reflect both established artists and fresh faces, offering a glimpse into the evolving landscape of entertainment.

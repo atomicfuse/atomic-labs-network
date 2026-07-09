@@ -37,6 +37,9 @@ quality_note: >-
   conversational tone expected for automotive enthusiasts, reading more like a
   dry press release than compelling content.
 image_alt: Unfinished cars on a factory line with shipping containers beyond the windows
+topics:
+  - News
+  - Industry
 ---
 ## Industry Faces Uncertainty Over Tariff Proposals
 

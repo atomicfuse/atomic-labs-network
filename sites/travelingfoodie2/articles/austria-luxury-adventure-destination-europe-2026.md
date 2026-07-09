@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Luxury Alpine resort overlooking an Austrian lake with mountains, hikers, and
   a distant paraglider
+topics:
+  - Destination Guides
 ---
 ## Austria's Rise as Europe's Adventure Capital
 

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Glowing DNA helix and abstract cells suggest AI-driven gene expression
   research.
+topics:
+  - Research
 ---
 
 **Summary:** A team of investigators from Dana-Farber Cancer Institute, The Broad Institute of MIT and Harvard, Google, and Columbia University have created an artificial intelligence model that can predict which genes are expressed in any type of human cell. The model, called EpiBERT, was inspired by BERT, a deep learning model designed to understand and generate human-like language.

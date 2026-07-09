@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Empty producer’s chair in a softly lit television studio with a bouquet
   nearby.
+topics:
+  - TV News
 ---
 
 The world of television has lost a brilliant mind with the passing of Dana Eden, a prominent Israeli TV producer. Known for her groundbreaking work in the entertainment industry, Dana leaves behind a legacy that has touched audiences worldwide. Her most notable contribution is the internationally acclaimed TV series "Tehran," which she co-created, captivating viewers with its thrilling narrative and complex characters.

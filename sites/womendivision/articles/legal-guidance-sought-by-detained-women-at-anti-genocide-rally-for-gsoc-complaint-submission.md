@@ -47,6 +47,8 @@ quality_note: >-
   political protest content that doesn't match the site's beauty, fitness, and
   lifestyle focus, and is too short at 387 words.
 image_alt: Women gather in solidarity outside a civic building on a rainy Dublin street.
+topics:
+  - Lifestyle
 ---
 
 On the streets of Dublin, a group of determined mothers raised their voices in protest against genocide. They call themselves 'Mothers Against Genocide.' The peaceful demonstration, however, saw a sudden turn when a number of these mothers were arrested by the police.

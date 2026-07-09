@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Two silhouettes wait on an overgrown abandoned platform beneath a cracked
   clock at dusk.
+topics:
+  - Watch
 ---
 
 The anticipation surrounding the continuation of the critically acclaimed series "The Last of Us" is reaching new heights. The show's gripping narrative and complex characters have kept audiences hooked, and fans are eagerly awaiting more. Although the official release date for season three has not been announced, there are several hints and developments to explore.

@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Sunlit vanity with natural beauty products and a softly reflected freckled
   woman
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Sienna Miller, the renowned actress and style icon, has long been admired for her effortlessly chic beauty and fashion sense. Her approach to beauty is refreshingly natural and attainable, making her a source of inspiration for many. Here, we delve into some of the beauty secrets and tips that have helped Sienna maintain her radiant appearance over the years.

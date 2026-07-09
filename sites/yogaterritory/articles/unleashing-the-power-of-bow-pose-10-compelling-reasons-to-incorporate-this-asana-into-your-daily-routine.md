@@ -53,6 +53,8 @@ quality_note: >-
 image_alt: >-
   Yoga practitioner holds Bow Pose in a serene sunlit studio with a calm
   wellness atmosphere.
+topics:
+  - Yoga Poses
 ---
 
 Discover the transformative power of incorporating the Bow Pose, or Dhanurasana, into your daily yoga routine. This dynamic asana offers a multitude of benefits that extend far beyond the yoga mat, positively influencing various aspects of your physical and mental well-being.

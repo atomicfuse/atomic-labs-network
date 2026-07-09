@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Diverse women in soft light with subtle heart health symbolism and a calm,
   reflective mood
+topics:
+  - Lifestyle
 ---
 
 Heart disease remains a leading health concern worldwide, impacting millions of lives each year. While many are aware of the general symptoms associated with heart attacks, it is crucial to understand that these symptoms and risk factors can differ significantly between men and women. This distinction is vital for effective diagnosis and treatment, emphasizing the need for increased awareness among women regarding their unique health signals.

@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Child gaming at night as a concerned parent watches from a doorway, suggesting
   hidden online risks.
+topics:
+  - Celebrity News
 ---
 ## FBI Sounds Alarm on Gaming Platform Dangers
 

@@ -40,6 +40,9 @@ quality_note: >-
   Strong tone and keyword relevance but significantly hurt by confusing
   title/content mismatch (Epiq vs Enyaq) and being too short at only 482 words.
 image_alt: Sleek electric SUV driving on a quiet modern road at golden hour
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 The automotive landscape is undergoing a dramatic transformation as electric vehicles (EVs) become increasingly popular. Among the contenders making waves is the Skoda Enyaq iV, an electric SUV that blends practicality with cutting-edge technology. This vehicle exemplifies Skoda's commitment to sustainable mobility, offering consumers a new way to experience driving.

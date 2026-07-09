@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Two brothers stand on a dusk highway facing a distant border fence and stormy
   horizon.
+topics:
+  - Gaming News
 ---
 
 Life is Strange 2, developed by Dontnod Entertainment, has left a significant mark in the realm of narrative-driven video games. Released in 2018, this episodic adventure game takes players on a profound journey through the lives of two brothers, Sean and Daniel Diaz. As they navigate the challenges of life on the run, themes of family, identity, and societal issues are intricately woven into the storyline, making it a compelling commentary on modern-day politics and personal growth.

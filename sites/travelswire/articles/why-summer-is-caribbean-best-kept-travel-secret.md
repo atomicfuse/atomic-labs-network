@@ -36,6 +36,8 @@ quality_note: >-
   statistical claims.
 reading_time: 3
 image_alt: Colorful boat floating in clear Caribbean shallows beneath a bright summer sky
+topics:
+  - Destination Guides
 ---
 ## The Caribbean's Summer Travel Revolution
 

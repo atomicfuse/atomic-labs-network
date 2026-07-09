@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Translucent head with glowing brain and magnetic fields targeting a brain
   tumor
+topics:
+  - Health News
 ---
 
 In this 3D medical animation, the innovative OncoMAGNETx helmet — a pioneering, non-invasive technology for brain tumor treatment — is brought to life. The primary emphasis of this project was to deliver superior quality visuals along with an accurate scientific representation, to enhance clarity while explaining the functionality of the product.

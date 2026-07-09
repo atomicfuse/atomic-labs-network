@@ -1,9 +1,12 @@
 ---
 title: UK Films More Likely to Star a Chris Than Woman Over 60
-description: Centre for Aging Better analysis reveals top-grossing UK films favor actors named Chris and talking animals over women over 60, highlighting cinema's ageism...
+description: >-
+  Centre for Aging Better analysis reveals top-grossing UK films favor actors
+  named Chris and talking animals over women over 60, highlighting cinema's
+  ageism...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - Movies
@@ -13,7 +16,8 @@ tags:
   - film-industry
 slug: uk-films-more-likely-star-chris-than-woman-over-60
 reviewer_notes: Approved via review queue.
-source_url: https://deadline.com/2026/05/films-star-actors-named-chris-talking-animal-older-women-1236920528/
+source_url: >-
+  https://deadline.com/2026/05/films-star-actors-named-chris-talking-animal-older-women-1236920528/
 source_item_id: 6a151f7416f23264031d811c
 generated_by: claude
 featuredImage: /assets/images/uk-films-more-likely-star-chris-than-woman-over-60.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: Well-written and engaging article with good tone match, but significantly too short at 511 words and contains vague sourcing that raises factual accuracy concerns.
+quality_note: >-
+  Well-written and engaging article with good tone match, but significantly too
+  short at 511 words and contains vague sourcing that raises factual accuracy
+  concerns.
 reading_time: 3
-image_alt: Older woman in a spotlight on a dim film set surrounded by empty chairs and shadowy figures.
+image_alt: >-
+  Older woman in a spotlight on a dim film set surrounded by empty chairs and
+  shadowy figures.
+topics:
+  - Movies
 ---
 ## Startling Gender and Age Representation Gap in UK Cinema
 

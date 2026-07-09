@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Los Angeles election office with mail-in ballots and City Hall silhouetted at
   dusk
+topics:
+  - Culture Buzz
 ---
 ## Celebrity Campaign Falls Short in LA Primary
 

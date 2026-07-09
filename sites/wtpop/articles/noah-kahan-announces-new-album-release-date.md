@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Acoustic guitar and microphone in a moody studio lit by warm string lights at
   dusk
+topics:
+  - Music
 ---
 
 Indie-folk sensation Noah Kahan has been captivating audiences with his heartfelt music and genuine storytelling. Known for his raw and emotive lyrics, Kahan has built a loyal fan base eagerly anticipating his next musical endeavor. In a recent update, Kahan hinted at his upcoming album, promising that fans won't have to wait too long for new music.

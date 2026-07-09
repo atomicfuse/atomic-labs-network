@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Athletic woman in a sleek studio performing a strong lunge beside modern gym
   and Pilates equipment
+topics:
+  - Fitness & Movement
 ---
 ## A Red-Carpet Ready Approach to Fitness
 

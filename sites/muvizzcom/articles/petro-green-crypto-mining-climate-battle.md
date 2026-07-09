@@ -35,6 +35,8 @@ quality_note: >-
   crypto/politics instead of movies/TV content, with poor SEO optimization for
   the target audience.
 reading_time: 3
+topics:
+  - Celebrity News
 ---
 ## Colombia's Climate Warning Meets Crypto Reality
 

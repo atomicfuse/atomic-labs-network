@@ -37,6 +37,8 @@ reading_time: 2
 image_alt: >-
   Abstract blockchain network reflected against a modern government facade with
   a transparent dividing plane.
+topics:
+  - Economic Trends
 ---
 ## Commissioner Advocates for Targeted Regulatory Approach
 

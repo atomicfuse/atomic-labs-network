@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Pregnant woman discussing balanced nutrition with a healthcare professional in
   a bright kitchen
+topics:
+  - Nutrition Myths
 ---
 
 During pregnancy, a balanced diet is crucial for the health of both mother and baby. However, many myths about pregnancy nutrition continue to circulate, causing confusion. It's essential to distinguish between fact and fiction to ensure optimal health.

@@ -42,6 +42,8 @@ quality_note: >-
   Strong personal narrative with expert quotes that engages readers well, though
   the title could be more SEO-optimized and some claims need better attribution.
 image_alt: Woman practicing a controlled core exercise in a sunlit home workout space.
+topics:
+  - Advice
 ---
 
 After years of hot Pilates and some attempts on the reformer, I thought I had pretty decent core strength. But after my beloved TikTok algorithm showed me a video by creator [Ana Wolfermann](https://www.tiktok.com/@anawolfermann/video/7452716364420123946), who spent $2,000 on physical therapy learning how to properly engage her core, I couldn't help but wonder if I'd been engaging my core the wrong way for my entire life. With nearly 500,000 likes and *many* stitches from physical therapists and Pilates instructors, Wolfermann explained how her abs were actually doming (a.k.a bulging out) during workouts, rather than feeling flexed and tight. The more she talked, the more I could relate.

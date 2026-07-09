@@ -33,6 +33,9 @@ reading_time: 3
 image_alt: >-
   Glowing scene panels surround an empty director’s chair in a moody screening
   room.
+topics:
+  - TV & Streaming
+  - Movie Reviews
 ---
 ## The Year's Most Memorable Television Moments
 

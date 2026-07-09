@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Amber vial and syringe on a teal clinical surface with soft fabric and subtle
   warning-red reflections.
+topics:
+  - Healthy Aging
 ---
 ## The New Wellness Craze Taking Social Media by Storm
 

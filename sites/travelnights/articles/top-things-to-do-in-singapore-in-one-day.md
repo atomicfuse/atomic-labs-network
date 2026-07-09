@@ -39,6 +39,9 @@ quality_note: >-
   significantly under the target word count at 429 words versus the 800-1200
   word range.
 image_alt: Traveler overlooking Singapore’s skyline and gardens at golden hour
+topics:
+  - Destinations
+  - Food
 ---
 
 Exploring Singapore in a limited timeframe can be both thrilling and challenging. With just 16 hours to spare, it's crucial to plan an itinerary that captures the essence of this dynamic city. From iconic landmarks to cultural experiences, there's plenty to fit into a short visit.

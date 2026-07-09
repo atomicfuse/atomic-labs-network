@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Model in black summer denim walks along a sunlit city sidewalk in polished
   street style.
+topics:
+  - Fashion
 ---
 ## Breaking the Black Jeans Myth
 

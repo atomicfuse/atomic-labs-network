@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Tense reality reunion scene with a composed man foregrounded as cast members
   argue behind him.
+topics:
+  - TV & Movies
 ---
 ## Jesse Solomon Warns of 'Brutal' Reunion Ahead
 

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Modern coffee processing hub in Minas Gerais with workers inspecting green
   coffee beans
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 The recent expansion of a green coffee facility in Minas Gerais marks a significant step forward for Louis Dreyfus Company (LDC), enhancing the company's capabilities in one of Brazil's prime coffee regions. This development is set to improve the efficiency and sustainability of coffee processing, catering to the increasing global demand for high-quality coffee beans.

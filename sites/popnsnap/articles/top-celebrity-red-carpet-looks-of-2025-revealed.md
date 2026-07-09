@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Diverse anonymous figures in futuristic couture pose on a dramatic red carpet
   at twilight.
+topics:
+  - Fashion
 ---
 
 The world of red carpet fashion is constantly evolving, and the trends we see today are shaping the future of style. As designers push boundaries with innovative designs and new materials, the red carpet becomes a showcase of creativity and elegance. This exploration into future fashion trends highlights what we can expect from red carpet events in the coming years.

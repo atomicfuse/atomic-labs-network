@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Woman preparing a healthy meal with greens, yogurt, salmon, nuts, and
   vegetables in a sunlit kitchen.
+topics:
+  - Nutrition Tips
+  - Weight & Wellness
 ---
 
 Bone health often feels invisible until a scan, fracture, or nagging ache brings it into focus. After 40, the body can begin losing bone tissue faster than it rebuilds it, especially when hormones shift, activity drops, or key nutrients fall short. The good news is that food choices can help support bone density, muscle strength, and long-term mobility when they become part of a consistent routine.

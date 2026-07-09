@@ -31,6 +31,9 @@ seo:
 image_alt: >-
   Neon geometric 1980s-inspired manicure on a hand against a glossy pastel
   studio backdrop.
+topics:
+  - Fashion
+  - Beauty
 ---
 
 The vibrant and bold aesthetics of the 1980s are making a grand comeback, especially in the realm of nail art. The decade known for its daring style statements offers a treasure trove of inspiration for modern-day manicures. From neon colors to geometric patterns, 80s-inspired nails are all about self-expression and creativity. If you're ready to embrace this nostalgic trend, here's how you can incorporate 80s flair into your nail art.

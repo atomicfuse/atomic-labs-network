@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Softly lit medical research lab with abstract biological forms glowing in
   hopeful blue and gold tones.
+topics:
+  - Medical Research
+  - Drugs & Treatments
 ---
 
 April 2025 has been an exhilarating month in the field of medical research, with several groundbreaking studies and findings. The University of Nebraska Medical Center (UNMC) has been at the forefront of these advancements. Let's delve into the most significant discoveries and developments from the month.

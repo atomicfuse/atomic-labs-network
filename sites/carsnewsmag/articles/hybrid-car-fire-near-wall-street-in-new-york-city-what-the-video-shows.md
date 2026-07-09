@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Nighttime vehicle fire on a lower Manhattan street with emergency responders
   nearby
+topics:
+  - News
+  - Electric Cars
 ---
 
 A hybrid car near Wall Street in New York City burst into flames on Tuesday night, according to a video report from CBS Evening News. The incident took place in lower Manhattan, an area known for heavy foot traffic, busy streets, and its connection to the city's financial center.

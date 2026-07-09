@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Colorful healthy ingredients and prepared meals on a bright modern kitchen
   counter
+topics:
+  - Healthy Recipes
+  - Nutrition Myths
 ---
 
 TikTok has become a hub for innovative and creative recipes that captivate audiences worldwide. Among the most popular are those claiming to be healthy options that fit well into various lifestyles. In this article, we explore some of the most viewed healthy recipes on TikTok and discuss their appeal and potential benefits.

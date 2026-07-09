@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Empty floodlit football stadium viewed from an executive box, suggesting a
   club at a turning point.
+topics:
+  - Latest News
+  - Leagues
 ---
 ## Ownership Finally Speaks Out
 

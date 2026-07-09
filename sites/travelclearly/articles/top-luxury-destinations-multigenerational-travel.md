@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Extended family relaxing on a luxury terrace overlooking turquoise water and
   lush travel scenery.
+topics:
+  - Travel
+  - Destinations
 ---
 ## The Rise of Multigenerational Luxury Travel
 

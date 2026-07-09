@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Sleek luxury performance SUV on a wet city road at dusk with dramatic
   reflections
+topics:
+  - Reviews
 ---
 
 The automotive world is abuzz with the latest performance model from Audi, the 2025 RS Q8. This luxury SUV blends high performance with opulence, setting a new standard in its class. Audi enthusiasts and car aficionados alike are eager to explore its advanced features and impressive capabilities.

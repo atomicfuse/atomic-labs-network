@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Cinematic living room with glowing genre screens, popcorn, remotes, and subtle
   Memorial Day colors.
+topics:
+  - Movies
+  - TV Shows
+  - Streaming
 ---
 ## Your Memorial Day Weekend Watchlist Is Here
 

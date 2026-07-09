@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   A moody living room transformed into a glowing mini-theater for a holiday
   weekend watchlist.
+topics:
+  - Streaming
+  - Recommendations
 ---
 ## A Packed Weekend for Entertainment Lovers
 

@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Traveler reviewing safety alerts at an airport table with passport, cocktail
   glass, and global risk reflections
+topics:
+  - News
 ---
 
 Travelers around the globe are constantly met with evolving regulations and advisories, impacting their journey plans. From Thailand's revised alcohol policies to Colombia's volcanic activity and Lebanon's security climate, these updates are crucial for ensuring safe and enjoyable travel experiences. Staying informed about such changes can significantly enhance your travel safety and preparedness.

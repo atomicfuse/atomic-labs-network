@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Tense upscale gathering on a Charleston veranda at dusk with guests caught in
   silent conflict
+topics:
+  - Watch
 ---
 
 The latest episode of "Southern Charm" continues to captivate audiences with its dynamic mix of Southern culture, personal drama, and social interactions. As the eleventh season unfolds, viewers are drawn into the intricate lives of Charleston's elite, where friendships are tested, and secrets are unveiled. This episode highlights the ongoing tensions and evolving relationships among the cast members.

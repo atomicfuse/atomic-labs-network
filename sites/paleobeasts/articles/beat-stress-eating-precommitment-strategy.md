@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Prepared healthy meals and snacks arranged on a calm kitchen counter for
   easier choices
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## What Is Precommitment and Why Does It Work?
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Empty cinema lobby with a dusty sci-fi helmet and lone cloaked figure
   suggesting box office fatigue.
+topics:
+  - Culture Buzz
 ---
 ## Star Wars Faces New Box Office Reality
 

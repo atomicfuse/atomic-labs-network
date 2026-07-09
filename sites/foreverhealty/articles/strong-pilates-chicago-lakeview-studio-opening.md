@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Group performs hybrid Pilates workouts on sleek machines in a moody boutique
   fitness studio.
+topics:
+  - Fitness & Movement
 ---
 ## New Fitness Concept Arrives in Chicago
 

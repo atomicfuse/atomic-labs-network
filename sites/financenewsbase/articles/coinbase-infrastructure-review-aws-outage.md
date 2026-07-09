@@ -5,7 +5,7 @@ description: >-
   sacrificing trading speed for better reliability after AWS cooling failure.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -35,6 +35,8 @@ quality_note: >-
   word count and relies heavily on vague 'according to reports' attribution
   without specific sources.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Exchange Knocked Offline by Data Center Failure

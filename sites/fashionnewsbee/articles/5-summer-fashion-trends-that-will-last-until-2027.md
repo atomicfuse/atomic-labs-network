@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Sunlit summer fashion editorial with butter yellow layers, raffia accessories,
   crochet texture, and coastal styling.
+topics:
+  - Fashion
 ---
 
 Summer 2026 fashion is leaning into ease, polish, and personality. The strongest trends feel wearable, but never boring. Think refined vacation textures, playful proportions, sun-washed color, and nostalgic pieces reworked for today. Instead of one dominant aesthetic, the season offers several clear directions that can blend into a modern warm-weather wardrobe.

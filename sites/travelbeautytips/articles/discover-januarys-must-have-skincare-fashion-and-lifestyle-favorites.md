@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Elegant winter vanity with skincare, fashion accessories, knitwear, candle,
   and cozy home accents.
+topics:
+  - Beauty Tips
+  - Lifestyle
 ---
 
 As we step into the new year, it's always exciting to explore new trends and find products that truly resonate with our individual styles and needs. This January, I've gathered a collection of my absolute favorites spanning across skincare, fashion, and lifestyle. Whether you're looking to refresh your wardrobe, update your beauty routine, or add a little something special to your home, these picks have got you covered.

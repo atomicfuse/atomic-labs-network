@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Friends in a London flat watch a glowing screen during a cinematic streaming
   night
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Netflix UK has a busy month ahead, with a mix of prestige comedy, true-crime documentaries, returning animation, international drama, family viewing, and music-led specials. From Tina Fey and Steve Carell leading The Four Seasons to new Kylie Minogue programming, the latest arrivals give subscribers plenty to add to their watchlists.

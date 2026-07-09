@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Unbranded car in a sleek studio with abstract market lines suggesting a stock
   decline.
+topics:
+  - News
+  - Industry
 ---
 ## GM Delivers Strong Earnings Performance
 

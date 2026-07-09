@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Unlabeled vial and syringe on a teal clinical surface with warm highlights and
   uneasy shadows.
+topics:
+  - Wellness
 ---
 ## The Rise of Peptide Wellness Products
 

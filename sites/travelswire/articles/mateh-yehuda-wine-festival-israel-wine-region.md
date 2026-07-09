@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Sunlit vineyard hills with a rustic wine tasting table and local produce in
   the foreground.
+topics:
+  - Destination Guides
+  - Local Culture
 ---
 ## Israel's Premier Wine Destination Opens for Summer Festival
 

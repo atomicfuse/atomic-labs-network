@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Nordic tasting table by a Finnish lakeside with regional dishes, berries, rye
   bread, and soft evening light
+topics:
+  - Destination Guides
 ---
 ## Finland Positions Itself as Nordic Culinary Destination
 

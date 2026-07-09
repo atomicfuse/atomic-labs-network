@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   ECMO equipment in a softly lit ICU with medical staff silhouettes suggesting a
   lifesaving transplant bridge.
+topics:
+  - Space
 ---
 
 In an unprecedented medical achievement, surgeons successfully sustained a patient without lungs for 48 hours, marking a milestone in medical science. This extraordinary feat demonstrates the potential of advanced medical interventions in critical situations, offering hope for future treatments.

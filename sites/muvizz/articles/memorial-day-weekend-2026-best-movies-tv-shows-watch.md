@@ -1,9 +1,11 @@
 ---
 title: 11 Best Movies and TV Shows for Memorial Day Weekend 2026
-description: From Spider-Noir to The Boys finale, here's your guide to the best new movies and TV shows hitting theaters and streaming this Memorial Day weekend.
+description: >-
+  From Spider-Noir to The Boys finale, here's your guide to the best new movies
+  and TV shows hitting theaters and streaming this Memorial Day weekend.
 type: listicle
 status: published
-publishDate: 2026-05-28
+publishDate: 2026-05-28T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -13,7 +15,8 @@ tags:
   - memorial-day-weekend
 slug: memorial-day-weekend-2026-best-movies-tv-shows-watch
 reviewer_notes: Approved via review queue.
-source_url: https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-memorial-day-2026.html
+source_url: >-
+  https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-memorial-day-2026.html
 source_item_id: 6a13f84e16f23264031d7abb
 generated_by: claude
 featuredImage: /assets/images/memorial-day-weekend-2026-best-movies-tv-shows-watch.webp
@@ -24,9 +27,17 @@ score_breakdown:
   content_length: 52
   factual_accuracy: 45
   keyword_relevance: 88
-quality_note: Strong tone and keyword relevance but significantly hurt by short length and fabricated 2026 content with made-up titles and events.
+quality_note: >-
+  Strong tone and keyword relevance but significantly hurt by short length and
+  fabricated 2026 content with made-up titles and events.
 reading_time: 3
-image_alt: A couch, popcorn, remotes, and glowing screens suggest a busy Memorial Day weekend watchlist.
+image_alt: >-
+  A couch, popcorn, remotes, and glowing screens suggest a busy Memorial Day
+  weekend watchlist.
+topics:
+  - Breaking News
+  - Movies
+  - TV Shows
 ---
 ## Memorial Day Weekend Brings Major Entertainment Lineup
 

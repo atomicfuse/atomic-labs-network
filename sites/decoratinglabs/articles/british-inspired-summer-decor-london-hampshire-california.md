@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Sunlit summer kitchen blending British polish, coastal textures, and
   California indoor-outdoor ease.
+topics:
+  - Tips & Advice
+  - decor ideas
 ---
 ## A Fresh Take on Summer Decorating
 

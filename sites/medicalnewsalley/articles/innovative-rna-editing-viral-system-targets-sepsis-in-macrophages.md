@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Luminous immune cell with RNA strands as inflammation fades into calming blue
   light
+topics:
+  - Health News
 ---
 
 Researchers have made a groundbreaking advancement in tackling sepsis by developing a bioengineered viral system to edit RNA within macrophages. This innovative approach holds promise for more effective treatments of this life-threatening condition, which currently lacks specific therapies. Understanding the molecular mechanisms and modifying them directly within cells offers a significant step forward in medical science.

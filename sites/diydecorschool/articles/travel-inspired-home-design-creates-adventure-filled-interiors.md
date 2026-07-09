@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Sophisticated travel-inspired interior with layered textures, warm light, and
   collected decorative details.
+topics:
+  - Expert Guides
 ---
 ## Travel Memories Take Center Stage in Home Design
 

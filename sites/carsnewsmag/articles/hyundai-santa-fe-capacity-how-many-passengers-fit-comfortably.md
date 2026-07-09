@@ -42,6 +42,8 @@ quality_note: >-
   Well-written review with good tone and accurate information, but falls short
   of target word count and could benefit from stronger SEO optimization.
 image_alt: Modern three-row SUV with open doors and family gear at a scenic trailhead
+topics:
+  - Reviews
 ---
 
 The Hyundai Santa Fe has been a popular choice for families and adventure-seekers alike, providing a versatile and comfortable ride. Known for its spacious interior and advanced features, the Santa Fe is designed to accommodate both passengers and cargo efficiently. This SUV offers a blend of comfort, technology, and space, making it a strong competitor in the midsize SUV market.

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Active older adult climbing sunlit stairs with a water bottle nearby,
   suggesting healthy aging habits.
+topics:
+  - Fitness
+  - Lifestyle
 ---
 ## The Science Behind Aging After 60
 

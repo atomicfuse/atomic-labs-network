@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Expecting couple in a sunlit nursery preparing calmly for their pregnancy
   journey
+topics:
+  - Pregnancy
+  - Children’s Health
 ---
 
 Embarking on the journey of pregnancy is a transformative experience that brings a blend of excitement and anticipation. From understanding the early signs to preparing for the arrival of a newborn, each stage of pregnancy offers unique challenges and joys. This guide aims to provide valuable insights and tips for expecting parents, ensuring a smoother and more informed journey.

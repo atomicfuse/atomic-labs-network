@@ -39,6 +39,10 @@ reading_time: 3
 image_alt: >-
   Anonymous footballers in a dramatic stadium scene symbolizing season awards
   and debate
+topics:
+  - Transfers
+  - Analysis
+  - Leagues
 ---
 ## Season-End Analysis Captures Premier League Highs and Lows
 

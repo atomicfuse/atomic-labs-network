@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Woman at a sunlit table with nourishing foods, suggesting diet support for
   endometriosis pain
+topics:
+  - Special Diets
+  - Weight & Wellness
 ---
 
 Endometriosis, a condition characterized by the growth of endometrial tissue outside the uterus, affects millions of women worldwide. While medical treatments are available, dietary changes have shown promising results in managing the symptoms. Below, we explore how tweaking your diet can significantly impact the severity of your endometriosis symptoms.

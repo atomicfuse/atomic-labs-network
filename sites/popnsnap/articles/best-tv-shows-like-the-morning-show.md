@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Tense broadcast studio scene with a poised media figure and shadowy executives
   behind glass
+topics:
+  - TV & Movies
 ---
 ## The Appeal of Media-Industry Drama
 

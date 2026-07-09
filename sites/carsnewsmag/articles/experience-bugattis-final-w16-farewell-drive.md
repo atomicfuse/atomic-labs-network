@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A futuristic hypercar speeds through a misty racetrack at dawn with dramatic
   lighting and motion blur.
+topics:
+  - Concept Cars
 ---
 
 Unveiling a marvel in automotive engineering, the Bugatti Bolide represents the pinnacle of hypercar innovation. Crafted for those seeking unparalleled performance, this track-focused vehicle embodies a fusion of cutting-edge technology and exceptional design. The Bolide is a testament to Bugatti's commitment to pushing the boundaries of speed and agility, captivating car enthusiasts around the globe.

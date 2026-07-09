@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Young women gather around a tablet in a sunny campus courtyard, suggesting
   health education and community.
+topics:
+  - Lifestyle
 ---
 
 In a world where health information can often be overwhelming or inaccessible, a Stanford University student is taking notable strides to make a difference. This young visionary is focusing on empowering women by providing them with the knowledge and tools they need to better understand their health. With a clear mission to bridge the gap in health education, this initiative aims to foster a more informed and health-conscious community.

@@ -31,6 +31,8 @@ score_breakdown:
 quality_note: >-
   Well-written article with excellent tone and relevance, but severely penalized
   for being too short at only 469 words versus the 1000-word target.
+topics:
+  - Food Culture
 ---
 Ever wondered if your vegetable preferences reveal something deeper about your personality? Pack your bags for a virtual culinary adventure that will take you around the world while uncovering your true vegetable match!
 

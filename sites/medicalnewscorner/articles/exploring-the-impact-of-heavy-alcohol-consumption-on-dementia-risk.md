@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   A wine glass set aside beside hands holding a keepsake, with soft neural-like
   light in the background.
+topics:
+  - Research
 ---
 
 Recent research brings to light the potential link between alcohol consumption and dementia, a cognitive condition characterized by memory loss and impaired thinking abilities. The study suggests that alcohol use might be a contributing factor to dementia by causing harm to the brain.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Fit male yoga practitioner in a sunlit studio moving through a calm,
   strength-focused yoga flow.
+topics:
+  - Yoga Poses
 ---
 
 Staying fit and maintaining a healthy lifestyle is a priority for many celebrities, and Bollywood star Saif Ali Khan is no exception. Known for his versatile acting skills and charming persona, Saif Ali Khan also dedicates time to his fitness regime. Celebrity trainer Rupal Sidhpura Faria, who works closely with him, shares insights into the yoga practices that help Saif stay in top shape.

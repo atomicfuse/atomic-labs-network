@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Moody living room with glowing screens hinting at sports, awards, and
   premieres.
+topics:
+  - TV & Movies
 ---
 ## A Peak Week for Television Viewing
 

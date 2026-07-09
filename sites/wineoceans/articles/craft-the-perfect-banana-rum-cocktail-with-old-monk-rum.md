@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Tropical banana rum cocktail on a bar with fruit, spices, tools, and a blurred
   dark rum bottle.
+topics:
+  - Wine recipes
 ---
 ## The Rise of Banana Rum Cocktails
 

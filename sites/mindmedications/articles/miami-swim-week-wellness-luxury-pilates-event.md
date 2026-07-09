@@ -35,6 +35,9 @@ reading_time: 2
 image_alt: >-
   Luxury poolside Pilates scene at a Miami hotel with palms, pastel mats, and
   golden-hour resort atmosphere.
+topics:
+  - Lifestyle
+  - Wellness
 ---
 ## Fashion Week Meets Fitness Revolution
 

@@ -41,6 +41,8 @@ reading_time: 3
 image_alt: >-
   Lone investigator between a misty forest and warm city lights, with empty
   chairs suggesting change.
+topics:
+  - Odd News
 ---
 ## CBS Hit 'Tracker' Undergoes Major Behind-the-Scenes Transformation
 

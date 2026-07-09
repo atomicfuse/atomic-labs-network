@@ -40,6 +40,8 @@ quality_note: >-
   details about actual albums and memoirs, making much of the content appear
   generic or potentially fabricated.
 image_alt: Holiday music gifts arranged beside a turntable with warm festive lights
+topics:
+  - Music
 ---
 
 As the holiday season approaches, music lovers and gift-givers alike are on the hunt for the perfect albums to surprise their loved ones. This year, the music industry has not disappointed, offering a robust selection of new releases and captivating music memoirs that make for thoughtful presents. Whether you're shopping for a vinyl enthusiast or a digital streaming aficionado, the latest albums and autobiographies in the music world have something for everyone.

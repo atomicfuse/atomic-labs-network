@@ -41,6 +41,9 @@ quality_note: >-
   Strong entertainment focus and engaging tone, but significantly under target
   word count and contains potential factual inaccuracies about 2025 events.
 image_alt: Glamorous performer in a sustainable gown on an emerald-lit red carpet
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Kylie Minogue captivated audiences with her stunning appearance at the Earthshot Prize Awards 2025, a prestigious event dedicated to recognizing groundbreaking environmental solutions. The pop icon's choice of attire was a topic of admiration, showcasing her commitment to both style and sustainability.

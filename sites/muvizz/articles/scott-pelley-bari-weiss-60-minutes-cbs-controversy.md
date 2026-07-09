@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty broadcast newsroom with a vacant anchor chair and scattered papers under
   cold studio lights.
+topics:
+  - Breaking News
 ---
 ## Veteran Correspondent Launches Public Attack
 

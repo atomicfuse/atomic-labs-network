@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Coffee-infused desserts arranged on a marble café table with warm natural
   light
+topics:
+  - Coffee Drinks
 ---
 
 If you are a coffee enthusiast who simply cannot live without the rich aroma and taste of coffee, then these four delectable desserts are perfect for you. Infused with the bold flavors of coffee, these sweets are a delightful way to enjoy your favorite beverage in a whole new form.

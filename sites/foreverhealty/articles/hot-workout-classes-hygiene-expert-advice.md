@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Clean heated fitness studio with a yoga mat, towel, and disinfectant in warm
   diffused light.
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## The Rise of Hot Fitness Classes
 

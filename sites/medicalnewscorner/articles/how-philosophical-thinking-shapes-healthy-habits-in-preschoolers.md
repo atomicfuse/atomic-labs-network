@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Preschoolers thoughtfully explore healthy foods and play materials in a warm
   classroom setting.
+topics:
+  - Health News
 ---
 
 **Integrating philosophical thinking into early childhood education can empower preschoolers to develop healthy lifestyle habits, critical thinking skills, and informed decision-making abilities.**

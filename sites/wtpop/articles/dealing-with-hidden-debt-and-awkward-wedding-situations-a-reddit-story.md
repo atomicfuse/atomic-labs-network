@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Wedding table with hidden bills in an envelope and a tense couple blurred in
   the background
+topics:
+  - Influencers
 ---
 
 ## Introduction: The Hidden Debt Dilemma

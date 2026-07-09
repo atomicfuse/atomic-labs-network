@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Woman in a white slip dress, cropped cardigan, and woven flats stepping onto a
   sunny city sidewalk.
+topics:
+  - Fashion
 ---
 ## The Celebrity-Approved Formula That's Taking Over Summer 2026
 

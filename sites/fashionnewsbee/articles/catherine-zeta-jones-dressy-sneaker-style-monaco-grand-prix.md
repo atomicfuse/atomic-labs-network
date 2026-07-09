@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Elegant floral jumpsuit styled with black platform sneakers on a glamorous
   marina promenade.
+topics:
+  - Fashion
 ---
 ## A Masterclass in Elevated Comfort
 

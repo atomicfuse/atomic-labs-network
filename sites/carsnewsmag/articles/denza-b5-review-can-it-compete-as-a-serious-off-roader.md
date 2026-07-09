@@ -44,6 +44,9 @@ quality_note: >-
   too short at 455 words and contains potential factual inaccuracies about the
   Denza B5 model designation.
 image_alt: Luxury electric SUV on a rocky mountain trail at golden hour
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 In the rapidly evolving world of electric vehicles, the Denza B5 stands out as a pioneering model in the luxury SUV market. Combining cutting-edge technology with impressive design, it sets a new standard for what consumers can expect from an electric SUV. As a collaboration between BYD and Mercedes-Benz, the Denza B5 is a testament to engineering excellence and luxury refinement.

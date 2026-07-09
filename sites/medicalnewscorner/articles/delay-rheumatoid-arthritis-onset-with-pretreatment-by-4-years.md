@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Person stretching hands in morning light with a subtle time arc suggesting
   delayed arthritis onset
+topics:
+  - Research
+  - Drugs
 ---
 
 Rheumatoid arthritis (RA) is a chronic inflammatory disorder primarily affecting joints. Recent research offers promising insights into delaying its onset through pre-treatment strategies. These new findings could significantly impact those at risk, highlighting the potential to improve quality of life and manage symptoms more effectively.

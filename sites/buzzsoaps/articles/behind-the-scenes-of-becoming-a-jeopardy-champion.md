@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Focused quiz show contestant waits backstage before stepping onto a brightly
   lit studio set.
+topics:
+  - Watch
 ---
 
 Jeopardy! is a television game show that has captivated audiences for decades, showcasing the knowledge and quick reflexes of its contestants. Attending a taping of this iconic show offers a unique glimpse into what it takes to become a Jeopardy! champion, revealing the intricate details behind the scenes and the intense preparation of the participants.

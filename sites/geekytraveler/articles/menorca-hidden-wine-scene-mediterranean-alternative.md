@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Quiet Menorcan vineyard terrace with wine glasses overlooking the
   Mediterranean at golden hour
+topics:
+  - Destination Guides
 ---
 ## A Hidden Gem in the Mediterranean
 

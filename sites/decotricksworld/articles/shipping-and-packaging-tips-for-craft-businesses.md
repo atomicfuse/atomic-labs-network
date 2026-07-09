@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Organized craft shipping station with handmade goods, packing materials,
   boxes, twine, and a scale
+topics:
+  - Tips & Advice
 ---
 
 If you're a small [business](https://www.thecountrychiccottage.net/craft-business-myths/) owner who sells physical items, you have probably struggled with shipping and packaging. Let's chat about shipping and packaging tips that are helpful for craft and small business owners.

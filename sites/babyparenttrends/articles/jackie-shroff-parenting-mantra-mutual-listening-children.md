@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Parent and child sit face to face in a calm home, listening to each other with
   warmth and respect.
+topics:
+  - Parenting
 ---
 ## A Fresh Take on Parent-Child Communication
 

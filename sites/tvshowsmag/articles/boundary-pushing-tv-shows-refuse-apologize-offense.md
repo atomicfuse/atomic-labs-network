@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   A glowing television on a dark studio stage behind a red boundary rope and
   scattered props.
+topics:
+  - TV News
+  - Streaming
 ---
 ## The Art of Television Controversy
 

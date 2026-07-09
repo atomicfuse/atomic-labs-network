@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Luminous data points separate across a translucent geometric surface,
   suggesting hidden AI structure.
+topics:
+  - Gadgets
 ---
 ## The Mathematical Breakthrough Behind Better AI
 

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Chilled red wine glasses on a sunny outdoor table with summer food and soft
   greenery
+topics:
+  - Nutrition
+  - Recipes
 ---
 ## Breaking the Rules: Why Chilled Red Wine is Perfect for Summer
 

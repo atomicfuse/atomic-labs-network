@@ -41,6 +41,8 @@ videos:
     url: 'https://www.youtube.com/watch?v=9PudOdNjmyc'
     position: after-paragraph-1
 image_alt: Foggy English farm at dusk with scattered notes and a car in ominous shadow
+topics:
+  - Celebrity News
 ---
 ## A Quiet Farm Becomes a House of Horrors
 

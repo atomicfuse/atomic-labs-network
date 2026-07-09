@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Coastal vineyard rows in Marlborough at dawn with misty hills and refined
   editorial lighting
+topics:
+  - Coffee News
 ---
 ## From Backwater to Wine Real Estate Gold
 

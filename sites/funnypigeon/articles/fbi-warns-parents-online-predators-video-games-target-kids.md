@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Child gaming at night as a parent watches from the doorway, suggesting hidden
   online risks.
+topics:
+  - Odd News
 ---
 ## FBI Issues Critical Warning About Gaming Predators
 

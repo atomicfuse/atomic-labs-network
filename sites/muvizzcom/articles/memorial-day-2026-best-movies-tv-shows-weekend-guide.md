@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Three viewers sit in a golden room surrounded by abstract screens suggesting a
   weekend watchlist.
+topics:
+  - Movies
+  - TV Shows
+  - Streaming
 ---
 ## Your Complete Memorial Day Weekend Entertainment Guide
 

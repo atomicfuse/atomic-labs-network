@@ -33,6 +33,8 @@ quality_note: >-
   science focus areas, lacks specific research citations, and contains vague
   health claims without proper scientific backing.
 image_alt: Sunlit healthy foods and hands preparing a meal on a kitchen table
+topics:
+  - Space
 ---
 
 Recent research has unveiled a significant connection between specific dietary patterns and a reduced risk of dementia. By adhering to certain healthy diets, individuals can potentially lower their chances of developing this cognitive condition by up to 28%. This groundbreaking study provides valuable insights for those looking to maintain their brain health through nutritional choices.

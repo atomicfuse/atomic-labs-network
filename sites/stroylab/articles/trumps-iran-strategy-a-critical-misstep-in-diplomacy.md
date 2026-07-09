@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Empty diplomatic table with digital military overlays and a fallen chess piece
   suggesting geopolitical risk.
+topics:
+  - Deep Dives
 ---
 
 In recent years, the rapid advances in artificial intelligence have sparked intense discussions across various sectors. One of the most notable areas of debate is the integration of AI into military operations. As nations vie for technological supremacy, the implications of AI's role in defense strategies are both profound and far-reaching.

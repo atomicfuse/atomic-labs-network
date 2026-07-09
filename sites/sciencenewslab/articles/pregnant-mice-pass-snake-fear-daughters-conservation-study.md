@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Alert pocket mouse and juvenile in sandy scrub habitat with a subtle
   snake-like track behind them
+topics:
+  - Nature
 ---
 ## Breakthrough Discovery in Endangered Species Conservation
 

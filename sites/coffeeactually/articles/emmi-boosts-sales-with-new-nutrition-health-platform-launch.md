@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Unbranded dairy products with berries, oats, and coffee in a clean editorial
   still life
+topics:
+  - Coffee News
 ---
 
 Emmi, a prominent player in the dairy industry, has reported a significant 9.1% increase in its sales, driven largely by its strategic focus on dessert and coffee niches. This remarkable growth underscores the company's ability to adapt and innovate in a competitive market, enhancing its product offerings and expanding its consumer base.

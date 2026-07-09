@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Glowing music tiles flow between two unbranded devices on a sleek modern
   background.
+topics:
+  - Tech
 ---
 
 Apple Music users can now enjoy a seamless transition of their music collections with the introduction of a new tool designed to simplify the transfer of music libraries and playlists. This innovative feature addresses a common challenge faced by many music enthusiasts when switching devices or platforms. With this tool, Apple aims to enhance user experience by providing a hassle-free method to keep personal music collections intact.

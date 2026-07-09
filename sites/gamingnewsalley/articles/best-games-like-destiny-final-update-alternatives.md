@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Three futuristic armored explorers face five glowing portals over a neon
   sci-fi city.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## Destiny Players Face an Uncertain Future
 

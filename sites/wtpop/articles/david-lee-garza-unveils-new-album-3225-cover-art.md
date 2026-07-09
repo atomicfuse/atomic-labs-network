@@ -38,6 +38,8 @@ quality_note: >-
   Strong music coverage with engaging tone but needs better SEO optimization and
   more content to reach target length.
 image_alt: Accordion and bajo sexto under warm stage lights with modern neon accents
+topics:
+  - Music
 ---
 
 Renowned Tejano band David Lee Garza y Los Musicales is gearing up for the release of their highly anticipated new album, "3225." Fans and music enthusiasts alike are eager to experience the fresh sounds and artistic direction the band has taken with this latest project. The album promises a blend of traditional Tejano rhythms with modern influences, ensuring it appeals to both longtime followers and new listeners.

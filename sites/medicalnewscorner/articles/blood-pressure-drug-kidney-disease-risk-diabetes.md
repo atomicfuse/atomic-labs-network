@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Blood pressure cuff, pills, glucose meter, and kidney-shaped glass object on a
   clinical desk.
+topics:
+  - Health News
 ---
 ## New Study Raises Concerns About Popular Blood Pressure Medications
 

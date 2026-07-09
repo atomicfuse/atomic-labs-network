@@ -35,6 +35,8 @@ quality_note: >-
   and overly vague reporting style that doesn't match the engaging tone expected
   for pet enthusiasts.
 image_alt: Neighbors search a wooded New Hampshire roadside for a missing dog at sunset.
+topics:
+  - Animal Behavior
 ---
 ## Community Mobilizes for Missing Pet Search
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Glowing DNA-like strands surround a young seedling in a sunlit research
   greenhouse.
+topics:
+  - Mind-Blowing Science
 ---
 ## The Daily DNA Damage Dilemma Plants Face
 

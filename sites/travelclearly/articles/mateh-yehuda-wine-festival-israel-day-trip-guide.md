@@ -37,6 +37,11 @@ reading_time: 3
 image_alt: >-
   Golden-hour vineyards in the Jerusalem Hills with wine glasses, local produce,
   and distant stone ruins.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Food & Drink
 ---
 ## Israel's Wine Country Beckons
 

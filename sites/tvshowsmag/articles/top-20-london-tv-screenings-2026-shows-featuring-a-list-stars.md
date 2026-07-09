@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Elegant London screening venue with silhouetted guests, projector light, and a
   rainy skyline reflection.
+topics:
+  - TV News
 ---
 
 As the London TV Screenings continue to attract global attention, the event showcases a diverse range of compelling television series from around the world. This year's lineup promises to captivate audiences with an intriguing mix of genres and storytelling styles. From action-packed dramas to thought-provoking narratives, each series offers something unique for viewers to enjoy.

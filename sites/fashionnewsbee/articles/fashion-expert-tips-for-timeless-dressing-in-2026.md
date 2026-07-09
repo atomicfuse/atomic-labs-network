@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Stylish person in a modern dressing room with tailored clothing and refined
   accessories
+topics:
+  - Fashion
 ---
 
 Dressing well is a vital part of making a lasting impression, whether at work or social gatherings. By understanding the fundamentals of men's fashion, you can elevate your style and boost confidence. This guide offers practical tips to enhance your wardrobe and personal style.

@@ -35,6 +35,8 @@ quality_note: >-
   Article is off-topic for a food site, too short, lacks proper SEO structure,
   and doesn't align with the site's core content areas despite attempting to
   connect energy markets to food.
+topics:
+  - Food Culture
 ---
 ![Oil prices and energy supply concerns](https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7d0af537-4f93-4f4e-b8ef-8ccd26fad088/657148f3-c037-47f0-bbf9-ecf5c4eb4a2d/1280x720/match/1024/512/image.jpg?ve=1&tl=1)
 

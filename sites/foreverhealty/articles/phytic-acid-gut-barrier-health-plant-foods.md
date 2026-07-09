@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Plant foods arranged around a softly glowing protective barrier on a neutral
   tabletop
+topics:
+  - Nutrition & Diet
 ---
 ## From Anti-Nutrient to Gut Protector
 

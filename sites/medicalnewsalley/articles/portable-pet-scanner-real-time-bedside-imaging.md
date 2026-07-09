@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Portable bedside scanner guides clinicians with real-time molecular imaging in
   a modern hospital room.
+topics:
+  - Medical Research
 ---
 ## Revolutionary Portable Technology Transforms Interventional Procedures
 

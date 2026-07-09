@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Rock singer on a moody stage faces a divided crowd under red, white, and blue
   lights.
+topics:
+  - Hot Trends
 ---
 ## Concert Tension Erupts in Tampa
 

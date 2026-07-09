@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Pastel skincare products arranged on a beige vanity with dewy reflections and
   soft natural light.
+topics:
+  - Beauty
 ---
 ## Early Prime Day K-Beauty Deals Are Already Live
 

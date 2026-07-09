@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Korean actor on a cinematic soundstage surrounded by subtle drama and comedy
   role cues
+topics:
+  - TV News
 ---
 
 Jung Eun-woo has captivated audiences worldwide with his versatile acting skills and charismatic presence. Known for his dynamic performances in both movies and television, Jung has crafted a career that showcases his range as an actor. From heartwarming dramas to light-hearted comedies, his work continues to resonate with viewers across different genres.

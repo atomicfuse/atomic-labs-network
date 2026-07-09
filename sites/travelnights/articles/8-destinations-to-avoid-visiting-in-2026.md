@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Traveler overlooks a hazy overcrowded coastline behind a rope barrier with a
   blank map in hand.
+topics:
+  - Destinations
+  - Guides & Tips
 ---
 
 Travel can be one of the most enriching experiences, offering exposure to new cultures, cuisines, and landscapes. However, as the global travel landscape evolves, certain destinations may demand a second look before booking your next adventure. Whether due to environmental concerns, overcrowding, or socio-political issues, some places might be wise to approach with caution.

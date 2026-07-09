@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   A moody empty film set with cracked glasses, a toppled chair, and dramatic
   cinematic lighting.
+topics:
+  - Watch
 ---
 
 Joe Pantoliano is renowned for his dynamic roles across film and television, often portraying characters who meet dramatic ends. Known for his versatility, Pantoliano has made a significant impact on audiences with his memorable performances in various genres.

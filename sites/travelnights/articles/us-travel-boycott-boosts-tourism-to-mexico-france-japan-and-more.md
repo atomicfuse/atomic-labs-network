@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Travelers in an airport look toward layered reflections of global
   destinations.
+topics:
+  - Destinations
 ---
 
 As global travel patterns evolve, recent trends indicate an increasing preference for international destinations among U.S. travelers. Countries such as Mexico, France, Japan, Spain, and the UK have seen a notable surge in tourism, driven by shifting travel dynamics and a desire for diverse cultural experiences. Meanwhile, Canada is also setting its sights on new overseas horizons, with plans to expand its travel options by 2025.

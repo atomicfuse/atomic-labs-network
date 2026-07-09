@@ -35,6 +35,9 @@ reading_time: 2
 image_alt: >-
   Empty late-night broadcast studio with shadowy figures suggesting media power
   struggles.
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## The Appeal of Media-Industry Drama
 

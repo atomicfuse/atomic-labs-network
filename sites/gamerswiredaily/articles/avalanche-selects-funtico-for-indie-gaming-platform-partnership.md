@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Futuristic indie game world built from glowing digital cubes and circuit
   pathways
+topics:
+  - Gaming News
 ---
 
 The gaming industry is witnessing a significant transformation as Avalanche announces its partnership with Funtico to enhance its indie gaming platform. This collaboration is set to revolutionize the way independent game developers engage with the blockchain technology offered by Avalanche, promising a novel experience for gamers and developers alike.

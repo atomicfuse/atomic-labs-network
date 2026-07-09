@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Autonomous rover shaping lunar soil into a habitat foundation beneath Earth on
   the horizon
+topics:
+  - Space
+  - Technology
 ---
 ## From Earth's Battlefields to Lunar Frontiers
 

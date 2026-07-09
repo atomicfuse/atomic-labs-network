@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   A deserted desert movie theater at dusk with two sci-fi silhouettes walking
   away through windblown tickets.
+topics:
+  - Viral
 ---
 ## Star Wars Franchise Faces New Box Office Challenge
 

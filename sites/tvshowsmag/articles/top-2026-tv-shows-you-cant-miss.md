@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A dark living room glows with floating screens hinting at sci-fi, drama,
   comedy, and fantasy stories.
+topics:
+  - TV News
 ---
 
 As the television landscape evolves, 2026 promises to be a remarkable year for new TV shows. With an array of genres and innovative storytelling, these upcoming series are set to captivate audiences worldwide. From thrilling dramas to groundbreaking comedies, the slate of new shows is diverse and exciting, offering something for every viewer.

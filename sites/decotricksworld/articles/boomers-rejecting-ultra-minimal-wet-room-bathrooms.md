@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Warm modern bathroom with wood details, textured towels, and an older
   homeowner near a vanity.
+topics:
+  - Tips & Advice
 ---
 ## The Great Bathroom Divide: When Modern Meets Traditional
 

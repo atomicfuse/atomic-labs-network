@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Sunlit restored historic coastal home interior with modern furniture and
   preserved period details
+topics:
+  - Expert Guides
 ---
 
 Neal Beckstedt, a renowned interior designer, has breathed new life into his 1890s Sag Harbor home, restoring it with a fresh aesthetic that seamlessly blends the old and the new. The home's design harmonizes the historical charm with a contemporary twist, which is a testament to Beckstedt's deft touch.

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Two alert pocket mice on sandy ground with a blurred snake-like shadow in the
   background.
+topics:
+  - Nature
 ---
 ## Breakthrough in Conservation Biology
 

@@ -39,6 +39,8 @@ quality_note: >-
   focusing on Arsenal Women's FC merchandise instead of fitness, wellness, or
   lifestyle content.
 image_alt: Diverse fans in red-and-white sportswear gather in a sunlit stadium concourse.
+topics:
+  - Fashion
 ---
 
 Arsenal Women Football Club, known for its outstanding achievements on the field, has taken an exciting step off the field by launching a new retail collection. This collection is designed not only to celebrate the team's rich heritage but also to cater to the diverse fan base that supports them. With a focus on quality and style, the new merchandise offers something for every fan, whether they are looking for casual wear or something to sport at the next big match.

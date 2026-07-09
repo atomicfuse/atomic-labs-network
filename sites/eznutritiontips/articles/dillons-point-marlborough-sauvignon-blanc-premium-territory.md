@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Coastal vineyard rows in Marlborough glowing at golden hour with distant hills
   and sea haze
+topics:
+  - Nutrition Myths
 ---
 ## From Overlooked to Outstanding: The Dillons Point Revolution
 

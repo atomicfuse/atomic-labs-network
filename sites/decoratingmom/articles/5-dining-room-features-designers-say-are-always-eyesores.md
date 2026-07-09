@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Elegant dining room with subtle awkward design details disrupting an otherwise
   polished space.
+topics:
+  - Interior Design
 ---
 ## Common Dining Room Design Mistakes to Avoid
 

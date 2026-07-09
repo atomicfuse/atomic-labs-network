@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Researcher holding a glowing petri dish in a modern lab, suggesting
   antimicrobial innovation.
+topics:
+  - Health News
 ---
 
 In the ever-evolving realm of scientific research, breakthroughs in antimicrobial technology are pivotal. At the forefront of this field is Chad Roy, a prominent figure known for his innovative work in developing new antimicrobial solutions. His research is not only reshaping our understanding of microbial resistance but also paving the way for safer and more effective applications in various industries.

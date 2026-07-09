@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Diverse patient silhouettes surround a glowing AI interface in a softly lit
   modern clinic.
+topics:
+  - Health News
 ---
 
 The integration of chatbots in healthcare is rapidly transforming patient interaction, offering new avenues for support and efficiency in medical settings. However, as these digital tools become more prevalent, it's crucial to address the potential biases they may introduce into medical practice and patient care.

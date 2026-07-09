@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Empty broadcast newsroom desk with tense silhouettes in the background,
   suggesting a media leadership clash.
+topics:
+  - TV & Movies
 ---
 ## Veteran Correspondent Launches Public Attack
 

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Expectant parent sits beside medical paperwork and a calculator, suggesting
   rising maternity care costs.
+topics:
+  - Bills & Utilities
 ---
 ## Major Billing Changes Coming for Pregnant Families
 

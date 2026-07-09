@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   A living room glows with multiple screens suggesting sports, awards, dramas,
   and premieres.
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## A Peak Week for Television
 

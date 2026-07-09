@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A worried family waits in a hospital corridor with paperwork blurred in the
   foreground.
+topics:
+  - Bills & Utilities
 ---
 ## Major Coverage Losses Projected for California
 

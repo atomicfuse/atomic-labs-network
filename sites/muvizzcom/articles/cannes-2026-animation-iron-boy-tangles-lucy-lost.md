@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Animated light figures rise over a red carpet at a glamorous seaside film
   festival.
+topics:
+  - Movies
 ---
 ## Animation Takes the Spotlight at Cannes 2026
 

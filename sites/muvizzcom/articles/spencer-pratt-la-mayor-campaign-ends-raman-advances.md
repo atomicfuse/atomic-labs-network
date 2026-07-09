@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Mail-in ballots and empty campaign chairs in a Los Angeles election room at
   dusk
+topics:
+  - Celebrity News
 ---
 ## Celebrity Campaign Comes to an End
 

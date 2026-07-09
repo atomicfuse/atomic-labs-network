@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Investors and young pedestrians pass a generic urban pizza restaurant with
   muted storefront details.
+topics:
+  - Market Analysis
 ---
 ## Major Restaurant Chain Faces Potential Ownership Change
 

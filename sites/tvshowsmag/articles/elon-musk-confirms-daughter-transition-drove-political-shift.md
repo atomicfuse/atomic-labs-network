@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Separated figures in a divided tech office with political colors and soft
   trans pride tones.
+topics:
+  - Celebrity News
 ---
 ## The Confirmation That Changed Everything
 

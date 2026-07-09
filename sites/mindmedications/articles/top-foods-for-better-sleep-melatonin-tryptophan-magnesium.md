@@ -34,6 +34,9 @@ seo:
 image_alt: >-
   Sleep-friendly foods on a bedside table in soft evening light beside cozy
   linens.
+topics:
+  - Nutrition
+  - Wellness
 ---
 
 Achieving a restful night's sleep can sometimes seem elusive, but your diet might hold the key. By incorporating certain foods into your daily meals, you can enhance your sleep quality and wake up feeling refreshed. Specific nutrients like melatonin, tryptophan, and magnesium play crucial roles in promoting better sleep.

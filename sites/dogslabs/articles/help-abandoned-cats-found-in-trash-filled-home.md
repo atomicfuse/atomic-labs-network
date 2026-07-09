@@ -1,25 +1,35 @@
 ---
-title: "Help Abandoned Cats Found in Trash-Filled Home"
-description: "A Phoenix neighborhood is alarmed by a house filled with abandoned cats and trash, prompting action from authorities and animal welfare advocates to address health and safety concerns. The situation highlights the need for swift intervention and collaborative solutions."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T09:55:28+00:00"
-author: "Taylor Winters"
+title: Help Abandoned Cats Found in Trash-Filled Home
+description: >-
+  A Phoenix neighborhood is alarmed by a house filled with abandoned cats and
+  trash, prompting action from authorities and animal welfare advocates to
+  address health and safety concerns. The situation highlights the need for
+  swift intervention and collaborative solutions.
+type: standard
+status: published
+publishDate: '2026-01-19T09:55:28+00:00'
+author: Taylor Winters
 tags:
-  - "Animal Planet"
-  - "Cats"
-slug: "help-abandoned-cats-found-in-trash-filled-home"
+  - Animal Planet
+  - Cats
+slug: help-abandoned-cats-found-in-trash-filled-home
 reading_time: 3
-source_url: "https://dogpotato.com/help-abandoned-cats-found-in-trash-filled-home/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/help-abandoned-cats-found-in-trash-filled-home/'
+imported_from: wordpress
 wp_original_id: 40153
-featuredImage: "/assets/images/help-abandoned-cats-found-in-trash-filled-home.webp"
+featuredImage: /assets/images/help-abandoned-cats-found-in-trash-filled-home.webp
 seo:
-  canonical: "https://dogpotato.com/help-abandoned-cats-found-in-trash-filled-home/"
-  og_title: "Help Abandoned Cats Found in Trash-Filled Home - Dog Potato"
-  og_description: "A Phoenix neighborhood is alarmed by a house filled with abandoned cats and trash, prompting action from authorities and animal welfare advocates to address health and safety concerns. The situation highlights the need for swift intervention and collaborative solutions."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/01/make_file.jpg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/help-abandoned-cats-found-in-trash-filled-home/'
+  og_title: Help Abandoned Cats Found in Trash-Filled Home - Dog Potato
+  og_description: >-
+    A Phoenix neighborhood is alarmed by a house filled with abandoned cats and
+    trash, prompting action from authorities and animal welfare advocates to
+    address health and safety concerns. The situation highlights the need for
+    swift intervention and collaborative solutions.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/01/make_file.jpg'
+  twitter_card: summary_large_image
+topics:
+  - Animal Behavior
 ---
 
 In a concerning development, a Phoenix neighborhood is raising alarms over a house filled with abandoned cats and mounting trash. The situation has stirred both local authorities and animal welfare advocates into action, urging for swift intervention to address the escalating crisis.

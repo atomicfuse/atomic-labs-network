@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Teen and parent share a calm moment at a sunlit kitchen table with soft
   branching light on the wall.
+topics:
+  - Parenting
+  - Children’s Health
 ---
 
 Parenting styles have a profound impact on the mental development of teenagers. Recent studies highlight the significant role parents play in shaping their children's brains during adolescence. This period, marked by rapid changes and growth, is crucial for cognitive and emotional development. Understanding how different parenting approaches affect teenagers can help parents foster healthier, more supportive environments.

@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Traditional boat crossing turquoise Indonesian waters near volcanic islands at
   sunrise
+topics:
+  - Culture
+  - Destinations
+  - Guides & Tips
 ---
 
 Indonesia rewards travelers who look beyond its most famous island. Across the archipelago, volcanic highlands, coral-rich seas, ancient temples, and living traditions create a journey that feels both adventurous and deeply cultural. From Komodo dragons and Papuan reefs to Sumatran lakes and Sulawesi rituals, the country offers remarkable alternatives for travelers seeking authentic Indonesia travel experiences.

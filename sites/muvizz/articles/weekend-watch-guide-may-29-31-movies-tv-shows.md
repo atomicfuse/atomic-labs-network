@@ -35,6 +35,9 @@ reading_time: 2
 image_alt: >-
   A lone viewer faces glowing surreal doorways representing different weekend
   streaming moods.
+topics:
+  - Movies
+  - TV Shows
 ---
 ## A Cure for Streaming Indecision
 

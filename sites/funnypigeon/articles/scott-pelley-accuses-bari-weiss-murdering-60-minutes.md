@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty broadcast newsroom split by warm studio light and cool digital screens,
   suggesting media upheaval.
+topics:
+  - Odd News
 ---
 ## Veteran Correspondent Breaks Silence on Network Changes
 

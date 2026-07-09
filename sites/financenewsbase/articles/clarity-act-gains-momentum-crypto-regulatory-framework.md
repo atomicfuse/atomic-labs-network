@@ -6,7 +6,7 @@ description: >-
   dividing...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Economic Trends
@@ -15,7 +15,7 @@ tags:
   - financial legislation
   - investment policy
 slug: clarity-act-gains-momentum-crypto-regulatory-framework
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/why-clarity-act-matters-grayscale-sees-next-phase-for-digital-assets/
 source_item_id: 6a0154422a0a294c696af90b
@@ -33,6 +33,8 @@ quality_note: >-
   but falls short on length and contains some potentially unverifiable claims
   about specific statistics and market data.
 reading_time: 3
+topics:
+  - Economic Trends
 ---
 
 ## Growing Legislative Support for Crypto Regulation

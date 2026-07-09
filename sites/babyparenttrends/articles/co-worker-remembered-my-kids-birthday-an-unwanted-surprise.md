@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Parent pauses beside a wrapped birthday gift while a child plays in the
   background.
+topics:
+  - Kids
 ---
 
 Parenting presents a myriad of challenges, from managing tantrums to navigating the complex world of children's social interactions. One particularly tricky situation arises when deciding how to handle birthday presents for your child's friends. Many parents find themselves uncertain about whether to reciprocate gifts when their child receives one. This dilemma is more common than you might think, and understanding the nuances can make these social interactions smoother.

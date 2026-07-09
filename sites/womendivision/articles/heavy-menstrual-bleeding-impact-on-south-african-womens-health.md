@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   South African woman in a calm clinic setting receiving supportive healthcare
   guidance
+topics:
+  - Lifestyle
 ---
 
 Understanding the complexities of women's health is crucial for addressing various issues that can significantly impact daily life. One such condition is menorrhagia, or heavy menstrual bleeding, which affects many women across the globe, including in South Africa. This disorder can disrupt normal activities, causing both physical discomfort and emotional distress.

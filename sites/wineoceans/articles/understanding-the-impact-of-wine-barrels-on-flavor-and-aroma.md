@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Oak wine barrel and glass with warm aromatic notes suggesting flavor from
   aging.
+topics:
+  - Wine tips
 ---
 ## The Role of Barrels in Winemaking
 

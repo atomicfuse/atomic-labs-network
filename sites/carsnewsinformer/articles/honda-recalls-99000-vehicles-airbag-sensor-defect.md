@@ -34,6 +34,8 @@ quality_note: >-
   raises factual accuracy concerns.
 reading_time: 3
 image_alt: Technician inspects an unbranded car seat sensor in a modern service bay
+topics:
+  - News
 ---
 ## Major Safety Recall Affects Nearly 100,000 Vehicles
 

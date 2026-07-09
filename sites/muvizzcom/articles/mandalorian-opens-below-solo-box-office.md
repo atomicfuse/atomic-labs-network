@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   A lone space-western figure faces a glowing desert screen in a mostly empty
   theater.
+topics:
+  - Movies
 ---
 ## Star Wars Struggles Continue at the Box Office
 

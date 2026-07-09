@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Silhouetted viewer facing a glowing TV as time portals and clock fragments
   spill into the room
+topics:
+  - TV News
+  - Reviews
+  - Celebrity News
 ---
 
 Time travel has always been a fascinating concept, sparking countless debates and discussions. It's no surprise that this captivating concept has found its way into the heart of popular culture, with numerous TV shows exploring the intriguing mysteries and paradoxes of jumping through time. From drama to comedy, and even sci-fi, here are some of the top-rated television shows that have delved into the realm of time travel.

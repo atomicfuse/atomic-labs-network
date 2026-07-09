@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Secret control room overlooks a staged courtroom and corporate retreat set
   with hidden cameras.
+topics:
+  - Funny Videos
+  - Viral
 ---
 ## The Masterminds Behind TV's Most Daring Comedy Experiment
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium overlooking Los Angeles at dusk with scattered ballots
   and a fading spotlight.
+topics:
+  - Odd News
 ---
 ## From Reality TV to Political Reality Check
 

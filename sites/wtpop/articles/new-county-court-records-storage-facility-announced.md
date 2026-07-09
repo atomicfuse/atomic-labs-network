@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Modern secure archive with rows of records storage and cool blue lighting in a
   cinematic setting.
+topics:
+  - Celebrities
 ---
 
 A significant development is underway as a new facility is being constructed to address storage needs for county court records. This initiative aims to modernize and expand the capacity for storing crucial legal documents, enhancing both access and security.

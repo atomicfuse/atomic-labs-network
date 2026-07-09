@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Two glamorous women pose together on a cinematic red carpet under soft camera
   flashes.
+topics:
+  - Wine news
 ---
 ## Mother-Daughter Moment at Cannes
 

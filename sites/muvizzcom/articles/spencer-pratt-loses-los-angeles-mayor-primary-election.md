@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium with blank ballots and star confetti against a blurred
   Los Angeles skyline.
+topics:
+  - Celebrity News
 ---
 ## Spencer Pratt's Political Ambitions Come to an End
 

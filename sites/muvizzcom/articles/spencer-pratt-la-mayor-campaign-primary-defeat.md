@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium with blank ballots and a blurred Los Angeles skyline at
   dusk
+topics:
+  - Celebrity News
 ---
 ## Reality TV Star's Political Ambitions Fall Short
 

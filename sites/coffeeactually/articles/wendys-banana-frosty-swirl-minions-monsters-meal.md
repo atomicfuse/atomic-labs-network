@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Banana-swirl frozen dessert surrounded by fries, a burger, mystery boxes, and
   colorful toy monsters.
+topics:
+  - Coffee Drinks
 ---
 ## New Frozen Treat Leads Movie-Themed Promotion
 

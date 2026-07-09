@@ -39,6 +39,9 @@ quality_note: >-
   Well-written article with good tone and accurate information, but
   significantly below target word count at only 451 words.
 image_alt: Women preparing a colorful balanced meal in a bright kitchen
+topics:
+  - Nutrition Tips
+  - Weight & Wellness
 ---
 
 Nutrition plays a vital role in enhancing women's overall well-being. By focusing on a balanced diet, women can support their health, energy levels, and mental clarity. Understanding the specific nutritional needs and incorporating healthy habits can empower women to lead more vibrant and fulfilling lives.

@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Parent organizing household items and savings at a kitchen table while a
   child's toy sits nearby.
+topics:
+  - Kids
 ---
 
 Escalating living costs have become a matter of concern for many, particularly for parents. The constant challenge of managing expenses without compromising the quality of life for their children is no small feat. However, there are effective strategies that can help parents save money while ensuring their kids' needs are met.

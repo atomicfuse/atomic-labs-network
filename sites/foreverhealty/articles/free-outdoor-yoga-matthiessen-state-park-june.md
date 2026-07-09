@@ -32,6 +32,8 @@ quality_note: >-
   on content length at 580 words when targeting 800-1200 words.
 reading_time: 3
 image_alt: People practice gentle yoga on mats in a peaceful green state park setting.
+topics:
+  - Mind & Body Wellness
 ---
 ## Nature Meets Wellness at Matthiessen State Park
 

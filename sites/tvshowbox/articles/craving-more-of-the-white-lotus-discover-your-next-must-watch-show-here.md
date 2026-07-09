@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Luxurious twilight resort lounge with mysterious glowing doorways hinting at
   prestige drama series
+topics:
+  - TV News
+  - Reviews
 ---
 
 If you've been captivated by the engaging narrative and complex characters of *White Lotus* and you're on the hunt for shows with a similar vibe, this article will guide you through some compelling alternatives. We have compiled a list of series that share the same mix of satire, social commentary, and captivating storytelling as *White Lotus*.

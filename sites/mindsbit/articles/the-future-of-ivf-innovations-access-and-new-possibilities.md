@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Softly lit fertility lab with a petri dish and subtle technology reflections
   suggesting future IVF care.
+topics:
+  - Ideas
+  - Innovation
+  - Tech
 ---
 
 IVF is entering a new technological era, driven by artificial intelligence, laboratory robotics, improved genetic testing, and renewed debate over embryo editing. For people facing infertility, these advances promise faster decisions, better lab consistency, and more personalized treatment. Yet they also raise urgent questions about safety, access, evidence, and how far reproductive medicine should go.

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Gold gaming controller before a Gulf skyline as a red storm front suggests
   rising geopolitical risk.
+topics:
+  - Gaming News
 ---
 
 In an ambitious move to diversify its economy, Saudi Arabia has set its sights on the burgeoning video game industry. The nation has allocated a staggering $38 billion to transform itself into a global gaming hub. However, the geopolitical tensions with Iran pose significant challenges to these aspirations, casting a shadow over the kingdom's grand plans.

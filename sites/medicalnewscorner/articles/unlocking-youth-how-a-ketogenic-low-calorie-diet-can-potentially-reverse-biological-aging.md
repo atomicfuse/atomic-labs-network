@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Sunlit wellness scene with keto foods and abstract cellular clock motifs
   suggesting metabolic renewal.
+topics:
+  - Research
 ---
 
 Have you ever wondered if a diet could hold the key to reversing the biological clock of aging? Well, the answer may lie in a low-calorie ketogenic diet, according to recent research. This dietary regimen, known for its high-fat, low-carb approach, is now under the microscope for its potential anti-aging benefits.

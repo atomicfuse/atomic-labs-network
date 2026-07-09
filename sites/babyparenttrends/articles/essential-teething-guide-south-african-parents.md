@@ -34,6 +34,9 @@ quality_note: >-
   unsupported claims that undermine factual credibility.
 reading_time: 3
 image_alt: Parent comforting a baby with a teether in a warm sunlit home setting
+topics:
+  - Parenting
+  - Baby Care
 ---
 ## Understanding Your Baby's Teething Journey
 

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Sunlit chic living room with modern lighting, greenery, neutral walls, and
   refined decor accents.
+topics:
+  - Decor Ideas
 ---
 
 Transforming your living space doesn't have to be a daunting task. With a few strategic upgrades, you can breathe new life into your home without the burden of extensive renovations. These simple yet effective changes ensure that your home feels fresh, stylish, and inviting, all with minimal effort.

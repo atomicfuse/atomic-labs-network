@@ -28,6 +28,9 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-9-1.jpeg'
   twitter_card: summary_large_image
 image_alt: Elegant public figure in a tailored outfit on a softly lit talk show set
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Michelle Obama, renowned for her sophisticated style and powerful presence, recently graced a popular television program, showcasing her fashion-forward approach. Her choice of attire on this occasion was both contemporary and elegant, drawing significant attention and admiration from fashion enthusiasts and critics alike.

@@ -40,6 +40,8 @@ quality_note: >-
   penalized for being too short at 382 words and appears to contain fabricated
   information about a non-existent Nioh 3 demo release.
 image_alt: Older gaming PC glowing with a samurai battle reflected on the screen
+topics:
+  - Gaming News
 ---
 
 Nioh 3 has surprised gamers with an unexpected demo release on Steam, showcasing impressive performance even on older systems. Team Ninja, renowned for its challenging action games, has previously set high expectations with the Nioh series. This latest installment, although still in its demo phase, indicates promising advancements in gameplay and technical stability.

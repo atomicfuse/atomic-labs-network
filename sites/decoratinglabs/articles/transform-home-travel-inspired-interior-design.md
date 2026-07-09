@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Elegant travel-inspired dining room with layered textures, warm wood, burgundy
   accents, and sculptural lighting.
+topics:
+  - Tips & Advice
+  - decor ideas
 ---
 ## Creating Collected Spaces That Tell Your Story
 

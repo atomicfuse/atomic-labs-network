@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Vintage photos and film negatives reveal a shadowy figure on a glowing monitor
   in a dark archive room.
+topics:
+  - Internet Mysteries
 ---
 
 In the world of the unexplained, few things captivate our imagination as much as mysteries caught on camera. From strange humanoids to eerie photographs, these unsolved mysteries defy explanation and continue to baffle experts and enthusiasts alike. In this article, we delve into ten chilling mysteries captured on film, each one more perplexing than the last.

@@ -43,6 +43,11 @@ quality_note: >-
 image_alt: >-
   Traveler under a glowing moon overlooking dreamlike landscapes and celestial
   constellations
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 
 2026 is set to be a remarkable year for travel enthusiasts who seek inspiration from the cosmos. By aligning travel destinations with your moon sign, you can embark on a journey that resonates with your inner self, offering a unique blend of adventure and introspection. Whether you're a fiery Aries seeking excitement or a grounded Taurus looking for tranquility, these astrological insights can guide your travel plans.

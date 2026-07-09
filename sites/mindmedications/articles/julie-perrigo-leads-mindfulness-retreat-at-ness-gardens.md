@@ -31,6 +31,9 @@ seo:
 image_alt: >-
   People practicing mindfulness in a tranquil garden surrounded by trees and
   soft morning light.
+topics:
+  - Mindfulness
+  - Wellness
 ---
 
 A mindfulness retreat led by wellbeing practitioner Julie Perrigo is bringing a calm, nature-focused experience to Ness Gardens, offering people on Wirral a chance to pause, reset, and reconnect with themselves in one of the region's most peaceful outdoor settings.

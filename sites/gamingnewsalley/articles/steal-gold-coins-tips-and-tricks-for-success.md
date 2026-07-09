@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Gold game coins hover between a controller and legal scales in a dark studio
   setting.
+topics:
+  - Gaming News
 ---
 
 The video game industry is no stranger to controversies, with copyright issues often taking center stage. Recently, a notable case has emerged involving the unauthorized use of gold pieces in a popular game. This situation has sparked significant discussion among developers and legal experts, highlighting the intricate balance between creativity and legal boundaries in game design.

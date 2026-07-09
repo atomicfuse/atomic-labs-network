@@ -35,6 +35,8 @@ quality_note: >-
   keyword relevance.
 reading_time: 2
 image_alt: Empty theater seats with a lone sci-fi helmet under a dim projector beam
+topics:
+  - Hot Trends
 ---
 ## Star Wars Theatrical Struggles Continue
 

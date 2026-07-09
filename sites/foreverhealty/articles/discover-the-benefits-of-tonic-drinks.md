@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Sparkling tonic drink with citrus and herbs beside a softly blurred radio
   microphone in warm morning light.
+topics:
+  - Healthy Living Tips
 ---
 
 In today's fast-paced world, maintaining a healthy lifestyle is more important than ever. With an increasing number of people seeking ways to improve their physical and mental well-being, numerous resources are available to guide them on their journey. One of these resources is a popular radio program that offers insightful discussions on health and wellness. This article explores the various aspects of the show, highlighting its impact on listeners and the key topics it covers.

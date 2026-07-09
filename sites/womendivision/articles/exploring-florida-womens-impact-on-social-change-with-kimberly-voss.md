@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Archival objects in a museum gallery symbolize Florida women’s contributions
   to social change.
+topics:
+  - Advice
 ---
 
 Exploring the transformative role of women in Florida's history offers an enriching perspective on societal progress. The Matheson History Museum in Gainesville, Florida, is showcasing an enlightening exhibit titled "Florida Women: Advice and Social Change," featuring insights from renowned author and historian Kimberly Voss. This exhibit delves into the significant contributions women have made to the state's cultural and social evolution.

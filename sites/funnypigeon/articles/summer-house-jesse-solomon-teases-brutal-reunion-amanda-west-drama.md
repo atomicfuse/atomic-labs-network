@@ -42,6 +42,8 @@ reading_time: 3
 image_alt: >-
   Empty reunion-style studio chairs under purple lighting suggest tense reality
   TV fallout.
+topics:
+  - Viral
 ---
 ## Summer House Reunion Promises Explosive Drama
 

@@ -34,6 +34,8 @@ quality_note: >-
   lacking relevant keywords and SEO optimization for the target audience.
 reading_time: 3
 image_alt: Portable heart monitor and smartphone with ECG waveforms on a calm home table
+topics:
+  - Wellness
 ---
 ## The Rise of At-Home Heart Monitoring
 

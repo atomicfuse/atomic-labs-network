@@ -42,6 +42,9 @@ quality_note: >-
   speculative details about an unreleased 2026 model that may not be factually
   verified.
 image_alt: Sleek electric performance sedan cornering on a racetrack at golden hour
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 The 2026 Hyundai Ioniq 6 N turns Hyundai's sleek electric sedan into a serious performance EV with track-ready hardware, playful software, and enough character to challenge established sport sedans. It takes the low-slung Ioniq 6 platform and adds the attitude, cooling, grip, and tuning expected from Hyundai's N division.

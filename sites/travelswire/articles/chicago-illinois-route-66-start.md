@@ -1,6 +1,9 @@
 ---
-title: "Route 66 Starts Here: A Chicago Guide to the Beginning of the Mother Road"
-description: Where Route 66 actually starts in Chicago — the sign, the diner that's been feeding travelers since 1923, and how to do day one of America's greatest road trip right.
+title: 'Route 66 Starts Here: A Chicago Guide to the Beginning of the Mother Road'
+description: >-
+  Where Route 66 actually starts in Chicago — the sign, the diner that's been
+  feeding travelers since 1923, and how to do day one of America's greatest road
+  trip right.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -15,17 +18,26 @@ slug: chicago-illinois-route-66-start
 reading_time: 6
 featuredImage: /assets/images/chicago-illinois-route-66-start.webp
 seo:
-  og_title: "Route 66 Starts Here: The Chicago Guide to Day One of the Mother Road"
-  og_description: The Route 66 starting sign, Lou Mitchell's diner, and how to spend a perfect day in Chicago before pointing the car west.
+  og_title: 'Route 66 Starts Here: The Chicago Guide to Day One of the Mother Road'
+  og_description: >-
+    The Route 66 starting sign, Lou Mitchell's diner, and how to spend a perfect
+    day in Chicago before pointing the car west.
   twitter_card: summary_large_image
-image_alt: Vintage road trip car on a quiet Chicago street at sunrise, ready to begin a cross-country journey
+image_alt: >-
+  Vintage road trip car on a quiet Chicago street at sunrise, ready to begin a
+  cross-country journey
 scripts:
   - id: 33b4f3d8-150f-4165-866e-ea4c872810fc
     name: travelswire2
     position: after-paragraph-1
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="travelswire2"></div>
+topics:
+  - Destination Guides
 ---
 
 Most Route 66 travelers leave Chicago too fast.

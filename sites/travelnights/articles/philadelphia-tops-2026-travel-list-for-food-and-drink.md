@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Golden-hour Philadelphia rooftop dining scene with cocktails, small plates,
   and historic city architecture
+topics:
+  - Culture
+  - Destinations
+  - Food
 ---
 
 Philadelphia has emerged as a standout destination for travelers seeking a blend of history, culture, and modern attractions. Recognized as one of the top 50 places to visit, the city's unique appeal draws visitors from around the globe, offering an abundance of experiences for all types of travelers.

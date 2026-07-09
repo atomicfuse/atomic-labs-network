@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Cats
+  - Animal Behavior
 image_alt: >-
   Alert tabby cat beside a calm, sunlit feeding station in a tidy modern
   kitchen.

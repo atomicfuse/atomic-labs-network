@@ -1,24 +1,34 @@
 ---
-title: "Master Fika the Jetpack Cat: Abilities, Perks, Playstyle"
-description: "Overwatch 2's Fika, the Jetpack Cat, captivates fans with its unique concept, despite not being a playable character. This whimsical idea highlights the creativity of developers and engages the community through fan art and speculative fiction, enriching the game universe."
-type: "standard"
-status: "published"
-publishDate: "2026-02-26T09:57:35+00:00"
-author: "Taylor Winters"
+title: 'Master Fika the Jetpack Cat: Abilities, Perks, Playstyle'
+description: >-
+  Overwatch 2's Fika, the Jetpack Cat, captivates fans with its unique concept,
+  despite not being a playable character. This whimsical idea highlights the
+  creativity of developers and engages the community through fan art and
+  speculative fiction, enriching the game universe.
+type: standard
+status: published
+publishDate: '2026-02-26T09:57:35+00:00'
+author: Taylor Winters
 tags:
-  - "Cats"
-slug: "master-fika-the-jetpack-cat-abilities-perks-playstyle"
+  - Cats
+slug: master-fika-the-jetpack-cat-abilities-perks-playstyle
 reading_time: 3
-source_url: "https://dogpotato.com/master-fika-the-jetpack-cat-abilities-perks-playstyle/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/master-fika-the-jetpack-cat-abilities-perks-playstyle/'
+imported_from: wordpress
 wp_original_id: 40174
-featuredImage: "/assets/images/master-fika-the-jetpack-cat-abilities-perks-playstyle.webp"
+featuredImage: /assets/images/master-fika-the-jetpack-cat-abilities-perks-playstyle.webp
 seo:
-  canonical: "https://dogpotato.com/master-fika-the-jetpack-cat-abilities-perks-playstyle/"
-  og_title: "Master Fika the Jetpack Cat: Abilities, Perks, Playstyle - Dog Potato"
-  og_description: "Overwatch 2's Fika, the Jetpack Cat, captivates fans with its unique concept, despite not being a playable character. This whimsical idea highlights the creativity of developers and engages the community through fan art and speculative fiction, enriching the game universe."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/02/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/master-fika-the-jetpack-cat-abilities-perks-playstyle/'
+  og_title: 'Master Fika the Jetpack Cat: Abilities, Perks, Playstyle - Dog Potato'
+  og_description: >-
+    Overwatch 2's Fika, the Jetpack Cat, captivates fans with its unique
+    concept, despite not being a playable character. This whimsical idea
+    highlights the creativity of developers and engages the community through
+    fan art and speculative fiction, enriching the game universe.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/02/make_file-5.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Pet Care & Health
 ---
 
 Overwatch 2 is renowned for its vibrant roster of heroes, each bringing unique abilities and stories. Among these heroes, the concept of Fika, the Jetpack Cat, stands out as a fascinating piece of Overwatch lore that has captured the imagination of fans worldwide. Although Fika is not a playable character in the game, the intriguing backstory and creative concept have made it a beloved part of the Overwatch universe.

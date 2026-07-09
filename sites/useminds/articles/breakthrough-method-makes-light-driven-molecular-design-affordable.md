@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Glowing molecular network intersected by light and abstract computing traces
   in a dark science-tech scene.
+topics:
+  - Mind-Blowing Science
 ---
 ## Revolutionary Approach to Molecular Light Switches
 

@@ -37,6 +37,8 @@ quality_note: >-
   vague, potentially fabricated claims about Chinese winemaking practices and
   falls short of target word count.
 image_alt: Artisan stomping fermentation bricks in a warm traditional Chinese winery
+topics:
+  - Wine news
 ---
 ## Ancient Techniques in Modern Times
 

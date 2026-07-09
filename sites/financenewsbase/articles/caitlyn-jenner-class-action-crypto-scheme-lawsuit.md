@@ -31,6 +31,8 @@ quality_note: >-
   falls short of ideal length and could benefit from stronger SEO optimization
   in title and meta description.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 ## Celebrity Crypto Endorsement Turns Into Legal Battle
 

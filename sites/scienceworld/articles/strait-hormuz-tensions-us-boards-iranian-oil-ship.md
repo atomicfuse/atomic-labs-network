@@ -33,6 +33,8 @@ quality_note: >-
   Article contains concerning factual inaccuracies about current events and
   doesn't align well with travel site's destination guide focus.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## Critical Shipping Route Under Pressure
 

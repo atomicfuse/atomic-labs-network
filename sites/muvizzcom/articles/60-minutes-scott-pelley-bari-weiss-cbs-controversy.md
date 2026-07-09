@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Empty newsroom studio with a camera facing a dark anchor desk, suggesting
   turmoil in legacy broadcast media.
+topics:
+  - Celebrity News
 ---
 ## Veteran Journalist Goes Public with Scathing Criticism
 

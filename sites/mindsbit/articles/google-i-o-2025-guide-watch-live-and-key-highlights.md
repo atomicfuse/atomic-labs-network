@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Futuristic tech keynote stage with abstract AI, mobile, and XR visuals above a
   developer audience
+topics:
+  - Tech
 ---
 
 Google I/O, the annual developer conference, is a much-anticipated event in the tech world, offering insights into Google's latest innovations. This year's conference is expected to unveil exciting developments in artificial intelligence, Android updates, and immersive technologies. As tech enthusiasts gear up for Google's announcements, here's what you can expect from the event and how you can watch it live.

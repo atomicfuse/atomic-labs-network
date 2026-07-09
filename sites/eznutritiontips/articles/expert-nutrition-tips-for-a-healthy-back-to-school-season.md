@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Balanced school lunch and backpack arranged on a sunny kitchen counter for
   back-to-school preparation.
+topics:
+  - Healthy Recipes
 ---
 
 As the school year approaches, parents often seek guidance on providing their children with nutritious meals to support their learning and overall well-being. Proper nutrition plays a vital role in a child's academic performance and development, making it essential to focus on balanced meals and healthy eating habits.

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Colorful boat drifting in clear Caribbean shallows under a wide summer sky
   with distant green islands.
+topics:
+  - Destinations
 ---
 ## Caribbean Summer Travel Gains Momentum as Traditional Patterns Shift
 

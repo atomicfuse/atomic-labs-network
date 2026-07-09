@@ -33,6 +33,8 @@ quality_note: >-
   factual accuracy scoring.
 reading_time: 3
 image_alt: Radio telescope prototype in a desert at dusk beneath a star-filled sky
+topics:
+  - Space
 ---
 ## Revolutionary Radio Telescope Takes Its First Steps
 

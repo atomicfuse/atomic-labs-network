@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Confident woman over 50 strength training in a bright studio with an
   empowering, modern feel.
+topics:
+  - Healthy Aging
 ---
 ## The Shift from Age-Based Limitations to Smart Training
 

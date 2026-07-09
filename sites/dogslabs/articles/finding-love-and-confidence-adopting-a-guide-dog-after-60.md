@@ -35,6 +35,9 @@ quality_note: >-
   length (537 words vs 800-1200 target) and relies heavily on vague 'according
   to reports' statements without specific sources.
 image_alt: Older adult walking confidently with a guide dog in a sunny park
+topics:
+  - Animal Behavior
+  - Breed Guides
 ---
 ## A New Chapter of Companionship
 

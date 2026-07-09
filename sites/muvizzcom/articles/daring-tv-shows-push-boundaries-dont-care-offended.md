@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Moody studio set with a glowing TV, scattered props, and shadowy audience
   silhouettes.
+topics:
+  - TV Shows
 ---
 ## The Art of Television Controversy
 

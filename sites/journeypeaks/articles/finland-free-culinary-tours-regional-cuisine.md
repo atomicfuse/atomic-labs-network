@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Nordic outdoor table with Finnish regional foods beside water and pine forest
   in soft autumn light
+topics:
+  - Travel
+  - Travel Tips
+  - Food & Drink
 ---
 ## Finland Positions Itself as a Culinary Destination
 

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   AI-generated game world forming from glowing terrain grids and neural network
   patterns
+topics:
+  - Tech
 ---
 ## AI Transforms Game Development Into Multi-Billion Dollar Market
 

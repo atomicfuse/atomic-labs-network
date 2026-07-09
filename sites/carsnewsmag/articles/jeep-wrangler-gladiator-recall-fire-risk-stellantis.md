@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Generic off-road SUVs parked outdoors in an open lot under a cloudy sky,
   suggesting a safety recall.
+topics:
+  - News
 ---
 ## Major Recall Affects Popular Jeep Models
 

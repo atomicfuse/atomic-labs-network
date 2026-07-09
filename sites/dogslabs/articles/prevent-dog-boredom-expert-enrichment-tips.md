@@ -33,6 +33,8 @@ quality_note: >-
   piece.
 reading_time: 3
 image_alt: 'Happy dog playing with enrichment toys in a warm, sunlit home setting'
+topics:
+  - Pet Care & Health
 ---
 ## Why Dog Enrichment Matters More Than Ever
 

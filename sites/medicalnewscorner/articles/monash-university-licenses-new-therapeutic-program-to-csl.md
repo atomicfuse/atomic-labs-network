@@ -44,6 +44,8 @@ quality_note: >-
   words vs 800-1200 target) and lacks specific details about the therapeutic
   program, making content somewhat generic.
 image_alt: Scientists study a glowing molecular model in a modern biotechnology lab.
+topics:
+  - Research
 ---
 
 Monash University has taken a significant step forward in the field of medical therapeutics by licensing a groundbreaking program to CSL, a leader in global biotechnology. This partnership is poised to advance the development of innovative treatments that may transform patient outcomes worldwide. The collaboration underscores Monash's commitment to leveraging cutting-edge research to address critical health challenges.

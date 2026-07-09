@@ -42,6 +42,8 @@ quality_note: >-
   SEO optimization with weak title/description and limited yoga-specific keyword
   integration.
 image_alt: 'Men practicing yoga on mats in a warm, cozy village pub setting'
+topics:
+  - Yoga Poses
 ---
 
 In the charming village of Trowse, a unique initiative is bringing a new dimension to local pub culture. The White Horse, a beloved local establishment, is now hosting yoga classes exclusively for men. This novel approach aims to break the stereotype that yoga is predominantly for women while also promoting mental and physical well-being among men in the community.

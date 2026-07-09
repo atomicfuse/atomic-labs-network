@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Game controller on a sleek finance table with market grids and autumn-toned
   business lighting.
+topics:
+  - Gaming News
 ---
 
 The video game industry is an ever-evolving landscape with financial trends that are as dynamic as the games themselves. As we progress through the year, it's essential to stay informed about the financial currents shaping this vibrant industry. Understanding these trends can offer valuable insights for developers, investors, and enthusiasts alike.

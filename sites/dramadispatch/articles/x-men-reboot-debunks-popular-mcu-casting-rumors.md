@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   New superhero silhouettes enter a glowing soundstage as a blurred casting
   board fades into the foreground.
+topics:
+  - Movie Reviews
 ---
 
 The Marvel Cinematic Universe (MCU) consistently captivates audiences worldwide, and the anticipation surrounding the X-Men's integration is no exception. As Marvel Studios gears up for a fresh take on these iconic mutants, fans are eager to learn how the beloved characters will be cast and portrayed in this new era.

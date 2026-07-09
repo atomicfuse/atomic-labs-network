@@ -35,6 +35,9 @@ quality_note: >-
   in specific factual content about the actual cast members and is too short at
   547 words.
 reading_time: 3
+topics:
+  - tv shows
+  - spoilers
 ---
 ## The End of an Era
 

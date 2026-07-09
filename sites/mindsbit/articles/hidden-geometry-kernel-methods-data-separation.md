@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Abstract data clusters transform through a glowing geometric surface into
   clearly separated groups.
+topics:
+  - Tech
 ---
 ## The Mathematical Foundation Behind Machine Learning's Success
 

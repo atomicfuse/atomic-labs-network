@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Autonomous rovers build a lunar habitat from moon dust beneath Earth in the
   sky
+topics:
+  - Tech
 ---
 ## The Economics of Lunar Construction
 

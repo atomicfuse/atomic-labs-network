@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Aerial view of a rust-red brine channel cutting through white and pink salt
   crust in a barren desert canyon.
+topics:
+  - Adventure Activities
 ---
 ## A Forbidden Desert Wonder
 

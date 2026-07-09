@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Teenager sitting alone in a quiet clinical room while blurred clinicians stand
   behind glass.
+topics:
+  - Health News
 ---
 ## Legislation Alone Insufficient to Address Coercive Practices
 

@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Stylish person stepping onto a city curb wearing sleek black sneakers and
   tailored casualwear.
+topics:
+  - Fashion
 ---
 
 The fashion industry is ever-evolving, with trends emerging and fading swiftly. Recently, a new wave of black sneakers has captured the spotlight, thanks to the influence of Dakota Johnson. Known for her impeccable style and keen fashion sense, Dakota has once again set the trend with her choice of chic black Nike sneakers. These versatile shoes are quickly becoming a must-have item in wardrobes worldwide.

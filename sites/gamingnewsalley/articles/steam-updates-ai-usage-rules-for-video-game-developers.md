@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Game development workstation with AI visuals and legal verification symbols in
   a modern tech setting
+topics:
+  - Gaming News
 ---
 
 The gaming industry continues to evolve with the integration of artificial intelligence (AI), prompting platforms like Steam to clarify their guidelines. With AI's growing influence, Valve Corporation, the company behind Steam, has established clear rules to ensure fair and ethical use of this technology in video games.

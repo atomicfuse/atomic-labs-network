@@ -36,6 +36,10 @@ reading_time: 2
 image_alt: >-
   A viewer faces glowing genre portals in a dark living room, evoking weekend
   streaming choices.
+topics:
+  - Movies
+  - TV Shows
+  - Streaming
 ---
 ## Your Weekend Streaming Guide: May 29-31
 

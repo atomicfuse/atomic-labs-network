@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Secluded luxury villa at dusk with an infinity pool, palms, and the Pacific
   horizon beyond.
+topics:
+  - Travel
+  - Destinations
 ---
 ## The Rise of Private Villa Luxury in Riviera Nayarit
 

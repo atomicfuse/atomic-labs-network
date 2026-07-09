@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Futuristic beauty products with botanicals and biotech-inspired light patterns
   in a sleek Shanghai setting
+topics:
+  - Beauty
 ---
 
 China's beauty industry is rapidly evolving, poised to become a global leader by 2026. As consumer preferences shift and technology advances, the landscape is transforming in unprecedented ways. Key trends such as personalized skincare, sustainable beauty products, and digital innovation are driving this growth. The market's dynamism is attracting both local and international brands, eager to tap into new opportunities.

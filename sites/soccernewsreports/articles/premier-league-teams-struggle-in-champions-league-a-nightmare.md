@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Dejected footballer under floodlights as distant opponents celebrate on a
   rainy pitch
+topics:
+  - Latest News
+  - Leagues
 ---
 
 The English Premier League is widely regarded as one of the most competitive football leagues globally, consistently attracting top talent and delivering thrilling matches. With its rich history and passionate fan base, the league continues to set the standard in the football world.

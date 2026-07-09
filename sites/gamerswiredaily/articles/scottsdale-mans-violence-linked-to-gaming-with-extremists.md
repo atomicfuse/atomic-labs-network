@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Empty gaming setup glows in a dark room as a desert storm flashes outside the
   window.
+topics:
+  - Gaming News
 ---
 
 In recent developments, the city of Phoenix has been grappling with the impact of severe weather conditions. A major storm recently swept through the region, bringing unexpected challenges to residents and local authorities alike. This event has highlighted the city’s preparedness in dealing with natural disasters and raised questions about future measures to mitigate such impacts.

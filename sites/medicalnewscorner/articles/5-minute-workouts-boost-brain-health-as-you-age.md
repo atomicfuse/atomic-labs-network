@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Older adult stretching in morning light with subtle neural glow suggesting
   brain health
+topics:
+  - Health News
 ---
 
 Engaging in a brief session of physical activity each day could have a significant impact on maintaining brain health as we age. Recent research has highlighted the potential benefits of integrating short bursts of exercise into our daily routines, emphasizing how even minimal physical activity can support cognitive function and overall well-being.

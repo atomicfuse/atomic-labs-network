@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   Blank puzzle grid on a desk with a pencil and subtle right-pointing arrow
   motif
+topics:
+  - Pop Culture
+  - Tutorials
 ---
 
 The NYT Strands puzzle for May 7, 2026, uses the theme **Go right ahead**, and it is a clever one. At first glance, it sounds like permission to continue. However, the puzzle is really pointing solvers toward familiar phrases built around the word *right*.

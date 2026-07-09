@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Clinicians collaborate beside a glowing MRI scanner in a modern medical
   research suite.
+topics:
+  - Research
 ---
 
 Monash University is at the forefront of medical innovation, thanks to its recent acquisition of Victoria's most advanced MRI scanner. This cutting-edge technology is set to revolutionize the way researchers and clinicians understand and treat a variety of health conditions. With its unparalleled imaging capabilities, the scanner will enhance the precision of medical diagnoses and facilitate groundbreaking research.

@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Patterned headscarves rest near Jerusalem stone as worshippers gather softly
   in the background.
+topics:
+  - Culture
 ---
 
 In a remarkable display of unity and reverence, thousands gathered in Jerusalem to participate in the annual Priestly Blessing. This significant event, held at the Western Wall, draws Jewish worshippers from around the world, all seeking to partake in the spiritual aura of this ancient tradition.

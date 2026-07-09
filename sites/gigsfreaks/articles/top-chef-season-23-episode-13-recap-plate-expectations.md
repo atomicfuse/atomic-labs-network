@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Four chefs face an unconventional fine-dining plating setup under warm
   restaurant lights
+topics:
+  - Hot Trends
 ---
 ## The Final Four Face Their Toughest Challenges Yet
 

@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Minimal smartphone reading scene contrasting focused long-form content with
   blurred social feed distractions.
+topics:
+  - Tech
 ---
 ## A Platform Built for Depth Over Distraction
 

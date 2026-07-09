@@ -6,7 +6,7 @@ description: >-
   speculation.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Investment Tips
@@ -37,6 +37,8 @@ quality_note: >-
   hampered by apparent factual inaccuracies regarding company names and specific
   claims that cannot be verified.
 reading_time: 3
+topics:
+  - Investment Tips
 ---
 
 ## STRC Emerges as "Boring" Bitcoin Play

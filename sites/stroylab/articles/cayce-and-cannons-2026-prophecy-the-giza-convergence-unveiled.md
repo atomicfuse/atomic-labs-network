@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Giza pyramids at dawn with abstract glowing networks suggesting shifting
   global power
+topics:
+  - Deep Dives
 ---
 
 In recent years, the global landscape has witnessed significant shifts in geopolitical dynamics. As nations reposition themselves on the world stage, the balance of power is continuously evolving. This dynamic environment has sparked discussions on strategic alliances, economic policies, and global security.

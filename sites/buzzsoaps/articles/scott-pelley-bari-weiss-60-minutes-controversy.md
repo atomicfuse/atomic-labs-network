@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Empty broadcast newsroom with old equipment and modern screens suggesting a
   media power struggle.
+topics:
+  - Culture Buzz
 ---
 ## Veteran Journalist Launches Public Attack on CBS Leadership
 

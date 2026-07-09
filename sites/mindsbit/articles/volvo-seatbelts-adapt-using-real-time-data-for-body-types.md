@@ -41,6 +41,9 @@ quality_note: >-
   short on length and lacks verification of the specific technology claims about
   Volvo's adaptive seatbelts.
 image_alt: Adaptive seatbelt concept in a modern car cabin with subtle sensor glow
+topics:
+  - Innovation
+  - Tech
 ---
 
 Volvo is revolutionizing automotive safety by introducing adaptive seatbelt technology designed to offer a personalized fit for every passenger. This innovative advancement aims to enhance safety by optimizing seatbelt performance based on individual body types, using cutting-edge sensor technology. The initiative underscores Volvo's commitment to pioneering safer driving experiences for all occupants.

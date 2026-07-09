@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Glowing sun with sound-wave rings and magnetic arcs reaching toward distant
   Earth and satellites
+topics:
+  - Tech
 ---
 ## The Sun's Hidden Transformation
 

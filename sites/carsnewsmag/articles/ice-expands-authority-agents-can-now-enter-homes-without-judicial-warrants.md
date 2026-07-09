@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Tense apartment doorway with silhouettes outside and anxious hands near the
   frame
+topics:
+  - News
 ---
 
 In a dramatic policy shift, federal immigration officers are now empowered to enter private residences without a judge's warrant. This change, outlined in an internal Immigration and Customs Enforcement (ICE) memo obtained by The Associated Press, represents a significant departure from previous guidelines that respected constitutional limits on government searches.

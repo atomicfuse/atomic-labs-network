@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Moody Bollywood news scene with a spotlighted luxury car, paparazzi flashes,
   and social media glow
+topics:
+  - News
 ---
 
 In the ever-evolving world of Bollywood, keeping up with the latest developments is a must for fans and industry insiders alike. From movie releases to celebrity controversies, the entertainment industry never ceases to captivate its audience. Let's delve into some of the recent highlights that have been making waves in the Bollywood scene.

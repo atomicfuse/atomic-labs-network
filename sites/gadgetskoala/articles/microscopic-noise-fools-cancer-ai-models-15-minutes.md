@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Digital pathology slide disrupted by subtle glitch patterns and abstract AI
   layers in a clinical lab setting.
+topics:
+  - Gadgets
 ---
 ## Critical Vulnerability Discovered in AI Cancer Detection Systems
 

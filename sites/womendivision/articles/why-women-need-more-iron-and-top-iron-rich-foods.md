@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Women sharing a bright meal with leafy greens, lentils, seeds, lean protein,
   and citrus
+topics:
+  - Lifestyle
 ---
 
 Iron plays a crucial role in maintaining overall health, with women requiring more of this vital nutrient than men. Understanding why this disparity exists and identifying iron-rich foods can help women maintain optimal health and prevent iron deficiency.

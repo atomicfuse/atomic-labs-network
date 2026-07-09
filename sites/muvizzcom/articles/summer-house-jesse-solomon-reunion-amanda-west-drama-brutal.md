@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Empty reunion set with separated couches and dramatic studio lighting
   suggesting reality TV conflict.
+topics:
+  - TV Shows
 ---
 ## Jesse Solomon Previews Explosive Summer House Reunion
 

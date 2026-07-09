@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Active adult in their 60s climbing sunlit stairs with a water bottle and
   greenery nearby
+topics:
+  - Wellness
 ---
 ## The Science Behind Aging at 60
 

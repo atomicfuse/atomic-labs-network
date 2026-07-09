@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Luxury cruise ship sailing through an Alaskan fjord with glaciers and a
   refined deck dining setting
+topics:
+  - Destination Guides
 ---
 ## Luxury Cruise Line Debuts Alaska Itineraries
 

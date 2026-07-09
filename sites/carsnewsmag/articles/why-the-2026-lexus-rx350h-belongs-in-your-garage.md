@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Luxury hybrid SUV in a modern garage with warm light, greenery, and refined
   upscale details
+topics:
+  - Reviews
 ---
 
 The automotive market continues to entice consumers with innovative designs and technology, and the 2026 Lexus RX350h exemplifies this trend. This luxury SUV stands out with its blend of performance, style, and eco-friendly features, making it a worthy contender for anyone considering an upgrade to their garage.

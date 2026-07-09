@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Chalk cliffs at dawn with ancient artifacts and a glowing DNA strand
   suggesting Roman-era migration
+topics:
+  - Space
 ---
 
 Recent advancements in ancient DNA analysis have brought a new perspective to the historical narrative of Beachy Head Woman, an intriguing figure from Britain's distant past. This fascinating discovery sheds light on her origins and challenges previous assumptions about Britain's early inhabitants, offering a fresh understanding of migration patterns and cultural exchanges during the Roman era.

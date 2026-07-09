@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Spring travel essentials on a café table with soft European city details in
   the background
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 As the Easter holiday season approaches, families and holidaymakers are eager to finalize their travel plans. Top destinations like Dublin, Amsterdam, and Spain are on the popular list. However, there are some essential details to keep in mind before packing your bags for these hotspots.

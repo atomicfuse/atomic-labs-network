@@ -33,6 +33,8 @@ seo:
 image_alt: >-
   Futuristic sustainable cosmetics arranged with inclusive tones and soft New
   York studio lighting
+topics:
+  - Beauty
 ---
 
 The world of cosmetics is constantly evolving, with new trends and innovations emerging every year. The Makeup in New York 2025 event promises to be a groundbreaking showcase of these advancements, setting the stage for what is to come in the beauty industry. Held annually, this event draws industry leaders from around the globe to present the latest in makeup technology, sustainable practices, and creative design.

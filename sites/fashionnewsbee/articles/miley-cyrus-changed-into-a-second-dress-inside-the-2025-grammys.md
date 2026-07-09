@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Glamorous performer backstage in a sleek gown beside a wardrobe rack under
   golden awards-night lighting.
+topics:
+  - Beauty
 ---
 
 A Miley Cyrus award ceremony arrival includes a few certainties: a stunning, radiant face; a much-talked-about hairdo; and, as the 2025 Grammys would have it, a gorgeous outfit change for the actual show.

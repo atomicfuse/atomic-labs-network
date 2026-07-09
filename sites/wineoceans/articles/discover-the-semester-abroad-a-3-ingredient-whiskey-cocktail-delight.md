@@ -36,6 +36,8 @@ quality_note: >-
   doesn't align with wine-focused content guidelines despite being on a wine
   site.
 image_alt: Amber whiskey cocktail on a wooden bar with warm travel-inspired café styling
+topics:
+  - Wine news
 ---
 ## A New Addition to the Cocktail Scene
 

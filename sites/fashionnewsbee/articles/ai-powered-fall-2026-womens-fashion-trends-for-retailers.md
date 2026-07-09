@@ -33,6 +33,8 @@ seo:
 image_alt: >-
   Modern fashion showroom with fall womenswear and subtle AI-inspired data light
   patterns
+topics:
+  - Fashion
 ---
 
 The fashion industry continuously evolves, with each season bringing fresh trends and innovative buying strategies. Embracing this dynamic environment, JOOR, a leading wholesale management platform, has introduced an advanced AI tool to enhance the shopping experience. This innovation aims to assist retailers in identifying and purchasing key fashion trends for Fall 2026, offering a more strategic and efficient approach.

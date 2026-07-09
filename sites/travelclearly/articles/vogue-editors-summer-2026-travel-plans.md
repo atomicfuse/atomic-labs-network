@@ -33,6 +33,10 @@ reading_time: 3
 image_alt: >-
   Elegant summer travel essentials on a sunlit terrace overlooking a turquoise
   coastal bay.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Where Fashion's Tastemakers Are Heading This Summer
 

@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Mysterious metallic object drifting in shadow near an icy asteroid in deep
   space
+topics:
+  - Space
 ---
 
 In recent years, the possibility of extraterrestrial intelligence visiting our solar system has sparked intense interest among scientists and the public alike. Recent studies suggest that alien probes could already be lurking in our cosmic neighborhood, waiting to be discovered. These probes, potentially designed by advanced civilizations, might be observing our planet or gathering valuable data from the solar system.

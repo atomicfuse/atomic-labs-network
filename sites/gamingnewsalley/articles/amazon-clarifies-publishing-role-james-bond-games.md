@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Silhouetted spy beside a holographic game map as hands exchange a metallic
   token.
+topics:
+  - Gaming News
 ---
 ## Amazon Sets Record Straight on James Bond Gaming Partnership
 

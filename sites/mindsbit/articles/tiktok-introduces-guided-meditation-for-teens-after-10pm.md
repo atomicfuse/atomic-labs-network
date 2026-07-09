@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Teen relaxing in a moonlit bedroom as soft abstract audio waves glow from a
   phone.
+topics:
+  - Innovation
+  - Mind
 ---
 
 TikTok, a vibrant platform known for its diverse content, is expanding its horizons by delving into wellness. Recently, the app introduced a new feature aimed at promoting relaxation and mental well-being. This endeavor aligns with the growing trend of digital platforms incorporating wellness initiatives to enhance user experience and engagement.

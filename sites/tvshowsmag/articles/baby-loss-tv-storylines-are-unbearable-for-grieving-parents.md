@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A couple sits quietly in a dim living room, lit by the glow of an unseen
   television.
+topics:
+  - TV News
 ---
 
 Television has long shaped how audiences understand family life, illness and grief. Now, more dramas and soaps are giving space to baby loss, including miscarriage, stillbirth, ectopic pregnancy and neonatal death. When these stories are written with care, they can help bereaved parents feel seen and encourage others to speak with more compassion.

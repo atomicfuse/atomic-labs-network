@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Cozy spring patio with neutral seating, blue accents, potted plants, and a
   styled outdoor coffee table.
+topics:
+  - Decor Ideas
 ---
 
 A spring patio makeover is one of the simplest ways to make an outdoor living space feel fresh, welcoming, and ready for warmer days. In part 2 of this patio decorating series, the focus is on refreshing the patio with seasonal outdoor decor, pretty plants, comfortable seating, and thoughtful details that make the space feel like an extension of the home.

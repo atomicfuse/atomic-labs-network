@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Stylish living room with curated vintage decor, warm light, and layered
   textures
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Transforming your home into a stylish haven doesn't have to break the bank. With a keen eye and a bit of creativity, thrift stores can become treasure troves for exquisite home decor. In this guide, we'll delve into the art of thrifting high-end home decor and share practical tips for integrating these finds into your living space. Join us on this journey as we uncover unique pieces and explore the endless possibilities of budget-friendly decorating.

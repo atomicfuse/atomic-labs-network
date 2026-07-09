@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Sunlit fashion studio with colorful summer dresses, sandals, and a model
   choosing an elevated budget-friendly look.
+topics:
+  - Travel Tips
+  - Destinations
 ---
 ## Summer Shopping Just Got More Affordable
 

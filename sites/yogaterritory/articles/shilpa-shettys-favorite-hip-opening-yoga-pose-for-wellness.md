@@ -42,6 +42,8 @@ quality_note: >-
   Well-written article with good tone and accurate content, but significantly
   under the target word count at only 410 words versus the 800-1200 range.
 image_alt: Woman practicing a hip-opening yoga pose in a calm sunlit studio
+topics:
+  - Wellness
 ---
 
 In the realm of holistic health and fitness, yoga continues to be a revered practice for achieving physical and mental balance. One pose that has garnered attention for its comprehensive benefits is the hip-opening yoga pose, often endorsed by fitness enthusiasts for its transformative effects on the body and mind.

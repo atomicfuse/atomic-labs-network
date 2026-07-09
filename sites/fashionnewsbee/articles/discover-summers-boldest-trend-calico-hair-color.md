@@ -29,6 +29,8 @@ seo:
 image_alt: >-
   Model with glossy calico-inspired hair in a bright summer beauty editorial
   setting.
+topics:
+  - Beauty
 ---
 
 In the world of hair color, new trends constantly emerge, offering exciting ways to express individuality and style. One of the latest trends capturing attention is the calico hair color trend. Inspired by the unique patterns found in calico cats, this hair color technique blends multiple shades to create a visually striking and dynamic look that is both playful and sophisticated.

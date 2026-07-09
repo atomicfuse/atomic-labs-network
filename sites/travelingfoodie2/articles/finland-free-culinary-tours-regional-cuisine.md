@@ -39,6 +39,8 @@ reading_time: 2
 image_alt: >-
   Nordic tasting table blending Finnish coastal and Arctic ingredients in a
   twilight landscape
+topics:
+  - food
 ---
 ## Finland Pivots to Culinary Tourism with Free Regional Food Experiences
 

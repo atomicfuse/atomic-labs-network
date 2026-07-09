@@ -1,11 +1,11 @@
 ---
-title: "Ethereum's DeFi Market Share Drops to 53%, Multi-Year Low"
+title: 'Ethereum''s DeFi Market Share Drops to 53%, Multi-Year Low'
 description: >-
   Ethereum's dominance in DeFi has fallen from 63.5% to 53% in 16 months as
   Solana, BNB Chain, and Layer-2 solutions capture significant market share.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -35,6 +35,8 @@ quality_note: >-
   short at 614 words and lacks specific data sources for the claims made about
   Ethereum's market share decline.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Ethereum Loses Ground in DeFi Race

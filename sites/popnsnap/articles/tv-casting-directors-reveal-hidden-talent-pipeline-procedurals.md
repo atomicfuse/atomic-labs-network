@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Emerging actors wait backstage near casting headshots and glowing TV
   production monitors.
+topics:
+  - TV & Movies
 ---
 ## The Fast-Paced World of Procedural Casting
 

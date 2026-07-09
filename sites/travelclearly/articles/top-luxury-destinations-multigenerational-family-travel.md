@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Multigenerational family walking on a luxury resort terrace overlooking calm
   turquoise water at sunrise
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Rise of Multigenerational Luxury Travel
 

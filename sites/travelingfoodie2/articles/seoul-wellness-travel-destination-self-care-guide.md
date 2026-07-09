@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Serene Seoul wellness lounge with greenery, spa details, and a relaxed
   traveler overlooking the city.
+topics:
+  - Destination Guides
 ---
 ## Seoul's Rise as a Wellness Tourism Hub
 

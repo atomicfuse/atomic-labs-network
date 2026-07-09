@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Prescription vial and petri dish on a clinical lab bench suggesting drug
   repurposing against superbugs
+topics:
+  - Space
 ---
 
 A widely used blood pressure medicine may offer an unexpected advantage in the fight against antibiotic-resistant infection. Researchers have found that amlodipine, a common calcium channel blocker, can weaken Acinetobacter baumannii, a dangerous hospital superbug that has become increasingly hard to treat.

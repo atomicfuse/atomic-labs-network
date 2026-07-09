@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Astronauts float inside an orbital station as Earth glows beyond the window
   and a capsule waits outside.
+topics:
+  - Space
 ---
 
 In an unexpected turn of events, a group of astronauts finds themselves in an extended stay aboard the International Space Station (ISS) due to a technical malfunction in their return spacecraft. This situation has highlighted both the challenges and the resilience of space exploration, reminding us of the complexities involved in missions beyond our planet.

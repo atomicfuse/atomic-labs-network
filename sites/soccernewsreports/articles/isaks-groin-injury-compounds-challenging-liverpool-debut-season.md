@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Footballer in a red kit stands injured under stadium lights as teammates train
   in the background.
+topics:
+  - Latest News
 ---
 
 The world of soccer is no stranger to the challenges of maintaining player health amidst a demanding schedule. Teams like Liverpool FC often face hurdles when injuries strike key players. Such setbacks not only impact team performance but also test the depth and resilience of a squad.

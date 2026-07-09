@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Arctic seed vault entrance glowing warmly as frost-covered seeds rest in the
   snow nearby
+topics:
+  - Deep Dives
 ---
 
 Hidden deep within the Arctic Circle lies a crucial facility that plays a vital role in preserving global agricultural diversity: the Svalbard Global Seed Vault. This remarkable structure, sometimes referred to as the "Doomsday Vault," is designed to safeguard the genetic material of the world's crops, ensuring food security for future generations in case of a global catastrophe.

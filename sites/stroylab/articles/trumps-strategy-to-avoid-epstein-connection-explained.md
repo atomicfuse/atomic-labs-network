@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Empty podium in a shadowed press room suggesting political controversy and
   avoidance
+topics:
+  - Deep Dives
 ---
 
 The global financial landscape is witnessing a significant shift as geopolitical tensions rise and economic alliances evolve. Recent developments indicate a potential move away from the dominance of Western currencies and institutions as emerging economies explore alternative financial systems and partnerships. This transformation is driven by a combination of technological advancements, strategic interests, and the desire for greater financial autonomy among nations.

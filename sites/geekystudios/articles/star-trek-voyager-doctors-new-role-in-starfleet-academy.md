@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Futuristic cadets gather around a glowing holographic mentor in a sleek space
   academy atrium.
+topics:
+  - Pop Culture
 ---
 
 Star Trek continues to captivate audiences with its ever-expanding universe, and the upcoming series "Star Trek: Starfleet Academy" promises to introduce a fresh narrative. One of the most exciting developments is the involvement of a familiar face from "Star Trek: Voyager"—The Doctor, played by Robert Picardo, who is set to take on a new and intriguing role.

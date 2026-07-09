@@ -35,6 +35,8 @@ quality_note: >-
 image_alt: >-
   Calm dog in a modern veterinary lab with subtle abstract microbiome patterns
   around it
+topics:
+  - Space
 ---
 
 Recent research has uncovered fascinating connections between the gut microbiome of dogs and their cancer prognosis. This exciting development in veterinary science could lead to new diagnostic tools and treatment options for canine cancer, which remains one of the leading health concerns for dogs worldwide. Understanding these microbial correlations not only deepens our knowledge of canine health but also provides insights into broader animal and even human medical conditions.

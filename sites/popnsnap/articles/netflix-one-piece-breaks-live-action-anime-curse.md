@@ -1,5 +1,5 @@
 ---
-title: "One Piece Anime Live-Action on Netflix"
+title: One Piece Anime Live-Action on Netflix
 description: >-
   Netflix's One Piece adaptation succeeds where others failed, capturing the
   heart of Eiichiro Oda's beloved manga with stellar casting and authentic
@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   A young pirate crew stands on a ship at sunrise, facing a fantastical island
   across the sea.
+topics:
+  - TV & Movies
 ---
 ## A Legendary Manga Finally Gets the Treatment It Deserves
 

@@ -36,6 +36,8 @@ seo:
 image_alt: >-
   Unbranded sustainable skincare bottles with native botanicals and subtle
   digital retail accents
+topics:
+  - Beauty
 ---
 
 A surge in consumer interest towards sustainable and innovative skincare solutions is shaping the facial care market in Australia. This dynamic shift is driven by clean beauty trends, groundbreaking skincare innovations, and the escalating growth of digital retail platforms. As more consumers prioritize natural ingredients and environmental sustainability, brands are evolving to meet these demands with creative and eco-friendly products.

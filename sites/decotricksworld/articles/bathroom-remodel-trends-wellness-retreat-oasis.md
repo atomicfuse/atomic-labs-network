@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Serene spa-like bathroom with soaking tub, warm finishes, glass shower, and
   soft natural light
+topics:
+  - Expert Guides
 ---
 ## The Shift From Function to Wellness
 

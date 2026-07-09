@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Modern Chinese skyline with a game controller and orderly floating digital
   game tiles in red and gold light
+topics:
+  - Gaming News
 ---
 
 China's video game industry continues to evolve as the nation's regulatory body, the National Press and Publication Administration (NPPA), recently approved a new batch of video games. In July 2025, 134 games received the green light, reflecting a significant step in the country's gaming landscape. This move comes as part of China's broader strategy to balance the demand for digital entertainment with regulatory oversight.

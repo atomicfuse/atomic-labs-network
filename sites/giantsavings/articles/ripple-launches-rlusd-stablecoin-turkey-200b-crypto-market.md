@@ -37,6 +37,8 @@ quality_note: >-
   fabricated claims about specific partnerships and market data.
 reading_time: 3
 image_alt: Abstract digital dollar coin over Turkey with glowing fintech network lines
+topics:
+  - Smart Shopping
 ---
 ## Ripple Expands Digital Dollar Access in Turkey
 

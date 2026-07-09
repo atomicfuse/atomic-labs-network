@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Latino teens gather around a smartphone, balancing concern and support in a
   nuanced digital moment.
+topics:
+  - Parenting
+  - Children’s Health
 ---
 ## Youth Take the Lead in Mental Health Research
 

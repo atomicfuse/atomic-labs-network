@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Blank puzzle tiles surrounded by citrus slices and a small press on a bright
   tabletop
+topics:
+  - Pop Culture
+  - Tutorials
 ---
 
 Need help with the NYT Strands puzzle for May 18, 2026? Today's theme, **The Daily Rind**, points solvers toward a bright, tangy category with wordplay built into the clue. If the grid feels slippery, use the hints below to narrow your search before checking the answers.

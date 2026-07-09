@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   High-end gaming PC powering a cinematic creator workstation with abstract
   editing and 3D visuals
+topics:
+  - Gaming News
 ---
 
 When it comes to performance, gaming PCs have long been leading the pack. However, their prowess isn't limited to just gaming. As a recent experience with an RTX 50 series computer has shown, these machines also excel at a range of other tasks, including content creation.

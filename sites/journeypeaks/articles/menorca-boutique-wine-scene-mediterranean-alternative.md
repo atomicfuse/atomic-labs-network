@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Golden Menorcan vineyard terrace with wine glasses overlooking a quiet
   Mediterranean cove
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## A Hidden Mediterranean Wine Destination
 

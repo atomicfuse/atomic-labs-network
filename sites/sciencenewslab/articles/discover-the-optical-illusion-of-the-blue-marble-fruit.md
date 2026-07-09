@@ -38,6 +38,10 @@ quality_note: >-
 image_alt: >-
   Iridescent blue marble berries gleam on a rainforest branch with abstract
   light patterns.
+topics:
+  - Nature
+  - Physics
+  - Technology
 ---
 
 Nature continuously astonishes us with its extraordinary phenomena, and among these wonders is a vibrant fruit that appears to defy color expectations. The Pollia condensata, also known as the African marble berry, showcases a striking blue appearance. However, this fruit's vivid hue is not due to pigments but is a result of a remarkable optical illusion created by its unique structural properties.

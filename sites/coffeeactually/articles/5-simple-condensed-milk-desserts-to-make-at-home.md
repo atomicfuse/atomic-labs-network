@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Homemade condensed milk desserts arranged on a bright kitchen counter with
   soft natural light.
+topics:
+  - Coffee News
 ---
 
 Condensed milk is a versatile ingredient that can transform simple recipes into delightful desserts with minimal effort. Its rich and creamy texture makes it a favorite among home bakers looking for quick and satisfying sweet treats. Whether you're a seasoned baker or a novice in the kitchen, there are numerous ways to incorporate condensed milk into your dessert repertoire.

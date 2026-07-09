@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Biscayne Bay at dawn with seagrass, monitoring buoys, mangroves, and a hazy
   Miami skyline.
+topics:
+  - Mind-Blowing Science
 ---
 ## A Critical Ecosystem Under Pressure
 

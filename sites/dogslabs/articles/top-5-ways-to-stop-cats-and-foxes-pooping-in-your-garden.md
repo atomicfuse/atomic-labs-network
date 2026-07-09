@@ -35,6 +35,8 @@ quality_note: >-
   target 800-1200) and could benefit from stronger SEO optimization and more
   specific pet-focused content.
 image_alt: A tidy garden with humane deterrents as a cat and fox linger near the edge
+topics:
+  - Animal Behavior
 ---
 ## Understanding the Problem
 

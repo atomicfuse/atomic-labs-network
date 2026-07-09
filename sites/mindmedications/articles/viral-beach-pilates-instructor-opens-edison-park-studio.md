@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Young Pilates founder in a sunlit boutique studio with clients gathering
   around mats.
+topics:
+  - Wellness
 ---
 ## From Beach Classes to Boutique Studio
 

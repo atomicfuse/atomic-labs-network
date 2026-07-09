@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Trans gamer bathed in soft colorful light as a glowing avatar forms on a
   screen.
+topics:
+  - Gaming News
 ---
 
 Video games have long been a source of entertainment, offering players a chance to explore new worlds and identities. For transgender players, these digital landscapes can offer a unique form of self-expression and euphoria. By allowing users to experiment with gender identity and expression, video games provide a space where players can be their authentic selves without societal constraints.

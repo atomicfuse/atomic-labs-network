@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Two footballers sprint for the ball under stadium lights with a city skyline
   in the background.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 The English Premier League players are set for a demanding year ahead, with a packed schedule and high expectations. Recently, West Ham United triumphed over Everton in a friendly match held in Chicago, showcasing the intense competition and skill level that fans can expect in the upcoming season.

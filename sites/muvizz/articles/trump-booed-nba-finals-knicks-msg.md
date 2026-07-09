@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Packed basketball arena crowd reacts as a political figure appears on the
   overhead screen.
+topics:
+  - Breaking News
 ---
 ## Trump Faces Hostile Reception at Historic Knicks Game
 

@@ -39,6 +39,8 @@ quality_note: >-
   The article has good tone and factual content but is too short, lacks SEO
   optimization, and doesn't align well with the site's healthy living focus.
 image_alt: Pregnant woman in a warm kitchen as an older relative cooks in the background
+topics:
+  - Advice
 ---
 
 Family dynamics can be complex, especially when it involves in-laws and personal preferences. One pregnant woman found herself in such a predicament when she sought advice on how to address a sensitive issue with her mother-in-law. The expectant mother, who is typically easygoing, found herself struggling with her mother-in-law's cooking, which didn't align with her tastes. This common scenario has sparked discussions and offered a glimpse into managing familial relationships delicately.

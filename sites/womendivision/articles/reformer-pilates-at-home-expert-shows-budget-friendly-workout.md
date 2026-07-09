@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman doing a slider Pilates lunge in a sunlit living room with resistance
   bands nearby
+topics:
+  - Fitness
 ---
 ## The Rise of Reformer Pilates and Its Accessibility Challenge
 

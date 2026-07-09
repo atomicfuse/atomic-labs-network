@@ -36,6 +36,8 @@ quality_note: >-
   hantavirus outbreak, making it unsuitable for publication due to severe
   factual accuracy issues and poor relevance to entertainment content.
 reading_time: 3
+topics:
+  - Celebrity News
 ---
 ## Today Show Host Caught Up in Health Crisis
 

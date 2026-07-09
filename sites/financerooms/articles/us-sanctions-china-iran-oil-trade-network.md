@@ -36,6 +36,11 @@ quality_note: >-
   word count and relies heavily on vague 'according to reports' without specific
   sources.
 reading_time: 3
+topics:
+  - Economic Trends
+  - Market Analysis
+  - Personal Finance
+  - Investment Tips
 ---
 ## Major Escalation in U.S. Sanctions Policy
 

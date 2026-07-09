@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   A calm yoga practitioner meditates in warm sunlight with subtle sound-like
   light patterns around the head.
+topics:
+  - Yoga Poses
 ---
 
 Yoga, a centuries-old practice originating from India, has been known for its holistic health benefits. It doesn't only improve physical strength and flexibility, but it also aids in the well-being of various body parts, including our hearing abilities. If you're experiencing hearing loss or want to enhance your auditory health, yoga can be a beneficial ally. Let's explore some yoga poses that are particularly helpful for promoting better auditory health.

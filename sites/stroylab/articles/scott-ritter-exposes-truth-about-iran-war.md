@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted analysts study a glowing Middle East map with abstract
   cybersecurity data lines.
+topics:
+  - Deep Dives
 ---
 
 The global landscape of information and technology is witnessing a transformative era, characterized by rapid advancements and growing complexities. As societies become increasingly interconnected, the stakes for maintaining privacy and security rise significantly, prompting widespread discussions about the implications of technological integration in our daily lives.

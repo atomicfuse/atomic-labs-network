@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Two women discuss parenting in a warm podcast studio with subtle family
   keepsakes nearby.
+topics:
+  - Parenting
 ---
 
 In recent years, Turkish television dramas have captured global audiences with their compelling storytelling and vibrant characters. One such show that has garnered attention is "Kalp Yarasi," a gripping series that intertwines romance and drama in a way that keeps viewers on the edge of their seats. The narrative unfolds in the picturesque Turkish landscapes, adding an extra layer of allure to the already captivating plot.

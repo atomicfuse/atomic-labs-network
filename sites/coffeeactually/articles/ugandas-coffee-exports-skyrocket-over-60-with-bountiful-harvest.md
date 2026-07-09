@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Sunlit Ugandan coffee harvest with beans, cherries, and sacks suggesting
   rising global exports
+topics:
+  - Coffee News
 ---
 
 Uganda has emerged as a prominent player in the global coffee market, experiencing a significant surge in coffee shipments. This remarkable growth, over 60% in recent months, is largely attributed to a bountiful harvest driven by favorable weather conditions and expanded cultivation efforts. This development not only highlights Uganda's agricultural prowess but also underscores the nation's strategic role in the coffee industry.

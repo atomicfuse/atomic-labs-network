@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Silver space telescope mirror reflecting distant galaxies in a dark futuristic
   cleanroom
+topics:
+  - Gadgets
 ---
 ## NASA Achieves Major Milestone for Next-Generation Space Observatory
 

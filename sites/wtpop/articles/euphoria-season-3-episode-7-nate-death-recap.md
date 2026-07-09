@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A tense young woman stands in a dim blue kitchen as red light spills from a
   chaotic hallway.
+topics:
+  - TV & Movies
 ---
 ## A Death That Surprised No One
 

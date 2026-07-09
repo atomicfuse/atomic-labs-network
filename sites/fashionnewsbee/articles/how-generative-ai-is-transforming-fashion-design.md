@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Futuristic fashion atelier with a sculptural garment emerging from glowing
   digital design patterns.
+topics:
+  - Fashion
 ---
 
 Generative AI is transforming the fashion industry by reshaping how designers approach their craft through innovative tools and methodologies. This technological advancement offers a fresh perspective, enabling creatives to explore uncharted territories in design, enhance efficiency, and foster inclusivity in fashion.

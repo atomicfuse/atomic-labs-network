@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Spotlit audition chair in a busy casting room with professionals reviewing
   actor profiles nearby.
+topics:
+  - Hot Trends
 ---
 ## The Fast-Paced World of Procedural Casting
 

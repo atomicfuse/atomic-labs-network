@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Sleek smart glasses with subtle holographic interface elements on a reflective
   surface
+topics:
+  - Innovation
+  - Tech
 ---
 
 Meta's latest innovations were unveiled at the much-anticipated Meta Connect 2025, a significant event that showcased the company's strides in technology. Among the highlights were the new Ray-Ban and Oakley smart glasses, which represent a leap forward in wearable tech. These glasses are designed to integrate seamlessly into daily life, offering advanced features and connectivity.

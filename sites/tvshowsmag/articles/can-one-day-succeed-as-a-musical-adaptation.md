@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A warmly lit empty theater stage with a notebook and shoes under a dramatic
   spotlight.
+topics:
+  - TV News
 ---
 
 The vibrant world of musical theater is set to welcome a new production, promising to captivate audiences with its compelling story and unforgettable music. This exciting venture brings together the creative genius of renowned playwright David Greig and celebrated novelist David Nicholls. Their collaboration is set to light up the stage at the esteemed Edinburgh Lyceum Theatre, offering a fresh, dynamic experience for theatergoers.

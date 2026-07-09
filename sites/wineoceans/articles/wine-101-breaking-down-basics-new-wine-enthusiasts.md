@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Sunlit wine tasting setup with glasses, grapes, cheese, decanter, and a blank
   notebook on a kitchen table.
+topics:
+  - Wine for beginners
 ---
 ## The Rise of Accessible Wine Education
 

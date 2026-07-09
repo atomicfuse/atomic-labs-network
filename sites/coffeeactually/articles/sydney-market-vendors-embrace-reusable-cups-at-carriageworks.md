@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Reusable coffee cup exchanged at a lively farmers market stall in warm morning
   light.
+topics:
+  - Coffee News
 ---
 
 Sydney's coffee culture is taking a significant step towards sustainability as coffee vendors at the Carriageworks Farmers Market eliminate single-use coffee cups. This bold move not only emphasizes environmental responsibility but also sets a precedent for other markets and vendors to follow. As the world continues to grapple with environmental challenges, initiatives like this highlight the importance of community-driven efforts in fostering sustainable practices.

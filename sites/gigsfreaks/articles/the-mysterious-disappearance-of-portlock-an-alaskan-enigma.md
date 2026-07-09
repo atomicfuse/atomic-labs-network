@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Fog surrounds abandoned cabins and docks in a remote Alaskan coastal ghost
   town.
+topics:
+  - Internet Mysteries
 ---
 
 Portlock, Alaska, is a name that resonates with mystery and intrigue. This remote coastal town, once bustling with over 600 residents, is now an eerie reminder of a past steeped in fear and uncertainty. The story of Portlock's sudden abandonment is one that captivates historians and mystery enthusiasts alike.

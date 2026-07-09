@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Researchers face a glowing horizon blending science, history, space, medicine,
   energy, and AI discoveries.
+topics:
+  - Research
 ---
 
 In the past year, remarkable discoveries have emerged across various fields, redefining our understanding of the world. From ancient archaeological finds to advancements in space exploration, these revelations not only spark curiosity but also promise to shape future innovations.

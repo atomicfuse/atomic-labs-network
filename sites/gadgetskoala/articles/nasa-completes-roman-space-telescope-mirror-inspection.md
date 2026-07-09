@@ -32,6 +32,8 @@ quality_note: >-
   gaming, and mobile devices.
 reading_time: 3
 image_alt: Polished space telescope mirror in a cleanroom reflecting distant galaxies
+topics:
+  - Gadgets
 ---
 ## Major Milestone for Space Astronomy
 

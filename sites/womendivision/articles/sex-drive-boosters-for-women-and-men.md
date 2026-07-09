@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Adult couple holding hands in a calm bedroom, suggesting supportive sexual
   health care.
+topics:
+  - Advice
+  - Lifestyle
 ---
 
 Many women search for a simple answer to low libido, arousal changes, or difficulty enjoying sex. Because sildenafil is well known for treating erectile dysfunction, it is natural to wonder whether there is a similar option for women. The short answer is more complex than a yes or no. Women's sexual health involves blood flow, hormones, mood, medications, relationships, stress, and pain. That means treatment usually works best when it is tailored to the real cause of the problem.

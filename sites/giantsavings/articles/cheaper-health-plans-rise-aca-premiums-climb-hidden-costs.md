@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Medical bills, calculator, and insurance papers on a table as a person weighs
   coverage choices in the background.
+topics:
+  - Bills & Utilities
 ---
 ## The Rise of Alternative Health Coverage
 

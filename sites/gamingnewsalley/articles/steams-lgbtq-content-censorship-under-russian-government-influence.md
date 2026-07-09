@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Gaming monitor with censored digital tiles and a muted rainbow glow blocked by
   an imposing shadow.
+topics:
+  - Gaming News
 ---
 
 In the world of digital gaming, platforms like Steam serve as pivotal gateways for content creators and consumers. However, there have been ongoing discussions about how Steam manages and sometimes restricts LGBTQ+ content. This issue raises significant questions about censorship, content regulation, and the impact on diverse voices in the gaming community.

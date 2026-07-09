@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Moody podcast studio with microphone, headphones, vinyl record, and concert
   lights in the background
+topics:
+  - Music Spotlight
 ---
 ## Taylor Swift Breaks New Ground with First Podcast Appearance
 

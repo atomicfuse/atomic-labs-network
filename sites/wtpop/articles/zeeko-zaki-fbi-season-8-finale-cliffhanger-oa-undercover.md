@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   A conflicted agent stands between a government office and a dark rainy city
   street.
+topics:
+  - TV & Movies
 ---
 ## OA's Shocking Exit Sets Up Major Season 9 Storyline
 

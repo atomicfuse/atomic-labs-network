@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Baristas celebrate coffee craft at a warm café competition counter with
   steaming cups and polished tools.
+topics:
+  - Coffee News
 ---
 
 Starbucks Philippines has put the spotlight back on barista excellence with the naming of its 2026 Coffee Champions, following a nationwide competition that tested skill, product knowledge, creativity, and passion for coffee. The annual barista contest brought together standout partners from across the country, transforming a technical competition into a celebration of craft, community, and Filipino coffee culture.

@@ -42,6 +42,10 @@ quality_note: >-
   significantly under target word count at 607 words versus the 800-1200 word
   target range.
 image_alt: Colorful global dishes arranged on an elegant travel-inspired table setting
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Exploring new destinations not only broadens your horizons but also tantalizes your taste buds with a variety of culinary experiences. For those with a passion for both travel and gastronomy, certain places around the globe offer an exquisite blend of scenic beauty and mouthwatering cuisine. Here, we delve into some of the top international travel destinations renowned for their exceptional food culture.

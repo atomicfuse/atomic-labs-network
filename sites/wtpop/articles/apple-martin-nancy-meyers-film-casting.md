@@ -35,6 +35,9 @@ reading_time: 2
 image_alt: >-
   Young actress steps into a warm studio set as paparazzi shadows gather
   outside.
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## Fresh Graduate Makes Hollywood Debut
 

@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Unbranded black gaming cube on a modern desk with subtle abstract hardware and
   certification visuals
+topics:
+  - Gaming
 ---
 ## Steam Machine Receives Vulkan API Certification
 

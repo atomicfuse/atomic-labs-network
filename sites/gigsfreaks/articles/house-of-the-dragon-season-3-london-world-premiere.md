@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Glamorous London red carpet at night with silhouettes, camera flashes, and a
   subtle dragon-like shadow
+topics:
+  - Hot Trends
 ---
 ## Star-Studded Celebration in London
 

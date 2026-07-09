@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium overlooking Los Angeles at dusk with scattered confetti
   and a fading spotlight.
+topics:
+  - Hot Trends
 ---
 ## Reality TV Star's Political Ambitions Come to an End
 

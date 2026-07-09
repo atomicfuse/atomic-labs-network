@@ -39,6 +39,8 @@ reading_time: 2
 image_alt: >-
   Rock singer on a moody stage faces a divided crowd under red, white, and blue
   concert lights.
+topics:
+  - Celebrity News
 ---
 ## Concert Takes Controversial Turn
 

@@ -42,6 +42,8 @@ quality_note: >-
   but the medical specificity of malaria recovery may not align perfectly with
   the general healthy living audience focus.
 image_alt: Person doing gentle yoga in soft morning light with water and fruit nearby
+topics:
+  - Yoga Poses
 ---
 
 Recovering from malaria often takes longer than the fever itself. Even after treatment ends, many people feel drained, weak, dizzy, and mentally foggy. This post-malaria fatigue can make everyday tasks feel demanding. Gentle yoga, breathing exercises, better sleep, and nourishing food can support recovery when practiced safely and consistently.

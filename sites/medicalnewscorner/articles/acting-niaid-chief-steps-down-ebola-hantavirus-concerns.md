@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Empty chair in a modern research facility corridor with blurred scientists
   working behind glass.
+topics:
+  - Health News
 ---
 ## Leadership Vacuum at Critical Health Agency
 

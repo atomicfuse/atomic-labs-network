@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Unbranded 4x4 SUV at a rugged trail junction with rocks, mud, and snow in
   mountain terrain.
+topics:
+  - Industry
 ---
 ## What Does 4L Mean?
 

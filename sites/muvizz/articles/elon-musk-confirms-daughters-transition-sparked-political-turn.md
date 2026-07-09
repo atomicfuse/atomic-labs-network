@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Two silhouetted figures divided by red and blue light, suggesting family
   conflict and political polarization.
+topics:
+  - Breaking News
+  - Trailers
 ---
 ## Tech Billionaire Confirms Personal Motivation Behind Political Shift
 

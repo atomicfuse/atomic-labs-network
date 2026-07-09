@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Generic smartphone beside a frozen app cube with abstract security motifs in a
   cool tech setting.
+topics:
+  - Tech
 ---
 
 In recent developments, Apple has made headlines by removing a popular app from its App Store, sparking discussions about its app review policies. The app in question, known as IceBlock, was reportedly pulled due to violations of Apple's guidelines. This event has stirred the tech community, raising questions about the balance between security measures and innovation.

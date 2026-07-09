@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Fictional tactical team gathers on a rainy city street under dramatic
   emergency lights.
+topics:
+  - TV News
 ---
 
 The ever-evolving world of television continues to captivate audiences with its dynamic storytelling and unexpected twists. Fans of the action-packed series 'S.W.A.T.' are in for a treat as a new spin-off is set to hit screens soon. This development comes on the heels of the show's recent cancellation, sparking excitement and curiosity among viewers about what the spin-off will bring.

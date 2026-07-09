@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Unbranded electric car paused at a futuristic checkpoint in a European city at
   dusk
+topics:
+  - Electric Cars
 ---
 
 As Tesla's Full Self-Driving is enabled in the United States, and a variant of it launched in China earlier this week, many European owners are still awaiting the launch of what is one of the most robust driver assistance programs in the world.

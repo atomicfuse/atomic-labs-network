@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Six women filmmakers stand on a golden-lit red carpet in a cinematic gala
   setting.
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## Historic Recognition for Global Female Talent
 

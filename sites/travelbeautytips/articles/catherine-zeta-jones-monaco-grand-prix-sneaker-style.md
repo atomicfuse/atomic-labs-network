@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Stylish woman in a floral jumpsuit wearing black platform sneakers at a chic
   outdoor summer event.
+topics:
+  - Lifestyle
+  - Destinations
 ---
 ## Celebrity Style Meets Comfort at Monaco Grand Prix
 

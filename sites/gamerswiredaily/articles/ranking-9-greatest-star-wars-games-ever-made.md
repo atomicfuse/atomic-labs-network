@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Sci-fi gaming setup with holographic star maps, spacecraft, and glowing light
   trails in a cinematic scene
+topics:
+  - Gaming News
 ---
 ## The Enduring Legacy of Star Wars Gaming
 

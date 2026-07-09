@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A glowing vintage television in a moody screening room with abstract
   reflections of iconic TV genres.
+topics:
+  - TV News
 ---
 
 Television has become an integral part of our daily lives, offering stories that captivate, entertain, and challenge us. As we reflect on the golden age of TV, certain shows stand out for their groundbreaking narratives and cultural impact. This exploration delves into some of the most acclaimed TV series of all time, celebrating their contributions to the world of entertainment.

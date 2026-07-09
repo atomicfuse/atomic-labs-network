@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Anonymous awards host on a golden stage before a diverse, moody ballroom
   audience.
+topics:
+  - TV News
 ---
 
 The Golden Globes has long been a celebrated event in the entertainment industry, showcasing the best in film and television. The 2026 ceremony was no exception, offering a mix of triumphs, surprises, and some controversies that kept audiences engaged both on and off the screen.

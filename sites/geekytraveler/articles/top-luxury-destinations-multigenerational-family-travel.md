@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Three generations relax on a luxury resort terrace overlooking water and misty
   hills at golden hour.
+topics:
+  - Destination Guides
+  - Adventure Activities
 ---
 ## Growing Trend in Family Travel
 

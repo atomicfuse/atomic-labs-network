@@ -54,6 +54,8 @@ quality_note: >-
 image_alt: >-
   Person practicing morning yoga in a sunlit apartment beside workday
   essentials.
+topics:
+  - Yoga Poses
 ---
 
 With the increasing pace of life, it's essential to find ways to maintain physical and mental well-being. One of the most effective and time-efficient methods is incorporating ten-minute yoga workouts into your daily routine. These sessions are not only beneficial for your body but also help promote mental clarity and reduce stress. Here, we've compiled a list of the best quick yoga routines you can easily fit into your busy schedule.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Stylish anonymous couple holding hands on a rainy New York street under
   paparazzi-like flashes.
+topics:
+  - Celebrities
 ---
 ## Celebrity Sighting Sparks Romance Rumors
 

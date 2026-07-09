@@ -35,6 +35,8 @@ quality_note: >-
   critically by never actually naming the three shows it promises to reveal,
   making it misleading clickbait rather than useful content.
 reading_time: 3
+topics:
+  - Streaming
 ---
 ## The Discovery Problem on Apple TV+
 

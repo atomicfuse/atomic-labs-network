@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Indian woman in a calm modern bathroom preparing for a practical morning
   wellness routine
+topics:
+  - Mind & Body Wellness
 ---
 ## The Evolution of Women's Wellness
 

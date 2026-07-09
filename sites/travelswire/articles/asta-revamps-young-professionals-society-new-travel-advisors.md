@@ -37,6 +37,8 @@ quality_note: >-
   with weak SEO structure, overly formal tone, and insufficient length for the
   target audience.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## Industry Support for New Travel Professionals
 

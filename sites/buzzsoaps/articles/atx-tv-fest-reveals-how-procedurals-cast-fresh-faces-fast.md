@@ -32,6 +32,8 @@ quality_note: >-
   under target word count at 629 words instead of 800-1200.
 reading_time: 3
 image_alt: Emerging actors wait near an audition mark in a fast-paced TV casting room.
+topics:
+  - Culture Buzz
 ---
 ## The Fast-Paced World of Procedural Casting
 

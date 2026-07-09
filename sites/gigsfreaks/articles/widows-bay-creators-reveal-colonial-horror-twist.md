@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Colonial figure faces a foggy island forest with glowing mushrooms in a tense
   folk-horror scene.
+topics:
+  - Hot Trends
 ---
 ## From Comedy Mystery to Colonial Nightmare
 

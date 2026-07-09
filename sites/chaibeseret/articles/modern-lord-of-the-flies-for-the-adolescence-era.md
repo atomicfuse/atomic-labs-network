@@ -1,24 +1,32 @@
 ---
-title: "Modern Lord of the Flies for the Adolescence Era"
-description: "Netflix's Lord of the Flies adaptation, written by Jack Thorne, revisits Golding's classic story of fear, power, and moral collapse for a new generation of viewers."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T09:28:36+00:00"
-author: "Jennifer Clarkson"
+title: Modern Lord of the Flies for the Adolescence Era
+description: >-
+  Netflix's Lord of the Flies adaptation, written by Jack Thorne, revisits
+  Golding's classic story of fear, power, and moral collapse for a new
+  generation of viewers.
+type: standard
+status: published
+publishDate: '2026-05-04T09:28:36+00:00'
+author: Jennifer Clarkson
 tags:
-  - "TV Shows"
-slug: "modern-lord-of-the-flies-for-the-adolescence-era"
+  - TV Shows
+slug: modern-lord-of-the-flies-for-the-adolescence-era
 reading_time: 7
-source_url: "https://muvizz.com/modern-lord-of-the-flies-for-the-adolescence-era/"
-imported_from: "wordpress"
+source_url: 'https://muvizz.com/modern-lord-of-the-flies-for-the-adolescence-era/'
+imported_from: wordpress
 wp_original_id: 28267
-featuredImage: "/assets/images/modern-lord-of-the-flies-for-the-adolescence-era.webp"
+featuredImage: /assets/images/modern-lord-of-the-flies-for-the-adolescence-era.webp
 seo:
-  canonical: "https://muvizz.com/modern-lord-of-the-flies-for-the-adolescence-era/"
-  og_title: "Modern Lord of the Flies for the Adolescence Era - Muvizz"
-  og_description: "Netflix’s Lord of the Flies adaptation, written by Jack Thorne, revisits Golding’s classic story of fear, power, and moral collapse for a new generation of viewers."
-  og_image: "https://muvizz.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://muvizz.com/modern-lord-of-the-flies-for-the-adolescence-era/'
+  og_title: Modern Lord of the Flies for the Adolescence Era - Muvizz
+  og_description: >-
+    Netflix’s Lord of the Flies adaptation, written by Jack Thorne, revisits
+    Golding’s classic story of fear, power, and moral collapse for a new
+    generation of viewers.
+  og_image: 'https://muvizz.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - tv shows
 ---
 
 Netflix is bringing _Lord of the Flies_ back into the cultural conversation with a new television adaptation shaped by acclaimed writer Jack Thorne. The project revisits William Golding's landmark 1954 novel, a story that still feels urgent because it asks what happens when social order disappears and children must invent a world of their own.

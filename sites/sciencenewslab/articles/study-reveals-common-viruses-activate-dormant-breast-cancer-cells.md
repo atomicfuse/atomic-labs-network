@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Glowing dormant cancer cells surrounded by translucent virus particles in a
   blue microscopic scene.
+topics:
+  - Space
 ---
 
 Recent research has uncovered a concerning link between common viral infections and the reactivation of dormant breast cancer cells. This discovery offers new insights into how breast cancer might resurface years after initial treatment, highlighting the need for further investigation into the relationship between viruses and cancer.

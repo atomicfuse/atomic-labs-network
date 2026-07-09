@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Parent calmly comforts a disappointed young athlete on a summer sports field
   after a game.
+topics:
+  - Parenting
 ---
 ## Managing Your Own Reactions First
 

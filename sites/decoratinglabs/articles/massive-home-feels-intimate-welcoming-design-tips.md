@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Warm luxury kitchen and family nook designed to make a large home feel
   intimate.
+topics:
+  - Tips & Advice
+  - decor ideas
 ---
 ## Creating Warmth in Grand Spaces
 

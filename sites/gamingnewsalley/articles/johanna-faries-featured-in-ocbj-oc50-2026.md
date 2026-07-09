@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Female gaming executive in a modern studio with abstract digital worlds
   glowing behind her
+topics:
+  - Gaming News
 ---
 
 Johanna Faries has become one of Orange County's most closely watched technology leaders, guiding Irvine-based Blizzard Entertainment through a defining period for the global video game business. As president of the studio behind Warcraft, Diablo, Overwatch, StarCraft and Hearthstone, she sits at the center of creative ambition, corporate change and a fiercely competitive entertainment market.

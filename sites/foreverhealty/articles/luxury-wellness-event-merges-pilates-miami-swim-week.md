@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Luxury poolside Pilates gathering at sunset with swimwear fashion and beauty
   displays in Miami
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## Wellness Meets Fashion on Miami's Runway Scene
 

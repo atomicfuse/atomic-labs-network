@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Meditating person in soft morning light with subtle abstract brainwave ripples
   around them.
+topics:
+  - Mindfulness
+  - Wellness
 ---
 ## The Seven-Minute Sweet Spot
 

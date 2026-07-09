@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Modern full-size pickup truck on a clean forecourt at sunrise, emphasizing
   practical value and capability.
+topics:
+  - News
 ---
 ## Ram 1500 Express Targets Budget-Conscious Buyers
 

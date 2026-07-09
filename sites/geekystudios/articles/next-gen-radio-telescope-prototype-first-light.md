@@ -31,6 +31,8 @@ quality_note: >-
   Well-written article with good tone and accuracy, but significantly under
   target word count at 549 words versus the 800-1200 target range.
 reading_time: 3
+topics:
+  - Tech
 ---
 ## Historic Milestone for Radio Astronomy
 

@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Colorful fast-food meal with banana dessert, fries, mystery boxes, and playful
   collectible figures on a blue tabletop.
+topics:
+  - Healthy Snacks
+  - Meal Plans
 ---
 ## Wendy's Rolls Out Movie-Themed Meal Promotion
 

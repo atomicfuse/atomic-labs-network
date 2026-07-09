@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   A vintage car stopped on a foggy rural road under a mysterious light in the
   night sky
+topics:
+  - Conspiracies
+  - Mysteries
+  - Unsolved Cases
 ---
 
 The story of Betty and Barney Hill remains one of the most captivating UFO encounters in history. This case, which occurred in the early 1960s, has intrigued enthusiasts and skeptics alike, sparking numerous discussions and investigations into the possibility of extraterrestrial life.

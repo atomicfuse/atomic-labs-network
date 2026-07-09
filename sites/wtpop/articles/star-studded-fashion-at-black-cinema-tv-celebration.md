@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Elegant Black artists pose on a glowing red carpet at a glamorous cinema and
   television celebration.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The Critics Choice Association's 8th Annual Celebration of Black Cinema & Television was a dazzling affair, showcasing the vibrant fusion of Hollywood glamour and cultural appreciation. Held at the iconic Fairmont Century Plaza Hotel in Los Angeles, the event honored exceptional talent and significant contributions to the film and television industry. With a star-studded guest list, the evening was filled with unforgettable fashion moments and powerful speeches, underscoring the importance of representation on screen.

@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Two silhouetted figures separated by a reflective divide under pink and blue
   editorial lighting
+topics:
+  - Celebrity News
 ---
 ## Musk's Candid Admission on Social Media
 

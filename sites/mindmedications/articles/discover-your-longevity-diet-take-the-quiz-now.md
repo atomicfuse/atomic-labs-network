@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Sunlit table with colorful whole foods arranged like a path toward healthy
   living
+topics:
+  - Nutrition
+  - Wellness
 ---
 
 Healthy eating is profoundly linked to longevity, enhancing both the quality and duration of life. As people seek to improve their wellbeing, understanding the connection between diet and lifespan becomes crucial. This article explores the multifaceted relationship between nutrition and a longer, healthier life.

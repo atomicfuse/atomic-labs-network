@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Young travelers overlooking a quiet Swiss alpine village and valley at golden
   hour
+topics:
+  - Destination Guides
+  - Local Culture
 ---
 ## Switzerland Targets Young Travelers with New Authentic Guide
 

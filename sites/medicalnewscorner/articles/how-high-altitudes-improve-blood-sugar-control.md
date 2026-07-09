@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Person standing on a sunlit mountain ridge, evoking health and metabolic
   balance at high altitude.
+topics:
+  - Health News
 ---
 
 Research suggests that residing at high altitudes might offer unexpected health benefits, particularly in managing blood sugar levels. Living in elevated regions could potentially improve metabolic health, which is crucial for individuals dealing with diabetes or prediabetes.

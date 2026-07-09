@@ -34,6 +34,9 @@ quality_note: >-
   citations.
 reading_time: 3
 image_alt: Woman over 50 walking confidently on a sunny park path in athletic clothes.
+topics:
+  - Fitness & Movement
+  - Healthy Aging
 ---
 ## The Challenge of Weight Management After 50
 

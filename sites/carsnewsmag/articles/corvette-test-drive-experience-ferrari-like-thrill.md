@@ -38,6 +38,8 @@ quality_note: >-
   Well-written review with engaging tone but significantly under target word
   count and contains some vague technical claims that could be more specific.
 image_alt: Sleek sports car speeding through a mountain curve at golden hour
+topics:
+  - Reviews
 ---
 
 The Chevrolet Corvette Z06 stands as a testament to engineering prowess and performance excellence, representing a thrilling addition to the sports car landscape. As a flagship model, the Z06 is crafted to deliver exhilarating speed and precision, embodying the spirit of American automotive innovation.

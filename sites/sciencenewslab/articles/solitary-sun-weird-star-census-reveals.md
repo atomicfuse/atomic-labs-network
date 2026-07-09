@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   A solitary yellow star contrasts with distant paired stars connected by faint
   orbital arcs.
+topics:
+  - Space
 ---
 ## Most Stars Travel in Packs
 

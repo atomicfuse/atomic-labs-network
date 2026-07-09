@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Layered luxury showhouse interior with designer rooms, sculptural lighting,
   rich textiles, and courtyard views.
+topics:
+  - Expert Guides
 ---
 ## Prestigious Design Showcase Returns for Fifth Year
 

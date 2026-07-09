@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Smartphone interface blending social video cards with hotel, dining, and city
   travel scenes
+topics:
+  - Mobile
 ---
 ## TikTok Transforms Travel Discovery into Direct Bookings
 

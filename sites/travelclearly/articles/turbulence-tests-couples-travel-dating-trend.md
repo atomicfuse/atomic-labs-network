@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   New couple waits with luggage in a rainy airport lounge, showing quiet tension
   during travel.
+topics:
+  - Travel
+  - Travel Tips
+  - Lifestyle
 ---
 ## The Rise of Relationship Travel Testing
 

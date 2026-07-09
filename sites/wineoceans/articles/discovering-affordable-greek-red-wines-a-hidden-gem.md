@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Ruby red wine on a sunlit Greek terrace with grapes, olive leaves, and coastal
   scenery.
+topics:
+  - Wine news
 ---
 ## The Untapped Potential of Greek Red Wines
 

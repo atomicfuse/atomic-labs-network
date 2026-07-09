@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Vintage media tools surrounded by new green shoots in a warm editorial studio
   setting.
+topics:
+  - Parenting
 ---
 
 Willa Bennett's unique approach to reviving the careers of seasoned media personalities is deeply rooted in her parenting experiences. She leverages her skills of nurturing and guiding her children to breathe new life into the careers of media veterans, driving their resurgence in the ever-evolving media landscape.

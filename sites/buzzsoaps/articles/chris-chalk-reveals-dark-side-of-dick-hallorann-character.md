@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   A lone man on a rain-slick vintage street faces ominous shadows under a
   flickering lamp.
+topics:
+  - Watch
 ---
 
 Chris Chalk, a versatile actor known for his compelling performances, is set to captivate audiences in the upcoming series "Welcome to Derry." This prequel to the popular "IT" franchise promises to delve into the dark history of Derry, exploring chilling events that shaped the town long before the arrival of the notorious clown, Pennywise. Chalk's involvement adds a layer of depth and authenticity to the narrative, as he steps into a pivotal role that will challenge and engage viewers.

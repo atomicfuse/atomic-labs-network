@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Relaxed traveler by a sunlit window with simple wellness items nearby for a
   comfortable journey.
+topics:
+  - Culture
+  - Guides & Tips
 ---
 
 Traveling can be an exciting adventure, but for many, it comes with the unwelcome companion of motion sickness. This common ailment can turn a joyful journey into a distressing experience, yet there are effective ways to manage and even prevent it. Understanding the causes and remedies of motion sickness can help travelers maintain their well-being and enjoy their trips without discomfort.

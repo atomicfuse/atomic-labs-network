@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Parent and child using a tablet together in a warm home setting with a subtle
   protective glow.
+topics:
+  - Kids
 ---
 
 In today's digital age, safeguarding children from online dangers has become a paramount concern for parents and guardians. With the increasing presence of children on the internet, the risk of encountering online predators has also risen. Learning effective strategies to monitor and protect children in the virtual world is crucial for their safety and well-being.

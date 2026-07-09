@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Astronaut holding a futuristic controller as a spacecraft launches into a deep
   blue starfield.
+topics:
+  - Gaming News
+  - Industry Updates
 ---
 ## A Long-Awaited PlayStation Debut
 

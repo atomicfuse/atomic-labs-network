@@ -34,6 +34,8 @@ quality_note: >-
 reading_time: 3
 topics:
   - Latest News
+  - Tips & Advice
+  - decor ideas
 image_alt: >-
   Serene living room corner with cohesive colors, neutral furniture, muted
   accent wall, and curated decor

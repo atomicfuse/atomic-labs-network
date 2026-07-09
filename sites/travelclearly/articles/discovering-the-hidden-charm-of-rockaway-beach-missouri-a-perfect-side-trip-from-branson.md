@@ -51,6 +51,10 @@ quality_note: >-
 image_alt: >-
   Peaceful Ozark lakefront town with docks, chairs, and wooded hills at golden
   hour
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Branson, Missouri, is widely known for its vibrant entertainment scene and bustling attractions. However, if you're yearning for a more laid-back experience, just a short drive away lies the charming town of Rockaway Beach. This peaceful retreat offers a refreshing escape with its serene lakefront views and welcoming community.

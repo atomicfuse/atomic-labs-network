@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Two separated silhouettes in contrasting light suggest a family and
   ideological divide.
+topics:
+  - Celebrities
 ---
 ## The Personal Becomes Political
 

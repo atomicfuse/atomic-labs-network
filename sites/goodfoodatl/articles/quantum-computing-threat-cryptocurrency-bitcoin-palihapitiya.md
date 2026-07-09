@@ -38,6 +38,8 @@ quality_note: >-
   cryptocurrency and quantum computing rather than recipes, restaurants,
   nutrition, or food culture, with questionable claims and poor audience
   alignment.
+topics:
+  - Food Culture
 ---
 # Tech Investment Expert Warns: Quantum Computing Could Devastate Cryptocurrency Markets Within Years
 

@@ -35,6 +35,8 @@ quality_note: >-
   statistics, doesn't match the travel-focused tone, and poorly aligns with
   destination guide content expectations.
 reading_time: 3
+topics:
+  - Local Culture
 ---
 
 ## A Marine Ecological Emergency Unfolds

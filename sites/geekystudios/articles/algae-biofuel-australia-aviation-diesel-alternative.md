@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Green algae bioreactors lead toward a distant truck and plane in an Australian
   outback landscape.
+topics:
+  - Tech
 ---
 ## The Fuel Security Challenge Australia Faces
 

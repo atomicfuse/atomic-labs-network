@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A dark banquet hall with overturned chairs and a film camera facing the
   aftermath.
+topics:
+  - TV News
 ---
 
 The impact of iconic television moments cannot be overstated, and few scenes have left a mark quite like the 'Red Wedding' from HBO's Game of Thrones. This unforgettable scene has set a benchmark for dramatic storytelling, sparking attempts by other shows to replicate its shocking effect. However, recreating such a profound moment is easier said than done.
