@@ -17,7 +17,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=qKgCw8f50BQ'
 source_item_id: 6a03376686fcaaeb5bc8328a
 generated_by: openai
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/whiskey-cocktails-you-need-to-try.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 52
@@ -37,6 +37,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Brewing Guides
+image_alt: >-
+  Four colorful whiskey cocktails on a marble bar with foam, citrus, and herb
+  garnishes
 ---
 TL;DR: Ready to shake things up? Dive into these four delightful whiskey cocktails with simple recipes and techniques, perfect for impressing your friends!
 
