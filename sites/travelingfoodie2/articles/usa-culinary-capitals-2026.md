@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.travelandtourworld.com/news/article/mfo2y5w8md0p/'
 source_item_id: 6a182f730fc9210eaf31aaf0
 generated_by: openai
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/usa-culinary-capitals-2026.webp
 quality_score: 78
 score_breakdown:
   seo_quality: 72
@@ -31,6 +31,9 @@ quality_note: >-
   good SEO basics, but falls slightly short of the 800-word target and lacks
   specific SEO keyword integration or defined audience targeting.
 reading_time: 3
+image_alt: >-
+  Golden-hour city dining scene with plated dishes and a lively urban street
+  suggesting U.S. food travel.
 ---
 ## TL;DR
 In 2026, the culinary scene is thriving in cities like New York, Chicago, and New Orleans, making them a must-visit for food lovers. Explore local flavors and iconic dishes that define these gastronomic hubs!
