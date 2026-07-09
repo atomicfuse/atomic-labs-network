@@ -1,11 +1,9 @@
 ---
-title: 'Butter vs Margarine: Food Scientist Reveals Key Baking Differences'
-description: >-
-  A food scientist explains how subtle chemical differences between butter and
-  margarine affect texture, flavor, and browning in your baked goods.
+title: "Butter vs Margarine: Food Scientist Reveals Key Baking Differences"
+description: A food scientist explains how subtle chemical differences between butter and margarine affect texture, flavor, and browning in your baked goods.
 type: standard
-status: review
-publishDate: '2026-06-11'
+status: published
+publishDate: 2026-06-11
 author: Ryan Powell
 tags:
   - Brewing Guides
@@ -14,11 +12,8 @@ tags:
   - butter
   - margarine
 slug: butter-vs-margarine-food-scientist-baking-differences
-reviewer_notes: >-
-  This baking article is completely off-topic for a coffee website and contains
-  vague, unsupported claims without citing actual research or providing specific
-  data.
-source_url: 'https://phys.org/news/2026-06-butter-margarine-food-scientist-subtle.html'
+reviewer_notes: Approved via review queue.
+source_url: https://phys.org/news/2026-06-butter-margarine-food-scientist-subtle.html
 source_item_id: 6a2a45837da23de6325b9a8c
 generated_by: claude
 featuredImage: /assets/images/butter-vs-margarine-food-scientist-baking-differences.webp
@@ -29,14 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: >-
-  This baking article is completely off-topic for a coffee website and contains
-  vague, unsupported claims without citing actual research or providing specific
-  data.
+quality_note: This baking article is completely off-topic for a coffee website and contains vague, unsupported claims without citing actual research or providing specific data.
 reading_time: 3
-image_alt: >-
-  Side-by-side cookies show different browning and texture from butter and
-  margarine baking tests.
+image_alt: Side-by-side cookies show different browning and texture from butter and margarine baking tests.
 ---
 ## The Chemistry Behind Better Baking
 
