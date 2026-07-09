@@ -37,7 +37,6 @@ image_alt: >-
   relaxed British-California styling.
 topics:
   - Decor Ideas
-  - DIY Projects
 ---
 ## A Fresh Take on Summer Home Styling
 

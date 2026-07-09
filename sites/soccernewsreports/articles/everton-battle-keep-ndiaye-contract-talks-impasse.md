@@ -39,7 +39,6 @@ image_alt: >-
 topics:
   - Latest News
   - Transfers
-  - Leagues
 ---
 ## Contract Standoff Threatens Everton's Star Asset
 

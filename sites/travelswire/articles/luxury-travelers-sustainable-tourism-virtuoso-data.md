@@ -38,7 +38,6 @@ quality_note: >-
 reading_time: 2
 topics:
   - Travel Tips
-  - Local Culture
 ---
 ## The Luxury Travel Revolution
 

@@ -48,7 +48,6 @@ image_alt: >-
 topics:
   - Coffee News
   - Coffee Beans
-  - Brewing Guides
 ---
 
 The United States coffee bean market remains one of the world's most important demand centers, driven by daily consumption habits, specialty coffee culture, and a deep reliance on global supply chains. From supermarket shelves to independent roasters, green coffee beans and roasted products move through a complex market shaped by imports, pricing, consumer preferences, and changing retail channels.

@@ -45,7 +45,6 @@ image_alt: >-
 topics:
   - Coffee Drinks
   - Coffee Gear
-  - Brewing Guides
 ---
 
 The perfect coffee experience is not just about the brew; it's also about the vessel you choose to drink from. Coffee enthusiasts know that a great coffee cup can enhance the flavor and aroma of their favorite brew. In this article, we explore some of the most popular coffee cups that are making waves among coffee lovers.

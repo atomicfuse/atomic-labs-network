@@ -37,7 +37,6 @@ image_alt: >-
   red-white-blue lights.
 topics:
   - Breaking News
-  - Trailers
 ---
 ## Concert Clash Divides Longtime Fanbase
 

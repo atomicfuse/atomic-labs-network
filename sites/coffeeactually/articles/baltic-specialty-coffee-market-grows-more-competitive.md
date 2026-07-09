@@ -45,7 +45,6 @@ image_alt: >-
   and brewing tools on the counter.
 topics:
   - Coffee News
-  - Brewing Guides
 ---
 
 The Baltic region, comprising Estonia, Latvia, and Lithuania, is experiencing a growing interest in specialty coffee. With a strong cultural appreciation for coffee, these countries are showing an increasing demand for unique and high-quality coffee experiences. This trend is driven by a combination of local roasters, coffee shops, and consumer curiosity about the origins and flavors of coffee.

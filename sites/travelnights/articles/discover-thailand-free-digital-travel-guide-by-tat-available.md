@@ -47,7 +47,6 @@ image_alt: >-
   temple in warm morning light.
 topics:
   - News
-  - Guides & Tips
 ---
 
 ## Discover Thailand: Free Digital Travel Guide by TAT Available

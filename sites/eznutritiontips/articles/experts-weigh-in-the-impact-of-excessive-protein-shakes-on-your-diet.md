@@ -50,7 +50,6 @@ image_alt: >-
   diet
 topics:
   - Nutrition Myths
-  - Weight & Wellness
 ---
 
 Do you love the convenience and benefits of protein shakes and wonder how many you can safely consume each day? Let's answer that burning question while diving into the world of protein supplementation and its impact on our health and wellbeing.

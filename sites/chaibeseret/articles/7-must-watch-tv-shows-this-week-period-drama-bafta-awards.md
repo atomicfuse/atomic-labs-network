@@ -35,7 +35,6 @@ quality_note: >-
 reading_time: 2
 topics:
   - tv shows
-  - reviews
 ---
 ## A Week Packed with Premium Television
 

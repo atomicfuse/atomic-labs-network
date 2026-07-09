@@ -49,7 +49,6 @@ image_alt: >-
   competition.
 topics:
   - Latest News
-  - Leagues
 ---
 
 The UEFA Champions League is set for a significant transformation in the 2025-26 season, with six Premier League teams poised to compete. This shift arises from changes to the tournament's format, enhancing its allure and competition level. As European football evolves, the Premier League's global prominence is increasingly reflected in its representation in the continent's most prestigious club competition.

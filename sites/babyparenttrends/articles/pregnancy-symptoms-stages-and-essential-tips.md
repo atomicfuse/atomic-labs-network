@@ -43,7 +43,6 @@ image_alt: >-
 topics:
   - Baby Care
   - Pregnancy
-  - Children’s Health
 ---
 
 Pregnancy brings rapid changes, practical decisions, and plenty of questions. Whether you are newly pregnant, planning ahead, or supporting someone through the journey, understanding the stages of pregnancy can make each week feel more manageable and less overwhelming.

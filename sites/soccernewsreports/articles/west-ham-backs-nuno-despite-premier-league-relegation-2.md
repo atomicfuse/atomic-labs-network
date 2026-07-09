@@ -38,7 +38,6 @@ image_alt: >-
   figures move behind him
 topics:
   - Latest News
-  - Leagues
 ---
 ## West Ham Commits to Stability Amid Relegation Crisis
 

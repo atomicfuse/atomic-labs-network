@@ -44,7 +44,6 @@ image_alt: >-
   flashes.
 topics:
   - Travel Tips
-  - Destinations
 ---
 
 ### Sabrina Carpenter

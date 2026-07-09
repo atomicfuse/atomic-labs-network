@@ -51,7 +51,6 @@ image_alt: >-
   festive decor
 topics:
   - Decor Ideas
-  - DIY Projects
 ---
 
 Transforming your home into a festive haven for the holidays is an exciting endeavor. With a blend of creativity and tradition, you can create a warm and inviting atmosphere that reflects the spirit of the season. Whether you are a seasoned decorator or a first-time holiday host, exploring various decorating techniques can inspire you to craft a magical environment that friends and family will cherish.

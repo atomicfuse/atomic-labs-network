@@ -38,8 +38,6 @@ image_alt: >-
   suggesting a transfer chase.
 topics:
   - Transfers
-  - Leagues
-  - Match Reports
 ---
 ## Liverpool Target Sporting CP Star
 

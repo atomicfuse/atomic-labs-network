@@ -52,7 +52,6 @@ quality_note: >-
 image_alt: Healthy meal bowls and smoky chicken chili arranged on a bright kitchen table
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 A realistic day of healthy eating does not need to be complicated, restrictive or perfect. In this full-day food diary, the focus is on simple nutrition foundations: easy high-protein meals, balanced bowls, healthy dinner inspiration and practical choices that help keep energy steady when life feels full on.

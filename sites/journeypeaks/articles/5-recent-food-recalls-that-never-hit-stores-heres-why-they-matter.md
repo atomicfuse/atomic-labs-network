@@ -54,7 +54,6 @@ image_alt: >-
 topics:
   - Travel
   - Travel Tips
-  - Food & Drink
 ---
 
 Food recalls often make headlines when contaminated or mislabeled products reach consumers—but what about the recalls that happen *before* a product ever lands on store shelves?

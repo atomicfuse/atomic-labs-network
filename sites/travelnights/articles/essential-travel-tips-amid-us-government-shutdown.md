@@ -45,7 +45,6 @@ image_alt: >-
   travel conditions.
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 Traveling during a government shutdown can pose unique challenges, but with the right strategies, you can navigate these hurdles smoothly. Understanding the impact of the shutdown on various services and planning accordingly can make a significant difference in your travel experience.

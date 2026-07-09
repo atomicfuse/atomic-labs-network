@@ -45,7 +45,6 @@ image_alt: >-
   nutrition.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 Staying healthy is a goal many strive for, yet achieving it often seems elusive. One effective approach to maintaining wellness is to focus on nutrition, the cornerstone of a balanced lifestyle. By making informed dietary choices, individuals can significantly enhance their overall health and vitality.

@@ -40,7 +40,6 @@ image_alt: >-
 topics:
   - Latest News
   - Transfers
-  - Leagues
 ---
 ## Arsenal's Summer Priority: Securing Arteta's Future
 

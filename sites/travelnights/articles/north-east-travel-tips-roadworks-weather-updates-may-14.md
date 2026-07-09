@@ -45,7 +45,6 @@ image_alt: >-
 topics:
   - Destinations
   - News
-  - Guides & Tips
 ---
 
 Visitors heading to the North East on May 14 should prepare for a travel day shaped by changing weather, busy routes, and planned roadworks. The region remains a rewarding destination, with coastlines, heritage cities, national parks, and cultural attractions all within reach. However, a smooth journey will depend on checking updates early, building flexibility into plans, and packing for sudden shifts in conditions.

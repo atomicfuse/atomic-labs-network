@@ -47,7 +47,6 @@ quality_note: >-
 image_alt: Football contracts and chess pieces in a boardroom overlooking a stadium
 topics:
   - Latest News
-  - Leagues
 ---
 
 The world of English football is abuzz with discussions surrounding financial strategies in the Premier League. Clubs are wrestling with the implications of financial fair play regulations and how these influence their competitive edge. A significant aspect of this debate is centered around Chelsea's innovative approach to player contracts, which has sparked interest and controversy among other Premier League entities.

@@ -45,7 +45,6 @@ image_alt: >-
 topics:
   - Fitness
   - Lifestyle
-  - Mindfullness
 ---
 
 Have you ever wondered about the impact of delaying breast reduction surgery? Making the decision to pursue breast reduction is one that can transform your life in numerous ways. It's time to explore how moving forward without delay can lead to incredible benefits and a better quality of life.

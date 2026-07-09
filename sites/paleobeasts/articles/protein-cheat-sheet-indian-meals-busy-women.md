@@ -37,7 +37,6 @@ image_alt: >-
   woman’s hands nearby
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Protein Gap in Traditional Indian Meals
 

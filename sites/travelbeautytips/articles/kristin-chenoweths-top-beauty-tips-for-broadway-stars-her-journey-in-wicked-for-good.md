@@ -54,7 +54,6 @@ image_alt: >-
   stage lighting
 topics:
   - Beauty Tips
-  - Destinations
 ---
 
 Renowned for her dazzling performances and timeless beauty, Kristin Chenoweth opens up about her beauty routine, secrets, and inspiration. A Broadway sensation and Emmy and Tony award winner, Kristin shares her beauty mantras and the products she can't live without.

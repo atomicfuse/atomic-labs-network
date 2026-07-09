@@ -38,7 +38,6 @@ image_alt: >-
   nearby.
 topics:
   - Parenting
-  - Children’s Health
 ---
 ## New Resource Aims to Bridge Parent-Teen Digital Divide
 

@@ -51,7 +51,6 @@ topics:
   - Travel
   - Destinations
   - Travel Tips
-  - Food & Drink
 ---
 
 The Greater Bay Area (GBA) in China, an ambitious economic zone encompassing major cities like Hong Kong, Macao, and Guangzhou, offers travelers a vibrant mix of culture, innovation, and scenic beauty. This dynamic region is rapidly becoming a top destination for both business and leisure travelers. Navigating this bustling area requires some preparation to fully enjoy its diverse offerings.

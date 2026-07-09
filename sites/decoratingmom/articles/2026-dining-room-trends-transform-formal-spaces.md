@@ -37,7 +37,6 @@ image_alt: >-
   lighting, and warm natural decor.
 topics:
   - Interior Design
-  - DIY Projects
 ---
 ## The Return of the Formal Dining Room
 

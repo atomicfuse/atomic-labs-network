@@ -43,7 +43,6 @@ image_alt: >-
 topics:
   - Travel
   - Travel Tips
-  - Food & Drink
 ---
 
 _**Hailing from Mendocino, Minus Tide's Sterling Ranch Chenin Blanc delivers a satisfying snap along with savory notes**_

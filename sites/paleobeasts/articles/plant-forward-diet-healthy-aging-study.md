@@ -39,7 +39,6 @@ reading_time: 3
 image_alt: Older hands arranging a colorful plant-forward meal in a warm sunlit kitchen.
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## What the Research Reveals
 

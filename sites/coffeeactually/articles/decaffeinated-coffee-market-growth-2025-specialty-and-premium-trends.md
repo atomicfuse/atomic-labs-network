@@ -47,7 +47,6 @@ quality_note: >-
 image_alt: Premium pour-over coffee setup with roasted beans on a modern café counter
 topics:
   - Coffee Drinks
-  - Brewing Guides
 ---
 
 Decaffeinated coffee has become an increasingly popular choice among coffee enthusiasts who seek to enjoy the rich flavors of coffee without the stimulating effects of caffeine. As consumer preferences shift towards healthier lifestyles, the decaffeinated coffee market is experiencing substantial growth, driven by innovations in specialty brewing methods and changing dietary trends.

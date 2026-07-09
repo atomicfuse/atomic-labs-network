@@ -48,7 +48,6 @@ image_alt: >-
 topics:
   - Special Diets
   - Nutrition Myths
-  - Weight & Wellness
 ---
 
 Idaho potatoes have long been a staple in American kitchens, known for their versatility and delicious flavor. However, misconceptions about their nutritional value have persisted over the years. Recently, the Idaho Potato Commission teamed up with the American Diabetes Association to dispel myths surrounding potatoes and their impact on health, particularly for individuals managing diabetes.

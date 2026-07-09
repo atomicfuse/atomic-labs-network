@@ -43,7 +43,6 @@ quality_note: >-
 image_alt: Women sharing books and crafts around a sunlit table with phones set aside
 topics:
   - Lifestyle
-  - Mindfullness
 ---
 
 In today's fast-paced digital world, balancing screen time with real-life interactions is becoming increasingly important, especially for women over 35. Many are taking proactive steps to reduce stress and improve their mental well-being by engaging in offline activities. These women are discovering the benefits of gathering in small groups to connect, share experiences, and enjoy activities that do not involve screens.

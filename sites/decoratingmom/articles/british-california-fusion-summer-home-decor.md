@@ -40,7 +40,6 @@ image_alt: >-
   open doors to a sunny garden patio.
 topics:
   - Decor Ideas
-  - DIY Projects
 ---
 ## The Evolution of Summer Decorating
 

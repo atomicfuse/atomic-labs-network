@@ -53,7 +53,6 @@ image_alt: >-
   balanced nutrition
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 March is a month synonymous with the celebration of nutritional awareness across the globe. Annessa Chumbley, a renowned dietician, shares some exciting and healthful insights to commemorate National Nutrition Month. Let's delve into her expert advice to maintain a balanced diet and lead a healthier lifestyle.

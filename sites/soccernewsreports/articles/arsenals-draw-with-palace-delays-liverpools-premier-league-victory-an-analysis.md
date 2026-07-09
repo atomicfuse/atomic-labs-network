@@ -51,7 +51,6 @@ image_alt: >-
   lights.
 topics:
   - Analysis
-  - Leagues
 ---
 
 While the Premier League giants Liverpool and Arsenal prepare to square off, all eyes are on the outcome with bated breath. As the football universe awaits the clash of these titans, the result could significantly impact both teams' standing and morale in the ongoing season.

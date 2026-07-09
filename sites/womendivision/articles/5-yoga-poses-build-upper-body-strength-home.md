@@ -35,7 +35,6 @@ reading_time: 3
 image_alt: Woman holds a side plank on a yoga mat in a bright home fitness space
 topics:
   - Fitness
-  - Yoga
 ---
 ## Natural Strength Building Through Yoga
 

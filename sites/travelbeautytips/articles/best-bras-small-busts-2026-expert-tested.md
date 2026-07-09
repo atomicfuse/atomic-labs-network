@@ -35,7 +35,6 @@ image_alt: >-
   delicate styling details.
 topics:
   - Beauty Tips
-  - Destinations
 ---
 ## Finding the Perfect Fit for Small Busts
 

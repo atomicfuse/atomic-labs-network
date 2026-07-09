@@ -39,7 +39,6 @@ image_alt: >-
 topics:
   - Transfers
   - Analysis
-  - Leagues
 ---
 ## Season Review Through Alternative Lens
 

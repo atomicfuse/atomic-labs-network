@@ -35,7 +35,6 @@ reading_time: 3
 image_alt: Expectant parents in a softly lit nursery preparing for their baby's arrival
 topics:
   - Pregnancy
-  - Children’s Health
 ---
 ## Navigating Pregnancy with Confidence: A Comprehensive Resource for Expectant Parents
 

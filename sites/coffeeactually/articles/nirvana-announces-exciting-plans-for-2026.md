@@ -45,7 +45,6 @@ image_alt: >-
   brewery backdrop
 topics:
   - Coffee News
-  - Brewing Guides
 ---
 
 Nirvana Brewery is taking significant strides towards achieving complete carbon neutrality by 2026. This ambitious goal is part of their ongoing commitment to sustainability and environmental responsibility. As a leading producer of non-alcoholic craft beers, Nirvana is determined to minimize its carbon footprint through innovative practices and collaboration with eco-friendly partners.

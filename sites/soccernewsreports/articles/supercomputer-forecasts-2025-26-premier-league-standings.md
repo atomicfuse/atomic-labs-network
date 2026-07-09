@@ -48,7 +48,6 @@ image_alt: >-
   console
 topics:
   - Latest News
-  - Leagues
 ---
 
 As the world of football evolves, technology continues to play a pivotal role in predicting outcomes, transforming how fans and analysts view the sport. Recently, a supercomputer has ventured into forecasting the standings for the 2025-26 Premier League season. This innovative approach utilizes algorithms and vast data pools to simulate possible future scenarios, offering a glimpse into what fans might expect in the coming years.

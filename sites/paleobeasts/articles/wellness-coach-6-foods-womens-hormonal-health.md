@@ -37,7 +37,6 @@ image_alt: >-
   light wooden table.
 topics:
   - Nutrition
-  - Recipes
 ---
 ## Growing Focus on Food-Based Hormone Support
 

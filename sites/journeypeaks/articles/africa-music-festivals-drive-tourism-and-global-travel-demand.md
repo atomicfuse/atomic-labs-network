@@ -50,7 +50,6 @@ topics:
   - Travel
   - Destinations
   - Travel Tips
-  - Food & Drink
 ---
 
 Africa's live music festivals are becoming powerful travel motivators, turning concerts into complete cultural journeys. From coastal jazz stages to desert gatherings, festival tourism is helping destinations attract global visitors, extend stays, and showcase local identity through sound, food, nightlife, and community experiences.

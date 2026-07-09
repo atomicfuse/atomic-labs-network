@@ -44,7 +44,6 @@ image_alt: >-
 topics:
   - Healthy Recipes
   - Special Diets
-  - Weight & Wellness
 ---
 
 Meal prepping is not only a fantastic way to save time during the week, but it also ensures you are eating nutritious and delicious meals. In this guide, we will explore some high-protein and healthy recipes that are perfect for meal prep. Each recipe is designed to provide you with the nutrients you need to fuel your day.

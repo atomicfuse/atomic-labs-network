@@ -38,7 +38,6 @@ image_alt: >-
   abstract transfer light trails.
 topics:
   - Transfers
-  - Leagues
 ---
 ## The Rise of Premier League Proven Players
 

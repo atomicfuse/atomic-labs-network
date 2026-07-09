@@ -37,7 +37,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
-  - spoilers
 ---
 ## The Perfect Time for Dark Comedy Alternatives
 

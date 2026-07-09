@@ -36,6 +36,7 @@ image_alt: >-
   in a dark research setting.
 topics:
   - Gadgets
+  - Tablets
 ---
 ## The Rise of AI-Powered Scientific Discovery
 

@@ -38,7 +38,6 @@ image_alt: >-
   reformers, and light weights.
 topics:
   - Fitness
-  - Yoga
 ---
 ## A New Fitness Concept Arrives in McKinney
 

@@ -49,7 +49,6 @@ image_alt: >-
   night match.
 topics:
   - Latest News
-  - Leagues
 ---
 
 The Europa League has once again captured the attention of soccer enthusiasts around the globe, as teams vie for glory in this highly competitive tournament. With a mixture of experienced clubs and ambitious newcomers, the stage is set for an unforgettable series of matches.

@@ -38,7 +38,6 @@ image_alt: >-
 topics:
   - Travel
   - Travel Tips
-  - Food & Drink
 ---
 ## The Hidden Hotel Room Hazard
 

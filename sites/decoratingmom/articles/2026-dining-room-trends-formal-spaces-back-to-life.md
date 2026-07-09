@@ -38,7 +38,6 @@ image_alt: >-
   layered natural light.
 topics:
   - Interior Design
-  - DIY Projects
 ---
 ## Formal Dining Rooms Make a Stylish Comeback
 

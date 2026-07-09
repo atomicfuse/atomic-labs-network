@@ -38,7 +38,6 @@ image_alt: >-
   convenience store aisle.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## Celebrity Off-Duty Style Takes Center Stage
 

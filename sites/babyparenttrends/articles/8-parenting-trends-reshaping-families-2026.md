@@ -37,7 +37,6 @@ image_alt: >-
   time together
 topics:
   - Parenting
-  - Children’s Health
 ---
 ## The End of Perfect Parenting Culture
 

@@ -38,7 +38,6 @@ quality_note: >-
 reading_time: 2
 topics:
   - tv shows
-  - spoilers
 ---
 ## CBS Makes Bold Moves in 2026 Upfront Decisions
 

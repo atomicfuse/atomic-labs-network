@@ -49,7 +49,6 @@ image_alt: >-
   decisive career crossroads.
 topics:
   - Latest News
-  - Match Reports
 ---
 
 Arsenal's promising defender, William Saliba, finds himself at a pivotal point in his career as speculation swirls around his contractual future with the club. With Real Madrid reportedly expressing interest, the young star's next move could significantly impact both his career trajectory and Arsenal's defensive lineup.

@@ -37,7 +37,6 @@ image_alt: >-
   ancient queen figure
 topics:
   - TV Shows
-  - Trailers
 ---
 ## AMC's Vampire Series Sets Sights on Anne Rice's Most Controversial Material
 

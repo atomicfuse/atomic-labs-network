@@ -38,7 +38,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Nutrition
-  - Recipes
 ---
 ## Growing Focus on Food-Based Hormonal Support
 

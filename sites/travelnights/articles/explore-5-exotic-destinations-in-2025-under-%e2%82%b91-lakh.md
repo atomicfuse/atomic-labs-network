@@ -47,7 +47,6 @@ image_alt: >-
   reflected in a sunlit window
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Traveling to international destinations is a dream for many, but costs often deter potential adventurers. However, with strategic planning and smart booking tactics, you can explore stunning global locations without breaking the bank. Discover how to visit five exotic places in 2025 for under ₹1 lakh, including tips for securing the best deals on flights and accommodations.

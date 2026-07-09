@@ -47,7 +47,6 @@ topics:
   - Coffee News
   - Coffee Beans
   - Coffee Drinks
-  - Brewing Guides
 ---
 
 The specialty coffee market is expanding as consumers trade ordinary cups for better flavor, traceable sourcing, and café-style experiences at home. Premium beans, single-origin labels, cold brew, and ethical certifications are shaping demand across retail shelves, coffee shops, and online platforms.

@@ -45,7 +45,6 @@ image_alt: >-
   2026 travel concept
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Planning your travel adventures can be an exciting yet daunting task, especially when considering the diverse options available worldwide. In 2026, why not align your travel destinations with your lunar sign? This unique approach combines astrology with travel, offering destinations that resonate with your personal moon sign characteristics.

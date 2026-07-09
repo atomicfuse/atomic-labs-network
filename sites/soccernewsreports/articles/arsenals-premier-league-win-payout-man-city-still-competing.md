@@ -50,8 +50,6 @@ image_alt: >-
   floodlights.
 topics:
   - Latest News
-  - Leagues
-  - Match Reports
 ---
 
 The Premier League consistently captivates fans worldwide, offering thrilling matches that showcase extraordinary skill and strategy. Recently, two giants of English football, Arsenal and Manchester City, faced off in a much-anticipated encounter that underscored the league's competitive nature.

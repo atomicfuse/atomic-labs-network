@@ -38,7 +38,6 @@ image_alt: >-
   rainbow accents.
 topics:
   - Nutrition
-  - Recipes
 ---
 ## A Historic Final Pour
 

@@ -41,7 +41,6 @@ image_alt: >-
   difficult season.
 topics:
   - Latest News
-  - Leagues
 ---
 ## West Ham Stands by Nuno After Relegation
 

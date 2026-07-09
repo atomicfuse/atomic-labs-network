@@ -51,7 +51,6 @@ topics:
   - Destinations
   - Travel Tips
   - Lifestyle
-  - Food & Drink
 ---
 
 South Korea is renowned for its vibrant cultural festivals that celebrate the country's rich heritage and contemporary arts. These festivals not only showcase traditional Korean culture but also modern interpretations through various forms of art, music, and food. Every year, locals and tourists alike flock to these events to immerse themselves in the unique experiences offered by Korea's diverse cultural landscape.

@@ -44,7 +44,6 @@ image_alt: >-
   morning light.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 Exam season can stretch concentration, energy and mood to their limits, so the right food choices matter. A steady routine built around balanced meals, smart snacks, hydration, sleep and movement can help students feel calmer, think more clearly and avoid the mid-study slump.
