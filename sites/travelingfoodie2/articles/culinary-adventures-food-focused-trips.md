@@ -17,7 +17,7 @@ reviewer_notes: ''
 source_url: 'https://www.wendyperrin.com/food-focused-trips-reviews-from-our-travelers/'
 source_item_id: 6a182f730fc9210eaf31aaef
 generated_by: openai
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/culinary-adventures-food-focused-trips.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 72
@@ -31,6 +31,9 @@ quality_note: >-
   title exceeding optimal length and no defined target keywords to evaluate
   integration against.
 reading_time: 3
+image_alt: >-
+  Sunlit rustic table with regional foods, wine, market produce, and
+  travel-inspired dining details.
 ---
 ## TL;DR
 If you’re a food lover, dive into these immersive culinary trips that offer extraordinary experiences from local homes to farms. Here’s how to plan your next food journey beyond just restaurant reservations!
