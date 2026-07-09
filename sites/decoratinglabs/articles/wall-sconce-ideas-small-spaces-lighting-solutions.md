@@ -34,8 +34,7 @@ image_alt: >-
   Compact powder room with brass wall sconces framing an arched mirror above a
   dark vanity.
 topics:
-  - Tips & Advice
-  - decor ideas
+  - Latest News
 ---
 ## Why Wall Sconces Are Essential for Small Spaces
 

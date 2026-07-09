@@ -37,7 +37,6 @@ image_alt: >-
   outside a sunny café.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## The Celebrity Moment That Launched a Trend
 

@@ -27,7 +27,6 @@ seo:
   twitter_card: summary_large_image
 topics:
   - tv shows
-  - reviews
 ---
 
 Summer is prime time for reality TV, and this season brings a crowded lineup of dating experiments, celebrity-adjacent drama, talent competitions, docuseries, and franchise favorites. From villas and beaches to Bravo friend groups and high-pressure workrooms, these new and returning shows offer plenty of reasons to keep your streaming queue full.

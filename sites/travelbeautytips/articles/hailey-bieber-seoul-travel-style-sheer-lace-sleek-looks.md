@@ -38,7 +38,6 @@ image_alt: >-
   Seoul convenience store.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## Celebrity Travel Fashion Takes Center Stage
 

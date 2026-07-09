@@ -35,7 +35,6 @@ reading_time: 3
 image_alt: Quiet turquoise Var coast cove framed by umbrella pines and limestone rocks
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## A Quieter Alternative to the Classic Riviera
 

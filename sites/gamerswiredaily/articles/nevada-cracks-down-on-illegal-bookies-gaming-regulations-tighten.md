@@ -51,7 +51,6 @@ image_alt: >-
   the background
 topics:
   - Gaming News
-  - Industry Updates
 ---
 
 Nevada, the bustling epicenter of the gaming industry, is renowned for its stringent regulatory environment. The state has long maintained a reputation for having a well-regulated gaming industry, ensuring fair play and strict compliance. However, recent developments have highlighted the ongoing challenges in maintaining these high standards as state regulators intensify their crackdown on illegal bookmakers operating within the region.

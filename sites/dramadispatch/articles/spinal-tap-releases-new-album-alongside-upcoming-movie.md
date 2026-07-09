@@ -42,7 +42,6 @@ image_alt: >-
   comeback performance.
 topics:
   - Music Spotlight
-  - Movie Reviews
 ---
 
 The legendary rock band Spinal Tap is set to make a remarkable return with a brand-new album, their first in several years. Known for their satirical take on the rock music industry, Spinal Tap has garnered a cult following since their inception. This latest project is poised to captivate both new listeners and devoted fans alike.

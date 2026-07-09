@@ -47,7 +47,6 @@ image_alt: >-
   onto the pitch
 topics:
   - Latest News
-  - Leagues
 ---
 
 Everton welcome Manchester City to Goodison Park for a Premier League fixture loaded with storylines, from the hosts chasing a strong finish in their final season at the historic ground to City trying to protect their place in the race for European qualification. For viewers in the United States, the match offers another high-profile chance to watch Pep Guardiola's side against a disciplined Everton team that has become harder to beat under David Moyes.

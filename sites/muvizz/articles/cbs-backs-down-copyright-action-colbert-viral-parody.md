@@ -37,7 +37,6 @@ image_alt: >-
   away.
 topics:
   - Breaking News
-  - Trailers
 ---
 ## CBS Reverses Course on Viral Colbert Content
 

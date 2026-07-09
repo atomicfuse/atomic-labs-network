@@ -35,8 +35,7 @@ image_alt: >-
   Modern formal dining room with a round wood table, upholstered chairs, soft
   curtains, and statement lighting.
 topics:
-  - Latest News
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Return of the Formal Dining Room
 

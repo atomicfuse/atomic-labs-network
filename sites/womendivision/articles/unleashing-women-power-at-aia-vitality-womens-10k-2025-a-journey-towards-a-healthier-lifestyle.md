@@ -54,7 +54,6 @@ image_alt: >-
 topics:
   - Fitness
   - Lifestyle
-  - Workout Meals
 ---
 
 Designed to inspire, the AIA Vitality Women's 10K race is a beacon of empowerment and healthy living for women. This 2025 event, organized by AIA, is more than just a race; it's a platform for women to embrace a healthy lifestyle and achieve their fitness goals.

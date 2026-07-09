@@ -29,7 +29,7 @@ seo:
   og_image: 'http://dogpotato.com/wp-content/uploads/2026/05/make_file-3.jpeg'
   twitter_card: summary_large_image
 topics:
-  - Breed Guides
+  - Pet Care & Health
 ---
 
 Warm weather can turn a simple walk into a serious health risk for dogs, especially for breeds that struggle to cool down efficiently. When temperatures rise, owners need to understand which pets are most vulnerable, how overheating develops, and what quick action can prevent a veterinary emergency.

@@ -45,7 +45,6 @@ image_alt: >-
   battle to avoid relegation.
 topics:
   - Latest News
-  - Leagues
 ---
 
 As the Premier League season progresses, Tottenham Hotspur faces the daunting challenge of averting relegation. The team's recent performances have raised concerns among fans and analysts alike, prompting discussions about the strategies needed to ensure their survival in England's top football division.

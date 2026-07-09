@@ -35,7 +35,6 @@ image_alt: >-
   glass conference table
 topics:
   - TV & Streaming
-  - Movie Reviews
 ---
 ## The Appeal of Media Industry Drama
 

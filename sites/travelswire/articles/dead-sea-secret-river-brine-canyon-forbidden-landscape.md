@@ -5,8 +5,8 @@ description: >-
   canyon, a forbidden military zone with colorful salt pools and alien-like
   terrain.
 type: standard
-status: review
-publishDate: '2026-06-08'
+status: published
+publishDate: 2026-06-08T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Adventure Activities
@@ -15,10 +15,7 @@ tags:
   - desert landscape
   - forbidden places
 slug: dead-sea-secret-river-brine-canyon-forbidden-landscape
-reviewer_notes: >-
-  Well-written adventure content with excellent topic relevance but falls short
-  on length and contains some unverifiable claims about specific restrictions
-  and photographer details.
+reviewer_notes: Approved via review queue.
 source_url: 'https://www.ynetnews.com/travel/article/hj9yliylze'
 source_item_id: 6a25149a40722bf12ccf98ef
 generated_by: claude

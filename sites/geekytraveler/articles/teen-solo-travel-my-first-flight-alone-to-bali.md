@@ -47,8 +47,6 @@ image_alt: >-
   reflections.
 topics:
   - Travel Tips
-  - Destination Guides
-  - Adventure Activities
 ---
 
 Flying alone for the first time can be both an exhilarating and daunting experience, especially for teenagers. The journey to Bali offers a perfect blend of adventure, discovery, and personal growth. Understanding the essentials of solo air travel can make the experience smooth and enjoyable.

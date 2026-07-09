@@ -36,7 +36,6 @@ image_alt: >-
   remote desert canyon.
 topics:
   - Destination Guides
-  - Adventure Activities
 ---
 ## A Forbidden Desert Wonder
 

@@ -40,7 +40,6 @@ image_alt: >-
   single spotlight
 topics:
   - Breaking News
-  - Trailers
 ---
 ## Musical Adaptation Under Consideration
 

@@ -49,7 +49,6 @@ image_alt: >-
   kitchen
 topics:
   - Nutrition Tips
-  - Weight & Wellness
 ---
 
 When it comes to maintaining a healthy lifestyle, adopting a balanced diet is just as essential as regular exercise. Dr. Mike Israetel, a popular health and fitness influencer, has recently shared some valuable nutrition tips that can help in this pursuit. From understanding the importance of protein to making smart choices about fats and sugars, his advice is both practical and easy to follow.

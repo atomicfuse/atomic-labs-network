@@ -37,7 +37,7 @@ image_alt: >-
   Tiny orange tabby kitten cradled in caring hands on soft bedding in a warm
   shelter setting.
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 ## A Critical Case That Defied All Odds
 

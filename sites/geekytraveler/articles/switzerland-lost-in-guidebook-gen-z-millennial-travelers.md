@@ -36,7 +36,6 @@ image_alt: >-
   hour
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## Switzerland Targets Young Travelers with New Authentic Guide
 

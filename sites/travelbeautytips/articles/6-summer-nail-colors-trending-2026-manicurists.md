@@ -35,7 +35,6 @@ image_alt: >-
   copper, and marigold shades.
 topics:
   - Beauty Tips
-  - Destinations
 ---
 Summer 2026 is bringing a fresh palette of nail colors that promise to elevate your manicure game. According to expert recommendations from celebrity manicurists, six standout shades are dominating the season, offering everything from subtle sophistication to bold statement-making hues.
 

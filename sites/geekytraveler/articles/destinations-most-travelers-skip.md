@@ -35,7 +35,6 @@ quality_note: >-
 reading_time: 4
 topics:
   - Travel Tips
-  - Destination Guides
 ---
 
 ## The Paradox of the Well-Traveled World

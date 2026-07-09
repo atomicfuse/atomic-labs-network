@@ -45,8 +45,6 @@ image_alt: >-
   planning strategy
 topics:
   - Gaming News
-  - Tips & Strategies
-  - Industry Updates
 ---
 
 India's online gaming industry is navigating a transformative period following recent regulatory changes. These changes have compelled companies to innovate and explore new strategies for compliance and growth. The dynamic landscape has prompted a shift in business models and investments in technology, aiming to ensure sustainability and expansion in the face of new challenges.

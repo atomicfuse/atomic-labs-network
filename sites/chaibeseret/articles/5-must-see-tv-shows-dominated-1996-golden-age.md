@@ -34,7 +34,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
-  - reviews
 ---
 ## The Year That Defined Must See TV
 

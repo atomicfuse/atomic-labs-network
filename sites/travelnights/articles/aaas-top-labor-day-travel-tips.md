@@ -43,7 +43,6 @@ quality_note: >-
 image_alt: Family car packed for a late-summer road trip on a sunny morning
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 As Labor Day approaches, many Americans eagerly anticipate the long weekend to embark on a road trip or visit loved ones. However, with an increase in travel comes the need for careful planning to ensure a smooth and enjoyable journey. Here are essential tips to help you prepare for Labor Day travel, whether you're hitting the road or flying to your destination.

@@ -32,7 +32,7 @@ quality_note: >-
   SEO optimization and content is slightly below target length.
 image_alt: Calm cat near a father’s bandaged hand in a softly lit home setting
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 ## When Pet Bites Turn Dangerous
 

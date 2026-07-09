@@ -48,8 +48,6 @@ image_alt: >-
   phone, and local market fruit.
 topics:
   - Travel Tips
-  - Destination Guides
-  - Local Culture
 ---
 
 Planning a vacation on a budget can seem daunting, but with the right strategies, you can enjoy your dream getaway without breaking the bank. As travel increasingly becomes a treasured part of life, knowing how to stretch your dollar is invaluable. From choosing the right destinations to booking at the optimal times, there are plenty of ways to save money while still enjoying a memorable experience.

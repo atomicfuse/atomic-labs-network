@@ -49,7 +49,6 @@ image_alt: >-
   soccer scene.
 topics:
   - Latest News
-  - Leagues
 ---
 
 In recent times, the allure of Major League Soccer (MLS) has grown significantly, attracting some of the best soccer talents from around the world. This trend is fueled by the league's expanding popularity and competitive nature. Among the latest discussions in the soccer community is whether Premier League stars, such as Jack Grealish, might consider MLS as a future destination.

@@ -32,14 +32,6 @@ quality_note: >-
   requested tone. The content is factually accurate for a destination piece and
   covers all key landmarks. The length is appropriate for the format.
 reading_time: 4
-scripts:
-  - id: 7807a06a-c811-4104-a234-5d2937b21420
-    name: cta
-    position: after-paragraph-1
-    content: >-
-      <script
-      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
-      async></script> <div data-cg-feed="TravelSwire1"></div>
 topics:
   - Destination Guides
 ---

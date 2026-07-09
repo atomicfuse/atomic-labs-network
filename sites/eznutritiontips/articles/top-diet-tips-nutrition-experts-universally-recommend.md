@@ -44,7 +44,6 @@ image_alt: >-
   healthy daily habits
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 Embarking on a journey toward better health often involves making informed dietary choices. Nutrition experts emphasize that sustainable fat loss hinges on adopting practices that not only promote shedding pounds but also enhance overall well-being. Here, we delve into effective strategies to help you achieve lasting results without compromising your health.

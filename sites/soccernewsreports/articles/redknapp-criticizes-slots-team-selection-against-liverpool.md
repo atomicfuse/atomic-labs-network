@@ -49,7 +49,6 @@ image_alt: >-
   debate over team selection
 topics:
   - Latest News
-  - Match Reports
 ---
 
 In recent sports discussions, Liverpool's tactical decisions during their recent match against Feyenoord have generated significant attention. The clash drew interest due to the strategic choices made by Arne Slot, Feyenoord's manager, which some analysts suggest were less than optimal. This game was more than just another contest on the field; it was a display of managerial tactics and team dynamics that left experts and fans alike pondering the outcomes.

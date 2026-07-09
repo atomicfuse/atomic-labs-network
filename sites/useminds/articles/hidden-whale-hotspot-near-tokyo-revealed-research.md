@@ -4,7 +4,7 @@ description: >-
   Scientists create first habitat map for humpback whales around Japan's remote
   Ogasawara Islands, revealing key gathering spots that could transform whale...
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Daniel Rivera
 tags:

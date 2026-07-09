@@ -36,7 +36,7 @@ quality_note: >-
   for pet enthusiasts.
 image_alt: Neighbors search a wooded New Hampshire roadside for a missing dog at sunset.
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 ## Community Mobilizes for Missing Pet Search
 

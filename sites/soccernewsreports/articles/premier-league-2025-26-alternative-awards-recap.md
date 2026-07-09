@@ -39,7 +39,6 @@ image_alt: >-
 topics:
   - Transfers
   - Analysis
-  - Leagues
 ---
 ## Season-End Awards Spark Premier League Debate
 

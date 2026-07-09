@@ -37,7 +37,6 @@ image_alt: >-
   Riviera travel details.
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## The French Riviera's Best-Kept Secret
 

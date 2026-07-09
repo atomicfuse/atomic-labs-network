@@ -37,7 +37,6 @@ image_alt: >-
   lighting.
 topics:
   - Expert Guides
-  - Tips & Advice
 ---
 ## The Rise of Outdoor Living Spaces
 

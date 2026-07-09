@@ -33,7 +33,7 @@ videos:
     url: 'https://www.youtube.com/watch?v=WWG_eejlsA0'
     position: after-paragraph-1
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 
 In the heart of Santa Fe, New Mexico, a dedicated dog rescuer has found a unique ally in the form of a professional pet trapper. This collaboration is not only transforming the way stray dogs are managed but also highlighting the importance of community involvement in animal welfare. With numerous dogs in need of help, their partnership is proving to be a beacon of hope for the city's canine population.

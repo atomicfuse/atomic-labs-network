@@ -50,7 +50,6 @@ image_alt: >-
   scene.
 topics:
   - Latest News
-  - Leagues
 ---
 
 European soccer enthusiasts were treated to an exhilarating weekend of matches across top leagues, with standout performances and surprising outcomes. Fans witnessed thrilling moments in the Premier League, La Liga, and Bundesliga, showcasing the unpredictability and excitement of the sport.

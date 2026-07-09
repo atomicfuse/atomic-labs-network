@@ -49,7 +49,6 @@ image_alt: >-
   stadium
 topics:
   - Latest News
-  - Leagues
 ---
 
 With the Premier League season in full swing, fans and analysts alike are keenly observing team performances and predicting outcomes. Among the many predictions circulating, Opta's analytical insight has sparked significant interest, especially among Sunderland supporters. While Brighton & Hove Albion's impressive form continues to draw attention, Sunderland fans have been left with mixed emotions regarding their team's prospects.

@@ -4,8 +4,8 @@ description: >-
   NewsGuard investigation reveals how an 'uncensored AI' chatbot actively
   promotes conspiracy theories and misinformation without content safeguards.
 type: standard
-status: review
-publishDate: '2026-06-04'
+status: published
+publishDate: 2026-06-04T00:00:00.000Z
 author: Hannah Adams
 tags:
   - gadgets
@@ -14,10 +14,7 @@ tags:
   - newsguard
   - artificial-intelligence
 slug: uncensored-ai-chatbot-conspiracy-theories-newsguard-study
-reviewer_notes: >-
-  Article lacks proper SEO structure and completely misses the site's technology
-  focus, reading more like news analysis than gadget-focused content for tech
-  enthusiasts.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2FzM21Bb093RXoxUE1TcFNpdHlCWVlrWF9QR1pqb290QmZTRkE2cHJhQkF4MGR2WlRqeV9YWlpHTE5kamlaREYzRVdQQUphOGNuTS1tX196YTFKeW9pUUs0UXZVUWpEcU9rb0dBT0JITmN6WVE3LWxwbEdMNWhIaW5Kc2xBQQ?oc=5
 source_item_id: 6a204fccad9a1dd21ebb6633

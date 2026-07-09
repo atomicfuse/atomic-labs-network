@@ -37,8 +37,7 @@ quality_note: >-
 reading_time: 3
 image_alt: Dog and cat resting in shaded summer comfort beside a fresh water bowl.
 topics:
-  - Animal Behavior
-  - Breed Guides
+  - Pet Care & Health
 ---
 ## Summer Heat Poses Real Dangers to Pets
 

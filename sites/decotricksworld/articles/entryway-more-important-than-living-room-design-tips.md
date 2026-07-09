@@ -36,7 +36,7 @@ image_alt: >-
   Stylish entryway with wood console, round mirror, greenery, and warm daylight
   leading into a calm home.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Overlooked Space That Makes the Biggest Impact
 

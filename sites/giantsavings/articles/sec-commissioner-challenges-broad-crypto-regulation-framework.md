@@ -5,8 +5,8 @@ description: >-
   apply to blockchain infrastructure, signaling potential regulatory shift
   for...
 type: standard
-status: review
-publishDate: '2026-06-04'
+status: published
+publishDate: 2026-06-04T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -15,9 +15,7 @@ tags:
   - blockchain infrastructure
   - financial compliance
 slug: sec-commissioner-challenges-broad-crypto-regulation-framework
-reviewer_notes: >-
-  This cryptocurrency regulation article is completely misaligned with the
-  personal finance site's focus on saving tips, budgeting, and grocery savings.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.bitcoin.com/sec-commissioner-challenges-blockchain-oversight-push-that-could-shape-crypto-rules/
 source_item_id: 6a20f842ad9a1dd21ebb673c

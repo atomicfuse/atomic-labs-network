@@ -36,7 +36,6 @@ image_alt: >-
   moody film makeup trailer
 topics:
   - Movie Reviews
-  - Celebrity Culture
 ---
 ## The Art of Celebrity Transformation
 

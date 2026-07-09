@@ -5,8 +5,8 @@ description: >-
   frappato. Learn proper serving temperatures and discover nine standout
   bottles.
 type: standard
-status: review
-publishDate: '2026-06-09'
+status: published
+publishDate: 2026-06-09T00:00:00.000Z
 author: Ryan Powell
 tags:
   - Coffee News
@@ -15,9 +15,7 @@ tags:
   - food pairing
   - expert guide
 slug: chillable-red-wines-summer-guide-expert-picks
-reviewer_notes: >-
-  This is a well-written wine article but completely misaligned with
-  coffeeactually's coffee-focused content requirements and keyword strategy.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://www.forbes.com/sites/katiebell/2026/06/01/the-expert-guide-to-the-best-chillable-red-wines-to-drink-all-summer/
 source_item_id: 6a1e39229bf3ecf115d981d4

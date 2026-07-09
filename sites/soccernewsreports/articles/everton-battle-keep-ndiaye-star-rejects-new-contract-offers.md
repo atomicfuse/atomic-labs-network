@@ -40,7 +40,6 @@ image_alt: >-
 topics:
   - Latest News
   - Transfers
-  - Leagues
 ---
 ## Everton's Contract Standoff with Star Forward
 

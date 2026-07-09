@@ -38,7 +38,7 @@ image_alt: >-
   Elegant hallway and dining nook with repurposed cabinetry used as built-in
   storage and seating
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Unexpected Design Revolution Happening Beyond the Kitchen
 

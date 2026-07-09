@@ -46,7 +46,6 @@ image_alt: >-
   and fraud prevention.
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 Traveling offers enriching experiences, but it's important to remain vigilant against potential fraud. With the rise of online transactions, travelers are increasingly targeted by scams. Understanding how to protect yourself from travel-related fraud can ensure your journey is safe and enjoyable.

@@ -5,8 +5,8 @@ description: >-
   discovering the Caribbean's summer advantages: fewer crowds, lower prices,
   and...
 type: standard
-status: review
-publishDate: '2026-06-05'
+status: published
+publishDate: 2026-06-05T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -15,10 +15,7 @@ tags:
   - budget travel
   - travel timing
 slug: why-summer-is-caribbean-best-kept-travel-secret
-reviewer_notes: >-
-  Strong travel content with excellent topic relevance and engaging tone, but
-  falls significantly short of target word count and contains some unsupported
-  statistical claims.
+reviewer_notes: Approved via review queue.
 source_url: 'https://www.afar.com/magazine/why-you-should-visit-the-caribbean-in-the-summer'
 source_item_id: 6a2087c2ad9a1dd21ebb66c8
 generated_by: claude

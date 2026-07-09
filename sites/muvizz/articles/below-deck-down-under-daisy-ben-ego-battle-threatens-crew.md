@@ -37,7 +37,6 @@ image_alt: >-
   competing leaders.
 topics:
   - TV Shows
-  - Trailers
 ---
 ## Power Struggle Reaches Breaking Point
 

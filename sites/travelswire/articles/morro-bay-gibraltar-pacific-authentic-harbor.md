@@ -33,14 +33,6 @@ quality_note: >-
   language and good structure. Could be enhanced with specific business names or
   seasonal tips for visitors. Meets length and formatting requirements.
 reading_time: 3
-scripts:
-  - id: ce93e4cf-1c57-4638-a5d7-684fb1dacbab
-    name: cta
-    position: after-paragraph-1
-    content: >-
-      <script
-      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
-      async></script> <div data-cg-feed="TravelSwire1"></div>
 topics:
   - Destination Guides
 ---

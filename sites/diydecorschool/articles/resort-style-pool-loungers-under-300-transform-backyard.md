@@ -34,7 +34,7 @@ image_alt: >-
   White in-pool loungers on a shallow turquoise pool shelf styled like a relaxed
   backyard resort.
 topics:
-  - In-Depth Reviews
+  - Expert Guides
 ---
 ## Bringing Resort Luxury Home for Less
 

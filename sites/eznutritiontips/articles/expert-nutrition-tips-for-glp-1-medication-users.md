@@ -44,7 +44,6 @@ image_alt: >-
   counter
 topics:
   - Nutrition Tips
-  - Weight & Wellness
 ---
 
 # GLP-1 Medications and Nutrition

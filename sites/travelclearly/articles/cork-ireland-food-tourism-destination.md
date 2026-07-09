@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/katiebell/2026/06/08/the-food-lovers-expert-guide-to-cork-ireland/
 source_item_id: 6a2773a4eb470600f97052b5
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/cork-ireland-food-tourism-destination.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,7 @@ quality_note: >-
   short on length requirements and contains vague claims that could benefit from
   more specific supporting details.
 reading_time: 3
+image_alt: Elegant farm-to-table meal overlooking Cork at golden hour
 topics:
   - Destinations
   - Food & Drink

@@ -36,7 +36,7 @@ image_alt: >-
   Sunlit summer living room with linen furniture, garden doors, natural
   textures, and warm neutral decor
 topics:
-  - In-Depth Reviews
+  - Expert Guides
 ---
 ## The New Approach to Summer Home Styling
 

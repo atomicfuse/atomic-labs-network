@@ -48,7 +48,6 @@ quality_note: >-
 image_alt: Floodlit football dugout with tactical gear as players train in the background
 topics:
   - Latest News
-  - Leagues
 ---
 
 In the ever-evolving world of the Premier League, managerial changes during the season have become a common strategy for clubs seeking to revitalize their campaigns. As teams face mounting pressure to deliver results, replacing managers mid-season can often lead to a significant shift in a team's performance and morale.

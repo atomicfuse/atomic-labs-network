@@ -36,7 +36,7 @@ image_alt: >-
   Elegant travel-inspired dining room with layered textures, rich colors, and
   collected artisan decor
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## Bringing Adventure Home Through Thoughtful Design
 

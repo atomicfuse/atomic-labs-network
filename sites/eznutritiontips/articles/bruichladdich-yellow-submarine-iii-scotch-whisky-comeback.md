@@ -5,8 +5,8 @@ description: >-
   14-year-old single malt that celebrates the brand's quirky origins and
   25-year...
 type: standard
-status: review
-publishDate: '2026-06-05'
+status: published
+publishDate: 2026-06-05T00:00:00.000Z
 author: Ben Rivera
 tags:
   - Nutrition Myths
@@ -15,9 +15,7 @@ tags:
   - islay distillery
   - craft spirits
 slug: bruichladdich-yellow-submarine-iii-scotch-whisky-comeback
-reviewer_notes: >-
-  This article about Scotch whisky is completely off-topic for a nutrition and
-  food website, despite being well-written and factually sound.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
 source_item_id: 6a1e39229bf3ecf115d981de

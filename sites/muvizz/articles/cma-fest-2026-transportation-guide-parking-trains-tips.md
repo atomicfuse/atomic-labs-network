@@ -37,7 +37,6 @@ image_alt: >-
   near a stadium at golden hour.
 topics:
   - Breaking News
-  - Trailers
 ---
 ## Getting to CMA Fest 2026: Your Complete Transportation Guide
 

@@ -28,7 +28,7 @@ seo:
   og_image: 'http://dogpotato.com/wp-content/uploads/2026/01/make_file-2.jpeg'
   twitter_card: summary_large_image
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 
 Sweden has recently uncovered a remarkable archaeological find, shedding light on ancient burial practices. A well-preserved dog, believed to be around 5,000 years old, was discovered buried alongside a dagger, pointing to the animal's elite status in prehistoric society.

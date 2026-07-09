@@ -37,8 +37,7 @@ image_alt: >-
   Sunlit summer interior blending classic British style with relaxed California
   coastal textures.
 topics:
-  - Latest News
-  - Tips & Advice
+  - Expert Guides
 ---
 ## A New Approach to Summer Home Styling
 

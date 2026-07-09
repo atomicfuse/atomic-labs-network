@@ -36,7 +36,6 @@ reading_time: 3
 topics:
   - Nutrition
   - Healthy Snacks
-  - Meal Plans
 ---
 ## The Challenge of Healthy Travel Eating
 

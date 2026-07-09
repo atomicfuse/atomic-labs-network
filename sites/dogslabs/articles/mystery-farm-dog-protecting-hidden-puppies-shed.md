@@ -34,7 +34,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Dogs
-  - Animal Behavior
 image_alt: >-
   Black mother dog near a farm shed protecting puppies in a softly lit rural
   rescue scene

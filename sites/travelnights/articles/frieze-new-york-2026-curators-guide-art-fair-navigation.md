@@ -35,7 +35,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Culture
-  - Guides & Tips
 image_alt: >-
   Overhead view of a sleek art fair maze with visitors following a softly lit
   curator-like path.

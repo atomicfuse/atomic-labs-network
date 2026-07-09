@@ -51,7 +51,6 @@ image_alt: >-
   blurred in the background
 topics:
   - Special Diets
-  - Weight & Wellness
 ---
 
 Duchenne Muscular Dystrophy (DMD) is a daunting genetic disorder, primarily affecting young boys. Mitigating its impact requires a comprehensive approach, which includes nutrition at its core. Dietary adjustments can play a fundamental role in managing DMD's debilitating effects. Let's delve into the nutritional aspects relevant to managing Duchenne Muscular Dystrophy.

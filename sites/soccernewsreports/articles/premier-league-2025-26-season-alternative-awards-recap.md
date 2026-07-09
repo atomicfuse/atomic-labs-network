@@ -42,7 +42,6 @@ image_alt: >-
 topics:
   - Transfers
   - Analysis
-  - Leagues
 ---
 ## Season-End Analysis Captures Premier League Highs and Lows
 

@@ -34,7 +34,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Nutrition Tips
-  - Weight & Wellness
 image_alt: >-
   Calm morning table with a dimmed phone, tea, fruit, notebook, and hourglass
   suggesting mindful tech use.

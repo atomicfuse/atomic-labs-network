@@ -37,7 +37,7 @@ image_alt: >-
   Chic covered patio with outdoor sofas, lounge chairs, plants, layered rugs,
   and soft lantern lighting.
 topics:
-  - Tips & Advice
+  - Latest News
 ---
 ## Transform Your Outdoor Space Into a Stylish Living Room
 

@@ -51,7 +51,6 @@ image_alt: >-
   lifestyle.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 Living a healthy lifestyle is a journey enriched with delicious meals and invigorating workouts. In this blog post, we dive into a full day dedicated to nourishing your body and embracing an active routine. From breakfast to dinner, discover how to incorporate wholesome recipes and effective exercise tips into your daily regimen.

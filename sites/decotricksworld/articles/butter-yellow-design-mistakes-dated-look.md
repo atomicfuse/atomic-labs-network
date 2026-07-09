@@ -35,7 +35,7 @@ image_alt: >-
   Butter yellow living room with warm neutrals, brass accents, vintage wood, and
   natural textures.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Butter Yellow Revival Takes a Wrong Turn
 

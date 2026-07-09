@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.vogue.com/article/airbnbs-in-sweden'
 source_item_id: 6a2773a3eb470600f9705290
 generated_by: claude
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/stylish-airbnbs-sweden-midsummer-getaway.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -30,6 +30,9 @@ quality_note: >-
   Strong keyword relevance and tone but significantly below target word count
   and contains vague sourcing that raises accuracy concerns.
 reading_time: 3
+image_alt: >-
+  Stylish Swedish waterfront cottage with Midsummer flowers, Nordic decor, and
+  golden summer light
 topics:
   - Destinations
 ---

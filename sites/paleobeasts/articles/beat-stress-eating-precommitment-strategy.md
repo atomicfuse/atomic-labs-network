@@ -38,7 +38,6 @@ image_alt: >-
   easier choices
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## What Is Precommitment and Why Does It Work?
 

@@ -39,7 +39,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
-  - Local Culture
 ---
 ## A Troubling Decline in US Tourism
 

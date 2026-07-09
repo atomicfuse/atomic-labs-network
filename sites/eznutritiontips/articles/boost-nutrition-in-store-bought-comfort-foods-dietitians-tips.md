@@ -49,7 +49,6 @@ image_alt: >-
   bright kitchen counter.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 Transforming store-bought comfort foods into nutritious meals is simpler than you might think. Many people crave the ease of pre-packaged meals but worry about the lack of nutritional value. By making a few strategic modifications, you can elevate these convenient options into health-friendly dishes that satisfy both your taste buds and dietary needs.

@@ -42,7 +42,6 @@ image_alt: >-
   Mediterranean coastline beyond.
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Spain is reshaping its tourism identity with a stronger focus on sustainability, cleaner mobility, and better destination management. Long known for its cultural landmarks, lively cities, and sunny coastlines, the country is now placing greener travel at the center of its visitor experience. Madrid and several coastal destinations are leading this shift by improving public transport, protecting natural spaces, reducing emissions, and encouraging travelers to explore with a lighter footprint.

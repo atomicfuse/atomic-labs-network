@@ -45,7 +45,6 @@ image_alt: >-
   and adaptive controllers.
 topics:
   - Gaming News
-  - Industry Updates
 ---
 
 Maverick Gaming has taken a significant step forward in creating an inclusive environment for gamers of all levels. Their recent initiatives aim to foster a community where everyone feels welcome, regardless of their gaming experience or background.

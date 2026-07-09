@@ -5,8 +5,8 @@ description: >-
   meals, exclusive collectible toys, and a new Banana Frosty Swirl starting June
   15.
 type: standard
-status: review
-publishDate: '2026-06-11'
+status: published
+publishDate: 2026-06-11T00:00:00.000Z
 author: Ryan Powell
 tags:
   - Coffee News
@@ -15,10 +15,7 @@ tags:
   - collectible-toys
   - movie-tie-in
 slug: wendys-minions-monsters-meal-banana-frosty-swirl
-reviewer_notes: >-
-  This article about Wendy's fast food promotion is completely off-topic for a
-  coffee-focused site and contains minimal SEO optimization for the target
-  keywords.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://www.foxbusiness.com/lifestyle/wendys-launches-minions-monsters-meal-exclusive-collectible-toys-new-banana-frosty-swirl
 source_item_id: 6a2773a3eb470600f9705295

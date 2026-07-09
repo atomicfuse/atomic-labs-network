@@ -36,7 +36,6 @@ image_alt: >-
   under a bright summer sky.
 topics:
   - Travel Tips
-  - Destination Guides
 ---
 ## The Summer Caribbean Revolution
 

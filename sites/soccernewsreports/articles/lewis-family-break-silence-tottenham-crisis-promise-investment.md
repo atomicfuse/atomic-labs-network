@@ -39,7 +39,6 @@ image_alt: >-
   club at a turning point.
 topics:
   - Latest News
-  - Leagues
 ---
 ## Ownership Finally Speaks Out
 

@@ -47,7 +47,6 @@ image_alt: >-
   suggesting a title pursuit.
 topics:
   - Latest News
-  - Leagues
 ---
 
 Manchester United's pursuit of major honours depends on more than star power. It also needs rhythm, balance, resilience, and players who can turn pressure into momentum. Mason Mount sits firmly inside that story, because his Old Trafford career still feels like a question waiting for a convincing answer.

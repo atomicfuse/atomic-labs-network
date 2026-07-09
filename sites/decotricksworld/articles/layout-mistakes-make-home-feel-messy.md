@@ -36,7 +36,7 @@ image_alt: >-
   Balanced living room composition contrasts cramped furniture placement with
   calm open space.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Hidden Culprits Behind a Messy-Looking Home
 

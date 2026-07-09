@@ -36,7 +36,7 @@ image_alt: >-
   Serene remodeled bathroom with soaking tub, warm finishes, soft light, and
   greenery outside.
 topics:
-  - In-Depth Reviews
+  - Expert Guides
 ---
 ## The Shift Toward Wellness-Focused Bathroom Design
 

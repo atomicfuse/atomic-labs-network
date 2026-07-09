@@ -4,8 +4,8 @@ description: >-
   Federal case involving bitcoin robbery and kidnapping plot reveals how digital
   wealth creates physical security risks for crypto holders.
 type: standard
-status: review
-publishDate: '2026-06-15'
+status: published
+publishDate: 2026-06-15T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -14,10 +14,7 @@ tags:
   - personal safety
   - financial crime
 slug: bitcoin-theft-case-highlights-growing-crypto-security-risks
-reviewer_notes: >-
-  Article covers cryptocurrency crime which is off-topic for a personal finance
-  savings site, lacks proper SEO optimization, and doesn't align with the site's
-  focus areas of budgeting and saving tips.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.bitcoin.com/massive-bitcoin-theft-case-draws-guilty-plea-in-violent-kidnapping-plot/
 source_item_id: 6a2f78c232676a5c75e45145

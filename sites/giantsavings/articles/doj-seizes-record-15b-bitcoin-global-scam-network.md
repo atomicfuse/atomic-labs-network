@@ -4,8 +4,8 @@ description: >-
   The Department of Justice announced a record $15 billion bitcoin forfeiture
   case against a Cambodian national linked to global scam compounds and human...
 type: standard
-status: review
-publishDate: '2026-06-03'
+status: published
+publishDate: 2026-06-03T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -14,10 +14,7 @@ tags:
   - financial security
   - scam awareness
 slug: doj-seizes-record-15b-bitcoin-global-scam-network
-reviewer_notes: >-
-  This article about cryptocurrency seizures is completely off-topic for a
-  personal finance savings site and contains questionable claims about a $15B
-  bitcoin forfeiture that appears to be fabricated.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.bitcoin.com/dojs-record-127271-btc-seizure-resurfaces-amid-scam-crackdown/
 source_item_id: 6a1d03c29bf3ecf115d981ae

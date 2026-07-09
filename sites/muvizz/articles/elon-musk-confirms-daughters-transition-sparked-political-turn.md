@@ -39,7 +39,6 @@ image_alt: >-
   conflict and political polarization.
 topics:
   - Breaking News
-  - Trailers
 ---
 ## Tech Billionaire Confirms Personal Motivation Behind Political Shift
 

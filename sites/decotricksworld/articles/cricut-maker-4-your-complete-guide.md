@@ -49,7 +49,6 @@ image_alt: >-
   and finished DIY décor projects
 topics:
   - Expert Guides
-  - Tips & Advice
 ---
 
 # Cricut Maker 4: Your Complete Guide

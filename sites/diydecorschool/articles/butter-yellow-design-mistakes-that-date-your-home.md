@@ -35,7 +35,7 @@ image_alt: >-
   Warm butter-yellow living room styled with brass, oak, cream textiles, and
   earthy accents.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Butter Yellow Trend Taking Over Interiors
 

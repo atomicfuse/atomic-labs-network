@@ -35,7 +35,6 @@ reading_time: 3
 image_alt: Balanced Indian thali with protein-rich sides on a bright modern table
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Protein Gap in Traditional Indian Meals
 

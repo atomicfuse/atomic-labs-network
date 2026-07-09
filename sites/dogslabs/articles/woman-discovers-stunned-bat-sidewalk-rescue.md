@@ -37,7 +37,6 @@ image_alt: >-
   help.
 topics:
   - Wildlife Stories
-  - Animal Behavior
 ---
 ## The Surprising Discovery
 

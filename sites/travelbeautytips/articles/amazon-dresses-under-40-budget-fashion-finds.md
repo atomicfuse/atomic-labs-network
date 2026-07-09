@@ -36,7 +36,6 @@ image_alt: >-
   choosing an elevated budget-friendly look.
 topics:
   - Travel Tips
-  - Destinations
 ---
 ## Summer Shopping Just Got More Affordable
 

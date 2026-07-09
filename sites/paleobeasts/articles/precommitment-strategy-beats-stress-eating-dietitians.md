@@ -40,7 +40,6 @@ image_alt: >-
   glass
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Science Behind Stress and Food Choices
 

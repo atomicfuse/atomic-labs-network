@@ -36,7 +36,6 @@ image_alt: >-
   lush scenery at sunrise
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## The Rise of Multigenerational Luxury Travel
 

@@ -36,7 +36,6 @@ image_alt: >-
   scene.
 topics:
   - budget decor
-  - decor ideas
 ---
 ## Bringing Resort Luxury Home Without the Resort Price Tag
 

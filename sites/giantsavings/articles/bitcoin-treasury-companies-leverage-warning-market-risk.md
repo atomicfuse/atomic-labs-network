@@ -4,8 +4,8 @@ description: >-
   Charles Edwards warns that bitcoin treasury companies using record debt levels
   to buy BTC create systemic risks that could amplify market downturns.
 type: standard
-status: review
-publishDate: '2026-06-11'
+status: published
+publishDate: 2026-06-11T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -14,10 +14,7 @@ tags:
   - corporate finance
   - market analysis
 slug: bitcoin-treasury-companies-leverage-warning-market-risk
-reviewer_notes: >-
-  This article is completely off-topic for a personal finance site focused on
-  saving tips and budgeting, covering complex cryptocurrency market analysis
-  instead of practical money-saving advice for consumers.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.bitcoin.com/charles-edwards-bitcoin-treasuries-levering-up-record-rates/
 source_item_id: 6a2a32c37da23de6325b9a70
