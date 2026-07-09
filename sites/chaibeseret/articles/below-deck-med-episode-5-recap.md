@@ -20,7 +20,7 @@ source_url: >-
   https://www.vulture.com/article/below-deck-mediterranean-recap-season-11-episode-5-bravo.html
 source_item_id: 6a4c8eda14aeb4629abef6bc
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/below-deck-med-episode-5-recap.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - spoilers
+image_alt: >-
+  Yacht crew at night caught between flirtation, tension, and a pile of white
+  linens on deck.
 ---
 TL;DR: Episode 5 of Below Deck Mediterranean dives deep into messy love triangles, embarrassing laundry blunders, and budding romances, highlighting interesting character arcs.
 
