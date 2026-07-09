@@ -1,9 +1,12 @@
 ---
-title: "Summer Red Wine Guide: Chillable Varietals That Beat the Heat"
-description: Experts reveal the best red wines for summer chilling, from pinot noir to frappato. Learn proper serving temperatures and discover nine standout bottles.
+title: 'Summer Red Wine Guide: Chillable Varietals That Beat the Heat'
+description: >-
+  Experts reveal the best red wines for summer chilling, from pinot noir to
+  frappato. Learn proper serving temperatures and discover nine standout
+  bottles.
 type: standard
 status: published
-publishDate: 2026-06-09
+publishDate: 2026-06-09T00:00:00.000Z
 author: Ryan Powell
 tags:
   - Coffee News
@@ -13,7 +16,8 @@ tags:
   - expert guide
 slug: chillable-red-wines-summer-guide-expert-picks
 reviewer_notes: Approved via review queue.
-source_url: https://www.forbes.com/sites/katiebell/2026/06/01/the-expert-guide-to-the-best-chillable-red-wines-to-drink-all-summer/
+source_url: >-
+  https://www.forbes.com/sites/katiebell/2026/06/01/the-expert-guide-to-the-best-chillable-red-wines-to-drink-all-summer/
 source_item_id: 6a1e39229bf3ecf115d981d4
 generated_by: claude
 featuredImage: /assets/images/chillable-red-wines-summer-guide-expert-picks.webp
@@ -24,9 +28,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 15
-quality_note: This is a well-written wine article but completely misaligned with coffeeactually's coffee-focused content requirements and keyword strategy.
+quality_note: >-
+  This is a well-written wine article but completely misaligned with
+  coffeeactually's coffee-focused content requirements and keyword strategy.
 reading_time: 3
-image_alt: Chilled red wine glasses on a sunlit summer patio table with an unlabeled bottle in an ice bucket.
+image_alt: >-
+  Chilled red wine glasses on a sunlit summer patio table with an unlabeled
+  bottle in an ice bucket.
 topics:
   - Coffee News
 ---

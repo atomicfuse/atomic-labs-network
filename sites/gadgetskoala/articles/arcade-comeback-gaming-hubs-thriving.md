@@ -17,7 +17,7 @@ reviewer_notes: ''
 source_url: 'https://sdvoice.info/the-comeback-story-unfolding-inside-the-arcade-industry/'
 source_item_id: 6a3e0e5acbbe345bde1168fc
 generated_by: openai
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/arcade-comeback-gaming-hubs-thriving.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 68
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Gaming
+image_alt: >-
+  Neon-lit arcade filled with people gathering around retro-futuristic game
+  cabinets
 ---
 ## TL;DR
 Arcades are making a vibrant comeback, leveraging nostalgia, modern technology, and social interactions to become thriving community hubs. Discover how these spaces are evolving and why they matter today!

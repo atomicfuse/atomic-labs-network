@@ -44,7 +44,7 @@ image_alt: >-
   Sunlit summer living room with neutral decor, woven textures, ceramics, and
   fresh greenery.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 
 H&M has unveiled its latest home decor collection for the summer, and it promises to redefine your interior space with its stunning new offerings. This collection is a treasure trove of beautiful and functional pieces that are perfect for anyone looking to update their home decor. Whether you're a seasoned decorator or just starting, H&M's Summer Collection offers something for everyone.

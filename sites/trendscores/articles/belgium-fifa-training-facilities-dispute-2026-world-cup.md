@@ -18,7 +18,7 @@ source_url: >-
   https://www.nytimes.com/athletic/7431903/2026/07/08/belgium-training-pitch-fifa-world-cup/
 source_item_id: 6a4efe4ab48b296664f07a01
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/belgium-fifa-training-facilities-dispute-2026-world-cup.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 62
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Fan Zone
+image_alt: >-
+  Footballers gather on a worn training pitch as officials debate nearby under
+  stadium lights.
 ---
 ## TL;DR
 Belgium’s national team has been at odds with FIFA over training facility standards and player suspensions at the 2026 World Cup. This ongoing tension raises questions about tournament logistics as they prepare for a key quarterfinal match against Spain.

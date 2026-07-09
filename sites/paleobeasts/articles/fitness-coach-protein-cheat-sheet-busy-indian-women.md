@@ -37,7 +37,6 @@ image_alt: >-
   a lunchbox on a bright counter.
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Protein Gap in Traditional Indian Meals
 

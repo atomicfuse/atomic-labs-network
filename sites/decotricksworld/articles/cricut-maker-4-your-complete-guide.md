@@ -48,7 +48,7 @@ image_alt: >-
   Modern craft workspace with an unbranded cutting machine, colorful materials,
   and finished DIY décor projects
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 
 # Cricut Maker 4: Your Complete Guide

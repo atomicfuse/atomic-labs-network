@@ -1,9 +1,12 @@
 ---
 title: Wendy's Debuts Minions & Monsters Meal with New Banana Frosty
-description: Wendy's launches limited-time Minions & Monsters promotion featuring themed meals, exclusive collectible toys, and a new Banana Frosty Swirl starting June 15.
+description: >-
+  Wendy's launches limited-time Minions & Monsters promotion featuring themed
+  meals, exclusive collectible toys, and a new Banana Frosty Swirl starting June
+  15.
 type: standard
 status: published
-publishDate: 2026-06-11
+publishDate: 2026-06-11T00:00:00.000Z
 author: Ryan Powell
 tags:
   - Coffee News
@@ -13,7 +16,8 @@ tags:
   - movie-tie-in
 slug: wendys-minions-monsters-meal-banana-frosty-swirl
 reviewer_notes: Approved via review queue.
-source_url: https://www.foxbusiness.com/lifestyle/wendys-launches-minions-monsters-meal-exclusive-collectible-toys-new-banana-frosty-swirl
+source_url: >-
+  https://www.foxbusiness.com/lifestyle/wendys-launches-minions-monsters-meal-exclusive-collectible-toys-new-banana-frosty-swirl
 source_item_id: 6a2773a3eb470600f9705295
 generated_by: claude
 featuredImage: /assets/images/wendys-minions-monsters-meal-banana-frosty-swirl.webp
@@ -24,9 +28,14 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: This article about Wendy's fast food promotion is completely off-topic for a coffee-focused site and contains minimal SEO optimization for the target keywords.
+quality_note: >-
+  This article about Wendy's fast food promotion is completely off-topic for a
+  coffee-focused site and contains minimal SEO optimization for the target
+  keywords.
 reading_time: 3
-image_alt: Colorful fast-food meal with banana dessert and playful collectible toys on a bright diner table.
+image_alt: >-
+  Colorful fast-food meal with banana dessert and playful collectible toys on a
+  bright diner table.
 topics:
   - Coffee News
 ---

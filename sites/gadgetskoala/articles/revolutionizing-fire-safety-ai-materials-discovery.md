@@ -19,7 +19,7 @@ reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-06-ai-tool-reliably-flame-resistance.html'
 source_item_id: 6a435202b38c8d71670c61d7
 generated_by: openai
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/revolutionizing-fire-safety-ai-materials-discovery.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 52
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Gadgets
+image_alt: >-
+  Unbranded electronics protected by an AI-like molecular lattice from a subtle
+  flame glow
 ---
 ## TL;DR
 Researchers have developed an AI tool that predicts the flame resistance of epoxy resins, enabling faster and more cost-effective material safety assessments, particularly for industries like electronics and construction.

@@ -37,7 +37,7 @@ image_alt: >-
   Warm luxury kitchen and gathering area with layered materials, banquette
   seating, and cozy intimate zones.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## Creating Intimacy in Large Spaces
 

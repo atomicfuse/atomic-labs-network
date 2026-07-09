@@ -19,7 +19,7 @@ reviewer_notes: Approved via review queue.
 source_url: 'https://www.youtube.com/watch?v=dQX4Kc_ytcc'
 source_item_id: 6a1d08729bf3ecf115d981c0
 generated_by: claude
-featuredImage: /assets/images/wineoceans-general-article.webp
+featuredImage: /assets/images/wine-expert-challenges-boxed-wine-stigma-blind-taste-test.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 75
@@ -35,6 +35,9 @@ videos:
   - id: 4e0e0799-a193-4d81-b821-2ffda95e062e
     url: 'https://www.youtube.com/watch?v=dQX4Kc_ytcc'
     position: after-paragraph-1
+image_alt: >-
+  Elegant campsite wine tasting with glasses, bottles, and unbranded boxed wine
+  in golden light
 topics:
   - Wine reviews
 ---

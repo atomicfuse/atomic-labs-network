@@ -21,7 +21,7 @@ source_url: >-
   https://news.google.com/rss/articles/CBMifEFVX3lxTE5QSUFTS0RpcEFQRE9mOTl4UTJ5Zjg2Ym1Lb2dvZG9kVFpVeVdaaWVpbnZ3dVk4d2VOdFc0UE51Wk9RUVBhYWNXdUNta0lfR1VnOFNuTkFra3dkbkUyS0taM29GbG9SbU5VZzBWMkZ6c2xndEZBUkhjWldPY03SAYIBQVVfeXFMTnZCRnA0V0NidlN3ZzdITUF4T0t0WGZpN0FaU0hMX1dCZU0yeGhVUjdvbXNjZnoydGZ6THBFWkp3TWI1NDlqSDRUM3Rvb005T1dUZENYRlNYZm5xQl9PWGk5SjFCU2lVUHJWUVBkZGJLTUliMlJVbEJmaXZMbVhZWlhFZw?oc=5
 source_item_id: 6a4f00a363bff3a4eacd2c66
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/egypt-controversial-exit-day-27-world-cup.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Host Cities
+image_alt: >-
+  Footballer stands stunned in a floodlit stadium as VAR controversy looms over
+  a tense match.
 ---
 ## TL;DR
 On Day 27 of the World Cup, Egypt faced a heartbreaking exit after a controversial loss to Argentina, raising crucial questions about officiating and VAR decisions in the tournament.

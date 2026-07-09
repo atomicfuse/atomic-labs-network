@@ -20,7 +20,7 @@ source_url: >-
   https://www.hollywoodreporter.com/news/general-news/donald-trump-booed-nba-finals-new-york-city-1236616951/
 source_item_id: 6a279472eb470600f9705362
 generated_by: claude
-featuredImage: /assets/images/funnypigeon-general-article.webp
+featuredImage: /assets/images/trump-booed-nba-finals-game-3-new-york-city.webp
 quality_score: 35
 score_breakdown:
   seo_quality: 25
@@ -33,6 +33,9 @@ quality_note: >-
   factual inaccuracies, making it completely unreliable despite decent length
   and some engaging elements.
 reading_time: 3
+image_alt: >-
+  A packed basketball arena crowd reacts negatively to a blurred figure on the
+  overhead screen.
 topics:
   - Viral
 ---

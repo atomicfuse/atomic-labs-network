@@ -35,7 +35,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
-  - spoilers
 ---
 ## The BAFTA TV Awards' Most Notable Oversights
 

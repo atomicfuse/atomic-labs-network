@@ -33,7 +33,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Expert Guides
-  - Tips & Advice
 image_alt: >-
   Warm, refreshed living room with natural textures, curated decor, greenery,
   and soft daylight.

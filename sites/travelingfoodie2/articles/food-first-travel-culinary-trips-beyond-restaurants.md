@@ -35,7 +35,6 @@ image_alt: >-
   vineyards in warm afternoon light.
 topics:
   - food
-  - Local Culture
 ---
 ## The Rise of Immersive Food Travel
 

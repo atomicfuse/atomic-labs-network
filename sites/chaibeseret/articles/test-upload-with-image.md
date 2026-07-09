@@ -11,7 +11,7 @@ tags:
 publishDate: 2026-05-13T00:00:00.000Z
 featuredImage: /assets/images/test-upload-with-image.webp
 topics:
-  - reviews
+  - breaking news
 ---
 
 ## Testing Image Upload

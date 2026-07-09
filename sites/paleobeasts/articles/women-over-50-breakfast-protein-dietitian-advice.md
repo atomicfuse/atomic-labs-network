@@ -40,7 +40,6 @@ image_alt: >-
   morning light.
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Breakfast Gap for Women Over 50
 

@@ -39,7 +39,6 @@ image_alt: >-
   collectible figures on a blue tabletop.
 topics:
   - Healthy Snacks
-  - Meal Plans
 ---
 ## Wendy's Rolls Out Movie-Themed Meal Promotion
 

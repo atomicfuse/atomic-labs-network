@@ -1,0 +1,100 @@
+domain: muvizzcom
+active: true
+groups: []
+brief:
+  siteName: Muvizz.com
+  audience: Movie and TV enthusiasts aged 18-45
+  tone: Engaging, conversational, entertainment-savvy
+  vertical: Entertainment
+  audience_type: Adult 18-45
+  language: EN
+  article_types:
+    standard: 60
+    listicle: 20
+    review: 20
+  topics:
+    - Movies
+    - TV Shows
+    - Streaming
+    - Celebrity News
+    - Reviews
+  seo_keywords_focus:
+    - movies 2026
+    - best TV shows
+    - streaming reviews
+    - celebrity news
+    - entertainment
+  content_guidelines:
+    - Focus on trending entertainment news and reviews
+    - Include specific details about cast, directors, and release dates
+    - Maintain an engaging, fan-friendly tone
+  review_percentage: 0
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - Monday
+      - Tuesday
+    preferred_time: 10:00
+  quality_threshold: 75
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  vertical_id: 6a00793d1104bbff809b7c32
+  category_ids:
+    - 6a0079401104bbff809b7fd9
+    - 6a0079401104bbff809b800b
+    - 6a0079401104bbff809b7fdb
+  tag_ids: []
+  audiences:
+    - Movie and TV enthusiasts aged 18-45
+  audience_type_ids: []
+theme:
+  base: modern
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  fonts:
+    heading: Poppins
+    body: Inter
+  colors:
+    primary: "#f5d580"
+    secondary: "#2a1810"
+    accent: "#d4a04c"
+    background: "#f8e8d4"
+    text: "#2a1810"
+    muted: "#6b5848"
+    surface: "#fdf4e3"
+    border: "#e8d4b0"
+    footer_bg: "#2a1810"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    must_reads_bg: "#2a1810"
+    article_hero_title: "#ffffff"
+    feed_title: "#2a1810"
+    feed_desc: "#5c4a3a"
+    feed_date: "#d4a04c"
+    category_header_text: "#1a1a1a"
+    prose_heading: "#2a1810"
+    prose_body: "#3a2818"
+site_name: Muvizz.com
+site_tagline: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+bundle_id: 6a009ad52a0a294c696af909
+author: Daniel Parker

@@ -38,7 +38,7 @@ image_alt: >-
   Calm dog sitting beside its owner in a cozy holiday room with safe festive
   decorations
 topics:
-  - Breed Guides
+  - Pet Care & Health
 ---
 ## Understanding Common Dog Behavior Challenges
 

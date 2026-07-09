@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.youtube.com/watch?v=SfKwhpQRYf8'
 source_item_id: 6a4f0c59b48b296664f07a0d
 generated_by: openai
-featuredImage: /assets/images/dune-part-three-trailer-power-struggles-betrayals.webp
+featuredImage: /assets/images/dramadispatch-general-article.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 62
@@ -38,7 +38,6 @@ videos:
     position: after-paragraph-1
 topics:
   - Movie Reviews
-image_alt: Shadowed sci-fi ruler facing conspirators in a cracked desert palace chamber
 ---
 ## TL;DR
 The **official trailer for *Dune: Part Three*** highlights the escalating power struggles and internal betrayals Paul faces as his empire crumbles. Key characters like Chani confront him, revealing deep conflicts that set the stage for a thrilling conclusion.

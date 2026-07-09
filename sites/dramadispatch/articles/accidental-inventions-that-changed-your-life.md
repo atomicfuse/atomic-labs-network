@@ -33,6 +33,8 @@ reading_time: 4
 image_alt: >-
   Moody laboratory workbench with accidental discoveries suggested by everyday
   objects and dramatic lighting.
+topics:
+  - Celebrity Culture
 ---
 ## Nobody Planned Any of This
 

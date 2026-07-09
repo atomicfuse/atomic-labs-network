@@ -37,7 +37,6 @@ image_alt: >-
   decor.
 topics:
   - Pet Care & Health
-  - Breed Guides
 ---
 ## Holiday Hazards for Your Furry Friends
 

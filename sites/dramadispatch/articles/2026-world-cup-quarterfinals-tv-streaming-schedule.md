@@ -19,7 +19,7 @@ source_url: >-
   https://www.latimes.com/sports/soccer/story/2026-07-08/world-cup-quarterfinals-schedule-watch-tv-previews-results
 source_item_id: 6a4efe4ab48b296664f07a03
 generated_by: openai
-featuredImage: /assets/images/2026-world-cup-quarterfinals-tv-streaming-schedule.webp
+featuredImage: /assets/images/dramadispatch-general-article.webp
 quality_score: 53
 score_breakdown:
   seo_quality: 52
@@ -36,9 +36,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - TV & Streaming
-image_alt: >-
-  Generic soccer players sprint under stadium lights with abstract broadcast
-  screens surrounding the pitch.
 ---
 ## TL;DR
 Get ready for the intense action of the 2026 FIFA World Cup quarterfinals with our ultimate TV and streaming guide. Mark your calendars for thrilling matchups featuring some of the world's best teams and players!

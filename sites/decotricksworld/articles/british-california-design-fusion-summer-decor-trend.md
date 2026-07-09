@@ -37,7 +37,7 @@ image_alt: >-
   Sunlit summer interior blending refined British details with relaxed
   California indoor-outdoor style.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## A New Approach to Summer Decorating
 
