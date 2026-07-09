@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://coffeeactually.com/uganda-coffee-production-surges-15-this-year/'
 imported_from: wordpress
 wp_original_id: 51336
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/uganda-coffee-production-surges-15-this-year.webp
 seo:
   canonical: 'https://coffeeactually.com/uganda-coffee-production-surges-15-this-year/'
   og_title: Uganda Coffee Production Surges 15% This Year - Coffee Actually
@@ -39,6 +39,9 @@ quality_note: >-
   Well-written coffee news article with strong keyword relevance and appropriate
   tone, but significantly under target word count and lacks specific data
   verification.
+image_alt: >-
+  Ripe coffee cherries on a sunlit Ugandan farm with farmers harvesting in the
+  background
 topics:
   - Coffee News
 ---

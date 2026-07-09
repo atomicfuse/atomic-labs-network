@@ -29,17 +29,17 @@ seo:
   twitter_card: summary_large_image
 quality_score: 66
 score_breakdown:
-  seo_quality: 75
+  seo_quality: 72
   tone_match: 85
-  content_length: 60
+  content_length: 65
   factual_accuracy: 20
   keyword_relevance: 90
 quality_note: >-
-  Strong tone and keyword relevance but severely compromised by future-tense
-  speculation about 2026 events presented as fact, plus below-target word count.
+  Strong entertainment focus and engaging tone, but severely compromised by
+  fabricated future events (2026 Grammys) and short length.
 image_alt: >-
-  Avant-garde pop performer in sustainable couture on a cinematic red carpet
-  with diverse guests.
+  Avant-garde performer on a red carpet in bold sustainable couture under camera
+  flashes
 topics:
   - Fashion
   - Music

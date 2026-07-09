@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/microsoft-fires-employees-after-office-protest/'
 imported_from: wordpress
 wp_original_id: 637
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/microsoft-fires-employees-after-office-protest.webp
 seo:
   canonical: 'https://geekystudios.com/microsoft-fires-employees-after-office-protest/'
   og_title: Microsoft Fires Employees After Office Protest - Geeky Studios
@@ -39,6 +39,9 @@ quality_note: >-
   Article covers relevant tech trends but suffers from very short length and
   appears to discuss a potentially fabricated or unverified Microsoft incident
   without proper sourcing.
+image_alt: >-
+  Employees gather outside a modern corporate tech office under a tense overcast
+  sky.
 topics:
   - Tech
   - Trends

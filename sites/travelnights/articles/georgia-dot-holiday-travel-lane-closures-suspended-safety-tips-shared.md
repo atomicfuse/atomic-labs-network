@@ -18,7 +18,8 @@ source_url: >-
   https://travelnights.com/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared/
 imported_from: wordpress
 wp_original_id: 36667
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: >-
+  /assets/images/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared.webp
 seo:
   canonical: >-
     https://travelnights.com/georgia-dot-holiday-travel-lane-closures-suspended-safety-tips-shared/
@@ -43,9 +44,11 @@ quality_note: >-
   Well-structured article with good safety information, but focuses narrowly on
   Georgia DOT news rather than broader travel guidance that would better serve a
   travel enthusiast audience.
+image_alt: >-
+  Holiday travelers move smoothly along a wide Georgia interstate at golden
+  hour.
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 As the holiday season approaches, many travelers are preparing to hit the roads for festive gatherings and celebrations. Understanding the best times to travel and ensuring safety on the highways become paramount during these busy periods. To ease the journey, the Georgia Department of Transportation (GDOT) has implemented measures to facilitate smoother traffic flow and enhance safety for all road users.

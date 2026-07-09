@@ -17,7 +17,7 @@ source_url: >-
   https://geekystudios.com/discover-which-apps-drain-your-battery-with-microsoft-tool/
 imported_from: wordpress
 wp_original_id: 699
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/discover-which-apps-drain-your-battery-with-microsoft-tool.webp
 seo:
   canonical: >-
     https://geekystudios.com/discover-which-apps-drain-your-battery-with-microsoft-tool/
@@ -38,6 +38,9 @@ score_breakdown:
 quality_note: >-
   Well-written tutorial with good tone and accuracy, but falls significantly
   short of the target word count at only 505 words versus the 800-1200 range.
+image_alt: >-
+  A laptop with abstract glowing app panels drawing energy from a floating
+  battery symbol.
 topics:
   - Tech
   - Tutorials

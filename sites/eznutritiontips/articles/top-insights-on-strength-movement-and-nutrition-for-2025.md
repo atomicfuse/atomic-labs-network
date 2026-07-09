@@ -48,7 +48,6 @@ image_alt: >-
   technology.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 As we look towards 2025, a holistic approach to health is becoming increasingly vital. Emphasizing both movement and nutrition is key to enhancing longevity and overall well-being. With new trends in physical fitness and dietary habits emerging, individuals are seeking innovative ways to maintain a balanced and healthy lifestyle.

@@ -26,26 +26,22 @@ seo:
     natural burping through gentle movements.
   twitter_card: summary_large_image
 videos:
-  - id: da1baf7c
+  - id: d2ee4772
     url: 'https://www.youtube.com/watch?v=ZNgnOywkP9c'
     position: after-paragraph-2
-quality_score: 68
+quality_score: 71
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 75
   tone_match: 85
   content_length: 25
   factual_accuracy: 90
-  keyword_relevance: 75
+  keyword_relevance: 80
 quality_note: >-
-  The article has good tone and accuracy but is significantly too short at 318
-  words (target 800-1200), limiting its SEO potential and depth of coverage.
-image_alt: >-
-  Person practicing a gentle yoga twist in a calm sunlit room for digestive
-  comfort
+  Well-written article with appropriate tone and accurate content, but
+  significantly under target word count at 318 words versus the 800-1200 range.
+image_alt: 'Person practicing a gentle seated yoga twist in a softly lit, calming room.'
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Feeling bloated or struggling with trapped air in your chest or belly can be uncomfortable. Luckily, yoga offers a natural way to support digestion and encourage the release of trapped air. This 20-minute gentle yoga flow is perfect for those seeking relief from gas and bloating through mindful movement.

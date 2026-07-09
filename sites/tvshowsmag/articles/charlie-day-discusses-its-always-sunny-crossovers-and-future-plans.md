@@ -19,7 +19,8 @@ source_url: >-
   https://www.tvshowsmag.com/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans/
 imported_from: wordpress
 wp_original_id: 28064
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: >-
+  /assets/images/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/charlie-day-discusses-its-always-sunny-crossovers-and-future-plans/
@@ -43,6 +44,9 @@ quality_note: >-
   The article maintains good tone and factual accuracy but falls short on
   content length (576 words vs 800+ target) and has a misleading title that
   doesn't match the actual content discussed.
+image_alt: >-
+  Moody empty dive bar table with five stools, scattered props, and sunlight
+  through dusty blinds.
 topics:
   - TV News
 ---

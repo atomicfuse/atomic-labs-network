@@ -40,9 +40,6 @@ image_alt: >-
   morning light.
 topics:
   - Nutrition
-  - Paleo Diet
-  - Meal Plans
-  - Healthy Snacks
 ---
 ## The Breakfast Gap for Women Over 50
 

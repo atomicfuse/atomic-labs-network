@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/why-you-should-rate-the-shows-and-movies-you-watch/'
 imported_from: wordpress
 wp_original_id: 600
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/why-you-should-rate-the-shows-and-movies-you-watch.webp
 seo:
   canonical: 'https://geekystudios.com/why-you-should-rate-the-shows-and-movies-you-watch/'
   og_title: Why You Should Rate the Shows and Movies You Watch - Geeky Studios
@@ -41,6 +41,9 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under target word count at 560 words versus the 800-1200 target range.
+image_alt: >-
+  Glowing rating stars become data particles shaping streaming choices on a dark
+  screen.
 topics:
   - Tech
   - Pop Culture

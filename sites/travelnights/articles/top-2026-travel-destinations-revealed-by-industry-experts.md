@@ -18,7 +18,7 @@ source_url: >-
   https://travelnights.com/top-2026-travel-destinations-revealed-by-industry-experts/
 imported_from: wordpress
 wp_original_id: 36671
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/top-2026-travel-destinations-revealed-by-industry-experts.webp
 seo:
   canonical: >-
     https://travelnights.com/top-2026-travel-destinations-revealed-by-industry-experts/
@@ -41,6 +41,9 @@ score_breakdown:
 quality_note: >-
   Well-written travel content with excellent tone and keyword relevance, but
   significantly under target word count at 426 words versus the 800-1200 range.
+image_alt: >-
+  Sunlit travel scene blending coastal cliffs, safari plains, and a vibrant
+  market beyond an airport window.
 topics:
   - Destinations
 ---

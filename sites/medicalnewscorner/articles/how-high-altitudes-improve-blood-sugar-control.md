@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://medicalnewscorner.com/how-high-altitudes-improve-blood-sugar-control/'
 imported_from: wordpress
 wp_original_id: 24791
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/how-high-altitudes-improve-blood-sugar-control.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/how-high-altitudes-improve-blood-sugar-control/
@@ -40,6 +40,9 @@ quality_note: >-
   Article demonstrates good tone and relevance but falls significantly short on
   word count (443 vs 800-1200 target) and lacks specific research citations to
   support claims.
+image_alt: >-
+  Person standing on a sunlit mountain ridge, evoking health and metabolic
+  balance at high altitude.
 topics:
   - Health News
 ---

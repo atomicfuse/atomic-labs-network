@@ -45,7 +45,6 @@ image_alt: >-
   café table.
 topics:
   - Coffee News
-  - Brewing Guides
 ---
 
 The fusion of coffee and dessert has taken a delightful turn with the introduction of a unique cold brew donut. As coffee culture continues to expand and innovate, this sweet creation offers a fresh twist on traditional pastries, appealing to both coffee enthusiasts and dessert lovers alike.

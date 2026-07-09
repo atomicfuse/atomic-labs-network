@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/pregnancy-guide-essential-tips-for-expecting-mothers/
 imported_from: wordpress
 wp_original_id: 17788
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/pregnancy-guide-essential-tips-for-expecting-mothers.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/pregnancy-guide-essential-tips-for-expecting-mothers/
@@ -41,6 +41,7 @@ score_breakdown:
 quality_note: >-
   Well-written pregnancy guide with excellent keyword relevance and tone, but
   significantly below target word count which severely impacts overall value.
+image_alt: Expectant mother in a softly lit nursery preparing for a baby's arrival
 topics:
   - Pregnancy
 ---

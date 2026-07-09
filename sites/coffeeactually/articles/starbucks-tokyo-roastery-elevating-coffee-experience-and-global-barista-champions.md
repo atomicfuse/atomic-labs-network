@@ -22,7 +22,8 @@ source_url: >-
   https://coffeeactually.com/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions/
 imported_from: wordpress
 wp_original_id: 51357
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions.webp
 seo:
   canonical: >-
     https://coffeeactually.com/starbucks-tokyo-roastery-elevating-coffee-experience-and-global-barista-champions/
@@ -48,6 +49,7 @@ quality_note: >-
   The article is completely off-topic, discussing financial markets and emerging
   economies instead of coffee content despite having a coffee-related title and
   tags.
+image_alt: Barista crafting espresso in a polished Tokyo-inspired coffee roastery
 topics:
   - Coffee News
 ---

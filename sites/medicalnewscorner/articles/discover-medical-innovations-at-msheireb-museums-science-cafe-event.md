@@ -18,7 +18,8 @@ source_url: >-
   https://medicalnewscorner.com/discover-medical-innovations-at-msheireb-museums-science-cafe-event/
 imported_from: wordpress
 wp_original_id: 24723
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/discover-medical-innovations-at-msheireb-museums-science-cafe-event.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/discover-medical-innovations-at-msheireb-museums-science-cafe-event/
@@ -43,6 +44,9 @@ quality_note: >-
   Well-written article with good tone and factual content, but falls short on
   length (519 words vs 800-1200 target) and could benefit from stronger SEO
   optimization with more targeted keywords.
+image_alt: >-
+  Community members discuss medical innovation in a warm modern museum café
+  setting.
 topics:
   - Research
 ---

@@ -18,7 +18,7 @@ source_url: >-
   https://www.tvshowsmag.com/overrated-tv-shows-lacking-substance-revealed-by-viewers/
 imported_from: wordpress
 wp_original_id: 28102
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/overrated-tv-shows-lacking-substance-revealed-by-viewers.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/overrated-tv-shows-lacking-substance-revealed-by-viewers/
@@ -40,6 +40,7 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and structure but significantly under
   target word count at 551 words, impacting overall content value.
+image_alt: Unimpressed viewer facing a bright television glow in a moody living room
 topics:
   - TV News
 ---

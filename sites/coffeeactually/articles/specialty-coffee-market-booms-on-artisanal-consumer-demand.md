@@ -18,7 +18,7 @@ source_url: >-
   https://coffeeactually.com/specialty-coffee-market-booms-on-artisanal-consumer-demand/
 imported_from: wordpress
 wp_original_id: 51445
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/specialty-coffee-market-booms-on-artisanal-consumer-demand.webp
 seo:
   canonical: >-
     https://coffeeactually.com/specialty-coffee-market-booms-on-artisanal-consumer-demand/
@@ -40,11 +40,13 @@ quality_note: >-
   Well-structured coffee news article with strong industry analysis, proper tone
   for coffee enthusiasts, excellent length, and comprehensive coverage of
   specialty coffee market trends.
+image_alt: >-
+  Artisanal coffee brewing setup with beans, pour-over, and cold brew on a warm
+  wooden counter
 topics:
   - Coffee News
   - Coffee Beans
   - Coffee Drinks
-  - Brewing Guides
 ---
 
 The specialty coffee market is expanding as consumers trade ordinary cups for better flavor, traceable sourcing, and café-style experiences at home. Premium beans, single-origin labels, cold brew, and ethical certifications are shaping demand across retail shelves, coffee shops, and online platforms.

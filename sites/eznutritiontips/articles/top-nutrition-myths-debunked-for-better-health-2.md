@@ -45,7 +45,6 @@ image_alt: >-
   scraps pushed aside
 topics:
   - Nutrition Myths
-  - Weight & Wellness
 ---
 
 Nutrition is a crucial aspect of maintaining a healthy lifestyle, yet the abundance of information available can often lead to confusion. Many popular beliefs about diet and nutrition are not entirely accurate. By debunking some common nutrition myths, we can make more informed choices that better support our health.

@@ -41,7 +41,6 @@ image_alt: >-
   fresh bedding nearby.
 topics:
   - Wellness
-  - Yoga Routines
 ---
 ## The Shift Toward Evidence-Informed Self-Care
 

@@ -19,7 +19,8 @@ source_url: >-
   https://tvshowbox.com/binge-watching-vs-weekly-episodes-how-tv-shows-are-evolving/
 imported_from: wordpress
 wp_original_id: 24008
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: >-
+  /assets/images/binge-watching-vs-weekly-episodes-how-tv-shows-are-evolving.webp
 seo:
   canonical: >-
     https://tvshowbox.com/binge-watching-vs-weekly-episodes-how-tv-shows-are-evolving/
@@ -43,9 +44,11 @@ quality_note: >-
   Well-written article with strong tone and relevance to TV topics, but falls
   short on length (529 words vs 800-1200 target) and could benefit from better
   SEO optimization in title and meta description.
+image_alt: >-
+  A silhouetted viewer faces a glowing screen in a moody living room split
+  between bingeing and anticipation.
 topics:
   - TV News
-  - Recommendations
 ---
 
 In the rapidly evolving landscape of television viewing, the debate between binge-watching and weekly episode releases has become a focal point for audiences and streaming platforms alike. As viewers navigate this dynamic environment, the choice between consuming an entire series in one sitting or savoring episodes weekly continues to shape TV culture.

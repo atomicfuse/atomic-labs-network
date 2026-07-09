@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/top-tv-shows-and-movies-to-stream-march-2026/'
 imported_from: wordpress
 wp_original_id: 24083
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/top-tv-shows-and-movies-to-stream-march-2026.webp
 seo:
   canonical: 'https://tvshowbox.com/top-tv-shows-and-movies-to-stream-march-2026/'
   og_title: Top TV Shows and Movies to Stream March 2026 - TV Show Box
@@ -40,6 +40,9 @@ quality_note: >-
   The article maintains excellent tone and keyword relevance but is
   significantly undermined by its speculative nature about March 2026 content
   and falls well short of the target word count at only 546 words.
+image_alt: >-
+  Viewers watch a glowing screen in a cinematic living room filled with subtle
+  genre-inspired light.
 topics:
   - TV News
 ---

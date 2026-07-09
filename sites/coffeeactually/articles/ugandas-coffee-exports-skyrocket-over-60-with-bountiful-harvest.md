@@ -18,7 +18,8 @@ source_url: >-
   https://coffeeactually.com/ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest/
 imported_from: wordpress
 wp_original_id: 51381
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest.webp
 seo:
   canonical: >-
     https://coffeeactually.com/ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest/
@@ -42,6 +43,9 @@ score_breakdown:
 quality_note: >-
   Strong coffee news content with good tone and keyword alignment, but falls
   short on length and lacks specific data verification for the 60% export claim.
+image_alt: >-
+  Sunlit Ugandan coffee harvest with beans, cherries, and sacks suggesting
+  rising global exports
 topics:
   - Coffee News
 ---

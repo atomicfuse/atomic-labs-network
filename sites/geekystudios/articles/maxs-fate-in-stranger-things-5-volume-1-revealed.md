@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/maxs-fate-in-stranger-things-5-volume-1-revealed/'
 imported_from: wordpress
 wp_original_id: 665
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/maxs-fate-in-stranger-things-5-volume-1-revealed.webp
 seo:
   canonical: 'https://geekystudios.com/maxs-fate-in-stranger-things-5-volume-1-revealed/'
   og_title: 'Max''s Fate in Stranger Things 5, Volume 1 Revealed - Geeky Studios'
@@ -37,6 +37,9 @@ score_breakdown:
 quality_note: >-
   Strong pop culture relevance and accurate content, but severely penalized by
   length being well below the 800-word minimum target.
+image_alt: >-
+  An empty hospital room with a skateboard and eerie red light suggesting danger
+  and uncertainty.
 topics:
   - Pop Culture
 ---

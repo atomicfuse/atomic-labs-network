@@ -52,7 +52,6 @@ quality_note: >-
 image_alt: Confident actress in a spotlight facing shadowy critics on a cinematic stage
 topics:
   - TV News
-  - Recommendations
 ---
 
 After more than a decade on screen, Alexandra Daddario has a message for her critics.

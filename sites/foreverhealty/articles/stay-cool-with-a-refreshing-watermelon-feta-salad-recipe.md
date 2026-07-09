@@ -45,8 +45,6 @@ image_alt: Watermelon feta cucumber salad with mint on a sunlit summer table
 topics:
   - Healthy Recipes
   - Healthy Living Tips
-  - Healthy Aging
-  - Nutrition & Diet
 ---
 
 This watermelon salad recipe combines refreshing watermelon with feta, mint, and cucumber, making it an ideal summer dish to keep you cool and hydrated. It is versatile enough to be made dairy-free by substituting feta with dairy-free cheese crumbles, offering a healthy and delicious option for those looking for nutritious salad recipes this summer.

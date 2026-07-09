@@ -45,8 +45,6 @@ image_alt: >-
   calm home setting.
 topics:
   - Healthy Living Tips
-  - Healthy Aging
-  - Nutrition & Diet
 ---
 
 In today's fast-paced world, maintaining a healthy lifestyle can be a challenging yet rewarding endeavor. As people increasingly prioritize their well-being, understanding the fundamentals of healthy living becomes crucial. This article delves into essential components of a healthy lifestyle, offering practical tips and insights to enhance your physical and mental health.

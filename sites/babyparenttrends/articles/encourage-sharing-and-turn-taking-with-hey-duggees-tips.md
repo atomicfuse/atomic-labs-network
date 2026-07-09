@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/encourage-sharing-and-turn-taking-with-hey-duggees-tips/
 imported_from: wordpress
 wp_original_id: 17711
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/encourage-sharing-and-turn-taking-with-hey-duggees-tips.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/encourage-sharing-and-turn-taking-with-hey-duggees-tips/
@@ -42,6 +42,9 @@ score_breakdown:
 quality_note: >-
   While well-written about reading benefits, the article completely misses the
   promised Hey Duggee sharing/turn-taking content and falls short on word count.
+image_alt: >-
+  Parent and two children share a picture book and plush toy during cozy
+  storytime at home
 topics:
   - Kids
 ---

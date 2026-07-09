@@ -18,7 +18,7 @@ source_url: >-
   https://coffeeactually.com/how-roast-level-affects-specialty-coffee-bean-prices/
 imported_from: wordpress
 wp_original_id: 51385
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/how-roast-level-affects-specialty-coffee-bean-prices.webp
 seo:
   canonical: >-
     https://coffeeactually.com/how-roast-level-affects-specialty-coffee-bean-prices/
@@ -40,6 +40,9 @@ score_breakdown:
 quality_note: >-
   Well-written informative piece with good tone and accuracy, but significantly
   under target word count at 478 words when 800-1200 is expected.
+image_alt: >-
+  Specialty coffee beans in varied roast levels beside a cupping spoon and
+  ceramic tasting cup.
 topics:
   - Coffee News
   - Coffee Beans

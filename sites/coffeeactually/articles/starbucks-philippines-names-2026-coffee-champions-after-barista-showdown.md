@@ -18,7 +18,8 @@ source_url: >-
   https://coffeeactually.com/starbucks-philippines-names-2026-coffee-champions-after-barista-showdown/
 imported_from: wordpress
 wp_original_id: 51462
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/starbucks-philippines-names-2026-coffee-champions-after-barista-showdown.webp
 seo:
   canonical: >-
     https://coffeeactually.com/starbucks-philippines-names-2026-coffee-champions-after-barista-showdown/
@@ -42,6 +43,9 @@ quality_note: >-
   Well-written article with excellent keyword coverage and appropriate length,
   though the 2026 date appears to be a future projection which may affect
   factual accuracy.
+image_alt: >-
+  Baristas celebrate coffee craft at a warm café competition counter with
+  steaming cups and polished tools.
 topics:
   - Coffee News
 ---

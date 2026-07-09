@@ -19,7 +19,7 @@ source_url: >-
   https://medicalnewscorner.com/perimenopause-key-time-to-lower-heart-disease-risk/
 imported_from: wordpress
 wp_original_id: 24837
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/perimenopause-key-time-to-lower-heart-disease-risk.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/perimenopause-key-time-to-lower-heart-disease-risk/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-structured, engaging health article that effectively balances medical
   accuracy with conversational tone, though the title could be more compelling
   for SEO purposes.
+image_alt: >-
+  Midlife woman in soft sunlight with heart-health tools nearby, suggesting
+  preventive wellness.
 topics:
   - Health News
 ---

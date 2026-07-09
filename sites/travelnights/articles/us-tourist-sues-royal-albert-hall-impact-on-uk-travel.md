@@ -17,7 +17,7 @@ source_url: >-
   https://travelnights.com/us-tourist-sues-royal-albert-hall-impact-on-uk-travel/
 imported_from: wordpress
 wp_original_id: 36677
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/us-tourist-sues-royal-albert-hall-impact-on-uk-travel.webp
 seo:
   canonical: >-
     https://travelnights.com/us-tourist-sues-royal-albert-hall-impact-on-uk-travel/
@@ -39,6 +39,9 @@ score_breakdown:
 quality_note: >-
   Well-written travel news article with good tone and relevance, but falls short
   on length and lacks specific verifiable details about the lawsuit.
+image_alt: >-
+  Historic London venue at dusk with travelers, wet pavement, and a subtle
+  safety cone in the foreground.
 topics:
   - News
 ---

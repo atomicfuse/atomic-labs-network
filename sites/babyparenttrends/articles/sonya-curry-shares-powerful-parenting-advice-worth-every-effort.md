@@ -19,7 +19,8 @@ source_url: >-
   https://babyparenttrends.com/sonya-curry-shares-powerful-parenting-advice-worth-every-effort/
 imported_from: wordpress
 wp_original_id: 17817
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/sonya-curry-shares-powerful-parenting-advice-worth-every-effort.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/sonya-curry-shares-powerful-parenting-advice-worth-every-effort/
@@ -43,6 +44,7 @@ quality_note: >-
   Well-written article with excellent tone and length that effectively covers
   parenting themes using Sonya Curry's example, though could benefit from
   slightly stronger SEO optimization in the title and meta description.
+image_alt: Parent gently guiding children during a calm morning routine at home
 topics:
   - Parenting
 ---

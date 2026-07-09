@@ -37,7 +37,6 @@ image_alt: >-
   sterile wet-room design.
 topics:
   - Interior Design
-  - DIY Projects
 ---
 ## The Generational Divide in Bathroom Design
 

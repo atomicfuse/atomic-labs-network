@@ -15,7 +15,8 @@ source_url: >-
   https://mindsbit.com/long-term-impacts-of-britains-quantitative-tightening-explained/
 imported_from: wordpress
 wp_original_id: 328
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: >-
+  /assets/images/long-term-impacts-of-britains-quantitative-tightening-explained.webp
 seo:
   canonical: >-
     https://mindsbit.com/long-term-impacts-of-britains-quantitative-tightening-explained/
@@ -38,6 +39,9 @@ quality_note: >-
   Article about Burberry luxury fashion completely mismatches the title about
   Britain's Quantitative Tightening, creating severe SEO and relevance issues
   despite decent writing quality.
+image_alt: >-
+  Abstract UK financial network with fading liquidity streams and blank bond
+  shapes
 topics:
   - Finance
   - Innovation

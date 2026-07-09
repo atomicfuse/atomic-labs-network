@@ -49,7 +49,6 @@ image_alt: >-
   nearby.
 topics:
   - Research
-  - Conditions
 ---
 
 Recent research suggests that waist size could serve as a more accurate indicator of heart failure risk than body mass index (BMI). As health experts continue to explore the factors contributing to heart disease, this finding offers new insights into the significance of waist circumference as a predictive tool.

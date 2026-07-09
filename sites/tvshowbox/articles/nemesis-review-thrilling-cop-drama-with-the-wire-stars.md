@@ -16,7 +16,7 @@ reading_time: 7
 source_url: 'https://tvshowbox.com/nemesis-review-thrilling-cop-drama-with-the-wire-stars/'
 imported_from: wordpress
 wp_original_id: 24110
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/nemesis-review-thrilling-cop-drama-with-the-wire-stars.webp
 seo:
   canonical: >-
     https://tvshowbox.com/nemesis-review-thrilling-cop-drama-with-the-wire-stars/
@@ -37,6 +37,9 @@ score_breakdown:
 quality_note: >-
   Well-written TV review with engaging tone and proper length, though the title
   could be more compelling and structured headings would improve SEO.
+image_alt: >-
+  Two silhouetted detectives stand in a rain-soaked city alley under cold blue
+  lights.
 topics:
   - TV News
   - Reviews

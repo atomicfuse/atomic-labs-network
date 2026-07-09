@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://travelnights.com/top-u-s-travel-destination-for-2026-revealed/'
 imported_from: wordpress
 wp_original_id: 36665
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/top-u-s-travel-destination-for-2026-revealed.webp
 seo:
   canonical: 'https://travelnights.com/top-u-s-travel-destination-for-2026-revealed/'
   og_title: Top U.S. Travel Destination for 2026 Revealed - Travel Nights
@@ -37,6 +37,9 @@ quality_note: >-
   Well-written travel content with strong keyword relevance and engaging tone,
   but falls short on word count and has a misleading title that doesn't deliver
   on its promise of revealing 'the top U.S. destination.'
+image_alt: >-
+  Traveler overlooking a sunrise horizon blending cities, mountains, deserts,
+  and wild landscapes.
 topics:
   - Destinations
 ---

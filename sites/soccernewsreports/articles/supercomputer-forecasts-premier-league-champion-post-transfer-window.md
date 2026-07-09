@@ -48,8 +48,6 @@ image_alt: >-
   trophy silhouette.
 topics:
   - Latest News
-  - Leagues
-  - Match Reports
 ---
 
 As the Premier League season unfolds, fans and analysts alike are eager to see how the summer transfer activities might impact the race for the title. With clubs investing heavily in new talent, a supercomputer has offered its predictions about which team is most likely to emerge victorious. This technological analysis adds an intriguing layer to the ongoing discussions among football enthusiasts.

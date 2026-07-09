@@ -56,7 +56,6 @@ image_alt: >-
 topics:
   - TV News
   - Celebrity News
-  - Recommendations
 ---
 
 As a fan of Apple TV Plus, it's important to stay up-to-date with the latest developments. One such advancement is the new feature that offers personalized recommendations for catch-up TV. This innovative tool is designed to enhance your viewing experience by suggesting shows and movies based on your viewing habits and interests.

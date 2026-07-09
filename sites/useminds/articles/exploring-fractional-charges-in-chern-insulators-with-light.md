@@ -47,7 +47,6 @@ image_alt: >-
   light
 topics:
   - Mind-Blowing Science
-  - Space & The Unknown
 ---
 
 The exploration of fractional Chern insulators is opening new horizons in the world of quantum materials. Researchers are delving into these exotic states of matter, which exhibit unique properties due to their topological nature. These materials have potential applications in quantum computing and other advanced technologies, making them a focal point of scientific investigation.

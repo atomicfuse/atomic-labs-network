@@ -17,7 +17,8 @@ source_url: >-
   https://coffeeactually.com/south-africa-cold-brew-coffee-market-premium-trends-and-growth-outlook/
 imported_from: wordpress
 wp_original_id: 51431
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/south-africa-cold-brew-coffee-market-premium-trends-and-growth-outlook.webp
 seo:
   canonical: >-
     https://coffeeactually.com/south-africa-cold-brew-coffee-market-premium-trends-and-growth-outlook/
@@ -42,9 +43,11 @@ quality_note: >-
   Well-written article with excellent topic relevance and tone, but falls short
   on length requirements and could benefit from stronger SEO optimization in
   title and headings.
+image_alt: >-
+  Premium cold brew coffee served over ice in a sunlit South African café
+  setting
 topics:
   - Coffee Drinks
-  - Brewing Guides
 ---
 
 South Africa is experiencing a significant shift in its coffee consumption habits, with cold brew coffee emerging as a popular choice among consumers. This trend is driven by a desire for premium-quality beverages and the convenience of ready-to-drink options. As more South Africans develop a taste for cold brew, the market is witnessing notable growth and transformation.

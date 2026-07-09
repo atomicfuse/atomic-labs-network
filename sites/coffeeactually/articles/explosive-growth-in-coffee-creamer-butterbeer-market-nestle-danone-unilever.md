@@ -18,7 +18,8 @@ source_url: >-
   https://coffeeactually.com/explosive-growth-in-coffee-creamer-butterbeer-market-nestle-danone-unilever/
 imported_from: wordpress
 wp_original_id: 51350
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/explosive-growth-in-coffee-creamer-butterbeer-market-nestle-danone-unilever.webp
 seo:
   canonical: >-
     https://coffeeactually.com/explosive-growth-in-coffee-creamer-butterbeer-market-nestle-danone-unilever/
@@ -42,6 +43,9 @@ score_breakdown:
 quality_note: >-
   Article covers relevant coffee topics but suffers from questionable claims
   about butterbeer market data and falls short of target word count.
+image_alt: >-
+  Cream swirling into coffee beside a foamy caramel drink with vanilla, oats,
+  and warm café lighting.
 topics:
   - Coffee News
 ---

@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://travelnights.com/explore-indonesias-top-travel-destinations-for-2026/'
 imported_from: wordpress
 wp_original_id: 36631
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/explore-indonesias-top-travel-destinations-for-2026.webp
 seo:
   canonical: >-
     https://travelnights.com/explore-indonesias-top-travel-destinations-for-2026/
@@ -40,6 +40,9 @@ score_breakdown:
 quality_note: >-
   Well-written travel guide with good tone and keyword coverage, but falls
   significantly short of target word count at only 468 words.
+image_alt: >-
+  Traveler overlooking Indonesian islands, jungle, temples, volcanoes, and
+  turquoise sea at golden hour
 topics:
   - Destinations
 ---

@@ -18,7 +18,8 @@ source_url: >-
   https://coffeeactually.com/sydney-market-vendors-embrace-reusable-cups-at-carriageworks/
 imported_from: wordpress
 wp_original_id: 51425
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/sydney-market-vendors-embrace-reusable-cups-at-carriageworks.webp
 seo:
   canonical: >-
     https://coffeeactually.com/sydney-market-vendors-embrace-reusable-cups-at-carriageworks/
@@ -44,6 +45,9 @@ quality_note: >-
   Well-written article with good tone and relevance to coffee news, but
   significantly under target word count at 504 words which heavily impacts the
   overall score.
+image_alt: >-
+  Reusable coffee cup exchanged at a lively farmers market stall in warm morning
+  light.
 topics:
   - Coffee News
 ---

@@ -18,7 +18,8 @@ source_url: >-
   https://babyparenttrends.com/genius-parenting-hack-for-peaceful-playtime-from-single-mom/
 imported_from: wordpress
 wp_original_id: 17715
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/genius-parenting-hack-for-peaceful-playtime-from-single-mom.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/genius-parenting-hack-for-peaceful-playtime-from-single-mom/
@@ -43,6 +44,9 @@ quality_note: >-
   Well-written parenting article with good tone and keyword relevance, but falls
   short on word count and could benefit from stronger SEO optimization with more
   specific headlines and meta improvements.
+image_alt: >-
+  Toddler playing in a cardboard box play nook while a relaxed mother watches
+  nearby
 topics:
   - Kids
 ---

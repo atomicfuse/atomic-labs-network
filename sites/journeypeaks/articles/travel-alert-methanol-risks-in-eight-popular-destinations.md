@@ -48,7 +48,6 @@ image_alt: >-
 topics:
   - Travel
   - Travel Tips
-  - Food & Drink
 ---
 
 As global travel continues to rebound, tourists are advised to remain cautious about potential risks, particularly concerning tainted alcohol in some popular destinations. While travel offers exciting opportunities for exploration and relaxation, it is crucial to be informed about possible hazards to ensure a safe and enjoyable experience.

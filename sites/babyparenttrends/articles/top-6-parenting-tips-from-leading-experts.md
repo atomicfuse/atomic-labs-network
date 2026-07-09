@@ -18,7 +18,7 @@ reading_time: 4
 source_url: 'https://babyparenttrends.com/top-6-parenting-tips-from-leading-experts/'
 imported_from: wordpress
 wp_original_id: 17759
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/top-6-parenting-tips-from-leading-experts.webp
 seo:
   canonical: 'https://babyparenttrends.com/top-6-parenting-tips-from-leading-experts/'
   og_title: Top 6 Parenting Tips from Leading Experts - Baby Parent Trends
@@ -40,6 +40,9 @@ quality_note: >-
   Well-structured parenting content with excellent topic relevance, but the
   title promises specific expert tips that aren't delivered, and length falls
   short of the 800+ word target.
+image_alt: >-
+  Caregiver and child share a warm moment in a bright modern living room with a
+  tablet set aside.
 topics:
   - Kids
 ---

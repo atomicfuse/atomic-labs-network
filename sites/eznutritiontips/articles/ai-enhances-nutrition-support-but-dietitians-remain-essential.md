@@ -51,7 +51,6 @@ image_alt: >-
   nutrition interface.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 In recent years, artificial intelligence (AI) has emerged as a powerful ally in the realm of nutrition, offering innovative solutions and personalized dietary recommendations. However, while AI technology can enhance nutritional guidance, it cannot replace the nuanced expertise of professional dietitians. Understanding the distinct roles that AI and dietitians play is crucial for optimizing health outcomes.

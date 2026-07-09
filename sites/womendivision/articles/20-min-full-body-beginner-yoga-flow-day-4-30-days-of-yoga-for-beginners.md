@@ -48,7 +48,7 @@ quality_note: >-
   optimization severely limit its value.
 image_alt: Beginner yoga practitioner flowing on a mat in a calm sunlit room
 topics:
-  - Yoga
+  - Advice
 ---
 
 Welcome to this 20 min full body beginner yoga flow for day 4 of the 30 days of yoga for beginners challenge. Today I will guide you through a full body sequence of postures and breath work to continue building your strength, flexibility, balance and body awareness. Today I will guide you through new poses to keep progressing on your yoga journey.

@@ -55,7 +55,6 @@ image_alt: >-
   bright classroom.
 topics:
   - Nutrition Myths
-  - Weight & Wellness
 ---
 
 The Brody School of Medicine at East Carolina University (ECU) is leading the way by equipping Pitt County's students with essential nutritional knowledge. The initiative stems from the belief that a healthy lifestyle is not just about physical activity but includes proper nutrition as well.

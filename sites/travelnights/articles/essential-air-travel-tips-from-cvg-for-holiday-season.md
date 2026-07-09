@@ -46,7 +46,6 @@ image_alt: >-
   decorated for the season.
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 As the holiday season approaches, travelers are gearing up for an increase in air travel. With Cincinnati/Northern Kentucky International Airport (CVG) being a central hub for many journeys, understanding how to navigate the busy travel period is crucial. Planning ahead not only ensures a smooth journey but also allows travelers to enjoy the festive season without unnecessary stress.

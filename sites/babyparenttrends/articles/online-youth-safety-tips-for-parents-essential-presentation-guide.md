@@ -19,7 +19,8 @@ source_url: >-
   https://babyparenttrends.com/online-youth-safety-tips-for-parents-essential-presentation-guide/
 imported_from: wordpress
 wp_original_id: 17784
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/online-youth-safety-tips-for-parents-essential-presentation-guide.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/online-youth-safety-tips-for-parents-essential-presentation-guide/
@@ -44,6 +45,7 @@ quality_note: >-
   The article has good tone and accuracy but falls significantly short on length
   (452 words vs 800+ target) and could improve SEO optimization with better
   keyword integration.
+image_alt: Parent and child calmly using a tablet together in a warm home setting
 topics:
   - Kids
 ---

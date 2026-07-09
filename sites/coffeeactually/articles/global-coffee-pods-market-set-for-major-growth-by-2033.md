@@ -18,7 +18,7 @@ source_url: >-
   https://coffeeactually.com/global-coffee-pods-market-set-for-major-growth-by-2033/
 imported_from: wordpress
 wp_original_id: 51419
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/global-coffee-pods-market-set-for-major-growth-by-2033.webp
 seo:
   canonical: >-
     https://coffeeactually.com/global-coffee-pods-market-set-for-major-growth-by-2033/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-written coffee industry article with strong keyword relevance and
   appropriate tone, but falls short of ideal length and lacks specific data to
   support growth claims.
+image_alt: >-
+  Assorted coffee pods arc upward on a modern counter with coffee beans and
+  green sustainable accents.
 topics:
   - Coffee News
 ---

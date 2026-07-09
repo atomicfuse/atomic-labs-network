@@ -41,7 +41,6 @@ image_alt: >-
   blurred government building.
 topics:
   - Smart Shopping
-  - Bills & Utilities
 ---
 ## Lawmakers Target Growing Crypto Political Influence
 

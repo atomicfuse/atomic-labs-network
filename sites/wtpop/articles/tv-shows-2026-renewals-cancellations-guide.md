@@ -21,7 +21,7 @@ reviewer_notes: >-
 source_url: 'https://www.eonline.com/photos/38033/renewed-and-canceled-tv-shows-2026-guide'
 source_item_id: 6a0548c4febc8d8d1c2ca3ec
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/tv-shows-2026-renewals-cancellations-guide.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   fabricated 2026 predictions and far too short at 576 words versus the 800-1200
   target.
 reading_time: 3
+image_alt: >-
+  A silhouetted producer faces a wall of glowing TV screens, some bright and
+  some fading to black.
 topics:
   - TV & Movies
 ---

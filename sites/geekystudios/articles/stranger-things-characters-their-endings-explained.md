@@ -16,7 +16,7 @@ reading_time: 4
 source_url: 'https://geekystudios.com/stranger-things-characters-their-endings-explained/'
 imported_from: wordpress
 wp_original_id: 684
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/stranger-things-characters-their-endings-explained.webp
 seo:
   canonical: 'https://geekystudios.com/stranger-things-characters-their-endings-explained/'
   og_title: 'Stranger Things Characters: Their Endings Explained - Geeky Studios'
@@ -38,6 +38,9 @@ quality_note: >-
   Well-written pop culture content with good structure and tone, but contains
   vague statements about character endings without specific details from actual
   series finale.
+image_alt: >-
+  Teen silhouettes with bicycles face a closing supernatural glow over a misty
+  small-town road.
 topics:
   - Pop Culture
 ---

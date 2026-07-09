@@ -19,7 +19,8 @@ source_url: >-
   https://tvshowbox.com/jonathan-ross-unveils-bold-show-with-mismatched-pairs-tonight/
 imported_from: wordpress
 wp_original_id: 24078
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: >-
+  /assets/images/jonathan-ross-unveils-bold-show-with-mismatched-pairs-tonight.webp
 seo:
   canonical: >-
     https://tvshowbox.com/jonathan-ross-unveils-bold-show-with-mismatched-pairs-tonight/
@@ -42,6 +43,9 @@ quality_note: >-
   The article maintains an engaging tone appropriate for entertainment
   enthusiasts but lacks specific details about the show and has vague content
   that could indicate potential inaccuracies.
+image_alt: >-
+  Charismatic game show host stands between mismatched contestant pairs on a
+  dramatic neon-lit stage.
 topics:
   - TV News
 ---

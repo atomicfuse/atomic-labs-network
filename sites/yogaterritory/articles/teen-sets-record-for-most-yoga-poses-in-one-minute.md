@@ -29,24 +29,22 @@ seo:
     potential through disciplined practice.
   og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file.html'
   twitter_card: summary_large_image
-quality_score: 75
+quality_score: 60
 score_breakdown:
-  seo_quality: 75
-  tone_match: 85
+  seo_quality: 45
+  tone_match: 75
   content_length: 65
-  factual_accuracy: 60
-  keyword_relevance: 90
+  factual_accuracy: 30
+  keyword_relevance: 85
 quality_note: >-
-  Well-written article with good keyword integration and appropriate tone, but
-  lacks factual specifics about the record and falls short of optimal word
-  count.
+  The article covers relevant yoga topics with appropriate tone but lacks
+  factual specificity about the actual record and contains vague claims without
+  supporting evidence.
 image_alt: >-
-  Teen practicing yoga in a sunlit studio with soft motion trails suggesting
-  focused movement.
+  Teen practicing yoga in a sunlit studio with soft motion echoes suggesting
+  fast pose transitions.
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Yoga is a practice that embodies balance, flexibility, and strength, and it continues to captivate individuals worldwide. Recently, a remarkable achievement in the realm of yoga was recorded by a talented teenager who demonstrated an extraordinary performance by executing numerous yoga poses in just one minute. This feat not only showcases human potential but also highlights the growing interest and dedication among younger generations towards health and wellness.

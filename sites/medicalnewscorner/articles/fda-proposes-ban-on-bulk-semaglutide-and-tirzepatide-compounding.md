@@ -18,7 +18,8 @@ source_url: >-
   https://medicalnewscorner.com/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding/
 imported_from: wordpress
 wp_original_id: 24831
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/fda-proposes-ban-on-bulk-semaglutide-and-tirzepatide-compounding/
@@ -42,6 +43,7 @@ quality_note: >-
   Well-written, comprehensive article that expertly balances technical accuracy
   with accessible language for medical health enthusiasts, covering a highly
   relevant drug policy topic with excellent structure and keyword integration.
+image_alt: Unbranded medication vials and syringe on a clinical pharmacy workbench
 topics:
   - Drugs
 ---

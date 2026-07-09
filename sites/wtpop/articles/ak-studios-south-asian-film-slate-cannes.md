@@ -23,7 +23,7 @@ source_url: >-
   https://deadline.com/2026/05/india-us-ak-studios-vijay-jayapal-an-idiot-the-undying-1236900488/
 source_item_id: 6a04305486fcaaeb5bc83605
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/ak-studios-south-asian-film-slate-cannes.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -36,9 +36,11 @@ quality_note: >-
   length requirements and contains some unverifiable claims about specific films
   and events.
 reading_time: 3
+image_alt: >-
+  South Asian filmmaker silhouette on a moody festival promenade with cinematic
+  lights and gothic shadows.
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## Bold South Asian Stories Take Center Stage
 

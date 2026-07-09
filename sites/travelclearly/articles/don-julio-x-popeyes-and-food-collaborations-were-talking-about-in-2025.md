@@ -18,7 +18,8 @@ source_url: >-
   https://travelclearly.com/don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025/
 imported_from: wordpress
 wp_original_id: 36349
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: >-
+  /assets/images/don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025.webp
 seo:
   canonical: >-
     https://travelclearly.com/don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025/
@@ -45,10 +46,12 @@ score_breakdown:
 quality_note: >-
   Engaging tone and relevant food content, but significantly too short at 449
   words and lacks proper heading structure for SEO optimization.
+image_alt: >-
+  Crispy chicken and an agave cocktail on a stylish bar counter with warm
+  nightlife lighting
 topics:
   - Travel
   - Travel Tips
-  - Food & Drink
 ---
 
 From tequila-infused fast food to pop culture-driven menu drops, food collaborations in 2025 are more than just marketing stunts—they're shaping the way we eat, drink, and experience food. Whether it's tapping into nostalgia, fueling FOMO, or redefining indulgence, these partnerships reveal a lot about what matters in food culture today.

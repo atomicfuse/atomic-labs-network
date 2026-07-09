@@ -20,7 +20,8 @@ source_url: >-
   https://www.tvshowsmag.com/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin/
 imported_from: wordpress
 wp_original_id: 28225
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: >-
+  /assets/images/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/hope-2026-trailer-hwang-jung-min-leads-a-survival-mystery-from-na-hong-jin/
@@ -48,6 +49,9 @@ quality_note: >-
   Well-written article with good tone and length, but appears to contain
   fabricated information about an unverified 2026 film release, and lacks strong
   TV/streaming focus for the target site.
+image_alt: >-
+  Tense harbor town at night as residents face a mysterious discovery in the
+  rain
 topics:
   - TV News
 ---

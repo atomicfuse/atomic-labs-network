@@ -16,7 +16,7 @@ reading_time: 7
 source_url: 'https://tvshowbox.com/man-on-fire-review-brutal-action-thriller-hits-hard/'
 imported_from: wordpress
 wp_original_id: 24102
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/man-on-fire-review-brutal-action-thriller-hits-hard.webp
 seo:
   canonical: 'https://tvshowbox.com/man-on-fire-review-brutal-action-thriller-hits-hard/'
   og_title: Man on Fire Review Brutal Action Thriller Hits Hard - TV Show Box
@@ -37,6 +37,9 @@ quality_note: >-
   Strong entertainment review with excellent tone and keyword coverage, though
   some claims about the Netflix series appear potentially fabricated or
   speculative.
+image_alt: >-
+  A wounded protector stands in a rain-soaked alley lit by distant fire and cold
+  blue shadows.
 topics:
   - TV News
   - Reviews

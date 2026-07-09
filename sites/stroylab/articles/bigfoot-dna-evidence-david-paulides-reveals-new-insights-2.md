@@ -13,7 +13,7 @@ source_url: >-
   https://stroylab.com/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2/
 imported_from: wordpress
 wp_original_id: 752
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2.webp
 seo:
   canonical: >-
     https://stroylab.com/bigfoot-dna-evidence-david-paulides-reveals-new-insights-2/
@@ -36,6 +36,9 @@ quality_note: >-
   Article completely mismatches the promised title and site focus - discusses
   global economics instead of Bigfoot/paranormal content, making it irrelevant
   despite decent length and factual accuracy.
+image_alt: >-
+  Gloved hand holding a sample vial in a misty forest near faint tracks in damp
+  soil
 topics:
   - Deep Dives
 ---

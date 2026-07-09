@@ -40,7 +40,6 @@ image_alt: >-
   working behind glass.
 topics:
   - Health News
-  - Wellness
 ---
 ## Leadership Vacuum at Critical Health Agency
 

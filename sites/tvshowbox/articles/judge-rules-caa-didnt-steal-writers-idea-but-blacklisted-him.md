@@ -18,7 +18,8 @@ source_url: >-
   https://tvshowbox.com/judge-rules-caa-didnt-steal-writers-idea-but-blacklisted-him/
 imported_from: wordpress
 wp_original_id: 23907
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: >-
+  /assets/images/judge-rules-caa-didnt-steal-writers-idea-but-blacklisted-him.webp
 seo:
   canonical: >-
     https://tvshowbox.com/judge-rules-caa-didnt-steal-writers-idea-but-blacklisted-him/
@@ -40,6 +41,9 @@ quality_note: >-
   The article covers relevant entertainment industry news with appropriate tone,
   but falls significantly short of the target word count at only 449 words
   instead of the recommended 800-1200 range.
+image_alt: >-
+  A shadowy talent agency conference room with a lone screenplay on the table
+  and one chair pulled away.
 topics:
   - TV News
   - Celebrity News

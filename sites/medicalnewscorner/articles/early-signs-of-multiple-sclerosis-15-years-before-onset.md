@@ -18,7 +18,7 @@ source_url: >-
   https://medicalnewscorner.com/early-signs-of-multiple-sclerosis-15-years-before-onset/
 imported_from: wordpress
 wp_original_id: 24695
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/early-signs-of-multiple-sclerosis-15-years-before-onset.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/early-signs-of-multiple-sclerosis-15-years-before-onset/
@@ -43,9 +43,11 @@ quality_note: >-
   Well-written article with excellent topic relevance and tone, but
   significantly under target length at 485 words versus the 800-1200 word
   target.
+image_alt: >-
+  A softly lit silhouette with glowing neural pathways suggesting early
+  neurological changes over time.
 topics:
   - Research
-  - Conditions
 ---
 
 Multiple sclerosis (MS) is a chronic condition affecting the central nervous system, leading to a range of physical and neurological symptoms. Recent studies suggest that subtle indicators of MS may manifest years before an official diagnosis is made. Recognizing these early signs can be crucial for timely intervention and management.

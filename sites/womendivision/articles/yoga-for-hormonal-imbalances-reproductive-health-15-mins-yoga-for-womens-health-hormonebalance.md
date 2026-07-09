@@ -51,7 +51,7 @@ quality_note: >-
   content length with only 59 words instead of the target 800-1200 words.
 image_alt: Woman practicing gentle restorative yoga in a calm sunlit studio
 topics:
-  - Yoga
+  - Advice
 ---
 
 Looking for a natural way to support your hormonal health and reproductive well-being? This 15-minute yoga sequence is designed to bring balance to your hormones, reduce stress, and promote overall well-being. Whether you're dealing with PCOS, irregular cycles, menopause, or simply looking to enhance your vitality, this gentle yet effective yoga practice will leave you feeling restored and supported.

@@ -17,7 +17,7 @@ reading_time: 4
 source_url: 'https://coffeeactually.com/best-coffee-and-desserts-in-slo-cal-to-try/'
 imported_from: wordpress
 wp_original_id: 51346
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/best-coffee-and-desserts-in-slo-cal-to-try.webp
 seo:
   canonical: 'https://coffeeactually.com/best-coffee-and-desserts-in-slo-cal-to-try/'
   og_title: Best Coffee and Desserts in SLO CAL to Try - Coffee Actually
@@ -39,6 +39,9 @@ quality_note: >-
   The article has good tone and accuracy but falls short on length (602 words vs
   800-1200 target) and lacks specific coffee brewing details or gear
   recommendations that would better match the site's core focus areas.
+image_alt: >-
+  Sunlit cafe table with artisan coffee and desserts against a soft Central
+  Coast backdrop
 topics:
   - Coffee News
 ---

@@ -19,7 +19,8 @@ source_url: >-
   https://babyparenttrends.com/cbeebies-parenting-helpline-overcoming-communication-challenges/
 imported_from: wordpress
 wp_original_id: 17689
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/cbeebies-parenting-helpline-overcoming-communication-challenges.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/cbeebies-parenting-helpline-overcoming-communication-challenges/
@@ -44,6 +45,9 @@ quality_note: >-
   Well-written parenting article with strong tone and accuracy, but falls short
   on length (535 words vs 800-1200 target) and could benefit from more specific
   SEO optimization in title and meta description.
+image_alt: >-
+  Parent and young child share story time on a cozy rug surrounded by books and
+  toys.
 topics:
   - Kids
 ---

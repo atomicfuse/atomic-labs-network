@@ -18,7 +18,7 @@ source_url: >-
   https://coffeeactually.com/floods-disrupt-vietnams-central-highlands-coffee-harvest/
 imported_from: wordpress
 wp_original_id: 51353
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/floods-disrupt-vietnams-central-highlands-coffee-harvest.webp
 seo:
   canonical: >-
     https://coffeeactually.com/floods-disrupt-vietnams-central-highlands-coffee-harvest/
@@ -41,6 +41,9 @@ quality_note: >-
   Strong coffee news coverage with excellent keyword relevance and appropriate
   tone, but falls short on content length at 584 words versus the target
   800-1200 word range.
+image_alt: >-
+  Flooded Vietnamese coffee farm with red cherries in water and a farmer
+  overlooking damaged rows.
 topics:
   - Coffee News
 ---

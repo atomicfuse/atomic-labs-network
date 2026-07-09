@@ -20,7 +20,8 @@ source_url: >-
   https://medicalnewscorner.com/monash-leads-medical-innovations-with-victorias-top-mri-technology/
 imported_from: wordpress
 wp_original_id: 24737
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/monash-leads-medical-innovations-with-victorias-top-mri-technology.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/monash-leads-medical-innovations-with-victorias-top-mri-technology/
@@ -46,6 +47,9 @@ quality_note: >-
   Well-written article with good tone and relevant health content, but falls
   short on length and could benefit from more specific details about the MRI
   technology.
+image_alt: >-
+  Clinicians collaborate beside a glowing MRI scanner in a modern medical
+  research suite.
 topics:
   - Research
 ---

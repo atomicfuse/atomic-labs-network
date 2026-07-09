@@ -18,7 +18,8 @@ source_url: >-
   https://gamingnewsalley.com/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm/
 imported_from: wordpress
 wp_original_id: 42484
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: >-
+  /assets/images/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm.webp
 seo:
   canonical: >-
     https://gamingnewsalley.com/1930s-cartoon-inspired-video-games-take-the-gaming-world-by-storm/
@@ -43,6 +44,9 @@ quality_note: >-
   Well-written article with engaging tone and good factual accuracy, but falls
   short on length (575 words vs 800-1200 target) and could better integrate core
   gaming keywords like Reviews, Gameplay, PC Games, and Console Games.
+image_alt: >-
+  Modern gaming setup with vintage cartoon figures emerging from a glowing
+  screen
 topics:
   - Gaming News
 ---

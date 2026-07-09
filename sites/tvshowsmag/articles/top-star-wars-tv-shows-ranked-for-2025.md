@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/top-star-wars-tv-shows-ranked-for-2025/'
 imported_from: wordpress
 wp_original_id: 28085
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/top-star-wars-tv-shows-ranked-for-2025.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/top-star-wars-tv-shows-ranked-for-2025/'
   og_title: Top Star Wars TV Shows Ranked for 2025 - TV Shows Magazine
@@ -38,6 +38,9 @@ quality_note: >-
   Well-written entertainment content with good tone and accuracy, but
   significantly under target word count at 466 words instead of the 800-1200
   range.
+image_alt: >-
+  Silhouetted space adventurers overlook a twilight desert under planets and
+  starships
 topics:
   - TV News
 ---

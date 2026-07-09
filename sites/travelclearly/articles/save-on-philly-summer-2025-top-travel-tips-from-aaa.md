@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://travelclearly.com/save-on-philly-summer-2025-top-travel-tips-from-aaa/'
 imported_from: wordpress
 wp_original_id: 36486
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/save-on-philly-summer-2025-top-travel-tips-from-aaa.webp
 seo:
   canonical: >-
     https://travelclearly.com/save-on-philly-summer-2025-top-travel-tips-from-aaa/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-written travel advice with good tone and accuracy, but falls
   significantly short of target word count at only 538 words versus the 800-1200
   range.
+image_alt: >-
+  Travelers explore sunny Philadelphia with the skyline and historic
+  architecture in the background.
 topics:
   - Travel
   - Travel Tips

@@ -18,7 +18,7 @@ source_url: >-
   https://www.tvshowsmag.com/gillian-anderson-lena-headey-shine-in-the-abandons-review/
 imported_from: wordpress
 wp_original_id: 28129
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/gillian-anderson-lena-headey-shine-in-the-abandons-review.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/gillian-anderson-lena-headey-shine-in-the-abandons-review/
@@ -43,6 +43,9 @@ quality_note: >-
   Well-written review with engaging tone and good keyword coverage, but severely
   hampered by apparent factual inaccuracies about the show's existence and cast,
   plus below-target word count.
+image_alt: >-
+  Two frontier women overlook a stormy western settlement at dusk with a lantern
+  between them.
 topics:
   - TV News
 ---

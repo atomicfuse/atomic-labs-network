@@ -38,7 +38,6 @@ image_alt: >-
   scattered decision folders
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## Networks Face Critical Renewal Decisions as Season Nears End
 

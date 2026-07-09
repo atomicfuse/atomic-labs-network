@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://travelnights.com/top-tsa-travel-tips-for-holiday-flights/'
 imported_from: wordpress
 wp_original_id: 36669
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/top-tsa-travel-tips-for-holiday-flights.webp
 seo:
   canonical: 'https://travelnights.com/top-tsa-travel-tips-for-holiday-flights/'
   og_title: Top TSA Travel Tips for Holiday Flights - Travel Nights
@@ -38,9 +38,11 @@ quality_note: >-
   Well-written travel guide with accurate TSA information and appropriate tone,
   but significantly short at 481 words and needs stronger SEO optimization with
   better keyword integration.
+image_alt: >-
+  Holiday traveler calmly preparing carry-on items for airport security
+  screening
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 As the holiday season approaches, many travelers are preparing to fly and visit loved ones. Navigating airport security efficiently can help ensure a smooth journey. Understanding the latest guidelines and recommendations can make your trip less stressful and more enjoyable.

@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/top-2026-tv-shows-you-cant-miss/'
 imported_from: wordpress
 wp_original_id: 28150
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/top-2026-tv-shows-you-cant-miss.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/top-2026-tv-shows-you-cant-miss/'
   og_title: Top 2026 TV Shows You Can't Miss - TV Shows Magazine
@@ -40,6 +40,9 @@ quality_note: >-
   Article has good topic relevance and appropriate tone but suffers from very
   short length and completely fabricated content about non-existent 2026 TV
   shows.
+image_alt: >-
+  A dark living room glows with floating screens hinting at sci-fi, drama,
+  comedy, and fantasy stories.
 topics:
   - TV News
 ---

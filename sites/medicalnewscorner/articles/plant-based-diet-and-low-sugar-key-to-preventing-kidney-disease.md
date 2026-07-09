@@ -18,7 +18,8 @@ source_url: >-
   https://medicalnewscorner.com/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease/
 imported_from: wordpress
 wp_original_id: 24766
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/plant-based-diet-and-low-sugar-key-to-preventing-kidney-disease/
@@ -43,6 +44,9 @@ quality_note: >-
   Well-written health content with good keyword coverage and appropriate tone,
   but falls short on length (538 words vs 800-1200 target) and could benefit
   from stronger SEO optimization in title and meta description.
+image_alt: >-
+  Plant-based meal in soft light suggesting kidney-friendly nutrition and lower
+  sugar choices.
 topics:
   - Health News
 ---

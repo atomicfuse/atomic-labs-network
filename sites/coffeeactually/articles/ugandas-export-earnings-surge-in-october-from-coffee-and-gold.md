@@ -18,7 +18,8 @@ source_url: >-
   https://coffeeactually.com/ugandas-export-earnings-surge-in-october-from-coffee-and-gold/
 imported_from: wordpress
 wp_original_id: 51367
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/ugandas-export-earnings-surge-in-october-from-coffee-and-gold.webp
 seo:
   canonical: >-
     https://coffeeactually.com/ugandas-export-earnings-surge-in-october-from-coffee-and-gold/
@@ -43,6 +44,9 @@ quality_note: >-
   Well-written coffee news article with good tone and keyword relevance, but
   falls short on length (535 words vs 800-1200 target) and lacks specific data
   to support claims.
+image_alt: >-
+  Coffee beans and gold-toned minerals arranged in a refined editorial still
+  life
 topics:
   - Coffee News
 ---

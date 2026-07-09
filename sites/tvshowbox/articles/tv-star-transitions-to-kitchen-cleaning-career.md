@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/tv-star-transitions-to-kitchen-cleaning-career/'
 imported_from: wordpress
 wp_original_id: 23918
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/tv-star-transitions-to-kitchen-cleaning-career.webp
 seo:
   canonical: 'https://tvshowbox.com/tv-star-transitions-to-kitchen-cleaning-career/'
   og_title: TV Star Transitions to Kitchen Cleaning Career - TV Show Box
@@ -41,6 +41,9 @@ quality_note: >-
   misleading title about 'kitchen cleaning' that doesn't match the
   entrepreneurship content, plus lacks specific details about Walton's actual
   business venture.
+image_alt: >-
+  Young performer steps from a shadowy studio toward a polished kitchen with
+  cleaning tools.
 topics:
   - TV News
   - Celebrity News

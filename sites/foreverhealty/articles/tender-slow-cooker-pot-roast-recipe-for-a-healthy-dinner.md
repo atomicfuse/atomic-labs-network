@@ -46,8 +46,6 @@ image_alt: 'Tender pot roast with vegetables served in a cozy, softly lit dinner
 topics:
   - Healthy Recipes
   - Healthy Living Tips
-  - Healthy Aging
-  - Nutrition & Diet
 ---
 
 If you're seeking delicious and healthy slow cooker recipes, this pot roast is ideal for fall and winter dinners. It's incredibly tender, juicy, and hearty, effortlessly falling apart for a delightful meal. Whether you prefer a simple dump-and-go method or taking extra steps to enhance the flavor, this pot roast is sure to satisfy.

@@ -46,7 +46,6 @@ topics:
   - Travel
   - Destinations
   - Travel Tips
-  - Food & Drink
 ---
 
 Exploring new destinations not only broadens your horizons but also tantalizes your taste buds with a variety of culinary experiences. For those with a passion for both travel and gastronomy, certain places around the globe offer an exquisite blend of scenic beauty and mouthwatering cuisine. Here, we delve into some of the top international travel destinations renowned for their exceptional food culture.

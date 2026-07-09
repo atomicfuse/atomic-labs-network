@@ -19,7 +19,7 @@ source_url: >-
   https://medicalnewscorner.com/top-3-health-and-longevity-benefits-of-vitamin-d/
 imported_from: wordpress
 wp_original_id: 24729
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/top-3-health-and-longevity-benefits-of-vitamin-d.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/top-3-health-and-longevity-benefits-of-vitamin-d/
@@ -42,6 +42,9 @@ quality_note: >-
   Well-written article with good tone and accurate content, but significantly
   under the target word count at 499 words instead of the recommended 800-1200
   range.
+image_alt: >-
+  Older adult in warm morning sunlight, suggesting vitality, wellness, and
+  healthy aging.
 topics:
   - Health News
 ---

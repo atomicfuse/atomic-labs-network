@@ -40,9 +40,6 @@ image_alt: >-
   packing lunch nearby.
 topics:
   - Nutrition
-  - Meal Plans
-  - Healthy Snacks
-  - Recipes
 ---
 ## The Protein Gap in Traditional Indian Meals
 

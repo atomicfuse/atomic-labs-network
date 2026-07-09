@@ -51,7 +51,6 @@ topics:
   - Travel
   - Destinations
   - Travel Tips
-  - Food & Drink
 ---
 
 Europe continues to captivate travelers with its diverse cultural heritage, stunning landscapes, and vibrant cities. As 2026 approaches, many destinations are emerging as top choices for explorers seeking new experiences and unforgettable adventures. From historical sites to breathtaking coastlines, Europe's offerings are as varied as they are enticing.

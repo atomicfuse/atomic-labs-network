@@ -18,7 +18,7 @@ source_url: >-
   https://www.tvshowsmag.com/golden-globes-2023-nikki-glaser-hosts-amidst-world-events/
 imported_from: wordpress
 wp_original_id: 28152
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/golden-globes-2023-nikki-glaser-hosts-amidst-world-events.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/golden-globes-2023-nikki-glaser-hosts-amidst-world-events/
@@ -42,6 +42,9 @@ quality_note: >-
   The article has strong entertainment coverage and engaging tone but contains
   major factual errors (claims about 2026 Golden Globes and contradictory
   title/content about Nikki Glaser hosting).
+image_alt: >-
+  Anonymous awards host on a golden stage before a diverse, moody ballroom
+  audience.
 topics:
   - TV News
 ---

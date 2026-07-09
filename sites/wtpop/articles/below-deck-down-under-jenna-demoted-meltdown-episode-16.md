@@ -37,7 +37,6 @@ image_alt: >-
   workplace confrontation.
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## Jenna's Drunken Meltdown Takes Center Stage
 

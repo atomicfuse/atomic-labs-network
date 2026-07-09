@@ -20,7 +20,7 @@ source_url: >-
   https://babyparenttrends.com/salim-khan-on-letting-his-sons-shape-their-own-careers/
 imported_from: wordpress
 wp_original_id: 17765
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/salim-khan-on-letting-his-sons-shape-their-own-careers.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/salim-khan-on-letting-his-sons-shape-their-own-careers/
@@ -43,6 +43,7 @@ quality_note: >-
   Well-written parenting article with excellent topic relevance but falls short
   on length (489 words vs 800-1200 target) and could benefit from stronger SEO
   optimization.
+image_alt: Elderly father supports three adult sons choosing separate creative paths
 topics:
   - Parenting
 ---

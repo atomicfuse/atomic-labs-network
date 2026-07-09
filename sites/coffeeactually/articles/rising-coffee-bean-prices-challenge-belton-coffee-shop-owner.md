@@ -19,7 +19,8 @@ source_url: >-
   https://coffeeactually.com/rising-coffee-bean-prices-challenge-belton-coffee-shop-owner/
 imported_from: wordpress
 wp_original_id: 51433
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/rising-coffee-bean-prices-challenge-belton-coffee-shop-owner.webp
 seo:
   canonical: >-
     https://coffeeactually.com/rising-coffee-bean-prices-challenge-belton-coffee-shop-owner/
@@ -44,6 +45,9 @@ quality_note: >-
   Well-written article with good tone and factual content, but significantly
   under the target word count at 379 words, which severely impacts overall
   quality despite strong coverage of coffee news and local business challenges.
+image_alt: >-
+  Barista weighs coffee beans beside a cup and calculator in a warmly lit local
+  café.
 topics:
   - Coffee News
   - Coffee Beans

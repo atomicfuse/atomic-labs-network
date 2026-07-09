@@ -45,7 +45,6 @@ image_alt: >-
   glucose regulation motifs.
 topics:
   - Mind-Blowing Science
-  - Space & The Unknown
 ---
 
 Understanding the interplay between sleep patterns, fasting, and overall health can unlock potential strategies for enhancing heart health and managing blood sugar levels. Recent research has highlighted how aligning fasting intervals with natural sleep cycles may offer significant benefits to cardiovascular health and glucose regulation.

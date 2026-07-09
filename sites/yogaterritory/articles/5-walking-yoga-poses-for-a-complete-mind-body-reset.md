@@ -31,22 +31,20 @@ seo:
     through mindfulness and breathing focus.
   og_image: 'http://yogaterritory.com/wp-content/uploads/2025/07/make_file-2.jpeg'
   twitter_card: summary_large_image
-quality_score: 72
+quality_score: 75
 score_breakdown:
   seo_quality: 65
   tone_match: 85
-  content_length: 45
-  factual_accuracy: 90
+  content_length: 57
+  factual_accuracy: 95
   keyword_relevance: 75
 quality_note: >-
-  The article has good tone and accuracy but falls significantly short on word
-  count (569 vs target 800-1200) and the title doesn't deliver on the promised
-  '5 specific walking yoga poses.'
-image_alt: Person practicing mindful walking yoga on a peaceful sunrise path
+  The article has good tone and accuracy but falls short on length (569 words vs
+  800-1200 target) and lacks the specific '5 Walking Yoga Poses' promised in the
+  title, affecting both SEO quality and content delivery.
+image_alt: Person practicing mindful walking yoga on a sunlit path at sunrise.
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Discover a new way to enhance your physical and mental well-being by combining the benefits of walking and yoga into a harmonious practice. Walking yoga is an innovative approach that merges the rhythmic movement of walking with the mindful poses of yoga, offering a holistic fitness experience that nurtures both the body and the mind.

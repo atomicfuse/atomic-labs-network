@@ -38,8 +38,6 @@ image_alt: >-
   layered natural light.
 topics:
   - Interior Design
-  - Small Spaces
-  - Budget Decor
 ---
 ## Formal Dining Rooms Make a Stylish Comeback
 

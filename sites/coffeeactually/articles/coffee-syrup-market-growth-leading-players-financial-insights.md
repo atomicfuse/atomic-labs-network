@@ -17,7 +17,8 @@ source_url: >-
   https://coffeeactually.com/coffee-syrup-market-growth-leading-players-financial-insights/
 imported_from: wordpress
 wp_original_id: 51344
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/coffee-syrup-market-growth-leading-players-financial-insights.webp
 seo:
   canonical: >-
     https://coffeeactually.com/coffee-syrup-market-growth-leading-players-financial-insights/
@@ -42,6 +43,9 @@ quality_note: >-
   Solid coffee industry coverage with good keyword relevance, but the
   business-focused tone is somewhat formal for the site's conversational style
   and falls short of the ideal word count.
+image_alt: >-
+  Unlabeled coffee syrup bottles and iced coffee on a premium café counter with
+  warm modern lighting
 topics:
   - Coffee Drinks
 ---

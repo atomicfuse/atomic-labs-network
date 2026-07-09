@@ -19,7 +19,8 @@ source_url: >-
   https://babyparenttrends.com/back-to-school-survival-tips-for-parents-from-adhd-coaching-expert/
 imported_from: wordpress
 wp_original_id: 17708
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/back-to-school-survival-tips-for-parents-from-adhd-coaching-expert.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/back-to-school-survival-tips-for-parents-from-adhd-coaching-expert/
@@ -44,9 +45,11 @@ quality_note: >-
   Well-written article with strong keyword relevance and tone, but falls short
   on length (552 words vs 800-1200 target) and could benefit from better heading
   structure for SEO optimization.
+image_alt: >-
+  Parent and child organize school supplies together in a calm, sunlit kitchen
+  before the school year.
 topics:
   - Kids
-  - Children’s Health
 ---
 
 As the school year approaches, parents and students alike often face a variety of challenges. This period can be particularly daunting for families managing Attention Deficit Hyperactivity Disorder (ADHD). With the right strategies, however, navigating these challenges becomes significantly easier, ensuring a smoother transition for everyone involved.

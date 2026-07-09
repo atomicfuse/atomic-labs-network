@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/nyt-crossword-clues-and-answers-for-march-5-2026/'
 imported_from: wordpress
 wp_original_id: 720
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/nyt-crossword-clues-and-answers-for-march-5-2026.webp
 seo:
   canonical: 'https://geekystudios.com/nyt-crossword-clues-and-answers-for-march-5-2026/'
   og_title: 'NYT Crossword Clues and Answers for March 5, 2026 - Geeky Studios'
@@ -38,6 +38,9 @@ score_breakdown:
 quality_note: >-
   The article has good keyword relevance and tone but suffers from misleading
   title/description mismatch, future date issues, and below-target word count.
+image_alt: >-
+  Blank puzzle tiles with glowing neural patterns suggesting shared daily
+  problem-solving
 topics:
   - Pop Culture
   - Trends

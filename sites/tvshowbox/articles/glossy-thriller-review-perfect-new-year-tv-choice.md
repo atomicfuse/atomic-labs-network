@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/glossy-thriller-review-perfect-new-year-tv-choice/'
 imported_from: wordpress
 wp_original_id: 24046
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/glossy-thriller-review-perfect-new-year-tv-choice.webp
 seo:
   canonical: 'https://tvshowbox.com/glossy-thriller-review-perfect-new-year-tv-choice/'
   og_title: 'Glossy Thriller Review: Perfect New Year TV Choice - TV Show Box'
@@ -39,6 +39,9 @@ quality_note: >-
   While the article has good tone and covers relevant topics, it appears to
   review a fictional Netflix series that doesn't exist, and at 451 words it's
   significantly below the target length.
+image_alt: >-
+  Moody thriller scene of a divided couple reflected in rain-streaked glass
+  against blurred city lights
 topics:
   - TV News
   - Reviews

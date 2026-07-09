@@ -16,7 +16,7 @@ reading_time: 4
 source_url: 'https://geekystudios.com/sonos-price-hike-expected-due-to-new-tariffs/'
 imported_from: wordpress
 wp_original_id: 631
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/sonos-price-hike-expected-due-to-new-tariffs.webp
 seo:
   canonical: 'https://geekystudios.com/sonos-price-hike-expected-due-to-new-tariffs/'
   og_title: Sonos Price Hike Expected Due to New Tariffs - Geeky Studios
@@ -38,6 +38,9 @@ quality_note: >-
   Well-written tech article with good tone and keyword coverage, but lacks
   specific details about tariff percentages, exact price increases, and official
   sources, making some claims appear potentially fabricated.
+image_alt: >-
+  Unbranded smart audio gear beside abstract shipping and cost symbols in a
+  modern living room
 topics:
   - Tech
 ---

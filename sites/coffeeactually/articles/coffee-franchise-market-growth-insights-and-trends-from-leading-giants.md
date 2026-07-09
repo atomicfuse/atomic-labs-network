@@ -19,7 +19,8 @@ source_url: >-
   https://coffeeactually.com/coffee-franchise-market-growth-insights-and-trends-from-leading-giants/
 imported_from: wordpress
 wp_original_id: 51404
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/coffee-franchise-market-growth-insights-and-trends-from-leading-giants.webp
 seo:
   canonical: >-
     https://coffeeactually.com/coffee-franchise-market-growth-insights-and-trends-from-leading-giants/
@@ -44,6 +45,7 @@ score_breakdown:
 quality_note: >-
   Well-written article on coffee market trends but significantly under the
   target word count at 522 words versus the 800-1200 word target.
+image_alt: Unbranded coffee cups arranged in a rising pattern on a modern cafe counter
 topics:
   - Coffee News
 ---

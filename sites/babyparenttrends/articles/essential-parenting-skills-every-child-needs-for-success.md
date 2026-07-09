@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/essential-parenting-skills-every-child-needs-for-success/
 imported_from: wordpress
 wp_original_id: 17721
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/essential-parenting-skills-every-child-needs-for-success.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/essential-parenting-skills-every-child-needs-for-success/
@@ -44,6 +44,9 @@ quality_note: >-
   Well-written parenting article with strong tone and relevance, but falls short
   on word count (569 vs 800-1200 target) and could benefit from improved SEO
   optimization in title length and meta description.
+image_alt: >-
+  Parent encourages a child building a small block bridge in a warm sunlit
+  garden.
 topics:
   - Kids
 ---

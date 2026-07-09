@@ -19,7 +19,8 @@ source_url: >-
   https://medicalnewsalley.com/chad-roys-innovations-in-antimicrobials-revolutionize-science/
 imported_from: wordpress
 wp_original_id: 32565
-featuredImage: /assets/images/medicalnewsalley-general-article.webp
+featuredImage: >-
+  /assets/images/chad-roys-innovations-in-antimicrobials-revolutionize-science.webp
 seo:
   canonical: >-
     https://medicalnewsalley.com/chad-roys-innovations-in-antimicrobials-revolutionize-science/
@@ -47,6 +48,9 @@ quality_note: >-
   short length (389 words vs 800-1200 target) and concerning factual accuracy
   problems with vague, unverifiable claims about Chad Roy's research without
   proper citations or evidence.
+image_alt: >-
+  Researcher holding a glowing petri dish in a modern lab, suggesting
+  antimicrobial innovation.
 topics:
   - Health News
 ---

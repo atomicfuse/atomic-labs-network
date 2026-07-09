@@ -52,7 +52,6 @@ image_alt: >-
   vulnerable age groups.
 topics:
   - Parenting
-  - Children’s Health
 ---
 
 The respiratory syncytial virus (RSV) is responsible for a third of pneumonia cases around the world and is the second leading cause of infant deaths. RSV also affects older people above the age of 60 years, causing both illness and death on a scale similar to that of influenza in this patient population.

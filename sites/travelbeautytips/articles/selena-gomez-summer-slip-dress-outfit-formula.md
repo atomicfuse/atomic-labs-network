@@ -36,7 +36,6 @@ image_alt: >-
   a sunny city street.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## The Celebrity-Approved Summer Style Formula
 

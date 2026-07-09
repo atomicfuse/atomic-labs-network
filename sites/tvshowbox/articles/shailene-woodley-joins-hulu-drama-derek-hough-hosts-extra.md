@@ -18,7 +18,7 @@ source_url: >-
   https://tvshowbox.com/shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra/
 imported_from: wordpress
 wp_original_id: 23929
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra.webp
 seo:
   canonical: >-
     https://tvshowbox.com/shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra/
@@ -41,6 +41,9 @@ quality_note: >-
   The article has strong tone and keyword coverage but appears to contain
   fabricated information about a non-existent Hulu series, severely impacting
   credibility and SEO effectiveness.
+image_alt: >-
+  Two silhouetted performers step into a dramatic spotlight on a moody Hollywood
+  soundstage.
 topics:
   - TV News
 ---

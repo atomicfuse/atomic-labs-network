@@ -19,7 +19,8 @@ source_url: >-
   https://babyparenttrends.com/childhood-obesity-in-india-causes-warning-signs-and-prevention-tips/
 imported_from: wordpress
 wp_original_id: 17772
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/childhood-obesity-in-india-causes-warning-signs-and-prevention-tips.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/childhood-obesity-in-india-causes-warning-signs-and-prevention-tips/
@@ -44,9 +45,11 @@ score_breakdown:
 quality_note: >-
   Well-written article with excellent topic relevance and tone, but falls short
   of target word count at 602 words instead of the 800-1200 range.
+image_alt: >-
+  Indian family preparing healthy food together with sports gear nearby in a
+  sunlit home
 topics:
   - Kids
-  - Children’s Health
 ---
 
 Childhood obesity is becoming a significant concern in India, with a growing number of children affected by this health issue. The increase in obesity rates among children is alarming, as it sets the stage for various health complications later in life. Addressing this issue is crucial for ensuring a healthy future generation.

@@ -17,7 +17,8 @@ source_url: >-
   https://geekystudios.com/top-dc-comics-collections-recommended-by-james-gunn-for-beginners/
 imported_from: wordpress
 wp_original_id: 635
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: >-
+  /assets/images/top-dc-comics-collections-recommended-by-james-gunn-for-beginners.webp
 seo:
   canonical: >-
     https://geekystudios.com/top-dc-comics-collections-recommended-by-james-gunn-for-beginners/
@@ -42,6 +43,9 @@ quality_note: >-
   Well-written pop culture content with good tone and accuracy, but
   significantly too short at 499 words for the site's 800-1200 word target
   range.
+image_alt: >-
+  Unbranded comic books open under a spotlight with abstract hero silhouettes
+  and cosmic city imagery
 topics:
   - Pop Culture
 ---

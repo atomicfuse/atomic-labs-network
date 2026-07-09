@@ -18,7 +18,8 @@ source_url: >-
   https://coffeeactually.com/coffee-scrubs-market-growth-driven-by-digitization-and-industry-4-0/
 imported_from: wordpress
 wp_original_id: 51379
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/coffee-scrubs-market-growth-driven-by-digitization-and-industry-4-0.webp
 seo:
   canonical: >-
     https://coffeeactually.com/coffee-scrubs-market-growth-driven-by-digitization-and-industry-4-0/
@@ -43,6 +44,9 @@ quality_note: >-
   Article covers coffee scrubs professionally but is too short at 453 words and
   doesn't align well with the site's core coffee content focus, treating coffee
   more as a skincare ingredient than a beverage or culinary topic.
+image_alt: >-
+  Premium coffee scrub jar with coffee grounds, botanicals, and subtle digital
+  commerce accents
 topics:
   - Coffee News
 ---

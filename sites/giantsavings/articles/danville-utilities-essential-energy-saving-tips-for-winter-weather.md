@@ -49,7 +49,6 @@ image_alt: >-
 topics:
   - Saving Tips
   - Grocery Savings
-  - Bills & Utilities
 ---
 
 Danville Utilities is committed to helping residents maintain comfort and reduce their energy bills during the colder months. As temperatures drop, the demand for heating rises, leading to increased energy consumption and higher costs. To assist customers in managing these expenses, Danville Utilities is providing valuable energy-saving tips designed to enhance efficiency and promote environmentally friendly practices.

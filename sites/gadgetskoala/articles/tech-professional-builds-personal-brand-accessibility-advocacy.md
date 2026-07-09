@@ -40,8 +40,6 @@ image_alt: >-
   creator-brand elements
 topics:
   - Gadgets
-  - Mobile
-  - Wearables
 ---
 ## Building Authority Through Technical Expertise and Personal Passion
 

@@ -46,8 +46,6 @@ image_alt: Warm carrot ginger soup with fresh ingredients on a sunlit kitchen ta
 topics:
   - Healthy Recipes
   - Healthy Living Tips
-  - Healthy Aging
-  - Nutrition & Diet
 ---
 
 Today, I'm sharing this delicious Carrot Ginger Soup recipe that's filled with anti-inflammatory foods and is also great for gut health and boosting immunity. It's comforting, soothing, and perfect for these cooler months. It's also gluten free, dairy free, and vegan!

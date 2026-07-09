@@ -12,7 +12,7 @@ reading_time: 3
 source_url: 'https://stroylab.com/the-anti-christ-satans-false-messiah-revealed/'
 imported_from: wordpress
 wp_original_id: 696
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/the-anti-christ-satans-false-messiah-revealed.webp
 seo:
   canonical: 'https://stroylab.com/the-anti-christ-satans-false-messiah-revealed/'
   og_title: 'The Anti-Christ: Satan''s False Messiah Revealed - StroyLab'
@@ -34,6 +34,9 @@ quality_note: >-
   This generic article about information literacy completely fails to match the
   promised title about the Anti-Christ and doesn't cover any of the site's core
   topics like conspiracies, dark history, or mysteries.
+image_alt: >-
+  Shadowed figure in a fractured hall with distant crowd silhouettes and ominous
+  red light
 topics:
   - Deep Dives
 ---

@@ -20,7 +20,8 @@ source_url: >-
   https://tvshowbox.com/cancelled-netflix-sci-fi-show-revived-star-shares-exciting-update/
 imported_from: wordpress
 wp_original_id: 23901
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: >-
+  /assets/images/cancelled-netflix-sci-fi-show-revived-star-shares-exciting-update.webp
 seo:
   canonical: >-
     https://tvshowbox.com/cancelled-netflix-sci-fi-show-revived-star-shares-exciting-update/
@@ -44,9 +45,11 @@ score_breakdown:
 quality_note: >-
   Strong entertainment focus and engaging tone, but significantly under target
   word count at 469 words hurts overall quality.
+image_alt: >-
+  A lone silhouette faces a glowing portal on a dark abandoned sci-fi
+  soundstage.
 topics:
   - TV News
-  - Recommendations
 ---
 
 "The OA," an intriguing sci-fi series on Netflix, captivated audiences with its unique storytelling and mysterious plotlines. Although the show concluded after two seasons, fans continue to hope for its revival. Recent comments from actor Jason Isaacs have reignited these hopes, sparking discussions about the show's potential return and its impact on viewers.

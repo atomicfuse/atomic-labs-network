@@ -37,7 +37,6 @@ image_alt: >-
   on a nighttime city street.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## The Art of Intentional Casual Dressing
 

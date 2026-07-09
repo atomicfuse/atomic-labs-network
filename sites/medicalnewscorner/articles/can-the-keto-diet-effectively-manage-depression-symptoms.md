@@ -20,7 +20,7 @@ source_url: >-
   https://medicalnewscorner.com/can-the-keto-diet-effectively-manage-depression-symptoms/
 imported_from: wordpress
 wp_original_id: 24774
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/can-the-keto-diet-effectively-manage-depression-symptoms.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/can-the-keto-diet-effectively-manage-depression-symptoms/
@@ -44,6 +44,7 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   537 words, which severely impacts overall quality despite good research
   coverage and engaging writing.
+image_alt: Sunlit keto foods on a table with a calm person resting by a bright window
 topics:
   - Research
 ---

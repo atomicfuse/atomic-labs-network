@@ -21,7 +21,8 @@ source_url: >-
   https://babyparenttrends.com/supporting-children-affected-by-alcoholism-effective-strategies/
 imported_from: wordpress
 wp_original_id: 17728
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/supporting-children-affected-by-alcoholism-effective-strategies.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/supporting-children-affected-by-alcoholism-effective-strategies/
@@ -45,9 +46,11 @@ score_breakdown:
 quality_note: >-
   Strong content relevance and tone but significantly under target word count at
   508 words when 800-1200 is expected.
+image_alt: >-
+  A child sits in a calm kitchen with a supportive adult nearby in soft morning
+  light.
 topics:
   - Parenting
-  - Children’s Health
 ---
 
 Raising children in environments where family members battle alcoholism can present unique challenges. Navigating these situations requires careful consideration and planning to ensure the well-being of the children involved. Parents and guardians must adopt strategies that safeguard their children while also managing family dynamics effectively.

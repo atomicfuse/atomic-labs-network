@@ -51,7 +51,6 @@ image_alt: >-
   warmth and reflection.
 topics:
   - Kids
-  - Children’s Health
 ---
 
 It's a well-known fact that parenting styles evolve with each generation. Parents often find themselves at odds with their own parents over how best to raise their children. This friction is due to a combination of generational differences, evolving societal norms, and the ever-changing landscape of child development research.

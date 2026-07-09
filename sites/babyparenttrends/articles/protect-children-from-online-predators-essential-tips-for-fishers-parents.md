@@ -19,7 +19,8 @@ source_url: >-
   https://babyparenttrends.com/protect-children-from-online-predators-essential-tips-for-fishers-parents/
 imported_from: wordpress
 wp_original_id: 17780
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/protect-children-from-online-predators-essential-tips-for-fishers-parents.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/protect-children-from-online-predators-essential-tips-for-fishers-parents/
@@ -44,6 +45,9 @@ quality_note: >-
   The article has poor SEO optimization with an overly long title and lacks
   proper heading structure, but maintains appropriate tone and covers relevant
   parenting safety topics adequately.
+image_alt: >-
+  Parent and child using a tablet together in a warm home setting with a subtle
+  protective glow.
 topics:
   - Kids
 ---

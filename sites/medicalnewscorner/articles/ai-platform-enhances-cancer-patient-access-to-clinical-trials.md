@@ -19,7 +19,8 @@ source_url: >-
   https://medicalnewscorner.com/ai-platform-enhances-cancer-patient-access-to-clinical-trials/
 imported_from: wordpress
 wp_original_id: 24762
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/ai-platform-enhances-cancer-patient-access-to-clinical-trials.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/ai-platform-enhances-cancer-patient-access-to-clinical-trials/
@@ -43,9 +44,11 @@ score_breakdown:
 quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   444 words, limiting its SEO potential and depth of coverage.
+image_alt: >-
+  Clinician and cancer patient in a bright clinic with subtle AI network
+  patterns suggesting trial access.
 topics:
   - Research
-  - Wellness
 ---
 
 Mount Sinai Health System is pioneering the use of artificial intelligence to address a critical issue in oncology: the accessibility of clinical trials for cancer patients. This innovative AI tool is designed to streamline the process of matching patients with appropriate clinical trials, thereby enhancing both the efficiency and success rates of these vital research efforts.

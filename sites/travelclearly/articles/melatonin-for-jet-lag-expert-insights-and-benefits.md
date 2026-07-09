@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://travelclearly.com/melatonin-for-jet-lag-expert-insights-and-benefits/'
 imported_from: wordpress
 wp_original_id: 36527
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/melatonin-for-jet-lag-expert-insights-and-benefits.webp
 seo:
   canonical: >-
     https://travelclearly.com/melatonin-for-jet-lag-expert-insights-and-benefits/
@@ -40,6 +40,7 @@ quality_note: >-
   Well-written travel health article with good tone and accuracy, but falls
   short on length (589 words vs 800-1200 target) and could benefit from stronger
   SEO optimization in title and headings.
+image_alt: Airplane window seat at night with travel essentials and city lights below
 topics:
   - Travel
   - Travel Tips

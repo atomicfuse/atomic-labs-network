@@ -18,7 +18,8 @@ source_url: >-
   https://babyparenttrends.com/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast/
 imported_from: wordpress
 wp_original_id: 17768
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/michelle-obama-reveals-parenting-tips-on-call-her-daddy-podcast/
@@ -43,6 +44,9 @@ quality_note: >-
   The article is completely off-topic, discussing a Turkish TV drama instead of
   Michelle Obama's parenting tips, with zero relevance to the site's family and
   parenting focus.
+image_alt: >-
+  Two women discuss parenting in a warm podcast studio with subtle family
+  keepsakes nearby.
 topics:
   - Parenting
 ---

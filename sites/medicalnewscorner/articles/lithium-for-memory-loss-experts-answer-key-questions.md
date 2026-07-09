@@ -18,7 +18,7 @@ source_url: >-
   https://medicalnewscorner.com/lithium-for-memory-loss-experts-answer-key-questions/
 imported_from: wordpress
 wp_original_id: 24802
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/lithium-for-memory-loss-experts-answer-key-questions.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/lithium-for-memory-loss-experts-answer-key-questions/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-written article on lithium's cognitive effects with good keyword
   relevance and tone, but significantly below target word count at 410 words
   instead of the 800-1200 range.
+image_alt: >-
+  Patient and clinician discuss medication with a subtle neural pattern
+  suggesting memory and brain health.
 topics:
   - Drugs
 ---

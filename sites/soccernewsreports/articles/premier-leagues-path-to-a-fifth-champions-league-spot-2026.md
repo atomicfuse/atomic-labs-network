@@ -48,7 +48,6 @@ image_alt: >-
   under stadium lights.
 topics:
   - Latest News
-  - Leagues
 ---
 
 In the vibrant world of European football, the Premier League has long been a beacon of competitiveness and excellence. Fans across the globe eagerly follow its pulsating matches and dramatic rivalries. Recent developments have further spiced up the league's allure, especially concerning coveted spots in the prestigious UEFA Champions League.

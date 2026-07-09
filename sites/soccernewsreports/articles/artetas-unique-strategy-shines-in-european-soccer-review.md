@@ -49,8 +49,6 @@ image_alt: >-
   lines across the pitch.
 topics:
   - Latest News
-  - Leagues
-  - Match Reports
 ---
 
 The weekend in European soccer brought plenty of excitement, with standout performances and unexpected outcomes across the Premier League, La Liga, and Bundesliga. Fans were treated to thrilling matches, impressive goals, and dramatic moments that will be remembered as highlights of the season.

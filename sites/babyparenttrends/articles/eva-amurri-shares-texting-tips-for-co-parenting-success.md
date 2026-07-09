@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/eva-amurri-shares-texting-tips-for-co-parenting-success/
 imported_from: wordpress
 wp_original_id: 17699
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/eva-amurri-shares-texting-tips-for-co-parenting-success.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/eva-amurri-shares-texting-tips-for-co-parenting-success/
@@ -42,6 +42,9 @@ score_breakdown:
 quality_note: >-
   Well-written parenting content with good tone and relevance, but lacks SEO
   optimization and falls short of ideal word count target.
+image_alt: >-
+  Sunlit family calendar and phones on a kitchen table as children play in the
+  background
 topics:
   - Kids
 ---

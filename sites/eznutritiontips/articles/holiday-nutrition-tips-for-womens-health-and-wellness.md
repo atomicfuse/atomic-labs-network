@@ -44,7 +44,6 @@ quality_note: >-
 image_alt: Woman choosing a balanced holiday meal with water at a cozy festive table
 topics:
   - Nutrition Tips
-  - Weight & Wellness
 ---
 
 The holiday season often brings joy and celebration, but it can also lead to dietary challenges, particularly for women who strive to maintain balanced nutrition. During this festive period, it is crucial to incorporate healthy eating habits without missing out on the fun of the season. This article provides insightful tips to help women navigate holiday meals while keeping their nutritional goals in check.

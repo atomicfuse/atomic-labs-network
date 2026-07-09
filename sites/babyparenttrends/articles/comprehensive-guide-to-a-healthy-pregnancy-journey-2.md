@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey-2/
 imported_from: wordpress
 wp_original_id: 17786
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/comprehensive-guide-to-a-healthy-pregnancy-journey-2.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/comprehensive-guide-to-a-healthy-pregnancy-journey-2/
@@ -42,9 +42,11 @@ quality_note: >-
   Well-written pregnancy guide with excellent tone and accuracy, but
   significantly below target word count at 498 words versus the 800-1200 target
   range.
+image_alt: >-
+  Expecting couple in a sunlit nursery preparing calmly for their pregnancy
+  journey
 topics:
   - Pregnancy
-  - Children’s Health
 ---
 
 Embarking on the journey of pregnancy is a transformative experience that brings a blend of excitement and anticipation. From understanding the early signs to preparing for the arrival of a newborn, each stage of pregnancy offers unique challenges and joys. This guide aims to provide valuable insights and tips for expecting parents, ensuring a smoother and more informed journey.

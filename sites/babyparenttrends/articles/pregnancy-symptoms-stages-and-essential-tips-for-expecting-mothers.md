@@ -46,7 +46,6 @@ image_alt: >-
   suggesting care and preparation.
 topics:
   - Pregnancy
-  - Children’s Health
 ---
 
 Pregnancy can feel exciting, confusing, and often overwhelming, especially when every week brings new changes. From early symptoms to prenatal appointments, nutrition, birth planning, and postpartum preparation, understanding what to expect can help you feel more confident and supported throughout the journey.

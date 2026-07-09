@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://popnsnap.com/the-hara-unveils-new-album-the-fallout/'
 imported_from: wordpress
 wp_original_id: 530
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: /assets/images/the-hara-unveils-new-album-the-fallout.webp
 seo:
   canonical: 'https://popnsnap.com/the-hara-unveils-new-album-the-fallout/'
   og_title: THE HARA Unveils New Album 'The Fallout' - Pop N&#039; Snap
@@ -27,6 +27,9 @@ seo:
     alternative music, offering fans a fresh experience.
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/08/make_file-4-1.jpeg'
   twitter_card: summary_large_image
+image_alt: >-
+  Moody empty rock stage with neon lights, haze, microphone stand, and guitars
+  before a performance.
 topics:
   - Music
 ---

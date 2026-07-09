@@ -52,7 +52,6 @@ image_alt: >-
   hands preparing a healthy meal.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 March is a month dedicated to raising awareness about the importance of proper nutrition, and Annessa Chumbley, a renowned nutrition expert, has shared some valuable insights to help us embrace healthier eating habits. Let's delve into some of the advice she has to offer.

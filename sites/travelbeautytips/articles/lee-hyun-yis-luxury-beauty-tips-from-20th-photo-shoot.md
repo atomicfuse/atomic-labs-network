@@ -13,7 +13,7 @@ source_url: >-
   https://travelbeautytips.com/lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot/
 imported_from: wordpress
 wp_original_id: 35967
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot.webp
 seo:
   canonical: >-
     https://travelbeautytips.com/lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot/
@@ -36,9 +36,9 @@ quality_note: >-
   Article completely mismatches its title about beauty tips and instead
   discusses K-pop, with poor SEO optimization and minimal relevance to the
   site's beauty/travel focus.
+image_alt: Elegant model at a luxury beauty vanity in a polished fashion studio setting
 topics:
   - Beauty Tips
-  - Destinations
 ---
 
 In recent developments within the K-pop landscape, a new girl group is making waves with their unique sound and captivating performances. Based in South Korea, this emerging group has quickly gained attention both domestically and internationally. Their rise to fame is marked by a combination of innovative music, dynamic choreography, and a strong connection with their fanbase.

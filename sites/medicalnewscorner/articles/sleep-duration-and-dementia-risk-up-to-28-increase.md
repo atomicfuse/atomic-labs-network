@@ -20,7 +20,7 @@ source_url: >-
   https://medicalnewscorner.com/sleep-duration-and-dementia-risk-up-to-28-increase/
 imported_from: wordpress
 wp_original_id: 24817
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/sleep-duration-and-dementia-risk-up-to-28-increase.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/sleep-duration-and-dementia-risk-up-to-28-increase/
@@ -43,6 +43,9 @@ quality_note: >-
   Well-written article on a relevant health topic with good keyword coverage,
   but falls short of optimal length and lacks specific research citations to
   support the 28% statistic claim.
+image_alt: >-
+  Older adult waking in soft morning light with running shoes nearby, suggesting
+  sleep and brain health.
 topics:
   - Health News
 ---

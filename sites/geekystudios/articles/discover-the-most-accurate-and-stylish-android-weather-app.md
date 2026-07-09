@@ -17,7 +17,7 @@ source_url: >-
   https://geekystudios.com/discover-the-most-accurate-and-stylish-android-weather-app/
 imported_from: wordpress
 wp_original_id: 724
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/discover-the-most-accurate-and-stylish-android-weather-app.webp
 seo:
   canonical: >-
     https://geekystudios.com/discover-the-most-accurate-and-stylish-android-weather-app/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-written tech review with good tone and accuracy, but falls short on
   content length (520 words vs 800-1200 target) and could benefit from stronger
   SEO optimization.
+image_alt: >-
+  Sleek smartphone with abstract weather radar visuals amid clouds, sunlight,
+  and raindrop reflections
 topics:
   - Tech
 ---

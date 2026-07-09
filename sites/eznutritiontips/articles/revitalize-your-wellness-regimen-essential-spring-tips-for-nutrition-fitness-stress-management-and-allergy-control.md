@@ -53,7 +53,6 @@ image_alt: >-
   mat by an open window.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 As the season of rebirth and renewal, spring is the ideal time to refresh your wellness routine, focusing on nutritious eating habits and strategies to prevent allergies. Just as you would deep-clean your house during this season, it's equally important to give your health regimen a thorough overhaul.

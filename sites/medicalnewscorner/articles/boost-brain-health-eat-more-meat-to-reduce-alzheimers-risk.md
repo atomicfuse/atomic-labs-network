@@ -21,7 +21,7 @@ source_url: >-
   https://medicalnewscorner.com/boost-brain-health-eat-more-meat-to-reduce-alzheimers-risk/
 imported_from: wordpress
 wp_original_id: 24809
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/boost-brain-health-eat-more-meat-to-reduce-alzheimers-risk.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/boost-brain-health-eat-more-meat-to-reduce-alzheimers-risk/
@@ -47,9 +47,11 @@ quality_note: >-
   Well-written article with good tone and strong keyword relevance, but falls
   short on length (586 words vs 800-1200 target) and lacks specific study
   citations which raises factual accuracy concerns.
+image_alt: >-
+  Lean meat and vegetables on a sunlit table with subtle neural and DNA-inspired
+  visual motifs.
 topics:
   - Research
-  - Wellness
 ---
 
 High meat consumption has been linked to a reduced risk of dementia, particularly in individuals carrying the Alzheimer's gene, according to recent research. This finding opens new discussions on dietary impacts on cognitive health, especially for those genetically predisposed to Alzheimer's disease. Understanding how diet influences brain health can be vital in developing preventative strategies against dementia.

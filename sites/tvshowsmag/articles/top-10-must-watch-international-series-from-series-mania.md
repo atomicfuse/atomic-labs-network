@@ -20,7 +20,7 @@ source_url: >-
   https://www.tvshowsmag.com/top-10-must-watch-international-series-from-series-mania/
 imported_from: wordpress
 wp_original_id: 28203
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/top-10-must-watch-international-series-from-series-mania.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/top-10-must-watch-international-series-from-series-mania/
@@ -42,6 +42,9 @@ quality_note: >-
   Well-written article about Series Mania with good tone and keyword relevance,
   but significantly underperforms on length (477 words vs 800-1200 target) and
   lacks specific show details despite promising 'Top 10' in title.
+image_alt: >-
+  Diverse audience silhouettes watch glowing cinematic scenes in a dark festival
+  screening hall.
 topics:
   - TV News
 ---

@@ -43,7 +43,6 @@ quality_note: >-
 image_alt: Darts player poised to throw on a dramatic arena stage before a blurred crowd
 topics:
   - Latest News
-  - Leagues
 ---
 
 The world of darts is witnessing an exciting transformation as the sport continues to gain international traction. With top-tier events drawing larger audiences and players achieving new heights, darts is carving out a significant place on the global stage. Recent tournaments have showcased thrilling performances, highlighting both seasoned champions and emerging talents.

@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://coffeeactually.com/coffee-bags-market-to-reach-1-1-billion-by-2035/'
 imported_from: wordpress
 wp_original_id: 51361
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/coffee-bags-market-to-reach-1-1-billion-by-2035.webp
 seo:
   canonical: 'https://coffeeactually.com/coffee-bags-market-to-reach-1-1-billion-by-2035/'
   og_title: Coffee Bags Market to Reach $1.1 Billion by 2035 - Coffee Actually
@@ -39,6 +39,9 @@ quality_note: >-
   Well-structured coffee industry news piece with good keyword coverage and
   appropriate tone, but falls short of optimal length for comprehensive
   coverage.
+image_alt: >-
+  Blank sustainable coffee bags with beans and a cup arranged in warm editorial
+  lighting.
 topics:
   - Coffee News
 ---

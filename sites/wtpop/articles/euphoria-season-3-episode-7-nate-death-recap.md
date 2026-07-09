@@ -37,7 +37,6 @@ image_alt: >-
   chaotic hallway.
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## A Death That Surprised No One
 

@@ -48,7 +48,6 @@ image_alt: >-
   gene-editing advances.
 topics:
   - Research
-  - Wellness
 ---
 
 Australian cancer researchers are the first to establish a next-generation gene-editing tool for modeling and interrogating human disease.

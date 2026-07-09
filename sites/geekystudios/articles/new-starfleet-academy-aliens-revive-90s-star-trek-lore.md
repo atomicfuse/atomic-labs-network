@@ -13,7 +13,7 @@ source_url: >-
   https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/
 imported_from: wordpress
 wp_original_id: 706
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/new-starfleet-academy-aliens-revive-90s-star-trek-lore.webp
 seo:
   canonical: >-
     https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/
@@ -36,6 +36,7 @@ quality_note: >-
   The article has major issues: title is completely unrelated to content (Star
   Trek vs Marvel), contains potential inaccuracies about Sentry's MCU status, is
   too short, and fails to match the site's science focus.
+image_alt: Alien cadets walking through a futuristic space academy with glowing star maps
 topics:
   - Pop Culture
 ---

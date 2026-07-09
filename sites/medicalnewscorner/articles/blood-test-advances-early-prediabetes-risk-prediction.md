@@ -19,7 +19,7 @@ source_url: >-
   https://medicalnewscorner.com/blood-test-advances-early-prediabetes-risk-prediction/
 imported_from: wordpress
 wp_original_id: 24778
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/blood-test-advances-early-prediabetes-risk-prediction.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/blood-test-advances-early-prediabetes-risk-prediction/
@@ -42,9 +42,9 @@ score_breakdown:
 quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   557 words, and lacks specific research citations or study details.
+image_alt: Blood sample in a modern lab with subtle AI-inspired biomarker visuals
 topics:
   - Research
-  - Wellness
 ---
 
 Recent advancements in artificial intelligence (AI) are transforming the medical field, offering innovative solutions to predict and manage health conditions. One of the most significant breakthroughs involves an AI model capable of identifying biomarkers that indicate the risk of developing prediabetes. This development represents a major step forward in preventative healthcare, harnessing technology to address a growing global health challenge.

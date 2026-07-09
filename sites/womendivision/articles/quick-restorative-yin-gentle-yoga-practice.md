@@ -40,7 +40,7 @@ image_alt: >-
   Serene restorative yoga setup with mat, bolster, and blanket in soft morning
   light
 topics:
-  - Yoga
+  - Advice
 ---
 
 Tend to your body. Tend to your energy. A short and sweet session to help you take a break and restore.

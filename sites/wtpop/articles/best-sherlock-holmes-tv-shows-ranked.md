@@ -35,7 +35,6 @@ image_alt: >-
   lights in a moody rain scene.
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## The Enduring Appeal of Television's Greatest Detective
 

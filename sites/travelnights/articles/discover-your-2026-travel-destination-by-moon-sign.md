@@ -17,7 +17,7 @@ reading_time: 4
 source_url: 'https://travelnights.com/discover-your-2026-travel-destination-by-moon-sign/'
 imported_from: wordpress
 wp_original_id: 36696
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/discover-your-2026-travel-destination-by-moon-sign.webp
 seo:
   canonical: 'https://travelnights.com/discover-your-2026-travel-destination-by-moon-sign/'
   og_title: Discover Your 2026 Travel Destination by Moon Sign - Travel Nights
@@ -40,9 +40,11 @@ quality_note: >-
   Well-written travel guide with good tone and keyword coverage, but falls short
   on word count and could benefit from stronger SEO optimization in title length
   and meta description.
+image_alt: >-
+  Sunlit travel suitcase with celestial map and moonlit destinations in a dreamy
+  2026 travel concept
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Planning your travel adventures can be an exciting yet daunting task, especially when considering the diverse options available worldwide. In 2026, why not align your travel destinations with your lunar sign? This unique approach combines astrology with travel, offering destinations that resonate with your personal moon sign characteristics.

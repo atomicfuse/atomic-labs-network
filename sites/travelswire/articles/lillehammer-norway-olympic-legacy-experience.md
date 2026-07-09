@@ -40,7 +40,6 @@ image_alt: >-
   toward distant ski jumps.
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## A Living Olympic Destination Beyond the History Books
 

@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/top-9-must-watch-tv-shows-this-week/'
 imported_from: wordpress
 wp_original_id: 24048
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/top-9-must-watch-tv-shows-this-week.webp
 seo:
   canonical: 'https://tvshowbox.com/top-9-must-watch-tv-shows-this-week/'
   og_title: Top 9 Must-Watch TV Shows This Week - TV Show Box
@@ -39,6 +39,9 @@ quality_note: >-
   The article has a good conversational tone but suffers from being too short,
   lacking specific show details, and having weak SEO optimization with generic
   content.
+image_alt: >-
+  Moody living room lit by colorful TV screens, suggesting a diverse week of
+  must-watch shows.
 topics:
   - TV News
 ---

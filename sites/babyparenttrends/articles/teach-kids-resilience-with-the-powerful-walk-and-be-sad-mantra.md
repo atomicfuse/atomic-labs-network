@@ -48,7 +48,6 @@ image_alt: >-
   breaks through clouds.
 topics:
   - Kids
-  - Children’s Health
 ---
 
 In a world where positivity often takes center stage, embracing sadness can seem counterintuitive. However, acknowledging and accepting emotions like sadness is crucial for mental well-being. By understanding this, individuals can journey through their emotions with a sense of acceptance and growth. This approach doesn't focus on suppressing negative emotions but rather invites individuals to coexist with them, leading to a healthier mental state.

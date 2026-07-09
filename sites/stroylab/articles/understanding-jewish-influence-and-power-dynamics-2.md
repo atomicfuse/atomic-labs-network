@@ -12,7 +12,7 @@ reading_time: 3
 source_url: 'https://stroylab.com/understanding-jewish-influence-and-power-dynamics-2/'
 imported_from: wordpress
 wp_original_id: 726
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/understanding-jewish-influence-and-power-dynamics-2.webp
 seo:
   canonical: 'https://stroylab.com/understanding-jewish-influence-and-power-dynamics-2/'
   og_title: Understanding Jewish Influence and Power Dynamics - StroyLab
@@ -34,6 +34,9 @@ quality_note: >-
   The article completely mismatches the site's focus on conspiracies and
   mysteries, instead covering standard geopolitics with no connection to the
   promised title about Jewish influence.
+image_alt: >-
+  Empty diplomatic chairs face each other across a table in a tense, map-lined
+  meeting room.
 topics:
   - Deep Dives
 ---

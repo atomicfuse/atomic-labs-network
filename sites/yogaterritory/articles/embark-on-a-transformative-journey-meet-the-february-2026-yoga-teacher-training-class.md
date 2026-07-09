@@ -4,10 +4,11 @@ title: >-
   Training Class
 description: >-
   Discover the inspiring stories of individuals embarking on their
-  transformative journey in the February 2026 Yoga Teacher Training Class.
+  transformative journey in the February 2026 Yoga Teacher Training Class,
+  united by personal and spiritual growth within the Sivananda Yoga community.
 type: standard
 status: published
-publishDate: '2026-02-05T09:47:20+00:00'
+publishDate: 2026-02-05T09:47:20.000Z
 author: Taylor Winters
 tags:
   - Yoga Poses
@@ -34,27 +35,26 @@ seo:
     transformative journey in the February 2026 Yoga Teacher Training Class.
   twitter_card: summary_large_image
 videos:
-  - id: 22c33076
+  - id: d1c8cd29
     url: 'https://www.youtube.com/watch?v=blvbG5rSIM0'
     position: after-paragraph-2
-quality_score: 52
+quality_score: 47
 score_breakdown:
   seo_quality: 25
   tone_match: 75
-  content_length: 35
-  factual_accuracy: 85
+  content_length: 25
+  factual_accuracy: 70
   keyword_relevance: 40
 quality_note: >-
-  The article has an engaging tone but falls short with poor SEO optimization,
-  very low word count (281 vs 800-1200 target), and limited coverage of the
-  site's core yoga topics.
+  The article has an engaging tone but falls far short of target length and
+  lacks proper SEO optimization with a lengthy title and minimal keyword
+  integration for the site's focus areas.
 image_alt: >-
-  Diverse yoga trainees sit in a sunlit studio circle, suggesting calm,
-  community, and personal growth.
+  Diverse yoga trainees seated in a peaceful sunrise circle, reflecting calm and
+  community
+reviewer_notes: Approved via review queue.
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 In a world where transformation is often sought but rarely achieved, the February 2026 Yoga Teacher Training Class stands as a beacon for those yearning for change. This gathering of individuals from diverse backgrounds, united by a common goal of personal and spiritual growth, marks the beginning of an inspiring journey.

@@ -19,7 +19,7 @@ source_url: >-
   https://tvshowbox.com/kathy-bates-transformation-and-top-tv-producers-revealed/
 imported_from: wordpress
 wp_original_id: 23938
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/kathy-bates-transformation-and-top-tv-producers-revealed.webp
 seo:
   canonical: >-
     https://tvshowbox.com/kathy-bates-transformation-and-top-tv-producers-revealed/
@@ -43,6 +43,7 @@ quality_note: >-
   The article has a good tone and covers relevant topics, but it's significantly
   too short at 469 words and appears to fabricate claims about Kathy Bates being
   a television producer without factual basis.
+image_alt: Seasoned female producer guiding a diverse TV crew on a cinematic soundstage
 topics:
   - TV News
 ---

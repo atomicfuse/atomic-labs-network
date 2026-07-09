@@ -49,7 +49,6 @@ image_alt: >-
 topics:
   - Healthy Recipes
   - Special Diets
-  - Weight & Wellness
 ---
 
 Are you on a quest to lose weight without sacrificing flavor and satisfaction? Look no further! We've curated a list of 10 simple and healthy recipes that are low in WeightWatchers points and high in taste and nutrition. These recipes are perfect for anyone seeking quick meal ideas that align with their weight loss goals.

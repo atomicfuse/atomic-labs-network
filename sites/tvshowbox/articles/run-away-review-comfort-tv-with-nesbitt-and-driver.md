@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/run-away-review-comfort-tv-with-nesbitt-and-driver/'
 imported_from: wordpress
 wp_original_id: 24044
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/run-away-review-comfort-tv-with-nesbitt-and-driver.webp
 seo:
   canonical: 'https://tvshowbox.com/run-away-review-comfort-tv-with-nesbitt-and-driver/'
   og_title: 'Run Away Review: Comfort TV with Nesbitt and Driver - TV Show Box'
@@ -37,6 +37,9 @@ score_breakdown:
 quality_note: >-
   Well-written review with good tone and keyword coverage, but lacks specific
   details about the show and falls short of optimal word count.
+image_alt: >-
+  Two silhouettes watch television in a cozy rain-lit living room with warm
+  cinematic lighting.
 topics:
   - TV News
   - Reviews

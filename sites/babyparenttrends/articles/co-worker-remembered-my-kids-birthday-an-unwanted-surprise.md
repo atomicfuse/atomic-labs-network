@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/co-worker-remembered-my-kids-birthday-an-unwanted-surprise/
 imported_from: wordpress
 wp_original_id: 17800
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/co-worker-remembered-my-kids-birthday-an-unwanted-surprise.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/co-worker-remembered-my-kids-birthday-an-unwanted-surprise/
@@ -43,6 +43,9 @@ quality_note: >-
   Well-written parenting content with good tone and keyword relevance, but falls
   short on length (566 words vs 800-1200 target) and could benefit from stronger
   SEO optimization in title and meta description.
+image_alt: >-
+  Parent pauses beside a wrapped birthday gift while a child plays in the
+  background.
 topics:
   - Kids
 ---

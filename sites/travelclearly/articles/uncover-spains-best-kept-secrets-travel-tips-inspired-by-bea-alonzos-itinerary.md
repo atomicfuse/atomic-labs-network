@@ -54,7 +54,6 @@ topics:
   - Travel
   - Destinations
   - Travel Tips
-  - Food & Drink
 ---
 
 Are you planning a Spanish adventure? Let's take a leaf out of Bea Alonzo's book and explore what she experienced on her recent trip to Spain. From the sunny beaches of Costa del Sol to the historic streets of Madrid, she's got some valuable insights to share.

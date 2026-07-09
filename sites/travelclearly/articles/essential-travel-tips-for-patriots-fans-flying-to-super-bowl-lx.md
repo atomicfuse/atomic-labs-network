@@ -18,7 +18,8 @@ source_url: >-
   https://travelclearly.com/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx/
 imported_from: wordpress
 wp_original_id: 36618
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: >-
+  /assets/images/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx.webp
 seo:
   canonical: >-
     https://travelclearly.com/essential-travel-tips-for-patriots-fans-flying-to-super-bowl-lx/
@@ -43,6 +44,9 @@ quality_note: >-
   Strong travel advice content with good tone and keyword relevance, but
   severely undermined by major factual errors including incorrect Super Bowl
   numbering and venue location.
+image_alt: >-
+  Football fans with luggage head through a sunlit airport terminal before a
+  championship trip.
 topics:
   - Travel
   - Travel Tips

@@ -18,7 +18,7 @@ source_url: >-
   https://geekystudios.com/why-a-single-ultrawide-monitor-simplified-my-workflow/
 imported_from: wordpress
 wp_original_id: 728
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/why-a-single-ultrawide-monitor-simplified-my-workflow.webp
 seo:
   canonical: >-
     https://geekystudios.com/why-a-single-ultrawide-monitor-simplified-my-workflow/
@@ -41,6 +41,9 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and accuracy, but significantly under
   the target word count at only 431 words versus the 800-1200 range.
+image_alt: >-
+  Clean desk with a glowing ultrawide monitor and abstract organized workflow
+  panels.
 topics:
   - Tech
   - Trends

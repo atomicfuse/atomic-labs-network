@@ -18,7 +18,7 @@ source_url: >-
   https://coffeeactually.com/how-tariffs-are-affecting-norfolk-coffee-tea-company/
 imported_from: wordpress
 wp_original_id: 51399
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/how-tariffs-are-affecting-norfolk-coffee-tea-company.webp
 seo:
   canonical: >-
     https://coffeeactually.com/how-tariffs-are-affecting-norfolk-coffee-tea-company/
@@ -40,6 +40,9 @@ quality_note: >-
   The article is well-written but too short at 455 words, lacks coffee-specific
   focus, and doesn't align well with the site's coffee enthusiast audience or
   primary topics.
+image_alt: >-
+  Coffee beans, a cup, and shipping materials on a roastery table suggesting
+  global trade pressures.
 topics:
   - Coffee News
 ---

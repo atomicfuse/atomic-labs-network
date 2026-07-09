@@ -19,7 +19,7 @@ source_url: >-
   https://www.tvshowsmag.com/march-2026-netflix-new-movies-and-tv-shows-released/
 imported_from: wordpress
 wp_original_id: 28190
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/march-2026-netflix-new-movies-and-tv-shows-released.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/march-2026-netflix-new-movies-and-tv-shows-released/
@@ -42,6 +42,9 @@ quality_note: >-
   While the article demonstrates strong tone and keyword relevance, it suffers
   from significant factual issues by presenting fictional March 2026 Netflix
   releases as fact, and falls short of the target word count.
+image_alt: >-
+  Viewers silhouetted before a glowing screen with abstract scenes suggesting
+  new streaming releases.
 topics:
   - TV News
 ---

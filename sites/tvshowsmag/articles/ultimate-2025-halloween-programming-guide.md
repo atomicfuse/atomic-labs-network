@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/ultimate-2025-halloween-programming-guide/'
 imported_from: wordpress
 wp_original_id: 28098
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/ultimate-2025-halloween-programming-guide.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/ultimate-2025-halloween-programming-guide/'
   og_title: Ultimate 2025 Halloween Programming Guide - TV Shows Magazine
@@ -40,6 +40,7 @@ quality_note: >-
   While the article covers relevant TV programming topics with good keyword
   integration, it's significantly under the target word count and lacks specific
   details that would enhance both SEO value and factual credibility.
+image_alt: 'A dark living room lit by a blank TV, pumpkins, fog, and Halloween shadows.'
 topics:
   - TV News
 ---

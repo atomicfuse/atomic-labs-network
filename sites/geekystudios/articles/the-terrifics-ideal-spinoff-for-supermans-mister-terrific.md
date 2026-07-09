@@ -17,7 +17,7 @@ source_url: >-
   https://geekystudios.com/the-terrifics-ideal-spinoff-for-supermans-mister-terrific/
 imported_from: wordpress
 wp_original_id: 627
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/the-terrifics-ideal-spinoff-for-supermans-mister-terrific.webp
 seo:
   canonical: >-
     https://geekystudios.com/the-terrifics-ideal-spinoff-for-supermans-mister-terrific/
@@ -39,6 +39,9 @@ score_breakdown:
 quality_note: >-
   Strong pop culture content with engaging tone but significantly under target
   word count at 587 words versus 800-1200 range.
+image_alt: >-
+  Futuristic inventor superhero in a high-tech lab with hovering spheres and
+  team silhouettes
 topics:
   - Pop Culture
 ---

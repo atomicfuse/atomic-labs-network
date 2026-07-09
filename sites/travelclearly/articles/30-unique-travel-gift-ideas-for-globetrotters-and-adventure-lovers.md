@@ -18,7 +18,8 @@ source_url: >-
   https://travelclearly.com/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers/
 imported_from: wordpress
 wp_original_id: 36478
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: >-
+  /assets/images/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers.webp
 seo:
   canonical: >-
     https://travelclearly.com/30-unique-travel-gift-ideas-for-globetrotters-and-adventure-lovers/
@@ -42,6 +43,9 @@ score_breakdown:
 quality_note: >-
   Well-written travel gift guide with engaging tone and relevant content, but
   significantly under the 800-1200 word target at only 375 words.
+image_alt: >-
+  Sunlit luxury carry-on with curated travel essentials arranged for an upcoming
+  adventure
 topics:
   - Travel
   - Travel Tips

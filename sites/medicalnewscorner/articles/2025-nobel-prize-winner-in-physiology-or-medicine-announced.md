@@ -53,7 +53,6 @@ image_alt: >-
   medical breakthrough.
 topics:
   - Research
-  - Wellness
 ---
 
 In a groundbreaking achievement, the 2025 Nobel Prize in Physiology or Medicine has been awarded for pioneering research that has revolutionized our understanding of the human immune system. This prestigious honor underscores the impact of innovative discoveries that have far-reaching implications for modern medicine.

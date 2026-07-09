@@ -15,7 +15,7 @@ reading_time: 1
 source_url: 'https://tvshowbox.com/best-new-tv-shows-premiering-this-summer/'
 imported_from: wordpress
 wp_original_id: 24106
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/best-new-tv-shows-premiering-this-summer.webp
 seo:
   canonical: 'https://tvshowbox.com/best-new-tv-shows-premiering-this-summer/'
   og_title: Best New TV Shows Premiering This Summer - TV Show Box
@@ -33,6 +33,9 @@ score_breakdown:
 quality_note: >-
   This is essentially a placeholder request with no actual article content,
   resulting in very low scores across all criteria due to lack of substance.
+image_alt: >-
+  A cinematic summer living room setup glowing with TV light and
+  entertainment-night atmosphere.
 topics:
   - TV News
   - Celebrity News

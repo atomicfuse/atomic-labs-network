@@ -18,7 +18,7 @@ source_url: >-
   https://geekystudios.com/andor-finale-hidden-easter-eggs-you-might-have-missed/
 imported_from: wordpress
 wp_original_id: 586
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/andor-finale-hidden-easter-eggs-you-might-have-missed.webp
 seo:
   canonical: >-
     https://geekystudios.com/andor-finale-hidden-easter-eggs-you-might-have-missed/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-written article with good tone and strong pop culture relevance, but
   falls short on content length (583 words vs 800-1200 target) and lacks
   specific Easter egg details promised in the title.
+image_alt: >-
+  Lone rebel spy silhouette in a shadowy sci-fi corridor with hidden clues in
+  the background
 topics:
   - Pop Culture
   - Lifestyle

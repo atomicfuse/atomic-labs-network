@@ -19,7 +19,8 @@ source_url: >-
   https://travelclearly.com/tsa-officers-unpaid-essential-travel-advice-during-government-shutdown/
 imported_from: wordpress
 wp_original_id: 36624
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: >-
+  /assets/images/tsa-officers-unpaid-essential-travel-advice-during-government-shutdown.webp
 seo:
   canonical: >-
     https://travelclearly.com/tsa-officers-unpaid-essential-travel-advice-during-government-shutdown/
@@ -43,6 +44,9 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and accuracy, but significantly under
   target word count at 463 words, which severely impacts overall quality.
+image_alt: >-
+  Travelers wait in a long airport security line during a staffing-related
+  travel disruption.
 topics:
   - Travel
   - Travel Tips

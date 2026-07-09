@@ -45,7 +45,6 @@ image_alt: >-
   sprouting from soil
 topics:
   - TV News
-  - Recommendations
 ---
 
 Renowned for their comedic brilliance, Amy Poehler and Mike Schur are teaming up once again for a new television series that promises to captivate audiences. Known for their successful collaborations in the past, this dynamic duo is set to bring a fresh perspective to the small screen, combining humor with insightful storytelling.

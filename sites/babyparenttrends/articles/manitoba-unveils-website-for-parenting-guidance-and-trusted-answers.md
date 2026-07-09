@@ -20,7 +20,8 @@ source_url: >-
   https://babyparenttrends.com/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers/
 imported_from: wordpress
 wp_original_id: 17726
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/manitoba-unveils-website-for-parenting-guidance-and-trusted-answers/
@@ -46,6 +47,7 @@ quality_note: >-
   Well-written article with excellent keyword relevance and appropriate tone,
   but lacks specific SEO optimization elements like proper heading structure and
   could benefit from a more compelling title.
+image_alt: 'Parent holding a baby beside a laptop in a warm, sunlit home setting'
 topics:
   - Parenting
 ---

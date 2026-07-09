@@ -47,7 +47,6 @@ image_alt: >-
   wearable health motifs.
 topics:
   - Research
-  - Wellness
 ---
 
 In recent years, the medical field has witnessed transformative advancements that are set to redefine healthcare in 2024. These breakthroughs span various domains, from innovative treatments to cutting-edge technologies, promising to enhance patient care and outcomes globally.

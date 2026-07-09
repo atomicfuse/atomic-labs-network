@@ -48,7 +48,6 @@ image_alt: >-
   a curtain.
 topics:
   - Health News
-  - Conditions
 ---
 
 Donald Glover, an acclaimed artist known for his multifaceted talents, has recently come into the spotlight due to concerns about his health. Fans and followers have been eager to understand the truth behind rumors circulating about his well-being. As a celebrated musician, actor, and producer, Glover's health is a topic of interest for many who admire his work.

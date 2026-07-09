@@ -44,7 +44,6 @@ quality_note: >-
 image_alt: Brain-inspired arrangement of healthy foods on a bright kitchen surface
 topics:
   - Research
-  - Wellness
 ---
 
 Recent studies suggest that adopting certain dietary patterns can significantly reduce the risk of dementia, with a pronounced effect observed in women. As the global population ages, the search for effective preventive measures against cognitive decline becomes increasingly critical. Among various lifestyle choices, the foods we consume play a vital role in brain health. Research identifies the Mediterranean diet, alongside three other dietary approaches, as particularly beneficial in lowering dementia risk.

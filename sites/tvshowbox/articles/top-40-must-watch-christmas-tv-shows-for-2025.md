@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/top-40-must-watch-christmas-tv-shows-for-2025/'
 imported_from: wordpress
 wp_original_id: 24032
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/top-40-must-watch-christmas-tv-shows-for-2025.webp
 seo:
   canonical: 'https://tvshowbox.com/top-40-must-watch-christmas-tv-shows-for-2025/'
   og_title: Top 40 Must-Watch Christmas TV Shows for 2025 - TV Show Box
@@ -39,6 +39,9 @@ quality_note: >-
   The article has a good conversational tone but suffers from vague content
   lacking specific show titles, being too short for target length, and having a
   misleading title that promises 40 specific shows but delivers none.
+image_alt: >-
+  Family silhouettes watch holiday TV in a cozy Christmas living room with snow
+  outside.
 topics:
   - TV News
 ---

@@ -20,7 +20,7 @@ source_url: >-
   https://babyparenttrends.com/kajol-shares-sons-self-care-advice-listen-to-your-kids/
 imported_from: wordpress
 wp_original_id: 17719
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/kajol-shares-sons-self-care-advice-listen-to-your-kids.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/kajol-shares-sons-self-care-advice-listen-to-your-kids/
@@ -45,6 +45,7 @@ quality_note: >-
   Well-written article with strong tone and relevance but falls short on length
   (497 words vs 800-1200 target) and lacks specific SEO optimization elements
   like meta description length and keyword density.
+image_alt: Mother and son share a quiet conversation in a warm sunlit home.
 topics:
   - Kids
 ---

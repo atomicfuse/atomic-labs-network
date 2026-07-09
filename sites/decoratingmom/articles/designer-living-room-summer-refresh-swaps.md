@@ -37,8 +37,6 @@ image_alt: >-
   fresh greenery.
 topics:
   - Interior Design
-  - Budget Decor
-  - DIY Projects
 ---
 ## Make Your Living Room Summer-Ready Without the Heavy Lifting
 

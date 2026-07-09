@@ -17,7 +17,7 @@ reading_time: 8
 source_url: 'https://babyparenttrends.com/pregnancy-symptoms-stages-and-essential-tips/'
 imported_from: wordpress
 wp_original_id: 17807
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/pregnancy-symptoms-stages-and-essential-tips.webp
 seo:
   canonical: 'https://babyparenttrends.com/pregnancy-symptoms-stages-and-essential-tips/'
   og_title: Pregnancy Symptoms Stages and Essential Tips - Baby Parent Trends
@@ -37,10 +37,12 @@ score_breakdown:
 quality_note: >-
   Well-structured pregnancy guide with accurate information and appropriate
   tone, though the title could be more compelling for SEO optimization.
+image_alt: >-
+  Expectant parent and partner share a calm moment beside newborn essentials in
+  soft morning light.
 topics:
   - Baby Care
   - Pregnancy
-  - Children’s Health
 ---
 
 Pregnancy brings rapid changes, practical decisions, and plenty of questions. Whether you are newly pregnant, planning ahead, or supporting someone through the journey, understanding the stages of pregnancy can make each week feel more manageable and less overwhelming.

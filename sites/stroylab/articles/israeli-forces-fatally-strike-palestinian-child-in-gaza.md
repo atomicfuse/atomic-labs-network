@@ -12,7 +12,7 @@ reading_time: 3
 source_url: 'https://stroylab.com/israeli-forces-fatally-strike-palestinian-child-in-gaza/'
 imported_from: wordpress
 wp_original_id: 728
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/israeli-forces-fatally-strike-palestinian-child-in-gaza.webp
 seo:
   canonical: >-
     https://stroylab.com/israeli-forces-fatally-strike-palestinian-child-in-gaza/
@@ -35,6 +35,7 @@ quality_note: >-
   The article has a major title-content mismatch (Palestinian-Gaza vs Ukraine
   content) and completely fails to match the site's sensitive topics focus,
   making it unsuitable for the target audience despite decent writing quality.
+image_alt: Dusty children's shoes rest beside rubble in a damaged urban street at dawn.
 topics:
   - Deep Dives
 ---

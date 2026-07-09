@@ -16,7 +16,7 @@ reading_time: 4
 source_url: 'https://geekystudios.com/wicked-for-good-trailer-unveils-wizard-of-oz-cast/'
 imported_from: wordpress
 wp_original_id: 621
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/wicked-for-good-trailer-unveils-wizard-of-oz-cast.webp
 seo:
   canonical: 'https://geekystudios.com/wicked-for-good-trailer-unveils-wizard-of-oz-cast/'
   og_title: 'Wicked: For Good Trailer Unveils Wizard of Oz Cast - Geeky Studios'
@@ -38,6 +38,9 @@ quality_note: >-
   Strong pop culture content with engaging tone and accurate information, but
   needs better SEO optimization with more compelling title and improved heading
   structure.
+image_alt: >-
+  Emerald-lit fantasy stage with cast silhouettes, golden spotlights, and
+  swirling magical mist.
 topics:
   - Pop Culture
 ---

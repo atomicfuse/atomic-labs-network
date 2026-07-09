@@ -31,19 +31,19 @@ seo:
     status as a fashion icon and trendsetter.
   og_image: 'https://wtpop.com/wp-content/uploads/2026/01/make_file-10.jpeg'
   twitter_card: summary_large_image
-quality_score: 77
+quality_score: 68
 score_breakdown:
   seo_quality: 75
   tone_match: 85
   content_length: 60
-  factual_accuracy: 70
-  keyword_relevance: 95
+  factual_accuracy: 30
+  keyword_relevance: 90
 quality_note: >-
-  Well-written fashion piece with strong keyword relevance but falls short on
-  length and may contain factual inaccuracies about the movie premiere.
+  Strong fashion coverage and engaging tone, but significantly damaged by likely
+  fabricated premiere event and too short for content guidelines.
 image_alt: >-
-  Elegant blonde actor in sculptural couture on a moody red carpet at a film
-  premiere
+  Glamorous blonde actress in sculptural couture under premiere spotlights on a
+  red carpet
 topics:
   - Celebrities
   - Fashion

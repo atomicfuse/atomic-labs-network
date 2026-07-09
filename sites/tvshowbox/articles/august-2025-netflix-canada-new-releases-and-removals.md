@@ -45,7 +45,6 @@ image_alt: >-
   fading away
 topics:
   - TV News
-  - Recommendations
 ---
 
 Netflix Canada is set to offer an exciting lineup of new TV shows and movies this August. With a diverse range of genres, viewers will have plenty to choose from, whether they're looking for thrilling adventures, heartwarming dramas, or laugh-out-loud comedies.

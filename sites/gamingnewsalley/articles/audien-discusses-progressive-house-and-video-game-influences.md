@@ -14,7 +14,8 @@ source_url: >-
   https://gamingnewsalley.com/audien-discusses-progressive-house-and-video-game-influences/
 imported_from: wordpress
 wp_original_id: 42529
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: >-
+  /assets/images/audien-discusses-progressive-house-and-video-game-influences.webp
 seo:
   canonical: >-
     https://gamingnewsalley.com/audien-discusses-progressive-house-and-video-game-influences/
@@ -39,6 +40,9 @@ quality_note: >-
   This article is completely off-topic for a gaming news site, focusing entirely
   on Taylor Swift and the MTV VMAs with zero gaming content despite misleading
   title and tags.
+image_alt: >-
+  Neon-lit DJ silhouette blending electronic music waves with abstract video
+  game visuals
 topics:
   - Gaming News
 ---

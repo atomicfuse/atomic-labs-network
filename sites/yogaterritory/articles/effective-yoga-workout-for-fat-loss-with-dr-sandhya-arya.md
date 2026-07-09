@@ -28,25 +28,25 @@ seo:
     Sandhya Arya, a seasoned yoga expert with over two decades of experience.
   twitter_card: summary_large_image
 videos:
-  - id: c1e51d00
+  - id: 4daa612b
     url: 'https://www.youtube.com/watch?v=lxw53zQzcCg'
     position: after-paragraph-2
-quality_score: 69
+quality_score: 68
 score_breakdown:
   seo_quality: 65
-  tone_match: 75
-  content_length: 40
+  tone_match: 80
+  content_length: 35
   factual_accuracy: 85
-  keyword_relevance: 80
+  keyword_relevance: 75
 quality_note: >-
-  The article has good tone and keyword coverage but is significantly too short
-  at 389 words (well below the 800-1200 target), which severely impacts its
-  overall quality score.
-image_alt: Sunlit yoga studio with a woman practicing a flowing pose on a mat
+  The article has good tone and covers relevant yoga topics, but is
+  significantly too short at 389 words (target 800-1200) which severely impacts
+  its value.
+image_alt: >-
+  Yoga instructor leading a small group through a sunrise fitness flow in a calm
+  studio
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Yoga has long been celebrated for its myriad health benefits, including flexibility, mental clarity, and weight management. In this blog post, we delve into a specialized yoga workout session crafted by Dr. Sandhya Arya, an esteemed Naturopath Doctor with over 20 years of experience in the field of yoga. This session is specifically designed to aid in fat loss while promoting overall well-being.

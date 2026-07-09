@@ -47,8 +47,6 @@ image_alt: >-
   penalty area.
 topics:
   - Latest News
-  - Leagues
-  - Match Reports
 ---
 
 The Premier League continues to captivate audiences worldwide with its thrilling matches and intense rivalries. Among the most talked-about teams this season are Arsenal and Manchester United, two clubs with rich histories and passionate fan bases. As they vie for supremacy, a close analysis of their corner strategies reveals intriguing insights into their tactical approaches.

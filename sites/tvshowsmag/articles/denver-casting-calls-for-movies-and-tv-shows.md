@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/denver-casting-calls-for-movies-and-tv-shows/'
 imported_from: wordpress
 wp_original_id: 28073
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/denver-casting-calls-for-movies-and-tv-shows.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/denver-casting-calls-for-movies-and-tv-shows/'
   og_title: Denver Casting Calls for Movies and TV Shows - TV Shows Magazine
@@ -39,6 +39,9 @@ quality_note: >-
   Well-written article with good tone and structure, but falls short on length
   requirements and could better integrate entertainment-specific keywords for
   the target audience.
+image_alt: >-
+  Aspiring actor in a Denver studio with city skyline and mountains beyond the
+  window
 topics:
   - TV News
   - Celebrity News

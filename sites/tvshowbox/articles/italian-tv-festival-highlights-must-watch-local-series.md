@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/italian-tv-festival-highlights-must-watch-local-series/'
 imported_from: wordpress
 wp_original_id: 23903
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/italian-tv-festival-highlights-must-watch-local-series.webp
 seo:
   canonical: >-
     https://tvshowbox.com/italian-tv-festival-highlights-must-watch-local-series/
@@ -42,6 +42,9 @@ quality_note: >-
   Well-written article with good tone and keyword coverage, but significantly
   under target word count and lacks specific details that raise factual accuracy
   concerns.
+image_alt: >-
+  Elegant Italian cinema atrium with festival guests, glowing screens, and warm
+  cinematic lighting
 topics:
   - TV News
 ---

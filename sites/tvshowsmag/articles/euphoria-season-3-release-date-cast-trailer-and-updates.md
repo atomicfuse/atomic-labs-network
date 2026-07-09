@@ -20,7 +20,7 @@ source_url: >-
   https://www.tvshowsmag.com/euphoria-season-3-release-date-cast-trailer-and-updates/
 imported_from: wordpress
 wp_original_id: 28159
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/euphoria-season-3-release-date-cast-trailer-and-updates.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/euphoria-season-3-release-date-cast-trailer-and-updates/
@@ -45,6 +45,9 @@ quality_note: >-
   The article excellently covers TV news content with engaging tone and strong
   keyword relevance, but falls significantly short of the target word count at
   only 570 words.
+image_alt: >-
+  Neon-lit school hallway with distant silhouettes suggesting tense teen drama
+  and anticipation.
 topics:
   - TV News
 ---

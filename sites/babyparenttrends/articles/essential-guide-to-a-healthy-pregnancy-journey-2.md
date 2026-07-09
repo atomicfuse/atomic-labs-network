@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://babyparenttrends.com/essential-guide-to-a-healthy-pregnancy-journey-2/'
 imported_from: wordpress
 wp_original_id: 17757
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/essential-guide-to-a-healthy-pregnancy-journey-2.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/essential-guide-to-a-healthy-pregnancy-journey-2/
@@ -41,9 +41,11 @@ score_breakdown:
 quality_note: >-
   Well-written pregnancy guide with excellent tone and accuracy, but falls short
   on word count (591 vs target 1000) which significantly impacts overall value.
+image_alt: >-
+  Expectant parent and partner share a calm sunlit moment at home during
+  pregnancy.
 topics:
   - Pregnancy
-  - Children’s Health
 ---
 
 Navigating the journey of pregnancy is a unique and rewarding experience filled with excitement and anticipation. Expectant parents often find themselves immersed in a world of information, from understanding prenatal care to preparing for childbirth. This period is as much about physical changes as it is about emotional growth. With the right knowledge and support, parents can feel empowered and ready to welcome their new baby into the world.

@@ -31,23 +31,21 @@ seo:
     and stress reduction.
   og_image: 'http://yogaterritory.com/wp-content/uploads/2026/01/make_file-7.jpeg'
   twitter_card: summary_large_image
-quality_score: 79
+quality_score: 81
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
+  content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
 quality_note: >-
-  Well-written article with good tone and keyword relevance, but significantly
-  below target word count at 504 words instead of the 800-1200 range.
+  Well-written article with good tone and keyword coverage, but significantly
+  under target length at 504 words versus the 800-1200 word target range.
 image_alt: >-
-  Adults practice gentle chair yoga in a bright, calming studio with supportive,
-  relaxed posture.
+  Adults practice gentle chair yoga in a bright, calming studio with soft
+  natural light.
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Chair yoga offers an inclusive way to enjoy the benefits of yoga regardless of age, fitness level, or physical limitations. This adaptable form of yoga is performed seated in a chair or using it for support, making it accessible to everyone, including seniors and those with mobility challenges.

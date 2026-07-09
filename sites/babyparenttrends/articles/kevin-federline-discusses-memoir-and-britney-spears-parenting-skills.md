@@ -18,7 +18,8 @@ source_url: >-
   https://babyparenttrends.com/kevin-federline-discusses-memoir-and-britney-spears-parenting-skills/
 imported_from: wordpress
 wp_original_id: 17723
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: >-
+  /assets/images/kevin-federline-discusses-memoir-and-britney-spears-parenting-skills.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/kevin-federline-discusses-memoir-and-britney-spears-parenting-skills/
@@ -43,6 +44,9 @@ quality_note: >-
   Article is significantly too short at 479 words and lacks proper heading
   structure, but maintains decent tone and factual accuracy for celebrity
   parenting content.
+image_alt: >-
+  Adult dance shoes and children’s sneakers sit in a moody studio under soft
+  public glare.
 topics:
   - Parenting
 ---

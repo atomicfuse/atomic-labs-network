@@ -17,7 +17,8 @@ source_url: >-
   https://travelnights.com/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await/
 imported_from: wordpress
 wp_original_id: 36642
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: >-
+  /assets/images/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await.webp
 seo:
   canonical: >-
     https://travelnights.com/visit-eastern-europe-and-new-zealand-in-2026-affordable-adventures-await/
@@ -42,6 +43,9 @@ quality_note: >-
   Well-written travel article with engaging tone and good destination coverage,
   but significantly under target word count at 534 words versus the 800-1200
   range.
+image_alt: >-
+  Traveler overlooking a dreamlike horizon blending European rooftops with New
+  Zealand mountains
 topics:
   - Destinations
 ---

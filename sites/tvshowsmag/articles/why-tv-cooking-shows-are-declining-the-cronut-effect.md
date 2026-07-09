@@ -17,7 +17,7 @@ source_url: >-
   https://www.tvshowsmag.com/why-tv-cooking-shows-are-declining-the-cronut-effect/
 imported_from: wordpress
 wp_original_id: 28092
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/why-tv-cooking-shows-are-declining-the-cronut-effect.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/why-tv-cooking-shows-are-declining-the-cronut-effect/
@@ -40,6 +40,7 @@ quality_note: >-
   The article completely mismatches its title about TV cooking shows with
   content about UK workplace culture, has poor SEO elements, and lacks any
   relevance to entertainment topics.
+image_alt: Empty TV kitchen studio with a spotlighted pastry on the counter
 topics:
   - TV News
   - Celebrity News

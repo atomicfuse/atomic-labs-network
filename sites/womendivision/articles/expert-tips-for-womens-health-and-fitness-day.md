@@ -42,7 +42,7 @@ image_alt: >-
   Diverse women relaxing together in a sunny park after a gentle wellness
   session
 topics:
-  - Mindfullness
+  - Advice
 ---
 
 In today's demanding world, maintaining mental well-being has become increasingly crucial. With the rise in mental health challenges, focusing on strategies to manage stress and improve emotional health is vital. As individuals strive to balance work, family, and personal goals, understanding the importance of mental health can lead to a more fulfilling life.

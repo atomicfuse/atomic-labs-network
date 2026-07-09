@@ -37,7 +37,6 @@ image_alt: >-
   light reflections
 topics:
   - Health News
-  - Wellness
 ---
 ## Unexpected Connection Between Skin and Eye Health
 

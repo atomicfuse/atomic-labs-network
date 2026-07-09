@@ -16,7 +16,7 @@ reading_time: 4
 source_url: 'https://buzzsoaps.com/southern-charm-recap-farm-purchase-drama-unfolds/'
 imported_from: wordpress
 wp_original_id: 545
-featuredImage: /assets/images/buzzsoaps-general-article.webp
+featuredImage: /assets/images/southern-charm-recap-farm-purchase-drama-unfolds.webp
 seo:
   canonical: 'https://buzzsoaps.com/southern-charm-recap-farm-purchase-drama-unfolds/'
   og_title: 'Southern Charm Recap: Farm Purchase Drama Unfolds - BuzzSoaps!'
@@ -39,6 +39,9 @@ quality_note: >-
   Article has strong entertainment focus and engaging tone but suffers from poor
   SEO optimization, potential factual inaccuracies about specific episode
   details, and falls short of target word count.
+image_alt: >-
+  Tense upscale gathering beside a Southern farm at dusk with storm clouds
+  overhead.
 topics:
   - Watch
 ---

@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://babyparenttrends.com/jimmy-carr-pauses-show-to-share-parenting-tips/'
 imported_from: wordpress
 wp_original_id: 17776
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/jimmy-carr-pauses-show-to-share-parenting-tips.webp
 seo:
   canonical: 'https://babyparenttrends.com/jimmy-carr-pauses-show-to-share-parenting-tips/'
   og_title: Jimmy Carr Pauses Show to Share Parenting Tips - Baby Parent Trends
@@ -38,6 +38,9 @@ quality_note: >-
   Well-written parenting content with engaging tone and strong keyword
   relevance, but falls short on length and lacks specific factual verification
   about Jimmy Carr's parenting statements.
+image_alt: >-
+  Comedy club microphone with laughing parents and subtle parenting items in
+  warm stage light
 topics:
   - Kids
 ---

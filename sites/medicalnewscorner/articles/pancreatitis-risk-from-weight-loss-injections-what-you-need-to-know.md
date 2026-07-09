@@ -17,7 +17,8 @@ source_url: >-
   https://medicalnewscorner.com/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know/
 imported_from: wordpress
 wp_original_id: 24776
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/pancreatitis-risk-from-weight-loss-injections-what-you-need-to-know/
@@ -42,6 +43,9 @@ quality_note: >-
   Well-written article with strong keyword relevance and appropriate tone, but
   falls short on word count and could benefit from stronger SEO optimization in
   title length and meta description.
+image_alt: >-
+  Doctor discusses weight-loss injections with a patient in a calm clinic
+  setting.
 topics:
   - Drugs
 ---

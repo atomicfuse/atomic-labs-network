@@ -45,7 +45,6 @@ image_alt: >-
   walkway.
 topics:
   - Human Curiosity
-  - Space & The Unknown
 ---
 
 The global pandemic has significantly impacted various aspects of life, including the educational experiences of college students. As universities around the world adapt to new norms, the academic performance and well-being of students have become areas of concern and study. Recent findings suggest that while students are gradually adjusting, the recovery process has been uneven across different demographics and institutions.

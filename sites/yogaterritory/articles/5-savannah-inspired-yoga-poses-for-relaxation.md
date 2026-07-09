@@ -31,22 +31,20 @@ seo:
   twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
-  seo_quality: 72
+  seo_quality: 75
   tone_match: 85
-  content_length: 35
-  factual_accuracy: 60
-  keyword_relevance: 88
+  content_length: 60
+  factual_accuracy: 40
+  keyword_relevance: 80
 quality_note: >-
-  Strong tone and keyword relevance but severely penalized by very short length
-  (505 words vs 800-1200 target) and questionable claims about 'African Savannah
-  yoga' without proper cultural context or sources.
+  Well-written and engaging article with good tone and keyword coverage, but
+  significantly hurt by fabricated 'African Savannah yoga' tradition and too
+  short for target length.
 image_alt: >-
-  Yoga practitioner at sunrise in golden savannah grasses with soft acacia
-  silhouettes
+  Yoga practitioner poses at sunrise on a peaceful savannah with golden grass
+  and acacia silhouettes.
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Yoga, a practice embraced globally for its mental and physical benefits, finds unique expressions across diverse cultures. Among these, African Savannah yoga stands out for its harmonizing blend of nature-inspired movements that cultivate mental clarity and inner peace. These poses, inspired by the vast and serene African landscapes, offer a refreshing approach to mindfulness.

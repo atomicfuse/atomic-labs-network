@@ -19,7 +19,8 @@ source_url: >-
   https://travelclearly.com/coping-with-menopause-managing-night-sweats-and-anxiety-on-vacation/
 imported_from: wordpress
 wp_original_id: 36532
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: >-
+  /assets/images/coping-with-menopause-managing-night-sweats-and-anxiety-on-vacation.webp
 seo:
   canonical: >-
     https://travelclearly.com/coping-with-menopause-managing-night-sweats-and-anxiety-on-vacation/
@@ -44,6 +45,9 @@ quality_note: >-
   The article is well-written and factually accurate but falls short on content
   length (542 words vs 800-1200 target) and doesn't align well with the travel
   site's core focus areas, being more health-focused than travel-focused.
+image_alt: >-
+  Serene traveler on a hotel balcony with carefully packed comfort essentials at
+  sunrise
 topics:
   - Travel
   - Travel Tips

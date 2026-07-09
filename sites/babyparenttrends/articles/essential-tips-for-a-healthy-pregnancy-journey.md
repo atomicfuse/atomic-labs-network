@@ -18,7 +18,7 @@ reading_time: 4
 source_url: 'https://babyparenttrends.com/essential-tips-for-a-healthy-pregnancy-journey/'
 imported_from: wordpress
 wp_original_id: 17748
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/essential-tips-for-a-healthy-pregnancy-journey.webp
 seo:
   canonical: 'https://babyparenttrends.com/essential-tips-for-a-healthy-pregnancy-journey/'
   og_title: Essential Tips for a Healthy Pregnancy Journey - Baby Parent Trends
@@ -39,9 +39,11 @@ score_breakdown:
 quality_note: >-
   Well-written pregnancy content with good tone and accuracy, but falls short of
   target length at 610 words versus the 800-1200 word target range.
+image_alt: >-
+  Expectant couple sitting in a softly lit nursery with healthy snacks and baby
+  clothes nearby.
 topics:
   - Pregnancy
-  - Children’s Health
 ---
 
 Pregnancy is a transformative journey, bringing both excitement and a wealth of questions for expecting parents. Understanding the changes occurring during each trimester can help ease anxieties and prepare you for the months ahead. From the first flicker of a heartbeat to the final weeks leading up to birth, each stage of pregnancy offers unique milestones and challenges. Dive into the essential aspects of pregnancy, including tips on nutrition, exercise, and what to expect as your body and baby grow.

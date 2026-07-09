@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/boost-child-development-with-parenting-micromoments-tips/
 imported_from: wordpress
 wp_original_id: 17763
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/boost-child-development-with-parenting-micromoments-tips.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/boost-child-development-with-parenting-micromoments-tips/
@@ -44,6 +44,7 @@ quality_note: >-
   Strong parenting content with excellent tone and keyword relevance, but
   significantly under target word count at 585 words versus 800-1200 target
   range.
+image_alt: 'Parent and child share a quiet morning moment in a warm, busy home setting.'
 topics:
   - Kids
 ---

@@ -17,7 +17,8 @@ source_url: >-
   https://geekystudios.com/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall/
 imported_from: wordpress
 wp_original_id: 623
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: >-
+  /assets/images/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall.webp
 seo:
   canonical: >-
     https://geekystudios.com/romy-and-micheles-reunion-musical-debuts-off-broadway-this-fall/
@@ -42,6 +43,9 @@ quality_note: >-
   Well-written pop culture piece with engaging tone, but lacks verifiable
   details about the actual musical production which raises factual accuracy
   concerns.
+image_alt: >-
+  Two pastel-clad friends wait backstage under theater lights before a vibrant
+  musical debut.
 topics:
   - Pop Culture
 ---

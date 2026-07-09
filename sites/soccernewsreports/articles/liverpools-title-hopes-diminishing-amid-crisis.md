@@ -45,7 +45,6 @@ image_alt: >-
   intense floodlights.
 topics:
   - Latest News
-  - Leagues
 ---
 
 Liverpool has experienced a rollercoaster ride in the Premier League, facing both challenges and triumphs. As the team navigates through a season of ups and downs, they remain focused on reclaiming their status as title contenders. The journey is marked by strategic adjustments, player performances, and the ever-present rivalry with Manchester City.

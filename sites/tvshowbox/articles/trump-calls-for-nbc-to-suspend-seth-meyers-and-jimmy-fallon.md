@@ -19,7 +19,8 @@ source_url: >-
   https://tvshowbox.com/trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon/
 imported_from: wordpress
 wp_original_id: 23940
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: >-
+  /assets/images/trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon.webp
 seo:
   canonical: >-
     https://tvshowbox.com/trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon/
@@ -43,6 +44,9 @@ quality_note: >-
   significantly too short at 507 words and contains major factual inaccuracies
   including a fabricated Jimmy Kimmel suspension that doesn't match the title's
   claim about Trump calling for NBC suspensions.
+image_alt: >-
+  Empty late-night studio stage with a suspended microphone under dramatic
+  lights
 topics:
   - TV News
   - Celebrity News

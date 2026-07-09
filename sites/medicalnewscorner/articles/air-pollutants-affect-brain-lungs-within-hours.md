@@ -37,7 +37,6 @@ image_alt: >-
   air pollution wisps
 topics:
   - Health News
-  - Wellness
 ---
 ## Study Reveals Rapid Health Effects from Everyday Pollution Sources
 

@@ -19,7 +19,8 @@ source_url: >-
   https://tvshowbox.com/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film/
 imported_from: wordpress
 wp_original_id: 24030
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: >-
+  /assets/images/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film.webp
 seo:
   canonical: >-
     https://tvshowbox.com/the-astronaut-2025-official-trailer-a-first-look-at-kate-maras-new-sci-fi-film/
@@ -45,6 +46,9 @@ quality_note: >-
   Well-written entertainment content with good tone and keyword coverage, but
   significantly too short at 315 words and lacks verification of the film's
   existence.
+image_alt: >-
+  A lone astronaut in a dim spacecraft airlock faces a vast planet through a
+  reflective visor.
 topics:
   - TV News
 ---

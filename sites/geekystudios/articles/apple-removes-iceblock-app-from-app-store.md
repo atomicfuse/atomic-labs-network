@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/apple-removes-iceblock-app-from-app-store/'
 imported_from: wordpress
 wp_original_id: 645
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/apple-removes-iceblock-app-from-app-store.webp
 seo:
   canonical: 'https://geekystudios.com/apple-removes-iceblock-app-from-app-store/'
   og_title: Apple Removes ICEBlock App from App Store - Geeky Studios
@@ -37,6 +37,9 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and keyword relevance, but appears to
   discuss a fictional app incident and falls short of target word count.
+image_alt: >-
+  Generic smartphone beside a frozen app cube with abstract security motifs in a
+  cool tech setting.
 topics:
   - Tech
 ---

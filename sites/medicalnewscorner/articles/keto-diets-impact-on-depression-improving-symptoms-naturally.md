@@ -21,7 +21,8 @@ source_url: >-
   https://medicalnewscorner.com/keto-diets-impact-on-depression-improving-symptoms-naturally/
 imported_from: wordpress
 wp_original_id: 24735
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/keto-diets-impact-on-depression-improving-symptoms-naturally.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/keto-diets-impact-on-depression-improving-symptoms-naturally/
@@ -47,6 +48,9 @@ quality_note: >-
   Well-written article with strong keyword relevance and appropriate tone, but
   significantly below target word count which limits its SEO potential and depth
   of coverage.
+image_alt: >-
+  Keto-friendly foods on a sunlit table with a soft abstract glow suggesting
+  mental wellness.
 topics:
   - Research
 ---

@@ -47,8 +47,6 @@ image_alt: >-
   lights.
 topics:
   - Latest News
-  - Leagues
-  - Match Reports
 ---
 
 Liverpool is set for a challenging period in the Premier League as they gear up to face a series of critical matches. The upcoming fixtures will test their resilience and determination as they aim to maintain a strong position in the league standings. These matches are not only pivotal for Liverpool but also for their competitors, including Manchester United and Chelsea, who are eager to climb the league table.

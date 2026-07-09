@@ -17,7 +17,7 @@ source_url: >-
   https://tvshowbox.com/hollywood-stars-unexpected-departure-from-popular-tv-show/
 imported_from: wordpress
 wp_original_id: 23957
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/hollywood-stars-unexpected-departure-from-popular-tv-show.webp
 seo:
   canonical: >-
     https://tvshowbox.com/hollywood-stars-unexpected-departure-from-popular-tv-show/
@@ -39,6 +39,9 @@ quality_note: >-
   Article has good tone and keyword relevance but suffers from being too short,
   vague without specific actor details, and lacks proper SEO optimization with a
   generic title and missing meta description.
+image_alt: >-
+  Empty TV studio chair under a spotlight as a silhouetted figure leaves through
+  a door
 topics:
   - TV News
 ---

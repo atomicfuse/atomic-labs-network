@@ -38,8 +38,6 @@ image_alt: >-
   and open doors to a leafy patio.
 topics:
   - Decor Ideas
-  - Budget Decor
-  - DIY Projects
 ---
 ## A New Approach to Summer Decorating
 

@@ -51,7 +51,6 @@ image_alt: >-
   stand suggesting elimination
 topics:
   - TV News
-  - Recommendations
 ---
 
 **Introduction**

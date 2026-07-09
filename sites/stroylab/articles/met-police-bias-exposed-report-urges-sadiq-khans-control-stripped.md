@@ -13,7 +13,8 @@ source_url: >-
   https://stroylab.com/met-police-bias-exposed-report-urges-sadiq-khans-control-stripped/
 imported_from: wordpress
 wp_original_id: 740
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: >-
+  /assets/images/met-police-bias-exposed-report-urges-sadiq-khans-control-stripped.webp
 seo:
   canonical: >-
     https://stroylab.com/met-police-bias-exposed-report-urges-sadiq-khans-control-stripped/
@@ -38,6 +39,9 @@ quality_note: >-
   The article is completely off-topic for the site's focus on conspiracies, dark
   history, and mysteries, with a misleading title that doesn't match the
   environmental/economic content whatsoever.
+image_alt: >-
+  Official report folder foregrounded against blurred police activity on a rainy
+  London street
 topics:
   - Deep Dives
 ---

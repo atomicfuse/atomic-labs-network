@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/meet-picea-robotics-roombas-innovative-new-owner/'
 imported_from: wordpress
 wp_original_id: 675
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/meet-picea-robotics-roombas-innovative-new-owner.webp
 seo:
   canonical: 'https://geekystudios.com/meet-picea-robotics-roombas-innovative-new-owner/'
   og_title: 'Meet Picea Robotics, Roomba''s Innovative New Owner - Geeky Studios'
@@ -39,6 +39,9 @@ quality_note: >-
   Well-written tech article with good structure and tone, but contains major
   factual inaccuracies about a fictional robotics acquisition and falls short of
   target word count.
+image_alt: >-
+  Sleek home robot moving toward glowing abstract robotics network in a
+  futuristic smart home setting
 topics:
   - Tech
 ---

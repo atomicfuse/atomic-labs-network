@@ -18,7 +18,7 @@ source_url: >-
   https://www.tvshowsmag.com/five-nights-at-freddys-2-earns-63-million-opening-weekend/
 imported_from: wordpress
 wp_original_id: 28138
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/five-nights-at-freddys-2-earns-63-million-opening-weekend.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/five-nights-at-freddys-2-earns-63-million-opening-weekend/
@@ -43,6 +43,9 @@ quality_note: >-
   The article has major factual inaccuracies (claiming FNAF 2 made $63M when the
   first film made $80M+), is too short at 520 words, and lacks proper
   TV/streaming focus for the site's entertainment audience.
+image_alt: >-
+  Crowded neon theater lobby with a shadowy animatronic figure suggesting a
+  horror blockbuster debut
 topics:
   - TV News
   - Celebrity News

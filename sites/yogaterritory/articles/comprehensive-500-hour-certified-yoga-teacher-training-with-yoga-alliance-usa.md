@@ -33,25 +33,25 @@ seo:
     multi-style curriculum.
   twitter_card: summary_large_image
 videos:
-  - id: 8552b466
+  - id: 53b9d6fd
     url: 'https://www.youtube.com/watch?v=H3prWSkAtuI'
     position: after-paragraph-2
-quality_score: 57
+quality_score: 66
 score_breakdown:
-  seo_quality: 45
-  tone_match: 70
-  content_length: 25
+  seo_quality: 65
+  tone_match: 75
+  content_length: 35
   factual_accuracy: 85
-  keyword_relevance: 60
+  keyword_relevance: 70
 quality_note: >-
-  Article is severely under target length at 330 words and lacks proper SEO
-  structure, though it maintains appropriate tone and covers relevant yoga
-  topics.
-image_alt: 'Yoga instructor guiding a diverse class in a bright, peaceful studio'
+  While the content is well-written and relevant to yoga, it falls significantly
+  short of the target word count and reads more like a course promotion than
+  educational content for the site's audience.
+image_alt: >-
+  Yoga instructor guides a diverse group of students in a sunlit studio training
+  session
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Are you ready to elevate your yoga practice and teaching skills to a professional level? Our 500-hour Certified Yoga Teacher Training Course, accredited by the prestigious Yoga Alliance USA, offers an extensive curriculum designed to transform yoga enthusiasts into expert instructors. This comprehensive training is conducted online, making it accessible to students worldwide, regardless of their location.

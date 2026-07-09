@@ -18,7 +18,8 @@ source_url: >-
   https://www.tvshowsmag.com/top-20-london-tv-screenings-2026-shows-featuring-a-list-stars/
 imported_from: wordpress
 wp_original_id: 28186
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: >-
+  /assets/images/top-20-london-tv-screenings-2026-shows-featuring-a-list-stars.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/top-20-london-tv-screenings-2026-shows-featuring-a-list-stars/
@@ -43,6 +44,9 @@ quality_note: >-
   Article lacks specific details about the 2026 shows and A-list stars promised
   in the title, is too short for target length, and appears to contain generic
   content rather than factual information about actual screenings.
+image_alt: >-
+  Elegant London screening venue with silhouetted guests, projector light, and a
+  rainy skyline reflection.
 topics:
   - TV News
 ---

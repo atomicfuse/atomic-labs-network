@@ -49,7 +49,6 @@ topics:
   - Conspiracy Theories
   - Hidden History
   - Human Curiosity
-  - Space & The Unknown
 ---
 
 In the digital age, unsolved mysteries have taken on a new dimension, spreading rapidly across social media and online forums. These mysteries captivate audiences, leaving them both intrigued and unsettled. Among the most recent topics grabbing attention are ten particularly chilling enigmas that defy explanation.

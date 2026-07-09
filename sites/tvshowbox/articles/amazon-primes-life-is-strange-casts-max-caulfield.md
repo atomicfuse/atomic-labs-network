@@ -19,7 +19,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/amazon-primes-life-is-strange-casts-max-caulfield/'
 imported_from: wordpress
 wp_original_id: 24052
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/amazon-primes-life-is-strange-casts-max-caulfield.webp
 seo:
   canonical: 'https://tvshowbox.com/amazon-primes-life-is-strange-casts-max-caulfield/'
   og_title: Amazon Prime's Life is Strange Casts Max Caulfield - TV Show Box
@@ -40,6 +40,9 @@ score_breakdown:
 quality_note: >-
   Strong entertainment focus and engaging tone, but lacks specific casting
   details promised in the title and falls short of optimal word count.
+image_alt: >-
+  Young woman with a camera in a moody hallway as storm light and a blue
+  butterfly suggest time and memory.
 topics:
   - TV News
   - Celebrity News

@@ -48,7 +48,6 @@ image_alt: >-
   stadium scene.
 topics:
   - Latest News
-  - Leagues
 ---
 
 The Premier League title race has taken an exhilarating turn as Aston Villa, Manchester City, and Arsenal fiercely compete for the top position. Each team is showcasing exceptional skill and determination, making this season one of the most thrilling in recent memory.

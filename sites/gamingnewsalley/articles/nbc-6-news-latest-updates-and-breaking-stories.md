@@ -13,8 +13,9 @@ reviewer_notes: Stub article — body should be expanded with current NBC 6 news
 source_url: ''
 source_item_id: synthetic-nbc-6-news-latest-updates-and-breaking-stories
 generated_by: editorial
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/nbc-6-news-latest-updates-and-breaking-stories.webp
 reading_time: 1
+image_alt: Modern newsroom desk with glowing screens and a Miami skyline at dawn
 topics:
   - Gaming News
 ---

@@ -41,7 +41,6 @@ quality_note: >-
 image_alt: A sapling grows from forest soil among wildflowers in soft morning light.
 topics:
   - Human Curiosity
-  - Space & The Unknown
 ---
 
 As environmental awareness rises, the methods we choose for managing our remains after death are increasingly under scrutiny. With traditional burial and cremation being common practices, many are questioning their ecological impacts and searching for more sustainable alternatives. This article explores the environmental implications of these practices and examines emerging eco-friendly options.

@@ -37,7 +37,6 @@ image_alt: >-
   figures.
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## The Original Vision for Hawkins' Chief
 

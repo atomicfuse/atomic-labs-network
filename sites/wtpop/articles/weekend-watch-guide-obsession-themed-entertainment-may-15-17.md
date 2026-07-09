@@ -19,7 +19,8 @@ source_url: >-
   https://www.vulture.com/article/what-to-watch-this-weekend-best-new-movies-tv-shows-may-15-17.html
 source_item_id: 6a0800da4bdae0614e7aaf48
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: >-
+  /assets/images/weekend-watch-guide-obsession-themed-entertainment-may-15-17.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -31,6 +32,7 @@ quality_note: >-
   Solid entertainment content with good tone and keyword coverage, but falls
   short on length and contains some vague claims that raise accuracy concerns.
 reading_time: 3
+image_alt: 'A silhouetted viewer faces glowing screens in a dark, cinematic living room.'
 topics:
   - TV & Movies
 ---

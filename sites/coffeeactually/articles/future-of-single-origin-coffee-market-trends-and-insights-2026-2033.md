@@ -17,7 +17,8 @@ source_url: >-
   https://coffeeactually.com/future-of-single-origin-coffee-market-trends-and-insights-2026-2033/
 imported_from: wordpress
 wp_original_id: 51429
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: >-
+  /assets/images/future-of-single-origin-coffee-market-trends-and-insights-2026-2033.webp
 seo:
   canonical: >-
     https://coffeeactually.com/future-of-single-origin-coffee-market-trends-and-insights-2026-2033/
@@ -41,6 +42,9 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and keyword coverage, but significantly
   under target word count at 569 words when 800-1200 is expected.
+image_alt: >-
+  Premium pour-over coffee setup with beans, natural origin markers, and warm
+  sustainable styling
 topics:
   - Coffee News
   - Coffee Beans

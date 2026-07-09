@@ -40,9 +40,7 @@ image_alt: >-
   experiment.
 topics:
   - Gadgets
-  - Mobile
   - Tablets
-  - Wearables
 ---
 ## The Rise of AI Scientists
 

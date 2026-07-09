@@ -17,7 +17,7 @@ reading_time: 4
 source_url: 'https://geekystudios.com/microsoft-shifts-surface-production-away-from-china/'
 imported_from: wordpress
 wp_original_id: 647
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/microsoft-shifts-surface-production-away-from-china.webp
 seo:
   canonical: >-
     https://geekystudios.com/microsoft-shifts-surface-production-away-from-china/
@@ -40,6 +40,9 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and accuracy, but significantly under
   the target word count at 602 words versus the 800-1200 range.
+image_alt: >-
+  Unbranded tablet beside abstract global factory connections on a cool blue
+  editorial background.
 topics:
   - Tech
 ---

@@ -21,7 +21,7 @@ source_url: >-
   https://deadline.com/2026/05/red-sea-film-foundation-women-in-cinema-spotlight-honorees-1236899949/
 source_item_id: 6a04305486fcaaeb5bc835ff
 generated_by: claude
-featuredImage: /assets/images/wtpop-general-article.webp
+featuredImage: /assets/images/red-sea-film-foundation-women-cinema-honorees-cannes-2024.webp
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -34,6 +34,9 @@ quality_note: >-
   tone, but falls short on content length and raises some factual accuracy
   concerns with specific claims about the honorees.
 reading_time: 3
+image_alt: >-
+  Six women filmmakers stand on a golden-lit red carpet in a cinematic gala
+  setting.
 topics:
   - Celebrities
   - TV & Movies

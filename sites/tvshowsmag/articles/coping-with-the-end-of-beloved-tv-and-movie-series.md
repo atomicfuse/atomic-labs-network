@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/coping-with-the-end-of-beloved-tv-and-movie-series/'
 imported_from: wordpress
 wp_original_id: 28146
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/coping-with-the-end-of-beloved-tv-and-movie-series.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/coping-with-the-end-of-beloved-tv-and-movie-series/
@@ -39,6 +39,7 @@ quality_note: >-
   Well-written article with engaging tone and solid accuracy, but falls short on
   word count and could benefit from stronger SEO optimization and more specific
   entertainment industry examples.
+image_alt: A viewer sits quietly in a dim living room after a beloved screen story ends.
 topics:
   - TV News
 ---

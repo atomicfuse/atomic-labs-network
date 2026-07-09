@@ -55,7 +55,6 @@ image_alt: >-
   shadowed figures near a rainy window.
 topics:
   - TV News
-  - Recommendations
 ---
 
 This day was always going to come, but that doesn't make it any less sad.

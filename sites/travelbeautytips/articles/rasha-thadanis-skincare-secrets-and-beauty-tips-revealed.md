@@ -48,7 +48,6 @@ image_alt: >-
   morning light
 topics:
   - Beauty Tips
-  - Destinations
 ---
 
 Rasha Thadani, a rising star in the beauty world, has captured attention with her insights into skincare and beauty trends. As more people prioritize self-care, her advice on maintaining healthy skin and following viral beauty trends has become essential. Her expertise not only resonates with beauty enthusiasts but also offers practical tips that anyone can incorporate into their daily routine.

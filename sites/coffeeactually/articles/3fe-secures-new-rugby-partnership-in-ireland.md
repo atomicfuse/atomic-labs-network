@@ -17,7 +17,7 @@ reading_time: 4
 source_url: 'https://coffeeactually.com/3fe-secures-new-rugby-partnership-in-ireland/'
 imported_from: wordpress
 wp_original_id: 51355
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/3fe-secures-new-rugby-partnership-in-ireland.webp
 seo:
   canonical: 'https://coffeeactually.com/3fe-secures-new-rugby-partnership-in-ireland/'
   og_title: 3FE Secures New Rugby Partnership in Ireland - Coffee Actually
@@ -38,6 +38,9 @@ score_breakdown:
 quality_note: >-
   Well-written coffee news article with engaging tone and good structure, though
   slightly under optimal word count and title could be more compelling for SEO.
+image_alt: >-
+  Flat white beside a green rugby ball with blurred stadium lights in the
+  background
 topics:
   - Coffee News
 ---

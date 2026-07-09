@@ -38,8 +38,6 @@ image_alt: >-
   modern game world.
 topics:
   - Gaming
-  - Tablets
-  - Wearables
 ---
 ## The Forgotten Pioneers of Gaming Culture
 

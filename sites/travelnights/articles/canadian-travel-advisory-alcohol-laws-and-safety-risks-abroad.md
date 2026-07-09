@@ -18,7 +18,8 @@ source_url: >-
   https://travelnights.com/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad/
 imported_from: wordpress
 wp_original_id: 36640
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: >-
+  /assets/images/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad.webp
 seo:
   canonical: >-
     https://travelnights.com/canadian-travel-advisory-alcohol-laws-and-safety-risks-abroad/
@@ -45,6 +46,9 @@ quality_note: >-
   Well-written travel news article with good tone and keyword coverage, but
   significantly under target word count and contains vague claims without
   specific details or sources.
+image_alt: >-
+  Traveler reviewing safety alerts at an airport table with passport, cocktail
+  glass, and global risk reflections
 topics:
   - News
 ---

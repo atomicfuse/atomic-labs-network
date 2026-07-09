@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/top-tv-shows-of-2025-matt-roushs-expert-picks/'
 imported_from: wordpress
 wp_original_id: 24034
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/top-tv-shows-of-2025-matt-roushs-expert-picks.webp
 seo:
   canonical: 'https://tvshowbox.com/top-tv-shows-of-2025-matt-roushs-expert-picks/'
   og_title: 'Top TV Shows of 2025: Matt Roush''s Expert Picks - TV Show Box'
@@ -39,6 +39,9 @@ quality_note: >-
   While the article maintains an engaging tone and covers relevant TV content,
   it lacks specific show titles and contains vague descriptions that appear
   fabricated, plus falls significantly short of the target word count.
+image_alt: >-
+  Silhouetted critic watching glowing abstract screens representing multiple TV
+  genres
 topics:
   - TV News
 ---

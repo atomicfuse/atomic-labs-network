@@ -18,7 +18,7 @@ source_url: >-
   https://coffeeactually.com/discover-baoshan-chinas-emerging-coffee-capital-in-yunnan/
 imported_from: wordpress
 wp_original_id: 51377
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/discover-baoshan-chinas-emerging-coffee-capital-in-yunnan.webp
 seo:
   canonical: >-
     https://coffeeactually.com/discover-baoshan-chinas-emerging-coffee-capital-in-yunnan/
@@ -43,6 +43,9 @@ quality_note: >-
   Well-written article with good tone and accuracy, but falls short on length
   (545 words vs 800-1200 target) and could benefit from stronger SEO
   optimization in headings and meta description.
+image_alt: >-
+  Coffee beans and a steaming cup overlook misty terraced mountains in Yunnan at
+  sunrise.
 topics:
   - Coffee News
   - Coffee Beans

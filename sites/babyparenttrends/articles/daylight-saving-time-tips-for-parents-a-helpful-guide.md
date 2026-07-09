@@ -14,7 +14,7 @@ source_url: >-
   https://babyparenttrends.com/daylight-saving-time-tips-for-parents-a-helpful-guide/
 imported_from: wordpress
 wp_original_id: 17791
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/daylight-saving-time-tips-for-parents-a-helpful-guide.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/daylight-saving-time-tips-for-parents-a-helpful-guide/
@@ -38,6 +38,7 @@ quality_note: >-
   Article completely misses the target topic (Daylight Saving Time parenting
   tips) and instead discusses street juggling, making it irrelevant for the
   parenting audience despite decent writing quality.
+image_alt: Parent helps a sleepy child wake up in a softly lit bedroom at dawn
 topics:
   - Parenting
 ---

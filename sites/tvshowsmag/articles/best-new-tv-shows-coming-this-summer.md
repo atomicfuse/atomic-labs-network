@@ -15,7 +15,7 @@ reading_time: 1
 source_url: 'https://www.tvshowsmag.com/best-new-tv-shows-coming-this-summer/'
 imported_from: wordpress
 wp_original_id: 28211
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/best-new-tv-shows-coming-this-summer.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/best-new-tv-shows-coming-this-summer/'
   og_title: Best New TV Shows Coming This Summer - TV Shows Magazine
@@ -33,6 +33,9 @@ score_breakdown:
 quality_note: >-
   This is not a complete article but rather a request for source material,
   failing all content quality standards with only 22 words.
+image_alt: >-
+  Summer dusk living room lit by an abstract TV glow, suggesting new shows
+  arriving soon.
 topics:
   - TV News
   - Celebrity News

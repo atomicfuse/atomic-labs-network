@@ -19,7 +19,8 @@ source_url: >-
   https://medicalnewscorner.com/daily-routines-strengthen-circadian-rhythms-for-healthy-aging/
 imported_from: wordpress
 wp_original_id: 24835
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: >-
+  /assets/images/daily-routines-strengthen-circadian-rhythms-for-healthy-aging.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/daily-routines-strengthen-circadian-rhythms-for-healthy-aging/
@@ -42,6 +43,9 @@ score_breakdown:
 quality_note: >-
   Well-written, scientifically accurate article with excellent tone and ideal
   length, though title could be slightly more compelling for SEO optimization.
+image_alt: >-
+  Older adult in morning sunlight suggesting a steady daily rhythm for healthy
+  aging
 topics:
   - Health News
 ---

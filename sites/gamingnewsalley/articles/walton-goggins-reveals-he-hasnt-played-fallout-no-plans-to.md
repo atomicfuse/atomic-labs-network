@@ -18,7 +18,7 @@ source_url: >-
   https://gamingnewsalley.com/walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to/
 imported_from: wordpress
 wp_original_id: 42564
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to.webp
 seo:
   canonical: >-
     https://gamingnewsalley.com/walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to/
@@ -43,6 +43,9 @@ quality_note: >-
   Well-written gaming news piece with good tone and accuracy, but falls short on
   length (516 words vs 800-1200 target) and could benefit from stronger SEO
   optimization.
+image_alt: >-
+  Actor in post-apocalyptic makeup ignores a game controller in a cinematic
+  dressing room.
 topics:
   - Gaming News
 ---

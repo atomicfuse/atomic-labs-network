@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/top-4-iconic-tv-shows-returning-january-2026/'
 imported_from: wordpress
 wp_original_id: 24010
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/top-4-iconic-tv-shows-returning-january-2026.webp
 seo:
   canonical: 'https://tvshowbox.com/top-4-iconic-tv-shows-returning-january-2026/'
   og_title: Top 4 Iconic TV Shows Returning January 2026 - TV Show Box
@@ -40,6 +40,9 @@ quality_note: >-
   While the article has engaging tone and strong keyword relevance, it contains
   major factual inaccuracies about show revivals and falls short of the target
   word count.
+image_alt: >-
+  Four glowing vintage TVs in a moody living room suggest the return of beloved
+  classic shows.
 topics:
   - TV News
 ---

@@ -34,7 +34,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## From Creepypasta to Cinema: The Backrooms Phenomenon
 

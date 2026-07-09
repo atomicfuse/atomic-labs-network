@@ -49,7 +49,6 @@ image_alt: >-
   room.
 topics:
   - Kids
-  - Children’s Health
 ---
 
 Raising a child with Down syndrome presents unique challenges and rewarding experiences for families. With the right support and understanding, parents can navigate these challenges effectively, ensuring their child leads a fulfilling life.

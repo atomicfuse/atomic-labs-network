@@ -52,7 +52,6 @@ image_alt: >-
 topics:
   - Healthy Recipes
   - Healthy Living Tips
-  - Healthy Aging
 ---
 
 If you're experiencing hormone imbalance, these eight specially formulated drink recipes can help balance hormones and support the endocrine system. These drinks are not only beneficial for hormone health but also possess anti-inflammatory properties, promoting overall wellness.

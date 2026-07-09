@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/netflix-cancels-new-western-drama-just-one-month-in/'
 imported_from: wordpress
 wp_original_id: 692
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/netflix-cancels-new-western-drama-just-one-month-in.webp
 seo:
   canonical: >-
     https://geekystudios.com/netflix-cancels-new-western-drama-just-one-month-in/
@@ -39,6 +39,9 @@ quality_note: >-
   The article is well-written and engaging but falls significantly short of the
   target word count at only 499 words, which heavily impacts its overall quality
   score.
+image_alt: >-
+  Empty Western film set at dusk with a cowboy hat on a director’s chair and a
+  faint red screen glow.
 topics:
   - Pop Culture
 ---

@@ -15,7 +15,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/starfleet-academy-highlights-iconic-picard-tng-scene/'
 imported_from: wordpress
 wp_original_id: 697
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/starfleet-academy-highlights-iconic-picard-tng-scene.webp
 seo:
   canonical: >-
     https://geekystudios.com/starfleet-academy-highlights-iconic-picard-tng-scene/
@@ -37,6 +37,9 @@ score_breakdown:
 quality_note: >-
   Well-written piece with strong pop culture focus and engaging tone, but falls
   short on length and lacks specific details about the referenced speech.
+image_alt: >-
+  Futuristic cadets face a glowing star map and captain silhouette in a space
+  academy hall.
 topics:
   - Pop Culture
 ---

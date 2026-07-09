@@ -17,7 +17,8 @@ source_url: >-
   https://carsnewsmag.com/roadcraft-xbox-series-x-review-ultimate-racing-game-insights/
 imported_from: wordpress
 wp_original_id: 38486
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: >-
+  /assets/images/roadcraft-xbox-series-x-review-ultimate-racing-game-insights.webp
 seo:
   canonical: >-
     https://carsnewsmag.com/roadcraft-xbox-series-x-review-ultimate-racing-game-insights/
@@ -42,6 +43,9 @@ quality_note: >-
   The article is well-written but completely misaligned with carsnewsmag's
   automotive focus, reviewing a video game instead of cars, and appears to
   contain fabricated information about a non-existent racing game.
+image_alt: >-
+  Unbranded racing car drifting on a wet futuristic track with holographic
+  racing lines
 topics:
   - Reviews
 ---

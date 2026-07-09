@@ -44,7 +44,6 @@ image_alt: >-
   connection and resilience.
 topics:
   - Kids
-  - Children’s Health
 ---
 
 Children do not need perfect parents to grow into confident, capable adults. They need steady love, clear limits, and adults who keep showing up. The idea behind nurturing now and thriving later is simple: everyday parenting choices shape a child's emotional health, learning, behavior, and future relationships. Small moments, such as listening after school or staying calm during a tantrum, can become powerful building blocks for lifelong resilience.

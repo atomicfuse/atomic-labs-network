@@ -19,7 +19,7 @@ source_url: >-
   https://travelbeautytips.com/top-20-must-have-products-for-2025-my-essential-picks/
 imported_from: wordpress
 wp_original_id: 36105
-featuredImage: /assets/images/travelbeautytips-general-article.webp
+featuredImage: /assets/images/top-20-must-have-products-for-2025-my-essential-picks.webp
 seo:
   canonical: >-
     https://travelbeautytips.com/top-20-must-have-products-for-2025-my-essential-picks/
@@ -43,6 +43,9 @@ quality_note: >-
   The article has good tone and reasonable accuracy but severely lacks content
   length (264 words vs 800-1200 target) and only covers a fraction of the
   promised '20 must-have products' in the title.
+image_alt: >-
+  Curated fashion, beauty, and accessory essentials arranged in a chic editorial
+  flat-lay
 topics:
   - Travel Tips
   - Beauty Tips

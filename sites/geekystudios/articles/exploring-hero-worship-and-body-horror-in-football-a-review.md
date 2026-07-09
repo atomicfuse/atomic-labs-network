@@ -16,7 +16,8 @@ source_url: >-
   https://geekystudios.com/exploring-hero-worship-and-body-horror-in-football-a-review/
 imported_from: wordpress
 wp_original_id: 641
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: >-
+  /assets/images/exploring-hero-worship-and-body-horror-in-football-a-review.webp
 seo:
   canonical: >-
     https://geekystudios.com/exploring-hero-worship-and-body-horror-in-football-a-review/
@@ -39,6 +40,9 @@ quality_note: >-
   Well-written review with good pop culture relevance and engaging tone, but
   appears to be reviewing a fictional or misidentified film, significantly
   impacting factual accuracy.
+image_alt: >-
+  Faceless football player under stadium lights casting an ominous shrine-like
+  shadow
 topics:
   - Pop Culture
 ---

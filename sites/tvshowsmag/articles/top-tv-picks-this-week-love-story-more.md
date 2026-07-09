@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/top-tv-picks-this-week-love-story-more/'
 imported_from: wordpress
 wp_original_id: 28176
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/top-tv-picks-this-week-love-story-more.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/top-tv-picks-this-week-love-story-more/'
   og_title: 'Top TV Picks This Week: Love Story & More - TV Shows Magazine'
@@ -39,6 +39,7 @@ quality_note: >-
   The article has an engaging tone and covers relevant TV content, but suffers
   from being too short, lacking specific show details, and having a weak
   SEO-optimized title.
+image_alt: Viewers gathered in a dim living room lit by a cinematic television glow.
 topics:
   - TV News
 ---

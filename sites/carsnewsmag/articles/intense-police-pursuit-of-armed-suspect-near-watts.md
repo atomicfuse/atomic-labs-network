@@ -15,7 +15,7 @@ reading_time: 2
 source_url: 'https://carsnewsmag.com/intense-police-pursuit-of-armed-suspect-near-watts/'
 imported_from: wordpress
 wp_original_id: 38451
-featuredImage: /assets/images/carsnewsmag-general-article.webp
+featuredImage: /assets/images/intense-police-pursuit-of-armed-suspect-near-watts.webp
 seo:
   canonical: 'https://carsnewsmag.com/intense-police-pursuit-of-armed-suspect-near-watts/'
   og_title: Intense Police Pursuit of Armed Suspect Near Watts - Cars News Magazine
@@ -38,6 +38,9 @@ quality_note: >-
   This article completely misses the automotive focus of carsnewsmag, covering a
   police chase story instead of car-related content, while also being
   significantly under the target word count.
+image_alt: >-
+  Emergency lights streak across a tense urban street during a nighttime police
+  pursuit.
 topics:
   - News
 ---

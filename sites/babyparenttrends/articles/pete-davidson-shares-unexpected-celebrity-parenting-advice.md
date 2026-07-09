@@ -19,7 +19,7 @@ source_url: >-
   https://babyparenttrends.com/pete-davidson-shares-unexpected-celebrity-parenting-advice/
 imported_from: wordpress
 wp_original_id: 17703
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/pete-davidson-shares-unexpected-celebrity-parenting-advice.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/pete-davidson-shares-unexpected-celebrity-parenting-advice/
@@ -44,6 +44,9 @@ quality_note: >-
   While the article covers relevant parenting topics with appropriate tone, it's
   significantly too short at 393 words and contains questionable claims about
   Pete Davidson's parenting expertise without clear source verification.
+image_alt: >-
+  Adult and child laugh together on a cozy living room floor beside colorful
+  building blocks.
 topics:
   - Kids
 ---

@@ -19,7 +19,7 @@ reading_time: 7
 source_url: 'https://tvshowbox.com/new-netflix-uk-movies-and-shows-in-may-2026/'
 imported_from: wordpress
 wp_original_id: 24114
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/new-netflix-uk-movies-and-shows-in-may-2026.webp
 seo:
   canonical: 'https://tvshowbox.com/new-netflix-uk-movies-and-shows-in-may-2026/'
   og_title: New Netflix UK Movies and Shows in May 2026 - TV Show Box
@@ -41,6 +41,9 @@ quality_note: >-
   Well-written entertainment content with excellent keyword coverage and proper
   length, but severely compromised by fabricated May 2026 content including
   non-existent shows and false cast information.
+image_alt: >-
+  Friends in a London flat watch a glowing screen during a cinematic streaming
+  night
 topics:
   - TV News
   - Celebrity News

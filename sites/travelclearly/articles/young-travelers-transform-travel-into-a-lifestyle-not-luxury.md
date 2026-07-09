@@ -20,7 +20,8 @@ source_url: >-
   https://travelclearly.com/young-travelers-transform-travel-into-a-lifestyle-not-luxury/
 imported_from: wordpress
 wp_original_id: 36610
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: >-
+  /assets/images/young-travelers-transform-travel-into-a-lifestyle-not-luxury.webp
 seo:
   canonical: >-
     https://travelclearly.com/young-travelers-transform-travel-into-a-lifestyle-not-luxury/
@@ -46,6 +47,9 @@ quality_note: >-
   Well-written article with excellent topic relevance and tone, but
   significantly too short at 422 words compared to the 800-1200 word target
   range.
+image_alt: >-
+  Young travelers with backpacks watch sunrise over a coastal city and
+  mountains.
 topics:
   - Travel
   - Travel Tips

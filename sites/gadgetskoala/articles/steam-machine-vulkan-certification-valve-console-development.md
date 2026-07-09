@@ -42,8 +42,6 @@ image_alt: >-
   certification visuals
 topics:
   - Gaming
-  - Mobile
-  - Tablets
 ---
 ## Steam Machine Receives Vulkan API Certification
 

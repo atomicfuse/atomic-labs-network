@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/pbs-childrens-programs-thrive-with-phoebe-jay/'
 imported_from: wordpress
 wp_original_id: 28172
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/pbs-childrens-programs-thrive-with-phoebe-jay.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/pbs-childrens-programs-thrive-with-phoebe-jay/'
   og_title: PBS Children's Programs Thrive with 'Phoebe & Jay' - TV Shows Magazine
@@ -40,6 +40,9 @@ quality_note: >-
   The article has significant issues with factual accuracy (vague claims without
   sources) and falls well short of target length, though it maintains
   appropriate tone and covers relevant TV industry topics.
+image_alt: >-
+  A children's media studio shifts from a dim old television to glowing digital
+  screens.
 topics:
   - TV News
 ---

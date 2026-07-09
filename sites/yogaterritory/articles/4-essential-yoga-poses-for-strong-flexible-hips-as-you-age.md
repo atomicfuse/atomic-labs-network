@@ -30,24 +30,20 @@ seo:
     supporting an active lifestyle.
   og_image: 'http://yogaterritory.com/wp-content/uploads/2025/08/make_file.jpeg'
   twitter_card: summary_large_image
-quality_score: 79
+quality_score: 81
 score_breakdown:
   seo_quality: 75
   tone_match: 85
-  content_length: 50
-  factual_accuracy: 90
-  keyword_relevance: 95
+  content_length: 60
+  factual_accuracy: 95
+  keyword_relevance: 90
 quality_note: >-
-  Strong keyword relevance and tone but significantly under target word count at
-  568 words versus the 800-1200 range, limiting its SEO potential and
-  comprehensiveness.
-image_alt: >-
-  Older adult practicing yoga in a sunlit room, conveying flexibility, balance,
-  and healthy aging.
+  Well-written article with excellent tone and keyword relevance, but falls
+  short on length at 568 words (target is 800-1200) and could benefit from
+  better heading structure for SEO.
+image_alt: 'Older adult practicing a hip-opening yoga pose in a bright, peaceful room'
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 As we age, maintaining flexibility and strength in our hips becomes increasingly important for overall mobility and health. Many people experience tight hips due to prolonged sitting or lack of movement, which can lead to discomfort and reduced range of motion. Incorporating specific yoga poses into your routine can help improve hip flexibility and strength, enhancing your daily life and physical activities.

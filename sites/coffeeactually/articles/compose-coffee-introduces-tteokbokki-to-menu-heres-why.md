@@ -17,7 +17,7 @@ source_url: >-
   https://coffeeactually.com/compose-coffee-introduces-tteokbokki-to-menu-heres-why/
 imported_from: wordpress
 wp_original_id: 51389
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/compose-coffee-introduces-tteokbokki-to-menu-heres-why.webp
 seo:
   canonical: >-
     https://coffeeactually.com/compose-coffee-introduces-tteokbokki-to-menu-heres-why/
@@ -40,6 +40,7 @@ quality_note: >-
   Well-written coffee news article with good tone and structure, but falls short
   of ideal word count and could benefit from stronger SEO optimization in title
   and meta description.
+image_alt: Steaming tteokbokki served beside coffee on a modern café table
 topics:
   - Coffee News
 ---

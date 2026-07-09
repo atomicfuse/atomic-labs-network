@@ -18,7 +18,7 @@ source_url: >-
   https://travelclearly.com/arachova-greece-travel-guide-2026-skiing-delphi-and-more/
 imported_from: wordpress
 wp_original_id: 36608
-featuredImage: /assets/images/travelclearly-general-article.webp
+featuredImage: /assets/images/arachova-greece-travel-guide-2026-skiing-delphi-and-more.webp
 seo:
   canonical: >-
     https://travelclearly.com/arachova-greece-travel-guide-2026-skiing-delphi-and-more/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-written travel guide with excellent keyword relevance and engaging tone,
   but falls short on word count (565 vs 800-1200 target) and could improve SEO
   structure with more H2/H3 headings.
+image_alt: >-
+  Arachova village beneath snowy Mount Parnassus with ski gear and ancient Greek
+  columns nearby.
 topics:
   - Travel
   - Destinations

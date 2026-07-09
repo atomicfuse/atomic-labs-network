@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://travelnights.com/top-tourist-destinations-heating-up-year-round/'
 imported_from: wordpress
 wp_original_id: 36658
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/top-tourist-destinations-heating-up-year-round.webp
 seo:
   canonical: 'https://travelnights.com/top-tourist-destinations-heating-up-year-round/'
   og_title: Top Tourist Destinations Heating Up Year-Round - Travel Nights
@@ -39,6 +39,9 @@ quality_note: >-
   This article is completely off-topic for a travel website, discussing China's
   space program instead of tourist destinations as suggested by the title, with
   zero travel-related content or keywords.
+image_alt: >-
+  Astronauts approach a futuristic lunar outpost with Earth rising over the moon
+  horizon.
 topics:
   - News
 ---

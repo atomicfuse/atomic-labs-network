@@ -38,7 +38,6 @@ image_alt: >-
   North Pacific.
 topics:
   - Mind-Blowing Science
-  - Space & The Unknown
 ---
 ## A Geological Cold Case Reopened
 

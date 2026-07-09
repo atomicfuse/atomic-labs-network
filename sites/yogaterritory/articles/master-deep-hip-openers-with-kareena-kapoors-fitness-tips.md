@@ -7,7 +7,7 @@ description: >-
   tone, improve posture, and boost mental health.
 type: standard
 status: published
-publishDate: '2026-02-16T09:45:33+00:00'
+publishDate: 2026-02-16T09:45:33.000Z
 author: Taylor Winters
 tags:
   - Yoga Poses
@@ -40,16 +40,13 @@ score_breakdown:
   factual_accuracy: 85
   keyword_relevance: 70
 quality_note: >-
-  The article has good tone and covers relevant yoga topics but falls short on
-  word count, lacks specific deep hip opener content promised in the title, and
-  has weak SEO optimization with generic headings.
-image_alt: >-
-  South Asian woman practicing a deep hip-opening yoga pose in a calm sunlit
-  studio
+  The article has decent tone and factual content but falls short on length and
+  doesn't deliver on the specific 'deep hip openers' promise in the title,
+  creating a mismatch between headline and content.
+image_alt: Woman practicing a deep hip-opening yoga pose in a calm sunlit studio
+reviewer_notes: Approved via review queue.
 topics:
   - Yoga Poses
-  - Beginner Yoga
-  - Yoga Routines
 ---
 
 Renowned for her dedication to fitness, Bollywood actress Kareena Kapoor Khan continues to inspire many with her impressive yoga practices. Her recent social media updates showcase her commitment to yoga, where she shares insights into her routine that emphasizes physical and mental well-being. By incorporating various yoga poses, she maintains her health and encourages others to follow suit.

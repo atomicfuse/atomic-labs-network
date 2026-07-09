@@ -39,7 +39,6 @@ image_alt: >-
   animation at Cannes
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## Animation Claims Its Place at Cannes 2026
 

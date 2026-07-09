@@ -20,7 +20,7 @@ source_url: >-
   https://babyparenttrends.com/effective-parenting-tips-for-raising-thriving-children/
 imported_from: wordpress
 wp_original_id: 17797
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/effective-parenting-tips-for-raising-thriving-children.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/effective-parenting-tips-for-raising-thriving-children/
@@ -44,6 +44,7 @@ quality_note: >-
   Well-written parenting article with excellent tone and accurate content, but
   falls short of ideal length and could benefit from stronger SEO optimization
   in title and meta description.
+image_alt: 'Parent and child nurture a small plant together in a warm, sunlit living room.'
 topics:
   - Kids
 ---

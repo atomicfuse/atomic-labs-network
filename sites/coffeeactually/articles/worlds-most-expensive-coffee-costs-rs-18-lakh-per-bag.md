@@ -19,7 +19,7 @@ source_url: >-
   https://coffeeactually.com/worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag/
 imported_from: wordpress
 wp_original_id: 51427
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag.webp
 seo:
   canonical: >-
     https://coffeeactually.com/worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag/
@@ -42,6 +42,7 @@ quality_note: >-
   The article has good tone and keyword relevance but suffers from misleading
   title/pricing claims, significantly short content length, and potential
   factual inaccuracies about Eugenioides coffee.
+image_alt: Rare coffee beans and an artisan cup styled as a luxurious premium still life
 topics:
   - Coffee News
   - Coffee Beans

@@ -18,7 +18,7 @@ source_url: >-
   https://www.tvshowsmag.com/south-park-season-premiere-sets-new-record-since-1999/
 imported_from: wordpress
 wp_original_id: 28077
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/south-park-season-premiere-sets-new-record-since-1999.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/south-park-season-premiere-sets-new-record-since-1999/
@@ -41,6 +41,9 @@ quality_note: >-
   The article has major issues with misleading title/description claiming a new
   record that isn't discussed, poor SEO optimization, and lacks the specific TV
   news content promised in the headline.
+image_alt: >-
+  Glowing television lights a snowy mountain town scene with empty winter parkas
+  on a fence.
 topics:
   - TV News
 ---

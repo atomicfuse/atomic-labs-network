@@ -16,7 +16,7 @@ reading_time: 6
 source_url: 'https://geekystudios.com/nyt-strands-hints-and-answer-for-may-14-2026/'
 imported_from: wordpress
 wp_original_id: 752
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/nyt-strands-hints-and-answer-for-may-14-2026.webp
 seo:
   canonical: 'https://geekystudios.com/nyt-strands-hints-and-answer-for-may-14-2026/'
   og_title: 'NYT Strands Hints and Answer for May 14, 2026 - Geeky Studios'
@@ -37,6 +37,7 @@ quality_note: >-
   Well-written and engaging content with excellent tone and length, but severely
   compromised by fabricated future date and fictional puzzle details that
   constitute major factual inaccuracies.
+image_alt: Blank word puzzle tiles connected by colored strands beside a cape and mask.
 topics:
   - Pop Culture
   - Tutorials

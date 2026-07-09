@@ -16,7 +16,7 @@ reading_time: 1
 source_url: 'https://www.tvshowsmag.com/15-must-watch-tv-shows-premiering-this-summer/'
 imported_from: wordpress
 wp_original_id: 28228
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/15-must-watch-tv-shows-premiering-this-summer.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/15-must-watch-tv-shows-premiering-this-summer/'
   og_title: 15 Must-Watch TV Shows Premiering This Summer - TV Shows Magazine
@@ -35,6 +35,7 @@ score_breakdown:
 quality_note: >-
   This is essentially a non-article with only 38 words of placeholder text,
   failing to deliver any meaningful content about summer TV show premieres.
+image_alt: A blank glowing TV in a summer-lit living room set for a premiere night.
 topics:
   - TV News
   - Celebrity News

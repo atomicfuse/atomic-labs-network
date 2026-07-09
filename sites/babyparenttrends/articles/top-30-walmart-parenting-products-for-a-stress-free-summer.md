@@ -20,7 +20,7 @@ source_url: >-
   https://babyparenttrends.com/top-30-walmart-parenting-products-for-a-stress-free-summer/
 imported_from: wordpress
 wp_original_id: 17691
-featuredImage: /assets/images/babyparenttrends-general-article.webp
+featuredImage: /assets/images/top-30-walmart-parenting-products-for-a-stress-free-summer.webp
 seo:
   canonical: >-
     https://babyparenttrends.com/top-30-walmart-parenting-products-for-a-stress-free-summer/
@@ -46,6 +46,9 @@ quality_note: >-
   Well-written parenting content with good keyword coverage and tone, but falls
   short on length and the title promises '30 products' while delivering general
   categories instead.
+image_alt: >-
+  Summer parenting essentials arranged on a picnic blanket as a family plays in
+  the background
 topics:
   - Kids
 ---

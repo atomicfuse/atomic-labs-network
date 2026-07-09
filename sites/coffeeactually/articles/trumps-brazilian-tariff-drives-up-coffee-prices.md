@@ -43,7 +43,6 @@ image_alt: >-
   coffee costs.
 topics:
   - Coffee News
-  - Brewing Guides
 ---
 
 The aroma of freshly brewed coffee is a daily ritual for many, yet recent global economic shifts are causing coffee lovers to reconsider their morning routines. Coffee prices have seen a notable increase, influenced heavily by international trade policies and climate changes affecting coffee-producing regions. Understanding these dynamics can help consumers and businesses prepare for the evolving market.

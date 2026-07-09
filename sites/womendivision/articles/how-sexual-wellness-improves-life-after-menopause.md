@@ -44,7 +44,6 @@ image_alt: >-
 topics:
   - Advice
   - Lifestyle
-  - Mindfullness
 ---
 
 Sexual wellness is no longer a private side topic. It is a core part of health, confidence, relationships, and quality of life. Whether you are single, dating, partnered, menopausal, or rediscovering intimacy after a major life change, expert advice can help you understand your body and communicate your needs with less shame.

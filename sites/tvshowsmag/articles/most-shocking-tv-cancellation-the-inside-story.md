@@ -18,7 +18,7 @@ reading_time: 4
 source_url: 'https://www.tvshowsmag.com/most-shocking-tv-cancellation-the-inside-story/'
 imported_from: wordpress
 wp_original_id: 28179
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/most-shocking-tv-cancellation-the-inside-story.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/most-shocking-tv-cancellation-the-inside-story/'
   og_title: 'Most Shocking TV Cancellation: The Inside Story - TV Shows Magazine'
@@ -38,6 +38,7 @@ score_breakdown:
 quality_note: >-
   Strong tone and keyword coverage but significantly compromised by factual
   inaccuracy regarding Blue Bloods' actual status and cast details.
+image_alt: Empty family dinner table with a badge in a moody city-lit dining room
 topics:
   - TV News
   - Celebrity News

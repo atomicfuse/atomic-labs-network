@@ -17,7 +17,7 @@ source_url: >-
   https://travelnights.com/top-3-alabama-holiday-destinations-on-usa-todays-best-list/
 imported_from: wordpress
 wp_original_id: 36652
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/top-3-alabama-holiday-destinations-on-usa-todays-best-list.webp
 seo:
   canonical: >-
     https://travelnights.com/top-3-alabama-holiday-destinations-on-usa-todays-best-list/
@@ -39,6 +39,7 @@ score_breakdown:
 quality_note: >-
   Well-written destination guide with excellent keyword relevance and engaging
   tone, but significantly under the target word count at 383 words.
+image_alt: Festive Alabama garden path glowing with holiday lights at twilight
 topics:
   - Destinations
 ---

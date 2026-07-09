@@ -46,7 +46,6 @@ image_alt: >-
   notebook and travel bag.
 topics:
   - Latest News
-  - Leagues
 ---
 
 Mauricio Pochettino, a renowned name in football management, is eager to return to the Premier League. Known for his strategic prowess and ability to develop young talent, Pochettino has left an indelible mark on the clubs he has managed. His deep understanding of the game, combined with his leadership skills, has made him a sought-after figure in the world of football management.

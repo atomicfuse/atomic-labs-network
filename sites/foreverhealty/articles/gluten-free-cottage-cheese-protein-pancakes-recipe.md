@@ -45,8 +45,6 @@ image_alt: >-
   counter
 topics:
   - Healthy Recipes
-  - Healthy Aging
-  - Nutrition & Diet
 ---
 
 Enjoy a healthy twist on breakfast with this cottage cheese protein pancake recipe. Packed with 27g of protein per serving, these pancakes are not only delicious but also gluten-free and family-approved. Perfect for incorporating into your meal prep routine.

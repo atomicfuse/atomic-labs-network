@@ -38,8 +38,6 @@ image_alt: >-
   egg in soft morning light
 topics:
   - Nutrition
-  - Healthy Snacks
-  - Recipes
 ---
 ## Growing Focus on Food-Based Hormone Support
 

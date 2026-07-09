@@ -17,7 +17,8 @@ source_url: >-
   https://popnsnap.com/unreleased-waylon-jennings-album-songbird-arrives-in-october/
 imported_from: wordpress
 wp_original_id: 510
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: >-
+  /assets/images/unreleased-waylon-jennings-album-songbird-arrives-in-october.webp
 seo:
   canonical: >-
     https://popnsnap.com/unreleased-waylon-jennings-album-songbird-arrives-in-october/
@@ -31,6 +32,9 @@ seo:
     this October.
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/07/make_file-10-1.jpeg'
   twitter_card: summary_large_image
+image_alt: >-
+  Vintage country studio with guitar, reel tapes, and a songbird in warm
+  spotlight
 topics:
   - Music
 ---

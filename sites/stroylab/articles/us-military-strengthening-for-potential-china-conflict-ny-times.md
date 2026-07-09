@@ -13,7 +13,8 @@ source_url: >-
   https://stroylab.com/us-military-strengthening-for-potential-china-conflict-ny-times/
 imported_from: wordpress
 wp_original_id: 730
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: >-
+  /assets/images/us-military-strengthening-for-potential-china-conflict-ny-times.webp
 seo:
   canonical: >-
     https://stroylab.com/us-military-strengthening-for-potential-china-conflict-ny-times/
@@ -36,6 +37,9 @@ quality_note: >-
   The article completely mismatches the title about US military and China
   conflict, instead covering digital currencies, and fails to address the site's
   focus on conspiracies, mysteries, and dark history topics.
+image_alt: >-
+  Dimly lit strategy room with silhouetted personnel studying an abstract
+  Pacific map.
 topics:
   - Deep Dives
 ---

@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://medicalnewscorner.com/natural-alternatives-to-ozempic-for-weight-loss/'
 imported_from: wordpress
 wp_original_id: 24731
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/natural-alternatives-to-ozempic-for-weight-loss.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/natural-alternatives-to-ozempic-for-weight-loss/
@@ -39,6 +39,9 @@ score_breakdown:
 quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under target word count at 569 words versus the 800-1200 range.
+image_alt: >-
+  Green tea, cinnamon, fresh foods, and supplements arranged in a calm wellness
+  still life
 topics:
   - Health News
 ---

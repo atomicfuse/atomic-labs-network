@@ -16,7 +16,7 @@ source_url: >-
   https://geekystudios.com/pixel-10a-software-makes-flagship-specs-feel-unnecessary/
 imported_from: wordpress
 wp_original_id: 737
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/pixel-10a-software-makes-flagship-specs-feel-unnecessary.webp
 seo:
   canonical: >-
     https://geekystudios.com/pixel-10a-software-makes-flagship-specs-feel-unnecessary/
@@ -38,6 +38,9 @@ quality_note: >-
   Well-written tech review with engaging tone and good keyword coverage, but
   significantly penalized for discussing the non-existent Pixel 10a as if it's a
   real product.
+image_alt: >-
+  Unbranded smartphone glowing amid fading premium components on a clean modern
+  surface
 topics:
   - Tech
 ---

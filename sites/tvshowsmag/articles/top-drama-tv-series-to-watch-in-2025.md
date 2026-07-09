@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://www.tvshowsmag.com/top-drama-tv-series-to-watch-in-2025/'
 imported_from: wordpress
 wp_original_id: 28148
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/top-drama-tv-series-to-watch-in-2025.webp
 seo:
   canonical: 'https://www.tvshowsmag.com/top-drama-tv-series-to-watch-in-2025/'
   og_title: Top Drama TV Series to Watch in 2025 - TV Shows Magazine
@@ -40,6 +40,7 @@ quality_note: >-
   The article has good tone and covers relevant topics but contains significant
   factual issues by discussing 2025 as if it's a completed year when it hasn't
   occurred yet, and the content is shorter than the target length.
+image_alt: Moody cinematic living room scene with viewers lit by a dramatic unseen screen
 topics:
   - TV News
 ---

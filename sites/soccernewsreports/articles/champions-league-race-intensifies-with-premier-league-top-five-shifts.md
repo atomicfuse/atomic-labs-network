@@ -48,7 +48,6 @@ image_alt: >-
   sideline.
 topics:
   - Latest News
-  - Leagues
 ---
 
 The Premier League race for the top spots is intensifying as the season progresses. Recent matches have seen unexpected turns that have left fans and analysts eagerly speculating about potential outcomes. The battle for a Champions League spot is especially fierce, with several teams vying for their place among Europe's elite.

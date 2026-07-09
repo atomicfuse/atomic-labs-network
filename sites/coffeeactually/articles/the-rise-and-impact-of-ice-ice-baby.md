@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://coffeeactually.com/the-rise-and-impact-of-ice-ice-baby/'
 imported_from: wordpress
 wp_original_id: 51417
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/the-rise-and-impact-of-ice-ice-baby.webp
 seo:
   canonical: 'https://coffeeactually.com/the-rise-and-impact-of-ice-ice-baby/'
   og_title: The Rise and Impact of Ice Ice Baby - Coffee Actually
@@ -37,6 +37,9 @@ quality_note: >-
   This article is completely off-topic for a coffee website, discussing
   travel/tourism in Southport rather than coffee-related content, despite having
   coffee tags.
+image_alt: >-
+  Sunlit outdoor café table with iced drinks and brunch near a relaxed
+  waterfront park
 topics:
   - Coffee News
 ---

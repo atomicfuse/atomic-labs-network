@@ -17,7 +17,7 @@ source_url: >-
   https://geekystudios.com/nyt-strands-puzzle-hints-and-answers-for-february-16-2026/
 imported_from: wordpress
 wp_original_id: 708
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/nyt-strands-puzzle-hints-and-answers-for-february-16-2026.webp
 seo:
   canonical: >-
     https://geekystudios.com/nyt-strands-puzzle-hints-and-answers-for-february-16-2026/
@@ -40,6 +40,9 @@ quality_note: >-
   The article has good structure and tone but suffers from major factual issues
   by discussing a February 2026 puzzle that doesn't exist, creating fabricated
   future content.
+image_alt: >-
+  Blank puzzle grid with glowing neural patterns suggesting daily wordplay and
+  mental stimulation
 topics:
   - Trends
 ---

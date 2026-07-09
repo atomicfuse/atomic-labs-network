@@ -18,7 +18,7 @@ reading_time: 3
 source_url: 'https://tvshowbox.com/netflix-to-remove-critically-underrated-title-soon/'
 imported_from: wordpress
 wp_original_id: 24063
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/netflix-to-remove-critically-underrated-title-soon.webp
 seo:
   canonical: 'https://tvshowbox.com/netflix-to-remove-critically-underrated-title-soon/'
   og_title: Netflix to Remove Critically Underrated Title Soon - TV Show Box
@@ -38,6 +38,9 @@ quality_note: >-
   The article has major SEO and factual issues with a vague, clickbait title and
   no specific content details, though it maintains appropriate tone and covers
   relevant streaming topics.
+image_alt: >-
+  Silhouetted viewer watches a streaming library fade into pixels on a glowing
+  TV.
 topics:
   - TV News
   - Celebrity News

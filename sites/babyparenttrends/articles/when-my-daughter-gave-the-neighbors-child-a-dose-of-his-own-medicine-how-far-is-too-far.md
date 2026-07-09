@@ -53,7 +53,6 @@ image_alt: >-
   porch.
 topics:
   - Kids
-  - Children’s Health
 ---
 
 It's not unusual for parents to feel helpless when their children face challenging social situations. One such situation is when their child's friendship with a neighbor turns sour. The situation can seem more complex when the neighbor in question is also a friend.

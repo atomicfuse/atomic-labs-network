@@ -55,7 +55,6 @@ image_alt: >-
   classroom setting.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 Residents from East Carolina University's Brody School of Medicine have taken an active role in educating students in Pitt County about nutrition. They have collaborated with the local community to share valuable tips and insights into maintaining a healthy lifestyle. This initiative is not only promoting a better understanding of nutrition but is also fostering a healthy community culture.

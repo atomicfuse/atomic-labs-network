@@ -27,20 +27,20 @@ seo:
     connection with the audience.
   og_image: 'https://wtpop.com/wp-content/uploads/2026/01/make_file-9.jpeg'
   twitter_card: summary_large_image
-quality_score: 77
+quality_score: 56
 score_breakdown:
-  seo_quality: 65
+  seo_quality: 25
   tone_match: 75
-  content_length: 75
-  factual_accuracy: 85
+  content_length: 65
+  factual_accuracy: 30
   keyword_relevance: 85
 quality_note: >-
-  Well-written music article with good tone and keyword relevance, but lacks
-  compelling SEO optimization and could benefit from more specific details about
-  the artist and album.
+  While the article covers music well and maintains an appropriate tone, it
+  suffers from poor SEO optimization, lacks factual specifics about the
+  album/event, and falls short of ideal length.
 image_alt: >-
-  Warm spotlight on a vintage jazz microphone in an intimate club with
-  instruments and audience silhouettes.
+  Warm jazz club stage with a vintage microphone and attentive audience
+  silhouettes.
 topics:
   - Music
 ---

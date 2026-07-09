@@ -18,7 +18,7 @@ source_url: >-
   https://travelnights.com/7-destinations-for-budget-travelers-to-live-like-royalty/
 imported_from: wordpress
 wp_original_id: 36629
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/7-destinations-for-budget-travelers-to-live-like-royalty.webp
 seo:
   canonical: >-
     https://travelnights.com/7-destinations-for-budget-travelers-to-live-like-royalty/
@@ -40,9 +40,11 @@ score_breakdown:
 quality_note: >-
   Well-written travel guide with good tone and relevant keywords, but falls
   short on length requirements and could benefit from stronger SEO optimization.
+image_alt: >-
+  Traveler on a luxurious terrace overlooking pyramids, coastal cliffs, and
+  turquoise sea at golden hour
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Traveling on a budget does not mean compromising on luxury and comfort. Across the globe, several destinations offer travelers the opportunity to enjoy royal experiences without breaking the bank. Whether you dream of exploring historical sites, lounging on pristine beaches, or indulging in culinary delights, these locations provide the perfect mix of affordability and extravagance.

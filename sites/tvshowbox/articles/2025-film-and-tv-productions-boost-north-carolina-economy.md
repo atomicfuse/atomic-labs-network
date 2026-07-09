@@ -19,7 +19,7 @@ source_url: >-
   https://tvshowbox.com/2025-film-and-tv-productions-boost-north-carolina-economy/
 imported_from: wordpress
 wp_original_id: 24074
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/2025-film-and-tv-productions-boost-north-carolina-economy.webp
 seo:
   canonical: >-
     https://tvshowbox.com/2025-film-and-tv-productions-boost-north-carolina-economy/
@@ -42,9 +42,11 @@ quality_note: >-
   The article maintains good tone and factual presentation but falls
   significantly short of target length at only 448 words, limiting its SEO and
   content value.
+image_alt: >-
+  Film crew working at golden hour near North Carolina landscapes and small
+  local businesses.
 topics:
   - TV News
-  - Recommendations
 ---
 
 North Carolina continues to be a thriving hub for film and television productions, contributing significantly to the state's economy. In 2023 alone, the film and TV industry is projected to inject approximately $185.5 million into the local economy. This surge in production activity highlights North Carolina's appeal as a filming destination, offering diverse landscapes and a supportive infrastructure for filmmakers.

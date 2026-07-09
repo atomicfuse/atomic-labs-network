@@ -12,7 +12,7 @@ reading_time: 3
 source_url: 'https://stroylab.com/netanyahu-to-brief-trump-on-potential-iran-strikes/'
 imported_from: wordpress
 wp_original_id: 762
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/netanyahu-to-brief-trump-on-potential-iran-strikes.webp
 seo:
   canonical: 'https://stroylab.com/netanyahu-to-brief-trump-on-potential-iran-strikes/'
   og_title: Netanyahu to Brief Trump on Potential Iran Strikes - StroyLab
@@ -35,6 +35,9 @@ quality_note: >-
   Article completely mismatches the title about Netanyahu and Iran strikes,
   instead discussing Ivermectin, with no relevance to the site's
   conspiracy/mystery focus.
+image_alt: >-
+  Silhouetted officials review an unmarked Middle East map in a tense security
+  briefing room.
 topics:
   - Deep Dives
 ---

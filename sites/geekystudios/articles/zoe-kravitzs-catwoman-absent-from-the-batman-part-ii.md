@@ -16,7 +16,7 @@ reading_time: 4
 source_url: 'https://geekystudios.com/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii/'
 imported_from: wordpress
 wp_original_id: 669
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii.webp
 seo:
   canonical: >-
     https://geekystudios.com/zoe-kravitzs-catwoman-absent-from-the-batman-part-ii/
@@ -39,6 +39,9 @@ quality_note: >-
   Strong pop culture relevance but contains a major factual contradiction
   between the title suggesting Catwoman's absence and the body content
   confirming her return, significantly undermining credibility.
+image_alt: >-
+  Rainy noir rooftop with a lone vigilante and a catlike shadow over a glowing
+  city skylight.
 topics:
   - Pop Culture
 ---

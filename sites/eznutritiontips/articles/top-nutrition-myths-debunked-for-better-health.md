@@ -42,7 +42,6 @@ image_alt: >-
   the background.
 topics:
   - Nutrition Myths
-  - Weight & Wellness
 ---
 
 In the ever-evolving world of nutrition, it's easy to get caught up in myths that can mislead even the most health-conscious individuals. With new trends emerging frequently, distinguishing between fact and fiction is crucial for maintaining a balanced diet and achieving optimal health. This article aims to debunk some common nutrition myths, providing clarity and reliable information for those seeking to make informed dietary choices.

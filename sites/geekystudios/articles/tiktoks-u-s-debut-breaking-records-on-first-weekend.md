@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/tiktoks-u-s-debut-breaking-records-on-first-weekend/'
 imported_from: wordpress
 wp_original_id: 695
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/tiktoks-u-s-debut-breaking-records-on-first-weekend.webp
 seo:
   canonical: >-
     https://geekystudios.com/tiktoks-u-s-debut-breaking-records-on-first-weekend/
@@ -40,6 +40,9 @@ quality_note: >-
   The article has major factual accuracy issues with a misleading title about
   TikTok's 'U.S. Debut' when discussing an outage, and lacks proper SEO
   optimization despite good topic coverage.
+image_alt: >-
+  Glitching smartphone screen with abstract video tiles and broken network
+  signals
 topics:
   - Tech
   - Pop Culture

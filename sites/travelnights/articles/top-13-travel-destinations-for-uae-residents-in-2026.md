@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://travelnights.com/top-13-travel-destinations-for-uae-residents-in-2026/'
 imported_from: wordpress
 wp_original_id: 36627
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/top-13-travel-destinations-for-uae-residents-in-2026.webp
 seo:
   canonical: >-
     https://travelnights.com/top-13-travel-destinations-for-uae-residents-in-2026/
@@ -39,6 +39,9 @@ quality_note: >-
   Well-written travel guide with excellent destination coverage and engaging
   tone, but falls short on content length and lacks strong SEO optimization with
   proper heading structure.
+image_alt: >-
+  Traveler in a modern airport lounge overlooking a dreamlike horizon of global
+  destinations.
 topics:
   - Destinations
 ---

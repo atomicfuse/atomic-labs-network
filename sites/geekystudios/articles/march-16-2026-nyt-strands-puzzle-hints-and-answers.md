@@ -15,7 +15,7 @@ reading_time: 4
 source_url: 'https://geekystudios.com/march-16-2026-nyt-strands-puzzle-hints-and-answers/'
 imported_from: wordpress
 wp_original_id: 726
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/march-16-2026-nyt-strands-puzzle-hints-and-answers.webp
 seo:
   canonical: 'https://geekystudios.com/march-16-2026-nyt-strands-puzzle-hints-and-answers/'
   og_title: 'March 16, 2026: NYT Strands Puzzle Hints and Answers - Geeky Studios'
@@ -37,6 +37,9 @@ quality_note: >-
   While the writing is engaging and well-structured, the article appears to
   describe a fictional NYT puzzle called 'The Big Dance' rather than the actual
   NYT Strands game, creating serious factual accuracy concerns.
+image_alt: >-
+  Abstract puzzle grid on a tablet with subtle basketball-inspired lines and
+  glowing connections
 topics:
   - Trends
 ---

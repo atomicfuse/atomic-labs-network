@@ -50,7 +50,6 @@ topics:
   - Travel
   - Destinations
   - Travel Tips
-  - Food & Drink
 ---
 
 For those looking to indulge in a culinary adventure beyond the bustling streets of New York City, several destinations offer an exquisite combination of unique flavors and memorable experiences. These locations, each with their distinct charm, provide an ideal escape for food enthusiasts eager to explore diverse cuisines and vibrant food scenes. Whether you're yearning for a coastal retreat or a mountain getaway, these destinations promise to satisfy your cravings.

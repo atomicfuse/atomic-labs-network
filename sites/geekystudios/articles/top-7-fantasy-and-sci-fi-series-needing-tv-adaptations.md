@@ -17,7 +17,7 @@ source_url: >-
   https://geekystudios.com/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations/
 imported_from: wordpress
 wp_original_id: 663
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations.webp
 seo:
   canonical: >-
     https://geekystudios.com/top-7-fantasy-and-sci-fi-series-needing-tv-adaptations/
@@ -40,6 +40,9 @@ quality_note: >-
   The article has good tone and keyword relevance but suffers from vague content
   that doesn't actually name any specific book series, making it feel incomplete
   and potentially misleading to readers.
+image_alt: >-
+  Seven glowing books suggest fantasy and sci-fi worlds waiting to become
+  television stories.
 topics:
   - Pop Culture
 ---

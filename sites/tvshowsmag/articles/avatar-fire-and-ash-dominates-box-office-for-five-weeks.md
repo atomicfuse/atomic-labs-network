@@ -18,7 +18,7 @@ source_url: >-
   https://www.tvshowsmag.com/avatar-fire-and-ash-dominates-box-office-for-five-weeks/
 imported_from: wordpress
 wp_original_id: 28161
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/avatar-fire-and-ash-dominates-box-office-for-five-weeks.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/avatar-fire-and-ash-dominates-box-office-for-five-weeks/
@@ -41,6 +41,9 @@ quality_note: >-
   Article contains significant factual errors (title mentions 'Fire and Ash' but
   content is about 'Way of Water') and lacks TV-focused content for the target
   site.
+image_alt: >-
+  Audience in a dark theater lit by glowing blue waves and ember sparks from an
+  unseen screen.
 topics:
   - TV News
   - Celebrity News

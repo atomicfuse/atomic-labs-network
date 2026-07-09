@@ -17,7 +17,8 @@ source_url: >-
   https://geekystudios.com/wikipedia-celebrates-25-years-insights-from-volunteer-editors/
 imported_from: wordpress
 wp_original_id: 688
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: >-
+  /assets/images/wikipedia-celebrates-25-years-insights-from-volunteer-editors.webp
 seo:
   canonical: >-
     https://geekystudios.com/wikipedia-celebrates-25-years-insights-from-volunteer-editors/
@@ -41,6 +42,7 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and accuracy, but significantly under
   target word count at 472 words, limiting its overall effectiveness.
+image_alt: Global network of pages and editors symbolizing collaborative online knowledge
 topics:
   - Tech
 ---

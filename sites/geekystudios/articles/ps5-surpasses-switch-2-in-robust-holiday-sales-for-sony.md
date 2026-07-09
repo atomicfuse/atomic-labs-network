@@ -19,7 +19,7 @@ source_url: >-
   https://geekystudios.com/ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony/
 imported_from: wordpress
 wp_original_id: 701
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony.webp
 seo:
   canonical: >-
     https://geekystudios.com/ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony/
@@ -41,6 +41,9 @@ score_breakdown:
 quality_note: >-
   Strong tone and keyword relevance, but significantly damaged by factual
   inaccuracies (Switch 2 doesn't exist) and below-target word count.
+image_alt: >-
+  Sleek game console silhouette leading a handheld device amid cool holiday
+  market-style lighting.
 topics:
   - Tech
   - Pop Culture

@@ -40,10 +40,6 @@ image_alt: >-
   glass
 topics:
   - Nutrition
-  - Paleo Diet
-  - Meal Plans
-  - Healthy Snacks
-  - Recipes
 ---
 ## The Science Behind Stress and Food Choices
 

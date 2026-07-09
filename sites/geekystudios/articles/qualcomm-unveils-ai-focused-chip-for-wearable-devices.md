@@ -17,7 +17,7 @@ source_url: >-
   https://geekystudios.com/qualcomm-unveils-ai-focused-chip-for-wearable-devices/
 imported_from: wordpress
 wp_original_id: 716
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/qualcomm-unveils-ai-focused-chip-for-wearable-devices.webp
 seo:
   canonical: >-
     https://geekystudios.com/qualcomm-unveils-ai-focused-chip-for-wearable-devices/
@@ -41,6 +41,9 @@ quality_note: >-
   Well-structured tech article with good keyword relevance and engaging tone,
   but lacks specific technical details and may contain generalized claims about
   the Snapdragon Wear platform.
+image_alt: >-
+  Futuristic smartwatch with a glowing AI chip core and connected sensor
+  particles
 topics:
   - Tech
 ---

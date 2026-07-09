@@ -18,7 +18,8 @@ source_url: >-
   https://tvshowbox.com/tv-network-censors-political-interview-due-to-federal-rules/
 imported_from: wordpress
 wp_original_id: 24076
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: >-
+  /assets/images/tv-network-censors-political-interview-due-to-federal-rules.webp
 seo:
   canonical: >-
     https://tvshowbox.com/tv-network-censors-political-interview-due-to-federal-rules/
@@ -41,6 +42,9 @@ quality_note: >-
   Article is completely off-topic for an entertainment site, discussing
   Ethiopian politics instead of TV content, with poor SEO alignment and wrong
   audience focus.
+image_alt: >-
+  Empty broadcast studio with a spotlighted chair and blurred figures suggesting
+  censorship and unrest.
 topics:
   - TV News
 ---

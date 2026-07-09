@@ -19,7 +19,7 @@ source_url: >-
   https://medicalnewscorner.com/uterine-fibroids-81-increased-heart-disease-risk-revealed/
 imported_from: wordpress
 wp_original_id: 24746
-featuredImage: /assets/images/medicalnewscorner-general-article.webp
+featuredImage: /assets/images/uterine-fibroids-81-increased-heart-disease-risk-revealed.webp
 seo:
   canonical: >-
     https://medicalnewscorner.com/uterine-fibroids-81-increased-heart-disease-risk-revealed/
@@ -44,6 +44,9 @@ quality_note: >-
   Well-written article with good keyword coverage and appropriate tone, but
   significantly under target word count and the specific 81% statistic in title
   lacks proper citation in body.
+image_alt: >-
+  Woman in a calm clinic setting with subtle heart and women's health visual
+  symbolism.
 topics:
   - Research
 ---

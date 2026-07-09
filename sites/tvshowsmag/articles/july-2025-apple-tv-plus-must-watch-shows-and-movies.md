@@ -19,7 +19,7 @@ source_url: >-
   https://www.tvshowsmag.com/july-2025-apple-tv-plus-must-watch-shows-and-movies/
 imported_from: wordpress
 wp_original_id: 28054
-featuredImage: /assets/images/tvshowsmag-general-article.webp
+featuredImage: /assets/images/july-2025-apple-tv-plus-must-watch-shows-and-movies.webp
 seo:
   canonical: >-
     https://www.tvshowsmag.com/july-2025-apple-tv-plus-must-watch-shows-and-movies/
@@ -42,6 +42,9 @@ quality_note: >-
   The article has good keyword relevance and appropriate tone, but suffers from
   being too short, lacking specific titles/details, and containing speculative
   content about future releases that cannot be verified.
+image_alt: >-
+  A modern living room glows with abstract streaming panels suggesting movies
+  and shows.
 topics:
   - TV News
 ---

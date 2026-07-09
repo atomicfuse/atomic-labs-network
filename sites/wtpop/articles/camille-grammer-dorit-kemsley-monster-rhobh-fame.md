@@ -37,7 +37,6 @@ image_alt: >-
   under paparazzi flashes.
 topics:
   - TV & Movies
-  - Influencers
 ---
 ## Former RHOBH Star Takes Aim at Dorit's Transformation
 

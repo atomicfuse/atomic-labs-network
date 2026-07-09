@@ -42,7 +42,6 @@ image_alt: >-
   small-town street at dawn.
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## Honor and Remember: Planning Your Memorial Day Weekend
 

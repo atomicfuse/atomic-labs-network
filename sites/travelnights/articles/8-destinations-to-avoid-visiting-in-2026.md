@@ -17,7 +17,7 @@ reading_time: 3
 source_url: 'https://travelnights.com/8-destinations-to-avoid-visiting-in-2026/'
 imported_from: wordpress
 wp_original_id: 36621
-featuredImage: /assets/images/travelnights-general-article.webp
+featuredImage: /assets/images/8-destinations-to-avoid-visiting-in-2026.webp
 seo:
   canonical: 'https://travelnights.com/8-destinations-to-avoid-visiting-in-2026/'
   og_title: 8 Destinations to Avoid Visiting in 2026 - Travel Nights
@@ -39,9 +39,11 @@ quality_note: >-
   Well-written article with strong keyword relevance and tone, but significantly
   under target word count and misleading title that doesn't deliver on the
   promised specific destinations list.
+image_alt: >-
+  Traveler overlooks a hazy overcrowded coastline behind a rope barrier with a
+  blank map in hand.
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Travel can be one of the most enriching experiences, offering exposure to new cultures, cuisines, and landscapes. However, as the global travel landscape evolves, certain destinations may demand a second look before booking your next adventure. Whether due to environmental concerns, overcrowding, or socio-political issues, some places might be wise to approach with caution.

@@ -16,7 +16,7 @@ reading_time: 3
 source_url: 'https://geekystudios.com/ai-chatbots-with-ads-would-you-still-use-them/'
 imported_from: wordpress
 wp_original_id: 588
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/ai-chatbots-with-ads-would-you-still-use-them.webp
 seo:
   canonical: 'https://geekystudios.com/ai-chatbots-with-ads-would-you-still-use-them/'
   og_title: 'AI Chatbots with Ads: Would You Still Use Them? - Geeky Studios'
@@ -38,6 +38,9 @@ score_breakdown:
 quality_note: >-
   Well-written tech article with good tone and accuracy, but falls short of
   target word count at 527 words instead of the 800-1200 range.
+image_alt: >-
+  A glowing AI chat interface is interrupted by colorful ad-like panels in a
+  sleek digital workspace.
 topics:
   - Tech
 ---

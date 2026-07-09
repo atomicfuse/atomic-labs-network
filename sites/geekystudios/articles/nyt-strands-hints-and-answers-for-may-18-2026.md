@@ -15,7 +15,7 @@ reading_time: 6
 source_url: 'https://geekystudios.com/nyt-strands-hints-and-answers-for-may-18-2026/'
 imported_from: wordpress
 wp_original_id: 754
-featuredImage: /assets/images/geekystudios-general-article.webp
+featuredImage: /assets/images/nyt-strands-hints-and-answers-for-may-18-2026.webp
 seo:
   canonical: 'https://geekystudios.com/nyt-strands-hints-and-answers-for-may-18-2026/'
   og_title: 'NYT Strands Hints and Answers for May 18, 2026 - Geeky Studios'
@@ -35,6 +35,9 @@ quality_note: >-
   Well-written article with excellent tone and structure, but contains
   fabricated future content (May 18, 2026 puzzle) which severely impacts factual
   accuracy despite good coverage of gaming tutorials and pop culture.
+image_alt: >-
+  Blank puzzle tiles surrounded by citrus slices and a small press on a bright
+  tabletop
 topics:
   - Pop Culture
   - Tutorials
