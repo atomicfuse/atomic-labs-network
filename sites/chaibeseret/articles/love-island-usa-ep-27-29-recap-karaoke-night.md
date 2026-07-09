@@ -21,7 +21,7 @@ source_url: >-
   https://www.vulture.com/article/love-island-usa-ep-27-29-recap-karaoke-night.html
 source_item_id: 6a4c8edb14aeb4629abef6c2
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/love-island-usa-ep-27-29-recap-karaoke-night.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - spoilers
+image_alt: >-
+  A dramatic karaoke stage with a lone microphone, dim spotlights, and scattered
+  party remnants in a glossy villa setting.
 ---
 TL;DR: The latest episodes of 'Love Island USA' feature a shocking elimination of seven Islanders and a karaoke night that unearths deep-rooted tensions and real friendships among the remaining cast.
 
