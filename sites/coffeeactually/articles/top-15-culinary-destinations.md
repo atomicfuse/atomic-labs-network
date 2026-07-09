@@ -19,7 +19,7 @@ source_url: >-
   https://news.google.com/atom/articles/CBMimwFBVV95cUxPWjZjMDRFaE9JZlgyTHNzN20zaU90Ync1SzdnZDRlbFA4SU9oQzJaWEYxcW5SSC1HSWNKTHdJUnlGUTZzRWVHMFh5TXRKdkhzekh6MDk0Rl85MjQtZkVKZDhocUxCZU5oNGFId0NRZnhpdEUxUU9XS0hvS055MGFWYkJzcFBuY19XelFLUnlZaGVVRlVxcERDUklvRQ?oc=5
 source_item_id: 6a45903a430157263ec5b25b
 generated_by: openai
-featuredImage: /assets/images/coffeeactually-general-article.webp
+featuredImage: /assets/images/top-15-culinary-destinations.webp
 quality_score: 48
 score_breakdown:
   seo_quality: 38
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Coffee Beans
+image_alt: >-
+  Sunlit global tasting table with colorful dishes, spices, herbs, citrus, and
+  coffee beans.
 ---
 ## TL;DR
 Looking for your next food adventure? Here are 15 culinary destinations around the globe that promise to delight your taste buds and fuel your wanderlust!

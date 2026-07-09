@@ -1,9 +1,6 @@
-domain: coffeeactually.com
-site_name: coffeeactually
-site_tagline: null
-author: Ryan Powell
-groups: []
+domain: coffeeactually
 active: true
+author: Ryan Powell
 brief:
   audiences:
     - Food & Drink enthusiasts
@@ -53,7 +50,7 @@ brief:
           - 6a14495516f23264031d801b
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Coffee Beans
       source:
@@ -68,7 +65,8 @@ brief:
           - 6a1831cb0fc9210eaf31ab24
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Coffee Drinks
       source:
         type: filter
@@ -82,23 +80,20 @@ brief:
           - 6a14495416f23264031d8019
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Brewing Guides
       source:
         type: filter
         category_ids:
           - 6a00793e1104bbff809b7d13
         tag_ids:
-          - 6a14495516f23264031d801b
-          - 6a14495416f23264031d8017
-          - 6a14495416f23264031d8018
-          - 6a14495416f23264031d801a
-          - 6a14495516f23264031d801c
-          - 6a034d7886fcaaeb5bc834be
-          - 6a14495416f23264031d8019
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a0348a886fcaaeb5bc83433
+          - 6a03466b86fcaaeb5bc8340e
+          - 6a03467486fcaaeb5bc83416
+          - 6a03467486fcaaeb5bc83418
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a1831cb0fc9210eaf31ab29
     - name: Coffee Gear
       source:
         type: filter
@@ -114,7 +109,29 @@ brief:
           - 6a14495416f23264031d8019
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: coffeeactually
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -153,24 +170,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 68
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-CE5J4FSMSX
   gtm: GT-5DG2W39H
