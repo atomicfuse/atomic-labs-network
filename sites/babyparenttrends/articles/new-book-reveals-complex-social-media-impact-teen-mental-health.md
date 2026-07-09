@@ -39,7 +39,6 @@ image_alt: >-
   social media’s mixed impact.
 topics:
   - Parenting
-  - Children’s Health
 ---
 ## Youth Voices Lead Mental Health Research
 

@@ -37,8 +37,6 @@ image_alt: >-
   blurred room beyond.
 topics:
   - budget decor
-  - Tips & Advice
-  - decor ideas
 ---
 ## The Overlooked Space That Makes the Biggest Impact
 

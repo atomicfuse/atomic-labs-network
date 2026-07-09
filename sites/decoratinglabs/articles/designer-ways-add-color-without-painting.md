@@ -37,8 +37,6 @@ image_alt: >-
 topics:
   - home hacks
   - budget decor
-  - Tips & Advice
-  - decor ideas
 ---
 ## The Rise of Non-Permanent Color Solutions
 

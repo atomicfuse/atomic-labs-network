@@ -35,7 +35,7 @@ image_alt: >-
   Healthy meal prep arranged on a bright kitchen counter with subtle training
   gear nearby
 topics:
-  - Workout Meals
+  - Advice
 ---
 
 The article body appears to be empty — there is no content provided beyond the title.

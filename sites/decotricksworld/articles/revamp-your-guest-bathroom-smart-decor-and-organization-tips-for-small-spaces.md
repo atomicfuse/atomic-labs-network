@@ -50,7 +50,7 @@ image_alt: >-
   Stylish small guest bathroom with smart storage, warm decor, and neatly
   organized towels
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 
 Creating a welcoming guest bathroom in a small space can be a challenging yet rewarding task. Whether you're dealing with limited square footage or simply want to refresh your existing setup, this guide will provide you with innovative ideas to transform your bathroom into a stylish and functional haven.

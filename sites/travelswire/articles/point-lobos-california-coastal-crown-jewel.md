@@ -33,14 +33,6 @@ quality_note: >-
   specific, cited data. Slightly over target word count but maintains engaging
   tone.
 reading_time: 3
-scripts:
-  - id: f384209d-4383-4a79-9779-81033462bd46
-    name: cta
-    position: after-paragraph-1
-    content: >-
-      <script
-      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
-      async></script> <div data-cg-feed="TravelSwire1"></div>
 topics:
   - Destination Guides
 ---

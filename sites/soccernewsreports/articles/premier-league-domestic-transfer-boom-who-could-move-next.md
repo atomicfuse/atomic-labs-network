@@ -38,7 +38,6 @@ image_alt: >-
   floodlights.
 topics:
   - Transfers
-  - Leagues
 ---
 ## The Rise of the Premier League Transfer Premium
 

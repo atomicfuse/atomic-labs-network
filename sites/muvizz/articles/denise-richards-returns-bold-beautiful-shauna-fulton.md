@@ -38,7 +38,6 @@ image_alt: >-
   poised expression.
 topics:
   - TV Shows
-  - Trailers
 ---
 ## A Familiar Return to Daytime Drama
 

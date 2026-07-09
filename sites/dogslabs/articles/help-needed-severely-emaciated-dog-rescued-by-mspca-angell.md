@@ -31,7 +31,7 @@ seo:
     pet ownership to prevent similar cases.
   twitter_card: summary_large_image
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 
 A heartwarming story of rescue and recovery unfolds as an emaciated pit bull, discovered in Lexington, finds a new lease on life. This tale not only highlights the dedication of animal welfare organizations but also sheds light on the broader issue of pet neglect.

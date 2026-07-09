@@ -36,7 +36,6 @@ image_alt: >-
   fruit and picnic bites.
 topics:
   - Nutrition
-  - Recipes
 ---
 ## Breaking the Temperature Rule: Why Chilled Red Wine Is Summer's Best-Kept Secret
 

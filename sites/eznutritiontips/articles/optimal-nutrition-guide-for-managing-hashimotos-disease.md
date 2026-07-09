@@ -50,7 +50,6 @@ image_alt: >-
   preparing a healthy meal.
 topics:
   - Special Diets
-  - Weight & Wellness
 ---
 
 When it comes to managing Hashimoto's disease, a condition that affects thyroid function, your dietary choices can play a pivotal role. A well-chosen diet can help in controlling the symptoms, potentially reducing inflammation and encouraging overall health. However, it's not a one-size-fits-all approach, and it's essential to understand that what works for one person might not necessarily work for another.

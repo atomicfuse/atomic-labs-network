@@ -35,7 +35,6 @@ quality_note: >-
 reading_time: 2
 topics:
   - Would You?
-  - Stories
 image_alt: >-
   A parent and two children share a calm floor activity in a warm, sunlit living
   room.

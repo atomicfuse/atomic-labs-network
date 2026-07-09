@@ -43,7 +43,7 @@ image_alt: >-
   Athlete preparing for a workout beside a healthy pre-workout meal in warm
   morning light.
 topics:
-  - Workout Meals
+  - Advice
 ---
 
 The article content appears to be empty or was not successfully converted from HTML to Markdown. No body content is available to clean up or display.

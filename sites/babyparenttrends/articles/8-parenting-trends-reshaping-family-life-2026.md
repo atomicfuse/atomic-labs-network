@@ -41,7 +41,6 @@ image_alt: >-
   and parents stay nearby.
 topics:
   - Parenting
-  - Children’s Health
 ---
 ## The Shift Away from Perfect Parenting
 

@@ -34,7 +34,7 @@ image_alt: >-
   Compact powder room with warm wall sconces framing an arched mirror above a
   narrow vanity.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## Transform Your Small Spaces with Strategic Sconce Placement
 

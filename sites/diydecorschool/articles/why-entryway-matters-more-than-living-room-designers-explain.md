@@ -37,7 +37,7 @@ image_alt: >-
   Elegant neutral entryway with console table, round mirror, soft morning light,
   and blurred living space beyond
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Overlooked Space That Makes the Biggest Impact
 

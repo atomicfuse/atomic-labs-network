@@ -48,7 +48,6 @@ image_alt: >-
 topics:
   - Beauty
   - Lifestyle
-  - Mindfullness
 ---
 
 Aging is a natural process that everyone experiences, yet societal perceptions about it can often be harsh and unforgiving. Recently, a viral claim suggested that people become less attractive at a certain age, sparking a spirited response from individuals challenging this stereotype. This conversation highlights broader issues about beauty standards and the aging process in modern society.

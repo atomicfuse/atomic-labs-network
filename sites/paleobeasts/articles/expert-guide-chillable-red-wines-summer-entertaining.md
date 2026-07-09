@@ -37,7 +37,6 @@ image_alt: >-
   greenery
 topics:
   - Nutrition
-  - Recipes
 ---
 ## Breaking the Rules: Why Chilled Red Wine is Perfect for Summer
 

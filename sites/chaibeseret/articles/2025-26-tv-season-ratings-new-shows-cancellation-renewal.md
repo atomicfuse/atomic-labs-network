@@ -40,7 +40,6 @@ image_alt: >-
   suggesting renewal decisions
 topics:
   - tv shows
-  - reviews
 ---
 ## Networks Face Critical Renewal Decisions as Season Winds Down
 

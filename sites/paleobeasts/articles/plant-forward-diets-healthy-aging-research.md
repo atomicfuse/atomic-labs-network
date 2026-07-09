@@ -38,7 +38,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## New Research Links Plant-Forward Eating to Age-Related Health Markers
 

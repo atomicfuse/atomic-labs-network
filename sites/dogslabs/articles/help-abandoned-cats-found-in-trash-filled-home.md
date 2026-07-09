@@ -29,7 +29,7 @@ seo:
   og_image: 'http://dogpotato.com/wp-content/uploads/2026/01/make_file.jpg'
   twitter_card: summary_large_image
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 
 In a concerning development, a Phoenix neighborhood is raising alarms over a house filled with abandoned cats and mounting trash. The situation has stirred both local authorities and animal welfare advocates into action, urging for swift intervention to address the escalating crisis.

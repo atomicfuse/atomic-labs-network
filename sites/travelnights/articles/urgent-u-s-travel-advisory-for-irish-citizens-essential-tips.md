@@ -50,7 +50,6 @@ image_alt: >-
   before an international trip.
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 Irish citizens traveling to the United States are advised to stay informed and prepared as new guidelines have been issued to ensure a safe journey. With a focus on enhancing travel experiences and safety, these key tips aim to help travelers navigate their trips smoothly and confidently. Whether you are visiting for business or leisure, staying updated on international travel advisories is essential for a hassle-free experience.

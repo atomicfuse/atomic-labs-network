@@ -37,7 +37,6 @@ image_alt: >-
   behind her.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## Bella Hadid Brings Vintage Glamour to Saint-Tropez
 

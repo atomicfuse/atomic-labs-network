@@ -43,7 +43,7 @@ quality_note: >-
   optimization details.
 image_alt: 'Seniors and beginners practicing gentle chair yoga in a bright, calming room'
 topics:
-  - Yoga
+  - Advice
 ---
 
 This Chair Yoga workout for seniors and beginners features 10 moves that will help increase your flexibility and mobility. The stretching and breathing involved in these yoga-inspired moves have additional benefits including relaxing and calming your mind. These moves can be done every day – in the morning, during the day, or before you go to sleep.

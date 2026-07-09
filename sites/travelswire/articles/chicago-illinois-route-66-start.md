@@ -26,16 +26,6 @@ seo:
 image_alt: >-
   Vintage road trip car on a quiet Chicago street at sunrise, ready to begin a
   cross-country journey
-scripts:
-  - id: 33b4f3d8-150f-4165-866e-ea4c872810fc
-    name: travelswire2
-    position: after-paragraph-1
-    content: >-
-      <script
-      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
-      async></script>
-
-      <div data-cg-feed="travelswire2"></div>
 topics:
   - Destination Guides
 ---

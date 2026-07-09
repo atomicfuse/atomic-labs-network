@@ -5,7 +5,7 @@ description: >-
   wildlife, suggesting wild animals may serve as reservoirs for sporotrichosis
   beyond...
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Lucas Ward
 tags:

@@ -38,7 +38,6 @@ image_alt: >-
 topics:
   - Food
   - News
-  - Guides & Tips
 ---
 ## Hidden Dangers in Hotel Refrigerators
 

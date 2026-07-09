@@ -37,8 +37,7 @@ image_alt: >-
   Airy summer kitchen-living space with classic details, woven textures, open
   doors, and soft natural light.
 topics:
-  - Tips & Advice
-  - decor ideas
+  - Latest News
 ---
 ## A New Approach to Summer Home Design
 

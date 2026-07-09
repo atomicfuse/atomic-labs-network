@@ -45,7 +45,7 @@ image_alt: >-
   Colorful custom tumblers on a bright DIY craft table with sublimation supplies
   nearby
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 
 You see 40 oz tumblers are everywhere, but finding one that is perfectly made for you may be harder than you think. With all the different colors and varieties, it's fun to create something uniquely you. So I am going to show you how to customize two different types of 40 oz sublimation tumblers in this post.

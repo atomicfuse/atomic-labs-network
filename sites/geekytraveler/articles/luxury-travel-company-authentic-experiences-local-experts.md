@@ -37,7 +37,7 @@ image_alt: >-
   Travelers and local hosts share wine in a warm Mediterranean courtyard at
   twilight.
 topics:
-  - Local Culture
+  - Destination Guides
 ---
 ## The Rise of Authentic Travel Experiences
 

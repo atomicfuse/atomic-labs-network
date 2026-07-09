@@ -37,7 +37,6 @@ image_alt: >-
   a sunlit courtyard.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## Jennifer Lopez Sets the Red Bag Standard
 

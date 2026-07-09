@@ -45,7 +45,6 @@ image_alt: >-
   window
 topics:
   - Nutrition Tips
-  - Weight & Wellness
 ---
 
 As the winter season approaches, it's crucial to fortify your immune system against the onslaught of colds and flu. While bundling up helps ward off the chill, a robust immune system defense starts with what you eat. Incorporating certain nutrients into your diet can be an effective strategy to keep illnesses at bay.

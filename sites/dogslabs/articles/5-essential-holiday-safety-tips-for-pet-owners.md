@@ -39,7 +39,6 @@ image_alt: >-
   arranged out of reach.
 topics:
   - Pet Care & Health
-  - Animal Behavior
 ---
 The holiday season brings joy, celebration, and unfortunately, potential hazards for our beloved pets. According to reports, pet owners need to be extra vigilant during festive periods to ensure their furry companions stay safe and healthy.
 

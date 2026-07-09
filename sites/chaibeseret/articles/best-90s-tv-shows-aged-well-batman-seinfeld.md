@@ -36,7 +36,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
-  - spoilers
 ---
 ## The Golden Age That Keeps on Giving
 

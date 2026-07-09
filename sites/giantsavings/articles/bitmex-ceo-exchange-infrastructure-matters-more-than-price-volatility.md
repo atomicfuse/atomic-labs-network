@@ -5,8 +5,8 @@ description: >-
   structural weaknesses and why operational resilience determines survival
   during...
 type: standard
-status: review
-publishDate: '2026-06-10'
+status: published
+publishDate: 2026-06-10T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -15,9 +15,7 @@ tags:
   - market volatility
   - exchange platforms
 slug: bitmex-ceo-exchange-infrastructure-matters-more-than-price-volatility
-reviewer_notes: >-
-  This cryptocurrency-focused article is completely off-brand for a personal
-  finance savings site and contains fabricated future events from 2025.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.bitcoin.com/bitmex-ceo-says-regulation-opens-doors-but-liquidity-still-decides-winners/
 source_item_id: 6a263e43eb470600f9705267

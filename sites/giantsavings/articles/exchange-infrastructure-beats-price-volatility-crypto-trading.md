@@ -5,8 +5,8 @@ description: >-
   flaws in crypto exchange mechanics that matter more than market swings for
   smart...
 type: standard
-status: review
-publishDate: '2026-06-08'
+status: published
+publishDate: 2026-06-08T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -15,9 +15,7 @@ tags:
   - trading platforms
   - financial infrastructure
 slug: exchange-infrastructure-beats-price-volatility-crypto-trading
-reviewer_notes: >-
-  Article completely misses the target audience and topic focus with fabricated
-  crypto content instead of personal finance guidance for everyday savers.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.bitcoin.com/bitmex-ceo-says-regulation-opens-doors-but-liquidity-still-decides-winners/
 source_item_id: 6a263e43eb470600f9705267

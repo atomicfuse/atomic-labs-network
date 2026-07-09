@@ -44,7 +44,6 @@ quality_note: >-
 image_alt: Footballers sprint under stadium lights in a tense race for league position.
 topics:
   - Latest News
-  - Leagues
 ---
 
 The Premier League 2025-26 points table gained fresh intrigue after Matchday 31, with Manchester City strengthening their position in the European race following a high-scoring win over Crystal Palace. The result added pressure on nearby rivals and kept the battle for Champions League qualification tightly packed behind runaway leaders Liverpool.

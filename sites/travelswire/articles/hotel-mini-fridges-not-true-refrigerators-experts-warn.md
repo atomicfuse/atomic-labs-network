@@ -5,8 +5,8 @@ description: >-
   creating food safety risks. Here's how to identify the difference and stay
   safe.
 type: standard
-status: review
-publishDate: '2026-06-05'
+status: published
+publishDate: 2026-06-05T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Travel Tips
@@ -14,10 +14,7 @@ tags:
   - food-safety
   - hotel-mini-fridges
 slug: hotel-mini-fridges-not-true-refrigerators-experts-warn
-reviewer_notes: >-
-  Well-structured travel safety article with good keyword integration and
-  helpful tips, but falls short on word count and contains some unsupported
-  expert claims that could use verification.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://www.goodhousekeeping.com/travel/travel-tips-and-planning/a71484564/hotel-mini-fridge-warning/
 source_item_id: 6a2087c2ad9a1dd21ebb66c6

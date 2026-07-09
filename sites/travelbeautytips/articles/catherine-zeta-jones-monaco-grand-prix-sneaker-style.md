@@ -38,7 +38,6 @@ image_alt: >-
   outdoor summer event.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## Celebrity Style Meets Comfort at Monaco Grand Prix
 

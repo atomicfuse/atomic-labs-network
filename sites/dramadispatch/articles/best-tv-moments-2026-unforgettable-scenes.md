@@ -35,7 +35,6 @@ image_alt: >-
   room.
 topics:
   - TV & Streaming
-  - Movie Reviews
 ---
 ## The Year's Most Memorable Television Moments
 

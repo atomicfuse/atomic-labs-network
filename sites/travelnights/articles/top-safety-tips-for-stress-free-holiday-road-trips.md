@@ -44,7 +44,6 @@ image_alt: >-
   trip.
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 As the holiday season approaches, millions of Americans gear up for festive road trips to visit family and friends. While the excitement of the holidays can be infectious, it is crucial to prioritize safety during these travels. Whether you're heading across the state or the country, being prepared and staying vigilant can make your journey safer and more enjoyable.

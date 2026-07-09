@@ -37,7 +37,6 @@ image_alt: >-
 topics:
   - Paleo Diet
   - Nutrition
-  - Meal Plans
 ---
 ## The Science Behind Stress and Food Choices
 

@@ -40,7 +40,6 @@ image_alt: >-
   rebuild
 topics:
   - Latest News
-  - Leagues
 ---
 ## Lewis Family Breaks Silence on Tottenham Crisis
 

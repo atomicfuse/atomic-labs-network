@@ -36,7 +36,6 @@ image_alt: >-
   doors to the home.
 topics:
   - Expert Guides
-  - Tips & Advice
 ---
 ## Transform Your Patio Into an Extension of Your Home
 

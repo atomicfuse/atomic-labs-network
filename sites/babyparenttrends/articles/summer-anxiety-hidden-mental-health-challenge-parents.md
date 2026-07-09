@@ -38,7 +38,6 @@ image_alt: >-
   suggesting quiet family anxiety.
 topics:
   - Parenting
-  - Children’s Health
 ---
 ## The Reality Behind Summer Freedom
 

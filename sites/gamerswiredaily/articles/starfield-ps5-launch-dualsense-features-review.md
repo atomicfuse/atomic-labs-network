@@ -40,7 +40,6 @@ image_alt: >-
   blue starfield.
 topics:
   - Gaming News
-  - Industry Updates
 ---
 ## A Long-Awaited PlayStation Debut
 

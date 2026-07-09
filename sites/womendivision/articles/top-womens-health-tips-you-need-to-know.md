@@ -46,7 +46,6 @@ image_alt: >-
 topics:
   - Fitness
   - Lifestyle
-  - Mindfullness
 ---
 
 Women's health is a crucial aspect of overall well-being, requiring attention and proactive measures to ensure a balanced and healthy life. Recent events have highlighted the importance of addressing women's health issues through shared advice and community support. As awareness grows, more women are empowered to take charge of their health, leading to improved quality of life and well-being.

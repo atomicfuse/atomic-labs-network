@@ -50,7 +50,6 @@ image_alt: >-
   sunlit room.
 topics:
   - Pregnancy
-  - Children’s Health
 ---
 
 Pregnancy is a transformative journey, filled with significant physical and emotional changes. During this time, the emotional support of family and friends can be as vital as prenatal vitamins. Understanding how to provide this support is key to ensuring the well-being of both the mother and the unborn child.

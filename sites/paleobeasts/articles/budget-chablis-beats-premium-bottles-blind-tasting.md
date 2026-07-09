@@ -41,7 +41,6 @@ image_alt: >-
   soft natural light.
 topics:
   - Nutrition
-  - Recipes
 ---
 ## Premium Pricing Doesn't Always Mean Premium Quality
 

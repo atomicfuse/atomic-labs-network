@@ -39,7 +39,7 @@ image_alt: >-
   White in-pool loungers on a turquoise sun shelf create a resort-style backyard
   staycation scene.
 topics:
-  - In-Depth Reviews
+  - Expert Guides
 ---
 ## Bringing Resort Luxury Home on a Budget
 

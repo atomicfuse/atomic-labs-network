@@ -46,7 +46,6 @@ image_alt: >-
   mountains, dunes, and cliffs.
 topics:
   - Travel Tips
-  - Destination Guides
 ---
 
 Travel choices can be a reflection of our inner selves, and for those seeking a unique and personalized experience, aligning your travel plans with your moon sign might just be the perfect approach. The moon sign in astrology symbolizes the emotional core and the hidden self, guiding us to places that resonate on a deeper level. If you're looking to plan an unforgettable journey in 2026, consider these intriguing destinations based on the insights of your moon sign.

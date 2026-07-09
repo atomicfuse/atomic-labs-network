@@ -36,7 +36,6 @@ image_alt: >-
   under neon light.
 topics:
   - TV Shows
-  - Trailers
 ---
 ## The Shocking Death That Has Everyone Talking
 

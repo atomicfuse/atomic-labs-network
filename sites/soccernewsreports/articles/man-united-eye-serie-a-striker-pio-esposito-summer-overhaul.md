@@ -37,8 +37,6 @@ reading_time: 3
 image_alt: Young striker under stadium lights as scouts watch from the background
 topics:
   - Transfers
-  - Leagues
-  - Match Reports
 ---
 ## United Scout Rising Italian Talent
 

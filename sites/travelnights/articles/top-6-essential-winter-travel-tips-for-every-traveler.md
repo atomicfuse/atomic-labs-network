@@ -46,7 +46,6 @@ image_alt: >-
   mountain village
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Winter travel offers a unique opportunity to explore destinations transformed by snow and cold weather, promising both adventure and serene beauty. However, planning a successful winter trip requires careful preparation to ensure comfort and safety in the chilly conditions.

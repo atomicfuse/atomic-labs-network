@@ -5,8 +5,8 @@ description: >-
   expansion into homewares through collaboration with Venice glassmaker
   Laguna~B.
 type: standard
-status: review
-publishDate: '2026-06-10'
+status: published
+publishDate: 2026-06-10T00:00:00.000Z
 author: David Scott
 tags:
   - Interior Design
@@ -15,10 +15,7 @@ tags:
   - homewares
   - murano glass
 slug: in-common-with-expands-beyond-lighting-lido-glassware-collection
-reviewer_notes: >-
-  Article lacks proper SEO structure, is too short, focuses on industry news
-  rather than actionable home decor content, and doesn't align with the site's
-  DIY/budget-focused audience.
+reviewer_notes: Approved via review queue.
 source_url: 'https://www.vogue.com/article/in-common-with-lido-collection-homewares'
 source_item_id: 6a2773a4eb470600f97052b3
 generated_by: claude

@@ -50,7 +50,6 @@ image_alt: Athletic adult doing a dumbbell row in a bright modern fitness studio
 topics:
   - Advice
   - Fitness
-  - Workout Meals
 ---
 
 Are you ready to enhance your upper body strength and achieve better posture? This 40-minute workout is designed to target your back, biceps, and core using strength training techniques and dumbbells. By incorporating this session into your routine, you'll not only build muscle but also improve your overall physical capabilities.

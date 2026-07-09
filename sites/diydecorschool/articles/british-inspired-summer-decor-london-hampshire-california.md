@@ -37,7 +37,7 @@ image_alt: >-
   Airy summer living room with natural textures, open garden doors, and relaxed
   British-California styling.
 topics:
-  - In-Depth Reviews
+  - Expert Guides
 ---
 ## A Fresh Take on Summer Home Styling
 

@@ -43,7 +43,6 @@ image_alt: >-
   screening
 topics:
   - Culture
-  - Guides & Tips
 ---
 
 As the holiday season approaches, many travelers are preparing to fly and visit loved ones. Navigating airport security efficiently can help ensure a smooth journey. Understanding the latest guidelines and recommendations can make your trip less stressful and more enjoyable.

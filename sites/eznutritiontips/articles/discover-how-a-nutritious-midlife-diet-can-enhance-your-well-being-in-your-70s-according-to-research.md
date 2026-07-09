@@ -51,7 +51,6 @@ quality_note: >-
 image_alt: Healthy foods on a sunlit table with an active older adult in the background.
 topics:
   - Special Diets
-  - Weight & Wellness
 ---
 
 As we navigate through the middle years of our lives, adopting a healthy diet becomes increasingly important. The right food choices not only help in maintaining an optimal weight but also contribute towards overall health and vitality.

@@ -40,7 +40,6 @@ image_alt: >-
   light.
 topics:
   - Breaking News
-  - Trailers
 ---
 ## A Quiet Farm Becomes a Crime Scene
 

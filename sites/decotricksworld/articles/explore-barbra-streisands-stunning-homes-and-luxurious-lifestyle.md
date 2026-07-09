@@ -49,7 +49,7 @@ image_alt: >-
   Elegant coastal living room with Art Deco touches, ocean views, antiques,
   flowers, and a grand piano.
 topics:
-  - Latest News
+  - Expert Guides
 ---
 
 Barbra Streisand, an icon of both music and film, is also renowned for her exquisite taste in real estate. Her homes reflect not only her personal style but also her passion for architectural beauty and interior design. Streisand's properties, marked by elegance and attention to detail, have consistently captured the public's imagination.

@@ -36,7 +36,7 @@ image_alt: >-
   Military boots beside an empty dog collar and leash on a quiet porch at
   sunset.
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 ## Soldier Reaches Out for Assistance
 

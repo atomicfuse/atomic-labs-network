@@ -52,7 +52,6 @@ image_alt: >-
   competitive title chase.
 topics:
   - Analysis
-  - Leagues
 ---
 
 It's always fascinating to gaze into the crystal ball and predict the future, especially when it comes to the Premier League's potential champions for the 2025-26 season. Let's dive into a speculative analysis of the top five teams that could potentially bag the title in the coming years.

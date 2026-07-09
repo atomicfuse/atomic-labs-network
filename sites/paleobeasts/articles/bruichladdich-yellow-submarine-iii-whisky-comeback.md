@@ -38,7 +38,6 @@ image_alt: >-
   reflections and moody blue-gray light.
 topics:
   - Nutrition
-  - Recipes
 ---
 ## The Return of a Whisky Legend
 

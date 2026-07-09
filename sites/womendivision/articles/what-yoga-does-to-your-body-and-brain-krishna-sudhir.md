@@ -48,7 +48,7 @@ image_alt: >-
   A person practices yoga in soft morning light with subtle abstract breath and
   brain patterns around them.
 topics:
-  - Yoga
+  - Advice
 ---
 
 There are many different approaches to modern yoga — though most forms have three core elements: physical postures, breathing exercises, and spiritual contemplation.

@@ -39,7 +39,6 @@ image_alt: >-
   tasting
 topics:
   - Nutrition
-  - Recipes
 ---
 ## The Premium Wine Pricing Myth Gets Tested
 

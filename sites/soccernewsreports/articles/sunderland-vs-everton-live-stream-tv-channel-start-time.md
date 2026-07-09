@@ -49,8 +49,6 @@ image_alt: >-
   captures the match
 topics:
   - Latest News
-  - Leagues
-  - Match Reports
 ---
 
 The Premier League, known for its electrifying matches and passionate fan base, always promises thrilling encounters. One such exciting game is the clash between Sunderland and Everton. Both teams have rich histories and loyal supporters who eagerly anticipate every meeting between these two clubs. As they prepare to face off again, fans are keen to know how to catch all the action live.

@@ -38,7 +38,6 @@ image_alt: >-
   overlooking a floodlit stadium
 topics:
   - Latest News
-  - Leagues
 ---
 ## Contract Talks Set to Resume This Summer
 

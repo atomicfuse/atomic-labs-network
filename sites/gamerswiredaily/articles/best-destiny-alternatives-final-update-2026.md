@@ -34,7 +34,6 @@ reading_time: 3
 image_alt: Armored sci-fi players face five glowing paths in a neon city at night.
 topics:
   - Gaming News
-  - Industry Updates
 ---
 ## The End of an Era for Destiny Players
 

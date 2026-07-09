@@ -36,7 +36,6 @@ image_alt: >-
   doorway
 topics:
   - Pet Care & Health
-  - Animal Behavior
 ---
 ## Critical Warning as Ireland Faces Record-Breaking May Temperatures
 

@@ -48,7 +48,6 @@ image_alt: >-
   box.
 topics:
   - Healthy Recipes
-  - Weight & Wellness
 ---
 
 Are you constantly searching for quick and healthy meals that your kids will love? Look no further! These healthy pizza pockets can be prepared in just 10 minutes, making them the perfect addition to your kids' lunch boxes or a quick breakfast option.

@@ -5,8 +5,8 @@ description: >-
   its 28th annual festival, featuring 40+ wineries, heritage sites, and local
   food.
 type: standard
-status: review
-publishDate: '2026-06-08'
+status: published
+publishDate: 2026-06-08T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -15,10 +15,7 @@ tags:
   - jerusalem hills
   - mateh yehuda
 slug: mateh-yehuda-wine-festival-israel-wine-region
-reviewer_notes: >-
-  Well-structured destination guide with good keyword integration, but weakened
-  by repetitive sourcing phrases and below-target word count that limits
-  comprehensive coverage.
+reviewer_notes: Approved via review queue.
 source_url: 'https://www.ynetnews.com/travel/article/hjrp58tefg'
 source_item_id: 6a25149a40722bf12ccf98ed
 generated_by: claude
@@ -40,7 +37,6 @@ image_alt: >-
   the foreground.
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## Israel's Premier Wine Destination Opens for Summer Festival
 

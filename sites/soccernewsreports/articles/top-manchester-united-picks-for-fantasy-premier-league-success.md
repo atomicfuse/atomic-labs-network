@@ -50,7 +50,6 @@ image_alt: >-
   fantasy strategy elements.
 topics:
   - Latest News
-  - Leagues
 ---
 
 Manchester United's recent performances in the Premier League have fans and fantasy football enthusiasts buzzing. As managers across the globe look to optimize their Fantasy Premier League (FPL) teams, understanding the strengths and weaknesses of key players is crucial for success.

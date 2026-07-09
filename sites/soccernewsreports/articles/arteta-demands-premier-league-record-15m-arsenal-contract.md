@@ -38,7 +38,6 @@ image_alt: >-
   lights.
 topics:
   - Latest News
-  - Leagues
 ---
 ## Arsenal Face Record Contract Demand from Arteta
 

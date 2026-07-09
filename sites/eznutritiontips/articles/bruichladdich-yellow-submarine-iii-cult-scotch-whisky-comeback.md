@@ -5,8 +5,8 @@ description: >-
   14-year-old single malt, celebrating 25 years and the absurd military
   intelligence...
 type: standard
-status: review
-publishDate: '2026-06-02'
+status: published
+publishDate: 2026-06-02T00:00:00.000Z
 author: Ben Rivera
 tags:
   - Nutrition Myths
@@ -15,10 +15,7 @@ tags:
   - bruichladdich
   - limited edition
 slug: bruichladdich-yellow-submarine-iii-cult-scotch-whisky-comeback
-reviewer_notes: >-
-  This article is completely off-topic for a nutrition website, focusing on
-  Scotch whisky instead of food/nutrition content, with poor SEO alignment and
-  questionable accuracy claims.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://www.forbes.com/sites/emilyprice/2026/06/01/one-of-scotch-whiskys-weirdest-cult-bottles-just-made-a-comeback/
 source_item_id: 6a1e39229bf3ecf115d981de

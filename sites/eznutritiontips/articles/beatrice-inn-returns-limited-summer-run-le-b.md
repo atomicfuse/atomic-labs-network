@@ -4,8 +4,8 @@ description: >-
   Chef Angie Mar brings back signature dishes and cocktails from the iconic
   2010s NYC restaurant Beatrice Inn for a nostalgic celebration at Le B.
 type: standard
-status: review
-publishDate: '2026-06-05'
+status: published
+publishDate: 2026-06-05T00:00:00.000Z
 author: Ben Rivera
 tags:
   - Nutrition Myths
@@ -14,10 +14,7 @@ tags:
   - chef angie mar
   - restaurant revival
 slug: beatrice-inn-returns-limited-summer-run-le-b
-reviewer_notes: >-
-  While well-written, this restaurant news article completely misses the site's
-  nutrition and food/drink focus, lacks proper SEO structure, and has
-  questionable factual claims about a restaurant revival.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://www.forbes.com/sites/tonysachs/2026/06/01/one-of-the-most-fabled-nyc-restaurants-of-the-2010s-returns-briefly/
 source_item_id: 6a1e39239bf3ecf115d981f3

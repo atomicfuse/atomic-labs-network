@@ -47,7 +47,6 @@ quality_note: >-
 image_alt: Football fans queue outside a modern stadium under bright floodlights at dusk
 topics:
   - Latest News
-  - Leagues
 ---
 
 The Premier League has long been a dominant force in the world of soccer, boasting a global fanbase and significant financial success. Despite its remarkable achievements in revenue generation, the league faces criticism from some fans and experts who question the balance between financial growth and maintaining the sport's integrity.

@@ -38,7 +38,6 @@ image_alt: >-
   and egg on a bright wooden table.
 topics:
   - Nutrition
-  - Recipes
 ---
 ## Growing Interest in Food-Based Hormone Support
 

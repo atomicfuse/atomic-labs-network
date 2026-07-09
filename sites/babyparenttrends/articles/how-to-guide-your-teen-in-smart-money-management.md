@@ -43,7 +43,6 @@ quality_note: >-
 image_alt: Parent and teen discuss budgeting together at a sunlit kitchen table
 topics:
   - Parenting
-  - Children’s Health
 ---
 
 Managing finances is a critical skill for teenagers, yet many face challenges when it comes to spending wisely. When teens start earning, they often find themselves tempted to splurge on items like clothes, influenced by peers and social media trends. Helping your teen understand financial responsibility can set them on a path to long-term financial health.

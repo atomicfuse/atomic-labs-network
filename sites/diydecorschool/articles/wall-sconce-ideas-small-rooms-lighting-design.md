@@ -34,7 +34,7 @@ image_alt: >-
   Compact powder room with brass wall sconces framing an arched mirror above a
   slim vanity.
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Small-Space Lighting Solution
 

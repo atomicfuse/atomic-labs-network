@@ -37,7 +37,7 @@ image_alt: >-
   Stylish modern dining room with a round wood table, upholstered chairs, soft
   light, plants, and warm paneling.
 topics:
-  - In-Depth Reviews
+  - Expert Guides
 ---
 ## The Formal Dining Room Makes a Comeback
 

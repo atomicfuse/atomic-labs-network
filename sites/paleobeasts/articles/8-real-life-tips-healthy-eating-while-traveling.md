@@ -37,7 +37,6 @@ quality_note: >-
 reading_time: 2
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## Planning Ahead Sets the Foundation
 

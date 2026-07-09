@@ -4,7 +4,7 @@ description: >-
   Researchers discover adding scandium to iron catalysts dramatically extends
   carbon nanotube production, potentially solving manufacturing bottleneck.
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Daniel Rivera
 tags:

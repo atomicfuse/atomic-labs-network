@@ -50,7 +50,6 @@ image_alt: >-
   table.
 topics:
   - Travel Tips
-  - Destination Guides
 ---
 
 Exploring new destinations through their culinary offerings is a thrilling adventure for food enthusiasts. As we look ahead to 2026, the Michelin Guide, renowned for its influential restaurant ratings, has curated a list of top gastronomic cities that promise to captivate the taste buds of travelers worldwide.

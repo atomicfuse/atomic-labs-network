@@ -37,7 +37,6 @@ image_alt: >-
   exercise
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Breakfast That's Missing Something Important
 

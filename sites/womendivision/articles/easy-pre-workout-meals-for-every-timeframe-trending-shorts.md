@@ -42,7 +42,7 @@ quality_note: >-
   pre-workout meal guidance.
 image_alt: Styled pre-workout snacks and meals on a kitchen counter beside gym gear.
 topics:
-  - Workout Meals
+  - Advice
 ---
 
 These are some pre-workout meals for every timeframe. Try these ones and make sure to like and subscribe to the channel for more amazing videos. We are here on a mission to grow together! 🙂

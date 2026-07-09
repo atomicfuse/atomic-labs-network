@@ -38,7 +38,6 @@ image_alt: >-
   lighting.
 topics:
   - Lifestyle
-  - Destinations
 ---
 ## High-End Jewelry Takes Center Stage at Bonhams
 

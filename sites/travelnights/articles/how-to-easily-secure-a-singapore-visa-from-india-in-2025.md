@@ -45,7 +45,6 @@ image_alt: >-
   the background
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Embarking on a journey to Singapore promises an adventure filled with vibrant culture, tantalizing cuisine, and stunning architecture. If you're an Indian traveler planning a visit in 2025, securing a visa is the first step towards experiencing this island nation's wonders. In this guide, we'll explore the process of obtaining a Singapore visa, offering practical tips and insights to ensure a smooth application.

@@ -48,7 +48,6 @@ image_alt: >-
   winter transfer deadline.
 topics:
   - Latest News
-  - Leagues
 ---
 
 Premier League clubs have been bustling with activity as the winter transfer window reaches its final hours. This period is known for its intense negotiations and strategic signings, as teams look to bolster their squads mid-season. Each club aims to secure players who can make an immediate impact or provide long-term benefits, with the focus on finding the right balance between talent and budget.

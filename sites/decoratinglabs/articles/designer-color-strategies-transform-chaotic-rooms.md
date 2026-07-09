@@ -36,8 +36,6 @@ image_alt: >-
   coordinated colorful accents.
 topics:
   - budget decor
-  - Tips & Advice
-  - decor ideas
 ---
 ## Why Color Choices Matter for Room Harmony
 

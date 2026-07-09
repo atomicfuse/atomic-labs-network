@@ -5,8 +5,8 @@ description: >-
   by-election, with conspiracy theories and blame games revealing deep fractures
   in...
 type: standard
-status: review
-publishDate: '2026-06-04'
+status: published
+publishDate: 2026-06-04T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -15,10 +15,7 @@ tags:
   - makerfield
   - political commentary
 slug: far-right-movement-implodes-makerfield-by-election
-reviewer_notes: >-
-  This political article is completely off-brand for an entertainment site
-  focused on movies, TV shows, and reviews, with poor SEO optimization and
-  questionable sourcing.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://news.google.com/rss/articles/CBMiygFBVV95cUxNdldfUE9XQkJhZWlpamVTTWliZ3F1UjA4OEJ0R184aTV2bTdnMlJMNEFTNkJnUzg2dGluZmIxYmhzakxZUTNINlNOSXhYVnF5ZDNDV1JlR3R4YkcwX0dqQ0Zibm9iN0l1eTJUT0ZpQURIay15NXEySTN1Q2ZKcnBQSm1mT2JDY2Y1YnhoSS1jYVZXNEdkd0tMTm1ybjBKOE4tem9WaldmZTlGN1J2aU9IZVVva1hYc2hIUGhhNGlMOWo3azM2MFF6TWNB?oc=5
 source_item_id: 6a204fccad9a1dd21ebb663b

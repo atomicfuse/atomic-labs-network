@@ -36,7 +36,6 @@ image_alt: >-
   pool
 topics:
   - budget decor
-  - decor ideas
 ---
 ## Bringing Resort Luxury Home for Less
 

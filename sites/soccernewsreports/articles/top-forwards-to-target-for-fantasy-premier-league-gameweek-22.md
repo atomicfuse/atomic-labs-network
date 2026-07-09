@@ -49,7 +49,6 @@ image_alt: >-
   suggesting fantasy strategy.
 topics:
   - Latest News
-  - Leagues
 ---
 
 Fantasy Premier League (FPL) enthusiasts eagerly anticipate each gameweek, looking to optimize their teams and climb the rankings. As we approach Gameweek 22, strategic decisions and player selections become crucial to gaining an edge over competitors.

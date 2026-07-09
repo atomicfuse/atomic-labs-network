@@ -36,8 +36,7 @@ quality_note: >-
   to reports' statements without specific sources.
 image_alt: Older adult walking confidently with a guide dog in a sunny park
 topics:
-  - Animal Behavior
-  - Breed Guides
+  - Pet Care & Health
 ---
 ## A New Chapter of Companionship
 

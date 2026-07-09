@@ -34,7 +34,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Science Behind Stress and Food Choices
 

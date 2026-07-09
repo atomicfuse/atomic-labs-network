@@ -45,7 +45,6 @@ image_alt: >-
   the pitch
 topics:
   - Latest News
-  - Leagues
 ---
 
 In recent times, the world of professional soccer has faced challenges beyond the pitch, as racial abuse incidents mar an otherwise beautiful game. Over a single weekend, four Premier League players found themselves at the receiving end of appalling racial abuse, sparking widespread demands for action and accountability from fans, authorities, and tech companies alike.

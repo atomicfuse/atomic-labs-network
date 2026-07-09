@@ -37,7 +37,6 @@ image_alt: >-
   natural light.
 topics:
   - Beauty Tips
-  - Destinations
 ---
 ## Early Prime Day Savings on K-Beauty Favorites
 

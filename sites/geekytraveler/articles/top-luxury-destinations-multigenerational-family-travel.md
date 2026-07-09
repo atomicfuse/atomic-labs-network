@@ -38,7 +38,6 @@ image_alt: >-
   hills at golden hour.
 topics:
   - Destination Guides
-  - Adventure Activities
 ---
 ## Growing Trend in Family Travel
 

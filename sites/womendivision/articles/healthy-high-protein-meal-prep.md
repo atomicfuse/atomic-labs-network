@@ -37,7 +37,7 @@ image_alt: >-
   Sunlit kitchen counter with organized protein-rich meal prep containers and
   fresh colorful ingredients
 topics:
-  - Workout Meals
+  - Advice
 ---
 
 The article body appears to be empty — no content was provided to clean up.

@@ -40,8 +40,7 @@ image_alt: >-
   Modern formal dining room with warm wood, upholstered chairs, pendant
   lighting, greenery, and soft natural light.
 topics:
-  - Tips & Advice
-  - In-Depth Reviews
+  - Latest News
 ---
 ## The Dining Room Renaissance of 2026
 

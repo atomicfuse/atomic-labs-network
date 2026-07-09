@@ -36,8 +36,7 @@ image_alt: >-
   Sunlit summer interior with linen seating, natural textures, and open doors to
   a garden patio.
 topics:
-  - Latest News
-  - Tips & Advice
+  - Expert Guides
 ---
 ## A Fresh Take on Summer Decorating
 

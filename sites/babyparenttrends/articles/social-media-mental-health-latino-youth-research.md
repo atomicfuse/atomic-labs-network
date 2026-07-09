@@ -37,7 +37,6 @@ image_alt: >-
   nuanced digital moment.
 topics:
   - Parenting
-  - Children’s Health
 ---
 ## Youth Take the Lead in Mental Health Research
 

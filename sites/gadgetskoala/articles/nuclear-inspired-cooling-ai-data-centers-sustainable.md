@@ -4,7 +4,7 @@ description: >-
   MIT startup Ferveret develops water-free liquid immersion cooling system using
   nuclear reactor principles to tackle AI data centers' growing energy demands.
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Hannah Adams
 tags:

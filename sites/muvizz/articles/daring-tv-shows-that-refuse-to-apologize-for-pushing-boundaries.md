@@ -37,7 +37,6 @@ image_alt: >-
   dramatic colored light.
 topics:
   - TV Shows
-  - Trailers
 ---
 ## The Art of Not Apologizing: TV's Most Controversial Shows
 

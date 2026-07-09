@@ -36,7 +36,6 @@ image_alt: >-
   it protectively.
 topics:
   - Parenting
-  - Children’s Health
 ---
 ## The Rise of AI Toys for Young Children
 

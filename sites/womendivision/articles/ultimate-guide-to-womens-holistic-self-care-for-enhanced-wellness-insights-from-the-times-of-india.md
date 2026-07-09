@@ -54,8 +54,6 @@ image_alt: >-
   movement
 topics:
   - Lifestyle
-  - Mindfullness
-  - Yoga
 ---
 
 Embracing a holistic approach to wellness is not just a trend, but a lifestyle choice that more and more women are making. It's about nurturing the whole person, including physical, mental, and emotional health. It's about understanding that all aspects of our lives are interconnected, and promoting our overall health requires a comprehensive approach.

@@ -45,7 +45,6 @@ image_alt: >-
   kitchen
 topics:
   - Kids
-  - Children’s Health
 ---
 
 Talking with children about food can shape how they eat, how they feel about their bodies, and how they make choices for years to come. The goal is not to create perfect eaters. It is to build confidence, curiosity, and a healthy relationship with meals, snacks, hunger, fullness, and enjoyment.

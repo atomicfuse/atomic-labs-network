@@ -38,7 +38,6 @@ image_alt: >-
   kitchen
 topics:
   - Nutrition
-  - Meal Plans
 ---
 ## The Breakfast Gap in Women's Nutrition
 

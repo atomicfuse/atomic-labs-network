@@ -37,7 +37,6 @@ image_alt: >-
   ocean beyond.
 topics:
   - Destination Guides
-  - Adventure Activities
 ---
 ## The Rise of Private Villa Experiences
 

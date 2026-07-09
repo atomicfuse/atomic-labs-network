@@ -36,7 +36,6 @@ image_alt: >-
   studio.
 topics:
   - Fitness
-  - Yoga
 ---
 ## Redefining Wellness Through Cultural Connection
 

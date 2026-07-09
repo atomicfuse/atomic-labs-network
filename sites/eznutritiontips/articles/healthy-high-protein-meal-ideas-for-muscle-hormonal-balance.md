@@ -50,7 +50,6 @@ image_alt: >-
 topics:
   - Healthy Recipes
   - Special Diets
-  - Weight & Wellness
 ---
 
 Rebuilding your muscle and achieving hormonal balance requires a mindful approach to nutrition. In this blog post, we'll explore delicious and healthy recipes that are easy to prepare and packed with over 100g of protein. These meals are designed to support your body's recovery journey and enhance your overall well-being.

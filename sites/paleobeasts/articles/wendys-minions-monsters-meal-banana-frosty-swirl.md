@@ -36,7 +36,6 @@ image_alt: >-
   tabletop
 topics:
   - Healthy Snacks
-  - Meal Plans
 ---
 ## Movie Magic Meets Fast Food
 

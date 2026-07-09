@@ -39,7 +39,6 @@ reading_time: 3
 image_alt: Spotlit reality TV set blending neon Vegas glamour with a Texas ranch horizon.
 topics:
   - tv shows
-  - spoilers
 ---
 ## Bravo Doubles Down on Reality Empire with Vegas and Texas Expansions
 

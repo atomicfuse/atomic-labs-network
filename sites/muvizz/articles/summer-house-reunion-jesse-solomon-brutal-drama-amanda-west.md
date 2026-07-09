@@ -39,7 +39,6 @@ image_alt: >-
   emotional fallout.
 topics:
   - TV Shows
-  - Reviews
 ---
 ## Jesse Solomon Previews Explosive Summer House Reunion
 

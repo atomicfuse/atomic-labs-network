@@ -20,7 +20,7 @@ source_url: >-
   https://www.forbes.com/sites/bernadettebodenalbala/2026/06/01/a-changing-world-global-health-meets-modern-travel/
 source_item_id: 6a1e39229bf3ecf115d981ce
 generated_by: claude
-featuredImage: /assets/images/travelswire-general-article.webp
+featuredImage: /assets/images/travel-health-connected-world-modern-travelers.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -33,6 +33,9 @@ quality_note: >-
   tone, but falls short on length requirements and makes some unverified claims
   about CDC cuts that could affect credibility.
 reading_time: 3
+image_alt: >-
+  Passport, medical kit, and phone on an airport table suggesting prepared,
+  healthy international travel.
 topics:
   - Travel Tips
 ---

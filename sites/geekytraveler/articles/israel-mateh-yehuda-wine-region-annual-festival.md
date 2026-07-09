@@ -36,7 +36,6 @@ image_alt: >-
   and ancient stone terraces.
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## Israel's Premier Wine Destination Welcomes Visitors
 

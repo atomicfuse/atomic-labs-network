@@ -37,7 +37,6 @@ image_alt: >-
   fitness studio.
 topics:
   - Fitness
-  - Yoga
 ---
 ## A Revolutionary Fitness Concept Arrives in North Dallas
 

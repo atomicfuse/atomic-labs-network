@@ -4,8 +4,8 @@ description: >-
   Turkey's crypto market reaches $200 billion in annual transactions, making it
   4x larger than UAE's market as inflation drives digital asset adoption.
 type: standard
-status: review
-publishDate: '2026-06-01'
+status: published
+publishDate: 2026-06-01T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -14,10 +14,7 @@ tags:
   - international markets
   - financial planning
 slug: turkey-200b-crypto-market-outpaces-uae-regional-boom
-reviewer_notes: >-
-  Article about Turkish crypto markets is completely misaligned with personal
-  finance site's audience and topics, contains suspicious unverified statistics,
-  and lacks proper SEO optimization for the target keywords.
+reviewer_notes: Approved via review queue.
 source_url: 'https://news.bitcoin.com/ripple-eyes-turkeys-200b-crypto-boom-and-4x-uae-lead/'
 source_item_id: 6a1d03c29bf3ecf115d981af
 generated_by: claude

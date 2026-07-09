@@ -34,7 +34,6 @@ quality_note: >-
 reading_time: 2
 topics:
   - Heart
-  - Stories
 image_alt: >-
   Caregiver and child laugh together on a sunlit floor surrounded by simple
   toys.

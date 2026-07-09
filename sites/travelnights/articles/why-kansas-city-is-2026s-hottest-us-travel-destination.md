@@ -45,7 +45,6 @@ image_alt: >-
 topics:
   - Culture
   - Destinations
-  - Guides & Tips
 ---
 
 Kansas City is stepping into the national spotlight as one of America's most talked-about places to visit in 2026. Fresh travel interest, major sporting events, a celebrated food scene, and a growing arts culture have helped the metro earn recognition as a top trending U.S. travel destination. For visitors planning a city break, a sports trip, or a Midwest weekend getaway, Kansas City now offers far more than a stopover.

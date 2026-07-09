@@ -27,7 +27,7 @@ seo:
     as their barks. Perfect for anyone needing a hearty laugh.
   twitter_card: summary_large_image
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 
 There's something incredibly amusing about watching dogs express their emotions with dramatic flair. This collection of funny dog videos showcases our furry friends at their most theatrical, providing endless entertainment and joy to animal lovers everywhere.

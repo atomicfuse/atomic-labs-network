@@ -36,7 +36,7 @@ quality_note: >-
   specific pet-focused content.
 image_alt: A tidy garden with humane deterrents as a cat and fox linger near the edge
 topics:
-  - Animal Behavior
+  - Pet Care & Health
 ---
 ## Understanding the Problem
 

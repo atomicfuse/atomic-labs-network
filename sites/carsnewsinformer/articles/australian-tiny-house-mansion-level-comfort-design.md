@@ -4,8 +4,8 @@ description: >-
   An Australian tiny house demonstrates how strategic design and indoor-outdoor
   connectivity can deliver mansion-level comfort in a compact footprint.
 type: standard
-status: review
-publishDate: '2026-06-08'
+status: published
+publishDate: 2026-06-08T00:00:00.000Z
 author: Max Scott
 tags:
   - News
@@ -14,10 +14,7 @@ tags:
   - Australian housing
   - compact design
 slug: australian-tiny-house-mansion-level-comfort-design
-reviewer_notes: >-
-  This article about tiny houses is completely off-topic for an automotive
-  website and lacks specific details, appearing to be based on vague reports
-  rather than concrete information.
+reviewer_notes: Approved via review queue.
 source_url: >-
   https://www.autoevolution.com/news/pint-sized-australian-tiny-house-masters-the-art-of-comfort-with-the-ease-of-a-mansion-271069.html
 source_item_id: 6a24d55240722bf12ccf98e3

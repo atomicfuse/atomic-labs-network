@@ -5,7 +5,7 @@ description: >-
   exclusive collectible toys and new Banana Frosty Swirl, tied to upcoming
   Illumination...
 type: standard
-status: published
+status: approved
 publishDate: '2026-06-11'
 author: Elena Gray
 tags:
@@ -39,7 +39,6 @@ image_alt: >-
   collectible figures on a blue tabletop.
 topics:
   - Healthy Snacks
-  - Meal Plans
 ---
 ## Wendy's Rolls Out Movie-Themed Meal Promotion
 

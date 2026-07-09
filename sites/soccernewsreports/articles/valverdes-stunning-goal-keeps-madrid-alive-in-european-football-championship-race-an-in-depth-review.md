@@ -54,7 +54,6 @@ image_alt: >-
   night match
 topics:
   - Latest News
-  - Leagues
 ---
 
 As the European soccer season gathers momentum, the weekend was filled with high-octane action from the Premier League, LaLiga, and Bundesliga. Let's take a closer look at the highlights and analysis of the most exciting matches.

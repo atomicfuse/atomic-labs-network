@@ -49,7 +49,6 @@ image_alt: >-
   spotlight
 topics:
   - Gaming News
-  - Industry Updates
 ---
 
 In a groundbreaking development for the video game industry, members of SAG-AFTRA have voted to ratify a new contract that promises to enhance the working conditions and compensation for video game actors. This agreement marks a significant milestone, reflecting the union's commitment to securing better terms for its members in a rapidly evolving industry.

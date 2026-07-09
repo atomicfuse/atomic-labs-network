@@ -35,8 +35,7 @@ image_alt: >-
   Modern formal dining room with warm wood, layered lighting, soft chairs,
   greenery, and airy natural light
 topics:
-  - Tips & Advice
-  - decor ideas
+  - Latest News
 ---
 ## The Return of the Formal Dining Room
 

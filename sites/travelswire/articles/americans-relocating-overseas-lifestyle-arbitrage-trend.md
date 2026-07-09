@@ -35,7 +35,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destination Guides
-  - Local Culture
 ---
 ## The Great American Exodus
 

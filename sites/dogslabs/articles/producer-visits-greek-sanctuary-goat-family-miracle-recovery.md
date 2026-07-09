@@ -36,7 +36,6 @@ quality_note: >-
 reading_time: 3
 topics:
   - Animal Planet
-  - Animal Behavior
 image_alt: >-
   Mother goat stands with newborn kids in sunlit grass at a peaceful animal
   sanctuary.

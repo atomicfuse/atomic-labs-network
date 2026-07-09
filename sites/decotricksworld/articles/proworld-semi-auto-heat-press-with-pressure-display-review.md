@@ -50,8 +50,7 @@ image_alt: >-
   Home craft workbench with heat press, shirts, tote bags, mugs, and transfer
   supplies neatly arranged
 topics:
-  - Tips & Advice
-  - In-Depth Reviews
+  - Expert Guides
 ---
 
 If you're in the market for a new [heat press](https://www.thecountrychiccottage.net/proworld-semi-auto-heat-press-review/), I may have just what you're looking for. The Proworld Semi Auto heat press with a pressure display is one you should look into.

@@ -36,7 +36,7 @@ image_alt: >-
   Warm luxury open-plan kitchen and living space designed with cozy zones and
   layered textures
 topics:
-  - Tips & Advice
+  - Expert Guides
 ---
 ## The Challenge of Scale in Modern Homes
 

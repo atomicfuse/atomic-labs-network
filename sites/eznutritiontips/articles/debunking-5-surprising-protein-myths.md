@@ -43,7 +43,6 @@ image_alt: >-
   light
 topics:
   - Nutrition Myths
-  - Weight & Wellness
 ---
 
 Protein is often hailed as a crucial element in a balanced diet, essential for building muscles and maintaining overall health. However, misconceptions about protein abound, leading to confusion about its role and how much is needed. Let's delve into some common protein myths and uncover the truth about this vital nutrient.

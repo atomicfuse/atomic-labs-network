@@ -45,7 +45,6 @@ image_alt: >-
   turquoise sea at golden hour
 topics:
   - Destinations
-  - Guides & Tips
 ---
 
 Traveling on a budget does not mean compromising on luxury and comfort. Across the globe, several destinations offer travelers the opportunity to enjoy royal experiences without breaking the bank. Whether you dream of exploring historical sites, lounging on pristine beaches, or indulging in culinary delights, these locations provide the perfect mix of affordability and extravagance.

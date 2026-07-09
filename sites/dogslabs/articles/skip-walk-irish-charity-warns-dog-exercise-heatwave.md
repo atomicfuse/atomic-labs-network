@@ -36,7 +36,6 @@ image_alt: >-
   doorway.
 topics:
   - Pet Care & Health
-  - Animal Behavior
 ---
 ## Urgent Warning as Temperatures Soar
 

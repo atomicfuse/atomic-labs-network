@@ -38,8 +38,6 @@ image_alt: >-
   cushions, ceramics, and natural light.
 topics:
   - budget decor
-  - Tips & Advice
-  - decor ideas
 ---
 ## A Growing Design Movement
 

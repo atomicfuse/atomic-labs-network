@@ -50,7 +50,6 @@ image_alt: >-
   sunlit home
 topics:
   - Kids
-  - Children’s Health
 ---
 
 Childhood obesity is becoming a significant concern in India, with a growing number of children affected by this health issue. The increase in obesity rates among children is alarming, as it sets the stage for various health complications later in life. Addressing this issue is crucial for ensuring a healthy future generation.
