@@ -40,6 +40,8 @@ quality_note: >-
   Well-written childproofing guide with good tone and accuracy, but title lacks
   focus on parenting/baby care and content is slightly under target length.
 image_alt: 'Parent watches a toddler play safely in a bright, childproofed living room.'
+topics:
+  - Parenting
 ---
 
 Raising children in a safe environment is a priority for every parent. Ensuring the house is childproofed can be a daunting task, especially for new parents. By focusing on key areas of the home, parents can significantly reduce the risk of accidents and create a secure space for their little ones to explore.

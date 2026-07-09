@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Football manager beside a trophy and contract in a floodlit stadium with
   red-and-white crowd colors.
+topics:
+  - Latest News
+  - Transfers
 ---
 ## Arsenal's Summer Priority: Securing Arteta's Future
 

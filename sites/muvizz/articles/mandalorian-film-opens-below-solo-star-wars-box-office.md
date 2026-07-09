@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Solitary sci-fi traveler faces a dim, empty theater across a windswept desert
   at dusk.
+topics:
+  - Breaking News
 ---
 ## Disappointing Opening Raises Franchise Questions
 

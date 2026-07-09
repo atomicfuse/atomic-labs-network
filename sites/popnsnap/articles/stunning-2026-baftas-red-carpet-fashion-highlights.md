@@ -34,6 +34,9 @@ seo:
 image_alt: >-
   Elegant sustainable couture on a cinematic red carpet outside a grand awards
   venue at night
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The 2026 BAFTA Awards brought together the most dazzling stars from the world of film, and the red carpet was nothing short of a fashion extravaganza. Celebrities showcased an array of stunning outfits, each making bold statements and setting new trends. This year's event not only celebrated cinematic excellence but also highlighted the creativity and elegance in fashion.

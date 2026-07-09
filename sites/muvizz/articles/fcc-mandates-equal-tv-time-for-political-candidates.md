@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Two equal podiums in a moody TV studio under balanced spotlights with cameras
   in silhouette.
+topics:
+  - TV Shows
 ---
 
 The Federal Communications Commission (FCC) has recently been in the spotlight due to discussions around the "equal time" provision, a rule that mandates broadcasting networks to provide equal opportunities to political candidates. This subject has gained renewed attention as some television talk shows are being scrutinized for their potential impact on political discourse during the election season.

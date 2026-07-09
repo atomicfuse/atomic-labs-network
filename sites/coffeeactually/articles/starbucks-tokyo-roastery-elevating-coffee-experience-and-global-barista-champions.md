@@ -50,6 +50,8 @@ quality_note: >-
   economies instead of coffee content despite having a coffee-related title and
   tags.
 image_alt: Barista crafting espresso in a polished Tokyo-inspired coffee roastery
+topics:
+  - Coffee News
 ---
 
 The global financial landscape is witnessing significant shifts as investors and market analysts closely monitor the evolving dynamics between key economic players. Recent developments indicate a growing interest in exploring new investment opportunities in emerging markets, driven by the potential for higher returns amidst fluctuating economic conditions.

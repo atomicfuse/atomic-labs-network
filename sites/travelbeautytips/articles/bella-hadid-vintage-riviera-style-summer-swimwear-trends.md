@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in retro swimwear on a sunlit Riviera yacht with turquoise water
   behind her.
+topics:
+  - Lifestyle
 ---
 ## Bella Hadid Brings Vintage Glamour to Saint-Tropez
 

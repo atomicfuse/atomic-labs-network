@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Warm spa-like shaving setup with a razor, towel, moisturizer, and smooth leg
   in soft bathroom light.
+topics:
+  - Beauty Tips
 ---
 Razor bumps can turn what should be a simple grooming routine into a frustrating experience, especially during warmer seasons when smooth skin becomes a priority. According to dermatologist-backed guidance, understanding what causes these irritating bumps and implementing proper prevention techniques can transform your shaving experience.
 

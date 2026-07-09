@@ -44,6 +44,8 @@ quality_note: >-
   Well-written TV news piece with good tone and relevant content, but lacks
   compelling SEO optimization and falls short of ideal word count.
 image_alt: Determined woman in a dark coat stands on a misty industrial street at dawn.
+topics:
+  - TV News
 ---
 
 Banijay, a prominent name in global content production, has announced a strategic move to expand its portfolio with the adaptation of "A Woman of Substance". This decision aligns with their goal to bring classic stories to new audiences. The adaptation aims to revive the gripping narrative for modern viewers, showcasing Banijay's dedication to storytelling excellence.

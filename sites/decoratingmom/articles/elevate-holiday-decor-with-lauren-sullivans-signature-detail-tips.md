@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Elegant living room with classic Christmas garlands, ornaments, lights, and
   warm holiday styling
+topics:
+  - Decor Ideas
 ---
 
 Transforming your home into a festive wonderland during the holiday season can be both enjoyable and inspiring. With a focus on classic Christmas decor, you can create a warm and inviting atmosphere that captures the spirit of the holidays. Whether you are hosting family gatherings or simply enjoying a cozy evening by the fire, embracing timeless decorations can set the perfect scene for memorable moments.

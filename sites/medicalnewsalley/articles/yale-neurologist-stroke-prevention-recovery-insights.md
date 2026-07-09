@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Translucent head profile with glowing neural pathways and subtle wearable
   health monitoring cues
+topics:
+  - Health News
+  - Medical Research
 ---
 ## Understanding Stroke Risk in Today's Health Landscape
 

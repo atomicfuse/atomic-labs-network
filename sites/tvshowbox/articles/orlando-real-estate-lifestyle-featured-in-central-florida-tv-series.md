@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Modern Central Florida home interior with a glowing TV, tablet charts, palm
   reflections, and warm evening light.
+topics:
+  - TV News
 ---
 
 Central Florida television remains a valuable media niche, even as streaming reshapes viewing habits across the United States. The Orlando region offers broadcasters a rare mix of population growth, tourism demand, political advertising potential, and trusted local news consumption.

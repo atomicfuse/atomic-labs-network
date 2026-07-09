@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Warm family living room scene with parents and children sharing calm creative
   time together
+topics:
+  - Parenting
 ---
 ## The End of Perfect Parenting Culture
 

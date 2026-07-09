@@ -37,6 +37,8 @@ videos:
 image_alt: >-
   Moody rural farm at dusk with scattered blank notes and a shadowed car on a
   wet driveway.
+topics:
+  - Culture Buzz
 ---
 ## When Threatening Notes Turn Deadly
 

@@ -1,9 +1,12 @@
 ---
 title: Far-Right Movement Implodes After Makerfield By-Election Defeat
-description: Internal conflict erupts within far-right factions following the Makerfield by-election, with conspiracy theories and blame games revealing deep fractures in...
+description: >-
+  Internal conflict erupts within far-right factions following the Makerfield
+  by-election, with conspiracy theories and blame games revealing deep fractures
+  in...
 type: standard
 status: published
-publishDate: 2026-06-04
+publishDate: 2026-06-04T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -13,7 +16,8 @@ tags:
   - political commentary
 slug: far-right-movement-implodes-makerfield-by-election
 reviewer_notes: Approved via review queue.
-source_url: https://news.google.com/rss/articles/CBMiygFBVV95cUxNdldfUE9XQkJhZWlpamVTTWliZ3F1UjA4OEJ0R184aTV2bTdnMlJMNEFTNkJnUzg2dGluZmIxYmhzakxZUTNINlNOSXhYVnF5ZDNDV1JlR3R4YkcwX0dqQ0Zibm9iN0l1eTJUT0ZpQURIay15NXEySTN1Q2ZKcnBQSm1mT2JDY2Y1YnhoSS1jYVZXNEdkd0tMTm1ybjBKOE4tem9WaldmZTlGN1J2aU9IZVVva1hYc2hIUGhhNGlMOWo3azM2MFF6TWNB?oc=5
+source_url: >-
+  https://news.google.com/rss/articles/CBMiygFBVV95cUxNdldfUE9XQkJhZWlpamVTTWliZ3F1UjA4OEJ0R184aTV2bTdnMlJMNEFTNkJnUzg2dGluZmIxYmhzakxZUTNINlNOSXhYVnF5ZDNDV1JlR3R4YkcwX0dqQ0Zibm9iN0l1eTJUT0ZpQURIay15NXEySTN1Q2ZKcnBQSm1mT2JDY2Y1YnhoSS1jYVZXNEdkd0tMTm1ybjBKOE4tem9WaldmZTlGN1J2aU9IZVVva1hYc2hIUGhhNGlMOWo3azM2MFF6TWNB?oc=5
 source_item_id: 6a204fccad9a1dd21ebb663b
 generated_by: claude
 featuredImage: /assets/images/far-right-movement-implodes-makerfield-by-election.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: This political article is completely off-brand for an entertainment site focused on movies, TV shows, and reviews, with poor SEO optimization and questionable sourcing.
+quality_note: >-
+  This political article is completely off-brand for an entertainment site
+  focused on movies, TV shows, and reviews, with poor SEO optimization and
+  questionable sourcing.
 reading_time: 3
-image_alt: Deserted campaign room with overturned chairs and isolated figures after a political defeat
+image_alt: >-
+  Deserted campaign room with overturned chairs and isolated figures after a
+  political defeat
+topics:
+  - Breaking News
 ---
 ## Movement Fractures Emerge After Electoral Setback
 

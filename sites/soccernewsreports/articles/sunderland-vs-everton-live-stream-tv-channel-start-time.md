@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Two footballers sprint for the ball under stadium lights as a broadcast camera
   captures the match
+topics:
+  - Latest News
 ---
 
 The Premier League, known for its electrifying matches and passionate fan base, always promises thrilling encounters. One such exciting game is the clash between Sunderland and Everton. Both teams have rich histories and loyal supporters who eagerly anticipate every meeting between these two clubs. As they prepare to face off again, fans are keen to know how to catch all the action live.

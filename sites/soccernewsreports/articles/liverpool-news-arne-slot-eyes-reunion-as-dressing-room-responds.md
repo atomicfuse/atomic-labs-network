@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Dramatic football dressing room with red kits, tactics board, and coach
   silhouette suggesting a new era
+topics:
+  - Latest News
 ---
 
 Liverpool's next phase under Arne Slot is no longer about proving the transition can work. It is about ensuring success becomes repeatable, sustainable, and ruthless across every competition.

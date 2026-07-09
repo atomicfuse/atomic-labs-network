@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Podcast microphone and tablet with abstract rising audio chart on a modern
   studio desk
+topics:
+  - Innovation
+  - Tech
 ---
 
 YouTube has expanded its influence in the media industry by launching a new feature that is reshaping how podcasts are consumed. Aiming to capture the attention of podcast enthusiasts, YouTube has introduced a weekly podcast chart, which highlights the most popular shows on the platform. This move not only underscores YouTube's commitment to becoming a significant player in the podcasting world but also reveals the evolving landscape of digital media consumption.

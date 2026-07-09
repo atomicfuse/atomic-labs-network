@@ -39,6 +39,8 @@ quality_note: >-
   misleading title suggesting D'Angelo has a 'final album' when he's still
   active.
 image_alt: Empty vintage recording studio with instruments glowing in warm soulful light.
+topics:
+  - Music
 ---
 
 During the late 1990s and early 2000s, a wave of transformative R&B music emerged, marked by its rich blend of soul, jazz, and funk. Among the pioneers of this era was D'Angelo, an artist whose influence and musical prowess left an indelible mark on the genre. His work not only redefined R&B but also opened the door for future generations of musicians.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Unbranded racing car drifting on a wet futuristic track with holographic
   racing lines
+topics:
+  - Reviews
 ---
 
 "RoadCraft" for Xbox Series X has captured the attention of racing enthusiasts worldwide. This game combines high-speed action with intricate strategy, offering players a unique experience that challenges both reflexes and tactical thinking. Whether you're a seasoned gamer or new to the racing genre, "RoadCraft" provides a captivating journey through its richly designed environments and realistic mechanics.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Person choosing fresh foods in a bright kitchen amid abstract digital
   information cues.
+topics:
+  - Nutrition Myths
 ---
 
 In today's fast-paced world, nutrition information is more accessible than ever, thanks to social media platforms and online resources. However, the abundance of data can also lead to confusion and misinformation. Understanding how to navigate this landscape is crucial for anyone looking to maintain a healthy lifestyle.

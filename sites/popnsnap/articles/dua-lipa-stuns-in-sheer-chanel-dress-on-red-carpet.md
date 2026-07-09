@@ -29,6 +29,9 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2026/02/make_file-4.jpeg'
   twitter_card: summary_large_image
 image_alt: Glamorous woman in a sheer black couture gown poses on a cinematic red carpet.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Dua Lipa recently captured global attention with her stunning appearance at the Berlinale International Film Festival. The pop sensation graced the event, showcasing her unique style and fashion-forward sensibilities, drawing admiration and headlines worldwide.

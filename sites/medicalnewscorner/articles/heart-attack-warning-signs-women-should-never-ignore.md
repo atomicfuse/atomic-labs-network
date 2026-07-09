@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Concerned woman in soft window light with subtle red cues across chest, neck,
   jaw, shoulder, and abdomen.
+topics:
+  - Health News
 ---
 ## The Hidden Heart Attack Crisis Affecting Women
 

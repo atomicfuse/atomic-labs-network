@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Stylish tiny apartment with multifunction furniture, warm textiles, plants,
   and smart storage
+topics:
+  - Decor Ideas
 ---
 
 Decorating a tiny apartment is all about making thoughtful choices that help a small home feel beautiful, functional, and comfortable. Whether you live in a studio, a small rental, or a compact city apartment, the right decorating approach can transform limited square footage into a space that feels stylish, clean, and welcoming.

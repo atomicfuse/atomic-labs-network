@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   A moody desert at dusk with disturbed sand, a buried shirt, and snake tracks
   under neon-tinted light.
+topics:
+  - Movie Reviews
 ---
 ## Major Character Death Shakes Euphoria Season 3
 

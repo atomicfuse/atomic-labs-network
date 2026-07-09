@@ -40,6 +40,10 @@ quality_note: >-
   significantly under target word count at only 386 words when 800-1200 is
   expected.
 image_alt: Misty twilight forest path with an eerie glow between dark pine trees.
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Situated along the tranquil south-west coast of Wales, Carmarthenshire is renowned for its breathtaking landscapes and serene shoreline. However, beneath its picturesque exterior lies a chilling history filled with tragic tales and unexplained phenomena. This article delves into the mysterious occurrences collectively known as The Pembrey Forest Hauntings, where visitors report eerie and ghostly encounters.

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Colorful boat on calm Caribbean turquoise water with distant green islands
   under a bright summer sky.
+topics:
+  - Travel Tips
 ---
 ## The Summer Caribbean Revolution
 

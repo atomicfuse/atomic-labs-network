@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Woman preparing for a morning walk beside healthy food in a softly lit home
   setting
+topics:
+  - Healthy Living Tips
 ---
 ## Real-World Success Through Simple Changes
 

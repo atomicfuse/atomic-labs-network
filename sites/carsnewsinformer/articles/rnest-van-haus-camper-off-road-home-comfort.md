@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Rugged camper van in a forest clearing with a warm modern interior visible
   through the open door.
+topics:
+  - News
 ---
 ## Adventure Meets Comfort in Custom Van Build
 

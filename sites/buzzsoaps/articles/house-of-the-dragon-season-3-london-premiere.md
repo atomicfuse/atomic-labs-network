@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Glamorous London premiere scene with actors on a moody red carpet under copper
   lights
+topics:
+  - Culture Buzz
 ---
 ## HBO's Dragon Dynasty Continues
 

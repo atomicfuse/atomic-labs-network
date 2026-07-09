@@ -38,6 +38,9 @@ seo:
 image_alt: >-
   Blond actor on a red carpet under golden spotlights with subtle
   superhero-inspired lighting
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Joe Keery, known for his role as Steve Harrington in the hit series "Stranger Things," made waves at the Golden Globes with his striking new look. The actor's blonde hair not only turned heads but also sparked a flurry of conversations online. This transformation not only reflects his evolving style but also hints at possible new roles and ventures.

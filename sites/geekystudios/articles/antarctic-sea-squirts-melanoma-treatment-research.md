@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Antarctic researcher examines a marine sample vial on the ice with icebergs in
   the distance.
+topics:
+  - Tech
 ---
 ## Diving into Antarctica's Icy Waters for Cancer Research
 

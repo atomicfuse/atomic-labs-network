@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   People practice gentle yoga as puppies play around them in a sunlit Bangkok
   studio.
+topics:
+  - Yoga Poses
 ---
 
 In the bustling city of Bangkok, a unique form of relaxation is capturing the attention of locals and tourists alike. Combining the therapeutic benefits of yoga with the joy of interacting with puppies, a novel yoga studio has emerged as a sanctuary for stress relief and emotional comfort. This innovative approach offers an ideal escape for those seeking to unwind and experience the healing power of animal companionship.

@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Shattered side window on a red compact car parked on a quiet residential
   street at dawn.
+topics:
+  - News
 ---
 ## Latest Incident Highlights Ongoing Vulnerability
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Lidar-like light reveals ancient geometric structures beneath a misty Amazon
   rainforest canopy.
+topics:
+  - Technology
 ---
 ## Revolutionary Discovery Beneath the Forest Canopy
 

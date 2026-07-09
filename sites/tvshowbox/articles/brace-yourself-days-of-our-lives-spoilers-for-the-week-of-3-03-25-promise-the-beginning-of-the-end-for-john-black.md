@@ -53,6 +53,8 @@ quality_note: >-
 image_alt: >-
   A tense formal dining room scene with an empty chair, scattered flowers, and
   shadowed figures near a rainy window.
+topics:
+  - TV News
 ---
 
 This day was always going to come, but that doesn't make it any less sad.

@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Warm cinematic listening room with headphones, vinyl sleeves, tablet glow, and
   classical music details
+topics:
+  - Influencers
 ---
 
 Please paste the full source article text here so it can be rewritten into an original, SEO-optimized piece with proper headings, an image placeholder, and WordPress-ready formatting.

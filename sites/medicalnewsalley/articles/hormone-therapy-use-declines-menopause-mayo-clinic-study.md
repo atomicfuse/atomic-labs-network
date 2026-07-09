@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Diverse midlife women sit in a sunlit clinic waiting area with an empty chair
   between them.
+topics:
+  - Health News
 ---
 ## Sharp Decline in Treatment Despite Strong Evidence
 

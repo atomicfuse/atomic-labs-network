@@ -38,6 +38,8 @@ quality_note: >-
   it impossible to evaluate most quality criteria and providing no value to
   readers.
 image_alt: Chic model in refined après-ski fashion on a snowy Alpine village street
+topics:
+  - Fashion
 ---
 
 *No article content was available to clean up — only author boilerplate was present in the source.*

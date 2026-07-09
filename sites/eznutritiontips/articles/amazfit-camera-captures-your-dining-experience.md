@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Wearable camera discreetly captures a plated meal in a warm restaurant setting
   with subtle AI visual cues.
+topics:
+  - Healthy Recipes
 ---
 
 In the world of wearable technology, innovation continues to surprise us with its ability to integrate into our daily routines. The Amazfit brand, known for its smartwatches and fitness trackers, is pushing boundaries with its latest gadget. This device aims to capture moments of your life in an entirely new way, featuring a built-in camera designed to film you during one of the most ordinary activities: eating.

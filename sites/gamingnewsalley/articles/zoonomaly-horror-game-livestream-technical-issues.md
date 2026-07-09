@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   Glitching horror game livestream setup with static-filled monitors and eerie
   creature silhouettes
+topics:
+  - Gaming News
 ---
 ## Livestream Encounters Technical Difficulties
 

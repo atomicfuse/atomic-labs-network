@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Sunlit wellness scene with healthy foods, water, walking shoes, and a blank
   calendar for prevention.
+topics:
+  - Lifestyle
+  - Nutrition
+  - Wellness
 ---
 
 Colorectal cancer is a significant health concern globally, with its risk factors being diverse and often surprising. Understanding how to mitigate these risks can empower individuals to take proactive steps toward better health. This article delves into some unexpected yet effective strategies to lower the risk of colorectal cancer.

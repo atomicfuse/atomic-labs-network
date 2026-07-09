@@ -42,6 +42,8 @@ quality_note: >-
   if currently happening, lacks specific SEO optimization, but maintains good
   tone and covers relevant football topics.
 image_alt: Unbranded footballers in sky-blue kits sprint across a floodlit stadium pitch.
+topics:
+  - Latest News
 ---
 
 In the world of English football, the Premier League has long been considered one of the most competitive and entertaining leagues globally. The 2025-2026 season is proving no different, with Manchester City once again asserting their dominance. As the season progresses, they continue to demonstrate their prowess, aiming for yet another title. Their performance is not only a testament to their talent but also a reflection of the strategic management and formidable squad depth that they possess.

@@ -35,6 +35,8 @@ quality_note: >-
   optimization.
 reading_time: 3
 image_alt: Three futuristic armored explorers face glowing portals to new alien worlds.
+topics:
+  - Gaming News
 ---
 ## Destiny's Final Chapter Opens Door for New Adventures
 

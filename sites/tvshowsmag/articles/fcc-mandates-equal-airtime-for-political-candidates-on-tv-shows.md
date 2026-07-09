@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Empty TV studio chairs and camera suggest balanced political airtime under
   media scrutiny.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 The Federal Communications Commission (FCC) is at the center of a debate regarding its "equal time" rule, as political candidates increasingly seek opportunities to appear on popular television talk shows. This regulation stipulates that broadcasters must provide equal airtime to all qualified political candidates if they allow any candidate to use their station. Recent discussions have intensified as former President Donald Trump continues to feature prominently on various shows, raising questions about how the rule is applied in the evolving media landscape.

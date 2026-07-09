@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Archival objects on a warm tabletop symbolize historic progress in civil
   rights, science, and humanity.
+topics:
+  - Good Vibes
 ---
 
 On November 13th, a series of remarkable events throughout history have shaped the world as we know it. From monumental political changes to groundbreaking scientific achievements, this day has consistently been a beacon of progress and transformation. Join us on a journey through time as we explore some of the most significant occurrences that took place on this date.

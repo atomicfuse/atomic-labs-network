@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Modern cruise ship sailing through a calm Norwegian fjord beneath green
   mountains
+topics:
+  - Destination Guides
 ---
 ## MSC Euribia Begins Northern Europe Operations
 

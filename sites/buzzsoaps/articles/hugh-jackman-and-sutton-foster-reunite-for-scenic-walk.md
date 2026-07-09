@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Two Broadway performers stroll together on a warm New York street near the
   theater district.
+topics:
+  - Culture Buzz
 ---
 
 In the heart of New York City, two Broadway stars were recently spotted enjoying a leisurely stroll. Hugh Jackman, renowned for his diverse acting roles, took some time off from his busy schedule to walk through the vibrant streets with fellow performer Sutton Foster. This casual outing highlighted the strong bond between the two actors who share the stage in a much-acclaimed production.

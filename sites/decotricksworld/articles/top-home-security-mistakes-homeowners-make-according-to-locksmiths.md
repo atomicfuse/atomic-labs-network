@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Suburban front door at dusk with porch light, deadbolt, and shadowed window
   details
+topics:
+  - Expert Guides
 ---
 
 Home security is a top priority for homeowners, yet many common mistakes can leave your property vulnerable. Professional locksmiths often see the same errors repeated by homeowners, potentially putting their safety at risk. By addressing these issues, you can enhance your home security and enjoy peace of mind.

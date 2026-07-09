@@ -38,6 +38,8 @@ quality_note: >-
   target word count and lacks specific factual details to support the major
   claim about Norway's transition.
 image_alt: Unbranded electric car driving along a snowy Norwegian fjord road at sunrise
+topics:
+  - Electric Cars
 ---
 ## Historic Milestone for Electric Vehicle Adoption
 

@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Tense silhouettes in a moody television newsroom with glowing monitors and a
   glass conference table
+topics:
+  - TV & Streaming
 ---
 ## The Appeal of Media Industry Drama
 

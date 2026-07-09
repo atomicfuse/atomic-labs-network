@@ -36,6 +36,8 @@ quality_note: >-
   and appears to be poorly researched content disguised as a comprehensive
   review.
 image_alt: Luxury charcoal SUV parked outside modern architecture at blue hour
+topics:
+  - Reviews
 ---
 ## Genesis GV80 3.5T Prestige Overview
 

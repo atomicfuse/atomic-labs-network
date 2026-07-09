@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Hazmat officials approach a black liquid seeping from a meteorite on a humid
   tropical roadside.
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 In a story that has gripped the attention of the internet, a man in Panama has provided a chilling update regarding an alien entity he discovered inside a meteorite. What began as an intriguing discovery has now escalated into a situation of extraordinary proportions, captivating followers worldwide.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   A tense campaign room with scattered papers, glowing phones, and fragmented
   silhouettes in a cracked mirror.
+topics:
+  - Odd News
 ---
 ## Internal Warfare Erupts in Far-Right Circles
 

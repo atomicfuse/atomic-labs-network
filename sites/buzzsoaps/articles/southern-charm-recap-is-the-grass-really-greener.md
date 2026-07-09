@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   A moody Charleston garden party table hints at secrets and social tension
   after dark.
+topics:
+  - Watch
 ---
 
 In the latest installment of the reality TV series "Southern Charm," tension and drama continue to simmer among the cast, bringing viewers into the heart of Charleston's high-society conflicts. As friendships are tested and secrets unveiled, the show delivers another captivating episode that leaves fans eager for more.

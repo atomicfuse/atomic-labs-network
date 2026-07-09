@@ -36,6 +36,9 @@ seo:
 image_alt: >-
   Healthy foods, supplements, and a stethoscope on a sunlit table suggesting
   heart wellness choices.
+topics:
+  - Nutrition
+  - Wellness
 ---
 
 As people become increasingly conscious of their health, dietary supplements have surged in popularity, promising to enhance heart health and overall well-being. However, the effectiveness of these supplements is often debated. Understanding their role in cardiovascular health can help individuals make informed decisions about integrating them into their daily routines.

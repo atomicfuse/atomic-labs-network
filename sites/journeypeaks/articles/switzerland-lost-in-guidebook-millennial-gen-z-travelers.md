@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Young traveler overlooks a quiet Swiss lakeside village and alpine valley at
   golden hour.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Switzerland Embraces Next-Generation Travel with New Guidebook
 

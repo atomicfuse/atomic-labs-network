@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Elegant layered salon with chandelier, library wall, luxury bar, and courtyard
   glimpse
+topics:
+  - Latest News
 ---
 ## Global Designers Transform Chelsea Harbour Showcase
 

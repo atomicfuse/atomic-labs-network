@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   A cracked retro game device projects a glitching pixel fantasy world above
   scattered manuals and notes.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## A Different Kind of RPG Remake
 

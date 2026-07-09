@@ -53,6 +53,9 @@ quality_note: >-
 image_alt: >-
   Tense couples face two TV host silhouettes on a dramatic tropical island at
   dusk.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Britain's Got Talent's star judge, Amanda Holden, will be taking on a new role as she co-hosts a fresh Netflix series centered around relationships. The show, titled 'Prize Island', is set to take couples on a wild ride, compelling them to work together against the odds to secure glorious victories.

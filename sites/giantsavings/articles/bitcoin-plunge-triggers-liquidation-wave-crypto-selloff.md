@@ -1,9 +1,12 @@
 ---
 title: Bitcoin Plunge Triggers $1.2B Crypto Liquidation Wave
-description: Bitcoin fell below $63,000 triggering $1.12 billion in liquidations as crypto markets face significant volatility amid broader investor rotation and macro...
+description: >-
+  Bitcoin fell below $63,000 triggering $1.12 billion in liquidations as crypto
+  markets face significant volatility amid broader investor rotation and
+  macro...
 type: standard
 status: published
-publishDate: 2026-06-05
+publishDate: 2026-06-05T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -13,7 +16,8 @@ tags:
   - market volatility
 slug: bitcoin-plunge-triggers-liquidation-wave-crypto-selloff
 reviewer_notes: Approved via review queue.
-source_url: https://news.bitcoin.com/1-2b-liquidated-as-bitcoin-tests-62-5k-support-amid-sharp-crypto-selloff/
+source_url: >-
+  https://news.bitcoin.com/1-2b-liquidated-as-bitcoin-tests-62-5k-support-amid-sharp-crypto-selloff/
 source_item_id: 6a20f842ad9a1dd21ebb673f
 generated_by: claude
 featuredImage: /assets/images/bitcoin-plunge-triggers-liquidation-wave-crypto-selloff.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: This cryptocurrency article is completely off-topic for a personal finance savings site, contains fabricated future data claims, and lacks proper SEO optimization for the target audience.
+quality_note: >-
+  This cryptocurrency article is completely off-topic for a personal finance
+  savings site, contains fabricated future data claims, and lacks proper SEO
+  optimization for the target audience.
 reading_time: 3
-image_alt: Abstract crypto market crash visual with red downward trails and fractured digital coin forms
+image_alt: >-
+  Abstract crypto market crash visual with red downward trails and fractured
+  digital coin forms
+topics:
+  - Smart Shopping
 ---
 ## Massive Liquidation Event Rocks Crypto Markets
 

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Person with natural glowing skin beside a minimalist vanity with reusable
   skincare bottles and a plant.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In recent years, the beauty industry has shifted towards simplicity, with 'skinimalism' emerging as a powerful trend. This approach emphasizes minimalism in skincare routines, advocating for fewer products and more natural beauty. As consumers become increasingly aware of the impact of excessive product use on their skin and the environment, skinimalism offers a refreshing alternative that promises both efficiency and sustainability.

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Styled Jamaican coffee ingredients with savory bites, dessert, beans, spices,
   and coffee glaze.
+topics:
+  - Coffee News
 ---
 
 Jamaican coffee, renowned for its rich flavor and premium quality, is experiencing a renaissance as it finds new and creative uses in the culinary world. Known globally for its unique taste, Jamaican coffee is increasingly becoming a key ingredient in diverse culinary creations, thus broadening its appeal and market reach.

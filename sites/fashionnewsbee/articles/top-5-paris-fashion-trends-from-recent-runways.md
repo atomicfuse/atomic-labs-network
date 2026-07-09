@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Fashion model in bold layered winter styling inside a softly lit Parisian
   atelier
+topics:
+  - Fashion
 ---
 
 The excitement of Paris Fashion Week never fails to captivate the global audience, and the Autumn/Winter 2026 showcase was no exception. This year's runway brought a fresh perspective on timeless styles, with designers pushing the boundaries of creativity and innovation. As we dive into the exhilarating world of haute couture, let's explore the standout trends that defined this iconic event.

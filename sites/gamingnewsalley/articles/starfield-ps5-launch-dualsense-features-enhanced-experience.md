@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   Astronaut facing a glowing controller hologram beneath a dramatic star-filled
   sky
+topics:
+  - Gaming News
+  - Console Games
 ---
 ## Starfield Makes Its PlayStation Debut
 

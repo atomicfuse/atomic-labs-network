@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Clinician interacts with abstract medical holograms symbolizing future
   healthcare breakthroughs.
+topics:
+  - Research
+  - Drugs
 ---
 
 As we step further into the 21st century, medical advancements are not just hopes and dreams but are becoming our reality. From unparalleled progress in gene therapy to innovative advancements in nanobot technology, the health sector is poised to revolutionize the way we manage and treat diseases. Let's dive into some of the promising medical breakthroughs we can expect to see in 2024.

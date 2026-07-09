@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Parent and child share a quiet, focused moment together in a cozy softly lit
   bedroom.
+topics:
+  - Parenting
 ---
 ## What Is the 7-7-7 Parenting Rule?
 

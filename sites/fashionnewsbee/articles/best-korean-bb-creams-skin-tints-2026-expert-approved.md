@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Models with dewy skin beside unbranded skin tint tubes on a warm neutral
   studio set
+topics:
+  - Beauty
 ---
 ## K-Beauty BB Creams Make a Major Comeback
 

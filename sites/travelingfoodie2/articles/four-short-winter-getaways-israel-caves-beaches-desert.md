@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Hikers follow a scenic winter trail blending Israeli coast, green hills, cave,
   and desert views.
+topics:
+  - Destination Guides
 ---
 ## Winter: The Perfect Season for Israeli Adventures
 

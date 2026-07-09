@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish anonymous couple holding hands on a blurred New York street with
   paparazzi flashes.
+topics:
+  - Celebrities
 ---
 ## New Romance Alert in the Big Apple
 

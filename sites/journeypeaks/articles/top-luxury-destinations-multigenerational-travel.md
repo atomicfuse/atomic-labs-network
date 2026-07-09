@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Multigenerational family relaxing on a luxury terrace overlooking ocean and
   sunlit cliffs
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Rise of Multigenerational Luxury Travel
 

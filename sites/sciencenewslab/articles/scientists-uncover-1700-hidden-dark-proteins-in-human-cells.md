@@ -36,6 +36,8 @@ quality_note: >-
   than the site's core topics of Space, Nature, Physics, Technology, and
   Environment.
 image_alt: Glowing protein-like forms emerge from a dark abstract human cell interior.
+topics:
+  - Space
 ---
 
 Scientists have uncovered a surprisingly large hidden layer of human biology: more than 1,700 previously overlooked proteins produced inside human cells. These elusive molecules, often described as dark proteins, come from genetic regions once thought to be silent or unimportant. The discovery expands the known human proteome and could reshape how researchers study disease, immunity, cancer, and drug development.

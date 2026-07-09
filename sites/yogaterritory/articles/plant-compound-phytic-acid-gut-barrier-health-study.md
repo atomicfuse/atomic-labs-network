@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Plant-based foods arranged around an abstract glowing barrier on a rustic
   tabletop
+topics:
+  - Wellness
 ---
 ## Reframing a Misunderstood Plant Compound
 

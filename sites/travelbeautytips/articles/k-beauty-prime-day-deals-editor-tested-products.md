@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Unbranded K-beauty skincare products arranged on a warm beige vanity in soft
   natural light.
+topics:
+  - Beauty Tips
 ---
 ## Early Prime Day Savings on K-Beauty Favorites
 

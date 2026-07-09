@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Urban playground scene with children, toys, and an unbranded luxury bag
   suggesting childhood status pressure.
+topics:
+  - Parenting
+  - Children’s Health
 ---
 ## When Brand Names Become Playground Currency
 

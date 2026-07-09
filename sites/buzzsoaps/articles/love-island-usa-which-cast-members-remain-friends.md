@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Friends share a warm laugh beside a glowing pool at a tropical villa after
   sunset.
+topics:
+  - Watch
 ---
 
 Reality TV shows have become a cornerstone of modern entertainment, captivating audiences with their unique blend of drama, romance, and competition. Among these, "Love Island USA" stands out not just for its romantic escapades but also for the genuine friendships that form amidst the romantic chaos. The show's seventh season was particularly notable for how these friendships developed, creating bonds that sometimes outshone the romantic relationships themselves.

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Soccer field connected to global skylines, symbolizing investment in women’s
   football
+topics:
+  - Latest News
 ---
 
 The landscape of women's soccer is undergoing a transformative shift as the National Women's Soccer League (NWSL) and the Women's Super League (WSL) attract significant investments. This surge in financial backing is set to redefine the boundaries and opportunities within the sport, promising a new era of growth and global competitiveness.

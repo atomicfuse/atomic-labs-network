@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Private tropical villa terrace with infinity pool at dusk overlooking the
   Pacific
+topics:
+  - Travel
+  - Destinations
 ---
 ## The Rise of Private Villa Luxury
 

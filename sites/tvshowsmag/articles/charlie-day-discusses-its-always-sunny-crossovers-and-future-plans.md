@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Moody empty dive bar table with five stools, scattered props, and sunlight
   through dusty blinds.
+topics:
+  - TV News
 ---
 
 "It's Always Sunny in Philadelphia" continues to captivate audiences with its unique blend of humor and irreverence. As the show approaches its 17th season, fans eagerly anticipate what antics the gang will embark on next. The show's enduring popularity can be attributed to its fearless comedy and the chemistry among its cast members, who have become synonymous with their quirky characters.

@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Crispy golden moong dal pakode served with chutney and chai on a warm kitchen
   counter.
+topics:
+  - Healthy Recipes
 ---
 ## The Perfect Pakode: A Chef's Guide to Crispy Perfection
 

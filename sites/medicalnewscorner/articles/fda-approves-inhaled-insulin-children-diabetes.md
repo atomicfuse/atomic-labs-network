@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Teen at a sunny breakfast table holds a small insulin inhaler with a
   supportive parent nearby.
+topics:
+  - Health News
 ---
 ## Breakthrough Treatment Expands Pediatric Options
 

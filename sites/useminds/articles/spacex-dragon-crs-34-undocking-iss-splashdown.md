@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Unbranded cargo capsule leaves a space station above Earth, suggesting science
   returning from orbit.
+topics:
+  - Space & The Unknown
 ---
 ## Dragon Departs the ISS After CRS-34 Mission
 

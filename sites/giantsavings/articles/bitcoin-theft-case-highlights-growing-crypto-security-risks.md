@@ -1,9 +1,11 @@
 ---
 title: Bitcoin Theft Case Highlights Growing Crypto Security Risks
-description: Federal case involving bitcoin robbery and kidnapping plot reveals how digital wealth creates physical security risks for crypto holders.
+description: >-
+  Federal case involving bitcoin robbery and kidnapping plot reveals how digital
+  wealth creates physical security risks for crypto holders.
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -13,10 +15,12 @@ tags:
   - financial crime
 slug: bitcoin-theft-case-highlights-growing-crypto-security-risks
 reviewer_notes: Approved via review queue.
-source_url: https://news.bitcoin.com/massive-bitcoin-theft-case-draws-guilty-plea-in-violent-kidnapping-plot/
+source_url: >-
+  https://news.bitcoin.com/massive-bitcoin-theft-case-draws-guilty-plea-in-violent-kidnapping-plot/
 source_item_id: 6a2f78c232676a5c75e45145
 generated_by: claude
-featuredImage: /assets/images/bitcoin-theft-case-highlights-growing-crypto-security-risks.webp
+featuredImage: >-
+  /assets/images/bitcoin-theft-case-highlights-growing-crypto-security-risks.webp
 quality_score: 34
 score_breakdown:
   seo_quality: 25
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: Article covers cryptocurrency crime which is off-topic for a personal finance savings site, lacks proper SEO optimization, and doesn't align with the site's focus areas of budgeting and saving tips.
+quality_note: >-
+  Article covers cryptocurrency crime which is off-topic for a personal finance
+  savings site, lacks proper SEO optimization, and doesn't align with the site's
+  focus areas of budgeting and saving tips.
 reading_time: 3
-image_alt: Hardware wallet and rope on a dim garage floor with a shadowed luxury car behind them
+image_alt: >-
+  Hardware wallet and rope on a dim garage floor with a shadowed luxury car
+  behind them
+topics:
+  - Smart Shopping
 ---
 ## Federal Case Reveals Violent Side of Crypto Crime
 

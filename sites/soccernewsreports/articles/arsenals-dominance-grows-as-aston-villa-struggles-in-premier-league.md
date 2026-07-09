@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Footballers contest a dramatic set-piece under floodlights as defenders
   scramble in the box.
+topics:
+  - Latest News
 ---
 
 The Premier League continues to thrill fans with its unpredictable outcomes and captivating storylines. As the season progresses, teams are showcasing their strengths and weaknesses, offering plenty of talking points. This week, Arsenal's mastery of set-pieces and Aston Villa's struggles have captured significant attention.

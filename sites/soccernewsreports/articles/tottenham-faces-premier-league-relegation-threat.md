@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A tense footballer stands on a rainy pitch under floodlights, suggesting a
   battle to avoid relegation.
+topics:
+  - Latest News
 ---
 
 As the Premier League season progresses, Tottenham Hotspur faces the daunting challenge of averting relegation. The team's recent performances have raised concerns among fans and analysts alike, prompting discussions about the strategies needed to ensure their survival in England's top football division.

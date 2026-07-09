@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Student guided by a glowing AI-like network of branching learning paths at a
   desk
+topics:
+  - Gadgets
+  - Tablets
 ---
 ## The Problem With Instant AI Answers
 

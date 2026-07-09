@@ -33,6 +33,8 @@ quality_note: >-
   benefit from specific sourcing.
 reading_time: 3
 image_alt: Rare yellow 1960s sports coupe under dramatic auction showroom lighting
+topics:
+  - News
 ---
 ## The Rarest Corvette Ever Made
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Diverse Pilates class in a warm boutique studio with an instructor offering
   personalized form correction.
+topics:
+  - Wellness
 ---
 ## A New Wellness Destination in Queens
 

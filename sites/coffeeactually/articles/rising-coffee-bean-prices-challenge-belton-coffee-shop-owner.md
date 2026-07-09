@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Barista weighs coffee beans beside a cup and calculator in a warmly lit local
   café.
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 Coffee lovers in Belton are feeling the impact of soaring coffee bean prices, a trend affecting local businesses as they strive to adapt to new economic pressures. For coffee shop owners, these rising costs present a challenge that demands innovative solutions to maintain their livelihood and customer satisfaction.

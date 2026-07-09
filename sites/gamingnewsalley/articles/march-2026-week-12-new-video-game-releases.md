@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A moody gaming setup surrounded by glowing abstract portals suggesting
   multiple game genres.
+topics:
+  - Gaming News
 ---
 
 The gaming landscape is set for an exciting week with a diverse range of video game releases scheduled for March 2026. Enthusiasts of various genres will find something to engage their interests, from action-packed adventures to immersive role-playing experiences. Let's explore what this week has in store for gamers.

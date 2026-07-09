@@ -33,6 +33,10 @@ quality_note: >-
   Strong tone and topic relevance but severely compromised by likely fabricated
   statistics and too-short length for target audience.
 reading_time: 3
+topics:
+  - Current Events
+  - In-Depth Analysis
+  - Policy & Politics
 ---
 ## Major Geopolitical Realignment as Europe Steps Forward
 

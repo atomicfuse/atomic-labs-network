@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   A blonde woman stands alone on a neon-lit soundstage facing distant
   spotlights.
+topics:
+  - Off Script
 ---
 
 No content was available for this article. The original source could not be retrieved, and no article text or key facts were provided to produce a recap of *Euphoria* Season 3, Episode 4.

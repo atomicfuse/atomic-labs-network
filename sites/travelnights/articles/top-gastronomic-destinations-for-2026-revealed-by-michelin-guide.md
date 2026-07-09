@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Artfully plated global dishes on an elegant table evoking culinary travel
   across continents
+topics:
+  - Destinations
+  - Food
 ---
 
 Exploring the world through its rich culinary landscapes has become an exciting way to travel. Food enthusiasts and travelers alike are always on the lookout for destinations that promise a unique gastronomic experience. The Michelin Guide, renowned for its authoritative restaurant ratings, has identified some of the best culinary hotspots to explore in 2026. These destinations not only offer exceptional food but also a chance to immerse in diverse cultural traditions.

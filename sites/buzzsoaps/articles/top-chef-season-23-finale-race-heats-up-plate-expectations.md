@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Four chefs hover over an unconventional plated dish under warm fine-dining
   lights.
+topics:
+  - Watch
 ---
 ## The Final Four Face Make-or-Break Challenges
 

@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Passenger train winding through sunlit Italian countryside with vineyards and
   distant hill towns
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Flight-free travel is moving from niche idea to mainstream holiday choice, and Italy is now a bigger part of that shift. Byway and Exodus Adventure Travels have expanded their rail partnership, giving more travellers a practical way to reach European adventure holidays without stepping onto a plane. The move strengthens rail access to Italy while connecting it with popular destinations such as France, Spain, Germany, Switzerland, Norway and Greece.

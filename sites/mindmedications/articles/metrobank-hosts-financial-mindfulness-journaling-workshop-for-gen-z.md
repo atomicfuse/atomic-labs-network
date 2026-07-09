@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Young adults journal at a sunlit table with subtle budgeting tools in a calm
   workshop setting.
+topics:
+  - Mindfulness
+  - Personal Growth
 ---
 
 In a world where financial literacy is often overlooked by the younger generation, Metrobank is taking an innovative approach to engage Gen Z in financial mindfulness. By hosting a unique journaling workshop, the bank aims to equip young individuals with the skills necessary for effective money management.

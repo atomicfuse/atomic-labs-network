@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Contrasting airplane cabin scenes showing spacious retro travel beside a
   tighter modern flying experience.
+topics:
+  - News
 ---
 ## The Golden Age Myth: Separating 1980s Flying Facts from Fiction
 

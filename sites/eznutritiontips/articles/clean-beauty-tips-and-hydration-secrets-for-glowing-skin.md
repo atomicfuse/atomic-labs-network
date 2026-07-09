@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Dewy-skinned woman in soft sunlight with water reflections and fresh
   botanicals nearby
+topics:
+  - Healthy Recipes
 ---
 
 The quest for radiant, healthy skin is unending, and understanding how to achieve it can be transformative. Many people are now turning to clean beauty and hydration practices to enhance their skincare routines. These approaches not only promise external beauty but also promote overall wellness.

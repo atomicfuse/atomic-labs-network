@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Anonymous actor in a makeup chair reflected as multiple dramatic transformed
   characters
+topics:
+  - Celebrity News
 ---
 ## The Art of Disappearing Into Character
 

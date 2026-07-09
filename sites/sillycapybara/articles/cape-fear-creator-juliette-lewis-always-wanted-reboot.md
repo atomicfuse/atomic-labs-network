@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Old CRT and modern screen glow beside an empty director’s chair in a dark
   thriller-inspired room.
+topics:
+  - Viral
 ---
 ## A Full-Circle Moment for Cape Fear
 

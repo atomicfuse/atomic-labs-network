@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Sleek electric sedan in a futuristic city with subtle light trails suggesting
   advanced technology
+topics:
+  - Electric Cars
+  - Reviews
+  - Industry
 ---
 
 The electric vehicle market is rapidly evolving, and the XPeng P7 is a standout model attracting significant attention. This sleek sedan is not just about futuristic design but also about cutting-edge technology and performance. With its growing reputation, the P7 is set to challenge other major electric cars in the industry.

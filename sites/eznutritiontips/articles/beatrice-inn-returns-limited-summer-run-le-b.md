@@ -1,9 +1,11 @@
 ---
 title: Legendary Beatrice Inn Returns for Limited Summer Run at Le B
-description: Chef Angie Mar brings back signature dishes and cocktails from the iconic 2010s NYC restaurant Beatrice Inn for a nostalgic celebration at Le B.
+description: >-
+  Chef Angie Mar brings back signature dishes and cocktails from the iconic
+  2010s NYC restaurant Beatrice Inn for a nostalgic celebration at Le B.
 type: standard
 status: published
-publishDate: 2026-06-05
+publishDate: 2026-06-05T00:00:00.000Z
 author: Ben Rivera
 tags:
   - Nutrition Myths
@@ -13,7 +15,8 @@ tags:
   - restaurant revival
 slug: beatrice-inn-returns-limited-summer-run-le-b
 reviewer_notes: Approved via review queue.
-source_url: https://www.forbes.com/sites/tonysachs/2026/06/01/one-of-the-most-fabled-nyc-restaurants-of-the-2010s-returns-briefly/
+source_url: >-
+  https://www.forbes.com/sites/tonysachs/2026/06/01/one-of-the-most-fabled-nyc-restaurants-of-the-2010s-returns-briefly/
 source_item_id: 6a1e39239bf3ecf115d981f3
 generated_by: claude
 featuredImage: /assets/images/beatrice-inn-returns-limited-summer-run-le-b.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: While well-written, this restaurant news article completely misses the site's nutrition and food/drink focus, lacks proper SEO structure, and has questionable factual claims about a restaurant revival.
+quality_note: >-
+  While well-written, this restaurant news article completely misses the site's
+  nutrition and food/drink focus, lacks proper SEO structure, and has
+  questionable factual claims about a restaurant revival.
 reading_time: 3
-image_alt: Moody New York dining room with a dry-aged burger and smoky cocktail under candlelight.
+image_alt: >-
+  Moody New York dining room with a dry-aged burger and smoky cocktail under
+  candlelight.
+topics:
+  - Nutrition Myths
 ---
 ## A Legendary NYC Restaurant Makes Its Return
 

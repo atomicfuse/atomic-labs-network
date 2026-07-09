@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Tense reunion set with empty chairs, dramatic lavender lighting, and scattered
   cue cards after a confrontation.
+topics:
+  - Hot Trends
 ---
 ## Reality TV Drama Reaches Boiling Point
 

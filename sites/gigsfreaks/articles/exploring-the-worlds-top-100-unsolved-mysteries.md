@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   A researcher studies a mysterious ship-shaped stone structure in a misty
   archaeological landscape.
+topics:
+  - Internet Mysteries
 ---
 
 In a world filled with wonders, some mysteries have resisted explanation for centuries, captivating both the curious minds of researchers and the imaginations of the public. This article explores 100 such unsolved mysteries that continue to baffle experts and enthusiasts alike.

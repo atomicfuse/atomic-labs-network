@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Dusty vintage televisions glow in a nostalgic room, suggesting forgotten
   beloved TV shows.
+topics:
+  - TV News
 ---
 
 Television has a unique way of capturing our hearts and minds, yet some beloved shows fade from collective memory over time. These forgotten gems once enthralled audiences with their captivating storylines, unique characters, and innovative formats. As we journey back through the annals of TV history, let's revisit some of these beloved but often overlooked series that deserve another moment in the spotlight.

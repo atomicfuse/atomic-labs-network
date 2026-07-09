@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Fashion buyer reviews sustainable garments in a polished showroom during a
   fashion week event
+topics:
+  - Fashion
 ---
 
 In the dynamic world of fashion, Australian Fashion Week (AFW) has emerged as a significant platform for designers and buyers alike. This event not only highlights the burgeoning talent within Australia but also serves as a critical meeting point for industry professionals worldwide. With AFW 2025 on the horizon, many are keen to see how this annual event continues to shape fashion trends and business opportunities.

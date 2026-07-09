@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Women share a warm holiday gathering with subtle safety details in a cozy
   home.
+topics:
+  - Lifestyle
 ---
 
 The holiday season is a time for joy, celebration, and gathering with loved ones. However, it also requires careful planning to ensure everyone's health and safety. With the ongoing changes in health guidelines, it's essential to stay informed and make the best decisions for your festive gatherings.

@@ -34,6 +34,8 @@ quality_note: >-
   funnypigeon's core topics like funny videos and memes.
 reading_time: 3
 image_alt: A lone figure watches a mysterious glow beyond a guarded roadside at night.
+topics:
+  - Viral
 ---
 ## A 1977 Vision That Feels Like Today's Headlines
 

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Doctor and patient review health information with soft molecular overlays
   suggesting reassuring medical research.
+topics:
+  - Research
 ---
 
 Recent research offers reassurance to those using GLP-1 receptor agonists, as these medications appear to have minimal influence on breast and thyroid cancer risk. GLP-1 receptor agonists are commonly prescribed for managing type 2 diabetes and obesity, making their safety profile a topic of significant interest among healthcare providers and patients alike.

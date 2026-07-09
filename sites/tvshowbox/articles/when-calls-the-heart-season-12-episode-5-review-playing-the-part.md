@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Period townspeople gather at dusk with hints of secrecy, romance, and
   disguise.
+topics:
+  - TV News
 ---
 
 **Critic's Rating:** 4.4 / 5.0

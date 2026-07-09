@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Sunlit wine tasting table with glasses, grapes, cheese, and hands gathered
   casually around it.
+topics:
+  - Wine for beginners
 ---
 ## Breaking Down Wine Barriers for New Enthusiasts
 

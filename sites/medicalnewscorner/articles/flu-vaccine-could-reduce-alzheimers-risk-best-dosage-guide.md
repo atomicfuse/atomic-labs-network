@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Older adult in warm sunlight with subtle vaccine and brain-health symbolism
   nearby
+topics:
+  - Research
 ---
 
 Recent research has unveiled a fascinating connection between flu vaccinations and Alzheimer's disease prevention. The study, spearheaded by experts in neurology and epidemiology, suggests that receiving an annual flu shot could significantly reduce the risk of developing Alzheimer's disease. This discovery adds a new dimension to the benefits of flu vaccines, traditionally known for their role in preventing influenza and its complications.

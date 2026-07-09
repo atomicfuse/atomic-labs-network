@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in white summer outfit carrying a bold structured red handbag in
   a sunlit courtyard.
+topics:
+  - Lifestyle
 ---
 ## Jennifer Lopez Sets the Red Bag Standard
 

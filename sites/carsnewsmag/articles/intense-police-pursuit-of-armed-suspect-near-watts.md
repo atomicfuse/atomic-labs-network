@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Emergency lights streak across a tense urban street during a nighttime police
   pursuit.
+topics:
+  - News
 ---
 
 The streets near Watts were the stage for a high-stakes drama as police engaged in a tense pursuit of a suspect potentially armed and dangerous. Such incidents are not only nerve-wracking for the communities affected but also highlight the swift response and coordination required from law enforcement agencies.

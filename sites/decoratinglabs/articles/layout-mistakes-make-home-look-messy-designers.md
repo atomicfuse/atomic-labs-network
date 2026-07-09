@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Stylish living room with crowded furniture, warm window light, bookshelves,
   and layered neutral decor.
+topics:
+  - Latest News
 ---
 ## The Hidden Culprits Behind a Messy-Looking Home
 

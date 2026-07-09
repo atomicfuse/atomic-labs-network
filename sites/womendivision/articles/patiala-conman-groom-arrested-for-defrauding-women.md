@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Handcuffs and a smartphone suggest an investigation into a matrimonial fraud
   arrest.
+topics:
+  - Advice
 ---
 
 A recent case in Punjab has shed light on a concerning scam involving a man from Patiala who allegedly posed as a groom to deceive multiple women for financial gain. This individual's fraudulent activities were aimed at supporting a luxurious lifestyle, misleading victims with false promises of marriage.

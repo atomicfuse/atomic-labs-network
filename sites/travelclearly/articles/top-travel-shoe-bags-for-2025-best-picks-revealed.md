@@ -38,6 +38,9 @@ quality_note: >-
   Good travel-focused content with excellent keyword relevance and tone, but
   significantly under target word count at 573 words instead of 800-1200.
 image_alt: Neatly packed suitcase with shoes in travel bags on a sunlit hotel bed
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Traveling often requires careful packing to ensure your belongings stay organized and protected. One of the essential items for frequent travelers is a reliable shoe bag, which helps keep footwear separate from clothing while maintaining a tidy suitcase.

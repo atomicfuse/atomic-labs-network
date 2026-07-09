@@ -34,6 +34,8 @@ quality_note: >-
   Article has strong keyword integration and relevant content but falls short on
   length and lacks specific actionable advice, making it feel vague and generic.
 image_alt: 'Radiant spring beauty scene with dewy makeup, soft florals, and warm sunlight'
+topics:
+  - Beauty Tips
 ---
 ## Transitioning Your Beauty Routine for Spring
 

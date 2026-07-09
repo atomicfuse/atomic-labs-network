@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Moody casting room with an empty director’s chair and a heroic silhouette
   behind frosted glass.
+topics:
+  - Celebrities
 ---
 
 In the dynamic world of superhero cinema, anticipation builds as DC Studios prepares for its next big release. As the universe of comic book adaptations continues to expand, fans eagerly await the next chapter of this epic saga. With James Gunn at the helm, renowned for his visionary storytelling, the excitement surrounding the latest project is palpable. Speculation is rife about which iconic characters will take center stage, promising to deliver a thrilling experience for audiences worldwide.

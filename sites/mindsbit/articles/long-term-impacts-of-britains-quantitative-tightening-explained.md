@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Abstract UK financial network with fading liquidity streams and blank bond
   shapes
+topics:
+  - Finance
+  - Innovation
+  - Tech
 ---
 
 In the dynamic world of luxury fashion, Burberry stands out as a brand with a rich heritage and a forward-thinking approach. The company’s recent financial performance reveals a complex picture, balancing strong growth in key markets with challenges in others. As Burberry navigates the evolving landscape of the global luxury market, it continues to adapt its strategies to maintain its iconic status.

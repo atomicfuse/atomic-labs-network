@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Cozy living room with blush accents, fresh flowers, candles, and soft
   spring-inspired decor.
+topics:
+  - Decor Ideas
 ---
 
 Valentine's Day is a wonderful opportunity to infuse your home with warmth and charm, celebrating love in all its forms. Even if you find yourself short on time, there are plenty of creative and simple ways to transform your space into a romantic haven. With just a few thoughtful touches, you can create an ambiance that captures the spirit of the holiday while seamlessly transitioning into spring decor.

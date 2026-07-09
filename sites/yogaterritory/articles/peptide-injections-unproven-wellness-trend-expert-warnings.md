@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Unlabeled peptide vial and syringe on a teal surface with polished clinical
   lighting
+topics:
+  - Wellness
 ---
 ## The Rise of Peptide Wellness Culture
 

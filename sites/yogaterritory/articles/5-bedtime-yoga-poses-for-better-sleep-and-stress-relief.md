@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Person doing gentle bedtime yoga in a softly lit bedroom with a phone turned
   face down nearby
+topics:
+  - Yoga Poses
 ---
 
 In today's fast-paced world, the quest for a restful night's sleep can often feel elusive. As we navigate the challenges of stress and technology-induced fatigue, many individuals are turning to holistic practices like yoga to enhance their sleep quality. Bedtime yoga asanas offer a natural remedy to unwind after a hectic day, promoting relaxation and reducing the impact of screen fatigue.

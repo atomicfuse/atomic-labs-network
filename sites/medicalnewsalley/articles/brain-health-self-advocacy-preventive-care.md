@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Confident woman surrounded by subtle neural light patterns in a calm wellness
   setting
+topics:
+  - Health News
 ---
 ## The Shift from Fear to Prevention
 

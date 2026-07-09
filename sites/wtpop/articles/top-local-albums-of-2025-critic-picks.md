@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Unlabeled records, headphones, and notes in a moody independent record shop
   setting.
+topics:
+  - Music
 ---
 
 As the music scene continues to evolve, 2025 has proven to be a remarkable year for local artists, showcasing a diverse range of talent and creativity. From experimental sounds to genre-defying beats, musicians have been pushing boundaries and captivating audiences. Here, we delve into some of the most noteworthy local albums released this year, highlighting the originality and impact these works have had on the music landscape.

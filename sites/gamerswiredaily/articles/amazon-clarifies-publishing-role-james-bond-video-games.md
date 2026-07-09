@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Cinematic spy silhouette beside a glowing digital game interface with
   converging beams of light
+topics:
+  - Gaming News
 ---
 ## Amazon Sets Record Straight on James Bond Gaming Partnership
 

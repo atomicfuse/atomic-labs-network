@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Banana-swirl dessert, fries, and colorful collectible toys on a bright
   turquoise studio backdrop.
+topics:
+  - Nutrition Tips
 ---
 ## Wendy's Teams Up with Illumination for Minions-Themed Menu
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant travel-inspired dining nook with burgundy chairs, brass lighting, art,
   and collected decor.
+topics:
+  - Tips & Advice
 ---
 ## The Rise of Travel-Inspired Interior Design
 

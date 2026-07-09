@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   A playful birthday-inspired dessert sandwich with sprinkles and candles on a
   pastel tabletop
+topics:
+  - Finance
+  - Innovation
+  - Tech
 ---
 
 The digital transformation of the financial services industry is accelerating, driven by a combination of regulatory changes and technological advancements. Financial institutions are now more focused than ever on innovation to stay competitive and meet evolving customer expectations.

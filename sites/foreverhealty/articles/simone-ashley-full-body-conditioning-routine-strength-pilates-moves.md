@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Athletic woman training in a polished studio with strength and Pilates
   equipment around her.
+topics:
+  - Fitness & Movement
 ---
 ## Celebrity Fitness Trends Drive Performance-Focused Training
 

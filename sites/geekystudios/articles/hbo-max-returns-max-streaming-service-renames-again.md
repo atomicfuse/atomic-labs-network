@@ -40,6 +40,9 @@ quality_note: >-
   rebranding timeline and has a title that may mislead about HBO Max 'returning'
   when it's actually about the Max rebrand.
 image_alt: Glowing abstract streaming interface on a TV in a modern living room at night
+topics:
+  - Tech
+  - Trends
 ---
 
 The streaming landscape is constantly evolving, and one of the latest shifts involves one of the industry's biggest players. Formerly known as HBO Max, the service has undergone a significant rebranding effort. This transformation not only involves a change in name but also encompasses a broader strategy aimed at redefining its content offerings and market position.

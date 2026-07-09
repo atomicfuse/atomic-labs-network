@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Homeowner thoughtfully studies a lived-in room with renovation samples in warm
   morning light.
+topics:
+  - Expert Guides
 ---
 
 Living in a home before undertaking renovations can be a game-changer for homeowners. It offers invaluable insights into the property's quirks and charm, allowing for a more informed and successful renovation process. Understanding how a space functions with daily activities can significantly influence design decisions and ensure the final outcome meets the needs and lifestyle of its inhabitants.

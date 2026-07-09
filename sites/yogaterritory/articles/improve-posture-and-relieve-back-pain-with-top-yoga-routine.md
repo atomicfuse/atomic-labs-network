@@ -43,6 +43,8 @@ quality_note: >-
   the target word count at only 506 words, which severely impacts its overall
   quality score.
 image_alt: 'Person practicing gentle yoga in a sunlit room with calm, upright posture.'
+topics:
+  - Yoga Poses
 ---
 
 Poor posture and upper back pain are common issues in today's digital age, where many spend hours hunched over devices. Addressing these problems can significantly enhance one's quality of life. A popular yoga instructor has developed a routine specifically targeting these concerns, offering a refreshing approach to alleviate discomfort and improve posture.

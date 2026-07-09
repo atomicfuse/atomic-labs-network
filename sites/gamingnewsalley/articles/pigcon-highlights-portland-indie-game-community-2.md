@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Indie game creators gather around a glowing booth with retro monitors and
   handmade controllers.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## Portland's Indie Game Scene Takes Center Stage
 

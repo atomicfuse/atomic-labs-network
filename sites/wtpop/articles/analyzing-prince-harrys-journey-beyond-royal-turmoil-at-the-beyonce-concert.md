@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Introspective man in a concert box amid blurred crowds and dramatic stage
   lights
+topics:
+  - Celebrities
+  - Influencers
 ---
 
 The weekend was buzzing with news about Prince Harry and Meghan Markle, sparking curiosity and debate about their current standing and future moves. Amidst this whirlwind of events, attention was drawn to Prince Harry's attendance at a Beyonce concert, an outing that raised questions about his support system and his ability to move beyond the royal drama.

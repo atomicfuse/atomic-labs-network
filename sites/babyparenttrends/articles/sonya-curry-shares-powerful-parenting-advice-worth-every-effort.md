@@ -45,6 +45,8 @@ quality_note: >-
   parenting themes using Sonya Curry's example, though could benefit from
   slightly stronger SEO optimization in the title and meta description.
 image_alt: Parent gently guiding children during a calm morning routine at home
+topics:
+  - Parenting
 ---
 
 Sonya Curry, the mother of Stephen Curry, has become a respected voice for parents because her guidance reaches far beyond basketball. While many know her as the woman who helped raise one of the greatest NBA players ever, her message is rooted in everyday discipline, patience, faith, and consistency. Her approach offers a powerful reminder that strong parenting is not about creating perfect children. It is about showing up, setting standards, and helping young people grow into grounded adults.

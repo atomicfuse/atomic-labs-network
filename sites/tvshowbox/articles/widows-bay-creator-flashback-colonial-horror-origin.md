@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Colonial figure in a candlelit room as eerie mushrooms spread across the
   floorboards.
+topics:
+  - TV News
 ---
 ## A Genre-Bending Flashback That Changes Everything
 

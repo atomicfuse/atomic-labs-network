@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Employees with blank protest signs stand outside a modern corporate office on
   an overcast day.
+topics:
+  - Tech
 ---
 
 In a significant development, Microsoft recently dismissed two employees related to a protest incident at its Redmond campus. This action highlights the company's response to internal disagreements and the larger implications for corporate culture and employee activism. The incident has drawn attention to how major tech companies navigate internal dissent and manage their public image.

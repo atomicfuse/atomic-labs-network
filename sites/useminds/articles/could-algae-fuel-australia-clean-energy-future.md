@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Green algae bioreactors against an Australian outback horizon with a distant
   aircraft silhouette
+topics:
+  - Mind-Blowing Science
 ---
 ## The Quiet Revolution in Australia's Fuel Crisis
 

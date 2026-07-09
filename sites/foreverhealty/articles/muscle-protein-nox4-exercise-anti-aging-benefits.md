@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Older adult exercising in soft light with subtle molecular patterns suggesting
   healthy muscle aging
+topics:
+  - Fitness & Movement
+  - Healthy Aging
 ---
 ## The Muscle Connection to Longevity
 

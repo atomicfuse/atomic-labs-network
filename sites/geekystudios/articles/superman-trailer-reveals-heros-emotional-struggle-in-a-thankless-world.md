@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A lone caped hero stands on a rainy rooftop above a city at dawn, caught
   between shadow and light.
+topics:
+  - Pop Culture
 ---
 
 In an exciting development for superhero enthusiasts, the latest Superman trailer directed by James Gunn promises to bring a fresh perspective to the iconic character, blending classic elements with innovative storytelling. Fans can expect a blend of action, emotion, and a deeper exploration of Superman's origins and challenges.

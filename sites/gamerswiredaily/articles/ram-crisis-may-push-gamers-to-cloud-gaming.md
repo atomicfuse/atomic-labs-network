@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Gamer at an aging PC facing a glowing cloud server skyline in cinematic blue
   light
+topics:
+  - Gaming News
 ---
 
 The gaming industry is witnessing a shift towards cloud-based platforms, driven by the scarcity of RAM and its rising costs. As traditional hardware becomes more expensive, players are looking at alternatives such as cloud gaming to fulfill their needs. This transition is not without its challenges, but it offers new opportunities for gamers worldwide.

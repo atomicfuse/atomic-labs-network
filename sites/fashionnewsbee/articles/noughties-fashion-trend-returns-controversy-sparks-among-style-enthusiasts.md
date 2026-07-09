@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Fashion insiders examine a sleek body-hugging dress in a polished modern
   studio setting.
+topics:
+  - Fashion
 ---
 
 The fashion world is no stranger to the cyclical nature of trends, and one such iconic style making a notable return is the bandage dress. Known for its figure-hugging design and popularized in the early 2000s, this garment is again capturing the attention of trendsetters and fashion aficionados worldwide.

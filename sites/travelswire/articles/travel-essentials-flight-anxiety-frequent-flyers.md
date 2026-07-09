@@ -31,6 +31,8 @@ quality_note: >-
   Good travel tips content with strong keyword relevance but suffers from being
   too short and vague claims that weaken credibility.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## The Reality of Frequent Travel Anxiety
 

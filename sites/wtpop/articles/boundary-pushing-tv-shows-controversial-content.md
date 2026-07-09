@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   A dramatic studio set with a pink chair, glowing TVs, and microphones under
   blue-black spotlights.
+topics:
+  - TV & Movies
 ---
 ## The Art of Television Controversy
 

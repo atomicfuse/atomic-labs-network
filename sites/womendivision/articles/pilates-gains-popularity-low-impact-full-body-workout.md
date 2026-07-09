@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Pilates participants practice controlled low-impact movements in a bright
   boutique fitness studio.
+topics:
+  - Fitness
 ---
 ## The Growing Appeal of Pilates
 

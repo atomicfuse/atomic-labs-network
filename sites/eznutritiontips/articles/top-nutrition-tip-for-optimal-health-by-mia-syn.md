@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Colorful whole foods and water arranged on a sunlit kitchen table for balanced
   nutrition.
+topics:
+  - Healthy Recipes
 ---
 
 Staying healthy is a goal many strive for, yet achieving it often seems elusive. One effective approach to maintaining wellness is to focus on nutrition, the cornerstone of a balanced lifestyle. By making informed dietary choices, individuals can significantly enhance their overall health and vitality.

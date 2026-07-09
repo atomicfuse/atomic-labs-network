@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Pregnant woman in her late 30s standing peacefully by a bright window in a
   calm home setting.
+topics:
+  - Advice
+  - Lifestyle
 ---
 
 More women are choosing to become mothers in their mid-30s, late 30s and even their 40s. Career goals, financial planning, later marriages and access to fertility care have changed the timing of parenthood. While many women have healthy pregnancies at an older age, doctors often stress one important point: preparation matters more than ever.

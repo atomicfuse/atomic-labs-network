@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Researchers collaborate in a modern medical lab with a cannabis specimen under
   glass.
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 The state of Massachusetts is taking significant steps to advance medical research on cannabis by establishing a dedicated research center. This initiative is expected to harness the potential benefits of cannabis through scientific exploration, addressing both medical and social implications. By bringing scientific rigor to cannabis studies, the state aims to lead in understanding how cannabis can be safely and effectively used in medical treatments.

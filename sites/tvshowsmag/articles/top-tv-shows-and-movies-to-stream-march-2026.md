@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Cozy living room lit by a glowing blank screen with cinematic colors
   suggesting varied streaming genres.
+topics:
+  - TV News
 ---
 
 As the calendar turns to March 2026, streaming platforms are presenting an exciting array of new TV shows and movies. With options ranging from thrilling dramas to light-hearted comedies, there is something for every viewer to enjoy. This month, audiences can indulge in the latest releases that promise to entertain and captivate.

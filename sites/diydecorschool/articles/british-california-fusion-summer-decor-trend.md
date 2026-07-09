@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Airy summer kitchen blending British refinement with coastal textures and
   California indoor-outdoor ease.
+topics:
+  - Expert Guides
 ---
 ## The Rise of Travel-Inspired Summer Decorating
 

@@ -37,6 +37,8 @@ quality_note: >-
   engaging tone expected for travel enthusiasts and makes unsupported
   statistical claims without proper sourcing.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## A Troubling Decline in US Tourism
 

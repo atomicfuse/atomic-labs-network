@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Cinematic red carpet premiere scene in London with dramatic fantasy-inspired
   lighting and silhouetted guests.
+topics:
+  - TV & Movies
 ---
 ## Star-Studded London Event Marks Season 3 Launch
 

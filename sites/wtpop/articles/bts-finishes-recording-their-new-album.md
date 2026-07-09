@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Empty recording studio with microphones and glowing console lights after a
   late-night album session.
+topics:
+  - Celebrities
 ---
 
 South Korea is making strides in the defense sector by enhancing its naval capabilities. Recently, the country launched a new advanced submarine, which showcases cutting-edge technology and reflects strategic defense priorities. This development is part of a broader initiative to bolster maritime security and cement South Korea's position as a formidable naval force in the region.

@@ -34,6 +34,8 @@ quality_note: >-
   optimization in title length and heading structure.
 reading_time: 3
 image_alt: 'Diverse people practice personalised yoga styles in a calm, sunlit studio.'
+topics:
+  - Fitness
 ---
 ## Why Your Yoga Practice Should Be Personal
 

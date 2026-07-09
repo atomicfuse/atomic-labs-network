@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Football fans with luggage head through a sunlit airport terminal before a
   championship trip.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 As New England Patriots fans eagerly anticipate their journey to Super Bowl LX at Levi's Stadium, planning ahead is essential to ensure a smooth and enjoyable travel experience. Whether you're a seasoned traveler or heading to the game for the first time, understanding the nuances of air travel can make your trip memorable for all the right reasons.

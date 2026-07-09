@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Yellow diamond ring displayed with colorful fine jewelry under elegant auction
   lighting.
+topics:
+  - Lifestyle
 ---
 ## High-End Jewelry Takes Center Stage at Bonhams
 

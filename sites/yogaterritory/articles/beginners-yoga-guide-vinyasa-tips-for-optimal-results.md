@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Beginner practicing yoga in a calm sunlit studio with soft natural light and
   greenery.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is more than just a physical exercise; it's a holistic practice that nurtures both the body and mind. Regular engagement in yoga can lead to enhanced flexibility, improved mental clarity, and a strengthened body. Whether you're a seasoned yogi or a beginner, understanding the optimal frequency of practice can maximize these benefits.

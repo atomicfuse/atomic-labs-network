@@ -33,6 +33,8 @@ quality_note: >-
   factual accuracy.
 reading_time: 4
 image_alt: Solitary man in a dark coat on a rainy London street at dusk
+topics:
+  - Celebrities
 ---
 Prince Harry made a notable trip across the Atlantic — and this time, he went alone. The Duke of Sussex traveled to London without Meghan Markle or their two children, Archie and Lilibet, sparking fresh conversation among royal watchers and fans who've been closely following the family's complicated relationship with the UK.
 

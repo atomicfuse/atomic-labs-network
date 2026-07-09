@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Retro spacious airplane cabin reflected beside a cramped modern cabin in an
   airport window.
+topics:
+  - Travel
+  - Travel Tips
 ---
 ## The Golden Age That Wasn't (Quite) Golden
 

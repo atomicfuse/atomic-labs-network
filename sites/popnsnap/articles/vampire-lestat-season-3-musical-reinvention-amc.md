@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Blond vampire rock performer on a gothic concert stage under amber and violet
   lights
+topics:
+  - Music
+  - TV & Movies
 ---
 ## From Gothic Drama to Rock Opera
 

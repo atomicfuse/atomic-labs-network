@@ -33,6 +33,10 @@ quality_note: >-
   describing the five poses mentioned in the title.
 reading_time: 3
 image_alt: Person practicing a subtle standing stretch in a busy everyday space
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Wellness
 ---
 ## Making Yoga Work for Real Life
 

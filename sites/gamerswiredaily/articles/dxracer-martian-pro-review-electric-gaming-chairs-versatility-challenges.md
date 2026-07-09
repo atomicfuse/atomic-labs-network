@@ -45,6 +45,8 @@ quality_note: >-
   count (426 vs 800-1200 target) and could better integrate gaming-specific
   keywords beyond just 'gaming chair review'.
 image_alt: Futuristic gaming chair in a moody neon-lit room with subtle tech reflections
+topics:
+  - Gaming News
 ---
 
 In the world of gaming chairs, the DXRacer Martian Pro Electric model attempts to offer a blend of modern technology and comfort. This chair aims to stand out in a crowded market with its unique features. However, the question remains: does it deliver the value expected from its price point?

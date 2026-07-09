@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A lonely man kneels in a ruined library beside broken glasses and scattered
   books.
+topics:
+  - TV & Movies
 ---
 ## A Classic That Still Sparks Debate
 

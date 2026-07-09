@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Professional woman applying subtle makeup before a job interview in soft
   morning light
+topics:
+  - Travel Tips
+  - Beauty Tips
+  - Packing Guides
 ---
 
 Preparing for a job interview involves more than just rehearsing your answers. Your appearance can significantly impact your overall presentation, and makeup plays a crucial role in conveying professionalism and confidence. In this guide, we will explore effective makeup techniques that can enhance your natural beauty while projecting a polished image in any job interview setting.

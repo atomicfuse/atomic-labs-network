@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Woman in morning light with tea, yoga mat, and fruit suggesting balanced
   midlife self-care.
+topics:
+  - Health News
 ---
 
 Perimenopause can feel confusing because it rarely starts with one clear signal. Periods may shift, sleep may become lighter, and hot flashes can appear without warning. This transition is a normal stage before menopause, but that does not mean people have to simply endure it. With the right perimenopause management plan, diet, exercise, sleep habits, and medical care can reduce symptoms and protect long-term health.

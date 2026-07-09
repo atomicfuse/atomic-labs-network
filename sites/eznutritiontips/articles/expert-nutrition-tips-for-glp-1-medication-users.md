@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Balanced meal, water, and unbranded medication pen on a bright modern kitchen
   counter
+topics:
+  - Nutrition Tips
 ---
 
 # GLP-1 Medications and Nutrition

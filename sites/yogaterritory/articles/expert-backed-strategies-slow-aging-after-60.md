@@ -32,6 +32,8 @@ quality_note: >-
   yogaterritory's focus on yoga, meditation, and yoga-specific content.
 reading_time: 3
 image_alt: Active older adult climbing sunlit outdoor steps with wellness items nearby
+topics:
+  - Wellness
 ---
 ## The Science Behind Aging After 60
 

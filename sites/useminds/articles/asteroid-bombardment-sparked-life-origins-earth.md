@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Primordial fractured Earth glows with hydrothermal vents beneath a sky
   streaked by distant asteroids.
+topics:
+  - Mind-Blowing Science
 ---
 ## When Cosmic Violence Created Life's Cradle
 

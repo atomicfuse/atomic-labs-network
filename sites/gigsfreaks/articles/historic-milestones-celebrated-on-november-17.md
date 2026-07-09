@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Symbolic historical artifacts on a warmly lit archive table representing
   milestones in music, science, and politics.
+topics:
+  - Hot Trends
 ---
 
 On this day in history, notable events across the globe have shaped various cultural, scientific, and political landscapes, leaving a lasting impact on society. From influential music releases to significant scientific achievements, November 17th holds a treasure trove of fascinating milestones worth exploring.

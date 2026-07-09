@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Modern off-road SUV on a mountain trail at golden hour, suggesting rugged
   comfort and adventure.
+topics:
+  - Reviews
 ---
 
 Toyota's Land Cruiser has long been synonymous with durability and off-road prowess. The latest edition continues this legacy, offering both modern amenities and the rugged performance enthusiasts expect. In this article, we delve into the features and capabilities that make the Toyota Land Cruiser 2.8 D-4D 204 First Edition a standout choice for adventure seekers.

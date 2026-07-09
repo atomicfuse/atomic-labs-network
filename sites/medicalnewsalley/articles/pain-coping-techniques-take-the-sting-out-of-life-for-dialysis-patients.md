@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Dialysis patient rests calmly in a bright clinic, suggesting pain relief
   through coping skills.
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 A new clinical study has revealed promising results for dialysis patients suffering from chronic pain. U.S. Kidney doctors say these results suggest that behavioural training could offer a non-drug alternative to traditional pain management.

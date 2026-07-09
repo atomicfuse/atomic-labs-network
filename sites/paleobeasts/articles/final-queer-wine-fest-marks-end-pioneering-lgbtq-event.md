@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Diverse adults share a sunset wine toast at a vineyard table with subtle
   rainbow accents.
+topics:
+  - Nutrition
 ---
 ## A Historic Final Pour
 

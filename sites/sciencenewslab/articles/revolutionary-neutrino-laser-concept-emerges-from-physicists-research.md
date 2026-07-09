@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   A ghostly blue particle beam cuts through translucent matter in a futuristic
   research chamber.
+topics:
+  - Physics
+  - Technology
 ---
 
 In a groundbreaking development that seems to leap from the pages of science fiction, physicists have introduced a concept that could revolutionize our understanding of energy and particle physics. By proposing a laser system that uses neutrinos instead of traditional photons, this innovation promises to unlock new realms in physics research and technology.

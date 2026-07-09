@@ -32,6 +32,8 @@ quality_note: >-
   Well-written article with good tone and accuracy, but significantly under
   target word count at 421 words instead of 800-1200.
 image_alt: Connected car navigating a city intersection with glowing V2X network signals
+topics:
+  - News
 ---
 ## Massachusetts Advances Connected Vehicle Technology
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Protein-rich plant-forward breakfast beside hand weights on a bright morning
   table.
+topics:
+  - Coffee News
 ---
 ## The Breakfast That Wasn't Enough
 

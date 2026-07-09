@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Active woman over 50 preparing a colorful high-protein breakfast in a bright
   kitchen
+topics:
+  - Nutrition Tips
 ---
 ## The Breakfast Gap for Women Over 50
 

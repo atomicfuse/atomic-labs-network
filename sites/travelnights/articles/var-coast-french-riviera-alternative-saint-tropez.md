@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Quiet turquoise Mediterranean cove framed by pine trees and a coastal path on
   the Var Coast.
+topics:
+  - Destinations
 ---
 ## A Hidden Gem on the Mediterranean
 

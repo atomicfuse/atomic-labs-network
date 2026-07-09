@@ -35,6 +35,8 @@ quality_note: >-
   concerns.
 reading_time: 3
 image_alt: People stretch in a bright wellness studio as a puppy and cat wander nearby.
+topics:
+  - Fitness & Movement
 ---
 ## When Workouts Meet Entertainment
 

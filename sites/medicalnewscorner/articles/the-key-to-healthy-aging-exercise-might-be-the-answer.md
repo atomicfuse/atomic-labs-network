@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Older adult walking on a sunlit park path, conveying vitality and healthy
   aging.
+topics:
+  - Research
 ---
 
 _**Despite overwhelming benefits, physical activity remains underutilized in clinical care for older adults.**_

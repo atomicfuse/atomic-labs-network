@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Sunlit front room with warm decor, layered textures, greenery, and inviting
   modern furniture.
+topics:
+  - Expert Guides
 ---
 
 Decorating a new house can be an exciting yet daunting task. With endless possibilities for design and decor, it's essential to find a style that reflects your personality while making your home comfortable and inviting. In this blog post, we'll explore innovative ideas for decorating your front room and decor room, transforming them into stunning spaces that you'll love to spend time in.

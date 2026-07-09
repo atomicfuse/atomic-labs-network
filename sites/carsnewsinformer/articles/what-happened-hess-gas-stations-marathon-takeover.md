@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Blank roadside gas station sign at dusk with a small toy tanker truck in the
   foreground
+topics:
+  - News
 ---
 ## The Disappearance of a Gas Station Giant
 

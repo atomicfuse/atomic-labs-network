@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Compact mid-century modern apartment living room with warm wood furniture,
   plants, and patterned textiles
+topics:
+  - Tips & Advice
 ---
 
 Mid-century modern decor is a timeless style that blends elegance with functionality, making it a popular choice for modern apartments. In this article, we'll explore how you can incorporate mid-century modern elements into your living space without breaking the bank.

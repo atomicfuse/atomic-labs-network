@@ -40,6 +40,9 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but falls short on
   length and raises some factual concerns about the specific album details.
 image_alt: Silhouetted blues guitarist performs under amber lights on a smoky club stage
+topics:
+  - Celebrities
+  - Music
 ---
 
 Legendary musician Slash has once again captivated audiences with the release of his new live album that celebrates the dynamic energy of Blues Ball, a project that showcases the guitarist's unparalleled skill and passion for blues music. This latest release captures the essence of live performance, offering fans an experience that is both electrifying and authentic.

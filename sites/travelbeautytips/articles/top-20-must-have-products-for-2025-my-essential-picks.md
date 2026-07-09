@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Curated fashion, beauty, and accessory essentials arranged in a chic editorial
   flat-lay
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 As we step into 2025, it's time to evaluate the essential products that have become an integral part of our daily lives. Whether you're looking to update your fashion, beauty routine, or simply explore new trends, these 20 products have made it to my list of absolute must-haves for this year.

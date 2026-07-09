@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Black American supercar under showroom lights, suggesting rarity and early
   resale demand
+topics:
+  - News
 ---
 ## America's Supercar Already on the Resale Market
 

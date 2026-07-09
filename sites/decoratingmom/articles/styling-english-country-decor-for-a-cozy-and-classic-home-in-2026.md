@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Cozy English country sitting room with floral chairs, layered textiles,
   antique wood, and soft natural light.
+topics:
+  - Decor Ideas
 ---
 
 Embracing the charm of English country decor can transform your home into a cozy and classic retreat in 2026. This style is renowned for its timeless appeal, blending elegance with a lived-in warmth that makes any space feel inviting and personal. By incorporating key elements like soft color palettes, traditional patterns, and layered textures, you can achieve a beautifully curated look that exudes personality and history.

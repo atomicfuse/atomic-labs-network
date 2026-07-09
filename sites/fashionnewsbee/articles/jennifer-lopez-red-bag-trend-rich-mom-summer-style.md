@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in summer neutrals carrying a bold structured red handbag on a
   chic city street.
+topics:
+  - Fashion
 ---
 ## Jennifer Lopez Sparks the Summer Red Bag Revolution
 

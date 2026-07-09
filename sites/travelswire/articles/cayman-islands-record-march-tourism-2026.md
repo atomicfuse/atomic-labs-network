@@ -33,6 +33,8 @@ quality_note: >-
   Strong tone and keyword relevance but severely penalized for fabricated 2026
   statistics and below-target word count at 446 words.
 reading_time: 2
+topics:
+  - Destination Guides
 ---
 ## Historic Tourism Milestone for Caribbean Paradise
 

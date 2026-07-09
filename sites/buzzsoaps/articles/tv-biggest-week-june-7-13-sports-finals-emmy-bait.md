@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A living room glows with screens showing sports, theater, and drama scenes
   during a packed TV week.
+topics:
+  - Watch
 ---
 ## A Perfect Storm of Entertainment
 

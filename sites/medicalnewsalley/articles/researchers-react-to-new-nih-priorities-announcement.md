@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Diverse medical researchers discuss abstract health research visuals in a
   softly lit conference room.
+topics:
+  - Health News
+  - Mental Health
 ---
 
 The National Institutes of Health (NIH) recently unveiled its research priorities, sparking diverse reactions from the scientific community. As a leading institution in health research funding, NIH's strategic choices significantly impact the direction of scientific inquiry and innovation. Researchers and stakeholders are closely evaluating the implications of these priorities for various fields of study.

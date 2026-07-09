@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Humpback whale surfacing near remote island cliffs with subtle ocean mapping
   lines
+topics:
+  - Mind-Blowing Science
 ---
 ## Remote Islands Hold Whale Secrets
 

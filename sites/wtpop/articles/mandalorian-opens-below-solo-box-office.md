@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   A worn sci-fi helmet sits in a nearly empty theater under moody projector
   light.
+topics:
+  - TV & Movies
 ---
 ## Star Wars Faces Another Box Office Challenge
 

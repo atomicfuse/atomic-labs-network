@@ -33,6 +33,10 @@ reading_time: 4
 image_alt: >-
   Whitewashed Santorini lane overlooking the caldera and Aegean Sea at golden
   sunset
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 There are beautiful places in the world, and then there is Santorini. Perched dramatically on the edge of a volcanic caldera in the southern Aegean Sea, this crescent-shaped island has a way of stopping people mid-sentence. You've seen the photographs — the whitewashed buildings, the blue-domed churches, the impossible sunsets — but nothing truly prepares you for experiencing it in person. Greece is full of stunning islands, but Santorini holds a category all its own.
 

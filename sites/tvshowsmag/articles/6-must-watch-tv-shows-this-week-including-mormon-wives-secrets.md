@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Six glowing TV screens in a moody living room suggest a varied week of
   must-watch shows.
+topics:
+  - TV News
 ---
 
 This week, television offers a diverse array of intriguing content that promises to captivate audiences with unique stories and engaging characters. Among the highlights is a new series that delves into the personal and complex lives of Mormon wives, offering a fresh perspective on a community often shrouded in mystery.

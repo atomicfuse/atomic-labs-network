@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Silver space telescope mirror in a clean room reflecting stars and cosmic
   light
+topics:
+  - Tech
 ---
 ## Revolutionary Mirror Technology Passes Final Tests
 

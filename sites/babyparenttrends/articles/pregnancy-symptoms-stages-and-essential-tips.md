@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Expectant parent and partner share a calm moment beside newborn essentials in
   soft morning light.
+topics:
+  - Baby Care
+  - Pregnancy
 ---
 
 Pregnancy brings rapid changes, practical decisions, and plenty of questions. Whether you are newly pregnant, planning ahead, or supporting someone through the journey, understanding the stages of pregnancy can make each week feel more manageable and less overwhelming.

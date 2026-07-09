@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Two footballers in red and blue kits race for the ball under stadium
   floodlights.
+topics:
+  - Latest News
 ---
 
 The Premier League consistently captivates fans worldwide, offering thrilling matches that showcase extraordinary skill and strategy. Recently, two giants of English football, Arsenal and Manchester City, faced off in a much-anticipated encounter that underscored the league's competitive nature.

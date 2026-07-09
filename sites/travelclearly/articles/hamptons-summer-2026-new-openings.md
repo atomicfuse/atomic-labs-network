@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Sunlit Hamptons village lane with a luxury inn, boutique storefront, terrace
   dining, and summer guests.
+topics:
+  - Travel
+  - Destinations
 ---
 ## The Hamptons Welcome New Luxury Experiences
 

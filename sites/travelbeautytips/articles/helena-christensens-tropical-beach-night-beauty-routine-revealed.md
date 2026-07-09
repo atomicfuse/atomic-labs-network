@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Luxury skincare and makeup arranged on a moonlit tropical beach with warm
   lantern glow
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Helena Christensen, the renowned Danish supermodel, shares her go-to beauty routine for a flawless look on an exotic tropical beach night. Her approach combines skincare essentials with expert makeup techniques, offering insights that are both practical and luxurious.

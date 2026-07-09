@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Sunlit wellness space with movement practice, fresh foods, and subtle wearable
   technology.
+topics:
+  - Healthy Recipes
 ---
 
 As we look towards 2025, a holistic approach to health is becoming increasingly vital. Emphasizing both movement and nutrition is key to enhancing longevity and overall well-being. With new trends in physical fitness and dietary habits emerging, individuals are seeking innovative ways to maintain a balanced and healthy lifestyle.

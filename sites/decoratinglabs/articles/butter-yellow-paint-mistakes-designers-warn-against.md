@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Butter yellow living room styled with warm neutrals, brass accents, and
   natural wood furniture.
+topics:
+  - Latest News
 ---
 ## The Butter Yellow Trend Is Having a Moment
 

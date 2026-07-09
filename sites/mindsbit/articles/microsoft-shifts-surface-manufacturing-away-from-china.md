@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Modern device on a workbench with global supply chain routes and factory
   silhouettes in the background
+topics:
+  - Tech
 ---
 
 In a move reflecting evolving global manufacturing strategies, Microsoft is reportedly shifting production of its Surface devices from China to alternative locations. This strategic decision aims to mitigate risks associated with geopolitical tensions and the trade environment.

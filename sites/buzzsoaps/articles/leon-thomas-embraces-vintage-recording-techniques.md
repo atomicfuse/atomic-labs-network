@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Vintage recording studio with analog gear and a musician adjusting controls in
   warm cinematic light
+topics:
+  - Culture Buzz
 ---
 
 Leon Thomas, a multifaceted artist, is making waves in the music industry with his latest EP, 'Mutt'. Known for his dynamic talents as a singer, songwriter, and producer, Thomas has crafted a unique sound that resonates with fans across various genres. His journey from acting to a music career showcases his versatility and dedication to his craft.

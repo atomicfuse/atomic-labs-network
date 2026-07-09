@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Parents and an educator gather in a warm school space for supportive parenting
   guidance.
+topics:
+  - Kids
 ---
 
 Orchids The International School has embarked on an innovative journey by collaborating with Times of India Parenting. This initiative, aptly named Parentology, is designed to provide essential support and guidance to modern parents navigating the complexities of raising children in today's fast-paced world.

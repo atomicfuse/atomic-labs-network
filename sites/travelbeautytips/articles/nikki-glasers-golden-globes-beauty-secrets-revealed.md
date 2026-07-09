@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Glamorous awards-night vanity with skincare, makeup brushes, and warm golden
   lights
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Comedian and Golden Globes host Nikki Glaser shares her beauty secrets in a detailed pre-show routine. Known for her wit and charm, Nikki takes us through her everyday skincare and makeup regimen, focusing on how she prepares for the prestigious Golden Globe Awards.

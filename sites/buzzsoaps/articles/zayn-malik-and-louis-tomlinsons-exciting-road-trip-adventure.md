@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Two musicians beside a car on a golden-hour coastal highway, evoking a
   nostalgic documentary road trip.
+topics:
+  - Culture Buzz
 ---
 
 In a surprising move that has delighted fans, former One Direction members Zayn Malik and Louis Tomlinson are collaborating once again. This exciting development comes as Malik is set to appear in Tomlinson's upcoming documentary, creating buzz among their followers who have eagerly awaited their reunion. The documentary aims to provide an intimate look into Tomlinson's life and career, offering insights and reflections from those closest to him.

@@ -42,6 +42,9 @@ quality_note: >-
   information as Jimmy Kimmel has not been fired from his show, making it highly
   problematic despite good tone and keyword coverage.
 image_alt: Empty late-night talk show desk under a spotlight in a dark studio
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 In a surprising development within the entertainment industry, Jimmy Kimmel, the well-known host of "Jimmy Kimmel Live!", has reportedly been dismissed from his long-time role. This unexpected turn of events has left fans and media analysts speculating about the reasons behind this decision and what it means for the future of the show.

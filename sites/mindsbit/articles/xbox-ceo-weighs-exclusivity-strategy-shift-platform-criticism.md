@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Female tech executive between open gaming ecosystem and exclusive console
   strategy paths
+topics:
+  - Tech
 ---
 ## Xbox Faces Strategic Crossroads Under New Leadership
 

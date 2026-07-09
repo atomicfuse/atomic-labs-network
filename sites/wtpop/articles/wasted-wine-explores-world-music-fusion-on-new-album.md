@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Eclectic instruments arranged in a moody rehearsal room under warm blue and
   amber stage light.
+topics:
+  - Music
 ---
 
 Wasted Wine, an innovative band from the Upstate region, is making waves in the music scene with their latest album, which delves into the rich tapestry of world music. Known for their eclectic sound, Wasted Wine seamlessly blends various musical influences to create a unique auditory experience that captivates audiences. Their new album promises to be a sonic journey unlike any other, pushing the boundaries of genre and style.

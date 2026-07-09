@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Smart coated city building in rain beside copper-toned hydrogen bubbles,
   suggesting sustainable urban energy.
+topics:
+  - Tech
 ---
 ## Revolutionary Building Coating Transforms Urban Energy
 

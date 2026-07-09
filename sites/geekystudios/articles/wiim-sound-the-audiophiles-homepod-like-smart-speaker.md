@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Sleek smart speaker and audio gear in a modern living room with subtle glowing
   sound waves
+topics:
+  - Tech
 ---
 
 The world of audio streaming has seen significant advancements with the introduction of new devices catering to audiophiles. Among these recent innovations, Wiim has unveiled a range of smart audio products designed to enhance the listening experience. Each device in their lineup promises to deliver high-quality sound, making it an appealing choice for music enthusiasts.

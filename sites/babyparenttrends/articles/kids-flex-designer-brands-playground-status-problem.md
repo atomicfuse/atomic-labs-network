@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Child standing apart in a playground with status symbols while other children
   play nearby
+topics:
+  - Parenting
 ---
 ## The Designer Underwear Incident That Started a Conversation
 

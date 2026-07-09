@@ -53,6 +53,8 @@ quality_note: >-
 image_alt: >-
   Elegant renovated brownstone parlor blending historic details with modern art
   and warm afternoon light
+topics:
+  - Expert Guides
 ---
 
 Step into the world of Chris Mitchell and Pilar Guzman, a couple who've made their mark in the universe of design. Their passion for aesthetics has led them to transform their Brooklyn brownstone into an oasis of style, sophistication, and warmth.

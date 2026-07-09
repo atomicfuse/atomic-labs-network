@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Generic smartphone with glowing accessible interface elements over abstract
   photo tiles
+topics:
+  - Tech
 ---
 
 TikTok is making strides in accessibility by enhancing its platform with innovative features aimed at inclusivity. Their latest update introduces AI-generated alt text, offering a more engaging experience for users with visual impairments. By leveraging artificial intelligence, TikTok aims to improve content accessibility and usability for all users.

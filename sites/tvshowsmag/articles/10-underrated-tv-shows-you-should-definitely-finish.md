@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Dim living room with a glowing TV and scattered remotes suggesting
   rediscovered hidden shows.
+topics:
+  - TV News
 ---
 
 Television series often captivate audiences with gripping plots and intriguing character arcs. Yet, some shows, despite their potential, fail to retain viewers until the end. While these series may not have initially held the majority's attention, they are indeed worth a revisit for the captivating narratives and unexpected twists they offer.

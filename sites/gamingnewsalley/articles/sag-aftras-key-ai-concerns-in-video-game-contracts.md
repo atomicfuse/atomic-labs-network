@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Motion-capture performer facing a fragmented digital avatar in a
   negotiation-themed studio setting
+topics:
+  - Gaming News
 ---
 
 The world of video game development is once again under the spotlight as SAG-AFTRA, the union representing actors and performers, has made significant strides in its negotiations with major video game companies. These discussions have been ongoing, focusing primarily on better compensation and improved working conditions for voice actors and motion capture artists within the gaming industry.

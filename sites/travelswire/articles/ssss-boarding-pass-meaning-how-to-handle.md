@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Calm traveler waiting near airport security as other passengers move through
   screening lanes
+topics:
+  - Travel Tips
 ---
 ## What Does SSSS Mean on Your Boarding Pass?
 

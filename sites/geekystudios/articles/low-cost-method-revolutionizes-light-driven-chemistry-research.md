@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Glowing molecular structure at a light-filled intersection with abstract
   computational energy curves
+topics:
+  - Tech
 ---
 ## Breaking Down Computational Barriers in Photochemistry
 

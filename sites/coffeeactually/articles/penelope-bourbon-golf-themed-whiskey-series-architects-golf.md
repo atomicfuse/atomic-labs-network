@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Premium bourbon bottles staged with golf accents, oak staves, and warm amber
   studio lighting.
+topics:
+  - Coffee News
 ---
 ## Premium Spirits Meet Golf Culture
 

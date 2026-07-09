@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Alert pocket mouse mother and offspring on sandy ground with a faint
   snake-like shadow nearby.
+topics:
+  - Mind-Blowing Science
 ---
 ## Breakthrough Discovery in Conservation Biology
 

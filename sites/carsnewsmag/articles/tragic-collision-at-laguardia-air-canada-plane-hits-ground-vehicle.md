@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Emergency vehicles on a wet airport runway near a silhouetted regional jet at
   dusk
+topics:
+  - News
+  - Industry
 ---
 
 A tragic incident unfolded at LaGuardia Airport in New York when an Air Canada Express flight collided with a ground vehicle during landing. This unfortunate event led to a major emergency response, a temporary airport shutdown, and a ground stop issued by the Federal Aviation Administration (FAA). With flights diverted and operations halted, the incident involving a CRJ-900 aircraft operated by Jazz Aviation has sparked widespread concern.

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Calm therapy scene with soft light and subtle neural glow suggesting PTSD
   recovery through stimulation.
+topics:
+  - Medical Research
+  - Mental Health
 ---
 ## Breakthrough Study Shows Promising Results for Difficult-to-Treat PTSD
 

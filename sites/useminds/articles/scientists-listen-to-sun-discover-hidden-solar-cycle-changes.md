@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Glowing sun with hidden wave patterns and magnetic arcs above a distant
   satellite in space
+topics:
+  - Mind-Blowing Science
 ---
 ## The Sun's Hidden Symphony
 

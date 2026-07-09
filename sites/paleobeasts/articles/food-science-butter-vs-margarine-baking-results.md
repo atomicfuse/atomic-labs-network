@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Side-by-side cookies in a bright test kitchen with butter, margarine, and food
   science tools nearby.
+topics:
+  - Nutrition
 ---
 ## The Chemistry Behind Your Baking Fats
 

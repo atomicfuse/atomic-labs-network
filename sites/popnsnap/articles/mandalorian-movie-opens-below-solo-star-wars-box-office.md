@@ -39,6 +39,9 @@ quality_note: >-
   coverage.
 reading_time: 2
 image_alt: Lonely sci-fi helmet on dusty ground near an empty futuristic theater at dusk
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## Star Wars Faces New Box Office Concerns
 

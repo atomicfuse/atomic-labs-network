@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Cozy British-inspired living room with layered textures, warm lighting, and
   elegant heritage decor
+topics:
+  - Decor Ideas
 ---
 
 Transforming your living room into a haven of comfort and style can be a rewarding endeavor. British designers, known for their impeccable taste and innovative ideas, provide valuable insights into achieving the perfect balance of coziness and chic in your living space. By incorporating their expert advice, you can create a welcoming atmosphere that reflects your unique personality while ensuring functionality.

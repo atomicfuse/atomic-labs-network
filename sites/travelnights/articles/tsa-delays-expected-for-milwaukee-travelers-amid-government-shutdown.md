@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Travelers wait in a long airport security line with carry-on luggage during a
   busy morning rush.
+topics:
+  - Destinations
+  - News
 ---
 
 Travelers flying through Milwaukee might need to prepare for potential delays at TSA checkpoints due to a looming federal government shutdown. This situation could impact transportation security operations, leading to extended wait times and increased stress for passengers. Understanding the implications and preparing in advance can help mitigate some of the inconvenience.

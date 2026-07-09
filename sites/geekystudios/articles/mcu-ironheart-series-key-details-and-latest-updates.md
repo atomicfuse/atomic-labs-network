@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Young inventor in a futuristic workshop illuminated by glowing advanced armor
   technology
+topics:
+  - Pop Culture
 ---
 
 The Marvel Cinematic Universe is expanding its horizons with the introduction of 'Ironheart,' a new series that promises to captivate audiences with its innovative storytelling and fresh characters. This highly anticipated show will explore the life of Riri Williams, a genius inventor who dons the mantle of Ironheart following the footsteps of Tony Stark. As Marvel continues to diversify its lineup, 'Ironheart' stands as a beacon of representation and futuristic themes.

@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   Blind white wine tasting setup with covered bottles, tasting glasses, lemon
   peel, and soft editorial lighting.
+topics:
+  - Wine reviews
 ---
 ## Premium Chablis Takes Top Honors in Blind Tasting
 

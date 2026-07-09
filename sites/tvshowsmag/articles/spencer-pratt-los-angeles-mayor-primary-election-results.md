@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium under fading lights with ballots and LA skyline in the
   background
+topics:
+  - Celebrity News
 ---
 ## Celebrity Campaign Comes to an End
 

@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   Glitched gaming livestream setup with eerie monster-like shapes emerging from
   a corrupted screen
+topics:
+  - Gaming News
 ---
 ## Technical Issues Disrupt Horror Game Stream
 

@@ -33,6 +33,8 @@ quality_note: >-
   This NFL contract article completely mismatches the travel/destination site's
   content guidelines and contains factual inaccuracies about future events.
 reading_time: 1
+topics:
+  - Adventure Activities
 ---
 ## Ravens Commit to Rising Star Receiver
 

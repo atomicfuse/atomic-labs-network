@@ -35,6 +35,8 @@ quality_note: >-
   and focuses more on airline business news than travel guidance for the target
   audience.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## Avianca Strengthens Florida Presence
 

@@ -1,26 +1,47 @@
 ---
-title: "Eurovision Wine Tasting: Reds from France, Australia, Austria, Greece and Beyond"
-description: "A Eurovision-inspired wine tasting that pairs the drama of song contest weekend with bottles from competing countries and a few unexpected gatecrashers. From Beaujolais Villages to Rioja Gran Reserva, this is a playful guide to the wines featured in the video."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T09:05:55+00:00"
-author: "Taylor Winters"
+title: >-
+  Eurovision Wine Tasting: Reds from France, Australia, Austria, Greece and
+  Beyond
+description: >-
+  A Eurovision-inspired wine tasting that pairs the drama of song contest
+  weekend with bottles from competing countries and a few unexpected
+  gatecrashers. From Beaujolais Villages to Rioja Gran Reserva, this is a
+  playful guide to the wines featured in the video.
+type: standard
+status: published
+publishDate: '2026-05-14T09:05:55+00:00'
+author: Taylor Winters
 tags:
-  - "Wine reviews"
-  - "Wine"
-  - "Wine Review"
-  - "Wine Tasting"
-slug: "eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond"
+  - Wine reviews
+  - Wine
+  - Wine Review
+  - Wine Tasting
+slug: eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond
 reading_time: 6
-source_url: "https://wineoceans.com/eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond/"
-imported_from: "wordpress"
+source_url: >-
+  https://wineoceans.com/eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond/
+imported_from: wordpress
 wp_original_id: 19049
-featuredImage: "/assets/images/eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond.webp"
+featuredImage: >-
+  /assets/images/eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond.webp
 seo:
-  canonical: "https://wineoceans.com/eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond/"
-  og_title: "Eurovision Wine Tasting: Reds from France, Australia, Austria, Greece and Beyond - Wine Oceans"
-  og_description: "A Eurovision-inspired wine tasting that pairs the drama of song contest weekend with bottles from competing countries and a few unexpected gatecrashers. From Beaujolais Villages to Rioja Gran Reserva, this is a playful guide to the wines featured in the video."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wineoceans.com/eurovision-wine-tasting-reds-from-france-australia-austria-greece-and-beyond/
+  og_title: >-
+    Eurovision Wine Tasting: Reds from France, Australia, Austria, Greece and
+    Beyond - Wine Oceans
+  og_description: >-
+    A Eurovision-inspired wine tasting that pairs the drama of song contest
+    weekend with bottles from competing countries and a few unexpected
+    gatecrashers. From Beaujolais Villages to Rioja Gran Reserva, this is a
+    playful guide to the wines featured in the video.
+  twitter_card: summary_large_image
+topics:
+  - Wine news
+  - Wine for beginners
+  - Wine tips
+  - Wine reviews
+  - Wine recipes
 ---
 
 Eurovision weekend brings a very particular kind of energy: sequins, political tension, dramatic key changes and, in this tasting, a wine glass travelling across borders. Inspired by the original video, this blog post follows a Eurovision-themed wine lineup featuring bottles from this year's Eurovision countries, along with a few gatecrashers that were not officially invited but still made it to the table.

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Secluded tropical villa at twilight with an illuminated infinity pool and
   Pacific horizon beyond
+topics:
+  - Travel
+  - Destinations
 ---
 ## The Rise of Private Villa Luxury in Riviera Nayarit
 

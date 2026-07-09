@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Coffee beans and gold-toned minerals arranged in a refined editorial still
   life
+topics:
+  - Coffee News
 ---
 
 Uganda has experienced a substantial increase in its export earnings, demonstrating impressive growth particularly in the sectors of coffee and gold. This surge in revenue highlights the country's potential as a key player in the global market, driven by strategic investments and favorable trade conditions.

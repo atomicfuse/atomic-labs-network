@@ -1,9 +1,11 @@
 ---
 title: DOJ Seizes Record $15B in Bitcoin from Global Scam Network
-description: The Department of Justice announced a record $15 billion bitcoin forfeiture case against a Cambodian national linked to global scam compounds and human...
+description: >-
+  The Department of Justice announced a record $15 billion bitcoin forfeiture
+  case against a Cambodian national linked to global scam compounds and human...
 type: standard
 status: published
-publishDate: 2026-06-03
+publishDate: 2026-06-03T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -13,7 +15,8 @@ tags:
   - scam awareness
 slug: doj-seizes-record-15b-bitcoin-global-scam-network
 reviewer_notes: Approved via review queue.
-source_url: https://news.bitcoin.com/dojs-record-127271-btc-seizure-resurfaces-amid-scam-crackdown/
+source_url: >-
+  https://news.bitcoin.com/dojs-record-127271-btc-seizure-resurfaces-amid-scam-crackdown/
 source_item_id: 6a1d03c29bf3ecf115d981ae
 generated_by: claude
 featuredImage: /assets/images/doj-seizes-record-15b-bitcoin-global-scam-network.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: This article about cryptocurrency seizures is completely off-topic for a personal finance savings site and contains questionable claims about a $15B bitcoin forfeiture that appears to be fabricated.
+quality_note: >-
+  This article about cryptocurrency seizures is completely off-topic for a
+  personal finance savings site and contains questionable claims about a $15B
+  bitcoin forfeiture that appears to be fabricated.
 reading_time: 3
-image_alt: Federal evidence table with crypto devices, case files, and a bitcoin token under stark light
+image_alt: >-
+  Federal evidence table with crypto devices, case files, and a bitcoin token
+  under stark light
+topics:
+  - Smart Shopping
 ---
 ## Massive Cryptocurrency Seizure Targets International Fraud Network
 

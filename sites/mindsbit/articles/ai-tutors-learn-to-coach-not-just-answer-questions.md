@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Student studies with an abstract AI guide showing branching learning steps and
   math shapes.
+topics:
+  - Tech
 ---
 ## The Problem with Instant AI Answers
 

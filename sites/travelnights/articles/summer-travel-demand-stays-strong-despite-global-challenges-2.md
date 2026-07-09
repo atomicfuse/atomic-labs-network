@@ -32,6 +32,9 @@ quality_note: >-
   lacks specific data sources and falls short of optimal word count.
 reading_time: 3
 image_alt: Passenger train crosses a green valley viaduct under dramatic summer skies.
+topics:
+  - Destinations
+  - News
 ---
 ## Resilient Travelers Adapt Rather Than Cancel
 

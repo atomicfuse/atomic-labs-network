@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Person practicing a gentle seated yoga twist in a bright, peaceful spring
   setting
+topics:
+  - Yoga Poses
 ---
 
 Spring is an ideal season to refresh your movement routine, and a yoga practice built around clearing breaths and gentle twists can help the body feel lighter, looser, and more focused. A spring-inspired Fitness Friday routine can support mobility, posture, balance, and mindful energy without requiring intense equipment or a long workout window.

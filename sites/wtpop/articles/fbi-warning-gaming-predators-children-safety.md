@@ -1,9 +1,11 @@
 ---
 title: FBI Issues Warning About Gaming Predators Targeting Children
-description: The FBI warns parents about online predators using video games and gaming chats to groom and radicalize children. Learn the warning signs to watch for.
+description: >-
+  The FBI warns parents about online predators using video games and gaming
+  chats to groom and radicalize children. Learn the warning signs to watch for.
 type: standard
 status: published
-publishDate: 2026-06-05
+publishDate: 2026-06-05T00:00:00.000Z
 author: Rachel Long
 tags:
   - TV & Movies
@@ -13,7 +15,8 @@ tags:
   - online predators
 slug: fbi-warning-gaming-predators-children-safety
 reviewer_notes: Approved via review queue.
-source_url: https://www.kctv5.com/video/2026/06/04/behind-headlines-fbi-warns-parents-about-online-predators-targeting-kids-video-games/
+source_url: >-
+  https://www.kctv5.com/video/2026/06/04/behind-headlines-fbi-warns-parents-about-online-predators-targeting-kids-video-games/
 source_item_id: 6a225edbad9a1dd21ebb6885
 generated_by: claude
 featuredImage: /assets/images/fbi-warning-gaming-predators-children-safety.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: Article fails to match site's entertainment focus, lacks proper SEO optimization, is too short, contains vague unsupported claims, and doesn't align with target keywords about celebrities, fashion, music, or TV/movies.
+quality_note: >-
+  Article fails to match site's entertainment focus, lacks proper SEO
+  optimization, is too short, contains vague unsupported claims, and doesn't
+  align with target keywords about celebrities, fashion, music, or TV/movies.
 reading_time: 2
-image_alt: Child gamer silhouette at a computer with shadowy chat shapes and a parent in the doorway
+image_alt: >-
+  Child gamer silhouette at a computer with shadowy chat shapes and a parent in
+  the doorway
+topics:
+  - TV & Movies
 ---
 ## FBI Alerts Parents to Growing Gaming Threat
 

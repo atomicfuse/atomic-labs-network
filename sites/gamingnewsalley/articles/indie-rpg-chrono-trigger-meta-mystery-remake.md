@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Retro fantasy game scene fractures into glitches, puzzle pieces, and
   mysterious notes on a moody desk.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## A Strange Take on Classic RPG Nostalgia
 

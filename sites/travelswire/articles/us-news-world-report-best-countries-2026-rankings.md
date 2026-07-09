@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Sunlit European cityscape with alpine peaks, riverfront buildings, and modern
   transit suggesting quality of life
+topics:
+  - Destination Guides
 ---
 ## Switzerland Claims Top Spot in Global Rankings
 

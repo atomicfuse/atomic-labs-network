@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Young Indian professional balancing work and preventive health awareness in a
   calm office setting.
+topics:
+  - Health News
 ---
 ## Celebrity Diagnosis Shines Light on Growing Health Concern
 

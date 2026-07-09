@@ -1,9 +1,12 @@
 ---
 title: Far-Right Groups Fracture Over Makerfield Election Defeat
-description: Internal conflict erupts among far-right factions following the Makerfield by-election, with conspiracy theories and blame games revealing deep organizational...
+description: >-
+  Internal conflict erupts among far-right factions following the Makerfield
+  by-election, with conspiracy theories and blame games revealing deep
+  organizational...
 type: standard
 status: published
-publishDate: 2026-06-04
+publishDate: 2026-06-04T00:00:00.000Z
 author: Sam Gray
 tags:
   - TV & Movies
@@ -13,7 +16,8 @@ tags:
   - extremist movements
 slug: far-right-groups-fracture-makerfield-election-defeat
 reviewer_notes: Approved via review queue.
-source_url: https://news.google.com/rss/articles/CBMiygFBVV95cUxNdldfUE9XQkJhZWlpamVTTWliZ3F1UjA4OEJ0R184aTV2bTdnMlJMNEFTNkJnUzg2dGluZmIxYmhzakxZUTNINlNOSXhYVnF5ZDNDV1JlR3R4YkcwX0dqQ0Zibm9iN0l1eTJUT0ZpQURIay15NXEySTN1Q2ZKcnBQSm1mT2JDY2Y1YnhoSS1jYVZXNEdkd0tMTm1ybjBKOE4tem9WaldmZTlGN1J2aU9IZVVva1hYc2hIUGhhNGlMOWo3azM2MFF6TWNB?oc=5
+source_url: >-
+  https://news.google.com/rss/articles/CBMiygFBVV95cUxNdldfUE9XQkJhZWlpamVTTWliZ3F1UjA4OEJ0R184aTV2bTdnMlJMNEFTNkJnUzg2dGluZmIxYmhzakxZUTNINlNOSXhYVnF5ZDNDV1JlR3R4YkcwX0dqQ0Zibm9iN0l1eTJUT0ZpQURIay15NXEySTN1Q2ZKcnBQSm1mT2JDY2Y1YnhoSS1jYVZXNEdkd0tMTm1ybjBKOE4tem9WaldmZTlGN1J2aU9IZVVva1hYc2hIUGhhNGlMOWo3azM2MFF6TWNB?oc=5
 source_item_id: 6a204fccad9a1dd21ebb663b
 generated_by: claude
 featuredImage: /assets/images/far-right-groups-fracture-makerfield-election-defeat.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 10
-quality_note: This political analysis article is completely misaligned with popnsnap's entertainment focus, lacks proper SEO optimization, and doesn't match the site's content guidelines or target keywords.
+quality_note: >-
+  This political analysis article is completely misaligned with popnsnap's
+  entertainment focus, lacks proper SEO optimization, and doesn't match the
+  site's content guidelines or target keywords.
 reading_time: 2
-image_alt: Empty campaign room with torn posters and a cracked mirror suggesting political infighting after defeat.
+image_alt: >-
+  Empty campaign room with torn posters and a cracked mirror suggesting
+  political infighting after defeat.
+topics:
+  - TV & Movies
 ---
 ## Far-Right Movement Faces Internal Meltdown
 

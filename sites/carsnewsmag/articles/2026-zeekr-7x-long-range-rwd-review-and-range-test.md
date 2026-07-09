@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Sleek electric family SUV driving along an open Australian coastal highway at
   golden hour
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 The Zeekr 7X Long Range RWD shapes up as one of the most interesting electric midsize SUVs heading toward Australia, combining a big battery, generous cabin space and luxury-leaning presentation with the backing of Geely's fast-growing premium EV brand. As buyers compare the Tesla Model Y, Kia EV5, Hyundai Ioniq 5, Polestar 4 and Xpeng G6, this Chinese-built SUV arrives with the sort of hardware that could make it a serious contender.

@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   A woman in surreal neon light stands in a shadowy cinema corridor with magenta
   and blue reflections.
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## A Visionary Return to the Big Screen
 

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Woman in athletic wear standing calmly in a bright studio with a yoga mat
   nearby.
+topics:
+  - Fitness
 ---
 ## Understanding Hip Dips: A Natural Body Feature
 

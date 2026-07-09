@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Colorful boat on a calm Caribbean bay with a sunlit island village and
   festival details in the distance.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Caribbean Summer Revolution
 

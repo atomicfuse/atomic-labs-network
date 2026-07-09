@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Antarctic ice field with a distant ice-core station under layered atmospheric
   bands at twilight.
+topics:
+  - Environment
 ---
 ## A Decade-Long Climate Puzzle Finally Solved
 

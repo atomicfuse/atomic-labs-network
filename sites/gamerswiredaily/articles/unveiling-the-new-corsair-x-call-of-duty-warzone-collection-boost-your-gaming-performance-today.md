@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Unbranded gaming peripherals glow on a tactical-style desk with a
   high-performance PC in the background.
+topics:
+  - Game Reviews
 ---
 
 Corsair, a renowned name in the gaming industry, recently announced its latest collaboration with Call of Duty: Warzone. This partnership has led to the creation of a new range of high-performance gaming equipment designed to enhance the gaming experience. The Corsair Warzone Collection promises to bring a new level of immersion and performance to the popular battle royale game.

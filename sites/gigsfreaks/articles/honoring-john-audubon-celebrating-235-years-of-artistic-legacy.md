@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Antique sketchbook with a watercolor bird study beside archival objects and
   soft historical silhouettes
+topics:
+  - Good Vibes
 ---
 
 ## Historical Milestones

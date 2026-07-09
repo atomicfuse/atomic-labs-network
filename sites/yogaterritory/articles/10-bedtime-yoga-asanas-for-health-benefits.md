@@ -42,6 +42,8 @@ quality_note: >-
   significantly under target word count and missing the promised 10 specific
   bedtime asanas from the title.
 image_alt: 'Person practicing gentle bedtime yoga in a softly lit, peaceful bedroom'
+topics:
+  - Yoga Poses
 ---
 
 Yoga offers an enriching way to enhance physical and mental well-being, even from the comfort of your bed. This ancient practice provides numerous health benefits, including stress reduction, improved flexibility, and better sleep. With just a few simple asanas, you can start your day feeling rejuvenated or wind down before bedtime.

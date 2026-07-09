@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Empty spotlighted director’s chair surrounded by glowing TV screens in a dark
   studio.
+topics:
+  - TV & Movies
 ---
 ## Shows That Push the Envelope
 

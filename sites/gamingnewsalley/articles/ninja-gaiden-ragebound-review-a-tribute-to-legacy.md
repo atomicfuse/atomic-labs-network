@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Masked warrior on a stormy rooftop facing shadowy foes under dramatic night
   lighting.
+topics:
+  - Gaming News
 ---
 
 Ninja Gaiden: Ragebound offers a fresh adventure in the iconic series, blending intense action with strategic gameplay. This installment challenges players with a variety of enemies and intricate levels, ensuring a thrilling experience for both newcomers and veterans alike.

@@ -42,6 +42,10 @@ quality_note: >-
   (81 words vs 800-1200 target) significantly impacts overall quality and
   engagement potential.
 image_alt: Travelers walk through futuristic Osaka expo pavilions at golden hour.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 In this video, a local guide explores the question: Is Osaka Expo worth visiting for tourists? From travel plans and tips to previews and in-depth reviews of various pavilions and eateries, the video provides an honest review and useful insights for those planning to visit the Expo.

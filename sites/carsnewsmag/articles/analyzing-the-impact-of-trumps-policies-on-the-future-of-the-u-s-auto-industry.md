@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   Modern auto assembly line with patriotic lighting and policy symbols
   suggesting industry uncertainty
+topics:
+  - News
+  - Industry
 ---
 ## Policy Framework Under Scrutiny
 

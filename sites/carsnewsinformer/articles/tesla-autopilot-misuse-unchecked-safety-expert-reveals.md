@@ -36,6 +36,9 @@ quality_note: >-
   but is significantly too short at 304 words and lacks specific details or
   sources to support claims.
 image_alt: Driver’s hands hover near the wheel inside a modern electric car at dusk.
+topics:
+  - News
+  - Electric Cars
 ---
 ## Safety Expert Raises Autopilot Concerns
 

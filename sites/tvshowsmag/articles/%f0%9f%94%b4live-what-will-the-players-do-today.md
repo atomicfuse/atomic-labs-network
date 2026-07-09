@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Two fictional football stars on a neon urban pitch with gaming-inspired action
   energy
+topics:
+  - TV News
 ---
 
 Have fun with short clips featuring players Ronaldo and Messi! #gta #football

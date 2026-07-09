@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Heirloom tomatoes, a fermenting vessel, and amber-red wine on a rustic kitchen
   table.
+topics:
+  - Wine news
 ---
 ## The Unconventional World of Tomato Wine
 

@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Serene morning beauty routine with soft sunlight, skincare items, flowers, and
   a confident woman at a vanity
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In the pursuit of beauty and self-improvement, it's often the small changes that make the most significant impact. Here, we explore 20 micro beauty habits that can truly transform your life. From enhancing your appearance to boosting your confidence, these simple practices are designed to help you achieve a radiant glow and a positive outlook.

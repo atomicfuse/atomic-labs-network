@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Sunlit Malaga rooftops, palms, sea, and a relaxed café terrace capturing a
   bright Mediterranean city break.
+topics:
+  - Culture
+  - Destinations
 ---
 
 Malaga has become one of Spain's most talked-about city breaks, and its appeal goes far beyond sunshine. Set on the Costa del Sol in southern Andalusia, this Mediterranean city blends beach life, historic neighborhoods, world-class art, relaxed dining, and an easygoing local rhythm. It is also frequently recognized in global happiness and livability discussions, especially among travelers, remote workers, and international residents seeking a warm, walkable, culturally rich place to enjoy Spain.

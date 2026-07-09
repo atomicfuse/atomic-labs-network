@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Aerial yoga practitioner in a silk hammock inside a calm sunlit urban wellness
   studio
+topics:
+  - Yoga Poses
 ---
 
 Embrace the world of aerial yoga, a unique and invigorating form of exercise that combines traditional yoga with acrobatics using a silk hammock. This innovative approach offers a refreshing way to boost flexibility, build strength, and enhance mental clarity. As more people seek holistic wellness practices, aerial yoga has gained popularity, particularly in urban areas like Hyderabad.

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Roasted vegetables on a sheet pan with creamy tahini yogurt dressing and fresh
   herbs.
+topics:
+  - Advice
 ---
 
 # Roasted Vegetables So Good You'll Forget They're Healthy

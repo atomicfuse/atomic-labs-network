@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Travelers wait in a sleek remote airport terminal lounge as an unbranded
   shuttle bus waits outside.
+topics:
+  - Travel Tips
 ---
 ## Revolutionary Concept Launches in Massachusetts
 

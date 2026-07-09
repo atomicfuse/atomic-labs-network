@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A vintage car on a desert road beneath strange lights, with secret files on
   the hood.
+topics:
+  - TV News
 ---
 ## A Prophetic Vision of Government Secrecy
 

@@ -40,6 +40,9 @@ quality_note: >-
   significantly under target word count at 478 words versus the 800-1200 target
   range.
 image_alt: Elegant model in couture gown and diamonds at a winter red carpet gala
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 In the world of fashion, red carpet events often serve as the ultimate stage where high-profile personalities showcase their sartorial elegance. Recently, Anya Taylor-Joy, a rising star in Hollywood, graced Tiffany & Co.'s holiday celebration, captivating attendees with her striking ensemble. Her choice of attire, crafted by the innovative designer Dilara Findikoglu, was nothing short of a fashion spectacle.

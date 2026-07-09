@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Three footballers race toward a loose ball near a floodlit goal in a tense
   stadium scene.
+topics:
+  - Latest News
 ---
 
 The Premier League title race has taken an exhilarating turn as Aston Villa, Manchester City, and Arsenal fiercely compete for the top position. Each team is showcasing exceptional skill and determination, making this season one of the most thrilling in recent memory.

@@ -32,6 +32,8 @@ quality_note: >-
   target word count at 549 words versus the 800-1200 target range.
 reading_time: 3
 image_alt: Radio telescope dish under a starry dawn sky in a remote desert observatory
+topics:
+  - Tech
 ---
 ## Historic Milestone for Radio Astronomy
 

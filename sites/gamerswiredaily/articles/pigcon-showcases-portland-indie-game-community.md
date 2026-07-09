@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Indie game creators gather around glowing retro monitors in a colorful
   convention setting.
+topics:
+  - Gaming News
 ---
 ## Portland's Indie Scene Takes the Spotlight
 

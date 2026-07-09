@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Rainy smart city building with glowing energy pathways and a copper-toned
   hydrogen cell
+topics:
+  - Gadgets
 ---
 ## Breakthrough Technologies Target Urban Sustainability
 

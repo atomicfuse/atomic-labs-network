@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   A stunned traveler in a sunlit diner holds a lottery slip during an ordinary
   lunch moment.
+topics:
+  - Odd News
 ---
 
 A Tennessee man recently experienced an astonishing twist of fate, turning an ordinary day into an extraordinary one by winning a substantial prize from the Maryland Lottery. This remarkable event, which unfolded over a casual lunch, highlights how a simple decision can lead to life-changing outcomes.

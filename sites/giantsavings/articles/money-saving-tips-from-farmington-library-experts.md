@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Library finance consultation table with budget tools and people discussing
   money-saving resources
+topics:
+  - Saving Tips
+  - Budgeting
+  - Grocery Savings
 ---
 
 Farmington Public Library offers a treasure trove of resources for those looking to save money and expand their knowledge. From financial workshops to digital tools, the library is a pivotal community resource aiding individuals in their journey toward financial literacy and savings.

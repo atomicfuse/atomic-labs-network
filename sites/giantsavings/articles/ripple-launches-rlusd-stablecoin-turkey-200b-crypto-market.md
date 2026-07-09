@@ -1,9 +1,12 @@
 ---
 title: Ripple Launches RLUSD Stablecoin in Turkey's $200B Crypto Market
-description: Ripple expands its USD-backed stablecoin RLUSD into Turkey through local partnerships, targeting the Middle East's largest crypto market driven by inflation...
+description: >-
+  Ripple expands its USD-backed stablecoin RLUSD into Turkey through local
+  partnerships, targeting the Middle East's largest crypto market driven by
+  inflation...
 type: standard
 status: published
-publishDate: 2026-06-05
+publishDate: 2026-06-05T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -13,7 +16,8 @@ tags:
   - digital payments
 slug: ripple-launches-rlusd-stablecoin-turkey-200b-crypto-market
 reviewer_notes: Approved via review queue.
-source_url: https://news.bitcoin.com/ripple-expands-rlusd-into-turkey-as-a-200b-crypto-market-signals-bigger-stablecoin-demand/
+source_url: >-
+  https://news.bitcoin.com/ripple-expands-rlusd-into-turkey-as-a-200b-crypto-market-signals-bigger-stablecoin-demand/
 source_item_id: 6a20f842ad9a1dd21ebb673e
 generated_by: claude
 featuredImage: /assets/images/ripple-launches-rlusd-stablecoin-turkey-200b-crypto-market.webp
@@ -24,9 +28,14 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: This cryptocurrency-focused article completely misses the personal finance audience and topics, lacks proper SEO optimization, and contains potentially fabricated claims about specific partnerships and market data.
+quality_note: >-
+  This cryptocurrency-focused article completely misses the personal finance
+  audience and topics, lacks proper SEO optimization, and contains potentially
+  fabricated claims about specific partnerships and market data.
 reading_time: 3
 image_alt: Abstract digital dollar coin over Turkey with glowing fintech network lines
+topics:
+  - Smart Shopping
 ---
 ## Ripple Expands Digital Dollar Access in Turkey
 

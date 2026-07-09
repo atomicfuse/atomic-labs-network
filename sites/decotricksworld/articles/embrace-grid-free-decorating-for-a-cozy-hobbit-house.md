@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Cozy round-door cottage interior with eclectic decor, plants, rugs, books, and
   warm hearthlight
+topics:
+  - Expert Guides
 ---
 
 In the world of gaming, *Tales of the Shire* offers a delightful dive into a realm inspired by the beloved Middle-earth. This life simulation game brings the enchanting world of hobbits to your digital doorstep, allowing players to immerse themselves in a cluttered yet cozy environment.

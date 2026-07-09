@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Active adult in their 60s climbs sunlit stairs with fresh greens and a water
   bottle.
+topics:
+  - Lifestyle
 ---
 ## Understanding Aging After 60
 

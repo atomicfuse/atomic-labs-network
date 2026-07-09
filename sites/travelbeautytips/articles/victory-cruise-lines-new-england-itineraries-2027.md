@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
+  - Destinations
 image_alt: Small cruise ship sails past a rocky pine-lined coast at sunset
 ---
 ## TL;DR

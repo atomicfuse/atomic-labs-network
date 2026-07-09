@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Silhouetted person touching their neck as soft neural light patterns suggest
   trauma recovery.
+topics:
+  - Research
 ---
 ## Breakthrough Results in Small Study
 

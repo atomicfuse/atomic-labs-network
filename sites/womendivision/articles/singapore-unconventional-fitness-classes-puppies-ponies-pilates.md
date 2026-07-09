@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   People stretch in a bright wellness studio as puppies and a cat wander between
   Pilates mats.
+topics:
+  - Fitness
 ---
 ## When Fitness Meets Fun: Singapore's Animal-Assisted Workout Trend
 

@@ -36,6 +36,8 @@ quality_note: >-
   lacks specific actionable content, and relies too heavily on vague 'according
   to reports' sourcing throughout.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## Collette Recognizes Travel Advisors During Appreciation Month
 

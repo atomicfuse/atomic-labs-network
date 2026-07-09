@@ -41,6 +41,8 @@ quality_note: >-
   vs 800-1200 target) and could improve SEO optimization with better title
   length and meta description.
 image_alt: Balanced healthy meal with water and whole foods on a bright kitchen table
+topics:
+  - Nutrition Tips
 ---
 
 Eating healthily doesn't have to be complicated. By following straightforward nutrition strategies, individuals can enhance their wellness without the stress of complex dieting. Practical tips from nutrition experts help demystify the path to a healthier lifestyle by focusing on balance and sustainability.

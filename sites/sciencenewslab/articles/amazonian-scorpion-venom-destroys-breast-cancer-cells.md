@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Glowing venom droplet and particles targeting abstract cancer cells with
   Amazon rainforest tones behind
+topics:
+  - Nature
 ---
 
 The quest for effective cancer treatments has led scientists to an unexpected source: the venom of Amazonian scorpions. This intriguing discovery offers new hope in the fight against one of the most pervasive forms of cancer—breast cancer. Recent studies have revealed that compounds in the venom of specific scorpions can target and destroy breast cancer cells, paving the way for innovative therapeutic approaches.

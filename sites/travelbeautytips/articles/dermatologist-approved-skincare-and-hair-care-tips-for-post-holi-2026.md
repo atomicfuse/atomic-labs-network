@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Soft post-Holi skincare setup with aloe, towels, gentle products, and a person
   moisturizing in morning light.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 As the vibrant festival of Holi concludes, it is crucial to focus on rejuvenating your skin and hair from the effects of colors and festivities. The celebration often involves synthetic colors that can linger, causing potential skin irritation and hair damage. Here, we explore expert-recommended strategies to restore the natural glow of your skin and the vitality of your hair.

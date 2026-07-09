@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Futuristic recording studio with musicians, instruments, and glowing sound
   waves suggesting new albums
+topics:
+  - Music
 ---
 
 The music scene in 2026 is shaping up to be a remarkable year for album releases. Artists across genres are preparing to drop projects that promise to redefine musical landscapes and captivate audiences worldwide. With an array of anticipated releases, this year is set to be a vibrant period for music enthusiasts and industry insiders alike.

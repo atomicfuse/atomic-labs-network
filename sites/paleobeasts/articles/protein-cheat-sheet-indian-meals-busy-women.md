@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Balanced Indian high-protein meal plate on a bright kitchen counter with a
   woman’s hands nearby
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## The Protein Gap in Traditional Indian Meals
 

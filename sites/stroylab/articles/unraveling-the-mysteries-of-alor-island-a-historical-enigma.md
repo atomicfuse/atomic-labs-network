@@ -43,6 +43,10 @@ quality_note: >-
   significantly too short at 290 words and contains vague claims that could be
   fabricated.
 image_alt: Misty tropical island coastline with ancient stones and volcanic hills at dawn
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Alor Island, a remote part of Indonesia, has remained a source of intrigue and mystery for decades. While many places are known for singular events, Alor Island is distinguished by its persistent and puzzling occurrences that captivate both locals and outsiders. These happenings, which blur the line between folklore and reality, have been documented since the mid-twentieth century, challenging the understanding of traditional science and local myths.

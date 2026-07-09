@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Minimal writer workspace with abstract note cards on a laptop and a notebook
   beside it
+topics:
+  - Tech
 ---
 
 In our modern digital age, having a reliable note-taking application is essential for productivity and organization. One of the standout options in this domain is Anytype, an open-source, visually appealing note-taking application that caters to the needs of both casual users and professionals alike. With its unique features and user-centric design, Anytype offers a refreshing alternative to traditional note-taking apps.

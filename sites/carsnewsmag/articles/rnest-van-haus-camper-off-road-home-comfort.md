@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Rugged off-road camper van with a warm modern interior parked by a forest at
   dusk
+topics:
+  - News
 ---
 ## The Rise of Dual-Purpose Adventure Vehicles
 

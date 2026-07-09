@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Striker in a sky-blue kit sprints under floodlights as rival scouts watch from
   the shadows.
+topics:
+  - Latest News
 ---
 
 Liverpool, Manchester United, and Arsenal are reportedly eyeing a move for Coventry City striker Viktor Gyokeres. The Swedish forward has caught the attention of these Premier League giants following his impressive performances in the Championship. As the January transfer window approaches, competition for Gyokeres is expected to intensify, with each club eager to enhance their attacking options.

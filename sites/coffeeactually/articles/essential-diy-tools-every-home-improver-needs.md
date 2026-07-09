@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Three essential DIY tools arranged on a warm wooden workbench in a tidy home
   workshop
+topics:
+  - Coffee News
 ---
 
 For those who love to tackle home projects themselves, having the right tools can make all the difference. Here are three essential tools that every DIYer should consider adding to their arsenal. These tools are not just handy; they are game-changers that professionals might not want you to discover.

@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Pop performer steps from a concert stage into a dramatic TV set under rival
   spotlights.
+topics:
+  - Culture Buzz
+  - Watch
 ---
 
 Carly Rae Jepsen, the pop sensation known for her infectious hits, is making headlines once again. This time, she is stepping into the world of acting with a unique role that promises to showcase her versatility beyond music. As she joins the cast of a popular TV series, fans are eager to see how she will bring her character to life and what this means for her burgeoning career as an entertainer.

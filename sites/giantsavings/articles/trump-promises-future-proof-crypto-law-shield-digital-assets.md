@@ -38,6 +38,8 @@ quality_note: >-
   and mismatched audience targeting.
 reading_time: 3
 image_alt: Abstract digital assets protected in a glass vault before government columns
+topics:
+  - Smart Shopping
 ---
 ## Trump Vows Permanent Crypto Framework
 

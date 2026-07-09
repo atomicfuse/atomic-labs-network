@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   A glowing AI-like form hovers above a lab bench as a scientist guides an
   experiment.
+topics:
+  - Gadgets
+  - Tablets
 ---
 ## The Rise of AI Scientists
 

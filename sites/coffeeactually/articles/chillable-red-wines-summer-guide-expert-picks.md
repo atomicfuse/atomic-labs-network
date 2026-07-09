@@ -27,6 +27,8 @@ score_breakdown:
 quality_note: This is a well-written wine article but completely misaligned with coffeeactually's coffee-focused content requirements and keyword strategy.
 reading_time: 3
 image_alt: Chilled red wine glasses on a sunlit summer patio table with an unlabeled bottle in an ice bucket.
+topics:
+  - Coffee News
 ---
 ## Breaking the Red Wine Temperature Rules
 

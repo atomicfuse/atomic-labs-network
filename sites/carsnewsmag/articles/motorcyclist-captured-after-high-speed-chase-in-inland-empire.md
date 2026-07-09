@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Motorcycle on a dusk freeway shoulder with blurred patrol lights in the
   distance
+topics:
+  - News
 ---
 
 In a dramatic turn of events, a motorcyclist was taken into custody after leading the California Highway Patrol on a high-speed pursuit through the Inland Empire. The chase unfolded in San Bernardino County, capturing the attention of local residents and highlighting the challenges law enforcement faces when dealing with such situations.

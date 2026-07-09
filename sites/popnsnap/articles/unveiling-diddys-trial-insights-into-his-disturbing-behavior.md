@@ -33,6 +33,9 @@ seo:
 image_alt: >-
   A tense courthouse corridor with blurred media presence and a walker in the
   foreground.
+topics:
+  - Celebrities
+  - Music
 ---
 
 The recent trial involving Sean "Diddy" Combs has sparked significant interest and controversy. Known for his influential presence in the music and entertainment industry, Diddy has once again found himself in the spotlight, but this time for reasons far removed from his artistic achievements. The trial proceedings have revealed some disturbing aspects of his behavior that have left many fans and observers questioning the persona of this renowned celebrity.

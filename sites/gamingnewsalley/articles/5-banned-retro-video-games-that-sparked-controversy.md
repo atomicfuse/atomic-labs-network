@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Unlabeled retro game cartridges behind red-tinted glass in a moody vintage
   game shop
+topics:
+  - Gaming News
 ---
 
 Throughout the history of video gaming, certain titles have sparked controversy, leading to their removal from store shelves. These games, often retro classics, have faced backlash due to their content, themes, or cultural impact. This article explores some of the most notable cases where video games were pulled from stores, shedding light on the reasons behind these decisions and their lasting effects on the gaming industry.

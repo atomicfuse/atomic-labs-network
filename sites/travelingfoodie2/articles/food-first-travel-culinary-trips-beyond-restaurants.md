@@ -33,6 +33,9 @@ reading_time: 3
 image_alt: >-
   Travelers and local hosts share market produce at a rustic table near
   vineyards in warm afternoon light.
+topics:
+  - food
+  - Local Culture
 ---
 ## The Rise of Immersive Food Travel
 

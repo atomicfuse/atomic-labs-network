@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Adult at a quiet desk appears composed while a reflection suggests hidden
   stress and exhaustion.
+topics:
+  - Health News
 ---
 ## Widespread ADHD Masking Behaviors Revealed
 

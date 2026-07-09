@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Person sitting on a bed at dawn with one restless leg and a subtle neural
   light pattern
+topics:
+  - Research
 ---
 
 Restless leg syndrome (RLS) is a neurological disorder that causes an irresistible urge to move the legs, often accompanied by uncomfortable sensations. Recent research suggests that individuals with RLS may face a heightened risk of developing Parkinson's disease, a progressive neurological condition characterized by tremors, stiffness, and difficulty with movement and balance.

@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Elegant fine-dining table aboard a luxury cruise ship with chefs and an ocean
   horizon at dusk.
+topics:
+  - Coffee News
 ---
 ## Cruise Dining Reaches New Heights with Master Chefs Partnership
 

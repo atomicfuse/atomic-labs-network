@@ -40,6 +40,8 @@ quality_note: >-
   quotes, and comprehensive treatment coverage that perfectly matches the site's
   audience and tone.
 image_alt: Elegant skincare vanity with a soft mirror reflection and warm morning light
+topics:
+  - Beauty
 ---
 
 If you asked me what my longest relationship is to date, I wouldn't mention the eight-year stint with my childhood sweetheart. Truthfully, my longest relationship is one I entered by force and that constantly pulls me to my mirror to revel (and loathe) in the evidence of our love affair: hormonal acne.

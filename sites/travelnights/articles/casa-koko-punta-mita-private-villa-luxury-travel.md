@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Serene luxury villa terrace with infinity pool, tropical foliage, and Pacific
   horizon at dusk.
+topics:
+  - Destinations
 ---
 ## The Rise of Private Villa Luxury
 

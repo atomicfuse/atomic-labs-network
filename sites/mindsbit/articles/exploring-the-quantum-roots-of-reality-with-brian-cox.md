@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Physicist silhouette facing glowing quantum patterns emerging into a cosmic
   field
+topics:
+  - Ideas
+  - Mind
+  - Tech
 ---
 
 Quantum mechanics stands as one of the most transformational theories in the realm of physics. In a compelling interview, Brian Cox, a renowned physicist, delves into the quantum roots of reality, exploring how this groundbreaking theory emerged and revolutionized classical physics. Cox's discussion traces the journey from early scientific insights to the profound implications of quantum mechanics today.

@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Colonial meeting room glowing with eerie mushrooms as a shadowed patriarch
   stands in candlelight.
+topics:
+  - TV & Movies
 ---
 ## From Comedy to Colonial Horror: How 'Widow's Bay' Reinvented Itself
 

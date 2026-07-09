@@ -35,6 +35,8 @@ quality_note: >-
   future events as fact, and doesn't match the required travel/destination
   content focus.
 reading_time: 3
+topics:
+  - Adventure Activities
 ---
 
 ## Veteran Fighter Shows Championship Mettle

@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Glossy black supercar under showroom lights with dramatic reflections and
   aggressive aerodynamic styling
+topics:
+  - News
 ---
 ## Early Resale Sparks Market Interest
 

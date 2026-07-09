@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Traveler with suitcase waits in a busy airport terminal during uncertain
   travel conditions.
+topics:
+  - Culture
 ---
 
 Traveling during a government shutdown can pose unique challenges, but with the right strategies, you can navigate these hurdles smoothly. Understanding the impact of the shutdown on various services and planning accordingly can make a significant difference in your travel experience.

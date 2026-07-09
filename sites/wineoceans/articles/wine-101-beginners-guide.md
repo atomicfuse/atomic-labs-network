@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sunlit table with wine glasses, grapes, cheese, bread, and unlabelled bottles
   in a relaxed tasting setup.
+topics:
+  - Wine for beginners
 ---
 ## TL;DR
 Wine is a complex yet accessible beverage. This guide simplifies wine tasting, pairing, and appreciating all without the snobbery. Learn how to enjoy wine confidently!

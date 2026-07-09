@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Three refreshing low-alcohol cocktails on a sunlit bar table with citrus,
   herbs, and sparkling ice.
+topics:
+  - Wine news
 ---
 ## The Rise of Sessionable Cocktails
 

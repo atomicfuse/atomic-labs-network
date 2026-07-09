@@ -33,6 +33,8 @@ quality_note: >-
   Article has good tone and keyword coverage but is significantly under the
   target word count at 450 words, which severely impacts overall quality.
 image_alt: Playful cat and surprised dog create a funny moment in a bright living room
+topics:
+  - Pet Care & Health
 ---
 ## New Collection of Funny Animal Content
 

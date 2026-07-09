@@ -1,9 +1,12 @@
 ---
 title: Karol G Wins International Artist Award at 2026 AMAs
-description: Karol G received the International Artist Award of Excellence at the 2026 American Music Awards, reflecting on finding purpose through her music as Latin...
+description: >-
+  Karol G received the International Artist Award of Excellence at the 2026
+  American Music Awards, reflecting on finding purpose through her music as
+  Latin...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -13,7 +16,8 @@ tags:
   - international-artist
 slug: karol-g-international-artist-award-2026-amas
 reviewer_notes: Approved via review queue.
-source_url: https://people.com/amas-2026-karol-g-honored-international-artist-award-of-excellence-11977891
+source_url: >-
+  https://people.com/amas-2026-karol-g-honored-international-artist-award-of-excellence-11977891
 source_item_id: 6a151f7316f23264031d8107
 generated_by: claude
 featuredImage: /assets/images/karol-g-international-artist-award-2026-amas.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: The article demonstrates strong tone and keyword relevance but contains fabricated future events (2026 AMAs) and falls significantly short of the target word count.
+quality_note: >-
+  The article demonstrates strong tone and keyword relevance but contains
+  fabricated future events (2026 AMAs) and falls significantly short of the
+  target word count.
 reading_time: 2
-image_alt: Latin pop performer holds a crystal award on a violet-lit stage as golden soundwaves glow around her.
+image_alt: >-
+  Latin pop performer holds a crystal award on a violet-lit stage as golden
+  soundwaves glow around her.
+topics:
+  - Breaking News
 ---
 ## Karol G Honored with Prestigious International Artist Award
 

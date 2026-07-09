@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Gold crypto coins pressed against a glass barrier with faint red market lines
   behind them.
+topics:
+  - Smart Shopping
 ---
 ## Corporate Bitcoin Strategy Hits Financial Roadblocks
 

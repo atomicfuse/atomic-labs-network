@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Taped planter box outside a vet clinic as a worker prepares a cat carrier
   nearby
+topics:
+  - Pet Care & Health
 ---
 ## A Disturbing Discovery at the Clinic Door
 

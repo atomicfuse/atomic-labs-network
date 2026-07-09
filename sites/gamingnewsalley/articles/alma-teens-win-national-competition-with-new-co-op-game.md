@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Teen developers collaborate around a glowing laptop and game controller in a
   school media lab.
+topics:
+  - Gaming News
 ---
 
 In an impressive display of creativity and technical prowess, a group of talented teenagers from Alma, Arkansas, has achieved national recognition by developing an innovative cooperative video game. These young developers participated in a prestigious competition and emerged victorious, capturing the first-place title and demonstrating the potential of young minds in the gaming industry.

@@ -47,6 +47,9 @@ quality_note: >-
   accuracy, but falls significantly short of the target word count at only 311
   words.
 image_alt: Car stopped on higher ground as heavy rain floods a roadway ahead
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 With the onslaught of inclement weather, it's crucial to stay safe and well-prepared, especially when venturing out. The Mobile Fire-Rescue Department provides invaluable guidelines for navigating through flash flood warnings, ensuring your well-being during these tumultuous times.

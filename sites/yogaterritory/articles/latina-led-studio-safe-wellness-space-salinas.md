@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Diverse women gather in a warm wellness studio, smiling together after a group
   class.
+topics:
+  - Yoga Routines
+  - Wellness
 ---
 ## Building Community Through Movement
 

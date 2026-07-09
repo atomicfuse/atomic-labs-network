@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Cinematic Wilmington riverfront scene blending coastal atmosphere with film
   and music motifs
+topics:
+  - TV News
 ---
 
 Wilmington, North Carolina, has long been a captivating backdrop for the film and television industry, known for its picturesque landscapes and vibrant cultural scene. This charming coastal city has not only provided stunning visuals but also served as an inspiration for numerous iconic soundtracks that have become synonymous with the entertainment projects filmed here. From classic hits to contemporary tunes, Wilmington's influence on music in visual media is both significant and enduring.

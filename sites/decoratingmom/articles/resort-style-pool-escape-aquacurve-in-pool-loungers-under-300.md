@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   White in-pool loungers on a sun shelf in a stylish backyard pool with
   resort-inspired decor
+topics:
+  - Budget Decor
 ---
 ## Bringing Resort Luxury Home for Less
 

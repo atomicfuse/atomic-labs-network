@@ -42,6 +42,8 @@ quality_note: >-
   on content length (543 vs target 1000 words) and lacks alignment with
   yoga/wellness keywords, focusing instead on general calf exercises.
 image_alt: Person doing gentle calf raises in a bright home space after a healthy lunch.
+topics:
+  - Yoga Poses
 ---
 
 Life can be hectic, and finding the time to manage your health might seem daunting. However, incorporating specific exercises into your daily routine can significantly boost your well-being. Exercising after meals, particularly focusing on the calves, can help regulate blood sugar levels, making it an efficient strategy for better health management. Here, we explore five simple calf exercises that you can effortlessly integrate into your post-lunch routine to promote blood sugar control.

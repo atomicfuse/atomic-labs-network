@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Premium makeup products arranged on a soft vanity with brushes, swatches, and
   elegant shopping packaging.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Laura Geller's makeup line has become a favorite among beauty enthusiasts, known for its quality and ability to enhance one's natural beauty. With a wide range of products that cater to different skin tones and types, Laura Geller has cemented its place in the beauty industry. From foundation to highlighters, the brand offers something for everyone looking to achieve a flawless look.

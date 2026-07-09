@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Couple with luggage navigating a tense travel moment in a modern airport
   lounge
+topics:
+  - Destination Guides
 ---
 ## The Rise of Travel as a Relationship Litmus Test
 

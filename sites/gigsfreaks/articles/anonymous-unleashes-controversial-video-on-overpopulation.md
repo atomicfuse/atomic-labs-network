@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   A dim desk with a glitching anonymous figure on a laptop against a crowded
   city and Earth backdrop
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 The hacking group Anonymous has once again captured public attention with a recent release that has taken social media by storm. The video, unsettling to many, highlights the pressing issue of human overpopulation, featuring clips of the late Prince Philip and other notable figures expressing their concerns.

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Students prepare for a safe spring break trip with luggage and travel
   essentials near a sunny coast.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 As spring break approaches, students eagerly anticipate a time of relaxation and fun. Yet, ensuring personal safety during this period is crucial. Travelers should be aware of essential safety tips and advisories to ensure a memorable and secure experience during spring break.

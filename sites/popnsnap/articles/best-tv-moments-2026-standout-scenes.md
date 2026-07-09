@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Glowing TV screens show abstract dramatic scenes above an empty sofa in moody
   cinematic light.
+topics:
+  - TV & Movies
 ---
 ## The Scenes That Define 2026's Television Landscape
 

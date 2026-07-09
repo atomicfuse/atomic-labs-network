@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Luxury Miami poolside Pilates setup with swimwear styling and beauty items at
   golden hour
+topics:
+  - Wellness
 ---
 ## Fashion Week Embraces Wellness Culture
 

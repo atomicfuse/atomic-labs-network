@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Travelers share a warm courtyard gathering with local creatives in Spain or
   Portugal.
+topics:
+  - Destinations
 ---
 ## Redefining Luxury Travel Through Human Connection
 

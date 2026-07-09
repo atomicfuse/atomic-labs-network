@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Latino teens gather around a glowing phone with warm and cool light suggesting
   social media’s mixed impact.
+topics:
+  - Parenting
 ---
 ## Youth Voices Lead Mental Health Research
 

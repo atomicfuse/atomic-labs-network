@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Silver convertible roadster driving through a sunlit desert curve with
   mountains in the distance
+topics:
+  - Reviews
 ---
 ## The Enduring Appeal of an Automotive Icon
 

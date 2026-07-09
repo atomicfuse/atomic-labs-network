@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Turquoise exotic supercar under showroom lights with a premium, high-demand
   resale atmosphere
+topics:
+  - News
 ---
 ## Early Temerario Surfaces at U.S. Dealer
 

@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Abstract Latin America map split between crypto enforcement, mining shutdowns,
   and banking adoption
+topics:
+  - Smart Shopping
 ---
 ## A Tale of Two Crypto Realities
 

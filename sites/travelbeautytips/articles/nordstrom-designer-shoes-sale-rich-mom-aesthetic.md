@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Elegant fitting lounge with neutral designer-style shoes arranged on a marble
   bench.
+topics:
+  - Lifestyle
 ---
 ## Major Savings on Designer Footwear
 

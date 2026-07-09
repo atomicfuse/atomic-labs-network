@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Traveler with luggage looks toward blended summer destinations under dramatic
   clouds.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Travelers Adapt Rather Than Cancel Plans
 

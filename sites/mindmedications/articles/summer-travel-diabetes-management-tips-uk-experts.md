@@ -35,6 +35,8 @@ quality_note: >-
   factual accuracy concerns.
 reading_time: 3
 image_alt: Diabetes travel supplies packed in an open suitcase under warm summer light
+topics:
+  - Wellness
 ---
 ## Essential Diabetes Management for Summer Travelers
 

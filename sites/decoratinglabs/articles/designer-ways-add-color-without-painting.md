@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Colorful renter-friendly living room with layered textiles, art, plants, and
   removable decor accents.
+topics:
+  - home hacks
+  - budget decor
 ---
 ## The Rise of Non-Permanent Color Solutions
 

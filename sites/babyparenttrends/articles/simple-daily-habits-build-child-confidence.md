@@ -31,6 +31,8 @@ quality_note: >-
   length and uses vague sourcing that weakens credibility.
 reading_time: 3
 image_alt: 'Parent encourages a child during a small everyday task in a warm, sunlit home.'
+topics:
+  - Parenting
 ---
 ## The Power of Present-Moment Nurturing
 

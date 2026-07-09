@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Advanced yogi practicing at sunrise on a quiet terrace overlooking misty
   Rishikesh foothills
+topics:
+  - Yoga Poses
 ---
 
 Yoga is a journey that deepens with practice, and for those who have moved beyond the basics, Patanjali Yoga Rishikesh offers a transformative experience through advanced yoga asanas. These postures not only improve physical strength and flexibility but also enhance mental focus and inner peace. Located in the serene surroundings of Rishikesh, India, Patanjali Yoga provides an ideal setting for intermediate to advanced practitioners to refine their skills.

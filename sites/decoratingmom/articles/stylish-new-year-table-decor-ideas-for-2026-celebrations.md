@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Elegant candlelit New Year table setting with gold accents, winter greenery,
   and crystal glassware.
+topics:
+  - Decor Ideas
 ---
 
 As the New Year approaches, the thought of gathering around a beautifully set table becomes irresistible. Whether hosting a grand dinner party or a cozy family meal, the right table decor can set the mood and create a memorable ambience. This guide will explore innovative table decor ideas to inspire your celebrations and ensure your dining space reflects joy and warmth.

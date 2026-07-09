@@ -45,6 +45,11 @@ quality_note: >-
 image_alt: >-
   Luxury summer travel scene with an infinity pool, turquoise bay, and chic
   vacation accessories
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 
 This summer, celebrities are flocking to some of the most exotic and picturesque locations around the globe. From the soothing beaches of Thailand to the vibrant streets of Europe, these stars are setting trends with their travel choices, offering fans a glimpse into their luxurious getaways. These destinations are not just about relaxation but also provide cultural enrichment and unique experiences.

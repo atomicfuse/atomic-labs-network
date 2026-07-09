@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Stylish models in dramatic couture pose on a glamorous red carpet under camera
   flashes.
+topics:
+  - Fashion
 ---
 
 ## All the Red Carpet Looks at the 2025 Grammys

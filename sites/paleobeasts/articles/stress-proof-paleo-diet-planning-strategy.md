@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Organized paleo meal prep on a bright kitchen counter with work items blurred
   in the background.
+topics:
+  - Paleo Diet
+  - Nutrition
+  - Meal Plans
 ---
 ## The Science Behind Stress and Food Choices
 

@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Sunlit kitchen scene with healthy food, exercise gear, and a calm couple
   symbolizing balanced well-being.
+topics:
+  - Fitness
+  - Lifestyle
 ---
 
 Maintaining heart health is crucial for overall well-being, and adopting a healthy lifestyle plays a significant role in this endeavor. With the rise in heart-related ailments, it's essential to focus on habits that promote cardiovascular health. By following a structured approach, you can significantly reduce the risk of heart disease and improve your quality of life.

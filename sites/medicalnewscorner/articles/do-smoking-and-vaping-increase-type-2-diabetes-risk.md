@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Cigarette, vape pen, and nicotine pouch beside abstract glucose-risk visuals
   on a clinical table.
+topics:
+  - Drugs
 ---
 
 The connection between smoking, vaping, and the use of nicotine pouches with increased risk of type 2 diabetes has become a significant concern for public health experts. As these nicotine delivery methods grow in popularity, understanding their potential impact on metabolic health is crucial for informing both users and healthcare providers.

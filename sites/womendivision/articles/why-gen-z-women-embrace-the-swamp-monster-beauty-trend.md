@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Young woman in avant-garde swamp-inspired makeup under soft green editorial
   lighting
+topics:
+  - Beauty
 ---
 
 The beauty industry is constantly evolving, with trends quickly gaining popularity and captivating audiences worldwide. A recent craze that has caught the attention of Gen Z women is the "Monster Shed" beauty trend. This unique trend, though popular, has sparked conversations about potential health concerns among experts.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Adults prepare for yoga, Pilates, and strength training in a bright boutique
   fitness studio.
+topics:
+  - Fitness
 ---
 ## A Revolutionary Fitness Concept Arrives in North Dallas
 

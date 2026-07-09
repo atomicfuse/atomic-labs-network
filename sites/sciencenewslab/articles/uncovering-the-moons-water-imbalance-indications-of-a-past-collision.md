@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Moon surface with contrasting blue and gray regions suggesting uneven water
   distribution and ancient impact debris
+topics:
+  - Space
+  - Physics
 ---
 
 There's a captivating enigma unfolding on the moon's surface. It appears that a surprising water imbalance exists on our closest celestial neighbor, suggesting evidence of a past collision. The implications of this discovery are vast, as it could provide critical insight into the Moon's origins and its geological history.

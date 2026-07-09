@@ -39,6 +39,8 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under the target word count of 800-1200 words at only 504 words.
 image_alt: Person practicing morning yoga in a sunlit minimalist room
+topics:
+  - Yoga Poses
 ---
 
 Starting your day with a burst of energy can set a positive tone for the hours ahead. Integrating yoga into your morning routine not only revitalizes your body but also calms your mind. Discover essential yoga poses that can boost your morning energy and help you embrace the day with enthusiasm.

@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Researcher examines glowing lab samples, symbolizing new investment in
   antibiotic development.
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 The escalating issue of antimicrobial resistance (AMR) has captured the attention of global health organizations and philanthropists alike. Amidst growing concerns, a significant funding initiative has been launched to combat this pressing threat. The Bill & Melinda Gates Foundation, Novo Nordisk Foundation, and Wellcome Trust have collectively committed $60 million to bolster research in antibiotic development. This collaboration aims to address the urgent need for new antimicrobial solutions to tackle drug-resistant infections.

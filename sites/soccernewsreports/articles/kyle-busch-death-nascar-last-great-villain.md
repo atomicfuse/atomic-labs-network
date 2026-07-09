@@ -36,6 +36,8 @@ quality_note: >-
   severely damage the site's credibility.
 reading_time: 3
 image_alt: Empty nighttime pit lane with a lone racing helmet under stadium lights
+topics:
+  - Latest News
 ---
 ## NASCAR Loses Its Most Polarizing Star
 

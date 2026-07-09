@@ -34,6 +34,8 @@ reading_time: 4
 image_alt: >-
   Casual wine tasting table with glasses, bottles, grapes, cheese, bread, and
   warm natural light
+topics:
+  - Wine for beginners
 ---
 ## Wine Doesn't Have to Be Intimidating
 

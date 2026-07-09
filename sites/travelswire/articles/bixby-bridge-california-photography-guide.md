@@ -1,9 +1,11 @@
 ---
-title: "Bixby Bridge: How to Capture California's Most Photographed Span"
-description: Discover the best viewpoints, lighting tips, and safety advice for photographing California's iconic Bixby Bridge on Highway 1, ensuring you...
+title: 'Bixby Bridge: How to Capture California''s Most Photographed Span'
+description: >-
+  Discover the best viewpoints, lighting tips, and safety advice for
+  photographing California's iconic Bixby Bridge on Highway 1, ensuring you...
 type: standard
 status: published
-publishDate: 2024-08-15
+publishDate: 2024-08-15T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - travel photography
@@ -12,8 +14,9 @@ tags:
   - Big Sur
   - landmarks
 slug: bixby-bridge-california-photography-guide
-reviewer_notes: ""
-source_url: https://www.travelandleisure.com/trip-ideas/road-trips/bixby-bridge-big-sur-california
+reviewer_notes: ''
+source_url: >-
+  https://www.travelandleisure.com/trip-ideas/road-trips/bixby-bridge-big-sur-california
 source_item_id: 7e019bca3b1b385d797bf96b
 generated_by: claude
 featuredImage: /assets/images/bixby-bridge-california-photography-guide.webp
@@ -24,8 +27,13 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: Excellent, practical guide that directly addresses the user's intent. The content is well-structured, actionable, and includes crucial safety information. Tone is appropriate for a travel/photography guide.
+quality_note: >-
+  Excellent, practical guide that directly addresses the user's intent. The
+  content is well-structured, actionable, and includes crucial safety
+  information. Tone is appropriate for a travel/photography guide.
 reading_time: 4
+topics:
+  - Destination Guides
 ---
 Bixby Bridge is one iconic arch and California's most photographed moment on Highway 1. But getting the shot everyone wants requires knowing exactly where to stand and when the light hits. Here's how.
 

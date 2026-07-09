@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Futuristic gaming workspace blended with plants and recycled materials to
   suggest sustainable game development.
+topics:
+  - Gaming News
 ---
 
 The gaming industry is undergoing a significant transformation, focusing more on sustainability and eco-friendly practices. As the world becomes increasingly aware of environmental issues, game developers are stepping up to integrate green initiatives in game design and production. This shift not only aligns with global environmental goals but also resonates with a growing segment of eco-conscious gamers.

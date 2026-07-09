@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Empty family dinner table with a police cap and a shadowed studio doorway in
   the background.
+topics:
+  - TV Shows
 ---
 
 Fans of the long-running television drama "Blue Bloods" were taken aback by the unexpected announcement of its cancellation. This beloved show, which graced our screens for over a decade, explored the lives of the Reagan family in New York City, with themes centered around law enforcement and family dynamics. The news has sparked discussions among viewers and industry insiders alike, raising questions about what led to this surprising decision.

@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Misty Scottish standing stones with a glowing time spiral and antique objects
   on moss.
+topics:
+  - TV & Movies
 ---
 ## Making Sense of Outlander's Time-Hopping Saga
 

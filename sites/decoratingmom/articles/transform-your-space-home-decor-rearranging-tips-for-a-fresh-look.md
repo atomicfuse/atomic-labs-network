@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Sunlit living room styled with rearranged decor, plants, books, and cozy
   neutral furnishings.
+topics:
+  - Decor Ideas
 ---
 
 Are you looking to breathe new life into your living space without breaking the bank? In this home decor update, we'll explore how simple rearrangements and intentional changes can transform your home into a cozy, elevated sanctuary. By shopping within your own home, you can achieve a fresh look that aligns with the current season and your personal style.

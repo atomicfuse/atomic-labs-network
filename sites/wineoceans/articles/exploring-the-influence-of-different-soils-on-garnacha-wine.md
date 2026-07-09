@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Garnacha grapes, varied vineyard soils, and a glass of red wine glowing in
   golden hour light.
+topics:
+  - Wine news
 ---
 ## Understanding Terroir's Role in Garnacha Production
 

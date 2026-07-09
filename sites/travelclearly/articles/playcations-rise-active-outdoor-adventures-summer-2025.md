@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Friends gather lakeside with kayaks and outdoor gear during a sunny summer
   playcation.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Rise of Playcations in American Travel
 

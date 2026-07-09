@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Baby bottle, keys, and blank legal papers on a table as a couple stands
   blurred in the background.
+topics:
+  - Parenting
 ---
 ## Viral Warning Draws Attorney Support
 

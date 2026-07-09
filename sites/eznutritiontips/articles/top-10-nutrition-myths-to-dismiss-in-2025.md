@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Balanced healthy foods on a bright kitchen counter with abstract shards
   dissolving around them
+topics:
+  - Nutrition Myths
 ---
 
 The world of nutrition is rife with misconceptions that can mislead even the most health-conscious individuals. As we look towards a healthier future, it's crucial to debunk outdated beliefs and embrace evidence-based practices. In this exploration, we unravel common nutrition myths that continue to circulate, offering clarity and encouraging informed dietary choices.

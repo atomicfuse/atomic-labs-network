@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   A family enjoys a sunny Greek coastal terrace with Aegean views and ancient
   ruins nearby.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Traveling with young ones can be a deeply rewarding experience, and Greece offers a perfect blend of history, culture, and stunning landscapes to explore with your family. From ancient ruins to idyllic beaches, this Mediterranean gem is filled with opportunities for both adventure and relaxation.

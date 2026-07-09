@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in cuffed baggy jeans walking through a sunny theme-park-style
   promenade
+topics:
+  - Travel Tips
 ---
 ## Celebrity Style Meets Budget-Friendly Fashion
 

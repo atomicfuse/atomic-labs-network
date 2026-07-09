@@ -41,6 +41,11 @@ quality_note: >-
   anime tourism, though the title could be slightly more compelling for SEO
   optimization.
 image_alt: Filipino travelers explore a glowing Tokyo street inspired by anime tourism.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 
 Anime is no longer just shaping what Filipinos watch at home. It is also influencing where they fly, what they photograph, and how they plan their Japan itineraries. For many Filipino travelers, a trip to Japan now includes more than temples, food streets, and cherry blossoms. It can also mean standing at a train crossing seen in a beloved series, browsing shelves of character goods, or visiting neighborhoods that inspired unforgettable animated scenes.

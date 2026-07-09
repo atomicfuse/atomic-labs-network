@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sunlit summer beauty essentials arranged poolside with skincare, citrus,
   linen, sunglasses, and tropical greenery.
+topics:
+  - Beauty Tips
 ---
 
 Thoroughly brace yourself for summer with these must-know beauty tips. As the summer season approaches, it's the perfect time to know how to glow without the sweat. These essential beauty self-care tips are for ladies who want to remain fresh, stylish, and cool all season long, covering everything from skincare advice to fashion hacks.

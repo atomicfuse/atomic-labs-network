@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Calm silhouette surrounded by soft colorful neural patterns in a serene
   wellness setting
+topics:
+  - Research
+  - Drugs
 ---
 
 Recent scientific studies have highlighted the potential benefits of LSD, a powerful psychedelic, in alleviating anxiety symptoms. As mental health challenges continue to rise globally, researchers are exploring unconventional therapies, finding that even a single dose of LSD may offer significant relief.

@@ -1,9 +1,11 @@
 ---
 title: Bitcoin Treasury Companies Leverage Warning Signals Market Risk
-description: Charles Edwards warns that bitcoin treasury companies using record debt levels to buy BTC create systemic risks that could amplify market downturns.
+description: >-
+  Charles Edwards warns that bitcoin treasury companies using record debt levels
+  to buy BTC create systemic risks that could amplify market downturns.
 type: standard
 status: published
-publishDate: 2026-06-11
+publishDate: 2026-06-11T00:00:00.000Z
 author: Olivia Morgan
 tags:
   - Smart Shopping
@@ -13,7 +15,8 @@ tags:
   - market analysis
 slug: bitcoin-treasury-companies-leverage-warning-market-risk
 reviewer_notes: Approved via review queue.
-source_url: https://news.bitcoin.com/charles-edwards-bitcoin-treasuries-levering-up-record-rates/
+source_url: >-
+  https://news.bitcoin.com/charles-edwards-bitcoin-treasuries-levering-up-record-rates/
 source_item_id: 6a2a32c37da23de6325b9a70
 generated_by: claude
 featuredImage: /assets/images/bitcoin-treasury-companies-leverage-warning-market-risk.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: This article is completely off-topic for a personal finance site focused on saving tips and budgeting, covering complex cryptocurrency market analysis instead of practical money-saving advice for consumers.
+quality_note: >-
+  This article is completely off-topic for a personal finance site focused on
+  saving tips and budgeting, covering complex cryptocurrency market analysis
+  instead of practical money-saving advice for consumers.
 reading_time: 3
-image_alt: Precarious stack of generic crypto coins and balance-sheet blocks suggesting leveraged market risk.
+image_alt: >-
+  Precarious stack of generic crypto coins and balance-sheet blocks suggesting
+  leveraged market risk.
+topics:
+  - Smart Shopping
 ---
 ## Record Leverage Creates 'Fake Yield' Concerns
 

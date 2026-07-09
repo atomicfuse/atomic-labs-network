@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Modern airport gaming lounge with travelers, glowing stations, and a robotic
   bartender preparing drinks
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## Airport Gaming Gets an Automated Upgrade
 

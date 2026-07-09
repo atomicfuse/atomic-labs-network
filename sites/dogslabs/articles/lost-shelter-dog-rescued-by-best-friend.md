@@ -34,6 +34,8 @@ quality_note: >-
   slightly more content depth.
 reading_time: 3
 image_alt: Two shelter dogs share a gentle nose-to-nose moment in a sunny grassy yard.
+topics:
+  - Pet Care & Health
 ---
 ## When Friendship Becomes a Lifeline
 

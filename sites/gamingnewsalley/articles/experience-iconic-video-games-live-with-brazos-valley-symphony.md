@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Orchestra on a glowing stage with abstract pixel lights suggesting video game
   music performed live
+topics:
+  - Gaming News
 ---
 
 Experience the thrill of gaming like never before with the Brazos Valley Symphony Orchestra's unique event. This spectacular production merges the world of symphonic music with the exhilarating universe of video games, offering a live concert that will captivate audiences of all ages. With the sounds of legendary video games brought to life by a full orchestra, attendees can expect an unforgettable evening filled with nostalgia and excitement.

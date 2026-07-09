@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Yellow whisky bottle half-submerged on a misty Scottish shoreline beside a
   tasting glass.
+topics:
+  - Coffee News
 ---
 ## A Cult Series Resurfaces
 

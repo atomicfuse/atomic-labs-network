@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Abstract crypto trading chart plunges toward a glowing support line in a dark
   market setting.
+topics:
+  - Smart Shopping
 ---
 ## XRP Faces Sharp Decline as Crypto Markets Experience Mass Liquidations
 

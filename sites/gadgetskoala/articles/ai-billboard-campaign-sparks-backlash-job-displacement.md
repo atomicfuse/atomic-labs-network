@@ -38,6 +38,9 @@ reading_time: 2
 image_alt: >-
   Pedestrians look up at a glowing AI-themed billboard on a tense city street at
   night.
+topics:
+  - Gadgets
+  - Tablets
 ---
 ## AI Marketing Campaign Triggers Public Outcry
 

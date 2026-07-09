@@ -38,6 +38,9 @@ quality_note: >-
   coverage, and professional SEO structure, though some minor factual claims
   about Geely's global connections could be more specific.
 image_alt: Unbadged modern hybrid SUV on an Australian coastal road at golden hour
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 The Geely Starray EM-i Inspire arrives with a clear mission: deliver plug-in hybrid efficiency, family-friendly space and premium-style equipment without pushing into luxury SUV pricing. For Australian buyers comparing new medium SUVs, this electrified newcomer is one of the more interesting options to watch.

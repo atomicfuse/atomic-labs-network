@@ -42,6 +42,8 @@ quality_note: >-
   short on length at 568 words (target is 800-1200) and could benefit from
   better heading structure for SEO.
 image_alt: 'Older adult practicing a hip-opening yoga pose in a bright, peaceful room'
+topics:
+  - Yoga Poses
 ---
 
 As we age, maintaining flexibility and strength in our hips becomes increasingly important for overall mobility and health. Many people experience tight hips due to prolonged sitting or lack of movement, which can lead to discomfort and reduced range of motion. Incorporating specific yoga poses into your routine can help improve hip flexibility and strength, enhancing your daily life and physical activities.

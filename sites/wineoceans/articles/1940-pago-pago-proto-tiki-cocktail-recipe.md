@@ -39,6 +39,8 @@ videos:
 image_alt: >-
   Golden tropical cocktail in a coupe on a vintage bar with art deco details and
   soft tropical greenery.
+topics:
+  - Wine recipes
 ---
 ## A Forgotten Classic From 1940
 

@@ -42,6 +42,8 @@ reading_time: 3
 image_alt: >-
   Festivalgoers navigate Nashville transit routes at golden hour on the way to a
   country music event.
+topics:
+  - Hot Trends
 ---
 ## CMA Fest 2026: Your Complete Transportation Survival Guide
 

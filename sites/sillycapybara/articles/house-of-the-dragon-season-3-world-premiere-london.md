@@ -1,9 +1,12 @@
 ---
 title: House Of The Dragon Season 3 World Premiere Dazzles London
-description: HBO celebrates House of the Dragon Season 3 with a glitzy London premiere, featuring the full cast ahead of the June 21 debut and confirmed fourth season...
+description: >-
+  HBO celebrates House of the Dragon Season 3 with a glitzy London premiere,
+  featuring the full cast ahead of the June 21 debut and confirmed fourth
+  season...
 type: standard
 status: published
-publishDate: 2026-06-11
+publishDate: 2026-06-11T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +16,7 @@ tags:
   - television
 slug: house-of-the-dragon-season-3-world-premiere-london
 reviewer_notes: Approved via review queue.
-source_url: https://deadline.com/gallery/house-of-the-dragon-world-premiere-photos/
+source_url: 'https://deadline.com/gallery/house-of-the-dragon-world-premiere-photos/'
 source_item_id: 6a279471eb470600f970535a
 generated_by: claude
 featuredImage: /assets/images/house-of-the-dragon-season-3-world-premiere-london.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: Article appears to contain fabricated information about Season 3 premiere and renewal, lacks entertainment focus, uses overly formal tone, and is too short for site standards.
+quality_note: >-
+  Article appears to contain fabricated information about Season 3 premiere and
+  renewal, lacks entertainment focus, uses overly formal tone, and is too short
+  for site standards.
 reading_time: 2
-image_alt: Moody London red carpet premiere with paparazzi flashes and subtle dragon-inspired shadows.
+image_alt: >-
+  Moody London red carpet premiere with paparazzi flashes and subtle
+  dragon-inspired shadows.
+topics:
+  - Viral
 ---
 ## HBO's Dragon Spectacle Takes Flight in London
 

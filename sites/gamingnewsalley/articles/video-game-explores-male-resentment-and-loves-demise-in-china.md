@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Woman game developer in neon-lit studio with shadowed player silhouettes and
   abstract digital reflections
+topics:
+  - Gaming News
 ---
 
 China's video game industry is witnessing a significant transformation, with an increasing number of women assuming prominent roles in both playing and developing games. This shift is redefining the landscape of gaming in China, a country known for its stringent regulations on video game content and playtime.

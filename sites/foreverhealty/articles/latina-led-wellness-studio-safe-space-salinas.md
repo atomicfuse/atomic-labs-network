@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Latina women share a warm moment inside a sunlit wellness studio after a
   movement class.
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## Building Community Through Inclusive Wellness
 

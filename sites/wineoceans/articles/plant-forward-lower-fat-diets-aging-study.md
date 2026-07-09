@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Older hands preparing a colorful plant-forward meal on a warm sunlit kitchen
   table.
+topics:
+  - Wine news
 ---
 ## New Research Explores Diet's Impact on Biological Age
 

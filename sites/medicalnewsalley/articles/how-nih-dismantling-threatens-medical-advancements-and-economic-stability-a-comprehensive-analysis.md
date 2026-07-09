@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Scientist holding a glowing petri dish in a lab with fractured reflections
   suggesting uncertainty.
+topics:
+  - Health News
 ---
 
 The future of medical advancements and economic growth could be at stake if the National Institutes of Health (NIH) faces severe budget cuts, as proposed by certain sectors. If these proposed changes come to fruition, not only will the development of life-saving treatments be significantly hindered, but the economy may also suffer a serious blow.

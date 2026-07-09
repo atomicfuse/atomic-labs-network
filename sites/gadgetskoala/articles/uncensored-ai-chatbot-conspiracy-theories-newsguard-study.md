@@ -1,9 +1,11 @@
 ---
-title: Uncensored AI Chatbot Spreads Conspiracy Theories, Study Finds
-description: NewsGuard investigation reveals how an 'uncensored AI' chatbot actively promotes conspiracy theories and misinformation without content safeguards.
+title: 'Uncensored AI Chatbot Spreads Conspiracy Theories, Study Finds'
+description: >-
+  NewsGuard investigation reveals how an 'uncensored AI' chatbot actively
+  promotes conspiracy theories and misinformation without content safeguards.
 type: standard
 status: published
-publishDate: 2026-06-04
+publishDate: 2026-06-04T00:00:00.000Z
 author: Hannah Adams
 tags:
   - gadgets
@@ -13,7 +15,8 @@ tags:
   - artificial-intelligence
 slug: uncensored-ai-chatbot-conspiracy-theories-newsguard-study
 reviewer_notes: Approved via review queue.
-source_url: https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2FzM21Bb093RXoxUE1TcFNpdHlCWVlrWF9QR1pqb290QmZTRkE2cHJhQkF4MGR2WlRqeV9YWlpHTE5kamlaREYzRVdQQUphOGNuTS1tX196YTFKeW9pUUs0UXZVUWpEcU9rb0dBT0JITmN6WVE3LWxwbEdMNWhIaW5Kc2xBQQ?oc=5
+source_url: >-
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2FzM21Bb093RXoxUE1TcFNpdHlCWVlrWF9QR1pqb290QmZTRkE2cHJhQkF4MGR2WlRqeV9YWlpHTE5kamlaREYzRVdQQUphOGNuTS1tX196YTFKeW9pUUs0UXZVUWpEcU9rb0dBT0JITmN6WVE3LWxwbEdMNWhIaW5Kc2xBQQ?oc=5
 source_item_id: 6a204fccad9a1dd21ebb6633
 generated_by: claude
 featuredImage: /assets/images/uncensored-ai-chatbot-conspiracy-theories-newsguard-study.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: Article lacks proper SEO structure and completely misses the site's technology focus, reading more like news analysis than gadget-focused content for tech enthusiasts.
+quality_note: >-
+  Article lacks proper SEO structure and completely misses the site's technology
+  focus, reading more like news analysis than gadget-focused content for tech
+  enthusiasts.
 reading_time: 3
-image_alt: Dark laptop scene with fractured digital chat bubbles suggesting AI-driven misinformation.
+image_alt: >-
+  Dark laptop scene with fractured digital chat bubbles suggesting AI-driven
+  misinformation.
+topics:
+  - Gadgets
 ---
 ## Investigation Reveals Dangerous AI Content
 

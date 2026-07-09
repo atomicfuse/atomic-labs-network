@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Patient and clinician discuss medication with a subtle neural pattern
   suggesting memory and brain health.
+topics:
+  - Drugs
 ---
 
 Analyzing the potential side effects of medications is crucial for understanding their impacts on health conditions. Lithium, a common medication for bipolar disorder, is often scrutinized for its effects on memory and cognitive functions. Patients and healthcare providers frequently ask whether lithium contributes to memory loss, especially in contexts such as aging and dementia.

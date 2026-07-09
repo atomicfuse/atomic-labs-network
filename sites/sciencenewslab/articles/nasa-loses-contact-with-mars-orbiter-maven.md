@@ -33,6 +33,8 @@ quality_note: >-
 image_alt: >-
   A lone Mars orbiter drifts above the planet as a broken signal fades into deep
   space.
+topics:
+  - Space
 ---
 
 NASA has recently encountered a significant setback as it lost contact with its Mars Atmosphere and Volatile EvolutioN (MAVEN) spacecraft. This unexpected communication gap has raised concerns about the future of the mission, which is crucial for studying the Martian atmosphere. MAVEN, launched to explore and understand the upper atmosphere of Mars, plays a vital role in NASA's ongoing research efforts.

@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Clinician and patient in a modern trial setting with abstract AI health data
   visuals
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 In the rapidly evolving world of pharmaceuticals, Medpace Holdings is making significant strides with its innovative use of AI-powered clinical trials and digital tools. As a leading clinical contract research organization, Medpace is leveraging cutting-edge technology to enhance the efficiency and effectiveness of clinical trials, promising a transformative impact on the industry.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A moonlit archive table opens toward a misty world of ruins, stars, and
   unexplained lights.
+topics:
+  - Internet Mysteries
 ---
 
 The world is full of enigmas that challenge our understanding and ignite our curiosity. Unsolved mysteries captivate us, drawing us into a realm where questions outnumber answers, and possibilities seem endless. This compilation of 100 unsolved mysteries offers an exhilarating journey into the unknown, where the thrill of discovery is ever-present.

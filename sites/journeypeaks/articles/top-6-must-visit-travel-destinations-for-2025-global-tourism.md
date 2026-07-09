@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Sunlit travel still life with passport, camera, and dreamy global landscapes
   in the background
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 As the world continues to open up for travel, certain destinations are capturing the imagination of travelers more than others. For 2025, countries like India, New Zealand, Japan, France, Italy, and Spain are emerging as the most sought-after destinations. These countries offer a unique blend of cultural richness, natural beauty, and historical significance, making them irresistible to globetrotters.

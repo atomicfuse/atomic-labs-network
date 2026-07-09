@@ -1,9 +1,11 @@
 ---
 title: The Vampire Lestat Transforms Into Rock Opera for Season 3
-description: AMC's Interview with the Vampire season 3 shifts into Lestat's perspective with rock-music-driven storytelling and theatrical character spectacle.
+description: >-
+  AMC's Interview with the Vampire season 3 shifts into Lestat's perspective
+  with rock-music-driven storytelling and theatrical character spectacle.
 type: standard
 status: published
-publishDate: 2026-05-28
+publishDate: 2026-05-28T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +15,8 @@ tags:
   - television
 slug: vampire-lestat-rock-opera-season-3-transformation
 reviewer_notes: Approved via review queue.
-source_url: https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
+source_url: >-
+  https://editorial.rottentomatoes.com/article/talking-story-sex-and-rock-and-roll-on-the-set-of-the-vampire-lestat/
 source_item_id: 6a17bdc28c60bc3c84eb2d8b
 generated_by: claude
 featuredImage: /assets/images/vampire-lestat-rock-opera-season-3-transformation.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 40
-quality_note: While well-written about vampire TV content, the article doesn't align with the site's entertainment focus on funny videos, memes, viral content, and animals - it's too serious for the target audience.
+quality_note: >-
+  While well-written about vampire TV content, the article doesn't align with
+  the site's entertainment focus on funny videos, memes, viral content, and
+  animals - it's too serious for the target audience.
 reading_time: 3
-image_alt: Blond vampire rock singer stands in smoky amber stage light with gothic architecture behind him.
+image_alt: >-
+  Blond vampire rock singer stands in smoky amber stage light with gothic
+  architecture behind him.
+topics:
+  - Viral
 ---
 ## From Gothic Drama to Rock Star Mythology
 

@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Indian woman in a calm medical consultation about hormonal and metabolic
   health
+topics:
+  - Advice
+  - Fitness
+  - Lifestyle
 ---
 
 For many women, the label PCOS has never told the whole story. Polycystic ovary syndrome is widely known for irregular periods, acne, excess hair growth and fertility concerns, yet doctors increasingly stress that it is also a metabolic and hormonal condition. That is why the proposed shift from PCOS to PMOS is gaining attention in women's health discussions, including among clinicians in Kolkata.

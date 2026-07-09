@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Warm clinical still life with health tools and a subtle glowing brain network
   suggesting stroke prevention.
+topics:
+  - Health News
 ---
 ## Understanding Stroke Risk in the Modern Era
 

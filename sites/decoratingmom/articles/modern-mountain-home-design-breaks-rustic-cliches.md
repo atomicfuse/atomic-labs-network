@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Modern mountain living room with blue-green accents, botanical wallpaper, and
   misty views beyond large windows.
+topics:
+  - Interior Design
 ---
 ## Reimagining the Mountain Home Aesthetic
 

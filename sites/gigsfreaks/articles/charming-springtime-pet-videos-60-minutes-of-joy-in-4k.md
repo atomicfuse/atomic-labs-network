@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Playful puppy and kitten in a sunny spring meadow with soft flowers and warm
   light.
+topics:
+  - Funny Animals
+  - Good Vibes
 ---
 
 Spring showers not only bring May flowers but also an abundance of charming pet moments that warm the heart. In this delightful 60-minute compilation, captured in stunning 4K resolution, you'll experience the playful antics of our furry friends as they embrace the joys of springtime.

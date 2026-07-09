@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   A dark rural farmhouse scene with an old car and scattered notes in foggy dusk
   light.
+topics:
+  - Breaking News
 ---
 ## A Quiet Farm Becomes a Crime Scene
 

@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Spotlit audition chair in a cinematic casting room with a softly blurred US
   map behind it
+topics:
+  - TV News
 ---
 
 The casting process for movies and TV shows is a flurry of activity happening across the United States, with producers and directors scouring the country for the perfect actors to bring their scripts to life. This dynamic process sees auditions taking place in every corner of the nation, providing promising opportunities for both established actors and fresh faces.

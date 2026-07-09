@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Anonymous winger dribbles under stadium lights with red and green tones
   suggesting a transfer chase.
+topics:
+  - Transfers
 ---
 ## Liverpool Target Sporting CP Star
 

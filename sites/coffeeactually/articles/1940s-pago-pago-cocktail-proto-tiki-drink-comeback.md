@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   Golden vintage cocktail in a coupe glass on a warmly lit bar with pineapple
   and lime accents
+topics:
+  - Coffee Drinks
 ---
 ## A Forgotten Bridge Between Cocktail Eras
 

@@ -32,6 +32,9 @@ quality_note: >-
   heavily on vague 'according to reports' citations without specific sources.
 reading_time: 3
 image_alt: Midlife woman training with simple fitness equipment in a calm sunlit studio.
+topics:
+  - Fitness & Movement
+  - Healthy Aging
 ---
 ## The Longevity Fitness Boom: Separating Science from Sales
 

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Solitary viewer in a dim room lit by a television glow, surrounded by a quiet
   sense of grief.
+topics:
+  - TV News
 ---
 
 Television has a unique ability to evoke strong emotions, drawing viewers into worlds that resonate deeply with our own lives. While many series captivate with humor or adventure, others leave a lasting impact through poignant storytelling that can be difficult to endure. These shows often explore themes of loss, trauma, and the human condition, making them both beautiful and, at times, overwhelming to watch.

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Golden protein pancakes with berries and cottage cheese on a bright kitchen
   counter
+topics:
+  - Healthy Recipes
 ---
 
 Enjoy a healthy twist on breakfast with this cottage cheese protein pancake recipe. Packed with 27g of protein per serving, these pancakes are not only delicious but also gluten-free and family-approved. Perfect for incorporating into your meal prep routine.

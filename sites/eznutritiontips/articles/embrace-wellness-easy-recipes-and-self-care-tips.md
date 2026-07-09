@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Sunlit wellness table with healthy food, herbal tea, flowers, and heart-shaped
   strawberries.
+topics:
+  - Healthy Recipes
+  - Special Diets
 ---
 
 Valentine's Day is a perfect time to focus on wellness and add happiness to your daily routine. This week, we explore some simple self-care practices and healthy recipes that can easily fit into your lifestyle. Whether you're looking for a delicious pistachio latte, hearty turkey meatballs, or a quick trip to CVS for a Valentine's surprise, these tips and recipes are sure to bring joy and well-being to your days.

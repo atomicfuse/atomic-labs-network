@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Balanced whole foods and water on a sunlit kitchen table with blank paper
   scraps pushed aside
+topics:
+  - Nutrition Myths
 ---
 
 Nutrition is a crucial aspect of maintaining a healthy lifestyle, yet the abundance of information available can often lead to confusion. Many popular beliefs about diet and nutrition are not entirely accurate. By debunking some common nutrition myths, we can make more informed choices that better support our health.

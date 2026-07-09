@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Retro-futuristic sports coupe on a coastal road with a vintage silhouette
   reflected below
+topics:
+  - Concept Cars
 ---
 ## A Fresh Take on Honda's Revival
 

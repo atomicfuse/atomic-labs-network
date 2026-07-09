@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   A solitary sun-like star glows apart from distant paired stars in a vast dark
   field of space.
+topics:
+  - Space & The Unknown
 ---
 ## The Cosmic Neighborhood Census
 

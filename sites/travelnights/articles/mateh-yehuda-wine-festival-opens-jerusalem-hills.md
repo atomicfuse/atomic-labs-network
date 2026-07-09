@@ -35,6 +35,9 @@ reading_time: 2
 image_alt: >-
   Sunlit Jerusalem Hills vineyard with a rustic wine tasting table overlooking
   terraced slopes.
+topics:
+  - Destinations
+  - Food
 ---
 ## Major Wine Festival Launches in Israel's Largest Wine Region
 

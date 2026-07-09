@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Chic patio living room with cushioned seating, plants, warm lighting, and open
   doors to the home.
+topics:
+  - Tips & Advice
 ---
 ## Transform Your Patio Into an Extension of Your Home
 

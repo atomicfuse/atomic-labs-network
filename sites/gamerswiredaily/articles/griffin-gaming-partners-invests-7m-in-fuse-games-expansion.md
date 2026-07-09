@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Futuristic gaming studio workspace glowing with blue, violet, and gold light
   to suggest creative expansion.
+topics:
+  - Gaming News
 ---
 
 In an exciting development for the gaming industry, Fuse Games has secured a significant $7 million investment led by Griffin Gaming Partners. This funding round promises to bolster Fuse Games' ambitious plans to expand their innovative gaming offerings and enhance their presence in the competitive gaming market.

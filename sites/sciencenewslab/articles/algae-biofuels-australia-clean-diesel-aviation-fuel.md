@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Glowing green algae bioreactor overlooking an Australian landscape with
   distant transport silhouettes
+topics:
+  - Environment
 ---
 ## Australia's Fuel Security Challenge
 

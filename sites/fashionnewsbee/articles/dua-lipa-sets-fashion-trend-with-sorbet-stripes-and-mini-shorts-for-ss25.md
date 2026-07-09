@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Fashion model in sorbet-striped mini shorts walking through a sunny pastel
   street
+topics:
+  - Fashion
+  - Culture
 ---
 
 Renowned pop sensation Dua Lipa has once again showcased her flair for fashion with her latest ensemble choice. The starlet, known for her experimental style, was recently spotted sporting a daring pair of SS25 sorbet-striped shorts, further cementing her status as a trendsetter.

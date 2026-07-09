@@ -39,6 +39,9 @@ quality_note: >-
   Strong tone and keyword coverage but significantly compromised by factual
   inaccuracy regarding Blue Bloods' actual status and cast details.
 image_alt: Empty family dinner table with a badge in a moody city-lit dining room
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Fans of the long-running television series "Blue Bloods" were surprised by the recent news of its cancellation. The show, which has captivated audiences for over a decade, stars Donnie Wahlberg as Detective Danny Reagan. Despite its popularity, the network has decided to end the series, leaving viewers and cast members alike to reflect on its impact and legacy.

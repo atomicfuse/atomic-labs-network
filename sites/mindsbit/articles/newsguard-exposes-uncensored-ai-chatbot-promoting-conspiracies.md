@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Dark computer screen with abstract chat bubbles and fractured network lines
   suggesting AI misinformation.
+topics:
+  - Tech
 ---
 ## The Rise of Unmoderated AI Tools
 

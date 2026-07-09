@@ -1,9 +1,12 @@
 ---
-title: "TV Week June 7-13: Sports Finals & Season Finales Collide"
-description: A massive week of television features NBA Finals, Stanley Cup playoffs, Tony Awards, and major series finales across broadcast, cable, and streaming platforms.
+title: 'TV Week June 7-13: Sports Finals & Season Finales Collide'
+description: >-
+  A massive week of television features NBA Finals, Stanley Cup playoffs, Tony
+  Awards, and major series finales across broadcast, cable, and streaming
+  platforms.
 type: standard
 status: published
-publishDate: 2026-06-08
+publishDate: 2026-06-08T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +16,8 @@ tags:
   - streaming
 slug: tv-week-june-7-13-sports-finals-season-finales-collide
 reviewer_notes: Approved via review queue.
-source_url: https://www.tvline.com/2185105/what-to-watch-week-of-june-7-2026-tv-shows-movies/
+source_url: >-
+  https://www.tvline.com/2185105/what-to-watch-week-of-june-7-2026-tv-shows-movies/
 source_item_id: 6a24c4ea40722bf12ccf98da
 generated_by: claude
 featuredImage: /assets/images/tv-week-june-7-13-sports-finals-season-finales-collide.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 20
   keyword_relevance: 25
-quality_note: The article lacks entertainment focus for funnypigeon's audience, contains questionable future dates and event details, and doesn't match the site's engaging tone or viral content themes.
+quality_note: >-
+  The article lacks entertainment focus for funnypigeon's audience, contains
+  questionable future dates and event details, and doesn't match the site's
+  engaging tone or viral content themes.
 reading_time: 3
-image_alt: Multiple glowing TV screens suggest a packed week of sports, awards, and season finales.
+image_alt: >-
+  Multiple glowing TV screens suggest a packed week of sports, awards, and
+  season finales.
+topics:
+  - Viral
 ---
 ## Peak Television Week Arrives with Major Sporting Events and Award Shows
 

@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Warm redecorated living room with cozy decor, travel notes, flowers, and
   afternoon light.
+topics:
+  - Expert Guides
 ---
 
 Welcome to a new episode with Afshin and Shkoofeh. Today's focus is on redecorating the house, a labor of love they undertook jointly. The task included making some alterations to the existing decorations, an exciting and creative endeavor.

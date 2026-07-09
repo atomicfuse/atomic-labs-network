@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Parent at a summer-lit table while a child rests nearby with headphones,
   suggesting quiet family anxiety.
+topics:
+  - Parenting
 ---
 ## The Reality Behind Summer Freedom
 

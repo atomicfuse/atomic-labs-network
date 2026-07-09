@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Developer silhouette faces an evolving arc of pixels, VR worlds, and cloud
   gaming light
+topics:
+  - Gaming News
 ---
 
 In the rapidly evolving landscape of gaming, industry veterans like John Romero offer unique insights into its trajectory. With decades of experience, Romero, the co-founder of id Software and a pivotal figure in the development of legendary games like "Doom," reflects on gaming's past, present, and future. His perspective is not only informed by a rich history in game development but also by a keen eye on industry trends and technological advancement.

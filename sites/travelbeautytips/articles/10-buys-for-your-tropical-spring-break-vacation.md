@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Stylish tropical vacation fashion essentials arranged on a sunny resort
   terrace by the ocean
+topics:
+  - Travel Tips
+  - Packing Guides
 ---
 
 ## 1. Adriana Degreas Vintage Lily Long Dress With Straps

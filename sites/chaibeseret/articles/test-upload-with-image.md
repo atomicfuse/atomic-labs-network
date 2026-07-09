@@ -8,8 +8,10 @@ author: Editorial Team
 tags:
   - test
   - upload
-publishDate: 2026-05-13
+publishDate: 2026-05-13T00:00:00.000Z
 featuredImage: /assets/images/test-upload-with-image.webp
+topics:
+  - reviews
 ---
 
 ## Testing Image Upload

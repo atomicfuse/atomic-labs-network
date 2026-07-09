@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Modern café counter with coffee, digital ordering tools, reusable cups, and
   sustainable ingredients
+topics:
+  - Coffee News
 ---
 
 The global foodservice industry is currently experiencing significant transformation, driven by a variety of factors. These changes are reshaping how businesses operate and interact with consumers. With technological advancements, evolving consumer preferences, and sustainability concerns at the forefront, the foodservice sector is poised for dynamic growth and innovation.

@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   A glowing marker stands out among neutral shapes on a modern investor desk
   with abstract market lines.
+topics:
+  - Saving Tips
+  - Grocery Savings
 ---
 
 In the dynamic world of stock market investing, finding unique opportunities is key to building a successful portfolio. One such opportunity is highlighted in Jeremy Lefebvre's latest insights, where he discusses a standout stock that holds the potential to be a 1 of 1.

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Redacted government files on a dim archive table with an American flag blurred
   behind them
+topics:
+  - Celebrities
 ---
 
 In recent discussions, the MeidasTouch Network has brought to light some intriguing claims regarding former President Donald Trump. Hosted by Ben Meiselas, the broadcast delved into the alleged connections between Trump and certain FBI affiliates, focusing on individuals like Kash Patel and Dan Bongino. These figures have been linked to a narrative suggesting discomfort when addressing some of Trump's past actions, said to be his biggest nightmare.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Glowing carbon nanotube forest growing from a tiny catalyst particle on a dark
   substrate
+topics:
+  - Mind-Blowing Science
 ---
 ## The Hidden Manufacturing Problem Blocking a Materials Revolution
 

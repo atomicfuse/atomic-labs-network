@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Luxury supercar and white van in a modern UK industrial setting with subtle
   green light accents
+topics:
+  - News
+  - Industry
 ---
 
 The ever-looming threat of a tariff war, combined with the impending ban on petrol-powered vehicles, has created an environment of exemption and privilege for some road users. Despite the majority of vehicles facing these challenges, luxury supercars and white vans, often utilized for their utility, have been granted a surprising reprieve.

@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Tense newsroom scene with a veteran journalist and silhouetted executive
   separated by glass.
+topics:
+  - TV News
 ---
 ## Internal Tensions Explode at CBS News
 

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Modern living room glowing with abstract screens hinting at sports, awards,
   cooking, and drama premieres.
+topics:
+  - Breaking News
+  - TV Shows
 ---
 ## A Packed Week of Premium Entertainment
 

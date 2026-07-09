@@ -27,6 +27,8 @@ score_breakdown:
 quality_note: This baking article is completely off-topic for a coffee website and contains vague, unsupported claims without citing actual research or providing specific data.
 reading_time: 3
 image_alt: Side-by-side cookies show different browning and texture from butter and margarine baking tests.
+topics:
+  - Brewing Guides
 ---
 ## The Chemistry Behind Better Baking
 

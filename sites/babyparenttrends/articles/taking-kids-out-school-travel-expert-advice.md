@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   School supplies and a travel map share a sunlit table as a family packs in the
   background.
+topics:
+  - Parenting
 ---
 ## The Growing Trend of School-Time Travel
 

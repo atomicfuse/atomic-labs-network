@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A silhouetted performer stands in golden stage light before a glowing award
   statuette.
+topics:
+  - Watch
 ---
 
 Lady Gaga, an icon in the entertainment industry, has recently added another accolade to her impressive collection. Known for her dynamic performances and musical prowess, Gaga's journey through the realms of music, film, and television has been nothing short of extraordinary. Her latest achievement brings her one step closer to a rare and prestigious honor in the entertainment world.

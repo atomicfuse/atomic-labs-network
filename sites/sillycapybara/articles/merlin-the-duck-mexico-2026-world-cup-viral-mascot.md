@@ -35,6 +35,11 @@ reading_time: 4
 image_alt: >-
   A duck in a green soccer jersey stands proudly at a press briefing podium amid
   cameras.
+topics:
+  - Memes
+  - Viral
+  - Animals
+  - Odd News
 ---
 No one could have predicted that the breakout star of the 2026 FIFA World Cup would be a two-year-old duck from Mexico City. Yet here we are, and honestly? We wouldn't have it any other way.
 

@@ -44,6 +44,8 @@ quality_note: >-
   too short at 469 words and appears to fabricate claims about Kathy Bates being
   a television producer without factual basis.
 image_alt: Seasoned female producer guiding a diverse TV crew on a cinematic soundstage
+topics:
+  - TV News
 ---
 
 In recent years, the television landscape has undergone significant transformations, with influential figures shaping the industry in unprecedented ways. Among these figures, Kathy Bates has emerged as a dynamic force, leaving an indelible mark on the realm of television production. Known for her versatility and prowess, Bates continues to redefine standards and push boundaries in the entertainment sector.

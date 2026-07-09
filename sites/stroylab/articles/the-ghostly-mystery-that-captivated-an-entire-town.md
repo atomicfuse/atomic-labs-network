@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Foggy historic town street at night with a slightly open door and eerie
   lamplight
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 In the heart of a small town, a mystery unfolded that would captivate its residents and stir debates about the supernatural. This story revolves around two haunting tales that left an indelible mark on the local community, convincing many to believe in the existence of ghosts.

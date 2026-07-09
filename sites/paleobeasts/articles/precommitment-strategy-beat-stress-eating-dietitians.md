@@ -32,6 +32,9 @@ quality_note: >-
   Well-written article with good tone and structure, but falls short on
   paleo-specific content and optimal word count for the site's focus.
 reading_time: 3
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## The Science Behind Stress and Food Choices
 

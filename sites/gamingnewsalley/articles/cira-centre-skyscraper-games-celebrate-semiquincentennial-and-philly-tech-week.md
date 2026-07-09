@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Philadelphia skyline at night with a glowing skyscraper display and people
   gathered below
+topics:
+  - Gaming News
 ---
 
 Philadelphia has long treated architecture as part of its public identity, but few projects have blurred the line between skyline and screen like Drexel University professor Frank Lee's work with the Cira Centre. By turning a glass office tower near 30th Street Station into a playable display, Lee helped show how game design, urban technology and civic imagination can meet in full public view.

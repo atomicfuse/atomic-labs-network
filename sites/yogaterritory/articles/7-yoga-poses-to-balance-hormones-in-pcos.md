@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Woman practicing gentle yoga in a calm, sunlit room with a peaceful wellness
   atmosphere
+topics:
+  - Yoga Poses
 ---
 
 PCOS, or Polycystic Ovary Syndrome, is a common condition affecting many women worldwide. This disorder is often linked to hormonal imbalances and can cause a range of symptoms, including irregular menstrual cycles, weight gain, and inflammation. While medical treatment is available, incorporating holistic approaches such as yoga can offer additional benefits for managing this condition.

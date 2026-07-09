@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Rural clinic at dusk with patients in silhouette and a softly lit lab bench
   nearby
+topics:
+  - Health News
 ---
 
 The potential implications of planned budget reductions to the National Institutes of Health (NIH) are under intense scrutiny. The proposed cuts, intended to lower the federal budget, may inadvertently hurt poorer demographics and red states more significantly.

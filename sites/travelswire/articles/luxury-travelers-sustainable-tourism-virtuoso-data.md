@@ -36,6 +36,8 @@ quality_note: >-
   under target length and lacks specific verifiable data from the cited Virtuoso
   survey.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## The Luxury Travel Revolution
 

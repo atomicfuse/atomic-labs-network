@@ -34,6 +34,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Beauty Tips
+  - Packing Guides
 image_alt: >-
   Cream blush swatches in peach, rose, berry, and terracotta tones arranged on
   diverse skin tones.

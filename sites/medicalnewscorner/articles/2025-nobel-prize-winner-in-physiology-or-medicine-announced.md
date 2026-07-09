@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Golden light surrounds immune cells in a modern lab, symbolizing a major
   medical breakthrough.
+topics:
+  - Research
 ---
 
 In a groundbreaking achievement, the 2025 Nobel Prize in Physiology or Medicine has been awarded for pioneering research that has revolutionized our understanding of the human immune system. This prestigious honor underscores the impact of innovative discoveries that have far-reaching implications for modern medicine.

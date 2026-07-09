@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Aerial view of a salt canyon with rust-colored brine pools in a stark desert
   landscape.
+topics:
+  - Destinations
 ---
 ## A Hidden Wonder Born from Industry
 

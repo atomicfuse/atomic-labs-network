@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Aspiring actor in a Denver studio with city skyline and mountains beyond the
   window
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Denver has become a vibrant hub for film and television productions, attracting numerous projects to its picturesque landscapes and urban settings. The city offers a unique blend of scenic beauty and cultural richness, making it an ideal backdrop for various genres and storylines. As the entertainment industry continues to expand in this region, aspiring actors and crew members are presented with exciting opportunities to participate in these projects.

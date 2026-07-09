@@ -43,6 +43,9 @@ quality_note: >-
   business/retail focus doesn't strongly align with the style and fashion
   audience's beauty and travel interests.
 image_alt: Beauty advisor helps a shopper at a modern retail cosmetics display
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Walmart is testing a more service-driven shopping experience, and beauty is becoming one of its most visible proving grounds. The retailer known for low prices, wide aisles and quick stock-up trips is adding trained beauty experts, more polished displays and personalized help in select stores. The shift shows how Walmart wants to protect its value reputation while giving shoppers more reasons to browse, discover and spend time in its aisles.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Historic brick windmill turning at sunset above wheat fields in rural
   Buckinghamshire.
+topics:
+  - Good Vibes
 ---
 
 Britain is home to many historical marvels, and among them is a remarkable structure that has withstood the test of time and innovation. The oldest working brick windmill in the UK continues to operate after 250 years, showcasing the enduring legacy of traditional craftsmanship and sustainability.

@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Empty late-night comedy news desk under stage lights with a vacant chair and
   blank cue cards.
+topics:
+  - Celebrities
 ---
 
 As the entertainment landscape continually evolves, the spotlight often turns to beloved television shows and their cast. Among these, *Saturday Night Live* (SNL) consistently captures attention with its dynamic roster of comedians and writers. Recent buzz has centered on Colin Jost, a prominent figure at SNL, with speculation about his potential departure sparking widespread interest.

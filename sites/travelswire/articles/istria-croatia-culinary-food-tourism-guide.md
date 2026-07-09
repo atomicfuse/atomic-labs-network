@@ -33,6 +33,8 @@ quality_note: >-
   Strong travel tone and excellent topic relevance, but significantly under
   target word count and contains vague unverified claims that hurt credibility.
 reading_time: 3
+topics:
+  - Destination Guides
 ---
 ## Croatia's Best-Kept Culinary Secret
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Young gamer at a glowing computer as ominous chat bubbles suggest hidden
   online danger
+topics:
+  - Hot Trends
 ---
 ## FBI Sounds Alarm on Gaming Platform Dangers
 

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   A shadowy insider figure reaches toward glowing data nodes in a secure digital
   workspace.
+topics:
+  - Finance
+  - Tech
 ---
 
 In the ever-evolving landscape of digital finance, security breaches continue to challenge major platforms. Recently, Coinbase, a leading cryptocurrency exchange, faced a significant issue involving unauthorized access to customer data. This incident has raised concerns about the robustness of security measures within the cryptocurrency industry, prompting a closer examination of how such breaches occur and what steps can be taken to prevent them.

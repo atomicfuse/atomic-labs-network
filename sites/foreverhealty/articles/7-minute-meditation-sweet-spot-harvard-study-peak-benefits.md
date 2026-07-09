@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Calm meditator surrounded by soft abstract brainwave light rings in a serene
   modern space
+topics:
+  - Mind & Body Wellness
 ---
 ## Quick Meditation Sessions Pack Powerful Benefits
 

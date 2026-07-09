@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Women practicing yoga in a calm sunlit wellness space with greenery and soft
   morning light.
+topics:
+  - Yoga Poses
 ---
 
 Yoga has become an essential part of maintaining physical and mental wellness, particularly for women who lead busy lives. As we approach Women's Day 2026, it's the perfect time to explore yoga practices that can foster balance, energy, and tranquility. These practices not only enhance physical health but also nurture emotional well-being, making them an invaluable addition to any woman's routine.

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Diverse gamers gather in a warm neon-lit gaming lounge with shared consoles
   and adaptive controllers.
+topics:
+  - Gaming News
 ---
 
 Maverick Gaming has taken a significant step forward in creating an inclusive environment for gamers of all levels. Their recent initiatives aim to foster a community where everyone feels welcome, regardless of their gaming experience or background.

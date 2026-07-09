@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Futuristic expo hall with gaming symbols, product displays, and light trails
   converging into a brand ecosystem
+topics:
+  - Gaming News
 ---
 
 Gaming has moved far beyond the console, and Licensing Expo 2026 will put that shift in the spotlight. The Las Vegas event is set to examine how video game properties now drive entertainment trends, consumer products, fan culture, retail strategy, and cross-platform storytelling. As interactive brands grow into global franchises, the licensing industry is watching closely.

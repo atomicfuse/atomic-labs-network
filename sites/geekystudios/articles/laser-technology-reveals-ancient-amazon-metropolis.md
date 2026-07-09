@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Amazon rainforest canopy with lidar-like light revealing ancient geometric
   settlements below
+topics:
+  - Tech
 ---
 ## Revolutionary Discovery Beneath the Forest Canopy
 

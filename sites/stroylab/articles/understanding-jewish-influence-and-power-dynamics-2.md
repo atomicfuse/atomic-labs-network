@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Empty diplomatic chairs face each other across a table in a tense, map-lined
   meeting room.
+topics:
+  - Deep Dives
 ---
 
 In today’s rapidly evolving global landscape, geopolitical tensions and strategic alliances continue to shape the future of international relations. One significant development is the strengthening bond between Russia and North Korea, marked by recent high-level meetings and diplomatic engagements. This article delves into the implications of these interactions and what they mean for the broader geopolitical context.

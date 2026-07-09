@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Parent encourages a child building a small block bridge in a warm sunlit
   garden.
+topics:
+  - Kids
 ---
 
 In the journey of parenting, the focus often shifts to tangible skills like teaching children to walk, talk, or read. However, there are less visible skills that are just as crucial, if not more so, for a child's development. These overlooked parenting skills form the foundation for emotional intelligence and resilience in children.

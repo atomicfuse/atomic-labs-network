@@ -39,6 +39,8 @@ quality_note: >-
   insufficient word count, and doesn't align with the entertainment site's focus
   on celebrities and pop culture.
 image_alt: Grand piano with five glowing abstract panels in a softly lit concert hall
+topics:
+  - Music
 ---
 
 Classical music enthusiasts have a lot to look forward to with the latest releases in February 2026. This month offers a diverse selection of albums that showcase the depth and innovation of the genre, featuring both celebrated composers and talented new artists. These recordings promise to captivate audiences with their unique interpretations and technical prowess.

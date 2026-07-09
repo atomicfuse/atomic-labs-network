@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Solitary suited figure overlooking an empty floodlit football stadium before a
   rebuild
+topics:
+  - Latest News
 ---
 ## Lewis Family Breaks Silence on Tottenham Crisis
 

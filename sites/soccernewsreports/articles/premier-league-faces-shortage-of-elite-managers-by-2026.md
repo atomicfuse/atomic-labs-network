@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Empty football manager's area under stadium lights with a tactical clipboard
   on the sideline.
+topics:
+  - Latest News
 ---
 
 In recent years, the role of a Premier League manager has evolved significantly, reflecting the dynamic nature of modern football. As the league continues to grow in global popularity, the expectations and challenges faced by managers have intensified, requiring a blend of tactical acumen, leadership skills, and adaptability.

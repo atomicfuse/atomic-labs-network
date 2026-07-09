@@ -38,6 +38,8 @@ quality_note: >-
   lacks the entertaining tone and viral appeal expected for gigsfreaks'
   entertainment-focused audience.
 image_alt: A Guam kingfisher perches near a forest nest cavity in warm morning light.
+topics:
+  - Good Vibes
 ---
 
 The resurgence of the Guam kingfisher, a bird species once on the brink of extinction, has captured the attention of conservationists worldwide. This critically endangered bird, known for its vibrant plumage, has laid its first egg in the wild in over four decades. This significant event took place thousands of miles from its native habitat, marking a hopeful milestone in the species' recovery efforts.

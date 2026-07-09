@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Humanoid robots perform a dramatic festival stage routine under red and gold
   lights.
+topics:
+  - News
+  - Industry
 ---
 
 The recent Spring Festival Gala in China witnessed an extraordinary performance that captured the imagination of audiences across the nation and beyond. This year, humanoid robots took center stage, showcasing their capabilities through stunning acrobatic dances and intricate kung fu routines. The performance not only dominated Chinese social media but also ignited a broader debate about the role of robotics in the world of entertainment.

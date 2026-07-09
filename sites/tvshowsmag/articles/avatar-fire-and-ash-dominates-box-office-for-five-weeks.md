@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Audience in a dark theater lit by glowing blue waves and ember sparks from an
   unseen screen.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 The cinematic landscape is once again dominated by a blockbuster that shows no sign of slowing down. "Avatar: The Way of Water" continues its reign at the box office, captivating audiences and securing its position as a top contender. Its continued success is a testament to the enduring appeal of the original film and the anticipation surrounding its sequel.

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Active older woman preparing a balanced protein-rich breakfast in a bright
   kitchen
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## The Breakfast Gap in Women's Nutrition
 

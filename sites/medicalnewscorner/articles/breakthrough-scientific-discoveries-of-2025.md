@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Abstract futuristic horizon combining DNA, quantum patterns, carbon capture,
   and space exploration motifs.
+topics:
+  - Research
 ---
 
 The year 2025 marked significant advancements in scientific research, paving the way for groundbreaking discoveries that will shape the future. From medical breakthroughs to technological innovations, scientists across the globe have made remarkable progress in various fields, impacting our understanding of the world and enhancing our quality of life.

@@ -41,6 +41,8 @@ reading_time: 3
 image_alt: >-
   A chaotic campaign room with torn blank posters, tangled red string, and
   phones glowing on a table.
+topics:
+  - TV News
 ---
 ## Internal Warfare Erupts in Far-Right Circles
 

@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Tense diplomatic conference room with an empty presidential chair and
   scattered papers after a crisis
+topics:
+  - Watch
 ---
 
 The highly anticipated return of the political drama series "The Diplomat" on Netflix has captivated audiences with its intense plotlines and complex characters. As season 3 unfolds, viewers are drawn into the intricacies of international diplomacy, espionage, and personal relationships that define this compelling show. The premiere episode sets a high bar for the season, promising a blend of suspense, intrigue, and human emotion.

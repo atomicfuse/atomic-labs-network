@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Activist with laptop sits alone in a dim airport terminal, reflected in glass
   near security barriers.
+topics:
+  - Ideas
+  - Innovation
+  - Tech
 ---
 
 The digital landscape has become a battleground for both good and ill, with individuals dedicating their lives to combating online hate speech and extremism. Yet, the complexities of this endeavor can lead to unexpected consequences, including international travel bans. This article explores the experiences of those who have faced such repercussions and the broader implications of their work.

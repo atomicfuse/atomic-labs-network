@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Person practicing gentle morning yoga in warm sunlight beside plants and quiet
   workout gear
+topics:
+  - Yoga Poses
 ---
 
 Transitioning from high-intensity workouts to a more mindful morning routine can significantly impact one's stress levels. This was the experience of many who turned to a renowned yoga instructor's advice, finding peace and rejuvenation in a slow-paced morning ritual. Discovering the benefits of yoga and meditation over intense physical exertion can be a transformative journey.

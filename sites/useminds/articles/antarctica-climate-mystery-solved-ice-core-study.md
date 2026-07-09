@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Layered Antarctic ice core on a field table beneath a glowing polar sky over
   uneven ice terrain.
+topics:
+  - Mind-Blowing Science
 ---
 ## A Decade-Long Climate Puzzle Finally Solved
 

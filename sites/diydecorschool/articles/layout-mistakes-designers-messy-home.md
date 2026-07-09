@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A stylish living room contrasts cramped furniture placement with a calmer,
   balanced layout.
+topics:
+  - Expert Guides
 ---
 ## The Hidden Culprits Behind a Messy-Looking Home
 

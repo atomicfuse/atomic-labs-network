@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Moody teal kitchen at night with abandoned phone, spilled glass, rain, and
   tense silhouettes in shadow.
+topics:
+  - tv shows
 ---
 ## Chaos Converges in Penultimate Episode
 

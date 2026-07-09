@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A mosquito hovers near skin behind a fading protective mist in soft green
   summer light.
+topics:
+  - Tech
 ---
 ## The Surprising Science Behind Mosquito Learning
 

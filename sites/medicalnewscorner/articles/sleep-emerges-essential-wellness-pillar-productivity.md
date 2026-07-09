@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   A serene dawn bedroom with soft light on a neatly made bed, suggesting sleep
   as restorative wellness.
+topics:
+  - Health News
+  - Wellness
 ---
 ## The Sleep Revolution: From Afterthought to Health Priority
 

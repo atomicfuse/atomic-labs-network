@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Javan leopard moving through lush forest with distant human development beyond
   the trees
+topics:
+  - Mind-Blowing Science
 ---
 ## Against All Odds: A Big Cat's Survival Story
 

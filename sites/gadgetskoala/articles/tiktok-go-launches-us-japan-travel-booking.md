@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Smartphone surrounded by abstract travel booking cards, hotel, restaurant, and
   city landmark elements
+topics:
+  - Mobile
 ---
 ## TikTok Transforms from Discovery to Direct Booking
 

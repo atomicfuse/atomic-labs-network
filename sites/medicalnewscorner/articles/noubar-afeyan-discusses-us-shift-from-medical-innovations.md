@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Doctor and patient in a modern clinic with subtle digital healthcare
   technology overlays
+topics:
+  - Research
 ---
 
 The landscape of healthcare in the United States is undergoing a significant transformation. With advancements in technology and shifts in policy, the traditional model of healthcare is evolving to better meet the needs of patients and providers alike. This evolution is driven by several factors, including the rise of telemedicine, increased focus on personalized care, and the integration of artificial intelligence in medical practices.

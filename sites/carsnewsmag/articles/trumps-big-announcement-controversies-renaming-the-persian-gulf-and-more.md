@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Tense press briefing setup with microphones and an abstract gulf coastline
   projection
+topics:
+  - News
 ---
 ## Major Announcement Creates Widespread Discussion
 

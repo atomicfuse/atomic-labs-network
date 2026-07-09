@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Three young students face a mysterious torchlit stone doorway glowing green in
   a dark academy corridor.
+topics:
+  - TV News
+  - Streaming
 ---
 ## HBO Fast-Tracks Season 2 Development
 

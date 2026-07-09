@@ -43,6 +43,8 @@ quality_note: >-
   800-1200 target) and lacks the specific '5 Walking Yoga Poses' promised in the
   title, affecting both SEO quality and content delivery.
 image_alt: Person practicing mindful walking yoga on a sunlit path at sunrise.
+topics:
+  - Yoga Poses
 ---
 
 Discover a new way to enhance your physical and mental well-being by combining the benefits of walking and yoga into a harmonious practice. Walking yoga is an innovative approach that merges the rhythmic movement of walking with the mindful poses of yoga, offering a holistic fitness experience that nurtures both the body and the mind.

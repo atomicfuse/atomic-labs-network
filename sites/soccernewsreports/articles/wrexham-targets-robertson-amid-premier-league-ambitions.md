@@ -44,6 +44,8 @@ quality_note: >-
   speculative transfer claims without credible sourcing that could mislead
   readers.
 image_alt: Footballer in a red kit looks toward a brightly lit stadium from a tunnel.
+topics:
+  - Latest News
 ---
 
 Wrexham AFC, a club that has captured the world's attention with its recent rise, is reportedly eyeing a major move in the transfer market. The club, co-owned by Hollywood stars Ryan Reynolds and Rob McElhenney, has ambitions that match its newfound fame. This includes a bold plan to bring a seasoned Premier League talent into their ranks, reflecting their commitment to ascend the English football ladder.

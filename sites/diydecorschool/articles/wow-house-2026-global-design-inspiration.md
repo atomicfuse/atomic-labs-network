@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Luxurious layered interior blending global design influences with warm light
   and sculptural architectural details.
+topics:
+  - Expert Guides
 ---
 ## A Fifth Year of Design Excellence
 

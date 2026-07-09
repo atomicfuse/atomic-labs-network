@@ -33,6 +33,8 @@ quality_note: >-
   specific games.
 reading_time: 3
 image_alt: Armored sci-fi squad faces five glowing gateways in a neon futuristic city
+topics:
+  - Gaming News
 ---
 ## The End of an Era for Destiny Players
 

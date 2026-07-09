@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Expectant couple sitting in a softly lit nursery with healthy snacks and baby
   clothes nearby.
+topics:
+  - Pregnancy
 ---
 
 Pregnancy is a transformative journey, bringing both excitement and a wealth of questions for expecting parents. Understanding the changes occurring during each trimester can help ease anxieties and prepare you for the months ahead. From the first flicker of a heartbeat to the final weeks leading up to birth, each stage of pregnancy offers unique milestones and challenges. Dive into the essential aspects of pregnancy, including tips on nutrition, exercise, and what to expect as your body and baby grow.

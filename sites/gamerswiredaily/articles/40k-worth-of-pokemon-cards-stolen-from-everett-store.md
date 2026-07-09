@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Empty gaming store display case with scattered trading card sleeves under
   security lighting
+topics:
+  - Gaming News
 ---
 
 In a bold and unexpected move, a gaming store in Everett, Washington, recently fell victim to a large-scale theft involving a significant collection of Pokémon cards valued at approximately $40,000. This daring burglary has attracted widespread attention, as it highlights both the growing popularity and value of trading card games. The incident has sparked discussions about security measures for businesses dealing in collectibles.

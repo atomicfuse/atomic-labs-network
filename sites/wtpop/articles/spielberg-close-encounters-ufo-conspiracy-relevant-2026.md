@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A lone figure faces a mysterious glow beyond a desert road with secret files
   on a car hood.
+topics:
+  - TV & Movies
 ---
 ## A 1977 Vision That Predicted 2026's UFO Conversations
 

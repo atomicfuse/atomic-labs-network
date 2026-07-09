@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Dawn-lit football stadium with tactical gear and players preparing for a new
   season of ambition.
+topics:
+  - Latest News
 ---
 
 The Premier League is a dynamic and ever-evolving competition, where each club faces unique challenges and opportunities. As we look ahead to 2026, clubs across the league are setting ambitious goals to enhance their performance and maintain their competitive edge. These resolutions vary from boosting player development to improving financial stability, reflecting the diverse priorities across the league.

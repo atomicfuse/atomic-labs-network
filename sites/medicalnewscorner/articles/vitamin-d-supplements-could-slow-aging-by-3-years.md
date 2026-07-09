@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Older adult in warm sunlight with subtle abstract cellular strands suggesting
   healthy aging
+topics:
+  - Research
 ---
 
 Vitamin D, often celebrated for its role in bone health, is now gaining attention for its potential to influence biological aging. Recent research suggests that this essential nutrient might play a crucial part in maintaining telomere length, an indicator of cellular aging.

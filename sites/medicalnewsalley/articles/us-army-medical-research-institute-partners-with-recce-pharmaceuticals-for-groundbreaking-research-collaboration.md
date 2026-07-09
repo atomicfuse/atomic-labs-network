@@ -54,6 +54,10 @@ quality_note: >-
 image_alt: >-
   Researchers collaborate in a secure biomedical lab studying experimental
   compounds against infectious threats.
+topics:
+  - Health News
+  - Medical Research
+  - Drugs & Treatments
 ---
 
 Recce Pharmaceuticals, an Australian biotechnology firm, has recently inked a significant research agreement with the US Army Medical Research Institute of Infectious Diseases (USAMRIID). This strategic alliance aims to evaluate the potential of Recce's unique synthetic compounds in addressing bio-threat pathogens.

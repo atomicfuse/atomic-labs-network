@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Futuristic airport gaming lounge with travelers, glowing game stations, and a
   robotic bartender at a sleek bar
+topics:
+  - Gaming News
 ---
 ## A New Era of Airport Gaming
 

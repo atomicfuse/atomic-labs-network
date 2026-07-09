@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Rugged adventurer overlooks branching routes through ruins, jungle, snow,
   coast, and desert.
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## The Search for the Next Great Adventure Begins
 

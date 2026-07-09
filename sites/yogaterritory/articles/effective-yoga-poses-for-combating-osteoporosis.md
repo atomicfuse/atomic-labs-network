@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Older adults practicing gentle yoga in a sunlit studio with calm, supportive
   energy
+topics:
+  - Yoga Poses
 ---
 
 Yoga has long been celebrated for its numerous health benefits, including improving flexibility, balance, and mental well-being. However, its role in promoting bone health is gaining significant attention. As we age, maintaining strong bones becomes crucial to prevent conditions like osteoporosis and fractures. Incorporating yoga into your routine can be an effective way to strengthen bones and enhance overall skeletal health.

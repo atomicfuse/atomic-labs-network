@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Unbranded gaming machines near courthouse columns with scales of justice and
   blank tokens.
+topics:
+  - Gaming News
 ---
 
 In a significant legal development, Tennessee judges have ruled that certain gaming devices, specifically those marketed as "no chance" machines, do not breach state gambling laws. This ruling has sparked discussion and debate about the implications for the state's gambling landscape, reflecting broader national conversations about gaming regulations.

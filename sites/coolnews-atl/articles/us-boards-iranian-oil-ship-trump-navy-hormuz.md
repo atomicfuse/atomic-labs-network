@@ -36,6 +36,8 @@ quality_note: >-
   claims about Iranian toll systems and potential factual inaccuracies, plus
   being too short at 626 words.
 reading_time: 3
+topics:
+  - Current Events
 ---
 ## Dangerous Escalation in Critical Waterway
 

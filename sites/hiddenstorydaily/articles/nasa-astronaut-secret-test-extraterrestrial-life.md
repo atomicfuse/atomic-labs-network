@@ -35,6 +35,8 @@ reading_time: 4
 image_alt: >-
   Astronaut silhouetted beside a glowing sealed chamber with Earth visible
   through a space station window.
+topics:
+  - Unexplained Events
 ---
 ## The Announcement Nobody Was Ready For
 

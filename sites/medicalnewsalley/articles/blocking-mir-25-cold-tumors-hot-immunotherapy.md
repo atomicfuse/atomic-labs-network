@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Gloved researcher studies a glowing sample shifting from cool blue to warm
   amber in a clinical lab.
+topics:
+  - Medical Research
 ---
 ## Revolutionary Discovery in Cancer Immunotherapy
 

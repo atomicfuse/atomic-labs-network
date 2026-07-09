@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Anonymous candidate stands amid blank campaign materials with smoky Los
   Angeles civic buildings behind him.
+topics:
+  - Viral
 ---
 ## Reality Star's Political Dreams Come to an End
 

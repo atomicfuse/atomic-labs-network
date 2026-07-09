@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Ancient bone fragments on a forensic table under warm and cool light with
   trauma marks highlighted
+topics:
+  - Trends
 ---
 ## Breaking Archaeological Assumptions
 

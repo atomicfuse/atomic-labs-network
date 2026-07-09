@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Woman in a calm, sunlit self-care space with skincare, towel, yoga mat, and
   fresh bedding nearby.
+topics:
+  - Wellness
 ---
 ## The Shift Toward Evidence-Informed Self-Care
 

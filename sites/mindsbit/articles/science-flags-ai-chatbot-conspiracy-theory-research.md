@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Abstract chatbot speech bubble over scrutinized research papers and fading
   conspiracy-map lines.
+topics:
+  - Tech
 ---
 ## Editorial Scrutiny Raises Questions About AI's Persuasive Power
 

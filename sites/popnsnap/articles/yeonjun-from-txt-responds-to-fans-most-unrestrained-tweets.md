@@ -31,6 +31,10 @@ seo:
 image_alt: >-
   A stylish pop performer smiles at a glowing phone in a neon-lit studio with
   abstract message bubbles.
+topics:
+  - Celebrities
+  - Influencers
+  - Music
 ---
 
 In an exciting interaction with fans, YEONJUN from the popular K-pop group TXT took on the internet's infamous challenge of reading 'thirst tweets.' These tweets, often filled with humor and admiration, offer a glimpse into the playful relationship between celebrities and their fans.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Airplane wing above snowy Alaskan mountains at sunrise, suggesting new travel
   routes.
+topics:
+  - Destination Guides
 ---
 ## Southwest Airlines Reaches Alaska for the First Time
 

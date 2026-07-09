@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Calm person with a vaccine bandage beside nutritious foods and water in a
   bright kitchen
+topics:
+  - Health News
 ---
 
 With flu season upon us, many people are considering the most effective ways to prepare for their flu vaccination. Understanding how diet can influence the vaccine's efficacy is crucial. What you consume before and after getting a flu shot can significantly impact how your body reacts and how quickly it starts building immunity.

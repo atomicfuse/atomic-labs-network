@@ -34,6 +34,8 @@ quality_note: >-
   credibility.
 reading_time: 3
 image_alt: Mosquito hovering near a forearm through a faint repellent mist at dusk
+topics:
+  - Mind-Blowing Science
 ---
 ## The Surprising Science Behind Mosquito Learning
 

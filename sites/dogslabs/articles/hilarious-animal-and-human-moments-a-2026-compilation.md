@@ -1,25 +1,32 @@
 ---
-title: "Hilarious Animal and Human Moments: A 2026 Compilation"
-description: "Discover the funniest moments of 2026 with animals and humans sharing laughter and surprises. A video full of joy, perfect for anyone needing a smile."
-type: "standard"
-status: "published"
-publishDate: "2026-03-09T09:59:22+00:00"
-author: "Taylor Winters"
+title: 'Hilarious Animal and Human Moments: A 2026 Compilation'
+description: >-
+  Discover the funniest moments of 2026 with animals and humans sharing laughter
+  and surprises. A video full of joy, perfect for anyone needing a smile.
+type: standard
+status: published
+publishDate: '2026-03-09T09:59:22+00:00'
+author: Taylor Winters
 tags:
-  - "Animal Planet"
-  - "Cats"
-  - "Funny Videos"
-slug: "hilarious-animal-and-human-moments-a-2026-compilation"
+  - Animal Planet
+  - Cats
+  - Funny Videos
+slug: hilarious-animal-and-human-moments-a-2026-compilation
 reading_time: 2
-source_url: "https://dogpotato.com/hilarious-animal-and-human-moments-a-2026-compilation/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/hilarious-animal-and-human-moments-a-2026-compilation/'
+imported_from: wordpress
 wp_original_id: 40181
-featuredImage: "/assets/images/hilarious-animal-and-human-moments-a-2026-compilation.webp"
+featuredImage: /assets/images/hilarious-animal-and-human-moments-a-2026-compilation.webp
 seo:
-  canonical: "https://dogpotato.com/hilarious-animal-and-human-moments-a-2026-compilation/"
-  og_title: "Hilarious Animal and Human Moments: A 2026 Compilation - Dog Potato"
-  og_description: "Discover the funniest moments of 2026 with animals and humans sharing laughter and surprises. A video full of joy, perfect for anyone needing a smile."
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/hilarious-animal-and-human-moments-a-2026-compilation/'
+  og_title: 'Hilarious Animal and Human Moments: A 2026 Compilation - Dog Potato'
+  og_description: >-
+    Discover the funniest moments of 2026 with animals and humans sharing
+    laughter and surprises. A video full of joy, perfect for anyone needing a
+    smile.
+  twitter_card: summary_large_image
+topics:
+  - Pet Care & Health
 ---
 
 Welcome to a delightful collection of the funniest animal and human moments from 2026. This video compilation promises to bring joy and laughter to your day, featuring pets that are natural comedians. Whether it's a dog chasing its tail or a cat pulling a prank on its owner, these heartwarming interactions highlight the unique bond between humans and animals.

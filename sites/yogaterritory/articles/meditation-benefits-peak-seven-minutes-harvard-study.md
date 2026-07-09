@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Calm meditator surrounded by soft brainwave-like light arcs in a serene
   minimalist space
+topics:
+  - Meditation
+  - Wellness
 ---
 ## Quick Meditation Sessions Pack Powerful Benefits
 

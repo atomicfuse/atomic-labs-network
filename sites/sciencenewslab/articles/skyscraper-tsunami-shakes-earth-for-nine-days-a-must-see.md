@@ -37,6 +37,10 @@ quality_note: >-
 image_alt: >-
   Towering ocean swell from a distant volcanic eruption with research buoys
   under stormy skies
+topics:
+  - Nature
+  - Technology
+  - Environment
 ---
 
 In an unprecedented observation, scientists have captured the movement of a colossal tsunami triggered by the eruption of the Hunga Tonga-Hunga Ha'apai volcano. This massive underwater explosion sent shockwaves around the globe, creating a tsunami so powerful that its effects were recorded for nine continuous days. The event has provided researchers with a valuable opportunity to study such phenomena in detail, shedding light on the dynamics of these devastating natural events.

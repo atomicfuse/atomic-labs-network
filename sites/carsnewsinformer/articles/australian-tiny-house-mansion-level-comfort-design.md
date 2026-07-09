@@ -1,9 +1,11 @@
 ---
 title: Australian Tiny House Achieves Mansion-Level Comfort Through Design
-description: An Australian tiny house demonstrates how strategic design and indoor-outdoor connectivity can deliver mansion-level comfort in a compact footprint.
+description: >-
+  An Australian tiny house demonstrates how strategic design and indoor-outdoor
+  connectivity can deliver mansion-level comfort in a compact footprint.
 type: standard
 status: published
-publishDate: 2026-06-08
+publishDate: 2026-06-08T00:00:00.000Z
 author: Max Scott
 tags:
   - News
@@ -13,7 +15,8 @@ tags:
   - compact design
 slug: australian-tiny-house-mansion-level-comfort-design
 reviewer_notes: Approved via review queue.
-source_url: https://www.autoevolution.com/news/pint-sized-australian-tiny-house-masters-the-art-of-comfort-with-the-ease-of-a-mansion-271069.html
+source_url: >-
+  https://www.autoevolution.com/news/pint-sized-australian-tiny-house-masters-the-art-of-comfort-with-the-ease-of-a-mansion-271069.html
 source_item_id: 6a24d55240722bf12ccf98e3
 generated_by: claude
 featuredImage: /assets/images/australian-tiny-house-mansion-level-comfort-design.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 40
   keyword_relevance: 15
-quality_note: This article about tiny houses is completely off-topic for an automotive website and lacks specific details, appearing to be based on vague reports rather than concrete information.
+quality_note: >-
+  This article about tiny houses is completely off-topic for an automotive
+  website and lacks specific details, appearing to be based on vague reports
+  rather than concrete information.
 reading_time: 3
-image_alt: Compact modern tiny house with open glass doors, warm timber, and a spacious deck in a rural setting
+image_alt: >-
+  Compact modern tiny house with open glass doors, warm timber, and a spacious
+  deck in a rural setting
+topics:
+  - News
 ---
 ## Compact Living Redefined
 

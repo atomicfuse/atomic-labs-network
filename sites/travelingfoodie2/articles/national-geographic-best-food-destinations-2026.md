@@ -39,6 +39,10 @@ reading_time: 2
 image_alt: >-
   Sunlit market table filled with global dishes, spices, produce, and travel
   items
+topics:
+  - Destination Guides
+  - food
+  - Local Culture
 ---
 ## Food Tourism Takes Center Stage
 

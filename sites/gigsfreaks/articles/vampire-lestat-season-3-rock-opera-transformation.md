@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Gothic rock frontman under amber and violet stage lights in a smoky concert
   setting
+topics:
+  - Hot Trends
 ---
 ## A Bold New Direction for Anne Rice's Vampires
 

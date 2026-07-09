@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Empty coffee shop counter with stacked cups and a closed cash drawer in muted
   morning light
+topics:
+  - Coffee News
 ---
 
 The recent increase in bankruptcy filings has become a notable trend, raising concerns about the financial health of both businesses and individuals. This surge, observed over the past months, indicates potential weaknesses in the economic landscape, with various industries feeling the pressure. Understanding the underlying causes of these bankruptcy cases is crucial for stakeholders and policymakers aiming to address the growing financial challenges.

@@ -43,6 +43,9 @@ quality_note: >-
   Well-written article with excellent tone and length, though the title could be
   more compelling and clearer for SEO purposes.
 image_alt: Traveler at sunrise with a paper map overlooking a quiet village path
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Travel dreams rarely begin with a brochure anymore. They often start with a reel, a friend's post, a celebrity getaway, or a perfectly framed sunrise that appears while you scroll. The question is no longer whether travel images affect us. They do. The bigger question is whether your next trip is genuinely inspired by what you love, or quietly shaped by what the internet tells you to want.

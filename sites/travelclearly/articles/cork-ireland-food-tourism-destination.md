@@ -34,6 +34,9 @@ quality_note: >-
   more specific supporting details.
 reading_time: 3
 image_alt: Elegant farm-to-table meal overlooking Cork at golden hour
+topics:
+  - Destinations
+  - Food & Drink
 ---
 ## Cork Stakes Its Claim as Ireland's Culinary Capital
 

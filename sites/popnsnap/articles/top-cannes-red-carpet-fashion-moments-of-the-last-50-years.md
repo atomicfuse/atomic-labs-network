@@ -34,6 +34,9 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-42.jpeg'
   twitter_card: summary_large_image
 image_alt: Anonymous couture silhouettes on a glamorous Riviera red carpet at twilight
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The Cannes Film Festival is renowned not only for its celebration of cinematic excellence but also for its stunning red carpet moments. Over the years, this prestigious event has witnessed a myriad of fashion statements that have left a lasting impression on both the fashion and film industries. Celebrities from around the globe descend on the French Riviera, each showcasing unique and breathtaking styles that capture the essence of glamour and sophistication.

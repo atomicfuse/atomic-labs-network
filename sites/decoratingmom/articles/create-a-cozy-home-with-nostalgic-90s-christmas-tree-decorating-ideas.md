@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Cozy living room with a nostalgic 90s-style Christmas tree glowing with
   colorful lights and vintage ornaments.
+topics:
+  - Decor Ideas
 ---
 
 The holiday season is upon us, and what better way to welcome it than by decorating a Christmas tree that brings back the warmth and charm of the 90s? Join me as I transform my living space into a festive wonderland with nostalgic 90s Christmas decorations. This year, it's all about creating a cozy and sentimental atmosphere that captures the magic of Christmas.

@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Abstract global AI network linking China’s tech skyline with collaborative
   developer silhouettes
+topics:
+  - Innovation
+  - Tech
 ---
 
 The landscape of artificial intelligence in China is undergoing significant transformations as open-source platforms gain traction. With the rapid evolution of AI technologies, Chinese developers are increasingly turning to open-source models, fostering innovation and collaboration across the globe. This trend is reshaping both the domestic and international AI ecosystem.

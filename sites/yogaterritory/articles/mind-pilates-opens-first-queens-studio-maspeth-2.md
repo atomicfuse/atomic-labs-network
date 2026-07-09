@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Welcoming boutique Pilates studio with adults gathering around reformer
   equipment in warm natural light.
+topics:
+  - Wellness
 ---
 ## New Wellness Option Arrives in Queens
 

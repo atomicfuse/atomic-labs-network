@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Footballer launches a long throw toward a crowded penalty area under stadium
   lights.
+topics:
+  - Latest News
 ---
 
 In recent years, the Premier League has seen an intriguing shift in strategies, with long throw-ins becoming a pivotal tactical element for several teams. This approach, once considered an archaic and less sophisticated method, is now being leveraged to create scoring opportunities and disrupt defensive setups. The evolution of the long throw-in as a strategic tool highlights its growing importance in modern football.

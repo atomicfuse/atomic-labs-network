@@ -1,9 +1,11 @@
 ---
-title: "Inside Nolan's 'The Odyssey': The Most Ambitious Film Ever"
-description: Christopher Nolan's 'The Odyssey' shattered every rule in filmmaking. Here's why fans are buying plane tickets just to see it.
+title: 'Inside Nolan''s ''The Odyssey'': The Most Ambitious Film Ever'
+description: >-
+  Christopher Nolan's 'The Odyssey' shattered every rule in filmmaking. Here's
+  why fans are buying plane tickets just to see it.
 type: standard
 status: published
-publishDate: 2026-07-01
+publishDate: 2026-07-01T00:00:00.000Z
 author: Rachel Long
 tags:
   - TV & Movies
@@ -12,7 +14,7 @@ tags:
   - IMAX
   - blockbuster
 slug: christopher-nolan-the-odyssey-imax-70mm-explained
-reviewer_notes: ""
+reviewer_notes: ''
 featuredImage: /assets/images/christopher-nolan-the-odyssey-imax-70mm-explained.webp
 generated_by: claude-dedicated
 quality_score: 75
@@ -22,16 +24,29 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 55
   keyword_relevance: 70
-quality_note: The article is engagingly written with strong tone and structure, but factual accuracy is a significant concern — key claims like the 'Keighley' camera name, the specific 2 million feet of film, the ~25 theaters worldwide, and the ~30 prints are unverified or potentially fabricated details that could undermine credibility, while keyword coverage skews heavily toward a single film/director rather than the broader entertainment topics the site covers.
+quality_note: >-
+  The article is engagingly written with strong tone and structure, but factual
+  accuracy is a significant concern — key claims like the 'Keighley' camera
+  name, the specific 2 million feet of film, the ~25 theaters worldwide, and the
+  ~30 prints are unverified or potentially fabricated details that could
+  undermine credibility, while keyword coverage skews heavily toward a single
+  film/director rather than the broader entertainment topics the site covers.
 reading_time: 4
-image_alt: A silhouetted filmmaker faces a glowing cinema screen with stormy seas as travelers wait among sold-out seats.
+image_alt: >-
+  A silhouetted filmmaker faces a glowing cinema screen with stormy seas as
+  travelers wait among sold-out seats.
 scripts:
   - id: 7fcf5900-cbce-48e8-b26d-4115f677bc79
     name: wtpop_script
     position: after-paragraph-1
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="wtpop"></div>
+topics:
+  - TV & Movies
 ---
 ## Tickets Sold Out Before Anyone Saw a Single Frame
 

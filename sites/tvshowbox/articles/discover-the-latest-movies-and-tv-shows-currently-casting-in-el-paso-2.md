@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Director’s chair and film gear overlooking El Paso’s desert skyline at golden
   hour
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Opportunities are blooming in El Paso's flourishing film and TV industry. For aspiring actors and actresses seeking their big break, El Paso has become a hotspot for casting calls. The city's vibrant culture and unique landscapes have attracted a myriad of film and TV productions, providing a plethora of exciting roles for local talents.

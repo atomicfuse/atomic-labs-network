@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   A laptop with abstract glowing app panels drawing energy from a floating
   battery symbol.
+topics:
+  - Tech
+  - Tutorials
 ---
 
 Managing your laptop's battery life efficiently is crucial for ensuring productivity, especially when you're on the go. Windows laptops offer various built-in tools to help you identify and manage power-hungry applications. Understanding how to use these tools can significantly enhance your device's performance and longevity.

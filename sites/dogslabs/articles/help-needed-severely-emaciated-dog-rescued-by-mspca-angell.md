@@ -1,25 +1,37 @@
 ---
-title: "Help Needed: Severely Emaciated Dog Rescued by MSPCA-Angell"
-description: "A pit bull's rescue in Lexington highlights the dedication of animal welfare organizations and raises awareness about pet neglect. The dog's recovery journey emphasizes community involvement and the importance of responsible pet ownership to prevent similar cases."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T10:03:46+00:00"
-author: "Taylor Winters"
+title: 'Help Needed: Severely Emaciated Dog Rescued by MSPCA-Angell'
+description: >-
+  A pit bull's rescue in Lexington highlights the dedication of animal welfare
+  organizations and raises awareness about pet neglect. The dog's recovery
+  journey emphasizes community involvement and the importance of responsible pet
+  ownership to prevent similar cases.
+type: standard
+status: published
+publishDate: '2026-01-15T10:03:46+00:00'
+author: Taylor Winters
 tags:
-  - "Animal Planet"
-  - "Dogs"
-  - "Veterinary"
-slug: "help-needed-severely-emaciated-dog-rescued-by-mspca-angell"
+  - Animal Planet
+  - Dogs
+  - Veterinary
+slug: help-needed-severely-emaciated-dog-rescued-by-mspca-angell
 reading_time: 3
-source_url: "https://dogpotato.com/help-needed-severely-emaciated-dog-rescued-by-mspca-angell/"
-imported_from: "wordpress"
+source_url: >-
+  https://dogpotato.com/help-needed-severely-emaciated-dog-rescued-by-mspca-angell/
+imported_from: wordpress
 wp_original_id: 40150
-featuredImage: "/assets/images/help-needed-severely-emaciated-dog-rescued-by-mspca-angell.webp"
+featuredImage: /assets/images/help-needed-severely-emaciated-dog-rescued-by-mspca-angell.webp
 seo:
-  canonical: "https://dogpotato.com/help-needed-severely-emaciated-dog-rescued-by-mspca-angell/"
-  og_title: "Help Needed: Severely Emaciated Dog Rescued by MSPCA-Angell - Dog Potato"
-  og_description: "A pit bull's rescue in Lexington highlights the dedication of animal welfare organizations and raises awareness about pet neglect. The dog's recovery journey emphasizes community involvement and the importance of responsible pet ownership to prevent similar cases."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://dogpotato.com/help-needed-severely-emaciated-dog-rescued-by-mspca-angell/
+  og_title: 'Help Needed: Severely Emaciated Dog Rescued by MSPCA-Angell - Dog Potato'
+  og_description: >-
+    A pit bull's rescue in Lexington highlights the dedication of animal welfare
+    organizations and raises awareness about pet neglect. The dog's recovery
+    journey emphasizes community involvement and the importance of responsible
+    pet ownership to prevent similar cases.
+  twitter_card: summary_large_image
+topics:
+  - Pet Care & Health
 ---
 
 A heartwarming story of rescue and recovery unfolds as an emaciated pit bull, discovered in Lexington, finds a new lease on life. This tale not only highlights the dedication of animal welfare organizations but also sheds light on the broader issue of pet neglect.

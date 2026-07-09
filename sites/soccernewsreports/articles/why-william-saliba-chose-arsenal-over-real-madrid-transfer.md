@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Football defender in a red-and-white kit pauses in a stadium tunnel, facing a
   decisive career crossroads.
+topics:
+  - Latest News
 ---
 
 Arsenal's promising defender, William Saliba, finds himself at a pivotal point in his career as speculation swirls around his contractual future with the club. With Real Madrid reportedly expressing interest, the young star's next move could significantly impact both his career trajectory and Arsenal's defensive lineup.

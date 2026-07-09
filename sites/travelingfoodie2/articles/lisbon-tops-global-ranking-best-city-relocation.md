@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Sunlit Lisbon rooftops and river seen from an overlook with relocation
   essentials in the foreground
+topics:
+  - Travel Tips
 ---
 ## Lisbon Claims Top Spot in New Relocation Index
 

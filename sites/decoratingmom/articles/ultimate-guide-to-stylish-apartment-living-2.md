@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sunlit stylish apartment living room with smart storage, layered textures, and
   warm modern decor.
+topics:
+  - Decor Ideas
 ---
 
 Planning a home makeover can be both exciting and daunting. Whether you're refreshing a single room or revamping your entire home, a successful redesign hinges on creativity and strategic planning. From selecting the right color palette to understanding space utilization, every decision contributes to crafting a harmonious living environment.

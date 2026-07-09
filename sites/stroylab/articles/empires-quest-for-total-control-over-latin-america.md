@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Abstract boardroom scene with Latin America map under a looming shadow and
   financial objects.
+topics:
+  - Deep Dives
 ---
 
 In the realm of global economics and international relations, influential figures often engage in discussions that shape the future of nations. Such was the case when a prominent individual in the financial sector made headlines with bold claims about the economic strategies of a leading nation. These discussions not only highlight the intricacies of global finance but also underscore the potential consequences of monetary policies on a worldwide scale.

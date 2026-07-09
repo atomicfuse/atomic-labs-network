@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted man near a foggy prison complex with emergency lights reflecting
   on wet pavement
+topics:
+  - Watch
 ---
 
 The gripping finale of "Mayor of Kingstown" has left fans eager for more, as the show wrapped up its intense fourth season with a riveting episode. This action-packed season has kept audiences on the edge of their seats, and the final episode did not disappoint, delivering dramatic twists and resolving key storylines while opening new possibilities for the future.

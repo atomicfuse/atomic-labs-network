@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   A dark cabin with a glowing television, flannel shirt, and axe evoking an
   infamous unresolved TV finale.
+topics:
+  - TV News
+  - Reviews
 ---
 
 Thirteen years after *Dexter* ended its original Showtime run, the finale still sparks frustration, debate, and disbelief. The crime drama built one of television's most compelling antiheroes, then closed his story with choices many viewers found rushed, emotionally hollow, and strangely evasive.

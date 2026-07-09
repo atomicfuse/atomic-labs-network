@@ -43,6 +43,8 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   382 words versus the 800-1200 target range.
 image_alt: Scientist holding a petri dish in a softly lit medical research lab at dawn
+topics:
+  - Medical Research
 ---
 
 Medical research funding plays a critical role in advancing healthcare and improving patient outcomes. However, recent discussions around cutting these funds have sparked widespread concern among healthcare professionals and researchers. Understanding the profound implications of reducing investment in medical research is crucial for stakeholders and the general public.

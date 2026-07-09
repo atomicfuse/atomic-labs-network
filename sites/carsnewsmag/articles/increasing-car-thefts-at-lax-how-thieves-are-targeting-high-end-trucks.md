@@ -45,6 +45,9 @@ quality_note: >-
   tone, but falls significantly short of the target word count and lacks
   specific automotive industry depth.
 image_alt: High-end pickup truck parked in a shadowy airport garage at dusk
+topics:
+  - News
+  - Industry
 ---
 
 With rising incidents of car theft at Los Angeles International Airport (LAX), vehicle owners are becoming increasingly concerned about the security of their high-end trucks. The trend has shown a particular focus on new, high-end trucks being left unattended in the airport's parking lots. Understanding how these thefts occur and what can be done to prevent them is crucial for anyone planning to leave their vehicle at LAX.

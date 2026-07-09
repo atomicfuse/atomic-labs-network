@@ -45,6 +45,8 @@ quality_note: >-
   Well-written article with good tone and accuracy, but significantly under
   target word count at 535 words versus the 800-1200 range.
 image_alt: Premium pour-over coffee setup with roasted beans on a modern café counter
+topics:
+  - Coffee Drinks
 ---
 
 Decaffeinated coffee has become an increasingly popular choice among coffee enthusiasts who seek to enjoy the rich flavors of coffee without the stimulating effects of caffeine. As consumer preferences shift towards healthier lifestyles, the decaffeinated coffee market is experiencing substantial growth, driven by innovations in specialty brewing methods and changing dietary trends.

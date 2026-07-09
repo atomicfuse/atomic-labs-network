@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Busy professional practices a subtle standing yoga pose in a bright everyday
   corridor.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Wellness
 ---
 ## Making Yoga Accessible in Everyday Moments
 

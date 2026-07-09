@@ -1,9 +1,12 @@
 ---
 title: Seattle Airport Opens $399M Concourse C Expansion for World Cup
-description: Seattle-Tacoma International Airport unveils new $399 million Concourse C expansion with 145,000 square feet of dining, retail, and amenities ahead of FIFA...
+description: >-
+  Seattle-Tacoma International Airport unveils new $399 million Concourse C
+  expansion with 145,000 square feet of dining, retail, and amenities ahead of
+  FIFA...
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Travel Tips
@@ -13,7 +16,8 @@ tags:
   - air-travel
 slug: seattle-airport-concourse-c-expansion-world-cup-2026
 reviewer_notes: Approved via review queue.
-source_url: https://thepointsguy.com/news/seattle-tacoma-concourse-c-expansion-world-cup-fans/
+source_url: >-
+  https://thepointsguy.com/news/seattle-tacoma-concourse-c-expansion-world-cup-fans/
 source_item_id: 6a2e4f1a32676a5c75e450ff
 generated_by: claude
 featuredImage: /assets/images/seattle-airport-concourse-c-expansion-world-cup-2026.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 80
-quality_note: Well-written travel article with good tone and relevant content, but falls short on length and raises some factual concerns about World Cup dates and specifics.
+quality_note: >-
+  Well-written travel article with good tone and relevant content, but falls
+  short on length and raises some factual concerns about World Cup dates and
+  specifics.
 reading_time: 3
-image_alt: Modern airport concourse with travelers, sculptural art, and bright glass architecture ahead of a major event.
+image_alt: >-
+  Modern airport concourse with travelers, sculptural art, and bright glass
+  architecture ahead of a major event.
+topics:
+  - Travel Tips
 ---
 ## Major Infrastructure Upgrade Debuts Ahead of Global Event
 

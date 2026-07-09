@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Mysterious interstellar object crossing a star field above a silhouetted
   observatory.
+topics:
+  - Space
 ---
 
 In recent astronomical observations, a peculiar object identified as 3I/ATLAS has sparked the curiosity of scientists and space enthusiasts alike. While some might speculate about extraterrestrial origins, this interstellar visitor is more intriguing for its natural rarity and the insights it could provide into the cosmos.

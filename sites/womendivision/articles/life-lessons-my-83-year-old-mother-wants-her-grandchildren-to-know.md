@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Elderly woman holding keepsakes by a sunlit window with family softly blurred
   behind her
+topics:
+  - Lifestyle
 ---
 
 Understanding the legacy of a loved one can bring profound insights and reflections, especially when it involves the wisdom of an elder family member. This narrative unfolds when a daughter decides to ask her 83-year-old mother a deeply personal question: "What would you like your grandchildren to know about you that has nothing to do with being a grandmother?" The mother's response offers a window into her life, sparking thought-provoking discussions about personal identity and legacy.

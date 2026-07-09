@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Torchlit jungle council scene with a voting urn and game tokens on a strategic
   board
+topics:
+  - Watch
 ---
 
 The latest episode of "Survivor" season 50 continues to captivate audiences with its intense challenges and strategic gameplay. This episode, titled "The Tribe Has Spoken," delves deeper into the alliances and rivalries forming within the competing tribes. As contestants vie for immunity and rewards, the dynamics of the game shift dramatically, leaving viewers on the edge of their seats.

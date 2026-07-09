@@ -33,6 +33,8 @@ seo:
 image_alt: >-
   Weathered electric guitar under a fading spotlight on an empty smoky concert
   stage
+topics:
+  - Music
 ---
 
 Heavy metal fans around the globe are bracing for a monumental moment in music history. Dave Mustaine, the legendary frontman of Megadeth, has announced that the band's next album will be his final contribution to their storied discography. This news marks the end of an era for fans who have followed Mustaine's career since the band's inception in the early 1980s.

@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   A family approaches a generic orange restaurant with crayons on a table and a
   dim neon interior beyond.
+topics:
+  - Nutrition Myths
 ---
 ## From Breastaurant to Family Spot: A Controversial Evolution
 

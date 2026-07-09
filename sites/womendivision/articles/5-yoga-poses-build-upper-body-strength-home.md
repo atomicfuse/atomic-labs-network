@@ -33,6 +33,8 @@ quality_note: >-
   better meta description length.
 reading_time: 3
 image_alt: Woman holds a side plank on a yoga mat in a bright home fitness space
+topics:
+  - Fitness
 ---
 ## Natural Strength Building Through Yoga
 

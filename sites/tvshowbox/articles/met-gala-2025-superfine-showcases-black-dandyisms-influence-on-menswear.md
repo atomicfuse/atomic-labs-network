@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Elegant Black models in bespoke dandy-inspired fashion ascend a grand gala
   staircase under cinematic lights.
+topics:
+  - TV News
 ---
 
 It was more than just a red carpet—it was a runway for resistance, refinement, and reinvention.

@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Sunlit travel table with backpack and coins overlooking mountains, coastline,
   and lush scenery.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Exploring new destinations for your next vacation can be both exciting and daunting, especially when you're searching for affordable yet enriching experiences. While Turkey and Azerbaijan are well-known for their cultural richness, there are other budget-friendly alternatives across Europe and Asia that promise equally captivating adventures without straining your wallet.

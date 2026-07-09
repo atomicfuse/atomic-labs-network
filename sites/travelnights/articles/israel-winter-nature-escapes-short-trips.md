@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Winter hiking trail blending green hills, coastal views, and desert ridges in
   Israel
+topics:
+  - Destinations
 ---
 ## Winter Adventures Await Across Israel
 

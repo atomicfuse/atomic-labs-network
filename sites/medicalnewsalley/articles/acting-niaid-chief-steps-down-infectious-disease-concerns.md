@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Modern research facility at dawn with a lone researcher and preparedness
   equipment in the foreground
+topics:
+  - Health News
 ---
 ## Leadership Vacuum at Critical Health Institute
 

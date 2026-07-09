@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Baby shoes and a racing helmet sit in a softly lit nursery overlooking a
   blurred racetrack.
+topics:
+  - Latest News
 ---
 ## A Racing Legacy Beyond the Track
 

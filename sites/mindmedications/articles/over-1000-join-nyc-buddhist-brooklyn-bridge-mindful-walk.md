@@ -1,26 +1,38 @@
 ---
-title: "Over 1,000 Join NYC Buddhist Brooklyn Bridge Mindful Walk"
-description: "More than 1,000 people joined the NYC Buddhist Festival's mindful walk across the Brooklyn Bridge, transforming the landmark into a public expression of peace, compassion and community connection."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T09:16:31+00:00"
-author: "Lena Ashwood"
+title: 'Over 1,000 Join NYC Buddhist Brooklyn Bridge Mindful Walk'
+description: >-
+  More than 1,000 people joined the NYC Buddhist Festival's mindful walk across
+  the Brooklyn Bridge, transforming the landmark into a public expression of
+  peace, compassion and community connection.
+type: standard
+status: published
+publishDate: '2026-05-18T09:16:31+00:00'
+author: Lena Ashwood
 tags:
-  - "Mindfulness"
-  - "Personal Growth"
-  - "Wellness"
-slug: "over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk"
+  - Mindfulness
+  - Personal Growth
+  - Wellness
+slug: over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk
 reading_time: 8
-source_url: "https://mindmedications.com/over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk/"
-imported_from: "wordpress"
+source_url: >-
+  https://mindmedications.com/over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk/
+imported_from: wordpress
 wp_original_id: 661
-featuredImage: "/assets/images/over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk.webp"
+featuredImage: /assets/images/over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk.webp
 seo:
-  canonical: "https://mindmedications.com/over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk/"
-  og_title: "Over 1,000 Join NYC Buddhist Brooklyn Bridge Mindful Walk - Mind Medications"
-  og_description: "More than 1,000 people joined the NYC Buddhist Festival’s mindful walk across the Brooklyn Bridge, transforming the landmark into a public expression of peace, compassion and community connection."
-  og_image: "https://mindmedications.com/wp-content/uploads/2026/05/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://mindmedications.com/over-1000-join-nyc-buddhist-brooklyn-bridge-mindful-walk/
+  og_title: 'Over 1,000 Join NYC Buddhist Brooklyn Bridge Mindful Walk - Mind Medications'
+  og_description: >-
+    More than 1,000 people joined the NYC Buddhist Festival’s mindful walk
+    across the Brooklyn Bridge, transforming the landmark into a public
+    expression of peace, compassion and community connection.
+  og_image: 'https://mindmedications.com/wp-content/uploads/2026/05/make_file.png'
+  twitter_card: summary_large_image
+topics:
+  - Mindfulness
+  - Personal Growth
+  - Wellness
 ---
 
 More than 1,000 people brought a quiet but powerful energy to Lower Manhattan and Brooklyn as they joined a mindful walk across the Brooklyn Bridge for the NYC Buddhist Festival, turning one of New York City's busiest landmarks into a moving symbol of peace, reflection and community connection.

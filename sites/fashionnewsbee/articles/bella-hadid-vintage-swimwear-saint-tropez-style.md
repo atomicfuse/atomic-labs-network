@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Stylish woman in retro tropical swimwear on a sunlit yacht along the French
   Riviera
+topics:
+  - Fashion
 ---
 ## Bella Hadid's French Riviera Fashion Moment
 

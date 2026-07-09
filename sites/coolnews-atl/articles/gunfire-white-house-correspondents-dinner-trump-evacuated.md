@@ -35,6 +35,8 @@ quality_note: >-
   House Correspondents' Dinner, making it dangerously misleading despite good
   tone and keyword coverage.
 reading_time: 2
+topics:
+  - Current Events
 ---
 ## Security Breach Rocks Washington's Most Exclusive Event
 

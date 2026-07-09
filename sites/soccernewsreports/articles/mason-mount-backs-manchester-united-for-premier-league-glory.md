@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Determined footballer in red prepares under stadium lights with a distant glow
   suggesting a title pursuit.
+topics:
+  - Latest News
 ---
 
 Manchester United's pursuit of major honours depends on more than star power. It also needs rhythm, balance, resilience, and players who can turn pressure into momentum. Mason Mount sits firmly inside that story, because his Old Trafford career still feels like a question waiting for a convincing answer.

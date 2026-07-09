@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Stylish fall outfit featuring sleek boxing-inspired sneakers on an urban
   street
+topics:
+  - Fashion
 ---
 
 Boxing shoes have stepped out of the gym and into the world of fashion, capturing the attention of style enthusiasts worldwide. These shoes, traditionally designed for performance in the ring, are now making waves as a stylish and functional choice for everyday wear. With their sleek design and unique silhouette, boxing shoes are becoming a staple in modern wardrobes.

@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   A lone sun-like star separated from paired stars and a shadowed exoplanet in
   deep space.
+topics:
+  - Space & The Unknown
 ---
 ## The Sun's Lonely Status in Our Cosmic Neighborhood
 

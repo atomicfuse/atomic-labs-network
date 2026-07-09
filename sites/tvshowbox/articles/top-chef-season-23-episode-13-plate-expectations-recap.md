@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Chefs examine avant-garde dishes plated on driftwood and suspended linen in a
   refined kitchen setting.
+topics:
+  - TV News
 ---
 ## High-Stakes Challenges Define Semifinal Episode
 

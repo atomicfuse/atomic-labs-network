@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Glowing Sun with subtle wave ripples and magnetic arcs above Earth and
   satellites in deep space.
+topics:
+  - Tech
 ---
 ## Revolutionary Solar Listening Technique Uncovers Hidden Changes
 

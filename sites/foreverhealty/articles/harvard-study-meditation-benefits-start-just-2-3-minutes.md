@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A calm meditator at dawn with subtle light waves suggesting rapid brain
   changes.
+topics:
+  - Mind & Body Wellness
 ---
 ## The Two-Minute Brain Change That's Transforming Meditation
 

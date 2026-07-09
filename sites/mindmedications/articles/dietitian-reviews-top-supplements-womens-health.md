@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Sunlit wellness still life with unbranded supplements, capsules, and fresh
   nutrition ingredients
+topics:
+  - Nutrition
+  - Wellness
 ---
 ## Expert-Backed Supplement Guidance for Women
 

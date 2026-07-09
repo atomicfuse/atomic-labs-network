@@ -33,6 +33,8 @@ seo:
 image_alt: >-
   Diverse models backstage with sustainable beauty products and futuristic
   styling accents
+topics:
+  - Beauty
 ---
 
 In the ever-evolving world of beauty and wellness, trends are shifting as we approach 2025. As consumers become more discerning, the industry is responding with innovations that prioritize sustainability, inclusivity, and technology. These changes are not just about looking good but also about feeling good and making environmentally conscious choices.

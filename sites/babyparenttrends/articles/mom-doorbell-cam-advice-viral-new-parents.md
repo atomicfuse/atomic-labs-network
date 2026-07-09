@@ -33,6 +33,8 @@ quality_note: >-
   raises minor accuracy concerns.
 reading_time: 3
 image_alt: Older mother comforts an exhausted new mom in a softly lit doorway at dusk.
+topics:
+  - Parenting
 ---
 ## When Simple Words Make All the Difference
 

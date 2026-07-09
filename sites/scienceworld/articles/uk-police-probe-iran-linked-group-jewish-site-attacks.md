@@ -36,6 +36,8 @@ quality_note: >-
   fabricated news content, and doesn't match the intended audience or tone at
   all.
 reading_time: 2
+topics:
+  - Local Culture
 ---
 
 ## Counterterrorism Investigation Launched

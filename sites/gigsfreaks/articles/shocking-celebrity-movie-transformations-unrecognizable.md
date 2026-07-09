@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Actor in a makeup chair undergoing a dramatic prosthetic transformation under
   cinematic vanity lights.
+topics:
+  - Hot Trends
 ---
 ## Hollywood's Most Mind-Bending Makeovers
 

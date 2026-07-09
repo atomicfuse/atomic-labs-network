@@ -37,6 +37,8 @@ seo:
 image_alt: >-
   Teen with a duffel bag stands outside a courthouse at dusk, suggesting a
   family custody change.
+topics:
+  - Celebrities
 ---
 
 Jenelle Evans, widely recognized from the show Teen Mom, has made headlines once again with a significant decision regarding her son, Jace. The 15-year-old has been sent to live with his biological father, Andrew Lewis, following a recent court decision. This move has sparked widespread interest and discussion among fans and followers of the reality TV personality.

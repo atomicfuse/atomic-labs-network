@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Elegant cruise ship dining room with ocean views and a plated gourmet dish at
   golden hour
+topics:
+  - Nutrition Tips
 ---
 ## Revolutionary Dining Concept Sets Sail
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Four chefs face unconventional plated dishes in a tense, cinematic tasting
   room.
+topics:
+  - TV Shows
 ---
 ## Final Four Face High-Stakes Challenges
 

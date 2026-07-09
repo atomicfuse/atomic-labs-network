@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Teen fast-food worker holding a scholarship envelope with medical study items
   nearby
+topics:
+  - Good Vibes
 ---
 
 A young aspirant in the medical field has recently taken a significant step toward her dream, thanks to a remarkable scholarship opportunity. This inspiring story highlights how dedication and hard work can transform aspirations into reality, as a teenager working at Taco Bell has been awarded a substantial scholarship to pursue her ambition of becoming a doctor.

@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Sleek commuter e-bike in a dawn city scene with subtle connected technology
   visuals
+topics:
+  - Electric Cars
 ---
 
 Aventon, one of the most well-known players in the US electric bicycle market, has announced the launch of its latest model, the Level 3. A smart e-bike designed for modern commuters, the Level 3 is packed with advanced security features, extended range capabilities, and comfort-focused components. It's all part of the new Aventon Control Unit (ACU), which serves as the central brain of the smart bike, and helps it offer new standards in daily riding and commuting convenience.

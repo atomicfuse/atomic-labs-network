@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Middle-aged woman in morning light reflecting on change while a partner figure
   fades in the background.
+topics:
+  - Lifestyle
 ---
 
 Menopause is a natural biological transition that all women experience, typically occurring between the ages of 45 and 55. This significant life stage brings numerous changes, both physically and emotionally, that can have profound impacts on personal relationships. One evolving topic of interest is the concept of "menodivorce," suggesting that menopause might influence women to reconsider their marriages.

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Stylish red Swedish cottage by the water in golden Midsummer light with
   wildflowers and a simple outdoor deck.
+topics:
+  - Destinations
 ---
 ## Discover Sweden's Most Stylish Summer Rentals
 

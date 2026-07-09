@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   A glowing distorted star pulses in deep space, surrounded by faint orbital
   trails and cosmic dust.
+topics:
+  - Space
+  - Physics
 ---
 
 In a distant part of the cosmos, an unusual star named HD74423 has been discovered, verifying a long-held astronomical prediction. By its unique behaviour, it has been identified as a heartbeat star, destined to explode in a supernova. This astronomical marvel was captured by the Transiting Exoplanet Survey Satellite (TESS), making it the first time such a phenomenon was confirmed.

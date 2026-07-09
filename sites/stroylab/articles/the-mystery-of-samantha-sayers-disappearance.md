@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Misty mountain trail in the Northern Cascades with an abandoned backpack
   beside the path
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 The disappearance of Samantha Sayers has captivated the attention of many, sparking discussions and theories across various platforms. Her case remains one of the most puzzling unsolved mysteries, leaving many to wonder what happened to her.

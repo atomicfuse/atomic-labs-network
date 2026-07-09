@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Adults in conversation as abstract sound waves fade toward smartphone screens
   on a table.
+topics:
+  - Space
 ---
 
 There are certain stereotypes about [how relatively chatty](https://www.sciencealert.com/feel-like-you-talk-too-much-a-new-study-shows-people-may-like-it) men and women are, but what does the science say? A comprehensive new study shows that women tend to do more talking for much of the middle period of their life.

@@ -39,6 +39,10 @@ reading_time: 2
 image_alt: >-
   Cinematic gamer silhouette facing seven glowing abstract game worlds in a
   smoky dark scene
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## This Week's Gaming Lineup: May 25-31, 2026
 

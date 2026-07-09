@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Friends prepare kayaks and outdoor gear on a sunny lakeshore for an active
   summer getaway.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Rise of Active Short-Haul Getaways
 

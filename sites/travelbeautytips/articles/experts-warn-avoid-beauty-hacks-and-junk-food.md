@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Healthy foods and gentle skincare in soft light contrasted with junk food and
   harsh beauty tools
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In recent times, the allure of quick beauty fixes and the temptation of convenient junk food have raised significant concerns among health and wellness experts. These trends, while popular, pose potential risks to both physical health and overall well-being. It's crucial to understand the impact of these habits and explore healthier alternatives that can lead to sustainable beauty and wellness.

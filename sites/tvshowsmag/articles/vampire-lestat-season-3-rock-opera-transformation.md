@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Vampire rock frontman on a gothic stage blending chateau grandeur with concert
   lighting
+topics:
+  - TV News
 ---
 ## AMC's Bold Musical Pivot
 

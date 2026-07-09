@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Earth’s horizon under a dimmed sun with scientific instruments silhouetted in
   the foreground
+topics:
+  - Environment
 ---
 
 In recent years, the concept of solar geoengineering has gained attention as a potential method to mitigate the effects of climate change. This approach involves reflecting sunlight back into space to cool the Earth. However, a growing number of scientists are raising concerns about the safety and feasibility of this method. They argue that not only is it impractical, but it also poses significant risks to global ecosystems and weather patterns.

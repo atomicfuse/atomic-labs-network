@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Premium connected Pilates reformer in a modern home studio with a blurred
   exercise bike in the background.
+topics:
+  - Tech
 ---
 ## Peloton Expands Into Premium Pilates Market
 

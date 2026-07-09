@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Coffee beans arranged in a subtle downward curve with sunlit coffee plants in
   the background
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 Coffee lovers can look forward to a slight reprieve in prices as the cost of coffee beans is anticipated to decrease in the coming months. This forecast is a welcome sign for consumers who have been grappling with rising costs in recent years. The shift in pricing trends is attributed to several factors affecting the global coffee market, including improved weather conditions and increased production in major coffee-producing regions.

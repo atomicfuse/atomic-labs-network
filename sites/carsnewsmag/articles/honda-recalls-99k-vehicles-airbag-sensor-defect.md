@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Mechanic inspects the passenger seat area of an unbranded car in a modern
   service bay.
+topics:
+  - News
 ---
 ## Major Safety Recall Affects Multiple Honda and Acura Models
 

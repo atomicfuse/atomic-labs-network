@@ -32,6 +32,8 @@ quality_note: >-
   coffee site's focus and lacks proper SEO optimization for the target audience.
 reading_time: 3
 image_alt: Crispy golden moong dal pakode served with chai in a warm home kitchen.
+topics:
+  - Coffee News
 ---
 ## Expert Solutions for Common Pakode Problems
 

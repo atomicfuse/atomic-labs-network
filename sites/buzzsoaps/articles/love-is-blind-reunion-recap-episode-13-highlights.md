@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Empty reunion-style studio set with sofas, champagne glasses, and dramatic
   lighting
+topics:
+  - Watch
 ---
 
 The much-anticipated reunion of "Love Is Blind" Season 10 has finally arrived, offering fans a chance to catch up with their favorite couples and revisit some of the most memorable moments from the series. As tensions simmer and emotions run high, the reunion special promises to deliver drama, resolution, and perhaps a few surprises.

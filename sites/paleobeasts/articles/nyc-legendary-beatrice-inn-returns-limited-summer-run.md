@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Moody supper club table with a burger, smoky cocktail, and chef silhouette in
   a nostalgic New York restaurant
+topics:
+  - Nutrition
 ---
 ## A Culinary Time Machine: Beatrice Inn's Greatest Hits Return
 

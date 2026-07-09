@@ -33,6 +33,8 @@ quality_note: >-
   Article covers relevant entertainment topic with appropriate tone but falls
   short on length requirements and could benefit from stronger SEO optimization.
 reading_time: 2
+topics:
+  - breaking news
 ---
 ## The Inside Look at Critics' Early Access
 

@@ -34,6 +34,8 @@ quality_note: >-
   optimization.
 reading_time: 3
 image_alt: Rugged off-road SUVs parked outside in an open lot under an overcast sky
+topics:
+  - News
 ---
 ## Major Safety Recall Affects Popular Jeep Models
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Traveler holds a blank boarding pass near an orderly airport security
   checkpoint.
+topics:
+  - Travel Tips
 ---
 ## What SSSS Actually Means
 

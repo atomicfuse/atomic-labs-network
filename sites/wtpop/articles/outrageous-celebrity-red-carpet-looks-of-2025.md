@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Anonymous fashion icons pose on a futuristic red carpet in bold glowing
   couture.
+topics:
+  - Fashion
 ---
 
 The red carpet of 2025 has emerged as a vibrant tapestry of fashion innovation, where technological advancements and sustainable practices take center stage. This year's award shows not only celebrated artistic achievements but also highlighted the dynamic evolution of fashion aesthetics. Designers, celebrities, and fashion enthusiasts converged to showcase how clothing is not just a statement of style but a reflection of society's ever-changing values.

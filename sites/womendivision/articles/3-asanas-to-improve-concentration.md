@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Yoga practitioner meditating in a serene sunlit studio with a calm, focused
   atmosphere
+topics:
+  - Advice
 ---
 
 The article body appears to be empty — no content was provided to clean up.

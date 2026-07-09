@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Unbranded tablet beside abstract global factory connections on a cool blue
   editorial background.
+topics:
+  - Tech
 ---
 
 Microsoft is reportedly considering a significant change in its manufacturing strategy for Surface devices, aiming to relocate some production from China to alternative locations. This strategic shift underscores the company's response to the evolving geopolitical landscape and supply chain challenges. Such a move could have far-reaching implications for the tech giant's operations and the broader global manufacturing sector.

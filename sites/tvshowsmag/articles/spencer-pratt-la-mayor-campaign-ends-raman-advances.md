@@ -32,6 +32,8 @@ quality_note: >-
   fabricated election scenario involving Spencer Pratt running for LA mayor.
 reading_time: 3
 image_alt: Los Angeles City Hall behind mail-in ballots and a fading spotlight at dusk
+topics:
+  - Celebrity News
 ---
 ## Celebrity Campaign Comes to an End
 

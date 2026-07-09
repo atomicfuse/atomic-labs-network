@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Sunlit natural beauty ritual with skincare, botanicals, and a calm morning
   glow
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Unlock your natural beauty with simple beauty maintenance rituals tailored to fit even the busiest lifestyle. This guide outlines monthly, weekly, and daily habits that can transform your routine without requiring heavy makeup or filters. Learn how to enhance your nails, brows, lashes, and more with affordable products and professional tips. Feel confident both with and without makeup as you embrace these easy-to-follow practices for a radiant glow-up.

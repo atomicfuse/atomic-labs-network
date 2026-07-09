@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Woman resting by a sunlit window in a calm room, suggesting fatigue and quiet
   recovery
+topics:
+  - Lifestyle
 ---
 
 Iron deficiency is a common nutritional issue that impacts many women worldwide. Often overlooked, this deficiency can lead to a host of health problems if not addressed in a timely manner. Understanding the signs and symptoms is crucial for maintaining good health and well-being.

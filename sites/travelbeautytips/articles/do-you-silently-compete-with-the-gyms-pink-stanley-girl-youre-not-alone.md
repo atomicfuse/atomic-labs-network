@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Two stylish gym-goers train in parallel near a pastel pink tumbler in a bright
   boutique fitness studio.
+topics:
+  - Travel Tips
 ---
 
 "Some girl was trying to make me her pink Stanley girl at the gym . . . and I did not let that happen," says creator @majordepressiveepisode in [a February TikTok](https://www.tiktok.com/@majordepressiveepisode/video/7473595930055396650) with more than 200,000 likes. Although not explicitly stated, the idea of the "pink Stanley girl" is almost universally understood — you may have even come across one yourself. In essence, it's the person you silently compete with at the gym (presumably someone you think you could beat). The term originally gained traction thanks to [a viral video](https://www.tiktok.com/@ram.arton/video/7469863095339601198) of a man competing against a girl with a pink Stanley water bottle on the Stairmaster. "It's been five hours and she won't get off. Help," the creator wrote.

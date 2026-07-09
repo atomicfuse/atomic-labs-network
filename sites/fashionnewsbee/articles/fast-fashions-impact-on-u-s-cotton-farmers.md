@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Cotton rows lead toward a distant pile of discarded clothes under warm evening
   light.
+topics:
+  - Fashion
 ---
 
 The global agriculture sector is experiencing a significant transformation driven by technological advancements and sustainable practices. As we move into a new era of farming, the emphasis on sustainability and innovation is reshaping how we produce food, manage resources, and adapt to climate challenges.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Modern boutique fitness studio blending Pilates reformers with
   strength-training equipment
+topics:
+  - Fitness & Movement
 ---
 ## The Rise of Hybrid Fitness Studios
 

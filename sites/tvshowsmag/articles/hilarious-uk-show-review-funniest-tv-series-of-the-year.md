@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Comedians under studio spotlights try not to laugh during a tense comedy
   showdown.
+topics:
+  - TV News
 ---
 
 Television has a new comedy sensation that is captivating audiences with its unique concept and laugh-out-loud moments. "Last One Laughing UK," a fresh addition to the realm of reality TV, brings together a diverse group of comedians for a humorous showdown unlike any other. This show not only entertains but also offers a fascinating look at the art of comedy under pressure.

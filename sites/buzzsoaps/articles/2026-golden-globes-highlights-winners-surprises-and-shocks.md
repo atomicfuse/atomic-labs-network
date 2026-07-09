@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Gold-lit awards stage with red carpet, silhouettes, camera flashes, confetti,
   and envelopes
+topics:
+  - Watch
 ---
 
 The Golden Globe Awards 2026 celebrated the best in film and television with an evening full of glamour and surprises. From unexpected wins to memorable speeches, the night offered plenty of excitement for audiences worldwide.

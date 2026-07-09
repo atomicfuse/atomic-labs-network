@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Abstract diplomatic table scene suggesting shifting global power and
   international tension
+topics:
+  - Deep Dives
 ---
 
 In recent years, the global community has witnessed significant shifts in geopolitical dynamics. The influence of major powers continues to evolve, impacting international relations and global stability. These changes are driven by various factors, including economic policies, military strategies, and diplomatic relations.

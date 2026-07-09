@@ -1,9 +1,12 @@
 ---
-title: "17-Mile Drive: A Guide to California's Most Scenic Coastal Loop"
-description: Discover the highlights of California's 17-Mile Drive, from the iconic Lone Cypress to the stunning beaches of Monterey Bay. This guide covers key stops and tips...
+title: '17-Mile Drive: A Guide to California''s Most Scenic Coastal Loop'
+description: >-
+  Discover the highlights of California's 17-Mile Drive, from the iconic Lone
+  Cypress to the stunning beaches of Monterey Bay. This guide covers key stops
+  and tips...
 type: standard
 status: published
-publishDate: 2024-10-26
+publishDate: 2024-10-26T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - California Travel
@@ -12,8 +15,8 @@ tags:
   - Pebble Beach
   - Travel Guide
 slug: 17-mile-drive-california-scenic-coastal-loop-guide
-reviewer_notes: ""
-source_url: https://travelguide.example.com/guides/california/17-mile-drive-guide
+reviewer_notes: ''
+source_url: 'https://travelguide.example.com/guides/california/17-mile-drive-guide'
 source_item_id: b7e3f8a1c9d2e4f6g8h
 generated_by: claude
 featuredImage: /assets/images/17-mile-drive-california-scenic-coastal-loop-guide.webp
@@ -24,8 +27,13 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: Excellent travel guide that is well-structured, informative, and matches the requested tone. The content is factually accurate for a destination piece and covers all key landmarks. The length is appropriate for the format.
+quality_note: >-
+  Excellent travel guide that is well-structured, informative, and matches the
+  requested tone. The content is factually accurate for a destination piece and
+  covers all key landmarks. The length is appropriate for the format.
 reading_time: 4
+topics:
+  - Destination Guides
 ---
 17-Mile Drive might be California's best scenic loop, mile for mile. Monterey Bay, white-sand beaches, granite boulders, and Lone Cypress — every turn reveals a new postcard. Here's what to see and where to stop.
 

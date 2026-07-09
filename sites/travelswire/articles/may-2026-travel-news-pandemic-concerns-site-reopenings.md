@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Travelers enter a reopened city park destination with luggage and subtle
   health precautions.
+topics:
+  - Travel Tips
 ---
 ## May's Major Travel Headlines Shape Summer Planning
 

@@ -32,6 +32,8 @@ quality_note: >-
   headings.
 reading_time: 3
 image_alt: Tiny blue octopus on a deep-sea floor under soft research lights
+topics:
+  - Mind-Blowing Science
 ---
 ## A Brilliant Blue Discovery in the Deep
 

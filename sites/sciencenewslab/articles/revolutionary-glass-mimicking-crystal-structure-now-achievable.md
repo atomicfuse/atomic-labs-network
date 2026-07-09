@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Translucent glass pane with glowing crystal-like lattice patterns in a
   futuristic lab setting
+topics:
+  - Physics
+  - Technology
 ---
 
 For decades, scientists have been fascinated by the enigmatic nature of glass, a material that defies simple categorization. Unlike conventional solids, glass does not crystallize; instead, it maintains a disordered structure akin to liquids. Recent breakthroughs, however, suggest it might be possible to create a type of glass that exhibits some crystalline properties, potentially revolutionizing materials science and various technological applications.

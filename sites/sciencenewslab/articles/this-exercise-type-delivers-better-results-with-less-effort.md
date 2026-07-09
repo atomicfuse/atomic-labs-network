@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Athlete slowly lowers into a controlled single-leg squat in a bright fitness
   studio.
+topics:
+  - Space
 ---
 
 If your workouts feel too long, the answer may not be doing more. It may be changing how you move. Eccentric exercise, the controlled lowering phase of a movement, is gaining attention for building strength and muscle with less total effort. This training style uses the part of an exercise many people rush through, yet it can deliver impressive results when performed with focus and control.

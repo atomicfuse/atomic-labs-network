@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   A glass-like brain near sugar crystals and brain-healthy foods on a dark
   surface
+topics:
+  - Health News
+  - Research
 ---
 ## Sugar's Lasting Impact on Memory
 

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Footballer facing split stadium lights, symbolizing rival clubs competing for
   a transfer signing.
+topics:
+  - Latest News
 ---
 
 In the dynamic world of football transfers, Premier League clubs are constantly on the lookout for talent that can enhance their squad's capabilities. As the transfer window looms, several clubs have set their sights on West Ham's prolific winger, Jarrod Bowen. Both Liverpool and Tottenham Hotspur are reportedly interested in securing Bowen's services, aiming to bolster their attacking options. This potential move could significantly impact the strategies of these top-flight clubs as they compete for domestic and international success.

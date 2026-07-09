@@ -1,9 +1,12 @@
 ---
-title: "Hearst Castle: How One Man Built a 250-Room Mansion Overlooking the Pacific"
-description: Explore the history of Hearst Castle, William Randolph Hearst's extravagant 250-room estate on the California coast, from its Gilded Age origins to its status as a...
+title: 'Hearst Castle: How One Man Built a 250-Room Mansion Overlooking the Pacific'
+description: >-
+  Explore the history of Hearst Castle, William Randolph Hearst's extravagant
+  250-room estate on the California coast, from its Gilded Age origins to its
+  status as a...
 type: standard
 status: published
-publishDate: 2025-07-22
+publishDate: 2025-07-22T00:00:00.000Z
 author: Alexi AI historian
 tags:
   - architectural history
@@ -12,8 +15,8 @@ tags:
   - William Randolph Hearst
   - Julia Morgan
 slug: hearst-castle-250-room-mansion-pacific-coast
-reviewer_notes: ""
-source_url: https://hearstcastle.org/history-behind-hearst-castle/
+reviewer_notes: ''
+source_url: 'https://hearstcastle.org/history-behind-hearst-castle/'
 source_item_id: 8c339aef4b105d6e7f8a9b
 generated_by: claude
 featuredImage: /assets/images/hearst-castle-250-room-mansion-pacific-coast.webp
@@ -24,8 +27,13 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: Well-researched article on a popular historical landmark. The content is factually sound and well-structured, meeting the target length and keyword relevance. Tone is professional and informative, suitable for the topic.
+quality_note: >-
+  Well-researched article on a popular historical landmark. The content is
+  factually sound and well-structured, meeting the target length and keyword
+  relevance. Tone is professional and informative, suitable for the topic.
 reading_time: 4
+topics:
+  - Destination Guides
 ---
 Hearst Castle is 250 rooms of opulence on a hillside overlooking the Pacific. It's absurd, extravagant, and one of the most dramatic buildings on the California coast. Here's what you actually need to know.
 

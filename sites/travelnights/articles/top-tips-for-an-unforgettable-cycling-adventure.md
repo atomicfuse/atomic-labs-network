@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Cyclist with touring gear overlooking a sunrise mountain valley from a winding
   road
+topics:
+  - Destinations
 ---
 
 Embarking on a cycling adventure provides an exhilarating way to explore new landscapes while maintaining an active lifestyle. Whether you're a seasoned cyclist or a newcomer to the sport, planning a memorable cycling trip requires attention to detail and thoughtful preparation.

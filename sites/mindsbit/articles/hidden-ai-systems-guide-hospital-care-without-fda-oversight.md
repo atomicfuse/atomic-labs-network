@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Clinician in a dim hospital control room facing monitors with subtle abstract
   AI patterns around them.
+topics:
+  - Tech
 ---
 ## The Invisible AI Revolution in Healthcare
 

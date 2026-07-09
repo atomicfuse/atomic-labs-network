@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish summer scene with woven raffia and straw bags on a sunny coastal
   street
+topics:
+  - Fashion
 ---
 ## The Summer Bag That Has Celebrities Unanimous
 

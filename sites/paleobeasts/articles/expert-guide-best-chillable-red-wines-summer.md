@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Chilled red wine glasses and an unlabeled bottle on a sunny summer patio with
   fruit and picnic bites.
+topics:
+  - Nutrition
 ---
 ## Breaking the Temperature Rule: Why Chilled Red Wine Is Summer's Best-Kept Secret
 

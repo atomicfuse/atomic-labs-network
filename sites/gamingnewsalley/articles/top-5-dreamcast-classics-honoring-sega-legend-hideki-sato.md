@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Retro-futurist game console and controller glowing beside abstract online
   network lights
+topics:
+  - Gaming News
 ---
 
 The world of gaming has been significantly shaped by numerous consoles, but few have left as profound an impact as the Sega Dreamcast. Released in the late 1990s, this console was revolutionary, offering a glimpse into the future of gaming. As we reflect on its legacy, it's essential to remember the creative minds behind it, including the notable pioneer, Hideki Sato. His recent passing invites us to celebrate the innovations and unforgettable experiences that the Dreamcast provided through its iconic games.

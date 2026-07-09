@@ -34,6 +34,8 @@ quality_note: >-
   undermine factual credibility.
 reading_time: 3
 image_alt: Travelers wait in a dim airport terminal as a plane departs into a cloudy sky.
+topics:
+  - Travel Tips
 ---
 ## Growing Health Risks Meet Peak Travel Season
 

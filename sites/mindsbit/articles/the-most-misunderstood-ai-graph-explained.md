@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   A person studies a distorted glowing data curve floating through layered glass
   panels.
+topics:
+  - Innovation
+  - Tech
 ---
 
 AI technology is evolving at an unprecedented pace, bringing with it myriad opportunities and challenges. Among the many tools used to understand this complex field, one particular graph has sparked significant debate and confusion. This graph, often misinterpreted, plays a crucial role in illustrating AI capabilities and limitations. By unpacking its true meaning, we can gain a clearer perspective on the current state and future potential of artificial intelligence.

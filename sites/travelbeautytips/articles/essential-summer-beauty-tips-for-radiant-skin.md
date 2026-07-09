@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Sunlit summer beauty scene with glowing skin, water, citrus, and minimal
   skincare elements.
+topics:
+  - Beauty Tips
 ---
 
 As temperatures rise, it becomes crucial to adapt your beauty regimen to summer conditions. The sun, heat, and humidity present unique challenges for maintaining healthy skin and hair. With a few strategic adjustments, you can enjoy the season while looking your best.

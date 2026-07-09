@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Serene wellness studio with yoga mat, weights, meditation cushion, and soft
   morning light
+topics:
+  - Wellness
 ---
 
 Meghan Markle, renowned for her elegant style and poise, also maintains an impressive commitment to fitness and wellness. Her routine combines elements of yoga, strength training, and mindfulness, offering a holistic approach that many aspire to replicate. This article delves into the core aspects of Meghan's workout regimen and how it contributes to her overall well-being.

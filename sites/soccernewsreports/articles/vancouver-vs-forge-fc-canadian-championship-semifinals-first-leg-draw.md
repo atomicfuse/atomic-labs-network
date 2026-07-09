@@ -41,6 +41,8 @@ quality_note: >-
   The article has good tone and structure but falls short on length, has
   mismatched tags, and lacks specific factual details about the actual match.
 image_alt: Two soccer players contest a ball under stadium lights on a rain-slick pitch.
+topics:
+  - Latest News
 ---
 
 The highly anticipated semifinal clash of the Canadian Championship witnessed an intense face-off between Vancouver Whitecaps and Forge FC, resulting in a thrilling stalemate. Fans experienced a match filled with gripping moments and strategic plays, leaving the outcome wide open for the decisive second leg.

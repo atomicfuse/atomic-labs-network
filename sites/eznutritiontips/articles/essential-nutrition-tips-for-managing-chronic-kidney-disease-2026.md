@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Balanced kidney-friendly meal on a sunlit table with patient and nutritionist
   discussing diet in the background.
+topics:
+  - Special Diets
 ---
 
 In the realm of chronic kidney disease management, nutrition plays a pivotal role in maintaining health and preventing complications. Individuals diagnosed with this condition often face dietary restrictions that require careful planning and understanding. By focusing on specific nutrients and adopting a tailored diet, patients can enhance their quality of life while managing their condition effectively.

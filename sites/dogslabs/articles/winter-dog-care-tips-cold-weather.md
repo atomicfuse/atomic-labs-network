@@ -34,6 +34,8 @@ quality_note: >-
   more specific SEO optimization in headings and meta description.
 reading_time: 3
 image_alt: Small dog in a winter coat walks safely on a snowy path beside its owner.
+topics:
+  - Breed Guides
 ---
 As temperatures begin to drop, dog owners face unique challenges in keeping their furry companions safe and healthy throughout the winter months. According to reports, proper winter preparation requires understanding breed-specific vulnerabilities, recognizing toxic hazards, and maintaining mental stimulation during shorter days.
 

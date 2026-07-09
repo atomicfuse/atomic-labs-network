@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Blank wooden puzzle tiles arranged among forest leaves and bark in warm
   natural light
+topics:
+  - Pop Culture
+  - Tutorials
 ---
 
 NYT Strands for Monday, May 4, 2026, brings a clever woodland twist to the grid. The theme clue, "May the Forest Be With You," playfully nods to Star Wars Day while pointing solvers toward a very earthy category: trees and tree-related vocabulary.

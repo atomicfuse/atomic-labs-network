@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Original superhero suits displayed in a moody studio wardrobe under cinematic
   spotlights.
+topics:
+  - Viral
 ---
 ## The Art of Bringing Comics to Life
 

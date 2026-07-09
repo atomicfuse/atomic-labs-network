@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Colorful winter foods and warm soup on a sunlit kitchen table suggesting
   seasonal wellness.
+topics:
+  - Nutrition Tips
 ---
 
 Cold mornings, crowded indoor spaces and busy schedules can make winter feel like prime time for sniffles, sore throats and stomach bugs. While no single food can guarantee immunity, the right nutrition habits can help your body respond better when seasonal germs circulate. A winter wellness plan should focus on colourful whole foods, enough protein, gut-friendly meals, steady hydration and simple daily routines that support energy and recovery.

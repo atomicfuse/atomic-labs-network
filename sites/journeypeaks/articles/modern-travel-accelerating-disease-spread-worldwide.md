@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Travelers wait in a cool-lit airport terminal as a jet sits beyond the windows
   at dawn.
+topics:
+  - Travel
+  - Travel Tips
 ---
 ## The Hidden Health Risks of Modern Travel
 

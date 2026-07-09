@@ -40,6 +40,8 @@ quality_note: >-
   with entertainment-focused keywords and could benefit from stronger SEO
   optimization for the target audience.
 image_alt: Fruiting cones on a rare Wollemi pine in a rain-fresh British garden
+topics:
+  - Good Vibes
 ---
 
 In a remarkable event for botany enthusiasts and conservationists alike, a prehistoric tree species has borne fruit in a British garden, captivating plant lovers worldwide. This intriguing development occurred when a couple in the UK successfully cultivated the critically endangered Wollemi pine, a species that dates back to the age of dinosaurs. The tree's fruiting in their garden marks a significant milestone for the preservation and understanding of this ancient plant.

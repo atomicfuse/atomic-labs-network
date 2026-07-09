@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Glowing nanoscale dots disperse tangled protein fibers in an abstract neural
   environment.
+topics:
+  - Research
 ---
 ## Breakthrough in Targeting Parkinson's Root Cause
 

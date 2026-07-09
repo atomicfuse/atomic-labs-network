@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Woman practices gentle yoga in a calm sunlit room with a blood pressure
   monitor nearby.
+topics:
+  - Yoga Poses
 ---
 
 High blood pressure can feel silent until it begins shaping daily choices, energy levels, and long-term heart health. For many women, a short yoga routine offers a practical way to support hypertension management alongside medical care, better nutrition, regular movement, and stress control.

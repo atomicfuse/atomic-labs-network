@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   An empty lavish movie set with abandoned props and a lone director’s chair
   under a spotlight.
+topics:
+  - Pop Culture
+  - Lifestyle
 ---
 
 In the world of cinema, high budgets often promise breathtaking visuals and thrilling narratives. However, some big-budget films fail to capture audiences' imaginations, leaving a trail of disappointment. These movies, despite their financial backing, miss the mark, offering audiences less than what they anticipated. Let's delve into some of these notable big-budget films that failed to impress.

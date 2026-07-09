@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Sunlit boutique Pilates studio with reformer equipment and clients receiving
   gentle instruction.
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## New Queens Studio Focuses on Personalized Pilates Experience
 

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Diverse performers celebrate together under golden stage lights at an elegant
   awards ceremony.
+topics:
+  - Watch
 ---
 
 The 2026 Screen Actors Guild Awards delivered an evening full of memorable moments and notable achievements, celebrating outstanding performances in film and television. This year's ceremony not only highlighted the incredible talent within the industry but also set new standards for the future of entertainment.

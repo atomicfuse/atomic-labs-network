@@ -37,6 +37,8 @@ videos:
 image_alt: >-
   Vintage coupe cocktail on a wood bar with tropical garnishes and moody amber
   lighting
+topics:
+  - Recipes
 ---
 ## A Forgotten Bridge Between Eras
 

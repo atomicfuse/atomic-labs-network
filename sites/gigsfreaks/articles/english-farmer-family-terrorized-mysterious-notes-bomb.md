@@ -37,6 +37,8 @@ videos:
 image_alt: >-
   Misty rural farm at dusk with blank threatening notes suggesting a true-crime
   mystery
+topics:
+  - Internet Mysteries
 ---
 ## A Quiet Farm Becomes a Crime Scene
 

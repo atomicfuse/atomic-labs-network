@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Soldier at dusk viewing a digital battlefield interface as smoke and signal
   patterns fill the horizon.
+topics:
+  - Deep Dives
 ---
 
 The strategic landscape in Ukraine continues to evolve as reports suggest a significant shift in military tactics. Recent developments indicate that Russian forces are employing modern warfare strategies to gain an advantage. This adaptation marks a pivotal moment in the ongoing conflict, highlighting the complexity and intensity of the situation.

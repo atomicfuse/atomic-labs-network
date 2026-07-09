@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Antarctic researchers collect marine samples in icy waters for potential
   cancer treatment discoveries.
+topics:
+  - Mind-Blowing Science
 ---
 ## Diving Into Antarctica's Frozen Pharmacy
 

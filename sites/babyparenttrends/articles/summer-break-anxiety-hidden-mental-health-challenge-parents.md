@@ -35,6 +35,8 @@ reading_time: 4
 image_alt: >-
   Parent sits near a withdrawn child in a softly lit summer bedroom with gentle
   routine cues nearby.
+topics:
+  - Parenting
 ---
 ## The Reality Behind Summer Freedom
 

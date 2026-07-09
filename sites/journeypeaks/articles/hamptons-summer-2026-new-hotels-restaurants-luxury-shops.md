@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Sunlit Hamptons street with a shingled inn, boutique storefronts, outdoor
   dining, and coastal summer elegance.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## A New Chapter for the East End
 

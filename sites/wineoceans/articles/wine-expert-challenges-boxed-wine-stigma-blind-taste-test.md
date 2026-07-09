@@ -1,9 +1,12 @@
 ---
 title: Wine Expert Challenges Boxed Wine Stigma With Blind Taste Test
-description: Professional wine tasting reveals boxed wines can match bottled quality, with some Chilean and Italian varieties earning top ratings at festival campsite test.
+description: >-
+  Professional wine tasting reveals boxed wines can match bottled quality, with
+  some Chilean and Italian varieties earning top ratings at festival campsite
+  test.
 type: review
 status: published
-publishDate: 2026-06-02
+publishDate: 2026-06-02T00:00:00.000Z
 author: Andrew Perry
 tags:
   - Wine reviews
@@ -13,7 +16,7 @@ tags:
   - wine tasting
 slug: wine-expert-challenges-boxed-wine-stigma-blind-taste-test
 reviewer_notes: Approved via review queue.
-source_url: https://www.youtube.com/watch?v=dQX4Kc_ytcc
+source_url: 'https://www.youtube.com/watch?v=dQX4Kc_ytcc'
 source_item_id: 6a1d08729bf3ecf115d981c0
 generated_by: claude
 featuredImage: /assets/images/wineoceans-general-article.webp
@@ -24,12 +27,16 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: Strong wine review content with good keyword relevance, but significantly under target word count at only 537 words versus the 800-1200 range.
+quality_note: >-
+  Strong wine review content with good keyword relevance, but significantly
+  under target word count at only 537 words versus the 800-1200 range.
 reading_time: 3
 videos:
   - id: 4e0e0799-a193-4d81-b821-2ffda95e062e
-    url: https://www.youtube.com/watch?v=dQX4Kc_ytcc
+    url: 'https://www.youtube.com/watch?v=dQX4Kc_ytcc'
     position: after-paragraph-1
+topics:
+  - Wine reviews
 ---
 ## Boxed Wine Gets Professional Validation
 

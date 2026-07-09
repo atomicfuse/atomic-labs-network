@@ -1,9 +1,12 @@
 ---
 title: The Destinations Most Travelers Skip (And Why That's Your Gain)
-description: While the crowds flood Paris, Bali, and Santorini, a different kind of traveler is quietly discovering the places that don't make the highlight reels — and having the trip of their lives.
+description: >-
+  While the crowds flood Paris, Bali, and Santorini, a different kind of
+  traveler is quietly discovering the places that don't make the highlight reels
+  — and having the trip of their lives.
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Lena Marsh
 tags:
   - hidden gems
@@ -12,8 +15,9 @@ tags:
   - off the beaten path
   - travel tips
 slug: destinations-most-travelers-skip
-reviewer_notes: ""
-source_url: https://geekytraveler.com/avoid-these-8-overcrowded-tourist-destinations-in-2026
+reviewer_notes: ''
+source_url: >-
+  https://geekytraveler.com/avoid-these-8-overcrowded-tourist-destinations-in-2026
 generated_by: claude
 featuredImage: /assets/images/destinations-most-travelers-skip.webp
 quality_score: 85
@@ -23,8 +27,14 @@ score_breakdown:
   content_length: 78
   factual_accuracy: 90
   keyword_relevance: 88
-quality_note: Strong Escapist-tribe angle with authentic, wanderlust-driven voice. Well-structured with evocative section headers. Could be enhanced with specific local tips or seasonal guidance per destination. Meets length and formatting requirements.
+quality_note: >-
+  Strong Escapist-tribe angle with authentic, wanderlust-driven voice.
+  Well-structured with evocative section headers. Could be enhanced with
+  specific local tips or seasonal guidance per destination. Meets length and
+  formatting requirements.
 reading_time: 4
+topics:
+  - Travel Tips
 ---
 
 ## The Paradox of the Well-Traveled World

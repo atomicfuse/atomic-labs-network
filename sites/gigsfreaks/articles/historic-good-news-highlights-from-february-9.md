@@ -39,6 +39,8 @@ quality_note: >-
   words vs 800-1200 target) and could better integrate entertainment-focused
   keywords for the site's audience.
 image_alt: Symbolic historical artifacts arranged in a hopeful editorial still life
+topics:
+  - Good Vibes
 ---
 
 On this day in history, several noteworthy events have left an indelible mark on the world, inspiring change and sparking movements. Let's dive into some of these significant moments that occurred on February 9th across different years, showcasing the power of innovation, courage, and creativity.

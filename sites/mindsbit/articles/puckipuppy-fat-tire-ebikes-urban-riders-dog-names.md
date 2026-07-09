@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Two fat-tire e-bikes at a city path entrance with a subtle dog companion
   nearby.
+topics:
+  - Tech
 ---
 ## Quirky Brand Makes Serious E-Bike Play
 

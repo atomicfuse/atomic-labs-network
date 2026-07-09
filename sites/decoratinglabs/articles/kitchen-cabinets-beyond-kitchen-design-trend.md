@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Elegant dining nook and hallway with built-in cabinetry, warm wood tones,
   cushions, ceramics, and natural light.
+topics:
+  - budget decor
 ---
 ## A Growing Design Movement
 

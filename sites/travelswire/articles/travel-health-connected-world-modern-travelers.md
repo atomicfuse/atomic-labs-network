@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Passport, medical kit, and phone on an airport table suggesting prepared,
   healthy international travel.
+topics:
+  - Travel Tips
 ---
 ## The New Reality of Travel Health
 

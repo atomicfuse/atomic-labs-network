@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Ancient skull fragment on a forensic table with a shadowed medieval female
   warrior silhouette behind it
+topics:
+  - Hidden History
 ---
 ## The Discovery That Changes Everything
 

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Holiday travelers move smoothly along a wide Georgia interstate at golden
   hour.
+topics:
+  - Culture
 ---
 
 As the holiday season approaches, many travelers are preparing to hit the roads for festive gatherings and celebrations. Understanding the best times to travel and ensuring safety on the highways become paramount during these busy periods. To ease the journey, the Georgia Department of Transportation (GDOT) has implemented measures to facilitate smoother traffic flow and enhance safety for all road users.

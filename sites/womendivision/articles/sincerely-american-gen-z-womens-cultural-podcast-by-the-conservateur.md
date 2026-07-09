@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Two stylish young women record a culture and lifestyle podcast in a warm
   modern studio.
+topics:
+  - Fashion
+  - Lifestyle
 ---
 
 The digital landscape of women's lifestyle media is continually evolving, and one brand making waves is The Conservateur. Known for its unique blend of fashion, culture, and lifestyle content, The Conservateur has recently expanded its offerings by launching a weekly podcast and video series. These new ventures aim to provide a fresh, engaging medium for its audience to explore trending topics and in-depth discussions.

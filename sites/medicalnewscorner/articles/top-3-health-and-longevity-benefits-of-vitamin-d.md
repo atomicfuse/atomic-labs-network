@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Older adult in warm morning sunlight, suggesting vitality, wellness, and
   healthy aging.
+topics:
+  - Health News
 ---
 
 Vitamin D, often referred to as the "sunshine vitamin," plays a crucial role in maintaining overall health. Recent studies have highlighted its potential in enhancing longevity, showcasing its importance beyond bone health. Researchers have identified several mechanisms through which vitamin D may contribute to a longer, healthier life.

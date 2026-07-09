@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Tense competition kitchen with Appalachian ingredients and chefs under
   cinematic lighting.
+topics:
+  - TV Shows
 ---
 ## Top Chef Takes on Asheville's Culinary Heritage
 

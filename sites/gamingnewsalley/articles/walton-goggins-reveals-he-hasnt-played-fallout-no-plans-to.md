@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Actor in post-apocalyptic makeup ignores a game controller in a cinematic
   dressing room.
+topics:
+  - Gaming News
 ---
 
 Walton Goggins, an acclaimed actor known for his versatile roles, has been cast in the upcoming television adaptation of the popular video game series, Fallout. Despite his involvement in such a prominent project, Goggins revealed that he has never played the game and has no intention of doing so. This intriguing admission has sparked conversations among fans and the entertainment community alike.

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Expectant parent resting by a sunlit window with gentle prenatal wellness
   items nearby
+topics:
+  - Pregnancy
 ---
 
 Pregnancy is a life-changing journey filled with excitement, anticipation, and numerous questions. As expectant parents navigate this incredible phase, understanding the various stages, health tips, and significant milestones can greatly enhance the experience. This guide aims to provide comprehensive insights into pregnancy, helping parents-to-be make informed decisions.

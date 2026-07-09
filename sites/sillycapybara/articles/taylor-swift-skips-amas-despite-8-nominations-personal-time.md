@@ -42,6 +42,8 @@ reading_time: 3
 image_alt: >-
   Empty spotlighted awards-show seat with purple stage lights and a travel bag
   nearby.
+topics:
+  - Viral
 ---
 ## Swift's Notable Absence from Las Vegas Ceremony
 

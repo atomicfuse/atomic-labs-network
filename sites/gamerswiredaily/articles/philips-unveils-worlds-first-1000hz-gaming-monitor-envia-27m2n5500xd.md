@@ -45,6 +45,8 @@ quality_note: >-
   words vs 800-1200 target) and likely fabricated product specifications
   including the impossible 1000Hz refresh rate claim.
 image_alt: Futuristic gaming monitor with neon motion trails on a dark esports-style desk
+topics:
+  - Gaming News
 ---
 
 The gaming world is on the brink of a revolution with the introduction of Philips' latest innovation, the Envia 27M2N5500XD. This groundbreaking gaming monitor is the first of its kind to feature an astonishing 1000Hz refresh rate, setting a new benchmark for gaming displays. With this release, Philips aims to enhance the gaming experience by offering unparalleled smoothness and responsiveness.

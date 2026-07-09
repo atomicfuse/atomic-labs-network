@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Moody late-night screenwriter desk with blank pages, laptop glow, and
   cinematic lighting.
+topics:
+  - Memes
 ---
 
 The phrase "I'm sorry, I cannot assist with that request" is often used to politely decline a task or request that cannot be fulfilled due to constraints or limitations.

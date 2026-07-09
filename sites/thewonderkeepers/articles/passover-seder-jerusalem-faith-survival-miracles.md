@@ -33,6 +33,8 @@ reading_time: 5
 image_alt: >-
   Candlelit Passover table in Jerusalem with empty chairs and hands gathered in
   quiet remembrance
+topics:
+  - Stories
 ---
 ## The Table Was Set, and So Was the Story
 

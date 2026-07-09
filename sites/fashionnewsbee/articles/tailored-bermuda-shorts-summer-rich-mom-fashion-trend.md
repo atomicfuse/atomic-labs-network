@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman in tailored cream Bermuda shorts walking through a sunlit upscale
   coastal street.
+topics:
+  - Fashion
 ---
 ## The Rise of Polished Summer Dressing
 

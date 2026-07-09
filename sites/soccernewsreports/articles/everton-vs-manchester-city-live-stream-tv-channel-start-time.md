@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Floodlit football stadium at dusk with blue-clad fans and players emerging
   onto the pitch
+topics:
+  - Latest News
 ---
 
 Everton welcome Manchester City to Goodison Park for a Premier League fixture loaded with storylines, from the hosts chasing a strong finish in their final season at the historic ground to City trying to protect their place in the race for European qualification. For viewers in the United States, the match offers another high-profile chance to watch Pep Guardiola's side against a disciplined Everton team that has become harder to beat under David Moyes.

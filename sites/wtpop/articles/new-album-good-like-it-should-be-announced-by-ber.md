@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Singer-songwriter silhouette in a warm rehearsal room with guitar and soft
   window light.
+topics:
+  - Music
 ---
 
 In the vibrant world of music, fresh talent continues to emerge, captivating audiences with unique sounds and heartfelt lyrics. One such artist making waves is Ber, an inspiring musician who has announced her upcoming album titled *Good, Like It Should Be*. This announcement marks a significant milestone in her career, promising a collection of songs that resonate with authenticity and emotion.

@@ -44,6 +44,8 @@ quality_note: >-
   falls short on content length and could benefit from stronger SEO optimization
   and more specific match details.
 image_alt: Soccer fans gather at a lively Kansas City outdoor watch party at sunrise.
+topics:
+  - Latest News
 ---
 
 Kansas City is set to host an exhilarating weekend for soccer enthusiasts with the upcoming Premier League Mornings Live Fan Fest. This iconic event is scheduled for Saturday and Sunday, promising an unforgettable experience for fans of the world-renowned English Premier League.

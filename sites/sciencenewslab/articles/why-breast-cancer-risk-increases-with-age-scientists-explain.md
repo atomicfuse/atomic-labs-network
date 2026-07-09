@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Older woman in soft light with abstract cellular patterns suggesting
   age-related breast cancer risk.
+topics:
+  - Space
 ---
 
 Breast cancer risk rises sharply with age, and scientists are getting closer to explaining why. New research suggests the answer is not only about random DNA mistakes building up over time. The aging breast also changes as an ecosystem, making it easier for abnormal cells to survive, grow, and potentially become cancerous.

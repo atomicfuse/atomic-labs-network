@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Stylish organized living room with neutral decor, ceramic vases, framed art,
   baskets, and soft natural light.
+topics:
+  - Decor Ideas
 ---
 
 If you're looking to elevate your home decor and organization, you've come to the right place. Interior designer Kristen McGowan shares her top 10 Amazon home decor and household products that are not only affordable but also essential for creating a stylish and functional living space. These carefully selected items are designed to help you maintain a clean, organized, and beautifully styled home.

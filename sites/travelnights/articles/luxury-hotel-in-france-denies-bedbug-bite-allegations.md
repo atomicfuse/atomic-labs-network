@@ -42,6 +42,9 @@ quality_note: >-
   but falls short on word count and could benefit from stronger SEO optimization
   in title and meta description.
 image_alt: Housekeeper in gloves inspecting the mattress in a refined French hotel suite.
+topics:
+  - Destinations
+  - News
 ---
 
 Travelers to France have recently been on high alert due to an unexpected rise in bedbug infestations affecting hotels and accommodations. This surge in bedbug cases has sparked concerns among tourists and locals alike, prompting increased efforts for prevention and management.

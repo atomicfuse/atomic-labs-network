@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Traveler in a historic European square at sunrise, facing monuments and
   ancient architecture.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Travel enthusiasts often seek destinations that offer more than just picturesque landscapes; they crave places rich with history and cultural significance. Exploring revolutionary sites can provide a unique perspective on the events that shaped our world. These destinations not only tell stories of past struggles but also celebrate triumphs that have influenced modern society.

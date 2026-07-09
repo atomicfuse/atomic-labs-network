@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Accessible dental clinic with a wheelchair beside the treatment chair and
   training tools nearby
+topics:
+  - Health News
 ---
 ## Barriers to Dental Care Persist for Disabled Communities
 

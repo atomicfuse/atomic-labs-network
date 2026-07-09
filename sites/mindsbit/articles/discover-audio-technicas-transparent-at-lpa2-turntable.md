@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Transparent turntable spinning a vinyl record on a modern listening-room
   console
+topics:
+  - Tech
 ---
 
 In recent years, the resurgence of vinyl records has captivated music enthusiasts worldwide, leading to a renewed interest in turntables. Audio-Technica, a brand recognized for its high-quality audio equipment, has launched a new addition to its lineup, the AT-LP60X, a turntable designed for both new and seasoned vinyl collectors. Emphasizing simplicity and performance, this turntable is set to draw attention from those seeking an affordable yet reliable option.

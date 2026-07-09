@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   A stainless steel rocket upper stage glows faintly above Earth as subtle
   vibration waves surround it.
+topics:
+  - Electric Cars
 ---
 
 SpaceX is set to launch its eighth test flight of the Starship rocket this Friday. Ahead of the most recent test in what could be the most revolutionary spaceflight program since NASA's Apollo, SpaceX is clearing the air about what went wrong during its previous test flight, which resulted in the loss of the second stage during its ascension.

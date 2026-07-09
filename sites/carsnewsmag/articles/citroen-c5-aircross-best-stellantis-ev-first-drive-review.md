@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Modern electric SUV driving on a coastal road at golden hour with a refined
   editorial look.
+topics:
+  - Reviews
 ---
 
 The Citroën C5 Aircross is making waves in the SUV market with its distinctive design and emphasis on comfort. This SUV aims to provide a unique driving experience, setting itself apart with innovative features and a focus on passenger comfort. With its striking appearance and practical functionality, the C5 Aircross is capturing the attention of drivers looking for something different from the usual SUV offerings.

@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Modern tiny house with open glass doors and a timber deck in a quiet
   Australian rural setting.
+topics:
+  - News
 ---
 ## Smart Design Meets Small-Space Living
 

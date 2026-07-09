@@ -35,6 +35,9 @@ reading_time: 2
 image_alt: >-
   A lone woman stands in a misty Thai rainforest as an eerie supernatural glow
   rises between the trees.
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## Rising Thai Horror Star Takes Center Stage
 

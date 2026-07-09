@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Lone rebel spy silhouette in a shadowy sci-fi corridor with hidden clues in
   the background
+topics:
+  - Pop Culture
+  - Lifestyle
 ---
 
 # Andor Finale: Hidden Easter Eggs You Might Have Missed

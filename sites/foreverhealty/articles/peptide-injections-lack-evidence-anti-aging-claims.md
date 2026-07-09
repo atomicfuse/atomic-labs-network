@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Unlabeled vial and syringe on a teal clinical surface with blurred social
   media-like glow behind them.
+topics:
+  - Fitness & Movement
+  - Healthy Aging
 ---
 ## The Growing Peptide Wellness Trend
 

@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Golden Jordanian desert landscape with travelers and stewards overlooking
   protected heritage sites.
+topics:
+  - Culture
+  - Destinations
 ---
 
 Jordan is increasingly positioning itself as a destination where history, nature, and responsible travel can exist together. From Petra and Wadi Rum to the Dead Sea, Jerash, Aqaba, and the country's nature reserves, visitors are being encouraged to explore with greater awareness. A key part of that shift is the role of Jordan's Public Security Directorate, which supports safe tourism while promoting environmental care, visitor guidance, and respect for local communities.

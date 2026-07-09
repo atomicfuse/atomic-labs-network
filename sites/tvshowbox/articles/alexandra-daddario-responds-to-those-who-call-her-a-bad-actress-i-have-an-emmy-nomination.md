@@ -50,6 +50,8 @@ quality_note: >-
   penalized by extremely short word count of only 259 words when target is
   800-1200.
 image_alt: Confident actress in a spotlight facing shadowy critics on a cinematic stage
+topics:
+  - TV News
 ---
 
 After more than a decade on screen, Alexandra Daddario has a message for her critics.

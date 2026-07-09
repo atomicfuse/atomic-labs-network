@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Traveler overlooking sunlit Spanish rooftops, historic arches, and a distant
   Mediterranean coastline.
+topics:
+  - Destinations
 ---
 
 Spain, known for its stunning architecture, vibrant culture, and delicious cuisine, is a top destination for travelers worldwide. Whether you're drawn to the bustling streets of Barcelona, the historical allure of Madrid, or the sunny beaches of the Costa del Sol, Spain offers a wealth of experiences. To make the most of your visit, it's essential to plan carefully and consider a few practical travel tips.

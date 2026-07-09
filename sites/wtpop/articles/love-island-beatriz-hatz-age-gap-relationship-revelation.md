@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Reality-TV dressing room with a woman at a vanity and a distant blurred
   silhouette suggesting dating tension.
+topics:
+  - TV & Movies
 ---
 ## Love Island Contestant Shares Personal Dating History
 

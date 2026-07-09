@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A glowing PC gaming setup with a controller set aside, suggesting a move from
   console to PC.
+topics:
+  - Game Reviews
 ---
 
 Transitioning from console gaming to PC offers an expansive world of opportunities, with games that showcase superior graphics, extensive modding options, and a diverse range of genres. Many gamers find the shift rewarding as it opens up access to exclusive titles that redefine gaming experiences. For those who have been loyal to consoles like the PlayStation, certain PC-exclusive games may serve as the key motivators to explore the realm of PC gaming.

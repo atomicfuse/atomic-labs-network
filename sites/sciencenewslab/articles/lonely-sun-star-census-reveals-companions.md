@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A lone golden star sits apart from distant paired stars in a dark cosmic
   field.
+topics:
+  - Space
 ---
 ## A Neighborhood Survey Like No Other
 

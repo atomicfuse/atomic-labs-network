@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Warm backstage writing desk with script pages, books, and theater seats in
   soft focus.
+topics:
+  - Off Script
 ---
 
 Bess Wohl, a renowned playwright and screenwriter, has carved a niche for herself in the theatre and film industries with her unique storytelling approach. Her works, celebrated for their depth and wit, have captivated audiences and critics alike. This article explores how Bess Wohl maintains her creative momentum and balances the demands of her professional and personal life.

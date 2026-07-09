@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Security guard listens beside a drainage pipe where a tiny calico kitten waits
   in the shadows.
+topics:
+  - Pet Care & Health
 ---
 ## Alert Security Guard Makes Life-Saving Discovery
 

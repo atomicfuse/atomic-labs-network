@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Rattlesnake resting in shadowed forest leaf litter with soft light emphasizing
   its scales and eye.
+topics:
+  - Mind-Blowing Science
 ---
 ## Disease: The Hidden Enemy of Snake Populations
 

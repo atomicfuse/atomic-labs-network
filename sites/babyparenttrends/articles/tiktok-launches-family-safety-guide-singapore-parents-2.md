@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Parent and teen discuss phone safety settings together at a bright kitchen
   table in Singapore.
+topics:
+  - Parenting
 ---
 ## New Guide Focuses on Family Conversations Over Restrictions
 

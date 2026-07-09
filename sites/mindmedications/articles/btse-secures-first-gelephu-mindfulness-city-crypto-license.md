@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Serene Bhutan valley with a futuristic hub and glowing digital network at
   sunrise
+topics:
+  - Mindfulness
 ---
 
 Bhutan's Gelephu Mindfulness City is moving quickly to become one of Asia's most closely watched digital asset hubs. The newly planned special administrative region has opened a fast-track crypto licensing route, and BTSE has become the first digital asset exchange to receive approval under the framework.

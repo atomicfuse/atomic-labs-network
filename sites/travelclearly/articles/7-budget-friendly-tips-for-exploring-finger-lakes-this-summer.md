@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Summer travelers overlook a Finger Lakes landscape with vineyards, trails,
   lake water, and a simple picnic.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Planning a summer getaway to the Finger Lakes region can be both exciting and affordable. This picturesque area is renowned for its natural beauty and charming towns, offering numerous budget-friendly options for explorers. Whether you're a first-time visitor or a seasoned traveler, there are plenty of ways to enjoy this stunning region without breaking the bank.

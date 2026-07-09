@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Adult practicing calming yoga in a sunlit room with plants and a peaceful
   atmosphere
+topics:
+  - Yoga Poses
 ---
 
 Yoga offers a holistic approach to managing stress effectively, according to leading physical therapists. By integrating specific yoga poses into your routine, you can significantly improve your mental and physical well-being, especially during high-stress periods.

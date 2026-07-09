@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Soccer player celebrates under stadium lights after a decisive all-star match
   moment.
+topics:
+  - Latest News
 ---
 
 The MLS All-Star Game recently showcased an impressive performance as the Major League Soccer team triumphed over their Liga MX counterparts. This exciting match featured a commanding 3-1 victory, with standout players and thrilling gameplay that left fans in awe. The event not only highlighted the growing talent within the MLS but also emphasized the competitive spirit between these North American leagues.

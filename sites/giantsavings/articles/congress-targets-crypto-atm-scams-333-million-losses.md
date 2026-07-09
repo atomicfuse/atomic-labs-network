@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Crypto ATM reflected with government columns, suggesting new federal action
   against fraud.
+topics:
+  - Smart Shopping
 ---
 ## Congressional Action on Crypto ATM Fraud
 

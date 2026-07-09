@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Glamorous red carpet fashion scene with diverse models in bold couture under
   cinematic camera flashes
+topics:
+  - Culture Buzz
 ---
 
 The Cannes Film Festival red carpet is renowned for its display of glamour and high fashion. With each year, celebrities dazzle audiences worldwide with their sartorial choices, setting new trends and showcasing the creativity of designers. The 2025 event was no exception, as it featured an array of breathtaking styles and memorable ensembles that captivated fashion enthusiasts.

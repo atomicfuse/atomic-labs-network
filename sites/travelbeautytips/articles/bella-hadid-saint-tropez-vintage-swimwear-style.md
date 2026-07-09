@@ -32,6 +32,8 @@ quality_note: >-
   trends and timing.
 reading_time: 3
 image_alt: Stylish woman in retro swimwear on a Riviera yacht in warm summer light.
+topics:
+  - Lifestyle
 ---
 ## Bella Hadid's Latest French Riviera Fashion Moment
 

@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Glamorous London red carpet at night with dramatic lights and a subtle
   dragon-like shadow
+topics:
+  - TV Shows
 ---
 ## HBO's Dragon Dynasty Continues with London Celebration
 

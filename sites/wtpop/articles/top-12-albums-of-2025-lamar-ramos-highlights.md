@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Anonymous curator faces glowing vinyl sleeves and sound waves in a moody
   futuristic listening room.
+topics:
+  - Music
 ---
 
 Discover the captivating world of music with the most anticipated albums of 2025. This year promises an eclectic mix of sounds and styles that are sure to resonate with diverse audiences. From revolutionary debut albums to groundbreaking releases from established artists, the music landscape is set to evolve once again, offering listeners a rich tapestry of melodies and rhythms.

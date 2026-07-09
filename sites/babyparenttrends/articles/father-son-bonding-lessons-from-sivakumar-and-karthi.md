@@ -43,6 +43,8 @@ quality_note: >-
   (482 words vs 800-1200 target) and could benefit from stronger SEO
   optimization.
 image_alt: Father and adult son sharing a warm conversation on a sunlit veranda
+topics:
+  - Kids
 ---
 
 In the dynamic landscape of parenting, finding the right balance between authority and empathy can be challenging. The relationship between renowned actor Sivakumar and his son Karthi offers valuable insights into nurturing a bond based on mutual respect, which modern parents can learn from. Their journey exemplifies how placing respect before rules can create a harmonious and supportive family environment.

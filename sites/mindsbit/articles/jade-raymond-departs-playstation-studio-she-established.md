@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Empty game studio chair and glowing workstations suggest leadership change and
   uncertainty.
+topics:
+  - Innovation
+  - Tech
 ---
 
 The gaming industry is buzzing with the unexpected departure of a prominent figure from Haven Studios, a company well-known for its innovative approach to game development. Jade Raymond, a veteran in the gaming scene, has announced her exit from the studio she established in partnership with PlayStation. This development has sparked discussions about the future direction of Haven Studios and its ongoing projects.

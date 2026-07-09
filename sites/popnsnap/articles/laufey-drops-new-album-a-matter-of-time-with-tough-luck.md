@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Moody recording studio with vintage microphone, instruments, sheet music, and
   a metronome under warm light.
+topics:
+  - Music
 ---
 
 Laufey, an emerging artist known for her unique blend of jazz and pop, is set to enchant audiences once again with her newest album. Titled *A Matter of Time*, this release promises to captivate listeners with its sophisticated melodies and heartfelt lyrics. As anticipation builds, Laufey has given fans a taste of what's to come with her latest single, "Tough Luck."

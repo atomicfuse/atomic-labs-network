@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   A disordered campaign room with scattered papers and separated silhouettes
   after a political setback.
+topics:
+  - TV News
 ---
 ## Far-Right Movement Faces Internal Chaos
 

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Aroma streams rise from coffee, tea, citrus, and grapes in a sleek food
   technology lab.
+topics:
+  - Coffee News
 ---
 
 Flavourtech has carved a distinctive niche in the food and beverage industry by pioneering advanced aroma recovery and extraction technologies. As global demands for high-quality, natural flavors surge, the company has positioned itself as a leader in optimizing flavor profiles while maintaining product integrity.

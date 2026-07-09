@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sunlit table with colorful healthy foods and exercise gear in a bright modern
   kitchen
+topics:
+  - Healthy Recipes
 ---
 
 March is a time to celebrate and embrace healthier eating choices as we acknowledge National Nutrition Month. This annual campaign, initiated by the Academy of Nutrition and Dietetics, encourages individuals to focus on the importance of making informed food choices and developing sound eating and physical activity habits.

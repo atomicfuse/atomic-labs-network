@@ -35,6 +35,9 @@ quality_note: >-
   accurate, this meta-article about a content mismatch fails SEO optimization,
   is far too short, and doesn't provide the actual food content Good Food's
   audience expects.
+topics:
+  - Food Culture
+  - Recipes & Cooking
 ---
 # Content Mismatch Notice
 

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Flooded Vietnamese coffee farm with red cherries in water and a farmer
   overlooking damaged rows.
+topics:
+  - Coffee News
 ---
 
 The Vietnam coffee industry faces a challenging season as unexpected weather patterns disrupt the annual harvest. Widespread floods in the Central Highlands have stalled production, affecting both the quality and quantity of coffee beans. This situation has prompted concerns among local farmers and international buyers who rely heavily on Vietnam's robusta coffee output.

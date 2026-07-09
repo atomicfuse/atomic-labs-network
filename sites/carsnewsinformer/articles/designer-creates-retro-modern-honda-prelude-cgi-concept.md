@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Retro-modern orange sports coupe with a classic silhouette behind it in a
   cinematic automotive scene.
+topics:
+  - Concept Cars
 ---
 ## Alternative Vision for Honda's Comeback Sports Car
 

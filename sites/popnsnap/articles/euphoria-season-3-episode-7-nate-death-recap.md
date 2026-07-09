@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Rainy neon-lit kitchen with an abandoned phone, tipped glass, and red floral
   fabric suggesting off-screen drama.
+topics:
+  - TV & Movies
 ---
 ## A Death That Surprised No One
 

@@ -34,6 +34,9 @@ quality_note: >-
   stronger SEO optimization in title and meta description.
 reading_time: 3
 image_alt: Diverse group practicing personalized yoga variations in a calm sunlit studio
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## Why One Size Doesn't Fit All in Yoga
 

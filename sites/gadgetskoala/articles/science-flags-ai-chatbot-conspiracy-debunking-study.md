@@ -1,9 +1,12 @@
 ---
 title: Science Journal Flags Study on AI Chatbots Debunking Conspiracies
-description: The prestigious Science journal has flagged a high-profile paper that claimed AI chatbots can effectively help debunk conspiracy theories, raising questions...
+description: >-
+  The prestigious Science journal has flagged a high-profile paper that claimed
+  AI chatbots can effectively help debunk conspiracy theories, raising
+  questions...
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Hannah Adams
 tags:
   - Gadgets
@@ -13,7 +16,8 @@ tags:
   - misinformation
 slug: science-flags-ai-chatbot-conspiracy-debunking-study
 reviewer_notes: Approved via review queue.
-source_url: https://news.google.com/rss/articles/CBMirAFBVV95cUxPMDQ3dVk0TWNNX0kxbUxfeFZXZW0yMkIyREk3d2hOOW1wSU45aGtERVYxM1REenhWQncxUkZFaDZDQW9jTG9VUVZyeHpaVEN6TmllU0pVcTlQNFBHRS1vY2hYSjdFOVNiVVFHOHZmVUJudFAycHY1YmJBMXRFcFZRNGxCSi1ISHdOWmlCUzcwRlkycUdObW9yY1plcU1KZjNkVDJOczlBRE11b18t?oc=5
+source_url: >-
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPMDQ3dVk0TWNNX0kxbUxfeFZXZW0yMkIyREk3d2hOOW1wSU45aGtERVYxM1REenhWQncxUkZFaDZDQW9jTG9VUVZyeHpaVEN6TmllU0pVcTlQNFBHRS1vY2hYSjdFOVNiVVFHOHZmVUJudFAycHY1YmJBMXRFcFZRNGxCSi1ISHdOWmlCUzcwRlkycUdObW9yY1plcU1KZjNkVDJOczlBRE11b18t?oc=5
 source_item_id: 6a2cab947da23de6325b9bc1
 generated_by: claude
 featuredImage: /assets/images/science-flags-ai-chatbot-conspiracy-debunking-study.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 40
-quality_note: Article suffers from poor SEO optimization, inadequate length for target audience, vague sourcing that raises factual concerns, and limited relevance to core gadget/tech topics despite AI subject matter.
+quality_note: >-
+  Article suffers from poor SEO optimization, inadequate length for target
+  audience, vague sourcing that raises factual concerns, and limited relevance
+  to core gadget/tech topics despite AI subject matter.
 reading_time: 3
-image_alt: Abstract AI chatbot cube under scientific scrutiny with red flags and tangled misinformation threads
+image_alt: >-
+  Abstract AI chatbot cube under scientific scrutiny with red flags and tangled
+  misinformation threads
+topics:
+  - Gadgets
 ---
 ## Editorial Scrutiny Hits High-Profile AI Research
 

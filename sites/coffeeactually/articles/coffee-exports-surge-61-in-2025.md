@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Vietnamese coffee harvest and export port scene symbolizing rapid industry
   growth
+topics:
+  - Coffee News
 ---
 
 Vietnam's coffee industry has been witnessing remarkable growth, positioning itself as a key player in the global market. This upward trend is largely driven by increased export volumes, which have provided a significant boost to the country's economy. As the world continues to appreciate the rich flavors and quality of Vietnamese coffee, the nation aims to further strengthen its presence in the international arena.

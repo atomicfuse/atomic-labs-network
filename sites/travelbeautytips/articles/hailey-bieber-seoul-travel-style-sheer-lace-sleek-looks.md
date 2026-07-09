@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in sheer black lace and tailored trousers browsing a neon-lit
   Seoul convenience store.
+topics:
+  - Lifestyle
 ---
 ## Celebrity Travel Fashion Takes Center Stage
 

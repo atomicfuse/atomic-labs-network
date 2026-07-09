@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Elegant pasta dish finished tableside in a warmly lit New York restaurant with
   city lights beyond.
+topics:
+  - Wine news
 ---
 ## New Restaurant Venture in Manhattan
 

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Premium coffee scrub jar with coffee grounds, botanicals, and subtle digital
   commerce accents
+topics:
+  - Coffee News
 ---
 
 The coffee scrubs market is witnessing significant growth, driven by increasing consumer awareness of natural skincare and the benefits of coffee-based products. As more people seek effective and eco-friendly beauty solutions, coffee scrubs have emerged as a favored choice for their exfoliating and rejuvenating properties.

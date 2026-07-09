@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Young adult in a modern clinic with subtle abstract health overlays suggesting
   early cancer awareness.
+topics:
+  - Research
 ---
 
 Colorectal and other gastrointestinal cancers are increasingly being diagnosed in younger populations, a trend that has sparked significant concern among medical professionals. Traditionally, these cancers were more common in individuals over 50, but recent studies indicate a shift that requires urgent attention and understanding. Let's explore why this is happening and what factors might be contributing to this unsettling development.

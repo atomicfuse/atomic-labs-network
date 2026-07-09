@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   Glowing succulents on a modern tabletop in a twilight interior with subtle
   scientific accents
+topics:
+  - Space
+  - Technology
 ---
 
 In the ever-evolving world of botanical innovation, scientists have made a remarkable breakthrough by developing glow-in-the-dark succulents. These luminous plants offer a mesmerizing twist on traditional houseplants, captivating plant enthusiasts and scientists alike. This innovative achievement not only adds a magical touch to home decor but also sheds light on the potential for genetic modification in creating visually stunning plant varieties.

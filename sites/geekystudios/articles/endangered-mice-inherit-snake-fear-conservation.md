@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Alert Pacific pocket mouse and juvenile near a sandy burrow with subtle
   predator tracks nearby.
+topics:
+  - Tech
 ---
 ## Breakthrough Discovery in Conservation Biology
 

@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Futuristic cadets face a glowing star map and captain silhouette in a space
   academy hall.
+topics:
+  - Pop Culture
 ---
 
 In the vibrant universe of Star Trek, fans are constantly treated to iconic speeches and moments that leave a lasting impact. One such memorable moment took place in Star Trek: The Next Generation, where Captain Jean-Luc Picard delivered a pivotal speech that has resonated through the franchise's history. Now, the new series, Star Trek: Starfleet Academy, is set to bring this iconic speech back into the spotlight, offering a fresh perspective and a nod to the rich legacy of Star Trek.

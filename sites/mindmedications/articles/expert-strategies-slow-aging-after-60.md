@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Active older adult climbing sunlit steps with a water bottle, suggesting
   strength and healthy aging.
+topics:
+  - Lifestyle
+  - Wellness
 ---
 ## The Science Behind Aging in Your 60s
 

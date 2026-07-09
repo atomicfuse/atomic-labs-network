@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Unbranded cars lined up at a port terminal with cranes and abstract
   trade-route graphics
+topics:
+  - News
 ---
 ## Trump Administration Announces Trade Agreement with South Korea
 

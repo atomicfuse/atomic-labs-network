@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Tropical green leaves with soft glowing neural patterns suggesting plant-based
   mental health research
+topics:
+  - Space
 ---
 
 In recent years, the exploration of natural substances for mental health support has gained significant attention. Among them, a lesser-known Brazilian psychedelic plant has emerged as a promising candidate for depression treatment. While traditional medications remain crucial, this plant offers a novel approach that could complement existing therapies.

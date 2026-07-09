@@ -47,6 +47,9 @@ quality_note: >-
   Well-written fitness content with engaging tone and accurate information, but
   significantly under the target word count at only 418 words.
 image_alt: Athletic adult doing a dumbbell row in a bright modern fitness studio
+topics:
+  - Advice
+  - Fitness
 ---
 
 Are you ready to enhance your upper body strength and achieve better posture? This 40-minute workout is designed to target your back, biceps, and core using strength training techniques and dumbbells. By incorporating this session into your routine, you'll not only build muscle but also improve your overall physical capabilities.

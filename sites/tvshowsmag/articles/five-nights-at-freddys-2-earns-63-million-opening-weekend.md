@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Crowded neon theater lobby with a shadowy animatronic figure suggesting a
   horror blockbuster debut
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 In a remarkable achievement for the horror genre, "Five Nights at Freddy's" has shattered box office expectations with a stunning $63 million debut. This impressive opening weekend has not only captivated audiences but also set a new benchmark for video game adaptations in film. As the Halloween season heightens interest in the horror genre, this film has benefited from both timing and a dedicated fan base.

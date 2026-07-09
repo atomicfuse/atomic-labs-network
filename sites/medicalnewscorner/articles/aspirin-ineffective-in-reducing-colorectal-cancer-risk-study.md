@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Aspirin tablet on a clinical desk with a doctor consulting a patient in the
   background.
+topics:
+  - Research
+  - Drugs
 ---
 
 Recent research has revealed that taking a daily aspirin might not be as beneficial in reducing the risk of colorectal cancer as previously thought. This new insight challenges the long-held belief that aspirin, commonly used for its anti-inflammatory and blood-thinning properties, could serve as a preventive measure against certain cancers.

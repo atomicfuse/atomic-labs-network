@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Fictional musicians pose on a glamorous red carpet in bold couture looks under
   warm awards-night lighting.
+topics:
+  - Fashion
 ---
 
 ### Olivia Rodrigo

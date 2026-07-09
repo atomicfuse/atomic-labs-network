@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   White in-pool lounge chairs on a sunny turquoise pool shelf beside drinks and
   tropical greenery.
+topics:
+  - Budget Decor
 ---
 ## Bringing Resort Luxury Home on a Budget
 

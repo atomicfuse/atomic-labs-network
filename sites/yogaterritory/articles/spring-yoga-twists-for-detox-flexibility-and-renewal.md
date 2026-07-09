@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Person practicing a gentle yoga twist in soft spring sunlight beside fresh
   greenery.
+topics:
+  - Yoga Poses
 ---
 
 Spring is a natural time to reset the body, refresh daily routines, and bring more energy into movement. A seasonal yoga practice built around clearing breathwork and twisting poses can support mobility, posture, digestion, and mental focus while helping you feel lighter after the slower winter months.

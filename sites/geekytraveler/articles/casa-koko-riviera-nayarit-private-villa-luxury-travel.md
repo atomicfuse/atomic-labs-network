@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Secluded tropical villa at dusk with an infinity pool, warm lights, palms, and
   ocean beyond.
+topics:
+  - Destination Guides
 ---
 ## The Rise of Private Villa Experiences
 

@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Travelers share a golden-hour courtyard gathering with local artisans and
   chefs in Spain or Portugal.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The New Face of Luxury Travel
 

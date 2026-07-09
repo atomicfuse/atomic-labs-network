@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Anonymous models pose in glamorous couture on a red carpet under paparazzi
   flashes.
+topics:
+  - Travel Tips
 ---
 
 ### Sabrina Carpenter

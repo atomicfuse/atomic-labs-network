@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Sunlit hands with colorful summer manicures in neutral, blue, green, pink,
   copper, and marigold shades.
+topics:
+  - Beauty Tips
 ---
 Summer 2026 is bringing a fresh palette of nail colors that promise to elevate your manicure game. According to expert recommendations from celebrity manicurists, six standout shades are dominating the season, offering everything from subtle sophistication to bold statement-making hues.
 

@@ -35,6 +35,8 @@ reading_time: 4
 image_alt: >-
   A glowing Venus is struck by a moon-sized body in a dramatic ancient
   collision.
+topics:
+  - Space & The Unknown
 ---
 Venus has always been the odd one out in our solar system. While most planets spin in a predictable direction, Venus rotates backward — and agonizingly slowly at that. Now, a new scientific model is offering a dramatic explanation: a high-velocity collision with a moon-sized impactor may have fundamentally rewritten Venus' rotational story billions of years ago.
 

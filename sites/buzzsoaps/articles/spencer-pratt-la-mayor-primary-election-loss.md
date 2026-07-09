@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium on a Los Angeles rooftop with blank ballots and fading
   spotlights at dusk.
+topics:
+  - Hot Takes
 ---
 ## Reality TV Meets Real Politics
 

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Cinematic spy silhouette between a game studio workspace and a polished
   publishing boardroom
+topics:
+  - Gaming News
+  - Console Games
 ---
 ## Amazon Sets the Record Straight on 007 Gaming Partnership
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Rows of rugged SUVs parked outdoors in a lot at dusk, with one vehicle
   isolated in the foreground.
+topics:
+  - News
 ---
 ## Major Safety Recall Affects Popular Jeep Models
 

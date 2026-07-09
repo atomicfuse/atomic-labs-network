@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Biscayne Bay at dawn with shallow water, seagrass, and a hazy Miami shoreline
   in the distance
+topics:
+  - Tech
 ---
 ## Critical Ecosystem Under Threat
 

@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Person practicing yoga in warm sunlight with a subtle glow around the upper
   body
+topics:
+  - Yoga Poses
 ---
 
 Boosting circulation throughout the body is integral to maintaining your health and well-being. It's especially important to ensure that your upper body, which encompasses critical organs like the heart and lungs, remains well-circulated. Yoga, a practice that brings together physical and mental disciplines, can be a powerful tool in enhancing circulation. Here are five yoga poses that can help stimulate and improve upper body circulation.

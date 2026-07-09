@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   A sheriff hat and audition pages sit under a spotlight between two shadowed
   figures.
+topics:
+  - TV & Movies
 ---
 ## The Original Vision for Hawkins' Chief
 

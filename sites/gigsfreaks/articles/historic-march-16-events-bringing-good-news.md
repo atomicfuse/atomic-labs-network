@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Vintage rocket, books, quill, and theater lights arranged in a warm historical
   still-life
+topics:
+  - Good Vibes
 ---
 
 Throughout history, the 16th of March has been a day marked by significant events and achievements. From groundbreaking scientific discoveries to cultural milestones, this date has seen moments that have shaped the course of various fields. Join us as we explore the noteworthy occurrences that have made March 16th an unforgettable date in history.

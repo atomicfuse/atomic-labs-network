@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Football supporters gather outside stadium turnstiles with blank placards at
   dusk.
+topics:
+  - Latest News
 ---
 
 Liverpool ticket prices have become one of the defining supporter issues at Anfield, and the club's latest shift shows how powerful fan pressure can be when it is organized, persistent, and clear. After criticism from supporter groups, Liverpool moved to adjust its pricing approach, opening a wider debate about affordability, loyalty, and the future of matchgoing culture in the Premier League.

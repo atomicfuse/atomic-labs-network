@@ -40,6 +40,8 @@ quality_note: >-
   Well-written destination guide with excellent keyword relevance and engaging
   tone, but significantly under the target word count at 383 words.
 image_alt: Festive Alabama garden path glowing with holiday lights at twilight
+topics:
+  - Destinations
 ---
 
 Alabama, known for its vibrant culture and rich history, becomes a magical wonderland during the holiday season. The state offers a variety of attractions that captivate both locals and visitors alike. Recently, USA Today recognized three exceptional holiday destinations in Alabama that promise unforgettable experiences.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Travel planning essentials arranged on a bright desk with savings, phone,
   journal, and toy airplane.
+topics:
+  - Culture
 ---
 
 Planning a vacation can be an exciting yet daunting task, especially when it comes to managing your travel budget. With the right strategies, you can ensure your trip is both enjoyable and financially savvy. Starting early and being methodical in your approach can make all the difference in achieving the vacation of your dreams without breaking the bank.

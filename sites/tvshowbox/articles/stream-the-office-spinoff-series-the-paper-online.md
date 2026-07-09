@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Quirky small-town newspaper office with messy desks and warm cinematic
   lighting
+topics:
+  - TV News
 ---
 
 Fans of engaging workplace comedies have a new series to look forward to: "The Paper." This exciting spin-off of the beloved show "The Office" promises to capture the quirky charm and humor that made its predecessor a cultural phenomenon. With new characters, fresh storylines, and a familiar setting, "The Paper" is set to become a must-watch for TV enthusiasts.

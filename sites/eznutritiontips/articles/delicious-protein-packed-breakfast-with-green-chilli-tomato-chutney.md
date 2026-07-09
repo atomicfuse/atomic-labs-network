@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Protein-rich breakfast plate with green chilli tomato chutney in bright
   morning light
+topics:
+  - Healthy Recipes
+  - Special Diets
 ---
 
 Starting your day with a nutritious breakfast sets the tone for a productive day ahead. If you're looking for a quick, protein-rich option, this steamed breakfast recipe paired with a flavorful green chilli tomato chutney is perfect for you.

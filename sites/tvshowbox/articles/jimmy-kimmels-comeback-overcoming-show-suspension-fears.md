@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   A late-night talk show stage lit by a warm spotlight as blurred audience
   members applaud.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Jimmy Kimmel, a distinguished figure in late-night television, recently revealed that he contemplated stepping away from his hosting duties. His decision-making process was influenced by a significant writers' strike, which had a profound impact on the entertainment industry. This revelation comes as Kimmel gears up for another exciting season of his show, "Jimmy Kimmel Live!"

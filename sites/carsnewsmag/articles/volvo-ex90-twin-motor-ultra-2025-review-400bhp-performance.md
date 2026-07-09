@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Sleek luxury electric SUV on a misty coastal road at dawn with a premium
   futuristic feel
+topics:
+  - Electric Cars
+  - Reviews
+  - Industry
 ---
 
 The automotive world is abuzz with excitement as Volvo unveils the EX90, its latest electric offering that promises to redefine the luxury SUV segment. With its cutting-edge technology and sustainable engineering, the EX90 sets a new benchmark for electric vehicles. This article delves into the features, performance, and innovations that make the Volvo EX90 a standout choice for eco-conscious drivers.

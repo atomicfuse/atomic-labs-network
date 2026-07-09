@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Rain falls on a futuristic coated city facade with subtle energy and cooling
   effects.
+topics:
+  - Gadgets
 ---
 ## Revolutionary Building Technology Tackles Urban Energy Challenges
 

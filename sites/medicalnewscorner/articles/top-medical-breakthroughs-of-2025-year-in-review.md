@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Clinicians gather around a glowing abstract human form symbolizing medical
   breakthroughs.
+topics:
+  - Research
 ---
 
 The year 2025 marked a significant era in the realm of medical advancements, ushering in groundbreaking technologies and therapies that have profoundly impacted patient care. From innovative treatments in oncology to revolutionary developments in organ transplantation, the medical community witnessed remarkable achievements that have set new standards in healthcare.

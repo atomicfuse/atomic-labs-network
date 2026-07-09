@@ -34,6 +34,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
+  - Destinations
 image_alt: >-
   Luxury yacht sailing through calm Caribbean waters near green island hills at
   golden hour

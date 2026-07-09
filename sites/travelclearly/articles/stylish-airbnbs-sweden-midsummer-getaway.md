@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Stylish Swedish waterfront cottage with Midsummer flowers, Nordic decor, and
   golden summer light
+topics:
+  - Destinations
 ---
 ## Experience Swedish Summer in Style
 

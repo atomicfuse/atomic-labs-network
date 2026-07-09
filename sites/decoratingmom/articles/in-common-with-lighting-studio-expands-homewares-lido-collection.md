@@ -34,6 +34,8 @@ quality_note: >-
   engaging, actionable advice expected for the target audience.
 reading_time: 3
 image_alt: Handblown glassware and a sculptural lamp on a warm contemporary dining table
+topics:
+  - Interior Design
 ---
 ## From Lighting to Lifestyle: A Strategic Expansion
 

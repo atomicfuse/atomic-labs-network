@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Senior gray poodle waits on a quiet café patio as an animal care officer
   approaches at dawn.
+topics:
+  - Pet Care & Health
 ---
 ## A Night of Waiting Ends in Reunion
 

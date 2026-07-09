@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Four glowing vintage TVs in a moody living room suggest the return of beloved
   classic shows.
+topics:
+  - TV News
 ---
 
 Television fans have much to look forward to in January 2026, as several iconic shows are set to make a comeback. The return of these beloved series promises to bring nostalgia mixed with fresh content, captivating both long-time followers and new audiences alike. This resurgence of classic TV favorites is a testament to their enduring appeal and cultural significance.

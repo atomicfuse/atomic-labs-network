@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Traveler overlooking a glowing Greater Bay Area skyline with cultural details
   at golden hour
+topics:
+  - Travel Tips
 ---
 
 Exploring China's Greater Bay Area offers a unique blend of cultural heritage, modern marvels, and diverse experiences, making it a must-visit destination for travelers. Comprising major cities such as Hong Kong, Macao, Guangzhou, and Shenzhen, this region is a powerhouse of economic growth and development. With its rapid growth and cultural significance, understanding the essentials of traveling within the Greater Bay Area can enhance your journey.

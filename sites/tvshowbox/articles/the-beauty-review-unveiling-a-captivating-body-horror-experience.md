@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   A glamorous vanity mirror cracks as beauty objects take on an unsettling body
   horror atmosphere.
+topics:
+  - TV News
 ---
 
 In a groundbreaking move, Ryan Murphy delves into the realm of body horror with his latest creation, "The Beauty." This daring series premiered on Disney+, showcasing Murphy's signature flair for the dramatic and the macabre. Known for pushing boundaries, Murphy's new show explores the depths of societal beauty standards through a lens that is both chilling and thought-provoking.

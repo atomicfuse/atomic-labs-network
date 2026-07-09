@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Midlife woman in soft sunlight with heart-health tools nearby, suggesting
   preventive wellness.
+topics:
+  - Health News
 ---
 
 Perimenopause is often discussed as a time of hot flashes, irregular periods, and restless nights. Yet this transition also offers a powerful chance to protect long-term heart health. As estrogen levels shift, blood pressure, cholesterol, body composition, and blood sugar control can change quickly. Acting during these years may help lower cardiovascular disease risk before problems become harder to reverse.

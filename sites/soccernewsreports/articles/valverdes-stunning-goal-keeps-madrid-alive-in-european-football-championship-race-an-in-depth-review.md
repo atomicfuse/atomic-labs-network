@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Soccer midfielder strikes a powerful shot under stadium lights during a tense
   night match
+topics:
+  - Latest News
 ---
 
 As the European soccer season gathers momentum, the weekend was filled with high-octane action from the Premier League, LaLiga, and Bundesliga. Let's take a closer look at the highlights and analysis of the most exciting matches.

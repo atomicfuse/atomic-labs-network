@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Traveler resting in a softly lit hotel room after a long flight, with sleep
   and travel cues nearby
+topics:
+  - Culture
 ---
 
 Jet lag is a common challenge for travelers crossing multiple time zones. It disrupts the body's internal clock, causing fatigue and sleep disturbances. Many seek effective remedies to minimize these effects. Among the potential solutions, melatonin, a hormone that regulates sleep, often emerges as a promising option.

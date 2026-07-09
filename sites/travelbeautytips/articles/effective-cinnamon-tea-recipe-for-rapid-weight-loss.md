@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Warm cinnamon tea with cinnamon sticks, lemon, and mint on a sunlit kitchen
   counter
+topics:
+  - Travel Tips
 ---
 
 Cinnamon tea has gained popularity as a natural remedy for weight loss due to its metabolism-boosting properties. This simple yet effective beverage can be a significant aid in your weight loss journey. In this article, we will guide you through making cinnamon tea using readily available ingredients from your kitchen.

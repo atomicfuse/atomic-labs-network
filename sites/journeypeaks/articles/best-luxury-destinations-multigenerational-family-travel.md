@@ -34,6 +34,10 @@ reading_time: 2
 image_alt: >-
   Multigenerational family relaxing on a luxury terrace overlooking a serene
   coastal landscape
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Growing Trend in Luxury Family Travel
 

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Auto workers stand near vehicle parts with the White House blurred in the
   background.
+topics:
+  - News
 ---
 ## Metro Detroit Auto Workers Present at Presidential Tariff Announcement
 

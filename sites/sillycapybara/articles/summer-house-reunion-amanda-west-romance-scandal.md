@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Tense luxury reunion set with empty chair, spotlights, and cast members seated
   in silence
+topics:
+  - Viral
 ---
 ## Major Scandal Takes Center Stage
 

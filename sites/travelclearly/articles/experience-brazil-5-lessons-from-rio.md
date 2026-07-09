@@ -41,6 +41,10 @@ quality_note: >-
 image_alt: >-
   Sunlit Rio street with colorful buildings, tropical greenery, and distant
   mountains at golden hour
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 During our event-filled travel in Brazil, we learned a few hard lessons from the lively streets of Rio. We experienced the local culture like never before and took in everything that Brazil had to offer. Here alongside is a video that gives a glimpse into our exciting adventure in Brazil.

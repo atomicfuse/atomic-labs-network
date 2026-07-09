@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Red-clad footballer stands in a rainy stadium facing a misty goal under
   intense floodlights.
+topics:
+  - Latest News
 ---
 
 Liverpool has experienced a rollercoaster ride in the Premier League, facing both challenges and triumphs. As the team navigates through a season of ups and downs, they remain focused on reclaiming their status as title contenders. The journey is marked by strategic adjustments, player performances, and the ever-present rivalry with Manchester City.

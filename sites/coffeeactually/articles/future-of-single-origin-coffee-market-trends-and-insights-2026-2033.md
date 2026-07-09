@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Premium pour-over coffee setup with beans, natural origin markers, and warm
   sustainable styling
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 The global market for single-origin coffee is experiencing significant growth as consumers increasingly seek out unique and high-quality coffee experiences. This demand is driven by a desire for distinct flavors and the traceability of coffee beans to their specific origins. Single-origin coffee, known for its purity and flavor profile, is gaining popularity among coffee enthusiasts and connoisseurs worldwide.

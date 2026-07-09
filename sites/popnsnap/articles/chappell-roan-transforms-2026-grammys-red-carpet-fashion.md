@@ -32,6 +32,10 @@ seo:
 image_alt: >-
   Avant-garde red carpet fashion blends vintage glamour with futuristic
   sculptural style.
+topics:
+  - Celebrities
+  - Fashion
+  - Music
 ---
 
 The fashion world buzzed with excitement as the 2026 Grammy Awards showcased a stunning red carpet filled with unexpected styles and daring ensembles. Among the standout stars was Chappell Roan, who captivated audiences with an innovative approach to fashion, challenging traditional norms and setting new trends.

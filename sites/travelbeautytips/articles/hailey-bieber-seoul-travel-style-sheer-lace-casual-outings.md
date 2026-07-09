@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in sheer black lace and trousers stands in a neon-lit Seoul
   convenience store aisle.
+topics:
+  - Lifestyle
 ---
 ## Celebrity Off-Duty Style Takes Center Stage
 

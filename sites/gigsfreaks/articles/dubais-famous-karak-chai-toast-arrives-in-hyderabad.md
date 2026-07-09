@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Steaming karak chai with crisp toast on a stylish café table with warm
   fusion-inspired decor
+topics:
+  - Hot Trends
 ---
 
 In recent times, Hyderabad has become a melting pot of diverse culinary delights, embracing flavors from around the world. Among the latest additions to this vibrant scene is Dubai's beloved Karak Chai Toast. This delightful combination has captured the hearts and taste buds of many, making waves across the city with its unique blend of tastes.

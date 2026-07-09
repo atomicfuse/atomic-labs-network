@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Caregiver and child calmly preparing colorful foods together in a sunlit
   kitchen
+topics:
+  - Kids
 ---
 
 Talking with children about food can shape how they eat, how they feel about their bodies, and how they make choices for years to come. The goal is not to create perfect eaters. It is to build confidence, curiosity, and a healthy relationship with meals, snacks, hunger, fullness, and enjoyment.

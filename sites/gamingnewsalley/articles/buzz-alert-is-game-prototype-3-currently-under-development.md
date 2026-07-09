@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Hooded figure on a rainy rooftop above a neon city with red bio-organic energy
   swirling nearby
+topics:
+  - Gaming News
 ---
 
 Exciting developments in the gaming world are afoot as the possibility of a new Prototype game emerges. This potential new entry in the popular game series has sent waves of anticipation through the gaming community.

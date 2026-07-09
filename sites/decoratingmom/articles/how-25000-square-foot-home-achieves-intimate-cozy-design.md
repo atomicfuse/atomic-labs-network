@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Warm luxury kitchen and living space with layered textures, cozy seating, and
   natural light.
+topics:
+  - Decor Ideas
+  - Interior Design
 ---
 ## Making Large Spaces Feel Intimate
 

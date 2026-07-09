@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   A performer in a makeup studio reflected as an unrecognizable transformed
   character
+topics:
+  - Culture Buzz
 ---
 ## The Art of Celebrity Transformation
 

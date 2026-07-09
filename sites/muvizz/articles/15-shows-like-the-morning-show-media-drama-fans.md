@@ -32,6 +32,8 @@ quality_note: >-
   and lacks the detailed show recommendations promised in the title.
 reading_time: 2
 image_alt: Empty newsroom desk under moody studio lights with offices looming behind it
+topics:
+  - TV Shows
 ---
 ## Finding Your Next Binge After The Morning Show
 

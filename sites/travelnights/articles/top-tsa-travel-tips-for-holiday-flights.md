@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Holiday traveler calmly preparing carry-on items for airport security
   screening
+topics:
+  - Culture
 ---
 
 As the holiday season approaches, many travelers are preparing to fly and visit loved ones. Navigating airport security efficiently can help ensure a smooth journey. Understanding the latest guidelines and recommendations can make your trip less stressful and more enjoyable.

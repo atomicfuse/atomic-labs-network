@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Confident woman in activewear stands in a calm fitness studio with natural,
   relaxed posture.
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## Understanding Hip Dips: The Science Behind Natural Body Curves
 

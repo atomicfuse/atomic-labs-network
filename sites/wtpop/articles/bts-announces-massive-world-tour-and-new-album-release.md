@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Seven silhouettes on a glowing stadium stage as a massive crowd holds lights
   in anticipation.
+topics:
+  - Celebrities
+  - Music
 ---
 
 The global music scene is abuzz with anticipation as BTS, the renowned South Korean boy band, is set to make a significant return. With a new album and potential tour on the horizon, fans worldwide are eagerly awaiting what the group has in store for 2026. Known for their record-breaking achievements and influential music, BTS continues to captivate audiences across the globe.

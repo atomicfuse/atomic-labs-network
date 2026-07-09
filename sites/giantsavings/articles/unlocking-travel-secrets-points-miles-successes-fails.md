@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Budgeting
+  - Grocery Savings
 image_alt: >-
   Travel rewards planning scene with passport, coins, and city skyline in warm
   evening light

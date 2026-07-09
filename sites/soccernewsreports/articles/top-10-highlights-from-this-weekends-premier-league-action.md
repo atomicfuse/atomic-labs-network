@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Football players scramble near goal under stadium floodlights as fans react in
   the stands.
+topics:
+  - Latest News
 ---
 
 Football enthusiasts were treated to an exhilarating weekend as the Premier League delivered a series of captivating matches that left fans buzzing. From stunning goals to unexpected upsets, each game had unique narratives that would shape the ongoing season. Let's dive into the standout moments and key takeaways from this action-packed weekend.

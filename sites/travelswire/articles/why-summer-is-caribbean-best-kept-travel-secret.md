@@ -1,9 +1,12 @@
 ---
 title: Why Summer Is the Caribbean's Best-Kept Travel Secret
-description: "Despite common misconceptions about hurricane season, smart travelers are discovering the Caribbean's summer advantages: fewer crowds, lower prices, and..."
+description: >-
+  Despite common misconceptions about hurricane season, smart travelers are
+  discovering the Caribbean's summer advantages: fewer crowds, lower prices,
+  and...
 type: standard
 status: published
-publishDate: 2026-06-05
+publishDate: 2026-06-05T00:00:00.000Z
 author: Sarah Rivera
 tags:
   - Destination Guides
@@ -13,7 +16,7 @@ tags:
   - travel timing
 slug: why-summer-is-caribbean-best-kept-travel-secret
 reviewer_notes: Approved via review queue.
-source_url: https://www.afar.com/magazine/why-you-should-visit-the-caribbean-in-the-summer
+source_url: 'https://www.afar.com/magazine/why-you-should-visit-the-caribbean-in-the-summer'
 source_item_id: 6a2087c2ad9a1dd21ebb66c8
 generated_by: claude
 featuredImage: /assets/images/why-summer-is-caribbean-best-kept-travel-secret.webp
@@ -24,9 +27,14 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 75
   keyword_relevance: 92
-quality_note: Strong travel content with excellent topic relevance and engaging tone, but falls significantly short of target word count and contains some unsupported statistical claims.
+quality_note: >-
+  Strong travel content with excellent topic relevance and engaging tone, but
+  falls significantly short of target word count and contains some unsupported
+  statistical claims.
 reading_time: 3
 image_alt: Colorful boat floating in clear Caribbean shallows beneath a bright summer sky
+topics:
+  - Destination Guides
 ---
 ## The Caribbean's Summer Travel Revolution
 

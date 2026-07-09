@@ -1,24 +1,35 @@
 ---
 title: Duo Haus Combines Pilates and Strength Training in South Carolina
-description: Duo Haus brings Pilates and strength training together in San Clemente, offering a boutique fitness experience focused on balance, mobility, muscle tone, and sustainable wellness.
+description: >-
+  Duo Haus brings Pilates and strength training together in San Clemente,
+  offering a boutique fitness experience focused on balance, mobility, muscle
+  tone, and sustainable wellness.
 type: standard
 status: published
-publishDate: 2026-05-21T08:42:01+00:00
+publishDate: 2026-05-21T08:42:01.000Z
 author: Taylor Winters
 tags:
   - Yoga Poses
   - Lifestyle
 slug: duo-haus-combines-pilates-and-strength-training-in-south-carolina
 reading_time: 7
-source_url: https://yogaterritory.com/duo-haus-combines-pilates-and-strength-training-in-south-carolina/
+source_url: >-
+  https://yogaterritory.com/duo-haus-combines-pilates-and-strength-training-in-south-carolina/
 imported_from: wordpress
 wp_original_id: 20765
-featuredImage: /assets/images/duo-haus-combines-pilates-and-strength-training-in-south-carolina.webp
+featuredImage: >-
+  /assets/images/duo-haus-combines-pilates-and-strength-training-in-south-carolina.webp
 seo:
-  canonical: https://yogaterritory.com/duo-haus-combines-pilates-and-strength-training-in-south-carolina/
-  og_title: Duo Haus Combines Pilates and Strength Training in South Carolina - Yoga Territory
-  og_description: Duo Haus brings Pilates and strength training together in San Clemente, offering a boutique fitness experience focused on balance, mobility, muscle tone, and sustainable wellness.
-  og_image: http://yogaterritory.com/wp-content/uploads/2026/05/make_file-3.jpeg
+  canonical: >-
+    https://yogaterritory.com/duo-haus-combines-pilates-and-strength-training-in-south-carolina/
+  og_title: >-
+    Duo Haus Combines Pilates and Strength Training in South Carolina - Yoga
+    Territory
+  og_description: >-
+    Duo Haus brings Pilates and strength training together in San Clemente,
+    offering a boutique fitness experience focused on balance, mobility, muscle
+    tone, and sustainable wellness.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/05/make_file-3.jpeg'
   twitter_card: summary_large_image
 quality_score: 54
 score_breakdown:
@@ -27,9 +38,16 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 60
   keyword_relevance: 15
-quality_note: Article is well-written about fitness but completely misaligned with yogaterritory's yoga/wellness focus and contains geographic inconsistencies between title and content.
-image_alt: Serene boutique fitness studio with Pilates equipment, mats, and dumbbells in warm natural light
+quality_note: >-
+  Article is well-written about fitness but completely misaligned with
+  yogaterritory's yoga/wellness focus and contains geographic inconsistencies
+  between title and content.
+image_alt: >-
+  Serene boutique fitness studio with Pilates equipment, mats, and dumbbells in
+  warm natural light
 reviewer_notes: Approved via review queue.
+topics:
+  - Yoga Poses
 ---
 
 San Clemente has a new destination for fitness lovers who want more than a standard workout. Duo Haus brings together the precision of Pilates and the power of strength training, creating a boutique studio experience built for mobility, muscle tone, and long-term wellness.

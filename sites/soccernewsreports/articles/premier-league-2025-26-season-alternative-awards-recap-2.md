@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Anonymous football figures in a dramatic stadium scene symbolizing season-end
   awards and debate.
+topics:
+  - Transfers
+  - Analysis
 ---
 ## Season Review Through Alternative Lens
 

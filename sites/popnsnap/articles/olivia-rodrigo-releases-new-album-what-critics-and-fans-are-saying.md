@@ -1,9 +1,12 @@
 ---
-title: "Olivia Rodrigo Releases New Album: What Are Critics and Fans Saying?"
-description: A full look at Olivia Rodrigo's new album you seem pretty sad for a girl so in love, covering what critics and fans are saying about its sound, lyrics, emotional themes, standout songs, and place in her career.
+title: 'Olivia Rodrigo Releases New Album: What Are Critics and Fans Saying?'
+description: >-
+  A full look at Olivia Rodrigo's new album you seem pretty sad for a girl so in
+  love, covering what critics and fans are saying about its sound, lyrics,
+  emotional themes, standout songs, and place in her career.
 type: standard
 status: published
-publishDate: 2026-06-22
+publishDate: 2026-06-22T00:00:00.000Z
 author: Sam Gray
 tags:
   - Music
@@ -12,11 +15,15 @@ tags:
   - Album Reviews
   - Celebrity News
 slug: olivia-rodrigo-releases-new-album-what-critics-and-fans-are-saying
-reviewer_notes: Article offers a balanced overview of critic and fan responses to Olivia Rodrigo's new album, using multiple source perspectives to cover the album's themes, sound, lyrical debate, standout tracks, and overall reception.
-source_url: ""
+reviewer_notes: >-
+  Article offers a balanced overview of critic and fan responses to Olivia
+  Rodrigo's new album, using multiple source perspectives to cover the album's
+  themes, sound, lyrical debate, standout tracks, and overall reception.
+source_url: ''
 source_item_id: olivia-rodrigo-releases-new-album-what-critics-and-fans-are-saying
 generated_by: asaf
-featuredImage: /assets/images/olivia-rodrigo-releases-new-album-what-critics-and-fans-are-saying.webp
+featuredImage: >-
+  /assets/images/olivia-rodrigo-releases-new-album-what-critics-and-fans-are-saying.webp
 reading_time: 6
 quality_score: 84
 score_breakdown:
@@ -25,8 +32,14 @@ score_breakdown:
   content_length: 88
   factual_accuracy: 82
   keyword_relevance: 90
-quality_note: Article provides a clear, SEO-friendly entertainment news format with strong keyword relevance, good structure, and balanced critical context. The piece is based on available coverage and summarizes source claims without overstating certainty.
+quality_note: >-
+  Article provides a clear, SEO-friendly entertainment news format with strong
+  keyword relevance, good structure, and balanced critical context. The piece is
+  based on available coverage and summarizes source claims without overstating
+  certainty.
 image_alt: Olivia Rodrigo performing on stage under dramatic purple concert lights
+topics:
+  - Music
 ---
 
 ## Olivia Rodrigo's Third Album Is Already Dividing the Conversation In the Best Way

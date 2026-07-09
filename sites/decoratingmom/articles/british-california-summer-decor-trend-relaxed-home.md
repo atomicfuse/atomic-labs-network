@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Airy summer interior with cream tones, linen textures, garden doors, and
   relaxed British-California styling.
+topics:
+  - Decor Ideas
 ---
 ## A Fresh Take on Summer Home Styling
 

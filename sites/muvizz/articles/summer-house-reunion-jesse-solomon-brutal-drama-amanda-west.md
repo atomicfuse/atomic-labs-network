@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Empty reunion set with pastel couches, dramatic lights, and signs of tense
   emotional fallout.
+topics:
+  - TV Shows
 ---
 ## Jesse Solomon Previews Explosive Summer House Reunion
 

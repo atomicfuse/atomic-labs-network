@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   A glowing smartphone with frozen video tiles surrounded by blurred creator
   silhouettes and studio lights
+topics:
+  - Tech
 ---
 
 Over the past weekend, TikTok users experienced a significant disruption that affected their ability to view or upload content. Reports indicate that the platform's popular For You Page (FYP) faced issues, leaving users unable to engage with their favorite content. This outage not only stirred frustration among users but also highlighted the dependency on this social media giant for entertainment and engagement.

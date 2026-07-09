@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Black travelers and local hosts walk through a historic Afro-Brazilian
   neighborhood at golden hour.
+topics:
+  - Destination Guides
 ---
 ## Brazil Strengthens Commitment to Cultural Tourism
 

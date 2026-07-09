@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Rare late-1960s American sports coupe displayed under dramatic collector
   showroom lighting
+topics:
+  - News
 ---
 ## The Making of a Legend
 

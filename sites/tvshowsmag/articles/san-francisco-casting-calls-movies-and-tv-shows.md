@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Actors and film crew gather on a San Francisco street at golden hour with the
   bay in the distance.
+topics:
+  - TV News
 ---
 
 San Francisco, with its iconic landmarks and vibrant cultural backdrop, continues to be a popular filming destination for movies and TV shows. The city's unique charm and diverse settings offer filmmakers a dynamic palette to bring their stories to life. From bustling cityscapes to serene waterfronts, San Francisco is a treasure trove for directors and producers seeking that quintessential urban vibe.

@@ -1,9 +1,12 @@
 ---
 title: Miami Swim Week Expands Beyond Fashion with Luxury Wellness Event
-description: Bikini Pilates Club at The Gale Miami Hotel combines Pilates, swimwear, and beauty activations during Miami Swim Week, reflecting the event's evolution into...
+description: >-
+  Bikini Pilates Club at The Gale Miami Hotel combines Pilates, swimwear, and
+  beauty activations during Miami Swim Week, reflecting the event's evolution
+  into...
 type: standard
 status: published
-publishDate: 2026-05-29
+publishDate: 2026-05-29T00:00:00.000Z
 author: Lucas Price
 tags:
   - Wellness
@@ -13,7 +16,8 @@ tags:
   - lifestyle
 slug: miami-swim-week-wellness-pilates-event
 reviewer_notes: Approved via review queue.
-source_url: https://www.msn.com/en-us/health/strength/bikini-pilates-club-miami-swim-week-miami/ar-AA23KWed
+source_url: >-
+  https://www.msn.com/en-us/health/strength/bikini-pilates-club-miami-swim-week-miami/ar-AA23KWed
 source_item_id: 6a13fc9f16f23264031d7b87
 generated_by: claude
 featuredImage: /assets/images/miami-swim-week-wellness-pilates-event.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 60
   keyword_relevance: 15
-quality_note: Article covers Miami fashion events rather than yoga/wellness content, has weak SEO optimization, and doesn't align with the site's yoga-focused audience and keywords.
+quality_note: >-
+  Article covers Miami fashion events rather than yoga/wellness content, has
+  weak SEO optimization, and doesn't align with the site's yoga-focused audience
+  and keywords.
 reading_time: 3
-image_alt: Stylish women gather for a luxury poolside Pilates wellness event in Miami at golden hour.
+image_alt: >-
+  Stylish women gather for a luxury poolside Pilates wellness event in Miami at
+  golden hour.
+topics:
+  - Wellness
 ---
 ## Miami Swim Week Embraces Wellness Culture
 

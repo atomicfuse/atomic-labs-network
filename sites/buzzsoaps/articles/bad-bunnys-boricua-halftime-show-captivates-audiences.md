@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted performer on a stadium stage with vibrant Caribbean-inspired
   dancers and dramatic lights
+topics:
+  - Culture Buzz
 ---
 
 In recent years, Puerto Rican artist Bad Bunny has taken the music world by storm, captivating audiences with his dynamic performances and unique sound. His influence stretches beyond music, making significant cultural waves across the globe. As a modern icon, Bad Bunny's role in major events like the Super Bowl has become a topic of interest, reflecting broader cultural narratives and personal artistic expression.

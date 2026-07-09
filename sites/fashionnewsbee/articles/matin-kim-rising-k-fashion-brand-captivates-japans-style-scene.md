@@ -36,6 +36,8 @@ seo:
 image_alt: >-
   Stylish shopper beside a holographic fitting avatar in a modern digital
   fashion boutique
+topics:
+  - Fashion
 ---
 
 In recent years, the landscape of retail has seen dramatic shifts, driven by technological advancements and changing consumer behaviors. Now, a new innovation is poised to transform the industry once again. The introduction of AI-powered virtual fitting rooms is set to revolutionize how consumers shop for clothes online, blending convenience with a personalized shopping experience.

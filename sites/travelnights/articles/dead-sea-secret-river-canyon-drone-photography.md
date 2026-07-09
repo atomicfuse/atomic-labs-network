@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Aerial view of rust-colored brine channels cutting through pale salt crust in
   a remote desert canyon.
+topics:
+  - Destinations
 ---
 ## A Forbidden Desert Wonder
 

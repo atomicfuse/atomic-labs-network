@@ -37,6 +37,8 @@ quality_note: >-
   is significantly too short at 359 words and contains vague claims without
   specific sources or data.
 image_alt: Unbranded electric cars charging at a futuristic highway hub at dusk
+topics:
+  - Electric Cars
 ---
 ## Tesla Hits 325kW Charging Ceiling
 

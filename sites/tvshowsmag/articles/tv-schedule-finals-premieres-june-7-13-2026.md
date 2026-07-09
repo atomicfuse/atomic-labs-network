@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   A cinematic living room filled with glowing screens hinting at sports, awards,
   premieres, and finales.
+topics:
+  - TV News
+  - Streaming
 ---
 ## A Jam-Packed Week for Television Viewers
 

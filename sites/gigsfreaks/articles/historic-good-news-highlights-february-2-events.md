@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Dawn over wetlands with a groundhog silhouette and subtle archival map
   textures in the sky
+topics:
+  - Hot Trends
 ---
 
 Throughout history, February 2nd has been a day marked by significant events that have shaped cultures and lives around the world. This day resonates with both historical milestones and cultural celebrations, offering a rich tapestry of stories worth exploring.

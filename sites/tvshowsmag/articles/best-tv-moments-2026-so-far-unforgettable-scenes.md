@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Moody living room lit by floating cinematic panels suggesting romance,
   tension, and performance.
+topics:
+  - TV News
 ---
 ## The Scenes That Defined 2026 Television
 

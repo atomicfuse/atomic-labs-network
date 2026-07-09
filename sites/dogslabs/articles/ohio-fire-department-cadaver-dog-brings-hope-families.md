@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Labrador search dog and firefighter handler stand outside a fire station in
   warm dawn light.
+topics:
+  - Pet Care & Health
 ---
 ## Young Lab Takes on Life-Saving Mission
 

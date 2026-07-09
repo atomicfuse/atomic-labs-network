@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Parent and child share a calm, focused moment together on a sunlit living room
   rug.
+topics:
+  - Parenting
 ---
 ## Understanding the 10-10-10 Parenting Framework
 

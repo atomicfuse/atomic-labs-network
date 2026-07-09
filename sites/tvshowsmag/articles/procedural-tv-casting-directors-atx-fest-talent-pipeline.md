@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Emerging actors wait in a cinematic casting corridor leading toward bright TV
   studio lights.
+topics:
+  - TV News
 ---
 ## The Fast-Paced World of Procedural Casting
 

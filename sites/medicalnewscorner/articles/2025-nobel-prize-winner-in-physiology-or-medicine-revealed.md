@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Glowing DNA helix above a modern lab bench with researchers blurred in the
   background
+topics:
+  - Research
 ---
 
 The Nobel Prize in Physiology or Medicine for 2025 has recognized groundbreaking achievements in the field of genetic research, underscoring the profound impact these discoveries have on medical science and human health.

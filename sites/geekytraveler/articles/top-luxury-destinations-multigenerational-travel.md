@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Multigenerational family relaxing on a luxury terrace overlooking water and
   lush scenery at sunrise
+topics:
+  - Destination Guides
 ---
 ## The Rise of Multigenerational Luxury Travel
 

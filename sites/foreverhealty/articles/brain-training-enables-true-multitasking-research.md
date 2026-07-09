@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Calm person at a home desk surrounded by subtle neural light patterns and
   blurred everyday tasks.
+topics:
+  - Mind & Body Wellness
 ---
 ## Breakthrough Discovery Challenges Multitasking Myths
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Quiet Puglia courtyard with a trullo, olive trees, outdoor dining, and a pool
   in warm summer light.
+topics:
+  - Destination Guides
 ---
 ## A Slower Pace in Southern Italy
 

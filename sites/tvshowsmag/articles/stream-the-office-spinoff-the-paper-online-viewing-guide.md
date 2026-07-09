@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   TV glow lights a remote, stacked paper, and office supplies in a cozy
   streaming setup.
+topics:
+  - TV News
 ---
 
 The world of television continues to evolve, bringing fan-favorite characters back to the screen in exciting new ways. "The Office," a beloved series known for its quirky humor and memorable cast, is set to expand its universe with a highly anticipated spinoff series titled "The Paper." This new show aims to capture the hearts of fans both old and new by offering a fresh perspective on the beloved workplace comedy.

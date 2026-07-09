@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in tailored cream Bermuda shorts walking past an elegant stone
   townhouse entrance.
+topics:
+  - Fashion
 ---
 ## The 'Rich Mom' Summer Style Revolution
 

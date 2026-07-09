@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Travelers with luggage pause near a Caribbean arrival area as storm clouds
   gather beyond palm trees.
+topics:
+  - Destinations
+  - News
 ---
 
 The Caribbean is a favored destination for many travelers seeking sun, sand, and relaxation. However, recent updates to travel advisories have prompted tourists to reconsider their plans. The U.S. government has revised its travel guidance for the Bahamas, influencing travel decisions and raising safety awareness among potential visitors.

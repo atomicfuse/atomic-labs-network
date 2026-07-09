@@ -33,6 +33,8 @@ quality_note: >-
   being 'officially concluded' and Indiana Jones release details.
 reading_time: 3
 image_alt: Adventure gear in ancient ruins with branching paths to varied landscapes.
+topics:
+  - Gaming News
 ---
 ## The End of an Era Sparks New Adventures
 

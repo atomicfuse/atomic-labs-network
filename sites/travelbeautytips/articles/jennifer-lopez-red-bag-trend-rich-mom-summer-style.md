@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in summer neutrals carrying a bold structured red handbag
   outside a sunny café.
+topics:
+  - Lifestyle
 ---
 ## The Celebrity Moment That Launched a Trend
 

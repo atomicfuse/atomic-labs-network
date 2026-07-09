@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Diverse friends share a final golden-hour toast beside a wine table in an
   Oregon vineyard.
+topics:
+  - Nutrition
 ---
 ## A Historic Farewell in Wine Country
 

@@ -42,6 +42,11 @@ quality_note: >-
 image_alt: >-
   Travelers enjoy a sunny boardwalk with beach and red-rock scenery suggesting
   safe spring break options.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 
 Spring break offers the perfect opportunity for students and families to unwind and explore new places. However, safety is a crucial concern when selecting a travel destination. Fortunately, numerous spots provide the right mix of fun and security, ensuring a worry-free vacation.

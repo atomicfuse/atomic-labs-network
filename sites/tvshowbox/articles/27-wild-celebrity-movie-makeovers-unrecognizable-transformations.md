@@ -34,6 +34,8 @@ quality_note: >-
   heading structure.
 reading_time: 3
 image_alt: Actor at a vanity mirror half transformed by dramatic prosthetic movie makeup.
+topics:
+  - Celebrity News
 ---
 ## The Art of Disappearing Into a Role
 

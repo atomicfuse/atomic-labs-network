@@ -34,6 +34,8 @@ quality_note: >-
   optimization in headings.
 reading_time: 3
 image_alt: 'Child at a sunlit table with school supplies, a map, and a suitcase nearby.'
+topics:
+  - Parenting
 ---
 ## The Growing Trend of School-Year Family Travel
 

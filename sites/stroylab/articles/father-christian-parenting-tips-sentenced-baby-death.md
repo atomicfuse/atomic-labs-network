@@ -32,6 +32,8 @@ quality_note: >-
   lacks specific verifiable details.
 reading_time: 3
 image_alt: 'Empty nursery with a phone on a rocking chair, lit by soft window blinds.'
+topics:
+  - Dark History
 ---
 ## The Double Life Behind Christian Parenting Content
 

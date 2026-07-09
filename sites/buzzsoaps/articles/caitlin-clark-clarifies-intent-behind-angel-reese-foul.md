@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Two female basketball players collide during an intense professional game in a
   crowded arena.
+topics:
+  - Hot Takes
 ---
 
 The sports world is abuzz with discussions surrounding a recent incident involving Caitlin Clark and Angel Reese during a basketball game. An on-court play led to debates about sportsmanship and competition intensity, capturing the attention of fans and analysts alike. As the narrative unfolds, both players have shared their perspectives, shedding light on the dynamics of the game.

@@ -45,6 +45,10 @@ quality_note: >-
   Well-written article with good tone and factual content, but severely
   penalized for being only 308 words when 800-1200 is the target range.
 image_alt: Archaeologist silhouette near misty megaliths and ancient ruins at dawn
+topics:
+  - Conspiracies
+  - Dark History
+  - Mysteries
 ---
 
 Hugh Newman is a renowned author, explorer, and researcher who has dedicated over two decades to unraveling the secrets of megalithic sites worldwide. His passion for ancient mysteries has led him to investigate enigmatic structures and historical narratives that challenge conventional theories about human history.

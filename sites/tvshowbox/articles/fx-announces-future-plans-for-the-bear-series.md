@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Moody restaurant kitchen with steam and an open doorway suggesting tension and
   new beginnings
+topics:
+  - TV News
 ---
 
 The beloved television series set in the bustling city of Chicago, known for its culinary delights, has been confirmed to return for a third season. Fans eagerly await more drama and excitement from the show that has captured the essence of the Windy City's vibrant restaurant scene. With its engaging storyline and dynamic characters, viewers are in for another thrilling ride.

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Curvy people in bold modern outfits pose confidently in a bright fashion
   studio.
+topics:
+  - Travel Tips
 ---
 
 Sur les réseaux sociaux, les conseils mode pensés pour les silhouettes rondes prennent enfin la place qu'ils méritent. Des créatrices comme Rachel Windley Speckman rappellent une évidence trop longtemps ignorée : avoir un corps gros ne retire ni le style, ni le charme, ni le droit de se sentir désirable. Son approche séduit parce qu'elle ne cherche pas à camoufler les courbes à tout prix. Elle invite plutôt à comprendre les vêtements, à jouer avec les volumes et à s'habiller pour soi, sans attendre une validation extérieure.

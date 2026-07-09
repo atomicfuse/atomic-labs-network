@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Empty Senate hearing table with microphones and subtle medical policy objects
   in a formal chamber.
+topics:
+  - Health News
 ---
 
 [Robert F. Kennedy Jr.](https://www.cnbc.com/2024/11/19/rfk-jr-is-trump-pick-for-hhs-secretary-heres-what-he-could-do.html), President [Donald Trump](https://www.cnbc.com/donald-trump/)'s controversial pick to lead the Department of Health and Human Services, testified Wednesday before a crucial Senate panel, where he faced questions about past vaccine skepticism, his evolving views on abortion and grasp on sprawling federal health programs.

@@ -36,6 +36,9 @@ quality_note: >-
 image_alt: >-
   Abstract AI network divides a modern workspace, suggesting inequality and bias
   risks.
+topics:
+  - Space
+  - Technology
 ---
 
 The rapid advancement of artificial intelligence (AI) technologies is reshaping many aspects of modern life, leading to a wide range of debates about the future impact of these technologies. While fears about AI-induced mass unemployment are prevalent, some experts suggest that the real risks may lie elsewhere.

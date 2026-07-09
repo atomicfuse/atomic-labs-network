@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Vintage books, film reel, and tea in a warm mid-century room with women
   gathered softly in the background.
+topics:
+  - TV Shows
 ---
 ## Finding Your Next Comfort Watch After 'Call the Midwife'
 

@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Active adult in their 60s stepping upward in a bright wellness space with
   subtle healthy habit cues
+topics:
+  - Healthy Aging
+  - Mind & Body Wellness
 ---
 ## Understanding Aging Acceleration in Your 60s
 

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Cream swirling into coffee beside a foamy caramel drink with vanilla, oats,
   and warm café lighting.
+topics:
+  - Coffee News
 ---
 
 The coffee creamer and butterbeer market is experiencing remarkable growth, driven by evolving consumer preferences and innovative product offerings. As the demand for diverse and unique flavors increases, market players are focusing on enhancing their product lines to capture this expanding segment.

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Family hands planning a vacation around travel essentials on a bright sunlit
   table.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Planning a family vacation can be an exciting yet challenging endeavor, especially when trying to balance everyone's needs and preferences. With careful preparation and some strategic planning, you can ensure a smooth and enjoyable experience for all family members. Whether it's a weekend getaway or an extended holiday, these expert tips will help make your family trip memorable and stress-free.

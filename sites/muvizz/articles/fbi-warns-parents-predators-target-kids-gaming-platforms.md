@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Parent watches a child gaming at night as abstract chat shapes glow on the
   screen.
+topics:
+  - Breaking News
 ---
 ## Growing Threat in Gaming Spaces
 

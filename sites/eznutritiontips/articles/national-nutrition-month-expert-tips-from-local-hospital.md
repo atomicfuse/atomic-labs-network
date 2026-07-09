@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Dietitian discusses healthy food choices with a diverse family in a bright
   hospital counseling room.
+topics:
+  - Healthy Recipes
 ---
 
 March marks the arrival of National Nutrition Month, a time dedicated to emphasizing the importance of healthy eating habits for people of all ages. With the increasing prevalence of lifestyle-related diseases, adopting a balanced diet is more crucial than ever. Local healthcare providers are stepping up to offer guidance on how to incorporate nutritious choices into daily life.
