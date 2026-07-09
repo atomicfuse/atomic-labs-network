@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Ceramic neti pot with tulsi leaves in warm morning light, suggesting natural
   Ayurvedic respiratory wellness.
+topics:
+  - Space
 ---
 
 Ancient health practices offer fascinating insights into natural remedies that continue to benefit modern wellness. One such practice originating from India is the use of nasal rinsing, which has been shown to effectively combat colds and allergies. This ancient technique, known as Jala Neti, involves the use of a neti pot to cleanse the nasal passages, providing both relief and prevention of respiratory issues.

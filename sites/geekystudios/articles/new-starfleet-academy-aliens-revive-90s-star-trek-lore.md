@@ -1,24 +1,30 @@
 ---
-title: "New Starfleet Academy Aliens Revive ’90s Star Trek Lore"
-description: ""
-type: "standard"
+title: New Starfleet Academy Aliens Revive ’90s Star Trek Lore
+description: ''
+type: standard
 status: published
-publishDate: "2026-02-12T10:33:24+00:00"
-author: "Arthur Daly"
+publishDate: '2026-02-12T10:33:24+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "new-starfleet-academy-aliens-revive-90s-star-trek-lore"
+  - Pop Culture
+slug: new-starfleet-academy-aliens-revive-90s-star-trek-lore
 reading_time: 3
-source_url: "https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/
+imported_from: wordpress
 wp_original_id: 706
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/geekystudios-general-article.webp
 seo:
-  canonical: "https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/"
-  og_title: "New Starfleet Academy Aliens Revive '90s Star Trek Lore - Geeky Studios"
-  og_description: "The Marvel Cinematic Universe expands by introducing dynamic characters like Sentry, a superhero with immense power and a complex narrative. His arrival promises new storytelling possibilities, exploring themes of identity and inner conflict, enriching the MCU's narrative landscape."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/02/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/new-starfleet-academy-aliens-revive-90s-star-trek-lore/
+  og_title: New Starfleet Academy Aliens Revive '90s Star Trek Lore - Geeky Studios
+  og_description: >-
+    The Marvel Cinematic Universe expands by introducing dynamic characters like
+    Sentry, a superhero with immense power and a complex narrative. His arrival
+    promises new storytelling possibilities, exploring themes of identity and
+    inner conflict, enriching the MCU's narrative landscape.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/02/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 38
 score_breakdown:
   seo_quality: 25
@@ -26,7 +32,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 20
   keyword_relevance: 15
-quality_note: "The article has major issues: title is completely unrelated to content (Star Trek vs Marvel), contains potential inaccuracies about Sentry's MCU status, is too short, and fails to match the site's science focus."
+quality_note: >-
+  The article has major issues: title is completely unrelated to content (Star
+  Trek vs Marvel), contains potential inaccuracies about Sentry's MCU status, is
+  too short, and fails to match the site's science focus.
+topics:
+  - Pop Culture
 ---
 
 The Marvel Cinematic Universe (MCU) continues to expand its horizons with the introduction of new characters that promise to captivate audiences worldwide. As the MCU grows, it embraces both fresh faces and beloved figures from the comic world, creating a dynamic blend of narratives and personalities. One such character receiving much attention is Sentry, a superhero with a complex background and extraordinary abilities.

@@ -43,6 +43,10 @@ quality_note: >-
   match the generic yoga content, severely hurting SEO quality despite decent
   coverage of yoga topics.
 image_alt: Older man practicing gentle yoga at home in warm morning light.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Yoga is a time-tested practice that combines physical postures, breathing exercises, and mindfulness to promote overall well-being. Its popularity has surged worldwide as people seek holistic approaches to health and fitness. Practicing yoga stretches at home offers numerous benefits, including enhanced flexibility, reduced stress, and improved mental clarity. Whether you're a beginner or an experienced yogi, incorporating yoga into your daily routine can profoundly impact your health and quality of life.

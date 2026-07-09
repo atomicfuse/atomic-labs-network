@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   A glass of pale German white wine on slate with grapes and mineral stones in
   soft vineyard light.
+topics:
+  - Wine for beginners
 ---
 ## What Does Trocken Mean?
 

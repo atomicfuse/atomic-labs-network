@@ -1,24 +1,32 @@
 ---
-title: "Apple Removes ICEBlock App from App Store"
-description: "Apple's removal of the IceBlock app from the App Store has sparked debate about app review policies, highlighting the tension between innovation and regulation. This incident stresses the importance of adhering to guidelines for privacy and security."
-type: "standard"
+title: Apple Removes ICEBlock App from App Store
+description: >-
+  Apple's removal of the IceBlock app from the App Store has sparked debate
+  about app review policies, highlighting the tension between innovation and
+  regulation. This incident stresses the importance of adhering to guidelines
+  for privacy and security.
+type: standard
 status: published
-publishDate: "2025-10-03T06:13:22+00:00"
-author: "Arthur Daly"
+publishDate: '2025-10-03T06:13:22+00:00'
+author: Arthur Daly
 tags:
-  - "Tech"
-slug: "apple-removes-iceblock-app-from-app-store"
+  - Tech
+slug: apple-removes-iceblock-app-from-app-store
 reading_time: 3
-source_url: "https://geekystudios.com/apple-removes-iceblock-app-from-app-store/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/apple-removes-iceblock-app-from-app-store/'
+imported_from: wordpress
 wp_original_id: 645
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/geekystudios-general-article.webp
 seo:
-  canonical: "https://geekystudios.com/apple-removes-iceblock-app-from-app-store/"
-  og_title: "Apple Removes ICEBlock App from App Store - Geeky Studios"
-  og_description: "Apple's removal of the IceBlock app from the App Store has sparked debate about app review policies, highlighting the tension between innovation and regulation. This incident stresses the importance of adhering to guidelines for privacy and security."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://geekystudios.com/apple-removes-iceblock-app-from-app-store/'
+  og_title: Apple Removes ICEBlock App from App Store - Geeky Studios
+  og_description: >-
+    Apple's removal of the IceBlock app from the App Store has sparked debate
+    about app review policies, highlighting the tension between innovation and
+    regulation. This incident stresses the importance of adhering to guidelines
+    for privacy and security.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 90
-quality_note: "Well-written tech article with good tone and keyword relevance, but appears to discuss a fictional app incident and falls short of target word count."
+quality_note: >-
+  Well-written tech article with good tone and keyword relevance, but appears to
+  discuss a fictional app incident and falls short of target word count.
+topics:
+  - Tech
 ---
 
 In recent developments, Apple has made headlines by removing a popular app from its App Store, sparking discussions about its app review policies. The app in question, known as IceBlock, was reportedly pulled due to violations of Apple's guidelines. This event has stirred the tech community, raising questions about the balance between security measures and innovation.

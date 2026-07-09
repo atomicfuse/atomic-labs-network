@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Indian woman in a calm modern bathroom preparing for a mindful daily wellness
   routine
+topics:
+  - Mindfulness
+  - Wellness
 ---
 ## The Evolution of Women's Self-Care
 

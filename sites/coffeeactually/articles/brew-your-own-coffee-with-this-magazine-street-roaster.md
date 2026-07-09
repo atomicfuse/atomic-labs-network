@@ -43,6 +43,10 @@ quality_note: >-
   specific SEO optimization and could benefit from more concrete details about
   the roaster.
 image_alt: Hands brewing pour-over coffee at a warm New Orleans roastery workshop table
+topics:
+  - Coffee Beans
+  - Coffee Gear
+  - Brewing Guides
 ---
 
 In the heart of New Orleans, along the vibrant Magazine Street, a unique coffee experience awaits those eager to explore the art of brewing. Nestled among eclectic shops and eateries, a local coffee roaster offers enthusiasts a chance to delve into the rich world of coffee from a different perspective. This establishment doesn't just serve coffee; it encourages customers to become their own baristas by providing them with the knowledge and tools to brew quality coffee at home.

@@ -33,6 +33,8 @@ quality_note: >-
   Good topic coverage and tone but falls short on length and contains some
   questionable details about Outlander's timeline and character names.
 reading_time: 3
+topics:
+  - tv shows
 ---
 ## Making Sense of Outlander's Time-Jumping Narrative
 

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Three unbranded bourbon bottles with golf and oak accents in a refined studio
   setting
+topics:
+  - Nutrition Myths
 ---
 ## Premium Bourbon Meets Golf Culture
 

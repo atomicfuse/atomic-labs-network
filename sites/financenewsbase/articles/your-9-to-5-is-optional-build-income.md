@@ -1,9 +1,14 @@
 ---
-title: "Your 9-to-5 Is Optional: How to Build Income That Works For You (Not The Other Way Around)"
-description: Discover actionable strategies for achieving financial independence by mastering cash flow, building passive income streams, and adopting smart investing habits...
+title: >-
+  Your 9-to-5 Is Optional: How to Build Income That Works For You (Not The Other
+  Way Around)
+description: >-
+  Discover actionable strategies for achieving financial independence by
+  mastering cash flow, building passive income streams, and adopting smart
+  investing habits...
 type: standard
 status: published
-publishDate: 2025-11-22
+publishDate: 2025-11-22T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - personal finance tips
@@ -12,9 +17,9 @@ tags:
   - wealth building
   - money management
 slug: your-9-to-5-is-optional-build-income
-reviewer_notes: ""
-source_url: ""
-source_item_id: ""
+reviewer_notes: ''
+source_url: ''
+source_item_id: ''
 generated_by: claude
 featuredImage: /assets/images/your-9-to-5-is-optional-build-income.webp
 quality_score: 82
@@ -24,15 +29,22 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 90
   keyword_relevance: 85
-quality_note: Actionable and well-structured personal finance article. Tone is encouraging and fits the topic well. Could benefit from more specific examples or case studies to enhance reader engagement. Meets length and keyword requirements.
+quality_note: >-
+  Actionable and well-structured personal finance article. Tone is encouraging
+  and fits the topic well. Could benefit from more specific examples or case
+  studies to enhance reader engagement. Meets length and keyword requirements.
 reading_time: 4
 scripts:
   - id: 608508b3-d33b-4add-9e93-ecbed55cdc17
     name: ad3
     position: after-paragraph-2
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+    content: >-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js"
+      async></script>
+
       <div data-cg-ad="ad_3"></div>
+topics:
+  - Personal Finance
 ---
 
 ## Reimagining Work and Wealth in the Modern Economy

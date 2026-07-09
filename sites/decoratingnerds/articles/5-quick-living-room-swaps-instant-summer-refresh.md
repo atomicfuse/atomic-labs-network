@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Airy summer living room with pale linens, flatweave rug, fresh flowers, and
   soft daylight
+topics:
+  - Room Inspiration
+  - Decor Ideas
+  - Budget Decor
 ---
 ## Transform Your Living Room for Summer Without Moving Furniture
 

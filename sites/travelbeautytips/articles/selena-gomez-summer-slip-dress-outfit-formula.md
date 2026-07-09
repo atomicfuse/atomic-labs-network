@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Woman in an ivory slip dress, cropped cardigan, and woven flats stepping onto
   a sunny city street.
+topics:
+  - Lifestyle
+  - Destinations
 ---
 ## The Celebrity-Approved Summer Style Formula
 

@@ -47,6 +47,9 @@ quality_note: >-
   inaccuracies about a fictional 2025 Nobel Prize and is significantly under the
   target word count.
 image_alt: Luminous DNA helix in a modern lab with scientists blurred in the background
+topics:
+  - Research
+  - Wellness
 ---
 
 The Nobel Prize in Physiology or Medicine continues to highlight groundbreaking achievements in the medical field, recognizing individuals whose work has had a profound impact on human health and understanding. This prestigious award draws attention to discoveries that not only advance scientific knowledge but also improve lives worldwide.

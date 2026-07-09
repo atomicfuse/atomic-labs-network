@@ -33,6 +33,8 @@ quality_note: >-
   several factual inaccuracies about Outlander characters and plot points that
   undermine credibility.
 reading_time: 3
+topics:
+  - TV Shows
 ---
 ## Making Sense of Outlander's Time-Hopping Epic
 

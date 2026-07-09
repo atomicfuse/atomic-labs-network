@@ -29,6 +29,8 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-2.jpeg'
   twitter_card: summary_large_image
 image_alt: Hip-hop trio performs under colorful studio lights on a late-night style stage
+topics:
+  - Music
 ---
 
 De La Soul, the iconic hip-hop trio, recently graced the stage of a popular late-night talk show, offering a memorable performance that showcased tracks from their latest album. This appearance marks a significant moment for the group, renowned for their innovative contributions to the genre. Fans and new listeners alike were treated to a vibrant set, demonstrating the enduring appeal of their music.

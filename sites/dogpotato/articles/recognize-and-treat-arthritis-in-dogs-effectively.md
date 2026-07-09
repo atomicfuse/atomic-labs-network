@@ -31,6 +31,9 @@ quality_note: >-
   but lacks specific details and actionable information that would make it more
   valuable to dog owners seeking practical arthritis guidance.
 image_alt: 'Senior dog being gently supported by its owner in a warm, sunlit home setting'
+topics:
+  - Dogs
+  - Veterinary
 ---
 ## Understanding Canine Arthritis
 

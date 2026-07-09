@@ -1,24 +1,34 @@
 ---
-title: "US Tourist Sues Royal Albert Hall: Impact on UK Travel"
-description: "A US tourist's lawsuit against London's Royal Albert Hall over an accident raises questions about safety measures at major UK tourist destinations, highlighting the need for vigilance and periodic reviews to ensure visitor safety and protect international travelers."
-type: "standard"
-status: "published"
-publishDate: "2025-12-22T11:22:52+00:00"
-author: "Malcolm Anderson"
+title: 'US Tourist Sues Royal Albert Hall: Impact on UK Travel'
+description: >-
+  A US tourist's lawsuit against London's Royal Albert Hall over an accident
+  raises questions about safety measures at major UK tourist destinations,
+  highlighting the need for vigilance and periodic reviews to ensure visitor
+  safety and protect international travelers.
+type: standard
+status: published
+publishDate: '2025-12-22T11:22:52+00:00'
+author: Malcolm Anderson
 tags:
-  - "News"
-slug: "us-tourist-sues-royal-albert-hall-impact-on-uk-travel"
+  - News
+slug: us-tourist-sues-royal-albert-hall-impact-on-uk-travel
 reading_time: 4
-source_url: "https://travelnights.com/us-tourist-sues-royal-albert-hall-impact-on-uk-travel/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/us-tourist-sues-royal-albert-hall-impact-on-uk-travel/
+imported_from: wordpress
 wp_original_id: 36677
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/travelnights-general-article.webp
 seo:
-  canonical: "https://travelnights.com/us-tourist-sues-royal-albert-hall-impact-on-uk-travel/"
-  og_title: "US Tourist Sues Royal Albert Hall: Impact on UK Travel - Travel Nights"
-  og_description: "A US tourist's lawsuit against London's Royal Albert Hall over an accident raises questions about safety measures at major UK tourist destinations, highlighting the need for vigilance and periodic reviews to ensure visitor safety and protect international travelers."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-18.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/us-tourist-sues-royal-albert-hall-impact-on-uk-travel/
+  og_title: 'US Tourist Sues Royal Albert Hall: Impact on UK Travel - Travel Nights'
+  og_description: >-
+    A US tourist's lawsuit against London's Royal Albert Hall over an accident
+    raises questions about safety measures at major UK tourist destinations,
+    highlighting the need for vigilance and periodic reviews to ensure visitor
+    safety and protect international travelers.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-18.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +36,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 85
-quality_note: "Well-written travel news article with good tone and relevance, but falls short on length and lacks specific verifiable details about the lawsuit."
+quality_note: >-
+  Well-written travel news article with good tone and relevance, but falls short
+  on length and lacks specific verifiable details about the lawsuit.
+topics:
+  - News
 ---
 
 In a recent legal development, a US tourist has initiated a lawsuit against the renowned Royal Albert Hall in London due to an accident that occurred during her visit. This incident has raised questions about safety measures at major UK tourist destinations and their implications for international travelers.

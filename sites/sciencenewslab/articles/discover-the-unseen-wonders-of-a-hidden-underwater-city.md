@@ -38,6 +38,10 @@ quality_note: >-
 image_alt: >-
   Deep-sea mineral spires glow under a submersible’s lights in a mysterious
   underwater landscape.
+topics:
+  - Space
+  - Nature
+  - Environment
 ---
 
 Deep within the ocean's depths, scientists have unveiled a remarkable geological wonder that challenges previous conceptions of underwater landscapes. This newly discovered area, often described as a "lost city," offers a glimpse into the unique and diverse formations hidden beneath the sea. The site, with its towering structures and intricate ecosystems, is unlike anything encountered before, providing invaluable insights into the Earth's geological history.

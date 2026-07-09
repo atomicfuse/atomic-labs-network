@@ -1,25 +1,34 @@
 ---
-title: "Compose Coffee Introduces Tteokbokki to Menu: Here’s Why"
-description: "Compose Coffee diversifies its menu by adding tteokbokki, a popular Korean street food, aiming to attract a broader audience and enhance the dining experience by blending traditional flavors with a modern café vibe."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:15:42+00:00"
-author: "Taylor Winters"
+title: 'Compose Coffee Introduces Tteokbokki to Menu: Here’s Why'
+description: >-
+  Compose Coffee diversifies its menu by adding tteokbokki, a popular Korean
+  street food, aiming to attract a broader audience and enhance the dining
+  experience by blending traditional flavors with a modern café vibe.
+type: standard
+status: published
+publishDate: '2026-01-26T09:15:42+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "compose-coffee-introduces-tteokbokki-to-menu-heres-why"
+  - Coffee News
+  - News
+slug: compose-coffee-introduces-tteokbokki-to-menu-heres-why
 reading_time: 3
-source_url: "https://coffeeactually.com/compose-coffee-introduces-tteokbokki-to-menu-heres-why/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/compose-coffee-introduces-tteokbokki-to-menu-heres-why/
+imported_from: wordpress
 wp_original_id: 51389
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/compose-coffee-introduces-tteokbokki-to-menu-heres-why/"
-  og_title: "Compose Coffee Introduces Tteokbokki to Menu: Here's Why - Coffee Actually"
-  og_description: "Compose Coffee diversifies its menu by adding tteokbokki, a popular Korean street food, aiming to attract a broader audience and enhance the dining experience. This strategic move blends traditional flavors with a modern café vibe, offering a unique culinary experience."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/compose-coffee-introduces-tteokbokki-to-menu-heres-why/
+  og_title: 'Compose Coffee Introduces Tteokbokki to Menu: Here''s Why - Coffee Actually'
+  og_description: >-
+    Compose Coffee diversifies its menu by adding tteokbokki, a popular Korean
+    street food, aiming to attract a broader audience and enhance the dining
+    experience. This strategic move blends traditional flavors with a modern
+    café vibe, offering a unique culinary experience.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 65
@@ -27,7 +36,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written coffee news article with good tone and structure, but falls short of ideal word count and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written coffee news article with good tone and structure, but falls short
+  of ideal word count and could benefit from stronger SEO optimization in title
+  and meta description.
+topics:
+  - Coffee News
 ---
 
 In an innovative move that reflects the dynamic nature of the food and beverage industry, Compose Coffee has decided to diversify its offerings by adding tteokbokki to its menu. This strategic decision is poised to attract a broader audience and enhance the dining experience for its patrons, blending traditional Korean flavors with the café's contemporary vibe.

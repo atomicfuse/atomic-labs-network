@@ -1,26 +1,34 @@
 ---
-title: "Specialty Coffee Market Booms on Artisanal Consumer Demand"
-description: "Specialty coffee is becoming mainstream as consumers seek premium flavor, traceable sourcing, sustainable practices, and café-style experiences across retail, online subscriptions, ready-to-drink formats, and at-home brewing."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T08:16:08+00:00"
-author: "Taylor Winters"
+title: Specialty Coffee Market Booms on Artisanal Consumer Demand
+description: >-
+  Specialty coffee is becoming mainstream as consumers seek premium flavor,
+  traceable sourcing, sustainable practices, and café-style experiences across
+  retail, online subscriptions, ready-to-drink formats, and at-home brewing.
+type: standard
+status: published
+publishDate: '2026-05-04T08:16:08+00:00'
+author: Taylor Winters
 tags:
-  - "Beans"
-  - "Coffee Drinks"
-  - "News"
-slug: "specialty-coffee-market-booms-on-artisanal-consumer-demand"
+  - Beans
+  - Coffee Drinks
+  - News
+slug: specialty-coffee-market-booms-on-artisanal-consumer-demand
 reading_time: 7
-source_url: "https://coffeeactually.com/specialty-coffee-market-booms-on-artisanal-consumer-demand/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/specialty-coffee-market-booms-on-artisanal-consumer-demand/
+imported_from: wordpress
 wp_original_id: 51445
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/specialty-coffee-market-booms-on-artisanal-consumer-demand/"
-  og_title: "Specialty Coffee Market Booms on Artisanal Consumer Demand - Coffee Actually"
-  og_description: "Specialty coffee is becoming mainstream as consumers seek premium flavor, traceable sourcing, sustainable practices, and café-style experiences across retail, online subscriptions, ready-to-drink formats, and at-home brewing."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/05/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/specialty-coffee-market-booms-on-artisanal-consumer-demand/
+  og_title: Specialty Coffee Market Booms on Artisanal Consumer Demand - Coffee Actually
+  og_description: >-
+    Specialty coffee is becoming mainstream as consumers seek premium flavor,
+    traceable sourcing, sustainable practices, and café-style experiences across
+    retail, online subscriptions, ready-to-drink formats, and at-home brewing.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/05/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 92
 score_breakdown:
   seo_quality: 85
@@ -28,7 +36,15 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 92
-quality_note: "Well-structured coffee news article with strong industry analysis, proper tone for coffee enthusiasts, excellent length, and comprehensive coverage of specialty coffee market trends."
+quality_note: >-
+  Well-structured coffee news article with strong industry analysis, proper tone
+  for coffee enthusiasts, excellent length, and comprehensive coverage of
+  specialty coffee market trends.
+topics:
+  - Coffee News
+  - Coffee Beans
+  - Coffee Drinks
+  - Brewing Guides
 ---
 
 The specialty coffee market is expanding as consumers trade ordinary cups for better flavor, traceable sourcing, and café-style experiences at home. Premium beans, single-origin labels, cold brew, and ethical certifications are shaping demand across retail shelves, coffee shops, and online platforms.

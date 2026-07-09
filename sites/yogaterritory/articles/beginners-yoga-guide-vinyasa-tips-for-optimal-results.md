@@ -44,6 +44,10 @@ quality_note: >-
   requirements and could benefit from stronger SEO optimization including better
   keyword integration and meta description alignment.
 image_alt: Beginner practicing yoga in a calm sunlit studio with soft natural light
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Yoga is more than just a physical exercise; it's a holistic practice that nurtures both the body and mind. Regular engagement in yoga can lead to enhanced flexibility, improved mental clarity, and a strengthened body. Whether you're a seasoned yogi or a beginner, understanding the optimal frequency of practice can maximize these benefits.

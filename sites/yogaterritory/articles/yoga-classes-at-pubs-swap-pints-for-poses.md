@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Men practice yoga on mats in a warmly lit pub, blending community wellness
   with familiar social space.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 In the charming village of Trowse, a unique initiative is bringing a new dimension to local pub culture. The White Horse, a beloved local establishment, is now hosting yoga classes exclusively for men. This novel approach aims to break the stereotype that yoga is predominantly for women while also promoting mental and physical well-being among men in the community.

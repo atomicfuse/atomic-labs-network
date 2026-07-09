@@ -49,6 +49,11 @@ quality_note: >-
 image_alt: >-
   Sunlit travel essentials on a balcony overlooking a Mediterranean coast and
   historic European rooftops.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 
 Experience the charm of Europe's most sought-after destinations this summer with easyJet's latest travel packages. These specially crafted packages are designed to offer travelers a seamless blend of adventure, culture, and relaxation. Whether you're a history buff, a culinary enthusiast, or simply seeking sun-kissed beaches, there's a destination waiting for you.

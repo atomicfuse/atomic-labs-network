@@ -50,6 +50,10 @@ quality_note: >-
 image_alt: >-
   Stylish unbranded cocktail and fast-casual food spread on a lively city table
   at golden hour
+topics:
+  - Travel
+  - Travel Tips
+  - Food & Drink
 ---
 
 From tequila-infused fast food to pop culture-driven menu drops, food collaborations in 2025 are more than just marketing stunts—they're shaping the way we eat, drink, and experience food. Whether it's tapping into nostalgia, fueling FOMO, or redefining indulgence, these partnerships reveal a lot about what matters in food culture today.

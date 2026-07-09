@@ -36,6 +36,9 @@ reading_time: 2
 image_alt: >-
   Empty network conference room with glowing abstract ratings screens and
   scattered decision folders
+topics:
+  - TV & Movies
+  - Influencers
 ---
 ## Networks Face Critical Renewal Decisions as Season Nears End
 

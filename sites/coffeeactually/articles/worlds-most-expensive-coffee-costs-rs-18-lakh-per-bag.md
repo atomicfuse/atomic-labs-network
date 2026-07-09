@@ -1,25 +1,36 @@
 ---
-title: "World’s Most Expensive Coffee Costs Rs 18 Lakh per Bag"
-description: "Eugenioides coffee, originating from the highlands of East Africa, is gaining popularity among coffee enthusiasts for its naturally sweet flavor and low caffeine content. This rare and luxurious variety commands a premium price due to its limited cultivation and the meticulous processes involved in bringing it to market."
-type: "standard"
+title: World’s Most Expensive Coffee Costs Rs 18 Lakh per Bag
+description: >-
+  Eugenioides coffee, originating from the highlands of East Africa, is gaining
+  popularity among coffee enthusiasts for its naturally sweet flavor and low
+  caffeine content. This rare and luxurious variety commands a premium price due
+  to its limited cultivation and the meticulous processes involved in bringing
+  it to market.
+type: standard
 status: published
-publishDate: "2026-03-26T09:15:31+00:00"
-author: "Taylor Winters"
+publishDate: '2026-03-26T09:15:31+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beans"
-slug: "worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag"
+  - Coffee News
+  - Beans
+slug: worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag
 reading_time: 3
-source_url: "https://coffeeactually.com/worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag/
+imported_from: wordpress
 wp_original_id: 51427
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag/"
-  og_title: "World's Most Expensive Coffee Costs Rs 18 Lakh per Bag - Coffee Actually"
-  og_description: "Eugenioides coffee, originating from East Africa, is gaining popularity for its sweet flavor and low caffeine content. This rare variety is attracting coffee enthusiasts and commands a premium price due to its unique taste and limited availability."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/03/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/worlds-most-expensive-coffee-costs-rs-18-lakh-per-bag/
+  og_title: World's Most Expensive Coffee Costs Rs 18 Lakh per Bag - Coffee Actually
+  og_description: >-
+    Eugenioides coffee, originating from East Africa, is gaining popularity for
+    its sweet flavor and low caffeine content. This rare variety is attracting
+    coffee enthusiasts and commands a premium price due to its unique taste and
+    limited availability.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/03/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 55
 score_breakdown:
   seo_quality: 65
@@ -27,7 +38,13 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 20
   keyword_relevance: 75
-quality_note: "The article has good tone and keyword relevance but suffers from misleading title/pricing claims, significantly short content length, and potential factual inaccuracies about Eugenioides coffee."
+quality_note: >-
+  The article has good tone and keyword relevance but suffers from misleading
+  title/pricing claims, significantly short content length, and potential
+  factual inaccuracies about Eugenioides coffee.
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 In the world of coffee connoisseurs, a unique variety is garnering attention for its distinct flavor profile and low caffeine content. This remarkable bean, known as Eugenioides, is captivating enthusiasts with its sweet taste and is becoming a sought-after delicacy. Originating from the highlands of East Africa, this rare coffee is making waves in the global market.

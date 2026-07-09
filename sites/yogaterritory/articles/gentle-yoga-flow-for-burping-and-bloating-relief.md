@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Person practicing a gentle yoga twist in a calm sunlit room for digestive
   comfort
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Feeling bloated or struggling with trapped air in your chest or belly can be uncomfortable. Luckily, yoga offers a natural way to support digestion and encourage the release of trapped air. This 20-minute gentle yoga flow is perfect for those seeking relief from gas and bloating through mindful movement.

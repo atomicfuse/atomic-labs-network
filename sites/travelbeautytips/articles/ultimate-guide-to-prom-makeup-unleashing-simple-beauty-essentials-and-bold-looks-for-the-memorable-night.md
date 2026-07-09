@@ -52,6 +52,10 @@ quality_note: >-
 image_alt: >-
   Elegant prom makeup setup with a young woman applying eye makeup at a softly
   lit vanity
+topics:
+  - Travel Tips
+  - Beauty Tips
+  - Packing Guides
 ---
 
 Are you searching for the perfect prom makeup look? Whether you prefer a simple, understated style or a bold, dramatic statement, the right beauty essentials can help you achieve your desired look. Let's explore a variety of beauty must-haves to enhance your prom night allure.

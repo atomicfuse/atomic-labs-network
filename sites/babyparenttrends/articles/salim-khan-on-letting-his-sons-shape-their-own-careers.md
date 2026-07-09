@@ -1,27 +1,37 @@
 ---
-title: "Salim Khan on Letting His Sons Shape Their Own Careers"
-description: "Salim Khan's parenting philosophy blends traditional values with modern insights, emphasizing individuality, discipline, respect, family support, and open communication. His approach has inspired many, helping his sons pursue their passions and develop responsibility and independence."
-type: "standard"
-status: "published"
-publishDate: "2026-01-19T09:57:26+00:00"
-author: "Taylor Winters"
+title: Salim Khan on Letting His Sons Shape Their Own Careers
+description: >-
+  Salim Khan's parenting philosophy blends traditional values with modern
+  insights, emphasizing individuality, discipline, respect, family support, and
+  open communication. His approach has inspired many, helping his sons pursue
+  their passions and develop responsibility and independence.
+type: standard
+status: published
+publishDate: '2026-01-19T09:57:26+00:00'
+author: Taylor Winters
 tags:
-  - "Parenting"
-  - "Moms"
-  - "Nurture"
-  - "Parents"
-slug: "salim-khan-on-letting-his-sons-shape-their-own-careers"
+  - Parenting
+  - Moms
+  - Nurture
+  - Parents
+slug: salim-khan-on-letting-his-sons-shape-their-own-careers
 reading_time: 3
-source_url: "https://babyparenttrends.com/salim-khan-on-letting-his-sons-shape-their-own-careers/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/salim-khan-on-letting-his-sons-shape-their-own-careers/
+imported_from: wordpress
 wp_original_id: 17765
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/babyparenttrends-general-article.webp
 seo:
-  canonical: "https://babyparenttrends.com/salim-khan-on-letting-his-sons-shape-their-own-careers/"
-  og_title: "Salim Khan on Letting His Sons Shape Their Own Careers - Baby Parent Trends"
-  og_description: "Salim Khan's parenting philosophy blends traditional values with modern insights, emphasizing individuality, discipline, respect, family support, and open communication. His approach has inspired many, helping his sons pursue their passions and develop responsibility and independence."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/salim-khan-on-letting-his-sons-shape-their-own-careers/
+  og_title: Salim Khan on Letting His Sons Shape Their Own Careers - Baby Parent Trends
+  og_description: >-
+    Salim Khan's parenting philosophy blends traditional values with modern
+    insights, emphasizing individuality, discipline, respect, family support,
+    and open communication. His approach has inspired many, helping his sons
+    pursue their passions and develop responsibility and independence.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 82
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written parenting article with excellent topic relevance but falls short on length (489 words vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written parenting article with excellent topic relevance but falls short
+  on length (489 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization.
+topics:
+  - Parenting
 ---
 
 Salim Khan, a revered name in the Indian film industry, is not only known for his contributions to cinema but also for his unique approach to parenting. His insights on raising his three sons, Salman Khan, Arbaaz Khan, and Sohail Khan, reflect a blend of traditional values and modern understanding that many parents find inspiring. Salim Khan's perspective on parenting showcases the importance of nurturing individuality while instilling discipline and respect.

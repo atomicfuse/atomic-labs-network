@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Warm spotlight on a vintage jazz microphone in an intimate club with
   instruments and audience silhouettes.
+topics:
+  - Music
 ---
 
 Jazz enthusiasts in Evanston are in for a treat as acclaimed jazz vocalist Paul Marinaro celebrates the release of his latest album. Known for his rich voice and captivating performances, Marinaro is set to showcase his new music in a venue that promises an unforgettable evening for jazz lovers.

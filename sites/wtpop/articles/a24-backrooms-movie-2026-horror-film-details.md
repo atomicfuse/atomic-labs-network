@@ -1,9 +1,11 @@
 ---
-title: "A24's Backrooms Movie: Everything We Know About 2026's Horror Event"
-description: A24's Backrooms film adaptation arrives May 29, 2026, bringing viral YouTube horror to cinema with Kane Parsons directing and James Wan producing.
+title: 'A24''s Backrooms Movie: Everything We Know About 2026''s Horror Event'
+description: >-
+  A24's Backrooms film adaptation arrives May 29, 2026, bringing viral YouTube
+  horror to cinema with Kane Parsons directing and James Wan producing.
 type: standard
 status: published
-publishDate: 2026-05-24
+publishDate: 2026-05-24T00:00:00.000Z
 author: Rachel Long
 tags:
   - TV & Movies
@@ -12,8 +14,9 @@ tags:
   - Backrooms
   - Kane Parsons
 slug: a24-backrooms-movie-2026-horror-film-details
-reviewer_notes: ""
-source_url: https://editorial.rottentomatoes.com/article/everything-we-know-about-backrooms/
+reviewer_notes: ''
+source_url: >-
+  https://editorial.rottentomatoes.com/article/everything-we-know-about-backrooms/
 source_item_id: 6a0e834216f23264031d7963
 generated_by: claude
 featuredImage: /assets/images/a24-backrooms-movie-2026-horror-film-details.webp
@@ -24,8 +27,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: Strong entertainment focus and engaging tone, but falls short on length and contains some potentially fabricated production details that can't be verified.
+quality_note: >-
+  Strong entertainment focus and engaging tone, but falls short on length and
+  contains some potentially fabricated production details that can't be
+  verified.
 reading_time: 3
+topics:
+  - TV & Movies
+  - Influencers
 ---
 ## From Creepypasta to Cinema: The Backrooms Phenomenon
 

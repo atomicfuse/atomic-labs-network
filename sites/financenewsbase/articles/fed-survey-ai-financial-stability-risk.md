@@ -6,7 +6,7 @@ description: >-
   and...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -15,7 +15,7 @@ tags:
   - financial stability
   - systemic risk
 slug: fed-survey-ai-financial-stability-risk
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/fed-survey-shows-ai-concerns-rising-across-markets-credit-and-jobs/
 source_item_id: 6a008dbc2a0a294c696af850
@@ -33,6 +33,8 @@ quality_note: >-
   short at 656 words and contains some vague sourcing that raises minor factual
   accuracy concerns.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Fed Flags AI as Emerging Systemic Risk

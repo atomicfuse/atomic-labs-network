@@ -44,6 +44,8 @@ quality_note: >-
   and instead discusses generic geopolitics, making it irrelevant to the site's
   conspiracy/mystery focus and creating severe SEO issues.
 image_alt: A crown and sealed documents sit in shadow inside a dim palace corridor.
+topics:
+  - Deep Dives
 ---
 
 In the face of rising geopolitical tensions and ongoing conflicts, the modern world finds itself grappling with complex issues that demand attention and understanding. Nations are navigating through a landscape marked by economic and political challenges, where decisions can have far-reaching consequences on global stability and peace.

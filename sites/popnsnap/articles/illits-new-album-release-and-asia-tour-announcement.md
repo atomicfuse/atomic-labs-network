@@ -1,24 +1,34 @@
 ---
-title: "ILLIT&#8217;s New Album Release and Asia Tour Announcement"
-description: "K-pop group ILLIT is set to release their new album on April 30, marking an exciting chapter with fresh sounds and captivating performances. The band also plans a summer tour covering Japan and Hong Kong, engaging their global fanbase."
-type: "standard"
-status: "published"
-publishDate: "2026-03-16T10:33:26+00:00"
-author: "Taylor Anderson"
+title: ILLIT&#8217;s New Album Release and Asia Tour Announcement
+description: >-
+  K-pop group ILLIT is set to release their new album on April 30, marking an
+  exciting chapter with fresh sounds and captivating performances. The band also
+  plans a summer tour covering Japan and Hong Kong, engaging their global
+  fanbase.
+type: standard
+status: published
+publishDate: '2026-03-16T10:33:26+00:00'
+author: Taylor Anderson
 tags:
-  - "Music"
-slug: "illits-new-album-release-and-asia-tour-announcement"
+  - Music
+slug: illits-new-album-release-and-asia-tour-announcement
 reading_time: 3
-source_url: "https://popnsnap.com/illits-new-album-release-and-asia-tour-announcement/"
-imported_from: "wordpress"
+source_url: 'https://popnsnap.com/illits-new-album-release-and-asia-tour-announcement/'
+imported_from: wordpress
 wp_original_id: 741
-featuredImage: "/assets/images/popnsnap-general-article.webp"
+featuredImage: /assets/images/popnsnap-general-article.webp
 seo:
-  canonical: "https://popnsnap.com/illits-new-album-release-and-asia-tour-announcement/"
-  og_title: "ILLIT's New Album Release and Asia Tour Announcement - Pop N&#039; Snap"
-  og_description: "K-pop group ILLIT is set to release their new album on April 30, marking an exciting chapter with fresh sounds and captivating performances. The band also plans a summer tour covering Japan and Hong Kong, engaging their global fanbase."
-  og_image: "https://popnsnap.com/wp-content/uploads/2026/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://popnsnap.com/illits-new-album-release-and-asia-tour-announcement/'
+  og_title: ILLIT's New Album Release and Asia Tour Announcement - Pop N&#039; Snap
+  og_description: >-
+    K-pop group ILLIT is set to release their new album on April 30, marking an
+    exciting chapter with fresh sounds and captivating performances. The band
+    also plans a summer tour covering Japan and Hong Kong, engaging their global
+    fanbase.
+  og_image: 'https://popnsnap.com/wp-content/uploads/2026/03/make_file.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Music
 ---
 
 K-pop fans have reason to celebrate as ILLIT is gearing up for a significant milestone. The group is set to release their highly anticipated new album on April 30. This release marks an exciting chapter in their musical journey, promising fresh sounds and captivating performances that are sure to delight their global fanbase.

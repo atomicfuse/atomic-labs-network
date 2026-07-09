@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Cinematic El Paso skyline with film equipment and an empty casting chair at
   golden hour
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 El Paso, a vibrant city in Texas, is becoming a hotspot for film and television industry. The city is currently buzzing with casting calls for various upcoming projects. The entertainment industry is on the lookout for fresh faces, including both adults and children, to star in several movies and TV shows.

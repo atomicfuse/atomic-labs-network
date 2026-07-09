@@ -1,26 +1,37 @@
 ---
-title: "Eva Amurri Shares Texting Tips for Co-Parenting Success"
-description: "Eva Amurri discusses co-parenting with ex-husband Kyle Martino, focusing on maintaining a stable, loving environment for their children. She shares insights on creating summer schedules, adapting to children's evolving needs, and resolving conflicts through open communication and mutual respect."
-type: "standard"
-status: "published"
-publishDate: "2025-07-17T04:45:24+00:00"
-author: "Taylor Winters"
+title: Eva Amurri Shares Texting Tips for Co-Parenting Success
+description: >-
+  Eva Amurri discusses co-parenting with ex-husband Kyle Martino, focusing on
+  maintaining a stable, loving environment for their children. She shares
+  insights on creating summer schedules, adapting to children's evolving needs,
+  and resolving conflicts through open communication and mutual respect.
+type: standard
+status: published
+publishDate: '2025-07-17T04:45:24+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "Moms"
-  - "Parents"
-slug: "eva-amurri-shares-texting-tips-for-co-parenting-success"
+  - Kids
+  - Moms
+  - Parents
+slug: eva-amurri-shares-texting-tips-for-co-parenting-success
 reading_time: 3
-source_url: "https://babyparenttrends.com/eva-amurri-shares-texting-tips-for-co-parenting-success/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/eva-amurri-shares-texting-tips-for-co-parenting-success/
+imported_from: wordpress
 wp_original_id: 17699
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/babyparenttrends-general-article.webp
 seo:
-  canonical: "https://babyparenttrends.com/eva-amurri-shares-texting-tips-for-co-parenting-success/"
-  og_title: "Eva Amurri Shares Texting Tips for Co-Parenting Success - Baby Parent Trends"
-  og_description: "Eva Amurri discusses co-parenting with ex-husband Kyle Martino, focusing on maintaining a stable, loving environment for their children. She shares insights on creating summer schedules, adapting to children's evolving needs, and resolving conflicts through open communication and mutual respect."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2025/07/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/eva-amurri-shares-texting-tips-for-co-parenting-success/
+  og_title: Eva Amurri Shares Texting Tips for Co-Parenting Success - Baby Parent Trends
+  og_description: >-
+    Eva Amurri discusses co-parenting with ex-husband Kyle Martino, focusing on
+    maintaining a stable, loving environment for their children. She shares
+    insights on creating summer schedules, adapting to children's evolving
+    needs, and resolving conflicts through open communication and mutual
+    respect.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2025/07/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 65
@@ -28,7 +39,11 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 90
   keyword_relevance: 90
-quality_note: "Well-written parenting content with good tone and relevance, but lacks SEO optimization and falls short of ideal word count target."
+quality_note: >-
+  Well-written parenting content with good tone and relevance, but lacks SEO
+  optimization and falls short of ideal word count target.
+topics:
+  - Kids
 ---
 
 Eva Amurri, an actress and lifestyle blogger, is navigating the complexities of co-parenting with her ex-husband, Kyle Martino. As they continue to prioritize their children's well-being, Eva has been candid about the challenges and triumphs they face in this journey. Co-parenting during the summer months presents its own unique set of opportunities and hurdles, which Eva discusses with openness and insight.

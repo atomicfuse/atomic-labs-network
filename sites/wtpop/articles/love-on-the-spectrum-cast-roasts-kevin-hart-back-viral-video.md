@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Diverse comedians laugh on a small club stage as an audience records the viral
   moment.
+topics:
+  - TV & Movies
 ---
 ## Cast Turns Tables on Comedian
 

@@ -1,25 +1,40 @@
 ---
-title: "Don Julio X Popeyes And Food Collaborations We’re Talking About In 2025"
-description: "From tequila-infused fast food to pop culture-driven menu drops, food collaborations in 2025 are more than just marketing stunts—they're shaping the way we eat, drink, and experience food. These partnerships reveal a lot about what matters in food culture today."
-type: "standard"
+title: Don Julio X Popeyes And Food Collaborations We’re Talking About In 2025
+description: >-
+  From tequila-infused fast food to pop culture-driven menu drops, food
+  collaborations in 2025 are more than just marketing stunts—they're shaping the
+  way we eat, drink, and experience food. These partnerships reveal a lot about
+  what matters in food culture today.
+type: standard
 status: published
-publishDate: "2025-02-03T01:03:25+00:00"
-author: "admin"
+publishDate: '2025-02-03T01:03:25+00:00'
+author: admin
 tags:
-  - "Travel"
-  - "Food &amp; Drink"
-slug: "don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025"
+  - Travel
+  - Food &amp; Drink
+slug: don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025
 reading_time: 3
-source_url: "https://travelclearly.com/don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025/
+imported_from: wordpress
 wp_original_id: 36349
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/travelclearly-general-article.webp
 seo:
-  canonical: "https://travelclearly.com/don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025/"
-  og_title: "Don Julio X Popeyes And Food Collaborations We’re Talking About In 2025 - Travel Clearly"
-  og_description: "From tequila-infused fast food to pop culture-driven menu drops, food collaborations in 2025 are more than just marketing stunts&#x2014;they&#x2019;re shaping the way we eat, drink, and experience food. Whether it&#x2019;s tapping into nostalgia, fueling FOMO, or redefining indulgence, these partnerships reveal a lot about what matters in food culture today. The Don Julio x Popeyes [&hellip;]"
-  og_image: "https://specials-images.forbesimg.com/imageserve/67983bc560d6f0ca10c6d09c/Credit---Diego-Bendezu-for-Tequila-Don-Julio-x-Popeyes---Two-Game-Day-Icons-Unite-for/960x0.jpg?cropX1=0&amp;cropX2=1080&amp;cropY1=303&amp;cropY2=1208"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/don-julio-x-popeyes-and-food-collaborations-were-talking-about-in-2025/
+  og_title: >-
+    Don Julio X Popeyes And Food Collaborations We’re Talking About In 2025 -
+    Travel Clearly
+  og_description: >-
+    From tequila-infused fast food to pop culture-driven menu drops, food
+    collaborations in 2025 are more than just marketing
+    stunts&#x2014;they&#x2019;re shaping the way we eat, drink, and experience
+    food. Whether it&#x2019;s tapping into nostalgia, fueling FOMO, or
+    redefining indulgence, these partnerships reveal a lot about what matters in
+    food culture today. The Don Julio x Popeyes [&hellip;]
+  og_image: >-
+    https://specials-images.forbesimg.com/imageserve/67983bc560d6f0ca10c6d09c/Credit---Diego-Bendezu-for-Tequila-Don-Julio-x-Popeyes---Two-Game-Day-Icons-Unite-for/960x0.jpg?cropX1=0&amp;cropX2=1080&amp;cropY1=303&amp;cropY2=1208
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 65
@@ -27,7 +42,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 70
   keyword_relevance: 75
-quality_note: "Engaging tone and relevant food content, but significantly too short at 449 words and lacks proper heading structure for SEO optimization."
+quality_note: >-
+  Engaging tone and relevant food content, but significantly too short at 449
+  words and lacks proper heading structure for SEO optimization.
+topics:
+  - Travel
+  - Travel Tips
+  - Food & Drink
 ---
 
 From tequila-infused fast food to pop culture-driven menu drops, food collaborations in 2025 are more than just marketing stunts—they're shaping the way we eat, drink, and experience food. Whether it's tapping into nostalgia, fueling FOMO, or redefining indulgence, these partnerships reveal a lot about what matters in food culture today.

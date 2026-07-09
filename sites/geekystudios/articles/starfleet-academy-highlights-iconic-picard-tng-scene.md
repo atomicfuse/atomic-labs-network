@@ -1,24 +1,32 @@
 ---
-title: "Starfleet Academy Highlights Iconic Picard TNG Scene"
-description: "Star Trek: Starfleet Academy revisits Captain Picard's iconic speech from The Next Generation, bridging past and present while honoring Star Trek's legacy of exploration, unity, and timeless wisdom."
-type: "standard"
-status: "published"
-publishDate: "2026-01-29T10:27:35+00:00"
-author: "Arthur Daly"
+title: Starfleet Academy Highlights Iconic Picard TNG Scene
+description: >-
+  Star Trek: Starfleet Academy revisits Captain Picard's iconic speech from The
+  Next Generation, bridging past and present while honoring Star Trek's legacy
+  of exploration, unity, and timeless wisdom.
+type: standard
+status: published
+publishDate: '2026-01-29T10:27:35+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "starfleet-academy-highlights-iconic-picard-tng-scene"
+  - Pop Culture
+slug: starfleet-academy-highlights-iconic-picard-tng-scene
 reading_time: 3
-source_url: "https://geekystudios.com/starfleet-academy-highlights-iconic-picard-tng-scene/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/starfleet-academy-highlights-iconic-picard-tng-scene/'
+imported_from: wordpress
 wp_original_id: 697
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/geekystudios-general-article.webp
 seo:
-  canonical: "https://geekystudios.com/starfleet-academy-highlights-iconic-picard-tng-scene/"
-  og_title: "Starfleet Academy Highlights Iconic Picard TNG Scene - Geeky Studios"
-  og_description: "Star Trek: Starfleet Academy revisits Captain Picard's iconic speech from The Next Generation, bridging past and present. The new series honors Star Trek's legacy, blending time-honored traditions with contemporary challenges, inspiring new cadets with timeless wisdom and values."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/01/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/starfleet-academy-highlights-iconic-picard-tng-scene/
+  og_title: Starfleet Academy Highlights Iconic Picard TNG Scene - Geeky Studios
+  og_description: >-
+    Star Trek: Starfleet Academy revisits Captain Picard's iconic speech from
+    The Next Generation, bridging past and present. The new series honors Star
+    Trek's legacy, blending time-honored traditions with contemporary
+    challenges, inspiring new cadets with timeless wisdom and values.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/01/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written piece with strong pop culture focus and engaging tone, but falls short on length and lacks specific details about the referenced speech."
+quality_note: >-
+  Well-written piece with strong pop culture focus and engaging tone, but falls
+  short on length and lacks specific details about the referenced speech.
+topics:
+  - Pop Culture
 ---
 
 In the vibrant universe of Star Trek, fans are constantly treated to iconic speeches and moments that leave a lasting impact. One such memorable moment took place in Star Trek: The Next Generation, where Captain Jean-Luc Picard delivered a pivotal speech that has resonated through the franchise's history. Now, the new series, Star Trek: Starfleet Academy, is set to bring this iconic speech back into the spotlight, offering a fresh perspective and a nod to the rich legacy of Star Trek.

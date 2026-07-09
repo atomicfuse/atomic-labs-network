@@ -45,6 +45,10 @@ quality_note: >-
   The article has good tone and relevance but falls significantly short of the
   target word count at only 293 words instead of the recommended 800-1200 words.
 image_alt: Yoga instructor guiding a calm group through poses in a warm sunlit studio
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Embark on a transformative journey into the world of yoga with Dr. Sandhya Arya, a renowned naturopath and yoga expert with over two decades of experience. In this session, Dr. Arya shares her extensive knowledge and expertise to help you master various yoga poses, enhancing both your physical and mental well-being.

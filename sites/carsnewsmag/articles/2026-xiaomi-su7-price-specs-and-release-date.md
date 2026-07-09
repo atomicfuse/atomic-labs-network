@@ -39,6 +39,10 @@ quality_note: >-
   focus and conversational tone, though the title could be more compelling and
   keyword-optimized.
 image_alt: Sleek electric saloon under futuristic lighting with subtle motion trails
+topics:
+  - Electric Cars
+  - Reviews
+  - Industry
 ---
 
 The Xiaomi SU7 proves that the next major electric car challenger may not come from a traditional carmaker. Xiaomi built its reputation on smartphones, smart home devices and connected software, yet its first electric saloon is already one of the most talked-about EVs in China. Sleek, quick and packed with technology, the 2026 Xiaomi SU7 aims directly at premium electric sedans such as the Tesla Model 3, Porsche Taycan and BYD Seal.

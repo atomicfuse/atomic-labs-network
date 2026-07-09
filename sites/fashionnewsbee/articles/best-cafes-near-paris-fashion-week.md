@@ -28,6 +28,8 @@ seo:
 image_alt: >-
   Stylish Paris café scene with espresso, fashion accessories, and subtle
   digital design elements
+topics:
+  - Fashion
 ---
 
 Style Not Com reflects a growing shift in digital fashion: shoppers want inspiration, guidance, and product discovery in one seamless experience. Instead of treating online style as a simple catalog, the platform points toward a more curated way to explore clothing, outfits, and trends through a modern digital lens.

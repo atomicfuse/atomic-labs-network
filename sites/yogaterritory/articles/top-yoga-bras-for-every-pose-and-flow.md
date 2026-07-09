@@ -41,6 +41,10 @@ quality_note: >-
 image_alt: >-
   Women practicing yoga in a bright studio wearing supportive, unbranded
   activewear.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Yoga has become an integral part of many people's wellness routines, offering both mental and physical benefits. A key component to enhancing your yoga practice is wearing the right gear, especially a well-designed yoga bra. Choosing the perfect yoga bra can significantly impact your comfort and performance during sessions.

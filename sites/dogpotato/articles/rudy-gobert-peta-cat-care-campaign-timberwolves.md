@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Basketball player kneels on a gym court playing gently with two cats beside a
   basketball.
+topics:
+  - Cats
+  - Other Animals
 ---
 ## Timberwolves Star Becomes Cat Care Advocate
 

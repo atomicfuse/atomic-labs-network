@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Sleek laptop projecting neon gaming visuals and circuit-like light trails in a
   modern tech setting
+topics:
+  - Tech
 ---
 
 Windows on ARM devices are set to receive a significant boost in performance and compatibility thanks to new developments in driver support and optimizations. With the growing interest in ARM-based processors, especially in the realm of portable and efficient computing, users can look forward to an enhanced experience that bridges the gap between performance and functionality.

@@ -1,24 +1,36 @@
 ---
-title: "Golden Globes 2023: Nikki Glaser Hosts Amidst World Events"
-description: "The 2026 Golden Globes featured unexpected wins, breakthrough performances, and memorable hosts, while addressing social issues and facing some controversies. The event highlighted the evolving entertainment landscape with calls for inclusivity and representation in future ceremonies."
-type: "standard"
+title: 'Golden Globes 2023: Nikki Glaser Hosts Amidst World Events'
+description: >-
+  The 2026 Golden Globes featured unexpected wins, breakthrough performances,
+  and memorable hosts, while addressing social issues and facing some
+  controversies. The event highlighted the evolving entertainment landscape with
+  calls for inclusivity and representation in future ceremonies.
+type: standard
 status: published
-publishDate: "2026-01-12T10:05:29+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-12T10:05:29+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "Recap"
-slug: "golden-globes-2023-nikki-glaser-hosts-amidst-world-events"
+  - TV News
+  - Recap
+slug: golden-globes-2023-nikki-glaser-hosts-amidst-world-events
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/golden-globes-2023-nikki-glaser-hosts-amidst-world-events/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/golden-globes-2023-nikki-glaser-hosts-amidst-world-events/
+imported_from: wordpress
 wp_original_id: 28152
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/tvshowsmag-general-article.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/golden-globes-2023-nikki-glaser-hosts-amidst-world-events/"
-  og_title: "Golden Globes 2023: Nikki Glaser Hosts Amidst World Events - TV Shows Magazine"
-  og_description: "The 2026 Golden Globes featured unexpected wins, breakthrough performances, and memorable hosts, while addressing social issues and facing some controversies. The event highlighted the evolving entertainment landscape with calls for inclusivity and representation in future ceremonies."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/golden-globes-2023-nikki-glaser-hosts-amidst-world-events/
+  og_title: >-
+    Golden Globes 2023: Nikki Glaser Hosts Amidst World Events - TV Shows
+    Magazine
+  og_description: >-
+    The 2026 Golden Globes featured unexpected wins, breakthrough performances,
+    and memorable hosts, while addressing social issues and facing some
+    controversies. The event highlighted the evolving entertainment landscape
+    with calls for inclusivity and representation in future ceremonies.
+  twitter_card: summary_large_image
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -26,7 +38,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "The article has strong entertainment coverage and engaging tone but contains major factual errors (claims about 2026 Golden Globes and contradictory title/content about Nikki Glaser hosting)."
+quality_note: >-
+  The article has strong entertainment coverage and engaging tone but contains
+  major factual errors (claims about 2026 Golden Globes and contradictory
+  title/content about Nikki Glaser hosting).
+topics:
+  - TV News
 ---
 
 The Golden Globes has long been a celebrated event in the entertainment industry, showcasing the best in film and television. The 2026 ceremony was no exception, offering a mix of triumphs, surprises, and some controversies that kept audiences engaged both on and off the screen.

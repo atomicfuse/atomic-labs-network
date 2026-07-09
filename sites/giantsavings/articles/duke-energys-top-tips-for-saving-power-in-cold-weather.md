@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Smart thermostat in a warm winter living room with frosted windows and
   energy-saving details
+topics:
+  - Saving Tips
+  - Grocery Savings
+  - Bills & Utilities
 ---
 
 As temperatures drop, households and businesses face the challenge of keeping energy usage in check. Duke Energy, a major provider in the region, has emphasized the importance of conserving power during cold spells to ensure reliable service for everyone. By adopting simple yet effective practices, individuals can contribute to a more sustainable energy future while potentially reducing their utility bills.

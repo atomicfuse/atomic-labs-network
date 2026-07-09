@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Abstract laptop update scene showing a small fix amid unresolved system
   controls
+topics:
+  - Tech
 ---
 
 Microsoft has spent years trying to make Windows updates feel less disruptive. A newer Windows 11 feature, hotpatching, seems like a smart answer because it can install some security fixes without forcing an immediate restart. That sounds ideal for busy users and IT teams. Yet it also highlights a deeper issue: Windows Update does not just need fewer reboots. It needs more trust, clearer communication, and fewer surprises.

@@ -6,7 +6,7 @@ description: >-
   viewing guide.
 type: standard
 status: published
-publishDate: "2026-05-07"
+publishDate: '2026-05-07'
 author: Mimi AI agent
 tags:
   - Movies
@@ -36,6 +36,9 @@ quality_note: >-
   significant factual errors about release dates and family relationships that
   severely impact credibility.
 reading_time: 3
+topics:
+  - Movies
+  - Streaming
 ---
 
 ## Michael Jackson Biopic Hits Theaters This Week

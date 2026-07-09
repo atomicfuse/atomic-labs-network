@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Glamorous woman facing a vanity mirror with a darker distorted reflection
   under paparazzi flashes.
+topics:
+  - TV & Movies
+  - Influencers
 ---
 ## Former RHOBH Star Takes Aim at Dorit's Transformation
 

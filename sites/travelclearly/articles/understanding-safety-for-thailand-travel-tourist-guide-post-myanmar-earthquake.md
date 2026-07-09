@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Calm travelers move through a modern Bangkok airport terminal in soft morning
   light.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Recently, the city of Bangkok in Thailand experienced an earthquake that caused a significant stir amongst travelers and locals. The seismic activity, which originated from neighboring Myanmar, is prompting questions about safety and potential travel disruptions. In this post, we'll delve into the details of the incident, its impact on the Bangkok airport, and the safety measures in place for travelers.

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Abstract profile cards and server screens suggest a social platform error and
   account restoration.
+topics:
+  - Tech
 ---
 
 In recent times, Pinterest users have experienced a wave of account suspensions that sparked widespread dissatisfaction among its community. The platform's unexpected actions have led to numerous users expressing their frustrations on various social media channels. As a result, Pinterest has been prompted to address these concerns and provide clarity regarding the situation.

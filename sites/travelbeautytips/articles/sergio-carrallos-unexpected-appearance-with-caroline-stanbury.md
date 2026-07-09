@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Glamorous beauty shoot interrupted by a playful partner peeking in from a
   doorway
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In the world of glamor and social media, unexpected moments often capture the audience's attention. Recently, Sergio Carrallo, the husband of British television personality Caroline Stanbury, made headlines with a surprising appearance in one of his wife's beauty videos. This incident has sparked a buzz among fans and followers, bringing a fresh wave of attention to the couple.

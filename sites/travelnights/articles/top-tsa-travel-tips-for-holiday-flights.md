@@ -1,24 +1,32 @@
 ---
-title: "Top TSA Travel Tips for Holiday Flights"
-description: "As the holiday season approaches, understanding airport security guidelines can ensure a smoother journey. Check flight status, follow TSA packing rules, and prepare for security protocols to avoid delays. Stay informed and flexible for a stress-free travel experience."
-type: "standard"
+title: Top TSA Travel Tips for Holiday Flights
+description: >-
+  As the holiday season approaches, understanding airport security guidelines
+  can ensure a smoother journey. Check flight status, follow TSA packing rules,
+  and prepare for security protocols to avoid delays. Stay informed and flexible
+  for a stress-free travel experience.
+type: standard
 status: published
-publishDate: "2025-12-18T10:52:40+00:00"
-author: "Malcolm Anderson"
+publishDate: '2025-12-18T10:52:40+00:00'
+author: Malcolm Anderson
 tags:
-  - "Culture"
-  - "Guides &amp; Tips"
-slug: "top-tsa-travel-tips-for-holiday-flights"
+  - Culture
+  - Guides &amp; Tips
+slug: top-tsa-travel-tips-for-holiday-flights
 reading_time: 3
-source_url: "https://travelnights.com/top-tsa-travel-tips-for-holiday-flights/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/top-tsa-travel-tips-for-holiday-flights/'
+imported_from: wordpress
 wp_original_id: 36669
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/travelnights-general-article.webp
 seo:
-  canonical: "https://travelnights.com/top-tsa-travel-tips-for-holiday-flights/"
-  og_title: "Top TSA Travel Tips for Holiday Flights - Travel Nights"
-  og_description: "As the holiday season approaches, understanding airport security guidelines can ensure a smoother journey. Check flight status, follow TSA packing rules, and prepare for security protocols to avoid delays. Stay informed and flexible for a stress-free travel experience."
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/top-tsa-travel-tips-for-holiday-flights/'
+  og_title: Top TSA Travel Tips for Holiday Flights - Travel Nights
+  og_description: >-
+    As the holiday season approaches, understanding airport security guidelines
+    can ensure a smoother journey. Check flight status, follow TSA packing
+    rules, and prepare for security protocols to avoid delays. Stay informed and
+    flexible for a stress-free travel experience.
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 70
-quality_note: "Well-written travel guide with accurate TSA information and appropriate tone, but significantly short at 481 words and needs stronger SEO optimization with better keyword integration."
+quality_note: >-
+  Well-written travel guide with accurate TSA information and appropriate tone,
+  but significantly short at 481 words and needs stronger SEO optimization with
+  better keyword integration.
+topics:
+  - Culture
+  - Guides & Tips
 ---
 
 As the holiday season approaches, many travelers are preparing to fly and visit loved ones. Navigating airport security efficiently can help ensure a smooth journey. Understanding the latest guidelines and recommendations can make your trip less stressful and more enjoyable.

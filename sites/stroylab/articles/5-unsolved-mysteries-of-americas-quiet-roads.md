@@ -39,6 +39,10 @@ quality_note: >-
   Strong tone and keyword relevance but severely penalized for short length (377
   words vs 800-1200 target) and vague content lacking specific factual details.
 image_alt: A foggy rural road at dusk with fading tire tracks and a distant light
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Every corner of America holds its own secrets, but some stories are especially chilling. Among them are cold cases that have never been solved, leaving behind a trail of mystery and haunting those who dare to uncover the truth. These unsolved mysteries continue to linger in the quiet, seemingly peaceful backroads of America.

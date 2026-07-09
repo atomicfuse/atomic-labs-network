@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Chaotic game-show set with performers sneaking around a giant sleeping
   puppet-like rulekeeper.
+topics:
+  - TV & Movies
 ---
 ## Dropout's Flagship Series Returns with Boundary-Testing Episode
 

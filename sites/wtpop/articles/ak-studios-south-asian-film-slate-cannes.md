@@ -36,6 +36,9 @@ quality_note: >-
   length requirements and contains some unverifiable claims about specific films
   and events.
 reading_time: 3
+topics:
+  - TV & Movies
+  - Influencers
 ---
 ## Bold South Asian Stories Take Center Stage
 

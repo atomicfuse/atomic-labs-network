@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   A mysterious figure stands on a stormy small-town street lit by lightning and
   porch lights.
+topics:
+  - Watch
 ---
 
 In the heart of a small town in Ohio, a mysterious figure arrives, prompting a series of events that captivate and unsettle the local community. This intriguing setup forms the backdrop of a gripping new drama, where secrets unfold with each passing episode. The narrative weaves a complex tale of identity, deception, and the quest for truth in a seemingly ordinary town.

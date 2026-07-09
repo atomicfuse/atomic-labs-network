@@ -31,6 +31,10 @@ quality_note: >-
   Well-written informative article with good tone and accuracy, but title lacks
   SEO optimization and content is slightly below target length.
 image_alt: Calm cat near a father’s bandaged hand in a softly lit home setting
+topics:
+  - Animal Planet
+  - Veterinary
+  - Other Animals
 ---
 ## When Pet Bites Turn Dangerous
 

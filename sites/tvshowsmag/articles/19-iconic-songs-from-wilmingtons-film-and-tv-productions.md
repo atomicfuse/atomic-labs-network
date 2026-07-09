@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Golden-hour Wilmington waterfront with film gear and music cues evoking
   coastal screen productions.
+topics:
+  - TV News
 ---
 
 Wilmington, North Carolina, known for its charming coastal scenery, has long been a favorite location for filmmakers. Over the years, this picturesque city has provided the backdrop for numerous movies and TV shows, showcasing not only its visual beauty but also a rich tapestry of music that enhances storytelling. This article explores some of the notable productions filmed in Wilmington and the iconic songs featured in them.

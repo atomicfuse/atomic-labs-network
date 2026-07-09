@@ -1,25 +1,35 @@
 ---
-title: "Floods Disrupt Vietnam’s Central Highlands Coffee Harvest"
-description: "The Vietnam coffee industry is facing significant challenges as unexpected weather patterns lead to severe flooding in the Central Highlands, disrupting the annual harvest and potentially impacting global coffee prices due to reduced yields and delayed production."
-type: "standard"
-status: "published"
-publishDate: "2025-11-20T09:17:36+00:00"
-author: "Taylor Winters"
+title: Floods Disrupt Vietnam’s Central Highlands Coffee Harvest
+description: >-
+  The Vietnam coffee industry is facing significant challenges as unexpected
+  weather patterns lead to severe flooding in the Central Highlands, disrupting
+  the annual harvest and potentially impacting global coffee prices due to
+  reduced yields and delayed production.
+type: standard
+status: published
+publishDate: '2025-11-20T09:17:36+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "floods-disrupt-vietnams-central-highlands-coffee-harvest"
+  - Coffee News
+  - News
+slug: floods-disrupt-vietnams-central-highlands-coffee-harvest
 reading_time: 3
-source_url: "https://coffeeactually.com/floods-disrupt-vietnams-central-highlands-coffee-harvest/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/floods-disrupt-vietnams-central-highlands-coffee-harvest/
+imported_from: wordpress
 wp_original_id: 51353
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/floods-disrupt-vietnams-central-highlands-coffee-harvest/"
-  og_title: "Floods Disrupt Vietnam's Central Highlands Coffee Harvest - Coffee Actually"
-  og_description: "The Vietnam coffee industry is facing significant challenges as unexpected weather patterns lead to severe flooding in the Central Highlands, disrupting the annual harvest and potentially impacting global coffee prices due to reduced yields and delayed production."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/11/make_file-6.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/floods-disrupt-vietnams-central-highlands-coffee-harvest/
+  og_title: Floods Disrupt Vietnam's Central Highlands Coffee Harvest - Coffee Actually
+  og_description: >-
+    The Vietnam coffee industry is facing significant challenges as unexpected
+    weather patterns lead to severe flooding in the Central Highlands,
+    disrupting the annual harvest and potentially impacting global coffee prices
+    due to reduced yields and delayed production.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/11/make_file-6.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Strong coffee news coverage with excellent keyword relevance and appropriate tone, but falls short on content length at 584 words versus the target 800-1200 word range."
+quality_note: >-
+  Strong coffee news coverage with excellent keyword relevance and appropriate
+  tone, but falls short on content length at 584 words versus the target
+  800-1200 word range.
+topics:
+  - Coffee News
 ---
 
 The Vietnam coffee industry faces a challenging season as unexpected weather patterns disrupt the annual harvest. Widespread floods in the Central Highlands have stalled production, affecting both the quality and quantity of coffee beans. This situation has prompted concerns among local farmers and international buyers who rely heavily on Vietnam's robusta coffee output.

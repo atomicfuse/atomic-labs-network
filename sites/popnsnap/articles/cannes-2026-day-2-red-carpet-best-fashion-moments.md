@@ -30,6 +30,9 @@ seo:
 image_alt: >-
   Elegant festival red carpet with couture gowns, sharp menswear, and soft
   Riviera evening light.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The Cannes Film Festival 2026 red carpet moved into day 2 with the kind of glamour only the French Riviera can deliver. From dramatic gowns to precise tailoring, the arrivals turned the Croisette into a global fashion stage. The mood felt polished, cinematic, and confident, with stars, models, and festival guests embracing both classic elegance and modern risk-taking.

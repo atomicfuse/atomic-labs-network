@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Stylish young actor on a golden red carpet under dramatic lights and paparazzi
   flashes.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Joe Keery, best known for his role in the popular series "Stranger Things," recently captured widespread attention at the Golden Globes. His appearance sparked a flurry of reactions, thanks to his striking new look that set social media abuzz.

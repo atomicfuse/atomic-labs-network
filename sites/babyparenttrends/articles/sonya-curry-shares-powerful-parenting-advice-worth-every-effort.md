@@ -1,27 +1,37 @@
 ---
-title: "Sonya Curry Shares Powerful Parenting Advice Worth Every Effort"
-description: "Sonya Curry's parenting wisdom highlights consistency, discipline, faith, and presence, showing how strong family values helped shape Stephen Curry while offering practical lessons for parents everywhere."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:52:38+00:00"
-author: "Taylor Winters"
+title: Sonya Curry Shares Powerful Parenting Advice Worth Every Effort
+description: >-
+  Sonya Curry's parenting wisdom highlights consistency, discipline, faith, and
+  presence, showing how strong family values helped shape Stephen Curry while
+  offering practical lessons for parents everywhere.
+type: standard
+status: published
+publishDate: '2026-05-18T08:52:38+00:00'
+author: Taylor Winters
 tags:
-  - "Parenting"
-  - "Moms"
-  - "Nurture"
-  - "Parents"
-slug: "sonya-curry-shares-powerful-parenting-advice-worth-every-effort"
+  - Parenting
+  - Moms
+  - Nurture
+  - Parents
+slug: sonya-curry-shares-powerful-parenting-advice-worth-every-effort
 reading_time: 7
-source_url: "https://babyparenttrends.com/sonya-curry-shares-powerful-parenting-advice-worth-every-effort/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/sonya-curry-shares-powerful-parenting-advice-worth-every-effort/
+imported_from: wordpress
 wp_original_id: 17817
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/babyparenttrends-general-article.webp
 seo:
-  canonical: "https://babyparenttrends.com/sonya-curry-shares-powerful-parenting-advice-worth-every-effort/"
-  og_title: "Sonya Curry Shares Powerful Parenting Advice Worth Every Effort - Baby Parent Trends"
-  og_description: "Sonya Curry’s parenting wisdom highlights consistency, discipline, faith, and presence, showing how strong family values helped shape Stephen Curry while offering practical lessons for parents everywhere."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/sonya-curry-shares-powerful-parenting-advice-worth-every-effort/
+  og_title: >-
+    Sonya Curry Shares Powerful Parenting Advice Worth Every Effort - Baby
+    Parent Trends
+  og_description: >-
+    Sonya Curry’s parenting wisdom highlights consistency, discipline, faith,
+    and presence, showing how strong family values helped shape Stephen Curry
+    while offering practical lessons for parents everywhere.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 93
 score_breakdown:
   seo_quality: 85
@@ -29,7 +39,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 95
-quality_note: "Well-written article with excellent tone and length that effectively covers parenting themes using Sonya Curry's example, though could benefit from slightly stronger SEO optimization in the title and meta description."
+quality_note: >-
+  Well-written article with excellent tone and length that effectively covers
+  parenting themes using Sonya Curry's example, though could benefit from
+  slightly stronger SEO optimization in the title and meta description.
+topics:
+  - Parenting
 ---
 
 Sonya Curry, the mother of Stephen Curry, has become a respected voice for parents because her guidance reaches far beyond basketball. While many know her as the woman who helped raise one of the greatest NBA players ever, her message is rooted in everyday discipline, patience, faith, and consistency. Her approach offers a powerful reminder that strong parenting is not about creating perfect children. It is about showing up, setting standards, and helping young people grow into grounded adults.

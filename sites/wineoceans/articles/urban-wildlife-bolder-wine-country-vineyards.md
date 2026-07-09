@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Bold urban wildlife approaches a vineyard tasting area near a city skyline at
   dusk.
+topics:
+  - Wine news
 ---
 ## Urban Animals Display Bold New Behaviors
 

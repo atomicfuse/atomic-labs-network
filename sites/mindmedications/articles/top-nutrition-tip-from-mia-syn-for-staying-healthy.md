@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Sunlit kitchen counter with a colorful balanced grain bowl and fresh
   ingredients for healthy eating.
+topics:
+  - Lifestyle
+  - Nutrition
+  - Wellness
 ---
 
 Maintaining a healthy lifestyle often begins with simple yet effective changes in our daily habits. One crucial aspect of this journey is nutrition, a fundamental component that significantly impacts our overall well-being. In today's fast-paced world, prioritizing a balanced diet might seem challenging, but integrating practical tips can make a substantial difference in achieving health goals.

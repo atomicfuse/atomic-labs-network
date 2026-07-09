@@ -28,6 +28,8 @@ seo:
     and leisure.
   twitter_card: summary_large_image
 image_alt: Stylish model wearing a mid-length column skirt on an autumn city street
+topics:
+  - Fashion
 ---
 
 The upcoming fall season brings a fresh perspective on fashion, with the column skirt emerging as a must-have item. This versatile piece offers endless styling opportunities, making it an essential addition to any wardrobe. Whether you prefer a minimalist look or something more daring, the column skirt can adapt seamlessly to your personal style.

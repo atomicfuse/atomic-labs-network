@@ -32,6 +32,8 @@ quality_note: >-
   Well-written travel advice with good keyword coverage but falls short on
   length and relies heavily on vague trend claims without concrete sources.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## The Rise of 'Turbulence Tests' in Modern Dating
 

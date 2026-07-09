@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Glowing digital library shelves connected by tags with subtle server status
   lights in the background.
+topics:
+  - Tech
 ---
 
 In the dynamic realm of online platforms, Archive of Our Own (AO3) stands out for its role in housing a diverse collection of fan-created content. Celebrated for its user-friendly structure and commitment to user privacy, AO3 continues to be a pivotal space for fanfiction enthusiasts around the globe.

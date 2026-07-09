@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Empty reunion set with violet lights, turned chair, and spilled champagne
   suggesting reality TV drama.
+topics:
+  - TV & Movies
 ---
 ## Jesse Solomon Warns of 'Brutal' Reunion Drama
 

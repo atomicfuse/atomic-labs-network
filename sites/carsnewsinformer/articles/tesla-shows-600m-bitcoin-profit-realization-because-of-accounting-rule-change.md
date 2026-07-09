@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Unbranded electric car silhouette with gold digital finance motifs in a
   polished studio setting
+topics:
+  - News
 ---
 ## Tesla Recognizes Substantial Bitcoin Gains
 

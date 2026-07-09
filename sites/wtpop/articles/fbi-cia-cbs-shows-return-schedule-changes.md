@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Two federal-agent figures stand before abstract shifting schedule panels in a
   moody city scene.
+topics:
+  - TV & Movies
 ---
 ## CBS Prepares Major Changes for Popular Crime Dramas
 

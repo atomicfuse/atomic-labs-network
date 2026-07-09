@@ -41,6 +41,8 @@ quality_note: >-
   conspiracies and mysteries, instead covering generic WHO health policy content
   with poor SEO optimization.
 image_alt: Crowd gathered on a dusty hilltop near a distant border fence at dusk
+topics:
+  - Deep Dives
 ---
 
 International organizations like the World Health Organization (WHO) are pivotal in setting health standards and coordinating responses to global health threats. Their guidelines are designed to protect populations and prevent the spread of diseases across borders. However, the influence of these organizations can sometimes spark debates over national sovereignty, especially when it comes to implementing health policies.

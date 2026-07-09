@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Two silhouetted interviewers in a moody basement studio with symbolic shadows
   and glowing screens.
+topics:
+  - Dark History
+  - Deep Dives
 ---
 
 Gary Buechler's story, as introduced in the trailer for The Basement, is not framed as a simple origin story about online success. The title alone points to a striking contrast: from Folsom Prison to millions of subscribers. Before the familiar public chapters connected to YouTube, before the audience growth, and before Friday Night Tights, the description presents a very different beginning, one centered on hardship, memory, and moments that most viewers may not have known about.

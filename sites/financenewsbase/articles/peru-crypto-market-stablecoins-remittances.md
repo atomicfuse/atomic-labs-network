@@ -5,7 +5,7 @@ description: >-
   slashing remittance costs from 6.6% to under 0.5% for cross-border payments.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Economic Trends
@@ -14,7 +14,7 @@ tags:
   - emerging-markets
   - financial-inclusion
 slug: peru-crypto-market-stablecoins-remittances
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/90-of-perus-28-billion-crypto-market-is-now-driven-by-stablecoins/
 source_item_id: 6a008dbc2a0a294c696af84e
@@ -32,6 +32,8 @@ quality_note: >-
   tone, but falls short on word count and lacks specific source citations for
   key statistics.
 reading_time: 3
+topics:
+  - Economic Trends
 ---
 
 ## Peru Emerges as Latin American Crypto Powerhouse

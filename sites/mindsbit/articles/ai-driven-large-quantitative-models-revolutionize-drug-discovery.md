@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Abstract molecular data network suggesting AI-powered drug discovery and
   personalized medicine.
+topics:
+  - Innovation
+  - Tech
 ---
 
 In recent years, the integration of artificial intelligence (AI) in healthcare has revolutionized the process of drug discovery. Leveraging large quantitative models, AI is now enabling researchers to accelerate the identification and development of new pharmaceuticals. These advancements promise not only to enhance the efficiency of drug discovery but also to significantly reduce costs and timeframes traditionally involved in bringing new drugs to market.

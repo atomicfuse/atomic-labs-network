@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Unbranded cosmetics display with Arctic-blue lighting and abstract social
   media signals
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 The recent controversy surrounding a prominent beauty brand has captured global attention, intertwining politics and consumer advocacy. Estée Lauder, a renowned name in cosmetics, finds itself at the center of an unexpected backlash. This incident has sparked a digital uproar, resulting in calls for a boycott driven by political sentiments.

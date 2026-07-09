@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Smoky neon-lit rock stage with a lone microphone stand and dramatic fractured
   lighting
+topics:
+  - Music
 ---
 
 The Hara, an energetic and dynamic band, are set to captivate audiences with their upcoming album, "The Fallout." Known for their electrifying performances and unique sound, The Hara has been making waves in the music industry. This latest project promises to elevate their musical journey to new heights and offers fans a fresh listening experience. With the anticipation building, the album's release marks a significant milestone for the band, showcasing their growth and artistic evolution.

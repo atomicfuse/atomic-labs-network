@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Unbranded coffee cup in a Seattle café window reflecting a corporate tower at
   dawn
+topics:
+  - Coffee News
 ---
 
 In the bustling landscape of Seattle's coffee industry, where giants dominate, small businesses often face daunting challenges. Imagine a passionate entrepreneur, fueled by dreams and determination, stepping into this competitive arena. This story explores the journey of such a small coffee company, born in 1989, which not only carved its niche but also faced a formidable legal battle.

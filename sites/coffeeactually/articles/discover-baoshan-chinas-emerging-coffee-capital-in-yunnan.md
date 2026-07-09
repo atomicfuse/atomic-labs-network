@@ -1,25 +1,37 @@
 ---
-title: "Discover Baoshan: China’s Emerging Coffee Capital in Yunnan"
-description: "Baoshan in China's Yunnan province is emerging as a hub for coffee enthusiasts, thanks to its ideal growing conditions and rich agricultural heritage. The region's coffee culture and scenic landscapes make it an attractive destination for travelers and coffee lovers."
-type: "standard"
-status: "published"
-publishDate: "2026-01-05T09:15:30+00:00"
-author: "Taylor Winters"
+title: 'Discover Baoshan: China’s Emerging Coffee Capital in Yunnan'
+description: >-
+  Baoshan in China's Yunnan province is emerging as a hub for coffee
+  enthusiasts, thanks to its ideal growing conditions and rich agricultural
+  heritage. The region's coffee culture and scenic landscapes make it an
+  attractive destination for travelers and coffee lovers.
+type: standard
+status: published
+publishDate: '2026-01-05T09:15:30+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beans"
-slug: "discover-baoshan-chinas-emerging-coffee-capital-in-yunnan"
+  - Coffee News
+  - Beans
+slug: discover-baoshan-chinas-emerging-coffee-capital-in-yunnan
 reading_time: 3
-source_url: "https://coffeeactually.com/discover-baoshan-chinas-emerging-coffee-capital-in-yunnan/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/discover-baoshan-chinas-emerging-coffee-capital-in-yunnan/
+imported_from: wordpress
 wp_original_id: 51377
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/discover-baoshan-chinas-emerging-coffee-capital-in-yunnan/"
-  og_title: "Discover Baoshan: China's Emerging Coffee Capital in Yunnan - Coffee Actually"
-  og_description: "Baoshan in China's Yunnan province is emerging as a hub for coffee enthusiasts, thanks to its ideal growing conditions and rich agricultural heritage. The region's coffee culture and scenic landscapes make it an attractive destination for travelers and coffee lovers."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/01/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/discover-baoshan-chinas-emerging-coffee-capital-in-yunnan/
+  og_title: >-
+    Discover Baoshan: China's Emerging Coffee Capital in Yunnan - Coffee
+    Actually
+  og_description: >-
+    Baoshan in China's Yunnan province is emerging as a hub for coffee
+    enthusiasts, thanks to its ideal growing conditions and rich agricultural
+    heritage. The region's coffee culture and scenic landscapes make it an
+    attractive destination for travelers and coffee lovers.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/01/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but falls short on length (545 words vs 800-1200 target) and could benefit from stronger SEO optimization in headings and meta description."
+quality_note: >-
+  Well-written article with good tone and accuracy, but falls short on length
+  (545 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization in headings and meta description.
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 In recent years, Baoshan, located in China's Yunnan province, has gained recognition as a burgeoning hub for coffee enthusiasts. Known for its rich agricultural heritage, Baoshan is quickly becoming synonymous with high-quality coffee production, attracting both local and international attention. As coffee culture expands across the globe, Baoshan's unique offerings and scenic landscapes make it a compelling destination for travelers and coffee lovers alike.

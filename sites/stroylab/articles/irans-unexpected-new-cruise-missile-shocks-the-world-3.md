@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Gold bars arranged before a blurred world map, suggesting global economic
   uncertainty and reserve accumulation.
+topics:
+  - Deep Dives
 ---
 
 The landscape of global economics is witnessing an unprecedented transformation as countries increasingly shift their focus toward gold accumulation. This strategic move is perceived as a safeguard against economic instability and currency fluctuations. Nations are diversifying their reserves, aiming to bolster financial security in an unpredictable global market.

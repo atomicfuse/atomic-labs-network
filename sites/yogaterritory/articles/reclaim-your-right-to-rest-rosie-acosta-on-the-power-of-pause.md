@@ -53,6 +53,11 @@ quality_note: >-
 image_alt: >-
   A woman meditates in soft morning light near a tropical shoreline, evoking
   rest and renewal.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
+  - Meditation
 ---
 
 Life moves quickly. In the frenzied pace of the everyday, it's easy to lose sight of the importance of creating space for slowness. But author and teacher Rosie Acosta knows the power of immersing ourselves in our meditation practice.

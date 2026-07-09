@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Adults practice gentle chair yoga in a bright, calming studio with supportive,
   relaxed posture.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Chair yoga offers an inclusive way to enjoy the benefits of yoga regardless of age, fitness level, or physical limitations. This adaptable form of yoga is performed seated in a chair or using it for support, making it accessible to everyone, including seniors and those with mobility challenges.

@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Executive silhouettes discuss a glowing AI network in a futuristic boardroom
   at dawn.
+topics:
+  - Innovation
+  - Tech
 ---
 
 In an exciting development for the tech industry, a new artificial intelligence startup has emerged with significant backing. Co-founded by a former Amazon executive, the venture promises to advance AI technologies. Investors are buzzing about the startup's potential to revolutionize this dynamic field.

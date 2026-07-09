@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Cinematic film crew setup at golden hour with the Kansas City skyline in the
   background
+topics:
+  - TV News
+  - Recommendations
 ---
 
 Kansas City is increasingly becoming a hotspot for film and television productions. This bustling city, rich in cultural heritage and varied landscapes, offers the perfect backdrop for a diverse range of productions. With its growing reputation in the entertainment industry, Kansas City is attracting numerous filmmakers and TV producers eager to utilize its unique settings.

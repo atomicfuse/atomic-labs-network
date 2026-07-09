@@ -40,6 +40,9 @@ quality_note: >-
   While well-written about film/TV set design, this article completely misses
   the site's home decor focus and lacks practical design tips for homeowners.
 image_alt: Candlelit Gothic manor room with period furniture overlooking a stormy moor
+topics:
+  - Decor Ideas
+  - Design Tips
 ---
 
 The captivating world of set design can transform narratives, creating immersive experiences that transport audiences to different times and places. This is especially true in the classic tale of "Wuthering Heights," where the sets play a crucial role in conveying the story's intense emotions and historical context.

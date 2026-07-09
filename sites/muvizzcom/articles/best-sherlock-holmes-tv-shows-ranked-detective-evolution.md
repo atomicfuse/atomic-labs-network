@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Silhouetted detective before layered scenes of Victorian, modern, and
   futuristic mystery settings
+topics:
+  - TV Shows
 ---
 ## The Enduring Appeal of Television's Greatest Detective
 

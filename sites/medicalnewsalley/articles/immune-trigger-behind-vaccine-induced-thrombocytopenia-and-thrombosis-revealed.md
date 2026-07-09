@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Stylized antibodies and platelets glowing above a modern medical research
   bench
+topics:
+  - Health News
 ---
 
 Recent research has unveiled a significant breakthrough in understanding the immune mechanisms that may lead to rare blood clotting disorders following certain vaccinations. This discovery highlights the complex interplay between vaccines and the immune system, offering insights that could enhance vaccine safety and effectiveness across the globe.

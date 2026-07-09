@@ -1,26 +1,39 @@
 ---
-title: "Childhood Obesity in India: Causes, Warning Signs, and Prevention Tips"
-description: "Childhood obesity in India is rising, fueled by unhealthy diets and sedentary lifestyles. It poses significant health risks, necessitating urgent action. Parents, schools, and communities must collaborate to promote healthy eating and physical activity to ensure a healthier future generation."
-type: "standard"
-status: "published"
-publishDate: "2026-01-29T09:59:33+00:00"
-author: "Taylor Winters"
+title: 'Childhood Obesity in India: Causes, Warning Signs, and Prevention Tips'
+description: >-
+  Childhood obesity in India is rising, fueled by unhealthy diets and sedentary
+  lifestyles. It poses significant health risks, necessitating urgent action.
+  Parents, schools, and communities must collaborate to promote healthy eating
+  and physical activity to ensure a healthier future generation.
+type: standard
+status: published
+publishDate: '2026-01-29T09:59:33+00:00'
+author: Taylor Winters
 tags:
-  - "Children's Health"
-  - "Kids"
-  - "Parents"
-slug: "childhood-obesity-in-india-causes-warning-signs-and-prevention-tips"
+  - Children's Health
+  - Kids
+  - Parents
+slug: childhood-obesity-in-india-causes-warning-signs-and-prevention-tips
 reading_time: 4
-source_url: "https://babyparenttrends.com/childhood-obesity-in-india-causes-warning-signs-and-prevention-tips/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/childhood-obesity-in-india-causes-warning-signs-and-prevention-tips/
+imported_from: wordpress
 wp_original_id: 17772
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/babyparenttrends-general-article.webp
 seo:
-  canonical: "https://babyparenttrends.com/childhood-obesity-in-india-causes-warning-signs-and-prevention-tips/"
-  og_title: "Childhood Obesity in India: Causes, Warning Signs, and Prevention Tips - Baby Parent Trends"
-  og_description: "Childhood obesity in India is rising, fueled by unhealthy diets and sedentary lifestyles. It poses significant health risks, necessitating urgent action. Parents, schools, and communities must collaborate to promote healthy eating and physical activity to ensure a healthier future generation."
-  og_image: "https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/childhood-obesity-in-india-causes-warning-signs-and-prevention-tips/
+  og_title: >-
+    Childhood Obesity in India: Causes, Warning Signs, and Prevention Tips -
+    Baby Parent Trends
+  og_description: >-
+    Childhood obesity in India is rising, fueled by unhealthy diets and
+    sedentary lifestyles. It poses significant health risks, necessitating
+    urgent action. Parents, schools, and communities must collaborate to promote
+    healthy eating and physical activity to ensure a healthier future
+    generation.
+  og_image: 'https://babyparenttrends.com/wp-content/uploads/2026/01/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -28,7 +41,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent topic relevance and tone, but falls short of target word count at 602 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article with excellent topic relevance and tone, but falls short
+  of target word count at 602 words instead of the 800-1200 range.
+topics:
+  - Kids
+  - Children’s Health
 ---
 
 Childhood obesity is becoming a significant concern in India, with a growing number of children affected by this health issue. The increase in obesity rates among children is alarming, as it sets the stage for various health complications later in life. Addressing this issue is crucial for ensuring a healthy future generation.

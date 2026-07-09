@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   A parent gently holds a newborn’s hand in a softly lit hospital room with
   subtle DNA-like light behind them.
+topics:
+  - Innovation
+  - Tech
 ---
 
 Imagine a world where a single, tailored treatment can alter the course of a genetic disorder, changing a child's life forever. This innovative approach to medicine has become a reality with the groundbreaking use of a personalized gene-editing drug for a young boy. This treatment marks a significant milestone in the field of genetic medicine, opening new possibilities for treating rare genetic conditions.

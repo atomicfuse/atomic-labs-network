@@ -32,6 +32,8 @@ quality_note: >-
   Strong topic relevance and decent SEO structure, but significantly under
   target word count and contains vague claims that could be fabricated data.
 reading_time: 3
+topics:
+  - tv shows
 ---
 ## The Year That Defined Must See TV
 

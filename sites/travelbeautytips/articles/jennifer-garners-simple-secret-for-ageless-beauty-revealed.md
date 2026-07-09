@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Woman applying sunscreen in soft morning light beside simple skincare products
   and greenery.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Jennifer Garner is renowned for her timeless beauty and glowing skin. As a beloved actress and mother, she juggles her busy life with grace and elegance. A significant part of her beauty regimen involves diligent skincare practices that focus on sun protection and maintaining a youthful appearance. Garner's approach to skincare is not only practical but also deeply rooted in her lifestyle choices and product preferences.

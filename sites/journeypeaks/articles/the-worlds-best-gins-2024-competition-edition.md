@@ -41,6 +41,10 @@ quality_note: >-
 image_alt: >-
   Five unlabeled gin bottles on a refined bar cart with global botanicals and
   cocktail glassware.
+topics:
+  - Travel
+  - Travel Tips
+  - Food & Drink
 ---
 
 The resurgence of gin over the last decade has been nothing short of a boon for drinkers. The spirit, first distilled in the 17th century in the Netherlands, is a veritable Swiss army knife for making cocktails. You can drink it straight up in a martini, over ice in a classic Gin & Tonic, layered into a Singapore Sling or featured in a host of other fantastic cocktails that modern mixologists craft these days.

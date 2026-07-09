@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Child holding a parent's hand in a softly lit medical research setting with a
   researcher nearby.
+topics:
+  - Health News
 ---
 
 The National Institutes of Health (NIH) has recently announced a significant change in its funding strategy, impacting research into rare diseases. This decision has left many families and researchers concerned about the future of these vital studies that aim to uncover treatments for conditions affecting only a small fraction of the population.

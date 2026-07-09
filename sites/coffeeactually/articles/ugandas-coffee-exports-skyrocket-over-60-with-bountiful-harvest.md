@@ -1,25 +1,37 @@
 ---
-title: "Uganda’s Coffee Exports Skyrocket Over 60% with Bountiful Harvest"
-description: "Uganda has become a major force in the global coffee market, with shipments rising over 60% due to favorable weather and expanded cultivation, highlighting the country's agricultural strength and critical role in the coffee industry."
-type: "standard"
+title: Uganda’s Coffee Exports Skyrocket Over 60% with Bountiful Harvest
+description: >-
+  Uganda has become a major force in the global coffee market, with shipments
+  rising over 60% due to favorable weather and expanded cultivation,
+  highlighting the country's agricultural strength and critical role in the
+  coffee industry.
+type: standard
 status: published
-publishDate: "2026-01-12T09:15:35+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-12T09:15:35+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest"
+  - Coffee News
+  - News
+slug: ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest
 reading_time: 3
-source_url: "https://coffeeactually.com/ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest/
+imported_from: wordpress
 wp_original_id: 51381
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest/"
-  og_title: "Uganda's Coffee Exports Skyrocket Over 60% with Bountiful Harvest - Coffee Actually"
-  og_description: "Uganda has become a major force in the global coffee market, with shipments rising over 60% due to favorable weather and expanded cultivation. This growth highlights Uganda's agricultural strength and its critical role in the coffee industry."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/01/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/ugandas-coffee-exports-skyrocket-over-60-with-bountiful-harvest/
+  og_title: >-
+    Uganda's Coffee Exports Skyrocket Over 60% with Bountiful Harvest - Coffee
+    Actually
+  og_description: >-
+    Uganda has become a major force in the global coffee market, with shipments
+    rising over 60% due to favorable weather and expanded cultivation. This
+    growth highlights Uganda's agricultural strength and its critical role in
+    the coffee industry.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/01/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,11 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Strong coffee news content with good tone and keyword alignment, but falls short on length and lacks specific data verification for the 60% export claim."
+quality_note: >-
+  Strong coffee news content with good tone and keyword alignment, but falls
+  short on length and lacks specific data verification for the 60% export claim.
+topics:
+  - Coffee News
 ---
 
 Uganda has emerged as a prominent player in the global coffee market, experiencing a significant surge in coffee shipments. This remarkable growth, over 60% in recent months, is largely attributed to a bountiful harvest driven by favorable weather conditions and expanded cultivation efforts. This development not only highlights Uganda's agricultural prowess but also underscores the nation's strategic role in the coffee industry.

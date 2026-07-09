@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Empty gaming desk with headset, controller, and three glowing game worlds on
   unbranded monitors
+topics:
+  - Gaming News
 ---
 
 In a surprising turn of events, Jason Citron, the founder and CEO of Discord, has decided to step away from his chief executive position. This major shift in the tech world comes as the company enters a new phase of growth and development.

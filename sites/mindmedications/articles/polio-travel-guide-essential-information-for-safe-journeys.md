@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Sunlit travel essentials with vaccination supplies arranged for a safe
   international journey
+topics:
+  - Wellness
 ---
 
 Polio has resurfaced as a notable health concern due to increasing travel-related cases and ongoing outbreaks in certain regions. Health officials have issued advisories to travelers to ensure they are adequately informed and vaccinated before visiting affected areas. The importance of maintaining polio vaccination is emphasized, especially when planning international travel to areas with reported cases.

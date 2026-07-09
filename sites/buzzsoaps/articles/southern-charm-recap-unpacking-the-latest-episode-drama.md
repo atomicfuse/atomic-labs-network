@@ -39,6 +39,8 @@ quality_note: >-
   Well-written recap that matches the site's entertainment focus and engaging
   tone, but falls significantly short of target word count at only 434 words.
 image_alt: Tense guests at a lavish Southern mansion party under warm chandelier light
+topics:
+  - Watch
 ---
 
 In the latest episode of "Southern Charm" Season 11, emotions run high as the Charleston crew navigates personal and social challenges. The intricate dynamics between the cast members take center stage, offering viewers a glimpse into their evolving relationships and individual struggles. This episode, packed with surprises and heartfelt moments, keeps fans on the edge of their seats.

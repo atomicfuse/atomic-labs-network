@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Classic cars cruise through Tulsa at golden hour with a teal bridge and
   skyline in the distance.
+topics:
+  - Wine news
 ---
 ## Historic Celebration Takes Shape in Oklahoma
 

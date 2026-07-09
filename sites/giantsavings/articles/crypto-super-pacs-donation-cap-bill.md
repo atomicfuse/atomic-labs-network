@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   Balance scale with donation envelopes and abstract crypto tokens near a
   blurred government building.
+topics:
+  - Smart Shopping
+  - Bills & Utilities
 ---
 ## Lawmakers Target Growing Crypto Political Influence
 

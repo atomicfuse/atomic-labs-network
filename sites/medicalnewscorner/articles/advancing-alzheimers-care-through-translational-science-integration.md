@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Translucent brain form linking a research lab and clinical care space with
   flowing light strands
+topics:
+  - Research
+  - Wellness
 ---
 
 Alzheimer's disease continues to pose significant challenges in the realm of healthcare, affecting millions globally. The integration of recent scientific discoveries with translational science holds promise for transforming Alzheimer's care. By bridging the gap between research and clinical practice, new strategies for diagnosis and treatment can be developed, potentially altering the disease trajectory.

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Older adult cycling gently in a sunny park, suggesting joint-friendly exercise
   for knee pain relief
+topics:
+  - Health News
+  - Wellness
 ---
 
 Knee osteoarthritis can significantly impact daily life, but engaging in the right exercises can help manage symptoms and improve mobility. A recent study highlights certain aerobic exercises as particularly beneficial for individuals with this condition. By understanding these exercises, individuals with knee osteoarthritis can develop an effective plan to enhance their quality of life.

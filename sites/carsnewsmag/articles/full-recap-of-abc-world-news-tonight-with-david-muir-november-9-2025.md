@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Nighttime newsroom desk with monitors and a distant government building in a
   serious news atmosphere.
+topics:
+  - News
+  - Industry
 ---
 
 On the November 9, 2025 broadcast of ABC World News Tonight with David Muir, a number of significant stories were covered, each with impactful implications on both national and international levels.

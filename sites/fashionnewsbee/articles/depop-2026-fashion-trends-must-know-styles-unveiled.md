@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Diverse models in futuristic vintage fashion with sustainable textures and
   subtle tech details
+topics:
+  - Fashion
 ---
 
 As we look toward the future of fashion, predictions for the trends of 2026 offer a fascinating glimpse into the evolving landscape of style. With the digital marketplace continuing to shape consumer behaviors, platforms like Depop are at the forefront of this transformation. By examining emerging trends, we can anticipate what will captivate fashion enthusiasts in the coming years.

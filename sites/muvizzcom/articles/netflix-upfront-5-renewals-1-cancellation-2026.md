@@ -36,6 +36,9 @@ quality_note: >-
   from very short length and lack of specific details about which shows were
   renewed or cancelled, making it feel vague and potentially inaccurate.
 reading_time: 3
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## Netflix's Strategic Upfront Announcements
 

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   A couple stands on a glowing beach as floating screens and light trails
   suggest a hit TV finale.
+topics:
+  - TV News
+  - Streaming
 ---
 ## Record-Breaking Finale Performance
 

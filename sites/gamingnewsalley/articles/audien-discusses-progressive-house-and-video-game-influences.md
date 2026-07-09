@@ -1,25 +1,33 @@
 ---
-title: "Audien Discusses Progressive House and Video Game Influences"
-description: ""
-type: "standard"
+title: Audien Discusses Progressive House and Video Game Influences
+description: ''
+type: standard
 status: published
-publishDate: "2025-10-03T05:33:30+00:00"
-author: "Taylor Winters"
+publishDate: '2025-10-03T05:33:30+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "audien-discusses-progressive-house-and-video-game-influences"
+  - Gaming News
+  - Community
+slug: audien-discusses-progressive-house-and-video-game-influences
 reading_time: 3
-source_url: "https://gamingnewsalley.com/audien-discusses-progressive-house-and-video-game-influences/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/audien-discusses-progressive-house-and-video-game-influences/
+imported_from: wordpress
 wp_original_id: 42529
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/gamingnewsalley-general-article.webp
 seo:
-  canonical: "https://gamingnewsalley.com/audien-discusses-progressive-house-and-video-game-influences/"
-  og_title: "Audien Discusses Progressive House and Video Game Influences - Gaming News Alley"
-  og_description: "Taylor Swift dominated the 2023 MTV Video Music Awards, winning nine out of eleven nominations, including Video of the Year for \"Anti-Hero.\" Her achievements underscore her influence, while the event celebrated diversity and emerging artists in the music industry."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/10/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/audien-discusses-progressive-house-and-video-game-influences/
+  og_title: >-
+    Audien Discusses Progressive House and Video Game Influences - Gaming News
+    Alley
+  og_description: >-
+    Taylor Swift dominated the 2023 MTV Video Music Awards, winning nine out of
+    eleven nominations, including Video of the Year for "Anti-Hero." Her
+    achievements underscore her influence, while the event celebrated diversity
+    and emerging artists in the music industry.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/10/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 41
 score_breakdown:
   seo_quality: 15
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 5
-quality_note: "This article is completely off-topic for a gaming news site, focusing entirely on Taylor Swift and the MTV VMAs with zero gaming content despite misleading title and tags."
+quality_note: >-
+  This article is completely off-topic for a gaming news site, focusing entirely
+  on Taylor Swift and the MTV VMAs with zero gaming content despite misleading
+  title and tags.
+topics:
+  - Gaming News
 ---
 
 In a surprising twist at the 2023 MTV Video Music Awards, global music sensation Taylor Swift emerged as the most celebrated artist of the night, sweeping nine awards out of her eleven nominations. Her phenomenal success at this prestigious event underscores her influence and popularity in the music industry.

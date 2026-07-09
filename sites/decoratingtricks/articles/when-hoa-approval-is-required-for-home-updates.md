@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Homeowner reviews renovation plans outside a tidy suburban house in a planned
   community
+topics:
+  - Home Improvement
 ---
 
 For homeowners living in communities governed by Homeowners Associations (HOAs), making changes to your property often requires careful consideration and understanding of specific rules and regulations. These associations typically have guidelines that must be followed, and non-compliance can result in fines or other penalties. Understanding when and how to consult your HOA about home alterations is crucial for a smooth renovation process.

@@ -39,6 +39,10 @@ quality_note: >-
   arguments, though it focuses more on healthcare than core technology topics
   expected for this tech-focused audience.
 image_alt: Diverse women in a modern care setting connected by subtle pathways of light
+topics:
+  - Finance
+  - Ideas
+  - Innovation
 ---
 
 Women's health is moving from the margins of healthcare strategy to the center of global economic planning. A growing body of evidence shows that better care for women is not only a matter of fairness, but also a major opportunity to improve productivity, extend healthy lives and strengthen health systems. The World Economic Forum and McKinsey have helped sharpen that conversation by framing women's health as a lifelong, whole-person issue that reaches far beyond pregnancy and reproductive care.

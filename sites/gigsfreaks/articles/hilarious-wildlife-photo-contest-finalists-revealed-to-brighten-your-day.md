@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Playful wild animals caught in a funny golden-hour moment on a savanna
   clearing
+topics:
+  - Funny Animals
+  - Good Vibes
 ---
 
 Photography has the power to evoke emotions, tell stories, and even bring a smile to our faces. The annual Comedy Wildlife Photography Awards harness this power by showcasing the lighter side of the animal kingdom. This unique competition highlights the amusing antics of wildlife through a collection of humorous photographs that never fail to delight viewers.

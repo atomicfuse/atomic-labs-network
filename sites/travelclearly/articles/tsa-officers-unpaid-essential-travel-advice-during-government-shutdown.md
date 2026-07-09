@@ -1,26 +1,38 @@
 ---
-title: "TSA Officers Unpaid: Essential Travel Advice During Government Shutdown"
-description: "The U.S. government shutdown is straining TSA resources, causing longer airport security wait times and potential flight delays. Travelers should arrive early, stay updated on advisories, and consider expedited security programs to minimize disruptions during this challenging period."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T09:25:28+00:00"
-author: "Taylor Winters"
+title: 'TSA Officers Unpaid: Essential Travel Advice During Government Shutdown'
+description: >-
+  The U.S. government shutdown is straining TSA resources, causing longer
+  airport security wait times and potential flight delays. Travelers should
+  arrive early, stay updated on advisories, and consider expedited security
+  programs to minimize disruptions during this challenging period.
+type: standard
+status: published
+publishDate: '2026-02-16T09:25:28+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-  - "Tips"
-  - "Travel"
-slug: "tsa-officers-unpaid-essential-travel-advice-during-government-shutdown"
+  - News
+  - Tips
+  - Travel
+slug: tsa-officers-unpaid-essential-travel-advice-during-government-shutdown
 reading_time: 3
-source_url: "https://travelclearly.com/tsa-officers-unpaid-essential-travel-advice-during-government-shutdown/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelclearly.com/tsa-officers-unpaid-essential-travel-advice-during-government-shutdown/
+imported_from: wordpress
 wp_original_id: 36624
-featuredImage: "/assets/images/travelclearly-general-article.webp"
+featuredImage: /assets/images/travelclearly-general-article.webp
 seo:
-  canonical: "https://travelclearly.com/tsa-officers-unpaid-essential-travel-advice-during-government-shutdown/"
-  og_title: "TSA Officers Unpaid: Essential Travel Advice During Government Shutdown - Travel Clearly"
-  og_description: "The U.S. government shutdown is straining TSA resources, causing longer airport security wait times and potential flight delays. Travelers should arrive early, stay updated on advisories, and consider expedited security programs to minimize disruptions during this challenging period."
-  og_image: "https://travelclearly.com/wp-content/uploads/2026/02/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelclearly.com/tsa-officers-unpaid-essential-travel-advice-during-government-shutdown/
+  og_title: >-
+    TSA Officers Unpaid: Essential Travel Advice During Government Shutdown -
+    Travel Clearly
+  og_description: >-
+    The U.S. government shutdown is straining TSA resources, causing longer
+    airport security wait times and potential flight delays. Travelers should
+    arrive early, stay updated on advisories, and consider expedited security
+    programs to minimize disruptions during this challenging period.
+  og_image: 'https://travelclearly.com/wp-content/uploads/2026/02/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accuracy, but significantly under target word count at 463 words, which severely impacts overall quality."
+quality_note: >-
+  Well-written article with good tone and accuracy, but significantly under
+  target word count at 463 words, which severely impacts overall quality.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 The recent government shutdown in the United States has raised considerable concerns about its impact on air travel. With the Transportation Security Administration (TSA) playing a crucial role in airport operations, the shutdown has led to a significant strain on resources and personnel. As the situation evolves, travelers are left wondering how this will affect their plans and what measures they can take to minimize disruptions.

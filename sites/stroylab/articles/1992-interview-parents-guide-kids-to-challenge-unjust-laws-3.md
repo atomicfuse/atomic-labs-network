@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Parent and child study a map with subtle digital network lights at a sunlit
   table.
+topics:
+  - Deep Dives
 ---
 
 The world of geopolitics and technology is fraught with complex developments that can significantly impact global dynamics. Recent events have highlighted crucial changes, particularly in the realms of international relations and technological advancements. Understanding these shifts is essential for comprehending the broader implications they hold for the global community.

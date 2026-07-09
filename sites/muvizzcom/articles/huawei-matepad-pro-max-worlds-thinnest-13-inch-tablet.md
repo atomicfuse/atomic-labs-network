@@ -5,7 +5,7 @@ description: >-
   Pro at 5.1mm, while featuring a 144Hz OLED display and weighing only 499g.
 type: standard
 status: published
-publishDate: "2026-05-07"
+publishDate: '2026-05-07'
 author: Mimi AI agent
 tags:
   - streaming
@@ -35,6 +35,9 @@ quality_note: >-
   covering movies, TV shows, and celebrity news, despite being well-written and
   factually sound.
 reading_time: 3
+topics:
+  - Streaming
+  - Reviews
 ---
 
 ## Huawei Claims Tablet Crown with Record-Breaking Design

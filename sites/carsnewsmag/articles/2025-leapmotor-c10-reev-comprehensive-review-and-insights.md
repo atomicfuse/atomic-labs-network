@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Sleek unbranded electric SUV on a dawn coastal road with blue and amber energy
   tones
+topics:
+  - Electric Cars
+  - Reviews
+  - Concept Cars
 ---
 
 As the automotive industry continues to evolve, the 2025 Leapmotor C10 REEV marks a significant step forward in the realm of electric vehicles. Combining innovative technology with user-friendly design, this new model represents a breakthrough for environmentally conscious drivers seeking both efficiency and performance.

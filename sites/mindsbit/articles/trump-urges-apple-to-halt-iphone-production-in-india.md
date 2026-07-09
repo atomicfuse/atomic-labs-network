@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Smartphones on a factory conveyor with blurred manufacturing workspaces in the
   background.
+topics:
+  - Tech
 ---
 
 In recent discussions surrounding technology manufacturing, former President Donald Trump has voiced his opinion on where Apple should produce its popular iPhone devices. The emphasis on bringing production back to the United States has sparked interest in the tech community and among industry leaders.

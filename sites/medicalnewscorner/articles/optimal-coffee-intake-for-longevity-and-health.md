@@ -43,6 +43,8 @@ quality_note: >-
   content length with only 50 words instead of the target 800-1200 words, making
   it essentially a brief introduction rather than a complete article.
 image_alt: Sunlit coffee cup beside berries and relaxed hands in a calm morning kitchen
+topics:
+  - Health News
 ---
 
 Coffee, a beloved beverage enjoyed by millions worldwide, may hold the key to a longer, healthier life. Recent research has increasingly suggested that moderate coffee consumption could offer significant benefits for healthy aging. This article delves into how coffee might support longevity and well-being, highlighting insights from three compelling studies.

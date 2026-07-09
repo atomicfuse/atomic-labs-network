@@ -1,25 +1,33 @@
 ---
-title: "Top 40 Must-Watch Christmas TV Shows for 2025"
-description: "As the holiday season approaches, families eagerly anticipate a delightful TV lineup featuring new releases, beloved classics, and family-friendly options. From heartwarming tales to thrilling dramas, there's something for everyone to enjoy this festive season."
-type: "standard"
+title: Top 40 Must-Watch Christmas TV Shows for 2025
+description: >-
+  As the holiday season approaches, families eagerly anticipate a delightful TV
+  lineup featuring new releases, beloved classics, and family-friendly options.
+  From heartwarming tales to thrilling dramas, there's something for everyone to
+  enjoy this festive season.
+type: standard
 status: published
-publishDate: "2025-12-22T09:43:26+00:00"
-author: "Taylor Winters"
+publishDate: '2025-12-22T09:43:26+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-slug: "top-40-must-watch-christmas-tv-shows-for-2025"
+  - TV News
+  - TV
+slug: top-40-must-watch-christmas-tv-shows-for-2025
 reading_time: 3
-source_url: "https://tvshowbox.com/top-40-must-watch-christmas-tv-shows-for-2025/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/top-40-must-watch-christmas-tv-shows-for-2025/'
+imported_from: wordpress
 wp_original_id: 24032
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/top-40-must-watch-christmas-tv-shows-for-2025/"
-  og_title: "Top 40 Must-Watch Christmas TV Shows for 2025 - TV Show Box"
-  og_description: "As the holiday season approaches, families eagerly anticipate a delightful TV lineup featuring new releases, beloved classics, and family-friendly options. From heartwarming tales to thrilling dramas, there's something for everyone to enjoy this festive season."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/12/make_file-18.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/top-40-must-watch-christmas-tv-shows-for-2025/'
+  og_title: Top 40 Must-Watch Christmas TV Shows for 2025 - TV Show Box
+  og_description: >-
+    As the holiday season approaches, families eagerly anticipate a delightful
+    TV lineup featuring new releases, beloved classics, and family-friendly
+    options. From heartwarming tales to thrilling dramas, there's something for
+    everyone to enjoy this festive season.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/12/make_file-18.jpeg'
+  twitter_card: summary_large_image
 quality_score: 49
 score_breakdown:
   seo_quality: 25
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 30
   keyword_relevance: 60
-quality_note: "The article has a good conversational tone but suffers from vague content lacking specific show titles, being too short for target length, and having a misleading title that promises 40 specific shows but delivers none."
+quality_note: >-
+  The article has a good conversational tone but suffers from vague content
+  lacking specific show titles, being too short for target length, and having a
+  misleading title that promises 40 specific shows but delivers none.
+topics:
+  - TV News
 ---
 
 As the holiday season approaches, families across the globe eagerly anticipate the delightful lineup of television programming designed to bring festive cheer. Whether you're cozying up with loved ones or enjoying a quiet evening, this year's Christmas TV schedule offers an enticing array of shows and movies that cater to all tastes. From heartwarming stories to thrilling dramas, there is something for everyone to enjoy this festive season.

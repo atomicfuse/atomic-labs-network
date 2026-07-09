@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Parent prepares colorful vegetables beside a phone suggesting supportive
   online parenting advice.
+topics:
+  - Parenting
 ---
 
 In the midst of the National Football League (NFL) season, quarterback Matthew Stafford's wife, Kelly, is reaching out to her followers for parenting advice. The NFL community, including fans, players, and industry insiders, have rallied to aid Kelly in her quest for knowledge.

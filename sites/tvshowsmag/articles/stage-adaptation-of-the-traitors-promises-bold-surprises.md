@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   A shadowy theater stage with red curtains, a spotlighted table, and an
   atmosphere of suspense.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 The hit television series "The Traitors" is set to expand its reach beyond the small screen with an exciting stage adaptation. This thrilling development promises to bring a fresh and dynamic experience to fans of the show, offering a unique perspective on the gripping narrative that has captivated audiences worldwide. The transition from television to theater is a bold step, reflecting the show's enduring popularity and its potential to engage viewers in new and innovative ways.

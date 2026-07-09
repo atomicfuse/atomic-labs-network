@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Yoga practitioner at sunrise in golden savannah grasses with soft acacia
   silhouettes
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Yoga, a practice embraced globally for its mental and physical benefits, finds unique expressions across diverse cultures. Among these, African Savannah yoga stands out for its harmonizing blend of nature-inspired movements that cultivate mental clarity and inner peace. These poses, inspired by the vast and serene African landscapes, offer a refreshing approach to mindfulness.

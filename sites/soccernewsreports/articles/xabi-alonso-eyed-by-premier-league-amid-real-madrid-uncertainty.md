@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Football manager facing a floodlit stadium with a blurred tactics board in the
   foreground
+topics:
+  - Latest News
+  - Leagues
 ---
 
 Xabi Alonso, a name synonymous with football excellence, is gaining attention in the coaching world. Known for his tactical acumen and leadership on the field, Alonso's potential transition to the English Premier League is creating a buzz. As rumors circulate about his future, especially concerning the possibility of joining a Premier League club, football enthusiasts are keenly observing these developments.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Tense chefs stand in a chaotic competition kitchen with scattered peaches and
   unfinished plates.
+topics:
+  - TV & Movies
 ---
 ## Fan-Voted Twists Spark Controversy
 

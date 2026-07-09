@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Empty baseball dugout with helmet and bat under courthouse-like shadows,
   suggesting sports and legal accountability.
+topics:
+  - Dark History
 ---
 ## Legal Ruling Shocks Baseball World
 

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Healthy dog walking with its owner on a sunny coastal path with wellness items
   nearby
+topics:
+  - Dogs
+  - Veterinary
 ---
 ## The Key to Canine Longevity Lies in Prevention
 

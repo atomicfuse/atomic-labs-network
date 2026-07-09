@@ -1,25 +1,37 @@
 ---
-title: "Early Signs of Multiple Sclerosis: 15 Years Before Onset?"
-description: "Multiple sclerosis is a chronic condition affecting the central nervous system, with early signs such as unexplained fatigue and cognitive changes potentially appearing years before diagnosis. Recognizing these symptoms is crucial for timely intervention and better disease management."
-type: "standard"
-status: "published"
-publishDate: "2025-08-14T04:03:30+00:00"
-author: "Taylor Winters"
+title: 'Early Signs of Multiple Sclerosis: 15 Years Before Onset?'
+description: >-
+  Multiple sclerosis is a chronic condition affecting the central nervous
+  system, with early signs such as unexplained fatigue and cognitive changes
+  potentially appearing years before diagnosis. Recognizing these symptoms is
+  crucial for timely intervention and better disease management.
+type: standard
+status: published
+publishDate: '2025-08-14T04:03:30+00:00'
+author: Taylor Winters
 tags:
-  - "Research"
-  - "Clinical Trials &amp; Research"
-slug: "early-signs-of-multiple-sclerosis-15-years-before-onset"
+  - Research
+  - Clinical Trials &amp; Research
+slug: early-signs-of-multiple-sclerosis-15-years-before-onset
 reading_time: 3
-source_url: "https://medicalnewscorner.com/early-signs-of-multiple-sclerosis-15-years-before-onset/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/early-signs-of-multiple-sclerosis-15-years-before-onset/
+imported_from: wordpress
 wp_original_id: 24695
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/medicalnewscorner-general-article.webp
 seo:
-  canonical: "https://medicalnewscorner.com/early-signs-of-multiple-sclerosis-15-years-before-onset/"
-  og_title: "Early Signs of Multiple Sclerosis: 15 Years Before Onset? - Medical News Corner"
-  og_description: "Multiple sclerosis is a chronic condition affecting the central nervous system. Early signs, such as unexplained fatigue and cognitive changes, may appear years before diagnosis. Recognizing these symptoms is crucial for timely intervention and better disease management."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/early-signs-of-multiple-sclerosis-15-years-before-onset/
+  og_title: >-
+    Early Signs of Multiple Sclerosis: 15 Years Before Onset? - Medical News
+    Corner
+  og_description: >-
+    Multiple sclerosis is a chronic condition affecting the central nervous
+    system. Early signs, such as unexplained fatigue and cognitive changes, may
+    appear years before diagnosis. Recognizing these symptoms is crucial for
+    timely intervention and better disease management.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/08/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 80
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,13 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written article with excellent topic relevance and tone, but significantly under target length at 485 words versus the 800-1200 word target."
+quality_note: >-
+  Well-written article with excellent topic relevance and tone, but
+  significantly under target length at 485 words versus the 800-1200 word
+  target.
+topics:
+  - Research
+  - Conditions
 ---
 
 Multiple sclerosis (MS) is a chronic condition affecting the central nervous system, leading to a range of physical and neurological symptoms. Recent studies suggest that subtle indicators of MS may manifest years before an official diagnosis is made. Recognizing these early signs can be crucial for timely intervention and management.

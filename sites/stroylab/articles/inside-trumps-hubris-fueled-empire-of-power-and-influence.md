@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A gilded tower casts a long shadow over a crowded modern city and public
   square.
+topics:
+  - Deep Dives
 ---
 
 The topic of global population growth and its implications on resources and society has been a subject of intense debate. As the world population continues to rise, questions about sustainability, economic challenges, and social dynamics become increasingly pressing. Understanding these aspects is crucial for shaping policies and strategies that can ensure a balanced future.

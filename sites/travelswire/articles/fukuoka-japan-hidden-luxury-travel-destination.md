@@ -32,6 +32,8 @@ quality_note: >-
   significantly under target word count and contains vague sourcing that raises
   accuracy concerns.
 reading_time: 3
+topics:
+  - Destination Guides
 ---
 ## Strategic Location Makes Fukuoka a Regional Hub
 

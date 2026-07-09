@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Modern compact SUV on a sunlit urban street with a warm, confident
   family-friendly feel.
+topics:
+  - Reviews
 ---
 
 The 2026 Nissan Kicks is a compact SUV that blends style, comfort, and performance into a single, appealing package. Designed for urban explorers and small families alike, the Kicks offers a refreshing driving experience with a touch of sophistication. This SUV is poised to capture attention with its sleek design and practical features.

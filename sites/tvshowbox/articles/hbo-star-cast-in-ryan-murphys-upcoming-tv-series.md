@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Moody soundstage with a director’s chair and a silhouetted performer entering
   dramatic light.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Ryan Murphy, known for his groundbreaking television productions, is set to launch an exciting new series, and a prominent actor from HBO's roster has joined the cast. This collaboration promises to bring a fresh narrative to viewers, blending Murphy's distinctive storytelling style with top-tier acting talent. As anticipation builds, fans are eager to learn more about this upcoming project and what it could mean for the television landscape.

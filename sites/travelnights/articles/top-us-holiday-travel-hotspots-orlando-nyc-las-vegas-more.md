@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Festive travelers in an airport lounge overlooking stylized US holiday
   destination skylines.
+topics:
+  - Destinations
 ---
 
 Orlando, often renowned for its enchanting theme parks and vibrant nightlife, has secured its place among America's top holiday travel destinations. Alongside bustling cities like New York City, Las Vegas, Miami, Tampa, and Honolulu, Orlando offers a unique blend of attractions that promise an unforgettable Christmas and New Year experience. Whether you're drawn to the magic of theme parks or the allure of sunny beaches, these cities provide the perfect backdrop for holiday celebrations.

@@ -34,6 +34,9 @@ quality_note: >-
   tone, but falls short on content length and raises some factual accuracy
   concerns with specific claims about the honorees.
 reading_time: 3
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## Historic Recognition for Global Female Talent
 

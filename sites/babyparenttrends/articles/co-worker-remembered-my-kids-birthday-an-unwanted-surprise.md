@@ -1,25 +1,37 @@
 ---
-title: "Co-Worker Remembered My Kid’s Birthday: An Unwanted Surprise"
-description: "Parenting involves challenges like managing children's social interactions and handling birthday presents. Understanding the etiquette of gift-giving, communicating with other parents, and setting a family policy can ease the pressure and teach children the value of generosity and mindfulness."
-type: "standard"
-status: "published"
-publishDate: "2026-03-19T11:11:27+00:00"
-author: "Taylor Winters"
+title: 'Co-Worker Remembered My Kid’s Birthday: An Unwanted Surprise'
+description: >-
+  Parenting involves challenges like managing children's social interactions and
+  handling birthday presents. Understanding the etiquette of gift-giving,
+  communicating with other parents, and setting a family policy can ease the
+  pressure and teach children the value of generosity and mindfulness.
+type: standard
+status: published
+publishDate: '2026-03-19T11:11:27+00:00'
+author: Taylor Winters
 tags:
-  - "Kids"
-  - "Nurture"
-  - "Parents"
-slug: "co-worker-remembered-my-kids-birthday-an-unwanted-surprise"
+  - Kids
+  - Nurture
+  - Parents
+slug: co-worker-remembered-my-kids-birthday-an-unwanted-surprise
 reading_time: 3
-source_url: "https://babyparenttrends.com/co-worker-remembered-my-kids-birthday-an-unwanted-surprise/"
-imported_from: "wordpress"
+source_url: >-
+  https://babyparenttrends.com/co-worker-remembered-my-kids-birthday-an-unwanted-surprise/
+imported_from: wordpress
 wp_original_id: 17800
-featuredImage: "/assets/images/babyparenttrends-general-article.webp"
+featuredImage: /assets/images/babyparenttrends-general-article.webp
 seo:
-  canonical: "https://babyparenttrends.com/co-worker-remembered-my-kids-birthday-an-unwanted-surprise/"
-  og_title: "Co-Worker Remembered My Kid's Birthday: An Unwanted Surprise - Baby Parent Trends"
-  og_description: "Parenting involves challenges like managing children's social interactions and handling birthday presents. Understanding the etiquette of gift-giving, communicating with other parents, and setting a family policy can ease the pressure and teach children the value of generosity and mindfulness."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://babyparenttrends.com/co-worker-remembered-my-kids-birthday-an-unwanted-surprise/
+  og_title: >-
+    Co-Worker Remembered My Kid's Birthday: An Unwanted Surprise - Baby Parent
+    Trends
+  og_description: >-
+    Parenting involves challenges like managing children's social interactions
+    and handling birthday presents. Understanding the etiquette of gift-giving,
+    communicating with other parents, and setting a family policy can ease the
+    pressure and teach children the value of generosity and mindfulness.
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written parenting content with good tone and keyword relevance, but falls short on length (566 words vs 800-1200 target) and could benefit from stronger SEO optimization in title and meta description."
+quality_note: >-
+  Well-written parenting content with good tone and keyword relevance, but falls
+  short on length (566 words vs 800-1200 target) and could benefit from stronger
+  SEO optimization in title and meta description.
+topics:
+  - Kids
 ---
 
 Parenting presents a myriad of challenges, from managing tantrums to navigating the complex world of children's social interactions. One particularly tricky situation arises when deciding how to handle birthday presents for your child's friends. Many parents find themselves uncertain about whether to reciprocate gifts when their child receives one. This dilemma is more common than you might think, and understanding the nuances can make these social interactions smoother.

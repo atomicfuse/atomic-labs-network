@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Unbranded roadside assistance vehicle near an electric car charging at a
   modern highway station.
+topics:
+  - Electric Cars
 ---
 
 Best known for offering roadside assistance plans and TripTik travel maps in the days before GPS, the American Automobile Association (AAA) is still popular, claiming more than 60 million members in the US and Canada – and now, those members will be able to get preferred pricing at ChargePoint stations.

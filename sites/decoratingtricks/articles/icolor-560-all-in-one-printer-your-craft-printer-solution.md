@@ -1,28 +1,37 @@
 ---
-title: "IColor 560 All in One Printer: Your Craft Printer Solution"
-description: ""
-type: "standard"
+title: 'IColor 560 All in One Printer: Your Craft Printer Solution'
+description: ''
+type: standard
 status: published
-publishDate: "2025-01-30T14:33:35+00:00"
-author: "admin"
+publishDate: '2025-01-30T14:33:35+00:00'
+author: admin
 tags:
-  - "Decor Ideas"
-  - "Design"
-slug: "icolor-560-all-in-one-printer-your-craft-printer-solution"
+  - Decor Ideas
+  - Design
+slug: icolor-560-all-in-one-printer-your-craft-printer-solution
 reading_time: 22
-source_url: "https://decoratingtricks.com/icolor-560-all-in-one-printer-your-craft-printer-solution/"
-imported_from: "wordpress"
+source_url: >-
+  https://decoratingtricks.com/icolor-560-all-in-one-printer-your-craft-printer-solution/
+imported_from: wordpress
 wp_original_id: 21191
-featuredImage: "/assets/images/decoratingtricks-general-article.webp"
+featuredImage: /assets/images/decoratingtricks-general-article.webp
 seo:
-  canonical: "https://decoratingtricks.com/icolor-560-all-in-one-printer-your-craft-printer-solution/"
-  og_title: "IColor 560 All in One Printer: Your Craft Printer Solution - Decorating Tricks"
-  og_description: "This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own. With all the printers on the [&hellip;]"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://decoratingtricks.com/icolor-560-all-in-one-printer-your-craft-printer-solution/
+  og_title: >-
+    IColor 560 All in One Printer: Your Craft Printer Solution - Decorating
+    Tricks
+  og_description: >-
+    This post and photos may contain Amazon or other affiliate links. If you
+    purchase something through any link, I may receive a small commission at no
+    extra charge to you. Any supplies used may be given to me free of charge,
+    however, all projects and opinions are my own. With all the printers on the
+    [&hellip;]
+  twitter_card: summary_large_image
 videos:
-  - id: "38c256b2"
-    url: "https://www.youtube.com/watch?v=yl2FVUA1VWc"
-    position: "after-paragraph-6"
+  - id: 38c256b2
+    url: 'https://www.youtube.com/watch?v=yl2FVUA1VWc'
+    position: after-paragraph-6
 quality_score: 70
 score_breakdown:
   seo_quality: 65
@@ -30,7 +39,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 70
-quality_note: "The article is well-written and informative but severely penalized for excessive length (4321 words vs 800-1200 target) and weak SEO optimization with missing meta description."
+quality_note: >-
+  The article is well-written and informative but severely penalized for
+  excessive length (4321 words vs 800-1200 target) and weak SEO optimization
+  with missing meta description.
+topics:
+  - Decor Ideas
+  - Design Tips
 ---
 
 This post and photos may contain Amazon or other affiliate links. If you purchase something through any link, I may receive a small commission at no extra charge to you. Any supplies used may be given to me free of charge, however, all projects and opinions are my own.

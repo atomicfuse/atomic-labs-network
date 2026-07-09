@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Sunlit bowls of protein- and fiber-rich foods arranged on a clean kitchen
   counter.
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Embarking on a journey to improve your health? High-fiber, protein-rich foods can be your best allies. Yet, some of these nutrient powerhouses often fly under the radar. Let's shine a spotlight on these unsung heroes of a balanced diet.

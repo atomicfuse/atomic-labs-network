@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Paris footballer charges past four shadowed opponents under dramatic stadium
   floodlights
+topics:
+  - Latest News
+  - Leagues
 ---
 
 In a stunning showcase of talent and strategy, Paris Saint-Germain (PSG) has emerged as a dominant force in the UEFA Champions League, defeating four Premier League teams on their journey to the final. This remarkable achievement has not only spotlighted PSG's exceptional prowess but also highlighted the intense competition within European football.

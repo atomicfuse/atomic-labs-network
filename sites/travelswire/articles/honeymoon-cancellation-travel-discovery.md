@@ -34,6 +34,8 @@ reading_time: 4
 image_alt: >-
   Newlyweds plan a coastal honeymoon at a sunlit café with a phone, map, and
   travel essentials.
+topics:
+  - Destination Guides
 ---
 
 ## The Honeymoon Budget Crunch

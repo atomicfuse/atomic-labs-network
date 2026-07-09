@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Modern European skyline with abstract shield and network lines suggesting
   resilience and innovation
+topics:
+  - Finance
+  - Innovation
+  - Tech
 ---
 
 The British economy is undergoing a significant transformation as it grapples with the challenge of stagnant growth and the search for new pathways to prosperity. As the nation emerges from the shadows of recent economic disruptions, key strategies are being developed to foster innovation and stability.

@@ -44,6 +44,10 @@ quality_note: >-
   Strong keyword relevance and tone but significantly under target word count at
   551 words versus the 800-1200 range.
 image_alt: Traveler overlooks a sweeping American road trip landscape at golden hour.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Exploring the United States opens up a world of diverse travel experiences, from stunning national parks to vibrant cultural landmarks. Among the top destinations attracting travelers are Nevada, Texas, California, Florida, Utah, Colorado, and New York. Each state offers its unique blend of attractions that cater to a wide array of interests, ensuring unforgettable adventures.

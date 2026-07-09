@@ -46,6 +46,11 @@ quality_note: >-
 image_alt: >-
   Elegant tasting dishes arranged on a table evoking global culinary travel
   destinations
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Food & Drink
 ---
 
 The Michelin Guide has unveiled its highly anticipated list of top gastronomic travel destinations for 2026, highlighting cities and regions worldwide that offer exceptional culinary experiences. This announcement generates excitement among food enthusiasts and travelers looking to explore diverse cultures through their cuisine.

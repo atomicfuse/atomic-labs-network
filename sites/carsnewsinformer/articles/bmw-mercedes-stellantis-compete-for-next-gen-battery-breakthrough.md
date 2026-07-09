@@ -35,6 +35,9 @@ quality_note: >-
 image_alt: >-
   Three futuristic electric cars race around a glowing battery core in a sleek
   test lab.
+topics:
+  - News
+  - Electric Cars
 ---
 ## Major Automakers Enter Battery Technology Race
 

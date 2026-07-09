@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Open thriller books lit by a blue screen on a rain-streaked table with noir
   shadows
+topics:
+  - TV Shows
 ---
 
 Thriller novels have long captivated readers with their suspenseful plots and intricate character dynamics. As television continues to adapt literary works into visual masterpieces, the demand for gripping stories is ever-growing. Several thrillers stand out with their unique narratives, making them prime candidates for the next wave of TV adaptations.

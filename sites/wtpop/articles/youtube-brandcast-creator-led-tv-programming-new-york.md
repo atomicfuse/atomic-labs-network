@@ -1,9 +1,11 @@
 ---
 title: YouTube's Brandcast Signals New Era of Creator-Led TV Programming
-description: YouTube's push into upfront advertising and New York's thriving creator scene signal a shift toward creator-led programming that's redefining television.
+description: >-
+  YouTube's push into upfront advertising and New York's thriving creator scene
+  signal a shift toward creator-led programming that's redefining television.
 type: standard
 status: published
-publishDate: 2026-05-24
+publishDate: 2026-05-24T00:00:00.000Z
 author: Rachel Long
 tags:
   - TV & Movies
@@ -12,8 +14,8 @@ tags:
   - advertising
   - media
 slug: youtube-brandcast-creator-led-tv-programming-new-york
-reviewer_notes: ""
-source_url: https://theankler.com/youtube-brandcast-binging-with-babish-nyt-cooking/
+reviewer_notes: ''
+source_url: 'https://theankler.com/youtube-brandcast-binging-with-babish-nyt-cooking/'
 source_item_id: 6a0e834216f23264031d7967
 generated_by: claude
 featuredImage: /assets/images/youtube-brandcast-creator-led-tv-programming-new-york.webp
@@ -24,8 +26,13 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 85
   keyword_relevance: 85
-quality_note: Well-written article covering relevant TV/streaming topics with good tone, but falls short of target word count and could benefit from more specific SEO optimization.
+quality_note: >-
+  Well-written article covering relevant TV/streaming topics with good tone, but
+  falls short of target word count and could benefit from more specific SEO
+  optimization.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## The Creator Economy Meets Traditional TV Advertising
 

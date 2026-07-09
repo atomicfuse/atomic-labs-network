@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Pyramid of Khafre at dusk with subtle glowing underground chamber outlines
   beneath the desert sand
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 The recent unveiling of new images showcasing massive hidden structures beneath the Pyramid of Khafre has sent ripples throughout the archaeological community. This groundbreaking discovery has been made possible through advanced satellite imaging technology, providing a fresh perspective on one of Egypt's most iconic landmarks.

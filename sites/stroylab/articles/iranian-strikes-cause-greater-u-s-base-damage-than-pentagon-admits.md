@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Damaged desert airbase at dawn with debris and unmarked personnel assessing
   the aftermath
+topics:
+  - Deep Dives
 ---
 
 The full article content was not available for cleanup. Please provide the complete source article text so it can be properly formatted and published.

@@ -36,6 +36,9 @@ seo:
   og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/04/make_file-7.jpeg'
   twitter_card: summary_large_image
 image_alt: Stylish summer outfit with a ribbed tank top on a sunlit terrace
+topics:
+  - Fashion
+  - Fitness
 ---
 
 As the mercury rises, it's time to revamp your wardrobe with the trendiest summer essentials. Tank tops, an undisputed summer staple, are making a splash in the fashion world, especially on Myntra. Here's a curated list of the eight most stylish tank tops you can shop for on Myntra to dazzle this summer.

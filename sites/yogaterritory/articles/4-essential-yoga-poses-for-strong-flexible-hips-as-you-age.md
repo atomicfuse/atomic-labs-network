@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Older adult practicing yoga in a sunlit room, conveying flexibility, balance,
   and healthy aging.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 As we age, maintaining flexibility and strength in our hips becomes increasingly important for overall mobility and health. Many people experience tight hips due to prolonged sitting or lack of movement, which can lead to discomfort and reduced range of motion. Incorporating specific yoga poses into your routine can help improve hip flexibility and strength, enhancing your daily life and physical activities.

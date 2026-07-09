@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Passport, map, and travel alert markers suggest updated international safety
   advisories.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Travelers planning their next international adventure should be aware of recent updates to travel advisories affecting several popular destinations. Changes in Thailand's alcohol regulations, increased volcanic activity in Colombia, and security concerns in Lebanon are currently shaping travel guidelines. Understanding these issues can help ensure a safe and enjoyable trip.

@@ -1,25 +1,33 @@
 ---
-title: "Glossy Thriller Review: Perfect New Year TV Choice"
-description: "Netflix captivates audiences with \"His & Hers,\" a thrilling series starring Jon Bernthal and Tessa Thompson. Blending intrigue, drama, and suspense, the show explores themes of trust and betrayal, offering a riveting experience with compelling performances and an engaging plotline."
-type: "standard"
+title: 'Glossy Thriller Review: Perfect New Year TV Choice'
+description: >-
+  Netflix captivates audiences with "His & Hers," a thrilling series starring
+  Jon Bernthal and Tessa Thompson. Blending intrigue, drama, and suspense, the
+  show explores themes of trust and betrayal, offering a riveting experience
+  with compelling performances and an engaging plotline.
+type: standard
 status: published
-publishDate: "2026-01-08T09:39:31+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-08T09:39:31+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-  - "TV"
-slug: "glossy-thriller-review-perfect-new-year-tv-choice"
+  - Reviews
+  - TV
+slug: glossy-thriller-review-perfect-new-year-tv-choice
 reading_time: 3
-source_url: "https://tvshowbox.com/glossy-thriller-review-perfect-new-year-tv-choice/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/glossy-thriller-review-perfect-new-year-tv-choice/'
+imported_from: wordpress
 wp_original_id: 24046
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/glossy-thriller-review-perfect-new-year-tv-choice/"
-  og_title: "Glossy Thriller Review: Perfect New Year TV Choice - TV Show Box"
-  og_description: "Netflix captivates audiences with \"His & Hers,\" a thrilling series starring Jon Bernthal and Tessa Thompson. Blending intrigue, drama, and suspense, the show explores themes of trust and betrayal, offering a riveting experience with compelling performances and an engaging plotline."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/01/make_file-1.html"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/glossy-thriller-review-perfect-new-year-tv-choice/'
+  og_title: 'Glossy Thriller Review: Perfect New Year TV Choice - TV Show Box'
+  og_description: >-
+    Netflix captivates audiences with "His & Hers," a thrilling series starring
+    Jon Bernthal and Tessa Thompson. Blending intrigue, drama, and suspense, the
+    show explores themes of trust and betrayal, offering a riveting experience
+    with compelling performances and an engaging plotline.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/01/make_file-1.html'
+  twitter_card: summary_large_image
 quality_score: 61
 score_breakdown:
   seo_quality: 65
@@ -27,7 +35,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "While the article has good tone and covers relevant topics, it appears to review a fictional Netflix series that doesn't exist, and at 451 words it's significantly below the target length."
+quality_note: >-
+  While the article has good tone and covers relevant topics, it appears to
+  review a fictional Netflix series that doesn't exist, and at 451 words it's
+  significantly below the target length.
+topics:
+  - TV News
+  - Reviews
 ---
 
 Netflix continues to captivate audiences with its latest thriller, "His & Hers," featuring the dynamic duo Jon Bernthal and Tessa Thompson. This gripping series blends intrigue, drama, and suspense, promising viewers a riveting experience. As the show unfolds, it delves into complex themes of trust, betrayal, and the intricacies of interpersonal relationships.

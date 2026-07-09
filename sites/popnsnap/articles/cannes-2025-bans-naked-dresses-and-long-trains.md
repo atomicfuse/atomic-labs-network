@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Elegant red carpet arrival with refined couture and soft camera flashes on the
   French Riviera.
+topics:
+  - Fashion
 ---
 
 The Cannes Film Festival, renowned for its glitz and glamour, has introduced a new dress code that is making waves in the fashion world. Known for its iconic red carpet moments, the festival is now setting stricter guidelines to uphold its sophisticated image. This change has left designers and celebrities rethinking their wardrobe choices as they prepare for the prestigious event.

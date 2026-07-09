@@ -1,23 +1,31 @@
 ---
-title: "Top U.S. Travel Destination for 2026 Revealed"
-description: "Explore the top travel destinations for 2026, from South Korea's vibrant culture and Canada's wild Yukon to Egypt's ancient wonders, Portugal's diverse landscapes, Japan's timeless traditions, and New Zealand's breathtaking scenery."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T10:51:47+00:00"
-author: "Malcolm Anderson"
+title: Top U.S. Travel Destination for 2026 Revealed
+description: >-
+  Explore the top travel destinations for 2026, from South Korea's vibrant
+  culture and Canada's wild Yukon to Egypt's ancient wonders, Portugal's diverse
+  landscapes, Japan's timeless traditions, and New Zealand's breathtaking
+  scenery.
+type: standard
+status: published
+publishDate: '2025-12-18T10:51:47+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "top-u-s-travel-destination-for-2026-revealed"
+  - Destinations
+slug: top-u-s-travel-destination-for-2026-revealed
 reading_time: 3
-source_url: "https://travelnights.com/top-u-s-travel-destination-for-2026-revealed/"
-imported_from: "wordpress"
+source_url: 'https://travelnights.com/top-u-s-travel-destination-for-2026-revealed/'
+imported_from: wordpress
 wp_original_id: 36665
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/travelnights-general-article.webp
 seo:
-  canonical: "https://travelnights.com/top-u-s-travel-destination-for-2026-revealed/"
-  og_title: "Top U.S. Travel Destination for 2026 Revealed - Travel Nights"
-  og_description: "Explore unique destinations in 2026, from South Korea's vibrant culture and Canada's wild Yukon to Egypt's ancient wonders and Portugal's diverse landscapes. Discover Japan's traditions and New Zealand's breathtaking scenery for unforgettable travel experiences."
-  twitter_card: "summary_large_image"
+  canonical: 'https://travelnights.com/top-u-s-travel-destination-for-2026-revealed/'
+  og_title: Top U.S. Travel Destination for 2026 Revealed - Travel Nights
+  og_description: >-
+    Explore unique destinations in 2026, from South Korea's vibrant culture and
+    Canada's wild Yukon to Egypt's ancient wonders and Portugal's diverse
+    landscapes. Discover Japan's traditions and New Zealand's breathtaking
+    scenery for unforgettable travel experiences.
+  twitter_card: summary_large_image
 quality_score: 81
 score_breakdown:
   seo_quality: 65
@@ -25,7 +33,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel content with strong keyword relevance and engaging tone, but falls short on word count and has a misleading title that doesn't deliver on its promise of revealing 'the top U.S. destination.'"
+quality_note: >-
+  Well-written travel content with strong keyword relevance and engaging tone,
+  but falls short on word count and has a misleading title that doesn't deliver
+  on its promise of revealing 'the top U.S. destination.'
+topics:
+  - Destinations
 ---
 
 As we set our sights on the exciting travel opportunities in 2026, it's an ideal time to explore unique destinations that promise unforgettable experiences. From vibrant cultural festivals to breathtaking natural wonders, these locations will captivate and inspire any traveler eager to see the world in a new light.

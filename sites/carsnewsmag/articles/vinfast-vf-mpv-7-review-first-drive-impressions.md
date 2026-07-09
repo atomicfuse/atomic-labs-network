@@ -39,6 +39,8 @@ quality_note: >-
   significantly under the target word count and lacks specific technical details
   that would enhance credibility.
 image_alt: Futuristic electric MPV driving along a coastal highway at golden hour
+topics:
+  - Reviews
 ---
 
 The automotive industry is witnessing a revolution with the introduction of the VinFast VF MPV 7, a Vietnamese marvel poised to challenge the status quo. Known for its bold design and advanced technology, this vehicle is set to make waves in the global market. As we delve into its features and performance, it becomes clear why this MPV is generating such buzz among car enthusiasts.

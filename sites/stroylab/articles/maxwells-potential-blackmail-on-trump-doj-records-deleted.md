@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Dim government archive with sealed files and a computer suggesting deleted
   records
+topics:
+  - Deep Dives
 ---
 
 The global financial landscape is undergoing significant changes, and recent developments suggest a shift in economic dynamics. As nations reassess their monetary policies, the implications for international trade and investment are profound. This transformation is driven by various factors, including geopolitical tensions and evolving market demands.

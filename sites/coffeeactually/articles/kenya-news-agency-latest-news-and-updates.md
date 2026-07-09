@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Kenyan coffee cherries being sorted by farmers with drying beds in warm
   morning light
+topics:
+  - Coffee News
 ---
 
 Kenyan coffee farmers and cooperative societies are seeing stronger returns from direct coffee sales, after March transactions generated about Sh1.75 billion for producers through a more transparent marketing route.

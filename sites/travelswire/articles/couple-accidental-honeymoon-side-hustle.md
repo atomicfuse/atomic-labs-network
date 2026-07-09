@@ -1,6 +1,8 @@
 ---
 title: How One Couple Accidentally Made Their Dream Honeymoon Possible
-description: A couple's simple wedding favor project unexpectedly turned into a viral business, generating the funds for their dream honeymoon in Southeast Asia...
+description: >-
+  A couple's simple wedding favor project unexpectedly turned into a viral
+  business, generating the funds for their dream honeymoon in Southeast Asia...
 type: standard
 status: published
 publishDate: 2026-1-22
@@ -12,8 +14,8 @@ tags:
   - entrepreneurship
   - inspirational story
 slug: couple-accidental-honeymoon-side-hustle
-reviewer_notes: ""
-source_url: https://lifestyle.example.com/stories/couple-funds-honeymoon-with-map-business
+reviewer_notes: ''
+source_url: 'https://lifestyle.example.com/stories/couple-funds-honeymoon-with-map-business'
 source_item_id: b7119ecf3b1b305d707bg96b
 generated_by: claude
 featuredImage: /assets/images/couple-accidental-honeymoon-side-hustle.webp
@@ -24,8 +26,13 @@ score_breakdown:
   content_length: 85
   storytelling_quality: 95
   keyword_relevance: 90
-quality_note: Engaging narrative that effectively follows the requested format and tone. The story is well-structured and inspirational, hitting all the key points of the prompt. Factual accuracy is not applicable for this narrative piece.
+quality_note: >-
+  Engaging narrative that effectively follows the requested format and tone. The
+  story is well-structured and inspirational, hitting all the key points of the
+  prompt. Factual accuracy is not applicable for this narrative piece.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 
 ## A Dream Deferred: The Honeymoon That Seemed Impossible

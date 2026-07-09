@@ -39,6 +39,8 @@ reading_time: 2
 image_alt: >-
   Three generations relax on a luxury terrace overlooking ocean, greenery, and
   sunlit hills.
+topics:
+  - Destinations
 ---
 ## Growing Trend in Family Travel
 

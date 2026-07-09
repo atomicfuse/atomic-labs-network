@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Woman and companion walking through a Dublin park at sunrise, suggesting
   steady lifestyle change.
+topics:
+  - Advice
+  - Fitness
+  - Lifestyle
 ---
 
 Dublin woman Kim Ryan reached a turning point after years of struggling with her weight, confidence, and day-to-day wellbeing. At one stage, she began considering weight-loss surgery because lasting change felt out of reach. Instead, her journey became a reminder that sustainable health is often built through support, routine, patience, and a kinder relationship with yourself.

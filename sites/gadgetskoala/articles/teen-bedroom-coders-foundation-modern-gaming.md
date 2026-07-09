@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Retro bedroom computer desk glowing as pixel blocks and network lines form a
   modern game world.
+topics:
+  - Gaming
+  - Tablets
+  - Wearables
 ---
 ## The Forgotten Pioneers of Gaming Culture
 

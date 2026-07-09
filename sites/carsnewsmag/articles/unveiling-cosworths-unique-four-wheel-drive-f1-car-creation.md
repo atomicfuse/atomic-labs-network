@@ -49,6 +49,10 @@ quality_note: >-
 image_alt: >-
   Futuristic Formula 1 prototype in a wind tunnel with airflow smoke around all
   four wheels
+topics:
+  - News
+  - Industry
+  - Concept Cars
 ---
 
 In an unprecedented move, Cosworth, a renowned British engineering company, made a bold decision to construct its own Formula 1 vehicle.

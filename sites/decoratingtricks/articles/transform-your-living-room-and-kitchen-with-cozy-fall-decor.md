@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Cozy autumn living room and kitchen with pumpkins, candles, throws, and warm
   seasonal decor
+topics:
+  - Design Tips
+  - Home Improvement
+  - How To
 ---
 
 As the leaves turn and the temperatures drop, creating a warm and inviting atmosphere in your home becomes a top priority. In this guide, we'll explore how to transform your living room and kitchen with cozy fall decor, inspired by OmabelleTV's latest video.

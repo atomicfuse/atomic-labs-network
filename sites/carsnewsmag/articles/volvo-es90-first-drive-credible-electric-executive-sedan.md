@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Premium electric fastback sedan driving through a modern business district at
   golden hour
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 The Volvo ES90 arrives as a fresh alternative for drivers who want the comfort of an executive saloon with the low running costs of a premium electric car. It blends long-distance range, rapid charging, advanced safety technology and a practical hatchback body, making it a serious option for fleets and company car users.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Solitary figure by a rainy window with an empty chair and suitcase in a dim
   room.
+topics:
+  - breaking news
 ---
 ## Groundbreaking Research Exposes Mental Health Struggles
 

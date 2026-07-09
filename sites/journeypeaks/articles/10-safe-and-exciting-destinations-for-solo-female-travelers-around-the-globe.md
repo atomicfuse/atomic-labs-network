@@ -50,6 +50,10 @@ quality_note: >-
 image_alt: >-
   Solo female traveler overlooks a welcoming city and natural landscape at
   golden hour.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 There's an undeniable allure to solo travel, especially for women. It's an opportunity to discover new horizons, experience different cultures, and build self-confidence. If you're a woman planning a solo voyage, here are ten destinations you can explore without concern.

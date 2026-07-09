@@ -29,6 +29,9 @@ seo:
 image_alt: >-
   Baby shoes in a stylish nursery with silhouetted parents and paparazzi flashes
   beyond the window.
+topics:
+  - Celebrities
+  - Influencers
 ---
 
 Logan Paul, a prominent figure in the entertainment and social media realms, often finds himself at the center of public attention due to his high-profile lifestyle and controversial statements. Recently, discussions have emerged about his potential future as a parent, particularly focusing on remarks from his ex-girlfriend.

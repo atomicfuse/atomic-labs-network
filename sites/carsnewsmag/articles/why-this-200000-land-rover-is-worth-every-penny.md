@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Luxury heritage SUV on a misty estate driveway at dawn with refined modern
   details
+topics:
+  - Concept Cars
 ---
 
 In the realm of luxury SUVs, Land Rover continues to push the boundaries of innovation and design. With the introduction of the 2026 Admiral Kent Heritage Works, they are set to redefine what it means to blend heritage with modern engineering. This vehicle promises a unique experience, combining traditional craftsmanship with cutting-edge technology to deliver a truly remarkable driving experience.

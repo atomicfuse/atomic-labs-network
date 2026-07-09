@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Football fan traveler prepared with carry-on and documents in a modern airport
   security line.
+topics:
+  - Culture
+  - Guides & Tips
 ---
 
 As the anticipation builds for Super Bowl LX, New England Patriots fans are gearing up to support their team at Levi's Stadium. For those planning to travel, ensuring a seamless airport experience is essential. Here are some strategic tips to help Patriots fans navigate airport security efficiently and arrive at the game ready to cheer.

@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Teen footballer sprints under stadium lights as blurred players trail behind
   on a rain-slick pitch.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 The Premier League is renowned for showcasing some of the most promising young talents in football. With clubs increasingly investing in youth development, teenage players are making significant impacts on the biggest stages. These young athletes are not only contributing to their teams but also setting new benchmarks for what is expected from youthful talent in the sport.

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Unbranded electric SUV charging at dawn as two engineers shake hands beside a
   modern charger
+topics:
+  - Electric Cars
 ---
 
 While Lucid CEO and CTO Peter Rawlinson has been pretty critical of Tesla in the past, the executive does appear to be appreciative of the Lucid Gravity's recent access to Tesla Superchargers.

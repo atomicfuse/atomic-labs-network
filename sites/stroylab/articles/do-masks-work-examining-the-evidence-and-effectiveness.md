@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Abstract global finance table with network routes and resilient market
   structures
+topics:
+  - Deep Dives
 ---
 
 The world of finance and geopolitics often intersects in unexpected ways, revealing the intricate dynamics that shape global economies. Recent developments in the financial sector have drawn attention to the complex relationship between global markets and geopolitical tensions. As these forces interplay, they create ripples that impact economies worldwide, highlighting the need for strategic navigation in uncertain times.

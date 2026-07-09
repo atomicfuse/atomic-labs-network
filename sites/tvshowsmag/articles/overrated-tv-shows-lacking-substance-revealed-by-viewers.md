@@ -1,25 +1,35 @@
 ---
-title: "Overrated TV Shows Lacking Substance Revealed by Viewers"
-description: "In the world of television, some shows generate immense buzz but don't always meet expectations. Factors like star-studded casts and social media hype contribute to popularity, yet not all series maintain momentum, leading to diverse opinions and viewer experiences."
-type: "standard"
-status: "published"
-publishDate: "2025-10-27T10:57:11+00:00"
-author: "Taylor Winters"
+title: Overrated TV Shows Lacking Substance Revealed by Viewers
+description: >-
+  In the world of television, some shows generate immense buzz but don't always
+  meet expectations. Factors like star-studded casts and social media hype
+  contribute to popularity, yet not all series maintain momentum, leading to
+  diverse opinions and viewer experiences.
+type: standard
+status: published
+publishDate: '2025-10-27T10:57:11+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "overrated-tv-shows-lacking-substance-revealed-by-viewers"
+  - TV News
+  - TV Shows
+slug: overrated-tv-shows-lacking-substance-revealed-by-viewers
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/overrated-tv-shows-lacking-substance-revealed-by-viewers/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/overrated-tv-shows-lacking-substance-revealed-by-viewers/
+imported_from: wordpress
 wp_original_id: 28102
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/tvshowsmag-general-article.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/overrated-tv-shows-lacking-substance-revealed-by-viewers/"
-  og_title: "Overrated TV Shows Lacking Substance Revealed by Viewers - TV Shows Magazine"
-  og_description: "In the world of television, some shows generate immense buzz but don't always meet expectations. Factors like star-studded casts and social media hype contribute to popularity, yet not all series maintain momentum, leading to diverse opinions and viewer experiences."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2025/10/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/overrated-tv-shows-lacking-substance-revealed-by-viewers/
+  og_title: Overrated TV Shows Lacking Substance Revealed by Viewers - TV Shows Magazine
+  og_description: >-
+    In the world of television, some shows generate immense buzz but don't
+    always meet expectations. Factors like star-studded casts and social media
+    hype contribute to popularity, yet not all series maintain momentum, leading
+    to diverse opinions and viewer experiences.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2025/10/make_file-1.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and structure but significantly under target word count at 551 words, impacting overall content value."
+quality_note: >-
+  Well-written article with good tone and structure but significantly under
+  target word count at 551 words, impacting overall content value.
+topics:
+  - TV News
 ---
 
 In the world of television, some shows capture the spotlight and generate immense buzz, often being labeled as must-see TV. However, not all of these hyped series live up to the expectations set by their fervent fan bases. What makes a show overhyped, and why do certain series fail to resonate with everyone?

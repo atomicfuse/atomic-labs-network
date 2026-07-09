@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Elegant wine cellar still life with an unlabeled bottle, ruby wine glass, and
   warm oak tones.
+topics:
+  - Wine news
 ---
 ## Brunello Di Montalcino 2019 Gains Collector Recognition
 

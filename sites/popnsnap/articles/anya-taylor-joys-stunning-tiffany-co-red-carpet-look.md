@@ -31,6 +31,9 @@ seo:
 image_alt: >-
   Glamorous blonde woman in black couture and jewels on a winter red carpet with
   teal holiday lights
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 In the world of fashion, red carpet events often serve as the ultimate stage where high-profile personalities showcase their sartorial elegance. Recently, Anya Taylor-Joy, a rising star in Hollywood, graced Tiffany & Co.'s holiday celebration, captivating attendees with her striking ensemble. Her choice of attire, crafted by the innovative designer Dilara Findikoglu, was nothing short of a fashion spectacle.

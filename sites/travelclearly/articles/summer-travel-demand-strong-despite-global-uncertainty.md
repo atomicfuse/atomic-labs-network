@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Travelers watch a train cross a mountain viaduct, suggesting strong summer
   travel demand despite uncertainty.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Travelers Refuse to Stay Home This Summer
 

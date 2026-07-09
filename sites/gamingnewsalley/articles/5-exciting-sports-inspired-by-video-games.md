@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Athletes compete in a futuristic arena blending real sports with video
   game-inspired technology.
+topics:
+  - Gaming News
 ---
 
 Video games have long been a source of inspiration and innovation, shaping various aspects of popular culture. Among these influences, a fascinating trend has emerged: the creation of real-life sports inspired by video games. In recent years, this phenomenon has gained momentum, leading to the development of new sports that blend the digital and physical worlds. This article delves into five thrilling sports that have successfully transitioned from the virtual realm to real-life excitement.

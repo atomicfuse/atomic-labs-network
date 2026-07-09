@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Graduates face a sunlit stage where a green frog-like speaker stands at a
   commencement podium.
+topics:
+  - Culture Buzz
 ---
 
 Kermit the Frog recently delivered a heartfelt and inspiring commencement speech that left a lasting impression on graduates and attendees alike. The beloved Muppet character shared his wisdom with the University of Maryland's Class of 2023, offering unique insights into life after college.

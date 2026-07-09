@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A person walks along a sunlit park path, suggesting a simple daily habit for
   better health.
+topics:
+  - Mental Health
 ---
 
 Walking is a simple yet powerful activity that can significantly enhance your health and well-being. Recent studies suggest that taking just 7,000 steps a day can lead to remarkable health benefits, reducing the risk of mortality and improving cardiovascular health. While the widely popular notion of 10,000 steps remains, this new insight offers a more achievable target for many.

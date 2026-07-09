@@ -1,24 +1,36 @@
 ---
-title: "Top DC Comics Collections Recommended by James Gunn for Beginners"
-description: "Explore the vast world of DC Comics with James Gunn's recommendations for new readers, featuring iconic characters like Superman and Batman. These collections offer rich narratives and diverse themes, perfect for those beginning their superhero journey."
-type: "standard"
-status: "published"
-publishDate: "2025-08-14T05:21:32+00:00"
-author: "Arthur Daly"
+title: Top DC Comics Collections Recommended by James Gunn for Beginners
+description: >-
+  Explore the vast world of DC Comics with James Gunn's recommendations for new
+  readers, featuring iconic characters like Superman and Batman. These
+  collections offer rich narratives and diverse themes, perfect for those
+  beginning their superhero journey.
+type: standard
+status: published
+publishDate: '2025-08-14T05:21:32+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "top-dc-comics-collections-recommended-by-james-gunn-for-beginners"
+  - Pop Culture
+slug: top-dc-comics-collections-recommended-by-james-gunn-for-beginners
 reading_time: 3
-source_url: "https://geekystudios.com/top-dc-comics-collections-recommended-by-james-gunn-for-beginners/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/top-dc-comics-collections-recommended-by-james-gunn-for-beginners/
+imported_from: wordpress
 wp_original_id: 635
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/geekystudios-general-article.webp
 seo:
-  canonical: "https://geekystudios.com/top-dc-comics-collections-recommended-by-james-gunn-for-beginners/"
-  og_title: "Top DC Comics Collections Recommended by James Gunn for Beginners - Geeky Studios"
-  og_description: "Explore the vast world of DC Comics with James Gunn's recommendations for new readers, featuring iconic characters like Superman and Batman. These collections offer rich narratives and diverse themes, perfect for those beginning their superhero journey."
-  og_image: "https://geekystudios.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/top-dc-comics-collections-recommended-by-james-gunn-for-beginners/
+  og_title: >-
+    Top DC Comics Collections Recommended by James Gunn for Beginners - Geeky
+    Studios
+  og_description: >-
+    Explore the vast world of DC Comics with James Gunn's recommendations for
+    new readers, featuring iconic characters like Superman and Batman. These
+    collections offer rich narratives and diverse themes, perfect for those
+    beginning their superhero journey.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written pop culture content with good tone and accuracy, but significantly too short at 499 words for the site's 800-1200 word target range."
+quality_note: >-
+  Well-written pop culture content with good tone and accuracy, but
+  significantly too short at 499 words for the site's 800-1200 word target
+  range.
+topics:
+  - Pop Culture
 ---
 
 Exploring the immersive world of DC Comics can be an exhilarating journey, especially for those who are new to the universe of superheroes, villains, and intricate storylines. With an expansive library of compelling narratives, DC Comics offers something for every type of reader. To help newcomers find their footing, renowned filmmaker James Gunn has shared his top picks for DC Comics collections that are perfect for those just starting their adventure.

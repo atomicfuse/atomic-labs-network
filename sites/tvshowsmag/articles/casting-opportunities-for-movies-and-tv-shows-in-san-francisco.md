@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Film crew and actors prepare on a golden-hour San Francisco street with city
   hills in the background.
+topics:
+  - TV News
 ---
 
 San Francisco, a city renowned for its iconic landmarks and vibrant cultural scene, continues to attract the film and television industry. With its unique blend of historic architecture, scenic beauty, and diverse neighborhoods, the city offers an ideal backdrop for a variety of productions. As new and exciting projects are continually being planned, San Francisco remains a top choice for filmmakers and TV producers.

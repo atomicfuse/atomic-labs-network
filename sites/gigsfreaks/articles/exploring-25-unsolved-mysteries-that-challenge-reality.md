@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A silhouetted researcher faces a surreal archive of artifacts, star maps, and
   impossible shadows.
+topics:
+  - Internet Mysteries
 ---
 
 The world is full of enigmas that leave even the most seasoned scientists scratching their heads. In this compilation, we delve into 25 unsolved mysteries that continue to baffle experts and defy the laws of physics and science. As we uncover more about the universe, these mysteries remind us of how much we still have to learn.

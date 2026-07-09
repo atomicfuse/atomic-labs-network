@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Young adult watching a glowing old television in a nostalgic dorm room at
   night.
+topics:
+  - tv shows
 ---
 ## The Power of Childhood Television
 

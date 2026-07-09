@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Students prepare colorful affordable meals together in a bright kitchen
   setting.
+topics:
+  - Healthy Recipes
+  - Special Diets
 ---
 
 Keeping up a healthy diet while on a tight budget may seem daunting, but it's a challenge being tackled head-on by the Affordable Meals campaign. Led by the University of Manitoba's Student Support, the initiative is aimed at helping students gain access to nutritious, low-cost meals.

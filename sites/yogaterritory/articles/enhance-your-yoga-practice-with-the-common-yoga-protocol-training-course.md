@@ -48,6 +48,10 @@ quality_note: >-
   significantly short of the target word count and lacks strong SEO optimization
   with weak title and missing meta description.
 image_alt: Diverse group practicing yoga at sunrise in a peaceful courtyard
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 The Common Yoga Protocol Training Course is a unique opportunity for yoga enthusiasts to deepen their practice and understanding of yoga. Held on the occasion of the International Day of Yoga 2025, this course is organized by Shree H.V.P. Mandal's Degree College of Physical Education in Amravati, Maharashtra, India. As a multi-faculty autonomous college, Shree H.V.P. Mandal's Degree College offers a comprehensive program that is both educational and enriching for participants.

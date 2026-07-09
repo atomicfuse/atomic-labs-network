@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Wedding table with rings, flowers, and hidden blank financial papers under a
   napkin
+topics:
+  - Influencers
 ---
 
 ## Introduction: The Hidden Debt Dilemma

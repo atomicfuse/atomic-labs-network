@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   Modern kitchen appliances surrounded by sunlit airborne particles with an air
   purifier nearby
+topics:
+  - Technology
+  - Environment
 ---
 
 In our daily lives, we often overlook the invisible particles that surround us, especially those emitted by common household appliances. A recent study has shed light on how these everyday items release trillions of potentially harmful particles into the air, which could have implications for indoor air quality and our health.

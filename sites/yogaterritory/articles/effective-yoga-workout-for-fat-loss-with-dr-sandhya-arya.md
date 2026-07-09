@@ -43,6 +43,10 @@ quality_note: >-
   at 389 words (well below the 800-1200 target), which severely impacts its
   overall quality score.
 image_alt: Sunlit yoga studio with a woman practicing a flowing pose on a mat
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Yoga has long been celebrated for its myriad health benefits, including flexibility, mental clarity, and weight management. In this blog post, we delve into a specialized yoga workout session crafted by Dr. Sandhya Arya, an esteemed Naturopath Doctor with over 20 years of experience in the field of yoga. This session is specifically designed to aid in fat loss while promoting overall well-being.

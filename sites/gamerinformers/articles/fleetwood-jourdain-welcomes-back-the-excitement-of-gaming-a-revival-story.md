@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Gamers of different ages gather in a warmly lit community gaming room with
   colorful screen glow.
+topics:
+  - Gaming News
 ---
 
 Enthusiasts of digital entertainment in Evanston can once again experience the thrill of gaming at the renowned Fleetwood-Jourdain Community Center, a popular venue known for fostering community engagement through various activities. This magnificent center is reopening its doors to the world of gaming, in a move that promises to bring back the excitement and camaraderie that video games offer.

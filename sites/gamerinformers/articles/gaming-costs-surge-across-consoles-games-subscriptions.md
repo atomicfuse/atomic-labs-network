@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Game controller surrounded by coins, accessories, and PC parts on a modern
   desk
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## Gaming's Price Problem Intensifies
 

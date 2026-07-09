@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Fresh broccoli and cauliflower in soft kitchen light suggesting digestive
   health and prevention
+topics:
+  - Health News
 ---
 
 Colon cancer remains a significant health challenge worldwide, prompting researchers to examine the role diet plays in its prevention. Emerging evidence suggests that consuming cruciferous vegetables, like broccoli, could offer protective benefits against this type of cancer. This article delves into the potential link between broccoli intake and reduced colon cancer risk, drawing on current research findings and nutritional insights.

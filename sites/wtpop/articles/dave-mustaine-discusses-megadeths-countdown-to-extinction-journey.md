@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Silhouetted metal guitarist on a smoky arena stage beside a cracked hourglass
   under red spotlights.
+topics:
+  - Music
+  - Influencers
 ---
 
 Legendary thrash metal band Megadeth is set to release what could be their final album, marking a significant milestone in the career of their frontman, Dave Mustaine. Known for pioneering the thrash metal genre, Mustaine has been at the helm of Megadeth since its inception, guiding the band through decades of evolution and influence in the heavy metal scene.

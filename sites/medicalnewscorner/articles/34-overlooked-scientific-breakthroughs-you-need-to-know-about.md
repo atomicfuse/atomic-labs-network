@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Glowing scientific symbols emerge from shadow in a futuristic lab-library
   space.
+topics:
+  - Research
+  - Wellness
 ---
 
 Scientific discoveries often reshape our understanding of the world, yet many groundbreaking findings barely receive the attention they deserve. As society moves rapidly through technological advancements, some scientific milestones are overshadowed or simply go unnoticed by the general public. This article explores fascinating discoveries that, despite their significance, have been largely shrugged off by the masses.

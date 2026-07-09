@@ -35,6 +35,8 @@ quality_note: >-
   errors about FBI's season count and timeline, plus the content is too short
   for target length.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## OA's Shocking Exit Sets Up Major Season 9 Storyline
 

@@ -40,6 +40,9 @@ quality_note: >-
   heading structure, and contains vague claims without specific details about
   the album.
 image_alt: 'Singer-songwriter in blue stage light performing on an intimate, moody stage'
+topics:
+  - Music
+  - Influencers
 ---
 
 Erin Harkes, a dynamic presence in the Albany music scene, is making waves with her latest release, an album that delves into themes of personal growth and emotional resilience. Known for her powerful voice and engaging stage presence, Harkes brings a fresh perspective to her music, captivating audiences with every performance.

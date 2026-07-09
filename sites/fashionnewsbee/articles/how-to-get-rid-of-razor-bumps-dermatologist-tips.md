@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Spa-like shaving essentials beside a smooth moisturized leg in soft natural
   bathroom light.
+topics:
+  - Beauty
 ---
 ## Understanding Razor Bumps and Why They Occur
 

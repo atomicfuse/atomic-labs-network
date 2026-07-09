@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Golden Indonesian landscape with volcanic lake, temple silhouettes, coral sea,
   and a lone figure on a ridge
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Bali remains one of Asia's most beloved escapes, but Indonesia's travel story stretches far beyond its famous beaches and rice terraces. Across this vast archipelago, visitors can find volcanic lakes, ancient temples, coral-rich seas, tribal villages, wildlife encounters, and fast-growing resort regions that reveal the country's remarkable diversity.

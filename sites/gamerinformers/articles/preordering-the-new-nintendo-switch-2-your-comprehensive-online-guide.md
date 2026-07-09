@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Unbranded handheld gaming device beside checkout screens, suggesting a fast
   online preorder rush
+topics:
+  - Gaming News
 ---
 
 If you're a gaming enthusiast eagerly waiting to get your hands on the latest Nintendo Switch 2, you're not alone. The demand for this new gaming console is sky-high, and securing one can be quite a challenge. But worry not, we have some tips and tricks that might help you navigate the online marketplaces successfully.

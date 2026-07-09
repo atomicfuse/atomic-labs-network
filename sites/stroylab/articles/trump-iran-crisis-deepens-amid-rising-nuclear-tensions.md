@@ -35,6 +35,8 @@ quality_note: >-
 image_alt: >-
   Empty diplomatic briefing room with tense lighting and a blurred world map in
   the background
+topics:
+  - Deep Dives
 ---
 
 *No article content was provided. The body contained only a placeholder message and could not be processed.*

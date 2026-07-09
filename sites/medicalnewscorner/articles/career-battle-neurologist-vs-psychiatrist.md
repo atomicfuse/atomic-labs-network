@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Two doctors in a modern clinic framed by subtle brain and counseling visual
   cues
+topics:
+  - Health News
 ---
 
 # Career Battle: Neurologist vs Psychiatrist

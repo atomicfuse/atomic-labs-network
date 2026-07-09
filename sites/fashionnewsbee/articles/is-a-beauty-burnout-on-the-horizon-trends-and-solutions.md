@@ -33,6 +33,8 @@ seo:
 image_alt: >-
   Chaotic beauty products transition into a calm, minimalist skincare vanity
   setup.
+topics:
+  - Beauty
 ---
 
 With an overwhelming influx of beauty and skincare products hitting the market, is the beauty industry approaching a point of exhaustion? The surge of new products, coupled with the constant pressure to keep up with the latest trends, could potentially lead to a phenomenon known as 'beauty burnout'.

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Aspiring actors wait on a foggy San Francisco street with a film camera and
   bridge in the distance.
+topics:
+  - TV News
 ---
 
 San Francisco, a city renowned for its breathtaking scenery and vibrant culture, is increasingly becoming a favored location for film and television productions. This bustling metropolis offers a unique backdrop that has attracted both major Hollywood films and popular TV series. From its iconic Golden Gate Bridge to the bustling streets of Chinatown, San Francisco provides a dynamic setting that enhances storytelling and captivates audiences worldwide.

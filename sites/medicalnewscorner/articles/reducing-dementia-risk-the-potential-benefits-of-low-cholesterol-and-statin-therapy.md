@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Heart and brain forms connected by a soft ribbon beside wellness items in warm
   morning light.
+topics:
+  - Research
 ---
 
 Looking after your cholesterol levels may be a significant step towards reducing your risk of dementia, according to recent medical research. This is a critical health insight, as dementia is a growing concern globally.

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Anonymous heroes face a glowing multiverse portal over a ruined futuristic
   city.
+topics:
+  - Celebrities
 ---
 
 The Marvel Cinematic Universe (MCU) continues to captivate fans with its intricate storytelling and ever-expanding roster of characters. As anticipation builds for the upcoming "Avengers: Secret Wars" film, there is increasing speculation about the cast and the potential return of beloved characters from across the multiverse.

@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Twilight West Coast shoreline with subtle radar overlays and distant drone
   silhouettes over the Pacific
+topics:
+  - News
+  - Industry
 ---
 
 The prospect of Iranian drones reaching the U.S. West Coast, particularly California, raises significant security concerns. This article delves into the types of attack drones Iran possesses and evaluates whether they could potentially strike targets as far as California.

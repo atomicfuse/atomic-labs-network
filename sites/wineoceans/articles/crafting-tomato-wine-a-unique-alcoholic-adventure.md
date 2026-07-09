@@ -35,6 +35,8 @@ quality_note: >-
 image_alt: >-
   A glass of rosé-gold tomato wine beside heirloom tomatoes on a warmly lit
   rustic counter
+topics:
+  - Wine news
 ---
 ## The Rise of Unconventional Wine Making
 

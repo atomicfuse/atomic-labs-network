@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Toy-scale race cars speed through a glowing loop track in a vibrant arcade
   racing scene.
+topics:
+  - Reviews
 ---
 
 Hot Wheels enthusiasts and racing game lovers have a new reason to celebrate with the release of "Hot Wheels Let's Race: Ultimate Speed." This high-octane game promises to deliver an adrenaline-pumping experience filled with exciting races and stunning tracks. Players can expect a thrilling adventure that captures the essence of the iconic toy brand.

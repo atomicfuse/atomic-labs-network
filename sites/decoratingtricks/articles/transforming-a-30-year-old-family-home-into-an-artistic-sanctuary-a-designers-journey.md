@@ -53,6 +53,9 @@ quality_note: >-
 image_alt: >-
   Sunlit living room blending traditional details with modern art and refined
   contemporary decor.
+topics:
+  - Design Tips
+  - Home Improvement
 ---
 
 When it comes to home design, the art of transformation is a delicate dance between respecting the past and embracing the future. This was the balancing act that interior designer Tanya Mallavarapu faced when she took on the task of renovating her in-laws' 30-year-old family residence. The result is a visually stunning art haven that seamlessly blends tradition and modernity.

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Women of different ages discuss preventive health screenings with a clinician
   in a bright clinic.
+topics:
+  - Advice
 ---
 
 As a new year unfolds, many women consider prioritizing their health. An essential part of this journey involves understanding and undergoing preventive health screenings. These tests are crucial in identifying potential issues before they become serious, allowing for early interventions and better health outcomes.

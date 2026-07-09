@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Coastal vineyard rows stretch toward low hills and sea mist under warm
   golden-hour light.
+topics:
+  - Nutrition Myths
 ---
 ## The Rise of an Unlikely Wine Star
 

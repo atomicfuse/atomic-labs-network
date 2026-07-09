@@ -37,6 +37,9 @@ quality_note: >-
   contains some questionable scientific claims that may be inaccurate or
   oversimplified.
 image_alt: Tilted Uranus glowing in space with subtle magnetic arcs and atmospheric bands
+topics:
+  - Space
+  - Physics
 ---
 
 Uranus, the seventh planet from the sun, has been the subject of many studies and speculations. Its odd tilt, peculiar weather patterns, and unique magnetic field have long puzzled astronomers. However, a recent study shatters previous assumptions and sheds new light on this mysterious celestial body.

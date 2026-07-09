@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Organized traveler walks confidently through a busy modern airport terminal
   with carry-on luggage.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Travelers should be aware of the top ten mistakes commonly made at airports, which have the potential to ruin a vacation. From arriving late to the airport to issues at security, these errors can lead to disastrous consequences. Learn how to avoid these pitfalls and ensure a smooth travel experience in 2025.

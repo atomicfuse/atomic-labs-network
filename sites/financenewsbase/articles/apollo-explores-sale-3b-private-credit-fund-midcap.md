@@ -32,6 +32,8 @@ quality_note: >-
   Strong professional tone and excellent topic relevance, but significantly
   under target word count at 506 words versus the 800-1200 range.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 ## Apollo Considers Strategic Exit from Public Private Credit Vehicle
 

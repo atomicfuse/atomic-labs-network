@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Confident mature woman with radiant skin and silver hair at a softly lit
   beauty vanity
+topics:
+  - Beauty Tips
+  - Destinations
 ---
 
 Laura Geller, a renowned name in the beauty industry, has built a remarkable reputation for delivering top-notch makeup products tailored to enhance mature skin. Her journey, filled with groundbreaking innovations and a deep understanding of her audience, has made her brand a trusted choice for many.

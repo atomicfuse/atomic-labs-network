@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Singaporean father and child share a candid home moment with a phone recording
   nearby.
+topics:
+  - Kids
 ---
 
 In the evolving digital landscape, TikTok has emerged as a platform bridging the gap between creators and audiences in unexpected ways. Among these creators, a unique community known as MyDadEra is gaining traction, focusing on the experiences and narratives of fatherhood. This vibrant collective showcases the multifaceted roles of fathers in Singapore, offering a fresh perspective on parenting and family life.

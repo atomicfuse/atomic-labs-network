@@ -36,6 +36,9 @@ quality_note: >-
 image_alt: >-
   Modern electric bike on a warm city street with subtle Valentine-inspired red
   accents
+topics:
+  - News
+  - Electric Cars
 ---
 ## Valentine's Day E-Bike Deals Arrive
 

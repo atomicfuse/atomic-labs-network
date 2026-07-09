@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Unbranded gaming laptop glowing with neon light trails on a dark futuristic
   desk
+topics:
+  - Gaming News
 ---
 
 Asus has introduced its latest lineup of gaming laptops, now equipped with the powerful GeForce RTX 5070 laptop GPU, offering gamers an enhanced experience. These laptops start at a price point of $1799, making them a compelling choice for gaming enthusiasts looking for performance and value.

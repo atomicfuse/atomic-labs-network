@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Three singers on a dramatic stage with spotlights and an empty microphone
   stand suggesting elimination
+topics:
+  - TV News
+  - Recommendations
 ---
 
 **Introduction**

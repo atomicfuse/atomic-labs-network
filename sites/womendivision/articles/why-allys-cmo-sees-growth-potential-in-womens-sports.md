@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Female executive overlooks women soccer players training in a modern stadium
   at golden hour.
+topics:
+  - Advice
 ---
 
 In the world of sports marketing, few figures are as influential as Andrea Brimmer. As the Chief Marketing and Public Relations Officer at Ally Financial, Brimmer has played a pivotal role in transforming the landscape of women's sports. Her efforts to elevate the visibility and support for women athletes have not only garnered attention but have also set a benchmark for corporate involvement in sports sponsorships.

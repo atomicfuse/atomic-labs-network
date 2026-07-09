@@ -1,26 +1,35 @@
 ---
-title: "Shailene Woodley Joins Hulu Drama; Derek Hough Hosts Extra"
-description: "Hollywood's new Hulu drama series \"Count Me In\" is generating buzz with its star-studded cast featuring Shailene Woodley and Lindsay Lohan, promising a thrilling narrative filled with suspense, mystery, and unexpected twists."
-type: "standard"
+title: Shailene Woodley Joins Hulu Drama; Derek Hough Hosts Extra
+description: >-
+  Hollywood's new Hulu drama series "Count Me In" is generating buzz with its
+  star-studded cast featuring Shailene Woodley and Lindsay Lohan, promising a
+  thrilling narrative filled with suspense, mystery, and unexpected twists.
+type: standard
 status: published
-publishDate: "2025-08-14T04:33:32+00:00"
-author: "Taylor Winters"
+publishDate: '2025-08-14T04:33:32+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV"
-  - "Upcoming"
-slug: "shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra"
+  - TV News
+  - TV
+  - Upcoming
+slug: shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra
 reading_time: 3
-source_url: "https://tvshowbox.com/shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra/
+imported_from: wordpress
 wp_original_id: 23929
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra/"
-  og_title: "Shailene Woodley Joins Hulu Drama; Derek Hough Hosts Extra - TV Show Box"
-  og_description: "Hollywood's new series \"Count Me In\" captivates with a thrilling narrative and star-studded cast featuring Shailene Woodley and Lindsay Lohan. The show promises suspense and mystery, with high expectations for its premiere and a standout addition to television."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/08/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/shailene-woodley-joins-hulu-drama-derek-hough-hosts-extra/
+  og_title: Shailene Woodley Joins Hulu Drama; Derek Hough Hosts Extra - TV Show Box
+  og_description: >-
+    Hollywood's new series "Count Me In" captivates with a thrilling narrative
+    and star-studded cast featuring Shailene Woodley and Lindsay Lohan. The show
+    promises suspense and mystery, with high expectations for its premiere and a
+    standout addition to television.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/08/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 51
 score_breakdown:
   seo_quality: 25
@@ -28,7 +37,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 15
   keyword_relevance: 80
-quality_note: "The article has strong tone and keyword coverage but appears to contain fabricated information about a non-existent Hulu series, severely impacting credibility and SEO effectiveness."
+quality_note: >-
+  The article has strong tone and keyword coverage but appears to contain
+  fabricated information about a non-existent Hulu series, severely impacting
+  credibility and SEO effectiveness.
+topics:
+  - TV News
 ---
 
 Hollywood is abuzz with news of a captivating new television series, "Count Me In," which promises to intrigue audiences with its thrilling narrative and star-studded cast. This upcoming show is already generating excitement as it brings together renowned talents and an intense storyline that is expected to capture viewers' imaginations.

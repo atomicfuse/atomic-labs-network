@@ -1,26 +1,38 @@
 ---
-title: "Rising Coffee Bean Prices Challenge Belton Coffee Shop Owner"
-description: "Coffee lovers in Belton face rising coffee bean prices, impacting local businesses as shop owners must find innovative solutions to maintain profitability and customer satisfaction amid global supply chain disruptions and adverse weather in coffee-producing regions like Brazil."
-type: "standard"
+title: Rising Coffee Bean Prices Challenge Belton Coffee Shop Owner
+description: >-
+  Coffee lovers in Belton face rising coffee bean prices, impacting local
+  businesses as shop owners must find innovative solutions to maintain
+  profitability and customer satisfaction amid global supply chain disruptions
+  and adverse weather in coffee-producing regions like Brazil.
+type: standard
 status: published
-publishDate: "2026-04-06T08:15:26+00:00"
-author: "Taylor Winters"
+publishDate: '2026-04-06T08:15:26+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Beans"
-  - "News"
-slug: "rising-coffee-bean-prices-challenge-belton-coffee-shop-owner"
+  - Coffee News
+  - Beans
+  - News
+slug: rising-coffee-bean-prices-challenge-belton-coffee-shop-owner
 reading_time: 2
-source_url: "https://coffeeactually.com/rising-coffee-bean-prices-challenge-belton-coffee-shop-owner/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/rising-coffee-bean-prices-challenge-belton-coffee-shop-owner/
+imported_from: wordpress
 wp_original_id: 51433
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/rising-coffee-bean-prices-challenge-belton-coffee-shop-owner/"
-  og_title: "Rising Coffee Bean Prices Challenge Belton Coffee Shop Owner - Coffee Actually"
-  og_description: "Coffee lovers in Belton face rising coffee bean prices, impacting local businesses. Shop owners must find innovative solutions to maintain profitability and customer satisfaction amid global supply chain disruptions and adverse weather in coffee-producing regions like Brazil."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/04/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/rising-coffee-bean-prices-challenge-belton-coffee-shop-owner/
+  og_title: >-
+    Rising Coffee Bean Prices Challenge Belton Coffee Shop Owner - Coffee
+    Actually
+  og_description: >-
+    Coffee lovers in Belton face rising coffee bean prices, impacting local
+    businesses. Shop owners must find innovative solutions to maintain
+    profitability and customer satisfaction amid global supply chain disruptions
+    and adverse weather in coffee-producing regions like Brazil.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/04/make_file.png'
+  twitter_card: summary_large_image
 quality_score: 73
 score_breakdown:
   seo_quality: 75
@@ -28,7 +40,13 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and factual content, but significantly under the target word count at 379 words, which severely impacts overall quality despite strong coverage of coffee news and local business challenges."
+quality_note: >-
+  Well-written article with good tone and factual content, but significantly
+  under the target word count at 379 words, which severely impacts overall
+  quality despite strong coverage of coffee news and local business challenges.
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 Coffee lovers in Belton are feeling the impact of soaring coffee bean prices, a trend affecting local businesses as they strive to adapt to new economic pressures. For coffee shop owners, these rising costs present a challenge that demands innovative solutions to maintain their livelihood and customer satisfaction.

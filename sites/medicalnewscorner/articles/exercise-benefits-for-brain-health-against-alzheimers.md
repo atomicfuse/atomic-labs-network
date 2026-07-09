@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Older adult jogging in a sunlit park with subtle neural glow suggesting brain
   health
+topics:
+  - Health News
 ---
 
 Regular physical activity has long been hailed for its myriad benefits, from improving cardiovascular health to enhancing mood. Recent research has uncovered another remarkable advantage: exercise may play a crucial role in protecting the brain from the effects of aging and Alzheimer's disease. As we delve into this fascinating finding, we explore how exercise contributes to brain health and the possible mechanisms at play.

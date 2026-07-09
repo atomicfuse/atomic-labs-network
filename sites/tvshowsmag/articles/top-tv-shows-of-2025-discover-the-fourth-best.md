@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A moody television studio with a camera, spotlight, and scattered script
   pages.
+topics:
+  - TV News
 ---
 
 In 2025, the television landscape witnessed a remarkable evolution with the debut of "The Studio," a series that has captivated audiences and critics alike. This groundbreaking show has proven to be a standout in a year filled with impressive TV productions, securing its place as one of the most talked-about series of the year.

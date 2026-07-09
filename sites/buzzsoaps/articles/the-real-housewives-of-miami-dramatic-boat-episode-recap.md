@@ -40,6 +40,8 @@ quality_note: >-
   Well-written entertainment recap with good tone match but significantly under
   target word count and lacks specific SEO optimization.
 image_alt: 'Glamorous women on a Miami yacht at sunset with tense, elegant body language.'
+topics:
+  - Watch
 ---
 
 The vibrant and dramatic world of "The Real Housewives of Miami" continues to captivate viewers as the seventh season unfolds. This particular episode offers a mix of emotional confrontations, rekindled friendships, and the ever-present allure of Miami's opulent lifestyle. As tensions rise and relationships are tested, the Housewives navigate personal challenges while maintaining their glamorous personas.

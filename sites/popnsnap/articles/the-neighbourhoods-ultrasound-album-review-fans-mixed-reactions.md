@@ -33,6 +33,8 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-8.jpeg'
   twitter_card: summary_large_image
 image_alt: Moody studio scene with abstract split-color soundwaves around audio equipment
+topics:
+  - Music
 ---
 
 The Neighbourhood's latest release, "Ultrasound," has stirred a spectrum of reactions among listeners. Known for their unique blend of alternative rock and indie pop, the band has ventured into new sonic territories with this album. As fans dive into its tracks, the mixed reviews highlight its experimental nature.

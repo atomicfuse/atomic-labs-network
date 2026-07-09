@@ -42,6 +42,11 @@ quality_note: >-
   Well-written romantic travel guide with good tone and accuracy, but
   significantly under target word count at 541 words instead of 800-1200.
 image_alt: Couple on a golden-hour terrace overlooking a romantic coastal getaway
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 
 Valentine's Day offers the perfect excuse for a romantic escape with your partner. Whether you crave a peaceful retreat or an adventurous getaway, there are numerous destinations ready to create unforgettable memories. From picturesque beaches to charming mountain towns, these locations promise to ignite romance and relaxation.

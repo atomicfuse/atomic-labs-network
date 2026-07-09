@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Cozy winter living room with a thermostat, calculator, and snowy window
   suggesting home heating savings.
+topics:
+  - Saving Tips
+  - Grocery Savings
 ---
 
 Xcel Energy, a leader in utility services, understands the challenges homeowners face during frigid winter months. With temperatures plummeting, heating costs can skyrocket, putting a strain on household budgets. However, by employing a few strategic measures, it's possible to keep your home warm without breaking the bank. Here are some practical tips to help manage your heating expenses efficiently.

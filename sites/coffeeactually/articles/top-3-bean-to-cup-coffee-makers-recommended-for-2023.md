@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Sleek coffee machine brewing espresso on a bright modern kitchen counter with
   coffee beans nearby
+topics:
+  - Coffee Gear
 ---
 
 For coffee enthusiasts, having the perfect bean-to-cup coffee machine is a game-changer in creating that ideal cup of coffee right at home. With a plethora of options available, choosing the best machine can be daunting. After testing several models this year, here are three standout bean-to-cup coffee machines that offer exceptional quality and ease of use, making them top recommendations for coffee lovers.

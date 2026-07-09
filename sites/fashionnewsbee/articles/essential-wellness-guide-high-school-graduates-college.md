@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sunlit college dorm desk with skincare, water bottle, fruit, journal, and
   graduation tassel
+topics:
+  - Lifestyle
 ---
 ## Building Wellness Habits Before College Starts
 

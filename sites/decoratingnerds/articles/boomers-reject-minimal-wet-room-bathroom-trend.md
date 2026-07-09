@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Warm modern bathroom with wood tones, soft tile, glass shower, and natural
   light.
+topics:
+  - Design Tips
+  - Home Hacks
 ---
 ## The Great Bathroom Design Divide
 

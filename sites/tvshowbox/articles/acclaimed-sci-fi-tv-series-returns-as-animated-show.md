@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Silhouetted figure facing a glowing animated starship form in a colorful
   sci-fi nebula
+topics:
+  - TV News
+  - Recommendations
 ---
 
 The landscape of science fiction television is evolving once again as an iconic series prepares for a grand return in a fresh, animated format. This exciting development has been confirmed by the lead actor and producer, and it promises to bring the beloved story to life in a new way, reaching both loyal fans and new audiences.

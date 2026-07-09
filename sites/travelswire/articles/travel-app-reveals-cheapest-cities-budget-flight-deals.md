@@ -36,6 +36,8 @@ quality_note: >-
   names or data from the unnamed travel app, making it essentially content-free
   despite good keyword coverage.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## Budget-Friendly Flight Destinations Identified
 

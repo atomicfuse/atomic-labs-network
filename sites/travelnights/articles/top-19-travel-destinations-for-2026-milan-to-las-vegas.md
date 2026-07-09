@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A traveler overlooks a dreamlike horizon blending city, desert, Arctic,
   temple, and river landscapes.
+topics:
+  - Destinations
 ---
 
 Exploring new travel destinations is always an exciting adventure, especially when planning for future trips. As we look forward to 2026, several stunning locations around the globe are set to capture the imagination of travelers. From bustling urban centers to serene natural landscapes, these destinations promise unique experiences and unforgettable memories.

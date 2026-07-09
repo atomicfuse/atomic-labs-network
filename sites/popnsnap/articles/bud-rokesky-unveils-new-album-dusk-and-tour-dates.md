@@ -27,6 +27,8 @@ seo:
     captivating musical experience.
   twitter_card: summary_large_image
 image_alt: Acoustic guitar and microphone on a dusky stage with warm lights and soft haze
+topics:
+  - Music
 ---
 
 Emerging country artist Bud Rokesky has announced an exciting new chapter in his musical journey with the upcoming release of his debut album, "Dusk." This announcement is coupled with the news of a series of live performances, giving fans across the nation an opportunity to experience his evocative music firsthand.

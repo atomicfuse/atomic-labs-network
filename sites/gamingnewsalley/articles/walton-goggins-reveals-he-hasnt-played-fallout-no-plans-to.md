@@ -1,25 +1,37 @@
 ---
-title: "Walton Goggins Reveals He Hasn’t Played Fallout, No Plans To"
-description: "Walton Goggins joins the Fallout TV series, bringing his unique talent to the adaptation despite never having played the game. His fresh perspective may offer new dimensions to his character, intriguing both fans and newcomers to the franchise."
-type: "standard"
-status: "published"
-publishDate: "2025-12-08T09:39:25+00:00"
-author: "Taylor Winters"
+title: 'Walton Goggins Reveals He Hasn’t Played Fallout, No Plans To'
+description: >-
+  Walton Goggins joins the Fallout TV series, bringing his unique talent to the
+  adaptation despite never having played the game. His fresh perspective may
+  offer new dimensions to his character, intriguing both fans and newcomers to
+  the franchise.
+type: standard
+status: published
+publishDate: '2025-12-08T09:39:25+00:00'
+author: Taylor Winters
 tags:
-  - "Gaming News"
-  - "Community"
-slug: "walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to"
+  - Gaming News
+  - Community
+slug: walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to
 reading_time: 3
-source_url: "https://gamingnewsalley.com/walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to/"
-imported_from: "wordpress"
+source_url: >-
+  https://gamingnewsalley.com/walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to/
+imported_from: wordpress
 wp_original_id: 42564
-featuredImage: "/assets/images/gamingnewsalley-general-article.webp"
+featuredImage: /assets/images/gamingnewsalley-general-article.webp
 seo:
-  canonical: "https://gamingnewsalley.com/walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to/"
-  og_title: "Walton Goggins Reveals He Hasn't Played Fallout, No Plans To - Gaming News Alley"
-  og_description: "Walton Goggins joins the Fallout TV series, bringing his unique talent to the adaptation despite never having played the game. His fresh perspective may offer new dimensions to his character, intriguing both fans and newcomers to the franchise."
-  og_image: "https://gamingnewsalley.com/wp-content/uploads/2025/12/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://gamingnewsalley.com/walton-goggins-reveals-he-hasnt-played-fallout-no-plans-to/
+  og_title: >-
+    Walton Goggins Reveals He Hasn't Played Fallout, No Plans To - Gaming News
+    Alley
+  og_description: >-
+    Walton Goggins joins the Fallout TV series, bringing his unique talent to
+    the adaptation despite never having played the game. His fresh perspective
+    may offer new dimensions to his character, intriguing both fans and
+    newcomers to the franchise.
+  og_image: 'https://gamingnewsalley.com/wp-content/uploads/2025/12/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 78
 score_breakdown:
   seo_quality: 75
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written gaming news piece with good tone and accuracy, but falls short on length (516 words vs 800-1200 target) and could benefit from stronger SEO optimization."
+quality_note: >-
+  Well-written gaming news piece with good tone and accuracy, but falls short on
+  length (516 words vs 800-1200 target) and could benefit from stronger SEO
+  optimization.
+topics:
+  - Gaming News
 ---
 
 Walton Goggins, an acclaimed actor known for his versatile roles, has been cast in the upcoming television adaptation of the popular video game series, Fallout. Despite his involvement in such a prominent project, Goggins revealed that he has never played the game and has no intention of doing so. This intriguing admission has sparked conversations among fans and the entertainment community alike.

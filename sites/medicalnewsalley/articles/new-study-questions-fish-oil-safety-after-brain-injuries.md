@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Blue supplement capsules on a clinical surface, one leaking into an abstract
   brain-like shape.
+topics:
+  - Medical Research
 ---
 ## Fish Oil's Reputation Takes a Hit
 

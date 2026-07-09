@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   A tense yacht lounge scene shows an isolated crew member after an emotional
   workplace confrontation.
+topics:
+  - TV & Movies
+  - Influencers
 ---
 ## Jenna's Drunken Meltdown Takes Center Stage
 

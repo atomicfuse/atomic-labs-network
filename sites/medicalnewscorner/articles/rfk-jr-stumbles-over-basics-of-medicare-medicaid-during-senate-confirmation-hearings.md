@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Tense Senate hearing scene with an official facing healthcare policy binders
   and blurred lawmakers.
+topics:
+  - Health News
 ---
 
 Robert F. Kennedy Jr., President Donald Trump's pick to lead the [Department of Health and Human Services](https://www.cnbc.com/2024/11/19/rfk-jr-is-trump-pick-for-hhs-secretary-heres-what-he-could-do.html), appeared to be unfamiliar with fundamental elements of the Medicare and Medicaid programs Thursday during his second Senate [confirmation hearing](https://www.help.senate.gov/hearings/nomination-of-robert-f-kennedy-jr-to-serve-as-secretary-of-health-and-human-services).

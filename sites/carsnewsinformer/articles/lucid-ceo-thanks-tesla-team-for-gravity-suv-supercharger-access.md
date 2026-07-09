@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   Unbranded luxury electric SUV charging at a modern fast-charging station at
   dawn
+topics:
+  - News
+  - Electric Cars
 ---
 ## Lucid CEO Expresses Gratitude to Tesla
 

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Artist studio where paint, canvas, and digital tools blend into glowing
   game-inspired forms.
+topics:
+  - Gaming News
 ---
 
 Transitioning from traditional art to the digital realm can be a transformative journey, especially in the dynamic world of video game design. One artist made this leap with great success, going from working with physical paints to creating stunning visuals for popular video games. This journey not only highlights personal growth but also sheds light on the evolving landscape of art in the digital era.

@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Young footballer poised on a floodlit pitch, facing a challenging path into
   the game.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 Mathys Tel's recent move to Tottenham Hotspur signifies a turning point in his burgeoning career. Known for his impressive prowess on the field, Tel has captivated fans and analysts alike with his dynamic performances. His transfer to the Premier League is not just a personal milestone but a strategic acquisition for Tottenham, aiming to bolster their attacking options.

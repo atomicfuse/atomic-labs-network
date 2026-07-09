@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Sunlit kitchen counter with fresh and cooked vegetables, olive oil, grains,
   and herbs arranged for healthy cooking.
+topics:
+  - Healthy Living Tips
+  - Healthy Aging
+  - Nutrition & Diet
 ---
 
 There's no shortage of cooking advice out there, but not all of it is accurate. Let's debunk seven common myths about healthy cooking that may be compromising your attempts at a nutritious lifestyle.

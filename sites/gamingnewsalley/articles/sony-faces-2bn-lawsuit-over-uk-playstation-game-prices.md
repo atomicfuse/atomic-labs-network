@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Generic game controller beside a courtroom gavel and pound coins under
   dramatic light
+topics:
+  - Gaming News
 ---
 
 *The body content of this article could not be recovered. The text provided does not correspond to the article titled "Sony Faces £2bn Lawsuit Over UK PlayStation Game Prices" and appears to have been incorrectly inserted from an unrelated article about green bonds. No accurate cleanup or reconstruction of the intended article is possible without the correct source content.*

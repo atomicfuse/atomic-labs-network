@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Glowing market terminal in a city financial district with abstract crypto
   trading graphics
+topics:
+  - Market Analysis
 ---
 ## Kalshi Tests Leveraged Trading Waters with Crypto Focus
 

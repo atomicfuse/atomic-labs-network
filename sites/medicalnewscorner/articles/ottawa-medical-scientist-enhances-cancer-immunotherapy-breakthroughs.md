@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Scientist in a modern lab studying a glowing abstract immune-cell
   visualization
+topics:
+  - Research
 ---
 
 In a significant stride for cancer research, a University of Ottawa medical scientist has received a $3 million grant to advance cancer immunotherapy. This funding aims to develop innovative treatments, potentially transforming the landscape of cancer therapy and improving patient outcomes worldwide.

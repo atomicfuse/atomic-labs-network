@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   A Mars rover studies red rocks as distant landers stand on separate ridgelines
   under a dusty dawn sky.
+topics:
+  - Innovation
+  - Tech
 ---
 
 In recent years, the race to explore Mars has intensified, with the United States and China leading the charge. Both nations aim to achieve significant milestones in returning samples from the Red Planet, a pursuit that has captured global attention. As these two superpowers push the boundaries of space exploration, their efforts are shaping the future of interplanetary science.

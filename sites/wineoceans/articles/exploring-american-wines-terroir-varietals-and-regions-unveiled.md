@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Wine glasses, grapes, soil, and vine leaves evoke diverse American vineyard
   terroirs.
+topics:
+  - Wine news
 ---
 ## Understanding American Wine Terroir
 

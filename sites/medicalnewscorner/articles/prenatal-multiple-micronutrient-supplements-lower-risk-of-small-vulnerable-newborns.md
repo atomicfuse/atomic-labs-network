@@ -53,6 +53,8 @@ quality_note: >-
 image_alt: >-
   Expectant mother receives prenatal nutrition support in a warm sunlit clinic
   setting.
+topics:
+  - Health News
 ---
 
 _**New research highlights a 27% reduction in adverse birth outcomes with prenatal MMS, supporting a shift in antenatal care guidelines**_

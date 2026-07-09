@@ -44,6 +44,11 @@ quality_note: >-
 image_alt: >-
   Layered high protein Cobb salads in mason jars arranged for weekly healthy
   meal prep
+topics:
+  - Healthy Recipes
+  - Healthy Living Tips
+  - Healthy Aging
+  - Nutrition & Diet
 ---
 
 Meal prepping high protein mason jar cobb salads is an excellent way to prepare healthy lunches for the week. Using the salad in a jar method, you can store your salads for up to 4-5 days while keeping them fresh and crisp. This technique allows you to incorporate any traditional salad recipe into your meal prep routine effortlessly.

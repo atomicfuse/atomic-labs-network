@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Stylish winter streetwear look with a babushka-inspired muffler on a snowy
   Seoul evening
+topics:
+  - Culture
 ---
 
 The K-pop industry continues to captivate the world, with its vibrant culture and dynamic music groups garnering global attention. Among the most talked-about is the K-pop band Stray Kids, who recently achieved a significant milestone by announcing their upcoming concert in Seoul. This event is eagerly anticipated by fans and marks a notable moment in their musical journey.

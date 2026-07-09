@@ -36,6 +36,8 @@ quality_note: >-
   site focused on movies and TV, with poor SEO optimization and tone mismatch
   for the target audience.
 reading_time: 3
+topics:
+  - Celebrity News
 ---
 ## Political Claims vs. Market Reality
 

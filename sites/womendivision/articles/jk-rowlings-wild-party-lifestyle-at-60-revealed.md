@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Glamorous literary-themed mansion party with candlelight, guests, and a
   silhouetted older woman
+topics:
+  - Lifestyle
 ---
 
 J.K. Rowling's creation, the magical world of Harry Potter, holds a special place in the hearts of millions worldwide. The series' success isn't just about its enchanting storylines but also about the actors who brought these beloved characters to life. Among them, Tom Felton, who portrayed Draco Malfoy, is renowned for his off-screen camaraderie and lively lifestyle. His journey from a childhood star to a household name is as fascinating as it is inspiring.

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Community members gather in a warmly lit independent cinema lobby after a
   local screening.
+topics:
+  - TV News
+  - Recommendations
 ---
 
 In a vibrant display of local talent, the Cinema Center in Fort Wayne recently hosted a significant event marking the culmination of a locally cherished television series. The final episode of "Stick," a production deeply rooted in Fort Wayne, was showcased to a captivated audience, highlighting the unique cultural narratives of the region.

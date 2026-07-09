@@ -52,6 +52,9 @@ quality_note: >-
 image_alt: >-
   Unbranded car drives toward open global trade routes as transparent barriers
   dissolve behind it.
+topics:
+  - News
+  - Industry
 ---
 
 The global automotive industry is in a state of flux, grappling with the effects of high tariffs. These elevated trade barriers not only threaten the growth and stability of the industry, but also have far-reaching implications for the global economy. The solution, as proposed by economist Levin, is a significant reduction in tariffs. Such a move, he argues, would foster a more prosperous and sustainable automotive industry worldwide.

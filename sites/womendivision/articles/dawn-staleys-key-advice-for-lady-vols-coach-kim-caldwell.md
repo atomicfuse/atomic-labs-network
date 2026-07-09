@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Two women’s basketball coaches confer courtside as players practice defensive
   drills in a packed arena.
+topics:
+  - Lifestyle
 ---
 
 The University of Tennessee's Lady Vols basketball team is preparing for a highly anticipated matchup against the formidable South Carolina Gamecocks. This game is set to be a defining moment in the season, as both teams have shown remarkable performances on the court. The Lady Vols aim to leverage their strengths and counter the strategies of South Carolina's well-coached team.

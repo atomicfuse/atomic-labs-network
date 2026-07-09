@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   A chef’s apron, white flower, and candle rest on a quiet kitchen counter in
   soft dusk light.
+topics:
+  - News
 ---
 
 The culinary world was struck with sorrow as news broke of the untimely death of Yanin Campos, a beloved contestant from season four of the popular cooking show *MasterChef*. Campos, who was only 38 years old, tragically passed away on August 4th following a car accident in her hometown of Chihuahua, Mexico.

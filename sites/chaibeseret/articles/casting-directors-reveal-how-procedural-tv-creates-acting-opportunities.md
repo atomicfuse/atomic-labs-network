@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A moody casting studio with empty chairs, headshots, and a spotlighted
   audition mark symbolizing TV opportunity.
+topics:
+  - tv shows
 ---
 ## The Fast-Paced World of Procedural Casting
 

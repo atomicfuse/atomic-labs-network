@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Organized frozen meal containers and fresh ingredients in a bright modern
   kitchen
+topics:
+  - Healthy Recipes
 ---
 
 Frozen foods have undergone a remarkable transformation, becoming an essential part of modern kitchens. Today, they offer convenience and quality, enabling home cooks to prepare delicious meals while minimizing food waste. The evolution of frozen foods can be attributed to advancements in technology and changing consumer preferences for quick yet nutritious meal options.

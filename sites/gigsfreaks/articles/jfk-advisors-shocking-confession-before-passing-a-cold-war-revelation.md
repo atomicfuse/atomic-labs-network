@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Dim Cold War archive with a silhouetted advisor, nuclear-test glow, and a
   mysterious shape in the sky
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 The world was taken by surprise when Dr. Harald Malmgren, an esteemed advisor to four U.S. presidents, shared a startling confession just before his passing in February 2025. Dr. Malmgren, a figure deeply entrenched in the corridors of power, unveiled a series of extraordinary events that had remained shrouded in secrecy for decades.

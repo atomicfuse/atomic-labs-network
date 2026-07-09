@@ -48,6 +48,11 @@ quality_note: >-
 image_alt: >-
   Golden-hour Moroccan rooftop overlooking a historic medina with tiles,
   lanterns, tea, and modern skyline hints.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Food & Drink
 ---
 
 Morocco continues to capture the imagination of travelers worldwide with its vibrant culture, historical landmarks, and breathtaking landscapes. Recently, a Moroccan city has been recognized as one of the top global travel destinations to watch for by 2026, solidifying its place on the world tourism map. This recognition shines a spotlight on the city's unique offerings and positions it as a must-visit location for adventurous globetrotters seeking new experiences.

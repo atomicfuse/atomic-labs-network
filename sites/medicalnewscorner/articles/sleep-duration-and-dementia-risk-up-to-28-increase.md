@@ -1,27 +1,37 @@
 ---
-title: "Sleep Duration and Dementia Risk: Up to 28% Increase"
-description: "Sleep is essential for brain health, impacting mood and cognitive function. Both insufficient and excessive sleep can increase dementia risk by up to 28%, but balancing sleep with regular physical activity can help maintain mental acuity and reduce cognitive decline."
-type: "standard"
-status: "published"
-publishDate: "2026-04-09T08:19:21+00:00"
-author: "Taylor Winters"
+title: 'Sleep Duration and Dementia Risk: Up to 28% Increase'
+description: >-
+  Sleep is essential for brain health, impacting mood and cognitive function.
+  Both insufficient and excessive sleep can increase dementia risk by up to 28%,
+  but balancing sleep with regular physical activity can help maintain mental
+  acuity and reduce cognitive decline.
+type: standard
+status: published
+publishDate: '2026-04-09T08:19:21+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Aging"
-  - "Health, Fitness &amp; Food"
-  - "Mental Health"
-slug: "sleep-duration-and-dementia-risk-up-to-28-increase"
+  - Health News
+  - Aging
+  - 'Health, Fitness &amp; Food'
+  - Mental Health
+slug: sleep-duration-and-dementia-risk-up-to-28-increase
 reading_time: 4
-source_url: "https://medicalnewscorner.com/sleep-duration-and-dementia-risk-up-to-28-increase/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/sleep-duration-and-dementia-risk-up-to-28-increase/
+imported_from: wordpress
 wp_original_id: 24817
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/medicalnewscorner-general-article.webp
 seo:
-  canonical: "https://medicalnewscorner.com/sleep-duration-and-dementia-risk-up-to-28-increase/"
-  og_title: "Sleep Duration and Dementia Risk: Up to 28% Increase - Medical News Corner"
-  og_description: "Sleep is essential for brain health, impacting mood and cognitive function. Both insufficient and excessive sleep can increase dementia risk by up to 28%. Balancing sleep with regular physical activity can help maintain mental acuity and reduce cognitive decline."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/04/make_file.jpg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/sleep-duration-and-dementia-risk-up-to-28-increase/
+  og_title: 'Sleep Duration and Dementia Risk: Up to 28% Increase - Medical News Corner'
+  og_description: >-
+    Sleep is essential for brain health, impacting mood and cognitive function.
+    Both insufficient and excessive sleep can increase dementia risk by up to
+    28%. Balancing sleep with regular physical activity can help maintain mental
+    acuity and reduce cognitive decline.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/04/make_file.jpg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -29,7 +39,12 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written article on a relevant health topic with good keyword coverage, but falls short of optimal length and lacks specific research citations to support the 28% statistic claim."
+quality_note: >-
+  Well-written article on a relevant health topic with good keyword coverage,
+  but falls short of optimal length and lacks specific research citations to
+  support the 28% statistic claim.
+topics:
+  - Health News
 ---
 
 Sleep is a crucial component of overall health, influencing everything from mood to cognitive function. Recent studies suggest that both insufficient and excessive sleep may significantly increase the risk of developing dementia. Understanding the optimal amount of sleep and its relationship with physical activity can be key to maintaining cognitive health as we age.

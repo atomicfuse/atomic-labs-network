@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Candlelit gothic archive with a shadowy undead figure split between moonlight
   and flame
+topics:
+  - Pop Culture
 ---
 
 In the vast universe of Anne Rice's literary creations, the supernatural beings known as revenants hold a unique place. These creatures, somewhere between zombies and vampires, add a captivating layer to Rice's intricate tapestry of storytelling. This article delves into the origins, characteristics, and role of revenants within Rice's canon, offering a fresh perspective on these fascinating entities.

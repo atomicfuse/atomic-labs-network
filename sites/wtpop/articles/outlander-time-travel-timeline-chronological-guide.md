@@ -35,6 +35,8 @@ quality_note: >-
   count and contains questionable claims about show details that may be
   inaccurate.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## Making Sense of Outlander's Time-Hopping Saga
 

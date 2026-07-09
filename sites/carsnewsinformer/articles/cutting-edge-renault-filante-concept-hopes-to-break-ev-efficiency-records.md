@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   Futuristic electric concept car in a wind tunnel with illuminated airflow
   trails
+topics:
+  - Electric Cars
+  - Concept Cars
 ---
 ## Revolutionary Design Aims for Maximum Efficiency
 

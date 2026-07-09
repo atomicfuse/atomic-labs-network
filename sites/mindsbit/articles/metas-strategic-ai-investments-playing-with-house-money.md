@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Abstract AI investment scene with glowing data, financial growth cues, and
   unbranded tokens on a sleek table
+topics:
+  - Finance
+  - Innovation
+  - Tech
 ---
 
 Meta has once again captured the spotlight with its latest quarterly earnings report, demonstrating robust growth and ambitious plans for the future. The company's focus on artificial intelligence and its impact on revenue and innovation took center stage during the announcement.

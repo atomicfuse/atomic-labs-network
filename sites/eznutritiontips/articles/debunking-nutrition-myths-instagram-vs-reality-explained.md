@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Balanced meal and firefighter gear contrast with a glowing phone suggesting
   misleading nutrition trends.
+topics:
+  - Nutrition Myths
+  - Weight & Wellness
 ---
 
 In today's digital age, social media platforms are flooded with nutrition advice that can be both alluring and misleading. Many individuals, including firefighters who require optimal health for their demanding roles, fall prey to these myths. Sorting fact from fiction in nutrition is crucial to maintaining well-being and performance.

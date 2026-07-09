@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Abstract social profile hub with branching link nodes and avatar circles on a
   sleek smartphone interface
+topics:
+  - Innovation
+  - Tech
 ---
 
 The digital landscape is constantly evolving, with social media platforms frequently updating their features to enhance user experience and engagement. One platform making strides in this area is Threads, which has introduced new functionalities designed to improve user interaction and content sharing capabilities.

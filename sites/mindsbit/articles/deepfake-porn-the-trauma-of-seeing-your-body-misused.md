@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   A lone figure faces blurred glowing screens and fractured reflections in a
   dark digital space.
+topics:
+  - Innovation
+  - Tech
 ---
 
 AI-generated pornography has moved from a fringe internet problem into a mainstream digital safety crisis. Nonconsensual deepfakes now affect celebrities, influencers, students, teachers, adult performers, and private individuals whose images are scraped, altered, and reposted without permission. As the tools become cheaper and easier to use, victims are discovering a harsh reality: removing synthetic sexual content can be far harder than creating it.

@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Fresh hydrating summer foods and chilled water arranged on a sunlit outdoor
   table.
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Summertime brings with it an increased potential for dehydration and exhaustion, but a well-balanced diet can help you combat these issues. By incorporating the right foods and drinks into your daily routine, you can stay energized and cool, even in the heat of summer.

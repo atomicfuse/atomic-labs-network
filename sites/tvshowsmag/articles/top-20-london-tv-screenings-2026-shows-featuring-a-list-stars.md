@@ -1,25 +1,37 @@
 ---
-title: "Top 20+ London TV Screenings 2026 Shows Featuring A-List Stars"
-description: "The London TV Screenings showcase diverse television series from around the world, offering a platform for new titles and highlighting trends that shape the global TV landscape. The event emphasizes innovation, quality, and diversity in storytelling, connecting creators with international audiences."
-type: "standard"
+title: Top 20+ London TV Screenings 2026 Shows Featuring A-List Stars
+description: >-
+  The London TV Screenings showcase diverse television series from around the
+  world, offering a platform for new titles and highlighting trends that shape
+  the global TV landscape. The event emphasizes innovation, quality, and
+  diversity in storytelling, connecting creators with international audiences.
+type: standard
 status: published
-publishDate: "2026-02-23T10:19:20+00:00"
-author: "Taylor Winters"
+publishDate: '2026-02-23T10:19:20+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "top-20-london-tv-screenings-2026-shows-featuring-a-list-stars"
+  - TV News
+  - TV Shows
+slug: top-20-london-tv-screenings-2026-shows-featuring-a-list-stars
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-20-london-tv-screenings-2026-shows-featuring-a-list-stars/"
-imported_from: "wordpress"
+source_url: >-
+  https://www.tvshowsmag.com/top-20-london-tv-screenings-2026-shows-featuring-a-list-stars/
+imported_from: wordpress
 wp_original_id: 28186
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/tvshowsmag-general-article.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-20-london-tv-screenings-2026-shows-featuring-a-list-stars/"
-  og_title: "Top 20+ London TV Screenings 2026 Shows Featuring A-List Stars - TV Shows Magazine"
-  og_description: "The London TV Screenings showcase diverse television series from around the world, offering a platform for new titles and highlighting trends that shape the global TV landscape. The event emphasizes innovation, quality, and diversity in storytelling, connecting creators with international audiences."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/02/make_file-9.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://www.tvshowsmag.com/top-20-london-tv-screenings-2026-shows-featuring-a-list-stars/
+  og_title: >-
+    Top 20+ London TV Screenings 2026 Shows Featuring A-List Stars - TV Shows
+    Magazine
+  og_description: >-
+    The London TV Screenings showcase diverse television series from around the
+    world, offering a platform for new titles and highlighting trends that shape
+    the global TV landscape. The event emphasizes innovation, quality, and
+    diversity in storytelling, connecting creators with international audiences.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/02/make_file-9.jpeg'
+  twitter_card: summary_large_image
 quality_score: 42
 score_breakdown:
   seo_quality: 25
@@ -27,7 +39,12 @@ score_breakdown:
   content_length: 25
   factual_accuracy: 30
   keyword_relevance: 60
-quality_note: "Article lacks specific details about the 2026 shows and A-list stars promised in the title, is too short for target length, and appears to contain generic content rather than factual information about actual screenings."
+quality_note: >-
+  Article lacks specific details about the 2026 shows and A-list stars promised
+  in the title, is too short for target length, and appears to contain generic
+  content rather than factual information about actual screenings.
+topics:
+  - TV News
 ---
 
 As the London TV Screenings continue to attract global attention, the event showcases a diverse range of compelling television series from around the world. This year's lineup promises to captivate audiences with an intriguing mix of genres and storytelling styles. From action-packed dramas to thought-provoking narratives, each series offers something unique for viewers to enjoy.

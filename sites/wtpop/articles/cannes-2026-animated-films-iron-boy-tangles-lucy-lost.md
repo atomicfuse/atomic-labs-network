@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Red carpet festival scene with glowing animated shapes suggesting prestige
   animation at Cannes
+topics:
+  - TV & Movies
+  - Influencers
 ---
 ## Animation Claims Its Place at Cannes 2026
 

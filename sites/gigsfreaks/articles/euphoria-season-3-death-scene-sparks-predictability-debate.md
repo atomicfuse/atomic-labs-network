@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Dim neon-lit kitchen with a phone, spilled drink, and overturned chair
   suggesting aftermath and tension.
+topics:
+  - Hot Trends
 ---
 ## Major Character Exit Feels Telegraphed
 

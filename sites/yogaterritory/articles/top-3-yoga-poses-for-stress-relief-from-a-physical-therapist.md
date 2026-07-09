@@ -49,6 +49,10 @@ quality_note: >-
 image_alt: >-
   Person practicing restorative yoga in a sunlit calm room with plants and soft
   natural light.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Yoga offers a holistic approach to managing stress effectively, according to leading physical therapists. By integrating specific yoga poses into your routine, you can significantly improve your mental and physical well-being, especially during high-stress periods.

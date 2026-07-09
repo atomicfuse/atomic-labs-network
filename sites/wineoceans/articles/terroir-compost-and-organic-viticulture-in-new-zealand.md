@@ -33,6 +33,8 @@ quality_note: >-
   Well-structured article on relevant wine topics with good SEO elements, but
   significantly below target word count at 397 words instead of 800-1200.
 image_alt: Compost-enriched soil beneath grapevines in a sunlit New Zealand vineyard
+topics:
+  - Wine news
 ---
 ## Understanding Terroir Compost in Winemaking
 

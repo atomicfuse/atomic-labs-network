@@ -53,6 +53,9 @@ quality_note: >-
 image_alt: >-
   Cozy modern conversation nook with two chairs, plants, cushions, and warm
   natural light
+topics:
+  - Design Tips
+  - Home Improvement
 ---
 
 The transformation of living spaces is taking an exciting turn, with a shift towards creating cozy conversation nooks. These intimate spaces are becoming the heart of home renovations, adding a touch of warmth and comfort that is enticing homeowners to invest more in these areas.

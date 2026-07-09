@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Moody recording studio with a vintage microphone, vinyl records, and warm
   colored light
+topics:
+  - Music
 ---
 
 D'Angelo's influence on modern music is profound, particularly through his fourth album, which marked a significant moment in his career and the music industry. This album, notable for its blend of soul, R&B, and funk, demonstrated D'Angelo's artistic evolution and solidified his status as a transformative figure in contemporary music.

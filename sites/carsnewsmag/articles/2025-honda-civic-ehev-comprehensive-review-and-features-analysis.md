@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Sleek hybrid sedan driving on a coastal highway at sunrise with subtle motion
   blur
+topics:
+  - Reviews
 ---
 
 The Honda Civic has long been a staple in the automotive world, renowned for its reliability, efficiency, and practical design. With the introduction of the Civic e:HEV, Honda has seamlessly blended traditional values with modern hybrid technology, offering a vehicle that caters to the environmentally conscious driver without compromising on performance or style.

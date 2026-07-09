@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Stylish Korean café table with bingsu and assorted traditional desserts in
   soft natural light.
+topics:
+  - Coffee News
+  - Brewing Guides
 ---
 
 Korean desserts have become global comfort food, thanks to their playful textures, elegant flavors, and café-ready presentation. From icy bowls of bingsu to nostalgic dalgona candy, these sweets offer more than sugar. They tell stories of street markets, family celebrations, seasonal ingredients, and modern Korean food culture.

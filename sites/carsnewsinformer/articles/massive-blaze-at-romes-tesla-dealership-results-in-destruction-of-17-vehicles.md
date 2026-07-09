@@ -36,6 +36,8 @@ quality_note: >-
   Article has good tone and keyword relevance but falls short on length (403
   words vs 800-1200 target) and lacks specific factual details about the
   incident.
+topics:
+  - News
 ---
 ## Major Fire Strikes Tesla Dealership
 

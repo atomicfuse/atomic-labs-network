@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   College basketball players entering a glowing digital arena with futuristic
   game-inspired effects
+topics:
+  - Gaming News
 ---
 
 Baylor University is making headlines in the sports gaming world as several of its basketball stars are set to be featured in the popular video game NBA 2K. This development marks a significant milestone for both the players and the university, highlighting the growing influence of collegiate athletes in the professional gaming landscape.

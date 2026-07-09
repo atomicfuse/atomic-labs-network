@@ -1,26 +1,32 @@
 ---
-title: "Netflix to Remove Critically Underrated Title Soon"
-description: "Netflix is set to remove several popular films and series, urging viewers to catch up before they disappear. This rotation refreshes the platform's offerings but means saying goodbye to some favorites as new content arrives."
-type: "standard"
+title: Netflix to Remove Critically Underrated Title Soon
+description: >-
+  Netflix is set to remove several popular films and series, urging viewers to
+  catch up before they disappear. This rotation refreshes the platform's
+  offerings but means saying goodbye to some favorites as new content arrives.
+type: standard
 status: published
-publishDate: "2026-02-02T10:46:47+00:00"
-author: "Taylor Winters"
+publishDate: '2026-02-02T10:46:47+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-  - "TV"
-  - "Upcoming"
-slug: "netflix-to-remove-critically-underrated-title-soon"
+  - TV News
+  - News
+  - TV
+  - Upcoming
+slug: netflix-to-remove-critically-underrated-title-soon
 reading_time: 3
-source_url: "https://tvshowbox.com/netflix-to-remove-critically-underrated-title-soon/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/netflix-to-remove-critically-underrated-title-soon/'
+imported_from: wordpress
 wp_original_id: 24063
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/netflix-to-remove-critically-underrated-title-soon/"
-  og_title: "Netflix to Remove Critically Underrated Title Soon - TV Show Box"
-  og_description: "Netflix is set to remove several popular films and series, urging viewers to catch up before they disappear. This rotation refreshes the platform's offerings but means saying goodbye to some favorites as new content arrives."
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/netflix-to-remove-critically-underrated-title-soon/'
+  og_title: Netflix to Remove Critically Underrated Title Soon - TV Show Box
+  og_description: >-
+    Netflix is set to remove several popular films and series, urging viewers to
+    catch up before they disappear. This rotation refreshes the platform's
+    offerings but means saying goodbye to some favorites as new content arrives.
+  twitter_card: summary_large_image
 quality_score: 53
 score_breakdown:
   seo_quality: 35
@@ -28,7 +34,13 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 75
-quality_note: "The article has major SEO and factual issues with a vague, clickbait title and no specific content details, though it maintains appropriate tone and covers relevant streaming topics."
+quality_note: >-
+  The article has major SEO and factual issues with a vague, clickbait title and
+  no specific content details, though it maintains appropriate tone and covers
+  relevant streaming topics.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Netflix subscribers are in for a surprise as the streaming giant is set to remove several popular films and series from its platform. This decision will affect viewers who have enjoyed spending time with these titles, urging them to catch up before they disappear into the digital void. With an ever-evolving catalog, Netflix continues to refresh its offerings, making way for new content. However, this also means saying goodbye to some well-loved favorites.

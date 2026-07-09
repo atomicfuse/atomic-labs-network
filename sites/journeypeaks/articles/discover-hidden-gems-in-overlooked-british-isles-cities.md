@@ -37,6 +37,10 @@ quality_note: >-
 image_alt: >-
   Quiet British Isles city street with colorful facades, cobblestones, and soft
   morning light
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Beyond London and Edinburgh: A Different Perspective on British Travel
 

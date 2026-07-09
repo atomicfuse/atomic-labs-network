@@ -31,6 +31,8 @@ quality_note: >-
   Solid entertainment content with good tone and keyword coverage, but falls
   short on length and contains some vague claims that raise accuracy concerns.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## A Weekend Built Around Obsession
 

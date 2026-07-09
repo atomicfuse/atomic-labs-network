@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Clinician checks a smart bandage with subtle digital healing data effects in a
   calm medical setting.
+topics:
+  - Health News
 ---
 
 In the sphere of medical technology, a breakthrough has been made, introducing a revolutionary bandage, iCare, that promises to transform the treatment of chronic wounds. This state-of-the-art bandage provides real-time insights into the healing process, enabling healthcare professionals to deliver optimal care.

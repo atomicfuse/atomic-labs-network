@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Patagonian vineyard with wine glasses, grapes, and fermentation vessels
   beneath distant snowy mountains
+topics:
+  - Wine news
 ---
 ## A New Frontier in Argentine Winemaking
 

@@ -41,6 +41,8 @@ quality_note: >-
   Strong tone and relevance to Hot Trends topic, but significantly undermined by
   factual inaccuracies about the song's release date and length issues.
 image_alt: Vintage record and glowing smartphone connect two generations through music.
+topics:
+  - Hot Trends
 ---
 
 In the ever-evolving world of music, where the newest hits often gain the spotlight, an unexpected resurgence of a classic song has captured the attention of a new generation. Connie Francis's 1960s track, "Pretty Little Baby," has found a fresh audience on TikTok, where its nostalgic charm is resonating with millions of users and catapulting it into viral fame.

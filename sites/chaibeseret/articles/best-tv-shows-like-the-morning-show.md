@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Moody newsroom studio with an empty anchor desk and distant executive
   silhouettes
+topics:
+  - tv shows
 ---
 ## Media Drama Fans Have Options Beyond Apple TV+
 

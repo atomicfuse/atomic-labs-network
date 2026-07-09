@@ -40,6 +40,8 @@ quality_note: >-
   target word count at only 504 words, and could better integrate the site's
   focus keywords like fitness, beauty, and yoga.
 image_alt: Woman in her 30s sits calmly by a sunlit window with a journal and mug nearby.
+topics:
+  - Lifestyle
 ---
 
 Women in their 30s may sometimes experience symptoms similar to those of menopause, causing concern and confusion. These symptoms can impact daily life and well-being, making it essential to understand their causes and what steps can be taken to alleviate them effectively.

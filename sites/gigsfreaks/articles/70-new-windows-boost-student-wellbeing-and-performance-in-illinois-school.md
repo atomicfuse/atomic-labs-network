@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Sunlit classroom with new large windows, students studying, and a calm hopeful
   learning atmosphere.
+topics:
+  - Good Vibes
 ---
 
 In the vibrant community of Illinois, a groundbreaking initiative has transformed educational environments, demonstrating the powerful impact of natural light on student well-being and academic performance. This innovative project involved the strategic installation of windows in schools, turning classrooms into brighter, more inviting spaces that nurture both learning and mental health.

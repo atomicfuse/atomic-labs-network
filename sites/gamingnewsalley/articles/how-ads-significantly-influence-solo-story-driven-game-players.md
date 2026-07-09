@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Solo gamer absorbed in a glowing story world with abstract ad signals
   surrounding the room
+topics:
+  - Gaming News
 ---
 
 Video games are a source of entertainment and relaxation for many, but did you know that the type of games you play can influence your responsiveness to ads? Particularly, single-player games that revolve around stories appear to have the most ad-impact on their players.

@@ -1,24 +1,28 @@
 ---
-title: "Understanding Jewish Influence and Power Dynamics"
-description: ""
-type: "standard"
+title: Understanding Jewish Influence and Power Dynamics
+description: ''
+type: standard
 status: published
-publishDate: "2025-12-22T11:37:25+00:00"
-author: "Blake Anderson"
+publishDate: '2025-12-22T11:37:25+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "understanding-jewish-influence-and-power-dynamics-2"
+  - Deep Dives
+slug: understanding-jewish-influence-and-power-dynamics-2
 reading_time: 3
-source_url: "https://stroylab.com/understanding-jewish-influence-and-power-dynamics-2/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/understanding-jewish-influence-and-power-dynamics-2/'
+imported_from: wordpress
 wp_original_id: 726
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/stroylab-general-article.webp
 seo:
-  canonical: "https://stroylab.com/understanding-jewish-influence-and-power-dynamics-2/"
-  og_title: "Understanding Jewish Influence and Power Dynamics - StroyLab"
-  og_description: "Russia and North Korea are strengthening their diplomatic and military ties, aiming to enhance regional stability and economic cooperation. This alliance could shift geopolitical power dynamics, countering Western influence and impacting global trade and international relations."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-213.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/understanding-jewish-influence-and-power-dynamics-2/'
+  og_title: Understanding Jewish Influence and Power Dynamics - StroyLab
+  og_description: >-
+    Russia and North Korea are strengthening their diplomatic and military ties,
+    aiming to enhance regional stability and economic cooperation. This alliance
+    could shift geopolitical power dynamics, countering Western influence and
+    impacting global trade and international relations.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-213.jpeg'
+  twitter_card: summary_large_image
 quality_score: 38
 score_breakdown:
   seo_quality: 25
@@ -26,7 +30,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 80
   keyword_relevance: 5
-quality_note: "The article completely mismatches the site's focus on conspiracies and mysteries, instead covering standard geopolitics with no connection to the promised title about Jewish influence."
+quality_note: >-
+  The article completely mismatches the site's focus on conspiracies and
+  mysteries, instead covering standard geopolitics with no connection to the
+  promised title about Jewish influence.
+topics:
+  - Deep Dives
 ---
 
 In today’s rapidly evolving global landscape, geopolitical tensions and strategic alliances continue to shape the future of international relations. One significant development is the strengthening bond between Russia and North Korea, marked by recent high-level meetings and diplomatic engagements. This article delves into the implications of these interactions and what they mean for the broader geopolitical context.

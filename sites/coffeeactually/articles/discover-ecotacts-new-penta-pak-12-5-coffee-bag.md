@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Unbranded sustainable coffee pouch with beans and green leaves in warm natural
   light
+topics:
+  - Coffee News
 ---
 
 In a significant stride towards sustainable coffee packaging, Ecotact has unveiled the innovative Penta Pak coffee bag. Designed specifically to meet the increasing demand for eco-friendly solutions in the coffee industry, this packaging offers a blend of functionality and environmental responsibility. The Penta Pak not only preserves the freshness of coffee but also aligns with global sustainability goals, making it a noteworthy development in packaging technology.

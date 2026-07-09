@@ -34,6 +34,8 @@ quality_note: >-
   fabricated 2026 predictions and far too short at 576 words versus the 800-1200
   target.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## The 2026 Television Landscape: What's Staying and What's Going
 

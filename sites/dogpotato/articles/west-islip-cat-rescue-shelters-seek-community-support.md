@@ -1,24 +1,36 @@
 ---
-title: "West Islip Cat Rescue: Shelters Seek Community Support"
-description: "In West Islip, a collaborative effort between animal welfare organizations and the community successfully rescued and rehomed numerous cats, highlighting the importance of collective action in addressing animal welfare challenges and the ongoing need for community support for local shelters."
-type: "standard"
-status: "published"
-publishDate: "2026-01-22T09:59:31+00:00"
-author: "Taylor Winters"
+title: 'West Islip Cat Rescue: Shelters Seek Community Support'
+description: >-
+  In West Islip, a collaborative effort between animal welfare organizations and
+  the community successfully rescued and rehomed numerous cats, highlighting the
+  importance of collective action in addressing animal welfare challenges and
+  the ongoing need for community support for local shelters.
+type: standard
+status: published
+publishDate: '2026-01-22T09:59:31+00:00'
+author: Taylor Winters
 tags:
-  - "Cats"
-slug: "west-islip-cat-rescue-shelters-seek-community-support"
+  - Cats
+slug: west-islip-cat-rescue-shelters-seek-community-support
 reading_time: 3
-source_url: "https://dogpotato.com/west-islip-cat-rescue-shelters-seek-community-support/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/west-islip-cat-rescue-shelters-seek-community-support/'
+imported_from: wordpress
 wp_original_id: 40155
-featuredImage: "/assets/images/west-islip-cat-rescue-shelters-seek-community-support.webp"
+featuredImage: /assets/images/west-islip-cat-rescue-shelters-seek-community-support.webp
 seo:
-  canonical: "https://dogpotato.com/west-islip-cat-rescue-shelters-seek-community-support/"
-  og_title: "West Islip Cat Rescue: Shelters Seek Community Support - Dog Potato"
-  og_description: "In West Islip, a collaborative effort between animal welfare organizations and the community successfully rescued and rehomed numerous cats, highlighting the importance of collective action in addressing animal welfare challenges and the ongoing need for community support for local shelters."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/01/make_file.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/west-islip-cat-rescue-shelters-seek-community-support/'
+  og_title: 'West Islip Cat Rescue: Shelters Seek Community Support - Dog Potato'
+  og_description: >-
+    In West Islip, a collaborative effort between animal welfare organizations
+    and the community successfully rescued and rehomed numerous cats,
+    highlighting the importance of collective action in addressing animal
+    welfare challenges and the ongoing need for community support for local
+    shelters.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/01/make_file.webp'
+  twitter_card: summary_large_image
+topics:
+  - Cats
+  - Other Animals
 ---
 
 In a heartwarming example of community spirit, the West Islip area has recently witnessed an inspiring effort to rescue and rehome a large group of cats. Local shelters, which are often strained by limited resources, have reached out to the community for support in this endeavor. The collaboration between animal welfare organizations and compassionate residents highlights the importance of collective action in addressing animal welfare challenges.

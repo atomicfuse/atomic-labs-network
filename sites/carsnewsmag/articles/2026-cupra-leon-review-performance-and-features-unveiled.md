@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sleek performance hatchback on a coastal road at sunset with a dynamic, modern
   stance
+topics:
+  - Reviews
 ---
 
 The automotive world is constantly evolving, and the latest iteration of the SEAT Leon exemplifies this progress. Known for its sleek design, impressive performance, and advanced technology, the SEAT Leon has captured the attention of enthusiasts and everyday drivers alike. This article delves into what makes the SEAT Leon stand out in a competitive market.

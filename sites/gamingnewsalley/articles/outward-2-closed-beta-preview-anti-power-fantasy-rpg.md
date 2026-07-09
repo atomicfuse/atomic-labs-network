@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Two weary travelers with heavy packs face a misty wilderness and distant
   fortress at dawn.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## Outward 2 Doubles Down on Vulnerability Over Power Fantasy
 

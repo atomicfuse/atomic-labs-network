@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Lone sci-fi traveler facing a nearly empty desert hangar at dusk with dust and
   scattered papers
+topics:
+  - TV & Movies
 ---
 ## Disappointing Opening Weekend Performance
 

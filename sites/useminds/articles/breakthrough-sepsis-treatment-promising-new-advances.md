@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Abstract immune cells forming a protective network around a human silhouette
   in a clinical blue glow
+topics:
+  - Mind-Blowing Science
+  - Space & The Unknown
 ---
 
 Sepsis, a life-threatening condition resulting from the body's extreme response to infection, remains a significant challenge in medical treatment. Recent research has illuminated potential pathways for innovative treatments, which could drastically improve outcomes for patients. By understanding these new findings, we can explore avenues that may lead to more effective management of this critical condition.

@@ -1,24 +1,32 @@
 ---
-title: "Stranger Things Characters: Their Endings Explained"
-description: "Stranger Things captivated audiences with its supernatural elements and '80s nostalgia. The series finale provided satisfying resolutions for key characters like Eleven and Mike, celebrating their growth and bonds, leaving fans with a sense of closure and anticipation."
-type: "standard"
-status: "published"
-publishDate: "2026-01-01T10:25:25+00:00"
-author: "Arthur Daly"
+title: 'Stranger Things Characters: Their Endings Explained'
+description: >-
+  Stranger Things captivated audiences with its supernatural elements and '80s
+  nostalgia. The series finale provided satisfying resolutions for key
+  characters like Eleven and Mike, celebrating their growth and bonds, leaving
+  fans with a sense of closure and anticipation.
+type: standard
+status: published
+publishDate: '2026-01-01T10:25:25+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-slug: "stranger-things-characters-their-endings-explained"
+  - Pop Culture
+slug: stranger-things-characters-their-endings-explained
 reading_time: 4
-source_url: "https://geekystudios.com/stranger-things-characters-their-endings-explained/"
-imported_from: "wordpress"
+source_url: 'https://geekystudios.com/stranger-things-characters-their-endings-explained/'
+imported_from: wordpress
 wp_original_id: 684
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/geekystudios-general-article.webp
 seo:
-  canonical: "https://geekystudios.com/stranger-things-characters-their-endings-explained/"
-  og_title: "Stranger Things Characters: Their Endings Explained - Geeky Studios"
-  og_description: "Stranger Things captivated audiences with its supernatural elements and '80s nostalgia. The series finale provided satisfying resolutions for key characters like Eleven and Mike, celebrating their growth and bonds, leaving fans with a sense of closure and anticipation."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://geekystudios.com/stranger-things-characters-their-endings-explained/'
+  og_title: 'Stranger Things Characters: Their Endings Explained - Geeky Studios'
+  og_description: >-
+    Stranger Things captivated audiences with its supernatural elements and '80s
+    nostalgia. The series finale provided satisfying resolutions for key
+    characters like Eleven and Mike, celebrating their growth and bonds, leaving
+    fans with a sense of closure and anticipation.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 79
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Well-written pop culture content with good structure and tone, but contains vague statements about character endings without specific details from actual series finale."
+quality_note: >-
+  Well-written pop culture content with good structure and tone, but contains
+  vague statements about character endings without specific details from actual
+  series finale.
+topics:
+  - Pop Culture
 ---
 
 The beloved series Stranger Things has captivated audiences worldwide with its thrilling mix of supernatural elements, '80s nostalgia, and compelling character arcs. As the show concluded its recent season, fans were eager to see how each main character's journey was wrapped up. This article explores the endings of key characters from the show, providing an insightful look into their narrative resolutions and development.

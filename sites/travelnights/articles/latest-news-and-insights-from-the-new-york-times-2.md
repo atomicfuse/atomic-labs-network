@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A neatly packed suitcase in a calm sunlit room overlooking a peaceful distant
   landscape.
+topics:
+  - Culture
 ---
 
 Marie Kondo, a renowned tidying expert, has shifted her focus from organizing homes to exploring how travel experiences can transform one's life. Her latest book delves into the profound impact of travel on personal growth and emotional well-being, offering readers a unique perspective on the joys of exploration.

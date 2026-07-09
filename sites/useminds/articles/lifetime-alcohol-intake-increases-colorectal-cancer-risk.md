@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   A glass of amber liquid casts a shadow into abstract cellular patterns on a
   laboratory surface.
+topics:
+  - Mind-Blowing Science
+  - Space & The Unknown
 ---
 
 Alcohol consumption has long been a topic of extensive research, with numerous studies exploring its effects on health. Recent findings have unveiled a significant connection between lifetime alcohol consumption and an increased risk of developing major diseases. Understanding these implications is crucial for public health initiatives and individual lifestyle choices.

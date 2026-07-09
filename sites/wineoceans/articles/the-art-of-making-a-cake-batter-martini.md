@@ -35,6 +35,8 @@ quality_note: >-
   focus, is too short at 547 words, and relies heavily on vague reporting
   language without concrete details.
 image_alt: Creamy cake batter martini in a coupe glass with sprinkles on a marble bar
+topics:
+  - Wine news
 ---
 ## The Sweet Revolution in Cocktail Culture
 

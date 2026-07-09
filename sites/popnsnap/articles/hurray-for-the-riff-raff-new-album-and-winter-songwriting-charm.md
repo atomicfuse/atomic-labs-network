@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Acoustic guitar and songwriting notebook by a frosted window in warm winter
   light
+topics:
+  - Music
 ---
 
 Alynda Segarra, the creative force behind the band Hurray for the Riff Raff, continues to captivate audiences with their innovative blend of folk, rock, and Americana sounds. Known for their heartfelt and powerful storytelling, Segarra's music often explores themes of identity, resilience, and social change. With a new album set to release, fans and new listeners alike are eagerly anticipating what this talented artist will offer next.

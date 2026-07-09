@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   A tense young man stands in a dusky desert near disturbed sand and a snake
   trail.
+topics:
+  - Hot Trends
 ---
 ## Major Character Death Rocks Euphoria Season 3
 

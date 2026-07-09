@@ -36,6 +36,10 @@ reading_time: 2
 image_alt: >-
   Balanced wellness plate with greens, seeds, vegetables, berries, avocado, and
   egg in soft morning light
+topics:
+  - Nutrition
+  - Healthy Snacks
+  - Recipes
 ---
 ## Growing Focus on Food-Based Hormone Support
 

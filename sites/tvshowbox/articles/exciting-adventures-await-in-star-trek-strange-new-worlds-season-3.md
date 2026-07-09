@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   A futuristic starship travels through a blue nebula toward an uncharted ringed
   planet.
+topics:
+  - TV News
+  - Recommendations
 ---
 
 Are you ready for an infinite number of adventures? Star Trek: Strange New Worlds is poised to return this summer, with its exclusive debut on Paramount+. Be prepared to join the crew of the U.S.S. Enterprise as they navigate unexplored realms, encounter new civilizations, and experience thrilling escapades. The promise of their resolve being tested and the enticing prospect of unseen adventures make this an eagerly-anticipated return.

@@ -42,6 +42,10 @@ quality_note: >-
   pharmacy instead of yoga, though the body content is well-written and relevant
   to yoga topics.
 image_alt: Person practicing yoga in a warm room on a snowy winter morning
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 As the winter season envelops us with its chilly embrace, many people find their energy levels dwindling. The cold weather often brings a sense of lethargy, making it difficult to stay active. However, incorporating yoga into your daily routine can dramatically enhance your vitality and flexibility during these colder months. Here are five invigorating yoga poses that can help you maintain warmth and energy throughout winter.

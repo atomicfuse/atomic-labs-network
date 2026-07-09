@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Teen traveler at an airport window facing a plane and warm tropical sunrise
   reflections.
+topics:
+  - Travel News
+  - Destinations
+  - Travel Tips
 ---
 
 Flying alone for the first time can be both an exhilarating and daunting experience, especially for teenagers. The journey to Bali offers a perfect blend of adventure, discovery, and personal growth. Understanding the essentials of solo air travel can make the experience smooth and enjoyable.

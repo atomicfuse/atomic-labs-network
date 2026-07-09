@@ -1,24 +1,39 @@
 ---
-title: "4 Essential Skijoring Tips for an Exciting Adventure with Your Dog"
-description: "Skijoring is a winter sport combining skiing with dog companionship, originating from Scandinavian traditions. It involves being pulled by dogs while skiing, offering a thrilling way to enjoy the snowy outdoors and bond with your furry friend."
-type: "standard"
-status: "published"
-publishDate: "2026-03-05T09:57:25+00:00"
-author: "Taylor Winters"
+title: 4 Essential Skijoring Tips for an Exciting Adventure with Your Dog
+description: >-
+  Skijoring is a winter sport combining skiing with dog companionship,
+  originating from Scandinavian traditions. It involves being pulled by dogs
+  while skiing, offering a thrilling way to enjoy the snowy outdoors and bond
+  with your furry friend.
+type: standard
+status: published
+publishDate: '2026-03-05T09:57:25+00:00'
+author: Taylor Winters
 tags:
-  - "Dogs"
-slug: "4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog"
+  - Dogs
+slug: 4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog
 reading_time: 3
-source_url: "https://dogpotato.com/4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog/"
-imported_from: "wordpress"
+source_url: >-
+  https://dogpotato.com/4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog/
+imported_from: wordpress
 wp_original_id: 40179
-featuredImage: "/assets/images/4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog.webp"
+featuredImage: >-
+  /assets/images/4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog.webp
 seo:
-  canonical: "https://dogpotato.com/4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog/"
-  og_title: "4 Essential Skijoring Tips for an Exciting Adventure with Your Dog - Dog Potato"
-  og_description: "Skijoring is a winter sport combining skiing with dog companionship, originating from Scandinavian traditions. It involves being pulled by dogs while skiing, offering a thrilling way to enjoy snowy outdoors and bond with your furry friend."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/03/make_file-1.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://dogpotato.com/4-essential-skijoring-tips-for-an-exciting-adventure-with-your-dog/
+  og_title: >-
+    4 Essential Skijoring Tips for an Exciting Adventure with Your Dog - Dog
+    Potato
+  og_description: >-
+    Skijoring is a winter sport combining skiing with dog companionship,
+    originating from Scandinavian traditions. It involves being pulled by dogs
+    while skiing, offering a thrilling way to enjoy snowy outdoors and bond with
+    your furry friend.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/03/make_file-1.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Dogs
 ---
 
 Skijoring is a thrilling winter sport that combines the excitement of skiing with the companionship of your dog. Originating from Scandinavian traditions, this activity involves being pulled by one or more dogs while skiing, making it a fantastic way to enjoy the snowy outdoors and bond with your furry friend. If you're eager to embark on this adventure, here are some essential tips to help you and your dog start skijoring safely and enjoyably.

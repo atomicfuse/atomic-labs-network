@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Luxury grand coupe on a coastal road at golden hour, evoking elegance and
   performance.
+topics:
+  - Reviews
 ---
 
 The Bentley Brooklands is a testament to luxury and performance, embodying the essence of classic British automotive craftsmanship. This remarkable vehicle combines traditional elegance with modern engineering, making it a standout in the world of luxury coupes. With its impressive performance capabilities and exquisite interior, the Brooklands offers a driving experience that is both exhilarating and refined.

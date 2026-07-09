@@ -34,6 +34,8 @@ quality_note: >-
   Article focuses on whiskey cocktails rather than wine content, poorly matches
   site's wine-focused topics and audience despite decent writing quality.
 image_alt: Minimalist whiskey cocktail with three simple ingredients on a warmly lit bar
+topics:
+  - Wine news
 ---
 ## The Rise of Minimalist Cocktail Culture
 

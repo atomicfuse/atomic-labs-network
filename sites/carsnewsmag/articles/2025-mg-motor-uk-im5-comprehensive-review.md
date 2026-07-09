@@ -40,6 +40,9 @@ quality_note: >-
   significantly under target word count and contains some potential inaccuracies
   about the MG5 model.
 image_alt: Sleek unbranded electric car on a quiet UK coastal road at dusk
+topics:
+  - Electric Cars
+  - Industry
 ---
 
 The automotive industry is buzzing with excitement as MG Motor UK introduces the highly anticipated MG5. This electric vehicle is set to make waves with its innovative features and impressive performance. As the demand for eco-friendly cars increases, the MG5 offers an appealing option for consumers looking to reduce their carbon footprint without compromising on style or efficiency.

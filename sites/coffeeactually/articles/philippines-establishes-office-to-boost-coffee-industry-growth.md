@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Filipino coffee farmer holding coffee cherries with a plantation and modern
   office backdrop
+topics:
+  - Coffee News
 ---
 
 The Philippines is making significant strides to boost its coffee industry, propelled by the government's plans to establish a dedicated office for the sector. This initiative aims to bolster the nation's coffee production capabilities and enhance international competitiveness, reflecting the growing importance of coffee in the country's agricultural landscape.

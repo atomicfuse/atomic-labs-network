@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Child in a pink soccer jersey receives quiet support from a parent beside a
   soccer field.
+topics:
+  - Parenting
 ---
 ## The Pink Jersey Problem
 

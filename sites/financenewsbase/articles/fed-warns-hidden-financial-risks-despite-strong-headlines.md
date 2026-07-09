@@ -6,7 +6,7 @@ description: >-
   despite...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -36,6 +36,8 @@ quality_note: >-
   contains fabricated data including a 'May 2026' Fed report and specific
   statistics that cannot be verified, significantly impacting credibility.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Strong Surface, Hidden Vulnerabilities

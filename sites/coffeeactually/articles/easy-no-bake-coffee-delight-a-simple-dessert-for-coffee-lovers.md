@@ -45,6 +45,8 @@ quality_note: >-
   short at 314 words and lacks detailed recipe instructions that would make it
   more valuable for readers.
 image_alt: Layered coffee dessert with cocoa topping on a warm kitchen counter
+topics:
+  - Coffee News
 ---
 
 Are you on the hunt for a delightful dessert that requires minimal effort and no baking? Look no further than this No-Bake Coffee Delight. Perfectly crafted for coffee enthusiasts, this dessert combines the rich flavors of coffee with creamy textures to create a satisfying treat that can be enjoyed on any occasion.

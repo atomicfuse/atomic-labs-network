@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Pregnant person holding a green smoothie beside fresh fruit and wellness
   ingredients in soft morning light.
+topics:
+  - Healthy Recipes
+  - Healthy Aging
+  - Nutrition & Diet
 ---
 
 This video introduces a powerful pregnancy smoothie designed to combat common pregnancy issues like constipation, bloating, and low energy, while promoting overall wellbeing. Packed with pregnancy-friendly nutrients, this smoothie supports both mother and baby's health. It's beneficial even for those who aren't pregnant, enhancing general wellness.

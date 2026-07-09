@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Handheld gaming console glowing with colorful abstract game worlds on a sleek
   tabletop
+topics:
+  - Gaming News
 ---
 
 In the ever-evolving world of gaming, handheld devices provide an immersive experience that combines convenience and high performance. Gamers seeking titles optimized for portable play can now indulge in the Humble Decked Out Bundle, which offers a curated selection of seven exceptional games. This bundle is designed to enhance the handheld gaming experience, appealing to both casual and dedicated players.

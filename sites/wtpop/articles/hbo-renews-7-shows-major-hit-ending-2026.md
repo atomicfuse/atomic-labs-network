@@ -37,6 +37,8 @@ quality_note: >-
   details or sources.
 reading_time: 3
 image_alt: Seven glowing screens and one fading screen in a dark premium screening room
+topics:
+  - TV & Movies
 ---
 ## HBO Makes Major Programming Decisions for 2026
 

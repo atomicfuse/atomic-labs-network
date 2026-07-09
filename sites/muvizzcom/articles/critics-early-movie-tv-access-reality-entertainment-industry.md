@@ -33,6 +33,9 @@ quality_note: >-
   Strong entertainment industry focus with engaging tone, but falls short on
   length and contains vague sourcing that raises accuracy concerns.
 reading_time: 3
+topics:
+  - Streaming
+  - Celebrity News
 ---
 ## The Hidden World of Professional Critics
 

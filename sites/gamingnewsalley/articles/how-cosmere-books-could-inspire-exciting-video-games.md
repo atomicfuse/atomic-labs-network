@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A glowing book and controller open a portal to ember-lit floating islands and
   magical skies.
+topics:
+  - Gaming News
 ---
 
 Brandon Sanderson's fantasy universe, known as the Cosmere, has captivated readers worldwide with its intricate storytelling and expansive world-building. Now, the allure of this universe is being translated into an exciting new medium: video games. This venture promises to bring the depth and magic of Sanderson's novels to a broader audience, offering an interactive experience set within the rich tapestry of his renowned series.

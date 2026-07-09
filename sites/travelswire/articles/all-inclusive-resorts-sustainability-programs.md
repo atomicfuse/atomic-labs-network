@@ -36,6 +36,8 @@ quality_note: >-
   specific supporting data.
 reading_time: 3
 image_alt: Eco-luxury resort tucked behind mangroves beside a calm lagoon at golden hour
+topics:
+  - Destination Guides
 ---
 ## The Rise of Sustainable All-Inclusive Travel
 

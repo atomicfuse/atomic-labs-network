@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Abstract clinical scene with data points forming a human profile, suggesting
   precision personalized medicine.
+topics:
+  - Research
 ---
 
 In the rapidly evolving field of personalized medicine, researchers at the Medical College of Georgia are making significant strides. They have developed a novel tool aimed at enhancing the precision of treatment plans tailored to individual patients. This advancement holds the promise of transforming patient care by ensuring more accurate and effective therapeutic interventions.

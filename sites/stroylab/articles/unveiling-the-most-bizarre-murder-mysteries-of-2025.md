@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Moody investigator desk with case materials, red string, and rain-lit shadows
   suggesting an unsolved mystery.
+topics:
+  - Mysteries
+  - Unsolved Cases
 ---
 
 As we bid farewell to 2025, we take a moment to revisit the most captivating murder mysteries that have intrigued and baffled audiences throughout the year. These true crime cases are not only chilling but also leave us with more questions than answers, ensuring that they remain etched in our memories for years to come.

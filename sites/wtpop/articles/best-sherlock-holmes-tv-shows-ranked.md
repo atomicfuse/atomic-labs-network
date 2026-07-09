@@ -33,6 +33,9 @@ reading_time: 3
 image_alt: >-
   A silhouetted detective stands between Victorian streets and futuristic city
   lights in a moody rain scene.
+topics:
+  - TV & Movies
+  - Influencers
 ---
 ## The Enduring Appeal of Television's Greatest Detective
 

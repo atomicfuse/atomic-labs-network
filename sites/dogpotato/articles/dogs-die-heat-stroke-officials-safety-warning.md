@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Concerned owner helps a panting dog cool down beside a hot sidewalk on a
   summer day.
+topics:
+  - Dogs
+  - Veterinary
 ---
 ## Tragic Heat Stroke Deaths Prompt Official Warning
 

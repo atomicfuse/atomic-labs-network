@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   A lone silhouette by a dark window with eerie city and mountain reflections in
   blue-gray light.
+topics:
+  - Dark History
+  - Deep Dives
+  - Mysteries
 ---
 
 When it comes to stories that chill to the bone and intrigue with their uncanny twists, few can resist the allure of a well-spun tale. Here, we delve into five such stories that have captured the imagination of many, leaving us to ponder the mysteries of life and the strange coincidences that occur within it.

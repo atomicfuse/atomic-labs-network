@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Sleek hybrid crossover driving on a coastal road at sunrise with a premium
   futuristic feel
+topics:
+  - Reviews
 ---
 
 The automotive world is buzzing with excitement as the 2025 KGM Actyon K50 makes its debut. This latest model promises to redefine expectations with its blend of cutting-edge technology and innovative design. As consumers eagerly await its arrival, the K50 is set to make a lasting impression in the automotive industry.

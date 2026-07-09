@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Unbranded pill and stethoscope in a softly lit clinic with doctor and patient
   blurred behind
+topics:
+  - Health News
 ---
 
 The Food and Drug Administration on Thursday approved [Vertex Pharmaceuticals](https://www.cnbc.com/quotes/VRTX/)' non-opioid [painkiller](https://news.vrtx.com/news-releases/news-release-details/vertex-announces-positive-results-vx-548-phase-3-program) pill, [a new alternative](https://www.fda.gov/news-events/press-announcements/fda-approves-novel-non-opioid-treatment-moderate-severe-acute-pain#:~:text=Journavx%20reduces%20pain%20by%20targeting,class%20of%20pain%20management%20medicines) for pain relief that comes without the risk of addiction.

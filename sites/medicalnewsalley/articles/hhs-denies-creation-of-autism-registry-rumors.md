@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Clinician and family review a tablet in a calm clinic with subtle privacy and
   data motifs.
+topics:
+  - Mental Health
 ---
 
 Understanding autism and its impact on individuals and families is crucial for providing effective support and services. Access to comprehensive autism data is vital for researchers, healthcare providers, and policymakers to make informed decisions. However, there are significant challenges in collecting, sharing, and utilizing autism data effectively. These challenges need to be addressed to improve outcomes for those affected by autism.

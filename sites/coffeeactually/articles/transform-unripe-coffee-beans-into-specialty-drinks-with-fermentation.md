@@ -44,6 +44,9 @@ quality_note: >-
   under target word count at 485 words and contains some unsupported claims
   about recent advancements.
 image_alt: Green coffee beans beside a bubbling fermentation vessel in warm natural light
+topics:
+  - Coffee Beans
+  - Brewing Guides
 ---
 
 Recent advancements in coffee processing have revealed an innovative method that transforms unripe coffee beans into a flavorful, high-quality brew. This breakthrough technique harnesses the power of fermentation to enhance flavor profiles, offering a new dimension to the coffee industry.

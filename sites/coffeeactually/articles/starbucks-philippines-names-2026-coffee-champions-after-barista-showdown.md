@@ -1,26 +1,36 @@
 ---
-title: "Starbucks Philippines Names 2026 Coffee Champions After Barista Showdown"
-description: "Starbucks Philippines crowns its 2026 Coffee Champions, celebrating barista skill, coffee knowledge, creativity, and Filipino hospitality through a nationwide competition that highlights the craft behind every cup."
-type: "standard"
-status: "published"
-publishDate: "2026-05-25T08:16:14+00:00"
-author: "Taylor Winters"
+title: Starbucks Philippines Names 2026 Coffee Champions After Barista Showdown
+description: >-
+  Starbucks Philippines crowns its 2026 Coffee Champions, celebrating barista
+  skill, coffee knowledge, creativity, and Filipino hospitality through a
+  nationwide competition that highlights the craft behind every cup.
+type: standard
+status: published
+publishDate: '2026-05-25T08:16:14+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "Barista"
-  - "News"
-slug: "starbucks-philippines-names-2026-coffee-champions-after-barista-showdown"
+  - Coffee News
+  - Barista
+  - News
+slug: starbucks-philippines-names-2026-coffee-champions-after-barista-showdown
 reading_time: 6
-source_url: "https://coffeeactually.com/starbucks-philippines-names-2026-coffee-champions-after-barista-showdown/"
-imported_from: "wordpress"
+source_url: >-
+  https://coffeeactually.com/starbucks-philippines-names-2026-coffee-champions-after-barista-showdown/
+imported_from: wordpress
 wp_original_id: 51462
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/starbucks-philippines-names-2026-coffee-champions-after-barista-showdown/"
-  og_title: "Starbucks Philippines Names 2026 Coffee Champions After Barista Showdown - Coffee Actually"
-  og_description: "Starbucks Philippines crowns its 2026 Coffee Champions, celebrating barista skill, coffee knowledge, creativity, and Filipino hospitality through a nationwide competition that highlights the craft behind every cup."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2026/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://coffeeactually.com/starbucks-philippines-names-2026-coffee-champions-after-barista-showdown/
+  og_title: >-
+    Starbucks Philippines Names 2026 Coffee Champions After Barista Showdown -
+    Coffee Actually
+  og_description: >-
+    Starbucks Philippines crowns its 2026 Coffee Champions, celebrating barista
+    skill, coffee knowledge, creativity, and Filipino hospitality through a
+    nationwide competition that highlights the craft behind every cup.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2026/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 78
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 92
-quality_note: "Well-written article with excellent keyword coverage and appropriate length, though the 2026 date appears to be a future projection which may affect factual accuracy."
+quality_note: >-
+  Well-written article with excellent keyword coverage and appropriate length,
+  though the 2026 date appears to be a future projection which may affect
+  factual accuracy.
+topics:
+  - Coffee News
 ---
 
 Starbucks Philippines has put the spotlight back on barista excellence with the naming of its 2026 Coffee Champions, following a nationwide competition that tested skill, product knowledge, creativity, and passion for coffee. The annual barista contest brought together standout partners from across the country, transforming a technical competition into a celebration of craft, community, and Filipino coffee culture.

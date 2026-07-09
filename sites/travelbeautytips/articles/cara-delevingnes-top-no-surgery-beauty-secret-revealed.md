@@ -43,6 +43,9 @@ quality_note: >-
   and has a misleading title that doesn't deliver the promised 'no-surgery
   secret.'
 image_alt: Confident model with smoky makeup in a neon-lit backstage dressing room
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In the ever-evolving world of beauty, Cara Delevingne stands out not only for her modeling prowess but also for her distinct approach to skincare and beauty trends. Known for her bold and adventurous style, Cara has embraced the 'indie sleaze' aesthetic, a look that blends nostalgia with modern flair. This style, reminiscent of the early 2000s, is making a comeback, and Cara's fresh take offers inspiration for those keen on experimenting with their beauty routines.

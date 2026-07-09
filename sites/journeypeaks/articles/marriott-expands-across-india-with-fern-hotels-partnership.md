@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Modern hotel lobby with a traveler and abstract regional connections across
   India
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 No article content was available to process. The source text contained only a system prompt artifact from the HTML-to-Markdown conversion and no original article body. Please provide the original article content for cleanup.

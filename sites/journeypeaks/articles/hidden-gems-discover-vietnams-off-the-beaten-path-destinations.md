@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   A lone traveler overlooks misty Vietnamese rice terraces, limestone cliffs,
   and a quiet village at sunrise.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Vietnam, a captivating Southeast Asian gem, offers travelers an array of breathtaking experiences. From its rich cultural heritage to its stunning natural landscapes, Vietnam promises unforgettable adventures. Whether you're drawn to the charm of ancient towns, the allure of bustling cities, or the tranquility of natural wonders, this country has something exceptional for every explorer.

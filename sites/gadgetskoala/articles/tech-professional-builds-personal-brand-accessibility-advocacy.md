@@ -38,6 +38,10 @@ reading_time: 3
 image_alt: >-
   Tech professional in a warm workspace with abstract accessibility and
   creator-brand elements
+topics:
+  - Gadgets
+  - Mobile
+  - Wearables
 ---
 ## Building Authority Through Technical Expertise and Personal Passion
 

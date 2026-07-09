@@ -1,26 +1,36 @@
 ---
-title: "PS5 Surpasses Switch 2 in Robust Holiday Sales for Sony"
-description: "The PlayStation 5 surpassed the Nintendo Switch in sales during the holiday season, reflecting Sony's successful strategy and rising demand for next-gen consoles. This shift highlights the evolving gaming landscape and its implications for consumers and industry analysts."
-type: "standard"
+title: PS5 Surpasses Switch 2 in Robust Holiday Sales for Sony
+description: >-
+  The PlayStation 5 surpassed the Nintendo Switch in sales during the holiday
+  season, reflecting Sony's successful strategy and rising demand for next-gen
+  consoles. This shift highlights the evolving gaming landscape and its
+  implications for consumers and industry analysts.
+type: standard
 status: published
-publishDate: "2026-02-05T10:21:30+00:00"
-author: "Arthur Daly"
+publishDate: '2026-02-05T10:21:30+00:00'
+author: Arthur Daly
 tags:
-  - "Pop Culture"
-  - "Tech"
-  - "Trends"
-slug: "ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony"
+  - Pop Culture
+  - Tech
+  - Trends
+slug: ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony
 reading_time: 3
-source_url: "https://geekystudios.com/ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony/"
-imported_from: "wordpress"
+source_url: >-
+  https://geekystudios.com/ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony/
+imported_from: wordpress
 wp_original_id: 701
-featuredImage: "/assets/images/geekystudios-general-article.webp"
+featuredImage: /assets/images/geekystudios-general-article.webp
 seo:
-  canonical: "https://geekystudios.com/ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony/"
-  og_title: "PS5 Surpasses Switch 2 in Robust Holiday Sales for Sony - Geeky Studios"
-  og_description: "The PlayStation 5 surpassed the Nintendo Switch in sales during the holiday season, reflecting Sony's successful strategy and rising demand for next-gen consoles. This shift highlights the evolving gaming landscape and its implications for consumers and industry analysts."
-  og_image: "https://geekystudios.com/wp-content/uploads/2026/02/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://geekystudios.com/ps5-surpasses-switch-2-in-robust-holiday-sales-for-sony/
+  og_title: PS5 Surpasses Switch 2 in Robust Holiday Sales for Sony - Geeky Studios
+  og_description: >-
+    The PlayStation 5 surpassed the Nintendo Switch in sales during the holiday
+    season, reflecting Sony's successful strategy and rising demand for next-gen
+    consoles. This shift highlights the evolving gaming landscape and its
+    implications for consumers and industry analysts.
+  og_image: 'https://geekystudios.com/wp-content/uploads/2026/02/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 68
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: "Strong tone and keyword relevance, but significantly damaged by factual inaccuracies (Switch 2 doesn't exist) and below-target word count."
+quality_note: >-
+  Strong tone and keyword relevance, but significantly damaged by factual
+  inaccuracies (Switch 2 doesn't exist) and below-target word count.
+topics:
+  - Tech
+  - Pop Culture
+  - Trends
 ---
 
 The gaming industry witnessed a remarkable shift during the recent holiday season, with the PlayStation 5 (PS5) overtaking the Nintendo Switch in sales. This unexpected development highlights Sony's successful strategy and the growing demand for next-generation consoles. As the gaming landscape evolves, understanding these market dynamics becomes crucial for consumers and industry analysts alike.

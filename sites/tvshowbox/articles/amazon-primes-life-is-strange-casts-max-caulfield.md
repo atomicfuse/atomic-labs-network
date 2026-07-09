@@ -1,27 +1,35 @@
 ---
-title: "Amazon Prime’s Life is Strange Casts Max Caulfield"
-description: "Amazon Prime Video is adapting the beloved video game \"Life is Strange\" into a TV series, focusing on Max Caulfield's emotional journey, with casting now underway and fans eagerly awaiting how the narrative will translate to the screen."
-type: "standard"
-status: "published"
-publishDate: "2026-01-15T09:43:32+00:00"
-author: "Taylor Winters"
+title: Amazon Prime’s Life is Strange Casts Max Caulfield
+description: >-
+  Amazon Prime Video is adapting the beloved video game "Life is Strange" into a
+  TV series, focusing on Max Caulfield's emotional journey, with casting now
+  underway and fans eagerly awaiting how the narrative will translate to the
+  screen.
+type: standard
+status: published
+publishDate: '2026-01-15T09:43:32+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-  - "TV"
-  - "Upcoming"
-slug: "amazon-primes-life-is-strange-casts-max-caulfield"
+  - TV News
+  - News
+  - TV
+  - Upcoming
+slug: amazon-primes-life-is-strange-casts-max-caulfield
 reading_time: 3
-source_url: "https://tvshowbox.com/amazon-primes-life-is-strange-casts-max-caulfield/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/amazon-primes-life-is-strange-casts-max-caulfield/'
+imported_from: wordpress
 wp_original_id: 24052
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/amazon-primes-life-is-strange-casts-max-caulfield/"
-  og_title: "Amazon Prime's Life is Strange Casts Max Caulfield - TV Show Box"
-  og_description: "Amazon Prime Video is adapting the beloved game \"Life is Strange\" into a TV series, focusing on Max Caulfield's emotional journey. With casting underway, fans eagerly await how the narrative will translate to the screen, expanding the game's universe."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/01/make_file-2.webp"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/amazon-primes-life-is-strange-casts-max-caulfield/'
+  og_title: Amazon Prime's Life is Strange Casts Max Caulfield - TV Show Box
+  og_description: >-
+    Amazon Prime Video is adapting the beloved game "Life is Strange" into a TV
+    series, focusing on Max Caulfield's emotional journey. With casting
+    underway, fans eagerly await how the narrative will translate to the screen,
+    expanding the game's universe.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/01/make_file-2.webp'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,12 @@ score_breakdown:
   content_length: 70
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: "Strong entertainment focus and engaging tone, but lacks specific casting details promised in the title and falls short of optimal word count."
+quality_note: >-
+  Strong entertainment focus and engaging tone, but lacks specific casting
+  details promised in the title and falls short of optimal word count.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Amazon Prime Video is set to bring the beloved video game "Life is Strange" to life through a new television series adaptation. This exciting development has fans eagerly anticipating how the complex, emotional narrative of the game will translate to the screen. With casting underway, the series is already generating buzz, particularly with the reported selection of a lead for the iconic role of Max Caulfield.

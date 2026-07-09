@@ -32,6 +32,9 @@ quality_note: >-
   tone, but falls short on length and contains some potentially unverifiable
   claims about box office figures and industry trends.
 reading_time: 2
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## Rising Thai Horror Star Takes Center Stage
 

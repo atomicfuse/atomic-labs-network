@@ -36,6 +36,8 @@ quality_note: >-
   penalized for being too short at 494 words and containing fabricated 2026
   programming information.
 reading_time: 2
+topics:
+  - tv shows
 ---
 ## CBS Makes Bold Moves in 2026 Upfront Decisions
 

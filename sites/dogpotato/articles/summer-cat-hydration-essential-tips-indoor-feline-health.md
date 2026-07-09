@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Tabby cat resting near a water fountain in a bright summer apartment hydration
   setup
+topics:
+  - Cats
 ---
 ## Understanding Your Cat's Unique Hydration Needs
 

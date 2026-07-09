@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Empty dog leash and collar on a quiet roadside at dusk, evoking concern for an
   abandoned pet.
+topics:
+  - Animal Planet
+  - Other Animals
 ---
 ## Community Assistance Needed to Identify Suspect
 

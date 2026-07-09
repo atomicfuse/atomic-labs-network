@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Empty rustic stage with an acoustic guitar under a muted golden spotlight and
   cloudy sky.
+topics:
+  - Music
 ---
 
 Zach Bryan, a rising star in the American music scene, has released a new album, sparking conversations among fans and critics alike. Known for his raw, soulful voice and authentic storytelling, Bryan's latest project showcases his evolution as an artist and his commitment to staying true to his roots.

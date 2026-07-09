@@ -1,25 +1,32 @@
 ---
-title: "Nemesis Review Thrilling Cop Drama With The Wire Stars"
-description: "Nemesis delivers a tense, fast-moving police thriller with sharp performances, pulpy twists, and a strong connection to The Wire, making it an engaging watch for crime drama fans."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:37:08+00:00"
-author: "Taylor Winters"
+title: Nemesis Review Thrilling Cop Drama With The Wire Stars
+description: >-
+  Nemesis delivers a tense, fast-moving police thriller with sharp performances,
+  pulpy twists, and a strong connection to The Wire, making it an engaging watch
+  for crime drama fans.
+type: standard
+status: published
+publishDate: '2026-05-14T08:37:08+00:00'
+author: Taylor Winters
 tags:
-  - "Reviews"
-  - "TV"
-slug: "nemesis-review-thrilling-cop-drama-with-the-wire-stars"
+  - Reviews
+  - TV
+slug: nemesis-review-thrilling-cop-drama-with-the-wire-stars
 reading_time: 7
-source_url: "https://tvshowbox.com/nemesis-review-thrilling-cop-drama-with-the-wire-stars/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/nemesis-review-thrilling-cop-drama-with-the-wire-stars/'
+imported_from: wordpress
 wp_original_id: 24110
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/nemesis-review-thrilling-cop-drama-with-the-wire-stars/"
-  og_title: "Nemesis Review Thrilling Cop Drama With The Wire Stars - TV Show Box"
-  og_description: "Nemesis delivers a tense, fast-moving police thriller with sharp performances, pulpy twists, and a strong connection to The Wire, making it an engaging watch for crime drama fans."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/nemesis-review-thrilling-cop-drama-with-the-wire-stars/
+  og_title: Nemesis Review Thrilling Cop Drama With The Wire Stars - TV Show Box
+  og_description: >-
+    Nemesis delivers a tense, fast-moving police thriller with sharp
+    performances, pulpy twists, and a strong connection to The Wire, making it
+    an engaging watch for crime drama fans.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
 quality_score: 89
 score_breakdown:
   seo_quality: 75
@@ -27,7 +34,12 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written TV review with engaging tone and proper length, though the title could be more compelling and structured headings would improve SEO."
+quality_note: >-
+  Well-written TV review with engaging tone and proper length, though the title
+  could be more compelling and structured headings would improve SEO.
+topics:
+  - TV News
+  - Reviews
 ---
 
 Nemesis arrives as the kind of crime drama that knows exactly how to hold attention. It mixes a hard-boiled police investigation with glossy plotting, sharp character work, and a cast that will instantly interest fans of The Wire. The result is a fast, confident thriller built for viewers who like their cop shows tense, talky, and loaded with moral pressure.

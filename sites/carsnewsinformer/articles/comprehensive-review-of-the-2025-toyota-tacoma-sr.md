@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Unbranded mid-size pickup truck on a desert road at sunrise, styled like an
   upcoming automotive review.
+topics:
+  - News
 ---
 ## 2025 Toyota Tacoma SR Under Review
 

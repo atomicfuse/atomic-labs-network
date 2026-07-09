@@ -1,25 +1,35 @@
 ---
-title: "Lithium for Memory Loss: Experts Answer Key Questions"
-description: "Lithium is a key treatment for bipolar disorder but raises concerns about cognitive side effects like memory loss. While some studies suggest mild cognitive impacts, definitive links to significant memory loss are limited, and it may even offer neuroprotective benefits."
-type: "standard"
-status: "published"
-publishDate: "2026-03-19T09:17:25+00:00"
-author: "Taylor Winters"
+title: 'Lithium for Memory Loss: Experts Answer Key Questions'
+description: >-
+  Lithium is a key treatment for bipolar disorder but raises concerns about
+  cognitive side effects like memory loss. While some studies suggest mild
+  cognitive impacts, definitive links to significant memory loss are limited,
+  and it may even offer neuroprotective benefits.
+type: standard
+status: published
+publishDate: '2026-03-19T09:17:25+00:00'
+author: Taylor Winters
 tags:
-  - "Drugs"
-  - "Mental Health"
-slug: "lithium-for-memory-loss-experts-answer-key-questions"
+  - Drugs
+  - Mental Health
+slug: lithium-for-memory-loss-experts-answer-key-questions
 reading_time: 3
-source_url: "https://medicalnewscorner.com/lithium-for-memory-loss-experts-answer-key-questions/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/lithium-for-memory-loss-experts-answer-key-questions/
+imported_from: wordpress
 wp_original_id: 24802
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/medicalnewscorner-general-article.webp
 seo:
-  canonical: "https://medicalnewscorner.com/lithium-for-memory-loss-experts-answer-key-questions/"
-  og_title: "Lithium for Memory Loss: Experts Answer Key Questions - Medical News Corner"
-  og_description: "Lithium is a key treatment for bipolar disorder but raises concerns about cognitive side effects like memory loss. While some studies suggest mild cognitive impacts, definitive links to significant memory loss are limited, and it may even offer neuroprotective benefits."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/lithium-for-memory-loss-experts-answer-key-questions/
+  og_title: 'Lithium for Memory Loss: Experts Answer Key Questions - Medical News Corner'
+  og_description: >-
+    Lithium is a key treatment for bipolar disorder but raises concerns about
+    cognitive side effects like memory loss. While some studies suggest mild
+    cognitive impacts, definitive links to significant memory loss are limited,
+    and it may even offer neuroprotective benefits.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2026/03/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +37,12 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 85
   keyword_relevance: 90
-quality_note: "Well-written article on lithium's cognitive effects with good keyword relevance and tone, but significantly below target word count at 410 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written article on lithium's cognitive effects with good keyword
+  relevance and tone, but significantly below target word count at 410 words
+  instead of the 800-1200 range.
+topics:
+  - Drugs
 ---
 
 Analyzing the potential side effects of medications is crucial for understanding their impacts on health conditions. Lithium, a common medication for bipolar disorder, is often scrutinized for its effects on memory and cognitive functions. Patients and healthcare providers frequently ask whether lithium contributes to memory loss, especially in contexts such as aging and dementia.

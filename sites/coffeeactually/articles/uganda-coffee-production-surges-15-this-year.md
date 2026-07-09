@@ -1,25 +1,33 @@
 ---
-title: "Uganda Coffee Production Surges 15% This Year"
-description: "Uganda's coffee industry sees a 15% production increase, driven by improved farming techniques and favorable weather. The surge enhances the economy, creates jobs, and boosts export revenues, with the government and stakeholders playing key roles in supporting growth."
-type: "standard"
-status: "published"
-publishDate: "2025-10-23T08:21:23+00:00"
-author: "Taylor Winters"
+title: Uganda Coffee Production Surges 15% This Year
+description: >-
+  Uganda's coffee industry sees a 15% production increase, driven by improved
+  farming techniques and favorable weather. The surge enhances the economy,
+  creates jobs, and boosts export revenues, with the government and stakeholders
+  playing key roles in supporting growth.
+type: standard
+status: published
+publishDate: '2025-10-23T08:21:23+00:00'
+author: Taylor Winters
 tags:
-  - "Coffee News"
-  - "News"
-slug: "uganda-coffee-production-surges-15-this-year"
+  - Coffee News
+  - News
+slug: uganda-coffee-production-surges-15-this-year
 reading_time: 3
-source_url: "https://coffeeactually.com/uganda-coffee-production-surges-15-this-year/"
-imported_from: "wordpress"
+source_url: 'https://coffeeactually.com/uganda-coffee-production-surges-15-this-year/'
+imported_from: wordpress
 wp_original_id: 51336
-featuredImage: "/assets/images/coffeeactually-general-article.webp"
+featuredImage: /assets/images/coffeeactually-general-article.webp
 seo:
-  canonical: "https://coffeeactually.com/uganda-coffee-production-surges-15-this-year/"
-  og_title: "Uganda Coffee Production Surges 15% This Year - Coffee Actually"
-  og_description: "Uganda's coffee industry sees a 15% production increase, driven by improved farming techniques and favorable weather. The surge enhances the economy, creates jobs, and boosts export revenues, with the government and stakeholders playing key roles in supporting growth."
-  og_image: "https://coffeeactually.com/wp-content/uploads/2025/10/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://coffeeactually.com/uganda-coffee-production-surges-15-this-year/'
+  og_title: Uganda Coffee Production Surges 15% This Year - Coffee Actually
+  og_description: >-
+    Uganda's coffee industry sees a 15% production increase, driven by improved
+    farming techniques and favorable weather. The surge enhances the economy,
+    creates jobs, and boosts export revenues, with the government and
+    stakeholders playing key roles in supporting growth.
+  og_image: 'https://coffeeactually.com/wp-content/uploads/2025/10/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 75
 score_breakdown:
   seo_quality: 75
@@ -27,7 +35,12 @@ score_breakdown:
   content_length: 55
   factual_accuracy: 70
   keyword_relevance: 90
-quality_note: "Well-written coffee news article with strong keyword relevance and appropriate tone, but significantly under target word count and lacks specific data verification."
+quality_note: >-
+  Well-written coffee news article with strong keyword relevance and appropriate
+  tone, but significantly under target word count and lacks specific data
+  verification.
+topics:
+  - Coffee News
 ---
 
 Uganda's coffee industry is experiencing a significant boost this crop year, with production expected to rise by 15%. This increase reflects the country's dedication to enhancing its agricultural sector, specifically coffee, which is one of its primary export commodities. Such a surge in production is attributed to improved farming techniques and favorable weather conditions.

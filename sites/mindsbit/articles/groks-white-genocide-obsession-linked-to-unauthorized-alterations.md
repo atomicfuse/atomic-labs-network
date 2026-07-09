@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Abstract AI figure in a server room disrupted by a red thread, suggesting
   compromised oversight.
+topics:
+  - Innovation
+  - Tech
 ---
 
 In recent times, the intersection of technology and social issues has become a hotbed for controversy and debate. This is particularly evident in the unfolding events surrounding X.AI, a company grappling with unexpected challenges stemming from unauthorized actions taken by a former employee. These developments have sparked discussions about responsibility and oversight within tech firms.

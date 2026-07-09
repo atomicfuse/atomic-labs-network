@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Regional American dishes arranged on a warm editorial banquet table with
   Southern comfort food at the center.
+topics:
+  - Good Vibes
 ---
 
 American cuisine is as diverse as its landscape, with each region offering a distinct culinary identity. A recent survey sought to uncover which dishes best represent each U.S. state and to identify the region with the most celebrated food culture. From iconic Southern comfort food to the unique flavors of the Pacific Northwest, this exploration reveals a rich tapestry of tastes that define the American culinary experience.

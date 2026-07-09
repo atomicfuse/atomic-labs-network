@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   A fading spiral galaxy appears drained by a dark central void amid sparse blue
   stars and amber dust.
+topics:
+  - Mind-Blowing Science
+  - Space & The Unknown
 ---
 
 The mysterious disappearance of a galaxy, known as Pablo, has captured the attention of astronomers and space enthusiasts alike. Situated in a distant part of the universe, Pablo was once a vibrant spiral galaxy, but recent observations have shown it to be fading, raising intriguing questions about its fate and the forces at play in the cosmos.

@@ -28,6 +28,8 @@ seo:
 image_alt: >-
   Chic summer fashion look on a sunlit city street with airy layers and polished
   warm-weather styling
+topics:
+  - Fashion
 ---
 
 Summer 2026 top trends are moving in a polished but relaxed direction, with pieces that feel easy enough for hot weather yet refined enough for city dressing, holidays, and evening plans. The best styles this season balance shape, texture, and versatility. Think sculptural necklines, soft tailoring details, airy fabrics, and tops that can transform simple jeans, linen trousers, or a slip skirt into a complete look.

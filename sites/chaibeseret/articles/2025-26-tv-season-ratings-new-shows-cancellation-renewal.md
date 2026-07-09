@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Moody TV control room with glowing screens and abstract ratings data
   suggesting renewal decisions
+topics:
+  - tv shows
 ---
 ## Networks Face Critical Renewal Decisions as Season Winds Down
 

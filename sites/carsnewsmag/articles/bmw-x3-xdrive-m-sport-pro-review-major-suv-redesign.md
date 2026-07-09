@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Redesigned luxury SUV in a dark studio with dramatic lighting and
   sport-inspired styling.
+topics:
+  - News
 ---
 ## BMW X3 xDrive M Sport Pro Gets Major Overhaul
 

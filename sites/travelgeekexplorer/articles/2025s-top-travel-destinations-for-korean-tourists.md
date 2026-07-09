@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Korean traveler in a sunlit airport with subtle holographic travel visuals and
   planes beyond the window
+topics:
+  - Travel News
+  - Destinations
 ---
 
 South Korea has unveiled plans to develop a comprehensive metaverse ecosystem as part of its digital transformation strategy. This ambitious project aims to drive innovation across multiple sectors by integrating virtual reality into various aspects of daily life and business operations.

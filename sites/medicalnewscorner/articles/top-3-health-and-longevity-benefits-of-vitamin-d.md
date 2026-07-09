@@ -1,26 +1,36 @@
 ---
-title: "Top 3 Health and Longevity Benefits of Vitamin D"
-description: "Vitamin D, known as the \"sunshine vitamin,\" is crucial for overall health, impacting longevity by supporting immune function, reducing inflammation, and enhancing cardiovascular and muscle health. Adequate intake through sunlight, diet, or supplements is essential for aging well."
-type: "standard"
-status: "published"
-publishDate: "2025-11-17T09:17:20+00:00"
-author: "Taylor Winters"
+title: Top 3 Health and Longevity Benefits of Vitamin D
+description: >-
+  Vitamin D, known as the "sunshine vitamin," is crucial for overall health,
+  impacting longevity by supporting immune function, reducing inflammation, and
+  enhancing cardiovascular and muscle health. Adequate intake through sunlight,
+  diet, or supplements is essential for aging well.
+type: standard
+status: published
+publishDate: '2025-11-17T09:17:20+00:00'
+author: Taylor Winters
 tags:
-  - "Health News"
-  - "Aging"
-  - "Health, Fitness &amp; Food"
-slug: "top-3-health-and-longevity-benefits-of-vitamin-d"
+  - Health News
+  - Aging
+  - 'Health, Fitness &amp; Food'
+slug: top-3-health-and-longevity-benefits-of-vitamin-d
 reading_time: 3
-source_url: "https://medicalnewscorner.com/top-3-health-and-longevity-benefits-of-vitamin-d/"
-imported_from: "wordpress"
+source_url: >-
+  https://medicalnewscorner.com/top-3-health-and-longevity-benefits-of-vitamin-d/
+imported_from: wordpress
 wp_original_id: 24729
-featuredImage: "/assets/images/medicalnewscorner-general-article.webp"
+featuredImage: /assets/images/medicalnewscorner-general-article.webp
 seo:
-  canonical: "https://medicalnewscorner.com/top-3-health-and-longevity-benefits-of-vitamin-d/"
-  og_title: "Top 3 Health and Longevity Benefits of Vitamin D - Medical News Corner"
-  og_description: "Vitamin D, known as the \"sunshine vitamin,\" is crucial for overall health, impacting longevity by supporting immune function, reducing inflammation, and enhancing cardiovascular and muscle health. Adequate intake through sunlight, diet, or supplements is essential for aging well."
-  og_image: "https://medicalnewscorner.com/wp-content/uploads/2025/11/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://medicalnewscorner.com/top-3-health-and-longevity-benefits-of-vitamin-d/
+  og_title: Top 3 Health and Longevity Benefits of Vitamin D - Medical News Corner
+  og_description: >-
+    Vitamin D, known as the "sunshine vitamin," is crucial for overall health,
+    impacting longevity by supporting immune function, reducing inflammation,
+    and enhancing cardiovascular and muscle health. Adequate intake through
+    sunlight, diet, or supplements is essential for aging well.
+  og_image: 'https://medicalnewscorner.com/wp-content/uploads/2025/11/make_file-4.jpeg'
+  twitter_card: summary_large_image
 quality_score: 76
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,12 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 90
   keyword_relevance: 80
-quality_note: "Well-written article with good tone and accurate content, but significantly under the target word count at 499 words instead of the recommended 800-1200 range."
+quality_note: >-
+  Well-written article with good tone and accurate content, but significantly
+  under the target word count at 499 words instead of the recommended 800-1200
+  range.
+topics:
+  - Health News
 ---
 
 Vitamin D, often referred to as the "sunshine vitamin," plays a crucial role in maintaining overall health. Recent studies have highlighted its potential in enhancing longevity, showcasing its importance beyond bone health. Researchers have identified several mechanisms through which vitamin D may contribute to a longer, healthier life.

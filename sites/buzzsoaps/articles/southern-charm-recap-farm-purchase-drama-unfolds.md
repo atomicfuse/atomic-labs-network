@@ -1,24 +1,33 @@
 ---
-title: "Southern Charm Recap: Farm Purchase Drama Unfolds"
-description: "Bravo's \"Southern Charm\" Season 11, Episode 10 captivates with drama and personal revelations, as a social gathering triggers conflicts and heartfelt exchanges that offer insights into cast dynamics, evolving relationships, and themes of forgiveness and personal growth."
-type: "standard"
+title: 'Southern Charm Recap: Farm Purchase Drama Unfolds'
+description: >-
+  Bravo's "Southern Charm" Season 11, Episode 10 captivates with drama and
+  personal revelations, as a social gathering triggers conflicts and heartfelt
+  exchanges that offer insights into cast dynamics, evolving relationships, and
+  themes of forgiveness and personal growth.
+type: standard
 status: published
-publishDate: "2026-02-05T10:29:33+00:00"
-author: "Becca Roberts"
+publishDate: '2026-02-05T10:29:33+00:00'
+author: Becca Roberts
 tags:
-  - "Watch"
-slug: "southern-charm-recap-farm-purchase-drama-unfolds"
+  - Watch
+slug: southern-charm-recap-farm-purchase-drama-unfolds
 reading_time: 4
-source_url: "https://buzzsoaps.com/southern-charm-recap-farm-purchase-drama-unfolds/"
-imported_from: "wordpress"
+source_url: 'https://buzzsoaps.com/southern-charm-recap-farm-purchase-drama-unfolds/'
+imported_from: wordpress
 wp_original_id: 545
-featuredImage: "/assets/images/buzzsoaps-general-article.webp"
+featuredImage: /assets/images/buzzsoaps-general-article.webp
 seo:
-  canonical: "https://buzzsoaps.com/southern-charm-recap-farm-purchase-drama-unfolds/"
-  og_title: "Southern Charm Recap: Farm Purchase Drama Unfolds - BuzzSoaps!"
-  og_description: "Bravo's \"Southern Charm\" Season 11, Episode 10 captivates with drama and personal revelations. A social gathering triggers conflicts and heartfelt exchanges, offering insights into cast dynamics and individual journeys. Relationships evolve, highlighting themes of forgiveness and personal growth."
-  og_image: "https://buzzsoaps.com/wp-content/uploads/2026/02/make_file-1.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://buzzsoaps.com/southern-charm-recap-farm-purchase-drama-unfolds/'
+  og_title: 'Southern Charm Recap: Farm Purchase Drama Unfolds - BuzzSoaps!'
+  og_description: >-
+    Bravo's "Southern Charm" Season 11, Episode 10 captivates with drama and
+    personal revelations. A social gathering triggers conflicts and heartfelt
+    exchanges, offering insights into cast dynamics and individual journeys.
+    Relationships evolve, highlighting themes of forgiveness and personal
+    growth.
+  og_image: 'https://buzzsoaps.com/wp-content/uploads/2026/02/make_file-1.png'
+  twitter_card: summary_large_image
 quality_score: 57
 score_breakdown:
   seo_quality: 25
@@ -26,7 +35,12 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: "Article has strong entertainment focus and engaging tone but suffers from poor SEO optimization, potential factual inaccuracies about specific episode details, and falls short of target word count."
+quality_note: >-
+  Article has strong entertainment focus and engaging tone but suffers from poor
+  SEO optimization, potential factual inaccuracies about specific episode
+  details, and falls short of target word count.
+topics:
+  - Watch
 ---
 
 In the ever-evolving landscape of reality television, Bravo's "Southern Charm" continues to captivate audiences with its blend of Southern hospitality and drama. Season 11, Episode 10 delivers an enthralling mix of personal revelations and social dynamics that keep viewers on the edge of their seats. This episode offers a deeper look into the lives of the cast members as they navigate personal challenges and simmering tensions.

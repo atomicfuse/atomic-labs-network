@@ -37,6 +37,8 @@ seo:
 image_alt: >-
   Diverse cosmetic tones with skincare textures and subtle futuristic accents in
   a polished editorial still life
+topics:
+  - Beauty
 ---
 
 The color cosmetics market is witnessing a dynamic transformation, driven by evolving consumer preferences and innovative product offerings. As beauty enthusiasts seek more personalized and diverse options, brands are responding with a wide array of products designed to meet these demands. This shift has not only expanded the market but also introduced exciting trends that are shaping the future of makeup.

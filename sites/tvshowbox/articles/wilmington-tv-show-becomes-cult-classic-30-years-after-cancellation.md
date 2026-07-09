@@ -45,6 +45,8 @@ quality_note: >-
   short on length (542 words vs 800-1200 target) and could benefit from stronger
   SEO optimization in title and meta description.
 image_alt: Moody Southern coastal street at dusk with film lights and rain-slick pavement
+topics:
+  - TV News
 ---
 
 In the mid-1990s, Wilmington, North Carolina, was abuzz with the excitement of a major television production. The series "American Gothic," a suspenseful drama that delved into the mysterious and supernatural, was filmed in this coastal city, drawing attention to its unique charm and picturesque locales. This series became a notable part of Wilmington's cinematic history.

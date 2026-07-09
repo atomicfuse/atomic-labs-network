@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Stylish neutral living room with layered decor, greenery, warm lighting, and
   an elevated designer feel.
+topics:
+  - Design Tips
+  - Home Improvement
 ---
 
 Creating a stylish home doesn't have to break the bank. In this guide, we explore the top 10 affordable decor items that can transform any space into a high-end designer haven without the hefty price tag. Whether you're a seasoned interior decorator or just getting started, these essentials will help you achieve a luxurious look for less.

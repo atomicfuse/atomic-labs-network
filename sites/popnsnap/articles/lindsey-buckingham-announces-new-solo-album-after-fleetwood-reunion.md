@@ -33,6 +33,8 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/11/make_file-10.jpeg'
   twitter_card: summary_large_image
 image_alt: Vintage guitar in a moody recording studio under warm stage light
+topics:
+  - Music
 ---
 
 Lindsey Buckingham, renowned for his time with Fleetwood Mac, is set to captivate fans once more with the announcement of a new solo album. Known for his intricate guitar work and distinctive vocals, Buckingham's upcoming release is generating excitement among music enthusiasts and industry insiders alike. This new work promises to showcase his signature blend of rock and pop, offering listeners a fresh perspective on his evolving sound.

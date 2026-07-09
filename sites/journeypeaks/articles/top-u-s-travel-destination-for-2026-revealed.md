@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Traveler overlooks a sunrise panorama blending iconic cultural cities and wild
   natural landscapes.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 The world is full of remarkable destinations, each offering unique experiences and unforgettable memories. As you plan your future travels, consider some of the most exciting places to visit in 2026. From cultural hubs to natural wonders, these destinations promise to captivate every type of traveler.

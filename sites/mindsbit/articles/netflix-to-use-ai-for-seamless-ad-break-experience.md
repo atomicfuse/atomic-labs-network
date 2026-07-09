@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Viewer watches a streaming screen blending cinematic content with abstract
   AI-driven ad visuals.
+topics:
+  - Innovation
+  - Tech
 ---
 
 In the evolving landscape of streaming services, Netflix is making significant strides by integrating artificial intelligence and experimenting with advertising models. As the company navigates these transformative changes, it aims to address both user experience and its financial strategies. By 2025, Netflix plans to introduce features that could reshape how audiences engage with content and advertisements.

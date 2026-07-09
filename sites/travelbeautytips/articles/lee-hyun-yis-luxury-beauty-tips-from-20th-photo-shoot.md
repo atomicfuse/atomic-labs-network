@@ -1,24 +1,30 @@
 ---
-title: "Lee Hyun-yi’s Luxury Beauty Tips from 20th Photo Shoot"
-description: ""
-type: "standard"
+title: Lee Hyun-yi’s Luxury Beauty Tips from 20th Photo Shoot
+description: ''
+type: standard
 status: published
-publishDate: "2025-11-03T09:43:19+00:00"
-author: "Taylor Winters"
+publishDate: '2025-11-03T09:43:19+00:00'
+author: Taylor Winters
 tags:
-  - "Beauty Tips"
-slug: "lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot"
+  - Beauty Tips
+slug: lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot
 reading_time: 3
-source_url: "https://travelbeautytips.com/lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelbeautytips.com/lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot/
+imported_from: wordpress
 wp_original_id: 35967
-featuredImage: "/assets/images/travelbeautytips-general-article.webp"
+featuredImage: /assets/images/travelbeautytips-general-article.webp
 seo:
-  canonical: "https://travelbeautytips.com/lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot/"
-  og_title: "Lee Hyun-yi's Luxury Beauty Tips from 20th Photo Shoot - Travel Beauty Tips"
-  og_description: "A new K-pop girl group is gaining international attention with their innovative music and dynamic performances. Their debut single is topping charts, and their strong fan engagement is driving their rise in the competitive global music industry."
-  og_image: "https://travelbeautytips.com/wp-content/uploads/2025/11/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelbeautytips.com/lee-hyun-yis-luxury-beauty-tips-from-20th-photo-shoot/
+  og_title: Lee Hyun-yi's Luxury Beauty Tips from 20th Photo Shoot - Travel Beauty Tips
+  og_description: >-
+    A new K-pop girl group is gaining international attention with their
+    innovative music and dynamic performances. Their debut single is topping
+    charts, and their strong fan engagement is driving their rise in the
+    competitive global music industry.
+  og_image: 'https://travelbeautytips.com/wp-content/uploads/2025/11/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 30
 score_breakdown:
   seo_quality: 20
@@ -26,7 +32,13 @@ score_breakdown:
   content_length: 50
   factual_accuracy: 30
   keyword_relevance: 10
-quality_note: "Article completely mismatches its title about beauty tips and instead discusses K-pop, with poor SEO optimization and minimal relevance to the site's beauty/travel focus."
+quality_note: >-
+  Article completely mismatches its title about beauty tips and instead
+  discusses K-pop, with poor SEO optimization and minimal relevance to the
+  site's beauty/travel focus.
+topics:
+  - Beauty Tips
+  - Destinations
 ---
 
 In recent developments within the K-pop landscape, a new girl group is making waves with their unique sound and captivating performances. Based in South Korea, this emerging group has quickly gained attention both domestically and internationally. Their rise to fame is marked by a combination of innovative music, dynamic choreography, and a strong connection with their fanbase.

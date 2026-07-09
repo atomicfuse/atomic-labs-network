@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Cinematic Tulsa street scene at dusk with residents and a film camera under
   warm autumn light
+topics:
+  - TV News
 ---
 
 The Tulsa-based television show, "The Lowdown," is set to captivate audiences with its anticipated fall premiere. This engaging program, rooted in the vibrant culture of Tulsa, promises to deliver insightful stories that resonate with viewers. As the air date approaches, excitement builds around this new addition to local entertainment, offering a fresh perspective on life in Oklahoma.

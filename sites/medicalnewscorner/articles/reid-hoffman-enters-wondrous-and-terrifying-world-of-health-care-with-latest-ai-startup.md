@@ -48,6 +48,8 @@ quality_note: >-
   coverage, but tone leans more business/tech focused than medical health
   enthusiast audience expects.
 image_alt: Glowing molecular model and AI data patterns in a modern cancer research lab
+topics:
+  - Health News
 ---
 
 LinkedIn co-founder and venture capitalist [Reid Hoffman](https://www.cnbc.com/2025/01/17/billionaire-linkedin-co-founder-traits-entrepreneurs-need-to-succeed.html) became a billionaire from his business social-networking company, and has made lucrative bets on companies including Airbnb and Zynga while also backing nuclear fusion startup Helion Energy.

@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Glowing DNA mutation map leading toward a translucent tumor cell cluster in an
   abstract biomedical scene.
+topics:
+  - Mind-Blowing Science
+  - Space & The Unknown
 ---
 
 Recent advancements in cancer research have uncovered a pivotal mutation in a gene known to drive tumor development. This discovery has the potential to revolutionize cancer treatment by paving the way for novel therapeutic strategies. Researchers are increasingly focused on understanding how specific genetic mutations contribute to cancer, and this latest finding is a significant leap forward in unraveling the complexities of tumor growth.

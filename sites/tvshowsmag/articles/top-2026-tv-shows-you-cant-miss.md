@@ -1,26 +1,34 @@
 ---
-title: "Top 2026 TV Shows You Can’t Miss"
-description: "In 2026, a diverse lineup of TV shows promises to captivate audiences with thrilling dramas, innovative comedies, and imaginative science fiction. Viewers can anticipate engaging storytelling with complex characters, emotional depth, and stunning visuals across various genres."
-type: "standard"
+title: Top 2026 TV Shows You Can’t Miss
+description: >-
+  In 2026, a diverse lineup of TV shows promises to captivate audiences with
+  thrilling dramas, innovative comedies, and imaginative science fiction.
+  Viewers can anticipate engaging storytelling with complex characters,
+  emotional depth, and stunning visuals across various genres.
+type: standard
 status: published
-publishDate: "2026-01-01T10:13:23+00:00"
-author: "Taylor Winters"
+publishDate: '2026-01-01T10:13:23+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-  - "Upcoming"
-slug: "top-2026-tv-shows-you-cant-miss"
+  - TV News
+  - TV Shows
+  - Upcoming
+slug: top-2026-tv-shows-you-cant-miss
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-2026-tv-shows-you-cant-miss/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/top-2026-tv-shows-you-cant-miss/'
+imported_from: wordpress
 wp_original_id: 28150
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/tvshowsmag-general-article.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-2026-tv-shows-you-cant-miss/"
-  og_title: "Top 2026 TV Shows You Can't Miss - TV Shows Magazine"
-  og_description: "In 2026, a diverse lineup of TV shows promises to captivate audiences with thrilling dramas, innovative comedies, and imaginative science fiction. Viewers can anticipate engaging storytelling with complex characters, emotional depth, and stunning visuals across various genres."
-  og_image: "https://www.tvshowsmag.com/wp-content/uploads/2026/01/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/top-2026-tv-shows-you-cant-miss/'
+  og_title: Top 2026 TV Shows You Can't Miss - TV Shows Magazine
+  og_description: >-
+    In 2026, a diverse lineup of TV shows promises to captivate audiences with
+    thrilling dramas, innovative comedies, and imaginative science fiction.
+    Viewers can anticipate engaging storytelling with complex characters,
+    emotional depth, and stunning visuals across various genres.
+  og_image: 'https://www.tvshowsmag.com/wp-content/uploads/2026/01/make_file.jpeg'
+  twitter_card: summary_large_image
 quality_score: 56
 score_breakdown:
   seo_quality: 65
@@ -28,7 +36,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 20
   keyword_relevance: 80
-quality_note: "Article has good topic relevance and appropriate tone but suffers from very short length and completely fabricated content about non-existent 2026 TV shows."
+quality_note: >-
+  Article has good topic relevance and appropriate tone but suffers from very
+  short length and completely fabricated content about non-existent 2026 TV
+  shows.
+topics:
+  - TV News
 ---
 
 As the television landscape evolves, 2026 promises to be a remarkable year for new TV shows. With an array of genres and innovative storytelling, these upcoming series are set to captivate audiences worldwide. From thrilling dramas to groundbreaking comedies, the slate of new shows is diverse and exciting, offering something for every viewer.

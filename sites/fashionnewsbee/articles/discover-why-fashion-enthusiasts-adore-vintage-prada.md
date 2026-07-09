@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Vintage-inspired minimalist fashion accessories arranged on a polished stone
   table in soft window light.
+topics:
+  - Fashion
 ---
 
 The allure of vintage fashion has seen a significant rise, captivating enthusiasts and collectors worldwide. Among the renowned labels, Prada's vintage collections have garnered particular attention. This fascination with older Prada pieces is influenced by their timeless designs, unique craftsmanship, and the cultural narrative they carry, making them highly sought after in the fashion realm.

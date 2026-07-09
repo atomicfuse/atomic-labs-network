@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Vintage radio, guitar, book, and archival objects connected by warm light in a
   historian’s study.
+topics:
+  - Good Vibes
 ---
 
 December 18th is a day that has witnessed remarkable moments in history, each contributing to the diverse tapestry of global achievements and cultural milestones. From groundbreaking discoveries to significant cultural events, this date holds a special place in various fields, including science, music, and literature.

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Laptop user surrounded by abstract digital privacy and speech moderation
   symbols
+topics:
+  - Deep Dives
 ---
 
 In recent years, discussions around digital privacy and freedom of speech have intensified, driven by concerns over online censorship and the role of technology companies in controlling information flow. This debate has been particularly heated in the context of social media platforms and their influence on public discourse. With the rapid evolution of the internet, addressing these issues has become crucial for maintaining a balanced and open society.

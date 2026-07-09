@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Confident yoga instructor in a sunlit studio with mats prepared for a calming
   workshop
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Feeling ready to take the leap into hosting your own yoga workshop but held back by self-doubt? You're not alone. Many yoga teachers face similar challenges, often grappling with feelings of inadequacy known as imposter syndrome. In this insightful discussion, Brea Johnson and Ula unpack the psychological barriers that prevent many aspiring instructors from sharing their gifts with the world.

@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Child-sized electric car on a sunny test track with safety-focused futuristic
   styling
+topics:
+  - Electric Cars
+  - Industry
+  - Concept Cars
 ---
 
 In an era where electric vehicles are becoming the norm, the Firefly EV emerges as a unique contender in the market. Designed specifically for the younger generation, this vehicle is not just a mode of transportation but a playful introduction to the world of electric cars. With its compact size and vibrant features, the Firefly EV offers a delightful driving experience for children, making it an exciting addition to the automotive landscape.

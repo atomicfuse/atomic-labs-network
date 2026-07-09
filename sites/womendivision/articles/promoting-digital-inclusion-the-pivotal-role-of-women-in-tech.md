@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Diverse women technologists collaborate around a glowing digital interface in
   a modern workspace.
+topics:
+  - Advice
 ---
 
 In the rapidly evolving domain of technology, women are stepping up to the plate and making their presence felt. They're not just participating; they're leading, innovating, and actively advocating for digital inclusion. Through their relentless efforts, they're ensuring that the tech landscape is accessible and beneficial to all, irrespective of gender or background.

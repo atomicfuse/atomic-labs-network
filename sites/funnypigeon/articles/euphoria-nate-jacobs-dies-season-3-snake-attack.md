@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   A tense desert scene with a shallow grave, a white tank top, and a snake trail
   in neon-tinged dusk light.
+topics:
+  - Viral
 ---
 ## Major Character Death Shocks Euphoria Fans
 

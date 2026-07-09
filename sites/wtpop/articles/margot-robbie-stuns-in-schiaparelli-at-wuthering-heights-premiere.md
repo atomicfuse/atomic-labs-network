@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Elegant blonde actor in sculptural couture on a moody red carpet at a film
   premiere
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Margot Robbie once again captivated audiences at the Los Angeles premiere of "Wuthering Heights," showcasing her impeccable sense of style. The Australian actress, known for her versatile roles and red carpet elegance, chose an exquisite ensemble that perfectly matched the event's grandeur.

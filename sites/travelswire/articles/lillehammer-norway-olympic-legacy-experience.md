@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Cross-country skier in a red jacket gliding through snowy Lillehammer terrain
   toward distant ski jumps.
+topics:
+  - Destination Guides
+  - Local Culture
 ---
 ## A Living Olympic Destination Beyond the History Books
 

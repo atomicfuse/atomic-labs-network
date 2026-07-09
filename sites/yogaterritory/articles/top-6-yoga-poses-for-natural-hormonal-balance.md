@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   A woman practices a restorative yoga pose in a calm sunlit studio with soft
   abstract light patterns.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Yoga is more than just a physical practice; it also plays a crucial role in balancing hormones naturally. Many people struggle with hormonal imbalances, leading to various health issues, but yoga offers an accessible and effective solution. By incorporating specific yoga poses into your routine, you can promote hormonal harmony and improve overall well-being.

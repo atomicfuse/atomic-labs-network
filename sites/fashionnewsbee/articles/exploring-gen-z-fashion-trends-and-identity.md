@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Diverse Gen Z friends in expressive vintage and streetwear outfits in a sunny
   urban courtyard
+topics:
+  - Fashion
 ---
 
 Generation Z, the cohort born between the late 1990s and early 2010s, is redefining fashion with an eclectic mix of influences. Their unique sense of style embraces individual expression and sustainability, setting new trends that are quickly gaining traction worldwide.

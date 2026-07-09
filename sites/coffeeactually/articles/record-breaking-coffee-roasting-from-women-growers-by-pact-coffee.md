@@ -46,6 +46,8 @@ quality_note: >-
   specific details and concrete data to support claims about Pact Coffee's
   record-breaking initiative.
 image_alt: Woman coffee grower holding ripe coffee cherries in a lush sunlit farm
+topics:
+  - Coffee News
 ---
 
 Pact Coffee, a trailblazer in the specialty coffee industry, is making significant strides in supporting female coffee producers. This year, the company is set to roast an unprecedented volume of coffee sourced directly from women growers, underscoring its commitment to gender equality and sustainable practices in the coffee supply chain.

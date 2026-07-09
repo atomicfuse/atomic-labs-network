@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Stylish couple with luggage in an airport lounge as storm clouds gather over
   the runway.
+topics:
+  - Travel
+  - Travel Tips
+  - Lifestyle
 ---
 ## The Rise of Relationship Testing Through Travel
 

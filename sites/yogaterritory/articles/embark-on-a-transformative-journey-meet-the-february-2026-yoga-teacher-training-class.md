@@ -51,6 +51,10 @@ quality_note: >-
 image_alt: >-
   Diverse yoga trainees sit in a sunlit studio circle, suggesting calm,
   community, and personal growth.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 In a world where transformation is often sought but rarely achieved, the February 2026 Yoga Teacher Training Class stands as a beacon for those yearning for change. This gathering of individuals from diverse backgrounds, united by a common goal of personal and spiritual growth, marks the beginning of an inspiring journey.

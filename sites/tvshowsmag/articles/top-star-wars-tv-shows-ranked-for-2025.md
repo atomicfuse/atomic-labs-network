@@ -1,24 +1,32 @@
 ---
-title: "Top Star Wars TV Shows Ranked for 2025"
-description: "The Star Wars universe expands beyond its original films with captivating TV shows, offering unique perspectives and deepening fans' connection to the galaxy. From \"The Mandalorian\" to \"Ahsoka,\" each series enriches the lore with compelling storytelling and beloved characters."
-type: "standard"
-status: "published"
-publishDate: "2025-08-14T05:07:35+00:00"
-author: "Taylor Winters"
+title: Top Star Wars TV Shows Ranked for 2025
+description: >-
+  The Star Wars universe expands beyond its original films with captivating TV
+  shows, offering unique perspectives and deepening fans' connection to the
+  galaxy. From "The Mandalorian" to "Ahsoka," each series enriches the lore with
+  compelling storytelling and beloved characters.
+type: standard
+status: published
+publishDate: '2025-08-14T05:07:35+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "TV Shows"
-slug: "top-star-wars-tv-shows-ranked-for-2025"
+  - TV News
+  - TV Shows
+slug: top-star-wars-tv-shows-ranked-for-2025
 reading_time: 3
-source_url: "https://www.tvshowsmag.com/top-star-wars-tv-shows-ranked-for-2025/"
-imported_from: "wordpress"
+source_url: 'https://www.tvshowsmag.com/top-star-wars-tv-shows-ranked-for-2025/'
+imported_from: wordpress
 wp_original_id: 28085
-featuredImage: "/assets/images/tvshowsmag-general-article.webp"
+featuredImage: /assets/images/tvshowsmag-general-article.webp
 seo:
-  canonical: "https://www.tvshowsmag.com/top-star-wars-tv-shows-ranked-for-2025/"
-  og_title: "Top Star Wars TV Shows Ranked for 2025 - TV Shows Magazine"
-  og_description: "The Star Wars universe expands beyond its original films with captivating TV shows, offering unique perspectives and deepening fans' connection to the galaxy. From \"The Mandalorian\" to \"Ahsoka,\" each series enriches the lore with compelling storytelling and beloved characters."
-  twitter_card: "summary_large_image"
+  canonical: 'https://www.tvshowsmag.com/top-star-wars-tv-shows-ranked-for-2025/'
+  og_title: Top Star Wars TV Shows Ranked for 2025 - TV Shows Magazine
+  og_description: >-
+    The Star Wars universe expands beyond its original films with captivating TV
+    shows, offering unique perspectives and deepening fans' connection to the
+    galaxy. From "The Mandalorian" to "Ahsoka," each series enriches the lore
+    with compelling storytelling and beloved characters.
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +34,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: "Well-written entertainment content with good tone and accuracy, but significantly under target word count at 466 words instead of the 800-1200 range."
+quality_note: >-
+  Well-written entertainment content with good tone and accuracy, but
+  significantly under target word count at 466 words instead of the 800-1200
+  range.
+topics:
+  - TV News
 ---
 
 The Star Wars universe has expanded far beyond its original film series, captivating audiences with a variety of television shows that explore new stories and characters. With each series offering a unique perspective, fans have been treated to a rich tapestry of storytelling that deepens their connection to this beloved galaxy.

@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Stylish fashion workspace with a phone, fabric swatches, and dresses
   suggesting online style discovery
+topics:
+  - Travel Tips
+  - Packing Guides
 ---
 
 Finding the perfect dress online can feel overwhelming, especially when you have a specific look in mind but do not know the brand, store, or exact name of the item. Whether you saw a dress in a video, on social media, in a photo, or simply imagined a certain style, the right search strategy can make the process much easier.

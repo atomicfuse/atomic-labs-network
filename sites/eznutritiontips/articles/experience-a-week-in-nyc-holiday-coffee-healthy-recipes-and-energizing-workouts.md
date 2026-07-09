@@ -50,6 +50,10 @@ quality_note: >-
 image_alt: >-
   Cozy NYC apartment scene with holiday coffee, fresh food, workout gear, and a
   winter city skyline.
+topics:
+  - Healthy Recipes
+  - Special Diets
+  - Weight & Wellness
 ---
 
 Join us as we dive into a bustling week in New York City, exploring holiday coffee delights at Ralph's, trying our hand at healthy recipes at home, and maintaining an active lifestyle through various workouts. This journey offers a glimpse into the vibrant life of NYC, filled with culinary adventures and fitness routines.

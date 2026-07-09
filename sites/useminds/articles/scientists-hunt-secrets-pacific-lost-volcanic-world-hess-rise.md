@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Research vessel at night above a glowing underwater volcanic plateau in the
   North Pacific.
+topics:
+  - Mind-Blowing Science
+  - Space & The Unknown
 ---
 ## A Geological Cold Case Reopened
 

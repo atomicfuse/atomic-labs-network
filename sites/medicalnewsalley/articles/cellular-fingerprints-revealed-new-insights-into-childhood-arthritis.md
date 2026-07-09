@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Abstract immune cells form fingerprint patterns around a softly glowing
   child’s knee joint.
+topics:
+  - Health News
 ---
 
 Recent advances in medical research have opened new avenues to understanding juvenile idiopathic arthritis (JIA), a condition affecting children worldwide. This chronic inflammatory disease impacts the joints, and its underlying mechanisms have long puzzled scientists and healthcare professionals. A groundbreaking study has now shed light on the cellular processes that contribute to this condition, offering hope for better treatments in the future.

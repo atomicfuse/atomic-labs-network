@@ -42,6 +42,9 @@ quality_note: >-
   on word count, and contains vague content that appears fabricated rather than
   factual.
 image_alt: A cozy living room lit by a glowing television and colorful cinematic light
+topics:
+  - TV News
+  - Reviews
 ---
 
 Television continues to offer a captivating array of shows, providing viewers with diverse entertainment options each week. As winter settles in, many are eager to find new programs to enjoy from the comfort of their homes. This week, several shows stand out, promising both fresh perspectives and engaging storytelling.

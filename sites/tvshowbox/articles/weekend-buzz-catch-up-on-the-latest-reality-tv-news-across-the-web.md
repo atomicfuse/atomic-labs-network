@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Glowing TV, magazines, phone, and popcorn suggest a weekend roundup of reality
   TV gossip.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Welcome to your one-stop destination for all the buzzworthy happenings in the exciting world of reality television. From revealing interviews with reality TV stars to the juiciest gossip on your favorite shows, we've got it all covered. Let's dive straight into the potpourri of reality TV news that made headlines this weekend. Just remember, in the world of reality TV, there's never a dull moment!

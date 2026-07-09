@@ -41,6 +41,10 @@ quality_note: >-
 image_alt: >-
   A person pauses on a winding hillside path at sunrise with misty mountains
   ahead.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 **Your wildest dreams aren't going to become a reality overnight.** These things take time. You might feel like you're behind because other people in your field are moving at a faster pace, or because they reached 'success' at an earlier age than you, but there isn't a time limit on when you're allowed to accomplish your big dreams. You aren't running out of time. Quite the contrary. The more time that passes, the more you're growing, the more you're learning. Every single day, you're strengthening your skills, and sooner or later, you're going to see your effort rewarded.

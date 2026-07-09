@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Sunlit kitchen counter with water and fresh balanced foods for kidney-friendly
   eating
+topics:
+  - Special Diets
 ---
 
 Maintaining kidney health is crucial for overall well-being, as these vital organs perform essential tasks like filtering waste and balancing body fluids. A nutritious diet plays a significant role in safeguarding kidney function and preventing complications. By making informed dietary choices, you can support your kidneys and promote better health.

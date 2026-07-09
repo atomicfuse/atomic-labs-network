@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A shadowed figure stands in a dim apartment as dawn light reveals signs of
   mystery and tension.
+topics:
+  - Watch
 ---
 
 The world of entertainment has been abuzz with the latest addition to HBO's lineup, a series that promises to captivate audiences with its unique storytelling and intriguing characters. This new show, set against a backdrop of drama and mystery, is already making waves among viewers and critics alike. As the first episode unfolds, viewers are drawn into the complex lives of its characters, setting the stage for a season filled with suspense and unexpected turns.

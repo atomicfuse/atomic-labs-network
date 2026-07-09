@@ -38,6 +38,12 @@ reading_time: 3
 image_alt: >-
   Prepared healthy snacks on a calm kitchen counter with treats blurred behind
   glass
+topics:
+  - Nutrition
+  - Paleo Diet
+  - Meal Plans
+  - Healthy Snacks
+  - Recipes
 ---
 ## The Science Behind Stress and Food Choices
 

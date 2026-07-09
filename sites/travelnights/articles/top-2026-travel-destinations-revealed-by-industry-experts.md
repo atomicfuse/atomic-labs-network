@@ -1,24 +1,36 @@
 ---
-title: "Top 2026 Travel Destinations Revealed by Industry Experts"
-description: "In 2026, travelers can explore diverse destinations from Europe's scenic Amalfi Coast to Africa's thrilling safaris and Asia's vibrant cultures. Whether seeking beaches or adventure, this year offers unforgettable experiences worldwide, inviting wanderlust-filled journeys and cultural discoveries."
-type: "standard"
-status: "published"
-publishDate: "2025-12-18T10:53:06+00:00"
-author: "Malcolm Anderson"
+title: Top 2026 Travel Destinations Revealed by Industry Experts
+description: >-
+  In 2026, travelers can explore diverse destinations from Europe's scenic
+  Amalfi Coast to Africa's thrilling safaris and Asia's vibrant cultures.
+  Whether seeking beaches or adventure, this year offers unforgettable
+  experiences worldwide, inviting wanderlust-filled journeys and cultural
+  discoveries.
+type: standard
+status: published
+publishDate: '2025-12-18T10:53:06+00:00'
+author: Malcolm Anderson
 tags:
-  - "Destinations"
-slug: "top-2026-travel-destinations-revealed-by-industry-experts"
+  - Destinations
+slug: top-2026-travel-destinations-revealed-by-industry-experts
 reading_time: 3
-source_url: "https://travelnights.com/top-2026-travel-destinations-revealed-by-industry-experts/"
-imported_from: "wordpress"
+source_url: >-
+  https://travelnights.com/top-2026-travel-destinations-revealed-by-industry-experts/
+imported_from: wordpress
 wp_original_id: 36671
-featuredImage: "/assets/images/travelnights-general-article.webp"
+featuredImage: /assets/images/travelnights-general-article.webp
 seo:
-  canonical: "https://travelnights.com/top-2026-travel-destinations-revealed-by-industry-experts/"
-  og_title: "Top 2026 Travel Destinations Revealed by Industry Experts - Travel Nights"
-  og_description: "In 2026, travelers can explore diverse destinations from Europe's scenic Amalfi Coast to Africa's thrilling safaris and Asia's vibrant cultures. Whether seeking beaches or adventure, this year offers unforgettable experiences worldwide, inviting wanderlust-filled journeys and cultural discoveries."
-  og_image: "https://travelnights.com/wp-content/uploads/2025/12/make_file-16.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://travelnights.com/top-2026-travel-destinations-revealed-by-industry-experts/
+  og_title: Top 2026 Travel Destinations Revealed by Industry Experts - Travel Nights
+  og_description: >-
+    In 2026, travelers can explore diverse destinations from Europe's scenic
+    Amalfi Coast to Africa's thrilling safaris and Asia's vibrant cultures.
+    Whether seeking beaches or adventure, this year offers unforgettable
+    experiences worldwide, inviting wanderlust-filled journeys and cultural
+    discoveries.
+  og_image: 'https://travelnights.com/wp-content/uploads/2025/12/make_file-16.jpeg'
+  twitter_card: summary_large_image
 quality_score: 77
 score_breakdown:
   seo_quality: 75
@@ -26,7 +38,11 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: "Well-written travel content with excellent tone and keyword relevance, but significantly under target word count at 426 words versus the 800-1200 range."
+quality_note: >-
+  Well-written travel content with excellent tone and keyword relevance, but
+  significantly under target word count at 426 words versus the 800-1200 range.
+topics:
+  - Destinations
 ---
 
 As the world gradually opens up to travelers once more, 2026 brings a wealth of enticing destinations that promise unforgettable experiences. Whether you're seeking sun-drenched beaches, rich cultural experiences, or adrenaline-pumping adventures, this year offers a diverse array of locations to explore. Let's dive into some of the top travel spots that should be on your radar.

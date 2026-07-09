@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Candid automotive studio scene with a performance car, production gear, and a
   laughing host figure.
+topics:
+  - News
 ---
 
 To commemorate the 25th episode of Wide Open Throttle, Jessi Lang takes a look back at the show's evolution and brings you all the bloopers and behind-the-scenes moments you haven't yet seen.

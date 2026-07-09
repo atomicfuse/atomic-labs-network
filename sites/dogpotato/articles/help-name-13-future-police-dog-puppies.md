@@ -1,24 +1,34 @@
 ---
-title: "Help Name 13 Future Police Dog Puppies"
-description: "The RCMP invites the public to name 13 German Shepherd puppies destined for police service, fostering community engagement. Children aged 4 to 14 can submit names starting with \"S\" to reflect the spirit and future work of these service dogs."
-type: "standard"
-status: "published"
-publishDate: "2026-03-02T09:53:27+00:00"
-author: "Taylor Winters"
+title: Help Name 13 Future Police Dog Puppies
+description: >-
+  The RCMP invites the public to name 13 German Shepherd puppies destined for
+  police service, fostering community engagement. Children aged 4 to 14 can
+  submit names starting with "S" to reflect the spirit and future work of these
+  service dogs.
+type: standard
+status: published
+publishDate: '2026-03-02T09:53:27+00:00'
+author: Taylor Winters
 tags:
-  - "Dogs"
-slug: "help-name-13-future-police-dog-puppies"
+  - Dogs
+slug: help-name-13-future-police-dog-puppies
 reading_time: 3
-source_url: "https://dogpotato.com/help-name-13-future-police-dog-puppies/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/help-name-13-future-police-dog-puppies/'
+imported_from: wordpress
 wp_original_id: 40176
-featuredImage: "/assets/images/help-name-13-future-police-dog-puppies.webp"
+featuredImage: /assets/images/help-name-13-future-police-dog-puppies.webp
 seo:
-  canonical: "https://dogpotato.com/help-name-13-future-police-dog-puppies/"
-  og_title: "Help Name 13 Future Police Dog Puppies - Dog Potato"
-  og_description: "The RCMP invites the public to name 13 German Shepherd puppies destined for police service, fostering community engagement. Children aged 4 to 14 can submit names starting with \"S\" to reflect the spirit and future work of these service dogs."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/03/make_file.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/help-name-13-future-police-dog-puppies/'
+  og_title: Help Name 13 Future Police Dog Puppies - Dog Potato
+  og_description: >-
+    The RCMP invites the public to name 13 German Shepherd puppies destined for
+    police service, fostering community engagement. Children aged 4 to 14 can
+    submit names starting with "S" to reflect the spirit and future work of
+    these service dogs.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/03/make_file.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Dogs
 ---
 
 The Royal Canadian Mounted Police (RCMP) is on a heartwarming mission, inviting the public to participate in a special initiative: naming 13 adorable German Shepherd puppies destined for a future in law enforcement. These puppies, born at the Police Dog Service Training Centre in Innisfail, Alberta, are set to become the next generation of police service dogs, playing crucial roles in search and rescue operations, tracking, and crime-solving missions.

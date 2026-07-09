@@ -37,6 +37,9 @@ quality_note: >-
   significantly under target word count and contains potentially fabricated
   details about the film's plot and Bardem's recent projects.
 reading_time: 3
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## Bardem Returns to Cannes with Family Drama
 

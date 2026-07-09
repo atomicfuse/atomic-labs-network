@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Interstellar object surrounded by glowing fragments forming a teardrop trail
   in deep space
+topics:
+  - Internet Mysteries
 ---
 
 The interstellar object 3I/ATLAS has captivated astronomers and space enthusiasts alike with its mysterious journey through our solar system. Recent observations have added an intriguing layer to this celestial puzzle: a swarm of objects trailing behind 3I/ATLAS.

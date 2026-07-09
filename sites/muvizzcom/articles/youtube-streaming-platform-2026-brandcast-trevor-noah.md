@@ -36,6 +36,8 @@ quality_note: >-
   by factual issues including reporting on a 2026 event as if it already
   happened and lack of verifiable sources.
 reading_time: 3
+topics:
+  - Streaming
 ---
 ## YouTube Stakes Its Claim as Entertainment's Future
 

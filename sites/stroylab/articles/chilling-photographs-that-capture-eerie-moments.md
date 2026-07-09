@@ -41,6 +41,10 @@ quality_note: >-
   underwritten at only 325 words and contains vague, unverifiable claims without
   specific details or sources.
 image_alt: Vintage photographs on a shadowed table beside a stormy rain-streaked window.
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Photographs are often seen as windows to the past, capturing moments that convey emotions or tell stories. However, some photos reveal more than expected, unveiling chilling and eerie narratives. In this article, we delve into three disturbing stories where photographs played a pivotal role in uncovering unsettling truths.

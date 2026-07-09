@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Clinician reviews a prenatal ultrasound with subtle AI highlights around the
   fetal heart.
+topics:
+  - Research
+  - Wellness
 ---
 
 Congenital heart defects (abnormalities of the heart that are present at birth) are the most common type of birth defect and, according to the Centers for Disease Control and Prevention, about 1 in 4 babies born with a heart defect has a diagnosis that is severe enough to require surgery or other medical intervention within the first year of life. Despite advances in prenatal care, the detection rate of congenital heart defects during routine ultrasounds remains suboptimal.

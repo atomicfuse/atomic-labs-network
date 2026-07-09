@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Vintage bedroom computer with floppy disks connected to glowing abstract
   network lines
+topics:
+  - Tech
 ---
 ## The Origins of Collaborative Coding
 

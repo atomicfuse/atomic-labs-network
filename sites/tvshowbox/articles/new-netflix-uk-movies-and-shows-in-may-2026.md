@@ -1,27 +1,35 @@
 ---
-title: "New Netflix UK Movies and Shows in May 2026"
-description: "Netflix UK's May 2026 lineup includes The Four Seasons with Tina Fey and Steve Carell, Kylie Minogue programming, major documentaries, returning animation, international drama, thrillers, horror, and family films for a packed month of streaming."
-type: "standard"
+title: New Netflix UK Movies and Shows in May 2026
+description: >-
+  Netflix UK's May 2026 lineup includes The Four Seasons with Tina Fey and Steve
+  Carell, Kylie Minogue programming, major documentaries, returning animation,
+  international drama, thrillers, horror, and family films for a packed month of
+  streaming.
+type: standard
 status: published
-publishDate: "2026-05-21T08:36:49+00:00"
-author: "Taylor Winters"
+publishDate: '2026-05-21T08:36:49+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-  - "TV"
-  - "Upcoming"
-slug: "new-netflix-uk-movies-and-shows-in-may-2026"
+  - TV News
+  - News
+  - TV
+  - Upcoming
+slug: new-netflix-uk-movies-and-shows-in-may-2026
 reading_time: 7
-source_url: "https://tvshowbox.com/new-netflix-uk-movies-and-shows-in-may-2026/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/new-netflix-uk-movies-and-shows-in-may-2026/'
+imported_from: wordpress
 wp_original_id: 24114
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/new-netflix-uk-movies-and-shows-in-may-2026/"
-  og_title: "New Netflix UK Movies and Shows in May 2026 - TV Show Box"
-  og_description: "Netflix UK’s latest arrivals include The Four Seasons, Kylie Minogue programming, major documentaries, returning animation, international drama, thrillers, horror, family films, and comfort viewing for a packed month of streaming."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/05/make_file-5.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://tvshowbox.com/new-netflix-uk-movies-and-shows-in-may-2026/'
+  og_title: New Netflix UK Movies and Shows in May 2026 - TV Show Box
+  og_description: >-
+    Netflix UK’s latest arrivals include The Four Seasons, Kylie Minogue
+    programming, major documentaries, returning animation, international drama,
+    thrillers, horror, family films, and comfort viewing for a packed month of
+    streaming.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/05/make_file-5.jpeg'
+  twitter_card: summary_large_image
 quality_score: 74
 score_breakdown:
   seo_quality: 75
@@ -29,7 +37,13 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: "Well-written entertainment content with excellent keyword coverage and proper length, but severely compromised by fabricated May 2026 content including non-existent shows and false cast information."
+quality_note: >-
+  Well-written entertainment content with excellent keyword coverage and proper
+  length, but severely compromised by fabricated May 2026 content including
+  non-existent shows and false cast information.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Netflix UK has a busy month ahead, with a mix of prestige comedy, true-crime documentaries, returning animation, international drama, family viewing, and music-led specials. From Tina Fey and Steve Carell leading The Four Seasons to new Kylie Minogue programming, the latest arrivals give subscribers plenty to add to their watchlists.

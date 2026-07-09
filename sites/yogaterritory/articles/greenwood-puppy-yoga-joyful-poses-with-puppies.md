@@ -42,6 +42,10 @@ quality_note: >-
   vs 800-1200 target) and could benefit from stronger SEO optimization including
   meta description length and more strategic keyword placement.
 image_alt: People practice gentle yoga as playful puppies wander through a sunlit studio.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 In a delightful fusion of wellness and companionship, Greenwood has introduced an innovative trend that is capturing hearts and bringing smiles to many faces: puppy yoga. This unique activity combines the calming practice of yoga with the playful energy of puppies, offering participants a refreshing way to relax and unwind.

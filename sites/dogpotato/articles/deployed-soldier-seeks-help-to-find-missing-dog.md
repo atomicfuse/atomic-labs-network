@@ -35,6 +35,10 @@ quality_note: >-
 image_alt: >-
   Military boots beside an empty dog collar and leash on a quiet porch at
   sunset.
+topics:
+  - Animal Planet
+  - Dogs
+  - Other Animals
 ---
 ## Soldier Reaches Out for Assistance
 

@@ -43,6 +43,9 @@ quality_note: >-
   target word count at only 212 words versus the 800-1200 word target,
   significantly impacting overall quality.
 image_alt: Elegant affordable wardrobe and beauty essentials arranged in a sunlit room
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Looking expensive and elegant doesn't have to come with a high price tag. In this guide, we share effective beauty hacks and dressing sense ideas that will help you achieve a classy appearance without overspending.

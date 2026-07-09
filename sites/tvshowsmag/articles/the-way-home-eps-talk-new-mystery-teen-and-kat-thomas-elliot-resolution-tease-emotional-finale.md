@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Teen girl silhouetted by a misty pond at twilight with a glowing farmhouse and
   distant figures behind her.
+topics:
+  - TV News
 ---
 
 *The Way Home* Season 3, Episode 9 introduces a new mystery teen girl, and the show's EPs are opening up about what her appearance means for the story ahead, how the Kat/Thomas/Elliot triangle will be resolved, and what fans can expect from what promises to be an emotional season finale.

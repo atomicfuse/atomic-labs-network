@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Dewy skincare products and a glowing woman lit by soft morning light in a calm
   beauty routine setting.
+topics:
+  - Travel Tips
+  - Beauty Tips
+  - Packing Guides
 ---
 
 Sabrina Carpenter, known for her remarkable talent and vibrant presence, also boasts radiant skin that many admire. The secret behind her glowing complexion lies in her skincare routine, crafted with expertise by her aesthetician. This article delves into the techniques and products used to maintain Carpenter's flawless skin, providing insights into achieving a similar glow.

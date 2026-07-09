@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   A modern biophilic living room with plants, bold colors, natural materials,
   and soft daylight.
+topics:
+  - Design Tips
+  - Home Improvement
 ---
 
 Living room design trends continue to evolve, bringing fresh ideas and inspiration each year. As we look ahead to 2025, several captivating styles and innovative concepts are emerging, reshaping the way we think about our living spaces. From embracing nature indoors to infusing personality into decor, the upcoming year's best-loved living rooms offer a blend of style, comfort, and functionality.

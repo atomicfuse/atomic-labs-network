@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Serene woman with glowing skin in a sunlit skincare setting with towels and
   unbranded bottles.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Maintaining healthy, glowing skin can be a challenge when faced with stress and daily makeup use. While both factors can impact your skin's vitality, incorporating expert-approved skincare routines can help preserve its natural radiance. By understanding the effects of stress and makeup, and adopting strategies to counter their impact, you can keep your skin looking vibrant.

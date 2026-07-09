@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Diverse gamers gather in an accessible, warmly lit gaming lounge with adaptive
   controllers.
+topics:
+  - Gaming News
 ---
 
 Maverick Gaming has taken a giant step in redefining the gaming landscape by making their platform inclusive for every type of player. Their innovative approach is designed to ensure that everyone, regardless of their gaming preferences or skill level, finds a welcoming space to engage and enjoy.

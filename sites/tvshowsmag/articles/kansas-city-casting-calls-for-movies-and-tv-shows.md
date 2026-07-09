@@ -41,6 +41,9 @@ quality_note: >-
   productions, making it more of a general overview than actionable
   entertainment news.
 image_alt: Film crew preparing a cinematic shoot on a Kansas City street at twilight
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 The bustling city of Kansas City is increasingly becoming a hub for film and television productions, attracting a variety of projects seeking the unique backdrop and talent the region offers. With major productions scouting the area, Kansas City is solidifying its position as a go-to location for filmmakers.

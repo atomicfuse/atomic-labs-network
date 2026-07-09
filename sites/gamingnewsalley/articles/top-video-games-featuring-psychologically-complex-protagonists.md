@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Solitary figure facing a glowing screen surrounded by surreal shadows and
   fractured reflections
+topics:
+  - Gaming News
 ---
 
 The world of video games often explores complex themes, including the psychological depth of its characters. Some standout games feature protagonists who grapple with severe mental struggles, offering players a unique and intense experience.

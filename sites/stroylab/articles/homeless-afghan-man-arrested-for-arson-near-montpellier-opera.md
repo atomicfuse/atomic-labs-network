@@ -41,6 +41,8 @@ quality_note: >-
   lacking any substantial content, proper structure, or relevance to the site's
   conspiracy/mystery focus.
 image_alt: Emergency responders stand near smoke outside a grand opera house at night.
+topics:
+  - Deep Dives
 ---
 
 *No article body content was available for this story. The text provided did not correspond to the article title and appeared to be unrelated placeholder content.*

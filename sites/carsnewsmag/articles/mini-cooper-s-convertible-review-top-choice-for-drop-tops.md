@@ -42,6 +42,8 @@ quality_note: >-
   Well-written review with good tone and relevance but significantly short at
   442 words versus the 800-1200 word target, limiting its overall impact.
 image_alt: Sporty compact convertible drives along a winding coastal road at golden hour
+topics:
+  - Reviews
 ---
 
 The Mini Cooper S Convertible stands out as a stylish and dynamic choice for open-top driving enthusiasts. Combining iconic design with powerful performance, this convertible offers an exhilarating driving experience. Let's explore what makes this car a favorite among convertible lovers.

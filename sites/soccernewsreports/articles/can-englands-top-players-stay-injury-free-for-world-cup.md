@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Four unbranded England footballers stand on a floodlit pitch facing a golden
   trophy glow.
+topics:
+  - Latest News
 ---
 
 As the anticipation for the upcoming World Cup builds, England's national football team gears up with a solid backbone comprising some of the sport's most skilled players. This core group, featuring Jordan Pickford, John Stones, Declan Rice, and Harry Kane, is expected to be pivotal in England's quest for international glory. Each of these players brings unique strengths and experience, forming a formidable squad that fans hope will break past records.

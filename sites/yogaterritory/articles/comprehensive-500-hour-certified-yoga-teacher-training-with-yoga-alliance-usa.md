@@ -48,6 +48,10 @@ quality_note: >-
   structure, though it maintains appropriate tone and covers relevant yoga
   topics.
 image_alt: 'Yoga instructor guiding a diverse class in a bright, peaceful studio'
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Are you ready to elevate your yoga practice and teaching skills to a professional level? Our 500-hour Certified Yoga Teacher Training Course, accredited by the prestigious Yoga Alliance USA, offers an extensive curriculum designed to transform yoga enthusiasts into expert instructors. This comprehensive training is conducted online, making it accessible to students worldwide, regardless of their location.

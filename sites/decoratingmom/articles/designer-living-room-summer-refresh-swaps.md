@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Airy summer living room with light textiles, simple decor, natural rug, and
   fresh greenery.
+topics:
+  - Interior Design
+  - Budget Decor
+  - DIY Projects
 ---
 ## Make Your Living Room Summer-Ready Without the Heavy Lifting
 

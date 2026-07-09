@@ -46,6 +46,8 @@ quality_note: >-
   news about area cleanup rather than cars, and is far too short at only 268
   words.
 image_alt: Cleaned urban tunnel and park path in Los Angeles after a major cleanup effort
+topics:
+  - News
 ---
 
 The Whittier Narrows area in Los Angeles has witnessed a transformative change, thanks to a comprehensive cleanup operation instigated by an exclusive FOX 11 investigation. This move came in response to pressing concerns about crime, homeless encampments, and activities within the tunnels that had been adversely affecting the region.

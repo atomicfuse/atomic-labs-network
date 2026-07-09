@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Historic ballroom renovation with modern tech equipment and an anonymous
   suited figure reviewing plans.
+topics:
+  - Innovation
+  - Tech
 ---
 
 The recent renovation of a White House ballroom has attracted attention, not just for its aesthetic updates but also for its funding sources. This project highlights a collaboration between the government and private tech giants like Microsoft and Amazon. The involvement of these companies in the renovation has sparked discussions about their influence and role in the public sector.

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Film crew lights up a small Texas town street at golden hour as locals watch
   nearby.
+topics:
+  - TV News
 ---
 
 In the small town of Jacksboro, Texas, excitement is in the air as the production crew of a popular television series makes its presence known. This bustling activity has brought a sense of Hollywood glamour to the otherwise quiet community. The series, known for its gripping narrative and star-studded cast, promises to shine a spotlight on this charming locale, giving Jacksboro a chance to play a pivotal role in the unfolding drama.

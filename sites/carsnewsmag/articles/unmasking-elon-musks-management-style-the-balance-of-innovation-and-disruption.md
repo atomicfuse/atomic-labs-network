@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   Executive silhouette overlooks a high-tech electric vehicle factory floor with
   robotic assembly lines.
+topics:
+  - News
+  - Industry
 ---
 ## The Dual Nature of Musk's Leadership
 

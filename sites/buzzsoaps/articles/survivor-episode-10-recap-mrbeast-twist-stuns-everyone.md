@@ -39,6 +39,9 @@ quality_note: >-
   severely damaged by fabricated Survivor 50 content and false MrBeast
   connection claims.
 image_alt: Torches and shadowed figures around a firelit jungle council scene at night
+topics:
+  - Off Script
+  - Watch
 ---
 
 Survivor 50 episode 10 pushes the season into a sharper, stranger lane, where old-school social survival collides with the spectacle-driven energy of modern competition television. The CBS reality staple has always rewarded patience, discipline, and persuasive timing. This installment keeps those fundamentals intact, but it also feels aware of a culture shaped by giant stunts, viral prizes, and the MrBeast-style promise that any challenge can become a life-changing event.

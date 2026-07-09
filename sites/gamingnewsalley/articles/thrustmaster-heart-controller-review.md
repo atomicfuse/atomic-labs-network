@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Unbranded wired game controller on a dark desk with subtle magnetic field
   visuals around the sticks
+topics:
+  - Gaming News
 ---
 
 ## Beyond the Buzzwords: Thrustmaster's HEART Controller for Xbox and PC

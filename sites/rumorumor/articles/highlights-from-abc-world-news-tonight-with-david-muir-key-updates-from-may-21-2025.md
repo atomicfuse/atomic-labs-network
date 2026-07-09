@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Moody newsroom control room with screens hinting at politics, aviation, and a
   jailbreak
+topics:
+  - Celebrities
 ---
 
 ABC World News Tonight with David Muir aired a comprehensive broadcast on May 21, 2025, covering a range of impactful news stories from around the globe.

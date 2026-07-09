@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Abstract technology network blending with greenery, renewable energy, and
   circular sustainability symbols.
+topics:
+  - Innovation
+  - Tech
 ---
 
 The technology sector holds a transformative potential to drive a nature-positive transition. As environmental concerns rise globally, tech companies are uniquely positioned to initiate and sustain eco-friendly innovations. By leveraging their resources and influence, these companies can foster sustainable practices that benefit both business and the planet.

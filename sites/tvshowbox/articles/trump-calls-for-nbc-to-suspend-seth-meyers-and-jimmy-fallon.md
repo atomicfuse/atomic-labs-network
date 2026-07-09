@@ -1,26 +1,36 @@
 ---
-title: "Trump Calls for NBC to Suspend Seth Meyers and Jimmy Fallon"
-description: "The suspension of late-night host Jimmy Kimmel over controversial remarks has sparked a debate about free speech and comedic boundaries, drawing reactions from high-profile figures and highlighting the influence of late-night television on public discourse."
-type: "standard"
+title: Trump Calls for NBC to Suspend Seth Meyers and Jimmy Fallon
+description: >-
+  The suspension of late-night host Jimmy Kimmel over controversial remarks has
+  sparked a debate about free speech and comedic boundaries, drawing reactions
+  from high-profile figures and highlighting the influence of late-night
+  television on public discourse.
+type: standard
 status: published
-publishDate: "2025-09-18T04:23:55+00:00"
-author: "Taylor Winters"
+publishDate: '2025-09-18T04:23:55+00:00'
+author: Taylor Winters
 tags:
-  - "TV News"
-  - "News"
-  - "TV"
-slug: "trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon"
+  - TV News
+  - News
+  - TV
+slug: trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon
 reading_time: 3
-source_url: "https://tvshowbox.com/trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon/"
-imported_from: "wordpress"
+source_url: >-
+  https://tvshowbox.com/trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon/
+imported_from: wordpress
 wp_original_id: 23940
-featuredImage: "/assets/images/tvshowbox-general-article.webp"
+featuredImage: /assets/images/tvshowbox-general-article.webp
 seo:
-  canonical: "https://tvshowbox.com/trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon/"
-  og_title: "Trump Calls for NBC to Suspend Seth Meyers and Jimmy Fallon - TV Show Box"
-  og_description: "The suspension of late-night host Jimmy Kimmel over controversial remarks has sparked a debate about free speech and comedic boundaries, drawing reactions from high-profile figures and highlighting the influence of late-night television on public discourse."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2025/09/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/trump-calls-for-nbc-to-suspend-seth-meyers-and-jimmy-fallon/
+  og_title: Trump Calls for NBC to Suspend Seth Meyers and Jimmy Fallon - TV Show Box
+  og_description: >-
+    The suspension of late-night host Jimmy Kimmel over controversial remarks
+    has sparked a debate about free speech and comedic boundaries, drawing
+    reactions from high-profile figures and highlighting the influence of
+    late-night television on public discourse.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2025/09/make_file-2.jpeg'
+  twitter_card: summary_large_image
 quality_score: 61
 score_breakdown:
   seo_quality: 75
@@ -28,7 +38,14 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 85
-quality_note: "The article covers relevant TV news topics with appropriate tone, but is significantly too short at 507 words and contains major factual inaccuracies including a fabricated Jimmy Kimmel suspension that doesn't match the title's claim about Trump calling for NBC suspensions."
+quality_note: >-
+  The article covers relevant TV news topics with appropriate tone, but is
+  significantly too short at 507 words and contains major factual inaccuracies
+  including a fabricated Jimmy Kimmel suspension that doesn't match the title's
+  claim about Trump calling for NBC suspensions.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 In a surprising turn of events, the spotlight has turned toward late-night television amidst a recent suspension announcement involving Jimmy Kimmel. Known for his political satire and humor, Kimmel's commentary has often stirred reactions, but this latest development has ignited a new wave of discussions. The situation has also attracted attention from high-profile figures, adding another layer of intrigue to the unfolding story.

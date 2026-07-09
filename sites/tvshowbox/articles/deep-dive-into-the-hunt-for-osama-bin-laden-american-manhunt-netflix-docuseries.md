@@ -52,6 +52,9 @@ quality_note: >-
 image_alt: >-
   Dim intelligence room with maps, files, and surveillance tools suggesting a
   global manhunt.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 The Netflix docuseries *American Manhunt: Osama bin Laden*, directed by Mor Loushy and Daniel Sivan, thoroughly examines the worldwide manhunt for Osama bin Laden which followed his instigation of the September 11th, 2001 attacks against the United States. The series highlights key government insiders involved in this global pursuit, focusing on the arduous ten-year journey to apprehend one of the world's most infamous international terrorists.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A moody TV studio nursery with baby booties on a director’s chair and crew
   silhouettes beyond.
+topics:
+  - tv shows
 ---
 ## The Hidden World of Infant Casting
 

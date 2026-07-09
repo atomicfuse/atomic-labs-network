@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Family planning a vacation together around a sunny table with travel
   essentials and a suitcase.
+topics:
+  - Destinations
+  - Guides & Tips
 ---
 
 Planning a family vacation can be a rewarding yet challenging task. From selecting the perfect destination to ensuring everyone enjoys the trip, numerous factors must be considered to create a memorable experience for all. Whether you're planning a trip to a new city or a relaxing beach getaway, these tips will help you organize a seamless family adventure.

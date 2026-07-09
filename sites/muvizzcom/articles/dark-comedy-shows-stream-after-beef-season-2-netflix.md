@@ -35,6 +35,9 @@ quality_note: >-
   undermined by short length and factual issues including fabricated statistics
   and vague industry reports without sources.
 reading_time: 3
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## Moving Beyond Beef Season 2's Streaming Dominance
 

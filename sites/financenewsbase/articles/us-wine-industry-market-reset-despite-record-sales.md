@@ -32,6 +32,8 @@ quality_note: >-
   raises some factual accuracy concerns with specific 2025 claims and
   statistics.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 ## Record Sales Mask Underlying Industry Challenges
 

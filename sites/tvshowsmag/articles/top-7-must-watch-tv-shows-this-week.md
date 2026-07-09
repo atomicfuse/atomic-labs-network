@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted viewer facing seven glowing genre-inspired screens in a cinematic
   living room
+topics:
+  - TV News
 ---
 
 TV enthusiasts have a wealth of captivating shows to explore this week, offering a mix of genres to satisfy diverse tastes. From innovative dramas to compelling documentaries, there's something for everyone. Let's dive into what's worth watching and why these shows deserve your attention.

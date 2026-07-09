@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   A calm person sits by a sunlit window with a mug in a peaceful, uncluttered
   room.
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 1. **Burnout is not a badge of honor.** Overextending yourself in your work, your relationships, and your personal goals to the point of burnout is not noble. It is self-destruction. It is exhausting. Spreading yourself too thin waters down the overall quality of your life, which is why it's so important to make time for rest. Recharge by going to bed early or finally allowing yourself to sleep in. Put your phone on do not disturb. Reschedule plans. Delegate tasks at work. Ask for help. Do things you actually enjoy. And, most importantly, remember to _breathe_.

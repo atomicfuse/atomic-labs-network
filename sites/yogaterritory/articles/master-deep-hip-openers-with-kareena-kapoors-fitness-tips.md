@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   South Asian woman practicing a deep hip-opening yoga pose in a calm sunlit
   studio
+topics:
+  - Yoga Poses
+  - Beginner Yoga
+  - Yoga Routines
 ---
 
 Renowned for her dedication to fitness, Bollywood actress Kareena Kapoor Khan continues to inspire many with her impressive yoga practices. Her recent social media updates showcase her commitment to yoga, where she shares insights into her routine that emphasizes physical and mental well-being. By incorporating various yoga poses, she maintains her health and encourages others to follow suit.

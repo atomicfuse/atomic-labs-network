@@ -1,25 +1,36 @@
 ---
-title: "Hilarious and Adorable Animal Video Compilation of 2025"
-description: "Explore a delightful collection of the funniest and cutest animal videos of 2025. Perfect for animal lovers and those in need of a good laugh."
-type: "standard"
-status: "published"
-publishDate: "2026-02-16T09:53:13+00:00"
-author: "Taylor Winters"
+title: Hilarious and Adorable Animal Video Compilation of 2025
+description: >-
+  Explore a delightful collection of the funniest and cutest animal videos of
+  2025. Perfect for animal lovers and those in need of a good laugh.
+type: standard
+status: published
+publishDate: '2026-02-16T09:53:13+00:00'
+author: Taylor Winters
 tags:
-  - "Animal Planet"
-  - "Dogs"
-  - "Funny Videos"
-slug: "hilarious-and-adorable-animal-video-compilation-of-2025"
+  - Animal Planet
+  - Dogs
+  - Funny Videos
+slug: hilarious-and-adorable-animal-video-compilation-of-2025
 reading_time: 1
-source_url: "https://dogpotato.com/hilarious-and-adorable-animal-video-compilation-of-2025/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/hilarious-and-adorable-animal-video-compilation-of-2025/'
+imported_from: wordpress
 wp_original_id: 40170
-featuredImage: "/assets/images/hilarious-and-adorable-animal-video-compilation-of-2025.webp"
+featuredImage: /assets/images/hilarious-and-adorable-animal-video-compilation-of-2025.webp
 seo:
-  canonical: "https://dogpotato.com/hilarious-and-adorable-animal-video-compilation-of-2025/"
-  og_title: "Hilarious and Adorable Animal Video Compilation of 2025 - Dog Potato"
-  og_description: "Explore a delightful collection of the funniest and cutest animal videos of 2025. Perfect for animal lovers and those in need of a good laugh."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://dogpotato.com/hilarious-and-adorable-animal-video-compilation-of-2025/
+  og_title: Hilarious and Adorable Animal Video Compilation of 2025 - Dog Potato
+  og_description: >-
+    Explore a delightful collection of the funniest and cutest animal videos of
+    2025. Perfect for animal lovers and those in need of a good laugh.
+  twitter_card: summary_large_image
+topics:
+  - Animal Planet
+  - Dogs
+  - Funny Videos
+  - Videos
+  - Other Animals
 ---
 
 Welcome to a world where animals never fail to bring joy and laughter! Our latest compilation for 2025 showcases the funniest and most adorable animal moments captured on video. Whether you're a fan of mischievous cats, playful dogs, or any other charming creatures, this collection is sure to brighten your day.

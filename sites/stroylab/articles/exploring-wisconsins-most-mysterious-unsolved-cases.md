@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Misty Wisconsin backroad at dusk with investigative objects and distant police
   lights
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Wisconsin, a state renowned for its vast flatlands, dense forests, and serene lakes, often presents an idyllic picture of daily life. However, beneath this calm exterior lies a series of dark and mysterious cases that have left even the most seasoned investigators puzzled. In this article, we delve into five of the most enigmatic unsolved cases from Wisconsin that continue to haunt the collective memory of the state.

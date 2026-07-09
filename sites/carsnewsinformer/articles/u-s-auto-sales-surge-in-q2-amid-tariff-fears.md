@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Busy dealership lot with new cars and distant shipping containers suggesting
   tariff pressure.
+topics:
+  - News
 ---
 ## Sales Momentum Builds in Second Quarter
 

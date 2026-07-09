@@ -31,6 +31,9 @@ seo:
 image_alt: >-
   Fresh beets, greens, citrus, and beet juice arranged on a bright kitchen
   counter
+topics:
+  - Nutrition
+  - Wellness
 ---
 
 Beets have moved from salad-bar staple to heart-health headline for one major reason: they may help support healthier blood pressure. The bright red root vegetable contains natural compounds that influence blood vessel function, circulation, and overall cardiovascular health. While beets are not a replacement for medication or medical care, research suggests they can be a useful part of a blood pressure-friendly eating plan.

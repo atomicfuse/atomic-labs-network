@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Hopeful actor waits in a sunlit Los Angeles studio corridor before an
   audition.
+topics:
+  - Movies
+  - TV Shows
 ---
 
 The entertainment industry in Los Angeles is always bustling with activity, and 2026 is no exception. With a plethora of new movies and TV shows being cast, the City of Angels remains a pivotal hub for film and television production. Aspiring actors and seasoned veterans alike flock to the city for opportunities that could launch or elevate their careers.

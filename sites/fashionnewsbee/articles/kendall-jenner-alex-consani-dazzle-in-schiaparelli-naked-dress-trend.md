@@ -33,6 +33,8 @@ seo:
   og_image: 'https://fashionnewsbee.com/wp-content/uploads/2025/10/make_file.png'
   twitter_card: summary_large_image
 image_alt: Anonymous models in sheer couture gowns on a dramatic luxury runway
+topics:
+  - Fashion
 ---
 
 The fashion world was recently abuzz with the latest runway show from Schiaparelli, where the "naked dress" trend took center stage. This daring and bold style was exemplified by none other than Kendall Jenner and Alex Consani, two fashion icons known for their ability to captivate audiences with their style choices. Their appearance on the runway not only highlighted the trend's continued appeal but also demonstrated the creative evolution of fashion in recent seasons.

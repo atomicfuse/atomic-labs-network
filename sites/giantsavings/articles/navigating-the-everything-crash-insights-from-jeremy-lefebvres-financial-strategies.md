@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Investor organizing portfolio blocks as abstract market lines fall in the
   background
+topics:
+  - Saving Tips
+  - Grocery Savings
 ---
 
 The concept of an 'everything crash' has been a topic of concern for investors worldwide. Financial expert Jeremy Lefebvre provides insights into how such a downturn could impact the stock market and what strategies can be employed to navigate these turbulent times.

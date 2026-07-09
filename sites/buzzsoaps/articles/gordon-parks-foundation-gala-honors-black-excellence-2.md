@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Elegant gala guests celebrate Black artistic excellence in a warmly lit
   gallery setting.
+topics:
+  - Culture Buzz
 ---
 
 The Gordon Parks Foundation Gala, an annual celebration of artistic and cultural achievements, is set to leave an indelible mark in 2025. This prestigious event recognizes individuals who have made significant contributions to the arts and society, aligning with the visionary legacy of Gordon Parks himself. Renowned for his work as a photographer, filmmaker, and writer, Parks' influence continues to inspire new generations.

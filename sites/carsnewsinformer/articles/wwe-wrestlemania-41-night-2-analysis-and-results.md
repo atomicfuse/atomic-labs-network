@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   A wrestling belt and ring rope appear out of place in a sleek modern car
   showroom.
+topics:
+  - News
 ---
 ## Editorial Classification Notice
 

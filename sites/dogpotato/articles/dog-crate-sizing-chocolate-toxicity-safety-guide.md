@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Calm dog beside an open crate with pet safety items and chocolate kept out of
   reach in the background.
+topics:
+  - Dogs
+  - Veterinary
 ---
 ## Getting Crate Sizing Right for Your Dog
 

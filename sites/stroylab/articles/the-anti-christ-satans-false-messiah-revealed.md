@@ -1,24 +1,28 @@
 ---
-title: "The Anti-Christ: Satan’s False Messiah Revealed"
-description: ""
-type: "standard"
+title: 'The Anti-Christ: Satan’s False Messiah Revealed'
+description: ''
+type: standard
 status: published
-publishDate: "2025-12-22T11:32:28+00:00"
-author: "Blake Anderson"
+publishDate: '2025-12-22T11:32:28+00:00'
+author: Blake Anderson
 tags:
-  - "Deep Dives"
-slug: "the-anti-christ-satans-false-messiah-revealed"
+  - Deep Dives
+slug: the-anti-christ-satans-false-messiah-revealed
 reading_time: 3
-source_url: "https://stroylab.com/the-anti-christ-satans-false-messiah-revealed/"
-imported_from: "wordpress"
+source_url: 'https://stroylab.com/the-anti-christ-satans-false-messiah-revealed/'
+imported_from: wordpress
 wp_original_id: 696
-featuredImage: "/assets/images/stroylab-general-article.webp"
+featuredImage: /assets/images/stroylab-general-article.webp
 seo:
-  canonical: "https://stroylab.com/the-anti-christ-satans-false-messiah-revealed/"
-  og_title: "The Anti-Christ: Satan's False Messiah Revealed - StroyLab"
-  og_description: "In today's digital age, accessing reliable information is crucial for informed decision-making. The article examines recent global events, the role of technology, and the challenges of misinformation, emphasizing the need for critical thinking and media literacy."
-  og_image: "https://stroylab.com/wp-content/uploads/2025/12/make_file-198.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://stroylab.com/the-anti-christ-satans-false-messiah-revealed/'
+  og_title: 'The Anti-Christ: Satan''s False Messiah Revealed - StroyLab'
+  og_description: >-
+    In today's digital age, accessing reliable information is crucial for
+    informed decision-making. The article examines recent global events, the
+    role of technology, and the challenges of misinformation, emphasizing the
+    need for critical thinking and media literacy.
+  og_image: 'https://stroylab.com/wp-content/uploads/2025/12/make_file-198.jpeg'
+  twitter_card: summary_large_image
 quality_score: 41
 score_breakdown:
   seo_quality: 25
@@ -26,7 +30,12 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 10
-quality_note: "This generic article about information literacy completely fails to match the promised title about the Anti-Christ and doesn't cover any of the site's core topics like conspiracies, dark history, or mysteries."
+quality_note: >-
+  This generic article about information literacy completely fails to match the
+  promised title about the Anti-Christ and doesn't cover any of the site's core
+  topics like conspiracies, dark history, or mysteries.
+topics:
+  - Deep Dives
 ---
 
 In today’s fast-paced world, the quest for reliable information has become a priority for many individuals seeking clarity. As events unfold globally, the need to discern fact from fiction grows ever more crucial. This article delves into recent developments, examining their implications on society, politics, and individual perspectives.

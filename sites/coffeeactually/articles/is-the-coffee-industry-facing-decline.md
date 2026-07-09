@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Smallholder farmer examines aging coffee plants in a misty Papua New Guinea
   highland plantation.
+topics:
+  - Coffee News
 ---
 
 The coffee industry in Papua New Guinea faces significant challenges that threaten its sustainability and economic contribution. Once a thriving sector, various factors have led to a decline in production and profitability. This change not only affects the economy but also the livelihoods of thousands of smallholder farmers who depend on coffee as their primary source of income.

@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Colorful steamed vegetables and grains in a glass bowl on a bright kitchen
   counter
+topics:
+  - Healthy Recipes
+  - Nutrition Myths
 ---
 
 The microwave is one of the most useful tools in a modern kitchen, yet it still carries an unfair reputation. Many people wonder whether microwave cooking is healthy, whether it damages nutrients, or whether reheating food this way is safe. The short answer is reassuring: when used correctly, a microwave can be a healthy, efficient, and nutrient-friendly way to cook food.

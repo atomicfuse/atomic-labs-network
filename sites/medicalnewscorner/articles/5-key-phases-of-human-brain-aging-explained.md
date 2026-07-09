@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Abstract glowing brain in a profile silhouette suggesting five phases of brain
   development and aging.
+topics:
+  - Research
+  - Wellness
 ---
 
 When it comes to brain development, recent research suggests that our understanding has been somewhat limited. Contrary to the long-held belief that the human brain reaches full maturity by the age of 25, new findings indicate that this process may extend beyond the third decade of life. This insight has significant implications for how we perceive cognitive development, decision-making, and mental health.
