@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Radio telescope prototype at sunrise in the New Mexico desert with distant
   dishes on the horizon
+topics:
+  - Space & The Unknown
 ---
 ## A Milestone 45 Years in the Making
 

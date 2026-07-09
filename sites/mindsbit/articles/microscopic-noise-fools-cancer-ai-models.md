@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Digital pathology slide distorted by subtle noise beneath a transparent AI
   network in a clinical lab
+topics:
+  - Tech
 ---
 ## A Critical Vulnerability in Medical AI
 

@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Rain-soaked mountain road with mud and rocks from a landslide in misty green
   hills.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 As September ushers in the monsoon season across India, travelers must remain vigilant about the weather-related challenges that may impact their plans. Heavy rains and landslides are common during this time, particularly in certain regions. This article provides insights into which destinations to approach with caution and alternative options for a safer travel experience.

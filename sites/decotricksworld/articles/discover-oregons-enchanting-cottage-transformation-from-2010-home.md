@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Sunlit whimsical cottage living room blending modern design, vintage textures,
   and Oregon forest warmth.
+topics:
+  - Expert Guides
 ---
 
 Molly Kidd, a renowned designer, has transformed a once ordinary residence into a lively and eclectic home. Her distinct approach to remodeling blends modern functionality with a touch of whimsy, creating spaces that are both practical and visually captivating.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   A couple strolls beside a calm lake at golden hour with mountains and rooftops
   in the distance.
+topics:
+  - Destinations
 ---
 ## The Science Behind Relationship-Friendly Travel
 

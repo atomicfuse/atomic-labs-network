@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   Dark gaming desk with a glitching monitor and eerie creature silhouettes in
   blue-green light.
+topics:
+  - Gaming News
 ---
 ## Livestream Technical Challenges Impact Zoonomaly Coverage
 

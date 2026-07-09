@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Nostalgic teen coding desk with floppy disks and glowing network-like light
   trails
+topics:
+  - Tech
 ---
 ## The Pre-Internet Programming Underground
 

@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Latina women gather in a warm wellness studio with yoga mats and soft
   sunlight.
+topics:
+  - Lifestyle
+  - Mindfulness
+  - Wellness
 ---
 ## Creating Safe Spaces in Wellness
 

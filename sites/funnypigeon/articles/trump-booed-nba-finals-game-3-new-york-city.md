@@ -36,6 +36,8 @@ quality_note: >-
   factual inaccuracies, making it completely unreliable despite decent length
   and some engaging elements.
 reading_time: 3
+topics:
+  - Viral
 ---
 ## Trump Draws Crowd's Ire at Historic Knicks Game
 

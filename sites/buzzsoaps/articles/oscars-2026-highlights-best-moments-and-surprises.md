@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Golden awards stage with applauding crowd, spotlights, and a surprised winner
   silhouette
+topics:
+  - Watch
 ---
 
 The 2026 Academy Awards delivered an unforgettable night filled with emotional speeches, surprising wins, and electrifying performances. As Hollywood's biggest night unfolded, viewers were treated to a blend of tradition and unexpected twists that showcased the evolving landscape of the film industry.

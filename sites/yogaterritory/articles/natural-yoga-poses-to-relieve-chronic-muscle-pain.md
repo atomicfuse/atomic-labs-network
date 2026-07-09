@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Person practicing gentle yoga in a sunlit room for relaxation and muscle
   comfort
+topics:
+  - Yoga Poses
 ---
 
 Chronic muscle pain can significantly impact daily life, making it challenging to perform even simple tasks. Many individuals seek natural remedies to alleviate these discomforts without relying on medication. Yoga, known for its holistic benefits, offers a series of poses that can effectively ease muscle tension and promote overall well-being.

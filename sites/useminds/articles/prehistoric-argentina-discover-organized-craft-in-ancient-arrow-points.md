@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Prehistoric bone arrow tips arranged on stone beside a gloved archaeologist's
   hand
+topics:
+  - Hidden History
 ---
 
 Recent archaeological discoveries have unveiled a remarkable glimpse into ancient craftsmanship, shedding light on the resourcefulness and skills of prehistoric communities. The unearthing of bone arrow tips from a site in South Africa has provided researchers with new insights into the technological advancements achieved by humans during the Stone Age.

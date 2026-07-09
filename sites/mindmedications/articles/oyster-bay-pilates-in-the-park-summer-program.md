@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   People practice Pilates on mats in a sunny waterfront park during a summer
   community wellness class.
+topics:
+  - Wellness
 ---
 ## Community Wellness Takes Center Stage
 

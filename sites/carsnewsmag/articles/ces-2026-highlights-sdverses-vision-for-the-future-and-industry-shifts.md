@@ -49,6 +49,10 @@ quality_note: >-
 image_alt: >-
   Futuristic connected vehicle on a trade-show floor with abstract data streams
   and executive silhouettes
+topics:
+  - News
+  - Industry
+  - Concept Cars
 ---
 
 The CES 2026 event in Las Vegas has once again set the stage for groundbreaking technology announcements and industry insights. Among the key highlights is an interview with Prashant Gulati, CEO of SDVerse, who shared the company's ambitious plans to accelerate the development timelines of software-defined vehicles. This marks a significant step in the automotive industry as companies aim to integrate advanced software solutions to enhance vehicle capabilities and user experiences.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Modern formal dining room with warm wood, upholstered chairs, greenery, and
   layered natural light.
+topics:
+  - Interior Design
 ---
 ## Formal Dining Rooms Make a Stylish Comeback
 

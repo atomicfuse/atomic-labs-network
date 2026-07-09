@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Moody restaurant kitchen scene with a chef, flaming grill, seared burgers, and
   a smoky cocktail
+topics:
+  - Coffee News
 ---
 ## A Legendary Restaurant Returns
 

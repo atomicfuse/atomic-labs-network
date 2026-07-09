@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in a trench coat, jeans, cap, and sunglasses walking on a city
   street.
+topics:
+  - Fashion
 ---
 ## The Power of Capsule Dressing
 

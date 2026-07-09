@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Tense upscale gathering beside a Southern farm at dusk with storm clouds
   overhead.
+topics:
+  - Watch
 ---
 
 In the ever-evolving landscape of reality television, Bravo's "Southern Charm" continues to captivate audiences with its blend of Southern hospitality and drama. Season 11, Episode 10 delivers an enthralling mix of personal revelations and social dynamics that keep viewers on the edge of their seats. This episode offers a deeper look into the lives of the cast members as they navigate personal challenges and simmering tensions.

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A children's media studio shifts from a dim old television to glowing digital
   screens.
+topics:
+  - TV News
 ---
 
 PBS is facing significant changes in its children's programming division, reflecting broader trends in the industry. These shifts are impacting beloved shows, with implications for audiences and content creators alike.

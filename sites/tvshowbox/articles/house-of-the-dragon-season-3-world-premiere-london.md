@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Glamorous night premiere scene on a rain-slicked London red carpet with copper
   fantasy-inspired lighting.
+topics:
+  - TV News
 ---
 ## HBO Celebrates Dragon Dynasty with Star-Studded London Event
 

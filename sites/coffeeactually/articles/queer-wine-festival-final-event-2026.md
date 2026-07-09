@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Diverse friends toast with wine at a golden-hour vineyard gathering with
   subtle rainbow accents.
+topics:
+  - Coffee News
 ---
 ## The Final Pour of a Pioneering Festival
 

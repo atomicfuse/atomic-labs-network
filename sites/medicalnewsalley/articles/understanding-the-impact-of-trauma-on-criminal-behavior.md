@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Soft therapy-room scene with fading shadows and subtle neural patterns
   suggesting trauma recovery.
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 Did you know that individuals with a history of trauma are significantly overrepresented in the criminal justice system? Trauma, especially when it occurs in childhood, can alter brain development, impair emotional regulation, and increase impulsive behaviors. Yet, the link between trauma and criminal behavior is often misunderstood or overlooked.

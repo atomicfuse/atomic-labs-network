@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Glamorous actress reenters a warmly lit television set with a nostalgic,
   poised expression.
+topics:
+  - TV Shows
+  - Trailers
 ---
 ## A Familiar Return to Daytime Drama
 

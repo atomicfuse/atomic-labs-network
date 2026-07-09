@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Modern train tray table with fresh meal items beside a blurred rail window
   view.
+topics:
+  - Travel Tips
 ---
 ## Amtrak Modernizes Onboard Dining Experience
 

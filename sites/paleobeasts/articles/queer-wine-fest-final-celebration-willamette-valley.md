@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A diverse group raises wine glasses at a golden-hour vineyard gathering with
   subtle rainbow accents.
+topics:
+  - Nutrition
 ---
 ## A Pioneering Festival Comes to an End
 

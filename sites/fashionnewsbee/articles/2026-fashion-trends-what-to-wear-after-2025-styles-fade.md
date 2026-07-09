@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   A model in tailored neutral clothing stands beside a minimalist wardrobe with
   soft natural textures.
+topics:
+  - Fashion
 ---
 
 Fashion is a dynamic world that constantly evolves, with trends coming and going in the blink of an eye. As we look forward to 2026, it's crucial to know which styles might be on their way out. Keeping a wardrobe updated isn't just about embracing the new; it's also about knowing what to retire. Let's explore some of the fashion trends that are expected to fade away in the coming years.

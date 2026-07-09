@@ -34,6 +34,8 @@ quality_note: >-
   occurred, making it completely unsuitable for a travel/destination site and
   factually inaccurate.
 reading_time: 1
+topics:
+  - Adventure Activities
 ---
 ## Chaos Erupts at Prestigious Washington Event
 

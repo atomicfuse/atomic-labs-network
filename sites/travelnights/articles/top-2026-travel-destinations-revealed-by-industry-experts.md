@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sunlit travel scene blending coastal cliffs, safari plains, and a vibrant
   market beyond an airport window.
+topics:
+  - Destinations
 ---
 
 As the world gradually opens up to travelers once more, 2026 brings a wealth of enticing destinations that promise unforgettable experiences. Whether you're seeking sun-drenched beaches, rich cultural experiences, or adrenaline-pumping adventures, this year offers a diverse array of locations to explore. Let's dive into some of the top travel spots that should be on your radar.

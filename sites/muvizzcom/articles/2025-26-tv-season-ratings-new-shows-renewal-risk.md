@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Glowing TV panels and abstract ratings charts in a sleek network decision
   room.
+topics:
+  - TV Shows
 ---
 ## Network Decision Time Approaches as Freshman Shows Fight for Survival
 

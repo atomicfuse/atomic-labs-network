@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Luxury wealth advisory lounge overlooking an Asian financial skyline with
   subtle regional connection lights
+topics:
+  - Market Analysis
 ---
 ## DBS Launches Ambitious Wealth Management Expansion
 

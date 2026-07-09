@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Balanced foods and sugar cubes on a kitchen counter with subtle abstract gut
   microbiome forms behind them.
+topics:
+  - Research
 ---
 ## Challenging the Zero-Sugar Trend
 

@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Smart TV connected by Ethernet cable in a sleek living room with abstract
   data-light accents
+topics:
+  - Tech
+  - Tutorials
 ---
 
 When streaming your favorite shows or playing online games on your TV, a stable internet connection is crucial. Many households use Ethernet to ensure a reliable connection, but how do you verify the speed your TV receives through this wired network? Understanding how to check your TV's Ethernet speed can help optimize your viewing experience.

@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Clinical desk with cannabis leaf shadow, prescription bottle, and blank
   evidence charts
+topics:
+  - Mind & Body Wellness
 ---
 ## The Cannabis Prescription Boom
 

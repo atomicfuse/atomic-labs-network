@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   A director observes a staged airplane cabin rehearsal in a dark cinematic
   studio.
+topics:
+  - Culture Buzz
+  - Off Script
+  - Watch
 ---
 
 Nathan Fielder, known for his unconventional television projects, has been captivating audiences with his show "The Rehearsal." The series dives into the complexities of human behavior and problem-solving, attracting both intrigue and curiosity from viewers worldwide.

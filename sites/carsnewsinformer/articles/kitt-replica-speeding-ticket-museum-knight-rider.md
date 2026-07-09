@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Black retro sports car in a museum with traffic camera imagery suggesting a
   mistaken speeding ticket.
+topics:
+  - News
 ---
 ## When Nostalgia Meets Modern Bureaucracy
 

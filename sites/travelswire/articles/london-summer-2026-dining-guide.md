@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Elegant rooftop dining table at golden hour with London skyline, cocktails,
   seafood, flowers, and summer details.
+topics:
+  - Destination Guides
 ---
 ## London's Hottest Summer Dining Destinations
 

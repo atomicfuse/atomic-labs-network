@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Unlabeled vial and syringe lit between glossy wellness colors and stark
   clinical shadows.
+topics:
+  - Wellness
 ---
 ## The Rise of Wellness Peptides
 

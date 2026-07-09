@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A young mother rests beside a crib in a softly lit home, balancing parenting
   and self-care.
+topics:
+  - Kids
 ---
 
 Arabella Chi, a well-known figure from reality television, recently opened up about the challenges she faces in her journey as a parent. Her candid revelations provide a glimpse into her life with daughter Gigi, highlighting both the joys and hurdles encountered along the way.

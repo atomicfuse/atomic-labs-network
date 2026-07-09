@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Sleek premium compact SUV at dusk with refined lighting and a luxurious modern
   cabin glimpse
+topics:
+  - Reviews
 ---
 
 The automotive industry continues to impress with innovations, and the 2026 Kia Sportage is no exception. This vehicle stands out with its sophisticated design and advanced features, promising a driving experience that combines luxury with practicality.

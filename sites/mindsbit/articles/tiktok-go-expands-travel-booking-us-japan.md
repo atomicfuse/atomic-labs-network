@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Smartphone with abstract travel booking elements floating around it in a sleek
   editorial composition
+topics:
+  - Tech
 ---
 ## TikTok Enters Travel Commerce Space
 

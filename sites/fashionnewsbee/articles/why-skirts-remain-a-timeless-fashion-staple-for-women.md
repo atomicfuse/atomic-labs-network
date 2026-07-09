@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Diverse women in varied skirt styles pose in a sunlit editorial fashion
   studio.
+topics:
+  - Fashion
 ---
 
 In the ever-evolving world of fashion, skirts have remained a timeless staple in women's wardrobes, effortlessly adapting to contemporary trends and styles. From the versatile maxi to the chic mini, skirts offer endless possibilities for creating unique and personal looks. As fashion advances, so do the fabrics and textiles used, offering new-age options for the modern woman.

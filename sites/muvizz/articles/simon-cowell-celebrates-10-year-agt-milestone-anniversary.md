@@ -33,6 +33,8 @@ quality_note: >-
   800-1200 range.
 reading_time: 3
 image_alt: Empty talent show judge chair with a golden buzzer under dramatic stage lights
+topics:
+  - TV Shows
 ---
 ## Simon Cowell's Decade-Long Journey on 'America's Got Talent'
 

@@ -40,6 +40,8 @@ quality_note: >-
   word count and could benefit from stronger SEO optimization and more specific
   entertainment industry examples.
 image_alt: A viewer sits quietly in a dim living room after a beloved screen story ends.
+topics:
+  - TV News
 ---
 
 The conclusion of a beloved TV show or movie series can evoke a mix of emotions. Fans invest time and emotional energy into these narratives, making their endings feel like personal farewells. The culmination of a series often leaves viewers with a sense of loss, prompting them to seek ways to cope with these feelings.

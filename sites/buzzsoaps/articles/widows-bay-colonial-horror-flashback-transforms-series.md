@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Colonial figure in a shadowy wooden room as glowing mushrooms creep across the
   floor.
+topics:
+  - Hot Takes
 ---
 ## A Midseason Genre Shift That Changes Everything
 

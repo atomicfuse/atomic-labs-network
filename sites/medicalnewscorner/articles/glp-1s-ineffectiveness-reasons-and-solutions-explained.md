@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Patient and clinician discuss personalized treatment options in a calm, softly
   lit medical consultation.
+topics:
+  - Drugs
 ---
 
 GLP-1 receptor agonists are increasingly popular medications used for managing type 2 diabetes and obesity. These drugs, which include well-known names like semaglutide, have transformed how these conditions are treated. However, it's important to recognize that they may not deliver the desired results for every individual.

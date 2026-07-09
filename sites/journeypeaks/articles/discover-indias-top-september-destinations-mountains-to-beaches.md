@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Misty Himalayan hills blend into green valleys and a golden tropical beach in
   a vibrant India travel scene.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 September in India marks the transition from monsoon to autumn, unveiling a unique tapestry of destinations enriched by lush landscapes and vibrant festivities. This month is an ideal time for travelers to explore the diverse beauty of India, as the weather becomes more pleasant and the natural scenery comes alive with vivid colors.

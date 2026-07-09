@@ -1,9 +1,12 @@
 ---
 title: Taylor Swift Skips AMAs Despite 8 Nominations Amid Wedding Plans
-description: Taylor Swift was notably absent from the American Music Awards in Las Vegas despite earning eight nominations, as reports suggest she's focusing on wedding...
+description: >-
+  Taylor Swift was notably absent from the American Music Awards in Las Vegas
+  despite earning eight nominations, as reports suggest she's focusing on
+  wedding...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -13,7 +16,8 @@ tags:
   - celebrity-weddings
 slug: taylor-swift-skips-amas-8-nominations-wedding-plans
 reviewer_notes: Approved via review queue.
-source_url: https://www.elle.com/culture/celebrities/a71392950/why-taylor-swift-missed-american-music-awards-2026/
+source_url: >-
+  https://www.elle.com/culture/celebrities/a71392950/why-taylor-swift-missed-american-music-awards-2026/
 source_item_id: 6a14fea216f23264031d803e
 generated_by: claude
 featuredImage: /assets/images/taylor-swift-skips-amas-8-nominations-wedding-plans.webp
@@ -24,9 +28,16 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 90
-quality_note: Strong entertainment focus and engaging tone, but significantly under target word count and contains unverified claims about wedding plans that may be speculative.
+quality_note: >-
+  Strong entertainment focus and engaging tone, but significantly under target
+  word count and contains unverified claims about wedding plans that may be
+  speculative.
 reading_time: 2
-image_alt: Empty spotlighted awards-show seat with a microphone, bridal veil, and bouquet under magenta stage lights.
+image_alt: >-
+  Empty spotlighted awards-show seat with a microphone, bridal veil, and bouquet
+  under magenta stage lights.
+topics:
+  - Breaking News
 ---
 ## Swift's Surprising AMA Absence
 

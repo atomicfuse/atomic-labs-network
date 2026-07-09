@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Moody living room lit by a glowing TV, with streaming-night objects arranged
   on a coffee table.
+topics:
+  - tv shows
 ---
 ## The Weekend's Streaming Obsessions
 

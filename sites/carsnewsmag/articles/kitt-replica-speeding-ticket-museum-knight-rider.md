@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Glossy black retro sports car parked in a museum as blank ticket papers drift
   nearby
+topics:
+  - News
 ---
 ## When Fiction Meets Reality: KITT's Real-World Traffic Troubles
 

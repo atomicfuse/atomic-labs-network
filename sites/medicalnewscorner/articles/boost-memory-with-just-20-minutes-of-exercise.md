@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   A jogger in a sunny park with subtle glowing neural light trails suggesting
   memory and brain health.
+topics:
+  - Health News
 ---
 
 Engaging in physical activity has long been associated with numerous health benefits, but recent research highlights a compelling link between brief exercise sessions and improved cognitive function. A study suggests that just 20 minutes of physical activity could enhance memory capabilities, offering a simple yet powerful tool to boost brain health.

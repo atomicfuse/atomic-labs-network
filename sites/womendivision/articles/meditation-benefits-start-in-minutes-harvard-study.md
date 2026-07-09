@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Person meditating in soft morning light with subtle glowing brainwave patterns
   around their head
+topics:
+  - Mindfullness
 ---
 ## Breaking the 30-Minute Meditation Myth
 

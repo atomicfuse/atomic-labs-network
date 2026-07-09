@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Person practicing yoga in a calm sunlit living room with plants and warm
   morning light.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is a timeless practice that offers numerous benefits for both the mind and body. Incorporating yoga into your daily routine can enhance your overall well-being, balance your energy levels, and rejuvenate your spirit. The best part is that you can perform many effective yoga poses right in the comfort of your home, making it accessible for everyone, regardless of experience level.

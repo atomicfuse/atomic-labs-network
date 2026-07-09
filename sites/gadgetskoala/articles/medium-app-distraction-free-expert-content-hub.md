@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Minimal smartphone scene suggesting focused reading and audio learning beyond
   social media noise
+topics:
+  - Mobile
 ---
 ## A Platform Built for Deep Reading
 

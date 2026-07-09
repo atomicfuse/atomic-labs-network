@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A glowing bird soars over a misty magical island with ruins, forests, cliffs,
   and turquoise coves.
+topics:
+  - Gaming News
 ---
 
 Embark on an enchanting journey like no other with a new fantasy game that lets players soar across a magical island as a bird. Set in a mesmerizing world filled with mysteries and wonders, this game invites players to explore diverse landscapes and unravel the secrets hidden within its captivating environment.

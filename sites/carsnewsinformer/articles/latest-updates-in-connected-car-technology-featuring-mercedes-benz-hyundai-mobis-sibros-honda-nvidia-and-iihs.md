@@ -38,6 +38,9 @@ quality_note: >-
   integration but falls short on length and contains vague, potentially
   unsupported claims about company developments.
 image_alt: Sleek connected car on a city road with subtle glowing data lines around it
+topics:
+  - News
+  - Industry
 ---
 ## Major Players Drive Connected Car Innovation
 

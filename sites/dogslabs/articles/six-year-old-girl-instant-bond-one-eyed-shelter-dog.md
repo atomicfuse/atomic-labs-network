@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Child in a rain jacket bonds with a one-eyed black rescue dog at an open
   shelter gate.
+topics:
+  - Animal Behavior
 ---
 ## A Special Connection Forms at First Meeting
 

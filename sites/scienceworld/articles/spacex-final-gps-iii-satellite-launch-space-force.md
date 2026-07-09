@@ -36,6 +36,8 @@ quality_note: >-
   content, has a formal news tone instead of light/informative, and lacks proper
   SEO optimization for the target audience.
 reading_time: 2
+topics:
+  - Adventure Activities
 ---
 
 ## Historic Mission Marks Constellation Completion

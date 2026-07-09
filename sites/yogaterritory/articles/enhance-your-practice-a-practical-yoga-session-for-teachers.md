@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Yoga trainees practice together in a sunlit studio with an instructor guiding
   alignment.
+topics:
+  - Yoga Poses
 ---
 
 # Enhance Your Practice: A Practical Yoga Session for Teachers

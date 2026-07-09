@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Sunlit vanity with blank beauty books, skincare tools, botanicals, and
   summer-inspired self-care objects.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 As the sun graces us with longer days, there's no better time to dive into some invigorating reads that explore the vibrant world of beauty. This summer, enrich your beauty acumen with a selection of books that offer insights, stories, and tips from around the globe, perfect for beauty aficionados and casual readers alike.

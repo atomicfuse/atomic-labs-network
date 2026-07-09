@@ -47,6 +47,8 @@ quality_note: >-
   at only 293 words, which severely impacts its value for readers seeking
   comprehensive yoga guidance.
 image_alt: Yoga instructor guides a small group through a pose in a calm sunlit studio
+topics:
+  - Yoga Poses
 ---
 
 Embark on a transformative journey into the world of yoga with Dr. Sandhya Arya, a renowned naturopath and yoga expert with over two decades of experience. In this session, Dr. Arya shares her extensive knowledge and expertise to help you master various yoga poses, enhancing both your physical and mental well-being.

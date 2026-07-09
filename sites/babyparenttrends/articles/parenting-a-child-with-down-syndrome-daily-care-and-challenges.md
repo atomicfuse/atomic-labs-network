@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Parent and child with Down syndrome play together in a warm, sunlit living
   room.
+topics:
+  - Kids
 ---
 
 Raising a child with Down syndrome presents unique challenges and rewarding experiences for families. With the right support and understanding, parents can navigate these challenges effectively, ensuring their child leads a fulfilling life.

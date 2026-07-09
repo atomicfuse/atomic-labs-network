@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Glowing crystal ball on a shadowy desk with papers, a red tie, and reflected
   market lights.
+topics:
+  - Deep Dives
 ---
 
 The interconnectedness of global financial markets is more pronounced today than ever before. Economic shifts in one region can have ripple effects worldwide. Understanding these dynamics is crucial for investors, policymakers, and the general public.

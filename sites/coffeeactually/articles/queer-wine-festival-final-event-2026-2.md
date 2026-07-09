@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Diverse friends share wine at a golden-hour vineyard gathering with subtle
   rainbow accents.
+topics:
+  - Coffee News
 ---
 ## A Historic Chapter Comes to a Close
 

@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Elegant entryway with cream cabinetry repurposed as custom built-in furniture
   in warm natural light.
+topics:
+  - Budget Decor
+  - DIY Projects
+  - Interior Design
 ---
 ## A Growing Design Movement
 

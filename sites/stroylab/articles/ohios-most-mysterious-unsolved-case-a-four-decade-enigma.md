@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Foggy rural road at dusk with a case folder and flashlight suggesting a
   long-unsolved Ohio mystery.
+topics:
+  - Deep Dives
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Ohio, a state known for its rich history and diverse culture, holds within its borders an enigma that has puzzled investigators and intrigued true crime enthusiasts for over four decades. This unsolved mystery, shrouded in secrecy and suspense, continues to captivate those who seek the truth behind one of the state's most perplexing cases.

@@ -39,6 +39,8 @@ quality_note: >-
   weak keyword relevance to travel site topics, and falls short of target word
   count, though the tone and accuracy are reasonable.
 image_alt: Relaxed traveler walking hands-free through a bright airport terminal
+topics:
+  - News
 ---
 
 Many travelers find themselves at a crossroads when deciding whether to check their bags or carry them on. While the convenience of having your luggage close at hand is tempting, there are compelling reasons why checking your bags might be the better option for your next trip.

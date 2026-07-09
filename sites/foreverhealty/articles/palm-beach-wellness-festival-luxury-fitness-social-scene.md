@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish Palm Beach wellness festival with padel, Pilates, cold plunges, and
   luxury resort energy
+topics:
+  - Fitness & Movement
 ---
 ## Luxury Wellness Meets Social Fitness in Palm Beach
 

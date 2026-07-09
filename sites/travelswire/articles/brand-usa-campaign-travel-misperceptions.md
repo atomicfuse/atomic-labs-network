@@ -37,6 +37,8 @@ reading_time: 2
 image_alt: >-
   International travelers stand confidently with luggage in a bright modern
   airport arrivals area.
+topics:
+  - Destination Guides
 ---
 ## Brand USA Tackles Travel Confidence Issues
 

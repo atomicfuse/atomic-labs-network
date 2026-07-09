@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Bride-to-be in a white robe glowing in soft morning light beside skincare and
   flowers.
+topics:
+  - Beauty Tips
 ---
 
 Your wedding day is a momentous occasion, and every bride dreams of looking her absolute best. While the dress and accessories play their part, glowing skin is the ultimate accessory for a radiant appearance. Preparing your skin for this special day involves more than just makeup; it requires a well-rounded beauty regimen tailored to your skin's needs.

@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Festivalgoers navigate downtown Nashville transit routes toward a stadium at
   sunset.
+topics:
+  - Culture Buzz
 ---
 ## Getting Ready for CMA Fest 2026
 

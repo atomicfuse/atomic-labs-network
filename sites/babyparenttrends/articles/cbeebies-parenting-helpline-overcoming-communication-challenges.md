@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Parent and young child share story time on a cozy rug surrounded by books and
   toys.
+topics:
+  - Kids
 ---
 
 Encouraging your child's language development is a crucial aspect of early childhood nurturing. As parents, we often wonder how best to support children in acquiring language skills. Through simple yet effective strategies, you can create a rich linguistic environment that fosters growth and learning.

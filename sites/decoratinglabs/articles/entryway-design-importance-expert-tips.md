@@ -34,6 +34,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - budget decor
+  - Tips & Advice
 image_alt: >-
   Bright neutral entryway with styled console table, mirror, greenery, and a
   blurred living room beyond

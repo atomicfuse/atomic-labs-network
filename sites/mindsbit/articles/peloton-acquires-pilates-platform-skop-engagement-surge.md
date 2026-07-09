@@ -32,6 +32,8 @@ quality_note: >-
   requirements and lacks verification of the specific 48% engagement statistic.
 reading_time: 3
 image_alt: Modern home Pilates studio with abstract digital growth elements in warm light
+topics:
+  - Tech
 ---
 ## Peloton Doubles Down on Pilates with Strategic Acquisition
 

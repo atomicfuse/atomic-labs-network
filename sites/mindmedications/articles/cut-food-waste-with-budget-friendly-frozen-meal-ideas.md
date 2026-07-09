@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Reusable containers of frozen vegetables and meals in a bright kitchen
   meal-prep scene
+topics:
+  - Nutrition
 ---
 
 Frozen foods have become an indispensable part of many kitchens, offering convenience without compromising on quality. These products not only provide a quick meal solution but also help in reducing food waste, which is a growing global concern. By integrating frozen foods into your diet, you can enjoy a variety of nutritious meals while also being environmentally conscious.

@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Serene modern living room with terracotta wall, neutral base, and coordinated
   colorful accents.
+topics:
+  - Tips & Advice
 ---
 ## The Power of Strategic Color Choices
 

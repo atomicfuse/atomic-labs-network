@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Empty broadcast desk under tense studio lights suggesting conflict inside a
   legacy newsroom
+topics:
+  - TV & Movies
 ---
 ## Veteran Correspondent Launches Public Attack
 

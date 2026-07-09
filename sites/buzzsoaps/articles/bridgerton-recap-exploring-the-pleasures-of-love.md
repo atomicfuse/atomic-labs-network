@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Regency-era couple separated on a candlelit terrace, suggesting romance and
   social tension.
+topics:
+  - Watch
 ---
 
 The world of Regency-era romance is once again capturing audiences with its intricate tales of love and society. In the latest episode, the Bridgerton family finds themselves navigating the complexities of relationships and societal expectations. As secrets unfold and tensions rise, the characters must confront their desires and duties.

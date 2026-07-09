@@ -37,6 +37,8 @@ seo:
 image_alt: >-
   Warm sunset-lit listening room with a turntable and silhouettes gathered for
   an intimate music event.
+topics:
+  - Music
 ---
 
 Renowned musician Ashley Naylor is set to captivate fans with an exclusive listening event for his much-anticipated album, "Alexandria Sunset." Scheduled to take place in Melbourne, this event promises a unique and immersive musical journey.

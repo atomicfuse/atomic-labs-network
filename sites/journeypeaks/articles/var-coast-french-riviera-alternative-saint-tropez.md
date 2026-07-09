@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Quiet turquoise Var coast cove framed by pine trees, rocky shoreline,
   sailboats, and hidden hillside design hotel
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## A Quieter Alternative to the Crowded Riviera
 

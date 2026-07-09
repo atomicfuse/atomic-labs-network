@@ -33,6 +33,8 @@ quality_note: >-
   short on length and contains some vague claims that could affect credibility.
 reading_time: 3
 image_alt: Rock singer faces a tense concert crowd under blue and purple stage lights.
+topics:
+  - Music
 ---
 ## Concert Clash Divides Fanbase
 

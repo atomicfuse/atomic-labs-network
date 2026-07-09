@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Elegant sunlit entryway with a styled console, round mirror, greenery, and a
   softly blurred living room beyond.
+topics:
+  - Interior Design
 ---
 ## The Overlooked Space That Makes the Biggest Impact
 

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Travel professionals review glowing global routes on a Las Vegas rooftop at
   sunset
+topics:
+  - News
+  - Guides & Tips
 ---
 
 Las Vegas recently hosted a dynamic travel conference, attracting industry leaders and professionals from around the globe. This event focused on sharing strategic insights and innovative approaches to revolutionize exploration travel. Attendees were treated to a wealth of knowledge, aiming to enhance their business acumen and boost their success in this ever-evolving industry.

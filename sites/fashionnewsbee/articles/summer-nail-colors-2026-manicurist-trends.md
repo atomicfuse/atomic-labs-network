@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Six summer manicures in neutral, blue, green, pink, copper, and marigold tones
   on a warm beige backdrop.
+topics:
+  - Beauty
 ---
 ## The Colors Defining Summer 2026
 

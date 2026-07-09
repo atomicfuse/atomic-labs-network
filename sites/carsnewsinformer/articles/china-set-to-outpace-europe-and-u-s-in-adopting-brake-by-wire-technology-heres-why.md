@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Futuristic electric sedan with glowing brake-control circuitry in a sleek
   automotive test lab
+topics:
+  - News
 ---
 ## China's Technological Leadership Push
 

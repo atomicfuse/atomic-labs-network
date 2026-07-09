@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   A great ape gazes through glass with faint human reflections in a naturalistic
   research habitat.
+topics:
+  - Mind-Blowing Science
 ---
 ## Apes Choose Gossip Over Food
 

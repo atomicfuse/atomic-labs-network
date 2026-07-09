@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Grand piano, violin, and glowing abstract music waves in a refined modern
   concert setting
+topics:
+  - Music
 ---
 
 The world of classical music continues to evolve, offering enthusiasts an array of new albums that showcase both creativity and tradition. This February, several recordings have captured the attention of listeners and critics alike, each presenting unique interpretations and masterful performances. Whether you are a seasoned aficionado or new to the genre, these albums promise to enrich your musical journey with their depth and artistry.

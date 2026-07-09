@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Sleek home robot moving toward glowing abstract robotics network in a
   futuristic smart home setting
+topics:
+  - Tech
 ---
 
 The robotics industry is witnessing a significant transformation, marked by strategic acquisitions and technological advancements. Among the companies making waves in this field is Picea Robotics, a name that has recently garnered attention due to its acquisition of iRobot. This move not only highlights Picea Robotics' ambitions but also signifies a shift in the landscape of home robotics.

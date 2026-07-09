@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Compact modern tiny house with open glass doors, warm timber, and a spacious
   deck in a rural setting
+topics:
+  - News
 ---
 ## Compact Living Redefined
 

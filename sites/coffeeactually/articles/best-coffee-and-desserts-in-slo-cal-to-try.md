@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Sunlit cafe table with artisan coffee and desserts against a soft Central
   Coast backdrop
+topics:
+  - Coffee News
 ---
 
 San Luis Obispo County, located on California's Central Coast, is a haven for coffee enthusiasts and dessert lovers alike. This picturesque region offers a delightful array of cafes and dessert spots that cater to both locals and tourists. From artisanal coffee roasters to charming bakeries, the area promises a unique experience for every palate.

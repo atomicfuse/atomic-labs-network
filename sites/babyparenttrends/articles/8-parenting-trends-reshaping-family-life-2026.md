@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   A calm family shares a sunlit living room while children play independently
   and parents stay nearby.
+topics:
+  - Parenting
 ---
 ## The Shift Away from Perfect Parenting
 

@@ -44,6 +44,8 @@ quality_note: >-
   with accessible language for medical health enthusiasts, covering a highly
   relevant drug policy topic with excellent structure and keyword integration.
 image_alt: Unbranded medication vials and syringe on a clinical pharmacy workbench
+topics:
+  - Drugs
 ---
 
 The U.S. Food and Drug Administration is moving toward tighter oversight of compounded weight loss and diabetes medications, with a proposal that could sharply limit bulk compounding of semaglutide and tirzepatide. The action targets copycat versions of popular GLP-1 drugs, not the FDA-approved brand-name products prescribed for type 2 diabetes and chronic weight management.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Glamorous vampire rock singer under golden and violet stage lights in a gothic
   concert setting
+topics:
+  - TV Shows
 ---
 ## A Bold New Direction for Anne Rice's Vampire Chronicles
 

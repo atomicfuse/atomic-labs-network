@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Stylish Christmas living room with coordinated decor, warm lights, garlands,
   and a decorated tree
+topics:
+  - Decor Ideas
 ---
 
 The festive season is the perfect time to refresh your home decor with new and exciting ideas. Whether you're hosting a holiday party or simply want to surround yourself with the spirit of Christmas, upgrading your decorations can create a warm and inviting atmosphere. Let's explore some creative tips to revamp your Christmas decor this year.

@@ -34,6 +34,8 @@ quality_note: >-
 image_alt: >-
   Two bright galactic cores glow within swirling dust, gas, and filament-like
   structures in deep space.
+topics:
+  - Space
 ---
 
 The James Webb Space Telescope has given astronomers a sharper look into NGC 6240, the dramatic galaxy merger often called the Squid Galaxy. Behind its thick dust and distorted arms, Webb has exposed a complex structure near the core, where gas, stars, and two supermassive black holes are reshaping an entire galaxy.

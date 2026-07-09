@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Empty sitcom-style living room set with scattered toys and warm nostalgic
   lighting.
+topics:
+  - TV News
 ---
 
 *by Trevor Kimball, February 24, 2025*

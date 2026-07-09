@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Casting office with headshots, glowing screens, and blurred staff movement
   suggesting fast TV production.
+topics:
+  - TV & Movies
 ---
 ## The Hidden Engine of Television Talent Discovery
 

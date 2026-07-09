@@ -1,25 +1,33 @@
 ---
-title: "Should You Say Goodbye to Your Dog Before Leaving?"
-description: "A calm, predictable goodbye helps dogs feel secure when you leave. Skip dramatic farewells and secret exits, and build a consistent routine with safe spaces, enrichment, and gradual practice for anxious pets."
-type: "standard"
-status: "published"
-publishDate: "2026-05-18T08:50:20+00:00"
-author: "Taylor Winters"
+title: Should You Say Goodbye to Your Dog Before Leaving?
+description: >-
+  A calm, predictable goodbye helps dogs feel secure when you leave. Skip
+  dramatic farewells and secret exits, and build a consistent routine with safe
+  spaces, enrichment, and gradual practice for anxious pets.
+type: standard
+status: published
+publishDate: '2026-05-18T08:50:20+00:00'
+author: Taylor Winters
 tags:
-  - "Dogs"
-  - "Good To Know"
-slug: "should-you-say-goodbye-to-your-dog-before-leaving"
+  - Dogs
+  - Good To Know
+slug: should-you-say-goodbye-to-your-dog-before-leaving
 reading_time: 8
-source_url: "https://dogpotato.com/should-you-say-goodbye-to-your-dog-before-leaving/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/should-you-say-goodbye-to-your-dog-before-leaving/'
+imported_from: wordpress
 wp_original_id: 40282
-featuredImage: "/assets/images/should-you-say-goodbye-to-your-dog-before-leaving.webp"
+featuredImage: /assets/images/should-you-say-goodbye-to-your-dog-before-leaving.webp
 seo:
-  canonical: "https://dogpotato.com/should-you-say-goodbye-to-your-dog-before-leaving/"
-  og_title: "Should You Say Goodbye to Your Dog Before Leaving? - Dog Potato"
-  og_description: "A calm, predictable goodbye helps dogs feel secure when you leave. Skip dramatic farewells and secret exits, and build a consistent routine with safe spaces, enrichment, and gradual practice for anxious pets."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/05/make_file-4.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/should-you-say-goodbye-to-your-dog-before-leaving/'
+  og_title: Should You Say Goodbye to Your Dog Before Leaving? - Dog Potato
+  og_description: >-
+    A calm, predictable goodbye helps dogs feel secure when you leave. Skip
+    dramatic farewells and secret exits, and build a consistent routine with
+    safe spaces, enrichment, and gradual practice for anxious pets.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/05/make_file-4.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Pet Care & Health
 ---
 
 Leaving your dog at home can feel surprisingly emotional, especially when those eyes follow you to the door. Many owners wonder whether they should say goodbye to their dog or slip away quietly. The better answer is usually not about a dramatic farewell or a secret escape. It is about giving your dog calm, consistent signals that help them feel safe when you leave.

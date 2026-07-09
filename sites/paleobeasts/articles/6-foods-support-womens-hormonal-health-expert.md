@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Balanced wellness bowl with leafy greens, seeds, vegetables, avocado, legumes,
   and egg on a bright wooden table.
+topics:
+  - Nutrition
 ---
 ## Growing Interest in Food-Based Hormone Support
 

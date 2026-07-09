@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Female basketball player stands on a lit court with balanced visual symbols of
   equity around her.
+topics:
+  - Culture Buzz
 ---
 
 Breanna Stewart, a prominent figure in professional sports, is not just known for her exceptional skills on the basketball court but also for her advocacy off the court. As discussions around equitable pay gain momentum, Stewart has emerged as a leading voice, pushing for changes that could reshape the landscape of professional compensation, particularly for women athletes. Her insights and actions are inspiring significant conversations and developments in the sports world.

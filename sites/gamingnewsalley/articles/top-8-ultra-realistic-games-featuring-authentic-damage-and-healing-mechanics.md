@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Survivor bandaging an arm in a dark abandoned safehouse with wilderness beyond
   the window
+topics:
+  - Gaming News
 ---
 
 Video games are renowned for transporting players into new realms and experiences, and one of the most captivating elements is the realistic portrayal of damage and healing mechanics. Games that offer a high degree of realism in these aspects tend to be more immersive, creating a deeper connection between the player and the virtual world.

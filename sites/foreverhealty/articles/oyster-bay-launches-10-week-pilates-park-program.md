@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Outdoor Pilates class on mats in a sunny waterfront park with trees and calm
   morning light
+topics:
+  - Fitness & Movement
 ---
 ## Free Outdoor Pilates Classes Coming to Theodore Roosevelt Park
 

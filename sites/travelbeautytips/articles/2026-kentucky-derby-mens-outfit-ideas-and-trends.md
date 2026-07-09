@@ -40,6 +40,9 @@ quality_note: >-
   strong SEO optimization, and doesn't align well with the site's core travel
   and beauty focus areas.
 image_alt: Stylish men in colorful Derby outfits and hats on a sunlit racecourse terrace
+topics:
+  - Travel Tips
+  - Destinations
 ---
 
 The Kentucky Derby, a pinnacle of equestrian events, is as much about fashion as it is about horse racing. Each year, attendees flock to Churchill Downs, not just for the thrill of the race, but to showcase their sartorial elegance. With the 2026 Kentucky Derby on the horizon, now is the perfect time to explore the latest trends in Derby fashion, ensuring you make a memorable impression.

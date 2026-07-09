@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Ski tracks and a flowing bridal veil lead toward a snowy mountaintop wedding
   in the Rockies.
+topics:
+  - Good Vibes
 ---
 
 Imagine exchanging vows with a breathtaking mountain range as your backdrop, where the crisp air fills your lungs and adventure is woven into every moment. For one daring couple, their wedding day was not just a celebration of love but also a testament to their adventurous spirits. They chose to tie the knot at a staggering 8,000 feet above sea level, adding an exhilarating twist to their nuptials.

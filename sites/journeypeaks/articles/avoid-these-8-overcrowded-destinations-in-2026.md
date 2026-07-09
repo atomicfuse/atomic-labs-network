@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Crowds fill a historic street while a quiet coastal town appears in the
   distance
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Travel enthusiasts often seek new adventures, but some destinations might need a break from the influx of tourists. As we look forward to 2026, certain places are being highlighted for their overwhelming visitor numbers, prompting considerations for alternative travel plans.

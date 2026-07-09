@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in tailored cream Bermuda shorts walking through a refined
   sunlit courtyard
+topics:
+  - Lifestyle
 ---
 ## The Rise of Tailored Bermuda Shorts
 

@@ -32,6 +32,9 @@ quality_note: >-
   falls short on length (563 words vs 800-1200 target) and could benefit from
   stronger SEO optimization in the title and headings.
 reading_time: 3
+topics:
+  - Travel Tips
+  - food
 ---
 ## The Hidden Hotel Room Hazard
 

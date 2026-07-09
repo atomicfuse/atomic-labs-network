@@ -35,6 +35,8 @@ quality_note: >-
   specific.
 reading_time: 3
 image_alt: Parent comforts a young athlete on a bench after a summer sports loss.
+topics:
+  - Parenting
 ---
 ## Managing Your Own Reactions First
 

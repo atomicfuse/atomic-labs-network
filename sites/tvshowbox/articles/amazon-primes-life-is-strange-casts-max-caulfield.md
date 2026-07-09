@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Young woman with a camera in a moody hallway as storm light and a blue
   butterfly suggest time and memory.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Amazon Prime Video is set to bring the beloved video game "Life is Strange" to life through a new television series adaptation. This exciting development has fans eagerly anticipating how the complex, emotional narrative of the game will translate to the screen. With casting underway, the series is already generating buzz, particularly with the reported selection of a lead for the iconic role of Max Caulfield.

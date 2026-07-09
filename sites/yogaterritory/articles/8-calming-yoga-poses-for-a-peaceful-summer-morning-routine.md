@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Serene morning yoga practice in soft summer sunrise light beside an open
   window.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is a transformative practice that has been embraced worldwide for its ability to enhance both physical and mental well-being. Introducing a yoga routine, especially in the early morning, can significantly impact your day by promoting calmness and peace, which is particularly beneficial during the bustling summer months.

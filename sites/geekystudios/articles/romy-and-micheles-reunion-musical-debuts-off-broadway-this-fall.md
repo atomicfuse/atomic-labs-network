@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Two pastel-clad friends wait backstage under theater lights before a vibrant
   musical debut.
+topics:
+  - Pop Culture
 ---
 
 Romy and Michele's quirky charm is making a comeback, this time in the form of an off-Broadway musical. Fans of the iconic 1997 film "Romy and Michele's High School Reunion" will soon have the chance to experience the duo's antics live on stage. This transformation from screen to stage marks a new chapter in the enduring legacy of these beloved characters.

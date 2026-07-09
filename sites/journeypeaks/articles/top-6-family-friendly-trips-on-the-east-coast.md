@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Family overlooking a sunlit East Coast landscape with coast, city, and
   historic travel cues.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Exploring the East Coast with your family offers a diverse range of experiences, from historical adventures to scenic wonders. From the bustling streets of New York City to the tranquil beaches of the Outer Banks, families can find something to delight everyone. This guide highlights some of the top destinations that ensure a memorable family vacation.

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Quiet turquoise Var coast cove framed by pine trees, sailboats, rocks, and
   sunlit Mediterranean water
+topics:
+  - Travel
+  - Destinations
 ---
 ## A Quieter Alternative to Crowded Riviera Classics
 

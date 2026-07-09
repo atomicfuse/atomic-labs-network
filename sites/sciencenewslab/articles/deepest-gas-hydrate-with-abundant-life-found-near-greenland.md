@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Deep Arctic seafloor with glowing gas hydrate formations and small marine life
   in cold blue light
+topics:
+  - Nature
+  - Environment
 ---
 
 In a remarkable discovery beneath the depths of the Arctic Ocean, scientists have uncovered a vast deposit of gas hydrates off the coast of Greenland. This find, considered the world's deepest known gas hydrate, is not only significant for its size but also for the thriving ecosystem it supports. Located more than 1,200 meters below sea level, this extraordinary underwater landscape offers new insights into the biodiversity and geological processes of our planet.

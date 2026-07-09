@@ -36,6 +36,8 @@ quality_note: >-
   significantly under target word count and only tangentially relates to core
   news topics.
 reading_time: 2
+topics:
+  - Current Events
 ---
 ## Vogue Curates Luxury Hawaiian Island Getaways
 

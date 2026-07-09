@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Colorful fast-food meal with banana dessert and playful collectible toys on a
   bright diner table.
+topics:
+  - Coffee News
 ---
 ## Wendy's Teams Up with Illumination for Minions & Monsters Promotion
 

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Yoga instructor leading a small group through a sunrise fitness flow in a calm
   studio
+topics:
+  - Yoga Poses
 ---
 
 Yoga has long been celebrated for its myriad health benefits, including flexibility, mental clarity, and weight management. In this blog post, we delve into a specialized yoga workout session crafted by Dr. Sandhya Arya, an esteemed Naturopath Doctor with over 20 years of experience in the field of yoga. This session is specifically designed to aid in fat loss while promoting overall well-being.

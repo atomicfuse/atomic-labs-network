@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Patient and clinician review a tablet in a warm clinic setting with subtle
   digital connection graphics.
+topics:
+  - Research
 ---
 ## Breaking Down Barriers in Cancer Research Participation
 

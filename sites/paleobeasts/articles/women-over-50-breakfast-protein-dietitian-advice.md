@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Protein-rich breakfast with fruit, seeds, tofu, and workout towel in soft
   morning light.
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## The Breakfast Gap for Women Over 50
 

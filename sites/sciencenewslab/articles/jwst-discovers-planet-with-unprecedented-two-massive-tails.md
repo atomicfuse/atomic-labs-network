@@ -34,6 +34,8 @@ quality_note: >-
   well, it appears to describe a fabricated discovery with no verifiable
   sources, significantly compromising factual accuracy.
 image_alt: Distant exoplanet near a star releasing two vast glowing tails into deep space
+topics:
+  - Space
 ---
 
 An astronomical discovery involving a distant planet has captivated scientists worldwide. The James Webb Space Telescope (JWST) has observed an exoplanet displaying two astonishingly large tails, reminiscent of a comet's trails. This remarkable event not only highlights the advanced capabilities of the JWST but also opens new avenues for understanding planetary formation and behavior.

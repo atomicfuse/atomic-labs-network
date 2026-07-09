@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Modern laptop with abstract update and security visuals in a clean office
   setting
+topics:
+  - Tech
 ---
 
 Microsoft has recently announced an extension of support for its Office apps on Windows 10, providing relief to users who rely on these tools for their daily tasks. This decision ensures that individuals and businesses can continue to benefit from Microsoft's productivity suite without worrying about immediate upgrades.

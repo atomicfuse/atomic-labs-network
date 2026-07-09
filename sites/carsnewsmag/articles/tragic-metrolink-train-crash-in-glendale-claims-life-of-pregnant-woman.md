@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Somber rail crossing at dusk with flowers and distant emergency lights after a
   tragic collision
+topics:
+  - News
 ---
 
 In a heartbreaking incident in Glendale, a pregnant woman lost her life and four others sustained injuries when a Metrolink train collided with a car. The crash occurred on a Wednesday morning, sending shockwaves through the community and raising concerns about railway safety.

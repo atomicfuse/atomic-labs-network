@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Person doing gentle yoga on a mat in a sunlit living room with a closed laptop
   nearby.
+topics:
+  - Fitness & Movement
 ---
 ## The Modern Flexibility Challenge
 

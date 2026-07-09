@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Lavender-lit reunion set with empty chairs and drinks suggesting tense reality
   TV fallout.
+topics:
+  - TV & Movies
 ---
 ## Jesse Solomon Sets the Stage for Explosive Reunion
 

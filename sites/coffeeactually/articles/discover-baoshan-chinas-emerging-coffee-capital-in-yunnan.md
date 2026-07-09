@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Coffee beans and a steaming cup overlook misty terraced mountains in Yunnan at
   sunrise.
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 In recent years, Baoshan, located in China's Yunnan province, has gained recognition as a burgeoning hub for coffee enthusiasts. Known for its rich agricultural heritage, Baoshan is quickly becoming synonymous with high-quality coffee production, attracting both local and international attention. As coffee culture expands across the globe, Baoshan's unique offerings and scenic landscapes make it a compelling destination for travelers and coffee lovers alike.

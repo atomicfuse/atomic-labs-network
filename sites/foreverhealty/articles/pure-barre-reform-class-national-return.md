@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Diverse fitness class practicing controlled resistance movements at a barre in
   a bright studio
+topics:
+  - Fitness & Movement
 ---
 ## Pure Barre Reform Returns to Studios Nationwide
 

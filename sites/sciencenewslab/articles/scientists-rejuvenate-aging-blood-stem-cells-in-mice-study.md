@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Glowing blood stem cells in a petri dish shift from aged red tones to vibrant
   youthful light.
+topics:
+  - Space
 ---
 
 Scientists have made a significant breakthrough in the quest to rejuvenate aging blood stem cells, potentially paving the way for healthier aging processes. Their innovative approach has demonstrated promising results in laboratory mice, sparking hope for future applications in humans. This breakthrough could be instrumental in combating age-related diseases and improving life quality for the elderly.

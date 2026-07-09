@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Fan watching an Italian football match on TV in a modern living room with
   stadium colors glowing
+topics:
+  - Latest News
+  - Match Reports
 ---
 
 AS Roma, one of Italy's most storied football clubs, continues to captivate fans worldwide. Whether you're a die-hard supporter or a newcomer to the world of soccer, following Roma's matches live can be an exhilarating experience. Here, we explore how you can tune in to watch live streams of AS Roma's games, ensuring you never miss a moment of the action.

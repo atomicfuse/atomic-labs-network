@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Elegant mature woman practicing yoga in soft morning light with natural
   wellness elements nearby
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Hema Malini, the quintessential icon of Indian cinema, continues to dazzle with her enduring beauty and elegance. Known for her radiant skin and vibrant energy, she exemplifies the perfect blend of inner tranquility and external grace. Many wonder about the secrets behind her timeless allure, and her lifestyle choices provide insightful answers.

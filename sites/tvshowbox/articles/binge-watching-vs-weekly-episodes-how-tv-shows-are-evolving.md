@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   A silhouetted viewer faces a glowing screen in a moody living room split
   between bingeing and anticipation.
+topics:
+  - TV News
 ---
 
 In the rapidly evolving landscape of television viewing, the debate between binge-watching and weekly episode releases has become a focal point for audiences and streaming platforms alike. As viewers navigate this dynamic environment, the choice between consuming an entire series in one sitting or savoring episodes weekly continues to shape TV culture.

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Sunlit vanity with unbranded skincare and an older woman applying moisturizer
   in the mirror
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Martha Stewart has turned luminous skin into part of her personal brand, and her beauty routine continues to draw attention for one clear reason: it feels achievable. Instead of relying only on luxury formulas, she mixes consistent skin care, expert treatments, and smart glow-boosting makeup. Two names often connected to her radiant look are Mario Badescu and L'Oreal Paris True Match Lumi Glotion, proving that polished skin does not always require an intimidating price tag.

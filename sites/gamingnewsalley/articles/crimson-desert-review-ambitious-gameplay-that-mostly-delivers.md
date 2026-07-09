@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Armored mercenary overlooking a crimson desert valley with distant ruins and
   storm clouds
+topics:
+  - Gameplay
 ---
 
 Crimson Desert, an upcoming action-adventure game, has captured the attention of the gaming community with its immersive gameplay and stunning visuals. Developed by Pearl Abyss, this title blends rich storytelling with expansive open-world exploration, offering players a unique experience in a fantasy setting. The game promises not only engaging combat but also a dynamic world filled with diverse characters and quests.

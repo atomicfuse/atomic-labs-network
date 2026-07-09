@@ -31,6 +31,9 @@ seo:
 image_alt: >-
   Glamorous performer in a pink couture gown on a misty stage with emerald and
   rose-gold lights
+topics:
+  - Celebrities
+  - Music
 ---
 
 Ariana Grande's latest tour has captured the hearts of fans worldwide as she bids farewell to her "Wicked For Good" journey. The pop sensation has been inspired by her role as Glinda in the film adaptation of the beloved musical "Wicked," bringing a touch of theatrical magic to her performances. Her farewell tour has been characterized by stunning costumes and breathtaking vocal performances, leaving a lasting impression on audiences.

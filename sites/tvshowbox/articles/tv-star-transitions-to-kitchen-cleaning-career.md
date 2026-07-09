@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Young performer steps from a shadowy studio toward a polished kitchen with
   cleaning tools.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 The entertainment industry often surprises fans with unexpected career shifts from their favorite stars. One such intriguing transition involves actor Javon "Wanna" Walton, renowned for his role in the hit series "Euphoria." Walton, notable for his portrayal of Ashtray, has embarked on a new career path that has piqued the interest of fans and industry insiders alike.

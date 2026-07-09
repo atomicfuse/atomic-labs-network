@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Human silhouette with subtle brain and lung overlays surrounded by everyday
   air pollution wisps
+topics:
+  - Health News
 ---
 ## Study Reveals Rapid Health Effects from Everyday Pollution Sources
 

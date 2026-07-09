@@ -38,6 +38,8 @@ quality_note: >-
   LA), is too short at 470 words, and lacks proper SEO optimization with a
   misleading title that doesn't match the content.
 image_alt: Young adults in tense conversation on a Los Angeles rooftop at sunset
+topics:
+  - Watch
 ---
 
 The vibrant city of Los Angeles serves as the backdrop for a myriad of dramatic narratives, none more compelling than those featured in HBO's series "Girls." This week's episode delves into the complexities of personal relationships and the pursuit of identity against the iconic LA skyline. The storylines intertwine, revealing unexpected connections and personal growth among the characters, making for a captivating viewing experience.

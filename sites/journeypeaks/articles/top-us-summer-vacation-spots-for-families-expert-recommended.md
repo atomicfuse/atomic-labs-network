@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Family overlooking a sunny landscape with beach, mountains, lake, and open
   road in the distance.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Planning a memorable summer getaway for your family can often feel overwhelming, given the myriad choices available. Whether you're looking for adventure, relaxation, or a mix of both, the United States offers a wide array of family-friendly destinations that promise fun and bonding experiences for all ages.

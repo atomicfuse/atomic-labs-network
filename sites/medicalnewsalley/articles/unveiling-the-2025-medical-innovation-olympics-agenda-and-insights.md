@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Healthcare innovators gather around a glowing futuristic summit stage
   symbolizing medical breakthroughs.
+topics:
+  - Health News
 ---
 
 The 2025 Medical Innovation Olympics is set to be an exhilarating event that promises to bring groundbreaking ideas and advancements in healthcare to the forefront. As we approach the 4th annual gathering, anticipation is reaching a fever pitch with the unveiling of a new agenda and a roster of distinguished speakers at the October 6 Opening Ceremony.

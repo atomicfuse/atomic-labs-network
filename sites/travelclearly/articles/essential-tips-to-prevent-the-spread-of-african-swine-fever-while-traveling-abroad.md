@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Traveler follows biosecurity precautions at an airport to help protect farms
   from disease spread.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 As the number of global voyagers continues to increase, it's essential to comprehend the role we play in preventing the proliferation of diseases such as African Swine Fever (ASF). This highly contagious and lethal disease affects pigs, wreaking havoc on the swine industry worldwide. However, with your help, we can halt its spread.

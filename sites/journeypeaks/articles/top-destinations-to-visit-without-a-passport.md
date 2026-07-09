@@ -39,6 +39,10 @@ quality_note: >-
   falls short of optimal length and could improve SEO elements like meta
   description length.
 image_alt: Sunlit suitcase on a tropical balcony overlooking a turquoise island bay
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Exploring the world is an enriching experience, but sometimes, the hassle of procuring a passport can deter potential travelers. Fortunately, there are numerous destinations where U.S. citizens can travel without the need for a passport, making international adventures more accessible and convenient.

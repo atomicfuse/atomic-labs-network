@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Rugged adventurer overlooks five branching paths through dramatic ancient
   landscapes.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## The End of an Era Sparks New Adventures
 

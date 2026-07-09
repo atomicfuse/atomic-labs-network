@@ -1,9 +1,12 @@
 ---
 title: Simone Ashley’s 8-Move Strength and Pilates Conditioning Routine
-description: Simone Ashley's fitness approach emphasizes strength, conditioning, core stability, and recovery, offering a performance-first blueprint for building power, stamina, confidence, and long-term wellbeing.
+description: >-
+  Simone Ashley's fitness approach emphasizes strength, conditioning, core
+  stability, and recovery, offering a performance-first blueprint for building
+  power, stamina, confidence, and long-term wellbeing.
 type: standard
 status: published
-publishDate: 2026-05-25T08:42:16+00:00
+publishDate: 2026-05-25T08:42:16.000Z
 author: Taylor Winters
 tags:
   - Yoga Poses
@@ -12,15 +15,23 @@ tags:
   - Yoga For Women
 slug: simone-ashleys-8-move-strength-and-pilates-conditioning-routine
 reading_time: 6
-source_url: https://yogaterritory.com/simone-ashleys-8-move-strength-and-pilates-conditioning-routine/
+source_url: >-
+  https://yogaterritory.com/simone-ashleys-8-move-strength-and-pilates-conditioning-routine/
 imported_from: wordpress
 wp_original_id: 20767
-featuredImage: /assets/images/simone-ashleys-8-move-strength-and-pilates-conditioning-routine.webp
+featuredImage: >-
+  /assets/images/simone-ashleys-8-move-strength-and-pilates-conditioning-routine.webp
 seo:
-  canonical: https://yogaterritory.com/simone-ashleys-8-move-strength-and-pilates-conditioning-routine/
-  og_title: Simone Ashley’s 8-Move Strength and Pilates Conditioning Routine - Yoga Territory
-  og_description: Simone Ashley’s fitness approach emphasizes strength, conditioning, core stability and recovery, offering a performance-first blueprint for building power, stamina, confidence and long-term wellbeing.
-  og_image: http://yogaterritory.com/wp-content/uploads/2026/05/make_file-4.jpeg
+  canonical: >-
+    https://yogaterritory.com/simone-ashleys-8-move-strength-and-pilates-conditioning-routine/
+  og_title: >-
+    Simone Ashley’s 8-Move Strength and Pilates Conditioning Routine - Yoga
+    Territory
+  og_description: >-
+    Simone Ashley’s fitness approach emphasizes strength, conditioning, core
+    stability and recovery, offering a performance-first blueprint for building
+    power, stamina, confidence and long-term wellbeing.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/05/make_file-4.jpeg'
   twitter_card: summary_large_image
 quality_score: 64
 score_breakdown:
@@ -29,9 +40,16 @@ score_breakdown:
   content_length: 100
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: While well-written and appropriately lengthy, this strength training article doesn't align with yogaterritory's yoga and meditation focus, lacking relevant keywords and SEO optimization for the target audience.
-image_alt: Athletic woman performing a controlled Pilates plank in a bright modern fitness studio
+quality_note: >-
+  While well-written and appropriately lengthy, this strength training article
+  doesn't align with yogaterritory's yoga and meditation focus, lacking relevant
+  keywords and SEO optimization for the target audience.
+image_alt: >-
+  Athletic woman performing a controlled Pilates plank in a bright modern
+  fitness studio
 reviewer_notes: Approved via review queue.
+topics:
+  - Yoga Poses
 ---
 
 Simone Ashley strength routine searches have surged for good reason: her training style reflects the modern shift toward building power, stamina and resilience, not chasing quick fixes. The Bridgerton and Sex Education star has become a strong example of athletic, performance-led fitness that supports demanding workdays, movement confidence and long-term wellbeing.

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Clinician and patient in a softly lit rehabilitation room suggesting spinal
   cord recovery research
+topics:
+  - Health News
 ---
 
 In a significant advancement for medical research, Griffith University has initiated a pioneering clinical trial aimed at treating spinal cord injuries. This groundbreaking initiative holds promise for transforming the lives of individuals who have suffered from such debilitating conditions. By focusing on innovative therapeutic strategies, the trial could potentially alter the current landscape of spinal cord injury treatment.

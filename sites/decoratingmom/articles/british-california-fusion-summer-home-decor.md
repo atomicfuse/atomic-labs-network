@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Airy summer kitchen-living space with cream cabinetry, linen textures, and
   open doors to a sunny garden patio.
+topics:
+  - Decor Ideas
 ---
 ## The Evolution of Summer Decorating
 

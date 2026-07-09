@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A sterile sample vial sits near a misty forest road with subtle glowing fungal
   spores in the air.
+topics:
+  - Health News
 ---
 ## Fungal Pathogen Spreads Beyond Domestic Cats
 

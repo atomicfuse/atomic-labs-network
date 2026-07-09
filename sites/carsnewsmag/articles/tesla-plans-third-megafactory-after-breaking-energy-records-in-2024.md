@@ -50,6 +50,8 @@ quality_note: >-
   target word count at 397 words, which heavily impacts the overall quality
   score.
 image_alt: Futuristic battery factory with grid-scale energy storage units at dawn
+topics:
+  - Electric Cars
 ---
 
 Tesla Energy broke multiple records for energy storage deployments and margins in 2024, and as the company recently revealed in its latest earnings call, it's also looking to establish yet another factory for its grid-scale Megapack batteries.

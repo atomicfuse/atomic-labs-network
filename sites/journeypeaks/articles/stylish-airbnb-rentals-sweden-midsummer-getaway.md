@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Red Swedish cottage by a calm inlet with wildflowers and a Midsummer outdoor
   table at golden hour
+topics:
+  - Travel
+  - Destinations
 ---
 ## Experience Sweden's Magic During Midsummer Season
 

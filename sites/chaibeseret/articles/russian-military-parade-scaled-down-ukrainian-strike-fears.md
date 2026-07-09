@@ -35,6 +35,8 @@ quality_note: >-
   site's entertainment focus and casual streaming audience, while being too
   short and formal in tone.
 reading_time: 2
+topics:
+  - breaking news
 ---
 ## Reduced Military Display in Red Square
 

@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Focused gamer at a neon-lit desk with a clear glass of water in the
   foreground.
+topics:
+  - Space
 ---
 
 In the competitive world of gaming, maintaining sharp focus and quick reflexes can be the difference between victory and defeat. Recent research has uncovered a straightforward yet effective way for gamers to enhance their concentration during extended gaming sessions. This study reveals that a simple drink choice can significantly boost a player's ability to stay focused for hours.

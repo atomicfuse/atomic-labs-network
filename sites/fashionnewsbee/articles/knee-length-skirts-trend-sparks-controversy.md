@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Diverse models in knee-length skirts pose in a polished urban fashion
   editorial setting.
+topics:
+  - Fashion
 ---
 
 As fashion trends evolve, knee-length skirts have made a remarkable return, capturing the attention of style enthusiasts worldwide. This versatile piece blends elegance with practicality, offering a chic alternative for various occasions. Whether you prefer a classic A-line or a trendy pencil skirt, knee-length designs are proving to be a wardrobe essential this season.

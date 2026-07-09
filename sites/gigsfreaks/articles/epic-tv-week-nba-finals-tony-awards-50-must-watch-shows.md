@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Cinematic entertainment room with glowing screens suggesting sports, awards,
   and TV premieres
+topics:
+  - Hot Trends
 ---
 ## The Ultimate Entertainment Week is Here
 

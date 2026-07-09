@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Game controller beside abstract financial charts and planning tools in a
   modern studio setting.
+topics:
+  - Gaming News
 ---
 
 Understanding video game finance is essential for anyone building, funding, publishing, or analyzing games. The business can look creative on the surface, but every successful studio depends on clear numbers, disciplined spending, and realistic revenue planning.

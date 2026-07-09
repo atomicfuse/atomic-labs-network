@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Airy small living room with neutral decor, smart storage, natural light, and
   space-saving furniture
+topics:
+  - Decor Ideas
+  - Interior Design
 ---
 
 Living in a small space can present unique challenges, but with the right interior design strategies, you can transform any compact area into a cozy and functional haven. In this article, we'll explore ten essential decorating secrets from interior designer Kristen McGowan that will help your small space feel larger and more inviting.

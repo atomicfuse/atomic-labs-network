@@ -48,6 +48,11 @@ quality_note: >-
 image_alt: >-
   Festive Orlando street glowing with holiday lights, palm trees, and visitors
   at dusk
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 
 Orlando, a vibrant city known for its world-famous attractions, is set to transform into a festive wonderland this holiday season. Beginning in November, locals and tourists alike can immerse themselves in a spectacular 70-day celebration filled with dazzling lights, exciting shows, and holiday cheer. This annual event promises unforgettable experiences for visitors of all ages, making Orlando a must-visit destination during the festive period.

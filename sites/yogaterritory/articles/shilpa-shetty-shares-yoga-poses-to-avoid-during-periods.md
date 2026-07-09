@@ -42,6 +42,8 @@ quality_note: >-
   though the title could be more compelling and the content could benefit from
   better heading structure for SEO optimization.
 image_alt: Woman resting in a gentle supported yoga pose in a calm sunlit studio
+topics:
+  - Yoga Poses
 ---
 
 Shilpa Shetty Kundra has long connected her screen popularity with a strong public focus on fitness, yoga, and mindful living. In a recent wellness-focused update, the actor and fitness advocate highlighted an important but often ignored point: women may need to change their yoga routine during menstruation, especially when the body asks for rest, warmth, and gentler movement.

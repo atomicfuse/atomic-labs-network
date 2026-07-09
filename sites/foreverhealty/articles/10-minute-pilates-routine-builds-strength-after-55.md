@@ -33,6 +33,9 @@ reading_time: 3
 image_alt: >-
   Older woman doing a controlled Pilates leg lift on a mat in a bright home
   studio
+topics:
+  - Fitness & Movement
+  - Healthy Aging
 ---
 ## The Growing Demand for Accessible Strength Training
 

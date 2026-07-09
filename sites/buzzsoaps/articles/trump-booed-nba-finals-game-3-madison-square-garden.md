@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Tense basketball arena crowd reacts as a suited figure sits courtside beneath
   a glowing jumbotron.
+topics:
+  - Culture Buzz
 ---
 ## Politics Meets Basketball at Historic Finals Game
 

@@ -43,6 +43,8 @@ quality_note: >-
   (613 words vs 800-1200 target) and could benefit from stronger SEO
   optimization in headings and keyword integration.
 image_alt: Older adult and clinician in quiet conversation beside a softly lit window
+topics:
+  - Health News
 ---
 
 Dementia, a progressive neurological disorder, often eludes timely diagnosis. Despite its profound impact on individuals and their families, the time from the onset of symptoms to diagnosis can extend to an average of 3.5 years. This significant delay raises concerns about the factors contributing to prolonged diagnosis times and the potential implications for patient care and quality of life.

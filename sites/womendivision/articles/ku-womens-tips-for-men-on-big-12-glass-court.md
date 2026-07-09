@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Collegiate tennis players practice footwork on a reflective glass court under
   arena lights.
+topics:
+  - Advice
 ---
 
 The Kansas University women's tennis team recently shared insights with their male counterparts about competing on the distinctive glass court at the Big 12. This court, known for its unique surface and challenging conditions, requires specific strategies and adjustments to excel. By leveraging their own experiences, the women provided valuable advice to help the men's team succeed.

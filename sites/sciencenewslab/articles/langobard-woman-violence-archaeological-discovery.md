@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Ancient skull fragments in an archaeology lab suggest hidden evidence of
   women's violence in history.
+topics:
+  - Nature
 ---
 ## A Discovery That Rewrites History
 

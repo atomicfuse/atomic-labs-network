@@ -36,6 +36,8 @@ quality_note: >-
   optimization, and doesn't align well with the site's core topics despite
   having appropriate tone and decent length.
 reading_time: 3
+topics:
+  - Nutrition
 ---
 ## Growing Focus on Food-Based Hormonal Support
 

@@ -1,9 +1,12 @@
 ---
-title: "7 Must-Watch TV Shows This Week: New Period Dramas and Returns"
-description: From period dramas like The Hardacres to Yellowstone spin-offs and BAFTA coverage, here are this week's top streaming picks across Netflix, BBC, and ITV.
+title: '7 Must-Watch TV Shows This Week: New Period Dramas and Returns'
+description: >-
+  From period dramas like The Hardacres to Yellowstone spin-offs and BAFTA
+  coverage, here are this week's top streaming picks across Netflix, BBC, and
+  ITV.
 type: listicle
 status: published
-publishDate: 2026-05-10
+publishDate: 2026-05-10T00:00:00.000Z
 author: Editorial Team
 tags:
   - TV Shows
@@ -13,7 +16,8 @@ tags:
   - entertainment
 slug: 7-must-watch-tv-shows-this-week-period-dramas-returns
 reviewer_notes: Approved via review queue.
-source_url: https://www.goodhousekeeping.com/uk/lifestyle/a71252805/best-tv-shows-this-week-downton-abbey/
+source_url: >-
+  https://www.goodhousekeeping.com/uk/lifestyle/a71252805/best-tv-shows-this-week-downton-abbey/
 source_item_id: 6a007a63e9d30be04c0c5fd9
 generated_by: claude
 featuredImage: /assets/images/7-must-watch-tv-shows-this-week-period-dramas-returns.webp
@@ -24,8 +28,14 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 85
-quality_note: Strong keyword relevance and decent SEO structure, but significantly underperforms on length (526 words vs 800-1200 target) and contains vague references that may not be factually verifiable.
+quality_note: >-
+  Strong keyword relevance and decent SEO structure, but significantly
+  underperforms on length (526 words vs 800-1200 target) and contains vague
+  references that may not be factually verifiable.
 reading_time: 3
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## This Week's Television Landscape
 

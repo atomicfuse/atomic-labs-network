@@ -41,6 +41,8 @@ quality_note: >-
   descriptions, though slightly short of ideal length and could benefit from
   stronger SEO optimization.
 image_alt: 'Moody crime drama scene with cash, shadows, rain, and distant police lights'
+topics:
+  - TV News
 ---
 
 In the realm of television dramas, few shows have captivated audiences quite like "Ozark." Known for its intense storytelling, complex characters, and dark themes, "Ozark" has left a lasting impression on viewers. For those who have followed the Byrde family's journey and are eager for more gripping narratives, several other series offer a similar sense of intrigue and tension.

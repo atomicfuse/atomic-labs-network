@@ -1,25 +1,36 @@
 ---
-title: "Dog-Proof Your Lawn Against Urine Burns Digging and Zoomies"
-description: "Practical tips to prevent dog lawn damage, from urine spots and digging to zoomie tracks, using training, tougher grass, pet-safe care, and smart yard design."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:50:35+00:00"
-author: "Taylor Winters"
+title: Dog-Proof Your Lawn Against Urine Burns Digging and Zoomies
+description: >-
+  Practical tips to prevent dog lawn damage, from urine spots and digging to
+  zoomie tracks, using training, tougher grass, pet-safe care, and smart yard
+  design.
+type: standard
+status: published
+publishDate: '2026-05-11T08:50:35+00:00'
+author: Taylor Winters
 tags:
-  - "Dogs"
-  - "Good To Know"
-slug: "dog-proof-your-lawn-against-urine-burns-digging-and-zoomies"
+  - Dogs
+  - Good To Know
+slug: dog-proof-your-lawn-against-urine-burns-digging-and-zoomies
 reading_time: 8
-source_url: "https://dogpotato.com/dog-proof-your-lawn-against-urine-burns-digging-and-zoomies/"
-imported_from: "wordpress"
+source_url: >-
+  https://dogpotato.com/dog-proof-your-lawn-against-urine-burns-digging-and-zoomies/
+imported_from: wordpress
 wp_original_id: 40270
-featuredImage: "/assets/images/dog-proof-your-lawn-against-urine-burns-digging-and-zoomies.webp"
+featuredImage: >-
+  /assets/images/dog-proof-your-lawn-against-urine-burns-digging-and-zoomies.webp
 seo:
-  canonical: "https://dogpotato.com/dog-proof-your-lawn-against-urine-burns-digging-and-zoomies/"
-  og_title: "Dog-Proof Your Lawn Against Urine Burns Digging and Zoomies - Dog Potato"
-  og_description: "Practical tips to prevent dog lawn damage, from urine spots and digging to zoomie tracks, using training, tougher grass, pet-safe care, and smart yard design."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://dogpotato.com/dog-proof-your-lawn-against-urine-burns-digging-and-zoomies/
+  og_title: Dog-Proof Your Lawn Against Urine Burns Digging and Zoomies - Dog Potato
+  og_description: >-
+    Practical tips to prevent dog lawn damage, from urine spots and digging to
+    zoomie tracks, using training, tougher grass, pet-safe care, and smart yard
+    design.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Pet Care & Health
 ---
 
 A beautiful lawn and an energetic dog can live together, but it takes planning. Urine spots, surprise craters, and wild bursts of zoomies can all damage turf fast. The good news is that most dog lawn damage has a clear cause and a practical fix. With smarter training, tougher grass choices, and a few pet-safe lawn care habits, you can protect your yard without limiting your dog's fun.

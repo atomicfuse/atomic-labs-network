@@ -40,6 +40,8 @@ quality_note: >-
   short on length (385 vs 800-1200 target) and lacks proper SEO optimization
   with weak title structure and missing meta description.
 image_alt: Cyberpunk fighter in a neon rain-soaked alley with weapons ready
+topics:
+  - Gaming News
 ---
 
 "Wanted: Dead" introduces gamers to a frenetic world of cyberpunk action, blending fast-paced combat with a narrative filled with intrigue. Set against the backdrop of a dystopian future, this game offers players a unique blend of hack-and-slash mechanics and third-person shooting dynamics, making it a standout in the action genre.

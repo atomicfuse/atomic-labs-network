@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Futuristic AI workspace generating holographic game worlds and character
   environments
+topics:
+  - Tech
 ---
 ## Explosive Growth Projected for AI Game Development
 

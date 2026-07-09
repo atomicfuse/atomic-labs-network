@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Ancient crown in a shadowed stone chamber suggesting royal secrets and buried
   history.
+topics:
+  - Internet Mysteries
 ---
 
 The Royal Family has long been a subject of intrigue and speculation, with numerous unsolved mysteries that continue to captivate historians and the public alike. Among these mysteries is the remarkable discovery of King Richard III's remains, which has sparked both fascination and questions about royal ancestry.

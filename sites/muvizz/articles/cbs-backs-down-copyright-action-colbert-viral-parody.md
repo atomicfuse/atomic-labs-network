@@ -1,9 +1,11 @@
 ---
 title: CBS Backs Down from Copyright Action Over Colbert Viral Parody
-description: CBS and Paramount reversed their copyright challenges limiting Stephen Colbert's viral cable access appearance as he exits The Late Show.
+description: >-
+  CBS and Paramount reversed their copyright challenges limiting Stephen
+  Colbert's viral cable access appearance as he exits The Late Show.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -13,7 +15,8 @@ tags:
   - Late Night TV
 slug: cbs-backs-down-copyright-action-colbert-viral-parody
 reviewer_notes: Approved via review queue.
-source_url: https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount
+source_url: >-
+  https://www.npr.org/2026/05/25/nx-s1-5833860/colbert-only-in-monroe-viral-cbs-paramount
 source_item_id: 6a151ac216f23264031d80f5
 generated_by: claude
 featuredImage: /assets/images/cbs-backs-down-copyright-action-colbert-viral-parody.webp
@@ -24,9 +27,17 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: Strong keyword relevance and decent SEO structure, but the article is too short and contains factual inaccuracies about Colbert leaving The Late Show when he's still the current host.
+quality_note: >-
+  Strong keyword relevance and decent SEO structure, but the article is too
+  short and contains factual inaccuracies about Colbert leaving The Late Show
+  when he's still the current host.
 reading_time: 2
-image_alt: Empty late-night studio with a vintage TV monitor and red tape being peeled away.
+image_alt: >-
+  Empty late-night studio with a vintage TV monitor and red tape being peeled
+  away.
+topics:
+  - Breaking News
+  - Trailers
 ---
 ## CBS Reverses Course on Viral Colbert Content
 

@@ -39,6 +39,8 @@ quality_note: >-
   Strong pop culture content with engaging tone and accurate information, but
   significantly under target word count at 544 words when 800-1200 is expected.
 image_alt: Silhouetted traveler in desert dunes faces a buried starship under twin moons
+topics:
+  - Pop Culture
 ---
 
 *Star Wars: The Force Awakens*, released in December 2015, marked a significant milestone in the Star Wars saga, revitalizing the franchise with new energy and drawing in a fresh generation of fans. This film, directed by J.J. Abrams, introduced audiences to a blend of new characters and familiar faces, while also setting the stage for future adventures in a galaxy far, far away.

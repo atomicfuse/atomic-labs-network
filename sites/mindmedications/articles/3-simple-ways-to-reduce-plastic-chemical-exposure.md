@@ -31,6 +31,10 @@ seo:
 image_alt: >-
   Sunlit kitchen counter with glass containers, fresh produce, and stainless
   steel items for healthier daily swaps.
+topics:
+  - Lifestyle
+  - Nutrition
+  - Wellness
 ---
 
 Plastic is woven into modern life, from food packaging to kitchen tools, cosmetics, toys and furniture. That convenience comes with a hidden concern: some plastic-related chemicals can migrate into food, air, dust and skin-contact products. You do not need to eliminate every plastic item at home. However, small daily changes can lower exposure to substances linked with hormone disruption, inflammation and other potential health risks.

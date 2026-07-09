@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Older adult in morning sunlight suggesting a steady daily rhythm for healthy
   aging
+topics:
+  - Health News
 ---
 
 A steady daily routine can do more than make life feel organized. It may also help keep the body clock on time, supporting better sleep, metabolism, mood, and long-term health as we age. Researchers and sleep experts increasingly view circadian rhythm health as a key part of healthy aging, because nearly every major system in the body follows a roughly 24-hour cycle.

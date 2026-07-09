@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Actor in a moody motion-capture studio with blue sci-fi lighting and abstract
   gaming visuals
+topics:
+  - Gaming News
 ---
 
 No article content was available to clean up. The source material contained only a system message indicating that the original article URL could not be accessed, rather than actual article text about Rahul Kohli and his thoughts on a dream role in the PS5 title Saros.

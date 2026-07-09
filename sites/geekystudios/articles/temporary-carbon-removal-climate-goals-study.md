@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Abstract climate accounting scene balancing methane plumes with temporary
   carbon storage layers
+topics:
+  - Tech
 ---
 ## The Right Tool for the Right Emission
 

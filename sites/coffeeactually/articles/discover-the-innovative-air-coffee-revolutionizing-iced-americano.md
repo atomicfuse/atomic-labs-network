@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Iced Americano in a Seoul café with solar panels and wind turbines reflected
   in the window
+topics:
+  - Coffee News
 ---
 
 South Korea is making significant strides in the realm of environmental sustainability by aiming to significantly reduce carbon emissions. The nation has laid out an ambitious plan to enhance its use of renewable energy sources, which is expected to play a crucial role in achieving these environmental goals.

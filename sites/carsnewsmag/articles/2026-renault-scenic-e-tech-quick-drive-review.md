@@ -41,6 +41,10 @@ quality_note: >-
   significantly under target word count and contains potential factual issues
   regarding a 2026 model year vehicle.
 image_alt: Sleek compact hybrid SUV driving on a coastal road at golden hour
+topics:
+  - Electric Cars
+  - Reviews
+  - Concept Cars
 ---
 
 The automotive world has been abuzz with the unveiling of the 2026 Renault Scenic E-Tech, a vehicle that promises to redefine the compact SUV segment. Combining innovative technology with sleek design, this hybrid model is a testament to Renault's commitment to sustainability and cutting-edge performance.

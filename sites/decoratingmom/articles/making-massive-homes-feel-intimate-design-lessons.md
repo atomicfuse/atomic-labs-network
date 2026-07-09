@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Warm luxury kitchen and living space zoned with cozy seating, layered
   textures, wood, stone, and soft natural light.
+topics:
+  - Interior Design
 ---
 ## When Size Meets Warmth: A Utah Designer's Approach
 

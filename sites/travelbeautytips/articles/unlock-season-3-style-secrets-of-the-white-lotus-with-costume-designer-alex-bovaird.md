@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Bold resort fashion and statement accessories arranged beside a sunlit luxury
   pool
+topics:
+  - Travel Tips
 ---
 
 If you're a fan of the hit HBO series 'The White Lotus', you're surely captivated by its distinctive fashion sense. The show is a goldmine of inspiration for women's fashion, from chic resort wear to avant-garde accessories. In anticipation of the third season, we've curated a selection of outfit ideas that echo the unique style of the series.

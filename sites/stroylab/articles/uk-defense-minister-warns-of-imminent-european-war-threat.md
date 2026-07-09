@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Officials pass security barriers outside a government district at dusk,
   suggesting rising European tensions.
+topics:
+  - Deep Dives
 ---
 
 Recent geopolitical developments have brought significant changes to the global landscape, with major implications for international relations and economic strategies. As countries navigate this shifting terrain, the roles of key players in global politics have evolved, leading to new alliances and rivalries.

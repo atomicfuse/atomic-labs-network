@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Clinician and cancer patient in a bright clinic with subtle AI network
   patterns suggesting trial access.
+topics:
+  - Research
 ---
 
 Mount Sinai Health System is pioneering the use of artificial intelligence to address a critical issue in oncology: the accessibility of clinical trials for cancer patients. This innovative AI tool is designed to streamline the process of matching patients with appropriate clinical trials, thereby enhancing both the efficiency and success rates of these vital research efforts.

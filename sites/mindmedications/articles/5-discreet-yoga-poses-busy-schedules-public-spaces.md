@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Calm person doing a subtle standing stretch amid a softly blurred busy public
   space
+topics:
+  - Lifestyle
+  - Mindfulness
+  - Wellness
 ---
 ## Making Yoga Work in Real Life
 

@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Foggy rural field with fractured stone monoliths and distant lights under a
   stormy dawn sky.
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 Mysterious events have a way of holding public attention long after the first headlines fade. The idea of 15 mysterious events that cannot be explained in 2026 speaks directly to that fascination: the questions that remain open, the details that do not neatly fit, and the stories that continue to invite debate among viewers, researchers, travelers, and everyday curiosity seekers.

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Stylish cozy apartment living room with smart storage, plants, and warm
   natural light
+topics:
+  - Decor Ideas
 ---
 
 Transforming your living space into a cozy and functional area is crucial for enhancing your quality of life. Whether you reside in a compact apartment or a spacious home, making your environment comfortable and stylish can significantly impact your well-being. This guide provides insightful tips and creative ideas to elevate your home decor and organization.

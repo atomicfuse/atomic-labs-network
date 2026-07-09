@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Gaming controller with glowing digital subscription tiles and rising abstract
   data arcs
+topics:
+  - Gaming News
 ---
 
 In January, the video game industry in the United States experienced a notable increase in consumer spending. This growth was largely fueled by the popularity of subscription services, surpassing previous expectations. The uptick in spending highlights the evolving landscape of the gaming market, where digital experiences are becoming increasingly dominant.

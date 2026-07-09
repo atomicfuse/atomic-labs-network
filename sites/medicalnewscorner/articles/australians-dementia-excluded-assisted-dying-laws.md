@@ -33,6 +33,8 @@ quality_note: >-
   800-1200 words.
 reading_time: 3
 image_alt: Elderly hands gently supported beside blurred legal papers on a quiet table.
+topics:
+  - Health News
 ---
 ## Current Laws Leave Dementia Patients Behind
 

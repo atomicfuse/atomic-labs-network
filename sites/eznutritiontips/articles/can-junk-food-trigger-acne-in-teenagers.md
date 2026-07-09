@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Teen with subtle acne sitting at a bright kitchen table with both healthy
   snacks and chips.
+topics:
+  - Nutrition Myths
 ---
 
 Acne, a common skin condition, has long been associated with adolescents and their dietary choices. There's a widespread belief that junk food consumption is a major contributor to teenage acne. But how much of this is fact, and how much is fiction?

@@ -38,6 +38,8 @@ videos:
 image_alt: >-
   Unlabeled white wine bottles and tasting glasses arranged for a blind Chablis
   tasting.
+topics:
+  - Coffee News
 ---
 ## The Great Chablis Showdown: Price vs. Quality
 

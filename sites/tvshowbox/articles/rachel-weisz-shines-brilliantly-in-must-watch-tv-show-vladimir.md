@@ -40,6 +40,8 @@ quality_note: >-
   The article appears to be about a fabricated TV show called 'Vladimir'
   starring Rachel Weisz, with extremely vague content and severe length issues.
 image_alt: Elegant performer in dramatic light suggesting a suspenseful prestige TV drama
+topics:
+  - TV News
 ---
 
 Rachel Weisz delivers a captivating performance in the latest television series destined to be an enduring classic. With a compelling storyline that combines drama and intrigue, this show promises to captivate audiences for years to come. Its rich narrative and stellar cast make it a must-watch for fans of high-quality television.

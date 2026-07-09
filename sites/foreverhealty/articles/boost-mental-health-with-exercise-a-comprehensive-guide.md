@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A calm jogger pauses on a sunlit park path at sunrise, suggesting exercise and
   mental well-being.
+topics:
+  - Healthy Living Tips
 ---
 
 Exercise is a powerful tool for enhancing mental well-being. Embracing regular physical activity can lead to significant improvements in mood, self-esteem, and overall mental health. This article will explore the key ways exercise benefits mental health and provide practical tips to incorporate it into your daily routine.

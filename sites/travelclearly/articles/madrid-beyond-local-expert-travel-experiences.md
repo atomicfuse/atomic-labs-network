@@ -33,6 +33,10 @@ quality_note: >-
   short on length (579 words vs 800-1200 target) and could benefit from stronger
   SEO optimization in title and structure.
 reading_time: 3
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The New Face of Luxury Travel
 

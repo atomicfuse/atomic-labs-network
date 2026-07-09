@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Unbranded whisky bottle by a stormy shore with a yellow submarine-like object
   in the tide.
+topics:
+  - Coffee News
 ---
 ## The Return of Scotch's Most Eccentric Cult Series
 

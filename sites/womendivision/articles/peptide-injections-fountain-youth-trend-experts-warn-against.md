@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Unlabeled vial and syringe on a teal clinical surface with amber reflections
   and cautionary shadows.
+topics:
+  - Fitness
+  - Lifestyle
 ---
 ## The Promise vs. The Reality
 

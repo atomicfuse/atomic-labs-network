@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Sunlit luxury travel terrace overlooking a turquoise bay with linen chairs,
   luggage, and coastal details.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Fashion World's Travel Playbook for Summer 2026
 

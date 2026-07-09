@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Sunlit stylish living room with thrifted decor, greenery, and DIY styling
   details
+topics:
+  - Expert Guides
 ---
 
 In this creative journey, watch as I turn my ordinary house into a home, mirroring my favorite Pinterest moodboard. The transformation process includes a full house tour, highlighting the changes made, thrifting for unique pieces, and engaging in fun DIY projects.

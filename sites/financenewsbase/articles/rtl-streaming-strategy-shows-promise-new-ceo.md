@@ -35,6 +35,8 @@ quality_note: >-
   but significantly under target word count and contains some potentially
   unverifiable financial claims.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 ## Streaming Pivot Delivers First Profitable Quarter
 

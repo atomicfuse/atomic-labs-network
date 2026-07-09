@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Glowing neural pathways in a human profile with a blurred drink fading into
   shadow
+topics:
+  - Space
 ---
 
 Recent research is shedding light on a novel approach to combating alcohol use disorder (AUD) by exploring the potential of psychedelics. These powerful substances, traditionally used in spiritual and recreational settings, are now being examined for their ability to alter brain pathways and potentially reduce alcohol consumption. This innovative field of study is opening new doors for those seeking treatment for AUD, a condition that affects millions worldwide.

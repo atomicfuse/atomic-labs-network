@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Sunlit luxury travel still life evoking global destinations through textures
   and elegant objects
+topics:
+  - Destinations
 ---
 
 As the world becomes more accessible, discerning travelers are constantly on the lookout for unique and breathtaking destinations to explore. By 2026, a new wave of holiday spots is set to capture the imagination of globetrotters. These destinations offer a mix of cultural richness, natural beauty, and unparalleled experiences that promise to make unforgettable memories.

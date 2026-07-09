@@ -53,6 +53,8 @@ quality_note: >-
 image_alt: >-
   Lone fantasy warrior on a misty ruin with faint spectral companions in the
   distance
+topics:
+  - Gaming News
 ---
 
 FromSoftware, the video game developer that has won the hearts of gamers worldwide, continues to focus on creating single-player games. This commitment comes despite the recent unveiling of co-op and player vs player vs environment (PvPvE) elements in their upcoming title, a move that has sparked intrigue and speculation within the gaming community.

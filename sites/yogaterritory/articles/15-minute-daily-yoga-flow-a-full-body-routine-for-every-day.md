@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Person practicing yoga in a bright, calm living room with morning light and
   greenery.
+topics:
+  - Yoga Poses
 ---
 
 In our fast-paced lives, finding time for a comprehensive workout can be challenging. However, incorporating a quick yet effective yoga routine into your daily schedule can significantly enhance your physical and mental well-being. This 15-minute daily yoga flow is designed to be a full-body practice that you can do every day, regardless of your experience level.

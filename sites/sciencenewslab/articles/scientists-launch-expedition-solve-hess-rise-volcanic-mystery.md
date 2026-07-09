@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Research vessel at dawn above a subtly glowing underwater volcanic plateau in
   the North Pacific
+topics:
+  - Environment
 ---
 ## A Geological Cold Case Reopens
 

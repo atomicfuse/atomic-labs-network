@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Stargazers watch a crescent moon and two bright planets align in a serene
   night sky.
+topics:
+  - Space
 ---
 
 Prepare for a celestial spectacle as a rare lunar phenomenon is set to grace our skies. Referred to as the 'Smiley Face Moon,' this astral event creates a unique alignment of the Moon, Venus, and Saturn, which comes around only once in a blue moon. As a stargazer, you can't afford to miss this.

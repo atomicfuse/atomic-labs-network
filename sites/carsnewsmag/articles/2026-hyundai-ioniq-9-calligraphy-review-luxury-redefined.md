@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Luxury electric SUV on a coastal road at dusk with futuristic lighting and
   sleek reflections.
+topics:
+  - Electric Cars
+  - Reviews
+  - Industry
 ---
 
 The automotive industry is abuzz with the arrival of the 2026 Hyundai Ioniq 9 Calligraphy, a luxury electric SUV that promises to redefine opulence on wheels. Combining cutting-edge technology with elegant design, this vehicle is set to capture the hearts of eco-conscious drivers who refuse to compromise on style and performance.

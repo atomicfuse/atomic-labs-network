@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Yellow diamond ring under a spotlight with colorful jewels softly blurred
   behind it
+topics:
+  - Fashion
 ---
 ## Spectacular Gems Set to Shine at Bonhams Auction
 

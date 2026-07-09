@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Sunlit travel wellness essentials on a balcony overlooking a calm summer
   coastline
+topics:
+  - Travel
+  - Travel Tips
+  - Lifestyle
 ---
 
 Summer is the perfect time to explore new destinations and create lasting memories. However, maintaining your health while traveling during the warmer months requires some planning. By following a few simple guidelines, you can ensure a safe and enjoyable summer getaway.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   French footballer drives forward with the ball under stadium lights as
   defenders blur behind him.
+topics:
+  - Latest News
 ---
 ## France's Unexpected X-Factor
 

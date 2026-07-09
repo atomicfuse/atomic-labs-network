@@ -35,6 +35,10 @@ quality_note: >-
 image_alt: >-
   A calm dog and cat relax in a cozy, pet-safe holiday home with soft seasonal
   decor.
+topics:
+  - Pet Care & Health
+  - Animal Behavior
+  - Breed Guides
 ---
 ## Holiday Hazards for Your Furry Friends
 

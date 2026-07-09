@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Modern wealth advisory lounge overlooking an Asian financial skyline at golden
   hour
+topics:
+  - Smart Shopping
 ---
 ## Major Asian Bank Announces Unprecedented Wealth Management Expansion
 

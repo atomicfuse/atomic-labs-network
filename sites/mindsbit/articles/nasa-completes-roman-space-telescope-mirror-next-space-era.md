@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Silver space telescope mirror reflecting galaxies inside a clean aerospace
   inspection chamber
+topics:
+  - Tech
 ---
 ## NASA Achieves Major Milestone in Space Telescope Development
 

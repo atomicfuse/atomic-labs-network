@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Blank sustainable coffee bags with beans and a cup arranged in warm editorial
   lighting.
+topics:
+  - Coffee News
 ---
 
 The coffee bags market is poised for substantial growth, anticipated to reach USD 1,110.6 million by 2035. This expansion is driven by increasing coffee consumption and a growing demand for convenient packaging solutions. As lifestyles become more fast-paced, consumers are seeking products that offer both quality and convenience in their daily rituals.

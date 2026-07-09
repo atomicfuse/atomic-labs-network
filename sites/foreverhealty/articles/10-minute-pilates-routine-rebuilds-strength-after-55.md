@@ -32,6 +32,8 @@ quality_note: >-
   citations.
 reading_time: 3
 image_alt: Older woman practicing a side-lying Pilates leg lift in a bright home studio
+topics:
+  - Fitness & Movement
 ---
 ## The Rise of Equipment-Free Strength Training for Older Adults
 

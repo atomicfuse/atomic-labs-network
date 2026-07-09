@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Abstract tech command room with translucent barriers and glowing data pathways
   toward a distant horizon.
+topics:
+  - Finance
+  - Tech
 ---
 ## Understanding Strategic Foresight Challenges
 

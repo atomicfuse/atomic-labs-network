@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Grand piano under an A-shaped beam of light in a moody room with subtle
   scientific elements.
+topics:
+  - TV News
 ---
 
 The upcoming film, "The A-Frame," promises to deliver a compelling narrative that delves into the intricate weave of human emotions and scientific intrigue. The story centers around Donna, a gifted pianist whose life is irrevocably altered when she is diagnosed with a severe form of bone cancer. This diagnosis not only threatens her passion for music but also her very identity.

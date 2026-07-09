@@ -1,9 +1,11 @@
 ---
 title: Leo Woodall Calls Lord of the Rings Casting a 'Boyhood Dream'
-description: The White Lotus star Leo Woodall reveals his excitement about joining The Hunt for Gollum as new Dúnedain character Halvard in Warner Bros.' Middle-earth...
+description: >-
+  The White Lotus star Leo Woodall reveals his excitement about joining The Hunt
+  for Gollum as new Dúnedain character Halvard in Warner Bros.' Middle-earth...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +15,8 @@ tags:
   - fantasy
 slug: leo-woodall-lord-of-the-rings-casting-boyhood-dream
 reviewer_notes: Approved via review queue.
-source_url: https://deadline.com/2026/05/leo-woodall-lord-of-the-rings-casting-boyhood-dream-1236920543/
+source_url: >-
+  https://deadline.com/2026/05/leo-woodall-lord-of-the-rings-casting-boyhood-dream-1236920543/
 source_item_id: 6a151f7316f23264031d8115
 generated_by: claude
 featuredImage: /assets/images/leo-woodall-lord-of-the-rings-casting-boyhood-dream.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 25
-quality_note: The article has decent SEO structure but completely misses the site's entertainment focus on funny/viral content, appears to contain fabricated casting information, and doesn't align with the target audience or keywords.
+quality_note: >-
+  The article has decent SEO structure but completely misses the site's
+  entertainment focus on funny/viral content, appears to contain fabricated
+  casting information, and doesn't align with the target audience or keywords.
 reading_time: 3
-image_alt: Young ranger figure stands in a misty forest at dawn, suggesting a new fantasy saga role.
+image_alt: >-
+  Young ranger figure stands in a misty forest at dawn, suggesting a new fantasy
+  saga role.
+topics:
+  - Viral
 ---
 ## From The White Lotus to Middle-earth
 

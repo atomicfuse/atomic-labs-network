@@ -1,24 +1,34 @@
 ---
-title: "5,000-Year-Old Dog Found with Dagger in Sweden"
-description: "Sweden's discovery of a 5,000-year-old dog buried with a dagger reveals insights into ancient burial practices, highlighting the dog's elite status in prehistoric society and the ceremonial significance of human-animal relationships."
-type: "standard"
-status: "published"
-publishDate: "2026-01-26T09:57:26+00:00"
-author: "Taylor Winters"
+title: '5,000-Year-Old Dog Found with Dagger in Sweden'
+description: >-
+  Sweden's discovery of a 5,000-year-old dog buried with a dagger reveals
+  insights into ancient burial practices, highlighting the dog's elite status in
+  prehistoric society and the ceremonial significance of human-animal
+  relationships.
+type: standard
+status: published
+publishDate: '2026-01-26T09:57:26+00:00'
+author: Taylor Winters
 tags:
-  - "Dogs"
-slug: "5000-year-old-dog-found-with-dagger-in-sweden"
+  - Dogs
+slug: 5000-year-old-dog-found-with-dagger-in-sweden
 reading_time: 3
-source_url: "https://dogpotato.com/5000-year-old-dog-found-with-dagger-in-sweden/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/5000-year-old-dog-found-with-dagger-in-sweden/'
+imported_from: wordpress
 wp_original_id: 40157
-featuredImage: "/assets/images/5000-year-old-dog-found-with-dagger-in-sweden.webp"
+featuredImage: /assets/images/5000-year-old-dog-found-with-dagger-in-sweden.webp
 seo:
-  canonical: "https://dogpotato.com/5000-year-old-dog-found-with-dagger-in-sweden/"
-  og_title: "5,000-Year-Old Dog Found with Dagger in Sweden - Dog Potato"
-  og_description: "Sweden's discovery of a 5,000-year-old dog buried with a dagger reveals insights into ancient burial practices, highlighting the dog's elite status in prehistoric society and the ceremonial significance of human-animal relationships."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/01/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/5000-year-old-dog-found-with-dagger-in-sweden/'
+  og_title: '5,000-Year-Old Dog Found with Dagger in Sweden - Dog Potato'
+  og_description: >-
+    Sweden's discovery of a 5,000-year-old dog buried with a dagger reveals
+    insights into ancient burial practices, highlighting the dog's elite status
+    in prehistoric society and the ceremonial significance of human-animal
+    relationships.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/01/make_file-2.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Animal Behavior
 ---
 
 Sweden has recently uncovered a remarkable archaeological find, shedding light on ancient burial practices. A well-preserved dog, believed to be around 5,000 years old, was discovered buried alongside a dagger, pointing to the animal's elite status in prehistoric society.

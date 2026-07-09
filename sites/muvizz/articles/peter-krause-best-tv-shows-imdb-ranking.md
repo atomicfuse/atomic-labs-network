@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Five cinematic TV genre vignettes suggest a veteran actor’s varied career
   across drama, comedy, and mystery.
+topics:
+  - TV Shows
 ---
 ## Peter Krause's Television Legacy Gets Fresh Attention
 

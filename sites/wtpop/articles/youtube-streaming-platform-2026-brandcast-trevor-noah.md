@@ -36,6 +36,8 @@ quality_note: >-
   accuracy concerns with 2026 future dating and unverifiable claims undermine
   credibility.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## YouTube Makes Bold Play for TV Dominance
 

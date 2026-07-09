@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Abstract blockchain rails connecting tokenized financial assets on a modern
   trading desk.
+topics:
+  - Smart Shopping
 ---
 ## XRP Pivots From Payments to Financial Infrastructure
 

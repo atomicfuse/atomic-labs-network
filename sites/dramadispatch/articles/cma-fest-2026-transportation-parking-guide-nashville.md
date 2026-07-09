@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Festival crowds travel through downtown Nashville toward a stadium with
   transit and parking nearby.
+topics:
+  - Music Spotlight
 ---
 ## Getting Ready for CMA Fest 2026
 

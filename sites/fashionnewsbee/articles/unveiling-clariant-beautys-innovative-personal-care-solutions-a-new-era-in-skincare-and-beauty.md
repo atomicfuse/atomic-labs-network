@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Elegant skincare still life with botanicals, serum vessels, and soft natural
   light
+topics:
+  - Beauty
 ---
 
 Clariant Beauty, a pioneer in the personal care industry, has unveiled an array of innovative solutions tailored for personal care products. This dynamic initiative is a testament to their ongoing commitment to revolutionize the personal care sector with multifunctional and sustainable solutions.

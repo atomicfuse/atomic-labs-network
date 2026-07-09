@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Anonymous person in a futuristic wellness lab surrounded by fitness, diet,
   sleep, and medical testing tools.
+topics:
+  - Advice
+  - Fitness
+  - Lifestyle
 ---
 
 Bryan Johnson has turned personal health into a high-profile experiment, blending extreme discipline, medical testing, and anti-ageing science into a lifestyle that fascinates millions. The tech entrepreneur is best known for his ambitious Blueprint routine, a data-led programme designed to slow biological ageing and improve every measurable part of his body.

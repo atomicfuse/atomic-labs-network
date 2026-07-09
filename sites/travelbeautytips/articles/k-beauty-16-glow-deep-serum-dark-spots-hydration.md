@@ -33,6 +33,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Beauty Tips
+  - Destinations
 image_alt: >-
   Woman applying clear serum in soft light beside an unbranded frosted skincare
   bottle.

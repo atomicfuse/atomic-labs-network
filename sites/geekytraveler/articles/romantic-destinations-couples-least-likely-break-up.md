@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   A couple walks hand in hand beside a calm turquoise lake with mountains and
   rooftops in the distance.
+topics:
+  - Destination Guides
 ---
 ## The Science Behind Romance-Friendly Travel
 

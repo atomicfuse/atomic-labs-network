@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Unbranded smartwatch on a wrist with abstract pulse signals and a blood
   pressure cuff blurred in the background.
+topics:
+  - Wearables
 ---
 ## Breakthrough Technology Eliminates Need for Cuffs
 

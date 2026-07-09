@@ -41,6 +41,8 @@ reading_time: 3
 image_alt: >-
   Veteran football player stands in a stadium tunnel between celebration and
   shadow.
+topics:
+  - Latest News
 ---
 ## From Third-Round Pick to Super Bowl Champion
 

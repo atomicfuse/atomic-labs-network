@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Chic cafe table with canelés, matcha, coffee, greenery, and warm minimalist
   decor
+topics:
+  - Coffee News
 ---
 
 In the bustling heart of Orchard Road, a unique dining experience awaits visitors who are eager to explore innovative culinary delights. Nestled within the vibrant cityscape, this pop-up cafe offers a fresh take on classic dishes, making it a must-visit destination for food enthusiasts looking to indulge their taste buds.

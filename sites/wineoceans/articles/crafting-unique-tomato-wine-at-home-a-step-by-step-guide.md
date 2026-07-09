@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Heirloom tomatoes beside a glass fermenter and ruby tomato wine on a sunlit
   kitchen counter.
+topics:
+  - Wine for beginners
 ---
 ## The Art of Tomato Wine Making
 

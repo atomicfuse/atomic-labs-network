@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Abstract smartphone scene with glowing photo frames expanding into multiple
   compositions
+topics:
+  - Mobile
+  - Tablets
 ---
 ## Apple Unveils Game-Changing Photo Tools at WWDC
 

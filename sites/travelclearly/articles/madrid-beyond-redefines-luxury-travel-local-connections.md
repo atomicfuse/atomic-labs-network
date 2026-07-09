@@ -35,6 +35,11 @@ reading_time: 3
 image_alt: >-
   Travelers and local creatives share a refined rooftop dinner overlooking
   Madrid at golden hour.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 ## The Rise of Experiential Luxury Travel
 

@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Turquoise Hokkaido pond beside a quiet rural road with cherry blossoms and
   distant forested hills
+topics:
+  - Destination Guides
 ---
 ## Japan's Hidden Adventure Paradise
 

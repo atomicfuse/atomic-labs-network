@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Portable heart monitor and smartphone on a home table suggesting modern
   at-home cardiac care.
+topics:
+  - Lifestyle
 ---
 ## The Rise of At-Home Heart Monitoring
 

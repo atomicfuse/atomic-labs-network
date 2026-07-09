@@ -33,6 +33,8 @@ quality_note: >-
   range.
 reading_time: 3
 image_alt: Stylish red Swedish cottage by the coast in soft Midsummer evening light
+topics:
+  - Destination Guides
 ---
 ## Peak Season for Swedish Getaways
 

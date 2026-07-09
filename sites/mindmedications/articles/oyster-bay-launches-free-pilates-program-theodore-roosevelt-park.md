@@ -35,6 +35,8 @@ quality_note: >-
   title and meta description.
 reading_time: 3
 image_alt: Community Pilates class stretches on mats in a sunny waterfront park
+topics:
+  - Wellness
 ---
 ## Free Saturday Morning Pilates Coming to Theodore Roosevelt Park
 

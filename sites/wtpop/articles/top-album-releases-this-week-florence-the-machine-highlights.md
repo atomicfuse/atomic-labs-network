@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Moody rehearsal room with instruments and blank vinyl sleeves under colorful
   stage lighting
+topics:
+  - Music
 ---
 
 The music scene in the UK is vibrant and ever-evolving, with artists consistently pushing creative boundaries. This week, several new albums are hitting the shelves, showcasing diverse genres and unique styles from both emerging and established musicians. Fans of various music genres are in for a treat as they explore these fresh releases that promise to make an impact on the charts.

@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Golden-hour vineyards in the Jerusalem Hills with a rustic wine tasting table
   and ancient stone terraces.
+topics:
+  - Destination Guides
+  - Local Culture
 ---
 ## Israel's Premier Wine Destination Welcomes Visitors
 

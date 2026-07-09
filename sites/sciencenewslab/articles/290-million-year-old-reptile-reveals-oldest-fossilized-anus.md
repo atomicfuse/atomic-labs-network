@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Ancient reptile fossil examined with paleontology tools in a softly lit
   research lab
+topics:
+  - Nature
 ---
 
 A remarkable discovery from the depths of geological history has unveiled a fascinating glimpse into the anatomy of ancient creatures. Researchers have identified what is believed to be the oldest known fossilized cloaca, dating back approximately 290 million years. This discovery offers new insights into the evolution of reptilian anatomy and provides a unique window into the lives of these prehistoric beings.

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Two tense detectives stand on a rainy city street beside an unmarked car at
   night.
+topics:
+  - Reviews
 ---
 
 Nemesis arrives as the kind of police drama that understands exactly why viewers return to the genre. It offers pressure, personality, moral compromise and a cast built for instant authority. More importantly, it knows how to turn a familiar setup into gripping television. This is a cop show with old-school muscle, modern pace and several faces that prestige drama fans will recognise from The Wire.

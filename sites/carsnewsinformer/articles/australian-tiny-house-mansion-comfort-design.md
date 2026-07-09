@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Compact modern tiny house with open glass doors connecting a stylish interior
   to a sunny deck.
+topics:
+  - News
 ---
 ## Compact Living Redefined
 

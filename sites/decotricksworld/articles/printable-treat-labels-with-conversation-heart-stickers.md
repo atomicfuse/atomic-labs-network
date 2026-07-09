@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Pastel heart stickers, treat bags, and craft supplies arranged on a bright
   Valentine's Day table
+topics:
+  - Expert Guides
 ---
 
 Grab some heart labels and make your own conversation heart stickers in just a few minutes. You can then use these printable treat labels for all things Valentine's Day. Want more quick and easy Valentine's Day crafts? Be sure to check out even [more Valentine's Day ideas here](https://www.thecountrychiccottage.net/easy-valentines-day-crafts/).

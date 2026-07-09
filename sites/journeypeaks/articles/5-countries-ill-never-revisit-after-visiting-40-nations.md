@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Contemplative traveler pauses with a passport and map in a quiet airport
   corridor at dawn.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Travel offers incredible experiences and memories, yet not every destination leaves a lasting positive impression. Even seasoned travelers with extensive experience across the globe find some places less appealing than others. While personal preferences and experiences vary, certain destinations consistently make the list of places that some travelers choose not to revisit.

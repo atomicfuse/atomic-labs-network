@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Parent and teen discuss phone use at a kitchen table with a safety checklist
   nearby.
+topics:
+  - Parenting
 ---
 ## New Resource Aims to Bridge Parent-Teen Digital Divide
 

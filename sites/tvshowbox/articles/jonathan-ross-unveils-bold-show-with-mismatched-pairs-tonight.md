@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Charismatic game show host stands between mismatched contestant pairs on a
   dramatic neon-lit stage.
+topics:
+  - TV News
 ---
 
 Television's landscape is set to be invigorated with the arrival of a new game show that promises to captivate audiences worldwide. Hosted by the charismatic Jonathan Ross, this innovative series blends humor, strategy, and unexpected partnerships in a thrilling format. The show pairs seemingly incompatible duos and challenges them in ways that test their adaptability and wit.

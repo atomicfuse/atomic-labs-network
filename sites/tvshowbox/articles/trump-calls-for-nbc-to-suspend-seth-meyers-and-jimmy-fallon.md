@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Empty late-night studio stage with a suspended microphone under dramatic
   lights
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 In a surprising turn of events, the spotlight has turned toward late-night television amidst a recent suspension announcement involving Jimmy Kimmel. Known for his political satire and humor, Kimmel's commentary has often stirred reactions, but this latest development has ignited a new wave of discussions. The situation has also attracted attention from high-profile figures, adding another layer of intrigue to the unfolding story.

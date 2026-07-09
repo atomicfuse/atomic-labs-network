@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Moody recording studio with a vintage microphone and two blurred musicians
   behind reflective glass
+topics:
+  - Music
 ---
 
 In the ever-evolving world of music, new releases constantly push the boundaries of creativity and emotion. One such notable release is the album "Eyes of an Enemy" by Paul Ryan, featuring the captivating vocals of Olivia Thomson. This album promises to deliver an evocative musical journey, rich with intricate melodies and heartfelt performances that captivate listeners from start to finish.

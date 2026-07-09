@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Seven anonymous performers face a glowing concert crowd under dramatic purple
   stage lights
+topics:
+  - Music
 ---
 
 BTS is set to make waves in the global music scene once again with the announcement of their upcoming album release. The world-renowned K-pop group, known for their dynamic performances and meaningful lyrics, has fans eagerly anticipating new music that promises to capture hearts and top charts worldwide.

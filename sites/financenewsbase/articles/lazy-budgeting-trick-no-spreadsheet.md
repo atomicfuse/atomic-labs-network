@@ -1,9 +1,13 @@
 ---
-title: "Finally Understand Your Money: The 'Lazy' Budgeting Trick That Works (No Spreadsheet Required)"
-description: Discover a simple, effective budgeting method that sidesteps complicated spreadsheets and apps, helping you gain control of your finances and build...
+title: >-
+  Finally Understand Your Money: The 'Lazy' Budgeting Trick That Works (No
+  Spreadsheet Required)
+description: >-
+  Discover a simple, effective budgeting method that sidesteps complicated
+  spreadsheets and apps, helping you gain control of your finances and build...
 type: standard
 status: published
-publishDate: 2026-05-10
+publishDate: 2026-05-10T00:00:00.000Z
 author: Sapir Lavi
 tags:
   - personal finance tips
@@ -13,8 +17,8 @@ tags:
   - money habits
   - financial freedom
 slug: lazy-budgeting-trick-no-spreadsheet
-reviewer_notes: ""
-source_url: https://thesimpledollar.com/lazy-budgeting-methods/
+reviewer_notes: ''
+source_url: 'https://thesimpledollar.com/lazy-budgeting-methods/'
 source_item_id: 7c119ece3b1b395d797bg96b
 generated_by: claude
 featuredImage: /assets/images/lazy-budgeting-trick-no-spreadsheet.webp
@@ -25,15 +29,23 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 70
   keyword_relevance: 95
-quality_note: Well-structured article offering practical personal finance advice. The content is accessible and aligns well with the target keywords, although it presents a common budgeting strategy rather than a novel one. Length and tone are appropriate.
+quality_note: >-
+  Well-structured article offering practical personal finance advice. The
+  content is accessible and aligns well with the target keywords, although it
+  presents a common budgeting strategy rather than a novel one. Length and tone
+  are appropriate.
 reading_time: 3
 scripts:
   - id: c0034620-aada-4027-8ed0-9188458890ba
     name: ad2
     position: after-paragraph-2
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+    content: >-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js"
+      async></script>
+
       <div data-cg-ad="ad_2"></div>
+topics:
+  - Personal Finance
 ---
 
 ## Ditch the Spreadsheets: A New Approach to Money Management

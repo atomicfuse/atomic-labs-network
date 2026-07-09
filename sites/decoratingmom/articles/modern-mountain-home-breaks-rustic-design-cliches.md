@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Modern mountain living room with blue-green decor, botanical wallpaper, and
   misty forest views
+topics:
+  - Interior Design
 ---
 ## Redefining Mountain Home Style
 

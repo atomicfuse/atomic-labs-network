@@ -33,6 +33,8 @@ quality_note: >-
   on length and contains some vague claims that could be better substantiated.
 reading_time: 3
 image_alt: 'Woman resting on a wooden Pilates reformer in a warm, serene wellness studio'
+topics:
+  - Fitness & Movement
 ---
 ## The Rise of Premium Heated Fitness
 

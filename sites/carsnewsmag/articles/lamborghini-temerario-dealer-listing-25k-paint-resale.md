@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Turquoise exotic supercar in a luxury showroom with glossy reflections and
   resale-market atmosphere.
+topics:
+  - News
 ---
 ## Early Market Activity for Lamborghini's Newest Supercar
 

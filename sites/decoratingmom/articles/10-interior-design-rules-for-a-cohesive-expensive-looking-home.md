@@ -52,6 +52,9 @@ quality_note: >-
 image_alt: >-
   Polished neutral living room with curated shelves, layered textures, and
   elegant coffee table decor
+topics:
+  - Decor Ideas
+  - Interior Design
 ---
 
 Decorating your home like a pro starts with understanding the interior design basics that make a space feel intentional. In the video "10 Decorating Rules You Should Never Break," interior designer Kristen McGowan shares home decor styling tips focused on creating a beautiful, cohesive, and expensive-looking home without relying on guesswork.

@@ -37,6 +37,10 @@ reading_time: 3
 image_alt: >-
   Secluded luxury villa at dusk with glowing terrace, infinity pool, palms, and
   ocean beyond
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Rise of Private Villa Escapes
 

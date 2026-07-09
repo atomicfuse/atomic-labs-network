@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Abstract crypto exchange infrastructure stabilizing turbulent red and blue
   market waves
+topics:
+  - Smart Shopping
 ---
 ## The Hidden Truth About Crypto Exchange Failures
 

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Parent and child walk along a sunrise shoreline guided by a distant lighthouse
   beam.
+topics:
+  - Kids
 ---
 
 In today's fast-paced world, raising children can often feel like navigating through turbulent seas. Parents are constantly seeking effective strategies to guide their children safely through the challenges of modern life. One such approach gaining attention is "lighthouse parenting," a method that combines guidance with independence to help children thrive.

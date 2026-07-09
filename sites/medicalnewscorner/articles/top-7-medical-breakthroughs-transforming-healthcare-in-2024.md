@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Medical team studies a glowing digital patient model in a bright futuristic
   healthcare lab.
+topics:
+  - Research
 ---
 
 Advancements in medical science have the potential to transform lives significantly. As we look forward to 2024, several groundbreaking innovations are set to redefine healthcare. From revolutionary treatments to cutting-edge technologies, these developments promise to enhance patient care and outcomes.

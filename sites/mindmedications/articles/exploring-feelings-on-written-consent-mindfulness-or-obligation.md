@@ -50,6 +50,10 @@ quality_note: >-
 image_alt: >-
   A person pauses thoughtfully beside a blank form and pen in soft morning
   light.
+topics:
+  - Mindfulness
+  - Personal Growth
+  - Wellness
 ---
 
 Understanding the dynamics of how we make decisions is crucial in both personal and professional contexts. Recent research explores the intricate process of mindful choice, shedding light on how written consent can influence decision-making. This study offers valuable insights into the role of mindfulness in everyday choices, suggesting that the practice of mindful awareness can profoundly impact the decisions we make.

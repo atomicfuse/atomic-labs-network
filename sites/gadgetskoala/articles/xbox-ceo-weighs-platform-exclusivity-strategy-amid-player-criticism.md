@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Gaming executive studies branching holographic paths between exclusive and
   multiplatform game releases.
+topics:
+  - Gaming
 ---
 ## Xbox Faces Strategic Crossroads on Exclusivity
 

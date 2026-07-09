@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Woman in soft morning light holds her chest and neck, suggesting subtle heart
   attack warning signs.
+topics:
+  - Health News
 ---
 ## The Hidden Heart Attack Crisis
 

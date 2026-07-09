@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Unbranded injection pen beside dumbbells and healthy food on a sunlit kitchen
   counter
+topics:
+  - Drugs
 ---
 
 In recent years, GLP-1 receptor agonists like Ozempic have gained popularity for their effectiveness in weight management. These medications, originally developed for diabetes, have been noted for their ability to help users shed pounds effectively. However, concerns have emerged regarding the potential for muscle mass loss during their use. New findings suggest that the extent of muscle loss may not be as significant as previously thought, offering a more balanced perspective on these medications.

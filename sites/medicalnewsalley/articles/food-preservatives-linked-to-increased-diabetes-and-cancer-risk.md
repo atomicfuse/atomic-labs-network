@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Fresh foods in soft light contrast with blurred packaged items, suggesting
   closer scrutiny of additives.
+topics:
+  - Health News
 ---
 
 Recent research has raised concerns about the potential health impacts of certain food preservatives. These additives, commonly found in processed foods, may be linked to an increased risk of serious health conditions such as diabetes and cancer. As consumers become more health-conscious, understanding the implications of these findings is crucial.

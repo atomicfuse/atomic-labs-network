@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Footballer in a red kit pauses between a stadium pitch and a shadowed exit
   under dramatic lights.
+topics:
+  - Latest News
 ---
 
 Mohamed Salah has been a cornerstone of Liverpool's success in recent years, and his potential transfer has become a hot topic in the football world. As the transfer window approaches, fans and analysts alike are eager to see how this saga unfolds. Salah has expressed his commitment to continuing his career journey, and this has naturally sparked curiosity about his future destinations.

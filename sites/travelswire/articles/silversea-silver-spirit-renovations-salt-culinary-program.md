@@ -36,6 +36,8 @@ quality_note: >-
   requirements and uses overly formal tone for the target audience of friendly
   travel enthusiasts.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## Luxury Cruise Ship Completes Extensive Renovations
 

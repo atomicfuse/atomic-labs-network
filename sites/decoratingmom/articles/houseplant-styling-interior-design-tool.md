@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Sunlit modern living room styled with layered houseplants, warm textures, and
   sculptural planters.
+topics:
+  - Interior Design
 ---
 ## The Rise of Plants as Design Elements
 

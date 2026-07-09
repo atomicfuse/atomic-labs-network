@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Person using a portable heart monitor at home beside a smartphone with
   abstract heartbeat waves
+topics:
+  - Wellness
 ---
 ## The Rise of At-Home Heart Monitoring
 

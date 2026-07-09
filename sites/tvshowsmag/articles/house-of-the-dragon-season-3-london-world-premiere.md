@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Glamorous London red carpet at night with dragon-scale shadows and silhouetted
   formal guests
+topics:
+  - TV News
 ---
 ## HBO Celebrates Flagship Series with Star-Studded Event
 

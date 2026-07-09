@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   Sleek electric luxury sedan on a desert road at dawn with an old gas station
   fading behind it.
+topics:
+  - News
+  - Electric Cars
 ---
 ## The Question of EV Conversion
 

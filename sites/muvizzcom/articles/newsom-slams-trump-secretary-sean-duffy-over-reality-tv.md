@@ -1,24 +1,35 @@
 ---
-title: "Newsom Slams Trump Secretary Sean Duffy Over Reality TV"
-description: "Gavin Newsom criticized Sean Duffy's road trip media project as misplaced showmanship, arguing federal transportation leaders should focus on infrastructure, safety, delays, and policy results rather than promotional branding."
-type: "standard"
-status: "published"
-publishDate: "2026-05-11T08:36:54+00:00"
-author: "Taylor Winters"
+title: Newsom Slams Trump Secretary Sean Duffy Over Reality TV
+description: >-
+  Gavin Newsom criticized Sean Duffy's road trip media project as misplaced
+  showmanship, arguing federal transportation leaders should focus on
+  infrastructure, safety, delays, and policy results rather than promotional
+  branding.
+type: standard
+status: published
+publishDate: '2026-05-11T08:36:54+00:00'
+author: Taylor Winters
 tags:
-  - "News"
-slug: "newsom-slams-trump-secretary-sean-duffy-over-reality-tv"
+  - News
+slug: newsom-slams-trump-secretary-sean-duffy-over-reality-tv
 reading_time: 8
-source_url: "https://tvshowbox.com/newsom-slams-trump-secretary-sean-duffy-over-reality-tv/"
-imported_from: "wordpress"
+source_url: 'https://tvshowbox.com/newsom-slams-trump-secretary-sean-duffy-over-reality-tv/'
+imported_from: wordpress
 wp_original_id: 24108
-featuredImage: "/assets/images/newsom-slams-trump-secretary-sean-duffy-over-reality-tv.webp"
+featuredImage: /assets/images/newsom-slams-trump-secretary-sean-duffy-over-reality-tv.webp
 seo:
-  canonical: "https://tvshowbox.com/newsom-slams-trump-secretary-sean-duffy-over-reality-tv/"
-  og_title: "Newsom Slams Trump Secretary Sean Duffy Over Reality TV - TV Show Box"
-  og_description: "Gavin Newsom criticized Sean Duffy’s road trip media project as misplaced showmanship, arguing federal transportation leaders should focus on infrastructure, safety, delays, and policy results rather than promotional branding."
-  og_image: "https://tvshowbox.com/wp-content/uploads/2026/05/make_file-2.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://tvshowbox.com/newsom-slams-trump-secretary-sean-duffy-over-reality-tv/
+  og_title: Newsom Slams Trump Secretary Sean Duffy Over Reality TV - TV Show Box
+  og_description: >-
+    Gavin Newsom criticized Sean Duffy’s road trip media project as misplaced
+    showmanship, arguing federal transportation leaders should focus on
+    infrastructure, safety, delays, and policy results rather than promotional
+    branding.
+  og_image: 'https://tvshowbox.com/wp-content/uploads/2026/05/make_file-2.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Celebrity News
 ---
 
 California Governor Gavin Newsom has sharpened his criticism of U.S. Transportation Secretary Sean Duffy, turning a federal travel-themed media project into a broader fight over priorities, infrastructure, and political image-making. Newsom took aim at Duffy's promotion of "The Great American Road Trip," framing it as an unserious use of attention at a time when transportation policy faces intense pressure across the country.

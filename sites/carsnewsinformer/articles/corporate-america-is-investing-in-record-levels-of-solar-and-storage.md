@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Electric vehicle near solar panels and battery storage at a modern corporate
   campus at sunrise
+topics:
+  - News
 ---
 ## Corporate Investment Surge in Renewable Energy
 

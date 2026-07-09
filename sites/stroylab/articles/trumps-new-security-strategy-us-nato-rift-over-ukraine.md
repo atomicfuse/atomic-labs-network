@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Empty security meeting room split by shadow with an indistinct Eastern Europe
   map in the background
+topics:
+  - Deep Dives
 ---
 
 The global financial landscape is constantly evolving, and recent developments have intensified discussions around the future of digital currencies. As central banks explore the potential of digital currencies, concerns about financial autonomy and privacy have emerged. These discussions are crucial as they could redefine the way we handle money and transactions in the near future.

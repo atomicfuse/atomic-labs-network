@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Train crosses a green valley as a cruise ship and plane suggest resilient
   summer travel demand.
+topics:
+  - Destinations
+  - News
 ---
 ## Travel Resilience in Uncertain Times
 

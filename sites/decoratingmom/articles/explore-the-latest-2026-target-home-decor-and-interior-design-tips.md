@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Modern living room styled with neutral decor, greenery, woven textures, and
   warm natural light.
+topics:
+  - Decor Ideas
+  - Interior Design
 ---
 
 Shopping for home decor can be both exciting and overwhelming, especially with the plethora of options available in 2026. Renowned interior designer Kristen McGowan guides us through the latest offerings at Target, highlighting the must-see pieces from popular collections such as The Spring Threshold by Studio McGee and Chip and Joanna Gaines' Hearth & Hand.

@@ -31,6 +31,8 @@ quality_note: >-
   Strong topic relevance and tone but falls short on length and relies heavily
   on vague 'according to reports' without citing specific sources.
 reading_time: 3
+topics:
+  - Destination Guides
 ---
 ## The Rise of Pilates-Centered Travel
 

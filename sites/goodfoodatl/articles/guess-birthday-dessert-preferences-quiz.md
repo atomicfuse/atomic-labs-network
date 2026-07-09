@@ -35,6 +35,8 @@ quality_note: >-
   While the tone and topic alignment are strong, the article suffers from being
   too short at 511 words and lacks proper SEO optimization with a lengthy title
   and missing meta description length.
+topics:
+  - Food Culture
 ---
 ![Featured dessert quiz image](https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/15/thumb/kuKGr0e28.jpg?crop=1245:830;3,0&resize=1250:830)
 

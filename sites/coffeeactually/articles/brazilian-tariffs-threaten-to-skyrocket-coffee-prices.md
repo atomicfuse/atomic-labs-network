@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Coffee beans spill across a trading desk, suggesting rising global prices and
   market volatility.
+topics:
+  - Coffee News
 ---
 
 Global coffee markets are experiencing a significant shake-up as Brazil, one of the world's largest coffee producers, implements a new tariff policy. This change is set to impact coffee prices globally, sparking concerns among traders, retailers, and consumers alike. The tariff aims to protect local industries but may inadvertently drive up costs for importing countries.

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Unsigned football contract and red-white scarf on a boardroom table
   overlooking a floodlit stadium
+topics:
+  - Latest News
+  - Leagues
 ---
 ## Contract Talks Set to Resume This Summer
 

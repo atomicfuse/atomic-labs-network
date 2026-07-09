@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Glamorous women face a tense confrontation in a luxury Miami penthouse at
   dusk.
+topics:
+  - Watch
 ---
 
 The vibrant city of Miami continues to be the backdrop for dramatic twists and turns as the "Real Housewives of Miami" unfolds in its latest season. Each episode brings new revelations and engaging story arcs that keep viewers hooked. The sixth episode of Season 7 is no exception, featuring intense confrontations, unexpected alliances, and personal growth among the housewives.

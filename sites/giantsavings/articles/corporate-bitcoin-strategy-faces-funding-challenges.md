@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Gold crypto coins balanced near a falling chart on a corporate boardroom
   table.
+topics:
+  - Smart Shopping
 ---
 ## Corporate Bitcoin Accumulation Faces New Hurdles
 

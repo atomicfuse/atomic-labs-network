@@ -36,6 +36,10 @@ reading_time: 2
 image_alt: >-
   Travelers and local creatives share food and conversation in a warm Madrid
   courtyard.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Rethinking Luxury Travel Through Local Expertise
 

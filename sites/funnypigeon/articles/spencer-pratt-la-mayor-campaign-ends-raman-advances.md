@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty campaign podium beside mail-in ballots with Los Angeles City Hall
   blurred in the background.
+topics:
+  - Viral
 ---
 ## Celebrity Campaign Falls Short in L.A. Primary
 

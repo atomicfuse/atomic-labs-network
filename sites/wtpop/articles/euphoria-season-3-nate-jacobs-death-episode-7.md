@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   A moody desert scene with disturbed sand, a white tank top, snake tracks, and
   distant headlights at dusk.
+topics:
+  - TV & Movies
 ---
 ## Major Character Death Shakes Euphoria Universe
 

@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Unfinished car on an assembly line framed by steel parts and anonymous workers
   in a modern auto plant.
+topics:
+  - News
+  - Industry
 ---
 ## UAW Leadership Takes Controversial Stance on Trade Policy
 

@@ -37,6 +37,10 @@ quality_note: >-
 image_alt: >-
   A honeybee near glowing geometric constellations blending nature, mathematics,
   and deep space.
+topics:
+  - Space
+  - Nature
+  - Technology
 ---
 
 The intriguing possibility of communicating with extraterrestrial beings has always captivated scientists and enthusiasts alike. As we explore the universe's vastness, determining a universal language remains a significant challenge. Intriguingly, bees may hold the key to understanding how math could facilitate this cosmic conversation.

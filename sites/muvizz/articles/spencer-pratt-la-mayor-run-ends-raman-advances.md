@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Mail-in ballots and volunteers near Los Angeles City Hall at dusk after a
   local election shift.
+topics:
+  - Breaking News
 ---
 ## Pratt's Early Lead Evaporates in Mail-In Count
 

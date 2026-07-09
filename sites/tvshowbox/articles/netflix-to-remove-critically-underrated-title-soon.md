@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Silhouetted viewer watches a streaming library fade into pixels on a glowing
   TV.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Netflix subscribers are in for a surprise as the streaming giant is set to remove several popular films and series from its platform. This decision will affect viewers who have enjoyed spending time with these titles, urging them to catch up before they disappear into the digital void. With an ever-evolving catalog, Netflix continues to refresh its offerings, making way for new content. However, this also means saying goodbye to some well-loved favorites.

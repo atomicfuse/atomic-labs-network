@@ -37,6 +37,10 @@ reading_time: 3
 image_alt: >-
   Footballer in a blue kit stands near a stadium tunnel with unsigned papers
   blurred in the foreground.
+topics:
+  - Latest News
+  - Transfers
+  - Leagues
 ---
 ## Everton's Contract Standoff with Star Forward
 

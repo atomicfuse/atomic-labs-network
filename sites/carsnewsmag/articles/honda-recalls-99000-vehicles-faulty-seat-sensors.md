@@ -34,6 +34,8 @@ quality_note: >-
   multiple recent recalls that lack verification.
 reading_time: 3
 image_alt: Technician inspects a sedan passenger seat inside a clean auto service center
+topics:
+  - News
 ---
 ## Major Safety Recall Affects Multiple Model Years
 

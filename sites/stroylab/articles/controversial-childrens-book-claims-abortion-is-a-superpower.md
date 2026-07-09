@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   A textless children's book, crayons, and a small cape on a table as adults
   debate in the background.
+topics:
+  - Deep Dives
 ---
 
 *No matching article content was found. The body of this article does not correspond to the title "Controversial Children's Book Claims Abortion Is a Superpower" and appears to contain unrelated placeholder content about digital surveillance. The original article content could not be recovered or cleaned up without fabricating information.*

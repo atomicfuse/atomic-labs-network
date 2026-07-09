@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Modern family table with devices, coffee, kids supplies, food, and lifestyle
   objects arranged like a daily news hub.
+topics:
+  - Parenting
 ---
 ## The New Reality of Lifestyle News Consumption
 

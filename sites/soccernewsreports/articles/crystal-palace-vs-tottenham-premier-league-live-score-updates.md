@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Footballers battle for the ball under stadium floodlights during a tense
   Premier League-style match.
+topics:
+  - Latest News
+  - Leagues
+  - Match Reports
 ---
 
 In a thrilling Premier League encounter, Crystal Palace faced off against Tottenham Hotspur, showcasing the intense dynamics of English top-flight football. Both teams were eager to secure crucial points as the race for league standings heated up. This match was more than just a game; it was a display of strategic prowess and sheer determination.

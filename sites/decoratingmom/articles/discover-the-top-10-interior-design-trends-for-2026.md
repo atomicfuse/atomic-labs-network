@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Stylish modern open-plan living room and kitchen with warm textures, bold
   accents, and sculptural furniture.
+topics:
+  - Decor Ideas
+  - Interior Design
 ---
 
 As we step into 2026, the world of interior design is abuzz with exciting trends that promise to transform homes into stylish havens. Kristen McGowan, a renowned interior designer, shares her insights on the top 10 interior design and home decor trends for this year. Whether you're planning a full home makeover or looking to refresh your space, these trends offer inspiration for every room.

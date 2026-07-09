@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Stylish living room corner decorated with vintage furniture, ceramics, art,
   and warm natural light
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Embark on a journey through Nashville's vibrant thrift and antique stores with interior designer Kristen McGowan. Kristen shares her expert insights on how to find designer-inspired home decor pieces without breaking the bank. By visiting some of her favorite consignment and antique shops, Kristen reveals the secrets to transforming your home into a stylish sanctuary using budget-friendly finds.

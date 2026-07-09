@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Glowing microfluidic lab chip with red and gold cellular channels on a
   clinical research bench
+topics:
+  - Health News
 ---
 
 Hidden within our bones, marrow sustains life by producing billions of blood cells daily, from oxygen-carrying red cells to immune-boosting white cells. This vital function is often disrupted in cancer patients undergoing chemotherapy or radiation, which can damage the marrow and lead to dangerously low white cell counts, leaving patients vulnerable to infection.

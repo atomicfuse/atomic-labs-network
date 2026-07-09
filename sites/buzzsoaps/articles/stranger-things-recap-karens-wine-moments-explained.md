@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A dim 1980s kitchen with a wine glass, phone, scattered photos, and eerie
   light from a hallway.
+topics:
+  - Watch
 ---
 
 The phenomenon of "Stranger Things" continues to captivate audiences as it delves deeper into the mysteries of Hawkins, Indiana. In the latest installment of the show, the tension escalates, drawing viewers into a complex web of intrigue and supernatural occurrences surrounding the young residents of this fictional town.

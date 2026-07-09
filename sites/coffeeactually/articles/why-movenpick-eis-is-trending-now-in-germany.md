@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Premium ice cream scoops with natural ingredients on a sunlit German café
   table
+topics:
+  - Coffee News
 ---
 
 Mövenpick ice cream has taken Germany by storm, captivating both young and old with its premium quality and diverse flavors. This Swiss brand, known for its rich and creamy texture, is making waves in the German market, becoming a topic of discussion among ice cream enthusiasts and food critics alike.

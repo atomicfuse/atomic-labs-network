@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Stylish minimalist apartment living room with plants, warm light, and
   multifunctional furniture
+topics:
+  - Decor Ideas
 ---
 
 Transforming your living space into a sanctuary of style and comfort is an exciting journey. Whether you're revamping a room or starting from scratch, understanding the latest trends and timeless design principles can significantly enhance your home environment. From choosing the right colors to arranging furniture for optimal functionality, every decision influences the overall ambiance.

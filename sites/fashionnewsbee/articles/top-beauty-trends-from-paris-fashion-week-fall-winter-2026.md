@@ -35,6 +35,9 @@ seo:
 image_alt: >-
   Editorial beauty portrait with glossy skin, bold eye color, and natural
   textured hair in soft Parisian light.
+topics:
+  - Fashion
+  - Beauty
 ---
 
 Paris Fashion Week is a pivotal event in the fashion calendar, consistently setting the stage for upcoming beauty trends. As the Fall/Winter 2026 season unfolded, the runways became a canvas for innovative makeup and hair trends that push the boundaries of creativity.

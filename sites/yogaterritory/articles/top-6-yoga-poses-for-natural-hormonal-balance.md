@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A woman practices yoga in a sunlit studio with soft golden light and calming
   natural decor.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is more than just a physical practice; it also plays a crucial role in balancing hormones naturally. Many people struggle with hormonal imbalances, leading to various health issues, but yoga offers an accessible and effective solution. By incorporating specific yoga poses into your routine, you can promote hormonal harmony and improve overall well-being.

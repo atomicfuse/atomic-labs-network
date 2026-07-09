@@ -42,6 +42,8 @@ quality_note: >-
   Well-written pregnancy guide with excellent keyword relevance and tone, but
   significantly below target word count which severely impacts overall value.
 image_alt: Expectant mother in a softly lit nursery preparing for a baby's arrival
+topics:
+  - Pregnancy
 ---
 
 Pregnancy marks an exciting and transformative period in a woman's life, brimming with anticipation and myriad changes. From the moment one learns of the pregnancy, through each trimester, and eventually to the baby's arrival, there are countless aspects to consider and prepare for. Understanding each stage and what it entails can help expectant parents navigate this journey with confidence and peace of mind.

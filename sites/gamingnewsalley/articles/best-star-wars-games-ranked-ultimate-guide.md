@@ -38,6 +38,10 @@ reading_time: 3
 image_alt: >-
   Game controller before holographic star maps and starfighters in a cinematic
   space battle setting
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## Star Wars Gaming Legacy Continues to Captivate Players
 

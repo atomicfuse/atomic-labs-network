@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Anonymous actor in a backstage makeup mirror surrounded by prosthetics and
   wigs
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## The Art of Celebrity Transformation
 

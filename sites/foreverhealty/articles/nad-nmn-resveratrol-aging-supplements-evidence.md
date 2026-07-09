@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Translucent capsules on a clean lab surface with a magnifying lens and soft
   green background.
+topics:
+  - Healthy Aging
+  - Nutrition & Diet
 ---
 ## The Longevity Supplement Boom
 

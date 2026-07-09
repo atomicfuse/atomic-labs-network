@@ -1,9 +1,13 @@
 ---
-title: "David Dhawan, 74, Embraces Yoga: A Lesson in Humility"
-description: Yoga combines physical postures, breathing exercises, and mindfulness to boost well-being, offering benefits like enhanced flexibility and reduced stress. Practicing at home is convenient and can profoundly impact health and quality of life for all levels.
+title: 'David Dhawan, 74, Embraces Yoga: A Lesson in Humility'
+description: >-
+  Yoga combines physical postures, breathing exercises, and mindfulness to boost
+  well-being, offering benefits like enhanced flexibility and reduced stress.
+  Practicing at home is convenient and can profoundly impact health and quality
+  of life for all levels.
 type: standard
 status: published
-publishDate: 2026-02-09T09:49:32+00:00
+publishDate: 2026-02-09T09:49:32.000Z
 author: Taylor Winters
 tags:
   - Yoga Poses
@@ -12,15 +16,20 @@ tags:
   - Yoga Postures
 slug: david-dhawan-74-embraces-yoga-a-lesson-in-humility
 reading_time: 4
-source_url: https://yogaterritory.com/david-dhawan-74-embraces-yoga-a-lesson-in-humility/
+source_url: 'https://yogaterritory.com/david-dhawan-74-embraces-yoga-a-lesson-in-humility/'
 imported_from: wordpress
 wp_original_id: 20726
 featuredImage: /assets/images/david-dhawan-74-embraces-yoga-a-lesson-in-humility.webp
 seo:
-  canonical: https://yogaterritory.com/david-dhawan-74-embraces-yoga-a-lesson-in-humility/
-  og_title: "David Dhawan, 74, Embraces Yoga: A Lesson in Humility - Yoga Territory"
-  og_description: Yoga combines physical postures, breathing exercises, and mindfulness to boost well-being, offering benefits like enhanced flexibility and reduced stress. Practicing at home is convenient and can profoundly impact health and quality of life for all levels.
-  og_image: http://yogaterritory.com/wp-content/uploads/2026/02/make_file-3.jpeg
+  canonical: >-
+    https://yogaterritory.com/david-dhawan-74-embraces-yoga-a-lesson-in-humility/
+  og_title: 'David Dhawan, 74, Embraces Yoga: A Lesson in Humility - Yoga Territory'
+  og_description: >-
+    Yoga combines physical postures, breathing exercises, and mindfulness to
+    boost well-being, offering benefits like enhanced flexibility and reduced
+    stress. Practicing at home is convenient and can profoundly impact health
+    and quality of life for all levels.
+  og_image: 'http://yogaterritory.com/wp-content/uploads/2026/02/make_file-3.jpeg'
   twitter_card: summary_large_image
 quality_score: 70
 score_breakdown:
@@ -29,9 +38,14 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 85
   keyword_relevance: 80
-quality_note: The article covers relevant yoga topics with good tone but has a misleading title about David Dhawan that doesn't match the content, weak meta description, and falls short of target word count.
+quality_note: >-
+  The article covers relevant yoga topics with good tone but has a misleading
+  title about David Dhawan that doesn't match the content, weak meta
+  description, and falls short of target word count.
 image_alt: Older man practicing gentle yoga at home in warm morning light
 reviewer_notes: Approved via review queue.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is a time-tested practice that combines physical postures, breathing exercises, and mindfulness to promote overall well-being. Its popularity has surged worldwide as people seek holistic approaches to health and fitness. Practicing yoga stretches at home offers numerous benefits, including enhanced flexibility, reduced stress, and improved mental clarity. Whether you're a beginner or an experienced yogi, incorporating yoga into your daily routine can profoundly impact your health and quality of life.

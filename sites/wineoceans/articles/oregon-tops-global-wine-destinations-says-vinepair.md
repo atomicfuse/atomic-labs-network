@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Golden-hour Oregon vineyard with wine glasses overlooking misty evergreen
   hills
+topics:
+  - Wine news
 ---
 ## Oregon Earns Top Recognition in Wine Tourism
 

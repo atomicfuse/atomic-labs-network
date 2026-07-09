@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Person practicing a gentle yoga twist in a calm sunlit room with plants and
   natural decor.
+topics:
+  - Yoga Poses
 ---
 
 Constipation is a common digestive problem affecting many individuals worldwide. Often resulting from poor dietary habits, stress, or a sedentary lifestyle, constipation can be both uncomfortable and frustrating. Fortunately, yoga offers an effective, natural remedy to alleviate this condition. Through specific yoga poses, you can enhance your digestive system, promote regular bowel movements, and improve overall gut health.

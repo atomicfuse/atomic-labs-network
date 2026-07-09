@@ -35,6 +35,8 @@ quality_note: >-
 image_alt: >-
   Beginner home winemaking tools and grapes arranged on a warm rustic kitchen
   table
+topics:
+  - Wine for beginners
 ---
 ## Getting Started with Home Wine Making
 

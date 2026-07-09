@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Five silhouetted pop performers on a neon-lit concert stage with confetti and
   sweeping tour-like light trails.
+topics:
+  - Music
 ---
 
 K-pop fans have reason to celebrate as ILLIT is gearing up for a significant milestone. The group is set to release their highly anticipated new album on April 30. This release marks an exciting chapter in their musical journey, promising fresh sounds and captivating performances that are sure to delight their global fanbase.

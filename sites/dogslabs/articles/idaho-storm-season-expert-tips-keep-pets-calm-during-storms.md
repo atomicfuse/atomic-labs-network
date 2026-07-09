@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Calm dog and cat resting indoors during a thunderstorm with comforting
   pet-care items nearby.
+topics:
+  - Animal Behavior
 ---
 ## Understanding Why Storms Terrorize Our Pets
 

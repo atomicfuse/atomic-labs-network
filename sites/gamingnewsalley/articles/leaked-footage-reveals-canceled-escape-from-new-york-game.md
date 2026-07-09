@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A dusty CRT monitor glows with grainy stealth-game footage in a dark archive
   room.
+topics:
+  - Gaming News
 ---
 
 In a surprising turn of events, previously unseen footage of a canceled video game adaptation of the cult classic film "Escape from New York" has emerged online, sparking interest and curiosity among fans and gamers alike. This revelation allows a glimpse into what could have been a fascinating addition to the gaming world, centered around the iconic character Snake Plissken, originally portrayed by Kurt Russell in the 1981 film.

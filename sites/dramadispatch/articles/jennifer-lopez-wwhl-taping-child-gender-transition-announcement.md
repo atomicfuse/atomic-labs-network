@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Celebrities
+  - Celebrity Culture
 image_alt: >-
   Radiant celebrity woman smiling in sunglasses as she exits a dark studio
   entrance.

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Three refined low-alcohol cocktails on a marble bar with citrus garnishes and
   warm ambient lighting.
+topics:
+  - Wine news
 ---
 ## The Rise of Low ABV Cocktails
 

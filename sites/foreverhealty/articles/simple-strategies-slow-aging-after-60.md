@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Active older adult climbs sunlit stairs with a water bottle and fresh greens
   nearby.
+topics:
+  - Healthy Aging
+  - Mind & Body Wellness
 ---
 ## The Reality of Aging After 60
 

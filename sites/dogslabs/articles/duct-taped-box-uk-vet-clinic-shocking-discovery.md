@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Good To Know
+  - Animal Behavior
 image_alt: >-
   Taped planter box outside a vet clinic with a rescue worker and open cat
   carrier nearby.

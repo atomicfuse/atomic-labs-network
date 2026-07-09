@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   A modern desk with investment tools suggesting portfolio review and strategic
   financial decision-making.
+topics:
+  - Saving Tips
+  - Grocery Savings
 ---
 
 In the ever-changing world of stock market investing, making the right decisions can be both thrilling and challenging. As an investor, there comes a time when you need to evaluate your portfolio and make tough choices. Recently, I made the decision to sell my #1 stock, a move that was not taken lightly but was necessary for various reasons.

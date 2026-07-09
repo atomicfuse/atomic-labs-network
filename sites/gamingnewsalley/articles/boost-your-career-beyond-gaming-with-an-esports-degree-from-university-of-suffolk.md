@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Esports student between a glowing gaming arena and a modern career strategy
   lab
+topics:
+  - Gaming News
 ---
 
 From the perspective of a blockchain enthusiast, it's an exciting time to be alive. The world of blockchain and cryptocurrency is witnessing a seismic shift, courtesy of the Ethereum platform. But what exactly is Ethereum and why is it making such waves in the blockchain community?

@@ -33,6 +33,9 @@ quality_note: >-
   study claims and falls short of target word count.
 reading_time: 3
 image_alt: Calm meditator surrounded by soft neural wave patterns in warm morning light
+topics:
+  - Mindfulness
+  - Wellness
 ---
 ## The Two-Minute Breakthrough
 

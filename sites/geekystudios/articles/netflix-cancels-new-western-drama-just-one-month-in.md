@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Empty Western film set at dusk with a cowboy hat on a director’s chair and a
   faint red screen glow.
+topics:
+  - Pop Culture
 ---
 
 Netflix has been a powerhouse in the streaming world, known for its vast library of content and original series that captivate global audiences. However, not every show finds its forever home on the platform. In recent times, Netflix has made headlines by canceling several of its original series, sparking discussions about its strategy and the future of streaming content.

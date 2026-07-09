@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Government facade with abstract crypto network behind evidence glass, evoking
   a major fraud crackdown.
+topics:
+  - Smart Shopping
 ---
 ## Record-Breaking Cryptocurrency Seizure Targets Massive Fraud Network
 

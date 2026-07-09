@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A gently bandaged forearm in soft clinical light with abstract cellular
   healing patterns nearby.
+topics:
+  - Health News
 ---
 
 In the rapidly evolving world of healthcare, bioscience is a frontier driving significant advancements. Among the key areas of focus is wound healing, a crucial process essential for patient recovery and well-being. Researchers and companies are exploring innovative treatments to enhance healing, reduce recovery times, and improve patient outcomes.

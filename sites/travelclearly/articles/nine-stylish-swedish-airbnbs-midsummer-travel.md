@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Stylish red Swedish cottage surrounded by wildflowers and summer light near a
   quiet waterfront
+topics:
+  - Travel
+  - Destinations
 ---
 ## Swedish Summer Accommodations for Every Travel Style
 

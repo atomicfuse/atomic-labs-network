@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Amazigh women sort rose petals together in a sunlit Moroccan cooperative
   courtyard.
+topics:
+  - Economic Trends
 ---
 ## Traditional Labor Meets Modern Market Dynamics
 

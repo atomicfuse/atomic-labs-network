@@ -1,6 +1,9 @@
 ---
 title: The Grand Canyon Isn't on Route 66 — But You Should Detour Anyway
-description: Route 66 skirts the Grand Canyon by 60 miles, but every Route 66 traveler takes the detour. Here's how to do the South Rim right without losing your trip.
+description: >-
+  Route 66 skirts the Grand Canyon by 60 miles, but every Route 66 traveler
+  takes the detour. Here's how to do the South Rim right without losing your
+  trip.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -16,17 +19,26 @@ slug: grand-canyon-detour-route-66
 reading_time: 7
 featuredImage: /assets/images/grand-canyon-detour-route-66.webp
 seo:
-  og_title: "The Grand Canyon Detour From Route 66: A Complete Guide"
-  og_description: Why the 60-mile detour to the Grand Canyon South Rim is worth a half-day off Route 66 — and how to do it efficiently.
+  og_title: 'The Grand Canyon Detour From Route 66: A Complete Guide'
+  og_description: >-
+    Why the 60-mile detour to the Grand Canyon South Rim is worth a half-day off
+    Route 66 — and how to do it efficiently.
   twitter_card: summary_large_image
-image_alt: A road-trip car faces a winding desert highway leading toward the Grand Canyon at golden hour.
+image_alt: >-
+  A road-trip car faces a winding desert highway leading toward the Grand Canyon
+  at golden hour.
 scripts:
   - id: b3ef2bdf-9fb8-4e3d-903a-a1cc914a0dfd
     name: travelswire2
     position: after-paragraph-1
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="travelswire2"></div>
+topics:
+  - Travel Tips
 ---
 
 Technically, Route 66 doesn't go to the Grand Canyon.

@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Unbranded medicine vial and molecular form in a softly lit clinical lab
   setting
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 The much anticipated cholesterol blockage control drug Muvalaplin reduces lipoprotein (a) by up to 85% within twelve weeks. Last June we reported that Muvalaplin researchers had published encouraging phase I clinical trial results. This January, Victorian Heart Institute scientists led by John H. Krege, MD announced in a *JAMA* research article that the drug has passed the next hurdle on its way to the pharmacy. You can find background information about the drug and lipoprotein (a) [here](https://medicalnewsbulletin.com/new-drug-drops-bad-cholesterol-by-65/).

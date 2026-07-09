@@ -41,6 +41,8 @@ quality_note: >-
   Well-written article with good tone and structure but significantly under
   target word count at 551 words, impacting overall content value.
 image_alt: Unimpressed viewer facing a bright television glow in a moody living room
+topics:
+  - TV News
 ---
 
 In the world of television, some shows capture the spotlight and generate immense buzz, often being labeled as must-see TV. However, not all of these hyped series live up to the expectations set by their fervent fan bases. What makes a show overhyped, and why do certain series fail to resonate with everyone?

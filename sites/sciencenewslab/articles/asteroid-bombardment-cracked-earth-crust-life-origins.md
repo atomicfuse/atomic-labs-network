@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Early Earth with glowing impact fractures and steam rising from cracked
   volcanic crust
+topics:
+  - Space
 ---
 ## When Destruction Created Life's Pathway
 

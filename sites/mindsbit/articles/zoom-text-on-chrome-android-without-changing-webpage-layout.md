@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Smartphone browser layout with magnified content highlighting improved
   readability and accessibility.
+topics:
+  - Tech
 ---
 
 In a significant stride towards enhancing digital accessibility, Google has introduced a notable update to its Chrome browser on Android. This update brings a new feature that allows users to zoom in on any web page, regardless of the site's settings. This enhancement is particularly beneficial for those with visual impairments, offering them greater control over webpage readability.

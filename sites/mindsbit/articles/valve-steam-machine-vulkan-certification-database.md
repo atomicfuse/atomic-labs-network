@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Matte black gaming PC on a desk with abstract teal certification-style
   graphics glowing nearby.
+topics:
+  - Tech
 ---
 ## Steam Machine Development Continues Despite Delays
 

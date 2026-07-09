@@ -50,6 +50,8 @@ quality_note: >-
   significantly too short and contains vague, potentially fabricated claims
   without specific match details or verification.
 image_alt: Football team celebrates near an empty manager’s seat under stadium lights
+topics:
+  - Latest News
 ---
 
 In the realm of football, Newcastle United is maintaining their winning streak, undeterred by the absence of their manager, Eddie Howe. The team's resilience and determination are evident in their recent performance on the pitch.

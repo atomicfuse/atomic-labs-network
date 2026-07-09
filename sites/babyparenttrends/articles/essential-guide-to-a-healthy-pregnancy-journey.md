@@ -41,6 +41,8 @@ quality_note: >-
   but falls short on length requirements and could benefit from stronger SEO
   optimization in the title and meta description.
 image_alt: Pregnant person resting by a sunny window with fruit and a journal nearby
+topics:
+  - Pregnancy
 ---
 
 Embarking on the journey of pregnancy is a unique and transformative experience filled with anticipation and excitement. Every stage of pregnancy brings new developments and considerations, offering prospective parents a chance to learn and prepare for the arrival of their child. Understanding what to expect and how to navigate these changes can help ensure a healthy and fulfilling pregnancy.

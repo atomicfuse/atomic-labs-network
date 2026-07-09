@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Scientists in a modern lab study glowing biomedical data symbolizing
   Pennsylvania medical innovation.
+topics:
+  - Research
 ---
 
 Pennsylvania has long been a cornerstone of medical innovation, playing a crucial role in advancing healthcare through groundbreaking research and technology. Recently, a significant visit by leaders from the National Institutes of Health (NIH) to institutions in Pennsylvania underscored the state's contributions and collaborations in the medical field. This visit highlighted the ongoing efforts and future potential for medical breakthroughs that can improve lives globally.

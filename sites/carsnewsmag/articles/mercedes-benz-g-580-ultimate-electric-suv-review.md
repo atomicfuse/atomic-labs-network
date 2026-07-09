@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Luxury electric off-road SUV on a rocky ridge at sunrise with subtle blue
   lighting.
+topics:
+  - Electric Cars
 ---
 
 The Mercedes-Benz G-Class has long been a symbol of rugged elegance and high performance. Now, with the introduction of the Mercedes-Benz G 580, the brand takes a bold step into the electric vehicle (EV) market while maintaining the G-Class's iconic design and off-road capabilities. This article explores the features, performance, and design of the Mercedes-Benz G 580, highlighting how it blends tradition with innovation.

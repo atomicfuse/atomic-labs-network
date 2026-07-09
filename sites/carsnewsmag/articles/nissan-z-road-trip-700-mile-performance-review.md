@@ -41,6 +41,10 @@ quality_note: >-
   contains fabricated information about a non-existent 2026 Nissan Z Heritage
   Edition model.
 image_alt: Orange heritage-style sports coupe cruising a desert highway at golden hour
+topics:
+  - News
+  - Reviews
+  - Industry
 ---
 
 The automotive world is buzzing with the arrival of the 2026 Nissan Z Heritage Edition. This modern sports car, adorned with nostalgic elements, is turning heads and reigniting passions among car enthusiasts. With a perfect blend of vintage charm and cutting-edge technology, it offers a unique driving experience that pays homage to its iconic predecessors.

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   A shadowy talent agency conference room with a lone screenplay on the table
   and one chair pulled away.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 A significant legal decision has emerged in the entertainment industry, as a judge ruled that Creative Artists Agency (CAA) did not engage in illicit activity concerning allegations of intellectual property theft. The case revolved around accusations made by John Musero, who claimed that CAA had unfairly capitalized on his creative work without proper authorization. The resolution of this case sheds light on the complexities of intellectual property rights within the high-stakes world of talent representation.

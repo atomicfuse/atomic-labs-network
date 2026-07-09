@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Golden sunrise over Bali rice terraces, cliffs, ocean, and distant volcano
   with a lone traveler.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 I'm thrilled to share with you some of the most captivating destinations in Bali that should be on your travel bucket list for 2025. Known for its stunning landscapes and vibrant culture, Bali offers an array of experiences that entice every traveler. Whether you're an adventure enthusiast or someone seeking tranquility, Bali has something for everyone.

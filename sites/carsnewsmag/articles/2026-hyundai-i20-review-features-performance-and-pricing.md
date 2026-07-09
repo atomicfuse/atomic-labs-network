@@ -43,6 +43,8 @@ quality_note: >-
   significantly under target word count at 494 words versus the 800-1200 target
   range.
 image_alt: Modern compact hatchback on a clean urban street at golden hour
+topics:
+  - Reviews
 ---
 
 The Hyundai i20 stands out in the competitive world of small hatchbacks, offering a blend of style, practicality, and technology. This compact car has been a favorite for those seeking an efficient yet dynamic driving experience. Let's explore what makes the Hyundai i20 a compelling choice for urban drivers and enthusiasts alike.

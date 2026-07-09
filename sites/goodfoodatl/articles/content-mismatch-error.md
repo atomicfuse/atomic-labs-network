@@ -29,6 +29,11 @@ score_breakdown:
 quality_note: >-
   This is a content mismatch notice rather than a proper article, with extremely
   low word count and no meaningful SEO optimization or food-related content.
+topics:
+  - Food Culture
+  - Recipes & Cooking
+  - Restaurant Reviews
+  - Nutrition Tips
 ---
 # Content Mismatch Notice
 

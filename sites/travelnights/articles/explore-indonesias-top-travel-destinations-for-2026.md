@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Traveler overlooking Indonesian islands, jungle, temples, volcanoes, and
   turquoise sea at golden hour
+topics:
+  - Destinations
 ---
 
 Indonesia, a land rich in cultural diversity and natural beauty, is set to captivate travelers with its stunning arrays of destinations by 2026. The Ministry of Tourism has unveiled a list of top destinations that promise to offer unique experiences blending adventure, relaxation, and cultural enrichment. From pristine beaches to vibrant cities and lush jungles, Indonesia's travel spots are poised to become even more alluring.

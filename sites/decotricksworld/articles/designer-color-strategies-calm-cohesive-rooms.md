@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Calm living room with warm neutrals, terracotta accents, sage decor, and
   curated paint materials
+topics:
+  - Tips & Advice
 ---
 ## The Power of Strategic Color Choices
 

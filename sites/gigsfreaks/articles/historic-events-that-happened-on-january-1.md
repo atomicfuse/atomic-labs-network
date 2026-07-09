@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Historic desk scene blending parchment, quill, and modern light trails to
   symbolize events across time.
+topics:
+  - Hot Trends
 ---
 
 January 1st marks not only the beginning of a new year but also a day rich with historical significance and cultural milestones. Across the globe, this date has witnessed events that have shaped history, from technological advancements to significant births and landmark achievements. As we step into a new year, let's delve into the remarkable events that have occurred on this day throughout history.

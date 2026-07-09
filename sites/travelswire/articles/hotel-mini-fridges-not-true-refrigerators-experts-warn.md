@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Open hotel mini fridge with travel food and medicine items suggesting a hidden
   cooling safety concern.
+topics:
+  - Travel Tips
 ---
 ## The Hidden Hotel Room Hazard
 

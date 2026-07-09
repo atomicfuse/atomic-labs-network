@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Basket of eggs on a quiet market counter with empty crates and a blurred hen
   in the background
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 The current consumer outcries regarding [the price of eggs](https://www.sofi.com/learn/content/average-cost-of-a-dozen-eggs/), on average Grade A large for $4.15 a dozen, is warranted. Last year at this time the same eggs cost $2.52 a dozen — that is a 36.8% increase. To understand the economics of eggs, you must acknowledge that the chicken comes first.

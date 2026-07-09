@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Young adult at branching life paths with subtle skin-texture motif suggesting
   eczema’s long-term impact.
+topics:
+  - Health News
+  - Conditions
 ---
 ## Beyond the Skin: Eczema's Lasting Life Impact
 

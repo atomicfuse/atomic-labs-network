@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Shadowy political campaign room with torn placards, scattered papers, and
   figures arguing after a defeat.
+topics:
+  - Internet Mysteries
 ---
 ## Far-Right Faces Internal Chaos After Electoral Setback
 

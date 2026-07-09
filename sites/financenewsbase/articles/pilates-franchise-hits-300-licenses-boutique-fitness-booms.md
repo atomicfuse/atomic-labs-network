@@ -37,6 +37,8 @@ quality_note: >-
   optimization with a fitness-focused title that doesn't align with the finance
   audience.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 ## Franchise Milestone Signals Industry Momentum
 

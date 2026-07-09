@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Red and blue police light trails streak through a tense Los Angeles
   intersection at night.
+topics:
+  - News
 ---
 
 In a gripping turn of events, the streets of Los Angeles became the scene of a high-speed police chase involving a possibly armed kidnapping suspect. This dramatic pursuit highlights the tensions and dangers faced by law enforcement as they work to apprehend suspects while minimizing risks to the public.

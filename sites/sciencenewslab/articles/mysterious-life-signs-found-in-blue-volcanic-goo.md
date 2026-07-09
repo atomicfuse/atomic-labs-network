@@ -38,6 +38,10 @@ quality_note: >-
 image_alt: >-
   Blue volcanic ooze glows in dark cracked rock beneath a Mars-like twilight
   sky.
+topics:
+  - Space
+  - Nature
+  - Environment
 ---
 
 In a groundbreaking discovery, scientists have uncovered intriguing signs of life within an unusual blue volcanic substance. This peculiar find has sparked curiosity and excitement in the scientific community, as it could offer new insights into extremophiles—organisms thriving in inhospitable environments. The vibrant blue hue of this volcanic material, along with its potential to harbor life, raises questions about the adaptability of life forms under extreme conditions.

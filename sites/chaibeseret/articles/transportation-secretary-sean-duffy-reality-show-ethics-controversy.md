@@ -35,6 +35,8 @@ quality_note: >-
   including fabricated statistics and is significantly under the target word
   count.
 reading_time: 2
+topics:
+  - breaking news
 ---
 ## Reality TV Meets Government Ethics
 

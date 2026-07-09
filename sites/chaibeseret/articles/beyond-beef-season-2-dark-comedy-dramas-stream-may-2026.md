@@ -35,6 +35,9 @@ quality_note: >-
   exist, May 2026 is future), is too short at 618 words, and fails to deliver on
   its core promise of listing six specific shows.
 reading_time: 3
+topics:
+  - tv shows
+  - spoilers
 ---
 ## The Perfect Time for Dark Comedy Alternatives
 

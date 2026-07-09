@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Viewer choosing one inviting screen among many blurred TV options in a moody
   living room
+topics:
+  - TV News
 ---
 
 In today's fast-paced world, entertainment options abound, offering endless choices for television series. However, not all shows merit our precious time. As viewers, the ability to discern and prioritize quality content is crucial, ensuring that our leisure hours are spent wisely and enjoyably.

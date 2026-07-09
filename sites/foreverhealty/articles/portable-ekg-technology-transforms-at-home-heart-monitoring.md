@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Portable heart-monitoring device and smartphone on a bedside table in soft
   morning light
+topics:
+  - Healthy Living Tips
 ---
 ## The Rise of At-Home Heart Monitoring
 

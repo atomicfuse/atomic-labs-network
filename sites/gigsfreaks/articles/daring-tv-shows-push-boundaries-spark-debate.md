@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Dark TV studio with glowing screens, an empty chair, and a red boundary line
   under dramatic lighting.
+topics:
+  - Hot Trends
 ---
 ## When Television Refuses to Apologize
 

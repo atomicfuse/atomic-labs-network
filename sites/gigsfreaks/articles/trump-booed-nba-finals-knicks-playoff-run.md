@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Packed basketball arena crowd reacts to a suited political figure on the
   overhead screen.
+topics:
+  - Hot Trends
 ---
 ## A Historic Night Takes an Unexpected Turn
 

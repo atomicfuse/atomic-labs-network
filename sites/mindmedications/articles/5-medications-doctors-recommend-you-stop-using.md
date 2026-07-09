@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Doctor and patient review medications together in a calm, sunlit consultation
   room.
+topics:
+  - Wellness
 ---
 
 Pharmaceuticals play a crucial role in modern healthcare, providing relief and treatment for countless conditions. However, it's essential to use these medications wisely to ensure safety and effectiveness.

@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Actor silhouette leaves a dim casting room with an empty chair and scattered
   headshots.
+topics:
+  - Celebrities
 ---
 
 No article content was available to clean up. The body of this article contained only a placeholder message requesting source text, rather than actual article content about Jack Quaid denying Fantastic Four casting rumors.

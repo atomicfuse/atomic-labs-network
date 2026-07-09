@@ -36,6 +36,8 @@ quality_note: >-
   underweight at 248 words and contains vague, unsupported claims about industry
   expert Todd Cirella without concrete evidence.
 image_alt: Winemaker inspecting oak and red wine in a warmly lit barrel room
+topics:
+  - Wine news
 ---
 ## Expert Perspectives on Barrel Optimization
 

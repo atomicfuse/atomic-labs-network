@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Young seedling under sunlight with a subtle molecular halo suggesting DNA
   protection.
+topics:
+  - Nature
 ---
 ## Plants Face a Daily DNA Crisis
 

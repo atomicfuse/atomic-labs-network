@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Hikers pause on a mountain overlook above a lake, forest valley, and winding
   trail at golden hour.
+topics:
+  - Adventure Activities
 ---
 ## A Timely Guide for Outdoor Enthusiasts
 

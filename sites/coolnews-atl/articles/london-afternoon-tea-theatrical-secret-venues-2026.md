@@ -33,6 +33,8 @@ quality_note: >-
   Well-written article with professional tone but significantly under target
   length and lacks specific factual details that would strengthen credibility.
 reading_time: 3
+topics:
+  - Local Stories
 ---
 ## London's Afternoon Tea Revolution
 

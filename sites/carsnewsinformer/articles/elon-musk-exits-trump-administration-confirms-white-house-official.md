@@ -36,6 +36,8 @@ quality_note: >-
   Musk's government role, and falls far short of the target word count at only
   271 words.
 image_alt: Unbranded electric car outside a government building at dusk with an open door
+topics:
+  - News
 ---
 ## White House Confirms Musk's Departure
 

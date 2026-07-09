@@ -33,6 +33,8 @@ reading_time: 2
 image_alt: >-
   Colorful renter-friendly living room with neutral walls, layered textiles,
   art, plants, and decor accents.
+topics:
+  - Expert Guides
 ---
 ## The Rise of Paint-Free Color Solutions
 

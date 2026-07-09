@@ -37,6 +37,10 @@ quality_note: >-
 image_alt: >-
   Antarctic ice under a star-filled sky with subtle glowing particles suggesting
   cosmic stardust
+topics:
+  - Space
+  - Physics
+  - Environment
 ---
 
 Antarctic ice is one of Earth's most powerful natural archives, and new research shows it can preserve evidence from far beyond our planet. Tiny traces of radioactive stardust locked inside polar snow and ice are helping scientists understand how Earth moves through the galaxy, including its passage through clouds of ancient material shaped by long-dead stars.

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Glowing television lights a snowy mountain town scene with empty winter parkas
   on a fence.
+topics:
+  - TV News
 ---
 
 "South Park" has become a cultural cornerstone, entertaining audiences with its irreverent humor and sharp social commentary. Since its debut over two decades ago, this animated series has managed to maintain an impressive level of popularity, demonstrating resilience in the ever-evolving landscape of television entertainment. The show's unique ability to tackle contemporary issues with wit has been a significant factor in its enduring success.

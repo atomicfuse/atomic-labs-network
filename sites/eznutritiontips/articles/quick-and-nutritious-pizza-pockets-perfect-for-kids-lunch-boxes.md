@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Healthy homemade pizza pockets packed with fruit and veggies in a kids’ lunch
   box.
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Are you constantly searching for quick and healthy meals that your kids will love? Look no further! These healthy pizza pockets can be prepared in just 10 minutes, making them the perfect addition to your kids' lunch boxes or a quick breakfast option.

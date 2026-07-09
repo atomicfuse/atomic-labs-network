@@ -38,6 +38,8 @@ quality_note: >-
   from poor SEO optimization, very short length at 399 words, and potential
   inaccuracy regarding the album title which doesn't appear to exist.
 image_alt: Weathered acoustic guitar on an empty dusky stage under a lone warm spotlight
+topics:
+  - Music
 ---
 
 ## An Overview of Zach Bryan's Musical Style

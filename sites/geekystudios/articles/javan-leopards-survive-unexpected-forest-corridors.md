@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Javan leopard moving through a misty regenerating forest corridor near distant
   human development.
+topics:
+  - Tech
 ---
 ## A Conservation Success Story Against All Odds
 

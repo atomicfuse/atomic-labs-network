@@ -33,6 +33,8 @@ quality_note: >-
   for travel enthusiasts.
 reading_time: 2
 image_alt: Red SUV packed for a scenic American road trip at a sunny highway overlook.
+topics:
+  - Travel Tips
 ---
 ## Ultra-Low Point Redemptions Target Milestone Celebration
 

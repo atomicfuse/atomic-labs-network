@@ -36,6 +36,8 @@ quality_note: >-
   electric cars, reviews, and concept cars.
 reading_time: 3
 image_alt: Blank roadside gas station sign with a collectible toy truck on sunlit asphalt
+topics:
+  - News
 ---
 ## The Disappearance of a Gas Station Giant
 

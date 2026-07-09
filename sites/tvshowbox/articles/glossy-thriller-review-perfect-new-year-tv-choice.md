@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Moody thriller scene of a divided couple reflected in rain-streaked glass
   against blurred city lights
+topics:
+  - TV News
+  - Reviews
 ---
 
 Netflix continues to captivate audiences with its latest thriller, "His & Hers," featuring the dynamic duo Jon Bernthal and Tessa Thompson. This gripping series blends intrigue, drama, and suspense, promising viewers a riveting experience. As the show unfolds, it delves into complex themes of trust, betrayal, and the intricacies of interpersonal relationships.

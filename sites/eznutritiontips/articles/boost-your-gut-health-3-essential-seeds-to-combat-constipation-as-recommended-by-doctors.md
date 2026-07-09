@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Bowls of flax, chia, and pumpkin seeds on a bright kitchen counter with a
   glass of water.
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Are you finding it difficult to maintain a healthy gut? Experiencing constipation issues? You're not alone. Many individuals grapple with these health challenges. Fortunately, a simple dietary modification can help. According to a health professional, incorporating three types of seeds into your daily diet can significantly improve your gut health and alleviate constipation.

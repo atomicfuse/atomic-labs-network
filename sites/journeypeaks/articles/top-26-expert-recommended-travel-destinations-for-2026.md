@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Traveler overlooks a sunrise horizon blending city, coast, mountains, and
   cultural architecture.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 As the world continues to open up for exploration, 2026 promises a wealth of destinations that captivate travelers with their unique offerings. From vibrant cities to tranquil retreats, experts have identified the top places to visit. These locations not only provide cultural richness but also offer diverse experiences for every type of traveler.

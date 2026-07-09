@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Carbon-trimmed performance sedan at dusk with warm exhaust haze and cool blue
   light in the distance.
+topics:
+  - News
 ---
 ## A Final Farewell to Combustion Power
 

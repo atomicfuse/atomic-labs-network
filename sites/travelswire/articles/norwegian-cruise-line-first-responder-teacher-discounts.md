@@ -36,6 +36,8 @@ quality_note: >-
   relies heavily on vague sourcing like 'according to reports' without concrete
   facts or verification.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## Norwegian Cruise Line Recognizes Essential Workers with New Discount Programs
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Older adult exercising in warm light with subtle glowing muscle and molecular
   patterns
+topics:
+  - Fitness
 ---
 ## The Anti-Aging Power Hidden in Your Muscles
 

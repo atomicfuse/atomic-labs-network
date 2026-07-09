@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Young plant seedlings glow in greenhouse sunlight with subtle DNA-like light
   patterns among the leaves.
+topics:
+  - Tech
 ---
 ## The Plant Paradox: When Life-Giving Light Becomes a Threat
 

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   A leaf-like red bat rests on a city sidewalk as a passerby stops nearby to
   help.
+topics:
+  - Wildlife Stories
+  - Animal Behavior
 ---
 ## The Surprising Discovery
 

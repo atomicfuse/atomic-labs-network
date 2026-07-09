@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Traveler overlooking a quiet Asian coastal town with subtle digital route
   lines at sunrise
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Asia's travel map is becoming more varied, digital, and experience-led, and Agoda expects those shifts to become even clearer by 2026. The online travel platform has highlighted two powerful forces shaping future journeys across the region: growing interest in secondary destinations and wider use of artificial intelligence in trip planning. Together, these trends point to a more personal style of travel, where visitors look beyond famous gateways and rely on smarter tools to design better trips.

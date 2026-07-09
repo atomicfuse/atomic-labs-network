@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Patient and clinician review a tablet together in a bright modern oncology
   clinic.
+topics:
+  - Medical Research
 ---
 ## Revolutionary Tool Transforms Cancer Research Participation
 

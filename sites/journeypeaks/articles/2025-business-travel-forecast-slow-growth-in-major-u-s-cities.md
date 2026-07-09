@@ -46,6 +46,10 @@ quality_note: >-
   falls short on length and could benefit from more specific data sources for
   better factual grounding.
 image_alt: Business traveler in an airport lounge facing a layered city skyline at dawn.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 The landscape of business travel in the United States is undergoing significant changes, with a new forecast shedding light on future trends in major cities. As the economy continues to recover, key destinations like New York City, Los Angeles, Miami, Chicago, Las Vegas, and San Francisco are expected to see slow growth in business travel by 2025. This shift presents both challenges and opportunities for the travel industry as it adapts to evolving market conditions.

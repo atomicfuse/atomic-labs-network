@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Stylish model wearing colorful Y2K-inspired sunglasses in a glossy fashion
   editorial setting.
+topics:
+  - Fashion
 ---
 
 The resurgence of Y2K fashion has taken the world by storm, and leading the charge are vintage-inspired sunglasses reminiscent of the early 2000s. These bold and nostalgic accessories have made a significant comeback, influencing fashion enthusiasts and celebrities alike to embrace their edgy and playful styles.

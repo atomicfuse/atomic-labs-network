@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Coffee cup with beans and cherries beside a subtle civet silhouette in a
   tropical forest setting
+topics:
+  - Coffee Beans
 ---
 
 In the world of gourmet coffee, there exists a unique and fascinating variety known as civet coffee, often referred to by its Indonesian name, Kopi Luwak. This exclusive coffee has intrigued connoisseurs and coffee enthusiasts alike due to the unusual method of production, which involves a small mammal known as the civet cat. But what exactly makes this coffee special, and is it truly as delightful as its reputation suggests?

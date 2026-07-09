@@ -54,6 +54,8 @@ quality_note: >-
 image_alt: >-
   Futuristic game economy scene with glowing supply drops balanced above a
   holographic world
+topics:
+  - Gaming News
 ---
 
 The world of blockchain gaming has been significantly influenced by the concept of airdrops, which, while offering potential growth and engagement, also presents challenges. Airdrops are a mechanism to distribute tokens or in-game items to players freely. The method is seen as a double-edged sword by game developers, as it can either create genuine excitement and user engagement or lead to token devaluation and gaming economies' disruption.

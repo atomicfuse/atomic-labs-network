@@ -37,6 +37,8 @@ reading_time: 2
 image_alt: >-
   Festive Florida Keys summer scene with travelers, turquoise water, reef boat,
   and tropical celebration details.
+topics:
+  - Destination Guides
 ---
 ## Summer Planning Heats Up in the Florida Keys
 

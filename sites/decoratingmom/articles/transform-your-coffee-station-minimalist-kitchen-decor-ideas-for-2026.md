@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Minimal neutral kitchen coffee station with ceramic mugs, wood shelves, and
   soft morning light
+topics:
+  - Decor Ideas
 ---
 
 The art of decorating a coffee station is a delightful way to refresh your kitchen space as you welcome the new year. In this post, we'll explore minimalist and neutral decorating ideas that make a stunning impact on your coffee bar setup.

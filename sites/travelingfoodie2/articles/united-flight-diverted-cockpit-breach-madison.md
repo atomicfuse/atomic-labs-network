@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Tense airplane cabin aisle with a closed cockpit door and crew silhouette near
   the front
+topics:
+  - Travel Tips
 ---
 ## Flight Diverted Due to Security Threat
 

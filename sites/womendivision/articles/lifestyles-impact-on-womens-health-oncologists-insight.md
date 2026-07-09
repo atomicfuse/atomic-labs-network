@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Young women in soft morning light with wellness items, suggesting proactive
   health awareness.
+topics:
+  - Lifestyle
 ---
 
 Breast cancer is increasingly affecting younger women, sparking concern among healthcare professionals worldwide. This trend highlights the need for awareness and proactive health strategies to combat the disease at an earlier stage than previously considered typical. Understanding the contributing factors and preventive measures is crucial for mitigating this troubling rise in cases.

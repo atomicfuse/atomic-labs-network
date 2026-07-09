@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Seven lit director chairs and one fading chair in a dark premium screening
   room.
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## HBO Makes Major Programming Decisions for 2026
 

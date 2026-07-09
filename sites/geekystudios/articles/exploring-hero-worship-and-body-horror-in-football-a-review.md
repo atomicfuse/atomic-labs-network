@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Faceless football player under stadium lights casting an ominous shrine-like
   shadow
+topics:
+  - Pop Culture
 ---
 
 Horror and comedy have long been a compelling mix for audiences, and a new film, "Him," is poised to take this blend to the next level. Directed by Derrick Hayes and featuring performances by Marlon Wayans and Tyriq Withers, "Him" is a unique cinematic experience that combines the thrill of horror with the light-heartedness of comedy. This film explores the dark side of football culture through a fresh and entertaining lens.

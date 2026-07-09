@@ -39,6 +39,8 @@ quality_note: >-
   dark history, instead delivering generic geopolitical analysis that doesn't
   match the target audience or content themes.
 image_alt: Gold and silver bullion on a world map with glowing trade-route lines
+topics:
+  - Deep Dives
 ---
 
 The global landscapes of geopolitics and economics are ever-evolving, with countries continuously reassessing their strategies and alliances. Recent events have demonstrated a significant shift, particularly involving the dynamics among major global powers. This article dives into these developments, examining the strategic decisions and their potential impacts on international relations.

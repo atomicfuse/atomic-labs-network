@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Futuristic AI chip cooled by clear liquid and rising microbubbles in a dark
   blue data center scene
+topics:
+  - Gadgets
 ---
 ## The AI Cooling Crisis
 

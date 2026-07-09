@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Deserted campaign room with overturned chairs and isolated figures after a
   political defeat
+topics:
+  - Breaking News
 ---
 ## Movement Fractures Emerge After Electoral Setback
 

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Official report folder foregrounded against blurred police activity on a rainy
   London street
+topics:
+  - Deep Dives
 ---
 
 In recent developments, a significant shift in global economic policy and environmental concerns has emerged. This change is driven by a collaboration between global powers, aiming to tackle pressing issues such as climate change and sustainable development. As nations strive to meet environmental goals, innovative strategies and international cooperation are becoming increasingly vital.

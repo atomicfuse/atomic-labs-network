@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Smartphone with duplicate app tiles on a courtroom table under dramatic
   lighting
+topics:
+  - Tech
 ---
 
 The ongoing legal battle between Apple and Epic Games has captured significant attention due to its potential impact on app distribution and digital commerce. This high-profile case revolves around the policies governing Apple's App Store and the broader implications for developers worldwide. As both companies navigate the complexities of the legal system, the tech and gaming industries closely monitor developments that could reshape the digital landscape.

@@ -41,6 +41,8 @@ quality_note: >-
   498 words, which severely impacts overall quality despite good content
   structure.
 image_alt: Person doing gentle bedtime yoga in a softly lit bedroom at dusk
+topics:
+  - Yoga Poses
 ---
 
 Incorporating bedtime yoga into your nightly routine can be a transformative experience, promoting relaxation and sleep. This gentle practice helps to calm the mind, ease tension in the body, and prepare you for a restful night's sleep. Discover how specific yoga poses can significantly enhance your nightly ritual and improve your overall well-being.

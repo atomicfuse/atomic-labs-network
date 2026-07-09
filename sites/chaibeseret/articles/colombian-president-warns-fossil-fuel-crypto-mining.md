@@ -35,6 +35,8 @@ quality_note: >-
   entertainment content and doesn't match the casual, chill tone expected for
   heavy streamers.
 reading_time: 2
+topics:
+  - breaking news
 ---
 ## Green Energy vs. Fossil Fuels in Crypto Mining
 

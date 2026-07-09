@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Modern compact hatchback on a golden-hour coastal road with sleek lighting and
   dynamic styling
+topics:
+  - Reviews
 ---
 
 The automotive landscape is constantly evolving, with manufacturers striving to blend performance, efficiency, and style in their offerings. One such vehicle that encapsulates these attributes is the Leon, a compact car that has captivated enthusiasts and casual drivers alike. Known for its dynamic design and advanced features, the Leon is a testament to modern automotive engineering.

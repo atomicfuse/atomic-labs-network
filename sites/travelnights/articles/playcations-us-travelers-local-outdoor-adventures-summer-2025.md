@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Friends prepare kayaks on a sunny lakeshore for an active local summer
   getaway.
+topics:
+  - News
 ---
 ## The Rise of Activity-Focused Getaways
 

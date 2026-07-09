@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   A casting studio wall of headshots leads toward glowing TV frames as an actor
   waits in stage light.
+topics:
+  - Odd News
 ---
 ## The Fast-Paced World of Procedural Casting
 

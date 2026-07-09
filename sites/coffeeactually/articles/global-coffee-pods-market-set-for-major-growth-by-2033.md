@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Assorted coffee pods arc upward on a modern counter with coffee beans and
   green sustainable accents.
+topics:
+  - Coffee News
 ---
 
 The global market for coffee pods and capsules is experiencing remarkable growth, driven by evolving consumer preferences and technological advancements. Coffee enthusiasts worldwide are embracing the convenience and variety that these products offer, leading to a dynamic shift in the coffee industry. With the increasing need for quick and hassle-free coffee options, the demand for coffee pods and capsules continues to rise.

@@ -37,6 +37,8 @@ quality_note: >-
   errors (Jilly Cooper is alive, not deceased) and insufficient length at only
   503 words.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## Behind the Scenes of Disney+'s Global Hit
 

@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Golden Napa vineyard at sunset with wine glasses, grapes, and an old-world
   vineyard ledger
+topics:
+  - Wine news
 ---
 ## Major Vineyard Acquisition in Napa Valley
 

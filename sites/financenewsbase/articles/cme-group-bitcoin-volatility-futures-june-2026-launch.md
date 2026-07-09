@@ -6,7 +6,7 @@ description: >-
   price...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -15,7 +15,7 @@ tags:
   - institutional-trading
   - risk-management
 slug: cme-group-bitcoin-volatility-futures-june-2026-launch
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/cme-group-targets-june-1-launch-for-bitcoin-volatility-futures-pending-cftc-review/
 source_item_id: 6a008dbc2a0a294c696af856
@@ -32,6 +32,8 @@ quality_note: >-
   Strong professional tone and excellent topic relevance, but significantly
   under target word count at 583 words versus 800-1200 range.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## CME Group Announces Bitcoin Volatility Futures Product

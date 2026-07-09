@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Master distiller studies botanicals and glassware in a warm craft distillation
   workspace
+topics:
+  - Coffee News
 ---
 ## From Chemistry to Gin Innovation
 

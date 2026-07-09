@@ -1,9 +1,12 @@
 ---
-title: "Point Lobos: California's Quieter Coastal Crown Jewel"
-description: Discover Point Lobos State Natural Reserve, where iconic cypress trees and playful sea otters line serene coves, offering the dramatic beauty of Big Sur...
+title: 'Point Lobos: California''s Quieter Coastal Crown Jewel'
+description: >-
+  Discover Point Lobos State Natural Reserve, where iconic cypress trees and
+  playful sea otters line serene coves, offering the dramatic beauty of Big
+  Sur...
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - California travel
@@ -12,8 +15,8 @@ tags:
   - wildlife photography
   - Big Sur
 slug: point-lobos-california-coastal-crown-jewel
-reviewer_notes: ""
-source_url: https://www.travelcalifornia.com/hidden-gems/point-lobos-reserve-guide/
+reviewer_notes: ''
+source_url: 'https://www.travelcalifornia.com/hidden-gems/point-lobos-reserve-guide/'
 source_item_id: b7339acb1b1b385d707be96b
 generated_by: claude
 featuredImage: /assets/images/point-lobos-california-coastal-crown-jewel.webp
@@ -24,13 +27,22 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 80
   keyword_relevance: 95
-quality_note: Excellent travel piece that captures the essence of the location. Factual accuracy is good, though it relies on general descriptions rather than specific, cited data. Slightly over target word count but maintains engaging tone.
+quality_note: >-
+  Excellent travel piece that captures the essence of the location. Factual
+  accuracy is good, though it relies on general descriptions rather than
+  specific, cited data. Slightly over target word count but maintains engaging
+  tone.
 reading_time: 3
 scripts:
   - id: f384209d-4383-4a79-9779-81033462bd46
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script> <div data-cg-feed="TravelSwire1"></div>
+topics:
+  - Destination Guides
 ---
 Point Lobos is what Big Sur looks like when it's quiet. Cypress trees, sea otters, and intimate coves tucked between Carmel and Big Sur. It has all the views and half the crowds.
 

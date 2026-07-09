@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Hotel mini fridge glowing beside food and medicine with a thermometer
   suggesting unsafe cooling.
+topics:
+  - Food
+  - News
+  - Guides & Tips
 ---
 ## Hidden Dangers in Hotel Refrigerators
 

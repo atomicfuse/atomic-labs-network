@@ -1,9 +1,11 @@
 ---
 title: Fergie Reunites With Black Eyed Peas at 2026 American Music Awards
-description: Fergie joined will.i.am, APL.DE.AP and Taboo on stage at the 2026 AMAs to accept Best Throwback Song for 'Rock That Body' in an emotional reunion.
+description: >-
+  Fergie joined will.i.am, APL.DE.AP and Taboo on stage at the 2026 AMAs to
+  accept Best Throwback Song for 'Rock That Body' in an emotional reunion.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -13,7 +15,8 @@ tags:
   - pop-music
 slug: fergie-reunites-black-eyed-peas-2026-american-music-awards
 reviewer_notes: Approved via review queue.
-source_url: https://www.usmagazine.com/celebrity-news/news/fergie-reunites-with-black-eyed-peas-at-the-2026-amas/
+source_url: >-
+  https://www.usmagazine.com/celebrity-news/news/fergie-reunites-with-black-eyed-peas-at-the-2026-amas/
 source_item_id: 6a151f7316f23264031d8108
 generated_by: claude
 featuredImage: /assets/images/fergie-reunites-black-eyed-peas-2026-american-music-awards.webp
@@ -24,9 +27,13 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 20
   keyword_relevance: 90
-quality_note: Strong entertainment coverage with engaging tone, but severely undermined by fabricated 2026 event details and below-target word count.
+quality_note: >-
+  Strong entertainment coverage with engaging tone, but severely undermined by
+  fabricated 2026 event details and below-target word count.
 reading_time: 3
 image_alt: Four pop performers reunite on a blue-lit awards stage as one holds a trophy.
+topics:
+  - Breaking News
 ---
 ## Emotional Reunion Marks New AMAs Category Win
 

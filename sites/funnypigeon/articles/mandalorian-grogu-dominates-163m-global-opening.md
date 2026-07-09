@@ -1,9 +1,11 @@
 ---
-title: "'Mandalorian & Grogu' Dominates With $163M Global Opening"
-description: "Disney's 'Star Wars: The Mandalorian and Grogu' leads global box office with $163M opening while 'Michael' approaches $800M worldwide milestone."
+title: '''Mandalorian & Grogu'' Dominates With $163M Global Opening'
+description: >-
+  Disney's 'Star Wars: The Mandalorian and Grogu' leads global box office with
+  $163M opening while 'Michael' approaches $800M worldwide milestone.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +15,8 @@ tags:
   - global-cinema
 slug: mandalorian-grogu-dominates-163m-global-opening
 reviewer_notes: Approved via review queue.
-source_url: https://deadline.com/2026/05/box-office-global-mandalorian-and-grogu-michael-1236920504/
+source_url: >-
+  https://deadline.com/2026/05/box-office-global-mandalorian-and-grogu-michael-1236920504/
 source_item_id: 6a151f7316f23264031d8112
 generated_by: claude
 featuredImage: /assets/images/mandalorian-grogu-dominates-163m-global-opening.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 0
   keyword_relevance: 10
-quality_note: The article contains completely fabricated box office data for non-existent films and fails to match the site's entertainment/viral content focus, making it unsuitable for funnypigeon's audience.
+quality_note: >-
+  The article contains completely fabricated box office data for non-existent
+  films and fails to match the site's entertainment/viral content focus, making
+  it unsuitable for funnypigeon's audience.
 reading_time: 2
-image_alt: Small cloaked alien silhouette before a glowing futuristic cinema with blurred crowds behind
+image_alt: >-
+  Small cloaked alien silhouette before a glowing futuristic cinema with blurred
+  crowds behind
+topics:
+  - Viral
 ---
 ## Disney+ Franchise Makes Theatrical Splash
 

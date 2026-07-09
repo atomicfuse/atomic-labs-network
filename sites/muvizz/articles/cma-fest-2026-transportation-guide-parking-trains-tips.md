@@ -1,9 +1,11 @@
 ---
-title: "CMA Fest 2026 Transportation Guide: Parking, Trains & Tips"
-description: Essential transportation tips for CMA Fest 2026 in Nashville, covering parking options, WeGo train service, shuttle routes, and stadium access.
+title: 'CMA Fest 2026 Transportation Guide: Parking, Trains & Tips'
+description: >-
+  Essential transportation tips for CMA Fest 2026 in Nashville, covering parking
+  options, WeGo train service, shuttle routes, and stadium access.
 type: how-to
 status: published
-publishDate: 2026-05-29
+publishDate: 2026-05-29T00:00:00.000Z
 author: Julia Parker
 tags:
   - Breaking News
@@ -13,7 +15,8 @@ tags:
   - transportation
 slug: cma-fest-2026-transportation-guide-parking-trains-tips
 reviewer_notes: Approved via review queue.
-source_url: https://www.tennessean.com/story/entertainment/music/2026/05/28/cma-fest-parking-travel-transit-tips/90147703007/
+source_url: >-
+  https://www.tennessean.com/story/entertainment/music/2026/05/28/cma-fest-parking-travel-transit-tips/90147703007/
 source_item_id: 6a182f740fc9210eaf31aafa
 generated_by: claude
 featuredImage: /assets/images/cma-fest-2026-transportation-guide-parking-trains-tips.webp
@@ -24,9 +27,17 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 60
   keyword_relevance: 40
-quality_note: The article has decent SEO structure but is significantly under target word count and focuses on country music/transportation rather than core entertainment topics like movies, TV shows, or reviews.
+quality_note: >-
+  The article has decent SEO structure but is significantly under target word
+  count and focuses on country music/transportation rather than core
+  entertainment topics like movies, TV shows, or reviews.
 reading_time: 3
-image_alt: Festival crowds navigate Nashville transit, parking, and pedestrian routes near a stadium at golden hour.
+image_alt: >-
+  Festival crowds navigate Nashville transit, parking, and pedestrian routes
+  near a stadium at golden hour.
+topics:
+  - Breaking News
+  - Trailers
 ---
 ## Getting to CMA Fest 2026: Your Complete Transportation Guide
 

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Premium red and cream sportswear and accessories arranged in a modern
   heritage-inspired studio setting
+topics:
+  - Fashion
 ---
 
 Arsenal Women Football Club (AWFC) is excited to unveil its latest retail collection, celebrating the club's rich heritage and contemporary style. This collection is designed to resonate with both ardent fans and fashion enthusiasts, blending sports performance with everyday wear. Featuring a versatile array of products, the collection underscores the club's commitment to quality and innovation.

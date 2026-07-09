@@ -39,6 +39,10 @@ reading_time: 3
 image_alt: >-
   Secluded tropical villa at twilight with an infinity pool, palms, and warm
   interior lights near the ocean
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Rise of Private Villa Luxury
 

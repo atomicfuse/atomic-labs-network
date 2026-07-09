@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Two players share a handheld console with a colorful fantasy adventure glowing
   on screen.
+topics:
+  - Gaming News
 ---
 
 Pokémon fans have another exciting adventure to dive into with the release of Pokémon Pokopia on the Nintendo Switch. This new addition to the Pokémon universe promises engaging gameplay and fresh features, making it a must-play for enthusiasts and newcomers alike. Let's explore what makes Pokémon Pokopia a standout title on the Switch.

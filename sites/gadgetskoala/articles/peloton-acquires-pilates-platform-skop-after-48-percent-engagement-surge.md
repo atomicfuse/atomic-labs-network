@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Modern home fitness studio with Pilates equipment and subtle digital growth
   accents
+topics:
+  - Wearables
 ---
 ## Peloton Doubles Down on Pilates with Strategic Acquisition
 

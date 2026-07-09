@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   A vintage TV glows in a nostalgic living room with dreamy silhouettes of
   classic homes beyond the window.
+topics:
+  - TV News
 ---
 
 Television has a knack for crafting visually appealing and intriguing houses that capture viewers' imaginations. These lavish houses, whether they're in sitcoms, dramas, or reality shows, are often as iconic as the characters who inhabit them. This article takes you on a virtual tour of the five most desirable homes in TV history.

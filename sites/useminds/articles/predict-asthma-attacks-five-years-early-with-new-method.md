@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Glowing lungs with biomarker particles suggesting early asthma prediction
   research
+topics:
+  - Mind-Blowing Science
 ---
 
 Asthma, a chronic respiratory condition affecting millions globally, has long posed challenges in both diagnosis and management. Recent advancements in medical research have unveiled a novel method that might revolutionize our understanding of asthma, potentially predicting its onset years before symptoms manifest. This breakthrough offers hope for early intervention and improved patient outcomes.

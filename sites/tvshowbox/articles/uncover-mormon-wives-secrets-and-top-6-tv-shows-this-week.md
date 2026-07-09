@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Women in a dim living room watch a glowing TV, surrounded by quiet tension and
   domestic warmth.
+topics:
+  - TV News
 ---
 
 The world of television is ever-evolving, with new series captivating audiences and offering fresh perspectives. One such intriguing show is "The Secret Lives of Mormon Wives," which delves into the complexities of relationships within a unique cultural context. As viewers seek engaging content, this series stands out for its exploration of themes that resonate with many.

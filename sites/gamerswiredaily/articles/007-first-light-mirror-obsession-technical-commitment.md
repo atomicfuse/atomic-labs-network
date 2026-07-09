@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Anonymous spy silhouette reflected in many mirrors inside a sleek cinematic
   corridor.
+topics:
+  - Gaming News
 ---
 ## A Mirror-Filled World in an Age of Technical Compromise
 

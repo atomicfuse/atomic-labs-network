@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Teen reflecting on a rooftop at dawn with personal objects nearby, evoking
   grounded confidence
+topics:
+  - Funny Videos
 ---
 
 As the new year unfolds, teenagers face the unique challenge of balancing growth with staying true to themselves. With societal pressures mounting, it's crucial for teens to navigate this period rooted in their core values, rather than seeking complete reinvention. By focusing on self-awareness and embracing their authentic selves, teens can enter the new year with confidence and clarity.

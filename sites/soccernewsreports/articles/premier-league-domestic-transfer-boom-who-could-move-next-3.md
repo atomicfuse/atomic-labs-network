@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Two unbranded footballers sprint through a rain-lit stadium tunnel with
   abstract transfer light trails.
+topics:
+  - Transfers
+  - Leagues
 ---
 ## The Rise of Premier League Proven Players
 

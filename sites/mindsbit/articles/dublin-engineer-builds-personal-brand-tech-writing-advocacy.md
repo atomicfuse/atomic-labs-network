@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Dublin tech creator at a laptop with accessibility tools and colorful building
   bricks nearby
+topics:
+  - Tech
 ---
 ## The Rise of Engineer-Influencers
 

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Middle-aged adult in warm sunlight arranging keepsakes with a calm, optimistic
   expression.
+topics:
+  - Mental Health
 ---
 
 Staying positive can have a significant impact on your cognitive health as you age. A recent study highlights how maintaining an optimistic outlook can potentially reduce the risk of memory decline and foster overall brain health.

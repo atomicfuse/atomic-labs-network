@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Armored warrior overlooks a bleak ruined fantasy landscape beneath an eclipse
   sky.
+topics:
+  - Gaming News
 ---
 
 In the expansive world of video games, FromSoftware has long been celebrated for its challenging and immersive titles. Their latest release, Elden Ring: Nightreign, has sparked discussions among gaming journalists and enthusiasts alike. However, not all feedback has been positive, as many critics have labeled it as FromSoftware's least successful Soulslike entry. Let's delve into the factors contributing to this perception and explore what sets Nightreign apart from its predecessors.

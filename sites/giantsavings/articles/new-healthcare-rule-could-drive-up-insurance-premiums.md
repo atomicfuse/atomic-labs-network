@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Blank medical forms, calculator, and stethoscope suggest rising healthcare
   insurance costs.
+topics:
+  - Bills & Utilities
 ---
 ## Surprise Bills Gone, But New Costs Coming?
 

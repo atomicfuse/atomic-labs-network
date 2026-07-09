@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Wine professional standing between a barrel cellar and sunlit vineyard,
   suggesting a career transition.
+topics:
+  - Wine news
 ---
 ## Understanding Wine Industry Career Paths
 

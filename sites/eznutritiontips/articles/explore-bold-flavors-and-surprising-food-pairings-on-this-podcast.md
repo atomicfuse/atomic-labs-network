@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Colorful unexpected ingredients arranged around an unbranded microphone on a
   bright tabletop
+topics:
+  - Special Diets
 ---
 
 Exploring the world of culinary creativity can lead to delightful discoveries, especially when it comes to unexpected food pairings and bold flavors. These intriguing combinations often challenge traditional palates and introduce food enthusiasts to a new realm of taste experiences.

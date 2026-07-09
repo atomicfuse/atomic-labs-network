@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Serene modern living room with terracotta wall, neutral furnishings, and
   coordinated colorful accents.
+topics:
+  - budget decor
+  - Tips & Advice
+  - decor ideas
 ---
 ## Why Color Choices Matter for Room Harmony
 

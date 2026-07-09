@@ -6,7 +6,7 @@ description: >-
   operations.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -19,7 +19,7 @@ reviewer_notes: >-
   Professional tone and good keyword coverage, but significantly under target
   word count and contains potentially fabricated details about specific court
   cases and dollar amounts.
-source_url: "https://news.bitcoin.com/aave-rseth-recovery-judge-arbitrum-71-million-eth/"
+source_url: 'https://news.bitcoin.com/aave-rseth-recovery-judge-arbitrum-71-million-eth/'
 source_item_id: 6a008dbd2a0a294c696af85f
 generated_by: claude
 featuredImage: /assets/images/judge-approves-71m-eth-transfer-aave-defi-recovery.webp
@@ -35,6 +35,8 @@ quality_note: >-
   word count and contains potentially fabricated details about specific court
   cases and dollar amounts.
 reading_time: 2
+topics:
+  - Market Analysis
 ---
 
 ## Legal Breakthrough Advances DeFi Recovery Efforts

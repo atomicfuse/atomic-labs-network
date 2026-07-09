@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Rugged camper van in a mountain clearing with warm, comfortable interior
   visible through open rear doors.
+topics:
+  - News
 ---
 ## Adventure Meets Comfort in Custom Build
 

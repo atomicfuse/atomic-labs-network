@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Luxury electric performance coupe charging under glowing blue and amber light
   in a sleek studio garage
+topics:
+  - Electric Cars
 ---
 ## Mercedes-AMG Sets New EV Charging Speed Benchmark
 

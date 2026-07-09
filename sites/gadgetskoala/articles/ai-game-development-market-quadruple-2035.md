@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Futuristic studio with an AI core generating holographic game worlds and
   characters
+topics:
+  - Gaming
+  - Tablets
 ---
 ## AI Revolution in Game Development Takes Center Stage
 

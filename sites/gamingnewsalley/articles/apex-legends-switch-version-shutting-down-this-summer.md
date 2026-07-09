@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Handheld game console with a fading screen beside a glowing gaming setup in
   warm summer light.
+topics:
+  - Gaming News
 ---
 
 Fans of the popular battle royale game, Apex Legends, received significant news regarding its availability on the Nintendo Switch. Electronic Arts and Respawn Entertainment have announced that the game will no longer be supported on this platform, with the shutdown scheduled for the upcoming summer season. This decision has sparked discussions within the gaming community about its implications and the future of the game across other platforms.

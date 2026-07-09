@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Vintage game media and fantasy dice glow on an archive table inside a moody
   dungeon corridor.
+topics:
+  - Gaming News
 ---
 
 Atari has strengthened its position in classic game publishing by acquiring the rights to the first five Wizardry role-playing games, a move that brings one of the most influential dungeon crawler series deeper into the company's growing retro portfolio.

@@ -43,6 +43,8 @@ quality_note: >-
   Well-written article with good tone and keyword coverage, but significantly
   under target word count at 541 words versus the 800-1200 range.
 image_alt: Person practicing yoga in a warm room beside a frosted winter window
+topics:
+  - Yoga Poses
 ---
 
 Yoga is a powerful tool to rejuvenate the body and mind, especially during the colder months when sluggishness can take hold. Embracing specific yoga poses can enhance energy levels and combat winter fatigue effectively. These poses not only improve flexibility but also promote warmth and vitality, helping you stay active and vibrant throughout the season.

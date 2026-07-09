@@ -40,6 +40,9 @@ reading_time: 3
 image_alt: >-
   A cinematic living room watch party with glowing abstract screens and a remote
   on a popcorn-covered table.
+topics:
+  - TV News
+  - Streaming
 ---
 ## Major Weekend for Entertainment Fans
 

@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   Older driver’s hands on a steering wheel with a softly blurred road and subtle
   GPS light reflections.
+topics:
+  - Space
+  - Technology
 ---
 
 Recent studies suggest that our driving habits may provide early indicators of cognitive decline. Researchers have observed that subtle changes in driving patterns could serve as a warning sign for future cognitive issues, often before more traditional symptoms become evident.

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Stylish morning dressing area with curated fashion pieces and beauty products
   in soft natural light
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 This week, I'm excited to share some fabulous new arrivals from Marks & Spencer, perfect for refreshing your wardrobe. Alongside the fashion haul, I offer you a peek into my morning beauty and makeup routine, showcasing some must-have products.

@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Assorted teas on a sunlit table with wellness items suggesting a healthy
   routine
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Tea is more than just a soothing beverage. It is packed with several health benefits, including aiding in weight loss. In this article, we will explore the top teas that can assist you in your weight loss journey.

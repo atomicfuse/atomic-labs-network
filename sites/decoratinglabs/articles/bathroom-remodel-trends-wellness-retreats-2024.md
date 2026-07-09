@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Serene warm-toned bathroom retreat with soaking tub, soft lighting, natural
   textures, and greenery.
+topics:
+  - Tips & Advice
+  - In-Depth Reviews
 ---
 ## The Shift from Function to Wellness
 

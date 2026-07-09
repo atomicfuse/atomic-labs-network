@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Cruise ship at dusk with abstract quiz-themed light trails over calm harbor
   water
+topics:
+  - Travel Tips
 ---
 ## Quiz Your Way to a Cruise Vacation
 

@@ -36,6 +36,8 @@ quality_note: >-
   concerning vague sourcing throughout.
 reading_time: 3
 image_alt: Child gaming at night as a concerned parent watches from a doorway
+topics:
+  - TV & Movies
 ---
 ## FBI Raises Alarm About Gaming Platform Dangers
 

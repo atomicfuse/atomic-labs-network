@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Whole foods, supplements, and lab tools arranged on a softly lit health
   consultation table.
+topics:
+  - Nutrition
+  - Wellness
 ---
 
 Exploring proactive health measures is crucial in today's wellness-focused society. Among these measures, dietary supplements often promise various health benefits, including the potential to reduce cancer risk. However, understanding their actual effectiveness requires a deep dive into scientific research and expert opinions.

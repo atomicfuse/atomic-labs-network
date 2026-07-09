@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Footballer in a white kit shows relief on a misty stadium pitch after a tense
   match.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 Tottenham secured the result they needed against Everton to remain in the Premier League, ending a tense survival battle with a vital victory. In a match loaded with pressure, Spurs found a way to protect their top-flight status and avoid one of the most damaging outcomes in the club's modern history.

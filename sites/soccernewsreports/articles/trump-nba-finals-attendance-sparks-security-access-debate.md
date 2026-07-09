@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Fans wait behind barricades as security clears a VIP path outside a basketball
   arena at night.
+topics:
+  - Latest News
 ---
 ## Historic Presidential Attendance Creates Mixed Reactions
 

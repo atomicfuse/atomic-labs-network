@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A footballer strikes a decisive shot under stadium lights as defenders rush to
   block.
+topics:
+  - Latest News
 ---
 
 West Ham vs Arsenal in the Premier League 2025-26 season delivered another vivid London derby scene at the London Stadium, with Leandro Trossard emerging as one of the central figures in Arsenal's attacking story. The fixture carried the usual edge of a capital rivalry, but it also offered a wider look at Arsenal's rhythm, West Ham's resilience, and the fine margins that shape high-pressure English football battles.

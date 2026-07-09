@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Stylish budget-friendly dining room with mixed chairs, warm light, plants, and
   simple modern decor
+topics:
+  - Expert Guides
 ---
 
 Explore how to elevate your home decor with budget-friendly ideas that don't sacrifice style. Whether you're planning a full-scale makeover or simply refreshing your space, there's plenty of inspiration to be found.

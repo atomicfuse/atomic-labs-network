@@ -33,6 +33,8 @@ quality_note: >-
   short on length and contains some unverified claims about the adaptation
   details.
 reading_time: 3
+topics:
+  - TV Shows
 ---
 ## Prime Video Brings BookTok Phenomenon to Screen
 

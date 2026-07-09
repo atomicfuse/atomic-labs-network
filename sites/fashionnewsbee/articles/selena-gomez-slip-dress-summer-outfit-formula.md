@@ -31,6 +31,8 @@ quality_note: >-
   on length and contains vague sourcing that raises factual accuracy concerns.
 reading_time: 3
 image_alt: Woman in a monochrome ivory summer outfit walking along a sunny city street
+topics:
+  - Fashion
 ---
 ## The Celebrity-Approved Summer Style Solution
 

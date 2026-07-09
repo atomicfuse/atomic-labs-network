@@ -34,6 +34,8 @@ quality_note: >-
   The article maintains a friendly, engaging tone and covers food culture well,
   but falls short on word count and SEO optimization with a lengthy, unfocused
   title and missing meta description.
+topics:
+  - Food Culture
 ---
 ![Food choices quiz banner](https://img.buzzfeed.com/buzzfeed-static/static/2026-04/01/19/thumb/6Auis8Kao.jpg?crop=1245:830;3,0&resize=1250:830)
 

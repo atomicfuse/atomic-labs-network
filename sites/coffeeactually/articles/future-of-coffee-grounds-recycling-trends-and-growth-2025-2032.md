@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Coffee grounds transform into seedlings and sustainable materials in a
   circular economy concept.
+topics:
+  - Coffee News
 ---
 
 Coffee grounds, once considered waste, are now finding new life through innovative recycling services. This shift is largely driven by increasing awareness of environmental sustainability and the potential economic benefits. Companies and consumers alike are recognizing that these byproducts of our daily brew can be repurposed into valuable resources, contributing to a more sustainable future.

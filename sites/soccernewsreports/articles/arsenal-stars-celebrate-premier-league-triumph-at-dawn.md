@@ -39,6 +39,9 @@ quality_note: >-
   Well-written historical piece with engaging tone and proper length, but
   contains factual inconsistencies about the 2001-02 season and misaligned tags.
 image_alt: Footballers in red and white celebrate at dawn on a misty stadium pitch.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 Arsenal's Premier League triumph at Old Trafford remains one of English football's defining title-clinching nights. A narrow win over Manchester United delivered the crown, sparked celebrations that lasted until daybreak, and confirmed Arsene Wenger's side as the benchmark of the 2001-02 season.

@@ -34,6 +34,8 @@ quality_note: >-
   optimization in title and meta description.
 reading_time: 3
 image_alt: Adults practice gentle outdoor yoga in a sunny green state park clearing.
+topics:
+  - Mind & Body Wellness
 ---
 ## Nature Meets Wellness This Summer
 

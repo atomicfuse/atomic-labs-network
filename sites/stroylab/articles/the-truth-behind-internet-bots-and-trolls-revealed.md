@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   A human silhouette faces a field of glowing digital profiles fading into
   synthetic patterns.
+topics:
+  - Conspiracies
 ---
 
 The digital landscape has evolved dramatically over the years, leading to speculations about the authenticity and liveliness of the internet as we know it today. Questions arise about whether the internet is truly alive with genuine human interaction or dominated by artificial representations and automated systems.

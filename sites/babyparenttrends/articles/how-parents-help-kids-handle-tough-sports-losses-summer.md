@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Parent sits supportively beside a disappointed young athlete after a summer
   game.
+topics:
+  - Parenting
 ---
 ## The Summer Sports Challenge for Parents
 

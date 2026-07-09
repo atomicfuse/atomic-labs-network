@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   South Asian filmmaker silhouette on a moody festival promenade with cinematic
   lights and gothic shadows.
+topics:
+  - TV & Movies
 ---
 ## Bold South Asian Stories Take Center Stage
 

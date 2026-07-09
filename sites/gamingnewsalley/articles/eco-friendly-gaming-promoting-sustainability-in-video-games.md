@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Futuristic game controller on mossy desk with digital nature visuals in the
   background
+topics:
+  - Gaming News
 ---
 
 Video games have long been a source of entertainment and creativity, but now they are also becoming a powerful tool for promoting environmental awareness and sustainability. As the gaming industry grows, developers and companies are increasingly using their platforms to educate players about ecological issues and inspire positive change. This trend highlights the potential of video games as a medium for social impact, engaging millions of players worldwide.

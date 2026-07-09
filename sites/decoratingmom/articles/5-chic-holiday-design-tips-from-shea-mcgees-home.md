@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Neutral holiday living room with natural textures, greenery, soft light, and
   elegant cozy decor
+topics:
+  - Decor Ideas
 ---
 
 When it comes to home design, few names stand out as prominently as Shea McGee. Known for her impeccable taste and signature aesthetic, Shea has once again amazed the world with the design of her holiday home. This home is not just a retreat but a true reflection of her unique style and design philosophy, offering inspiration for those looking to elevate their own living spaces.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant traveler on a sunlit terrace overlooking a turquoise Mediterranean
   cove and whitewashed village.
+topics:
+  - Destination Guides
 ---
 ## Where Fashion's Elite Are Heading This Summer
 

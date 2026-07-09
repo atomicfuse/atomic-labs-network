@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Latina women gather in a sunlit wellness studio after class, sharing a warm
   community moment.
+topics:
+  - Mind & Body Wellness
 ---
 ## Redefining Wellness Through Cultural Connection
 

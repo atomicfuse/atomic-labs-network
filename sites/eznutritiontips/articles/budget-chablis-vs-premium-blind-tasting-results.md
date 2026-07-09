@@ -39,6 +39,8 @@ videos:
 image_alt: >-
   Unlabeled Chablis bottles and white wine glasses arranged for a blind tasting
   on a bright stone table.
+topics:
+  - Nutrition Tips
 ---
 ## Premium Pricing Doesn't Always Deliver
 

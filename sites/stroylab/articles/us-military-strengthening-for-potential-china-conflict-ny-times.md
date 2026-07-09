@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Dimly lit strategy room with silhouetted personnel studying an abstract
   Pacific map.
+topics:
+  - Deep Dives
 ---
 
 The global financial landscape is undergoing significant changes, with central banks across the world increasingly exploring the potential of digital currencies. This shift is poised to transform monetary systems and alter the way individuals and businesses conduct transactions. Digital currencies, particularly central bank digital currencies (CBDCs), are gaining traction as governments seek more control and efficiency in financial systems.

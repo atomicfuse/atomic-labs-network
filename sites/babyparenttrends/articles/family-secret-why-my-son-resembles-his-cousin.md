@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sunlit family photo frames on a kitchen table connected by branching window
   shadows
+topics:
+  - Kids
 ---
 
 In today's complex world of family dynamics, the definition of "family" continues to evolve. Modern families often transcend traditional boundaries, embracing diverse structures and connections. This evolution is particularly evident in families formed through sperm donation, where children may share genetic ties with individuals outside their immediate family circle. As these unique familial relationships grow, they pose intriguing questions and challenges for parents and children alike.

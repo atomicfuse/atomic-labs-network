@@ -38,6 +38,9 @@ quality_note: >-
   compromised by fabricated future date and fictional puzzle details that
   constitute major factual inaccuracies.
 image_alt: Blank word puzzle tiles connected by colored strands beside a cape and mask.
+topics:
+  - Pop Culture
+  - Tutorials
 ---
 
 The New York Times Strands puzzle for May 14, 2026, comes with a playful theme: "Men in tights." If that clue immediately makes you think of capes, masks, secret identities, and comic-book legends, you are moving in the right direction. Today's puzzle leans into superhero wordplay, rewarding solvers who can connect the theme to famous costumed characters and their larger pop-culture category.

@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Elegant summer travel terrace overlooking a turquoise cove with linen luggage,
   sailboats, and coastal architecture.
+topics:
+  - Destinations
 ---
 ## Fashion's Elite Share Their Summer Travel Plans
 

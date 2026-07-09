@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Boutique Pilates studio with clients practicing on Cadillac-Reformers in a
   calm, sunlit space
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## New Queens Studio Focuses on Personalized Pilates Experience
 

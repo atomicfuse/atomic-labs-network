@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Travelers use a calm remote airport terminal with baggage drop and shuttle
   access at dawn.
+topics:
+  - News
 ---
 ## Revolutionary Airport Experience Launches in Massachusetts
 

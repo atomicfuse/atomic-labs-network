@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Tourists crowd a vast plaza while a small distant monument feels overshadowed
   by the surroundings.
+topics:
+  - Destinations
 ---
 
 Tourism offers a wealth of experiences, from iconic landmarks to hidden gems. However, not every attraction lives up to the hype. Certain well-known destinations might surprise visitors with their underwhelming reality. Let's explore some U.S. tourist attractions that often leave travelers feeling disappointed.

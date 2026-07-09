@@ -40,6 +40,8 @@ quality_note: >-
   Well-written article with appropriate tone and accurate content, but
   significantly under target word count at 318 words versus the 800-1200 range.
 image_alt: 'Person practicing a gentle seated yoga twist in a softly lit, calming room.'
+topics:
+  - Yoga Poses
 ---
 
 Feeling bloated or struggling with trapped air in your chest or belly can be uncomfortable. Luckily, yoga offers a natural way to support digestion and encourage the release of trapped air. This 20-minute gentle yoga flow is perfect for those seeking relief from gas and bloating through mindful movement.

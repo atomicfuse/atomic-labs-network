@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Unbranded LEGO-style Formula 1 model on a workbench with detailed suspension
   and engine parts
+topics:
+  - Reviews
 ---
 
 The world of motorsports is about to witness a fascinating addition with the introduction of the Audi Revolut F1 Team R26 race car model. This latest set from LEGO Technic promises not only a thrilling building experience but also a remarkable piece for both car enthusiasts and collectors alike. Let's delve into the features of this intricate model that brings the excitement of Formula 1 racing into your own home.

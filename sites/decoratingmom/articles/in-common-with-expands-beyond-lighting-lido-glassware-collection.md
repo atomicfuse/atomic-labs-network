@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Artful glassware on a modern dining table beneath warm sculptural lighting in
   a refined interior
+topics:
+  - Interior Design
 ---
 ## Lighting Studio Ventures Into New Territory
 

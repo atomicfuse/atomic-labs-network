@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Minimal desk setup with abstract task cards suggesting a return to simpler
   productivity tools
+topics:
+  - Tech
 ---
 
 In the digital age, staying organized is paramount. Task management apps like Microsoft To Do and Google Tasks have become essential tools for individuals striving to boost productivity. Both applications offer unique features and functionalities, making it crucial to understand their strengths and differences to choose the right one for your needs.

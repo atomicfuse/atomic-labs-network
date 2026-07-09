@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Focused ER doctor in scrubs stands before a long, softly lit hospital
   corridor.
+topics:
+  - TV & Movies
 ---
 ## HBO's Medical Drama Breaks Modern Streaming Conventions
 

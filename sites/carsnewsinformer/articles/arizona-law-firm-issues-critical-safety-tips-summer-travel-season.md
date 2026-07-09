@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Busy Arizona highway with cars, an RV, motorcycles, and a semi-truck under
   bright desert sun
+topics:
+  - News
 ---
 ## Arizona Roads Face Increased Risks During Peak Travel Season
 

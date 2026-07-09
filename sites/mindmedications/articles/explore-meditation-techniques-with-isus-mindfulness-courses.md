@@ -45,6 +45,10 @@ quality_note: >-
   Strong topic alignment and tone but significantly too short at 412 words when
   target is 800-1200 words, limiting overall effectiveness.
 image_alt: Diverse university community meditating together in a sunlit wellness room
+topics:
+  - Mindfulness
+  - Personal Growth
+  - Wellness
 ---
 
 The Illinois State University (ISU) community is embracing the transformative power of mindfulness and meditation through innovative courses designed to enhance mental well-being. This initiative is opening new avenues for students, faculty, and staff to engage in practices that promote peace and clarity in their daily lives.

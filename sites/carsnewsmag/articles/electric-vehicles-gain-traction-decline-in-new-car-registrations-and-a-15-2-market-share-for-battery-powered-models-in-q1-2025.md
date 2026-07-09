@@ -36,6 +36,9 @@ quality_note: >-
   Strong topic relevance and tone but significantly under target word count at
   393 words versus the 800-1200 target range.
 image_alt: Sleek electric car charging in a quiet dealership lot at dusk
+topics:
+  - News
+  - Electric Cars
 ---
 ## Electric Vehicle Market Shows Resilience in Q1 2025
 

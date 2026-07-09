@@ -33,6 +33,9 @@ reading_time: 2
 image_alt: >-
   Moody empty TV studio with warm lighting, glass offices, and silhouetted
   executives suggesting media drama.
+topics:
+  - Streaming
+  - Recommendations
 ---
 ## The Appeal of Workplace Drama Television
 

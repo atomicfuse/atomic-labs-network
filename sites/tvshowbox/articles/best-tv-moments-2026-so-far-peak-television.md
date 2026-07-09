@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Cinematic split-screen collage of dramatic, romantic, and tense fictional TV
   moments
+topics:
+  - TV News
 ---
 ## The Year's Most Unforgettable Television Moments
 

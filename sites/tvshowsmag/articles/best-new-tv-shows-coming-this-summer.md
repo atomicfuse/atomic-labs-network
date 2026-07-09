@@ -36,6 +36,9 @@ quality_note: >-
 image_alt: >-
   Summer dusk living room lit by an abstract TV glow, suggesting new shows
   arriving soon.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Please paste the full source article text, and I'll return a fully original, JSON-safe, single-line HTML article with the required SEO formatting.

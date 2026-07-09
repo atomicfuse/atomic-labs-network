@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Dark gaming server room with alert lighting and an abandoned headset
   suggesting a cyber shutdown.
+topics:
+  - Tech
 ---
 
 In the dynamic world of online gaming, maintaining security is paramount. Recently, Ubisoft took decisive action to protect its popular game, Rainbow Six Siege, by temporarily suspending its servers. This move was in response to a significant breach that threatened the game's integrity and player experience. With cyber threats becoming increasingly sophisticated, game developers are finding it essential to implement robust security measures to safeguard their platforms.

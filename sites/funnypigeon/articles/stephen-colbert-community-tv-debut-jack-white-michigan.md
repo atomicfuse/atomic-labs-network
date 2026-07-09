@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   A suited TV host steps from a polished late-night set into a quirky local
   studio with a guitarist nearby.
+topics:
+  - Viral
 ---
 ## From Network TV to Community Access
 

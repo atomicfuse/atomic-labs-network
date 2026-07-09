@@ -34,6 +34,8 @@ quality_note: >-
   from poor keyword alignment as it focuses on human evolution rather than the
   site's core topics of Space, Nature, Physics, Technology, and Environment.
 image_alt: 'Ancient hand, stone tool, and fossil clues on a warm archaeological surface'
+topics:
+  - Space
 ---
 
 Most people reach, write, cut, throw, and point with the right hand. That familiar pattern is not a small quirk of modern life. Around 90 percent of humans are right-handed, and ancient evidence suggests this bias reaches deep into our evolutionary past.

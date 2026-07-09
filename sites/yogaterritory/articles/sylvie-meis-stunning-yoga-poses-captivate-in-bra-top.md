@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Woman practicing a graceful yoga pose in a calm sunlit studio with plants and
   soft natural light.
+topics:
+  - Yoga Poses
 ---
 
 In the age of social media, fitness enthusiasts and celebrities alike are leveraging platforms like Instagram to inspire and connect with their audiences. One such personality making waves is Sylvie Meis, a well-known television presenter and model, who recently shared a striking yoga pose on her Instagram account. Her post has not only captivated her followers but also sparked interest in the benefits of yoga and fitness.

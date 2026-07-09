@@ -32,6 +32,8 @@ quality_note: >-
   like meta description length.
 reading_time: 3
 image_alt: 'Unbranded off-road SUV on a rugged trail with rocks, mud, and mountain terrain'
+topics:
+  - Reviews
 ---
 ## What Does 4L Mean?
 

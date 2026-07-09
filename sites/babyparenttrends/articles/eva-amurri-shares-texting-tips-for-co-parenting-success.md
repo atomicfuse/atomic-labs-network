@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Sunlit family calendar and phones on a kitchen table as children play in the
   background
+topics:
+  - Kids
 ---
 
 Eva Amurri, an actress and lifestyle blogger, is navigating the complexities of co-parenting with her ex-husband, Kyle Martino. As they continue to prioritize their children's well-being, Eva has been candid about the challenges and triumphs they face in this journey. Co-parenting during the summer months presents its own unique set of opportunities and hurdles, which Eva discusses with openness and insight.

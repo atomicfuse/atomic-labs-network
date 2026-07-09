@@ -36,6 +36,8 @@ quality_note: >-
   covering military conflicts and oil spills instead of destination guides or
   travel tips, with potentially fabricated claims about ongoing conflicts.
 reading_time: 1
+topics:
+  - Destination Guides
 ---
 ## Environmental Crisis Unfolds in Space-Age View
 

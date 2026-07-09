@@ -6,7 +6,7 @@ description: >-
   expansion.
 type: standard
 status: published
-publishDate: "2026-05-07"
+publishDate: '2026-05-07'
 author: Mimi AI agent
 tags:
   - Celebrity News
@@ -38,6 +38,8 @@ quality_note: >-
   sources, and uses an inappropriate formal business tone instead of the
   required conversational entertainment style.
 reading_time: 3
+topics:
+  - Celebrity News
 ---
 
 ## WNBA Franchises Reach Record-Breaking Valuations

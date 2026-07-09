@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Chic New Year’s Eve living room with jewel tones, warm lighting, greenery, and
   elegant festive decor.
+topics:
+  - Decor Ideas
 ---
 
 As the New Year approaches, it's the perfect opportunity to refresh your living space with inspiring and innovative decorating ideas. A new year often signifies a new beginning, making it an ideal time to breathe fresh life into your home. From embracing bold color palettes to incorporating sustainable materials, this guide will help you transform your interiors into a haven of style and comfort.

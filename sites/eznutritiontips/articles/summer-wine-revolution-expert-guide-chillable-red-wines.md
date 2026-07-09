@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Chilled red wine glasses and a condensation-covered bottle on a sunny summer
   patio table.
+topics:
+  - Nutrition Tips
 ---
 ## Breaking the Red Wine Temperature Myth
 

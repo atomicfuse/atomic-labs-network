@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Passenger using connected devices in a modern airplane cabin with subtle
   wireless signal visuals
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 American Airlines is planning to test complimentary inflight Wi-Fi starting next week as pressure mounts on carriers to offer the service free of charge.

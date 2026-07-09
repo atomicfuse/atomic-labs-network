@@ -39,6 +39,8 @@ quality_note: >-
   it suffers from poor SEO optimization, insufficient length, and lacks specific
   factual details about the actual album or songs.
 image_alt: A lone guitarist sits in a warm studio surrounded by five soft pools of light.
+topics:
+  - Music
 ---
 
 Colin Hay, the iconic frontman of Men at Work, continues to captivate audiences with his latest solo album. This new collection of songs showcases his exceptional ability to weave storytelling with melodic brilliance. Each track on the album offers a glimpse into Hay's artistic journey, presenting both introspective themes and wide-ranging sounds that appeal to fans both old and new.

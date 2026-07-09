@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Sparkling wine, oysters, and caviar on a sunlit coastal terrace near vineyards
   and sailboats.
+topics:
+  - Nutrition Tips
 ---
 ## A New Era of Wine Tourism
 

@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Modern living room TV with abstract streaming tiles symbolizing uninterrupted
   access to shows
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 In a significant development for streaming enthusiasts, Google and NBCUniversal have successfully negotiated a new agreement to ensure NBCUniversal's popular shows remain available on YouTube TV. This deal, reached after intense discussions, is set to impact millions of subscribers who rely on YouTube TV for their entertainment needs.

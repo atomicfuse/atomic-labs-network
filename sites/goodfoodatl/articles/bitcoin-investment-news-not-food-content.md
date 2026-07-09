@@ -33,6 +33,9 @@ quality_note: >-
   This is a meta-editorial note rejecting off-topic content rather than actual
   food-related content, resulting in very poor scores across most criteria
   despite appropriate tone and accuracy.
+topics:
+  - Food Culture
+  - Recipes & Cooking
 ---
 I notice this article is about Bitcoin investments and cryptocurrency trading, which doesn't align with Good Food's focus on recipes, cooking, restaurant reviews, nutrition tips, and food culture.
 

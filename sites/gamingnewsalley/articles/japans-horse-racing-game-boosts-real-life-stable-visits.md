@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Visitor in a Japanese racing stable with a glowing phone near a calm racehorse
   at dusk
+topics:
+  - Gaming News
 ---
 
 In recent years, the gaming industry has witnessed remarkable growth with innovative titles captivating global audiences. One such game making waves is "Umamusume: Pretty Derby," a unique blend of horse racing and anime-inspired characters that has gained significant popularity. Set in a vibrant world where players can train and manage horse-girl characters, this game offers an immersive experience that extends beyond traditional gaming.

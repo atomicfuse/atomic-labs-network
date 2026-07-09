@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A frazzled man stands amid Christmas decorations and baby toys in a chaotic
   cozy living room.
+topics:
+  - TV News
 ---
 
 Netflix has once again captured the attention of comedy enthusiasts with its latest series, starring the inimitable Rowan Atkinson. Known for his iconic roles in shows like "Mr. Bean," Atkinson steps into a new comedic venture that explores the trials and tribulations of parenthood in "Man vs Baby." This series combines humor with relatable family dynamics, offering viewers a delightful escape.

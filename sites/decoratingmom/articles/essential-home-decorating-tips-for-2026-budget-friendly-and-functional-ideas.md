@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Stylish functional living room with modular furniture, plants, storage, and
   warm budget-friendly decor
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Transforming your home into a stylish and functional space doesn't have to be a daunting task. With the right tips and tricks, you can enhance your decor to reflect your personal style while keeping functionality in mind. In this article, we'll explore some of the best decorating tips for 2026, focusing on function, budget, and scale to help you create a beautiful and harmonious living environment.

@@ -37,6 +37,8 @@ reading_time: 2
 image_alt: >-
   Two silhouetted figures separated by glass amid warm and cool political
   lighting
+topics:
+  - Celebrities
 ---
 ## Tech Billionaire's Personal Catalyst Revealed
 

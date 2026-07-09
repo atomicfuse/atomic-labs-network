@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Ash-dusted Pompeii ruins at dawn with an oil lamp and Vesuvius in the
   distance.
+topics:
+  - Space
 ---
 
 In a remarkable discovery, archaeologists have unearthed compelling evidence that life persisted in Pompeii after the catastrophic eruption of Mount Vesuvius in 79 AD. This groundbreaking finding offers new insights into how the ancient city adapted and survived in the wake of a natural disaster that buried it under volcanic ash and pumice.

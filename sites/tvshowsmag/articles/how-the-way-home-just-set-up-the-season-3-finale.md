@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Moody twilight scene with silhouetted figures near a farmhouse and reflective
   pond.
+topics:
+  - TV News
 ---
 
 **[Warning: The below contains MAJOR spoilers for *The Way Home* Season 3 Episode 9 "Too Late to Turn Back Now."]**

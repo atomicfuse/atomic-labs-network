@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Calm bull on a dark trading floor with faint market chart shapes suggesting
   quiet tension
+topics:
+  - Smart Shopping
 ---
 ## Massive Volume Decline Raises Recovery Questions
 

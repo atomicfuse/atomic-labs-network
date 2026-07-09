@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Futuristic game world forming from luminous data streams as a developer
   watches
+topics:
+  - Gaming
+  - Tablets
 ---
 ## AI Revolution Transforms Game Development Industry
 

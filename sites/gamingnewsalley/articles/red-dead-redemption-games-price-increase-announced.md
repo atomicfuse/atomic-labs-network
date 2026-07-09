@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Cowboy hat and game controller on a dusty table with coins, suggesting rising
   game prices.
+topics:
+  - Gaming News
 ---
 
 In an unexpected move that caught the gaming community's attention, Rockstar Games has revised the pricing of its popular titles, Red Dead Redemption and Red Dead Redemption 2, across various global markets. This adjustment, which began as early as April, reflects a strategic shift in the company's pricing policy, impacting gamers worldwide.

@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Pilates class in a warm studio with two instructors guiding a mindful group
   stretch.
+topics:
+  - Mindfulness
+  - Wellness
 ---
 ## A New Approach to Mind-Body Connection
 

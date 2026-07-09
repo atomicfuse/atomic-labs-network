@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Unbranded smartphone with glowing floating frames suggesting AI-powered photo
   reframing.
+topics:
+  - Tech
 ---
 ## Apple Intelligence Transforms Post-Capture Photography
 

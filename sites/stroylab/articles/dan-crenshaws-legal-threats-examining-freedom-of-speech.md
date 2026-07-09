@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   A microphone stands in a courthouse corridor under the shadow of a legal
   briefcase.
+topics:
+  - Conspiracies
+  - Dark History
+  - Deep Dives
 ---
 
 In recent news, a controversy has arisen surrounding Representative Dan Crenshaw and his response to questions about his finances. This situation highlights the ongoing tension between public figures and the freedom of speech, a fundamental right guaranteed by the First Amendment of the United States Constitution.

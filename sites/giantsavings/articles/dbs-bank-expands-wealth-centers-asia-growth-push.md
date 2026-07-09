@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Luxury banking lounge overlooking an Asian financial district with subtle
   network lights suggesting regional growth.
+topics:
+  - Smart Shopping
 ---
 ## DBS Announces Massive Wealth Management Expansion
 

@@ -35,6 +35,8 @@ quality_note: >-
 image_alt: >-
   Wine cocktail on a dim lounge table with soft jazz ambiance and warm evening
   lighting
+topics:
+  - Wine news
 ---
 ## The Art of Evening Relaxation
 

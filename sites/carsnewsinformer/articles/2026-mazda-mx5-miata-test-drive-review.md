@@ -33,6 +33,8 @@ quality_note: >-
   exist yet.
 reading_time: 3
 image_alt: Silver two-seat roadster driving along a curving mountain road at golden hour
+topics:
+  - Reviews
 ---
 ## A Timeless Formula Refined
 

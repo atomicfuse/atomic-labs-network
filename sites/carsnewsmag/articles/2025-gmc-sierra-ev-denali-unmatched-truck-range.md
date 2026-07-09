@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Futuristic electric pickup on an open sunrise highway suggesting long range
   and sustainable power.
+topics:
+  - Electric Cars
 ---
 
 The 2025 GMC Sierra EV Denali is poised to revolutionize the electric truck market with its remarkable features and capabilities. As an embodiment of innovation and power, this all-electric vehicle sets a new standard for distance and performance in the truck industry. This article delves into the key aspects that make the 2025 GMC Sierra EV Denali a standout choice for those seeking a sustainable yet powerful driving experience.

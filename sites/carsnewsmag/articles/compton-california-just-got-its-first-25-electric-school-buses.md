@@ -45,6 +45,8 @@ quality_note: >-
   extremely short length (240 words vs 800-1200 target) significantly impacts
   overall quality and SEO potential.
 image_alt: Electric school buses charging at dawn in a Southern California depot.
+topics:
+  - Electric Cars
 ---
 
 Compton, California, has unveiled 25 new electric school buses – the school district's first – and 25 [Tellus](https://telluspowernorthamerica.com/) 180 kW DC fast chargers.

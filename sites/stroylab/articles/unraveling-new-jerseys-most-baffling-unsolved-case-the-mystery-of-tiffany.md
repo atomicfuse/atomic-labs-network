@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Rainy New Jersey street at dusk with an empty sidewalk and open gate, evoking
   an unsolved disappearance.
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 New Jersey has been the backdrop for many mysteries, but none as perplexing as the unsolved case of Tiffany's disappearance. This case, filled with unanswered questions and puzzling details, has haunted the minds of investigators and her family for years. Despite numerous investigations and theories, Tiffany's mystery remains unsolved, leaving many to wonder what really happened.

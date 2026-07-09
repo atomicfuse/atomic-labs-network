@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   A lone yellow star contrasts with distant paired stars and a small shadowed
   exoplanet in deep space.
+topics:
+  - Tech
 ---
 ## Our Sun is the Exception, Not the Rule
 

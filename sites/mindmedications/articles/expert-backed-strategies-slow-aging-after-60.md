@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Active older adult climbs sunlit steps with a water bottle, surrounded by
   greenery.
+topics:
+  - Lifestyle
+  - Mindfulness
+  - Wellness
 ---
 ## The Science Behind Accelerated Aging at 60
 

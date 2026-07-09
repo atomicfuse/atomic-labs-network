@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Dim newsroom control room with blurred screens showing symbols of major
   national headlines.
+topics:
+  - Celebrities
 ---
 
 ABC World News Tonight with David Muir aired a comprehensive broadcast on May 21, 2025, covering a range of impactful news stories from around the globe.

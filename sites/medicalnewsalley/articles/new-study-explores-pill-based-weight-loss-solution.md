@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Unbranded capsule on a lab surface with softly glowing abstract cells in warm
   light.
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 In the quest to combat obesity, scientists have been exploring innovative ways to replicate the effects of weight loss without traditional diet and exercise. Recent research into the behavior of fat cells offers promising insights, potentially paving the way for a revolutionary weight management pill.

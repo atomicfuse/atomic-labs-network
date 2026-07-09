@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Unbranded food cargo boxes await inspection in a quiet airport freight area at
   dawn.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Food recalls often make headlines when contaminated or mislabeled products reach consumers—but what about the recalls that happen *before* a product ever lands on store shelves?

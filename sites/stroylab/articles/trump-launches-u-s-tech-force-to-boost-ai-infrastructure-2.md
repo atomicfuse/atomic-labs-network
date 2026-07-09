@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted officials in a high-tech briefing room with glowing servers and an
   abstract AI network map
+topics:
+  - Deep Dives
 ---
 
 The dynamics of global governance have witnessed significant shifts in recent years, with the World Economic Forum (WEF) playing a pivotal role. This influential organization has been at the forefront of shaping policies and initiatives that impact economic and social landscapes worldwide.

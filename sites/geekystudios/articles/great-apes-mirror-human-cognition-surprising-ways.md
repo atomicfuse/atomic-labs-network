@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Great ape gazes through glass toward researchers and other apes in a
   contemplative research setting.
+topics:
+  - Tech
 ---
 ## Revolutionary Findings Challenge Assumptions About Primate Intelligence
 

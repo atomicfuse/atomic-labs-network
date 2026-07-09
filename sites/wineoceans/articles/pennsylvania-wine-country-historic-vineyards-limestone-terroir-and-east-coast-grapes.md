@@ -1,27 +1,49 @@
 ---
-title: "Pennsylvania Wine Country: Historic Vineyards, Limestone Terroir, and East Coast Grapes"
-description: "Pennsylvania wine predates the United States, with roots reaching back to William Penn's 1683 vineyard. This guide explores the state's Appalachian limestone soils, Atlantic influence, and modern wines such as Chambourcin and Cabernet Franc."
-type: "standard"
-status: "published"
-publishDate: "2026-05-07T09:09:55+00:00"
-author: "Taylor Winters"
+title: >-
+  Pennsylvania Wine Country: Historic Vineyards, Limestone Terroir, and East
+  Coast Grapes
+description: >-
+  Pennsylvania wine predates the United States, with roots reaching back to
+  William Penn's 1683 vineyard. This guide explores the state's Appalachian
+  limestone soils, Atlantic influence, and modern wines such as Chambourcin and
+  Cabernet Franc.
+type: standard
+status: published
+publishDate: '2026-05-07T09:09:55+00:00'
+author: Taylor Winters
 tags:
-  - "Wine news"
-  - "Wine for beginners"
-  - "Wine"
-  - "Wine Tasting"
-  - "Wine Types"
-slug: "pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes"
+  - Wine news
+  - Wine for beginners
+  - Wine
+  - Wine Tasting
+  - Wine Types
+slug: >-
+  pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes
 reading_time: 5
-source_url: "https://wineoceans.com/pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes/"
-imported_from: "wordpress"
+source_url: >-
+  https://wineoceans.com/pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes/
+imported_from: wordpress
 wp_original_id: 19045
-featuredImage: "/assets/images/pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes.webp"
+featuredImage: >-
+  /assets/images/pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes.webp
 seo:
-  canonical: "https://wineoceans.com/pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes/"
-  og_title: "Pennsylvania Wine Country: Historic Vineyards, Limestone Terroir, and East Coast Grapes - Wine Oceans"
-  og_description: "Pennsylvania wine predates the United States, with roots reaching back to William Penn’s 1683 vineyard. This guide explores the state’s Appalachian limestone soils, Atlantic influence, and modern wines such as Chambourcin and Cabernet Franc."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wineoceans.com/pennsylvania-wine-country-historic-vineyards-limestone-terroir-and-east-coast-grapes/
+  og_title: >-
+    Pennsylvania Wine Country: Historic Vineyards, Limestone Terroir, and East
+    Coast Grapes - Wine Oceans
+  og_description: >-
+    Pennsylvania wine predates the United States, with roots reaching back to
+    William Penn’s 1683 vineyard. This guide explores the state’s Appalachian
+    limestone soils, Atlantic influence, and modern wines such as Chambourcin
+    and Cabernet Franc.
+  twitter_card: summary_large_image
+topics:
+  - Wine news
+  - Wine for beginners
+  - Wine tips
+  - Wine reviews
+  - Wine recipes
 ---
 
 Some American wine drinkers still assume that serious wine must come from dry, Mediterranean-style climates, especially regions like California. Pennsylvania challenges that assumption with a wine story that reaches back before the United States existed and continues today through distinctive East Coast vineyards, hybrid grapes, and European varieties.

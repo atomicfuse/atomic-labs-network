@@ -42,6 +42,8 @@ quality_note: >-
   reviews, the extremely short length (63 words vs 800-1200 target) and lack of
   SEO optimization severely limit its value.
 image_alt: Game controller on a dugout bench under dramatic stadium lights
+topics:
+  - Reviews
 ---
 
 *MLB The Show 25 reviewed by Justin Koreis on PlayStation 5, also available on Xbox Series X|S and Switch.*

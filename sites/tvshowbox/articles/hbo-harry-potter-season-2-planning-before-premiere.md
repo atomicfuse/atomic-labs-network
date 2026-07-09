@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Young students face a glowing ancient door beside a table of blank production
   plans.
+topics:
+  - TV News
+  - Streaming
 ---
 ## HBO Fast-Tracks Season 2 Development
 

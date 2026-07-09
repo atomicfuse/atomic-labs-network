@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Doctor and patient review a glowing medical interface in a bright modern
   clinic
+topics:
+  - Research
+  - Drugs
 ---
 
 As the curtain rises on 2024, we can anticipate a plethora of medical advancements that promise to revolutionize healthcare. These breakthroughs, which are a testament to the innovative spirit of the medical community, have the potential to transform lives and alter the landscape of healthcare.

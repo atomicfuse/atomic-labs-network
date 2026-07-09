@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A guitar, notebook, and microphone on a moody winter-lit stage with warm
   lights and New Orleans atmosphere.
+topics:
+  - Music
 ---
 
 Hurray for the Riff Raff, the brainchild of Alynda Segarra, continues to captivate audiences with their unique blend of folk, rock, and storytelling. Embarking on a new musical chapter, Segarra reflects the evolution of their sound and the profound themes found in their latest work. This journey highlights not only a deep connection to their roots but also a commitment to addressing pressing social issues through music.

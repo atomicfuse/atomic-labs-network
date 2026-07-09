@@ -37,6 +37,9 @@ reading_time: 3
 image_alt: >-
   Candlelit colonial room with a shadowed figure and eerie mushrooms creeping
   through the floorboards
+topics:
+  - TV Shows
+  - Streaming
 ---
 ## Colonial Horror Meets Comedy in 'Widow's Bay's' Bold Midseason Turn
 

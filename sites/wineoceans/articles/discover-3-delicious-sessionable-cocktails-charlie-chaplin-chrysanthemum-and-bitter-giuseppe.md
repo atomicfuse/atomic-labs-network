@@ -38,6 +38,8 @@ quality_note: >-
   focusing on cocktails instead of wine, and contains vague content without
   specific recipes or concrete details.
 image_alt: Three elegant cocktails on a dark wood bar in warm afternoon light.
+topics:
+  - Wine news
 ---
 ## Exploring Sessionable Cocktails for Modern Drinkers
 

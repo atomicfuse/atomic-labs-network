@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Indie game developers gather around glowing monitors in a purple-lit
   convention space.
+topics:
+  - Gaming News
 ---
 ## Portland's Creative Gaming Hub Takes Center Stage
 

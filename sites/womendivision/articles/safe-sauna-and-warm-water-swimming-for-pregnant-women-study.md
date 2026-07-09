@@ -45,6 +45,10 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under target word count and lacks specific study citations for credibility.
 image_alt: Pregnant woman relaxing beside a warm indoor pool in a calm wellness setting
+topics:
+  - Advice
+  - Fitness
+  - Lifestyle
 ---
 
 Pregnancy is a time when women receive a lot of advice regarding what activities to embrace or avoid. One area often surrounded by caution is the use of saunas and warm water swimming. Recent research, however, is shedding new light on this topic, offering reassuring news for expectant mothers.

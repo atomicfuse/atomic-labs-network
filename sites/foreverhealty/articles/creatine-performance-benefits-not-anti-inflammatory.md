@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Creatine shaker and powder on a gym bench with soft scientific lighting in the
   background
+topics:
+  - Nutrition & Diet
 ---
 ## Performance Benefits Confirmed, Anti-Inflammatory Claims Questioned
 

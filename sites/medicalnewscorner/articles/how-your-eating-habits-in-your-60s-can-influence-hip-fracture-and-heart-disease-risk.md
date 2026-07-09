@@ -50,6 +50,8 @@ quality_note: >-
   target and contains potentially fabricated statistics without proper
   attribution.
 image_alt: Older couple preparing a colorful plant-based meal in a bright kitchen
+topics:
+  - Research
 ---
 
 Are you approaching your 60s and worried about potential health issues like fractures and heart complications? Well, you might be looking in the right direction when you think about tweaking your diet. Recent research points to diet as a crucial factor that can help you steer clear of these health concerns in your golden years.

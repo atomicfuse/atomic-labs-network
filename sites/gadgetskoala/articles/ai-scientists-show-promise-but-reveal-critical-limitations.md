@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Translucent AI-like form hovering above a scientist’s illuminated lab sample
   in a dark research setting.
+topics:
+  - Gadgets
+  - Tablets
 ---
 ## The Rise of AI-Powered Scientific Discovery
 

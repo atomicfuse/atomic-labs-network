@@ -27,6 +27,8 @@ seo:
   og_image: 'https://fashionnewsbee.com/wp-content/uploads/2026/05/make_file-4.jpeg'
   twitter_card: summary_large_image
 image_alt: Model wearing floral embroidered jeans in a sunny summer street setting
+topics:
+  - Fashion
 ---
 
 Floral jeans are shaping up to be one of summer's easiest wardrobe refreshes, offering the same reliability as classic denim with a softer, more playful finish. From delicate embroidered blooms to bold printed flowers, this trend brings colour, texture, and personality to everyday outfits without feeling overly dressed up.

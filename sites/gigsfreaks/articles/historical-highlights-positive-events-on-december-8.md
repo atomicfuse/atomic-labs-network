@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Sunlit historical objects symbolize treaties, science, art, and human progress
   across time.
+topics:
+  - Good Vibes
 ---
 
 On this day, history has witnessed many remarkable events that have shaped the world as we know it. From pivotal political decisions to groundbreaking scientific achievements, December 8th has consistently been a date of significance across various fields.

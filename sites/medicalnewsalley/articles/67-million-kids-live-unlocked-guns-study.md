@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Half-open household drawer near a child's backpack suggests the risk of
   unsecured firearms at home.
+topics:
+  - Health News
 ---
 ## Alarming Rise in Unsafe Gun Storage
 

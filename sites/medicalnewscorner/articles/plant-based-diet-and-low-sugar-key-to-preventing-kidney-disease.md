@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Plant-based meal in soft light suggesting kidney-friendly nutrition and lower
   sugar choices.
+topics:
+  - Health News
 ---
 
 Recent research suggests that incorporating more plant-based foods into your diet while reducing meat consumption could significantly lower the risk of developing kidney disease. This dietary approach not only supports renal health but also contributes to overall well-being by providing essential nutrients that meat-heavy diets might lack.

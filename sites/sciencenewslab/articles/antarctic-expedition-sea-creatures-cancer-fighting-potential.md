@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Antarctic researcher holds a glowing marine sample beside a dive hole on sea
   ice.
+topics:
+  - Nature
 ---
 ## Diving Into Antarctica's Frozen Waters for Cancer Research
 

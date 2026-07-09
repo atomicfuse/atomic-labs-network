@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Sustainable city towers with rain-cooled building skin and copper-toned
   hydrogen technology in the foreground
+topics:
+  - Tech
 ---
 ## Revolutionary Building Coating Meets Nature-Inspired Design
 

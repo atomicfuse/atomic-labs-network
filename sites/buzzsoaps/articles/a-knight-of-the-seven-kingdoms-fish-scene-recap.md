@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Armored knight and young squire beside fish baskets at a misty medieval river
   market.
+topics:
+  - Watch
 ---
 
 In the captivating world of Westeros, the enthralling prequel series "A Knight of the Seven Kingdoms" continues to weave its intricate tale in the second episode. This episode delves deeper into the lives of our protagonists, exploring their challenges and the ever-present conflicts that define their existence. As the plot thickens, viewers are drawn into a narrative filled with tension, loyalty, and the complexities of power dynamics.

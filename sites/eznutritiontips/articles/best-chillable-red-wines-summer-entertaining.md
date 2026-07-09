@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Chilled red wine glasses on a sunny patio table with summer snacks and an ice
   bucket
+topics:
+  - Nutrition Tips
 ---
 ## Breaking the Red Wine Temperature Myth
 

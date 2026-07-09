@@ -33,6 +33,9 @@ quality_note: >-
   short on length requirements and contains vague claims that could benefit from
   more specific supporting details.
 reading_time: 3
+topics:
+  - Destinations
+  - Food & Drink
 ---
 ## Cork Stakes Its Claim as Ireland's Culinary Capital
 

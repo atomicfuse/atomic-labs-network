@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Abstract lab scene with hidden glowing cells suggesting dormant colorectal
   cancer recurrence risk
+topics:
+  - Research
 ---
 
 Colorectal cancer can return even after successful treatment, and scientists are increasingly focused on why. New research points to a small group of stem-like cancer cells that may survive therapy, hide in the body, and later help tumors grow again.

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Empty concert stage with instruments, colored lights, and futuristic soundwave
   effects
+topics:
+  - Music
 ---
 
 The music industry is bracing itself for an exciting year as 2026 promises to deliver an array of highly anticipated album releases. With a diverse lineup of artists spanning multiple genres, fans are eagerly awaiting what these musical talents have in store. This year is set to be a landmark for music lovers, as both seasoned musicians and fresh faces prepare to drop new projects that might just redefine the soundscape.

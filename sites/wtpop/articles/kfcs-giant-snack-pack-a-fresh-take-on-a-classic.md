@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Crispy fried chicken and fries in a snack box styled with warm editorial
   lighting
+topics:
+  - Influencers
 ---
 
 KFC enthusiasts, rejoice! The beloved $6.95 Giant Snack Pack has made a comeback. Known for its generous portions and mouth-watering flavors, this snack pack has been a favorite for many. Today, we're diving into what makes this returning item worth the hype and how it compares to its previous version from two years ago.

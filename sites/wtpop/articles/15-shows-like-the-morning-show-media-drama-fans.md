@@ -33,6 +33,8 @@ reading_time: 2
 image_alt: >-
   Tense late-night newsroom scene with media professionals and warm cinematic
   lighting
+topics:
+  - TV & Movies
 ---
 ## The Best Alternative Shows for Morning Show Enthusiasts
 

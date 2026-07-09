@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Small home mining device glowing on a desk with industrial server racks
   blurred behind it
+topics:
+  - Smart Shopping
 ---
 ## The Ultimate Underdog Victory
 

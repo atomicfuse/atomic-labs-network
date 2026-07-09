@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Misty night ocean with a research vessel, underwater ripples, and searchlights
   suggesting a hidden mystery
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 Unsolved mystery videos continue to capture attention because they sit at the edge of what people know, what they suspect, and what they cannot yet prove. The title of this video, *15 Strangest Unsolved Mysteries That Cannot Be Explained In 2026*, sets the tone for a collection built around unanswered questions, strange claims, and the enduring appeal of stories that remain outside ordinary explanation.

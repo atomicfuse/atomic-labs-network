@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   High-protein Indian meal prep spread on a bright kitchen counter with a woman
   packing lunch nearby.
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## The Protein Gap in Traditional Indian Meals
 

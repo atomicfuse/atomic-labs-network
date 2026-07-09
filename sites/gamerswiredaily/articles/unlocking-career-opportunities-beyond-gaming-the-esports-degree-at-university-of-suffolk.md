@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Students collaborate in a modern esports lab with gaming, broadcast, and
   analytics equipment.
+topics:
+  - Gaming News
 ---
 
 Imagine a world where the common cold becomes a distant memory — a world where a single pill could swiftly and effectively fight off the virus. Such a world could soon exist, thanks to a groundbreaking discovery in the realm of medical science. A team of British researchers has made an unprecedented breakthrough, identifying a protein that the common cold virus needs to survive. This new discovery could pave the way for novel treatments, allowing us to conquer the common cold once and for all.

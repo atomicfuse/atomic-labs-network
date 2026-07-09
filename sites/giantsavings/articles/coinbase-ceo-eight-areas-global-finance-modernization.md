@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   A smartphone emits blue digital finance rails and token-like nodes across a
   modern fintech background.
+topics:
+  - Smart Shopping
 ---
 ## The Push for Financial System Modernization
 

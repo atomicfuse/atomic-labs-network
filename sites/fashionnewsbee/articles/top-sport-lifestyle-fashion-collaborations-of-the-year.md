@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Diverse friends in vibrant athletic streetwear pose on a sunny rooftop with an
   open sky behind them.
+topics:
+  - Fashion
 ---
 
 PUMA, a global leader in sportswear, has partnered with the Los Angeles-based wellness brand Madhappy to launch a new collection that merges fashion with mental health awareness. This collaboration brings together PUMA's rich heritage in athletic apparel with Madhappy's mission to foster positivity and mental well-being through innovative fashion.

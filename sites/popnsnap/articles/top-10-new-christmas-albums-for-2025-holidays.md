@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Festive record player spinning beside a glowing Christmas tree in a cozy
   holiday room
+topics:
+  - Music
 ---
 
 As the holiday season approaches, music enthusiasts eagerly anticipate the release of new Christmas albums to bring festive cheer to their celebrations. This year's lineup is packed with diverse offerings, ranging from classic covers to innovative originals, ensuring there's something for everyone. Whether you're a fan of traditional carols or modern holiday tunes, the latest releases promise to enhance your yuletide experience.

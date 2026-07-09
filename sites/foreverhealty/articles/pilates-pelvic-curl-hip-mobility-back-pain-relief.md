@@ -34,6 +34,8 @@ quality_note: >-
   count and contains vague, unsupported claims throughout.
 reading_time: 3
 image_alt: Desk worker practicing a gentle Pilates pelvic curl in a calm home studio
+topics:
+  - Fitness & Movement
 ---
 ## The Overlooked Pilates Move That's Not a Glute Bridge
 

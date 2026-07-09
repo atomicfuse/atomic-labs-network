@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Footballers sprint for a loose ball under floodlights with a trophy silhouette
   in the distance.
+topics:
+  - Latest News
+  - Match Reports
 ---
 
 In a thrilling encounter that has captivated football fans, Manchester United recently secured a dramatic victory against Macclesfield in a match that showcased both skill and determination. This exciting clash highlighted the unpredictable nature of football and the passion it ignites among supporters worldwide.

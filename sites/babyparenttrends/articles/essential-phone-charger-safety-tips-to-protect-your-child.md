@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Parent keeps a young child safely away from a phone charger near a living room
   outlet.
+topics:
+  - Parenting
 ---
 
 In today's digital age, electronic devices have become an integral part of daily life, especially for children. However, the convenience of gadgets comes with its own set of dangers, as demonstrated by a recent incident involving a young child and a phone charger. This alarming event highlights the need for parents to be aware of the potential hazards associated with electronic device usage and to implement effective safety measures.

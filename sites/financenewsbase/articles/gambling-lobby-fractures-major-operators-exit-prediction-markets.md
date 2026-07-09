@@ -6,7 +6,7 @@ description: >-
   crucial...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -37,6 +37,8 @@ quality_note: >-
   under target word count and contains some unverifiable claims about specific
   departures and hearing details.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Industry Unity Crumbles Over Prediction Markets Dispute

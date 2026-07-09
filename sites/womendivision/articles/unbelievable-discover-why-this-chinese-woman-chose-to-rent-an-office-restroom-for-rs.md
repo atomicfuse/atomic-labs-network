@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   A small office restroom repurposed with bedding and belongings beside a quiet
   corridor.
+topics:
+  - Lifestyle
 ---
 
 In a surprising turn of events, a woman from China has opted for an unconventional living arrangement. Instead of a traditional home, she's chosen a rented office restroom as her living quarters. Let's delve into the reasons behind this unusual lifestyle choice.

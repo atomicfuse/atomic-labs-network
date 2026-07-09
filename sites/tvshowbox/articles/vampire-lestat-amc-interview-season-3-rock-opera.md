@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Blond vampire rock frontman on a smoky amber-lit stage with gothic theatrical
   details
+topics:
+  - TV News
 ---
 ## A Bold New Direction for the Vampire Chronicles
 

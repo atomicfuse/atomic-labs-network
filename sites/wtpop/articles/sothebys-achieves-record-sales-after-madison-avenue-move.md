@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Elegant Manhattan auction gallery with collectors, contemporary art, and
   subtle digital viewing technology.
+topics:
+  - Celebrities
 ---
 
 Sotheby's, a renowned name in the world of art auctions, continues to set unprecedented records as it transitions to a new location on Madison Avenue. Known for its iconic auctions and prestigious art dealings, Sotheby's recent move marks a new chapter in its storied history. The relocation is not just about changing addresses but also about embracing future opportunities in a dynamic environment.

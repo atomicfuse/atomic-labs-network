@@ -36,6 +36,8 @@ quality_note: >-
   content) and completely fails to match the site's sensitive topics focus,
   making it unsuitable for the target audience despite decent writing quality.
 image_alt: Dusty children's shoes rest beside rubble in a damaged urban street at dawn.
+topics:
+  - Deep Dives
 ---
 
 The ongoing conflict in Ukraine has captured global attention, sparking intense debates about international alliances and military strategies. As the situation evolves, various factors contribute to the growing complexity of the conflict, including geopolitical interests, military aid, and strategic maneuvers by involved nations. This article explores the current dynamics of the Ukraine conflict, focusing on key aspects such as military aid, geopolitical interests, and potential future developments.

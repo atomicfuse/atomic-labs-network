@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Parent and young adult child share a calm conversation on a sunny terrace with
   greenery and city skyline.
+topics:
+  - Parenting
 ---
 ## The Foundation of Mutual Respect
 

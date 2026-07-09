@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Biomedical lab equipment with the Capitol softly visible, symbolizing medical
   research funding decisions.
+topics:
+  - Health News
+  - Medical Research
 ---
 
 In a recent development, U.S. Senator Susan Collins has expressed her concerns about the current administration's approach to funding for medical research. Her inquiry comes amid growing uncertainties about how federal resources are allocated to crucial medical initiatives, particularly concerning the National Institutes of Health (NIH). Collins, known for her bipartisan efforts, seeks clarity on the potential changes that could impact various health programs.

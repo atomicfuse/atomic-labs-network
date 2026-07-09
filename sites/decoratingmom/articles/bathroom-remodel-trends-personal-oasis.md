@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Serene spa-inspired bathroom with soaking tub, warm finishes, soft light, and
   natural textures
+topics:
+  - Budget Decor
+  - DIY Projects
+  - Interior Design
 ---
 ## The Shift Toward Wellness-Focused Bathroom Design
 

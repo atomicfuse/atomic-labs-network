@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Anonymous football forwards sprint under stadium lights with tactical overlays
   suggesting fantasy strategy.
+topics:
+  - Latest News
+  - Leagues
 ---
 
 Fantasy Premier League (FPL) enthusiasts eagerly anticipate each gameweek, looking to optimize their teams and climb the rankings. As we approach Gameweek 22, strategic decisions and player selections become crucial to gaining an edge over competitors.

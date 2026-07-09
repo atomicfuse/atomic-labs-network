@@ -34,6 +34,8 @@ quality_note: >-
   Strait of Hormuz, poor SEO optimization with an overly long title, but
   maintains reasonable tone and length for the target audience.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 
 ## Critical Maritime Passage Remains Blocked

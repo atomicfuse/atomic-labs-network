@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   TV camera frames a tense nighttime police scene with emergency lights and
   deputies behind caution tape.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 In a shocking incident that has captured nationwide attention, a sheriff's deputy was critically injured during a live broadcast of a popular crime-fighting television show. The deputy was assaulted by a suspect whom he was attempting to apprehend. This unfortunate event has sparked discussions about the safety measures in place for law enforcement officers and the ethical considerations of broadcasting live police operations.

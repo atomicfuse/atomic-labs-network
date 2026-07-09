@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Central Florida skyline with upscale residences and subtle broadcast signal
   arcs at golden hour
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 Central Florida is usually viewed through the lens of tourism, housing growth, and theme parks. For investors, however, the region also offers a quieter opportunity inside the local broadcasting business. Graham Holdings, traded on the NYSE under GHC, owns WKMG-TV in Orlando through Graham Media Group. That station gives the company exposure to one of the most active media and advertising markets in the Southeast.

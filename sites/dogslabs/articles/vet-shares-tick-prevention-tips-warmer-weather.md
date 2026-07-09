@@ -33,6 +33,8 @@ quality_note: >-
   credibility.
 reading_time: 3
 image_alt: Pet owner gently checks a calm dog for ticks in a sunny spring park.
+topics:
+  - Breed Guides
 ---
 ## Tick Season Brings New Challenges for Pet Owners
 

@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Parent and child share offline play while a phone rests face-down nearby in a
   sunny living room.
+topics:
+  - Kids
 ---
 
 In today's digital age, children are more connected to technology than ever before. With the increasing prevalence of smartphones and tablets, managing screen time has become a significant concern for parents worldwide. Balancing the benefits of technology with its potential drawbacks is essential to ensure a healthy relationship between children and their devices.

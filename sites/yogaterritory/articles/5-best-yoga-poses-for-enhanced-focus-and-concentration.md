@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Yoga practitioner balances in a serene sunlit studio, suggesting calm focus
   and mental clarity.
+topics:
+  - Yoga Poses
 ---
 
 Yoga offers a transformative journey for both the body and mind. By incorporating specific postures into your routine, you can enhance mental clarity and concentration. This practice not only benefits your physical health but also sharpens your cognitive abilities, making it an essential tool for achieving a balanced lifestyle.

@@ -6,7 +6,7 @@ description: >-
   renewed...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -15,7 +15,7 @@ tags:
   - stablecoins
   - institutional-investment
 slug: stablecoin-market-surges-322b-usdt-dominance
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/stablecoin-market-adds-2-billion-in-7-days-as-usdt-holds-near-190-billion/
 source_item_id: 6a0154422a0a294c696af914
@@ -32,6 +32,8 @@ quality_note: >-
   Strong professional tone and excellent topic relevance, but significantly
   under target word count at 563 words versus the 800-1200 range.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Stablecoin Market Reaches New Heights

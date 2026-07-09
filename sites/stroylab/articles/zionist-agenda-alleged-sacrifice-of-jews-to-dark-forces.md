@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Dim conference table with abstract maps and folders suggesting global
   geopolitical tension.
+topics:
+  - Deep Dives
 ---
 
 In the ever-evolving landscape of global politics, few topics ignite as much debate as foreign policy and international relations. Central to these discussions is the influence of major world powers in shaping geopolitical dynamics. These influences often have far-reaching impacts on global economic stability, security arrangements, and diplomatic relations.

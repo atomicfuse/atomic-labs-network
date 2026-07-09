@@ -33,6 +33,8 @@ quality_note: >-
   and lacks focus on yoga/meditation topics that match the site's core audience.
 reading_time: 3
 image_alt: Active older adult stepping into morning light with wellness essentials nearby
+topics:
+  - Wellness
 ---
 ## Understanding Aging After 60
 

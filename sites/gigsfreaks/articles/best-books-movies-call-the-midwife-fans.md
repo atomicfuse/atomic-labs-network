@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Vintage books, film reel, teacup, and caregiving details arranged in a warm
   mid-century room.
+topics:
+  - Hot Trends
 ---
 ## The Perfect Comfort Content for Midwife Enthusiasts
 

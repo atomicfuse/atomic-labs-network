@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Small home crypto miner glowing on a desk with industrial mining rigs blurred
   in the background
+topics:
+  - Smart Shopping
 ---
 ## The Ultimate Underdog Victory
 

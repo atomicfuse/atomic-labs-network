@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Moody living room lit by a blank TV with subtle objects hinting at romance,
   drama, documentaries, and family shows.
+topics:
+  - TV Shows
 ---
 
 This week's television lineup offers a captivating journey through diverse narratives and genres, promising to engage audiences with both familiar favorites and new contenders. Whether you're in the mood for heartwarming romances, gripping dramas, or thought-provoking documentaries, the upcoming TV schedule delivers an array of options to satisfy your viewing needs.

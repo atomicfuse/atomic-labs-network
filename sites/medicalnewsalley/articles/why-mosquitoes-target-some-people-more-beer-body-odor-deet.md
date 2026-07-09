@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Person applying insect repellent outdoors as mosquitoes hover near a summer
   gathering.
+topics:
+  - Health News
 ---
 ## What Makes You a Mosquito Magnet?
 

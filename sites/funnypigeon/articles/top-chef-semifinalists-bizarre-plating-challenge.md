@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Chef studies avant-garde plates on driftwood and suspended linen in a dramatic
   fine-dining kitchen.
+topics:
+  - Viral
 ---
 ## Final Four Face High-Stakes Challenges
 

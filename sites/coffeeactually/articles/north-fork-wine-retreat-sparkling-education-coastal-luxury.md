@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Sparkling wine, oysters, and caviar on a coastal vineyard terrace near a
   marina
+topics:
+  - Coffee News
 ---
 ## New Wine Lifestyle Experience Debuts on Long Island
 

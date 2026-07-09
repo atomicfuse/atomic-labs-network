@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Sports car racing toward a golden horizon with reward-like light trails on a
   coastal highway.
+topics:
+  - Gaming News
 ---
 
 Credits shape almost every major decision in Forza Horizon 6, from buying rare hypercars to tuning garage favorites for road, dirt, drift, and cross-country events. If you want to build a stronger collection without wasting hours, the smartest approach is to combine high-paying activities, efficient driving habits, and careful Auction House moves.

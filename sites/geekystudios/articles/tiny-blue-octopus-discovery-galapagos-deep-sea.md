@@ -33,6 +33,8 @@ quality_note: >-
   keyword focus areas.
 reading_time: 3
 image_alt: Tiny blue octopus on a deep-sea floor under soft scanning-like light beams
+topics:
+  - Tech
 ---
 ## A Bright Blue Discovery in the Deep
 

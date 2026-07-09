@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Focused person multitasking at a desk as abstract neural pathways flow around
   them
+topics:
+  - Advice
 ---
 ## The Science Behind Mental Automation
 

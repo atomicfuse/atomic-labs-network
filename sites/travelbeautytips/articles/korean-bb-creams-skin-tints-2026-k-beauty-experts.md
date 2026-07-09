@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Unbranded skin tint tubes, shade swatches, and dewy skincare textures on a
   warm cream beauty set
+topics:
+  - Beauty Tips
 ---
 ## The K-Beauty Revival: BB Creams Make a Comeback
 

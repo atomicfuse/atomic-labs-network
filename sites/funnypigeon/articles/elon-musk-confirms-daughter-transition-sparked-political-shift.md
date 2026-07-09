@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Two empty chairs divided by a glowing table, symbolizing family rupture and
   political fallout.
+topics:
+  - Viral
 ---
 ## Billionaire's Personal Revelation Goes Viral
 

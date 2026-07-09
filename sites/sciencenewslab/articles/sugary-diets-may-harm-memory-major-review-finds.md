@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Healthy foods in soft light contrast with blurred sugary snacks, suggesting
   brain health and memory.
+topics:
+  - Space
 ---
 
 A growing body of brain research suggests that a diet heavy in added sugar may affect more than waistlines and blood glucose. Frequent intake of sweetened drinks, desserts, and ultra-processed snacks appears linked with changes in memory, especially the kind of memory supported by the hippocampus. This does not mean one sweet treat erases your recall. It does mean that long-term eating patterns rich in sugar may create conditions that make learning, focus, and memory less resilient.

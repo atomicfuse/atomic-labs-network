@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Silhouetted viewer facing glowing screens with sports, theater, and streaming
   scenes
+topics:
+  - TV News
+  - Streaming
 ---
 ## A Peak Week for Television Viewing
 

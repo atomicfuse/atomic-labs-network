@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Unlabeled canned soups with vegetables, beans, grains, and a steaming bowl on
   a bright kitchen counter.
+topics:
+  - Healthy Recipes
+  - Special Diets
 ---
 
 For those aiming to maintain healthy cholesterol levels, understanding which canned soups are best suited for this goal is essential. With a myriad of options available, selecting a soup that is both nutritious and low in cholesterol can be challenging. Fortunately, many brands today offer delicious choices that cater to heart-healthy diets.

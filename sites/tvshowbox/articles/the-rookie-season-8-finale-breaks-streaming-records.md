@@ -39,6 +39,9 @@ reading_time: 3
 image_alt: >-
   Moody living room with TV glow reflecting streaming tiles over a rain-soaked
   city at night.
+topics:
+  - TV News
+  - Streaming
 ---
 ## Record-Breaking Numbers for ABC Drama
 

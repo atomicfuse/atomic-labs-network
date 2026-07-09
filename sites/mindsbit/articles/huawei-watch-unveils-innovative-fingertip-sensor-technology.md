@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sleek unbranded smartwatch with a fingertip touching a glowing side sensor in
   a modern studio setting.
+topics:
+  - Tech
 ---
 
 The world of wearable technology is ever-evolving, and Huawei continues to make strides with its latest innovation, the Huawei Watch 5. This smartwatch promises to enhance users' lives through advanced features and a sleek design. As consumers seek more from their devices, understanding what the Huawei Watch 5 offers becomes essential.

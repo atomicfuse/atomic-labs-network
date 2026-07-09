@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Empty broadcast studio with a spotlighted chair and blurred figures suggesting
   censorship and unrest.
+topics:
+  - TV News
 ---
 
 The Ethiopian government has taken a significant step by declaring a state of emergency in the Amhara region. This decision comes in response to the escalating violence and instability that have impacted the area, raising concerns both locally and internationally. The situation in Amhara has been deteriorating due to clashes between regional militias and federal forces, prompting the government to implement measures aimed at restoring order and safety.

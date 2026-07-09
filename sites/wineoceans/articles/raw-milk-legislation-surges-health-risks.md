@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Unlabeled milk bottle on a grocery shelf with subtle lab and capitol
   reflections
+topics:
+  - Wine news
 ---
 ## Legislative Movement Gains Momentum
 

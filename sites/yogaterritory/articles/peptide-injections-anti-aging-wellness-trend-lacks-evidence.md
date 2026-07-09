@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Unmarked amber vial on a teal clinical surface with lab shadows and abstract
   digital glow behind it.
+topics:
+  - Wellness
 ---
 ## The Latest Wellness Trend Under Scrutiny
 

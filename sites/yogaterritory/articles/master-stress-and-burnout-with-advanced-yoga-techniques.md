@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Calm yoga practice in warm morning light symbolizing relief from stress and
   burnout
+topics:
+  - Yoga Poses
 ---
 
 Yoga has become an essential tool for many in tackling the stress and burnout that modern life often brings. With its ancient roots and contemporary relevance, yoga offers a holistic approach to mental and physical well-being. This guide delves into the ways yoga can effectively reduce stress and prevent burnout, providing you with practical insights and techniques to integrate into your daily routine.

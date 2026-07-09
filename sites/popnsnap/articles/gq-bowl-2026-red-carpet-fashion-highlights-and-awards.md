@@ -30,6 +30,9 @@ seo:
 image_alt: >-
   Red carpet in a stadium tunnel blending high fashion glamour with the energy
   of sports.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The annual GQ Bowl, a dazzling convergence of style and sports, was held once again, capturing the attention of fashion enthusiasts and sports fans alike. Hosted by the renowned men's magazine GQ in collaboration with the innovative designer Thom Browne, this year's event was nothing short of spectacular. It combined the thrill of a sports event with the elegance of high fashion, creating a unique experience for all attendees.

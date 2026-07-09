@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A glowing polar ring galaxy surrounded by faint distant galaxies in deep
   space.
+topics:
+  - Research
 ---
 
 In the vastness of space, galaxies hold secrets waiting to be unraveled. Among these are galaxies with peculiar polar ring structures, which have intrigued astronomers for decades. These cosmic formations are not just visually stunning but offer insights into the dynamics and evolution of galaxies.

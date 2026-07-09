@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Multigenerational yoga class using props for supported hip-opening poses in a
   calm sunlit studio.
+topics:
+  - Yoga Poses
 ---
 
 Yoga has been celebrated for its numerous health benefits, including improving flexibility, building strength, and enhancing mental clarity. Among the many poses practiced, the Frog Pose is notable for its ability to open the hips and stretch the inner thighs. However, like many yoga poses, it can be challenging for beginners or those with certain physical limitations. Fortunately, there are various ways to modify the Frog Pose to make it accessible for everyone.

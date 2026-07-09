@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Federal evidence table with crypto devices, case files, and a bitcoin token
   under stark light
+topics:
+  - Smart Shopping
 ---
 ## Massive Cryptocurrency Seizure Targets International Fraud Network
 

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Warm holiday country stage with guitars, microphones, garlands, and soft
   festive lighting.
+topics:
+  - Music
 ---
 
 Country music enthusiasts have a delightful treat this holiday season as the renowned band Lady A unveils their latest Christmas album. Known for their harmonious melodies and soulful rhythms, Lady A is set to infuse the festive spirit with their unique musical touch. As part of their seasonal celebration, the band is also embarking on a nationwide tour, bringing live performances of their new holiday tunes to fans across the country.

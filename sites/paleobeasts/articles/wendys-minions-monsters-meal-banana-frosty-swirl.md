@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Banana-swirled dessert with colorful collectible toys on a bright fast-food
   tabletop
+topics:
+  - Healthy Snacks
+  - Meal Plans
 ---
 ## Movie Magic Meets Fast Food
 

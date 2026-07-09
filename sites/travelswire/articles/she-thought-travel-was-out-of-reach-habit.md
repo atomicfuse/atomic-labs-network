@@ -1,9 +1,12 @@
 ---
 title: She Thought Travel Was Out of Reach Until She Noticed One Strange Habit
-description: A deep dive into how identifying and changing a single daily spending habit can unlock significant funds for long-term goals like travel, turning financial...
+description: >-
+  A deep dive into how identifying and changing a single daily spending habit
+  can unlock significant funds for long-term goals like travel, turning
+  financial...
 type: standard
 status: published
-publishDate: 2026-05-18
+publishDate: 2026-05-18T00:00:00.000Z
 author: Sapir Lavi
 tags:
   - personal finance
@@ -12,8 +15,9 @@ tags:
   - lifestyle change
   - financial habits
 slug: she-thought-travel-was-out-of-reach-habit
-reviewer_notes: ""
-source_url: https://www.forbes.com/advisor/personal-finance/how-small-spending-habits-impact-big-goals/
+reviewer_notes: ''
+source_url: >-
+  https://www.forbes.com/advisor/personal-finance/how-small-spending-habits-impact-big-goals/
 source_item_id: 8c339abf5c1b587d989bf14b
 generated_by: claude
 featuredImage: /assets/images/she-thought-travel-was-out-of-reach-habit.webp
@@ -24,8 +28,14 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 70
   keyword_relevance: 95
-quality_note: Excellent article that follows the requested structure and tone for a personal finance piece. The content is practical and well-organized, though it relies on a common financial trope without citing specific studies or data. Length is appropriate.
+quality_note: >-
+  Excellent article that follows the requested structure and tone for a personal
+  finance piece. The content is practical and well-organized, though it relies
+  on a common financial trope without citing specific studies or data. Length is
+  appropriate.
 reading_time: 3
+topics:
+  - Destination Guides
 ---
 
 ## The Persistent Gap Between Dreams and Reality

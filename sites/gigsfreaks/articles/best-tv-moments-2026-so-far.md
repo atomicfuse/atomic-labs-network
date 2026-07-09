@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Silhouetted viewer facing floating cinematic scenes of romance, conflict,
   shock, and performance
+topics:
+  - Hot Trends
 ---
 ## The Year's Most Unforgettable Television Scenes
 

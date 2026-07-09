@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Fractured family portrait and phone lit by contrasting political and
   identity-colored light
+topics:
+  - Celebrity News
 ---
 ## Musk's Candid Political Admission
 

@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Colorful kids tiffin with protein-rich vegetarian snacks on a bright kitchen
   counter
+topics:
+  - Healthy Recipes
+  - Special Diets
+  - Weight & Wellness
 ---
 
 Busy mornings often call for breakfast ideas that are quick, filling, and still healthy enough for the whole family. This 5-minute healthy breakfast idea is designed for anyone looking for a simple vegetarian option that works for kids' school tiffin, lunch boxes, evening snacks, and everyday nashta without relying on maida, junk food, bread sandwiches, or unhealthy ingredients.

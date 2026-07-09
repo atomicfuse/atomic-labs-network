@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Chic patio styled as an outdoor living room with cozy seating, plants, rugs,
   and warm lighting.
+topics:
+  - Decor Ideas
 ---
 ## Creating Your Perfect Outdoor Living Space
 

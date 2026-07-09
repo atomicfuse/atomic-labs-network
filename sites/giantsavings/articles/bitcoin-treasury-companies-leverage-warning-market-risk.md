@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Precarious stack of generic crypto coins and balance-sheet blocks suggesting
   leveraged market risk.
+topics:
+  - Smart Shopping
 ---
 ## Record Leverage Creates 'Fake Yield' Concerns
 

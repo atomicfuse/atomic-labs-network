@@ -33,6 +33,8 @@ quality_note: >-
   methods mentioned.
 reading_time: 3
 image_alt: 'Happy dog cooling off indoors with ice, frozen treats, and summer light nearby'
+topics:
+  - Pet Care & Health
 ---
 ## When the Heat Becomes Unbearable for Pets
 

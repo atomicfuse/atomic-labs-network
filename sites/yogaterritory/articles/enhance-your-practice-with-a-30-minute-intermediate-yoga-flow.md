@@ -45,6 +45,8 @@ quality_note: >-
   The article has good tone and keyword relevance but is significantly too short
   at only 339 words when the target is 800-1200 words.
 image_alt: Yoga practitioner flowing through a calm vinyasa pose in a sunlit studio
+topics:
+  - Yoga Poses
 ---
 
 Welcome to an invigorating 30-minute daily yoga flow designed to enhance your practice and engage your entire body. This routine is ideal for intermediate yogis looking to deepen their practice with a well-rounded sequence that balances strength, flexibility, and mindfulness.

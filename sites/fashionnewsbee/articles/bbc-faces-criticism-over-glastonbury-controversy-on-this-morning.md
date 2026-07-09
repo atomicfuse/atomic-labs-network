@@ -36,6 +36,8 @@ videos:
     url: 'https://www.youtube.com/watch?v=QQYE9AngHuc'
     position: after-paragraph-2
 image_alt: Two presenters discuss a controversy on a modern television studio set
+topics:
+  - Culture
 ---
 
 The BBC has recently found itself at the center of a public controversy following a Glastonbury performance that sparked discussions across the nation. Appearing on This Morning, commentators Gyles Brandreth and Camilla Tominey dive into the issues that have Britain talking, focusing on the backlash faced by the BBC and political reactions to the event.

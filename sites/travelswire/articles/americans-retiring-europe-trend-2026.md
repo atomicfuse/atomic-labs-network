@@ -36,6 +36,8 @@ quality_note: >-
   keyword integration, but falls short on word count and relies heavily on vague
   'according to reports' sourcing without specific data.
 reading_time: 3
+topics:
+  - Destination Guides
 ---
 ## A Growing Migration Trend
 

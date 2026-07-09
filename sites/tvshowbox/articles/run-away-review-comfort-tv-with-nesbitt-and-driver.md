@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Two silhouettes watch television in a cozy rain-lit living room with warm
   cinematic lighting.
+topics:
+  - TV News
+  - Reviews
 ---
 
 The television landscape is constantly evolving, yet certain series manage to stand out by offering viewers a perfect blend of entertainment and comfort. "Run Away," featuring acclaimed actors James Nesbitt and Minnie Driver, has emerged as one such show, captivating audiences with its engaging storyline and impressive performances.

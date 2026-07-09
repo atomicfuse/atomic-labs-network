@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Glamorous London red carpet at night with copper lights and subtle
   dragon-inspired shadows
+topics:
+  - Viral
 ---
 ## Star-Studded London Event Marks Major HBO Milestone
 

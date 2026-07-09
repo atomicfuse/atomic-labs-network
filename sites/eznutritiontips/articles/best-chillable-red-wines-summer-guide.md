@@ -33,6 +33,8 @@ quality_note: >-
   nutrition-focused topics.
 reading_time: 3
 image_alt: 'Chilled red wine, glasses, and summer snacks on a sunlit patio table'
+topics:
+  - Nutrition Tips
 ---
 ## Breaking the Red Wine Rules: Why Chilling Works
 

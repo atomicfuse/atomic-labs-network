@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Seven silhouetted performers face a glowing concert crowd under dramatic
   purple stage lights.
+topics:
+  - Celebrities
+  - Music
 ---
 
 In an exciting development for music enthusiasts worldwide, the globally acclaimed South Korean band BTS is preparing to release their much-anticipated new album. Fans are eagerly awaiting this new chapter in BTS's illustrious career, which promises to deliver both innovative sounds and poignant themes. Scheduled for release in March, this album marks a significant milestone for the group as they continue to redefine the global music landscape.

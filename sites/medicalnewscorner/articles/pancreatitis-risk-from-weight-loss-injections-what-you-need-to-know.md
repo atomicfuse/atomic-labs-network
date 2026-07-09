@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Doctor discusses weight-loss injections with a patient in a calm clinic
   setting.
+topics:
+  - Drugs
 ---
 
 Weight loss medications have become increasingly popular as people seek effective methods to manage their weight. These drugs promise significant benefits, including reduced appetite and increased metabolic rates. However, like all medications, they come with potential risks and side effects. One of the primary concerns associated with weight loss drugs is their potential link to pancreatitis, a condition characterized by inflammation of the pancreas.

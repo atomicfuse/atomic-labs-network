@@ -35,6 +35,9 @@ quality_note: >-
 image_alt: >-
   Silhouetted musician on a dusky stage with tour gear and soft amber-blue
   lighting.
+topics:
+  - Celebrities
+  - Music
 ---
 ## Bud Rokesky Unveils 'Dusk' Album Plans
 

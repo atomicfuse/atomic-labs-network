@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Biscayne Bay shallows with patchy seagrass, a monitoring buoy, and a hazy
   Miami shoreline
+topics:
+  - Environment
 ---
 ## Two Decades of Environmental Transformation
 

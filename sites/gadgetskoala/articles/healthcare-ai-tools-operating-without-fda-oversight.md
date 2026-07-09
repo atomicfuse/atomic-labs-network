@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Clinician reviews abstract AI hospital dashboards beside an empty exam bay
   under cool medical lighting.
+topics:
+  - Gadgets
 ---
 ## The Hidden AI Revolution in Healthcare
 

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Resolute football manager on a misty stadium touchline as blurred match
   figures move behind him
+topics:
+  - Latest News
+  - Leagues
 ---
 ## West Ham Commits to Stability Amid Relegation Crisis
 

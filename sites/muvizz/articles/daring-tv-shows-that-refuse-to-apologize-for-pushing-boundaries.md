@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   A defiant performer sits in a moody studio surrounded by glowing screens and
   dramatic colored light.
+topics:
+  - TV Shows
+  - Trailers
 ---
 ## The Art of Not Apologizing: TV's Most Controversial Shows
 

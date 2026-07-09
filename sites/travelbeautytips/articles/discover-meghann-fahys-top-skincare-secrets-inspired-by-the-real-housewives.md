@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Elegant skincare essentials on a glowing vanity with soft mirror light and
   fresh towels.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 When it comes to skincare, Meghann Fahy has a simple, yet effective routine. The renowned actress, best known for her role in The Bold Type, embraces a beauty regimen that promotes healthy, glowing skin.

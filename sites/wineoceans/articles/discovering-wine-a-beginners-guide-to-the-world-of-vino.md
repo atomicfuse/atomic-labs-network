@@ -33,6 +33,8 @@ quality_note: >-
 image_alt: >-
   Sunlit table with red, white, and rosé wine glasses, grapes, and a blank
   notebook for wine tasting.
+topics:
+  - Wine for beginners
 ---
 ## Starting Your Wine Journey
 

@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Distant glowing galaxy emits a subtle cosmic beam across deep space with
   telescope silhouettes in the foreground.
+topics:
+  - Space
 ---
 
 In an extraordinary breakthrough, astronomers have detected a powerful space laser, known as a megamaser, located a staggering 8 billion light-years from Earth. This discovery marks a significant milestone in our understanding of cosmic phenomena, showcasing the capabilities of modern astronomical technology.

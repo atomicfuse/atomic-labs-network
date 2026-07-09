@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Cinematic gaming setup with seven glowing portals suggesting new releases
   across platforms
+topics:
+  - Gaming News
 ---
 ## Cross-Platform Gaming Week Brings Major Releases
 

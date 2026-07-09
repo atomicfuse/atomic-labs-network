@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Dairy foods in soft morning light contrasted with blurred processed foods in
   the background
+topics:
+  - Health News
 ---
 ## Natural vs. Industrial Trans Fats: A Critical Distinction
 

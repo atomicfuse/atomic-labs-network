@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Vintage books, film reel, and care-work details evoke warm period stories and
   women’s community.
+topics:
+  - Watch
 ---
 ## Finding Your Next Period Drama Fix
 

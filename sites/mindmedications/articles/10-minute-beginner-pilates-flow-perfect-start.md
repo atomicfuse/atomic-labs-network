@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Beginners practice a gentle Pilates pose in a bright, calm studio with warm
   natural light.
+topics:
+  - Wellness
 ---
 ## Pilates Is Having Its Moment
 

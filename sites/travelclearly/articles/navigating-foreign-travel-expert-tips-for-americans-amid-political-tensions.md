@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Traveler at an airport window looking toward planes with a calm, reflective
   mood.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 As the political landscape in the U.S. continues to evolve, many Americans are expressing concerns about traveling overseas. Uncertainty about the international reputation of their homeland and the possible reactions of foreign citizens has left many U.S. travelers feeling apprehensive.

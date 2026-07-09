@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Futuristic explorer standing atop a glowing surreal summit under cinematic
   light
+topics:
+  - Gaming News
 ---
 
 Clair Obscur Expedition 33 has taken the gaming world by storm, achieving unprecedented acclaim and securing the top spot as Metacritic's highest-rated game of all time. This remarkable achievement has set new standards for excellence in video game development and captured the attention of gamers and critics alike.

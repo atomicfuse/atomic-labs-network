@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Woman practicing a controlled Pilates pose in a bright modern studio with
   reformers in the background.
+topics:
+  - Fitness & Movement
 ---
 ## The Pilates Toning Question Everyone's Asking
 

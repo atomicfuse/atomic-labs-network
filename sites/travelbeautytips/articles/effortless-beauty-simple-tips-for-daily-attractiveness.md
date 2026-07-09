@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Sunlit minimalist vanity with grooming essentials and a serene morning beauty
   routine mood
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In today's fast-paced world, maintaining an attractive appearance daily can seem daunting. However, with the right tips and tricks, you can easily enhance your beauty without spending hours in front of the mirror. This guide provides simple, effective grooming hacks to help you look your best every day.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Young Earth with glowing fractures and impact scars, suggesting hydrothermal
   conditions for early life
+topics:
+  - Tech
 ---
 ## When Destruction Became Creation
 

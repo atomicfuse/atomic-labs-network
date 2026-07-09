@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Two generic satellites pass closely above Earth amid crowded orbital path
   lines.
+topics:
+  - Tech
 ---
 
 In the rapidly evolving realm of satellite technology, ensuring the safety and coordination of space assets is paramount. Recent developments have highlighted the critical need for effective management systems in Earth's orbit. A recent close encounter between a SpaceX Starlink satellite and a Chinese satellite underscores the challenges of maintaining order in increasingly crowded skies.

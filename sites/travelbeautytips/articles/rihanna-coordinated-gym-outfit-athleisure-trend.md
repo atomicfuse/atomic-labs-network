@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in gray athleisure with matching burgundy accessories and drink
   on a nighttime city street.
+topics:
+  - Lifestyle
 ---
 ## The Art of Intentional Casual Dressing
 

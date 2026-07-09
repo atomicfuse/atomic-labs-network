@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Abstract futuristic gaming world with connected players and glowing
   AI-inspired digital pathways
+topics:
+  - Gaming News
 ---
 
 The annual video game industry conference has once again shed light on the transformative trends shaping the future of gaming. This year's event was a melting pot of innovation, strategy shifts, and technological advancements that promise to redefine the gaming landscape. From groundbreaking developments in game design to the growing importance of community engagement, the event highlighted key areas that industry leaders are focusing on to drive growth and player satisfaction.

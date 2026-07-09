@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Modern eco-friendly lifestyle complex with curved architecture, greenery, and
   visitors at golden hour
+topics:
+  - Culture
 ---
 
 Located in the heart of Noida, the Boomerang Complex stands as a groundbreaking lifestyle and entertainment hub, offering an unparalleled experience for visitors. Situated within the expansive Jaypee Greens Wish Town, this innovative development is a testament to modern architectural design and comprehensive leisure offerings. The complex aims to transform Noida into a vibrant destination for both locals and tourists, combining retail, dining, entertainment, and wellness under one roof.

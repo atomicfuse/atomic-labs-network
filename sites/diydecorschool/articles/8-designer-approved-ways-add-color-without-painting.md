@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Bright neutral living room layered with colorful pillows, rug, curtains, art,
   decor, and plants.
+topics:
+  - Tips & Advice
 ---
 ## The Rise of Non-Permanent Color Solutions
 

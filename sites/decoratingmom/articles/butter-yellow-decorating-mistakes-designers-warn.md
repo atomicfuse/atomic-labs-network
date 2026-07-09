@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Warm butter yellow living room vignette with brass, vintage wood, ivory
   textiles, and earthy accents.
+topics:
+  - Interior Design
 ---
 ## The Butter Yellow Trend Taking Over Interiors
 

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Smallholder farmer holding ripe coffee cherries with sacks and misty highland
   farms behind
+topics:
+  - Coffee News
 ---
 
 In the vibrant agricultural landscape of Papua New Guinea, coffee stands as a significant economic pillar. In 2022, the coffee industry remarkably bolstered the national economy by generating K1.3 billion in revenue. This substantial contribution highlights the sector's crucial role and the potential for future growth.

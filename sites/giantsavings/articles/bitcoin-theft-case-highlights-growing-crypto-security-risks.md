@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Hardware wallet and rope on a dim garage floor with a shadowed luxury car
   behind them
+topics:
+  - Smart Shopping
 ---
 ## Federal Case Reveals Violent Side of Crypto Crime
 

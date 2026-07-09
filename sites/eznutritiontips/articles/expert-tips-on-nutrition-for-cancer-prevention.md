@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Colorful healthy foods on a sunlit counter with a person preparing for
   exercise in the background.
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Nutrition plays a crucial role in cancer prevention, offering a proactive approach to reducing risk through dietary choices. By incorporating certain foods and lifestyle habits, individuals can significantly influence their overall health and decrease the likelihood of developing cancer. This article explores essential dietary strategies to consider in your daily routine.

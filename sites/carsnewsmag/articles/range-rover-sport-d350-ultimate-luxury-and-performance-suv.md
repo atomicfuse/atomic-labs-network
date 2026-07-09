@@ -42,6 +42,8 @@ quality_note: >-
   Well-written automotive review with appropriate tone and good factual content,
   but significantly below target word count at 431 words instead of 800-1200.
 image_alt: Luxury performance SUV on a scenic mountain road at golden hour
+topics:
+  - Reviews
 ---
 
 The Range Rover Sport D350 has emerged as a leading contender in the luxury SUV market, offering an exquisite blend of style, power, and advanced technology. This vehicle is not only a testament to outstanding engineering but also provides an unparalleled driving experience for enthusiasts who demand excellence in every aspect of their ride.

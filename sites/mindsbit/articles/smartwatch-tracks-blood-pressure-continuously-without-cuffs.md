@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Smartwatch on a wrist with glowing vascular waveforms suggesting continuous
   blood pressure monitoring
+topics:
+  - Tech
 ---
 ## Breakthrough in Cardiovascular Monitoring
 

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Glowing sun with sound-wave rings and magnetic arcs, with Earth and satellites
   silhouetted in space
+topics:
+  - Space & The Unknown
 ---
 ## Revolutionary Sound-Wave Science Reveals Solar Secrets
 

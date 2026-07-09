@@ -1,9 +1,11 @@
 ---
 title: Denise Richards Returns to 'Bold and the Beautiful' After 4 Years
-description: Denise Richards is making her comeback to The Bold and the Beautiful as Shauna Fulton after a four-year absence from the CBS soap opera.
+description: >-
+  Denise Richards is making her comeback to The Bold and the Beautiful as Shauna
+  Fulton after a four-year absence from the CBS soap opera.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +15,8 @@ tags:
   - daytime drama
 slug: denise-richards-bold-beautiful-return-shauna-fulton
 reviewer_notes: Approved via review queue.
-source_url: https://people.com/denise-richards-opens-up-bold-and-the-beautiful-return-exclusive-11983322
+source_url: >-
+  https://people.com/denise-richards-opens-up-bold-and-the-beautiful-return-exclusive-11983322
 source_item_id: 6a151f7316f23264031d8118
 generated_by: claude
 featuredImage: /assets/images/denise-richards-bold-beautiful-return-shauna-fulton.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 85
   keyword_relevance: 25
-quality_note: The article is well-structured and factually sound but completely misses the site's entertainment focus, lacking the engaging tone and viral/funny content keywords that funnypigeon targets.
+quality_note: >-
+  The article is well-structured and factually sound but completely misses the
+  site's entertainment focus, lacking the engaging tone and viral/funny content
+  keywords that funnypigeon targets.
 reading_time: 3
-image_alt: A glamorous woman returns to a warmly lit soap opera studio set with a co-star in the background.
+image_alt: >-
+  A glamorous woman returns to a warmly lit soap opera studio set with a co-star
+  in the background.
+topics:
+  - Viral
 ---
 ## Denise Richards Makes Her Highly Anticipated Return
 

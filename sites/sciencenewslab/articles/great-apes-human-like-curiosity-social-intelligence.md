@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A thoughtful great ape watches its social group from a naturalistic research
   habitat.
+topics:
+  - Nature
 ---
 ## Revolutionary Findings Challenge Our Understanding of Ape Intelligence
 

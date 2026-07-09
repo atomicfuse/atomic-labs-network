@@ -1,9 +1,12 @@
 ---
-title: "Morro Bay: The Gibraltar of the Pacific and its Authentic Harbor"
-description: Discover Morro Bay, the authentic Highway 1 destination where a 576-foot volcanic peak presides over a working fishing harbor, abundant wildlife, and...
+title: 'Morro Bay: The Gibraltar of the Pacific and its Authentic Harbor'
+description: >-
+  Discover Morro Bay, the authentic Highway 1 destination where a 576-foot
+  volcanic peak presides over a working fishing harbor, abundant wildlife,
+  and...
 type: standard
 status: published
-publishDate: 2026-06-15
+publishDate: 2026-06-15T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - California travel
@@ -12,8 +15,9 @@ tags:
   - ecotourism
   - seafood
 slug: morro-bay-gibraltar-pacific-authentic-harbor
-reviewer_notes: ""
-source_url: https://www.californiacoastaltraveler.com/guides/discovering-morro-bay-authentic-highway-1/
+reviewer_notes: ''
+source_url: >-
+  https://www.californiacoastaltraveler.com/guides/discovering-morro-bay-authentic-highway-1/
 source_item_id: 8c119eab3b0b305d707bg96b
 generated_by: claude
 featuredImage: /assets/images/morro-bay-gibraltar-pacific-authentic-harbor.webp
@@ -24,13 +28,21 @@ score_breakdown:
   content_length: 75
   factual_accuracy: 95
   keyword_relevance: 90
-quality_note: Excellent travel article that captures the destination's atmosphere. Evocative language and good structure. Could be enhanced with specific business names or seasonal tips for visitors. Meets length and formatting requirements.
+quality_note: >-
+  Excellent travel article that captures the destination's atmosphere. Evocative
+  language and good structure. Could be enhanced with specific business names or
+  seasonal tips for visitors. Meets length and formatting requirements.
 reading_time: 3
 scripts:
   - id: ce93e4cf-1c57-4638-a5d7-684fb1dacbab
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script> <div data-cg-feed="TravelSwire1"></div>
+topics:
+  - Destination Guides
 ---
 Morro Bay is the working fishing harbor that became photogenic. A 576-foot volcanic rock rises straight out of the bay, fishing boats line the waterfront, and the seafood is impossibly fresh. It's the authentic side of Highway 1.
 

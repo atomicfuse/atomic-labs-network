@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Bright yellow and green cars parked near a sunny San Diego coastline with
   muted cars in the background.
+topics:
+  - News
+  - Industry
 ---
 
 When it comes to purchasing a vehicle, many buyers consider not only the initial cost but also the potential resale value. A recent study conducted by a car research company has revealed an interesting trend in the San Diego car market: vehicles with bright, bold colors tend to hold their value longer in the resale market.

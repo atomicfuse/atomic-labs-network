@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   A tiara on a backstage vanity with a tense formal friend group blurred behind
   it
+topics:
+  - Off Script
+  - Watch
 ---
 
 The Valley season 3 episode 7, "Triggers and Tiaras," puts the Bravo friend group back under pressure as old resentments, fragile relationships, and public-facing confidence collide. The episode mixes pageant polish with raw emotional fallout, showing how quickly a glamorous setting can expose unresolved tension.

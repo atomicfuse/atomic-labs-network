@@ -1,6 +1,8 @@
 ---
-title: "Santa Fe vs. Albuquerque on Route 66: Why You Should Drive Both"
-description: The 1926 Route 66 alignment swung through Santa Fe before the 1937 cutoff sent it through Albuquerque. Here's how to drive both — and why you should.
+title: 'Santa Fe vs. Albuquerque on Route 66: Why You Should Drive Both'
+description: >-
+  The 1926 Route 66 alignment swung through Santa Fe before the 1937 cutoff sent
+  it through Albuquerque. Here's how to drive both — and why you should.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -16,17 +18,26 @@ slug: santa-fe-albuquerque-new-mexico-route-66
 reading_time: 8
 featuredImage: /assets/images/santa-fe-albuquerque-new-mexico-route-66.webp
 seo:
-  og_title: "Santa Fe and Albuquerque on Route 66: A Full New Mexico Guide"
-  og_description: Why both Route 66 alignments through New Mexico are worth driving — adobe, green chile, and the best vintage neon in the Southwest.
+  og_title: 'Santa Fe and Albuquerque on Route 66: A Full New Mexico Guide'
+  og_description: >-
+    Why both Route 66 alignments through New Mexico are worth driving — adobe,
+    green chile, and the best vintage neon in the Southwest.
   twitter_card: summary_large_image
-image_alt: A New Mexico highway splits between adobe foothills and a distant desert city at golden hour.
+image_alt: >-
+  A New Mexico highway splits between adobe foothills and a distant desert city
+  at golden hour.
 scripts:
   - id: e49d158c-fe7d-4506-9944-b321a95c790e
     name: travelswire2
     position: after-paragraph-1
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="travelswire2"></div>
+topics:
+  - Destination Guides
 ---
 
 Here's a Route 66 fact most travelers don't know: the road has two alignments through New Mexico.

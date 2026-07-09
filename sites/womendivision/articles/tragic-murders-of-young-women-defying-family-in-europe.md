@@ -41,6 +41,8 @@ quality_note: >-
   tone, covering a serious social issue that doesn't align with the beauty,
   fitness, and lifestyle content expected for this audience.
 image_alt: A young woman stands in a dim doorway on a quiet European street at dusk.
+topics:
+  - Lifestyle
 ---
 
 Honor-based violence continues to be a distressing issue in Europe, affecting young women who seek to embrace Western lifestyles. These tragic incidents often stem from cultural tensions within families who struggle to reconcile traditional values with modern societal norms. This article explores the complexities and challenges surrounding honor-related violence in Europe, highlighting key cases and efforts to combat this unsettling phenomenon.

@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Natural beauty products with Mexican-inspired accents and subtle digital
   commerce elements
+topics:
+  - Beauty
 ---
 
 The beauty and personal care market in Mexico is experiencing significant growth, driven by evolving consumer preferences and increased awareness of personal grooming. With a diverse population that values both traditional and modern beauty practices, Mexico is becoming a key player in the global beauty industry. This dynamic market offers numerous opportunities for brands and investors looking to expand their footprint in Latin America.

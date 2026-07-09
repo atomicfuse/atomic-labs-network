@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Deserted meeting hall with overturned chairs and blurred groups arguing in the
   background
+topics:
+  - TV & Movies
 ---
 ## Internal Warfare Erupts Among Far-Right Factions
 

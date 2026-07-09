@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Close portrait of an eye with subtle skin irritation and abstract retinal
   light reflections
+topics:
+  - Health News
 ---
 ## Unexpected Connection Between Skin and Eye Health
 

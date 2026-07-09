@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Empty TV studio at night with shadowy executives behind glass suggesting media
   workplace drama
+topics:
+  - Watch
 ---
 ## The Media Drama Renaissance
 

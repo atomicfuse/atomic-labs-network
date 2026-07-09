@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Glowing molecular structure converging under a beam of light in an abstract
   quantum science scene
+topics:
+  - Physics
 ---
 ## Revolutionary Approach to Molecular Light Switches
 

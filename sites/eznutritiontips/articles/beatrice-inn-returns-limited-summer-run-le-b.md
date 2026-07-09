@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Moody New York dining room with a dry-aged burger and smoky cocktail under
   candlelight.
+topics:
+  - Nutrition Myths
 ---
 ## A Legendary NYC Restaurant Makes Its Return
 

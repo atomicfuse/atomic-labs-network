@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   People practicing gentle yoga in a sunlit studio while playful puppies wander
   among the mats.
+topics:
+  - Yoga Poses
 ---
 
 In a delightful fusion of wellness and companionship, Greenwood has introduced an innovative trend that is capturing hearts and bringing smiles to many faces: puppy yoga. This unique activity combines the calming practice of yoga with the playful energy of puppies, offering participants a refreshing way to relax and unwind.

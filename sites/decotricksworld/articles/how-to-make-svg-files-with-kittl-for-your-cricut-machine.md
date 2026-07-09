@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Bright craft workspace with a cutting machine, vinyl sheets, tools, and a
   custom geometric t-shirt.
+topics:
+  - Tips & Advice
 ---
 
 Are you ready to learn how to make SVG files with Kittl? I'm going to create a simple SVG and show you how to import the design into [Cricut Design Space](https://www.thecountrychiccottage.net/cricut-design-space/), cut it out with HTV, and make a custom shirt.

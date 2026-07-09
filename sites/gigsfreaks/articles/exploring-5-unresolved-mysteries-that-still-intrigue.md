@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Dim hotel corridor with an open door and investigative mood suggesting an
   unresolved mystery
+topics:
+  - Internet Mysteries
 ---
 
 Unsolved mysteries have long captivated the human imagination, offering a blend of intrigue and suspense that few can resist. Among the myriad of unanswered questions, the case of Kenneka Jenkins stands out. This tragic story not only puzzles investigators but also grips the hearts of those who hear it.

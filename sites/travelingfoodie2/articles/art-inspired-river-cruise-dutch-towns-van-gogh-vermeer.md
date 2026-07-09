@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Quiet Dutch canal town with a river cruise boat passing historic gabled houses
   in golden light
+topics:
+  - Destination Guides
 ---
 ## Discovering the Netherlands Through the Eyes of Dutch Masters
 

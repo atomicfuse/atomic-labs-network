@@ -36,6 +36,8 @@ quality_note: >-
   and containing factual inaccuracies about future events presented as past
   achievements.
 reading_time: 3
+topics:
+  - Current Events
 ---
 ## Ravens Secure Franchise Cornerstone
 

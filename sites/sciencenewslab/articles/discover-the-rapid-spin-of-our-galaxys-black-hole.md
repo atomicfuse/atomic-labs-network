@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   A glowing warped ring spins around a dark black hole amid a dense Milky Way
   star field.
+topics:
+  - Space
+  - Physics
 ---
 
 Deep in the heart of the Milky Way lies a cosmic phenomenon so powerful and enigmatic that it challenges our understanding of the universe: a supermassive black hole named Sagittarius A\*. This colossal cosmic entity is spinning at an astonishing rate, nearing the theoretical speed limit set by the laws of physics. This discovery offers scientists a unique opportunity to delve into the mysterious nature of black holes and their profound influence on the universe.

@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Model with fresh spring makeup in soft natural light beside pastel blooms and
   beauty products
+topics:
+  - Beauty
 ---
 ## Spring Beauty Refresh: Time for a Seasonal Transformation
 

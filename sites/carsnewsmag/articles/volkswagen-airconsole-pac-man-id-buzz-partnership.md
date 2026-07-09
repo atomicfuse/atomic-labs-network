@@ -36,6 +36,9 @@ reading_time: 2
 image_alt: >-
   Futuristic electric van cabin glowing with retro arcade-inspired lights and
   pixel patterns
+topics:
+  - News
+  - Electric Cars
 ---
 ## Volkswagen Brings Retro Gaming to Electric Future
 

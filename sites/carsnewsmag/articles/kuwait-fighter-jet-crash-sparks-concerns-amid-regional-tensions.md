@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Smoke rises near a desert runway at dusk as a jet silhouette crosses a hazy
   Gulf sky.
+topics:
+  - News
 ---
 
 The skies over Kuwait witnessed a dramatic incident as a fighter jet was filmed plummeting from the sky, adding to the escalating tensions in the Gulf region. This event comes at a time when explosions are reverberating across multiple Gulf countries, attributed to ongoing military actions by Iran.

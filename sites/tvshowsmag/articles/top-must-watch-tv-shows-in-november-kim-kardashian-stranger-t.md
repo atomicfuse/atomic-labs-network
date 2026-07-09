@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Warm lamplight over a modest family dining table with Jerusalem city lights
   beyond the window.
+topics:
+  - TV News
 ---
 
 In the ever-evolving world of entertainment, few announcements create as much buzz as the return of a beloved TV series. Such is the case with the Israeli drama "Shtisel," which has captivated audiences around the globe with its unique portrayal of an ultra-Orthodox Jewish family. The show's return has sparked excitement among its dedicated fans and promises to deliver more of the compelling storytelling that made it a cultural phenomenon.

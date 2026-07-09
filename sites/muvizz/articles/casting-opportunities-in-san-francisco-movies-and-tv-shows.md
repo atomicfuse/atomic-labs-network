@@ -41,6 +41,9 @@ quality_note: >-
   target word count at only 520 words, which heavily impacts the overall quality
   score.
 image_alt: Aspiring actors wait near a foggy San Francisco film set at dusk.
+topics:
+  - Movies
+  - TV Shows
 ---
 
 San Francisco, known for its iconic landmarks and vibrant culture, has long been a favored backdrop for filmmakers and television producers. With its unique blend of urban charm and scenic beauty, the city continues to attract a wide array of filming projects that capture the essence of its diverse neighborhoods and historical sites.

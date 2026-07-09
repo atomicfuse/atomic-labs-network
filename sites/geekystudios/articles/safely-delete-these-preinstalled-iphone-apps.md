@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Unbranded smartphone with generic app icons floating away in a clean
   minimalist tech scene
+topics:
+  - Tech
 ---
 
 Apple iPhones come preloaded with a range of apps designed to enhance user experience. However, not every built-in app is necessary for every user. Learning which pre-installed apps you can safely remove can help streamline your device, free up storage, and improve performance.

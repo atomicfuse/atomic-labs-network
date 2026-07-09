@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in sheer black lace and tailored pants poses in a neon-lit Seoul
   convenience store aisle.
+topics:
+  - Fashion
 ---
 ## Hailey Bieber Elevates Convenience Store Style in Seoul
 

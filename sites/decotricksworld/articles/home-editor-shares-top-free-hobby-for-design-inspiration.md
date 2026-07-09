@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Sunlit budget-friendly living room with thrifted decor, plants, and a person
   rearranging a vintage chair
+topics:
+  - Expert Guides
 ---
 
 Decorating a home can often feel like a daunting task, especially when faced with budget constraints. However, there are numerous creative and cost-effective ways to transform your living space without breaking the bank. Leveraging one's creativity and resourcefulness can lead to unique and personalized designs that reflect your style.

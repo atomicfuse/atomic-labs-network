@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Mushrooms sprouting from recycled coffee grounds on a bright student science
   workspace
+topics:
+  - Coffee News
 ---
 
 A middle school science project can start with something as ordinary as a cup of coffee. For one eighth grader, used coffee grounds became the foundation for an experiment in growing mushrooms, reducing waste, and showing how young innovators can turn everyday leftovers into something useful.

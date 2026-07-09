@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Luxury yacht off the Australian coast with tense crew silhouettes under
   dramatic storm clouds
+topics:
+  - Watch
 ---
 
 The world of yachting reality TV continues to captivate audiences with its blend of high-seas drama and luxurious lifestyles. "Below Deck Down Under" is no exception, offering a glimpse into the lives of crew members aboard a stunning superyacht. As the show navigates through its latest season, viewers are treated to a unique mix of personal and professional challenges faced by the cast in the breathtaking waters of Australia.

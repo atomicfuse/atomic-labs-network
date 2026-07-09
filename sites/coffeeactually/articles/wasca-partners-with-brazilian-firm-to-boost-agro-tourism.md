@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Visitors and a local farmer walk through a vibrant West African agro-tourism
   farm at golden hour.
+topics:
+  - Coffee News
 ---
 
 The West African Tourism Union (WASCA) is taking significant strides to boost agro-tourism in the region through an innovative partnership with a leading Brazilian agricultural company. This collaboration aims to transform the agricultural landscape by integrating tourism, thus enhancing economic growth and cultural exchange.

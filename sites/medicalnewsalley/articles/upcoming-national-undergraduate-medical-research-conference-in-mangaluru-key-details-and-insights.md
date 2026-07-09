@@ -52,6 +52,9 @@ quality_note: >-
 image_alt: >-
   Medical students collaborate around research materials in a sunlit academic
   atrium.
+topics:
+  - Health News
+  - Medical Research
 ---
 
 The esteemed Kasturba Medical College (KMC) in Mangaluru is preparing to host the national undergraduate medical research conference. This significant event, titled 'Medicine: A Voyage of Discovery,' will commence tomorrow, drawing students and medical enthusiasts from across India.

@@ -1,9 +1,11 @@
 ---
 title: Fergie Reunites With Black Eyed Peas at 2026 AMAs
-description: Fergie joined will.i.am, APL.DE.AP and Taboo on stage at the 2026 American Music Awards to accept Best Throwback Song for 'Rock That Body.'
+description: >-
+  Fergie joined will.i.am, APL.DE.AP and Taboo on stage at the 2026 American
+  Music Awards to accept Best Throwback Song for 'Rock That Body.'
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +15,8 @@ tags:
   - 2000s Pop
 slug: fergie-reunites-black-eyed-peas-2026-amas
 reviewer_notes: Approved via review queue.
-source_url: https://www.usmagazine.com/celebrity-news/news/fergie-reunites-with-black-eyed-peas-at-the-2026-amas/
+source_url: >-
+  https://www.usmagazine.com/celebrity-news/news/fergie-reunites-with-black-eyed-peas-at-the-2026-amas/
 source_item_id: 6a151f7316f23264031d8108
 generated_by: claude
 featuredImage: /assets/images/fergie-reunites-black-eyed-peas-2026-amas.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 65
   factual_accuracy: 20
   keyword_relevance: 40
-quality_note: The article has major factual issues (2026 AMAs haven't happened yet) and doesn't align well with the site's entertainment focus on funny/viral content, despite decent SEO structure and tone.
+quality_note: >-
+  The article has major factual issues (2026 AMAs haven't happened yet) and
+  doesn't align well with the site's entertainment focus on funny/viral content,
+  despite decent SEO structure and tone.
 reading_time: 3
-image_alt: Four pop performers reunite under blue stage lights during an emotional awards-show celebration.
+image_alt: >-
+  Four pop performers reunite under blue stage lights during an emotional
+  awards-show celebration.
+topics:
+  - Viral
 ---
 ## Emotional Reunion Takes Center Stage
 

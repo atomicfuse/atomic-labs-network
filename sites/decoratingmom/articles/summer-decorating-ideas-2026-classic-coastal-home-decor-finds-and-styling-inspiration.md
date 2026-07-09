@@ -53,6 +53,8 @@ quality_note: >-
 image_alt: >-
   Airy coastal living room with white slipcovers, blue accents, woven textures,
   and fresh summer flowers.
+topics:
+  - Decor Ideas
 ---
 
 Summer decorating in 2026 is all about creating a home that feels fresh, welcoming, and easy to live in. Based on Lauren Midgley's summer decorating video, this seasonal refresh brings together traditional and classic home design with Nancy Meyers-inspired charm, cottage softness, and coastal accents. The result is a summer look that feels timeless rather than trendy, with pieces that can be styled throughout the season in a natural and relaxed way.

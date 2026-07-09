@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Community members exercise on mats in a downtown park during a sunny outdoor
   fitness class.
+topics:
+  - Fitness & Movement
 ---
 ## Community Wellness Comes Outdoors This Spring
 

@@ -38,6 +38,8 @@ quality_note: >-
   content.
 reading_time: 3
 image_alt: Unbranded vodka bottle on a shop shelf being checked with a small testing vial
+topics:
+  - Dark History
 ---
 ## Hidden Dangers on Store Shelves
 

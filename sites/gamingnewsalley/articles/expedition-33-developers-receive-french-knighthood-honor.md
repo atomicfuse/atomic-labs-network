@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A medal and ceremonial sword beside a glowing tablet in an ornate modern
   creative studio
+topics:
+  - Gaming News
 ---
 
 France has recently recognized the exceptional contributions of the video game industry by awarding the developers of Clair Obscur: Expedition 33 with knighthood honors. This prestigious accolade reflects the cultural significance and innovative spirit present within the gaming community, underscoring the game's impact on both national and international levels.

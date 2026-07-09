@@ -33,6 +33,8 @@ seo:
 image_alt: >-
   Futuristic beauty products beside a glowing phone with subtle holographic
   shopping elements
+topics:
+  - Beauty
 ---
 
 The online beauty and personal care market is rapidly evolving, driven by technological advancements and changing consumer preferences. With an increasing number of consumers shopping online for their beauty and personal care needs, the market is poised for substantial growth. This shift towards e-commerce is reshaping how products are marketed, sold, and consumed.

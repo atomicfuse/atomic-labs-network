@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Child gamer silhouette at a computer with shadowy chat shapes and a parent in
   the doorway
+topics:
+  - TV & Movies
 ---
 ## FBI Alerts Parents to Growing Gaming Threat
 

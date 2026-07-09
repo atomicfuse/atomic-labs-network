@@ -39,6 +39,8 @@ quality_note: >-
   Well-written recap with appropriate tone but significantly under target word
   count and lacks specific episode details or compelling SEO elements.
 image_alt: A guardian and teenage girl stand together in a ruined overgrown city at dusk.
+topics:
+  - Watch
 ---
 
 The latest episode of the renowned series, "The Last of Us," delves into the intricacies of survival and personal sacrifice. As the storyline progresses, viewers are taken on a journey through emotional landscapes and moral dilemmas faced by the characters in a world ravaged by infection and turmoil.

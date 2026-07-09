@@ -1,9 +1,14 @@
 ---
-title: "Carmel-by-the-Sea: An Artist's Haven of Galleries, Beaches, and Coastal Cuisine"
-description: Discover Carmel-by-the-Sea, a coastal gem where art galleries, pristine white-sand beaches, and world-class seafood restaurants create an unforgettable...
+title: >-
+  Carmel-by-the-Sea: An Artist's Haven of Galleries, Beaches, and Coastal
+  Cuisine
+description: >-
+  Discover Carmel-by-the-Sea, a coastal gem where art galleries, pristine
+  white-sand beaches, and world-class seafood restaurants create an
+  unforgettable...
 type: standard
 status: published
-publishDate: 2024-10-22
+publishDate: 2024-10-22T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - travel
@@ -12,8 +17,8 @@ tags:
   - coastal towns
   - food and drink
 slug: carmel-by-the-sea-artists-haven-galleries-beaches
-reviewer_notes: ""
-source_url: https://travel.example.com/guides/carmel-by-the-sea-california/
+reviewer_notes: ''
+source_url: 'https://travel.example.com/guides/carmel-by-the-sea-california/'
 source_item_id: 7b119ecd3b1b395d797bf95b
 generated_by: claude
 featuredImage: /assets/images/carmel-by-the-sea-artists-haven-galleries-beaches.webp
@@ -24,13 +29,21 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: Excellent article with a strong narrative flow. The content is well-structured, engaging, and highly relevant to travel enthusiasts. Meets length and keyword targets effectively.
+quality_note: >-
+  Excellent article with a strong narrative flow. The content is
+  well-structured, engaging, and highly relevant to travel enthusiasts. Meets
+  length and keyword targets effectively.
 reading_time: 4
 scripts:
   - id: 3374e7f4-4fad-4584-9cab-f1448c98619b
     name: cta
     position: after-paragraph-1
-    content: <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script> <div data-cg-feed="TravelSwire1"></div>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script> <div data-cg-feed="TravelSwire1"></div>
+topics:
+  - Travel Tips
 ---
 Carmel looks like it was built for artists — and it basically was. A white-sand beach, galleries, and some of the best seafood on the coast. It's the kind of town where you stop for 30 minutes and stay for hours.
 

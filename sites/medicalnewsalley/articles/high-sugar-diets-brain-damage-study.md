@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sugar cube on a dark spoon with a fading abstract neural brain form in the
   background
+topics:
+  - Health News
 ---
 ## Sugar vs. Fat: Which Is Worse for Your Brain?
 

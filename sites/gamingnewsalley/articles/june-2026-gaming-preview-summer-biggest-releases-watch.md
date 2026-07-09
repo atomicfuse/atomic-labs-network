@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   A controller faces glowing portals to different game worlds in a moody summer
   gaming room.
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## Summer Gaming Season Heats Up
 

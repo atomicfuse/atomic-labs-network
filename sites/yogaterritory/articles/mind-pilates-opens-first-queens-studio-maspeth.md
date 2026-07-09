@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Boutique Pilates studio with reformer equipment and an instructor guiding a
   small class
+topics:
+  - Wellness
 ---
 ## New Wellness Destination Arrives in Queens
 

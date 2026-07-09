@@ -37,6 +37,8 @@ reading_time: 2
 image_alt: >-
   Rugged camper van in a forest clearing with a warm, cozy interior visible
   through the open door
+topics:
+  - News
 ---
 ## Adventure Meets Comfort in Custom Camper Design
 

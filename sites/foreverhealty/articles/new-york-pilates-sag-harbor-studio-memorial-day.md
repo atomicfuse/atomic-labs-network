@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Sunlit coastal Pilates studio with reformers, pale wood floors, and airy
   Hamptons-inspired decor.
+topics:
+  - Fitness & Movement
 ---
 ## Boutique Pilates Arrives in the Hamptons
 

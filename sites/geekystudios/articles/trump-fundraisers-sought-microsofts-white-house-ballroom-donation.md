@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Historic ballroom renovation blending government grandeur with modern
   technology and planning materials.
+topics:
+  - Tech
 ---
 
 The prestigious White House ballroom, a venue known for hosting significant events, recently received a major upgrade. This renovation was made possible through the generous contributions of leading tech giants, Microsoft and Amazon. Their involvement underscores the growing intersection between technology and government infrastructure.

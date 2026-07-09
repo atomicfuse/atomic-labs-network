@@ -36,6 +36,9 @@ quality_note: >-
   This is essentially a non-article with only 38 words of placeholder text,
   failing to deliver any meaningful content about summer TV show premieres.
 image_alt: A blank glowing TV in a summer-lit living room set for a premiere night.
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 No article content was provided. The body of this article contains only a placeholder or error message from a content generation tool, and no actual article text about summer TV show premieres could be recovered or cleaned up.

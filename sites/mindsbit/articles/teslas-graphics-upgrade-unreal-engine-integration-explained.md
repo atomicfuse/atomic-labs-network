@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Futuristic electric car dashboard displaying immersive 3D graphics in a sleek
   cabin
+topics:
+  - Innovation
+  - Tech
 ---
 
 Tesla continues to push the boundaries of in-car technology by integrating advanced graphics capabilities into its vehicles. With a focus on elevating the digital experience for drivers and passengers, Tesla's latest innovation involves the adoption of the Unreal Engine, known for its high-performance graphics typically used in video games. This strategic move enhances the visual aspects of Tesla's infotainment systems, providing a more immersive and interactive experience.

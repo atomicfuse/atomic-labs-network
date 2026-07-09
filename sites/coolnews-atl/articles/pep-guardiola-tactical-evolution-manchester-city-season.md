@@ -32,6 +32,8 @@ quality_note: >-
   Well-written tactical analysis with professional tone, but significantly below
   target length and contains vague sourcing that raises accuracy concerns.
 reading_time: 3
+topics:
+  - Current Events
 ---
 ## From Chaos to Control: City's Dramatic Transformation
 
