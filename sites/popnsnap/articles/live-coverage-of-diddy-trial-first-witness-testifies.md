@@ -25,6 +25,9 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-45-1.jpeg'
   twitter_card: summary_large_image
 image_alt: Tense courtroom scene focused on a witness stand during a high-profile trial
+topics:
+  - Celebrities
+  - Music
 ---
 
 The much-anticipated trial involving music mogul Diddy has officially commenced, capturing the attention of fans and legal enthusiasts alike. As the first witness takes the stand, all eyes are on the courtroom, where significant developments are expected to unfold.

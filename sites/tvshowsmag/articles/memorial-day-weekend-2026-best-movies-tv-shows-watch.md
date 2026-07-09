@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Cinematic living room with popcorn, remote, projector light, and abstract
   screens for a holiday watchlist
+topics:
+  - Streaming
+  - Recommendations
 ---
 ## The Ultimate Memorial Day Weekend 2026 Watchlist
 

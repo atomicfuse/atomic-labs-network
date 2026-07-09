@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Festivalgoers cross a Nashville pedestrian bridge toward a stadium at sunset
   with transit nearby.
+topics:
+  - Music
 ---
 ## Getting Ready for CMA Fest 2026
 

@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Vaccination station in a clinic with an older patient being assisted by a
   healthcare worker.
+topics:
+  - Deep Dives
 ---
 
 The global narrative surrounding the COVID-19 pandemic has been marked by a complex interplay of health guidelines, governmental policies, and public perception. As countries continue to navigate the challenges of the pandemic, recent developments in the United Kingdom highlight ongoing debates about the efficacy and necessity of vaccination campaigns, especially concerning booster doses.

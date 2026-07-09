@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Active older adult steps upward outdoors with wellness items nearby in warm
   morning light.
+topics:
+  - Healthy Aging
+  - Mind & Body Wellness
 ---
 ## The Science Behind Aging at 60
 

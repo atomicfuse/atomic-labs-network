@@ -36,6 +36,9 @@ seo:
 image_alt: >-
   Glamorous red carpet at twilight with photographers, guests, and a glowing
   festival entrance
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The Cannes Film Festival is synonymous with cinematic excellence and glamorous red carpet debuts. As the 2025 edition unfolds, the anticipation is palpable. This prestigious event continues to be a beacon for filmmakers, fashion designers, and celebrities alike, showcasing an eclectic mix of films and stunning sartorial displays.

@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Family silhouettes watch holiday TV in a cozy Christmas living room with snow
   outside.
+topics:
+  - TV News
 ---
 
 As the holiday season approaches, families across the globe eagerly anticipate the delightful lineup of television programming designed to bring festive cheer. Whether you're cozying up with loved ones or enjoying a quiet evening, this year's Christmas TV schedule offers an enticing array of shows and movies that cater to all tastes. From heartwarming stories to thrilling dramas, there is something for everyone to enjoy this festive season.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish covered patio with outdoor seating, plants, layered rugs, and warm
   lighting.
+topics:
+  - Design Tips
 ---
 ## The Rise of Outdoor Living Spaces
 

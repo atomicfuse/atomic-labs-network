@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Antarctic ice shelf with a glowing horizon, vapor layers, and an ice core on
   the snow.
+topics:
+  - Environment
 ---
 ## A Decade-Old Climate Mystery Finally Solved
 

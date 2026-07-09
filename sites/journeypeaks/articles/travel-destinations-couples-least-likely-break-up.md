@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Couple walking beside a calm lake with terracotta rooftops, green hills, and
   mountains at golden hour.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Science Behind Relationship-Friendly Travel
 

@@ -35,6 +35,8 @@ quality_note: >-
 image_alt: >-
   Dolphin in shallow coastal water with subtle neural patterns suggesting brain
   research
+topics:
+  - Environment
 ---
 
 Recent research has uncovered intriguing connections between stranded dolphins and human neurodegenerative diseases. Scientists have discovered that the brains of these dolphins exhibited pathological features commonly associated with Alzheimer's disease. This finding opens new avenues for understanding how such conditions develop in marine mammals and potentially offers insights into human health.

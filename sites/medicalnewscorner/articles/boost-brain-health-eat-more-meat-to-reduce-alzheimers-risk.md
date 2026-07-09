@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Lean meat and vegetables on a sunlit table with subtle neural and DNA-inspired
   visual motifs.
+topics:
+  - Research
 ---
 
 High meat consumption has been linked to a reduced risk of dementia, particularly in individuals carrying the Alzheimer's gene, according to recent research. This finding opens new discussions on dietary impacts on cognitive health, especially for those genetically predisposed to Alzheimer's disease. Understanding how diet influences brain health can be vital in developing preventative strategies against dementia.

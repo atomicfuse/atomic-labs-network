@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Foggy railroad trestle in dark woods with eerie shadows suggesting a local
   legend
+topics:
+  - Dark History
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Hidden deep within the woods east of Louisville, Kentucky, lies an enigmatic railway bridge that holds more than meets the eye. Known to locals as the haunting grounds of the Pope Lick Monster, this railway bridge has been the subject of terrifying tales for over half a century. Encounters with this creature, described as a goat-like beast, have led to disturbing events with tragic outcomes.

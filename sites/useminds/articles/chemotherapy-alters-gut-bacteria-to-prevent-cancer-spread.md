@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Glowing gut microbiome and therapeutic particles within a translucent human
   torso
+topics:
+  - Mind-Blowing Science
 ---
 
 Chemotherapy, a primary treatment for cancer, is known for its effectiveness but also for the side effects it brings. Recent studies have revealed an unexpected interaction between chemotherapy and gut bacteria, offering insights into how the treatment might be optimized for better patient outcomes.

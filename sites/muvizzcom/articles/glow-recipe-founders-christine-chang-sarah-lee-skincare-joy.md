@@ -1,9 +1,11 @@
 ---
 title: Glow Recipe Founders Turn Skincare Into Daily Joy With $100M Brand
-description: Christine Chang and Sarah Lee built Glow Recipe into a $100M+ brand by making skincare something customers look forward to rather than stress over.
+description: >-
+  Christine Chang and Sarah Lee built Glow Recipe into a $100M+ brand by making
+  skincare something customers look forward to rather than stress over.
 type: standard
 status: published
-publishDate: 2026-05-07
+publishDate: 2026-05-07T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - Celebrity News
@@ -13,10 +15,12 @@ tags:
   - wellness
 slug: glow-recipe-founders-christine-chang-sarah-lee-skincare-joy
 reviewer_notes: Approved via review queue.
-source_url: https://www.forbes.com/sites/rachelburchfield/2026/05/07/glow-recipes-founders-christine-chang-and-sarah-lee-want-their-products-to-not-only-work-but-also-allow-skincare-to-be-something-you-look-forward-to/
+source_url: >-
+  https://www.forbes.com/sites/rachelburchfield/2026/05/07/glow-recipes-founders-christine-chang-and-sarah-lee-want-their-products-to-not-only-work-but-also-allow-skincare-to-be-something-you-look-forward-to/
 source_item_id: 69fc7c6a3b9b41a91a781945
 generated_by: claude
-featuredImage: /assets/images/glow-recipe-founders-christine-chang-sarah-lee-skincare-joy.webp
+featuredImage: >-
+  /assets/images/glow-recipe-founders-christine-chang-sarah-lee-skincare-joy.webp
 quality_score: 48
 score_breakdown:
   seo_quality: 25
@@ -24,8 +28,13 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 85
   keyword_relevance: 30
-quality_note: This skincare business article doesn't match the entertainment site's focus on movies, TV shows, and celebrity news, despite being well-written and factually sound.
+quality_note: >-
+  This skincare business article doesn't match the entertainment site's focus on
+  movies, TV shows, and celebrity news, despite being well-written and factually
+  sound.
 reading_time: 3
+topics:
+  - Celebrity News
 ---
 
 ## From K-Beauty Curators to $100M+ Skincare Empire

@@ -37,6 +37,8 @@ quality_note: >-
   Trek vs Marvel), contains potential inaccuracies about Sentry's MCU status, is
   too short, and fails to match the site's science focus.
 image_alt: Alien cadets walking through a futuristic space academy with glowing star maps
+topics:
+  - Pop Culture
 ---
 
 The Marvel Cinematic Universe (MCU) continues to expand its horizons with the introduction of new characters that promise to captivate audiences worldwide. As the MCU grows, it embraces both fresh faces and beloved figures from the comic world, creating a dynamic blend of narratives and personalities. One such character receiving much attention is Sentry, a superhero with a complex background and extraordinary abilities.

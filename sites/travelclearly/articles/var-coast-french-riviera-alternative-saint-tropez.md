@@ -32,6 +32,10 @@ quality_note: >-
   lacks specific details and falls short of optimal word count.
 reading_time: 3
 image_alt: Quiet turquoise Riviera cove framed by pine trees and a sunlit coastal path
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## Why the Var Coast is the French Riviera's Best-Kept Secret
 

@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Sunlit luxury carry-on with curated travel essentials arranged for an upcoming
   adventure
+topics:
+  - Travel
+  - Travel Tips
+  - Lifestyle
 ---
 
 The joy of exploration is a quintessential human quality. But what presents should you buy for those with an insatiable wanderlust? We've curated a list of top-notch gifts for avid travelers that are sure to satiate their never-ending love for globetrotting.

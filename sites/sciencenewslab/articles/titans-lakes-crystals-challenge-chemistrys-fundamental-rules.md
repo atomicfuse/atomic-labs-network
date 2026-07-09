@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Amber alien lake on Titan with crystalline formations and a small explorer
   craft under hazy Saturn light.
+topics:
+  - Space
 ---
 
 Titan, Saturn's largest moon, presents a mysterious landscape that captivates scientists. Unlike Earth, Titan's surface is dotted with lakes and seas filled not with water, but with liquid hydrocarbons like methane and ethane. Recent research reveals that these frigid lakes might host peculiar crystals, potentially defying established chemical principles.

@@ -42,6 +42,8 @@ quality_note: >-
   factual accuracy issues regarding unconfirmed difficulty removal and falls
   short of target word count.
 image_alt: Armored warrior facing two contrasting paths into a dark gothic fortress
+topics:
+  - Gaming News
 ---
 
 The iconic first-person shooter Doom has seen some changes that have sparked debate among its fans. The removal of a familiar difficulty setting has caught the attention of gamers worldwide.

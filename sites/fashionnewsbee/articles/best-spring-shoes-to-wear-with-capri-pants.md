@@ -28,6 +28,8 @@ seo:
 image_alt: >-
   Stylish capri pants paired with curated spring shoes in a bright fashion
   editorial setting.
+topics:
+  - Fashion
 ---
 
 Capri pants are back in the fashion conversation, and they are far more wearable than their divisive reputation suggests. The cropped hem can look polished, playful, minimal, or retro, depending on how you style it. The most important detail is footwear. Because capris finish around the calf or just above the ankle, your shoes shape the whole silhouette. Choose the right pair, and cropped trousers feel fresh and lengthening. Choose the wrong pair, and the outfit can look heavy or awkward.

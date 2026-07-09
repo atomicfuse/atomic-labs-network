@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Vintage workbench linking recycled motor oil containers with medical lab
   glassware in warm light
+topics:
+  - Health News
+  - Medical Research
 ---
 
 In an innovative approach to environmental sustainability and medical advancement, a local initiative is repurposing used motor oil to support vital medical research. This program not only addresses environmental concerns but also opens new avenues for health sciences. By collecting and recycling oil, the community is making strides toward a greener future while simultaneously contributing to the development of life-saving medical technologies.

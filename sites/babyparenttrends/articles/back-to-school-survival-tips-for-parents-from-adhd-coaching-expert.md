@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Parent and child organize school supplies together in a calm, sunlit kitchen
   before the school year.
+topics:
+  - Kids
+  - Children’s Health
 ---
 
 As the school year approaches, parents and students alike often face a variety of challenges. This period can be particularly daunting for families managing Attention Deficit Hyperactivity Disorder (ADHD). With the right strategies, however, navigating these challenges becomes significantly easier, ensuring a smoother transition for everyone involved.

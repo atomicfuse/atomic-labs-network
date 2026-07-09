@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Two strangers share coffee beside a tow truck on a rain-damp city street at
   dawn.
+topics:
+  - Reviews
+  - Industry
 ---
 
 The film industry continues to explore diverse narratives in cinema, with recent releases showcasing innovative storytelling. One compelling entry brings together a stellar cast — including Rose Byrne, Octavia Spencer, and Demi Lovato — combining humor, drama, and a unique plot that promises both entertainment and thought-provoking themes.

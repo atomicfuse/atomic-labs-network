@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Thin laptop, controller, and glowing abstract game tiles suggesting ARM-based
   PC gaming access
+topics:
+  - Gaming News
 ---
 
 Microsoft has made a significant leap in the gaming world by officially launching the Xbox app for Windows 11 on ARM-based devices. This development marks a new era for gamers using these devices, ensuring they can enjoy a seamless gaming experience. The Xbox app's arrival on ARM-based Windows 11 PCs is a testament to Microsoft's dedication to expanding its gaming ecosystem.

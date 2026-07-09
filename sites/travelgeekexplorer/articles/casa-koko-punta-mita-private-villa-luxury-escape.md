@@ -33,6 +33,8 @@ quality_note: >-
   vague claims that lack specific verification.
 reading_time: 3
 image_alt: Private tropical villa with glowing pool and ocean views at dusk in Punta Mita
+topics:
+  - Destinations
 ---
 ## The Rise of Private Villa Luxury in Riviera Nayarit
 

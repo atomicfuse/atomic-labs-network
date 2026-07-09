@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Glowing Sun with subtle wave rings and magnetic arcs suggesting hidden solar
   activity near the surface
+topics:
+  - Space
+  - Physics
 ---
 ## Scientists Discover Hidden Solar Changes Through Sound Waves
 

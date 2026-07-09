@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Unbranded electric sedan in a subdued showroom with abstract downward
   financial shadows
+topics:
+  - News
 ---
 ## Tesla Reports Disappointing Fourth Quarter Performance
 

@@ -33,6 +33,9 @@ seo:
 image_alt: >-
   Fashion models with bold makeup, glowing skin, sculptural hair, and minimalist
   nails in a chic backstage setting.
+topics:
+  - Fashion
+  - Beauty
 ---
 
 New York Fashion Week is always a spectacle of creativity and innovation, particularly when it comes to beauty trends. Each season, designers and makeup artists collaborate to push the boundaries of beauty, setting trends that will influence the industry in the months to come. This year was no exception, with a range of daring looks and subtle transformations making their mark.

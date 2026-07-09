@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Colorful global street foods arranged on a travel table with a softly blurred
   market backdrop.
+topics:
+  - Local Culture
+  - food
 ---
 TL;DR: If you’re a food lover looking for your next travel destination, check out these six cities where the culinary scene thrives on diversity, affordability, and local flavors!
 

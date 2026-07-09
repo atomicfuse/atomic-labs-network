@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Teen practicing yoga in a sunlit studio with soft motion echoes suggesting
   fast pose transitions.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is a practice that embodies balance, flexibility, and strength, and it continues to captivate individuals worldwide. Recently, a remarkable achievement in the realm of yoga was recorded by a talented teenager who demonstrated an extraordinary performance by executing numerous yoga poses in just one minute. This feat not only showcases human potential but also highlights the growing interest and dedication among younger generations towards health and wellness.

@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Glowing digital currency form above an abstract global financial network with
   institutional silhouettes.
+topics:
+  - Deep Dives
 ---
 
 The global financial landscape is witnessing a significant transformation as central banks move towards digital currencies. This shift aims to modernize monetary systems and enhance transaction efficiency. One of the standout developments in this arena is the introduction of Central Bank Digital Currencies (CBDCs), which promise to reshape how money is used and managed worldwide.

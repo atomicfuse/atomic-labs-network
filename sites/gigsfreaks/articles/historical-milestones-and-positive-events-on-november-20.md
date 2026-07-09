@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A museum-like timeline of objects symbolizing sports, music, justice, and
   technology milestones.
+topics:
+  - Hot Trends
 ---
 
 On this day in history, November 20th, various significant events across fields such as sports, entertainment, and politics have left a lasting imprint on our collective memory. This day has witnessed groundbreaking achievements and momentous occasions that continue to inspire and intrigue people worldwide. As we reflect on these pivotal moments, let's delve into the fascinating history of November 20th.

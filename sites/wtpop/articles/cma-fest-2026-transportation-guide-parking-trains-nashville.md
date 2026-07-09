@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Festivalgoers navigate downtown Nashville by train, parking garage, and
   pedestrian bridge at golden hour.
+topics:
+  - Music
 ---
 ## Getting Ready for CMA Fest 2026
 

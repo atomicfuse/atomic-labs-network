@@ -40,6 +40,10 @@ quality_note: >-
   Strong tone and keyword relevance but severely penalized for being too short
   at only 314 words when 800-1200 is expected.
 image_alt: Stylish K-pop performer in a studio reacting playfully to a glowing phone
+topics:
+  - Celebrities
+  - Influencers
+  - Music
 ---
 
 In an exciting interaction with fans, YEONJUN from the popular K-pop group TXT took on the internet's infamous challenge of reading 'thirst tweets.' These tweets, often filled with humor and admiration, offer a glimpse into the playful relationship between celebrities and their fans.

@@ -43,6 +43,10 @@ quality_note: >-
   Strong tone and relevance but severely penalized by very short length (343
   words vs 800-1200 target), limiting its SEO potential and comprehensiveness.
 image_alt: 'Warm cafe counter with espresso gear, grinder, cups, and soft morning light'
+topics:
+  - Coffee Drinks
+  - Coffee Gear
+  - Brewing Guides
 ---
 
 Opening a cafe is a dream for many coffee enthusiasts and entrepreneurs alike. The right equipment can make or break your business, so choosing wisely is essential. This guide explores the ideal gear for setting up your dream cafe, catering to different volumes and budgets.

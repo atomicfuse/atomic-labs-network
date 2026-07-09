@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Woman in a calm clinic setting with subtle heart and women's health visual
   symbolism.
+topics:
+  - Research
 ---
 
 Fibroids, known as non-cancerous growths in the uterus, are a common health concern for many women during their reproductive years. Recent research has uncovered a potential link between fibroids and heart disease, suggesting that women with fibroids may face a higher risk of cardiovascular issues. This emerging connection underscores the need for further exploration and understanding of the implications for women's health.

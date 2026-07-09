@@ -34,6 +34,8 @@ quality_note: >-
 image_alt: >-
   Unbranded controller before a glowing cloud of game-world portals on a
   cinematic gaming screen
+topics:
+  - Gaming News
 ---
 
 No article content was available to process.

@@ -36,6 +36,8 @@ quality_note: >-
   Article is off-topic for automotive site, too short, lacks proper SEO
   structure, and makes unverified claims about SpaceX-Apple collaboration.
 image_alt: Generic smartphone on a car dashboard under satellite trails at dusk
+topics:
+  - News
 ---
 ## Breaking Partnership Reports
 

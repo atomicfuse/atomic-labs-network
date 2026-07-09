@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman holding a kettlebell in a bright gym with cardio equipment softly
   visible behind her.
+topics:
+  - Fitness
 ---
 ## Breaking Down the Research Findings
 

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Young footballer sprinting under stadium lights, suggesting a high-profile
   summer transfer move.
+topics:
+  - Latest News
 ---
 
 In the world of football transfers, Chelsea is making headlines with their interest in Aston Villa's promising young talent, Morgan Rogers. As the summer transfer window approaches, the London club has placed Rogers at the top of their acquisition list, signaling a strategic move to bolster their squad with youthful energy and potential.

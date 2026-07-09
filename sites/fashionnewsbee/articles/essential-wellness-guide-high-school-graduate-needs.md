@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Graduate with wellness essentials beside a suitcase, looking toward a bright
   college path.
+topics:
+  - Lifestyle
 ---
 ## Building Wellness Habits Before College Begins
 

@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Arctic coastline with receding ice and exposed rock suggesting regional sea
   level change near Greenland.
+topics:
+  - Environment
 ---
 
 Sea level changes are a pressing issue as they affect millions of people worldwide. While global sea levels are generally rising due to climate change, an interesting phenomenon is occurring around Greenland where projections indicate a potential fall in sea levels. This unique trend is primarily influenced by the melting of Greenland's ice sheet, which alters the gravitational pull on the surrounding ocean.

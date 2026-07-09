@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Traveler overlooking a vibrant Texas city with historic architecture, skyline,
   music, and warm sunset light.
+topics:
+  - Destinations
 ---
 
 Texas, renowned for its vast landscapes and cultural diversity, is a fantastic destination for travelers. From bustling cities to serene countryside, the Lone Star State offers an array of experiences that cater to all kinds of adventures. Whether you're a history buff, a foodie, or simply love exploring new places, Texas has something special for you.

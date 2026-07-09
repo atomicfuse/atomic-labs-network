@@ -1,5 +1,5 @@
 ---
-title: "Multiverse Rumors Swirl Around 'Avengers: Secret Wars' Cast"
+title: 'Multiverse Rumors Swirl Around ''Avengers: Secret Wars'' Cast'
 description: >-
   Anticipation for Marvel's "Avengers: Secret Wars" is high as rumors swirl
   about its cast. The film promises to bring back beloved characters, introduce
@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Anonymous heroic silhouettes stand amid glowing multiverse portals on a smoky
   cinematic stage.
+topics:
+  - Celebrities
 ---
 
 The anticipation surrounding Marvel's upcoming film "Avengers: Secret Wars" is reaching fever pitch as rumors about its cast continue to circulate. This eagerly awaited addition to the Marvel Cinematic Universe (MCU) promises to bring back beloved characters while introducing intriguing new storylines involving the multiverse.

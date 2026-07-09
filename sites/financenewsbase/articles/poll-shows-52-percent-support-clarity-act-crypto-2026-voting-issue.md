@@ -6,7 +6,7 @@ description: >-
   midterm...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -15,7 +15,7 @@ tags:
   - investment policy
   - midterm elections
 slug: poll-shows-52-percent-support-clarity-act-crypto-2026-voting-issue
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/clarity-act-poll-52-support-70-say-us-should-have-passed-crypto-legislation/
 source_item_id: 6a0154422a0a294c696af912
@@ -34,6 +34,8 @@ quality_note: >-
   but falls short on length and contains some unverified polling claims that
   could benefit from more specific sourcing.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Crypto Regulation Gains Bipartisan Electoral Support

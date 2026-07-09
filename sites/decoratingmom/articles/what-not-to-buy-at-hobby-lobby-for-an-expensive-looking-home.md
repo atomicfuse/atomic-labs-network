@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Calm neutral living room vignette with blurred cluttered decor in the
   foreground
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Shopping at Hobby Lobby can be exciting when you love home decorating, neutral decor, cozy spaces, and budget-friendly finds. The challenge is not finding enough options; it is knowing what to leave behind so your home feels more high-end, calm, timeless, and expensive without overspending.

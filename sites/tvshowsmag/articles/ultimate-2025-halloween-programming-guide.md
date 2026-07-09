@@ -41,6 +41,8 @@ quality_note: >-
   integration, it's significantly under the target word count and lacks specific
   details that would enhance both SEO value and factual credibility.
 image_alt: 'A dark living room lit by a blank TV, pumpkins, fog, and Halloween shadows.'
+topics:
+  - TV News
 ---
 
 With Halloween just around the corner, TV networks and streaming platforms are gearing up to offer a spooky lineup of shows and movies to delight horror enthusiasts and casual viewers alike. This year's Halloween programming promises a mix of old favorites and new surprises, ensuring that everyone finds something to send shivers down their spine.

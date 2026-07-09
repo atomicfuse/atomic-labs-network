@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Latina women gather in a sunlit wellness studio for yoga, movement, and
   community.
+topics:
+  - Yoga Routines
+  - Wellness
 ---
 ## Breaking New Ground in Community Wellness
 

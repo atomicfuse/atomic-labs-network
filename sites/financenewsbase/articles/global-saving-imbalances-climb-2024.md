@@ -5,7 +5,7 @@ description: >-
   beyond the traditional US-China narrative to include Germany, Japan, and...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Economic Trends
@@ -14,7 +14,7 @@ tags:
   - international finance
   - capital flows
 slug: global-saving-imbalances-climb-2024
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://www.forbes.com/sites/jamesbroughel/2026/05/10/how-important-are-global-saving-imbalances/
 source_item_id: 6a008dbc2a0a294c696af848
@@ -32,6 +32,8 @@ quality_note: >-
   on length and SEO optimization, with some unsourced claims that reduce factual
   confidence.
 reading_time: 3
+topics:
+  - Economic Trends
 ---
 
 ## Imbalances Return Despite Post-Crisis Decline

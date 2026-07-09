@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Dusk over a river airport approach with distant aircraft silhouettes and
   runway lights
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 How an Army Black Hawk helicopter collided into an American Airlines jetliner in a [deadly crash](https://www.cnbc.com/2025/01/30/american-airlines-helicopter-collision-worst-air-disaster-in-years.html) over the Potomac River Wednesday night is still unknown, but questions are emerging, including the altitude of the military helicopter.

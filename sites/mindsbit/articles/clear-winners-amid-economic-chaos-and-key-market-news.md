@@ -40,6 +40,10 @@ quality_note: >-
 image_alt: >-
   Abstract oil and clean energy forms divided by a glowing market volatility
   line on a global backdrop
+topics:
+  - Finance
+  - Innovation
+  - Tech
 ---
 
 Iran oil supply risks are back in focus as energy markets weigh geopolitical tension, sanctions pressure and the search for cleaner fuels. The debate now reaches far beyond crude prices. It connects inflation, shipping costs, industrial competitiveness and the pace of global decarbonization.

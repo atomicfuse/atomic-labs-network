@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Stylish young woman at a Paris street corner contemplating two paths at golden
   hour
+topics:
+  - Watch
 ---
 
 The much-anticipated return of "Emily in Paris" is here, bringing new adventures and challenges for our favorite expatriate marketing executive. As Emily navigates the vibrant streets of Paris, she finds herself entangled in personal and professional dilemmas that promise to keep viewers engaged and entertained throughout the season.

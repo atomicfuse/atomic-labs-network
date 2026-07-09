@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Futuristic electric off-road SUV carving tight curved tracks across a desert
   trail at sunset
+topics:
+  - Innovation
+  - Tech
 ---
 
 The automotive landscape is undergoing a transformative shift with the introduction of cutting-edge electric vehicles. Among these innovations, the GMC Hummer EV stands out, not only for its remarkable design but also for its unique features that promise to redefine off-road capabilities. One of the most intriguing features of this vehicle is its rear-wheel steering, which allows for exceptional maneuverability in challenging terrains.

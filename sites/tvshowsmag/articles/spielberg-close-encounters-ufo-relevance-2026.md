@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   A lone figure faces an eerie glow beyond a shadowy roadside checkpoint at
   night.
+topics:
+  - TV News
 ---
 ## A Prescient Vision of UFO Culture
 

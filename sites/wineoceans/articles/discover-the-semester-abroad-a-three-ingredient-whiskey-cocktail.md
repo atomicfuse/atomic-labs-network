@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Amber whiskey cocktail on a stylish bar with citrus, bitters, and
   travel-inspired props.
+topics:
+  - Wine news
 ---
 ## A New Addition to the Cocktail Scene
 

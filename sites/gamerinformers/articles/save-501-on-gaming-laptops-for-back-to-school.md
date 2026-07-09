@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Unbranded gaming laptop on a student desk with school supplies and colorful
   gaming lights
+topics:
+  - Gaming News
 ---
 
 As students prepare for the upcoming school year, the demand for versatile and high-performance laptops is on the rise. Whether you're heading to college or starting a new course, a gaming laptop can offer the perfect blend of power and portability. With discounts reaching up to $501, this is an opportune moment to invest in a device that meets both academic and gaming needs.

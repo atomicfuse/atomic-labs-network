@@ -34,6 +34,9 @@ quality_note: >-
 image_alt: >-
   Sleek concept car in a futuristic studio surrounded by abstract AI network
   patterns
+topics:
+  - News
+  - Industry
 ---
 ## The AI Challenge for European Automakers
 

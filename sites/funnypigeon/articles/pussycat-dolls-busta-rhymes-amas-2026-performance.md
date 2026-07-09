@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Pop performers command a red-and-blue lit arena stage as fans raise phones in
   the foreground.
+topics:
+  - Viral
 ---
 ## Major Stage Return After Tour Cancellations
 

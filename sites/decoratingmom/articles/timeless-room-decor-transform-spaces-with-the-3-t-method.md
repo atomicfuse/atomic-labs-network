@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Serene neutral living room with layered textures, natural light, and carefully
   styled personal decor
+topics:
+  - Decor Ideas
 ---
 
 Decorating a space can often feel overwhelming, with countless styles and options available. Yet, a simple method can transform this daunting task into an enjoyable activity. Known as the 3T method of decorating, this approach focuses on three key elements to ensure a harmonious and aesthetically pleasing environment.

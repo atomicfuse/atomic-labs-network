@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Recovering patient and transplant surgeons in a softly lit modern hospital
   corridor
+topics:
+  - Health News
 ---
 ## A Medical Milestone in Michigan
 

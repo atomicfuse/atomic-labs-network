@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Heirloom tomatoes beside glass fermenters of amber-red tomato wine on a rustic
   table.
+topics:
+  - Wine news
 ---
 ## The Unconventional Path to Tomato Wine
 

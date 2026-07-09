@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Retro-inspired compact electric car on a sunny European street near a charging
   post
+topics:
+  - Electric Cars
+  - Reviews
 ---
 
 The Fiat 500e represents a significant shift in the automotive landscape, combining classic Italian design with modern electric efficiency. As interest in eco-friendly vehicles grows, this compact car stands out with its distinctive style and practical features. Its entry into the electric vehicle market marks Fiat's commitment to sustainable transportation, offering drivers an appealing blend of innovation and tradition.

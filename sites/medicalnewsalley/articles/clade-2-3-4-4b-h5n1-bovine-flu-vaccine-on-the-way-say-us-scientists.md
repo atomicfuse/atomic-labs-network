@@ -37,6 +37,9 @@ seo:
 image_alt: >-
   Vaccine vial and syringe in a lab with a blurred researcher and dairy cow in
   the background
+topics:
+  - Health News
+  - Drugs & Treatments
 ---
 
 The battle continues against [H5N1 flu](https://medicalnewsbulletin.com/h5n1-bird-flu-cow-milk/) in North America, but followers of the news will be reassured to hear that a cutting edge H5N1 vaccine for the highly virulent strain currently spreading in cows is in the works. Since [seasonal flu vaccines](https://medicalnewsbulletin.com/universe-flu-vaccine/) do not protect against H5N1 flu, vaccine scientists have been racing against the virus to generate an effective shot before it starts transmitting between humans.

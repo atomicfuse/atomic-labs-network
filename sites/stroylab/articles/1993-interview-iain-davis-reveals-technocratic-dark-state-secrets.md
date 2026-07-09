@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Dim 1990s conference room with a glowing CRT monitor suggesting surveillance
   and bureaucratic control
+topics:
+  - Deep Dives
 ---
 
 The rise of technology has brought significant benefits to society, but it also raises concerns about privacy, control, and governance. As the world becomes more interconnected, understanding the implications of a technocratic governance model is crucial. This approach, often referred to as the "technocratic dark state," suggests a powerful coalition of technology and bureaucracy influencing global policies.

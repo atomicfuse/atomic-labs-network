@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Chefs prepare avant-garde dishes on driftwood and ceramics under warm
   restaurant lighting
+topics:
+  - TV & Movies
 ---
 ## The Final Four Face Their Biggest Test Yet
 

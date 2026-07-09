@@ -40,6 +40,8 @@ reading_time: 2
 image_alt: >-
   Luxury cruise ship at sea with subtle digital marketing overlays and a
   polished editorial look
+topics:
+  - Travel Tips
 ---
 ## New Partnership Aims to Support Travel Advisor Sales
 

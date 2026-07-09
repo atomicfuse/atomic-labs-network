@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Astronauts approach a futuristic lunar outpost with Earth rising over the moon
   horizon.
+topics:
+  - News
 ---
 
 China's ambitious space exploration agenda is taking another significant leap forward with the recent unveiling of its plans to establish a manned lunar research station by 2030. This monumental project underscores China's commitment to becoming a dominant force in space exploration, showcasing technological prowess and fostering international collaboration.

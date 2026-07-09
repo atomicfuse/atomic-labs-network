@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Vintage books, film reel, and women in warm conversation evoke period stories
   of care and community.
+topics:
+  - TV & Movies
 ---
 ## Finding Your Next Comfort Watch After Call the Midwife
 

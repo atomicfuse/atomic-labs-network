@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Colorful budget patio retreat with tropical plants, cozy seating, string
   lights, and warm sunlight
+topics:
+  - DIY Projects
+  - Design Tips
+  - Home Improvement
 ---
 
 Transforming an outdoor space into a serene retreat can seem daunting, but with creativity and a budget-friendly approach, anyone can achieve a stunning patio makeover. This article delves into a remarkable transformation of a once underutilized patio into a tropical paradise, demonstrating that a limited budget is not a barrier to creating an inviting outdoor haven.

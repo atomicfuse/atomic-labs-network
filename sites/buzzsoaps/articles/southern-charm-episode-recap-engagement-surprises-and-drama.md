@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Tense upscale veranda gathering at dusk with a subtle engagement hint and
   divided guests
+topics:
+  - Watch
 ---
 
 In the latest episode of Southern Charm, tensions among the Charleston group reach new heights as they navigate personal challenges and evolving dynamics. The episode offers a riveting glimpse into friendships tested by secrets, misunderstandings, and emotional confrontations, setting the stage for dramatic developments.

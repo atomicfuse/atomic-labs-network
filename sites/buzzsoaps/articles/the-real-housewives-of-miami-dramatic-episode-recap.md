@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Glamorous Miami rooftop gathering with silhouetted women and a dramatic dusk
   skyline
+topics:
+  - Watch
 ---
 
 The glitzy and vibrant world of Miami never ceases to provide drama and excitement, especially when it comes to the lives of the "Real Housewives of Miami." As the latest season unfolds, viewers are treated to a whirlwind of emotions, friendships, and rivalries, making it a must-watch for fans of reality television.

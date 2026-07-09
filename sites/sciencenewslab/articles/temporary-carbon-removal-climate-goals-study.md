@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Abstract climate accounting scene with methane haze, carbon storage forms, and
   scientific contour lines.
+topics:
+  - Environment
 ---
 ## The Right Tool for the Right Emission
 

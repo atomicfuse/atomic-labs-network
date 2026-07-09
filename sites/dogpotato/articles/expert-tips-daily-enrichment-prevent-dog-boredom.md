@@ -32,6 +32,8 @@ quality_note: >-
   short on length and has vague sourcing that impacts credibility.
 reading_time: 3
 image_alt: Happy dog exploring enrichment toys in a warm home setting
+topics:
+  - Dogs
 ---
 ## The Growing Challenge of Dog Boredom
 

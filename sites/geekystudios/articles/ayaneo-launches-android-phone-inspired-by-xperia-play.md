@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Sleek gaming smartphone with slide-out controls under cool neon studio
   lighting
+topics:
+  - Tech
 ---
 
 In an exciting development for mobile gaming enthusiasts, a new contender is emerging to redefine how we experience gaming on the go. The Ayaneo Pocket Play, a gaming smartphone, is generating buzz with its innovative design and impressive capabilities. This device promises to blend the functionalities of a high-performance gaming console with the convenience of a smartphone, offering an all-in-one solution for gamers who demand more from their mobile devices.

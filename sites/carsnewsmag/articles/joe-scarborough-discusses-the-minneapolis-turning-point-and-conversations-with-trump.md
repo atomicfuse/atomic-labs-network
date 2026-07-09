@@ -50,6 +50,8 @@ quality_note: >-
 image_alt: >-
   Empty interview set at dawn with two chairs and a blurred city skyline
   suggesting political reflection.
+topics:
+  - News
 ---
 
 Joe Scarborough, a prominent television host, recently shared his perspectives on the significant events unfolding in Minneapolis, marking a pivotal moment in history. During an engaging discussion, he emphasized the importance of these events as a turning point that could lead to meaningful change in the country.

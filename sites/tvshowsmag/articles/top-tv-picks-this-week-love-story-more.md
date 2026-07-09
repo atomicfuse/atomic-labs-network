@@ -40,6 +40,8 @@ quality_note: >-
   from being too short, lacking specific show details, and having a weak
   SEO-optimized title.
 image_alt: Viewers gathered in a dim living room lit by a cinematic television glow.
+topics:
+  - TV News
 ---
 
 This week, television offers a captivating array of stories that promise to engage audiences with their poignant narratives and diverse themes. From romantic dramas to gripping thrillers, viewers have a plethora of options to choose from, ensuring there's something for everyone to enjoy.

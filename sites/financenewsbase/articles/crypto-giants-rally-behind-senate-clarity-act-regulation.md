@@ -33,6 +33,8 @@ quality_note: >-
   but falls short on length and relies heavily on vague sourcing that could
   indicate fabricated details.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 ## Industry Unity Behind Regulatory Framework
 

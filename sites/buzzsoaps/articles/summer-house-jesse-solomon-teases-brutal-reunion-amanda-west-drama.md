@@ -41,6 +41,8 @@ reading_time: 3
 image_alt: >-
   Empty reunion set with velvet chairs under dramatic purple-blue lighting
   suggesting reality TV fallout
+topics:
+  - Watch
 ---
 ## Jesse Solomon Sets Expectations for Explosive Reunion
 

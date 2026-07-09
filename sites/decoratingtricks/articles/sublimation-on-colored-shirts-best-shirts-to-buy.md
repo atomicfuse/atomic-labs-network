@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Sunlit craft table with colored shirts, fabric swatches, heat press, and
   vibrant sublimation samples.
+topics:
+  - Decor Ideas
+  - Design Tips
 ---
 
 Let's chat about how to do sublimation on colored shirts. With sublimation, you need to make sure you're choosing the right colors and the right fabric and I'll show you which ones work well and which ones don't.

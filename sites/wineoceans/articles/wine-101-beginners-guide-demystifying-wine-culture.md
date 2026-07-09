@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Sunlit table with wine glasses, grapes, cheese, and hands sharing an
   approachable tasting moment
+topics:
+  - Wine for beginners
 ---
 ## Making Wine Accessible for Everyone
 

@@ -48,6 +48,8 @@ quality_note: >-
   but lacks specific SEO optimization elements like proper heading structure and
   could benefit from a more compelling title.
 image_alt: 'Parent holding a baby beside a laptop in a warm, sunlit home setting'
+topics:
+  - Parenting
 ---
 
 Raising a child is a journey filled with questions and challenges, especially for new parents navigating the early stages of their child's life. To support Manitoba families on this journey, a new online resource has been launched that provides reliable and trusted parenting information.

@@ -29,6 +29,8 @@ seo:
 image_alt: >-
   Three women in timeless autumn layers walk through a refined city street in
   warm neutral tones.
+topics:
+  - Fashion
 ---
 
 As the autumn season unfolds, it's time to rethink your wardrobe choices to suit the crisp, cool air. This fall, instead of chasing fleeting trends, why not consider investing in timeless pieces that offer both style and longevity? Whether you're dressing for a cozy coffee date or a brisk walk in the park, these outfit ideas promise to keep you looking effortlessly chic while maintaining a sense of individuality.

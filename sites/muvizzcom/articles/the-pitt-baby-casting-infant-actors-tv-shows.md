@@ -35,6 +35,8 @@ quality_note: >-
   short at 586 words and contains vague sourcing that raises factual accuracy
   concerns.
 reading_time: 3
+topics:
+  - TV Shows
 ---
 ## The Hidden World of Baby Casting in Television
 

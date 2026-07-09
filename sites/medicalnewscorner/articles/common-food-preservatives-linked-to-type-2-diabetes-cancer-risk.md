@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Packaged foods in shadow beside fresh vegetables, suggesting health concerns
   about preservatives
+topics:
+  - Health News
 ---
 
 Food preservatives have long been a staple in extending the shelf life of products, ensuring that food remains safe and palatable over time. However, recent research indicates that these additives may carry significant health risks, including links to chronic conditions such as type 2 diabetes and cancer.

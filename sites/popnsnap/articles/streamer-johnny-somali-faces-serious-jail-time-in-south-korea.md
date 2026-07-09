@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   A silhouetted smartphone user on a rainy city street with blurred police
   lights in the distance
+topics:
+  - Influencers
 ---
 
 In recent times, the digital landscape has witnessed a surge in controversial online personalities who thrive on the edge of social norms. Among these figures is a YouTuber known as Johnny Somali, whose content and actions have sparked widespread debate and legal consequences. His recent arrest in Japan has brought him back into the spotlight, raising questions about the boundaries of online content creation and the responsibilities of influencers.

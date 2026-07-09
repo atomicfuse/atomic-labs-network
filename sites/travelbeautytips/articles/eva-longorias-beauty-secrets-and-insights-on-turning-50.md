@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Elegant Latina woman in a warm studio setting with subtle beauty and
   filmmaking details
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Eva Longoria, a prominent figure in Hollywood, is widely known for her significant contributions to both entertainment and philanthropy. With a career spanning decades, she has consistently demonstrated her versatility as an actress, director, and producer. Beyond her professional achievements, Longoria actively engages in various charitable endeavors, illustrating her dedication to making a positive impact on society.

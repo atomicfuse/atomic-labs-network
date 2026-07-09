@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   A powerful luxury family SUV posed where a suburban street opens into a
   winding highway.
+topics:
+  - News
 ---
 ## The New Era of High-Performance Family Haulers
 

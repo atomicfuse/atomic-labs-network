@@ -31,6 +31,8 @@ quality_note: >-
   Well-targeted travel content with good keyword coverage but falls short on
   length and contains some vague claims that could use verification.
 reading_time: 3
+topics:
+  - Destination Guides
 ---
 ## Free Access to Canada's Natural Wonders
 

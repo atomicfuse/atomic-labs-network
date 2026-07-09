@@ -39,6 +39,8 @@ quality_note: >-
   The article is entirely fabricated about future events (2026 Oscars) with no
   factual basis, despite good tone and some entertainment relevance.
 image_alt: Golden awards stage with diverse silhouettes under cinematic spotlights
+topics:
+  - TV News
 ---
 
 The 2026 Oscars delivered a night filled with unforgettable moments, showcasing the pinnacle of cinematic achievement and artistic talent. From awe-inspiring acceptance speeches to groundbreaking wins, the event captured the attention of audiences worldwide. This year's ceremony, held at the iconic Dolby Theatre, was a celebration of diversity and innovation in film.

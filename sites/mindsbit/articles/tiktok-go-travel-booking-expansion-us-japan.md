@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Smartphone with travel visuals flowing into hotel, dining, and attraction
   booking symbols
+topics:
+  - Tech
 ---
 ## TikTok Enters Travel Booking Market
 

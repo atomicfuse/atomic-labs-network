@@ -34,6 +34,10 @@ quality_note: >-
   citations without specific sources.
 reading_time: 3
 image_alt: Active older adult climbs sunlit stairs with wellness essentials nearby.
+topics:
+  - Lifestyle
+  - Mindfulness
+  - Wellness
 ---
 ## The Science Behind Aging After 60
 

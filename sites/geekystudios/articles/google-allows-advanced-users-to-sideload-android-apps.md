@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Smartphone surrounded by abstract security lights and an open gate symbolizing
   controlled app sideloading.
+topics:
+  - Tech
 ---
 
 Google is set to make significant changes to the Android ecosystem, focusing on improving the sideloading process for users. Sideloading, the practice of installing apps from sources outside of the official Google Play Store, is a popular feature among Android users seeking more control over their devices. However, it also comes with risks, such as potential exposure to malicious software. Google aims to address these concerns by implementing a more secure and user-friendly sideloading experience.

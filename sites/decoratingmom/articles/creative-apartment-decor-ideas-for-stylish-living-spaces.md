@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Stylish small apartment living room with cozy decor, plants, warm lighting,
   and smart storage
+topics:
+  - Decor Ideas
+  - DIY Projects
 ---
 
 Creating a comfortable and stylish home environment often involves a balance of aesthetics and functionality. Every space, regardless of its size, can be transformed into a personal sanctuary that reflects individual tastes and priorities. This article explores creative strategies and design tips to enhance your living space, making it both practical and inviting.

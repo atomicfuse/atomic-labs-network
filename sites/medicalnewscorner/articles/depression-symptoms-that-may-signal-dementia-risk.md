@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Middle-aged person in soft window light with abstract memory patterns
   suggesting mental health and cognitive care.
+topics:
+  - Research
 ---
 
 Recent research has uncovered a significant connection between experiencing symptoms of depression during midlife and an increased risk of developing dementia in later years. Understanding the implications of mental health on cognitive decline is crucial for developing preventive strategies, particularly as populations age.

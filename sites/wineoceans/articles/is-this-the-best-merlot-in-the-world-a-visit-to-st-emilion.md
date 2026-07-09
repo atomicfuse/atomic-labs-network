@@ -1,27 +1,41 @@
 ---
-title: "Is This the Best Merlot in the World? A Visit to St Emilion"
-description: "A wine-focused look at the question of world-class Merlot, inspired by a visit to St Emilion and thanks to Sophie at Clos Fourtet and Gavin Quinney from Chateau Bauduc."
-type: "standard"
-status: "published"
-publishDate: "2026-05-04T12:47:51+00:00"
-author: "Taylor Winters"
+title: Is This the Best Merlot in the World? A Visit to St Emilion
+description: >-
+  A wine-focused look at the question of world-class Merlot, inspired by a visit
+  to St Emilion and thanks to Sophie at Clos Fourtet and Gavin Quinney from
+  Chateau Bauduc.
+type: standard
+status: published
+publishDate: '2026-05-04T12:47:51+00:00'
+author: Taylor Winters
 tags:
-  - "Wine reviews"
-  - "Wine news"
-  - "Wine"
-  - "Wine Review"
-  - "Wine Tasting"
-slug: "is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion"
+  - Wine reviews
+  - Wine news
+  - Wine
+  - Wine Review
+  - Wine Tasting
+slug: is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion
 reading_time: 5
-source_url: "https://wineoceans.com/is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion/"
-imported_from: "wordpress"
+source_url: >-
+  https://wineoceans.com/is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion/
+imported_from: wordpress
 wp_original_id: 19043
-featuredImage: "/assets/images/is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion.webp"
+featuredImage: /assets/images/is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion.webp
 seo:
-  canonical: "https://wineoceans.com/is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion/"
-  og_title: "Is This the Best Merlot in the World? A Visit to St Emilion - Wine Oceans"
-  og_description: "A wine-focused look at the question of world-class Merlot, inspired by a visit to St Emilion and thanks to Sophie at Clos Fourtet and Gavin Quinney from Chateau Bauduc."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://wineoceans.com/is-this-the-best-merlot-in-the-world-a-visit-to-st-emilion/
+  og_title: Is This the Best Merlot in the World? A Visit to St Emilion - Wine Oceans
+  og_description: >-
+    A wine-focused look at the question of world-class Merlot, inspired by a
+    visit to St Emilion and thanks to Sophie at Clos Fourtet and Gavin Quinney
+    from Chateau Bauduc.
+  twitter_card: summary_large_image
+topics:
+  - Wine news
+  - Wine for beginners
+  - Wine tips
+  - Wine reviews
+  - Wine recipes
 ---
 
 Calling any wine the best in the world is a bold question, and that is exactly what makes the idea of the best Merlot in the world so compelling. This video begins with that simple but powerful question and connects it to a visit to St Emilion, a place closely associated with memorable wine experiences, thoughtful tasting, and conversations with people who know the region well.

@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Runner doing a core stability Pilates move on a mat in a bright home workout
   space
+topics:
+  - Fitness & Movement
 ---
 ## The Hidden Saboteur of Running Performance
 

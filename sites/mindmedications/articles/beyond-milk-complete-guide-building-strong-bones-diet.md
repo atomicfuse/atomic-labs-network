@@ -32,6 +32,8 @@ quality_note: >-
   that undermines credibility.
 reading_time: 3
 image_alt: Colorful whole foods arranged in a clean mosaic on pale green tiles
+topics:
+  - Nutrition
 ---
 ## The Calcium Myth That's Keeping Your Bones Weak
 

@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Coastal vineyard rows transition from rough farmland toward distant hills and
   sea haze at golden hour.
+topics:
+  - Coffee News
 ---
 ## From Backwater to Wine Haven
 

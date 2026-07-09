@@ -35,6 +35,9 @@ reading_time: 2
 image_alt: >-
   Latina women gather in a warm wellness studio, creating a welcoming community
   space.
+topics:
+  - Fitness & Movement
+  - Mind & Body Wellness
 ---
 ## Redefining Wellness Through Cultural Connection
 

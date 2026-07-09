@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Balanced meal scene with pizza, fresh produce, and symbolic torn paper shapes
   on a bright dining table
+topics:
+  - Healthy Recipes
 ---
 
 Pizza has become a beloved staple in cuisines worldwide, celebrated for its versatility and deliciousness. Whether you prefer a classic Margherita or an adventurous gourmet topping, pizza offers something for everyone. The journey of this dish from its humble origins to its global fame is a fascinating tale of culinary evolution.

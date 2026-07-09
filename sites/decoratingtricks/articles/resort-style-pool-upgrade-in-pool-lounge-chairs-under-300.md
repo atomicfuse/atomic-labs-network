@@ -36,6 +36,8 @@ quality_note: >-
   'according to reports' claims without verification.
 reading_time: 3
 image_alt: White in-pool loungers on a sun shelf in a bright resort-style backyard pool
+topics:
+  - Home Improvement
 ---
 ## Bringing Resort Luxury Home on a Budget
 

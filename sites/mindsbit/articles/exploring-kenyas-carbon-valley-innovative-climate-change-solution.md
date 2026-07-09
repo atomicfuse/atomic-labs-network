@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Geothermal steam rises over Kenya’s Rift Valley in warm sunrise light with
   futuristic clean energy elements.
+topics:
+  - Innovation
+  - Tech
 ---
 
 In the quest for sustainable energy solutions, Kenya emerges as a pioneering force in harnessing geothermal resources and integrating carbon capture technologies. As global concerns about climate change intensify, this East African nation is leading the charge with innovative approaches that promise a cleaner and more sustainable future.

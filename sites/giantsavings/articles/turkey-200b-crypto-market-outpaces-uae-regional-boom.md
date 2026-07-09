@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Istanbul skyline with abstract crypto transaction streams suggesting Turkey’s
   regional digital asset boom.
+topics:
+  - Smart Shopping
 ---
 ## Turkey Emerges as MENA's Crypto Powerhouse
 

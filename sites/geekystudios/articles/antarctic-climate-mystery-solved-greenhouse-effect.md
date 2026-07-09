@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Polar researcher studies an ice core on an Antarctic ice shelf beneath a moody
   glowing sky.
+topics:
+  - Tech
 ---
 ## A Decade-Long Climate Puzzle
 

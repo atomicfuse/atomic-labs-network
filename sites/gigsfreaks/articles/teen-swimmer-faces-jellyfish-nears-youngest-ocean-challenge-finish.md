@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Teen open-water swimmer pushes through choppy predawn seas with a support boat
   on the horizon.
+topics:
+  - Good Vibes
 ---
 
 In an inspiring feat of endurance and determination, a teenage girl has made waves by successfully completing a grueling 27-mile swim, battling jellyfish along the way. Her remarkable journey across the Catalina Channel not only showcased her swimming prowess but also positioned her as a potential record-setter in the world of open water challenges.

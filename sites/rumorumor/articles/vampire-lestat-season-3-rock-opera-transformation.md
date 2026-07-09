@@ -33,6 +33,8 @@ quality_note: >-
   relies heavily on vague sourcing that raises accuracy concerns.
 reading_time: 3
 image_alt: Blond vampire rock star on a smoky stage lit by amber and violet spotlights.
+topics:
+  - TV & Movies
 ---
 ## A Bold Musical Pivot for The Vampire Chronicles
 

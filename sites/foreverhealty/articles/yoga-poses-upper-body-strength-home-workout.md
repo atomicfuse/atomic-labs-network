@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Woman holding a side plank on a yoga mat in a bright, minimalist home fitness
   space.
+topics:
+  - Fitness & Movement
 ---
 ## The Rise of Equipment-Free Strength Training
 

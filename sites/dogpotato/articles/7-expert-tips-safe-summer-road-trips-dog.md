@@ -33,6 +33,8 @@ quality_note: >-
   integration.
 reading_time: 3
 image_alt: Dog safely harnessed in a car during a sunny summer road trip stop
+topics:
+  - Dogs
 ---
 ## Planning Ahead Is Essential for Dog Road Trip Success
 

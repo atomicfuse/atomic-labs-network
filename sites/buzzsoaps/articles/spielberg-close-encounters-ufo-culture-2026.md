@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A lone figure watches a mysterious glow beyond a guarded rural horizon at
   night.
+topics:
+  - Culture Buzz
 ---
 ## A 1977 Vision That Feels Like Today's Headlines
 

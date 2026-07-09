@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   High-energy punk-folk concert with confetti, stage lights, and a cheering New
   Year’s Eve crowd.
+topics:
+  - Music
 ---
 
 Gogol Bordello, the renowned gypsy punk band, is set to energize fans with their upcoming New Year's Eve concert in Vermont. Known for their vibrant performances and eclectic sound, the band will be performing at Higher Ground, a popular venue in the region. This event is particularly special as it coincides with the release of their latest album, showcasing new material along with the beloved hits that have defined their career.

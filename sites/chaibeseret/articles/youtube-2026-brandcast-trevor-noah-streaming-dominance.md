@@ -36,6 +36,8 @@ quality_note: >-
   the site's chill vibe, content is too short, and there are concerning claims
   about future events (2026) that appear fabricated.
 reading_time: 3
+topics:
+  - breaking news
 ---
 ## YouTube's Bold Declaration: From Option to Platform
 

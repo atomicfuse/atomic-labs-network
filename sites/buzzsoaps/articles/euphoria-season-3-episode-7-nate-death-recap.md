@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Tense young woman holding a phone in a dim teal kitchen lit by cool shadows
   and red accents.
+topics:
+  - Watch
 ---
 ## A Death That Wasn't Really a Surprise
 

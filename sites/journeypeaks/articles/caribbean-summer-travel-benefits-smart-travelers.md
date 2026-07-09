@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Colorful boat on calm turquoise Caribbean water with distant islands and an
   uncrowded summer shoreline.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Caribbean Summer Shift
 

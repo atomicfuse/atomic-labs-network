@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Warm farmhouse living room vignette with thrifted wood, ceramics, brass, woven
   texture, and vintage art.
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 Magnolia style is loved for its warm, collected, elevated feeling, but achieving that look does not have to mean paying Magnolia prices. The key is to stop shopping only for exact dupes and start looking for the ingredients that create the same overall mood: warm wood, charming ceramics, aged brass, moody vintage art, woven texture, and cozy old-world details.

@@ -34,6 +34,9 @@ seo:
 image_alt: >-
   Moody desk scene with a manuscript, hidden photos, wedding ring, and contract
   suggesting celebrity revelations.
+topics:
+  - Celebrities
+  - Influencers
 ---
 
 Catherine Paiz, a prominent social media personality, is set to release a revealing two-part book that could shed light on her tumultuous relationship with Austin McBroom. Fans are abuzz with speculation about the potential revelations regarding their personal and professional life. This anticipated release has sparked widespread interest, especially among those familiar with their public persona as The ACE Family.

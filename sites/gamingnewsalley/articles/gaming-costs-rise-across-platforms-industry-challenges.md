@@ -38,6 +38,10 @@ reading_time: 3
 image_alt: >-
   Modern gaming gear surrounded by coins and blank receipts, suggesting rising
   costs
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## The Rising Cost of Gaming Entertainment
 

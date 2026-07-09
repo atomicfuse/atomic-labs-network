@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Empty gallery corridor with eerie light, dropped keys, coffee cup, and a lone
   footprint
+topics:
+  - Dark History
+  - Mysteries
 ---
 
 Some places feel harmless because they are familiar, quiet, or even beautiful. Others feel dangerous because something about them seems unfinished, empty, or out of place. This video, titled *This liminal space could KILL YOU*, brings together two true-event stories about locations and routines that appear ordinary at first, but gradually reveal why certain spaces are best avoided.

@@ -34,6 +34,8 @@ quality_note: >-
   details without credible sourcing.
 reading_time: 3
 image_alt: Rock singer faces a tense concert crowd under blue and magenta stage lights.
+topics:
+  - Celebrity News
 ---
 ## Concert Clash Divides Longtime Fanbase
 

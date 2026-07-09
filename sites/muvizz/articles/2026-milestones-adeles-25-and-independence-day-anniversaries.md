@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Vintage record and film reel glow in a cinematic archive, evoking major
   entertainment anniversaries.
+topics:
+  - Movies
+  - TV Shows
 ---
 
 As we journey through 2026, the world of entertainment is buzzing with excitement as numerous beloved TV shows, music albums, books, and movies reach significant anniversaries. These cultural milestones offer a chance to revisit classic favorites and appreciate their lasting impact on our lives over the years.

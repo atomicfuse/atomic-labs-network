@@ -44,6 +44,11 @@ quality_note: >-
 image_alt: >-
   Modern café counter with espresso drinks, pastries, and warm wood finishes in
   a bright hospitality space
+topics:
+  - Coffee News
+  - Coffee Drinks
+  - Coffee Gear
+  - Brewing Guides
 ---
 
 Seattle's Best Coffee is moving deeper into foodservice with a new branded café concept designed for operators seeking a recognisable coffee offer without building one from scratch. The concept gives venues a ready-made way to serve espresso drinks, cold beverages and café-style products under an established name.

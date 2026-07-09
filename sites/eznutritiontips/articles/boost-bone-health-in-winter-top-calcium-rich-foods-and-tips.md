@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Calcium-rich foods arranged in a cozy winter kitchen with soft snowy window
   light.
+topics:
+  - Healthy Recipes
 ---
 
 As winter arrives, maintaining a balanced diet becomes crucial, especially in ensuring adequate calcium intake. With reduced sunlight during these colder months, achieving optimal bone health can be challenging. However, by incorporating certain foods into your diet, you can support your bone health effectively.

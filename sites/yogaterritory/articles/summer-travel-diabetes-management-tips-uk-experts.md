@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Sunlit summer travel essentials arranged with diabetes supplies beside an open
   suitcase.
+topics:
+  - Wellness
 ---
 ## Essential Travel Preparation for Diabetes Management
 

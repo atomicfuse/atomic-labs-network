@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Older mother comforts an exhausted new mom in a softly cluttered doorway at
   dusk.
+topics:
+  - Parenting
 ---
 ## A Moment of Motherly Wisdom Goes Viral
 

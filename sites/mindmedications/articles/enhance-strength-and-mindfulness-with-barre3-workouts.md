@@ -41,6 +41,9 @@ quality_note: >-
   Good keyword integration and tone but significantly under target word count at
   551 words versus the 800-1200 target range.
 image_alt: 'People practicing mindful barre movements in a bright, serene fitness studio.'
+topics:
+  - Mindfulness
+  - Wellness
 ---
 
 Barre workouts have emerged as a popular choice for individuals seeking a blend of strength training and mindfulness. This unique exercise routine combines elements of ballet, yoga, and Pilates to deliver a comprehensive workout that enhances both physical and mental well-being. Whether you're new to fitness or an experienced athlete, barre can offer numerous benefits that help you achieve your wellness goals.

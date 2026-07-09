@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman in her late 30s reflects at a sunlit table with a planner and hourglass
   nearby.
+topics:
+  - Health News
 ---
 ## The Rise of Later Motherhood
 

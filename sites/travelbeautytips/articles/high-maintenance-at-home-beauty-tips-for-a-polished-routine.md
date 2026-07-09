@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Sunlit vanity with organized beauty tools, skincare, flowers, and manicured
   hands creating a polished routine
+topics:
+  - Beauty Tips
+  - Packing Guides
 ---
 
 High-maintenance beauty does not always have to mean constant appointments, complicated steps, or an overflowing schedule. An at-home beauty routine can help create a polished, put-together feeling from the comfort of home. For anyone who enjoys feeling elevated day to day, the key is not necessarily doing more, but making the right steps feel repeatable. From brow care to product organization and everyday self-maintenance, this type of routine is about building habits that support confidence before makeup, outfits, photos, or plans even begin.

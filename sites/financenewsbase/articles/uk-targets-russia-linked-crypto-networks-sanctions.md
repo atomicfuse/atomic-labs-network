@@ -35,6 +35,8 @@ quality_note: >-
   vague sourcing that could indicate potential factual issues.
 reading_time: 3
 image_alt: Metal chain constraining glowing crypto network nodes on a dark financial desk
+topics:
+  - Market Analysis
 ---
 ## Britain Escalates Crypto Enforcement with New Sanctions Package
 

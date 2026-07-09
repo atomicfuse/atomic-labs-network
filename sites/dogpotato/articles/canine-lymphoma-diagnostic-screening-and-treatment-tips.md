@@ -1,24 +1,35 @@
 ---
-title: "Canine Lymphoma: Diagnostic, Screening, and Treatment Tips"
-description: "Canine lymphoma is a common cancer affecting dogs' lymphatic systems, where early detection and tailored treatments are crucial for managing the disease. Advancements in veterinary medicine offer practical steps to improve life quality for affected dogs."
-type: "standard"
-status: "published"
-publishDate: "2026-02-02T11:02:51+00:00"
-author: "Taylor Winters"
+title: 'Canine Lymphoma: Diagnostic, Screening, and Treatment Tips'
+description: >-
+  Canine lymphoma is a common cancer affecting dogs' lymphatic systems, where
+  early detection and tailored treatments are crucial for managing the disease.
+  Advancements in veterinary medicine offer practical steps to improve life
+  quality for affected dogs.
+type: standard
+status: published
+publishDate: '2026-02-02T11:02:51+00:00'
+author: Taylor Winters
 tags:
-  - "Dogs"
-  - "Veterinary"
-slug: "canine-lymphoma-diagnostic-screening-and-treatment-tips"
+  - Dogs
+  - Veterinary
+slug: canine-lymphoma-diagnostic-screening-and-treatment-tips
 reading_time: 3
-source_url: "https://dogpotato.com/canine-lymphoma-diagnostic-screening-and-treatment-tips/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/canine-lymphoma-diagnostic-screening-and-treatment-tips/'
+imported_from: wordpress
 wp_original_id: 40162
-featuredImage: "/assets/images/canine-lymphoma-diagnostic-screening-and-treatment-tips.webp"
+featuredImage: /assets/images/canine-lymphoma-diagnostic-screening-and-treatment-tips.webp
 seo:
-  canonical: "https://dogpotato.com/canine-lymphoma-diagnostic-screening-and-treatment-tips/"
-  og_title: "Canine Lymphoma: Diagnostic, Screening, and Treatment Tips - Dog Potato"
-  og_description: "Canine lymphoma is a common cancer affecting dogs' lymphatic systems. Early detection and tailored treatments are crucial for managing the disease. Advancements in veterinary medicine offer practical steps to improve life quality for affected dogs."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://dogpotato.com/canine-lymphoma-diagnostic-screening-and-treatment-tips/
+  og_title: 'Canine Lymphoma: Diagnostic, Screening, and Treatment Tips - Dog Potato'
+  og_description: >-
+    Canine lymphoma is a common cancer affecting dogs' lymphatic systems. Early
+    detection and tailored treatments are crucial for managing the disease.
+    Advancements in veterinary medicine offer practical steps to improve life
+    quality for affected dogs.
+  twitter_card: summary_large_image
+topics:
+  - Dogs
 ---
 
 Canine lymphoma is a prevalent cancer among dogs, and understanding its diagnostics, screening, and treatment options is essential for pet owners and veterinarians alike. This disease, which affects the lymphatic system, can present in various forms and requires a tailored approach to manage effectively. With advancements in veterinary medicine, there are practical steps that can be taken to improve the quality of life for dogs diagnosed with this condition.

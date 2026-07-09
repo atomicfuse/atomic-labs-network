@@ -31,6 +31,8 @@ quality_note: >-
   relies heavily on vague expert claims without specific actionable advice.
 reading_time: 3
 image_alt: Happy dog playing with enrichment toys on a sunlit living room floor
+topics:
+  - Dogs
 ---
 ## Why Dog Enrichment Matters More Than Ever
 

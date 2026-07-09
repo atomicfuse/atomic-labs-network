@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   A lone silhouette faces a glowing portal on a dark abandoned sci-fi
   soundstage.
+topics:
+  - TV News
 ---
 
 "The OA," an intriguing sci-fi series on Netflix, captivated audiences with its unique storytelling and mysterious plotlines. Although the show concluded after two seasons, fans continue to hope for its revival. Recent comments from actor Jason Isaacs have reignited these hopes, sparking discussions about the show's potential return and its impact on viewers.

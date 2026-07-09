@@ -32,6 +32,8 @@ quality_note: >-
   Article covers relevant wine topics well but falls short on length and lacks
   engaging tone for beginner audience.
 image_alt: Fresh fruit and a glass fermentation jar on a sunlit rustic kitchen worktop
+topics:
+  - Wine news
 ---
 ## New Resource Emerges for Home Winemakers
 

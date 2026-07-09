@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Professionals coordinate around a glowing digital network representing
   resilient essential services.
+topics:
+  - Tech
 ---
 
 Cyber resilience has become a core business requirement, not a technical side project. As digital systems connect governments, hospitals, banks, manufacturers and supply chains, one weak point can disrupt many others. Organizations now need practical controls, trusted partnerships and shared responsibility to withstand cyberattacks and recover quickly.

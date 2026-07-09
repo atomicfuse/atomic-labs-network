@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Pixel hero in a fractured fantasy courtyard with glitch shards, clock pieces,
   and glowing sunset light
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## A Different Kind of Chrono Trigger Tribute
 

@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Metal chain restraining a glowing blockchain network in a tense financial
   compliance scene
+topics:
+  - Smart Shopping
 ---
 ## Breaking: UK Takes Aim at Russia-Linked Crypto Networks
 

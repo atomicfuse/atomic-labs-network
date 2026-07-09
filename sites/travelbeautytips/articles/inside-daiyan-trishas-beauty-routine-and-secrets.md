@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Young woman at a sunlit vanity applying skincare with minimal beauty products
   nearby
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Daiyan Trisha's approach to beauty is a blend of personal expression and disciplined routine. As a prominent figure in the entertainment industry, she has crafted a beauty regimen that not only enhances her natural features but also supports her busy lifestyle. Her insights offer valuable tips for those looking to refine their own beauty routines.

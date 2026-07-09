@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Colonial-era man stands in fog near glowing mushrooms on a haunted island at
   night.
+topics:
+  - TV News
 ---
 ## The Flashback That Changed Everything
 

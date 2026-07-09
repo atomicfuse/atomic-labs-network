@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   College students move between hybrid learning spaces on a bright campus
   walkway.
+topics:
+  - Human Curiosity
 ---
 
 The global pandemic has significantly impacted various aspects of life, including the educational experiences of college students. As universities around the world adapt to new norms, the academic performance and well-being of students have become areas of concern and study. Recent findings suggest that while students are gradually adjusting, the recovery process has been uneven across different demographics and institutions.

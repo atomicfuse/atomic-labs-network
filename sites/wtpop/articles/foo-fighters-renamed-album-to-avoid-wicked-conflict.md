@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Backstage rock instruments lit by amber stage lights and an emerald theatrical
   glow.
+topics:
+  - Music
 ---
 
 Dave Grohl knows how quickly a casual joke can become a rock headline. The Foo Fighters leader recently stirred fresh conversation around the band's future when he playfully floated *Wicked: For Good* as a possible name for a new Foo Fighters album. The comment was clearly delivered with a wink, but it still gave fans something exciting to debate: what comes next for one of modern rock's most enduring bands?

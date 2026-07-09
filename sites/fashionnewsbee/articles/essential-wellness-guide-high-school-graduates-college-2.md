@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Sunlit college packing scene with wellness essentials, journal, skincare,
   fruit, and graduation gown
+topics:
+  - Beauty
+  - Lifestyle
 ---
 ## Building Your College Wellness Foundation
 

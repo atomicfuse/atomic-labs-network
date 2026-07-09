@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Travelers explore sunny Philadelphia with the skyline and historic
   architecture in the background.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 I'm excited to share some expert tips on how to enjoy a budget-friendly summer vacation in Philadelphia for 2025. Whether you're planning a staycation or venturing out of the city, these strategies will help you keep costs in check without sacrificing fun.

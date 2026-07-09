@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Traveler overlooking a dreamlike horizon blending European rooftops with New
   Zealand mountains
+topics:
+  - Destinations
 ---
 
 As we look towards 2026, travel enthusiasts are increasingly setting their sights on Eastern Europe and New Zealand. These regions promise a blend of affordability and breathtaking experiences. From the cultural richness of Eastern Europe to the natural wonders of New Zealand, these destinations are poised to offer unforgettable journeys for travelers worldwide.

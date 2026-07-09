@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Young inventor in a shadowy workshop beside glowing armor parts and legal
   papers
+topics:
+  - Pop Culture
 ---
 
 Marvel Studios continues to expand its cinematic universe with fresh narratives and fascinating characters. The upcoming series, Ironheart, is set to make waves on Disney+ as it introduces audiences to a new superhero who blends intelligence with innovation. This highly anticipated show follows the journey of Riri Williams, a brilliant inventor who creates her own advanced suit of armor, signaling the rise of a new hero in the Marvel universe.

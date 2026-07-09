@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant sparkling wine and seafood spread on a coastal vineyard terrace
   overlooking a marina
+topics:
+  - Coffee News
 ---
 ## A New Era of Wine Travel Emerges
 

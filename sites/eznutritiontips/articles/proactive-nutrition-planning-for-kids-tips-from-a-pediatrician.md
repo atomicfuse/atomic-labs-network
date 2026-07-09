@@ -45,6 +45,9 @@ quality_note: >-
   (606 words vs 800+ target) and could better integrate site's specific keywords
   like 'nutrition tips' and 'special diets'.
 image_alt: Parent and child preparing colorful healthy meals together in a bright kitchen
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Ensuring that children maintain a healthy diet can be a challenge, especially with the busy lifestyles many families lead today. However, with strategic planning and a proactive approach, parents can significantly enhance their children's nutritional intake. This involves understanding the importance of balanced meals and making informed choices about the food that children consume daily.

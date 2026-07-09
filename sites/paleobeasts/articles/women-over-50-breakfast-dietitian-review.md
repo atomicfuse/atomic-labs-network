@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Woman over 50 enjoying a protein-rich breakfast in a bright kitchen after
   exercise
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## The Breakfast That's Missing Something Important
 

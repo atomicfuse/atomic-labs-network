@@ -33,6 +33,9 @@ quality_note: >-
   indicate' statements without specific sources.
 reading_time: 3
 image_alt: Latina women share a warm post-class moment in a sunlit wellness studio.
+topics:
+  - Fitness
+  - Yoga
 ---
 ## Redefining Wellness Through Cultural Connection
 

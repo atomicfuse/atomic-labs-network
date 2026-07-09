@@ -6,7 +6,7 @@ description: >-
   tensions and...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -15,7 +15,7 @@ tags:
   - south korea
   - regional markets
 slug: bitcoin-kimchi-premium-returns-2-percent-south-korea
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/bitcoin-premium-in-south-korea-hits-2-for-first-time-since-pre-war-market-shock/
 source_item_id: 6a008dbc2a0a294c696af853
@@ -32,6 +32,8 @@ quality_note: >-
   Professional tone and solid market analysis, but significantly under target
   word count at 586 words hurts overall effectiveness.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Regional Price Divergence Signals Market Sentiment Shift

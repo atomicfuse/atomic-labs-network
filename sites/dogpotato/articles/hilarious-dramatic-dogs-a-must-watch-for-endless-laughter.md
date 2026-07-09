@@ -1,25 +1,35 @@
 ---
-title: "Hilarious Dramatic Dogs: A Must-Watch for Endless Laughter"
-description: "Experience the hilarious antics of dramatic dogs with personalities as big as their barks, perfect for anyone needing a hearty laugh."
-type: "standard"
-status: "published"
-publishDate: "2026-02-23T10:01:30+00:00"
-author: "Taylor Winters"
+title: 'Hilarious Dramatic Dogs: A Must-Watch for Endless Laughter'
+description: >-
+  Experience the hilarious antics of dramatic dogs with personalities as big as
+  their barks, perfect for anyone needing a hearty laugh.
+type: standard
+status: published
+publishDate: '2026-02-23T10:01:30+00:00'
+author: Taylor Winters
 tags:
-  - "Animal Planet"
-  - "Dogs"
-  - "Funny Videos"
-slug: "hilarious-dramatic-dogs-a-must-watch-for-endless-laughter"
+  - Animal Planet
+  - Dogs
+  - Funny Videos
+slug: hilarious-dramatic-dogs-a-must-watch-for-endless-laughter
 reading_time: 2
-source_url: "https://dogpotato.com/hilarious-dramatic-dogs-a-must-watch-for-endless-laughter/"
-imported_from: "wordpress"
+source_url: >-
+  https://dogpotato.com/hilarious-dramatic-dogs-a-must-watch-for-endless-laughter/
+imported_from: wordpress
 wp_original_id: 40172
-featuredImage: "/assets/images/hilarious-dramatic-dogs-a-must-watch-for-endless-laughter.webp"
+featuredImage: /assets/images/hilarious-dramatic-dogs-a-must-watch-for-endless-laughter.webp
 seo:
-  canonical: "https://dogpotato.com/hilarious-dramatic-dogs-a-must-watch-for-endless-laughter/"
-  og_title: "Hilarious Dramatic Dogs: A Must-Watch for Endless Laughter - Dog Potato"
-  og_description: "Experience the hilarious antics of dramatic dogs with personalities as big as their barks. Perfect for anyone needing a hearty laugh."
-  twitter_card: "summary_large_image"
+  canonical: >-
+    https://dogpotato.com/hilarious-dramatic-dogs-a-must-watch-for-endless-laughter/
+  og_title: 'Hilarious Dramatic Dogs: A Must-Watch for Endless Laughter - Dog Potato'
+  og_description: >-
+    Experience the hilarious antics of dramatic dogs with personalities as big
+    as their barks. Perfect for anyone needing a hearty laugh.
+  twitter_card: summary_large_image
+topics:
+  - Animal Planet
+  - Dogs
+  - Funny Videos
 ---
 
 There's something incredibly amusing about watching dogs express their emotions with dramatic flair. This collection of funny dog videos showcases our furry friends at their most theatrical, providing endless entertainment and joy to animal lovers everywhere.

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Reusable glass bottle filled at a sunlit kitchen faucet beside a discarded
   plastic bottle.
+topics:
+  - Wellness
 ---
 
 Plastic water bottles have become a staple in modern life, offering convenience and portability for our hydration needs. However, recent studies have raised concerns about the presence of microplastics in these bottles and their potential impact on human health. As the world becomes more aware of environmental issues, it's important to understand the implications of our reliance on plastic water bottles and explore sustainable alternatives.

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   A lone figure watches mysterious lights beyond a guarded rural checkpoint at
   night.
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 ## A 1977 Film That Predicted Today's UFO Obsession
 

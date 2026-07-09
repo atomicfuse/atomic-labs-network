@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A poised actress stands in a moody theater corridor under dramatic spotlight
   and shadow.
+topics:
+  - TV News
 ---
 
 The world of television continues to surprise audiences with its ever-evolving narratives and captivating performances. One such production that has garnered significant attention is a new series featuring Rachel Weisz in a leading role. Her portrayal has been described as nothing short of remarkable, drawing viewers into a story that promises to leave a lasting impression.

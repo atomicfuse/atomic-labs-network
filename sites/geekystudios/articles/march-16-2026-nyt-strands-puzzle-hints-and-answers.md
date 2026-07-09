@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Abstract puzzle grid on a tablet with subtle basketball-inspired lines and
   glowing connections
+topics:
+  - Trends
 ---
 
 In the ever-evolving world of online games and puzzles, few have captured the imagination quite like The New York Times' challenging word games. Among these, the engaging daily puzzle called "The Big Dance" has managed to both entertain and puzzle players globally. This game, known for its strategic wordplay and intriguing clues, has become a staple for those seeking a daily mental workout from the comfort of their screens.

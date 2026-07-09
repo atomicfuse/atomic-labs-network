@@ -34,6 +34,8 @@ quality_note: >-
   While the article has a friendly tone and appears factually accurate, it fails
   to meet content length requirements and has minimal relevance to Good Food's
   core topics of recipes, cooking, restaurant reviews, and nutrition.
+topics:
+  - Food Culture
 ---
 In an unexpected turn of events that highlights our connection to wildlife and nature, New Jersey State Police troopers became unlikely heroes when they rescued a tiny black bear cub found abandoned alongside a busy highway.
 

@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Archaeologist at a desert ruin entrance with mysterious blue light beneath
   ancient Egyptian sands
+topics:
+  - Dark History
+  - Deep Dives
+  - Mysteries
 ---
 
 The Lost Labyrinth of Hawara is an enigma that has intrigued historians and archaeologists alike. Described by the Greek historian Herodotus in 450 BC, this labyrinth was said to be so grand that it dwarfed even the mighty pyramids of Egypt. For millennia, the labyrinth remained a mere legend, hidden beneath the sands of the Egyptian desert.

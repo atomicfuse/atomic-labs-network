@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Hopeful hospital scene with a patient silhouette and transplant team near a
   softly lit operating room.
+topics:
+  - Medical Research
 ---
 ## Breaking New Ground in Transplant Medicine
 

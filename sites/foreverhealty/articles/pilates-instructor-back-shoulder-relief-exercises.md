@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Person practicing a gentle Pilates mobility pose on a mat in a bright, calm
   home studio.
+topics:
+  - Fitness & Movement
 ---
 ## The Growing Problem of Desk-Related Stiffness
 

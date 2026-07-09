@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Small home mining device glowing on a desk with blurred industrial servers in
   the background.
+topics:
+  - Investment Tips
 ---
 ## David vs. Goliath in Bitcoin Mining
 

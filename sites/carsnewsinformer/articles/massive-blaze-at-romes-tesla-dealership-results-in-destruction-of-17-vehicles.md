@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Charred cars sit in a smoky dealership lot as firefighters work in the
   background.
+topics:
+  - News
 ---
 ## Major Fire Strikes Tesla Dealership
 

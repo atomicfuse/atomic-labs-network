@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Unbranded footballer under stadium lights with gold papers on the pitch and
   defenders in shadow
+topics:
+  - Latest News
+  - Leagues
 ---
 
 Manchester City has solidified its status as a dominant force in English football, maintaining an impressive lead in the Premier League standings. With a combination of strategic gameplay and an array of talented players, the team continues to captivate fans and analysts alike. This season, City has showcased remarkable consistency and resilience, making it a formidable competitor and a favorite for the title.

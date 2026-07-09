@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Personalized living room with layered textures, meaningful decor, greenery,
   and warm natural light
+topics:
+  - Decor Ideas
+  - Design Tips
+  - Home Improvement
 ---
 
 Tineke Triggs, a renowned interior designer, shares her expertise on transforming homes into curated spaces that reflect personal style while ensuring functionality. Her approach emphasizes the importance of personalizing interiors by blending aesthetics with practical elements, creating environments that are both beautiful and livable.

@@ -38,6 +38,10 @@ reading_time: 2
 image_alt: >-
   Cozy living room with a glowing screen, popcorn, remotes, and distant
   fireworks at summer dusk.
+topics:
+  - TV News
+  - Streaming
+  - Celebrity News
 ---
 ## Your Memorial Day Weekend Entertainment Guide
 

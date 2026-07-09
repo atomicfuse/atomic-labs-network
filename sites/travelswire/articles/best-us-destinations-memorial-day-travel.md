@@ -40,6 +40,9 @@ reading_time: 3
 image_alt: >-
   Travelers walk toward a Memorial Day ceremony on a flag-lined historic
   small-town street at dawn.
+topics:
+  - Destination Guides
+  - Local Culture
 ---
 ## Honor and Remember: Planning Your Memorial Day Weekend
 

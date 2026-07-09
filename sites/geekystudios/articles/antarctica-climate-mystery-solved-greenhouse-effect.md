@@ -32,6 +32,8 @@ quality_note: >-
   with the site's pop culture/lifestyle focus.
 reading_time: 3
 image_alt: Antarctic ice core on a windswept ice shelf beneath a faint warm haze at dawn
+topics:
+  - Tech
 ---
 ## A Decade-Long Antarctic Mystery
 

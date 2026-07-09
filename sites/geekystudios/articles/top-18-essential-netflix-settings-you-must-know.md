@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Remote pointed at a smart TV showing abstract streaming settings in a cozy
   living room
+topics:
+  - Tech
+  - Tutorials
 ---
 
 Netflix has become a household name, revolutionizing how we consume entertainment. While most users enjoy its vast library, many overlook the platform's customizable settings that can enhance their viewing experience. By tweaking a few key settings, you can make your Netflix usage even more enjoyable and tailored to your preferences.

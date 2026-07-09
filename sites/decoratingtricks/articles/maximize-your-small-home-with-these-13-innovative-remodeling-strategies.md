@@ -51,6 +51,9 @@ quality_note: >-
 image_alt: >-
   Compact modern living room with built-in storage, plants, and a foldaway
   workspace in warm daylight.
+topics:
+  - DIY Projects
+  - Home Improvement
 ---
 
 Home renovation has surged in popularity in recent years, with homeowners increasingly seeking to personalize their spaces. Whether it's about making a style statement or catering to a specific lifestyle, the trend has shifted towards creating a home that reflects your unique personality. This trend is further amplified by a widespread increase in remote work, prompting individuals to optimize their living spaces for comfort and functionality.

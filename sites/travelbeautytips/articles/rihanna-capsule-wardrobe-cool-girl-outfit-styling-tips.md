@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in denim, trench coat, cap, and sunglasses walks through a city
   street.
+topics:
+  - Lifestyle
 ---
 ## The Power of Wardrobe Fundamentals
 

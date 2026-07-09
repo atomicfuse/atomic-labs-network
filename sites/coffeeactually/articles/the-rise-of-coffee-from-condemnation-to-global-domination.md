@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Coffee beans flow from a rustic clay vessel toward a modern cup under warm
   cinematic light.
+topics:
+  - Coffee Drinks
 ---
 
 Coffee is one of the world's most beloved beverages, enjoyed by millions each day for its rich flavor and energizing effects. However, its journey to global popularity was not straightforward. Historically, coffee faced significant skepticism and opposition, which it had to overcome to become the staple it is today.

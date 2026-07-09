@@ -50,6 +50,9 @@ quality_note: >-
 image_alt: >-
   Quiet auto assembly line with unfinished minivans paused under industrial
   lighting
+topics:
+  - News
+  - Industry
 ---
 
 Stellantis, the multinational automobile manufacturer, has announced a temporary halt in its Windsor assembly operations. The suspension, set for a fortnight, is a direct result of tariff-induced supply chain complications. The move underscores the challenges faced by auto sectors worldwide in the face of global economic turbulence.

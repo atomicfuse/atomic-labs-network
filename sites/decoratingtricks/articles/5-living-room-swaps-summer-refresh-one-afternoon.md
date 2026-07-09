@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Airy cream living room with light textiles, flatweave rug, fresh flowers, and
   warm summer afternoon light.
+topics:
+  - Home Improvement
 ---
 ## Why Your Living Room Needs a Summer Reset
 

@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Digital crypto transaction network over a conference table with Mexico and EU
   color accents.
+topics:
+  - Smart Shopping
 ---
 ## New International Partnership Against Crypto Crime
 

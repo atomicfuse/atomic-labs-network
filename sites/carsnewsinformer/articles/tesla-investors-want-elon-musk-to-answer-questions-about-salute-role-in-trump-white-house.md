@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Unbranded electric car reflecting investors with a government building blurred
   behind it
+topics:
+  - News
 ---
 ## Investor Concerns Mount Over CEO's Political Involvement
 

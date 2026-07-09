@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A smartphone with an empty app slot amid abstract global user silhouettes and
   legal architecture shadows
+topics:
+  - Tech
 ---
 
 The landscape of mobile gaming has recently faced a significant shift as Fortnite, one of the most popular games globally, became inaccessible on iOS devices. This development stems from a legal clash between Epic Games and Apple, which has resulted in the removal of Fortnite from the Apple App Store. This situation has left millions of users wondering about the future of their beloved game on Apple platforms.

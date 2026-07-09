@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Spartan-inspired warrior silhouette overlooks stormy ancient ruins under a
   dramatic mythic sky
+topics:
+  - Gaming News
 ---
 
 The gaming world eagerly anticipates the next chapter in the acclaimed "God of War" series, as Mega Cat Studios gears up for the release of "God of War: Sons of Sparta". This highly anticipated installment promises to expand the epic saga with an engaging storyline and innovative gameplay features that have captivated fans across the globe.

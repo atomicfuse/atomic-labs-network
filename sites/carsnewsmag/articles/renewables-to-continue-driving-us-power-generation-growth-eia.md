@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Solar panels and wind turbines power a distant city at sunrise with inactive
   coal stacks beyond.
+topics:
+  - Electric Cars
 ---
 
 Renewable capacity additions, especially solar, will continue to drive the growth of US power generation over the next two years, according to the US Energy Information Administration (EIA).

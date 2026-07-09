@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Fashion-forward models in bold menswear silhouettes pose on a cinematic red
   carpet.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 The world of men's fashion is ever-evolving, with style icons consistently pushing the boundaries of traditional wear. Recently, several celebrities have made headlines with their bold choices on the red carpet, showcasing a blend of classic elegance and modern flair. From award ceremonies to exclusive premieres, these events have become a stage for sartorial innovation, drawing attention from fashion enthusiasts worldwide.

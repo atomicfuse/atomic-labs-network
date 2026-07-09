@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Armored warrior diving through a stormy sky above a glowing battlefield of
   scattered energy shards
+topics:
+  - Gaming News
 ---
 
 The realm of video gaming has always thrived on innovation, with developers constantly seeking new ways to enhance player engagement and experience. *Doom: The Dark Ages* has taken this challenge to heart, introducing a unique system that rewards players for their aggressive playstyle while maintaining a strategic balance. This fresh approach seeks to reshape how players interact with their virtual environments, offering a dynamic that both challenges and rewards strategic decision-making.

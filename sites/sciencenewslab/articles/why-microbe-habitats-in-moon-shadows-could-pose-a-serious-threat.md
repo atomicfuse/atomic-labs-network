@@ -39,6 +39,10 @@ quality_note: >-
 image_alt: >-
   Lunar rover pauses at the edge of a dark icy crater where faint microbial
   traces glow in shadow.
+topics:
+  - Space
+  - Physics
+  - Technology
 ---
 
 The possibility of moon shadows acting as a safe haven for microbes has sparked a fresh discussion in the scientific community. These lunar shadows, found in deep craters, are thought to be cold traps and could potentially harbor simple life forms, leading to concerns for space exploration missions.

@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Rattlesnake coiled in shadowed forest habitat with damp leaves suggesting
   hidden disease threats.
+topics:
+  - Trends
 ---
 ## Disease Emerges as Underestimated Threat to Snake Populations
 

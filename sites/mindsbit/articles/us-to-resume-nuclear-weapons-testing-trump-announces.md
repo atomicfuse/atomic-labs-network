@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Remote desert test site at dawn with monitoring equipment beneath an ominous
   sky.
+topics:
+  - Ideas
 ---
 
 In recent years, the topic of nuclear weapons testing has re-entered the global conversation, raising concerns over international security and environmental impact. This renewed focus stems from discussions within the United States about potentially resuming such tests. The implications of restarting nuclear tests could be significant, affecting both diplomatic relations and the global non-proliferation agenda.

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Traveler with a tablet overlooking Thailand’s cliffs, sea, greenery, and
   temple in warm morning light.
+topics:
+  - News
+  - Guides & Tips
 ---
 
 ## Discover Thailand: Free Digital Travel Guide by TAT Available

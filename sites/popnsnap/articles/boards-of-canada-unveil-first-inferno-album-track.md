@@ -28,6 +28,8 @@ seo:
 image_alt: >-
   Two shadowy figures face an ember-lit horizon in a grainy, atmospheric rural
   landscape.
+topics:
+  - Music
 ---
 
 Boards of Canada have returned to the spotlight with the first new music connected to their forthcoming album, _Inferno_. For fans of the Scottish electronic duo, even a brief sign of activity matters. Michael Sandison and Marcus Eoin have built one of modern electronic music's most devoted followings through patience, mystery, and an unmistakable sound world.

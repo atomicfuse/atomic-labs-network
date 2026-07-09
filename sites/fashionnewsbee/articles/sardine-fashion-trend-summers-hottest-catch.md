@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Chic summer model in coastal fashion with playful silver-blue sardine-inspired
   details.
+topics:
+  - Fashion
 ---
 
 In the dynamic world of fashion, trends can emerge from the most unexpected sources, captivating the imagination of style enthusiasts worldwide. This summer, one such trend is taking the style scene by storm: the sardine motif. Once relegated to the pantry, sardines are now making a splash in fashion circles, gracing everything from clothing to accessories.

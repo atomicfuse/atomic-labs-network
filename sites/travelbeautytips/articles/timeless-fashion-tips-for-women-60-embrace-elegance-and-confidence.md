@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Confident older woman in elegant neutral fashion standing in warm natural
   light
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 As we journey through different stages of life, our fashion choices evolve, reflecting our personalities and the experiences we gather along the way. For women over 60, fashion becomes an elegant expression of confidence and timeless beauty. Welcome to Claire Lookbook, a fashion haven where mature women can find inspiration to embrace their style with grace.

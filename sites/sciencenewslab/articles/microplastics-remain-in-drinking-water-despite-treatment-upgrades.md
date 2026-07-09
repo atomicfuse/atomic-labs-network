@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Glass of water with tiny particles lit in a laboratory beside blurred
   filtration equipment
+topics:
+  - Environment
 ---
 
 The persistence of microplastics in our drinking water, despite advanced treatment processes, raises significant environmental and health concerns. Microplastics, tiny plastic particles resulting from the degradation of larger plastic debris, have infiltrated various ecosystems, including water supplies. These particles pose potential health risks, prompting scientists and environmentalists to scrutinize water treatment methods and their effectiveness in addressing this issue.

@@ -34,6 +34,8 @@ quality_note: >-
   Professional tone and good structure, but contains fabricated 2025 data and
   falls short of target word count, limiting its overall effectiveness.
 reading_time: 3
+topics:
+  - Economic Trends
 ---
 ## Global Wine Production Plummets to Historic Lows
 

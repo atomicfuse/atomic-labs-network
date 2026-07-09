@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   A glowing TV fills a dark living room with cinematic fragments of drama,
   romance, and suspense.
+topics:
+  - Viral
 ---
 ## The Scenes That Define 2026's Television Landscape
 

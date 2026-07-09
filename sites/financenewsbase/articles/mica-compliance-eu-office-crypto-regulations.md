@@ -1,11 +1,11 @@
 ---
-title: "MiCA Compliance: EU Office Alone Won't Meet New Crypto Rules"
+title: 'MiCA Compliance: EU Office Alone Won''t Meet New Crypto Rules'
 description: >-
   Crypto companies face rejection as MiCA enforcement reveals gap between
   surface compliance and genuine EU operational substance requirements.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Economic Trends
@@ -14,7 +14,7 @@ tags:
   - EU-regulation
   - fintech
 slug: mica-compliance-eu-office-crypto-regulations
-reviewer_notes: ""
+reviewer_notes: ''
 source_url: >-
   https://news.bitcoin.com/mica-decoded-we-have-an-eu-office-is-not-enough-heres-what-regulators-actually-want-to-see/
 source_item_id: 6a008dbd2a0a294c696af863
@@ -32,6 +32,8 @@ quality_note: >-
   length (506 vs 800-1200 target) and makes claims about regulatory enforcement
   without specific citations or data sources.
 reading_time: 3
+topics:
+  - Economic Trends
 ---
 
 ## The Compliance Reality Gap

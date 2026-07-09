@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Premium cold brew coffee served over ice in a sunlit South African café
   setting
+topics:
+  - Coffee Drinks
+  - Brewing Guides
 ---
 
 South Africa is experiencing a significant shift in its coffee consumption habits, with cold brew coffee emerging as a popular choice among consumers. This trend is driven by a desire for premium-quality beverages and the convenience of ready-to-drink options. As more South Africans develop a taste for cold brew, the market is witnessing notable growth and transformation.

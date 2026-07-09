@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Actor stands between warm comedy lights and cool futuristic shadows, guided by
   a mentor figure.
+topics:
+  - Funny Videos
 ---
 
 In the dynamic world of television, actors often seek advice from seasoned professionals to navigate the complexities of their careers. This is particularly true for stars transitioning between different genres and styles of shows. Recently, Jared Harris, renowned for his roles in critically acclaimed series, shared valuable insights with Rob McElhenney, the star and creator of the long-running comedy series "It's Always Sunny in Philadelphia." McElhenney is venturing into new territory with his role in the science fiction Apple TV+ series "Foundation," and Harris's advice sheds light on the intricacies of such a transition.

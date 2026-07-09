@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Cozy modern Toronto cafe with coffee, pastries, and patrons in a sunlit
   neighborhood setting
+topics:
+  - Coffee Drinks
 ---
 
 Toronto's vibrant food scene continues to evolve with the introduction of Craves & Bites Cafe, a new gem nestled in the heart of the city. This recently opened cafe offers more than just a place to grab coffee; it provides a unique culinary experience that combines delectable treats with a cozy ambiance. Whether you're a local or a visitor, this cafe is set to become a must-visit destination for those who appreciate quality food and a welcoming atmosphere.

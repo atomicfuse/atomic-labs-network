@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Futuristic hydrogen energy facility on a Korean coastal skyline under clear
   blue light
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 South Korea is making significant strides by implementing an innovative hydrogen policy aimed at driving the nation toward sustainable energy solutions. This initiative is a core part of South Korea's commitment to reducing carbon emissions and fostering an eco-friendly industrial environment. As the world shifts toward clean energy, South Korea's proactive approach sets a promising example for other nations.

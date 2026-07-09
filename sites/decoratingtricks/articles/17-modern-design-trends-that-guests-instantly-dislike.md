@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Minimal modern living room with cold finishes softened by one warm personal
   accent
+topics:
+  - Decor Ideas
+  - Design Tips
+  - Home Improvement
 ---
 
 As the world of interior design continuously evolves, certain modern home design trends have sparked a mix of admiration and aversion among homeowners and designers alike. While some styles capture the essence of contemporary elegance, others leave much to be desired, prompting a reevaluation of their place in our living spaces.

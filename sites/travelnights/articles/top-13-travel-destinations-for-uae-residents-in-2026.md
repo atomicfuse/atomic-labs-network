@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Traveler in a modern airport lounge overlooking a dreamlike horizon of global
   destinations.
+topics:
+  - Destinations
 ---
 
 Planning your travel itinerary for 2026 could open up a world of unforgettable experiences. With an assortment of breathtaking destinations accessible from the UAE, travelers can look forward to diverse cultural encounters, stunning landscapes, and vibrant cityscapes. Whether you're seeking adventure, relaxation, or cultural immersion, there's a perfect spot waiting for you to explore.

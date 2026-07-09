@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Close-up of a calm eye with subtle skin texture and an abstract retinal
   pattern reflected in the iris.
+topics:
+  - Conditions
 ---
 ## Breaking Down the Eczema-Eye Connection
 

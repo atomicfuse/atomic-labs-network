@@ -41,6 +41,8 @@ quality_note: >-
   of ideal word count and could benefit from stronger SEO optimization in title
   and meta description.
 image_alt: Steaming tteokbokki served beside coffee on a modern café table
+topics:
+  - Coffee News
 ---
 
 In an innovative move that reflects the dynamic nature of the food and beverage industry, Compose Coffee has decided to diversify its offerings by adding tteokbokki to its menu. This strategic decision is poised to attract a broader audience and enhance the dining experience for its patrons, blending traditional Korean flavors with the café's contemporary vibe.

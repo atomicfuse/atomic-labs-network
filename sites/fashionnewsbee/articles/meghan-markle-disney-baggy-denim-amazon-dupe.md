@@ -33,6 +33,8 @@ quality_note: >-
   Markle's Disney appearance.
 reading_time: 3
 image_alt: Stylish woman in rolled-cuff baggy jeans walking in a sunny outdoor setting
+topics:
+  - Fashion
 ---
 ## Meghan Markle Champions the Baggy Denim Revolution
 

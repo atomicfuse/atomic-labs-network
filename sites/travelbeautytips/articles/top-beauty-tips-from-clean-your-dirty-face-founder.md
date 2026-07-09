@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   A woman receives a calming facial treatment in a bright, modern skincare
   studio.
+topics:
+  - Beauty Tips
 ---
 
 Shama Patel, a visionary in the beauty industry, has crafted a unique path by founding the innovative skincare brand, Clean Your Dirty Face. Her journey is not only a testament to her entrepreneurial spirit but also a reflection of her passion for skincare and wellness. As she continues to build her brand, Shama shares insights into her beauty routine and the inspirations that drive her success.

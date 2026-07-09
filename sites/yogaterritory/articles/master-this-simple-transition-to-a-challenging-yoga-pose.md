@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Yoga practitioner in a graceful floor transition in a softly lit minimalist
   studio
+topics:
+  - Yoga Poses
 ---
 
 Exploring the deeper layers of yoga practice often leads to discovering unique poses that challenge both body and mind. One such pose is the 'Cat Pulling Its Tail' transition, which offers an opportunity to deepen flexibility, balance, and concentration.

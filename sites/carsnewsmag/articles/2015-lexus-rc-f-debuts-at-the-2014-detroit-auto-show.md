@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Dramatic sports coupe under auto show lights with blurred spectators in the
   background
+topics:
+  - News
 ---
 
 Lexus unveils the 2015 Lexus RC F at the 2014 Detroit Auto Show. The sports coupe is arguably the best use of the spindle grille to date, and Lexus is receiving near-universal acclaim for its defiant use of a 480-hp naturally aspirated V-8 to power the rear wheels.

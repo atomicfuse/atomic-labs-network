@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Sunlit dorm desk with skincare, wellness items, snacks, journal, and
   graduation cap ready for college.
+topics:
+  - Beauty Tips
+  - Lifestyle
+  - Packing Guides
 ---
 ## Building Foundation Habits for College Success
 

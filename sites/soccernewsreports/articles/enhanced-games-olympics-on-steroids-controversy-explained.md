@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Elite athlete in a futuristic arena split by blue and neon light, symbolizing
   debate over enhanced sports.
+topics:
+  - Latest News
 ---
 ## A New Era in Competitive Sports
 

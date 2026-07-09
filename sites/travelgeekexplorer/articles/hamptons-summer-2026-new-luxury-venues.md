@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant Hamptons street scene with a restored inn, boutiques, and outdoor
   dining in golden summer light.
+topics:
+  - Destinations
 ---
 ## A Season of High-End Arrivals
 

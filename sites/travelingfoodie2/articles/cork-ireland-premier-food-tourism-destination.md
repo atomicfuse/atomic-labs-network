@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Refined farm-to-table dish on a white plate with artisan ingredients and a
   softly blurred Irish market backdrop.
+topics:
+  - Destination Guides
+  - food
 ---
 ## Cork Stakes Its Claim as Ireland's Rising Food Capital
 

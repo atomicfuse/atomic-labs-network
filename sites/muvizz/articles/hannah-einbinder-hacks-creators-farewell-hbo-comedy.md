@@ -1,9 +1,11 @@
 ---
 title: Hannah Einbinder & 'Hacks' Creators Say Goodbye to HBO Comedy
-description: As HBO's acclaimed comedy-drama 'Hacks' prepares for its series finale on May 28, star Hannah Einbinder and creators reflect on five seasons of comedy...
+description: >-
+  As HBO's acclaimed comedy-drama 'Hacks' prepares for its series finale on May
+  28, star Hannah Einbinder and creators reflect on five seasons of comedy...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - TV Shows
@@ -13,7 +15,8 @@ tags:
   - comedy-drama
 slug: hannah-einbinder-hacks-creators-farewell-hbo-comedy
 reviewer_notes: Approved via review queue.
-source_url: https://deadline.com/2026/05/hannah-einbinder-hacks-creator-bid-farewell-1236920542/
+source_url: >-
+  https://deadline.com/2026/05/hannah-einbinder-hacks-creator-bid-farewell-1236920542/
 source_item_id: 6a151f7316f23264031d8116
 generated_by: claude
 featuredImage: /assets/images/hannah-einbinder-hacks-creators-farewell-hbo-comedy.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 30
   keyword_relevance: 85
-quality_note: Strong keyword relevance and decent tone, but severely penalized for short length and major factual inaccuracies including incorrect finale date and wrong season count.
+quality_note: >-
+  Strong keyword relevance and decent tone, but severely penalized for short
+  length and major factual inaccuracies including incorrect finale date and
+  wrong season count.
 reading_time: 3
-image_alt: Two comedy collaborators embrace backstage beside a spotlighted microphone in an empty theater.
+image_alt: >-
+  Two comedy collaborators embrace backstage beside a spotlighted microphone in
+  an empty theater.
+topics:
+  - TV Shows
 ---
 ## The End of an Era for HBO's 'Hacks'
 

@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Elegant traveler in Saudi-inspired fashion walks through a modern airport
   lounge with warm desert-gold light.
+topics:
+  - Culture
+  - News
 ---
 
 Saudi Arabia is making waves in the travel and fashion industry with the launch of a groundbreaking initiative by Saudia, the national airline. This venture introduces "SV," a premium lifestyle brand designed to enhance the travel experience while promoting the richness of Saudi culture and innovation. By merging travel and fashion, Saudia aims to create a unique identity that resonates with both domestic and international travelers.

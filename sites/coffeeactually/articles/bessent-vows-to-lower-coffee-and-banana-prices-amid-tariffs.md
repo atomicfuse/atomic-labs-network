@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Coffee beans and bananas arranged with subtle global trade lines suggesting
   easing food prices.
+topics:
+  - Coffee News
 ---
 
 As global consumers continue to grapple with fluctuating prices in everyday goods, recent developments suggest potential relief could be on the horizon. In particular, attention has turned to the costs of coffee and bananas, two staples for many households worldwide. Recent policy changes, including discussions on tariff adjustments, are expected to play a pivotal role in stabilizing or even reducing these prices.

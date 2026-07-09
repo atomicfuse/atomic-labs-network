@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted doctor and patient beyond glowing digital records in a modern
   hospital corridor
+topics:
+  - Celebrities
 ---
 
 The landscape of healthcare information technology is undergoing significant changes with the introduction of a new policy aimed at modernizing health records management in the United States. This initiative is designed to streamline the way medical records are stored and accessed, offering both healthcare providers and patients a more efficient system.

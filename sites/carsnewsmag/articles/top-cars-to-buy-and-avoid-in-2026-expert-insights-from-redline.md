@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Unbranded cars on a twilight test track, split between bright highlights and
   shadow.
+topics:
+  - Reviews
 ---
 
 As we step into 2026, the automotive world is buzzing with excitement and anticipation. After a whirlwind year of test drives and reviews, Sofyan Bey from Redline has put together a comprehensive guide on which cars you should consider buying and which ones you might want to steer clear of. Spanning nearly 180 days on the road, Sofyan's expertise comes from firsthand experience, having driven a staggering 132 press cars throughout the year.

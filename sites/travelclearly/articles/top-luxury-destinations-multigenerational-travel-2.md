@@ -35,6 +35,10 @@ reading_time: 2
 image_alt: >-
   Three generations of a family on a luxury terrace overlooking a serene sunrise
   travel destination.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## A Growing Trend in Family Travel
 

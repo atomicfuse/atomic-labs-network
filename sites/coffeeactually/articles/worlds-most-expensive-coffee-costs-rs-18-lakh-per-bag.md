@@ -43,6 +43,9 @@ quality_note: >-
   title/pricing claims, significantly short content length, and potential
   factual inaccuracies about Eugenioides coffee.
 image_alt: Rare coffee beans and an artisan cup styled as a luxurious premium still life
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 In the world of coffee connoisseurs, a unique variety is garnering attention for its distinct flavor profile and low caffeine content. This remarkable bean, known as Eugenioides, is captivating enthusiasts with its sweet taste and is becoming a sought-after delicacy. Originating from the highlands of East Africa, this rare coffee is making waves in the global market.

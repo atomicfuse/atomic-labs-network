@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Sunlit rustic table with regional foods, wine, market produce, and
   travel-inspired dining details.
+topics:
+  - Local Culture
+  - food
 ---
 ## TL;DR
 If you’re a food lover, dive into these immersive culinary trips that offer extraordinary experiences from local homes to farms. Here’s how to plan your next food journey beyond just restaurant reservations!

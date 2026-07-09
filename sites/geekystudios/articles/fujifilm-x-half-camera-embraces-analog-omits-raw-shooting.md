@@ -41,6 +41,8 @@ quality_note: >-
   length shortfall and potential factual inaccuracies about a camera that may
   not exist.
 image_alt: Retro-inspired digital camera beside film accessories on a warm wooden table
+topics:
+  - Tech
 ---
 
 Fujifilm has made waves in the photography community with its latest innovation, a camera that combines classic design with modern technology. This new release caters to photography enthusiasts who appreciate the tactile feel of analog cameras but desire the convenience and versatility of digital features.

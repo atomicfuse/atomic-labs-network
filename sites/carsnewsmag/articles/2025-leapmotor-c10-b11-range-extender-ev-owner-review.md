@@ -39,6 +39,8 @@ quality_note: >-
   relevance, but falls significantly short on length (436 vs 800-1200 target)
   and lacks specific technical details that would improve SEO and factual depth.
 image_alt: Sleek electric SUV at a modern charging rest stop during golden hour
+topics:
+  - Electric Cars
 ---
 
 The automotive world is buzzing with excitement over the 2025 Leapmotor C10, a cutting-edge electric vehicle that promises to redefine the driving experience. Combining innovative technology with sleek design, this vehicle is designed for those who prioritize sustainability without compromising on performance.

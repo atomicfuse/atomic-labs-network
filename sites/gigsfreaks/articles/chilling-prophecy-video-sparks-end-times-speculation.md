@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Silhouetted viewer watching a mysterious video as storm clouds gather over a
   city skyline
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 In a video that has captured the attention of many online communities, a man claims that an ancient prophecy heralding the end times has begun. This video, initially shared in niche groups focused on celestial anomalies, quickly gained traction, drawing interest from researchers and enthusiasts alike.

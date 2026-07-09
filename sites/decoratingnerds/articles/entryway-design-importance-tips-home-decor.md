@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Sunlit stylish entryway with console table, mirror, greenery, and a softly
   blurred room beyond.
+topics:
+  - Design Tips
+  - Budget Decor
+  - Decor Ideas
 ---
 ## The Overlooked Space That Makes the Biggest Impact
 

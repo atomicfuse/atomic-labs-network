@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Confident person applying shimmering New Year’s Eve makeup at a softly lit
   vanity
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 With New Year's Eve just around the corner, many are looking to step up their beauty game for the ultimate party look. Whether you're attending a glamorous event or a cozy gathering, achieving a stunning makeup look can set the tone for a memorable night. Let's explore expert makeup tips that can elevate your look and ensure you start the new year with confidence.

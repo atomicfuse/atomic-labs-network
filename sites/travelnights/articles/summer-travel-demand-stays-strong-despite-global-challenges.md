@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Train crossing a green valley as sunlight breaks through clouds, with distant
   travel routes beyond.
+topics:
+  - Destinations
+  - News
 ---
 ## Record Travel Season Launches Despite Uncertainty
 

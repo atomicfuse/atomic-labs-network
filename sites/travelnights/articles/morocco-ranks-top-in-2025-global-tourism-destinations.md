@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Golden-hour Moroccan rooftop view with medina architecture, mountains, and
   desert tones
+topics:
+  - Culture
+  - Destinations
 ---
 
 Morocco is steadily emerging as a premier global travel destination, captivating visitors with its rich cultural heritage, diverse landscapes, and vibrant cities. As tourism experts anticipate Morocco's ascent in global rankings by 2025, the country is poised to offer unforgettable experiences to travelers from around the world. From bustling markets to serene deserts, Morocco's allure is undeniable.

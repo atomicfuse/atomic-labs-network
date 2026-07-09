@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Elegant kimono-clad woman beside an unbranded amber whisky bottle amid flowing
   ivory silk.
+topics:
+  - Wine news
 ---
 ## Historic Partnership Bridges Japanese Heritage and Global Markets
 

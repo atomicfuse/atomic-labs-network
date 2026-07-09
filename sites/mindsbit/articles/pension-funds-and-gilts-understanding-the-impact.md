@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Abstract pension portfolio and bond documents on a financial desk with city
   markets in the background
+topics:
+  - Finance
 ---
 
 The global financial landscape is undergoing significant changes as central banks across the world adopt new strategies to combat inflation and stabilize economies. This shift is marked by a series of interest rate hikes and strategic fiscal policies. Economists are closely monitoring these developments as they unfold, evaluating their potential impacts on both local and international markets.

@@ -54,6 +54,8 @@ quality_note: >-
 image_alt: >-
   Yoga practitioner in a sunlit studio demonstrating balance, alignment, and
   calm mobility.
+topics:
+  - Yoga Poses
 ---
 
 Practicing yoga is a powerful way to enhance your health, particularly for improving posture and mobility. A senior yoga instructor shares five essential poses that can significantly boost these aspects of your wellness journey.

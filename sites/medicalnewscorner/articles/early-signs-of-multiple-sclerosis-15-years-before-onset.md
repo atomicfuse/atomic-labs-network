@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   A softly lit silhouette with glowing neural pathways suggesting early
   neurological changes over time.
+topics:
+  - Research
 ---
 
 Multiple sclerosis (MS) is a chronic condition affecting the central nervous system, leading to a range of physical and neurological symptoms. Recent studies suggest that subtle indicators of MS may manifest years before an official diagnosis is made. Recognizing these early signs can be crucial for timely intervention and management.

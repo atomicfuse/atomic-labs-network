@@ -37,6 +37,8 @@ quality_note: >-
   press-release tone that lacks the engaging conversational style expected for
   entertainment enthusiasts.
 image_alt: An empty chair under a spotlight on a quiet indie rock venue stage.
+topics:
+  - Music
 ---
 ## Ratboys Announce Latest Musical Project
 

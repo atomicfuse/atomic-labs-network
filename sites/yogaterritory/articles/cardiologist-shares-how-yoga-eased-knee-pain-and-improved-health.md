@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Doctor practicing gentle yoga in warm morning light to suggest knee pain
   relief and wellness.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is renowned for its holistic benefits, and many individuals, including health experts, have turned to it for improved well-being. Among them is a notable cardiologist who found yoga to be a transformative practice that alleviated his knee pain and enhanced his overall health. This compelling story illustrates the profound impact yoga can have on both physical and mental health.

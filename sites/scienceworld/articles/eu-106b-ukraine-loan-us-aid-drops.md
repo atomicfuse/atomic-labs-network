@@ -34,6 +34,8 @@ quality_note: >-
   contains unverified claims about massive aid packages, and doesn't match the
   required travel-focused content or tone.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## Geopolitical Shift in Ukraine Support
 

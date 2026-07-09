@@ -40,6 +40,8 @@ quality_note: >-
   misleading title about online medicine shopping that doesn't match the yoga
   content at all.
 image_alt: Woman practicing a heart-opening yoga pose in a calm sunlit wellness studio
+topics:
+  - Yoga Poses
 ---
 
 Yoga is renowned for its numerous health benefits, including its positive impact on breast health. By integrating specific yoga poses into your routine, you can support breast wellness, promote circulation, and improve lymphatic drainage. These exercises not only enhance physical health but also contribute to mental well-being, reducing stress and fostering a balanced lifestyle.

@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Woman in an ivory slip dress, matching cardigan, and woven flats on a sunny
   city street.
+topics:
+  - Lifestyle
 ---
 ## The Celebrity-Approved Summer Formula Taking Over
 

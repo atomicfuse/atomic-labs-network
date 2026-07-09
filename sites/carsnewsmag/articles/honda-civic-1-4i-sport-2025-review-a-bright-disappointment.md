@@ -42,6 +42,8 @@ quality_note: >-
   structure, and confusing content focus significantly impact quality despite
   decent automotive tone.
 image_alt: Late-1990s compact hatchback parked on a sunlit urban street with soft shadows
+topics:
+  - Reviews
 ---
 
 The Honda Civic has long been a staple in the compact car segment, celebrated for its reliability and efficiency. The 1997 Honda Civic 5-Door Hatchback continues this tradition, offering a blend of practicality and performance that appeals to a diverse range of drivers. This model, particularly the 1.4i Sport 5dr variant, exemplifies the Civic's ability to balance everyday usability with a hint of sporty flair.

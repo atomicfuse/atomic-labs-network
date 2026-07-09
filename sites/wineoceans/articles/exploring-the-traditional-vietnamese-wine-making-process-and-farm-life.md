@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Traditional Vietnamese rice wine jars and rice baskets in a sunlit rural
   farmhouse
+topics:
+  - Wine news
 ---
 ## Vietnamese Wine Heritage Draws Interest
 

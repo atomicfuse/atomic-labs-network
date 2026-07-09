@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Rustic ceramic bowl of homemade meatballs with fresh herbs on a sunlit
   farmhouse table
+topics:
+  - Culture Buzz
 ---
 
 Discover the culinary collaboration between Nara Smith and Ballerina Farm, where tradition and modernity blend harmoniously. Ballerina Farm, known for its dedication to sustainable farming and high-quality meats, recently teamed up with Nara Smith, a culinary influencer celebrated for her innovative recipes. Together, they crafted a unique version of meatballs that celebrates both rustic charm and contemporary flair.

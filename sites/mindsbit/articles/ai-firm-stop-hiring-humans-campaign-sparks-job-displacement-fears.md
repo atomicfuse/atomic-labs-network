@@ -36,6 +36,8 @@ quality_note: >-
   enthusiasts.
 reading_time: 3
 image_alt: Commuters pass a glowing AI-themed ad kiosk on a rainy city street at night.
+topics:
+  - Tech
 ---
 ## Controversial AI Marketing Campaign Draws Public Backlash
 

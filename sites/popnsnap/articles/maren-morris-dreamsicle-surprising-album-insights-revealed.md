@@ -37,6 +37,9 @@ seo:
 image_alt: >-
   Silhouetted musician on a dreamy stage with an acoustic guitar and warm pastel
   light
+topics:
+  - Celebrities
+  - Music
 ---
 
 Maren Morris, a prominent figure in the country music scene, is experiencing a transformative phase in her life and career. Recently, she released her latest album, which she describes as a deeply personal exploration of her journey through significant life changes. This new body of work marks a departure from her previous style, showcasing a more introspective side of the artist. In this article, we delve into the themes and inspirations behind Morris's new album, discuss her creative process, and explore the impact of her personal experiences on her music and career trajectory.

@@ -28,6 +28,8 @@ seo:
 image_alt: >-
   Vintage guitar and oversized amps sit backstage in moody concert haze before a
   rock comeback.
+topics:
+  - Music
 ---
 
 The legendary rock band Spinal Tap is set to make a remarkable return with a brand-new album, their first in several years. Known for their satirical take on the rock music industry, Spinal Tap has garnered a cult following since their inception. This latest project is poised to captivate both new listeners and devoted fans alike.

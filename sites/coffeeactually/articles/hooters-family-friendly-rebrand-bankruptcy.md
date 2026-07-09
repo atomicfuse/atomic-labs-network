@@ -38,6 +38,8 @@ reading_time: 2
 image_alt: >-
   Kids’ crayons and wings on a restaurant table with retro orange decor blurred
   in the background.
+topics:
+  - Coffee News
 ---
 ## The Great Hooters Transformation
 

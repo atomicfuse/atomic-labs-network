@@ -32,6 +32,8 @@ quality_note: >-
   beyond just 'Tech'.
 reading_time: 3
 image_alt: Research vessel crossing dark Pacific waters above a hidden volcanic plateau
+topics:
+  - Tech
 ---
 ## A Geological Cold Case Reopens
 

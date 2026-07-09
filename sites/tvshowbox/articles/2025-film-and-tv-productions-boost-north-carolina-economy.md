@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Film crew working at golden hour near North Carolina landscapes and small
   local businesses.
+topics:
+  - TV News
 ---
 
 North Carolina continues to be a thriving hub for film and television productions, contributing significantly to the state's economy. In 2023 alone, the film and TV industry is projected to inject approximately $185.5 million into the local economy. This surge in production activity highlights North Carolina's appeal as a filming destination, offering diverse landscapes and a supportive infrastructure for filmmakers.

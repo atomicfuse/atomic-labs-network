@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   A tense neon-lit kitchen with a lone silhouette, spilled glass, and
   rain-streaked shadows.
+topics:
+  - TV & Movies
 ---
 ## A Death That Surprised No One
 

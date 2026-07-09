@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Two unbranded footballers sprint in rain under floodlights as abstract
   transfer arrows glow behind them.
+topics:
+  - Transfers
+  - Leagues
 ---
 ## The Rise of Premier League's Domestic Transfer Revolution
 

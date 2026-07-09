@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   A sci-fi pilot in a smoky hangar faces glowing holographic portals to
   different space adventures.
+topics:
+  - Gaming News
 ---
 
 With the anticipation for the Star Wars: Andor series building, fans of the franchise are seeking to immerse themselves in the Star Wars universe. If you're one of them, we've got you covered. Here's our pick of video games that echo the themes and atmosphere of the upcoming show. These recommendations will help you get your Star Wars fix while you wait for the Andor series.

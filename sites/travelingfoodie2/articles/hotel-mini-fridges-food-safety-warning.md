@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Open hotel mini fridge beside travel items, leftovers, and medication in a
   dimly lit room
+topics:
+  - Travel Tips
+  - food
 ---
 ## The Hidden Hotel Room Hazard
 

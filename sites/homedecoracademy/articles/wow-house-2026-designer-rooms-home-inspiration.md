@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Luxurious layered interior with sculptural chandelier, archways, rich
   textiles, library, bar, and garden details
+topics:
+  - Decor Ideas
 ---
 ## Fifth Year of Global Design Excellence
 

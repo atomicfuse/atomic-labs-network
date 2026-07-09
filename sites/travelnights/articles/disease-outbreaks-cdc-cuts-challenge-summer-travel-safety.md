@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Travelers wait in a dim airport terminal with health supplies beside luggage
   and a plane outside.
+topics:
+  - News
 ---
 ## Growing Health Risks Meet Peak Travel Season
 

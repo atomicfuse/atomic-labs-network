@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Armored warrior faces a fiery medieval sci-fi battlefield with towering mechs
   and distant monsters.
+topics:
+  - TV News
 ---
 
 Get ready for an intense experience with Doom: The Dark Ages, the newest first-person action shooter from id Software. Step into the role of the DOOM Slayer in a medieval battle against Hell, complete with massive mechs and countless demon foes. Utilize a variety of powerful weapons and abilities to conquer your enemies. The game releases on May 15 for PlayStation 5, Xbox Series X|S, and PC.

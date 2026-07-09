@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Empty late-night studio stage with a dim spotlight and glowing control room
   monitors behind it.
+topics:
+  - News
 ---
 
 In a surprising turn of events, ABC has decided to pull *Jimmy Kimmel Live!* from its regular programming schedule. This decision was made following comments made by the host, Jimmy Kimmel, regarding the recent death of Charlie Kirk. The network's move to take the show off the air has left many fans and viewers in shock, prompting discussions about the impact of on-air comments and network responsibilities.

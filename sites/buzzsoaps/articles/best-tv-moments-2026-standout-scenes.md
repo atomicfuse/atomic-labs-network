@@ -32,6 +32,8 @@ quality_note: >-
   words.
 reading_time: 3
 image_alt: Cinematic triptych of dramatic TV scenes glowing in a dark room
+topics:
+  - Culture Buzz
 ---
 ## The Year's Most Unforgettable Television Moments
 

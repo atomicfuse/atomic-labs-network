@@ -32,6 +32,9 @@ quality_note: >-
   site - should focus on coffee content instead of wine.
 reading_time: 3
 image_alt: Chilled red wine glasses and an ice bucket on a sunlit summer patio table.
+topics:
+  - Coffee News
+  - Brewing Guides
 ---
 ## Breaking the Warm Wine Rule: Why Experts Recommend Chilling Reds
 

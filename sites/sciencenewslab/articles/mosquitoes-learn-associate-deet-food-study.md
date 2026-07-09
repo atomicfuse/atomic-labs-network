@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Mosquito hovering near a forearm through fading repellent mist in a natural
   outdoor setting
+topics:
+  - Nature
 ---
 ## Mosquitoes Show Surprising Learning Ability
 

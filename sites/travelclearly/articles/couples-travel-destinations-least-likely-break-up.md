@@ -36,6 +36,11 @@ reading_time: 3
 image_alt: >-
   Couple relaxing beside a calm mountain lake at golden hour with a village and
   island in the distance
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
+  - Lifestyle
 ---
 ## The Rise of Relationship-Proof Travel
 

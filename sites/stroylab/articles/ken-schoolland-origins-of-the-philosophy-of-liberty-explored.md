@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Antique desk with open book, compass, and modern skyline suggesting liberty
   across eras
+topics:
+  - Deep Dives
 ---
 
 Philosophy has always been a cornerstone of human thought, influencing societies and cultures throughout history. One such philosophy that has garnered attention is the philosophy of liberty. This concept underscores the importance of individual freedom and autonomy, fostering a world where personal choice and responsibility are paramount. Understanding its origins and development provides insight into how societies function and the value placed on individual rights.

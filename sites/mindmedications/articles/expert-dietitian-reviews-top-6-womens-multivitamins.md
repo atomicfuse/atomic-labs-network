@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Unbranded vitamins, gummies, water, and notes arranged in a warm wellness
   still life
+topics:
+  - Nutrition
+  - Wellness
 ---
 ## Expert Analysis of Women's Multivitamin Market
 

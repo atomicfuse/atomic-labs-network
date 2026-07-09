@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Three generations relax on a luxury terrace overlooking a bright coastal
   landscape.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Rise of Luxury Multigenerational Travel
 

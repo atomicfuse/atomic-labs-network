@@ -1,9 +1,12 @@
 ---
 title: Lisa Rinna Says No to Spencer Pratt's Mayoral Campaign
-description: Reality TV star Lisa Rinna publicly opposes Spencer Pratt's Los Angeles mayoral run, questioning if reality TV fame qualifies for political leadership.
+description: >-
+  Reality TV star Lisa Rinna publicly opposes Spencer Pratt's Los Angeles
+  mayoral run, questioning if reality TV fame qualifies for political
+  leadership.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +16,7 @@ tags:
   - entertainment
 slug: lisa-rinna-spencer-pratt-mayor-campaign
 reviewer_notes: Approved via review queue.
-source_url: https://www.thecut.com/article/lisa-rinna-not-voting-spencer-pratt.html
+source_url: 'https://www.thecut.com/article/lisa-rinna-not-voting-spencer-pratt.html'
 source_item_id: 6a152fda16f23264031d8200
 generated_by: claude
 featuredImage: /assets/images/lisa-rinna-spencer-pratt-mayor-campaign.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: Article covers viral celebrity news well but falls short on length and contains questionable claims about endorsements and campaign details that appear fabricated.
+quality_note: >-
+  Article covers viral celebrity news well but falls short on length and
+  contains questionable claims about endorsements and campaign details that
+  appear fabricated.
 reading_time: 3
-image_alt: Hollywood glamour props face a blank political podium, suggesting celebrity tension in Los Angeles politics.
+image_alt: >-
+  Hollywood glamour props face a blank political podium, suggesting celebrity
+  tension in Los Angeles politics.
+topics:
+  - Viral
 ---
 ## Reality TV Star Takes Stand Against Celebrity Politics
 

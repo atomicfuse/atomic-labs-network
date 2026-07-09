@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Researchers study nutrient compounds in a modern lab with subtle DNA-shaped
   light patterns.
+topics:
+  - Health News
 ---
 
 The University of Nebraska–Lincoln has recently highlighted the significant outcomes of an investment made by the Nebraska Legislature from the national tobacco settlement funds. This strategic investment has fueled groundbreaking research initiatives, delivering promising results in the field of medicine and human health.

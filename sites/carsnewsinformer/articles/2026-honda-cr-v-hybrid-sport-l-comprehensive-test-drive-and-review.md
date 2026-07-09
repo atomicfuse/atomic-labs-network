@@ -39,6 +39,8 @@ quality_note: >-
   questionable claims about a future vehicle, and falls well short of target
   word count.
 image_alt: Modern compact hybrid SUV driving on a scenic mountain road at golden hour
+topics:
+  - Reviews
 ---
 ## Honda's Latest Hybrid SUV Innovation
 

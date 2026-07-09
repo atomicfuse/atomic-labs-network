@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Neon-lit empty hallway with gold glitter and a metallic handbag under a
   dramatic spotlight.
+topics:
+  - Off Script
 ---
 
 No article content was provided. The body text contains only an automated placeholder message indicating that the source article could not be accessed and requesting the original text to be pasted manually. Please provide the actual article content to proceed with cleanup and formatting.

@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Graduation cap, wine glass, and interview chairs in a moody wine cellar
   setting.
+topics:
+  - Wine for beginners
 ---
 ## Traditional Values Still Matter in Wine Careers
 

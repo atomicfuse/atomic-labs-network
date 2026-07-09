@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Diverse group exercising in a bright boutique studio with yoga mats,
   reformers, and light weights.
+topics:
+  - Fitness
+  - Yoga
 ---
 ## A New Fitness Concept Arrives in McKinney
 

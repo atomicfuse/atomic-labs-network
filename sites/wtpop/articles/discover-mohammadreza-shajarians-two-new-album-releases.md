@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Empty Persian classical music stage with instruments and two unmarked albums
   in warm spotlight
+topics:
+  - Music
 ---
 
 Renowned Iranian vocalist Mohammadreza Shajarian continues to enchant music lovers posthumously with the release of two new albums. These collections, titled "Monajat" and "Sarv-e-Chaman," showcase the iconic musician's mastery and dedication to Persian classical music. As the world remembers his significant contributions, these albums offer a fresh glimpse into his artistic journey.

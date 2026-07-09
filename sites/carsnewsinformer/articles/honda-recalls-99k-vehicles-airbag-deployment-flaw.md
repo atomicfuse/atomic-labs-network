@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Technician inspecting the passenger seat area of an unbranded car in a service
   center
+topics:
+  - News
 ---
 ## Major Recall Affects Nearly 100,000 Honda and Acura Vehicles
 

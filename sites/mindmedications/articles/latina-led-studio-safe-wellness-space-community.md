@@ -35,6 +35,8 @@ reading_time: 2
 image_alt: >-
   Latina women gather in a sunlit wellness studio with mats, plants, and a
   welcoming community atmosphere.
+topics:
+  - Wellness
 ---
 ## Redefining Wellness Through Cultural Connection
 

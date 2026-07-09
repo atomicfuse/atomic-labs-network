@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Yellow submarine object and whisky glass on a misty coastal distillery
   shoreline
+topics:
+  - Nutrition Myths
 ---
 ## The Eccentric Series That Turned Military Confusion Into Marketing Gold
 

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A weathered acoustic guitar and blank notebook in a warm, moody recording
   studio at dusk.
+topics:
+  - Music
 ---
 
 Colin Hay, the iconic frontman of Men at Work, continues to captivate audiences with his latest solo album. This new collection of songs showcases his exceptional ability to weave storytelling with melodic brilliance. Each track on the album offers a glimpse into Hay's artistic journey, presenting both introspective themes and wide-ranging sounds that appeal to fans both old and new.

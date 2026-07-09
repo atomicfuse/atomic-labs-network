@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Closed restaurant entrance under scaffolding in a bright tourist district at
   dusk
+topics:
+  - Economic Trends
 ---
 ## Red Lobster Exits Times Square After Two Decades
 

@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Traveler’s phone, passport, and wallet protected by a subtle digital shield in
   a bright airport lounge.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 Traveling offers enriching experiences, but it's important to remain vigilant against potential fraud. With the rise of online transactions, travelers are increasingly targeted by scams. Understanding how to protect yourself from travel-related fraud can ensure your journey is safe and enjoyable.

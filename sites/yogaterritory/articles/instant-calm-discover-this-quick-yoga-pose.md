@@ -42,6 +42,8 @@ quality_note: >-
   short on word count (679 vs target 800-1200) and could benefit from stronger
   SEO optimization in headings structure.
 image_alt: Person resting in legs-up-the-wall pose in a calm sunlit yoga space
+topics:
+  - Yoga Poses
 ---
 
 Imagine a pose that offers a sanctuary of calm while delivering numerous physical benefits. Viparita Karani, or Legs-Up-the-Wall Pose, provides just that. This restorative yoga posture is beloved for its simplicity and profound effects on the body and mind. Whether you're an experienced yogi or new to the practice, incorporating this pose into your routine can be a game-changer.

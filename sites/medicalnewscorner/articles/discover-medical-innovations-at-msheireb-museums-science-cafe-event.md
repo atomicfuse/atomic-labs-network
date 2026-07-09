@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Community members discuss medical innovation in a warm modern museum café
   setting.
+topics:
+  - Research
 ---
 
 A fascinating collaboration between Msheireb Museums and Sidra Medicine is bringing science and medicine to the forefront of public engagement. This unique partnership is showcasing the powerful intersection of history, culture, and scientific advancement through an innovative program known as the Science Café. This initiative not only educates but also inspires the community by making complex medical discoveries accessible to all.

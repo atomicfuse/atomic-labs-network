@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Cardiovascular specialist prepares equipment in a modern cardiac
   catheterization lab.
+topics:
+  - Health News
 ---
 
 Cardiovascular invasive specialists, also known as cardiovascular technologists, are employed in hospitals — often in specialized procedure rooms called cardiac catheterization laboratories — as well as medical and diagnostic labs. They may also work in medical sales, training, and teaching roles. People who thrive in this field enjoy applying their thorough technical training to emergency and non-emergency situations while working closely with patients and medical teams.

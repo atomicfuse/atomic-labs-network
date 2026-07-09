@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Open hotel mini fridge with food, medicine pouch, thermometer, and melting ice
   in a softly lit room.
+topics:
+  - Travel
+  - Travel Tips
+  - Food & Drink
 ---
 ## The Hidden Danger in Hotel Rooms
 

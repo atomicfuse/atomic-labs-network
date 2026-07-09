@@ -32,6 +32,9 @@ quality_note: >-
   some unsupported claims about the Pour Moi study.
 reading_time: 3
 image_alt: Couple overlooks a peaceful lakeside village and mountains at golden hour
+topics:
+  - Destinations
+  - Lifestyle
 ---
 ## The Science Behind Relationship-Friendly Travel
 

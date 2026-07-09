@@ -32,6 +32,8 @@ quality_note: >-
   Strong entertainment industry coverage with excellent keyword relevance but
   falls short on content length at 581 words versus the 800-1200 target range.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## Independent Drama Finds Theatrical Home
 

@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Four indoor plant arrangements in a bright modern apartment reflecting
   different ways people relate to plants.
+topics:
+  - Nature
+  - Environment
 ---
 
 The bond between humans and their indoor greenery is complex, encompassing a spectrum of attitudes and behaviors, according to recent research. This connection may be categorized into four distinct types, each illustrating how we perceive and interact with indoor plants.

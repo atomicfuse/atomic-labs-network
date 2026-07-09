@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Patient and gastroenterologist in a bright clinic with abstract gut health
   visuals and fresh foods nearby.
+topics:
+  - Wellness
 ---
 
 ## Exploring the Impact of GLP-1 Medications on Gut Health

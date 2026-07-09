@@ -49,6 +49,9 @@ quality_note: >-
 image_alt: >-
   Backstage vanity scene with sleek hair, cat-eye makeup, brushes, and soft
   red-carpet glamour.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Miley Cyrus has been stunning the world with dark gowns and dramatic beauty looks this year, and tonight was no different. The singer stepped onto the 2025 Grammys red carpet in a black halter dress designed by Saint Laurent, accompanied by a sultry cat eye and stick-straight blunt bangs. By the time she got to the ceremony, she had already won the Grammy for Best Country Duo/Group Performance for "II Most Wanted," her _Cowboy Carter_ duet with Beyoncé. And her makeup and hair definitely deserved an award as one of the best beauty looks of the night.

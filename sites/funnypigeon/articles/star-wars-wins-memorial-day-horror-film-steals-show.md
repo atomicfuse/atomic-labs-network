@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   A moody theater scene where a small horror setup outshines a distant sci-fi
   spectacle.
+topics:
+  - Viral
 ---
 ## Star Wars Takes the Top Spot but Shows Concerning Signs
 

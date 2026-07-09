@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Spotlit audition chair in a casting room surrounded by anonymous headshots and
   glowing monitors
+topics:
+  - Breaking News
+  - TV Shows
 ---
 ## The Fast-Paced World of Procedural Casting
 

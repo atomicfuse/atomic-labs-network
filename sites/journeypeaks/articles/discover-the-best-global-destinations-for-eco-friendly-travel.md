@@ -45,6 +45,10 @@ quality_note: >-
   Well-written article with excellent topic relevance and tone, but
   significantly too short at 389 words when 800-1200 words are expected.
 image_alt: Travelers overlook a lush eco-friendly coastal landscape at sunrise.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Traveling in an eco-friendly way has never been more vital. As the planet grapples with climate change and environmental degradation, a growing number of adventurers are turning to sustainable travel destinations. Let's explore some of the world's top green travel spots that are doing their part to protect our precious planet.

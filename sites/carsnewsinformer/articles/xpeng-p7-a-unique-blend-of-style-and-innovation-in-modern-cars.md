@@ -36,6 +36,8 @@ quality_note: >-
   count at 588 words, and lacks specific technical details or compelling hooks
   that would engage automotive enthusiasts.
 image_alt: Sleek futuristic electric sedan on a reflective city street at blue hour
+topics:
+  - Electric Cars
 ---
 ## The Xpeng P7's Distinctive Approach to Electric Mobility
 

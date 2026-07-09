@@ -1,9 +1,11 @@
 ---
 title: Why Your 'Good' Money Habits Are Costing You Thousands (And How To Fix It)
-description: Discover how seemingly responsible financial habits like aggressive saving and avoiding all debt might be hindering your wealth-building journey and...
+description: >-
+  Discover how seemingly responsible financial habits like aggressive saving and
+  avoiding all debt might be hindering your wealth-building journey and...
 type: standard
 status: published
-publishDate: 2024-10-22
+publishDate: 2024-10-22T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - budgeting apps
@@ -17,9 +19,9 @@ tags:
   - smart investing
   - money habits
 slug: why-good-money-habits-cost-you-thousands
-reviewer_notes: ""
-source_url: ""
-source_item_id: ""
+reviewer_notes: ''
+source_url: ''
+source_item_id: ''
 generated_by: claude
 featuredImage: /assets/images/why-good-money-habits-cost-you-thousands.webp
 quality_score: 88
@@ -29,15 +31,22 @@ score_breakdown:
   content_length: 85
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: Excellent article that challenges common personal finance assumptions. It effectively integrates keywords and provides actionable advice. The tone is well-suited for an audience seeking to improve their financial literacy.
+quality_note: >-
+  Excellent article that challenges common personal finance assumptions. It
+  effectively integrates keywords and provides actionable advice. The tone is
+  well-suited for an audience seeking to improve their financial literacy.
 reading_time: 4
 scripts:
   - id: 99277f46-1e00-49c8-8159-d2b74dafc9e9
     name: ad4
     position: after-paragraph-2
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js" async></script>
+    content: >-
+      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/widget.js"
+      async></script>
+
       <div data-cg-ad="ad_4"></div>
+topics:
+  - Personal Finance
 ---
 
 ## The Hidden Cost of Playing It Safe

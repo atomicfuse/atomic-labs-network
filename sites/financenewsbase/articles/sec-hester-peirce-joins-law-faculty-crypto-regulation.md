@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Modern law classroom with scales of justice and abstract blockchain light
   patterns
+topics:
+  - Economic Trends
 ---
 ## Major SEC Figure Enters Academia
 

@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   African penguins stand on a quiet South African shore beside a vast gray
   ocean.
+topics:
+  - Environment
 ---
 
 In recent years, a troubling trend has emerged off the coast of South Africa where penguin populations have been drastically declining. Over the past decade, an alarming number of these seabirds have succumbed to starvation. Understanding the reasons behind this decline is crucial to conserving these iconic species and maintaining ecological balance in the region.

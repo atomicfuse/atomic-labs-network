@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   A humble armored knight stands at dawn in a misty medieval landscape with
   castles in the distance.
+topics:
+  - Watch
 ---
 
 HBO's latest series, "A Knight of the Seven Kingdoms: The Hedge Knight," has captivated audiences with its riveting premiere. Set in the expansive and intricate world of Westeros, the show explores the life of a noble knight navigating the complexities of medieval society. This article delves into the key elements and themes introduced in the first episode, highlighting the show's potential to become a staple for fantasy enthusiasts.

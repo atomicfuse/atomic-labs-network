@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Vintage recording studio with guitar, reel tapes, and a songbird in warm
   autumn light.
+topics:
+  - Music
 ---
 
 Music enthusiasts and fans of legendary country artist Waylon Jennings are in for a treat this October. A previously unheard collection of Jennings' work, titled "Songbird," is set to be released, offering a fresh glimpse into the artistry of one of country music's most iconic figures. This album, featuring a variety of tracks that have never been made public before, promises to captivate both longtime fans and new listeners alike.

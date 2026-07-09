@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Person practicing yoga in a bright airy room with soft sunlight and calming
   summer tones.
+topics:
+  - Yoga Poses
 ---
 
 Practicing yoga not only helps manage stress but also enhances physical well-being. Let's explore three simple yoga poses that can help you feel refreshed and revitalized.

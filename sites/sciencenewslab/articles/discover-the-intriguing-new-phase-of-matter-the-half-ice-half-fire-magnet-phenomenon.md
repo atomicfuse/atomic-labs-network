@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Chaotic glowing magnetic particles swirl through an icy blue and ember-orange
   crystal lattice.
+topics:
+  - Physics
+  - Technology
 ---
 
 Unveiling a new phase of matter that's half ice, half fire and found within the confines of a magnet, researchers have made a significant breakthrough. This discovery, which has been dubbed 'quantum spin liquid', is a state where magnetic moments, or 'spins', instead of aligning or forming patterns as they usually do, exhibit a more chaotic behavior.

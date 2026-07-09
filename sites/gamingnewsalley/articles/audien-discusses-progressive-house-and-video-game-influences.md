@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Neon-lit DJ silhouette blending electronic music waves with abstract video
   game visuals
+topics:
+  - Gaming News
 ---
 
 In a surprising twist at the 2023 MTV Video Music Awards, global music sensation Taylor Swift emerged as the most celebrated artist of the night, sweeping nine awards out of her eleven nominations. Her phenomenal success at this prestigious event underscores her influence and popularity in the music industry.

@@ -33,6 +33,10 @@ quality_note: >-
   but falls short on word count and the promised '8 strategies' format isn't
   clearly delivered.
 reading_time: 3
+topics:
+  - Nutrition
+  - Healthy Snacks
+  - Meal Plans
 ---
 ## The Challenge of Healthy Travel Eating
 

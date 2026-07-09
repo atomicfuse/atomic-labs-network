@@ -27,6 +27,8 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2026/05/make_file.png'
   twitter_card: summary_large_image
 image_alt: An empty director's chair under a warm spotlight on a quiet soundstage.
+topics:
+  - Celebrities
 ---
 
 Annie Wersching, the admired television actor whose work spanned action drama, science fiction, daytime television, and video games, died at 45 after a private battle with cancer. Her passing brought renewed attention to a career defined by intensity, warmth, and remarkable range, with fans remembering her standout performances in "24," "Bosch," "Timeless," "Star Trek: Picard," and the original "The Last of Us" video game.

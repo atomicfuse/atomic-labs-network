@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Couture-inspired plated dish on a warm kitchen table with herbs, silk fabric,
   and family-style bowls.
+topics:
+  - Culture Buzz
 ---
 
 Renowned fashion designer Peter Som has shifted his creative focus from the runway to the kitchen, blending his love for food and family in his debut cookbook. Known for his vibrant and distinct fashion collections, Som now invites readers into his culinary world through a collection of recipes that celebrate his family's multicultural traditions.

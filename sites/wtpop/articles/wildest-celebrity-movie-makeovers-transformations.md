@@ -32,6 +32,9 @@ quality_note: >-
   word count at 599 words when 800-1200 is ideal.
 reading_time: 3
 image_alt: Anonymous actor in a moody makeup room with a half-transformed prosthetic face
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## The Art of Celebrity Transformation
 

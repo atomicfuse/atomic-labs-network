@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   A lone astronaut in a dim spacecraft airlock faces a vast planet through a
   reflective visor.
+topics:
+  - TV News
 ---
 
 The highly anticipated trailer for *The Astronaut*, a new sci-fi film starring Kate Mara and Laurence Fishburne, has just been released, offering audiences a thrilling glimpse into this interstellar adventure. The film promises to blend elements of suspense, drama, and exploration, captivating viewers with its intriguing storyline and star-studded cast.

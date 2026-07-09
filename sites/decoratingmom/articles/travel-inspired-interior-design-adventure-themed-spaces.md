@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Elegant travel-inspired dining room with curated decor, warm colors, and
   layered textures
+topics:
+  - Interior Design
 ---
 ## The Rise of Travel-Inspired Interior Design
 

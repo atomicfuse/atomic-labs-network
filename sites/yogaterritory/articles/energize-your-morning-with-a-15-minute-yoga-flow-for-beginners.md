@@ -46,6 +46,8 @@ quality_note: >-
   too short at 290 words compared to the 800-1200 word target, severely
   impacting its overall value.
 image_alt: 'Person doing gentle morning yoga in a sunlit room with calm, airy decor'
+topics:
+  - Yoga Poses
 ---
 
 Starting your day with a structured routine can set a positive tone for the rest of it. One excellent way to kickstart your morning is with a 15-minute yoga flow. This beginner-friendly session is designed to awaken your body and mind, providing a fresh burst of energy to carry you through your daily tasks.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Aluminum coffee capsules arranged in an upward curve with green leaves and
   coffee beans
+topics:
+  - Coffee News
 ---
 
 Premium sustainable coffee capsules are gaining popularity as eco-conscious consumers seek environmentally friendly options. This shift is influencing the aluminum coffee capsule market, which is experiencing notable growth. The demand for these capsules is driven by both their convenience and their sustainable attributes, appealing to modern coffee lovers who are mindful of their carbon footprint.

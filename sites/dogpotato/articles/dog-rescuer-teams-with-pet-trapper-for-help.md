@@ -1,9 +1,13 @@
 ---
 title: Dog Rescuer Teams with Pet Trapper for Help
-description: In Santa Fe, a dog rescuer and a professional pet trapper collaborate to manage stray dogs, highlighting community involvement's importance in animal welfare. Their partnership offers hope for the city's canine population, emphasizing humane capture and rescue efforts.
+description: >-
+  In Santa Fe, a dog rescuer and a professional pet trapper collaborate to
+  manage stray dogs, highlighting community involvement's importance in animal
+  welfare. Their partnership offers hope for the city's canine population,
+  emphasizing humane capture and rescue efforts.
 type: standard
 status: published
-publishDate: 2026-03-19T11:07:23+00:00
+publishDate: 2026-03-19T11:07:23.000Z
 author: Taylor Winters
 tags:
   - Animal Planet
@@ -11,19 +15,27 @@ tags:
   - Good To Know
 slug: dog-rescuer-teams-with-pet-trapper-for-help
 reading_time: 3
-source_url: https://dogpotato.com/dog-rescuer-teams-with-pet-trapper-for-help/
+source_url: 'https://dogpotato.com/dog-rescuer-teams-with-pet-trapper-for-help/'
 imported_from: wordpress
 wp_original_id: 40187
 featuredImage: /assets/images/dog-rescuer-teams-with-pet-trapper-for-help.webp
 seo:
-  canonical: https://dogpotato.com/dog-rescuer-teams-with-pet-trapper-for-help/
+  canonical: 'https://dogpotato.com/dog-rescuer-teams-with-pet-trapper-for-help/'
   og_title: Dog Rescuer Teams with Pet Trapper for Help - Dog Potato
-  og_description: In Santa Fe, a dog rescuer and a professional pet trapper collaborate to manage stray dogs, highlighting community involvement's importance in animal welfare. Their partnership offers hope for the city's canine population, emphasizing humane capture and rescue efforts.
+  og_description: >-
+    In Santa Fe, a dog rescuer and a professional pet trapper collaborate to
+    manage stray dogs, highlighting community involvement's importance in animal
+    welfare. Their partnership offers hope for the city's canine population,
+    emphasizing humane capture and rescue efforts.
   twitter_card: summary_large_image
 videos:
   - id: c7cf11bb-9c34-483d-b551-2a7ea27f06e3
-    url: https://www.youtube.com/watch?v=WWG_eejlsA0
+    url: 'https://www.youtube.com/watch?v=WWG_eejlsA0'
     position: after-paragraph-1
+topics:
+  - Animal Planet
+  - Dogs
+  - Good To Know
 ---
 
 In the heart of Santa Fe, New Mexico, a dedicated dog rescuer has found a unique ally in the form of a professional pet trapper. This collaboration is not only transforming the way stray dogs are managed but also highlighting the importance of community involvement in animal welfare. With numerous dogs in need of help, their partnership is proving to be a beacon of hope for the city's canine population.

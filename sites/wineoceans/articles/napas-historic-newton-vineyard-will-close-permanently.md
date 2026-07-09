@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Quiet Napa vineyard at dusk with rows of vines leading to a closed gate and
   distant stone winery.
+topics:
+  - Wine news
 ---
 ## Historic Napa Valley Winery Faces Closure
 

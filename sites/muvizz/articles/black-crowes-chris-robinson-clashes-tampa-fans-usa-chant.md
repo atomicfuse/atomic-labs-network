@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Rock singer pauses onstage before a divided crowd under blue, magenta, and
   red-white-blue lights.
+topics:
+  - Breaking News
+  - Trailers
 ---
 ## Concert Clash Divides Longtime Fanbase
 

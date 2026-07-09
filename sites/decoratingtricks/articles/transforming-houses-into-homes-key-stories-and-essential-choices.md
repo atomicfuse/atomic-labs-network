@@ -50,6 +50,10 @@ quality_note: >-
 image_alt: >-
   Sunlit living room with warm textures, plants, books, and curated personal
   decor
+topics:
+  - Decor Ideas
+  - Design Tips
+  - Home Improvement
 ---
 
 Creating a home that resonates with warmth, functionality, and personal style is a journey that involves thoughtful design and a keen understanding of space. Poonam Khanna, a celebrated architectural designer, has mastered the art of transforming houses into heartfelt homes. Her approach, marked by an intricate balance between aesthetics and practicality, has set her apart in the design world.

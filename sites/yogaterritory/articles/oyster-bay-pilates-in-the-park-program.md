@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Adults stretch on exercise mats during a sunny outdoor Pilates session in a
   waterfront park.
+topics:
+  - Wellness
 ---
 ## Free Community Pilates Program Returns to Theodore Roosevelt Park
 

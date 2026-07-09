@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Unexplained Events
+  - Ancient Mysteries
+  - Strange Phenomena
+  - Conspiracy Theories
 ---
 ## Our Sun: The Cosmic Exception
 

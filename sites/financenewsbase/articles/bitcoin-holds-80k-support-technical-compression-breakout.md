@@ -5,7 +5,7 @@ description: >-
   analysis shows compression phase that typically precedes explosive moves.
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -35,6 +35,8 @@ quality_note: >-
   under target word count and contains specific price data that cannot be
   verified for accuracy.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## Bitcoin Maintains Critical Support Level

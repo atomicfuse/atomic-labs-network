@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Stylish living room blending neutral minimalism with bold colors, plants,
   vintage decor, and sustainable materials.
+topics:
+  - Decor Ideas
+  - Design Tips
+  - Home Improvement
 ---
 
 In the ever-evolving world of interior design, staying updated on current trends is crucial for creating a modern and inviting living space. As we look towards 2026, several living room trends are expected to fade, making way for fresh and innovative styles. Whether you're planning a complete makeover or a subtle refresh, knowing which trends to leave behind can help you create a stylish and timeless living area.

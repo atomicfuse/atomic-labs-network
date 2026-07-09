@@ -40,6 +40,10 @@ quality_note: >-
 image_alt: >-
   Pale white wine on a coastal terrace with misty cliffs, vineyards, yellow
   fruit, and sea salt.
+topics:
+  - Travel
+  - Travel Tips
+  - Food & Drink
 ---
 
 _**Hailing from Mendocino, Minus Tide's Sterling Ranch Chenin Blanc delivers a satisfying snap along with savory notes**_

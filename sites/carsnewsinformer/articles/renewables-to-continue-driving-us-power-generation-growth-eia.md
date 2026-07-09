@@ -37,6 +37,9 @@ quality_note: >-
   the target word count and lacks strong SEO optimization elements like
   compelling headlines and meta description.
 image_alt: Electric vehicle silhouette near solar panels and wind turbines at sunrise
+topics:
+  - News
+  - Electric Cars
 ---
 ## Renewable Energy Maintains Growth Trajectory
 

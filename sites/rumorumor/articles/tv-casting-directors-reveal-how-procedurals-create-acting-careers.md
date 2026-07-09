@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Emerging actor stands between a casting room and blurred procedural TV sets
   under a spotlight
+topics:
+  - TV & Movies
 ---
 ## The Fast-Paced World of Procedural Casting
 

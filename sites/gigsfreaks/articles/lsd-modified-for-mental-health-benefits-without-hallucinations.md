@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Molecular model in a softly lit lab suggesting psychedelic therapy research
   without hallucinations
+topics:
+  - Hot Trends
 ---
 
 LSD, a substance historically associated with psychedelic experiences, is being revisited by scientists seeking to unlock its therapeutic potential for mental health without the accompanying hallucinogenic effects. Researchers are making strides in modifying the chemical structure of LSD to retain its beneficial properties while eliminating the mind-altering experience. This innovative approach could pave the way for new treatments for various mental health disorders.

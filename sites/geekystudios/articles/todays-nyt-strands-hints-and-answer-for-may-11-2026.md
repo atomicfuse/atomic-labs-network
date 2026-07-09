@@ -39,6 +39,9 @@ quality_note: >-
 image_alt: >-
   Letterless puzzle tiles blend into a styled Salad Niçoise arrangement on a
   tabletop.
+topics:
+  - Pop Culture
+  - Tutorials
 ---
 
 If today's New York Times Strands puzzle has you circling the grid without a clear path, you are not alone. The May 11, 2026 puzzle uses the theme **A Nice Medley**, and the wording points toward a clever food clue rather than a simple description of something pleasant. Below, you will find spoiler-safe guidance first, followed by the full Strands answer set for players who want to check the board or finish quickly.

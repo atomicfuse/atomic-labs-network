@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Person reviewing nutrition information beside a phone, fresh produce, and
   notes on a bright kitchen table
+topics:
+  - Nutrition Myths
 ---
 
 Social media has become a powerful tool in shaping public perception, especially in the realm of nutrition. While these platforms offer a wealth of information, the challenge lies in distinguishing credible insights from misinformation. The proliferation of nutrition advice on social media often leads to confusion, making it crucial for individuals to develop a critical eye when evaluating such content.

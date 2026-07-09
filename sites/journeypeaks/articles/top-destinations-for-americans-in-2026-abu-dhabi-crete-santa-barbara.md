@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Sunlit panoramic travel scene blending desert skyline, Mediterranean cliffs,
   and California coast.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 As travel trends evolve, Americans are increasingly setting their sights on new and exciting destinations for future adventures. By 2026, several locations are emerging as top choices for U.S. travelers, including Abu Dhabi, Crete, and Santa Barbara. Each of these destinations offers unique cultural experiences, breathtaking landscapes, and diverse activities that cater to all types of travelers.

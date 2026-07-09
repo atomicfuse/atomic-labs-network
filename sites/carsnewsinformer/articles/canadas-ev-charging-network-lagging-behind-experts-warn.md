@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   Electric vehicle at a sparse charging station beside a snowy Canadian highway
   at dusk
+topics:
+  - News
+  - Electric Cars
 ---
 ## Concerns Mount Over Canada's EV Infrastructure
 

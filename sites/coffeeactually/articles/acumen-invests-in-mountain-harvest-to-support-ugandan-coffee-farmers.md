@@ -46,6 +46,8 @@ quality_note: >-
   title could be more compelling and SEO-optimized for better search
   performance.
 image_alt: Ugandan coffee farmer holding ripe coffee cherries in sunlit highland fields
+topics:
+  - Coffee News
 ---
 
 In Uganda, a promising initiative is underway to enhance the livelihoods of coffee farmers. A significant investment has been made in Mountain Harvest, a company dedicated to supporting these farmers. This move aims to transform the coffee industry in the region by improving agricultural practices and ensuring better financial outcomes for those involved.

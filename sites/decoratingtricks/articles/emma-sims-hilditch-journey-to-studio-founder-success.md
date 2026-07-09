@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Sunlit interior design studio with fabric swatches, sketches, elegant
   furniture, and a vintage film light.
+topics:
+  - Decor Ideas
+  - Design Tips
+  - Home Improvement
 ---
 
 Emma Sims Hilditch has carved a niche in the interior design world with her distinctive approach that effortlessly blends comfort with elegance. Her journey from a film set designer to the founder of a renowned interior design studio is both inspiring and instructive for aspiring designers.

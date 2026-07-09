@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Secluded tropical villa with glowing infinity pool at dusk overlooking the
   Pacific coast.
+topics:
+  - Destinations
 ---
 ## A New Standard for Riviera Nayarit Luxury
 

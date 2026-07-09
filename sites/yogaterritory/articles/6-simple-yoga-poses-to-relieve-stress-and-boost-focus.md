@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A serene person practices yoga in warm morning light, surrounded by plants and
   soft calming textures.
+topics:
+  - Yoga Poses
 ---
 
 Stress and lack of concentration are common challenges in our fast-paced world. Many people are turning to yoga to address these issues naturally. Yoga, with its ancient roots, offers a holistic approach to enhancing mental clarity and reducing stress. By integrating certain yoga poses into your daily routine, you can cultivate a sense of peace and focus that benefits your overall well-being.

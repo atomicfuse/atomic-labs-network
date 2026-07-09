@@ -1,24 +1,34 @@
 ---
-title: "Master Overwatch Jetpack Cat: Top Tips and Tricks 2026"
-description: "Explore Overwatch's dynamic world with Jetpack Cat, a unique hero blending agility and firepower. Mastering Jetpack Cat's abilities can grant a competitive edge, offering unparalleled mobility and strategic advantages in gameplay."
-type: "standard"
-status: "published"
-publishDate: "2026-02-12T10:01:34+00:00"
-author: "Taylor Winters"
+title: 'Master Overwatch Jetpack Cat: Top Tips and Tricks 2026'
+description: >-
+  Explore Overwatch's dynamic world with Jetpack Cat, a unique hero blending
+  agility and firepower. Mastering Jetpack Cat's abilities can grant a
+  competitive edge, offering unparalleled mobility and strategic advantages in
+  gameplay.
+type: standard
+status: published
+publishDate: '2026-02-12T10:01:34+00:00'
+author: Taylor Winters
 tags:
-  - "Cats"
-slug: "master-overwatch-jetpack-cat-top-tips-and-tricks-2026"
+  - Cats
+slug: master-overwatch-jetpack-cat-top-tips-and-tricks-2026
 reading_time: 3
-source_url: "https://dogpotato.com/master-overwatch-jetpack-cat-top-tips-and-tricks-2026/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/master-overwatch-jetpack-cat-top-tips-and-tricks-2026/'
+imported_from: wordpress
 wp_original_id: 40168
-featuredImage: "/assets/images/master-overwatch-jetpack-cat-top-tips-and-tricks-2026.webp"
+featuredImage: /assets/images/master-overwatch-jetpack-cat-top-tips-and-tricks-2026.webp
 seo:
-  canonical: "https://dogpotato.com/master-overwatch-jetpack-cat-top-tips-and-tricks-2026/"
-  og_title: "Master Overwatch Jetpack Cat: Top Tips and Tricks 2026 - Dog Potato"
-  og_description: "Explore Overwatch's dynamic world with Jetpack Cat, a unique hero blending agility and firepower. Mastering Jetpack Cat's abilities can grant a competitive edge, offering unparalleled mobility and strategic advantages in gameplay."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/02/make_file.png"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/master-overwatch-jetpack-cat-top-tips-and-tricks-2026/'
+  og_title: 'Master Overwatch Jetpack Cat: Top Tips and Tricks 2026 - Dog Potato'
+  og_description: >-
+    Explore Overwatch's dynamic world with Jetpack Cat, a unique hero blending
+    agility and firepower. Mastering Jetpack Cat's abilities can grant a
+    competitive edge, offering unparalleled mobility and strategic advantages in
+    gameplay.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/02/make_file.png'
+  twitter_card: summary_large_image
+topics:
+  - Cats
 ---
 
 Dive into the dynamic world of Overwatch and meet one of its most intriguing characters: Jetpack Cat. This furry hero brings a unique blend of agility and firepower that can turn the tide of any match. Whether you're a seasoned player or new to the game, mastering Jetpack Cat's abilities can provide a competitive edge.

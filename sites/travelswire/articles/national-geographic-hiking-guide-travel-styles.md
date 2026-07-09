@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Travelers gather at a scenic trailhead with branching paths, mountains,
   forest, and a distant camper van.
+topics:
+  - Adventure Activities
 ---
 ## A Hiking Guide That Doubles as Travel Planning
 

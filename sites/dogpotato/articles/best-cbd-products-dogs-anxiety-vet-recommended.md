@@ -33,6 +33,9 @@ quality_note: >-
   factual details about the recommended products.
 reading_time: 3
 image_alt: Calm dog resting beside its owner with an unlabeled wellness dropper nearby
+topics:
+  - Dogs
+  - Good To Know
 ---
 ## Growing Demand for Pet Anxiety Solutions
 

@@ -38,6 +38,9 @@ quality_note: >-
 image_alt: >-
   Unbranded electric car in a modern showroom with a covered new model emerging
   behind it
+topics:
+  - News
+  - Electric Cars
 ---
 ## Tesla Faces Challenging Quarter with Profit Decline
 

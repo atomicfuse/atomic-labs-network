@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Professionals network at a modern travel exhibition with Doha skyline and
   global light trails.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Explore the vibrant world of travel and business opportunities in Qatar, a dynamic hub for innovation and cultural exchange. The Qatar Travel Mart (QTM) 2025 is set to be an unmissable event for industry professionals and enthusiasts alike. This prestigious exhibition will offer an unparalleled platform for showcasing global destinations and fostering business growth in the travel sector.

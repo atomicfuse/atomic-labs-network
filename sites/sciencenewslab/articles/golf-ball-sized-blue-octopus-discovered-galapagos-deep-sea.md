@@ -32,6 +32,8 @@ quality_note: >-
   target word count at 543 words versus 800-1200 range.
 reading_time: 3
 image_alt: Tiny blue octopus on a dim deep-sea floor under a soft research light
+topics:
+  - Nature
 ---
 ## Tiny Blue Wonder from the Deep
 

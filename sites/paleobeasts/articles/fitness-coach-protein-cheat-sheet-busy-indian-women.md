@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   High-protein Indian meal prep with paneer, dal, eggs, yogurt, tofu, roti, and
   a lunchbox on a bright counter.
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## The Protein Gap in Traditional Indian Meals
 

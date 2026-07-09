@@ -35,6 +35,9 @@ quality_note: >-
   website, lacks proper keyword integration, and falls short of the target word
   count.
 reading_time: 2
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## Planning Ahead Sets the Foundation
 

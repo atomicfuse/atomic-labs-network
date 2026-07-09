@@ -49,6 +49,10 @@ quality_note: >-
 image_alt: >-
   Secretive desert hangar entrance with reconstruction tools and map fragments
   in the foreground
+topics:
+  - Conspiracies
+  - Deep Dives
+  - Mysteries
 ---
 
 Luigi Vendittelli's story begins with a moment that sounds small at first, but became the spark for a lifetime of investigation: when he was 9 years old, his grandfather came inside shaking and said he had just seen a flying saucer over Montreal.

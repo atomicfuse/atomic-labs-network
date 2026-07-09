@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   A wounded protector stands in a rain-soaked alley lit by distant fire and cold
   blue shadows.
+topics:
+  - TV News
+  - Reviews
 ---
 
 Netflix's Man on Fire arrives with familiar ingredients: a damaged protector, a dangerous mission, and a story built around guilt, violence, and redemption. The new series revisits John Creasy, the bruised antihero from A.J. Quinnell's novels, while stepping out from the long shadow of the 2004 film starring Denzel Washington. Instead of retelling that movie beat for beat, the show expands the character's world across a broader international thriller.

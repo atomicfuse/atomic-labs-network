@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Travelers walk through a sunlit airport terminal as storm clouds clear
   outside.
+topics:
+  - Travel News
+  - Destinations
 ---
 ## Travelers Refuse to Stay Home Despite Uncertainty
 

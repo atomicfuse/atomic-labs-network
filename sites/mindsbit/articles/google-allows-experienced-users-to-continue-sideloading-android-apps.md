@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Unbranded smartphone framed by abstract security layers and an open digital
   gateway.
+topics:
+  - Tech
 ---
 
 Google has been continually refining its Android operating system to improve both security and user experience. One of the significant changes involves enhancing the sideloading process, aiming to make it safer and more reliable for users who opt for this alternative app installation method.

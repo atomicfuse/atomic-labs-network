@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Sunlit interior with aged brass, worn leather, weathered wood, and textured
   plaster in a refined design setting.
+topics:
+  - Decor Ideas
+  - Design Tips
+  - Home Improvement
 ---
 
 In recent years, the allure of patina has captivated the design world, blending history and aesthetics in a unique way. This fascination with surfaces that tell stories is transforming how we perceive new versus old, giving rise to a trend that celebrates the beauty of age and imperfection. From furniture and architecture to fashion and accessories, patina provides a tangible connection to the past while enhancing the character and depth of objects in our present.

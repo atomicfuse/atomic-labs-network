@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Glowing protein structure folding amid soft light and abstract data patterns
   in a medical research setting
+topics:
+  - Health News
 ---
 
 Proteins start out in cells as strings of amino acids, kind of like strings of beads. Then they fold into complex structures — structures that reflect the key functions they play in health and disease. But the way these proteins fold into their final structure is incredibly difficult to predict. The so-called "protein-folding problem" stumped scientists for decades.

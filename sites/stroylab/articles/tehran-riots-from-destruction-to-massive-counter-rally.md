@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Dusk city boulevard with distant crowd silhouettes and abstract global trade
   lines overhead
+topics:
+  - Deep Dives
 ---
 
 The global landscape of economic power is undergoing significant shifts. Recent developments highlight a strategic move by several nations to challenge the dominance of the US dollar in international trade. This movement aims to establish a more balanced global financial system, reducing reliance on a single currency.

@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Friends in a cozy apartment watch TV together under colorful cinematic
   lighting.
+topics:
+  - TV News
 ---
 
 No article content was available to clean up. The body text contained only a system message indicating the source material could not be retrieved, rather than the actual TV picks and streaming guide content.

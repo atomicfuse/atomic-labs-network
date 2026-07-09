@@ -36,6 +36,8 @@ quality_note: >-
   be fictional.
 reading_time: 3
 image_alt: Empty casting chair with a red ribbon in a moody fantasy school rehearsal hall
+topics:
+  - TV & Movies
 ---
 ## Major Casting Change Before Series Launch
 

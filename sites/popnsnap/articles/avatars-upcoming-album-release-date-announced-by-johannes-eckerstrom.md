@@ -33,6 +33,8 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2025/05/make_file-37.jpeg'
   twitter_card: summary_large_image
 image_alt: Theatrical metal singer silhouette on a smoky stage under red and blue lights
+topics:
+  - Music
 ---
 
 Avatar, the Swedish metal band known for their theatrical performances and unique sound, has been keeping fans on their toes with the release of their latest album. Frontman Johannes Eckerström recently opened up about the creative process, the themes explored in the new album, and the band's future direction. This insight offers a deeper understanding of what makes Avatar's music resonate with fans around the world.

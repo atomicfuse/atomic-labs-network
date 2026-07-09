@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Softly lit cancer support desk with a phone, lavender ribbon, flowers, and a
   caring professional in the background.
+topics:
+  - Good Vibes
 ---
 
 Connecting with professional cancer support has become more accessible than ever. In an innovative move, the iconic phone number 867-5309, famously known from the 1980s hit song, is now repurposed to connect individuals with a free cancer support hotline. This initiative aims to provide invaluable assistance to those affected by cancer, offering them the emotional and informational support they need.

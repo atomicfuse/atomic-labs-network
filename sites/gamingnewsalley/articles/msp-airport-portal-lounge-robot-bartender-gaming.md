@@ -34,6 +34,10 @@ reading_time: 3
 image_alt: >-
   Futuristic airport lounge with gaming stations, travelers, and a robotic
   bartender preparing drinks
+topics:
+  - Gaming News
+  - PC Games
+  - Console Games
 ---
 ## Airport Gaming Gets a High-Tech Upgrade
 

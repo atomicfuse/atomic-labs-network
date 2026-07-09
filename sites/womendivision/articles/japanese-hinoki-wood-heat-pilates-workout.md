@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Women practicing heated reformer Pilates in a warm Hinoki wood wellness
   studio.
+topics:
+  - Fitness
 ---
 ## A New Approach to Heated Fitness
 

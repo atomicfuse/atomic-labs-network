@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Actor at a vanity mirror with prosthetic makeup transforming their reflected
   face
+topics:
+  - Viral
 ---
 ## When Stars Disappear Behind Movie Magic
 

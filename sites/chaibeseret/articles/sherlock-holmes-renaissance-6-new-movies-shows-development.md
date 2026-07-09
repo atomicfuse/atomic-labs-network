@@ -35,6 +35,9 @@ quality_note: >-
   contains fabricated information about May 2026 developments that cannot be
   verified.
 reading_time: 2
+topics:
+  - tv shows
+  - movie trailers
 ---
 ## The Great Detective's Modern Revival
 

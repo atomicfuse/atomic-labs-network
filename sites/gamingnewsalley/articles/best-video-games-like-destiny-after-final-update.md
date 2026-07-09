@@ -38,6 +38,9 @@ reading_time: 3
 image_alt: >-
   Armored sci-fi players face five glowing paths to alien worlds in a neon-lit
   hangar.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## Destiny's Sunset Creates New Opportunities for Similar Games
 

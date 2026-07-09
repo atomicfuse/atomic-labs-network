@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   A moody backstage mystery board with pop fandom clues, red string, sequins,
   and concert lighting.
+topics:
+  - Culture Buzz
+  - Hot Takes
 ---
 
 Taylor Swift, an iconic figure in the music industry, often finds herself at the center of intriguing fan theories. Recently, a playful yet bizarre myth has emerged, suggesting that Swift may have a hidden connection to infamous serial killers. While this claim is purely speculative and meant for entertainment, it reflects the creativity and curiosity of her fanbase.

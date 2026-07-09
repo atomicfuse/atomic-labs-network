@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Diverse friends toast at a vineyard table in warm summer light with subtle
   rainbow accents.
+topics:
+  - Coffee News
 ---
 ## A Historic Festival Comes to an End
 

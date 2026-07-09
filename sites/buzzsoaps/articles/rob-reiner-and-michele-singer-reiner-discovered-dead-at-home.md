@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Empty chairs and white flowers on a softly lit terrace evoke quiet
   remembrance.
+topics:
+  - Culture Buzz
 ---
 
 In a recent turn of events, the entertainment industry mourns the loss of Michele Singer Reiner, the wife of renowned filmmaker Rob Reiner. Known for her vibrant personality and commitment to philanthropy, Michele Singer Reiner played a significant role in various charitable endeavors alongside her husband. Her unexpected passing has left a void in the hearts of many who knew her personally and professionally.

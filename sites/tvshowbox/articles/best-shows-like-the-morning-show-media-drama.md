@@ -31,6 +31,9 @@ quality_note: >-
   contains vague sourcing that raises accuracy concerns.
 reading_time: 3
 image_alt: Empty TV studio desk with warm lighting and a tense after-hours atmosphere
+topics:
+  - Streaming
+  - Recommendations
 ---
 ## Finding Your Next Media Drama Fix
 

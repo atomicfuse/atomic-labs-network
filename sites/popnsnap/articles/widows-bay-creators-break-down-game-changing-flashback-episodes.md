@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   Colonial-era man in candlelit shadows with foggy island and eerie fungal
   shapes behind him
+topics:
+  - TV & Movies
 ---
 ## Colonial Horror Takes Center Stage
 

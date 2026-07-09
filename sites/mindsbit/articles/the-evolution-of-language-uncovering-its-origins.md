@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Human silhouettes connected by glowing sound waves from a prehistoric cave to
   a modern abstract network.
+topics:
+  - Ideas
 ---
 
 Language is one of humanity's most profound and complex tools, shaping our interactions, culture, and understanding of the world. Its evolution has fascinated scholars for centuries, who continue to explore how our ancestors transitioned from simple sounds to the intricate systems we use today.

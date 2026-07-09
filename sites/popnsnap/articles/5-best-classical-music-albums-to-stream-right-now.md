@@ -26,6 +26,8 @@ seo:
 image_alt: >-
   Vintage turntable and headphones beside sheet music with warm abstract sound
   waves
+topics:
+  - Music
 ---
 
 I can create the requested WordPress-ready rewrite, but I cannot access or verify the New York Times article from the URL alone. Please paste the full source text or the key facts, including album titles, artists, composers, labels, and critical details, and I will return a fully original article in the exact format requested.

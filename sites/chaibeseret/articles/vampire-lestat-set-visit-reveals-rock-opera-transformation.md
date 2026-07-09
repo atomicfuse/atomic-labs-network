@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Blond vampire-like rock performer on a smoky stage under amber and violet
   lights.
+topics:
+  - tv shows
 ---
 ## Behind the Scenes of The Vampire Lestat's Musical Revolution
 

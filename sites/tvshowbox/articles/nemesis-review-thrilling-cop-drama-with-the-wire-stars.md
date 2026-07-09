@@ -40,6 +40,9 @@ quality_note: >-
 image_alt: >-
   Two silhouetted detectives stand in a rain-soaked city alley under cold blue
   lights.
+topics:
+  - TV News
+  - Reviews
 ---
 
 Nemesis arrives as the kind of crime drama that knows exactly how to hold attention. It mixes a hard-boiled police investigation with glossy plotting, sharp character work, and a cast that will instantly interest fans of The Wire. The result is a fast, confident thriller built for viewers who like their cop shows tense, talky, and loaded with moral pressure.

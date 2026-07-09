@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman preparing a calm evening wellness routine in a softly lit modern
   bathroom.
+topics:
+  - Mind & Body Wellness
 ---
 ## The Evolution of Women's Wellness
 

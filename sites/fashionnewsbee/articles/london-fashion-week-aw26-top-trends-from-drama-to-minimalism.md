@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   Diverse models in dramatic and minimalist winter fashion on a futuristic
   London runway
+topics:
+  - Fashion
 ---
 
 London Fashion Week for Autumn/Winter 2026 was a vibrant display of creativity and innovation. Designers showcased their collections, setting the tone for upcoming style trends. With a focus on inclusivity and sustainability, the event was a celebration of fashion's evolving landscape. As the runways buzzed with excitement, several standout themes emerged that are set to influence wardrobes worldwide.

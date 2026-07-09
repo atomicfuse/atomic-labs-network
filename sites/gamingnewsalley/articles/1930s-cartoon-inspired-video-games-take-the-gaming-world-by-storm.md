@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Modern gaming setup with vintage cartoon figures emerging from a glowing
   screen
+topics:
+  - Gaming News
 ---
 
 In the ever-evolving world of video game design, developers are constantly exploring new ways to captivate players. While many games strive for lifelike graphics, a delightful subset of games is embracing the charm of vintage animation styles. These games draw inspiration from the 1930s, offering a refreshing contrast to the prevalent trend of photorealism.

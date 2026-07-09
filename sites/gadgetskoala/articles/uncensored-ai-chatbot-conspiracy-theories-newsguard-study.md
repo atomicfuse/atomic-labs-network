@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Dark laptop scene with fractured digital chat bubbles suggesting AI-driven
   misinformation.
+topics:
+  - Gadgets
 ---
 ## Investigation Reveals Dangerous AI Content
 

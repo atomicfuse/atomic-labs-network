@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A vineyard shifts from dry rows to a hopeful tasting table with young
   producers at dawn.
+topics:
+  - Wine news
 ---
 ## Global Wine Market Confronts Perfect Storm
 

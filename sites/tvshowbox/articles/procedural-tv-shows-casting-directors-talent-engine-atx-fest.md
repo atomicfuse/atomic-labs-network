@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Emerging actors wait backstage as casting staff review auditions on a softly
   lit TV soundstage.
+topics:
+  - TV News
 ---
 ## The Fast-Paced World of Procedural Casting
 

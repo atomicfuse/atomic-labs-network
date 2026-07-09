@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Older adult waking in soft morning light with running shoes nearby, suggesting
   sleep and brain health.
+topics:
+  - Health News
 ---
 
 Sleep is a crucial component of overall health, influencing everything from mood to cognitive function. Recent studies suggest that both insufficient and excessive sleep may significantly increase the risk of developing dementia. Understanding the optimal amount of sleep and its relationship with physical activity can be key to maintaining cognitive health as we age.

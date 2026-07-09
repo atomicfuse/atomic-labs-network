@@ -44,6 +44,8 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under the target word count at only 426 words.
 image_alt: Yoga practitioner stretches in a calm sunlit studio to ease hip tension.
+topics:
+  - Yoga Poses
 ---
 
 Yoga is a powerful practice for enhancing flexibility, strength, and overall well-being. Among its many benefits, yoga is particularly effective for alleviating hip tension, a common issue that can stem from prolonged sitting or repetitive movements. A renowned yoga instructor emphasizes the importance of specific movements in yoga for releasing hip tightness, which can lead to improved mobility and comfort.

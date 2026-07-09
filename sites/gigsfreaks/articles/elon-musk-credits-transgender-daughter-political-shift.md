@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Two empty chairs divided by red and blue light beside a phone and face-down
   family photo.
+topics:
+  - Hot Trends
 ---
 ## The Revelation That Changed Everything
 

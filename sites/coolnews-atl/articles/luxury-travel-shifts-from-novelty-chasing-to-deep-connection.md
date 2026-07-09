@@ -37,6 +37,8 @@ quality_note: >-
   relies heavily on vague 'according to reports' citations without specific
   sources.
 reading_time: 3
+topics:
+  - Current Events
 ---
 ## The End of the Bucket List Era
 

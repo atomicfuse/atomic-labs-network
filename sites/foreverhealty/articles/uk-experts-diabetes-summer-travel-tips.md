@@ -34,6 +34,8 @@ quality_note: >-
   about expert guidance without providing concrete actionable advice.
 reading_time: 3
 image_alt: Diabetes travel supplies arranged beside a carry-on in warm summer light
+topics:
+  - Healthy Living Tips
 ---
 ## Expert Guidance for Safe Summer Adventures
 

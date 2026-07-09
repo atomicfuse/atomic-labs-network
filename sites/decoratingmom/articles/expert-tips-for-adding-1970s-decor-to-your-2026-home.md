@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Modern living room with warm 1970s-inspired colors, textures, and curved
   furniture
+topics:
+  - Decor Ideas
 ---
 
 The 1970s were a decade of bold colors, eclectic patterns, and unique textures that left an indelible mark on interior design. As trends tend to cycle, the distinctive style of the 1970s is reemerging, promising to make a strong comeback by 2026. This resurgence is driven by a renewed appreciation for the individuality and vibrancy that characterized the era's aesthetic.

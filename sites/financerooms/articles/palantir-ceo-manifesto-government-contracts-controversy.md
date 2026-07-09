@@ -35,6 +35,10 @@ quality_note: >-
   under target word count and contains some unverified specific contract figures
   that could be problematic.
 reading_time: 3
+topics:
+  - Economic Trends
+  - Personal Finance
+  - Investment Tips
 ---
 ## A Tech Leader's Bold Statement Sparks National Debate
 

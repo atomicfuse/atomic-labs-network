@@ -47,6 +47,8 @@ quality_note: >-
   covers relevant parenting topics despite some vague claims about CBeebies
   initiatives.
 image_alt: Family making festive crafts together in a cozy living room with warm lights
+topics:
+  - Kids
 ---
 
 In today's fast-paced digital world, families often struggle to find meaningful ways to bond. Recognizing this challenge, CBeebies has launched a new initiative aimed at fostering family togetherness through engaging content designed for both children and parents. This innovative approach seeks to create moments of connection and learning within the family unit, building stronger relationships and enriching the lives of all family members.

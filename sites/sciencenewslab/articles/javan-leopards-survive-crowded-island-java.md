@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Javan leopard in regenerating forest with human settlement faintly visible
   beyond the trees.
+topics:
+  - Nature
 ---
 ## A Rare Conservation Success Story
 

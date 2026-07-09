@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Glamorous blonde pop singer in an elegant tailored evening look on a softly
   lit red carpet.
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Sabrina Carpenter recently dazzled attendees at the Variety Hitmakers event in 2025 with her stunning fashion choice. The talented singer and actress made a memorable appearance in a sophisticated ensemble from the renowned Ralph Lauren Collection, where her style stood out among the many celebrities present.

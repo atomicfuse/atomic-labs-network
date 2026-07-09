@@ -41,6 +41,9 @@ quality_note: >-
   content about UK workplace culture, has poor SEO elements, and lacks any
   relevance to entertainment topics.
 image_alt: Empty TV kitchen studio with a spotlighted pastry on the counter
+topics:
+  - TV News
+  - Celebrity News
 ---
 
 The United Kingdom is witnessing an interesting shift in its workplace culture as more employees return to the office. This change follows a period dominated by remote work due to the COVID-19 pandemic. The trend raises questions about how businesses are adapting and what this means for the future of work.

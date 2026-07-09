@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Latina women share modern beauty rituals with botanicals, oils, and clay in
   warm golden light.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Latina influencers are redefining beauty standards with their unique perspectives and cultural heritage. Their beauty rituals, often steeped in tradition, offer a fresh take on self-care and self-expression. These influencers are not just sharing makeup tips; they are celebrating diversity and embracing authenticity in the beauty industry.

@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Diverse audience silhouettes watch glowing cinematic scenes in a dark festival
   screening hall.
+topics:
+  - TV News
 ---
 
 In the vibrant world of television, international series are capturing global audiences with unique storytelling and diverse cultural perspectives. At the forefront of this movement is Series Mania, a festival that highlights exceptional international TV shows poised to become the next big hits. These series bring fresh narratives to the screen, each offering a distinctive take on compelling themes and complex characters.

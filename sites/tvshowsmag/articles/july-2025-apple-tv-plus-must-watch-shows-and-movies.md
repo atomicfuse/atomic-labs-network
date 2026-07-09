@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A modern living room glows with abstract streaming panels suggesting movies
   and shows.
+topics:
+  - TV News
 ---
 
 Apple TV Plus continues to expand its impressive library, bringing a fresh selection of shows and films to your screens this July 2025. With an array of new content, there's something for everyone to enjoy, from captivating dramas to entertaining comedies and thrilling documentaries. This streaming service is set to keep audiences engaged and entertained throughout the month.

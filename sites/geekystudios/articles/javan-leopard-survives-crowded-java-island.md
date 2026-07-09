@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Javan leopard at the edge of a regenerating forest with distant signs of human
   settlement.
+topics:
+  - Trends
 ---
 ## Against All Odds: The Javan Leopard's Remarkable Survival Story
 

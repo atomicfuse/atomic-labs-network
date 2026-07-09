@@ -49,6 +49,8 @@ quality_note: >-
 image_alt: >-
   Two elegantly dressed guests share a quiet conversation at a glamorous awards
   ceremony.
+topics:
+  - Culture
 ---
 
 Turns out Beyoncé isn't the only member of the Carter family to have a special Grammys moment with Taylor Swift. Beyoncé's 13-year-old daughter, Blue Ivy, also had a little time with the singer inside the ceremony. Blue was snapped talking with Swift, and the two appeared to be focused on their discussion when photographers captured them.

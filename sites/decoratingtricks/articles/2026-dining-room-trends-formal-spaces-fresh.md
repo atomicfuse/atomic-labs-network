@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Modern formal dining room with a round wood table, upholstered chairs, pendant
   lighting, plants, and soft natural light.
+topics:
+  - Design Tips
 ---
 ## The Formal Dining Room Revival Is Here
 

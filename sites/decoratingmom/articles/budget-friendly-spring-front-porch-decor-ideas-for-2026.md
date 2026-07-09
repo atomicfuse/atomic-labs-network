@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Neutral spring front porch with planters, woven mats, pillows, and fresh
   greenery in warm light.
+topics:
+  - Decor Ideas
+  - Budget Decor
 ---
 
 As spring 2026 blossoms, it's time to transform your front porch into a welcoming oasis. With a few budget-friendly decor ideas, you can create an inviting atmosphere that embodies the freshness of the season. From neutral hues to cozy textures, this guide offers easy and affordable ways to refresh your outdoor space.

@@ -33,6 +33,8 @@ quality_note: >-
 image_alt: >-
   Elegant blind wine tasting setup with unlabeled glasses, a blindfold, and
   aroma ingredients on a table.
+topics:
+  - Wine tips
 ---
 ## Understanding Blind Wine Tasting
 

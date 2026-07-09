@@ -46,6 +46,9 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under target word count at 393 words versus the 800-1200 target range.
 image_alt: Stethoscope and unbranded medicine bottle on a softly lit clinical desk
+topics:
+  - Research
+  - Drugs
 ---
 
 The world of pharmacology is a complex one, and antidepressants are no exception. One question under investigation is whether these medications, designed to improve mental health, could pose a risk to heart health. Specifically, the concern centers on the potential of antidepressants to increase the likelihood of sudden cardiac death.

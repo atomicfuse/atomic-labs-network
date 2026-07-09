@@ -34,6 +34,8 @@ quality_note: >-
   word count and multiple unsubstantiated claims presented as facts.
 reading_time: 3
 image_alt: Two empty chairs sit divided by light and shadow in a tense modern room.
+topics:
+  - Celebrities
 ---
 ## Musk's Candid Admission on Social Media
 

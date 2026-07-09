@@ -16,6 +16,8 @@ generated_by: editorial
 featuredImage: /assets/images/nbc-6-news-latest-updates-and-breaking-stories.webp
 reading_time: 1
 image_alt: Modern newsroom desk with glowing screens and a Miami skyline at dawn
+topics:
+  - Gaming News
 ---
 
 This page collects the latest updates and breaking stories from NBC 6 News and other major

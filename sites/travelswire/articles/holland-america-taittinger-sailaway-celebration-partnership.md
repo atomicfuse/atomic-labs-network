@@ -38,6 +38,8 @@ quality_note: >-
   raises factual accuracy concerns.
 reading_time: 3
 image_alt: Champagne flutes on a luxury cruise deck at sunset as the ship sails from port
+topics:
+  - Travel Tips
 ---
 ## A Toast to Tradition Returns to the Seas
 

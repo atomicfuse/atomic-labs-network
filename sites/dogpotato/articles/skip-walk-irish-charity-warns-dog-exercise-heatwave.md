@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Dog resting indoors by a water bowl while a leash hangs near a bright, hot
   doorway.
+topics:
+  - Dogs
 ---
 ## Urgent Warning as Temperatures Soar
 

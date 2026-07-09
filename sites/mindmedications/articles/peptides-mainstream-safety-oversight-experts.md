@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Person reviews an unbranded vial and wellness notes at a bright kitchen table
   with a laptop nearby.
+topics:
+  - Wellness
 ---
 ## The Peptide Revolution: From Niche to Mainstream
 

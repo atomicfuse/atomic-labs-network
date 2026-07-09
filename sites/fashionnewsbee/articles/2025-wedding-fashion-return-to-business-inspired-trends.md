@@ -32,6 +32,8 @@ seo:
 image_alt: >-
   Woman in ivory wedding-inspired tailoring with a satin necktie in a sleek
   sunlit venue
+topics:
+  - Fashion
 ---
 
 In recent years, the fashion world has seen a significant shift, with neckties transcending gender norms to become a staple in women's wardrobes. Once considered an accessory strictly for men, neckties for women are now a powerful statement of style and individuality, embodying a blend of sophistication and audacity.

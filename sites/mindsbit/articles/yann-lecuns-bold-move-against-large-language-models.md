@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Abstract AI crossroads with a small glowing neural system contrasting a
   massive data tower.
+topics:
+  - Innovation
+  - Tech
 ---
 
 Yann LeCun, a pioneering figure in artificial intelligence, has embarked on a groundbreaking journey with his latest venture, AMI Labs. This innovative initiative is set to transform the AI landscape by introducing novel approaches and technologies. As AI continues to evolve, the launch of AMI Labs marks a significant milestone in the quest for more advanced and human-like artificial intelligence systems.

@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Expectant parent and partner share a calm sunlit moment at home during
   pregnancy.
+topics:
+  - Pregnancy
+  - Children’s Health
 ---
 
 Navigating the journey of pregnancy is a unique and rewarding experience filled with excitement and anticipation. Expectant parents often find themselves immersed in a world of information, from understanding prenatal care to preparing for childbirth. This period is as much about physical changes as it is about emotional growth. With the right knowledge and support, parents can feel empowered and ready to welcome their new baby into the world.

@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Open hotel mini fridge with food and medicine under cool blue light in a warm
   modern room
+topics:
+  - Travel Tips
+  - Food & Drink
 ---
 ## The Hidden Danger in Your Hotel Room
 

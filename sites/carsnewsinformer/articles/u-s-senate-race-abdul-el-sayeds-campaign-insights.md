@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Quiet campaign office at dawn with chairs, maps, clipboards, and soft morning
   light
+topics:
+  - News
 ---
 ## Senate Campaign Developments
 

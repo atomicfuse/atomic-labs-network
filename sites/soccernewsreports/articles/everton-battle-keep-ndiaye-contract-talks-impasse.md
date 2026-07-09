@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Focused footballer in blue kit stands between stadium light and shadow as
   negotiations blur behind him.
+topics:
+  - Latest News
+  - Transfers
+  - Leagues
 ---
 ## Contract Standoff Threatens Everton's Star Asset
 

@@ -46,6 +46,8 @@ quality_note: >-
   short on word count and contains potentially fabricated claims about a
   specific power outage incident that lacks verifiable details.
 image_alt: Driverless cars stalled in a dark San Francisco intersection during a blackout
+topics:
+  - Tech
 ---
 
 Waymo's autonomous vehicles have been making waves in San Francisco's bustling streets, showcasing the future of transportation. Despite their impressive technology, these self-driving cars recently faced an unexpected challenge—a city-wide power outage that tested their capabilities in unforeseen circumstances.

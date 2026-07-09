@@ -39,6 +39,8 @@ quality_note: >-
 image_alt: >-
   Empty school theater under a lone spotlight with a crumpled hoodie and shadowy
   hallway beyond.
+topics:
+  - Watch
 ---
 
 HBO's _Euphoria_ turns episode 6 into a pressure chamber, where every secret feels closer to exploding. After Rue's terrifying relapse and public unraveling, the story shifts into emotional aftermath. The episode studies withdrawal, guilt, power, and denial with sharp focus. It also sets several relationships on irreversible paths before the season's final stretch.

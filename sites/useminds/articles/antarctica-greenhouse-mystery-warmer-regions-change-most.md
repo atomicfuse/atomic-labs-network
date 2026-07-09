@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Researcher studies an ice core on a vast Antarctic ice field under a shifting
   blue and amber sky.
+topics:
+  - Mind-Blowing Science
 ---
 ## A Decade-Old Climate Puzzle Finally Solved
 

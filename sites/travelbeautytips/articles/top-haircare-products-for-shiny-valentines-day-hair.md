@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Person with shiny styled hair at an elegant vanity with soft pink Valentine’s
   Day accents
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Valentine's Day is just around the corner, and it's the perfect time to get your hair looking its best for the celebrations. Whether you're planning a romantic date or a fun night out with friends, having healthy, shiny hair can make all the difference in boosting your confidence.

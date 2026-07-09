@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Viewers silhouetted before a glowing screen with abstract scenes suggesting
   new streaming releases.
+topics:
+  - TV News
 ---
 
 Netflix is set to entertain its subscribers with a diverse array of movies and TV shows scheduled for release in March 2026. As one of the leading streaming platforms, Netflix continually updates its library to cater to a wide audience with varied tastes. This month's lineup includes exciting new releases, returning favorites, and some hidden gems that are sure to captivate viewers worldwide.

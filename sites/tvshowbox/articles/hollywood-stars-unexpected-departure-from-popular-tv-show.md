@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Empty TV studio chair under a spotlight as a silhouetted figure leaves through
   a door
+topics:
+  - TV News
 ---
 
 The unexpected departure of a key actor from Apple TV's acclaimed drama series has left fans buzzing with speculation and curiosity. As the television landscape continues to evolve, changes like this keep audiences on their toes, offering fresh dynamics and storylines.

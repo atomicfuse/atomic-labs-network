@@ -35,6 +35,8 @@ seo:
 image_alt: >-
   A tired-looking beauty model at a dawn-lit vanity with smudged makeup and
   soft, uneasy styling.
+topics:
+  - Beauty
 ---
 
 In recent months, a new beauty trend known as the "Sleepy Girl" look has emerged, captivating the attention of beauty enthusiasts worldwide. This trend, characterized by a deliberately tired and droopy appearance, has sparked significant interest and debate within the beauty community. While some embrace the aesthetic for its laid-back appeal, others express concern about the implications of glorifying a fatigued look.

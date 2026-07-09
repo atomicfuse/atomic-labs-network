@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Glowing liver silhouette with fading fat droplets and subtle botanical
   molecular forms
+topics:
+  - Space
 ---
 
 The potential of cannabis compounds in treating health issues has been a subject of research for years. Recently, a study has shed light on the possibility that certain compounds found in cannabis might offer a therapeutic approach to combat fatty liver disease, a condition affecting millions globally.

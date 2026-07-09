@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   A lone yellow star glows apart from distant paired stars in a dark cosmic
   field.
+topics:
+  - Tech
 ---
 ## Our Sun Is Actually the Odd One Out
 

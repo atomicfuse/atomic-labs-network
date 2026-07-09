@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Moody studio scene with split-color sound waves suggesting divided reactions
   to an experimental album
+topics:
+  - Music
 ---
 
 The Neighbourhood's latest release, "Ultrasound," has stirred a spectrum of reactions among listeners. Known for their unique blend of alternative rock and indie pop, the band has ventured into new sonic territories with this album. As fans dive into its tracks, the mixed reviews highlight its experimental nature.

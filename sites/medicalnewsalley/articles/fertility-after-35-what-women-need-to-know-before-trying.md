@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman in her late 30s planning quietly at a sunlit table with tea, flowers,
   and a calm hopeful atmosphere.
+topics:
+  - Health News
 ---
 ## The New Normal: Motherhood After 35
 

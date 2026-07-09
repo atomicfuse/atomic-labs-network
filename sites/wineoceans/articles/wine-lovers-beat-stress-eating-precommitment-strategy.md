@@ -37,6 +37,8 @@ quality_note: >-
   credibility despite good topical relevance.
 reading_time: 3
 image_alt: Prepared healthy snacks and a glass of red wine on a calm kitchen counter.
+topics:
+  - Wine tips
 ---
 ## Understanding Precommitment for Wine Lovers
 

@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   A steam train emerges from fog on a desolate wartime railway under a cold,
   ominous sky.
+topics:
+  - Conspiracies
+  - Dark History
+  - Mysteries
 ---
 
 In the realm of gripping narratives and eerie tales, few stories capture the imagination quite like those that revolve around mysterious journeys. One such tale is the chilling account of the one-way train to hell, set during the tumultuous times of World War II. This post delves into the haunting events that took place aboard this ill-fated train, as well as other intriguing stories shared by MrBallen.

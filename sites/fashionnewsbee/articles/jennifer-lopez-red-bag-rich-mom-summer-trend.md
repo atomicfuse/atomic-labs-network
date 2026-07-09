@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Vibrant red structured handbag styled with summer accessories on a sunlit café
   table
+topics:
+  - Fashion
 ---
 ## Jennifer Lopez Sets the Tone for Summer's Boldest Accessory Trend
 

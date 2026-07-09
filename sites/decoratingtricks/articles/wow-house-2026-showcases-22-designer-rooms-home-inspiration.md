@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Elegant luxury interiors gallery with arches, chandelier, rich textiles,
   stone, wood, and layered designer rooms.
+topics:
+  - Design Tips
 ---
 ## Global Designers Transform Chelsea Harbour into Design Wonderland
 

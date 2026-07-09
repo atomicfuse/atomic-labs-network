@@ -32,6 +32,8 @@ quality_note: >-
   falls short on word count and could benefit from stronger SEO optimization in
   headings structure.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## The Unexpected Rise of Human-Centered Travel Planning
 

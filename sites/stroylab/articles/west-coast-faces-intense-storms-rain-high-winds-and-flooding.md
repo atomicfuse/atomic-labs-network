@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Healthcare workers and community members stand around a glowing world map at
   sunrise.
+topics:
+  - Deep Dives
 ---
 
 In recent years, the global discourse on health and medicine has increasingly focused on the potential impacts of widespread vaccination programs. As these initiatives have rolled out worldwide, various reports have emerged highlighting both the successes and the challenges they entail. With different perspectives and data, it's crucial to examine the multifaceted aspects of vaccine distribution and its implications on public health.

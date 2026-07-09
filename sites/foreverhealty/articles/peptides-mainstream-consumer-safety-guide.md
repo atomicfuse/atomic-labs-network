@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman researching wellness options at a sunlit table with plain bottles and a
   laptop.
+topics:
+  - Healthy Aging
 ---
 ## The Peptide Revolution: From Biohacking to Mainstream Wellness
 

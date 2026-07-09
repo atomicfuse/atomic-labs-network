@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Vaccine vial and syringe beside a translucent heart model in a clinical
   setting
+topics:
+  - Deep Dives
 ---
 
 Recent developments in the Middle East have drawn international attention as tensions rise between Israel and Hamas. The situation has led to significant military actions and a humanitarian crisis affecting countless civilians. Understanding the complex dynamics and the impact of these events is crucial for global awareness and response.

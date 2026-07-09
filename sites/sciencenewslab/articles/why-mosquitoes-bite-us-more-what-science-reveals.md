@@ -36,6 +36,8 @@ quality_note: >-
 image_alt: >-
   Mosquito hovering over a warm urban puddle at dusk, suggesting climate-driven
   public health risk.
+topics:
+  - Environment
 ---
 
 As global temperatures continue to rise, mosquitoes are increasingly becoming a year-round nuisance, feeding on humans more frequently. This trend is largely attributed to changes in climate and human behavior, which create ideal conditions for these pests to thrive and spread.

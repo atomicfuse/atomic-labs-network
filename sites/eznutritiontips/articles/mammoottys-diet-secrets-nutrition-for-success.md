@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Elegant balanced meal with fresh produce, lean protein, whole grains, and
   water in warm natural light
+topics:
+  - Healthy Recipes
+  - Weight & Wellness
 ---
 
 Renowned actor Mammootty is known not just for his stellar performances but also for his youthful vitality and health. The secret to his robust health lies in a meticulously curated diet managed by a professional dietitian. This balanced nutritional plan plays a pivotal role in maintaining his energy and longevity, setting a benchmark for fitness enthusiasts and fans alike.

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Blond vampire-like rock performer silhouetted on a gothic concert stage under
   amber and violet lights.
+topics:
+  - TV & Movies
 ---
 ## A Bold Musical Pivot
 

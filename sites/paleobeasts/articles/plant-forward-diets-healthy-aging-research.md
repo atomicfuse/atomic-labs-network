@@ -36,6 +36,9 @@ quality_note: >-
   the site's paleo diet focus and contains no relevant keywords or SEO
   optimization for the target audience.
 reading_time: 3
+topics:
+  - Nutrition
+  - Meal Plans
 ---
 ## New Research Links Plant-Forward Eating to Age-Related Health Markers
 

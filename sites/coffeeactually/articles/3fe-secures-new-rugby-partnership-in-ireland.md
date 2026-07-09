@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Flat white beside a green rugby ball with blurred stadium lights in the
   background
+topics:
+  - Coffee News
 ---
 
 In an exciting development for both coffee enthusiasts and sports fans, Ireland's renowned coffee company, 3fe, has entered a strategic partnership with the Irish Rugby Football Union (IRFU). This collaboration marks a significant milestone for 3fe, enhancing its visibility and influence within the sports community while providing rugby fans with high-quality coffee experiences.

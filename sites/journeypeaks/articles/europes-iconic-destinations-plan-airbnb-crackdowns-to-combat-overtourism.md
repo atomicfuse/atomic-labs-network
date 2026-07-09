@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Tourists with suitcases crowd a historic European street as a local resident
   stands in a doorway.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Across Europe, iconic travel destinations are taking decisive steps to address the challenges posed by overtourism and housing shortages. Countries like Italy, France, Spain, and Portugal are leading efforts to implement stringent regulations on short-term rental platforms such as Airbnb. These measures aim to balance the thriving tourist industry with the needs of local communities, ensuring sustainable development and affordable housing for residents.

@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Smartphone with abstract AI photo selection interface and privacy-themed
   visual cues
+topics:
+  - Innovation
+  - Tech
 ---
 
 Tinder is continuously innovating to enhance user experiences on its platform. A recent feature test underscores this commitment, aiming to make profile creation more engaging and personalized. This test involves an AI-driven Chemistry feature that analyzes users' camera rolls to suggest suitable photos for their profiles. This new tool could revolutionize how users present themselves in the online dating scene, making it easier to create appealing and authentic profiles.

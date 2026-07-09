@@ -42,6 +42,8 @@ quality_note: >-
   verifiable details about the record and contains some unsubstantiated claims
   about yoga benefits.
 image_alt: Young child practicing yoga with graceful motion in a bright studio
+topics:
+  - Yoga Poses
 ---
 
 A young yoga achiever has earned national attention by setting a remarkable India Book of Records milestone for speed, flexibility, and focus. The record recognizes the fastest kid to perform 50 yoga poses, a feat that combines physical control, breath awareness, memory, and disciplined practice. Completing such a demanding sequence at a young age shows more than agility. It reflects preparation, confidence, and the growing influence of yoga among children in India.

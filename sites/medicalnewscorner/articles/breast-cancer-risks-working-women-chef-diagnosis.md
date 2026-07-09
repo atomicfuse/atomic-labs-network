@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Professional Indian woman pauses in a sunlit office, suggesting breast health
   awareness and preventive screening.
+topics:
+  - Health News
 ---
 ## Rising Concern: Breast Cancer Among Younger Working Women
 

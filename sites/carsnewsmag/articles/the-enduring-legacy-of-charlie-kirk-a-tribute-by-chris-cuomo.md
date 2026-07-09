@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Empty debate stage with two chairs under warm spotlights, evoking civil
   dialogue and remembrance.
+topics:
+  - News
 ---
 
 In a recent episode of his show "CUOMO," Chris Cuomo pays tribute to Charlie Kirk, a conservative activist whose recent death has left a significant impact on both sides of the political spectrum. Despite their differing political views, Cuomo acknowledges the role Kirk played in fostering civil debate and making disagreement without being disagreeable an admirable trait in today's polarized society.

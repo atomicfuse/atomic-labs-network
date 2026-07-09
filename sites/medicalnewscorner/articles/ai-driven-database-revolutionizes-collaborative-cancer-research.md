@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Researchers study a glowing cellular data network in a modern lab, suggesting
   collaborative cancer research.
+topics:
+  - Research
 ---
 
 In the rapidly evolving field of cancer treatment, researchers are constantly seeking innovative ways to enhance the effectiveness of immunotherapy. A groundbreaking initiative has emerged, introducing a comprehensive open-access database designed to accelerate research in cancer immunotherapy. This database promises to revolutionize how scientists and medical professionals access crucial information, ultimately advancing treatment strategies for cancer patients worldwide.

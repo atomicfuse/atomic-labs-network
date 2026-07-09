@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Sleek wine fridge glowing in a modern kitchen with wine glasses on a marble
   counter.
+topics:
+  - Wine tips
 ---
 ## Professional Wine Storage Made Accessible
 

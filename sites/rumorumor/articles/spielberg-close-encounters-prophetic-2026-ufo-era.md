@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   A lone figure watches mysterious lights over a guarded facility on a foggy
   night road.
+topics:
+  - TV & Movies
 ---
 ## A 1977 Vision That Predicted 2026 Reality
 

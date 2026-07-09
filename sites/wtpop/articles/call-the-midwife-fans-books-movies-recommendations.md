@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Women gather in a warm vintage room with books, tea, a film projector, and
   mid-century care details.
+topics:
+  - TV & Movies
 ---
 ## Finding Your Next Comfort Watch and Read
 

@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Sunlit skincare essentials on a clean vanity with sunscreen, water, citrus,
   and soft linens.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Lala Kent, a prominent figure in the entertainment industry, is gaining attention not just for her roles in reality television but also for her skincare choices. Known for her glowing complexion, Lala shares her insights into maintaining healthy skin, sparking interest among her fans and followers.

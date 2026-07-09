@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Tense newsroom scene with a veteran journalist facing an executive across a
   glass conference room.
+topics:
+  - Hot Trends
 ---
 ## Veteran Journalist Launches Public Attack
 

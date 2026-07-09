@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Stylish model in retro tropical swimwear on a sunlit yacht along the French
   Riviera.
+topics:
+  - Fashion
 ---
 ## Bella Hadid Brings Vintage Glamour to the French Riviera
 

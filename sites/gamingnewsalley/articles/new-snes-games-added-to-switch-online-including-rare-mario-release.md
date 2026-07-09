@@ -45,6 +45,8 @@ quality_note: >-
   contains factual errors about Super Mario Bros 2/Lost Levels and is below
   optimal word count.
 image_alt: Retro gaming worlds glow from a modern handheld console on a dark desk.
+topics:
+  - Gaming News
 ---
 
 Nintendo continues to delight fans by expanding its Nintendo Switch Online collection, recently adding three notable games to its Super Nintendo Entertainment System (SNES) library. For fans of classic gaming, this update is particularly exciting because it includes a title that has never been released outside of Japan before.

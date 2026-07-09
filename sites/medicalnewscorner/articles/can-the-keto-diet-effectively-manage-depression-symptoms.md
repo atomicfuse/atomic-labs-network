@@ -45,6 +45,8 @@ quality_note: >-
   537 words, which severely impacts overall quality despite good research
   coverage and engaging writing.
 image_alt: Sunlit keto foods on a table with a calm person resting by a bright window
+topics:
+  - Research
 ---
 
 Recent research suggests that a ketogenic diet might offer benefits for individuals struggling with treatment-resistant depression. This dietary approach, typically associated with weight loss and metabolic health, could play a promising role in mental health treatment strategies. The study, conducted over six weeks, reveals potential improvements in depressive symptoms among those adhering to this high-fat, low-carbohydrate diet.

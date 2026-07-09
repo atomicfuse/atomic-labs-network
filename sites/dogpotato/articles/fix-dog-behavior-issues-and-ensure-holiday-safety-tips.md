@@ -37,6 +37,10 @@ quality_note: >-
 image_alt: >-
   Calm dog sitting beside its owner in a cozy holiday room with safe festive
   decorations
+topics:
+  - Animal Planet
+  - Dogs
+  - Good To Know
 ---
 ## Understanding Common Dog Behavior Challenges
 

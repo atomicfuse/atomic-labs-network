@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Retro compact camera on a studio surface with film rolls and subtle digital
   light accents
+topics:
+  - Innovation
+  - Tech
 ---
 
 Fujifilm continues to impress photography enthusiasts with its innovative approach by introducing a remarkable addition to its camera lineup. Blending the charm of analog aesthetics with cutting-edge digital technology, Fujifilm's latest compact camera model is designed to cater to both nostalgic film lovers and modern digital photographers.

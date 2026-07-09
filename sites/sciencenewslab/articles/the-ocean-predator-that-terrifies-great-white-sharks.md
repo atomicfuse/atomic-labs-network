@@ -37,6 +37,9 @@ quality_note: >-
 image_alt: >-
   An orca dominates a shadowy ocean scene as a distant great white shark turns
   away.
+topics:
+  - Nature
+  - Environment
 ---
 
 In the vast and mysterious world beneath the ocean's surface, where apex predators reign supreme, one creature stands out for its ability to strike fear even in the formidable great white shark. This formidable presence is none other than the orca, also known as the killer whale. Known for their intelligence and social hunting strategies, orcas have been observed in recent years to have a significant impact on the behavior and distribution of great white sharks.

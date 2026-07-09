@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Confident woman discussing brain health with a doctor in a bright, calm
   wellness setting.
+topics:
+  - Health News
 ---
 ## Shifting the Conversation From Fear to Action
 

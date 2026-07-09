@@ -34,6 +34,8 @@ reading_time: 2
 image_alt: >-
   Dog resting indoors beside water and a fan while intense summer heat glows
   outside.
+topics:
+  - Dogs
 ---
 ## Understanding Heat Risks for Dogs
 

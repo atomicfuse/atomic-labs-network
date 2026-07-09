@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Voiceover microphone and motion-capture gloves in a studio with a blurred
   handshake in the background
+topics:
+  - Gaming News
 ---
 
 In a significant development for the gaming and entertainment industries, SAG-AFTRA members have finalized an agreement with key video game companies, successfully concluding a potential strike. This marks a pivotal moment for voice actors and motion capture performers, who have been advocating for better working conditions and fair compensation. The ratification of this agreement ensures continued collaboration between the union and major studios.

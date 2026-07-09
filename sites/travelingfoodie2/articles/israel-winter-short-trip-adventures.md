@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Winter hiking trail blending Israel’s coast, green hills, forest, and desert
   with small hikers in the distance.
+topics:
+  - Destination Guides
 ---
 ## Why Winter is Prime Time for Israeli Adventures
 

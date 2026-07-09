@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Resort-style in-pool lounge chairs on a shallow sun shelf in a modern backyard
   pool
+topics:
+  - Budget Decor
+  - Decor Ideas
 ---
 ## Bringing Resort Luxury Home for Less
 

@@ -36,6 +36,8 @@ reading_time: 2
 image_alt: >-
   Rock singer faces a tense concert crowd under red, white, and blue stage
   lights.
+topics:
+  - Music
 ---
 ## Concert Controversy Erupts in Tampa
 

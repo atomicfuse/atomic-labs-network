@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Elegant red carpet scene with formalwear details suggesting evolving celebrity
   dress codes.
+topics:
+  - Fashion
 ---
 
 The Cannes Film Festival stands as one of the most prestigious events in the world of cinema. Known for its glitz and glamour, this festival is not only a platform for filmmakers to showcase their work but also a stage where fashion takes center stage. Each year, celebrities and industry professionals walk the red carpet, adhering to a strict dress code that has become synonymous with the event's allure.

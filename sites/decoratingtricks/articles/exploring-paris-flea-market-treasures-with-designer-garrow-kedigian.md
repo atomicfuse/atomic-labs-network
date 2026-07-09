@@ -45,6 +45,10 @@ quality_note: >-
   short, lacks SEO optimization, and focuses more on a specific designer's story
   than practical home decorating advice for the target audience.
 image_alt: Antique furniture and decor arranged at a sunlit Paris flea market
+topics:
+  - Decor Ideas
+  - Design Tips
+  - Home Improvement
 ---
 
 The allure of Paris's flea markets is undeniable, offering a treasure trove of unique finds and timeless pieces. In this episode of The Paris Project, acclaimed New York-based interior designer Garrow Kedigian invites us to join him on an inspiring journey through Paul Bert Serpette, the legendary flea market located just outside of Paris. This bustling market is renowned for its eclectic mix of antiques, art, and vintage decor, making it the perfect hunting ground for Garrow's chic new Paris apartment.

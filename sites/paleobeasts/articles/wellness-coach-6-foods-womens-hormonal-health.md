@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Nourishing bowl with leafy greens, seeds, vegetables, grains, and egg on a
   light wooden table.
+topics:
+  - Nutrition
+  - Recipes
 ---
 ## Growing Focus on Food-Based Hormone Support
 

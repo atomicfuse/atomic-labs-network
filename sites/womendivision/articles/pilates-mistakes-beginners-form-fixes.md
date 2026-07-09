@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Pilates instructor guides a beginner through a glute bridge in a bright home
   workout space.
+topics:
+  - Fitness
 ---
 ## The Growing Need for Better Form Guidance
 

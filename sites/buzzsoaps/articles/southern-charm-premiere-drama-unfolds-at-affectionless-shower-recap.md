@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Tense upscale Charleston garden party outside a Southern mansion at golden
   hour
+topics:
+  - Watch
 ---
 
 # Southern Charm Season 11 Premiere

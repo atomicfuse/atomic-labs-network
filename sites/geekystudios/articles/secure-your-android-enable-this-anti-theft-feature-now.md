@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Unbranded smartphone protected by a glowing biometric shield on a dark modern
   surface
+topics:
+  - Tech
+  - Tutorials
 ---
 
 In today's digital age, safeguarding your smartphone from unauthorized access is more critical than ever. While smartphones offer immense convenience, they also pose security risks if not properly protected. Android users have access to a simple yet effective feature that can significantly enhance their device's security by preventing thieves from gaining access.

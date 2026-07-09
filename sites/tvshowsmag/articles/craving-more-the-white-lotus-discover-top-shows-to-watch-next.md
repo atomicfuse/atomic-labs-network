@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Luxurious resort lounge at dusk with tense, distant guests and a moody
   cinematic atmosphere
+topics:
+  - Reviews
 ---
 
 If you can't get enough of the spellbinding drama 'White Lotus', you're certainly not alone. The series has captivated audiences worldwide, leaving viewers hungry for more. Luckily, there's a wealth of comparable shows out there to sink your teeth into. Let's dive into some series that share similar themes and narratives with 'White Lotus'.

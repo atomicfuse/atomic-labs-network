@@ -41,6 +41,10 @@ quality_note: >-
   short on length (589 words vs 800-1200 target) and could benefit from stronger
   SEO optimization in title and headings.
 image_alt: Airplane window seat at night with travel essentials and city lights below
+topics:
+  - Travel
+  - Travel Tips
+  - Lifestyle
 ---
 
 Jet lag is a common challenge for travelers crossing multiple time zones. It disrupts the body's internal clock, causing fatigue and sleep disturbances. Many seek effective remedies to minimize these effects. Among the potential solutions, melatonin, a hormone that regulates sleep, often emerges as a promising option.

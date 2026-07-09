@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Glam-rock vampire in a ruined cathedral with a crimson chalice and shadowy
   ancient queen figure
+topics:
+  - TV Shows
+  - Trailers
 ---
 ## AMC's Vampire Series Sets Sights on Anne Rice's Most Controversial Material
 

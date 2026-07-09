@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Rugged compact SUV parked between a modern city street and a green outdoor
   trailhead
+topics:
+  - Reviews
 ---
 
 The Jeep Compass has evolved significantly over time, positioning itself as a robust choice in the compact SUV market. With its rugged design and versatile capabilities, the Compass aims to attract both urban drivers and adventure enthusiasts. Its latest iteration offers several updates that enhance both its aesthetic appeal and functionality.

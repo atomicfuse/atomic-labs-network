@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Focused person at a home desk surrounded by subtle neural light trails
   suggesting automated multitasking.
+topics:
+  - Wellness
 ---
 ## The Science Behind Mental Automation
 

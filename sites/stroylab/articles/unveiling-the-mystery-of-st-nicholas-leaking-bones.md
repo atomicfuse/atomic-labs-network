@@ -42,6 +42,10 @@ quality_note: >-
 image_alt: >-
   Ancient reliquary in a dim crypt with amber droplets and observers in the
   background
+topics:
+  - Dark History
+  - Deep Dives
+  - Mysteries
 ---
 
 The mysterious phenomenon surrounding the bones of St. Nicholas, known to many as Santa Claus, has puzzled historians and scientists for centuries. Reports suggest that for the last seventeen hundred years, the bones have been leaking an unknown substance, sparking curiosity and a plethora of theories about this strange occurrence.

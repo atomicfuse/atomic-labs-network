@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Modern game development studio overlooking a Mediterranean tech skyline at
   dusk
+topics:
+  - Gaming News
 ---
 
 The rapid growth of technology has revolutionized industries worldwide, and the rise of artificial intelligence (AI) is at the forefront of this transformation. As AI continues to evolve, its integration into various sectors is reshaping traditional business models and creating new opportunities for innovation and efficiency.

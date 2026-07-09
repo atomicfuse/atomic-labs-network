@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Glowing rating stars become data particles shaping streaming choices on a dark
   screen.
+topics:
+  - Tech
+  - Pop Culture
+  - Trends
 ---
 
 In today's digital age, streaming services have revolutionized the way we consume entertainment. With a plethora of options at our fingertips, deciding what to watch next can be overwhelming. One way viewers navigate this sea of choices is by rating shows and movies. But how does this practice impact viewing habits, and what are the benefits of participating?

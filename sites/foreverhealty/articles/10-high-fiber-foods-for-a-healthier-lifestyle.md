@@ -41,6 +41,9 @@ quality_note: >-
   underdeveloped at only 50 words when 800-1200 is expected, making it
   essentially an outline rather than a complete article.
 image_alt: Sunlit table with colorful high-fiber foods arranged for a healthy lifestyle
+topics:
+  - Healthy Recipes
+  - Healthy Living Tips
 ---
 
 Discover the high fiber foods that I include in my weekly diet to meet a daily goal of 25g. Fiber plays a crucial role in maintaining gut health and supporting colon health. It's important to source fiber from whole foods. I also share some high fiber meals and recipe ideas.

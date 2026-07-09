@@ -41,6 +41,9 @@ quality_note: >-
   words, which severely impacts content length scoring despite good tone and
   relevance to beauty topics.
 image_alt: Confident mature woman applying natural radiant makeup at a softly lit vanity
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 Empowered Thru Beauty is revolutionizing the beauty industry by offering tailored makeup advice to women over 40. In an era where beauty standards are often dictated by youthful trends, this innovative approach celebrates maturity and helps women enhance their natural beauty as they age.

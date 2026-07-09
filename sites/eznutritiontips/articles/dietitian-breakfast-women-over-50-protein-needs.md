@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Protein-rich breakfast spread with workout gear and an active woman over 50 in
   a sunlit kitchen.
+topics:
+  - Nutrition Tips
 ---
 ## Breakfast Falls Short Despite Overall Healthy Diet
 

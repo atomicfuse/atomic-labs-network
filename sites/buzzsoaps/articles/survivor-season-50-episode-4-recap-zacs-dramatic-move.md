@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Tense silhouettes gather around a beach fire as a hand reaches toward a wooden
   game token.
+topics:
+  - Watch
 ---
 
 Survivor, the long-running reality competition, continues to captivate audiences with its intense challenges and strategic gameplay. As the latest season unfolds, contestants navigate the complexities of alliances and rivalries, all while battling the elements. The recent episode offered a dramatic blend of strategy and surprise, setting the stage for future developments.

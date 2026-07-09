@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Elegant coastal vineyard table with sparkling wine, oysters, and water views
   in warm sunlight
+topics:
+  - Nutrition Tips
 ---
 ## A New Era of Wine Tourism on Long Island
 

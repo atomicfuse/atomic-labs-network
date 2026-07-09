@@ -33,6 +33,9 @@ reading_time: 3
 image_alt: >-
   Compact powder room vanity with warm brass wall sconces framing an arched
   mirror
+topics:
+  - Design Tips
+  - Home Improvement
 ---
 ## Space-Saving Lighting Solutions for Every Room
 

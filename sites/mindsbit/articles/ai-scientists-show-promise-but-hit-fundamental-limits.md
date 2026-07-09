@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Glowing neural jellyfish above lab samples as a scientist validates research
   findings
+topics:
+  - Tech
 ---
 ## The Rise of AI-Powered Scientific Discovery
 

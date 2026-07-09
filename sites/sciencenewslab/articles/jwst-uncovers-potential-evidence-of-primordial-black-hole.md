@@ -36,6 +36,9 @@ quality_note: >-
 image_alt: >-
   Mysterious cosmic distortion glows among distant early galaxies in a dark
   infrared universe.
+topics:
+  - Space
+  - Physics
 ---
 
 The discovery of a mysterious cosmic object by the James Webb Space Telescope (JWST) has intrigued astronomers and sparked a new wave of scientific discussion. This object, potentially a primordial black hole, offers a rare glimpse into the early universe and may provide critical insights into the formation of galaxies and other cosmic structures.

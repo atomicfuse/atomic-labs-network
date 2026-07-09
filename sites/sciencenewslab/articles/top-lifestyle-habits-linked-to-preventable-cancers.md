@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Sunlit table with alcohol and cigarettes set aside beside water, fruit, and
   walking shoes.
+topics:
+  - Space
 ---
 
 In the realm of health and wellness, understanding the root causes of cancer is crucial for prevention. Recent studies highlight the significant impact of certain lifestyle choices on cancer rates. Specifically, two habits stand out as major contributors to preventable cancer cases: tobacco use and alcohol consumption. By addressing these factors, individuals can dramatically reduce their cancer risk and improve their overall well-being.

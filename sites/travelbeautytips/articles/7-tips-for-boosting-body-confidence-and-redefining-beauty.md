@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Diverse adults standing confidently together in warm natural light with soft
   fabric and greenery.
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In today's society, feeling confident in one's body is a challenge many face. The pressure to conform to unrealistic beauty standards can impact self-esteem and body image. Yet, building body confidence is achievable through intentional practices and mindset shifts. This guide offers practical tips to help you embrace your uniqueness and nurture a positive self-image.

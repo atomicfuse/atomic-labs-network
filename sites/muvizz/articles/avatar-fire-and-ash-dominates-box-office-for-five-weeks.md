@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Silhouetted moviegoers face a glowing alien ocean world with five beams of
   cinematic light.
+topics:
+  - Movies
+  - Trailers
 ---
 
 This past weekend, the film industry witnessed another remarkable achievement as "Avatar: The Way of Water" continued its box office dominance. The sequel has not only captivated audiences worldwide but also demonstrated its staying power by holding the top spot for five consecutive weeks. As the cinematic landscape shifts, this film stands as a testament to the enduring appeal of the "Avatar" franchise.

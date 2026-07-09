@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Three musicians play with puppies on a cozy holiday film set with warm festive
   lights.
+topics:
+  - Celebrities
+  - Music
 ---
 
 The Jonas Brothers recently took some time to sit down for a unique interview experience, where they were surrounded by adorable puppies. This playful setting was arranged to celebrate the release of their new Christmas movie and offered a delightful twist to the usual interview format.

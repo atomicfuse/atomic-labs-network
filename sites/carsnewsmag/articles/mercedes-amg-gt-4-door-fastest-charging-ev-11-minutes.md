@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Luxury electric coupe charging in a futuristic bay with glowing energy lines
   beneath it
+topics:
+  - Electric Cars
 ---
 ## Record-Breaking Charging Speed Sets New Standard
 

@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Futuristic performance SUV on a misty mountain road with a sports coupe
   reflection in wet pavement.
+topics:
+  - Industry
 ---
 
 Alpine, renowned for its commitment to crafting performance-oriented vehicles, is now venturing into the SUV market. This bold move marks a significant shift in the brand's strategy, aiming to blend sportiness with the versatility of an SUV. As the automotive industry evolves, Alpine's forthcoming model, the A390, promises to redefine expectations with its innovative design and performance capabilities.

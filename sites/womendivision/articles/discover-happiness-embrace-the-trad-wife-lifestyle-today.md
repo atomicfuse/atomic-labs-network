@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   A woman sets a family table in a warm kitchen with a modern city visible
   through the window.
+topics:
+  - Lifestyle
 ---
 
 In a modern world where gender roles are constantly evolving, some women are opting to embrace traditional lifestyles known as "trad wives". These women choose to fulfill roles reminiscent of the 1950s housewife, focusing on homemaking, child-rearing, and supporting their husbands. This lifestyle choice, though sometimes controversial, is gaining attention for its emphasis on family values and personal fulfillment.

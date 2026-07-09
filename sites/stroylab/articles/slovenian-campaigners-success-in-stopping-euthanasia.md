@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Citizens gather outside a civic building with blank placards in a sober,
   hopeful moment of advocacy.
+topics:
+  - Deep Dives
 ---
 
 No original article content is available. The body text provided does not relate to the article title and appears to be AI-generated placeholder content about geopolitics, unrelated to Slovenian euthanasia campaigners. The article cannot be cleaned up or reconstructed without the actual source content.

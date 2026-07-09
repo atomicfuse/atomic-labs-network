@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Two silhouetted performers step into a dramatic spotlight on a moody Hollywood
   soundstage.
+topics:
+  - TV News
 ---
 
 Hollywood is abuzz with news of a captivating new television series, "Count Me In," which promises to intrigue audiences with its thrilling narrative and star-studded cast. This upcoming show is already generating excitement as it brings together renowned talents and an intense storyline that is expected to capture viewers' imaginations.

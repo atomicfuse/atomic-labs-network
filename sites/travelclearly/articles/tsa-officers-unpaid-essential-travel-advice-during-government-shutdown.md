@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Travelers wait in a long airport security line during a staffing-related
   travel disruption.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 The recent government shutdown in the United States has raised considerable concerns about its impact on air travel. With the Transportation Security Administration (TSA) playing a crucial role in airport operations, the shutdown has led to a significant strain on resources and personnel. As the situation evolves, travelers are left wondering how this will affect their plans and what measures they can take to minimize disruptions.

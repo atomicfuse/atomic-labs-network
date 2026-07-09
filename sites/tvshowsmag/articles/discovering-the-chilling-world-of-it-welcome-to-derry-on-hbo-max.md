@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Foggy small-town street at dusk with a storm drain and a lone red balloon
   creating an eerie mood.
+topics:
+  - TV News
 ---
 
 The midseason trailer for 'IT: Welcome to Derry' has arrived, offering a glimpse into the eerie events unfolding in this chilling adaptation of Stephen King's universe. As fans dive deeper into the mysterious happenings in Derry, Maine, this series promises to captivate viewers with its blend of horror and suspense.

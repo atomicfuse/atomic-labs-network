@@ -45,6 +45,10 @@ quality_note: >-
 image_alt: >-
   Footballer launches a long throw-in toward a crowded penalty area under
   stadium lights.
+topics:
+  - Latest News
+  - Leagues
+  - Match Reports
 ---
 
 Brentford FC has carved a unique niche in the Premier League, becoming renowned for their strategic use of long throw-ins. This tactical approach has not only set them apart but also played a significant role in their performances. By optimizing every opportunity, Brentford has demonstrated the importance of innovative strategies in modern football.

@@ -37,6 +37,10 @@ seo:
 image_alt: >-
   Serene Thai wellness retreat pavilion at sunrise beneath limestone peaks and
   lush greenery
+topics:
+  - Mindfulness
+  - Personal Growth
+  - Wellness
 ---
 
 In the heart of Thailand, nestled among the breathtaking 270-million-year-old limestone peaks of Saraburi, lies The Soul Resort. This unique destination offers an unparalleled experience of mindfulness and relaxation, promising guests a rejuvenating retreat amid nature's wonders. Renowned for its commitment to promoting holistic well-being, The Soul Resort seamlessly blends luxury with tranquility, providing an ideal escape for those seeking to reconnect with themselves and the natural world.

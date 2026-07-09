@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Moody 1920s drawing room with seven clocks, an open doorway, and mysterious
   aristocratic clues.
+topics:
+  - Culture Buzz
 ---
 
 Agatha Christie's detective stories continue to captivate audiences with their complex plots and intriguing characters. Her work, "The Seven Dials Mystery," is no exception, weaving a tale of suspense and mystery set against a backdrop of English aristocracy. This thrilling narrative combines the charm of the 1920s with the timeless appeal of a classic whodunit.

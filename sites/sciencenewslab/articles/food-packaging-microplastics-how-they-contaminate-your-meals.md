@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   A meal beside clear plastic packaging with tiny particles floating in soft
   light.
+topics:
+  - Environment
 ---
 
 Recent studies have uncovered a concerning issue with everyday food packaging: it releases microplastics into our meals. These tiny plastic particles, often invisible to the naked eye, are not just a problem for the environment but are also finding their way into our bodies through the food we consume.

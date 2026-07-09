@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Small group practicing guided Pilates in a bright boutique studio with a calm,
   supportive atmosphere.
+topics:
+  - Fitness & Movement
 ---
 ## The Growing Appeal of Low-Impact Fitness
 

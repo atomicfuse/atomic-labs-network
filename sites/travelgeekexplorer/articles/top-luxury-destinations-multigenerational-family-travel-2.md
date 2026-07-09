@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Three generations enjoy a luxury terrace breakfast overlooking a serene global
   travel landscape.
+topics:
+  - Travel News
+  - Destinations
 ---
 ## Growing Demand for Family-Friendly Luxury Travel
 

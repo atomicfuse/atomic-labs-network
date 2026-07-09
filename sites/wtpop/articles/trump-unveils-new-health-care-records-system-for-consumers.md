@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Doctor uses a tablet as secure digital health records connect across a modern
   hospital setting.
+topics:
+  - Celebrities
 ---
 
 The landscape of healthcare information technology is undergoing significant changes with the introduction of a new policy aimed at modernizing health records management in the United States. This initiative is designed to streamline the way medical records are stored and accessed, offering both healthcare providers and patients a more efficient system.

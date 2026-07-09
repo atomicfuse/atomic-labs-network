@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Peaceful sleeper in dawn light with subtle airflow motif suggesting improved
   breathing during rest.
+topics:
+  - Space
 ---
 
 In a groundbreaking advancement for sleep apnea treatment, a novel procedure has demonstrated remarkable success, offering hope for millions who suffer from this condition. Sleep apnea, characterized by interrupted breathing during sleep, affects numerous individuals worldwide, leading to various health complications if left untreated. The innovative approach shows promise in providing an effective solution.

@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Golden Sun with internal wave ripples and distant satellites suggesting hidden
   solar activity
+topics:
+  - Space
+  - Physics
 ---
 ## Sound Waves Reveal Solar Secrets
 

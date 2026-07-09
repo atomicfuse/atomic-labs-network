@@ -46,6 +46,10 @@ quality_note: >-
 image_alt: >-
   Friends laugh at a chaotic summer backyard watch party with pool toys and
   popcorn scattered around.
+topics:
+  - Memes
+  - Viral
+  - Odd News
 ---
 
 Summer 2025 has arrived, and with it comes an onslaught of hilarious and jaw-dropping fails that only FailArmy can deliver. Known as the world's leading source for epic fail videos, FailArmy invites you to join their live watch party, where you can witness the craziest summer misadventures submitted by fans from all corners of the globe.

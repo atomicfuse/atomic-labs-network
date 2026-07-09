@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Dog resting indoors beside water while a leash sits unused near a hot sunny
   doorway
+topics:
+  - Dogs
 ---
 ## Critical Warning as Ireland Faces Record-Breaking May Temperatures
 

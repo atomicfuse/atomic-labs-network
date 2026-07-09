@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Person researches an unbranded wellness vial at a bright table with a laptop
   and notes nearby.
+topics:
+  - Wellness
 ---
 ## The Peptide Revolution: From Niche to Mainstream
 

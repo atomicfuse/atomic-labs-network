@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Rock singer on a smoky stage faces a divided concert crowd under blue and
   magenta lights.
+topics:
+  - Hot Takes
 ---
 ## When Music Meets Politics: A Tampa Concert Turns Controversial
 

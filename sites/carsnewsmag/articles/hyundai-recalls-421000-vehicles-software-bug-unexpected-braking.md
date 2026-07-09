@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Dark blue SUV braking on a wet road with subtle sensor-like distortion near
   the windshield
+topics:
+  - News
 ---
 ## Massive Recall Affects Multiple Hyundai Models
 

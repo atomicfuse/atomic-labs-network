@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Four chefs face a tense semifinal-style plating challenge in a dramatic
   upscale kitchen.
+topics:
+  - TV & Movies
 ---
 ## Final Four Face Make-or-Break Challenges
 

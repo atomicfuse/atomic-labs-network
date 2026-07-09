@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   A moody film studio desk suggests a superhero casting rumor being decisively
   dismissed.
+topics:
+  - Celebrities
 ---
 
 In recent weeks, the entertainment industry has been buzzing with speculation about casting choices for the upcoming DC Universe projects. One of the most talked-about rumors involved actor Dave Bautista potentially taking on the role of Brainiac in a future DC film. However, director James Gunn, now co-head of DC Studios, has put these rumors to rest, affirming that there is no truth to the speculation.

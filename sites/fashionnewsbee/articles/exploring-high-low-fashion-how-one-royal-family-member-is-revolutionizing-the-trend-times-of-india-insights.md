@@ -40,6 +40,9 @@ seo:
 image_alt: >-
   Elegant street-style outfit blending polished luxury pieces with casual
   everyday fashion
+topics:
+  - Fashion
+  - Culture
 ---
 
 High-Low fashion, a style that blends the luxurious with the everyday, is all the rage. One notable trendsetter leading the charge is a member of the British royal family. This captivating blend of high-end and affordable pieces makes for a versatile wardrobe that appeals to fashion enthusiasts globally.

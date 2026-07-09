@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   White in-pool loungers on a sun shelf create a resort-style backyard pool
   setting.
+topics:
+  - Home Improvement
 ---
 ## Affordable Luxury Meets Backyard Design
 

@@ -36,6 +36,8 @@ quality_note: >-
   misses Muvizz.com's entertainment focus, has wrong tone for movie enthusiasts,
   and lacks any entertainment-related keywords or content.
 reading_time: 2
+topics:
+  - Celebrity News
 ---
 ## U.S. Expresses Disappointment Over Taiwan's Military Spending
 

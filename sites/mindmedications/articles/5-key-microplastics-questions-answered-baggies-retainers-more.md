@@ -36,6 +36,8 @@ seo:
 image_alt: >-
   Sunlit glass of water with tiny particles near everyday plastic items and
   reusable alternatives.
+topics:
+  - Wellness
 ---
 
 Microplastics have become a growing concern for environmentalists and health experts alike. These tiny plastic particles, often less than 5 millimeters in size, are emerging as pervasive pollutants in ecosystems across the globe. As our understanding of microplastics deepens, so does the urgency to address their impact on both the environment and human health.

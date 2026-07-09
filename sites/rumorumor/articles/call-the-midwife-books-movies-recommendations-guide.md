@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Vintage books, film reel, and tea on a table as women gather warmly in a
   period community room.
+topics:
+  - TV & Movies
 ---
 ## Finding Your Next Comfort Watch After 'Call the Midwife'
 

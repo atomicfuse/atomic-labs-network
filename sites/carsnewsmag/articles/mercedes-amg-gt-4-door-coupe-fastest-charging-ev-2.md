@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sleek luxury electric coupe charging under glowing red and orange light in a
   futuristic plaza
+topics:
+  - Electric Cars
 ---
 ## Revolutionary Charging Speed Sets New EV Standard
 

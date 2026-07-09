@@ -35,6 +35,10 @@ reading_time: 3
 image_alt: >-
   Serene dawn bedroom with abstract layers suggesting sleep as a foundation for
   lifelong health
+topics:
+  - Health News
+  - Wellness
+  - Research
 ---
 ## From Overlooked Habit to Wellness Foundation
 

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Futuristic gaming scene with glowing portals, VR elements, indie worlds, and
   connected players.
+topics:
+  - Gaming News
 ---
 
 The world of video games has seen a transformative year, marked by groundbreaking innovations, emerging trends, and significant industry shifts. From the rise of new gaming platforms to the evolution of player engagement, the gaming landscape continues to evolve rapidly. As we delve into the year's highlights, it's apparent that the industry is not only expanding but also diversifying in ways that redefine entertainment.

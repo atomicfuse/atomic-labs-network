@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Woman in a bright studio moves between cardio and strength equipment for a
   heart-healthy workout.
+topics:
+  - Fitness & Movement
 ---
 ## The Winning Combination for Heart Health
 

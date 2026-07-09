@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Person practicing a subtle standing stretch in a bright public space while
   commuters pass nearby.
+topics:
+  - Mindfulness
+  - Wellness
 ---
 ## Making Yoga Fit Your Busy Life
 

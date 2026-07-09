@@ -33,6 +33,8 @@ quality_note: >-
   raises factual accuracy concerns.
 reading_time: 3
 image_alt: Dogs resting in shaded summer patio with water and cooling towels nearby
+topics:
+  - Dogs
 ---
 ## High-Risk Breeds Face Summer Dangers
 

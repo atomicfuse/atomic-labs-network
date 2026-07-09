@@ -47,6 +47,10 @@ quality_note: >-
 image_alt: >-
   Indian travelers walk toward a tropical destination panorama with city
   skyline, islands, and blue lagoons.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 As global travel becomes increasingly accessible, Indian travelers are keen to explore destinations that offer visa-free or visa-on-arrival entry. This growing trend is fueled by the desire for hassle-free travel experiences, with many Indians seeking countries that provide easier access. Among these, Malaysia, the Philippines, and Palau are witnessing significant interest due to their favorable entry policies.

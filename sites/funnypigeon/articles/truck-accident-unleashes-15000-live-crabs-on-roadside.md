@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Crabs scatter across a foggy coastal road as silhouetted residents guide them
   toward the sea.
+topics:
+  - Animals
+  - Odd News
 ---
 
 A peculiar incident in Ireland has captured attention after a truck carrying live crabs overturned, leading to an unexpected crustacean spill. This event occurred near the scenic coastal region, where the local authorities swiftly responded to the unusual situation.

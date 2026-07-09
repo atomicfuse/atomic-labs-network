@@ -31,6 +31,8 @@ seo:
 image_alt: >-
   Twelve unmarked records surround a glowing turntable in a cinematic listening
   room.
+topics:
+  - Music
 ---
 
 Music enthusiasts, it's time to explore the finest albums that 2025 has offered so far. With a diverse array of genres and groundbreaking sounds, this year's collection promises something for everyone. From veteran artists reinventing their styles to new talents making waves, these albums have captivated audiences and critics alike.

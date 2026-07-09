@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Modern dining room with a round wood table, upholstered chairs, pendant
   lighting, and warm natural decor.
+topics:
+  - Interior Design
+  - DIY Projects
 ---
 ## The Return of the Formal Dining Room
 

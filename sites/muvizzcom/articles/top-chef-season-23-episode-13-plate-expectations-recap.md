@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Four chefs present unconventional plated dishes in a tense, warmly lit
   competition kitchen.
+topics:
+  - TV Shows
 ---
 ## The Final Four Face Their Toughest Challenge Yet
 

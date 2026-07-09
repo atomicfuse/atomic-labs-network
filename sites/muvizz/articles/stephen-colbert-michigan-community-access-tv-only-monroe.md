@@ -1,9 +1,11 @@
 ---
 title: Stephen Colbert Appears on Michigan Community Access TV After Late Show
-description: Just 24 hours after his final Late Show episode, Stephen Colbert resurfaced on Michigan's 'Only in Monroe' with Jack White, Jeff Daniels, and other stars.
+description: >-
+  Just 24 hours after his final Late Show episode, Stephen Colbert resurfaced on
+  Michigan's 'Only in Monroe' with Jack White, Jeff Daniels, and other stars.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - TV Shows
@@ -13,7 +15,8 @@ tags:
   - Jack White
 slug: stephen-colbert-michigan-community-access-tv-only-monroe
 reviewer_notes: Approved via review queue.
-source_url: https://www.boston.com/culture/entertainment/2026/05/25/stephen-colbert-is-back-on-tv-on-community-access-in-michigan-along-with-rocker-jack-white/
+source_url: >-
+  https://www.boston.com/culture/entertainment/2026/05/25/stephen-colbert-is-back-on-tv-on-community-access-in-michigan-along-with-rocker-jack-white/
 source_item_id: 6a151ac216f23264031d80f1
 generated_by: claude
 featuredImage: /assets/images/stephen-colbert-michigan-community-access-tv-only-monroe.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 30
   keyword_relevance: 90
-quality_note: Well-written and engaging piece that matches the site's tone perfectly, but appears to contain fabricated information about Colbert's career status and this TV appearance, plus falls short of target word count.
+quality_note: >-
+  Well-written and engaging piece that matches the site's tone perfectly, but
+  appears to contain fabricated information about Colbert's career status and
+  this TV appearance, plus falls short of target word count.
 reading_time: 3
-image_alt: A suited host moves from a glossy late-night set into a quirky local TV studio.
+image_alt: >-
+  A suited host moves from a glossy late-night set into a quirky local TV
+  studio.
+topics:
+  - TV Shows
 ---
 ## Colbert's Unexpected Next Move
 

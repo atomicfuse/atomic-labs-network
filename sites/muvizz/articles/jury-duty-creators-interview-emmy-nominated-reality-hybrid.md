@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   A staged jury room and retreat set with hidden cameras and a shadowy
   production control room.
+topics:
+  - TV Shows
 ---
 ## Breaking New Ground in Television Comedy
 

@@ -43,6 +43,10 @@ quality_note: >-
 image_alt: >-
   Colorful roasted tofu bowl with black rice, mango slaw, herbs, and lime on a
   bright kitchen surface.
+topics:
+  - Healthy Recipes
+  - Special Diets
+  - Weight & Wellness
 ---
 
 Elevate your meal prep with this delicious roasted tofu bowl recipe, featuring coconut black rice and mango cole slaw. This plant-based dish offers over 30 grams of plant protein, fiber, and tremendous flavor, perfect for a quick lunch or dinner. Enjoy the crispy roasted tofu paired with creamy coconut black rice for a delightful experience. Whether vegan or looking for healthy meal ideas, this recipe is a must-try.

@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Sunlit outdoor café table with iced drinks and brunch near a relaxed
   waterfront park
+topics:
+  - Coffee News
 ---
 
 Planning a day off in Southport promises an exciting mix of relaxation and adventure. Nestled on the Gold Coast, this vibrant area offers everything from stunning parks to culinary delights. Whether you're looking to unwind or explore, Southport caters to every mood and interest.

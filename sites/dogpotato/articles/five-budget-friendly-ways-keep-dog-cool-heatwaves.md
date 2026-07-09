@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Tan dog rests in the shade beside a paddling pool, frozen bottle, and cooling
   treats on a sunny lawn.
+topics:
+  - Dogs
 ---
 ## Keeping Your Pet Cool Without Breaking the Bank
 

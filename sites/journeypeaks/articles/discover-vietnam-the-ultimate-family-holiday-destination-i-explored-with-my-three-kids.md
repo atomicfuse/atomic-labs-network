@@ -48,6 +48,10 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   under target word count at only 295 words when 800-1200 is expected.
 image_alt: Family on a boat exploring Vietnam’s lush river landscape at golden hour
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Have you considered Vietnam as your next family vacation destination? There is more to this Southeast Asian country than meets the eye. It offers a unique blend of cultural immersion, historical exploration, and natural beauty, making it an ideal getaway for families.

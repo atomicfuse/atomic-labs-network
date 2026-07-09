@@ -33,6 +33,8 @@ reading_time: 3
 image_alt: >-
   Diverse puppies and an adult dog pose together in a warm, clean studio
   setting.
+topics:
+  - Dogs
 ---
 ## The Challenge of Naming Your New Puppy
 

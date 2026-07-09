@@ -45,6 +45,9 @@ quality_note: >-
 image_alt: >-
   Empty microphone on a golden awards stage with audience silhouettes and subtle
   futuristic light projections.
+topics:
+  - Movies
+  - TV Shows
 ---
 
 The Golden Globes 2026 captured the entertainment world's attention with its blend of glamour, surprising wins, and heartfelt speeches. The event, renowned for its influence in the film and television spheres, once again set the stage for a night full of unexpected moments and memorable highlights.

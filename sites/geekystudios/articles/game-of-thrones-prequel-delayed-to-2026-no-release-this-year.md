@@ -47,6 +47,9 @@ quality_note: >-
 image_alt: >-
   Empty medieval hall with an hourglass and candlelight evoking anticipation for
   a delayed fantasy series.
+topics:
+  - Pop Culture
+  - Lifestyle
 ---
 
 Fans of the epic fantasy world of Westeros have something new to look forward to with the upcoming release of a fresh series set in the Game of Thrones universe. The latest spinoff, titled A Knight of the Seven Kingdoms, is expected to captivate audiences with its rich storytelling and intricate characters. This series promises to delve deeper into the lore and history that fans have come to love.

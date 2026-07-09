@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   1970s New England coastal town street with residents gathered in warm winter
   light
+topics:
+  - TV News
 ---
 
 New Bedford and Fairhaven, Massachusetts, recently gained attention as the setting for a highly anticipated TV show adaptation. This region, rich in history and culture, provides an authentic backdrop for the series, which is set to captivate audiences with its narrative and scenic visuals. The production not only highlights local landmarks but also energizes the community with its presence.

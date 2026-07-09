@@ -33,6 +33,9 @@ quality_note: >-
   but falls short on length and relies heavily on vague phrases like 'according
   to reports' which raises accuracy concerns.
 reading_time: 3
+topics:
+  - Destination Guides
+  - Travel Tips
 ---
 ## Prime Location in the Heart of Paris
 

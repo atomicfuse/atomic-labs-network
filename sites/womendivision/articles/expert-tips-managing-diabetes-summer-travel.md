@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Sunlit travel suitcase packed with diabetes care supplies and summer
   essentials
+topics:
+  - Lifestyle
 ---
 ## Essential Diabetes Management for Summer Getaways
 

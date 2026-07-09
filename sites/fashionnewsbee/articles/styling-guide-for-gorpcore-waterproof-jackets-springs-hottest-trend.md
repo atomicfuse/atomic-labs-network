@@ -46,6 +46,9 @@ quality_note: >-
   Well-written article with good tone and keyword relevance, but significantly
   too short at 339 words compared to the 800-1200 word target.
 image_alt: Stylish model in a waterproof spring jacket on a rain-damp urban park path
+topics:
+  - Fashion
+  - Culture
 ---
 
 As the season shifts from winter to spring, the fashion world is buzzing with a new trend: waterproof jackets. Known as 'gorpcore,' these functional, yet stylish jackets are making waves in the world of outdoor gear.

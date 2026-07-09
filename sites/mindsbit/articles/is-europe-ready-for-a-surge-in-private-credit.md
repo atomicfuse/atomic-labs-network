@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Electric vehicle factory with abstract capital flows suggesting investment in
   Europe’s green industry
+topics:
+  - Innovation
+  - Tech
 ---
 
 The UK automotive industry is undergoing a significant transformation as it navigates through a challenging yet promising landscape. With the global shift towards electric vehicles and sustainable practices, manufacturers in the UK are restructuring their strategies to stay competitive and innovative. This transition is not only crucial for the industry's survival but also for maintaining the country's position as a leader in automotive technology.

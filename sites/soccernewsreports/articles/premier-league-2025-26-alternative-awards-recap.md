@@ -36,6 +36,10 @@ reading_time: 3
 image_alt: >-
   Three football figures under stadium lights evoke a dramatic Premier League
   season awards debate.
+topics:
+  - Transfers
+  - Analysis
+  - Leagues
 ---
 ## Season-End Awards Spark Premier League Debate
 

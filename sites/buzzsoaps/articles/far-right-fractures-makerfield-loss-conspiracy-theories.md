@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Chaotic campaign room with cracked mirror and shadowy figures suggesting
   political infighting
+topics:
+  - Hot Takes
 ---
 ## Internal Conflict Erupts in Far-Right Ranks
 

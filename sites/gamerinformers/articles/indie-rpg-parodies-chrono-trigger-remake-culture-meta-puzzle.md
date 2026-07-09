@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Pixel-style adventurers on a fractured bridge surrounded by glitches and
   fading fantasy scenery
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## A Different Kind of Tribute
 

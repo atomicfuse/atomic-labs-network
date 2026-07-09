@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Unbranded comic books open under a spotlight with abstract hero silhouettes
   and cosmic city imagery
+topics:
+  - Pop Culture
 ---
 
 Exploring the immersive world of DC Comics can be an exhilarating journey, especially for those who are new to the universe of superheroes, villains, and intricate storylines. With an expansive library of compelling narratives, DC Comics offers something for every type of reader. To help newcomers find their footing, renowned filmmaker James Gunn has shared his top picks for DC Comics collections that are perfect for those just starting their adventure.

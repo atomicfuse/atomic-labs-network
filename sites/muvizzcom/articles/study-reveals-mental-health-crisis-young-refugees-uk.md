@@ -34,6 +34,8 @@ quality_note: >-
   refugee mental health research instead of movies, TV shows, or celebrity news,
   making it irrelevant despite decent writing quality.
 reading_time: 3
+topics:
+  - Celebrity News
 ---
 ## Groundbreaking Research Exposes Hidden Struggles
 

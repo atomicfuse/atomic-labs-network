@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Scientists monitor a mysterious interstellar signal from a glowing object in
   the night sky.
+topics:
+  - Hot Trends
+  - Internet Mysteries
 ---
 
 In a stunning development that has captured the attention of the global community, a message from the interstellar object known as 3I/ATLAS has reportedly been transmitted to Earth. This event, which was initially whispered about in niche scientific communities, has since exploded across social media platforms, generating a whirlwind of speculation and curiosity.

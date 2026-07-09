@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Football manager faces a pitch-side negotiating table under dramatic stadium
   lights.
+topics:
+  - Latest News
+  - Leagues
 ---
 ## Arsenal Face Record Contract Demand from Arteta
 

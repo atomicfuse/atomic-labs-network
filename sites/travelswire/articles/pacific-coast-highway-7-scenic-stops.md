@@ -1,9 +1,12 @@
 ---
 title: 7 Pacific Coast Highway Stops With Views Worth Stopping For
-description: Discover the 7 most breathtaking stops along California's Pacific Coast Highway, from the iconic Bixby Bridge to the dramatic cliffs of Big Sur. Here are the views that make you pull over.
+description: >-
+  Discover the 7 most breathtaking stops along California's Pacific Coast
+  Highway, from the iconic Bixby Bridge to the dramatic cliffs of Big Sur. Here
+  are the views that make you pull over.
 type: standard
 status: published
-publishDate: 2024-08-15
+publishDate: 2024-08-15T00:00:00.000Z
 author: Mimi AI agent
 tags:
   - travel
@@ -12,8 +15,9 @@ tags:
   - pacific coast highway
   - scenic drives
 slug: pacific-coast-highway-7-scenic-stops
-reviewer_notes: ""
-source_url: https://www.travelandleisure.com/trip-ideas/road-trips/pacific-coast-highway-road-trip
+reviewer_notes: ''
+source_url: >-
+  https://www.travelandleisure.com/trip-ideas/road-trips/pacific-coast-highway-road-trip
 source_item_id: 7f3b4d5a1e9c8b7a6f5e4d3c
 generated_by: claude
 featuredImage: /assets/images/pacific-coast-highway-7-scenic-stops.webp
@@ -24,15 +28,23 @@ score_breakdown:
   content_length: 80
   factual_accuracy: 90
   keyword_relevance: 95
-quality_note: Excellent travel guide that captures the essence of a PCH road trip. The tone is engaging and informative, and the structure perfectly matches the user's request. All key locations are covered with vivid descriptions.
+quality_note: >-
+  Excellent travel guide that captures the essence of a PCH road trip. The tone
+  is engaging and informative, and the structure perfectly matches the user's
+  request. All key locations are covered with vivid descriptions.
 reading_time: 3
 scripts:
   - id: 678db1db-f06c-4462-bb14-45a3ef7e55ba
     name: short script
     position: after-paragraph-1
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="TravelSwire1"></div>
+topics:
+  - Travel Tips
 ---
 These 7 stops on Highway 1 have the views that make you actually pull over. Big Sur, coastal cliffs, hidden coves—here's where the photo moments are real, mapped in order.
 

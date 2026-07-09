@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Empty broadcast news desk under dim studio lights with staff silhouettes in a
   blurred control room.
+topics:
+  - TV News
 ---
 ## Veteran Journalist Launches Public Attack on CBS Leadership
 

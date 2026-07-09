@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted travelers move through a dim global transit hall under moody blue
   and amber light.
+topics:
+  - Deep Dives
 ---
 
 In an era where global events shape our everyday lives, understanding the intricate dynamics of current geopolitical and economic landscapes is crucial. Recent developments in international relations and financial markets have generated significant discussions worldwide. This article explores these topics, shedding light on the underlying factors and potential implications for the future.

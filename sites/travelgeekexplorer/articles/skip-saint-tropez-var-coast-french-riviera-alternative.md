@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Quiet turquoise Var coast cove framed by pines, sailboats, and understated
   Riviera travel details.
+topics:
+  - Destinations
 ---
 ## The French Riviera's Best-Kept Secret
 

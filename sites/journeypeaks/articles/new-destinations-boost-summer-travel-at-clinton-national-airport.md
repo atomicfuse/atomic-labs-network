@@ -48,6 +48,10 @@ quality_note: >-
 image_alt: >-
   Travelers look toward a sunlit runway as a plane prepares to depart for new
   summer routes.
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 In an exciting development for travelers, Clinton National Airport in Little Rock, Arkansas, is expanding its list of destinations this summer. The airport is set to offer new flight routes, providing more options for both business and leisure travelers. This strategic expansion aims to cater to the increasing demand for air travel as more people feel comfortable flying again.

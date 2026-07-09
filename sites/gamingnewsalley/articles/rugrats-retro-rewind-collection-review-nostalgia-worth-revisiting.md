@@ -45,6 +45,8 @@ quality_note: >-
   with better title optimization and the tags don't match the content focus on
   Rugrats rather than Crash Bandicoot.
 image_alt: Retro living room transformed into a playful pixel-art platformer adventure
+topics:
+  - Gaming News
 ---
 
 Rugrats returns to video games with a cheerful throwback platformer that blends Nickelodeon nostalgia with old-school design. Built around Tommy, Chuckie, Phil, and Lil, this retro-inspired adventure turns an ordinary house into a Reptar-sized playground filled with secrets, hazards, and childlike imagination.

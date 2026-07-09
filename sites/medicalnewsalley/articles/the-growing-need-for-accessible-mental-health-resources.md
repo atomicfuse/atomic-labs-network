@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Diverse group in a calm community space suggesting accessible mental health
   support
+topics:
+  - Mental Health
+  - Drugs & Treatments
 ---
 
 Mental health has finally become part of everyday conversations, but access to proper care is still a challenge for many people. While awareness has increased, too many individuals still struggle to find affordable, timely, and effective mental health services. Long wait times, high costs, and limited availability of professionals leave many without the support they need. This growing gap makes it clear that expanding mental health resources is more important than ever.

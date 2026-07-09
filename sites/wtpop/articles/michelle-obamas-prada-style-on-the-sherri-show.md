@@ -39,6 +39,9 @@ quality_note: >-
   falls significantly short of target word count and lacks specific details
   about the actual appearance.
 image_alt: Elegant woman in a modern tailored outfit under warm talk-show studio lighting
+topics:
+  - Celebrities
+  - Fashion
 ---
 
 Michelle Obama, renowned for her sophisticated style and powerful presence, recently graced a popular television program, showcasing her fashion-forward approach. Her choice of attire on this occasion was both contemporary and elegant, drawing significant attention and admiration from fashion enthusiasts and critics alike.

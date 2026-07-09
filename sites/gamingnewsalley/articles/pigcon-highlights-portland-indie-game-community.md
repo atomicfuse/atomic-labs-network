@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Indie game creators and players gather around glowing DIY arcade stations in
   purple convention light.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## Portland's Indie Scene Takes Center Stage
 

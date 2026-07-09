@@ -41,6 +41,8 @@ quality_note: >-
   This is essentially just a title and brief introduction with no actual review
   content - far too short to be a meaningful article.
 image_alt: Gamer plays a realistic golf simulation on a glowing screen in a dark room.
+topics:
+  - Reviews
 ---
 
 *PGA Tour 2K25 reviewed by Andrew McMahon on PlayStation 5, also available on Xbox Series X|S, and PC.*

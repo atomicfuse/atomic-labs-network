@@ -37,6 +37,8 @@ reading_time: 3
 image_alt: >-
   Chic woman in an ivory slip dress and cardigan stepping onto a sunny city
   street
+topics:
+  - Fashion
 ---
 ## The Celebrity-Approved Summer Style Formula
 

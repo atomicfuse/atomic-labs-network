@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted space adventurers overlook a twilight desert under planets and
   starships
+topics:
+  - TV News
 ---
 
 The Star Wars universe has expanded far beyond its original film series, captivating audiences with a variety of television shows that explore new stories and characters. With each series offering a unique perspective, fans have been treated to a rich tapestry of storytelling that deepens their connection to this beloved galaxy.

@@ -40,6 +40,8 @@ reading_time: 3
 image_alt: >-
   A candlelit colonial hall overtaken by eerie mushrooms and fog, with a
   shadowed figure standing inside.
+topics:
+  - TV & Movies
 ---
 ## The Flashback That Changed Everything
 

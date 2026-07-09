@@ -1,26 +1,36 @@
 ---
-title: "Vet Reveals 8 Dog Breeds Most at Risk in Summer"
-description: "Hot weather can quickly put dogs at risk, especially flat-faced, thick-coated, elderly, young, or unwell pets. Learn the warning signs of overheating and how simple changes to walks, shade, water, and cooling can prevent emergencies."
-type: "standard"
-status: "published"
-publishDate: "2026-05-14T08:50:04+00:00"
-author: "Taylor Winters"
+title: Vet Reveals 8 Dog Breeds Most at Risk in Summer
+description: >-
+  Hot weather can quickly put dogs at risk, especially flat-faced, thick-coated,
+  elderly, young, or unwell pets. Learn the warning signs of overheating and how
+  simple changes to walks, shade, water, and cooling can prevent emergencies.
+type: standard
+status: published
+publishDate: '2026-05-14T08:50:04+00:00'
+author: Taylor Winters
 tags:
-  - "Dogs"
-  - "Good To Know"
-  - "Veterinary"
-slug: "vet-reveals-8-dog-breeds-most-at-risk-in-summer"
+  - Dogs
+  - Good To Know
+  - Veterinary
+slug: vet-reveals-8-dog-breeds-most-at-risk-in-summer
 reading_time: 7
-source_url: "https://dogpotato.com/vet-reveals-8-dog-breeds-most-at-risk-in-summer/"
-imported_from: "wordpress"
+source_url: 'https://dogpotato.com/vet-reveals-8-dog-breeds-most-at-risk-in-summer/'
+imported_from: wordpress
 wp_original_id: 40276
-featuredImage: "/assets/images/vet-reveals-8-dog-breeds-most-at-risk-in-summer.webp"
+featuredImage: /assets/images/vet-reveals-8-dog-breeds-most-at-risk-in-summer.webp
 seo:
-  canonical: "https://dogpotato.com/vet-reveals-8-dog-breeds-most-at-risk-in-summer/"
-  og_title: "Vet Reveals 8 Dog Breeds Most at Risk in Summer - Dog Potato"
-  og_description: "Hot weather can quickly put dogs at risk, especially flat-faced, thick-coated, elderly, young, or unwell pets. Learn the warning signs of overheating and how simple changes to walks, shade, water, and cooling can prevent emergencies."
-  og_image: "http://dogpotato.com/wp-content/uploads/2026/05/make_file-3.jpeg"
-  twitter_card: "summary_large_image"
+  canonical: 'https://dogpotato.com/vet-reveals-8-dog-breeds-most-at-risk-in-summer/'
+  og_title: Vet Reveals 8 Dog Breeds Most at Risk in Summer - Dog Potato
+  og_description: >-
+    Hot weather can quickly put dogs at risk, especially flat-faced,
+    thick-coated, elderly, young, or unwell pets. Learn the warning signs of
+    overheating and how simple changes to walks, shade, water, and cooling can
+    prevent emergencies.
+  og_image: 'http://dogpotato.com/wp-content/uploads/2026/05/make_file-3.jpeg'
+  twitter_card: summary_large_image
+topics:
+  - Dogs
+  - Good To Know
 ---
 
 Warm weather can turn a simple walk into a serious health risk for dogs, especially for breeds that struggle to cool down efficiently. When temperatures rise, owners need to understand which pets are most vulnerable, how overheating develops, and what quick action can prevent a veterinary emergency.

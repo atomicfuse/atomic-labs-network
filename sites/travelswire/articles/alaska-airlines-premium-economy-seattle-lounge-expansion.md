@@ -35,6 +35,8 @@ quality_note: >-
   but lacks the friendly travel lover tone and falls short of target word count
   while containing some questionable claims about timeline specifics.
 reading_time: 3
+topics:
+  - Travel Tips
 ---
 ## Alaska Airlines Transforms into Global Premium Carrier
 

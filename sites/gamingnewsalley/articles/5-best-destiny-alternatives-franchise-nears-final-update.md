@@ -33,6 +33,9 @@ quality_note: >-
   target audience.
 reading_time: 3
 image_alt: Three futuristic co-op fighters face glowing portals above a neon sci-fi city.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## The End of an Era for Destiny Players
 

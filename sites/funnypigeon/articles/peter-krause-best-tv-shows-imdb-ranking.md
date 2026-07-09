@@ -1,9 +1,11 @@
 ---
-title: "Peter Krause's TV Legacy: His 5 Best Shows According to IMDb"
-description: Following his recent exit from 9-1-1, Peter Krause's impressive TV career spans comedy, drama, and everything in between. Here are his top-rated shows.
+title: 'Peter Krause''s TV Legacy: His 5 Best Shows According to IMDb'
+description: >-
+  Following his recent exit from 9-1-1, Peter Krause's impressive TV career
+  spans comedy, drama, and everything in between. Here are his top-rated shows.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Odd News
@@ -13,7 +15,7 @@ tags:
   - rankings
 slug: peter-krause-best-tv-shows-imdb-ranking
 reviewer_notes: Approved via review queue.
-source_url: https://www.looper.com/2177880/peter-krause-best-tv-shows-according-imdb/
+source_url: 'https://www.looper.com/2177880/peter-krause-best-tv-shows-according-imdb/'
 source_item_id: 6a151ac216f23264031d80f3
 generated_by: claude
 featuredImage: /assets/images/peter-krause-best-tv-shows-imdb-ranking.webp
@@ -24,9 +26,15 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 90
   keyword_relevance: 30
-quality_note: Well-written entertainment piece with good tone but significantly under target word count and weak keyword alignment with site's focus areas.
+quality_note: >-
+  Well-written entertainment piece with good tone but significantly under target
+  word count and weak keyword alignment with site's focus areas.
 reading_time: 3
-image_alt: A silhouetted TV actor stands before five glowing doorways suggesting different genres and eras.
+image_alt: >-
+  A silhouetted TV actor stands before five glowing doorways suggesting
+  different genres and eras.
+topics:
+  - Odd News
 ---
 ## A Television Career Spanning Decades
 

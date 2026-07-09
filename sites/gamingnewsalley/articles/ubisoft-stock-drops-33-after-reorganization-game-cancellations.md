@@ -46,6 +46,8 @@ quality_note: >-
   but falls short on length and could use more engaging tone for gaming
   enthusiasts.
 image_alt: A game controller beside a falling red chart in a dark modern studio workspace
+topics:
+  - Gaming News
 ---
 
 The video game industry faced a significant jolt as Ubisoft, renowned for its popular titles, announced the cancellation of six upcoming games. This decision, paired with the company's revised financial forecasts, has led to a sharp decline in Ubisoft's stock value. Investors reacted swiftly to these changes, reflecting concerns about the company's future trajectory and its ability to deliver on its ambitious goals.

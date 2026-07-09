@@ -28,6 +28,9 @@ seo:
   og_image: 'https://popnsnap.com/wp-content/uploads/2026/05/make_file.jpeg'
   twitter_card: summary_large_image
 image_alt: Rock guitar and drumsticks backstage under emerald and pink theater lights.
+topics:
+  - Celebrities
+  - Music
 ---
 
 Dave Grohl has turned a potential Foo Fighters album-title mix-up into a playful pop-culture moment. The rock frontman recently joked that the band had considered using the name "Wicked: For Good," only to see the phrase claimed by one of Hollywood's biggest movie musicals. The remark quickly caught attention because it linked two very different entertainment worlds: Foo Fighters' stadium-sized rock legacy and the blockbuster "Wicked" film franchise.

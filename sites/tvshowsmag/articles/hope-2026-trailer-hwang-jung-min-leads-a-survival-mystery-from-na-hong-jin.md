@@ -52,6 +52,8 @@ quality_note: >-
 image_alt: >-
   Tense harbor town at night as residents face a mysterious discovery in the
   rain
+topics:
+  - TV News
 ---
 
 The official trailer for _Hope_ offers a first look at one of the notable upcoming movie releases scheduled for Fall 2026 in the United States. Led by Hwang Jung-min and directed by Na Hong-jin, the film centers on a mysterious discovery made on the outskirts of a remote harbor town, where local residents are suddenly pushed into a fight for survival against something they have never encountered before.

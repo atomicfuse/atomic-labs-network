@@ -35,6 +35,9 @@ reading_time: 3
 image_alt: >-
   Indie game creators and players gather around glowing monitors at a moody
   Portland showcase.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## Portland's Indie Game Scene Takes Center Stage
 

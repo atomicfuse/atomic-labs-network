@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   A traveler overlooks a quiet historic town, river, and distant mountains in
   warm morning light.
+topics:
+  - Destinations
 ---
 
 Escape the crowds and explore some of America's most overlooked travel destinations. While popular spots like New York City or Los Angeles attract millions each year, there are hidden gems across the United States that offer just as much beauty and excitement without the overwhelming tourist traffic. From serene beaches to vibrant cities, these destinations provide unique experiences for every type of traveler.

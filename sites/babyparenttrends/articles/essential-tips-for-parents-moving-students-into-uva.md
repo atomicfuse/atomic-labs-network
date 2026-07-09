@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Parent and student share a hopeful move-in moment on a classic brick
   university campus.
+topics:
+  - Parenting
 ---
 
 Moving to college is a significant milestone for students and their families. At the University of Virginia (UVA), the experience is both thrilling and transformative. Preparing for this new chapter involves careful planning and packing, ensuring students have everything they need for a successful stay on campus.

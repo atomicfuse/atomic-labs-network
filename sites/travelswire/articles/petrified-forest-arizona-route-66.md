@@ -1,6 +1,9 @@
 ---
-title: "The Only National Park Route 66 Runs Through: A Petrified Forest Guide"
-description: Petrified Forest National Park is the only national park Route 66 cuts through — and the abandoned original roadbed is still visible in the desert. Here's how to do it.
+title: 'The Only National Park Route 66 Runs Through: A Petrified Forest Guide'
+description: >-
+  Petrified Forest National Park is the only national park Route 66 cuts through
+  — and the abandoned original roadbed is still visible in the desert. Here's
+  how to do it.
 type: standard
 status: published
 publishDate: 2026-06-01T00:00:00.000Z
@@ -15,17 +18,26 @@ slug: petrified-forest-arizona-route-66
 reading_time: 6
 featuredImage: /assets/images/petrified-forest-arizona-route-66.webp
 seo:
-  og_title: "Petrified Forest National Park: The Only National Park on Route 66"
-  og_description: Petrified wood, the Painted Desert, and the ghost of the original Route 66 roadbed — Arizona's most underrated stop.
+  og_title: 'Petrified Forest National Park: The Only National Park on Route 66'
+  og_description: >-
+    Petrified wood, the Painted Desert, and the ghost of the original Route 66
+    roadbed — Arizona's most underrated stop.
   twitter_card: summary_large_image
-image_alt: Abandoned desert road passing petrified wood and colorful Painted Desert badlands at sunset
+image_alt: >-
+  Abandoned desert road passing petrified wood and colorful Painted Desert
+  badlands at sunset
 scripts:
   - id: 56265e89-7782-44c7-bff7-912fa4ecf212
     name: travelswire2
     position: after-paragraph-1
-    content: |-
-      <script src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js" async></script>
+    content: >-
+      <script
+      src="https://ob-mock-ad-tester-9116.atomic.cloudgrid.io/feed-widget.js"
+      async></script>
+
       <div data-cg-feed="travelswire2"></div>
+topics:
+  - Destination Guides
 ---
 
 There's only one national park that Route 66 runs directly through, and most travelers blow right past it.

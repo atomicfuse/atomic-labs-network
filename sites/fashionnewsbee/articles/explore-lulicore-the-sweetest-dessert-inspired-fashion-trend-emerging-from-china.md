@@ -39,6 +39,9 @@ seo:
 image_alt: >-
   Model in pastel frilled fashion poses in a sleek studio with soft
   dessert-inspired colors.
+topics:
+  - Fashion
+  - Culture
 ---
 
 China's fashion scene is shining the spotlight on a fresh, innovative trend known as Lulicore. Inspired by the allure of desserts, this style movement is disrupting the fashion industry with its unique blend of pastel shades, frilly silhouettes, and delicate textures that mimic the look and feel of delectable treats.

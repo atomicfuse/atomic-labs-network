@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   A lone figure exits a shadowy bunker into a lush dawn landscape while others
   watch from inside.
+topics:
+  - Watch
 ---
 
 The anticipation and excitement have been building, and finally, the second season of the much-acclaimed series "Paradise" has graced the screens. With its premiere episode, the show has managed to captivate audiences once again, offering a blend of intrigue, drama, and character development that promises an engaging season ahead.

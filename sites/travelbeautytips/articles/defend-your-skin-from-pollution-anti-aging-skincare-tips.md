@@ -46,6 +46,9 @@ quality_note: >-
 image_alt: >-
   Person with glowing skin in a bright urban apartment overlooking a hazy city
   skyline
+topics:
+  - Travel Tips
+  - Beauty Tips
 ---
 
 In bustling urban environments, the battle against pollution is a daily struggle, and your skin is often the first casualty. The harsh pollutants and environmental aggressors can lead to a myriad of skin issues such as dullness, dryness, premature aging, inflammation, and pigmentation. Fortunately, with the right skincare strategies, you can shield your skin from these harmful effects and maintain a healthy, radiant complexion.

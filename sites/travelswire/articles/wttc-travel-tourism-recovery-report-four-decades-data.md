@@ -35,6 +35,8 @@ quality_note: >-
   travel enthusiasts, and lacks engaging travel-focused content despite covering
   relevant industry topics.
 reading_time: 2
+topics:
+  - Travel Tips
 ---
 ## Major New Research on Travel Industry Resilience
 

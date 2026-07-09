@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Silhouetted rebels watch an unfinished battle station loom above a misty
   forest moon.
+topics:
+  - TV News
 ---
 
 The Star Wars universe continues to expand, enchanting fans with its rich storytelling and iconic characters. The TV series Andor, a prequel to Rogue One: A Star Wars Story, has captivated audiences with its intricate plotlines and character development. As anticipation builds for the series' sequel, fans are eager to learn more about what lies ahead in this galaxy far, far away.

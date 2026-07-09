@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Chinese pangolin emerging through misty forest under soft dawn light in
   southern China.
+topics:
+  - Good Vibes
 ---
 
 Chinese pangolins are showing encouraging signs of recovery in southern China, offering rare optimism for one of the world's most trafficked mammals. New field evidence suggests wild populations are increasing in key habitats for the first time this century, supported by stronger protection, improved monitoring, and growing public awareness.

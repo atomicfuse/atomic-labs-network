@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Woman doing a controlled Pilates lunge on a mat in a bright living room with
   bands and sliders nearby.
+topics:
+  - Fitness
 ---
 ## The Reformer Pilates Boom Meets Budget Reality
 

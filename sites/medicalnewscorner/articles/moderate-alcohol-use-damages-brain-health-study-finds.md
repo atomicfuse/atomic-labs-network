@@ -40,6 +40,9 @@ quality_note: >-
   Well-written, informative article with good length and tone, but could benefit
   from stronger SEO optimization in title and meta description length.
 image_alt: Translucent brain shape near a blurred wine glass in soft editorial lighting
+topics:
+  - Research
+  - Drugs
 ---
 
 A growing body of research is challenging the idea that occasional or moderate drinking is harmless for the brain. Large brain-imaging studies suggest that alcohol may affect brain structure even at levels many people consider light, including a drink here and there. While the risks rise with heavier drinking, the latest evidence points to a clear message: when it comes to brain health, less alcohol is likely better.

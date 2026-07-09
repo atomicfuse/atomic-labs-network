@@ -30,6 +30,8 @@ seo:
 image_alt: >-
   Radiant beauty editorial with dewy skin, glossy lips, and a soft pop of bold
   eye color
+topics:
+  - Beauty
 ---
 
 In the world of beauty, trends constantly evolve, bringing new ideas and techniques to enhance our natural features. As we look for ways to refresh our makeup routines, embracing the latest trends can offer both a rejuvenating experience and a boost in confidence. This year, makeup enthusiasts are turning their attention to trends that promise a radiant, glowing appearance, balancing both bold and subtle elements to suit every occasion.

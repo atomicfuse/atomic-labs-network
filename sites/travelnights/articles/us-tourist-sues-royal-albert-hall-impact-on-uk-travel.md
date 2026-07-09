@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Historic London venue at dusk with travelers, wet pavement, and a subtle
   safety cone in the foreground.
+topics:
+  - News
 ---
 
 In a recent legal development, a US tourist has initiated a lawsuit against the renowned Royal Albert Hall in London due to an accident that occurred during her visit. This incident has raised questions about safety measures at major UK tourist destinations and their implications for international travelers.

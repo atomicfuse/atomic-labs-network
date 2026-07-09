@@ -1,9 +1,11 @@
 ---
-title: "Below Deck Down Under: Daisy and Ben's Ego Battle Threatens Crew"
-description: Episode 17 of Below Deck Down Under sees escalating tensions between Daisy and Ben over service standards and Ellie's promotion prospects.
+title: 'Below Deck Down Under: Daisy and Ben''s Ego Battle Threatens Crew'
+description: >-
+  Episode 17 of Below Deck Down Under sees escalating tensions between Daisy and
+  Ben over service standards and Ellie's promotion prospects.
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Julia Parker
 tags:
   - TV Shows
@@ -13,7 +15,8 @@ tags:
   - yacht-crew
 slug: below-deck-down-under-daisy-ben-ego-battle-threatens-crew
 reviewer_notes: Approved via review queue.
-source_url: https://www.vulture.com/article/below-deck-down-under-recap-season-4-episode-17-bravo.html
+source_url: >-
+  https://www.vulture.com/article/below-deck-down-under-recap-season-4-episode-17-bravo.html
 source_item_id: 6a152fda16f23264031d81fc
 generated_by: claude
 featuredImage: /assets/images/below-deck-down-under-daisy-ben-ego-battle-threatens-crew.webp
@@ -24,9 +27,17 @@ score_breakdown:
   content_length: 40
   factual_accuracy: 80
   keyword_relevance: 90
-quality_note: Strong tone and topic relevance but significantly under target word count at 501 words, which severely impacts overall quality despite good entertainment coverage.
+quality_note: >-
+  Strong tone and topic relevance but significantly under target word count at
+  501 words, which severely impacts overall quality despite good entertainment
+  coverage.
 reading_time: 3
-image_alt: Tense yacht crew standoff at dusk with a junior crew member caught between competing leaders.
+image_alt: >-
+  Tense yacht crew standoff at dusk with a junior crew member caught between
+  competing leaders.
+topics:
+  - TV Shows
+  - Trailers
 ---
 ## Power Struggle Reaches Breaking Point
 

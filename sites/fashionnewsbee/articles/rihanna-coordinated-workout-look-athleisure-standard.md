@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Stylish woman in coordinated burgundy athleisure walks through a moody city
   street at night.
+topics:
+  - Fashion
 ---
 ## The Art of Intentional Casual Dressing
 

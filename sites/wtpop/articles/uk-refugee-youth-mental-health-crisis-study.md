@@ -35,6 +35,8 @@ quality_note: >-
   site, focusing on refugee mental health research instead of celebrities,
   fashion, music, or TV/movies.
 reading_time: 3
+topics:
+  - TV & Movies
 ---
 ## Groundbreaking Research Exposes Hidden Struggles
 

@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Empty youth psychiatric ward room with papers casting barrier-like shadows
   across the floor
+topics:
+  - Mental Health
 ---
 ## Stricter Legislation Shows No Impact on Youth Psychiatric Care
 

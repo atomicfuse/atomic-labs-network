@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Whimsical theater stage with puppet-like silhouettes and a pop performer under
   warm spotlights
+topics:
+  - TV News
 ---
 
 The beloved world of the Muppets is making a grand return with a special event featuring the talented Sabrina Carpenter. Fans of the iconic show are in for a treat as this new installment promises to deliver the humor and charm that has captivated audiences for decades. With a blend of nostalgia and fresh entertainment, this event is set to be a must-watch for both long-time followers and new viewers alike.

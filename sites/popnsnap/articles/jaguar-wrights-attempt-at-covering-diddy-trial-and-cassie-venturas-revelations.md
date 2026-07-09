@@ -35,6 +35,10 @@ seo:
 image_alt: >-
   Empty press bench and microphones in a moody courthouse corridor suggesting
   celebrity trial coverage.
+topics:
+  - Celebrities
+  - Influencers
+  - Music
 ---
 
 In the world of celebrity trials and media coverage, certain events grab the spotlight for their intriguing narratives and high-profile individuals. Recently, Jaguar Wright found herself at the center of attention, attempting to report on the Diddy trial. However, her efforts were met with challenges that have sparked discussions across social media platforms.

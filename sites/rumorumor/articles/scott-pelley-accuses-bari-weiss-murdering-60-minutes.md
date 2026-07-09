@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Tense newsroom scene with a veteran broadcaster and a blurred executive
   silhouette behind glass.
+topics:
+  - TV & Movies
 ---
 ## Veteran Correspondent Speaks Out Against New Leadership
 

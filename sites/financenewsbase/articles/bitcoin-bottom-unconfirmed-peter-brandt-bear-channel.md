@@ -32,6 +32,8 @@ quality_note: >-
   under target word count and contains some vague sourcing that raises factual
   concerns.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 ## Veteran Trader Questions Bitcoin Recovery
 

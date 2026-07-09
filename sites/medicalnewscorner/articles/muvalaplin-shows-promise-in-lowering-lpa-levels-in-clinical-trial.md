@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Unmarked pill and blood sample on a clean lab bench suggesting cardiovascular
   research progress
+topics:
+  - Research
 ---
 
 A clinical trial testing muvalaplin, a novel oral medication, was able to safely and effectively lower high levels of lipoprotein (a), according to late-breaking science presented at the American Heart Association's Scientific Sessions 2024. The study is simultaneously published in *JAMA, the Journal of the American Medical Association*.

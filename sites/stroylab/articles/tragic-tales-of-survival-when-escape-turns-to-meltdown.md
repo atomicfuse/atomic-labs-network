@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   A dark escape corridor with scattered survival gear and a distant glowing
   exit.
+topics:
+  - Dark History
+  - Deep Dives
+  - Mysteries
 ---
 
 In the realm of survival stories, few narratives grip the audience more than those involving sudden disaster and the human instinct to escape. The phrase "they tried to jump, but they melted" evokes a powerful image of desperation and unforeseen consequences. This article delves into such scenarios, where choices made in moments of panic lead to unexpected and often tragic outcomes.

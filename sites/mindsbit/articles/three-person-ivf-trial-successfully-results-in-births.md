@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Three colored light strands converge into a glowing cell in a softly lit
   fertility lab.
+topics:
+  - Innovation
+  - Tech
 ---
 
 Babies born through innovative IVF techniques that involve three genetic parents are reshaping the future of reproductive medicine. This groundbreaking approach, which combines DNA from three individuals, is designed to prevent the transmission of certain genetic disorders. The procedure is a promising advancement for families affected by mitochondrial diseases, offering hope for healthier futures.

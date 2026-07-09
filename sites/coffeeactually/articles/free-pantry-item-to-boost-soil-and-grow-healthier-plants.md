@@ -44,6 +44,9 @@ quality_note: >-
 image_alt: >-
   Coffee grounds mixed into garden soil around healthy green seedlings in warm
   morning light
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 Coffee grounds are more than just the byproduct of your morning brew. They offer a sustainable and beneficial way to enhance your garden's health. Rich in nutrients, these grounds can significantly contribute to plant growth and soil improvement when used properly.

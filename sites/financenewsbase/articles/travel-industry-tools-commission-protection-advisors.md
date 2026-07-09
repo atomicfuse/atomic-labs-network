@@ -41,6 +41,8 @@ reading_time: 3
 image_alt: >-
   Travel advisor reviews digital booking tools with subtle protection graphics
   at a professional conference.
+topics:
+  - Economic Trends
 ---
 ## New Industry Initiatives Address Advisor Revenue Challenges
 

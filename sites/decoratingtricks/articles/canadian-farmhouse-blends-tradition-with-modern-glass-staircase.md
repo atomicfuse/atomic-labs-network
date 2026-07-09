@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Restored farmhouse interior with timber beams, bright windows, and a modern
   glass staircase
+topics:
+  - Design Tips
+  - Home Improvement
 ---
 
 In the picturesque landscape of Canada, a unique farmhouse stands as a testament to the harmonious blend of historical charm and modern innovation. This architectural marvel seamlessly integrates traditional design with contemporary elements, creating a space that is both timeless and forward-thinking.

@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Fans with travel bags head toward a stadium at golden hour for a women’s rugby
   match.
+topics:
+  - Advice
 ---
 
 The Women's Rugby World Cup 2025 is set to be a landmark event, promising thrilling matches and an opportunity to showcase women's rugby on a global stage. Fans from around the world are eagerly anticipating this event, with Sunderland playing a crucial role as one of the host cities. This guide provides essential travel advice for those planning to attend, ensuring a seamless and enjoyable experience.

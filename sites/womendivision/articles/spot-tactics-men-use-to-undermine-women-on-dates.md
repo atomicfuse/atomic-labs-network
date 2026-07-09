@@ -40,6 +40,8 @@ quality_note: >-
   significantly short of the target word count at only 381 words, which severely
   impacts its overall quality score.
 image_alt: Confident woman at a café table noticing tension during a date
+topics:
+  - Advice
 ---
 
 In the world of dating, many individuals have encountered various tactics that leave them questioning the intentions of their partners. Understanding these behaviors is crucial for anyone navigating the dating scene.

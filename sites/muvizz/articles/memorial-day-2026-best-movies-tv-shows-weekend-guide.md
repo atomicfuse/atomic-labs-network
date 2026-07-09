@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Cinematic weekend watch setup with glowing screens, popcorn, tickets, and
   summer-colored light
+topics:
+  - Movies
+  - TV Shows
 ---
 ## Your Ultimate Memorial Day Weekend Entertainment Guide
 

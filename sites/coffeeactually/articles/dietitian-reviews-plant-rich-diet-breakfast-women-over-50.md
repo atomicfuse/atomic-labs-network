@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Sunlit plant-rich breakfast with protein foods, seeds, greens, and fitness
   cues on a kitchen counter.
+topics:
+  - Coffee News
 ---
 ## Expert Analysis Reveals Breakfast Gap in Otherwise Healthy Diet
 

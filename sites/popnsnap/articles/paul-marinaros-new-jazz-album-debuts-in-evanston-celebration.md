@@ -37,6 +37,8 @@ seo:
 image_alt: >-
   Warm jazz club stage with a microphone, audience silhouettes, and moody blue
   and amber lighting.
+topics:
+  - Music
 ---
 
 Jazz has an undeniable charm that continues to captivate audiences worldwide. Among the talented musicians contributing to its rich tapestry is Paul Marinaro, a distinguished jazz vocalist whose new album is making waves. Known for his emotive voice and engaging performances, Marinaro's latest work is a testament to his dedication to the craft.

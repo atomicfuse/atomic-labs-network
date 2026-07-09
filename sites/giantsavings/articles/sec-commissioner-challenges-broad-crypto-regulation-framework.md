@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Government facade with abstract blockchain nodes divided by a translucent
   regulatory boundary
+topics:
+  - Smart Shopping
 ---
 ## SEC Commissioner Advocates for Nuanced Crypto Approach
 

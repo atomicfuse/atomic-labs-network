@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Elegant Italian cinema atrium with festival guests, glowing screens, and warm
   cinematic lighting
+topics:
+  - TV News
 ---
 
 The entertainment industry is set to welcome a groundbreaking event with the launch of the first Italian Global Series Festival, a celebration of international television series. Scheduled to debut in Italy, this festival promises to be a significant convergence point for creators, audiences, and industry leaders from around the world.

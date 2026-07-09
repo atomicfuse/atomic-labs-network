@@ -51,6 +51,8 @@ quality_note: >-
 image_alt: >-
   Keto-friendly foods on a sunlit table with a soft abstract glow suggesting
   mental wellness.
+topics:
+  - Research
 ---
 
 In recent years, the ketogenic diet has gained popularity not only for weight loss but also for its potential mental health benefits. Emerging research suggests that this high-fat, low-carbohydrate dietary regimen might play a role in alleviating symptoms of depression.

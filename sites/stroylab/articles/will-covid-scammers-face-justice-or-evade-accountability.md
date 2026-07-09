@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Courthouse corridor with scales, a medical mask, documents, and a blurred
   figure walking away
+topics:
+  - Deep Dives
 ---
 
 The ongoing global discourse around pandemic management continues to evolve, with new perspectives and insights emerging regularly. As we navigate through the aftermath of unprecedented public health measures, questions arise regarding the effectiveness and implications of these strategies. This discourse is crucial in understanding the broader impacts on society and the economy.

@@ -1,9 +1,12 @@
 ---
-title: "'The Mandalorian and Grogu' Sparks Debate About Theater-Worthy Films"
-description: Critics argue the new Star Wars film feels more like an extended Disney+ episode than a must-see theatrical experience, raising questions about franchise...
+title: '''The Mandalorian and Grogu'' Sparks Debate About Theater-Worthy Films'
+description: >-
+  Critics argue the new Star Wars film feels more like an extended Disney+
+  episode than a must-see theatrical experience, raising questions about
+  franchise...
 type: standard
 status: published
-publishDate: 2026-05-27
+publishDate: 2026-05-27T00:00:00.000Z
 author: Andrew Gray
 tags:
   - Viral
@@ -13,7 +16,7 @@ tags:
   - Streaming
 slug: mandalorian-grogu-theater-worthy-debate
 reviewer_notes: Approved via review queue.
-source_url: https://ericdeggans.substack.com/p/is-the-mandalorian-and-grogu-a-missed
+source_url: 'https://ericdeggans.substack.com/p/is-the-mandalorian-and-grogu-a-missed'
 source_item_id: 6a151ac216f23264031d80f2
 generated_by: claude
 featuredImage: /assets/images/mandalorian-grogu-theater-worthy-debate.webp
@@ -24,9 +27,16 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 40
   keyword_relevance: 85
-quality_note: The article covers viral entertainment topics well but appears to contain fabricated details about a film that doesn't exist, significantly undermining its credibility.
+quality_note: >-
+  The article covers viral entertainment topics well but appears to contain
+  fabricated details about a film that doesn't exist, significantly undermining
+  its credibility.
 reading_time: 3
-image_alt: Lone viewer in a dim cinema facing an abstract sci-fi spectacle on a glowing screen
+image_alt: >-
+  Lone viewer in a dim cinema facing an abstract sci-fi spectacle on a glowing
+  screen
+topics:
+  - Viral
 ---
 ## A Star Wars Film That Questions Its Own Existence
 

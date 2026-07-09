@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Robotic builders shape lunar dust into habitat structures on the moon with
   Earth visible beyond.
+topics:
+  - Space & The Unknown
 ---
 ## The $1 Million Per Kilogram Problem
 

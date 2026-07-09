@@ -1,9 +1,12 @@
 ---
-title: "The Food Lover’s Expert Guide to Cork, Ireland: A Culinary Adventure"
-description: Discover Cork, Ireland's culinary haven with Michelin-starred dining, farm-to-table experiences, and vibrant food markets. Your foodie adventure awaits!
+title: 'The Food Lover’s Expert Guide to Cork, Ireland: A Culinary Adventure'
+description: >-
+  Discover Cork, Ireland's culinary haven with Michelin-starred dining,
+  farm-to-table experiences, and vibrant food markets. Your foodie adventure
+  awaits!
 type: standard
 status: published
-publishDate: 2026-06-25
+publishDate: 2026-06-25T00:00:00.000Z
 author: Chloe Murphy
 tags:
   - Destination Guides
@@ -12,7 +15,8 @@ tags:
   - Michelin-starred restaurants
 slug: food-lovers-guide-cork-ireland
 reviewer_notes: Approved via review queue.
-source_url: https://www.forbes.com/sites/katiebell/2026/06/08/the-food-lovers-expert-guide-to-cork-ireland/
+source_url: >-
+  https://www.forbes.com/sites/katiebell/2026/06/08/the-food-lovers-expert-guide-to-cork-ireland/
 source_item_id: 6a2773a4eb470600f97052b5
 generated_by: openai
 featuredImage: /assets/images/food-lovers-guide-cork-ireland.webp
@@ -23,9 +27,19 @@ score_breakdown:
   content_length: 78
   factual_accuracy: 62
   keyword_relevance: 80
-quality_note: The article covers Cork's food scene well with good structure and relevant tags, but is slightly short at 677 words, contains potentially inaccurate Michelin star claims (Bastion's star status and Elbow Lane's description need verification), and lacks defined SEO keyword integration due to unspecified site keywords.
+quality_note: >-
+  The article covers Cork's food scene well with good structure and relevant
+  tags, but is slightly short at 677 words, contains potentially inaccurate
+  Michelin star claims (Bastion's star status and Elbow Lane's description need
+  verification), and lacks defined SEO keyword integration due to unspecified
+  site keywords.
 reading_time: 3
-image_alt: Refined Irish culinary still life with a sculptural dish, artisan produce, herbs, and oysters on a stone table.
+image_alt: >-
+  Refined Irish culinary still life with a sculptural dish, artisan produce,
+  herbs, and oysters on a stone table.
+topics:
+  - Destination Guides
+  - food
 ---
 TL;DR: Cork, Ireland is a culinary treasure trove featuring Michelin-starred restaurants, artisan markets, and cooking schools. Food lovers should explore this blossoming food scene before it becomes too popular!
 

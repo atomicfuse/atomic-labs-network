@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Strategic boardroom scene with gaming objects being narrowed into a focused
   central cluster
+topics:
+  - Gaming News
 ---
 
 Square Enix, a prominent name in the gaming industry, has recently announced a strategic shift that involves significant changes to its Western operations. Known for producing blockbuster franchises, the company is now looking to streamline its focus and operations to better align with its core business objectives. This move includes substantial cutbacks in its Western development studios, marking a pivotal moment in its corporate strategy.

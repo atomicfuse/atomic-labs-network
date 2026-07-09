@@ -33,6 +33,9 @@ quality_note: >-
   short on word count and could use more specific SEO optimization for travel
   audiences.
 reading_time: 3
+topics:
+  - Destination Guides
+  - Local Culture
 ---
 ## The Great American Exodus
 

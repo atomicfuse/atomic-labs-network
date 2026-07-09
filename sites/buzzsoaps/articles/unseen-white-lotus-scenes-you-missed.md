@@ -41,6 +41,8 @@ quality_note: >-
 image_alt: >-
   Luxury resort hallway at dusk with a half-open suite door and subtle signs of
   hidden drama
+topics:
+  - Watch
 ---
 
 As "The White Lotus" continues to captivate audiences with its gripping portrayal of luxury and its discontents, fans eagerly anticipate the upcoming third season. Known for its sharp social commentary and dark humor, the series has successfully kept viewers on the edge of their seats. With deleted scenes from previous seasons hinting at potential storylines, the anticipation is palpable. Let's delve into what might be expected from the next installment of this acclaimed series.

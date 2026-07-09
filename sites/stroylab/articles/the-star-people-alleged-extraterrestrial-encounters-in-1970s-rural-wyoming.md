@@ -49,6 +49,10 @@ quality_note: >-
   though the title could be more compelling and the article lacks specific
   heading structure for better SEO.
 image_alt: Silhouetted witnesses watch strange lights over a lonely Wyoming road at dusk.
+topics:
+  - Conspiracies
+  - Mysteries
+  - Unsolved Cases
 ---
 
 Alleged encounters with extraterrestrial beings have been reported for many years, often appearing as brief, unsettling moments witnessed by a single person. These accounts usually describe a strange sighting, an unexplained presence, or a phenomenon that vanishes almost as quickly as it appears. Because many such reports rely on one observer and one fleeting experience, they can be difficult to examine beyond the witness account itself.

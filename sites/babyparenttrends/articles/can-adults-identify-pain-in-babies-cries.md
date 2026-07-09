@@ -41,6 +41,9 @@ quality_note: >-
 image_alt: >-
   Caregiver listens attentively beside a softly lit crib with subtle sound-wave
   shapes in the air.
+topics:
+  - Parenting
+  - Children’s Health
 ---
 
 Infants generally cry with more variable pitch and duration than adults. Longer, harsher, rougher, and louder cries mean they are experiencing pain or mild discomfort. Hence, a baby's cry with universal acoustic properties is innately decoded by caregivers. In a recent [*Current Biology*](https://www.cell.com/current-biology/fulltext/S0960-9822\(22\)01081-8) study, researchers detected that a baby's cry expresses pain that can be recognized through experience.

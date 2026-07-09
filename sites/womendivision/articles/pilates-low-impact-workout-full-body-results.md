@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Pilates class in a bright boutique studio practicing controlled poses on muted
   mats
+topics:
+  - Fitness
 ---
 ## The Rise of Gentle Yet Effective Exercise
 

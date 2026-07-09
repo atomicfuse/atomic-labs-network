@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Retro adventurers face a fractured glowing game world filled with glitches,
   petals, and puzzle-like fragments.
+topics:
+  - Gaming News
+  - PC Games
 ---
 ## A Game About Games That Isn't What It Seems
 

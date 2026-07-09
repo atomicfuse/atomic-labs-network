@@ -38,6 +38,8 @@ reading_time: 3
 image_alt: >-
   Country musician at an awards microphone beside his pregnant partner under
   warm stage lights.
+topics:
+  - Music
 ---
 ## From Humble Beginnings to Major Recognition
 

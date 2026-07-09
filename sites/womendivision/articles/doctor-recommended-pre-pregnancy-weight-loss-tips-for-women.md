@@ -42,6 +42,10 @@ quality_note: >-
   though the title could be more compelling and some headings could better
   utilize H2/H3 structure for SEO.
 image_alt: Woman in a bright kitchen preparing healthy food with a yoga mat nearby
+topics:
+  - Advice
+  - Fitness
+  - Lifestyle
 ---
 
 Preparing for pregnancy is not only about timing your cycle or taking prenatal vitamins. For many women, reaching a healthier weight before conception can improve fertility, support hormonal balance, and lower pregnancy-related risks. The safest approach is not a crash diet, but a steady plan guided by a doctor, built around nourishing food, regular movement, sleep, and realistic goals.

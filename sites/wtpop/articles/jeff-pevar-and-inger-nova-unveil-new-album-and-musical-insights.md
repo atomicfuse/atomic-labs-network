@@ -44,6 +44,8 @@ quality_note: >-
 image_alt: >-
   Moody recording studio with guitar, microphone, and two blurred musician
   silhouettes under warm blue lights.
+topics:
+  - Music
 ---
 
 Jeff Pevar and Inger Nova have teamed up to create a captivating new album that beautifully blends their musical talents. Their collaboration, marked by rich melodies and heartfelt lyrics, brings a fresh sound to the music scene. Pevar, a seasoned guitarist known for his work with Crosby, Stills & Nash and David Crosby's band CPR, joins forces with Nova, whose vocal prowess adds a unique layer to their music.

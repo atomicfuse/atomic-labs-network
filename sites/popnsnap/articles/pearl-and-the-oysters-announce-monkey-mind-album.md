@@ -28,6 +28,8 @@ seo:
 image_alt: >-
   Surreal retro-futurist studio with a glowing orb, synth shapes, plants, and
   dreamy warm light.
+topics:
+  - Music
 ---
 
 Pearl & The Oysters are preparing a new chapter with Monkey Mind, a fresh album that expands their bright psych-pop universe while keeping their songwriting warm, curious, and deeply human.

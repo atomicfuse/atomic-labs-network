@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Alert pocket mouse at a sandy burrow with a juvenile nearby and subtle snake
   traces in the background.
+topics:
+  - Tech
 ---
 ## Breakthrough Discovery Changes Conservation Game
 

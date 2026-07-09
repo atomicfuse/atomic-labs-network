@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Anonymous game studio workers gather in a tense office after hours amid empty
   desks.
+topics:
+  - Gaming News
 ---
 
 Rockstar Games, the renowned game developer behind the iconic Grand Theft Auto series, recently made headlines with reports that it dismissed dozens of employees in an effort to thwart unionization efforts. This decision has drawn significant attention from both industry insiders and the public, raising questions about labor practices within the gaming industry.

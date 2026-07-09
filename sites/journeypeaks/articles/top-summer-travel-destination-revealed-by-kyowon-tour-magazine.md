@@ -48,6 +48,9 @@ quality_note: >-
 image_alt: >-
   Travelers overlook a sunlit coastal city with a glowing concert stage in the
   distance.
+topics:
+  - Travel
+  - Travel Tips
 ---
 
 The world of pop culture is abuzz with excitement as popular K-pop girl group BLACKPINK continues to captivate global audiences. Renowned for their energetic performances and chart-topping hits, BLACKPINK has firmly established themselves as international superstars. Their recent activities and future plans promise to keep fans eagerly anticipating what's next.

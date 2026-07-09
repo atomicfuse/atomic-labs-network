@@ -34,6 +34,8 @@ quality_note: >-
   words and lacks proper heading structure for SEO optimization.
 reading_time: 3
 image_alt: Stylish woman walking in rolled-cuff baggy jeans on a sunny promenade
+topics:
+  - Travel Tips
 ---
 ## Celebrity Style Meets Accessible Fashion
 

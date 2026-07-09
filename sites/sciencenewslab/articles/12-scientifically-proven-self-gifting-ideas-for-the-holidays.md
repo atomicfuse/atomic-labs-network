@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Cozy holiday self-care scene with tea, journal, wrapped gift, evergreens, and
   warm morning light
+topics:
+  - Space
 ---
 
 The holiday season is a time of joy and giving, but it can also bring stress and exhaustion. While we often focus on gifting others, it's equally important to take care of ourselves. Research suggests that self-care during the holidays can improve mental health, boost energy, and enhance overall well-being. Here are some scientifically supported ways to gift yourself this holiday season that will benefit both your mind and body.

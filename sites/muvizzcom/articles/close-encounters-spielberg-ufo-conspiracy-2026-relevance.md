@@ -39,6 +39,8 @@ reading_time: 3
 image_alt: >-
   Silhouetted people watch an eerie light over a rural road and distant
   government floodlights at night.
+topics:
+  - Movies
 ---
 ## A 1977 Vision That Predicted 2026's UFO Reality
 

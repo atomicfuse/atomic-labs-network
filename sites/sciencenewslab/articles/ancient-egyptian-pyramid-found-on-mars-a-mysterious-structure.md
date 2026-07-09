@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Pyramid-like rock formation casting long shadows across a dusty Martian
   landscape at dawn.
+topics:
+  - Space
 ---
 
 Exploration of Mars continues to captivate scientists and the public alike, with the latest images revealing enigmatic structures that resemble ancient Earth architecture. The Red Planet's surface, captured by the HiRISE camera aboard the Mars Reconnaissance Orbiter, has offered intriguing visuals, sparking theories and curiosity about potential past civilizations or natural formations that mimic familiar structures.

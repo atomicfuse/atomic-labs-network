@@ -48,6 +48,8 @@ quality_note: >-
 image_alt: >-
   Researcher reviews medical data with abstract blood cells and a softly blurred
   athletic track behind them.
+topics:
+  - Health News
 ---
 
 A systematic literature review found no evidence to support that physical exertion without rhabdomyolysis (muscle breakdown) or heat injury can cause sudden death for individuals with sickle cell trait (SCT), nor is there any high-level evidence that SCT causes acute pain crises. These results were published in the American Society of Hematology's flagship journal, *Blood*, and informed the Society's updated position statement on SCT.

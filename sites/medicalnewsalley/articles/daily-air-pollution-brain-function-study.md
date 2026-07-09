@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Woman by a hazy city window with subtle neural patterns suggesting air
   pollution and brain health.
+topics:
+  - Health News
 ---
 ## Canadian Study Reveals Concerning Brain-Pollution Link
 

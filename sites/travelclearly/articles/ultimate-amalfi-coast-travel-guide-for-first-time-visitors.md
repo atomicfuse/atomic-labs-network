@@ -44,6 +44,10 @@ quality_note: >-
 image_alt: >-
   Sunlit Mediterranean cliffside village above turquoise sea with lemon groves
   and a travel journal
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 
 Italy's Amalfi Coast, a jewel of the Mediterranean, continues to enchant travelers with its breathtaking scenery and vibrant culture. This iconic stretch of coastline offers a perfect blend of natural beauty and rich history, making it a must-visit destination for anyone seeking an unforgettable experience.

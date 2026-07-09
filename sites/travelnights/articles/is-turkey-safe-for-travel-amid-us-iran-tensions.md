@@ -40,6 +40,9 @@ quality_note: >-
   significantly below target word count which limits its comprehensiveness and
   SEO potential.
 image_alt: Traveler overlooking Istanbul at dawn with a calm but cautious atmosphere
+topics:
+  - Destinations
+  - Guides & Tips
 ---
 
 Travelers planning a trip to Turkey may have concerns about safety, especially given the current geopolitical tensions in the region. Turkey, a country rich in cultural heritage and stunning landscapes, remains a popular destination for tourists despite its proximity to conflict zones. Understanding the current safety landscape is crucial for making informed travel decisions.

@@ -47,6 +47,8 @@ quality_note: >-
 image_alt: >-
   Empty director's chair surrounded by cinematic genre scenes from fantasy,
   western, crime, and sci-fi.
+topics:
+  - Reviews
 ---
 
 If you're a fan of engaging storytelling and powerful performances, Pedro Pascal's filmography is a treasure trove awaiting your discovery. This versatile actor's body of work spans various genres, showcasing his ability to immerse himself in diverse characters. From his breakout role in 'Game of Thrones' to his latest exploits in 'The Mandalorian,' Pedro Pascal has consistently delivered memorable performances. Here are five of his must-stream movies and TV shows that you absolutely cannot miss.

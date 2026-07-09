@@ -38,6 +38,8 @@ quality_note: >-
 image_alt: >-
   Unbranded full-size sedan in a polished studio setting with warm reflective
   lighting.
+topics:
+  - News
 ---
 ## Overview of the 2015 Chevrolet Impala LT Limited
 

@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Anonymous actor undergoing a dramatic prosthetic makeup transformation in a
   moody film makeup trailer
+topics:
+  - Celebrities
+  - TV & Movies
 ---
 ## The Art of Celebrity Transformation
 

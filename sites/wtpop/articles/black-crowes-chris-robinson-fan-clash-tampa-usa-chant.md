@@ -35,6 +35,8 @@ reading_time: 3
 image_alt: >-
   Rock singer faces a divided concert crowd under moody blue and magenta stage
   lights.
+topics:
+  - Music
 ---
 ## Tension Erupts During Tampa Concert
 

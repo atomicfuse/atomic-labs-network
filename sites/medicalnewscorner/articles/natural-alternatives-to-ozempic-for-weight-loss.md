@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Green tea, cinnamon, fresh foods, and supplements arranged in a calm wellness
   still life
+topics:
+  - Health News
 ---
 
 In recent health news, researchers are uncovering natural alternatives to popular weight loss medications like Ozempic. This search for effective and accessible solutions has put a spotlight on certain compounds found in everyday foods and supplements. These alternatives may offer similar benefits without the prescription.

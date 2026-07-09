@@ -36,6 +36,9 @@ reading_time: 3
 image_alt: >-
   Happy dog cooling off on a shaded patio with simple DIY heatwave supplies
   nearby.
+topics:
+  - Dogs
+  - Good To Know
 ---
 ## Britain Sizzles as Temperatures Hit 32C
 

@@ -40,6 +40,8 @@ quality_note: >-
 image_alt: >-
   Twilight music camp stage with instruments and performers gathering in a
   nostalgic cinematic scene
+topics:
+  - Watch
 ---
 
 # Camp Rock 3: Everything You Need to Know

@@ -37,6 +37,8 @@ quality_note: >-
 image_alt: >-
   Ancient ceremonial objects emerge from a Peruvian excavation site beneath
   misty Andean mountains.
+topics:
+  - Hot Trends
 ---
 ## Ancient Discovery Captures Global Attention
 

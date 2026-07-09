@@ -45,6 +45,8 @@ quality_note: >-
 image_alt: >-
   Morning sunlight illuminates a vitamin capsule beside water, suggesting heart
   health and recovery.
+topics:
+  - Research
 ---
 
 Recent research suggests that vitamin D3 supplements could significantly reduce the risk of experiencing a second heart attack. This discovery is particularly promising for those who have already suffered a cardiovascular event, offering a potentially simple preventive measure.

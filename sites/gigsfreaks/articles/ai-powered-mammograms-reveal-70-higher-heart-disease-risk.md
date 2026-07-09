@@ -43,6 +43,8 @@ quality_note: >-
 image_alt: >-
   Modern mammography workstation with abstract AI and heart-health analysis
   overlays
+topics:
+  - Hot Trends
 ---
 
 In a groundbreaking advancement, researchers have discovered that routine mammograms, often used for breast cancer screening, can also provide critical insights into heart disease risk. By leveraging artificial intelligence (AI), these screenings can identify signs of heart conditions, offering a dual benefit and potentially saving countless lives.

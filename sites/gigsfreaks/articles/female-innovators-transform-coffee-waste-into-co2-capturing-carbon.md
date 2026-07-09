@@ -46,6 +46,8 @@ quality_note: >-
 image_alt: >-
   Female scientists examine carbon granules in a sustainability lab with coffee
   grounds and recycled plastic nearby.
+topics:
+  - Good Vibes
 ---
 
 A groundbreaking initiative is taking shape in the Arab world, where an innovative team is transforming waste into a powerful tool against climate change. This female-led team is utilizing coffee grounds and plastic waste to create activated carbon, a substance that can effectively capture carbon dioxide from the atmosphere. Their pioneering approach not only addresses environmental pollution but also contributes to reducing global carbon emissions.

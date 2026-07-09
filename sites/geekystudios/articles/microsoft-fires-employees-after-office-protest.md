@@ -42,6 +42,9 @@ quality_note: >-
 image_alt: >-
   Employees gather outside a modern corporate tech office under a tense overcast
   sky.
+topics:
+  - Tech
+  - Trends
 ---
 
 In recent developments, Microsoft has taken decisive action against two employees following a protest at the company's Redmond, Washington office. The protest, which took place outside Building 34, highlighted internal tensions and raised questions about corporate policies and employee rights. Microsoft's swift response underscores the delicate balance between maintaining workplace order and addressing employee grievances.

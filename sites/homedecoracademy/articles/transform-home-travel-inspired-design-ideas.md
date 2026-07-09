@@ -34,6 +34,9 @@ reading_time: 3
 image_alt: >-
   Elegant travel-inspired dining room with layered textures, velvet chairs, warm
   wood, and curated global accents.
+topics:
+  - Design Tips
+  - Home Styling
 ---
 ## Creating Authentic Travel-Inspired Spaces
 

@@ -34,6 +34,8 @@ reading_time: 3
 image_alt: >-
   Older adult breathing calmly on a sunlit park path with an unlit cigarette
   left behind on a bench.
+topics:
+  - Mind & Body Wellness
 ---
 ## New Research Links Smoking Cessation to Brain Health
 

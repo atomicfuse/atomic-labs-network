@@ -38,6 +38,10 @@ reading_time: 3
 image_alt: >-
   Couple walking hand in hand beside a calm turquoise lake with mountains and a
   village beyond
+topics:
+  - Travel
+  - Destinations
+  - Travel Tips
 ---
 ## The Science of Relationship-Friendly Travel
 

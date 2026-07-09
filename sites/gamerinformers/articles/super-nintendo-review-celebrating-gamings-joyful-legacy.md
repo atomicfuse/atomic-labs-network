@@ -42,6 +42,8 @@ quality_note: >-
 image_alt: >-
   Retro game console and controllers glowing with colorful nostalgic light in a
   warm living room
+topics:
+  - Gaming News
 ---
 
 Exploring the legacy of video game history, Keza MacDonald presents a captivating journey through the iconic world of Super Nintendo in her latest book. As a cornerstone in the gaming industry, the Super Nintendo Entertainment System (SNES) has left an indelible mark on both enthusiasts and casual gamers alike. MacDonald's narrative not only celebrates the console's groundbreaking achievements but also delves into the profound cultural influence it has wielded over the years.

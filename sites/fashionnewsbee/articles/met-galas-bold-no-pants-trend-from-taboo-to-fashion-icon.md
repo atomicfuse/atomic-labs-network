@@ -34,6 +34,8 @@ seo:
 image_alt: >-
   Avant-garde model in sculptural couture strides across a glamorous abstract
   red-carpet setting.
+topics:
+  - Fashion
 ---
 
 Fashion is ever-evolving, and what once seemed unconventional can quickly become the norm. This is clearly evident in the latest trend that has taken the fashion world by storm: wearing no pants in public. Once regarded as a fashion faux pas, this bold statement has now found its way to the prestigious platforms of Met Gala events and high-fashion runways.

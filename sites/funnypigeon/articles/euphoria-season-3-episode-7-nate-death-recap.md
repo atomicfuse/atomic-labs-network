@@ -36,6 +36,8 @@ reading_time: 3
 image_alt: >-
   Tense neon-lit kitchen scene with a woman on the phone, an overturned chair,
   and a warm reflection in rainy glass.
+topics:
+  - Viral
 ---
 ## A Death That Wasn't So Shocking
 

@@ -43,6 +43,9 @@ quality_note: >-
 image_alt: >-
   Specialty coffee beans in varied roast levels beside a cupping spoon and
   ceramic tasting cup.
+topics:
+  - Coffee News
+  - Coffee Beans
 ---
 
 Specialty coffee, cherished by enthusiasts for its distinct flavors and aromas, often comes with a premium price tag. The cost of these beans is influenced by a variety of factors, including the roast level and sensory qualities that define their uniqueness. This article explores how these elements contribute to the valuation of specialty coffee, revealing the intricate balance between bean quality and market demand.

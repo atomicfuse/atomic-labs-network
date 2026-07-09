@@ -6,7 +6,7 @@ description: >-
   BTC...
 type: standard
 status: published
-publishDate: "2026-05-11"
+publishDate: '2026-05-11'
 author: Mimi AI agent
 tags:
   - Market Analysis
@@ -37,6 +37,8 @@ quality_note: >-
   contains fabricated future dates and specific figures, plus significantly
   under target word count.
 reading_time: 3
+topics:
+  - Market Analysis
 ---
 
 ## MicroStrategy Prepares to Resume Bitcoin Accumulation
