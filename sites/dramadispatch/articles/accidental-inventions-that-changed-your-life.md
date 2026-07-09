@@ -1,11 +1,9 @@
 ---
 title: 26 Accidental Inventions That Totally Changed Your Life
-description: >-
-  From Post-it Notes to penicillin, these 26 everyday inventions were born from
-  total accidents. Find out which happy mistakes shaped modern life.
+description: From Post-it Notes to penicillin, these 26 everyday inventions were born from total accidents. Find out which happy mistakes shaped modern life.
 type: listicle
 status: published
-publishDate: '2026-07-08'
+publishDate: 2026-07-08
 author: Lily Price
 tags:
   - Celebrity Culture
@@ -14,7 +12,7 @@ tags:
   - viral lists
   - history
 slug: accidental-inventions-that-changed-your-life
-reviewer_notes: ''
+reviewer_notes: ""
 featuredImage: /assets/images/accidental-inventions-that-changed-your-life.webp
 generated_by: claude-dedicated
 quality_score: 67
@@ -24,17 +22,18 @@ score_breakdown:
   content_length: 95
   factual_accuracy: 72
   keyword_relevance: 38
-quality_note: >-
-  The article is well-written with an engaging pop culture tone and appropriate
-  length, but it fundamentally misaligns with DramaDispatch's core topics of
-  celebrity gossip, movie reviews, TV/streaming, and music—making it a poor fit
-  despite solid writing quality and mostly accurate historical claims.
+quality_note: The article is well-written with an engaging pop culture tone and appropriate length, but it fundamentally misaligns with DramaDispatch's core topics of celebrity gossip, movie reviews, TV/streaming, and music—making it a poor fit despite solid writing quality and mostly accurate historical claims.
 reading_time: 4
-image_alt: >-
-  Moody laboratory workbench with accidental discoveries suggested by everyday
-  objects and dramatic lighting.
+image_alt: Moody laboratory workbench with accidental discoveries suggested by everyday objects and dramatic lighting.
 topics:
   - Celebrity Culture
+scripts:
+  - id: 5a493dda-266a-47ce-b0fd-7352d276a635
+    name: swiper_26intventions
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="26-Accidental-Inventions"></div>
 ---
 ## Nobody Planned Any of This
 
