@@ -1,11 +1,9 @@
 ---
 title: 37 Everyday 90s Things That Vanished Without a Goodbye
-description: >-
-  From Blockbuster Fridays to Tamagotchis, the 90s faded out quietly. Here are
-  37 everyday rituals that disappeared before we could say goodbye.
+description: From Blockbuster Fridays to Tamagotchis, the 90s faded out quietly. Here are 37 everyday rituals that disappeared before we could say goodbye.
 type: listicle
 status: published
-publishDate: '2026-07-12'
+publishDate: 2026-07-12
 author: Lily Price
 tags:
   - Celebrity Culture
@@ -14,7 +12,7 @@ tags:
   - throwback
   - lifestyle
 slug: 37-everyday-90s-things-that-vanished-without-goodbye
-reviewer_notes: ''
+reviewer_notes: ""
 featuredImage: /assets/images/37-everyday-90s-things-that-vanished-without-goodbye.webp
 generated_by: claude-dedicated
 quality_score: 75
@@ -24,15 +22,16 @@ score_breakdown:
   content_length: 90
   factual_accuracy: 82
   keyword_relevance: 55
-quality_note: >-
-  The article is well-written with an engaging nostalgic tone and solid word
-  count, but it drifts from the site's core entertainment/celebrity topics and
-  lacks strong SEO structure with no H3s, missing keyword targeting, and a title
-  that skews more lifestyle/nostalgia than pop culture.
+quality_note: The article is well-written with an engaging nostalgic tone and solid word count, but it drifts from the site's core entertainment/celebrity topics and lacks strong SEO structure with no H3s, missing keyword targeting, and a title that skews more lifestyle/nostalgia than pop culture.
 reading_time: 4
-image_alt: >-
-  Nostalgic 1990s living room with a glowing CRT television and forgotten
-  everyday objects
+image_alt: Nostalgic 1990s living room with a glowing CRT television and forgotten everyday objects
+scripts:
+  - id: 6069eb2d-c7af-4118-95ea-853b30f6260e
+    name: 37everyday_thing_90s
+    position: after-paragraph-1
+    content: |-
+      <script src="https://ob-mock-ad-tester-9116--atomic.cloudgrid.io/feed-widget.js" async></script>
+      <div data-cg-feed="37EverydayThings"></div>
 ---
 ## The Decade That Left Without Saying Goodbye
 
