@@ -18,7 +18,7 @@ reviewer_notes: ''
 source_url: 'https://www.thespruce.com/things-that-make-your-house-look-bad-11978556'
 source_item_id: 6a27a4dbeb470600f9705468
 generated_by: claude
-featuredImage: /assets/images/mindmedications-general-article.webp
+featuredImage: /assets/images/design-mistakes-that-make-stylish-homes-look-bad.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 65
@@ -33,6 +33,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Lifestyle
+image_alt: >-
+  Stylish modern living room with subtle design flaws making the space feel
+  visually unbalanced
 ---
 ## When Good Homes Go Wrong: Professional Insights
 
