@@ -20,7 +20,7 @@ source_url: >-
   https://www.usmagazine.com/celebrity-news/news/donald-trump-calls-nicki-minaj-hot-at-white-house-luncheon/
 source_item_id: 6a4c7e7414aeb4629abef5cd
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/trump-nicki-minaj-white-house-luncheon.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - breaking news
+image_alt: >-
+  White House luncheon setting with press silhouettes, a microphone, and
+  celebrity-inspired formal attire details.
 ---
 TL;DR: President Trump recently dubbed Nicki Minaj 'hot' during a White House luncheon, sparking conversations about the evolving dynamics of celebrity and politics.
 
