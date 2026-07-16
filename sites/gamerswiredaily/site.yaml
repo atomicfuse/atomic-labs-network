@@ -1,9 +1,6 @@
-domain: gamerswiredaily.com
-site_name: gamerswiredaily
-site_tagline: null
-author: Leo Long
-groups: []
+domain: gamerswiredaily
 active: true
+author: Leo Long
 brief:
   audiences: []
   tone: ""
@@ -83,6 +80,27 @@ brief:
     preferred_days:
       - Wednesday
     preferred_time: 10:00
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: gamerswiredaily
+site_tagline: null
 theme:
   base: pink_glow
   colors:
@@ -127,21 +145,10 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
+tracking:
+  ga4: G-7RR761CYYB
+  gtm: GT-5R7T36Q3
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
