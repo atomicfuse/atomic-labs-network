@@ -163,3 +163,10 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-FHDWDCKB1N
+  gtm: GT-NSLN5FWR
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
