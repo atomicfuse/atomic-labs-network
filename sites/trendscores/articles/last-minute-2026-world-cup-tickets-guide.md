@@ -19,7 +19,7 @@ source_url: >-
   https://sports.yahoo.com/soccer/article/2026-world-cup-final-how-to-get-tickets-in-the-us-with-gametime-110528366.html
 source_item_id: 6a5838c9361a680a92080ff5
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/last-minute-2026-world-cup-tickets-guide.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Matches
+image_alt: >-
+  Fan holds a phone with digital tickets inside a packed soccer stadium before a
+  major match.
 ---
 ## TL;DR
 Planning to watch the 2026 FIFA World Cup final live? Use Gametime for potential last-minute ticket deals without overpaying or risking scams.

@@ -194,3 +194,10 @@ theme:
   logo_height_footer: 78
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+tracking:
+  ga4: G-Y8EB0LDEEQ
+  gtm: GT-K8HBM2Q2
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

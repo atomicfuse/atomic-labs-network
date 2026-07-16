@@ -20,7 +20,7 @@ source_url: >-
   https://www.nytimes.com/athletic/7439982/2026/07/15/world-cup-2026-48-teams-ranked-2/
 source_item_id: 6a5838c9361a680a92080ff4
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/argentina-spain-world-cup-2026-final-preview.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Latest News
+image_alt: >-
+  Two soccer players battle for the ball under stadium lights in a tense
+  championship final atmosphere.
 ---
 ## TL;DR
 As the World Cup 2026 final approaches, Argentina's remarkable resilience is set to clash with Spain's tactical brilliance. Can Messi inspire yet another victory?
