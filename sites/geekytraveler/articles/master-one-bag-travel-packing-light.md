@@ -19,7 +19,7 @@ source_url: >-
   https://www.forbes.com/sites/baileyberg/2026/06/22/how-to-master-one-bag-travel-and-pack-lighter-for-every-trip/
 source_item_id: 6a39e8a6cbbe345bde1164cc
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/master-one-bag-travel-packing-light.webp
 quality_score: 64
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
+image_alt: >-
+  A neatly packed travel backpack with essentials in a bright, minimalist travel
+  setting.
 ---
 TL;DR: Curious about mastering one-bag travel? This guide reveals essential tips and strategies to help you pack light and travel efficiently with just one bag.
 
