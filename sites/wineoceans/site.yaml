@@ -1,11 +1,6 @@
-domain: wineoceans.com
-site_name: wineoceans
-site_tagline: null
-author: Andrew Perry
-groups:
-  - atl
+domain: wineoceans
 active: true
-bundle_id: 6a0c339f16f23264031d7942
+author: Andrew Perry
 brief:
   audiences: []
   tone: ""
@@ -22,7 +17,6 @@ brief:
     - Wine recipes
   seo_keywords_focus: []
   content_guidelines: []
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
@@ -40,7 +34,112 @@ brief:
     keyword_relevance: 20
   vertical_id: 6a00793d1104bbff809b7c3e
   vertical: Food & Drink
-  category_ids: []
+  theme: "all about wine, wine making, reviews and wine recipes "
+  topics_v2:
+    - name: Wine news
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793f1104bbff809b7f2f
+        tag_ids:
+          - 6a03466b86fcaaeb5bc83412
+          - 6a03467486fcaaeb5bc83416
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Wine for beginners
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a03466b86fcaaeb5bc83412
+          - 6a03466b86fcaaeb5bc8340e
+          - 6a03467486fcaaeb5bc83416
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Wine tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a03466b86fcaaeb5bc83412
+          - 6a03467486fcaaeb5bc83416
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Wine reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d17
+        tag_ids:
+          - 6a03466b86fcaaeb5bc83412
+          - 6a03467486fcaaeb5bc83416
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a1402bf16f23264031d7c63
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+    - name: Wine recipes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d15
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a03466b86fcaaeb5bc83412
+          - 6a03467486fcaaeb5bc83416
+          - 6a03467486fcaaeb5bc83418
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a1831cb0fc9210eaf31ab29
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Thursday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: wineoceans
+site_tagline: null
 theme:
   base: custom
   colors:
@@ -82,24 +181,7 @@ theme:
   logo_height: 78
   logo_height_footer: 94
   footer_logo: /assets/logo-footer.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
+  menu_item_font_size: 16
 tracking:
   ga4: G-CC6EJXVYMD
   gtm: GT-KFGTHDX8
