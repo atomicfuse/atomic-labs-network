@@ -1,9 +1,6 @@
-domain: foreverhealty.com
-site_name: ForeverHealty
-site_tagline: null
-author: Lily Reed
-groups: []
+domain: foreverhealty
 active: true
+author: Lily Reed
 brief:
   audiences:
     - Healthy Living enthusiasts
@@ -155,6 +152,27 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Tuesday
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: ForeverHealty
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -195,21 +213,10 @@ theme:
   logo_height_footer: 82
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
+tracking:
+  ga4: G-2EL6LG66FE
+  gtm: GT-NNXW9RGQ
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
