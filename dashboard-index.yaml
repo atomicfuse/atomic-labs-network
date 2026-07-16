@@ -206,7 +206,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-06-07T11:53:45.973Z
+    last_updated: 2026-07-16T11:43:59.912Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -214,7 +214,7 @@ sites:
     saved_previews: null
     site_id: "0825216357760"
     staging_branch: staging/dogslabs
-    status: Ready
+    status: Live
     vertical: Pets
     worker_pending_dns: false
     zone_id: ac3f68c27638aa21ff3ad768ea19fff5
