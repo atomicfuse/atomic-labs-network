@@ -22,7 +22,7 @@ source_url: >-
   https://news.google.com/atom/articles/CBMiwgFBVV95cUxOR1RuVlM4Wk1wUWplcjd3RE9ETmRmV3h2VGJfM2hIX3h3eHVJZk03bWRNR05hQmVVRGt2TlktZkxZb0pFRFVOR0JyNjhMQmoydXplRmx2bHJDM0FiR0laUnN0ZHZvQnlnamFLN1VQdDhIS25XWm0xNXQ1Y1pXeUFNa2xUN3FmVFZCZXVpMFE2NGlNVzloX25SS3h3WmFJSGJGZnhWbGdXVGJ3aXNhclhLa3hlTUh3SXZ0T0ZIYXByYW9OZ9IBxwFBVV95cUxNMGFTb0lIbzAycGFCWTBJaTZhX0s3enAyQTluR01DUDJoLWJDV3prYW51WnRqWEpHY3RjVUNKRUlrU2lNQXJXWDFBUHluLVFXd19KODlOaGlBUGg0YjFVc3VidXNmODFRYTVSNXhsRC1IMWc3NHdfZFFndDZnZFhDMC1fT0RaZ0lZRG1qZ3ZXZDNjZjdERHR6SVdhN1htaW1GRXN2OU9JTjk0ZjdUTUh0SUNiSm94VTlSSUhWZzFYZlRZZUt6RVo0?oc=5
 source_item_id: 6a4ecabaa50ccf1b845fc306
 generated_by: openai
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: /assets/images/culinary-tourism-indian-travelers.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
   statistic repeated without a cited source is a factual concern, and at 683
   words it falls slightly below the 800-word target threshold.
 reading_time: 3
+image_alt: >-
+  Indian traveler enjoying regional food beside luggage in a lively urban travel
+  setting
 ---
 TL;DR: A significant 40% of Indian travelers are prioritizing culinary experiences in their travel plans. This article explores how food is reshaping travel itineraries and suggests the best destinations for food lovers.
 
