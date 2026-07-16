@@ -20,7 +20,7 @@ source_url: >-
   https://www.usmagazine.com/celebrity-news/news/where-full-house-cast-stands-with-mary-kate-and-ashley-olsen/
 source_item_id: 6a4c7e7414aeb4629abef5d1
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/full-house-cast-mary-kate-ashley-olsen-update.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - tv shows
+image_alt: >-
+  Former sitcom castmates reunite beside two empty chairs in a nostalgic living
+  room.
 ---
 ## TL;DR
 The Full House cast has had various experiences with Mary-Kate and Ashley Olsen, who played Michelle Tanner. Despite their absence from Fuller House, the twins remain in touch with many castmates, especially after reconnecting at Bob Saget’s funeral in 2022.
