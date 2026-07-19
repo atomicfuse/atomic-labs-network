@@ -35,17 +35,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "YogaTerritory is a yoga and wellness site focused on accessible practice
-    guides, pose routines, mindfulness, stress relief, women’s wellness, and
-    beginner-to-intermediate flows. Strong filters: yoga poses, beginner yoga,
-    mindfulness, relaxation, breathwork, flexibility, women’s yoga, lifestyle
-    wellness, and home routines."
+  theme: "YogaTerritory is a yoga and wellness site focused on accessible practice guides, pose routines, mindfulness, stress relief, women’s wellness, and beginner-to-intermediate flows. Strong filters: yoga poses, beginner yoga, mindfulness, relaxation, breathwork, flexibility, women’s yoga, lifestyle wellness, and home routines."
   topics_v2:
     - name: Yoga Poses
       source:
@@ -62,8 +55,8 @@ brief:
           - 6a04416d86fcaaeb5bc837a5
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Friday
     - name: Beginner Yoga
       source:
         type: filter
@@ -79,7 +72,8 @@ brief:
           - 6a140a0716f23264031d7c8d
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: Yoga Routines
       source:
         type: filter
@@ -96,7 +90,8 @@ brief:
           - 6a1a727c1e60b3e9a22086dd
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: Meditation
       source:
         type: filter
@@ -111,7 +106,8 @@ brief:
           - 6a04438c86fcaaeb5bc83818
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: Wellness
       source:
         type: filter
@@ -130,7 +126,8 @@ brief:
           - 6a07ffdb4bdae0614e7aaf2d
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
 theme:
   base: modern
   colors:

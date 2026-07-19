@@ -1,11 +1,6 @@
-domain: babyparenttrends.com
-site_name: babyparenttrends
-site_tagline: null
-author: Alex Long
-groups:
-  - atl
+domain: babyparenttrends
 active: true
-bundle_id: 6a12d7b916f23264031d7a64
+author: Alex Long
 brief:
   audiences:
     - Family and Relationships enthusiasts
@@ -32,22 +27,131 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Family and Relationships
   vertical_id: 6a00793d1104bbff809b7c38
-  category_ids:
-    - 6a00793d1104bbff809b7c38
-    - 6a00793e1104bbff809b7cef
-    - 6a00793e1104bbff809b7cf1
-    - 6a00793e1104bbff809b7ceb
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Modern parenting and early childhood development** — baby gear reviews, child psychology, parenting styles, and family lifestyle trends."
+  topics_v2:
+    - name: Parenting
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7cef
+          - 6a00793e1104bbff809b7cf1
+          - 6a00793e1104bbff809b7cf3
+          - 6a00793d1104bbff809b7c38
+        tag_ids:
+          - 6a142afc16f23264031d7f46
+          - 6a142f7316f23264031d7f9c
+          - 6a142ce716f23264031d7f54
+          - 6a142f8a16f23264031d7fa8
+          - 6a142cfe16f23264031d7f58
+          - 6a28f56c7f78668964f8b2fb
+          - 6a142d1916f23264031d7f6e
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Baby Care
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7cef
+          - 6a00793e1104bbff809b7cf1
+          - 6a00793e1104bbff809b7cf3
+        tag_ids:
+          - 6a142cfe16f23264031d7f58
+          - 6a144a7316f23264031d8033
+          - 6a142f7316f23264031d7f9c
+          - 6a142fad16f23264031d7fb6
+          - 6a142d1816f23264031d7f6b
+          - 6a14319d16f23264031d7fc0
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Kids
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7cef
+          - 6a00793e1104bbff809b7cf1
+          - 6a00793e1104bbff809b7cf3
+        tag_ids:
+          - 6a142afc16f23264031d7f46
+          - 6a142ce716f23264031d7f51
+          - 6a142f7316f23264031d7f9c
+          - 6a142cfe16f23264031d7f58
+          - 6a144a7316f23264031d8033
+          - 6a142f8a16f23264031d7fa8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Pregnancy
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d79
+        tag_ids:
+          - 6a142f7316f23264031d7f9c
+          - 6a14239516f23264031d7e63
+          - 6a142cfe16f23264031d7f58
+          - 6a0be89216f23264031d7878
+          - 6a142f8a16f23264031d7fa8
+          - 6a144a7316f23264031d8033
+          - 6a142d1816f23264031d7f6b
+          - 6a14319d16f23264031d7fc0
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Children’s Health
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d65
+          - 6a00793d1104bbff809b7c50
+          - 6a00793e1104bbff809b7d23
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a142f7316f23264031d7f9c
+          - 6a144a7316f23264031d8033
+          - 6a142cfe16f23264031d7f58
+          - 6a142d1816f23264031d7f6b
+          - 6a142f8816f23264031d7fa3
+          - 6a142fad16f23264031d7fb6
+          - 6a14134b16f23264031d7d16
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: babyparenttrends
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -88,24 +192,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 84
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-7RPBZEPLKK
   gtm: GT-KVFVP4KP
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

@@ -1,10 +1,6 @@
-domain: eznutritiontips.com
-site_name: eznutritiontips
-site_tagline: null
-author: Ben Rivera
-groups:
-  - atl
+domain: eznutritiontips
 active: true
+author: Ben Rivera
 brief:
   audiences:
     - Food & Drink enthusiasts
@@ -35,10 +31,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   theme: nutrition tips, healthy content, healthy recipes
   topics_v2:
@@ -56,8 +49,8 @@ brief:
           - 6a14495416f23264031d8019
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Nutrition Tips
       source:
         type: filter
@@ -74,7 +67,8 @@ brief:
           - 6a256c9e40722bf12ccf9938
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Special Diets
       source:
         type: filter
@@ -90,7 +84,8 @@ brief:
           - 6a034fdb86fcaaeb5bc83505
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Weight & Wellness
       source:
         type: filter
@@ -106,7 +101,8 @@ brief:
           - 6a07ffaf4bdae0614e7aaf12
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Nutrition Myths
       source:
         type: filter
@@ -121,7 +117,30 @@ brief:
           - 6a205571ad9a1dd21ebb66bf
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: eznutritiontips
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -163,24 +182,10 @@ theme:
   logo_height: 52
   logo_height_footer: 78
   footer_logo: /assets/logo-footer.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-LWJ6PVMXFS
   gtm: GT-WF776GRH
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

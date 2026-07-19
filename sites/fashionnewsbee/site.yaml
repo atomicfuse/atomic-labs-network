@@ -1,10 +1,6 @@
-domain: fashionnewsbee.com
-site_name: fashionnewsbee
-site_tagline: null
-author: Ethan Ward
-groups:
-  - atl
+domain: fashionnewsbee
 active: true
+author: Ethan Ward
 brief:
   audiences:
     - Style & Fashion enthusiasts
@@ -35,10 +31,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   audience_type_ids: []
   theme: fashion and beauty news, pop culture and hot couture
@@ -57,8 +50,8 @@ brief:
           - 6a15027d16f23264031d80c5
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Beauty
       source:
         type: filter
@@ -77,7 +70,8 @@ brief:
           - 6a277527eb470600f97052ea
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Culture
       source:
         type: filter
@@ -95,7 +89,8 @@ brief:
           - 6a042e6186fcaaeb5bc835b1
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Fitness
       source:
         type: filter
@@ -113,7 +108,8 @@ brief:
           - 6a044f3986fcaaeb5bc838c4
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Lifestyle
       source:
         type: filter
@@ -132,7 +128,30 @@ brief:
           - 6a142afc16f23264031d7f46
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: fashionnewsbee
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -174,24 +193,10 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   footer_logo: /assets/logo-footer.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-7K85KH3MSC
   gtm: GT-MR5CJWX9
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

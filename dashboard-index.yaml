@@ -1,1131 +1,980 @@
 sites:
-  - domain: muvizzcom
-    company: null
-    vertical: Entertainment
-    status: Live
-    site_id: null
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-25T09:59:03.726Z
-    created_at: 2026-05-07T13:00:00.000Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 505b529c5928da452abb172f685d97a7
-    staging_branch: staging/muvizzcom
-    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=muvizzcom
-    saved_previews: null
-    custom_domain: coolnews.dev
-    worker_pending_dns: false
-  - domain: chaibeseret
-    company: null
-    vertical: Entertainment
-    status: Staging
-    site_id: "8425573195996"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-25T10:00:12.210Z
-    created_at: 2026-05-10T15:06:13.194Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/chaibeseret
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=chaibeseret
-    saved_previews: null
-    custom_domain: null
-  - domain: financenewsbase
-    company: null
-    vertical: Business and Finance
-    status: Live
-    site_id: "8492664485223"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-25T10:26:02.433Z
-    created_at: 2026-05-11T09:44:24.485Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 2c620d60ee2ef8c27e4b14c2c5be9d41
-    staging_branch: staging/financenewsbase
-    preview_url: https://atomic-site-worker-staging.dev1-953.workers.dev/?_atl_site=financenewsbase
-    saved_previews: null
-    custom_domain: financenewsbase.com
-    worker_pending_dns: false
-  - domain: wtpop
-    company: NGC
-    vertical: Entertainment
-    status: Live
-    site_id: "8669732505132"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:39:16.990Z
-    created_at: 2026-05-13T10:55:32.505Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 24bb22d14d9c0ca33e865c3790a70794
-    staging_branch: staging/wtpop
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=wtpop
-    saved_previews: null
-    custom_domain: wtpop.com
-    worker_pending_dns: false
-  - domain: travelswire
-    company: NGC
-    vertical: Travel
-    status: Live
-    site_id: "9021912446684"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-27T15:17:30.481Z
-    created_at: 2026-05-17T12:45:12.446Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 7145c5c82935b88a42cb95b22bb24009
-    staging_branch: staging/travelswire
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelswire
-    saved_previews: null
-    custom_domain: travelswire.com
-    worker_pending_dns: false
-  - domain: wineoceans
-    company: ATL
-    vertical: Food & Drink
-    status: Live
-    site_id: "9185817424590"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-27T15:04:18.580Z
-    created_at: 2026-05-19T10:16:57.424Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: cd32ea96eda7142121100997b8576cee
-    staging_branch: staging/wineoceans
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=wineoceans
-    saved_previews: null
-    custom_domain: wineoceans.com
-    worker_pending_dns: false
-  - domain: womendivision
-    company: ATL
-    vertical: Healthy Living
-    status: Live
-    site_id: "9619803022413"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:50:06.859Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: d6cd6507f7ae77681055b4a69deef368
-    staging_branch: staging/womendivision
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=womendivision
-    saved_previews: null
-    custom_domain: womendivision.com
-    worker_pending_dns: false
-  - domain: popnsnap
-    company: ATL
-    vertical: Entertainment
-    status: Live
-    site_id: "9619803022462"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:30:51.770Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: f0111c5b84d8950413595bf73302cd28
-    staging_branch: staging/popnsnap
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=popnsnap
-    saved_previews: null
-    custom_domain: popnsnap.com
-    worker_pending_dns: false
-  - domain: travelbeautytips
-    company: ATL
-    vertical: Style & Fashion
-    status: Live
-    site_id: "9619803022205"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:31:48.868Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: a74d034aeb8306198c613c62162113da
-    staging_branch: staging/travelbeautytips
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelbeautytips
-    saved_previews: null
-    custom_domain: travelbeautytips.com
-    worker_pending_dns: false
-  - domain: funnypigeon
-    company: NGC
-    vertical: Entertainment
-    status: Live
-    site_id: "9619803022198"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:46:33.624Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 2dbca4374ab4f2e834367ad154ccb16d
-    staging_branch: staging/funnypigeon
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=funnypigeon
-    saved_previews: null
-    custom_domain: funnypigeon.com
-    worker_pending_dns: false
-  - domain: eznutritiontips
-    company: ATL
-    vertical: Food & Drink
-    status: Live
-    site_id: "9619803022251"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:38:18.371Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 5caf2d452d92f4e00b5df2e393eee9c3
-    staging_branch: staging/eznutritiontips
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=eznutritiontips
-    saved_previews: null
-    custom_domain: eznutritiontips.com
-    worker_pending_dns: false
-  - domain: decoratingmom
-    company: ATL
-    vertical: Home & Garden
-    status: Live
-    site_id: "9619803022491"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:48:42.203Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 7df27fd950bca5e6f3b1dfea61a5bfc8
-    staging_branch: staging/decoratingmom
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=decoratingmom
-    saved_previews: null
-    custom_domain: decoratingmom.com
-    worker_pending_dns: false
-  - domain: giantsavings
-    company: ATL
-    vertical: Personal Finance
-    status: Live
-    site_id: "9619803022375"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:46:01.461Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 34134b23dd5812bfe3bf0b150b40734b
-    staging_branch: staging/giantsavings
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=giantsavings
-    saved_previews: null
-    custom_domain: giant-savings.co
-    worker_pending_dns: false
-  - domain: muvizz
-    company: NGC
-    vertical: Entertainment
-    status: Live
-    site_id: "9619803022539"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:41:54.225Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: a79d5035f207b2e51d14f0511347ff56
-    staging_branch: staging/muvizz
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=muvizz
-    saved_previews: null
-    custom_domain: muvizz.com
-    worker_pending_dns: false
-  - domain: mindmedications
-    company: ATL
-    vertical: Healthy Living
-    status: Live
-    site_id: "9619803022655"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:32:25.056Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 0820311d4e73c1deba307a9c09b2f4cb
-    staging_branch: staging/mindmedications
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=mindmedications
-    saved_previews: null
-    custom_domain: mindmedications.com
-    worker_pending_dns: false
-  - domain: carsnewsmag
-    company: NGC
-    vertical: Automotive
-    status: Live
-    site_id: "9619803022781"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:48:03.467Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 40bfa87923bf32f7ae54ea1688b4e3e1
-    staging_branch: staging/carsnewsmag
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=carsnewsmag
-    saved_previews: null
-    custom_domain: carsnewsmag.com
-    worker_pending_dns: false
-  - domain: useminds
-    company: NGC
-    vertical: Science
-    status: Live
-    site_id: "9619803022718"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:45:32.315Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: d391aef79e0b6b2f8d2effad885a7f5f
-    staging_branch: staging/useminds
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=useminds
-    saved_previews: null
-    custom_domain: useminds.com
-    worker_pending_dns: false
-  - domain: sciencenewslab
-    company: ATL
-    vertical: Science
-    status: Live
-    site_id: "9619803022577"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:28:15.468Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 3bfb814dd3859bcc0c477a48d5cf8979
-    staging_branch: staging/sciencenewslab
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=sciencenewslab
-    saved_previews: null
-    custom_domain: sciencenewslab.com
-    worker_pending_dns: false
-  - domain: yogaterritory
-    company: NGC
-    vertical: Healthy Living
-    status: Live
-    site_id: "9619803022523"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:49:38.403Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 8a07bb95f686217de8d2eba14df9e49d
-    staging_branch: staging/yogaterritory
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=yogaterritory
-    saved_previews: null
-    custom_domain: yogaterritory.com
-    worker_pending_dns: false
-  - domain: medicalnewscorner
-    company: ATL
-    vertical: Medical Health
-    status: Live
-    site_id: "9619803022833"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:49:12.384Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: a1e23cdc660f91b3668c828e20ecab73
-    staging_branch: staging/medicalnewscorner
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=medicalnewscorner
-    saved_previews: null
-    custom_domain: medicalnewscorner.com
-    worker_pending_dns: false
-  - domain: soccernewsreports
-    company: ATL
-    vertical: Sports
-    status: Live
-    site_id: "9619803022620"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:36:28.912Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 61dc1f5d027aff2ed7c41143e36d2f62
-    staging_branch: staging/soccernewsreports
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=soccernewsreports
-    saved_previews: null
-    custom_domain: soccernewsreports.com
-    worker_pending_dns: false
-  - domain: tvshowbox
-    company: ATL
-    vertical: Entertainment
-    status: Live
-    site_id: "9619803022961"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:35:31.085Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: b36d98e663c258b9f79b86d67177bd3b
-    staging_branch: staging/tvshowbox
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=tvshowbox
-    saved_previews: null
-    custom_domain: tvshowbox.com
-    worker_pending_dns: false
-  - domain: gamingnewsalley
-    company: ATL
-    vertical: Video Gaming
-    status: Live
-    site_id: "9619803022750"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:34:29.077Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: d3463df1b33d25bfc852aee913adbe54
-    staging_branch: staging/gamingnewsalley
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gamingnewsalley
-    saved_previews: null
-    custom_domain: gamingnewsalley.com
-    worker_pending_dns: false
-  - domain: stroylab
-    company: NGC
-    vertical: Sensitive Topics
-    status: Live
-    site_id: "9619803022013"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:52:53.458Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: e1e15d629b5f5f3b78c85d58a3fe84fd
-    staging_branch: staging/stroylab
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=stroylab
-    saved_previews: null
-    custom_domain: stroylab.com
-    worker_pending_dns: false
-  - domain: mindsbit
-    company: ATL
-    vertical: Technology & Computing
-    status: Live
-    site_id: "9619803022122"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:52:06.403Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: d0b77cca61b51acdf4828c12a9f0b19e
-    staging_branch: staging/mindsbit
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=mindsbit
-    saved_previews: null
-    custom_domain: mindsbit.com
-    worker_pending_dns: false
-  - domain: tvshowsmag
-    company: ATL
-    vertical: Entertainment
-    status: Live
-    site_id: "9619803022904"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:37:41.662Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 2dda89173e44073c6d8bb0920a223efa
-    staging_branch: staging/tvshowsmag
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=tvshowsmag
-    saved_previews: null
-    custom_domain: tvshowsmag.com
-    worker_pending_dns: false
-  - domain: coffeeactually
-    company: null
-    vertical: Food & Drink
-    status: Live
-    site_id: "9619803022920"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:54:07.273Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: a1759edd477839bb7a752e0ecb61f570
-    staging_branch: staging/coffeeactually
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=coffeeactually
-    saved_previews: null
-    custom_domain: coffeeactually.com
-    worker_pending_dns: false
-  - domain: fashionnewsbee
-    company: ATL
-    vertical: Style & Fashion
-    status: Live
-    site_id: "9619803022473"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:38:47.072Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 54d34611609a5875145ffc3f2b05e5fb
-    staging_branch: staging/fashionnewsbee
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=fashionnewsbee
-    saved_previews: null
-    custom_domain: fashionnewsbee.com
-    worker_pending_dns: false
-  - domain: gigsfreaks
-    company: ATL
-    vertical: Entertainment
-    status: Live
-    site_id: "9619803022552"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:36:56.857Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: aa706fb538ef73dd9b15c812ebcec796
-    staging_branch: staging/gigsfreaks
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gigsfreaks
-    saved_previews: null
-    custom_domain: gigsfreaks.com
-    worker_pending_dns: false
-  - domain: travelnights
-    company: ATL
-    vertical: Travel
-    status: Live
-    site_id: "9619803022614"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T07:51:04.954Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 9443d2be7ff058c99f3e84c1bf803828
-    staging_branch: staging/travelnights
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelnights
-    saved_previews: null
-    custom_domain: travelnights.com
-    worker_pending_dns: false
-  - domain: geekystudios
-    company: ATL
-    vertical: Science
-    status: Live
-    site_id: "9619803022369"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:24:41.467Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 94c2242ad28f6db741238d042366a8b8
-    staging_branch: staging/geekystudios
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=geekystudios
-    saved_previews: null
-    custom_domain: geekystudios.com
-    worker_pending_dns: false
-  - domain: buzzsoaps
-    company: ATL
-    vertical: Entertainment
-    status: Live
-    site_id: "9619803022634"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:21:53.264Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 429ec6b25d6b7cd5c21d7ed42e1dec7c
-    staging_branch: staging/buzzsoaps
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=buzzsoaps
-    saved_previews: null
-    custom_domain: buzzsoaps.com
-    worker_pending_dns: false
-  - domain: medicalnewsalley
-    company: NGC
-    vertical: Medical Health
-    status: Live
-    site_id: "9619803022674"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:46:58.062Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: bdd9daefb4d8341d62948bb0fdbbda6a
-    staging_branch: staging/medicalnewsalley
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=medicalnewsalley
-    saved_previews: null
-    custom_domain: medicalnewsalley.com
-    worker_pending_dns: false
-  - domain: journeypeaks
-    company: ATL
-    vertical: Travel
-    status: Live
-    site_id: "9619803022405"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T07:49:32.968Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 09d5991a0deeaa899f1d4673a503afb0
-    staging_branch: staging/journeypeaks
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=journeypeaks
-    saved_previews: null
-    custom_domain: journeypeaks.com
-    worker_pending_dns: false
-  - domain: travelclearly
-    company: NGC
-    vertical: Travel
-    status: Live
-    site_id: "9619803022813"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:44:11.119Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 93d9255777843819ad7236889bb71b4d
-    staging_branch: staging/travelclearly
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelclearly
-    saved_previews: null
-    custom_domain: travelclearly.com
-    worker_pending_dns: false
-  - domain: paleobeasts
-    company: NGC
-    vertical: Food & Drink
-    status: Live
-    site_id: "9619803022267"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T08:43:34.477Z
-    created_at: 2026-05-24T10:50:03.022Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: c9c78880290f6088f6571421bbcba4b6
-    staging_branch: staging/paleobeasts
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=paleobeasts
-    saved_previews: null
-    custom_domain: paleobeasts.com
-    worker_pending_dns: false
   - domain: babyparenttrends
-    company: ATL
-    vertical: Family and Relationships
-    status: Live
-    site_id: "9619803022799"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:49:43.000Z
+    custom_domain: babyparenttrends.com
+    exclusivity: null
     fixed_ad: false
+    ga_info: null
     last_updated: 2026-05-26T08:51:45.154Z
-    created_at: 2026-05-24T10:50:03.022Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: a5e5c710ef2fa56f03b7a721a8216c51
-    staging_branch: staging/babyparenttrends
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=babyparenttrends
     saved_previews: null
-    custom_domain: babyparenttrends.com
-    worker_pending_dns: false
-  - domain: gadgetskoala
-    company: null
-    vertical: Technology & Computing
+    site_id: "9619803022799"
+    staging_branch: staging/babyparenttrends
     status: Live
-    site_id: "9619803022539"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    vertical: Family and Relationships
+    worker_pending_dns: false
+    zone_id: a5e5c710ef2fa56f03b7a721a8216c51
+  - domain: buzzsoaps
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:55.000Z
+    custom_domain: buzzsoaps.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-05-26T08:50:55.316Z
-    created_at: 2026-05-24T10:50:03.022Z
+    ga_info: null
+    last_updated: 2026-05-26T08:21:53.264Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: 636fe621f9245dbc231481f448049202
-    staging_branch: staging/gadgetskoala
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gadgetskoala
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=buzzsoaps
     saved_previews: null
-    custom_domain: gadgetskoala.com
-    worker_pending_dns: false
-  - domain: foreverhealty
-    company: null
-    vertical: Healthy Living
+    site_id: "9619803022634"
+    staging_branch: staging/buzzsoaps
     status: Live
-    site_id: "9797268749787"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-26T15:03:30.062Z
-    created_at: 2026-05-26T12:07:48.749Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: cdb808adaeb5e5f9ed6755a4f63aa26c
-    staging_branch: staging/foreverhealty
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=foreverhealty
-    saved_previews: null
-    custom_domain: foreverhealty.com
+    vertical: Entertainment
     worker_pending_dns: false
+    zone_id: 429ec6b25d6b7cd5c21d7ed42e1dec7c
   - domain: carsnewsinformer
-    company: null
-    vertical: Automotive
-    status: Live
-    site_id: "9801106869060"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
     cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-06-08T08:07:42.994Z
+    company: null
     created_at: 2026-05-26T13:11:46.869Z
+    custom_domain: carsnewsinformer.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-08T08:07:42.994Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: 5ccc0a8ccfd85b14c62bc7bdd2f116d4
-    staging_branch: staging/carsnewsinformer
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=carsnewsinformer
     saved_previews: null
-    custom_domain: carsnewsinformer.com
-    worker_pending_dns: false
-  - domain: travelingfoodie2
-    company: null
-    vertical: Travel
-    status: Staging
-    site_id: "0241167801477"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-31T15:26:07.801Z
-    created_at: 2026-05-31T15:26:07.801Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/travelingfoodie2
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelingfoodie2
-    saved_previews: null
-    custom_domain: null
-  - domain: aliensrus
-    company: null
-    vertical: Science
-    status: Staging
-    site_id: "0486296570218"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-06-04T15:18:40.132Z
-    created_at: 2026-06-03T11:31:36.570Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/aliensrus
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=aliensrus
-    saved_previews: null
-    custom_domain: null
-  - domain: dogslabs
-    company: null
-    vertical: Pets
-    status: Ready
-    site_id: "0825216357760"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-06-07T11:53:45.973Z
-    created_at: 2026-06-07T09:40:16.357Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: ac3f68c27638aa21ff3ad768ea19fff5
-    staging_branch: staging/dogslabs
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=dogslabs
-    saved_previews: null
-    custom_domain: dogslabs.com
-    worker_pending_dns: false
-  - domain: decoratinglabs
-    company: null
-    vertical: Home & Garden
+    site_id: "9801106869060"
+    staging_branch: staging/carsnewsinformer
     status: Live
-    site_id: "0834776971996"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    vertical: Automotive
+    worker_pending_dns: false
+    zone_id: 5ccc0a8ccfd85b14c62bc7bdd2f116d4
+  - domain: carsnewsmag
     cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:46:28.000Z
+    custom_domain: carsnewsmag.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-06-07T12:26:01.683Z
-    created_at: 2026-06-07T12:19:36.971Z
+    ga_info: null
+    last_updated: 2026-05-26T08:48:03.467Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: 6a2a58c227168c21632eba192904c845
-    staging_branch: staging/decoratinglabs
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=carsnewsmag
+    saved_previews: null
+    site_id: "9619803022781"
+    staging_branch: staging/carsnewsmag
+    status: Live
+    vertical: Automotive
+    worker_pending_dns: false
+    zone_id: 40bfa87923bf32f7ae54ea1688b4e3e1
+  - domain: chaibeseret
+    cf_apo: false
+    company: null
+    created_at: 2026-05-10T15:06:13.194Z
+    custom_domain: null
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-25T10:00:12.210Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=chaibeseret
+    saved_previews: null
+    site_id: "8425573195996"
+    staging_branch: staging/chaibeseret
+    status: Staging
+    vertical: Entertainment
+    zone_id: null
+  - domain: coffeeactually
+    cf_apo: false
+    company: null
+    created_at: 2026-05-24T10:48:32.000Z
+    custom_domain: coffeeactually.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:54:07.273Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=coffeeactually
+    saved_previews: null
+    site_id: "9619803022920"
+    staging_branch: staging/coffeeactually
+    status: Live
+    vertical: Food & Drink
+    worker_pending_dns: false
+    zone_id: a1759edd477839bb7a752e0ecb61f570
+  - domain: decoratinglabs
+    cf_apo: false
+    company: null
+    created_at: 2026-06-07T12:19:36.971Z
+    custom_domain: decoratinglabs.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-07T12:26:01.683Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=decoratinglabs
     saved_previews: null
-    custom_domain: decoratinglabs.com
-    worker_pending_dns: false
-  - domain: decotricksworld
-    company: null
-    vertical: Home & Garden
+    site_id: "0834776971996"
+    staging_branch: staging/decoratinglabs
     status: Live
-    site_id: "0852661304299"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    vertical: Home & Garden
+    worker_pending_dns: false
+    zone_id: 6a2a58c227168c21632eba192904c845
+  - domain: decoratingmom
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:46:42.000Z
+    custom_domain: decoratingmom.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-06-08T07:52:37.194Z
-    created_at: 2026-06-07T17:17:41.304Z
+    ga_info: null
+    last_updated: 2026-05-26T08:48:42.203Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: 215ab1c1c9686288694a85767d168116
-    staging_branch: staging/decotricksworld
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=decoratingmom
+    saved_previews: null
+    site_id: "9619803022491"
+    staging_branch: staging/decoratingmom
+    status: Live
+    vertical: Home & Garden
+    worker_pending_dns: false
+    zone_id: 7df27fd950bca5e6f3b1dfea61a5bfc8
+  - domain: decotricksworld
+    cf_apo: false
+    company: null
+    created_at: 2026-06-07T17:17:41.304Z
+    custom_domain: decortricksworld.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-08T07:52:37.194Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=decotricksworld
     saved_previews: null
-    custom_domain: decortricksworld.com
-    worker_pending_dns: false
-  - domain: gamerswiredaily
-    company: null
-    vertical: Video Gaming
+    site_id: "0852661304299"
+    staging_branch: staging/decotricksworld
     status: Live
-    site_id: "0853128699574"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-06-08T07:58:49.990Z
-    created_at: 2026-06-07T17:25:28.699Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: 2e2c90ac0aa7d2781285c6d3df18d127
-    staging_branch: staging/gamerswiredaily
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gamerswiredaily
-    saved_previews: null
-    custom_domain: gamerswiredaily.com
-    worker_pending_dns: false
-  - domain: diydecorschool
-    company: null
     vertical: Home & Garden
-    status: Live
-    site_id: "0861265875485"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    worker_pending_dns: false
+    zone_id: 215ab1c1c9686288694a85767d168116
+  - domain: diydecorschool
     cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-06-08T07:49:22.081Z
+    company: null
     created_at: 2026-06-07T19:41:05.875Z
+    custom_domain: diydecorschool.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-08T07:49:22.081Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: 67cd53d02707be87b94166d1053b2752
-    staging_branch: staging/diydecorschool
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=diydecorschool
     saved_previews: null
-    custom_domain: diydecorschool.com
-    worker_pending_dns: false
-  - domain: dramadispatch
-    company: null
-    vertical: Entertainment
+    site_id: "0861265875485"
+    staging_branch: staging/diydecorschool
     status: Live
-    site_id: "0862046684124"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    vertical: Home & Garden
+    worker_pending_dns: false
+    zone_id: 67cd53d02707be87b94166d1053b2752
+  - domain: dogslabs
     cf_apo: false
+    company: null
+    created_at: 2026-06-07T09:40:16.357Z
+    custom_domain: dogslabs.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-06-08T07:48:39.985Z
-    created_at: 2026-06-07T19:54:06.684Z
+    ga_info: null
+    last_updated: 2026-07-16T11:43:59.912Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: 6732dbe421c8e09bafddfdbc6878dccb
-    staging_branch: staging/dramadispatch
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=dogslabs
+    saved_previews: null
+    site_id: "0825216357760"
+    staging_branch: staging/dogslabs
+    status: Live
+    vertical: Pets
+    worker_pending_dns: false
+    zone_id: ac3f68c27638aa21ff3ad768ea19fff5
+  - domain: dramadispatch
+    cf_apo: false
+    company: NGC
+    created_at: 2026-06-07T19:54:06.684Z
+    custom_domain: dramadispatch.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-08T07:48:39.985Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=dramadispatch
     saved_previews: null
-    custom_domain: dramadispatch.com
-    worker_pending_dns: false
-  - domain: geekytraveler
-    company: null
-    vertical: Travel
+    site_id: "0862046684124"
+    staging_branch: staging/dramadispatch
     status: Live
-    site_id: "0863336576515"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: 6732dbe421c8e09bafddfdbc6878dccb
+  - domain: eznutritiontips
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:17.000Z
+    custom_domain: eznutritiontips.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-06-08T07:51:39.896Z
-    created_at: 2026-06-07T20:15:36.575Z
+    ga_info: null
+    last_updated: 2026-05-26T08:38:18.371Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: 2b6b43f22e3a8834a7079b7d74fead75
-    staging_branch: staging/geekytraveler
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=eznutritiontips
+    saved_previews: null
+    site_id: "9619803022251"
+    staging_branch: staging/eznutritiontips
+    status: Live
+    vertical: Food & Drink
+    worker_pending_dns: false
+    zone_id: 5caf2d452d92f4e00b5df2e393eee9c3
+  - domain: fashionnewsbee
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:33.000Z
+    custom_domain: fashionnewsbee.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:38:47.072Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=fashionnewsbee
+    saved_previews: null
+    site_id: "9619803022473"
+    staging_branch: staging/fashionnewsbee
+    status: Live
+    vertical: Style & Fashion
+    worker_pending_dns: false
+    zone_id: 54d34611609a5875145ffc3f2b05e5fb
+  - domain: foreverhealty
+    cf_apo: false
+    company: null
+    created_at: 2026-05-26T12:07:48.749Z
+    custom_domain: foreverhealty.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T15:03:30.062Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=foreverhealty
+    saved_previews: null
+    site_id: "9797268749787"
+    staging_branch: staging/foreverhealty
+    status: Live
+    vertical: Healthy Living
+    worker_pending_dns: false
+    zone_id: cdb808adaeb5e5f9ed6755a4f63aa26c
+  - domain: gadgetskoala
+    cf_apo: false
+    company: null
+    created_at: 2026-05-24T10:49:49.000Z
+    custom_domain: gadgetskoala.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:50:55.316Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gadgetskoala
+    saved_previews: null
+    site_id: "9619803022539"
+    staging_branch: staging/gadgetskoala
+    status: Live
+    vertical: Technology & Computing
+    worker_pending_dns: false
+    zone_id: 636fe621f9245dbc231481f448049202
+  - domain: gamerswiredaily
+    cf_apo: false
+    company: null
+    created_at: 2026-06-07T17:25:28.699Z
+    custom_domain: gamerswiredaily.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-08T07:58:49.990Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gamerswiredaily
+    saved_previews: null
+    site_id: "0853128699574"
+    staging_branch: staging/gamerswiredaily
+    status: Live
+    vertical: Video Gaming
+    worker_pending_dns: false
+    zone_id: 2e2c90ac0aa7d2781285c6d3df18d127
+  - domain: gamingnewsalley
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:51.000Z
+    custom_domain: gamingnewsalley.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:34:29.077Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gamingnewsalley
+    saved_previews: null
+    site_id: "9619803022750"
+    staging_branch: staging/gamingnewsalley
+    status: Live
+    vertical: Video Gaming
+    worker_pending_dns: false
+    zone_id: d3463df1b33d25bfc852aee913adbe54
+  - domain: geekystudios
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:49:58.000Z
+    custom_domain: geekystudios.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:24:41.467Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=geekystudios
+    saved_previews: null
+    site_id: "9619803022369"
+    staging_branch: staging/geekystudios
+    status: Live
+    vertical: Science
+    worker_pending_dns: false
+    zone_id: 94c2242ad28f6db741238d042366a8b8
+  - domain: geekytraveler
+    cf_apo: false
+    company: NGC
+    created_at: 2026-06-07T20:15:36.575Z
+    custom_domain: geekytraveler.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-08T07:51:39.896Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=geekytraveler
     saved_previews: null
-    custom_domain: geekytraveler.com
-    worker_pending_dns: false
-  - domain: thewonderkeepers
-    company: null
-    vertical: Family and Relationships
+    site_id: "0863336576515"
+    staging_branch: staging/geekytraveler
     status: Live
-    site_id: "0999026285733"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    vertical: Travel
+    worker_pending_dns: false
+    zone_id: 2b6b43f22e3a8834a7079b7d74fead75
+  - domain: giantsavings
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:49.000Z
+    custom_domain: giant-savings.co
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-06-09T10:07:09.419Z
-    created_at: 2026-06-09T09:57:06.285Z
+    ga_info: null
+    last_updated: 2026-05-26T08:46:01.461Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: f1689400699ed05572776cb2499eeea8
-    staging_branch: staging/thewonderkeepers
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=giantsavings
+    saved_previews: null
+    site_id: "9619803022375"
+    staging_branch: staging/giantsavings
+    status: Live
+    vertical: Personal Finance
+    worker_pending_dns: false
+    zone_id: 34134b23dd5812bfe3bf0b150b40734b
+  - domain: gigsfreaks
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:50:01.000Z
+    custom_domain: gigsfreaks.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:36:56.857Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=gigsfreaks
+    saved_previews: null
+    site_id: "9619803022552"
+    staging_branch: staging/gigsfreaks
+    status: Live
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: aa706fb538ef73dd9b15c812ebcec796
+  - domain: hiddenstorydaily
+    cf_apo: false
+    company: null
+    created_at: 2026-07-01T09:18:26.189Z
+    custom_domain: hiddenstorydaily.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-07-01T09:18:26.189Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=aliensrus
+    saved_previews: null
+    site_id: "0486296570218"
+    staging_branch: staging/hiddenstorydaily
+    status: Live
+    vertical: ""
+    zone_id: 1a8dfdaf5cba5d6a9d92a6bca8bd5cf2
+    worker_pending_dns: false
+  - domain: journeypeaks
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:47:55.000Z
+    custom_domain: journeypeaks.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T07:49:32.968Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=journeypeaks
+    saved_previews: null
+    site_id: "9619803022405"
+    staging_branch: staging/journeypeaks
+    status: Live
+    vertical: Travel
+    worker_pending_dns: false
+    zone_id: 09d5991a0deeaa899f1d4673a503afb0
+  - domain: medicalnewsalley
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:49:12.000Z
+    custom_domain: medicalnewsalley.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:46:58.062Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=medicalnewsalley
+    saved_previews: null
+    site_id: "9619803022674"
+    staging_branch: staging/medicalnewsalley
+    status: Live
+    vertical: Medical Health
+    worker_pending_dns: false
+    zone_id: bdd9daefb4d8341d62948bb0fdbbda6a
+  - domain: medicalnewscorner
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:46:46.000Z
+    custom_domain: medicalnewscorner.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:49:12.384Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=medicalnewscorner
+    saved_previews: null
+    site_id: "9619803022833"
+    staging_branch: staging/medicalnewscorner
+    status: Live
+    vertical: Medical Health
+    worker_pending_dns: false
+    zone_id: a1e23cdc660f91b3668c828e20ecab73
+  - domain: mindmedications
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:37.000Z
+    custom_domain: mindmedications.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:32:25.056Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=mindmedications
+    saved_previews: null
+    site_id: "9619803022655"
+    staging_branch: staging/mindmedications
+    status: Live
+    vertical: Healthy Living
+    worker_pending_dns: false
+    zone_id: 0820311d4e73c1deba307a9c09b2f4cb
+  - domain: mindsbit
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:47:37.000Z
+    custom_domain: mindsbit.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:52:06.403Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=mindsbit
+    saved_previews: null
+    site_id: "9619803022122"
+    staging_branch: staging/mindsbit
+    status: Live
+    vertical: Technology & Computing
+    worker_pending_dns: false
+    zone_id: d0b77cca61b51acdf4828c12a9f0b19e
+  - domain: muvizz
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:47:39.000Z
+    custom_domain: muvizz.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:41:54.225Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=muvizz
+    saved_previews: null
+    site_id: "9619803022539"
+    staging_branch: staging/muvizz
+    status: Live
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: a79d5035f207b2e51d14f0511347ff56
+  - domain: paleobeasts
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:47:18.000Z
+    custom_domain: paleobeasts.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:43:34.477Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=paleobeasts
+    saved_previews: null
+    site_id: "9619803022267"
+    staging_branch: staging/paleobeasts
+    status: Live
+    vertical: Food & Drink
+    worker_pending_dns: false
+    zone_id: c9c78880290f6088f6571421bbcba4b6
+  - domain: popnsnap
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:47:00.000Z
+    custom_domain: popnsnap.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:30:51.770Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=popnsnap
+    saved_previews: null
+    site_id: "9619803022462"
+    staging_branch: staging/popnsnap
+    status: Live
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: f0111c5b84d8950413595bf73302cd28
+  - domain: sciencenewslab
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:00.000Z
+    custom_domain: sciencenewslab.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:28:15.468Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=sciencenewslab
+    saved_previews: null
+    site_id: "9619803022577"
+    staging_branch: staging/sciencenewslab
+    status: Live
+    vertical: Science
+    worker_pending_dns: false
+    zone_id: 3bfb814dd3859bcc0c477a48d5cf8979
+  - domain: sillycapybara
+    cf_apo: false
+    company: NGC
+    created_at: 2026-06-28T07:58:19.000Z
+    custom_domain: sillycapybara.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-28T07:58:21.066Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=funnypigeon
+    saved_previews: null
+    site_id: "9619803022198"
+    staging_branch: staging/sillycapybara
+    status: Live
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: 6b3b8e5af30ee8da555bc81a6e020e8f
+  - domain: soccernewsreports
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:46:27.000Z
+    custom_domain: soccernewsreports.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:36:28.912Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=soccernewsreports
+    saved_previews: null
+    site_id: "9619803022620"
+    staging_branch: staging/soccernewsreports
+    status: Live
+    vertical: Sports
+    worker_pending_dns: false
+    zone_id: 61dc1f5d027aff2ed7c41143e36d2f62
+  - domain: stroylab
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:48:18.000Z
+    custom_domain: stroylab.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:52:53.458Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=stroylab
+    saved_previews: null
+    site_id: "9619803022013"
+    staging_branch: staging/stroylab
+    status: Live
+    vertical: Sensitive Topics
+    worker_pending_dns: false
+    zone_id: e1e15d629b5f5f3b78c85d58a3fe84fd
+  - domain: thewonderkeepers
+    cf_apo: false
+    company: null
+    created_at: 2026-06-09T09:57:06.285Z
+    custom_domain: thewonderkeepers.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-09T10:07:09.419Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
     preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=thewonderkeepers
     saved_previews: null
-    custom_domain: thewonderkeepers.com
+    site_id: "0999026285733"
+    staging_branch: staging/thewonderkeepers
+    status: Live
+    vertical: Family and Relationships
     worker_pending_dns: false
-deleted:
-  - domain: asaftest
-    company: null
-    vertical: Automotive
-    status: Staging
-    site_id: "0229437534407"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    zone_id: f1689400699ed05572776cb2499eeea8
+  - domain: travelbeautytips
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:46:26.000Z
+    custom_domain: travelbeautytips.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-05-31T12:10:37.534Z
-    created_at: 2026-05-31T12:10:37.534Z
+    ga_info: null
+    last_updated: 2026-05-26T08:31:48.868Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/asaftest
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=asaftest
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelbeautytips
     saved_previews: null
-    custom_domain: null
-    deleted_at: 2026-05-31T12:44:40.916Z
-  - domain: asaftours
-    company: null
+    site_id: "9619803022205"
+    staging_branch: staging/travelbeautytips
+    status: Live
+    vertical: Style & Fashion
+    worker_pending_dns: false
+    zone_id: a74d034aeb8306198c613c62162113da
+  - domain: travelclearly
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:47:20.000Z
+    custom_domain: travelclearly.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:44:11.119Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelclearly
+    saved_previews: null
+    site_id: "9619803022813"
+    staging_branch: staging/travelclearly
+    status: Live
     vertical: Travel
-    status: Staging
-    site_id: "0231720218296"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    worker_pending_dns: false
+    zone_id: 93d9255777843819ad7236889bb71b4d
+  - domain: travelingfoodie2
     cf_apo: false
+    company: null
+    created_at: 2026-05-31T15:26:07.801Z
+    custom_domain: null
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-05-31T12:48:40.218Z
-    created_at: 2026-05-31T12:48:40.218Z
+    ga_info: null
+    last_updated: 2026-05-31T15:26:07.801Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/asaftours
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=asaftours
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelingfoodie2
     saved_previews: null
-    custom_domain: null
-    deleted_at: 2026-05-31T13:19:38.348Z
-  - domain: asaftours2
-    company: null
+    site_id: "0241167801477"
+    staging_branch: staging/travelingfoodie2
+    status: Staging
     vertical: Travel
-    status: Staging
-    site_id: "0232792904327"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-05-31T13:06:32.904Z
-    created_at: 2026-05-31T13:06:32.904Z
-    pages_project: null
-    pages_subdomain: null
     zone_id: null
-    staging_branch: staging/asaftours2
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=asaftours2
-    saved_previews: null
-    custom_domain: null
-    deleted_at: 2026-05-31T15:20:09.059Z
-  - domain: travelingfoodie
-    company: null
-    vertical: ""
-    status: Staging
-    site_id: "0235416493877"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+  - domain: travelnights
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:49:31.000Z
+    custom_domain: travelnights.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-05-31T13:50:16.493Z
-    created_at: 2026-05-31T13:50:16.493Z
+    ga_info: null
+    last_updated: 2026-05-26T07:51:04.954Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/travelingfoodie
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelingfoodie
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelnights
     saved_previews: null
-    custom_domain: null
-    deleted_at: 2026-05-31T15:20:29.573Z
-  - domain: dogpotato
-    company: null
-    vertical: Pets
-    status: New
-    site_id: "9276876111062"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
+    site_id: "9619803022614"
+    staging_branch: staging/travelnights
+    status: Live
+    vertical: Travel
+    worker_pending_dns: false
+    zone_id: 9443d2be7ff058c99f3e84c1bf803828
+  - domain: travelswire
     cf_apo: false
+    company: ATL
+    created_at: 2026-05-17T12:45:12.446Z
+    custom_domain: travelswire.com
+    exclusivity: null
     fixed_ad: false
-    last_updated: 2026-06-11T08:59:34.172Z
-    created_at: 2026-05-20T11:34:36.110Z
+    ga_info: null
+    last_updated: 2026-05-27T15:17:30.481Z
+    ob_epid: null
     pages_project: null
     pages_subdomain: null
-    zone_id: c2ac5d91b16264db3a19aa4d779b601c
-    staging_branch: staging/dogpotato
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=dogpotato
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=travelswire
     saved_previews: null
-    custom_domain: null
-    worker_pending_dns: true
-    deleted_at: 2026-06-11T09:42:16.232Z
-history:
-  - domain: rumorumor
-    custom_domain: null
+    site_id: "9021912446684"
+    staging_branch: staging/travelswire
+    status: Live
+    vertical: Travel
+    worker_pending_dns: false
+    zone_id: 7145c5c82935b88a42cb95b22bb24009
+  - domain: trendscores
+    cf_apo: false
     company: null
+    created_at: 2026-06-17T11:16:08.132Z
+    custom_domain: trendscores.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-18T09:50:29.266Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=trendscores
+    saved_previews: null
+    site_id: "1694968132669"
+    staging_branch: staging/trendscores
+    status: Live
+    vertical: Sports
+    worker_pending_dns: false
+    zone_id: 5bc7a89cabea1359f4ef7b51d7d61056
+  - domain: tvshowbox
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:49:06.000Z
+    custom_domain: tvshowbox.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:35:31.085Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=tvshowbox
+    saved_previews: null
+    site_id: "9619803022961"
+    staging_branch: staging/tvshowbox
+    status: Live
     vertical: Entertainment
-    permanently_deleted_at: 2026-06-11T08:59:17.283Z
-  - domain: decoratingnerds
-    custom_domain: null
-    company: null
-    vertical: Home & Garden
-    permanently_deleted_at: 2026-06-11T09:00:39.870Z
-  - domain: travelgeekexplorer
-    custom_domain: null
-    company: null
-    vertical: Travel
-    permanently_deleted_at: 2026-06-11T09:01:35.851Z
-  - domain: gamerinformers
-    custom_domain: null
-    company: null
-    vertical: Video Gaming
-    permanently_deleted_at: 2026-06-11T09:41:38.549Z
-  - domain: decoratingtricks
-    custom_domain: null
-    company: null
-    vertical: Home & Garden
-    permanently_deleted_at: 2026-06-11T09:41:48.404Z
-  - domain: homedecoracademy
-    custom_domain: null
-    company: null
-    vertical: Home & Garden
-    permanently_deleted_at: 2026-06-11T09:41:57.007Z
+    worker_pending_dns: false
+    zone_id: b36d98e663c258b9f79b86d67177bd3b
+  - domain: tvshowsmag
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:47:41.000Z
+    custom_domain: tvshowsmag.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:37:41.662Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=tvshowsmag
+    saved_previews: null
+    site_id: "9619803022904"
+    staging_branch: staging/tvshowsmag
+    status: Live
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: 2dda89173e44073c6d8bb0920a223efa
+  - domain: useminds
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:47:24.000Z
+    custom_domain: useminds.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:45:32.315Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=useminds
+    saved_previews: null
+    site_id: "9619803022718"
+    staging_branch: staging/useminds
+    status: Live
+    vertical: Science
+    worker_pending_dns: false
+    zone_id: d391aef79e0b6b2f8d2effad885a7f5f
+  - domain: wineoceans
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-19T10:16:57.424Z
+    custom_domain: wineoceans.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-27T15:04:18.580Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=wineoceans
+    saved_previews: null
+    site_id: "9185817424590"
+    staging_branch: staging/wineoceans
+    status: Live
+    vertical: Food & Drink
+    worker_pending_dns: false
+    zone_id: cd32ea96eda7142121100997b8576cee
+  - domain: womendivision
+    cf_apo: false
+    company: ATL
+    created_at: 2026-05-24T10:48:12.000Z
+    custom_domain: womendivision.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:50:06.859Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=womendivision
+    saved_previews: null
+    site_id: "9619803022413"
+    staging_branch: staging/womendivision
+    status: Live
+    vertical: Healthy Living
+    worker_pending_dns: false
+    zone_id: d6cd6507f7ae77681055b4a69deef368
+  - domain: wtpop
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-13T10:55:32.505Z
+    custom_domain: wtpop.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:39:16.990Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=wtpop
+    saved_previews: null
+    site_id: "8669732505132"
+    staging_branch: staging/wtpop
+    status: Live
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: 24bb22d14d9c0ca33e865c3790a70794
+  - domain: yogaterritory
+    cf_apo: false
+    company: NGC
+    created_at: 2026-05-24T10:46:47.000Z
+    custom_domain: yogaterritory.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-05-26T08:49:38.403Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=yogaterritory
+    saved_previews: null
+    site_id: "9619803022523"
+    staging_branch: staging/yogaterritory
+    status: Live
+    vertical: Healthy Living
+    worker_pending_dns: false
+    zone_id: 8a07bb95f686217de8d2eba14df9e49d
+deleted: []

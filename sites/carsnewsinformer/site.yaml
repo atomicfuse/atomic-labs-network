@@ -1,10 +1,6 @@
-domain: carsnewsinformer.com
-site_name: carnewsinformer
-site_tagline: null
-author: Max Scott
-groups: []
+domain: carsnewsinformer
 active: true
-bundle_id: 6a159c0e16f23264031d8231
+author: Max Scott
 brief:
   audiences:
     - Automotive enthusiasts
@@ -18,7 +14,7 @@ brief:
     - News
     - Electric Cars
     - Reviews
-    - Industry
+    - Off-roading
     - Concept Cars
   seo_keywords_focus:
     - News
@@ -31,21 +27,94 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Automotive
   vertical_id: 6a00793d1104bbff809b7c1a
-  category_ids:
-    - 6a00793d1104bbff809b7c1a
-    - 6a00793d1104bbff809b7c94
-    - 6a00793d1104bbff809b7c98
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Automotive insights and industry reports** — vehicle safety recalls, market shifts, consumer buying advice, and emerging automotive technology."
+  topics_v2:
+    - name: News
+      description: news about cars and other Vehicles new in the world
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793f1104bbff809b7ee5
+          - 6a00793e1104bbff809b7ca6
+          - 6a00793d1104bbff809b7c96
+        tag_ids: []
+    - name: Electric Cars
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c98
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793f1104bbff809b7ee5
+          - 6a00793f1104bbff809b7f0f
+        tag_ids: []
+    - name: Reviews
+      description: cars and automotive reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793f1104bbff809b7ee5
+          - 6a00793e1104bbff809b7ca0
+          - 6a00793e1104bbff809b7ca6
+        tag_ids:
+          - 6a140c7216f23264031d7cd7
+          - 6a007aebe9d30be04c0c6008
+    - name: Off-roading
+      description: off roading cars, jeeps, tracks
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c8a
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793f1104bbff809b7e67
+          - 6a00793f1104bbff809b7eb9
+        tag_ids:
+          - 6a0b1eeea53fcab94b3649a6
+          - 6a0b1eeea53fcab94b3649a8
+    - name: Concept Cars
+      description: new concept cars
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c94
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793f1104bbff809b7ee5
+          - 6a00793d1104bbff809b7c96
+        tag_ids:
+          - 6a13f95216f23264031d7b11
+          - 6a0bc5c616f23264031d7779
+          - 6a007aebe9d30be04c0c6008
+          - 6a034b0f86fcaaeb5bc8346e
+groups:
+  - blacklist
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: carnewsinformer
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -86,24 +155,6 @@ theme:
   logo_height_footer: 88
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-0JHHQBL15H
   gtm: GT-M3K4NGSR

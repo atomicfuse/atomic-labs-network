@@ -1,0 +1,193 @@
+domain: sillycapybara
+active: true
+author: Andrew Gray
+brief:
+  audiences:
+    - Entertainment enthusiasts
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Funny Videos
+    - Memes
+    - Viral
+    - Animals
+    - Odd News
+  seo_keywords_focus:
+    - Funny Videos
+    - Memes
+    - Viral
+    - Animals
+    - Odd News
+  content_guidelines:
+    - Focus on Entertainment content
+    - Maintain an engaging, reader-friendly tone
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Sunday
+    preferred_time: 10:00
+  theme: funny memes, fails, jokes and trends
+  topics_v2:
+    - name: Funny Videos
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+        tag_ids:
+          - 6a044ccf86fcaaeb5bc83879
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0b340bac596b621e93560c
+          - 6a0fdd1516f23264031d79e5
+          - 6a0fdf8c16f23264031d7a20
+          - 6a044d0086fcaaeb5bc838ac
+          - 6a2256b0ad9a1dd21ebb6850
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+    - name: Memes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a0b340bac596b621e93560c
+          - 6a044ccf86fcaaeb5bc83879
+          - 6a044f2886fcaaeb5bc838b5
+          - 6a0fdf8c16f23264031d7a20
+          - 6a2256b0ad9a1dd21ebb6850
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+    - name: Viral
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a00793d1104bbff809b7c6e
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0b340bac596b621e93560c
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a0430f786fcaaeb5bc83651
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+    - name: Animals
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c59
+        tag_ids:
+          - 6a044ced86fcaaeb5bc838a5
+          - 6a0b340bac596b621e93560c
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a044f3986fcaaeb5bc838c4
+          - 6a0fdd1516f23264031d79e4
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a044ccf86fcaaeb5bc8387b
+          - 6a044f4986fcaaeb5bc838d3
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+    - name: Odd News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c29
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a237248ad9a1dd21ebb68d1
+          - 6a033d1786fcaaeb5bc83378
+          - 6a27b1f7eb470600f9705535
+          - 6a27a3c3eb470600f9705418
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Tuesday
+  audience_type_ids: []
+groups:
+  - ncg
+  - blacklist
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: sillycapybara
+site_tagline: null
+theme:
+  base: modern
+  colors:
+    primary: "#1e3a5f"
+    accent: "#06b6d4"
+    background: "#f4f7f9"
+    secondary: "#0c1f33"
+    text: "#0c1f33"
+    muted: "#6b8095"
+    surface: "#e3ecf2"
+    border: "#cbd9e3"
+    heading: "#0c1f33"
+    link: "#1e3a5f"
+    link_hover: "#06b6d4"
+    nav_link: "#f4f7f9"
+    nav_link_hover: "#67e8f9"
+    footer_bg: "#0c1f33"
+    must_reads_bg: "#0c1f33"
+    hero_title: "#f4f7f9"
+    must_reads_title: "#f4f7f9"
+    article_hero_title: "#f4f7f9"
+    article_hero_meta: "#94a8bc"
+    feed_title: "#0c1f33"
+    feed_desc: "#1e3a5f"
+    feed_date: "#6b8095"
+    prose_heading: "#0c1f33"
+    prose_body: "#1e3a5f"
+    category_header_text: "#f4f7f9"
+    subscribe_heading: "#1e3a5f"
+    footer_text: "#94a8bc"
+    footer_heading: "#f4f7f9"
+    footer_link: "#94a8bc"
+    footer_link_hover: "#67e8f9"
+  fonts:
+    heading: DM Sans
+    body: DM Sans
+  logo_height: 84
+  logo_height_footer: 96
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  menu_item_font_size: 18
+tracking:
+  ga4: G-EB5B4HTGFF
+  gtm: GT-KF6XKCXT
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

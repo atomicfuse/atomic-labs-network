@@ -1,0 +1,203 @@
+domain: trendscores
+active: true
+author: Nathan Foster
+brief:
+  audiences: []
+  tone: ""
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Latest News
+    - Matches
+    - Teams
+    - Standings
+    - Host Cities
+    - Fan Zone
+  theme: all about Fifa world cup 2026, standings, matches, teams, hosting cities and fan zone
+  topics_v2:
+    - name: Latest News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c71
+          - 6a0079401104bbff809b7fd7
+          - 6a00793d1104bbff809b7c35
+        tag_ids:
+          - 6a30af5332676a5c75e451bf
+          - 6a29c3a67da23de6325b9a50
+          - 6a23acef40722bf12ccf988d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Sunday
+    - name: Matches
+      description: fifa world cup 2026 matches and games
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c71
+          - 6a00793f1104bbff809b7e6b
+          - 6a00793f1104bbff809b7ebb
+        tag_ids:
+          - 6a29c3a67da23de6325b9a50
+          - 6a30af5332676a5c75e451bf
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Sunday
+    - name: Teams
+      description: world cup 2026 teams
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+          - 6a00793f1104bbff809b7e6b
+          - 6a00793f1104bbff809b7ebb
+          - 6a00793d1104bbff809b7c71
+        tag_ids:
+          - 6a29c3a67da23de6325b9a50
+          - 6a30af5332676a5c75e451bf
+          - 6a33b81932676a5c75e455ce
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Sunday
+    - name: Standings
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c71
+        tag_ids:
+          - 6a29c3a67da23de6325b9a50
+          - 6a30af5332676a5c75e451bf
+          - 6a33b79132676a5c75e455b3
+          - 6a33b81932676a5c75e455ce
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Sunday
+    - name: Host Cities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c35
+        tag_ids:
+          - 6a29c3a67da23de6325b9a50
+          - 6a0bc5c616f23264031d7779
+          - 6a30af5332676a5c75e451bf
+          - 6a33b79132676a5c75e455b3
+          - 6a33b81932676a5c75e455ce
+          - 6a1831cb0fc9210eaf31ab20
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Sunday
+    - name: Fan Zone
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e7b
+          - 6a00793d1104bbff809b7c71
+          - 6a00793d1104bbff809b7c35
+          - 6a0079401104bbff809b7fd7
+        tag_ids:
+          - 6a29c3a67da23de6325b9a50
+          - 6a0bc5c616f23264031d7779
+          - 6a30af5332676a5c75e451bf
+          - 6a042c6686fcaaeb5bc8359c
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Sunday
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Sports
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Thursday
+    preferred_time: 10:00
+  audience_type_ids: []
+  vertical_id: 6a00793d1104bbff809b7c71
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: trendscores
+site_tagline: null
+theme:
+  base: botanical
+  colors:
+    primary: "#020617"
+    accent: "#15803d"
+    background: "#020617"
+    secondary: "#020617"
+    text: "#86efac"
+    muted: "#4ade80"
+    surface: "#0a1f15"
+    border: "#0f2e1e"
+    heading: "#86efac"
+    link: "#4ade80"
+    link_hover: "#bbf7d0"
+    nav_link: "#86efac"
+    nav_link_hover: "#bbf7d0"
+    footer_bg: "#020617"
+    must_reads_bg: "#0a1f15"
+    hero_title: "#bbf7d0"
+    must_reads_title: "#bbf7d0"
+    article_hero_title: "#bbf7d0"
+    article_hero_meta: "#4ade80"
+    feed_title: "#86efac"
+    feed_desc: "#4ade80"
+    feed_date: "#22c55e"
+    prose_heading: "#86efac"
+    prose_body: "#bbf7d0"
+    category_header_text: "#bbf7d0"
+    subscribe_heading: "#020617"
+    footer_text: "#4ade80"
+    footer_heading: "#86efac"
+    footer_link: "#4ade80"
+    footer_link_hover: "#bbf7d0"
+    header_bg_gradient: "linear-gradient(90deg, #020617 0%, #064e3b 50%, #020617 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #14532d 0%, #16a34a 50%, #14532d 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #020617 0%, #064e3b 50%, #020617 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #020617 0%, #14532d 50%, #020617 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(22,163,74,0.15) 50%, rgba(2,6,23,0.92) 100%)
+  logo_height: 58
+  fonts:
+    heading: Manrope
+    body: Manrope
+  logo_height_footer: 78
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+tracking:
+  ga4: G-Y8EB0LDEEQ
+  gtm: GT-K8HBM2Q2
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

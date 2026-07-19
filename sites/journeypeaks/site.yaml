@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
   theme: traveling blog with destination reviews, tips and recommendations
@@ -62,8 +59,8 @@ brief:
           - 6a033f7c86fcaaeb5bc833d5
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: Destinations
       source:
         type: filter
@@ -78,7 +75,8 @@ brief:
           - 6a033f6886fcaaeb5bc833ba
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Travel Tips
       source:
         type: filter
@@ -94,7 +92,8 @@ brief:
           - 6a277727eb470600f97052fa
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Food & Drink
       source:
         type: filter
@@ -111,7 +110,8 @@ brief:
           - 6a1e3f039bf3ecf115d9828f
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Lifestyle
       source:
         type: filter
@@ -130,7 +130,8 @@ brief:
           - 6a044f2986fcaaeb5bc838b8
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:

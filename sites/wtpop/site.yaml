@@ -1,10 +1,6 @@
-domain: wtpop.com
-site_name: wtpop
-site_tagline: null
-author: Rachel Long
-groups:
-  - ncg
+domain: wtpop
 active: true
+author: Rachel Long
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -35,16 +31,9 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
-  theme: "a pop-culture/entertainment site, but I couldn’t verify indexed content
-    for that exact domain; search results mostly surfaced WTOP, a Washington
-    D.C. news site, which may be unrelated. Best provisional filters: celebrity
-    news, viral culture, music, TV, movies, social media trends, and
-    entertainment explainers."
+  theme: "a pop-culture/entertainment site, but I couldn’t verify indexed content for that exact domain; search results mostly surfaced WTOP, a Washington D.C. news site, which may be unrelated. Best provisional filters: celebrity news, viral culture, music, TV, movies, social media trends, and entertainment explainers."
   topics_v2:
     - name: Celebrities
       source:
@@ -61,8 +50,8 @@ brief:
           - 6a0451f786fcaaeb5bc83921
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Friday
     - name: Fashion
       source:
         type: filter
@@ -78,7 +67,8 @@ brief:
           - 6a27778eeb470600f9705318
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: Influencers
       source:
         type: filter
@@ -95,28 +85,22 @@ brief:
           - 6a0b34dbac596b621e93564e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
     - name: Music
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c32
-          - 6a0079401104bbff809b7fe1
-          - 6a0079401104bbff809b7ff1
-          - 6a0079401104bbff809b7fe7
-          - 6a0079401104bbff809b7fef
+          - 6a0079401104bbff809b7ff9
+          - 6a0079401104bbff809b8009
+          - 6a0079401104bbff809b7fed
         tag_ids:
           - 6a14ffd716f23264031d8079
-          - 6a0bc82716f23264031d77be
-          - 6a04563c86fcaaeb5bc8396a
-          - 6a1520b616f23264031d813e
-          - 6a1520cf16f23264031d8149
-          - 6a0be65716f23264031d7846
-          - 6a0be87e16f23264031d7871
-          - 6a14034416f23264031d7c72
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a008aba2a0a294c696af843
+          - 6a008aba2a0a294c696af844
+          - 6a1e5dad9bf3ecf115d98326
+          - 6a1e5b209bf3ecf115d982d3
     - name: TV & Movies
       source:
         type: filter
@@ -132,7 +116,30 @@ brief:
           - 6a27799eeb470600f970534e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Friday
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: wtpop
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -173,21 +180,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 62
   logo_height_footer: 90
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
+tracking:
+  ga4: G-MKZ9K6KE2X
+  gtm: GT-KFGWKCKD
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

@@ -35,10 +35,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   theme: games, trends, pop culture and technology
   topics_v2:
@@ -59,8 +56,8 @@ brief:
           - 6a0155762a0a294c696af91b
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Pop Culture
       source:
         type: filter
@@ -76,7 +73,8 @@ brief:
           - 6a044aaf86fcaaeb5bc83867
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Trends
       source:
         type: filter
@@ -94,7 +92,8 @@ brief:
           - 6a15022716f23264031d80ac
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Lifestyle
       source:
         type: filter
@@ -114,7 +113,8 @@ brief:
           - 6a0b1eeea53fcab94b3649a9
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Tutorials
       source:
         type: filter
@@ -131,7 +131,8 @@ brief:
           - 6a142d2e16f23264031d7f78
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
 theme:
   base: modern
   colors:

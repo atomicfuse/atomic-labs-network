@@ -1,11 +1,9 @@
 ---
 title: Royal Caribbean's Legend of the Seas Sets Sail for 2026 Debut
-description: >-
-  Royal Caribbean takes delivery of Legend of the Seas from Meyer Turku Shipyard
-  ahead of July 2026 launch, offering Mediterranean and Caribbean itineraries.
+description: Royal Caribbean takes delivery of Legend of the Seas from Meyer Turku Shipyard ahead of July 2026 launch, offering Mediterranean and Caribbean itineraries.
 type: standard
-status: review
-publishDate: '2026-06-15'
+status: published
+publishDate: 2026-06-15
 author: Max Ward
 tags:
   - Travel Tips
@@ -14,12 +12,8 @@ tags:
   - mediterranean
   - caribbean
 slug: royal-caribbean-legend-of-seas-2026-debut
-reviewer_notes: >-
-  The article suffers from major factual inaccuracies (Legend of the Seas
-  already exists since 1995), is too short for site guidelines, and doesn't
-  match the beauty/fashion focus of the target audience.
-source_url: >-
-  https://www.travelpulse.com/news/cruise/royal-caribbean-takes-delivery-of-legend-of-the-seas
+reviewer_notes: Approved via review queue.
+source_url: https://www.travelpulse.com/news/cruise/royal-caribbean-takes-delivery-of-legend-of-the-seas
 source_item_id: 6a29c2447da23de6325b9a21
 generated_by: claude
 featuredImage: /assets/images/royal-caribbean-legend-of-seas-2026-debut.webp
@@ -30,16 +24,11 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 20
   keyword_relevance: 40
-quality_note: >-
-  The article suffers from major factual inaccuracies (Legend of the Seas
-  already exists since 1995), is too short for site guidelines, and doesn't
-  match the beauty/fashion focus of the target audience.
+quality_note: The article suffers from major factual inaccuracies (Legend of the Seas already exists since 1995), is too short for site guidelines, and doesn't match the beauty/fashion focus of the target audience.
 reading_time: 2
 topics:
   - Travel Tips
-image_alt: >-
-  Unbranded cruise ship sailing at twilight with travel planning items on a
-  balcony rail
+image_alt: Unbranded cruise ship sailing at twilight with travel planning items on a balcony rail
 ---
 ## New Ship Joins Royal Caribbean Fleet
 

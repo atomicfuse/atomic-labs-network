@@ -1,9 +1,6 @@
-domain: gamerswiredaily.com
-site_name: gamerswiredaily
-site_tagline: null
-author: Leo Long
-groups: []
+domain: gamerswiredaily
 active: true
+author: Leo Long
 brief:
   audiences: []
   tone: ""
@@ -22,36 +19,55 @@ brief:
     - name: Game Reviews
       source:
         type: filter
-        category_ids: []
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fab
         tag_ids: []
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Tuesday
     - name: Gaming News
       source:
         type: filter
-        category_ids: []
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fab
         tag_ids: []
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Tips & Strategies
       source:
         type: filter
-        category_ids: []
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fab
         tag_ids: []
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
     - name: Industry Updates
       source:
         type: filter
-        category_ids: []
+        category_ids:
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7ee1
+          - 6a00793f1104bbff809b7f29
+          - 6a00793f1104bbff809b7eff
         tag_ids: []
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Tuesday
   seo_keywords_focus: []
   content_guidelines:
     - Focus on Video Gaming content
@@ -60,9 +76,31 @@ brief:
   vertical_id: 6a00793d1104bbff809b7c7d
   review_percentage: 5
   schedule:
-    articles_per_day: 1
-    preferred_days: *a1
+    articles_per_day: 2
+    preferred_days:
+      - Wednesday
     preferred_time: 10:00
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: gamerswiredaily
+site_tagline: null
 theme:
   base: pink_glow
   colors:
@@ -96,34 +134,21 @@ theme:
     footer_heading: "#fce7f3"
     footer_link: "#d8b4d8"
     footer_link_hover: "#f472b6"
-    header_bg_gradient: "linear-gradient(135deg, #180a25 0%, #831843 30%, #db2777
-      50%, #831843 70%, #180a25 100%)"
+    header_bg_gradient: "linear-gradient(135deg, #180a25 0%, #831843 30%, #db2777 50%, #831843 70%, #180a25 100%)"
     subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be185d 50%, #db2777 100%)"
     footer_bg_gradient: "linear-gradient(180deg, #831843 0%, #4a0e2a 50%, #0e051a 100%)"
     must_reads_bg_gradient: "linear-gradient(135deg, #4a0e2a 0%, #831843 50%, #4a0e2a 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
-      rgba(219,39,119,0.15) 50%, rgba(24,10,37,0.92) 100%)
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(219,39,119,0.15) 50%, rgba(24,10,37,0.92) 100%)
   logo_height: 52
   fonts:
     heading: Playfair Display
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
+tracking:
+  ga4: G-7RR761CYYB
+  gtm: GT-5R7T36Q3
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

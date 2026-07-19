@@ -1,9 +1,6 @@
-domain: decoratinglabs.com
-site_name: DecoratingLabs
-site_tagline: null
-author: Nora Rodriguez
-groups: []
+domain: decoratinglabs
 active: true
+author: Nora Rodriguez
 brief:
   audiences: []
   tone: ""
@@ -143,18 +140,40 @@ brief:
   vertical_id: 6a00793d1104bbff809b7c4a
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 2
     preferred_days:
-      - Monday
+      - Wednesday
     preferred_time: 10:00
   audience_type_ids: []
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: DecoratingLabs
+site_tagline: null
 theme:
   base: ocean
   colors:
     primary: "#1a1b2e"
     accent: "#c81e3b"
     background: "#0f111c"
-    secondary: "#ffffff"
+    secondary: "#252845"
     text: "#e0e6f0"
     muted: "#9aa3b8"
     surface: "#1f2138"
@@ -181,28 +200,18 @@ theme:
     footer_heading: "#f0f3f8"
     footer_link: "#9aa3b8"
     footer_link_hover: "#e94560"
-  logo_height: 56
+  logo_height: 60
   fonts:
     heading: Manrope
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-  logo_height_footer: 66
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
+  logo_height_footer: 70
+  menu_item_font_size: 16
+tracking:
+  ga4: G-SN5HPBJSES
+  gtm: GT-KFHGV5NP
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
