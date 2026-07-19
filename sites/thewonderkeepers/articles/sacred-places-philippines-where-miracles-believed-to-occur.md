@@ -19,7 +19,7 @@ source_url: >-
   https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1p0UG9sNFRaUHBlRVMwM3BzbW1OU214S1NZa3RHR3NsZVJyNDdwVGdqOEFCMzJCbzlUYTBYT2lxeU1JTmpFN2VXbDd3a0tBUmpjcjNvSTh1UFpzVmJOVnF5dllGSXEzeXExUjFTeVdQNzFGbHl5dFBNa0I3anY3bi1ELVNVRXJvaFAwTkN3LWxBc0Jfc1AyTnhUQ0ROX003ZzJEUWtwY2F6WmtSRkVzVU54VmxGLVlKak5mQ0tidkFLZi1hM0ZQaGt1amHSAdIBQVVfeXFMTXF0ZkRESEJSbENLa3lhSlp4WEtVemdoQVZzSTg2RkRnYkM4RFZlZWJyenNjWW5NYVV0M0syVF9yR3hjRGRGRXd0YXZseU5obkNJUEhFZ2dWeEFjSGN5VmtFWXAwT3VKdEhNemtmVml1TlRCRVBTTTU1cDVYYTdlQy1POThZWENjY00zNWlsUm1BMVk5VzNoZkFKTGh0dVhiZjk0cWhhTWlob0w2NGFHYUlxbnotVDU0MTZsclYxZE1RdWlUX3RGS3dncTNGTkZFYXN3?oc=5
 source_item_id: 6a43b65eb38c8d71670c62df
 generated_by: claude
-featuredImage: /assets/images/thewonderkeepers-general-article.webp
+featuredImage: /assets/images/sacred-places-philippines-where-miracles-believed-to-occur.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Wonder
+image_alt: Pilgrims walk toward a misty hilltop chapel at sunrise in the Philippines.
 ---
 There are places in the world where something shifts — where the air feels different, where people arrive carrying the weight of what they cannot fix alone, and where some of them leave believing something extraordinary happened. In the Philippines, a country where faith runs deep and quietly through everyday life, several sites have become known over generations as places where miracles are believed to have occurred.
 

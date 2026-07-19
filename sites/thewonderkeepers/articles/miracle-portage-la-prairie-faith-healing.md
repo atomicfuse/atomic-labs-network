@@ -18,7 +18,7 @@ source_url: >-
   https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVRCWGJjOWV0V09wTDRYdldXY0t6MGY0d2xwVTZod3VMYVNYQVRFVkMzLU45SW1qdGx0RWlkSUthNnFORTROTTF6LV8zbkpvSG5SMHJ4bW1samNJdU5xcjZ0QWtralBEd2NoT2xMTXpubTJJd1h0aU4wcVV0NVlNZVJKVGFNSEQ3S2hpamdiZTRPd0FGM1FpVHlxUmhLNlQzeXBjSnN5SkpGSi1RWXI5MWRn?oc=5
 source_item_id: 6a43b65eb38c8d71670c62d9
 generated_by: openai
-featuredImage: /assets/images/thewonderkeepers-general-article.webp
+featuredImage: /assets/images/miracle-portage-la-prairie-faith-healing.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Wisdom
+image_alt: >-
+  Family stands together at sunrise beside a prairie field and quiet river,
+  suggesting hope and healing.
 ---
 TL;DR: A Portage la Prairie family experienced a miraculous healing journey shaped by faith, community support, and resilience. Their story is a powerful reminder of hope in adversity.
 
