@@ -1,10 +1,6 @@
-domain: stroylab.com
-site_name: stroylab
-site_tagline: null
-author: Sarah Bennett
-groups:
-  - ncg
+domain: stroylab
 active: true
+author: Sarah Bennett
 brief:
   audiences:
     - Sensitive Topics enthusiasts
@@ -35,13 +31,9 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
-  theme: a site about conspiracy, the unexplained, mystery, from the pyramids, to
-    murder stories.
+  theme: a site about conspiracy, the unexplained, mystery, from the pyramids, to murder stories.
   topics_v2:
     - name: Conspiracies
       source:
@@ -61,7 +53,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Wednesday
+          - Thursday
     - name: Dark History
       source:
         type: filter
@@ -81,26 +73,26 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Wednesday
+          - Thursday
     - name: Deep Dives
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c29
+          - 6a00793d1104bbff809b7c68
           - 6a00793d1104bbff809b7c2c
         tag_ids:
           - 6a03361286fcaaeb5bc83259
           - 6a17dfc68c60bc3c84eb2e0e
-          - 6a14158a16f23264031d7d4a
+          - 6a237248ad9a1dd21ebb68d1
+          - 6a033d1786fcaaeb5bc83378
+          - 6a033d0b86fcaaeb5bc8336d
+          - 6a201961ad9a1dd21ebb6620
           - 6a1448e216f23264031d800c
-          - 6a1448e216f23264031d800d
-          - 6a0335fa86fcaaeb5bc8323c
-          - 6a033d1786fcaaeb5bc83379
-          - 6a17dfc68c60bc3c84eb2e0a
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Monday
+          - Thursday
     - name: Mysteries
       source:
         type: filter
@@ -119,7 +111,7 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Tuesday
+          - Thursday
     - name: Unsolved Cases
       source:
         type: filter
@@ -138,7 +130,28 @@ brief:
       schedule:
         articles_per_week: 1
         preferred_days:
-          - Wednesday
+          - Thursday
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: stroylab
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -179,24 +192,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 64
   logo_height_footer: 90
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-EGE526M2PL
   gtm: GT-WR9QPQFL

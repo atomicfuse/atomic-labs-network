@@ -1,11 +1,6 @@
-domain: giant-savings.co
-site_name: giant-savings
-site_tagline: null
-author: Olivia Morgan
-groups:
-  - atl
+domain: giantsavings
 active: true
-bundle_id: 6a12d78416f23264031d7a5b
+author: Olivia Morgan
 brief:
   audiences:
     - Personal Finance enthusiasts
@@ -32,19 +27,126 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Personal Finance
   vertical_id: 6a00793d1104bbff809b7c56
-  category_ids:
-    - 6a00793d1104bbff809b7c56
-    - 6a00793e1104bbff809b7da9
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
+  theme: "**Smart shopping and frugal living** — budget tips, discount codes, retail sales, and personal finance hacks to maximize savings."
+  topics_v2:
+    - name: Saving Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e29
+          - 6a00793f1104bbff809b7e37
+          - 6a00793d1104bbff809b7c56
+          - 6a00793f1104bbff809b7f09
+        tag_ids:
+          - 6a034da986fcaaeb5bc834e7
+          - 6a034b0f86fcaaeb5bc8346f
+          - 6a03361486fcaaeb5bc83261
+          - 6a008e372a0a294c696af86c
+    - name: Budgeting
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793f1104bbff809b7ef1
+          - 6a00793f1104bbff809b7f03
+          - 6a00793f1104bbff809b7f09
+        tag_ids:
+          - 6a008e372a0a294c696af86c
+          - 6a034da986fcaaeb5bc834e7
+          - 6a034fb086fcaaeb5bc834f1
+    - name: Grocery Savings
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7e2f
+          - 6a00793e1104bbff809b7e29
+          - 6a00793f1104bbff809b7e37
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6a0348a886fcaaeb5bc8342b
+          - 6a04359f86fcaaeb5bc836eb
+          - 6a0b1f2ca53fcab94b3649d3
+          - 6a034da986fcaaeb5bc834e7
+          - 6a0b1f2ca53fcab94b3649d0
+        category_names:
+          6a00793f1104bbff809b7e2f: Grocery Shopping
+          6a00793e1104bbff809b7e29: Coupons and Discounts
+          6a00793f1104bbff809b7e37: Sales and Promotions
+          6a00793d1104bbff809b7c56: Personal Finance
+        tag_names:
+          6a0348a886fcaaeb5bc8342b: aldi
+          6a04359f86fcaaeb5bc836eb: walmart
+          6a0b1f2ca53fcab94b3649d3: sleep
+          6a034da986fcaaeb5bc834e7: nutrition
+          6a0b1f2ca53fcab94b3649d0: healthy-eating
+    - name: Bills & Utilities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c56
+          - 6a00793e1104bbff809b7db9
+          - 6a00793e1104bbff809b7dbf
+          - 6a00793e1104bbff809b7dbb
+        tag_ids:
+          - 6a034fb086fcaaeb5bc834f1
+          - 6a034b0f86fcaaeb5bc8346e
+        category_names:
+          6a00793d1104bbff809b7c56: Personal Finance
+          6a00793e1104bbff809b7db9: Gas and Electric
+          6a00793e1104bbff809b7dbf: Water Services
+          6a00793e1104bbff809b7dbb: Internet Service Providers
+        tag_names:
+          6a034fb086fcaaeb5bc834f1: public-health
+          6a034b0f86fcaaeb5bc8346e: artificial-intelligence
+    - name: Smart Shopping
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c6e
+          - 6a00793e1104bbff809b7e29
+          - 6a00793f1104bbff809b7e37
+          - 6a00793d1104bbff809b7c56
+        tag_ids:
+          - 6a0348a886fcaaeb5bc8342b
+          - 6a04359f86fcaaeb5bc836eb
+          - 6a03361486fcaaeb5bc83261
+        category_names:
+          6a00793d1104bbff809b7c6e: Shopping
+          6a00793e1104bbff809b7e29: Coupons and Discounts
+          6a00793f1104bbff809b7e37: Sales and Promotions
+          6a00793d1104bbff809b7c56: Personal Finance
+        tag_names:
+          6a0348a886fcaaeb5bc8342b: aldi
+          6a04359f86fcaaeb5bc836eb: walmart
+          6a03361486fcaaeb5bc83261: amazon
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: giant-savings
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -85,24 +187,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 74
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-DMV9SH88LB
   gtm: GT-KFNR4HSN

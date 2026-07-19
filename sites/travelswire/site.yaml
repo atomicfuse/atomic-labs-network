@@ -1,29 +1,6 @@
-domain: travelswire.com
-site_name: TravelSwire
-site_tagline: null
-author: Sarah Rivera
-groups:
-  - ncg
+domain: travelswire
 active: true
-bundle_id: 6a09b84d099fd899f75e8254
-iab_vertical_code: "653"
-iab_category_codes:
-  - "662"
-  - "661"
-  - "669"
-  - "660"
-  - "666"
-  - "659"
-  - "676"
-  - "665"
-  - "656"
-  - "672"
-  - "657"
-  - "658"
-  - "673"
-  - "675"
-  - "670"
-  - "671"
+author: Sarah Rivera
 brief:
   audiences:
     - Travelers
@@ -44,38 +21,121 @@ brief:
   content_guidelines: []
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
-  category_ids:
-    - 6a00793f1104bbff809b7f87
-    - 6a00793f1104bbff809b7f85
-    - 6a00793f1104bbff809b7f91
-    - 6a00793f1104bbff809b7f83
-    - 6a00793f1104bbff809b7f8b
-    - 6a00793f1104bbff809b7f81
-    - 6a00793f1104bbff809b7f9f
-    - 6a00793f1104bbff809b7f89
-    - 6a00793f1104bbff809b7f7b
-    - 6a00793f1104bbff809b7f97
-    - 6a00793f1104bbff809b7f7d
-    - 6a00793f1104bbff809b7f7f
-    - 6a00793f1104bbff809b7f99
-    - 6a00793f1104bbff809b7f9d
-    - 6a00793f1104bbff809b7f93
-    - 6a00793f1104bbff809b7f95
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - Monday
+      - Sunday
     preferred_time: 10:00
   image_guidelines: []
-  quality_threshold: 100
+  quality_threshold: 55
   quality_weights:
     seo_quality: 20
     tone_match: 20
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
+  theme: "**Global travel news and tourism industry updates** — flight routes, airline updates, hospitality trends, destination guides, and travel industry insights."
+  topics_v2:
+    - name: Destination Guides
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f7b
+          - 6a00793f1104bbff809b7f7d
+          - 6a00793f1104bbff809b7f81
+        tag_ids:
+          - 6a033f7d86fcaaeb5bc833e2
+          - 6a0b38f8ac596b621e9356b5
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b38f8ac596b621e9356b4
+          - 6a1844a8454e8b9490eacaae
+    - name: Travel Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f97
+          - 6a00793f1104bbff809b7f9f
+          - 6a00793f1104bbff809b7f8b
+          - 6a00793f1104bbff809b7f9d
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a0b38f8ac596b621e9356b7
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a0b1f01a53fcab94b3649b0
+          - 6a0b1ee9a53fcab94b364999
+          - 6a18345d0fc9210eaf31ab88
+          - 6a033f7d86fcaaeb5bc833e2
+    - name: Local Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f89
+          - 6a00793e1104bbff809b7cc1
+          - 6a00793e1104bbff809b7cc5
+          - 6a00793e1104bbff809b7d0f
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831e10fc9210eaf31ab30
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a0b38f8ac596b621e9356b4
+          - 6a1844a8454e8b9490eacaae
+          - 6a033f7d86fcaaeb5bc833e2
+    - name: Adventure Activities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f89
+          - 6a00793f1104bbff809b7e4f
+          - 6a00793e1104bbff809b7cc9
+          - 6a00793f1104bbff809b7eab
+        tag_ids:
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a0b38f8ac596b621e9356b5
+          - 6a19177d1e60b3e9a2208600
+          - 6a1831cb0fc9210eaf31ab23
+  category_ids: []
   tag_ids: []
+groups:
+  - atl
+iab_category_codes:
+  - "662"
+  - "661"
+  - "669"
+  - "660"
+  - "666"
+  - "659"
+  - "676"
+  - "665"
+  - "656"
+  - "672"
+  - "657"
+  - "658"
+  - "673"
+  - "675"
+  - "670"
+  - "671"
+iab_vertical_code: "653"
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: TravelSwire
+site_tagline: null
 theme:
   base: custom
   colors:
@@ -103,18 +163,6 @@ theme:
     body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-S6QEGTVET1
   gtm: null

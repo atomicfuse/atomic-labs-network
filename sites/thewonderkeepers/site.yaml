@@ -1,9 +1,6 @@
-domain: thewonderkeepers.com
-site_name: TheWonderKeepers
-site_tagline: null
-author: Max Long
-groups: []
+domain: thewonderkeepers
 active: true
+author: Max Long
 brief:
   audiences:
     - Mid-age adults (35-44)
@@ -22,7 +19,7 @@ brief:
     - Wonder
     - Wisdom
     - Heart
-    - Would You?
+    - Mind
   theme: Human interest stories with emotional depth - real moments of kindness, wonder, and life wisdom that remind you what matters most.
   topics_v2:
     - name: Stories
@@ -30,83 +27,79 @@ brief:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c38
+          - 6a00793d1104bbff809b7c53
+          - 6a00793d1104bbff809b7c65
+          - 6a00793d1104bbff809b7c41
         tag_ids:
-          - 6a044f3986fcaaeb5bc838c1
-          - 6a044aaf86fcaaeb5bc83864
-          - 6a044aaf86fcaaeb5bc83867
-          - 6a22600cad9a1dd21ebb688f
-          - 6a044ce086fcaaeb5bc83893
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
+          - 6a140c7216f23264031d7cd6
+          - 6a033ab186fcaaeb5bc8332e
+          - 6a142ae016f23264031d7f39
+          - 6a14261f16f23264031d7ea2
+          - 6a142afc16f23264031d7f46
     - name: Wonder
+      description: religion, miracles and spirituality. wonder stories and good feeling
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c65
           - 6a00793e1104bbff809b7e03
+          - 6a00793e1104bbff809b7e0b
+          - 6a0079401104bbff809b8005
         tag_ids:
-          - 6a0bc5bf16f23264031d776d
-          - 6a15022716f23264031d80ac
-          - 6a03361286fcaaeb5bc83259
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
+          - 6a03361e86fcaaeb5bc83266
+          - 6a034d6286fcaaeb5bc834b1
     - name: Wisdom
+      description: life wisdom, spirituality, astrology
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c38
-          - 6a00793d1104bbff809b7c41
-          - 6a00793d1104bbff809b7c53
+          - 6a00793e1104bbff809b7e03
+          - 6a00793e1104bbff809b7e05
           - 6a00793d1104bbff809b7c65
         tag_ids:
-          - 6a03387086fcaaeb5bc832f9
-          - 6a0b1f2ca53fcab94b3649d5
-          - 6a033f5c86fcaaeb5bc833b0
-          - 6a034d7886fcaaeb5bc834c0
-          - 6a07fd9d4bdae0614e7aaecd
-          - 6a0bead516f23264031d78b6
-          - 6a142d0716f23264031d7f64
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a15022716f23264031d80ac
+          - 6a15022716f23264031d80ab
+          - 6a07fd9d4bdae0614e7aaecc
+          - 6a140c7216f23264031d7cd6
     - name: Heart
+      description: heartwarming, love, feelings, wisdom
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c38
-          - 6a00793e1104bbff809b7ce9
+          - 6a00793d1104bbff809b7c65
+          - 6a00793e1104bbff809b7d77
           - 6a00793d1104bbff809b7c53
         tag_ids:
-          - 6a03387086fcaaeb5bc832f9
-          - 6a14135016f23264031d7d19
-          - 6a142afc16f23264031d7f46
-          - 6a1917781e60b3e9a22085f9
-          - 6a142d0716f23264031d7f64
-          - 6a142ce116f23264031d7f50
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
-    - name: Would You?
+          - 6a43b6f4b38c8d71670c62ed
+          - 6a43b6f4b38c8d71670c62ef
+          - 6a0bc7cc16f23264031d7798
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a033ab186fcaaeb5bc8332e
+          - 6a142ae016f23264031d7f39
+          - 6a14261f16f23264031d7ea2
+    - name: Mind
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c6b
-          - 6a00793d1104bbff809b7c65
-          - 6a00793d1104bbff809b7c38
+          - 6a00793e1104bbff809b7d77
+          - 6a00793e1104bbff809b7d25
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d87
         tag_ids:
-          - 6a205326ad9a1dd21ebb66a1
-          - 6a03387086fcaaeb5bc832f9
-          - 6a142afc16f23264031d7f46
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
+          - 6a033ab186fcaaeb5bc83330
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a0b1f2ca53fcab94b3649d3
+          - 6a0b1f2fa53fcab94b3649d9
+          - 6a07fd9d4bdae0614e7aaecc
+          - 6a140c5b16f23264031d7cc3
   seo_keywords_focus: []
   content_guidelines:
     - 1. Emotional arc in every story - situation to resolution
@@ -119,9 +112,9 @@ brief:
   vertical_id: 6a00793d1104bbff809b7c38
   review_percentage: 5
   schedule:
-    articles_per_day: 1
+    articles_per_day: 2
     preferred_days:
-      - Monday
+      - Thursday
     preferred_time: 10:00
   quality_threshold: 40
   quality_weights:
@@ -130,46 +123,8 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-theme:
-  base: classic
-  colors:
-    primary: "#1a1a2e"
-    accent: "#f4c542"
-    background: "#ffffff"
-    secondary: "#1a1a2e"
-    text: "#1a1a2e"
-    muted: "#6b7280"
-    surface: "#f8f9fa"
-    border: "#e5e7eb"
-    heading: "#1a1a2e"
-    link: "#1a1a2e"
-    link_hover: "#f4c542"
-    nav_link: "#ffffff"
-    nav_link_hover: "#f4c542"
-    footer_bg: "#1a1a2e"
-    must_reads_bg: "#1a1a2e"
-    hero_title: "#ffffff"
-    must_reads_title: "#ffffff"
-    article_hero_title: "#ffffff"
-    article_hero_meta: "#6b7280"
-    feed_title: "#1a1a2e"
-    feed_desc: "#1a1a2e"
-    feed_date: "#6b7280"
-    prose_heading: "#1a1a2e"
-    prose_body: "#1a1a2e"
-    category_header_text: "#1a1a2e"
-    subscribe_heading: "#1a1a2e"
-    footer_text: "#9ca3af"
-    footer_heading: "#ffffff"
-    footer_link: "#9ca3af"
-    footer_link_hover: "#ffffff"
-  logo_height: 52
-  fonts:
-    heading: Playfair Display
-    body: Lora
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
-  logo_height_footer: 74
+groups:
+  - atl
 layout:
   hero:
     enabled: true
@@ -188,3 +143,53 @@ layout:
     explicit: []
   load_more:
     page_size: 4
+site_name: TheWonderKeepers
+site_tagline: null
+theme:
+  base: classic
+  colors:
+    primary: "#7c2d12"
+    accent: "#ea580c"
+    background: "#fffbeb"
+    secondary: "#1c1917"
+    text: "#1c1917"
+    muted: "#78716c"
+    surface: "#fef3c7"
+    border: "#d6d3d1"
+    heading: "#1c1917"
+    link: "#7c2d12"
+    link_hover: "#ea580c"
+    nav_link: "#ffffff"
+    nav_link_hover: "#ea580c"
+    footer_bg: "#1c1917"
+    must_reads_bg: "#1c1917"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#78716c"
+    feed_title: "#1c1917"
+    feed_desc: "#1c1917"
+    feed_date: "#78716c"
+    prose_heading: "#1c1917"
+    prose_body: "#292524"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#7c2d12"
+    footer_text: "#a8a29e"
+    footer_heading: "#ffffff"
+    footer_link: "#a8a29e"
+    footer_link_hover: "#ffffff"
+  logo_height: 54
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height_footer: 74
+  menu_item_font_size: 16
+tracking:
+  ga4: G-48C943PVBQ
+  gtm: GT-NNXMVDFM
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

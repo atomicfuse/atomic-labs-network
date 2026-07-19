@@ -1,10 +1,6 @@
-domain: buzzsoaps.com
-site_name: buzzsoaps
-site_tagline: null
-author: Julia Bennett
-groups:
-  - atl
+domain: buzzsoaps
 active: true
+author: Julia Bennett
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -33,10 +29,7 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Tuesday
     preferred_time: 10:00
   theme: pop culture, buzz and everything that is trendy
   topics_v2:
@@ -59,7 +52,7 @@ brief:
           - 6a0be62416f23264031d782e
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Hot Takes
       source:
@@ -77,7 +70,8 @@ brief:
           - 6a1448e216f23264031d800c
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Off Script
       source:
         type: filter
@@ -93,7 +87,8 @@ brief:
           - 6a033ab186fcaaeb5bc83334
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Watch
       source:
         type: filter
@@ -112,7 +107,30 @@ brief:
           - 6a0430fa86fcaaeb5bc83653
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: buzzsoaps
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -153,24 +171,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 68
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-ZB55XGLQHR
   gtm: GT-KT92FNJM
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

@@ -1,0 +1,41 @@
+override_id: fb-test
+name: Test FB
+priority: 2
+targets:
+  groups: []
+  sites: []
+tracking:
+  ga4: null
+  gtm: null
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []
+scripts:
+  head: []
+  body_start: []
+  body_end: []
+  before_footer: []
+scripts_vars: {}
+ads_config:
+  interstitial: false
+  interstitial_config:
+    script_url: ""
+    script_inline: ""
+    trigger:
+      type: delay
+      delay_seconds: 5
+      scroll_percent: 50
+    frequency:
+      type: once_per_session
+      max_per_session: 1
+    page_types:
+      - all
+    close_delay_seconds: 3
+    device: both
+    exclude_pages: []
+  layout: standard
+  ad_placements: []
+ads_txt: []
+theme: {}
+legal: {}

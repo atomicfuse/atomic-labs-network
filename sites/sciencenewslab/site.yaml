@@ -35,16 +35,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: "ScienceNewsLab covers accessible, curiosity-driven science news across
-    space, nature, physics, technology, and the environment, with a focus on
-    recent discoveries and surprising research findings. Its tone is
-    broad-interest and discovery-led rather than deeply technical. "
+  theme: "ScienceNewsLab covers accessible, curiosity-driven science news across space, nature, physics, technology, and the environment, with a focus on recent discoveries and surprising research findings. Its tone is broad-interest and discovery-led rather than deeply technical. "
   topics_v2:
     - name: Space
       source:
@@ -60,8 +54,8 @@ brief:
           - 6a055cc3febc8d8d1c2ca40f
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Wednesday
     - name: Nature
       source:
         type: filter
@@ -81,7 +75,8 @@ brief:
           - 6a055cc3febc8d8d1c2ca411
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Physics
       source:
         type: filter
@@ -97,7 +92,8 @@ brief:
           - 6a27a3d1eb470600f9705430
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Technology
       source:
         type: filter
@@ -116,7 +112,8 @@ brief:
           - 6a142ae016f23264031d7f3b
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Environment
       source:
         type: filter
@@ -132,7 +129,8 @@ brief:
           - 6a1e69439bf3ecf115d98392
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
 theme:
   base: modern
   colors:

@@ -1,11 +1,6 @@
-domain: travelbeautytips.com
-site_name: travelbeautytips
-site_tagline: null
-author: Max Ward
-groups:
-  - outbrain-ads
-  - atl
+domain: travelbeautytips
 active: true
+author: Max Ward
 brief:
   audiences:
     - Style & Fashion enthusiasts
@@ -36,17 +31,10 @@ brief:
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
-  theme: TravelBeautyTips.com appears to fit a lifestyle niche combining travel
-    advice with beauty, skincare, packing hacks, and “look good on the go”
-    routines. Best topic filters would emphasize travel beauty hacks, vacation
-    skincare, makeup packing, hair care, sunscreen, flight prep, and
-    destination-ready wellness.
+  theme: TravelBeautyTips.com appears to fit a lifestyle niche combining travel advice with beauty, skincare, packing hacks, and “look good on the go” routines. Best topic filters would emphasize travel beauty hacks, vacation skincare, makeup packing, hair care, sunscreen, flight prep, and destination-ready wellness.
   topics_v2:
     - name: Travel Tips
       source:
@@ -62,8 +50,8 @@ brief:
           - 6a18320b0fc9210eaf31ab45
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+        preferred_days:
+          - Thursday
     - name: Beauty Tips
       source:
         type: filter
@@ -81,7 +69,8 @@ brief:
           - 6a0bca0116f23264031d77cc
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Destinations
       source:
         type: filter
@@ -97,7 +86,8 @@ brief:
           - 6a1831fb0fc9210eaf31ab42
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Packing Guides
       source:
         type: filter
@@ -115,7 +105,8 @@ brief:
           - 6a1832100fc9210eaf31ab4a
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Lifestyle
       source:
         type: filter
@@ -134,7 +125,30 @@ brief:
           - 6a044f3986fcaaeb5bc838c4
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: travelbeautytips
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -175,24 +189,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 84
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-HL2D8CQ0Z9
   gtm: GT-5R65N74B

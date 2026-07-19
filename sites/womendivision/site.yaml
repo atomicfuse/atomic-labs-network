@@ -1,12 +1,6 @@
-domain: womendivision.com
-site_name: womendivision
-site_tagline: null
-author: Sam Cooper
-groups:
-  - outbrain-ads
-  - atl
+domain: womendivision
 active: true
-bundle_id: 6a12d75f16f23264031d7a55
+author: Sam Cooper
 brief:
   audiences:
     - Healthy Living enthusiasts
@@ -22,9 +16,6 @@ brief:
     - Fashion
     - Fitness
     - Lifestyle
-    - Mindfullness
-    - Workout Meals
-    - Yoga
   seo_keywords_focus:
     - Advice
     - Beauty
@@ -39,20 +30,127 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Healthy Living
   vertical_id: 6a00793d1104bbff809b7c41
-  category_ids:
-    - 6a00793d1104bbff809b7c41
-    - 6a00793e1104bbff809b7d21
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Community service and women's leadership** — neighborhood fundraising events, local volunteer initiatives, community-minded networking, and educational scholarships."
+  topics_v2:
+    - name: Advice
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c2f
+        tag_ids:
+          - 6a14480e16f23264031d7fd5
+          - 6a142d0716f23264031d7f64
+          - 6a28f5597f78668964f8b2ed
+          - 6a28f5347f78668964f8b2e0
+          - 6a1fbacaad9a1dd21ebb6611
+          - 6a142f8a16f23264031d7fa8
+          - 6a07ffe74bdae0614e7aaf34
+          - 6a033ba986fcaaeb5bc83356
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Beauty
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f39
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a14480e16f23264031d7fd6
+          - 6a14483316f23264031d7fd9
+          - 6a2777b1eb470600f9705327
+          - 6a0bead516f23264031d78b4
+          - 6a0bca0116f23264031d77cc
+          - 6a15048116f23264031d80e1
+          - 6a1409f616f23264031d7c86
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Fashion
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7f3d
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a042c0186fcaaeb5bc83550
+          - 6a15024d16f23264031d80b9
+          - 6a15027d16f23264031d80c5
+          - 6a15048116f23264031d80dd
+          - 6a1e5b679bf3ecf115d98300
+          - 6a1e3a8d9bf3ecf115d9821d
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Fitness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d21
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a0443ce86fcaaeb5bc8383d
+          - 6a04414286fcaaeb5bc8378b
+          - 6a04416d86fcaaeb5bc837a3
+          - 6a1a72a91e60b3e9a22086ef
+          - 6a1a728c1e60b3e9a22086e2
+          - 6a04439a86fcaaeb5bc83823
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c38
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793d1104bbff809b7c74
+        tag_ids:
+          - 6a044aaf86fcaaeb5bc83867
+          - 6a225458ad9a1dd21ebb6823
+          - 6a033ba986fcaaeb5bc83356
+          - 6a225226ad9a1dd21ebb680f
+          - 6a14480e16f23264031d7fd5
+          - 6a28f5347f78668964f8b2e0
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: womendivision
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -94,24 +192,6 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   footer_logo: /assets/logo-footer.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-LPFCPG9C7W
   gtm: GT-T5NXM9NQ

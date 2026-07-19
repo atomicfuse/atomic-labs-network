@@ -1,0 +1,222 @@
+domain: hiddenstorydaily
+active: true
+author: Sarah Cooper
+brief:
+  audiences: []
+  tone: dramatic, crime report, weird, alerting
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Unexplained Events
+    - Ancient Mysteries
+    - Conspiracy Theories
+    - Strange Phenomena
+  theme: a website about science and conspiracy, the unexplained from tesla to the pyramids and aliens anunnaki
+  topics_v2:
+    - name: Unexplained Events
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793d1104bbff809b7c65
+          - 6a00793e1104bbff809b7e25
+        tag_ids:
+          - 6a03361286fcaaeb5bc8325a
+          - 6a03361e86fcaaeb5bc83266
+          - 6a03361e86fcaaeb5bc83265
+          - 6a0335fa86fcaaeb5bc8323a
+          - 6a1417e016f23264031d7d63
+          - 6a237248ad9a1dd21ebb68d1
+          - 6a1415dd16f23264031d7d50
+        category_names:
+          6a00793d1104bbff809b7c68: Science
+          6a00793d1104bbff809b7c65: Religion & Spirituality
+          6a00793e1104bbff809b7e25: Space and Astronomy
+        tag_names:
+          6a03361286fcaaeb5bc8325a: viral content
+          6a03361e86fcaaeb5bc83266: unexplained phenomena
+          6a03361e86fcaaeb5bc83265: unsolved mysteries
+          6a0335fa86fcaaeb5bc8323a: mystery
+          6a1417e016f23264031d7d63: unexplained-phenomena
+          6a237248ad9a1dd21ebb68d1: conspiracy-theory
+          6a1415dd16f23264031d7d50: true-crime
+    - name: Ancient Mysteries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793d1104bbff809b7c65
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e1f
+        tag_ids:
+          - 6a03361286fcaaeb5bc8325a
+          - 6a03361e86fcaaeb5bc83266
+          - 6a03361e86fcaaeb5bc83265
+          - 6a1415dd16f23264031d7d4f
+          - 6a0335fa86fcaaeb5bc8323a
+          - 6a14158a16f23264031d7d4a
+          - 6a237248ad9a1dd21ebb68d1
+          - 6a1417e016f23264031d7d63
+        category_names:
+          6a00793d1104bbff809b7c68: Science
+          6a00793d1104bbff809b7c65: Religion & Spirituality
+          6a00793e1104bbff809b7e25: Space and Astronomy
+          6a00793e1104bbff809b7e1f: Geography
+        tag_names:
+          6a03361286fcaaeb5bc8325a: viral content
+          6a03361e86fcaaeb5bc83266: unexplained phenomena
+          6a03361e86fcaaeb5bc83265: unsolved mysteries
+          6a1415dd16f23264031d7d4f: unsolved-mysteries
+          6a0335fa86fcaaeb5bc8323a: mystery
+          6a14158a16f23264031d7d4a: archaeology
+          6a237248ad9a1dd21ebb68d1: conspiracy-theory
+          6a1417e016f23264031d7d63: unexplained-phenomena
+    - name: Conspiracy Theories
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793d1104bbff809b7c5c
+          - 6a00793d1104bbff809b7c65
+          - 6a00793d1104bbff809b7c6b
+        tag_ids:
+          - 6a03361286fcaaeb5bc8325a
+          - 6a17dfc68c60bc3c84eb2e08
+          - 6a03361e86fcaaeb5bc83266
+          - 6a03361e86fcaaeb5bc83265
+          - 6a1417cb16f23264031d7d58
+          - 6a1417e016f23264031d7d63
+          - 6a205021ad9a1dd21ebb6654
+          - 6a237248ad9a1dd21ebb68d1
+        category_names:
+          6a00793d1104bbff809b7c68: Science
+          6a00793d1104bbff809b7c5c: Politics
+          6a00793d1104bbff809b7c65: Religion & Spirituality
+          6a00793d1104bbff809b7c6b: Sensitive Topics
+        tag_names:
+          6a03361286fcaaeb5bc8325a: viral content
+          6a17dfc68c60bc3c84eb2e08: travel-safety
+          6a03361e86fcaaeb5bc83266: unexplained phenomena
+          6a03361e86fcaaeb5bc83265: unsolved mysteries
+          6a1417cb16f23264031d7d58: scary-stories
+          6a1417e016f23264031d7d63: unexplained-phenomena
+          6a205021ad9a1dd21ebb6654: misinformation
+          6a237248ad9a1dd21ebb68d1: conspiracy-theory
+    - name: Strange Phenomena
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e03
+        tag_ids:
+          - 6a03361286fcaaeb5bc83259
+          - 6a17dfc68c60bc3c84eb2e0e
+          - 6a14158a16f23264031d7d4a
+          - 6a152efb16f23264031d81e4
+          - 6a17dfc68c60bc3c84eb2e0a
+          - 6a03383f86fcaaeb5bc832d6
+          - 6a17dfdb8c60bc3c84eb2e12
+          - 6a17dfe38c60bc3c84eb2e15
+      schedule:
+        articles_per_week: 2
+        preferred_days:
+          - Thursday
+  seo_keywords_focus: []
+  content_guidelines: []
+  review_percentage: 5
+  schedule:
+    articles_per_day: 1
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+  audience_type_ids: []
+  vertical_id: ""
+  vertical: ""
+  image_guidelines: []
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  category_ids: []
+  tag_ids: []
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: Hidden Story Daily
+site_tagline: null
+theme:
+  base: midnight
+  colors:
+    primary: "#0a0a0a"
+    accent: "#a16207"
+    background: "#0a0a0a"
+    secondary: "#a16207"
+    text: "#f5e8c7"
+    muted: "#a8997a"
+    surface: "#1a1410"
+    border: "#2d2418"
+    heading: "#f5e8c7"
+    link: "#d4a657"
+    link_hover: "#f5e8c7"
+    nav_link: "#f5e8c7"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#0a0a0a"
+    must_reads_bg: "#1a1410"
+    hero_title: "#f5e8c7"
+    must_reads_title: "#f5e8c7"
+    article_hero_title: "#f5e8c7"
+    article_hero_meta: "#a8997a"
+    feed_title: "#f5e8c7"
+    feed_desc: "#d4c79d"
+    feed_date: "#a8997a"
+    prose_heading: "#f5e8c7"
+    prose_body: "#d4c79d"
+    category_header_text: "#f5e8c7"
+    subscribe_heading: "#0a0a0a"
+    footer_text: "#d4c79d"
+    footer_heading: "#f5e8c7"
+    footer_link: "#d4c79d"
+    footer_link_hover: "#ffffff"
+    header_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #8a6508 0%, #b8860b 30%, #f5e8c7 50%, #b8860b 70%, #8a6508 100%)"
+    footer_bg_gradient: "linear-gradient(90deg, #0a0a0a 0%, #2d2418 25%, #6b4a1a 50%, #2d2418 75%, #0a0a0a 100%)"
+    must_reads_bg_gradient: "linear-gradient(135deg, #0a0a0a 0%, #3d2c1a 30%, #6b4a1a 50%, #3d2c1a 70%, #0a0a0a 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 45%, rgba(10,10,10,0.85) 100%)
+  logo_height: 78
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height_footer: 88
+  menu_item_font_size: 18
+tracking:
+  ga4: G-86MG80VY5N
+  gtm: GT-K8KGT27F
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

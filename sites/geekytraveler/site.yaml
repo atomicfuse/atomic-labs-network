@@ -1,9 +1,6 @@
-domain: geekytraveler.com
-site_name: GeekyTraveler
-site_tagline: null
-author: Nathan Rodriguez
-groups: []
+domain: geekytraveler
 active: true
+author: Nathan Rodriguez
 brief:
   audiences: []
   tone: Focus on Travel content Maintain an engaging, reader-friendly tone
@@ -17,11 +14,7 @@ brief:
     - Travel Tips
     - Local Culture
     - Adventure Activities
-  theme: A travel site for the curious and detail-obsessed — destinations through
-    the lens of history, science, architecture, and hidden knowledge. Not "best
-    beaches" but "why this city was built here," "what this ruins actually was,"
-    and "the engineering behind this bridge." Readers are travelers who want to
-    understand a place, not just visit it.
+  theme: A travel site for the curious and detail-obsessed — destinations through the lens of history, science, architecture, and hidden knowledge. Not "best beaches" but "why this city was built here," "what this ruins actually was," and "the engineering behind this bridge." Readers are travelers who want to understand a place, not just visit it.
   topics_v2:
     - name: Destination Guides
       source:
@@ -30,50 +23,46 @@ brief:
           - 6a00793d1104bbff809b7c7a
           - 6a00793e1104bbff809b7cc1
           - 6a00793e1104bbff809b7e1f
-          - 6a00793f1104bbff809b7eeb
+          - 6a00793e1104bbff809b7e21
         tag_ids:
-          - 6a1e3ccf9bf3ecf115d9825a
-          - 6a09c32b099fd899f75e825f
-          - 6a14158a16f23264031d7d4a
-          - 6a17dfc68c60bc3c84eb2e0d
-          - 6a17dfe38c60bc3c84eb2e18
-          - 6a0b3268ac596b621e9355e5
-          - 6a140ea316f23264031d7d05
-      schedule:
-        articles_per_week: 1
-        preferred_days: &a1
-          - Monday
+          - 6a033f7d86fcaaeb5bc833e2
+          - 6a0b38f8ac596b621e9356b5
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a0b1ee9a53fcab94b364999
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a0b38f8ac596b621e9356b4
     - name: Travel Tips
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f9d
+          - 6a00793f1104bbff809b7f9f
+          - 6a00793f1104bbff809b7f89
         tag_ids:
-          - 6a0bc7fd16f23264031d77ad
-          - 6a140c7216f23264031d7cd7
-          - 6a0b38f8ac596b621e9356b7
-          - 6a18320b0fc9210eaf31ab47
-          - 6a1834200fc9210eaf31ab5c
-          - 6a18343a0fc9210eaf31ab6e
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a0b1f01a53fcab94b3649b0
+          - 6a033f7d86fcaaeb5bc833e2
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a0b38f8ac596b621e9356b5
+          - 6a140c7216f23264031d7cd6
     - name: Local Culture
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c7a
           - 6a00793e1104bbff809b7cc1
-          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7cc5
+          - 6a00793e1104bbff809b7d07
+          - 6a00793e1104bbff809b7cfd
         tag_ids:
           - 6a1831cb0fc9210eaf31ab24
-          - 6a1831cb0fc9210eaf31ab29
-          - 6a042c6686fcaaeb5bc8359c
-          - 6a14158a16f23264031d7d4a
-          - 6a17dfc68c60bc3c84eb2e0d
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a1831e10fc9210eaf31ab30
+          - 6a0b38f8ac596b621e9356b4
+          - 6a1844a8454e8b9490eacaae
+          - 6a184492454e8b9490eacaab
+          - 6a1831cb0fc9210eaf31ab23
     - name: Adventure Activities
       source:
         type: filter
@@ -81,68 +70,37 @@ brief:
           - 6a00793f1104bbff809b7f89
           - 6a00793f1104bbff809b7e4f
           - 6a00793e1104bbff809b7cc9
+          - 6a00793f1104bbff809b7eab
         tag_ids:
-          - 6a0bc7fd16f23264031d77ad
-          - 6a0b1eeea53fcab94b3649a9
-          - 6a0fe1b316f23264031d7a33
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a0b1eeea53fcab94b3649a8
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a0b1f13a53fcab94b3649c4
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a19177d1e60b3e9a2208600
   seo_keywords_focus: []
   content_guidelines:
     - shortly describe site theme for GeekyTraveler.com
-    - 23:09
-    - A travel site for the curious and detail-obsessed — destinations through
-      the lens of history, science, architecture, and hidden knowledge. Not
-      "best beaches" but "why this city was built here," "what this ruins
-      actually was," and "the engineering behind this bridge." Readers are
-      travelers who want to understand a place, not just visit it.
+    - A travel site for the curious and detail-obsessed — destinations through the lens of history, science, architecture, and hidden knowledge. Not "best beaches" but "why this city was built here," "what this ruins actually was," and "the engineering behind this bridge." Readers are travelers who want to understand a place, not just visit it.
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   review_percentage: 5
   schedule:
-    articles_per_day: 1
-    preferred_days: *a1
+    articles_per_day: 2
+    preferred_days:
+      - Thursday
     preferred_time: 10:00
-theme:
-  base: tokyo_night
-  colors:
-    primary: "#1a1b2e"
-    accent: "#c81e3b"
-    background: "#0f111c"
-    secondary: "#ffffff"
-    text: "#e0e6f0"
-    muted: "#9aa3b8"
-    surface: "#1f2138"
-    border: "#2d2f4a"
-    heading: "#f0f3f8"
-    link: "#7c89f0"
-    link_hover: "#e94560"
-    nav_link: "#e0e6f0"
-    nav_link_hover: "#e94560"
-    footer_bg: "#0a0c14"
-    must_reads_bg: "#1a1b2e"
-    hero_title: "#f0f3f8"
-    must_reads_title: "#f0f3f8"
-    article_hero_title: "#f0f3f8"
-    article_hero_meta: "#9aa3b8"
-    feed_title: "#f0f3f8"
-    feed_desc: "#c8cee0"
-    feed_date: "#9aa3b8"
-    prose_heading: "#f0f3f8"
-    prose_body: "#c8cee0"
-    category_header_text: "#f0f3f8"
-    subscribe_heading: "#ffffff"
-    footer_text: "#9aa3b8"
-    footer_heading: "#f0f3f8"
-    footer_link: "#9aa3b8"
-    footer_link_hover: "#e94560"
-  logo_height: 52
-  fonts:
-    heading: Manrope
-    body: Inter
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
+  image_guidelines: []
+  quality_threshold: 40
+  quality_weights:
+    seo_quality: 20
+    tone_match: 20
+    content_length: 20
+    factual_accuracy: 20
+    keyword_relevance: 20
+  category_ids: []
+  tag_ids: []
+groups:
+  - ncg
 layout:
   hero:
     enabled: true
@@ -161,3 +119,52 @@ layout:
     explicit: []
   load_more:
     page_size: 4
+site_name: GeekyTraveler
+site_tagline: null
+theme:
+  base: tokyo_night
+  colors:
+    primary: "#1c1c1c"
+    accent: "#3a3a3a"
+    background: "#f5f3ef"
+    secondary: "#1a212a"
+    text: "#1c1c1c"
+    muted: "#a0a0a0"
+    surface: "#ebe8e2"
+    border: "#d6d2c9"
+    heading: "#1c1c1c"
+    link: "#1c1c1c"
+    link_hover: "#5a5a5a"
+    nav_link: "#f5f3ef"
+    nav_link_hover: "#d6d2c9"
+    footer_bg: "#1c1c1c"
+    must_reads_bg: "#1a212a"
+    hero_title: "#f5f3ef"
+    must_reads_title: "#f5f3ef"
+    article_hero_title: "#f5f3ef"
+    article_hero_meta: "#a0a0a0"
+    feed_title: "#1c1c1c"
+    feed_desc: "#2a2a2a"
+    feed_date: "#a0a0a0"
+    prose_heading: "#1c1c1c"
+    prose_body: "#2a2a2a"
+    category_header_text: "#f5f3ef"
+    subscribe_heading: "#f5f3ef"
+    footer_text: "#a0a0a0"
+    footer_heading: "#f5f3ef"
+    footer_link: "#a0a0a0"
+    footer_link_hover: "#f5f3ef"
+  logo_height: 52
+  fonts:
+    heading: Manrope
+    body: Manrope
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  menu_item_font_size: 16
+tracking:
+  ga4: G-TZ245KQE9C
+  gtm: GT-TNF233LL
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

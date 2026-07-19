@@ -1,11 +1,6 @@
-domain: decoratingmom.com
-site_name: decoratingmom
-site_tagline: null
-author: David Scott
-groups:
-  - atl
+domain: decoratingmom
 active: true
-bundle_id: 6a12d70616f23264031d7a46
+author: David Scott
 brief:
   audiences:
     - Home & Garden enthusiasts
@@ -32,24 +27,124 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Home & Garden
   vertical_id: 6a00793d1104bbff809b7c4a
-  category_ids:
-    - 6a00793d1104bbff809b7c4a
-    - 6a00793e1104bbff809b7d5f
-    - 6a00793e1104bbff809b7d59
-    - 6a00793e1104bbff809b7d51
-    - 6a00793e1104bbff809b7d57
-    - 6a00793e1104bbff809b7d55
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Sunday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Home decor and family-friendly interior design** — interior styling, DIY home improvement projects, seasonal decorating, and practical, family-oriented space organization."
+  topics_v2:
+    - name: Decor Ideas
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+          - 6a00793e1104bbff809b7d59
+          - 6a00793e1104bbff809b7d63
+        tag_ids:
+          - 6a13f95216f23264031d7b0b
+          - 6a13f95216f23264031d7b11
+          - 6a1448fe16f23264031d8014
+          - 6a13fbeb16f23264031d7b5f
+          - 6a1e70799bf3ecf115d984a5
+          - 6a27a8e1eb470600f97054e1
+          - 6a1e6e0e9bf3ecf115d9845e
+          - 6a27a62ceb470600f9705491
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Small Spaces
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+        tag_ids:
+          - 6a13fe3d16f23264031d7c15
+          - 6a1e70379bf3ecf115d9847b
+          - 6a1e6be49bf3ecf115d98437
+          - 6a13f95216f23264031d7b0f
+          - 6a13f9b216f23264031d7b35
+          - 6a1e6ba89bf3ecf115d98414
+          - 6a1e6dfc9bf3ecf115d98458
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Budget Decor
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c4a
+          - 6a00793e1104bbff809b7d5f
+        tag_ids:
+          - 6a13f9b216f23264031d7b35
+          - 6a14486016f23264031d7fe6
+          - 6a13fe2016f23264031d7c0c
+          - 6a1919f41e60b3e9a2208636
+          - 6a033f6886fcaaeb5bc833bd
+          - 6a07fdae4bdae0614e7aaed8
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: DIY Projects
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d59
+        tag_ids:
+          - 6a13fe2016f23264031d7c0c
+          - 6a14486016f23264031d7fe6
+          - 6a1e6e0e9bf3ecf115d9845e
+          - 6a1e6ddf9bf3ecf115d98444
+          - 6a27a892eb470600f97054c6
+          - 6a1e6be49bf3ecf115d98437
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Interior Design
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d5f
+        tag_ids:
+          - 6a1e6dfb9bf3ecf115d98454
+          - 6a1e6e0d9bf3ecf115d9845b
+          - 6a27a8a1eb470600f97054ca
+          - 6a1e6be49bf3ecf115d9843a
+          - 6a13f95216f23264031d7b0f
+          - 6a27a62ceb470600f9705491
+          - 6a1e6e2a9bf3ecf115d98472
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: decoratingmom
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -91,24 +186,10 @@ theme:
   footer_logo: /assets/logo-footer.png
   logo_height: 52
   logo_height_footer: 76
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-C5W98CQV7E
   gtm: GT-K8KWBCZQ
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

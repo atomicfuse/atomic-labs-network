@@ -1,11 +1,6 @@
-domain: carsnewsmag.com
-site_name: carsnewsmag
-site_tagline: null
-author: James Reed
-groups:
-  - ncg
+domain: carsnewsmag
 active: true
-bundle_id: 6a12d6f516f23264031d7a45
+author: James Reed
 brief:
   audiences:
     - Automotive enthusiasts
@@ -32,21 +27,113 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Automotive
   vertical_id: 6a00793d1104bbff809b7c1a
-  category_ids:
-    - 6a00793d1104bbff809b7c1a
-    - 6a00793d1104bbff809b7c94
-    - 6a00793d1104bbff809b7c98
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: "**Automotive trends and vehicle reviews** — new car releases, EV innovations, performance testing, and industry news."
+  topics_v2:
+    - name: News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+        tag_ids:
+          - 6a0175542a0a294c696af93b
+          - 6a008aba2a0a294c696af844
+          - 6a0430ce86fcaaeb5bc83640
+          - 6a04542e86fcaaeb5bc83943
+          - 6a0451a686fcaaeb5bc83901
+          - 6a0bc5c616f23264031d7778
+          - 6a1ef828ad9a1dd21ebb65dc
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Electric Cars
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+          - 6a00793d1104bbff809b7c98
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a008e372a0a294c696af86c
+          - 6a007aebe9d30be04c0c6008
+          - 6a008e842a0a294c696af893
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a042c0686fcaaeb5bc83555
+          - 6a14488416f23264031d7ff1
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c1a
+        tag_ids: []
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Industry
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7ee5
+        tag_ids:
+          - 6a008aba2a0a294c696af844
+          - 6a0435ac86fcaaeb5bc836ef
+          - 6a1ef828ad9a1dd21ebb65dc
+          - 6a033f7c86fcaaeb5bc833d7
+          - 6a29c3ca7da23de6325b9a6f
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+    - name: Concept Cars
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c94
+        tag_ids:
+          - 6a14488416f23264031d7ff1
+          - 6a042c0686fcaaeb5bc83555
+          - 6a1e70509bf3ecf115d98490
+          - 6a1e6dfb9bf3ecf115d98454
+          - 6a27a3c5eb470600f970541d
+          - 6a17dfe38c60bc3c84eb2e18
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Monday
+groups:
+  - ncg
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: carsnewsmag
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -87,24 +174,10 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 74
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-BRNDX66YCY
   gtm: GT-KVFLJ4BF
+  google_ads: null
+  facebook_pixel: "995281758635356"
+  facebook_domain_verification: null
+  custom: []

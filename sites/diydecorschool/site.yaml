@@ -1,9 +1,6 @@
-domain: diydecorschool.com
-site_name: diydecorschool
-site_tagline: null
-author: Rachel Adams
-groups: []
+domain: diydecorschool
 active: true
+author: Rachel Adams
 brief:
   audiences: []
   tone: ""
@@ -35,7 +32,7 @@ brief:
           - 6a13f95916f23264031d7b12
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Latest News
       source:
@@ -53,7 +50,8 @@ brief:
           - 6a13f95916f23264031d7b17
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: Tips & Advice
       source:
         type: filter
@@ -69,7 +67,8 @@ brief:
           - 6a13f9c416f23264031d7b3c
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
     - name: In-Depth Reviews
       source:
         type: filter
@@ -86,7 +85,8 @@ brief:
           - 6a14485f16f23264031d7fe3
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Monday
   seo_keywords_focus: []
   content_guidelines:
     - Focus on Home & Garden content
@@ -95,9 +95,31 @@ brief:
   vertical_id: 6a00793d1104bbff809b7c4a
   review_percentage: 5
   schedule:
-    articles_per_day: 1
-    preferred_days: *a1
+    articles_per_day: 2
+    preferred_days:
+      - Thursday
     preferred_time: 10:00
+groups: []
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+site_name: diydecorschool
+site_tagline: null
 theme:
   base: rose_garden
   colors:
@@ -137,21 +159,10 @@ theme:
     body: Lora
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
+tracking:
+  ga4: G-WK4HKEMZ61
+  gtm: GT-M6J6P8XK
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

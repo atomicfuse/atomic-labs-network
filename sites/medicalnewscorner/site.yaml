@@ -5,7 +5,6 @@ author: Lucas Ward
 groups:
   - atl
 active: true
-bundle_id: 6a12d70716f23264031d7a47
 brief:
   audiences:
     - Medical Health enthusiasts
@@ -32,24 +31,99 @@ brief:
     - Maintain an engaging, reader-friendly tone
   vertical: Medical Health
   vertical_id: 6a00793d1104bbff809b7c50
-  category_ids:
-    - 6a00793d1104bbff809b7c50
-    - 6a00793e1104bbff809b7d65
-    - 6a00793e1104bbff809b7d89
-    - 6a00793e1104bbff809b7d8f
-    - 6a00793e1104bbff809b7d75
-    - 6a00793e1104bbff809b7d77
-  tag_ids: []
   review_percentage: 5
   schedule:
     articles_per_day: 2
     preferred_days:
-      - monday
-      - tuesday
-      - wednesday
-      - thursday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
+  theme: healthcare innovations and patient care medical breakthroughs, healthcare technology, clinical research, and global health policy.
+  topics_v2:
+    - name: Health News
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c50
+          - 6a00793d1104bbff809b7c77
+          - 6a00793d1104bbff809b7c41
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346e
+          - 6a033ad286fcaaeb5bc83349
+          - 6a033ac986fcaaeb5bc83345
+          - 6a034d7886fcaaeb5bc834be
+          - 6a034b1586fcaaeb5bc83474
+          - 6a034b0f86fcaaeb5bc83470
+          - 6a140c4516f23264031d7cb9
+          - 6a1e69709bf3ecf115d983c7
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Monday
+    - name: Conditions
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c50
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346a
+          - 6a033ac986fcaaeb5bc83345
+          - 6a034da986fcaaeb5bc834e4
+          - 6a033a9c86fcaaeb5bc8331f
+          - 6a034d5886fcaaeb5bc834a8
+          - 6a034b4486fcaaeb5bc8349b
+          - 6a034b3286fcaaeb5bc83487
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Wellness
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c50
+        tag_ids:
+          - 6a0b1f2ca53fcab94b3649d5
+          - 6a044aaf86fcaaeb5bc8386a
+          - 6a07fd9a4bdae0614e7aaec2
+          - 6a033f5a86fcaaeb5bc833ae
+          - 6a03385786fcaaeb5bc832e5
+          - 6a14218616f23264031d7e1b
+          - 6a256cb040722bf12ccf9945
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Research
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e17
+        tag_ids:
+          - 6a033ad286fcaaeb5bc83349
+          - 6a033ac986fcaaeb5bc83347
+          - 6a1e69709bf3ecf115d983c9
+          - 6a27a3afeb470600f970540d
+          - 6a034b3286fcaaeb5bc83487
+          - 6a0e974a16f23264031d7985
+          - 6a27a3d1eb470600f970542c
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Drugs
+      source:
+        type: filter
+        category_ids:
+          - 6a00793f1104bbff809b7ed5
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346a
+          - 6a033ad286fcaaeb5bc8334b
+          - 6a033ac986fcaaeb5bc83347
+          - 6a033cfe86fcaaeb5bc83367
+          - 6a034b3286fcaaeb5bc83487
+          - 6a033a9c86fcaaeb5bc8331d
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
 theme:
   base: modern
   colors:
