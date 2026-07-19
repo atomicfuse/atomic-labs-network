@@ -1,11 +1,6 @@
-domain: womendivision.com
-site_name: womendivision
-site_tagline: null
-author: Sam Cooper
-groups:
-  - outbrain-ads
-  - atl
+domain: womendivision
 active: true
+author: Sam Cooper
 brief:
   audiences:
     - Healthy Living enthusiasts
@@ -134,6 +129,28 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Monday
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: womendivision
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -175,24 +192,6 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   footer_logo: /assets/logo-footer.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-LPFCPG9C7W
   gtm: GT-T5NXM9NQ
