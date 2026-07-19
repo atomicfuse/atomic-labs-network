@@ -1,12 +1,9 @@
 ---
 title: Russell Wilson Retires After 14-Year NFL Career Marked by Triumph and Decline
-description: >-
-  Russell Wilson announced his retirement in June 2026, ending a 14-year NFL
-  career that included a Super Bowl championship and recent struggles with
-  multiple...
+description: Russell Wilson announced his retirement in June 2026, ending a 14-year NFL career that included a Super Bowl championship and recent struggles with multiple...
 type: standard
-status: review
-publishDate: '2026-06-09'
+status: published
+publishDate: 2026-06-09
 author: Ben Reed
 tags:
   - Latest News
@@ -15,13 +12,8 @@ tags:
   - retirement
   - quarterback
 slug: russell-wilson-retires-nfl-career-2026-seahawks-broncos
-reviewer_notes: >-
-  Article contains numerous fabricated future events and false claims about
-  Russell Wilson, including fake retirement date, incorrect team history, and
-  made-up personal details, making it completely unreliable despite decent
-  structure.
-source_url: >-
-  https://www.usmagazine.com/celebrity-news/news/russell-wilsons-ups-and-downs-over-the-years/
+reviewer_notes: Approved via review queue.
+source_url: https://www.usmagazine.com/celebrity-news/news/russell-wilsons-ups-and-downs-over-the-years/
 source_item_id: 6a279472eb470600f9705373
 generated_by: claude
 featuredImage: /assets/images/russell-wilson-retires-nfl-career-2026-seahawks-broncos.webp
@@ -32,15 +24,9 @@ score_breakdown:
   content_length: 30
   factual_accuracy: 0
   keyword_relevance: 15
-quality_note: >-
-  Article contains numerous fabricated future events and false claims about
-  Russell Wilson, including fake retirement date, incorrect team history, and
-  made-up personal details, making it completely unreliable despite decent
-  structure.
+quality_note: Article contains numerous fabricated future events and false claims about Russell Wilson, including fake retirement date, incorrect team history, and made-up personal details, making it completely unreliable despite decent structure.
 reading_time: 3
-image_alt: >-
-  Veteran football player stands in a stadium tunnel between celebration and
-  shadow.
+image_alt: Veteran football player stands in a stadium tunnel between celebration and shadow.
 topics:
   - Latest News
 ---

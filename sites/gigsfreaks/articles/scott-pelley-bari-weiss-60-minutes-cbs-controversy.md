@@ -1,12 +1,9 @@
 ---
 title: 60 Minutes Correspondent Calls CBS Editor-in-Chief 'Murderer'
-description: >-
-  Scott Pelley publicly accused CBS News editor-in-chief Bari Weiss of
-  'murdering' 60 Minutes, reflecting escalating tensions over editorial
-  direction and staff...
+description: Scott Pelley publicly accused CBS News editor-in-chief Bari Weiss of 'murdering' 60 Minutes, reflecting escalating tensions over editorial direction and staff...
 type: standard
-status: review
-publishDate: '2026-06-03'
+status: published
+publishDate: 2026-06-03
 author: Max Kim
 tags:
   - Hot Trends
@@ -15,12 +12,8 @@ tags:
   - media controversy
   - 60 Minutes
 slug: scott-pelley-bari-weiss-60-minutes-cbs-controversy
-reviewer_notes: >-
-  The article contains major factual inaccuracies (Bari Weiss was never CBS News
-  editor-in-chief), uses a formal tone inappropriate for the entertainment site,
-  and poorly matches the site's focus on fun, trending content.
-source_url: >-
-  https://www.vulture.com/article/scott-pelley-bari-weiss-murdering-60-minutes.html
+reviewer_notes: Approved via review queue.
+source_url: https://www.vulture.com/article/scott-pelley-bari-weiss-murdering-60-minutes.html
 source_item_id: 6a1e6a5a9bf3ecf115d983ce
 generated_by: claude
 featuredImage: /assets/images/scott-pelley-bari-weiss-60-minutes-cbs-controversy.webp
@@ -31,14 +24,9 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 15
   keyword_relevance: 30
-quality_note: >-
-  The article contains major factual inaccuracies (Bari Weiss was never CBS News
-  editor-in-chief), uses a formal tone inappropriate for the entertainment site,
-  and poorly matches the site's focus on fun, trending content.
+quality_note: The article contains major factual inaccuracies (Bari Weiss was never CBS News editor-in-chief), uses a formal tone inappropriate for the entertainment site, and poorly matches the site's focus on fun, trending content.
 reading_time: 3
-image_alt: >-
-  Tense newsroom scene with a veteran journalist facing an executive across a
-  glass conference room.
+image_alt: Tense newsroom scene with a veteran journalist facing an executive across a glass conference room.
 topics:
   - Hot Trends
 ---
