@@ -122,6 +122,7 @@ brief:
   audience_type_ids: []
 groups:
   - ncg
+  - blacklist
 layout:
   hero:
     enabled: true
