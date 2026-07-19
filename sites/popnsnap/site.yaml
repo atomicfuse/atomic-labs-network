@@ -143,7 +143,6 @@ brief:
         preferred_days:
           - Wednesday
 groups:
-  - outbrain-ads
   - atl
 layout:
   hero:
