@@ -127,6 +127,7 @@ brief:
           6a03361486fcaaeb5bc83261: amazon
 groups:
   - atl
+  - ready
 layout:
   hero:
     enabled: true
