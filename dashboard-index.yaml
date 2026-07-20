@@ -642,11 +642,11 @@ sites:
     cf_apo: false
     company: NGC
     created_at: 2026-06-28T07:58:19.000Z
-    custom_domain: null
+    custom_domain: viralsides.com
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-07-20T11:42:27.120Z
+    last_updated: 2026-07-20T11:42:52.611Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -654,10 +654,10 @@ sites:
     saved_previews: null
     site_id: "9619803022198"
     staging_branch: staging/sillycapybara
-    status: Ready
+    status: Live
     vertical: Entertainment
-    worker_pending_dns: true
-    zone_id: 6b3b8e5af30ee8da555bc81a6e020e8f
+    worker_pending_dns: false
+    zone_id: c675eae76187dc37f3485d6607a4e2e5
   - domain: soccernewsreports
     cf_apo: false
     company: ATL
