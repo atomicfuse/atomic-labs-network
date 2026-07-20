@@ -18,7 +18,7 @@ source_url: >-
   https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZG4xbTliN1M1SmxERERqRTZTNkdkaTluSlMtaklsRU1peUxLM3FscUdqVUItaUVpbHBCNTNuZjNRZ3FtR011UGRfY0FNRlJOUFZfbUxHREJwM25vTTN6VXFzSFFZQ016U3hNY2laZTFsQjR3alpIaVJrbzRzY0xHZ2Rmd0wxZnhjZVpkMDJFajNNR1FycUc3ajJxUlN3aUo5cmVBODZnQnZTYTRxQ3NPTGxidUtJNUV2VzhiQmMyM2NkMGlYWFNSb3daUTQyb0tRWjVTUg?oc=5
 source_item_id: 6a204fccad9a1dd21ebb663a
 generated_by: openai
-featuredImage: /assets/images/stroylab-general-article.webp
+featuredImage: /assets/images/super-raccoon-conspiracy-300000-kiwis.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 62
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Deep Dives
+image_alt: >-
+  A raccoon casts a monstrous shadow beside maps, red string, and glowing phones
+  in a dark investigation room.
 ---
 ## TL;DR
 Many believe in the bizarre conspiracy theory that Canada is creating mutant super-raccoons as military weapons. With around 300,000 Kiwis reportedly falling for this claim, it's time to delve into the psychology behind such absurd beliefs and how they spread.
