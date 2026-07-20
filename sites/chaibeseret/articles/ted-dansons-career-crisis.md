@@ -18,7 +18,7 @@ source_url: 'https://trends.google.com/trending?geo=US&q=ted%20danson&d=2026-07-
 source_item_id: 6a5cd861645f578778864c76
 source_title: ted danson
 generated_by: openai
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/ted-dansons-career-crisis.webp
 quality_score: 57
 score_breakdown:
   seo_quality: 55
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - reviews
+image_alt: >-
+  Older actor sits in a shadowed dressing room beside a microphone, reflecting
+  on career doubt.
 ---
 ### Ted Danson's Reflective Moment
 
