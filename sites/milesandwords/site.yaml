@@ -1,4 +1,4 @@
-domain: milesandwords
+domain: milesandwords.com
 active: true
 author: Sarah Rivera
 brief:
@@ -35,7 +35,9 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  theme: "**Global travel news and tourism industry updates** — flight routes, airline updates, hospitality trends, destination guides, and travel industry insights."
+  theme: "**Global travel news and tourism industry updates** — flight routes,
+    airline updates, hospitality trends, destination guides, and travel industry
+    insights."
   topics_v2:
     - name: Destination Guides
       source:
@@ -104,6 +106,7 @@ brief:
   tag_ids: []
 groups:
   - atl
+  - blacklist
 iab_category_codes:
   - "662"
   - "661"
@@ -134,7 +137,7 @@ layout:
     explicit: []
   load_more:
     page_size: 10
-site_name: TravelSwire
+site_name: milesandwords
 site_tagline: null
 theme:
   base: custom
