@@ -638,26 +638,6 @@ sites:
     vertical: Science
     worker_pending_dns: false
     zone_id: 3bfb814dd3859bcc0c477a48d5cf8979
-  - domain: viralsides
-    cf_apo: false
-    company: NGC
-    created_at: 2026-06-28T07:58:19.000Z
-    custom_domain: viralsides.com
-    exclusivity: null
-    fixed_ad: false
-    ga_info: null
-    last_updated: 2026-07-20T11:44:30.254Z
-    ob_epid: null
-    pages_project: null
-    pages_subdomain: null
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=funnypigeon
-    saved_previews: null
-    site_id: "9619803022198"
-    staging_branch: staging/viralsides
-    status: Live
-    vertical: Entertainment
-    worker_pending_dns: false
-    zone_id: c675eae76187dc37f3485d6607a4e2e5
   - domain: soccernewsreports
     cf_apo: false
     company: ATL
@@ -801,11 +781,11 @@ sites:
     cf_apo: false
     company: ATL
     created_at: 2026-05-17T12:45:12.446Z
-    custom_domain: travelswire.com
+    custom_domain: null
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-05-27T15:17:30.481Z
+    last_updated: 2026-07-20T12:00:16.619Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -813,9 +793,9 @@ sites:
     saved_previews: null
     site_id: "9021912446684"
     staging_branch: staging/travelswire
-    status: Live
+    status: Ready
     vertical: Travel
-    worker_pending_dns: false
+    worker_pending_dns: true
     zone_id: 7145c5c82935b88a42cb95b22bb24009
   - domain: trendscores
     cf_apo: false
@@ -897,6 +877,26 @@ sites:
     vertical: Science
     worker_pending_dns: false
     zone_id: d391aef79e0b6b2f8d2effad885a7f5f
+  - domain: viralsides
+    cf_apo: false
+    company: NGC
+    created_at: 2026-06-28T07:58:19.000Z
+    custom_domain: viralsides.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-06-28T07:58:21.066Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=funnypigeon
+    saved_previews: null
+    site_id: "9619803022198"
+    staging_branch: staging/viralsides
+    status: Live
+    vertical: Entertainment
+    worker_pending_dns: false
+    zone_id: c675eae76187dc37f3485d6607a4e2e5
   - domain: wineoceans
     cf_apo: false
     company: ATL
