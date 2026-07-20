@@ -121,7 +121,6 @@ brief:
           - Tuesday
   audience_type_ids: []
 groups:
-  - ncg
   - blacklist
 layout:
   hero:
@@ -141,7 +140,7 @@ layout:
     explicit: []
   load_more:
     page_size: 10
-site_name: sillycapybara
+site_name: ViralSides
 site_tagline: null
 theme:
   base: modern
