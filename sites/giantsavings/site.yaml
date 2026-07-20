@@ -126,7 +126,6 @@ brief:
           6a04359f86fcaaeb5bc836eb: walmart
           6a03361486fcaaeb5bc83261: amazon
 groups:
-  - atl
   - ready
 layout:
   hero:
