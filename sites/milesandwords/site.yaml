@@ -1,4 +1,4 @@
-domain: milesandwords.com
+domain: milesandwords
 active: true
 author: Sarah Rivera
 brief:
@@ -35,9 +35,7 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  theme: "**Global travel news and tourism industry updates** — flight routes,
-    airline updates, hospitality trends, destination guides, and travel industry
-    insights."
+  theme: "**Global travel news and tourism industry updates** — flight routes, airline updates, hospitality trends, destination guides, and travel industry insights."
   topics_v2:
     - name: Destination Guides
       source:
