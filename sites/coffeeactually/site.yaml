@@ -111,7 +111,8 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Monday
-groups: []
+groups:
+  - ready
 layout:
   hero:
     enabled: true
