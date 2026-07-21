@@ -113,7 +113,7 @@ layout:
     explicit: []
   load_more:
     page_size: 10
-site_name: carnewsinformer
+site_name: cleanmotiondaily
 site_tagline: null
 theme:
   base: modern
