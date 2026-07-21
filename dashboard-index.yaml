@@ -43,11 +43,11 @@ sites:
     cf_apo: false
     company: null
     created_at: 2026-05-26T13:11:46.869Z
-    custom_domain: null
+    custom_domain: cleanmotiondaily.com
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-07-21T08:15:57.030Z
+    last_updated: 2026-07-21T08:16:17.927Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -55,10 +55,10 @@ sites:
     saved_previews: null
     site_id: "9801106869060"
     staging_branch: staging/carsnewsinformer
-    status: Ready
+    status: Live
     vertical: Automotive
-    worker_pending_dns: true
-    zone_id: 5ccc0a8ccfd85b14c62bc7bdd2f116d4
+    worker_pending_dns: false
+    zone_id: af6db54f5eafc20389f07ecfc8b1db14
   - domain: carsnewsmag
     cf_apo: false
     company: NGC
