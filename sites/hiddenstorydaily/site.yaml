@@ -146,7 +146,8 @@ brief:
     keyword_relevance: 20
   category_ids: []
   tag_ids: []
-groups: []
+groups:
+  - ready
 layout:
   hero:
     enabled: true
