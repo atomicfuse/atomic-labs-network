@@ -1,10 +1,6 @@
-domain: tvshowsmag.com
-site_name: tvshowsmag
-site_tagline: null
-author: Zoe Hayes
-groups:
-  - atl
+domain: tvshowsmag
 active: true
+author: Zoe Hayes
 brief:
   audiences:
     - Entertainment enthusiasts
@@ -56,70 +52,91 @@ brief:
           - 6a0be66c16f23264031d7854
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Monday
     - name: Reviews
       source:
         type: filter
         category_ids:
           - 6a0079401104bbff809b7fdb
-          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b800b
         tag_ids:
-          - 6a0806d44bdae0614e7aaf77
-          - 6a0be65716f23264031d7847
-          - 6a27b210eb470600f9705539
-          - 6a1520a716f23264031d813b
-          - 6a042e5886fcaaeb5bc835a5
-          - 6a0bc7aa16f23264031d778d
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a0b1bfda53fcab94b364993
+          - 6a008aba2a0a294c696af844
+          - 6a04565c86fcaaeb5bc83974
+          - 6a04565486fcaaeb5bc8396d
+          - 6a04563c86fcaaeb5bc83969
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a0bc59f16f23264031d7762
     - name: Streaming
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fdb
+          - 6a00793f1104bbff809b7f29
+          - 6a0079401104bbff809b8054
+          - 6a00793f1104bbff809b7ecf
         tag_ids:
-          - 6a1bdb4a9bf3ecf115d98166
-          - 6a1831e80fc9210eaf31ab37
-          - 6a0b38e9ac596b621e9356a6
-          - 6a033f4986fcaaeb5bc8339c
-          - 6a140e6916f23264031d7ce0
-          - 6a0341a186fcaaeb5bc833f1
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a008aba2a0a294c696af843
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a0bc59f16f23264031d7761
+          - 6a0b1bfda53fcab94b364993
+          - 6a0b32d1ac596b621e9355ec
+          - 6a04565c86fcaaeb5bc83974
+          - 6a04565486fcaaeb5bc8396d
     - name: Recommendations
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fdb
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b800b
         tag_ids:
-          - 6a0b3422ac596b621e93561c
-          - 6a0b3422ac596b621e93561e
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a0b1bfda53fcab94b364993
+          - 6a008aba2a0a294c696af843
+          - 6a04565486fcaaeb5bc8396d
+          - 6a04565c86fcaaeb5bc83974
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a0bc59f16f23264031d7761
     - name: Celebrity News
       source:
         type: filter
         category_ids:
-          - 6a00793e1104bbff809b7ddb
-          - 6a00793e1104bbff809b7ddd
-          - 6a00793e1104bbff809b7de1
+          - 6a00793d1104bbff809b7c5f
           - 6a00793e1104bbff809b7de3
+          - 6a00793e1104bbff809b7de5
+          - 6a00793e1104bbff809b7de7
         tag_ids:
           - 6a008aba2a0a294c696af844
-          - 6a03467e86fcaaeb5bc83424
-          - 6a044f2a86fcaaeb5bc838b9
+          - 6a0b350dac596b621e935651
+          - 6a0b36b7ac596b621e935675
           - 6a0b350eac596b621e935655
-          - 6a0b36b7ac596b621e935676
-          - 6a0b365aac596b621e93565c
-          - 6a0be8d816f23264031d78a4
-          - 6a15211816f23264031d8161
-      schedule:
-        articles_per_week: 1
-        preferred_days: *a1
+          - 6a0b345dac596b621e935627
+          - 6a0b34dbac596b621e93564d
+          - 6a03467e86fcaaeb5bc83421
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: tvshowsmag
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -161,24 +178,6 @@ theme:
   logo_height: 52
   footer_logo: /assets/logo-footer.png
   logo_height_footer: 84
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-HHQM49XZKG
   gtm: GT-5NRXC58K
