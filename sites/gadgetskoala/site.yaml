@@ -1,9 +1,6 @@
-domain: gadgetskoala.com
-site_name: gadgetskoala
-site_tagline: null
-author: Hannah Adams
-groups: []
+domain: gadgetskoala
 active: true
+author: Hannah Adams
 brief:
   audiences:
     - Technology & Computing enthusiasts
@@ -127,6 +124,28 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Tuesday
+groups:
+  - ready
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: gadgetskoala
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -167,24 +186,6 @@ theme:
   logo_height_footer: 86
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-L407MWSNHC
   gtm: GT-KDTBTP7G
