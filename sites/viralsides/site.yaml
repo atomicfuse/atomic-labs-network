@@ -39,86 +39,73 @@ brief:
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c32
+          - 6a00793e1104bbff809b7de9
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793e1104bbff809b7d47
         tag_ids:
-          - 6a044ccf86fcaaeb5bc83879
-          - 6a044f2886fcaaeb5bc838b5
+          - 6a044ccf86fcaaeb5bc83877
           - 6a0b340bac596b621e93560c
-          - 6a0fdd1516f23264031d79e5
-          - 6a0fdf8c16f23264031d7a20
-          - 6a044d0086fcaaeb5bc838ac
-          - 6a2256b0ad9a1dd21ebb6850
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a0b340bac596b621e93560f
+          - 6a033ab186fcaaeb5bc8332e
+          - 6a0fdfa216f23264031d7a2c
+          - 6a03361286fcaaeb5bc8325a
+          - 6a044ccf86fcaaeb5bc83878
     - name: Memes
       source:
         type: filter
         category_ids:
+          - 6a00793e1104bbff809b7de9
           - 6a00793d1104bbff809b7c5f
         tag_ids:
-          - 6a03361286fcaaeb5bc83259
-          - 6a0b340bac596b621e93560c
-          - 6a044ccf86fcaaeb5bc83879
-          - 6a044f2886fcaaeb5bc838b5
-          - 6a0fdf8c16f23264031d7a20
-          - 6a2256b0ad9a1dd21ebb6850
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a03361286fcaaeb5bc8325a
+          - 6a0fdfa216f23264031d7a2c
+          - 6a044ccf86fcaaeb5bc83877
+          - 6a042c6686fcaaeb5bc8359a
+          - 6a033ab186fcaaeb5bc8332e
     - name: Viral
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c32
-          - 6a00793d1104bbff809b7c6e
+          - 6a00793e1104bbff809b7de9
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b8052
         tag_ids:
-          - 6a008aba2a0a294c696af844
-          - 6a0b340bac596b621e93560c
-          - 6a044ccf86fcaaeb5bc83878
-          - 6a044f3986fcaaeb5bc838c1
-          - 6a034b0f86fcaaeb5bc8346e
-          - 6a0430f786fcaaeb5bc83651
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a03361286fcaaeb5bc8325a
+          - 6a0fdfa216f23264031d7a2c
+          - 6a042c6686fcaaeb5bc8359b
+          - 6a0bca2816f23264031d77de
+          - 6a044ccf86fcaaeb5bc83877
     - name: Animals
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c59
+          - 6a00793e1104bbff809b7dcb
+          - 6a00793e1104bbff809b7dcd
+          - 6a00793e1104bbff809b7dc9
         tag_ids:
+          - 6a0b340bac596b621e935609
           - 6a044ced86fcaaeb5bc838a5
+          - 6a044ced86fcaaeb5bc838a4
           - 6a0b340bac596b621e93560c
+          - 6a0fdd2116f23264031d79e9
+          - 6a044ccf86fcaaeb5bc8387a
           - 6a044f3986fcaaeb5bc838c1
-          - 6a044f3986fcaaeb5bc838c4
-          - 6a0fdd1516f23264031d79e4
-          - 6a044ccf86fcaaeb5bc8387c
-          - 6a044ccf86fcaaeb5bc8387b
-          - 6a044f4986fcaaeb5bc838d3
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a044aaf86fcaaeb5bc83871
     - name: Odd News
       source:
         type: filter
         category_ids:
+          - 6a00793e1104bbff809b7de9
+          - 6a00793d1104bbff809b7c5f
           - 6a00793d1104bbff809b7c29
         tag_ids:
-          - 6a03361286fcaaeb5bc83259
-          - 6a17dfc68c60bc3c84eb2e0e
-          - 6a237248ad9a1dd21ebb68d1
-          - 6a033d1786fcaaeb5bc83378
-          - 6a27b1f7eb470600f9705535
-          - 6a27a3c3eb470600f9705418
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a03361286fcaaeb5bc8325a
+          - 6a033ab186fcaaeb5bc8332e
+          - 6a0fdfa216f23264031d7a2c
+          - 6a044ccf86fcaaeb5bc8387c
+          - 6a044ccf86fcaaeb5bc83877
+          - 6a0b340bac596b621e935609
   audience_type_ids: []
 groups:
   - ready
