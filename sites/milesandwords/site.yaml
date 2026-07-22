@@ -46,45 +46,43 @@ brief:
           - 6a00793f1104bbff809b7f7d
           - 6a00793f1104bbff809b7f81
         tag_ids:
-          - 6a033f7d86fcaaeb5bc833e2
-          - 6a0b38f8ac596b621e9356b5
           - 6a1831cb0fc9210eaf31ab29
-          - 6a0b1f13a53fcab94b3649c4
           - 6a1831e00fc9210eaf31ab2d
-          - 6a0b38f8ac596b621e9356b4
-          - 6a1844a8454e8b9490eacaae
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a184492454e8b9490eacaab
+          - 6a17dfc68c60bc3c84eb2e08
     - name: Travel Tips
       source:
         type: filter
         category_ids:
           - 6a00793f1104bbff809b7f97
+          - 6a00793f1104bbff809b7f9d
           - 6a00793f1104bbff809b7f9f
           - 6a00793f1104bbff809b7f8b
-          - 6a00793f1104bbff809b7f9d
         tag_ids:
           - 6a1831e00fc9210eaf31ab2d
+          - 6a17dfc68c60bc3c84eb2e08
           - 6a0b1f13a53fcab94b3649c4
+          - 6a0b38f8ac596b621e9356b5
           - 6a0b38f8ac596b621e9356b7
           - 6a0341a186fcaaeb5bc833f2
-          - 6a0b1f01a53fcab94b3649b0
-          - 6a0b1ee9a53fcab94b364999
-          - 6a18345d0fc9210eaf31ab88
-          - 6a033f7d86fcaaeb5bc833e2
+          - 6a0b38f8ac596b621e9356b5
     - name: Local Culture
       source:
         type: filter
         category_ids:
-          - 6a00793f1104bbff809b7f89
+          - 6a00793d1104bbff809b7c7a
           - 6a00793e1104bbff809b7cc1
-          - 6a00793e1104bbff809b7cc5
           - 6a00793e1104bbff809b7d0f
+          - 6a00793e1104bbff809b7cfb
         tag_ids:
           - 6a1831cb0fc9210eaf31ab24
           - 6a1831e10fc9210eaf31ab30
+          - 6a1831cb0fc9210eaf31ab29
+          - 6a184492454e8b9490eacaab
           - 6a1831cb0fc9210eaf31ab23
-          - 6a0b38f8ac596b621e9356b4
-          - 6a1844a8454e8b9490eacaae
-          - 6a033f7d86fcaaeb5bc833e2
+          - 6a0b38f8ac596b621e9356b5
+          - 6a0341a186fcaaeb5bc833f2
     - name: Adventure Activities
       source:
         type: filter
@@ -94,14 +92,12 @@ brief:
           - 6a00793e1104bbff809b7cc9
           - 6a00793f1104bbff809b7eab
         tag_ids:
-          - 6a0b1eeea53fcab94b3649a8
+          - 6a04416d86fcaaeb5bc837a9
+          - 6a04438c86fcaaeb5bc83819
+          - 6a0b38f8ac596b621e9356b5
           - 6a0341a186fcaaeb5bc833f2
           - 6a0b1f13a53fcab94b3649c4
-          - 6a0b38f8ac596b621e9356b5
-          - 6a19177d1e60b3e9a2208600
-          - 6a1831cb0fc9210eaf31ab23
-  category_ids: []
-  tag_ids: []
+          - 6a034d6286fcaaeb5bc834b1
 groups:
   - ready
 iab_category_codes:
