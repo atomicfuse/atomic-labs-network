@@ -94,7 +94,6 @@ brief:
           - 6a007aebe9d30be04c0c6008
           - 6a034b0f86fcaaeb5bc8346e
 groups:
-  - blacklist
   - ready
 layout:
   hero:
