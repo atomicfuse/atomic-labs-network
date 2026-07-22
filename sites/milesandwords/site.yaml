@@ -103,7 +103,6 @@ brief:
   category_ids: []
   tag_ids: []
 groups:
-  - atl
   - blacklist
 iab_category_codes:
   - "662"
