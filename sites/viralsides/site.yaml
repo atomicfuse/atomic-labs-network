@@ -122,6 +122,7 @@ brief:
   audience_type_ids: []
 groups:
   - blacklist
+  - ready
 layout:
   hero:
     enabled: true
