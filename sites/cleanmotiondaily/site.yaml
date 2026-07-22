@@ -43,9 +43,12 @@ brief:
         category_ids:
           - 6a00793d1104bbff809b7c1a
           - 6a00793f1104bbff809b7ee5
-          - 6a00793e1104bbff809b7ca6
           - 6a00793d1104bbff809b7c96
-        tag_ids: []
+          - 6a00793d1104bbff809b7c98
+        tag_ids:
+          - 6a007aebe9d30be04c0c6008
+          - 6a034b0f86fcaaeb5bc8346f
+          - 6a0bf43616f23264031d78de
     - name: Electric Cars
       source:
         type: filter
@@ -62,10 +65,10 @@ brief:
         category_ids:
           - 6a00793d1104bbff809b7c1a
           - 6a00793f1104bbff809b7ee5
-          - 6a00793e1104bbff809b7ca0
           - 6a00793e1104bbff809b7ca6
+          - 6a00793e1104bbff809b7ca0
         tag_ids:
-          - 6a140c7216f23264031d7cd7
+          - 6a16d7298c60bc3c84eb2d44
           - 6a007aebe9d30be04c0c6008
     - name: Off-roading
       description: off roading cars, jeeps, tracks
@@ -73,12 +76,13 @@ brief:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c8a
-          - 6a00793d1104bbff809b7c1a
+          - 6a00793e1104bbff809b7cab
+          - 6a00793d1104bbff809b7c8c
           - 6a00793f1104bbff809b7e67
-          - 6a00793f1104bbff809b7eb9
         tag_ids:
-          - 6a0b1eeea53fcab94b3649a6
-          - 6a0b1eeea53fcab94b3649a8
+          - 6a16d7298c60bc3c84eb2d44
+          - 6a04416d86fcaaeb5bc837a9
+          - 6a03361f86fcaaeb5bc8326a
     - name: Concept Cars
       description: new concept cars
       source:
@@ -88,11 +92,7 @@ brief:
           - 6a00793d1104bbff809b7c1a
           - 6a00793f1104bbff809b7ee5
           - 6a00793d1104bbff809b7c96
-        tag_ids:
-          - 6a13f95216f23264031d7b11
-          - 6a0bc5c616f23264031d7779
-          - 6a007aebe9d30be04c0c6008
-          - 6a034b0f86fcaaeb5bc8346e
+        tag_ids: []
 groups:
   - ready
 layout:
