@@ -121,7 +121,6 @@ brief:
           - Tuesday
   audience_type_ids: []
 groups:
-  - blacklist
   - ready
 layout:
   hero:
