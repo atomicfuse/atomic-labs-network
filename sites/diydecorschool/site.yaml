@@ -99,7 +99,8 @@ brief:
     preferred_days:
       - Thursday
     preferred_time: 10:00
-groups: []
+groups:
+  - ready
 layout:
   hero:
     enabled: true
