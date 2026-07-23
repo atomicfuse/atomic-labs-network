@@ -24,7 +24,8 @@ source_url: >-
 source_item_id: 6a612142092fb0a0534c3184
 source_title: Silversea Launches New Collection of SALT Culinary Voyages
 generated_by: openai
-featuredImage: /assets/images/travelingfoodie2-general-article.webp
+featuredImage: >-
+  /assets/images/explore-europe-culinary-delights-silversea-culinary-voyages.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 62
@@ -38,6 +39,9 @@ quality_note: >-
   the title slightly exceeds optimal length and some claims about S.A.L.T.
   program specifics lack verifiable sourcing.
 reading_time: 3
+image_alt: >-
+  Autumn harvest feast on a luxury cruise deck overlooking a golden European
+  coastline.
 ---
 Silversea has recently launched its innovative S.A.L.T. Culinary Voyages, and they’re set to redefine your travel experience through immersive food-focused sailings across stunning destinations in Portugal, Spain, France, and the UK.
 
