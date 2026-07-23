@@ -101,7 +101,8 @@ brief:
       - Thursday
     preferred_time: 10:00
   audience_type_ids: []
-groups: []
+groups:
+  - ready
 layout:
   hero:
     enabled: true
