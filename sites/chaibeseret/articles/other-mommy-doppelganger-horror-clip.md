@@ -19,7 +19,7 @@ source_url: 'https://www.youtube.com/watch?v=Nrz_qCxYqMI'
 source_item_id: 6a618159f722718ae0aa2825
 source_title: Other Mommy
 generated_by: claude
-featuredImage: /assets/images/chaibeseret-general-article.webp
+featuredImage: /assets/images/other-mommy-doppelganger-horror-clip.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,7 @@ videos:
     position: after-paragraph-1
 topics:
   - movie trailers
+image_alt: A tense mother in a warm kitchen with an uncanny double reflected behind her.
 ---
 There is something uniquely, specifically horrible about a child being completely unbothered by something terrifying. Kids don't know what they're not supposed to accept — which is exactly what makes the premise of *Other Mommy* crawl under your skin and stay there.
 
