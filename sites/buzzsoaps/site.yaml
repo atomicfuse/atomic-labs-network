@@ -59,19 +59,15 @@ brief:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c5f
+          - 6a00793e1104bbff809b7de5
+          - 6a00793e1104bbff809b7de9
           - 6a00793d1104bbff809b7c32
         tag_ids:
           - 6a008aba2a0a294c696af844
-          - 6a044ccf86fcaaeb5bc83878
-          - 6a17dfc68c60bc3c84eb2e0e
-          - 6a0175542a0a294c696af93b
-          - 6a205338ad9a1dd21ebb66ac
-          - 6a20531aad9a1dd21ebb669b
-          - 6a1448e216f23264031d800c
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Monday
+          - 6a03361286fcaaeb5bc8325a
+          - 6a0b350dac596b621e935651
+          - 6a04411786fcaaeb5bc83767
+          - 6a0b36b7ac596b621e935674
     - name: Off Script
       source:
         type: filter
