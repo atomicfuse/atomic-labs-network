@@ -109,22 +109,18 @@ brief:
       source:
         type: filter
         category_ids:
+          - 6a00793e1104bbff809b7e03
           - 6a00793d1104bbff809b7c68
           - 6a00793e1104bbff809b7e25
-          - 6a00793e1104bbff809b7e03
         tag_ids:
-          - 6a03361286fcaaeb5bc83259
-          - 6a17dfc68c60bc3c84eb2e0e
-          - 6a14158a16f23264031d7d4a
-          - 6a152efb16f23264031d81e4
-          - 6a17dfc68c60bc3c84eb2e0a
-          - 6a03383f86fcaaeb5bc832d6
-          - 6a17dfdb8c60bc3c84eb2e12
-          - 6a17dfe38c60bc3c84eb2e15
-      schedule:
-        articles_per_week: 2
-        preferred_days:
-          - Thursday
+          - 6a03361286fcaaeb5bc8325a
+          - 6a03361e86fcaaeb5bc83265
+          - 6a03361e86fcaaeb5bc83266
+          - 6a03361f86fcaaeb5bc8326a
+          - 6a03361f86fcaaeb5bc83268
+          - 6a0335fa86fcaaeb5bc8323a
+          - 6a1417e016f23264031d7d63
+          - 6a17dfc68c60bc3c84eb2e08
   seo_keywords_focus: []
   content_guidelines: []
   review_percentage: 5
@@ -144,8 +140,6 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
-  category_ids: []
-  tag_ids: []
 groups:
   - ready
 layout:
