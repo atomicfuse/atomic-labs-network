@@ -129,7 +129,7 @@ theme:
     primary: "#1e3a5f"
     accent: "#06b6d4"
     background: "#f4f7f9"
-    secondary: "#0c1f33"
+    secondary: "#0063cc"
     text: "#0c1f33"
     muted: "#6b8095"
     surface: "#e3ecf2"
@@ -162,6 +162,7 @@ theme:
     body: DM Sans
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  menu_item_font_size: 14
 tracking:
   ga4: G-N44RK1FFEG
   gtm: GT-K5QNVVF2
