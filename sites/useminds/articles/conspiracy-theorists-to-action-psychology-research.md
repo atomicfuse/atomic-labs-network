@@ -21,7 +21,7 @@ source_title: >-
   Experts finally discover what prompts conspiracy theorists to act on their
   beliefs - The Independent
 generated_by: openai
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/conspiracy-theorists-to-action-psychology-research.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Conspiracy Theories
+image_alt: Silhouetted person between a glowing laptop and a tense crowd outside at night
 ---
 Conspiracy theories are no longer just fringe ideas; they have a significant impact on society, driving real-world action and even violence. Recent research has shed light on what prompts some individuals to move from passive belief to active engagement. This exploration of the psychological and social catalysts that fuel conspiracy theorist behavior reveals critical insights into radicalization trends in today’s world.
 

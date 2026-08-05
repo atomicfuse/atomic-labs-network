@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6a6f3f51e5c1aecc6d0bde88
 source_title: Can Humans Live Forever? Study Puts a Cap on Life Span at 194 Years
 generated_by: openai
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/study-caps-human-lifespan-194-years.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Hidden History
+image_alt: >-
+  Marble figure and glowing DNA helix in a dim archival laboratory evoking the
+  limits of human lifespan
 ---
 A recent study published by Healthline reveals a sobering truth about human longevity: even under ideal conditions, our lifespan is estimated to be capped at 146 to 194 years due to DNA mutations. This research employs mathematical modeling to understand the interplay of various biological processes involved in aging. The findings have significant implications, especially as interest in extreme longevity grows, fueled by biohacking trends and claims made by influencers.
 
