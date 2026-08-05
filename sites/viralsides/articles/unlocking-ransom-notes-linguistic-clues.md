@@ -18,7 +18,7 @@ source_url: 'https://www.vulture.com/article/nancy-guthrie-ransom-notes-released
 source_item_id: 6a6d84593c7178c76853ec47
 source_title: Sheriff’s Department Releases Nancy Guthrie Ransom Notes
 generated_by: openai
-featuredImage: /assets/images/viralsides-general-article.webp
+featuredImage: /assets/images/unlocking-ransom-notes-linguistic-clues.webp
 quality_score: 49
 score_breakdown:
   seo_quality: 52
@@ -34,6 +34,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Odd News
+image_alt: Gloved hands examine blurred ransom-note pages under a forensic desk lamp.
 ---
 In a chilling twist to the high-profile kidnapping case of Nancy Guthrie, the Pima County Sheriff's Department has released two ransom notes that demand a staggering $4 million in bitcoin for her safe return. What makes these notes particularly intriguing is the authorities' request for public assistance in analyzing the language used within them. In this case, linguistic analysis could be the key to unraveling the mystery behind the person responsible for this crime.
 
