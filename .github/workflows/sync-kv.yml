@@ -36,12 +36,16 @@ on:
         type: boolean
         default: false
 
-# Prevent concurrent syncs to the same KV namespace. Concurrent bulk-put
-# calls targeting the same article-index key can race, leaving a stale
-# value even though each run reports success.
-concurrency:
-  group: sync-kv-${{ github.ref_name }}
-  cancel-in-progress: false
+# NOTE: concurrency is declared per-SITE on the `sync` job below, never at
+# workflow level. A workflow-level group keyed only on github.ref_name puts
+# every site on `main` into ONE group: auto-publish pushes one commit per
+# site seconds apart, GitHub keeps at most one *pending* run per group, and
+# each newly queued run evicts the previously pending one. Because `detect`
+# scopes a run to its own push diff, an evicted run's site is never synced
+# by anyone — its articles reach main but never reach prod KV, so the live
+# site silently freezes while the staging preview (a per-branch group, so
+# uncontended) stays fresh. That dropped 55% of main-branch syncs and left
+# 30 of 53 sites stale for up to a month before it was noticed.
 
 jobs:
   detect:
@@ -136,6 +140,14 @@ jobs:
     needs: detect
     if: needs.detect.outputs.sites != '[]' && needs.detect.outputs.sites != ''
     runs-on: ubuntu-latest
+
+    # Serialise only syncs targeting the SAME site in the SAME namespace —
+    # that is the actual race (concurrent bulk-puts to article-index:<site>).
+    # Different sites are independent and must run in parallel; serialising
+    # them across sites is what caused the mass-cancellation described above.
+    concurrency:
+      group: sync-kv-${{ github.ref_name }}-${{ matrix.site }}
+      cancel-in-progress: false
     strategy:
       fail-fast: false
       matrix:
