@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6a65ae1af722718ae0aa2a28
 source_title: Israeli and European Institutions Trace the Origins of the Dead Sea Scrolls
 generated_by: openai
-featuredImage: /assets/images/mindsbit-general-article.webp
+featuredImage: /assets/images/ai-decoding-ancient-history-dead-sea-scrolls.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Ideas
+image_alt: >-
+  Ancient parchment under lab light with subtle AI patterns and molecular forms
+  hovering above.
 ---
 ### Unraveling the Mysteries of Ancient Manuscripts
 
