@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6a62ea49f722718ae0aa28e6
 source_title: Xzibit’s cat is 20 years old. Here’s how to help your cat live longer
 generated_by: openai
-featuredImage: /assets/images/gigsfreaks-general-article.webp
+featuredImage: /assets/images/help-your-cat-live-to-20-practical-tips.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Funny Animals
+image_alt: >-
+  Senior cat lounging happily among toys, healthy food, and birthday decorations
+  in a sunny home.
 ---
 ### An Inspiration from Thunder Cat
 
