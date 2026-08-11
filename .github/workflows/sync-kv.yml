@@ -78,6 +78,34 @@ jobs:
             exit 0
           fi
 
+          # A staging/<domain> branch is only ever authoritative for its OWN
+          # site: it carries sites/<domain>/, and every shared file (org.yaml,
+          # groups/, overrides/) is overlaid from main at sync time.
+          #
+          # Syncing any OTHER site from a staging branch writes that site's
+          # staging KV from THIS branch's snapshot of main — frozen at the
+          # branch's last auto-publish reset, so possibly older than the site's
+          # own data. That reset is a force-push, so its diff spans nearly every
+          # sites/** path and the detection below selected all ~54 sites. With
+          # ten sites publishing per tick, ten overlapping full-network re-seeds
+          # raced on the same KV keys and the last job to finish won — often
+          # carrying a pre-publish snapshot, silently erasing the new articles
+          # from the preview while the live site (synced from main, one site per
+          # push) stayed correct. It also burned 550 CI jobs per tick.
+          #
+          # force_all still wins, so a deliberate full resync is unaffected.
+          if [[ "$FORCE_ALL" != "true" && "$GITHUB_REF_NAME" == staging/* ]]; then
+            SITE="${GITHUB_REF_NAME#staging/}"
+            if [[ -d "sites/$SITE" ]]; then
+              printf 'sites=["%s"]\n' "$SITE" >> "$GITHUB_OUTPUT"
+              echo "→ Staging branch — syncing own site only: $SITE"
+            else
+              echo "sites=[]" >> "$GITHUB_OUTPUT"
+              echo "→ Staging branch $GITHUB_REF_NAME has no sites/$SITE directory — nothing to sync"
+            fi
+            exit 0
+          fi
+
           if [[ "$FORCE_ALL" == "true" ]]; then
             CHANGED="*"
           elif [[ "$EVENT" == "pull_request" ]]; then
