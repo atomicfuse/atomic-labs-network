@@ -20,7 +20,7 @@ source_url: 'https://www.youtube.com/watch?v=Fdar7gTQnog'
 source_item_id: 6a80fd8197fd409b180842b7
 source_title: 'Star Wars: Ahsoka Season 2 | Teaser Trailer | Streaming January 20 on Disney+'
 generated_by: openai
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: /assets/images/ahsoka-season-2-teaser-jedi-legacy.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -43,6 +43,7 @@ videos:
     position: after-paragraph-1
 topics:
   - TV & Movies
+image_alt: Hooded warrior on an ancient platform facing twin moons and a distant fleet
 ---
 With the *Star Wars: Ahsoka* Season 2 teaser trailer dropping recently, fans of the galaxy far, far away can hardly contain their excitement. Set to premiere on January 20, 2026, exclusively on Disney+, the teaser invites viewers to ponder an eloquent question: "Are you a Jedi… or not?" This evokes the tantalizing exploration of identity within the Jedi Order and hints at some compelling narrative turns for Ahsoka Tano and her allies. 
 
