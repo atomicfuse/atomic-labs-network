@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6a756b01caeec78f71266121
 source_title: 'Forget run clubs: The all-women hiking groups taking on great heights'
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/beginner-guide-women-hiking-groups.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 52
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Adventure Activities
+image_alt: Women hikers sharing a sunny mountain trail overlooking a broad valley
 ---
 Hiking clubs are emerging as the new run clubs — especially all-women groups that provide a supportive and empowering environment for outdoor adventurers. With social connections becoming more vital for mental health, these groups are perfect for anyone looking to combine fitness with friendship. If you've been considering joining one of these communities or just want to explore nature with confidence, here's how to get started.
 
