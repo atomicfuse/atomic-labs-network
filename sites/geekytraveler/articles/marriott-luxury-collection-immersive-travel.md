@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6a860b437453cef62ce89246
 source_title: Marriott’s Luxury Collection Unveils New Destination-Focused Experiences
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/marriott-luxury-collection-immersive-travel.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 52
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destination Guides
+image_alt: >-
+  Luxury traveler connects with a local artisan in a sunlit hotel courtyard
+  inspired by the destination.
 ---
 In a shifting landscape of travel preferences, Marriott’s Luxury Collection is forging new pathways for luxury travelers by introducing destination-focused experiences that prioritize local culture and immersion. As travelers seek deeper connections to the places they visit, Marriott rises to the occasion, tailoring their offerings to meet this evolving desire.
 

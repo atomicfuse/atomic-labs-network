@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6a860b427453cef62ce8923e
 source_title: Cruise travel tips with Travel Expert Bobby Laurie
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/diy-or-ship-excursion-cruise-tips.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Travel Tips
+image_alt: >-
+  Traveler at a cruise port choosing between independent exploring and a guided
+  shore excursion.
 ---
 Planning a day at port during your cruise can be daunting, especially for first-time cruisers. Travel expert Bobby Laurie provides essential tips on whether to venture out independently or join official ship excursions. By the end of this guide, you'll have a clear roadmap to make your shore days enjoyable and stress-free.
 
