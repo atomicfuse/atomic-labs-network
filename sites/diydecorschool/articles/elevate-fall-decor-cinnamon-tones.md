@@ -20,7 +20,7 @@ source_title: >-
   The 7 Most Sophisticated Fall Decorating Trends for 2026, According to
   Designers
 generated_by: openai
-featuredImage: /assets/images/diydecorschool-general-article.webp
+featuredImage: /assets/images/elevate-fall-decor-cinnamon-tones.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72

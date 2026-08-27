@@ -20,7 +20,7 @@ source_title: >-
   Channel Pilates Mom Vibes in This Travel Set That ‘Looks Rich’ and ‘Feels
   Expensive,’ per Fans
 generated_by: openai
-featuredImage: /assets/images/womendivision-general-article.webp
+featuredImage: /assets/images/style-26-dollar-two-piece-set-rich-mom-travel.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62

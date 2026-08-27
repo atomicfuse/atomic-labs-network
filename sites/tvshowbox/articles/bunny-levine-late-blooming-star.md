@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6a8a486963a7e9d3e6ee4610
 source_title: 'Bunny Levine Dead: Gilmore Girls, Shameless, La La Land Actress Was 97'
 generated_by: openai
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/bunny-levine-late-blooming-star.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 62

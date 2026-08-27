@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6a8f97c90ab3ca3e5b33f2fe
 source_title: India to host Panama in international friendly on Sep 26
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/india-panama-friendly-test-world-cup.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 52

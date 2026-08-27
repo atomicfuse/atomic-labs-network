@@ -20,7 +20,7 @@ source_title: >-
   The 10 Most Exciting Mystery Thriller Series Like Harlan Coben's 'I Will Find
   You', Ranked
 generated_by: openai
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/mystery-thrillers-to-binge-after-i-will-find-you.webp
 quality_score: 58
 score_breakdown:
   seo_quality: 62

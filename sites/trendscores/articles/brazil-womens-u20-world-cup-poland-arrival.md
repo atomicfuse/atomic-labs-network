@@ -18,7 +18,7 @@ source_url: 'https://sports.yahoo.com/articles/brazil-women-under-20s-land-21220
 source_item_id: 6a8f97c90ab3ca3e5b33f2ff
 source_title: Brazil women’s under-20s land in Poland for the World Cup
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/brazil-womens-u20-world-cup-poland-arrival.webp
 quality_score: 52
 score_breakdown:
   seo_quality: 52

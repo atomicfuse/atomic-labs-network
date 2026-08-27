@@ -24,7 +24,7 @@ source_title: >-
   &amp; Why She Wants To Honor Her Country Roots The "Further Along This Path I
   Get"
 generated_by: openai
-featuredImage: /assets/images/dramadispatch-general-article.webp
+featuredImage: /assets/images/i-knew-you-were-trouble-transformed-from-ballad-to-dubstep.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62

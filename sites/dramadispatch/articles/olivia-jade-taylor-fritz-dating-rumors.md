@@ -21,7 +21,7 @@ source_url: 'https://www.thecut.com/article/olivia-jade-taylor-fritz-dating.html
 source_item_id: 6a8d2859e04b499a4e888c77
 source_title: Are Olivia Jade and Taylor Fritz Dating?
 generated_by: openai
-featuredImage: /assets/images/dramadispatch-general-article.webp
+featuredImage: /assets/images/olivia-jade-taylor-fritz-dating-rumors.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
