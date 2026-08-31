@@ -1,0 +1,60 @@
+# Slack alert configuration.
+#
+# Read by the content-pipeline alert engine (services/content-pipeline/src/alerts/config.ts).
+# Anything omitted falls back to DEFAULT_ALERT_CONFIG in that file. Keys are
+# camelCase and must match exactly — an unrecognised key is silently ignored,
+# as is a value of the wrong type.
+#
+# This file lives in the network repo on purpose: thresholds can be tuned
+# without a platform deploy, the same way scheduler/config.yaml gates the
+# scheduler. Until 2026-08-31 the file did not exist at all, so every alert
+# run logged "Failed to load alerts.yaml, using defaults".
+
+enabled: true
+
+# Live site is serving stale content (prod KV sync-status.ok === false).
+# Fires once per transition, not repeatedly.
+syncFailed:
+  enabled: true
+
+# Articles written but stuck awaiting review.
+#
+# Was 15 (the built-in default), which no site has ever reached — the alert had
+# never fired. On 2026-08-31 wineoceans had 11 articles in review, roughly half
+# its recent output, entirely unsurfaced. 5 is above the normal steady state
+# (most sites sit at 0-2) but well below a real backlog.
+inReview:
+  enabled: true
+  limit: 5
+
+# No GA4 and no GTM configured. Currently alerting for 11 legacy sites,
+# first detected 2026-06-08.
+trackingOff:
+  enabled: true
+
+# NOTE: this condition tests the FAILURE count against 70% of expected, but its
+# message reports articles *created*. The two don't line up — a site can hit its
+# full quota and still trip this, producing a confusing message. Left enabled at
+# the default until the condition/message mismatch is resolved.
+monthlyCreationAlert:
+  enabled: true
+  failureThresholdPct: 70
+
+# A site that has produced nothing in 14 days.
+zeroArticles14d:
+  enabled: true
+
+reminders:
+  # Unconditional calendar nag. Kept on deliberately for now: it is the only
+  # network-scoped reminder that fires regardless of state, so it doubles as a
+  # probe for whether the alert engine's delivery path works at all.
+  createNewSite:
+    enabled: true
+    everyDays: 14
+
+  # Fires weekly whenever ANY article network-wide uses the site's default
+  # image. After the 2026-08-27 auto-publish fix that count sits at 1 (a
+  # retired site), so this is near-silent; it has no floor, so revisit if it
+  # starts nagging about a single article.
+  generalImages:
+    enabled: true
