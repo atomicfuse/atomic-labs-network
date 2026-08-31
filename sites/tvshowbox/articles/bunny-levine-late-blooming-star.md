@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Reviews
+image_alt: >-
+  Warm spotlight on a backstage chair, vanity, eyeglasses, scarf, and fresh
+  flowers evoking a late-blooming career.
 ---
 Bunny Levine, the talented character actress known for her roles in beloved series like *Gilmore Girls* and *Shameless*, passed away at the age of 97. Levine's journey to stardom wasn't a typical Hollywood tale; it was a late-blooming success that serves as an inspiring chapter for those who cherish second chances in life.
 

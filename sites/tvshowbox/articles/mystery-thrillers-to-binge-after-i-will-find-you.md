@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Streaming
+image_alt: >-
+  A viewer watches a suspenseful thriller in a dark, rain-lit room filled with
+  ominous shadows.
 ---
 With the thrilling buzz surrounding Harlan Coben's *I Will Find You*, mystery lovers are scrambling for their next binge-worthy series. This summer's guilty pleasure has fans pondering the next edge-of-your-seat experience that can keep them guessing. Fear not! Here’s a list of the best thrillers that echo the suspenseful essence of Coben's work, complete with twisty plots, wrongly accused characters, and the secrets that bind families.
 
