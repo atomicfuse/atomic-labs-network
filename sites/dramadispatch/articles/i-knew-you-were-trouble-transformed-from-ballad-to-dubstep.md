@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Music Spotlight
+image_alt: >-
+  Moody recording studio scene with piano, guitar, and electronic waveforms
+  suggesting a song’s genre transformation.
 ---
 ## Swift's Transformation: A Sad Ballad Reimagined
 

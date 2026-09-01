@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Celebrity Culture
+image_alt: >-
+  Stylish anonymous couple walking past tennis-inspired lights on a glossy New
+  York night.
 ---
 In a whirlwind of speculation and spotting, influencer Olivia Jade Giannulli and pro tennis player Taylor Fritz may just be sparking a new romance. Reports suggest the two have been seen together in New York City, igniting rumors just in time for the blockbuster U.S. Open. 
 
