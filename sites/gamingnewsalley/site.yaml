@@ -1,10 +1,6 @@
-domain: gamingnewsalley.com
-site_name: gamingnewsalley
-site_tagline: null
-author: Elena Long
-groups:
-  - atl
+domain: gamingnewsalley
 active: true
+author: Elena Long
 brief:
   audiences:
     - Video Gaming enthusiasts
@@ -45,82 +41,97 @@ brief:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fab
         tag_ids:
-          - 6a0175542a0a294c696af93b
-          - 6a1925d61e60b3e9a22086ae
-          - 6a22602cad9a1dd21ebb68a7
-          - 6a1448e116f23264031d800a
-          - 6a14263916f23264031d7eb4
-          - 6a1925b71e60b3e9a22086a5
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a14213716f23264031d7dbd
+          - 6a14263916f23264031d7eb8
+          - 6a142acc16f23264031d7f30
+          - 6a8a393263a7e9d3e6ee4605
+          - 6a14488116f23264031d7fed
     - name: Reviews
       source:
         type: filter
         category_ids:
-          - 6a0079401104bbff809b7fdd
-          - 6a0079401104bbff809b7fd9
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fab
         tag_ids:
-          - 6a144a3116f23264031d8027
-          - 6a1448c216f23264031d8005
-          - 6a0bf6bc16f23264031d7923
-          - 6a1520a716f23264031d813b
-          - 6a1448e116f23264031d800a
-          - 6a0b3518ac596b621e935657
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a14213716f23264031d7dbd
+          - 6a14263916f23264031d7eb8
+          - 6a142afc16f23264031d7f46
+          - 6a8a393263a7e9d3e6ee4605
+          - 6a37ca10cbbe345bde1163ed
+          - 6a37c8cbcbbe345bde1163c0
     - name: Gameplay
       source:
         type: filter
         category_ids:
           - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fab
         tag_ids:
-          - 6a226008ad9a1dd21ebb6888
-          - 6a1448e116f23264031d800a
-          - 6a14265716f23264031d7ec2
-          - 6a22602cad9a1dd21ebb68a6
-          - 6a1925d61e60b3e9a22086ae
-          - 6a226046ad9a1dd21ebb68b4
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a14213716f23264031d7dbd
+          - 6a14263916f23264031d7eb8
+          - 6a142acc16f23264031d7f30
+          - 6a8a393263a7e9d3e6ee4605
+          - 6a14488116f23264031d7fed
     - name: PC Games
       source:
         type: filter
-        category_ids: []
+        category_ids:
+          - 6a00793f1104bbff809b7fad
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7f63
+          - 6a00793f1104bbff809b7f57
         tag_ids:
-          - 6a22602aad9a1dd21ebb689f
-          - 6a226008ad9a1dd21ebb6888
-          - 6a226046ad9a1dd21ebb68b4
-          - 6a1448e116f23264031d800a
-          - 6a14263916f23264031d7eb4
-          - 6a142aaa16f23264031d7f1e
-          - 6a142a9016f23264031d7f13
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a14213716f23264031d7dbd
+          - 6a14263916f23264031d7eb8
+          - 6a142acc16f23264031d7f30
+          - 6a14488116f23264031d7fed
+          - 6a8a393263a7e9d3e6ee4605
+          - 6a87f40c7453cef62ce893b0
     - name: Console Games
       source:
         type: filter
-        category_ids: []
+        category_ids:
+          - 6a00793f1104bbff809b7fa7
+          - 6a00793d1104bbff809b7c7d
+          - 6a00793f1104bbff809b7fad
+          - 6a00793f1104bbff809b7fab
         tag_ids:
-          - 6a1448e116f23264031d800a
-          - 6a226008ad9a1dd21ebb6888
-          - 6a22602cad9a1dd21ebb68a6
-          - 6a1925d61e60b3e9a22086ae
-          - 6a226046ad9a1dd21ebb68b7
-          - 6a22602aad9a1dd21ebb689f
-          - 6a1925b71e60b3e9a22086a5
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Tuesday
+          - 6a14213716f23264031d7dbd
+          - 6a14263916f23264031d7eb8
+          - 6a142acc16f23264031d7f30
+          - 6a87f40c7453cef62ce893af
+          - 6a87f40c7453cef62ce893ae
+          - 6a8a393263a7e9d3e6ee4605
+          - 6a14488116f23264031d7fed
+groups:
+  - atl
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 10
+site_name: gamingnewsalley
+site_tagline: null
 theme:
   base: modern
   colors:
@@ -161,24 +172,6 @@ theme:
   favicon: /assets/favicon.png
   logo_height: 52
   logo_height_footer: 72
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 10
 tracking:
   ga4: G-3K5M5VYGYN
   gtm: GT-WVGR6KG6
