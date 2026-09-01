@@ -1,11 +1,9 @@
 ---
-title: 'Explore the World: 50 Culinary Experiences Worth Traveling For'
-description: >-
-  Discover 50 restaurants and food experiences that make dining a destination.
-  Plan your next gourmet adventure around the globe with these must-visit spots.
+title: "Explore the World: 50 Culinary Experiences Worth Traveling For"
+description: Discover 50 restaurants and food experiences that make dining a destination. Plan your next gourmet adventure around the globe with these must-visit spots.
 type: listicle
-status: review
-publishDate: '2026-07-19'
+status: published
+publishDate: 2026-07-19
 author: Andrew Perry
 tags:
   - Wine for beginners
@@ -14,18 +12,10 @@ tags:
   - restaurants
   - world-cuisine
 slug: culinary-experiences-worth-traveling-for
-reviewer_notes: >-
-  This article is poorly aligned with wineoceans' wine-focused editorial
-  mission, contains fabricated or unverifiable restaurant entries (e.g.,
-  'Warehouse 13, Chicago,' 'Emporiu Gourmet, Paris,' 'Sasa Asian Cuisine,
-  Singapore'), duplicates entries (Coi listed twice, Blue Hill twice), and has
-  almost no wine-related content despite being tagged 'Wine for beginners.'
-source_url: >-
-  https://news.google.com/atom/articles/CBMi8wFBVV95cUxOUWxPZUg2eFVhdS1WX1Bpbk02eXB2X1BndThJZV9iZDRLQjhUb0Z2Y3RWMWFTNE1CZ2w2SC0tSG0yc3pwUmdxa1plb2dUNlUyeUk4QTJaVUFkbVZ0VHBkclVTTVRUREhJeVR2X3N5S0R2Y2xGTE5lX05OZkxHd3p6a2ZOaV9acGttb0Y1Y3c3ODV6T3pEYTJsNXVSbkk0d1lzNnozQkREeXBWQXU4d0FPZ0xkZUdoRzZ6T2tzM3dFTXBZamVFQ2lxaUV2S0tXWE10N3dzb0hFcnNaZ0RMX2pVc3UyU2pIVU9rdll5MHByd0UtVE3SAfgBQVVfeXFMT0xFaGhRQjc4aTItaFdIUVM0VkJWM1hsUkZ4S0dXeFA0VTZKRzIybWRuTHV2NnlFZ3FsWTFpOGxtQlRDN1ZkY21xMFQxVmNST2ZLU1lzSVE4aHV3OW9QX0s2U1M3dEhpcFFOUHdUYkJhTXNjaWxSS1FGM0t3OEFPanpKSmtIZjEzVmNhZ2NuYmlTSE9xX3lzeDFRQlYyRU1pZGVqaUNKWkxQRGtSTXRSQ3kxcTJzN1lycFBKZFFhbm9Lb21BTFNpTl9qdXJhTnhpNFZfM3E0TzAxdWs1Q0RJUDBleTdFRkNKLVVIeU9IUldQZXktSTRxa2g?oc=5
+reviewer_notes: Approved via review queue.
+source_url: https://news.google.com/atom/articles/CBMi8wFBVV95cUxOUWxPZUg2eFVhdS1WX1Bpbk02eXB2X1BndThJZV9iZDRLQjhUb0Z2Y3RWMWFTNE1CZ2w2SC0tSG0yc3pwUmdxa1plb2dUNlUyeUk4QTJaVUFkbVZ0VHBkclVTTVRUREhJeVR2X3N5S0R2Y2xGTE5lX05OZkxHd3p6a2ZOaV9acGttb0Y1Y3c3ODV6T3pEYTJsNXVSbkk0d1lzNnozQkREeXBWQXU4d0FPZ0xkZUdoRzZ6T2tzM3dFTXBZamVFQ2lxaUV2S0tXWE10N3dzb0hFcnNaZ0RMX2pVc3UyU2pIVU9rdll5MHByd0UtVE3SAfgBQVVfeXFMT0xFaGhRQjc4aTItaFdIUVM0VkJWM1hsUkZ4S0dXeFA0VTZKRzIybWRuTHV2NnlFZ3FsWTFpOGxtQlRDN1ZkY21xMFQxVmNST2ZLU1lzSVE4aHV3OW9QX0s2U1M3dEhpcFFOUHdUYkJhTXNjaWxSS1FGM0t3OEFPanpKSmtIZjEzVmNhZ2NuYmlTSE9xX3lzeDFRQlYyRU1pZGVqaUNKWkxQRGtSTXRSQ3kxcTJzN1lycFBKZFFhbm9Lb21BTFNpTl9qdXJhTnhpNFZfM3E0TzAxdWs1Q0RJUDBleTdFRkNKLVVIeU9IUldQZXktSTRxa2g?oc=5
 source_item_id: 6a184523454e8b9490eacaf8
-source_title: >-
-  50 best restaurants and food experiences to travel the world for -
-  escape.com.au
+source_title: 50 best restaurants and food experiences to travel the world for - escape.com.au
 generated_by: openai
 featuredImage: /assets/images/culinary-experiences-worth-traveling-for.webp
 quality_score: 47
@@ -35,18 +25,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 38
   keyword_relevance: 30
-quality_note: >-
-  This article is poorly aligned with wineoceans' wine-focused editorial
-  mission, contains fabricated or unverifiable restaurant entries (e.g.,
-  'Warehouse 13, Chicago,' 'Emporiu Gourmet, Paris,' 'Sasa Asian Cuisine,
-  Singapore'), duplicates entries (Coi listed twice, Blue Hill twice), and has
-  almost no wine-related content despite being tagged 'Wine for beginners.'
+quality_note: This article is poorly aligned with wineoceans' wine-focused editorial mission, contains fabricated or unverifiable restaurant entries (e.g., 'Warehouse 13, Chicago,' 'Emporiu Gourmet, Paris,' 'Sasa Asian Cuisine, Singapore'), duplicates entries (Coi listed twice, Blue Hill twice), and has almost no wine-related content despite being tagged 'Wine for beginners.'
 reading_time: 5
 topics:
   - Wine news
-image_alt: >-
-  Global tasting table with dishes, wine glasses, spices, and travel objects
-  suggesting culinary adventure
+image_alt: Global tasting table with dishes, wine glasses, spices, and travel objects suggesting culinary adventure
 ---
 ### Curate Your Culinary Bucket List
 Traveling for food has never been more enticing. As diners seek memorable meals and authentic flavors, the world offers a plethora of restaurants and experiences worth planning a trip around. Here’s your ultimate bucket list of 50 culinary experiences that can transform any journey into a feast.

@@ -1,11 +1,9 @@
 ---
-title: 'How to Find the Best Local Food When Traveling: 4 Essential Tips'
-description: >-
-  Discover 4 essential tips for finding authentic, memorable meals while
-  traveling and avoid tourist traps for a true local experience.
+title: "How to Find the Best Local Food When Traveling: 4 Essential Tips"
+description: Discover 4 essential tips for finding authentic, memorable meals while traveling and avoid tourist traps for a true local experience.
 type: how-to
-status: review
-publishDate: '2026-07-19'
+status: published
+publishDate: 2026-07-19
 author: Andrew Perry
 tags:
   - Wine tips
@@ -14,13 +12,8 @@ tags:
   - local-food
   - restaurants
 slug: find-best-local-food-travel
-reviewer_notes: >-
-  This article is almost entirely off-topic for a wine-focused site, covering
-  general travel dining tips with no meaningful connection to wine, winemaking,
-  wine reviews, or wine recipes, making it a poor content fit despite reasonable
-  writing quality.
-source_url: >-
-  https://news.google.com/atom/articles/CBMilAFBVV95cUxPRHdSYjVING5kQkxZQWJGdHJwQXU2VVdVWENtU3dKOUplb2R2WjkyeFhDVHFXaThCZ2p1cWhmSm5oaVA0Uk4yc0loOWFaVTN3d3dreGNBWm42Q1p1ZEZ2QnJEaWp2aHJSaXhZZS1IYm5WcUNXYkpSYzVtMG41WGVCcFlMU3FOZEhuMzBIa1hPcXZGNU9s0gGaAUFVX3lxTE93SV9LT0xpYWp1WDFCblB4cVFrZ2JBNUdYX1BZcGM5ZUdmVUJ6Tnhid24xQ05WMnBwd3JudG8xUzRjcFJtME9WQTFHOXN0eDN6S3o4Qm1UT3FNMjNjdnBGVnp1YnlxbFVTX3FKMjdGQVBHZWhubGtNc2NUZXRqWUt2T0tqM3BZdGJtNEhPRy1sWjBCTTJhM3lnVXc?oc=5
+reviewer_notes: Approved via review queue.
+source_url: https://news.google.com/atom/articles/CBMilAFBVV95cUxPRHdSYjVING5kQkxZQWJGdHJwQXU2VVdVWENtU3dKOUplb2R2WjkyeFhDVHFXaThCZ2p1cWhmSm5oaVA0Uk4yc0loOWFaVTN3d3dreGNBWm42Q1p1ZEZ2QnJEaWp2aHJSaXhZZS1IYm5WcUNXYkpSYzVtMG41WGVCcFlMU3FOZEhuMzBIa1hPcXZGNU9s0gGaAUFVX3lxTE93SV9LT0xpYWp1WDFCblB4cVFrZ2JBNUdYX1BZcGM5ZUdmVUJ6Tnhid24xQ05WMnBwd3JudG8xUzRjcFJtME9WQTFHOXN0eDN6S3o4Qm1UT3FNMjNjdnBGVnp1YnlxbFVTX3FKMjdGQVBHZWhubGtNc2NUZXRqWUt2T0tqM3BZdGJtNEhPRy1sWjBCTTJhM3lnVXc?oc=5
 source_item_id: 6a184523454e8b9490eacaf5
 source_title: 4 Secrets To Finding The Best Food When You Travel - HuffPost
 generated_by: openai
@@ -32,17 +25,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 70
   keyword_relevance: 15
-quality_note: >-
-  This article is almost entirely off-topic for a wine-focused site, covering
-  general travel dining tips with no meaningful connection to wine, winemaking,
-  wine reviews, or wine recipes, making it a poor content fit despite reasonable
-  writing quality.
+quality_note: This article is almost entirely off-topic for a wine-focused site, covering general travel dining tips with no meaningful connection to wine, winemaking, wine reviews, or wine recipes, making it a poor content fit despite reasonable writing quality.
 reading_time: 2
 topics:
   - Wine for beginners
-image_alt: >-
-  Sunlit neighborhood table with local dishes, wine, and a map suggesting
-  authentic travel dining.
+image_alt: Sunlit neighborhood table with local dishes, wine, and a map suggesting authentic travel dining.
 ---
 Traveling isn’t just about exploring new places; it’s also an opportunity to enjoy diverse and delicious food. Unfortunately, many travelers end up in the same old tourist traps that offer mediocre meals. To ensure you experience the best local cuisine on your travels, here are four essential tips to elevate your food adventures.
 

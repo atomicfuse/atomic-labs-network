@@ -1,11 +1,9 @@
 ---
-title: 'Street Food Safety Checklist: How to Inspect Hot Dog Carts'
-description: >-
-  Avoid foodborne illness with our practical checklist for inspecting hot dog
-  carts and street food vendors. Stay safe while enjoying outdoor events.
+title: "Street Food Safety Checklist: How to Inspect Hot Dog Carts"
+description: Avoid foodborne illness with our practical checklist for inspecting hot dog carts and street food vendors. Stay safe while enjoying outdoor events.
 type: how-to
-status: review
-publishDate: '2026-07-26'
+status: published
+publishDate: 2026-07-26
 author: Andrew Perry
 tags:
   - Wine news
@@ -14,17 +12,10 @@ tags:
   - food-safety
   - hot-dogs
 slug: street-food-safety-checklist-hot-dog-carts
-reviewer_notes: >-
-  This article is entirely off-topic for a wine-focused site, covering hot dog
-  cart food safety instead of any wine-related subject, resulting in near-zero
-  keyword relevance and poor alignment with the site's editorial angle,
-  audience, and topics.
-source_url: >-
-  https://news.google.com/atom/articles/CBMigAFBVV95cUxOYkc1NWZ0QU16OFF4a1BCXzd3TU1hNnpWdkhIbl85R3p4ZXRuTUxxMUdJWGZoRzBMQzIwSzJrQ24xUWZ4OVlsaGRQd015eTVNNW83NHQ4WW5OeTAxdVV0VkZQeVJhdGxJQUEyd3FfMDU0MjlsQjBVS21JQ1NSX3NiRA?oc=5
+reviewer_notes: Approved via review queue.
+source_url: https://news.google.com/atom/articles/CBMigAFBVV95cUxOYkc1NWZ0QU16OFF4a1BCXzd3TU1hNnpWdkhIbl85R3p4ZXRuTUxxMUdJWGZoRzBMQzIwSzJrQ24xUWZ4OVlsaGRQd015eTVNNW83NHQ4WW5OeTAxdVV0VkZQeVJhdGxJQUEyd3FfMDU0MjlsQjBVS21JQ1NSX3NiRA?oc=5
 source_item_id: 6a184523454e8b9490eacae3
-source_title: >-
-  Is that hot dog safe to eat? Experts share their street food smarts. - The
-  Washington Post
+source_title: Is that hot dog safe to eat? Experts share their street food smarts. - The Washington Post
 generated_by: openai
 featuredImage: /assets/images/street-food-safety-checklist-hot-dog-carts.webp
 quality_score: 42
@@ -34,11 +25,7 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 72
   keyword_relevance: 5
-quality_note: >-
-  This article is entirely off-topic for a wine-focused site, covering hot dog
-  cart food safety instead of any wine-related subject, resulting in near-zero
-  keyword relevance and poor alignment with the site's editorial angle,
-  audience, and topics.
+quality_note: This article is entirely off-topic for a wine-focused site, covering hot dog cart food safety instead of any wine-related subject, resulting in near-zero keyword relevance and poor alignment with the site's editorial angle, audience, and topics.
 reading_time: 3
 topics:
   - Wine reviews

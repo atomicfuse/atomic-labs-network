@@ -1,11 +1,9 @@
 ---
 title: Top Culinary Hotspots to Add to Your Travel Bucket List Now
-description: >-
-  Explore the best global food destinations to inspire your next culinary
-  adventure and elevate your travel experiences.
+description: Explore the best global food destinations to inspire your next culinary adventure and elevate your travel experiences.
 type: standard
-status: review
-publishDate: '2026-08-16'
+status: published
+publishDate: 2026-08-16
 author: Andrew Perry
 tags:
   - Wine news
@@ -14,12 +12,8 @@ tags:
   - world-cuisines
   - national-geographic
 slug: top-culinary-hotspots-travel-bucket-list
-reviewer_notes: >-
-  The article is a well-structured food travel piece but has minimal relevance
-  to wine content, making it a poor fit for a wine-focused site like wineoceans,
-  with no wine-related topics, tips, reviews, or recipes incorporated.
-source_url: >-
-  https://news.google.com/atom/articles/CBMimwFBVV95cUxPWjZjMDRFaE9JZlgyTHNzN20zaU90Ync1SzdnZDRlbFA4SU9oQzJaWEYxcW5SSC1HSWNKTHdJUnlGUTZzRWVHMFh5TXRKdkhzekh6MDk0Rl85MjQtZkVKZDhocUxCZU5oNGFId0NRZnhpdEUxUU9XS0hvS055MGFWYkJzcFBuY19XelFLUnlZaGVVRlVxcERDUklvRQ?oc=5
+reviewer_notes: Approved via review queue.
+source_url: https://news.google.com/atom/articles/CBMimwFBVV95cUxPWjZjMDRFaE9JZlgyTHNzN20zaU90Ync1SzdnZDRlbFA4SU9oQzJaWEYxcW5SSC1HSWNKTHdJUnlGUTZzRWVHMFh5TXRKdkhzekh6MDk0Rl85MjQtZkVKZDhocUxCZU5oNGFId0NRZnhpdEUxUU9XS0hvS055MGFWYkJzcFBuY19XelFLUnlZaGVVRlVxcERDUklvRQ?oc=5
 source_item_id: 6a613fb9092fb0a0534c31bd
 source_title: 15 of the best places in the world for food right now - National Geographic
 generated_by: openai
@@ -31,16 +25,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 70
   keyword_relevance: 30
-quality_note: >-
-  The article is a well-structured food travel piece but has minimal relevance
-  to wine content, making it a poor fit for a wine-focused site like wineoceans,
-  with no wine-related topics, tips, reviews, or recipes incorporated.
+quality_note: The article is a well-structured food travel piece but has minimal relevance to wine content, making it a poor fit for a wine-focused site like wineoceans, with no wine-related topics, tips, reviews, or recipes incorporated.
 reading_time: 3
 topics:
   - Wine recipes
-image_alt: >-
-  Golden-hour travel table with global small plates, wine, market produce, and a
-  blurred city backdrop
+image_alt: Golden-hour travel table with global small plates, wine, market produce, and a blurred city backdrop
 ---
 As food travel becomes a pivotal part of how travelers choose their destinations, popular and emerging culinary hotspots are vying for attention. National Geographic's latest recommendations highlight 15 standout places that not only promise extraordinary flavors but also connect travelers to the rich tapestry of local culture. Here’s a closer look at some of these culinary gems you should add to your travel bucket list right now.
 

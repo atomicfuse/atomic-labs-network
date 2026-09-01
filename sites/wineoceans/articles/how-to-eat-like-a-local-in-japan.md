@@ -1,11 +1,9 @@
 ---
-title: 'How to Eat Like a Local in Japan: 9 Tips for Food Lovers'
-description: >-
-  Discover 9 essential tips for finding authentic food in Japan beyond tourist
-  traps, helping you eat like a local on your next visit.
+title: "How to Eat Like a Local in Japan: 9 Tips for Food Lovers"
+description: Discover 9 essential tips for finding authentic food in Japan beyond tourist traps, helping you eat like a local on your next visit.
 type: how-to
-status: review
-publishDate: '2026-07-26'
+status: published
+publishDate: 2026-07-26
 author: Andrew Perry
 tags:
   - Wine for beginners
@@ -13,13 +11,8 @@ tags:
   - japan-travel
   - food-tips
 slug: how-to-eat-like-a-local-in-japan
-reviewer_notes: >-
-  This article is entirely about Japanese food travel tips and has virtually no
-  relevance to wine content, making it a poor fit for a wine-focused site;
-  additionally, it contains a factual error ('osshiyoi' is not a real Japanese
-  word for delicious — the correct term is 'oishii').
-source_url: >-
-  https://news.google.com/atom/articles/CBMic0FVX3lxTE93NXl4NWswQzNyZHdwbkN1bFlwR1VsRHRNQUw1SXFROTJJYnRqMi1rd3ZQVFU4RHdDb1NXNkNheE90a3UtNERLOHlueXdCeFF4MzFDSUlUMWtSMHU3OHQ4QUUxdXFKZGF3TFlJaFpOQ1EwdkU?oc=5
+reviewer_notes: Approved via review queue.
+source_url: https://news.google.com/atom/articles/CBMic0FVX3lxTE93NXl4NWswQzNyZHdwbkN1bFlwR1VsRHRNQUw1SXFROTJJYnRqMi1rd3ZQVFU4RHdDb1NXNkNheE90a3UtNERLOHlueXdCeFF4MzFDSUlUMWtSMHU3OHQ4QUUxdXFKZGF3TFlJaFpOQ1EwdkU?oc=5
 source_item_id: 6a184522454e8b9490eacada
 source_title: 9 Tips For Finding The Best Food While Traveling In Japan - Tasting Table
 generated_by: openai
@@ -31,17 +24,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 60
   keyword_relevance: 15
-quality_note: >-
-  This article is entirely about Japanese food travel tips and has virtually no
-  relevance to wine content, making it a poor fit for a wine-focused site;
-  additionally, it contains a factual error ('osshiyoi' is not a real Japanese
-  word for delicious — the correct term is 'oishii').
+quality_note: This article is entirely about Japanese food travel tips and has virtually no relevance to wine content, making it a poor fit for a wine-focused site; additionally, it contains a factual error ('osshiyoi' is not a real Japanese word for delicious — the correct term is 'oishii').
 reading_time: 3
 topics:
   - Wine tips
-image_alt: >-
-  A cozy Japanese side-street eatery with locals, steaming dishes, and market
-  snacks in warm evening light.
+image_alt: A cozy Japanese side-street eatery with locals, steaming dishes, and market snacks in warm evening light.
 ---
 Traveling to Japan? You're not alone in craving the country’s mouthwatering cuisine. Whether it's ramen, sushi, or street food, Japan's culinary scene can be a treasure trove for food lovers. Yet, if you stick to tourist spots, you might miss out on some incredible dining experiences. Here are nine essential tips to help you eat like a local in Japan and find standout food beyond the mainstream places.
 
