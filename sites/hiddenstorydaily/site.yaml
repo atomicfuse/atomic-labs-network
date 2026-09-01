@@ -122,12 +122,14 @@ brief:
           - 6a1417e016f23264031d7d63
           - 6a17dfc68c60bc3c84eb2e08
   seo_keywords_focus: []
-  content_guidelines: []
+  content_guidelines:
+    - conspiracy, super natural, secrets, and all the interesting, weird things that we never talk about that happens around the world (or out of it). everything written in storytelling documentary style articles and content
   review_percentage: 5
   schedule:
     articles_per_day: 1
     preferred_days:
       - Wednesday
+      - Monday
     preferred_time: 10:00
   audience_type_ids: []
   vertical_id: ""
@@ -140,6 +142,8 @@ brief:
     content_length: 20
     factual_accuracy: 20
     keyword_relevance: 20
+  category_ids: []
+  tag_ids: []
 groups:
   - ready
 layout:
