@@ -1,11 +1,9 @@
 domain: danatest
-site_name: dana around the world
-site_tagline: null
-author: Sarah Chen
-groups: []
 active: true
+author: Sarah Chen
 brief:
   audiences: []
+  audience_type_ids: null
   tone: fun, storytelling, engaging
   article_types:
     listicle: 40
@@ -36,7 +34,7 @@ brief:
           - 6a140e7a16f23264031d7cec
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Thursday
     - name: Travel Tips
       source:
@@ -56,7 +54,8 @@ brief:
           - 6a612bf1f722718ae0aa27f0
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Local Culture
       source:
         type: filter
@@ -73,7 +72,8 @@ brief:
           - 6a0341a186fcaaeb5bc833f2
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
     - name: Adventure Activities
       source:
         type: filter
@@ -90,62 +90,22 @@ brief:
           - 6a033f7d86fcaaeb5bc833e2
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Thursday
   seo_keywords_focus: []
   content_guidelines:
     - storytelling and engaging, 1 person pov. dana is the writer
+  image_guidelines: null
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
   review_percentage: 5
   schedule:
     articles_per_day: 1
-    preferred_days: *a1
+    preferred_days:
+      - Thursday
     preferred_time: 10:00
-theme:
-  base: pink_glow
-  colors:
-    primary: "#180a25"
-    accent: "#be185d"
-    background: "#180a25"
-    secondary: "#2c1640"
-    text: "#fce7f3"
-    muted: "#d8b4d8"
-    surface: "#1f0f30"
-    border: "#3d1a4a"
-    heading: "#fce7f3"
-    link: "#f472b6"
-    link_hover: "#fbcfe8"
-    nav_link: "#fce7f3"
-    nav_link_hover: "#ffffff"
-    footer_bg: "#0e051a"
-    must_reads_bg: "#1f0f30"
-    hero_title: "#fce7f3"
-    must_reads_title: "#fce7f3"
-    article_hero_title: "#fce7f3"
-    article_hero_meta: "#d8b4d8"
-    feed_title: "#fce7f3"
-    feed_desc: "#f9a8d4"
-    feed_date: "#d8b4d8"
-    prose_heading: "#fce7f3"
-    prose_body: "#f9a8d4"
-    category_header_text: "#fce7f3"
-    subscribe_heading: "#ffffff"
-    footer_text: "#d8b4d8"
-    footer_heading: "#fce7f3"
-    footer_link: "#d8b4d8"
-    footer_link_hover: "#f472b6"
-    header_bg_gradient: "linear-gradient(135deg, #180a25 0%, #831843 30%, #db2777 50%, #831843 70%, #180a25 100%)"
-    subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be185d 50%, #db2777 100%)"
-    footer_bg_gradient: "linear-gradient(180deg, #831843 0%, #4a0e2a 50%, #0e051a 100%)"
-    must_reads_bg_gradient: "linear-gradient(135deg, #4a0e2a 0%, #831843 50%, #4a0e2a 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(219,39,119,0.15) 50%, rgba(24,10,37,0.92) 100%)
-  logo_height: 52
-  menu_item_font_size: 14
-  fonts:
-    heading: Playfair Display
-    body: Inter
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
+groups: []
+iab_vertical_code: null
 layout:
   hero:
     enabled: true
@@ -164,3 +124,47 @@ layout:
     explicit: []
   load_more:
     page_size: 4
+scripts_vars: null
+site_name: dana around the world
+site_tagline: null
+theme:
+  base: pink_glow
+  colors:
+    primary: "#1e3a5f"
+    accent: "#06b6d4"
+    background: "#f4f7f9"
+    secondary: "#0c1f33"
+    text: "#0c1f33"
+    muted: "#6b8095"
+    surface: "#e3ecf2"
+    border: "#cbd9e3"
+    heading: "#0c1f33"
+    link: "#1e3a5f"
+    link_hover: "#06b6d4"
+    nav_link: "#f4f7f9"
+    nav_link_hover: "#67e8f9"
+    footer_bg: "#0c1f33"
+    must_reads_bg: "#0c1f33"
+    hero_title: "#f4f7f9"
+    must_reads_title: "#f4f7f9"
+    article_hero_title: "#f4f7f9"
+    article_hero_meta: "#94a8bc"
+    feed_title: "#0c1f33"
+    feed_desc: "#1e3a5f"
+    feed_date: "#6b8095"
+    prose_heading: "#0c1f33"
+    prose_body: "#1e3a5f"
+    category_header_text: "#f4f7f9"
+    subscribe_heading: "#1e3a5f"
+    footer_text: "#94a8bc"
+    footer_heading: "#f4f7f9"
+    footer_link: "#94a8bc"
+    footer_link_hover: "#67e8f9"
+  logo_height: 66
+  menu_item_font_size: 15
+  fonts:
+    heading: DM Sans
+    body: DM Sans
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height_footer: 76
