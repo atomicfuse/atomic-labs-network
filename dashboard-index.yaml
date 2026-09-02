@@ -939,6 +939,25 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
+  - domain: danatest
+    company: null
+    vertical: Travel
+    status: Staging
+    site_id: "8356056232227"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-09-02T13:34:16.232Z
+    created_at: 2026-09-02T13:34:16.232Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/danatest
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=danatest
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
