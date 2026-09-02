@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6a93d2990eeb412b4d42d188
 source_title: How to Sell Nayarit to Luxury Clients
 generated_by: claude
-featuredImage: /assets/images/danatest-general-article.webp
+featuredImage: /assets/images/nayarit-luxury-travel-alternative-mexico.webp
 quality_score: 84
 score_breakdown:
   seo_quality: 78
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Destination Guides
+image_alt: Secluded luxury terrace overlooking a golden Nayarit coastline at sunset
 ---
 I'll be honest with you — when someone first told me to look at Nayarit as a serious luxury destination, I nodded politely and kept scrolling past Cabo listings. I was wrong, and I'm glad I figured that out before too many other people did.
 
