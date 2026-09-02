@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6a8cf722eacb826224e5b239
 source_title: Chang-rae Lee's Guide to Umbria
 generated_by: openai
-featuredImage: /assets/images/danatest-general-article.webp
+featuredImage: /assets/images/umbria-slow-travel-itinerary.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Local Culture
+image_alt: >-
+  Writer’s terrace overlooking an Umbrian hill town, olive groves, wine,
+  notebook, and local food at golden hour.
 ---
 In the charming region of northern Umbria, tranquility reigns, inviting travelers to enjoy the slower rhythms of life away from the busier streets of Tuscany. Chang-rae Lee's recent experiences in this picturesque landscape, including his newly purchased second home, provide the perfect backdrop for a writer’s slow-travel itinerary. Here’s how you can immerse yourself in Umbria's delights, from hearty meals to breathtaking sights. 
 
