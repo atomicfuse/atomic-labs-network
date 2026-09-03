@@ -111,26 +111,14 @@ ads_txt:
   - "# NGC Digital Websites #"
   - ownerdomain=ngcdigital.io
   - "#outbrain-ngc"
-  - outbrain.com, 00afa7596d58b5d5c5588aeaec8fde9ca6, DIRECT
-  - "openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand"
-  - contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
-  - "aps.amazon.com, 3965, RESELLER #instream video by outbrain"
-  - "freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain"
-  - "freewheel.tv, 1133073, RESELLER #instream video by outbrain"
-  - "sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2 #outbrain_all formats"
   - sharethrough.com, 3820, RESELLER, d53b998a7bd4ecd2
+  - outbrain.com, 00afa7596d58b5d5c5588aeaec8fde9ca6, DIRECT
+  - openx.com, 540393169, RESELLER, 6a698e2ec38604c6
   - rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
-  - "sharethrough.com, uDlHlVKG, RESELLER, d53b998a7bd4ecd2 #outbrain_video"
   - "Media.net, 8CU33YS38, RESELLER # all formats"
   - appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
-  - "smartadserver.com, 3820, RESELLER # Premium Video Demand"
-  - "video.unrulymedia.com, 367782854, RESELLER # Premium video demand from Outbrain"
-  - "indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain"
-  - "pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain"
-  - "improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain"
-  - "freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain"
-  - "smaato.com, 1100048704, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain"
-  - "contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium video demand from Outbrain"
-  - "google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain"
+  - smartadserver.com, 3820, RESELLER
+  - indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc
+  - pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
 theme: {}
 legal: {}
