@@ -22,7 +22,7 @@ source_title: >-
   How to watch Manchester City vs Coventry City: Live stream English Premier
   League, TV channel
 generated_by: openai
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/manchester-city-vs-coventry-city-live-stream.webp
 quality_score: 42
 score_breakdown:
   seo_quality: 42
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Latest News
+image_alt: >-
+  Football supporters gather outside a floodlit stadium before a high-stakes
+  weekend match.
 ---
 Manchester City, the reigning champions and current pace-setters in the English Premier League, are set to host newly promoted Coventry City this Saturday. As both teams prepare to face off in what promises to be an exciting matchup in Week 3, here's how to tune in and watch the action live.
 
