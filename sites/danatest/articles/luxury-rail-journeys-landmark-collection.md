@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6aa1bac5ba714d8fce522123
 source_title: Great Rail Journeys Expands Luxury Portfolio With Landmark Collection
 generated_by: openai
-featuredImage: /assets/images/danatest-general-article.webp
+featuredImage: /assets/images/luxury-rail-journeys-landmark-collection.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destination Guides
+image_alt: Luxury passenger train winds through an alpine valley at golden hour
 ---
 With the ever-increasing demand for luxurious and curated travel experiences, Great Rail Journeys has risen to the occasion by launching their new Landmark Collection. This exciting offering focuses on luxury escorted rail vacations that transform train travel from a mode of transportation into an unforgettable adventure filled with iconic routes, premium accommodations, and exclusive experiences. Let’s explore how this collection signifies a shift in luxury travel toward slower, but far richer, experiences.
 
