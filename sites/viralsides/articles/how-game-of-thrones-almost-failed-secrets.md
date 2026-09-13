@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6aa5f7eb22000eee72257adc
 source_title: These Game of Thrones Secrets Rule the Seven Kingdoms
 generated_by: openai
-featuredImage: /assets/images/viralsides-general-article.webp
+featuredImage: /assets/images/how-game-of-thrones-almost-failed-secrets.webp
 quality_score: 58
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Funny Videos
+image_alt: >-
+  Unfinished fantasy TV set with icy throne, scattered props, and dramatic
+  studio lighting
 ---
 In a world where epic fantasy reigns supreme, the legacy of *Game of Thrones* looms large, especially now with its prequel, *A Knight of the Seven Kingdoms*, nominated for nine Emmy Awards. As this new series gains momentum, it’s a perfect time to look back at how the original HBO series nearly met its end before it even began. Here are some of the most fascinating behind-the-scenes secrets that kept *Game of Thrones* alive and thriving.
 

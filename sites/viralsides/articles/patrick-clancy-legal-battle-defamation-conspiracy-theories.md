@@ -28,7 +28,7 @@ source_title: >-
   Patrick Clancy Threatens Conspiracy Theorists With Legal Action Over
   ‘Destructive Defamation Campaign’ - Us Weekly
 generated_by: openai
-featuredImage: /assets/images/viralsides-general-article.webp
+featuredImage: /assets/images/patrick-clancy-legal-battle-defamation-conspiracy-theories.webp
 quality_score: 39
 score_breakdown:
   seo_quality: 42
@@ -44,6 +44,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Memes
+image_alt: >-
+  A silhouetted figure faces legal papers as abstract social media bubbles loom
+  in the background.
 ---
 Patrick Clancy, a public figure recently thrust into the spotlight, is making headlines by threatening legal action against conspiracy theorists. He claims they are instigating a "destructive defamation campaign" against him. This situation raises important questions about the nature of defamation in our increasingly digital world and the ethical boundaries of online discourse.
 
