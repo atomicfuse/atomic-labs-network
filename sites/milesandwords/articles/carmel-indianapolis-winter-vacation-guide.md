@@ -15,7 +15,7 @@ tags:
   - indoor attractions
 slug: carmel-indianapolis-winter-vacation-guide
 reviewer_notes: ''
-featuredImage: /assets/images/milesandwords-general-article.webp
+featuredImage: /assets/images/carmel-indianapolis-winter-vacation-guide.webp
 generated_by: claude-dedicated
 quality_score: 79
 score_breakdown:
@@ -31,6 +31,9 @@ quality_note: >-
   the meta description and title could be more compelling and keyword-rich for
   the travel audience.
 reading_time: 4
+image_alt: >-
+  Bundled traveler walking through a snowy Indiana downtown toward warm arts and
+  dining venues
 ---
 Winter in central Indiana is real winter — temperatures regularly dip into the 20s°F, snow is common from December through February, and gray skies are the default. If you're heading to Carmel or Indianapolis expecting a mild escape, calibrate now. But if you go in knowing what the season offers, you'll find a genuinely underrated cold-weather destination with great food, a walkable arts scene, and almost none of the tourist crowds that pile up in warmer months.
 
