@@ -22,7 +22,7 @@ source_title: >-
   Alex Morgan, Crystal Dunn, Marta among players calling for FIFA to move U-20
   Women’s World Cup
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/fifa-u20-womens-world-cup-scheduling-change.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Matches
+image_alt: >-
+  Young women’s soccer player caught between two illuminated paths on a stadium
+  pitch
 ---
 In a bold move that underscores the evolving landscape of women's soccer, several prominent players, including Alex Morgan, Marta, Crystal Dunn, and Kennedy Fuller, are calling on FIFA to shift the U-20 Women’s World Cup to an official international window. The push aims to alleviate the mounting pressure young athletes face when balancing club commitments with their aspirations to play for their national teams.
 

@@ -22,7 +22,8 @@ source_title: >-
   Carabao Cup fourth-round draw: Liverpool to play Chelsea, Fleetwood Town host
   Arsenal
 generated_by: claude
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: >-
+  /assets/images/carabao-cup-fourth-round-draw-fleetwood-arsenal-liverpool-chelsea.webp
 quality_score: 59
 score_breakdown:
   seo_quality: 52
@@ -38,6 +39,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Latest News
+image_alt: >-
+  Silver football cup on a green plinth with blurred stadium lights and club
+  colors behind it
 ---
 The Carabao Cup fourth-round draw is done, and it handed out two ties worth circling on your calendar. Liverpool will face Chelsea, and — the one everyone will be talking about — Fleetwood Town get to host Arsenal. Matches are scheduled for the week starting October 26.
 
