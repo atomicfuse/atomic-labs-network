@@ -19,7 +19,7 @@ source_url: 'https://www.polygon.com/best-perfect-video-game-levels/'
 source_item_id: 6a9a5759feed8e57e04e5548
 source_title: 10 Games Where Every Level Is a Flawless Masterpiece
 generated_by: openai
-featuredImage: /assets/images/gadgetskoala-general-article.webp
+featuredImage: /assets/images/masterful-level-design-games.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Gaming
+image_alt: >-
+  A cinematic fantasy game level made of layered platforms, paths, hazards, and
+  glowing checkpoints.
 ---
 Gamers often reflect on their favorite titles, and a hallmark of these unforgettable experiences is exceptional level design. This week, we celebrate ten games that consistently deliver masterpieces across each level, proving that every moment spent playing is worth it. From the pixelated characters of the NES era to the vibrant worlds of modern indie games, these selections stand out as exemplars of level craftsmanship. Let’s dive into these titles that prioritize quality in every stage.
 
