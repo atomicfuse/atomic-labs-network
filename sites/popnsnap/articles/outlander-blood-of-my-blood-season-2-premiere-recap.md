@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6aae1ddb746bd4387133cb78
 source_title: '‘Outlander: Blood of My Blood’ Season-2 Premiere Recap'
 generated_by: openai
-featuredImage: /assets/images/popnsnap-general-article.webp
+featuredImage: /assets/images/outlander-blood-of-my-blood-season-2-premiere-recap.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - TV & Movies
+image_alt: >-
+  A Scottish couple reach for each other across a stone wall as war smoke fills
+  the Highland landscape.
 ---
 The *Outlander* universe has a penchant for twisting love stories into heart-wrenching narratives, and the Season 2 premiere of *Blood of My Blood* takes this to a new level. Set against the backdrop of the Jacobite uprising, we witness Ellen and Brian's romance shattered by historical conflict while Julia’s contemporary escapades lead to unforeseen tragedy.
 
