@@ -21,7 +21,7 @@ source_title: >-
   RFK Jr switches gears from anti-vaxx promotion to amplify 5G conspiracy theory
   - The Independent
 generated_by: openai
-featuredImage: /assets/images/useminds-general-article.webp
+featuredImage: /assets/images/rfk-jr-anti-vaxx-5g-conspiracy.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Conspiracy Theories
+image_alt: >-
+  A vial, cell tower, and tangled threads symbolize shifting misinformation and
+  distrust.
 ---
 In a notable shift, Robert F. Kennedy Jr., previously known for his strong anti-vaccine stance, has pivoted to amplify conspiracy theories surrounding 5G technology. This transition isn't just a personal choice; it highlights an ongoing evolution in the landscape of conspiracy theories and public distrust in scientific institutions.
 
