@@ -1,11 +1,9 @@
 ---
 title: Discover the Unique Flavor of Glendronach’s 200th Anniversary Whisky
-description: >-
-  Explore the signature flavors and unique twist of The Glendronach's Boynsmill
-  House Edition, celebrating 200 years of distilling excellence.
+description: Explore the signature flavors and unique twist of The Glendronach's Boynsmill House Edition, celebrating 200 years of distilling excellence.
 type: standard
-status: review
-publishDate: '2026-09-06'
+status: published
+publishDate: 2026-09-06
 author: Andrew Perry
 tags:
   - Wine news
@@ -14,13 +12,8 @@ tags:
   - sherry-casks
   - limited-edition
 slug: discover-glendronach-200th-anniversary-whisky
-reviewer_notes: >-
-  The article is well-structured but critically misaligned with a wine-focused
-  site (it covers whisky), is too short at 464 words, and contains a potential
-  factual discrepancy (founded 1826 yet celebrating a '200th anniversary' in
-  2025 suggests a 199-year milestone, not 200th).
-source_url: >-
-  https://www.forbes.com/sites/emilyprice/2026/08/31/the-glendronach-is-turning-200-heres-the-whisky-it-made-to-celebrate/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/emilyprice/2026/08/31/the-glendronach-is-turning-200-heres-the-whisky-it-made-to-celebrate/
 source_item_id: 6a9631a45fa61901da3eb158
 source_title: The Glendronach Is Turning 200. Here’s The Whisky It Made To Celebrate
 generated_by: openai
@@ -32,17 +25,11 @@ score_breakdown:
   content_length: 45
   factual_accuracy: 62
   keyword_relevance: 30
-quality_note: >-
-  The article is well-structured but critically misaligned with a wine-focused
-  site (it covers whisky), is too short at 464 words, and contains a potential
-  factual discrepancy (founded 1826 yet celebrating a '200th anniversary' in
-  2025 suggests a 199-year milestone, not 200th).
+quality_note: The article is well-structured but critically misaligned with a wine-focused site (it covers whisky), is too short at 464 words, and contains a potential factual discrepancy (founded 1826 yet celebrating a '200th anniversary' in 2025 suggests a 199-year milestone, not 200th).
 reading_time: 2
 topics:
   - Wine news
-image_alt: >-
-  Amber-lit whisky casks in a historic stone cellar with subtle burgundy wine
-  accents.
+image_alt: Amber-lit whisky casks in a historic stone cellar with subtle burgundy wine accents.
 ---
 The Glendronach distillery has reached a remarkable milestone, celebrating its 200th anniversary with the launch of a unique limited-edition whisky: the 14-year-old Boynsmill House Edition. This special release elegantly combines the distillery's famed sherry cask maturation with an unexpected twist of red wine cask finishing, creating a flavor profile that delights both traditionalists and modern enthusiasts alike.
 
