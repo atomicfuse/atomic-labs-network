@@ -19,7 +19,7 @@ source_url: 'https://www.vulture.com/article/gerrit-graham-death.html'
 source_item_id: 6aae1ddb746bd4387133cb79
 source_title: 'Gerrit Graham, Phantom of the Paradise’s Beef, Dies at 77'
 generated_by: openai
-featuredImage: /assets/images/tvshowbox-general-article.webp
+featuredImage: /assets/images/gerrit-graham-phantom-of-the-paradise-dies.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Celebrity News
+image_alt: A spotlighted vintage microphone on an empty glam-rock theater stage.
 ---
 Gerrit Graham, the iconic actor-writer best remembered for his electrifying role as Beef in Brian De Palma's cult classic *Phantom of the Paradise*, has passed away at the age of 77 after a battle with lung disease. Known for his unique flair in cinema, Graham's death serves as an important moment for fans of cult films to recognize the invaluable contributions of character actors who might not headlined box office hits but left an indelible mark on genre fandom.
 
