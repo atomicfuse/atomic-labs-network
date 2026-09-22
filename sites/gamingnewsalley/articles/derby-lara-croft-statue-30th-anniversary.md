@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6aaccc5a746bd4387133caad
 source_title: Lara Croft statue to be installed in city
 generated_by: openai
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/derby-lara-croft-statue-30th-anniversary.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Console Games
+image_alt: Monumental Lara Croft statue standing inside Derby Market Hall
 ---
 ### A New Icon for Derby
 If you're a fan of Tomb Raider, there’s exciting news: Derby is installing a stunning 9ft statue of Lara Croft in the Derby Market Hall! This isn't just a random piece of art; it's a significant testament to the gaming heritage that Derby is proud to showcase. Funded by a **£30,000 fan-led fundraising campaign**, this project frames Lara Croft not just as a character but as a global icon rooted in Derby itself.
