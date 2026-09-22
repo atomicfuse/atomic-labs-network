@@ -23,7 +23,7 @@ source_title: >-
   Lionel Messi Expected To Be Added To Argentina Squad For October 6 Farewell
   Match
 generated_by: claude
-featuredImage: /assets/images/soccernewsreports-general-article.webp
+featuredImage: /assets/images/messi-argentina-farewell-october-6-match.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 5
 topics:
   - Latest News
+image_alt: >-
+  A folded sky-blue-and-white jersey, football, and boots sit in an empty dusk
+  stadium.
 ---
 Per reports from Fox Sports, Lionel Messi is expected to be added to Argentina's squad for an October 6 friendly against Benin in Buenos Aires — a match the Argentine Football Association is framing as an official farewell for its greatest-ever player. If it goes ahead as planned, that night in Buenos Aires won't just be a football match. It will be the closing chapter of the most decorated international career the sport has ever seen.
 
