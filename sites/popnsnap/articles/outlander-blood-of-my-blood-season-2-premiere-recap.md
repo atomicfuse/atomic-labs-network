@@ -38,8 +38,8 @@ reading_time: 3
 topics:
   - TV & Movies
 image_alt: >-
-  A Scottish couple reach for each other across a stone wall as war smoke fills
-  the Highland landscape.
+  A Highland couple reaches for each other as war separates them outside a stone
+  cottage.
 ---
 The *Outlander* universe has a penchant for twisting love stories into heart-wrenching narratives, and the Season 2 premiere of *Blood of My Blood* takes this to a new level. Set against the backdrop of the Jacobite uprising, we witness Ellen and Brian's romance shattered by historical conflict while Julia’s contemporary escapades lead to unforeseen tragedy.
 
