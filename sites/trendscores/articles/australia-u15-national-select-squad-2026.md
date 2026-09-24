@@ -22,7 +22,7 @@ source_title: >-
   Every Member Federation represented in Australia’s inaugural U-15 National
   Select squad - Football Australia
 generated_by: openai
-featuredImage: /assets/images/trendscores-general-article.webp
+featuredImage: /assets/images/australia-u15-national-select-squad-2026.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Standings
+image_alt: >-
+  Diverse young Australian footballers stand together on a sunlit training
+  ground.
 ---
 Football Australia has taken a significant step toward shaping the future of its national teams by announcing its first-ever U-15 National Select squad. This initiative marks an important development in youth football across the country, showcasing a commitment to identifying and nurturing young talent. For sports fans and parents alike, this represents a major opportunity to understand the future stars of Australian football.
 
