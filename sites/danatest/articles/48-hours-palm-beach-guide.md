@@ -22,7 +22,7 @@ source_title: >-
   Destinations – Airline and Travel News, Latest Aviation, Airline and Travel
   News
 generated_by: openai
-featuredImage: /assets/images/danatest-general-article.webp
+featuredImage: /assets/images/48-hours-palm-beach-guide.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Local Culture
+image_alt: >-
+  Pastel Palm Beach resort with turquoise pool, palm trees, beach, and Atlantic
+  Ocean
 ---
 ### Your Luxurious Weekend Awaits in Palm Beach
 If you’re looking for a refined escape that transcends the usual Florida resort experience, Palm Beach is quickly becoming the ultimate luxury destination. Particularly notable for its recent recognition in the 2026 MICHELIN Key awards—where top spots like The Vineta, The Colony, and The Breakers have been honored—there’s never been a better time to indulge in a long weekend here.
