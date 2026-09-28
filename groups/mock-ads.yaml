@@ -6,6 +6,7 @@ scripts:
   body_end:
     - id: mock-ad-fill
       src: /mock-ad-fill.js
+  before_footer: []
 ads_config:
   interstitial: false
   interstitial_config:
@@ -21,6 +22,8 @@ ads_config:
     page_types:
       - all
     close_delay_seconds: 3
+    device: both
+    exclude_pages: []
   layout: standard
   ad_placements:
     - id: top-banner
@@ -47,6 +50,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
     - id: in-content-1
       position: after-paragraph-2
       device: all
@@ -71,6 +77,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
     - id: in-content-2
       position: after-paragraph-4
       device: all
@@ -95,6 +104,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
     - id: in-content-3
       position: after-paragraph-6
       device: all
@@ -119,6 +131,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
     - id: sidebar-sticky
       position: sidebar
       device: all
@@ -143,6 +158,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
     - id: homepage-top-banner
       position: homepage-top
       device: all
@@ -167,6 +185,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
     - id: category-top-banner
       position: category-top
       device: all
@@ -191,6 +212,9 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
     - id: taboola-below
       position: below-content
       device: all
@@ -215,6 +239,36 @@ ads_config:
           minHeight: null
           maxHeight: null
         customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
+    - id: grid-feed
+      position: grid-feed
+      device: all
+      sizes: {}
+      desktopSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      mobileSizeConfig:
+        ratio:
+          x: 16
+          y: 9
+        range:
+          minWidth: null
+          maxWidth: null
+          minHeight: null
+          maxHeight: null
+        customSizes: []
+      page_types:
+        - all
+      exclude_pages: []
 tracking:
   ga4: null
   gtm: null
