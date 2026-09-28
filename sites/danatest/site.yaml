@@ -130,41 +130,41 @@ site_tagline: null
 theme:
   base: pink_glow
   colors:
-    primary: "#1e3a5f"
-    accent: "#06b6d4"
-    background: "#f4f7f9"
-    secondary: "#0c1f33"
-    text: "#0c1f33"
-    muted: "#6b8095"
-    surface: "#e3ecf2"
-    border: "#cbd9e3"
-    heading: "#0c1f33"
-    link: "#1e3a5f"
-    link_hover: "#06b6d4"
-    nav_link: "#f4f7f9"
-    nav_link_hover: "#67e8f9"
-    footer_bg: "#0c1f33"
-    must_reads_bg: "#0c1f33"
-    hero_title: "#f4f7f9"
-    must_reads_title: "#f4f7f9"
-    article_hero_title: "#f4f7f9"
-    article_hero_meta: "#94a8bc"
-    feed_title: "#0c1f33"
-    feed_desc: "#1e3a5f"
-    feed_date: "#6b8095"
-    prose_heading: "#0c1f33"
-    prose_body: "#1e3a5f"
-    category_header_text: "#f4f7f9"
-    subscribe_heading: "#1e3a5f"
-    footer_text: "#94a8bc"
-    footer_heading: "#f4f7f9"
-    footer_link: "#94a8bc"
-    footer_link_hover: "#67e8f9"
+    primary: "#E50914"
+    accent: "#B81D24"
+    background: "#141414"
+    secondary: "#1a1a2e"
+    text: "#ffffff"
+    muted: "#8C8C8C"
+    surface: "#2a2a2a"
+    border: "#333333"
+    heading: "#ffffff"
+    link: "#E50914"
+    link_hover: "#B81D24"
+    nav_link: "#ffffff"
+    nav_link_hover: "#B81D24"
+    footer_bg: "#1a1a2e"
+    must_reads_bg: "#1a1a2e"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#8C8C8C"
+    feed_title: "#ffffff"
+    feed_desc: "#e0e0e0"
+    feed_date: "#8C8C8C"
+    prose_heading: "#ffffff"
+    prose_body: "#e0e0e0"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#E50914"
+    footer_text: "#9ca3af"
+    footer_heading: "#ffffff"
+    footer_link: "#9ca3af"
+    footer_link_hover: "#ffffff"
   logo_height: 66
   menu_item_font_size: 15
   fonts:
-    heading: DM Sans
-    body: DM Sans
+    heading: Space Grotesk
+    body: Inter
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height_footer: 76
