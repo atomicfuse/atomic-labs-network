@@ -169,16 +169,3 @@ theme:
   favicon: /assets/favicon.png
   logo_height_footer: 76
   card: {}
-  template: grid
-grid:
-  topics:
-    - label: News
-      verticals:
-        - Politics
-        - Disasters
-        - Crime
-        - Law
-        - War and Conflicts
-    - label: Sports
-      verticals:
-        - Sports
