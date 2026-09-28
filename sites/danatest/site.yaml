@@ -178,3 +178,5 @@ grid:
         - Style & Fashion
         - Entertainment
   include_sites: []
+  max_age_days: 20
+  feed_ad_every: 3
