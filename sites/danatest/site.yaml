@@ -181,33 +181,3 @@ grid:
   include_sites: []
   max_age_days: 20
   feed_ad_every: 3
-ads_config:
-  layout: standard
-  ad_placements:
-    - id: gridd-asaf
-      position: grid-feed
-      device: all
-      sizes: {}
-      desktopSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
-        customSizes: []
-      mobileSizeConfig:
-        ratio:
-          x: 16
-          y: 9
-        range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
-        customSizes: []
-      page_types:
-        - all
-      exclude_pages: []
