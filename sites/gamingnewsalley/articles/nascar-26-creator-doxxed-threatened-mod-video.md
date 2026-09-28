@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ab606dc3391fdf402cd9c69
 source_title: NASCAR 26 Creator Says He Was Doxxed and Threatened Over Mod Video
 generated_by: claude
-featuredImage: /assets/images/gamingnewsalley-general-article.webp
+featuredImage: /assets/images/nascar-26-creator-doxxed-threatened-mod-video.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 78
@@ -36,6 +36,7 @@ quality_note: >-
 reading_time: 4
 topics:
   - Gameplay
+image_alt: Dark racing game setup with a red-glowing phone symbolizing online backlash.
 ---
 A creator who goes by Dustin, known online as DLBTV, says he was doxxed, threatened, and harassed after posting videos related to NASCAR 26 mods — and according to Dailydownforce, a police report has been filed.
 
