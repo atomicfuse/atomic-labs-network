@@ -170,3 +170,9 @@ theme:
   logo_height_footer: 76
   template: grid
   card: {}
+grid:
+  topics:
+    - label: Fun under the sun
+      verticals:
+        - Pop Culture
+        - Style & Fashion
