@@ -191,18 +191,18 @@ ads_config:
       sizes: {}
       desktopSizeConfig:
         ratio:
-          x: 16
-          y: 9
+          x: 4
+          y: 3
         range:
-          minWidth: null
-          maxWidth: null
-          minHeight: null
-          maxHeight: null
+          minWidth: 300
+          maxWidth: 300
+          minHeight: 250
+          maxHeight: 250
         customSizes: []
       mobileSizeConfig:
         ratio:
-          x: 16
-          y: 9
+          x: 4
+          y: 3
         range:
           minWidth: null
           maxWidth: null
