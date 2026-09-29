@@ -3,7 +3,7 @@ active: true
 author: Sarah Chen
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: fun, storytelling, engaging
   article_types:
     listicle: 40
