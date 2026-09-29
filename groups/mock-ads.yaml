@@ -245,7 +245,10 @@ ads_config:
     - id: grid-feed
       position: grid-feed
       device: all
-      sizes: {}
+      sizes:
+        desktop:
+          - - 300
+            - 250
       desktopSizeConfig:
         ratio:
           x: 4
@@ -255,7 +258,9 @@ ads_config:
           maxWidth: 300
           minHeight: 250
           maxHeight: 250
-        customSizes: []
+        customSizes:
+          - width: 300
+            height: 250
       mobileSizeConfig:
         ratio:
           x: 4
