@@ -125,7 +125,7 @@ brief:
         preferred_days:
           - Tuesday
 groups:
-  - ready
+  - atl
 layout:
   hero:
     enabled: true
