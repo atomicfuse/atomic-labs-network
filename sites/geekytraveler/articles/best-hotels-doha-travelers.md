@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6abb1ba55b22be6773eca26d
 source_title: Forbes Travel Guide’s 20 Best Doha Hotels
 generated_by: openai
-featuredImage: /assets/images/geekytraveler-general-article.webp
+featuredImage: /assets/images/best-hotels-doha-travelers.webp
 quality_score: 63
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Destination Guides
+image_alt: >-
+  Luxury resort terrace overlooking Doha’s waterfront skyline and the calm
+  waters of the Gulf
 ---
 Discovering the right place to stay in a city can set the tone for your entire travel experience. Whether you're seeking a serene retreat or vibrant city life, Doha presents a stunning array of high-end hotels tailored to different vibes and preferences. This roundup explores the best hotels in Doha, helping you make an informed choice for your luxury getaway.
 
