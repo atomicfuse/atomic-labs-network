@@ -1,0 +1,197 @@
+domain: roadsandviews.com
+active: true
+author: Ben Price
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: friendly, personal
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Travel
+    - Destinations
+    - Travel Tips
+    - Food & Drink
+    - Lifestyle
+  theme: traveling the world, see places, from a perspective of a genz blogger
+  topics_v2:
+    - name: Travel
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f89
+          - 6a00793f1104bbff809b7f9d
+          - 6a00793f1104bbff809b7f97
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a8d0d68eacb826224e5b28b
+          - 6a0b1eeea53fcab94b3649a7
+          - 6a612bf1f722718ae0aa27f0
+          - 6a0b38f5ac596b621e9356ae
+          - 6a1831cb0fc9210eaf31ab23
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Destinations
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f89
+          - 6a00793f1104bbff809b7f7b
+          - 6a00793f1104bbff809b7f7d
+        tag_ids:
+          - 6a8d0d68eacb826224e5b28b
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a612bf1f722718ae0aa27f0
+          - 6a0b1eeea53fcab94b3649a7
+          - 6a860c847453cef62ce8924a
+          - 6a1831cb0fc9210eaf31ab23
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Travel Tips
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793f1104bbff809b7f9d
+          - 6a00793f1104bbff809b7f8f
+          - 6a00793f1104bbff809b7f93
+        tag_ids:
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0b1eeea53fcab94b3649a7
+          - 6a8d0d68eacb826224e5b28b
+          - 6a612bf1f722718ae0aa27f0
+          - 6a0b38f5ac596b621e9356ae
+          - 6a0b38f8ac596b621e9356b7
+          - 6a0341a186fcaaeb5bc833f2
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Food & Drink
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7d0f
+        tag_ids:
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a1831cb0fc9210eaf31ab24
+          - 6a1831e10fc9210eaf31ab30
+          - 6a184492454e8b9490eacaab
+          - 6a8cf866e04b499a4e888be5
+          - 6a1402bf16f23264031d7c63
+          - 6a0b1f2ca53fcab94b3649d0
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Lifestyle
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c7a
+          - 6a00793d1104bbff809b7c41
+          - 6a00793d1104bbff809b7c74
+          - 6a00793d1104bbff809b7c3e
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a04416d86fcaaeb5bc837a9
+          - 6a1831e00fc9210eaf31ab2d
+          - 6a0341a186fcaaeb5bc833f2
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a0b1f14a53fcab94b3649c5
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+  seo_keywords_focus: []
+  content_guidelines:
+    - "Traveling from a genz perspective, stories, destinations and traveling
+      lifestyle of digital nomads "
+  image_guidelines: null
+  vertical: Travel
+  vertical_id: 6a00793d1104bbff809b7c7a
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+groups: []
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: roadsandviews.com
+site_tagline: null
+theme:
+  base: botanical
+  colors:
+    primary: "#1f3d2b"
+    accent: "#3d6b4c"
+    background: "#f7f5ee"
+    secondary: "#f7f5ee"
+    text: "#1f2d24"
+    muted: "#6b7a6f"
+    surface: "#eee9dd"
+    border: "#d9d3c4"
+    heading: "#1f3d2b"
+    link: "#1f3d2b"
+    link_hover: "#3d6b4c"
+    nav_link: "#f7f5ee"
+    nav_link_hover: "#cfe0c2"
+    footer_bg: "#1f3d2b"
+    must_reads_bg: "#1f3d2b"
+    hero_title: "#f7f5ee"
+    must_reads_title: "#f7f5ee"
+    article_hero_title: "#f7f5ee"
+    article_hero_meta: "#a8b3a4"
+    feed_title: "#1f3d2b"
+    feed_desc: "#2c4a37"
+    feed_date: "#6b7a6f"
+    prose_heading: "#1f3d2b"
+    prose_body: "#2c4a37"
+    category_header_text: "#f7f5ee"
+    subscribe_heading: "#1f3d2b"
+    footer_text: "#a8b3a4"
+    footer_heading: "#f7f5ee"
+    footer_link: "#a8b3a4"
+    footer_link_hover: "#cfe0c2"
+  logo_height: 66
+  menu_item_font_size: 16
+  fonts:
+    heading: Lora
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+  logo_height_footer: 84
