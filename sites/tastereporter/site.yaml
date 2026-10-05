@@ -1,0 +1,165 @@
+domain: tastereporter
+site_name: tastereporter
+site_tagline: null
+author: Daniel Chen
+groups: []
+active: true
+brief:
+  audiences: []
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Food Culture
+    - Wine & Cocktails
+    - Recipes
+    - Reviews
+  theme: "luxury foodie lifestyle "
+  topics_v2:
+    - name: Food Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c3e
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7d0f
+        tag_ids:
+          - 6a042b0a86fcaaeb5bc83515
+          - 6a034d8686fcaaeb5bc834cd
+          - 6a03466b86fcaaeb5bc8340e
+          - 6a0348a886fcaaeb5bc83433
+          - 6a1402bf16f23264031d7c63
+          - 6a8cf866e04b499a4e888be5
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a184492454e8b9490eacaab
+      schedule:
+        articles_per_week: 1
+        preferred_days: &a1
+          - Wednesday
+    - name: Wine & Cocktails
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d09
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d1b
+        tag_ids:
+          - 6a03466b86fcaaeb5bc8340e
+          - 6a0348a886fcaaeb5bc83433
+          - 6a03467486fcaaeb5bc83416
+          - 6a03467e86fcaaeb5bc83421
+          - 6a2f7ea132676a5c75e45162
+          - 6a0b3329ac596b621e9355ee
+          - 6a03467486fcaaeb5bc83418
+          - 6a0348d486fcaaeb5bc8345e
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Recipes
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d13
+          - 6a00793e1104bbff809b7d15
+          - 6a00793e1104bbff809b7d1d
+          - 6a00793e1104bbff809b7d0f
+        tag_ids:
+          - 6a0b1f2ca53fcab94b3649d0
+          - 6a034da986fcaaeb5bc834e7
+          - 6a03466b86fcaaeb5bc8340e
+          - 6a0348a886fcaaeb5bc83433
+          - 6a03467486fcaaeb5bc83416
+          - 6a8cf866e04b499a4e888be5
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+    - name: Reviews
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7d17
+          - 6a00793e1104bbff809b7d09
+          - 6a00793f1104bbff809b7f95
+          - 6a00793e1104bbff809b7cd1
+        tag_ids:
+          - 6a1402bf16f23264031d7c63
+          - 6a8cf866e04b499a4e888be5
+          - 6a03467e86fcaaeb5bc83421
+          - 6a03373d86fcaaeb5bc83282
+          - 6a1831cb0fc9210eaf31ab23
+          - 6a0341a186fcaaeb5bc833f2
+      schedule:
+        articles_per_week: 1
+        preferred_days: *a1
+  seo_keywords_focus: []
+  content_guidelines: []
+  vertical: Food & Drink
+  vertical_id: 6a00793d1104bbff809b7c3e
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days: *a1
+    preferred_time: 10:00
+theme:
+  base: coastal
+  colors:
+    primary: "#1e3a5f"
+    accent: "#06b6d4"
+    background: "#f4f7f9"
+    secondary: "#0c1f33"
+    text: "#0c1f33"
+    muted: "#6b8095"
+    surface: "#e3ecf2"
+    border: "#cbd9e3"
+    heading: "#0c1f33"
+    link: "#1e3a5f"
+    link_hover: "#06b6d4"
+    nav_link: "#f4f7f9"
+    nav_link_hover: "#67e8f9"
+    footer_bg: "#0c1f33"
+    must_reads_bg: "#0c1f33"
+    hero_title: "#f4f7f9"
+    must_reads_title: "#f4f7f9"
+    article_hero_title: "#f4f7f9"
+    article_hero_meta: "#94a8bc"
+    feed_title: "#0c1f33"
+    feed_desc: "#1e3a5f"
+    feed_date: "#6b8095"
+    prose_heading: "#0c1f33"
+    prose_body: "#1e3a5f"
+    category_header_text: "#f4f7f9"
+    subscribe_heading: "#1e3a5f"
+    footer_text: "#94a8bc"
+    footer_heading: "#f4f7f9"
+    footer_link: "#94a8bc"
+    footer_link_hover: "#67e8f9"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: DM Sans
+    body: DM Sans
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
