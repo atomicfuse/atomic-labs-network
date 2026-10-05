@@ -19,7 +19,7 @@ source_url: 'https://phys.org/news/2026-09-fine-tuning-cobalt-cleaner-chemical.h
 source_item_id: 6abded845b22be6773eca3e2
 source_title: Fine-tuning cobalt for cleaner chemical transformations
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/cobalt-catalyst-revolution-sustainable-chemistry.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 72
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Space & Cosmos
+image_alt: >-
+  Cobalt catalyst uses water and electricity to drive greener chemical
+  hydrogenation.
 ---
 Researchers at Yokohama National University have developed an innovative cobalt catalyst that could reshape the landscape of chemical manufacturing. By selectively hydrogenating nitrogen-containing aromatic compounds using water and electricity instead of hydrogen gas, this new method offers a promising alternative to precious metals, particularly those in the platinum group.
 

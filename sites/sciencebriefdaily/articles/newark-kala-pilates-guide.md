@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ab753ac5b22be6773eca142
 source_title: Newark’s Wellness Scene Gets New Stretch With Kala Pilates
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/newark-kala-pilates-guide.webp
 quality_score: 54
 score_breakdown:
   seo_quality: 52
@@ -37,6 +37,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Health Science
+image_alt: 'Participant practices heated-mat Pilates in a warm, modern boutique studio.'
 ---
 ### Discover Newark’s New Boutique Studio
 Looking for a refreshing approach to fitness in Newark? Look no further than **Kala Pilates**, a new boutique heated-mat Pilates studio that has just opened its doors, adding another layer to the city’s burgeoning wellness scene. Whether you’re a Pilates pro or simply exploring options, this guide shows you everything you need to know about this latest addition to Newark’s fitness community.

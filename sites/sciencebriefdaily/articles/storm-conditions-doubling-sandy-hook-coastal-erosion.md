@@ -28,7 +28,7 @@ source_title: >-
   conditions capable of causing major coastal erosion at New Jersey's North
   Beach on Sandy Hook are occurring about twice as often as they did in ...
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/storm-conditions-doubling-sandy-hook-coastal-erosion.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -44,6 +44,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Environment & Climate
+image_alt: >-
+  Storm waves erode a beach, exposing buried sediment layers that record
+  changing coastal conditions.
 ---
 Recent research from Rutgers University has revealed a concerning trend: damaging coastal storm conditions at North Beach on Sandy Hook, New Jersey, are now occurring about twice as frequently as they did in 1979. This finding is not just an alarming statistic; it has profound implications for coastal communities already grappling with rising sea levels and increased flooding risk.
 
