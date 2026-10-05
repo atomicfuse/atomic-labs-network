@@ -19,7 +19,7 @@ source_url: 'https://www.youtube.com/watch?v=oclJA6ffXhs'
 source_item_id: 6ac32574ce7701ccb2411cf4
 source_title: 3 Cocktails You've Never Heard Of (That You Must Try)
 generated_by: openai
-featuredImage: /assets/images/tastereporter-general-article.webp
+featuredImage: /assets/images/vintage-cocktails-you-need-to-try.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -40,6 +40,9 @@ videos:
     position: after-paragraph-1
 topics:
   - Food Culture
+image_alt: >-
+  Three distinctive vintage cocktails arranged on a dark home bar beside an old
+  cocktail book
 ---
 Craft cocktails are all the rage, and if you're looking to expand your repertoire beyond the usual standards, you're in the right place. This article introduces you to three unique vintage cocktails that you might not have heard of, but definitely need to try. Not only do these drinks have fascinating backstories, but they also offer complex flavors that will impress both you and your guests.
 

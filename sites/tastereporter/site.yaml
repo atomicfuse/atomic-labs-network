@@ -1,11 +1,9 @@
-domain: tastereporter
-site_name: tastereporter
-site_tagline: null
-author: Daniel Chen
-groups: []
+domain: tastereporter.com
 active: true
+author: Daniel Chen
 brief:
   audiences: []
+  audience_type_ids: null
   tone: Engaging, informative, conversational
   article_types:
     listicle: 40
@@ -38,7 +36,7 @@ brief:
           - 6a184492454e8b9490eacaab
       schedule:
         articles_per_week: 1
-        preferred_days: &a1
+        preferred_days:
           - Wednesday
     - name: Wine & Cocktails
       source:
@@ -59,7 +57,8 @@ brief:
           - 6a0348d486fcaaeb5bc8345e
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Recipes
       source:
         type: filter
@@ -77,7 +76,8 @@ brief:
           - 6a8cf866e04b499a4e888be5
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
     - name: Reviews
       source:
         type: filter
@@ -95,16 +95,42 @@ brief:
           - 6a0341a186fcaaeb5bc833f2
       schedule:
         articles_per_week: 1
-        preferred_days: *a1
+        preferred_days:
+          - Wednesday
   seo_keywords_focus: []
   content_guidelines: []
+  image_guidelines: null
   vertical: Food & Drink
   vertical_id: 6a00793d1104bbff809b7c3e
   review_percentage: 5
   schedule:
     articles_per_day: 2
-    preferred_days: *a1
+    preferred_days:
+      - Wednesday
     preferred_time: 10:00
+groups: []
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: tastereporter
+site_tagline: null
 theme:
   base: coastal
   colors:
@@ -145,21 +171,10 @@ theme:
     body: DM Sans
   logo: /assets/logo.png
   favicon: /assets/favicon.png
-layout:
-  hero:
-    enabled: true
-    count: 4
-  must_reads:
-    enabled: true
-    count: 5
-  whats_new:
-    enabled: true
-    count: 4
-  more_on:
-    enabled: true
-    page_size: 8
-  sidebar_topics:
-    auto: true
-    explicit: []
-  load_more:
-    page_size: 4
+tracking:
+  ga4: G-XSP35P37YC
+  gtm: GT-MR4JDDHG
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []

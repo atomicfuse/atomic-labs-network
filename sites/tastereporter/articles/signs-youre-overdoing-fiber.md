@@ -18,7 +18,7 @@ source_url: 'https://www.womenshealthmag.com/health/a73854181/too-much-fiber-sig
 source_item_id: 6ab913545b22be6773eca1eb
 source_title: Signs You’re Eating Too Much Fiber
 generated_by: openai
-featuredImage: /assets/images/tastereporter-general-article.webp
+featuredImage: /assets/images/signs-youre-overdoing-fiber.webp
 quality_score: 58
 score_breakdown:
   seo_quality: 52
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Recipes
+image_alt: >-
+  Pale green sculptural gut vessel overfilled with colorful high-fiber foods on
+  a cream tabletop
 ---
 Maintaining a healthy fiber intake is crucial for your digestive health, but did you know that it’s possible to overdo it? As interest in gut health surges, many people are jumping on the fiber bandwagon, often in excess. This can lead to uncomfortable side effects, a phenomenon informally dubbed "fibermaxxing." Here's how to recognize when you've crossed the line and what to do for a balanced approach.
 

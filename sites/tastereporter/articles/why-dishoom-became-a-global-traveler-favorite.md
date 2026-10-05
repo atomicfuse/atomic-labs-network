@@ -22,7 +22,7 @@ source_title: >-
   These Are The Best Restaurants In The World, According To Travelers On
   Tripadvisor
 generated_by: openai
-featuredImage: /assets/images/tastereporter-general-article.webp
+featuredImage: /assets/images/why-dishoom-became-a-global-traveler-favorite.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Reviews
+image_alt: >-
+  Travelers share a richly plated Indian meal in a warm, atmospheric
+  Bombay-style café.
 ---
 London's Dishoom stands out as the most viral restaurant globally, according to Tripadvisor travelers. This iconic eatery has captured the hearts and taste buds of food lovers, making it a landmark dining experience. But what exactly propels Dishoom to such heights, and why is it a must-visit for travelers?
 
