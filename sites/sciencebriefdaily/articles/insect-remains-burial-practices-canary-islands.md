@@ -18,7 +18,7 @@ source_url: 'https://phys.org/news/2026-09-insect-reveal-indigenous-burial-canar
 source_item_id: 6aab7884978ad9526dcdc271
 source_title: Insect remains reveal Indigenous burial practices in the Canary Islands
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/insect-remains-burial-practices-canary-islands.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - New Discoveries
+image_alt: >-
+  Archaeologist uncovers ancient insect remains and grains in a volcanic burial
+  cave
 ---
 In a fascinating blend of entomology and archaeology, researchers have uncovered how insect remains have rewritten our understanding of burial practices among the Indigenous people of the Canary Islands. By analyzing over 8,000 insect specimens from the Cruz de la Esquina cave in Gran Canaria, scientists have revealed that this site was not only a burial region but also functioned as a grain storage facility before its transformation into a sacred burial ground.
 

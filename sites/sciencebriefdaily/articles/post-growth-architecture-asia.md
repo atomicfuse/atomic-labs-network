@@ -18,7 +18,7 @@ source_url: 'https://phys.org/news/2026-09-asia-future-embrace-limitations-peopl
 source_item_id: 6abb4a843391fdf402cd9e63
 source_title: Building Asia's future must embrace the limitations of people and planet
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/post-growth-architecture-asia.webp
 quality_score: 66
 score_breakdown:
   seo_quality: 62
@@ -34,6 +34,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Environment & Climate
+image_alt: >-
+  Traditional Japanese house preserved and repaired with reclaimed materials
+  beneath a mature tree
 ---
 In a world increasingly defined by environmental constraints and demographic shifts, Asia's architectural landscape is facing a crucial turning point. Japan, which saw its population peak around 2008, now grapples with over 9 million vacant homes. Despite this staggering number, construction activities persist in various forms across the region. This juxtaposition highlights a disconnect between conventional growth-driven development and the pressing realities of resource scarcity, climate change, and aging communities. Enter the concept of "post-growth architecture" — a movement that embraces reuse, repair, community labor, and innovative design to create sustainable urban spaces.
 

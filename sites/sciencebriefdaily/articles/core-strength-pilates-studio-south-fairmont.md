@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac08e2b3391fdf402cda074
 source_title: 'New pilates studio opens in South Fairmont, offering classes for all ages'
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/core-strength-pilates-studio-south-fairmont.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 52
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Health Science
+image_alt: >-
+  Instructor guides an older adult on a reformer as a younger participant
+  practices nearby in a welcoming Pilates studio.
 ---
 ## A New Community Hub for Fitness
 

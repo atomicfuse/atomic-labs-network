@@ -21,7 +21,7 @@ source_url: 'https://phys.org/news/2026-09-dense-galaxies-early-universe.html'
 source_item_id: 6aa8d584ee95cf186f57c38e
 source_title: Dense galaxies are carving out a bubble in the early universe
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/early-galaxies-illuminate-universe.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Space & Cosmos
+image_alt: >-
+  Young galaxies illuminate a transparent bubble within the fog of the early
+  universe.
 ---
 Recent findings from the James Webb Space Telescope (JWST) are shedding light on a pivotal moment in cosmic history, shortly after the Big Bang. Data from the JADES survey has identified a dense group of 18 early galaxies that emerged about 500 million years post-Big Bang. These galaxies are believed to be carving out a bubble of ionized hydrogen, potentially marking the early stages of a significant cosmological transformation: cosmic reionization.
 
