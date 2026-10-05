@@ -3,7 +3,7 @@ active: true
 author: Ben Price
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: friendly, personal
   article_types:
     listicle: 40
@@ -120,8 +120,7 @@ brief:
           - Wednesday
   seo_keywords_focus: []
   content_guidelines:
-    - "Traveling from a genz perspective, stories, destinations and traveling
-      lifestyle of digital nomads "
+    - "Traveling from a genz perspective, stories, destinations and traveling lifestyle of digital nomads "
   image_guidelines: null
   vertical: Travel
   vertical_id: 6a00793d1104bbff809b7c7a
@@ -152,7 +151,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: roadsandviews.com
+site_name: roadsandviews
 site_tagline: null
 theme:
   base: botanical
