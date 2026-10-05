@@ -21,7 +21,7 @@ source_title: >-
   Fairness-based pathways shift emissions cuts while preserving global climate
   goals
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/fairness-climate-action-emissions-pathways.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Environment & Climate
+image_alt: >-
+  Two climate-action pathways show faster industrial cuts linked to renewable
+  development through shared infrastructure.
 ---
 New research from the International Institute for Applied Systems Analysis (IIASA) reveals that integrating fairness into climate mitigation models is not just a theoretical exercise — it fundamentally alters the landscape of emissions reductions while still achieving crucial global climate goals. As countries gear up to submit their updated climate pledges ahead of the next Global Stocktake, this study provides timely insights into how principles of fairness can shift the dynamics of who cuts emissions and who provides financial support.  
 

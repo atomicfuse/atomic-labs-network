@@ -18,7 +18,7 @@ source_url: 'https://phys.org/news/2026-09-wildlife-tracking-gaps-monarch-migrat
 source_item_id: 6abded835b22be6773eca3da
 source_title: Wildlife tracking to fill gaps in monarch migration research
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/revolutionizing-monarch-conservation-tracking-technology.webp
 quality_score: 69
 score_breakdown:
   seo_quality: 62
@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Space & Cosmos
+image_alt: Monarch butterfly wearing a tiny tracking tag on milkweed in an Iowa prairie
 ---
 Every fall, monarch butterflies embark on a remarkable migration from North America to Mexico, fueled by nectar from Iowa's vibrant wildflowers. However, the pathways they take and the challenges they face remain a mystery. Iowa State researchers are now utilizing cutting-edge BlūMorpho tracking tags — the lightest available — to follow 100 monarchs on their journey. This study aims to fill critical knowledge gaps regarding their migration behavior and the influence of weather on their travels.
 

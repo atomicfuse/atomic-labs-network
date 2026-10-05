@@ -23,7 +23,7 @@ source_title: >-
   Are all-female gun hunts the new meditation hack? Or are we just killing for
   wellness?
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/women-hunters-mental-wellness-community.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 58
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Health Science
+image_alt: >-
+  Women hunters pause mindfully together in a dawn field, blending outdoor
+  recreation, wellness, and community.
 ---
 In recent years, a notable trend has emerged in the world of outdoor recreation: women participating in hunting, particularly through organized all-female hunts. This movement not only emphasizes skill and marksmanship but also intertwines aspects of wellness, mindfulness, and community. With nearly 22% of U.S. hunters being women—more than double the figure from 2016—it's time to explore why many are embracing this blend of nature and self-care.
 

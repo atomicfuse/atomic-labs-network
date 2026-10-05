@@ -19,7 +19,7 @@ source_url: 'https://phys.org/news/2026-08-ancient-egyptian-tomb-burial-trends.h
 source_item_id: 6a83eb82e708087cf6dd1dd4
 source_title: Ancient Egyptian tomb shows how burial trends changed over hundreds of years
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/ancient-egypt-burial-practices-evolution.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 52
@@ -35,6 +35,7 @@ quality_note: >-
 reading_time: 2
 topics:
   - New Discoveries
+image_alt: A mummified dog rests above human burials in a shadowed ancient Egyptian tomb.
 ---
 ### A Deep Dive into Theban Tomb 209
 
