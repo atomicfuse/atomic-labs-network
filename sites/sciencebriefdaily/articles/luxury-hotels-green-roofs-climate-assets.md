@@ -21,7 +21,7 @@ source_title: >-
   Luxury Hotels Invest In Green Roofs And Living Walls. Here's What They Get In
   Return
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/luxury-hotels-green-roofs-climate-assets.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 52
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Environment & Climate
+image_alt: >-
+  Luxury hotel rooftop transformed into a lush garden with living walls and
+  elegant guest terraces
 ---
 In the face of growing environmental concerns, luxury hotels are increasingly turning their rooftops into green assets. This strategic move not only addresses sustainability issues but also enhances the overall guest experience. By investing in green roofs and living walls, these hotels are uniquely positioning themselves in a competitive marketplace.
 

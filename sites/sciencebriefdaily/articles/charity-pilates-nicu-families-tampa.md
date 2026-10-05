@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac08e2b3391fdf402cda075
 source_title: Pilates charity event to support NICU families
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/charity-pilates-nicu-families-tampa.webp
 quality_score: 51
 score_breakdown:
   seo_quality: 45
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Health Science
+image_alt: >-
+  Pilates instructor leads a community class beside a folded baby blanket
+  symbolizing support for NICU families.
 ---
 Hunter Hohenthaner, owner of Bubbly Brows, is on a mission to make a difference in the lives of families with babies in neonatal intensive care. After her own emotional experience in the NICU, she is hosting a charity Pilates event on October 4th, 2026, in Tampa, Florida, designed to support NICU families.
 

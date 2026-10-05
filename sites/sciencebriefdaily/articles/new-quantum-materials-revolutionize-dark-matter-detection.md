@@ -22,7 +22,7 @@ source_title: >-
   Unconventional quantum materials could dramatically boost the search for dark
   matter
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/new-quantum-materials-revolutionize-dark-matter-detection.webp
 quality_score: 72
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - New Discoveries
+image_alt: >-
+  Titanium diselenide crystal positioned in a precision detector for dark matter
+  research
 ---
 For decades, dark matter has been one of the most elusive and puzzling subjects in physics. While it makes up about 85% of all matter in the universe, direct detection has proven extremely difficult. However, a recent breakthrough involving three unconventional quantum materials offers a promising new avenue for detecting light dark matter, with titanium diselenide (TiSe₂) leading the charge.
 

@@ -20,7 +20,7 @@ source_url: 'https://phys.org/news/2026-09-day-spaceflights-linked-higher-hip.ht
 source_item_id: 6abded835b22be6773eca3d7
 source_title: 90-plus-day spaceflights linked to higher rates of hip fractures in astronauts
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/nasa-hip-fracture-rates-astronauts.webp
 quality_score: 71
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Space & Cosmos
+image_alt: >-
+  Astronaut undergoes a bone scan in orbit, with the hip subtly highlighted
+  against Earth.
 ---
 Recent research from the *Mayo Clinic Proceedings* demonstrates a stark new reality for astronauts: spending more than 90 days in space significantly raises the risk of hip fractures. This heightened danger emerges after missions that extend well beyond traditional timelines, exposing astronauts to critical health risks that could jeopardize future space exploration missions.
 
