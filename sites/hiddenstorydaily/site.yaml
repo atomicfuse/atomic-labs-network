@@ -145,7 +145,7 @@ brief:
   category_ids: []
   tag_ids: []
 groups:
-  - ready
+  - atl
 layout:
   hero:
     enabled: true
