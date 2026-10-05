@@ -24,7 +24,7 @@ source_title: >-
   Even high-altitude forests in Switzerland are now weakened by frequent
   droughts, making natural hazards more dangerous
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/swiss-high-altitude-forests-drought-crisis.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Environment & Climate
+image_alt: >-
+  Drought-stressed alpine forest overlooks a Swiss valley settlement beneath
+  steep mountains.
 ---
 Recent research from Swiss scientists has revealed alarmingly that high-altitude forests, once presumed resistant to drought, are deteriorating due to climate change. Specifically, trees at elevations as high as 2,200 meters are now showing signs of significant stress. This shift has serious implications for mountainous communities that rely on these forests for their natural defenses against avalanches, rockfalls, and floods.
 

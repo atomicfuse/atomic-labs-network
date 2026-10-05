@@ -20,7 +20,7 @@ source_url: 'https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html'
 source_item_id: 6abb4a843391fdf402cd9e6f
 source_title: Hydrogen's distant glow opens new way to investigate dark energy
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/hydrogens-distant-glow-dark-energy.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - New Discoveries
+image_alt: >-
+  CHIME-style radio telescope under stars with faint golden waves representing
+  hydrogen mapping cosmic expansion
 ---
 The Canadian Hydrogen Intensity Mapping Experiment (CHIME) has made significant strides in cosmology by independently detecting the faint radio glow of ancient hydrogen. This breakthrough opens up a new technique for mapping matter across the universe and probing dark energy, a major unsolved mystery in physics.
 

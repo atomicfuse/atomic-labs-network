@@ -21,7 +21,7 @@ source_title: >-
   Self-driving lab automates semiconductor ink synthesis and thin-film
   characterization
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/self-driving-labs-revolutionize-semiconductor-discovery.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 62
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Space & Cosmos
+image_alt: >-
+  Robotic arm transfers a semiconductor wafer inside an automated research
+  laboratory
 ---
 Recent advancements in lab automation are reshaping the landscape of semiconductor research. The Karlsruhe Institute of Technology (KIT) has unveiled its Energy Materials Acceleration Platform (E-MAP), a self-driving lab designed to enhance the synthesis and characterization of semiconductor inks and thin films. This innovation not only promises to speed up the discovery of functional materials but also improves precision and reproducibility in experiments.
 

@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac24dd43391fdf402cda156
 source_title: Cutting Back on Ultra-Processed Foods May Help Ease Depression Symptoms
 generated_by: openai
-featuredImage: /assets/images/sciencebriefdaily-general-article.webp
+featuredImage: /assets/images/cutting-ultra-processed-foods-improve-mood.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Health Science
+image_alt: >-
+  A colorful whole-food meal in warm light sits in front of a small bowl of
+  processed snacks and soda.
 ---
 ## The Connection Between Diet and Depression
 
