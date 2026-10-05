@@ -1,0 +1,166 @@
+domain: sciencebriefdaily.com
+active: true
+author: Sophia Sullivan
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: Engaging, informative, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - New Discoveries
+    - Space & Cosmos
+    - Health Science
+    - Environment & Climate
+  theme: all about science
+  topics_v2:
+    - name: New Discoveries
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c68
+          - 6a00793e1104bbff809b7e17
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e1d
+        tag_ids:
+          - 6a034b0f86fcaaeb5bc8346f
+          - 6a892e0a63a7e9d3e6ee45bc
+          - 6a14158a16f23264031d7d4a
+          - 6a43535ab38c8d71670c61f8
+          - 6a9d10b543003017a8ab3485
+          - 6a9907065fa61901da3eb415
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Space & Cosmos
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e25
+          - 6a00793e1104bbff809b7e23
+          - 6a00793e1104bbff809b7e17
+          - 6a00793d1104bbff809b7c68
+        tag_ids:
+          - 6a892e0a63a7e9d3e6ee45bc
+          - 6a43535ab38c8d71670c61f8
+          - 6a034b0f86fcaaeb5bc8346f
+          - 6a03361e86fcaaeb5bc83265
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Health Science
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c50
+          - 6a00793d1104bbff809b7c41
+          - 6a00793e1104bbff809b7d25
+          - 6a00793f1104bbff809b7f31
+        tag_ids:
+          - 6a034da986fcaaeb5bc834e7
+          - 6a033ab186fcaaeb5bc8332e
+          - 6a0b1f14a53fcab94b3649cc
+          - 6a034d6286fcaaeb5bc834b1
+          - 6a0b1f2ca53fcab94b3649d0
+          - 6a9d10b543003017a8ab3485
+          - 6a87e38c7453cef62ce8935f
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Environment & Climate
+      source:
+        type: filter
+        category_ids:
+          - 6a00793e1104bbff809b7e1b
+          - 6a00793e1104bbff809b7e15
+          - 6a00793f1104bbff809b7f0f
+          - 6a00793f1104bbff809b7f2b
+        tag_ids:
+          - 6a0bf43616f23264031d78de
+          - 6a0b1f14a53fcab94b3649c5
+          - 6a2b8f2c7da23de6325b9b59
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+  seo_keywords_focus: []
+  content_guidelines: []
+  image_guidelines: null
+  vertical: Science
+  vertical_id: 6a00793d1104bbff809b7c68
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: sciencebriefdaily
+site_tagline: null
+theme:
+  base: newsprint
+  colors:
+    primary: "#0a0a0a"
+    accent: "#c8102e"
+    background: "#faf7f2"
+    secondary: "#0a0a0a"
+    text: "#0a0a0a"
+    muted: "#6b6b6b"
+    surface: "#f0ece4"
+    border: "#dcd6c8"
+    heading: "#0a0a0a"
+    link: "#0a0a0a"
+    link_hover: "#c8102e"
+    nav_link: "#faf7f2"
+    nav_link_hover: "#c8102e"
+    footer_bg: "#0a0a0a"
+    must_reads_bg: "#0a0a0a"
+    hero_title: "#faf7f2"
+    must_reads_title: "#faf7f2"
+    article_hero_title: "#faf7f2"
+    article_hero_meta: "#a8a8a8"
+    feed_title: "#0a0a0a"
+    feed_desc: "#1a1a1a"
+    feed_date: "#6b6b6b"
+    prose_heading: "#0a0a0a"
+    prose_body: "#1a1a1a"
+    category_header_text: "#faf7f2"
+    subscribe_heading: "#0a0a0a"
+    footer_text: "#a8a8a8"
+    footer_heading: "#faf7f2"
+    footer_link: "#a8a8a8"
+    footer_link_hover: "#faf7f2"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Playfair Display
+    body: Merriweather
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
