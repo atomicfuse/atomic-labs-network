@@ -3,7 +3,7 @@ active: true
 author: Andrew Bell
 brief:
   audiences: []
-  audience_type_ids: null
+  audience_type_ids: []
   tone: Fun, curious, and conversational
   article_types:
     listicle: 40
@@ -79,8 +79,8 @@ brief:
     - For your publishing portfolio, entertainment with curiosity-driven headlines is the strongest fit.
     - "Tagline: Pop culture. Unexpected stories."
   image_guidelines: []
-  vertical: Pop Culture, Celebrity News, TV Shows, Movies, Music, Viral Stories, Internet Trends, Behind the Scenes, Entertainment Nostalgia, Where Are They Now
-  vertical_id: ""
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
   review_percentage: 5
   schedule:
     articles_per_day: 2
