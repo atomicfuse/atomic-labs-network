@@ -121,40 +121,48 @@ site_tagline: null
 theme:
   base: ocean
   colors:
-    primary: "#0f4c81"
-    accent: "#10b981"
-    background: "#f8fafc"
-    secondary: "#0f172a"
-    text: "#0f172a"
-    muted: "#64748b"
-    surface: "#e2e8f0"
-    border: "#cbd5e1"
-    heading: "#0f172a"
-    link: "#0f4c81"
-    link_hover: "#10b981"
-    nav_link: "#ffffff"
-    nav_link_hover: "#10b981"
-    footer_bg: "#0f172a"
-    must_reads_bg: "#0f172a"
-    hero_title: "#ffffff"
-    must_reads_title: "#ffffff"
-    article_hero_title: "#ffffff"
-    article_hero_meta: "#64748b"
-    feed_title: "#0f172a"
-    feed_desc: "#0f172a"
-    feed_date: "#64748b"
-    prose_heading: "#0f172a"
-    prose_body: "#1e293b"
-    category_header_text: "#ffffff"
-    subscribe_heading: "#0f4c81"
-    footer_text: "#94a3b8"
-    footer_heading: "#ffffff"
-    footer_link: "#94a3b8"
-    footer_link_hover: "#ffffff"
-  logo_height: 52
+    primary: "#1f5128"
+    accent: "#b45309"
+    background: "#f9f7e8"
+    secondary: "#1a2418"
+    text: "#1a2418"
+    muted: "#6b7a5f"
+    surface: "#eef0d8"
+    border: "#d8d8b8"
+    heading: "#1a2418"
+    link: "#1f5128"
+    link_hover: "#b45309"
+    nav_link: "#f9f7e8"
+    nav_link_hover: "#fbbf24"
+    footer_bg: "#0f1f15"
+    must_reads_bg: "#0f1f15"
+    hero_title: "#f9f7e8"
+    must_reads_title: "#f9f7e8"
+    article_hero_title: "#f9f7e8"
+    article_hero_meta: "#9bbf9b"
+    feed_title: "#1a2418"
+    feed_desc: "#2c3e23"
+    feed_date: "#6b7a5f"
+    prose_heading: "#1a2418"
+    prose_body: "#2c3e23"
+    category_header_text: "#f9f7e8"
+    subscribe_heading: "#1a2418"
+    footer_text: "#9bbf9b"
+    footer_heading: "#f9f7e8"
+    footer_link: "#9bbf9b"
+    footer_link_hover: "#fbbf24"
+  logo_height: 66
   menu_item_font_size: 14
   fonts:
-    heading: Playfair Display
-    body: Lora
+    heading: Lora
+    body: Source Sans 3
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height_footer: 74
+tracking:
+  ga4: G-95Z43TG8FC
+  gtm: GT-KT42DD7P
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
