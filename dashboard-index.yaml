@@ -446,7 +446,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-05T11:11:55.416Z
+    last_updated: 2026-07-01T09:18:26.189Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -646,7 +646,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-05T11:13:13.142Z
+    last_updated: 2026-10-05T09:30:32.866Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -666,7 +666,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-06T10:28:34.720Z
+    last_updated: 2026-10-05T09:51:30.731Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -698,6 +698,26 @@ sites:
     vertical: Science
     worker_pending_dns: false
     zone_id: 3bfb814dd3859bcc0c477a48d5cf8979
+  - domain: scoopella
+    cf_apo: false
+    company: ATL
+    created_at: 2026-10-06T10:19:22.743Z
+    custom_domain: scoopella.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-10-06T10:31:20.721Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=scoopella
+    saved_previews: null
+    site_id: "1281962743910"
+    staging_branch: staging/scoopella
+    status: Live
+    vertical: Entertainment
+    zone_id: bca5b6e18742c1fb56895947bfada2da
+    worker_pending_dns: false
   - domain: soccernewsreports
     cf_apo: false
     company: ATL
@@ -746,7 +766,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-06T10:29:14.928Z
+    last_updated: 2026-10-05T10:23:54.485Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -1018,25 +1038,6 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
-  - domain: scoopella
-    company: ATL
-    vertical: Entertainment
-    status: Staging
-    site_id: "1281962743910"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-10-06T10:19:22.743Z
-    created_at: 2026-10-06T10:19:22.743Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/scoopella
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=scoopella
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
