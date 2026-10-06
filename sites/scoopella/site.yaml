@@ -1,0 +1,203 @@
+domain: scoopella.com
+active: true
+author: Ella Hughes
+brief:
+  audiences: []
+  audience_type_ids: []
+  tone: Engaging, friendly, conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Celebrities
+    - Fashion
+    - Entertainment
+    - Music
+    - Pop Culture
+  theme: Entertainment, gossip, celebrities and all the stars news
+  topics_v2:
+    - name: Celebrities
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793e1104bbff809b7de3
+          - 6a00793e1104bbff809b7de5
+          - 6a00793e1104bbff809b7de7
+        tag_ids:
+          - 6a0b36b7ac596b621e935675
+          - 6a0b3468ac596b621e93562d
+          - 6a0b365aac596b621e93565d
+          - 6a0b350eac596b621e935655
+          - 6a0b350dac596b621e935651
+          - 6a0b36e4ac596b621e93568d
+          - 6a0b36c2ac596b621e93567e
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Fashion
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c74
+          - 6a00793e1104bbff809b7de7
+          - 6a00793f1104bbff809b7f45
+          - 6a00793f1104bbff809b7f43
+        tag_ids:
+          - 6a682124edec940b41029c24
+          - 6a0b350eac596b621e935655
+          - 6a981f075fa61901da3eb392
+          - 6a0b36b7ac596b621e935675
+          - 6ac45752ce7701ccb2411d5c
+          - 6a859c05c5a31d42ab3c21cd
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Entertainment
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a00793d1104bbff809b7c5f
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a0b36b7ac596b621e935675
+          - 6a0b350dac596b621e935651
+          - 6a0b3468ac596b621e93562d
+          - 6a0b365aac596b621e93565d
+          - 6a0b350eac596b621e935655
+          - 6a04548486fcaaeb5bc83956
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a008aba2a0a294c696af843
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Music
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fd3
+          - 6a0079401104bbff809b800b
+          - 6a0079401104bbff809b8009
+        tag_ids:
+          - 6a0b340bac596b621e93560c
+          - 6a859c05c5a31d42ab3c21cd
+          - 6a0bc7aa16f23264031d7789
+          - 6a2795cfeb470600f97053a2
+          - 6ab1e9750c196d947f915455
+          - 6a27b1c2eb470600f970551f
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+    - name: Pop Culture
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793e1104bbff809b7de3
+          - 6a00793e1104bbff809b7de5
+          - 6a00793e1104bbff809b7de7
+        tag_ids:
+          - 6a0b36b7ac596b621e935675
+          - 6a0b3468ac596b621e93562d
+          - 6a0b365aac596b621e93565d
+          - 6a0b350eac596b621e935655
+          - 6a0b350dac596b621e935651
+          - 6a04548486fcaaeb5bc83956
+          - 6a0b36c2ac596b621e93567e
+      schedule:
+        articles_per_week: 1
+        preferred_days:
+          - Wednesday
+  seo_keywords_focus: []
+  content_guidelines:
+    - gossip girl Ella sharing her scoops.. should be written like gossip girl
+      and her name is Ella
+  image_guidelines: null
+  vertical: Entertainment
+  vertical_id: 6a00793d1104bbff809b7c32
+  review_percentage: 5
+  schedule:
+    articles_per_day: 2
+    preferred_days:
+      - Wednesday
+    preferred_time: 10:00
+groups: []
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: scoopella
+site_tagline: null
+theme:
+  base: sunset_strip
+  colors:
+    primary: "#7c1d2f"
+    accent: "#c2410c"
+    background: "#fff7ed"
+    secondary: "#fff7ed"
+    text: "#451a03"
+    muted: "#9a6b4e"
+    surface: "#fed7aa"
+    border: "#fdba74"
+    heading: "#451a03"
+    link: "#be123c"
+    link_hover: "#c2410c"
+    nav_link: "#fff7ed"
+    nav_link_hover: "#ffffff"
+    footer_bg: "#7c1d2f"
+    must_reads_bg: "#7c1d2f"
+    hero_title: "#fff7ed"
+    must_reads_title: "#fff7ed"
+    article_hero_title: "#fff7ed"
+    article_hero_meta: "#fdba74"
+    feed_title: "#451a03"
+    feed_desc: "#7c2d12"
+    feed_date: "#9a6b4e"
+    prose_heading: "#451a03"
+    prose_body: "#7c2d12"
+    category_header_text: "#fff7ed"
+    subscribe_heading: "#fff7ed"
+    footer_text: "#fed7aa"
+    footer_heading: "#fff7ed"
+    footer_link: "#fed7aa"
+    footer_link_hover: "#ffffff"
+    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c
+      70%, #c2410c 100%)"
+    subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be123c 50%, #c2410c 100%)"
+    footer_bg_gradient: "linear-gradient(180deg, #be123c 0%, #831843 50%, #1f0408 100%)"
+    must_reads_bg_gradient: "linear-gradient(90deg, #c2410c 0%, #be123c 50%, #9d174d 100%)"
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
+      rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82)
+      100%)
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Bebas Neue
+    body: Poppins
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
