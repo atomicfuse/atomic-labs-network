@@ -1,0 +1,157 @@
+domain: popstorylab.com
+active: true
+author: Andrew Bell
+brief:
+  audiences: []
+  audience_type_ids: null
+  tone: Fun, curious, and conversational
+  article_types:
+    listicle: 40
+    standard: 30
+    how-to: 20
+    review: 10
+  topics:
+    - Pop Culture, Celebrity News, TV Shows, Movies, Music, Viral Stories,
+      Internet Trends, Behind the Scenes, Entertainment Nostalgia, Where Are
+      They Now
+  theme: >-
+    The stories behind what’s trending. Explain why something went viral,
+    uncover behind-the-scenes details, and revisit nostalgic favorites.
+
+    content categories:
+
+    - Celebrity buzz: surprising stories and career updates.
+
+    - TV & movies: cast news, hidden details, and filming secrets.
+
+    - Viral culture: internet trends and the people behind them.
+
+    - Nostalgia: where-are-they-now stories and iconic pop culture moments.
+  topics_v2:
+    - name: Pop Culture, Celebrity News, TV Shows, Movies, Music, Viral Stories,
+        Internet Trends, Behind the Scenes, Entertainment Nostalgia, Where Are
+        They Now
+      source:
+        type: filter
+        category_ids:
+          - 6a00793d1104bbff809b7c5f
+          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+        tag_ids:
+          - 6a0b36b7ac596b621e935675
+          - 6a033ac586fcaaeb5bc8333f
+          - 6a22602cad9a1dd21ebb68ad
+          - 6a04548486fcaaeb5bc83956
+          - 6a0b350dac596b621e935651
+          - 6a0bc7aa16f23264031d7789
+          - 6a0bca2816f23264031d77de
+      schedule:
+        articles_per_week: 10
+        preferred_days:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+  seo_keywords_focus: []
+  content_guidelines:
+    - popstorylab.com sounds like a pop culture and entertainment site—celebrity
+      stories, TV, movies, music, and viral internet moments.
+    - "I’d position it as “The stories behind what’s trending.” The “lab” gives
+      it a curious angle: explain why something went viral, uncover
+      behind-the-scenes details, and revisit nostalgic favorites."
+    - "Good content categories:"
+    - "- Celebrity buzz: surprising stories and career updates."
+    - "- TV & movies: cast news, hidden details, and filming secrets."
+    - "- Viral culture: internet trends and the people behind them."
+    - "- Nostalgia: where-are-they-now stories and iconic pop culture moments."
+    - For your publishing portfolio, entertainment with curiosity-driven
+      headlines is the strongest fit.
+    - "Tagline: Pop culture. Unexpected stories."
+  image_guidelines:
+    - Use vibrant, high-quality images featuring celebrities, movie and TV
+      scenes, music events, and viral moments. Favor expressive faces, candid
+      shots, and bold colors that catch attention on mobile.
+    - Keep images relevant to the story, with minimal text and uncluttered
+      compositions. Use licensed or permission-cleared visuals. Avoid misleading
+      edits, intrusive paparazzi photos, and AI-generated images presented as
+      real events.
+  vertical: Pop Culture, Celebrity News, TV Shows, Movies, Music, Viral Stories,
+    Internet Trends, Behind the Scenes, Entertainment Nostalgia, Where Are They
+    Now
+  vertical_id: null
+  review_percentage: 5
+  schedule:
+    articles_per_day: 10
+    preferred_days:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+    preferred_time: 10:00
+groups:
+  - ready
+iab_vertical_code: null
+layout:
+  hero:
+    enabled: true
+    count: 4
+  must_reads:
+    enabled: true
+    count: 5
+  whats_new:
+    enabled: true
+    count: 4
+  more_on:
+    enabled: true
+    page_size: 8
+  sidebar_topics:
+    auto: true
+    explicit: []
+  load_more:
+    page_size: 4
+scripts_vars: null
+site_name: popstorylab
+site_tagline: null
+theme:
+  base: ocean
+  colors:
+    primary: "#0f4c81"
+    accent: "#10b981"
+    background: "#f8fafc"
+    secondary: "#0f172a"
+    text: "#0f172a"
+    muted: "#64748b"
+    surface: "#e2e8f0"
+    border: "#cbd5e1"
+    heading: "#0f172a"
+    link: "#0f4c81"
+    link_hover: "#10b981"
+    nav_link: "#ffffff"
+    nav_link_hover: "#10b981"
+    footer_bg: "#0f172a"
+    must_reads_bg: "#0f172a"
+    hero_title: "#ffffff"
+    must_reads_title: "#ffffff"
+    article_hero_title: "#ffffff"
+    article_hero_meta: "#64748b"
+    feed_title: "#0f172a"
+    feed_desc: "#0f172a"
+    feed_date: "#64748b"
+    prose_heading: "#0f172a"
+    prose_body: "#1e293b"
+    category_header_text: "#ffffff"
+    subscribe_heading: "#0f4c81"
+    footer_text: "#94a3b8"
+    footer_heading: "#ffffff"
+    footer_link: "#94a3b8"
+    footer_link_hover: "#ffffff"
+  logo_height: 52
+  menu_item_font_size: 14
+  fonts:
+    heading: Playfair Display
+    body: Lora
+  logo: /assets/logo.png
+  favicon: /assets/favicon.png
