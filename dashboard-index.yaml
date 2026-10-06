@@ -1018,6 +1018,25 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
+  - domain: scoopella
+    company: ATL
+    vertical: Entertainment
+    status: Staging
+    site_id: "1281962743910"
+    exclusivity: null
+    ob_epid: null
+    ga_info: null
+    cf_apo: false
+    fixed_ad: false
+    last_updated: 2026-10-06T10:19:22.743Z
+    created_at: 2026-10-06T10:19:22.743Z
+    pages_project: null
+    pages_subdomain: null
+    zone_id: null
+    staging_branch: staging/scoopella
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=scoopella
+    saved_previews: null
+    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
