@@ -22,7 +22,7 @@ source_url: >-
 source_item_id: 6ac476f664df7692b392bf66
 source_title: Gypsy Rose Blanchard Shares Alleged Abuse Aimed at Ex-Fiancé Ken Urker
 generated_by: openai
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/gypsy-rose-blanchard-kenans-law-cyberbullying-impact.webp
 quality_score: 55
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Celebrities
+image_alt: >-
+  Man sits alone beside a window as blurred faces surround his reflection,
+  symbolizing the toll of cyberbullying.
 ---
 ### Peg: Gypsy Rose Blanchard Pushing for Change
 

@@ -14,7 +14,7 @@ brief:
     - Celebrities
     - Fashion
     - Entertainment
-    - Music
+    - Movies & TV
     - Pop Culture
   theme: Entertainment, gossip, celebrities and all the stars news
   topics_v2:
@@ -78,25 +78,23 @@ brief:
         articles_per_week: 1
         preferred_days:
           - Wednesday
-    - name: Music
+    - name: Movies & TV
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c32
+          - 6a0079401104bbff809b7fd9
+          - 6a0079401104bbff809b7fdb
+          - 6a00793e1104bbff809b7ddb
           - 6a0079401104bbff809b7fd3
-          - 6a0079401104bbff809b800b
-          - 6a0079401104bbff809b8009
         tag_ids:
-          - 6a0b340bac596b621e93560c
-          - 6a859c05c5a31d42ab3c21cd
-          - 6a0bc7aa16f23264031d7789
-          - 6a2795cfeb470600f97053a2
-          - 6ab1e9750c196d947f915455
-          - 6a27b1c2eb470600f970551f
-      schedule:
-        articles_per_week: 1
-        preferred_days:
-          - Wednesday
+          - 6a37c8cbcbbe345bde1163c0
+          - 6a14488116f23264031d7fed
+          - 6a1417f816f23264031d7d70
+          - 6a0435ac86fcaaeb5bc836f0
+          - 6a008aba2a0a294c696af843
+          - 6a04548486fcaaeb5bc83956
+          - 6a044ccf86fcaaeb5bc83878
+          - 6a033d0b86fcaaeb5bc83372
     - name: Pop Culture
       source:
         type: filter
@@ -119,8 +117,7 @@ brief:
           - Wednesday
   seo_keywords_focus: []
   content_guidelines:
-    - gossip girl Ella sharing her scoops.. should be written like gossip girl
-      and her name is Ella
+    - gossip girl Ella sharing her scoops.. should be written like gossip girl and her name is Ella
   image_guidelines: null
   vertical: Entertainment
   vertical_id: 6a00793d1104bbff809b7c32
@@ -159,7 +156,7 @@ theme:
     primary: "#7c1d2f"
     accent: "#c2410c"
     background: "#fff7ed"
-    secondary: "#fff7ed"
+    secondary: "#c2410c"
     text: "#451a03"
     muted: "#9a6b4e"
     surface: "#fed7aa"
@@ -186,18 +183,16 @@ theme:
     footer_heading: "#fff7ed"
     footer_link: "#fed7aa"
     footer_link_hover: "#ffffff"
-    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c
-      70%, #c2410c 100%)"
+    header_bg_gradient: "linear-gradient(135deg, #7c1d2f 0%, #be123c 35%, #c2410c 70%, #c2410c 100%)"
     subscribe_bg_gradient: "linear-gradient(135deg, #831843 0%, #be123c 50%, #c2410c 100%)"
     footer_bg_gradient: "linear-gradient(180deg, #be123c 0%, #831843 50%, #1f0408 100%)"
     must_reads_bg_gradient: "linear-gradient(90deg, #c2410c 0%, #be123c 50%, #9d174d 100%)"
-    hero_overlay_gradient: linear-gradient(180deg, transparent 0%,
-      rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82)
-      100%)
-  logo_height: 52
-  menu_item_font_size: 14
+    hero_overlay_gradient: linear-gradient(180deg, transparent 0%, rgba(249,115,22,0.1) 45%, rgba(249,115,22,0.35) 80%, rgba(124,29,47,0.82) 100%)
+  logo_height: 64
+  menu_item_font_size: 16
   fonts:
     heading: Bebas Neue
     body: Poppins
   logo: /assets/logo.png
   favicon: /assets/favicon.png
+  logo_height_footer: 86

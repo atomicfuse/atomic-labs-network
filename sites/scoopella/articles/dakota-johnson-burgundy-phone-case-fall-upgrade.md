@@ -21,7 +21,7 @@ source_title: >-
   Dakota Johnson’s Clever Magnetic Cellphone Cover Is So Fall-Coded, and Her
   Exact Pick Is Only $15 (On Amazon!)
 generated_by: openai
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/dakota-johnson-burgundy-phone-case-fall-upgrade.webp
 quality_score: 61
 score_breakdown:
   seo_quality: 72
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Fashion
+image_alt: >-
+  Burgundy magnetic phone case styled with a camel coat and autumn leaves for a
+  polished fall look
 ---
 With fall just around the corner, it's time to swap out those summer accessories for something a bit cozier. Enter Dakota Johnson and her stunning burgundy magnetic phone case—an accessory that perfectly encapsulates the essence of autumn. Spotted with this chic FireNova case, Dakota's $15 phone cover isn't just stylish; it’s functional, boasting MagSafe compatibility and protective features that make it the ideal choice for anyone looking to keep their tech safe without sacrificing style.
 

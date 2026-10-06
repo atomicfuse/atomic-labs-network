@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6ac4875cce7701ccb2411de1
 source_title: ‘Below Deck Mediterranean’ Season 11 Finale Recap
 generated_by: openai
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/below-deck-mediterranean-season-11-finale-friendship-chaos.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 55
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Entertainment
+image_alt: >-
+  Two yacht crew members share a supportive moment on deck after a turbulent
+  season.
 ---
 The Season 11 finale of *Below Deck Mediterranean* aired this past week, capping off a tumultuous journey filled with emotional highs and messy lows. With emotional resolutions, ending relationships, and crew dynamics hitting fever pitch, this episode encapsulated everything viewers love (and love to hate) about reality TV.
 

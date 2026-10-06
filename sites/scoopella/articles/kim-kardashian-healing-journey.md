@@ -19,7 +19,7 @@ source_url: >-
 source_item_id: 6ac476f664df7692b392bf68
 source_title: Kim Kardashian Reveals Why She Needed 5 Years To ‘Heal’ Before Dating Again
 generated_by: openai
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/kim-kardashian-healing-journey.webp
 quality_score: 62
 score_breakdown:
   seo_quality: 62
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Pop Culture
+image_alt: >-
+  An empty velvet chair by warm window light suggests healing, reflection, and
+  love chosen intentionally.
 ---
 Kim Kardashian just spilled some serious tea about her dating hiatus! After her very public divorce from Kanye West and a whirlwind romance with Pete Davidson, Kim took a solid five years to focus on herself. In a world where the pressure to jump back into the dating pool is palpable, her journey of intentional singlehood is a refreshing reminder that sometimes, the best relationship you can have is with yourself.
 
