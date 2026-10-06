@@ -101,7 +101,7 @@ brief:
       - Wednesday
     preferred_time: 10:00
 groups:
-  - ready
+  - ncg
 iab_vertical_code: null
 layout:
   hero:
