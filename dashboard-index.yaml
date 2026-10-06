@@ -646,7 +646,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-06T14:31:53.939Z
+    last_updated: 2026-10-06T14:58:40.532Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -655,7 +655,7 @@ sites:
     site_id: "1296833072239"
     staging_branch: staging/popstorylab
     status: Live
-    vertical: Pop Culture, Celebrity News, TV Shows, Movies, Music, Viral Stories, Internet Trends, Behind the Scenes, Entertainment Nostalgia, Where Are They Now
+    vertical: Entertainment
     zone_id: a921483157ed2460843147a9ff08d544
     worker_pending_dns: false
   - domain: roadsandviews
