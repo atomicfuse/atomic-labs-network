@@ -121,41 +121,41 @@ site_tagline: null
 theme:
   base: ocean
   colors:
-    primary: "#1f5128"
-    accent: "#b45309"
-    background: "#f9f7e8"
-    secondary: "#1a2418"
-    text: "#1a2418"
-    muted: "#6b7a5f"
-    surface: "#eef0d8"
-    border: "#d8d8b8"
-    heading: "#1a2418"
-    link: "#1f5128"
-    link_hover: "#b45309"
-    nav_link: "#f9f7e8"
-    nav_link_hover: "#fbbf24"
-    footer_bg: "#0f1f15"
-    must_reads_bg: "#0f1f15"
-    hero_title: "#f9f7e8"
-    must_reads_title: "#f9f7e8"
-    article_hero_title: "#f9f7e8"
-    article_hero_meta: "#9bbf9b"
-    feed_title: "#1a2418"
-    feed_desc: "#2c3e23"
-    feed_date: "#6b7a5f"
-    prose_heading: "#1a2418"
-    prose_body: "#2c3e23"
-    category_header_text: "#f9f7e8"
-    subscribe_heading: "#1a2418"
-    footer_text: "#9bbf9b"
-    footer_heading: "#f9f7e8"
-    footer_link: "#9bbf9b"
-    footer_link_hover: "#fbbf24"
+    primary: "#18181b"
+    accent: "#be185d"
+    background: "#fafafa"
+    secondary: "#fafafa"
+    text: "#09090b"
+    muted: "#64748b"
+    surface: "#f4f4f5"
+    border: "#e4e4e7"
+    heading: "#09090b"
+    link: "#18181b"
+    link_hover: "#be185d"
+    nav_link: "#fafafa"
+    nav_link_hover: "#f472b6"
+    footer_bg: "#18181b"
+    must_reads_bg: "#18181b"
+    hero_title: "#fafafa"
+    must_reads_title: "#fafafa"
+    article_hero_title: "#fafafa"
+    article_hero_meta: "#a1a1aa"
+    feed_title: "#09090b"
+    feed_desc: "#27272a"
+    feed_date: "#71717a"
+    prose_heading: "#09090b"
+    prose_body: "#27272a"
+    category_header_text: "#fafafa"
+    subscribe_heading: "#fafafa"
+    footer_text: "#a1a1aa"
+    footer_heading: "#fafafa"
+    footer_link: "#a1a1aa"
+    footer_link_hover: "#f472b6"
   logo_height: 66
   menu_item_font_size: 14
   fonts:
-    heading: Lora
-    body: Source Sans 3
+    heading: Roboto
+    body: Manrope
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height_footer: 74

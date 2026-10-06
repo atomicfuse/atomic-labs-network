@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac476f564df7692b392bf46
 source_title: Kelly Clarkson stuns fans by debuting bold new look after quitting talk show
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/kelly-clarkson-blonde-bob-after-talk-show-exit.webp
 quality_score: 65
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Viral Stories
+image_alt: >-
+  A blonde bob wig in a softly lit dressing room with an open doorway suggesting
+  reinvention.
 ---
 Kelly Clarkson has swapped her signature long brown hair for a short blonde bob, and fans have noticed. Per the Daily Mail, the new look arrives after Clarkson quit her daytime talk show in August, and the reaction has been strong, with supporters praising the fresh style and what they describe as her newfound energy.
 

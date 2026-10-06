@@ -20,7 +20,7 @@ source_url: 'https://trends.google.com/trending?geo=US&q=kristen%20wiig&d=2026-1
 source_item_id: 6ac48e64ce7701ccb2411e05
 source_title: kristen wiig
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/kristen-wiig-brunette-chanel-paris-fashion-week.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 68
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Pop Culture
+image_alt: >-
+  A glossy brunette hairpiece on a chic vanity evokes a celebrity style
+  transformation.
 ---
 Kristen Wiig showed up at the Chanel show during Paris Fashion Week this week, wearing a strapless Chanel minidress and a brunette hair look that has people searching her name. People.com led with the hair, headlining its coverage "Kristen Wiig Goes Brunette at Chanel Show During Paris Fashion Week." HELLO! Magazine, which put her age at 53, focused on the minidress.
 

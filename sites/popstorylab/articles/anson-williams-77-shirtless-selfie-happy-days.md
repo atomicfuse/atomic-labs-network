@@ -22,7 +22,7 @@ source_title: >-
   Happy Days star Anson Williams, 77, shocks fans with his fit physique in
   shirtless selfie
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/anson-williams-77-shirtless-selfie-happy-days.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Viral Stories
+image_alt: >-
+  A sunlit bathroom vanity with a towel, phone, and hand weight suggesting
+  healthy aging and self-care.
 ---
 Potsie Webber just flexed. On Sunday, Happy Days star Anson Williams, 77, posted a shirtless selfie taken in his bathroom, per the Daily Mail. He flashed a proud smile, flexed a bicep, and showed off a toned physique that left fans impressed.
 
