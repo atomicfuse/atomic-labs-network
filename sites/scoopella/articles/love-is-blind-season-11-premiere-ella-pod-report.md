@@ -21,7 +21,7 @@ source_title: >-
   'Love Is Blind' Season 11 Cast Photos &amp; Episode Release Guide Schedule For
   Netflix Dating Series
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/love-is-blind-season-11-premiere-ella-pod-report.webp
 quality_score: 83
 score_breakdown:
   seo_quality: 80
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Movies & TV
+image_alt: >-
+  Four singles appear in separate dating-pod portrait panels ahead of a new
+  reality TV season.
 ---
 Hello, Upper East Siders of the streaming world. Ella here, and the pods are opening again.
 

@@ -19,7 +19,7 @@ source_url: 'https://www.instyle.com/davante-adams-wife-devanne-adams-12151307'
 source_item_id: 6ac45625ce7701ccb2411d54
 source_title: 'All About Davante Adams’s Wife, Proud Mom of Four Devanne Adams'
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/davante-adams-wife-devanne-adams-college-sweethearts.webp
 quality_score: 67
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Celebrities
+image_alt: >-
+  A sunlit living room with six cozy cushions symbolizing a college romance
+  turned family life.
 ---
 Hello, Upper East Siders of the gridiron. Ella here, and today's scoop is a love story that started long before the stadium lights.
 

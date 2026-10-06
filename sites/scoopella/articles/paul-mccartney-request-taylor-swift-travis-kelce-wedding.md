@@ -23,7 +23,7 @@ source_title: >-
   Paul McCartney Had One Request While Performing at Taylor Swift and Travis
   Kelce’s Wedding
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/paul-mccartney-request-taylor-swift-travis-kelce-wedding.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Pop Culture
+image_alt: >-
+  A spotlighted bass guitar and microphone sit on a wedding stage beside flowers
+  and a blank note card.
 ---
 Hello, Scoopella-ites. Ella here, and I've got a Beatle in my inbox.
 

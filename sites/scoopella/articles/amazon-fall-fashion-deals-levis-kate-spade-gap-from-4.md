@@ -22,7 +22,7 @@ source_title: >-
   I Found So Many Rich-Looking Fall Fashion Deals at Amazon—Levi’s, Kate Spade,
   and Gap Start at Just $4
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/amazon-fall-fashion-deals-levis-kate-spade-gap-from-4.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Fashion
+image_alt: >-
+  Editorial fall outfit with black knitwear, wide-leg jeans, burgundy bag, and
+  turquoise sneakers beside a shopping box
 ---
 Spotted: a very expensive-looking wardrobe, hiding in plain sight on Amazon. Hello, Upper East Siders and everyone scrolling in secret during a meeting. Ella here, with a scoop that costs about as much as a latte.
 

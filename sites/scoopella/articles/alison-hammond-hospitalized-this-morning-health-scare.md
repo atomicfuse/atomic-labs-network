@@ -18,7 +18,7 @@ source_url: 'https://www.vulture.com/article/alison-hammond-hospitalized.html'
 source_item_id: 6ac092dbd48419d1d7d2332d
 source_title: Alison Hammond Hospitalized After On-Air Health Event
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/alison-hammond-hospitalized-this-morning-health-scare.webp
 quality_score: 68
 score_breakdown:
   seo_quality: 68
@@ -35,6 +35,9 @@ quality_note: >-
 reading_time: 2
 topics:
   - Entertainment
+image_alt: >-
+  An empty morning-show studio chair under warm lights with cool blue tones
+  nearby.
 ---
 Hello, Upper East Siders of the telly world. Ella here, and today's scoop comes with the sparkle turned way down.
 

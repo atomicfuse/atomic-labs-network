@@ -23,7 +23,7 @@ source_title: >-
   Madonna's family make intervention: After forgetful and embarrassing VMAs
   comeback, insiders reveal clash between 'control freak' star and her team
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/madonna-vmas-comeback-family-concern-control.webp
 quality_score: 80
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Pop Culture
+image_alt: >-
+  Mature pop performer faces a fragmented mirror backstage as concerned figures
+  watch from the shadows.
 ---
 Hello, Upper East Siders of pop culture. Ella here, and I have a scoop that's more *Vogue* cover meets cautionary tale.
 

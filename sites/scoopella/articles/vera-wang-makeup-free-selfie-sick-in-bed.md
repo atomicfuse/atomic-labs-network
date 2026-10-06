@@ -22,7 +22,7 @@ source_title: >-
   Vera Wang, 77, shares rare makeup free selfie after several age-defying red
   carpet appearances... see her now
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/vera-wang-makeup-free-selfie-sick-in-bed.webp
 quality_score: 77
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Entertainment
+image_alt: >-
+  Older fashion designer poses makeup-free in bed with a black evening gown
+  blurred behind her
 ---
 Hello, Upper East Siders and everyone beyond the Hudson. Ella here, with a scoop that came to us straight from a duvet.
 

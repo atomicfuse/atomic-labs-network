@@ -23,7 +23,7 @@ source_title: >-
   ‘DeuxMoi’ Source Implies Gigi Hadid and Bradley Cooper Aren’t Married...Here’s
   What Those Wedding Rings Actually Mean
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/gigi-hadid-bradley-cooper-gold-rings-promise-deuxmoi.webp
 quality_score: 79
 score_breakdown:
   seo_quality: 74
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Celebrities
+image_alt: >-
+  Matching gold rings on two nearly touching hands suggest a private promise
+  rather than a public proposal.
 ---
 Spotted: two A-listers, two matching gold rings, and one very overworked rumor mill. Hello, Upper East Siders of the internet, Ella here, and this week's scoop is shiny.
 

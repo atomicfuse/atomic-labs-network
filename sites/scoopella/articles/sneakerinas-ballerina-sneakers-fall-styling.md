@@ -22,7 +22,7 @@ source_title: >-
   The Ballerina Sneaker Trend Is Back (and on Sale) for Fall—Here’s How to Style
   It
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/sneakerinas-ballerina-sneakers-fall-styling.webp
 quality_score: 81
 score_breakdown:
   seo_quality: 74
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Fashion
+image_alt: >-
+  Street-style woman wearing a ballet sneaker with a pleated skirt, cream
+  blazer, socks, and burgundy handbag
 ---
 Hello, Upper East Siders of the sneaker aisle. Ella here, and I've got a footwear scoop that's half ballet, half gym class, and fully back.
 

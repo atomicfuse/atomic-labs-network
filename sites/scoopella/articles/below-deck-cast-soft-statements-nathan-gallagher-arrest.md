@@ -23,7 +23,7 @@ source_title: >-
   What Has the ‘Below Deck’ Franchise Cast Said About Nathan Gallagher’s Arrest
   for Domestic Violence?
 generated_by: claude
-featuredImage: /assets/images/scoopella-general-article.webp
+featuredImage: /assets/images/below-deck-cast-soft-statements-nathan-gallagher-arrest.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 72
@@ -40,6 +40,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Movies & TV
+image_alt: >-
+  Cropped yacht crew portraits and an unreadable repost suggest a reality-TV
+  cast speaking indirectly.
 ---
 Hello, Upper Deck. Ella here, and the yacht is quiet. Too quiet.
 
