@@ -127,7 +127,8 @@ brief:
     preferred_days:
       - Wednesday
     preferred_time: 10:00
-groups: []
+groups:
+  - atl
 iab_vertical_code: null
 layout:
   hero:
@@ -196,3 +197,10 @@ theme:
   logo: /assets/logo.png
   favicon: /assets/favicon.png
   logo_height_footer: 86
+tracking:
+  ga4: G-9QRW2MVXMM
+  gtm: GT-K8HXGXZC
+  google_ads: null
+  facebook_pixel: null
+  facebook_domain_verification: null
+  custom: []
