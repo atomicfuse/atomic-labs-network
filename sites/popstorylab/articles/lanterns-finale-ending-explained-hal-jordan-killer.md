@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac45624ce7701ccb2411d2c
 source_title: Breaking Down the Ending of ‘Lanterns’
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/lanterns-finale-ending-explained-hal-jordan-killer.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 66
@@ -41,6 +41,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Internet Trends
+image_alt: >-
+  A rain-slick roadside lantern glows green and amber, suggesting a quiet sci-fi
+  finale.
 ---
 Lanterns has wrapped its first season on HBO Max, and the finale did something superhero finales rarely do: it got quiet. According to Cosmopolitan's breakdown of the ending, the season closed on a deliberately understated note, with major reveals about the second Manhunter, the person who killed Hal Jordan, and John Stewart's unusual new job as Earth's protector.
 

@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac476f564df7692b392bf4f
 source_title: GOP Trump Foe Grilled About All The Times The President Made Him Fold
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/thom-tillis-the-view-ana-navarro-book-hegseth-noem.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Entertainment Nostalgia
+image_alt: >-
+  A blank book faces a stack of receipts on a retro talk-show desk under split
+  studio lighting.
 ---
 Book tours are supposed to be the easy part of a politician's life: a friendly couch, a soft-focus question, a plug for the cover. Sen. Thom Tillis, it turns out, picked the wrong couch.
 

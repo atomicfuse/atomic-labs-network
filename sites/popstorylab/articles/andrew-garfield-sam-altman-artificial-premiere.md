@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac476f564df7692b392bf3d
 source_title: Andrew Garfield On Playing Sam Altman At 'Artificial' World Premiere
 generated_by: claude
-featuredImage: /assets/images/popstorylab-general-article.webp
+featuredImage: /assets/images/andrew-garfield-sam-altman-artificial-premiere.webp
 quality_score: 74
 score_breakdown:
   seo_quality: 66
@@ -39,6 +39,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Celebrity News
+image_alt: >-
+  A silhouetted suited figure sits in a moody boardroom under split amber and
+  blue light.
 ---
 Andrew Garfield has played Spider-Man, a Jesuit priest, and a man dying of AIDS-era heartbreak. Now he's playing the CEO of OpenAI. Per Deadline, Garfield spoke about taking on Sam Altman in Luca Guadagnino's "Artificial" as the film made its world premiere at the New York Film Festival, and he was candid about what he hoped the movie would do: shine a light on the risks posed by OpenAI and its CEO.
 
