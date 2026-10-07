@@ -184,7 +184,4 @@ grid:
   feed_ad_every: 3
   blocked_categories:
     - War and Conflicts
-  pinned:
-    - site: aggregator
-      slug: madison-lecroy-s-cozy-night-in-isn-t-complete-without-these-rejuvinating-face-ma-6ac476f564df7692b392bf3f
-      until: null
+  pinned: []
