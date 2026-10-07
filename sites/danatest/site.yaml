@@ -182,3 +182,5 @@ grid:
   include_sites: []
   max_age_days: 20
   feed_ad_every: 3
+  blocked_categories:
+    - War and Conflicts
