@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac476f564df7692b392bf4c
 source_title: Below Deck Med’s Luke Brumer Returns — And Quickly Leaves Again
 generated_by: claude
-featuredImage: /assets/images/dramadispatch-general-article.webp
+featuredImage: /assets/images/luke-brumer-below-deck-med-finale-return.webp
 quality_score: 75
 score_breakdown:
   seo_quality: 66
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - TV & Streaming
+image_alt: >-
+  Generic yacht crew member seen from behind leaving through a bright corridor
+  doorway toward the sea.
 ---
 Luke Brumer came back for the *Below Deck Mediterranean* season 11 finale, and then, per Us Weekly's report, left again shortly afterward. Between those two events, he reportedly reconnected with Chef Joy before departing.
 

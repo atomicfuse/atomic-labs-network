@@ -20,7 +20,7 @@ source_url: >-
 source_item_id: 6ac092dbd48419d1d7d2332e
 source_title: Disney Licenses Some of Its Library to Netflix
 generated_by: claude
-featuredImage: /assets/images/dramadispatch-general-article.webp
+featuredImage: /assets/images/disney-licenses-ice-age-percy-jackson-to-netflix.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 62
@@ -38,6 +38,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Movie Reviews
+image_alt: >-
+  Unbranded streaming catalog with accessible library titles below and premium
+  content behind smoked glass.
 ---
 Disney, the studio that yanked its content from Netflix in 2017 to launch its own streaming service, is now handing some of it back. Per Vulture, Disney is licensing a selection of its library to Netflix, with the Ice Age films and *Percy Jackson and the Olympians* heading to the service this weekend and more titles to follow soon.
 
