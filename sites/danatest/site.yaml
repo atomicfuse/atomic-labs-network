@@ -177,6 +177,8 @@ grid:
         - Pop Culture
         - Style & Fashion
         - Entertainment
+      bundles:
+        - 6ac4c3d064df7692b392c02d
   include_sites: []
   max_age_days: 20
   feed_ad_every: 3
