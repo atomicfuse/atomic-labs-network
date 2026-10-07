@@ -14,7 +14,9 @@ tags:
   - Maura Higgins
   - Ezra French
   - Reality TV
-slug: dwts-producers-wrong-frontrunners-maura-higgins-ezra-french
+slug: dwts-producers-frontrunners-maura-higgins-ezra-french
+redirect_from:
+  - dwts-producers-wrong-frontrunners-maura-higgins-ezra-french
 reviewer_notes: ''
 source_url: >-
   https://www.cosmopolitan.com/entertainment/tv/a73931019/dwts-producers-frontrunner-disappointment/

@@ -14,7 +14,9 @@ tags:
   - Nathan Gallagher
   - Gael Cameron
   - Reality TV
-slug: below-deck-cast-soft-statements-nathan-gallagher-arrest
+slug: below-deck-cast-measured-statements-and-subtle-messaging
+redirect_from:
+  - below-deck-cast-soft-statements-nathan-gallagher-arrest
 reviewer_notes: ''
 source_url: >-
   https://www.usmagazine.com/entertainment/news/below-deck-casts-comments-about-nathan-gallagher-arrest/

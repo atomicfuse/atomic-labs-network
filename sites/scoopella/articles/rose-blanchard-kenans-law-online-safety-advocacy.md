@@ -15,7 +15,9 @@ tags:
   - gypsy-rose-blanchard
   - ken-urker
   - online-abuse
-slug: gypsy-rose-blanchard-kenans-law-cyberbullying-impact
+slug: rose-blanchard-kenans-law-online-safety-advocacy
+redirect_from:
+  - gypsy-rose-blanchard-kenans-law-cyberbullying-impact
 reviewer_notes: ''
 source_url: >-
   https://www.tmz.com/2026/10/05/gypsy-rose-posts-alleged-ken-urker-cyberbullying-evidence/

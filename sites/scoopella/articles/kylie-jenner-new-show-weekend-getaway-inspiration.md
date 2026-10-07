@@ -14,7 +14,9 @@ tags:
   - kylie-jenner
   - pretty-little-liars
   - reality-tv
-slug: kylie-jenner-bachelorette-weekend-pretty-little-liars
+slug: kylie-jenner-new-show-weekend-getaway-inspiration
+redirect_from:
+  - kylie-jenner-bachelorette-weekend-pretty-little-liars
 reviewer_notes: ''
 source_url: 'https://www.vulture.com/article/kylie-jenner-bachelorette-weekend-tv-show.html'
 source_item_id: 6ac4875cce7701ccb2411ddf

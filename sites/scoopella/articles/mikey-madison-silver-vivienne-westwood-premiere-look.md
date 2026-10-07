@@ -14,7 +14,9 @@ tags:
   - Vivienne Westwood
   - Red Carpet
   - The Social Reckoning
-slug: mikey-madison-silver-vivienne-westwood-social-reckoning-premiere
+slug: mikey-madison-silver-vivienne-westwood-premiere-look
+redirect_from:
+  - mikey-madison-silver-vivienne-westwood-social-reckoning-premiere
 reviewer_notes: ''
 source_url: >-
   https://www.instyle.com/mikey-madison-glittering-vivienne-westwood-gown-12159541

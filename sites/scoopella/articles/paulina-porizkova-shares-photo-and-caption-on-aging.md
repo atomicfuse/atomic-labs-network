@@ -13,7 +13,9 @@ tags:
   - Body Positivity
   - Social Media
   - Celebrity Style
-slug: paulina-porizkova-topless-photo-caption-aging
+slug: paulina-porizkova-shares-photo-and-caption-on-aging
+redirect_from:
+  - paulina-porizkova-topless-photo-caption-aging
 reviewer_notes: ''
 source_url: >-
   https://www.instyle.com/paulina-porizkova-wears-tiny-black-white-bikini-bottoms-12160281

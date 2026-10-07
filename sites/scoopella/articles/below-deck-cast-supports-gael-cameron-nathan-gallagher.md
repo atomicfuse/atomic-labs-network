@@ -13,7 +13,9 @@ tags:
   - nathan-gallagher
   - bravo
   - reality-tv
-slug: below-deck-cast-supports-gael-cameron-nathan-gallagher-arrest
+slug: below-deck-cast-supports-gael-cameron-nathan-gallagher
+redirect_from:
+  - below-deck-cast-supports-gael-cameron-nathan-gallagher-arrest
 reviewer_notes: ''
 source_url: >-
   https://www.usmagazine.com/entertainment/news/below-deck-casts-comments-about-nathan-gallagher-arrest/

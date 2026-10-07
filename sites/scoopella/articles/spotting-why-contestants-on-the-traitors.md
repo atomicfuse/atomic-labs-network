@@ -12,7 +12,9 @@ tags:
   - the-traitors
   - reality-tv
   - contestant-psychology
-slug: spotting-liars-why-contestants-struggle-on-the-traitors
+slug: spotting-why-contestants-on-the-traitors
+redirect_from:
+  - spotting-liars-why-contestants-struggle-on-the-traitors
 reviewer_notes: ''
 source_url: 'https://phys.org/news/2026-09-celebrity-traitors-contestants-game-tougher.html'
 source_item_id: 6abded845b22be6773eca3e0

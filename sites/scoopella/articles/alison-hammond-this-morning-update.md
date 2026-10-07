@@ -12,7 +12,9 @@ tags:
   - Alison Hammond
   - This Morning
   - Health
-slug: alison-hammond-hospitalized-this-morning-health-scare
+slug: alison-hammond-this-morning-update
+redirect_from:
+  - alison-hammond-hospitalized-this-morning-health-scare
 reviewer_notes: ''
 source_url: 'https://www.vulture.com/article/alison-hammond-hospitalized.html'
 source_item_id: 6ac092dbd48419d1d7d2332d

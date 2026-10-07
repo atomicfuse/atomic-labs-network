@@ -13,7 +13,9 @@ tags:
   - reality-tv
   - celebrity-relationships
   - soft-launch
-slug: melody-drew-big-brother-28-soft-launch-dating-rumors
+slug: melody-drew-big-brother-28-friendship-update
+redirect_from:
+  - melody-drew-big-brother-28-soft-launch-dating-rumors
 reviewer_notes: ''
 source_url: >-
   https://www.cosmopolitan.com/entertainment/tv/a74032995/melody-drew-big-brother-dating/

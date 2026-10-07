@@ -13,7 +13,9 @@ tags:
   - Celebrity Relationships
   - olivia-o'brien
   - pete-davidson
-slug: olivia-obrien-calls-out-pete-davidson-ghosting-drama
+slug: olivia-obrien-and-pete-davidson-celebrity-news
+redirect_from:
+  - olivia-obrien-calls-out-pete-davidson-ghosting-drama
 reviewer_notes: ''
 source_url: >-
   https://www.cosmopolitan.com/entertainment/celebs/a74028136/olivia-obrien-slams-pete-davidson/
