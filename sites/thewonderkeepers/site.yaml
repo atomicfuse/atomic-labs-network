@@ -26,18 +26,16 @@ brief:
       source:
         type: filter
         category_ids:
+          - 6a00793e1104bbff809b7ce9
           - 6a00793d1104bbff809b7c38
+          - 6a00793e1104bbff809b7d77
           - 6a00793d1104bbff809b7c53
-          - 6a00793d1104bbff809b7c65
-          - 6a00793d1104bbff809b7c41
         tag_ids:
-          - 6a43b6f4b38c8d71670c62ed
-          - 6a43b6f4b38c8d71670c62ef
-          - 6a140c7216f23264031d7cd6
+          - 6a43b645b38c8d71670c62b9
+          - 6a04518e86fcaaeb5bc838fa
+          - 6a044f3986fcaaeb5bc838c1
+          - 6a04565c86fcaaeb5bc83976
           - 6a033ab186fcaaeb5bc8332e
-          - 6a142ae016f23264031d7f39
-          - 6a14261f16f23264031d7ea2
-          - 6a142afc16f23264031d7f46
     - name: Wonder
       description: religion, miracles and spirituality. wonder stories and good feeling
       source:
@@ -46,12 +44,12 @@ brief:
           - 6a00793d1104bbff809b7c65
           - 6a00793e1104bbff809b7e03
           - 6a00793e1104bbff809b7e0b
-          - 6a0079401104bbff809b8005
         tag_ids:
+          - 6a43b645b38c8d71670c62b9
           - 6a43b6f4b38c8d71670c62ed
           - 6a43b6f4b38c8d71670c62ef
-          - 6a03361e86fcaaeb5bc83266
-          - 6a034d6286fcaaeb5bc834b1
+          - 6a2a54c27da23de6325b9ad8
+          - 6a43b7fab38c8d71670c62f9
     - name: Wisdom
       description: life wisdom, spirituality, astrology
       source:
@@ -61,47 +59,47 @@ brief:
           - 6a00793e1104bbff809b7e05
           - 6a00793d1104bbff809b7c65
         tag_ids:
+          - 6a43b645b38c8d71670c62b9
           - 6a43b6f4b38c8d71670c62ed
           - 6a43b6f4b38c8d71670c62ef
-          - 6a034d6286fcaaeb5bc834b1
-          - 6a15022716f23264031d80ac
-          - 6a15022716f23264031d80ab
-          - 6a07fd9d4bdae0614e7aaecc
-          - 6a140c7216f23264031d7cd6
+          - 6a14319d16f23264031d7fbe
+          - 6a04565c86fcaaeb5bc83976
     - name: Heart
       description: heartwarming, love, feelings, wisdom
       source:
         type: filter
         category_ids:
-          - 6a00793d1104bbff809b7c38
-          - 6a00793d1104bbff809b7c65
+          - 6a00793e1104bbff809b7ce9
           - 6a00793e1104bbff809b7d77
-          - 6a00793d1104bbff809b7c53
+          - 6a00793e1104bbff809b7e03
+          - 6a00793e1104bbff809b7cd5
         tag_ids:
+          - 6a43b645b38c8d71670c62b9
           - 6a43b6f4b38c8d71670c62ed
           - 6a43b6f4b38c8d71670c62ef
-          - 6a0bc7cc16f23264031d7798
-          - 6a034d6286fcaaeb5bc834b1
-          - 6a033ab186fcaaeb5bc8332e
-          - 6a142ae016f23264031d7f39
-          - 6a14261f16f23264031d7ea2
+          - 6a2a54c27da23de6325b9ad8
+          - 6a04565c86fcaaeb5bc83976
+          - 6a9a5193fcf666506ffcee0d
+          - 6a044f3986fcaaeb5bc838c1
     - name: Mind
       source:
         type: filter
         category_ids:
           - 6a00793e1104bbff809b7d77
-          - 6a00793e1104bbff809b7d25
-          - 6a00793d1104bbff809b7c41
           - 6a00793e1104bbff809b7d87
+          - 6a00793e1104bbff809b7e03
         tag_ids:
-          - 6a033ab186fcaaeb5bc83330
+          - 6a033ab186fcaaeb5bc8332e
+          - 6a14319d16f23264031d7fbe
+          - 6a205326ad9a1dd21ebb66a0
+          - 6a04565c86fcaaeb5bc83976
+          - 6a140c5b16f23264031d7cc8
+          - 6a033f5c86fcaaeb5bc833b0
+          - 6a2a54c27da23de6325b9ad8
           - 6a034d6286fcaaeb5bc834b1
-          - 6a0b1f2ca53fcab94b3649d3
-          - 6a0b1f2fa53fcab94b3649d9
-          - 6a07fd9d4bdae0614e7aaecc
-          - 6a140c5b16f23264031d7cc3
   seo_keywords_focus: []
   content_guidelines:
+    - "good christian religious point of view, trust, belief, miracles everywhere ideology. "
     - 1. Emotional arc in every story - situation to resolution
     - 2. Real people, no politics, no celebrities
     - 3. Warm tone - no sarcasm, no shock
