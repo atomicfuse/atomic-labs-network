@@ -21,7 +21,7 @@ source_url: >-
 source_item_id: 6ac092dbd48419d1d7d2332c
 source_title: Professional Wrestling Is Stupid (And I Love It)
 generated_by: claude
-featuredImage: /assets/images/dramadispatch-general-article.webp
+featuredImage: /assets/images/professional-wrestling-is-stupid-and-thats-the-point.webp
 quality_score: 70
 score_breakdown:
   seo_quality: 68
@@ -38,6 +38,7 @@ quality_note: >-
 reading_time: 3
 topics:
   - Movie Reviews
+image_alt: Masked wrestler striking a flamboyant pose in a brightly lit ring
 ---
 A Medium essay titled "Professional Wrestling Is Stupid (And I Love It)" makes a simple case: sometimes the dumbest stuff is the most fun. Its thesis, as the piece frames it, is that wrestling's appeal lies in absurdity, spectacle and over-the-top storytelling rather than realistic competition. The "stupidity," in other words, is the point.
 

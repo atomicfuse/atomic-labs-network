@@ -20,7 +20,7 @@ source_url: 'https://www.vulture.com/article/kylie-jenner-bachelorette-weekend-t
 source_item_id: 6ac4875cce7701ccb2411ddf
 source_title: Kylie Jenner’s New Show Is Basically Pretty Little Liars
 generated_by: claude
-featuredImage: /assets/images/dramadispatch-general-article.webp
+featuredImage: /assets/images/kylie-jenner-hulu-bachelorette-weekend-pretty-little-liars.webp
 quality_score: 82
 score_breakdown:
   seo_quality: 80
@@ -37,6 +37,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - TV & Streaming
+image_alt: >-
+  Bridal veil draped over a director’s chair beside a screenplay in a moody
+  television-production setting.
 ---
 Kylie Jenner is headed to Hulu, and she is reportedly not making it out of the bachelorette party alive. Per Vulture, Jenner stars in a new series called *Bachelorette Weekend*, playing a bride who is murdered on her bachelorette trip. Her bridesmaids then become the suspects. Vulture's headline summed up the vibe neatly: it's basically *Pretty Little Liars*.
 
