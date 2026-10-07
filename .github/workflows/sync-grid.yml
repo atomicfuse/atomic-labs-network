@@ -1,6 +1,7 @@
 name: Sync Grid data to KV
 
-# Grid template: writes ONLY `network-directory` and `grid-summary:*` keys (prod + staging).
+# Grid template: writes ONLY `network-directory`, `grid-summary:*`, `grid-ext-item:*` and
+# `grid-ext-index:*` keys (prod + staging), plus publisher favicons in R2 (aggregator/assets/favicons/).
 # Independent of sync-kv.yml — never re-syncs a site. Every run always rebuilds the
 # network directory from latest main. Push runs sync only the summary files changed in
 # that push, so if a pending push run is evicted from the concurrency queue its summary
@@ -101,4 +102,6 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           KV_NAMESPACE_ID_PROD: ${{ secrets.KV_NAMESPACE_ID_PROD }}
           KV_NAMESPACE_ID_STAGING: ${{ secrets.KV_NAMESPACE_ID_STAGING }}
+          # Content Aggregator (Grid bundle stories). CONTENT_AGGREGATOR_URL is stale — never use it.
+          CONTENT_API_BASE_URL: https://content-aggregator-v2-34cd--atomic.cloudgrid.io
         run: pnpm exec tsx scripts/seed-grid.ts ${{ steps.changed.outputs.flag }}
