@@ -646,7 +646,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-06T14:58:40.532Z
+    last_updated: 2026-10-06T14:27:13.072Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -697,6 +697,26 @@ sites:
     status: Live
     vertical: Science
     zone_id: a771e6e2aa304793643cd3b059970d27
+    worker_pending_dns: false
+  - domain: sciencenewsdesk
+    cf_apo: false
+    company: null
+    created_at: 2026-10-07T11:03:10.260Z
+    custom_domain: sciencenewsdesk.com
+    exclusivity: null
+    fixed_ad: false
+    ga_info: null
+    last_updated: 2026-10-07T11:08:25.452Z
+    ob_epid: null
+    pages_project: null
+    pages_subdomain: null
+    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=sciencenewsdesk
+    saved_previews: null
+    site_id: "1370990260109"
+    staging_branch: staging/sciencenewsdesk
+    status: Live
+    vertical: Science
+    zone_id: 0eff0730df905f66ac5ef3af06cf73d0
     worker_pending_dns: false
   - domain: sciencenewslab
     cf_apo: false
@@ -1058,25 +1078,6 @@ sites:
     vertical: Healthy Living
     worker_pending_dns: false
     zone_id: 8a07bb95f686217de8d2eba14df9e49d
-  - domain: sciencenewsdesk
-    company: null
-    vertical: Science
-    status: Staging
-    site_id: "1370990260109"
-    exclusivity: null
-    ob_epid: null
-    ga_info: null
-    cf_apo: false
-    fixed_ad: false
-    last_updated: 2026-10-07T11:03:10.260Z
-    created_at: 2026-10-07T11:03:10.260Z
-    pages_project: null
-    pages_subdomain: null
-    zone_id: null
-    staging_branch: staging/sciencenewsdesk
-    preview_url: https://atomic-site-worker-staging.accounts-4a8.workers.dev/?_atl_site=sciencenewsdesk
-    saved_previews: null
-    custom_domain: null
 deleted:
   - domain: chaibeseret
     cf_apo: false
