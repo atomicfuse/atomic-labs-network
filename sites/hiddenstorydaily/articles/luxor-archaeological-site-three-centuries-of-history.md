@@ -19,7 +19,7 @@ source_url: 'https://www.popsci.com/science/300-years-of-mummies-egypt-tomb/'
 source_item_id: 6a83eb82e708087cf6dd1dd5
 source_title: 300 years of mummies found in ancient Egyptian tomb
 generated_by: claude
-featuredImage: /assets/images/hiddenstorydaily-general-article.webp
+featuredImage: /assets/images/luxor-archaeological-site-three-centuries-of-history.webp
 quality_score: 73
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 4
 topics:
   - Ancient Mysteries
+image_alt: >-
+  Interpretive reconstruction of layered linen-wrapped mummies and a small dog
+  arranged inside an ancient tomb.
 ---
 Not far from Luxor, in a chamber most of the world has never heard of, the dead were stacked on top of one another for roughly three centuries. For a long time, that kind of crowding looked like neglect. A new study says the opposite: someone was keeping track.
 

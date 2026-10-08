@@ -19,7 +19,7 @@ source_url: 'https://phys.org/news/2026-10-collar-sensor-reveal-wildfire-affects
 source_item_id: 6ac72804ce7701ccb2411ee1
 source_title: New collar sensor could reveal how wildfire smoke affects animal health
 generated_by: claude
-featuredImage: /assets/images/hiddenstorydaily-general-article.webp
+featuredImage: /assets/images/smoke-logger-collar-tracks-deer-environment.webp
 quality_score: 60
 score_breakdown:
   seo_quality: 72
@@ -36,6 +36,9 @@ quality_note: >-
 reading_time: 3
 topics:
   - Unexplained Events
+image_alt: >-
+  Mule deer wearing a research collar stands in a meadow beneath layers of
+  wildfire smoke.
 ---
 When wildfire smoke fills the sky, you can close the windows, run a purifier, and wait it out. The animals living in the burned country cannot. By the end of this piece, you'll know what a new collar sensor is revealing about the hidden exposure wildlife endure, and why the early numbers are unsettling.
 
