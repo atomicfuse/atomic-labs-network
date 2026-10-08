@@ -96,8 +96,8 @@ brief:
   content_guidelines:
     - storytelling and engaging, 1 person pov. dana is the writer
   image_guidelines: null
-  vertical: Travel
-  vertical_id: 6a00793d1104bbff809b7c7a
+  vertical: Communication
+  vertical_id: 6a00793d1104bbff809b7c26
   review_percentage: 5
   schedule:
     articles_per_day: 1
@@ -126,7 +126,7 @@ layout:
   load_more:
     page_size: 4
 scripts_vars: null
-site_name: dana around the world
+site_name: Buzzer
 site_tagline: null
 theme:
   base: pink_glow
