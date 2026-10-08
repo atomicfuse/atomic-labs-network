@@ -173,9 +173,17 @@ jobs:
     # that is the actual race (concurrent bulk-puts to article-index:<site>).
     # Different sites are independent and must run in parallel; serialising
     # them across sites is what caused the mass-cancellation described above.
+    #
+    # staging/*: a newer push CANCELS the running sync. Every run re-seeds the
+    # whole site from its own (newer) commit, so a cancelled half-done run is
+    # completed by the one replacing it. Without this, a burst of commits (one
+    # n8n hero-image commit per article) left the preview waiting for an
+    # already-outdated run to finish before the newest one could start —
+    # staging lagged production by minutes. main keeps finishing first: it is
+    # what visitors see, and it only gets one commit per publish.
     concurrency:
       group: sync-kv-${{ github.ref_name }}-${{ matrix.site }}
-      cancel-in-progress: false
+      cancel-in-progress: ${{ startsWith(github.ref_name, 'staging/') }}
     strategy:
       fail-fast: false
       matrix:
