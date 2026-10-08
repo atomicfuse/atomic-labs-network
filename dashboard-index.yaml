@@ -127,7 +127,7 @@ sites:
     exclusivity: null
     fixed_ad: false
     ga_info: null
-    last_updated: 2026-10-08T08:27:31.441Z
+    last_updated: 2026-10-08T09:38:13.147Z
     ob_epid: null
     pages_project: null
     pages_subdomain: null
@@ -136,7 +136,7 @@ sites:
     site_id: "1448051441815"
     staging_branch: staging/dailywonderlab
     status: Live
-    vertical: Everyday Science Mysteries
+    vertical: ""
     zone_id: 9d07de49f8dab9a8b9f50ab1b9b22a6c
     worker_pending_dns: false
   - domain: danatest
