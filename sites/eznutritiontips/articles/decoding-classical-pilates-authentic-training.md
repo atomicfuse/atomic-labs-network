@@ -1,11 +1,9 @@
 ---
-title: 'Decoding Classical Pilates: How to Find Authentic Training'
-description: >-
-  Learn how to differentiate authentic Pilates training from marketing hype and
-  find a qualified instructor in your area.
+title: "Decoding Classical Pilates: How to Find Authentic Training"
+description: Learn how to differentiate authentic Pilates training from marketing hype and find a qualified instructor in your area.
 type: how-to
-status: review
-publishDate: '2026-07-19'
+status: published
+publishDate: 2026-07-19
 author: Ben Rivera
 tags:
   - Healthy Recipes
@@ -13,18 +11,10 @@ tags:
   - Fitness
   - Authenticity
 slug: decoding-classical-pilates-authentic-training
-reviewer_notes: >-
-  This article is a poor fit for eznutritiontips — it covers Pilates/fitness
-  with no connection to nutrition, healthy recipes, or food content, contains a
-  notable factual error (Romana Kryzanowska is incorrectly described as a
-  'protégé of Picasso Pilates'), and the tags and topic are entirely misaligned
-  with the site's editorial focus.
-source_url: >-
-  https://www.globenewswire.com/news-release/2026/07/17/3329219/0/en/lifespan-pilates-launches-pilates-roots-the-living-lineage-of-the-work-joseph-pilates-called-contrology.html
+reviewer_notes: Approved via review queue.
+source_url: https://www.globenewswire.com/news-release/2026/07/17/3329219/0/en/lifespan-pilates-launches-pilates-roots-the-living-lineage-of-the-work-joseph-pilates-called-contrology.html
 source_item_id: 6a5b0aa944aa283a1d0e44e7
-source_title: >-
-  LifeSpan Pilates Launches Pilates Roots: The living lineage of the work Joseph
-  Pilates called Contrology.
+source_title: "LifeSpan Pilates Launches Pilates Roots: The living lineage of the work Joseph Pilates called Contrology."
 generated_by: openai
 featuredImage: /assets/images/decoding-classical-pilates-authentic-training.webp
 quality_score: 39
@@ -34,18 +24,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 30
   keyword_relevance: 15
-quality_note: >-
-  This article is a poor fit for eznutritiontips — it covers Pilates/fitness
-  with no connection to nutrition, healthy recipes, or food content, contains a
-  notable factual error (Romana Kryzanowska is incorrectly described as a
-  'protégé of Picasso Pilates'), and the tags and topic are entirely misaligned
-  with the site's editorial focus.
+quality_note: This article is a poor fit for eznutritiontips — it covers Pilates/fitness with no connection to nutrition, healthy recipes, or food content, contains a notable factual error (Romana Kryzanowska is incorrectly described as a 'protégé of Picasso Pilates'), and the tags and topic are entirely misaligned with the site's editorial focus.
 reading_time: 3
 topics:
   - Special Diets
-image_alt: >-
-  Classic Pilates equipment and archival training materials in a calm, sunlit
-  studio
+image_alt: Classic Pilates equipment and archival training materials in a calm, sunlit studio
 ---
 LifeSpan Pilates has recently launched 'Pilates Roots', an important educational resource that sheds light on the authentic history and principles of Joseph Pilates' method, known as Contrology. With the rise in popularity of Pilates, the term "classical Pilates" has become a frequent buzzword, often used without consistent standards. This presents a challenge for enthusiasts seeking genuine instruction and a legitimate lineage in their Pilates journey.
 
