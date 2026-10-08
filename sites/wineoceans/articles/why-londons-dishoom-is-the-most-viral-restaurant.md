@@ -1,11 +1,9 @@
 ---
 title: Why London's Dishoom Is The Most Viral Restaurant in the World
-description: >-
-  Discover why Dishoom in London is ranked the most viral restaurant globally,
-  exploring what makes it a favorite among travelers.
+description: Discover why Dishoom in London is ranked the most viral restaurant globally, exploring what makes it a favorite among travelers.
 type: standard
-status: review
-publishDate: '2026-10-04'
+status: published
+publishDate: 2026-10-04
 author: Andrew Perry
 tags:
   - Wine news
@@ -14,17 +12,10 @@ tags:
   - Tripadvisor
   - foodie destinations
 slug: why-londons-dishoom-is-the-most-viral-restaurant
-reviewer_notes: >-
-  The article is off-topic for a wine-focused site, covering a restaurant trend
-  story with no wine content, below target word count, and while reasonably
-  written, it fails to align with the site's core editorial focus on wine news,
-  tips, reviews, or recipes.
-source_url: >-
-  https://www.forbes.com/sites/melissakravitz/2026/09/28/these-are-the-best-restaurants-in-the-world-according-to-travelers/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/melissakravitz/2026/09/28/these-are-the-best-restaurants-in-the-world-according-to-travelers/
 source_item_id: 6abb1ba45b22be6773eca251
-source_title: >-
-  These Are The Best Restaurants In The World, According To Travelers On
-  Tripadvisor
+source_title: These Are The Best Restaurants In The World, According To Travelers On Tripadvisor
 generated_by: openai
 featuredImage: /assets/images/why-londons-dishoom-is-the-most-viral-restaurant.webp
 quality_score: 53
@@ -34,17 +25,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 62
   keyword_relevance: 30
-quality_note: >-
-  The article is off-topic for a wine-focused site, covering a restaurant trend
-  story with no wine content, below target word count, and while reasonably
-  written, it fails to align with the site's core editorial focus on wine news,
-  tips, reviews, or recipes.
+quality_note: The article is off-topic for a wine-focused site, covering a restaurant trend story with no wine content, below target word count, and while reasonably written, it fails to align with the site's core editorial focus on wine news, tips, reviews, or recipes.
 reading_time: 3
 topics:
   - Wine tips
-image_alt: >-
-  A richly lit Indian meal at a lively London cafe as diners photograph the
-  dining experience
+image_alt: A richly lit Indian meal at a lively London cafe as diners photograph the dining experience
 ---
 In an age where social media and traveler experiences dictate dining trends, Dishoom in London has emerged as a global sensation, capturing the title of the most viral restaurant worldwide according to Tripadvisor. This reputation extends beyond just food; it reflects a perfect blend of atmosphere, branding, and communal dining culture that resonates with globetrotters.
 

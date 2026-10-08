@@ -1,11 +1,9 @@
 ---
 title: Top 7 Must-Try Costa Rican Dishes for Food Adventure Seekers
-description: >-
-  Discover seven essential dishes you must try in Costa Rica, highlighting fresh
-  ingredients and local flavors.
+description: Discover seven essential dishes you must try in Costa Rica, highlighting fresh ingredients and local flavors.
 type: standard
-status: review
-publishDate: '2026-09-27'
+status: published
+publishDate: 2026-09-27
 author: Andrew Perry
 tags:
   - Wine for beginners
@@ -14,15 +12,10 @@ tags:
   - seafood
   - batido
 slug: must-try-costa-rican-dishes
-reviewer_notes: >-
-  This article is entirely off-topic for a wine-focused site — covering Costa
-  Rican food travel with no wine content — resulting in very low keyword
-  relevance, and at 495 words it falls short of the target length.
-source_url: 'https://www.afar.com/magazine/the-best-costa-rican-food'
+reviewer_notes: Approved via review queue.
+source_url: https://www.afar.com/magazine/the-best-costa-rican-food
 source_item_id: 6ab42fc33391fdf402cd9b46
-source_title: >-
-  From Fried Snacks to Fruit Smoothies, These Are the 12 Foods You Have to Eat
-  in Costa Rica
+source_title: From Fried Snacks to Fruit Smoothies, These Are the 12 Foods You Have to Eat in Costa Rica
 generated_by: openai
 featuredImage: /assets/images/must-try-costa-rican-dishes.webp
 quality_score: 52
@@ -32,16 +25,11 @@ score_breakdown:
   content_length: 60
   factual_accuracy: 78
   keyword_relevance: 20
-quality_note: >-
-  This article is entirely off-topic for a wine-focused site — covering Costa
-  Rican food travel with no wine content — resulting in very low keyword
-  relevance, and at 495 words it falls short of the target length.
+quality_note: This article is entirely off-topic for a wine-focused site — covering Costa Rican food travel with no wine content — resulting in very low keyword relevance, and at 495 words it falls short of the target length.
 reading_time: 2
 topics:
   - Wine for beginners
-image_alt: >-
-  A Costa Rican casado surrounded by ceviche, gallo pinto, patacones, and
-  tropical foods on a rustic table.
+image_alt: A Costa Rican casado surrounded by ceviche, gallo pinto, patacones, and tropical foods on a rustic table.
 ---
 Costa Rica’s culinary scene is rich with fresh ingredients and local traditions. If you’re planning a trip to this stunning country, there are several dishes you shouldn’t miss. Here’s a guide to seven must-try foods that capture the essence of Costa Rican cuisine.
 

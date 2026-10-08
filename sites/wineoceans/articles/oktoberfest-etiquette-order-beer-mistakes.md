@@ -1,11 +1,9 @@
 ---
-title: 'Oktoberfest Etiquette: How to Order Beer and Avoid Common Mistakes'
-description: >-
-  Before you head to Oktoberfest, uncover essential tips on ordering beer and
-  avoiding etiquette blunders to enhance your experience.
+title: "Oktoberfest Etiquette: How to Order Beer and Avoid Common Mistakes"
+description: Before you head to Oktoberfest, uncover essential tips on ordering beer and avoiding etiquette blunders to enhance your experience.
 type: how-to
-status: review
-publishDate: '2026-10-04'
+status: published
+publishDate: 2026-10-04
 author: Andrew Perry
 tags:
   - Wine tips
@@ -13,13 +11,8 @@ tags:
   - beer etiquette
   - travel tips
 slug: oktoberfest-etiquette-order-beer-mistakes
-reviewer_notes: >-
-  This article is fundamentally misaligned with wineoceans.com's wine-focused
-  editorial scope, covering Oktoberfest beer etiquette instead of wine topics,
-  making it largely irrelevant despite being reasonably well-structured and
-  factually sound.
-source_url: >-
-  https://www.forbes.com/sites/hudsonlindenberger/2026/09/28/going-to-oktoberfest-the-beer-etiquette-every-visitor-should-know/
+reviewer_notes: Approved via review queue.
+source_url: https://www.forbes.com/sites/hudsonlindenberger/2026/09/28/going-to-oktoberfest-the-beer-etiquette-every-visitor-should-know/
 source_item_id: 6abb1ba45b22be6773eca248
 source_title: Going To Oktoberfest? The Beer Etiquette Every Visitor Should Know
 generated_by: openai
@@ -31,17 +24,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 78
   keyword_relevance: 20
-quality_note: >-
-  This article is fundamentally misaligned with wineoceans.com's wine-focused
-  editorial scope, covering Oktoberfest beer etiquette instead of wine topics,
-  making it largely irrelevant despite being reasonably well-structured and
-  factually sound.
+quality_note: This article is fundamentally misaligned with wineoceans.com's wine-focused editorial scope, covering Oktoberfest beer etiquette instead of wine topics, making it largely irrelevant despite being reasonably well-structured and factually sound.
 reading_time: 3
 topics:
   - Wine reviews
-image_alt: >-
-  Visitor receives a beer at a shared Oktoberfest table while neighboring guests
-  make room.
+image_alt: Visitor receives a beer at a shared Oktoberfest table while neighboring guests make room.
 ---
 As you prepare for Oktoberfest in Munich, understanding the unspoken rules of the festival can significantly enhance your experience. Knowing the proper etiquette enables you to mingle comfortably and enjoy the world-famous beer tents to the fullest. Here’s a guide to help you navigate the dos and don’ts of Oktoberfest beer etiquette, including how to order beer correctly and avoid common pitfalls that tourists often make.
 
