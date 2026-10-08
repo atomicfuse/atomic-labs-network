@@ -1,11 +1,9 @@
 ---
 title: Digital Health Strategy Doubles Heart Failure Treatment Implementation Rates
-description: >-
-  A new trial reveals that digital outreach can significantly improve treatment
-  rates for heart failure patients, addressing a crucial healthcare gap.
+description: A new trial reveals that digital outreach can significantly improve treatment rates for heart failure patients, addressing a crucial healthcare gap.
 type: standard
-status: review
-publishDate: '2026-09-02'
+status: published
+publishDate: 2026-09-02
 author: Alex Long
 tags:
   - Children’s Health
@@ -13,17 +11,10 @@ tags:
   - patient-engagement
   - medication-adherence
 slug: digital-health-strategy-heart-failure-treatment
-reviewer_notes: >-
-  This article is entirely off-topic for babyparenttrends, covering adult heart
-  failure clinical trials rather than parenting, baby care, pregnancy, or
-  children's health, making it a near-complete mismatch for the site's editorial
-  focus and audience.
-source_url: >-
-  https://medicalxpress.com/news/2026-08-digital-strategy-patients-heart-failure.html
+reviewer_notes: Approved via review queue.
+source_url: https://medicalxpress.com/news/2026-08-digital-strategy-patients-heart-failure.html
 source_item_id: 6a966081feed8e57e04e52db
-source_title: >-
-  Digital strategy helps patients with heart failure to receive proven
-  medication
+source_title: Digital strategy helps patients with heart failure to receive proven medication
 generated_by: openai
 featuredImage: /assets/images/digital-health-strategy-heart-failure-treatment.webp
 quality_score: 38
@@ -33,17 +24,11 @@ score_breakdown:
   content_length: 72
   factual_accuracy: 60
   keyword_relevance: 8
-quality_note: >-
-  This article is entirely off-topic for babyparenttrends, covering adult heart
-  failure clinical trials rather than parenting, baby care, pregnancy, or
-  children's health, making it a near-complete mismatch for the site's editorial
-  focus and audience.
+quality_note: This article is entirely off-topic for babyparenttrends, covering adult heart failure clinical trials rather than parenting, baby care, pregnancy, or children's health, making it a near-complete mismatch for the site's editorial focus and audience.
 reading_time: 3
 topics:
   - Children’s Health
-image_alt: >-
-  Smartphone and tablet with abstract heart data beside a stethoscope in a
-  softly lit clinic.
+image_alt: Smartphone and tablet with abstract heart data beside a stethoscope in a softly lit clinic.
 ---
 Heart failure remains a significant public health concern, affecting over 64 million individuals worldwide. Alarmingly, despite the availability of effective therapies like SGLT2 inhibitors, many patients aren’t receiving the treatment they need. However, a new trial, known as EMAIL-HF, demonstrates a promising approach to bridge this treatment gap through a digital health strategy.
 
