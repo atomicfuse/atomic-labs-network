@@ -121,7 +121,7 @@ brief:
     factual_accuracy: 20
     keyword_relevance: 20
 groups:
-  - ready
+  - atl
 iab_vertical_code: null
 layout:
   hero:
