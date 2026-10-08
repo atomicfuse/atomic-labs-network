@@ -4,7 +4,7 @@ author: Ella Hughes
 brief:
   audiences: []
   audience_type_ids: []
-  tone: Engaging, friendly, conversational
+  tone: "Engaging, friendly, conversational, personal "
   article_types:
     listicle: 40
     standard: 30
@@ -195,8 +195,8 @@ theme:
     heading: Bebas Neue
     body: Poppins
   logo_height_footer: 86
-  logo: /assets/logo-e281fe2892.png
-  favicon: /assets/favicon-8a5dde50cf.png
+  logo: /assets/logo-436e275da0.png
+  favicon: /assets/favicon-c94f3b3bea.png
 tracking:
   ga4: G-9QRW2MVXMM
   gtm: GT-K8HXGXZC
